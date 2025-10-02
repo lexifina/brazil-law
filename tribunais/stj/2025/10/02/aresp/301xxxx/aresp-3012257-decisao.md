@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por NOBRE SEGURADORA DO BRASIL S.A. - EM LIQUIDAÇÃO, TRANSPORTES E TURISMO ROSANA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 818):
+APELAÇÃO. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE. LESÕES SOFRIDAS POR PASSAGEIRO DE ÔNIBUS, MENOR DE IDADE. RELAÇÃO DE CONSUMO. SENTENÇA DE PROCEDÊNCIA QUE FIXA O DANO MORAL NO VALOR DE R$ 12.000,00 (DOZE MIL REAIS) E DETERMINA O CUSTEIO DE TRATAMENTO DENTÁRIO. CONDENAÇÃO SOLIDÁRIA DA EMPRESA TRANSPORTADORA E DA SEGURADORA. ELEMENTOS DE PROVA DOS AUTOS QUE SE MOSTRAM SUFICIENTES E ADEQUADOS PARA A COMPROVAÇÃO DOS FATOS E DO NEXO CAUSAL. INADIMPLEMENTO DA CLÁUSULA DE INCOLUMIDADE IMPLÍCITA NO CONTRATO DE TRANSPORTE. VÍTIMA QUE SOFRE LESÕES E TEM UM DENTE QUEBRADO EM RAZÃO DO ACIDENTE. TRAUMAS, ANGÚSTIA E ABORRECIMENTOS ANORMAIS DA VIDA DE RELAÇÃO. DANO MORAL ARBITRADO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. PEQUENA REFORMA DO JULGADO, APENAS PARA FAZER CONSTAR QUE EM RELAÇÃO À SEGURADORA DEVE SER OBSERVADA A SUSPENSÃO DOS JUROS DE MORA, NOS TERMOS DO ARTIGO 18, "D", DA LEI 6.024/74. CORREÇÃO MONETÁRIA. CABIMENTO DIANTE DA ALTERAÇÃO DO ARTIGO 18, "F", DA LEI 6.024/74 PROMOVIDA PELO DECRETO-LEI 1.417/76. PRIMEIRO RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SEGUNDO RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega ofensa ao art. 944 do CC e ao art. 8º do CPC, defendendo que o valor da indenização fixada está desproporcional em relação a extensão do dano moral.
+Foram oferecidas contrarrazões ao recurso especial (fls. 877-879).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 884-893), o que ensejou a interposição do presente agravo (fls. 897-904).
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da controvérsia consiste em verificar a adequação do valor referente a indenização por danos morais estipulado pelo Tribunal local.
+Em relação a essa questão, o Tribunal estadual se manifestou (fls. 824-825):
+Nesse contexto, tem-se que se mostrou correta a sentença ao julgar procedente a pretensão autoral de recebimento de indenização a título de dano moral e material (custeio de tratamento dentário).
+Quanto ao dano moral, ainda que felizmente o autor não tenha sofrido graves lesões físicas, é de se considerar o susto e a dor no momento do evento, a aflição sentida durante o atendimento hospitalar e a insegurança quanto à extensão dos danos advindos do impacto causado pelo acidente, tudo isto consubstancia transtornos que extrapolam os limites da normalidade. É de se destacar que o evento vivenciado pelo autor toma maiores contornos diante do fato de que à época do acidente se encontrava com apenas 8 (oito) anos de idade. Assim, não há dúvida de que as situações vivenciadas pelo passageiro justificam a reparação moral, que foi bem lançada na sentença e merece prestígio.
+Cabe acrescentar que o menor de idade sofre desde a data do evento com a repercussão negativa que o acidente lhe causou, em razão de um dente quebrado na região frontal de sua boca, ou seja, vive desde o final da infância e toda a adolescência com esse trauma, pois, passados tantos anos, a empresa jamais se prontificou a oferecer qualquer ajuda.
+Nesse contexto, conclui-se que a indenização foi corretamente fixada em R$ 12.000,00 (doze mil reais), não merecendo prosperar a pretensão alternativa sustentada por ambos os recorrentes de redução do valor.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo.
+A respeito do quantum indenizatório a título de danos morais, a revisão por esta Corte exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+No mesmo sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. NEGATIVA DE COBERTURA. ABUSIVIDADE. RECUSA INDEVIDA. DANOS MORAIS. CABIMENTO. INDENIZAÇÃO. QUANTIA FIXADA. REDUÇÃO. IMPOSSIBILIDADE. VALOR RAZOÁVEL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É abusiva a negativa pelo plano de saúde de fornecimento dos serviços de assistência médica nas situações de urgência ou emergência, caracterizando injusta recusa de cobertura que enseja indenização por danos morais.
+2. Para rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que não houve recusa indevida de cobertura pelo plano de saúde, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável em virtude da incidência da Súmula nº 7/STJ.
+3. O caso concreto não comporta a excepcional revisão pelo Superior Tribunal de Justiça do valor da indenização, arbitrado em R$ 10.000, 00 (dez mil reais), pois não se revela exorbitante para reparar o dano moral decorrente da recusa indevida de cobertura do tratamento médico (Súmula nº 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.761.705/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. INSTITUIÇÃO DE ENSINO. INDENIZAÇÃO POR DANOS MORAIS. ALUNO. PARTICIPAÇÃO. VIAGEM. NÃO AUTORIZAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO. OCORRÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. DANOS MORAIS. VALOR. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. No caso, rever a conclusão do tribunal de origem, com entendimento que restou configurada a responsabilidade civil da instituição de ensino devido aos danos sofridos pelo aluno, por falha na prestação de serviço educacional, esbarra no óbice da Súmula nº 7/STJ.
+3. O caso concreto não comporta a excepcional revisão do Superior Tribunal de Justiça do valor da indenização, arbitrado em R$ 10.000, 00 (dez mil reais), pois não se revela exorbitante para reparar o dano moral decorrente da falha na prestação dos serviços. (Súmula nº 7/STJ)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.651.719/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. CADASTRO DE INADIMPLENTE. INSCRIÇÃO INDEVIDA. VALOR INDENIZATÓRIO RAZOÁVEL. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A apontada violação ao art. 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. O colegiado estadual concluiu pela responsabilização civil da ora agravante em razão da inscrição indevida perpetrada. Dessa forma, concluir em sentido contrário implicaria revolvimento do conjunto fático-probatório dos autos, procedimento vedado no âmbito do recurso especial, permanecendo incólume a Súmula n. 7/STJ.
+3. A jurisprudência desta Corte é no sentido de que a revisão do valor arbitrado para a indenização por danos morais encontra óbice na Súmula n. 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante.
+3.1. No presente caso, em que a indenização pelos danos morais foi arbitrada em R$ 10.000,00 (dez mil reais), não se verifica a exorbitância que justificaria a sua revisão, devendo ser ratificada a incidência da Súmula n. 7/STJ, a obstaculizar o conhecimento do recurso.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.024.260/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+Conforme se nota, no caso dos autos, o valor fixado para a indenização por danos morais não se mostra excessivo a justificar a excepcional intervenção desta Corte no presente feito.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
