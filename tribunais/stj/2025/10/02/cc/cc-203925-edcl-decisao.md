@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por CONTAX S/A, atual denominação de LIQ CORP S. A, integrante do GRUPO ATMA - EM RECUPERAÇÃO JUDICIAL, contra a decisão que não conheceu do conflito de competência, porquanto a suscitante quedou-se inerte em cumprir a determinação de juntada de documentos hábeis a comprovar a caracterização do alegado conflito de competência, sob os moldes por ela estabelecidos (na fl. 704).
+A parte embargante afirma que, "na decisão, o Ministro deixou de conhecer o Conflito de Competência por alegar ausência de provas sobre a extraconcursalidade ou não das verbas honorárias", mas que, todavia, "ao contrário do que entendeu a autoridade, não trata-se de liberação dos valores pagar verbas honorárias, mas sim para um abatimento do valor total da execução. Por tal razão, inexiste qualquer documento a ser juntado/cópia de sentença na forma indicada pelo I. Relator" (na fl. 708).
+Requer o acolhimento dos embargos de declaração.
+É o relatório.
+Passo a decidir.
+Os embargos de declaração não merecem acolhida.
+Deveras, a decisão do d. Juízo do Trabalho suscitado, juntada na inicial do presente incidente processual, foi passada do seguinte molde:
+"A Juíza do Trabalho em exercício na 4 a Vara do Trabalho de Niterói, no uso das suas atribuições legais, DETERMINA à Caixa Econômica Federal S/A, agência 2732, que, à vista do presente efetue a transferência da importância de R$ 8.183,06 (Oito mil, cento e oitenta e três reais e seis centavos), com os respectivos acréscimos legais a partir da data do depósito, do montante depositado à disposição deste Juízo, conforme guia de depósito abaixo indicada, colocando-o à disposição do(a) advogado do(a) reclamante RALF R RIGO SOCIEDADE INDIVIDUAL DE ADVOCACIA, CNPJ /MF sob o n.º 28.771.650/0001-50 mediante depósito no Banco Bradesco S/A, Agencia 0309, Conta poupança jurídica - 1032935-3"
+A decisão embargada, analisando a decisão acima transcrita, concluiu tratar-se de liberação de honorários advocatícios à Sociedade individual de advocacia RALF R RIGO, como parece ser óbvio, de modo que determinou ao suscitante para que juntasse documentos hábeis para a identificação da natureza dos créditos em evidência, se concursais ou não, a depender da data da decisão condenatória de honorários advocatícios.
+De sua vez, o embargante afirma que, o caso, "não trata de liberação dos valores pagar verbas honorárias, mas sim para um abatimento do valor total da execução. Por tal razão, inexiste qualquer documento a ser juntado/cópia de sentença na forma indicada pelo I. Relator" (na fl.708), sem procurar demonstrar, por outros, documentos, a necessária caracterização do conflito, porquanto os documentos presentes não são suficientes para tanto, ficando prejudicada a análise do presente conflito de competência.
+Ante o exposto, rejeito os embargos de declaração e declaro prejudicada a análise do presente conflito de competência.
+Publique-se.
+ EMENTA
