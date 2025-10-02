@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial em razão do Recurso Especial Repetitivo n. 1134186/RS, bem como o inadmitiu pela ausência de comprovação de ofensa aos arts. 9º, 98, 231, §1º, 829, 914 e 915 do CPC, além da incidência da Súmula n. 7 do STJ (fls. 244/247).
+O acórdão recorrido encontra-se assim ementado (fl. 117):
+AGRAVO DE INSTRUMENTO - Citação suprida diante do acordo celebrado acerca da dívida exequenda - Espólio do finado que foi representado no acordo pela sua inventariante - Ciência inequívoca operada - Princípios da instrumentalidade, aproveitamento dos atos processuais e da inexistência de nulidade sem prejuízo - Celebração de acordo incompatível com a pretensão de embargar a execução - Oportunidade para a defesa dos devedores preclusa - Decisão reformada em parte - Agravante pessoa jurídica que demonstrou sua insuficiência financeira para arcar com as verbas de sucumbência e custos do processo, ao contrário da pessoa física - Agravo de instrumento parcialmente provido para deferir a gratuidade à agravante pessoa jurídica.
+Os embargos de declaração foram rejeitados (fls. 177-180).
+Nas razões do recurso especial (fls. 183-196), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts 85, §1º, e 827, caput e §2º, do CPC/2015, sob a alegação de serem incabíveis os honorários de sucumbência aos quais o agravante foi condenado quando da impugnação à penhora, "porque são atípicos e porque a hipótese não consta do artigo 85, §1º do CPC ou do artigo 827 caput e §2º do CPC honorários de sucumbência" (fl. 193); e
+(ii) arts. 9º, 231, §1º (241, III do CPC/1973), 829 (652 do CPC/1973), 914 e 915 do CPC/2015, aduzindo a existência de nulidades processuais por falta de citação do executado e de seu espólio, uma vez que o processo foi suspenso pelo acordo feito. Contudo, com o inadimplemento do acordo, passou-se diretamente à penhora, sem oportunizar ao agravante oferecer embargos ou mesmo bens à penhora. Assim, requer "a citação do espólio de Elio Landolina, fazendo fluir assim o prazo do artigo 829 contra os recorrentes, em especial contra o espólio de Elio Landolina" (fl. 193).
+No agravo (fls. 250/259), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 278/285).
+É o relatório.
+Decido.
+Inicialmente, diante da declaração de hipossuficiência feita pelo agravante (e-STJ fl. 197-232) e não havendo nos autos elementos aptos a ilidir a presunção relativa desse ato, DEFIRO a assistência judiciária gratuita à agravante Simonetta Landolina Coppola, sem efeitos retroativos, nos termos da jurisprudência desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. EFEITOS EX NUNC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, MANTIDOS OS DEMAIS TERMOS DO ACÓRDÃO EMBARGADO.
+1. "Nos termos do § 3º do art. 99 do CPC/2015, presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural. Pedido de gratuidade da justiça deferido. Conforme a jurisprudência desta Corte Superior, os efeitos da concessão da referida benesse são "ex nunc", ou seja, não possuem efeito retroativo." (AgInt no AREsp 1532602/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19/11/2019).
+2. Embargos de declaração acolhidos, a fim de sanar a omissão apontada, para esclarecer que o benefício da assistência judiciária gratuita concedida opera-se com efeitos ex nunc, ressaltando-se que não se aplica a atos processuais pretéritos. Mantidos os demais termos do acórdão ora embargado.
+(EDcl no AgInt no AREsp 1379278/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/10/2020, DJe 16/10/2020.)
+No mais, o agravo não comporta provimento. Vejamos:
+(i) arts 85, §1º, e 827, caput e §2º, do CPC/2015:
+No que diz respeito à alegada ofensa aos arts. 85, § 1º, e 827, caput e § 2º, do CPC, foi negado seguimento ao especial, nos termos do art. 1.030, I, "b", do CPC, pois a Corte local decidiu a questão em conformidade com a tese definida no REsp repetitivo n. 1.134.186/RS. Interposto agravo interno contra a referida decisão, o recurso foi desprovido (fls. 269-273), de forma que tal questão está preclusa.
+(ii) arts. 9º, 231, §1º (241, III do CPC/1973), 829 (652 do CPC/1973), 914 e 915 do CPC/2015:
+O recorrente se insurge pelo fato de Élio Landolina não ter sido citado nos autos. Aduz que ele firmou acordo com o recorrido, o que ensejou a suspensão do processo. Com o descumprimento do acordo, esperava que o espólio de Élio Landolina fosse citado, o que não ocorreu, pois partiu-se para a penhora.
+Sobre o assunto, assim decidiu o juízo a quo (fl. 118):
+Acontece que os recorrentes já tiveram conhecimento inequívoco a respeito do processo, estando suprida a citação pelo seu comparecimento espontâneo.
+A ausência de citação restou suprida diante da menção no acordo acerca do
+conhecimento inequívoco da ação.
+Logo, com a comprovação inequívoca da ciência da parte, não há que se falar em necessidade de nova citação em ocorrendo o descumprimento do pactuado, já que alcançada a finalidade pretendida ainda que não tenha ocorrido citação. Este é o cerne dos princípios da instrumentalidade e do aproveitamento dos atos processuais.
+Contudo, a decisão que dispensa a citação da parte quando ela já veio aos autos e está ciente do processo está em consonância com a jurisprudência da Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1.  .. . 2. Conforme a remansosa jurisprudência do STJ, o comparecimento espontâneo do requerido supre a eventual ausência de citação, conforme o disposto no art. 214, § 1º, do CPC. 3. Ademais, a Corte local apurou que não houve prejuízo advindo da ausência de citação, pois, conforme afirmou o Tribunal de origem, antes mesmo que isso acontecesse, apresentou impugnação à fase de cumprimento de sentença" e "têm ciência de tudo quanto ocorreu na execução, inclusive do prazo para pagamento do débito". Dessarte, na esteira da iterativa jurisprudência desta Corte, não se anula ato processual, caso o vício formal não impeça seja atingida a sua finalidade. 3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 485.332/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/5/2014, DJe de 13/5/2014.)
+Havendo entendimento dominante acerca do tema, aplica-se ao caso o enunciado da Súmula n. 568 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao do agravo.
+Publique-se e intimem-se.
+ EMENTA
