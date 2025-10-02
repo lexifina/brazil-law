@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo apresentado por DUREN EQUIPAMENTOS INDUSTRIAIS LTDA. (em recuperação judicial) para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 87-90):
+Apelação. Execução fiscal. ISSQN e auto de infração. Exercício de 2015. Insurgência contra a condenação em honorários advocatícios. Ajuizamento de duas execuções fiscais referente à mesma certidão de dívida ativa. Extinção por litispendência. Princípio da causalidade. Inaplicabilidade do CPC, art. 90, § 4º. Norma que não incide sobre o apelante, autor do litígio. Verba honorária fixada de acordo com os critérios legais. Majoração, em grau recursal, para 11% sobre o valor da causa. CPC, art. 85, § 11.
+Recurso desprovido.
+Os embargos de declaração opostos não foram conhecidos (e-STJ, fl. 116-119).
+No recurso especial, alegou-se violação ao Tema 1.076/STJ, sem indicação clara de dispositivos legais específicos violados - (e-STJ, fls. 102-109).
+Argumenta que o acórdão recorrido contrariou o Tema 1.076/STJ, devendo ser aplicada a apreciação equitativa dos honorários quando o valor da causa for muito baixo ou o proveito econômico for inestimável/irrisório; afirma que o valor da causa (R$ 155.384,17) seria baixo, ensejando a fixação pelo critério equitativo (e-STJ, fls. 104-108).
+Contrarrazões não foram apresentadas, conforme atesta certidão de fl. 128 (e-STJ).
+O Tribunal estadual determinou o sobrestamento do feito até pronunciamento final da Suprema Corte acerca do Tema 1.255/STF (e-STJ, fl. 129-133), tendo a parte insurgente, contra essa decisão, interposto agravo em recurso especial (e-STJ, fl. 139).
+Brevemente relatado, decido.
+O agravo em recurso especial não comporta conhecimento.
+O Tribunal de origem não promoveu juízo de admissibilidade a respeito do recurso especial interposto, mas tão somente determinou o sobrestamento dos autos, em razão do reconhecimento de que a matéria objeto do recurso encontrava-se afetada à sistemática de repercussão geral, Tema 1.255/STF. Confira-se (e-STJ, fl. 129-133):
+De início, verifico que a presente controvérsia envolve discussão sobre o Tema 1.076, no qual a Corte Especial do Col. Superior Tribunal de Justiça decidiu pela impossibilidade de fixação de honorários de sucumbência por apreciação equitativa, na hipótese em que o valor da causa, da condenação ou do proveito econômico sejam elevados (REsps 1.850.512/SP, Tema 1.076 STJ, DJe de 31.05.2022).
+Contudo, a despeito desse entendimento, o Col. Supremo Tribunal Federal decidiu por revisitar a interpretação conferida por aquela Corte de Justiça ao art. 85, §§ 2º, 3º e 8º, do Código de Processo Civil, e reconhecer a existência da repercussão geral da questão constitucional referente a Honorários - Equidade - Valor - Elevado Tema nº 1.255 do STF, com a seguinte descrição:
+ ..
+Com isso, de rigor o sobrestamento do recurso especial interposto às fls. 102/9, nos termos do art. 1.035, § 5º, do Código de Processo Civil, com supedâneo no art. 1.030, inciso III, do referido diploma processual, até pronunciamento final da Suprema Corte acerca do Tema 1.255/STF.
+Ressalte-se que o Superior Tribunal de Justiça possui jurisprudência pacífica no sentido de que é incabível recurso contra decisão que apenas determina a suspensão do processo para aplicação da sistemática prevista no artigo 1.040 e seguintes do Código de Processo Civil, por se tratar de ato desprovido de conteúdo decisório e que não acarreta prejuízo às partes. Nesse sentido:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚM. 284/STF. PRETENSÃO DE REEXAME DA MATÉRIA JULGADA. IMPOSSIBILIDADE. NÃO CABIMENTO DE RECURSO CONTRA DECISÃO QUE DETERMINA A SUSPENSÃO DO PROCESSO PARA APLICAÇÃO DA SISTEMÁTICA DO ART. 1.040 E SEGUINTES DO CPC. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Embargos de declaração opostos por RGE Sul Distribuidora de Energia S.A. contra acórdão da 2ª Turma que chamou o feito à ordem para tornar sem efeito julgamentos anteriores e determinar o sobrestamento do processo na origem para oportunizar o juízo de conformação.
+II. Questão em discussão
+2. Nas razões recursais, o embargante alega que o acórdão embargado foi omisso ao desconsiderar o trânsito em julgado do recurso especial interposto pela CEEE-D.
+III. Razões de decidir
+3. Consoante preceitua o artigo 1.022 do Código de Processo Civil, o recurso de embargos de declaração, medida processual de contornos bastante rígidos, tem como pressuposto a existência na decisão embargada de omissão, contradição, obscuridade ou erro material.
+4. Na hipótese vertente, apesar de o embargante alegar ter havido omissão, não apontou onde no julgado há tese que foi suscitada, pleiteada, mas que não foi analisada pelo decisum ora impugnado. A deficiência na fundamentação recursal atrai a incidência do enunciado 284/STF.
+5. Os embargos de declaração não são cabíveis para reexaminar a matéria julgada em razão de mero inconformismo da parte. A questão apreciada pela 2ª Turma abordou toda a matéria necessária ao voto proferido pois, ao chamar o feito a ordem, o Colegiado deliberou que havia um vício tão grave no julgamento anterior que seria necessário desconstituí-lo para garantir a própria segurança jurídica.
+6. O Superior Tribunal de Justiça possui jurisprudência uniforme no sentido de que não é cabível recurso contra a decisão que apenas determina a suspensão do processo para aplicação da sistemática do art. 1.040 e seguintes do Código de Processo Civil, tendo em vista que se trata de ato sem conteúdo decisório e que não causa prejuízo às partes.
+IV. Dispositivo 7. Embargos de declaração não conhecidos. Determinação de imediato cumprimento da ordem de "retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que suspenda o feito até o julgamento final do Recurso Extraordinário 1.412.069/PR (Tema 1255/STF), e, após a publicação do acórdão paradigma proferido pelo Supremo Tribunal Federal, realize o juízo de adequação do caso concreto, em observância aos artigos 1.040 e 1.041, ambos do Código de Processo Civil ".
+(EDcl nos EDcl no AREsp n. 2.273.881/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO INTERNO. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA FINS DE JUÍZO DE RETRATAÇÃO OU CONFORMAÇÃO. ATO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. DISTINGUISHING. INEXISTÊNCIA. RECURSO NÃO CONHECIDO.
+1. Pedido de reconsideração recebido como agravo interno.
+2. "O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória e não acarreta prejuízo às partes, por isso, se trata de provimento irrecorrível" (AgInt no REsp 1.615.887/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/2/2019, DJe de 12/2/2019).
+3. O presente caso se enquadra na discussão a ser tratada no tema repetitivo 1.033/STJ, sendo cabível a determinação de retorno dos autos ao Tribunal de origem, que deverá promover o juízo de conformação.
+4. Agravo interno não conhecido.
+(RCD no REsp n. 1.867.745/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/6/2024, DJe de 7/6/2024.)
+Eventual petição de distinção, se cabível, deveria ser veiculada no âmbito do próprio Tribunal de origem, nos termos dos §§ 9º e 10 do art. 1.037 do CPC, o que não se verifica no caso. Não há possibilidade, pois, de submeter a referida decisão de sobrestamento ao crivo deste Superior Tribunal, na medida em que, mesmo que houvesse negativa de seguimento ao recurso especial interposto, com fundamento em precedente qualificado, a irresignação cabível seria o agravo interno, não o agravo em recurso especial. Observe-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+ ..
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.891.170/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/11/2022, DJe de 12/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL, CONFORME TEMA EM REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL PREVISTO NO ART. 1.042 DO CPC. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1. De acordo com o art. 1.030, § 2º, do CPC, contra a decisão do Tribunal a quo que nega seguimento ao recurso com base em recurso repetitivo só é cabível agravo interno. A interposição de agravo em recurso especial configura erro grosseiro, não sendo possível a aplicação da fungibilidade recursal ou instrumentalidade das formas.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.592.706/PI, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. 1. TEMA 1. 255/STF. DECISÃO DE SOBRESTAMENTO. 2. NÃO CABIMENTO DE RECURSO CONTRA DECISÃO QUE DETERMINA A SUSPENSÃO DO PROCESSO PARA APLICAÇÃO DA SISTEMÁTICA DO ART. 1.040 E SEGUINTES DO CPC. 3. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
