@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por SÉRGIO GOMES AYALA (SÉRGIO), na demanda em que contende com FRANCISCO DE ASSIS PAPPI (FRANCISCO), contra acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro RAUL ARAÚJO, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CITAÇÃO OCORRIDA ANTERIORMENTE À VIGÊNCIA DA LEI 11.232/2006 E ANTES DA PENHORA. TERMO INICIAL DO PRAZO. DATA DA INTIMAÇÃO DA PENHORA. BEM DE FAMÍLIA. APRESENTAÇÃO DE EMBARGOS À EXECUÇÃO. ADEQUAÇÃO DA VIA ELEITA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência desta Corte, "tendo em vista o disposto no art. 1.211 do CPC, que rege a aplicação da lei processual no tempo, o prazo para apresentação dos embargos à execução, na hipótese em que a Lei n. 11.382/2006 entrou em vigor após a citação da execução e antes da penhora, conta-se a partir da data da intimação da penhora, de acordo com regramento previsto na lei nova" (REsp 1.280.801/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 30/3/2015).
+2. A impenhorabilidade do bem de família, nas instâncias de origem, pode ser alegada a qualquer tempo e, mais do que isso, pode ser suscitada por simples petição. Precedentes.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento (e-STJ, fls. 1007/1008).
+Opostos embargos de declaração por SÉRGIO, foram eles rejeitados, à luz do art. 1.022 da Lei nº 13.105/2015 (CPC/2015), por ausência de omissão, contradição, obscuridade ou erro material (e-STJ, fl. 1034).
+O dissídio jurisprudencial submetido à análise da Segunda Seção se encontra em saber se o reconhecimento da intempestividade dos embargos à execução tem, ou não, o condão de obstar o magistrado de conhecer de questões veiculadas nos embargos intempestivos, ainda que se trate de matéria de ordem pública como a impenhorabilidade do bem de família.
+Sustentou o embargante que, enquanto o acórdão embargado da Quarta Turma reafirmou a possibilidade de arguição da impenhorabilidade do bem de família por simples petição e afastou a inadequação da via eleita nos embargos, com a seguinte fundamentação: "se a condição de bem de família do imóvel poderia ser arguida por mera petição, porque a impenhorabilidade à luz da Lei 8009/90 se trata de matéria de ordem pública (cognoscível a qualquer tempo e grau de jurisdição)  nada impede o seu conhecimento até mesmo de ofício pelo juiz.  também se poderia cogitar na aplicação da fungibilidade, conhecendo dos Embargos como Exceção de Pré Executividade" (e-STJ, fl. 1049), o acórdão paradigma da Terceira Turma, no AgInt no REsp nº 1.358.782/MG, afirmou que "o reconhecimento da intempestividade dos embargos à execução, a denotar a própria inexistência da via processual eleita, tem o condão de obstar o magistrado de conhecer de qualquer outra questão, ainda que de ordem pública" (e-STJ, fls. 1051 e 1063).
+Como paradigma, indicou-se o AgInt no REsp nº 1.358.782/MG, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 18/11/2019 (e-STJ, fls. 1044/1070).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+O dissídio jurisprudencial submetido à análise da Segunda Seção se encontra em saber se o reconhecimento da intempestividade dos embargos à execução tem, ou não, o condão de obstar o magistrado de conhecer de questões veiculadas nos embargos intempestivos, ainda que se trate de matéria de ordem pública como a impenhorabilidade do bem de família.
+A divergência não pode ser conhecida diante da ausência de similitude fática entre os acórdãos confrontados.
+O acórdão embargado tratou da arguição de impenhorabilidade do bem de família em embargos à execução intempestivos, enquanto o acórdão paradigma tratou da arguição de ilegitimidade da parte.
+Desse modo, não ficou configurada divergência de entendimento, apenas situação fática diversa analisada nos casos confrontados.
+Ademais, o acórdão embargado está em consonância com a jurisprudência atual do STJ de que a impenhorabilidade do bem de família, por ser matéria de ordem pública, pode ser alegada a qualquer tempo, o que permite sua análise ainda que os embargos à execução sejam intempestivos.
+A propósito, confira-se precedente atual da Terceira Turma no mesmo sentido do acórdão embargado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. IMPENHORABILIDADE DE BEM DE FAMÍLIA ALEGADA VIA EMBARGOS INTEMPESTIVOS. MATÉRIA DE ORDEM PÚBLICA. NÃO SUJEITA À PRECLUSÃO. POSSIBILIDADE DE SER ALEGADA A QUALQUER TEMPO, INCLUSIVE VIA SIMPLES PETIÇÃO, ATÉ A ARREMATAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A impenhorabilidade do bem de família, nas instâncias de origem, pode ser alegada a qualquer tempo e, mais do que isso, pode ser suscitada por simples petição. Precedentes.
+3. Assim, não parece razoável afirmar que o juiz de primeiro grau deveria ter recusado o exame dessa questão, apenas porque os embargos à execução manejados com esse objetivo foram protocolados depois do prazo legal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.919.207/ES, Relator Ministro MOURA RIBEIRO, Terceira Turma, j. 20/3/2023, DJe de 22/3/2023)
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de dissenso do acórdão embargado com a jurisprudência desta Corte Superior, bem como da ausência de similitude fática entre os acórdãos confrontados.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
