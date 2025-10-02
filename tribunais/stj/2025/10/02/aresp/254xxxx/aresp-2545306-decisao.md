@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED LONDRINA - COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que a pretensão do agravante busca apenas reinterpretar os elementos informativos que repercutiram na conclusão do julgamento, o que é vedado pela Súmula n. 7 do STJ, requerendo o desprovimento do agravo (fls. 474-477).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação de obrigação de fazer c/c indenização por danos materiais e morais com pedido de tutela de urgência.
+O julgado foi assim ementado (fl. 408):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAL E MORAL. - CONTRATO DE PLANO DE SAÚDE. PACIENTE DIAGNOSTICADO COM CIRROSE HEPÁTICA. HEMORRAGIA. PRESCRIÇÃO MÉDICA DE TRATAMENTO DE COLONOSCOPIA COM APLICAÇÃO DE COAGULADOR DE PLASMA DE ARGÔNIO PARA CAUTERIZAÇÃO DE ANGIECTASIAS. - PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. NÃO INCORPORAÇÃO DEVIDO A QUESTÕES FORMAIS. - PRESCRIÇÃO MÉDICA DEVIDAMENTE FUNDAMENTADA. EFETIVIDADE DO PROCEDIMENTO ATESTADA POR NOTA TÉCNICA DO NATJUS EM CASO ANÁLOGO. COBERTURA DEVIDA. - AÇÃO JULGADA PARCIALMENTE PROCEDENTE. SUCUMBÊNCIA RECÍPROCA. - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação do art.10, § 4º, da Lei n. 9.656/1998, pois sustenta que o rol de procedimentos da ANS é taxativo e que a cobertura de tratamentos não previstos no rol somente pode ser admitida em hipóteses excepcionais, mediante comprovação técnica e científica, o que não teria ocorrido no caso concreto.
+Aduz que o acórdão recorrido divergiu do entendimento do STJ sobre a exceção à taxatividade do rol da ANS ao entender pela inexistência de outra opção terapêutica e pela evidência cientifica do procedimento, com base exclusiva no laudo médico produzido pelo médico assistente.
+Requer o provimento do recurso para reformar o acórdão recorrido, reconhecendo a legalidade da negativa de cobertura do procedimento solicitado.
+Nas contrarrazões, a parte recorrida aduz que o procedimento solicitado é o único eficaz para o tratamento da patologia do autor, conforme laudo médico, e que a negativa de cobertura é abusiva, requerendo o desprovimento do recurso especial (fls. 441-447).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de obrigação de fazer c/c indenização por danos materiais e morais com pedido de tutela de urgência em que a parte autora pleiteou a cobertura do procedimento de colonoscopia com aplicação de plasma de argônio, o reembolso dos valores pagos e a condenação da ré ao pagamento de indenização por danos morais, cujo valor da causa é de R$ 13.840,00.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos para determinar a cobertura do procedimento solicitado, condenar a ré ao reembolso de R$ 1.920,00, corrigidos pelo IPCA-E e acrescidos de juros de mora, e fixar honorários advocatícios em 10% sobre o valor atualizado da causa.
+A Corte estadual reformou parcialmente a sentença para reconhecer a sucumbência recíproca, condenando cada parte ao pagamento de 50% das custas e honorários advocatícios, mantidos em 10% sobre o valor atualizado da causa.
+I - Art. 10, § 4º, da Lei n. 9.656/1998
+No recurso especial, a parte recorrente alega que o rol de procedimentos da ANS é taxativo e que a cobertura de tratamentos não previstos no rol somente pode ser admitida em hipóteses excepcionais, mediante comprovação técnica e científica, o que não teria ocorrido no caso concreto.
+A Corte estadual concluiu que, embora o procedimento não conste no rol da ANS, sua cobertura é devida, pois a situação do autor se enquadra no parâmetro elencado pelo §13 do art. 10 da Lei n. 14.454/2022 e no decidido pelo STJ a respeito da taxatividade mitigada do rol da ANS, obrigando a operadora de saúde a custear o procedimento de aplicação de plasma de argônio por colonoscopia.
+A Quarta Turma do STJ, no julgamento do REsp n. 1.733.013/PR, firmou o entendimento de que o rol da ANS não pode ser considerado exemplificativo.
+Posteriormente, a Segunda Seção do STJ, no julgamento dos EREsps n. 1.886.929/SP e 1.889.704/SP, consolidou orientação no sentido da taxatividade mitigada do rol de procedimentos e eventos em saúde suplementar da ANS, admitindo flexibilização em situações excepcionais, cabalmente demonstradas.
+Colhe-se do julgamento o seguinte excerto:
+1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Diante desse entendimento, a necessidade de cobertura de procedimentos ou medicamentos não previstos no rol da ANS deve ser analisada em cada caso, podendo ser admitida de forma excepcional, desde que esteja amparada em critérios técnicos.
+No caso, a Corte a quo, analisando as peculiaridades do caso concreto, aferiu a presença de circunstâncias excepcionais, quais sejam: nota técnica favorável do Natjus, a ausência de outra opção terapêutica e a evidência científica do procedimento.
+Desse modo, o entendimento adotado pelo Tribunal de origem encontra-se em harmonia com a jurisprudência do STJ.
+Incide, pois, a Súmula n.83 do STJ.
+Ademais, como visto, o Tribunal a quo analisou a controvérsia fundamentando-se nos requisitos para a mitigação d o rol da ANS. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
