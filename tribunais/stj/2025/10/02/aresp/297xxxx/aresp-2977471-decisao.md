@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 1.022, I e II, do CPC e (b) aplicação das Súmulas n. 7 do STJ (fls. 633-639).
+O acórdão recorrido está assim ementado (fl. 535):
+APELAÇÕES CÍVEIS. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. SERVIÇO DE TRANSPORTE FERROVIÁRIO. USUÁRIO QUE FAZ USO DE CADEIRA DE RODAS. OBRAS DE ACESSIBILIDADE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO QUANTO AO PEDIDO DE OBRIGAÇÃO DE FAZER, POR SER OBJETO DE AÇÃO CIVIL PÚBLICA. SENTENÇA DE PROCEDÊNCIA DO PLEITO INDENIZATÓRIO. INDENIZAÇÃO DE R$ 3.000,00 POR DANOS MORAIS. RECURSO DO RÉU. ALEGAÇÃO DE ILEGITIMIDADE AD CAUSAM DA AUTORA. NÃO OCORRÊNCIA. PRETENSÃO AO EXERCÍCIO DE DIREITO INDIVIDUAL. CONHECIMENTO DE PARTE DA MATÉRIA EM AÇÃO COLETIVA QUE NÃO PREJUDICA O EXAME DO SEGUNDO PEDIDO. AUSÊNCIA DE NULIDADE DA SENTENÇA POR ERROR IN PROCEDENDO. RECURSO DA AUTORA PELA MAJORAÇÃO DA CONDENAÇÃO. VALOR CORRETAMENTE FIXADO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. PRECEDENTES DESTE TJRJ. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (fls. 589-591).
+Nas razões do recurso especial (fls. 597-616), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 128, 329, I, 489, § 1º, IV, 492 e 1.022, II, do CPC, alegando "que em nenhum momento foi analisada a condição de passageiro do recorrido. A ausência de análise de condição de usuário da estação Santíssimo acarreta omissão no acórdão embargado" (fl. 613),
+(ii) arts. 313, V, "a", e 327 do CPC e 81, parágrafo único, I e II, do CDC, por entender que, "havendo extinção da obrigação de fazer, exatamente como in casu, necessária também a extinção do pedido de reparação por danos morais, tendo em vista que o segundo é consectário lógico do primeiro. Dessa forma, o pleito indenizatório não pode subsistir diante da extinção do pedido principal, qual seja, o pedido obrigacional, conforme determinado no v. acórdão recorrido" (fl. 602),
+(iii) art. 188, 884 e 944, parágrafo único, do CC, sustentando que, "considerando as peculiaridades do caso em comento, certo é que este jamais deveria ensejar a condenação da Recorrente em valor superior ao já decidido na jurisprudência pátria, tornando a condenação desproporcional e exorbitante" (fl. 608).
+Foram oferecidas contrarrazões (fls. 626-631).
+O agravo (fls. 643-649) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fl. 654-659).
+É o relatório.
+Decido.
+Quanto à apontada violação do art. 1.022 do Código de Processo Civil, cumpre dizer que, além de o Tribunal ter enfrentado toda a matéria pertinente à controvérsia, a pretensão deduzida nos embargos de declaração opostos pela parte recorrente, longe de demon strar qualquer omissão, contradição ou obscuridade, objetiva, na verdade, rediscutir causa devidamente solucionada.
+Extraem-se as seguintes razões de decidir do aresto impugnado (fls. 590-591):
+O laudo e as fotografias acostadas aos autos não deixam dúvidas da qualidade de usuária do serviço de transporte público prestado pela ré e da deficiência da autora.
+O pedido relativo à obrigação de fazer restou prejudicado, não tendo sido rejeitado como insiste em afirmar a embargante, de modo que é viável a apreciação do pedido indenizatório sem que constitua error in procedendo.
+Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ
+O TJRJ, ao analisar as provas constantes dos autos, entendeu que "É incontroverso que a estação ferroviária de Santíssimo não apresenta condições de acessibilidade para o transporte da autora, que usa cadeira de rodas para se locomover, por falta de elevadores ou de escada rolante para acesso a todas as suas plataformas". Confira-se o seguinte excerto (fls. 538):
+A deficiência da usuária está demonstrada às fls. 35/8, não impugnada na contestação, tendo a autora se desincumbido de seu ônus de prova nos termos do art. 373, I, do CPC. Afasta-se, pois, a alegação de não seria beneficiária da política pública instituída pela Lei Estadual nº 4.510/2005.
+É incontroverso que a estação ferroviária de Santíssimo não apresenta condições de acessibilidade para o transporte da autora, que usa cadeira de rodas para se locomover, por falta de elevadores ou de escada rolante para acesso a todas as suas plataformas (fls. 39/43 e fls. 96/141). Desse fato constata-se a falha na prestação do serviço, nos termos do artigo 14 do CDC.
+Não houve a rejeição do pedido quanto à obrigação de fazer. Apenas restou prejudicado porque seu exame será realizado em ação civil pública (nº 0167632-82.2019.8.19.0001), o que não impede o conhecimento da matéria para a apreciação do pedido indenizatório, de forma independente. Logo, não se verifica qualquer nulidade da sentença por error in procedendo.
+De igual modo, a celebração do TAC entre a ré e o Ministério Público na ação coletiva, ao contrário do que sustenta a ré, confirma a existência de falha na prestação do serviço, motivo pelo qual deve ser afastado o pedido de improcedência do pleito indenizatório.
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, manteve a indenização dos danos morais conforme lançada na sentença (fls. 590-591):
+Ao contrário do alegado pelo embargante, do teor do acórdão se pode extrair com clareza o entendimento declinado pelo Colegiado que confirmou o acerto da sua condenação ao pagamento à autora de indenização por danos morais de R$ 3.000,00.
+ ..
+O quantum indenizatório fixado na sentença acompanha o entendimento desta Corte em casos análogo, logo, não pode ser considerado exorbitante.
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
