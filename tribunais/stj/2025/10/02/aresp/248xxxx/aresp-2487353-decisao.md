@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MICHELLE CLEMENTE DE CAMARGO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 1.022, 300, 343 e 702, § 6º, do CPC; na incidência da Súmula n. 7 do STJ; na falta de demonstração da semelhança fática entre o acórdão recorrido e o acórdão paradigma, por não ter sido realizado o cotejo analítico; e na ausência de juntada dos precedentes que deram origem à Súmula n. 292 do STJ.
+Alega a agravante que as condições de admissibilidade do recurso especial foram atendidas.
+Não foi apresentada contraminuta (fl. 208).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação monitória.
+O julgado foi assim ementado (fl. 136):
+RECURSO - APELAÇÃO CIVEL PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - AÇÃO MONITÓRIA. Prestação de serviços educacionais. Relação negocial incontroversa. Instituição educacional que busca de parcelas vencidas em outubro, novembro de dezembro de 2016, decorrente de prestação de serviços estudantis. Existência, contudo, de regular trancamento da matrícula ocorrido em 05 de outubro de 2016. Pedido monitório julgado desacolhido. Requerida que se insurge em recurso de apelação, postulando pela condenação autora na obrigação de fazer consistente em cessar os procedimentos de cobrança extrajudiciais (ligações, e-mails e mensagens). Medidas que refletem consectário lógico do decidido. Desnecessidade de sua determinação formal, ante a já declarada inexigibilidade do débito. Improcedência da ação na origem. Sentença mantida. Recurso de apelação apresentado pela demandada não provida, sem alteração da honorária sucumbencial (artigo 85, § 11, do Código de Processo Civil), vez que imposta apenas à parte recorrida.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 152):
+RECURSO EMBARGOS DE DECLARAÇÃO PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS AÇÃO MONITÓRIA. Ausência de omissão, contradição, obscuridade ou erro material no julgado ( requisitos previstos no artigo 1.022, do Diploma Processual Civil ). Ação devidamente analisada, de forma clara, sendo considerados todos os elementos constantes nos autos até o momento de prolação do Acórdão, não restando qualquer ponto sujeito a apreciação judicial. Recurso de embargos de declaração conhecido e rejeitado.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 702, § 6º, do CPC, pois admite-se reconvenção na ação monitória, sendo vedado apenas o oferecimento de reconvenção à reconvenção;
+b) 300 do CPC, pois a tutela de urgência pode ser concedida em qualquer grau de jurisdição, desde que cumpridos os requisitos legais;
+c) 1.022 do CPC, pois o Tribunal de origem não se manifestou sobre a violação dos dispositivos legais indicados, mesmo após a oposição de embargos de declaração.
+Sustenta que o Tribunal de origem, ao decidir que não seria cabível a reconvenção em ação monitória e que a tutela de urgência não poderia ser concedida na via recursal, divergiu do entendimento consolidado pelo STJ, conforme precedente apresentado.
+Requer o provimento do recurso para que se reconheça a nulidade da decisão que não apreciou o pleito reconvencional, determinando-se a remessa dos autos à 25ª Câmara de Direito Privado para julgamento do pedido. Caso se entenda que a causa não está madura para julgamento pelo Tribunal, pede que os autos sejam remetidos à primeira instância para apreciação e julgamento do referido pedido.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois a análise do caso exigiria reexame de fatos e provas, o que é vedado em recurso especial, conforme as Súmulas n. 5º e 7º do STJ.
+É o relatório. Decido.
+Trata-se, na origem, de ação monitória em que a parte autora, ora agravada, pleiteou a constituição de título executivo judicial referente às mensalidades vencidas em outubro, novembro e dezembro de 2016, no valor de R$ 6.591,06, acrescido de correção monetária.
+Na sentença, o Juízo de primeiro grau acolheu os embargos monitórios e julgou improcedente o pedido monitório, extinguindo o feito com resolução de mérito, nos termos do art. 487, I, do CPC. Fixou honorários advocatícios de 10% sobre o valor atualizado da causa.
+A Corte estadual manteve integralmente a sentença, entendendo que o trancamento da matrícula foi regular e que não houve má-fé da instituição educacional, além de considerar que a requerida não apresentara reconvenção nos autos.
+I - Art. 1.022 do CPC
+Alega a agravante violação do art. 1.022 do CPC, visto que o Tribunal de origem não se manifestou sobre a violação dos dispositivos legais indicados, mesmo após a oposição de embargos de declaração.
+O acórdão recorrido afirmou que, embora o art. 702, § 6º, do CPC admita a reconvenção na ação monitória, a recorrente não apresentara reconvenção nos autos, mas apenas formulara pedidos contrapostos nos embargos monitórios, como indenização moral e reconhecimento de litigância de má-fé.
+Assim, entendeu que tais pedidos não configuraram reconvenção, pois não observaram as formalidades processuais do art. 343 do CPC, sendo, portanto, inadequados para avaliação no caso concreto.
+Quanto ao art. 300 do CPC, destacou que a tutela de urgência não fora exigida no momento oportuno, ou seja, nos embargos monitórios ou em eventual reconvenção, mas apenas na via recursal, entendendo que a pretensão de cessar as cobranças extrajudiciais já era um consectário lógico do reconhecimento da inexigibilidade da mensalidade, não havendo necessidade de decisão formal para tanto.
+Dessa forma, inexistem, no caso concreto, as omissões levantadas.
+II - Art. 702, § 6º, do CPC
+A agravante defende que se admite reconvenção na ação monitória, sendo vedado apenas o oferecimento de reconvenção à reconvenção.
+O acórdão recorrido reconheceu que, embora o art. 702, § 6º, do CPC admita a reconvenção na ação monitória, a recorrente, ora agravante, não apresentara reconvenção nos autos, mas apenas formulara pedidos contrapostos nos embargos monitórios, os quais não configuraram reconvenção, pois não observaram as formalidades processuais do art. 343 do CPC, sendo, portanto, inadequados para avaliação no caso concreto.
+Nesse sentido, a decisão recorrida está em consonância com a jurisprudência do STJ, já que a reconvenção deve atender aos mesmo requisitos da ação, razão pela qual é caso de aplicação da Súmula n. 83 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXTINÇÃO DA AÇÃO PRINCIPAL. ILEGITIMIDADE PASSIVA DOS RÉUS. RECONVENÇÃO. PROSSEGUIMENTO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 315, caput, do CPC/73, a reconvenção é cabível quando evidenciada a devida conexão com a ação principal ou com o fundamento da defesa. Contudo, os pleitos formulados na ação principal e na reconvenção são distintos e autônomos, de modo que as condições da ação e pressupostos processuais devem ser analisados separadamente em cada uma das ações.
+2. Por outro lado, conforme dispõe o art. 317 do CPC/73, a extinção da ação principal, no caso a ação monitória, por ilegitimidade passiva dos réus, não impede o prosseguimento da reconvenção proposta com objetivo de condenar a autora ao pagamento do dobro do que cobrou indevidamente, tendo como causa de pedir justamente o reconhecimento da ilegitimidade passiva dos réus da ação principal.
+3. Agravo interno não provido. (AgInt no AgInt no REsp n. 1.250.182/PR, relator Ministro Lázaro Guimarães, Quarta Turma, julgado em 8/2/2018, DJe de 16/2/2018.)
+III - Art. 300 do CPC
+Aponta a violação do art. 300 do CPC, porque a tutela de urgência pode ser concedida em qualquer grau de jurisdição, desde que preenchidos os requisitos legais.
+O acórdão recorrido concluiu que a tutela de urgência não fora exigida no momento oportuno, ou seja, nos embargos monitórios ou em eventual reconvenção, mas apenas na via recursal, concluindo que a pretensão de cessar as cobranças extrajudiciais já era um consectário lógico do reconhecimento da inexigibilidade da mensalidade, não havendo necessidade de decisão formal para tanto.
+Nesse contexto, revisitar a decisão do Tribunal de origem, especialmente quanto à necessidade da concessão da tutela de urgência, implica analisar seus requisitos, o que encontra óbice na Súmula n. 7 do STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA C/C COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE COBERTURA. TRATAMENTO PRESCRITO POR MÉDICO. DIAGNÓSTICO DE CÂNCER. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. SÚMULA 568/STJ. CIRURGIA DE EMERGÊNCIA. NEGATIVA DE COBETURA DO PLANO. REEMBOLSO DE DESPESA REALIZADA FORA DA REDE CREDENCIADA. REEMBOLSO INTEGRAL. EXCEPCIONALIDADE. CABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de situação de urgência na hipótese dos autos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.872.747/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+IV - Dissídio jurisprudencial
+Quanto ao suposto dissídio jurisprudencial, registre-se que, segundo o entendimento desta Corte, "fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (AgInt no AREsp n. 1.811.500/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/11/2021).
+V - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
