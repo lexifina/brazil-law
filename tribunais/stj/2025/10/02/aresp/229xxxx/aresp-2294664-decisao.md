@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por NELSON WILIANS & ADVOGADOS ASSOCIADOS fundado no art. 105, III, "a", da Constituição Federal contra v. acórdão do TJ, assim ementado (fl. 65):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO QUE JULGOU IMPROCEDENTE A IMPUGNAÇÃO DE CRÉDITO APRESENTADA PELO ESCRITÓRIO DE ADVOCACIA CREDOR, FIXANDO CONDENAÇÃO HONORÁRIA NA MONTA DE 10% SOBRE O VALOR ATRIBUÍDO À CAUSA. ILEGÍTIMO INCONFORMISMO DO IMPUGNANTE. PARTE QUE VINDICOU CRÉDITO EM VALOR MUITO SUPERIOR AO POSTERIORMENTE PUBLICADO NO EDITAL DO ADMINISTRADOR JUDICIAL, NÃO OBTENDO ÊXITO EM ALCANÇAR A MONTA ALMEJADA, SUCUMBINDO, ASSIM, DO PEDIDO DEDUZIDO. REDUÇÃO DA BASE DE CÁLCULO DA VERBA HONORÁRIA DEVIDA NA HIPÓTESE QUE SE MOSTRA DESCABIDA, UMA VEZ QUE O JUÍZO A QUO, AO FIXÁ-LA, BEM OBSERVOU AS REGRAS E AS BALIZAS CONTIDAS NA LETRA DO ARTIGO 85, PARÁGRAFO 2º, DO CPC. DECISÃO MANTIDA. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (fls. 104-108).
+Em suas razões recursais, as agravantes alegam violação aos arts. 11, 489, §1º, IV, e 1.022 do CPC; ao art. 93, IX, da Constituição; e aos enunciados 98 e 211 do STJ, 282 e 356 do STF, além de mencionar afronta ao art. 85 do CPC e a inaplicabilidade da Súmula 7 do STJ.
+Sustenta que:
+i) houve omissão e negativa de prestação jurisdicional no acórdão, porque não teriam sido enfrentados todos os argumentos capazes de infirmar a conclusão adotada, o que teria comprometido a validade da decisão colegiada.
+ii) a impugnação de crédito teria sido, em rigor, parcialmente procedente, pois o resultado teria implicado alteração de valor e de classe do crédito, de modo que não se poderia qualificá-la como improcedente.
+iii) a condenação em honorários sucumbenciais contra o recorrente teria sido indevida, porque, sendo reconhecida a parcial procedência, o recorrido é que deveria ser condenado, já que o recorrente teria sido vencedor na maior parte dos pedidos.
+iv) de forma subsidiária, a base de cálculo dos honorários, se mantida a condenação, deveria ser reduzida para incidir apenas sobre a diferença entre o valor inicialmente pleiteado e o valor fixado, e não sobre o valor integral da causa.
+Contrarrazões: foi apresentada contraminuta (fls. 137-153).
+No agravo, afirma a presença dos requisitos de admissibilidade do especial.
+É o relatório.
+2. A questão de direito objeto do recurso especial - qual a regra de fixação dos honorários sucumbencias nos casos de rejeição/acolhimento do incidente de impugnação ao crédito, nas ações de recuperação judicial - foi afetada à Segunda Seção do STJ como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, conforme decisão de afetação do REsp n. 2.160.946/SP, que delimitou o Tema 1345.
+O julgado recebeu a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. PROPOSTA DE AFETAÇÃO. SEGUNDA SEÇÃO. RECUPERAÇÃO JUDICIAL. FALÊNCIA.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos:
+Definir se é devida a condenação em honorários advocatícios sucumbenciais - em caso de acolhimento do incidente de impugnação ao crédito - nas ações de recuperação judicial e de falência.
+2. Determinada a suspensão do processamento de todos os processos individuais ou coletivos que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, respeitada, no último caso, a orientação prevista no art. 256-L do RISTJ.
+Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 para que seja julgado na Segunda Seção (art. 256-I do RISTJ). Conjunto de recursos representativos afetados: REsp n. 2.100.114/SP; REsp n. 2.090.060/SP; e REsp n. 2.090.066/SP.
+(ProAfR no REsp n. 2.090.060/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 9/4/2024, DJe de 29/4/2024.)
+Na oportunidade, houve determinação a suspensão do processamento de todos os processos individuais ou coletivos que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+3. Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
