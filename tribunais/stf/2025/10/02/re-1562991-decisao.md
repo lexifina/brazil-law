@@ -1,0 +1,81 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. APLICAÇÃO DA MULTA FISCAL PREVISTA NO § 4º DO ART. 4º DA LEI N. 10.833/2003. INVIABILIDADE. TEMA 736 DA REPERCUSSÃO GERAL RESERVA DE PLENÁRIO: INEXISTÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. FUNDAMENTAÇÃO SUFICIENTE NO ACÓRDÃO RECORRIDO. NATUREZA JURÍDICA DA PENALIDADE TRIBUTÁRIA: SÚMULA N. 279 DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+
+    “JUÍZO DE RETRATAÇÃO. TEMA 1.076 DO STJ. HONORÁRIOS E APRECIAÇÃO EQUITATIVA: POSSIBILIDADE, CONFORME A ORIENTAÇÃO DO PLENO DO STF (PRECEDENTES). RETRATAÇÃO NÃO EXERCIDA. TEMA 736 DO STF. REPERCUSSÃO GERAL. COMPENSAÇÃO TRIBUTÁRIA. NEGATIVA DE HOMOLOGAÇÃO. MULTA ISOLADA. AUTOMATICIDADE. DIREITO DE PETIÇÃO. DEVIDO PROCESSO LEGAL. BOA-FÉ. ART. 74, §17, DA LEI 9.430/96. RETRATAÇÃO EXERCIDA PARA DAR PROVIMENTO AO AGRAVO DA REQUERENTE EM PARTE. 1. Os honorários advocatícios devem remunerar condignamente o trabalho do advogado, considerando que um dos fundamentos do nosso Estado Democrático de Direito consiste no valor social do trabalho (artigo 1º, IV, da Constituição Federal). Mas não se pode olvidar da necessária proporcionalidade que deve existir entre a remuneração e o trabalho visível feito pelo advogado. Inexistindo proporcionalidade, deve-se invocar o § 8º do artigo 85 do CPC de 2015: ‘Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do parágrafo 2º’, mesmo que isso seja feito para o fim de reduzir os honorários, levando-se em conta que o empobrecimento sem justa causa do adverso que é vencido na demanda significa uma penalidade, e é certo que ninguém será privado de seus bens sem o devido processo legal, vale dizer, sem justa causa. Nesse âmbito, a fixação exagerada de verba honorária - se comparada com o montante do trabalho prestado pelo advogado - é enriquecimento sem justa causa, proscrito pelo nosso Direito e pela própria Constituição polifacética, a qual prestigia os princípios da razoabilidade e da proporcionalidade. Caso em que a equidade há de ser observada para que não ocorra, na espécie, comprometimento de recursos públicos em situação de enriquecimento sem causa. 2. O plenário do Supremo Tribunal Federal acolhe o mesmo entendimento aqui manifestado, como se vê do recente julgamento (18 de fevereiro de 2022) dos ED na ACO no 2.988/DF, quando aplicou o § 8º do artigo 85 do CPC para o fim de, aplicando a equidade, reduzir os honorários fixados em desfavor da Fazenda Pública. Outros precedentes plenários da Suprema Corte: ACO 637 ED, Rel. Min. Alexandre de Moraes, Tribunal Pleno - ACO 1.650-AgR, Rel. Min. Dias Toffoli, Tribunal Pleno. Acolhimento do entendimento do STF, que aprecie a situação no Tema 1255. Juízo de retratação não exercido. 3. O Supremo Tribunal Federal, apreciando o tema 736 da repercussão geral, fixou a seguinte tese: ‘É inconstitucional a multa isolada prevista em lei para incidir diante da mera negativa de homologação de compensação tributária por não consistir em ato ilícito com aptidão para propiciar automática penalidade pecuniária’. 4. No caso, o auto de infração constante do processo administrativo nº 10882-722.546/2017-47, lavrado pela Delegacia da Receita Federal em Osasco, aplicou a multa isolada, com fundamento no artigo 18, § 4º, da Lei nº 10.833/2003, com a redação dada pela Lei nº 11.488/2007, em razão de compensação considerada não declarada pelo Fisco, em que foi utilizado crédito de terceiro, com base no artigo 74, § 12, inciso II, ‘a’, da Lei nº 9.430/1996, no valor de R$ 16.335.860,02, porém, não houve constatação de eventual má-fé por parte do contribuinte. 5. Quanto ao tema 736 do STF é exercido juízo de retratação para dar provimento ao agravo interno da requerente” (fls. 10-11, e-doc. 196).
+
+    Os embargos de declaração opostos pela União foram rejeitados (e-doc. 212).
+
+    2. A União alega ter o Tribunal de origem contrariado o inc. XXXIV do art. 5º, o inc. IX do art. 93 e o art. 97 da Constituição da República.
+
+    Assevera que “a Sexta Turma do Tribunal Regional Federal da 3ª Região, por meio do acórdão recorrido, em juízo de retratação, deu provimento ao recurso do contribuinte, para afastar a multa de ofício do art. 18, § 4º, da Lei n. 10.833/03, aplicada em razão da apresentação de pedidos de compensação considerados não declarados” (fl. 2, e-doc. 220).
+
+    Sustenta que “não houve (...) declaração de inconstitucionalidade por arrastamento da multa do art. 18, § 4º, da Lei n. 10.833/03” (fl. 10, e-doc. 220).
+
+    Salienta que, “nesse contexto, para afastar o art. 18, § 4º, da Lei n. 10.833/03, deveria a Turma ter instaurado incidente de declaração de inconstitucionalidade e determinado a remessa dos autos à Corte Especial do Tribunal, como determina o art. 97 da Constituição” (fl. 10, e-doc. 220).
+
+    Insiste haver “violação ao art. 97 da Constituição, razão pela qual requer a Fazenda Nacional seja declarada a nulidade do acórdão recorrido e determinada a prolação de novo acórdão com observância da cláusula de reserva de plenário” (fl. 11, e-doc. 220).
+
+    Assinala que “o Tribunal de origem, ao vislumbrar, na regra do art. 18, § 4º, da Lei n. 10.833/2003, ofensa ao direito de petição, consubstanciado no art. 5º, XXXIV, a, da Constituição, acabou por violar o próprio preceito, na medida em que a Constituição garante apenas o uso do direito conforme os fins sociais, repelindo sempre o abuso dos direitos fundamentais” (fl. 13, e-doc. 220).
+
+    Ressalta que, “caso não acolhida a alegação de violação ao art. 97 da Constituição, merece reforma o acórdão, a fim de que seja mantida a aplicação da multa prevista no art. 18, § 4º, da Lei n. 10.833/2003” (fl. 13, e-doc. 220).
+
+    Pede o provimento do presente recurso extraordinário, “a fim de anular o acórdão recorrido ou reformá-lo, assentando a constitucionalidade da multa isolada prevista no art. 18, § 4º, da Lei n. 10.833/2003” (fl. 13, e-doc. 220).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica não assiste à recorrente.
+
+    4. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+
+    Conforme a jurisprudência desse Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+
+    O exame da situação fático-jurídica apresentada neste processo revela que o Tribunal de origem apresentou suficiente fundamentação sobre as questões de direito material e processual suscitadas nas impugnações trazidas pela recorrente. Ausente, portanto, contrariedade ao inc. IX do art. 93 da Constituição da República.
+
+    5. Improcedente a alegação da União de que houve ofensa“ao art. 97 da Constituição”, pela “aplicação por analogia de precedente que não tratou da multa em questão constitui inobservância da Súmula Vinculante n. 10” (fl. 6, e-doc. 220).
+
+     Não se demonstrou, na espécie, contrariedade ao art. 97 da Constituição da República e à Súmula Vinculante n. 10 deste Supremo Tribunal. Aplicou-se à controvérsia os fundamentos da tese fixada no Tema 736 da repercussão geral, para invalidar a multa tributária aplicada à empresa contribuinte.
+
+    Nos termos do parágrafo único do art. 949 do Código de Processo Civil, “os órgãos fracionários dos tribunais não submeterão ao plenário ou ao órgão especial a arguição de inconstitucionalidade quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão”.
+
+    Sobre essa questão processual, este Supremo Tribunal tem orientação jurisprudencial consolidada no sentido de que, “havendo pronunciamento do Órgão especial do Tribunal a quo ou do STF, sobre a questão, não há violação ao art. 97 da Constituição Federal” (ARE n. 1.175.592-AgR-Segundo, Relator o Ministro Edson Fachin, Segunda Turma, DJe 21.9.2022). Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. (…) INEXISTÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (RE n. 1.365.619-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 18.4.2022).
+
+    “DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE n. 1.168.946-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 8.2.2019).
+
+    Atenta a essa orientação jurisprudencial, a Primeira Turma deste Supremo Tribunal, em questão tributária similar à deste processo, afastou a contrariedade ao art. 97 da Constituição da República, com o fundamento de que “o acórdão recorrido está fundamentado na Tese 736 da repercussão geral, segundo a qual ‘É inconstitucional a multa isolada prevista em lei para incidir diante da mera negativa de homologação de compensação tributária por não consistir em ato ilícito com aptidão para propiciar automática penalidade pecuniária’. Havendo pronunciamento do Supremo Tribunal Federal sobre a matéria, dispensável a submissão da arguição de inconstitucionalidade ao plenário ou ao órgão especial do Tribunal de origem, razão pela qual não há falar em ofensa ao art. 97 da Carta Magna ou em contrariedade à Súmula Vinculante nº 10/STF” (RE n. 1.498.437-AgR, Relator o Ministro Flávio Dino, Primeira Turma, DJe 24.10.2024).
+
+    6. No caso em exame, a Sexta Turma do Tribunal Regional da Terceira Região resolveu a questão sobre inexigibilidade da multa tributária aplicada, nestes termos:
+
+    “Já em relação ao tema 736 do STF, o Supremo Tribunal Federal, apreciando o tema 736 da repercussão geral, fixou a seguinte tese: ‘É inconstitucional a multa isolada prevista em lei para incidir diante da mera negativa de homologação de compensação tributária por não consistir em ato ilícito com aptidão para propiciar automática penalidade pecuniária’ (...). No caso, o auto de infração constante do processo administrativo nº 10882-722.546/2017-47, lavrado pela Delegacia da Receita Federal em Osasco, aplicou a multa isolada, com fundamento no artigo 18, § 4º, da Lei nº 10.833/2003, com a redação dada pela Lei nº 11.488/2007, em razão de compensação considerada não declarada pelo Fisco, em que foi utilizado crédito de terceiro, com base no artigo 74, § 12, inciso II, ‘a’, da Lei nº 9.430/1996, no valor de R$16.335.860,02, porém, não houve constatação de eventual má-fé por parte do contribuinte” (fls. 8-9, e-doc. 196).
+
+      Para rever os fundamentos adotados pelas instâncias ordinárias, sobre a natureza jurídica da penalidade tributária prevista na legislação federal, seria imprescindível o revolvimento do acervo fático-probatório dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, como disposto na Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS/ST. BASE DE CÁLCULO. DESCONTOS INCONDICIONAIS E BONIFICAÇÕES. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA PUNITIVA. FIXAÇÃO EM PATAMAR INFERIOR AO VALOR DO TRIBUTO. PRECEDENTES. MULTA DE REVALIDAÇÃO E MULTA ISOLADA. ALEGADO CONFISCO: IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 1.513.531-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 8.11.2024).
+
+    “Agravo regimental no recurso extraordinário com agravo. Contraditório e ampla defesa. Ausência de repercussão geral (Tema 660). Tributário. Auto de Infração. Princípio da Legalidade. Súmula nº 636/STF. Matéria de direito local. Súmula nº 280/STF. Fatos e provas Súmula nº 279/STF. Não cabimento. Multa fiscal isolada. Descumprimento de obrigação acessória. Tema 487. Devolução dos autos ao juízo de origem. 1. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do devido processo legal, do contraditório e da ampla defesa (ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, Tema 660, DJe de 1º/8/13). 2. É incabível o recurso extraordinário por contrariedade ao princípio constitucional da legalidade quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida (Súmula nº 636/STF). 3. A análise da subsunção dos fatos à norma aplicável pela autoridade administrativa para lavratura do auto de infração demandaria a interpretação das normas locais pertinentes. (Súmula nº 280/STF), bem como o reexame do conjunto fático e probatório (Súmula nº 279), providências inviáveis em sede de apelo extremo. 4. A Corte reconheceu a repercussão geral da matéria atinente ao ‘caráter confiscatório de multa isolada por descumprimento de obrigação acessória decorrente de dever instrumental’, nos autos do RE nº 640.452 (Tema 487). 5. Devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral em relação à multa fiscal (Tema 487). 6. Agravo regimental não provido quanto às questões remanescentes” (ARE n. 1.255.364-AgR, Relator o Ministro Dias Toffoli, DJe 26.5.2020).
+
+    A jurisprudência consolidada deste Supremo Tribunal é desfavorável às postulações da recorrente, havendo óbice jurídico intransponível ao processamento deste recurso, nada havendo a prover nesta sede recursal.
+
+    7. Registre-se não haver recursos, interpostos pela empresa recorrida, a serem analisados por este Supremo Tribunal, pois a Presidência do Tribunal de origem homologou a desistência do recurso extraordinário adesivo e julgou prejudicado o recurso extraordinário (e-doc. 259).
+
+    Por esse motivo, a Secretaria Judiciária do Supremo Tribunal Federal retificou a autuação, nestes termos:
+
+    “Por solicitação do Gabinete da Ministra Cármen Lúcia, via Teams, certifico que procedi à correção do registro para que conste como parte recorrente somente a União, uma vez que o recurso extraordinário interposto pela parte ENGEBRAS TECNOLOGIA LTDA foi julgado prejudicado, conforme consta no e-Doc. 259, Fl. 7 (ID: 64ddbb8b)” (e-doc. 285).
+
+    8. Pelo exposto, nego provimento ao presente recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 2 de outubro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
