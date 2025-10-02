@@ -1,0 +1,130 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo PRODERJ - CENTRO DE TECNOLOGIA DE INFORMACAO E COMUNICACAO DO ESTADO DO RIO DE JANEIRO e FUNDO UNICO DE PREVIDENCIA SOCIAL DO ESTADO DO RIO DE JANEIRO contra acórdão prolatado, por unanimidade, pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de Agravo de Instrumento, assim ementado (fl. 29e):
+AGRAVO DE INSTRUMENTO. SERVIDOR INATIVO DO CENTRO DE PROCESSAMENTO DE DADOS DO ESTADO DO RIO DE JANEIRO (PRODERJ). CUMPRIMENTO DE SENTENÇA. DECISÃO QUE CONSIDEROU CUMPRIDA A OBRIGAÇÃO DE FAZER, FIXANDO A GEE EM R$ 1.862,23, (MIL OITOCENTOS E SESSENTA E DOIS REAIS E VINTE E TRÊS CENTAVOS). INCONFORMISMO DO AUTOR. NA PLANILHA FORNECIDO PELO PRÓPRIO PRODERJ CONSTA SERVIDOR, SEM QUALQUER FUNÇÃO ESPECÍFICA OU CARGO COMISSIONADO, RECEBENDO O VALOR DE R$ 3.607,50 (TRÊS SEISCENTOS E SETE REAIS E CINQUENTA REAIS). APESAR DE IMPUGNAR A DISTINÇÃO DE LOTAÇÕES, O AGRAVADO NÃO APRESENTA OUTROS SERVIDORES ADEQUADOS AO PAPEL DE PARADIGMA, EM SITUAÇÃO QUE VIOLA OS VALORES DO ORDENAMENTO JURÍDICO PROCESSUAL. PROVIMENTO DO RECURSO PARA RECONHECER QUE O VALOR A SER PAGO A TÍTULO DE GEE AO AUTOR É AQUELE CONCEDIDO AO SERVIDOR OCUPANTE DO SEU CARGO PARADIGMA, THALES RODRIGUES AZEVEDO, OU SEJA, R$ 3.607,50 (TRÊS SEISCENTOS E SETE REAIS E CINQUENTA REAIS).
+Opostos embargos de declaração por ambas as partes, foram rejeitados (fls. 72/77e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 489, § 1º, IV, do Código de Processo Civil - "Nos autos originários e nos presentes autos, a parte ré demonstrou - de forma fundamentada - o descabimento da pretensão do agravado, a qual viola não só o entendimento pacificado do STF (Tema 41), como a própria Constituição Federal (artigos 39, §9º e 40, caput, e parágrafos 2º, 3º, e 4º da CRFB/88). Frisa-se que o réu comprovou que os servidores apontados pelo autor como paradigmas não serviam para tal, justamente em razão de terem ocupado cargo comissionado. Todavia, ao julgar o recurso interposto, o acórdão aqui recorrido deixou de se manifestar sobre tais questões, as quais são relevantes para a resolução da lide." (fl. 103e)
+(ii) Art. 884 do Código Civil - " ..  O INSTITUTO DA INCORPORAÇÃO FOI VEDADO PELO ARTIGO 39, §9º DA CRFB E O ARTIGO 35 DA LEI Nº 5.260/2008 (NOVA REDAÇÃO DA LEI Nº 5352/2008). Assim, a fixação de entendimento em sentido contrário - possibilitando a valoração da GEE de acordo com cargo comissionado - implica na adoção, por via oblíqua, o instituto da incorporação vedado pelos artigos supracitados, gerando enriquecimento ilícito à custa do erário." (fls. 109/110e)
+Com contrarrazões (fls. 129/134e), o recurso foi inadmitido (fls. 136/146e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 274).
+Feito breve relato, decido.
+Nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do pr esente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+- Da negativa de prestação jurisdicional
+A parte recorrente sustenta falta de fundamentação no julgado de origem quanto à alegação de que "os servidores apontados pelo autor como paradigmas não serviam para tal, justamente em razão de terem ocupado cargo comissionado." (fl. 103e).
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado.
+Esposando tal entendimento, o precedente desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM VIRTUDE DA INCIDÊNCIA À ESPÉCIE DA SÚMULA N. 7 DESTA CORTE. DECISÃO DE INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA CONFIRMADA NO JULGAMENTO DO AGRAVO INTERNO. SÚMULA N. 315/STJ. EMBARGOS DE DECLARAÇÃO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES.
+I - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+IV - O acórdão é claro e sem obscuridades quanto aos vícios indicados pela parte embargante, conforme se confere dos seguintes trechos: Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência, no ponto, da Súmula n. 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+V - Nesse mesmo sentido trago à colação julgado desta Corte Especial: AgInt nos EREsp n. 1.960.526/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 7/3/2023, DJe de 13/3/2023.
+VI - A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: E Dcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+VII - Embargos de declaração rejeitados.
+(EDcl no AgInt nos EAREsp n. 1.991.078/SP, relator Ministro Francisco Falcão, Corte Especial, julgado em 9/5/2023, DJe de 12/5/2023).
+In casu, o tribunal de origem manifestou-se sobre o tema suscitado pelos Recorrentes, nos seguintes termos (fls. 75/76e):
+Em suas razões o Autor, exequente, requer há informação de que o paradigma recebe o valor de R$ 4.107,00 e que às fls. 543 e seguintes há informações acerca de outros Analistas de Sistema, que ocupam cargos em comissão, e que recebem GEE em valor superior ao do paradigma ora fixado, inclusive, que dos cargos em comissão informados, os VP3 são os que mais se aproximam daquele onde se aposentou o Embargante, último nível de sua função, quando ocupava o cargo de VP1.
+Aliás, em relação ao paradigma também se volta do Estado, aduzindo omissão.
+A questão restou devidamente enfrentada, conforme abaixo reproduzo:
+"(..) Compulsando os autos, verifico que o Agravante é servidor público aposentado do PRODERJ, possuindo cargo de Analista de Sistemas e Método.
+Desta forma, para que se alcance à exatidão o que restou decidido, é necessário que seja apresentado servidor paradigma que ocupe o mesmo cargo, lotação, nível e função.
+Contudo, depreende-se da planilha apresentada pela parte Agravada, que não consta nenhum servidor com a mesma lotação que o autor.
+Assim, embora a parte Agravada defenda a diferença de lotações, é certo que não apresenta quaisquer outros servidores que possam servir de parâmetro, com o mesmo cargo e mesmas funções do Agravado.
+Não se trata de prova que possa ser produzida com facilidade pela parte autora. Impossível, portanto, a aferir se o pagamento é correto.
+Como consequência, o servidor paradigma deve ser o indicado pela parte autora, que embora esteja lotado em gerência diversa do autor, sem atribuição de função específica.
+Analisando-se as planilhas apresentadas, observo que às fls. 543 veio planilha com ocupantes de cargos semelhantes, no qual consta THALES RODRIGUES AZEVEDO ocupa de Gerente, sem atribuição especifica, com GEE no valor de R$ 3.607,50 (três seiscentos e sete reais e cinquenta reais). (..)
+Conforme consta do acórdão o paradigma restou apontado por ocupar cargo similar, sem atribuição especifica, conforme id 543 (fls.548):
+ ..
+Embora às fls. 601 (abaixo colacionado) conste que o paradigma recebe o valor de R$ 4.107,00, observo que isso se dá em razão de desempenhar cargo em comissão DAS 07, e não gerência sem especificação, como na planilha anterior e por tanto, diversa da situação do Autor.
+ ..
+Igualmente, como se observa da planilha do id 543, anterior, os cargos cuja GEE é superior ao valor fixado correspondem a cargos de diretoria, também diversos do Autor.
+Com efeito, não merece prosperar o inconformismo da parte, pois o acórdão bem apreciou a matéria de forma expressa e fundamentada, conforme as alegações e jurisprudência a respeito do tema, sem que se verifique vício. (Destaques meus)
+Portanto, não há omissão acerca de questão essencial ao deslinde da demanda e oportunamente suscitada, tampouco outro vício a impor a revisão do julgado.
+- Da ofensa ao art. 884 do Código Civil
+Acerca da ofensa ao art. 884 do CC, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, não foi examinada, ainda que implicitamente, a alegação concernente ao teor do art. 884 do CC.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PROVIMENTO NEGADO.
+(..)
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.036.100/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23.06.2025, DJEN de 27.06.2025).
+PROCESSUAL CIVIL. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUROS DE MORA. TERMO INICIAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ANÁLISE DE SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONHECIMENTO.
+(..)
+III - Sobre a alegada violação dos arts. 5º, 11, 89, 99 e 296 do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+VI - Recurso especial não conhecido.
+(REsp n. 2.195.614/CE, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 30.04.2025, DJEN de 07.05.2025).
+Sublinhe-se, por oportuno, que a exigência do prequestionamento se impõe mesmo em relação às matérias de ordem pública, na linha do precedente deste Tribunal Superior, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MATÉRIA ALHEIA AOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. OBSCURIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS DECLARATÓRIOS REJEITADOS COM APLICAÇÃO DE MULTA.
+(..)
+2. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o debate no âmbito do STJ.
+(..)
+5. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl no AgInt nos EREsp n. 1.946.950/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 21.08.2024, DJe de 26.08.2024).
+Observo, ainda, que o dispositivo apontado não contém comando suficiente para combater os seguintes fundamentos tomados pelo acórdão de origem (fls. 31/32e; 76e):
+ACÓRDÃO DO AGRAVO DE INSTRUMENTO:
+Compulsando os autos, verifico que o Agravante é servidor público aposentado do PRODERJ, possuindo cargo de Analista de Sistemas e Método.
+Desta forma, para que se alcance à exatidão o que restou decidido, é necessário que seja apresentado servidor paradigma que ocupe o mesmo cargo, lotação, nível e função.
+Contudo, depreende-se da planilha apresentada pela parte Agravada, que não consta nenhum servidor com a mesma lotação que o autor.
+Assim, embora a parte Agravada defenda a diferença de lotações, é certo que não apresenta quaisquer outros servidores que possam servir de parâmetro, com o mesmo cargo e mesmas funções do Agravado.
+Não se trata de prova que possa ser produzida com facilidade pela parte autora. Impossível, portanto, a aferir se o pagamento é correto.
+Como consequência, o servidor paradigma deve ser o indicado pela parte autora, que embora esteja lotado em gerência diversa do autor, sem atribuição de função específica.
+Analisando-se as planilhas apresentadas, observo que às fls. 543 veio planilha com ocupantes de cargos semelhantes, no qual consta THALES RODRIGUES AZEVEDO ocupa de Gerente, sem atribuição especifica, com GEE no valor de R$ 3.607,50 (três seiscentos e sete reais e cinquenta reais).
+Isso porque, no caso concreto, o impasse construído pelo Estado ao questionar a lotação e outras questão e ainda apresentar planilhas dissociadas com outros paradigmas corresponde a violação de boa-fé processual, em afronta aos valores que podem ser extraídos por exemplo do artigo 525, §4º, do CPC.
+ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO
+Conforme consta do acórdão o paradigma restou apontado por ocupar cargo similar, sem atribuição especifica, conforme id 543 (fls.548):
+ ..
+Embora às fls. 601 (abaixo colacionado) conste que o paradigma recebe o valor de R$ 4.107,00, observo que isso se dá em razão de desempenhar cargo em comissão DAS 07, e não gerência sem especificação, como na planilha anterior e por tanto, diversa da situação do Autor.
+ ..
+Igualmente, como se observa da planilha do id 543, anterior, os cargos cuja GEE é superior ao valor fixado correspondem a cargos de diretoria, também diversos do Autor. (Destaques meus)
+Nesse cenário, em razão da deficiência do recurso especial, incide, por analogia, a orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ILEGALIDADE NO DÉBITO TRIBUTÁRIO. NÃO OCORRÊNCIA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+ ..
+4. O dispositivo apontado como violado (art. 142 do Código Tributário Nacional) não contém comando capaz de infirmar os fundamentos do acórdão recorrido e é incapaz de amparar as teses recursais. Aplicação, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.996.201/GO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PEDIDO DE OBSERVÂNCIA DA ORDEM CRONOLÓGICA DE PAGAMENTOS PELOS SERVIÇOS PRESTADOS À ADMINISTRAÇÃO PÚBLICA. VIOLAÇÃO AOS DISPOSITIVOS INDICADOS. TESE RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. COMANDOS NORMATIVOS QUE NÃO INFIRMAM AS RAZÕES DE DECIDIR DO ACÓRDÃO. SÚMULA 284 DO STF. RECONHECIMENTO DO DIREITO LÍQUIDO E CERTO. REVISÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Estando as razões do recurso dissociadas e cujos dispositivos contêm comando normativo incapaz de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Outrossim, do confronto entre a insurgência recursal e fundamentação adotada pelo tribunal de origem pode-se defluir tanto a possibilidade de mera revaloração de premissas nas quais o acórdão recorrido esteja assentado, quanto a incidência do óbice constante na Súmula n. 7/STJ, segundo a qual, a pretensão de simples reexame de prova não enseja recurso especial.
+In casu, a análise da pretensão recursal, a fim de revisar o entendimento adotado pela Corte a qua, demanda necessário revolvimento de matéria fática, o que é inviável em recurso especial, à luz do óbice contido no mencionado verbete sumular.
+- Da inadequada interpretação de normas constitucionais e locais
+Por fim, alegam os Recorrentes que a inadequada interpretação dos arts. 39, § 9º, da Constituição da República e 35 da Lei Estadual nº 5.260/2008 implica o enriquecimento ilícito do Recorrido.
+A avaliação de tal alegação exigiria a análise de dispositivo constitucional e legislação local em sede de Recurso Especial.
+Como se sabe, o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade e a aplicação uniforme da lei federal, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, insculpida no art. 102, III, da Constituição da República.
+Destaco, na mesma esteira, o precedente assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE ERIGIU O ÓBICE DA SÚMULA N. 315 DO STJ, PARA INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. QUESTÃO ACERCA DA APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC QUE FOI EFETIVAMENTE ANALISADA PELO ACÓRDÃO EMBARGADO. ÓBICE AFASTADO. AUSÊNCIA, NO ENTANTO, DE DEMONSTRAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DISSIDÊNCIA DE TESES JURÍDICAS. CASUÍSMO. ANÁLISE DE NORMA CONSTITUCIONAL. VIA IMPRÓPRIA. AGRAVO INTERNO PARCIALMENTE PROVIDO, PARA AFASTAR A INCIDÊNCIA DA SÚMULA N. 315 DO STJ, MAS MANTIDO O INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA POR FUNDAMENTAÇÃO DIVERSA.
+ ..
+4. A controvérsia foi resolvida com base em interpretação e aplicação de legislação infraconstitucional, sendo descabida, na via do recurso especial ou dos embargos de divergência, a análise de eventual ofensa a preceito constitucional, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal, estabelecida no art. 102, inciso III, da Constituição Federal. Precedentes.
+ ..
+(AgInt nos EAREsp n. 1.902.364/SC, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 22.08.2023, DJe de 30.08.2023 - destaque meu).
+Sabe-se, também, que a análise de norma estadual é vedada em sede de recurso especial, consoante a Súmula n. 280 do Supremo Tribunal Federal, segundo a qual "por ofensa ao direito local não cabe recurso extraordinário", aplicável, por analogia, nesta Corte, como espelham os julgados assim ementados:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA ESTADUAL. ANTECIPAÇÃO DE DESPESA. OFICIAL DE JUSTIÇA. DESLOCAMENTO. CITAÇÃO. CABIMENTO. VÍCIO DE INTEGRAÇÃO. NÃO OCORRÊNCIA. RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. DIREITO LOCAL.
+ ..
+4. O exame da alegação de que os oficiais de justiça do TJ/PB já receberiam gratificação para o cumprimento das diligências inerentes à sua atividade, porquanto fundada em lei local, esbarra no óbice da Súmula 280 do STF ("Por ofensa a direito local não cabe recurso extraordinário"), aplicada, por analogia, ao recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.248.714/PB, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17.06.2024, DJe de 26.06.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STJ. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - No caso, verifica-se que a análise da principal tese do recorrente - validade da Lei Estadual n. 6.560/2014 em face das Lei Complementar Federal n. 101/2000 e Lei Federal n. 9.504/97 - não pode ser enfrentada por esta Corte Superior, pois é matéria de competência do Supremo Tribunal Federal, nos termos do art. 102, III, "d", da Constituição Federal. Neste sentido: AgRg no REsp 1456225/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/9/2015, DJe 28/9/2015.
+IV - Além disso, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, quais sejam, as Lei Estaduais 6.560/2014, 6.790, 6.856 e 8.856/2016 e o Decreto 15.863/2014, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse mesmo sentido: AgInt no AREsp n. 2.136.760/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 6/3/2023, DJe de 13/3/2023; AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.
+ ..
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.125.198/PI, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 21.08.2024 - destaque meu).
+- Do dispositivo
+Posto isso, com fundamento nos arts. 932, III e IV, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO EM PARTE do Recurso Especial, e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
