@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que deu parcial provimento ao apelo defensivo do recorrido para modificar o regime inicial de cumprimento de pena para o semiaberto, mantendo sua condenação por infração ao art. 311, § 2º, inciso III, do Código Penal (fls. 528-543).
+Consta dos autos que o recorrido foi condenado pela prática do crime de adulteração de sinal identificador de veículo automotor, com pena de 03 (três) anos, 11 (onze) meses e 07 (sete) dias de reclusão, inicialmente em regime fechado, e multa de 61 (sessenta e um) dias-multa, ao valor unitário arbitrado no mínimo legal (fls. 338-362).
+Em sede de apelação, o Tribunal de Justiça local deu parcial provimento ao recurso defensivo e alterou o regime inicial de cumprimento de pena para o semiaberto, considerando que, apesar da reincidência, as circunstâncias judiciais eram em sua maioria favoráveis ao réu (fls. 528-543).
+O Ministério Público estadual interpôs recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando a negativa de vigência ao art. 33, § 2º, alínea "b" e § 3º, do Código Penal ao fixar o regime semiaberto ao recorrido, mesmo diante da reincidência e de uma circunstância judicial valorada negativamente (maus antecedentes) (fls. 556-564).
+O recurso foi admitido na origem (fls. 595-597).
+O Ministério Público Federal apresentou parecer opinando pelo não provimento do recurso especial, afirmando que o regime semiaberto é adequado e proporcional ao caso, considerando as circunstâncias judiciais favoráveis ao réu (fls. 612-615).
+A defesa informou o desaparecimento do autor desde o dia 30.08.2025 (fls. 618-627).
+É o relatório. DECIDO.
+A controvérsia se restringe à fixação do regime inicial de cumprimento de pena para o recorrido, condenado por adulteração de sinal identificador de veículo automotor.
+Nas razões do recurso especial, o Ministério Público do Estado do Paraná pleiteia o restabelecimento do regime fechado para início de cumprimento da pena, ante a alegação de que a reincidência e os maus antecedentes do réu impedem o seu cumprimento em regime semiaberto.
+Entretanto, a despeito dos judiciosos argumentos apresentados pelo recorrente, tenho que o recurso especial não ultrapassa a barreira do conhecimento.
+Para delimitar a controvérsia, colaciono os fundamentos utilizados pelo Tribunal de origem para reformar a sentença condenatória e fixar o regime semiaberto (fls. 542):
+"  No caso em apreço, embora a pena definitiva aplicada não ultrapasse 4 (quatro) anos de reclusão, o apelante é reincidente, o que inviabiliza a fixação do regime aberto. Todavia, considerando que as circunstâncias judiciais foram em sua maioria favoráveis ao apelante, sendo apenas os antecedentes criminais desfavoráveis, entendo que o regime inicial semiaberto se afigura adequado e proporcional ao caso, mostrando-se suficiente para atingir os fins da pena.
+Sendo assim, tendo em vista o quantum da pena imposta e a maioria das circunstâncias judiciais favoráveis, estabeleço o regime semiaberto para o início do cumprimento da pena, por se tratar de medida adequada à espécie  .. ".
+No caso concreto, entendo que o acórdão recorrido deve ser mantido.
+Esta Quinta Turma registra precedentes no sentido de que a reincidência e a presença de circunstâncias judiciais desfavoráveis podem autorizar a imposição do regime semiaberto, ainda que a pena aplicada seja inferior a quatro anos, nos termos da Súmula nº 269, STJ (AgRg no AREsp n. 2.933.122/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025).
+Além disso, embora alguns julgados admitam a possibilidade de fixação de regime fechado quando presentes uma circunstância judicial negativa e a reincidência, a hipótese revela, no mais das vezes, a presença de multirreincidência (AgRg no REsp n. 2.198.961/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/5/2025, DJEN de 12/5/2025; REsp n. 2.173.106/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 23/12/2024), o que não é o caso em questão.
+Registro ainda que, na hipótese, o crime a que o recorrido foi condenado não envolveu violência ou grave ameaça e tampouco é relacionado à Lei de Drogas. Por isso mesmo, entendo que está devidamente justificada a fixação do regime inicial semiaberto para o caso concreto.
+Nesse sentido, cito precedente desta Quinta Turma:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉU REINCIDENTE EM CRIME PATRIMONIAIS. MAUS ANTECEDENTES. PENA INFERIOR A 04 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..  6. Em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, admite-se, excepcionalmente, o abrandamento do regime inicial de cumprimento da pena, com amparo em julgados proferidos pelo Supremo Tribunal Federal, no RHC 224.553/SC (1ª Turma, Relator Ministro Cristiano Zanin, Relator para acórdão Ministro Alexandre de Moraes, julgado em 28/08/2023, acórdão pendente de publicação) e no HC 123.533/SP (Pleno, Relator Ministro Roberto Barroso, DJe de 18/02/2016).
+7. Agravo regimental parcialmente provido, apenas para fixar o regime inicial semiaberto para o cumprimento da pena."
+(AgRg no AREsp n. 2.330.296/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 24/10/2023 ).
+Incide, portanto, o óbice da Súmula nº 83, STJ.
+Quanto à informação do desaparecimento do recorrido, determino seja informado o juízo de origem para as providênc ias cabíveis.
+Ante o exposto, não conheço do recurso especial, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
