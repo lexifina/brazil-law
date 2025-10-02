@@ -1,0 +1,13 @@
+DECISÃO
+Por meio de petição recebida em 16/9/2025, constante às fls. 259/262 do e-STJ, CARREFOUR COMÉRCIO E INDÚSTRIA LTDA., com fundamento no recente julgamento do Tema 1.367 pelo Supremo Tribunal Federal, reafirma a existência de prejudicialidade entre os presentes embargos à execução fiscal e a ação anulatória, ambas versando sobre o mesmo crédito tributário.
+Alega: "a questão prejudicial externa trazida pelas decisões proferidas por este E. STJ voltou a existir, na medida em que o v. acórdão proferido nos autos da Ação Anulatória, e que justificou o prosseguimento do julgamento dos Embargos à Execução Fiscal, deverá ser anulado para aplicação do Tema 1.367".
+Diante disso, requer a remessa dos autos ao Tribunal de Justiça de São Paulo para que seja realizado novo julgamento do Agravo de Instrumento interposto pela Fazenda Estadual, uma vez que o v. acórdão proferido nos autos da Ação Anulatória n. 1073392-59.2021.8.26.0053 deverá ser reformado. Subsidiariamente, pleiteia o reconhecimento da prejudicialidade entre as ações e o consequente sobrestamento dos embargos até o trânsito em julgado da ação anulatória.
+Passo à análise.
+O recurso especial, que ensejou a remessa dos autos a esta Corte, teve por objeto acórdão proferido pelo TJSP em agravo de instrumento, o qual versava sobre questão processual incidental suscitada no âmbito da ação de embargos à execução fiscal, especificamente quanto à manutenção da suspensão do feito em razão de prejudicialidade externa, após o julgamento da apelação na ação anulatória conexa.
+Quanto ao mérito recursal, o recurso especial não foi conhecido, em razão de óbices sumulares.
+Feitos esses esclarecimentos, verifica-se que a informação trazida pela requerente, relativa ao recente julgamento do Tema 1.367 pelo STF, em nada altera o desfecho já proferido quanto ao recurso especial, pois a questão processual incidental atinente à prejudicialidade externa, evidentemente, não se confunde com a tese de mérito firmada no precedente vinculante da Suprema Corte, segundo o qual "a modulação dos efeitos estabelecida no julgamento da ADC n. 49/RN-ED não autoriza a cobrança do ICMS lá debatido quanto a fatos geradores ocorridos antes de 2024 em relação aos quais não tenha havido o pagamento do tributo".
+A aplicação dessa orientação do Pretório Excelso diz respeito à matéria de fundo controvertida, devendo, portanto, ser arguida e apreciada nos autos principais das duas ações defensivas propostas pela contribuinte.
+Ante o exposto, NÃO CONHEÇO do pedido.
+Considerando que esse requerimento não suspende o prazo recursal, certifique-se o trânsito em julgado.
+Publique-se. Intimem-se.
+EMENTA
