@@ -1,0 +1,32 @@
+DECISÃO
+VITOR HENRIQUE CARBONERI FERREIRA agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do  Tribunal de Justiça do Estado de São Paulo  na Apelação Criminal  n.  0002043-52.2017.8.26.0344.
+Nas razões do especial, o recorrente apontou a violação dos arts. 479, parágrafo único, e 593, III, "a", "c", "d" e §3º, todos do CPP. Requereu a) o reconhecimento da nulidade pela exibição dos vídeos, determinando-se novo julgamento perante o Tribunal do Júri; b) subsidiariamente, a "revaloração jurídica dos fatos incontroversos, ora apresentados, com a devida aplicação do direito ao caso concreto" (fl. 654); c) no caso de não serem acatadas as nulidades arguidas, que se anule o julgamento por decisão manifestamente contrária à prova dos autos; e d) em caso de não anulação, a readequação da pena-base para o mínimo legal.
+O Tribunal de origem não conheceu do recurso, em decorrência das Súmulas n. 7 do STJ e 284 do STF (fls. 729-731).
+Neste agravo, a parte alega que "não é imputável ao juízo de admissibilidade provisório a análise da suficiência dos argumentos que demonstrem a violação da norma legal" (fl. 749) e que indicou devidamente os dispositivos legais violados e os precedentes do STJ que respaldam suas pretensões, o que afastaria o óbice da Súmula n. 284 do STF. Aduz, ainda, que não busca discutir a dinâmica fática ou postula o reexame de prova. Reitera parte dos argumentos do especial.
+O Ministério Público Federal opinou pelo não conhecimento do agravo, por incidência da Súmula n. 182 do STJ (fls. 810-813).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso em exame, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 729-731):
+Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil , o que afasta a possibilidade da sua admissão.
+O Supremo Tribunal Federal, considerando a importância desse requisito formal, já firmara em Súmula (verbete nº 284) que é inadmissível o recurso quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+(..) É deficiente o recurso especial que não expõe as razões que justifiquem a alegada violação dos artigos de lei federal nele apontados. Inteligência da Súmula n. 284 do STF (AgInt no AREsp 1209958/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 28/6/2018).
+Outrossim, incide ao caso a Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+A propósito, decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AREsp 593109/MT, Rel. Ministro Antonio Saldanha Palheiro, julgado em 23/11/2021, DJe 26/11/21, que:
+(..) para afastar as conclusões alcançadas pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, imperioso seria o reexame de fatos e provas, providência vedada na via eleita, tendo em vista a redação do enunciado n. 7 da Súmula desta Casa.
+Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial, nos termos do artigo 1.030, inciso V, do Código de Processo Civil.
+A parte, contudo, não rebateu todos os fundamentos da inadmissão do especial, uma vez que se limitou a afirmar, de forma genérica, que é desnecessário o reexame probatório, que descaberia à Corte de origem a realização do exame de admissibilidade adentrando o mérito (o que, como se extrai da transcrição acima, não ocorreu) e que as questões estariam devidamente postas na peça recursal.
+Deveras, o agravante deve expor, com particularidade, a inexistência de óbices para o conhecimento do especial, ao evidenciar a tese jurídica que se pretende ver examinada e ao colacionar trechos do acórdão que demonstram que a matéria foi analisada sob o viés pretendido. Cabia-lhe, ademais, demonstrar a lógica argumentativa de cada ponto do recurso, afastando o óbice da Súmula n. 284 do STF.
+Para impugnar satisfatoriamente o óbice da Súmula n. 7 do STJ - aplicado ao caso -, o agravante deveria demonstrar que, no recurso especial, evidenciou a tese jurídica que pretendia ver examinada, a partir das premissas fático-probatórias do acórdão recorrido. Saliento que são insuficientes assertivas genéricas de que a apreciação do recurso não demanda reexame de provas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe- se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei).
+Nessa perspectiva: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada". (AgInt no AREsp n. 867.735/SE, Rel. Ministro Humberto Martins, 2ª T., DJe 10/8/2016, destaquei)
+Portanto, o agravante não se desincumbiu do ônus de expor, integral, específica e detalhadamente, os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se  e  intimem-se.
+EMENTA
