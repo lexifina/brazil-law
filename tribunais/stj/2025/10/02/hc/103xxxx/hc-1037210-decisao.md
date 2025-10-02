@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Lindomar Santos Gonçalves, em que se alega coação ilegal referente à decisão monocrática de fls. 14-29, proferida por relator do Tribunal de origem.
+O paciente foi condenado à pena de 8 (oito) anos de reclusão, no regime inicial fechado, e ao pagamento de 80 (oitenta) dias-multa, pela prática do crime previsto no artigo 158, §1º, do Código Penal (fls. 56-62).
+A Corte local, em apelação, reduziu a pena de multa para 18 (dezoito) dias-multa. A sentença transitou em julgado (fls. 63-72).
+Em revisão criminal, a defesa sustentou a nulidade do reconhecimento pessoal, o qual teria sido realizado sem observância das formalidades do artigo 226 do Código de Processo Penal. O pedido foi indeferido pelo relator monocraticamente (fls. 14-29).
+No presente habeas corpus, o impetrante aduz que a prova produzida é nula, uma vez que foi formalizada por reconhecimento pessoal irregular, em transgressão aos requisitos legais. Requer, em pedido liminar, a concessão da ordem para reconhecer a nulidade do reconhecimento pessoal e, no mérito, a absolvição por insuficiência probatória (fls. 2-13).
+É o relatório. Decido.
+A decisão impugnada foi proferida monocraticamente pelo Desembargador relator na origem, não havendo, pois, deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+Dessa forma, não houve o julgamento pela colegialidade, sendo que a prestação jurisdicional na origem se findou com a decisão monocrática discutida.
+A decisão indeferiu o pleito revisional sob o fundamento de que as teses levantadas pela defesa são idênticas àquelas já apreciadas e julgadas improcedentes na sentença e no acórdão que julgou a apelação criminal.
+Não obstante, o Desembargador relator reiterou, em síntese, que não houve nulidade da prova produzida, pois, o reconhecimento pessoal foi corroborado por outras provas, dando especial destaque à palavra da vítima (fl. 19).
+Nesse sentido, o habeas corpus não deve ser conhecido, conforme a seguinte ementa:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU LIMINARMENTE O HC IMPETRADO NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNICAS ORDINÁRIAS.  ..  A decisão agravada não conheceu da impetração por entender que não houve deliberação colegiada do Tribunal a quo sobre a matéria trazida na presente impetração, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.  ..  Não se revela teratológica a decisão do Desembargador Relator da Revisão Criminal ajuizada na Corte de origem por entender que ela pretendia "rediscutir argumentos já submetidos e apreciados pelo Tribunal, propósito para o qual não se destina esta ação". 6. Desse modo, a ausência de prévia deliberação na revisão criminal sobre o mérito da controvérsia pelas instâncias ordinárias no acórdão revisional impede a manifestação desta Corte a respeito do tema, sob pena de indevida supressão de instância. (AgRg no HC n. 951.180/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.)
+Ante o exposto, com fulcro no artigo 34, inciso XVIII, alínea "a", do Regimento Interno do STJ, não conheço do presente habeas corpus.
+Intimem-se.
+Publique-se.
+EMENTA
