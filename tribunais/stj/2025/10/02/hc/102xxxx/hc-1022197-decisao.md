@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOELSON DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Criminal n. 1539446-48.2021.8.26.0050.
+Em síntese, aduz que o paciente foi condenado a 10 anos, 4 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, II, e § 2º-A, I, e art. 288, parágrafo único, ambos do Código Penal. Sustenta que haveria bis in idem com relação ao crime previsto no art. 288, parágrafo único, do Código Penal. Alega que não há prova suficiente para condenação e que a pena deveria ser revista para que na terceira fase seja aplicada apenas uma majorante na forma do art. 68, parágrafo único, do Código Penal. Subsidiariamente, que as frações sejam aplicadas de forma isolada, não sucessiva.
+Pedido liminar indeferido (fls. 249/250).
+Informações prestadas (fls. 258/263 e 266/303).
+O Ministério Público Federal (fls. 306/316).
+É o relatório.
+DECIDO.
+A análise da presente impetração exige rigorosa observância aos limites constitucionais do habeas corpus, remédio constitucional de natureza específica destinado exclusivamente à proteção do direito fundamental de locomoção, nos termos do art. 5º, LXVIII, da Constituição Federal.
+O desvirtuamento funcional do instituto tem sido objeto de constante preocupação desta Corte Superior. Conforme destacado pelo Ministro Rogério Schietti Cruz no AgRg no HC n. 959.440/RO, o Superior Tribunal de Justiça "não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal", ressalvadas situações excepcionais de flagrante ilegalidade. O precedente enfatiza que a utilização inadequada do writ implica "subversão da essência do remédio heroico e alargamento inconstitucional de sua competência".
+No mesmo sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. TEMA N. 506 DO STF. CONDENAÇÃO FUNDADA EM CONJUNTO PROBATÓRIO IDÔNEO. IMPOSSIBILIDADE DE AMPLO REVOLVIMENTO FÁTICO-PROBATÓRIO EM HABEAS CORPUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não se presta à impugnação de decisão que desafia recurso próprio, salvo em hipóteses excepcionais, nas quais se verifica flagrante ilegalidade ou teratologia do ato judicial, o que não se evidencia no caso concreto. Precedentes.
+2. Não há na hipótese ilegalidade flagrante que justifique a concessão da ordem de habeas corpus de ofício, nos termos do art. 647-A do Código de Processo Penal.
+3. Afastada na origem a tese jurídica fixada pelo Supremo Tribunal Federal no Tema n. 506, com base em elementos fáticos-probatórios concretos e idôneos que evidenciam a materialidade e indicam a destinação comercial da droga, legitimando a condenação pelo art. 33, caput, da Lei n. 11.343/2006, não obstante se tratar de menos de 40 g de maconha.
+4. Para se entender de modo diverso das instâncias ordinárias e acolher a tese de desclassificação para o art. 28 da Lei n. 11.343/2006, ou mesmo para ausência de crime, seria imprescindível amplo revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 991.206/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025; grifamos).
+No presente caso, trata-se de writ substitutivo do recurso próprio.
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício.
+Consta do acórdão:
+ .. Configura-se a litispendência quando for imputada ao mesmo acusado a prática de condutas criminosas idênticas em duas ou mais ações penais.
+No presente caso, imputou-se o crime de associação criminosa praticados por 2 integrantes da mesma organização, a saber, o apelante Joelson e o acusado Rafael da Silva Santos, que se associaram a outros 2 coautores, Michele Aparecida da Silva e Reginaldo Costa Vieira para a prática reiterada ou não de crimes, ao passo em que nos autos n.1532450-68.2020.8.26.0050 foi imputado o crime de organização criminosa ao apelante e ao corréu Rafael, que ao lado dos acusados Letícia de Sousa Bezerra, Fabiano Claudio Mendes, Jose Alany de Sousa Assis, João Vitor Moreira Nunes, Edmacio Antunes Dos Anjos, Diego Siqueira Lima, Matheus Ricardo Bernardino e Marcelo Almeida Santos, durante o mês de junho de 2022, em São Paulo, em unidade de desígnios e concurso de pessoas, promoveram, constituíram e integraram organização criminosa com emprego de arma de fogo, para a prática de roubos e tráfico de drogas.
+Desta feita, não há que se cogitar no reconhecimento da litispendência, pois os processos tratam de crimes distintos, perpetrados por agentes diversos e em lapsos temporais diferentes. ..
+No tocante ao quantum de aumento, observo que a Súmula 443 do Superior Tribunal de Justiça destacou que "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para sua exasperação a mera indicação do número de majorantes".
+No caso dos autos observa-se que para a existência do concurso basta a participação de dois agentes. No caso dos autos, ficou patente que o crime foi cometido por, no mínimo, quatro agentes, demonstrando assim maior reprovabilidade.
+Pelo emprego de arma de fogo, patente o maior risco à integridade física e o maior poder vulnerante, tudo a indicar maior reprovabilidade, cabível o aumento de 2/3.
+Assim, possível aplicação de ambas, obtendo-se a pena de 8 anos, 10 meses e 20 dias de reclusão , e em 21 dias-multa. ..  (grifamos)
+Conforme se verifica, não restou demonstrada a alegada litispendência, tratando-se de crimes diversos. Ademais, as teses arguidas pela defesa demandam revolvimento fático-probatório incabível na via do writ.
+Por fim, no tocante à terceira fase da dosimetria, a jurisprudência desta Corte "é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta" (AgRg no HC n. 705.554/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+No caso, verifica-se concreta fundamentação para a incidência de ambas, de forma sucessiva, não havendo qualquer ilegalidade a ser sanada. O julgado, portanto, está em consonância com a jurisprudência desta Corte Superior.
+Diante do exposto e considerando a ausência de constrangimento ilegal, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
