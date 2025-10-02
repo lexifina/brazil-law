@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONALDO PIRES DE MORAIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE RONDÔNIA, assim ementado (fls. 20-21):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas Corpus impetrado em favor de Ronaldo Pires de Morais, preso preventivamente sob acusação de tentativa de homicídio qualificado (art. 121, § 2º, IV, c/c art. 14, II, do CP) e contravenção penal (art. 21 do Decreto-Lei n. 3.688/41).
+O paciente foi denunciado por supostamente agredir a vítima Diogo Alberto de Arruda Feltrin com taco de sinuca e, posteriormente, efetuar disparos de arma de fogo, causando lesões graves.
+A prisão preventiva foi decretada para garantia da ordem pública, conveniência da instrução criminal e assegurar a aplicação da lei penal. Após audiência de custódia, a segregação cautelar foi mantida diante da permanência dos requisitos do art. 312 do CPP e da fuga do paciente.
+II. QUESTÃO EM DISCUSSÃO
+1. A questão em discussão consiste em analisar a legalidade e a necessidade da prisão preventiva do paciente, especialmente quanto à existência dos requisitos do art. 312 do CPP, à suficiência de fundamentação judicial e à possibilidade de aplicação de medidas cautelares diversas da prisão.
+III. RAZÕES DE DECIDIR
+1. A decisão que decretou e manteve a prisão preventiva apresenta fundamentação concreta, baseada em elementos probatórios consistentes, como depoimentos testemunhais, imagens de vídeo e laudos que evidenciam a materialidade delitiva e os indícios de autoria.
+2. A gravidade concreta da conduta, evidenciada pelo modus operandi  surpresa, uso de arma de fogo, violência extrema e risco de consumação do homicídio  revela periculosidade acentuada do paciente e justifica a segregação cautelar para resguardar a ordem pública.
+3. A fuga do distrito da culpa, configurada pela evasão do paciente após o crime, demonstra risco concreto à aplicação da lei penal e reforça a necessidade da prisão preventiva.
+4. As condições pessoais favoráveis do paciente não se sobrepõem à presença dos requisitos autorizadores da custódia cautelar, sendo insuficientes para afastar o periculum libertatis.
+5. As medidas cautelares diversas da prisão mostram-se inadequadas e insuficientes para garantir a ordem pública e assegurar a regularidade da instrução criminal, dada a gravidade e as circunstâncias do delito.
+IV. DISPOSITIVO E TESE
+1. Ordem denegada.
+O paciente foi preso preventivamente em 3/6/2025 (fl. 457), após decisão proferida em 30/5/2025 pela 2ª Vara Genérica de Cerejeiras/RO, sob a acusação de tentativa de homicídio qualificado por recurso que dificultou a defesa da vítima (art. 121, § 2º, IV, c/c art. 14, II, do Código Penal) e contravenção penal (art. 21 do Decreto-Lei n. 3.688/41), sendo posteriormente denunciado em 18/6/2025.
+A prisão preventiva foi mantida pelo Juízo de primeiro grau, que destacou a gravidade concreta da conduta, o modus operandi do delito e o risco de reiteração criminosa, além de apontar a insuficiência de medidas cautelares diversas da prisão.
+O Tribunal de Justiça de Rondônia, ao julgar o habeas corpus originário, denegou a ordem, reiterando os fundamentos da decisão de primeiro grau e enfatizando a necessidade da segregação cautelar para garantia da ordem pública e aplicação da lei penal.
+No presente writ, o impetrante sustenta, em suma, que a prisão preventiva carece de fundamentação idônea, alegando que o paciente possui condições pessoais favoráveis, como bons antecedentes, residência fixa, ocupação lícita e apresentação espontânea à autoridade policial.
+Argumenta que não há animus necandi na conduta do paciente, mas apenas animus laedendi, e que a vítima não correu risco de vida, conforme laudo pericial, alegando, ainda, que a prisão preventiva foi decretada com base em gravidade abstrata e que medidas cautelares diversas seriam suficientes para garantir a ordem pública e a conveniência da instrução criminal.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória, com ou sem imposição de medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 466):
+HABEAS CORPUS - HOMICÍDIO TENTADO QUALIFICADO - PRISÃO PREVENTIVA - AUSÊNCIA DE REQUISITOS - DECISÃO FUNDAMENTADA - GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL.
+A alegação quanto à ausência de requisitos para prisão preventiva e à ausência de fundamentação da decisão que decretou a cautelar não vigoram, uma vez que inexiste qualquer vício na decisão que decreta, ou na que mantém a cautelar.
+Medidas cautelares alternativas à prisão seriam insuficientes para garantir a ordem pública e a aplicação da lei penal.
+PARECER PELO NÃO CONHECIMENTO DA ORDEM E, CASO SEJA CONHECIDA, PELA DENEGAÇÃO.
+Na origem, Processo n. 7001613-34.2025.8.22.0013, designou-se audiência de instrução e julgamento para 24/9/2025, conforme noticiado à fl. 458.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º do CPP, o que se passa a analisar.
+De início, a respeito do argumento de que não houve animus necandi na conduta do paciente, mas apenas animus laedendi, entende esta Corte ser "inadmissível o enfrentamento da alegação acerca de negativa da autoria delitiva ou fragilidade probatória ante a necessária incursão probatória, incompatível com a via estreita do habeas corpus" (AgRg no HC n. 897.031/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva, transcrita no acórdão ora impugnado, teve a seguinte fundamentação (fls. 15-16):
+ ..  No caso em testilha, verifica-se que se trata de suposto crime de tentativa de homicídio tipificado no Art. 121, § 2º, inciso II, c/c art. 14, do Código Penal, praticado pelo indiciado RONALDO PIRES DE MORAIS contra a vítima DIOGO ALBERTO DE ARRUDA FELTRIN, que resultou em lesões de natureza grave no braço esquerdo e abdômen.
+O requerimento da prisão preventiva fundamenta-se na garantia da ordem pública, conveniência da instrução criminal e visa assegurar a aplicação da lei penal, requisitos estes que se encontram preenchidos, pois, ao que se observa nesta fase, o investigado chegou de surpresa ao local, primeiramente portando uma enxada, e logo em seguida com um taco de sinuca, utilizado para a prática de agressões em desfavor da vítima.
+Narram ainda os autos, que apesar de o indiciado haver sido contido pelas testemunhas, conseguiu se desvencilhar e sacou uma arma de fogo, calibre 9mm, efetuando disparos contra a vítima, atingindo-a no braço esquerdo e abdômen, todavia, a vítima foi socorrida em estado grave, enquanto o agressor conseguiu foragir do local para local incerto.
+Também estão presentes a prova da existência do crime e indício suficiente de autoria, diante do meio do Boletim de Ocorrência apresentado ao ID 121444905, bem assim, conjunto de imagens fotográficas do local do crime.
+Dessarte, a identificação do infrator deu-se por testemunhas, imagens fotográficas, bem como por reconhecimento fotográfico.
+ ..
+Pela narração dos fatos, corroborado pelas provas juntadas ao presente pedido de representação pela prisão preventiva, restam presentes os indícios de autora. As documentações convergem para a existência de materialidade, além dos elementos acima coligidos, é notória a ocorrência do crime de tentativa de homicídio.
+Desta forma, diante da clareza dos relatos, há indícios contundentes de que o investigado R. P. DE M., DE FATO cometeu a tentativa de homicídio em desfavor da vítima D. A. A. F., tal qual como relatado no IP n.º 20772/2025 e nesta representação.
+Soma-se a isso, o histórico do investigado pela prática de diversos atos infracionais, conforme segue certidão de antecedentes penais. Tais circunstâncias denotam a periculosidade e a necessidade da segregação como forma de acautelar a ordem pública. ..
+In casu, consoante a jurisprudência desta egrégia Corte, caracterizada a idoneidade do decreto prisional, haja vista a extrema gravidade da conduta praticada pelo réu, ora paciente, que tentou ceifar a vida da vítima portando uma enxada e, logo em seguida, um taco de sinuca, utilizados para desferir as agressões.
+Ademais, após ser contido por outras pessoas, o acusado conseguiu se desvencilhar e sacou uma arma de fogo (calibre 9mm), efetuando disparos contra a vítima, atingindo-a no braço esquerdo e abdômen, deixando-a em estado grave e, em seguida, evadindo-se do local.
+Destacou-se, ainda, a reiteração delitiva do paciente, uma vez que há histórico pela prática de diversos atos infracionais.
+"A prisão preventiva se justifica pela gravidade concreta do crime de tentativa de homicídio qualificado, praticado por motivo fútil, evidenciando o periculum libertatis e a necessidade de resguardar a ordem pública, evidenciado pela fuga do acusado após o crime." (AgRg no RHC n. 205.452/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025).
+""Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n. 107.238/GO, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019)" (AgRg no RHC n. 207.771/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+Por fim, " s ão inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos graves." (AgRg no HC n. 960.341/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Diante do exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
