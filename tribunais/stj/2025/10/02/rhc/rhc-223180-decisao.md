@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Amanda Ferreira Goulart, contra acórdão de fls. 56-59, proferido pelo Tribunal de origem.
+Consta que a recorrente foi presa em flagrante pela prática, em tese, do crime previsto nos artigos 33, caput, da Lei n. 11.343/2006, e 16 da Lei n. 10.826/2006. Na audiência de custódia, a prisão em flagrante foi convertida em preventiva (fls. 37-40).
+A defesa impetrou habeas corpus no Tribunal de origem pugnando pela prisão domiciliar, uma vez que a recorrente é genitora de uma criança com 3 (três) meses de idade, a qual necessita de amamentação. A Corte local denegou a ordem (fls. 56-58).
+No presente recurso, reitera os argumentos apresentados na instância originária. Requer, em sede liminar, a concessão da prisão domiciliar. No mérito, pretende a confirmação da liminar (fls. 61-72).
+É o relatório. Decido.
+Verifica-se que o presente recurso ordinário é conexo ao Habeas Corpus n. 1.031.190/SC. No referido writ, o Ministro relator denegou a ordem em 1 de setembro de 2025.
+Em detida análise, nota-se que o recurso ordinário interposto é reiteração da matéria já submetida ao exame do Superior Tribunal de Justiça.
+As decisões questionadas neste recurso, qual seja, a de prisão preventiva, oriunda do Juízo singular, e o acórdão, proveniente do Tribunal de origem, correspondem aos mesmos provimentos judiciais juntados no Habeas Corpus n. 1.031.190/SC.
+De igual modo, a pretensão da recorrente permanece igual, com idênticos argumentos, pugnando, ao fim, pela concessão da prisão domiciliar.
+Ressalte-se que o Ministro relator decidiu no Habeas Corpus n. 1.031.190/SC que a prisão domiciliar não atendia ao melhor interesse da criança, mormente porque a genitora permitia a presença de armas e drogas na residência. Dessa forma, não se identifica na petição inicial do recurso ordinário algum argumento ou fato que desconstitua essa conclusão.
+A propósito:
+PENAL E PROCESSO PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. MERA REITERAÇÃO DE HABEAS CORPUS ANTERIORMENTE IMPETRADO NESTA CORTE SUPERIOR. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. ..  2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que "não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi". (AgRg no HC n. 773.624/PI, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).3. No caso dos autos, verifica-se que foi impetrado anteriormente nesta Corte Superior o Habeas Corpus n. 813.437/RS, também em benefício do ora paciente, apontando como ato coator o mesmo acórdão, apresentando o mesmo pedido e com fundamento na mesma causa de pedir. Dessa forma, o novo writ consubstancia mera reiteração, razão pela qual não pode ser conhecido.4. Agravo regimental a que se nega provimento. (RCD no HC n. 902.909/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, com fundamento nos artigos 210 e 246 do Regimento Interno do STJ, indefiro liminarmente o recurso em habeas corpus.
+Intimem-se.
+Publique-se.
+EMENTA
