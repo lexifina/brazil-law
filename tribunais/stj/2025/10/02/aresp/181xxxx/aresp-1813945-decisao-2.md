@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por VOLVO DO BRASIL VEÍCULOS LTDA., fundamentado na alínea a do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"DEMANDA DECLARATÓRIA. OFENSA A DIREITOS AUTORAIS. COBRANÇA DE SALDO DE ADIANTAMENTO DE SERVIÇOS FUTUROS NÃO PRESTADOS. RESPONSABILIDADE SOMENTE DA CORRÉ. SENTENÇA PARCIALMENTE REFORMADA. APELAÇÃO PARCIALMENTE PROVIDA." (fls. 1.044)
+Os embargos de declaração opostos foram (fls. 1.092/1.095 e 1.142/1.144).
+Nas razões do recurso especial, a parte alega violação ao artigo 86 do Código de Processo Civil, sustentando, em síntese, que o acórdão distribuiu os ônus sucumbenciais em 50% para cada parte, embora a recorrente tenha obtido êxito em três dos quatro pedidos, o que impunha distribuição proporcional, com reconhecimento de sucumbência mínima da recorrente e atribuição de 75% dos ônus à parte adversa.
+Foram apresentadas contrarrazões (fl. 1458/1466).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório. Decido.
+De fato, relativamente à sucumbência, o Superior Tribunal de Justiça já pacificou o entendimento de que a distribuição dos ônus sucumbenciais deve adotar, como critério norteador, o número de pedidos formulados e atendidos. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. ATRASO. INDENIZAÇÃO. LUCROS CESSANTES. VALOR LOCATÍCIO. DANO MORAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. IMPUGNAÇÃO GENÉRICA. ART. 1.021, § 1º, DO CPC. SUCUMBÊNCIA. DISTRIBUIÇÃO. PEDIDOS PROCEDENTES. PROPORCIONALIDADE. AGRAVO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. A impugnação aos fundamentos que dão suporte ao capítulo da decisão objeto de agravo interno deve ser específica, nos termos do artigo 1.021, §1º, do Código de Processo Civil. Não se conhece, no caso dos autos, da alegação de ausência de prequestionamento e de demonstração do dissídio jurisprudencial por não divisar a parte as questões que carecem dos mencionados requisitos.
+2. "O atraso na entrega do imóvel objeto de contrato de promessa de compra e venda acarreta a condenação da promitente vendedora ao pagamento de lucros cessantes, a título de aluguéis, que deixariam de ser pagos ou que poderia o imóvel ter rendido." (AgInt no REsp n. 1.741.919/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/12/2018, DJe de 6/12/2018.)
+3. O simples descumprimento do contrato não rende ensejo a indenização por danos morais. Precedentes.
+4. "A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito" (REsp 1646192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/03/2017, DJe 24/03/2017)
+5. Agravo interno parcialmente conhecido e, na parte conhecida, não provido.
+(AgInt nos EDcl no REsp n. 1.972.818/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023, g.n.)
+No presente caso, considerando o provimento da apelação para excluir da condenação o recorrido MARIO FERNANDO DE BARROS, o eg. Tribunal de Justiça dividiu os ônus da sucumbência na proporção de 50% para cada uma das partes, nos seguintes termos:
+"Conforme constou expressamente na parte dispositiva do acórdão, houve o provimento parcial da apelação para afastar a responsabilidade do corréu pelo saldo do adiantamento, mantendo-se os demais termos da sentença, e condenando a autora ao pagamento de metade das custas e despesas processuais e dos honorários de advogado, 20% (vinte por cento) sobre o valor da causa, atualizado. Por consequência lógica do julgado, a parte adversa deverá arcar com a outra metade, baseando o cálculo do referido percentual sobre o valor da causa conforme mencionado." (fl. 1.144, g.n.)
+Portanto, ao contrário do que alega a recorrente, não há que se falar em sucumbência mínima, uma vez que o redimens i onamento dos honorários em razão da exclusão da lide de um dos réus - quando a sentença havia condenado ambos - se deu de maneira adequada.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RIST, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
