@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual BMS BATERIAS MATO GROSSO DO SUL LTDA se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 209):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA - TRIBUTÁRIO - SENTENÇA SINGULAR DE PARCIAL PROCEDÊNCIA APENAS PARA REDUZIR A MULTA APLICADA PARA 100% DO IMPOSTO DEVIDO - APELO DO ESTADO DE MATO GROSSO DO SUL - MANUTENÇÃO DA SENTENÇA APLICADA NO ALIM IMPUGNADO - DISTINÇÃO ENTRE TRIBUTO E PENALIDADE - NÃO APLICAÇÃO DO PRINCIPIO DO NÃO CONFISCO AS PENALIDADES - ARGUMENTOS NÃO ACOLHIDOS - PRECEDENTES QUE VALIDAM A APLICAÇÃO DO REFERIDO PRINCÍPIO TAMBÉM AS MULTAS IMPOSTAS - ALTERAÇÃO LEGISLATIVA QUE REDUZIU O PERCENTUAL DA MULTA PARA O VALOR FIXADO PELO JUÍZO A QUO - ART, 106, II, c do CTN - RECURSO CONHECIDO E NÃO PROVIDO - APELO DA PARTE AUTORA - NULIDADE DO AUTO DE INFRAÇÃO - NÃO VERIFICADA - DOCUMENTO QUE SEQUER ACOMPANHOU A INICIAL, TAMPOUCO FOI JUNTADO AOS AUTOS - QUEBRA DO SIGILO BANCÁRIO - NÃO OCORRÊNCIA - SITUAÇÃO PREVISTA E AUTORIZADA POR LEI - VIOLAÇÃO DO PRINCÍPIO DO CONTRADITÓRIO E AMPLA DEFESA - AFASTADO - MINORAÇÃO DA MULTA - INDEVIDA - RECURSOS CONHECIDOS E NÃO PROVIDOS - SENTENÇA SINGULAR INALTERADA.
+Os embargos de declaração opostos foram rejeitados (fls. 262/275).
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 464/474).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial com base no que segue:
+(1) Não cabe ao Superior Tribunal de Justiça analisar ofensa a dispositivo constitucional, de maneira que o recurso especial não pode ser conhecido quanto à alegada violação ao art. 150 da Constituição Federal.
+(2) A Lei estadual 1.810/1997 não pode ser analisada, pois o recurso especial não se presta à análise de legislação local, nos termos da Súmula 280 do Supremo Tribunal Federal (STF).
+(3) Não foi demonstrada a similitude fática e não foi realizado o cotejo analítico entre as decisões paradigmas e o acórdão recorrido, de maneira que não foram cumpridos os requisitos necessários à apreciação da divergência jurisprudencial.
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte:
+(1) Embora a Lei estadual 1.810/1997 tenha sido utilizada como fundamento do acórdão recorrido, foram levantados outros temas que não guardam relação com a legislação local, de maneira que não incide a Súmula 280/STF.
+(2) não seria necessário reexaminar os fatos e as provas do processo, porque as informações relevantes já estão no acórdão recorrido; e
+(3) "vê-se das razões estampadas no recurso especial que o agravante efetuou a contento o cotejo analítico. Transcreveu decisões proferidas por Tribunais diversos, bem como desse Sodalício, em casos semelhantes, demonstrando suficientemente as circunstâncias identificadoras da divergência com o caso confrontado. Além do que informou devidamente a origem dos julgados e juntou cópias autenticas das decisões paradigmas" (fl. 454).
+Constata-se que a parte agravante não impugnou a impossibilidade de o recurso especial ser conhecido quanto à violação de dispositivo constitucional.
+A ausência de cotejo analítico, por sua vez, foi impugnada de maneira genérica, sem que fosse demonstrado, nas razões do agravo, que a similitude fática e o ponto divergente entre o acórdão recorrido e o paradigma foram salientados nas razões do recurso especial.
+Quanto à impugnação suficiente da ausência de cotejo analítico, confira-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DA CORTE LOCAL QUE INADMITIU O APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. O óbice da não comprovação do dissídio jurisprudencial, por sua vez, deve ser refutado na peça do agravo com a demonstração de que as razões do recurso especial não se limitaram à transcrição de ementas, pois invocou-se a divergência com cotejo analítico da similitude fática e conclusão jurídica diversa na interpretação de dispositivo legal - o que tampouco foi demonstrado pela defesa.
+ ..
+(AgRg no AREsp n. 2.770.961/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/8/2025, DJEN de 19/8/2025.)
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro em 10 % (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
