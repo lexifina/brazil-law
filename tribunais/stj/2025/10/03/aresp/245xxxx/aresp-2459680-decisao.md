@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL contra decisão que obstou a subida do recurso especial.
+Extrai-se dos autos que foi interposto recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que julgou demanda relativa à cobrança de expurgos inflacionários.
+O julgado deu parcial provimento ao recurso de agravo de instrumento do recorrente nos termos da seguinte ementa (fls. 132):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DECISÃO QUE HOMOLOGOU OS CÁLCULOS APRESENTADOS PELA CONTADORIA JUDICIAL E REJEITOU IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXECUÇÃO COMPLEMENTAR DE VALORES RESIDUAIS. INOBSERVÂNCIA DOS PARÂMETROS FIXADOS NO ACÓRDÃO HÁ MUITO TRANSITADO EM JULGADO NO PROCESSO DE CONHECIMENTO, QUE VEDOU EXPRESSAMENTE A INCIDÊNCIA DE JUROS REMUNERATÓRIOS. EXCESSO VERIFICADO. REFORMA DA DECISÃO PARA QUE SEJAM ELABORADOS NOVOS CÁLCULOS, RESPEITADA A COISA JULGADA MATERIAL. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Rejeitados os embargos de declaração opostos (fls. 183-192).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão estadual contrariou as disposições contidas nos artigos artigos 406 e 407 do CC e artigo 4º do Decreto n. 22.626/1993.
+Apresentadas as contrarrazões (fls. 256-274), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 276-280), o que ensejou a interposição de agravo (fls. 294-318).
+Apresentada contraminuta do agravo (fls. 322-340).
+É, no essencial, o relatório.
+A decisão recorrida não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos (fls. 188-191):
+Assim, embora alegue a recorrente a existência de omissão, não se constata nenhum vício no aresto, que procedeu à devida análise da matéria, determinando o retorno dos autos à Contadoria Judicial para elaboração de novos cálculos com vistas a apurar as diferenças devidas aos autores em cumprimento de sentença complementar, observando-se os parâmetros fixados na sentença do processo de conhecimento, há muito transitada em julgado, conforme se verifica dos seguintes excertos: "Conheço do recurso por tempestivo e por estarem presentes os demais requisitos de admissibilidade. Insurge-se o agravante contra a decisão que homologou os cálculos apresentados pela Contadoria Judicial e rejeitou a impugnação ao cumprimento complementar de sentença, determinando, ainda, a expedição de mandado de pagamento em favor do impugnado do valor incontroverso depositado (fls. 1.006) e a intimação do impugnante para depositar a diferença apontada pelo Contador.
+Da análise do feito matriz, verifica-se que os cálculos apresentados pela Contadoria Judicial, em sede de cumprimento de sentença complementar (diferença de valores devido ao depósito, em 20/04/2015, do valor histórico), apontam saldo devedor e incluem juros remuneratórios de 6% a. a, em desacordo com o acórdão proferido por esta Segunda Câmara Cível no processo de conhecimento, em sede de apelação, há muito transitado em julgado (indexador 317).
+(..)
+Da análise do feito matriz, verifica-se que os cálculos apresentados pela Contadoria Judicial, em sede de cumprimento de sentença complementar (diferença de valores devido ao depósito, em 20/04/2015, do valor histórico), apontam saldo devedor e incluem juros remuneratórios de 6% a. a, em desacordo com o acórdão proferido por esta Segunda Câmara Cível no processo de conhecimento, em sede de apelação, há muito transitado em julgado (indexador 317).
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Acrescenta-se, ainda, que a revisão dos cálculos realizados pela Contadoria Judicial demandaria revolvimento fático-probatório, o que é vedado nos termos da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
