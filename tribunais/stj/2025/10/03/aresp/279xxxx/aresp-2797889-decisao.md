@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MISTER OIL DISTRIBUIDORA LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 37):
+AGRAVO DE INSTRUMENTO. Execução fiscal. ICMS. Exceção de pré-executividade. Decisão que rejeitou as alegações de forma devidamente fundamentada. Ausência dos requisitos para acolhimento de exceção de pré-executividade. Matérias já apreciadas em anteriores agravos de instrumento. Reiteração genérica. RECURSO NÃO PROVIDO.
+Não houve oposição de embargos declaratórios.
+Em seu recurso especial de fls. 44-56, a parte recorrente sustenta que houve "flagrante ofensa a nossa regra normativa, exposta no art. 203 do CTN e art. 2º, § 8º da LEF" (fl. 52).
+Nessa perspectiva, alega que "é incontroverso que a Fazenda Pública poderia retificar, ou até mesmo juntar uma nova CDA nos autos, desde que houvesse respeitado o prazo preclusivo estipulado pelo nosso legislador, nos dispositivos supra destacados" (fl. 53).
+Por fim, conclui que "a irregularidade constatada no feito reside na aceitação do ato administrativo praticado pela Fazenda Pública Estadual, que devido ao descumprimento do art. 203 do CTN e art. 2º, § 8º da LEF, fez prosseguir ação executiva, contra título que não preenche mais os requisitos legais do art. 202 do CTN e art. 2º § 5º da LEF, não podendo sequer ser contestado, em clara ofensa ao contraditório e a ampla defesa" (fl. 53).
+O Tribunal de origem, às fls. 70-71, não admitiu o recurso especial sob os seguintes fundamentos:
+O recurso não merece trânsito.
+Isso porque o posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior.
+Com efeito, alega o recorrente a inobservância da taxa Selic e da redução da multa ao valor de 100% do tributo para a cobrança do crédito, ao passo que o v. acórdão recorrido pontuou que a reiteração das alegações de descumprimento do recálculo de forma genérica, beira a má-fé e está em desacordo com o quanto já decidido e comprovado nos autos, ao passo que o inadimplemento do crédito executado persiste.
+Relembre-se que, diante deste contexto fático, o ônus de efetiva demonstração de eventual excesso é do executado, nos embargos à execução, mediante instrução probatória.
+Portanto, as genéricas alegações da agravante carecem de fundamentação jurídica relevante, salientando, mais uma vez, a proibição da Súmula 393 do STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória". (fl. 44-56)
+Nesse aspecto, rever a posição da Turma Julgadora demandaria a análise do acervo fático-probatório, o que, no entanto, é vedado em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça. Inadmito, pois, o recurso especial (págs. 44-56) com fundamento no art. 1.030, inciso V, do Código de Processo Civil.
+Interposto agravo em recurso especial às fls. 74-82, o recorrente alega que "a discussão do presente recurso não envolve questões fáticas, se limitando a pleitear pela real e objetiva aplicação da lei em oposição ao que restou decidido no acórdão recorrido, no qual manteve a decisão que negando provimento ao agravo interposto sob o entendimento de que os cálculos apresentados pela FESP nos autos de origem estão em conformidade com o determinado, bem como que foram interpostos outros agravos em 2018 e 2020 alegando a mesma matéria (descumprimento do recálculo pela FESP)" (fl. 79).
+No mais, reprisa fragmentos da petição do recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+A decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos, quais sejam: (1) - "o posicionamento alcançado pelos doutos Julgadores, embora contrário às pretensões da recorrente, não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior" (fl. 70), situação a atrair a incidência do enunciado 284 da Súmula do STF, por analogia, ante a impossibilidade de compreensão integral da controvérsia, frente à fundamentação recursal deficiente; e (2) - a incidência do enunciado 7 da Súmula do STJ, diante da impossibilidade de reexame de fatos e provas na instância especial.
+Todavia, no seu agravo, a parte não refutou suficientemente todos os referidos fundamentos da decisão agravada , os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
