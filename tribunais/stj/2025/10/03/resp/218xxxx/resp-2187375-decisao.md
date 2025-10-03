@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO no julgamento da Apelação/Remessa Necessária n. 0008216-57.2018.4.02.5001/ES, cuja ementa é a seguir transcrita (fl. 269):
+PREVIDENCIÁRIO. PROCESSO CIVIL. SENTENÇA CITRA PETITA.
+1. Verifica-se que o Juízo a quo não analisou o pedido de cômputo do período de 01/09/69 a 31/03/71 no tempo de contribuição do segurado, embora tenha sido abarcado pelo pedido veiculado na petição inicial. Verifica-se, portanto, tratar-se de sentença citra petita. Estando a matéria madura para julgamento, pode o Tribunal fazê-lo em respeito à celeridade processual e ao disposto no artigo 1.013, § 3º do Código de Processo Civil sem que seja considerado supressão de instância.
+2. Quanto ao período entre 23/07/71 a 31/10/75, também assiste razão ao autor. Não há dúvidas quanto ao exercício de atividade empresarial. No período em análise, a legislação não exigia do segurado a demonstração do recolhimento de suas contribuições, mas tão somente a demonstração do exercício da atividade, ainda que a responsabilidade pelo recolhimento recaísse sobre a pessoa do segurado, na qualidade administrador da pessoa jurídica.
+3. Dado provimento à apelação do autor. Apelação do INSS não provida.
+Os embargos de declaração opostos foram rejeitados (fls. 677-679).
+Irresignado, o recorrente interpôs recurso especial, com fulcro no art. 105, inciso III, alínea a, da CF, no qual alega afronta aos arts. 1.022, inciso II, do CPC e 32, § 3º, da Lei n. 3.807/1960.
+Afirma que houve negativa de prestação jurisdicional.
+Sustenta que o acórdão recorrido indevidamente "reconheceu a possibilidade do cômputo do período de 23/07/1971 a 31/10/1975 na qualidade de contribuinte, mesmo sem nenhuma contribuição previdenciária quanto ao período" (fl. 691).
+Contrarrazões às fls. 701-704.
+Decisão de admissibilidade à fl. 710.
+É o relatório.
+Decido.
+Não obstante o recurso especial alegue violação ao art. 1.022, inciso II, do Código de Processo Civil, não especifica em quais os pontos do acórdão recorrido haveria omissão, contradição, obscuridade ou erro material, tampouco a relevância da análise dessas questões para o caso concreto.
+Assim, o conhecimento desse capítulo recursal é obstado pela falta de delimitação da controvérsia, atraindo a aplicação da Súmula n. 284 do STF. Nesse sentido: AgInt nos EDcl no AREsp n. 1.311.559/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023; REsp n. 2.089.769/PB, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2023, DJe de 21/9/2023.
+A Corte a quo, ao dirimir a controvérsia, assim se manifestou (fls. 595-596, sem grifos no original):
+ ..
+A questão controvertida se resume à possibilidade de reconhecimento do referido período sem comprovação do recolhimento das respectivas contribuições.
+Isso porque no período em análise, a legislação não exigia do segurado a demonstração do recolhimento de suas contribuições, mas tão somente a demonstração do exercício da atividade, ainda que a responsabilidade pelo recolhimento recaísse sobre a pessoa do segurado, na qualidade administrador da pessoa jurídica.
+De fato a legislação foi posteriormente modificada para adotar a posição - mais equilibrada - de diferenciar tal hipótese dos casos de segurados empregados. Todavia, ainda que se possa debater a adequação da legislação pretérita, a nova norma não pode retroagir para prejudicar o segurado. Essa, inclusive, é a posição adotada pela própria administração,
+Veja-se, nesse sentido:
+Recurso especial. Previdenciário. Sócio. Recolhimento de contribuições previdenciárias. Responsabilidade. Sócio-cotista/diretor. Lei 3.807/60. Decreto-lei 48959-a/90. Aposentadoria por tempo de serviço. Recurso provido.
+I - A aposentadoria por tempo de serviço está encartada no rol de benefícios a cargo da previdência social. Para fazer jus a ela o segurado deve preencher os requisitos constantes dos artigo 25, II e 52, ambos da Lei n.º 8.213/91, quais sejam, qualidade de segurado, tempo de serviço - 25 (vinte e cinco) anos, se o postulante for do sexo feminino, e 30 (trinta) anos, se do sexo masculino - e, ainda, o cumprimento da carência.
+II - A Corte a quo, reformando a sentença, ante a não comprovação do recolhimento das contribuições previdenciárias correspondentes, não reconheceu o tempo de serviço prestado pelo autor, no período compreendido entre 8/1/1968 e 30/11/1975, período em que teria trabalhado na empresa Indústria de Plásticos Ambalit S/A, na função de Diretor-empregado.
+III - Para tanto, o Tribunal de origem entendeu que, sendo o autor acionista/empregador da pessoa jurídica, com autonomia para tomar decisões, deveria ser responsabilizado pelo recolhimento das aludidas contribuições.
+IV - Relativamente ao período citado, a legislação de regência é a Lei nº 3.807/60 (Lei Orgânica da Previdência Social) e o Decreto 48959-A (Regulamento do Regime de Previdência Social), sendo da sociedade empresarial a obrigação de arrecadar as contribuições previdenciárias dos sócios/diretores.
+V - É de ser reconhecido o tempo de serviço no período compreendido entre 8/1/1968 e 30/11/1975. Assim, tendo o recorrente preenchido o requisito da carência de 180 (cento e oitenta) contribuições, contando, pois, com mais de 30 (trinta) anos de tempo de serviço: 23 (vinte e três) anos, 9 (nove) dias - reconhecidos pela Corte de origem, acrescido de 7(sete) anos, 10 (dez) meses e 29 (vinte e nove) dias relativos ao tempo de serviço urbano reconhecido em virtude do presente recurso especial, a procedência do pedido é de rigor.
+VI - Recurso especial provido (REsp 1214527/SC, min. Maria Thereza de Assis Moura, em 16 de dezembro de 2010).
+ .. .
+A parte recorrente, nas razões do recurso especial, deixou de rechaçar efetivamente o fundamento do decisum impugnado, acima transcrito e grifado, de que, "no período em análise, a legislação não exigia do segurado a demonstração do recolhimento de suas contribuições  .. " (fl. 595), nem pode a nova norma retroagir para prejudicar o segurado.
+Desse modo, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Confiram-se: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Na mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR. RESERVA REMUNERADA. EXCLUSÃO DA CORPORAÇÃO PELO CONSELHO DE DISCIPLINA. CESSAÇÃO DO PAGAMENTO DOS PROVENTOS. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+1.Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ. 2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.  ..  4. Agravo interno não provido.
+(AgInt no RMS n. 74.730/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 596), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. REVISÃO DO SALÁRIO DE BENEFÍCIO DE APOSENTADORIA. OFENSA AO ART. 1.022 DO CPC. RAZÕES GENÉRICAS. SÚMULA N. 284 DO STF. DEMONSTRAÇÃO DO RECOLHIMENTO DAS CONTRIBUIÇÕES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO .
