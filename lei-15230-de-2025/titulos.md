@@ -1,0 +1,1 @@
+Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para disciplinar a aferição da idade de elegibilidade e para dispor sobre o uso de panfletos em sistema Braille nas campanhas eleitorais dos candidatos aos cargos majoritários.
