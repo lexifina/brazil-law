@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BURITI ENERGIA S.A. e por CURUÁ ENERGIA S.A. contra a decisão que inadmitiu o recurso especial com fundamento na Súmula n. 7 do STJ.
+Alegam as agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo é meramente protelatório.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 787):
+AGRAVO DE INSTRUMENTO AÇÃO DE COBRANÇA LIQUIDAÇÃO DE SENTENÇA DECISÃO QUE DETERMINOU A PENHORA DOS CRÉDITOS (RECEBÍVEIS FUTUROS) DAS EXECUTADAS JUNTO À EMPRESA CELPA/EQUATORIAL - PENHORA DE CRÉDITO POSSIBILIDADE NÃO COMPROVADO DE FORMA IDÔNEA QUE A PENHORA INVIABILIZARIA AS ATIVIDADES DAS EXECUTADAS CONSTRIÇÃO MANTIDA DECISÃO QUE NÃO CONHECEU DAS IMPUGNAÇÕES DAS EXECUTADAS POR SEREM QUESTÕES APRECIADAS E JÁ DECIDIDAS EM SEGUNDA INSTÂNCIA PRECLUSÃO CONFIGURADA - PEDIDO DE CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ PELA AGRAVADA DEFERIMENTO PRESENÇA DOS REQUISITOS DO ART. 80, IV, VI E VII E DO ART. 81 DO CPC DECISÃO MANTIDA - RECURSO NÃO PROVIDO, COM DETERMINAÇÃO.
+Não foram opostos embargos de declaração.
+No recurso especial, as recorrentes apontam violação dos seguintes artigos:
+a) 805 do CPC, porque a execução deve observar o modo menos gravoso para o executado e a constrição integral dos recebíveis inviabiliza a atividade empresarial, impondo sua redução a percentual que assegure a continuidade das operações;
+b) 866, § 1º, do CPC, pois a penhora sobre faturamento é medida excepcional e deve respeitar limite que não torne inviável o exercício da atividade empresarial, equiparando-se aos recebíveis decorrentes de sua atividade-fim perante a única cliente (CELPA/EQUATORIAL);
+c) 80 do CPC, porquanto a condenação por litigância de má-fé decorreu do mero exercício regular do direito de impugnar o cumprimento de sentença, com matérias previstas no art. 525, § 1º, do CPC, inexistindo conduta dolosa apta a justificar a sanção.
+Requer o provimento do recurso para que se reduza a penhora a patamar que não inviabilize suas atividades e se afaste a multa por litigância de má-fé; subsidiariamente, pleiteia a atribuição de efeito suspensivo para impedir a penhora, liberando-se os valores bloqueados.
+Nas contrarrazões, a parte recorrida aduz que há preclusão das matérias veiculadas na impugnação ao cumprimento de sentença; que não houve prequestionamento dos dispositivos federais; que não foi demonstrada contrariedade à lei federal; e que a pretensão demanda reexame de fatos e provas. Requer a inadmissão do recurso especial e, caso dele se conheça, seu desprovimento com manutenção da penhora de créditos e da multa por litigância de má-fé.
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão proferida na liquidação/cumprimento de sentença que indeferiu a limitação da penhora sobre créditos futuros das executadas junto à CELPA/EQUATORIAL; não conheceu das impugnações ao cumprimento de sentença por matérias já apreciadas e decididas em segunda instância; e aplicou multa por litigância de má-fé.
+A Corte estadual negou provimento ao recurso; manteve a decisão agravada por seus fundamentos; assentou a possibilidade de penhora de créditos futuros à luz do art. 855 do CPC; afastou a alegada inviabilidade por ausência de prova idônea; reconheceu a preclusão das matérias já decididas em grau anterior; e condenou as agravantes por litigância de má-fé, nos termos dos arts. 80, IV, VI e VII, e 81 do CPC.
+Antes de analisar a insurgência, registre-se que, por meio da petição de fls. 1.034-1.036, a parte agravada noticia que, após decisão na Reclamação n. 45.850, o juiz de primeiro grau reduziu a penhora a 50% do faturamento da empresa, após o que o Tribunal local a reduziu ainda mais, dessa feita, a 30% sobre o mesmo faturamento.
+Pleiteou, por isso, o reconhecimento da perda de objeto do presente recurso.
+A parte agravante se manifestou pela permanência do interesse recursal.
+De fato, parte do interesse recursal está prejudicado após o julgamento pelo Tribunal de Justiça de São Paulo do Agravo de Instrumento n. 181181-94.2023.8.26.0000, em trâmite naquela Corte, através do qual se deu provimento ao reclamo da ora agravante "para determinar a penhora de 30% do faturamento líquido das executadas e, por conseguinte, liberar 70% da quantia penhorada nos autos".
+Um dos objetos do recurso especial, expresso em suas razões, é justamente que "a penhora sobre o seu faturamento seja reduzida em respeito aos limites dos arts. 805 e 866, § 1º do CPC, garantindo-se faturamento suficiente para fazer frente ao desenvolvimento da sua atividade empresarial".
+Esse objeto, nitidamente, já foi atingido na instância ordinária, o que acarreta, nesse particular, a perda superveniente do interesse recursal (CPC, art. 485, VI).
+De toda sorte, avançar sobre a razoabilidade ou não do percentual atualmente fixado, de 30% sobre o faturamento da empresa agravante, demandaria a incursão no contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 7 desta Corte, consoante se observa dos seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR ANTECEDENTE. MEDIDAS CONSTRITIVAS. EVIDENTE OCULTAÇÃO E ESVAZIAMENTO PATRIMONIAL. PENHORA SOBRE O FATURAMENTO. CABIMENTO. CONSTRIÇÃO SOBRE O FATURAMENTO. NÃO INVIABILIZAÇÃO DAS ATIVIDADES DA AGRAVANTE. ENTENDIMENTO DE FORMA DIVERSA DO TRIBUNAL. ÓBICE DA SÚMULA 7 DO STJ.
+ ..
+7. Entender de forma diversa do Tribunal de origem, afastando os argumentos atinentes à confusão patrimonial, às fraudes perpetradas e à possibilidade de esvaziamento patrimonial, e que o percentual definido inviabilizaria o prosseguimento das atividades, demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+8. Agravo interno desprovido. (AgInt no REsp n. 2.198.059/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/5/2025, DJEN de 5/6/2025, destaquei.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE FATURAMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC. PENHORA. AUSÊNCIA. ART. 1.017, § 3º, DO CPC. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. PENHORA DE FATURAMENTO. REQUISITOS. PERCENTUAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ.
+ ..
+5. O Tribunal estadual assentou que a tentativa de busca de bem penhorável restou infrutífera e que o percentual de 10% do faturamento resguardaria que a constrição não inviabilizasse a atividade empresarial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n. 7 do STJ.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido. (AREsp n. 1.731.346/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025, destaquei.)
+Deixo de conhecer do recurso, portanto, quanto aos arts. 805 e 866, § 1º, do Código de Processo Civil, ante a perda superveniente do interesse recursal.
+Quanto ao art. 80 do CPC, observa-se que, de fato, o acórdão recorrido divergiu do entendimento deste Tribunal, pois a parte agravante se valeu do recurso previsto para a espécie, sem abuso no seu exercício. Em circunstâncias tais, descabe falar em litigância de má-fé. Confiram-se precedentes:
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. OMISSÃO INEXISTENTE. INSCRIÇÃO. CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. COMPROVAÇÃO DE ENVIO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. RECURSO PROTELATÓRIO. DESCABIMENTO.
+ ..
+4. A aplicação da multa por litigância de má-fé ou por oposição de recurso manifestamente protelatório não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. (AREsp n. 2.940.957/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025, destaquei.)
+AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. LITIGÂNCIA DE MÁ-FÉ. MULTA. APLICAÇÃO INCABÍVEL.
+ ..
+3. A jurisprudência deste Tribunal Superior é no sentido de não aplicar a multa por litigância de má-fé quando a parte utiliza recurso previsto no ordenamento jurídico, sem abusar do direito de recorrer, como é o caso dos autos.
+4. Agravo em recurso especial não conhecido. (AREsp n. 2.910.894/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025, destaquei.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nest a extensão, dar-lhe provimento para afastar a pena por litigância de má-fé imposta à parte agravante.
+Publique-se. Intimem-se.
+ EMENTA
