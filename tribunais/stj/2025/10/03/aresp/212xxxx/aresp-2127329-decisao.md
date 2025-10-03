@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA MISTA AGROPECUÁRIA DO BRASIL (COOPERMIBRA) contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 83 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação cível nos autos de ação de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 314):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO INTERCORRENTE, EXTINGUINDO A EXECUÇÃO. INSURGÊNCIA DA PARTE EXEQUENTE. EXEQUENTE REQUEREU A SUSPENSÃO E NÃO SE MANIFESTOU MAIS NOS AUTOS POR MAIS DE SETE ANOS. PRESCRIÇÃO INTERCORRENTE CONFIGURADA. INAPLICABILIDADE DO ARTIGO 1.056 DO NCPC, EIS QUE JÁ INICIADO O PRAZO DA PRESCRIÇÃO QUANDO DA ENTRADA EM VIGOR DO NOVO DIPLOMA PROCESSUAL. AUSÊNCIA DE CONDUTA DILIGENTE PELA EXEQUENTE. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DA EXEQUENTE. APLICAÇÃO DO IAC RESP Nº 1604412/SC DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 347):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO INTERCORRENTE, EXTINGUINDO A EXECUÇÃO. ACÓRDÃO EMBARGADO QUE NEGOU PROVIMENTO AO RECURSO INTERPOSTO PELA PARTE EXEQUENTE. IRRESIGNAÇÃO DA EXEQUENTE. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO QUANTO AO TERMO INICIAL DA CONTAGEM DO PRAZO DE PRESCRIÇÃO INTERCORRENTE E AUSÊNCIA DE INTIMAÇÃO PESSOAL PARA DAR ANDAMENTO AO FEITO. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. TESES SUSCITADAS QUE DEMONSTRAM CLARAMENTE A INTENÇÃO DA EMBARGANTE DE REFORMA DA DECISÃO ANTE O SEU INCONFORMISMO. IMPOSSIBILIDADE DE ANÁLISE PELA VIA DOS ACLARATÓRIOS. AUSÊNCIA DOS VÍCIOS DO ARTIGO 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 267, II, § 1º, do CPC de 1973, pois a prescrição intercorrente não pode ser reconhecida sem a intimação pessoal do exequente para dar andamento ao feito;
+b) 485, § 1º, do CPC de 2015, porquanto a parte deve ser intimada pessoalmente para suprir a falta no prazo de 5 dias;
+c) 206, § 3º, VIII, do CC, visto que a prescrição do título de crédito é de 3 anos e não houve intimação para prosseguimento do feito;
+d) 921, III, do CPC, porque o feito executivo se encontrava suspenso por falta de bens, hipótese na qual não há fluência do prazo prescricional.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando-se a prescrição intercorrente e determinando-se o prosseguimento da execução.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Passo à análise das supostas violações.
+I - Art. 267, II, § 1º, do CPC de 1973
+A parte recorrente alega que a extinção do processo por abandono, que daria causa à prescrição intercorrente, dependeria de sua prévia intimação pessoal para dar andamento ao feito, o que não ocorreu.
+A tese não prospera. Isso porque o acórdão recorrido está em perfeita harmonia com a jurisprudência pacificada por esta Corte. O Superior Tribunal de Justiça, no julgamento do Incidente de Assunção de Competência no REsp n. 1.604.412/SC, firmou o entendimento vinculante de que a intimação pessoal do exequente é desnecessária para a fluência do prazo da prescrição intercorrente.
+No caso, o contraditório foi devidamente oportunizado, e a parte, que se encontrava devidamente patrocinada por advogado, permaneceu inerte por longos anos, não se podendo imputar a paralisação do feito ao mecanismo da Justiça.
+II - Art. 485, § 1º, do CPC de 2015
+A recorrente reitera o argumento da necessidade de intimação pessoal com base na nova legislação processual. A lógica, contudo, permanece a mesma. A tese firmada no REsp n. 1.604.412/SC foi estabelecida justamente para pacificar a interpretação das normas que regem a matéria, concluindo-se que, uma vez iniciada a suspensão do processo a pedido do exequente ou pela ausência de bens, o prazo prescricional começa a fluir automaticamente após o término do prazo de 1 ano de suspensão, independentemente de nova intimação. A inércia da parte, devidamente assistida por seu patrono, por prazo superior ao da prescrição do título configura a prescrição intercorrente.
+III - Art. 206, § 3º, VIII, do CC
+Não há falar em violação do referido dispositivo. O acórdão recorrido reconheceu corretamente o prazo prescricional de 3 anos para a pretensão executória. A controvérsia reside na configuração da inércia da parte exequente.
+Conforme demonstrado, o processo permaneceu sem movimentação útil por período superior a 7 anos, ultrapassando em muito o prazo legal.
+O próprio acórdão recorrido, à fl. 316, detalha a cronologia da inércia de forma irrefutável, cujos fundamentos adoto como razões de decidir:
+No caso, cuida-se de execução decorrente de obrigação de entregar coisa incerta constante em cédula de produto rural, pretensão para a qual, portanto, o prazo prescricional do direito material é de 03 (três) anos, conforme previsão expressa do artigo 206, § 3º, inciso VIII do Código Civil  1  e Súmula 150 do STF  2 , como corretamente indicado na sentença.
+Necessário, assim, averiguar se o processo ficou paralisado por tempo superior ao prazo prescricional e por inércia da parte exequente.
+Da análise dos autos, verifica-se que a parte exequente pleiteou a suspensão da execução por 180 dias em razão da ausência de bens penhoráveis (mov. 1.1, fl. 204), o pleito foi deferimento em 19.06.2013 pela decisão de mov. 1.1 (fl. 205), e os autos foram encaminhados para o arquivo.
+Ultrapassado o período de suspensão dos autos, ou seja, na data de 19.01.2014, houve a retomada do curso do prazo prescricional.
+Assim, em relação ao período de paralisação que interessa no caso, ou seja, de 19 de junho de 2013 quando os autos foram arquivados (mov. 1.1 fl. 205) até 14 de abril de 2020 quando houve manifestação da parte exequente acerca da prescrição intercorrente (mov. 7.1), depreende-se que o feito ficou paralisado pelo prazo superior a 3 anos - foram mais de 7 anos sem qualquer manifestação.
+Neste quadro, não há como não reconhecer o acerto da sentença ao declarar a ocorrência da prescrição intercorrente, haja vista que, tendo a apelante ficado inerte por anos sem justificativa e sem a prática de qualquer ato que demonstrasse interesse no prosseguimento do processo, este deve ser extinto.
+Nos termos do art. 206, § 3º, VIII, do CC, "prescreve em três anos a pretensão para haver o pagamento de título de crédito, a contar do vencimento, ressalvadas as disposições de lei especial". A correta contagem do prazo prescricional intercorrente segue a orientação da Súmula n. 150 do STF, segundo a qual "prescreve a execução no mesmo prazo de prescrição da ação".
+IV - Art. 921, III, do CPC
+A alegação de que a suspensão por ausência de bens impediria a fluência do prazo prescricional é a tese central rechaçada pelo precedente vinculante do STJ. Conforme o IAC no REsp n. 1.604.412/SC, findo o prazo de suspensão de um ano (ou o prazo requerido pelo credor, como no caso), o prazo prescricional intercorrente co meça a fluir automaticamente, sendo ônus do exequente diligenciar por satisfazer seu crédito. A inércia prolongada e injustificada, como a ocorrida nos autos, acarreta a prescrição.
+O acórdão recorrido, ao seguir tal entendimento, não violou o dispositivo legal; ao contrário, aplicou-o em conformidade com a interpretação consolidada desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PRESCRIÇÃO INTERCORRENTE. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. A Segunda Seção do STJ, no IAC n. 1, definiu as seguintes teses:
+"1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). 1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual)" (REsp n. 1.604.412/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe 22/8/2018).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.952.101/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+CÍVEL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INÉRCIA POR PRAZO SUPERIOR AO DO EXERCÍCIO DA PRETENSÃO MATERIAL. PRESCRIÇÃO INTERCORRENTE. CONTRADITÓRIO ASSEGURADO. DECISÃO MANTIDA.
+1. No julgamento do REsp n. 1.604.412/SC (IAC n. 1, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe 22/8/2018) a SEGUNDA SEÇÃO do STJ firmou a tese de que o contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, o qual deve zelar por sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No presente caso, não se faz necessário anulação do acórdão para exercício do contraditório, porque a controvérsia tem origem em exceção de pré-executividade devidamente impugnada pelo banco exequente. Além disso, na apelação, o exequente teve oportunidade de expor todas as razões pelas quais não teria ocorrido a prescrição intercorrente, argumentos esses que foram devidamente analisados pelo Tribunal de origem.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.742.194/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/12/2018, DJe de 17/12/2018.)
+Aplica-se ao caso, portanto, a Súmula 83 do STJ, pois "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de aplicar o disposto no art. 85, § 11, do Código de Processo Civil, visto que não foram fixados honorários de sucumbência nas fases anteriores.
+Publique-se. Intimem-se.
+EMENTA
