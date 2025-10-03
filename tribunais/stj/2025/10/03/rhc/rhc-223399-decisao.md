@@ -1,0 +1,20 @@
+DECISÃO
+AERTE BATISTA DE OLIVEIRA interpõe recurso ordinário contra decisão monocrática de desembargador do Tribunal de Justiça do Estado de Goiás no Habeas Corpus n. 5654700-86.2025.8.09.0000.
+Consta dos autos que o recorrente foi condenado em razão do crime previsto no art. 121, §2º, II, c/c art. 14, II, do Código Penal, à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, com trânsito em julgado em 18/7/2025.
+Asseriu a impetração que o recorrente é "único provedor de um recém-nascido, 2 crianças, 1 adolescente e a companheira  ..  está em estado puerperal" (fl. 7) e, por isso, a despeito da condenação em regime inicial fechado, faz jus à concessão de prisão domiciliar, conforme o art. 318, III e VI, da LEP.
+O desembargador relator não admitiu a impetração em razão da supressão de instância, por não ter sido submetida a questão ao Juízo das execuções penais (fls. 290-291).
+O Ministério Público Federal se manifestou pelo não conhecimento do recurso (fls. 353-354).
+Decido.
+O recurso é manifestamente inadmissível, na medida em que interposto contra decisão monocrática do desembargador relator na origem, sem que haja sido manejado o agravo regimental para que o colegiado a quo se manifestasse sobre a matéria. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. RECLAMO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR. RECURSO ORDINÁRIO MANIFESTAMENTE INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incabível o recurso ordinário interposto contra decisão monocrática de Desembargador de Tribunal Estadual, que denegou a ordem visada na impetração originária, uma vez que tal hipótese foge ao disposto no art. 105, inciso II, da Constituição Federal - CF, bem como nos arts. 30 e 33, ambos da Lei n. 8.038/90.
+2. É ônus da defesa a interposição de agravo regimental contra a decisão monocrática do relator na origem, a fim de que a matéria impugnada seja levada a análise do órgão colegiado da Corte a quo, a fim de se evitar indevida supressão de instância.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 202.993/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T, DJe de 22/10/2024, destaquei).
+Ademais, a Corte de origem não se debruçou sobre a matéria aventada. Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado, por mais este motivo, o conhecimento do recurso. Nesse passo, por todos:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+Não bastasse, conforme destacado pelo Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Roberto Luis Oppermann Thomé (fls. 353-354), o recurso não dialoga com o mérito da decisão atacada, não tece qualquer consideração acerca da supressão de instância constatada, mas apenas reitera o teor das alegações de mérito formuladas no writ. Tal circunstância atrai, por analogia, a incidência da Súmula n. 182 do STJ, eis que inobservado o dever de dialeticidade, mais uma razão para a inadmissibilidade recursal.
+À vista do exposto, nos termos do art. 34, XVIII, "a" do RISTJ, não conheço do recurso.
+Publique-se e intimem-se.
+EMENTA
