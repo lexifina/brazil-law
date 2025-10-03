@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo manejado por JOSÉ CARLOS FRANCO DE SOUZA impugnando decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 560):
+APELAÇÃO  EMBARGOS À EXECUÇÃO FISCAL CRÉDITO DECORRENTE DE MULTA ADMINISTRATIVA  NÃO VACINAÇÃO DE REBANHO CONTRA FEBRE AFTOSA  REGULARIDADE DO PROCESSO ADMINISTRATIVO  INEXISTÊNCIA DE ILEGALIDADE OU DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL.
+HONORÁRIOS ADVOCATÍCIOS  MAJORAÇÃO  POSSIBILIDADE  ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL.
+Ausente ilegalidade ou violação ao devido processo legal no curso do processo administrativo, que culminou na aplicação de multa pela não vacinação de rebanho contra febre aftosa, ao Judiciário não compete reexaminar as provas para adentrar o mérito do ato administrativo, tampouco determinar a anulação de certidão de dívida ativa amparada nesse ato.
+Na hipótese de não provimento do recurso, possível a majoração dos honorários advocatícios fixados na sentença, a teor do artigo 85, § 11, do Código de Processo Civil.
+Recurso não provido.
+Embargos de declaração opostos e rejeitados, nos termos da seguinte ementa (fl. 611):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA POR NÃO VACINAÇÃO DE REBANHO. ALEGAÇÃO DE NULIDADE DA CDA. REGULARIDADE DO PROCESSO ADMINISTRATIVO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que negou provimento ao recurso de apelação, mantendo a sentença de improcedência dos embargos à execução fiscal proposta contra o Estado de Mato Grosso, relativos à não vacinação de rebanho contra febre aftosa.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se houve omissão ou contradição no acórdão embargado quanto à (i) análise da nulidade da CDA por tipificação equivocada e falta de fundamentação no processo administrativo, e (ii) apreciação das provas apresentadas pela defesa, especialmente sobre a falsidade da nota fiscal e a revacinação do rebanho.
+III. Razões de decidir
+3. O acórdão embargado enfrentou as questões de forma clara, confirmando a regularidade do processo administrativo e da CDA, que contém todos os elementos exigidos pelo art. 2º, § 5º, da Lei nº 6.830/1980.
+4. O acórdão também apreciou a alegação de falsidade da nota fiscal e afirmou que, comprovada sua falsidade, o reconhecimento da não vacinação do rebanho foi correto.
+5. Os embargos de declaração foram utilizados para rediscutir o mérito da decisão, o que não é admitido pela via escolhida, conforme entendimento pacificado na jurisprudência.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados. Tese de julgamento: "Não há nulidade na CDA ou no processo administrativo que aplica multa por não vacinação de rebanho quando constatada a regularidade formal do procedimento, com oportunização de defesa e fundamentação adequada, sendo vedado ao Judiciário reexaminar o mérito do ato administrativo na ausência de ilegalidade manifesta."
+No recurso especial, o recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, alegando vício de omissão não sanada a respeito da nulidade da decisão administrativa e da CDA, que desprovida de fundamentação e tipificação equivocada, imputou penalidade indevida, uma vez que a nota fiscal é falsa, não tendo a autoridade administrativa se manifestado quanto à alegação de fraude levantada pelo embargante, prova essa que também não foi considerada pelo juízo, que se ateve em verificar a regularidade do processo administrativo.
+Requer seja acolhida preliminar de perda superveniente de objeto, para que seja extinta a demanda sem julgamento de mérito, nos termos do art. 485, VI, do CPC/2015, afirmando que, posteriormente à oposição dos embargos de declaração na origem, houve fato novo, na forma do art. 493 do CPC, em razão do trânsito em julgado da sentença que extinguiu o feito, sem julgamento de mérito, por abandono de causa, nos termos do art. 485, II e III, do CPC/2015.
+Contrarrazões a fls. 659-668.
+Sustenta impugnado o óbice de inadmissão do recurso especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A respeito da controvérsia, observa-se que o Tribunal, no julgamento do recurso de apelação, de forma minuciosa, a fls. 550-556, consignou as alegações do recorrente, analisou o processo administrativo discriminando seu histórico, confirmou que foi observado o contraditório e a ampla defesa e que a autoridade administrativa apreciou os fatos, provas e argumentos apresentados pela defesa, concluindo pela regularidade do processo administrativo e da CDA (fls. 557/558):
+Nesse contexto, não resta dúvida de que o processo administrativo é regular, sobretudo a considerar que o apelante foi assistido por advogado por ele contratado, bem como exercitou todos os atos inerentes à defesa e, no mérito, a autoridade administrativa apreciou os fatos, todas as provas e os argumentos apresentados pela defesa, no entanto, compreendeu que a comprovação da vacinação por meio de nota fiscal falsa acarreta o reconhecimento da não vacinação do rebanho.
+Dessa forma, verifica-se que o Processo Administrativo está suficientemente fundamentado, com a descrição da conduta atribuída ao apelante e dos dispositivos legais infringidos, bem como, constatada que a sanção aplicada é a adequada para a conduta verificada pela autoridade administrativa.
+Logo, não compete ao Judiciário reexaminar as provas para adentrar o mérito do ato administrativo, tampouco determinar a anulação de certidão de dívida ativa amparada nesse ato, mormente quando não evidenciada a existência de ilegalidade.
+ ..
+Por outro lado, a certidão de dívida ativa contém os requisitos para sua regularidade formal, já que indica: i) o nome do devedor, a origem, a natureza e o fundamento legal da dívida; ii) o número do processo administrativo; iii) a data e o número da inscrição, no registro de dívida ativa; iv) o valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em lei; v) e a atualização monetária, bem como o respectivo fundamento legal e o termo inicial para o cálculo, nos termos exigidos no artigo 2º, § 5º, da Lei nº 6.830, de 22 de setembro de 1980.
+Assim, não há qualquer irregularidade na certidão de dívida ativa capaz de macular sua presunção de certeza, veracidade e legitimidade.
+No acórdão integrativo, confirmando a referida fundamentação, acrescentou (fl. 614):
+Não se verifica, portanto, omissão quanto à análise da nulidade da CDA ou da fundamentação do ato administrativo, tendo o Tribunal abordado tais questões de maneira clara e conclusiva.
+Aliado a isso, consta do julgado que a CDA contém o nome do devedor, a origem e a natureza da dívida, o fundamento legal, o número do processo administrativo, a data e o valor da inscrição em dívida ativa, além dos critérios para cálculo de juros e correção monetária.
+Nesse sentido, não há qualquer irregularidade que comprometa a presunção de certeza e legitimidade da certidão, o que inviabiliza o acolhimento dos embargos de declaração sob esse fundamento.
+Por fim, O embargante aponta contradição no acórdão ao considerar o processo administrativo regular, afirmando que a decisão não teria enfrentado adequadamente as provas apresentadas, sobretudo quanto à falsidade da nota fiscal e à revacinação.
+No entanto, o acórdão foi claro ao afirmar que, uma vez comprovada a falsidade da nota fiscal, o reconhecimento da não vacinação foi correto e conforme com as normas aplicáveis.
+Pois bem.
+Consigne-se que a jurisprudência do STJ entende que "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt no AREsp 1.344.268/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2019).
+Assim, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+No caso, não há falar em violação dos arts. 1.022 e 489 do CPC/2015, porquanto o órgão julgador, de forma clara e coerente, adotou fundamentação adequada e suficiente sobre as questões relevantes para a solução da controvérsia, à vista da matéria devolvida.
+A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+No momento, inviável conhecer da alegação de perda superveniente do objeto, ao argumento de que houve o trânsito em julgado de sentença que extinguiu a execução fiscal n. 002090-25.2010.8.11.0009, por abandono causa.
+Por primeiro, porque o documento acostado a fls. 654/655 não confirma o fundamento alegado.
+Por segundo, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Mato Grosso, não consta no andamento do processo informação nesse sentido.
+Confira-se: https://consultaprocessual.tjmt.jus.br/ exibir Arquivados=true&parteNome=jose%20carlos%20franco%20de%20souza&pesquisaInicial=true&key=0.58xjaul7cqd&comarca=colider Consulta em 30.set.2025.
+Por terceiro, em consulta ao processo dos Embargos à Execução Fiscal n. 0000008-79.2014.8.11.0009, que segue dependente da referida execução fiscal, consta decisão de 9/7/2014 suspendendo a execução fiscal:
+09/07/2014 - DETERMINAÇÃO
+DECISÃO Certificada a tempestividade, recebo os embargos para discussão, determinando a suspensão da execução fiscal em apenso (cód. 54652). Cite-se o embargado para manifestar-se, no prazo de 15 (quinze) dias. Transcorrido o prazo, certifique-se. Após, conclusos. Cumpra-se.
+Confira-se: https://consultaprocessual.tjmt.jus.br/ numeroUnico =00000087920148110009&exibirArquivados=true&parteNome=jose%20carlos%20franco%20de%20souza&pesquisaInicial=true&key=0.59w192scgfb&comarca=colider . Consulta em 30/9/2025.
+Ante todo o exposto, conheço do agravo e conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento.
+Majoro em 10 % (dez por cento) o percentual dos honorários advocatícios sucumbenciais fixado no acórdão recorrido (fl. 559), respeitando-se os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS. ALEGAÇÃO DE PERDA SUPERVENIENTE DO OBJETO NÃO CONFIRMADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, NEGANDO-LHE PROVIMENTO.
