@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SAVOY IMOBILIARIA CONST LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO EMBARGOS À EXECUÇÃO FISCAL IPTU, EXERCÍCIO DE 2017 A 2019 SENTENÇA DE IMPROCEDÊNCIA ALEGAÇÃO DE NULIDADE DA CDA EM RAZÃO DA AUSÊNCIA DE NOTIFICAÇÃO ALEGAÇÃO QUE NÃO COADUNA COM O ENTENDIMENTO JURISPRUDENCIAL RELATIVO AO TEMA NOTIFICAÇÃO QUE SE PERFAZ COM O SIMPLES ENVIO DO CARNÊ AO ENDEREÇO DO IMÓVEL DECISÃO MANTIDA RECURSO DESPROVIDO
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 142 e 145 do CTN, no que concerne à nulidade da CDA pela ausência de notificação pessoal do contribuinte sobre o lançamento tributário de IPTU, tendo em vista que cabe ao recorrido comprovar o recebimento do carnê de pagamento pela recorrente, por ser impossível que ela produza a prova negativa de seu não recebimento, trazendo a seguinte argumentação:
+A Recorrente afirmou que a CDA é nula, uma vez que não foi notificada para pagamento do débito, e ante a impossibilidade de se produzir prova negativa, caberia ao Recorrido o ônus da prova.
+ ..
+A elaboração de CDA sem os requisitos previstos na legislação, que não garante o exercício pleno do direito ao contraditório e à ampla defesa, torna nulo o título executivo. Mas não é só, torna nulo o próprio processo judicial de cobrança, nos termos dos artigos 783 e 803, I, do CPC, pois a certidão de dívida ativa deixa de possuir os atributos necessários para a propositura de uma demanda executiva, quais sejam, a exigibilidade, certeza e liquidez.
+O v. acórdão houve por bem negar provimento ao recurso de apelação por entender pela regular ocorrência da ciência e notificação pessoal da Recorrente acerca do lançamento tributário do IPTU, somente em razão da presunção de certeza, liquidez e exigibilidade do lançamento tributário, o que não deve prosperar.
+Sobre o dever de notificar os contribuintes, os artigos 142 e 145 do Código Tributário Nacional, dispõem que:
+ ..
+Para que o lançamento fiscal seja válido e regular, a autoridade também deve notificar o contribuinte e conceder prazo para pagamento ou eventual impugnação.
+Ademais, é impossível que o contribuinte comprove o não recebimento do carnê de pagamento. Inclusive, esse C. Superior Tribunal de Justiça já decidiu que:
+ ..
+A notificação pessoal é pressuposto de validade e regularidade para o lançamento fiscal, assim a intenção de responsabilizá-lo deveria ser precedida da competente notificação de lançamento, o que de fato não ocorreu (fls. 126-129).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Inequívoco, ainda, que o lançamento do tributo questionado é efetuado "de ofício" no início de cada exercício, ato efetuado com base nos dados existentes no cadastro do Município. Mesmo na hipótese aventada nos autos, incumbiria ao contribuinte buscar informações de modo a evitar o inadimplemento e suas consequências. A mera alegação de que o endereço de correspondência da apelante é outro que não o do imóvel tributado não afasta a validade da notificação enviada ao imóvel objeto da tributação (fl. 119).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais , incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
