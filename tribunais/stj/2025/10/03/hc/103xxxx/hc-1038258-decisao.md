@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado de próprio punho por JOSE EVANDRO VIEIRA GOMES - condenado pela prática dos crimes de latrocínio tentado e latrocínio consumado, a penas que totalizam 30 anos de reclusão, com início em regime fechado, mais 15 dias-multa -, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0037885-44.2013.8.26.0050).
+O impetrante/paciente pede a exclusão da acusação e condenação referente ao latrocínio tentado, por ofensa à Súmula 610/STF, argumentando que só há latrocínio quando o homicídio se consuma (fl. 4). Destaca que o paciente não subtraiu nenhum bem da vítima, tampouco causou lesões corporais (fl. 5).
+A Defensoria Pública da União, instada a se manifestar, disse que há mesmo ilegalidade a ser afastada por esta Corte (fl. 15), aduzindo que a interpretação literal, sistemática e teleológica do artigo 157, §3º, in fine, do Código Penal, conjugada com o entendimento sumulado da Suprema Corte, não deixa margem a dúvidas: sem morte consumada, não há latrocínio, nem mesmo tentado (fls. 16/17). Concluiu que deveria ser concedida a ordem para desclassificar sua conduta para tentativa de roubo, uma vez que a vítima não sofreu nenhuma lesão patrimonial e tampouco foi alvejada nos disparos realizados (fl. 17).
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+No caso, a condenação do paciente já é definitiva. Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 825.424/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024; e AgRg no HC n. 901.897/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 26/6/2024.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, considerando que não há falar em violação à Súmula n. 610, STF, que trata da consumação do latrocínio, pois não se amolda ao caso (latrocínio tentado) (AgRg no HC n. 745.046/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/11/2023, DJe de 30/11/2023); e que para a tipificação da conduta como latrocínio tentado mostra-se despicienda a existência de lesão corporal, de qualquer natureza, bastando a comprovação do animus necandi e que o resultado agravador não tenha sido alcançado por circunstâncias alheias à vontade do agente (AgRg no AREsp n. 2.257.923/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023).
+Pelo exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique- se.
+EMENTA
+HABEAS CORPUS DE PRÓPRIO PUNHO. LATROCÍNIO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. INEVIDÊNCIA DO CONSTRANGIMENTO ILEGAL APONTADO.
+Petição inicial indeferida liminarmente.
