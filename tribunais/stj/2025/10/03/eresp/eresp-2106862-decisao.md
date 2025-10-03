@@ -1,0 +1,32 @@
+DECISÃO
+Examinam-se embargos de divergência opostos por CARLOS EDUARDO OLIVEIRA DIAS contra acórdão proferido pela Quarta Turma do STJ.
+Ação: cumprimento de sentença requerido por ROSANA VITAL LEITE em face de CARLOS EDUARDO OLIVEIRA DIAS.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença.
+Acórdão recorrido em recurso especial: negou provimento ao agravo de instrumento interposto por CARLOS EDUARDO OLIVEIRA DIAS, nos termos da seguinte ementa (fl. 34 e-STJ):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Rejeição da impugnação da recorrente. Certo do bem fundamentado decisum. Crédito formalizado em ambiente judicial, a dar azo à incidência dos preceitos delineados na Lei nº 6.899/81, no que troca à correção monetária, bem como artigo 406 do Código Civil, no que atine aos juros. Clara literalidade do r. Julgado cuja concretude é almejada. Ilícito civil cujas repercussões não podem ser tratadas à luz da taxa Selic, ante sua evidente natureza remuneratória. Insurgência especulativa. RECURSO IMPROVIDO.
+Embargos de declaração: opostos por CARLOS EDUARDO OLIVEIRA DIAS, foram rejeitados (fls. 61-65 e-STJ).
+Acórdão embargado da Quarta Turma: negou provimento ao agravo interno, mantida a decisão unipessoal que deu parcial provimento ao recurso especial apenas para afastar a multa do art. 1026, § 2º, do CPC, nos termos da seguinte ementa (fl. 166 e-STJ):
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A Corte de origem manifestou-se expressamente acerca dos temas necessários a solução da controvérsia, de modo que, ausente qualquer omissão, contradição ou obscuridade, não se verifica a ofensa aos artigos 489 e 1.022 do CPC.
+2. Nos termos da jurisprudência desta Corte Superior, é "inviável a alteração do percentual fixado a título de juros moratórios na execução ou cumprimento de sentença, sob pena " (AgInt nos EDcl no AREsp n. 1.809.486de ofensa à coisa julgada /RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/04/2022, DJe de 18/4/2022). Precedentes. Incidência do óbice da Súmula 83/STJ.
+3. Agravo interno desprovido.
+Embargos de declaração: opostos por CARLOS EDUARDO OLIVEIRA DIAS, foram rejeitados (fls. 192-194 e-STJ).
+Embargos de divergência: aponta divergência jurisprudencial entre o acórdão embargado e paradigma da Terceira Turma (AgInt no RECURSO ESPECIAL Nº 1949638 - RJ) acerca da viabilidade ou não da alteração dos acessórios incidentes sobre o crédito executado, tendo em vista o caráter imutável da coisa julgada.
+Defende que os consectários legais da condenação constituem matéria de ordem pública, e que podem ser alterados a todo tempo, inclusive na execução, sem violação à coisa julgada, conforme orientação adotada no acórdão paradigma.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial - Súmula 315/STJ
+De acordo com o art. 1043, § 2º, do CPC, é certo que os embargos de divergência podem veicular questão de direito material ou de direito processual.
+Contudo, cuidando-se de questão de direito processual, o que se admite no âmbito dos embargos de divergência é a resolução de dissenso interno do Superior Tribunal de Justiça acerca da interpretação de norma processual em sua moldura abstrata, sendo incabível questionar, nessa seara, a aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial à hipótese concreta dos autos.
+Nesse sentido: AgInt nos EREsp 1.637.880/SP, Corte Especial, DJe de 03/08/2018; AgInt nos EAREsp 955.088/RS, Corte Especial, DJe de 02/05/2018; AgInt nos EDcl nos EAREsp 1.406.323/SP, Segunda Seção, DJe de 17/09/2020.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe de 15/10/2021).
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe de 20/04/2022).
+Na hipótese dos autos, o acórdão embargado proferido pela Quarta Turma sequer adentrou no mérito da controvérsia devolvida nos embargos de divergência, mantida a decisão unipessoal que não conheceu do recurso especial quanto ao ponto, diante da incidência da Súmula 83/STJ (fls. 166-172 e-STJ).
+Portanto, como a controvérsia devolvida nos presentes embargos de divergência sequer teve o mérito analisado no acórdão embargado, o presente recurso não deve ser conhecido, ausente pressuposto objetivo de admissibilidade.
+Forte nessas razões, com fundamento nos arts. 932, III, do CPC e 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO INTERNO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DECIDIU PELO NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+2. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1043, I e III, do CPC. Precedentes.
+3. Embargos de divergência indeferidos liminarmente.
