@@ -1,0 +1,18 @@
+DECISÃO
+BRUNA BORGES STIVAL alega sofrer coação ilegal diante de liminar proferida por Desembargador do Tribunal de origem.
+Segundo o impetrante, o Juízo de origem decretou a prisão temporária da paciente por supostos delitos de tráfico de drogas e lavagem de dinheiro. Todavia, a suspeita é mãe de dois filhos menores, de 2 e 10 anos, desamparados, o que permite a prisão domiciliar à luz da proteção integral da criança e das diretrizes do HC coletivo n. 143.641/SP, do Supremo Tribunal Federal. Destaca que a paciente tem residência e trabalho lícito no distrito da culpa, sendo cabível a fixação de cautelares menos gravosas.
+O advogado alega ausência de fatos novos e aponta a fundamentação genérica no decreto de prisão temporária.
+Requer, em liminar e no mérito, a revogação da medida.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não é atribuição deste Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Somente quando demonstrada, de plano e sem necessidade de exame aprofundados dos autos, violação intolerável e irreversível ao direito de liberdade, a jurisprudência do STJ e do STF admite, de forma excepcional, o afastamento do rigor da Súmula n. 691 do STF.
+A um primeiro olhar, verifico que o Juízo decretou a prisão temporária de BRUNA BORGES STIVAL por 30 dias, com base na imprescindibilidade da medida para as investigações e na existência de fundadas razões de participação em crimes de tráfico de drogas, associação para tal fim e correlatos (Lei n. 7.960/1989, art. 1º, I e III, "n", e Lei n. 8.072/1990, art. 2º, § 4º). O Magistrado mencionou a persistência da atividade ilícita e o risco de destruição de provas.
+Na decisão, há registro de flagrante ocorrido em 23/5/2024, quando na residência de RONALDO e BRUNA foram apreendidos 3 kg de cocaína, arma de fogo de uso restrito, cerca de R$ 7.000,00 em espécie e apetrechos de tráfico, fato que subsidiou a Ação Penal n. 5670350-54.2024.8.09.0051.
+A polícia identificou mensagens no celular de BRUNA com o advogado GILBERTO, as quais indicam orientação para que RONALDO "pague de doido" em exame pericial, em tratativas para forjar a inimputabilidade do réu. A suspeita dos investigadores, segundo o Juiz, é de que paciente assumiu a gestão das atividades ilícitas do grupo após a prisão de RONALDO, recebia ordens por intermédio do advogado, coordenava a venda de drogas guardadas na casa de LUCAS "GORDÃO" e acessava remotamente a conta iCloud do celular de RONALDO para apagar dados, com interferência direta na colheita de provas.
+Existem, no decreto do Juiz, referências ao uso de contas e bens em nome próprio e de terceiros para ocultar valores de origem ilícita; veículos de luxo registrados em nome de BRUNA, pertencentes de fato a RONALDO, apreendidos com membros condenados do Comando Vermelho, a revelar indícios de participação ativa no núcleo financeiro e operacional do grupo criminoso.
+Dessa forma, não se evidencia o flagrante vício de motivação apontado pela defesa, a justificar a concessão da liminar pelo relator do habeas corpus originário, ainda não julgado.
+No mais, não há, na decisão de primeiro grau, exame sobre prisão domiciliar sob a alegação de maternidade. Desse modo, não competia ao Desembargador, tampouco a esta Corte, conhecer matéria não previamente examinada pelo Juiz, sob pena de indevida supressão de instância.
+Nesse contexto, não pode ser afastada a Súmula 691 do STF e a defesa deve aguardar a análise da impetração pelo Tribunal de Justiça.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
