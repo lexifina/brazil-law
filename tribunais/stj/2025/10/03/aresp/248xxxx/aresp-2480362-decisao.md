@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ULTRATECH DOSAGEM TECNOLOGICA DE CONCRETO LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na falta de prequestionamento e na incidência das Súmulas n. 282 do STF e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não merece conhecimento, pois a agravante não impugnou, de forma específica e completa, os fundamentos da decisão agravada, atraindo a incidência da Súmula n. 182 do STJ; caso dele se conheça, requer seu desprovimento com a manutenção da decisão agravada.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de execução.
+O julgado foi assim ementado (fl. 25):
+Agravo de instrumento. ação de execução. exceção de pré-executividade. alegação da agravante de que os títulos que embasam a exordial são inexigíveis. as notas fiscais acompanhadas das danfe"s (documentos auxiliares de nota fiscal eletrônica) são tidas como duplicatas, título executivo extrajudicial e nelas está estampado o valor das mercadorias, quantidade, data de entrega. decisão mantida. recurso desprovido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 39):
+Embargos de declaração. ação de execução. exceção de pré-executividade. rejeição. inocorrência de omissão, contradição ou obscuridade, nos termos do artigo 1.022 do Código de Processo Civil. ausentes as hipóteses autorizadoras do recurso integrativo. rediscussão da matéria. nítido caráter infringente. embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 783 do Código de Processo Civil, porque os documentos apresentados pela parte recorrida não possuem os requisitos de liquidez, certeza e exigibilidade, necessários para a execução;
+b) 406 do Código Civil e 161, § 1º, do Código Tributário Nacional, porque os juros de mora cobrados pela parte recorrida excedem o limite legal de 1% ao mês, configurando excesso de execução.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a ausência de título executivo e o excesso de execução.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois não foram preenchidos os requisitos de admissibilidade; no mérito, requer o desprovimento do recurso com a manutenção do acórdão recorrido.
+É o relatório. Decido.
+Passo à análise das supostas violações.
+I - Art. 783 do CPC
+O art. 783 do Código de Processo Civil estabelece que "a execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível". Trata-se de requisito fundamental para a viabilidade da execução, de modo que a ausência de qualquer desses elementos descaracteriza a própria força executiva do título.
+A agravante sustenta que as notas fiscais acompanhadas de DANFEs não possuem liquidez, certeza e exigibilidade, não podendo ser consideradas títulos executivos.
+Todavia, o acórdão recorrido consignou que os documentos apresentados e a natureza da DANFE - e sua prospectiva correspondência com os produtos comercializados - têm presunção de idoneidade a corroborar a higidez do título em execução, indicando o valor das mercadorias, sua quantidade e a data da entrega, atendendo, portanto, aos requisitos previstos no art. 783 do CPC.
+A conclusão da instância de origem fundou-se no exame das provas constantes dos autos, que demonstraram a correspondência entre os documentos e a obrigação assumida.
+Reverter tal entendimento demandaria o revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, em face da incidência da Súmula n. 7 do STJ.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/3/2025, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/3/2025, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2025, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 20/3/2025, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/3/2025, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/3/2025, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 21/3/2025.
+II - Arts. 406 do CC e 161, § 1º, do CTN
+O art. 406 do Código Civil disciplina que, quando não convencionados ou não forem previstos em lei diversa, os juros de mora devem ser fixados segundo a taxa prevista no art. 161, § 1º, do CTN, que estabelece o limite de 1% ao mês.
+A agravante argumenta que houve excesso de execução, pois o acórdão recorrido teria admitido a cobrança de juros superiores ao limite legal.
+Entretanto, verifica-se que o acórdão recorrido não tratou especificamente da aplicação do art. 406 do Código Civil, tampouco estabeleceu debate explícito sobre os limites de juros previstos no CTN.
+Ausente, assim, o indispensável prequestionamento, condição de admissibilidade do recurso especial. A ausência de enfrentamento da matéria atrai a incidência da Súmula n. 282 do STF por analogia, que impede o conhecimento da tese recursal. Nesse sentido, ainda que a agravante sustente genericamente ter suscitado a questão em embargos de declaração, não há demonstração de efetiva análise pelo Tribunal de origem.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
