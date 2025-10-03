@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ABATEDOURO PRADENSE LTDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.209):
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE RITO COMUM - AUSÊNCIA DE COMPLEXIDADE NA REALIZAÇÃO DA PROVA - VALOR DA CAUSA - LITISCONSÓRCIO PASSIVO - POSSIBILIDADE - COMPETÊNCIA JUIZADO ESPECIAL DA FAZENDA PÚBLICA.
+1 - Nos termos da Lei nº 12.153/09, é de competência absoluta dos Juizados Especiais da Fazenda Pública a ação proposta em face do Estado e do Município cujo valor seja de até 60 (sessenta) salários mínimos.
+2 - A limitação prevista no art. 8º da Resolução nº. 700/2012 deste E. Tribunal de Justiça persistiu apenas até 23/06/15, por força do previsto no art. 23 da Lei nº. 12.153/09.
+3- A 1ª Seção Cível deste TJMG por ocasião do julgamento do IRDR nº 1.0000.20.503361-6/001, firmou entendimento no sentido de que "o litisconsórcio passivo entre pessoas jurídicas de direito público e pessoas jurídicas ou físicas não legitimadas no rol do art. 5º da Lei 12.153/2009 não derroga a competência absoluta do Juizado Especial da Fazenda Pública."
+4 - Quando do julgamento do IRDR nº. 1.0000.17.016595-5/001, este Tribunal de Justiça assentou que a necessidade de realização de prova pericial complexa, vale dizer, a prova pericial nos moldes do CPC, não é admissível no âmbito do Juizado Especial da Fazenda Pública, sob pena de violação aos princípios da simplicidade, oralidade, economia processual e celeridade que informam o procedimento previsto na Lei nº. 12.153/09.
+5 - In casu, na oportunidade de especificação de provas, a parte interessada requereu apenas a produção de prova testemunhal, de forma que não se mostra necessária a produção de prova pericial complexa, tal como alegado.
+Em seu recurso especial de fls. 1.232-1.244, a parte recorrente alega violação ao artigo 3º da Lei nº 13.105/15 (Código de Processo Civil), sob o argumento de que a causa é complexa, podendo exigir perícia técnica para avaliar a legalidade de autos de infração, e que, em casos de menor complexidade, a escolha pelo procedimento simplificado do Juizado Especial é uma opção do autor da ação, e não uma imposição obrigatória.
+O Tribunal de origem, às fls. 1.275-1.279, não admitiu o recurso especial sob os seguintes fundamentos:
+Como se percebe, além de a recorrente não ter infirmado, de forma eficaz, as apontadas razões de decidir, não logrando demonstrar o suposto desacerto da fundamentação constante no acórdão recorrido, eventual reforma do aresto implicaria, necessariamente, o revolvimento do conteúdo fático-probatório dos autos, de impossível análise na via eleita, o que impede o trânsito do recurso, nos termos do disposto nos Enunciados nºs 283 e 7 das Súmulas do Supremo Tribunal Federal e do Superior Tribunal de Justiça, respectivamente.
+Quanto ao pleiteado efeito suspensivo, mostra-se evidente, ante a decisão proferida, a falta de requisito necessário à concessão da medida, qual seja a probabilidade de provimento do recurso, prevista no art. 995, parágrafo único, do CPC, o que impõe o indeferimento da pretensão.
+Ante o exposto, indefiro o pedido de efeito suspensivo e, com fundamento no art. 1.030, V, do CPC, inadmito o recurso.
+Em seu agravo, às fls. 1.283-1.291, a parte agravante reitera seus argumentos acerca da negativa de vigência ao art. 3º do CPC, que delimita a competência do Juizado Especial Cível a causas de menor complexidade.
+Por fim, sustenta que o recurso não visa ao revolvimento do conteúdo fático-probatório, mas sim à revaloração da matéria em face da legislação ofendida.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na aplicação: a) da Súmula nº 283/STF, uma vez que a empresa recorrente não conseguiu, de forma eficaz, refutar as razões do acórdão recorrido, nem demonstrou o suposto erro em sua fundamentação; e b) da Súmula nº 7/STJ, na medida em que a alteração do julgamento, conforme pretendido pela parte recorrente, exigiria o reexame do conjunto fático-probatório dos autos.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em rec urso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
