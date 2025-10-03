@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por USINA SANTA ELISA S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento quanto aos arts. 186 e 927 do CC, ofensa aos arts. 489 e 1.022 do CPC, por não ter sido demonstrada a violação do art. 338 do CPC e pela incidência da Súmula n. 7 do STJ (fls. 1.423-1.425).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de ação de indenização por danos morais, materiais e estéticos cumulada com pedido de tutela de urgência.
+O julgado foi assim ementado (fl. 1.265):
+Agravo de Instrumento Responsabilidade Civil Exclusão da agravante do pólo passivo da ação Impossibilidade, pois elas possuem parceria, estão sediadas no mesmo endereço e possuem o mesmo objeto social Autor, como vítima do evento danoso, deve ser tratado como consumidor por equiparação Aplicação dos artigos 7 e 17 do Código de Defesa do Consumidor Honorários advocatícios Redução Cabimento Recurso provido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 1.362):
+Embargos de Declaração Responsabilidade civil Legitimidade ad causam da agravante/embargante reconhecida Omissão, contradição, obscuridade e vícios inexistentes Embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, I, II, do CPC, porque, mesmo após os embargos de declaração, o acórdão permaneceu omisso quanto às premissas fáticas decisivas e não enfrentou os pontos relevantes sobre a ilegitimidade passiva, o erro de fato e a necessidade de sanar contradições no reconhecimento de suposta parceria e responsabilidade solidária;
+b) 489, § 1º, IV, do CPC, pois o acórdão não enfrentou argumentos capazes, em tese, de infirmar sua conclusão, deixando de analisar a distinção entre USINA SANTA ELISA S.A. e a Unidade Santa Elisa do grupo Biosev, a ausência de identidade de endereço e objeto social e a anuência em instrumento de perdão de dívida sem vínculo societário ou econômico;
+c) 338 do CPC, porque, alegada a ilegitimidade passiva na contestação, o juízo deveria facultar ao autor a substituição do réu, visto que a agravante não é responsável pelo prejuízo invocado e não mantém relação com o grupo Biosev ou com a área do acidente;
+d) 186 e 927 do CC, porquanto a imputação de responsabilidade civil solidária viola a exigência de ação ou omissão, nexo causal e dano, visto que a agravante não concorreu para o evento e não mantém vínculo com a atividade geradora do risco, e, ao final.
+Nas contrarrazões, a parte recorrida aduz que a publicação deve ser realizada exclusivamente em nome do novo patrono RENATO FRANCO DE CAMPOS, requer a exclusão dos antigos advogados do cadastro e a anotação do nome do subscritor no sistema, sob pena de nulidade, com fundamento no art. 272, § 2º, do CPC (fls. 1.405-1.406).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento contra decisão que reconheceu a ilegitimidade passiva da USINA SANTA ELISA S.A. e da LOUIS DREYFUS COMPANY BRASIL S.A., extinguindo o processo sem resolução de mérito quanto a essas rés e fixando honorários sucumbenciais, decisão reformada para manter a agravante no polo passivo e reduzir os honorários da LDC.
+A Corte estadual reformou a decisão de primeiro grau, reconhecendo a legitimidade passiva da USINA SANTA ELISA S.A. com base em elementos constantes do acervo probatório e aplicando a equiparação do consumidor, bem como reduzindo os honorários advocatícios da LDC.
+I - Arts. 489, § 1º, IV, e 1.022, I, II, do CPC
+No recurso especial a parte recorrente alega negativa de prestação jurisdicional e ausência de fundamentação adequada, sustentando que o Tribunal não examinou os argumentos relativos ao erro de fato, à distinção entre pessoas jurídicas, à inexistência de parceria e identidade de endereço/objeto social e ao uso indevido de instrumento de perdão de dívida como prova de vínculo.
+Não se verifica a alegada ofensa ao artigo, pois a questão referente à suposta omissão, obscuridade, contradição e falta de fundamentação foi devidamente analisada pela Corte estadual que concluiu que a decisão embargada expôs com clareza seus fundamentos e que não há vícios aptos a ensejar integração, não havendo vício que possa nulificar o acórdão recorrido.
+O acórdão recorrido concluiu que a prova dos autos evidencia a ligação entre as empresas, que possuem o mesmo endereço e firmaram instrumento particular de perdão de dívida, razão pela qual deve responder de forma solidária pelos danos previstos nas normas de consumo.
+Ademais, confira-se trecho do acórdão que julgou os embargos de declaração (fl. 1.363):
+Não se observaram os requisitos necessários ao acolhimento do recurso omissão, obscuridade e contradição, pois a decisão embargada apontou de forma clara seus fundamentos, sendo certo que o endereço da sede de uma empresa é o mesmo dos sócios da outra.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Art. 338 do CPC e arts. 186 e 927 do CC
+A recorrente afirma que, tendo alegado ilegitimidade passiva, deveria ter sido facultada a substituição do réu, visto que não é responsável pelo prejuízo invocado; aduz que a responsabilização civil solidária contraria os arts. 186 e 927 do CC porque não praticou ação ou omissão nem possui nexo causal com o dano.
+O Tribunal de origem, amparado no acervo fático-probatório dos autos, assentou a ligação entre as empresas, mencionando mesmo endereço e objeto social e instrumento de perdão de dívida, reconheceu parceria, concluindo pela legitimidade da agravante e pela responsabilidade solidária na fase de conhecimento (fls. 1.269-1.270).
+Nesse contexto, para rever as conclusões do Tribunal de origem a respeito da ligação entre as empresas e, por conseguinte, do reconhecimento da responsabilidade solidária da recorrente pelos danos causados, implicaria no necessário reexame do acervo fático-probatório dos autos, o que atrai a incidência da Sú mula n. 7 do STJ.
+III - Conclusão
+Ante o expo sto, nego provimento ao agravo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
