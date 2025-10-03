@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ITAMAR OLIVEIRA TEODORO e OUTROS à decisão de fls. 443/444.
+A parte embargante sustenta que a questão debatida nos autos é diversa daquela tratada no Tema 1.344/STJ, tendo em vista que a matéria relacionada à limitação temporal não foi objeto de discussão no recurso interposto pelo embargado.
+Requer o acolhimento dos embargos de declaração para que seja sanado o vício apontado.
+Impugnação apresentada pela parte adversa às fls. 473/475.
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC/2015). Nada há, enfim, que impeça o seu conhecimento.
+Na espécie, houve, de fato, equívoco na análise da afetação à sistemática dos recursos repetitivos (Tema 1.344), razão pela qual passo à nova análise do agravo em recurso especial.
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o Estado de Alagoas se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado (fls. 235/247):
+AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE JULGOU PROCEDENTE O CUMPRIMENTO, HOMOLOGANDO OS CÁLCULOS DO CADERNO PROCESSUAL. AS DECISÕES QUE NEGAREM PROVIMENTO À IMPUGNAÇÃO OFERTADA, COMO OCORREU , POR NÃO ACARRETAREM A EXTINÇÃO DA IN CASU FASE EXECUTIVA EM ANDAMENTO, TEM NATUREZA JURÍDICA DE DECISÃO INTERLOCUTÓRIA. PRECEDENTES DO STJ. PRECLUSÃO PRO JUDICATO VERIFICADA. ANTERIOR INTERPOSIÇÃO DE RECURSO DE AGRAVO DE INSTRUMENTO ONDE HOUVE A PROLAÇÃO DE DECISÃO MONOCRÁTICA ANALISANDO A QUESTÃO ATINENTE À COMPENSAÇÃO E AFASTANDO SUA NECESSIDADE AO FINAL. A QUESTÃO NOVAMENTE SUSCITADA ENCONTRA-SE PRECLUSA, NÃO PODENDO, PORTANTO, O ENTE FEDERADO ADUZI-LA AD AETERNUM SE JÁ HOUVE EXPRESSA MANIFESTAÇÃO JUDICIAL A SEU RESPEITO. DECISÃO MANTIDA. NÃO CABIMENTO DA MULTA DO ART. 1.026, §2º DO CPC. RECURSO DE NATUREZA DIVERSA. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Os embargos de declaração foram rejeitados (fls. 118/121).
+Em seu recurso especial, a parte alega violação dos arts. 508 e 1.022 do Código de Processo Civil (CPC) e 884 do Código Civil. Sustenta, em síntese: a) omissão no julgado acerca da necessidade de dedução de valores e, consequente, enriquecimento sem causa dos recorridos; b) deve ser determinada a dedução dos valores recebidos administrativamente pelos recorridos após a reestruturação de sua carreira pela Lei estadual 6.797/2007 , daqueles que são objeto de cumprimento de sentença impugnado pelo ente público.
+A parte adversa apresentou contrarrazões às fls. 150/212.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+A decisão de fls. 394/397 foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial, desde já suprindo a ausência de análise dos requisitos intrínsecos e extrínsecos do apelo especial pelo Tribunal a quo, com amparo na prerrogativa de duplo juízo de admissibilidade.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fls. 95/98) :
+"Tratam os autos de agravo de instrumento interposto contra a decisão que julgou procedente o cumprimento de sentença em face do Estado de Alagoas. O Acórdão embargado negou provimento ao agravo por visualizar preclusão pro judicato, na medida em que seu objetivo já teria sido apreciado pelo Tribunal por ocasião do julgamento do agravo de instrumento nº 0809127-29.2022.8.02.0000.
+Entretanto, apesar de ambos os agravos terem origem no mesmo cumprimento de sentença, eles não impugnam a mesma decisão e não possuem os mesmos pedidos ou casa de pedir, de modo que o julgamento do primeiro não provoca a preclusão da pretensão recursal veiculada no segundo.
+Ao ignorar essa distinção, o Acórdão embargado incorreu em erro material (art. 1.022, III, do CPC), bem como omitiu-se de apreciar as diversas teses inéditas veiculadas pelo segundo agravo (art. 1.022, II, do CPC).
+O agravo de instrumento nº 0809127-29.2022.8.02.0000 impugnou a decisão de fls. 612/615 do processo de origem, a qual tornou sem efeito decisão anterior proferida no processo principal (saneadora) que determinava aos servidores indicar documentos que permitissem verificar o dever de dedução de valores administrativamente recebidos.
+O Estado de Alagoas pleiteou a restauração da decisão tornada sem efeito. Conforme argumento veiculado no próprio recurso, seu provimento não possuía aptidão de gerar qualquer prejuízo ao embargado, na medida em que apenas determinou a apresentação de documentos que permitiriam o debate sobre o direito de dedução/compensação.
+Estabelecida a causa de pedir e o pedido do primeiro agravo, analisemos tais elementos no agravo de instrumento de origem dos presentes embargos.
+A decisão recorrida é outra, de fls. 640/643, que julgou procedente o cumprimento de sentença. Em seu pedido, o Estado pleiteia a efetivação da compensação/dedução dos valores já recebidos administrativamente pelos servidores.
+Para fundamentar esse pedido, alega-se violação ao contraditório, na medida em que o Juízo não permitiu que o Estado arguisse a existência de valores a serem deduzidos. Ademais, citou-se que a decisão saneadora do processo coletivo que determinava a dedução não havia sido objeto de recurso, estando preclusa. Por fim, apontou-se exatamente a quantia que cada servidor já recebeu, pleiteando-se a sua compensação com base na vedação ao enriquecimento ilícito.
+A tese do enriquecimento ilícito, por exemplo, é aspecto fundamental da defesa do Estado de Alagoas que só foi apresentado ao Tribunal de Justiça por meio do segundo agravo.
+Ou seja, o primeiro agravo de instrumento possuía mérito exclusivamente processual e buscava regularizar o procedimento do cumprimento:
+ ..
+Já o segundo agravo de instrumento é o único que efetivamente veicula tese de mérito quanto à necessidade de compensação/dedução dos valores já recebidos, de modo que inexiste
+ ..
+Diante da individualidade dos recursos, notadamente diferentes, não há que se falar em preclusão pro judicato.
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS decidiu o seguinte (fls. 120/121):
+No caso dos autos, a parte embargante alegou que o acórdão incorreu em omissão e erro material, pois não estaria configurada a preclusão pro judicato. Todavia, razão não lhe assiste.
+De pronto, no que concerne à suposta omissão em relação à análise de teses ventiladas, impõe-se destacar que conforme entendimento do Superior Tribunal de Justiça STJ, " o  julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" e que " a  prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+Ademais, os apontamentos realizados pela parte embargante não se enquadram como erro material, visto que o erro material é aquele perceptível à primeira vista, que não altera o resultado do julgamento. Para o STJ " o  erro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito" (REsp 1151982/ES, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/10/2012, DJe 31/10/2012).
+Logo, observa-se não ser hipótese de embargos de declaração, visto que a parte, irresignada, busca, meramente, a infringência do julgado. Não há qualquer vício no decisum, mas sim mera tentativa de rediscussão de matéria amplamente discutida pelo órgão julgador, o que é vedado em sede de aclaratórios.
+Na espécie, o Tribunal tratou da questão da preclusão. No entanto, outras questões relevantes para a solução da demanda não foram apreciadas no acórdão recorrido.
+Para o Superior Tribunal de Justiça (STJ), presente algum vício - omissão, contradição ou obscuridade - e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+ ..
+1. Constatada a existência de vício não sanado no acórdão proferido pelo Tribunal a quo, apesar de opostos embargos de declaração, é de rigor o
+reconhecimento da violação do art. 1.022 do Código de Processo Civil , com a determinação de retorno dos autos à origem para que se realize novo julgamento. Após a complementação do provimento jurisdicional pela instância ordinária, a parte contrária terá nova oportunidade de se insurgir contra o acórdão, agora isento de nulidades, podendo questioná-lo em sua integralidade.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.930.025/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO ORDINÁRIA.  ..  OMISSÃO NO ACÓRDÃO RECORRIDO. VERIFICAÇÃO. RECURSO ESPECIAL PROVIDO. RETORNO DOS AUTOS PARA NOVA ANÁLISE PELO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+1. Constatado que o Tribunal de origem, provocado por meio de embargos de declaração, omitiu-se na análise de questões relevantes para o deslinde da causa, deve-se acolher a alegação de ofensa ao art. 1.022, II e III, do Código de Processo Civil e determinar o retorno dos autos para novo julgamento do recurso integrativo.
+2. Agravo interno provido.
+(AgInt no AREsp n. 2.323.973/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/11/2024, DJe de 8/11/2024.)
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos. Reconsidero a decisão de fls. 443/444 e conheço do agravo para dar provimento ao recurso especial a fim de, reconhecendo o vício da omissão, anular o acórdão pelo qual os embargos de declaração opostos na origem foram julgados; determino o retorno dos autos à origem para novo exame do recurso integrativo.
+Publique-se. Intimem-se.
+ EMENTA
