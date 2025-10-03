@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIO HENRIQUE GOMES SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 729):
+APELAÇÃO - Ação de indenização por danos moral e material Parcial procedência - Divulgação de imagem adulterada do autor em página criada pelos réus, na rede social Facebook, com conteúdo obsceno -Irresignação dos réus - Alegação de cerceamento de defesa em virtude do julgamento antecipado da lide - Rejeição - Inteligência do art. 373, I, do CPC - Desnecessidade de produção de outras provas - O juízo, que é o destinatário das provas, deve considerar todos os elementos dos autos para formação de sua convicção, cabendo a este ponderar a valoração e a utilidade de cada prova - Pedido de redução do montante fixado a título de indenização por danos morais - Acolhimento - Fixação em R$ 10.000,00 - Quantum indenizatório adequado ao entendimento jurisprudencial deste E. Tribunal de Justiça - Sentença parcialmente reformada - Recursos dos réus providos em parte.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 355, 369, 370, 938, §1º, todos do CPC, apontando cerceamento de defesa, sem, entretanto, indicar quais provas pretendia produzir.
+Aduz que o próprio recorrido teria confessado que o recorrente não foi responsável pelo dano causado.
+Foram contrarrazões ao recurso especial (fls. 784-792).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 808-810), o que ensejou a interposição do presente agravo (fls. 821-829).
+Apresentada contraminuta do agravo (fls. 928-931).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da controvérsia gira em torno de verificar a ocorrência de cerceamento de defesa.
+Em relação a essa questão, o Tribunal de origem manifestou-se da seguinte maneira (fls. 730 e 732):
+De início, afasto as alegações de cerceamento de defesa suscitada pelos réus-apelantes, uma vez que, no presente caso, a produção de novas provas se revelaria absolutamente inócua.
+Além disso, cabe ao juiz a ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo perfeitamente indeferir provas periciais, documentais, testemunhais e/ou proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção quanto às questões de fato ou de direito vertidas no processo, sem que isso implique cerceamento do direito de defesa1.
+No caso em tela, o juízo singular pontuou na sentença fustigada que as questões de fato e de direito já se encontravam satisfatoriamente demonstradas nos autos, corroborando o entendimento consolidado por este E. Tribunal de Justiça, senão vejamos:
+ ..
+Além disso, o réu Guilherme, em sua contestação (fls. 79-93), admite ter criado a página e realizado as montagens em conjunto com o réu Leonardo, as quais foram posteriormente publicadas na referida página por Caio.
+Importante destacar, inclusive, a observação feita pelo juízo sentenciante acerca da responsabilidade dos réus-apelantes: "Na mídia de fl. 137 é possível observar uma conversa sobre quem fez a montagem, em que o requerido Guilherme afirma ser o dono da página e outro dos requeridos afirma ter publicado (Carlos Henrique)."
+Ora, o dano psíquico sofrido pelo autor em decorrência do bullying foi comprovado pelo laudo de fl. 47, que traz o diagnóstico CID 10 F. 43.2, bem como pelo atestado médico de fl. 48. À vista disso, também há comprovação de que o autor passou a cursar as disciplinas em casa, conforme os documentos de fls. 51/53.
+Assim, verifica-se que o acórdão se coaduna com a jurisprudência desta Corte Superior, segundo a qual "pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória." (AgInt no AREsp n. 2.349.413/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Ademais, é cediço que a revisão das conclusões acerca da desnecessidade da prova requerida pela recorrente esbarra na Súmula n. 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. AUSÊNCIA. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer, visando o fornecimento de medicamento para tratamento de câncer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. Sendo o juiz o destinatário final da prova, cabe a ele, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento.
+4. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário
+5. Considera-se abusiva a negativa de cobertura de medicamentos para o tratamento de câncer. Precedentes de ambas as Turmas que compõe a 2ª Seção do STJ.
+6. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.345.199/RO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Segundo a jurisprudência desta Corte Superior, "O fato de as testemunhas do documento particular não estarem presentes ao ato de sua formação não retira a sua executoriedade, uma vez que as assinaturas podem ser feitas em momento posterior ao ato de criação do título executivo extrajudicial, sendo as testemunhas meramente instrumentárias" (AgInt no AREsp 1183668/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2018, DJ 09/03/2018).
+1.1. Ademais, de acordo a jurisprudência deste Tribunal Superior, em casos excepcionais, mitiga-se a exigência da assinatura das duas testemunhas no contrato celebrado, de modo a lhe ser conferida executividade, quando os termos do pactuado possam ser aferidos por outro meio idôneo. Incidência da Súmula 83 do STJ.
+1.2. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência dos requisitos necessários para a validade do título executivo (certeza, liquidez e exigibilidade), forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ.
+2. A jurisprudência do STJ é firme no sentido de que o indeferimento do pedido de produção de provas e o julgamento do mérito da demanda não configuram cerceamento de defesa quando constatada a existência de provas suficientes para o convencimento do magistrado, como ocorreu na hipótese. A alteração do acórdão impugnado com relação à suficiência das provas acostadas aos autos demandaria o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, a teor da Súmula 7/STJ.
+3. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.929.197/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Alterar o decidido no acórdão impugnado, no que se refere às condutas do recorrente em relação à publicação da rede social, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Sú mula n. 7/STJ. Cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do recurso especial por intempestividade, em ação de indenização por danos morais decorrente de ofensas divulgadas em rede social.
+2. O Tribunal de origem manteve a sentença que julgou improcedente a demanda, destacando a ausência de verificação dos pressupostos da responsabilidade civil subjetiva e a falta de provas nos autos que sustentassem os fatos alegados na petição inicial.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: a) saber se o recurso especial interposto é tempestivo, considerando a superveniência da Lei n. 14.939/2024 e a comprovação da suspensão do expediente forense pelo calendário do Tribunal de origem; b) definir sobre a configuração dos pressupostos da responsabilidade civil subjetiva.
+III. RAZÕES DE DECIDIR
+4. A tempestividade do recurso especial foi reconhecida, considerando a superveniência da Lei n. 14.939/2024 e a comprovação da suspensão do expediente forense pelo calendário do Tribunal de origem.
+5. A distribuição do ônus da prova deve seguir as regras do art. 373 do CPC, cabendo ao autor provar o fato constitutivo de seu direito e ao réu, fato impeditivo, modificativo ou extintivo do direito do autor.
+6. O acórdão recorrido destacou a ausência de provas nos autos que sustentassem os fatos alegados na petição inicial, relacionados à indevida circulação de postagens ou compartilhamento de vídeos em violação aos direitos da personalidade.
+7. A pretensão de modificar esse entendimento é inviável em sede de recurso especial, por extrapolar o campo da mera revaloração e implicar, necessariamente, reexame do conjunto fático-probatório.
+8. A jurisprudência do STJ consolidou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A tempestividade do recurso especial pode ser comprovada por calendário judicial do Tribunal de origem. 2. A responsabilidade civil subjetiva exige a demonstração de conduta culposa, dano e nexo causal. 3. A distribuição do ônus da prova deve seguir as regras do art. 373 do CPC, cabendo ao autor provar o fato constitutivo de seu direito e ao réu, fato impeditivo, modificativo ou extintivo do direito do autor. 4. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ".
+ ..
+(AgInt nos EDcl no AREsp n. 2.619.561/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/5/2025, DJEN de 8/5/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da sua parcela da condenação, observada a eventual concessão de gratuidade de justiça, nos termos da sentença (fl. 486).
+Publique-se. Intime-se.
+ EMENTA
