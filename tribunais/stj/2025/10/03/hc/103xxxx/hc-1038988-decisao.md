@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de JHONATAN VICTOR FERREIRA DIAS, RICHARD DE OLIVEIRA PENNA, LUCAS ALEXANDRE ROSA DE ANDRADE e DOUGLAS EDUARDO ANICETO AMORIM - condenados como incursos nos crimes de tráfico e associação para o tráfico de drogas (Ação Penal n. 0817679-11.2024.8.19.0203) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta aos pacientes pelo Juízo de Direito da 1ª Vara Criminal da Regional de Jacarepaguá/RJ, ao argumento de que foram apreendidos entorpecentes de natureza e quantidades comuns ao tipo penal em questão (fl. 10) e de que as anotações referentes a Richard são antigas e não serviriam para negativar o vetorial referente aos maus antecedentes.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, e, no caso, o acórdão a quo encontra-se em conformidade com a jurisprudência deste Superior Tribunal de Justiça , razão pela qual não há que se falar no alegado constrangimento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publi que-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA. PENA-BASE. QUANTIDADE DE DROGA APREENDIDA (450 G DE MACONHA, 240 G DE COCAÍNA, 3.000 ML DE CLORETO DE METILENO E 9 G DE MDA) E MAUS ANTECEDENTES. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
