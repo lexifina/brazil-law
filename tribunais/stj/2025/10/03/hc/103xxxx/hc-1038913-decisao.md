@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ELISMAR DA SILVA NASCIMENTO - condenado pelos crimes de tráfico de drogas e associação para o tráfico -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da dosimetria imposta ao paciente na ação penal que tramitou perante o Juízo de Direito da Vara da comarca de Fundão/ES (Ação Penal n. 059.12.000350-0), ao argumento de que houve bis in idem na dosimetria, pois a quantidade de droga apreendida teria sido usada para exasperar a pena-base e afastar a minorante.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, em especial como uma "segunda revisão criminal", o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a Corte estadual destacou que, em que pese a d. Procuradoria de Justiça tenha opinado pela concessão da fração do tráfico privilegiado no patamar de 2/3 (dois terços), não há que se falar em "bis in idem", haja vista que o Acórdão não considerou tão somente a quantidade das drogas, mas as circunstâncias do caso concreto, tais como apreensão de balança de precisão e material para embalo de entorpecente (STJ: AgRg no AREsp n. 2.785.928/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025) - (fl. 16).
+Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias, seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. DOSIMETRIA. PENA-BASE EXASPERADA EM RAZÃO DA QUANTIDADE DE DROGA APREENDIDA E MINORANTE AFASTADA EM RAZÃO DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. "BIS IN IDEM". NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
