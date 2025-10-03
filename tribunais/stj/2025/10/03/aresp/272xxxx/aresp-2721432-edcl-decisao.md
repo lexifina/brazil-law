@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DANILO DE OLIVEIRA TEIXEIRA contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial (fls. 921-926).
+O embargante alega omissão na decisão embargada, pois deixou de considerar a argumentação recursal que destacou expressamente não se tratar de reexame de fatos e provas, mas do correto enquadramento jurídico à matéria.
+Frisa que a revaloração jurídica de fatos incontroversos é plenamente admitida por este STJ, colacionando como paradigma o AgRg no REsp n. 1.036.178/SP, relator Ministro Marco Buzzi, Dje de 19/12/2011.
+Alega que a decisão embargada deixou de analisar violações apontadas aos arts. 489 e 1.022 do CPC, pois o Tribunal a quo não seguiu o precedente invocado e não demonstrou a existência de distinção no caso em julgamento ou a suspensão do entendimento, o qual tinha o condão de infirmar o acórdão recorrido sobre a tese aventada quanto aos honorários sucumbenciais (Súmula 326/STJ e art. 86, parágrafo único, do CPC).
+Assevera omissão do Tribunal a quo referente à falha no sistema de segurança do condomínio, aos honorários de sucumbência e à comprovação dos danos materiais.
+Requer a reforma da decisão embargada.
+O segundo embargado apresentou impugnação às fls. 949-952.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há obscuridade, omissão ou contradição, porquanto a decisão embargada consignou que a inadmissão do recurso especial na origem se fundou, entre outros pontos, na "ausência de ofensa aos arts. 489 e 1.022 do CPC".
+Ademais, concluiu que "a parte agravante não impugnou todos os fundamentos da decisão agravada" e que houve "apenas impugnação genérica em relação à incidência da Súmula n. 7/STJ" (fl. 923), aplicando a Súmula 182/STJ e a jurisprudência da Corte Especial deste STJ sobre a necessidade de impugnação específica e integral dos fundamentos.
+Por fim, a decisão embargada não reconheceu as violações dos arts. 489 e 1.022 do CPC por falta de impugnação específica e pormenorizada desses fundamentos no agravo em recurso especial, mantendo o óbice de admissibilidade e não conhecendo do agravo em recurso especial (fl. 926).
+Com relação à omissão do Tribunal a quo, que "não seguiu o precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento, o qual tinha o condão de infirmar o acordão recorrido  tese devidamente aventada quanto aos honorários sucumbenciais (Artigo 86 § Único e Súmula 326 STJ)" (fl. 939), convém esclarecer que a fixação dos honorários e a imputação integral do ônus de sucumbência ao autor encontram suporte na constatação de que ele decaiu da maior parte dos pedidos, inclusive com improcedência total do pedido contra o condomínio e rejeição de diversos itens materiais.
+Assim, não se aplica a tese recursal amparada na Súmula 326/STJ, para afastar a sucumbência reconhecida, porque o caso não se limita à redução do montante de dano moral e houve decaimento substancial em múltiplos pedidos, não existindo afronta ao art. 86, parágrafo único, do CPC.
+Observa-se, portanto, que a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e, de pronto, advirto ao embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
