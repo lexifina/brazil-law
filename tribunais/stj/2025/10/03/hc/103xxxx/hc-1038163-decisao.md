@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de YAGO LUIZ CARVALHO DA SILVA - na execução da pena de 11 anos, 7 meses e 19 dias de reclusão, em razão da condenação por roubo, corrupção de menor, tráfico de drogas e desacato (fls. 2/2; 13/14; 20/21) -, atacand o-se o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 11/26 - Agravo de Execução Penal n. 0721411-18.2025.8.07.0000), não comporta processamento.
+Com efeito, a impetração busca a concessão de indulto com base no art. 9º, VIII, do Decreto n. 12.338/2024 - na Execução da Pena n. 0030709-79.2015.8.07.0015 (fls. 411/416, da Vara de Execuções Penais do Distrito Federal) -, aos seguintes argumentos:
+a) em 25/12/2024 o paciente preenchia o requisito objetivo do art. 9º, VIII (a inicial menciona o art. 9º, XIII em um trecho), por estar em regime aberto e com pena remanescente inferior a 4 anos, por ser reincidente (fls. 5/6); e
+b) a decisão de regressão de 10/1/2025, em razão de nova condenação, não pode obstar o benefício, pois a aferição deve se limitar a 25/12/2024 (fl. 6).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 978.148/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025), não se verifica a ocorrência do ilegal constrangimento, pois o acórdão recorrido manteve o indeferimento do indulto, afirmando a natureza declaratória da regressão, com efeitos retroativos ao momento do fato (art. 118, I, LEP), o que inviabiliza o atendimento do requisito de estar em regime aberto ou livramento condicional em 25/12/2024 (fls. 11/18 e 20/26), em consonância com o entendimento desta Corte Superior, para o qual a data da homologação não é relevante para a concessão do indulto, desde que a falta tenha sido cometida dentro do período estabelecido na norma (AgRg no HC n. 995.001/SP, de minha relatoria, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INDULTO. DECRETO N. 12.338/2024. REGRESSÃO DE REGIME. EFEITOS RETROATIVOS AO MOMENTO DO FATO. REQUISITO DE ESTAR EM REGIME ABERTO EM 25/12/2024 NÃO ATENDIDO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
