@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível de Imbituba/SC (suscitante) e o Juízo Federal da 1ª Vara de Tubarão/SC (suscitado).
+Cinge-se a controvérsia em verificar qual o juízo competente para processar e julgar ação de obrigação de fazer ajuizada por Alexandre Dorow contra Lamar Empreendimentos Imobiliários LTDA e Município de Imbituba/SC, objetivando o reconhecimento de que seu imóvel inserido no Loteamento Balneário Itapirubá Zona Nobre (APA Baleia Franca), não está inserido em áreas de dunas, nem de restinga como fixadoras de dunas e mangues, não podendo ser considerado Área de Preservação Permanente.
+A ação foi ajuizada perante o Juízo de Direito da 2ª Vara Cível da Comarca de Imbituba/SC, que afirmou sua incompetência diante do potencial interesse da União em intervir no processo.
+Remetidos os autos ao Juízo Federal da 1ª Vara de Tubarão, o magistrado declinou de sua competência argumentando que embora intimados, a União e o IPHAN manifestaram desinteresse em integrar a lide. Ademais, o ICMBIO manifestou interesse em intervir apenas de forma anômala, nos termos do art. 5º, parágrafo único, da Lei 9.469/1997.
+O Juízo de Direito da 2ª Vara Cível de Imbituba/SC suscitou o presente conflito, alegando que "O provimento jurisdicional vindicado pela parte autora, portanto, vai de encontro ao conteúdo do zoneamento da Área de Proteção da Baleia Franca, notadamente ao buscar a possibilidade de desatrelar seu imóvel das limitações ao direito de construir impostas e fiscalizadas pelo Instituto Chico Mendes de Conservação da Biodiversidade - ICMBIO, autarquia federal" (fl. 6).
+Concluiu que "Inequívoco, pois, o interesse jurídico do Instituto Chico Mendes de Conservação da Biodiversidade - ICMBIO, na medida em que não se trata de decisão que pode causar meros reflexos de natureza econômica em desfavor da autarquia (art. 5º, p. único da Lei 9.469/1997), mas de concreta inobservância do zoneamento da Área de Proteção da Baleia Franca" (fl. 6), bem como que "Diante do interesse jurídico do ICMBio para intervir no processo  não mero interesse econômico ou indireto a justificar a intervenção anômala  , está presente a competência da Justiça Federal (CF, art. 109, I)" (fl. 9).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de Tubarão/SC (suscitado) (fls. 67/71 ).
+É o relatório.
+Decido.
+Conforme determina o art. 109, I, da Constituição Federal, os juízes federais deverão processar e julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Considerando o inequívoco interesse do Instituto Chico Mendes de Conservação da Biodiversidade, pois a "não se trata de decisão que pode causar meros reflexos de natureza econômica em desfavor da autarquia (art. 5º, p. único da Lei 9.469/1997), mas de concreta inobservância do zoneamento da Área de Proteção da Baleia Franca" (fl. 13), deve ser reconhecida a competência da Justiça Federal.
+No mesmo sentido, a seguinte decisão monocrática: CC 211.801/SC, Relator Ministro Afrânio Vilela, DJEN 12/06/2025.
+Ante o exposto, CONHEÇO do conflito negativo de competência e declaro competente o Juízo Federal da 1ª Vara de Tubarão/SC (suscitado).
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. ÁREA DE PROTEÇÃO AMBIENTAL DA BALEIA FRANCA. DEMANDA QUE BUSCA O RECONHECIMENTO DE AUSÊNCIA DE INSERÇÃO DE IMÓVEL EM APP. INEQUÍVOCO INTERESSE DO ICMBIO. COMPETÊNCIA DO JUÍZO FEDERAL .
