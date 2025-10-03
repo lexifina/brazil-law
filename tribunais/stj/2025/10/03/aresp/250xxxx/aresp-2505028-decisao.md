@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por HANDBOOK STORE CONFECÇÕES LTDA., DENNIS CAVACCINI e TATHIANA MAYUMI ASSUMPÇÃO CAVACCINI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 27-37):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LOCAÇÃO. PRÁTICA DE ATOS EXECUTÓRIOS SOBRE BENS DE SÓCIOS DE EMPRESA EM RECUPERAÇÃO JUDICIAL. MATÉRIA NÃO LEVANTADA EM PRIMEIRO GRAU. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO NESSA PARTE. 1.- A questão da prática dos atos executórios sobre bens de sócios da empresa recuperanda não foi levantada diante do Juízo de primeiro grau e, portanto, não objeto da decisão agravada. 2.- Não é possível, portanto, apreciar a matéria em grau recursal. Não há interesse recursal, pois ausente o requisito da necessidade.
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LOCAÇÃO. PENHORA SOBRE ATIVOS FINANCEIROS. ALEGAÇÃO DE IMPENHORABILIDADE. NÃO VERIFICAÇÃO. IMPENHORABILIDADE NÃO DEMONSTRADA. DECISÃO MANTIDA. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, NÃO PROVIDO. 1.- Inaplicável o art. 833, X, do Código de Processo Civil (CPC) ao caso, mesmo sob interpretação mais elástica. 2.- A possibilidade de que a instituição financeira oficiada pelo Juízo consiga efetivar, periodicamente, novos bloqueios demonstra que a agravante possui montante investido em aplicação financeira, com contínua geração de rendimentos. 3.- Sem demonstrar qual o valor total aplicado, a agravante não provou que as constrições acima ameaçam suas economias, deixando estas abaixo de 40 (quarenta) salários-mínimos. 4.- É da parte executada o ônus da prova quanto à impenhorabilidade das verbas. 5.- Não deve ser acolhido o argumento de que os valores penhorados são ínfimos com relação à dívida. Embora cada constrição pareça atingir valor modesto, os sucessos consecutivos têm possibilitado, aos poucos, a satisfação da dívida.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 53-57).
+No recurso especial, a parte recorrente aduz, no mérito, que o acórdão recorrido contrariou as disposições dos arts. 5º, 6º, 9º e 10 do CPC e 5º, LV, da Constituição Federal , sustentando, em apertada síntese, a ocorrência de cerceamento de defesa, insurgindo-se contra o julgamento virtual, e alegando decisão surpresa.
+Foram oferecidas contrarrazões ao recurso especial (fls. 127-137).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 144-146), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 158-165).
+Em decisão monocrática, a Presidência do STJ não conheceu do recurso da agravante em razão do óbice da Súmula n. 115/STJ (fls. 187-188), entretanto, após a oposição de embargos de declaração, aquela decisão foi reconsiderada (fls. 202-203).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base no óbice da Súmula n. 7/STJ, por deficiência do cotejo analítico no suscitado dissídio interpretativo e por não ser o recurso especial a via adequada para análise de ofensa a dispositivos constitucionais.
+Ocorre, entretanto, que a parte agravante não rebateu todos os fundamentos que, na origem, inadmitiram seu apelo nobre, deixando de impugnar especificamente a impossibilidade de manejo de recurso especial para análise de ofensa a dispositivos constitucionais.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgado s:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182/ STJ. AGRAVO NÃO CONHECIDO.
