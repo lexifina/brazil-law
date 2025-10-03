@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIMAR LIMA KROGER contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 348):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - OBRIGAÇÃO DE FAZER - PENSÃO POR MORTE - GEPI-CONTA RESERVA - INCORPORAÇÃO - DESCABIMENTO. - Conforme entendimento firmado na Súmula nº 340 do STJ, a lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado. - Conquanto seja possível, por disposição legal expressa, a incorporação da Gratificação de Estímulo à Produção Individual (GEPI) para o fim de se comporem os proventos e a pensão por morte, o mesmo não se aplica à parcela denominada GEPI-Conta Reserva, porque há norma especial que afasta essa possibilidade.
+No recurso especial obstaculizado, a parte apontou violação do art. 1.022, I e II, do CPC/2015, por negativa de prestação jurisdicional, sob a alegação de que o Tribunal a quo não apreciou o seguinte argumento (e-STJ fl. 423):
+Conforme colocado nos embargos de declaração, a incorporação às pensões prevista no art. 13-A da Lei nº 16.190/2006, introduzido pelo art. 40 da Lei nº 20.748/2013, e também seu art. 41, ao dispor que as pensões por morte já instituídas também seriam alcançadas, também se refere à GEPI-conta reserva pois antes mesmo do advento dessa disposição a GEPI comum já era incorporada aos proventos de aposentadoria e pensão por morte (certidão de ID 96210628344), o que era feito com base no art. 7º, inc. I, "c", da redação original da Lei Complementar nº 64/02 (percepção da vantagem por no mínimo 3.650 dias).
+Contrarrazões às e-STJ fls. 611/615.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 352/353):
+Todavia, discute-se nos autos sobre a incorporação de outra parcela específica, denominada GEPI-conta reserva, essa que prevista no art. 12, § 6º, da Lei estadual nº 16.190/2006, mas regulamentada pela Lei estadual nº 16.765/2007 e pelo Decreto estadual nº 46.284/2013, que assim dispõem:
+(..)
+Nesse contexto, por ausência de permissivo legal, torna-se inviável defender a sua incorporação para o fim de composição da base de cálculo de proventos e/ou da pensão por morte, no que correto o ato decisório ora agravado.
+Ademais, assim se manifestou a Corte de origem no aresto integrativo (e-STJ fls. 389):
+No acórdão foi criado um tópico específico para tratar da GEPI - conta reserva, citando a evolução da legislação. A respeito do art. 13-A da Lei nº 16.190/2006 e do Decreto nº 20.748/2013, a Turma Julgadora fundamentou de maneira expressa que tais dispositivos tratam de parcela diversa da pretendida pela agravante/embargante.
+Isto é, a decisão informou que apesar de a GEPI se incorporar, de fato, aos proventos de aposentadoria, a GEPI-Conta Reserva não é incorporável. Tal argumento tem como base as disposições da Lei Estadual nº 16.765/2007 e dos Decretos Estaduais nº 44.569/2007 e 46.284/2013.
+A conclusão foi de que não há permissivo legal da pretensão e de que é inviável defender sua incorporação para fins de composição da base de cálculo de proventos e/ou da pensão por morte. (Grifo realizado)
+Nesse contexto, infirmar a conclusão do acórdão combatido para entender que os fundamentos legais invocados tratam da mesma parcela pretendida pela recorrente exige o revolvimento do acervo fático-probatório bem como a análise e a interpretação de lei local, providência inadequada em recurso especial, consoante enunciado da Súmula 7 do STJ e da Súmula 280 do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
