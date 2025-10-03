@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra decisão por mim proferida, constante às e-STJ fls. 927/934, em que conheci do agravo para dar provimento ao recurso especial, a fim de reconhecer a limitação subjetiva territorial.
+Em suas razões, a embargante aponta omissão no julgado ora combatido. Sustenta que, "da leitura do voto condutor do acórdão, verifica-se que não foram examinadas as alegações da União quanto à alegação de que o que está sendo discutido, é o fato de que, nesta ação concreta, o Sindicato autor delimitou o pedido inicial apenas às empresas que lhe eram efetivamente filiadas. Isto é, vale dizer, o Sindicato demandante elegeu - dentro da técnica processual - comparecer apenas como Substituto processual de suas associadas" (e-STJ fl. 943).
+Sem impugnação (certidão de e-STJ fl. 947).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Inicialmente, esclarece-se que a recorrente defendeu, em seu recurso especial, que o acórdão recorrido externou deliberação ao estender os efeitos do julgamento de mérito à totalidade da categoria econômica, incluindo empresas que não são filiadas ao sindicato.
+A decisão ora embargada entendeu por dar provimento a seu recurso a fim de reconhecer a limitação subjetiva territorial, em razão do julgamento, com repercussão geral, do RE 612043/PR, fixou a tese de que "a eficácia subjetiva da coisa julgada formada a partir de ação coletiva, de rito ordinário, ajuizada por associação civil na defesa de interesses dos associados, somente alcança os filiados, residentes no âmbito da jurisdição do órgão julgador, que o fossem em momento anterior ou até a data da propositura da demanda, constantes da relação jurídica juntada à inicial do processo de conhecimento".
+No mais, a questão atinente à argumentação da Fazenda Nacional de que "o Sindicato autor delimitou o pedido inicial apenas às empresas que lhe eram efetivamente filiadas", não foi ventilada na instância ordinária, e não houve oposição de embargos de declaração com a finalidade de sanar a omissão acerca do tema.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
