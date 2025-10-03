@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2282, de 2 de outubro de 2025
+Altera a Instrução Normativa RFB nº 2.228, de 3 de outubro de 2024, que dispõe sobre a Contribuição Social sobre o Lucro Líquido no processo de adaptação da legislação brasileira às regras Globais Contra a Erosão da Base Tributária.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Lei nº 15.079, de 27 de dezembro de 2024, resolve:
