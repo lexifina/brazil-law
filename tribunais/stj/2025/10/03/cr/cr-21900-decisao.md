@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio do qual a Justiça portuguesa (Tribunal Judicial da Comarca de Madeira) solicita que se proceda à notificação de Victor Hugo Casemiro de Oliveira Sabino para tomar conhecimento da sentença proferida nos autos do Processo n. 94/23.0PTFUN (fls. 12-18).
+A intimação prévia foi efetivada, conforme o documento postal de fls. 29-30. Transcorreu in albis o prazo para apresentar impugnação (fl. 31).
+A Defensoria Pública da União, na qualidade de curadora especial, apresentou manifestação pela não concessão do exequatur. Afirmou que não há informações sobre a prestação de assistência jurídica durante toda a persecução penal, o que ofende os princípios do contraditório, da ampla defesa e da soberania nacional (fls. 35-39).
+O Ministério Público Federal opinou pela devolução dos autos à Justiça rogante em virtude do cumprimento da diligência rogada (fls. 43-46).
+É o relatório.
+Decido.
+Inicialmente, não prosperam os argumentos aduzidos pela Defensoria Pública da União. Anoto que a intimação inicial não teve por objeto a própria diligência rogada, mas, sim, a ciência do requerido quanto à distribuição do pedido de cooperação pela Justiça estrangeira. De qualquer modo, os autos serão remetidos ao Juízo Federal competente para que se dê cumprimento à diligência requerida, nos termos do art. 216-V do RISTJ. Assim, caso venha a ser pessoalmente notificada, a parte requerida poderá impugnar os requisitos para o processamento da presente rogatória.
+Ademais, o pedido que ora é apresentado pela Justiça rogante não envolve o cumprimento de nenhuma ordem de prisão. Em realidade, cuida-se de Carta Rogatória puramente notificatória. Nessa perspectiva, é crucial que o requerido tome ciência dos termos da decisão proferida pela autoridade estrangeira, até mesmo para que possa adotar as medidas processuais que considerar cabíveis, viabilizando, assim, o exercício de seu direito à ampla defesa.
+Quanto à diligência, trata-se de comunicação de ato processual, o que não contraria os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório. A solicitação de cumprimento de sentença estrangeira não pode ser confundida com Carta Rogatória, que é a hipótese dos autos. Assim, "o mero procedimento citatório não produz qualquer efeito atentatório à soberania nacional ou à ordem pública, apenas possibilita o conhecimento da ação que tramita perante a justiça alienígena e faculta a apresentação de defesa" (AgRg na CR n. 10.849-7, Rel. Ministro Maurício Corrêa, DJ de 21.5.2004). Confira-se precedente do STJ:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. OFENSA À ORDEM PÚBLICA E À SOBERANIA NACIONAL. INOCORRÊNCIA.
+- Não se exige, tanto na legislação brasileira quanto na americana, que o ato citatório venha acompanhado de todos os documentos mencionados na petição inicial. Não há falar, desse modo, em violação dos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+- A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação, por si só, não apresenta qualquer situação de afronta à ordem pública ou à soberania nacional, destinando-se, apenas, a dar conhecimento da ação em curso para permitir a defesa da interessada.
+Agravo regimental improvido. (AgRg na CR n. 535/EX, Rel. Ministro Barros Monteiro, DJ de 11.12.2006.)
+Por fim, os argumentos referindo-se a aspectos relacionados à homologação de decisão estrangeira que não se aplicam à concessão do exequatur à Carta Rogatória.
+De fato, a homologação de sentença tem por objetivo outorgar eficácia em nosso país a uma decisão proferida em um outro Estado. A Carta Rogatória, por seu turno, é instrumento de cooperação jurídica internacional que viabiliza a realização de atos no território nacional a pedido da Justiça rogante. É, destarte, a maneira pela qual se permite a comunicação processual entre os magistrados de diversos países, através de um pedido formal que se destina ao auxílio da instrução de determinado processo.
+Desse modo, o objeto desta Carta Rogatória não atenta contra a soberania nacional, contra a dignidade da pessoa humana nem contra a ordem pública, razão pela qual concedo o exequatur, nos termos dos arts. 216-O e 216-P do RISTJ.
+Diante do êxito na intimação pessoal da parte interessada (fls. 29-30), considero consumado o objeto da comissão, o que torna desnecessária a remessa dos autos à Justiça Federal.
+Veja-se precedente da Corte Especial sobre a questão:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. INTIMAÇÃO PRÉVIA, VIA POSTAL. AVISO DE RECEBIMENTO ASSINADO PELO PRÓPRIO INTERESSADO. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Como a parte interessada assinou o aviso de recebimento da intimação prévia, conclui-se que esteja ciente da notificação objeto da rogatória, uma vez que acompanhada de cópia integral dos autos.
+2. Consumada a diligência requerida, desnecessária a remessa dos autos à Justiça Federal, motivo pelo qual eles devem ser devolvidos à Justiça rogante, por intermédio da autoridade central competente.
+3. Agravo interno desprovido. (AgRg na CR n. 11.262/EX, relatora Ministra Laurita Vaz, DJe de 14.9.2017, grifei.)
+Ante o exposto, com fundamento no art. 216-X do RISTJ, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, independentemente do trânsito em julgado.
+Publique-se.
+Intimem-se.
+EMENTA
