@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MONICA SPINARDI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - RESPONSABILIDADE CIVIL - AÇÃO VISANDO INDENIZAÇÃO POR DANOS MORAIS DECORRENTES DE ALEGADA INJÚRIA RACIAL COMETIDA POR FUNCIONÁRIO DA INSTITUIÇÃO FINANCEIRA RÉ - SENTENÇA DE IMPROCEDÊNCIA - APELO DA AUTORA INSISTINDO NA PROCEDÊNCIA DO PEDIDO - INCONFORMISMO INJUSTIFICADO - PRETENSÃO QUE NÃO SE ENCONTRA AMPARADA EM ELEMENTOS PROBATÓRIOS CONTUNDENTES - MENSAGENS AUTOMÁTICAS COM TEXTOS PADRÕES EM REDES SOCIAIS EMITIDAS PELA INSTITUIÇÃO FINANCEIRA NÃO SÃO SUFICIENTES A DEMONSTRAR O ILÍCITO - SENTENÇA MANTIDA. RECURSO DA PARTE AUTORA IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa do arts. 6º, VIII e 14, §1º, do CDC; e 186 e 927 do CC, sustentando a condenação da recorrida ao pagamento da indenização por danos morais em razão do constrangimento e humilhação sofridos com os xingamentos e ofensas injustas proferidas, e devidamente comprovadas, que ultrapassam o mero dissabor, sendo a responsabilidade objetiva e cabendo a inversão do ônus da prova pela relaçã o de consumo. Argumenta:
+ ..  ocorre que a recorrente foi vítima de agressões verbais injustamente, o que gerou constrangimento e humilhação perante todos que estavam presentes.
+No caso dos autos, há provas suficientes acerca da humilhação e constrangimento sofridos.
+Primeiramente, a apelada reconheceu expressamente a ocorrência de ato ilícito cometido por seu funcionário, tendo em vista que se retratou expressamente através das redes sociais (fls. 26-33).
+No mais, as ofensas cometidas já foram documentalmente comprovadas nos autos, não havendo o que se falar em ausência de provas.
+Não bastasse isso, conforme narrado em inicial, a relação estabelecida entre as partes configura a relação de consumo, devendo ser aplicada a inversão do ônus da prova ao caso em tela (art. 6, VIII CDC).
+ ..
+A recorrente não merece ser prejudicada em razão da recusa da recorrida em fornecer as imagens do circuito interno de segurança, de modo que o acordão proferido atenta contra preceitos consumeristas.
+No caso em tela, não restam dúvidas que houve falha na prestação dos serviços fornecido pela recorrida, devido ao constrangimento e humilhação sofridos, resultando em prejuízos morais à consumidora.
+Tendo em vista o defeito na prestação dos serviços, a responsabilização objetiva da recorrida é medida necessária, nos termos do CDC:
+ ..
+Como consequência, a recorrente sofreu abalo psicológico, devendo o prejuízo moral ser reparado, nos termos da CF/88 e CC/02:
+ ..
+No caso em tela, o dano moral decorre do constrangimento e humilhação sofridos, que foram proferidos na presença de todos que estavam presentes na agência bancária.
+O entendimento proferido nas instâncias inferiores não merece prosperar, tendo em vista que o dano moral sofrido ultrapassa o mero dissabor.
+Como é sabido, a indenização por dano moral não se presta apenas a obter a reparação pelo abalo sofrido, mas também tem seu caráter punitivo, impondo uma punição capaz de advertir a recorrida para que cesse a prática do ato ilícito.
+A situação sofrida causou constrangimento e abalo psicológico, pois em virtude da falha na prestação do serviço, a recorrente viu seu mundo degringolar.
+Desta feita, o descaso com o recorrente não pode ser considerado "normal" ou cotidiano, portanto não pode (e não deve) ser considerado "mero aborrecimento", motivo pelo qual a reforma do acórdão é medida necessária.
+Desta feita, requer-se a reforma do acórdão de fls. 166-170, para que seja julgado procedente o pleito de indenização por danos morais. (fls. 177-180).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Desse quadro resulta, em princípio, por imposição do art. 4º, I, do CDC, o reconhecimento da situação de vulnerabilidade da autora frente ao réu. Isso, porém, não significa que, em termos processuais, estará ela isenta dos ônus que a lei lhe impõe para demandar, principalmente aquele de provar os fatos afirmados. O princípio geral lhe atribui esse encargo, conforme dispõe o art. 373, I do CPC.
+O estatuto especial, protetor das relações de consumo, possibilita a inversão do ônus, transferindo-o para o fornecedor. Mas, essa inversão não é automática e obrigatória; ao contrário, depende do critério judicial, respaldado pela presença de um dos requisitos exigidos, verossimilhança ou hipossuficiência jurídica (CDC, art. 6º, VIII).
+A despeito da previsão do art.14, caput do CDC, pela responsabilidade objetiva do fornecedor de serviços, não há, no caso concreto, nenhuma ação ou omissão do réu a indicar que causaram o prejuízo alegado pela parte autora.
+A autora trouxe aos autos Boletim de Ocorrência unilateralmente produzido, sem indicação de testemunhas e nome do funcionário da ré que a agrediu e em qual contexto específico, apenas alegando que pediu informação e automaticamente passou a ser alvo de injúrias.
+Não fez prova de que esteve no dia alegado na agência da instituição ré, nem mesmo solicitou cautelarmente as imagens de vídeo da ocorrência, sendo notório que as imagens de circuito interno de pessoas jurídicas somente podem ser liberadas aos interessados com ordem judicial, em razão do sigilo que a Lei de Proteção de Dados impõe.
+Outrossim, como bem apontado na r. sentença de primeiro grau, as instituições financeiras têm obrigação de guarda e manutenção de imagens por período mínimo de 30 dias, consoante dispõe o art. 62 da Portaria nº 387, de 28.8.2006, da DG/DPF.
+Assim, não era o réu obrigado a manter em arquivo as imagens por mais de sete meses, prazo que a autora levou para requerer sua apresentação (fls. 93/94).
+Quanto às mensagens eletrônicas enviadas pelo réu à autora, seja em resposta à sua reclamação em site de defesa do consumidor, seja em redes sociais, afere-se que se tratam de mensagens automáticas, de que a questão será resolvida, sem adentrar ao caso concreto, inclusive em todas havendo orientação de que a autora se dirigisse a canais oficiais (fls. 26/32).
+Tanto é assim, que a própria autora, em suas respostas a tais mensagens, menciona que estas são vagas e nenhuma efetivamente resolve a questão. E não há nos autos nenhum início de prova de que a autora tenha se dirigido aos canais oficiais (sac, ouvidoria) do banco réu, tão somente a redes sociais, local inadequado à solução do conflito.
+Não se vislumbra, portanto, falha na prestação do serviço por parte do apelado, sendo de rigor a improcedência dos pedidos. (fls. 168-170).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
