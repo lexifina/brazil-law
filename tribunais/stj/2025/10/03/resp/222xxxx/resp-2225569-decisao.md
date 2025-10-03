@@ -1,0 +1,51 @@
+DECISÃO
+RICARDSON ANTONIO DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0167861-37.2022.8.19.0001).
+Consta dos autos que o recorrente foi condenado pela prática dos crimes de tráfico de drogas e de associação para o narcotráfico.
+Nas razões do recurso especial, a defesa aponta violação do art. 35 da Lei n. 11.343/2006 e afirma que "o local em que ocorreu a conduta não pode ser usado como elemento probatório hábil a caracterizar vínculo associativo estável e permanente, para fins de caracterização do crime de associação para o tráfico" (fl. 437).
+Requer, assim, o provimento do recurso, para que o réu seja absolvido em relação ao delito de associação para o tráfico de drogas.
+Decisão de admissibilidade às fls. 461-467.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+No que tange à pretendida absolvição do recorrente em relação ao delito de associação para o tráfico de drogas, faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, o Tribunal de origem, ao dar provimento à apelação interposta pelo Ministério Público - e, assim, concluir pela prática do referido delito -, assim fundamentou, no que interessa (fls. 369-370):
+A condenação pelo crime de associação para o tráfico é medida que se impõe.
+Cumpre ressaltar que a associação restou comprovada.
+Impende consignar que os elementos probatórios antes referidos demonstram que o apelante/apelado estava associado, com integrantes não identificados da facção criminosa "Comando Vermelho", com o fim de praticar, reiteradamente ou não, o crime previsto no art. 33 da Lei nº 11.343/06, daí exsurgindo a figura típica prevista no art. 35 do mesmo diploma legal.
+Cabe lembrar que se trata de área territorial conflagrada, dominada por facção criminosa (Comando Vermelho) cuja principal atividade é o tráfico de drogas, sendo fato notório e, portanto, de conhecimento de todos, que não existe a possibilidade do exercício da traficância no local por quem não integre a organização criminosa.
+ ..
+Assim, a constatação da associação é exposta por todos esses elementos probatórios trazidos aos autos, isto é, área ocupada por facção criminosa, indivíduos exercendo função típica de integrante do exercício da traficância, do qual o apelante/apelado fazia parte. Tanto que foi preso no local portando grande quantidade, qualidade e variedade do material entorpecente.
+Não há dúvidas de que as circunstâncias revelam o vínculo associativo, dada também a impossibilidade de atuação isolada na venda de entorpecentes, até porque, sozinho não estava como demostrou a prova oral amealhada aos autos.
+Dito isto, verifica-se que o cenário sob exame confere suporte probatório suficiente para a condenação do recorrido pelo delito em apuração, restando evidenciada a associação do apelante/apelado com elementos integrantes da famigerada associação criminosa.
+Assim, as evidências supracitadas, somadas aos depoimentos dos policiais são elementos de prova que demonstram que o apelante/apelado estava de fato organizado em associação para a prática do tráfico, não havendo que se falar numa simples coparticipação criminosa, ocasional e transitória.
+Restou bem caracterizado o vínculo associativo, dada também as características da localidade dos fatos, a qual é conhecida pela prática endêmica do tráfico ilícito de entorpecentes e por ser dominada por facção criminosa voltada à referida atividade ilícita.
+Vê-se, à toda evidência, que o apelante/apelado se dedicava ao tráfico ilícito de entorpecentes em larga escala e com vinculação à organização criminosa, uma vez que seria impossível a realização de tal atividade de forma autônoma naquela localidade (Comunidade do Jacaré).
+Conforme visto, a instância de origem, em nenhum momento, fez referência ao vínculo associativo estável e permanente porventura existente entre o recorrente e os integrantes da facção criminosa conhecida como Comando Vermelho; na verdade, a Corte estadual presumiu, com base apenas no local em que o acusado foi preso em flagrante, que ele seria integrante do Comando Vermelho e, assim, proclamou a condenação com base em meras conjecturas acerca de uma societas sceleris.
+Diante de tais considerações, entendo que o Ministério Público não se desincumbiu do ônus de provar a associação para o tráfico de drogas. O que se tem dos elementos coligidos aos autos é apenas a intuição acerca de eventual crime de associação para o narcotráfico praticado pelo recorrente.
+Ao funcionar como regra que disciplina a atividade probatória, a presunção de não culpabilidade preserva a liberdade e a inocência do acusado contra juízos baseados em mera probabilidade, determinando que somente a certeza pode lastrear uma condenação. A presunção de inocência, sob tal perspectiva, impõe ao titular da ação penal todo o ônus de provar a acusação, quer a parte objecti, quer a parte subjecti. Não basta, portanto, atribuir a alguém conduta cuja compreensão e subsunção jurídico-normativa, em sua dinâmica subjetiva - o ânimo a mover a conduta - decorre de avaliação pessoal de agentes do Estado, e não dos fatos e das circunstâncias objetivamente demonstradas.
+Em casos semelhantes, esta colenda Sexta Turma assim decidiu:
+ ..
+1. Não demonstrada por meio de elementos concretos e idôneos a existência de vínculo estável e permanente entre o paciente e outros indivíduos, imperiosa se faz a absolvição pelo crime de associação para o tráfico. O fato de a localidade em que realizada a prisão do paciente ser notoriamente dominada por facção criminosa não é suficiente, por si só, para a caracterização do delito de associação para o tráfico, sobretudo se não há na denúncia, na sentença ou no acórdão qualquer apontamento concreto apto a demonstrar a existência de vínculo associativo entre os agentes, tal qual como ocorre na presente hipótese, em que não foi sequer indicado quem seriam os demais indivíduos que com o paciente estariam associados, de modo que ausente elementar subjetiva do delito apurado, tornando-se imperiosa a absolvição.
+ ..
+6. Habeas corpus concedido para absolver o paciente da conduta
+prevista no art. 35 da Lei 11.343/2006 e reduzir a pena pelo crime do art. 33 da mesma Lei ao patamar de 7 anos de reclusão e 700 dias-multa, mantido o regime fechado.
+(HC n. 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020).
+ ..
+2. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+3. No caso em exame, a moldura fática descrita na sentença e no acórdão permite verificar que: a) o réu foi encontrado sozinho na posse de entorpecentes, radiotransmissor e arma de fogo, ocasião em que admitiu atuar como "vapor" - tanto que foi o único denunciado na ação penal objeto deste writ; b) o local em que estava o acusado é conhecido como ponto de venda de drogas, vinculado à associação criminosa "Comando Vermelho".
+4. Tanto a associação do paciente com outras pessoas quanto o vínculo estável e permanente ao grupo denominado "Comando Vermelho" - para a prática do comércio ilegal de drogas - foram presumidos pelas instâncias antecedentes, em violação à regra probatória inerente ao princípio da presunção de inocência.
+ ..
+7. Habeas corpus conhecido em parte e, nessa extensão, concedida a ordem, a fim de absolver o réu do crime descrito no art. 35 da Lei n. 11.343/2006 e fixar o regime inicial semiaberto para cumprimento da pena atinente ao delito de tráfico de drogas.
+(HC n. 462.888/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/11/2018).
+Da Quinta Turma, menciono:
+ ..
+2. Para a configuração do delito de associação para o tráfico de drogas é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário.
+3. Hipótese em que a Corte de origem não apresentou elementos concretos que demonstrem efetivamente o vínculo associativo estável e permanente entre o paciente e outros integrantes da facção criminosa. Não houve sequer a indicação de quem seriam as demais pessoas com ele associadas. Na falta da comprovação de dois requisitos legais para a configuração do delito de associação para o tráfico de entorpecentes, pluralidade de agentes e vínculo subjetivo no cometimento dos delitos , a absolvição do paciente é medida que se impõe.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para absolver o paciente pelo delito de associação para o tráfico de drogas, resultando a pena definitiva em 5 anos e 6 meses de reclusão, mantido o regime inicial fechado.
+(HC n. 434.880/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/4/2018).
+Assim, uma vez que houve clara violação da regra probatória inerente ao princípio da presunção de inocência, não há como subsistir a condenação do recorrente no tocante ao referido delito.
+À vista do exposto, dou provimento ao recurso especial, para absolver o recorrente em relação à prática do crime previsto no art. 35 da Lei n. 11.343/2006, objeto da Apelação Criminal n. 0167861-37.2022.8.19.0001.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
