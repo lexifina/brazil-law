@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de RYAN BRAIAN LIMA DE CARVALHO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL proferido na Apelação Criminal n. 5001218-42.2021.8.21.0014.
+Extrai-se dos autos que a prisão preventiva do paciente foi decretada em 30/10/2020 mediante representação da autoridade policial. Em 11/3/2021, o paciente e o corréu foram denunciados pela prática dos delitos de homicídio qualificado e tentativa de homicídio. O paciente foi pronunciado, em 2/12/2022, como incurso nas penas dos arts. 121, §2º, IV, do Código Penal - CP (1º Fato) e 121, §2º, IV, c/c o art. 14, II, do CP (2º Fato) (homicídio qualificado e homicídio qualificado tentado), mantida a custódia cautelar; todavia, o corréu foi impronunciado.
+Irresignada com a decisão, a defesa do paciente interpôs recurso em sentido estrito e o Parquet estadual interpôs recurso de apelação, tendo o Tribunal de origem desprovido ambos os recursos nos termos do acórdão que restou assim ementado:
+"RECURSO. HOMICÍDIO QUALIFICADO E TENTATIVA DEHOMICÍDIO QUALIFICADO. PRONÚNCIA (RYAN). EXISTÊNCIA DEINDÍCIOS DA MATERIALIDADE, AUTORIA E QUALIFICADORA. SENTENÇA MANTIDA.
+É pacífico o entendimento jurisprudencial que a impronúncia ou a desclassificação do delito ou, ainda, o afastamento de qualificadoras, só podem ocorrer quando não existir prova mínima da materialidade do delito ou da sua autoria ou existir prova plena da ausência do animus necandi ou, no caso da qualificadora, que nenhuma prova sobre ela tenha sido produzida durante a instrução probatória. Não é a situação dos autos, razão pela qual se mantém a sentença de pronúncia, como prolatada.
+APELAÇÃO. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIOQUALIFICADO. PRONÚNCIA. AUSÊNCIA DE INDÍCIOS DECOAUTORIA (DEIVID). SENTENÇA DE IMPRONÚNCIA MANTIDA.
+Como destacou a julgadora em sua decisão, impronunciando o apelado: "Portanto, não há falar em interferência à competência constitucionalmente prevista do Tribunal do Júri, nem em dúvida a ser dirimida pelo Conselho de Sentença, pois se está diante de causa de absoluta impossibilidade de levar o réuDeivid a tal julgamento, visto que não constam nos autos indícios suficientes deque o acusado foi o executor ou tenha participado dos homicídios aqui analisados, não se podendo submeter o réu ao Tribunal do Júri com base unicamente nos indícios de autoria constantes no inquérito policial que, por sua vez, se mostram escassos em relação a Deivid e sequer foram confirmados em juízo."
+Recurso e apelação desprovidos." (fl. 50)
+No presente writ, a defesa aponta nulidade na pronúncia, pois fora baseada tão somente em testemunhos de "ouvir dizer" do filho de uma das vítimas e de um policial civil, em afronta ao art. 155 do Código de Processo Penal - CPP. Sustenta que as testemunhas ouvidas em juízo não presenciaram os fatos, não havendo nos autos outra prova capaz de firmar a autoria delitiva atribuída ao paciente.
+Pondera que "as próprias testemunhas foram firmes e uníssonas em juízo ao afirmarem que souberam dos fatos por terceiros e que foram-lhe mostrados vídeos e fotografias afirmando que se tratava do paciente" (fl. 25).
+Argumenta que, durante a instrução processual, restou deferida a prova compartilhada oriunda da investigação realizada no Inquérito Policial n. 50011352620218210014. Aduz que o paciente restou prejudicado com esse arquivo que basicamente é um relatório dos telefones que foram apreendidos pelos policiais na própria delegacia, sendo que sequer foi realizado por um perito, ou, até mesmo foi fruto de uma extração com técnica e segurança ou possibilidade de ser auditável.
+Requer, assim, em liminar e no mérito, a nulidade da pronúncia, bem como que sejam declaradas inadmissíveis as provas decorrentes da extração de dados do celular do paciente (relatórios policiais contendo apenas trechos aleatórios de conversas no Inquérito Policial n. 5001135-26.2021.8.21.0014/RS).
+Medida liminar indeferida conforme decisão de fls. 123/125.
+Informações prestadas às fls. 140/143.
+Parecer ministerial de fls. 145/152 pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+O feito está prejudicado.
+Conforme consulta processual nos autos da A.P. n. 5001218-42.2021.8.21.0014, em decisão de 11/3/2025, tem-se que o paciente foi absolvido da acusação da prática dos crimes do art. 121, § 2º, inciso IV (1º fato), e do art. 121, § 2º, inciso IV, c/c o art. 14, inciso II (2º fato), na forma do art. 70, todos do CP . Revogou-se a prisão preventiva decretada e determinou-se a expedição de alvará de soltura.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimem-se.
+EMENTA
