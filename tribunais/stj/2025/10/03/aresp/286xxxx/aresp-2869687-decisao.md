@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SALGUEIRO INDÚSTRIA E COMÉRCIO DE AÇO LTDA., contra negativa de seguimento e inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 263-272):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. Contribuinte que após parcial acolhimento de exceção de pré-executividade peticiona com novo questionamento pertinente aos consectários legais aplicados pelo FISCO. Insurgência contra decisão que rejeitou o novo pleito e homologou os cálculos da FESP. Nova alegação da agravante de que o cálculo homologado ultrapassa a SELIC no que tange à "fração de mês" que não comporta discussão em sede de exceção de pré-executividade por demandar dilação probatória. A restrita via da exceção destina-se apenas a discussões de ordem pública, situação inexistente no caso. Eventual excesso de execução deve ser debatido em sede de embargos, nos termos do art. 914, do CPC. Precedentes, R. decisão agravada mantida. RECURSO DESPROVIDO. (fl. 264)
+Os embargos de declaração opostos pela parte recorrente (fls. 276-283) foram rejeitados (fls. 287-295), na forma da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DOS VÍCIOS DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE PREQUESTIONAMENTO DA MATÉRIA DEBATIDA NOS AUTOS - CARÁTER INFRINGENTE REVELADO.
+Se a parte não concorda com o resultado do julgamento, deve buscar sua reforma pela via recursal adequada, tendo em conta que o efeito infringente emprestado aos embargos de declaração somente é cabível de forma excepcional, isto é, uma vez constatada omissão ou contradição no julgado.
+EMBARGOS REJEITADOS. (fl. 288)
+Em seu recurso especial, às fls. 300-339, a recorrente alega violação aos arts. 489, § 1º, IV e 1022, II, parágrafo único, II, do CPC; 406 da Lei nº 10.406/02; 84, caput e §§ 1º e 2º, da Lei nº 8.981/95; 14, inciso III, da Lei nº 9.250/95.
+Sustenta que o Tribunal de origem, a despeito dos embargos de declaração opostos, foi contraditório/omisso sobre os seguintes pontos, in verbis (fl. 318):
+i) a premissa equivocada de que seria necessária "dilação probatória" para averiguar a incidência do índice de 1% (um por cento) tanto na fração de mês do vencimento (início) quanto no de atualização (final) do débito;
+ii) os dispositivos de leis federais que corroboram o seu pleito, uma vez que tais normas determinam, no mínimo, a aplicação de 1% (um por cento) somente na fração de mês relativa ao pagamento (fim), aplicando-se a Taxa SELIC durante todo o período anterior da contagem de juros; e
+iii) os dispositivos constitucionais que sustentam o seu pleito, notadamente em razão da interpretação que lhe foi dada pelo C. Supremo Tribunal Federal no julgamento do Tema nº 1.062 de Repercussão Geral, bem como o artigo 3º da Emenda Constitucional nº 113/2021, quando passou a ser obrigatória apenas a Taxa SELIC na cobrança dos débitos fiscais.
+No mérito, alega, em suma, que:
+i) é "perfeitamente admissível a Exceção de Pré-Executividade nas situações em que não se faz necessário dilação probatória ou que possam ser reconhecidas de ofício pelo Magistrado" (fl. 338)
+ii) deve ser "afastada a aplicação do índice utilizado pela Recorrida de 1% (um por cento) no cômputo da correção monetária e dos juros moratórios na fração de mês de início da contagem dos juros de mora (vencimento do tributo), expediente que resultará em índice de acordo com o utilizado pela União Federal, bem como em relação à fração de mês de atualização do débito (pagamento), pois tais índices estão em patamares superiores ao índice mensal da Taxa SELIC, que estão sendo exigidos nas Certidões de Dívida Ativa nºs 1.224.951.865, 1.224.951.876, 1.226.615.492 e 1.229.857.297." (fl. 339)
+A recorrida apresentou contrarrazões, às fls. 387-389, pelo não conhecimento do recurso especial.
+O Tribunal de origem inadmitiu o apelo nobre, às fls. 398-399, nos seguintes termos:
+No que diz respeito à questão referente a exceção de pré-executividade admissível relativamente a matérias que não demandem dilação probatória, no julgamento do REsp nº 1.104.900/ES, Tema nº 104, STJ, DJ de 01.04.2009 (cf. Súmula 393/STJ), o Col. Superior Tribunal de Justiça fixou a seguinte tese:
+A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+No mais, a apregoada afronta aos artigos 489 e 1022 do Código de Processo Civil não enseja a abertura da via especial porque o acórdão não está desprovido de fundamentação.
+Deve observar-se que a motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes
+pelo decidido, não se traduz em maltrato às normas apontadas como violadas.
+Além disso, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Dessa forma, com relação à questão decidida em sede de recurso repetitivo, com base no art. 1.030, inc. I, alínea "b" do Código de Processo Civil, nego seguimento ao recurso.
+Quanto ao mais, inadmito o recurso especial (págs. 302-41), com fulcro no art. 1.030, inciso V, do mesmo Diploma Legal.
+Em seu agravo, às fls. 440-476, a parte agravante alega que a decisão que não admitiu o recurso especial é genérica e que não é necessária a análise de provas para "averiguar a incidência do índice de 1% (um por cento) tanto na fração de mês do vencimento (início) quanto no de atualização (final) do débito", de forma que seu pleito está embasado na Súmula 393/STJ. (fl. 457).
+Aduz que "demonstrou de forma clara no seu Recurso Especial que o r. Aresto recorrido julgou em sentido totalmente contrário aos entendimentos do E. Tribunal de Justiça do Estado de São Paulo que determinam o recálculo da Certidão de Dívida Ativa para expurgo dos juros ilegais e inconstitucionais, pela realização de simples cálculos, que somente poderiam ser contrariados caso o I. Órgão Colegiado demonstrasse distinguishing ou overruling, o que não ocorreu in casu." (fl. 458).
+No mais, reedita as razões de mérito apresentadas no recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que a decisão objeto do recurso, prolatada pela Presidência da Seção de Direito Público do Tribunal de Justiça do Estado do Rio Grande do Sul, é cristalina ao, em parte, negar seguimento ao recurso à luz do artigo 1.030, I, "b", do CPC, pautando-se no entendimento exarado pelo STJ, especificamente, pelo Tema nº 104/STJ (Súmula 393), em que esta Corte firmou a seguinte tese:
+A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+E, da análise minuciosa dos autos, percebe-se que a fundamentação recursal apresentada pela parte agravante tem como objeto a matéria do precedente qualificado, acima transcrito, em que busca o distinguish, no entanto, perante o STJ, manejando agravo em recurso especial, como disposto, expressamente, à fl. 475:
+é perfeitamente admissível a Exceção de Pré-Executividade nas situações em que não se faz necessário dilação probatória ou que possam ser reconhecidas de ofício pelo Magistrado, como ocorre em relação à possibilidade de expurgo de juros ilegais e inconstitucionais, nos termos da Súmula nº 393 deste C. Superior Tribunal de Justiça." (fl. 475).
+Nesse caso, resta configurada a inadequeção da via recursal eleita, ao passo que a peça cabível contra a decisão monocrática responsável por negar o seguimento à pretensão, diante da fundamentação expendida pelo agravante, seria justamente o agravo interno, interposto em segunda instância, na dicção do artigo 1.030, § 2º, do CPC, in verbis "da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.".
+Portanto, por inadequação da via eleita, não se conhece dessa parte do agravo em recurso especial.
+Em relação à parte restante da decisão agravada, em que houve inadmissão do apelo raro, verifica-se que a agravante não impugnou efetivamente a sua fundamentação.
+Com efeito, o juízo de inadmissibilidade feito pelo Tribunal de origem assentou que:
+i) não se verifica violação aos arts. 489 e 1.022 do CPC, porquanto o acórdão recorrido não está desprovido de fundamentação, e não há vício de omissão em relação aos pontos considerados irrelevantes para o resultado do julgamento;
+ii) a parte recorrente não apresentou argumentos suficientes para infirmar as conclusões do acódão recorrido e nem demonstrou a suposta violação à legislação federal apontada, carecendo, assim, o recurso especial de fundamentação adequada; e
+iii) incidência do enunciado 7 da Súmula do STJ.
+Em seu agravo, contudo, a parte se contentou em reproduzir a tese alinhavada no recurso especial e em fazer menção genérica de não serem cabíveis os óbices aplicados pelo Tribunal de origem, sem, no entanto, demonstrar qualquer desacerto da decisão que não admitiu.
+Assim, ao deixar de rechaçar a argumentação do julgado agravado, feriu-se o princípio da dialeticidade, atraindo, ao caso, a incidência da previsão contida nos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do RISTJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024.).
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. DECISÃO MISTA PROLATADA PELO TRIBUNAL DE ORIGEM. PARCIAL NEGATIVA DE SEGUIMENTO, COM BASE NO TEMA N. 104 DO STJ. MATÉRIA DO AGRAVO INTERNO. COMPETÊNCIA DO TRIBUNAL DE ORIGEM. PARCELA RESTANTE, INADMISSÃO ANTE A FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, E 1.030, §2º, DO CPC, E 253, P. Ú., DO RISTJ. AGRAVO NÃO CONHECIDO.
