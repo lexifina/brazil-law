@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ARTHUR MESSIAS DE SOUZA NETO em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Depreende-se dos autos que o paciente foi preso em flagrante em 04/09/2025, pela suposta prática do delito previsto no art. 334-A do Código Penal, relacionado ao transporte de 450 mil maços de cigarros estrangeiros, tendo sido-lhe concedida liberdade provisória condicionada ao recolhimento de fiança inicialmente fixada em 20 salários mínimos, reduzida, em sede de habeas corpus na origem, para 10 salários mínimos.
+A defesa noticia, ainda, que o Tribunal Regional Federal da 4ª Região indeferiu a liminar em decisão monocrática e, ao final, concedeu parcialmente a ordem para reduzir a fiança de 20 para 10 salários mínimos no HC nº 5028380-22.2025.4.04.0000/PR.
+A Defesa sustenta que a fiança fixada é impagável, configurando coação ilegal e impedindo a liberdade do paciente, uma vez que não possui condições financeiras para arcar com o valor arbitrado.
+Alega ainda que a prisão cautelar não se justifica, pois os requisitos para sua decretação estão ausentes, e que a fiança deveria ser fixada em valor compatível com a situação econômica do paciente, conforme o art. 325, "b", e o art. 350 do Código de Processo Penal.
+No mérito, a Defesa requer a redução da fiança para o valor de cinco salários mínimos, a dispensa da fiança ou a concessão de liberdade provisória mediante termo de comparecimento, nos termos do art. 310, parágrafo único, do Código de Processo Penal.
+É o relatório. DECIDO.
+Não se mostra proporcional a manutenção do paciente na prisão tão somente em razão do não pagamento de fiança, visto que o caso não configura excepcionalidade imprescindível para o decreto preventivo.
+Ressalte-se que a Terceira Seção do Superior Tribunal de Justiça, no julgamento do HC n. 568.693/ES, confirmou a liminar concedida pelo relator, Ministro Sebastião Reis Júnior, e determinou a soltura de todas as pessoas do país cuja liberdade provisória fora condicionada ao pagamento de fiança e ainda se encontram submetidas à privação cautelar de liberdade devido ao não pagamento do valor, mantendo a possibilidade de imposição de outras medidas substitutivas da fiança, caso necessária.
+Estão evidenciados, portanto, o fumus boni iuris e o periculum in mora, o que autoriza o deferimento da medida.
+In casu, conquanto não se possa atribuir exatidão acerca da real capacidade econômica do paciente, para o fim de afastar a aventada vulnerabilidade financeira; o que se tem dos autos, sem descer ao arcabouço probatório, é que o ora acusado se encontra com a liberdade restringida por não ter pago o valor fixado a título de fiança.
+Outrossim, não se trata de elidir o caráter coercitivo da fiança, mas, sim, de reconhecer no caso concreto que, a par da incapacidade financeira, o paciente se encontra com a liberdade de locomoção restringida diante do valor fixado.
+Sobre o tema:
+"Embora não haja nos autos prova plena acerca das condições financeiras do Agravante para arcar ou não com o valor da fiança arbitrada, o fato de o Acusado estar preso sem ter pago a importância arbitrada indica que a falta do recurso realmente é o fator que impede sua liberdade" (AgRg no HC n. 816.299/ES, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 19/6/2023).
+"o arbitramento da fiança em valor elevado para réu que demonstrou hipossuficiência econômica caracteriza flagrante ilegalidade, pois viola os princípios da proporcionalidade e da razoabilidade" (AgRg no HC n. 880.615/SC, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 30/10/2024).
+Desse modo, encontrando-se o paciente com a liberdade restringida única e exclusivamente por não possuir condições de adimplir o valor arbitrado, a título de fiança, se mostra razoável e proporcional a redução da fiança estipulada.
+Ante o exposto, concedo a ordem para reduzir a fiança estipulada para o valor de cinco salários mínimos, destacando ser imperioso o cumprimento das demais medidas cautelares fixadas pelo Juízo de Primeiro Grau.
+Publique-se. Intimem-se.
+EMENTA
