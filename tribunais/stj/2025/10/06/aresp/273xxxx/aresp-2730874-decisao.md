@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO QUE NÃO CONHECEU DO RECURSO PRINCIPAL EM RAZÃO DA DESERÇÃO. AUSÊNCIA DE PREPARO REFERENTE A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO DISPOSTA NA TABELA DE CUSTAS DO TJBA. INTIMAÇÃO DO RECORRENTE PARA EFETUAR O RECOLHIMENTO EM DOBRO (ART. 1.007, §4º, DO CPC/2015). NÃO CUMPRIMENTO. PAGAMENTO FEITO A MENOR (FORMA SIMPLES). MERA INTENÇÃO DE COMPLEMENTAÇÃO DO VALOR, COMPLEMENTAÇÃO DO VALOR, O QUE É EXPRESSAMENTE VEDADO, NOS TERMOS DO ART. 1.007, § 5º, DO DISPOSITIVO RETRO. RECURSO NÃO CONHECIDO. DECISÃO MANTIDA. PRECEDENTES DESTA CORTE. AGRAVO INTERNO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 489, § 1º, IV; 1007, § 4º; e 1022, II, do Código de Processo Civil.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação dos arts. 489 e 1022 do CPC.
+Com relação ao art. 1007, § 4º, do CPC, o acórdão recorrido está em harmonia com a jurisprudência desta Corte para a qual a ausência de comprovação do recolhimento das custas, mesmo após intimação para seu recolhimento em dobro, enseja o reconhecimento da deserção do recurso. Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. A apresentação de comprovante de pagamento após a decurso do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Incidência da Súmula 187 do STJ. Precedentes.
+4. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+5. Agravo interno não provido. (STJ - AgInt nos EDcl no REsp. 1.941.293/SP, Data de Julgamento: 25/04/2022, Quarta Turma, Data de Publicação: DJe 27/04/2022.)
+No caso, o acórdão dispõe o seguinte (fl. 303):
+No caso sub oculi, para o conhecimento da insurgência manejada, far-se-ia imperioso que a Instituição Bancária Agravante recolhesse, em dobro, o preparo pertinente ao recurso, consoante determinado no id. 16832931, notadamente, as taxas referentes ao "Agravo de Instrumento (Código 40035) e "Envio eletrônico de citações, intimações, ofícios e notificações" (código 91017).
+Contudo, observa-se que, após ser intimado, o Recorrente efetuou o pagamento das custas a menor, isto é, da forma simples, consoante se verifica dos ids. 38692613 e seguintes, restando, portanto, imperioso o reconhecimento da deserção.
+Nessa linha, cediço que a falta de preparo configura ausência de pressuposto extrínseco de admissibilidade recursal, constituindo óbice intransponível ao processamento do inconformismo e, com isso, impedindo sua apreciação pelo Colegiado a que foi dirigido.
+Ademais, embora o Agravante insista na tese de possibilidade de complementação do preparo, a teor do quanto disposto no §2º, art. 1.007, do CPC/2015, em razão do recolhimento de valor equivalente a R$ 38,04 (trinta e oito reais e quatro centavos) (id. 36937694- autos principais), tal fato não merece albergamento. Isso porque, da simples leitura do referido DAJE, observa-se que o mesmo não faz qualquer correlação ao Instrumental, motivo pelo qual fora determinado o pagamento em dobro.
+Logo, ausente a comprovação do preparo, na modalidade em dobro, bem como vedada a complementação das custas (art. 1.007, §5º, do CPC/2015), a insatisfação afigura-se indiscutivelmente deserta.
+Aplica-se a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
