@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ZIM DO BRASIL LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 25/11/2024.
+Concluso ao gabinete em: 15/7/2025.
+Ação: pedido de tutela antecipada em caráter antecedente, ajuizada por UNILINK TRANSPORTES INTEGRADOS LTDA., em face de ZIM DO BRASIL LTDA.
+Decisão interlocutória: chamou feito à ordem, para tornar nula a decisão de fls. 348, e, em consequência, os despachos de fls. 352 e 355. Nestes termos, determinou a intimação da parte agravada, para, no prazo de 5 (cinco) dias, emendar a exordial conforme assegura o artigo 303, § 6º, CPC, devendo esclarecer o pedido principal, sob pena de ser indeferida e de o processo ser extinto sem resolução de mérito. (e-STJ fls. 24-27)
+Acórdão: negou provimento ao agravo interno interposto pela parte agravante, nos termos da seguinte ementa:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO. DECISÃO INTERLOCUTÓRIA NA ORIGEM QUE CHAMOU O FEITO A ORDEM PARA ANULAR DECISÃO ANTERIOR QUE ANUNCIOU O JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE CONTEÚDO DECISÓRIO. HIPÓTESE NÃO PREVISTA PELO ART. 1.015 DO CPC. INAPLICABILIDADE DO TEMA REPETITIVO 988. AGRAVO INTERNO IMPROVIDO.
+1- A parte ora agravante interpôs Agravo de Instrumento contra despacho proferido pelo julgador a quo que chamou o feito a ordem e anulou decisão anterior que anunciou o julgamento antecipado da lide, determinando ao recorrente a emenda a inicial.
+2- O recurso não foi conhecido por ausência de previsão no rol taxativo do art. 1.015 do CPC. Assim, a parte ora agravante requer a reapreciação da demanda à luz do Tema Repetitivo nº 988 do STJ.
+3- Com efeito, o Superior Tribunal de Justiça, por ocasião do julgamento do REsp n. 1.696.396/MT e REsp n. 1.704.520/MT, os quais foram submetidos ao rito dos recursos repetitivos, sob a relatoria da Ministra Nancy Andrighi, pacificou o entendimento no sentido de que o rol estabelecido pelo art. 1.015 do CPC é de taxatividade mitigada, firmando a tese sob o Tema Repetitivo 988 com a seguinte redação: "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+4- Todavia o despacho que revoga decisão anterior que anuncia o julgamento antecipado da lide e determina a emenda a inicial não demanda urgência em sua apreciação e nem provoca prejuízo à parte, sobretudo considerando que já foi cumprido o determinando na origem, portanto, não se enquadra nas hipóteses de taxatividade mitigada segundo os precedentes do STJ, devendo ser objeto de impugnação na própria ação principal, em eventual recurso de apelação ou nas contrarrazões desta, nos termos do artigo 1.009, § 1º, do CPC/15.
+8- Recurso conhecido e improvido." (e-STJ fls. 496-497)
+Recurso especial: alega violação dos arts. 4º, 6º, 489, § 1º, VI, 1.015, CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) segundo o entendimento materializado no Tema 988, além das situações previstas no artigo 1.015 do CPC, a urgência do caso concreto - entendida como a necessidade de uma resposta imediata do TJ/CE devido à inutilidade prática de se impugnar a decisão interlocutória apenas por meio de apelação ou contrarrazões - também justifica a interposição de agravo de instrumento; e, ii) decisão recorrida que, de ofício, declarou a nulidade da decisão saneadora e concedeu prazo à recorrida para emendar novamente a petição inicial, nos termos do artigo 303, § 6º, do CPC, é manifestamente equivocada. (e-STJ fls. 511-537)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 4º, 6º, 1.015, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "restou evidenciado que as razões de insurgência não se adequam ao rol taxativo do art. Art. 1.015, do Código de Processo Civil", bem como de que "o despacho que revoga decisão anterior que anuncia o julgamento antecipado da lide e determina a emenda a inicial não demanda urgência em sua apreciação e nem provoca prejuízo à parte, sobretudo considerando que já foi cumprido o determinando na origem", assim também de que "a decisão recorrida encontra-se devidamente fundamentada, tendo considerado a existência de questões processuais pendentes que deveriam ter sido analisadas antes do anúncio de julgamento, portanto, medida mais adequada para evitar nulidades futuras", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PEDIDO DE TUTELA ANTECIPADA EM CARÁTER ANTECEDENTE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Pedido de tutela antecipada em caráter antecedente.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
