@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de CARLOS EDUARDO ROMEIRA DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou o HC n. 3012404-61.2025.8.26.0000 (fl. 51):
+HABEAS CORPUS Tráfico de drogas Revogação da prisão preventiva Descabimento Decisão fundamentada Presentes os requisitos autorizadores da custódia cautelar Insuficiente a imposição das cautelares do artigo 319 do Código de Processo Penal - Constrangimento ilegal não evidenciado Ordem denegada.
+Consta dos autos a prisão preventiva do paciente, decorrente da suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006 (22,4 g de cocaína).
+Sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a segregação processual do paciente se encontra despida de fundamentação idônea, pois amparada na mera gravidade abstrata do delito.
+Alega que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Argumenta que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Expõe que deixou de ser observado o princípio da homogeneidade das medidas cautelares, tendo em vista que, em caso de eventual condenação, o paciente será submetido a regime inicial de cumprimento da pena mais brando do que o fechado, por fazer jus ao redutor do tráfico privilegiado.
+Requer, liminarmente, a suspensão dos efeitos da decisão que decretou a prisão preventiva e a expedição de alvará de soltura em favor do paciente. No mérito, pretende a concessão da ordem para revogar a prisão preventiva, com a aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da gravidade do delito, evidenciada pela quantidade de drogas apreendida, e por ostentar envolvimento anterior em atos infracionais, a demonstrar periculosidade mais acentuada.
+Ora, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seu decisum a fatores reais de cautelaridade.
+Ora, do atento exame dos autos, observo que, além de não terem sido apontados elementos concretos que denotem a necessidade da medida excepcional, as circunstâncias pessoais do imputado (primariedade e ausência de antecedentes) e da prisão em flagrante, em que foram apreendidos 22,4 g de cocaína, em crime cometido sem violência ou grave ameaça, demonstram a suficiência de medidas alternativas à prisão, pois este Superior Tribunal consolidou o entendimento de que com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+A simples menção genérica à existência de atos infracionais pretéritos, sem a indicação de qual ato teria sido praticado, o número do procedimento ou mesmo a data da ocorrência, não se revelam suficientes a fim de justificar a segregação cautelar, sendo certo que a quantidade de drogas apreendida (22,4 g de cocaína) não pode ser considerada expressiva.
+Ante o exposto, concedo liminarmente a ordem para revogar a prisão cautelar imposta ao paciente, devendo o magistrado aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (22,4 G DE COCAÍNA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO FLAGRANTE E PESSOAIS DO IMPUTADO QUE DENOTAM A SUFICIÊNCIA DE MEDIDAS ALTERNATIVAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
