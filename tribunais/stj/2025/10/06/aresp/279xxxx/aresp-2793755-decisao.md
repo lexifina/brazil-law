@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEANDRO CESAR NOGUEIRA MINGUTA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 25):
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR). ACUMULAÇÃO DE CARGOS PÚBLICOS DE AGENTE DE EDUCAÇÃO INFANTIL - AEI E PROFESSOR ADJUNTO DE EDUCAÇÃO INFANTIL - PAEI. MUNICÍPIO DO RIO DE JANEIRO. ARGUIÇÃO DO IRDR APÓS REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A DECISÃO MONOCRÁTICA QUE JULGOU A APELAÇÃO. INSTAURAÇÃO DO IRDR QUE PRESSUPÕE A PENDÊNCIA DE JULGAMENTO DO PROCESSO ORIGINÁRIO POR INCUMBIR AO ÓRGAÕ COMPETENTE PARA O JULGAMENTO DECIDIR TAMBÉM A CAUSA-PILOTO. INADMISSIBILIDADE DA INSTAURAÇÃO DO INCIDENTE.
+Inadmissibilidade do incidente por ter sido arguido quando já julgado monocraticamente o recurso de apelação, pendente o julgamento do agravo interno, pois o órgão competente para apreciar o IRDR também julgará o feito paradigma ou causa-piloto de que se originou o incidente (CPC, 978, parágrafo único). Inadmissão do incidente.
+Inconformado, o recorrente interpôs recurso especial (fls. 37/42) onde alega que o acórdão recorrido violou de forma expressa o artigo 978, parágrafo único do Código de Processo Civil.
+Por sua vez, o Tribunal de origem, nos moldes da decisão agravada de fls. 69/71, não admitiu o recurso especial sob os seguintes fundamentos:
+Trata-se de recurso especial tempestivo, fls. 38/43, com fundamento no artigo 105, III, "a", da Constituição da República, interposto em face de acórdão da Seção de Direito Público, fls.25/29, assim ementado:
+(..) Inconformado, o recorrente, em suas razões recursais, alega violação ao artigo 978, parágrafo único o CPC.
+Contrarrazões às fls. 56/68. É o brevíssimo relatório. O recurso não comporta admissão. O órgão julgador analisou a questão com base em legislação local, in casu, a Lei Municipal n. 6696/2019. Tal circunstância distancia o caso concreto das competências definidas pela Constituição da República para as Cortes Superiores, configurando hipótese que atrai a incidência da Súmula nº 280 do Supremo Tribunal Federal (Por ofensa a direito local não cabe recurso extraordinário), como se observa do julgado a seguir:
+(..) As demais questões suscitadas no recurso foram absorvidas pelos fundamentos desta, que lhes são prejudiciais.
+À vista do exposto, em estrita observância ao artigo 1030, V, do Código de Processo Civil, INADMITO o recurso especial interposto, nos termos da fundamentação supra.
+Em seu agravo, às fls. 77/80, o agravante aduz que o acórdão recorrido não analisou a questão com base em legislação local, mas com base na literalidade do artigo 978 do Código de Processo Civil, razão pela qual não há que se falar em incidência do enunciado nº 280 da Súmula do Supremo Tribunal Federal.
+Assim, argumenta que a decisão agravada não tratou da matéria analisada nos autos e requer o conhecimento do agravo para que se dê provimento ao recurso especial interposto.
+É o relatório. Decido.
+Ultrapassados os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não pode ser conhecida, visto que é manifesta a inadmissibilidade do recurso interposto nos autos.
+Isso porque não cabe recurso especial contra acórdão de segundo grau que admite, ou não, o Incidente de Resolução de Demandas Repetitivas (IRDR) suscitado por alguns de seus legitimados.
+Com efeito, nos moldes da legislação processual em vigor, é patente que o legislador apenas previu o cabimento de recurso especial ou extraordinário contra o acórdão de mérito do incidente de resolução de demanda repetitiva, isto é, contra o acórdão do Tribunal que fixa a tese jurídica, como se depreende do artigo 987, caput do Código de Processo Civil.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO IRDR POSTULADO NA ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL. POSSIBILIDADE DE RENOVAÇÃO DO PEDIDO DE INSTAURAÇÃO DO INCIDENTE. A AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO INVIABILIZA A ABERTURA DA VIA RECURSAL AO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 987 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior tem se alinhado à compreensão de que não é cabível recurso especial em face do acórdão que inadmite a instauração do IRDR, pois ausente interesse recursal, uma vez que, após o preenchimento dos requisitos legais, seria possível a instauração de um novo incidente, sem que se tenha ocorrido preclusão, conforme disposição expressa do art. 976, § 3º do Código de Processo Civil.
+2. " O  descabimento do recurso especial na hipótese decorre ainda do fato de que o novo CPC previu a recorribilidade excepcional ao Superior Tribunal de Justiça e ao Supremo Tribunal Federal apenas contra o acórdão que resolver o mérito do Incidente, conforme se depreende do art. 987, caput, do CPC/15, mas não do acórdão que admite ou que inadmite a instauração do IRDR" (REsp n. 1.631.846/DF, relator Ministro Paulo de Tarso Sanseverino, relatora para acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 5/11/2019, DJe de 22/11/2019).
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 2.309.846/SP, rel. Min. Ribeiro Dantas, Quinta Turma, DJe de 23/06/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO IRDR POSTULADO. RECORRIBILIDADE AO STJ. DESCABIMENTO. MÉRITO - EXIGIBILIDADE DE TAXA JUDICIÁRIA ESTABELECIDA POR LEI
+ESTADUAL. IMPOSSIBILIDADE DE ANÁLISE POR MEIO DO RECURSO ESPECIAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.245.497/PE, rel. Min. Marco Aurélio Belizze, Terceira Turma, DJe de 25/03/2021)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a" do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor do agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO IRDR POSTULADO NA ORIGEM. RECORRIBILIDADE AO STJ. DESCABIMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
