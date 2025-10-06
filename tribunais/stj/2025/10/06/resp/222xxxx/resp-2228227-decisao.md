@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Colatina, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado (fl. 212):
+AGRAVO DE INSTRUMENTO. PRODUÇÃO DE PROVA PERICIAL. AFERIÇÃO DE INSALUBRIDADE. INCOMPATIBILIDADE COM O RITO DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. RECURSO CONHECIDO E IMPROVIDO.
+I. Este Egrégio Tribunal de Justiça já fixou entendimento, em casos semelhantes ao dos autos, no sentido de que a produção de prova pericial para aferição da existência de situação de insalubridade, e respectivo grau, revela-se incompatível com o rito dos Juizados Especiais da Fazenda Pública.
+II. Não há falar-se em reforma do decisum combatido, que rejeitou a preliminar de incompetência do Juízo, sob o argumento de que "a prova dos fatos fundantes do invocado direito autoral, arrima-se em prova exclusivamente técnica-pericial, o que desloca a competência do feito para este juízo".
+III. Recurso conhecido e improvido.
+A esse julgado foram opostos sucessivos embargos de declaração, os quais restaram rejeitados nos termos das ementas que seguem (fls. 237 e 261):):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NULIDADE DO ACÓRDÃO. INCLUSÃO DO PROCESSO NA PAUTA DE JULGAMENTO. VÍCIO NA INTIMAÇÃO. INEXISTÊNCIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. SUFICIÊNCIA DOS FUNDAMENTOS JÁ DELINEADOS NO ACÓRDÃO RECORRIDO. REDISCUSSÃO. IMPOSSIBILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+I. Não merece prosperar a alegação de nulidade do Acórdão, na medida em que, em se tratando de processo judicial eletrônico - P Je, a intimação pessoal da Fazenda Pública se dá por meio eletrônico, consoante, inclusive, preconizado no artigo 183, § 1º, do Código de Processo Civil. No caso, fora procedida à intimação do Município Recorrente acerca da inclusão do processo na pauta de julgamento no Diário da Justiça do dia 28/06/2022, conforme certidão id. 2774915.
+II. Os presentes Aclaratórios demonstram apenas o inconformismo com os termos do Acórdão recorrido, porquanto visa apenas o rejulgamento do Agravo de Instrumento sob a premissa de que não foram observados precedentes jurisprudenciais diversos daquele utilizado como fundamento para fixação da competência do Juízo para processamento da demanda originária.
+III. Por se tratar de espécie recursal de fundamentação vinculada, caberia ao Recorrente, em sede de Aclaratórios, arguir e demonstrar os vícios de omissão, contradição e obscuridade no decisum combatido, de forma que, especialmente no tocante à contradição, esta se configura como sendo "interna ao julgado, existente entre a fundamentação e a conclusão da decisão ou entre premissas do próprio julgado." (STJ - EDcl no AgInt nos EDcl no AR Esp 959.169/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/06/2017, DJe 22/06/2017).
+IV. Resulta descabida a reapreciação da matéria litigiosa tendo como parâmetro eventuais soluções distintas adotadas pela jurisprudência pátria, ainda que no âmbito deste Egrégio Tribunal de Justiça, por ser inviável a utilização dos Embargos de Declaração para reapreciar o julgado, com a alteração do conteúdo enfrentado na decisão objurgada.
+V. Recurso conhecido e improvido.
+EMBARGOS DE DECLARAÇÃO - NULIDADE DO ACÓRDÃO - INTIMAÇÃO DA FAZENDA PÚBLICA ACERCA DA INCLUSÃO DO PROCESSO NA PAUTA DE JULGAMENTO - INEXISTÊNCIA DE VÍCIO NA INTIMAÇÃO - ART. 183, §1º, DO CPC - AUSÊNCIA DE OBSCURIDADE NO ACÓRDÃO - SUFICIÊNCIA DOS FUNDAMENTOS JÁ DELINEADOS NO ACÓRDÃO RECORRIDO - IMPOSSIBILIDADE - RECURSO IMPROVIDO.
+1. Por se tratar de ato de mera ciência, a inclusão do feito em pauta de julgamento pode ser disponibilizada em Diário de Justiça, ainda que uma das partes seja Fazenda Pública, tal como realizado no caso em comento. Precedente do TJES.
+2. O voto condutor descreveu com precisão a ausência de nulidade no fato de a intimação da Fazenda Pública acerca da inclusão do feito em pauta de julgamento se dar por meio da disponibilização em Diário de Justiça. Assim, não se constitui a controvérsia alegada pelo embargante:
+3. O julgamento da demanda de acordo com as convicções da Corte, mesmo quando contrário ao pretendido pelo recorrente, não enseja a verificação dos vícios previstos no artigo 1.022 do Novo Código de Processo Civil.
+4. Recurso conhecido e desprovido.
+Sustenta o recorrente, além de dissídio jurisprudencial, violação aos seguintes dispositivos legais:
+a) arts. 183, § 1º, do CPC e 5º, § 6º, da Lei n. 11.419/2006, ao argumento de que estes dispositivos devem ser interpretados em conjunto com a regra contida no art. 934 do CPC, "de sorte que a publicação da pauta no órgão oficial não afasta a necessidade de intimação pessoal da Advocacia Pública, da Defensoria Pública ou do Ministério Público para ciência da inclusão do processo em pauta de julgamento" (fl. 279);
+b) art. 2º da Lei n. 12.153/2009, sob a assertiva de que independentemente na necessidade de realização de perícia, é de competência absoluta dos Juizados Especiais da Fazenda Pública processar e julgar as causas cujo valor não exceda 60 (sessenta) salários mínimos.
+Sem contrarrazões (fl. 354).
+Recurso admitido na origem (fls. 355/363).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Por ocasião do julgamento dos primeiros embargos de declaração, o Tribunal de origem afastou a preliminar de nulidade do julgamento do agravo de instrumento sob a compreensão de que intimação do Município de Colatina deu-se regularmente por meio do Diário da Justiça, na forma do art. 183, § 1º, do CPC, não havendo em necessidade de intimação pessoal. Confira-se (fl. 233):
+Inicialmente, no que pertine à alegação de nulidade do Acórdão recorrido, não merece prosperar a insurgência recursal, na medida em que, em se tratando de processo judicial eletrônico - PJe, a intimação pessoal da Fazenda Pública se dá por meio eletrônico, consoante, inclusive, preconizado no artigo 183, § 1º, do Código de Processo Civil, in verbis:
+"Art. 183. A União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público gozarão de prazo em dobro para todas as suas manifestações processuais, cuja contagem terá início a partir da intimação pessoal.
+§ 1º A intimação pessoal far-se-á por carga, remessa ou meio eletrônico."
+Desta forma, tendo sido procedida à intimação do Município Recorrente acerca da inclusão do processo na pauta de julgamento no Diário da Justiça do dia 28/06/2022, conforme certidão id. 2774915, não há falar-se na nulidade apontada.
+(Grifo nosso)
+Sucede que, ao assim decidir, o Sodalício estadual violou o disposto no art. 183, § 1º, do CPC.
+Com efeito, este Superior Tribunal firmou sua jurisprudência no sentido de que "a Fazenda Pública goza da prerrogativa de intimação pessoal, sendo certo que a mera publicação do expediente relativo à sessão de julgamento no Diário da Justiça Eletrônico não é suficiente para atender ao comando legal inserto no art. 183, § 1.º, do Código de Processo Civil" (AgInt no REsp n. 2.027.287/MT, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 7/5/2025, grifo nosso).
+A propósito, cito ainda o seguinte julgado:
+PROCESSUAL CIVIL. MUNICÍPIO. REPRESENTAÇÃO POR ESCRITÓRIO PARTICULAR DE ADVOCACIA. INTIMAÇÃO PESSOAL. DESCABIMENTO.
+1. De acordo com o § 6º do art. 5º da Lei 11.419/2006, "as intimações feitas por meio eletrônico, em portal próprio, aos que se cadastrarem na forma do art. 2º desta Lei, inclusive a Fazenda Pública, serão consideradas pessoais, para todos os efeitos legais" (AgInt no REsp n. 2.004.884/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/8/2022, DJe de 24/8/2022.).
+2. A teor do 183, § 1º, do CPC/2015, os Municípios gozam da prerrogativa de intimação pessoal, não considerada como tal a publicação pelo Diário da Justiça Eletrônico.
+3. A prerrogativa de intimação pessoal, no entanto, apenas é reconhecida para os procuradores públicos municipais e não se estende aos escritórios particulares de advocacia contratados pelo ente municipal, caso dos presentes autos (REsp n. 1.789.770/PI, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/2/2019, DJe de 28/2/2019).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.471.664/GO, relator Ministro Gurgel de Faria, Primeira Turma, DJEN de 21/2/2025, grifo nosso.)
+Logo, deve ser acolhida a preliminar de nulidade do julgamento, restando prejudicadas as demais teses recursais.
+ANTE O EXPOSTO, conheço do recurso especial e dou-lhe parcial provimento para anular os acórdão recorridos e, via de consequência, determinar o retorno dos autos ao Tribunal de origem para que proceda novo julgamento do agravo de instrumento, dando-lhe a solução que entender de direito.
+Publique-se.
+EMENTA
