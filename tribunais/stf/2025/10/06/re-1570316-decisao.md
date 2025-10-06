@@ -1,0 +1,75 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Roberto Moreira Rodrigues, em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+
+    “APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO - INOVAÇÃO RECURSAL - NÃO CONHECIMENTO DE PARTE DO SEGUNDO APELO - ILEGITIMIDADE PASSIVA AFASTADA - RESPONSABILIDADE - NOTÁRIO - INSTITUIÇÃO FINANCEIRA - DANOS MATERIAIS E MORAIS - ARTS. 186 E 927, DO CC/02 - PROVA - LEVANTAMENTO DE RPV POR MEIO DE PROCURAÇÃO FALSA - DEMONSTRAÇÃO - RESSARCIMENTO DEVIDO - HONORÁRIOS ADVOCATÍCIOS. - É vedado a parte requerente inovar no recurso, por caracterizar ofensa ao princípio do duplo grau de jurisdição. - A natureza da responsabilidade civil do notário é regida pela lei vigente no momento do fato lesivo. - Considerando a legislação aplicável, na qual estabelecia a responsabilidade objetiva dos notários e registradores pelos danos causados a terceiro, não há razões para acolher a preliminar de ilegitimidade passiva. - A responsabilidade contratual do banco é objetiva, de modo que a instituição financeira responde independente de culpa, pela reparação dos danos causados a seus clientes por falhas decorrentes da prestação de seus serviços. - Demonstrado o ato ilícito, bem como os danos suportados em virtude do repasse de quantia referente à RPV obtida em ação judicial, porém, levantada por meio de procuração pública falsa, correto o ressarcimento material imposto. - Configura lesão extrapatrimonial aquele fato que, fugindo à normalidade, interfira no comportamento psicológico do indivíduo. - A indenização por dano moral deve ser fixada em observância aos princípios da razoabilidade e proporcionalidade, sendo suficiente para reparar dano, como se extrai do art. 944, do CC/02. - O arbitramento dos honorários advocatícios deve ter como parâmetro os critérios previstos no art. 85, do CPC/15, não podendo ser estabelecidos de modo a não cumprir com a sua finalidade - remuneração do causídico.” (Apelação Cível Nº 1.0000.20.083954-6/001, 9ª Câmara Cível, Rel. Des. Amorim Siqueira, j. 04.8.2021)
+
+    Em juízo de retratação negativo, foi mantido o acórdão recorrido, em decisão que ficou assim ementada:
+
+    “APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO - NOTÁRIO - LEGISLAÇÃO APLICÁVEL À ESPÉCIE - ÉPOCA DOS FATOS - RESPONSABILIDADE OBJETIVA - PRECEDENTE DO STJ - TEMA 777 DO STF - INAPLICABILIDADE, NO CASO - MANUTENÇÃO DO JULGADO - JUÍZO NEGATIVO DE RETRATAÇÃO. - Não obstante, atualmente, a responsabilidade civil dos notários seja considerada de natureza subjetiva, conforme estabelece o Tema 777 do STF, à época dos fatos retratado por ocasião do julgamento dos recursos de apelação, vigorava o art. 22 da Lei nr. 8.935/1994, a qual previa a responsabilidade civil objetiva dos notários independentemente de culpa ou dolo. - Inexistindo divergência entre os termos do acórdão recorrido e o paradigma para a devolução da matéria ao órgão fracionário, nos termos do que dispõe o art. 1.030, inc. II, do CPC, não deve ser exercido o juízo de retratação.” (Apelação Cível Nº 1.0000.20.083954-6/001, 9ª Câmara Cível, Rel. Des. Amorim Siqueira, j. 06.9.2022)
+
+    Na minuta, sustenta-se violação ao Tema 777 da repercussão geral. Assevera-se que “a responsabilidade do Estado é objetiva e direta ou seja, primária perante atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem dano a terceiros.”
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Inicialmente, nos termos do art. 102, III, “a”, da Lei Fundamental, compete a este Supremo Tribunal Federal julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida contrariar dispositivo da Constituição Federal.
+
+    Da análise dos autos verifica-se que a parte recorrente não indicou, nas razões do recurso extraordinário, o dispositivo constitucional violado no julgamento efetuado pela Corte de origem.
+
+    Na esteira da jurisprudência desta Suprema Corte, a ausência de indicação do dispositivo contrariado impede o conhecimento do recurso, ante o óbice da Súmula 284/STF: “é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Nesse sentido:
+
+          Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Cumprimento de sentença. Astreintes. Cobrança. Não indicação de dispositivo constitucional violado. Súmula nº 284/STF. Análise da legislação infraconstitucional pertinente. Reexame do conjunto fático-probatório dos autos. Súmula 279/STF. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, que tem por objeto acórdão que negou provimento ao agravo de instrumento. 2. A ausência de indicação, nas razões do recurso extraordinário, do dispositivo constitucional que teria sido violado, atrai a Súmula nº 284/STF, segundo a qual “é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. 3. Hipótese em que, para dissentir do entendimento do Tribunal de origem, seria imprescindível analisar a legislação infraconstitucional aplicada ao caso e reexaminar os fatos e o material probatório constantes dos autos. A hipótese atrai a incidência da Súmula 279/STF. Precedente. 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015. (ARE 1472588 AgR, Rel. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 07.03.2024)
+
+    Ainda que superado tal óbice, esta Corte no julgamento do RE 842.846/RG, paradigma do Tema 777 da repercussão geral, fixou a Tese de que “o Estado responde, objetivamente, pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem dano a terceiros, assentado o dever de regresso contra o responsável, nos casos de dolo ou culpa, sob pena de improbidade administrativa”.
+
+    Na ocasião, a Corte esclareceu que “A Lei 8.935/94 regulamenta o art. 236 da Constituição Federal e fixa o estatuto dos serviços notariais e de registro, predicando no seu art. 22 que “os notários e oficiais de registro são civilmente responsáveis por todos os prejuízos que causarem a terceiros, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou escreventes que autorizarem, assegurado o direito de regresso. (Redação dada pela Lei nº 13.286, de 2016), o que configura inequívoca responsabilidade civil subjetiva dos notários e oficiais de registro, legalmente assentada”.
+
+    Assim, a referida Tese de repercussão geral, em que pese reconheça a responsabilidade objetiva do Estado pelos atos dos tabeliães e registradores oficiais que, no exercício de suas funções, causem dano a terceiros, não afasta a responsabilidade subjetiva destes, “por todos os prejuízos que causarem a terceiros, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou escreventes que autorizarem”, prevista no art. 22 da Lei 8.935/94. Nesse sentido:
+
+    “AGRAVO EM EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. RESPONSABILIDADE CIVIL DE NOTÁRIO. ACÓRDÃO DO TJSC. ALEGAÇÃO DE OFENSA AO TEMA 777 DA REPERCUSSÃO GERAL. CONTROVÉRSIA DE NATUREZA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. RECURSO EXTRAORDINÁRIO NÃO PROVIDO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A reclamação foi ajuizada contra acórdão do Tribunal de Justiça de Santa Catarina (TJSC) que responsabilizou notário por omissão na prevenção de fraude na lavratura de procuração. Alegação de ofensa ao entendimento do STF no Tema 777 da Repercussão Geral. 2. A Primeira Turma, ao julgar o RE nº 1.458.470, já decidiu que a controvérsia é de natureza infraconstitucional, sendo inviável o reexame da moldura fática fixada pelas instâncias ordinárias, nos termos da Súmula 279/STF. 3. Não há afronta ao entendimento fixado pelo STF no Tema 777 da Repercussão Geral, pois a Corte de origem não afastou a responsabilidade objetiva do Estado. Esta não exclui a responsabilidade dos notários, nos termos da Lei nº 8.935/94. 4. A reclamação não pode ser utilizada como sucedâneo recursal para reanálise da mesma matéria já apreciada no recurso extraordinário. 5. Agravo regimental conhecido e não provido.” (Rcl 73355 ED-AgR, da minha relatoria, Primeira Turma, DJe 23-04-2025)
+
+    Na presente hipótese, dentre os fundamentos que embasaram o acórdão impugnado destaco:
+
+    “Após a análise atenta de todo o processado, cheguei à mesma conclusão obtida pelo eminente relator e pelo 2º vogal, quanto à responsabilidade civil objetiva do notório, no caso em espécie.
+
+    Isso porque, não obstante atualmente a responsabilidade civil dos notórios seja considerada de natureza subjetiva, conforme, inclusive, bem destacou o eminente 1º vogal ao citar o julgamento do Tema 777 pelo Supremo Tribunal Federal, colhe-se que à época dos fatos vigorava o artigo 22 da Lei 8.935/1994, a qual previa a responsabilidade civil objetiva dos notários independentemente de culpa ou dolo. Eis o teor da norma vigente à época da ocorrência dos fatos:
+
+    ‘Art. 22 - Os notários e oficiais de registro responderão pelos danos que eles e seus prepostos causem a terceiros, na prática de atos próprios da serventia, assegurado aos primeiros direitos de regresso no caso de dolo ou culpa dos prepostos’
+
+    Ato contínuo, sobreveio a Lei 13.286/2016 que visou, precipuamente, alterar o regramento da responsabilidade civil atribuída aos notórios e registradores, exigindo a demonstração de dolo ou culpa para o seu reconhecimento, ao acrescer os seguintes termos ao dispositivo normativo.
+
+    ‘Art. 22. Os notários e oficiais de registro são civilmente responsáveis por todos os prejuízos que causarem a terceiros, por culpa ou dolo, pessoalmente, pelos substitutos que designarem ou escreventes que autorizarem, assegurado o direito de regresso.’
+
+    Destaca-se, ademais, consoante bem ressaltou o eminente 2º vogal, o entendimento dominante no Superior Tribunal de Justiça, conferida a antiga redação do artigo 22 da Lei 8.935/1994, era pelo reconhecimento da responsabilidade civil objetiva dos notários, e não subjetiva.
+
+    Nesse sentido:
+
+    [...]
+
+    Desse modo, comprovado o nexo de causalidade entre a conduta praticada pelo notário e os danos ocasionados à parte autora, necessário é manter a sentença proferida que reconheceu a sua responsabilidade civil objetiva, impondo o dever de reparar monetariamente os prejuízos causados.
+
+    [...]
+
+    Desse modo, com a devida vênia aos entendimentos contrários, acompanho o eminente relator quanto ao reconhecimento da responsabilidade civil objetiva do notário, a fim de negar provimento ao recurso por ele interposto, contudo, acompanho o eminente 1º vogal pelo afastamento da responsabilidade atribuída à instituição financeira ré, dando provimento ao apelo interposto pelo Banco do Brasil S.A.”
+
+     Da leitura do trecho transcrito, constata-se que o Tribunal de Justiça do Estado de Minas Gerais decidiu com base nos fatos e nas provas dos autos para negar provimento à apelação da parte recorrente. Compreensão diversa do entendimento firmado pela Corte de origem acerca do “nexo de causalidade entre a conduta praticada pelo notário e os danos ocasionados à parte autora” (E-doc nº 183, fl. 30/31) demandaria o revolvimento da moldura fática delineada, bem como a análise da legislação infraconstitucional aplicável (Leis nº 8.935/1994 e nº 13.286/2016), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279 /STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “Direito processual civil. Agravo interno em recurso extraordinário com agravo. Registro Civil. Fundo de custeio. Tabelião interno. Responsabilidade. Legislação infraconstitucional. Fatos e provas. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento ao recurso. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento do Tribunal de origem, seria imprescindível analisar a legislação infraconstitucional aplicada ao caso, assim como apreciar os fatos e o material probatório constantes dos autos, procedimentos inviáveis neste momento processual. A hipótese atrai a incidência das Súmulas 279 e 280/STF. Precedente. IV. Dispositivo 5. [...] 6. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do CPC/2015.” (ARE 1492957 ED-AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 07-08-2024)
+
+    “DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DOS NOTÁRIOS E OFICIAIS DE REGISTRO POR EVENTUAL DANO CAUSADO A TERCEIROS. FRAUDE NA ASSINATURA DO DOCUMENTO DE TRANSFERÊNCIA DE VEÍCULO. INEXISTÊNCIA DE NEXO CAUSAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 279 do STF. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. [...] 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 1420303 AgR, Relator(a): ROSA WEBER (Presidente), Tribunal Pleno, DJe 25-07-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso extraordinário.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 6 de outubro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
