@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de ADRIANO SILVA LIMA, no qual se aponta como autoridade coatora o Tribunal de Justiça de Sergipe, que, em 19/9/2025, deu provimento ao apelo da acusação para condenar o paciente pela prática do crime previsto no art. 306, c/c o art. 298, V, do Código de Trânsito Brasileiro, à pena de 7 meses de detenção, em regime aberto, substituída por prestação de serviços à comunidade, além do pagamento de 15 dias-multa e da suspensão do direito de dirigir por 2 meses e 10 dias (Apelação Criminal n. 202500352148).
+A impetrante argumenta que a condenação está fundada exclusivamente em elementos inquisitoriais não confirmados em juízo e requer a concessão da ordem para restabelecer a sentença absolutória.
+É o relatório.
+Segundo entendimento desta Corte, não é admissível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem.
+No caso, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Além disso, o paciente está respondendo ao processo em liberdade e não está evidente nenhum constrangimento ilegal a ser reparado por meio da via eleita, sobretudo porque não há violação do art. 155 do CPP quando a comprovação da materialidade do art. 306 do CTB é fundada em laudo de constatação de alteração da capacidade psicomotora, elaborado na fase investigativa, uma vez que o documento tem caráter de prova, devido à sua natureza cautelar e irrepetível (AgRg no AgRg no AREsp n. 2.621.565/ES, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 24/2/2025).
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. DESVIRTUAMENTO DO WRIT. AUSÊNCIA DE REPERCUSSÃO IMEDIATA NA LIBERDADE DE IR E VIR. EMBRIAGUEZ AO VOLANTE. ALEGAÇÃO DE VIOLAÇÃO DO ART. 155 DO CPP. MATERIALIDADE E AUTORIA COMPROVADAS. EXAME DE ALCOOLEMIA. SUFICIÊNCIA. PROVA IRREPETÍVEL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
