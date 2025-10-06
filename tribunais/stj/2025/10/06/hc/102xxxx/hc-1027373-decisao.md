@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOYCE APARECIDA VASCOCELOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Recurso Em Sentido Estrito n.1502460-53.2024.8.26.0224).
+Consta nos autos que a paciente foi pronunciada como incursa no art. 124, caput, c/c art. 14, inciso II, ambos do Código Penal.
+O Tribunal de origem negou provimento ao recurso em sentido estrito em acórdão assim ementado (fl. 21):
+RECURSO EM SENTIDO ESTRITO TENTATIVA DE ABORTO Pleito de impronúncia Descabimento Provada a materialidade e presentes indícios suficientes de autoria, cabe a submissão da agente a julgamento pelo Conselho de Sentença, juiz natural da causa - Crime cujos vestígios desapareceram Possibilidade de a prova oral suprir o laudo de exame de corpo de delito Exegese do art. 167, do CPP Precedente Discussão acerca da ineficácia absoluta do meio que traduz mera elocubração Fase em que se decide em favor da sociedade. Recurso desprovido
+Neste writ, a Defesa sustenta constrangimento ilegal, porquanto não foi realizado exame de corpo de delito para comprovar a materialidade do crime de aborto tentado, o que seria imprescindível.
+Alega que o artigo 167 do Código de Processo Penal, que permite a substituição do exame de corpo de delito por prova testemunhal, não se aplica ao caso, pois a natureza do crime exige prova técnica e não meramente testemunhal.
+Aponta que a ausência de prova técnica inviabiliza a formação do corpus delicti, sendo inadequado basear a materialidade exclusivamente em depoimentos indiretos ou de "ouvir dizer".
+Aduz, ademais, que a decisão de pronúncia estaria fundamentada exclusivamente em elementos colhidos na fase investigativa, sem confirmação em juízo, o que viola o artigo 155 do CPP.
+Argumenta que a decisão de pronúncia deve ser fundamentada em provas firmes e livres de dúvida, conforme interpretação sistemática dos artigos 413 e 414 do CPP e jurisprudência do STJ e STF.
+Requer, liminarmente, a suspensão da ação penal e das sessões plenárias designadas (dias 18, 19 e 20 de agosto) e, no mérito, a concessão da ordem para reconhecer a violação ao artigo 167 do CPP, supletivamente, o reconhecimento da nulidade do acórdão combatido por violação ao artigo 155 do CPP.
+O pedido liminar foi indeferido (fls. 95-96)
+Informações prestadas (fls. 103-137).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 141/144).
+É o relatório.
+Decido.
+O writ não merece prosperar.
+Constata-se que o presente mandamus é mera reiteração do recurso próprio já interposto (Agravo em Recurso Especial nº 3028838 /SP), motivo pelo qual não é possível conhecer da impetração.
+De fato,
+o ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1º/4/2022) (AgRg no HC n. 720.421/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 03/11/2022).
+Ademais, referido óbice leva ao não conhecimento da impetração, visto que
+a jurisprudência desta Corte não se admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023) (AgRg no HC n. 864.456/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. 1. AUSÊNCIA DE PREVISÃO LEGAL. PEDIDO RECEBIDO COMO AGRAVO REGIMENTAL. 2. HC IMPETRADO CONCOMITANTEMENTE COM ARESP. SUBVERSÃO DO SISTEMA RECURSAL. OFENSA À UNIRRECORRIBILIDADE. 3. PEDIDO CONHECIDO COMO AGRAVO REGIMENTAL, A QUE SE NEGA PROVIMENTO. 1. Diante da ausência de previsão legal de pedido de reconsideração e verificada a observância ao prazo de interposição, conheço do presente pedido como agravo regimental. 2. A utilização simultânea do habeas corpus e do recurso apropriado, em especial na presente hipótese, revela manifesta subversão do sistema recursal e violação ao princípio da unirrecorribilidade das decisões judiciais, o que impede o conhecimento do presente mandamus. Com efeito, "a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade". (AgRg no HC n. 823.337/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, D Je de 21/8/2023.) -  ..  3. Pedido de reconsideração conhecido como agravo regimental, a que se nega provimento.
+(AgRg no HC n. 872.367/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, D Je de 22/3/2024 - grifamos. )
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONDENAÇÃO MANTIDA EM APELAÇÃO. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE VIOLAÇÃO. MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DA IMPETRAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação ao princípio da colegialidade na decisão proferida nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça - RISTJ que dispõe que cabe ao relator, em decisão monocrática, "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida", lembrando, ainda, a possibilidade de apreciação pelo órgão colegiado por meio da interposição do agravo regimental.
+2. Não se mostra adequada a possibilidade de análise da matéria para eventual concessão da ordem de ofício, haja vista a interposição concomitante de recurso especial perante o Tribunal de origem. Com efeito, nos termos da jurisprudência consolidada nesta Corte Superior, inviável o conhecimento de habeas corpus impetrado concomitante mente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 809.553/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023 - grifamos).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+ EMENTA
