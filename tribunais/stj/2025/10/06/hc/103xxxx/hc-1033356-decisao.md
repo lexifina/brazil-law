@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS DE CAMPOS AMORIM contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Na inicial, o impetrante narra que o paciente foi condenado a 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa, pela prática do crime do art. 33, caput, da Lei n. 11.343/2006. Expôs que ele é usuário de drogas e que foi apreendida ínfima quantidade do entorpecente (3,11 gramas de cocaína, divididos em oito porções). Alegou que não há prova de comercialização ou de outro ato típico de traficância. Apontou violação ao definido no tema n. 506 da repercussão geral do STF. Pediu a concessão da ordem para desclassificar a imputação para o art. 28, caput, da Lei n. 11.343/2006 (fls. 2-10).
+Neguei a liminar (fls. 98-100).
+Prestadas as informações (fls. 103-117 e 121-125), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 128-134).
+É o relatório. DECIDO.
+A impetração investe contra acórdão proferido em apelação criminal. Substitui, pois, recurso próprio, o que lhe inviabiliza o conhecimento.
+A Terceira Seção, no HC 535.063/SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não há circunstância excepcional que recomende superar esse entendimento.
+Sobre a configuração do crime de tráfico de drogas, e não de posse de substância para consumo pessoal, o acórdão dispôs da seguinte forma (fls. 35-59):
+"Acrescente-se que o artigo 33 da Lei de Tóxicos prevê diversas condutas. No caso, o recorrente trazia consigo entorpecentes para o comércio, conduta que também se tipifica e deve ser combatida. A destinação mercantil ficou demonstrada pelo fato de ele estar parado em conhecido ponto de tráfico e em poder de substâncias ilícitas, parte já nas mãos, para rápida entrega ao usuário, e outra parcela separada em uma sacola.
+Para a configuração do narcotráfico não se exige a visualização de qualquer ato de mercancia, bastando que o agente traga consigo, tenha em depósito ou guarde a substância proibida, sendo despicienda a "traditio" para consumação do delito (RJTJSP - vol. 97, pág. 512) (cf. Apelação Criminal nº 0023429-16.2018.8.26.0050 11ª Câmara de Direito Criminal do TJSP Rel. Des. Guilherme G. Strenger J. em 29.1.2020).
+O apelante poderia até mesmo ser usuário de drogas, todavia, isso não se deu de maneira exclusiva, sendo imprescindível para caracterizar o art. 28 da Lei nº 11.343/2006. A mera alegação de ser usuário não afasta, por si só, a condição de traficante.
+Sobre o tema já decidiu esta Colenda Câmara: "Além do mais, o fato de serem usuários de entorpecentes não exclui o de estarem também envolvidos com o tráfico, pois é comum usuários praticarem o comércio ilegal exatamente para sustentar o próprio vício." (Apelação Criminal nº 3000574- 96.2013.8.26.0363 - Relator Desembargador Paiva Coutinho J. em 12.2.2020).
+Acrescente-se que a quantidade de droga apreendida, embora não seja significativa, não pode ser desprezada. Sabe-se que é estratégia comum entre os traficantes, trazer consigo ou guardar próximo a si poucas porções, com a pretensão de descaracterizar o delito de tráfico ilícito diante de eventual abordagem policial".
+Como se vê, o Tribunal de origem analisou o acervo probatório e concluiu, dentro das variáveis do art. 28, § 2º, da Lei n. 11.343/2006, que o fato não se encaixa em posse para consumo pessoal.
+Não se visualiza, na fundamentação destacada, ilegalidade flagrante capaz de justificar a concessão de ordem de ofício.
+No ponto, vale o registro de que o habeas corpus tem limite de cognição restrito e não se presta a revolver matéria de fato e de prova.
+Confira-se: "O habeas corpus não se presta à apreciação de alegações que buscam a absolvição ou desclassificação de crime, em virtude da necessidade de revolvimento do conjunto fático-probatório" (AgRg nos EDcl no HC n. 1.007.253/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/9/2025, DJEN de 29/9/2025.).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
