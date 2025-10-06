@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. contra decisão que inadmitiu recurso especial com fundamento ausência de violação dos arts. 1.022, II, do CPC e 28, § 1º, da Lei n. 10.931/2004, pela incidência das Súmulas n. 5, 7 e 83 do STJ, e não realização do cotejo analítico.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de alienação fiduciária.
+O julgado foi assim ementado (fl. 46):
+AGRAVO INTERNO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE REVISÃO CONTRATUAL. TUTELA DE URGÊNCIA.
+1. A PREVISÃO GENÉRICA NO SENTIDO DA CAPITALIZAÇÃO DIÁRIA DE JUROS, SEM A INDICAÇÃO DA TAXA DIÁRIA RESPECTIVA, NÃO VIABILIZA A SUA INCIDÊNCIA, DESATENDENDO AO DEVER DE INFORMAÇÃO, À LUZ DO DISPOSTO NO ARTIGO 46 DO CDC, DEVENDO SER REPUTADA ABUSIVA. PRECEDENTE DA 2A SEÇÃO DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. ALTERAÇÃO DE ENTENDIMENTO DO RELATOR.
+2. FLAGRADA A ABUSIVIDADE DE ENCARGO PREVISTO PARA A NORMALIDADE CONTRATUAL, MOSTRA-SE POSSÍVEL, EM FASE DE COGNIÇÃO SUMÁRIA, A VEDAÇÃO DA INSCRIÇÃO DO NOME DA PARTE AUTORA EM CADASTROS DE INADIMPLENTES, BEM COMO A SUA MANUTENÇÃO NA POSSE DO VEÍCULO ALIENADO FIDUCIARIAMENTE, MEDIDAS CONDICIONADAS AO DEPÓSITO, EM JUÍZO, DOS VALORES INCONTROVERSOS.
+3. É CABÍVEL A FIXAÇÃO DE MULTA PARA O CASO DE DESCUMPRIMENTO DE DECISÃO JUDICIAL, COMO FORMA DE GARANTIR O ATENDIMENTO DA DETERMINAÇÃO, CONSOANTE DISPOSTO NOS ARTIGOS 536 E 537 DO CÓDIGO DE PROCESSO CIVIL, DESDE QUE SEU MONTANTE NÃO IMPLIQUE ENRIQUECIMENTO SEM CAUSA. AGRAVO INTERNO DESPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 54):
+EMBARGOS DE DECLARAÇÃO. ALIENAÇÃO FIDUCIÁRIA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA.
+1. Inexistindo obscuridade, contradição, omissão ou erro material no julgamento hostilizado, resta inviabilizado o acolhimento da pretensão aclaratória. Embargos declaratórios não se prestam à rediscussão da matéria analisada na decisão.
+2. Não se verifica malferimento aos dispositivos invocados pela parte embargante.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Nas razões do recurso especial, alega a parte recorrente, além de dissídio jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, do CPC, uma vez que o Tribunal a quo não se manifestou sobre a legalidade da capitalização de juros inferior a anual;
+b) 28, § 1º, da Lei n. 10.931/2004, por afastar a capitalização de juros em periodicidade inferior à anual prevista em contrato de Cédula de Crédito Bancário;
+Aponta a existência de divergência com relação às jurisprudências veiculadas no seguinte precedente paradigmático: REsp n. 973.827/RS, que assentou ser lícita a incidência de capitalização em periodicidade inferior à anual nos contratos bancários.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, a fim de reconhecer a possibilidade de cobrança de capitalização de juros em qualquer periodicidade, e, consequentemente, reestabelecer a caracterização da mora.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Contextualização
+A controvérsia diz respeito à ação de alienação fiduciária em que a parte autora pleiteou a revisão contratual e a concessão de tutela de urgência para vedar a inscrição do nome em cadastros de inadimplentes e manter a posse do veículo.
+A Corte estadual manteve a decisão monocrática que concedeu a tutela de urgência, concluindo que a capitalização de juros diária é abusiva, tendo em vista que não existe a indicação da referida taxa diária de juros, que não ficou configurada a mora, que não é possível a inclusão do nome do agravado em cadastros de inadimplentes e pela manutenção da posse do veículo com o agravado.
+II - Violação do art. 1.022, II, do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso, a Corte a quo debateu, de forma explícita, acerca da capitalização diária de juros, entendendo pela abusividade da taxa, pois não tem previsão contratual. Confira-se trecho do voto condutor do acórdão da (fls. 24-25, destaquei):
+Na hipótese em tela, restou prevista, conforme item "3. Promessa de Pagamento" (Documento 5 do Evento 1), a capitalização de juros em periodicidade diária, sem, contudo, a indicação da respectiva taxa diária de juros. No ponto, passo a adotar o entendimento, na esteira do que vem decidindo o Egrégio Superior Tribunal de Justiça, de que a sua ausência subtrai do consumidor a possibilidade de estimar previamente a evolução do débito, bem como de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, desatendendo ao dever de informação, à luz do disposto no artigo 46 do CDC3, tornando abusiva a sua incidência.
+ ..
+Assim, demonstrada a abusividade da capitalização de juros contratada entre os litigantes, tem-se como não configurada a mora da parte consumidora.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Nesse sentido: REsp n. 2.166.999/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2025, DJEN de 26/3/2025; EDcl no AgInt no REsp n. 1.925.562/SP, relator Ministro Marco Buzzi, Quarta Turma, julgados em 17/3/2025, DJEN de 24/3/2025; AgInt no REsp n. 2.152.327/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.
+III - Violação do art. 28, § 1º, da Lei n. 10.931/2004 - Capitalização de juros
+A Segunda Seção do STJ, no Recurso Especial n. 973.827/RS (Temas n. 246 e 247), processado segundo o rito previsto no art. 543-C do CPC de 1973, decidiu que "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada", entendimento consolidado com a edição da Súmula n. 530 do STJ.
+Estabeleceu ainda que "a capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara" e que "a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Súmula n. 541 do STJ).
+Também de acordo com entendimento consolidado pela Segunda Seção, admite-se a cobrança da capitalização diária dos juros, sendo necessárias, nesse caso, não só a previsão expressa de sua periodicidade no contrato pactuado mas também a referência à taxa diária dos juros aplicada, em respeito à necessidade de informação do consumidor para que possa estimar a evolução de sua dívida.
+Eis a ementa do precedente:
+RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL E DO CONSUMIDOR. (EN. 3/STJ). CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE.
+1. Controvérsia acerca do cumprimento de dever de informação na hipótese em que pactuada capitalização diária de juros em contrato bancário.
+2. Necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas.
+3. Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma.
+4. Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS. (REsp n. 1.826.463/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/10/2020, DJe de 29/10/2020.)
+Isto é, para que seja admitida a cobrança da capitalização diária, é necessária a previsão expressa de sua periodicidade e da taxa diária, não sendo suficiente a menção às taxas efetivas anual e mensal no contrato.
+Nessa mesma linha de raciocínio, ressalte-se ainda que, para as hipóteses em que, nos autos, não for apresentado o contrato revisado, a Segunda Seção já sedimentou entendimento no sentido de que é inviável presumir o ajuste do encargo, de maneira que deve ser afastada sua cobrança em qualquer periodicidade.
+A propósito, a ementa do julgado:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE PRESTAÇÃO DE CONTAS - SEGUNDA FASE - REVISIONAL DE CONTRATO BANCÁRIO NÃO EXIBIDO - TRIBUNAL A QUO QUE AFIRMA SER NECESSÁRIA A EXPRESSA PACTUAÇÃO PARA A COBRANÇA DO ENCARGO CAPITALIZAÇÃO DE JUROS - IRRESIGNAÇÃO DA CASA BANCÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - ÓRGÃO COLEGIADO DA QUARTA TURMA AFETANDO O JULGAMENTO DO RECURSO DE AGRAVO REGIMENTAL À SEGUNDA SEÇÃO.
+Hipótese: Possibilidade de cobrança de capitalização anual de juros independentemente de expressa pactuação entre as partes
+1. A despeito de a demanda ter se iniciado como ação de prestação de contas, o feito já está em sua segunda fase procedimental, na qual prepondera verdadeira pretensão revisional do contrato. Não tendo qualquer das partes promovido irresignação sobre esse ponto, inviável é a extinção da demanda, sob pena de violação ao princípio da non reformatio in pejus.
+2. A capitalização de juros consiste na incorporação dos juros ao capital ao final de cada período de contagem.
+3. O retrospecto histórico do ordenamento jurídico pátrio acerca da regência legal da capitalização de juros denota que desde tempos remotos é proibido contar juros sobre juros, permitida a acumulação de juros vencidos aos saldos líquidos em conta corrente de ano a ano.
+4. Com a evolução, passou-se a admitir a cobrança de juros sobre juros em contratos outros, desde que houvesse lei especial regulatória, bem ainda, prévio ajuste do encargo.
+5. Tendo em vista que nos contratos bancários é aplicável o Código de Defesa do Consumidor (súmula 297/STJ), a incidência da capitalização anual de juros não é automática, devendo ser expressamente pactuada, visto que, ante o princípio da boa-fé contratual e a hipossuficiência do consumidor, esse não pode ser cobrado por encargo sequer previsto contratualmente.
+6. A jurisprudência consolidada nesta Corte Superior é no sentido de que a cobrança de juros capitalizados em periodicidade anual nos contratos de mútuo firmado com instituições financeiras é permitida quando houver expressa pactuação. Precedentes.
+7. Na hipótese, não colacionado aos autos o contrato firmado entre as partes, inviável presumir o ajuste do encargo.
+8. Agravo regimental desprovido. (AgRg no AREsp n. 429.029/PR, relator Ministro Marco Buzzi, Segunda Seção, julgado em 9/3/2016, DJe de 18/4/2016, destaquei.)
+No caso, o Tribunal de origem vedou a capitalização de juros no contrato de alienação fiduciária, por concluir pela abusividade dessa capitalização em periodicidade diária, concluindo que, apesar da previsão da capitalização diária de juros, a taxa de juros diária não tem previsão contratual.
+Confira-se, a propósito, o seguinte excerto do acórdão recorrido (fls. 24-25):
+Na mesma oportunidade (ORIENTAÇÃO 2), restou assentado que, para a descaracterização da mora contratual, impositivo o reconhecimento da abusividade dos encargos exigidos no período de normalidade contratual (juros remuneratórios e/ou capitalização), cingindo-se a análise do contrato, neste momento processual, tão somente aos referidos encargos.
+Acerca da capitalização de juros, destaco que o Superior Tribunal de Justiça tem admitido sua incidência em periodicidade mensal, desde que expressamente pactuada em contrato firmado após a vigência da Medida Provisória n. 1963-17/2000, mostrando-se suficiente a indicação de juros anuais em índice superior ao duodécuplo da taxa mensal, consoante jurisprudência consolidada nas Súmulas 5391 e 5412.
+Na hipótese em tela, restou prevista, conforme item "3. Promessa de Pagamento" (Documento 5 do Evento 1), a capitalização de juros em periodicidade diária, sem, contudo, a indicação da respectiva taxa diária de juros. No ponto, passo a adotar o entendimento, na esteira do que vem decidindo o Egrégio Superior Tribunal de Justiça, de que a sua ausência subtrai do consumidor a possibilidade de estimar previamente a evolução do débito, bem como de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, desatendendo ao dever de informação, à luz do disposto no artigo 46 do CDC3, tornando abusiva a sua incidência.
+ ..
+Assim, demonstrada a abusividade da capitalização de juros contratada entre os litigantes, tem-se como não configurada a mora da parte consumidora.
+Como visto, a Corte a quo decidiu em sintonia com a jurisprudência do Superior Tribunal de Justiça ao afastar a cobrança da capitalização diária dos juros por verificar que, apesar da previsão expressa de sua periodicidade no contrato, não havia referência à taxa de juros praticada para a mesma periodicidade.
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+Ademais, rever essa conclusão, notadamente para averiguar se da cláusula contratual mencionada pelo acórdão consta a taxa diária de juros praticada, demandaria a revisão de cláusulas contratuais e a incursão no acervo fático-probatório dos autos, procedimentos que encontram óbices nas Súmulas n. 5 e 7 do STJ.
+IV - Dissídio jurisprudencial
+Quanto ao apontado dissídio, ressalte-se que a incidência das Súmulas n.
+5, 7 e 83 do STJ no tocante à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
