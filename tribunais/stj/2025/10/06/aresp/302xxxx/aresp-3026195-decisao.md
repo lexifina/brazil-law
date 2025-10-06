@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO MARCELO WANDERLEY CADETE contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento, pela incidência da Súmula n. 282 do STF e pela incidência da Súmula n. 211 do STJ (fls. 786-788).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece provimento, pois não houve demonstração de violação de norma federal, além de sustentar que o recurso especial busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e requer a aplicação de multa por litigância de má-fé (fls. 808-813).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Paraíba em apelação nos autos de ação de indenização por danos morais.
+O julgado foi assim ementado (fls. 741-742):
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE ERRO MÉDICO. PLEITO DE REPARAÇÃO EXTRAPATRIMONIAL. PROCEDIMENTO CIRÚRGICO. OBRIGAÇÃO DE MEIO. RESPONSABILIDADE SUBJETIVA DO PROFISSIONAL MÉDICO E OBJETIVA DO NOSOCÔMIO. APLICAÇÃO DO ART. 14, CAPUT E § 4º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. SOLIDARIEDADE ENTRE O HOSPITAL E OS MÉDICOS A ELE VINCULADOS. INTERRUPÇÃO NÃO AUTORIZADA DE GRAVIDEZ DESCONHECIDA DURANTE PROCEDIMENTO DE HISTERECTOMIA. NEGLIGÊNCIA EM INVESTIGAÇÃO PRÉVIA DO ESTADO CLÍNICO DA PACIENTE. CONFIGURAÇÃO DO NEXO DE CAUSALIDADE ENTRE A CONDUTA NEGLIGENTE E OS DANOS OCASIONADOS. DANOS DE ORDEM MORAL QUE SE PRESUMEM. QUANTUM INDENIZATÓRIO FIXADO COM BASE NAS PECULIARIDADES DO CASO CONCRETO. DADO PARCIAL PROVIMENTO AO RECURSO.
+1. A obrigação dos profissionais da Medicina é de meio e não de resultado, não podendo, portanto, atuando diante de protocolos técnicos e se utilizando dos meios necessários para o efetivo diagnóstico, prognóstico e tratamento, garantir a cura do paciente.
+2. A responsabilidade dos hospitais e clínicas, por aplicação do art. 14, do Código de Defesa do Consumidor, é objetiva, mas se restringe aos serviços relacionados com o estabelecimento empresarial, a exemplo da estadia do paciente, instalações, equipamentos e serviços auxiliares, ao passo que a responsabilidade dos profissionais médicos que neles trabalham é subjetiva, demandando a necessidade de comprovação dos elementos da culpa na atuação do profissional (CDC, art. 14, § 4º).
+3. Em se tratando de atos técnicos praticados por profissionais vinculados a hospitais e clínicas, há a solidariedade entre o nosocômio e o médico, devendo, na hipótese, ser observada a responsabilidade de natureza subjetiva, mediante comprovação de culpa do médico no exercício das funções.
+4. O erro médico consistente na interrupção em gravidez desconhecida durante procedimento cirúrgico é suficiente para a configuração de danos extrapatrimoniais, que se presumem ante o abalo moral decorrente da situação.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 739-740):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. MATÉRIA DECIDIDA EM DECISÃO INTERLOCUTÓRIA, QUE NÃO FOI OBJETO DA INSURGÊNCIA RECURSAL. PRECLUSÃO. REJEIÇÃO. Serão objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado. Inteligência do art. 1.013, § 1º, do Código de Processo Civil.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 272, § 2º, do CPC, porque a ausência de intimação do novo patrono do recorrente comprometeu o exercício do contraditório e da ampla defesa;
+b) 485, VI, § 3º, do CPC, pois o recorrente sustenta a ilegitimidade passiva do médico que atua como agente público no SUS, sendo a Administração Pública a responsável direta;
+c) 156 do CPC, porque a decisão judicial não foi amparada em prova técnica, sendo imprescindível a realização de perícia para análise de eventual erro médico.
+Afirma que a realização de exame Beta HCG como exame pré-operatório de histerectomia é realizado apenas em casos em que há suspeita de gravidez ou quando o paciente relata a prática de relações sexuais desprotegidas, não se podendo presumir, sem evidências concretas, a obrigação de realizar o exame como parte do pré-operatório.
+Requer o provimento do recurso para que se reconheça a nulidade do acórdão recorrido, considerando a ausência de intimação e a ilegitimidade passiva do recorrente, e que o processo seja remetido ao Superior Tribunal de Justiça para análise do mérito.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece provimento, pois não houve demonstração de violação de norma federal, além de sustentar que o recurso busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e requer a aplicação de multa por litigância de má-fé (fls. 769-772).
+É o relatório. Decido.
+A controvérsia diz respeito a ação de indenização por danos morais em que a parte autora pleiteou a condenação dos réus ao pagamento de indenização em razão de erro médico ocorrido durante procedimento cirúrgico de histerectomia, que resultou na interrupção de gravidez desconhecida.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido, ao fundamento de que não foi demonstrada qualquer ilicitude na conduta dos promovidos, e condenou a parte autora ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa.
+A Corte estadual reformou a sentença para julgar parcialmente procedente o pedido, condenando os promovidos, solidariamente, ao pagamento de R$ 25.000,00 a título de danos morais, corrigidos monetariamente pelo INPC desde a data do julgamento, com juros de mora de 1% ao mês desde o evento danoso, além de custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação.
+I - Art. 272, § 2º, do CPC
+No recurso especial, o recorrente alega que a ausência de intimação do novo patrono comprometeu o exercício do contraditório e da ampla defesa, configurando nulidade processual.
+A questão infraconstitucional relativa à violação do artigo acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+II - Art. 485, VI, § 3º, do CPC
+O recorrente sustenta que o médico, na condição de agente público do SUS, é parte ilegítima para figurar no polo passivo, sendo a Administração Pública a responsável direta.
+A questão infraconstitucional relativa à violação do artigo acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+III - Art. 156 do CPC
+O recorrente afirma que a decisão judicial não foi amparada em prova técnica, sendo imprescindível a realização de perícia para análise de eventual erro médico.
+A questão infraconstitucional relativa à violação do artigo acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de g ratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
