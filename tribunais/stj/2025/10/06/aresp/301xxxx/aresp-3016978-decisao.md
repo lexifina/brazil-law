@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSA MITSUKO YOSHIHARA contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ e na ausência de violação dos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em apelação cível nos autos de ação de exibição de documentos c/c indenização por diferença de rendimentos de caderneta de poupança.
+O julgado foi assim ementado (fls. 746-747):
+EMENTA: DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS C/C INDENIZAÇÃO POR DIFERENÇA DE RENDIMENTOS DE CADERNETA DE POUPANÇA. PLANOS BRESSER E VERÃO. LAUDO PERICIAL CONCLUSIVO PELA AUSÊNCIA DE SALDO POSITIVO. IMPROCEDÊNCIA DOS PEDIDOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Trata-se de apelação cível interposta contra sentença que julgou improcedentes os pedidos de cobrança de correção monetária e juros contratuais relativos à conta poupança da parte autora, supostamente impactada pelos expurgos inflacionários dos Planos Bresser e Verão, diante da inexistência de saldo positivo comprovado.
+II. QUESTÕES EM DISCUSSÃO
+2. As questões em discussão são: (i) saber se a sentença recorrida é nula por ausência de fundamentação; (ii) verificar a ocorrência de cerceamento de defesa pela suposta falta de exibição de documentos pelo banco; e (iii) avaliar a validade da sentença que se baseou exclusivamente no laudo pericial, sem análise crítica das demais provas.
+III. RAZÕES DE DECIDIR
+3.1. A sentença está devidamente fundamentada, atendendo aos requisitos do art. 93, IX, da CF/1988 e art. 489 do CPC, apresentando motivação suficiente para justificar a conclusão adotada.
+3.2. Não houve cerceamento de defesa, pois o banco réu apresentou os extratos requeridos, e a perícia contábil, não impugnada pela autora, confirmou a
+inexistência de saldo positivo na conta poupança nos períodos alegados.
+3.3. O ônus da prova, nos termos do art. 373 do CPC, não foi cumprido pela parte autora, que não demonstrou a existência de saldo positivo para os expurgos inflacionários.
+IV. DISPOSITIVO E TESES
+4. Recurso conhecido e desprovido.
+Teses de julgamento: "1. A sentença judicial atende aos critérios de fundamentação exigidos pela Constituição e pelo CPC quando apresenta os motivos que justificam sua conclusão. 2. Não há cerceamento de defesa quando os documentos apresentados pelo réu são suficientes e a perícia judicial confirma a inexistência de direitos pleiteados pela parte autora. 3. O ônus de provar saldo positivo em conta poupança para pleitear expurgos inflacionários é da parte autora."
+Dispositivos relevantes citados: CF/1988, art. 93, IX; CPC, arts. 373, 396, 400, I, 489, § 1º, IV; Jurisprudências relevantes citadas: STF, Al 791.292 (tema de repercussão geral nº 339/STF): TJGO, Agravo de Instrumento nº 5840681 62.2023.8.09.0000; TJGO, Apelações Cíveis nº 0205339-79.2007.8.09.0067; 0518287-57.2009.8.09.0051; 0159693-52.2007.8.09.0065.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 11, 479, 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, pois o magistrado não indicou os motivos que o levaram a considerar as conclusões do laudo pericial; e
+b) 355, I, e 369, do CPC, visto que houve cerceamento de defesa, uma vez que a controvérsia foi julgada sem que todos os documentos essenciais ao deslinde da causa fossem devidamente juntados aos autos, em prejuízo à parte recorrente.
+Requer o provimento do recurso para que se reconheça a nulidade do acórdão recorrido por ausência de fundamentação ou cerceamento de defesa, determinando o retorno dos autos ao Tribunal de origem para novo julgamento.
+Contrarrazões foram apresentadas às fls. 791-794.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de exibição de documentos c/c indenização por diferença de rendimentos de caderneta de poupança em que a parte autora pleiteou a correção monetária e os juros contratuais relativos à conta poupança, supostamente impactada pelos expurgos inflacionários dos Planos Bresser e Verão. O valor da causa foi fixado em R$ 100,00.
+I - Arts. 11, 479, 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC
+Afasta-se a alegada ofensa ao arts. 11, 479, 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+A recorrente sustenta que o magistrado não fundamentou sua decisão com base em dispositivos legais ou precedentes jurisprudenciais, limitando-se a utilizar o laudo pericial como único elemento justificativo para o seu convencimento.
+O acórdão afirma que o Banco Bradesco S.A. apresentou os extratos bancários, conforme determinado judicial mente, sem que a parte autora impugnasse ou comprovasse a existência de saldo positivo na conta durante os planos Bresser e Verão. Além disso, a recorrente não se manifestou sobre a alegada insuficiência dos documentos, ponto que não foi questionado pelo perito. Confira-se (fls. 738-740, destaquei):
+Noutras palavras, trata-se de princípio que é consectário lógico da garantia do devido processo legal (art. 5º, LV, da Constituição Federal) e impõe ao magistrado o dever de apresentar os motivos do seu convencimento ao apreciar a pretensão das partes.
+Nesse contexto, o art. 489, § 1º, IV, do Código de Processo Civil, dispõe que não se considera fundamentada qualquer decisão judicial que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.".
+Quanto ao ponto, o Supremo Tribunal Federal (STF), em precedente qualificado (AI 791.292 - tema de repercussão geral nº 339/STF), fixou a seguinte tese: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou prova".
+Assim, embora o magistrado não seja obrigado a pronunciar-se sobre todos os argumentos levantados pelas partes, não se dispensa a análise dos elementos que, ao menos em tese, fundamentam a sua conclusão.
+Dito isso, constata-se que as razões expostas no decisum combatido são suficientes para demonstrar a conclusão adotada, ainda que esta tenha sido contrária aos interesses defendidos pela parte apelante, não havendo que se falar em deficiência ou ausência de fundamentação.
+ ..
+Importa ressaltar que, mesmo intimada para se manifestar sobre a perícia contábil, a recorrente permaneceu inerte, virando as costas ao chamado do Poder Judiciário, motivo pelo qual o laudo foi corretamente homologado pelo magistrado.
+ ..
+In casu, conforme já pontuado acima, o Banco Bradesco S.A. acostou aos autos os extratos bancários nos períodos solicitados em cumprimento a ordem judicial, não tendo a parte demandante feito qualquer oposição e nem colacionado nenhuma prova capaz de demonstrar que durante os planos Bresser e Verão, a conta poupança da autora estava ativa, já que os saldos eram negativos, o que foi confirmado pelo perito.
+Ademais, no momento oportuno, a recorrente deixou de se manifestar sobre a suposta insuficiência de documentos apresentados pelo banco, que sequer foi levantada pelo expert.
+Assim, não há que se falar em ausência de fundamentação no acórdão recorrido, bem como "não se reconhecem a omissão e a negativa de prestação jurisdicional quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (AgInt no AREsp n. 2.037.830/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+II - Arts. 355, I, e 369, do CPC
+A agravante afirma que houve cerceamento de defesa, uma vez que a controvérsia foi julgada sem que todos os documentos essenciais ao deslinde da causa fossem devidamente juntados aos autos, em prejuízo à parte recorrente.
+A Corte estadual determinou a intimação das partes para que se manifestassem acerca da necessidade de produção de outras provas. Nessa oportunidade, a recorrente reiterou o pedido de juntada aos autos de todos os extratos mencionados na petição inicial, além da realização de perícia contábil, o que foi deferido. Afirmou que, mesmo após a parte recorrida ter juntado aos autos os extratos bancários, a recorrente permaneceu inerte, deixando de se manifestar sobre os documentos apresentados. Observe-se (fls. 739-742):
+Em 19/09/2016, foi proferido despacho pelo magistrado primevo determinando à instituição bancária que juntasse ao feito os extratos da conta poupança da requerente, referentes ao período do Plano Verão (evento 03, fl. 132 do pdf), o que restou devidamente cumprido conforme documentos coligidos às folhas 156/160 do pdf.
+Com o desiderato precípuo de fomentar a justa e equânime entrega da prestação jurisdicional, bem como se evitar eventual alegação de cerceamento de defesa, o juízo a quo determinou a intimação das partes, para se manifestarem sobre a necessidade de produção de outras provas, oportunidade em que a recorrente reiterou a necessidade de ser coligido ao processo todos os extratos indicados na inicial e a realização de perícia contábil (evento 03, fls. 202 e 209 do pdf), cujo pedido foi deferido no evento 31.
+ ..
+In casu, conforme já pontuado acima, o Banco Bradesco S.A. acostou aos autos os extratos bancários nos períodos solicitados em cumprimento a ordem judicial, não tendo a parte demandante feito qualquer oposição e nem colacionado nenhuma prova capaz de demonstrar que durante os planos Bresser e Verão, a conta poupança da autora estava ativa, já que os saldos eram negativos, o que foi confirmado pelo perito.
+Ademais, no momento oportuno, a recorrente deixou de se manifestar sobre a suposta insuficiência de documentos apresentados pelo banco, que sequer foi levantada pelo expert.
+Dessa forma, para alterar o entendimento do aresto impugnado sobre a suficiência dos documentos juntados aos autos para esclarecimento das questões fáticas, seria imprescindível a incursão no acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ. A propósito: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+III - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
