@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MARIA LUZINEIDE SANTOS PONTES contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+Requer a parte agravante o afastamento do óbice aplicado (Súmula 182/STJ), uma vez que sustenta ter impugnado todos os fundamentos da decisão recorrida.
+A Subprocuradoria-Geral da República opinou pela a intimação do Ministério Público do Estado da Paraíba (agravado) para, querendo, apresentar contrarrazões ao Agravo Regimental (fl. 800).
+É o relatório.
+Inicialmente, destaco que já foi oportunizado ao agravado se manifestar, na origem, quanto ao conteúdo da pretensão deduzida no agravo em recurso especial. Ademais, é assente o entendimento nesta Corte no sentido de inexistência de previsão regimental acerca de intimação da parte contrária para manifestar-se quanto ao conteúdo do agravo regimental (AgRg no HC n. 584.211/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 9/10/2020).
+Assim, a despeito da intimação pessoal do Ministério Público Federal para se manifestar como fiscal da lei, este optou por requerer a intimação do Parquet estadual, ocorrendo a preclusão consumativa com a sua manifestação de fl. 800, ante a necessidade de salvaguardar a celeridade processual, além da falta de utilidade no pronunciamento do órgão acusador no presente caso, em que a decisão será mantida.
+No mais, o recurso não comporta conhecimento.
+De acordo com o entendimento do Superior Tribunal de Justiça, o início da vigência do Código de Processo Civil não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+Ademais, conforme a jurisprudência desta Corte Superior de Justiça,  a  contagem dos prazos recursais nos feitos criminais encontra-se regulamentada no artigo 798 do Código de Processo Penal, segundo o qual "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", o que impede a aplicação das regras processuais civis, sendo, dessa maneira, inaplicável o cálculo em dias úteis previsto no artigo 219 do Novo Código de Processo Civil, bem como o recesso do CPC/2015  ..  (AgRg no AREsp n. 1.894.125/SP, Ministra Laurita Vaz, Sexta Turma, DJe 23/2/2023).
+Na espécie, a decisão agravada foi disponibilizada no Diário da Justiça Eletrônico Nacional CNJ (DJEN) em 17/9/2025 e considerada publicada em 18/9/2025 (quinta-feira), nos termos da certidão de fl. 781.
+Nesse diapasão, o prazo de 5 dias para a interposição do regimental teve início em 19/9/2025 (sexta-feira) e término no dia 23/9/2025 (terça-feira), mas este agravo regimental foi apresentado nesta Corte Superior apenas em 25/9/2025 (quinta-feira), ocasião na qual já se encontrava esgotado o respectivo interstício recursal, fato esse, inclusive, objeto de certidão expedida pela pela Coordenadoria de Processamento de Feitos de Direito Penal (fl. 790).
+Dessa forma, é manifesta a intempestividade do recurso, porquanto interposto além do prazo de 5 dias corridos, previsto nos arts. 39 da Lei n. 8.038/1990; 258, caput, do RISTJ; e 798, caput e § 3º, do Código de Processo Penal.
+Ante o exposto, não conheço do agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE.
+Agravo regimental não conhecido.
