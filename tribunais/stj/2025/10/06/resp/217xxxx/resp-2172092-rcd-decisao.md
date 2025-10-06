@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+Trata-se de pedido de reconsideração interposto por HENRIQUE DA SILVA SOUZA contra decisão que rejeitou os Embargos de Declaração opostos em face de decisão que deu provimento ao seu recurso especial.
+Pondera, o recorrente, que a majoração de honorários referida nos embargos dizia acerca dos honorários fixados na origem e não sobre honorários recursais.
+Feito breve relato, decido.
+Com razão, o recorrente.
+Em relação à fixação dos honorários advocatícios, o tribunal de origem assim consignou:
+À vista dessas considerações, julgo procedente, em parte, o pedido veiculado na inicial, pelo que extingo o processo com resolução do mérito, com fulcro no art. 269, I, CPC, condenando o INSS a implantar o benefício de prestação continuada da Assistência Social à parte autora, a partir da ciência dessa decisão, deferindo nesse momento, o pedido de tutela antecipada para implantação imediata, considerando o cumprimento dos requisitos, conforme fundamentado.
+Considerando que o grau de zelo do patrono se mostra dentro da normalidade, que a causa não apresenta grande complexidade e que não haverá valor de condenação, fixo os honorários advocatícios no montante de R$ 1.000,00 (mil reais), com fulcro no art. 85, § 8º, CPC.
+No caso, verifico que o acórdão recorrido está em confronto com orientação desta Corte segundo a qual, nas causas envolvendo a Fazenda Pública, a fixação dos honorários advocatícios deve observar os percentuais previstos no art. 85, § 3º, do CPC, com o escalonamento progressivo indicado no § 5º do mesmo dispositi vo.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO VERIFICADA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FAZENDA PÚBLICA. POLO PASSIVO. ESCALONAMENTO. ART. 85, §§ 3º E 5º, DO CPC. OBSERVÂNCIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Nas causas envolvendo a Fazenda Pública, a fixação dos honorários advocatícios deve observar os percentuais previstos no art. 85, § 3º, do CPC, com o escalonamento progressivo indicado no § 5º do mesmo dispositivo. Precedentes.
+3. Quanto aos demais aspectos, no entanto, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+4. Embargos de declaração de Combrasen acolhidos em parte, com efeitos modificativos, a fim de determinar, quanto aos honorários advocatícios sucumbenciais, que sejam observados os percentuais mínimos do § 3º, bem assim o escalonamento previsto no § 5º, ambos do CPC. Julgo prejudicado o exame dos embargos de declaração do Distrito Federal (fl. 7.184).
+(EDcl no AgInt no REsp n. 1.902.437/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/8/2025, DJEN de 28/8/2025).
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA. DESCUMPRIMENTO DE PLANO DE DESENVOLVIMENTO APROVADO PELA ANP. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AFASTAMENTO OU REENQUADRAMENTO DA TIPIFICAÇÃO DA CONDUTA. REFORMA DO JULGADO QUE DEMANDARIA A ANÁLISE DE CLÁUSULAS CONTRATUAIS E O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. HONORÁRIOS DE SUCUMBÊNCIA. PRESENÇA DA FAZENDA PÚBLICA NA LIDE. ART. 85, §§ 3º E 5º, DO CPC. POSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+1. Não há falar em violação aos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. O Tribunal Regional Federal da 2ª Região concluiu pela tipicidade das condutas e pela comprovação da prática da infração administrativa. Infirmar o entendimento alcançado pela origem demandaria, necessariamente, a análise de cláusulas contratuais e o reexame fático-probatório dos autos, o que é vedado em recurso especial, nos termos dos enunciados n. 5 e 7 da Súmula do STJ.
+3. Quanto aos honorários advocatícios, a Corte Regional deixou de observar a presença da Fazenda Pública na lide, não aplicando o adequado escalonamento da condenação dos honorários de sucumbência, conforme o disposto no art. 85, §§ 3º e 5º, do CPC/2015.
+4. Agravo interno provido em parte. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido, a fim de determinar o retorno dos autos à origem para que reanalise os honorários de sucumbência devidos na espécie, em conformidade com os parâmetros fixados nos §§ 3º e 5º do art. 85 do CPC.
+(AgInt no REsp n. 2.150.245/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 30/4/2025, DJEN de 7/5/2025).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, CONHEÇO e DOU PROVIMENTO ao Recurso Especial, para, reformando o acórdão recorrido, fixar a condenação em honorários advocatícios nos percentuais mínimos previstos nos incisos do § 3º do art. 85 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
