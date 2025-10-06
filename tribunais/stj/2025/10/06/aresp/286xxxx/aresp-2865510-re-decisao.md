@@ -1,0 +1,44 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo o não conhecimento parcial do recurso .
+O julgado recorrido recebeu a seguinte ementa (fl. 375):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE CONTRATO VERBAL DE PARCERIA RURAL. FUNDAMENTAÇÃO SUFICIENTE DO ACÓRDÃO. NECESSIDADE DE REEXAME DE FATOS. ÓBICES DAS SÚMULAS 568, 7 E 182 DO STJ. AUSÊNCIA DE FUNDAMENTO NOVO.
+1. Ação de cobrança de contrato verbal de parceria rural.
+2. É válida a decisão que reconhece a suficiência da fundamentação do acórdão recorrido, quando este aprecia de forma clara e coerente as teses relevantes ao deslinde da controvérsia. Incidência da Súmula 568/STJ.
+3. A modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. O agravante deixou de impugnar de forma específica os fundamentos da decisão agravada, atraindo o óbice da Súmula 182/STJ.
+5. Agravo interno que se limita à reiteração dos argumentos do recurso especial, sem trazer fundamentos novos capazes de afastar os óbices aplicados.
+6. Agravo interno não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional por ausência de fundamentação específica acerca da alegada inovação recursal, arguindo que (fl. 389):
+ ..  o Tribunal de Justiça Mineiro, limitou-se a afirmar, de maneira abstrata, que a Apelação interposta pelo Recorrente continha inovação recursal, contudo, não explicitou em que consistiria a alegada inovação, tampouco analisou o argumento de que o recurso apenas promoveu readequação quantitativa do valor, mantendo-se o mesmo pedido indenizatório e a mesma causa de pedir desde a petição inicial.
+Essa omissão é ainda mais grave porque a inexistência de inovação recursal foi a tese central do Recorrente, suscitada de forma clara tanto na Apelação quanto no Recurso Especial e no Agravo Interno.
+No caso concreto, além de o Tribunal Mineiro ter limitado a declarar que teria havido inovação recursal, sem esclarecer quais pontos do recurso teriam alterado o pedido ou a causa de pedir, o Superior Tribunal de Justiça, por sua vez, chancelou esse entendimento genérico, invocando apenas a Súmula 7/STJ e a Súmula 568/STJ.
+Sustenta, ainda, ser indevida a aplicação das Súmulas 7, 182 e 568 do STJ.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fl. 378):
+Observa-se, no agravo interno, que o agravante reitera os argumentos já apresentados no recurso especial, afirmando que não houve inovação recursal na apelação, mas apenas readequação do valor do pedido, sendo suficiente a mera comparação entre as peças processuais para constatar essa circunstância. Sustenta, ainda, que o acórdão recorrido foi omisso ao deixar de enfrentar essa tese específica, o que configuraria violação ao art. 489, §1º, IV, do CPC.
+Não obstante, razão não assiste ao agravante. As razões do agravo interno não trazem fundamentos novos aptos a infirmar a decisão agravada, limitando-se a reiterar argumentos anteriormente deduzidos e devidamente enfrentados. Conforme já decidido, o acórdão recorrido apresentou fundamentação suficiente quanto à inadmissibilidade da apelação, razão pela qual não há falar em negativa de prestação jurisdicional, nos termos do entendimento consolidado nesta Corte, atraindo a incidência da Súmula 568/STJ.
+Ademais, a análise da suposta inexistência de inovação recursal demandaria o reexame das peças processuais e das circunstâncias fáticas dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Verifica-se, ainda, que o agravante deixou de impugnar de forma específica os fundamentos da decisão agravada, especialmente no tocante à aplicação da Súmula 7/STJ, limitando-se à repetição dos fundamentos do recurso especial, o que enseja a aplicação da Súmula 182/STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
