@@ -1,0 +1,60 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que, ao negar provimento ao agravo regimental, manteve a decisão de não conhecimento do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 805):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. SÚMULA 7/STJ. INSURGÊNCIA GENÉRICA. 1. As partes agravantes, no agravo em recurso especial, deixaram de impugnar, de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula 182/STJ.
+2. Agravo regimental improvido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV, LV e LVI, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o acórdão recorrido careceria de fundamentação idônea, pois não teria analisado, de modo satisfatório, as teses defensivas suscitadas no agravo regimental, violando os princípios da inafastabilidade de jurisdição, da ampla defesa e do dever de fundamentação das decisões judiciais.
+Defende que o STF possui competência exclusiva para a análise da existência de repercussão geral, e que eventual negativa de seguimento do presente recurso caracterizaria usurpação de competência e violação de garantias constitucionais.
+Salienta que teria impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual seria inaplicável o óbice sumular utilizado para não conhecer do agravo em recurso especial.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No que se refere à alegação de usurpação de competência do Supremo Tribunal Federal, nos termos do art. 1.030, I, a, do Código de Processo Civil, o Tribunal de origem, em juízo de admissibilidade recursal, exerce competência própria ao negar seguimento aos recursos extraordinários pela sistemática da repercussão geral (arts. 1.030 e seguintes do CPC).
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. SISTEMÁTICA DA REPERCUSSÃO GERAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE TERATOLOGIA. SÚMULA VINCULANTE Nº 10. INTERPRETAÇÃO DE NORMAS. DESRESPEITO NÃO CONFIGURADO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra pronunciamento que negou sequência à reclamação por não ter verificado equívoco na observância, pela Corte de origem, da sistemática da repercussão geral.
+2. A parte agravante insiste configurado equívoco na aplicação, na origem, dos Temas nº 181, 339, 417 e 655/RG, concluindo evidenciada usurpação da competência do Supremo para apreciar o extraordinário. Sustenta afastada a aplicação dos arts. 944 e 950 do CC sem observância da cláusula de reserva de plenário, em ofensa à Súmula vinculante nº 10.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber: (i) se, ao aplicar a sistemática da repercussão geral para obstar o prosseguimento do recurso extraordinário, o órgão reclamado incidiu em erro a configurar usurpação de competência do Supremo; e (ii) se houve o afastamento da incidência de preceito legal por órgão fracionário de tribunal, em violação à Súmula vinculante nº 10.
+III. RAZÕES DE DECIDIR
+4. O STF consolidou o entendimento de que a aplicação da sistemática da repercussão geral é da competência do órgão judiciário de origem, nos termos do art. 1.030 do CPC, sem necessidade de remessa do recurso extraordinário ao STF (Rcl 42.193 AgR, Rel. Min. Alexandre de Moraes, DJe 9.9.2020).
+5. Não se admite, em reclamação, o reexame do enquadramento de teses de repercussão geral realizado pelo tribunal de origem, salvo em situações de manifesta teratologia, o que não se verifica no caso.
+6. Dissentir das razões adotadas pelas instâncias ordinárias demandaria reexaminar o conjunto fático-probatório, providência inviável em sede reclamatória.
+7. Dirimida a controvérsia a partir de interpretação de normas, inexiste violação à Súmula vinculante nº 10.
+IV. DISPOSITIVO
+8. Agravo interno desprovido.
+(Rcl n. 67231 AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 17/2/2025, DJe de 26/2/2025.)
+3. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 807-808):
+Inicialmente, destaco que já foi oportunizado ao agravado se manifestar, na origem, quanto ao conteúdo da pretensão deduzida no agravo em recurso especial. Ademais, é assente o entendimento nesta Corte no sentido de inexistência de previsão regimental acerca de intimação da parte contrária para manifestar-se quanto ao conteúdo do agravo regimental (AgRg no HC n. 584.211/SP, Ministro Joel Ilanc Paciornik, Quinta Turma, DJe 9/10/2020).
+Assim, a despeito da intimação pessoal do Ministério Público Federal para se manifestar como fiscal da lei, este optou por requerer a intimação do Parquet estadual, ocorrendo a preclusão consumativa com a sua manifestação de fl. 792, ante a necessidade de salvaguardar a celeridade processual, além da falta de utilidade no pronunciamento do órgão acusador no presente caso, em que decisão favorável será mantida.
+No mais, a despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que os agravantes não lograram desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada a incidência da Súmula 7 do Superior Tribunal de Justiça, fundamento este utilizado pelo Tribunal de Justiça do Estado de São Paulo para não admitir o apelo nobre.
+Portanto, inarredável a incidência da Súmula 182/STJ, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AR Esp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no AREsp n. 2.123.045/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/8/2022).
+A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023).
+No mesmo sentido: AgRg no AREsp n. 2.295.325/SP, Ministra Laurita Vaz, Sexta Turma, DJe 9/5/2023.
+Na espécie, na argumentação constante do agravo em recurso especial, a partes agravantes asseveraram, apenas de maneira genérica, que a análise do apelo nobre não demanda revolvimento do acervo fático-probatório.
+Contudo, não se desincumbiram do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC, c/c o art. 3º do CPP).
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+4. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+5. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
