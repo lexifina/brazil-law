@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial manejado por Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 96):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. DÍVIDA NÃO TRIBUTÁRIA. DECRETO Nº 20.910/1932. PRESCRIÇÃO. CONFIGURADA.
+1. "Lavrado Auto de Infração, a notificação do devedor do lançamento realizado é aquela que reúne todos os requisitos do art. 11 do Decreto n. 70.235/72, com sua intimação para pagar a multa ou impugná-la. 4 No caso dos autos, sem notícia de pagamento ou impugnação do valor cobrado no Auto de Infração, é de se concluir que o crédito foi definitivamente constituído no seu vencimento em 02/07/1998 e, considerando a data do ajuizamento da execução ocorrida em 07/12/2006, inafastável é a ocorrência da prescrição qüinqüenal" (AC 1030323-10.2022.4.01.9999, DESEMBARGADOR FEDERAL GILDA MARIA CARNEIRO SIGMARINGA SEIXAS, TRF1 - SÉTIMA TURMA, PJe 02/02/2023 PAG.)
+2. Assim, visto o vencimento da dívida ter se dado em 10/07/2001 e a ação proposta em 30/04/2009, isto é, mais de 05 (cinco) anos do vencimento do débito, transcorreu o lustro prescricional no caso em epígrafe.
+3. Apelação a que se nega provimento.
+A parte recorrente aponta violação aos seguintes dispositivos:
+I - arts. 1.022, II e parágrafo único, II, e 489, § 1º, IV, do CPC/2015, ao argumento de que houve negativa de prestação jurisdicional, pois o Tribunal local, ao rejeitar os embargos de declaração, deixou de enfrentar as seguintes questões "(a) que a apelação da autarquia foi contra sentença que extinguiu a execução fiscal sob o argumento de prescrição do processo judicial executivo; e (b) que o acórdão não analisou os argumentos do IBAMA, assim como afastou o argumento da sentença e reconheceu de ofício a prescrição quinquenal do crédito do IBAMA." (fl. 126);
+II - arts. 1º e 1º-A da Lei n. 9.873/1999, porque o prazo prescricional para execução de multa ambiental deve ser contado a partir da constituição definitiva do crédito, que se dá com o término do processo administrativo e a ciência inequívoca do julgamento definitivo, o que, no caso, teria ocorrido em 16.06.2007, tornando tempestivo o ajuizamento da execução fiscal;
+III - art. 2º-A da Lei n. 9.873/1999, afirmando que o prazo prescricional se interrompe com o despacho do juiz que ordena a citação na execução fiscal, o que, no caso, impediria o reconhecimento da prescrição na forma como decidida pelo acórdão recorrido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que (fls. 104/105):
+Além disso, apontou que nos termos do artigo 1º- A da Lei 9873/99, findo o processo administrativo com a constituição definitiva, a Fazenda tem cinco anos para a execução judicial do título (prazo de exercício da pretensão executória), bem como, que a inscrição do débito em dívida ativa tem o condão de suspender a prescrição por 180 dias, nos termos do § 3º do art. 2º da Lei 6.830/1980.
+O acórdão contudo restou omisso quando a matéria, pois não se manifestou sobre os dispositivos legais invocados no recurso, nem sobre o documento de fls. 58 (notificação final do processo administrativo).
+Sobre o ponto importante esclarecer que a constituição do crédito não se dá no vencimento original da dívida quando ausente impugnação do devedor do auto de infração como ocorre nas dívidas tributárias.
+No presente caso estamos diante de um débito não tributário com disciplina de constituição de crédito própria Instrução Normativa IBAMA nº 08/2003 (vigente a época).Segundo previsto nos artigos 9º a 26 da dita Instrução Normativa IBAMA nº 08/2003, o procedimento administrativo de infrações administrativas por condutas e atividades lesivas ao meio ambiente, a imposição das sanções, a defesa ou impugnação, o sistema recursal e a cobrança de créditos de natureza tributária e não tributária para com o IBAMA teria o seguinte rito processual:
+ ..
+Assim, pela Instrução acima, apresentada ou não defesa haverá julgamento do auto de infração, ou seja, há necessidade de homologação (art. 12 da Instrução vigente à época) não estando o crédito constituído pela simples fato de não se apresentar defesa:
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Ficam prejudicadas todas as demais questões deduzidas no raro apelo.
+Publique-se.
+EMENTA
