@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ESPÓLIO DE ÂNGELO HENRIQUE FERRAÇO ANDREÃO, DÓLAR AGÊNCIA DE TURISMO LTDA e MAIRA RODRIGUES DIAS ANDREÃO contra decisão singular de minha lavra em que neguei provimento ao agravo em recurso especial.
+Nas razões do recurso, os embargantes alegam, em síntese, que a decisão embargada incorreu em omissão quanto à natureza de ordem pública da matéria, argumentando que a impenhorabilidade da pequena propriedade rural pode ser reconhecida de ofício em qualquer grau de jurisdição, independentemente de manifestação do juízo de origem.
+Apontam contradição, eis que a decisão teria, de um lado, reconhecido que a matéria não foi analisada pelo juízo de origem e, de outro, negou provimento ao agravo em recurso especial com fundamento na ausência de prequestionamento e na incidência da Súmula 7/STJ.
+Impugnação aos embargos de declaração às fls. 865-869.
+Assim, delimitada a controvérsia, passo a decidir.
+Ao contrário do alegado nos embargos de declaração, a decisão embargada foi expressa ao reconhecer que a impenhorabilidade é matéria de ordem pública e, inclusive, ressalvou que poderia ser suscitada em primeira instância, dado que não foi apreciada e, portanto, não se encontra preclusa:
+Registro, por fim, que o resultado deste recurso não impede a análise da suposta impenhorabilidade absoluta pelo Juízo da execução, visto que essa matéria não preclui enquanto não houver a arrematação do imóvel ou antes de haver manifestação jurisdicional a respeito. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO EVIDENCIADA. ALEGAÇÃO DE BEM DE FAMÍLIA NÃO ANALISADA. JUNTADA DE DOCUMENTOS. IMPOSSIBILIDADE. PRECLUSÃO DA MATÉRIA. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. A impenhorabilidade do bem de família pode ser alegada a qualquer tempo nas instâncias ordinárias, enquanto não consumada a arrematação do imóvel. Precedentes.
+3. No caso, o Tribunal de Justiça, ao concluir pela preclusão da tese referente à proteção do bem de família, sem que houvesse análise anterior da matéria, julgou em sentido oposto ao da jurisprudência do STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial. (AgInt no AR Esp n. 2.047.817/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em , DJEN de .)2/12/2024 9/12/2024)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. IMÓVEL. IMPUGNAÇÃO. BEM DE FAMÍLIA. MATÉRIA DE ORDEM PÚBLICA. MANIFESTAÇÃO JURISDICIONAL ANTERIOR. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. REEXAME FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. 1. As questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional. 2. Na hipótese, rever a conclusão do aresto impugnado acerca da ocorrência de preclusão consumativa a respeito da impenhorabilidade do bem de família demandaria o reexame fático-probatório dos autos, encontrando óbice na Súmula nº 7/STJ. 3. Agravo interno não provido. (AgInt no AgInt no AR Esp n. 2.490.454/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em , DJe de .)19/8/2024 22/8/2024)
+Assim, não há que se falar em omissão na decisão embargada.
+Por fim, não há que se falar em contradição, tendo em vista que a decisão nem mesmo aplicou o óbice da Súmula 7, como indicado nos embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
