@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ CARLOS BARBOSA CARDOSO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça Militar do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 1303):
+"PENAL MILITAR. PROCESSUAL PENAL MILITAR. POLICIAL MILITAR. APELAÇA O CRIMINAL. LESÃO CORPORAL GRAVE. VIOLE NCIA ARBITRA RIA. OMISSA O DE SOCORRO. FRAUDE PROCESSUAL. PRELIMINAR DE NULIDADE POR VIOLAÇA O DO SISTEMA ACUSATO RIO. CONDENAÇA O CONTRA RIA A PROVA DOS AUTOS. INSUFICIÊNCIA PROBATÓRIA. PEDIDO SUBSIDIA RIO DE REDUÇA O DA PENA.
+1. Laudo pericial requerido na denúncia.
+2. Conversa o de julgamento em diligência para saneamento do processo.
+3. Preliminar rejeitada.
+4. Prova material em consonância à prova testemunhal.
+5. Condutas individualizadas demonstrando autoria e materialidade de cada delito imputado.
+6. Denúncia procedente.
+7. Sentença condenatória.
+8. Circunstâncias judiciais agravantes, perfeitamente fundamentadas, autorizando a exasperação da pena. 9. Apelos defensivos não providos." (fls. 1303).
+Nas razões do recurso especial (e-STJ, fls. 1302-1317), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 93, IX, da Constituição Federal; 20, 135 e 347 do Código Penal; 38 e 72, II, do Código Penal Militar; e 42, II, do Código Penal Militar, ao argumento de que: (i) há atipicidade da conduta imputada como omissão de socorro (art. 135 do CP) por ausência de dolo, não sendo possível inferir que o recorrente soubesse da necessidade de assistência da vítima (fls. 1306-1310); (ii) há excludente de ilicitude (legítima defesa) quanto ao crime de violência arbitrária (art. 322 do CPM), em razão do contexto hostil e da reação do civil, com uso moderado da força (fls. 1311-1314); (iii) há atipicidade da conduta no crime de fraude processual (art. 347 do CP) por ausência de dolo, uma vez que a recolha de cápsulas ocorreu em progressão de terreno e por ordem superior, sem intenção de alterar o estado das coisas ou induzir o juízo em erro (fls. 1314-1315); (iv) incide excludente de culpabilidade por obediência hierárquica (art. 38 do CPM), pois o recorrente agiu sob ordens de oficial em matéria de serviço, não lhe sendo exigível juízo de legalidade da ordem no momento (fl. 1315); e (v) houve inobservância da atenuante do comportamento meritório (art. 72, II, do CPM), diante de elogios funcionais, bom comportamento e ausência de antecedentes (fl. 1316). Sustenta, ainda, o cumprimento dos requisitos de prequestionamento e de impugnação específica (fls. 1305-1306).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo (e-STJ fls. 1424-1428).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 1536/1544).
+É o relatório. Decido.
+A decisão agravada inadmitiu o recurso especial pela incidência da Súmula 7 do STJ (e-STJ, fls. 1352/1369)
+Não obstante, nas razões do agravo (e-STJ, fls. 1424/1428), a parte agravante não apresentou impugnação específica ao referido fundamento, limitando-se a tecer considerações genéricas sobre a não incidência do referido enunciado.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial.
+De fato, "a mera alusão no agravo em recurso especial acerca da impertinência dos pressupostos de aplicação de verbete sumular constante na decisão agravada não satisfaz o requisito da dialeticidade, pois nesse caso há mera reprodução da conclusão defendida, com o uso de argumentação evidentemente circular, redundando em tautologia" (AgInt no AREsp n. 2.185.448/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+Assim, "Em obediência ao princípio da dialeticidade, devem ser explicitados os motivos pelos quais a pretensão deduzida no recurso especial não demanda reex ame de provas e corrobora a orientação jurisprudencial desta Corte, não bastando para tanto a insurgência genérica à incidência das Súmula 7 e 83 do STJ" (AgRg no AREsp n. 2.022.553/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 28/6/2022, DJe de 1/7/2022.).
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Ante o exposto, não conheço do agravo.
+Intimem-se.
+EMENTA
