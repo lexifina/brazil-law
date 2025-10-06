@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por WANDERLEY IDERLAN PERIM contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 243):
+APELAÇÃO CÍVEL. TUTELA DE URGÊNCIA. LITIGÂNCIA DE MÁ-FÉ. REQUISITOS. DEMONSTRADOS. VIOLAÇÃO AO JUIZ NATURAL. DISTRIBUIÇÃO. DEVERES DOS SUJEITOS PROCESSUAIS. MULTA MANTIDA. 1. Ao distribuir a tutela de urgência sem dependência à ação de principal e, depois, ação idêntica ao Plantão Judicial sem informar a existência de outra em trâmite, o autor pretendeu apresentar a questão a um outro julgador, diverso daquele que vinha acompanhando a celeuma, em violação ao princípio do juiz natural, para alcançar objetivo ilegal mediante proceder absolutamente temerário. 2. A verificação da má-fé exige o preenchimento de três requisitos: que à parte tenha sido oferecida oportunidade de defesa (art. 5º, inciso LV, da CF); que da sua conduta resulte prejuízo processual à parte adversa; e que ela se subsuma a uma das hipóteses taxativamente elencadas no art. 80 do CPC. 3. A conduta se enquadra no disposto no artigo 80, incisos III e V, do Código de Processo Civil; em diversas ocasiões foram efetuados alertas sobre o comportamento processual adotado e sobre a possibilidade de consequências pertinentes, oportunizando-lhe, pois, o exercício de seu direito de defesa quanto à seu agir; e inegavelmente houve prejuízo à parte adversa, seja quanto ao acesso a seu bem, postergado indevidamente, seja quanto a custos relativos à tramitação do processo, com um sem número de intervenções processuais para rechaçar as diversas investidas do apelante. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 319-320).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022 e 1.025, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 5º, LV, da Constituição Federal e 369 do CPC.
+Sustenta, em síntese, não ter agido com má-fé, ao argumento de que apenas teria exercido o seu direito de se defender em juízo. Aduz que, embora haja litispendência nas ações propostas, não se justifica a condenação ao pagamento de multa por litigância de má-fé. Pugna pela concessão de efeito suspensivo ao recurso especial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 418-444).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 448-451), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 527-537).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não prospera a alegada violação dos arts. 1.022 e 1.025 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, o recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+Por outro lado, o Tribunal de origem concluiu no sentido do acerto da sentença que aplicou multa por litigância de má-fé ao recorrente, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fls. 239-240):
+Feito esse escorço, torna forçoso concluir pelo acerto da sentença ora recorrida ao aplicar a multa por litigância de má-fé. Explico.
+Como procedeu ao tentar impedir o cumprimento da ordem de despejo por meio das reiteradas alegações de ilegitimidade, ao distribuir a tutela de urgência sem dependência à ação de despejo nº 5326796.16.2022.8.09.0051 em trâmite na 6ª Vara Cível da Comarca de Goiânia e, depois, ação idêntica ao Plantão Judicial sem informar a existência de outra em trâmite, o autor/apelante pretendeu apresentar a questão a um outro julgador, diverso daquele que vinha acompanhando a celeuma atinente ao imóvel.
+O contexto permite a conclusão de que o autor/apelante almejou valer- se das distribuições para que sua questão fosse afastada do Juiz Natural e julgada por magistrado que não conhecia o histórico de tramitação e o próprio comportamento processual que vinha apresentando, como forma de se aproveitar- se de eventual "distração" que pode ocorrer diante de um sem número de demandas e questões submetidas a julgamento.
+Dessarte, patente que a conduta do apelante violou os deveres dos sujeitos processuais previstos no artigo 77 do Código de Processo Civil e, assim, praticou as condutas descritas no artigo 80, que assim dispõe:
+(..)
+Ora, o ora apelante usou do presente processo para alcançar objetivo ilegal, pois manejou ferramentas processuais com o objetivo de manipular a correta distribuição, por prevenção, ocultando informações do julgador a que submetida a questão, em proceder absolutamente temerário.
+Nota-se que não se está a presumir a má-fé, na medida em que ela mostra-se nítida a partir do histórico lançado.
+Afastar o referido entendimento para concluir no sentido de que não teria agido com má-fé, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE/INEXISTÊNCIA CONTRATUAL C/C PEDIDO DE REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. LITIGÂNCIA DE MÁ-FÉ EVIDENCIADA. MANIFESTO INTENTO DE ALTERAR A VERDADE DOS FATOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal de Justiça concluiu pela configuração de litigância de má-fé, haja vista que foi constatada "a validade da pactuação contratual, inclusive com o recebimento dos valores pela apelante em sua conta corrente, sendo manifesto o intento de alterar a verdade dos fatos em Juízo".
+2. Assim, a pretensão de modificar o entendimento firmado, quanto à configuração de litigância de má-fé, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.740.772/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Por fim,
+Por fim, ressalto que não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 5º, LV, da Constituição Federal, por ser a via inadequada à alegação de afronta a seus artigos e preceitos, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+(AgInt no AREsp n. 2.737.417/PB, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024.)
+3. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal.
+(AgInt no AREsp n. 1.325.875/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial. O pedido de efeito suspensivo fica prejudicado diante do julgamento em questão.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 242).
+Publique-se. Intime-se.
+ EMENTA
