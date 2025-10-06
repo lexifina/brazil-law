@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de IGOR JOSE LOPES DOS SANTOS, preso preventivamente e acusado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (Processo n. 1506106-09.2025.8.26.0395, Juízo das Garantias da 8ª Região Administrativa Judiciária de São José do Rio Preto).
+A impetrante aponta como autoridade coatora o Desembargador do Tribunal de Justiça de São Paulo, que, em 17/9/2025, indeferiu a liminar no habeas corpus (HC n. 2298745-26.2025.8.26.0000)..
+Alega flagrante constrangimento ilegal e requer a superação da Súmula 691 do Supremo Tribunal Federal por manifesta ilegalidade.
+Sustenta ausência de fundamentação idônea e individualizada do decreto preventivo; e decisão genérica, apoiada na gravidade abstrata do tráfico e em suposições, sem dados concretos de periculum libertatis (fls. 4, 11/12, 18).
+Afirma desproporcionalidade da prisão ante a primariedade, bons antecedentes, residência fixa, ocupação lícita e ínfima quantidade de entorpecentes apreendida - 0,13 g de crack e 0,04 g de cocaína, totalizando 0,17 g -, além de indicação de uso e origem lícita do numerário (fls. 4/6, 10/12, 14/15). Aponta que, mesmo em caso de condenação, faria jus ao tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), com consequências de não hediondez, regime mais brando e possibilidade de substituição da pena, o que reforça a desproporcionalidade da custódia (fls. 40/41).
+Requer a concessão da ordem para reconhecer a ilegalidade da custódia e aplicar medidas do art. 319 do Código de Processo Penal (fls. 42/44).
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza.
+Na espécie, não percebo a existência de nenhuma excepcionalidade a justificar a superação desse entendimento. Ao menos em uma análise preliminar - a teor dos elementos de convicção coligidos ao autos -, o decisum atacado não pode ser apontado como teratológico.
+Basta uma rápida leitura da decisão proferida pelo Desembargador Relator do prévio writ para constatar que as alegações do ora impetrante foram devidamente rebatidas, dentro do limite de cognição que aquela fase processual autoriza. Constatou a ausência dos pressupostos autorizadores da medida liminar requerida.
+Além disso, a determinação de prisão ocorreu após o cumprimento de mandado de busca e apreensão, no qual foram apontados elementos indicativos de reiterada e organizada prática delitiva (fl. 53):
+Em cumprimento a mandado de busca e apreensão expedido pelo Poder Judiciário, esta equipe deslocou-se até a residência de Igor José, situada na Rua 16, nº 702, Vila Guarnieri, onde foram realizadas diligências. Durante as buscas, localizou-se pequena quantidade de substância entorpecente, consistente em 13 (treze) microtubos de crack e 04 (quatro) eppendorfs de cocaína, acondicionados no interior da churrasqueira.
+No local, foram localizados diversos objetos e substâncias vinculados à prática de tráfico ilícito de entorpecentes, consistentes em R $ 20.107,00 (vinte mil cento e sete reais) em espécie, 08 (oito) aparelhos celulares, 02 (duas) maquininhas de cartão de crédito, 13 (treze) microtúbulos contendo substância análoga a crack, 04 (quatro) ependorf contendo substância análoga a cocaína, 01 (uma) porção de substância análoga a maconha, 01 (uma) balança de precisão, diversas embalagens comumente utilizadas para acondicionamento de maconha, bem como 08 (oito) pacotes de cigarro fechados.
+Assim, não tem cabimento a prematura análise da temática suscitada aqui, antes da análise do mérito do habeas corpus pelo Tribunal a quo.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS CONTRA O INDEFERIMENTO DE PEDIDO LIMINAR EM PRÉVIO MANDAMUS PRISÃO CAUTELAR. GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. INCIDÊNCIA DA SÚMULA 691/STF. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ indeferido liminarmente.
