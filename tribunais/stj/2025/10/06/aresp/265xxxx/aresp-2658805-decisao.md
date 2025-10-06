@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o ESTADO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 194):
+MANDADO DE SEGURANÇA RESPOSTA A QUESTIONAMENTOS FEITOS À ADMINISTRAÇÃO PÚBLICA Demora injustificada na expedição de certidão de tempo de serviço Violação do artigo 114 da Constituição Estadual Resposta inadequada Direito líquido e certo Sentença concessiva da ordem mantida Apelação não provida e remessa rejeitada.
+Os embargos de declaração opostos foram rejeitados (fls. 204/209).
+Nas razões de seu recurso especial, a parte recorrente alega violação ao art. 1.022 do Código de Processo Civil (CPC), ao argumento de omissão sobre questão essencial ao deslinde da controvérsia, em especial acerca do fato de que "não enfrentou a questão da perda processual visto que as inform ações perquiridas foram oferecidas dias 07/12/2021 ao passo que ação foi protocolada no dia 08/12/2021, logo, quando se iniciou a demanda, as respostas já estavam a disposição da impetrante" (fl. 223).
+A parte adversa apresentou contrarrazões (fls. 248/255).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nos termos do que dispõe o art. 1.022 do Código de Processo Civil (CPC), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto ou questão sobre a qual o juiz devia se pronunciar de ofício ou a requerimento, bem como para corrigir erro material.
+No que importa à controvérsia de que trata o recurso especial, confira-se o seguinte trecho do acórdão recorrido (fl. 207/):
+No caso dos autos, não se verifica a omissão, uma vez que o acórdão tratou do tema reclamado. In verbis:
+A APEOESP impetrou mandado de segurança visando proteção a direito líquido e certo de obter, em tempo razoável, conforme incisos XXXIII e XXXIV da CF, resposta aos questionamentos de fls. 45/46, requerida pela primeira vez em 09 de novembro de 2021. E o pedido foi deferido pela sentença, que concedeu a ordem requerida na inicial.
+O apelo e a remessa necessária não comportam acolhimento, merecendo subsistir as bem lançadas razões deduzidas na r. sentença, ora adotadas nos termos do permissivo contido no art. 252 do Regimento Interno desta A. Corte, cuja aplicabilidade encontra respaldo na jurisprudência do E. STJ .
+O artigo 114 da Constituição do Estado de São Paulo determina que a Administração possui 10 dias úteis para a expedição de certidões:
+Artigo 114 - A administração é obrigada a fornecer a qualquer cidadão, para a defesa de seus direitos e esclarecimentos de situações de seu interesse pessoal, no prazo máximo de dez dias úteis, certidão de atos, contratos, decisões ou pareceres, sob pena de responsabilidade da autoridade ou servidor que negar ou retardar a sua expedição. No mesmo prazo deverá atender às requisições judiciais, se outro não for fixado pela autoridade judiciária.
+No caso dos autos, o impetrante formulou pedido questionamentos em 09 de novembro de 2021, tendo a resposta sido dada em 07 de dezembro do mesmo ano.
+A demora constatada, aliada à incompletude da resposta garante à apelada o direito reconhecido na sentença.
+Aliás, é de se destacar que um dos fundamentos da decisão recorrida foi a inadequação da resposta, o que não foi atacado pelo recurso.
+Observa-se que o acórdão apreciou todos os argumentos deduzidos no processo capazes, em tese de infirmar a conclusão adotada, como determina o artigo 489, § 1º, inciso IV, do Código de Processo Civil.
+A parte recorrente opôs embargos de declaração afim de provocar o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO a se manifestar sobre o fato de que o acórdão proferido foi omisso "quanto à preliminar recursal de extinção do processo por ausência de interesse processual, que foi alegada no recurso com base no fato de as informações solicitadas, que justificaram a impetração do writ, foram devidamente prestadas pela Administração em 07/12/2021 e anexadas ao dito recurso de apelação às fls. 110/113" (fl. 201).
+Extraem-se do acórdão recorrido razões generalizadas sobre a questão levantada pela parte, limitando-se o Tribunal de origem a colacionar as razões do acórdão embargado, apenas, e simplesmente finalizar afirmando que "o acórdão apreciou todos os argumentos deduzidos no processo capazes, em tese de informar a conclusão adotada  " (fl. 208).
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+Reconhecida a violação ao art. 1.022 do Código de Processo Civil, os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para novo exame do recurso integrativo.
+Publique-se. Intimem-se.
+ EMENTA
