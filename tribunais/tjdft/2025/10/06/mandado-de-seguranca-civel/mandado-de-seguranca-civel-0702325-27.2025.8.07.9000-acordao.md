@@ -1,0 +1,56 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.MANDADO DE SEGURANÇA CÍVEL 0702325-27.2025.8.07.9000IMPETRANTE(S)MARIA ALVES DA SILVAIMPETRADO(S)3° JUIZADO DA FAZENDA PÚBLICARelatorJuiz MARCO ANTONIO DO AMARAL
+ Acórdão Nº2052929
+
+EMENTA
+
+ MANDADO DE SEGURANÇA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. PROCESSO CIVIL. DETERMINAÇÃO DE EMENDA À INICIAL. JUNTADA DE RELATÓRIO MÉDICO E OUTROS DOCUMENTOS DIGITALIZADOS E ASSINADOS DIGITALMENTE. DOCUMENTOS DISPENSÁVEIS QUANDO HÁ OUTROS APTOS À COMPROVAÇÃO DO ESTADO DE SAÚDE DA IMPETRANTE. DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE PREVISÃO DE RECURSO CABÍVEL. CARÁTER TERATOLÓGICO. MANDADO DE SEGURANÇA CONHECIDO. ORDEM CONCEDIDA.
+
+1. Trata-se de mandado manejado em face de decisão proferida pelo Juízo do 3º Juizado Especial de Fazenda Pública e Saúde Pública do Distrito Federal, que determinou a emenda à petição inicial, com fundamento no artigo 321, do Código de Processo Civil e ordenou a juntada aos autos dos seguintes documentos: “1. Relatório médico circunstanciado e atualizado (com data de emissão inferior a 6 meses), digitado e assinado digitalmente mediante certificação digital expedida pelo Conselho  Federal de Medicina (padrão ICP-Brasil), que detalhe a condição atual da paciente (Carcinoma Epidermoide Invasivo Moderadamente Diferenciado do Colo Uterino), a evolução do quadro, a urgência específica do procedimento cirúrgico ou tratamento indicado, bem como a ineficácia ou  impossibilidade de aguardar o fluxo regular do SUS, com observância do Art. 11 do Capítulo II do Código de Ética Médica. 2. Cópia integral do prontuário médico da paciente, registrado no sistema de informatização da Rede Pública de Saúde (Trackcare ou similar), que contenha o histórico clínico detalhado, a evolução do quadro e os tratamentos já realizados no SUS”.
+
+2. Aduz a impetrante que foi diagnosticada com neoplasia maligna do colo do útero, motivo pelo qual necessitada realizar cirurgia de histerectomia total ampliada em oncologia, solicitação que foi registrada no SISREG no dia 13/6/2025, por agente público a serviço do SUS - Sistema Único de Saúde - em atuação no Hospital Regional de Ceilândia, sob a classificação de risco/prioridade vermelho/emergência, mas aguarda a realização da cirurgia desde 08/06/2025. A Impetrante alega que de acordo com o relatório médico anexado aos autos, subscrito pelo médico assistente Dr. Caio Ribeiro Barbosa (CRM/DF 31.831), em atuação na UBS 11, da Ceilândia/DF, à luz de suas condições clínicas, e da evolução de seu quadro de saúde, é possível constatar que apresenta “condição grave que compromete a saúde geral, com necessidade de tratamento oncológico especializado e risco de evolução desfavorável sem intervenção adequada”, sendo que atualmente a impetrante apresenta “dores e desconforto, em grau moderado”. A enfermidade apresenta “progressão rápida e evidente” e a paciente está exposta ao “risco de progressão local, invasão de estruturas adjacentes e metástases”.  Aduz ainda que há risco do agravamento do seu quadro de saúde, inclusive com afetação de outras áreas do corpo, sendo que a demora na realização da cirurgia revela-se excessiva e desproporcional com a urgência que o caso encerra, sendo que não há expectativa de quando a cirurgia lhe será oferecida, pois para o diagnóstico de neoplasia maligna do colo do útero constam na fila de ginecologia oncológica, outras 180 solicitações pendentes.
+
+3. Dessa forma, a impetrante alega que a condição imposta pelo Juízo, para o recebimento da inicial, ou seja, a juntada de relatório médico integralmente digitado e assinado digitalmente pelo médico subscritor, com certificação digital padrão ICP-Brasil, bem como a juntada de cópia integral do prontuário médico da paciente, é ilegal e desproporcional, ferindo direito líquido e certo. Afinal, apesar de não ter sido juntado relatório médico assinado digitalmente, há relatórios médicos válidos juntados aos autos. Some-se a isso o fato de que o cumprimento da medida mostra-se inviável, pois muitos médicos da rede pública de saúde não dispõem de certificação digital ativa ou sequer de infraestrutura adequada, como computadores com acesso à internet, para gerar relatórios em conformidade com os padrões exigidos pelo Juízo, considerando ainda a sobrecarga de trabalho, o que torna inviável o retorno do paciente e do médico em ambulatório equipado, para emissão dos documentos em formato digital. Já a ausência de atendimento da determinação judicial acarretará consequência processual do indeferimento da petição inicial, com a extinção do processo, sem análise do mérito, frustrando a apreciação judicial do direito à saúde da Impetrante.
+
+4. Foi concedida liminar, nos termos da decisão de id 75155931, para o fim de suspender a decisão impugnada e determinar o prosseguimento do processo independente da juntada dos documentos no formato eletrônico exigidos. Foram prestadas as informações pela autoridade coatora no id 75224301. Instado, o Ministério Púbico apresentou a manifestação de id 75996519, na qual pontua que os princípios da razoabilidade e da proporcionalidade são violados quando são impostos requisitos excessivos, sobretudo quando há nos autos documentos, dentre os quais relatório médico no qual é possível aferir o estado de saúde da paciente, com diagnóstico de neoplasia maligna. Ao final, posiciona-se pela confirmação da liminar, com a concessão da segurança.
+
+5. O mandado de segurança é um instrumento jurídico que visa proteger o direito líquido e certo de quem tenha tido seus direitos ameaçados ou violados por ato de autoridade. No entanto, a sua utilização deve observar os critérios legais e claramente previstos na lei.  Conforme jurisprudência do egrégio Superior Tribunal de Justiça (AgRg no RMS 46.513/SP), para além dos pressupostos da impetração do mandamus contra ato judicial, exige-se a comprovação: (i) da inexistência de recurso adequado à impugnação da decisão; e (ii) do caráter teratológico da decisão, por saltante ilegalidade ou abuso de poder.
+
+6. A decisão objeto do writ, não é passível de ser analisada em sede recursal, em virtude da ausência de previsão de recurso cabível para impugná-la, pois fora das hipóteses previstas no art. 80 do Regimento Interno das Turmas Recursais (RITR, art. 80). Por seu lado, dispõe o mesmo regimento em seu artigo 12, inciso II, alínea “b” estabelece que compete à Turma Recursal processar e julgar originalmente mandado de segurança contra decisão dos juizados especiais cíveis, criminais e da fazenda pública. Mandado de segurança conhecido.
+
+7. No caso em apreço, não obstante a exigência contida no artigo 320, do Código de Processo Civil, no sentido de que a petição inicial deve ser instruída com os documentos indispensáveis à propositura da ação, regra aplicável aos Juizados Especiais da Fazenda Pública por força do disposto no artigo 27 da Lei 12.153/2009, não se pode ter por indispensáveis os relatórios médicos digitalizados e assinados digitalmente, ou sequer cópia integral do prontuário médico da paciente.
+
+8. Não obstante a Resolução nº CFM 2.296/2021, que regulamenta o Sistema Integrado de Identificação Médica (SIIM), disciplinar e recomendar a emissão de documentos de identificação médica no modelo digital, dentre eles o relatório médico, recomendando a assinatura digital, com o uso de Certificação Digital do CFM (padrão ICP-Brasil), a resolução incentiva a adoção de sistemas eletrônicos para garantir a segurança, autenticidade e rastreabilidade dos documentos médicos, mas não possui o condão de retirar a autenticidade de documentos que não sejam eletrônicos. Igualmente, não se pode ter por inverídicas as informações lançadas no relatório médico acostado aos autos de origem, id 246002595, que apesar de ter as informações inseridas de forma manuscrita pelo médico que atendeu a paciente, Dr. Caio Ribeiro Barbosa (CRM/DF 31.831), em atuação na UBS 11, da Ceilândia/DF, por ocasião do atendimento da impetrante, trata-se de documento legível e contém todas as informações a respeito do diagnóstico da paciente, inclusive com CID, suas condições médicas, o tratamento prescrito e particularidades da doença, como a existência ou não de progressão rápida e efeito do decurso do tempo na demora da adoção das providências necessárias.
+
+9. Há ainda outras informações nos autos, a respeito da classificação da paciente na lista do SISREG, e o número de pessoas em condições semelhantes, aguardando a mesma providência pleiteada. Logo, o processo de origem, no qual foi proferida a decisão combatida, contém todas as informações necessárias para o recebimento da petição inicial e análise do pedido formulado em sede de antecipação da tutela, mostrando-se de caráter teratológico a decisão combatida, por saltante ilegalidade.
+
+10. Por seu lado, a impetrante possui o direito líquido e certo de ver sua pretensão de obter o tratamento médico almejado apreciado pelo Poder Judiciário, sobretudo em virtude do diagnóstico que a acomete, ou seja, de neoplasia maligna. Há que se pontuar ainda que o paciente acometido por neoplasia maligna, em virtude da gravidade e agressividade da doença, tem prioridade no atendimento garantida por lei. Nos termos do artigo 2º da Lei 12.732/2012, o paciente com neoplasia maligna tem direito de se submeter ao primeiro tratamento no Sistema Único de Saúde (SUS), no prazo de até 60 (sessenta) dias contados a partir do dia em que for firmado o diagnóstico em laudo patológico; ou até mesmo em prazo menor, de acordo com critérios médicos.  Dessa forma, a imposição de exigências excessivas para a análise do pleito formulado, atinente a direito à saúde pública, ameaça direito líquido e certo da impetrante.
+
+11. Logo, conclui-se pela coexistência dos requisitos para cabimento do mandado de segurança, para impugnar decisão judicial, quais são: existência de direito líquido e certo, inexistência de recurso adequado à impugnação da decisão judicial e caráter teratológico da decisão, por saltante ilegalidade, motivo pelo qual tem vez a manutenção da liminar concedida, com a concessão da segurança.
+
+12. A súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARCO ANTONIO DO AMARAL - Relator, MARGARETH CRISTINA BECKER - 1º Vogal e EDI MARIA COUTINHO BIZZI - 2º Vogal, sob a Presidência do Senhor Juiz MARCO ANTONIO DO AMARAL, em proferir a seguinte decisão: MANDADO DE SEGURANÇA CONHECIDO. ORDEM CONCEDIDA. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Outubro de 2025
+
+Juiz MARCO ANTONIO DO AMARALPresidente e Relator
+
+RELATÓRIO
+
+Dispensado o relatório (Lei n. 9099/95, art. 46).
+
+VOTOS
+
+O Senhor Juiz MARCO ANTONIO DO AMARAL - RelatorA súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+A Senhora Juíza MARGARETH CRISTINA BECKER - 1º Vogal Com o relatorA Senhora Juíza EDI MARIA COUTINHO BIZZI - 2º Vogal Com o relator
+
+DECISÃO
+
+MANDADO DE SEGURANÇA CONHECIDO. ORDEM CONCEDIDA. UNÂNIME
