@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Gabriela Martins Boing contra o acórdão de fls. 393/397, proferido à unanimidade pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. PROCESSO SELETIVO. POSSE OBSTADA POR AUSÊNCIA DE REQUISITO DE ESCOLARIDADE MÍNIMA, PREVISTA NO EDITAL. IMPETRANTE QUE ALMEJA O RECONHECIMENTO DO CURSO DE "FORMAÇÃO PEDAGÓGICA EM PEDAGOGIA", CONFORME PREVISÃO DA RESOLUÇÃO CNE/CP N. 2/2015. TESE RECHAÇADA. REGRAMENTO SUSCITADO QUE CONDICIONA, EM QUALQUER CASO, A VALIDADE DE TAL FORMAÇÃO, À CONCLUSÃO PRÉVIA DE CURSO DE GRADUAÇÃO (BACHAREL). IMPETRANTE QUE NÃO COMPROVOU QUALQUER FORMAÇÃO ACADÊMICA PREGRESSA. DIREITO LÍQUIDO E CERTO NÃO VERIFICADO. LIMINAR REVOGADA.
+ORDEM DENEGADA. (fl. 397).
+Nas razões do recurso ordinário, fls. 403/423, a recorrente alega que "a Resolução 2/2015 (do CNE) tenha se limitado a autorizar que a formação pedagógica estivesse atrelada à área de conhecimento do profissional (bacharelado prévio na mesma área), é importante destacar que, além de referida resolução - assim como todas as outras - se destinar às instituições de ensino, não havia, até dezembro de 2022, vedação expressa de que o Curso de Formação Pedagógica em Pedagogia fosse validamente ofertado" (fl. 411). Acrescenta que "não se pode querer tolher formações ocorridas na vigência de normativa anterior que não impunha vedação ao curso de formação pedagógica em Pedagogia, e, ademais disso, concedia aos docentes deste curso o título de Licenciatura em Pedagogia" (fl. 415) e requer que "o curso de Formação Pedagógica em Pedagogia seja considerado pela SED/SC para fins de habilitação na vaga pretendida pela recorrente" (fl. 418).
+Recurso sem contrarrazões.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Odim Brandão Ferreira, manifestou-se pelo não conhecimento ou desprovimento do apelo, consoante parecer de fls. 457/461, resumido na ementa que se segue:
+Recurso em mandado de segurança. Processo seletivo. Professor da Educação Especial. Ausência de requisito de escolaridade mínima prevista em edital.
+Resolução CNE/CP 2/2015: "o regramento invocado jamais oportunizou a equivalência de tal formação, por si só, à licenciatura plena em pedagogia, sem a prévia conclusão de graduação própria (bacharel)".
+Ausência de impugnação dos fundamentos do acórdão recorrido: Súmula 182 do STJ.
+Consoante entendimento do STJ, em caso idêntico: "a formação inicial para graduados não licenciados pede a complementação pedagógica atrelada à área de conhecimento do profissional".
+Parecer pelo não conhecimento ou desprovimento do recurso ordinário. (fl. 457).
+Recurso tempestivo e representação regular (fl. 27).
+Benefício de gratuidade de justiça requerido na origem (fl. 225).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Assim, o presente apelo não merece avançar para além da barreira do juízo de admissibilidade recursal. Com efeito, na hipótese que ora se apresenta ao exame desta Corte Superior, o Tribunal estadual denegou a ordem, à unanimidade, por entender que a candidata não comprovou possuir qualquer graduação pregressa (fl. 396).
+Segundo a Corte catarinense:
+Verifica-se, portanto, que o referido diploma, ainda que reconheça a validade do curso de "Formação Pedagógica para Graduados Não Licenciados", condiciona, em qualquer caso, sua validade à existência de prévio curso de graduação (aliás, como o próprio nome prevê), cuja carga horária, ademais, dependeria da equivalência (ou não) entre a graduação originária e o referido curso.
+Por outro lado, a despeito do que tenta fazer crer a Impetrante, o regramento invocado jamais oportunizou a equivalência de tal formação, por si só, à licenciatura plena em pedagogia, sem a prévia conclusão de graduação própria (bacharel).
+In casu, renova-se, a Candidata não comprovou possuir qualquer formação acadêmica pregressa, mas tão somente, curso de "Formação Pedagógica para Graduados Não Licenciados" (evento 1, DOC6), o qual não é suficiente ao preenchimento dos requisitos previsto no instrumento convocatório de vigência (fl. 396).
+Todavia, nas razões recursais, a recorrente, passando ao largo dos reais fundamentos da decisão que intenta desconstituir, reitera a argumentação veiculada pela peça vestibular, insistindo em alegar que "a Resolução 2/2015 (do CNE) tenha se limitado a autorizar que a formação pedagógica estivesse atrelada à área de conhecimento do profissional (bacharelado prévio na mesma área), é importante destacar que, além de referida resolução - assim como todas as outras - se destinar às instituições de ensino, não havia, até dezembro de 2022, vedação expressa de que o Curso de Formação Pedagógica em Pedagogia fosse validamente ofertado" (fl. 411). Mas, com isso, negligencia a recorrente a necessária observância do princípio da dialeticidade recursal, não cumprido o ônus (que lhe cabia) da impugnação específica e integral aos fundamentos do aresto combatido.
+Essa irregularidade, porque violadora do princípio da dialeticidade, como dito, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+(AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021).
+Eis porque o presente recurso ordinário não reúne condições de avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
