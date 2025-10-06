@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MARCOS ROBERTO DA ROSA JUNIOR em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE AFASTOU A FALTA GRAVE RELATIVA À UTILIZAÇÃO DE APARELHO TELEFÔNICO. INSURGÊNCIA DO MINISTÉRIO PÚBLICO. ACOLHIMENTO. FALTA GRAVE SUFICIENTEMENTE DEMONSTRADA. LEI DE EXECUÇÕES PENAIS QUE NÃO EXIGE PROVA DA PROPRIEDADE DO OBJETO, MAS MERA POSSE OU UTILIZAÇÃO. AGRAVADO QUE CONFESSOU PERANTE POLICIAL PENAL TER FEITO USO DO ITEM. VERSÃO CORROBORADA PELAS FOTOS ENCONTRADAS NO APARELHO EM QUESTÃO. DECISÃO REFORMADA. FALTA GRAVE HOMOLOGADA.
+RECURSO CONHECIDO E PROVIDO.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, pois o aparelho celular não foi encontrado na posse do paciente e a sua propriedade foi admitida por outro preso, não havendo provas suficientes para a imputação da falta grave ao paciente.
+Afirma que a decisão que homologou a falta grave violou a presunção de inocência, pois se amparou na palavra isolada de policial penal sobre suposta admissão de uso, sem registro formal de confissão e sem outros elementos que corroborem a referida prova.
+Requer, em suma, a absolvição em relação à prática de falta grave.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Em suas razões, o Ministério Público aduz que existem provas suficientes acerca da utilização do aparelho celular pelo apenado. Assim, a medida cabível neste caso é a homologação da falta grave, nos termos do artigo 50, inciso VII, da LEP.
+ ..
+Compulsando os autos, verifica-se que o policial penal Edilberto Trevisan comunicou que encontrou no cubículo 242 um aparelho celular, no qual se constatou a existência de fotos dos apenados Cleverson Camargo de Lacerda e Marcos Roberto da Rosa Junior, ora agravado. Indagados sobre a situação no DISED, os reeducandos confirmaram terem usado o aparelho celular.
+ ..
+E não só o relato do agente público demonstra a utilização do, mas também a própria existência de fotos suas no aparelho telefônico (mov. 137.2-SEEU). Note-se que não se trata de uma foto tirada por terceiro - o que poderia levantar dúvidas sobre a efetiva utilização do celular pelo apenado - mas sim o próprio apenado tirando fotos de si.
+Destarte, havendo contundente prova indicando a utilização do aparelho celular pelo ora agravado, impõe-se o reconhecimento da falta grave, com todos os seus consectários.
+ ..
+Importante ressaltar que em momento algum a lei exige que seja averiguada a propriedade do item, bastando a prova acerca da posse ou utilização dos objetos, o que no presente caso resta incontroverso. Isto é, o fato de outro detento ter assumido a sua propriedade em nada prejudica a possibilidade de que outros detentos que tenham feito uso do mesmo aparelho sejam igualmente punidos.
+Acrescento, ainda, que a posse de aparelhos celulares e semelhantes dentro de estabelecimentos prisionais é um problema bastante grave, eis que permite a articulação de associações criminosas de dentro das prisões (fls. 100-101).
+Segundo entendimento firmado nessa Corte, configura falta grave a posse ou uso de aparelho celular, bem como a posse de seus componentes essenciais, dentro do presídio, ou mesmo fora do estabelecimento prisional, durante a realização do trabalho externo, sendo prescindível a realização de perícia para atestar a sua funcionalidade.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO LEGAL DE DECISÃO MONOCRÁTICA PELO RELATOR. FALTA DISCIPLINAR GRAVE. CERCEAMENTO DE DEFESA, NÃO OCORRÊNCIA. NÃO INDICADA A QUALIFICAÇÃO DO CAUSÍDICO. DEFESA PATROCINADA PELA FUNAP. PLEITO ABSOLUTÓRIO. NÃO ACOLHIMENTO. DESNECESSIDADE DE LAUDO PERICIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No que tange à materialidade da infração disciplinar, é imperioso destacar que "" c onsolidou-se nesta Superior Corte de Justiça entendimento no sentido de que a posse/uso de aparelho celular, bem como de seus componentes essenciais, tais como chip, carregador ou bateria, constitui falta grave, sendo prescindível a realização de perícia no aparelho telefônico ou seus acessórios com a finalidade de se atestar sua funcionalidade" (AgRg no HC n. 671.045/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 21/6/2021)" (AgRg no HC n. 760.894/RS, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 24/11/2022.)
+4. Agravo regimental não provido. (AgRg no HC n. 845.565/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 2.10.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE CELULAR. PLEITO DE ABSOLVIÇÃO. PROVAS SUFICIENTES. IMPUTAÇÃO ADEQUADA. INDIVIDUALIZAÇÃO DA CONDUTA. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO WRIT. PERÍCIA. DESNECESSIDADE MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO DESPROVIDO.
+1. Não se verifica ilegalidade na aplicação da falta grave, apurada por meio de processo administrativo disciplinar, com a individualização da conduta do reeducando, posse de aparelho celular, enquadrada nos artigos 39, II e V e 50, I e VI e 52, caput, todos da Lei de Execução Penal.
+2. Se as instâncias ordinárias, motivadamente, concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pelo apenado, não há falar em ausência, sobretudo se a conduta foi individualizada, conforme depoimento das agentes penitenciárias, que gozam de presunção de veracidade.
+3. Rever o entendimento do Tribunal de origem, para afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus.
+4. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que é prescindível a perícia do aparelho celular apreendido para a configuração da falta disciplinar de natureza grave.
+5. Agravo regimental não provido. (AgRg no HC n. 811.101/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 22.5.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. USO DE CELULAR NO TRABALHO EXTERNO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A falta grave do paciente deve ser mantida, pois a jurisprudência dominante nesta Corte entende que "a posse de celular durante a realização de trabalho externo, ainda que fora do estabelecimento prisional, configura a prática de falta grave" (RHC n. 96.193/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/5/2020, DJe de 3/6/2020).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 861.264/ES, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 6.12.2023.)
+De igual sorte: AgRg no HC n. 876.198, Rel. Ministro Antonio Saldanha Palheiro, DJe de 06.02.2024; RHC n. 96.193/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.6.2020; HC n. 286.362/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 3.5.2016.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem a fim de absolver o apenado, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Outrossim , de acordo com a jurisprudência desta Corte, os depoimentos dos agentes públicos gozam de presunção de veracidade e legitimidade, inerentes aos atos administrativos em geral.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. POSSE DE INSTRUMENTO CAPAZ DE OFENDER A INTEGRIDADE FÍSICADE OUTREM - ART. 50, INCISO III, DA LEI 7.210/84. ABSOLVIÇÃO. PRESUNÇÃO DE VERACIDADE DO DEPOIMENTO DOS AGENTES PENITENCIÁRIOS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO DESPROVIDO.
+ ..
+2. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC n. 391170, Rel. Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017). Na mesma linha de entendimento: HC n. 334732, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 17/12/2015, publicado em 1º/2/2016.
+3. Outrossim, desconstituir o entendimento firmado pelas instâncias originárias demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+4. Agravo desprovido. (AgRg no HC n. 821.526/PR, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 29.6.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Tendo as instâncias de origem concluído, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, que o agravante praticou falta grave consistente na subversão da ordem, para se chegar a entendimento diverso, necessário seria o revolvimento do conteúdo fático-probatório dos autos, incabível nesta via.
+2. Outrossim, "a Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  ..  (HC n. 391.170/SP, rel. Min. Nefi Cordeiro, julgado em 1º/8/2017, publicado em 7/8/2017).
+3. Agravo regimental desprovido. (AgRg no HC n. 797.089/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22.6.2023.)
+De igual sorte: AgRg no HC n. 817.932/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 2.6.2023; AgRg no HC n. 811.101/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 22.5.2023; HC n. 850.327, Rel. Ministro Sebastião Reis Júnior, DJe de 11.10.2023; HC n. 692.749/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 6.10.2021.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
