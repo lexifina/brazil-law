@@ -1,0 +1,73 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, ementado nos seguintes termos:
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. ARTIGO 1.015, III, CPC/15. INTERPRETAÇÃO EXTENSIVA. TAXATIVIDADE MITIGADA. TEMA Nº 988, STJ.
+É de ser conhecido agravo de instrumento interposto contra decisão interlocutória relacionada à competência, seja em face de interpretação extensiva do artigo 1.015, III, CPC/15, consoante entendimento do Superior Tribunal de Justiça (REsp nº 1.679.909/RS, Min. LUIS FELIPE SALOMÃO, seja pela mitigação do rol do referido artigo, quando verificado, como na hipótese, risco de inutilidade processual caso postergada a análise da questão para eventual recurso de apelação (Tema nº 988, STJ, REsp nº 1.696.396/MT e 1.704.520/MT, Min. NANCY ANDRIGHI).
+CONSTITUCIONAL. DIREITO À SAÚDE. MEDICAMENTO NÃO INCORPORADO AO SUS. NECESSÁRIA PRESENÇA DA UNIÃO NO POLO PASSIVO (TEMA Nº 793, STF).
+Pleiteado medicamento não incorporado ao SUS (NINTEDANIBE), faz-se compulsória a presença da União no polo passivo, a implicar deslocamento da competência à Justiça Federal, uma vez competir ao ente federal, exclusivamente, seu financiamento, consoante explicitado pelo Supremo Tribunal Federal, no voto do Ministro Edson Fachin, ao julgar embargos de declaração no RE nº 855.178/SE, com repercussão geral (Tema nº 793), o que recentemente reafirmado, entre outras, nas Reclamações nº 49.890 e 50.414, Min. DIAS TOFFOLI, e Recurso Extraordinário nº 1.389.714/SC, esse último após decisão proferida pelo Superior Tribunal de Justiça, no Incidente de Assunção de Competência (IAC) nº 14, suscitado no Conflito de Competência nº 187.276/RS.
+PRINCÍPIO DA DEMANDA. ARTIGO 115, PARÁGRAFO ÚNICO, CPC/15. RESPONSABILIDADE SOLIDÁRIA DE TODOS OS ENTES DA FEDERAÇÃO. TUTELA DE URGÊNCIA. ANÁLISE.
+Necessária observância, contudo, ao princípio da demanda e à expressa previsão do artigo 115, parágrafo único, CPC/15, cabendo ao juízo a quo possibilitar à parte autora que emende à inicial, para que promova a inclusão da União no polo passivo, sob pena de extinção do processo, a teor do artigo 485, IV, CPC/15, com posterior remessa dos autos à Justiça Federal, caso requerida tal inclusão, mantido no polo passivo o ente estadual originalmente demandado, diante de consolidada jurisprudência pela responsabilidade solidariedade dos entes federados quanto à tutela do direito à saúde, mantendo-se, ainda, a tutela de urgência deferida na origem, na forma do artigo 64, § 4º, CPC/15, e da orientação constante do Ofício-Circular nº 071/2020-CGJ.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO”. (eDOC 50 – ID: a60c656b)
+
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 23, II, 109, I, 196, e 198, do texto constitucional, bem como ao tema 793 da repercussão geral. (eDOC 88 – ID: 59da04e4)
+Nas razões recursais, insurge-se contra acórdão que, em demanda que versa sobre o fornecimento de medicamento não incorporado às listas do SUS, determinou a inclusão da União no polo passivo e o consequente deslocamento de competência para a justiça federal.
+Afirma-se que a inclusão da União, especialmente na fase recursal do processo, compromete o acesso à justiça, a efetividade da tutela jurisdicional e a proteção ao direito à saúde, sobretudo em casos de vulnerabilidade social.
+Restituídos os autos ao órgão julgador para eventual juízo de retratação, o acórdão recorrido restou mantido em decisão assim ementada:
+
+“PROCESSUAL CIVIL E CONSTITUCIONAL. DIREITO À SAÚDE. JUÍZO DE RETRATAÇÃO. FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO AO SUS. COMPETÊNCIA. INCLUSÃO DA UNIÃO NO POLO PASSIVO. JULGAMENTO DO MÉRITO DO RE Nº 1.366.243/SC (TEMA Nº 1.234, STF). INAPLICABILIDADE AO CASO. AÇÃO AJUIZADA ANTERIORMENTE À PUBLICAÇÃO DA DECISÃO DA CORTE SUPREMA.
+Ajuizada a ação em 26.07.2022, anteriormente à publicação do julgamento do mérito do RE nº 1.366.243/SC (Tema nº 1.234) pelo Plenário do STF, não se aplicam, ao caso, as definições da Corte Suprema no que tange à competência, considerada a modulação dos efeitos da referida decisão, não sendo caso, pois, de juízo de retratação, mantendo-se o acórdão ora reapreciado.
+ACÓRDÃO MANTIDO, EM JUÍZO DE RETRATAÇÃO”. (eDOC 132 – ID: f4117bd1)
+
+Na sequência, o recurso foi admitido e os autos encaminhados a esta Corte.
+É o relatório.
+Decido.
+Cuidam os autos de ação ordinária, proposta na origem em face do Estado do Rio Grande do Sul, em que se pleiteia o fornecimento de medicamento (NINTEDANIBE). A Corte de origem verificou que o medicamento requerido, embora possua registro na ANVISA, não está incluído nas listas do SUS, concluindo que o ente federativo responsável pelo seu fornecimento é a União. Assim, determinou à parte autora emenda à petição inicial para a inclusão da União e, consequentemente, o encaminhamento dos autos à justiça federal. Nesses termos, colho trecho do acórdão recorrido:
+
+“Como visto, ajuizada a ação com vistas à condenação do Estado do Rio Grande do Sul, aqui agravante, ao fornecimento do fármaco NINTEDANIBE, para tratamento de "pneumonite de hipersensibilidade devida a poeiras orgânicas", CID 10 J67, e "outras doenças pulmonares intersticiais com fibrose”, CID 10 J84.1, de que padece o autor, com base em laudo médico subscrito pela Dra. Vanessa Albano Barcellos, CRM nº 46.424 (Evento 1 - LAUDO6, autos de origem).
+(...)
+Todavia, é de ser deferida a liminar, ressaltando-se não se insurgir o agravante contra a determinação de fornecimento do fármaco, postulando, apenas, a inclusão da União no polo passivo.
+Em se tratando de pretensão a medicamento não fornecido pelo SUS, sabido o entendimento pela indispensabilidade da inclusão da União no polo passivo e, com isso, o deslocamento da competência à Justiça Federal, em atenção a entendimento do Supremo Tribunal Federal, no RE nº 855.178/SE, em sede de repercussão geral (Tema nº 793), observado, ainda, o item V do voto do Ministro EDSON FACHIN, proferido no julgamento dos respectivos embargos declaratórios, que assim preconiza:
+v) Se a pretensão veicular pedido de tratamento, procedimento, material ou medicamento não incluído nas políticas públicas (em todas as suas hipóteses), a União necessariamente comporá o polo passivo, considerando que o Ministério da Saúde detém competência para a incorporação, exclusão ou alteração de novos medicamentos, produtos, procedimentos, bem como constituição ou a alteração de protocolo clínico ou de diretriz terapêutica (art. 19- Q, Lei 8.080/90), de modo que recai sobre ela o dever de indicar o motivo da não padronização e eventualmente iniciar o procedimento de análise de inclusão, nos termos da fundamentação;
+(...)
+No caso, não incorporado ao SUS o medicamento em questão, como se verifica da Portaria SCTIE/MS nº 86, de 24.12.2018, decorrente do Relatório de Recomendação nº 419 da Comissão Nacional de Incorporação de Tecnologias no SUS - CONITEC 1, o que é corroborado tanto pelas já mencionadas notas técnicas NatJus como pela certidão negativa de fornecimento administrativo da Secretaria Estadual da Saúde (Eventos 1 - CERTNEG8, 5 e 18, autos de origem).
+(...)
+Como se infere, tal decisão, posterior ao julgamento do Superior Tribunal de Justiça no referido IAC, impõe-se seja respeitada, sabida a prevalência do Supremo Tribunal Federal na nossa estrutura constitucional.
+Ao que agrego mais recente decisão do Supremo Tribunal Federal submetendo a matéria ao regime da repercussão geral, Tema nº 1.234, LUIZ FUX, o que mais define estar nas atribuições constitucionais do Supremo Tribunal Federal definir a necessária integração da União Federal em casos tais e, por consequência, a competência para processar e julgar feitos que lhe digam respeito.
+Assim, necessária a inclusão da União no polo passivo, para o que cumpre à parte autora aditar sua pretensão em termos subjetivos, observado o princípio da demanda, a teor do parágrafo único do artigo 115, CPC/15, descabida determinação, de ofício, quanto a que alguém passe a ser réu, mesmo em se tratando de litisconsórcio passivo necessário.
+Cabe ao Juiz possibilitar ao demandante tal ampliação subjetiva e, em não fazendo, extinguir o processo por deficiência quanto a pressuposto processual, artigo 485, IV, CPC/15.
+Só depois de o autor emendar a demanda e incluir a União é que tocará ao Juiz remeter o processo à Justiça Federal, a quem compete decidir sobre a presença daquela, posto não decorrer do aqui definido em relação a litisconsórcio necessário qualquer preclusão pro iudicato em face daquela jurisdição.
+Ou seja, uma vez manifestando o demandante pretensão em face da União, o Juiz Estadual passa a ser incompetente para examinar tal pleito, artigo 109, I, CF/88, cumprindo-lhe remeter o processo à Justiça Federal, que é quem detém competência para decidir quanto à situação de réu referentemente à União Federal.
+(...)”. (eDOC 50 – ID: a60c656b, p. 2-8)
+
+Pois bem.
+Conforme visto, a parte autora requer seja compelido o Estado do Rio Grande do Sul a fornecer o medicamento NINTEDANIBE que não está incluído nos protocolos do SUS.
+Conforme definido no tema 1.234, é considerado medicamento não incorporado ao SUS para fins de demandas judiciais:
+
+“II. DEFINIÇÃO DE MEDICAMENTOS NÃO INCORPORADOS
+2.1) Consideram-se medicamentos não incorporados aqueles que não constam na política pública do SUS; medicamentos previstos nos PCDTs para outras finalidades; medicamentos sem registro na ANVISA; e medicamentos off label sem PCDT ou que não integrem listas do componente básico”.
+
+ Em relação aos medicamentos não incorporados, o Acordo homologado pelo STF no tema 1.234 estabelece regras e critérios para fixação da competência da Justiça Federal ou da Justiça Estadual, bem como a responsabilidade pelo custeio do tratamento determinado por decisão judicial e a forma de seu repasse. Para fins de melhor assimilação dos termos do acordo, bem assim de sua observação pelos juízes e tribunais, resumirei seus termos nos pontos que interessam ao presente caso:
+1) Competirá à Justiça Federal o julgamento das demandas relativas a medicamentos não incorporados pelo SUS e medicamentos oncológicos, desde que registrados na ANVISA, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG - situado na alíquota zero), for igual ou superior ao valor de 210 salários mínimos;
+2) Competirá à Justiça Estadual o julgamento das demandas relativas a medicamentos não incorporados pelo SUS e medicamentos oncológicos, desde que registrados na ANVISA, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG - situado na alíquota zero), for inferior ao valor de 210 salários mínimos;
+3) A divisão da competência entre Justiça Federal e Justiça Estadual para o ajuizamento de demandas relativas a medicamentos não incorporados pelo SUS valerá apenas para as ações ajuizadas a partir de 19.9.2024;
+4) Demandas relativas a medicamentos não incorporados pelo SUS ajuizadas antes de 19.9.2024 deverão continuar tramitando na justiça em que foram propostas;
+5) Em relação ao custeio dos medicamentos não incorporados pelo SUS, determinados por decisão judicial, caberá à União suportar 100% do valor devido, quando o custo do tratamento anual for igual ou superior a 210 salários mínimos, e 65% do valor devido, quando o custo do tratamento anual for superior a 7 e inferior a 210 salários mínimos. Tratando-se de medicamentos oncológicos, o percentual será de 80% do tratamento;
+6) Nos casos em que Estados e Municípios ficarem responsáveis pela aquisição dos medicamentos não incorporados, quer por decisão da Justiça Federal ou da Justiça Estadual, a União deverá fazer o ressarcimento por meio de repasse Fundo a Fundo.
+No caso dos autos, considerando que a presente ação foi ajuizada antes de 10 de junho de 2024, mantém-se o feito na Justiça Estadual. Friso, no entanto, que a modulação de efeitos do Acordo e das teses fixadas nos temas 6 e 1.234 limita-se à divisão de competência entre Justiça Estadual e Federal.
+Em relação ao dever de fornecimento de medicamento não incorporado, o Supremo Tribunal Federal, ao fixar a tese do tema 6, determinou que:
+    1. Como regra geral, o fornecimento de medicamento não previsto na política pública de saúde não deve ser determinado judicialmente;
+    2. Excepcionalmente, tais medicamentos, desde que registrados na ANVISA, poderão ser concedidos judicialmente, desde que o autor da ação comprove: solicitação administrativa não atendida; ilegalidade do ato de não incorporação do medicamento, ausência de pedido de incorporação ou mora na sua apreciação; impossibilidade de realização do tratamento via medicamentos disponibilizados pelo SUS; comprovação da eficácia, acurácia, efetividade e segurança do fármaco solicitado; imprescindibilidade clínica do tratamento comprovada por laudo médico fundamentado; incapacidade financeira de suportar o custo do tratamento.
+Assim, no que se refere ao dever de fornecer e, caso positivo, à responsabilidade pelo custeio, deve o Tribunal recorrido aplicar as normas acordadas e homologadas, especialmente as relativas ao dever de fornecer e à responsabilidade pelo custeio, conforme determinam as Súmulas Vinculantes 60 e 61 do STF:
+
+Súmula Vinculante nº 60 - O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1234 da sistemática da repercussão geral (RE 1.366.243).
+
+Súmula Vinculante nº 61 - A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471).
+
+Nesses termos, verifico que o acórdão recorrido, ao determinar a emenda à petição inicial para a inclusão da União e a consequente remessa dos autos à justiça federal, divergiu do entendimento firmado no julgamento do tema 1.234 da sistemática da repercussão geral.
+Ante o exposto, dou provimento ao recurso para que a presente causa seja processada e julgada perante a justiça comum com a aplicação das teses firmadas no julgamento do tema 1.234, inclusive em relação ao ressarcimento entre os entes.
+
+Publique-se.
+Brasília, 6 de outubro de 2025.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
