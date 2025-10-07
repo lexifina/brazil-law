@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RUAN CARLOS BORGES DE SOUSA contra acórdão da Terceira Câmara de Direito Criminal do Tribunal de Justiça do Maranhão, na Apelação n. 0002025-83.2019.8.10.0060, assim ementado:
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. RECONHECIMENTO FORMAL PRESCINDÍVEL AO CASO CONCRETO. TESE ABSOLUTÓRIA CONSUBSTANCIADA NA NEGATIVA DE AUTORIA. REDIMENSIONAMENTO DA PENA PARA DECOTAR O INCREMENTO DECORRENTE DA VALORAÇÃO NEGATIVA DAS "CONSEQUÊNCIAS DO CRIME" E, NA TERCEIRA FASE, SOB O ARGUMENTO DE EXASPERAÇÃO DESPROPORCIONAL. REJEIÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+1. Reconhecimento formal previsto no art. 226 do CPP não se mostra imprescindível quando as vítimas são capazes de individualizar o suspeito, fornecendo características físicas suficientes a identificá-lo, bem como descrevendo tatuagem semelhante a uma "pulseira", que ostenta no braço, particularidades que dificilmente seriam confundidas.
+2. Os bens subtraídos não terem sido recuperados não justifica, per si, a exasperação da pena-base, já que a subtração é ínsita ao delito de roubo. Todavia, se o prejuízo material transcende o resultado típico, constitui justificativa válida para o desvalor da moduladora "consequências do crime".
+3. Diante do concurso de majorantes, o juiz deve limitar-se a um único aumento, prevalecendo, todavia, a causa de mais eleve a pena, ex vi do art. 68, parágrafo único do CP.
+4. Recurso conhecido e desprovido. (e-STJ, fls. 21-22)
+Em seu arrazoado, o impetrante alega nulidade do reconhecimento pessoal porque realizado em desconformidade com as disposições do art. 226 do Código de Processo Penal.
+Aponta erro na dosimetria da pena.
+Pugna, liminarmente, pela suspensão da execução da pena. No mérito, pela absolvição do paciente por falta de provas para a condenação.
+O pedido liminar foi indeferido (e-STJ, fl. 117).
+Informações prestadas (e-STJ, fls. 123-125, 126-135 e 136-144, e-STJ).
+O Ministério Público opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 149-150).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observa-se dos autos que a condenação transitou em julgado em 5/6/2025, razão pela qual a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e e 108, inciso I, alínea b, ambos da Constituição da República.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO SUPERVENIENTE AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PEDIDO QUE, NA VERDADE, CONSUBSTANCIA PRETENSÃO REVISIONAL, ANTES DA INAUGURAÇÃO DA COMPETÊNCIA DESTA CORTE. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE RECONHECIMENTO DE ILEGALIDADE EX OFFICIO. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO WRIT QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. O trânsito em julgado da condenação ocorreu antes da protocolização da inicial deste feito. Nesse contexto, o pedido formulado na exordial consubstancia pretensão revisional, a despeito de não ter sido inaugurada essa competência do STJ. Isso porque, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+2. "Revela-se insuscetível de exame o habeas corpus desacompanhado de elementos que evidenciem o al alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída" (STF, HC 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Portanto, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+3. Ausência de ilegalidade que imponha a concessão de ordem de ofício. Defesa que não se desincumbiu do seu ônus de narrar que os diversos procedimentos criminais em que o Paciente consta como parte, registrados na FAC, não serviriam para fixar idoneamente a pena-base acima do mínimo legal.
+4. Agravo regimental desprovido.
+(AgRg no HC 628.646/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 23/2/2021, DJe 1/3/2021; grifou-se.)
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO DE APELAÇÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. 620 KG DE MACONHA. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. COGNIÇÃO SUMÁRIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT INDEFERIDO LIMINARMENTE.
+1. Já houve o trânsito em julgado da condenação, razão pela qual o habeas corpus é sucedâneo de revisão criminal, e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Precedentes.
+2. Não há manifesta ilegalidade ao ser afastado o tráfico privilegiado nas instâncias originárias. O Tribunal de origem avaliou todo o contexto fático-probatório que evidencia a dedicação e o envolvimento do paciente com a atividade criminosa, verificando-se a apreensão de grande quantidade de maconha (aproximadamente 620 kg), anotações de contabilidade de tráfico, eppendorfs e balança de precisão, com resquícios de maconha e outros objetos, tipicamente destinadas ao preparo de porções individualizadas de entorpecentes, instrumentos comumente empregados pelos traficantes para suas atividades rotineiras. A tese jurídica, como apresentada, deve ser analisada com a devida profundidade em sede adequada perante o Tribunal de origem, não sendo possível análise nos autos de habeas corpus, de cognição sumária.
+3. Agravo regimental improvido.
+(AgRg no HC 611.261/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/2/2021, DJe 18/2/2021; grifou-se.)
+Foi como opinou o Ministério Público Federal.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
