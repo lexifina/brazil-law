@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, agravo interno interposto por COMPANHIA AUXILIAR DE ARMAZÉNS GERAIS, contra decisão que conheceu do agravo em recurso especial, para não conhecer do recurso especial.
+Argumenta a parte agravante, em síntese (fls. 858-863):
+Os serviços portuários foram dotados, em nível constitucional, de ingente interesse público, pois levam o que é produzido no país para o mundo. Por isso, a utilização do bem imóvel ocupado pela Agravante no Porto de Santos está vinculada à consecução do serviço público envolvido e não simplesmente ao auferimento de lucro.
+As atividades portuárias são regidas pela Lei nº 12.815/2013 (Lei dos Portos), que estabeleceu novo marco regulatório para sua exploração por particulares, sob a regulação da Agência Nacional de Transportes Aquaviários (ANTAQ).
+Sob a vigência dessa lei, os arrendatários de bens públicos estão compelidos a utilizar os imóveis, exclusivamente, na prestação e modernização dos serviços portuários, ou seja, empregá-los à sua destinação constitucional (art. 21, XII, "f", da Constituição Federal). Assim, inexiste liberdade de destinação do bem público envolvido.
+A Lei dos Portos estabeleceu, ainda, que todos os arrendamentos deverão ser concedidos mediante licitação e serão regidos por normas de direito público, o que reforça o interesse público envolvido nessas atividades.
+Neste contexto, o Supremo Tribunal Federal afetou, sob o regime de repercussão geral, o Tema nº 1.297 para saber se a prestação de serviço público afasta a imunidade tributária recíproca para fins de incidência de IPTU sobre bens públicos afetados (RE nº 1.479.602/MG), em acórdão publicado em 16/04/2024 (fls. e-STJ 565-576).
+ ..
+Portanto, a questão a ser definida pela Corte afetará diretamente a discussão travada nos autos, já que se definirá sobre a constitucionalidade da incidência do IPTU sobre bens imóveis afetados à serviço público outorgado a particular.
+ ..
+Conforme já exposto, esse STJ já se manifestou no sentido de não ser possível a incidência do IPTU sobre a posse sem animus domini, mesmo após a tese firmada nos julgamentos dos Temas 385 e 437, uma vez que a posse a que se refere o art. 32 do CTN é aquela que possa conduzir à propriedade, não podendo atingir aquele mero detentor de imóvel público por concessão.
+ ..
+Por isso, a análise desse argumento infraconstitucional não resta prejudicado pela tese firmada pelo STF nos Temas 385 e 437 e não afasta a orientação consolidada dessa Corte no sentido de que somente a posse com animus domini é apta a gerar a cobrança do IPTU.
+ ..
+Contudo, conforme demonstrado acima, o Recurso Especial deve ser conhecido e provido, nos termos do art. 105, III, "a" da Constituição Federal, para que seja reconhecida a contrariedade ao art. 32 do CTN e ao art. 24 da LINDB, sendo plenamente viável, também, o seu conhecimento e provimento com fulcro no art. 105, III, "c", da Constituição Federal, por se tratar de argumento autônomo. A Agravante cumpriu o requisito do art. 1.029, §1º, do CPC, no que tange à interposição do Recurso Especial com base no art. 105, III, "c", da CF/88, demonstrando a identidade fática entre o acórdão recorrido e aqueles apontados como paradigmas, bem como instruindo seu recurso com cópia dos acórdãos indicados como paradigmas.
+Para a demonstração analítica da divergência com o acórdão proferido pelo TJRJ no julgamento da Apelação Cível nº 0302303-47.2016.8.19.0001, a Agravante demonstrou em seu Recurso Especial, por meio da citação de trechos do acórdão paradigma, ter-se firmado, naquele julgamento, entendimento diametralmente oposto ao do acórdão recorrido na afronta ao art. 24 da LINDB.
+Houve impugnação da parte agravada (fls. 894-897).
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259 do RISTJ, bem como considerando os argumentos trazidos pela parte agravante, reconsidero a decisão agravada e passo a novo exame da questão trazida no recurso especial.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1297/RG, pelo Supremo Tribunal Federal, cuja questão submetida a julgamento é: "saber se a concessão de serviço público afasta a imunidade tributária recíproca para fins de incidência de IPTU sobre bens públicos afetados à prestação do serviço. ".
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema de repercussão geral ou pelo novo pronunciamento do Tribunal de origem.
+Oportuno registrar que o recurso extraordinário interposto pela parte na origem foi sobrestado em razão do Tema 1297/RG (fls. 793-794).
+Isso posto, reconsidero a decisão de fls. 847-851 e determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+ EMENTA
