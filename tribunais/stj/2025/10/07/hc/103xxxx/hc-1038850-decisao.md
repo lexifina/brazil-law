@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VITOR MATEUS DO NASCIMENTO E SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2269594-15.2025.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante, com posterior conversão em preventiva, pela suposta prática de delito descrito no art. 33, caput, da Lei n. 11.343/06.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi denegada.
+Neste writ, alega o impetrante, em síntese, que possui filho menores de 12 anos, devendo ser beneficiado com prisão domiciliar. Alega, ainda, a necessidade de revogação da prisão preventiva pela ausência de fundamentação idônea, para que seja expedido alvará de soltura, a fim de que possa responder ao processo em liberdade ou seja a custódia cautelar substituída por medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto à prisão preventiva do paciente, esta foi decretada sob os seguintes fundamentos:
+" ..  Trata-se, na hipótese, da apreensão de 73 porções de maconha (169,7 g), 92 porções de cocaína (19,2 g), 56 porções de cocaína (19,1 g), 4 porções de lança- perfume (32 ml), e 35 porções de maconha (6,9 g), além de R$ 57,00 em dinheiro.
+Assim, no caso em tela, os elementos até então coligidos apontam a materialidade e indícios de autoria do cometimento do crime de tráfico de drogas, cuja pena privativa de liberdade máxima ultrapassa o patamar de 4 (quatro) anos.
+Nem se pode cogitar, nesta análise preliminar, da aplicação do benefício previsto no artigo 33, § 4º, da Lei nº 11.343/06 - os requisitos necessários para o seu reconhecimento devem ser aferidos durante a instrução processual, pelo Juiz Natural, desde que comprovada a não dedicação a atividades criminosas (requisito cumulativo e que não se confunde com os bons antecedentes). Observo que o autuado foi encontrado com quantidade razoável de três tipos de entorpecentes, mostrando que não se trata de traficante inicial.
+Com efeito, a conduta delitiva do autuado é de acentuada gravidade e lesividade à saúde pública, considerando a apreensão de relevante quantidade de substância entorpecente e ainda de três espécies distintas, sobretudo cocaína, que se trata de entorpecente dotado de extrema lesividade ao usuário, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade. Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer à ordem pública." (e-STJ, fl. 48).
+De acordo com o art. 312 do Código de Processo Penal, a custódia preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+Do excerto acima transcrito, constato que a variedade e a quantidade de drogas apreendidas justificam a custódia cautelar, razão pela qual deve ser mantida. Cito precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE SOCIAL. CIRCUNSTÂNCIAS CONCRETAS DA PRISÃO E RISCO DE REITERAÇÃO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. No caso dos autos, a prisão preventiva do paciente foi decretada para garantia da ordem pública, evidenciada pelas circunstâncias concretas do flagrante, notadamente pela quantidade e variedade da drogas apreendidas. Segundo as decisões anteriores, o paciente foi surpreendido retirando de um buraco localizado no fundo do imóvel cerca de 533 pinos de cocaína, pesando 217,03g, 488 porções de cocaína, pesando 432,67, 640 pedras de crack, pesando 279,45g, 02 pedras de crack, pesando 554,19g, 03 porções de cocaína a granel, pesando 278,7g. Ademais, o paciente é reincidente específico, já tendo inclusive cumprido peNa pela prática de tráfico de drogas.
+Prisão mantida para resguardar a ordem pública. Julgados do STJ.
+4. Agravo regimental desprovido. (AgRg no HC n. 1.019.636/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. QUANTIDADE E VARIEDADE DAS DROGAS. RISCO DE REITERAÇÃO DELITIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva e o risco de reiteração delitiva, diante da quantidade e variedade de drogas e a "vasta ficha criminal" da acusada.
+3. Dadas as apontadas circunstâncias dos fatos e as condições pessoais do réu, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319, ambos do CPP).
+4. Agravo regimental não provido. (AgRg no HC n. 1.004.539/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/9/2025, DJEN de 22/9/2025.)
+Em relação ao pleito de prisão domiciliar, "esta Corte Superior firmou o posicionamento de que, para a concessão do benefício a pai de criança com idade menor de 12 anos, é necessária a comprovação da imprescindibilidade do genitor aos cuidados do infante" (RHC n. 168.278/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/9/2022, DJe de7/10/2022.).
+No caso concreto, o Tribunal de origem afirmou que:
+"Por fim, observa-se que não há nos autos comprovação de que o Paciente seja o único responsável pelos cuidados e sustento de sua prole, sabendo-se que a mera condição de genitor de filho menor de 12 anos não confere direito subjetivo à prisão domiciliar." (e-STJ, fl. 23).
+Nesse contexto, inviável a aplicação da benesse da prisão domiciliar, já que o julgado concluiu que não existia comprovação de que o paciente é o único responsável pelos cuidados com o filho menor de 12 anos.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante por tráfico de drogas e associação para o tráfico.
+2. A atuação policial foi baseada em denúncia anônima seguida de diligências que resultaram na apreensão de mais de 4 kg de maconha.
+Durante a abordagem, o agravante tentou fugir, sendo preso em flagrante.
+3. A prisão preventiva foi fundamentada na tentativa de evasão e na reincidência do agravante em crimes da mesma natureza, indicando sua periculosidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante é legítima, considerando a denúncia anônima e a tentativa de fuga, e se há possibilidade de substituição por prisão domiciliar devido à alegada responsabilidade por filhos menores.
+III. Razões de decidir
+5. A atuação policial foi considerada legítima, pois a denúncia anônima foi seguida de diligências que confirmaram a prática delitiva.
+6. A prisão preventiva foi mantida devido à tentativa de fuga e à reincidência do agravante, demonstrando periculosidade concreta.
+7. O pedido de substituição da prisão por domiciliar foi indeferido por falta de comprovação de que o agravante seja o único responsável por filhos menores, conforme o art. 318, III e V, do CPP.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A prisão preventiva é legítima quando fundamentada em tentativa de fuga e reincidência em crimes da mesma natureza. 2. A substituição por prisão domiciliar requer comprovação da necessidade da presença do genitor nos cuidados com filhos menores, nos termos do art. 318, III e V, do CPP".
+Dispositivos relevantes citados: CPP, art. 318, III e V. Jurisprudência relevante citada: STJ, AgRg no HC 981.505/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025. (AgRg no RHC n. 217.085/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMAS DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. EXPRESSIVA QUANTIDADE DE ENTORPECENTES E ARMAMENTO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PRISÃO DOMICILIAR. INEXISTÊNCIA DE PROVA DA IMPRESCINDIBILIDADE DOS CUIDADOS PATERNOS. MEDIDAS CAUTELARES DIVERSAS. INADEQUAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva constitui medida excepcional, devendo estar fundamentada em elementos concretos que demonstrem a necessidade da custódia para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+2. Na hipótese, a expressiva quantidade de drogas (quase 16kg de cocaína), armas de fogo, munições e valores em espécie apreendidos, aliados a anotações relacionadas ao tráfico, evidenciam a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar.
+3. A reincidência e o histórico criminal do acusado configuram elemento adicional de periculosidade, servindo de fundamento idôneo à manutenção da custódia cautelar para prevenção de reiteração delitiva.
+4. A existência de condições pessoais favoráveis, como residência fixa ou ocupação lícita, não impede a decretação da prisão preventiva quando presentes os requisitos legais.
+5. A prisão domiciliar ao genitor de filhos menores de 12 anos não possui caráter absoluto, sendo indispensável a comprovação da imprescindibilidade dos cuidados paternos, o que não restou demonstrado no caso concreto.
+6. Não se mostra cabível a aplicação de medidas cautelares diversas da prisão quando insuficientes para resguardar a ordem pública, diante da gravidade dos fatos apurados.
+7. Agravo regimental não provido. (AgRg no HC n. 1.012.089/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
