@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão singular de minha lavra na qual, após reconsiderar a decisão agravada, analisei o recurso especial interposto pela Caixa Econômica Federal e, à luz do que decidido pelo Supremo Tribunal Federal no RE 827.996/PR (Tema 1.011), dei provimento ao recurso especial para cassar o acórdão recorrido e determinar o retorno dos autos à origem, a fim de que se examine novamente a competência aplicando-se os parâmetros firmados na repercussão geral (fls. 493-495).
+Fundamentou-se a decisão na tese fixada pelo STF quanto à competência da Justiça Federal e à intervenção da Caixa Econômica Federal e/ou União em demandas relacionadas a apólices públicas do SFH, delimitando hipóteses intertemporais e o deslocamento de competência conforme o estágio processual e a indicação de interesse (fls. 494-495).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que existe "equívoco manifesto" no provimento dos recursos especiais interpostos por CEF e Sul América, com determinação de devolução dos autos à origem para juízo de conformação ao Tema 1.011 (fl. 498).
+Aduz perda superveniente do objeto dos recursos especiais, ante a prolação de sentença de mérito nos autos principais, o que acarretaria ausência de interesse em recorrer (fls. 498-499).
+Defende que a aplicação da tese firmada no RE 827.996/PR foi afastada nos autos do REsp 1.352.192/SP, em embargos de declaração acolhidos, o que configuraria preclusão da matéria de competência (fl. 499).
+Impugnação aos embargos de declaração às fls. 529-532 e 534-535.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+A decisão singular de fls. 490-495 enfrentou de forma clara e suficiente a controvérsia, aplicando diretamente a tese firmada pelo Supremo Tribunal Federal no Tema 1011 (RE 827.996), com a cassação do acórdão recorrido e a determinação de retorno dos autos à origem para novo exame da competência, diante da ausência de elementos fáticos necessários à aplicação imediata do direito à espécie (fls. 491-495). Não se identificam omissão, obscuridade, contradição ou erro material na fundamentação adotada, que é linear e explícita quanto aos parâmetros intertemporais e à possibilidade de intervenção da Caixa Econômica Federal e/ou da União, conforme a repercussão geral reconhecida.
+A alegação de perda superveniente do objeto, fundada na suposta existência de sentença de mérito nos autos principais, não infirma o decidido, pois a própria tese do Tema 1011 distingue as hipóteses com e sem sentença de mérito e, ainda assim, prevê o tratamento processual adequado e a análise da competência à luz da intervenção e do interesse indicado. A decisão embargada, ao determinar o retorno dos autos para exame da competência, já contemplou essa matriz normativa e fática, inexistindo vício do art. 1.022 do Código de Processo Civil.
+Do mesmo modo, a invocada preclusão da matéria de competência, supostamente decorrente de embargos de declaração acolhidos no REsp 1.352.192/SP, não foi objeto de análise na decisão de fls. 490-495 e não afasta a incidência da tese do STF aplicada no caso concreto.
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o novo julgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
