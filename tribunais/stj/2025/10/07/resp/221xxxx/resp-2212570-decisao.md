@@ -1,0 +1,7 @@
+DECISÃO
+Vistos.
+Verifico que pende de análise na instância ordinária a admissibilidade do recurso especial de fls. 167/178e, interposto pela DEFENSORIA PÚBLICA DO ESTADO DO CEARÁ.
+Registro que a decisão de fls. 183/184e limitou-se a determinar a intimação da Recorrente para comprovar a ocorrência de feriado local, inexistindo nos autos prova de sua efetivação.
+Com essas considerações, encaminhem-se os autos à origem para as providências cabíveis, inclusive quanto à verificação acerca da controvérsia acerca do Tema 1255, RE 1412069: "Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes", além do Tema 1076 desta Corte: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Prejudicado o exame das demais questões neste momento processual.
+EMENTA
