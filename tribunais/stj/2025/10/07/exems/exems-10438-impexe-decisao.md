@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de impugnação à execução do acórdão prolatado no Mandado de Segurança 10.438/DF, cuja concessão garantiu aos substituídos a percepção do soldo previsto na Lei Estadual 1.063/2002, acrescido das vantagens estabelecidas pela Lei 10.486/2002.
+Intimada para os fins do art. 535 do CPC, a UNIÃO impugnou. Preliminarmente, requereu a suspensão da execução em razão do ajuizamento da Ação Rescisória n. 7228/DF. No mérito, apontou excesso de execução decorrente de (a) indevida inclusão das exequentes JANETE BATISTA e BARBARA CRISTINA SIMAO DA SILVA, tendo em vista que passaram a ser pensionistas de Elias Antônio da Silva em data posterior ao fim da série histórica da conta; e (b) não abatimento de valores recebidos na rubrica 01294 "pagto exerc ant dec judic ap" em outubro/2014.
+Resposta às fls. 1165-1182 e 1183-1211, pugnando pela rejeição da impugnação.
+Decisão de fls. 1213-1214 indeferiu o pedido de suspensão da execução, deferiu o pedido de dedução de pagamento administrativo efetivamente comprovado nos autos e determinou a expedição de requisição de valor incontroverso. Em atendimento, foram requisitados os valores relacionados à fl. 1224.
+É o relatório. Decido.
+Resolvidas as questões preliminares e expedidas as requisições de valor incontroverso, remanesce o julgamento da impugnação à execução no ponto relativo ao alegado excesso.
+DA INDEVIDA INCLUSÃO DE PENSIONISTAS
+A documentação acostada às fls. 30-41 e 1046-1049 evidencia que o crédito originário, vinculado ao falecido Elias Antônio da Silva (cujas pensionistas seriam JANETE BATISTA e BARBARA CRISTINA SIMAO DA SILVA), refere-se ao período de outubro/2013 a dezembro/2015. Como o de cujus veio a óbito após esse intervalo, em julho/2016 (consoante certidão de óbito de fl. 31), não se trata de crédito de pensão, mas sim de herança.
+Com efeito, na petição inicial da execução as exequentes JANETE BATISTA e BARBARA CRISTINA SIMAO DA SILVA foram relacionadas como herdeiras de Elias Antônio da Silva. A escritura pública de fls. 33-36 corrobora essa informação.
+Dessa forma, por se tratar de crédito de herança (e não de pensão), não merece prosperar a insurgência da UNIÃO no sentido de que houve indevida inclusão de pensionistas.
+Ressalto, porém, que os valores deixados por Elias Antônio da Silva devem ser requisitados em favor do espólio para partilha posterior (art. 3º, § 7º, da IN STJ/GP n. 3/2014, com redação dada pela IN STJ/GP n. 17/2019). Havendo a partilha, a documentação deverá ser apresentada nos autos da requisição que venha a ser expedida, a fim de que a Presidência desta Corte decida acerca do levantamento de valores pelos herdeiros.
+DO ABATIMENTO DE VALOR REFERENTE À RUBRICA 01294
+Do que se observa do parecer técnico de fls. 1114-1115, a UNIÃO se limitou a indicar rubrica que faz referência a pagamentos administrativos decorrentes de exercícios anteriores efetuados em outubro/2014 por força de decisão judicial (código 01294) como valores dedutíveis desta execução. No entanto, não comprovou a origem de tais pagamentos e nem o período a que se referem.
+Assim, a executada não se desincumbiu do ônus de comprovar fato extintivo do direito do autor, nos termos do art. 373, II, do CPC.
+Ante o exposto, julgo improcedente a impugnação à execução oposta pela UNIÃO e homologo o cálculo exequendo.
+Por se tratar de cumprimento de sentença proferida em mandado de segurança coletivo, condeno a UNIÃO em honorários advocatícios de sucumbência escalonados nas faixas previstas no art. 85, § 3º, do CPC, em seus percentuais mínimos, a incidirem sobre o valor do proveito econômico obtido pela parte exequente, entendido este como a diferença entre o valor exequendo e o reconhecido pela executada.
+Elabore-se minuta de requisição de pagamento, com destaque de honorários advocatícios contratuais, se for o caso. Sendo necessária, fica autorizada a abertura de vista pela secretaria para solicitar documentação adicional.
+Na sequência, intimem-se as partes e o MPF acerca do inteiro teor do requisitório a ser expedido, nos termos do art. 7º, § 6º, da Resolução CNJ n. 303/2019, no prazo comum de 5 (cinco) dias. Não havendo manifestação ou indicação de erro material ou outra inconsistência, remeta-se a requisição para assinatura e posterior apresentação ao Presidente desta Corte.
+Retifique-se a autuação para (a) incluir o ESPÓLIO de ELIAS ANTÔNIO DA SILVA como exequente, representado por JANETE BATISTA e BARBARA CRISTINA SIMAO DA SILVA, herdeiras.
+Publique-se. Intimem-se.
+EMENTA
