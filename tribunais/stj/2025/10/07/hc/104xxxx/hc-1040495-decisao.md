@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de WASHINGTON GOMES DOS RAMOS, preso preventivamente e pronunciado pela prática de homicídio qualificado (art. 121, § 2º, II e IV, do Código Penal), nos Autos n. 0003487-29.2020.8.17.0001, da 1ª Vara do Tribunal do Júri da comarca da Capital/PE (fls. 40/43).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco, que, em 24/9/2025, denegou a ordem do HC n. 0017268-14.2025.8.17.9000 (fls. 12/19).
+Alega constrangimento ilegal por excesso de prazo, pois o paciente está preso desde 27/7/2023, há cerca de dois anos, sendo o único corréu em prisão preventiva, sem contribuição da defesa para a demora, atribuída a entraves burocráticos, como ausência e inserção intempestiva de mídias audiovisuais que exigiram repetição de atos (fls. 2/3).
+Em caráter liminar, pede a imediata soltura do paciente, com expedição de alvará de soltura; e, no mérito, requer o relaxamento da prisão preventiva por excesso de prazo.
+É o relatório.
+O writ não comporta seguimento.
+Acerca do excesso de prazo, disse o Tribunal de Justiça que o paciente foi pronunciado em 23/7/2025, o que supera a tese de constrangimento ilegal, conforme a Súmula 21/STJ (fl. 15).
+Nesse diapasão, ressai a aplicação do enunciado n. 52 da Súmula desta Corte, o qual dispõe que encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo. Ademais, não há negar que também incide ao caso o disposto na Súmula 21 desta Corte Superior, segundo a qual pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução (AgRg no RHC n. 214.690/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/6/2025).
+Por fim, a Corte pernambucana disse, ainda, que a prisão preventiva do Paciente foi reavaliada e mantida em 23/7/2025, quando da decisão de pronúncia, destacando a juíza singular que "o acusado WASHINGTON GOMES DOS RAMOS já responde a outros processos criminais pela prática de delitos graves, o que demonstra uma propensão à prática de crimes. O Ministério Público apontou em suas alegações a existência de seu histórico criminal que inclui processos por tráfico de drogas e outros crimes, mencionando os processos n. 0003747-09.2020.8.17.0001, n. 0009585-64.2019.8.17.0001, n. 0004183-95.2023.8.17.5001 e n. 0083509-83.2023.8.17.2001. Esta circunstância, somada à evasão da justiça anteriormente verificada, que foi a base inicial da decretação da prisão preventiva para assegurar a aplicação da lei penal, reforça a periculosidade social concreta do denunciado e o risco de reiteração delitiva (fls. 16/17 - grifo nosso).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO SUPERADO PELA PRONÚNCIA E PELO ENCERRAMENTO DA INSTRUÇÃO. SÚMULA 52/STJ. SÚMULA 21/STJ. REAVALIAÇÃO E MANUTENÇÃO DA PRISÃO PREVENTIVA NA PRONÚNCIA. ANTECEDENTES E PROCESSOS EM CURSO. EVASÃO DA JUSTIÇA. APLICAÇÃO DA LEI PENAL. PERICULOSIDADE. RISCO DE REITERAÇÃO DELITIVA.
+Petição inicial indeferida liminarmente.
