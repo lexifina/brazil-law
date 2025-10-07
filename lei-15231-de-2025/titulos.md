@@ -1,0 +1,1 @@
+Altera as Leis nºs 13.819, de 26 de abril de 2019, e 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para dispor sobre a notificação ao Conselho Tutelar, pelos estabelecimentos de ensino, dos casos de violência neles ocorridos, especialmente automutilação e suicídio.
