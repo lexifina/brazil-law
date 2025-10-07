@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por GUSTAVO DAMIAO DA SILVA à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  a r. decisão embargada incorreu em contradição e omissão ao assentar que a decisão de inadmissibilidade do Tribunal de Justiça de São Paulo (fls. 304/306) estaria fundamentada na Súmula 83/STJ e que o Agravo não a teria impugnado.
+Ocorre que a Súmula 83/STJ jamais foi utilizada como fundamento pela Corte de origem para inadmitir o Recurso Especial.
+Conforme se verifica da decisão de inadmissibilidade (fls. 304/306) e do próprio Agravo em Recurso Especial interposto (fls. 325-338), os únicos óbices aplicados pelo TJSP foram a Súmula 283 do STF e a Súmula 7 do STJ. Ambos os fundamentos foram devidamente impugnados na petição de agravo.
+A contradição, portanto, é manifesta: a decisão embargada cria um fundamento inexistente na decisão recorrida (Súmula 83/STJ) para, em seguida, afirmar que o recorrente não o atacou. Trata-se de uma clara contradição entre a fundamentação do acórdão e a realidade dos autos.
+Ademais, a decisão é omissa, pois deixa de analisar o agravo com base nos fundamentos efetivamente utilizados pelo tribunal a quo, julgando o recurso com base em uma premissa fática equivocada.
+ ..
+ ..  A conclusão pelo não conhecimento do agravo só foi possível porque a decisão embargada partiu da premissa equivocada de que a Súmula 83/STJ era um dos fundamentos a ser rebatido.
+Sanado o erro, a conclusão lógica é a de que o agravo deve ser conhecido, pois impugnou todos os fundamentos efetivamente constantes na decisão de inadmissibilidade.(fls. 364/5).
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, Súmula 7/STJ e Súmula 83/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no Recurso Especial, de que maneira a análise não dependeria do reexame de provas". (AgRg no AREsp n. 1.677.886/MS, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 3.6.2020).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à Súmula 7/STJ (condenação solidária da União e do Estado da Bahia). Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.907.380/BA, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe de 14.10.2021)
+No que diz respeito ao óbice da Súmula 83/STJ, foi aplicado como obstativo da admissibilidade do REsp na decisão de fls. 302/3, nos termos:
+Nessa conformidade, a posição lançada pelo Superior Tribunal de Justiça espanca, no caso concreto, a interpretação sustentada no recurso. Com efeito, ao Superior Tribunal de Justiça, criado pela Constituição de 1988, coube matéria vital, qual seja, a de ser o guardião da inteireza do sistema jurídico federal não-constitucional, assegurando-lhe validade e bem assim, uniformidade de entendimento. A função do recurso especial é uma exigência síntese do Estado Federal em que vivemos. Diante da circunstância de termos três Poderes Políticos, a União, os Estados-membros e o Município, e de se constituir a legislação federal na mais importante, necessário é que exista um tribunal para fixar, com atributos de alta qualificação, o entendimento da lei federal. É uma Corte de Justiça que proferirá, dentro do âmbito das questões federais legais, decisões paradigmáticas, que orientarão a jurisprudência do país e a compreensão do Direito federal.
+Assim, se o Superior Tribunal de Justiça assegura a uniformidade de entendimento do sistema jurídico federal não constitucional, como dito, inteira aplicação tem a Súmula nº 83 para o não recebimento do inconformismo: Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no sentido da decisão recorrida. Vale dizer, os paradigmas do Superior Tribunal de Justiça sobre o tema autorizam, adotando-se a sua Súmula nº 83, o afastamento do recurso interposto.
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
