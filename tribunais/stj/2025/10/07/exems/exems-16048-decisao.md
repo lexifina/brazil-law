@@ -1,0 +1,9 @@
+DECISÃO
+Conforme decisão de fls. 1788-1793, determinou-se a suspensão do feito em relação ao exequente VICENTE DE PAULO SOUZA, diante da constatação de seu falecimento em 28/06/2021, bem como a intimação do espólio para regularização do polo ativo.
+Certificado o decurso de prazo sem resposta (fl. 1819), foi determinada pela segunda vez a intimação, desta vez de modo pessoal, abrangendo tanto CORALI DIAS SOUZA (viúva do exequente acima indicado) como o advogado por ele constituído nos autos (Dr. Alexandre Ribeiro Bezerra), para habilitação do espólio ou dos herdeiros/sucessores, sob pena de extinção do feito (fls. 1839-1840).
+As intimações foram efetivadas por carta e recebidas nos endereços diligenciados (fls. 1866-1867 e 1869-1870), em dezembro/2024, tendo sido certificado o decurso do prazo assinalado (certidão de fls. 1973).
+Observo, ainda, que a União informou, nesse diapasão, a anulação da anistia anteriormente concedida ao exequente, situação que, contudo, não será objeto de análise em razão da prejudicialidade decorrente da ausência de regularização do polo ativo, acima descrita.
+Registro que a petição de fls. 1976-1991, pela qual o advogado do exequente original (falecido) menciona não estar conseguindo contato ou a localização dos sucessores não altera o fato de que houve intimação pessoal da parte a respeito da necessidade de regularização da legitimação ativa e o decurso do prazo de suspensão sem apresentação, pela parte interessada, de motivo justo para prorrogação do prazo. Da mesma forma, a existência de recurso interposto em demanda autônoma, em que a cônjuge sobrevivente figura como parte, igualmente não modifica a situação de que a legitimação ativa nestes autos não se encontra regular, apesar das oportunidades concedidas para o devido saneamento.
+Diante do exposto, julgo extinto o feito, em relação ao exequente VICENTE DE PAULO SOUZA, nos termos do art. 485, IV, do CPC.
+Em relação ao prosseguimento do feito,
+EMENTA
