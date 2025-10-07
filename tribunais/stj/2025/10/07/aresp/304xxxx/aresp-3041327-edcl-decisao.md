@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CRISTIAN GOMES MACHADO à decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  merece reparos a decisão, para fins de sanar OMISSÃO quanto aos fundamentos lançados pela defesa técnica capaz, em tese, de infirmar o entendimento adotado na decisão objurgada, ou seja, diante do não enfrentamento específico dos fundamentos lançados no tópico 3.2 do AR Esp (fls. 242-267).(fl. 287)
+ ..  a controvérsia diz respeito a hipótese do óbice sumular nº 83 do STJ, segundo o qual: " Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida ". A este respeito, Vossa Excelência fundamentou que (fls.281-282):
+ ..
+Percebe-se que os fundamentos da decisão atacada são absolutamente genéricos in casu, havendo uma simples indicação e reprodução do ato normativo (Sumula 83/STJ, art. 932, III do CPC, art. 253, P. Único, inc. I do RISTJ), pois, deixaram de esclarecer em que consistia a conclusão adotada (regra do inciso I do §1º do art. 489 do CPC), assim como deixou, a decisão, de atacar os fundamentos suscitados pela defesa técnica, no tópico 3.2 do ARESP (fls. 242-267 - pag. 23 e seguintes do documento):(fls. 289/90)
+Anoto que o debate trazido pela defesa, não foi devidamente enfrentado por Vossa Excelência, de modo a incorrer em violação expressa aos incisos IV e VI do §1º do art. 489 do NCPC, isto porque não tendo enfrentado tais fundamentos, por esta razão a OMISSÃO aqui apontada, igualmente deixou de demonstrar os motivos pelos quais não era possível seguir os entendimentos invocados pelo ora embargante, fato que torna a decisão NULA por ausência de fundamentação (idônea e concreta).(fl. 291)
+ ..  com a devida vênia ao entendimento proferido por Vossa Excelência, NÃO SE ESTÁ AQUI A REDISCUTIR O MÉRITO recursal, ou a intentar a reforma da decisão de inadmissibilidade (grosso modo). O debate atinge tão somente o alegado óbice sumular nº 83 do STJ, assim, o que se pretende é o enfrentamento das questões levantadas no tópico 3.2 do ARESP (fls. 242-267 - pag. 23 e seguintes do documento), no sentido de que seja prequestionada a matéria para efeitos recursais.(fl. 292).
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, Súmula 83/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Nenhuma das alegações lançadas no agravo em recurso especial constitui impugnação específica para fins de rebatimento da Súmula n. 83 do STJ, que, segundo entendimento desta Corte Superior, exige a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial foi superado pela jurisprudência do STJ, ou que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula n. 83 do STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N.º 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o fundamento da decisão agravada, relativo à incidência, na hipótese dos autos, da Súmula n.º 83/STJ.
+2. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, no qual a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+3. O comando contido na Súmula n.º 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.433.473/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 5.6.2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO.
+1. Em que pese ao agravante ter sustentado a inaplicabilidade da Súmula 83/STJ por se tratar de recurso amparado na alínea "a" do permissivo constitucional, a fundamentação expendida não foi apta a cumprir o requisito da dialeticidade.
+2. Cabia ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes.
+3. O óbice contido na Súmula 83/STJ também se aplica aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 827.751/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14.5.2019.)
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
