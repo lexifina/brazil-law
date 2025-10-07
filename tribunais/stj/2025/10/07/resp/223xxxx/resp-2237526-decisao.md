@@ -1,0 +1,7 @@
+DECISÃO
+Vistos.
+Trata-se de Agravos nos próprios autos contra a decisão que inadmitiu os Recursos Especiais.
+Verifico a presença dos pressupostos de admissibilidade dos Agravos e, face às circ unstâncias que envolvem a lide e à necessidade de melhor exame do objeto dos Recursos Especiais, de rigor a reautuação.
+Posto isso, CONHEÇO dos Agravos e determino a CONVERSÃO deles em Recursos Especiais, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+Publique-se e intimem-se.
+EMENTA
