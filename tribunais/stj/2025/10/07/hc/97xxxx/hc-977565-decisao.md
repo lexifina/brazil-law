@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CRISTIANO APARECIDO DE SOUZA CACHOLI, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que denegou a ordem em mandamus prévio, nos termos do acórdão assim ementado:
+"PENAL - PROCESSO PENAL EXECUÇÃO PENAL - HABEAS CORPUS EXCESSO DE PRAZO - CONCLUSÃO DA SINDICÂNCIA - REMIÇÃO - ANÁLISE. Não há que se falar em excesso de prazo na conclusão da Sindicância, quando o Juízo apontado como coator não está agindo com desídia, até mesmo porque, eventual morosidade do Procedimento Administrativo seria de seu responsável na Unidade Prisional. Ademais, compulsando os autos de origem, verifica-se que a suposta falta grave teria ocorrido por agressão entre o Paciente e outro sentenciado, os quais deverão ser ouvidos, assim como eventuais testemunhas ou, ainda, a produção de outros meios de provas, o que justifica a não conclusão até a presente data, logo, não há constrangimento ilegal a ser reparado, devendo o Paciente aguardar a vinda da Sindicância para ter seu pedido de remição analisado, pois nada justifica a determinação neste momento ou, até mesmo pedido de Informações sobre a conclusão. ORDEM DENEGADA." (e-STJ, fl. 14).
+Neste writ, o impetrante alega constrangimento ilegal sofrido pelo paciente, em decorrência do excesso de prazo na análise de seu pedido de remição de pena.
+Assevera que o requerimento foi feito após a comunicação da unidade prisional da ocorrência de suposta infração disciplinar em 3/10/2024, todavia, até o ajuizamento desta ação, o pleito não foi apreciado, em razão de não ter sido concluída o procedimento administrativo disciplinar.
+Afirma, ainda, que o direito de liberdade do sentenciado se encontra cerceado, visto que se encontra "impedido de ter seu pedido de remição apreciado ou poder retornar ao seu labor e estudos no interior da unidade prisional, em razão de um procedimento iniciado e não finalizado, bem como da inércia estatal em não movimentar os autos e cobrar a unidade providências no sentido de resguardar o princípio da razoabilidade do processo." (e-STJ, fls. 6-7).
+Requer, ao final, que se determine ao Juízo de primeiro grau a imediata apreciação do pedido de remição de penas, bem como o encerramento do PAD e retomada do processo de execução.
+A liminar foi indeferida.
+Prestadas as informações, os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+De acordo com o andamento do processo n. 0006696-53.2022.8.26.0496, retirado da página eletrônica do TJSP, foram remidas as penas do paciente em 29/5/2025. Na mesma data, foi proferida decisão homologatória da falta disciplinar, sendo manifestas, portanto, a superveniente ausência do interesse de agir e a consequente perda do objeto deste habeas corpus devido à substancial alteração da situação fático-processual do paciente.
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
