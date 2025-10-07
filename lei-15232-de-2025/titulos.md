@@ -1,0 +1,1 @@
+Altera a Lei nº 13.819, de 26 de abril de 2019, que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para prever ações direcionadas às pessoas psicossocialmente mais vulneráveis ou com maiores riscos de desenvolvimento de doenças ou transtornos mentais que aumentem o risco de violência autoprovocada, como automutilação e suicídio.
