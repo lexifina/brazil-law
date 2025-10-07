@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo interno interposto por NUTRIÇÃO REFEIÇÕES INDUSTRIAIS LTDA agrava contra a decisão que não conheceu do agravo, em razão da incidência da Súmula 182/STJ.
+Argumenta a parte agravante que impugnou de modo adequado e específico o óbice da Súmula 7/STJ e de ofensa ao art. 1.022 do CPC. Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Foi apresentada impugnação.
+É o relatório.
+Passo a decidir.
+Exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC/2015e art. 259 do RISTJ e, considerando os relevantes argumentos suscitados pela parte agravante, reconsidero a decisão agravada e passo a novo exame do agravo em recurso especial.
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto contra o acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE ANULAÇÃO DE ATO ADMINISTRATIVO - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEITADA - CONTRATO ADMINISTRATIVO - FORNECIMENTO DE ALIMENTAÇÃO PARA PRESÍDIO - IRREGULARIDADE NA EXECUÇÃO DO CONTRATO - PROCESSO ADMINISTRATIVO PUNITIVO - AMPLA DEFESA E CONTRADITÓRIO - OBSERVADOS - DECISÃO MOTIVADA - NULIDADES - INEXISTÊNCIA - MULTA - REDUÇÃO - DESNECESSIDADE - SENTENÇA MANTIDA.
+Na sistemática do Código de Processo Civil, o juiz é um dos destinatários da prova e, por isso, possui ele poderes para determinar a realização das provas que entender necessárias, assim como para indeferir as que considerar inúteis ou meramente protelatórias.
+O controle judicial dos processos administrativos deve se limitar ao exame da legalidade dos atos nele praticados, vedado ao poder Judiciário ir além dessa análise, sob pena de ofensa ao princípio da separação dos poderes. In casu, restringindo-se à essa análise, verifica- se a inexistência de irregularidade, sobretudo porque foram observados no processo administrativo os princípios do contraditório e da ampla defesa.
+Tendo sido demonstrado que a multa foi aplicada em percentual adequado e proporcional, bem como amparada nas previsões contidas no instrumento contratual e na legislação aplicável, mostra-se desnecessária qualquer alteração. Preliminar rejeitada. Recurso não provido (fl. 906).
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte agravante alegou violação dos arts. 1º, 7º e 373, § 1º e 1.022 do CPC, alegando, além de negativa de prestação jurisdicional, que ocorreu cerceamento de defesa pelo indeferimento de prova oral, em controvérsia eminentemente fática, seguido de julgamento desfavorável por ausência de prova
+Foi apresentada contraminuta.
+É o relatório.
+Passo a decidir.
+De início, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+No mérito, o Tribunal de origem asseverou a regularidade do indeferimento fundamentado da prova oral por se tratar de matéria a ser comprovada documentalmente, afastando cerceamento quando as provas são inúteis ou desnecessárias , nos seguintes termos:
+Verifica-se, portanto, que o juiz é o destinatário da prova e possui a prerrogativa legal (art. 370 do CPC) de dispensar as diligências que entender inúteis ao processo ou meramente protelatórias, desde que o ato seja motivado, sem, com isso, inquinar o feito de nulidade por cerceamento de defesa.
+No caso dos autos, verifica-se que em sede de especificação de provas, a autora pleiteou a produção da prova documental e prova oral, objetivando "em ambos os casos, provar a narrativa fática constante da exordial, qual seja, de que o preposto da peticionária, Milton Rogério da Silva, não tem qualquer culpa em relação aos fatos concernentes à ocultação de materiais ilícitos nas refeições dos presidiários; bem como que a multa fixada em 10% sobre o valor geral do contrato extrapola os parâmetros da razoabilidade, acarretando graves prejuízos econômicos à peticionária, pois sua margem de lucro é inferior à mencionada porcentagem".
+Por sua vez, a d. Magistrada de origem indeferiu o pedido de produção de prova oral, ressaltando que "a produção da prova testemunhal requerida não se mostra necessária para a solução da lide, haja vista que se trata de matéria a ser comprovada documentalmente e, ademais, predominantemente de direito".
+Verifica-se, portanto, que o Juízo de origem, de forma fundamentada, indeferiu o pedido, destacando que se trata de matéria a ser comprovada documentalmente, bem como predominantemente de direito.
+De fato, da análise da justificativa apresentada pela parte autora conclui-se pela desnecessidade da prova testemunhal pleiteada, uma vez que as alegações são passíveis de comprovação pela prova documental deferida.
+Dessa forma, considerando que o indeferimento da produção da prova testemunhal pleiteada se deu de forma fundamentada, bem como que se trata de matéria de direito, não há que se falar em cerceamento de defesa.
+Nesse contexto, a alteração da referida conclusão do Tribunal a quo, acerca da comprovação das alegações do autor, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, reconsidero a decisão de fls. 1.037-1.038. Por conseguinte, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
