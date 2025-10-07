@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo BANCO DO BRASIL S.A. contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (fls. 731-732):
+DIREITO CIVIL E PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LEVANTAMENTO DE VALORES REFERENTES AO PASEP DEPOSITADOS EM CONTA VINCULADA A PARTE AUTORA.
+APELO TEMPESTIVO. IMPUGNAÇÃO À GRATUIDADE DE JUSTIÇA EM CONTRARRAZÕES. GENÉRICA. FALTA DE ELEMENTOS. MANUTENÇÃO DO BENEFÍCIO. OFENSA AO PRINCÍPIO DA DIALETICIDADE AFASTADA. NECESSIDADE DE PERÍCIA CONTÁBIL. REQUERIMENTO EXPRESSO E OPORTUNO PARA REALIZAÇÃO DE INSTRUÇÃO PROBATÓRIA. EXISTÊNCIA DE MATÉRIA FÁTICA CONTROVERTIDA. DILAÇÃO PROBATÓRIA NECESSÁRIA, APTA A INFLUENCIAR NA SOLUÇÃO DO LITÍGIO. COOPERAÇÃO DO JUIZ. NULIDADE DA SENTENÇA, COM O CONSEQUENTE RETORNO DOS AUTOS À INFERIOR INSTÂNCIA, A FIM DE SE PROCEDER À NECESSÁRIA PROVA PERICIAL. PRECEDENTE DESTA CORTE DE JUSTIÇA. SENTENÇA DESCONSTITUÍDA DE OFÍCIO.
+RECURSO PREJUDICADO.
+DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados (fls. 754-755):
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CIVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - PASEP - ANULAÇÃO DE OFÍCIO DA SENTENÇA - NECESSIDADE DE PERÍCIA - ANÁLISE DA ILEGITIMIDADE DO BANCO DO BRASIL E DA INCLUSÃO DA UNIÃO NA LIDE - IMPOSSIBILIDADE - MATÉRIAS QUE NÃO FORAM DEVIDAMENTE ANALISADAS PELO JUÍZO "A QUO", RESTA DEFESO AO JUÍZO "AD QUEM" PROMOVER ESTA ANÁLISE, SOB PENA DE INCORRER EM SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL - EMBARGOS REJEITADOS.
+A interposição de Embargos de Declaração somente se justifica quando a decisão recorrida estiver maculada por obscuridade, omissão, contradição ou contiver erro material, conforme inteligência do art. 1022, do CPC.
+Se os argumentos do embargante trazem questões não abordadas na origem, não são os embargos de declaração via adequada para esses fins.
+Os pedidos ainda não analisados na primeira instância, não poderão ser examinados neste Tribunal, sob pena de supressão de instância e violação ao duplo grau de jurisdição, ainda que se trate de matéria de ordem pública.
+RECURSO CONHECIDO E DESPROVIDO.
+Em  seu  recurso  especial  de  fls.  760-780, a parte  recorrente sustenta  violação  do art. 1.022, II, do CPC, sob o argumento de que o Tribunal de origem deixou de se manifestar sobre os arts. 370 e 371 do CPC.
+Quanto à questão de fundo, alega, além de divergência jurisprudencial, afronta aos arts. 370, 371 e 373, I, do CPC, por entender que a presunção de veracidade, legalidade e legitimidade dos atos perpetrados foi efetivamente comprovada no caso dos autos exatamente porque o Juízo sentenciou o feito antecipadamente ante a ausência de insurgência das partes quanto a necessidade de produção de eventuais provas. Acrescenta que se revela legítimo o julgamento pela improcedência da ação sem a perícia, porquanto prescindível sua elaboração para o deslinde da controvérsia.
+Contrarrazões às fls. 843-858.
+O Tribunal de origem não admitiu o recurso especial sob o fundamento de que, quanto à ofensa ao 1.022 CPC, se o acórdão fustigado se encontra suficientemente fundamentado, não há violação ao art. 1.022, do CPC, tornando-se dispensável a manifestação expressa sobre todos os argumentos apresentados pelas partes. Quanto à questão de fundo, aplicou a Súmula 7/STJ (fls. 998-1014).
+Em  seu  agravo,  às  fls.  998-1014,  a parte  agravante  afirma que, ao contrário do que constou da decisão agravada, "..resta configurada a ofensa ao artigo 1.022 do Código de Processo Civil, devendo ser exercido o Juízo de retratação para reforma do ato judicial..". Afirma, ainda, que não incide a Súmula 7/STJ ao vertente caso, pois "o que é objeto da Via Especial é a aplicação da norma legal ao caso, pois o ônus incumbindo ao Agravante gera a prova diabólica, imputando a prova negativa do direito pleiteado, tornando o exercício do direito de defesa do Agravante excessivamente difícil. Nesse mesmo sentido, a perícia não se mostra necessária, tendo em vista quer restou demonstrada a regularidade do saldo".
+Contraminuta às fls. 1069-1086.
+É  o  relatório.
+A irresignação não merece prosperar.
+De início, saliento que a parte agravante rebateu os fundamentos de inadmissibilidade lançados pela Corte de origem, razão pela qual conheço do recurso.
+Passo à análise do mérito recursal.
+Em REsp (fls. 760-780), a parte recorrente alega que a Corte a quo não enfrentou especificamente a questão da incidência dos arts 370 e 371 do CPC, que tratam sobre questões atinentes a provas no processo civil.
+No entanto, ao analisar as decisões proferidas na origem, verifico que não há violação dos artigos de lei indicados pela parte insurgente pois o Tribunal local dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada. Na hipótese dos autos, o Sodalício estadual, ao analisar os aclaratórios, manifestou-se nos seguintes termos (fl. 758):
+(..)
+Na espécie, do cotejo detido da decisão recorrida, verifica-se que não estão presentes as omissões apontadas, pretendendo o embargante a análise de matéria não discutida na sentença, o que é incabível nos presentes aclaratórios, sob pena de supressão de instância.
+Ademais, analisando o acórdão impugnado, observo que o referido decisum anulou, de ofício, a sentença combatida, determinando o retorno dos autos à origem para fins de retomar sua marcha processual, oportunidade em que o magistrado a quo deverá analisar as questões suscitadas nos presentes aclaratórios, quais sejam, ilegitimidade do Banco do Brasil e necessidade de inclusão da União na lide.
+(..)
+Nota-se que, na hipótese, a Corte de origem emitiu pronunciamento claro e fundamentado, deixando consignado que, em verdade, a parte embargante pretendia a análise de matéria não discutida na sentença, o que seria incabível, sob pena de supressão de instância.
+Importante esclarecer, ainda, que o Tribunal local, ao analisar o recurso de apelação, afirmou que as "..provas acostadas não se apresentam suficientes ao julgamento antecipado do mérito, sendo necessária uma dilação probatória para se reconhecer se houve ou não incorreções no saldo da conta PASEP de titularidade da parte autora e se há responsabilidade civil do Banco do Brasil pela falha na administração dos valores questionados" (fl. 735).
+Sendo assim, diante dos fundamentos suso colacionados, não se pode afirmar que há vícios de fundamentação no aresto que, embora em desconformidade com os interesses da parte recorrente, desata a questão jurídica posta em juízo, circunstância que não revela nenhuma irregularidade no julgamento a quo.
+Em relação aventada ofensa aos arts. 370, 371 e 373, I, do CPC, o recorrente manifesta sua discordância quanto ao entendimento da Corte de origem que reputou imprescindível a produção de prova pericial. Salienta que a perícia não seria necessária pois já havia sido esclarecida a legalidade das cobranças realizadas.
+No entanto, se o magistrado, enquanto destinatário da prova, entendeu que a produção da prova pericial era necessária, descabe a esta Corte Superior dizer o contrário, pois, para isso, seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA PARTE AGRAVADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Conforme entendimento desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15 sem incursão no conjunto probatório dos presentes autos. Incidência da Súmula 7/STJ.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.681.209/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. PRINCÍPIO DA FUNGIBILIDADE. ARTS. 333, I, E 334, III, DO CPC/1973. ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. ARTS. 135, III, 174, DO CTN; E ART. 193 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+(..)
+3. "Acrescente-se que a jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame (REsp n. 1.602.794/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2017, DJe de 30/6/2017).
+(..)
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.164.566/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 3/9/2024, DJe de 9/9/2024.)
+Ante o exposto, com fundamento nos arts. 932, IV, do CPC, c/c 253, parágrafo único, II, do Regimento Interno desta Corte, conheço do agravo para conhecer em parte do recurso especial e, nesta parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagante s que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. MERO INCONFORMISMO COM O JULGADO PROFERIDO NA ORIGEM. QUESTÃO DE FUNDO. ALEGADA VIOLAÇÃO DOS ARTS. 370, 371 E 373, I, DO CPC. NECESSIDADE DE REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RESP E, NESTA PARTE, NEGAR-LHE PROVIMENTO .
