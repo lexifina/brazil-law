@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, embargos de declaração opostos por TORRENT DO BRASIL LTDA contra decisão que não conheceu do pedido formulado em petição apresentada pela embargante, em que requereu a homologação de pedido de desistência parcial de execução de título judicial.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que "apenas realizou requerimento perante este Poder Judiciário, para que seja viabilizado a habilitação e posteriormente, a compensação dos valores reconhecidos no presente processo, conforme exigências realizadas pela Receita Federal do Brasil, nos termos do artigo 100, inciso III, § 1º da IN RFB nº 1.717/2017" (fl. 621).
+Reitera que "apenas requereu a homologação do pedido de desistência do seu direito em executar as verbas pagas indevidamente a título de contribuição previdenciária e de Terceiros perante - e reconhecidas neste processo - pela via judicial, viabilizando o direito pela VIA ADMINISTRATIVA" (fl. 621).
+Destaca que, "para que a ora Embargante possa se valer da habilitação dos valores reconhecidos como indevidamente pagos neste processo perante a RFB, deve cumprir os requisitos dispostos no artigo 100, inciso III, § 1º da IN RFB nº 1.717/2017" (fl. 621).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou que "o recurso especial e o correspondente agravo em recurso especial se originam de mandado de segurança impetrado pela parte ora requerente" (fl. 605) e que "estes autos não noticiam qualquer providência relacionada à suposta "execução do título judicial", isto é, não se constata o ajuizamento de execução nestes autos" (fl. 605), de modo que "não se mostra possível à requerente formular pedido de desistência em relação à pretensão inexistente nestes autos" (fl. 605).
+Para a certeza das coisas, "impõe-se explicitar a desnecessidade da empresa comprovar a desistência da execução do título judicial para habilitar os seus créditos na esfera administrativa fiscal, porquanto ausente execução ajuizada" (EDcl no AgRg nos EDcl no REsp n. 1.257.465/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/10/2015, DJe de 11/11/2015).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
