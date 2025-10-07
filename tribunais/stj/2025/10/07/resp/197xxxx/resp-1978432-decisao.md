@@ -1,0 +1,9 @@
+DECISÃO
+Em análise do recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, quanto à controvérsia devolvida ao conhecimento desta Corte Superior, verifico que a Primeira Seção do STJ firmou a seguinte tese no Tema 1.361/STF: "O trânsito em julgado de decisão de mérito com previsão de índice específico de juros ou de correção monetária não impede a incidência de legislação ou entendimento jurisprudencial do STF supervenientes, nos termos do Tema 1.170/RG".
+Nesse contexto, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, sejam observados o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, a presente decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC, sendo que não será conhecido o eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
+Intimem-se.
+EMENTA
