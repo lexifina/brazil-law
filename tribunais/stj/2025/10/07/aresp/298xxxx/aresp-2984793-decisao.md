@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, com fundamento na incidência  da Súmula  7/STJ.
+Em suas razões recursais, a parte agravante sustenta que houve a violação ao art. 373, I, do CPC e aos arts. 186 e 927 do Código Civil, por ausência de prova individualizada dos fatos e dos danos e pela inexistência de nexo causal e culpa, defendendo que a responsabilidade por omissão é subjetiva e que eventos como rompimentos de rede e picos de consumo configuram fortuito externo.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+No que concerne à responsabilidade pela falha na prestação do serviço de água potável e à condenação ao pagamento de indenização por dano moral, o Tribunal local consignou o seguinte:
+In casu, tenho que a parte autora logrou êxito em demonstrar que houve a interrupção no abastecimento da água por período superior a 10 dias e, posteriormente, o retorno do fornecimento de água imprópria para consumo, com a juntada aos autos de vídeos com o intuito de demonstrar a precariedade da prestação de serviço de fornecimento de água, que chega à residência com cor leitosa e de forma espaçada, correspondendo ao alegado.
+Cumpre ressaltar que a parte demandada limitou-se a negar o dano, sustentando ser inverídica a falta de abastecimento de água. Ainda, suscitou a excludente de caso fortuito ou força maior a fim de eximir-se da responsabilidade, o que se mostra contraditório à negativa de falta de abastecimento.
+ ..
+Destarte, tenho que resta caracterizada a falha no serviço, uma vez que a interrupção do serviço se deu em mais de uma oportunidade, ainda que em lapso inferior ao apontado, posto que é dever da concessionária prestar serviço de forma contínua. Assim, não demonstrada qualquer excludente de responsabilidade, resta caracterizado o nexo causal entre a conduta omissiva da concessionaria ré e o dano sofrido pela parte autora.
+Inobstante a parte autora não ter logrado êxito em demonstrar ter sofrido o desabastecimento de água por mais de 10 dias ininterruptos e sim por diversas oportunidades espaçadas, tenho que é presumível o transtorno sofrido.
+Ainda, sabe-se que o fornecimento de água e luz constituem serviços essenciais à materialização do direito constitucional à moradia e à proteção da dignidade da pessoa humana, integrando o denominado mínimo existencial.
+ ..
+Estabelecido o dever de indenizar, passo ao exame do quantum indenizatório.
+A quantificação da indenização deve passar pela análise das circunstâncias relacionadas à gravidade do fato e suas consequências para o ofendido, ao grau de reprovabilidade da conduta ilícita e, principalmente, no caso concreto, às condições econômicas dos litigantes.
+Cumpre ressaltar que, no caso em comento, inexiste prova inequívoca de que o desabastecimento ocorreu cotidianamente por longo tempo, fato que deve ser sopesado quando da fixação do quantum indenizatório.
+Considerando as premissas acima especificadas, a indenização deve ser arbitrada em R$ 10.000,00 (dez mil reais) para a unidade consumidora, valor comumente fixados por esta Corte em situações análogas (fls. 282-284).
+Assim, para alterar a alteração da conclusão do Tribunal de origem, seria necessário o reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 deste STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OFENSA AOS ART. 373, I, DO CPC E 14 DO CDC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. RESPONSABILIDADE DA CONCESSIONÁRIA E CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. AGRAVO INTERNO DESPROVIDO
+1. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração da parte recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+2. Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da responsabilidade da concessionária e da configuração do dano moral, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+3. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 do STF e 211 do STJ, não sendo o caso de prequestionamento implícito.
+4. De acordo com a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no apelo excepcional interposto pela parte insurgente.
+5. Agravo interno desprovido (AgInt no AREsp n. 2.729.583/MA, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 9/4/2025, DJEN de 15/4/2025).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
