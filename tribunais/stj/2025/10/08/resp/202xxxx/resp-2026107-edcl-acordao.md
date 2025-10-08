@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, para negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina (Presidente) e Regina Helena Costa votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. RESPONSABILIDADE DE TERCEIRO. ÔNUS PROBATÓRIO DA FAZENDA. CONTRADIÇÃO. EFEITOS INFRINGENTES.
+1. Cabe à Fazenda Nacional demonstrar, previamente, ao redirecionamento da execução fiscal a ocorrência das circunstâncias previstas no art. 135 do CTN para responsabilização de terceiro, quando o nome deste não consta na CDA.
+2. Reconhecida pelas instâncias ordinárias a insuficiência probatória quanto ao envolvimento do terceiro em atos com excesso de poderes ou infração de lei, não pode o redirecionamento ser mantido sob o argumento de permitir nova oportunidade para produção de provas em embargos à execução.
+3. Configura contradição insanável reconhecer que a exequente tem o ônus de provar as hipóteses do art. 135 do CTN e, simultaneamente, manter o redirecionamento da execução mesmo diante da ausência dessa prova.
+4. A exceção de pré-executividade constitui via adequada para questionar o redirecionamento quando a discussão se limita à demonstração da ausência de elementos probatórios mínimos já produzidos pela Fazenda, matéria cognoscível de plano.
+5. A distribuição legal dos ônus processuais não permite que a ausência de prova por parte da exequente dos requisitos para redirecionamento seja suprida posteriormente às custas do executado, sob pena de subversão do sistema processual.
+6. Embargos de declaração conhecidos e acolhidos com efeitos infringentes para negar provimento ao recurso especial.
+RELATÓRIO
+José Emílio Nunes Pinto opõe embargos de declaração contra acórdão que acolheu parcialmente seus embargos anteriores nos seguintes termos (e-STJ fl. 1.580):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. CORREÇÃO. CONTRADIÇÃO. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Verificada a ocorrência de erro material no acórdão, os embargos de declaração são cabíveis para repará-lo.
+3. De acordo com a jurisprudência desta Corte Superior, "o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (EDcl no REsp n. 1.361.800/SP, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 21/2/2024, DJe de 18/4/2024), o que não se verifica na hipótese.
+4. Embargos de declaração parcialmente acolhidos apenas para corrigir erro material, sem efeitos infringesntes.
+Agora, o embargante sustenta nova contradição: o acórdão reconhece que cabe ao exequente o ônus de provar as circunstâncias do art. 135 do CTN, mas conclui ser inadequada a via eleita pelo embargante para questionar essa ausência de prova, determinando dilação probatória em favor da Fazenda que não se desincumbiu de seu ônus.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. RESPONSABILIDADE DE TERCEIRO. ÔNUS PROBATÓRIO DA FAZENDA. CONTRADIÇÃO. EFEITOS INFRINGENTES.
+1. Cabe à Fazenda Nacional demonstrar, previamente, ao redirecionamento da execução fiscal a ocorrência das circunstâncias previstas no art. 135 do CTN para responsabilização de terceiro, quando o nome deste não consta na CDA.
+2. Reconhecida pelas instâncias ordinárias a insuficiência probatória quanto ao envolvimento do terceiro em atos com excesso de poderes ou infração de lei, não pode o redirecionamento ser mantido sob o argumento de permitir nova oportunidade para produção de provas em embargos à execução.
+3. Configura contradição insanável reconhecer que a exequente tem o ônus de provar as hipóteses do art. 135 do CTN e, simultaneamente, manter o redirecionamento da execução mesmo diante da ausência dessa prova.
+4. A exceção de pré-executividade constitui via adequada para questionar o redirecionamento quando a discussão se limita à demonstração da ausência de elementos probatórios mínimos já produzidos pela Fazenda, matéria cognoscível de plano.
+5. A distribuição legal dos ônus processuais não permite que a ausência de prova por parte da exequente dos requisitos para redirecionamento seja suprida posteriormente às custas do executado, sob pena de subversão do sistema processual.
+6. Embargos de declaração conhecidos e acolhidos com efeitos infringentes para negar provimento ao recurso especial.
+VOTO
+Conheço dos embargos de declaração e os acolho com efeitos infringentes.
+Num primeiro exame da matéria, concluí que não haveria vício no acórdão da Primeira Turma, de minha relatoria, por entender que, mesmo não estando o nome do executado na CDA, se ainda haveria espaço para discutir a (i)legitimidade daquele, esse debate deveria ocorrer em sede própria, isto é, na via dos embargos à execução, e não na exceção de pré-executividade.
+Todavia, com a oposição de novos embargos, revendo a decisão recorrida, chego à conclusão de que, de fato, há contradição no julgamento que compromete a coerência lógica da decisão.
+O acórdão embargado incorre em contradição ao reconhecer expressamente que "cabe à exequente o ônus de provar as circunstâncias do art. 135 do CTN" e, simultaneamente, manter o redirecionamento da execução mesmo diante da ausência dessa prova.
+A jurisprudência do STJ entende que o ônus da prova de atuação irregular do sócio gestor, para redirecionamento da execução fiscal, é da Fazenda Pública, quando o nome deste não constar da certidão de dívida ativa, e do gestor, quando o seu nome constar do título executivo (REsp 2.136.530/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/6/2024, DJe de 14/6/2024).
+Estamos diante da primeira hipótese, sendo que o Tribunal Regional Federal da 3ª Região, após examinar as provas produzidas pela Fazenda Nacional, concluiu que a responsabilização tributária do embargante "apresenta-se insuficiente em provas sobre o envolvimento do ora agravante", uma vez que os documentos demonstravam apenas que ele "atuou como procurador das sócias quotistas da executada FOOTLINE, tão somente como mandatário", não se configurando como administrador de fato ou de direito.
+O Tribunal destacou ainda que "não obstante o CTN, no seu art. 135, inciso II, autorize a responsabilização dos mandatários, prepostos e empregados da empresa devedora, essa circunstância somente ocorrerá quanto aos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos, o que, na hipótese, não se comprovou".
+Essa premissa fática não pode ser revista por esta Corte Superior, nos termos da Súmula 7 do STJ. Portanto, está definitivamente assentado que a Fazenda Nacional não produziu as provas necessárias à responsabilização do embargante, ônus que lhe competia.
+Diante desse quadro probatório, o acórdão embargado deveria ter negado provimento ao recurso especial da Fazenda Nacional, mantendo a decisão do Tribunal Regional que cancelou o redirecionamento.
+Contudo, o julgado adotou solução contraditória: reconheceu a ausência de elementos mínimos por parte da Fazenda, mas manteve o redirecionamento para permitir nova oportunidade probatória em embargos à execução fiscal.
+Aceitar essa lógica significaria subverter a distribuição legal dos ônus processuais e admitir que a ausência de prova por parte do exequente dos requisitos mínimos para o redirecionamento pode ser suprida posteriormente, às custas do particular.
+O argumento de que a exceção de pré-executividade seria via inadequada por exigir dilação probatória revela equívoco na premissa. Isso porque, no caso, a dilação probatória só seria necessária justamente porque a Fazenda Nacional falhou em produzir as provas que justificassem o redirecionamento.
+Aliás, essa matéria é cognoscível de plano e não demanda instrução complexa, porque assim concluiu a instância ordinária.
+Em resumo, a contradição é, realmente, insanável dentro da lógica adotada pelo julgado: se a CDA não constava o nome do embargante, e a Fazenda Nacional tinha o ônus de provar as circunstâncias do art. 135 do CTN e não se desincumbiu desse ônus, a única conclusão coerente é o cancelamento do redirecionamento, não sua manutenção para posterior tentativa probatória, com inversão desse ônus em desfavor do particular.
+Por essas razões, ACOLHO os embargos de declaração com efeitos infringentes para negar provimento ao recurso especial interposto pela Fazenda.
+É como voto.
