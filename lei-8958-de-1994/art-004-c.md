@@ -1,0 +1,1 @@
+Art. 4º-C. É assegurado o acesso dos órgãos e das entidades públicas concedentes ou contratantes e do Sistema de Controle Interno do Poder Executivo federal aos processos, aos documentos e às informações referentes aos recursos públicos recebidos pelas fundações de apoio enquadradas na situação prevista no art. 1º e aos locais de execução do objeto do contrato ou convênio.

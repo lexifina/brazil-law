@@ -1,0 +1,1 @@
+Art. 4º-B. As fundações de apoio poderão conceder bolsas de ensino, pesquisa e extensão e de estímulo à inovação aos estudantes de cursos técnicos, de graduação e pós-graduação e aos servidores vinculados a projetos institucionais, inclusive em rede, das IFES e demais ICTs apoiadas, na forma da regulamentação específica, observados os princípios referidos no art. 2º.
