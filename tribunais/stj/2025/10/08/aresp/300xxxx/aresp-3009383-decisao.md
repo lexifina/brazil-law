@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HELTON FLAVIO PINHEIRO DE SOUZA, por intermédio da DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO, contra decisão do PRESIDENTE DA SEÇÃO DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial fundado na alínea "a" do inciso III do art. 105 da Constituição Federal (fls. 71-73).
+Consta dos autos que o agravante foi condenado em primeiro grau pela prática do crime de tráfico de drogas, fixando-se pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa. A apelação foi desprovida, com trânsito em julg ado em 14/06/2022. Posteriormente, habeas corpus impetrado perante este Superior Tribunal de Justiça não foi conhecido, e revisão criminal foi indeferida pelo acórdão de fls. 28-37.
+O recurso especial foi inadmitido na origem com fulcro em dois fundamentos autônomos: deficiência de fundamentação, por não terem sido atacados todos os argumentos do acórdão recorrido, atraindo a Súmula n. 284 do STF, e incidência da Súmula n. 7 do STJ, por exigir a pretensão reexame de fatos e provas (fls. 72-73).
+No agravo, a defesa sustenta violação ao art. 186, parágrafo único, do CPP, alegando valoração indevida do silêncio do acusado na fase policial e supervalorização de depoimentos policiais. Defende tratar-se de questão jurídica, sem necessidade de reexame probatório, refutando a incidência da Súmula n. 7 do STJ. Argumenta que o recurso especial foi devidamente fundamentado, com enfrentamento de todos os pontos do acórdão recorrido (fls. 79-93).
+O MINISTÉRIO PÚBLICO FEDERAL manifestou-se pelo não conhecimento do agravo, com fundamento na Súmula n. 182 do STJ, por ausência de impugnação específica dos fundamentos da decisão agravada. Subsidiariamente, opina pelo desprovimento do recurso especial ante a vedação da Súmula n. 7 do STJ (fls. 121-124).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+A decisão de inadmissão apontou dois fundamentos autônomos e suficientes para obstar o seguimento do recurso especial: deficiência de fundamentação, porque o recorrente não demonstrou de maneira específica as razões de sua insurgência, deixando de atacar todos os argumentos do acórdão recorrido, o que atrai a Súmula n. 284 do STF; e necessidade de reexame de fatos e provas, vedado pela Súmula n. 7 do STJ (fls. 72-73).
+Para viabilizar o conhecimento do agravo, o agravante deveria impugnar, de forma específica e pormenorizada, cada um desses fundamentos. A impugnação genérica ou a mera reiteração das teses de mérito do recurso especial não satisfaz a exigência de dialeticidade recursal imposta pelo ordenamento processual.
+Examinando as razões do agravo, verifico que, embora a defesa tenha alegado que o recurso especial enfrentou "um a um" os fundamentos do acórdão e tenha rebatido a aplicação da Súmula n. 7 do STJ (fls. 82-93), não há impugnação específica e adequada ao primeiro fundamento da inadmissão: a deficiência na demonstração das razões de insurgência quanto aos argumentos do acórdão recorrido.
+A decisão agravada consignou expressamente que "não foram atacados todos os argumentos do acórdão recorrido" (fl. 72), atraindo o óbice da Súmula n. 284 do STF. O agravo, contudo, limitou-se a afirmar genericamente que houve fundamentação adequada, sem demonstrar, de modo concreto, quais fundamentos do acórdão foram enfrentados e como isso foi feito no recurso especial. Não basta a afirmação de que se cumpriu o art. 1.029 do CPC; era imprescindível demonstrar, objetivamente, onde e como cada argumento do julgado foi impugnado.
+A ausência de ataque específico a fundamento autônomo da decisão agravada atrai a incidência da Súmula n. 182 do STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, a jurisprudência da Quinta Turma deste Superior Tribunal de Justiça:
+DIREITO PROCESSUAL PENAL. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ MANTIDA.a SÚMULAS DO STF APLICÁVEIS NO STJ. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM
+EXAME 1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigido pelo art. 932, inciso III, do CPC e pela Súmula n. 182 do STJ.
+2. O TJ não admitiu o recurso especial, e a Presidência do STJ não conheceu do agravo em recurso especial, aplicando a Súmula n. 182 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o agravo em recurso especial pode ser conhecido quando não há impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial. Consiste também em estabelecer se as Súmulas do Supremo Tribunal Federal podem ser aplicadas no âmbito do Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+4. A ausência de impugnação específica de todos os fundamentos de inadmissibilidade do recurso especial impede o conhecimento do recurso, ante o óbice da Súmula n. 182 do STJ.
+5. O recurso especial é espécie do gênero "recurso extraordinário", o que torna perfeitamente possível o emprego, por analogia, de Súmulas do Supremo Tribunal Federal pelo Superior Tribunal de Justiça.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Teses de julgamento: "1. A ausência de impugnação específica de todos os fundamentos de inadmissibilidade do recurso especial impede o conhecimento do recurso, ante o óbice da Súmula 182 do STJ. 2. É perfeitamente possível o emprego, por analogia, de súmulas do Supremo Tribunal Federal pelo Superior Tribunal de Justiça.
+Dispositivos relevantes citados: CPC, art. 932, III; Código Penal, art. 334-A; Decreto- Lei n. 399/1968, art. 3º.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no AREsp n. 977.386/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de , STJ, AgRg no AREsp n. 1/2/2019 . 2.857.704/MS, Rel. Min. Messod Azulay Neto, Quinta Turma, DJEN de 13/5/2025
+(AgRg no REsp n. 2.210.635/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Mantendo-se incólume um dos fundamentos suficientes da inadmissão, fica prejudicado o exame dos demais pontos suscitados no agravo, inclusive quanto à aplicação da Súmula n. 7 do STJ.
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
