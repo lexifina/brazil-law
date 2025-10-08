@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual JOSE HAROLDO TAJRA REIS FILHO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA assim ementado (fl. 574):
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE NÃO CONHECEU DE RECLAMAÇÃO - SUSPENSÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA - ALEGAÇÃO DE DIVERGÊNCIA ENTRE ACÓRDÃO DA TURMA RECURSAL E O ENTENDIMENTO CONSOLIDADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO N.º 1.412.433/RS (TEMA 699) - IMPROCEDÊNCIA - PRECEDENTE VINCULANTE QUE NÃO SE APLICA AO CASO DOS AUTOS - TESE FIRMADA PELA CORTE SUPERIOR QUE SE REFERE À POSSIBILIDADE DE SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA EM RAZÃO DE DÉBITO PRETÉRITO DO DESTINATÁRIO FINAL DO SERVIÇO, ENQUANTO QUE, NA ESPÉCIE, A PRETENSÃO DO AGRAVANTE É A DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MORAIS, SOB A ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA, MATÉRIA QUE FOI DEVIDAMENTE ENFRENTADA TANTO PELO JUÍZO DE 1.º GRAU QUANTO PELA TURMA RECURSAL, EM COGNIÇÃO EXAURIENTE - IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL - AGRAVO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 684/691).
+É o relatório.
+Da irresignação não é possível conhecer visto que a parte agravante não refutou adequadamente a decisão agravada.
+O Tribunal de origem não admitiu o recurso especial pela incidência da Súmula 284 Supremo Tribunal Federal (falta de indicação do dispositivo legal violado) e pela ausência de cotejo analítico.
+Confiram-se trechos da decisão de admissibilidade:
+(1) "Verifica-se que, o recorrente deixou de indicar quais dispositivos de lei federal foram supostamente violados pelo acórdão vergastado, inobservância que atrai, por analogia, a incidência da Súmula 284 do STF:  ..  Portanto, mostra-se patente a deficiência na fundamentação do recurso especial, não tendo o recorrente, em suas razões, desenvolvido argumentos para demonstrar de que modo foram violados dispositivos de lei federal" (fls. 623/624);
+(2) "Quanto à divergência jurisprudencial, constata-se que não houve o devido cotejo analítico, a fim de comprovar a semelhança das circunstâncias fáticas entre os casos confrontados, tendo o recorrente se limitado a transcrever ementas" (fl. 624).
+Nas razões do agravo em recurso especial, a parte recorrente alegou o seguinte (fls. 635/641):
+O Recurso Especial foi interposto conforme o disposto do artigo 105, III, alínea "a" da Constituição Federal, posto que, viola jurisprudência do STJ, em específico entendimento do tema repetitivo 699.
+Pois bem, em sede de Recurso Especial, inadmitiu o nobre relator o recurso afirmando que não foi realizado o devido cotejo analítico.
+O cotejo analítico é a demonstração das circunstâncias que identifiquem e assemelhem os casos confrontados e esta foi devidamente realizada como demonstra a seguir.
+O Recurso Especial inicia realizando um resumo dos fatos ocorridos contra o recorrente onde a concessionaria de energia SEM A PRESENÇA do recorrente, realizou uma inspeção no relógio medidor, inclusive o retirando, para alcançar a conclusão de que houve fraude no medidor:
+ ..
+Seguindo o raciocínio, trouxe o recorrente o tema 699, julgamento que baseou sua argumentação, iniciando uma comparação dos casos e direito dos consumidores, em que o STJ explicitamente protege o contraditório e ampla defesa (art. 5, LV da CF), impedindo a inspeção unilateral:
+ ..
+Após a introdução do tema na síntese processual, o mérito é claro ao fazer a comparação do julgamento realizado e a atribuição do direito ao caso concreto, o julgamento é destrinchado em seus pontos pormenorizadamente não havendo que se falar de inexistência de cotejo analítico:
+ ..
+Veja que após a introdução do inteiro teor do julgamento do STJ, ocorre a demonstração das semelhanças ao caso (Fls. 11 e 12 do Recurso Especial - E. P 29), inclusive trazendo jurisprudências de outros estados que fazem aplicação do tema em caso similar ao do recorrente.
+Não obstante, após a introdução das jurisprudências como mera demonstração da aplicação do tema 699 no cotidiano, reforça mais uma vez o direito tratado nos autos.
+Veja excelências, o julgamento do STJ não comporta extrema complexidade de entendimento, é uma clara defesa do direito dos consumidores, nesse sentido, foi explicado o caso concreto e foi devidamente destrinchado e explicado a clara aplicação ao caso concreto, não havendo mera transcrição da decisão.
+No presente feito, tem-se que o acórdão violou jurisprudência dominante do Colendo Superior Tribunal de Justiça, em especifico o entendimento e parâmetros firmados no tema 699 dos recursos repetitivos ferindo o devido processo legal.
+O referido tema 699 tem como princípio a proteção do art. 5º, LV da CF, que trata do contraditório e ampla defesa a quem se litiga judicialmente ou administrativamente.
+O referido Recurso Especial cumpriu com sua admissibilidade ao apontar diretamente no preâmbulo e em seu corpo sua interposição fundada no art. 105, III, alínea "a" da Constituição Federal, posto que, o acordão viola jurisprudência do STJ, em específico entendimento do tema de recursos repetitivos 699.
+Constata-se que a parte agravante defendeu que houve o cotejo analítico entre os casos confrontados, mas não impugnou a aplicação da Súmula 284/STF.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
