@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em favor de Rafael Conceição Macedo, contra acórdão prolatado pela Câmara Criminal do Tribunal de Justiça de Sergipe no Processo nº 202500334994.
+Consta dos autos que o paciente foi condenado, em ambas as instâncias ordinárias, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006, à pena de 5 anos e 9 meses de reclusão, em regime inicial fechado, e 583 dias-multa.
+No presente writ, o impetrante sustenta constrangimento ilegal pela não desclassificação do tráfico para porte para uso pessoal, ante a ínfima quantidade de drogas apreendida (13g de cocaína), ausência de apetrechos de mercancia (balança, anotações), e inversão do ônus probatório, afirmando que a condenação se assentou em presunção de traficância e em depoimentos policiais não corroborados por outras provas robustas
+Requer, portanto, a concessão da ordem "para promover a desclassificação da conduta para o tipo do art. 28 da Lei nº 11.343/2006, absolvendo-se o réu" (fls. 10).
+As informações foram prestadas (fls. 89-92).
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem e, caso conhecida, pela sua denegação.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Sobre a controvérsia, assim se manifestou o Tribunal de Justiça (fls. 35-44):
+Igualmente não deve ser acatado o pleito de desclassificação para o uso de entorpecentes, pois os depoimentos dos policiais ouvidos em Juízo revelam-se elucidativos e contêm grande valor probante, merecendo respaldo, mormente quando aliados às demais provas carreadas, tais como: auto de apreensão nº 1071/2024 (fl. 15), laudo pericial acostado às fls. 203/206, que atestam a apreensão de 12, 9 g de cocaína, fracionadas em 15 porções e armazenadas em material plástico.
+A palavra firme e coerente de policiais se mostra apta à comprovação dos fatos narrados na denúncia sempre que isenta de qualquer suspeita e em harmonia com o conjunto probatório apresentado, conforme o presente caso.
+ .. .
+Nestes termos, percebe-se que a negativa de autoria do apelante quanto à prática do tráfico, resta isolada nos autos. Nenhum outro elemento probatório sustenta sua versão de que a droga seria para seu uso próprio. O armazenamento do entorpecente em 15 porções, além da apreensão de valores em dinheiro no momento do flagrante, consubstanciam o tráfico de entorpecentes.
+Frise-se ainda, apenas para registro, que o crime de tráfico de entorpecentes pelo qual o réu foi condenado, trata-se de tipo misto alternativo, ou seja, para sua configuração é prescindível que seja surpreendida comercializando a droga, uma vez que para restar consumado o crime de tráfico, basta apenas e tão somente a prática de qualquer das condutas inscritas no art. 33 da Lei nº 11.343/2006, o qual, além da conduta "vender" abrange também a conduta de "transportar", "trazer consigo" e "guardar", condutas estas em que o apelante se enquadra.
+ .. .
+Portanto, não há de se falar em desclassificação para o uso de entorpecentes, devendo ser mantida a condenação do acusado pela prática do crime de tráfico de entorpecentes (art. 33 da Lei nº 11.343/2006).
+Para melhor elucidação da lide, consta da sentença condenatória (fls. 48-50):
+A materialidade delitiva encontra-se demonstrada mediante: auto de exibição e apreensão (p. 15), contendo 15 (quinze) papelotes de substância análoga à cocaína, pesando aproximadamente 13 (treze) gramas e a quantia de R$ 155,00 (cento e cinquenta e cinco reais); além do laudo de perícia criminal forense sobre a droga apreendida, concluindo-se que "foi identificada a substância BENZOILMETILECGONINA (COCAÍNA), substância de uso proscrito no Brasil" (p. 203-206), denotando-se a prática delitiva de tráfico ilícito de entorpecentes.
+A autoria delitiva, por sua vez, também está evidenciada nos autos, seja pelo depoimento dos policiasi militares, Tadeu Fonseca Guimarães e Deones dos Santos, seja pelas próprias declarações prestadas pelo acusado em juízo.
+Destaque-se que o fato de as testemunhas acima indicadas como agentes envolvidos na diligência que resultou na prisão do acusado em nada afeta a credibilidade de seus depoimentos, eis que nenhum indicativo foi evidenciado em suas declarações que pudesse gerar parcialidade ou quebra do compromisso com a verdade quanto ao que depôs.
+Não bastasse isso, as testemunhas prestaram depoimento sob o crivo do contraditório e ampla defesa, além de assumir o compromisso legal com a verdade, sob as penas do crime de falso testemunho.
+ .. .
+Assim sendo, não se comprovando a inidoneidade dos policiais militares, nem se demonstrado tivesse o propósito preconcebido ou interesse pessoal em incriminar falsamente o acusado, não há como não se dar crédito às suas afirmações.
+Embora o réu negue a autoria delitiva quanto ao crime de tráfico, não apresentou provas concretas de inocência. Note-se que, além dos depoimentos acima transcritos, restaram provadas nos autos diversas circunstâncias que, somadas, confirmam a adequação típica da conduta do Réu ao disposto no art. 33, caput, Lei n.º 11.343/2006. Afinal, o denunciado foi flagrado, por meio de abordagem policial, apreendendo substâncias entorpecentes, devidamente fraciona, em quantidade considerável e pronta para a venda.
+Vale dizer que tais circunstâncias, somadas, são suficientes para comprovar a mercancia ilícita de drogas, de acordo com os parâmetros ditados pelo art. 28, §2.º, Lei n.º 11.343/2006, a contrário sensu, sendo dispensável, por conseguinte, que o réu estivesse a praticar efetivo ato de comércio.
+ .. .
+Em consequencia, tenho que a negativa do Reu acerca da venda das drogas e versao isolada, porquanto não está respaldada em nenhum tipo de prova.
+Em suma, está comprovado nos autos que o réu trazia consigo, bem como guardava substâncias entorpecentes, em circunstância que está adequada ao disposto no art. 33, caput, Lei n.º 11.343/2006, razão pela qual é imperiosa a sua condenação.
+Deste modo, não merece respaldo o pedido de absolvição, formulado pela defesa, tampouco de desclassificação do delito, em sede de alegações finais.
+Repise-se, ainda, que não houve a confissão do acusado, o qual aduziu que as drogas eram para consumo próprio.
+Conforme se observa, embora o paciente tenha afirmado que as drogas apreendidas (que representam 13g de cocaína) eram para seu consumo próprio, não só o depoimento policial indicou a traficância, como também observa-se que o réu é reincidente na prática delitiva, uma vez que já condenado definitivamente pelo mesmo crime (nos termos da sentença, à fl. 51). Inviável, portanto, a absolvição do paciente ou a desclassificação da conduta.
+Com efeito, " o  habeas corpus não é a via adequada para apreciar pedidos de absolvição ou desclassificação de condutas, pois requer reexame aprofundado de fatos e provas, o que é incompatível com o rito célere do writ" (AgRg no AREsp n. 2.693.038/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025.)
+Em reforço, " a  desclassificação do crime de tráfico de drogas para porte de uso próprio não é cabível, pois os elementos colhidos durante a instrução, assim como o histórico do réu, indicam a prática da traficância" (AgRg no HC n. 994.196/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
