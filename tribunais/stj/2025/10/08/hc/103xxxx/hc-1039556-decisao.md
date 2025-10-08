@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DARCISIO FERNANDO FERREIRA SOUZA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no HC n. 1.0000.25.302175-2/000.
+Consta nos autos que o paciente está preso cautelarmente desde o dia 31/07/2025, em virtude de suposta prática do crime previsto no art. 157, § 2º, inciso II, c/c o art. 14, inciso II, ambos do Código Penal.
+Neste writ, alega a Defesa, de início, a ocorrência da desistência voluntária.
+Argumenta que não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Ressalta que o paciente é primário, com bons antecedentes, residência fixa e trabalho lícito, o que torna a prisão preventiva desnecessária e desproporcional.
+Aduz, ainda, que é suficiente a imposição de medidas cautelares diversas da segregação.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, bem como o reconhecimento da desistência voluntária. De modo subsidiário, pede a substituição da custódia processual por medidas cautelares diversas.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, inciso III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo a analisar diretamente o pedido formulado na impetração.
+Inicialmente, quanto à tese de desistência voluntária, cumpre salientar que a matéria não foi debatida no acórdão impugnado, o que impede a manifestação originária desta Corte, sob pena de supressão de instância.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+No mais, ressalte-se que a prisão preventiva, no ordenamento jurídico brasileiro, constitui medida cautelar de natureza excepcional, cuja manutenção está condicionada à permanência dos fatos que a justificaram, e somente se legitima em situações em que a liberdade do indivíduo represente um risco concreto e atual aos bens jurídicos tutelados pelo art. 312 do Código de Processo Penal.
+Sua decretação não representa antecipação de pena nem viola o princípio da presunção de não culpabilidade, desde que a decisão judicial esteja fundamentada em elementos concretos, e não na gravidade abstrata do delito, demonstrando a efetiva necessidade da medida para o caso específico.
+Para tanto, exige-se a comprovação da existência de prova da materialidade do crime e de indícios suficientes de autoria, bem como do perigo gerado pelo estado de liberdade do imputado, que se manifesta na necessidade de garantir a ordem pública, a ordem econômica, a conveniência da instrução criminal ou a aplicação da lei penal. Trata-se, portanto, da última e mais gravosa das medidas cautelares, cuja aplicação demanda a demonstração inequívoca de que as alternativas previstas no art. 319 do CPP são insuficientes para acautelar o processo e o meio social.
+Na espécie, destacam-se, para a adequada análise da controvérsia, os seguintes trechos do decreto prisional (fl. 30; grifamos):
+No caso em tela, após refletido exame dos autos, verifico que a segregação cautelar do investigado é necessária à garantia da ordem pública, vis-à-vis as circunstâncias concretas da perpetração, em tese, da infração penal objeto da imputação, quais sejam: (i) a gravidade do crime imputado aos autuados, com pena abstrata superior a quatro anos; (ii) indícios fortes de autoria, notadamente pelas declarações da vítima e confissões dos autuados e; (iii) prova da materialidade do crime, conforme se extraem dos elementos indiciários colhidos nos autos.
+Além disso, mostra-se patente o periculum libertatis, eis que a ordem pública, caso seja o autuado liberado, estará ameaçada, ante a periculosidade revelada pela probabilidade de reiteração criminosa, ocasionando insegurança à sociedade e descrédito ao Sistema de Direito e Justiça.
+Isso porque os fatos, em tese, praticados pelos autuados gozam de especial gravidade concreta. Com efeito, infere-se do expediente que os autuados, em concurso de vontades, abordaram a vítima com extrema violência e tentaram subtrair bens, além de ameaçá-la com um facão, colocando-o sobre seu pescoço. Destaca-se a vulnerabilidade da vítima, que estava sozinha e durante a madrugada quando foi surpreendida pelos autuados, em superioridade numérica e de forças (os autuados são jovens e a vítima quase um idoso), o que também demonstra a ousadia dos autores.
+Nessa ordem de ideias, compreendo que os fatos extrapolaram a gravidade abstrata inerente ao tipo penal, tendo em vista as múltiplas agressões sofridas pela vítima, além de terem os autores, como dito, aproveitado de momento de vulnerabilidade, pelo que se revela acentuado desvalor da ação.
+Esses elementos demonstram a gravidade concreta da conduta do autuado, o que justifica a decretação da prisão preventiva, para garantia da ordem pública.
+É que, a despeito da ordem pública ser um conceito jurídico indeterminado, é assente na jurisprudência e doutrina majoritária que ele abarca as hipóteses de gravidade concreta, assumindo a prisão preventiva função metaprocessual, de acautelamento do meio social.
+Existe, então, o efetivo risco de que, caso colocado em liberdade no momento, o autuado se sinta encorajado a reincidir/continuar na prática de crimes, por uma falsa percepção de impunidade. Tenho, pois, que a manutenção do autuado no cárcere encontra-se adequada à gravidade do crime, às circunstâncias do fato, sendo insuficiente a sua substituição por qualquer outra medida cautelar.
+Na hipótese dos autos, verifica-se que a necessidade da prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a especial gravidade dos fatos, evidenciada pelas circunstâncias da prática delitiva.
+Com efeito, os elementos apontados no decreto prisional efetivamente demonstram a potencial periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública, conforme a orientação do Superior Tribunal de Justiça. No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DAS CONDUTAS. MODUS OPERANDI VIOLENTO. INDÍCIOS DE HABITUALIDADE DELITIVA. PERICULOSIDADE SOCIAL. INVIABILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva foi devidamente fundamentada nas decisões das instâncias ordinárias, com base na gravidade concreta das condutas imputadas, que envolvem roubo com restrição de liberdade da vítima, emprego de arma de fogo e posterior adulteração e ocultação do bem subtraído.
+2. Os elementos constantes dos autos, como a identificação da impressão digital do agravante no interior do veículo roubado, os registros de localização do caminhão e os indícios de reiteração delitiva, revelam periculosidade concreta e justificam a medida extrema.
+3. A existência de eventual absolvição em ações penais pretéritas não afasta, por si só, a conclusão quanto à periculosidade do agravante, aferida a partir das circunstâncias objetivas do caso analisado.
+4. A análise do periculum libertatis é eminentemente indiciária, voltada à prevenção de riscos à ordem pública, sem exigir juízo de certeza reservado ao mérito da ação penal.
+5. Não se verificando elementos capazes de infirmar os fundamentos da decisão agravada, impõe-se sua manutenção.
+6. Agravo regimental não provido.
+(AgRg no HC n. 984.277/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/5/2025, DJEN de 19/5/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. REQUISITOS LEGAIS. AGRAVO IMPROVIDO.
+(..)
+5. A prisão preventiva se justifica pela gravidade concreta do delito imputado ao recorrente, consubstanciada no modus operandi do crime, que envolveu disparos de arma de fogo em circunstâncias de elevada periculosidade, e pela necessidade de garantir a ordem pública, evitando o risco de reiteração delitiva, especialmente considerando que o paciente possui histórico criminal relevante. Prisão preventiva também fundamentada na conveniência da instrução criminal, pois o recorrente continuaria a ameaçar as vítimas e familiares mesmo após sua prisão.
+6. A aplicação de medidas cautelares diversas da prisão é insuficiente para garantir a ordem pública, dada a gravidade dos fatos e a periculosidade evidenciada pelo histórico de reiteração delitiva do recorrente.
+7. Agravo regimental improvido.
+(AgRg no RHC n. 207.837/PI, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+Portanto, tendo em vista que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Ademais, a alegada existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da segregação provi sória, como ocorre no caso. Exemplificativamente: AgRg no HC n. 1.005.547/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1/9/2025; RHC n. 210.607/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025.
+Ante o exposto, conheço parcialmente da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
