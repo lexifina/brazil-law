@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PLEITO MINISTERIAL PELO AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. RECONHECIMENTO DA MINORANTE PELO TRIBUNAL DE ORIGEM. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A pretensão de alterar a conclusão do Tribunal de origem, que, de forma soberana e com base na análise das provas, absolveu os réus por entender não configurada a elementar do crime de coação (art. 107 do Estatuto do Idoso), demanda, necessariamente, o reexame do acervo fático-probatório, providência vedada na via do recurso especial, a teor da Súmula 7/STJ.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra a decisão por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial, com fundamento na Súmula 7/STJ (fls. 452/454).
+Em suas razões (fls. 460/467), o agravante sustenta, em síntese, que existe contradição de precedentes na aplicação da Súmula 7/STJ, uma vez que para recursos defensivos não haveria impedimento para reexame de elementos probatórios, mas para pleitos ministeriais seria aplicado o óbice sumular. Alega que o caso envolve revaloração jurídica de fatos incontroversos, e não reexame probatório.
+Argumenta que a apreensão de mala contendo 2 kg e 103 g de cocaína, 309 g de crack, 23 g de maconha, balança de precisão, mais de R$ 14.500,00 (quatorze mil e quinhent os reais) em dinheiro, dois revólveres calibre .38 e uma pistola de alma lisa calibre 32 Ga, no estabelecimento comercial do agravado, evidencia dedicação a atividades criminosas que justifica o afastamento da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Postula, ao final, a reconsideração da decisão ou submissão do feito ao Colegiado para reforma da decisão agravada e provimento do recurso especial ministerial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PLEITO MINISTERIAL PELO AFASTAMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO. RECONHECIMENTO DA MINORANTE PELO TRIBUNAL DE ORIGEM. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A pretensão de alterar a conclusão do Tribunal de origem, que, de forma soberana e com base na análise das provas, absolveu os réus por entender não configurada a elementar do crime de coação (art. 107 do Estatuto do Idoso), demanda, necessariamente, o reexame do acervo fático-probatório, providência vedada na via do recurso especial, a teor da Súmula 7/STJ.
+2. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece provimento. A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Conforme ressaltado na decisão agravada, o Tribunal de origem apresentou motivação válida para reconhecer a incidência do tráfico privilegiado, argumentando que, na ausência de outros elementos concretos, a quantidade da droga, por si só, é insuficiente para afastar o benefício.
+Na hipótese, a Corte de origem apresentou motivação válida para reconhecer a incidência do tráfico privilegiado, argumentando que, na ausência de outros elementos concretos, a quantidade da droga, por si só, é insuficiente para afastar o benefício (AgRg no AREsp n. 2.797.186/MT, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 19/5/2025).
+Ademais, o acórdão originário consignou que as circunstâncias concretas apontadas pelo Ministério Público são insuficientes para indicar que o recorrido dedicava-se sistematicamente a atividades criminosas. Veja-se o voto proferido no julgamento dos embargos de declaração opostos contra o acórdão de origem (fl. 368):
+Naquela oportunidade, fundamentou-se no sentido de que a expressiva quantidade de drogas apreendidas não deve, por si só, levar a presunção de que o acusado se dedica a atividades criminosas ou integre organizações com esse fim, afastando a aplicação da figura privilegiada do tráfico.
+Nesse passo, a alteração do entendimento do acórdão recorrido, para o fim de afastar a minorante do tráfico privilegiado, encontra óbice na Súmula 7 desta Corte, já que demandaria análise fática sobre as circunstâncias concretas do fato delituoso. Neste sentido, além dos precedentes citados na decisão recorrida: AgRg no AREsp n. 2.934.489/RS, Ministro Ribeiro Dantas, Quinta Turma, DJEN 27/8/2025.
+Com efeito, embora o agravante mencione a existência de decisões contraditórias sobre a aplicação da Súmula 7/STJ, não se verifica, no caso concreto, a possibilidade de aplicação da tese de revaloração jurídica. A pretensão ministerial demanda, efetivamente, nova análise das circunstâncias fáticas para concluir pela dedicação a atividades criminosas, o que é vedado pela Súmula 7 desta Corte.
+Diante do exposto, nego provimento ao agravo regimental.
