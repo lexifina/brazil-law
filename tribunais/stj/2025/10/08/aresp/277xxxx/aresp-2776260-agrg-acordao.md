@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PLEITO PARA ABSOLVIÇÃO PELA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO A QUO. ALEGAÇÃO DE OCORRÊNCIA DE BIS IN IDEM NA FUNDAMENTAÇÃO DA CONDENAÇÃO PARA OS CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. DISTINÇÃO DE SITUAÇÕES FÁTICAS. SÚMULAS 282, 284 E 356/STF. RECURSO QUE NÃO INFIRMOU OS FUNDAMENTOS DO DECISUM COMBATIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Jeronimo da Silva Menger, contra a decisão que conheceu do agravo para não conhecer do recurso especial por ele formulado (fls. 3.168/3.170).
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PLEITO PARA ABSOLVIÇÃO PELA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO A QUO. ALEGAÇÃO DE OCORRÊNCIA DE BIS IN IDEM NA FUNDAMENTAÇÃO DA CONDENAÇÃO PARA OS CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. DISTINÇÃO DE SITUAÇÕES FÁTICAS. SÚMULA 7/STJ E SÚMULAS 282, 284 E 356/STF.
+Agravo conhecido para não conhecer do recurso especial.
+O agravante sustenta que o acórdão contrariou o art. 381, III, do Código de Processo Penal, que exige fundamentação adequada, que foi condenado pelo art. 33 da Lei n. 11.343/2006 sem que houvesse provas robustas que justificassem a condenação.
+Reforça que não praticou nenhuma das condutas previstas no caput do art. 33 da Lei n. 11.343/2006 e que ele nem sequer conhecia as pessoas presas com as drogas mencionadas nos autos.
+Afirma que as provas mencionadas pelo Tribunal de Justiça de São Paulo são oriundas de interceptações telefônicas, mas nenhuma linha interceptada estava em seu nome, e não foi realizada perícia de voz para comprovar que ele era o interlocutor das conversas interceptadas.
+Apresenta, também, as teses defensivas da falta de prova pericial e de bis in idem na fundamentação da condenação pelos crimes de associação para o tráfico (art. 35 da Lei n. 11.343/2006) e organização criminosa (art. 2º, § 2º, da Lei n. 12.850/2013).
+Aduz, ainda, a impossibilidade de aplicação da Súmula 7 do STJ, pois o caso não envolve reexame de provas, mas, sim, matéria processual, relacionada à contrariedade à lei federal e à ocorrência de bis in idem.
+Ao final da peça recursal, requer o provimento do agravo regimental para que o recurso especial seja conhecido e provido, com base na alegação de que o acórdão contrariou o art. 381, inciso III, do CPP, na ocorrência de bis in idem e em error in judicando.
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. PLEITO PARA ABSOLVIÇÃO PELA AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO A QUO. ALEGAÇÃO DE OCORRÊNCIA DE BIS IN IDEM NA FUNDAMENTAÇÃO DA CONDENAÇÃO PARA OS CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO E ORGANIZAÇÃO CRIMINOSA. DISTINÇÃO DE SITUAÇÕES FÁTICAS. SÚMULAS 282, 284 E 356/STF. RECURSO QUE NÃO INFIRMOU OS FUNDAMENTOS DO DECISUM COMBATIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O recurso não merece prosperar.
+Consta da decisão ora agravada os seguintes fundamentos: quanto à ausência de fundamentação do acórdão atacado, tese levantada pelo agravante, observa-se que a Corte de origem enfrentou adequadamente as questões relevantes tendo concluído, de forma motivada, que as provas produzidas eram robustas e suficientes para a sua condenação pela prática dos delitos de tráfico, associação para o tráfico e organização criminosa, individualizando, pormenorizadamente, o modus operandi e definindo, exaustivamente, cada conduta criminosa imputada a ele.  ..  No caso, o Tribunal de origem considerou que além da inovação recursal, este pleito encontrava óbice na Súmula 284/STF, não havendo elementos suficientes que alicerçassem a tese do agravante.  ..  Ademais, quanto à insurgência para o reconhecimento da simultaneidade de argumentos para a fundamentação da condenação para os crimes de associação para o tráfico e organização criminosa, o Tribunal de origem também reconheceu que esta tese não foi previamente incitada ou debatida pelo Tribunal ordinário, trata-se de inovação recursal, o que inviabilizou a sua análise, na presente via recursal, ante a carência de prequestionamento nos termos das Súmulas 282 e 356/STF. Por outro lado, o agravante não teria demonstrado de maneira específica como o acórdão teria violado preceito de lei federal (Súmula 284/STF) - (fls. 3.169/3.170 - grifo nosso).
+Da leitura da presente insurgência verifica-se que não há qualquer impugnação relativa aos fundamentos relativos aos óbices aplicados.
+Dessa forma, o presente recurso regimental não merece prosperar, haja vista o agravante não ter atacado, de forma específica, os fundamentos da decisão combatida, incidindo, no caso, a Súmula 182/STJ.
+A corroborar: AgRg no AREsp n. 2.901.093/RN, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 20/8/2025.
+Ante o exposto, não conheço do agravo regimental.
