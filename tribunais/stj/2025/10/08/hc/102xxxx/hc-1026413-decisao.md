@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDILSON RAFAEL CONSTANTES ALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado (fl. 256):
+APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. Materialidade e autoria devidamente comprovadas. Apreensão de expressiva quantidade e variedade de entorpecentes. Conduta que evidencia tráfico em larga escala. Validade dos depoimentos policiais. Ausência de contradições relevantes quanto às circunstâncias da prisão. Pena-base fixada acima do mínimo legal, com fundamento nos artigos 59 do Código Penal e 42 da Lei nº 11.343/06. Redutor do artigo 33, § 4º, da Lei de Drogas corretamente afastado diante da quantidade de droga apreendida, da diversidade dos entorpecentes e do uso de radiocomunicador. Conduta que indica dedicação a atividades criminosas. Regime inicial fechado mantido diante da pena fixada e das circunstâncias judiciais desfavoráveis. Inviabilidade de substituição da pena privativa de liberdade por restritivas de direitos. APELO DESPROVIDO.
+O paciente foi condenado a 5 anos e 10 meses de reclusão, no regime inicial fechado, e 583 dias-multa, nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Interposta apelação pela defesa, o Tribunal de origem negou provimento ao recurso, conforme a ementa acima.
+No presente writ, a impetrante sustenta, em síntese, constrangimento ilegal decorrente do afastamento genérico da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, alegando que a quantidade e diversidade de entorpecentes, isoladamente, não constituem fundamento idôneo para afastar o tráfico privilegiado, sendo vedado o bis in idem quando tais elementos já foram utilizados para exasperar a pena-base.
+Requer, ao final, a concessão da ordem para: a) reconhecer a causa especial de diminuição do art. 33, § 4º, da Lei nº 11.343/2006, no patamar máximo de 2/3; b) fixar o regime inicial aberto; c) substituir a pena privativa de liberdade por restritivas de direitos; ou, subsidiariamente, d) alterar o regime inicial para o semiaberto.
+Prestadas as informações, manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 576):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE ENTORPECENTES. ART. 33, CAPUT, DA LEI 11.343/2006. PLEITO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ARTIGO 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. MODUS OPERANDI E ENORME QUANTIDADE DE ENTORPECENTE APREENDIDO. PLEITO DE REVISÃO DA DOSIMETRIA DA PENA. INADMISSIBILIDADE. GRAVIDADE DELITIVA.
+Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º do CPP, o que se passa a examinar.
+Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+Sobre o tema, assim se manifestou o Tribunal local (fl. 264):
+ ..  destaco que a sentença fundamentou o afastamento da minorante prevista no artigo 33, § 4º, da Lei de Drogas, com base em dois elementos concretos dos autos: a) elevadíssima variedade de substâncias entorpecentes apreendidas com o réu; e b) a apreensão de um radiocomunicador em pleno funcionamento, instrumento comumente utilizado por agentes do tráfico para comunicação entre olheiros e comparsas durante a prática delituosa.
+Esses elementos extrapolam o mero exercício episódico da traficância e evidenciam, com clareza, que o réu se dedica de forma habitual à atividade criminosa, afastando um dos requisitos indispensáveis para a aplicação da causa de diminuição de pena.
+Assim, no caso em apreço, o conjunto probatório demonstra que o réu não atua de forma ocasional ou eventual no tráfico, mas sim possui vínculo estrutural com a prática criminosa, de modo que não preenche o requisito subjetivo exigido para o benefício. ..
+Como se vê da transcrição acima, diversamente do alegado pela impetrante, o afastamento do redutor em apreço ocorreu em virtude da conclusão acerca da dedicação do réu, ora paciente, a atividades ilícitas, comprovando-se que não atua de forma ocasional no tráfico, mas sim mediante vínculo estrutural, ausentando-se, assim, o requisito subjetivo exigido para tal benefício, não havendo falar-se, ainda, na ocorrência de bis in idem. A propósito:
+DIREITO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. HABITUALIDADE DELITIVA DEMONSTRADA EM CONCRETO. BIS IN IDEM AFASTADO. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, no qual se pleiteava o reconhecimento do tráfico privilegiado e se defendia a tese de bis in idem na dosimetria da pena.
+2. Fato relevante. O Tribunal de origem reconheceu que o agravante fazia do tráfico de drogas seu meio de vida, utilizando redes sociais para comercializar entorpecentes e possuindo clientela considerável, circunstâncias que afastaram a aplicação da minorante do tráfico privilegiado.
+3. As decisões anteriores. A decisão agravada se fundamentou na jurisprudência do STJ, que entende que a habitualidade delitiva demonstrada nos autos justifica o afastamento da minorante do tráfico privilegiado, e que a revisão das conclusões do acórdão recorrido demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a habitualidade delitiva demonstrada nos autos afasta a aplicação da minorante do tráfico privilegiado; e (ii) analisar se há bis in idem na utilização da quantidade de drogas para majorar a pena-base e para afastar o redutor da pena, como alegado pela defesa.
+III. Razões de decidir
+5. A jurisprudência do STJ entende que a quantidade e a natureza da droga, isoladamente, não impedem o reconhecimento do tráfico privilegiado, mas a habitualidade delitiva demonstrada nos autos justifica o afastamento da minorante.
+6. A decisão agravada destacou que o agravante utilizava redes sociais para vender entorpecentes e possuía clientela considerável, circunstâncias que indicam dedicação a atividades criminosas e afastam a aplicação da minorante do tráfico privilegiado.
+8. A revisão das conclusões do acórdão recorrido demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A habitualidade delitiva demonstrada nos autos afasta a aplicação da minorante do tráfico privilegiado.
+2. A revisão de conclusões que demandem reexame do conjunto fático-probatório é vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+(AgRg no REsp n. 2.056.374/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/9/2025, DJEN de 23/9/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO CABIMENTO. ELEMENTOS CONCRETOS DIVERSOS DA QUANTIDADE DE DROGA. NÃO BIS IN IDEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 a 2/3, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, o uso da quantidade e da natureza da droga para elevar a pena-base e afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006 não constitui bis in idem quando há nos autos outros elementos que evidenciam a habitualidade delitiva, como na espécie. Nesse sentido: AgRg no HC n. 780.529/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 26/6/2024; AgRg no HC n. 884.034/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 24/5/2024; AgRg no HC n. 875.148/SC, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 25/4/2024; e AgRg no AREsp n. 2.211.050/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 8/3/2024.
+3. Caso em que a Corte de origem manteve afastada a minorante por entender que o modus operandi do delito - deslocamento interestadual em veículo previamente preparado para o transporte do entorpecente - evidenciou a dedicação do agravante à atividade criminosa, bem como a colaboração com o grupo criminoso.
+4. A modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível nas razões do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 975.047/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.)
+Diante da inexistência de ilegalidade flagrante, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
