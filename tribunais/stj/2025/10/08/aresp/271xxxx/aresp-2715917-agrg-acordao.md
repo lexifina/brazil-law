@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. PEDIDO DE APLICAÇÃO DA FRAÇÃO MÁXIMA (2/3). INVIABILIDADE. QUANTIDADE E VARIEDADE DOS ENTORPECENTES. CERCA DE 900 G, DISTRIBUÍDOS EM CENTENAS DE PORÇÕES. FIXAÇÃO DA FRAÇÃO REDUTORA NO PATAMAR MÍNIMO (1/6). FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A fração de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 pode ser modulada em razão da quantidade e da natureza da droga apreendida, desde que tais fundamentos não tenham sido utilizados para exasperar a pena-base, sob pena de bis in idem.
+2. Apreensão de aproximadamente 900 g de diferentes entorpecentes, acondicionados em centenas de porções, constitui motivação idônea para a fixação da causa de diminuição no patamar mínimo.
+3. A pretensão da defesa de rediscutir as circunstâncias fáticas do delito demanda o reexame de provas, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL GOMES CALIXTRO contra a decisão, de minha relatoria, na qual conheci do agravo para não conhecer do recurso especial, assim ementada (fl. 503):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. PEDIDO DE APLICAÇÃO DA FRAÇÃO MÁXIMA (2/3). IMPOSSIBILIDADE. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. APROXIMADAMENTE 900 G DE DIFERENTES TIPOS DE ENTORPECENTES ACONDICIONADOS EM CENTENAS DE PORÇÕES. MODULAÇÃO DA FRAÇÃO REDUTORA EM 1/6. FUNDAMENTAÇÃO IDÔNEA. PRETENSÃO DE REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Na presente insurgência (fls. 512/519), a defesa reitera a tese de que a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 se aplica à agravante no grau máximo considerando suas condições pessoais e as circunstâncias objetivas do delito. Ao final da peça recursal, requer a reconsideração da decisão impugnada, ou a remessa do agravo para julgamento colegiado, a fim de que o recurso especial seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. PEDIDO DE APLICAÇÃO DA FRAÇÃO MÁXIMA (2/3). INVIABILIDADE. QUANTIDADE E VARIEDADE DOS ENTORPECENTES. CERCA DE 900 G, DISTRIBUÍDOS EM CENTENAS DE PORÇÕES. FIXAÇÃO DA FRAÇÃO REDUTORA NO PATAMAR MÍNIMO (1/6). FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A fração de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 pode ser modulada em razão da quantidade e da natureza da droga apreendida, desde que tais fundamentos não tenham sido utilizados para exasperar a pena-base, sob pena de bis in idem.
+2. Apreensão de aproximadamente 900 g de diferentes entorpecentes, acondicionados em centenas de porções, constitui motivação idônea para a fixação da causa de diminuição no patamar mínimo.
+3. A pretensão da defesa de rediscutir as circunstâncias fáticas do delito demanda o reexame de provas, providência inviável em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental improvido.
+VOTO
+Os argumentos recursais não são suficientes para infirmar o juízo monocrático.
+No que se refere à minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, a decisão agravada constou o seguinte (fls. 503/506):
+O acórdão no recurso de apelação aplicou a causa de diminuição do tráfico privilegiado em 1/6 pelos seguintes fundamentos (fls. 379/381 - grifo nosso):
+Por outro lado, muito embora a natureza e a quantidade dos entorpecentes constituam critérios preponderantes no estabelecimento da pena-base, no caso de tráfico de entorpecentes consolidou-se o entendimento de que, diante da ausência de parâmetros legais, é possível que a fração de redução da causa de diminuição de pena estabelecida no art. 33, §4º, da Lei de Drogas seja modulada em razão da quantidade e natureza dos entorpecentes apreendidos, desde que os mesmos fundamentos não tenham justificado a exasperação na primeira fase da dosimetria, sob pena de bis in idem
+ ..
+A quantidade e variedade das substâncias não foram utilizadas como circunstâncias judiciais desfavoráveis em sede recursal. Tratava-se de aproximadamente 900 gramas de diferentes tipos de entorpecente acondicionados em centenas de porções. Evidentemente trata-se de tráfico de menor extensão. A quantidade, embora considerável, não é exagerada a ponto de justificar o afastamento da aplicação do redutor. Todavia, a quantidade não justifica a redução em seu patamar máximo. Assim, mostra-se proporcional a redução da pena no patamar mínimo de 1/6.
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, concluiu que as circunstâncias concretas - especificamente a quantidade não desprezível de entorpecentes apreendidos, aproximadamente 900 g de diferentes tipos de entorpecente), bem como o fato de estarem acondicionados em centenas de porções - eram suficientes para modular a fração redutora no patamar mínimo de 1/6, reconhecendo que, embora não fosse caso de afastamento completo do benefício, a quantidade não justificava a redução em seu patamar máximo.
+Logo, a desconstituição do entendimento firmado pela Corte de origem, a fim de reconhecer o redutor do tráfico privilegiado, demanda o reexame do conjunto fático-probatório dos autos, vedado na via especial, a teor da Súmula 7/STJ (AgRg no AREsp n. 2.521.350/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 27/8/2024).
+Ao contrário do que aduz a defesa, esta Corte tem entendimento no sentido de que a valoração da quantidade e natureza da droga pode ocorrer tanto na primeira quanto na terceira fase da dosimetria, desde que não haja bis in idem (AgRg no AREsp n. 2.315.896/MG, Ministro Messod Azulay Neto, Quinta Turma, DJEN 27/8/2025).
+Assim, conforme consignado na decisão impugnada, conclui-se que o Tribunal de origem apontou elementos suficientes e idôneos a justificar a incidência da minorante na fração mínima, nos termos da jurisprudência desta Corte.
+Acrescento, por fim, que, diante do mencionado contexto fático-probatório, a alteração da conclusão de que o réu se dedica a atividades criminosas, como pretende a defesa, demandaria o revolvimento dos referidos elementos, providência vedada pela Súmula 7/STJ. A esse respeito: AgRg no AREsp n. 1.710.192/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/4/2021.
+Diante do exposto, nego provimento ao agravo regimental.
