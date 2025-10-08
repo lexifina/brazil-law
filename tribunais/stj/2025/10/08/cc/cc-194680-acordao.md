@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, conhecer do conflito, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+Direito processual civil. Conflito de competência. Execução de título judicial. Responsabilidade solidária. Competência da Justiça Estadual. Conflito conhecido para declarar competente o Juízo Estadual.
+I. Caso em exame
+1. Conflito de competência suscitado pelo Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS em face do Juízo de Direito da 2ª Vara Cível de Chapadão do Sul/RS, nos autos do cumprimento de sentença movido contra o Banco do Brasil S/A.
+2. O Juízo Estadual declinou da competência para a Justiça Federal, sob o argumento de que o acórdão executado reconheceu a responsabilidade solidária do Banco do Brasil, da União e do Bacen.
+3. O Juízo Federal suscitou o conflito, alegando que a execução apenas em face do Banco do Brasil não justifica a reunião dos entes federais ao polo passivo, sob pena de indevida cumulação de execuções e violação aos princípios da economia e celeridade processual.
+II. Questão em discussão
+4. A questão em discussão consiste em definir qual o Juízo competente para processar o cumprimento de sentença instaurado unicamente em desfavor do Banco do Brasil, cujo título exequendo também reconhece a responsabilidade solidária com a União e o BACEN.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que não há litisconsórcio necessário nos casos de responsabilidade solidária, sendo facultado ao credor optar pelo ajuizamento em face de um ou outro dos devedores.
+6. O Juízo Federal já se posicionou no sentido da ausência de ente federado na causa, atraindo a competência da Justiça comum estadual para análise do feito, conforme a Súmula nº 150 do STJ.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Chapadão do Sul/RS.
+Tese de julgamento:
+1. Não há litisconsórcio necessário nos casos de responsabilidade solidária, sendo facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores.
+2. A competência para processar e julgar causas em que a União, entidade autárquica ou empresa pública federal forem interessadas é da Justiça Federal, exceto quando não há interesse jurídico que justifique a presença de tais entes no processo.
+Dispositivos relevantes citados:CF/1988, art. 109, I; CPC, art. 178; CPC, art. 951, parágrafo único.
+Jurisprudência relevante citada:STJ, AgInt no AREsp 1.309.643/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 02/05/2019; STJ, REsp 1.948.316/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 29/11/2021; STJ, REsp 1.145.146/RS, Rel. Min. Luiz Fux, Primeira Seção, DJe de 01/02/2010.
+RELATÓRIO
+Trata-se de conflito de competência suscitado pelo d. Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS em face do d. Juízo de Direito da 2ª Vara Cível Chapadão do Sul/RS, deflagrado nos autos do cumprimento de sentença movido por Elo Ramiro Loeff em desfavor de Banco do Brasil S/A.
+A sentença coletiva cujo cumprimento se exige, foi exarada na Ação Civil Pública de nº 94.008514-1, pela d. 3ª Vara Federal do Distrito Federal, condenando solidariamente a União, o Banco do Brasil e o Banco Central-BACEN na adoção da BTN de março de 1990, em substituição ao IPC de março de 1990, como índice de correção monetárias das operações de crédito rural corrigidas pela caderneta de poupança.
+O d. Juízo de Direito da 2ª Vara Cível Chapadão do Sul/RS, suscitado, declinou da competência à Justiça Federal, ao argumento de que o acórdão executado reconheceu a responsabilidade solidária do Banco do Brasil, da União e do Bacen. O d. Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS, por sua vez, suscitou o presente conflito de competência alegando que, à luz dos princípios da economia e celeridade processuais, a formação do litisconsórcio facultativo neste caso concreto não se revela viável, na medida em que acarretaria indevida cumulação de execuções.
+Este, em síntese, o relatório.
+EMENTA
+Direito processual civil. Conflito de competência. Execução de título judicial. Responsabilidade solidária. Competência da Justiça Estadual. Conflito conhecido para declarar competente o Juízo Estadual.
+I. Caso em exame
+1. Conflito de competência suscitado pelo Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS em face do Juízo de Direito da 2ª Vara Cível de Chapadão do Sul/RS, nos autos do cumprimento de sentença movido contra o Banco do Brasil S/A.
+2. O Juízo Estadual declinou da competência para a Justiça Federal, sob o argumento de que o acórdão executado reconheceu a responsabilidade solidária do Banco do Brasil, da União e do Bacen.
+3. O Juízo Federal suscitou o conflito, alegando que a execução apenas em face do Banco do Brasil não justifica a reunião dos entes federais ao polo passivo, sob pena de indevida cumulação de execuções e violação aos princípios da economia e celeridade processual.
+II. Questão em discussão
+4. A questão em discussão consiste em definir qual o Juízo competente para processar o cumprimento de sentença instaurado unicamente em desfavor do Banco do Brasil, cujo título exequendo também reconhece a responsabilidade solidária com a União e o BACEN.
+III. Razões de decidir
+5. A jurisprudência do Superior Tribunal de Justiça estabelece que não há litisconsórcio necessário nos casos de responsabilidade solidária, sendo facultado ao credor optar pelo ajuizamento em face de um ou outro dos devedores.
+6. O Juízo Federal já se posicionou no sentido da ausência de ente federado na causa, atraindo a competência da Justiça comum estadual para análise do feito, conforme a Súmula nº 150 do STJ.
+IV. Dispositivo e tese
+7. Resultado do Julgamento: Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Chapadão do Sul/RS.
+Tese de julgamento:
+1. Não há litisconsórcio necessário nos casos de responsabilidade solidária, sendo facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores.
+2. A competência para processar e julgar causas em que a União, entidade autárquica ou empresa pública federal forem interessadas é da Justiça Federal, exceto quando não há interesse jurídico que justifique a presença de tais entes no processo.
+Dispositivos relevantes citados:CF/1988, art. 109, I; CPC, art. 178; CPC, art. 951, parágrafo único.
+Jurisprudência relevante citada:STJ, AgInt no AREsp 1.309.643/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 02/05/2019; STJ, REsp 1.948.316/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 29/11/2021; STJ, REsp 1.145.146/RS, Rel. Min. Luiz Fux, Primeira Seção, DJe de 01/02/2010.
+VOTO
+Consoante exposto no relatório, trata-se de conflito de competência instaurado entre o Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS e o Juízo de Direito da 2ª Vara Cível de Chapadão do Sul/RS, no qual o juízo estadual declinou de sua competência em favor da Justiça Federal, sob o fundamento de que o acórdão exequendo reconheceu responsabilidade solidária entre o Banco do Brasil, a União e o Banco Central, atraindo, assim, a competência federal.
+Contudo, o juízo federal suscitou o conflito, alegando que o fato de a execução ter sido promovido apenas em face do Banco do Brasil - empresa pública federal que atua sob regime de direito privado - não justifica a reunião dos entes federais ao polo passivo, sob pena de indevida cumulação de execuções e violação aos princípios da economia e celeridade processuais.
+De início, conforme autorizado pelos artigos 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana(art. 178, CPC).
+A controvérsia instaurada nos autos consiste em se definir qual o Juízo competente para processar cumprimento de sentença instaurado unicamente em desfavor do Banco do Brasil, mas cujo título exequendo reconhece a responsabilidade solidária com a União e o BACEN.
+Este Corte Superior tem decidido reiteradamente que, "reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários" (AgInt no AREsp 1.309.643/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 02/05/2019), de modo a reconhecer que "não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Assim, reconhecida a solidariedade entre a União, o Banco Central e o Banco do Brasil, é possível direcionar o cumprimento provisório da sentença a qualquer um deles" (REsp n. 1.948.316/SP, Relª. Minª. Nancy Andrighi, Terceira Turma, DJe de 29/11/2021).
+Neste contexto, o art. 109, I, da CF/88 assim dispõe:
+Art. 109. Aos juízes federais compete processar e jugar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+No caso dos autos, o Juízo Federal suscitante já se posicionou no sentido da ausência de ente federado na causa - que envolve pessoas jurídicas de direito privado (a autora e a ré) -, nos exatos termos da Súmula nº 150 do Superior Tribuna de Justiça (Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas), o que atrai, por consequência, a competência da Justiça comum para análise do feito. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. LEGITIMIDADE E COMPETÊNCIA CHAMAMENTO AO PROCESSO. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. 1. A jurisprudência desta Corte é no sentido de que não há litisconsórcio necessário nos casos de responsabilidade solidária, porquanto facultado ao credor optar pelo ajuizamento entre um ou outro dos devedores. Precedentes. 2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ. 3. Agravo interno a que se nega provimento." (AgInt no REsp n. 2.064.138/CE, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 2/10/2023, DJe de 5/10/2023)
+O entendimento manifestado pelo d. Juízo Federal da 1ª Vara e Juizado Especial Federal Adjunto de Três Lagoas/MS, portanto, está em consonância com a jurisprudência desta Corte, alinhada ao julgamento do REsp 1.145.146/RS (Relator Ministro Luiz Fux, Primeira Seção, DJe de 1º/2/2010) - Tema 315 dos recursos repetitivos -, no sentido de que não existe litisconsórcio passivo necessário nos casos de responsabilidade solidária, podendo o credor direcionar o cumprimento de sentença a qualquer um dos devedores solidários.
+Do exposto, conheço do conflito para declarar competente o d. Juízo de Direito da 2ª Vara Cível Chapadão do Sul/RS.
+É como voto.
