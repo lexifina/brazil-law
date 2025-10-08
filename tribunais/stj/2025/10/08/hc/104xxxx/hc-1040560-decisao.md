@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO HENRIQUE BORGES DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi denunciado como incurso no artigo 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, em acórdão de fls. 13-19.
+No presente writ, a defesa sustenta, em síntese, a ausência de fundamentação concreta do decreto preventivo, em afronta ao art. 312 do Código de Processo Penal e a suficiência de medidas cautelares diversas diante das condições pessoais favoráveis do paciente.
+Salienta, ainda, que a quantidade de droga apreendida não é exacerbada, não indicando envolvimento com organização criminosa ou tráfico em grande escala e que, em eventual condenação, o paciente poderá iniciar o cumprimento da pena em regime diverso do fechado, mostrando-se desproporcional a manutenção da prisão preventiva.
+Requer a concessão da or dem para revogar a prisão preventiva do Paciente, com a substituição por medidas cautelares diversas, nos termos do artigo 319 do Código de Processo Penal.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. D essa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do inteiro teor do decreto preventivo.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
