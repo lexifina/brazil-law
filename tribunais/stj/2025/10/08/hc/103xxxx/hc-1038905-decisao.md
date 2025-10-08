@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KAIO PATRICK DE SÁ SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado às penas de 9 anos e 4 meses de reclusão em regime inicial fechado e do pagamento de 1.399 dias-multa, como incurso nos arts. 33, caput, e 35, c/c o art. 40, IV, da Lei 11.343/2006.
+A impetrante sustenta que a decisão colegiada incorreu em erro de direito e de procedimento ao desconsiderar o benefício da dúvida, resultando em condenação sem lastro probatório seguro.
+Alega que a imputação do art. 35 da Lei n. 11.343/2006 carece das elementares de estabilidade e permanência, pois a denúncia é genérica e não descreve vínculo associativo concreto.
+Afirma que o paciente foi preso sozinho e não há investigação prévia, registros ou elementos que indiquem associação ou integração à facção criminosa.
+Defende que o acórdão baseou-se em presunções sobre domínio territorial por facção, inexistência de "autônomos" e suposta função de "vapor", sem prova específica de vínculo estável e permanente.
+Entende que, ausente a comprovação do concurso necessário e do ânimo associativo duradouro, é imperativa a absolvição pelo art. 35 da Lei n. 11.343/2006.
+Pondera que, afastada a associação, deve incidir a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, pois o paciente é primário e possui bons antecedentes, sem demonstração de dedicação a atividades criminosas.
+Argumenta que a quantidade de droga, isoladamente, não afasta o redutor do art. 33, § 4º, da Lei n. 11.343/2006, nem autoriza negar o privilégio com base em suposições, e que reconhecida a minorante na fração máxima, cabem substituição da pena por restritivas de direitos, nos termos do art. 44 do Código Penal, e fixação do regime aberto, conforme art. 33, § 2º, c, do Código Penal.
+Requer, liminarmente, a soltura do paciente para aguardar em liberdade o julgamento do presente writ. No mérito, postula a absolvição pelo art. 35 da Lei n. 11.343/2006, o reconhecimento do art. 33, § 4º, da Lei n. 11.343/2006, com redimensionamento da pena, fixação do regime aberto e sua substituição por restritivas de direitos.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+No caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+No que tange à condenação pelo crime de associação para o tráfico de drogas, com base na leitura do acórdão, observa-se que foram expressamente indicados os motivos para a solução adotada pelo Tribunal de origem. No ponto (fls. 32-36):
+Os autos dão conta de que os policiais efetuaram uma diligência ao local dos fatos, área sabidamente dominada pela organização criminosa Comando Vermelho, onde é notória a prática do tráfico de drogas, com o propósito de retirarem barricadas postas pelo tráfico em via pública, para dificultar e por vezes até impedir o acesso da Polícia ou de outras organizações rivais no interior do território dominado.
+Ao abordarem o recorrente, foram encontrados e arrecadados 106,60g (cento e seis gramas e sessenta decigramas) de Cloridrato de Cocaína, na forma conhecida como "PÓ", distribuídos em 60 (sessenta) tubos plásticos, além de 58,40g (cinquenta e oito gramas e quarenta decigramas) de Cannabis Sativa L, substância popularmente conhecida como "MACONHA" distribuída em 75 (setenta e cinco) invólucros plásticos, conforme laudo de exame de entorpecente de id. 70506832.
+Demais disso, um radiotransmissor ligado na frequência do tráfico local, o que possibilitou aos agentes da lei, inclusive, ouvirem o que o crime organizado dizia quanto à incursão policial promovida.
+Na ocasião, no chão, próximo ao recorrente fora arrecadado um artefato explosivo do tipo granada de mão.
+Com efeito, o tipo penal previsto no caput, do artigo 33, da Lei nº 11.343/06, é crime de natureza múltipla (multinuclear), de sorte que a prática de qualquer uma das condutas descritas no preceito primário da norma caracteriza o tráfico de drogas.
+Assim, a intenção de difusão ilícita não se caracteriza apenas por meio do flagrante dos atos da mercancia ou venda direta das substâncias aos usuários, mas também pode ser demonstrada por meio de outras circunstâncias.
+A prisão por força da efetivação da diligência de desobstrução da via pública, com a arrecadação de relevante quantidade e variedade de drogas, além de radiotransmissor e granada de mão, tudo corroborado pelo depoimento dos policiais da diligência, tornam evidente a prática do delito previsto no art. 33, caput, da Lei 11.343/06, não havendo falar- se, portanto, em conjunto probatório anêmico ou insuficiente ao tipo penal do tráfico.
+Em relação ao crime previsto no artigo 35, da Lei nº 11.343/06, após detida análise do caderno de provas, constatam-se presentes elementos empíricos que, conjugados com aqueles colhidos no curso da instrução, demonstram a indisfarçável prática do delito de associação para o tráfico de drogas:
+1) Consoante os depoimentos coligidos, os policiais eram sabedores de que o tráfico na região era subordinado à facção Comando Vermelho e, por força de informação anônima, para lá procederam com o fito de desobstruir as vias públicas, livrando-as das barricadas e trincheiras colocadas pela organização criminosa;
+2) É notório e, portanto, independente de prova, o domínio de determinadas regiões do Estado por organizações criminosas no exercício de atividades ilícitas e, dentre a mais importante dessas, o tráfico de drogas;
+3) Igualmente é de conhecimento público o fato de não existirem traficantes de drogas "free lancers" ou "non members" que ainda estejam vivos em áreas dominadas por facções, mormente aquela de índole tão violenta como é a facção "CV", sabidamente a organização criminosa dominante do local dos fatos;
+4) No que concerne ao crime de associação, os fatos apurados evidenciaram a prática de atividades típicas de uma associação criminosa sofisticada, estruturada hierarquicamente e devotada à prática do tráfico de drogas, como, por exemplo, a função de "vapor" assumida informalmente pelo apelante junto aos policiais da diligência, conforme cristalinamente se extrai dos seus testemunhos;
+5) Refoge, portanto, ao bom senso meridiano do homem comum, que traficantes inexperientes ou meramente recreativos e eventuais, sem fortes vínculos com a facção dominante, formassem um mutirão de trabalho em comunhão tão estreita de esforços e desígnios, ao ponto de assumirem o risco da exposição grave da própria vida, ao conduzirem, de maneira autônoma e dentro de uma região dominada, a mesma atividade fim daquela organização controladora do lugar (o "CV"), que é, principalmente, a venda de entorpecentes;
+6) Inobstante tais conclusões, vê-se que a lógica, quando aplicada à hipótese em exame, força concluir no sentido de que, à conta de todos esses elementos conjugados, de maneira iniludível, estável e permanente, era o apelante perene associado entre si e demais elementos faccionados ainda ignorados;
+7) E, o grau de estabilidade e permanência nessa condição associativa é tal, que o permitia atuar num importante ponto de tráfico da organização dominante, possuindo drogas diversas, em quantidades importantes e prontas para a venda no varejo, além dos demais petrechos arrecadados, radiotransmissor e artefato explosivo, e tudo isso fazendo com a desenvoltura exibida nos autos, sem temer por qualquer represália dos líderes da organização, que acabam por ser, de fato, os seus chefes hierárquicos;
+8) Tal condição de estabilidade e permanência, importa frisar, não foi afastada por nenhuma prova existente nos autos;
+9) Como bem sintetizou o próprio E. STJ, corroborando tudo o que anteriormente foi exposto, "não se trata aqui de presunção de associação, mas de fatos corriqueiramente já conhecidos da polícia e das comunidades vítimas do tráfico de drogas, ou seja, impossível, dentro de uma comunidade dominada por facção criminosa, traficar sem estar associado à referida organização criminosa." (STJ, AREsp 1033219, Ministro NEFI CORDEIRO, 04/04/2017).
+Há, portanto, indícios sérios e concludentes (CPP, art. 239) apontando no sentido de que o apelante e outros faccionados ainda ignorados estavam associados para a prática do crime de tráfico de drogas.
+Nesse diapasão, aqueles dedicados às atividades criminosas ou integrantes de organização criminosa incidem no óbice expresso ao benefício do § 4º, do art. 33, da LD, conforme previsto pelo próprio legislador especial penal, o que afasta desde logo o reconhecimento do privilégio, inobstante a pacífica jurisprudência do E. STJ de há muito asseverar não fazer jus ao benefício aquele condenado também pelo delito do art. 35, da Lei 11.343/06, como sói ocorrer aqui.
+Como se vê, o Tribunal de origem concluiu, por sua leitura e análise, haver prova suficiente a indicar a participação do paciente na estrutura de facção criminosa que domina a região, mormente porque ele foi flagrado na posse de radiocomunicador ligado na frequência utilizada pelos membros da referida organização, e também na proximidade de uma granada, cuja posse lhe foi circunstancialmente atribuída.
+Nesse contexto, a pretensão v eiculada na impetração demandaria o revolvimento das provas dos autos para desconstituir premissas firmadas nas instâncias de origem.
+Todavia, a via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE DROGAS PARA USO PESSOAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. RISCO EFETIVO DE REITERAÇÃO DELITIVA. RÉU REINCIDENTE ESPECÍFICO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifo próprio.)
+Também no que tange à pretensão de reconhecimento da figura do tráfico privilegiado, com sua repercussão na pena imposta ao paciente, entendo não prosperar.
+Como observado do excerto já transcrito oportunamente, a benesse do tráfico privilegiado foi afastada pelas instâncias ordinárias diante da constatação de que o paciente se dedica a atividades criminosas, tendo inclusive sido condenado pelo delito do art. 35 da Lei n. 11.343/2006.
+Assim, entendendo que o réu não satisfaz as exigências do privilégio do § 4º do art. 33 da Lei n. 11.343/2006, a Corte local fundamentadamente rechaçou a sua incidência, não havendo ilegalidade quanto ao ponto. A propósito:
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO IDÔNEA PARA O AFASTAMENTO. PROVA TESTEMUNHAL DOS POLICIAIS COMO MEIO VÁLIDO. SÚMULAS 83 E 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+ ..
+5. O afastamento da minorante do art. 33, § 4º, da Lei 11.343 /2006 foi devidamente fundamentado em elementos concretos extraídos dos autos, como investigações de campo, depoimentos de vizinhos, e relatos consistentes de policiais sobre a mercancia ilícita realizada pelo recorrente.
+6. A análise do pleito do recorrente demandaria a reavaliação de provas e fatos, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+7. O acórdão recorrido está em consonância com a jurisprudência consolidada do STJ sobre o afastamento da minorante do tráfico privilegiado em casos de reincidência ou dedicação a atividades criminosas, atraindo a incidência da Súmula 83/STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.086.054/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
