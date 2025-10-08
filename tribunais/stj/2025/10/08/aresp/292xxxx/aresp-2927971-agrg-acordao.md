@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA DA PENA. SUPOSTA ILEGALIDADE NO CRITÉRIO ADOTADO PELA CORTE DE ORIGEM PARA A FIXAÇÃO DA PENA-BASE (1/8 APLICADO AO INTERVALO ENTRE A PENA MÍNIM A E A PENA MÁXIMA). IMPROCEDÊNCIA. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO IMPOSITIVO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ APARECIDO DOS SANTOS contra a decisão de minha lavra, na qual conheci do agravo para negar provimento ao recurso especial, tendo em vista que o acórdão proferido pelo Tribunal a quo se encontra em consonância com a jurisprudência desta Corte, atraindo a incidência dos enunciados das Súmulas 83 e 568/STJ.
+Em suas razões, a defesa do agravante afirma que a Súmula 83 foi invocada para justificar o não conhecimento do recurso especial sob o argumento de que não haveria divergência jurisprudencial relevante. No entanto, a jurisprudência não é uniforme quanto ao percentual adequado de aumento de pena por vetorial negativa. Existem decisões que reconhecem a necessidade de fundamentação concreta, enquanto outras toleram aumento genérico. O recurso especial apontou justamente essa divergência, com paradigmas de turmas distintas, o que evidencia a necessidade de uniformização pela Corte Superior (fl. 690).
+Sustenta, também, que o uso da súmula 568 em casos de divergência sobre percentuais de aumento penal é temerário, pois compromete a segurança jurídica e a uniformidade da jurisprudência (fl. 692).
+Requer, assim, a reconsideração da decisão agravada ou, caso contrário, a sua submissão ao órgão colegiado competente, a fim de que seja conhecido e provido o recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA DA PENA. SUPOSTA ILEGALIDADE NO CRITÉRIO ADOTADO PELA CORTE DE ORIGEM PARA A FIXAÇÃO DA PENA-BASE (1/8 APLICADO AO INTERVALO ENTRE A PENA MÍNIM A E A PENA MÁXIMA). IMPROCEDÊNCIA. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO IMPOSITIVO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.
+Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão do agravante.
+Com efeito, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com a decisão ora questionada, na tentativa de rediscutir a matéria rechaçada.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 59 e 68, ambos do Código Penal, argumentando que, na dosimetria da pena, foi fixado aumento superior a 1/6 para cada vetorial negativada, sem a correspondente fundamentação.
+Reitero o entendimento de que a insurgência não prospera, pois, conforme bem asseverou o acórdão proferido pelo Tribunal estadual, quanto ao cálculo da reprimenda, o magistrado de origem utilizou a fração de 1/8 da diferença entre as penas mínima e máxima para cada circunstância judicial desfavorável, critério estimado por esta Turma, devendo ser mantido (fl. 540).
+Sendo assim, não há qualquer ilegalidade a ser sanada, na medida em que diante do silêncio do legislador, a doutrina e a jurisprudência deste Superior Tribunal de Justiça consolidaram o entendimento de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro de 1/6 (um sexto) sobre o mínimo legal (pena mínima em abstrato) ou o critério de 1/8 (um oitavo) sobre o intervalo entre as penas mínimas e máximas previstas no preceito secundário do tipo penal incriminador, para cada vetorial desfavorável, frações que se firmaram em observância aos princípios da razoabilidade e proporcionalidade, ressalvada a apresentação de motivação concreta, suficiente e idônea que justifique a necessidade de elevação em patamar superior (AgRg no AREsp n. 2.857.832/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025).
+No mesmo sentido, confiram-se: AgRg no REsp n. 2.019.441/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg nos EAREsp n. 2.458.272/TO, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/5/2025, DJEN de 20/5/2025.
+Nesse contexto, considerando que a Corte de origem utilizou fundamentação idônea para aumentar a pena e aplicou um critério dentro da discricionariedade vinculada que lhe é assegurada pela lei, não se pode falar em violação do art. 59 do Código Penal, encontrando-se o acórdão recorrido em perfeita consonância com a jurisprudência desta Corte.
+Mantenho, assim, a incidência do enunciado da Súmula 83/STJ .
+Ante o exposto, nego provimento ao agravo regimental.
