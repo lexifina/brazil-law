@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABRÍCIA DA SILVA SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que a paciente foi presa preventivamente, tendo sido decretada a prisão em 27/6/2025, e foi denunciada pela suposta prática da conduta descrita no art. 35, caput, da Lei n. 11.343/2006.
+A impetrante alega que a prisão se apoia apenas em mensagens com envio de chave Pix e transferências de R$ 60,00 (sessenta reais) e R$ 30,00 (trinta reis), além de diálogo interpretado de forma especulativa, sem apreensão de drogas ou registros que indiquem cadeia de comando.
+Assevera que a paciente é primária, não ostenta antecedentes criminais, possui residência fixa e ocupação lícita como vendedora de doces e babá, havendo provas que demonstram trabalho regular.
+Afirma que o acórdão de origem manteve a custódia com fundamentação genérica, sem apontar elementos concretos que justifiquem o encarceramento.
+Defende que não há demonstração do periculum libertatis, nem motivação suficiente, devendo prevalecer a presunção de não culpabilidade, prevista no art. 5º, LVII, da Constituição Federal.
+Pondera que o crime não envolve violência ou grave ameaça e que medidas do art. 319 do Código de Processo Penal, inclusive monitoramento eletrônico, seriam adequadas e suficientes.
+Entende que, em caso de condenação, a condição de primária e o contexto dos autos não conduziriam ao encarceramento, o que evidenciaria a desproporcionalidade da cautelar extrema.
+Informa que a paciente é acometida de depressão e faz uso de medicação controlada, pleiteando substituição da preventiva por prisão domiciliar, nos termos do art. 318, II, do CPP.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva por medidas cautelares, com monitoramento eletrônico.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifica-se que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Quanto à alegada desproporcionalidade da prisão cautelar, "trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade)" (AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021).
+No mais, a prisão preventiva da paciente foi decretada nos seguintes termos (fls. 443 e 459-460, grifei):
+Em seguida, no mesmo celular, um contato chamado "Fabricia" possuía diversas conversas com Natalia.
+O teor das conversas, apesar de inúmeras mensagens apagadas, destaca que Fabricia comanda uma operação e que pelo ótimo lucro das vendas de Natalia, ia mandar uma da boa para ela como recompensa.
+ ..
+No caso em tela, estão preenchidos todos os elementos necessários ao decreto da medida cautelar.
+A materialidade dos ilícitos atribuídos aos agentes está satisfatoriamente demonstrada, no momento, por todos os documentos acostados junto a investigação policial.
+Por outro lado, existem fortes evidências de que os noticiados vêm praticando, em tese, o delito de tráfico ilícito de entorpecentes e se associando para o tráfico (art. 35 e 33 da Lei n. 11.343/2006).
+Assim, denota-se dos elementos transcritos estar configurado o requisito do fumus commissi delicti.
+Seguindo-se na análise quanto ao cabimento da medida cautelar drástica correspondente à restrição de liberdade, extrai-se que o periculum libertatis reside na necessidade de garantia da ordem pública, nitidamente afetada pelas graves condutas delituosas praticadas pelos agentes.
+ ..
+No caso, extrai-se que os investigados possuem uma ampla rede para venda, distribuição e armazenamento de drogas, atuando de forma organizada para o sucesso do empreendimento.
+Assim consta da decisão que manteve a prisão preventiva, transcrita no acórdão recorrido (fls. 27-28, sublinhei):
+(..) 6. Conforme consta dos elementos coligidos nos autos nº 0001520- 84.2025.8.16.0167 e 0001833-45.2025.8.16.0167, a ré Fabrícia da Silva Santos integra organização estável e estruturada voltada à prática reiterada do crime de tráfico de drogas, em concurso com outros agentes, notadamente no Município de Guairaçá/PR e região. 7. Resta evidenciado, ainda, que a ré ocupava função de liderança dentro do grupo criminoso, sendo a responsável pela distribuição dos entorpecentes, arrecadação de valores ilícitos e cobrança de dívidas internas, inclusive entre os próprios membros da associação. Tal fato se comprova pelas mensagens entre os membros, que revelam pagamentos por meio de transferências bancárias e conversas em que a ré demonstrava domínio da operação criminosa. 8. Dito isto, não há elementos que demonstrem que as medidas cautelares diversas da prisão sejam suficientes, no momento, para assegurar a aplicação da lei penal e a garantia da ordem pública (autos nº 0001904-47.2025.8.16.0167, mov. 18.1).
+A leitura das decisões transcritas revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, tendo em vista que, segundo o disposto pelo Juízo de primeiro grau, há elementos concretos de que a paciente seja integrante de associação criminosa altamente organizada e especializada em tráfico de drogas, circunstância que autoriza a aplicação analógica do entendimento jurisprudencial relativo às organizações criminosas.
+Ainda, ressaltou o Magistrado singular que a paciente "ocupava função de liderança dentro do grupo criminoso, sendo a responsável pela distribuição dos entorpecentes, arrecadação de valores ilícitos e cobrança de dívidas internas, inclusive entre os próprios membros da associação" (fl. 28).
+Nesse contexto, "conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009)" (AgRg no HC n. 910.098/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "FIM DO MUNDO". ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE NULIDADE E DESENTRANHAMENTO DE PROVAS ILÍCITAS. ACESSO AO CONTEÚDO DO CELULAR APREENDIDO PELA AUTORIDADE POLICIAL OCORRIDO SEM AUTORIZAÇÃO JUDICIAL. QUEBRA DE SIGILO DE DADOS E TELEMÁTICOS. NÃO OCORRÊNCIA. AUTORIZAÇÃO DO CORRÉU. EXERCÍCIO DE AUTODEFESA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DECISÃO MANTIDA.
+ ..
+2. Com efeito: "A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque." (AgRg no HC n. 640.313/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 183.658/RJ, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT -, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. Em idêntica direção: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ainda, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Em relação ao pleito de substituição da prisão preventiva por domiciliar, o Tribunal de origem ressaltou que não ficou demonstrado nos autos que a paciente necessite de cuidados médicos que não possam ser prestados na unidade prisional em que se encontra. Confira-se (fl. 31, grifei):
+Por fim, no que tange a almejada prisão domiciliar, a ordem não está instruída com atestado médico no sentido de que a paciente está extremamente debilitada por motivo de doença grave (artigo 318, inciso II, do CPP), ou de documentos que comprovem que ela não esteja recebendo os medicamentos de que faz uso constante no local onde está custodiada.
+Verifica-se que a Corte de origem entendeu que a defesa não anexou aos autos documento algum que comprove a extrema debilidade por motivo de doença grave, tampouco a impossibilidade de a paciente receber o tratamento médico adequado dentro da unidade prisional, de modo que modificar a conclusão adotada pelas instâncias ordinárias demandaria dilação probatória, providência incabível na via estreita do habeas corpus ou de seu consectário recursal.
+Com esse entendimento:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. REQUISITOS NÃO COMPROVADOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso ordinário em habeas corpus, no qual se pleiteia a substituição da prisão preventiva por prisão domiciliar, com base no art. 318, inciso II, do Código de Processo Penal.
+2. Instâncias ordinárias concluíram pela ausência de provas suficientes para a substituição da prisão preventiva, uma vez que os documentos médicos apresentados não demonstrariam extrema debilidade ou impossibilidade de tratamento no sistema prisional.
+Destacaram, ademais, que o agravante se encontra foragido, o que impossibilita avaliação médica oficial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravante comprovou extrema debilidade por motivo de doença grave a justificar a pretendida substituição de prisão preventiva por prisão domiciliar, conforme exigido pelo art. 318, inciso II, do CPP.
+III. Razões de decidir
+4. A ausência de comprovação de extrema debilidade por motivo de saúde e de impossibilidade de tratamento no sistema prisional impede a substituição da prisão preventiva por domiciliar.
+5. A condição de foragido do agravante inviabiliza a avaliação médica oficial e a verificação da adequação do tratamento no sistema prisional.
+6. O revolvimento fático-probatório necessário para alterar a decisão recorrida não é cabível na via do habeas corpus.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "A substituição da prisão preventiva por domiciliar exige comprovação de extrema debilidade por doença grave e impossibilidade de tratamento no sistema prisional, o que não foi demonstrado nos autos".
+Dispositivos relevantes citados: CPP, art. 318, II. Jurisprudência relevante citada: STJ, RHC 116.842/MT, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 05.11.2019; STJ, AgRg no RHC 158.077/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 22.02.2022.
+(AgRg no RHC n. 205.294/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
