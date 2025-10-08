@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO NÃO PROVIDO.
+1. A ausência de similitude fática entre os julgados embargado e paradigma impede a configuração de divergência jurisprudencial.
+2. Não há como admitir os embargos de divergência, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas entre os acórdãos confrontados.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por UNIMED DE JUNDIAÍ COOPERATIVA DE TRABALHO MÉDICO (UNIMED JUNDIAÍ), na demanda em que contende com GABRIEL NIVOLONI TAVARES DA SILVA (GABRIEL), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro MARCO BUZZI, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Salvo impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, conforme art. 4º, I, da Lei 5.764/71, deve-se considerar ilimitado o número de associados que podem juntar-se ao quadro associativo, face a aplicação do princípio da adesão livre e voluntária que rege o sistema cooperativista. Precedente.
+2. Rever as conclusões do acórdão recorrido quanto a arbitrariedade dos critérios do processo seletivo para ingresso nos quadros da cooperativa, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em recurso especial, nos termos das Súmulas nºs 5 e 7 do STJ.
+3. Agravo interno desprovido (e-STJ, fl. 867).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a interpretação do art. 4º, I, da Lei 5.764/71, quanto ao caráter absoluto ou relativo do princípio da livre adesão aplicável às cooperativas médicas.
+A embargante citou como paradigma o julgado da Terceira Turma prolatado no AgInt nos EDcl no REsp nº 1.991.510/SP, relator Ministro MOURA RIBEIRO, j. 12/9/2022, DJe de 14/9/2022.
+Sustentou que enquanto a Quarta Turma entendeu que princípio das portas abertas (adesão livre e voluntária) é ilimitado, salvo impossibilidade técnica, interpretada como a capacidade técnica do profissional, a Terceira Turma entendeu que o princípio das portas abertas deve ser relativizado e que a impossibilidade técnica deve ser compreendida como a capacidade de absorção de novos membros pela cooperativa, de modo a não prejudicar a situação financeiro-estrutural (e-STJ, fls. 876 /905).
+Os embargos de divergência foram rejeitados liminarmente em razão da ausência de similitude fática entre os acórdãos confrontados (e-STJ, fls. 1.118/1.120).
+Contra essa decisão foi interposto o presente agravo interno por UNIMED JUNDIAÍ sustentando que (1) foi demonstrada a similitude fática entre os acórdãos confrontados; e (2) o acórdão que julgou os embargos de divergência não deveria ter aplicado as Súmulas nºs 5 e 7 do STJ porque não se está discutindo se os critérios do processo seletivo aplicado para ingresso de médico nos quadros da cooperativa é ou não abusivo, mas se é possível exigir a aprovação em processo seletivo para o ingresso em cooperativa médica (e-STJ, fls. 1.124/1.131).
+A impugnação foi apresentada às e-STJ, fls. 1.135/1.149.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO NÃO PROVIDO.
+1. A ausência de similitude fática entre os julgados embargado e paradigma impede a configuração de divergência jurisprudencial.
+2. Não há como admitir os embargos de divergência, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas entre os acórdãos confrontados.
+3. Agravo interno não provido.
+VOTO
+O agravo interno não merece provimento.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a interpretação do art. 4º, I, da Lei 5.764/71, quanto ao caráter absoluto ou relativo do princípio da livre adesão aplicável às cooperativas médicas.
+Os embargos de divergência foram rejeitados liminarmente diante da ausência de similitude fática entre os acórdãos confrontados.
+É contra essa decisão o inconformismo agora manejado, que não trouxe nenhum elemento apto a infirmar as conclusões da decisão unipessoal.
+A divergência viabilizadora dos embargos não ficou configurada, diante da ausência de similitude fática.
+O acórdão embargado da Quarta Turma concluiu que à luz do princípio da adesão livre e voluntária que rege o sistema cooperativista (artigo 4º, inciso I, da Lei 5.764/71), não pode ser vedado o ingresso, nos quadros da sociedade cooperativa, àqueles que preencham às condições estatutárias, revelando-se ilimitado o número de associáveis, salvo demonstrada a impossibilidade técnica de prestação de serviços (e-STJ, fls. 868/869).
+Além disso, o acórdão embargado aplicou o óbice das Súmulas n. 5 e 7 do STJ diante da impossibilidade de revisar os fatos quanto ao preenchimento das condições necessárias para ingresso no quadro associativo da cooperativa médica.
+O acórdão paradigma, por sua vez, analisou questão diversa, a saber: a licitude de previsão estatutária de prévia aprovação em processo seletivo como requisito para o ingresso em cooperativa de trabalho médico, bem como a possibilidade de limitação, de forma impessoal e objetiva, do número de vagas no certame.
+Não há como admitir os embargos de divergência, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas entre os acórdãos confrontados.
+O conhecimento dos embargos de divergência pressupõe a existência de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigma (EREsp 1.440.780/RJ, Rel. Ministro RAUL ARAÚJO, Segunda Seção, j. 11/5/2016, DJe 27/5/2016). O recurso, de fato, não merece prosperar.
+Eis precedente da Corte Especial sobre o tema:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SOBRE IRRISORIEDADE OU EXORBITÂNCIA. NÃO CABIMENTO.
+1. A divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+2. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado como paradigma, não sendo possível sua interposição com o intuito de mera rediscussão do quanto já decidido em recurso especial.
+3. Nos termos da jurisprudência pacificada do Superior Tribunal de Justiça, não há como admitir os embargos manejados, pois, na hipótese mencionada, não existe divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios, o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto. Precedentes. Agravo interno improvido.
+(AgInt nos EREsp n. 1.686.779/PE, relator Ministro Humberto Martins, Corte Especial, julgado em 11/2/2025, DJEN de 14/2/2025 - sem destaque no original)
+Ademais, o acórdão da Quarta Turma entendeu que o acórdão estadual analisou a questão com base no que foi acordado pelas partes, bem como no conjunto fático-probatório, o que impossibilita a revisão da matéria diante do óbice das Súmulas nºs 5 e 7 do STJ.
+Confira-se trecho do acórdão embargado:
+ ..
+2. Na hipótese ora em foco, o acórdão local foi claro ao afirmar que o ora recorrido preencheu todas as condições necessárias para integrar o quadro associativo.
+É o que se extrai do seguinte excerto do aresto impugnado (fl. 634, e-STJ):
+Nos termos do art. 4º, I e 29, da Lei5.764/71, a legislação estabeleceu o critério "portas abertas", ou seja, a adesão voluntária à cooperativa tem um número ilimitado, sendo possível obstar o ingresso somente no caso de inviabilidade técnica da prestação de serviço ou se o interessado não preencher os requisitos previstos no estatuto social.
+Nesse contexto, é importante ressaltar que, ao contrário do que afirma a apelante, a "impossibilidade técnica" prevista para obstar o ingresso à cooperativa refere-se à capacitação para o exercício do profissional, não se relacionando assim com as alegações como "excesso do número de membros de cooperados".
+Na espécie, o autor ,ora apelado ,demonstrou sua qualificação técnica, e a ré não apresenta qualquer impugnação no que diz respeito à capacidade do autor de preencher esse requisito técnico.
+Assim, para infirmar as premissas fáticas em que se baseou o Tribunal a quo, a fim de admitir o ingresso do recorrido nos quadros de associado da parte recorrida, revelar-se-ia necessária uma incursão no acervo fático-probatório constante dos autos, o que encontra óbice nos enunciados contidos nas Súmulas 5 e 7, desta Excelsa Corte (e-STJ, fl. 869).
+Não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, ao passo que o outro não conhece do recurso especial, sem enfrentar a tese de mérito, em razão de óbice relacionado à admissibilidade recursal.
+Isso porque não há similitude fática quando o acórdão embargado trata da inadmissibilidade do recurso especial e o paradigma do mérito.
+É que, nos embargos de divergência, os acórdãos cotejados devem exibir idêntico grau de cognição:
+Para que caibam os embargos de divergência, é preciso, enfim, que haja similitude fática entre o caso-a-ser-julgado e o caso-paradigma. Nesse sentido, não cabem embargos de divergência, quando o acórdão embargado trata do mérito e o paradigma, da inadmissibilidade do recurso especial. É que, para que caibam os embargos de divergência, é preciso que os acórdãos tenham resultado do mesmo grau de cognição horizontal. Quer dizer que, se um acórdão tratou de questões de admissibilidade e o outro enfrentou o mérito, não cabem os embargos. Em situações como essa, é necessário fazer a distinção, a fim de não se admitirem os embargos. Se o acórdão paradigma versou sobre o juízo de admissibilidade e o acórdão recorrido tratou do mérito da questão, não há identidade entre os casos, não sendo cabíveis os embargos de divergência.
+(DIDIER JR., Fredie e CARNEIRO, Leonardo da Cunha. Curso de Direito Processual Civil: meios de impugnação às decisões judiciais e processo nos tribunais. 14ª ed. Salvador: Juspodivm. 2017, vol. 3, p. 447 - sem destaques no original).
+Observa-se que, embora o art. 1.043, III, do CPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+No caso em exame, o acórdão embargado não adentrou no mérito da questão e manteve as conclusões do Tribunal de origem inalteradas, em virtude do óbice das Súmulas n. 5 e 7 do STJ.
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios sobre o conhecimento do recurso para concluir, segundo pretende a embargante, que era o caso de dar provimento ao recurso especial.
+Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e o julgado paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+Confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO PARADIGMA QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA. DIVERGÊNCIA CIRCUNSCRITA À APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE DIVERGÊNCIA DE TESES JURÍDICAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. "O Superior Tribunal de Justiça já firmou entendimento no sentido de serem incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial" (AgInt nos EAREsp n. 1.225.660/RJ, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023).
+3. Na hipótese, a parte embargante pretende reverter o juízo de admissibilidade do recurso especial buscando a aplicação dos óbices das Súmulas 5 e 7 do STJ no caso dos autos, de modo que incabíveis os presentes embargos.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1.815.823/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 29/10/2024, D Je de 7/11/2024 - sem destaques no original)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOCIEDADE EDUCACIONAL. EXCLUSÃO DE SÓCIO. JUSTO MOTIVO. NÃO OCORRÊNCIA. ACÓRDÃO EMBARGADO. JUÍZO DE MÉRITO. ACÓRDÃO PARADIGMA. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+3. No caso em exame, o acórdão embargado concluiu pela ausência de justa causa apta a ensejar a exclusão de sócio, enquanto o paradigma não adentrou no mérito da questão, em virtude do óbice da Súmula nº 7 do STJ.
+4. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+5. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado admitiu o recurso e enfrentou o mérito, e o julgado paradigma não ultrapassou, de fato, o juízo de admissibilidade, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018 - sem destaque no original)
+Ressalte-se que a Corte Especial firmou o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Portanto, não se verificou dissenso de entendimento entre as Turmas que compõem a Segunda Seção. Se a norma legal foi bem ou mal aplicada pela Quarta Turma do STJ no caso concreto, isso refoge completamente aos escopos dos embargos de divergência.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
