@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais de Blumenau/SC, o suscitante, e o Juízo de Direito da Vara de Execução de Medidas e Penas Alternativas de Aracaju/SE, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 108/109):
+ ..
+2. Segundo consta dos autos, foi homologado o Acordo de Não persecução Penal - ANPP, pelo Juízo de Direito da Vara de Execução de Medidas e Penas Alternativas de Aracaju-SE, celebrado entre o Ministério Público Federal e Pedro Leonardo Oliveira Santos.
+3. Na data prevista para iniciar a execução do acordo, o executado informou que precisaria mudar de Estado, juntando comprovante do novo endereço na cidade de Blumenau/SC (fls. 53 e-STJ). Diante da informação de que o executado passou a residir em outra Comarca, foi determinada a transferência da presente execução para o Juízo de Direito da Comarca de Blumenau/SC.
+4. Remetidos os autos ao Juízo da Vara de Execuções Penais da Comarca de Blumenau, este decidiu no sentido de que a competência para a execução de acordo de não persecução penal é do juízo que homologou o acordo, cabendo ao juízo do domicílio unicamente a fiscalização das condições. Assim, determinou a devolução dos autos ao juízo de origem (fls. 73 e-STJ).
+5. Recebidos os autos, o Juízo de Direito da Vara de Execução de Medidas e Penas Alternativas de Aracaju-SE esclareceu que com a implantação do SEEU, o acompanhamento e fiscalização do cumprimento das condições do ANPP, quando o executado passa a residir em comarca diversa, não serão mais efetuados por carta precatória, com esteio na Resolução nº 280/2019-CNJ e no Provimento nº 12/ 2020 da Corregedoria do TJSE, devendo o processo de execução do acordo de não persecução penal ser remetido ao Juízo de execução penal da Comarca de seu novo endereço (Art. 304-E, Provimento nº 12/2020 da Corregedoria do TJSE), o que não implica alteração de competência (fls. 82 e-STJ).
+6. Dessa forma, determinou nova remessa dos autos ao Juízo da Comarca de Blumenau/SC para acompanhamento e fiscalização das condições do Acordo de Não persecução Penal - ANPP, uma vez que o executado passou a residir naquela cidade (fls. 82 e-STJ)
+7. Recebidos os autos pelo Juízo da Vara de Execuções Penais da Comarca de Blumenau, este se manifestou no sentido de que a ação não é executável pelo Sistema Eletrônico de Execução Unificado (SEEU) do Tribunal de Justiça de Santa Catarina,
+ ..
+No parecer, o órgão ministerial opinou pela competência do Juízo suscitado (fls. 109/111):
+ ..
+10. Inicialmente, entendo que o presente conflito merece conhecimento, porquanto, nos termos do art. 105, inc. I, alínea d, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os conflitos de competência entre juízes vinculados a Tribunais diversos, como o são os Juízos suscitante e suscitado.
+11. Na espécie, os autos de execução devem tramitar no Juízo do local onde foi homologado o acordo de não persecução penal, uma vez que, conforme disposto no art. 65 da Lei nº 7.210/1984, a execução penal compete ao juiz indicado na lei de organização judiciária e, na sua ausência, ao que proferiu a sentença.
+12. Embora não se trate de condenação penal, deve ser feito o mesmo raciocínio para o acordo de não persecução penal homologado, que de igual forma constitui título judicial executável.
+13. O domicílio do acordante em local diverso da comarca em que foi homologado o acordo, não tem o condão de provocar o deslocamento da competência territorial para promover e fiscalizar a execução das condições estabelecidas.
+14. E o fato de o processo de execução ser de competência do Juízo que não corresponda ao do domicílio do acordante, não impede que o acordo possa ser cumprido neste local, sob a supervisão do Juízo que o homologou.
+15. Nesse sentido, colaciono os seguintes acórdãos proferidos pela Terceira Seção do Superior Tribunal de Justiça, em conflito de competência semelhante:
+ ..
+16. Assim, a alteração do domicílio do acordante não tem o condão de provocar o deslocamento da competência, sendo possível a expedição de carta precatória ao juízo do domicílio do executado/beneficiário para o acompanhamento do cumprimento das condições do acordo, consoante o disposto no art. 66, V, g, da Lei de Execuções Penais, mantida a competência do Juízo da execução penal.
+17. Por tais razões, opina o Ministério Público Federal pelo reconhecimento da competência do juiz que homologou o Acordo de Não persecução Penal - ANPP, ora suscitado.
+É o relatório.
+Com razão o parecerista.
+A competência para executar as condições estabelecidas em acordo de não persecução penal é do Juízo da execução, nos termos do art. 28-A, § 6º, do Código de Processo Penal (grifo nosso):
+Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente:
+ ..
+§ 6º Homologado judicialmente o acordo de não persecução penal, o juiz devolverá os autos ao Ministério Público para que inicie sua execução perante o juízo de execução penal.
+E, consoante o art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+Logo, compete ao Juízo da homologação executar as condições estabelecidas em acordo de não persecução penal (art. 28-A do CPP), sendo-lhe facultado expedir carta precatória ao Juízo do domicílio do apenado para prática de atos executórios.
+Em precedente recente, a Terceira Seção assim decidiu:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado.
+(CC n. 192.158/MT, Ministra Laurita Vaz, Terceira Seção, DJe 18/11/2022 - grifo nosso).
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execução de Medidas e Penas Alternativas de Aracaju/SE, o suscitado, para processar e julgar a execução penal de Pedro Leonardo Oliveira Santos, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do executado, deprecando a prática de atos executórios e a fiscalização da execução.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDIÇÕES ESTABELECIDAS EM ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DECLINAÇÃO PELO JUÍZO DO LOCAL DA HOMOLOGAÇÃO PARA O JUÍZO DO DOMICÍLIO DO RÉU. COMPETÊNCIA DO JUÍZO DO LOCAL DO ACORDO, COM POSSIBILIDADE DE DEPRECAÇÃO EM FAVOR DO JUÍZO DO LOCAL DO DOMICÍLIO DO APENADO, PARA FINS DE FISCALIZAÇÃO E ACOMPANHAMENTO. PRECEDENTES DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execução de Medidas e Penas Alternativas de Aracaju/SE, o suscitado, para processar e julgar a execução penal de Pedro Leonardo Oliveira Santos, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do executado, deprecando a prática de atos executórios e a fiscalização da execução.
