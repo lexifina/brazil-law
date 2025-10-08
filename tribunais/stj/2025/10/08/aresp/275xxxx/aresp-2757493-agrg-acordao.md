@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. NULIDADE POR CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 159, § 4º, E 155, AMBOS DO CPP. DISPOSITIVOS APONTADOS COMO VIOLADOS QUE NÃO GUARDAM CONSONÂNCIA COM AS TESES VEICULADAS. SÚMULA 284/STF.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GABRIEL FERREIRA GODOY contra decisão monocrática de minha lavra, assim ementada (fl. 613):
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. NULIDADE POR CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 159, § 4º, E 155, AMBOS DO CPP. DISPOSITIVOS APONTADOS COMO VIOLADOS QUE NÃO GUARDAM CONSONÂNCIA COM AS TESES VEICULADAS. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
+O agravante aduz que a tese de cerceamento de defesa por não ter sido oportunizada à sua defesa a possibilidade de atestar a ausência de lesividade da arma de fogo se encontra devidamente prequestionada, pois, além de devidamente suscitada na inicial do pedido revisional, foi afastada pelo Tribunal a quo em sede de preliminar.
+Esclarece que o que se pretende justamente questionar é que jamais foi oportunizada à Defesa comprovar a ausência de potencialidade bélica do material. E isso se deu porque a suposta arma nunca foi disponibilizada para elaboração de parecer técnico, apesar de ter sido devidamente apreendida e ter ficado sob a custódia do Estado por tempo considerável (fl. 634).
+Defende, assim, a pertinência temática da arguição de violação d o art. 159, § 4º, do Código de Processo Penal, na medida em que o referido dispositivo legal expressamente assegura à Defesa indicar assistente técnico para elaborar parecer sobre a fidedignidade (ou não) do conteúdo a ser periciado (fl. 643), bem como do art. 155 da referida lei adjetiva, na medida em que, se, de um lado a jurisprudência entende ser dispensável a apreensão e confecção do laudo pericial no artefato bélico; de outro, a imputação dessa majorante deve estar, obrigatoriamente, apoiada em outros elementos probatórios robustos que revelem a utilização do material na prática delitiva (fl. 648).
+Requer, assim, a submissão da decisão agravada ao órgão colegiado, pleiteando o conhecimento e o provimento do Recurso Especial para que seja afastada a majorante do uso de arma de fogo (art. 157, § 2º-A, inciso I, do CP) da dosimetria da pena do Agravante diante da violação ao art. 155 ou art. 159, § 4º, ambos do Código de Processo Penal (fl. 652).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. NULIDADE POR CERCEAMENTO DE DEFESA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 159, § 4º, E 155, AMBOS DO CPP. DISPOSITIVOS APONTADOS COMO VIOLADOS QUE NÃO GUARDAM CONSONÂNCIA COM AS TESES VEICULADAS. SÚMULA 284/STF.
+Agravo regimental improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em vista que o agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+Com efeito, conforme esclarece o próprio recorrente, o que se pretende justamente questionar é que jamais foi oportunizada à Defesa comprovar a ausência de potencialidade bélica do material (fl. 634), e o acórdão proferido pela Corte estadual, a respeito do tema apenas asseverou que, com relação a preliminar aventada referente a ausência de laudo da arma para constatação da lesividade, como é cediço, desnecessária que haja a apreensão e perícia da arma de fogo, visto que o potencial lesivo integra a própria natureza do artefato, bastando o firme relato das vítimas para a sua configuração, o que restou demonstrado pela prova oral coligida no caso sub judice (fl. 402).
+Sendo assim, conforme afirmei, o recurso especial padece de falta de prequestionamento, pois a Corte de origem não debateu o tema sob o enfoque suscitado. Tampouco eventual omissão na análise desse tema foi suscitada mediante oposição de aclaratórios ao acórdão ora atacado. Logo, é o caso de incidir as Súmulas 282 e 356/STF.
+Nesse sentido: AgInt no AREsp n. 1.859.677/RS, Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe 7/5/2024.
+Ainda que assim não fosse, o reclamo padece de fundamentação deficiente, pois os dispositivos indicados como violados - arts. 155 e 159, § 4º, ambos do CPP -não versam acerca do tema em referência - cerceamento de defesa, por não ter sido oportunizado à defesa a comprovação da falta de potencialidade bélica da arma de fogo -, de modo que eles, por si sós, não ostentam comando normativo suficiente para respaldar a tese recursal, circunstância que atrai a incidência da Súmula 284/STF.
+Nesse sentido: AgRg no AREsp n. 2.842.334/SP, Ministro Otavio de Almeida Toledo (Desembargador convocado do TJ/SP), Sexta Turma, DJEN 27/5/2025.
+Ante o exposto, nego provimento ao agravo regimental.
