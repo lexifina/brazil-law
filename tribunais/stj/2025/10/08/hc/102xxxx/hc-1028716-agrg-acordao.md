@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO CABIMENTO. REQUISITOS NÃO CUMPRIDOS. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, ficou demonstrado que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+2. Assim, uma vez que foi concretamente fundamentada a impossibilidade de incidência do referido redutor, não há nenhum fato novo e relevante que seja capaz de alterar o posicionamento adotado pela decisão ora agravada.
+3. Além disso, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+4. Agravo regimental não provido.
+RELATÓRIO
+WILLY ALVES DE SOUZA MACEDO agrava da decisão de minha relatoria (fls. 122-124), em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive inalterada a reprimenda à ele imposta pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+Reitera a defesa o pedido de reconhecimento da minorante do art. 33, § 4º, da Lei de Drogas.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO CABIMENTO. REQUISITOS NÃO CUMPRIDOS. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, ficou demonstrado que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+2. Assim, uma vez que foi concretamente fundamentada a impossibilidade de incidência do referido redutor, não há nenhum fato novo e relevante que seja capaz de alterar o posicionamento adotado pela decisão ora agravada.
+3. Além disso, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+4. Agravo regimental não provido.
+VOTO
+Em que pese os argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o Juiz sentenciante assim fundamentou a não incidência da minorante (fl. 64):
+Como ficou demonstrado, o réu utiliza sua própria residência para cultivar as drogas que comercializa ilicitamente. Ademais, a aparelhagem que possuía para cultivo e elaboração da droga indica, claramente, que não se tratou de evento isolado, sem reiteração ou habitualidade.
+Em outras palavras, o contexto criminoso, isto é, os aparelhos, estufas adaptadas, iluminações, somado ao fato de ocorrer na própria residência do réu, autorizam concluir que, de fato, o acusado se dedicava às atividades criminosas e fazia da traficância seu meio de vida.
+Aliás, o réu, em juízo, descreveu pormenorizadamente a forma de cultivo e preparo da droga, demonstrando não ser neófito na prática delitiva, mas deter expertise incompatível com aquele que se lança, pela primeira vez, em tal ação espúria.
+A Corte estadual ainda ressaltou "que WILLY confessou sua dedicação à atividade criminosa, como meio de superar suas dificuldades financeiras, comércio espúrio que vinha exercendo há tempo significativo" (fl. 20).
+Pela leitura dos trechos transcritos, observo que a instância de origem - dentro do seu livre convencimento motivado - apontou dos autos a evidenciar que elementos concretos as não se compatibilizariam circunstâncias em que perpetrado o delito em questão com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, além da confissão do acusado, salientou o contexto criminoso, em que foram apreendidos, no interior da residência do réu, aparelhos e estufas adaptadas para o cultivo e preparo de maconha.
+Dessa forma, não identifico constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que indicam a sua dedicação à atividade criminosa, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o réu se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em habeas corpus.
+Por essas razões, entendo que não há elementos capazes de modificar o posicionamento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
