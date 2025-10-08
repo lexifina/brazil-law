@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Marluce Caldas, Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. BUSCA PESSOAL ANULADA POR ESTA CORTE. BUSCA DOMICILIAR SUBSEQUENTE. NULIDADE POR DERIVAÇÃO. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. "Considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+2. No caso, as provas encontradas quando do ingresso (ainda que autorizado) no domicílio do réu são ilícitas por derivação, já que essa busca domiciliar, de acordo com os depoimentos prestados pelos dois policiais militares referidos na sentença (e-STJ fls. 15-16), foi motivada pela prévia abordagem de busca pessoal e pelo forte odor de maconha vindo da caixa encontrada na posse do acusado.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão em que julguei procedente o pedido formulado na presente reclamação, para anular a sentença proferida pelo Juízo reclamado e determinar que outra seja proferida, sem levar em consideração as provas obtidas mediante busca pessoal e as delas decorrentes, como decidido no ARESP n. 2.861.110/SP.
+O agravante sustenta que "a decisão agravada partiu de premissa equivocada ao considerar contaminadas as provas que embasaram a condenação, ignorando que o art. 157, § 2º, do Código de Processo Penal excepciona a nulidade quando as provas são obtidas por fonte independente ou quando seria possível alcançar o mesmo resultado por meio de prova lícita" (e-STJ fls. 57-64).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. BUSCA PESSOAL ANULADA POR ESTA CORTE. BUSCA DOMICILIAR SUBSEQUENTE. NULIDADE POR DERIVAÇÃO. TEORIA DOS FRUTOS DA ÁRVORE ENVENENADA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. "Considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+2. No caso, as provas encontradas quando do ingresso (ainda que autorizado) no domicílio do réu são ilícitas por derivação, já que essa busca domiciliar, de acordo com os depoimentos prestados pelos dois policiais militares referidos na sentença (e-STJ fls. 15-16), foi motivada pela prévia abordagem de busca pessoal e pelo forte odor de maconha vindo da caixa encontrada na posse do acusado.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+No caso, a controvérsia foi muito bem analisada no parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fl. 42):
+Entende o STJ que a ilicitude da busca pessoal contamina as provas subsequentes, incluindo as drogas encontradas na residência do réu (AgRg no AREsp n. 2.352.878/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2025, DJEN de 26/5/2025). Assim, não se trata, aqui, de discutir a legalidade da entrada dos policiais no domicílio do reclamante, mas de constatar que só houve a entrada na residência porque encontrada droga durante a busca pessoal realizada previamente e anulada por essa Colenda Corte.
+Nesse sentido, já se decidiu no STJ, que "considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+(..)
+Contudo, o caso não é de verificar a licitude da prova obtida no apartamento do reclamante, mas de reconhecer que, na hipótese, se o STJ reconheceu a nulidade da busca pessoal, que foi a causa motivadora para a entrada dos policiais na residência, há evidente descumprimento da decisão proferida por essa Corte, porque toda a prova derivada da busca pessoal está contaminada por derivação.
+O Juízo reclamado consignou na nova sentença proferida que "o ingresso lícito na residência do réu, devidamente autorizado por escrito e consoante câmeras corporais e relatos testemunhais, permitiu o encontro de variedade e quantidade de drogas incompatíveis com o uso, de propriedade do denunciado. Há outras provas que arrimam a condenação, excluindo-se do acervo probatório a prova declarada nula pelo E. Superior Tribunal de Justiça" (e-STJ fl. 17).
+Ocorre que, como bem salientado pelo Ministério Público Federal em seu parecer, o Superior Tribunal de Justiça entende que, "considerada nula a busca pessoal que precedeu a busca domiciliar, esta última é nula em virtude da Teoria dos Frutos da Árvore Envenenada (nulidade por derivação), e não em virtude da ausência de fundadas razões para a entrada no domicílio do réu sem mandado judicial" (AgRg no HC n. 781.451/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023).
+No caso, portanto, as provas encontradas quando do ingresso (ainda que autorizado) no domicílio do réu são ilícitas por derivação, já que essa busca domiciliar, de acordo com os depoimentos prestados pelos dois policiais militares referidos na sentença (e-STJ fls. 15-16), foi motivada pela prévia abordagem de busca pessoal e pelo forte odor de maconha vindo da caixa encontrada na posse do acusado.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
