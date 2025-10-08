@@ -1,0 +1,101 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. TEMA 612. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Órgão Especial do Tribunal de Justiça do Maranhão:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MUNICÍPIO DE CURURUPU. ALEGAÇÃO DE INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 452/2021 (ART. 2º, INCISOS II, III, IV, V, VI, VII, VIII, § 1º, § 2º, § 3º E § 4º). CONTRATAÇÃO POR TEMPO DETERMINADO. ART. 19, IX DA CONSTITUIÇÃO ESTADUAL DO MARANHÃO. TEMA 612. REPERCUSSÃO GERAL. STF. PREVISÃO GENÉRICA NA LEI. AUSÊNCIA DE ESPECIFICIDADE E DOS CRITÉRIOS ENSEJADORES DA NECESSIDADE TEMPORÁRIA. AUSÊNCIA DE INDICAÇÃO DO INTERESSE PÚBLICO EXCEPCIONAL OU INDISPENSABILIDADE DA CONTRATAÇÃO EXTRAORDINÁRIA. PRINCÍPIOS CONSTITUCIONAIS VIOLADOS. INCONSTITUCIONALIDADE DA LEI MUNICIPAL Nº 452/2021. AÇÃO PROCEDENTE.
+
+    1. Nos termos do art. 19, II da Constituição Estadual, a regra é a realização de concurso público para preenchimento de cargos públicos. A mesma Constituição Estadual, em simetria com a Constituição Federal, estipula apenas duas exceções a esta regra: a) nomeações para cargos em comissão declarados em lei de livre nomeação e exoneração (art. 19, V, da CE); e b) contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público (art. 19, IX, CE).
+
+    2. No que tange à análise da constitucionalidade de normas acerca da contratação por tempo determinado o STF no RE 658.026/MG (TEMA 612 de Repercussão Geral), possibilitou de forma condicionada acaso atendido os seguintes requisitos: a) os casos excepcionais estejam previstos em lei; b) o prazo de contratação seja predeterminado; c) a necessidade seja temporária; d) o interesse público seja excepcional; e) a necessidade de contratação seja indispensável, sendo vedada a contratação para os serviços ordinários permanentes do Estado, e que devam estar sob o espectro das contingências normais da Administração.
+
+    3. De outro lado, a natureza da atividade pública a ser exercida, se eventual ou permanente, não é, pois, o elemento preponderante para legitimar essa forma excepcional de contratação de servidor. Na verdade, para a constitucionalidade de sua previsão legal é a transitoriedade da necessidade de sua contratação e a excepcionalidade do interesse público a justificá-la. Daí que, plenamente possível a contratação para atender a necessidades temporárias de uma atividade que, pode ou não, ser permanente e própria do órgão. O que deve ser temporária é a necessidade, e não a atividade.
+
+    4. No caso dos autos, está-se diante de uma norma que carece das exigências elencadas, porquanto deixa de definir qual a contingência fática emergencial que lhe teria conferido aptidão, limitando-se genericamente a descrever as áreas da contratação. Além do mais, limita-se a especificar a área de contratação, sem qualquer indicativo das situações autorizadoras dessas contratações.
+
+    5. Não se tratando de contratação com tal fim, está-se diante de clara hipótese de ausência de justificativa substancial quanto às possibilidades de contratação emergencial, o que ocasiona a inconstitucionalidade do questionado da Lei Municipal nº 452/2021.
+
+    6. Declarada a inconstitucionalidade, retira-se do ordenamento jurídico, para todos os efeitos e desde a sua origem, o ato normativo ou a lei incompatível com a Constituição Estadual. Trata-se, portanto, de ato nulo.
+
+    7. Ação julgada procedente” (fls. 1-2, e-doc. 8).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 12).
+
+    2. No recurso extraordinário, o agravante alega que o Tribunal de origem teria contrariado o caput e os incs. II e IX do art. 37 da Constituição da República.
+
+    Afirma que “o Órgão Especial do Tribunal de Justiça do Estado do Maranhão não se atentou quanto a existência de circunstâncias que permitem a Administração Pública a adotar medidas de caráter emergencial para atender a necessidades urgentes e temporárias e que desobrigam, por permissivo constitucional, o administrador público de realizar um concurso público para a contratação temporária, a justificar a edição da Lei Municipal nº 452” (fl. 19, e-doc. 14).
+
+    Assevera que “a edição da Lei municipal nº 542 não afrontou quaisquer dos preceitos legais, uma vez que in casu, a contratação temporária em análise destina-se ao atendimento dos sistemas de saúde e educação, sendo estes, sistemas que possuem o maior número de exonerações, como afastamento de professores por motivo de licença ou para o exercício de cargos em comissão em programas específicos de saúde, a exemplo do Programa Saúde da Família, logo demonstram-se áreas que possuem grande rotatividade de profissionais, bem como necessitam de continuidade na sua execução” (fl. 21, e-doc. 14).
+
+    Assinala que “o Supremo Tribunal Federal já proferiu entendimento de que ‘A natureza permanente de algumas atividades públicas – como as desenvolvidas nas áreas da saúde, educação e segurança pública – não afasta, de plano, a autorização constitucional para contratar servidores destinados a suprir demanda eventual ou passageira. Necessidade circunstancial agregada ao excepcional interesse público na prestação do serviço para o qual a contratação se afigura premente autoriza a contratação nos moldes do art. 37, inc. IX, da Constituição da República’. (ADI 3247, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 26/03/2014, ACÓRDÃO ELETRÔNICO DJe158 DIVULG 15-08-2014 PUBLIC 18-08-2014)” (fl. 22, e-doc. 14).
+
+    Destaca, ainda, a perda de objeto da ação, pois “a Lei nº 452 fora publicada em 06 de maio de 2021, estabelecendo o prazo máximo de 12 (doze) meses de vigência das contratações por tempo determinado, ou seja, até 06 de maio de 2022. Logo, revelar-se-ia inútil eventual declaração de inconstitucionalidade do diploma normativo atacado, uma vez que ultrapassada sua vigência, não subsistem quaisquer efeitos jurídicos a serem regulados”. Pondera ainda a necessidade de modulação dos efeitos da declaração de inconstitucionalidade, porque “a possível declaração de inconstitucionalidade da norma municipal impugnada, representaria a nulidade de todas as contratações realizadas com base na Lei nº 542, podendo gerar gravíssimas consequências aos Ente, tanto do ponto de vista fático como também jurídico” (fls. 28 e 35, e-doc. 14).
+
+    Pede o conhecimento e o provimento do recurso com a reforma integral do acórdão recorrido.
+
+    3. O Primeiro Vice-Presidente do Tribunal de origem negou seguimento ao recurso extraordinário, por estar o acórdão recorrido em conformidade com o entendimento do Supremo Tribunal Federal, assentado no julgamento do Recurso Extraordinário n. 658.026, paradigma do Tema 612 da repercussão geral (e-doc. 18).
+
+    4. Contra essa decisão o Município de Cururupu/MA interpôs agravo interno, não conhecido. Opôs, então, embargos de declaração, rejeitados (e-docs. 22 e 26).
+
+    Diante da ausência de êxito recursal, interpôs recurso extraordinário (e-doc. 28).
+
+    O Vice-Presidente do Tribunal de origem proferiu a seguinte decisão pela qual inadmitiu o recurso extraordinário:
+
+    “Da decisão que nega seguimento a recurso extraordinário, cabe unicamente o agravo interno, como disposto no art. 1.030, § 2º do CPC.
+
+    No caso concreto, exauriu-se a jurisdição do TJMA com o julgamento dos embargos de declaração opostos ao acórdão que julgou o agravo interno, não sendo cabível qualquer outro recurso para os tribunais superiores. A propósito: ‘[...] ante a ausência de previsão legal de recurso em face da decisão que nega seguimento a agravo interno (art. 1.030, § 2º, do CPC), a preclusão do ato recorrido se dá no prazo de 5 (cinco) dias, uma vez que o único recurso cabível à espécie é o de embargos de declaração’ (art. 1.023 do CPC) (Reclamação n. 52.139, rel. EDSON FACHIN, j. em abril de 2022)’.
+
+    Ante o exposto, inadmito o recurso extraordinário (art. 1.030, V, do CPC).
+
+    Certifique-se o trânsito em julgado, tendo em vista que ‘[A] interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnado’ (Reclamação n. 67.984, rel. Ministro ANDRÉ MENDONÇA, j. em 10.5.2024). No mesmo sentido: ‘Na sistemática introduzida pelo artigo 543-C do CPC/73 e ratificada pelo novel diploma processual civil (arts. 1.030 e 1.040 do CPC), incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei n. 11.672/2008’ (AgInt no AREsp 2066671, rel. Ministro SÉRGIO KUKINA, 1ª Turma, j. em 20/05/2024). Ver ainda: ‘[…] não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008. Assim, como já dito na decisão recorrida, por ser incabível, não se deve conhecer do presente recurso no que concerne à matéria objeto do Tema repetitivo n. 324 e 327 do STJ’ (AgInt no AREsp 2529678, rel. Ministro FRANCISCO FALCÃO, 2ª Turma, j. em 13/05/2024)” (e-doc. 30).
+
+    5. Contra essa decisão o agravante interpôs o presente agravo, no qual reitera as razões do recurso extraordinário e pede “que o presente recurso, seja conhecido e, posteriormente, que o Supremo Tribunal Federal, pelas razões acima explicitadas, dê provimento ao mesmo, reformando a admissibilidade do Recurso Extraordinário” (fl. 27, e-doc. 32).
+
+    6. Determinada vista dos autos à Procuradoria-Geral da República, sobreveio manifestação pelo não conhecimento do recurso:
+
+    “Recurso Extraordinário com agravo. Ação Direta de Inconstitucionalidade. Lei n. 452/2021, do Município de Cururupu/MA. Interposição de segundo recurso extraordinário, contra acórdão, proferido em agravo interno, que manteve decisão da Presidência do Tribunal de Justiça do Maranhão que não admitiu o primeiro recurso extraordinário interposto pela parte recorrente. Exaurimento da via recursal. Recurso manifestamente incabível. Precedentes. Agravo que não atacou fundamento da decisão de inadmissibilidade. Súmula n. 287/STF. Parecer por que o recurso não seja conhecido” (fl. 1, e-doc. 47).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    7. Razão jurídica não assiste ao agravante.
+
+    8. O Primeiro Vice-Presidente do Tribunal de origem aplicou a sistemática da repercussão geral e negou seguimento ao recurso extraordinário em razão do decidido por este Supremo Tribunal no julgamento do Recurso Extraordinário n. 658.026, precedente do Tema 612 da repercussão geral.
+
+    Contra essa decisão o agravante interpôs agravo regimental, opôs embargos de declaração e interpôs recurso extraordinário, inadmitido ao fundamento de que “da decisão que nega seguimento a recurso extraordinário, cabe unicamente o agravo interno, como disposto no art. 1.030, § 2º do CPC. No caso concreto, exauriu-se a jurisdição do TJMA com o julgamento dos embargos de declaração opostos ao acórdão que julgou o agravo interno, não sendo cabível qualquer outro recurso para os tribunais superiores” (fl. 2, e-doc. 30).
+
+    Este Supremo Tribunal assentou não caber recurso ou outro instrumento processual no Supremo Tribunal Federal contra decisão pela qual se aplica a sistemática da repercussão geral na origem. Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVOS REGIMENTAIS NOS RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. PROCESSUAL PENAL. APLICAÇÃO DE REPERCUSSÃO GERAL NA ORIGEM. TEMAS 182, 184 E 660. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO DE UM DOS AGRAVANTES INTEMPESTIVO. AGRAVOS REGIMENTAIS DESPROVIDOS” (ARE n. 1.507.006-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 26.9.2024).
+
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. JUÍZO DE ADMISSIBILIDADE. SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO. INADEQUAÇÃO. RECURSO DESPROVIDO. VERBA HONORÁRIA. MAJORAÇÃO CABÍVEL. I. CASO EM EXAME 1. Agravo interno interposto de decisão que não conheceu do recurso extraordinário com agravo uma vez formalizado, com alegada base no art. 1.042 do CPC, contra acórdão prolatado em agravo interno ante negativa de sequência a extraordinário lastreada na sistemática da repercussão geral. II. QUESTÃO EM DISCUSSÃO 2. Está em discussão a adequação de recurso extraordinário com agravo, interposto com alegada base no art. 1.042 do CPC, em face de pronunciamento relativo a agravo interno formalizado ante negativa de processamento de extraordinário com lastro no regime da repercussão geral. III. RAZÕES DE DECIDIR 3. É inviável o agravo previsto no art. 1.042 do CPC em face de pronunciamento que, no Tribunal a quo, nega seguimento a recurso extraordinário com base na sistemática da repercussão geral. 4. Mostra-se manifestamente inadequado, considerada até mesmo a preclusão, agravo interno com alegada base no art. 1.042 para atacar acórdão prolatado em agravo interno formalizado contra ato que impediu a sequência do extraordinário em virtude da aplicação de tese de repercussão geral. IV. DISPOSITIVO 5. Agravo interno desprovido, com majoração da verba honorária” (ARE n. 1.491.439-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 21.3.2025).
+
+    “DIREITO PROCESSUAL CIVIL. ALEGADA OFENSA AO ART. 5º, XXI, DA CONSTITUIÇÃO DA REPÚBLICA. APELO EXTREMO INADMITIDO COM FUNDAMENTO NO TEMA Nº 848. INADMISSIBILIDADE DO RECURSO DIRIGIDO A ESTA SUPREMA CORTE CONTRA DECISÃO DA ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 97 DA LEI MAIOR. RESERVA DE PLENÁRIO. VIOLAÇÃO INOCORRENTE. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. LEGITIMIDADE ATIVA. LIMITES. OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. Pacífica a jurisprudência desta Suprema Corte no sentido de que incabível agravo para o Supremo Tribunal Federal contra a aplicação da sistemática da repercussão geral (arts. 1.036 a 1.040 do CPC) pelo Tribunal de origem. 2. Imprescindível, à caracterização da afronta à cláusula da reserva de plenário, que a decisão esteja fundamentada na incompatibilidade entre a norma legal e a Constituição Federal, o que não se verifica in casu. 3. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 4. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 5. Agravo interno conhecido e não provido” (ARE n. 1.441.812-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 2.10.2023).
+
+    9. Ainda que fosse possível superar esse óbice, o que não se dá na espécie, o agravante não impugnou, no presente agravo, a decisão de admissibilidade que assentou ser incabível recurso para os tribunais superiores contra decisão que nega seguimento pela sistemática da repercussão geral, limitou-se a repetir argumentos anteriores.
+
+    Este Supremo Tribunal assentou a inviabilidade do agravo previsto no art. 1.042 do Código de Processo Civil quando não se impugnam todos os fundamentos da decisão pela qual inadmitido o recurso extraordinário. Incide na espécie vertente a Súmula n. 287 deste Supremo Tribunal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.375.262-AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 29.11.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INADMISSIBILIDADE DO AGRAVO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. A parte deve impugnar especificamente, na petição de agravo em recurso extraordinário, todos os fundamentos da decisão de inadmissibilidade do apelo extremo, sob pena de inadmissão do agravo (Súmula 287 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.346.149-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 5.4.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 287 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. É inviável o conhecimento do recurso que não ataca, especificamente, os fundamentos da decisão que inadmitiu o recurso extraordinário. Incidência da Súmula 287 do STF. 2. Agravo regimental desprovido” (ARE n. 1.446.355-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 13.11.2023).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITE RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Tribunal de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF. II – Agravo regimental a que se nega provimento” (ARE n. 1.449.354-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 29.9.2023).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    10. Pelo exposto, não conheço do recurso extraordinário com agravo (inc. III do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional.
+
+    Publique-se.
+
+    Brasília, 8 de outubro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
