@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 5ª Vara de Londrina - SJ/PR, o suscitante, e o Juízo de Direito da Vara Criminal de Guaíra/PR, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Juízo suscitante (fls. 118/121):
+1. Trata-se da execução das penas privativas de liberdade impostas à executada LARISSA VIEIRA DA COSTA no Procedimento Especial da Lei Antitóxicos n.º 5038189-53.2023.404.7001, condenada a pena de 04 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, pela prática dos crimes capitulados nos art. 33, "caput", e § 4º c/c art. 40, inciso I, ambos da Lei 11.343/2006.
+Devido ao regime semiaberto e endereço da executada naquela cidade, foi declinada a competência ao Juízo da Vara de Execuções Penais da Comarca de Guaíra (seq. 10).
+O Juízo da VEP da Comarca de Guaíra/PR declinou da competência para o Juízo Federal de Guaíra nos seguintes termos (seq. 27):
+Vistos.
+Trata-se de processo de execução penal de condenação proferida pela Justiça Federal, não havendo qualquer decisão ou cumprimento perante a Justiça Estadual .
+Portanto, declino da competência para o processamento da presente execução penal à Justiça Federal, remetendo-se os autos à Vara Federal de Guaíra.
+Intime-se. Ciência ao Ministério Público.
+Por sua vez, o Juízo Federal de Guaíra suscitou conflito negativo de competência, tendo o Tribunal Regional Federal da 4ª Região, em acórdão de 17/07/2025, decidido pela competência deste Juízo Federal de Londrina (seq. 34, 38):
+ ..
+Aparentemente houve um pseudoconflito de competência suscitado pelo juízo federal de Guaíra sobre temática sequer suscitada por este juízo de Londrina - domicílio do réu. Em verdade, sequer houve declínio de competência de Londrina para o juízo federal de Guaíra, mas sim para o juízo estadual daquela cidade. E aquele r. juízo estadual remeteu incorretamente ao juízo federal daquela subseção, quando deveria, no seu entender pela incompetência, restituir à origem (Londrina).
+Superada essa desnecessária triangulação, o feito retornou a este juízo da condenação (Londrina). Todavia, conforme decisão supratranscrita, este juízo entende competente o juízo estadual, para execução penal, dado o regime fixado.
+Portanto, o declínio ocorreu em razão do regime semiaberto imposto na condenação, a atrair a incidência da Súmula 192 do E. STJ, e não somente em razão de domicílio.
+3. Destarte, suscito perante o Superior Tribunal de Justiça conflito negativo de competência, a fim de que seja declarado como competente para processar e julgar o feito o Juízo de Direito da Vara Criminal da Comarca de Guaíra-PR, o suscitado.
+ ..
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pela competência do Juízo suscitante (fls. 130/132).
+É o relatório.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+Contudo, em se tratando de pena privativa de liberdade imposta por Juízo Federal, compete ao Juízo estadual local executar a pena (Súmula 192/STJ).
+No caso dos autos, considerando que a execução se refere à condenação oriunda da Justiça Federal de Londrina - SJ/PR, compete ao Juízo estadual local executar a pena.
+Ressalto, ainda, que, considerando o advento da Resolução n. 474/2022 (CNJ) - que alterou o art. 23 da Resolução n. 417/2021 -, não há mais falar em necessidade de prévio cumprimento de mandado de prisão como condição para início da execução (regime inicial semiaberto) perante o Juízo estadual na forma da Súmula 192/STJ.
+Ora, em se tratando de cumprimento de pena em regime inicial semiaberto, apenas o Juízo estadual pode aferir a existência de vaga em estabelecimento prisional adequado para o cumprimento da pena em regime semiaberto e, em caso negativo, adotar as medidas preconizadas na Súmula Vinculante 56/STJ.
+Logo, cabe ao Juízo Federal remeter o processo executivo ao Juízo estadual local (Vara de Execuções Penais de Londrina/PR), a quem, por sua vez, competirá efetivar a intimação preconizada na norma regulamentar (art. 23 da Resolução n. 417/2021), inclusive por carta precatória se necessário, e, somente na hipótese de inexistir vaga em estabelecimento prisional adequado em Londrina/PR, decidir acerca da aplicação da Súmula Vinculante 56.
+Nesse sentido, a Terceira Seção assim decidiu recentemente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. CONDENAÇÃO NA JUSTIÇA FEDERAL. PENA PRIVATIVA DE LIBERDADE EM REGIME INICIAL SEMIABERTO. RECUSA DO JUÍZO ESTADUAL EM RECEBER A EXECUÇÃO (NÃO INICIADA). PROCEDIMENTO ADOTADO PELO JUÍZO FEDERAL ADEQUADO, CONSIDERANDO A ATUAL REDAÇÃO DO ART. 23 DA RESOLUÇÃO N. 417/2021 (CNJ). APLICAÇÃO DA SÚMULA 192/STJ QUE INDEPENDE DO INÍCIO DO CUMPRIMENTO DA PENA EM REGIME INICIAL SEMIABERTO.
+1. Com o advento da Resolução n. 474/2022 (CNJ), que alterou o art. 23 da Resolução n. 417/2021, é vedado ao Juízo processante, diante do trânsito em julgado da condenação, expedir, desde logo, mandado de prisão para o cumprimento da pena em regime semiaberto ou aberto, devendo proceder à intimação prévia do apenado a fim de que se apresente para o início do cumprimento da pena, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante 56/STF.
+2. No caso, embora a apenada tenha sido condenada, na Justiça Federal, ao cumprimento de pena privativa de liberdade em regime inicial semiaberto. é descabida a exigência de que seja segregada em estabelecimento prisional estadual como condição para aplicação da orientação estabelecida na Súmula 192/STJ, notadamente porque apenas o Juízo estadual pode aferir a existência de vaga em estabelecimento prisional adequado para o cumprimento da pena em regime semiaberto e, em caso negativo, adotar as medidas preconizadas na Súmula Vinculante n. 56/STJ.
+3. Com efeito, em tais casos (regime inicial semiaberto), cabe ao Juízo Federal remeter o processo executivo ao Juízo estadual, a quem, por sua vez, competirá efetivar a intimação preconizada na norma regulamentar e, na hipótese de inexistir vaga em estabelecimento prisional adequado, decidir acerca da aplicação da Súmula Vinculante n. 56.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara Criminal do Foro Regional de Sarandi/PR, o suscitante, para processar a execução da pena imposta a apenada, observando a previsão contida no art. 23 da Resolução n. 417/2021 (CNJ).
+(CC n. 197.304/PR, da minha relatoria, Terceira Seção, julgado em 3/8/2023, DJe 8/8/2023).
+Por fim, cumpre ressaltar que, em sede julgamento de conflito de competência, é possível a determinação de remessa dos autos a terceiro juízo, estranho ao conflito, ainda que não se tenha aventado a sua competência pelas instâncias inferiores (CC n. 41.960/SP, Ministro Paulo Medina, Terceira Seção, DJ 27/11/2007).
+Em face do exposto, conheço do conflito para declarar a competência do Juízo da Vara de Execuções Penais de Londrina/PR, que deverá processar a execução de Larissa Vieira da Costa, inclusive observando a disposição contida no art. 23 da Resolução n. 417/2021 (CNJ).
+Dê-se ciência aos Juízes envolvidos, inclusive com o inteiro teor da decisão.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE (REGIME INICIAL SEMIABERTO). CONDENAÇÃO ORIUNDA DA JUSTIÇA FEDERAL DE LONDRINA - SJ/PR. COMPETÊNCIA PARA EXECUÇÃO ESTABELECIDA EM FAVOR DO JUÍZO ESTADUAL LOCAL. SÚMULA 192/STJ. DESNECESSIDADE DE PRÉVIO CUMPRIMENTO DE MANDADO DE PRISÃO. ART. 23 DA RESOLUÇÃO N. 417/2021 (CNJ). PRECEDENTE DA TERCEIRA SEÇÃO.
+Conflito conhecido para declarar a competência do Juízo da Vara de Execuções Penais de Londrina/PR, que deverá processar a execução de Larissa Vieira da Costa, inclusive observando a disposição contida no art. 23 da Resolução n. 417/2021 (CNJ).
