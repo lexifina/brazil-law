@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por VITOR PATRICK PEREIRA DA SILVA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou a ordem no Habeas Corpus n. 1.0000.25.315824-0/000.
+Consta do processo que o recorrente foi preso preventivamente, em 16/8/2025, sob a acusação de tráfico de drogas e associação para o mesmo fim (fl. 46).
+Neste recurso, a defesa sustenta que a decisão que manteve a prisão preventiva amparou-se em gravidade abstrata do delito e em condenação anterior, sem indicar elementos concretos para justificar a medida extrema (fls. 155/157).
+Argumenta que a condenação anterior reconheceu o tráfico privilegiado, o que afasta a conclusão de dedicação à atividade criminosa, não sendo idônea, por si só, para presumir periculosidade e reiteração delitiva (fl. 156).
+Pede, em liminar, a imediata soltura do recorrente; no mérito, o provimento do recurso para revogar a prisão preventiva, com a aplicação de medidas cautelares diversas (fls. 161/162).
+É o relatório.
+Dos autos, constata-se que o recorrente foi preso em flagrante após monitoramento policial de grupo supostamente ligado ao núcleo local "Família Teófilo Otoni - FTO", vinculado ao Comando Vermelho. Houve tentativa de fuga, seguida de abordagem, com apreensão, em poder do recorrente, de dinheiro e drogas fracionadas e prontas para venda (cocaína, haxixe, crack), além de materiais de endolação; também foram apreendidas substâncias com os demais autuados (fls. 46/48). O juízo homologou o flagrante e converteu a prisão em preventiva, destacando a gravidade concreta das condutas, o suposto vínculo com facção criminosa e registros criminais anteriores, concluindo pela inadequação de medidas cautelares diversas (fls. 48/49).
+O Tribunal de Justiça, ao apreciar a matéria, enfatizou o suposto vínculo dos autuados com facção criminosa, a reiteração delitiva, inclusive o cumprimento de pena anterior pelo recorrente, e a insuficiência de medidas menos gravosas para conter a periculosidade e evitar novas infrações (fls. 134/137, 140/143).
+Com efeito, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 982.427/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 15/4/2025).
+Não bastasse isso, a necessidade de minorar ou interromper a atuação do paciente em organização criminosa, ainda que de modo emergencial, demonstra o perigo que sua permanência em liberdade representa para a ordem pública (ver, nesse sentido, o AgRg na PET no HC n. 809.193/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Assim, consideradas a reiteração delitiva e a gravidade dos fatos que recomendam a manutenção da custódia ante tempus, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+Recurso em habeas corpus improvido.
