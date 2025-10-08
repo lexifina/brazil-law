@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se embargos de declaração opostos por BANCO DO BRASIL S.A., contra decisão unipessoal (e-STJ Fls. 239-244), que conheceu do agravo em recurso especial e, conhecendo do recurso especial, negou-lhe provimento, assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. CHAMAMENTO AO PROCESSO. DESCABIMENTO. OBRIGAÇÃO SOLIDÁRIA PASSIVA. CREDOR PODE REQUERER O CUMPRIMENTO DA PRESTAÇÃO DE QUALQUER DOS DEVEDORES. INCOMPATIBILIDADE DE RITOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Cumprimento individual de sentença coletiva.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. O chamamento ao processo é instituto típico da fase de cognição, que visa à formação de litisconsórcio passivo facultativo por vontade do réu, a fim de facilitar a futura cobrança do que for pago ao credor em face dos codevedores solidários ou do devedor principal, por meio da utilização de sentença de procedência como título executivo (art. 132, do CPC/2015). Não cabe sua aplicação, assim, em fase de cumprimento de sentença, que se faz no interesse do credor, a quem é dada a faculdade de exigir, de um ou mais codevedores, parcial ou totalmente, a dívida comum (art. 275, do CC).
+4. De outro lado, mesmo que fosse viável o chamamento na fase executiva, neste processo isso não seria admitido, porquanto inexiste a identidade de ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime de precatórios, o Banco do Brasil segue o regime de execução comum. Portanto, inviável deferir o chamamento ao processo também pela incompatibilidade de ritos que seriam adotados.
+5. Agravo conhecido. Recurso especial conhecido e não provido.
+No presente recurso, a parte embargante sustenta omissão quanto à necessidade de suspensão nacional dos processos determinada no RE 1.445.162/DF (Tema 1290/STF), inclusive liquidações e cumprimentos de sentença, e requer a suspensão deste feito; alega, ainda, a existência de recursos especiais representativos de controvérsia (REsp 2.204.791/RS, REsp 2.204.730/RS e REsp 2.204.731/RS) sobre competência e chamamento ao processo, pugnando por efeitos infringentes. (e-STJ fls. 249-256)
+É o relatório.
+O embargante alega existir omissões na decisão embargada, em razão da repercussão geral da matéria reconhecida no RE 1.445.162 - Tema 1290, pelo STF, com determinação de suspensão em todo o território nacional dos recursos que versem sobre a matéria de fundo tratada no presente processo.
+Todavia, o presente recurso especial trata tão somente à competência para julgamento do feito, tendo em vista as partes que dele integram.
+Não analisa, portanto, "o índice de correção monetária aplicável às cédulas de crédito rural cuja fonte de recursos provém dos depósitos das cadernetas de poupança, referente ao mês de março de 1990", como é objeto do Tema 1290/STF.
+Além disso, nos recursos especiais indicados como representativos da controvérsia (REsps 2204791/RS, 2204730/RS e 2204731/RS), em que se discute a competência da Justiça Federal e o cabimento do chamamento ao processo em execuções individuais de títulos coletivos, não houve decisão de suspensão da matéria no âmbito desta Corte Superior. Ademais, não há óbice para que a parte renove o pedido perante o tribunal competente.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no agravo em recurso especial rejeitados.
