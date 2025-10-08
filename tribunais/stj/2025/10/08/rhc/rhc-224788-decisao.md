@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por WESLEI SANTOS DE JESUS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, que denegou a ordem no HC n. 8048785-65.2025.8.05.0000 (fls. 550/587 ).
+Extrai-se dos autos que o recorrente foi preso preventivamente pela suposta prática do crime de homicídio qualificado (Processo n. 8012356-16.2024.8.05.0039, da Vara do Júri e Execuções Penais de Camaçari/BA - fls. 285/288).
+Neste recurso , a defesa alega, em suma, insufici ência de provas de autoria; ausência de fundamentação concreta, nos termos do art. 312 do CPP, para o decreto de prisão prev entiva; ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternativas ao cárcere.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar.
+Este processo foi distribuído por prevenção do RHC n. 210.858/BA.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Quanto aos motivos da custódia, com efeito, o Tribunal de origem manteve a prisão preventiva, ratificando os fundamentos do Juízo de primeiro grau, no sentido da gravidade concreta do delito, pois o recorrente, supostamente, após desentendimento anterior, desferiu um tiro no peito esquerdo do ofendido, empreendendo fuga em seu veículo (fl. 285 ), o que demonstra a necessidade da custódia para a garantia da ordem pública.
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça já se manifestou em caso semelhante: com efeito, as instâncias ordinárias fundamentaram a constrição em elementos concretos da presente hipótese, pois o paciente, ao lado de outros dois indivíduos, motivado por desentendimentos anteriores em razão da compra de um terreno, efetuou disparos de arma de fogo contra a vítima, que não a levaram a óbito em virtude de ter conseguido escapar da perseguição e do pronto socorro, o que justifica a custódia para a garantia da ordem pública (AgRg no HC n. 823.816/PE, da minha relatoria, Sexta Turma, julgado em 28/8/2023, DJe 1º/9/2023 - grifo nosso).
+A propósito, veja-se o AgRg no HC n. 938.898/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turm a, julgado em 7/10/2024, DJe 14/10/2024.
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evid enciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, conheço parcialmente do recurso e, com base na jurisprudência, nessa parte, nego-lhe provimento.
+Publiq ue-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FRAGILIDADE DE PROVAS DE AUTORIA. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MODUS OPERANDI. GRAVIDADE CONCRETA. CRIME PRATICADO POR DESENTENDIMENTO ANTERIOR. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso ordinário conhecido em parte e, nessa extensão, improvido.
