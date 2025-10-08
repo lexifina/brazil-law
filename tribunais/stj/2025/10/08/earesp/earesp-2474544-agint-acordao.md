@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Gurgel de Faria, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+Impedido o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA DEMANDA. APLICAÇÃO DA SÚMULA N. 182/STJ. ACÓRDÃO PARADIGMA QUE JULGA O MÉRITO RECURSAL. INVIABILIDADE DO PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência desta Corte, não se conhece da divergência entre acórdão que julga o mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de óbice processual, porquanto ausente o pressuposto básico da discrepância entre os acórdãos a respeito da mesma questão jurídica. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Pastifício Selmi S.A. e Filial(is) contra decisório de fls. 1.572/1.574, que indeferiu liminarmente seus embargos de divergência por ausência de silititude fática entre os julgados confrontados, uma vez que a matéria trazida a debate não foi apreciada pela Segunda Turma por ocasião do julgamento do acórdão embargado em razão da Súmula n. 182/STJ.
+Sustenta a parte ora agravante, em resumo, a similitude fática entre os julgados apresentados porquanto na origem discutiu-se "a possibilidade de exclusão da CPRB da determinação da base de cálculo do PIS e da Cofins" (fl. 1.584).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Sem impugnação (fl. 1.659).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA DEMANDA. APLICAÇÃO DA SÚMULA N. 182/STJ. ACÓRDÃO PARADIGMA QUE JULGA O MÉRITO RECURSAL. INVIABILIDADE DO PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Nos termos da jurisprudência desta Corte, não se conhece da divergência entre acórdão que julga o mérito da demanda e julgado que não ultrapassou o juízo de admissibilidade, ante a verificação de óbice processual, porquanto ausente o pressuposto básico da discrepância entre os acórdãos a respeito da mesma questão jurídica. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao colegiado para serem confirmados:
+Trata-se de embargos de divergência opostos por PASTIFICIO SELMI SA E FILIAIS, contra acórdão proferido pela Segunda Turma desta Corte, assim ementado (fls. 728/729):
+PROCESSUAL CIVIL. NA ORIGEM TRATA-SE DE TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESP ECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RENDA BRUTA (CPRB). EXCLUSÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS. IMPOSSIBILIDADE. PRECEDENTE DO STJ. AGRAVO INTERNO IMPROVIDO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de mandado de segurança objetivando que a autoridade impetrada seja compelida a abster-se de exigir-lhes as contribuições relativas ao PIS e à COFINS, calculadas mediante a inclusão da CPRB - Contribuição Previdenciária sobre a Receita Bruta em suas bases de cálculo. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC e consonância do acórdão recorrido com jurisprudência do STJ.
+II - Entretanto, a parte agravante deixou de impugnar especificamente: consonância do acórdão recorrido com jurisprudência do STJ.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. São insuficientes, pela sua generalidade, para impugnar os fundamentos específicos da decisão que negou seguimento ao recurso especial na origem. Cabia à parte, em conformidade com a jurisprudência, trazer argumentos que confrontassem os fundamentos de negativa de seguimento ao recurso especial, e não fundamentos genéricos e sem nenhuma vinculação dialética com a matéria tratada nos autos.
+IV - Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AREsp 888.241/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp 1.036.445/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp 1.006.712/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+V - Agravo interno improvido.
+(AgInt no AREsp 2.474.544/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe 18/06/2024).
+A divergência jurisprudencial foi apresentada quanto à necessidade de sobrestamento do presente feito e devolução dos autos a origem porquanto a matéria trazida a julgamento se subsume ao Tema Repetitivo 1276/STJ.
+Aponta como paradigma, o seguinte acórdão proferido pela Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SUBMISSÃO DA MATÉRIA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA 1.276 DO STJ. SOBRESTAMENTO.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, sendo que, em hipóteses excepcionais, admite a jurisprudência emprestar-lhes efeitos infringentes.
+2. A Primeira Seção do STJ decidiu afetar, ao julgamento sob o rito repetitivo, o Tema 1.276 para o exame da seguinte questão jurídica:
+"decidir sobre a possibilidade de exclusão da base de cálculo das contribuições ao PIS/PASEP e COFINS do montante da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) considerando a identidade dos fatos geradores dos tributos", com a determinação de suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria e tramitem no território nacional 3. Necessidade de retorno dos autos à origem para posterior realização do juízo de conformação.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito os julgados anteriores e determinar a devolução dos autos ao Tribunal de origem.
+(EDcl no AgInt no AREsp n. 2.479.302/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Parecer do Ministério Público Federal às fls. 1.561/1.567 pela ausência de hipótese interventiva.
+É o relatório. Segue a fundamentação.
+O recurso não comporta seguimento. Isso porque falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, qual seja, a discrepância entre acórdãos a respeito da mesma questão jurídica, pois o aresto embargado não enfrentou o mérito da controvérsia em razão do óbice da Súmula 182/STJ.
+Inexiste, assim, similitude fática e jurídica entre os casos confrontados. É que as razões de decidir utilizadas no acórdão embargado da Segunda Turma estão relacionadas à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial, matéria esta não enfrentadas no acórdão paradigma.
+Importante consignar ainda que "Diferentemente das instâncias ordinárias, em que o trabalho do juiz consiste em identificar no litígio os fatos que o distinguem dos demais, para que tanto quanto possível a lei seja aplicada sob um viés circunstanciado, na instância especial o julgamento é inspirado pela uniformização  ..  Os embargos de divergência no Superior Tribunal de Justiça constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados tais como dimensionados no acórdão embargado e no acórdão indicado como paradigma  ..  No âmbito dos embargos de divergência, portanto, não se rejulga o recurso especial  ..  O respectivo acórdão é simplesmente confrontado com um ou mais julgados com a finalidade de harmonizar a jurisprudência do Superior Tribunal de Justiça" (AgRg nos EREsp 1.245.954/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe 18/02/2014).
+ANTE O EXPOSTO, indefiro liminarmente os embargos de divergência.
+Publique-se.
+Conforme já consignado, nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como pretende a parte embargante ora recorrente ao apresentar a controvérsia tendo por acórdão embargado julgado com aplicação do óbice da Súmula n. 182/STJ.
+Esta Corte já se pronunciou no sentido de que " o s embargos de divergência objetivam estancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação" (AgRg nos EAREsp n. 2.518.558/SE, Relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 18/3/2025, DJEN de 24/3/2025), o que não se verifica na hipótese em apreço.
+No mesmo sentido, confiram-se:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO 182 DA SÚMULA DO STJ. APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. SÚMULA 315/STJ.
+1. Não cabe, em embargos de divergência, reexaminar regra técnica de admissibilidade do recurso especial, nos termos da Súmula 315/STJ.
+2. Agravo interno a que se nega provimento.
+(EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.772.759/PR, Relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 27/11/2024, DJEN de 3/12/2024.)
+PROCESSO CIVIL E ADMINISTATIVO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO AGRAVO INTERNO PELA APLICAÇÃO DA SÚMULA N. 182 DO STJ. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. SÚMULA N. 315 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. Hipótese em que o acórdão embargado se limitou a não conhecer do recurso recurso especial, em razão do óbice da Súmula n. 182 do STJ, na medida em que "o recorrente não logrou êxito em impugnar, nas razões do agravo em recurso especial, os fundamentos da decisão da Corte de origem que inadmitiu o apelo nobre".
+2. Os embargos de divergência - recurso de fundamentação vinculada e de cognição restrita - não ultrapassam o juízo de admissibilidade, uma vez que não se prestam ao mero reexame do acerto ou desacerto do acórdão embargado acerca da aplicação de regra técnica de conhecimento do recurso, tampouco à análise da questão de mérito, que sequer foi objeto de decisão justamente em razão da aplicação do óbice de admissibilidade do agravo em recurso especial.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 2.500.696/DF, Relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 9/4/2025, DJEN de 23/4/2025.)
+Dessa forma, de rigor a manutenção da decisão agravada.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
