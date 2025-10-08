@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por LA MAGGIORE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL cuja ementa guarda os seguintes termos (fl. 196):
+EMENTA - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - RETENÇÃO DO IMPOSTO DE RENDA QUANDO DO PAGAMENTO DOS ALUGUEIS -MATÉRIA NÃO DISCUTIDA NA FASE DE CONHECIMENTO - RECURSO NÃO PROVIDO. Com relação ao direito de retenção de Imposto de Renda, a obrigação do pagamento de tributo é do locador, na forma do artigo 22, inciso VIII, da Lei n. 8245/91, no entanto, nos casos em que a locatária for pessoa jurídica e o locador pessoa física, o regime de tributação é de retenção na fonte, cabendo à pessoa jurídica, no pagamento do aluguel, proceder à devida retenção, sendo que a dedução do valor do imposto de renda da importância do aluguel devido, depende o locador da existência de avença entre as partes nesse sentido. Entretanto, nota-se que tal tese defensiva não foi arguida na fase de conhecimento, não podendo integrar a fase executiva.
+Rejeitados os embargos de declaração opostos (fls. 217-222).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, III e IV, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 7º, II, § 1º, da Lei n. 7.713/1988 e 46 da Lei n. 8.241/1992 e na Instrução Normativa n. 1.500 da Receita Federal.
+Sustenta, em síntese, que a retenção do imposto de renda no ato do pagamento do aluguel realizado pela locatária pessoa jurídica é legítima, já que a sua incidência independe de autorização na decisão judicial, não havendo que se falar em violação da coisa julgada.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 279-285).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 287-297), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 330-335).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não prospera a alegada violação dos arts. 489 e 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+O Tribunal de origem concluiu no sentido de que a questão relativa aos descontos a título de imposto de renda está acobertada pelo manto da coisa julgada, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 198):
+Com relação ao direito de retenção de Imposto de Renda, a obrigação do pagamento de tributo é do locador, na forma do artigo 22, inciso VIII, da Lei n. 8245/91, no entanto, nos casos em que a locatária for pessoa jurídica e o locador pessoa física, o regime de tributação é de retenção na fonte, cabendo à pessoa jurídica, no pagamento do aluguel, proceder à devida retenção, sendo que a dedução do valor do imposto de renda da importância do aluguel devido, depende o locador da existência de avença entre as partes nesse sentido.
+Entretanto, nota-se que tal tese defensiva não foi arguida na fase de conhecimento, de modo que não foi examinada na sentença de p. 329/335, que julgou parcialmente procedente o pedido inicial para majorar o valor do aluguel do imóvel objeto do contrato celebrado entre as partes, fixando-o a partir de 21/09/2018 em R$ 10.786,98, condenando a parte ré ao pagamento da diferença entre os valores pagos e aqueles de fato devidos. Com isso, conforme decidido pelo magistrado singular, como os valores recolhidos a título de IRPF pela executada não foram objeto de deliberação na fase de conhecimento e, portanto, não podem integrar a fase executiva, sob pena de violação do princípio da fidelidade ao título.
+Logo, é possível observar que na sentença não houve qualquer desconto a título de imposto de renda, de modo que a questão está acobertada pelo manto da coisa julgada. Com isso, não merece ser realizado nenhum reajuste no valor dos alugueis determinado em sentença.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. OFENSA À COISA JULGADA. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Consoante jurisprudência desta Corte, a alegação de ilegitimidade passiva, apesar de constituir matéria de ordem pública, deve ser suscitada na fase de conhecimento, pois, uma vez transitada em julgado a decisão condenatória, não é possível, em sede de cumprimento de sentença, rediscutir as questões definidas no título executivo, sob pena de ofensa ao instituto da coisa julgada.
+Incidência da Súmula n. 83 do STJ.
+2. Ademais, a revisão da conclusão do julgado - no sentido de que a discussão sobre a legitimidade passiva foi enfrentada na fase de conhecimento, estando acobertada pelo coisa julgada - não prescindiria do reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.893.427/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+Ademais, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Por fim, ressalta-se que não é possível o conhecimento do recurso especial no qual se alega ofensa a artigos de instrução normativa da Receita Federal, uma vez que não se enquadram no conceito de lei federal previsto no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
