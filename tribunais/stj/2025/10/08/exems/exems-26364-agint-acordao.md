@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NA PETIÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. REQUERIMENTO DE INTIMAÇÃO DO EXEQUENTE, PARA FORNECIMENTO DE E NDEREÇO ATUAL, DIANTE DO INSUCESSO NA NOTIFICAÇÃO ADMINISTRATIVA NO PROCEDIMENTO DE REVISÃO. EXISTÊNCIA DE DISCIPLINA ESPECÍFICA NA LEGISLAÇÃO QUE DISCIPLINA A COMUNICAÇÃO DOS ATOS PROCESSUAIS NO ÂMBITO DO PROCESSO ADMINISTRATIVO. INDEFERIMENTO.
+1. Consoante mencionado na decisão agravada, cabe à União proceder a intimação administrativa do interessado, seguindo a disciplina da legislação que disciplina o procedimento de revisão, complementada pela Lei 9.784/1999.
+2. Assim, há tanto a possibilidade de intimação do interessado por meio de seu procurador, quando devidamente habilitado (arts. 6º a 8º da IN 2/2021), como por diversos outros meios de comunicação dos atos e termos do processo administrativo (pessoal, por correspondência ou mesmo por publicação na imprensa oficial - art. 26, §§ 3º e 4º, da Lei 9.784/1999).
+3. É ônus da Administração, portanto, averiguar a situação fática (interessado vivo ou falecido, endereço atualizado ou não, existência de comunicação de eventual alteração do domicílio) para identificar a quem e de que forma deve ser feita a intimação administrativa.
+4. Excetuada a hipótese de inexistência de disciplina normativa, devidamente justificada pelo ente público, não há razoabilidade em transferir de imediato para o processo judicial os problemas que a Administração enfrenta para dar impulso ao contencioso administrativo.
+5. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno da União contra decisão que indeferiu seus requerimentos de intimação da parte exequente, para fornecimento do endereço atual (de modo a viabilizar a notificação do andamento do procedimento de revisão da anistia), bem como de suspensão da Execução até que seja retomada a tramitação do processo administrativo.
+Defende a agravante que a existência de revisão administrativa da anistia tem sido reconhecida pelo Judiciário como questão prejudicial externa, tanto que tem sido determinada a suspensão do processo executivo quando é noticiado o ajuizamento de demanda autônoma para discutir a anulação da anistia.
+Afirma, ainda, que o STJ , em casos como o dos autos, tem adotado o entendimento de que deve ser por ele avaliada a regularidade do procedimento de revisão. Assim, à luz da imparcialidade, da isonomia e da paridade de armas, deve o Judiciário contribuir para que as notificações sejam realizadas de modo regular, pois é evidente que o exequente só s e interessa em atualizar seus dados no processo judicial em que busca a satisfação do seu crédito, mas não adota semelhante atitude no processo administrativo porque não é de seu interesse ver possivelmente reconhecida a inconstitucionalidade da concessão de anistia.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NA PETIÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. REQUERIMENTO DE INTIMAÇÃO DO EXEQUENTE, PARA FORNECIMENTO DE E NDEREÇO ATUAL, DIANTE DO INSUCESSO NA NOTIFICAÇÃO ADMINISTRATIVA NO PROCEDIMENTO DE REVISÃO. EXISTÊNCIA DE DISCIPLINA ESPECÍFICA NA LEGISLAÇÃO QUE DISCIPLINA A COMUNICAÇÃO DOS ATOS PROCESSUAIS NO ÂMBITO DO PROCESSO ADMINISTRATIVO. INDEFERIMENTO.
+1. Consoante mencionado na decisão agravada, cabe à União proceder a intimação administrativa do interessado, seguindo a disciplina da legislação que disciplina o procedimento de revisão, complementada pela Lei 9.784/1999.
+2. Assim, há tanto a possibilidade de intimação do interessado por meio de seu procurador, quando devidamente habilitado (arts. 6º a 8º da IN 2/2021), como por diversos outros meios de comunicação dos atos e termos do processo administrativo (pessoal, por correspondência ou mesmo por publicação na imprensa oficial - art. 26, §§ 3º e 4º, da Lei 9.784/1999).
+3. É ônus da Administração, portanto, averiguar a situação fática (interessado vivo ou falecido, endereço atualizado ou não, existência de comunicação de eventual alteração do domicílio) para identificar a quem e de que forma deve ser feita a intimação administrativa.
+4. Excetuada a hipótese de inexistência de disciplina normativa, devidamente justificada pelo ente público, não há razoabilidade em transferir de imediato para o processo judicial os problemas que a Administração enfrenta para dar impulso ao contencioso administrativo.
+5. Agravo Interno não provido.
+VOTO
+A pretensão recursal não merece acolhida.
+Consoante mencionado na decisão agravada, cabe à União proceder a intimação administrativa do interessado, seguindo a disciplina da legislação que disciplina o procedimento de revisão, complementada pela Lei 9.784/1999.
+Assim, há tanto a possibilidade de intimação do interessado por meio de seu procurador, quando devidamente habilitado (arts. 6º a 8º da IN 2/2021), como por diversos outros meios de comunicação dos atos e termos do processo administrativo (pessoal, por correspondência ou mesmo por publicação na imprensa oficial - art. 26, §§ 3º e 4º, da Lei 9.784/1999).
+É ônus da Administração, portanto, averiguar a situação fática (interessado vivo ou falecido, endereço atualizado ou não, existência de comunicação de eventual alteração do domicílio) para identificar a quem e de que forma deve ser feita a intimação administrativa.
+Excetuada a hipótese de inexistência de disciplina normativa, devidamente justificada pelo ente público, não há razoabilidade em transferir de imediato para o processo judicial os problemas que a Administração enfrenta para dar impulso ao contencioso administrativo.
+Por todo o exposto, nego provimento ao Agravo Interno.
