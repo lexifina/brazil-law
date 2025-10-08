@@ -1,0 +1,9 @@
+DECISÃO
+Tratam-se de embargos de declaração opostos por JOSÉ DAVID NASSER NETO contra o acórdão proferido por esta Corte Especial, de minha relatoria, que julgou o Agravo Regimental nos Embargos de Declaração nos Embargos de Divergência em Agravo em Recurso Especial nº 2438641 - MG, ementado nos seguintes termos (fls. 863/865):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. INTEIRO TEOR DOS ACÓRDÃOS PARADIGMA. AUSÊNCIA. CERTIDÃO DE JULGAMENTO. AUSÊNCIA. INDICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO. INSUFICIÊNCIA. VÍCIO SUBSTANCIAL. INAPLICABILIDADE. PARÁGRAFO ÚNICO DO ARTIGO 932 DO CÓDIGO DE PROCESSO CIVIL. 1. A ausência da certidão de julgamento, caracteriza desrespeito à regra técnica e constitui vício substancial insanável. 2. A simples menção do diário da justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial em virtude da ausência de inteiro teor do acórdão. 3. A juntada apenas da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicação do parágrafo único do artigo 932 do CPC. 4. Agravo regimental não provido.
+A fls. 1006 sobreveio certidão da Secretaria de Processamento de Feitos informando o falecimento da parte Embargante, conforme certidão de óbito juntada a fls. 1005.
+É o relatório.
+Tendo em vista o superveniente falecimento do réu JOSÉ DAVID NASSER NETO, ora Embargante, durante o processamento do recurso conforme certidão de óbito anexada aos autos (fls. 1005), declaro extinta a punibilidade do recorrente, nos termos do art. 107, inciso I, do Código Penal.
+Por consequência, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
