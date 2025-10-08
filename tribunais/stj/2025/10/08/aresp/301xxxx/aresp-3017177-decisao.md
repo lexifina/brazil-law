@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE SÃO PAULO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - REEXAME NECESSÁRIO - MANDADO DE SEGURANÇA ITBI - A SENTENÇA CONCEDEU EM PARTE A SEGURANÇA SOMENTE PARA DETERMINAR QUE FOSSEM ADEQUADOS OS AUTOS DE INFRAÇÃO QUESTIONADOS, DE MODO QUE O VALOR A SER RECOLHIDO PELA IMPETRANTE A TÍTULO DE ITBI TENHA COMO DATA DO FATO GERADOR O REGISTRO DO TÍTULO PERANTE O OFÍCIO DE IMÓVEIS COMPETENTE, BEM COMO ORDENOU QUE O VALOR DA BASE DE CÁLCULO DO IMPOSTO FOSSE ATUALIZADO PELOS ÍNDICES OFICIAIS DESDE A DATA DO CONTRATO DE INTEGRALIZAÇÃO, UMA VEZ QUE A CORREÇÃO MONETÁRIA NÃO SE CONFUNDE COM JUROS DE MORA E APENAS VISA RECOMPOR O VALOR DA MOEDA - PRETENSÃO DA IMPETRANTE AO RECONHECIMENTO DA IMUNIDADE DO ITBI REFERENTE A IMÓVEL INCORPORADO AO SEU PATRIMÔNIO - CABIMENTO REQUISITOS LEGAIS PREENCHIDOS PELA APELADA CONTRATO SOCIAL QUE DEMONSTRA QUE SUAS ATIVIDADES PREPONDERANTES NÃO POSSUEM CARÁTER IMOBILIÁRIO SENTENÇA PARCIALMENTE REFORMADA RECURSO DA IMPETRANTE PROVIDO E EX OFFICIO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 37, § 2º, do CTN, no que concerne à impossibilidade de concessão da imunidade de ITBI à executada pela inexistência de receita operacional no período de verificação da preponderância de atividade imobiliária, porquanto demonstra a ausência de propósito negocial da empresa e não condiz com o benefício fiscal pretendido, trazendo a seguinte argumentação:
+A questão versada nos autos diz respeito aos requisitos necessários para a caracterização de hipótese de não incidência do ITBI.
+ ..
+Data vênia, após a leitura dos dispositivos acima, resta claro e cristalino que foi completamente equivocado o entendimento fixado no v. acórdão, uma vez que a empresa não teve receita operacional no período de verificação da preponderância prevista no artigo 37, §2º, do CTN e tem por objeto social "a administração (i) de bens próprios; (ii) participação em geral em outras sociedades nacionais e estrangeiras, inclusive como acionista ou quotista; e (iii) intermediação de negócios em geral de bens e serviços", o que não condiz com o benefício fiscal pretendido.
+Entretanto, o v. acórdão se baseou unicamente na ausência de receitas operacionais, como podemos verificar no trecho abaixo:
+ ..
+Por óbvio que a existência de receita operacional é essencial para reconhecimento da não incidência do ITBI, pois sua ausência viola a própria função do instituto da imunidade, que é estimular a atividade empresarial. Ora, a incorporação de imóvel ao patrimônio de pessoa jurídica sem receitas operacionais no período previsto no artigo 37, § 2º, do Código Tributário Nacional, revela a falta de escopo negocial. Afinal, a realização de capital social não está relacionada com as finalidades essenciais da empresa.
+ ..
+Não havendo atividade em exercício demonstrada pela ausência de receita operacional, não há como reconhecer imunidade tributária à pessoa jurídica, por falta de propósito negocial.
+ ..
+Assim, verifica-se que o v. acórdão causou violação direta ao artigo 37, §2º, do CTN, pois reconheceu imunidade do ITBI com base em mera "ausência de receita operacional", em levar em conta que o objeto social (atividade-fim da empresa) não é condizente com o benefício pretendido, deixando de observar os requisitos previstos no referido dispositivo legal.
+ ..
+Afinal, a imunidade do ITBI tem por finalidade estimular as atividades empresariais das pessoas jurídicas que não tem como atividade preponderante a compra e venda, a locação de bens imóveis ou arrendamento mercantil (artigo 37, § 2º, do CTN). Evidente, portanto, que a existência de receita operacional é essencial à concessão da imunidade (fls. 243-246).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente, no sentido de que a ausência de propósito negocial da empresa impossibilita a concessão da imunidade de ITBI .
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
