@@ -1,0 +1,95 @@
+DECISÃO
+Trata-se de recurso especial interposto por ITAÚ UNIBANCO S/A, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 807):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - ISSQN - SERVIÇOS BANCÁRIOS - NATUREZA DA ATIVIDADE - TARIFA - ADIANTAMENTO A DEPOSITANTE, TARIFAS INTERBACÁRIAS - RENDAS DE OPERAÇÕES DE CRÉDITO - TARIFA SOBRE CONTRATAÇÕES DE OPERAÇÕES ATIVAS. Constatado pelo Fisco que a receita denominada Tarifas Interbancárias é decorrente de prestação de serviço de cobrança contratado pelo cliente (não configurando recuperação de custos, de acordo com cláusula expressa do convênio firmado pelas instituições financeiras), lídima a incidência do ISS, mormente se a prova pericial corrobora a natureza remuneratória da receita, afastando a de mero reembolso. De acordo com a jurisprudência consolidada pelo c. STJ no REsp 1.111.234, a análise dos riscos da operação de concessão de crédito emergencial ao cliente (Adiantamento a Depositante) constitui serviço autônomo, pois, por interpretação extensiva, encontra correspondência no item 15.08 da Lista de Serviços da LC 116/2003. De igual modo, em relação às rendas de operação de crédito e a tarifa sobre contratações de operações ativas, serviços cujo valor é pré-fixado e conferido mediante requerimento e pagamento, amoldando-se ao item 15.08 da lista, especificamente "emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito".
+Os embargos de declaração opostos foram rejeitados (fls. 842/851).
+A parte recorrente alega violação dos arts. 11, 489, II e § 1º, IV e VI, 1.013, caput e § 1º, e 1.022, II, do Código de Processo Civil (CPC), por omissões e deficiência de fundamentação no acórdão dos embargos de declaração, inclusive quanto às rubricas "tarifa de elaboração e renovação de cadastro", "tarifa de emissão de cartão e fornecimento de cheque" e "tributos municipais com ISS retido", além de não enfrentar argumentos capazes de infirmar a conclusão adotada.
+Aponta violação do art. 1º da Lei Complementar 116/2003, c/c o item 15.08 da lista anexa, e dos arts. 4º, 108, § 1º, e 110 do Código Tributário Nacional (CTN), por se enquadrar juros e ressarcimentos como serviços atividades-meio.
+Sustenta ofensa aos arts. 135, III, 203 e 213 do CTN, pela inclusão indevida de coobrigados na certidão de dívida ativa (CDA) e pela legitimidade da instituição bancária para requerer retificação da CDA.
+Argumenta, ainda, que não se aplica o art. 86, parágrafo único, do CPC, por não ser mínima a sucumbência do município exequente, e que houve falha na valoração da prova pericial (art. 371 do CPC).
+Contrarrazões não apresentadas (fl. 978)
+O recurso foi admitido (fls. 981/982).
+É o relatório.
+Na origem cuida-se de embargos à execução fiscal em que Itaú Unibanco S/A buscou a desconstituição de CDAs referentes ao Imposto sobre Serviços (ISS) sobre receitas registradas em rubricas bancárias ("adiantamento a depositantes", "tarifas interbancárias", "contratação de operações ativas", "rendas de operações de crédito", "tarifa de elaboração e renovação de cadastro", "tarifa de emissão de cartão e fornecimento de cheque" e "tributos municipais com ISS retido"), relativas ao período de 2004 a 2009.
+A sentença de primeira instância julgou parcialmente procedente o pedido para reconhecer apenas o excesso de execução quanto ao tombamento de contas corrente em meses específicos de 2008 e manteve a exigência nas demais rubricas.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS negou provimento à apelação do contribuinte e deu provimento ao recurso do município exequente, adotando a fundamentação a seguir (fls. 809/815):
+PRELIMINAR
+O Banco embargante aduziu, em sede de preliminar, a ilegitimidade passiva dos coobrigados indevidamente incluídos na Certidão de Dívida Ativa, uma vez que gerentes, diretores ou representantes da instituição financeira só podem ser responsabilizados por atos que denotem excesso de poder ou infração à lei.
+Considerando que a ação de execução fiscal foi proposta somente contra a pessoa jurídica, não há que se discutir nos autos acerca de eventual ilegitimidade dos coobrigados discriminados na CDA.
+É isso que se retira do regramento processual vigente, vejamos:
+Art. 18. Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.
+A propósito, este eg. Tribunal tem assim decidido:
+ ..
+Rejeito a preliminar.
+MÉRITO
+Trata-se de Embargos à Execução fiscal em que a parte embargante, ora primeira apelante, pretende o cancelamento dos débitos constantes na CDA que instrui o referido executivo, defendendo a ausência do fato gerador do tributo, especialmente porque consistem em atividades - meio da instituição financeira.
+Pois bem. Compulsando os autos verifica-se que a Instituição Financeira, ora apelante, foi autuada, diante da ausência de repasse do ISS, no prazo regulamentar, referentes aos exercícios de 2004 a 2009.
+Salienta-se que nos termos do artigo 156, III, da Constituição Federal de 1988, compete aos Municípios instituir impostos sobre prestação de serviços de qualquer natureza, não compreendidos no artigo 155, II, definidos em lei complementar.
+Art. 156. Compete aos Municípios instituir impostos sobre:
+(..) III - serviços de qualquer natureza, não compreendidos no art. 155, II, definidos em lei complementar.
+Destaca-se que prevalece o entendimento de que a lista anexa à LC nº. 116/2003 é taxativa, porém permite uma análise extensiva, ou seja, possibilita a tributação sobre outros serviços congêneres àqueles que estão expressamente dispostos.
+ ..
+No que diz respeito à rubrica "adiantamentos a depositantes", a Circular nº. 3.371/2007 do Banco Central do Brasil, que institui tabela padronizada de serviços prioritários e pacote básico padronizado, define, na Tabela I anexa, o fato gerador como sendo o "levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito para cobertura de saldo devedor em conta de depósitos a" vista e de excesso sobre o limite previamente pactuado de cheque especial."
+Portanto, o "adiantamento a depositante" trata-se de um serviço bancário que possui valor pré-fixado, no qual o cliente efetua o pagamento de uma tarifa em virtude de um ato praticado pelo banco e não sobre o capital disponibilizado, sendo legítima a cobrança de ISS por se enquadrar no item 15.08 da Lista Anexa de Serviços da Lei Municipal nº. 8.725/03.
+ ..
+De igual modo, em relação às rendas de operação de crédito e a tarifa sobre contratações de operações ativas, serviços cujo valor é pré-fixado e conferido mediante requerimento e pagamento, amoldando-se ao item 15.08 da lista, especificamente "emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito".
+Relativamente às Tarifas Interbancárias, constatado pelo Fisco que são decorrentes de prestação de serviço de cobrança contratado pelo cliente (não configurando recuperação de custos, de acordo com cláusula expressa do convênio firmado pelas instituições financeiras), lídima a incidência do ISS, mormente se a prova pericial corrobora a natureza remuneratória da receita, afastando a de mero reembolso.
+Dessa feita, impõe-se reconhecer a legalidade da tributação e a manutenção da sentença é medida que se impõe.
+Primeiramente, inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A Corte local analisou a controvérsia sobre a incidência do Imposto sobre Serviços (ISS) sobre as rubricas listadas no recurso de origem de maneira minuciosa e completa, decidindo a favor da manutenção da cobrança desse tributo sobre os serviços bancários.
+É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Quanto ao mérito, verifico que, relativamente à possibilidade de incidência da tributação em questão sobre os serviços bancários congêneres aos da lista anexa à Lei Complementar 116/2003, esta Corte Superior firmou orientação no Recurso Especial 1.111.234/PR, julgado sob a sistemática do recurso representativo da controvérsia (Tema 132/STJ), segundo a qual é possível a interpretação extensiva para serviços congêneres da lista anexa ao Decreto-Lei 406/1968 e à Lei Complementar 56/1987, posteriormente substituída pela Lei Complementar 116/2003, para fins de incidência do ISS sobre serviços bancários.
+A questão referente à utilização de interpretação extensiva para serviços da Lista de Serviços anexa à Lei Complementar 116/2003 também foi objeto de repercussão geral reconhecida pelo STF no RE 784.439/AL, sendo firmada a seguinte tese:
+"É taxativa a lista de serviços sujeitos ao ISS a que se refere o art. 156, III, da Constituição Federal, admitindo-se, contudo, a incidência do tributo sobre as atividades inerentes aos serviços elencados na lei em razão da interpretação extensiva" (Tema 296).
+Na hipótese dos autos, verifico que a pretensão da parte recorrente esbarra no óbice da Súmula 7/STJ. A revisão da conclusão de que as receitas discutidas não são passíveis da tributação pretendida, porque incorreto o enquadramento levado a efeito pela municipalidade, esbarraria, a toda evidência, no reexame de matéria fática. Nesse mesmo sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS. SERVIÇOS BANCÁRIOS. AUTO DE INFRAÇÃO. RUBRICAS ALI CONSTANTES. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada.
+2. Nos termos da Súmula 424 do STJ, "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL 406/1968 e à LC 56/1987".
+3. Hipótese em que o acórdão recorrido, adotando essa mesma diretriz jurisprudencial, com base na realidade fática descrita nos autos, decidiu que algumas das rubricas consideradas pelo auto de infração não representam receitas de prestação de serviços bancários sujeitos ao ISS, de modo que a revisão dessa conclusão exige o reexame de matéria fático-probatória, medida inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.529.603/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/4/2021, DJe de 5/5/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS À EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ISS. INCIDÊNCIA SOBRE OS SERVIÇOS BANCÁRIOS CONGÊNERES. LEGITIMIDADE. SÚMULA 424/STJ. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que a Lista de Serviços anexa ao Decreto-lei 406/68, para efeito de incidência de ISS sobre serviços bancários, é taxativa, mas não veda a interpretação extensiva, sendo irrelevante a denominação atribuída.
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.860.387/RR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/9/2021, DJe de 17/9/2021.)
+Relativamente à alegada afronta aos arts. 135, III, 203 e 213 do CTN, pela inclusão indevida de coobrigados na certidão de dívida ativa (CDA) e pela legitimidade da instituição bancária para requerer retificação da CDA, a conclusão do Tribunal de origem não destoa da jurisprudência consolidada nesta Corte Superior de que a pessoa jurídica não tem legitimidade para demandar em nome dos sócios.
+A propósito, cito os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA SÓCIOS. DISSOLUÇÃO IRREGULAR. APELAÇÃO NÃO CONHECIDA. AUSÊNCIA DE LEGITIMIDADE RECURSAL. DECISÃO-SURPRESA. NÃO OCORRÊNCIA.
+ ..
+6. No mérito, a decisão recorrida está em conformidade com a jurisprudência do STJ: "Não pode ser conhecido o recurso especial na parte em que pleiteia sejam excluídos do pólo passivo da ação executiva os sócios-gerentes da executada, porque a pessoa jurídica, recorrente, não tem legitimidade, para, em nome próprio, defender em juízo direito alheio (dos sócios), a teor do que estatui o art. 6º do CPC" (REsp 515.016/PR, Relator Min. Teori Zavascki, DJ 22.8.2005, p. 127). No mesmo sentido: "A personalidade jurídica da sociedade não se confunde com a personalidade jurídica dos sócios. Dessa forma, a sociedade executada não tem legitimidade para pleitear o reconhecimento da prescrição intercorrente com relação a sócias" (REsp 1.393.706/PR, Rel. Ministro Humberto Martins, DJe 18.9.2013).
+ ..
+8. Recurso Especial não provido.
+(REsp n. 1.906.665/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/2/2021, DJe de 13/4/2021.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. SÓCIOS-GERENTES. PRESCRIÇÃO. ART. 6º DO CPC. ILEGITIMIDADE DA EMPRESA PARA POSTULAR DIREITO DOS SÓCIOS.
+1. Nos termos do artigo 6º do CPC "Ninguém poderá pleitear, em nome próprio, direito alheio, salvo quando autorizado por lei".
+2. A personalidade jurídica da sociedade não se confunde com a personalidade jurídica dos sócios. Dessa forma, a sociedade executada não tem legitimidade para pleitear o reconhecimento da prescrição intercorrente com relação às sócias.
+3. O reconhecimento da prescrição com relação às sócias em nada aproveita à sociedade empresária. Ausência de interesse jurídico.
+Recurso especial improvido.
+(REsp n. 1.393.706/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 5/9/2013, DJe de 18/9/2013.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. LEGITIMIDADE DA EMPRESA PARA POSTULAR EM NOME DO SÓCIO-GERENTE. IMPOSSIBILIDADE. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACORDO DE PARCELAMENTO. DESCUMPRIMENTO. LIQUIDEZ E CERTEZA DA CDA. REQUISITOS. REEXAME DE MATÉRIA FÁTICA. SÚMULA 07/STJ.
+1. A teor do que estatui o art. 6º do CPC, a pessoa jurídica recorrente não é parte legítima para, em nome próprio, defender em juízo direito alheio (do sócio).
+ ..
+5. Recurso especial parcialmente conhecido e, nesta parte, improvido.
+(REsp n. 793.772/RS, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 3/2/2009, DJe de 11/2/2009.)
+Quanto à alegada violação do art. 86 do CPC, de acordo com o entendimento do Superior Tribunal de Justiça (STJ), a aferição do quantitativo em que a parte autora e a parte ré saíram vencedoras ou vencidas na demanda, assim como da existência de sucumbência mínima ou recíproca das partes, é questão que não pode ser examinada em recurso especial por envolver aspectos fáticos e probatórios dos autos (Súmula 7/STJ).
+Confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. FIANÇA BANCÁRIA. SUBSTITUIÇÃO POR SEGURO GARANTIA. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+ ..
+4. A revisão do acórdão recorrido quanto à distribuição dos ônus sucumbenciais, com o propósito de verificar a proporção de decaimento de cada uma das partes, pressupõe o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento.
+(AREsp n. 1.364.116/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/10/2022, DJe de 21/10/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ANTIGO AUDITOR FISCAL DA PREVIDÊNCIA SOCIAL. TRANSFORMAÇÃO PARA O CARGO DE AUDITOR FISCAL DA RECEITA FEDERAL. LEI 11.457/2007. LEGITIMIDADE PASSIVA DA UNIÃO. INCORPORAÇÃO DE QUINTOS. DIFERENÇA DE VENCIMENTOS. FUNÇÃO COMISSIONADA. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85 DO CPC/2015 NÃO PREQUESTIONADO.
+ ..
+5. Por fim, sobre a fixação dos honorários advocatícios, registro que o STJ tem posicionamento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 1.976.211/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/9/2022, DJe de 30/9/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. PRELIMINAR DE NULIDADE DA DECISÃO MONOCRÁTICA. PRÉVIO JUÍZO POSITIVO DE ADMISSIBILIDADE REALIZADO PELO TRIBUNAL DE ORIGEM. ALEGADA IMPOSSIBILIDADE DE NOVA ANÁLISE. PRECLUSÃO PRO JUDICATO. DECISÃO SURPRESA. INOCORRÊNCIA. OFENSA AO ART. 54 DA LEI Nº 9.784/99. DECADÊNCIA AFASTADA PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS Nº 284 E 283 DO STF. VIOLAÇÃO AO ART. 21 DO CPC/1973. SUCUMBÊNCIA RECÍPROCA. ANÁLISE. INVIABILIDADE. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. "Este Tribunal Superior tem entendimento pacífico de que a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em Recurso Especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7 desta Corte" (REsp 1814370/RN, Rel. Min. Herman Benjamin, Segunda Turma, DJe 05/09/2019).
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.752.540/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2021, DJe de 10/12/2021.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
