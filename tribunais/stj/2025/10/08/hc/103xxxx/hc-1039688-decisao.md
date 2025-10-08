@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ANDRYUN DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+DIREITO PENAL. AGRAVO EM EXECUÇÃO. DETRAÇÃO PENAL. PRISÃO CAUTELAR ANTERIOR AO CRIME PELO QUAL O APENADO CUMPRE PENA. IMPOSSIBILIDADE. DESPROVIMENTO DO RECURSO.
+I. CASO EM EXAME:
+1. Agravo em execução interposto contra decisão que indeferiu ao apenado pedido de detração de período de prisão cautelar anterior à data do início do cumprimento da pena, referente a processo criminal distinto daquele pelo qual cumpre pena de 20 anos de reclusão, pela prática do crime previsto no art. 157, §3º, inciso II, do Código Penal.
+II. QUESTÃO EM DISCUSSÃO:
+1. Há duas questões em discussão: (i) preliminar de preclusão pro judicato, uma vez já encerrada a atividade jurisdicional do magistrado singular quanto ao ponto; (ii) possibilidade de detração de tempo de prisão provisória por processo criminal anterior ao início da execução penal, ou ao cometimento de delitos cujas penas estão sendo executadas.
+III. RAZÕES DE DECIDIR:
+1. A preliminar de preclusão pro judicato não prospera, pois houve mera retratação por parte do Magistrado, ante a interposição de recurso de agravo em execução pelo Ministério Público, conforme previsto no art. 589 do CPP.
+2. A detração penal, prevista no art. 42 do Código Penal, consiste no cômputo, na pena privativa de liberdade, do tempo de prisão provisória, administrativa ou de internação em estabelecimentos psiquiátricos.
+3. Embora a jurisprudência admita a detração de período em que o apenado esteve preso preventivamente em outro processo que tenha resultado em absolvição ou extinção da punibilidade, é indispensável que a prisão seja posterior ao crime pelo qual cumpre pena atualmente.
+4. No caso concreto, não há nexo causal entre os processos criminais, sendo o atual cumprimento de pena distinto daquele em que o apenado esteve preso cautelarmente no período que pretende ver detraído.
+5. Admitir a detração de prisão cautelar anterior ao crime pelo qual o apenado cumpre pena equivaleria à criação, à margem da lei, de espécie de "conta corrente" com crédito de dias a detrair, funcionando como salvo conduto para o cometimento de ilícitos.
+IV. DISPOSITIVO E TESE:
+1. Preliminar de preclusão pro judicato rejeitada.
+2. Recurso desprovido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto o direito do paciente à detração do tempo de prisão cautelar foi indevidamente negado, apesar do comando expresso do art. 42 do Código Penal, norma que não exige relação causal entre o motivo da prisão provisória e a condenação em execução.
+Requer, em suma, a detração do período de 16.06.2022 a 18.06.2022.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Na hipótese dos autos, verifica-se que que a magistrada singular concedeu a detração do período de prisão preventiva compreendido entre 16-07-2022 a 18-07-2022, por prisão cautelar decretada nos autos do processo nº 51210455220228210001 (Seq.11.2), distinta e anterior a condenação pela qual o apenado cumpre pena atualmente (processo nº 5054834-63.2024.8.21.0001, cujo crime fora cometido em 11-03-2024), conforme Seq.11.3.
+Com efeito, não há nexo de causal entre os processos criminais acima referidos, sendo o atual cumprimento de pena distinto daquele em que preso cautelarmente no período que pretende ver detraído.
+Conforme disposto no artigo 42 do Código Penal, a detração penal cuida-se do cômputo, na pena privativa de liberdade e na medida de segurança, do tempo de prisão provisória, de prisão administrativa ou de internação em estabelecimentos psiquiátricos.
+Ainda que a jurisprudência venha se posicionado favorável em admitir a detração de período em que o apenado esteve preso preventivamente em outro processo, quando este tenha resultado em absolvição ou extinção da punibilidade, o que é o caso, torna-se indispensável, segundo consagrado entendimento, que a prisão seja posterior ao crime pelo qual cumpre pena atualmente e pretende utilizar a constrição antecipada.
+Do contrário, admitir-se-ia a criação, à margem da lei, de espécie de "conta corrente", com crédito de dias a detrair, em favor do condenado.
+Assim, considerando a ausência de relação entre o período de prisão cautelar e a pena privativa de liberdade sobre a qual eventualmente incidirá o desconto, não merece amparo a inconformidade recursal, sob pena de criar-se uma espécie de salvo conduto para o cometimento de ilícitos (fl. 63, grifo meu).
+Segundo o entendimento firmado nesta Corte Superior, é possível a detração do período de prisão provisória referente a processo distinto, desde que o reeducando tenha sido absolvido ou declarada extinta a sua punibilidade, sendo necessário também que a segregação cautelar tenha ocorrido após a prática do crime pelo qual o apenado cumpre a pena sobre a qual incidirá a detração.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. DETRAÇÃO DE PERÍODO DE PRISÃO PREVENTIVA DECRETADA EM OUTRO PROCESSO. ARTS. 42 DO CP E 111 DA LEP. IMPOSSIBILIDADE. INEXISTÊNCIA DE ABSOLVIÇÃO OU DECRETAÇÃO DA EXTINÇÃO DA PUNIBILIDADE NO FEITO EM QUE IMPOSTA A PREVENTIVA. AGRAVO REGIMENTAL DEPROVIDO.
+1. A jurisprudência consolidada nesta Corte Superior tem se orientado no sentido de que, nos termos do disposto nos arts. 42 do Código Penal e 111 da Lei de Execuções Penais, a legislação penal permite a detração do tempo de prisão cautelar, cumprida em processo distinto, apenas nas hipóteses em que o agente tenha sido absolvido ou tenha sido declarada extinta a sua punibilidade e desde que a segregação provisória ocorra em data posterior ao delito ao qual o sentenciado cumpre pena (AgRg no HC n. 738.445/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/5/2022).
+Precedentes: AgRg no HC n. 785.887/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no HC n. 709.201/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022; HC n. 701.573/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021; AgRg no HC n. 541.090/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2020, DJe de 12/2/2020.
+2. Situação em que o feito no qual foi decretada a prisão preventiva ainda se encontra em fase instrutória, não tendo sido proferida sentença. Assim sendo, não há notícia de que o apenado tenha sido absolvido ou, ainda, que sua punibilidade tenha sido extinta no referido feito em que ficou preso cautelarmente, pelo que não há como se considerar preenchidos todos os requisitos para a detrair tempo de prisão em processo diverso.
+3. Agravo regimental desprovido. (AgRg no HC n. 862.527/PA, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20.12.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. DETRAÇÃO DE TEMPO DE PRISÃO CAUTELAR. IMPOSSIBILIDADE. RECORRENTE NÃO FOI ABSOLVIDO OU TEVE EXTINTA A PUNIBILIDADE NO PROCESSO DIVERSO.
+1. Hipótese em que não se verifica ilegalidade no feito, posto que, nos termos postos pelo Tribunal de origem, "o sentenciado não foi absolvido ou teve declarada a extinção da punibilidade (prescrição, por exemplo), mas foi condenado, ainda que tenha ocorrido a desclassificação da conduta."
+2. A jurisprudência desta Corte superior identifica as hipóteses onde cabível a detração do tempo de prisão provisória proveniente de processo diverso daquele cujo delito ensejou a condenação penal: se a data do cometimento do crime a que se refere a execução for anterior ao período requerido ou quando houver absolvição ou declaração de extinção da punibilidade no processo em que cumprido o tempo de prisão provisória. (AgRg no RHC 134.141/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 21/06/2021; AgRg no HC 541.090/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/02/2020, DJe 12/02/2020).
+3. Agravo improvido. (AgRg no HC n. 709.201/SP, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 15.8.2022.)
+Na mesma linha: AgRg no HC n. 738.445/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 19.5.2022; AgRg no HC n. 785.887/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 10.3.2023; HC n. 701.573/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 15.12.2021.
+No presente caso, a detração do tempo de prisão cautelar referente a outro processo foi afastada pelo fato de que o referido período é anterior ao crime pelo qual cumpre pena, motivo pelo qual o entendimento adotado na origem encontra-se em harmonia com a orientação desta Corte.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
