@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de EDILSON JOSÉ DA SILVA contra acórdão do Tribunal de Justiça do Estado de Pernambuco, no julgamento do Agravo Interno na Apelação nº 0000483-63.2016.8.17.0990.
+Consta dos autos que o paciente foi condenado, em primeira instância, às penas definitivas de 7 anos de reclusão e 6 meses de detenção, em regime inicial semiaberto, pela prática dos delitos previstos no artigo 158 do Código Penal, artigo 14 da Lei 10.826/2003 e artigo 4º, "a", da Lei 1.521/1951, em concurso material (e-STJ fls. 33-40).
+Em razão da substituição dos patronos, e da negativa de aditamento das razões recursais anteriormente apresentadas, a defesa interpôs agravo interno, que foi desprovido (e-STJ fls. 8-28), em acórdão assim ementado:
+AGRAVO INTERNO NA APELAÇÃO Nº. 0000483-63.2016.8.17.0990 AGRAVANTE: EDILSON JOSÉ DA SILVA AGRAVADO: MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO PROCURADORA DE JUSTIÇA: SINEIDE MARIA DE BARROS SILVA CANUTO RELATOR: DES. ISAÍAS ANDRADE LINS NETO
+PENAL E PROCESSUAL PENAL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA QUE INDEFERIU O PEDIDO DE ADITAMENTO ÀS RAZÕES RECURSAIS ANTERIORMENTE APRESENTADAS. DEFESA CONSTITUÍDA ANTERIORMENTE PELO RECORRENTE QUE APRESENTOU REGULARMENTE RECURSO DE APELAÇÃO. DEFESA CONSISTENTE. PEDIDO DE ABSOLVIÇÃO DO RECORRENTE COM RELAÇÃO AO DELITO DE EXTORSÃO. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL COM RELAÇÃO AO CRIME DE PORTE ILEGAL DE ARMA DE FOGO, BEM ASSIM, COM RELAÇÃO AO DELITO CONSTANTE DO ART. 4º, ALÍNEA "A", DA LEI Nº 1.521/51. PRECLUSÃO CONSUMATIVA. IMPOSSIBILIDADE DE RETORNO A FASES JÁ ULTRAPASSADAS DO PROCESSO. INSUFICIÊNCIA OU VÍCIO DE ATO DEFENSIVO QUE DEPENDE DA DEMONSTRAÇÃO DO PREJUÍZO CONCRETO À
+ATIVIDADE DE DEFESA DO ACUSADO, O QUE NÃO SE OBSERVA NO CASO DOS AUTOS. RECURSO DE AGRAVO INTERNO NÃO PROVIDO. DECISÃO UNÂNIME.
+1. A defesa anteriormente constituída pelo recorrente apresentou
+regularmente recurso de apelação, ocasião em que apresentou consistente defesa, pugnando pela absolvição do recorrente com relação ao delito de extorsão supostamente praticado, requerendo, ainda, que fosse reconhecida a prescrição da pretensão punitiva estatal com relação ao crime de porte ilegal de arma de fogo, bem assim, com relação ao delito constante do art. 4º, alínea "a", da Lei nº 1.521/51.
+2. Não é possível ao patrono posteriormente constituído, discordando no todo ou em parte da linha de defesa anteriormente apresentada, pretender integrar ao recurso novas teses absolutórias, uma vez que, oferecidas as razões de apelo, não pode a parte tornar a efetuá-la, visando sua complementação, eis que o ato restou abarcado pela preclusão consumativa, não sendo admissível o retorno a fases já ultrapassadas do processo.
+3. A insuficiência ou vício de ato defensivo depende da demonstração do prejuízo concreto à atividade de defesa do acusado, o que não se observa no caso dos autos.
+4. Recurso de agravo não provido. Decisão Unânime.
+Na presente impetração (e-STJ fls. 2-6), a defesa sustenta constrangimento ilegal na dosimetria da pena, ao argumento de que fundamentos vinculados aos crimes de porte ilegal de arma de fogo e agiotagem  cuja prescrição teria sido reconhecida em sede recursal  teriam sido utilizados para majorar a pena-base do delito de extorsão.
+Ao final, requer (i) o redimensionamento da pena do artigo 158 do Código Penal ao mínimo legal de 4 anos; (ii) a fixação do regime inicial aberto; e (iii) a substituição da pena privativa de liberdade por restritivas de direitos, além da intimação do Ministério Público Federal para parecer.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, a defesa não rebateu a motivação utilizada pela Corte local para indeferir o pedido revisional  preclusão consumativa e a ausência de demonstração de prejuízo concreto, o que revela deficiência de fundamentação do presente writ.
+Além disso, a pretensão ora deduzida redução da pena-base  , não foi objeto de análise pelo Tribunal a quo. Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+ ..  DOSIMETRIA. MATÉRIA NÃO ANALISADA NAS INSTÂNCIAS ORDINÁRIAS. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA DESPROVIDA.
+1. Inviável a concessão de habeas corpus de ofício se a matéria relativa à aplicação da pena ainda não foi analisada pelas instâncias ordinárias, pois implicaria em indevida supressão de instância.
+2. Agravo regimental desprovido (AgRg no REsp 1.382.235/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 26/10/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DAS PROVAS. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. Precedentes.
+2. "Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas (..)" (HC 318.623/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/05/2015, DJe 28/05/2015).
+3. Agravo regimental não provido (AgRg no HC 196.282/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 18/10/2016).
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, liminarmente, não conheço do habeas corpus.
+Publique-se.
+EMENTA
