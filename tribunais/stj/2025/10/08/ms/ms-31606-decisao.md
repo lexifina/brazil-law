@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por Rafael Fettini Campos contra ato atribuído ao Senhor Ministro Herman Benjamin, relativo à decisão que não conheceu do AREsp n. 2.989.853/GO, interposto pelo impetrante, com fundamento na aplicação da Súmula 281 do STF, ante a ausência do necessário exaurimento das instâncias ordinárias.
+O impetrante relata ter ajuizado, originariamente, ação de consignação de pagamento c/c indenização por danos morais e materiais perante a 1ª Vara Cível da Comarca de Goiânia. No juízo de primeiro grau, foi deferido o pedido de assistência gratuita e indeferido o pedido liminar, o que ensejou a interposição de agravo de instrumento perante o TJGO. Contudo, apesar de já ter sido deferida a gratuidade de justiça na primeira instância, o benefício foi indeferido nas instâncias superiores, cerceando seu acesso à justiça.
+Nesse diapasão, argumenta que houve violação aos princípios do devido processo legal, da prevalência das decisões judiciais e da segurança jurídica, conforme os artigos 5º, incisos XXXV e LXXIV, da Constituição Federal. Alega que a decisão de primeira instância que deferiu a gratuidade de justiça não foi revogada e, portanto, deveria se estender a todas as fases e atos processuais, conforme entendimento pacificado pelo Superior Tribunal de Justiça.
+Requer, assim, a concessão da medida liminar para suspender o ato coator e o andamento processual, e que seja concedida a segurança pleiteada, determinando o imediato processamento do recurso de agravo de instrumento, sem a necessidade de recolhimento do respectivo preparo.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que é incabível a impetração de mandado de segurança contra ato judicial, salvo nas hipóteses de flagrante ilegalidade, abuso de poder ou em situações teratológicas, que importem irreparável lesão ao direito líquido e certo do impetrante.
+Nesse sentido:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA SUPOSTA OMISSÃO NA APRECIAÇÃO DE EMBARGOS DE DECLARAÇÃO OPOSTOS NO RESP 1.417.519/RS. INEXISTÊNCIA DE ATO ABUSIVO OU ILEGAL AMPARÁVEL POR MANDADO DE SEGURANÇA.
+I. A jurisprudência do STJ alinha-se no sentido de que o mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais se pode verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo.
+II. Não se verifica, portanto, a ocorrência de ato abusivo, teratológico ou ilegal, tampouco a existência de direito líquido e certo amparável pelo mandado de segurança. O que se vê é mero inconformismo da parte com o desfecho das repetidas decisões em seu desfavor, sendo manifestamente incabível a segurança.
+III. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no MS n. 27.864/DF, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, julgado em 9/11/2021, DJe de 24/11/2021.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONSTITUCIONAL. PROCESSUAL CIVIL. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. NENHUMA EXCEPCIONALIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Súmula 267/STF).
+2. Não há, na hipótese, excepcionalidade apta a ensejar o cabimento do mandado de segurança contra o ato judicial que: (I) concluiu, com base na jurisprudência do STJ e na legislação em vigor, pela inviabilidade dos agravos previstos nos arts. 1.030, § 1º, e 1.042 do CPC de 2015, quando interpostos contra acórdão, porquanto estes tão somente são cabíveis em face de decisão monocrática que não admite o recurso extraordinário; (II) diante do manifesto não cabimento do recurso e da consequente não interrupção ou suspensão do prazo recursal, determinou a certificação do trânsito em julgado e a baixa dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no MS n. 28.133/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 22/3/2022, DJe de 29/3/2022.)
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JURISDICIONAL DE ÓRGÃO FRACIONÁRIO DO STJ. AUSÊNCIA DE TERATOLOGIA. NÃO CABIMENTO DO WRIT.
+1. A orientação do STJ é pacífica no sentido do não cabimento do writ contra ato jurisdicional de órgãos fracionários ou de Relator desta Corte, exceto quando se possa constatar a existência de flagrante e evidente teratologia.
+2. Na hipótese dos autos, do atento exame das razões do presente mandado de segurança, conclui-se que os impetrantes não lograram êxito em demonstrar de que forma o acórdão que apreciou os segundos embargos de declaração seria teratológico ou flagrantemente ilegal.
+3. Agravo interno não provido.
+(AgInt no MS n. 28.522/DF, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022.)
+Na presente hipótese, almeja-se a declaração de nulidade da decisão proferida pelo Senhor Ministro Herman Benjamin, enquanto presidente do Superior Tribunal de Justiça, que não conheceu do recurso interposto pelo impetrante, sob o fundamento de que não foram esgotados todos os recursos ordinários na instância de origem antes de se recorrer à instância especial.
+Consoante se observa, o ato praticado pelo Senhor Ministro Presidente não é teratológico e, tampouco, manifestamente ilegal.
+Como se nota, a decisão impugnada não conheceu do AREsp n. 2.989.853/GO por verificar que o recurso especial foi interposto sem o necessário exaurimento das instâncias ordinárias. Assim, desrespeitou-se entendimento pacífico do Supremo Tribunal Federal e do Superior Tribunal de Justiça, que exige que todos os recursos ordinários sejam interpostos na justiça de origem antes de se buscar a instância especial, em conformidade com a Súmula 281 do STF.
+Não se verifica, assim, a ocorrência de ato judicial teratológico, tampouco a existência de direito líquido e certo amparável por mandado de segurança, na medida em que foi impetrado contra decisão da Presidência desta Corte, devidamente fundamentada, com motivação clara e consistente, embora dissonante da pretensão do impetrante, o que evidencia, claramente, a indevida utilização da via mandamental.
+Ante o exp osto, com fundamento no artigo 10 da Lei n. 12.016/2009 c/c o artigo 212 do RI/STJ, indefiro liminarmente a inicial. Julgo prejudicado o pedido liminar.
+Sem condenação em honorários advocatícios, conforme Súmula n. 105/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. INDEFERIMENTO LIMINAR DA INICIAL. LIMINAR PREJUDICADA.
