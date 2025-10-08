@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INTERPOSIÇÃO DE APELAÇÃO DE FORMA CONCOMITANTE À IMPETRAÇÃO DE HABEAS CORPUS NA ORIGEM. PRETENSÃO DE ABSOLVIÇÃO. MATÉRIA PENDENTE DE ANÁLISE PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, contra a sentença condenatória, a defesa interpôs apelação, ainda pendente de julgamento e, concomitantemente, impetrou habeas corpus no Tribunal de origem - por meio do qual também plieteou a absolvição -, e a Corte local deixou de conhecer do remédio heroico sob o argumento de que foi interposto recurso específico no qual seria analisada a pretensão defensiva.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de apelação, notadamente quando este recurso, de cognição mais ampla, abrange o pedido formulado no writ.
+3. Agravo regimental não provido.
+RELATÓRIO
+SALATIEL LIMA CARVALHO interpõe agravo regimental contra decisão da Presdiência desta Corte de fls. 865-866, em que não conheceu do habeas corpus e, por conseguinte, mantive inalterada a condenação a ele imposta pela prática dos crimes de tráfico e associação para o tráfico de drogas.
+Em suas razões, a defesa pondera que, "tanto na busca e apreensão na casa deste bem como do momento de sua prisão não foram apreendidos nenhum tipo de material entorpecente ou ilícito" (fl. 880).
+Requer, assim, "a reconsideração da r. decisão agravada ou, caso assim não entenda, seja o presente recurso distribuído para análise e julgamento do colegiado, requerendo o provimento e conhecimento do presente agravo interposto, por ser de direito" (fl. 881).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo regimental (fls. 901-902).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INTERPOSIÇÃO DE APELAÇÃO DE FORMA CONCOMITANTE À IMPETRAÇÃO DE HABEAS CORPUS NA ORIGEM. PRETENSÃO DE ABSOLVIÇÃO. MATÉRIA PENDENTE DE ANÁLISE PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, contra a sentença condenatória, a defesa interpôs apelação, ainda pendente de julgamento e, concomitantemente, impetrou habeas corpus no Tribunal de origem - por meio do qual também plieteou a absolvição -, e a Corte local deixou de conhecer do remédio heroico sob o argumento de que foi interposto recurso específico no qual seria analisada a pretensão defensiva.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de apelação, notadamente quando este recurso, de cognição mais ampla, abrange o pedido formulado no writ.
+3. Agravo regimental não provido.
+VOTO
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+Na espécie, verifico que, contra a sentença condenatória, a defesa interpôs apelação, ainda pendente de julgamento e, concomitantemente, impetrou habeas corpus no Tribunal de origem - por meio do qual também pleiteou a absolvição -, e a Corte local deixou de conhecer do remédio heroico sob o argumento de que foi interposto recurso específico no qual seria analisada a pretensão defensiv a.
+Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de apelação, notadamente quando este recurso, de cognição mais ampla, abrange o pedido formulado no writ. No particular, portanto, correto o acórdão impugnado quando pontuou (fl. 814):
+ ..
+No caso em espécie, há pendente de julgamento um recurso de apelação e a impetração de um habeas corpus com o mesmo fundamento se mostra inadequada na medida em que o recurso de apelação já está em trâmite e a decisão sobre a liberdade do réu pode ser proferida por meio desse recurso caso seja dado provimento ao pleito absolutório, restando claro que a análise simultânea de ambos os instrumentos pode gerar decisões conflitantes e tumultuar o bom andamento do processo, sendo neste sentido a jurisprudência, a saber  ..
+Faço lembrar que o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição - horizontal e vertical - permite que o Tribunal ad quem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes.
+Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse o recurso que devolve ao Tribunal o conhecimento amplo de toda a matéria versada nos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Além do mais, no caso, o acórdão afastou eventual constrangimento ilegal, passível da concessão da ordem de ofício, em relação à ausência de provas acerca da prática do crime de tráfico ilícito de entorpecentes, bem como da prática do crime de associação para o tráfico .
+À vista do exposto, nego provimento ao agravo regimental.
