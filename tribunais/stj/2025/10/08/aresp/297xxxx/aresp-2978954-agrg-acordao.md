@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. DOSIMETRIA DA PENA. REEXAME DE PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA DA UNIÃO. ATUAÇÃO INSTITUCIONAL GRATUITA. SÚMULA 83/STJ.
+1. É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. A ausência de impugnação pormenorizada de todos os óbices que levaram à inadmissão do recurso especial  Súmulas 7 e 83/STJ  atrai a incidência da Súmula 182/STJ.
+2. A jurisprudência desta Corte é firme no sentido de que a atuação da Defensoria Pública é institucional e gratuita, por mandamento constitucional, não lhe sendo devidos honorários advocatícios, mesmo quando assiste réu não hipossuficiente. Incidência da Súmula 83/STJ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BERNARDO SIQUEIRA FILHO e MARCELO GOMES DE SOUSA contra as decisões, por mim proferidas, por meio das quais conheci do agravo de Bernardo Siqueira Filho para negar provimento ao seu recurso especial (fls. 1.037/1.038) e não conheci do agravo em recurso especial de Marcelo Gomes de Sousa (fls. 1.034/1.036).
+Em suas razões, os agravantes sustentam, em síntese, que os fundamentos das decisões de inadmissibilidade dos recursos especiais foram exaustivamente atacados. Alegam que a discussão sobre a dosimetria da pena, no caso de Marcelo, é de direito e não de fato, e que, em ambos os casos, o óbice da Súmula 83/STJ não se aplica, pois o precedente utilizado para negar a fixação de honorários em favor da DPU não se amolda à hipótese dos autos, em que os assistidos não são hipossuficientes (fls. 1.046/1.054).
+Requerem, ao final, a reconsideração das decisões ou a submissão do feito ao Colegiado para que seja dado provimento ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. DOSIMETRIA DA PENA. REEXAME DE PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA DA UNIÃO. ATUAÇÃO INSTITUCIONAL GRATUITA. SÚMULA 83/STJ.
+1. É inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. A ausência de impugnação pormenorizada de todos os óbices que levaram à inadmissão do recurso especial  Súmulas 7 e 83/STJ  atrai a incidência da Súmula 182/STJ.
+2. A jurisprudência desta Corte é firme no sentido de que a atuação da Defensoria Pública é institucional e gratuita, por mandamento constitucional, não lhe sendo devidos honorários advocatícios, mesmo quando assiste réu não hipossuficiente. Incidência da Súmula 83/STJ.
+3. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece provimento .
+As decisões impugnadas devem ser mantidas pelo que nelas se contém, tendo em conta que os agravantes não lograram desconstituir seus fundamentos, motivo pelo qual as trago ao Colegiado para serem confirmadas.
+Quanto ao agravo de MARCELO GOMES DE SOUSA, a decisão monocrática não conheceu do agravo em recurso especial com base na Súmula 182/STJ, pois o agravante não impugnou especificamente todos os fundamentos da decisão de inadmissibilidade, notadamente os óbices das Súmulas 7 e 83, ambas do Superior Tribunal de Justiça.
+A matéria foi assim abordada na decisão ora agravada (fls. 1.034/1.035):
+ ..
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) incidência da Súmula 83/STJ e da Súmula 7/STJ quanto ao pleito de arbitramento de honorários em favor da Defensoria Pública da União; e b) incidência da Súmula 7/STJ no que tange à revisão da dosimetria da pena. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente ao óbice da Súmula 7/STJ, e silenciou por completo em relação ao óbice da Súmula 83/STJ.
+No caso, a defesa, ao contestar a aplicação da Súmula 7/STJ, limita-se a sustentar, de modo genérico, que sua pretensão cinge-se à revaloração da prova, e não ao seu reexame. Todavia, não apresenta o quadro fático tal como delimitado pelo Tribunal de origem, a fim de permitir que esta Corte Superior examine se a hipótese cuida de mera revaloração ou, de fato, de reexame do acervo fático-probatório. A ausência dessa demonstração clara e objetiva torna a impugnação deficiente e genérica, incapaz de afastar o fundamento invocado.
+ ..
+Com efeito, as razões do agravo regimental não infirmam a conclusão de que a impugnação foi deficiente e genérica. A mera alegação de que a tese referente à dosimetria é de direito não é suficiente para afastar o fundamento da decisão de inadmissibilidade, que se baseou na necessidade de revolvimento fático-probatório para analisar a questão. Ademais, persiste a ausência de ataque específico ao óbice da Súmula 83/STJ. Desse modo, a manutenção do não conhecimento do agravo em recurso especial, com base na Súmula 182/STJ, é medida que se impõe.
+No que tange ao agravo de BERNARDO SIQUEIRA FILHO, a decisão monocrática conheceu do agravo para negar provimento ao recurso especial, aplicando a Súmula 83/STJ à pretensão de fixação de honorários em favor da Defensoria Pública da União.
+Consta da decisão agravada (fls. 1.037/1.038):
+ ..
+O acórdão recorrido está em perfeita consonância com a jurisprudência consolidada deste Superior Tribunal de Justiça. Com efeito, esta Corte Superior firmou o entendimento de que a norma contida no art. 263, parágrafo único, do Código de Processo Penal, que prevê o pagamento de honorários pelo réu não pobre, destina-se exclusivamente ao defensor dativo, nomeado pelo juiz, não sendo aplicável à Defensoria Pública, cuja atuação institucional é, por mandamento constitucional (art. 134 da Constituição Federal), integral e gratuita. Nesse sentido: AgRg no REsp n. 1.929.430/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/3/2022, DJe de 18/3/2022.
+Incide, portanto, o óbice da Súmula 83/STJ, aplicável também aos recursos interpostos com fundamento na alínea a do permissivo constitucional.
+ ..
+O argumento do agravante de que o precedente não se aplicaria por se tratar de réu não hipossuficiente não prospera. A jurisprudência desta Corte é pacífica no sentido de que a natureza da atuação da Defensoria Pública é institucional e gratuita, independentemente da condição econômica do assistido. A eventual nomeação para atuar como defensora dativa em favor de réu não pobre não desvirtua seu munus constitucional, não gerando, portanto, direito à percepção de honorários advocatícios a serem pagos pelo réu. O acórdão recorrido, portanto, alinha-se à orientação consolidada neste Tribunal, atraindo a incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
