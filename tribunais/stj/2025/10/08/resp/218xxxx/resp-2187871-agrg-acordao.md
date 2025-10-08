@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL FEDERAL VIOLADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. incide a Súmula n. 284 do STF, uma vez que o dispositivo legal indicado como violado não está relacionado à autoridade da coisa julgada da Corte Interamericana de Direitos Humanos e não contém comando normativo capaz de sustentar a tese deduzida pelo Ministério Público.
+2. A autoridade da coisa julgada internacional não encontra seu fundamento no art. 3º do CPP, mas no consentimento voluntário do Estado (Decreto Legislativo n. 89, de 3/12/1998 e art. 67 da Convenção Americana) no caráter interpartes da decisão e no interesse estatal em conservar a confiança e o crédito nas suas relações internacionais.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL agrava da decisão de fls. 216-218, por meio da qual não conheci do recurso especial.
+No regimental, o Parquet federal alega que "o recorrente apontou sim, em suas razões recursais, dispositivos de lei federal que foram expressamente violados pela decisão recorrida (art. 3º, do Código de Processo Penal c/c art. 502, do Código de Processo Civil), ou seja, lei federal diretamente relacionada e que tem inegável incidência sobre o objeto do inteiro teor do v. acórdão recorrido" (fl. 231).
+Nesse sentido, afirma que "o v. acórdão recorrido contrariou e negou vigência a tais dispositivos de lei federal (art. 3º, do Código de Processo Penal c/c art. 502, do Código de Processo Civil), desafiando a interposição do presente Recurso Especial, consoante art. 105, III, "a", da Constituição Federal)" (fl. 231).
+Postula a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, para que conheça do agravo e dê provimento ao recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL FEDERAL VIOLADO. SÚMULA N. 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. incide a Súmula n. 284 do STF, uma vez que o dispositivo legal indicado como violado não está relacionado à autoridade da coisa julgada da Corte Interamericana de Direitos Humanos e não contém comando normativo capaz de sustentar a tese deduzida pelo Ministério Público.
+2. A autoridade da coisa julgada internacional não encontra seu fundamento no art. 3º do CPP, mas no consentimento voluntário do Estado (Decreto Legislativo n. 89, de 3/12/1998 e art. 67 da Convenção Americana) no caráter interpartes da decisão e no interesse estatal em conservar a confiança e o crédito nas suas relações internacionais.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pela agravante, entendo que não lhe assiste razão.
+Conforme já decidido, incide a Súmula n. 284 do STF, uma vez que o dispositivo legal indicado como violado não está relacionado à autoridade da coisa julgada da Corte Interamericana de Direitos Humanos e não contém comando normativo capaz de sustentar a tese deduzida pelo Ministério Público.
+Não desconheço que, "de acordo com os itens 128, 129 e 130 da resolução de 22/11/2018 da Corte Interamericana de Direitos Humanos, na hipótese de crime contra a integridade física de pessoa, por exigir tratamento diferenciado, é imprescindível a realização de exame criminológico que indique o grau de agressividade do apenado para que o juízo das execuções analise o cômputo em dobro da privação de liberdade cumprida no Instituto Penal Plácido de Sá Carvalho" (AgRg no HC n. 696.776/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022).
+Todavia, são diferentes os institutos da coisa julgada cível, penal e internacional. O Ministério Público indicou a violação do art. 3º do CPP, mas o dispositivo não está relacionado à natureza definitiva da sentença da CIDH.
+O Brasil encontra-se submetido à jurisdição da Corte Interamericana a partir do Decreto Legislativo n. 89, de 3/12/1998, que reconheceu a competência obrigatória da Corte Interamericana de Direitos Humanos em todos os casos relativos à interpretação ou aplicação da Convenção Americana de Direitos Humanos para fatos ocorridos a partir do reconhecimento, de acordo com o previsto no parágrafo primeiro do art. 62 daquele instrumento internacional.
+Conforme o art. 67 da Convenção Americana, a sentença da Corte é definitiva e inapelável para todo Estado Parte. Pode, apenas, ser objeto de posterior esclarecimento. E no art. 68 do mesmo regulamento, determina-se o comprometimento dos Estados em se conformarem com as sentenças.
+Assim, o recurso especial é deficiente, o que impede o seu trânsito. A autoridade da coisa julgada internacional não encontra seu fundamento no art. 3º do CPP, mas no consentimento voluntário do Estado (Decreto Legislativo n. 89, de 3/12/1998 e art. 67 da Convenção Americana) no caráter interpartes da decisão e no interesse estatal em conservar a confiança e o crédito nas suas relações internacionais.
+Os "dispositivos legais tidos por violados não possuem comando normativo específico  ..  para fins de análise em recurso especial, razão pela qual, no ponto, o recurso especial não merece conhecimento, haja vista a incidência da Súmula n. 284 do STF" (REsp n. 1.879.563/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/11/2020, DJe de 11/12/2020).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
