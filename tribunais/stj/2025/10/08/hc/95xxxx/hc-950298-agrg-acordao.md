@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago à análise da Turma agravo regimental de MARCIO HENRIQUE DA COSTA CASTRO, interposto contra a decisão de fls. 166/168, que foi assim resumida:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ROUBOS MAJORADOS, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E CORRUPÇÃO DE MENOR. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGAÇÕES DIVERSAS. FALTA DE INTERESSE. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Ordem denegada.
+Nesta via, o agravante aduz que, ainda que as teses não tenham sido enfrentadas pela Corte estadual, a ordem pode ser concedida de ofício em virtude de ter o caráter de sucedâneo de revisão criminal, especialmente porque a flagrante ilegalidade e teratologia são manifestas, razão pela qual a ordem pode ser concedida de ofício (fl. 170). Sustenta que a aplicação da Súmula 500/STJ ao caso concreto é inadequada, pois presume a corrupção de menor sem a devida comprovação, violando o princípio da presunção de inocência. Reitera que o menor já era corrompido à época dos fatos, que a falsificação da placa do veículo era grosseira, que houve erro no cálculo da pena, especialmente quanto à compensação de atenuantes com agravantes, e que o regime inicial deveria ser mais brando.
+Requer a reconsideração da decisão monocrática para concessão da ordem de ofício ou, alternativamente, a submissão do recurso ao Colegiado para reforma da decisão agravada.
+Não abri prazo para o agravado apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+As razões do agravo regimental são inaptas para desconstituir a motivação da decisão agravada, afinal, o agravante limitou-se a repetir, de forma bem genérica, a tese refutada, o que não basta. Assim, à falta de contrariedade, mantêm-se hígidos os motivos expendidos pela decisão recorrida, explicitados nestes termos (fls. 167/168):
+ ..
+De início, diz a jurisprudência desta Corte que não se deve conhecer do writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese em que não há, no âmbito do Superior Tribunal de Justiça, julgamento de mérito passível de revisão criminal em relação a essa condenação (AgRg no HC n. 885.105/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe de 19/9/2024).
+Ademais, não é possível inaugurar, no STJ, o exame de alegações não apreciadas pela instância a quo, sob pena de indevida supressão de instância, violação dos princípios do duplo grau de jurisdição e devido processo legal, bem como alargamento inconstitucional de competência desta Corte para julgamento de habeas corpus (art. 105, I, c, da CF/88). Precedentes. (AgRg no HC n. 845.208/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe de 18/4/2024). No caso, a Corte paulista não decidiu, no acórdão ora impugnado, acerca da dita nulidade por ausência do "Aviso de Miranda", tampouco a respeito do alegado erro de tipo, quanto à idade do menor.
+Afora isso, no acórdão exarado pelo Tribunal estadual no AgRg na Revisão Criminal n. 2275389-36.2024.8.26.0000, foi explicitado o seguinte:
+Para lançar uma pá de cal sobre o assunto, no termo de interrogatório de MÁRCIO HENRIQUE, às fls. dos autos originários, consta que foi cientificado de todos os seus direitos constitucionais, inclusive o de permanecer calado.
+Sem contar que a Terceira Seção desta Corte, no julgamento do REsp n. 1.127.954/DF, processado sob o regime do art. 543-C do Código de Processo Civil, firmou compreensão de que o crime de corrupção de menores, por ser de natureza formal, consuma-se com a simples participação do adolescente na ação delitiva, sendo irrelevante, portanto, tratar-se de menor já corrompido. Súmula 500 do STJ (AgRg no REsp n. 1.491.365/MG, Ministro Gurgel de Faria, Quinta Turma, DJe de 3/8/2015).
+A Corte de origem também adotou a jurisprudência desta Casa ao afirmar que a conduta consistente na troca de placa de veículo automotor configura o crime previsto no art. 311, caput, do Código Penal, independentemente da finalidade específica do agente.
+E mais: não há interesse no reconhecimento do concurso formal, porquanto esse ponto já foi acolhido no acórdão da apelação. As reprimendas básicas foram aplicadas no mínimo legal, e, na segunda fase da dosimetria, o Tribunal reconheceu as atenuantes da confissão espontânea e da menoridade penal. Não havendo falar em aplicação aquém do mínimo, a teor da Súmula 231/STJ. Tampouco foi identificada agravante. Nem mesmo a terceira etapa do cálculo ou o regime aplicado à luz dos arts. 33, § 3º, e 59, III, do Código Penal revelam constrangimento ilegal. Todas as alegações são improcedentes.
+Por essas razões, denego a ordem.
+É consabido que os recursos devem impugnar especificamente as razões da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia. E não tendo o agravante, nas razões deste recurso, infirmado especificamente todos os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg no HC n. 782.971/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023).
+Não conheço do agravo regimental.
