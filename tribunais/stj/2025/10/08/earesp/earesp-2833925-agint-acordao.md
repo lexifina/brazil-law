@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Marco Buzzi.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS JULGADA PARCIALMENTE PROCEDENTE PELAS INSTÂNCIAS ORDINÁRIAS - MANUTENÇÃO PELO ACÓRDÃO IMPUGNADO - ADMISSIBILIDADE - DECISÃO AGRAVADA - IMPUGNAÇÃO - AUSÊNCIA - ART. 932, III, DO CPC - DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência desta Corte Superior, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do RISTJ, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de Embargos de Divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. Ausência, na hipótese.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por MAIS VIDA SERVIÇOS DE SAÚDE LTDA. contra decisão, da lavra da Presidência deste STJ, a qual indeferiu liminarmente o apelo recursal em razão da ausência de seus correlatos requisitos.
+Em síntese, o apelo recursal volta-se contra acórdão da eg. Terceira Turma, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CPC. MULTA. ART. 1.021, §4º DO CPC. DESCABIMENTO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC).
+2. Quando o recurso especial não é admitido com fundamento na Súmula nº 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu no caso.
+3. A multa do art. 1.021, § 4º, do CPC/2015 não é consequência automática do não conhecimento ou do não provimento unânime do agravo interno. Quando exercitado o regular direito de recorrer e não verificada hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária, afasta-se mencionada penalidade.
+4. Agravo interno não provido.
+Nas razões dos presentes embargos de divergência indica-se, para a demonstração do alegado dissídio, o seguinte julgado: Agint no AREsp 2.235.542/RS, Rel. Min. Raul Araújo, proferido pela eg. Quarta Turma.
+Em síntese, argumenta que impugnou especificamente todos os fundamentos da decisão agravada. Acrescenta que "(..) no julgamento do AgInt no AREsp 2.235.542/RS, relatoria do Ministro Raul Araújo, revela-se diametralmente oposta à decisão ora embargada, uma vez que naquela ocasião o órgão julgador reconheceu que a parte recorrente havia impugnado adequadamente os fundamentos da decisão que inadmitiu o Recurso Especial, inclusive quanto à incidência da Súmula 83/STJ, afastando, portanto, a alegação de ausência de dialeticidade recursal e permitindo o regular processamento do recurso." Aduz, outrossim, que "(..) Ao reconhecer que a insurgência contra a aplicação da Súmula 83/STJ havia sido suficientemente articulada no Agravo em Recurso Especial, o acórdão paradigma adotou uma interpretação mais razoável e substancial do princípio da dialeticidade, sintonizada com os princípios da instrumentalidade das formas e do acesso à justiça, conforme preconiza o artigo 4º do Código de Processo Civil."
+Às fls. 706/707, a Presidência do STJ indeferiu liminarmente o apelo recursal em epígrafe em razão da ausência de seus correlatos requisitos.
+Nas razões do presente agravo interno, a insurgente repisa o fundamento acerca da presença dos requisitos necessários ao manejo dos embargos de divergência. Adiciona que apresentou, adequadamente, o alegado dissídio jurisprudencial. Entende, portanto, satisfeitos os elementos da divergência e requer, ao final, o seu provimento a afim de reformar o acórdão embargado. (fls. 717/739)
+A impugnação está acostada às fls. 742/747.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS JULGADA PARCIALMENTE PROCEDENTE PELAS INSTÂNCIAS ORDINÁRIAS - MANUTENÇÃO PELO ACÓRDÃO IMPUGNADO - ADMISSIBILIDADE - DECISÃO AGRAVADA - IMPUGNAÇÃO - AUSÊNCIA - ART. 932, III, DO CPC - DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência desta Corte Superior, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do RISTJ, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de Embargos de Divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. Ausência, na hipótese.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Consoante destacado pela Presidência, a jurisprudência desta Corte Superior, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do RISTJ, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de Embargos de Divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas.
+Nesse contexto, a Corte Especial considera que "tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável." (ut. AgInt nos EAREsp n. 1.950.564/MS, Rel. Min. Nancy Andrighi, Corte Especial, DJe de 16.6.2023).
+Na mesma linha: AgInt nos EAREsp n. 1.760.860/PR, Rel. Ministro Humberto Martins, Segunda Seção, DJe de 18/8/2023; AgInt nos EDcl nos EREsp n. 1.803.803/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 6.10.2023.
+Com esse norte hermenêutico, na hipótese dos autos, a ora insurgente, no momento da interposição do recurso, não juntou aos autos o inteiro teor do acórdão paradigma. Dessa forma, não cumpriu regra técnica do presente recurso, o que constitui vício substancial insanável.
+A mera indicação ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a identificação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAREsp n. 1.399.185/SP, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 26/5/2023.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
