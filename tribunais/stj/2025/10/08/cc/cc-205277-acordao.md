@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 02/10/2025 a 08/10/2025, por unanimidade, conhecer do conflito, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. TAXA DE JUROS DIFERENCIADA. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SUBSIDIARIEDADE DA QUESTÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG, tendo por suscitado o Tribunal Regional do Trabalho da 3ª Região.
+2. A reclamação trabalhista ajuizada busca a manutenção da taxa diferenciada de juros concedida em contrato de financiamento bancário, mesmo após a extinção do vínculo empregatício com a instituição financeira.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a competência para julgar a demanda é da Justiça do Trabalho, em razão da relação de trabalho que influenciou na concessão da taxa de juros diferenciada, ou da Justiça Comum, por tratar-se de questão eminentemente civil.
+III. Razões de decidir
+4. A competência é determinada pela natureza preponderante da controvérsia, que no caso é cível, pois a questão principal envolve a abusividade de cláusulas contratuais previstas em contrato de financiamento imobiliário.
+5. A existência de vínculo empregatício entre a interessada e a instituição financeira não é preponderante no debate, porque o imóvel não foi adquirido para o exercício da atividade laboral e nem tinha qualquer relação direta com este, não constando ainda informações sobre previsão do benefício em contrato de trabalho.
+IV. Dispositivo
+6. Conflito conhecido para declarar competente o Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG.
+RELATÓRIO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG, tendo por suscitado o Tribunal Regional do Trabalho da 3ª Região.
+A reclamação trabalhista ajuizada pela autora busca a manutenção da taxa diferenciada de juros que lhe foi concedida em contrato de financiamento bancário, por possui contrato de trabalho com a instituição financeira, mesmo após perder o vínculo empregatício com o banco.
+Narra o suscitante que a pretensão decorre diretamente da relação de trabalho, uma vez que a taxa de juros objeto da controvérsia somente foi praticada em razão e em função de contrato de trabalho firmado entre as partes, o que atrairia a competência da Justiça do Trabalho. (e-STJ fls. 1582-1583).
+O suscitado, a seu turno, sustenta que "A alegada redução dos encargos para o adquirente que possua vínculo empregatício com o banco credor, por si só, não atrai a competência desta Especializada para dirimir a controvérsia, na forma do regramento contido no art. 114, incisos I e IX, da CF, por tratar-se de relação de consumo, regulada pelas normas do Código de Defesa do Consumidor, conforme Súmula 297 do STJ." (e-STJ fls. 1360-1364)
+Intimado, o Ministério Público Federal afirmou ser prescindível sua manifestação. (e-STJ fls. 1588-1589)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. TAXA DE JUROS DIFERENCIADA. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SUBSIDIARIEDADE DA QUESTÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA COMUM. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG, tendo por suscitado o Tribunal Regional do Trabalho da 3ª Região.
+2. A reclamação trabalhista ajuizada busca a manutenção da taxa diferenciada de juros concedida em contrato de financiamento bancário, mesmo após a extinção do vínculo empregatício com a instituição financeira.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a competência para julgar a demanda é da Justiça do Trabalho, em razão da relação de trabalho que influenciou na concessão da taxa de juros diferenciada, ou da Justiça Comum, por tratar-se de questão eminentemente civil.
+III. Razões de decidir
+4. A competência é determinada pela natureza preponderante da controvérsia, que no caso é cível, pois a questão principal envolve a abusividade de cláusulas contratuais previstas em contrato de financiamento imobiliário.
+5. A existência de vínculo empregatício entre a interessada e a instituição financeira não é preponderante no debate, porque o imóvel não foi adquirido para o exercício da atividade laboral e nem tinha qualquer relação direta com este, não constando ainda informações sobre previsão do benefício em contrato de trabalho.
+IV. Dispositivo
+6. Conflito conhecido para declarar competente o Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG.
+VOTO
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento da reclamação trabalhista, em que se pretende, mesmo após a extinção do vínculo trabalhista, a manutenção da taxa diferenciada de juros, para financiamento de imóveis, concedida exclusivamente para empregados da instituição financeira. (e-STJ fls. 8-18).
+No caso, observa-se que a taxa de juros diferenciada, fornecida apenas para empregados da instituição financeira, consta do contrato de financiamento, e não do contrato de trabalho. (e-STJ fls. 1551-1554)
+Questiona o autor a abusividade de cláusula que beneficia o empregado da instituição financeira, com taxas reduzidas para o financiamento de imóvel, apenas enquanto durar o vínculo empregatício, pois os encargos aumentariam justo no momento de maior fragilidade financeira, ou seja, após a demissão.
+"Com o aumento abusivo efetivado pelo banco, o valor da prestação que em 20/12/2021 seria de R$1.562,58 foi majorado para R$1.1.868,40, gerando uma absurda diferença mensal de R$305,40 valor este que é absurdo para qualquer pai de família.
+Como se vê, a saída do reclamante para os banqueiros foi magnífica, pois, não só deixou de lhe pagar salários, como foi extremamente beneficiado no financiamento em questão.
+Inicialmente se tem que a taxa de juros pactuada quando do contrato entabulado não poderia ter sido majorada de forma alguma, eis que, presente a condição imposta por ocasião da celebração do contrato de financiamento, igualmente, que consolidado, nos contratos firmados por instituições integrantes do Sistema Financeiro Nacional, ainda que expressamente pactuada, é vedada a capitalização dos juros, somente admitida nos casos previstos em lei, quais sejam, nas cédulas de crédito rural, comercial e industrial, inocorrentes, na presente hipótese.
+Não bastasse, se trata de um contrato de adesão, em que o reclamante não tinha o direito de alterar suas cláusulas, pelo que invoca também a ofensa aos artigos 51 e seguintes do CDC (a cláusula do aumento é nitidamente abusiva), 9º., 468 da CLT e 7º., VI da CR.
+Lado outro, enquanto é interessante para a instituição financeira empurra financiamentos aos seus funcionários, mas quando do desligamento sem qualquer desconforto ou vergonha altera as taxas de juros de forma completamente abusiva. Ora Excelência, não deveria ser o contrário  Enquanto funcionária deduz que a colaboradora possui condições de prosseguir pagando o contrato pactuado, e ao ser desligamento a taxa deveria cair e não subir, pois resta desguarnecida do seu meio de sobrevivência, não
+(..)
+Isto posto, requer o autor seja declarada ilícita a alteração contratual, determinando ao Banco Réu que volte a utilizar a taxa de juros anterior, qual seja, de 6.2%, e que se mantenham inalterados os valores das prestações previstas no contrato em questão, levando-se em conta a amortização feito com recursos do FGTS, observadas as parcelas vencidas e vincendas, até efetivo cumprimento do que ora se pleiteia. " (e-STJ fls. 8-18)
+Em caso semelhante, esta Corte já decidiu que "Em conflitos similares, a jurisprudência deste STJ caminha no sentido de que a competência é determinada pela natureza preponderante da controvérsia sob análise, ou seja, a competência ratione materiae é definida em função do pedido e da causa de pedir. No caso em análise, a lide envolve, como questão principal, a pretensão de abusividade de cláusulas contratuais de financiamento imobiliário. A existência de vínculo empregatício entre a interessada e a instituição financeira, o qual influenciou na realização do ajuste, bem como na taxa de juros contratada, não é é preponderante no debate, porque o imóvel não foi adquirido para o exercício da atividade laboral nem tinha qualquer relação direta com este. Assim, a análise a respeito da abusividade das cláusulas contratuais é, precipuamente, cível, sendo a questão trabalhista subsidiária na hipótese." (CC n. 213.470, Ministro Marco Buzzi, DJEN de 02/07/2025.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 27ª Vara Cível de Belo Horizonte/MG, para processar e julgar a demanda de origem.
+É como voto.
