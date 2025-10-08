@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO PAULO PEREIRA DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial em razão da Súmula n. 7, STJ (fls. 519-522).
+Em recurso exclusivo da defesa, o Tribunal de origem deu parcial provimento à apelação para afastar a valoração negativa dos vetores da culpabilidade e dos motivos do crime. Contudo, manteve a pena-base inalterada (fls. 475-485).
+Inconformada, a defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 59 do Código Penal e à tese firmada no Tema Repetitivo n. 1.214, STJ (fls. 490-498).
+No presente agravo, a defesa impugna a aplicação da Súmula n. 7, STJ, ao argumento de que a controvérsia é estritamente jurídica, pois busca a correta aplicação da lei federal e de tese repetitiva a fatos já incontroversos e delineados no acórdão recorrido, especialmente no que tange à compreensão de que, ao afastar duas circunstâncias judiciais negativas, o Tribunal de origem deveria, obrigatoriamente, ter reduzido a pena-base de forma proporcional (fls. 527-534).
+Em contrarrazões, o Ministério Público do Estado de Goiás pugna pelo desprovimento do recurso (fls. 539-540).
+O Ministério Público Federal opinou pelo provimento do agravo para que o recurso especial seja conhecido e provido, a fim de redimensionar a pena do recorrente (fls.559-563).
+É o relatório. DECIDO.
+O agravo preenche os requisitos de admissibilidade e impugna adequadamente os fundamentos da decisão que inadmitiu o recurso especial.
+A questão em debate não envolve o reexame de fatos ou provas, mas sim a revaloração dos critérios jurídicos utilizados na dosimetria da pena, em face de tese repetitiva firmada por esta Corte. Assim, afasto o óbice da Súmula n. 7, STJ, conheço do agravo e passo à análise do mérito do recurso especial.
+Assiste razão à defesa, considerando que o acórdão proferido pelo Tribunal local divergiu do entendimento consolidado no Tema Repetitivo n. 1.214, STJ (REsp n.º 2.058.971/MG). A tese fixada, de observância obrigatória, assim dispõe:
+"É obrigatória a redução proporcional da pena-base quando o Tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença."
+No caso dos autos, o Tribunal a quo, ao julgar recurso exclusivo da defesa, expressamente neutralizou duas das quatro circunstâncias judiciais que fundamentaram a exasperação da pena-base (culpabilidade e motivos).
+Veja-se (fls. 482-483):
+"Quanto à pena, a defesa requer a redução da pena-base ao mínimo legal, a exclusão da agravante da reincidência e alteração do regime inicial para o aberto.
+Depreende-se da sentença apelada (mov. 70) que a douta Magistrada a quo valorou negativamente os vetores da culpabilidade, antecedentes, motivos, circunstâncias e consequências do crime, para fixar a pena-base em 04 (quatro) anos e 09 (nove) meses de reclusão.
+(..)
+Quanto aos antecedentes, correta a negativação operada pela douta Magistrada.
+(..)
+Escorreita também a negativação das circunstâncias do crime, pois o apelante se utilizou de uma faca para ameaçar a vítima.
+Por outro lado, os vetores da culpabilidade e motivos devem ser neutralizados, pois a fundamentação utilizada pela douta Magistrada se confunde com aspectos inerentes ao próprio tipo penal violado.
+Embora neutralizadas a culpabilidade e motivos, inviável a fixação da pena-base no mínimo legal ante a manutenção da negativação dos antecedentes e das circunstâncias do crime, razão por que a mantenho em 4 (quatro) anos e 9 (nove) meses de reclusão.
+Esclareço que a elevação de 9 (nove) meses para os dois vetores que remanesceram negativos (antecedentes e circunstâncias) se mostra mais favorável do que o recomendado pela jurisprudência do STJ, ou seja, a fração de 1/6 sobre a pena mínima in abstrato e a fração de 1/8 entre os extremos previstos in abstrato para cada circunstância desfavorável."
+Da leitura, verifico que não houve mera correção de classificação ou reforço de fundamentação, mas sim de efetivo decote de vetores considerados negativos na sentença. Apesar disso, a Corte estadual manteve a pena-base no mesmo patamar fixado na primeira instância, ou seja, 4 (quatro) anos e 9 (nove) meses, o que configura violação direta à tese vinculante.
+A justificativa de que a manutenção da pena "se mostra mais favorável do que o recomendado pela jurisprudência do STJ" (fl. 483) não é idônea para afastar a obrigatoriedade da redução proporcional. Uma vez afastadas as circunstâncias, a consequência lógica e impositiva é o redimensionamento da pena, sob pena de incorrer em agravamento indireto da situação do réu (reformatio in pejus indireta).
+Dessa forma, passo ao reexame da pena.
+A sentença fixou a pena-base em 4 (quatro) anos e 9 (nove) meses, ou seja, 9 (nove) meses acima do mínimo legal, com base em quatro circunstâncias judiciais desfavoráveis. Tendo o Tribunal a quo afastado duas dessas circunstâncias, restando apenas os antecedentes e as circunstâncias do crime como negativas, a pena-base deve ser reduzida pela metade do acréscimo original.
+Assim, o aumento de 9 (nove) meses deve ser reduzido para 4 (quatro) meses e 15 (quinze) dias, razão pela qual fixo a nova pena-base em 4 (quatro) anos, 4 (quatro) meses e 15 (quinze) dias de reclusão, a qual torno definitiva diante da ausência de critérios a serem analisados na segunda e na terceira fases da dosimetria.
+As demais cominações do acórdão, como o regime semiaberto, devem ser mantidas. Consigno, ainda, que não foi fixada, na sentença, a pena de multa, e que o Tribunal deixou de aplicá-la com fundamento no princípio do non reformatio in pejus, considerando tratar-se de recurso exclusivo da defesa.
+Ante o exposto, nos termos do art. 255, § 4º, inciso III, do RISTJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, para redimensionar a pena do recorrente para 4 (quatro) anos, 4 (quatro) meses e 15 (quinze) dias de reclusão, mantidas as demais disposições do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
