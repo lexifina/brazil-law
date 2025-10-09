@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão que concedeu ordem de habeas corpus para trancar a ação penal originária quanto à remanescente imputação de corrupção passiva a SERGIO DE OLIVEIRA CABRAL SANTOS FILHO, sob o fundamento de que a denúncia não seria dotada de elementos de corroboração suficientes.
+Nesta instância, o órgão Ministerial apresentou parecer assim ementado (fls. 1.661-1.673):
+OPERAÇÃO CÂMBIO, DESLIGO. CRIME DE CORRUPÇÃO PASSIVA. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CF. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 395, III, E 648, I, DO CPP, E ART. 4º, § 16, DA LEI Nº 12.850/2013, ALÉM DE IMPROPRIEDADE DA VIA MANDAMENTAL PARA O EXAME DA PRETENSÃO DEFENSIVA. TRANCAMENTO DA AÇÃO PENAL. DENÚNCIA QUE ATENDE AOS REQUISITOS DO ART. 41 DO CPP E ESTÁ EMBASADA EM PROVAS DA MATERIALIDADE DOS CRIMES E INDÍCIOS DE AUTORIA. PRESENÇA DE JUSTA CAUSA. DELITOS PRATICADOS NO CONTEXTO DE ORGANIZAÇÃO CRIMINOSA TRANSNACIONAL ARTICULADA NO BRASIL. COMPLEXIDADE EVIDENTE. HABEAS CORPUS QUE NÃO É A VIA ADEQUADA PARA O TRANCAMENTO DA AÇÃO PENAL, A EXIGIR INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL, PARA DETERMINAR O PROSSEGUIMENTO DA AÇÃO PENAL Nº 0073766- 87.2018.4.02.5101 /RJ , MOVIDA EM FACE DO RECORRIDO.
+1. Diante dos fatos narrados, o enquadramento típico afigura-se plausível, trazendo a denúncia exposição satisfatória das condutas do acusado, bem como das circunstâncias em que o crime ocorreu, atendendo aos requisitos do art. 41 do CPP.
+2. Há presença de lastro probatório mínimo, passível de conferir verossimilhança à acusação.
+3. O trancamento da ação penal em sede de habeas corpus constitui medida excepcional, só admitida quando restar provada, inequivocamente, sem a necessidade de exame valorativo do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade, ou, ainda, a ausência de indícios de autoria ou de prova da materialidade do delito, o que não se demonstrou no presente caso.
+4. Parecer pelo conhecimento e provimento do recurso especial, nos termos da fundamentação.
+É o que basta relatar.
+O presente recurso especial foi distribuído para julgamento perante a Sexta Turma desta Corte Superior em competência recursal derivada de incidente apresentado quando a ação penal originária tramitava perante a 7ª Vara Federal da Seção Judiciária do Rio de Janeiro.
+Contudo, em atenção ao novo entendimento do Supremo Tribunal Federal quanto à competência por prerrogativa de foro, a ação penal originária foi remetida para processo e julgamento perante o Órgão Especial deste Superior Tribunal, encontrando-se autuada como APN n. 1.109/DF.
+Nesse contexto, ficam modificadas as competências recursais, cabendo apenas ao órgão colegiado competente deliberar sobre a eventual ratificação das decisões anteriormente proferidas.
+Não remanesce, portanto, objeto para os recursos ou incidentes apresentados em consequência da competência da 7ª Vara Federal da Seção Judiciária do Rio de Janeiro, cabendo apenas aos órgãos constitucionalmente definidos, nos termos o que decidiu o STF no HC n. 232.627/DF o exame da matéria.
+Ante o exposto, na forma do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
+Comunique-se a relatoria da APN n. 1.109/DF, que tramita neste Superior Tribunal.
+ EMENTA
