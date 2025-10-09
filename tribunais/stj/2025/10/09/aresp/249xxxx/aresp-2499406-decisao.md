@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por 119 RC COMERCIO DE ALIMENTOS LTDA. contra decisão que obstou a subida do recurso especial.
+Extrai-se dos autos que foi interposto recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que julgou demanda relativa à cobrança de aluguéis e encargos.
+O julgado não conheceu do agravo de instrumento do recorrente nos termos da seguinte ementa (fls. 147):
+AÇÃO DE COBRANÇA DE ALUGUÉIS E ENCARGOS DECORRENTES DE CONTRATO DE CESSÃO DE ÁREA - ALMEJANDO A PEÇA RECURSAL A OBTENÇÃO DE RESPOSTAS A DETERMINADOS QUESITOS SUPLEMENTARES, QUE PRETENDEM A ABERTURA DE NOVA DISCUSSÃO E REEXAME DE QUESTÕES ANÁLOGAS ÀS DECIDIDAS EM RECURSO ANTERIOR, DE HÁ MUITO PRECLUSAS, MOSTRA-SE IMPOSITIVO O ACOLHIMENTO DA QUESTÃO PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO - INOCORRÊNCIA DE LITIGÂNCIA DE MÁ-FÉ PASSÍVEL DE SER PENALIZADA, POIS QUE A AGRAVANTE SE UTILIZOU DE INSTRUMENTO PROCESSUAL HÁBIL PARA A DEFESA DE SUA PRETENSÃO ANTES DE TOMAR CONHECIMENTO DA DECISÃO PROFERIDA NO JULGAMENTO DO AI Nº 0081250- 55.2020.8.19.0000 - RECURSO QUE NÃO SE CONHECE.
+Rejeitados os embargos de declaração opostos (fls. 177-178).
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão estadual contrariou as disposições contidas nos artigos 932, III, do CPC; 336, 373, II e 469 do CPC; 22, I, da Lei nº 8.245/91.
+Apresentadas as contrarrazões (fls. 235-249), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 251-256), o que ensejou a interposição de agravo (fls. 274-296).
+Apresentada contraminuta do agravo (fls. 308-322).
+Foi apresentada petição incidental comunicando a prolação de sentença (fls. 348-349).
+É, no essencial, o relatório.
+Compulsando os autos verifica-se que houve a ocorrência de perda superveniente do objeto recursal.
+Com efeito, cuida-se, na origem, de agravo de instrumento interposto contra decisão interlocutória questionando o laudo pericial.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi proferida sentença (Autos n. 0167962-16.2018.8.19.0001) julgando "procedente os pedidos autorais, extinguindo o feito com resolução do mérito, com fundamento no art. 487, I, do CPC para homologar o laudo pericial a fls. 1308/1369 e seus anexos a fls. 1370/1382 e condenar a ré ao pagamento à autora da quantia de R$ 11.048.341,26 (onze milhões, quarenta e oito mil e trezentos e quarenta e um reais e vinte e seis centavos), equivalentes a 2.981.766,9996 UFIRs, a contar da data da elaboração do laudo, em 07/12/2021, até a data do efetivo pagamento, com os devidos acréscimos legais. JULGO IMPROCEDENTE o pedido reconvencional, extinguindo o feito com resolução do mérito, com fundamento no art. 487, I, do CPC, pelas razões suso mencionadas. Condeno a ré/reconvinte ao pagamento das despesas processuais da ação principal e da reconvenção, bem como em honorários advocatícios, os quais fixo em 10% do valor da condenação da ação principal e da reconvenção, nos termos do art. 85, § 2º, do CPC".
+Ressalta-se que os embargos de declaração opostos contra a referida sentença foram julgados e rejeitados em 21.2. 2025.
+Nos termos da jurisprudência desta Corte Superior, quando verificada a prolação da sentença na ação principal, tendo em conta sua cognição exauriente, considera-se prejudicado, por perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento interposto contra decisão interlocutória.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO INTERLOCUTÓRIA QUE DETERMINOU A EMENDA À INICIAL. SUPERVENIÊNCIA DE SENTENÇA DE EXTINÇÃO SEM JULGAMENTO DO MÉRITO. PERDA DE OBJETO. AGRAVO INTERNO
+PREJUDICADO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+2. A decisão interlocutória na origem determinou a emenda à inicial, para que fosse apresentada nova memória de cálculo com a exclusão dos valores incluídos a título de honorários advocatícios na quantia total para a purga da mora.
+Posteriormente, foi proferida sentença que julgou extinta a ação, sem resolução do mérito.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a superveniência de sentença na ação principal acarreta a perda de objeto do agravo de instrumento interposto contra decisão interlocutória.
+III. RAZÕES DE DECIDIR
+4.
+A superveniência de sentença na ação principal absorve os efeitos das decisões interlocutórias anteriores, resultando na perda de objeto do agravo de instrumento.
+5. A jurisprudência desta Corte Superior é pacífica no sentido de que a sentença exaure a cognição das questões decididas, tornando prejudicados os recursos interpostos contra decisões interlocutórias.
+IV. DISPOSITIVO
+6.
+Agravo interno prejudicado.
+(AgInt no REsp n. 1.996.982/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 8/9/2025, DJEN de 12/9/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. DECISÃO MANTIDA. 1. De acordo com a jurisprudência pacífica desta Corte Superior, "a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto" (REsp n. 1.971.910/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/2/2022 , DJe 23/2/2022 ). 2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.307.797/BA, relator Ministro Antonio Carlos F erreira, Quarta Turma, julgado em 14/8/2023 , DJe de 18/8/2023).
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO CONTRA DECISÃO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. DISCUSSÃO, NA DECISÃO AGRAVADA, ACERCA DA RELAÇÃO JURÍDICA TRAVADA ENTRE AS CORRÉS NA AÇÃO CIVIL PÚBLICA. QUESTÃO DECIDIDA NA SENTENÇA PROLATADA ANTES DO JULGAMENTO DAQUELE AGRAVO. PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO. 1. O propósito recursal consiste em definir se, no caso concreto, a prolação de sentença acarretou a perda de objeto do agravo de instrumento - desafiando decisão de antecipação dos efeitos da tutela- julgado posteriormente àquela. 2. É prevalente nesta Corte Superior o entendimento de que a superveniência da sentença absorve os efeitos das decisões interlocutórias anteriores, na medida da correspondência entre as questões decididas, o que, em regra, implicará o esvaziamento do provimento jurisdicional requerido nos recursos interpostos contra aqueles julgados que antecederam a sentença, a ensejar a sua prejudicialidade por perda de objeto. 3. Na espécie, a decisão impugnada mediante agravo de instrumento, na qual se havia suspendido a relação jurídica existente entre as liticonsortes passivas, no âmbito de ação civil pública, foi confirmada na sentença - na qual se homologou o reconhecimento do pedido para excluir a fundação correquerida do convênio celebrado com a Petrobras - antes do julgamento do agravo de instrumento, revelandose manifesta a perda de objeto desse recurso. 4. Recurso especial provido. (REsp n. 1.971.910/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/2/2022)
+Ante o exposto, julgo prejudicado o presente agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
