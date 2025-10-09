@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RAÍZEN MIME COMBUSTÍVEIS S. A. à decisão de fl. 1.408 que homologou o pedido de desistência do recurso, com fundamento nos arts. 34, IX, do RISTJ, e 998 do CPC, com ordem de publicação e intimação, e dispositivo final de homologação da desistência. Confira-se a decisão (fl. 1.408):
+Por meio da Petição n. 00887583/2025, protocolizada em 19/9/2025, RIO JORDÃO COMÉRCIO DE COMBUSTÍVEIS LTDA. informa a desistência do recurso.
+Ante o exposto, nos termos dos arts. 34, IX, do RISTJ e 998 do CPC, homolo go o pedido de desistência referente ao recurso de fls. 1.234-1.241.
+Prossiga com o julgamento do agravo em recurso especial de fls. 1.244- 1.284.
+Publique-se. Intimem-se.
+Em suas razões, a parte embargante sustenta, com base no art. 85, § 11, do CPC, a ocorrência de omissão quanto à majoração dos honorários de sucumbência fixados pela instância ordinária, pois seus procuradores atuaram nesta fase recursal com a apresentação de contrarrazões, requerendo a majoração diante da homologação do pedido de desistência do recurso pela parte adversa (fls. 1.415-1.416).
+Requer o acolhimento dos embargos de declaração para suprir a omissão e majorar os honorários de sucumbência fixados em favor de seus procuradores (fls. 1.415-1.416).
+A parte embargada apresentou impugnação (fls. 1.418-1.419), na qual:
+a) argumenta a inexistência de honorários recursais quando há homologação de desistência antes do julgamento do recurso, porquanto, conforme a jurisprudência do Superior Tribunal de Justiça, a majoração prevista no art. 85, § 11, do CPC só é cabível na hipótese de não conhecimento integral ou de desprovimento do recurso, transcrevendo: "A jurisprudência do Superior Tribunal de Justiça entende que a majoração da verba honorária, nos termos do art. 85, § 11, do CPC/2015, só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso" (AgInt nos EDcl no AREsp n. 2.058.715/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/8/2022), e "Homologado o pedido de desistência não há falar em majoração dos honorários recursais" (AgInt nos EDcl na DESIS no AREsp n. 2.811.325/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025) (fl. 1.418);
+b) pontua, ainda, prejudicialidade do AREsp remanescente pelo princípio da unicidade recursal; inovação do recurso especial quanto aos arts. 85 e 86 do CPC e princípio da causalidade; ausência de prequestionamento (Súmula n. 211 do STJ); incidência da Súm. n. 7 do STJ; e ausência de impugnação específica (Súmula. n. 182 do STJ), apontando, inclusive, reprodução literal de trechos sem enfrentamento dos fundamentos da decisão agravada (fls. 1.418-1.419).
+Requer o reconhecimento de que não há omissão a ser sanada e o afastamento da majoração de honorários recursais, bem como a consideração das prejudicialidades e óbices processuais indicados (fls. 1.418-1.419).
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte não aponta omissão ou outro vício passível de ser sanado pelo STJ em embargos de declaração. Apenas demonstra sua insatisfação com o resultado do julgamento, alegando que no acórdão embargado haveria omissão quanto à majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC, porque seus patronos atuaram em contrarrazões e houve homologação de desistência do recurso (fls. 1.415-1.416).
+Eis o que consta da decisão embargada (fl. 1.408):
+Por meio da Petição n. 00887583/2025, protocolizada em 19/9/2025, RIO JORDÃO COMÉRCIO DE COMBUSTÍVEIS LTDA. informa a desistência do recurso.
+Ante o exposto, nos termos dos arts. 34, IX, do RISTJ e 998 do CPC, homologo o pedido de desistência referente ao recurso de fls. 1.234-1.241.
+Prossiga com o julgamento do agravo em recurso especial de fls. 1.244-1.284.
+Publique-se. Intimem-se.
+Como visto, a decisão limitou-se a homologar a desistência do recurso, com base nos arts. 34, IX, do RISTJ, e 998 do CPC, sem apreciar mérito recursal, circunstância que, segundo a jurisprudência do Superior Tribunal de Justiça transcrita nos autos, afasta a majoração de honorários recursais do art. 85, § 11, do CPC ("só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso" e "homologado o pedido de desistência não há falar em majoração dos honorários recursais") (fl. 1.418). Assim, não há omissão a ser sanada.
+Ressalte-se que a mera irresignação da parte embargante com o entendimento adotado no julgamento não viabiliza a oposição dos aclaratórios.
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
