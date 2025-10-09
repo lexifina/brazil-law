@@ -2,4 +2,3 @@ Art. 3º-A. Os custos decorrentes da contratação de reserva de capacidade de q
 § 1º A regulamentação deverá prever a forma, os prazos e as condições da contratação de energia de que trata o caput deste artigo, bem como as diretrizes para a realização dos leilões a serem promovidos pela Agência Nacional de Energia Elétrica, direta ou indiretamente.
 § 2º Na hipótese de a energia de reserva ser proveniente de fonte nuclear, sua contratação será realizada diretamente com a Eletronuclear, constituída na forma da autorização contida no Decreto nº 76.803, de 16 de dezembro de 1975.
 § 3º O encargo de que trata o caput deste artigo será cobrado com base na proporção do consumo de energia elétrica.
-§ 4º O poder concedente definirá, em regulamento, critério de rateio dos custos que considere, além da proporção do consumo de que trata § 3º, a contribuição do perfil de carga dos usuários de que trata o caput para a necessidade de contratação da reserva de capacidade.
