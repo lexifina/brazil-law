@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por GEOVANE MATIAS, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, que deu parcial provimento ao apelo defensivo para reconhecer a incidência do art. 33, § 4º, da Lei 11.343/2006.
+Nas razões recursais (e-STJ fls. 634-641), alega a parte recorrente violação dos arts. 33, § 4º, e 42, ambos da Lei 11.343/2006, ao argumento de que a fração mínima de 1/6 foi aplicada com fundamento exclusivo na quantidade de droga (aproximadamente 50 kg de maconha), sem adequada ponderação da natureza menos nociva do entorpecente apreendido e das circunstâncias favoráveis de personalidade e conduta social do agente.
+Pleitea a aplicação, no mínimo, da fração de 1/4 e, por consequência, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Apresentadas contrarrazões e admitido na origem, o Ministério Público Federal se manifestou, nesta instância, pelo não conhecimento do recurso especial.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Busca a defesa a revisão do quantum de redução da causa especial de diminuição do tráfico privilegiado.
+Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019). Precedentes: AgRg no HC n. 518.533/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019; AgRg no Resp n. 1.808.590/MG, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 20/8/2019, DJe 4/9/2019; AgRg no AREsp n. 1.281.254/TO, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 13/8/2019, DJe 27/8/2019; AgRg no HC n. 490.027/SC, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 13/8/2019, DJe 27/8/2019.
+O Tribunal de origem, ao prover parcialmente o recurso defesnvio, reduziu a pena em 1/6, ao reconhecer a incidência da minorante do art. 33, § 4º, da Lei 11.343/06, "Em razão da quantidade de drogas que estava sendo transportada, quase 50 kg, e de sua natureza extremamente prejudicial à saúde pública" (e-STJ fl. 605).
+De fato, a incidência da causa de diminuição da pena descrita no § 4º do art. 33 da Lei de Drogas deve ser mantida no patamar fixado, tendo em vista a quantidade de droga apreendida (50 kg de maconha), aliada às circunstâncias de apreensão da droga, o que se mostra razoável e proporcional.
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
