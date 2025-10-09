@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSTER INDÚSTRIA DE MÁQUINAS E EQUIPAMENTOS LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 65):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE VEÍCULO. AUSÊNCIA DE COMPROVAÇÃO. 1. A impenhorabilidade prevista no artigo 833, V, do CPC se estende às microempresas e empresas de pequeno porte, desde que comprovada a imprescindibilidade do bem. 2. A simples alegação de que o veículo penhorado é indispensável para o exercício da atividade-fim da empresa é insuficiente para caracterizar sua impenhorabilidade, sendo necessária a apresentação de provas contundentes de que a sua falta impedirá o exercício da atividade laborativa.
+Houve oposição de embargos declaratórios, os quais foram rejeitados, em ementa assim sumariada (fl. 92):
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO IMPLÍCITO. 1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes. 2. Não se enquadrando em qualquer das hipóteses de cabimento legalmente previstas, devem ser rejeitados os declaratórios. 3. Consideram-se incluídos no acórdão os elementos que a parte embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015).
+Em seu recurso especial de fls. 100-105, a recorrente sustenta violação ao artigo 833, inciso V, do Código de Processo Civil, ao argumento de que:
+No caso da Recorrente, empresa fabricante de equipamentos para irrigação agrícola e prestadora de serviços industriais, os veículos penhorados não são meros bens patrimoniais, senão elementos estruturais da cadeia produtiva, cuja indisponibilidade acarreta ruptura operacional e prejuízos irreparáveis, afinal de contas é notório que os veículos desempenham funções críticas.
+Além disso, a recorrente aponta afronta ao artigo 489, II, do Código de Processo Civil, ao raciocínio de que "a omissão a respeito da profunda e necessária análise do art. 833, V, do CPC configura violação ao dever de fundamentação (art. 489, II, CPC), o que, per se, justifica o provimento do Recurso Especial".
+O Tribunal de origem, às fls. 116-117, não admitiu o recurso especial sob os seguintes fundamentos:
+(..)
+Em que pese a alegação de afronta aos art. 489 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, aos apontados dispositivos infraconstitucionais. O recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+(..)
+Ante o exposto, não admito o recurso especial. Intimem-se.
+Em seu agravo, às fls. 125-130, a agravante aduz que inexiste violação ao enunciado n. 7 da Súmula do STJ, tendo em vista que "a premissa de que veículos utilizados para transporte em áreas rurais são juridicamente essenciais a atividades agroindustriais decorre da natureza do objeto social da Recorrente, não demandando revisão probatória".
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não contestou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na incidência do enunciado n. 7 da Súmula do STJ, em razão da necessidade de reexame de provas.
+Todavia, no seu agravo, a parte não refutou suficientemente o referido fundamento, o qual, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
