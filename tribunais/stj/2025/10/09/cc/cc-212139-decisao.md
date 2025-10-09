@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da Vara do Trabalho de Goiatuba/GO em face do Juízo de Direito da 2ª Vara de Goiatuba/GO, em autos de mandado de segurança no qual são apontadas por servidora pública municipal irregularidades nos registros e atos pré-eleitorais do Sindicato dos Servidores Públicos Municipais de Goiatuba.
+A ação foi inicialmente ajuizada na Justiça Comum Estadual, que remeteu o feito à Justiça do Trabalho, tendo sido suscitado o presente conflito negativo de competência (fls. 78-82).
+Manifestou-se o Ministério Público Federal pela competência da Justiça Comum Estadual (fls. 87-95).
+É o relatório.
+De acordo com o disposto no art. 114, III, da Constituição Federal, acrescentado pela Emenda Constitucional n. 45/2004, compete à Justiça do Trabalho processar e julgar feitos relativos à representação sindical, em que se discute não o vínculo jurídico-estatutário entre servidores públicos e o Poder Público, tampouco os direitos dele decorrentes, não se aplicando o entendimento firmado pelo Supremo Tribunal Federal na ADI n. 3.395/DF.
+Nesse sentido, confiram-se, dentre muitos, os seguintes precedentes da Primeira Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. CONTROVÉRSIA: REPRESENTAÇÃO SINDICIAL. DEMANDA ENTRE ENTIDADES SINDICAIS E SEUS REPRESENTADOS. ART. 114, III, DA CF/1988. JUSTIÇA DO TRABALHO. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia se refere em determinar qual é o juízo competente para processar e julgar controvérsia instaurada entre particular e sindicato de servidores públicos acerca de regularidades nas eleições sindicais.
+2. Com base no art. 114, III, da CF/1988, tem-se que o objeto dos autos não se refere ao vínculo jurídico administrativo entre Poder Público e seus servidores, mas sim a uma controvérsia entre entidades de representação sindical de servidores municipais. Tendo em vista a disposição constitucional, deve-se reconhecer a competência da Justiça Especializada. Nesse sentido: AgInt no CC n. 194.168/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 20/6/2023, DJe de 23/6/2023; CC n. 171.039/MS, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 10/6/2020, DJe de 16/6/2020; AgInt no CC n. 168.852/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 17/3/2020, DJe de 20/3/2020.
+3. Agravo interno não provido.
+(AgInt no CC n. 198.754/CE, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 28/2/2024, DJe de 4/3/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO POPULAR. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NULIDADE DE ATO ADMINISTRATIVO.
+I - Nesta Corte, trata-se de conflito de competência instaurado entre o Tribunal Regional do Trabalho da 17ª Região e o Juízo Federal da 5ª Vara Cível de Vitória - SJ/ES, nos autos de ação popular que versa sobre lide de representatividade sindical dos servidores das agências reguladoras federais. Declarou-se a competência do Tribunal Regional do Trabalho da 17ª Região.
+II - O Superior Tribunal de Justiça tem entendimento assentado de que compete materialmente à Justiça do Trabalho processar e julgar demandas em que se discutem questões relativas a processo eleitoral e representação concernentes a sindicatos, compreendendo, em sentido amplo, os desdobramentos que decorram do referido liame sindical.
+A propósito, confiram-se os seguintes precedentes: CC n. 171.039/MS, relatora Ministra Assusete Magalhães, Primeira Seção, DJe 16/6/2020; CC n. 144.883/SP, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 17/5/2018; CC n. 154.098/MG, relator Ministro Herman Benjami, Primeira Seção, DJe 19/12/2017.
+III - Conforme pontuado pelo Juízo suscitado, a circunstância dos autos não encerra discussão sobre obtenção de registro sindical, mas envolve, sobretudo, conflito entre sindicatos, evidenciado pelas alegações de afronta aos princípios da unicidade e territorialidade de representação, caracterizando típica relação de ordem sindical, apta a afastar a atuação da Justiça comum e, consequentemente, atrair a competência da Justiça especializada.
+IV - Com efeito, razão assiste ao Juízo suscitado que identificou a competência do Juízo trabalhista, explicitada pela disputa entre sindicatos, por si só, suficiente para atrair a competência da Justiça especializada, ex vi do art. 114, III, da Constituição Federal.
+V - Agravo interno improvido (AgInt no CC n. 192.219/ES, relator Ministro Francisco Falcão, Primeira Seção, julgado em 15/8/2023, DJe de 17/8/2023).
+Na mesma linha, cito recentes decisões monocráticas desta Corte: CC n. 216.312, Ministro Gurgel de Faria, DJEN de 02/10/2025; e CC n. 211.068, Ministro Paulo Sérgio Domingues, DJEN de 03/09/2025.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, declaro competente o Juízo da Vara do Trabalho de Goiatuba/GO.
+Publique-se.
+Intimem-se.
+EMENTA
