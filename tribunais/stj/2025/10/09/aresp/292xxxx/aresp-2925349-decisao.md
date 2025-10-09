@@ -1,0 +1,52 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por MRV ENGENHARIA E PARTICIPACOES SA, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 5/2/2025.
+Concluso ao gabinete em: 30/7/2025.
+Ação: de rescisão contratual c/c reparação por danos materiais e compensação por danos morais, ajuizada por CAROLINA ALVES SOUZA SOTO DONCEL em desfavor da agravante e outro, em virtude de promessa de compra e venda de bem imóvel com alienação fiduciária em garantia firmada entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos para declarar a rescisão contratual e determinar a devolução de valores pela agravante.
+Acórdão: negou provimento às apelações interpostas pela agravante e pela agravada, nos termos da seguinte ementa:
+APELAÇÕES SIMULTÂNEAS. AÇÃO DE RESCISÃO DE CONTRATO C/C INDENIZATÓRIA. COMPRA E VENDA DE IMÓVEL COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. PRELIMINARES. SOBRESTAMENTO DO FEITO. ILEGITIMIDADE PASSIVA. REJEIÇÃO. MÉRITO. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. NÃO INCIDÊNCIA DO TEMA REPETITIVO 1.095 DO STJ. RESCISÃO POR DESINTERESSE DA PROMITENTE COMPRADORA. AUSÊNCIA DE CULPA DAS ACIONADAS. DEVOLUÇÃO PARCIAL DOS VALORES RECEBIDOS PELA CONSTRUTORA POR MEIO DO FINANCIAMENTO. SÚMULA 543 DO STJ. RECURSOS CONHECIDOS E NÃO PROVIDOS. SENTENÇA MANTIDA.
+I - Cuida-se de Ação de Rescisão de Contrato de Compra e Venda de Imóvel com Alienação Fiduciária em Garantia c/c Indenizatória, fundada na alegação de descumprimento do dever de informação por parte das rés e de cobrança indevida de valores;
+II - Descabe a suspensão do feito em razão da afetação do Tema 1.095/STJ, referente aos Recursos Especiais n.º 1891498/SP e n.º 1894504/SP, ante o julgamento do paradigma pela Corte Superior, em 26/10/2022;
+III - A legitimidade para a causa, segundo a Teoria da Asserção, adotada pelo ordenamento jurídico brasileiro para a verificação das condições da ação, é aferida in status assertionis, ou seja, à luz das afirmações ou assertivas deduzidas pela parte autora na exordial, e não conforme a prova dos autos ou análise do mérito;
+IV - In casu, a parte autora pretende a rescisão do contrato de compra e venda firmado com a MRV Engenharia e Participações S. A., o que confere pertinência subjetiva da referida empresa para ocupar o polo passivo da relação jurídica processual, sendo certo que a efetiva verificação da existência de vícios ou descumprimento do pacto somente é aferida no julgamento do mérito. Preliminar de ilegitimidade passiva rejeitada;
+V - Quanto à entrega das chaves, considerando o prazo de 32 (trinta e dois) meses previsto no contrato, e o acréscimo do prazo de tolerância de 180 (cento e oitenta) dias, tem-se que a data final para cumprimento da obrigação da ré foi o dia 05/01/2018. A unidade fora liberada para habitação em 22/05/2017, antes do prazo final. Conclui-se, portanto, que não houve atraso na entrega do empreendimento pela construtora;
+VI - Não merece guarida o pleito de condenação da construtora ao pagamento dos valores pagos pela demandante para a confecção do DECORE (Declaração Comprobatória de Percepção de Rendimentos), uma vez que tal documento era necessário para viabilizar a obtenção do financiamento imobiliário, obrigação assumida pela adquirente;
+VII - No contrato de financiamento celebrado com a instituição financeira não há previsão de cobrança do ITIV/ITBI, a ser repassado ao Município. Por conseguinte, inexiste a ilicitude apontada pela postulante;
+VIII - Não há irregularidade na cobrança de juros de obra até a data prevista para a entrega do imóvel ao comprador. Demais, a construtora juntou aos autos documento no qual a demandante atestou o recebimento da informação referente ao juros contratuais de fase de obra antes da assinatura do contrato de compra e venda;
+IX - Nesse panorama, não há como imputar às acionadas a culpa pela rescisão do contrato;
+X - Na hipótese sub judice, não se aplica a tese fixada no T ema Repetitivo 1.095 do STJ, porquanto não restou comprovado o inadimplemento da parte autora e sua constituição em mora, sendo permitida, pois, a resolução do contrato, tal como dirimido pelo Magistrado singular, mediante a restituição parcial do valor pago, nos termos da Súmula 543 da Corte Superior;
+XI - Recursos conhecidos e não providos. Sentença mantida.
+(e-STJ Fls. 1160-1163)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 17, IV, 22, 26, 26-A e 27 da Lei n. 9.514/97, 927, III, do CPC, bem como dissídio jurisprudencial. Sustenta, em síntese, a ofensa ao rito rescisório específico a ser adotado na relação contratual, notadamente quando há contrato de financiamento bancário gravado com cláusula de alienação fiduciária. Consigna, assim, a inaplicabilidade do CDC à espécie, bem como insurge-se contra o reconhecimento de sua culpa pela rescisão contratual. Aduz a aplicação do Tema 1095/STJ e aponta que a suposta ausência de constituição em mora não é suficiente para obstar a aplicação da legislação específica no caso concreto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado e do reexame de fatos e provas
+Não obstante as razões da agravante quanto à rescisão contratual, à inaplicabilidade do CDC e ao rito adotado na espécie, consta do acórdão recorrido:
+(..) A construtora ré, por seu turno, defende que o contrato não pode ser rescindido na forma pleiteada pela parte autora, pois deve ser observado o procedimento previsto na Lei n.º 9.514/1997, sem a incidência do CDC.
+Razão não lhe assiste.
+Sobre a matéria, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.894.198/SP, afetado ao rito dos recursos repetitivos (Tema 1.095), estabeleceu que a resolução, por falta de pagamento, do contrato de compra de imóvel com garantia de alienação fiduciária - devidamente registrado em cartório e desde que o devedor tenha sido constituído em mora -, deverá observar a forma prevista na Lei nº. 9.514/1997, por se tratar de legislação específica, a afastar, assim, a aplicação do Código de Defesa do Consumidor.
+Contudo, necessário destacar que a aplicação da tese repetitiva fixada pela Corte Superior pressupõe a presença cumulativa de requisitos próprios da lei especial (Lei nº. 9.514/1997): registro do contrato no cartório de imóveis, inadimplemento do devedor e sua constituição em mora. Por conseguinte, a tese não abarca a hipótese de resolução do pacto por desinteresse do adquirente.
+(..)
+O Relator também apontou que não havendo falta de pagamento - ou havendo, mas se o credor não tiver regularmente constituído o devedor em mora -, a solução do contrato não seguirá o rito especial da Lei nº. 9.514/1997, podendo ocorrer com base no Código Civil (artigo 472 e seguintes) ou no Código de Defesa do Consumidor (artigo 53), se aplicável, dependendo das características das partes por ocasião da contratação.
+In casu, apesar da alegação genérica da construtora nas razões recursais, não há provas do inadimplemento da demandante e sua constituição em mora. Não se aplica, pois, a tese fixada no tema repetitivo 1.095 do STJ, sendo permitida a resolução do contrato, tal como dirimido pelo Magistrado singular, mediante a restituição de parte do valor pago, nos termos da Súmula 543 da Corte Superior:
+(..)
+Anote-se, no ponto, que a existência de contrato de financiamento não é capaz, por si só, de obstar a rescisão do contrato de compra e venda.
+Conquanto os referidos contratos sejam independentes e autônomos, a rescisão da compra e venda produzirá, necessariamente, efeitos no contrato de financiamento, por serem coligados. A quebra do ajuste de compra e venda gera a extinção da garantia - alienação fiduciária. Desse modo, o contrato de financiamento também será extinto.
+(..) (e-STJ Fls. 1147-1152, grifos nossos)
+A agravante, assim, não impugnou os fundamentos utilizados pelo TJ/BA e grifados no excerto consignado, notadamente quanto ao Tema 1095/STJ e à ausência de comprovação dos requisitos cumulativos para a aplicação da legislação especial à espécie, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+Ademais, ainda que assim não fosse, alterar o decidido no acórdão impugnado, no que se refere ao procedimento adotado na rescisão contratual, notadamente considerando a inexistência de prova acerca do inadimplemento da agravada e de sua constituição em mora, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de rescisão contratual c/c reparação por danos materiais e compensação por danos morais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido para não conhecer do recurso especial.
