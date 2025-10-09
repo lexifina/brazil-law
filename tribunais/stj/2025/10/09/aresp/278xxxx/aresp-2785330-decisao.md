@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por SOLMAR DE LA TORRE,  contra  inadmissão,  na  origem,  de  recurso  especial  fundamentado  na  alínea  "a"  do  inciso  III  do  artigo  105  da  Constituição  Federal,  manejado  contra  acórdão  exarado  pelo  Tribunal  Regional Federal da 3ª Região  ,  assim  ementado  (fl. 541):
+AÇÃO RESCISÓRIA. PREVIDENCIÁRIO. VIOLAÇÃO MANIFESTA À NORMA JURÍDICA E ERRO DE FATO NÃO CONFIGURADOS. DECISÃO RESCINDENDA ADSTRITA AO PEDIDO. RECONHECIMENTO DE ATIVIDADE ESPECIAL. CONVERSÃO EM TEMPO COMUM. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ANÁLISE EM CONFORMIDADE AO REQUERIDO NA EXORDIAL ORIGINÁRIA.
+Opostos embargos de declaração, foram estes rejeitados, em aresto assim ementado (fl. 583):
+AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DO ARTIGO 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. NÃO CONFIGURAÇÃO. REDISCUSSÃO DO MÉRITO DO ACÓRDÃO EMBARGADO. REJEIÇÃO.
+No recurso especial, às fls. 594-609, a parte alega contrariedade aos artigos 8º; 322, §2º; 489, §1º, IV e VI; 927, III e 1.022, II, todos do Código de Processo Civil (CPC), aos artigos 57 e 122 da Lei 8.213/91 e ao artigo 176-E do Decreto 3.048/91.
+Sustenta o recorrente que "a sentença e o acórdão não verificaram que o autor fazia jus a concessão da aposentadoria especial, in casu, mais benéfica que a aposentadoria por tempo de contribuição concedida."
+Alega que "em nenhum momento houve expressa menção do requerente acerca do desinteresse na concessão de aposentadoria especial".
+Sustenta que "dado ao princípio do melhor benefício e ao princípio da fungibilidade, ainda que o segurado tenha apresentado administrativamente pedido específico de outro benefício, fará jus à retroação daquele que lhe seja mais vantajoso."
+Argumenta que "ao não aplicar o precedente (Tema 334 do STF), o acórdão recorrido violou o artigo 927, III, do CPC."
+Por fim, alega que "ao ser julgado os embargos declaratórios, não houve apreciação da questão relevante para a solução da lide, posto que o acórdão não se manifestou acerca do ponto apresentado que é relevante para o julgamento da causa."
+O  Tribunal  de  origem,  às  fls.  627-639,  não  admitiu  o  recurso  especial  sob  os  seguintes  argumentos:
+Trata-se de recurso especial interposto pelo autor, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido por Seção Julgadora deste Tribunal Regional Federal. Decido. O recurso não merece admissão. Não cabe, na via recursal eleita, a análise de suposta violação do aresto a dispositivo de envergadura constitucional, sob pena de usurpação de competência do STF.
+(..)
+Não basta a mera menção aos dispositivos legais ou a narrativa acerca da legislação federal, na presente espécie recursal, exigindo-se a particularização dos dispositivos legais que teriam sido ofendidos, aplicando-se o disposto na Súmula 284 do STF, por analogia.
+(..)
+Em nenhum momento o recorrente trouxe a tese levantada em sede de recurso especial em sua apelação/contrarrazões com a completude necessária ou houve a sua apreciação integral pela Turma Julgadora, bem como ausente a impugnação específica da decisão recorrida, remanescendo fundamento suficiente por si só para mantê-la, razão pela qual nítido a ausência dos pressupostos de admissibilidade, nos termos das Súmulas 283 e 284 do STF, aplicável ao caso por analogia.
+(..)
+Ao não impugnar todos os fundamentos, especificamente, da decisão recorrida, nos termos da Súmula nº 182 do STJ e Súmulas 283 e 284 do STF, aplicáveis ao caso por analogia, sendo de rigor a inadmissão da insurgência.
+(..)
+Na remota hipótese da afetação da matéria e respectiva decisão sob o rito dos recursos repetitivos, tem-se a excepcional irrelevância, quando não ultrapassados os requisitos de cognição e admissibilidade, precedentes e obrigatórios à análise dos requisitos de conformidade ao precedente qualificado
+(..)
+Por conseguinte, não restaram demonstradas as hipóteses exigidas constitucionalmente, para que o colendo Superior Tribunal de Justiça seja chamado a exercer as suas elevadas funções de preservação da inteireza positiva da legislação federal, tornando-se prejudicada a formulação de juízo positivo de admissibilidade. Em face do exposto, não admito o recurso especial .
+Em  seu  agravo,  às  fls.  642-654, a parte sustenta que "o recurso especial aponta de forma detalhada a fundamentação do acórdão e as razões para a reforma do acórdão em face dos dispositivos violados, bem como, explica de forma pormenorizada como houve a violação."
+É o relatório.
+A  insurgência  não  pode  ser  conhecida.
+Verifica-se  que  não  foi  impugnada  a  integralidade  da  fundamentação  da  decisão  agravada,  porquanto  o  agravante  não  infirmou  os  fundame ntos  utilizados  para  a  inadmissão  do  seu  recurso  especial.
+Em  verdade,  a  decisão  monocrática  que  negou  a  subida  do  apelo  raro,  ora  agravada,  assentou-se  em  quatro  fundamentos  distintos:  (i)  a impossibilidade de discussão de matéria constitucional em sede de recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal; (ii) a incidência do enunciado 284 da Súmula do STF, por analogia, ante a impossibilidade de compreensão integral da controvérsia, uma vez que deficiente a fundamentação recursal; (iii) a incidência do enunciado 283 da Súmula do STF, por analogia, em razão da falta de insurgência específica quanto a fundamento suficiente para manter incólume o acórdão recorrido; (iv) a incidência do enunciado 182 da Súmula do STJ, tendo em vista o princípio da dialeticidade e a não impugnação de todos os fundamentos.
+Todavia,  no  seu  agravo,  a  parte  deixou  de  infirmar  adequada  e  detalhadamente  os  argumentos  da  decisão  de  inadmissibilidade, os quais,  à  míngua  de  impugnação  específica  e  pormenorizada,  permanecem  hígidos ,  produzindo  todos  os  efeitos  no  mundo  jurídico.
+Assim,  ao  deixar  de  infirmar  a  fundamentação  do  juízo  de  admissibilidade  realizado  pelo  Tribunal  de  origem,  o  agravante  fere  o  princípio  da  dialeticidade  e  atrai  a  incidência  da  previsão  contida  nos  artigos  932,  inciso  III,  do  Código  de  Processo  Civil,  e  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  STJ,  no  sentido  de  que  não  se  conhece  de  agravo  em  recurso  especial  que  "não  tenha  impugnado  especificamente  todos  os  fundamentos  da  decisão  recorrida".  Nesse  sentido:
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+4.  A  falta  de  efetivo  combate  de  quaisquer  dos  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial  impede  o  conhecimento  do  respectivo  agravo,  consoante  preceituam  os  arts.  253,  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  e  932,  III,  do  Código  de  Processo  Civil  e  a  Súmula  182  do  STJ.
+5.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.419.582/SP,  rel.  Min.  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  14/3/2024)
+ Ante  o  exposto,  com  fundamento  no  artigo  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  agravo  em  recurso  especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-  se.
+EMENTA
+PROCESSUAL CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL  QUE  NÃO  COMBATEU  OS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  DESCUMPRIMENTO  DO  PRINCÍPIO  DA  DIALETICIDADE.  INCIDÊNCIA  DOS  ARTS.  932,  III,  DO  CPC,  E  253,  P.  Ú,  I,  DO  RISTJ.  AGRAVO  NÃO  CONHECIDO.
