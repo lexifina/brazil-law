@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de recurso especial interposto por VANIA SALETE BERTOLINI VARGAS e ALMIR VARGAS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão da 4ª Câmara Cível do Tribunal de Justiça do Paraná, assim ementado (fls. 890):
+APELAÇÃO CÍVEL - AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO - SENTENÇA DE IMPROCEDÊNCIA - PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE - AFASTAMENTO - IMPUGNAÇÃO À SENTENÇA, AINDA QUE SUCINTA - MÉRITO - EVENTUAL NULIDADE ABSOLUTA NA DOAÇÃO DO BEM IMÓVEL EM RELAÇÃO AO QUAL SE DEPOSITOU ALUGUERES NA PRESENTE AÇÃO - POSSÍVEL MÁCULA QUE PODE VIR A AFETAR A PRÓPRIA EXISTÊNCIA DO VÍNCULO OBRIGACIONAL - ANULAÇÃO DA SENTENÇA -- NECESSIDADE DE SUSPENSÃO DO FEITO ATÉ O DESLINDE DAS AÇÕES EM APENSO - RECURSO CONHECIDO E PROVIDO.
+Nas razões recursais, alega-se que houve violação conjunta dos arts. 1.022, I, do CPC; 335, IV e V, do CC e 313, V, "a" e "b; 18, do CPC.
+Explica que "sempre haverá prejudicialidade externa quando se trata de ação consignatória pois a própria possibilidade de consignar está atrelada à existência de pendência externa ao processo. Porém, isso não autoriza a suspensão dos depósitos, tendo-se violado o art. 313, V, "a" e "b, do CPC ao erroneamente aplicá-lo ao caso. Frise-se: a existência de prejudicialidade externa é precisamente o que fundamenta o deferimento dos pagamentos em consignação" e que "ao julgar os embargos, o Tribunal sequer mencionou estes importantes argumentos" (fl. 947).
+Defende que "não se enfrentou que haverá a manutenção da obrigação locatícia, tratando-se de verba já contabilizada na atividade e que a consignação - pedido feito pela própria recorrida - não lhe trará prejuízo pois ela poderá levantar os valores caso a demanda seja julgada em seu favor" (fl. 949).
+Argumenta que "Também houve violação ao art. 18, do CPC, pela sua aplicação equivocada ao caso. Jamais se defendeu que a verba depositada seria devida ao MUNICÍPIO, mas sim que o argumento de eventual invalidação da doação não pode servir para suspender os depósitos porque fere a própria natureza da ação consignatória. Não se trata, portanto, de defender direito alheio, mas sim de dizer que a disputa dos alugueres por mais de um pretenso credor demanda a sua efetiva consignação em juízo" (fl. 949).
+Salienta que "Não foi enfrentado o argumento de que antes mesmo de ter sido autorizada a suspensão dos pagamentos, a recorrida deixou de efetuá-los. Tal atitude, por si só, já bastaria para manter a sentença de improcedência dos pedidos consignatórios, sendo um argumento decisivo ao deslinde da causa e que não tratou de "mero inconformismo da parte" ou oposição de embargos apenas "para o fim específico de prequestionamento". Daí a violação ao art. 1.022, II, do CPC e a inaplicabilidade do julgado colacionado no acórdão " (fl. 951).
+Aduz que "Outro ponto omitido quando do julgamento da apelação foi a claríssima alteração do pedido e da causa de pedir pela recorrida após a citação e sem o consentimento dos réus/recorrentes, em franca violação ao art. 329, I e II, do CPC" (fl.952/953).
+Alega que "a existência de pedido de suspensão dos depósitos feito posteriormente à citação apenas reforça que houve alteração do pedido e da causa de pedir e a violação ao art. 329, I e II do CPC. Se a autora/recorrida tivesse ajuizado ação consignatória para suspender os depósitos, é certo que teria havido improcedência liminar do pedido. Por isso é que somente após ajuizar a ação - ao fundamento de dúvida quanto ao credor - é que se passou a requerer a suspensão dos depósitos por eventual nulidade do vínculo obrigacional locatício" (fl. 954).
+Requer, ao final, o provimento do recurso especial.
+O recurso especial foi admitido na origem (fls. 1003/1004).
+É o relatório.
+Decido.
+Inicialmente,  o  recorrente  alega  violação  ao  art.  1.022  do  CPC.  No  entanto,  a  Corte  local,  assim  se manifestou  (fl. 892/896):
+Conheço do recurso, eis que presentes os pressupostos de admissibilidade.
+Em relação à alegada ofensa ao princípio da dialeticidade, é necessário destacar que, embora de maneira sucinta, a apelação impugnou os fundamentos da sentença, de modo que afasto a preliminar aventada.
+Pois bem.
+Alega a parte apelante que a sentença deve ser anulada, aventando também a nulidade do contrato de doação, do contrato de locação e ainda, do termo de cooperação. Prossegue asseverando que o correto seria a suspensão do processo até o julgamento de outras demandas que influenciam no julgamento da presente ação, a fim de evitar decisões conflitantes.
+Com efeito, merece ser anulada a sentença, com a suspensão dos autos até que seja realizado o deslinde das ações em apenso. Sobre a questão da suspensão processual, assim enuncia o artigo 313 do Código de Processo Civil:
+ ..
+No caso, o próprio vínculo obrigacional relativo ao pagamento de aluguéis encontra-se emsub judice demandas conexas à presente, o qual somente poderá ser esclarecido e consolidado com o julgamento das ações pendentes.
+Nesse sentido, observa-se que o destino a ser dado aos depósitos judiciais somente poderá ser analisado após o deslinde das ações conexas, quando então será possível aquilatar quem é efetivamente o credor da verba. À propósito, entende-se pela suspensão processual quando constatada eventual prejudicialidade externa:
+ ..
+Da análise dos autos, o que se verifica é que em 23/05/04 houve o deferimento para o depósito judicial da quantia ajustada contratualmente, nos seguintes termos (mov. 10.1):
+ ..
+Ou seja, houve o deferimento para que a parte autora realizasse o depósito das parcelas ajustadas contratualmente em juízo, diante da existência de dúvida acerca do verdadeiro credor a quem deveria ser destinado o pagamento.
+Nesse sentido, observa-se que o valor do aluguel perfazia o montante de R$ 15.911,00 (quinze mil, novecentos e onze reais) a ser depositado mensalmente no dia 25, conforme afirmado em petição inicial (mov. 1.1), desde o mês de maio de 2014.
+Embora o pagamento em consignação não tenha sido realizado integralmente, constatou-se que foram efetuados os seguintes depósitos:
+ ..
+Destarte, houve a consignação do valor relativo à 4 (quatro) parcelas, desde maio de 2014 até a decisão de antecipação de tutela de março de 2015, proferida nos autos de Oposição nº. 0002420- 58.2014.8.16.0036 (mov. 68.1) a qual garantiu a posse direta à BM PRÉ-MOLDADOS LTDA. em 09.03.15, independente do pagamento ou depósito de alugueres, nos seguintes termos (mov. 88.1 - autos de consignação em pagamento):
+ ..
+Destarte, sobreveio decisão que garantiu a posse direta da área sob controvérsia mesmo sem o pagamento dos respectivos aluguéis.
+Embora permaneçam pendentes parcelas anteriores a março de 2015, é notório ressaltar que além de pender dúvida acerca de quem seria a parte credora, há discussão acerca de eventual nulidade que pode afetar inclusive, o próprio vínculo obrigacional do pagamento de alugueres.
+Por isso é cogente a suspensão da presente ação, considerando que os valores que foram efetivamente depositados deverão aguardar o deslinde das demais ações, nas quais se discute a propriedade do imóvel, o que determinará o objeto dos autos em discussão.
+Embora não se ignore que em autos de consignação de pagamento não é dado discutir o próprio vínculo obrigacional, o que se constata é que nesta situação em específico, há eventual nulidade no termo de doação do bem imóvel sobre o qual recaem os aluguéis, o que pode acarretar na prejudicialidade do pagamento que se busca consignar.
+Portanto, anulo a sentença de primeiro grau, determinando o retorno dos autos ao Juízo, com a suspensão do feito até o deslinde das ações apensas.
+Após a oposição de embargos de declaração, esclareceu ainda que (fls. 934/93):
+Ao decidir, o v. Acórdão abordou todos os pontos necessários ao deslinde da causa, de forma que não se verificam quaisquer omissões, tratando-se de mero inconformismo dos Embargantes.
+Da inexistência da alteração do pedido e da causa de pedir.
+Segundo os Embargantes: "Ocorre que, no curso da demanda e após a citação - em claríssima violação ao art. 329, I e II, do CPC8 -, a embargada simplesmente modificou a sua linha argumentativa, passando a advogar pela desnecessidade de adimplir com os encargos locatícios porque a doação seria nula e, consequentemente, o próprio contrato de locação também estaria irremediavelmente maculado".
+Contudo, não houve alteração da causa de pedir. Da análise dos autos, verifica-se que houve a indicação da necessidade de suspensão do processo diante das hipóteses do artigo 313, inciso V, alíneas "a" e "b" do Código de Processo Civil, verbis :
+ ..
+Destaca-se que há três processos judiciais discutindo a nulidade do contrato de locação firmado entre Embargante e Embargados Vânia e Almir. São eles: (i) autos de nº 0001505- 09.2014.8.16.0036; (ii) autos de nº 0002420-58.2014.8.16.0036 e (iii) autos de nº 0001477- 13.2014.8.16.0036.
+Eis daí a necessidade de suspensão do processo até o julgamento das outras demandas, na medida em que podem influenciar no julgamento da presente ação.
+Sobre a referida questão a decisão, ora embargada, considerou que (mov. 34.1):
+ ..
+Destarte, afasto o primeiro fundamento para negar seguimento aos embargos de declaração.
+Da impossibilidade de advogar por terceiros
+Os Embargantes sustentam que: "(..) mesmo que a Lei que autorizou a doação venha a ser invalidada, é bem provável que seja mantida a obrigação locatícia - devida aos embargantes ou ao MUNICÍPIO DE TIJUCAS DO SUL -, o que justifica a continuidade dos depósitos mensais. Ao que tudo indica, será essa a tese defendida pelo MUNICÍPIO DE TIJUCAS DO SUL eis que, em sua contestação, requereu que "os depósitos a título de pagamento de alugueres deverão ser revertidos em renda para o Município, que desde já se habilita no levantamento da quantia consignada".
+Consoante vedação expressa do artigo 18 do Código de Processo Civil , ninguém poderá pleitear, em nome próprio, direito alheio, salvo quando autorizado por lei.
+Assim, descabido deduzir o posicionamento da municipalidade sobre a questão, na medida em que, nos termos do artigo 18 Código de Processo Civil, é vedado a defesa de direito alheio em nome próprio.
+Da não aplicação do precedente (Tema 967 do STJ)
+Os Embargantes sustentam que o Tema 967 do STJ é de aplicação obrigatória.
+O Tema 967/STJ, dispõe que:
+"Em ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional".
+Contudo, conforme consignado, o contrato de locação poderá deixar de produzir efeitos, eis que procura- se declarar a sua nulidade em ação distribuída por dependência.
+Destaca-se os seguintes excertos do v. Acórdão:
+ ..
+Destarte, nego provimento aos Embargos de Declaração nesse ponto. Dos valores supostamente em aberto
+Por fim, em relação ao suposto inadimplemento, o acórdão é claro:
+ ..
+Logo, não há omissão, mas mero inconformismo da parte com a decisão firmada à unanimidade de votos.
+Em arremate, saliente-se que "Os embargos de declaracao constituem recurso de rigidos contornos processuais, consoante disciplinamento imerso no art. 535 do CPC, exigindo-se, para seu acolhimento, estejam presentes os pressupostos legais de cabimento. Inocorrentes as hipoteses de omissao, obscuridade, contradicao, ou ainda, erro material, nao ha como prosperar o inconformismo, cujo real " (STJ, E Decl no AgrReg no Agr. Reg no Resp n. 389.015/PR,intento e a obtencao de efeitos infringentes rel. Min. FRANCISCO FALCAO).
+Deve-se destacar que a modificação dos termos da decisão proferida por este colegiado desafia a propositura dos recursos adequados aos Tribunais Superiores e não o manejo dos embargos de declaração, que não se prestam para tal insurgência.
+Verifica-se  que  não  há  a  alegada  violação  aos  artigos  489,  §  1º,  incisos  IV  e  VI,  e  1.022,  inciso  II,  ambos  do  Código  de  Processo  Civil,  na  medida  em  que  o  Tribunal  de  origem  julgou  integralmente  a  lide  e  solucionou  a  controvérsia,  em  conformidade  com  o  que  lhe  foi  apresentado.  Não  se  trata  de  omissão,  contradição  ou  obscuridade,  tampouco  de  correção  de  erro  material,  mas,  sim,  de  inconformismo  direto  com  o  resultado  do  acórdão,  que  foi  contrário  aos  interesses  do  insurgente.
+Nesse  aspecto,  insta  salientar  que  o  simples  descontentamento  da  parte  com  o  resultado  do  julgamento  não  tem  o  condão  de  tornar  cabíveis  os  embargos  de  declaração,  visto  que  a  pretensão  de  rediscutir  matéria  devidamente  abordada  e  decidida  no  acórdão  embargado,  consubstanciada  na  mera  insatisfação  com  o  resultado  da  demanda,  é  incabível  na  via  dos  embargos  de  declaração.
+Além  do  mais,  o  fato  de  o  Tribunal  de  origem  haver  decidido  a  contenda  de  forma  contrária  à  defendida  pela  recorrente,  elegendo  fundamentos  diversos  daqueles  por  ela  propostos,  não  configura  omissão  ou  qualquer  outra  causa  passível  de  exame  mediante  a  oposição  de  embargos  de  declaração.
+Ainda,  a  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  decisum  não  autoriza  o  acolhimento  dos  embargos  declaratórios  e  nem  o  reconhecimento  de  violação  ao  disposto  no  art.  1.022  do  CPC,  razão  pela  qual  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelos  litigantes,  mas  apenas  sobre  aqueles  considerados  suficientes  para  fundamentar  sua  decisão,  como  ocorrera  in  casu.
+Posto isto, considerando que a Corte local, analisando as provas contidas nos autos, entendeu pela necessidade de suspensão da ação de consignação em pagamento por considerar que a referida demanda possui relação de prejudicialidade com a ação declaratória de nulidade da doação do imóvel, devendo-se prevenir o risco de decisões contraditórias, além de buscar a economia processual, rever esse entendimento demandaria o revolvimento do conjunto fático probatório, o que é vedado em sede de recurso especial, atraindo a incidência dos enunciado 7 da Súmula do STJ:
+"a pretensão de simples reexame de prova não enseja recurso especial"
+Neste sentido:
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. ALEGAÇÕES GENÉRICAS. CONTRATO ADMINISTRATIVO. REEXAME DE CLÁUSULAS CONTRATUAIS, DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. HONORÁRIOS ADVOCATÍCIOS CONTRA A FAZENDA PÚBLICA. FIXAÇÃO EQUITATIVA. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. É deficiente a fundamentação do recurso especial em que é alegada a ofensa ao art. 1.022 do Código de Processo Civil de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem, ao analisar a matéria, interpretou o contrato e seu aditamento, chegando à conclusão de que é devido pela parte agravante o valor cobrado, em razão do estabelecido no termo aditivo do contrato. A inversão do julgado, tal como requerido, demandaria necessariamente o revolvimento do mesmo conjunto fático-probatório, o que é inviável na instância especial ante o óbice da Súmula 5 do STJ, que preceitua "a simples interpretação de cláusula contratual não enseja recurso especial", e da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Os honorários advocatícios foram arbitrados em conformidade com a jurisprudência firmada nesta Corte, em especial quanto ao contido no Tema 1.076/STJ e com base nos critérios do art. 85, §§ 2º e 3º, I, do CPC, sendo, assim, impossível a sua redução.
+4 . Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.642.175/AP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Pelo exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do Superior Tribunal de Justiça, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento .
+Intimem-se.
+Publique-se.
+EMENTA
+ADMINISTRATIVO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. OFENSA AO ART. 1.022 DO CPC. INOCORRÊNCIA. TRIBUNAL QUE JULGOU INTEGRALMENTE A LIDE. RELAÇÃO DE PREJUDICIALIDADE QUANTO À DEMANDA DE AÇÃO DECLARATÓRIA DE NULIDADE DE DOAÇÃO DE BEM IMÓVEL. REEXAME DE FATOS. IMPOSSIBILIDADE. SÚM. 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
