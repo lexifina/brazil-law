@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS WADIE MILAD (condenado às penas de 6 anos e 8 meses de reclusão, em regime inicial fechado, e 666 dias-multa, pelo delito de tráfico de drogas, com apreensão de 21 kg de cocaína e 33 g de maconha - fls. 38/50), apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo Interno na Revisão Criminal n. 2162035-96.2025.8.26.0000).
+Na presente impetração, a defesa alega, em síntese: a) nulidade da busca pessoal e veicular por ausência de fundada suspeita (fls. 7/12); b) fragilidade probatória e atipicidade da conduta quanto ao art. 33, caput, da Lei n. 11.343/2006 (fls. 12/18); c) subsidiariamente, fixação da pena-base no mínimo legal (fls. 20/21); d) fixação de regime inicial menos gravoso, preferencialmente o semiaberto (fls. 21/23); e) substituição da pena privativa de liberdade por restritiva de direitos (fls. 22/24).
+Requer, liminarmente e no mérito, a concessão da ordem para declarar a nulidade da condenação e absolver o paciente ou, subsidiariamente, reformular a dosimetria da pena nos termos sustentados (fls. 24).
+É o relatório.
+Inicialmente, no que diz respeito à busca pessoal, em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei anterior impetração (Habeas Corpus n. 928.610/SP), em benefício do mesmo paciente, e com pretensão idêntica.
+Desse modo, no ponto, evidencia-se a mera reiteração de pedidos, procedimento inadmissível por este Superior Tribunal (AgRg no HC n. 933.288/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024).
+Com base em elementos concretos, consignou-se que o paciente é reincidente específico e atuava em comunhão de vontades na logística do transporte, escoltando o veículo que levava os 21 kg de cocaína, com ajuste prévio por contatos telefônicos e via aplicativo, sob a alcunha Tubarão (fls. 45 e 242/243).
+Assim, alterar a conclusão das instâncias ordinárias sobre o juízo condenatório exigiria reexame de fatos e provas, inviável na via do habeas corpus (ver, nesse sentido, o AgRg nos EDcl no HC n. 1.007.253/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/9/2025, DJEN de 29/9/2025).
+No que tange à exasperação da pena-base em 1/6, foi mantida em razão da quantidade de entorpecentes apreendidos (fl. 244), e o regime inicial fechado foi fundamentado nas circunstâncias judiciais desfavoráveis e na reincidência específica do paciente, nos termos do art. 33, § 3º, do Código Penal (fls. 244/245). Portanto, ausente ilegalidade.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. PRETENSÃO IDÊNTICA À FORMULADA NO HABEAS CORPUS N. 928.610/SP. MERA REITERAÇÃO DE PRÉVIO WRIT. INADMISSIBILIDADE. INSUFICIÊNCIA PROBATÓRIA. REEXAME FÁTICO-PROBATÓRIO. PENA-BASE. QUANTIDADE DE DROGAS APREENDIDAS. REGIME PRISIONAL FECHADO. POSSIBILIDADE. REINCIDÊNCIA E CIRCUNSTÂNCIA JUDICIAL NEGATIVA.
+Petição inicial indeferida liminarmente.
