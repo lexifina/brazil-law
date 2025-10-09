@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LEOPOLDO JURAK à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. TEMA 1290 DO STF. SOBRESTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. 1. CONSOANTE O TEMA 1290 DO STF, QUE VERSA SOBRE CRITÉRIO DE REAJUSTE DE CÉDULA DE CRÉDITO RURAL, FOI DETERMINADA, "COM BASE NO ART. 1.035, § DO CÓDIGO DE PROCESSO CIVIL, A SUSPENSÃO DO PROCESSAMENTO DE TODAS AS DEMANDAS PENDENTES QUE TRATEM DA QUESTÃO EM TRAMITAÇÃO NO TERRITÓRIO NACIONAL, INCLUSIVE AS LIQUIDAÇÕES E CUMPRIMENTOS PROVISÓRIOS DE SENTENÇA LASTREADOS NOS ACÓRDÃOS PROFERIDOS PELO SUPERIOR TRIBUNAL DE JUSTIÇA NESTES AUTOS". 2. ASSIM, A SUPERVENIÊNCIA DA DETERMINAÇÃO NO TEMA 1290 DO STF DE SOBRESTAMENTO DE DEMANDAS QUE DISCUTEM A MATÉRIA DOS AUTOS, INCLUSIVE AS LIQUIDAÇÕES E CUMPRIMENTOS PROVISÓRIOS DE SENTENÇA SE CONSTITUI COMO QUESTÃO PREJUDICIAL, SENDO DE RIGOR A SUA OBSERVÂNCIA. 3. DECISÃO AGRAVADA MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 502, 505, 507 e 1.037, II do CPC, no que concerne à indevida suspensão do processo em razão do Tema 1290 do STF, porquanto já havia decisão preclusa fixando os critérios de apuração do valor devido e reconhecendo direito adquirido do recorrente antes da determinação de sobrestamento, trazendo a seguinte argumentação:
+A violação dos referidos artigos advém da manutenção da suspensão do feito, mesmo que este tenha PRECLUSÃO concernente à apresentação do valor devido.
+O TEMA 1290 do STF discute os critérios de atualização das cédulas rurais do plano Collor; se haverá utilização de juros, qual a correção monetária, marco inicial dos consectários, etc.
+Porém, no caso dos autos, o juízo de primeiro grau, na decisão preclusa do Evento46, JÁ determinou os critérios para apuração do valor devido:
+ ..
+A suspensão pelo TEMA 1290 (publicada em 03/2024) só veio a existir após a consolidação da discussão e da constituição do direito do Autor, que tem direito adquirido no exato dia de 14/02/2024.
+Veja-se que nenhuma decisão, mesmo sobrevindo do STF tem a capacidade e a permissão de modificar os limites da coisa julgada, mas especialmente os efeitos do que advém de uma manifestação particular e de estrito interesse privado.
+ ..
+Neste ínterim, sem necessidade de qualquer reanálise fática ou probatória, constata-se o equívoco da r. decisão, pois a suspensão deste processo apenas acarretará em prejuízo ao recorrente, que terá seu processo suspenso, mesmo que já tenha DIREITO ADQUIRIDO ao valor declarado incontroverso pelo Banco do Brasil (fls. 29-35).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com efeito, trata-se de cumprimento/liquidação individual ( evento 1, INIC1) da sentença proferida nos autos da Ação Civil Pública nº 94.0008514-1, ajuizada pelo Ministério Público Federal, em que discutido o índice de correção monetária aplicável às cédulas de crédito rural cuja fonte de recursos provém dos depósitos das cadernetas de poupança, referente ao mês de março de 1990.
+Tal matéria foi alcançada pela determinação de sobrestamento em decisão do Ministro Alexandre de Moraes, no Recurso Extraordinário nº 1.445.162/DF - Tema 1290 do STF, cuja questão submetida a julgamento é a seguinte:
+ ..
+Acrescente-se, ainda, que não se sabe a real extensão ou repercussão do resultado do julgamento no STF, razão pela qual o sobrestamento é de rigor, inclusive porque não verificado o trânsito em julgado da liquidação de sentença.
+ ..
+Consigno, por fi m, que, de qualquer sorte, o pedido de homologação de cálculos é inoportuno para o presente momento processual, uma vez que o sobrestamento, como visto, é prejudicial e se impõe, podendo-se ter maior clareza do quadro fatico-jurídico somente após o resultado definitivo do Tema 1290 do STF (fls. 22-23).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
