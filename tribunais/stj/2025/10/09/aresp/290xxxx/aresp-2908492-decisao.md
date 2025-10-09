@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Maranhão, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 928-948):
+TRIBUTÁRIO. ICMS. SUJEITO PASSIVO. EMPRESA DE TRANSPORTE RODOVIÁRIO DE CARGA. CREDITAMENTO. APLICAÇÃO DO ART. 20 DA LC 87/96. JURISPRUDÊNCIA DO STJ. NEGADO PROVIMENTO.
+1. Sabe-se que o princípio da não-cumulatividade do Imposto sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços - ICMS, previsto no artigo 155, §2º, inciso I da Constituição Federal, objetiva assegurar ao adquirente o creditamento dos valores cobrados do vendedor nas operações anteriores.
+2. A situação em análise se subsume aos dispositivos da LC 87/96, que ampliou a possibilidade do creditamento de ICMS, admitindo a operação em situações que o insumo integre quaisquer das fases do processo produtivo e até mesmo quando consumido em seu curso, porém indispensável à obtenção do produto final, consoante reza o art. 20 do mencionado diploma.
+3. Honorários sucumbenciais majorados, nos termos do art. 85, §§3º e 11, CPC.
+4. Apelação conhecida e não provida. (fl. 929)
+Os embargos de declaração opostos pelo recorrente (fls. 949-960) foram rejeitados (fls. 991-1012), na forma da seguinte ementa:
+DIREITO PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. VÍCIOS. NÃO DEMONSTRADOS. REJEITADOS.
+1. Inexistindo no julgado qualquer dos vícios previstos no art. 1.022, I, II e III, do CPC, e tratando- se de mera discordância do embargante sobre o que foi decidido na decisão embargada, os embargos de declaração devem ser rejeitados.
+2. Os embargos de declaração são incabíveis para veicular, isoladamente, o propósito de prequestionamento ou a correção de possíveis erros de julgamento (art. 1.022 do Novo Código de Processo Civil).
+3. O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, atendo-se às questões essenciais à sua resolução.
+4. Embargos de declaração rejeitados. (fl. 992)
+No recurso especial, às fls. 1013-1030, a parte recorrente alega violação aos arts. 489, § 1º, IV, 1.022, II, do CPC e 6º, 7º, 8º e 20 da LC nº 87/1996.
+Sustenta que o Tribunal de origem, a despeito dos embargos de declaração opostos, não se pronunciou sobre "o fato de que a recorrida não comprova e não comprovou, por meio de documentação regular, os créditos buscados, sobretudo, no que tange aos combustíveis." (fl. 1020).
+No mérito, aduz, em síntese, que, conforme os arts. 6º, 7º, 8º e 20 da LC nº 87/1996, "a entrada de mercadorias sujeitas ao regime de substituição tributária não pode gerar direito de crédito na apuração do ICMS." (fl. 1029)
+Pugna pelo provimento do recurso especial e a condenação da parte agravada em honorários sucumbenciais.
+Contrarrazões, às fls. 1051-1059, pelo não conhecimento do recurso especial.
+O Tribunal de origem inadmitiu o recurso especial, às fls. 136-140, porquanto, in verbis:
+Quanto à suposta violação aos arts. 6º, 7º, 8º e 20 da Lei Complementar nº 87/1996, o recurso esbarra na Súmula n. 83/STJ, uma vez que o entendimento assentado no acórdão impugnado está em conformidade com a jurisprudência do STJ. Assim:
+ ..  no julgamento do EAREsp 1.775.781/SP, ocasião na qual concluiu-se que a LC n. 87/1996 ampliou a possibilidade de creditamento, pois fez referência apenas à vinculação dos insumos à atividade-fim do estabelecimento, conforme o seu art. 20, § 1º, mas não à necessidade de que eles integrem o produto final (Aglnt no Aglnt nos EDcl no AREsp n. 2.297.501/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024).
+No mais: "O Superior Tribunal de Justiça tem entendimento pacificado de que, a partir da vigência da Lei Complementar n. 87/1996, é legal o aproveitamento dos créditos de ICMS na compra de produtos intermediários utilizados nas atividades fins da sociedade empresária, ainda que consumidos ou desgastados gradativamente" (REsp 2.054.083/RJ, Rel Ministro Francisco Falcão, Segunda Turma, DJe de 20.4.2023).
+Não há afronta ao art. 1.022, II, 489, §1º, IV, do CPC, pois o acórdão dirimiu as questões que lhe foram submetidas, assentando que " O s argumentos do embargante não se sustentam, especialmente se observados os diversos DARE - Documento de Arrecadação de Receitas Estaduais e os seus respectivos comprovantes de pagamento, acostados ao ID 15828839, que comprovam a cobrança de ICMS antecipado (..) Aliás, foi justamente a cobrança de ICMS, ora reputada indevida, que ensejou a lavratura do auto de infração, acostado no ID 15828840 e seguintes e anulado por ocasião do julgamento desta ação".
+A propósito: "1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (Aglnt nos EDcl no AREsp 2402282, rel. Ministro RAUL ARAÚJO, 4 a Turma, j. em 13/05/2024). E mais: " ..  é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (Aglnt no AREsp 2464831, rel. Ministro MARCO BUZZI, 4ª Turma, j. em 20/05/2024).
+No agravo em recurso especial (fls. 1078-1091), o agravante reitera os argumentos apresentados no recurso especial.
+Contraminuta, às fls. 1110-1116, pela manutenção da decisão agravada por seus próprios fundamentos.
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a fundamentação da decisão agravada, porquanto a parte agravante não infirmou, efetivamente, os argumentos utilizados para a inadmissão do recurso especial.
+Em verdade, a Vice-Presidência da Corte estadual não admitiu o apelo nobre em razão da incidência do enunciado 83 da Súmula do STJ e por não estarem configurados os vícios descritos no art. 1.022 do CPC, estando o acórdão recorrido devidamente fundamentado.
+Ocorre que, no agravo recurso especial, a parte deixou de infirmar, adequada e detalhadamente, o pilar argumentativo da decisão de admissibilidade, tendo se limitado a reeditar, ipsis litteris, as mesmas razões alinhavadas em seu recurso especial, sem, contudo, demostrar qualquer desacerto da decisão que não o admitiu. Logo, os fundamentos do julgado agravado, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de combater a fundamentação do juízo de admissibilidade, fere-se o princípio da dialeticidade, atraindo a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024.).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú., DO RISTJ. AGRAVO NÃO CONHECIDO.
