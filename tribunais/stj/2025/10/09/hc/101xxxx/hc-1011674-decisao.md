@@ -1,0 +1,20 @@
+DECISÃO
+JOSÉ ALISSON SOARES DE OLIVEIRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1516695-47.2023.8.26.0228.
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas.
+A defesa aduz, em síntese, ilicitude das provas derivadas da atuação da Guarda Municipal. Requer a absolvição do acusado.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 92-104).
+Decido.
+I. Atuação das guardas municipais
+A respeito da atuação das guardas municipais, a Terceira Seção desta Corte Superior havia firmado o entendimento de que, "salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto" (HC n. 830.530/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 4/10/2023).
+Todavia, o Supremo Tribunal Federal, no julgamento do RE n. 608.588/SP (Rel. Min. Luiz Fux, j. 20/2/2025), com repercussão geral reconhecida (Tema n. 656 da repercussão geral), firmou a tese de que " é  constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional".
+Por conseguinte, em atenção ao dever de uniformização, estabilidade, integridade e coerência da jurisprudência pelos Tribunais (CPC, art. 926, c/c CPP, art. 3º), e com ressalva da minha posição pessoal sobre o tema, deve ser aplicada ao caso a nova tese firmada pelo Supremo Tribunal Federal no julgamento supracitado.
+II. O caso dos autos
+O Tribunal de origem validou a atuação da guarda municipal com base nos seguintes fundamentos (fls. 34-37):
+Não há que se falar em nulidade processual ou em provas ilícitas decorrentes de busca pessoal injustificada por parte dos agentes de segurança. O crime imputado ao réu é considerado de caráter permanente, ou seja, sua consumação se arrasta no tempo, ensejando o estado de flagrância a qualquer momento, o que torna desnecessário o mandado judicial para a realização da apreensão do entorpecente. Ademais, a busca pessoal foi realizada em razão da atitude do acusado de ter procurado esconder seu gesto de guardar um objeto preto em sua pochete. De outra parte, a droga foi localizada em posse do réu, tornando válidas e legais as buscas efetuadas.
+ ..
+Quanto à nulidade por ter sido a prisão realizada por Guardas Civis Municipais, o artigo 301 do Código de Processo Penal prevê que qualquer do povo poderá, e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito. Portanto, inexiste óbice à realização de tal procedimento pelos Guardas Civis, os quais compõem a segurança pública e, com mais razão, devem zelar pela preservação da ordem.
+Diante dos fatos reconhecidos pelas instâncias ordinárias, verifico que a guarda municipal atuou no desempenho de policiamento ostensivo e comunitário, sem a assunção de atividade de polícia judiciária, nos termos da decisão proferida pelo Plenário do STF no Tema de Repercussão Geral n. 656, acima mencionado, razão pela qual deve ser rejeitada a tese de desvio de função na atuação da guarda municipal na espécie.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
