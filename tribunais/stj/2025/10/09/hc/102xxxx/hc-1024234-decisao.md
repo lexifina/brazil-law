@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar,  impetrado  em  favor  de  NILSON RODRIGUES DA SILVA,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC  n.  0058714-11.2024.8.19.0000).
+Consta nos autos que o paciente aceitou acordo de não persecução penal em audiência designada para na data de 23 de junho de 2024, nos autos do Processo n. 0868319-42.2024.8.19.0001, pela suposta prática do crime disposto no art. 155, caput, do Código Penal, que restou homologado e cumprido.
+A impetrante alega que o paciente ingressou na loja da Leroy Merlin, abriu um kit de broca da marca BOSCH e retirou apenas uma broca do seu interior, sendo que o valor da broca é notoriamente irrisório, estimado em R$ 12,00 (doze) reais.
+Assevera que há flagrante constrangimento ilegal impingido ao paciente, sendo necessária a impetração do presente writ, e que a ausência de descrição específica da broca subtraída inviabilizou a realização de prova pré-constituída acerca do valor irrisório pela defesa, devendo incidir o princípio do in dubio pro reo.
+Afirma que o paciente é primário e portador de bons antecedentes, sem histórico da prática de crimes patrimoniais em seus antecedentes criminais, além de ser tratar de furto simples, crime sem violência ou grave ameaça, de bem prontamente restituído à vítima.
+Requer, liminarmente e no mérito, a concessão da ordem para declarar a nulidade do ANPP e o consequente trancamento da ação penal, com expedição de RPV do valor objeto do acordo em favor do paciente.
+Decisão indeferindo o pedido liminar (fls. 251-252).
+As informações foram prestadas (fls. 259-264 e 267-283).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (fls. 289-293).
+É o relatório.
+DECIDO.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Na espécie, embora a parte impetrante não tenha adotado a via processual adequada, cumpre analisar as razões da impetração, de forma a verificar a ocorrência de eventual ilegalidade manifesta a justificar a concessão do habeas corpus, de ofício.
+No caso em análise, o ato atacado faz referência expressa à ausência de comprovação, a partir de prova pré-constituída, do alegado valor irrisório, além de mencionar, acertadamente, que, para incidência do princípio da insignificância, não basta apenas o valor irrisório do bem subtraído, dependendo também da demonstração inequívoca da mínima ofensividade da conduta praticada pelo agente, da ausência de periculosidade social da ação, do reduzidíssimo grau de reprovabilidade do comportamento e da inexpressividade da lesão jurídica provocada. Observe-se (fls. 25-31, grifamos):
+In casu, verifica-se que a Defensoria Pública assistiu o paciente na audiência realizada no dia 23/07/2024, quando houve o aceite às propostas do ANPP, inclusive atuando pela redução do valor inicialmente proposto, não havendo impugnação sobre a tipicidade da conduta ou, ainda, provocação à autoridade impetrada sobre a incidência do princípio da bagatela.
+O Acórdão embargado ressaltou, inclusive, a ausência de consenso acerca da possibilidade de controle da justa causa em sede de habeas corpus após a celebração e homologação do ANPP, pela inadequação da via eleita e ausência de boa-fé objetiva.
+Trata-se, de fato, de matéria recente neste Colegiado, de modo que passei a entender pela possibilidade excepcionalíssima de controle em sede de habeas corpus sobre a decisão homologatória, desde que a impetração esteja inequivocamente acompanhada de prova pré-constituída nesse sentido, não sendo cabível dilação probatória, o que não aconteceu no presente caso, razão pela qual a ordem foi denegada.
+Vale destacar que a incidência do princípio da insignificância não se limita ao valor do bem subtraído, nos termos da jurisprudência pátria, dependendo da demonstração inequívoca da mínima ofensividade da conduta praticada pelo agente, da ausência de periculosidade social da ação, do reduzidíssimo grau de reprovabilidade do comportamento e da inexpressividade da lesão jurídica provocada.
+E no caso, em que pese as ponderações da combativa Defesa, a questão não versa sobre a indispensabilidade do laudo de avaliação para a incidência do princípio da insignificância, mas sim sobre a necessidade de prova pré-constituída no presente writ do alegado valor irrisório.
+Ou seja, no presente caso, para além da ausência de laudo de avaliação do bem subtraído, a impetração não vem instruída com documento submetido ao contraditório no juízo originário, que contenha a indicação do valor da res furtivae, como por exemplo a sua consignação no registro de ocorrência, cópia de nota fiscal do mesmo produto ou, ainda, a menção ainda que aproximada do valor no acordo impugnado, o que não era, a nosso viso, dispensável.
+Logo, o acórdão guerreado deixou cristalina a razão jurídica que ensejou a denegação da ordem, não se verificando qualquer omissão a ser sanada pela presente via processual, não sendo cabível, ademais, o pedido de conversão em diligência, não apenas por consubstanciar em aditamento à inicial, mas, ainda, porque a presente via, como dito, demanda prova pré-constituída, não sendo adequada para o pretendido, mormente em se tratando de autos já arquivados em definitivo, após a celebração e cumprimento integral do Acordo.
+Dentro desse cenário, verifico que o Tribunal local seguiu o entendimento desta Corte de Justiça, considerando que o habeas corpus exige prova pré-constituída das alegações, não sendo cabível a dilação probatória, providência incompatível com a natureza dessa ação constitucional.
+A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. IMPROPRIEDADE DA DILAÇÃO PROBATÓRIA. NÃO CONHECIMENTO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado sem a devida instrução processual, pois o impetrante não juntou cópia do acórdão impugnado, peça indispensável para verificar a verossimilhança das alegações apresentadas.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se é possível o conhecimento do habeas corpus diante da ausência de prova pré- constituída, considerando a inaplicabilidade de dilação probatória nesta via processual.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus exige prova pré-constituída das alegações, não sendo cabível a dilação probatória, que é incompatível com a natureza dessa ação constitucional.
+4. Cabe ao impetrante o ônus de instruir o mandamus com elementos documentais suficientes, de forma a comprovar as alegações suscitadas, o que não foi observado no caso em análise.
+5. A jurisprudência pacífica do STJ estabelece que a falta de documentação essencial, como o acórdão impugnado, impede o conhecimento do habeas corpus, conforme precedentes citados: AgRg no HC n. 611.378/SP, AgRg no HC n. 439.162/SP, HC n. 366.968/SP e RHC n. 71.093/PB.
+IV. DISPOSITIVO E TESE
+6. Habeas corpus não conhecido.
+Tese de julgamento: 1. O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações, sendo ônus do impetrante instruir o writ com documentos suficientes para a análise do pedido.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPP, art. 647.
+Jurisprudência relevante citada: AgRg no HC n. 611.378/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/9/2020. (HC n. 932700/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024, grifamos).
+Ante o exposto, não conheço do habeas corpus, registrando, ademais, a inviabilidade da concessão da ordem de ofício, já que não há, in casu, nenhuma ilegalidade manifesta a ser corrigida.
+Publique-se. Intimem-se.
+EMENTA
