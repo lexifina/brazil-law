@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NEWTON CARLOS ARAUJO KAMUCHENA contra a decisão que inadmitiu o recurso especial por não ter sido demonstrada a violação dos arts. 1.334, § 2º, e 1.336, I, do Código Civil e por incidir na espécie a Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravante não impugnou especificamente os fundamentos da decisão agravada, que o agravo apenas repisa as razões do especial, além de sustentar a incidência das Súmulas n. 83 e 182 do STJ e 283 do STF.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação cível nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 306):
+DESPESAS DE CONDOMÍNIO AÇÃO DE COBRANÇA JULGADA PROCEDENTE DÉBITOS DE TAXA CONDOMINIAL ALEGAÇÃO DE ILEGITIMIDADE PASSIVA INOCORRÊNCIA OBRIGAÇÃO PROPTER REM RESPONSABILIDADE DO PROPRIETÁRIO OU DO POSSUIDOR DO IMÓVEL LEGITIMIDADE DO APELANTE RECONHECIDA SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS VERBA HONORÁRIA MAJORADA NA FORMA DO ARTIGO 85, PARÁGRAFO 11, DO CÓDIGO DE PROCESSO CIVIL RECURSO IMPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 356):
+EMBARGOS DE DECLARAÇÃO OMISSÃO INOCORRÊNCIA Embargante que aponta existência de omissão no julgado Acórdão que analisou, fundamentadamente, as matérias postas à apreciação em sede recursal, negando provimento ao recurso, mantendo a condenação ao pagamento das cotas condominiais discriminadas na petição inicial, bem como daquelas que se vencerem no curso da demanda (inclusive durante a fase de execução) Embargante que busca, na verdade, a reforma do julgado, emprestando efeitos infringentes a estes embargos Embargos rejeitados.
+No recurso especial, a parte aponta a violação dos seguintes artigos:
+a) 1.334, § 2º, do Código Civil, porque as despesas condominiais devem ser suportadas pelo proprietário ou pelos equiparados previstos no dispositivo, destacando que não é titular registral da unidade;
+b) 1.336, I, do Código Civil, pois o dever de contribuir recai sobre o condômino na proporção da fração ideal, sendo indevida a imputação a quem não é condômino;
+c) 1.245 do Código Civil, visto que a propriedade somente se transfere com o registro do título, de modo que deve ser afastada sua responsabilidade, já que não figura como proprietário na matrícula;
+d) 1.368-B, parágrafo único, do Código Civil, porquanto o credor fiduciário responde pelas despesas condominiais a partir da imissão na posse direta do bem;
+e) 4º, parágrafo único, da Lei n. 4.591/1964, visto que a alienação ou transferência de direitos depende de prova de quitação das obrigações condominiais, reforçando que o atual titular deve responder pelos débitos.
+Sustenta que o Tribunal de origem, ao decidir que a obrigação propter rem autoriza a cobrança contra quem esteja na posse ou contra o proprietário do imóvel, divergiu do entendimento firmado em outros casos semelhantes.
+Requer o provimento do recurso para que se reforme o acórdão recorrido e se reconheça sua ilegitimidade, extinguindo-se o processo nos termos dos arts. 485, VI, e 337, XI, do CPC, com inversão do ônus de sucumbência.
+Nas contrarrazões, a parte recorrida se manifesta no sentido mencionado.
+É o relatório. Decido.
+A questão jurídica atinente à revisão da tese firmada no Tema n. 886 do STJ foi afetada pela Segunda Seção, daí ser recomendável a suspensão deste processo até a conclusão do julgamento do REsp n. 2.100.395/SP sob o rito dos recursos repetitivos.
+Veja-se:
+RECURSO ESPECIAL. PROPOSTA DE REVISÃO DE TESE FIRMADA EM JULGAMENTO DE RECURSO REPETITIVO. TEMA Nº 886/STJ. DÍVIDAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. LEGITIMIDADE PASSIVA CONCORRENTE DO PROMITENTE VENDEDOR E PROMITENTE COMPRADOR. IMISSÃO NA POSSE PELO COMPRADOR. CIÊNCIA INEQUÍVOCA DO CONDOMÍNIO. TEORIA DA DUALIDADE DO VÍNCULO OBRIGACIONAL. NECESSIDADE DE REEXAME DO TEMA À LUZ NATUREZA PROPTER REM DA OBRIGAÇÃO.
+1. De acordo com a interpretação literal do Tema Repetitivo nº 886/STJ, o promitente vendedor, cujo nome ainda consta do registro imobiliário como proprietário, não responde por obrigações condominiais após a imissão na posse do promissário comprador e desde que o condomínio tenha ciência inequívoca da transação.
+2. No entanto, decisões recentes deste Tribunal têm interpretado a tese adotada no julgamento do recurso representativo da controvérsia levando em conta a natureza propter rem de obrigações condominiais, de forma a reconhecer a legitimidade passiva concorrente entre promitente vendedor (proprietário) e promitente comprador. Precedentes.
+3. Proposta de revisão do Tema Repetitivo nº 886/STJ para definir se há legitimidade concorrente entre o promitente vendedor, titular do direito de propriedade, e o promitente comprador para figurar no polo passivo da ação de cobrança de débitos condominiais posteriores à imissão do comprador na posse, independentemente de haver ciência inequívoca da transação pelo condomínio. (ProAfR no REsp n. 2.100.395/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgada em 20/5/2025, DJEN de 26/5/2025.)
+No acórdão de afetação, determinou-se a suspensão do processamento dos recursos especiais e agravos em recurso especial, em trâmite na segunda instância e/ou no STJ que versem sobre idêntica questão jurídica.
+Assim, a medida mais adequada é o retorno dos autos ao Tribunal estadual para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que vier a ser decidido pela Seção de Direito Privado do STJ.
+Somente após tal providência é que a Corte estadual decidirá se ainda há razão para apreciar o apelo nobre nesta instância especial.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO.  ..  MATÉRIA SUBMETIDA A JULGAMENTO REPETITIVO. SOBRESTAMENTO.
+ .. .
+3. Nos casos em que o órgão colegiado procede a julgamento de matéria submetida à sistemática repetitivo, o recurso integrativo deve ser acolhido para, atribuindo-se lhe efeitos modificativos, seja anulado o acórdão embargado e determinado o sobrestamento do feito na instância de origem, onde a controvérsia deve aguardar o julgamento do paradigma, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+4. Hipótese em que é necessário o retorno dos autos ao Tribunal de origem para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que vier a ser decidido pelo Supremo Tribunal Federal, sendo certo que, após tal providência, a Corte local decidirá, então, se ainda há razão para apreciação do apelo nobre por este Tribunal, o que evitará a cisão no julgamento.
+5. Embargos de declaração acolhidos, com efeitos modificativos, para tornar sem efeito os julgamentos anteriores e determinar a devolução dos autos ao Tribunal de origem. (EDcl no AgInt no REsp n. 1.825.554/RS, relator Ministro Gurgel de Faria, Primeira, Turma, julgados em 8/2/21, DJe de 5/3/2021.)
+Ante o exposto, determino a devolução dos autos ao Tribunal estadual, com a devida baixa no STJ, par a que permaneçam suspensos até a publicação do acórdão representativo da controvérsia, nos termos do art. 256-L, I, do RISTJ, observando-se, logo após, o disposto nos arts. 1.040 e 1.041 do CPC.
+Publique-se. Intimem-se.
+ EMENTA
