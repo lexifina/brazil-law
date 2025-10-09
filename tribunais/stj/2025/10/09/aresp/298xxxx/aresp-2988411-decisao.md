@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de Agravo apresentado por COMPANHIA CACIQUE DE CAFE SOLUVEL e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. COMPRA E VENDA. INSURGÊNCIA EM VIRTUDE DE DECISÃO QUE SUSPENDEU LEILÃO EXTRAJUDICIAL. ALEGADA DISPONIBILIZAÇÃO DO BEM AOS INTERESSADOS POR PREÇO VIL (CONSIDERAÇÃO APENAS DO VALOR DO TERRENO E NÃO O DA CONSTRUÇÃO ERIGIDA, BEM COMO O FATOR TEMPO - IMÓVEL ADQUIRIDO NO ANO DE 2009). REFORMA DESCABIDA. PECULIARIDADES APURAÇÃO DAS ALEGAÇÕES LEVANTADAS PELA PARTE AGRAVADA QUE SE MOSTRA SALUTAR E QUE AUTORIZA, POR ORA, A SUSPENSÃO DA FORMA DETERMINADA. OFERTA EM SEGUNDO LEILÃO DO IMÓVEL RECLAMADO PELO VALOR DE POUCO MAIS DE R$ 70.000,00 (SENDO QUE O BEM, NOS DIAS ATUAIS, DÁ INDÍCIOS DE VALER MAIS DE R$ 1.000.000,00) QUE ENALTECE A CAUTELA TOMADA PELA ORIGEM.
+DECISÃO MANTIDA. ADOÇÃO DO ART. 252 DO RITJ. RECURSO DESPROVIDO (fl. 146).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação da Lei n. 9.514/1997, no que concerne à não caracterização do preço vil e à ausência de averbação de construção em matrícula, a ensejar a comprovada alteração no valor do bem.
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF, tendo em vista que há indicação genérica de violação de lei federal, sem particularizar quais dispositivos teriam sido contrariados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Mediante análise do recurso, verifica-se que incide o óbice da Súmula 284/STF, uma vez que há indicação genérica de violação de lei federal sem particularizar quais dispositivos teriam sido contrariados, ou quais dispositivos legais da lei citada genericamente seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o referido enunciado sumular" (AgInt no AREsp n. 2.179.266/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022.).
+Confiram-se ainda os seguintes julgados: ;AgInt no AREsp n. 2.593.712/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2024; AREsp n. 1.641.118/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 25.6.2020; AgInt no AREsp n. 744.582/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1.6.2020; AgInt no AREsp n. 1.305.693/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 31.3.2020; AgInt no REsp n. 1.475.626/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.12.2017; AgRg no AREsp n. 546.951/MT, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 22.9.2015; e REsp n. 1.304.871/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 01.7.2015.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
