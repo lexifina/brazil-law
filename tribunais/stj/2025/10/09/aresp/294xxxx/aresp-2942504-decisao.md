@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIELA CRISTINA ALVES DO NASCIMENTO contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado no art. 105, III, alínea a, da Constituição Federal, no qual se apontou contrariedade aos arts. 474-A, 478, inciso I, e 593, inciso III, alínea d, do Código de Processo Penal.
+Na origem, objetiva a defesa a anulação do julgamento pelo Tribunal do Júri sob as alegações de nulidade por excesso de acusação, cerceamento de defesa e decisão manifestamente contrária à prova dos autos.
+O Tribunal de origem não admitiu o recurso especial com base nas Súmulas 284 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça, na ausência de comprovação de dissídio jurisprudencial e na alegação de ofensa a dispositivos constitucionais.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 802/807).
+É o relatório.
+O agravo não comporta conhecimento.
+Verifica-se que a agravante, em suas razões recursais, não impugnou, de forma específica e adequada, todos os fundamentos da decisão agravada. Ela nada mencionou sobre o não cabimento de impugnação de dispositivos constitucionais em recurso especial, fundamento este utilizado pelo Tribunal de origem para inadmitir o recurso especial.
+Como bem observa a doutrina e jurisprudência consolidada desta Corte, a alegação de violação de princípios e dispositivos constitucionais não pode ser apreciada em sede de recurso especial, uma vez que o exame de matéria é de competência do Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna.
+De acordo com o princípio da dialeticidade recursal, são inadmissíveis os recursos com alegações genéricas, com alegações dissociadas do conteúdo da decisão recorrida, que façam a impugnação de apenas parte dos fundamentos do ato recorrido, ou que se limitem a reiterar ou reproduzir alegações anteriores. Em todas estas hipóteses, resta ausente a dialeticidade recursal, inviabilizando o conhecimento do recurso.
+Constata-se que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, atraindo a incidência da Súmula 182/STJ, que dispõe: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, é o entendimento consolidado desta Corte: AgRg no AREsp n. 1.515.092/MA, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 8/2/2021; AgRg nos EDcl no AREsp n. 2.455.374/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 2/10/2024; AgRg no AgRg no AREsp n. 2.243.176/RN, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 15/5/2024; e REsp n. 2.082.894/RJ, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
