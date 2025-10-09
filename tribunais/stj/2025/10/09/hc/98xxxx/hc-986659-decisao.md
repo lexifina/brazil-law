@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutiv o de recurso próprio, com pedido de liminar, impetrado em favor de VALDECIR TRAJANO DA SILVA, no qual se alega descumprimento, por parte do Juízo das Execuções, da determinação feita pelo Tribunal de Justiça do Estado da Paraíba para corrigir o atestado de pena do paciente, abatendo-se do período restante de sua reprimenda o tempo que cumpriu prisão preventiva.
+Aduz que o Juízo das Execuções também se equivocou ao regredir por salto o regime do apenado, quando ocorreu a unificação das penas do reeducando.
+Requer, ao final, que se reconheça a pena residual do paciente - "conforme acórdão descumprido", para 5 anos, e, com base no art. 111 da LEP, que se determine o cumprimento em regime semiaberto, "conforme Súmula n. 716 do Supremo" (e-STJ, fl. 6).
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Consta, ainda, a petição n. 342.267/2025, em que o impetrante reitera o pedido para que o Juízo de primeiro grau cumpra o que foi decidido pelo Tribunal de Justiça.
+É o relatório.
+Decido.
+Depreende-se destes autos que a alegação de descumprimento do acórdão estadual ainda não foi analisada pelo Tribunal de origem.
+Com efeito, o impetrante se reporta tão somente à decisão do Juízo de primeiro grau, que não procedeu à correção dos cálculos de pena do paciente, deixando de demonstrar que essa suposta ilegalidade tenha sido submetida ao Colegiado Estadual. De fato, o acórdão anexado às e-STJ, fls. 14-18, refere-se ao provimento inicial que, nesta ocasião, a defesa aponta como descumprido.
+Desse modo, a análise deste habeas corpus é obstada por afronta ao princípio do duplo grau de jurisdição e incabível supressão de instância.
+Nesse sentido, esta Corte Superior já decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC n. 376.650/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 14/2/2017, DJe de 22/2/2017).
+A respeito, confiram-se, ainda, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO DOMICILIAR E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS. REQUISITOS DO ART. 312 DO CPP PREENCHIDOS. POSIÇÃO DE LIDERANÇA. INTERRUPÇÃO DE ATIVIDADE DE ORGANIZAÇÃO CRIMINOSA. CONTEMPORANEIDADE DA MEDIDA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas atinentes à prisão domiciliar, por ser pai de criança menor de 12 anos de idade, e ao excesso de prazo não foram, especificamente, analisados pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do Superior Tribunal de Justiça. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+ ..
+8. Agravo regimental não provido." (AgRg no RHC n. 206.657/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO. REVOGAÇÃO DE LIVRAMENTO CONDICIONAL. AUSÊNCIA DE INTIMAÇÃO. IMPOSIÇÃO DE SIGILO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO. INEXISTÊNCIA DE NULIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem não analisou as teses relativas à ausência de intimação da decisão que decretou a prisão e à imposição de sigilo pela autoridade impetrada. Dessarte, não havendo o pleito sido alvo de efetivo debate na origem, fica impedido o Superior Tribunal de Justiça de examiná-lo, sob pena de indevida supressão de instância.
+ ..
+4. Agravo regimental desprovido." (AgRg no RHC n. 203.422/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PROGRESSÃO DE REGIME. DATA-BASE. PREENCHIMENTO DOS REQUISITOS OBJETIVO E SUBJETIVO. ACÓRDÃO IMPUGNADO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. ALEGAÇÃO DE QUE A DECISÃO QUE DETERMINOU A REALIZAÇO DE EXAME CRIMINOLÓGICO ESTARIA EMBASADA EM FALTA GRAVE POSTERIOMENTE ABSOLVIDA. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESPROVIMENTO DO AGRAVO.
+ ..
+2. A alegação de que o agravante foi posteriormente absolvido da prática de falta grave que embasou a determinação de realização de exame criminológico não foi enfrentada pelo Tribunal de origem, circunstância que impede a manifestação desta Corte sobre o tema, sob pena de supressão de instância.
+3. Agravo regimental desprovido." (AgRg no HC n. 753.687/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PROGRESSÃO AO REGIME SEMIABERTO. LEGALIDADE E VALIDADE DO EXAME CRIMINOLÓGICO. MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AINDA QUE NULIDADE ABSOLUTA. INVIÁVEL A ANÁLISE. PRECLUSÃO. ELEMENTOS CONCRETOS DA EXECUÇÃO CRIMINAL. REVER AUSÊNCIA DE REQUISITO SUBJETIVO. ANÁLISE DE CONJUNTO FÁTICO PROBATÓRIO. INVIÁVEL NA VIA ESTREITA DO HABEAS CORPUS. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA.
+I - De início, no tocante ao argumento de que a decisão monocrática viola o princípio da colegialidade, porquanto tal princípio está ligado à tradição do duplo grau de jurisdição, devendo a decisão ser apreciada pelo colegiado, não merece prosperar, na medida em que o entendimento que prevalece atualmente neste Sodalício é pela possibilidade do relator, quando se deparar com recurso que impugna acórdão alinhado à jurisprudência dominante deste Tribunal, poderá, na forma da Súmula 568/STJ e Regimento Interno deste Tribunal, decidir monocraticamente. Ademais, a interposição de agravo regimental, cujo julgamento será feito pelo colegiado da Turma, torna despicienda eventual alegação de nulidade. Precedentes.
+II - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+III - Inviável a análise de legalidade e validade dos fundamentos para determinação de realização do exame criminológico, por não ter sido analisada pelo eg. Tribunal de origem, ficando impedida esta Corte Superior de proceder a sua análise, sob pena de incorrer em indevida supressão de instância; esta Corte Superior de Justiça já se manifestou no sentido de que, mesmo eventual nulidade absoluta, não pode ser declarada em supressão de instância.
+ ..
+Agravo regimental desprovido." (AgRg no HC n. 774.394/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 11/10/2022, DJe de 19/10/2022.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
