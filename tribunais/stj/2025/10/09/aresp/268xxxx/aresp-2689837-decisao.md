@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por GENILSON COUTO DA SILVA, com fundamento no art. 1.042 do Código de Processo Civil, contra decisão que inadmitiu o recurso especial manejado em face do acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que "negou provimento à apelação criminal e, de ofício, reduziu a pena privativa de liberdade" (e-STJ fl. 564).
+O agravante foi condenado pela prática do crime de descaminho, previsto no art. 334, § 1º, III e IV, do Código Penal. A pena aplicada foi de 02 (dois) anos e 04 (quatro) meses de reclusão. (e-STJ fl. 417-428).
+A decisão de inadmissibilidade apontou como óbice a "incidência da Súmula nº 07 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial")" (e-STJ fl. 613).
+Inconformada, a parte agravante sustenta a insubsistência do óbice apontado, alegando, em síntese, que "o recurso especial não pretende ingressar na seara de reexame de prova, pois a análise dos pontos abordados não demanda o reexame do conjunto probatório", mas sim a revaloração jurídica dos fatos, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 623-630).
+Contraminuta apresentada pugnando pela inadmissibilidade do agravo e, no mérito, pelo desprovimento do recurso especial (e-STJ fls. 634-640).
+O Ministério Público Federal manifestou-se pelo "desprovimento do agravo" (e-STJ fl. 651-653).
+É o relatório. Decido.
+O agravo preenche os requisitos de admissibilidade e impugna o fundamento da decisão que inadmitiu o recurso especial. Assim, passo à análise do recurso especial.
+O recorrente aponta violação do artigo 386, VI, do Código de Processo Penal, sustentando a insuficiência de provas para a condenação e pleiteando a absolvição.
+A pretensão, contudo, não merece prosperar.
+O Tribunal de origem, soberano na análise do conjunto fático-probatório, concluiu pela comprovação da autoria delitiva, firmando seu convencimento nos seguintes termos (e-STJ fl. 561-562):
+"Primeiramente, é pacífico o entendimento neste Tribunal de que os documentos produzidos na esfera administrativa, por servidores públicos, no exercício de suas funções, que neles atestaram a sua fé pública, gozam de presunção de veracidade e legitimidade, próprios dos atos administrativos, e, devidamente judicializados, submetidos ao contraditório e respeitada a ampla defesa, são aptos a comprovar a autoria delitiva.
+ ..
+Na hipótese, a acusação produziu provas documentais que instruíram o inquérito, e orais produzidas em juízo, visto que dois Auditores-Fiscais da Receita Federal que participaram das diligências foram ouvidos (evento 117, VIDEO2; evento 117, VIDEO3).
+A defesa, contudo, não se desincumbiu do seu encargo de desconstitui-las, tampouco de apresentar outras que pudessem respaldar suas alegações, como a apresentação de prova a atestar a perda de seu documento de identidade e do uso indevido do seu nome."
+Nesse contexto, para se acolher a tese defensiva de que as provas seriam insuficientes para a condenação, aplicando-se o princípio in dubio pro reo, seria indispensável o reexame aprofundado dos elementos de prova coligidos aos autos, a fim de se alcançar conclusão diversa daquela a que chegaram as instâncias ordinárias. Tal procedimento, no entanto, é vedado no âmbito do recurso especial, em razão do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. REEXAME DE FATOS E DE PROVAS DOS AUTOS. IMPOSSIBILIDADE. AGRAVO CONHECIDO E DESPROVIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto com o objetivo de reformar decisão que manteve a condenação do recorrente pelo crime de descaminho, previsto no art. 334, §1º, III e IV, do Código Penal, em razão da revenda de mercadorias estrangeiras desacompanhadas de documentação regular. O recorrente sustenta a insuficiência de provas para condenação e a aplicação do princípio in dubio pro reo, alegando dúvida quanto à autoria do delito. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se as provas são insuficientes para a condenação pelo crime de descaminho, ensejando a aplicação do princípio in dubio pro reo; (ii) avaliar se a conduta de revenda de mercadorias estrangeiras desacompanhadas de documentação regular amolda-se ao tipo penal de descaminho. III. RAZÕES DE DECIDIR
+3. O crime de descaminho consiste em iludir o pagamento de tributos devidos na entrada ou saída de mercadoria no território nacional, sendo caracterizado pela clandestinidade ou dissimulação no cumprimento da obrigação tributária, visando proteger a economia e a indústria nacionais.
+4. O Tribunal a quo conclui que a revenda de mercadorias estrangeiras sem comprovação da regular internalização constitui descaminho, conforme descrito na denúncia, evidenciando a ocorrência do delito.
+5. A jurisprudência do Superior Tribunal de Justiça (STJ) veda a reanálise de provas em sede de recurso especial (Súmula 7 do STJ), impossibilitando o acolhimento de teses absolutórias baseadas na insuficiência probatória, salvo evidente desrespeito aos critérios jurídicos de avaliação da prova.
+6. A reiteração da conduta delitiva pelo recorrente obsta a aplicação do princípio da insignificância, conforme entendimento consolidado pelo STJ, especialmente quando a prática criminosa envolve tributos de valor expressivo e continuidade delitiva.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.689.837/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 17/12/2024.)
+Esta Corte tem decidido que a análise da suficiência das provas para a condenação é matéria que exige o revolvimento fático-probatório, o que não é cabível na via do recurso especial. A alegação de violação ao art. 386 do Código de Processo Penal, quando busca a reavaliação da certeza da autoria, encontra impedimento no referido enunciado sumular.
+Dessa forma, estando o acórdão recorrido devidamente fundamentado nas provas dos autos, que o levaram a concluir pela inequívoca autoria delitiva, a sua revisão é inviável na via eleita, incidindo, na espécie, o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
