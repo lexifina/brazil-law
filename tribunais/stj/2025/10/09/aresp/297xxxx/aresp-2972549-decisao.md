@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ZANIN COMERCIAL DISTRIBUIDORA DE MATERIAIS PARA CONSTRUÇÃO LTDA. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ, prejudicada a análise do dissídio jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em agravo de instrumento nos autos de execução de título extrajudicial.
+O julgado foi assim ementado (fl. 335):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMPRESA EXECUTADA EM RECUPERAÇÃO JUDICIAL. DUPLICATAS.
+CRÉDITO CONCURSAL OU EXTRA CONCURSAL. ART. 59 DA LEI 11.101/05. SÃO CONSIDERADOS CRÉDITOS CONCURSAIS AQUELES EXISTENTES NO MOMENTO EM QUE A EMPRESA FORMULA O PEDIDO PARA SE SUBMETER AO REGIME DE RECUPERAÇÃO JUDICIAL.
+CASO CONCRETO, EM QUE O PEDIDO DE RECUPERAÇÃO FOI FORMULADO EM 23/11/2022. CAUTELAR AJUIZADA ANTERIORMENTE QUE NÃO ANTECIPOU O PLEITO RECUPERACIONAL, POIS FOI POSTULADA APENAS A SUSPENSÃO DA EXIGIBILIDADE DOS CRÉDITOS EXISTENTES CONTRA A EMPRESA. ENTENDIMENTO DO JUÍZO UNIVERSAL.
+DUPLICATAS COM DATA DE EMISSÃO ANTERIOR A 23/11/2022 CONSIDERADAS CRÉDITO CONCURSAL. VALOR JÁ INCLUÍDOS NO PLANO DE RECUPERAÇÃO JUDICIAL. EXTINÇÃO PARCIAL DA EXECUÇÃO, NO QUE DIZ RESPEITO A ESSES TÍTULOS, EM VIRTUDE DA NOVAÇÃO DA DÍVIDA (ART. 59 DA LEI 11.101/05).
+DECISÃO MANTIDA.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 393-397).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 49 da Lei n. 11.101/2005, pois sustenta que os créditos constituídos após a concessão da tutela cautelar antecedente à recuperação judicial possuem natureza extraconcursal, visto que a tutela antecipou os efeitos do pedido de recuperação judicial, incluindo o stay period.
+Sustenta que o Tribunal de origem, ao decidir que os créditos constituídos após a concessão da tutela cautelar antecedente à recuperação judicial possuem natureza concursal, divergiu do entendimento do Tribunal de Justiça de Minas Gerais no Agravo de Instrumento n. 10000212307151000 e do Tribunal de Justiça do Rio Grande do Sul no Agravo de Instrumento n. 5031782-32.2020.8.21.7000.
+Requer o provimento do recurso para que se reconheça a natureza extraconcursal dos créditos constituídos após a concessão da tutela cautelar antecedente à recuperação judicial.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois a questão central demanda reexame de fatos e provas, o que atrai a incidência da Súmula n. 7 do STJ, e que o agravante não impugnou especificamente os fundamentos do acórdão recorrido, requerendo a inadmissibilidade do recurso e, caso admitido, o seu desprovimento (fls. 432-444).
+É o relatório. Decido.
+A controvérsia diz respeito a agravo de instrumento interposto contra decisão que acolheu parcialmente a exceção de pré-executividade em execução de título extrajudicial, reconhecendo como créditos concursais aqueles constituídos antes de 23/11/2022, data do pedido de recuperação judicial, e determinando o prosseguimento da execução apenas quanto ao crédito constituído após essa data.
+A Corte estadual manteve integralmente a decisão agravada.
+I - Da violação do art. 49 da Lei n. 11.101/2005
+Nas razões recursais, a parte recorrente aduz que os créditos constituídos após a concessão da tutela cautelar antecedente à recuperação judicial possuem natureza extraconcursal, visto que a tutela antecipou os efeitos do pedido de recuperação judicial, incluindo o stay period, razão pela qual houve ofensa/negativa de vigência ao art. 49 da Lei n. 11.101/2005.
+A esse respeito, a Corte de origem, soberana no contexto fático-probatório dos autos, concluiu que, conforme o próprio juízo do processo de recuperação judicial informou via ofício, o início do período da recuperação judicial da agravada - ora recorrida - é 23/11/2022, data em que foi formulado o pedido de recuperação judicial.
+O Tribunal a quo enfatizou que a tutela cautelar ajuizada anteriormente pela parte executada (em 20/10/2022) apenas abarcou pleito de suspensão da exigibilidade dos créditos existentes contra a empresa, sendo que o pedido principal (de recuperação judicial) foi formulado posteriormente, em 23/11/2022. Consignou que com a cautelar não houve a antecipação do pleito recuperacional, mas, sim, apenas a suspensão da exigibilidade dos créditos.
+O Colegiado local concluiu que são considerados créditos concursais aqueles existentes antes de 23/11/2022, razão pela qual as duplicatas n. 5.000 (emitida em 8/11/2022), 5.022 (emitida em 11/11/2022), 5.032 (emitida em 16/11/2022), 5.033 (emitida em 16/11/2022), 5.048 (emitida em 11/11/2022) e 5.049 (emitida em 21/11/2022) estão englobadas nessa categoria, tanto que já foram incluídas no Plano Recuperacional.
+A propósito, confira-se trecho do acórdão recorrido:
+Eminentes colegas.
+Da análise dos argumentos de ambas as partes, constato que a controvérsia estabelecida no presente recurso diz respeito à data que se considera o pedido de recuperação judicial da agravada, se o dia da distribuição da tutela cautelar ou do seu aditamento.
+Pois bem.
+Conforme dispõe o art. 49, da lei 11.101/05 estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos. Ou seja, são considerados créditos concursais aqueles existentes no momento em que a empresa formula o pedido para se submeter a esse regime.
+Sobre esse tema, Fábio Ulhoa Coelho1 comenta que:  ..
+No presente caso, conforme o próprio juízo do processo de recuperação judicial informou no item "1" do ofício do evento 30, DESP3, o início do período da recuperação judicial da agravada é 23/11/2022, que foi quando ocorreu o pedido.
+Aliado a isso, a tutela cautelar ajuizada anteriormente pela parte executada (em 20/10/2022) apenas abarcou pleito de suspensão da exigibilidade dos créditos existentes contra a empresa (evento 1, ANEXO11), sendo que o pedido principal (de recuperação judicial) foi formulado posteriormente, em 23/11/2022. Isto é, com a cautelar não houve a antecipação do pleito recuperacional, mas, sim, apenas a suspensão da exigibilidade dos créditos.
+Dessa forma, entendo que, de acordo com o dispositivo legal supracitado, são considerados créditos concursais aqueles existentes antes de 23/11/2022, razão pela qual as duplicatas nº 5.000 (emitida em 08/11/2022), 5.022 (emitida em 11/11/2022), 5.032 (emitida em 16/11/2022), 5.033 (emitida em 16/11/2022), 5.048 (emitida em 11/11/2022) e 5.049 (emitida em 211/11/2022) estão englobadas nessa categoria, tanto que já foram incluídas no Plano Recuperacional, vide edital do evento 21, OUT2.
+Diante desse contexto, à luz do disposto no art. 59 da lei 11.101/05 2, é caso de extinção parcial da execução, em relação a tais títulos, visto que a recuperação judicial é causa de novação da dívida.
+Nesse sentido:  ..
+Com essa mesma linha de raciocínio, foi o parecer do eminente Procurador de Justiça Dr. André Cipele (evento 18, PARECER1 ), o qual analisou o presente caso com o brilhantismo que sempre faz, razão pela qual transcrevo trechos da sua manifestação e os utilizo, também, como razões de decidir:  ..
+Assim, é caso de desprovimento do agravo.
+Diante disso, enfrentar a irresignação da parte recorrente e rever o entendimento do Tribunal a quo, claramente formado a partir dos fatos e provas relacionados ao caso sub judice, especialmente as circunstâncias fáticas do processo de recuperação judicial e do pedido de tutela cautelar formulado previamente, exigiria o revolvimento do acervo fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmula n. 7 do STJ).
+Nesse sentido: AgInt no AREsp n. 2.593.853/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no AREsp n. 2.405.234/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/11/2023, DJe de 16/11/2023; AgInt no REsp n. 1.986.339/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023.
+II - Do dissídio jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+Além disso, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
