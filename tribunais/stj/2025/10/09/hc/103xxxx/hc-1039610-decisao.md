@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de ISMAEL BOTELHO MARCOLINO - condenado como incurso no crime de tráfico de drogas - contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Revisão Criminal n. 5063799-15.2025.8.24.0000), não comporta processamento.
+Com efeito, busca a impetração a revisão da pena, na condenação proferida pelo Juízo de Direito da Vara Única da comarca de Capivari de Baixo/SC, postulando a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias - indevidamente utilizada como uma espécie de "segunda revisão criminal" -, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, em especial, pois destacado pela Corte estadual que a matéria apresentada na revisão foi objeto de recurso de apelação anterior, ou em revisional anterior, não pode ela ser alegada em nova Revisão Criminal, pois o presente procedimento não se transversa de um segundo recurso (fl. 42).
+Tal o contexto, não foi demonstrado constrangimento ilegal relacionado à revisão da dosimetria, pois os fundamentos em que se sustentam o acórdão a quo se encontram em harmonia com a jurisprudência atual do Superior Tribunal de Justiça, tendo em vista que a dosimetria da pena não se vincula a um critério puramente matemático, devendo ser respeitada a discricionariedade regrada do julgador. E, no caso, mostrando-se irreparável a dosimetria redimensionada pelo Tribunal a quo.
+Por fim, entender de outra forma demandaria o reexame de provas e a verificação das circunstâncias fáticas detalhadas nos autos, o que é vedado em sede de habeas corpus, conforme entendimento consolidado tanto pelo STJ quanto pelo STF. O habeas corpus não é o meio adequado para reanálise exauriente de elementos probatórios (HC n. 831.850/SP, Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. DOSIMETRIA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
