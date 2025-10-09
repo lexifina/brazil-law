@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por JENNIFER DE OLIVEIRA, LUCAS DE OLIVEIRA à decisão de fls. 882/883, que não conheceu do recurso.
+Sustenta a parte embargante:
+I. A intimação ocorreu em 29/04/2025;
+II. A contagem iniciou-se em 30/04/2025;
+III. Houve suspensão de prazos em 01/05 (feriado nacional) e 02/05 (emenda - Prov. CSM/TJSP nº 2765/2024);
+IV. O prazo efetivo iniciou-se em 05/05/2025;
+V. O término ocorreu em 22/05/2025, data da interposição do agravo. Assim, o recurso é manifestamente tempestivo.
+A decisão incorreu em erro de cálculo de prazo (art. 1.022, II, CPC), o que gera contradição entre os fundamentos e o dispositivo, pois se declarou intempestivo recurso protocolado dentro do prazo legal (fls. 886 /887).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Observe-se que houve a disponibilização da decisão de inadmissibilidade do Recurso Especial em 28.4.2025, considerando-se publicada em 29.4.2025 (fl. 851). Excluindo-se o dia 29.4.2025 (primeiro dia), inicia-se a contagem no dia 30.4.2025. Exclui-se da contagem o dia 1º.5.2025, porquanto se trata de feriado nacional, que não necessita ser comprovado. Após, a contagem é reiniciada no dia 2.5.2025, que não se trata de feriado nacional, devendo ser comprovada a suspensão do expediente forense neste dia, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 21.5.2025, sendo que o Agravo em Recurso Especial foi interposto somente em 22.5.2025, fora do prazo.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que o feriado nacional de 1º.5.2025 não precisa ser comprovado. Porém, o dia 2.5.2025 é supostamente feriado local, razão pela qual a parte foi intimada, nos termos do art. 1.003, § 6º, do CPC, bem como da QO no AREsp n. 2.638.376/MG para comprovar a tempestividade, contudo, deixou o prazo transcorrer in albis.
+Outrossim, o documento trazido nestes embargos (fls. 888/889) não pode ser aceito. Deveria ter sido apresentado s no momento oportuno, porquanto preclusa a oportunidade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
