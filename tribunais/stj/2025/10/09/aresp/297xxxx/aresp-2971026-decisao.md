@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado (fl. 136):
+ADMINISTRATIVO E CONSTITUCIONAL - MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO MILITAR - PROMOÇÃO À GRADUAÇÃO DE SUBTENENTE - OMISSÃO DA ADMINISTRAÇÃO PÚBLICA NA ELABORAÇÃO DO QUADRO NORMAL DE ACESSO - MORA ADMINISTRATIVA CONFIGURADA - POSSIBILIDADE DE INCLUSÃO NO QEA, DESDE QUE DEMONSTRADO O CUMPRIMENTO DOS REQUISITOS DEFINIDOS NA LEI Nº 4.044/14 - PRÉVIA EXISTÊNCIA DE VAGAS - DESNECESSIDADE - ATO VINCULADO QUE AFASTA A DISCRICIONARIEDADE DO CHEFE DO PODER EXECUTIVO - DEMONSTRAÇÃO DE CLARA OMISSÃO DA AUTORIDADE COATORA - OFENSA AO DIREITO LÍQUIDO E CERTO À PROMOÇÃO - SEGURANÇA CONCEDIDA.
+Os embargos de declaração foram rejeitados (fls. 208):
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - FUNDAMENTAÇÃO VINCULADA - INOCORRÊNCIA - NÃO CABIMENTO - ART. 1022 DO NOVO CÓDIGO DE PROCESSO CIVIL - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO, OU ERRO MATERIAL - EMBARGOS REJEITADOS.
+- Embargos de declaração é recurso de fundamentação vinculada e, portanto, suas razões devem estar sempre centradas em seus permissivos legais, posto que sua admissibilidade resta condicionada às temáticas próprias e previamente determinadas pelo Código de Processo Civil.
+- Matéria impugnada e devidamente decidida de forma clara e inequívoca pela decisão recorrida.
+- Embargos rejeitados
+Em  seu  recurso  especial  de  fls.  219-242 , a parte  recorrente sustenta  violação  do art. 1.022, II, do CPC, sob o argumento de que o Tribunal de origem não se manifestou a respeito da necessidade de específica inclusão em Quadro de Acesso para fins de promoção. Pondera que, se tais quadros nem haviam sido elaborados, ao menos até o momento da impetração, por certo o impetrante não poderia ter sido incluído nas listas de promoção.
+Contrarrazões às fls. 246-259.
+O Tribunal de origem não admitiu o recurso especial sob o fundamento de que, quanto à ofensa ao 1.022 CPC, se o acórdão fustigado se encontra suficientemente fundamentado, não há violação do citado artigo de lei. Apontou, ainda, que, "..embora a parte suscite a existência de omissão, descuidou-se por completo de apresentar os motivos da sua irresignação, deixando de fundamentar quais teses não foram objeto de análise no acórdão recorrido, ocasionando deficiência na instrução do apelo especial" (fls. 285-286).
+Em  seu  agravo,  às  fls.  293-308,  a parte  agravante  afirma que a Corte local adentrou indevidamente no mérito do apelo raro e que não incide a Súmula 83/STJ ao caso. Além disso, salientou que o tema objeto do recurso especial interposto é eminentemente jurídico, materializado na violação de lei federal, especificamente, dos arts. 489, IV, e 1.022, II do CPC, por deixar o Tribunal a quo de considerar o entendimento pacífico acerca da necessidade da inclusão em Quadro de Acesso para a concessão de segurança, em ações que pleiteiam promoção na carreira militar, seja para o quadro de Praças, seja para o quadro de Oficiais. Não há, pois, necessidade de reanálise de provas.
+Contraminuta às fls. 309-324.
+É  o  relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no entendimento de que, se o acórdão está devidamente fundamentado, não há falar em violação do art. 1.022 do CPC. Ademais, no caso, a Corte de origem afirmou que, embora a parte recorrente tenha suscitado a existência de omissão, descuidou-se por completo de apresentar os motivos da sua irresignação, deixando de fundamentar quais teses não foram objeto de análise no acórdão recorrido, ocasionando deficiência na instrução do apelo especial.
+Todavia, no seu agravo, a parte agravante não refutou suficientemente o fundamento relacionado à deficiência na fundamentação do apelo e direcionou sua impugnação a fundamentos que nem sequer foram utilizados pela instância de origem para inadmitir o REsp, como o óbice das Súmulas 7 e 83 do STJ.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
