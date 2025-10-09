@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela DUCOL ENGENHARIA LTDA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 500-501):
+DIREITO ADMINISTRATIVO E CIVIL. APELAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO E DE EMPREITEIRA. ACIDENTE DE TRÂNSITO EM RODOVIA ESTADUAL. OBRA PÚBLICA SEM SINALIZAÇÃO. MORTE DE MOTORISTA. INDENIZAÇÃO POR DANOS MORAIS E PENSIONAMENTO. REFORMA DA SENTENÇA. RECURSO PROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que reconheceu a prescrição da pretensão da apelante em relação ao Estado do Maranhão e julgou improcedentes os pedidos de indenização por danos morais e materiais, em razão do falecimento de Edenilson Cutrim Rabelo, em acidente automobilístico ocorrido em 06/11/2012 na rodovia MA-014, supostamente causado por ausência de sinalização em obra pública. As autoras requereram o pagamento de indenização por danos morais e pensão mensal correspondente a 2/3 da renda da vítima.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o acidente que ocasionou a morte da vítima decorreu de omissão do Estado do Maranhão e da empresa responsável pela obra, ensejando responsabilidade civil objetiva; (ii) estabelecer se são devidos indenização por danos morais e pensionamento à filha menor e à companheira do falecido.
+III. RAZÕES DE DECIDIR
+3. A responsabilidade civil do Estado e da empresa contratada para realização de obra pública em rodovia estadual é objetiva, com fundamento no art. 37, § 6º, da Constituição Federal e art. 70 da Lei 8.666/93, sendo necessária a demonstração de dano, conduta omissiva e nexo de causalidade.
+4. Restou comprovado nos autos, por testemunhas presenciais e por outros boletins de ocorrência, que no local do acidente havia uma vala e monte de entulho sem qualquer sinalização visível, o que configura omissão do Estado na fiscalização da obra e falha da empresa na execução do serviço.
+5. As testemunhas da empresa não estavam presentes no local no momento do acidente e não conseguiram afastar a robusta prova testemunhal produzida pelas apelantes quanto à ausência de sinalização.
+6. A existência de outros acidentes no mesmo trecho da rodovia, no mesmo local e ano, reforça a tese de falha reiterada na sinalização da obra.
+7. Inexistem provas de culpa exclusiva da vítima ou de força maior e não houve comprovação de excesso de velocidade ou embriaguez por parte do condutor.
+8. A indenização por danos morais deve ser fixada de modo proporcional e pedagógico, com incidência de correção monetária e juros conforme orientação jurisprudencial.
+9. A pensão mensal à filha menor é devida até que complete 25 anos de idade e à companheira até a data em que a vítima completaria 74 (setenta e quatro) anos de idade, no valor de 2/3 do salário mínimo para cada, com incidência de juros de mora a partir do vencimento de cada parcela.
+IV. DISPOSITIVO E TESE
+10. Recurso provido.
+Teses de julgamento: 1. O Estado e a empresa contratada respondem objetivamente por acidente de trânsito causado por ausência de sinalização em obra pública em rodovia.
+2. A prova testemunhal é suficiente para comprovar a omissão do Poder Público e a falha da empresa na prestação do serviço.
+3. São devidos indenização por danos morais e pensionamento mensal à filha menor e à companheira de vítima fatal de acidente de trânsito decorrente de obra não sinalizada em rodovia estadual.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 567-578, a recorrente sustenta que o acórdão recorrido violou o art. 373, inciso I, do Código de Processo Civil, "ao inverter, de forma indevida e sem fundamentação legal, o ônus da prova em desfavor da parte recorrente" (fl. 574).
+Afirma que "o conjunto probatório é notoriamente insuficiente para embasar juízo de certeza quanto à dinâmica do acidente, o que torna imperiosa a observância da regra do art. 373, I, do CPC, sendo ônus do autor demonstrar o fato constitutivo de seu direito, não podendo esse ônus ser transferido ao réu de forma presumida" (fl. 575).
+Aduz, ainda, que "o acórdão recorrido também incorre em violação frontal ao art. 70 da Lei nº 8.666/1993, ao aplicar equivocadamente a regra de responsabilidade do contratado em contratos administrativos, presumindo culpa da empresa contratada sem a devida demonstração de conduta culposa ou dolosa, conforme expressamente exige o dispositivo legal" (fl. 577).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 639-640):
+No tocante à ofensa ao art. 373, I, do CPC, relacionado a comprovação da responsabilidade da recorrente, incide ao caso o óbice da Súmula 7/STJ, pois " A s questões envolvendo os elementos ensejadores do dever de indenizar demandam reexame dos elementos fáticos contidos no processo, tarefa não encontrada no rol das competências do Superior Tribunal de Justiça e, portanto, expressamente vedada no âmbito deste Tribunal, conforme teor da Súmula 7 desta Corte" (AgInt no AREsp n. 1.925.959/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2022, DJe de 21/2/2022).
+O mesmo óbice se aplica quanto à alegada violação ao artigo 70 da lei n. 8.666/93, visto que o colegiado assim firmou seu entendimento: " ..  4. Restou comprovado nos autos, por testemunhas presenciais e por outros boletins de ocorrência, que no local do acidente havia uma vala e monte de entulho sem qualquer sinalização visível, o que configura omissão do Estado na fiscalização da obra e falha da empresa na execução do serviço. 5. As testemunhas da empresa não estavam presentes no local no momento do acidente e não conseguiram afastar a robusta prova testemunhal produzida pelas apelantes quanto à ausência de sinalização. 6. A existência de outros acidentes no mesmo trecho da rodovia, no mesmo local e ano, reforça a tese de falha reiterada na sinalização da obra  .. ".
+Nesse passo, para se deduzir de modo diverso do aresto recorrido, entendendo pela inexistência de nexo de causalidade entre o dano sofrido pelas recorridas e a conduta da recorrente, na forma pretendida no REsp, demandaria o reexame do acervo fático-probatório já analisado, providência impossível pela via estreita do recurso especial, ante o enunciado da Súmula 7/STJ.
+Em seu agravo, às fls. 644-651, a agravante sustenta que:
+A decisão que inadmitiu o Recurso Especial fundamentou-se, essencialmente, na incidência da Súmula nº 7 do Superior Tribunal de Justiça, sob o argumento de que a análise das alegações recursais demandaria reexame de matéria fático-probatória dos autos.
+Com a devida vênia, referido óbice não se sustenta na hipótese vertente. Isto porque o apelo extremo não visa rediscutir fatos ou provas, mas sim impugnar a valoração jurídica conferida às provas produzidas, em afronta direta ao artigo 373, I, do CPC, e ao artigo 70 da Lei nº 8.666/93.
+(..)
+Em outras palavras, a controvérsia devolvida à instância superior diz respeito à interpretação jurídica equivocada acerca da suficiência e eficácia da prova testemunhal indireta para fins de reconhecimento de responsabilidade civil da recorrente, sem a existência de prova pericial, testemunha ocular ou qualquer elemento técnico idôneo que demonstre o nexo de causalidade entre a conduta da empresa e o acidente. (fl. 648, sic)
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
