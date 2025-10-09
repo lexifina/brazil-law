@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MERCADO DE ALIMENTOS LUCHESE EIRELI e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na ausência de interesse recursal.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso não merece conhecimento por ausência de prequestionamento, pela incidência da Súmula n. 211 do STJ, pela vedação ao reexame de fatos e provas à luz da Súmula n. 7 do STJ. Subsidiariamente, requer seu desprovimento por inexistência de violação dos arts. 489, § 1º, IV, 373, I, e 1.013 do CPC, 6º, VI e VIII, e 14 do CDC e 186 e 927 do CC.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação revisional.
+O julgado foi assim ementado (fl. 421)
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. INTERESSE RECUSAL. TARIFAS ADMINISTRATIVAS. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. COMISSÃO DE PERMANÊNCIA. REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES.
+I. POSSÍVEL A APLICAÇÃO DE JUROS REMUNERATÓRIOS, POR INSTITUIÇÃO FINANCEIRA, EM PATAMAR SUPERIOR A 12% AO ANO, CONFORME ENTENDIMENTO PACIFICADO PELO STJ.
+II. É POSSÍVEL A CAPITALIZAÇÃO DOS JUROS, INCLUSIVE EM PERIODICIDADE MENSAL, BASTANDO PACTUAÇÃO. CONSTANDO NOS CONTRATOS OBJETO DA LIDE OS VALORES DAS TAXAS EFETIVAS MENSAIS E ANUAIS DE JUROS, DEVE SER AUTORIZADA A INCIDÊNCIA DE CAPITALIZAÇÃO, TAMBÉM EM PERIODICIDADE INFERIOR À ANUAL.
+III. VÁLIDA A CLÁUSULA CONTRATUAL QUE PREVÊ A COBRANÇA DA COMISSÃO DE PERMANÊNCIA, CALCULADA PELA TAXA MÉDIA DE MERCADO APURADA PELO BANCO CENTRAL DO BRASIL, DE ACORDO COM A ESPÉCIE DA OPERAÇÃO, TENDO COMO LIMITE MÁXIMO O PERCENTUAL CONTRATADO (SÚMULA Nº 294/STJ). REFERIDA CLÁUSULA É ADMITIDA APENAS NO PERÍODO DE INADIMPLÊNCIA, DESDE QUE PACTUADA E NÃO CUMULADA COM OS ENCARGOS DA NORMALIDADE (JUROS REMUNERATÓRIOS E CORREÇÃO MONETÁRIA) E/OU COM OS ENCARGOS MORATÓRIOS (JUROS MORATÓRIOS E MULTA CONTRATUAL). INTELIGÊNCIA DAS SÚMULAS Nº 30 E Nº 296/STJ (AGRG NO AGRAVO EM RECURSO ESPECIAL Nº 332.456 - RS E RESP 1.058.114/RS).
+IV. CONSOANTE O ENTENDIMENTO DO STJ (RESP Nº 1.251.331/RS E RESP Nº 1.255.573/RS), DESCABE A COBRANÇA DE TAC E TEC EM CONTRATOS FIRMADOS APÓS O ANO DE 2008, EM ATENÇÃO À VIGÊNCIA DA CIRCULAR Nº 3.371/2007, DO BACEN.
+V. A COMPENSAÇÃO DE VALORES E A REPETIÇÃO DO INDÉBITO CONSTITUEM DECORRÊNCIA LÓGICA DA PRETENSÃO REVISIONAL E DO NECESSÁRIO ACERTAMENTO DA RELAÇÃO DÉBITO-CRÉDITO, EM FACE DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA, DEVENDO SER ADMITIDAS, NA FORMA SIMPLES, INDEPENDENTEMENTE DE PROVA DO PAGAMENTO POR ERRO.
+VI. SEM INCIDÊNCIA DO DISPOSTO NO ART. 85, §11, DO CPC, POIS APLICÁVEL APENAS NAS HIPÓTESES DE DESPROVIMENTO E DE NÃO CONHECIMENTO DO RECURSO, CONFORME ORIENTAÇÃO TRAÇADA PELO STJ NO EDCL NO AGINT NO RESP 1.573.573.
+APELAÇÕES CÍVEIS PARCIALMENTE PROVIDAS. UNÂNIME.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 452):
+EMBARGOS DE DECLARAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. REQUISITOS DO ART. 1.022 DO CPC. CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU ERRO MATERIAL.
+I. CASO EM QUE NÃO VERIFICADA A PRESENÇA DAS HIPÓTESES DE INTERPOSIÇÃO ELENCADAS NO ART. 1.022 DO CPC NO RECURSO DA PARTE RÉ, UMA VEZ QUE EXAMINADOS ADEQUADAMENTE OS MOTIVOS PELOS QUAIS FORA UTILIZADA A OPERAÇÃO DE CAPITAL DE GIRO COM PRAZO DE ATÉ 365 DIAS PARA FINS DE ANÁLISE DA ABUSIVIDADE DOS ENCARGOS.
+II. HIPÓTESE EM QUE A CONTRADIÇÃO APONTADA PELA PARTE AUTORA TRATA-SE, NA VERDADE, DE MERO ERRO MATERIAL, DE MODO QUE NECESSÁRIA A RETIFICAÇÃO DO JULGADO NO PONTO.
+EMBARGOS DE DECLARAÇÃO DA PARTE RÉ REJEITADOS.
+EMBARGOS DE DECLARAÇÃO DA PARTE AUTORA ACOLHIDOS. UNÂNIME.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 39, I, III, IV, V, X e XIII, da Lei n. 8.078/1990, porquanto houve prática abusiva nas cláusulas de juros remuneratórios, impondo-se a limitação à taxa média de mercado divulgada pelo BACEN, com recálculo dos encargos e adequação às normas de proteção do consumidor;
+b) 51, IV, Lei n. 8.078/1990, visto que cláusulas que estabelecem vantagem manifestamente excessiva ao fornecedor são nulas, devendo os juros que desbordam do patamar médio sofrer corte e limitação à média de mercado.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, se reconheça a abusividade das taxas de juros e se limitem os juros remuneratórios à taxa média de mercado, com os consectários de recálculo e repetição na forma simples.
+É o relatório. Decido.
+O recurso especial possui como objeto questões submetidas a julgamento afetado à sistemática dos recursos repetitivos, a saber: "I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários; II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto à abusividade ou não das taxas de juros remuneratórios pactuadas, quando baseadas em aspectos fáticos da contratação" (REsps n. 2.227.287/MG, 2.227.844/RS, 2.227.276/AL e 2.227.280/PR).
+Dessa forma, para que seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC, impõe-se a devolução dos autos ao Tribunal de origem, conforme dispõe o art. 256-L do RISTJ:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Registre-se que, segundo a orientação jurisprudencial do STJ, o ato judicial que determina o sobrestamento e o retorno dos autos à corte de origem a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC) não tem carga decisória, por isso é provimento irrecorrível.
+Nesse sentido: AgInt no REsp n. 1.140.843/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe de 30/10/2018; AgInt nos EDcl nos EREsp n. 1.126.385/MG, relator Ministro Og Fernandes, Primeira Seção, julgado em 13/9/2017, DJe de 20/9/2017; AgInt no REsp n. 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2017, DJe de 4/9/2017; e AgInt no REsp n. 1.661.811/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/6/2018, DJe de 29/6/2018.
+Ante o exposto, determino a restituição dos autos ao Tribunal de origem a fim de que fiquem sobrestados até o julgamento definitivo da matéria submetida à sistemática dos recursos repetitivos (Tema n. 1.378) e eventual retratação prevista nos arts. 1.040, II, e 1.041 do CPC.
+Publique-se. Intimem-se.
+EMENTA
