@@ -10,17 +10,3 @@ Art. 15. Respeitados os contratos de fornecimento vigentes, a prorrogação das 
 § 8º Os consumidores que exercerem a opção prevista neste artigo e no art. 16 desta Lei poderão retornar à condição de consumidor atendido mediante tarifa regulada, garantida a continuidade da prestação dos serviços, nos termos da lei e da regulamentação, desde que informem à concessionária, à permissionária ou à autorizada de distribuição local, com antecedência mínima de 5 (cinco) anos.
 § 9º Os prazos definidos nos §§ 4º e 8º deste artigo poderão ser reduzidos, a critério da concessionária, da permissionária ou da autorizada de distribuição local.
 § 10. Até 31 de dezembro de 2009, respeitados os contratos vigentes, será facultada aos consumidores que pretendam utilizar, em suas unidades industriais, energia elétrica produzida por geração própria, em regime de autoprodução ou produção independente, a redução da demanda e da energia contratadas ou a substituição dos contratos de fornecimento por contratos de uso dos sistemas elétricos, mediante notificação à concessionária de distribuição ou geração, com antecedência mínima de 180 (cento e oitenta) dias.
-§ 11. A antecedência mínima de que trata o § 8º poderá ser reduzida pelo poder concedente, conforme regulamento.
-§ 12. A escolha do fornecedor com quem será contratada a compra de energia elétrica será livre aos consumidores atendidos por tensão inferior a 2,3 kV (dois inteiros e três décimos quilovolts), conforme regulamento:
-I - a partir de 1º de agosto de 2026, aos consumidores industriais e comerciais; e
-II - a partir de 1º de dezembro de 2027, aos demais consumidores.
-§ 13. O poder concedente deverá regulamentar, até 1º de fevereiro de 2026, as regras para o exercício do SUI, com a definição, entre outros:
-I - do responsável pela prestação do SUI;
-II - dos consumidores com direito a essa forma de suprimento;
-III - das hipóteses em que esse suprimento será obrigatório;
-IV - do prazo máximo desse suprimento;
-V - da eventual utilização temporária de energia de reserva para essa forma de suprimento;
-VI - da eventual dispensa de lastro para a contratação; e
-VII - da forma de cálculo e alocação de custos.
-§ 14. A atividade de SUI será autorizada e fiscalizada pela ANEEL e será realizada por pessoa jurídica responsável, entre outros, pelo atendimento aos consumidores no caso de encerramento da representação por agente varejista, nos termos do disposto no art. 4º-A, § 1º, da Lei nº 10.848, de 15 de março de 2004.
-§ 15. A critério do poder concedente, a atividade de SUI será exercida, com ou sem exclusividade, pelas concessionárias, permissionárias ou autorizadas de distribuição de energia elétrica, conforme regulamento.
