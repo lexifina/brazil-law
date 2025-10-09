@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ EDUARDO DE PAULA SOARES contra decisão de fls. 135/140, de minha relatoria, na qual indeferi liminarmente o habeas corpus impetrado em seu favor.
+Nos presentes embargos, a defesa aponta existir contradição porque o objeto do habeas corpus foi a incompatibilidade entre a prisão preventiva e o regime semiaberto fixado pelo acórdão do TJ/MG. Aponta que a sentença de primeiro grau fixou o regime fechado.
+Argui que a discussão sobre a prisão preventiva e sua incompatibilidade com o semiaberto é tema de recurso próprio, que só poderá ser manejado após o julgamento dos embargos infringentes já opostos no Tribunal de origem.
+Requer, assim, o provimento dos embargos declaratórios, a fim de sanar os vícios apontados.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, pressupostos não caracterizados na hipótese dos autos.
+Eis o que foi decidido no decisum impugnado:
+"O presente writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído, não se verificando cópia do inteiro teor da sentença condenatória, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+A despeito das razões delineadas na inicial, cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da ação. Nesse sentido, confiram-se os seguintes precedentes (grifos nossos):
+ ..
+Ademais, da atenta leitura do acórdão impugnado verifica-se que o Tribunal de origem não se manifestou expressamente sobre a incompatibilidade entre o regime inicial semiaberto e a imposição da prisão preventiva.
+Desse modo, resta afastada a competência desta Corte Superior para conhecimento do feito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+ .. ".
+Nesse contexto, vê-se que não há falar em vício no julgado, uma vez que foram explicitadas as razões de decidir de forma clara.
+Observa-se que se pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Ressalta-se, por fim, que não se deve olvidar que o juiz não está obrigado a responder todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar o seu decisório, nem se obriga a ater-se aos fundamentos indicados por elas e, tampouco a responder um a um todos os seus argumentos.
+A propósito, confiram-se os seguintes precedentes:
+PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. NECESSÁRIO REEXAME DE PROVAS. SÚMULA 7/STJ. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉ QUE SE DEDICA A ATIVIDADE CRIMINOSA. ALTERAÇÃO DESSE ENTENDIMENTO. ÓBICE DA SÚMULA 7/STJ. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). QUANTIDADE DO ENTORPECENTE. MODO ADEQUADO. PRISÃO DOMICILIAR. PLEITO ANALISADO NO HC 447.830/SP. REITERAÇÃO DE PEDIDO. ALEGADA OMISSÃO E CONTRARIEDADE NO JULGADO COLEGIADO. NÃO OCORRÊNCIA. MERO INCONFORMISMO DA PARTE. ANÁLISE EXPRESSA DE TODAS AS TESES DEFENSIVAS. MOTIVAÇÃO SUFICIENTE. NÃO OBRIGATORIEDADE. EMBARGOS REJEITADOS.
+1 . Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Segundo Jurisprudência desta Corte Superior, "o julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas" (AgRg no AREsp n. 1.130.386/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 8/11/2017).
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.764.230/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 6/3/2019.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PERCENTUAL. NOVA REDAÇÃO DO ART. 112 DA LEP. REINCIDÊNCIA SIMPLES. INTEGRAÇÃO DA NORMA PELA ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO PERCENTUAL DE 40%. PRECEDENTES. INEXISTÊNCIA DE VÍCIOS A SEREM SANADOS.
+1. Nos limites estabelecidos pelo art. 619 do Código de Processo Penal, os embargos de declaração destinam se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+2. O acórdão embargado foi claro em asseverara aplicação, com o uso da analogia in bonam partem, do contido no inciso V do referido artigo da Lei de Execução Penal à hipótese, exigindo-se o cumprimento de 40% da pena para a progressão de regime, caso não cometida falta grave, pois se trata de reincidente não específico.
+3. Esta Corte Superior de Justiça consolidou jurisprudência de que a contradição ou a obscuridade não implicam que o Tribunal deva acolher a tese apresentada pelo recorrente: o fato de a solução adotada pelo Tribunal não ser a que satisfaça o recorrente em nada invalida a decisão atacada (EDcl no REsp n. 1.359.810/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 19/12/2017).
+4.  ..  A existência de precedente favorável à alegação do embargante não gera contradição no acórdão, constituindo dado externo, e o vício se materializa com a análise das questões internas consignados no corpo da decisão (EDcl no AgR (EDcl no AgRg no HC n. 548.222/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/05/2020 - grifo nosso).
+5. Resolvidas as questões com fundamentação satisfatória, caso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa. De fato, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp 1076319/MG, Rel. Ministro Lázaro Guimarães, DJe 22/08/2018).
+6. A motivação apresentada no acórdão embargado se mostra suficiente para respaldar as conclusões ali lançadas, não sendo necessária a incursão na seara constitucional. Dessa forma, o pedido do embargante desborda da missão constitucional do Superior Tribunal de Justiça, que tem competência para análise de matéria infraconstitucional, não estando obrigado a se manifestar sobre tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada pela Carta Magna ao Supremo Tribunal Federal (EDcl no AgRg no HC n. 618.406/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020).
+7. Embargos de declaração rejeitados.
+(EDcl no AgRg no HC 624.130/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 16/4/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO. OBSCURIDADE OU CONTRADIÇÃO. INOCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admitem-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC. Tais hipóteses não restaram configuradas nos autos.
+2. Quanto à obscuridade, somente se constata tal vício nas hipóteses de ausência de clareza nos fundamentos do julgado, o que não se aplica ao acórdão do agravo regimental, pois, pela simples leitura extrai-se a ratio decidendi do órgão colegiado.
+3. "Segundo Jurisprudência desta Corte Superior "o julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas" (AgRg no AREsp n. 1.130.386/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 8/11/2017)" (EDcl no REsp 1.764.230/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 6/3/2019).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EDcl nos EDcl no HC n. 812.951/MS, de minha relatoria, Quinta Turma, julgado em 15/8/2023, DJe de 18/8/2023.)
+Ante o exposto, por não haver vício a sanar, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
