@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Maranhão, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 60-77):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. LEGITIMIDADE ATIVA. COMPROVAÇÃO DA QUALIDADE DE BENEFICIÁRIO. DECISÃO QUE JULGOU IMPROCEDENTE A IMPUGNAÇÃO APRESENTADA PELO ENTE PÚBLICO. AUSÊNCIA DE FUMUS BONI IURIS E PERICULUM IN MORA. AGRAVO QUE SE NEGA PROVIMENTO.
+1. Em se tratando de ação coletiva ajuizada por associação de natureza civil, a abrangência subjetiva da coisa julgada fica limitada, em regra, ao grupo por ela substituído, que não é uma categoria profissional ou classe genérica de pessoas, mas sim o conjunto de seus associados, que deverão comprovar sua filiação até a propositura da ação de conhecimento.
+2. In casu, a autora comprovou sua condição de filiada, havendo, inclusive, autorização, em assembleia, para o ajuizamento de ações individuais para execução de sentença proferida em ação coletiva.
+3. No mais, verifico que a decisão agravada não determinou o pagamento de qualquer valor à exequente, tampouco a implantação de qualquer percentual que seja em seus proventos, dada a informação, constante na inicial do cumprimento de sentença, de que o índice relativo à conversão de Cruzeiros Reais para URV, no importe de 11,98%, já foram implantados nos contracheques dos servidores, por meio da Lei 9.041/2009. Na verdade, a pretensão executória visa a condenação ao pagamento dos valores retroativos devidos e inadimplidos pelo ente público recorrente.
+4. Agravo conhecido e não provido. (fl. 61)
+Os embargos de declaração opostos pelo recorrente (fls. 78-84) foram rejeitados (fls. 86-105), na forma da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ASFUPEMA. LEI DE REESTRUTURAÇÃO DA CARREIRA Nº 9.041/2009. PRESCRIÇÃO. NÃO OCORRÊNCIA. CÁLCULOS QUE COMPREENDEM PERÍODO ANTERIOR À EDIÇÃO DA CITADA LEI. OMISSÃO NÃO CARACTERIZADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Segundo precedente qualificado do STF no julgamento do RE 561.836/RN, "o termo ad quem da incorporação dos 11,98%, ou do índice obtido em cada caso, na remuneração do agente público deve ocorrer no momento em que a sua carreira passar por uma restruturação remuneratória, porquanto não há direito à percepção ad aeternum de parcela de remuneração por servidor público".
+2. A data de edição da Lei nº 9.041/2009 deve ser considerada como termo final da incorporação do índice de URV, e, ao mesmo tempo, como termo inicial do prazo de prescrição para cobrança das perdas monetárias acumuladas, de modo que, dado o trânsito em julgado da sentença em 02/02/2018, e o protocolo do Cumprimento de Sentença em 01/02/2023, não há falar-se em prescrição, ainda mais quando se verifica que a exequente apresentou cálculos correspondentes a período anterior à lei em comento.
+3. Comprovado que a decisão embargada não incidiu em qualquer dos vícios previstos no art. 1.022, I, II e III, do CPC, e que o embargante, apesar de alegar suposta omissão, busca, discordando dos fundamentos da decisão questionada, provocar o rejulgamento do recurso com vistas a obter um novo pronunciamento judicial que agasalhe as teses já rechaçadas, a solução que se impõe é o não acolhimento dos declaratórios.
+4. Embargos de declaração rejeitados.
+No recurso especial, às fls. 107-119, a parte recorrente alega violação dos arts. 489, § 1º, IV e VI, e 1.022, parágrafo único, do CPC.
+Sustenta, em síntese, que o Tribunal de origem, a despeito dos embargos de declaração opostos, não se pronunciou "acerca das matérias suscitadas" e "capazes de infirmar em tese a conclusão adotada". (fl. 118)
+Pugna pelo provimento do recurso especial, para que seja reformado o acórdão recorrido, na forma das razões expostas.
+Contrarrazões, às fls. 123-134, pelo não conhecimento do recurso especial.
+O Tribunal de origem inadmitiu o recurso especial, às fls. 136-140, porquanto, in verbis:
+Verificada a dissociação entre os fundamentos do acórdão e do REsp, a admissibilidade do recurso esbarra no disposto na Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Assim: AgInt no REsp 1554403, rel. Ministro JOÃO OTÁVIO DE NORONHA, 4ª Turma, j. em 15/04/2024.
+No agravo em recurso especial (fls. 141-158), o agravante afirma, resumidamente, que deve ser afastada incidência da Súmula 284/STF, uma vez que "observa-se fundamentação clara acerca da questão controversa discutida, qual seja, a prescrição da pretensão executória, bem como ilegitimidade da parte exequente." (fl. 143 ).
+Quanto ao mais, reitera os argumentos apresentados no recurso especial.
+Contraminuta, às fls. 161-164, pela manutenção da decisão agravada por seus próprios fundamentos.
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a fundamentação da decisão agravada, porquanto a parte agravante não infirmou, efetivamente, o argumento utilizado para a inadmissão do recurso especial.
+Em verdade, a Vice-Presidência da Corte estadual não admitiu o apelo nobre em razão da deficiência em sua fundamentação, uma vez que o recorrente não apresentou os pontos nos quais o acórdão se fez omisso, tendo reeditado os mesmos argumentos expostos no agravo de instrumento, o que atrai , por analogia, o óbice do enunciado 284 do STF. (fl. 136).
+Ocorre que, no agravo recurso especial, a parte deixou de infirmar, adequada e detalhadamente, o referido pilar argumentativo da decisão de admissibilidade, tendo se limitado a alegar, de maneira genérica e superficial, não ser aplicável o óbice utilizado pela Corte de origem, e a reeditar a mesmas razões alinhavadas em seu recurso especial, sem, contudo, demostrar qualquer desacerto da decisão que não o admitiu. Logo, o fundamento do julgado agravado, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de combater a fundamentação do juízo de admissibilidade, fere-se o princípio da dialeticidade, atraindo a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024.).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú., DO RISTJ. AGRAVO NÃO CONHECIDO.
