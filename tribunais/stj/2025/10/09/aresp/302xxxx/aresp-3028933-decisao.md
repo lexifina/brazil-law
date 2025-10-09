@@ -1,0 +1,31 @@
+DECISÃO
+BENEDITO DE SOUZA FRANCISCO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da Primeira Região na Apelação n. 0001063-46.2016.4.01.4103.
+Em seu especial, a defesa apontou violação dos arts. 59, 60 e 68, do Código Penal, 1º, III, 5º, LVII e XLVI, e 93, IX, da Constituição Federal, e 386, VI, do Código de Processo Penal
+Considerou não existirem elementos mínimos capazes de subsidiar o édito condenatório.
+Entendeu que a pena-base e a multa foram desproporcionais e que "A exasperação da reprimenda em 1/6 por suposto concurso formal revela-se absolutamente mecânica e acrítica, desconsiderando circunstâncias atenuantes manifestamente relevantes" (fl. 309). Assentou que a condição socioeconômica precária do recorrente não foi minimamente considerada na dosimetria.
+Pleiteou a absolvição do insurgente. Subsidiariamente, requereu a redução da reprimenda ao mínimo legal e a readequação do valor da multa para 1/50 do salário-mínimo.
+O especial foi inadmitido, tendo em vista a incidência da Súmula n. 7 do STJ, e o descabimento do uso do recurso especial para discussão de matéria constitucional.
+O Ministério Público Federal opinou pelo "não conhecimento do agravo em recurso especial" (fl. 481).
+Decido.
+O agravo é tempestivo, mas não merece conhecimento.
+Conforme relatado, a Corte estadual asseriu não ser cabível recurso especial para discussão de matéria constitucional e entendeu incidir a Súmula n. 7 do STJ ao caso. Nesse contexto, acostou julgados nos quais o STJ concluiu pela necessidade de aplicação do óbice sumular citado relativos a cada tese defendida no especial, a saber, as pretensões de reanálise da dosimetria, de redução da multa e a alegação de insuficiência de provas.
+A defesa, em seu agravo, afirmou que "a insurgência recursal não pretende o reexame do conjunto probatório dos autos, mas sim a verificação da legalidade da fundamentação adotada na fixação da pena de multa" (fl. 450). Assentou que "A jurisprudência do STJ admite o conhecimento de recurso especial quando a controvérsia envolve a legalidade da motivação judicial, especialmente em matéria de dosimetria da pena desde que não se pretenda rediscutir fatos, mas sim a correção da aplicação da norma penal" (fls. 450-451). Entendeu que houve violação aos princípios constitucionais "no caso concreto, por meio da má aplicação da legislação infraconstitucional (arts. 59 e 60 do CP), o que atrai a competência do STJ para o controle da legalidade da decisão recorrida" (fl. 451). Concluiu que houve impedimento do direito de recorrer e pediu o provimento do agravo.
+Entretanto, a jurisprudência do STJ considera que, para refutar a razão de inadmissibilidade, consistente na incidência da Súmula n. 7 do STJ, são insuficientes as assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. A parte deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos, o que não aconteceu no presente caso.
+Nessa perspectiva:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ROUBO. DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA SÚMULA N. 182 DO STJ. IMPUGNAÇÃO APRESENTADA EM AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+4. A impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, e não nas razões de agravo regimental, sob pena de preclusão consumativa.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.007.955/PA, Rel. Ministro João Otávio de Noronha, 5ª T. DJe 20/5/2022)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido. (AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020)
+Além disso, o insurgente nada comentou sobre a invocada incidência da Súmula n. 7 do STJ em relação à alegada insuficiência de provas para a condenação.
+Lembro que, consoante a compreensão da Corte Especial do STJ, a decisão que inadmite o recurso especial não pode ser impugnada parcialmente (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018).
+Assim, visto que a parte agravante deixou de rebater, de forma pormenorizada, os fundamentos de inadmissão do recurso especial, incide a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
