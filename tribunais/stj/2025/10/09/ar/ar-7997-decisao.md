@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por RODRIGO ÁVILA SIMÕES, com amparo no artigo 966, incisos V e VIII, do Código de Processo Civil, contra decisão monocrática da lavra da Ministra Regina Helena Costa proferida nos autos do RMS n. 71.371/RS.
+Alega o autor (fls. 2-6) que impetrou mandado de segurança no Tribunal de Justiça de São Paulo em face de ato praticado por autoridade vinculada ao IPE-Saúde, autarquia estadual responsável pelo plano de saúde dos servidores do Estado do Rio Grande do Sul.
+Informa que o Juízo da 37ª Vara Cível da Comarca de São Paulo reconheceu, de ofício, a sua incompetência absoluta ratione person  e determinou a remessa dos autos ao Tribunal de Justiça do Rio Grande do Sul.
+Aduz que o feito passou a tramitar perante a 4ª Vara da Fazenda Pública de Porto Alegre/RS, "que igualmente manteve a competência, apesar de se tratar de relação consumerista entre particular e prestador de serviços de saúde, o que atrai a competência da Justiça comum e do foro do domicílio do consumidor, nos termos do Código de Defesa do Consumidor".
+Contra esse ato foi impetrado novo mandado de segurança, cuja inicial foi indeferida pelo TJRS. Interposto recurso ordinário, os autos foram encaminhados ao Superior Tribunal de Justiça, que negou provimento ao recurso.
+Sustenta o autor que "a decisão rescindenda tratou o pleito recursal como se fosse mera tentativa de reabrir decisão transitada em julgado do TJSP, incorrendo em erro de fato quanto ao objeto do mandamus impetrado, que não visava rediscutir competência ratione person , mas sim reconhecer a incompetência ratione materi  da Vara da Fazenda Pública do TJRS".
+Argumenta que a decisão rescindenda "afrontou diretamente o art. 5º, inciso LIII, da Constituição Federal, ao negar aplicação ao princípio do juiz natural", bem como "ignorou que a competência em matéria consumerista é absoluta e definida pelo foro do domicílio do consumidor (CDC, art. 6º, inciso VIII, e art. 101, inciso I), reduzindo a controvérsia a critério equivocado de competência ratione auctoritatis".
+Além disso, afirma que o acórdão rescindendo teria incorrido em erro de fato, salientando que "a decisão rescindenda qualificou o pedido como "mero retorno dos autos ao TJSP" e tentativa de reabertura de decisão já transitada, quando o objeto sempre foi o reconhecimento da incompetência da Vara da Fazenda Pública do TJRS".
+Entende que houve negativa de prestação jurisdicional (CPC, art. 489, §1º, inciso IV), pois o STJ deixou de enfrentar o ponto central do recurso, relacionado à competência ratione materi .
+Requer seja reconhecida a incompetência absoluta da Vara da Fazenda Pública do TJRS para julgar controvérsia de natureza consumerista, oriunda de contrato de plano de saúde. Destaca que se trata de competência absoluta definida ratione materi , "que não pode ser afastada por convenções processuais nem ser convalidada por preclusão", sendo nulo "todo e qualquer ato decisório proferido por juízo absolutamente incompetente".
+Conclui que "o correto é o julgamento pela Justiça Comum de São Paulo do TJSP, foro do domicílio do consumidor" e que "é evidente a nulidade absoluta das decisões proferidas no âmbito da justiça fazendária porquanto o feito deve ser processado e julgado pela justiça comum".
+Pleiteia o deferimento de medida liminar, para o fim de suspender o ato coator até julgamento final da presente ação mandamental.
+No mérito, requer seja cassado o ato coator, para:
+- DECLARAR a relação consumerista existente entre as partes;
+- DECLARAR a incompetência absoluta da 4ª Vara da Fazenda Pública do Foro Central da Comarca de Porto Alegre/RS e, DECLARAR a nulidade absoluta de todos os atos processuais praticados no processo nº 5027046-16.2020.8.21.0001; e
+- DECLARAR a competência absoluta e, por consequência, DETERMINAR o retorno dos autos para regular processo e julgamento à 37ª Vara Cível da Comarca de São Paulo/SP;
+É o relatório.
+Insurge-se a autora contra decisão monocrática da lavra da Ministra Regina Helena Costa proferida nos autos do RMS n. 71.371/RS, que negou provimento ao recurso ordinário, nos seguintes termos:
+De início, afasta-se a alegação preliminar de nulidade processual, porquanto a ausência de intimação decorre do fato de o Tribunal de origem ter indeferido a petição inicial antes da fase em que a autoridade coatora prestaria informações. Desse modo, não efetivada a relação processual, desnecessária a intimação.
+No tocante à incompetência da 1ª Câmara Cível para julgamento do writ, o Recorrente sustenta que o objeto da impetração é matéria de direito público, razão pela qual não poderia ser objeto de exame por órgão de direito privado.
+Contudo, o Tribunal de origem esclarece no acórdão recorrido que as 1ª e 2ª Câmaras Cíveis do TJRS detêm competência para julgar questões de direito público, nos termos do art. 19 do Regimento Interno daquela Corte, in verbis:
+(..)
+Não caracterizada, portanto, qualquer nulidade quanto ao ponto.
+No mérito, depreende-se dos autos que o Impetrante busca a anulação da decisão proferida nos autos do Mandado de Segurança n. 5027046- 16.2020.8.21.0001/RS, a qual extinguiu o feito sem julgado do mérito.
+A Corte a qua considerou incabível a ação mandamental para impugnar decisão judicial, in verbis (fls. 92/93e):
+(..)
+Com efeito, é firme o posicionamento da Corte Especial deste Tribunal Superior, tanto acerca da inviabilidade de utilização de mandado de segurança como sucedâneo recursal, salvo quando a decisão impugnada ostentar manifesta ilegalidade, teratologia ou abuso de poder (aplicação, por analogia, da Súmula n. 267/STF), quanto da inadequação de mandado de segurança para revisão de decisão judicial transitada em julgado, salvo em situação excepcionalíssima, no qual se revelar o caráter abusivo ou teratológico da medida impugnada (aplicação analógica do enunciado da Súmula n. 268/STF).
+Espelhando tal orientação, os seguintes julgados:
+(..)
+No caso, não caracterizada a teratologia da decisão judicial, porquanto para fixação da competência para o julgamento do mandamus, mostra-se despicienda a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante, porquanto o critério para fixação da competência é estabelecido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis).
+(..)
+Posto isso, com fundamento nos arts. 932, V, a, do Código de Processo Civil de 2015 e 34, XVIII, c, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário. Prejudicado o pedido de fls. 155/157e.
+A violação à disposição expressa de lei que fundamenta a propositura de ação rescisória, nos termos do art. 966, V, do Código de Processo Civil, exige que a norma tenha sido diretamente desrespeitada pela decisão que se pretende rescindir, que tenha havido ofensa à sua literalidade.
+Assim, não é permitido o ajuizamento da ação rescisória para indevidamente protrair no tempo a discussão sobre um tema já decidido e cujos efeitos se tornaram definitivos com o trânsito em julgado. Nesse sentido, a ação rescisória não deve ser empregada como um recurso substitutivo não utilizado no tempo oportuno, nem serve para reparar uma possível injustiça da decisão final.
+Na espécie, além de não ter sido demonstrada a ocorrência de violação direta e literal às normas citadas, verifica-se que pretende o autor a utilização da rescisória como sucedâneo recursal, o que se mostra inviável.
+Com efeito, "A jurisprudência do Superior Tribunal de Justiça entende que a violação a literal disposição de lei que autoriza a propositura de Ação Rescisória pressupõe que a norma tenha sido ofendida frontalmente pela decisão rescindenda. Em outras palavras, a decisão deve ser de tal modo teratológica, aberrante, que se detecte primo icto oculi, o desprezo pelo julgado rescindendo. Não se admite a utilização da Ação Rescisória para perpetuar, por via transversa, a discussão sobre matéria que foi decidida por decisão cujos efeitos se tornaram imutáveis pelo trânsito em julgado" (AR n. 5.547/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 28/2/2024, DJe de 6/5/2024.)
+Por outro lado, estabelece o art. 966, VIII, § 1º, do Código de Processo Civil de 2015, que:
+Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida
+quando:
+(..)
+VIII - for fundada em erro de fato verificável do exame dos autos.
+§ 1º Há erro de fato quando a decisão rescindenda admitir fato inexistente ou quando considerar inexistente fato efetivamente ocorrido, sendo indispensável, em ambos os casos, que o fato não represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado.
+De acordo com entendimento consolidado desta Corte, a "ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato" (AgInt na AR n. 6.991/BA, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 5/3/2024, DJe de 7/3/2024).
+No caso, a pretensão da parte autora é no sentido da utilização da ação rescisória como recurso, pois ajuizada com o propósito de reformar o entendimento da relatora no sentido de que, "para fixação da competência para o julgamento do mandamus, mostra-se despicienda a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante, porquanto o critério para fixação da competência é estabelecido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis)" (fls. 162-163).
+Nesse sentido, não se aponta erro de fato, mas erro de julgamento, buscando-se utilizar a ação rescisória como sucedâneo recursal. Ocorre, porém, que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a ação rescisória não pode ser utilizada como sucedâneo de recurso, sendo manifestamente incabível o presente pleito.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AÇÃO RESCISÓRIA. ERRO DE FATO. INOCORRÊNCIA. MANIFESTA VIOLAÇÃO A NORMA JURÍDICA. INDICAÇÃO DE DISPOSITIVO SEM RELAÇÃO COM O CASO.
+1. Nos termos da jurisprudência do STJ, "para a configuração do erro de fato apto a ensejar a propositura da rescisória, é necessário a) que o julgamento rescindendo tenha sido fundado no erro de fato; b) que o erro possa ser apurado com base nos documentos que instruem os autos do processo originário; c) que ausente controvérsia sobre o fato; e d) que inexista pronunciamento judicial a respeito do fato" (AR n. 6.980/DF, Rel. Min. Gurgel de Faria, Primeira Seção, julgado em 28/9/2022).
+2. In casu, o autor não aponta erro de fato, mas apenas se insurge contra o resultado do que foi expressamente decidido pela Primeira Turma: para desconstituir as conclusões adotadas pelo Tribunal Regional Federal da 4ª Região, é indispensável o reexame do conjunto fático-probatório dos autos.
+3. Por outro lado, o art. 116 do CPC, que trata do litisconsórcio unitário, não tem relação com o tema debatido, tornando a pretensão manifestamente incabível.
+4. Agravo Interno não provido.
+(AgInt na AR n. 7.739/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 20/8/2024, DJe de 23/8/2024.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ERRO DE FATO. NÃO OCORRÊNCIA. UTILIZAÇÃO DA DEMANDA COMO SUCEDÂNEO RECURSAL. DESCABIMENTO.
+1. A desconstituição da coisa julgada com base no art. 966, VIII, do CPC/2015 pressupõe que a decisão rescindenda tenha admitido fato inexistente ou considerado inexistente fato efetivamente ocorrido, "sendo indispensável, em ambos os casos, que o fato não represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado" (§ 1º).
+2. Não há como reconhecer que se trata de erro de fato verificável ao exame dos autos, porquanto inexistiu apreciação da controvérsia trazida na exordial da presente demanda, na medida em que o recurso especial não foi conhecido diante da aplicação da Súmula 7 do STJ.
+3. Caso em que a ação rescisória está sendo indevidamente utilizada como sucedâneo recursal, pois a pretensão deduzida não diz respeito a eventual vício de formação da coisa julgada, mas sim à revisão de interpretação jurídica adotada pela decisão impugnada.
+4. Agravo interno desprovido.
+(AgInt na AR n. 7.402/ES, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 27/6/2023, DJe de 30/6/2023.)
+Ante o exposto, com fundamento no artigo 34, XVIII, do RISTJ, indefiro a petição inicial. Julgo prejudicado o pedido de liminar.
+Publique-se.
+Intimem-se.
+EMENTA
+AÇÃO RESCISÓRIA. PROCESSO CIVIL E ADMINISTRATIVO. VIOLAÇÃO LITERAL A DISPOSITIVOS DE LEI. AUSÊNCIA DE DEMONSTRAÇÃO. ALEGAÇÃO DE ERRO DE FATO. UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. PEDIDO IMPROCEDENTE.
