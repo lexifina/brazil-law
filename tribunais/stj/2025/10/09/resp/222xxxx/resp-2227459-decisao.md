@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto com base na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado (fl. 99):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO EM EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NECESSIDADE DE INDICAÇÃO DO VALOR EQUIVALENTE AO EXCESSO DE EXECUÇÃO NA PETIÇÃO INICIAL, AINDA QUE O EMBARGANTE SEJA BENEFICIÁRIO DA GRATUIDADE JUDICIÁRIA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Apelação cível interposta contra sentença que julgou improcedentes os embargos à execução de título extrajudicial, reputando prejudicada a alegação de excesso de execução, diante da ausência de indicação do valor equivalente, condenando a parte embargante às custas processuais e honorários advocatícios, observada a gratuidade judiciária.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em: i) analisar a impugnação à gratuidade da parte recorrente, realizada pela parte recorrida; ii) verificar se a parte beneficiária da gratuidade judicial está dispensada de indicar, na petição inicial dos embargos à execução, o valor equivalente à alegação de excesso de execução, de modo que o cálculo seja realizado pela contadoria do juízo.
+III. RAZÕES DE DECIDIR
+3. Quando alegar que o exequente, em excesso de execução, pleiteia quantia superior à do título, o embargante deverá indicar na petição inicial o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo, sob pena de rejeição liminar da defesa, sendo este seu único fundamento, ou de não conhecimento da alegação, se houver outras teses, conforme art. 917, § 3º e 4º, do CPC.
+4. Excepcionalmente, nas hipóteses em que o devedor não é encontrado e sua defesa é realizada por advogado dativo ou pela Defensoria Pública na condição de curadora especial, é possível flexibilizar a exigência prevista no art. 917, §3º, do CPC, determinando que a contadoria do juízo realize os cálculos necessários, consoante precedente do Superior Tribunal de Justiça.
+5. No caso em questão, não há impedimento para que a parte embargante apresente os cálculos necessários à demonstração do excesso alegado, já que, embora seja beneficiária da gratuidade judiciária, possui contato com a Defensoria Pública.
+6. Diante da alegação de que o excesso decorreria da indevida capitalização dos juros, tese demonstrável por simples cálculos aritméticos, não haveria necessidade de realização de cálculos mais complexos a demandar a atuação de contador judicial ou privado.
+7. Com a manutenção da sentença, majoram-se os honorários advocatícios para 12% (doze por cento) sobre o valor atualizado da causa.
+IV. DISPOSITIVO E TESE
+8. Recurso conhecido e desprovido.
+(..)
+Nas razões do recurso especial, as recorrentes alegam que o acórdão recorrido violou os arts. 98, § 1º, VII, e 917, §§ 3º e 4º, do Código de Processo Civil.
+Sustentam que a exigência de apresentação de memória de cálculo, na hipótese dos autos, viola os princípios do contraditório, ampla defesa e devido processo legal, especialmente considerando sua condição de hipossuficiência e o fato de serem assistidas pela Defensoria Pública.
+Aduzem que o art. 98, § 1º, VII, do CPC, que inclui o custo com a elaboração de memória de cálculo no rol de benefícios da gratuidade de justiça, deveria ser aplicado ao caso, permitindo a remessa dos autos à contadoria judicial para elaboração dos cálculos.
+Argumentam que a negativa de acesso à contadoria judicial compromete os princípios da cooperação processual, primazia do mérito e acesso à justiça.
+O Banco do Nordeste do Brasil S/A apresentou contrarrazões (fls. 217-220).
+Assim delimitada a controvérsia, passo à análise do recurso.
+Assiste razão à parte recorrente.
+Na hipótese, a despeito do reconhecimento do fato de que a parte é financeiramente hipossuficiente e de que foi deferida a gratuidade de justiça a seu favor, houve a apresentação de embargos à execução, desacompanhados de memória de cálculo e de indicação dos montantes que correspondem ao valor incontroverso e ao valor cobrado em excesso, todavia foram rejeitados liminarmente pela Corte local, conforme se depreende do trecho do acórdão abaixo reproduzido (fls. 105 - 110):
+Na espécie, as provas constantes dos autos permitem a conclusão de que existe uma situação de hipossuficiência econômica da parte autora, conforme declarado por ela (fl. 12) e comprovado pelos resultados negativos de busca de bens e valores por meio de Sisbajud, Renajud (fls. 96/102; fls. 117/137, dos autos de origem nº 0000065-17.2014.8.02.0052). Também não há outros elementos nos autos que infirmem o indicativo de hipossuficiência. Diante do exposto, fica afastada a alegação da instituição nessa medida.
+Ultrapassadas as preliminares recursais, presentes os requisitos extrínsecos e intrínsecos de admissibilidade recursal, toma-se conhecimento do presente recurso e passa-se à análise meritória.
+Conforme relatado, o cerne da controvérsia posta à apreciação deste Tribunal de Justiça cinge-se à discussão sobre a tese de desnecessidade de observar a previsão legal do art. 917, § 3º, do CPC, a qual determina que o embargante, ao alegar excesso, deverá declarar o valor que entende correto, mediante demonstrativo discriminado e atualizado do cálculo, por se tratar de parte economicamente vulnerável.
+De início, cumpre destacar que, quando a parte embargante alegar excesso de execução, deverá indicar de imediato, na petição inicial de sua defesa, o valor que entende correto, apresentando demonstrativo discriminado e atualizado do seu cálculo.
+Se inobservado tal comando legal, os embargos à execução deverão ser rejeitados liminarmente caso o excesso à execução seja seu único fundamento, ou, havendo outros fundamentos, processará a defesa sem examinar a alegação de excesso, nos termos do art. 917, §§3º e 4º do Código de Processo Civil, (..).
+No presente caso, a parte embargante, ora apelante, alega que tal disposição normativa deveria ser afastada ao caso, uma vez que não teria indicado o suposto excesso à execução, nem trazido os respectivos cálculos, por se tratar de parte hipossuficiente, inclusive sob assistência da Defensoria Pública, de maneira que os cálculos deveriam ser realizados pela contadoria do juízo, com fundamento no art. 98, § 1º, VII, do CPC. Confira-se o teor do dispositivo citado:
+(..)
+De acordo com o entendimento sedimentado pelo SUPERIOR TRIBUNAL DE JUSTIÇA sobre o assunto, nas hipóteses em que a Defensoria Pública atua como curadora especial, impor ao órgão a obrigação de realizar os cálculos para viabilizar a defesa do executado implicaria, na prática, transferir aos servidores do referido órgão o ônus de arcar, às próprias custas, com os valores necessários ao correto cálculo do excesso.
+(..)
+No presente caso, contudo, a Defensoria Pública não atua como curadora especial. Em outras palavras, o órgão de defesa possui contato com a parte por ela representada, o que permite que esta promova, às suas expensas, os cálculos necessários para explicitar o montante do alegado excesso à execução.
+Além disso, no presente caso, a alegação de excesso se funda apenas na alegação de impossibilidade de capitalização dos juros (fl. 3), no sentido de que "Os cálculos da dívida foram realizados em verdadeiro anatocismo (juros sobre juros), principalmente para prevenir o superendividamento, nos termos da Lei nº 14.181/21" (sic).
+Contudo, tal alegação é possível de ser subsidiada por simples cálculos aritméticos; não se mostram necessários nenhuma perícia contábil ou cálculo mais complexo para se chegar ao valor corrigido do débito, com exclusão da capitalização dos juros. Tal fato evidencia que a alegação de excesso não depende, necessariamente, de cálculo a ser realizado por contador.
+Atente-se que a tese recursal, prejudicial à alegação do excesso, constitui a única tese recursal, à vista dos princípios da adstrição e da congruência (arts. 141, 492, do CPC). Assim, diante da configuração concreta do caso, não há elementos suficientes para afastar os fundamentos da sentença apelada, impondo-se o não provimento do recurso ora interposto.
+Respectiva conclusão, todavia, não encontra respaldo na jurisprudência desta Corte Superior, para a qual, a parte que litiga sob o pálio da gratuidade de justiça tem direito a utilizar a contadoria do juízo para fins de apresentação de planilha de cálculos a embasar os embargos à execução, independentemente da complexidade dos cálculos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. MEMÓRIA DE CÁLCULO NÃO APRESENTADA. REMESSA À CONTADORIA. PARTE REPRESENTADA PELA DEFENSORIA PÚBLICA. VIABILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. "O fato de o recorrente, na hipótese, já estar sendo representado pela Defensoria Pública não lhe retira a possibilidade de poder se utilizar dos serviços da contadoria judicial, como beneficiário da assistência judiciária" (REsp 1.200.099/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 6/5/2014, DJe de 19/5/2014).
+Precedentes.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.565.987/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BENEFICIÁRIO DA AJG. EXECUÇÃO DE SENTENÇA. REMESSA À CONTADORIA JUDICIAL PARA CONFECÇÃO DE CÁLCULOS. DIREITO DO BENEFICIÁRIO INDEPENDENTEMENTE DA COMPLEXIDADE.
+1. Esta Corte consolidou jurisprudência no sentido de que o beneficiário da assistência judiciária gratuita tem direito à elaboração de cálculos pela Contadoria Judicial, independentemente de sua complexidade. Precedentes.
+2. Recurso especial a que se dá provimento.
+(REsp n. 1.725.731/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/11/2019, DJe de 7/11/2019.)
+Em face do exposto, dou provimento ao recurso especial, determinando o retorno dos autos à origem para que seja viabilizada a realização dos cálculos necessários à instrução dos embargos à execução, por meio da contadoria judicial da Corte local, proferindo-se novo acórdão conforme entenda de direito.
+Intimem-se.
+EMENTA
