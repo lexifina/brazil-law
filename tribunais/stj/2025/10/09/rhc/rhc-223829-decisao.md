@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JOÃO DJALMA PRESTES JÚNIOR (como indicado nas peças) ou JOAO PRESTES LOURENCO (conforme o CPF registrado e autuação desta Casa).
+O recorrente impugna o acórdão proferido pelo Tribunal de Justiça de São Paulo no Agravo Interno Criminal n. 2066087-30.2025.8.26.0000/50000, que manteve a decisão de não conhecimento do habeas corpus (fls. 101/106).
+Alega, em síntese, que o sequestro patrimonial decretado em seu desfavor há mais de três anos, nos Autos n. 1501310-64.2021.8.26.0152, da Vara Criminal da comarca de Cotia/SP, configura constrangimento ilegal, por violação do art. 131, I, do Código de Processo Penal, uma vez que não houve oferecimento de denúncia no prazo legal de 60 dias após a conclusão da diligência.
+Sustenta que a manutenção da medida assecuratória sem a formalização da ação penal acarreta severos prejuízos pessoais, profissionais e financeiros, destacando que a medida cautelar já extrapolou em muito o prazo máximo permitido pela legislação.
+Aduz que a decisão que manteve o sequestro patrimonial carece de fundamentação adequada, sendo baseada em argumentos genéricos sobre a complexidade do caso, sem apresentar elementos concretos que justifiquem a continuidade da medida.
+Alega que a jurisprudência do Superior Tribunal de Justiça admite a utilização de habeas corpus para discutir constrições patrimoniais em casos de manifesta ilegalidade ou abuso de poder, citando precedentes que reconhecem o excesso de prazo como fundamento para o levantamento de medidas assecuratórias.
+Pede, em caráter liminar e no mérito, a revogação imediata, em todo ou em parte, das medidas assecuratórias decretadas em seu desfavor.
+Contrarrazões apresentadas pela Procuradoria de Justiça Criminal, aduzindo que o habeas corpus é inadequado para impugnar medidas assecuratórias de natureza patrimonial, salvo em hipóteses excepcionais de manifesta ilegalidade ou abuso de poder, o que não se verifica no caso. Argumenta que a decisão que decretou o sequestro está devidamente fundamentada na gravidade concreta dos fatos apurados, envolvendo organização criminosa, prejuízo superior a um milhão de dólares, e a pessoa do recorrente foi identificada como o líder da organização, utilizou identidade falsa ("João Pereira") para firmar contrato fraudulento de empréstimo internacional, tendo sido reconhecido pela vítima e posteriormente preso nos Estados Unidos por crimes correlatos (fl. 132). Menciona que a complexidade da apuração, que envolve remessas internacionais, múltiplos investigados e cooperação jurídica internacional, justifica o tempo decorrido e afasta a alegação de excesso de prazo (fls. 132/133).
+Estes autos foram a mim distribuídos por prevenção.
+Indeferi o pedido liminar (fls. 141/143).
+O Juízo de Direito e o Tribunal estadual prestaram informações (fls. 149/156 e 157/159).
+O Ministério Público Federal emitiu parecer nos termos desta ementa (fl. 161):
+RECURSO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE ORGANIZAÇÃO CRIMINOSA (ORCRIM) E LAVAGEM DE CAPITAIS (ARTIGO 2º DA LEI N.º 12.850/2013 E ART. 1º DA LEI N.º 9613/98). TESES DE LEVANTAMENTO DE SEQUESTRO DE BENS E DE EXCESSO DE PRAZO. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM. DESCABIMENTO. SUPRESSÃO DE INSTÂNCIA. DILAÇÃO PROBATÓRIA INCOMPATÍVEL COM A VIA ELEITA. INFORMAÇÕES NO SENTIDO DE QUE FOI OFERECIDA DENÚNCIA CONTRA O ORA RECORRENTE. AUSÊNCIA DE CONSTRANG IMENTO ILEGAL. PARECER PELO NÃO PROVIMENTO DO PRESENTE RECURSO.
+É o relatório.
+O recurso não deve ser conhecido.
+Primeiro, foi inadequada a escolha da via do habeas corpus para buscar o levantamento de medidas assecuratórias patrimoniais. Sobre o tema, basta a leitura deste precedente do Supremo Tribunal Federal:
+RECURSO EXTRAORDINÁRIO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. CONSTITUCIONAL. HABEAS CORPUS. INEXISTÊNCIA DE OFENSA À LIBERDADE DE IR E VIR. QUESTÃO MERAMENTE PATRIMONIAL. INADEQUAÇÃO DA AÇÃO CONSTITUCIONAL DE HABEAS CORPUS PARA AFASTAR MEDIDA CAUTELAR EXCLUSIVAMENTE PATRIMONIAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+(RE n. 1.383.758/SP, Ministra Cármen Lúcia, Primeira Turma, DJe de 10/6/2024.)
+Segundo, o recurso em análise não se enquadra no disposto no art. 105, II, a, da Constituição Federal de 1988.
+Terceiro, nem o Tribunal estadual nem o Juízo de primeiro grau debateram a questão envolvendo o alegado excesso de prazo, é o que se depreende da leitura do acórdão recorrido e destas informações (fls. 152/153):
+ ..  Em 04 de setembro de 2025, o Ministério Público ofereceu denúncia contra o paciente, Herminio Ribeiro Dias Cruz, Hugo Valdivia Oliver, Hélio Tadeu Moreira, Kevin Lucas Carsten Socha e Silmara Lourenço de Assis Prestes. O paciente foi denunciado como incurso no art. 1º, § 4º, da Lei nº 9.613/98, e art. 2º, §4º, da Lei nº 12.850/2013, na forma do art. 69 do Código Penal (fls. 995/1004).
+A denúncia foi recebida em 04 de setembro de 2025 (fls. 1006/1007).
+Foram apresentadas respostas à acusação pelos réus Kevin (fls. 1018/1031) e Hugo (fls. 1081/1082).
+Aguardam-se os autos principais a citação e oferecimento de resposta à acusação pelos demais acusados.
+(ii) Nos autos tombados sob nº 1501310-64.2021.8.26.0152, a Autoridade Policial ofereceu em 09 de setembro de 2021 representação para decretação de sequestro e bloqueio de bens e valores pertencentes ao paciente, dentre outros. Após manifestação do Ministério Público (fls. 171/179), foi deferido pelo juízo, em decisão de 16 de setembro de 2021, o sequestro e bloqueio de bens e valores pertencentes aos então averiguados, incluído o ora paciente (fls. 181/188).
+Consta do referido processo cautelar que, em relação ao paciente Djalma, foi arrestado o imóvel de matrícula 109.742 do Registro de Imóveis de Sumaré/SP (fls. 213/218).
+Em 02 de agosto de 2024, a defesa de Kevin requereu o levantamento da medida cautelar (fls. 380/384); em manifestação de 02 de dezembro de 2024, foi a vez da defesa de Hugo e Neide requerer o desbloqueio de bens (fls. 402/407). Não houve pedido de desbloqueio/levantamento de medidas constritivas pela defesa do paciente.
+Em decisões de 18 de agosto de 2024 e 28 de fevereiro de 2025, o juízo indeferiu pedidos de Kevin, Hugo e Neide pelo levantamento das constrições (fls. 395/396 e 430/431).  ..
+Quarto, já houve o oferecimento de denúncia contra o recorrente relativa ao Inquérito n. 1500860-58.2020.8.26.0152.
+Quinto, ainda ressaltou a parecerista a inviabilidade de apreciação da tese de ausência de provas de autoria, por demandar profunda incursão no conjunto de fatos e provas dos autos, providência incompatível com o rito célere do habeas corpus, desprovido de dilação probatória (fl. 165).
+Por essas razões, não conheço deste recurso.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE CAPITAIS. LEVANTAMENTO DE MEDIDAS ASSECURATÓRIAS PATRIMONIAIS. ALEGAÇÃO DE EXCESSO DE PRAZO DO INQUÉRITO POLICIAL. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTE DO STF. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE APRECIAÇÃO DA TESE EM PRIMEIRO E EM SEGUNDO GRAU DE JURISDIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INOBSERVÂNCIA DO ART. 105, II, A, DA CF. DENÚNCIA OFERECIDA E RECEBIDA NA ORIGEM.
+Recurso não conhecido.
