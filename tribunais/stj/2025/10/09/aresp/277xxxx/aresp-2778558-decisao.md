@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo (Apelação Criminal n. 0003206-95.2016.8.26.0637) que manteve a condenação de JOSELIA ALMEIDA DOS SANTOS SOUZA pela prática do delito de lesão corporal.
+Nas razões do recurso especial, a defesa da agravante pretende a revisão da dosimetria da pena para que, reconhecida a atenuante da confissão espontânea, seja a pena fixada abaixo do mínimo legal, bem como para que seja reconhecida a incidência da causa de diminuição de pena, prevista no § 4º do art. 129 do Código Penal, uma vez que a recorrente praticou o delito movida por um relevante valor moral e por uma violenta emoção, reagindo de forma impulsiva ao flagrar seu marido em relacionamento extraconjugal (fl. 602).
+A Corte de origem negou seguimento a um dos tópicos do recurso especial, com base no Tema 190 do STJ (na forma do art. 1.030, I, b, do CPC), e, no mais, inadmitiu o reclamo com fundamento nas Súmulas 7 e 283/STJ (fls. 617/619).
+Contra o decisum, a defesa interpôs o presente agravo (fls. 625/631).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 650/655).
+É o relatório.
+A decisão agravada ostenta conteúdo híbrido, de modo que, no tópico em que foi negado seguimento ao recurso - redução da pena aquém do mínimo legal -, seria adequada a interposição de agravo interno no Tribunal a quo, o que não ocorreu no caso, circunstância que atrai a incidência do princípio da preclusão, especificamente na parte em que se verificou a negativa de seguimento.
+Nesse sentido, confiram-se: AgInt no RE nos EDcl no AgInt no AREsp n. 1.866.098/PR, Ministro Jorge Mussi, Corte Especial, DJe 25/3/2022; AgInt no REsp n. 1.920.307/PR, Ministro Luis Felipe Salomão, Quarta Turma, DJe 15/12/2021.
+Quanto ao tópico remanescente - incidência da causa de diminuição de pena, prevista no § 4º do art. 129 do Código Penal -, em que se verificou a inadmissão do recurso especial, afigura-se adequada a interposição de agravo dirigido a esta Corte (art. 1.030, § 1º, c/c o art. 1.042, ambos do CPC), sendo o reclamo admissível, pois impugnou os fundamentos da decisão de inadmissão.
+De outra parte, no tocante ao recurso especial em si, não há como conhecê-lo.
+Com efeito, o acórdão recorrido, ao julgar o tema, asseverou que não há que se argumentar no reconhecimento da causa de diminuição prevista no artigo 129, parágrafo 4º, do Código Penal, uma vez que não restou comprovada nos autos a injusta provocação da vítima capaz de produzir violenta emoção na acusada. Não se pode ignorar que a ré foi até lugar onde estava a ofendida e Jorge, momento em que ocorreu o entrevero. Além disso, a infidelidade conjugal não justifica uma reação violenta e desproporcional, como uma agressão física com golpes de faca (fl. 584).
+Nesse contexto, a inversão do julgado, a fim de reconhecer que a ré agiu por violenta emoção, demandaria o revolvimento do material cognitivo produzido no curso da instrução criminal, o que é vedado pelo enunciado da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL GRAVE. DECISÃO AGRAVADA QUE OSTENTA CONTEÚDO HÍBRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO NO TÓPICO EM QUE FOI NEGADO SEGUIMENTO AO RECURSO. PRECLUSÃO. INTERPOSIÇÃO DE AGRAVO (ART. 1.042 DO CPC) CONTRA O TÓPICO EM QUE O RECLAMO FOI INADMITIDO. ADEQUAÇÃO. ADMISSIBILIDADE DO AGRAVO. RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+Agravo conhecido para não conhecer do recurso especial.
