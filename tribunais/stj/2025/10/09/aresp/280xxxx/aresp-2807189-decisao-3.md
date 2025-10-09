@@ -1,0 +1,39 @@
+DECISÃO
+VALDENI GOUVÊA interpõe agravo em recurso especial contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal nos autos da apelação criminal n. 1005298-56.2017.8.26.0358.
+Consta dos autos que o recorrente foi condenado à pena de 2 anos e 6 meses de reclusão, em regime aberto, e ao pagamento de 12 dias-multa, pela prática do crime tipificado no art. 90 da Lei n. 8.666/1993.
+A decisão agravada apontou os seguintes óbices à admissibilidade do especial: a) ausência de impugnação específica de todos os fundamentos do acórdão recorrido, o que atrai a incidência da Súmula n. 283 do STF; e b) a pretensão de reexame fático-probatória, vedada pela Súmula n. 7 do STJ.
+O agravante requer o conhecimento do agravo para que o recurso especial seja admitido e, no mérito, provido para absolvê-lo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 6.019-6.024).
+Decido.
+O agravo é tempestivo. Passo a examinar se impugnou adequadamente todos os fundamentos da decisão agravada, nos termos da Súmula n. 182 do STJ.
+I. Da Súmula n. 283 do STF
+A decisão agravada consignou que "o recurso especial foi interposto sem a fundamentação necessária  ..  pois não foram devidamente atacados todos os argumentos do aresto" (fl. 5.547), aplicando, por analogia, o óbice da Súmula n. 283 do STF.
+Para a correta análise deste ponto, é crucial revisitar os fundamentos basilares do acórdão condenatório. A condenação do recorrente foi alicerçada em um conjunto fático específico, notadamente: (a) sua participação ativa e central na fraude, sendo o "responsável pela montagem do processo licitatório e pelo julgamento da Carta Convite nº 7/2010, incluindo a redação do edital" (fl. 5.180), e não um mero partícipe formal; e (b) a comprovação do ajuste prévio por meio de um e-mail contendo as especificações técnicas direcionadas, enviado ao endereço camarademirassol@terra.com.br, cuja titularidade e uso foram atribuídos ao recorrente com base em prova testemunhal (fl. 5.183).
+A decisão de inadmissibilidade, ao invocar o referido óbice, entendeu que o recurso especial não logrou infirmar, de maneira específica e suficiente, cada um desses pilares.
+No agravo em recurso especial, o recorrente busca afastar o óbice, afirmando de maneira genérica que "todos os pontos do V. Acórdão foram citados para justificar a admissibilidade do recurso" (fl. 5.645). A impugnação, contudo, não prospera. O dever da parte agravante, para superar a Súmula n. 283 do STF, não é apenas o de alegar que impugnou os fundamentos, mas o de demonstrar, de forma clara e analítica, como cada um deles foi efetivamente rebatido nas razões do recurso especial.
+A simples asserção de que os pontos foram "citados" é insuficiente e não cumpre com o ônus da dialeticidade recursal. O agravante não se desincumbiu de realizar o cotejo analítico, apontando, por exemplo, em qual trecho de seu recurso especial refutou a conclusão do acórdão sobre sua responsabilidade pela "montagem do processo", ou como sua argumentação sobre a titularidade do e-mail seria suficiente para desconstituir a valoração da prova testemunhal feita pela instância ordinária.
+A impugnação genérica, que não desce ao detalhe de correlacionar os argumentos do recurso com os fundamentos da decisão atacada, equivale à ausência de impugnação. A jurisprudência desta Corte é pacífica no sentido de que não basta a discordância com a decisão, sendo imperativo que o recorrente demonstre o desacerto de cada um de seus fundamentos de forma individualizada.
+Desse modo, ao deixar de demonstrar de que modo cada fundamento autônomo do acórdão condenatório foi efetivamente rebatido nas razões do recurso especial, o agravante falhou em atacar especificamente o fundamento da decisão de inadmissibilidade, o que atrai a incidência da Súmula n. 182 do STJ sobre o presente agravo.
+Nessa perspectiva:
+Tese de julgamento:
+1. A impugnação em agravo regimental deve ser específica e pormenorizada, não bastando a repetição dos argumentos do recurso especial.
+2. A palavra da vítima, corroborada por laudo pericial, é suficiente para fundamentar condenação em crimes no contexto doméstico".
+Dispositivos relevantes citados: CF/1988, art. 105, III, "a"; CPP, art. 386, VII; CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I. Jurisprudência relevante citada: STJ, Súmula 83; STJ, Súmula 182.
+(AgRg no AREsp n. 2.836.315/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+II. Da Súmula n. 7 do STJ
+A decisão de inadmissibilidade assentou que a análise do pleito absolutório demandaria o reexame do acervo fático-probatório, providência vedada pelo verbete da Súmula n. 7 do STJ (fl. 5.548).
+O agravante, em seu recurso, alega que a questão é puramente de direito. Contudo, ao confrontar as teses defensivas veiculadas no recurso especial com os fundamentos do acórdão recorrido, constata-se que a pretensão, de fato, exige a reanálise de matéria fática.
+As teses centrais da defesa para buscar a absolvição são: a) ausência de dolo e de conluio para fraudar o certame; b) atuação restrita às funções formais da comissão de licitação, sem participação na fase interna do procedimento; e c) atipicidade da conduta por ausência de vantagem indevida. A análise de cada uma dessas teses, invariavelmente, encontra óbice na Súmula n. 7 do STJ.
+Primeiramente, quanto à alegada ausência de dolo e de conluio, o Tribunal de origem, soberano na análise das provas, concluiu pela existência de ambos os elementos. Fundamentou sua decisão na análise de provas documentais, como a troca de e-mails que direcionaram as especificações técnicas do edital, e em depoimentos, como o da testemunha que confirmou a titularidade do e-mail utilizado na fraude (fl. 5.183).
+Para esta Corte Superior acolher a tese defensiva, seria imprescindível reexaminar tais documentos e depoimentos para extrair conclusão diversa daquela alcançada pela instância ordinária, o que é vedado.
+Da mesma forma, a tese de que a atuação do recorrente foi restrita à fase externa do certame busca desconstituir uma premissa fática estabelecida no acórdão.
+A decisão recorrida foi clara ao afirmar que o recorrente "viabilizou a execução do delito, pois foi o responsável pela montagem do processo licitatório e pelo julgamento da Carta Convite nº 7/2010, incluindo a redação do edital" (fl. 5.180).
+Infirmar tal conclusão - para então assentar que sua participação foi meramente formal - exigiria a reanálise do procedimento licitatório e do conjunto probatório para redimensionar o seu grau de envolvimento, o que constitui nítido reexame de fatos.
+Por fim, a alegação de atipicidade por ausência de vantagem indevida não se sustenta. O acórdão consignou que o crime do art. 90 da Lei n. 8.666/1993 é de natureza formal, consumando-se com a mera frustração do caráter competitivo da licitação, sendo "independentemente de demonstração de recebimento de vantagem indevida pelo agente" (fl. 5.183).
+A análise do elemento subjetivo específico - o intuito de obter, para si ou para outrem, vantagem - confunde-se com a própria análise do dolo, já rechaçada pelo óbice sumular.
+Portanto, o agravante não logrou demonstrar que a análise de suas teses recursais prescinde do reexame de fatos e provas. A impugnação ao óbice da Súmula n. 7 do STJ foi genérica, atraindo a incidência da Súmula n. 182 do STJ.
+A argumentação desenvolvida no agravo revela-se, assim, insuficiente para infirmar os sólidos fundamentos da decisão que negou seguimento ao recurso especial, o que obsta o conhecimento do presente recurso.
+III. Dispositivo
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
