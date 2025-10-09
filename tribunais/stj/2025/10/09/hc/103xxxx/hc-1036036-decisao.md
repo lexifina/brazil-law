@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEANDRO SILVA DE ANDRADE, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão de decisão monocrática proferida nos autos da Revisão Criminal n. 2297295-48.2025.8.26.0000, pelo Desembargador Relator, que teria indeferido medida liminar de suspensão da execução da pena.
+Consta dos autos que o paciente foi condenado às penas de 9 anos e 4 meses de reclusão no regime inicial fechado, como incurso no art. 121, § 2º, incisos I e IV, c/c o art. 14, inciso II, ambos do Código Penal.
+A defesa sustenta que a manutenção da custódia do paciente caracterizaria teratológico constrangimento ilegal, porquanto a condenação teria sido fundamentada em provas que esta Corte Superior sistematicamente rechaçaria como imprestáveis, impondo a superação do óbice da Súmula 691/STF, em razão de flagrante ilegalidade, teratologia ou abuso de poder.
+Expõe que a condenação teria sido edificada sobre um tripé probatório integralmente nulo: (i) depoimento colhido com quebra de sigilo ministerial de líder religioso, obtido no exercício do ministério espiritual do declarante, em afronta direta ao art. 207 do Código de Processo Penal; (ii) reconhecimento fotográfico inválido, realizado por "show-up" de única fotografia após insucesso inicial, com inobservância das formalidades do art. 226 do Código de Processo Penal e em violação à jurisprudência desta Corte; e (iii) testemunho indireto e anônimo ("hearsay testimony") sobre a placa de veículo, sem identificação da fonte primária e sem o crivo do contraditório, imprestável como suporte condenatório.
+Ressalta, quanto ao primeiro pilar, que a investigação teria chegado ao nome do paciente por meio da "Testemunha Reservada nº 09/2013", líder religioso que teria obtido as informações no exercício do seu ministério, situação proibida pelo art. 207 do CPP, sendo a prova ilícita na origem, contaminada pelos "frutos da árvore envenenada", na forma do art. 157 do CPP.
+Destaca, relativamente ao segundo pilar, que o reconhecimento fotográfico teria sido realizado em afronta ao art. 226 do CPP, por exibição de única fotografia após tentativa inicial negativa, prática indutiva e geradora de viés de confirmação, cuja inobservância das formalidades mínimas, conforme a orientação desta Corte no HC 598.886/SC, não constituiria mera irregularidade, mas nulidade absoluta, sendo o ato inválido e imprestável para sustentar a condenação.
+Alega, no que toca ao terceiro pilar, que o testemunho indireto e anônimo sobre a placa de veículo, sem produção em juízo e sem contraditório, destituir-se-ia de confiabilidade e valor probatório, não podendo suportar imputação grave.
+Argumenta que, em síntese, as nulidades somadas revelariam uma ilegalidade de dimensão teratológica, impondo intervenção imediata desta Corte para sustar a execução da pena.
+Requer, liminarmente, a concessão da ordem para suspender a execução da pena com expedição de alvará de soltura até o julgamento definitivo; no mérito, concessão definitiva do habeas corpus para anular o processo ab initio, desde a colheita das provas ilícitas, ou, subsidiariamente, cassar a decisão coatora e determinar que o TJSP reaprecie com urgência o pedido liminar na Revisão Criminal.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691/STF, tendo em vista que o paciente foi denunciado pela suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental não provido.
+(AgRg no HC n. 907.691/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. SÚMULA N. 691 DA SUPREMA CORTE.
+IMPOSSIBILIDADE DE SUPERAÇÃO. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. No caso, não se constata, prima facie, flagrante ilegalidade que autorize a mitigação da Súmula n. 691, da Suprema Corte, tendo em vista a indicação de necessidade da prisão cautelar para garantia da ordem pública a fim de impedir a continuidade das atividades criminosas.
+3. Não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso a esta Corte Superior adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 872.481/RO, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+Ademais, análise das nulidades apontadas, exige uma análise mais aprofundada do mérito do próprio writ, cabendo, em primeiro lugar, ao Tribunal impetrado proceder a essa avaliação. Assim, é vedado a esta Corte Superior antecipar-se nesse exame, sob pena de indevida usurpação da competência da instância originária.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
