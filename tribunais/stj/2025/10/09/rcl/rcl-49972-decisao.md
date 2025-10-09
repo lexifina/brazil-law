@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Francisco Gomes de Moura, buscando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 255):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. REAJUSTE DE PLANO DE SAÚDE POR FAIXA ETÁRIA. NEGATIVA DE SEGUIMENTO FUNDADA EM TEMAS REPETITIVOS. DESPROVIMENTO.
+I. CASO EM EXAME 1.1. Agravo interno interposto por usuário de plano de saúde administrado por entidade de autogestão (GEAP), em face de decisão monocrática que, no juízo de admissibilidade, negou seguimento ao recurso especial, por aplicação dos Temas Repetitivos 952 e 1.016 do Superior Tribunal de Justiça.
+1.2. O recorrente sustenta que a decisão impugnada não analisou adequadamente o conteúdo probatório trazido aos autos, além de desvirtuar o foco recursal, ao supostamente acrescentar fundamentos sequer cogitados no recurso especial, utilizando-se de motivação genérica.
+II. QUESTÃO EM DISCUSSÃO 2. Discute-se se a negativa de seguimento ao recurso especial, ao aplicar os Temas Repetitivos 952 e 1.016 do STJ, teria incorrido em omissão ou cerceamento de defesa, notadamente pelo não enfrentamento de argumentos e provas que apontariam abusividade no reajuste das mensalidades do plano de saúde.
+III. RAZÕES DE DECIDIR 3.1. Os precedentes obrigatórios estabelecidos pelo CPC/2015 exigem a conformidade das instâncias ordinárias às teses jurídicas firmadas em recursos repetitivos, salvo demonstração de incompatibilidade fático-jurídica.
+3.2. Constatou-se que o acórdão recorrido concluiu pela legalidade do reajuste por faixa etária em plano de autogestão, à luz de estudos atuariais e sem aplicação do Código de Defesa do Consumidor (Súmula 608/STJ).
+3.3. As alegações de suposta abusividade no aumento das contribuições demandariam reexame de cláusulas contratuais e provas, vedado em recurso especial (Súmulas 5 e 7/STJ).
+3.4. Inexistiu desvio de foco ou omissão, pois a decisão monocrática apenas reconheceu a compatibilidade do acórdão recorrido com os Temas 952 e 1.016 do STJ, apresentando fundamentação sucinta, porém suficiente.
+IV. DISPOSITIVO E TESE 4. Agravo interno conhecido e desprovido.
+Tese de julgamento: "1. A aplicação dos Temas 952 e 1.016 do STJ legitima o reajuste das mensalidades de plano de saúde por faixa etária em entidades de autogestão, afastando-se a incidência do CDC." "2. A tese recursal de abusividade no reajuste, a depender da reanálise de cláusulas contratuais e revolvimento de provas, não enseja revisão em sede de recurso especial."
+___________________
+Dispositivos relevantes citados: CF/1988, art. 105, III, "a"; CPC, arts. 1.030, §2º, 1.042, 927 e 489, §1º, VI.
+Jurisprudência relevante citada: STJ, Temas 952 e 1.016 (Recursos Repetitivos); STJ, Súmulas 5, 7 e 608.
+Aduz que o Tribunal de origem "deixou de se restringir ao controle do art. 1.030, I, do CPC, e passou a justificar o não seguimento do recurso especial com base em pressupostos de admissibilidade previstos no art. 1.030, V, cuja apreciação é de competência exclusiva do Superior Tribunal de Justiça, conforme os arts. 1.030, § 1º, e 1.042 do CPC. Simultaneamente, manteve indevidamente trancado o Agravo em Recurso Especial, a despeito dos pedidos expressos de destrancamento formulados pela parte reclamante" (fl. 4).
+Assim  posta  a  questão,  fica  claro  que  a  reclamação  não  foi  manejada  para  preservar  a  competência  desta  Corte  nem  para  garantir  a  autoridade  de  suas  decisões,  mas,  simplesmente,  com  o  propósito  de  reformar  acórdão  proferido pelo  Tribunal  de  origem,  não  se  verificando,  pois,  nenhuma  das  hipóteses  previstas  nos  artigos  105,  I,  "f",  da  Constituição  Federal  e  988  do  Código  de  Processo  Civil  de  2015,  mostrando-se  totalmente  incompatível  com  os  objetivos  tutelados  pelo  instituto  processual-constitucional  da  reclamação,  tornando  inviável  o  seu  seguimento,  já  que  utilizada  com  claro  propósito  de  reforma  do  julgado.
+Nesse  sentido  são,  entre  diversos  outros,  os  seguintes  precedentes  desta  Corte:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NA  RECLAMAÇÃO.  APLICAÇÃO  DE  REPETITIVO.  SUCEDÂNEO  RECURSAL.  IMPOSSIBILIDADE.  DECISÃO  MANTIDA.
+1.  A  Corte  Especial  do  STJ  decidiu  que  a  reclamação  constitucional  não  é  "instrumento  adequado  para  o  controle  da  aplicação  dos  entendimentos  firmados  pelo  STJ  em  recursos  especiais  repetitivos"  (Rcl  36.476/SP,  Relatora  Ministra  NANCY  ANDRIGHI,  CORTE  ESPECIAL,  julgado  em  5/2/2020,  DJe  6/3/2020).
+2.  "A  reclamação  não  é  instrumento  processual  adequado  para  o  exame  do  acerto  ou  desacerto  da  decisão  impugnada,  como  sucedâneo  de  recurso"  (AgInt  na  Rcl  40.171/PR,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  SEGUNDA  SEÇÃO,  julgado  em  1º/9/2020,  DJe  9/9/2020).
+3.  Agravo  interno  a  que  se  nega  provimento. (AgInt  na  Rcl  40.576/DF,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  SEGUNDA  SEÇÃO,  julgado  em  01/12/2020,  DJe  09/12/2020)
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO.  RECLAMAÇÃO.  ART.  988,  II  DO  CPC.  OFENSA  A  DECISÃO  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  NÃO  OCORRÊNCIA.  UTILIZAÇÃO  COMO  SUCEDÂNEO  RECURSAL.  DESCABIMENTO.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Não  é  cabível  reclamação  para  se  verificar  no  caso  concreto  se  foram  realizadas  alienações  judiciais  em  fraude  à  execução,  devendo  a  parte  agravante  valer-se  dos  meios  processuais  pertinentes.
+2.  A  reclamação  não  é  passível  de  utilização  como  sucedâneo  recursal,  com  vistas  a  discutir  o  teor  da  decisão  hostilizada.
+3.  Agravo  interno  não  provido. (AgInt  na  Rcl  40.177/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  SEGUNDA  SEÇÃO,  julgado  em  29/09/2020,  DJe  02/10/2020)
+A  Corte  Especial  do  STJ,  ao  concluir  o  julgamento  da  Rcl  n.  36.476/SP,  de  relatoria  da  Ministra  Nancy  Andrighi,  DJe  6/3/2020,  firmou  entendimento  de  que  não  cabe  o  ajuizamento  de  reclamação  para  garantir  observância  de  tese  firmada  em  recurso  especial  repetitivo.
+Em  face  do  exposto,  com  fundamento  no  art.  34,  XVIII,  do  Regimento  Interno
+do  Superior  Tribunal  de  Justiça,  nego  seguimento  à  reclamação.
+Intimem-se.
+EMENTA
