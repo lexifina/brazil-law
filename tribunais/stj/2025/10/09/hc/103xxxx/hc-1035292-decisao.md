@@ -1,0 +1,29 @@
+DECISÃO
+ALEXANDER MATHEUS DO PRADO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0010180-53.2025.8.26.0502.
+Consta dos autos que o Juízo da Execução Criminal deferiu ao paciente a remição de 4 dias de sua pena, em razão da leitura e elaboração de resenha da obra literária (fl. 63). Inconformado, o Min istério Público interpôs agravo em execução, que foi provido pelo Tribunal de origem para cassar a decisão de primeiro grau (fls. 66-71).
+A defesa alega, em síntese, que a remição da pena por meio da leitura é matéria de direito que se alinha aos objetivos ressocializadores da execução penal. Argumenta que o art. 126 da Lei de Execução Penal comporta interpretação extensiva in bonam partem para abranger a leitura como modalidade de estudo. Invoca, para tanto, a Recomendação n. 44/2013 e a posterior Resolução n. 391/2021, ambas do Conselho Nacional de Justiça, além de precedentes desta Corte Superior.
+Requer a concessão da ordem para que seja restabelecida a decisão de primeiro grau que declarou remidos 4 dias da pena do paciente.
+Não houve pedido de liminar (fl. 2). O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 91-92).
+Decido.
+I. Contextualização
+A controvérsia cinge-se a definir a possibilidade de remição da pena pela leitura de obra literária, com base em interpretação extensiva do art. 126 da Lei de Execução Penal.
+O Juízo da Execução Criminal, ao analisar o pedido, deferiu o benefício sob os seguintes fundamentos (fl. 63):
+ ..
+A remição por leitura tem como escopo fomentar o contato dos(as) sentenciados(as) com a literatura, pois é evidente que tal medida contribui no processo de reinserção social dos apenados, pela capacidade de agregar valores éticos-morais à sua formação. Neste contexto, deve ser ressaltado que a leitura é um trabalho intelectual, encontrando o pleito do apenado respaldo no disposto no art. 5.º, da Resolução 391 do CNJ, de 10.05.2021. Assim, considerando o fato de que o executado apresentou a(s) resenha(s) do(s) livro(s) e respectiva(s) validação (ões), de rigor o acolhimento de sua pretensão. Como o sentenciado procedeu à leitura da(s) obra(s) "Prisioneiras - Drauzio Varella", faz jus à remição de 4 dias de sua pena. Ante o exposto, DECLARO REMIDOS 4 dias da pena do(a) condenado(a) Alexander Matheus do Prado  .. .
+O Tribunal de Justiça do Estado de São Paulo, ao prover o recurso do Ministério Público, cassou o benefício, com base na seguinte argumentação (fls. 66-71):
+ ..
+O artigo 126 da LEP é claro ao conceder a remição por trabalho ou por estudo ao reeducando que cumpre pena em regime fechado ou semiaberto  .. . Assim, verifica-se que não há previsão expressa quanto à concessão de remição por leitura. Ressalte-se que a Resolução n. 391/2021, que revogou a Recomendação n. 44/2013 do Conselho Nacional de Justiça, não equivale à lei em sentido estrito geral e obrigatória. Cumpre ressaltar também que considerar a remição pela leitura como modalidade de remição pelo estudo seria uma indevida ampliação de conceitos.  ..  Somam-se, ainda, as dificuldades de fiscalização do preso que se dedica à leitura e a ofensa ao princípio da igualdade ao tratar os analfabetos e reeducandos com baixa escolaridade de forma diversa, sem acesso à benesse. De rigor, portanto, a reforma da r. decisão impugnada. Isso posto, dá-se provimento ao agravo para cassar a remição de 04 dias de pena concedida ao agravado.
+II. Remição da pena pela leitura
+A decisão do Tribunal de origem destoa da jurisprudência consolidada deste Superior Tribunal de Justiça.
+A Terceira Seção desta Corte, em recente julgamento sob o rito dos recursos repetitivos (Tema 1.278), pacificou o entendimento de que a leitura, para fins de abreviação da pena, deve ser compreendida como espécie do gênero "estudo", previsto no art. 126 da Lei de Execução Penal, o qual admite interpretação extensiva in bonam partem.
+Na ocasião, foi fixada a seguinte tese vinculante:
+Em decorrência dos objetivos da execução penal, a leitura pode resultar na remição de pena, com fundamento no art. 126 da Lei de Execução Penal, desde que observados os requisitos previstos para sua validação, não podendo ser acolhido o atestado realizado por profissional contratado pelo apenado. (REsp n. 2121878/SP, Rel. Ministro OG Fernandes, 3ª s, Dje 19/8/2025).
+O entendimento firmado por esta Corte assenta-se na premissa de que a leitura é instrumento primordial para o estudo e a aprendizagem, elementos essenciais à reabilitação e à reintegração social do apenado, em plena consonância com os objetivos da execução penal.
+A validade do benefício, como ressaltado no precedente vinculante, está condicionada à observância dos procedimentos e diretrizes estabelecidos pela Resolução n. 391/2021 do Conselho Nacional de Justiça, que regulamenta a matéria e estabelece critérios para a validação da leitura, como a elaboração de relatório e sua análise por comissão organizada pelo juízo da execução.
+No caso concreto, o paciente participou do programa de incentivo à leitura, teve sua resenha sobre a obra "Prisioneiras" validada pela comissão competente (fls. 51-55) e obteve a homologação do benefício pelo Juízo de primeiro grau, em estrita conformidade com os requisitos normativos e jurisprudenciais.
+Desse modo, o acórdão impugnado, ao afastar a possibilidade de remição da pena pela leitura com base na ausência de previsão legal expressa e em suposta violação ao princípio da isonomia, incorreu em manifesto constrangimento ilegal por contrariar a jurisprudência vinculante deste Superior Tribunal de Justiça.
+III. Dispositivo
+À vista do exposto, concedo a ordem para restabelecer a decisão do Juízo da Execução Criminal que declarou remidos 4 (quatro) dias da pena do paciente.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
