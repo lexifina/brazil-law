@@ -1,0 +1,14 @@
+DECISÃO
+ROLIVAN CRAVO DE ARQUINO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Revisão Criminal n. 2139689-54.2025.8.26.0000.
+O paciente foi condenado por furto qualificado, como incurso no art. 155, § 1º e § 4º, IV, do Código Penal, a 2 anos, 4 meses e 24 dias de reclusão. A defesa se insurge contra a fixação do regime inicial fechado, apesar da pena fixada inferior a 4 anos. Argumenta que maus antecedentes e reincidência não justificam a escolha mais gravosa, além de caracterizar indevido bis in idem.
+Requer a fixação do regime inicial semiaberto para início do cumprimento da pena.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com base na jurisprudência sobre o tema.
+O art. 621 do Código de Processo Penal estabelece hipóteses estritas em que se admite a flexibilização da coisa julgada penal. Assim, a revisão criminal é cabível quando: i) a sentença condenatória contrariar texto expresso da lei penal ou a evidência dos autos; ii) estiver fundamentada em depoimentos, exames ou documentos posteriormente comprovados como falsos; ou iii) sobrevierem, após a condenação, novas provas que demonstrem a inocência do réu ou revelem circunstância apta a ensejar redução especial da pena.
+No caso, não é cabível a concessão da ordem, pois "Não configura bis in idem a utilização de condenações criminais definitivas distintas para valorar, na primeira fase da dosimetria, os maus antecedentes, e, na segunda fase, a reincidência. A vedação legal é para a dupla valoração de uma mesma condenação" (AgRg no REsp n. 2.111.338/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025).
+Conforme os critérios do art. 33 do CP, "o regime fechado pode ser imposto para penas inferiores a 4 anos, se fundamentado em maus antecedentes e reincidência" (AgRg no AREsp n. 2.902.713/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025).
+A pretensão defensiva vai de encontro aos vetores do art. 33 do CP e ao entendimento desta Corte, pois: "A fixação de regime inicial fechado é justificada pela reincidência e pelos maus antecedentes, mesmo com pena inferior a quatro anos" (AgRg no AREsp n. 2.739.392/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+Deveras, a Súmula 269 deste STJ estabelece que é possível que o regime inicial do cumprimento da pena seja o semiaberto, mesmo para reincidentes que foram condenados a uma pena de até 4 anos de reclusão, desde que as circunstâncias judiciais do Artigo 59 do CP sejam consideradas favoráveis pelo juiz, o que não ocorreu no caso sob exame.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
