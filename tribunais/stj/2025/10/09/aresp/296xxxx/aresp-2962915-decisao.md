@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por VIVIANE PEREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (fl. 252):
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MATERIAIS E MORAIS. COISA JULGADA. LITIGÂNCIA DE MÁ FÉ. Sentença que acolheu a preliminar de coisa julgada e extinguiu o feito, sem resolução do mérito, condenando a autora à pena por litigância de má fé. Recurso exclusivo da parte autora. A controvérsia consiste em verificar se estão presentes os pressupostos para a condenação da autora à pena de litigância por má fé e se seria devida verba sucumbencial à parte apelada. Ocorrência de distribuição de demandas idênticas, em datas distintas, que tem o condão de causar litispendência ou constituir coisa julgada. Conduta que evidencia uma tentativa deliberada de usar do processo para conseguir objetivo ilegal, infringindo o princípio da boa fé objetiva (art. 80, III do CPC). No que toca ao pedido subsidiário formulado, não merece igualmente acolhida a pretensão de afastamento da condenação à indenização fixada, vez que se trata de mera verba sucumbencial devida ao patrono do apelado, ante o princípio da causalidade, sendo certo que a apelante ainda detém o benefício de gratuidade de justiça. Sentença mantida, com majoração da verba sucumbencial, observada a gratuidade de justiça. DESPROVIMENTO DO RECURSO.
+Nas razões recursais (fls. 266-280), a recorrente alegou violação do art. 80, incisos II, III, V e VI, do Código de Processo Civil, insurgindo-se contra a aplicação da multa por litigância de má-fé e defendendo que, por ter ajuizado a presente ação em data anterior à demanda que configurou a coisa julgada, estaria ausente o dolo necessário para a caracterização da conduta temerária.
+Apresentadas as contrarrazões (fls. 284-290).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 292-295), o que ensejou a interposição do presente agravo (fls. 302-312).
+Apresentada contraminuta do agravo (fls. 316-319).
+Não houve juízo de retratação.
+É, no essencial, o relatório.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade, notadamente a impugnação específica aos fundamentos da decisão agravada. Assim, conheço do agravo e passo à análise do recurso especial, o qual, contudo, não merece prosperar.
+Cinge-se a controvérsia recursal a decidir sobre a manutenção da multa por litigância de má-fé aplicada à recorrente em razão do ajuizamento de duas ações idênticas.
+O Tribunal de Justiça do Estado do Rio de Janeiro, ao analisar o recurso interposto pela agravante, concluiu o seguinte sobre a aplicação da multa por litigância de má-fé (fl. 256):
+Assim, o ajuizamento da demanda idêntica posterior configura claramente a litigância de má-fé. Esse comportamento evidencia uma tentativa deliberada de usar do processo para conseguir objetivo ilegal, infringindo o princípio da boa-fé objetiva.
+Em resposta a esse tipo de conduta, o legislador criou instrumentos destinados a restringir o acesso à jurisdição de maneira abusiva, sem prejudicar o núcleo essencial do direito fundamental ao acesso à justiça.
+A penalidade por litigância de má-fé é um desses mecanismos, concebido para impor sanções àqueles que utilizam o aparato judicial com objetivos ilícitos, desviando-se dos princípios fundamentais do processo. O litigante de má-fé é aquele que, de forma intencional ou culposa, causa danos processuais à parte contrária, agindo como um improbus litigator, utilizando procedimentos escusos com o objetivo de obter enriquecimento ilícito.
+Desse modo, considerando que o atuar da apelante traduz-se na tentativa de usar do processo para conseguir objetivo ilegal (artigo 80, inciso III, do CPC), de modo a induzir o julgador em erro e, assim, lograr vantagem indevida em face do apelado, deve ser condenada ao pagamento de multa por litigância de má-fé.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, especialmente no que se refere à análise da conduta processual da parte e à existência de dolo ou culpa grave na propositura de ações idênticas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido, cito:
+A condenação por litigância de má-fé foi mantida com base no contexto fático dos autos, sendo vedado o reexame do conjunto fático-probatório em recurso especial, conforme a Súmula n. 7 do STJ.
+(AgInt no AREsp n. 2.857.958/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+V - Incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em recurso especial. Precedentes.
+(REsp n. 2.167.205/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2024, DJEN de 13/12/2024.)
+2. Modificar a conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do acervo fático- probatório dos autos, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+(AgInt no AREsp n. 2.623.213/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.200,00, observada a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
