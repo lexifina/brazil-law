@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto pela UNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+ADMINISTRATIVO. MILITAR. ALUNO DO NPOR. TEMPO DE SERVIÇO. CONTAGEM INTEGRAL. O TEMPO DE SERVIÇO PRESTADO PELOS ALUNOS DOS CENTROS DE PREPARAÇÃO DE OFICIAIS DA RESERVA OU NÚCLEO DE PREPARAÇÃO DE OFICIAIS DA RESERVA (CPOR OU NPOR).
+1. O tempo de serviço dos alunos dos cursos de oficiais da reserva deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido o aluno, pois sua condição de militar é ínsita à inscrição, à frequência e ao próprio tempo pelo qual esteve incorporado ao curso de preparação.
+2. Mantida a sentença que determinou à autoridade coatora que proceda à expedição de certidão militar com todos os dados pertinentes ao serviço prestado pelo impetrante, inclusive com a contagem do tempo integral do Curso de Formação de Oficiais da Reserva das Forças Armadas, e não com base na respectiva carga horária.
+3. Não é plausível que a atividade desempenhada por um militar cursista, que também está plenamente disponível ao Exército Brasileiro, venha a ser contabilizada de forma diferente de seus colegas de armas. Precedentes desta Corte (fl. 133).
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial interposto com fulcro no art. 105, III, a, da Constituição Federal, a parte recorrente aponta, em síntese, violação dos arts. 63 da Lei 4.375/1964 e 134, § 2º, da Lei 6.880/1980, porquanto "segundo dispõe o Estatuto dos Militares, o tempo de efetivo serviço se distingue dos anos de serviço" (fl. 175).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente recurso, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda Segunda Turma.
+O entendimento deste STJ firmou-se no sentido de que o tempo de serviço militar como aluno de órgão de formação de oficiais da reserva deve ser computado na razão de 1 dia de trabalho para cada 8 horas de instrução, conforme arts. 63 da Lei 4.375/1964 e 134 da Lei 6.880/1980.
+Nesse diapasão, destaco os seguintes precedentes, in verbis:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR. AVERBAÇÃO DE TEMPO DE SERVIÇO. NÚCLEO DE PREPARAÇÃO DE OFICIAIS DA RESERVA DO EXÉRCITO BRASILEIRO. NPOR. EXPRESSA DISPOSIÇÃO LEGAL.
+1. Cinge-se a controvérsia do recurso especial interposto pela União, ora agravada, ao cômputo do tempo de serviço durante o período em que o militar foi aluno do Curso Preparatório de Oficiais da Reserva, se deve ser integral, ou seja, dia a dia, ou considerando a carga horária, conforme previsto no artigos 63 da Lei n. 4.375/1964.
+2. Interpretação que decorre do comando contido nos artigos 63 da Lei n. 4375/64 e 134 da Lei n. 6.880/80 no sentido de que o tempo de serviço prestado como aluno de órgão de formação da reserva será computado em 1 dia de trabalho a cada 8 horas de instrução.
+Precedentes: AgInt no AREsp n. 270.218/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/10/2016, DJe de 24/10/2016; e REsp n. 1.876.297/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/4/2022, DJe de 7/4/2022.
+3 . Agravo interno não provido (AgInt no REsp n. 2.071.751/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALUNO MILITAR. CURSO DE PREPARAÇÃO DE OFICIAIS. CERTIDÃO DE TEMPO DE SERVIÇO. HORAS-AULAS. CÔMPUTO. RECURSO ESPECIAL PROVIDO. ENTENDIMENTO PACÍFICO DESTA CORTE SUPERIOR. CADA OITO HORAS DE INSTRUÇÃO CORRESPONDE A UM DIA DE TEMPO DE SERVIÇO. ARTS. 63 DA LEI 4.375/1964 E 134 DA LEI 6.880/1980. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado pela parte Agravante em que se postula a retificação da certidão de tempo de serviço militar para a inclusão da integralidade do período prestado como aluno no Núcleo de Preparação de Oficiais da Reserva - NPOR.
+2. O Tribunal Regional, ao dirimir a controvérsia, consignou que "(. ..) o tempo de serviço prestado pelos alunos dos Centros de Preparação de Oficiais da Reserva (CPOR ou NPOR) deve ser integralmente computado, na forma dia a dia, não importando para o cálculo a carga horária a que era submetido o aluno, pois sua condição de militar é ínsita à inscrição, à frequência e ao próprio tempo pelo qual esteve incorporado ao curso de preparação" (fl. 114, e-STJ).
+3. A decisão monocrática proferida às fls. 237-239, e-STJ, embora questionada pela insurgente, aplicou entendimento pacificado nesta Corte no sentido de reconhecer ao Militar que foi aluno de Curso Preparatório de Oficiais da Reserva que o tempo de serviço prestado será computado como de 1 (um) dia de trabalho para cada 8 (oito) horas de instrução, conforme se depreende da dicção legal dos arts.
+63 da Lei 4.375/1994 e 134 da Lei 6.880/1980.
+4. De modo contrário ao entendimento pacífico desta Corte Superior, a insurgente reclama que o cômputo do tempo de serviço prestado pelos militares a título de Curso Preparatório de Oficiais da Reserva deve equivaler ao formato dia a dia, ou seja, independentemente da quantidade de horas-aula ministradas, merece ser reconhecido um dia de tempo de serviço prestado às Forças Armadas, sob pena de violação do princípio da isonomia.
+5. Não merece reparo o decisum que deu provimento ao Recuso Especial. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+6. Agravo Interno não provido (AgInt no REsp n. 2.054.910/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/9/2023, DJe de 21/9/2023).
+Portanto, deve ser provido o recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para denegar a segurança.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
