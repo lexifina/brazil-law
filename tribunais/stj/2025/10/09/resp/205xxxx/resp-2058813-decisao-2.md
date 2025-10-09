@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial (fls. 1304-1328) interposto por MARIA DAS DORES DOS SANTOS, com fundamento na incidência  da Súmula  284 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois:
+Em verdade exigir que se aponte expressamente qual o artigo de lei federal que fundamenta a súmula 54 do STJ, caracteriza-se um formalismo exacerbado, em detrimento ao formalismo valorativo e ao princípio da primazia do julgamento de mérito que norteia os recursos cíveis. Em especial, porque toda súmula 54 do STJ (que foi sumariamente afastada pelo acórdão impugnado) tem como fundamento a interpretação de um normativo federal, qual seja o art. 962 do antigo Código Civil de 1916, e do atual artigo 398 do Código Civil (Lei Federal).
+ ..
+Em observância à jurisprudência supracitada, não poderíamos deixar de mencionar que o atual entendimento esposado pelo Tribunal Regional Federal da 5ª Região, ao definir a incidência dos juros em responsabilidade extracontratual a partir da citação implica em conflito hermenêutico direto e concreto a hermenêutica dos outros Tribunais Regionais Pátrios, assim como viola expressamente a súmula 54 do Superior Tribunal de Justiça.
+A luz das argumentações hermenêuticas postas entendemos que o art. 405 do Código Civil deve ser afastado como critério de incidência dos juros nos danos morais fixados, uma vez que a obrigação da apelada em fornecer o adequado serviço de abastecimento de água potável deriva de uma obrigação extracontratual prevista na Lei Federal 11.977/09, além tratar-se de dano moral puro, no qual subsiste o dever de extracontratual de reparação a partir do evento danoso, consoante Súmula 54 do Superior Tribunal de Justiça.
+Sem contraminuta (fls. 1533-1544).
+É o relatório.
+Passo a decidir.
+Nos termos do art. 932, III, do CPC e do Enunciado da Súmula 182/STJ, as alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à incidência  da Súmula  284 do STF.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Agravo interno desprovido (AgInt no AREsp n. 2.117.661/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/10/2022, DJe de 26/10/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do arts. 932, III, do CPC/2015 e do enunciado da Súmula 182/STJ.
+2. Consoante orientação do Superior Tribunal de Justiça, o agravo que visa conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC/2015 e art. 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente, sendo insuficientes alegações genéricas de não aplicabilidade do óbice invocado (AgInt no AREsp 1.953.597/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe 17/12/2021).
+3. Agravo interno desprovido (AgInt no AREsp n. 1.996.169/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+Isso posto, com fundamento no a rt. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Deixo de fixar os honorários advocatícios recursais previstos no art. 85, §11, do CPC, em razão da ausência de condenação do agravante, pelas instâncias ordinárias, ao pagamento de honorários sucumbenciais.
+Intimem-se.
+EMENTA
