@@ -1,0 +1,34 @@
+DECISÃO
+PAULO JESUS DA SILVA QUEIROZ alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia no Agravo de Execução Penal n. 0803028-80.2025.8.22.0000.
+Consta dos autos que, após o cumprimento integral da pena privativa de liberdade, o Juízo da 2ª Vara Criminal da Comarca de Cacoal/RO indeferiu o pedido de isenção da pena de multa e de declaração da extinção da punibilidade, por entender que o paciente, embora intimado, não comprovou sua hipossuficiência econômica (fls. 25-26). Interposto agravo em execução pela defesa, o Tribunal de origem negou-lhe provimento para manter a decisão (fls. 63-68).
+A defesa sustenta, em síntese, que o acórdão impugnado viola o entendimento vinculante firmado por este Superior Tribunal de Justiça na revisão do Tema Repetitivo n. 931. Alega que, uma vez cumprida a pena corporal, o inadimplemento da sanção pecuniária não pode obstar a extinção da punibilidade do apenado hipossuficiente, condição que seria presumida pelo fato de o paciente ser assistido pela Defensoria Pública.
+Requer, assim, a concessão da ordem de habeas corpus para que seja reconhecida a isenção da pena de multa e, consequentemente, declarada extinta a punibilidade do paciente.
+Não houve pedido de liminar. O Ministério Público Federal opinou pelo não conhecimento do writ ou, no mérito, pela denegação da ordem (fls. 84-92).
+Decido.
+I. Contextualização
+A controvérsia cinge-se a definir se o não pagamento da pena de multa, por apenado hipossuficiente que já cumpriu a sanção privativa de liberdade, constitui óbice à declaração de extinção da punibilidade.
+O Juízo de primeiro grau indeferiu o pleito defensivo sob os seguintes fundamentos (fls. 26):
+A única hipótese possível para acolhimento da pretensão da defesa seria a de hipossuficiência comprovada de que o apenado não teria condições de pagar a multa penal, ainda que parcelada, o que não é o caso, uma vez que o reeducando, mesmo devidamente intimado para comprovar a hipossuficiência, quedou-se inerte. Assim, indefiro o pedido de declaração da extinção da punibilidade.
+O Tribunal de Justiça do Estado de Rondônia, por sua vez, manteve a decisão, consignando o seguinte (fls. 63-68):
+ ..
+No que se refere à automaticidade pelo fato de o apenado ser defendido pela Defensoria Pública, há decisão, bastante recente, que afasta a possibilidade de automaticidade do reconhecimento da hipossuficiência  ..  No caso em apreço, vê-se que o apenado não juntou declaração de hipossuficiência para pagar a pena de multa. Mesmo na hipótese de ter sido juntada a declaração de hipossuficiência econômica, a Lei de Execução Penal prevê, a partir do seu artigo 164, a forma de cobrança da multa, mas não prevê a possibilidade de isenção, apenas de parcelamento (art. 169).  ..  Ressalte-se que uma coisa é, em face de hipossuficiência, não ter como pagar a multa e receber a progressão de regime, o que é de todo justo, legal e constitucional. Outra coisa é pretender a isenção, o que não tem previsão legal e não pode ser concedido. Logo, é incabível a isenção da pena de multa do apenado.
+II. Pena de multa e hipossuficiência financeira
+A Terceira Seção deste Superior Tribunal de Justiça, ao revisar o Tema Repetitivo n. 931 (REsp n. 2.024.901/SP e REsp n. 2.090.454/SP, julgados em 28/2/2024), firmou a seguinte tese:
+O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária.
+A correta interpretação desse entendimento é que a alegação de hipossuficiência pelo condenado goza de presunção relativa de veracidade, com amparo no art. 99, § 3º, do Código de Processo Civil. Assim, uma vez declarada a impossibilidade de pagamento, cabe ao Ministério Público ou ao Juízo da Execução, de maneira fundamentada, demonstrar a capacidade econômica do apenado para afastar tal presunção.
+Contudo, a presunção não é absoluta e não decorre unicamente do patrocínio da causa pela Defensoria Pública.
+Como ressalvei no acórdão do REsp n. 2.024.901/SP:
+ ..
+Faço observar que não se trata de inferir a miserabilidade do condenado somente pela circunstância de estar o interessado sob o patrocínio da Defensoria Pública, como, aliás, já entendeu a Sexta Turma, em acórdão de minha relatoria (HC n. 672.632, 6ª Turma, Rel Min Rogerio Schietti, DJe de 15/06/2021: "Nem todos os processados criminalmente, patrocinados pela Defensoria Pública, são hipossuficientes. No direito penal, é obrigatória a assistência jurídica integral ao réu, mesmo que ele tenha condições financeiras de contratar advogado particular, mas opte por não fazê-lo"). Embora tal circunstância também seja um dos indicadores do grau de hipossuficiência da quase totalidade dos condenados que cumprem pena em presídios nacionais, esse status de pobreza, ou mesmo de miséria econômico-financeira desse segmento populacional, é notório.
+ ..
+19. A presunção de veracidade da declaração de hipossuficiência, a fim de permitir a concessão da gratuidade de justiça, possui amparo no art. 99, § 3º, do Código de Processo Civil, segundo o qual "presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural", podendo ser elidida caso esteja demonstrada a capacidade econômica do reeducando. (REsp n. 2.024.901/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 28/2/2024, DJe de 1/3/2024)
+A presunção de veracidade depende, portanto, de uma alegação ou declaração expressa do apenado sobre sua condição de hipossuficiência.
+III. O caso dos autos
+No caso, o Tribunal de origem destacou que "o apenado não juntou declaração de hipossuficiência para pagar a pena de multa" (fl. 47).
+Verifica-se que não houve manifestação do paciente no sentido de declarar sua eventual hipossuficiência financeira. A defesa técnica limitou-se a requerer a isenção com base na presunção decorrente da assistência judiciária, o que, conforme a jurisprudência desta Corte, não é suficiente.
+Para que se aplique o entendimento firmado no Tema n. 931/STJ, é necessário, ao menos, que o reeducando apresente uma declaração de sua hipossuficiência, a qual gozará de presunção relativa de veracidade. Ausente essa manifestação inicial, não há como afastar a exigibilidade da sanção pecuniária e declarar extinta a punibilidade.
+Desse modo, o acórdão recorrido está em consonância com o entendimento deste Tribunal Superior, pois, sem a alegação formal de impossibilidade de pagamento pelo apenado, não se pode presumir sua hipossuficiência e afastar o cumprimento de uma sanção de caráter penal.
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
