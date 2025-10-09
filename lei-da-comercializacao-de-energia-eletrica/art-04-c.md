@@ -1,1 +1,0 @@
-Art. 4º-C A partir da data de publicação da Medida Provisória nº 1.300, de 21 de maio de 2025, a CCEE passará a ser denominada Câmara de Comercialização de Energia - CCEE, permanecendo válidas todas as disposições legais e infralegais anteriormente atribuídas à Câmara de Comercialização de Energia Elétrica.

@@ -1,1 +1,0 @@
-Art. 15-A. Os custos do SUI e os efeitos financeiros do déficit involuntário decorrente do atendimento aos consumidores com direito ao suprimento de última instância serão rateados entre os consumidores do ambiente de contratação livre, mediante encargo tarifário, conforme regulamento.
