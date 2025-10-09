@@ -1,0 +1,58 @@
+DECISÃO
+MÁRCIO CARDOSO DOS SANTOS agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região na Apelação Criminal n. 002564-95.2007.4.03.6107.
+A sentença prolatada em primeira instância concluiu por: "(i) absolver João Florentino Bertolo com fundamento no artigo 386, V, do Código de Processo Penal; (ii) condenar Luis Fabiano Teixeira e Márcio Cardoso dos Santos como incursos no artigo 1º, inciso I da Lei nº 8.137/1990 c/c art. 71 do Código Penal à pena privativa de liberdade de 3 (três) anos, em regime aberto, além do pagamento de 98 (noventa e oito) dias-multa, valor unitário de 1/30 (um trigésimo) do salário mínimo vigente no mês do último fato". (fl. 2.770)
+O Tribunal de origem, ao julgar as apelações das defesas e do Ministério Público Federal, assim deliberou (fl. 2.763):
+DE OFÍCIO reduzo a pena de multa, a fração relativa à causa de aumento de pena pela continuidade delitiva e o valor da prestação pecuniária quanto ao corréu Marcio Cardoso dos Santos, NEGO PROVIMENTO à sua apelação e DOU PARCIAL PROVIMENTO aos recursos do Ministério Público Federal do réu Luis Fabiano Teixeira para absolvê-lo, com fundamento no artigo 386, VII, do Código de Processo Penal, da prática do crime previsto artigo 1º, inciso I, da Lei nº 8.137/1990, ficando redimensionada a pena de Marcio Cardoso dos Santos, pela prática do aludido delito, em 02 (dois) anos , 11 (onze) meses de reclusão e 14 (quatorze) dias multa, fixando o valor do em 1/30 (um trigésimo) do salário mínimo, ficando a pena corporal substituída por duas penas restritivas de direitos consistentes na prestação de serviço à comunidade ou entidades públicas, pelo prazo da pena corporal, e prestação pecuniária no importe de 01 (um) salário mínimo, devendo a forma de cumprimento de pena de serviços à comunidade e de pagamento a prestação pecuniária serem estabelecidas pelo Juízo da execução.
+No recurso especial, o recorrente indicou violação dos arts. 1º e 2º, da Lei 8.137/1990. Defendeu: a) preliminarmente a prescrição da pretensão punitiva em decorrência do prazo compreendido entre a data dos fatos e a data do recebimento da denúncia; b) a omissão de informações e prestação de falsas informações às autoridades fazendárias não se enquadra no art. 1º, mas, sim, no art. 2º, I, da Lei nº 8.137/90, uma vez que a descoberta da fraude se deu pelo Fisco antes de qualquer dano ao erário, acrescentando que a consumação do crime do precitado art. 2º, I, independe de lançamento, o que faz a prescrição da pretensão punitiva iniciar-se na data do fato.
+Requereu "seja reconhecida a preliminar de prescrição da pretensão punitiva e declarar extinta a pena, bem como no mérito proverem o presente recurso, reformando o V. Acórdão recorrido, para desclassificar a conduta dos recorrentes do artigo 1º para o 2º da Lei 8.137/90, e com isso reconhecer a prescrição nos termos e fundamento retro exposto, absolvendo os recorrentes, como medida de Justiça". (fl. 2.802)
+Apresentadas as contrarrazões e inadmitido o recurso na origem, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 2.925-2.931).
+Decido.
+O entendimento atual da Corte Especial deste Tribunal é no sentido de que, na interposição do agravo em recurso especial, deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem. Em síntese, não há capítulos autônomos na decisão que não admite o recurso especial.
+A conferir:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. SÚMULA 168 E 182/STJ. AGRAVO DESPROVIDO.
+1. A Corte Especial, por ocasião do julgamento dos EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC (Relator para acórdão o Ministro Luis Felipe Salomão, DJe 30/11/2018), por maioria, firmou orientação no sentido de que, na interposição do agravo de que trata o art. 1.042 do CPC de 2015 (antigo art. 544 do CPC de 1973), deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (Súmula 182/STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl nos EAREsp n. 2.291.059/SP, relator Ministro Raul Araújo, Corte Especial, julgado em 23/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N. 315/STJ. ESTA CORTE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de agravo interno interposto contra decisão que não indeferiu liminarmente os embargos de divergência. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Não há similitude entre o acórdão recorrido e o aresto indicado como paradigma, sobretudo porque o acórdão embargado se pronunciou acerca da incidência do Enunciado Sumular n. 182/STJ na análise da admissibilidade do agravo em recurso especial interposto na origem (fls. 442-458), já o acórdão paradigma afastou a aplicação da mesma súmula na apreciação do recurso de agravo interno/regimental contra decisão monocrática no STJ.
+III - A decisão embargada está em consonância com a jurisprudência pacífica da Corte, no sentido de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão" (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+IV - Portanto, a análise dos presentes embargos de divergência implicaria reexame de regras técnicas alusivas ao conhecimento do recurso especial, hipótese de cabimento não abarcada nem pelo art. 266 do RISTJ, nem pela jurisprudência desta Corte.
+V - Nessas circunstâncias, impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+VI - Conclui-se que os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+VII - Agravo interno improvido.
+(AgRg nos EAREsp n. 2.347.008/PR, relator Ministro Francisco Falcão, Corte Especial, julgado em 12/12/2023, DJe de 15/12/2023.)
+No caso dos autos, o Tribunal de origem não admitiu o recurso, pois considerou incidente o óbice da Súmula 7 do STJ.
+Todavia, nas razões do agravo em recurso especial, a defesa impugnou de modo genérico incidência da Súmula n. 7 do STJ - ao dizer que "não se pretende, com o recurso especial, o simples reexame de provas e sim a divergência jurisprudencial e neste ponto está muito claro a pretensão" -, ocasião em que deduziu as seguintes razões (fls. 2868-2881):
+ ..
+DOS FATOS
+O agravante interpôs o Recurso Especial, alegando, em síntese que:  ..
+Não obstante, sobreveio a decisão de INADMISSIBILIDADE do presente Recurso Especial, sob o fundamento de que:  ..
+RAZÕES DESTE AGRAVO.
+Ora, com devida máxima vênia, a decisão vergastada não condiz com elementos contidos nos autos, pois, ao contrário desta decisão, estão presente todos os requisitos exigidos, pois a inadmissibilidade se resume na análise de que se pretende reexame das provas o que é vedado pela Súmula 7/STJ.
+Ocorre que não se pretende, com o recurso especial, o simples reexame de provas e sim a divergência jurisprudencial e neste ponto está muito claro a pretensão. Senão vejamos:
+DISSÍDIO JURISPRUDENCIAL.
+PONTO DA DIVERGÊNCIA.
+Artigos 1º e 2º da Lei Federal nº 8.137/90:
+ ..
+Eis a divergência devidamente demonstrada.
+Desse modo, verifica-se PRESENTES todos os requisitos de admissibilidade por divergência jurisprudencial, devendo com isso a decisão de inadmissibilidade ser rechaça, para julgamento do recurso especial que consiste no seguinte:  ..
+DA DESCLASSIFICAÇÃO do CRIME.
+Acolhendo-se o pleito de que a conduta dos recorrentes está enquadrada no inciso I do artigo 2º da 8.137/90, pedem seja reconhecida a desclassificação da acusação do artigo 1º, I e II da Lei 8.137/90, que para o artigo 2º, I do da mesma Lei, pois, não há que se falar em supressão ou redução de tributos pelo fato de não terem apresentado as declarações devidas ou por ser a declaração inexata.
+Nesse sentido leciona o Professor HUGO DE BRITO MACHADO -(extraído do /www. faneesp. edu. br)
+ ..
+Reitera-se, como argumento da defesa, toda a matéria, brilhantemente exposta pelo DD. Procurador em suas alegações finais, para que fiquem fazendo parte integrante destas.
+Posto isto, aguarda-se pelo acolhimento da tese defensiva e da própria acusação, de que o fato de não sido apresentado declaração dos impostos devidos, não constitui crime previsto no artigo 1º da Lei 8.137/90.
+DA PRESCRIÇÃO DO CRIME - ARTIGO 2º DA LEI 8.137/90.
+Por ser, como de fato é, a previsão do artigo 2º da Lei 8.137/90, crime formal, se torna desnecessário a conclusão do procedimento administrativo para sua persecução.
+Assim já decidiu o STJ:  ..
+Desse modo, o suposto crime se consumou com a entrega da declaração realizada em 2000/2002 e por ter decorrido mais de 04 (quatro) anos, (artigo 109, V do CP), até o recebimento da denúncia, que se deu somente em 17/12/2014, mesmo considerando o período de suspensão do referido prazo em razão do parcelamento (22/02/2007 a 06/05/2010), ocorreu a PRESCRIÇÃO. Nesse sentido segue a jurisprudência:  ..
+Ante o exposto, requer seja recebido o presente recurso de agravo em recurso especial, tenho em vista que foram preenchidos todos os requisitos de admissibilidade, intimando o agravado, para caso queira manifestar-se no prazo legal, após seja reforma a decisão atacada por juízo de retratação, ou, seja remetido para julgamento perante o órgão Colegiado, por ser medida de Justiça.  ..
+Com efeito, é insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas.
+Nesse sentido: AgRg no AREsp n. 1.827.996/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/8/2021, DJe de 16/8/2021.
+Portanto, de acordo com a jurisprudência desta Corte Superior, "não se conhece do agravo regimental que deixa de impugnar, de forma direta e objetiva, os fundamentos da decisão agravada. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça" (AgRg no AREsp n. 529.349/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/5/2015).
+Portanto, incide o enunciado na Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
