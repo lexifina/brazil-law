@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. PROPRIEDADE INTELECTUAL. OBRIGAÇÃO DE FAZER PARA APROVAÇÃO DO PEDIDO DE COMPRA E CELEBRAÇÃO DE CONTRATO DE FORNECIMENTO DO MEDICAMENTO REVLIMID (LENALIDOMIDA). A existência de uma série de requisitos adicionais à Resolução da Diretoria Colegiada da ANVISA nº 191/2017, para garantir o correto uso dos medicamentos que contém lenalidomida, e o risco de sofrer sanções administrativas, dado o seu rol de responsabilidades relativos à lenalidomida, associados ao risco intrínseco desse princípio ativo, são justificativas razoáveis para um controle maior na distribuição do medicamento por parte da ré, ora apelante. Exigências posteriormente contempladas pela nova regulação da ANVISA (Resolução da Diretoria Colegiada da ANVISA nº 735/2022 e Instrução Normativa nº 163/2022). Improcedência do pedido inicial. Recurso provido.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 187, 421 e 422 do Código Civil; 6º da Lei de Introdução às Normas do Direito Brasileiro e 1º da Lei 9.787/99.
+Assim posta a questão, observo que o recurso especial não dispensa o reexame de prova. A agravante afirma ter cumprido os requisitos para estudos de biodisponibilidade para desenvolvimento de medicamento com lenalidomida. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (fl. 1385):
+É dos autos que a regulamentação própria deste medicamento, à época do ajuizadamente da presente demanda, constava da Resolução da Diretoria Colegiada da ANVISA nº 191/2017, posteriormente substituída pela Resolução da Diretoria Colegiada da ANVISA nº 735/2022 (fls. 1200/1210) e pela Instrução Normativa nº 163/2022, que define os critérios de controle especial para a realização de estudos e pesquisas, incluindo testes laboratoriais e ensaios com lenalidomida.
+Destarte, antes da referida instrução normativa, havia incerteza sobre o procedimento de fornecimento para a realização de estudos de equivalência farmacêutica e bioequivalência, no contexto do desenvolvimento e registro de medicamentos genéricos.
+(..)
+Não por outro motivo, a recorrente vinha discutindo o tema com a ANVISA há algum tempo e, em janeiro de 2020, foi instruída pela Agência a não vender amostras até a definição dos requisitos aplicáveis à realização de estudos envolvendo a lenalidomida (fls. 456/458).
+Ao depois, os requisitos estabelecidos pela Agência foram objeto de várias discussões, levando-se algum tempo até que houvesse uma definição clara em relação ao tema.
+Veja-se que as exigências da Celgene foram contempladas pela nova regulação da ANVISA (Resolução da Diretoria Colegiada da ANVISA nº 735/2022 e Instrução Normativa nº 163/2022), conforme quadro comparativo juntado a fls. 1312/1313.
+É evidente, portanto, que os requisitos de segurança impostos pela Celgene eram absolutamente razoáveis e plenamente justificados para, além de preservar a saúde dos participantes, evitar sua responsabilização por eventuais danos causados a outrem, mesmo que decorrentes de atos de terceiros.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
