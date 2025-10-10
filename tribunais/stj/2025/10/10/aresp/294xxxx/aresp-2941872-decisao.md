@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Estado do Maranhão, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 56-68):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. DEVE SER EXCLUÍDA DA BASE DE CÁLCULOS DOS HONORÁRIOS SUCUMBENCIAIS A PARCELA INCONTROVERSA. REDISCUSSÃO DE MATÉRIA APRECIADA NA AÇÃO DE CONHECIMENTO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO PARCIALMENTE PROVIDO.
+1. Segundo o princípio da causalidade e art. 85, §7º, do CPC, são devidos honorários quando houver resistência. No entanto, somente é admitida a incidência de honorários advocatícios sobre o valor controverso da execução.
+2. O processo civil está sujeito ao fenômeno da preclusão, significando a perda da faculdade processual, pelo seu não uso dentro do prazo peremptório previsto em lei (preclusão temporal) ou pelo fato de já havê-la exercido (preclusão consumativa) ou, ainda, pela prática de algum ao incompatível com aquele que se pretenda exercitar no processo (preclusão lógica). Logo não há como rediscutir matéria já transitada em julgado, por ocasião do julgamento da ação de conhecimento que originou o título executado.
+3. Recurso conhecido e parcialmente provido. (fl. 57)
+Os embargos de declaração opostos pelo recorrente (fls. 72-77) não foram conhecidos pelo relator, na forma do art. 932, III, do CPC, em razão da ausência de interesse recursal (fls. 80-88).
+Contra a referida decisão monocrática, o recorrente apresentou o agravo interno de fls. 89-91 e o recurso especial de fls. 92-108.
+No agravo interno, pugnou pela reforma da decisão monocrática, para que o Colegiado determinasse a incidência dos honorários sucumbenciais de execução apenas sobre a parcela impugnada e desprovida, bem como para determinar que o índice incida sobre o "vencimento-base" e não sobre a remuneração bruta dos exequentes. (fl. 90)
+No recurso especial, a parte alega violação aos arts. 1.022, II e parágrafo único, II, 489, § 1º, IV, 11 e 85 do CPC; 1º-D da Lei nº 9.494/97, além de dissídio jurisprudencial.
+Sustenta, em síntese, que o Tribunal de origem afastou, indevidamente, a "impugnação parcial ao pedido de cumprimento, apontando um excesso parcial da execução" (fl. 93), e, ainda, que se "equivocou quanto à base de cálculo dos honorários de execução, os quais devem incidir apenas sobre o excesso indicado." (fl. 94)
+A Corte estadual não conheceu o agravo interno, na forma da seguinte ementa (fls. 121-134):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM FACE DA FAZENDA PÚBLICA. EXCLUSÃO DE HONORÁRIOS SOBRE PARCELA INCONTROVERSA. PEDIDO JULGADO PROCEDENTE. RECURSO VISANDO REFORMA DO ACÓRDÃO A FIM DE QUE O PEDIDO SEJA JULGADO PROCEDENTE. FALTA DE INTERESSE RECURSAL. NÃO PROVIMENTO.
+1. Quanto ao interesse de agir, resta ele caracterizado sempre que o provimento jurisdicional visado mostra-se necessário e útil à satisfação da pretensão manifestada pelo demandante, que elege via adequada para tal desiderato. Todavia, conforme se extrai dos autos, os pedidos da parte autora foram julgados improcedentes.
+2. Se o recurso interposto revela-se manifestamente inadmissível, pode o relator apreciá-los monocraticamente, desde logo, a teor do que dispõe o art. 932, III, do NCPC, afigurando-se prescindível a manifestação do respectivo órgão colegiado.
+3. Agravo não conhecido por falta de interesse recursal. (fl. 122)
+O recorrente opôs novos embargos de declaração, às fls. 135-137, que não foram conhecidos (fls. 139-157), aplicando-se multa de 2% sobre o valor atualizado da causa, conforme o art. 1.026, § 2º, do CPC. Segue a ementa do julgado:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRINCÍPIO DA DIALETICIDADE. RAZÕES DISSOCIADAS DO JULGADO. RECURSO NÃO CONHECIDO. APLICAÇÃO DE MULTA. (fl. 140).
+O recu rso especial não foi admitido pela Vice-Presidência da Corte de origem, porquanto, in verbis (fls. 162-165):
+Considerando que o ente estatal interpôs dois recursos em face da mesma decisão, é caso de não conhecimento do recurso especial, tendo em vista ter sido o último a ser interposto.
+Nesse sentido: "1. Conforme a jurisprudência consolidada no âmbito desta Corte Superior, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgInt no AREsp n. 2.574.461/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024).
+Do julgamento acima mencionado, ainda se extrai que não cabe a aplicação do artigo 1.024, § 5º, do CPC ("Se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos de declaração será processado e julgado independentemente de ratificação"), uma vez que este dispositivo "  trata de hipótese em que uma parte interpõe recurso especial na pendência de julgamento de embargos declaratórios opostos pela outra - o que não se assemelha à situação em análise, em que tanto os aclaratórios quanto o especial foram ajuizados pela mesma parte".
+Em seu agravo em recurso especial (fls. 167-173), o agravante aduz que:
+Ao contrário do exposto na decisão de inadmissão do recurso especial, a parte recorrente esgotou a instância ordinária, ou seja, embargou de declaração a decisão proferida no Agravo de Instrumento, bem como, embargou de declaração a decisão proferida em sede de Agravo Interno, razão pela qual, obedeceu ao ditame legal de que, "cabem embargos de declaração contra qualquer decisão judicial". (fl. 170)
+Quanto ao mais, reitera as razões apresentadas no recurso especial.
+Não foi apresentada contraminuta. (fl. 177)
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a fundamentação da decisão agravada, porquanto a parte agravante não infirmou, efetivamente, o argumento utilizado para a inadmissão do recurso especial.
+Em verdade, a Corte estadual não admitiu o apelo nobre em razão da preclusão consumativa, porquanto a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último. (fl. 162).
+Ocorre que, no agravo recurso especial, a parte deixou de infirmar, adequada e detalhadamente, o referido elemento justificador da decisão de admissibilidade, tendo se limitado a trazer argumentos dissociados do óbice utilizado pela Corte de origem e a reeditar a mesmas razões alinhavadas em seu recurso especial, sem, contudo, demostrar qualquer desacerto da decisão que não o admitiu. Logo, o fundamento do julgado agravado, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de combater a fundamentação do juízo de admissibilidade, fere-se o princípio da dialeticidade, atraindo a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024.).
+Ademais, verifica-se que a parte recorrente interpôs recurso especial contra decisão monocrática proferida pelo desembargador relator do Tribunal de origem, o que atrai a incidência, por analogia, do enunciado 281 da Súmula do STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada".
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú., DO RISTJ. AGRAVO NÃO CONHECIDO.
