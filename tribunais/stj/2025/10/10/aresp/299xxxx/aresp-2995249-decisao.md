@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por ARQUISUL CONSTRUÇÕES E INCORPORAÇÕES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 3.067-3.068):
+APELAÇÃO CÍVEL. CONDOMÍNIO. AÇÃO COMINATÓRIA. - PRELIMINAR. ALEGAÇÃO, EM SEDE DE MEMORIAIS, DE QUE A SENTENÇA ADOTOU CARÁTER EXTRA PET1TA. DESACOLHIMENTO. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. SENTENÇA QUE SE ATEVE AOS PEDIDOS FORMULADOS PELAS PARTES, ACOLHENDO APENAS EM PARTE, NO ITEM IMPUGNADO, A PRETENSÃO DA PARTE AUTORA, CIRCUNSTÂNCIA QUE NÃO SE CONFUNDE COM CONDENAÇÃO DA PARTE AUTORA, ATÉ MESMO PORQUE AUSENTE PEDIDO DA PARTE RÉ NESTE SENTIDO. UNÂNIME. - MÉRITO. VÍCIOS CONSTRUTIVOS. PEDIDO DE REALIZAÇÃO DE SERVIÇOS DE REPARO NO PRÉDIO ÀS EXPENSAS DA CONSTRUTORA. PROVA PERICIAL ROBUSTA A INDICAR A EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS, ENSEJANDO _A CONDENAÇÃO DA CONSTRUTORA À OBRIGAÇAO DE FAZER CONSTITUÍDA EM PROCEDER NA REALIZAÇÃO DOS CONSERTOS NECESSÁRIOS A SAN AÇÃO DAS FALHAS AFERIDAS PELA PROVA PERICIAL. UNÂNIME. - VÍCIOS CONSTRUTIVOS. PROVA. AO AUTOR CABE PROVAR OS FATOS CONSTITUTIVOS DO DIREITO QUE ALEGA; E AO RÉU OS FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS, COMO DISPOSTO NO ART. 373 DO CPC/15. CIRCUNSTÂNCIA DOS AUTOS EM QUE RESTOU COMPROVADA A EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS QUE JUSTIFICAM A CONDENAÇÃO DA PARTE RÉ À REPARAÇÃO INTEGRAL DOS DANOS, SEM ABATIMENTO OU PARTICIPAÇAO DO CONDOMÍNIO NO CUSTEIO. MAIORIA. - CASO CONCRETO EM QUE EMBORA TENHA HAVIDO A QUEBRA DA CONFIANÇA ENTRE AS PARTES E FORTE LITÍGIO, NECESSÁRIO SEJA OPORTUNIZADA A REALIZAÇÃO DOS REPAROS, PRIMEIRO, À CONSTRUTORA, QUE EM TESE POSSUI CONDIÇÕES TÉCNICAS PARA ISSO, E SOMENTE SE NÃO EFETUADA CORRETAMENTE OU TEMPESTIVAMENTE A OBRA, FRANQUEADO AO CONDOMÍNIO CONTRATAR TERCEIRO PARA ISSO. POSSIBILIDADE, OUTROSSIM, DE QUE SEJA DESIGNADO PERITO PARA ACOMPANHAR, NA FASE DE CUMPRIMENTO DE SENTENÇA, OS TRABALHOS. UNÂNIME. À UNANIMIDADE DESACOLHERAM A PRELIMINAR E DERAM PARCIAL PROVIMENTO AO RECURSO DA PARTE RÉ, E, POR MAIORIA, DERAM PROVIMENTO AO APELO DA PARTE AUTORA.
+Rejeitados os embargos de declaração opostos (fls. 3.135-3.142).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou o disposto no artigo 945 do Código Civil.
+Sustenta, em síntese, que deve ser considerado, na fixação da condenação, que houve culpa concorrente do recorrido, uma vez que ele não faz a correta manutenção do edifício.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 3.287-3.292).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 3.305-3.325), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 3.335-3.338).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem deixou claro que (fl. 3.079-3.098):
+Como visto, o laudo pericial, de forma enfática, repito, apontou que os danos apresentados no edifício decorrem de vícios construtivos. Não há, de outro lado, conclusão que aponte para a ausência de manutenção preventiva do prédio como a sendo causa eficiente para os danos.
+Pode, a propalada ausência de manutenção, até ter contribuído ou acelerado (conclusão, repito, sequer existente no laudo), mas, por certo, não se constituiu na causa eficiente para os danos verificados.
+(..)
+De qualquer modo, cumpre lembrar que a parte autora, de um lado, trouxe aos autos prova suficiente para a formação de um convencimento seguro a respeito da origem dos danos (vícios construtivos), sendo que a parte ré, de outro, absteve-se de fazer prova suficiente quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor, mais precisamente a tese de ausência de manutenção do prédio como fator preponderante para a produção dos danos.
+(..)
+Destarte, ainda que a demanda tramite há longos anos e que o imóvel exija manutenção periódica, não há que se falar em responsabilização do autor ao custeio de parte dos gastos com o reparo porquanto resultou comprovado que a causa dos problemas no imóvel são os vícios construtivos.
+Assim, cabe a ré a responsabilidade integral pelos vícios construtivos, e somente após a entrega do imóvel em regulares condições é que se pode exigir que o Condomínio passe a ser integralmente responsável pela conservação do bem.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, a fastar o referido entendimento para concluir no sentido de que a parte recorrida tem culpa concorrente, por não ter realizado a correta manutenção do edifício, como pretende a recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Por fim, ressalta-se que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+ EMENTA
