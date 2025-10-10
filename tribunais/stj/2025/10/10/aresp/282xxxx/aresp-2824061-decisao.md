@@ -1,0 +1,69 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso e special, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 935-947):
+CUMPRIMENTO DE SENTENÇA - Impugnação - Rejeição - Expurgo inflacionário - Caderneta de poupança - Alegação de excesso de execução oriundo da incidência de juros remuneratórios até a data do efetivo pagamento (e não até a data do encerramento da conta-poupança) e atualização monetária do débito judicial pelos índices da Tabela Prática deste E. Tribunal de Justiça (e não pelos índices aplicáveis às cadernetas de poupança) - Incidência de juros contratuais até a data do encerramento da conta de depósito (poupança) reconhecida - Precedentes do C. STJ - Adequação da utilização dos índices da Tabela Prática deste E. TJSP para correção monetária do débito judicial exequendo - Precedentes deste E. Sodalício - Decisão parcialmente reformada - Recurso provido em parte.
+Rejeitados os embargos de declaração opostos (fls. 955-961).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão violou o art. 402 do CC ao determinar a utilização da tabela prática do Tribunal recorrido para atualização do débito, em detrimento dos índices oficiais da caderneta de poupança, os quais melhor representam a perda inflacionária dos poupadores.
+Sustenta que o título em execução foi omisso quanto à fixação do índice de correção monetária a ser utilizado na atualização da condenação, sendo que a própria natureza da contratação traz intrinsicamente o índice oficial de remuneração das cadernetas de poupança.
+Defende que o acórdão recorrido viola o regime jurídico da poupança e gera vantagem financeira indevida ao poupador.
+Foram oferecidas contrarrazões ao recurso especial (fls. 991-995).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 996-998), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 1.013).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem solucionou a lide em conformidade com o que foi apresentado em juízo, com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito precedente:
+CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. HASTA PÚBLICA. DESFAZIMENTO DA ARREMATAÇÃO DE IMÓVEL. ART. 903, §§ 1º E 2º, DO CPC. SÚMULA 283/STF.
+1. A controvérsia gira em torno da validade da arrematação de um imóvel, cuja anulação foi determinada pelo Tribunal de Justiça do Mato Grosso do Sul. A Corte entendeu que houve remição da dívida. O recorrente, no entanto, sustenta que a remição foi intempestiva, realizada sem o depósito integral do valor devido e somente após a assinatura do auto de arrematação.
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC quando a Corte estadual enfrenta, fundamentadamente, as questões que lhe foram submetidas.
+3. A arrematação torna-se irretratável após a assinatura do auto, conforme dispõe o caput do art. 903 do CPC. No entanto, é possível seu desfazimento se forem comprovados vícios que se enquadrem nas hipóteses excepcionais previstas nos §§ 1º e 2º do referido artigo.
+4. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+5. A falta de cotejo analítico impede o acolhimento do recurso, pois não foi demonstrado em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito sobre a mesma situação fática.
+Recurso especial conhecido em parte e improvido.
+(REsp n. 1.936.100/MS, relator Ministro Humberto Martins, Terceira Turma, DJEN de 15/5/2025.)  Grifei.
+Mediante análise dos autos, verifica-se que na origem cuida-se agravo de instrumento interposto contra decisão de primeira instância que, na fase de cumprimento de sentença de ação de cobrança, rejeitou a impugnação ofertada, mantendo a incidência de correção monetária pela tabela prática do Tribunal de origem para atualização do montante devido.
+Nas razões do recurso especial, o recorrente alega que o título executivo judicial não menciona que as diferenças devem ser atualizadas pelos índices da tabela divulgada pelo Tribunal de origem, ou por qualquer outro, razão pela qual deve ser utilizado o índice oficial das cadernetas de poupança.
+Cito trechos das razões do recurso apresentado (fls. 972-978):
+O título em execução foi omisso quanto à prévia e explícita fixação do índice de correção monetária a ser utilizado na atualização da condenação. Isso certamente porque, a própria natureza da contratação já traz, intrinsecamente, o índice oficial de remuneração das cadernetas de poupança.
+ ..
+Se o título formado não menciona que as diferenças seriam atualizadas pelos índices do TJSP, ou qualquer outro índice, a melhor interpretação que se extrai é aquela defendida pelo Recorrente: são aplicáveis os índices contratuais, isto é, aqueles pactuados ordinariamente às cadernetas de poupança, porque refletem exatamente o que o poupador efetivamente ganharia com a vigência do contrato.
+Não se pode perder de vista, que os valores surgidos da diferença da correção monetária nos meses dos Planos Econômicos, continuam tendo de observar o regime jurídico das cadernetas de poupança, para fins de remuneração e correção monetária. O referido regime jurídico é estabelecido em Lei Federal (Leis 7730/89, 8088/1990, 8.177/91 e 12.703/12) e é aceito pelas partes na contratação da operação financeira.
+ ..
+Afastar o índice pactuado contratualmente e imputar índices diversos daquele previsto no contrato formalizado, favorece, de fato, o enriquecimento sem causa, não do Recorrente, mas, sim, dos Recorridos, que em última análise, serão beneficiados com valores majorados ao que de fato receberiam se o contrato ainda estivesse em vigência.
+ ..
+Portanto, não há como se admitir a aplicação de outro índice que não aquele previsto para a remuneração contratada, sob pena de ofensa ao artigo 402 do Código Civil de 2002, de que se extrai a diretriz no sentido de que os poupadores não podem receber mais do que teriam recebido, caso seus contratos estivessem vigentes até a data atual.
+ ..
+Por isso se pode afirmar, sempre com a máxima vênia, que a r. decisão recorrida, não apenas viola o regime jurídico da poupança, como gera vantagem financeira indevida ao poupador (que não obteria por meio dessa aplicação financeira, correção monetária por índice que "melhor refletisse a inflação").
+Mas não é apenas isso. A r. decisão recorrida também contraria orientação desse E. STJ em situações similares.
+ ..
+Em vista do exposto, a medida que se requer é o emprego dos índices oficiais de remuneração das cadernetas de poupança como fator de correção monetária, em detrimento dos índices do TJSP determinados pela r. decisão recorrida, sendo nesse ponto reformado o entendimento manifestado no provimento parcial do Agravo de Instrumento no que concerne a adoção do referido índice.
+Ao analisar a questão, o Tribunal recorrido assim fundamentou (fls. 941-947):
+5. No que pertine aos índices de correção monetária, sem razão o banco agravante, pois a jurisprudência uníssona do C. Superior Tribunal de Justiça tem entendido que não se aplicam os índices da caderneta de poupança para correção de débito judicial, conforme se verifica das ementas dos v. arestos abaixo reproduzidas:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA. 1. O Tribunal de origem, não obstante a rejeição dos embargos de declaração, dirimiu de modo fundamentado e claro a controvérsia. O acórdão recorrido não é omisso, obscuro ou contraditório, nem contém erro material. 2. A correção monetária de débitos judiciais deve seguir os preceitos da Lei 6.899/1981 e não os índices da caderneta de poupança. Precedentes. 3. A coisa julgada impede que os juros remuneratórios, não previstos no título exequendo, sejam objeto da execução. Precedentes. 4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. 5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa. 6. Agravo interno a que se nega provimento." (STJ-4ª T., AgInt no R Esp nº 1.643.618-DF, J. 23.03.2020, Rel. Min. MARIA ISABEL GALLOTTI, D Je de 26.03.2020)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. RENDIMENTOS DE POUPANÇA. ATUALIZAÇÃO DE DÉBITOS JUDICIAIS. LEI N. 6.899/81. 1. A correção monetária de débito judicial será feita de acordo com o disposto na Lei n. 6.899/81, e não considerando os índices da caderneta de poupança. 2. Agravo regimental desprovido." (STJ-3ª T., AgRg no R Esp nº 1.266.819-PR, J. 02.06.2015, Rel. Min. JOÃO OTÁVIO DE NORONHA, D Je de 9/6/2015).
+ ..
+Assim, correta a r. decisão vergastada ao reconhecer a incidência da Tabela Prática deste E. Tribunal de Justiça para atualização monetária do débito judicial exequendo.
+O Tribunal recorrido, ao determinar a incidência da sua tabela prática para a correção monetária do débito judicial objeto do cumprimento de sentença, decidiu em consonância com o entendimento desta Corte Superior.
+Além dos precedentes citados no próprio acórdão recorrido e acima transcritos, menciono ainda os seguintes:
+DIREITO CIVIL E PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. LEGITIMIDADE ATIVA. NÃO ASSOCIADO AO IDEC. FORO COMPETENTE. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO NA AÇÃO COLETIVA. CORREÇÃO MONETÁRIA. TABELA PRÁTICA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO. SÚMULA 283/STF. PRÉVIA LIQUIDAÇÃO DA SENTENÇA. NECESSIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+ ..
+4. "É possível a utilização dos índices de correção monetária previstos na tabela prática do TJSP, quando o título executivo não proibiu sua adoção, não havendo que se falar em violação à coisa julgada" (AgInt no AREsp 1.472.432/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe de 16/03/2020).
+ ..
+(REsp n. 1.773.361/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/5/2025, DJEN de 12/5/2025.)
+DIREITO CIVIL E PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. LEGITIMIDADE ATIVA. NÃO ASSOCIADO AO IDEC. FORO COMPETENTE. DOMICÍLIO DO POUPADOR. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO NA AÇÃO COLETIVA. CORREÇÃO MONETÁRIA. TABELA PRÁTICA. INCLUSÃO DE EXPURGOS POSTERIORES. CABIMENTO. JUROS REMUNERATÓRIOS. PREVISÃO EXPRESSA NO TÍTULO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. NOVA FASE PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO. SÚMULA 283/STF. RECURSO ESPECIAL DESPROVIDO.
+ ..
+4. É possível a utilização dos índices de correção monetária previstos na tabela prática do TJSP quando o título executivo não proibiu sua adoção, não havendo que se falar em violação à coisa julgada. Precedentes.
+ ..
+(REsp n. 1.826.923/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/5/2025, DJEN de 12/5/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. POUPANÇA. CORREÇÃO MONETÁRIA. OFENSA AOS ARTS. 489, § 1º, IV, 2º, 492 E 503, TODOS DO CPC. FALTA DE PREQUESTIONAMENTO. JUÍZO DE PRELIBAÇÃO. AUSÊNCIA DE VINCULAÇÃO DO STJ. USO DA TABELA PRÁTICA DO TRIBUNAL DE ORIGEM. VIOLAÇÃO DA COISA JULGADA. INOCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A jurisprudência desta Corte entende possível a utilização dos índices de correção monetária da tabela prática do TJSP, desde que não haja proibição no título executivo, hipótese em que não resta configurada ofensa à coisa julgada. Incidência da Súmula n. 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.781.372/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+Considerando que, como afirmado pelo próprio recorrente, o título executivo judicial não estabeleceu o índice de correção monetária que deveria ser utilizado na atualização do débito, não há proibição da utilização da tabela prática do Tribunal de Justiça de São Paulo, inexistindo violação do art. 402 do CC.
+Dessa forma, verifica-se que o acórdão recorrido está em consonância com a orientação deste Tribunal Superior, o que leva à incidência da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
