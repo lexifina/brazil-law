@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por CICERA DE LIMA SILVA BARRETO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 34-36):
+AGRAVO DE INSTRUMENTO EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - EXECUÇÃO INDIVIDUAL - Saldo remanescente - Indeferimento - Adequação - Feito que já foi extinto pelo pagamento decisão contra a qual não se insurgiu o agravante - Preclusão que se operou sobre o tema. Agravo desprovido.
+Rejeitados os embargos de declaração opostos (fls. 91-93).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos artigos 489, § 1º, VI, 927, III, 1.022, parágrafo único, I e II, 1.039 e 1.040, II, do CPC.
+Sustenta, em síntese, que a decisão do Tribunal local, ao não aplicar tese fixada por este Tribunal Superior (Tema n. 677), violou aqueles dispositivos legais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 97-104).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 105-108), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 140-146).
+É, no essencial, o relatório.
+Passo a decidir.
+Conforme consignado na decisão agravada, a contagem efetiva do prazo para interposição do recurso especial começou a fluir em 31/1/2024. Excluindo os sábados e domingos, e contando todos os demais dias da semana, o prazo de 15 dias findar-se-ia em 20/2/2024.
+Ocorre que 12/2/2024 e 13/2/2024 foram, respectivamente, segunda-feira e terça-feira de Carnaval.
+Quanto à segunda-feira de Carnaval, dia considerado feriado apenas local, cuja ocorrência deve ser provada, nos termos do art. 1.003, § 6º, do CPC, mesmo antes da entrada em vigor da Lei n. 14.939/2024 (que alterou referido dispositivo legal), já se admitia a possibilidade de posterior comprovação, e não apenas no ato de interposição do recurso.
+Com efeito, assim decidiu a Corte Especial deste Tribunal:
+QUESTÃO DE ORDEM. CONTRADIÇÃO ENTRE NOTAS TAQUIGRÁFICAS E VOTO ELABORADO PELO RELATOR PARA ACÓRDÃO. PREVALÊNCIA DAS NOTAS TAQUIGRÁFICAS, QUE REFLETEM A MANIFESTAÇÃO DO COLEGIADO. SESSÕES DE JULGAMENTO DO RESP 1 .813.684/SP. LIMITAÇÃO DO DEBATE E DA DELIBERAÇÃO À POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR ACERCA DO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL, DIANTE DAS PECULIARIDADES QUE MODIFICARIAM A SUA NATUREZA JURÍDICA. VOTO DO RELATOR PARA ACÓRDÃO QUE ABRANGE MAIS DO QUE A MATÉRIA DECIDIDA COLEGIADAMENTE, ESTENDENDO O REFERIDO ENTENDIMENTO TAMBÉM AOS DEMAIS FERIADOS. REDUÇÃO DA ABRANGÊNCIA EM QUESTÃO DE ORDEM. POSSIBILIDADE.
+1- O propósito da presente questão de ordem é definir, diante da contradição entre as notas taquigráficas e o acórdão publicado no DJe de 18/11/2019, se a modulação de efeitos deliberada na sessão de julgamento do recurso especial, ocasião em que se permitiu a posterior comprovação da tempestividade de recursos dirigidos a esta Corte, abrange especificamente o feriado da segunda-feira de carnaval ou se diz respeito a todos e quaisquer feriados.
+2- Havendo contradição entre as notas taquigráficas e o voto elaborado pelo relator, deverão prevalecer as notas, pois refletem a convicção manifestada pelo órgão colegiado que apreciou a controvérsia . Precedentes.
+3- Consoante revelam as notas taquigráficas, os debates estabelecidos no âmbito da Corte Especial, bem como a sua respectiva deliberação colegiada nas sessões de julgamento realizadas em 21/08/2019 e 02/10/2019, limitaram-se exclusivamente à possibilidade, ou não, de comprovação posterior do feriado da segunda-feira de carnaval, motivada por circunstâncias excepcionais que modificariam a sua natureza jurídica de feriado local para feriado nacional notório.
+4- Tendo o relator interpretado que a tese firmada por ocasião do julgamento colegiado do recurso especial também permitiria a comprovação posterior de todo e qualquer feriado, é admissível, em questão de ordem, reduzir a abrangência do acórdão.
+5- Questão de ordem resolvida no sentido de reconhecer que a tese firmada por ocasião do julgamento do REsp 1 .813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais.
+(STJ - QO no REsp: 1813684 SP 2018/0134601-9, Relator.: Ministra NANCY ANDRIGHI, Data de Julgamento: 03/02/2020, CE - CORTE ESPECIAL, Data de Publicação: DJe 28/02/2020)  Grifei.
+Entretanto, esta questão mostra-se irrelevante no caso ora analisado, pois, ainda que se considere o dia 12/2/2024 (segunda-feira de Carnaval) como dia útil para contagem do prazo recursal, o recurso especial foi apresentado tempestivamente.
+Isso porque a terça-feira de Carnaval é feriado judiciário nacional, nos termos do art. 5º da Lei Federal n. 1 .408/1951, dispensando, portanto, comprovação.
+Nesse sentido, cito precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. LUCROS CESSANTES. SANÇÃO PELO USO INDEVIDO DO IMÓVEL PREVISTA CONTRA O CONSUMIDOR APLICADA POR SIMETRIA EM DESFAVOR DO VENDEDOR. TERÇA-FEIRA DE CARNAVAL. FERIADO NACIONAL . DESNECESSIDADE DE COMPROVAÇÃO POR OCASIÃO DA INTERPOSIÇÃO DO RECURSO. INTEMPESTIVIDADE AFASTADA. PRETENSÃO RECURSAL QUE ESBARRA NA SÚMULA Nº 5 DO STJ.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A terça-feira de Carnaval é feriado judiciário em todo o País por força do art. 5º da Lei Federal nº 1.408/51, dispensando, portanto, comprovação.
+3. De rigor, portanto, reconhecer a tempestividade do recurso.
+4. No mérito, a pretensão recursal esbarra na Súmula nº 5 do STJ, porque suscita uma nova interpretação do contrato firmado entre as partes.
+5. Com efeito, se o acórdão estadual aduziu que o pacto celebrado previa uma sanção contra o adquirente em caso de mau uso do imóvel e, por simetria, aplicou essa mesma penalidade contra o vendedor a título de lucros cessantes pelo atraso na entrega da obra, não cabe, em recurso especial, alegar que referido contrato tinha outro conteúdo.
+6. Embargos de declaração acolhidos com efeitos infringentes para conhecer do agravo em recurso especial e negar conhecimento ao apelo nobre por outro fundamento.
+(STJ - EDcl no AgInt no AREsp: 1381670 SP 2018/0269305-2, Relator.: Ministro MOURA RIBEIRO, Data de Julgamento: 24/08/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 27/08/2020)  grifei .
+Assim, o dia 13/2/2024 (terça-feira de Carna val), por ser feriado nacional, portanto, não útil, deve ser excluído da contagem do prazo, de tal forma que, mesmo considerando 12/2/2024 (segunda-feira de Carnaval) como dia útil, o prazo de 15 dias (cuja contagem efetiva se iniciou em 31/1/2024) encerrou-se em 21/2/2024, exatamente o dia em que protocolado o recurso especial (fls. 38-39).
+Portanto, de rigor o reconhecimento da tempestividade do recurso especial.
+Dessa forma, atendidos os pressupostos de admissibilidade do agravo, e sendo o recurso especial tempestivo, passo ao exame de seus demais requisitos.
+Recurso especial proveniente de agravo de instrumento contra decisão de primeira instância que indeferiu pedido de reformulação de cálculo anteriormente apresentado, ante a superveniência de tese fixada por este Tribunal Superior no julgamento de recursos afetos ao rito dos repetitivos (Tema n. 677), tendo o Tribunal de origem negado provimento ao agravo.
+Embora a recorrente alegue violação dos arts. 489, § 1º, VI, 927, III, 1.022, parágrafo único, I e II, 1.039 e 1.040, II, do CPC, o que se observa é que a questão de fundo deste especial se refere à suposta violação do Tema n. 677/STJ. Tanto assim que, no item denominado "OBJETO DO PRESENTE RECURSO ESPECIAL", a recorrente apresenta a seguinte fundamentação (fl. 42):
+O presente Recurso Especial tem em seu bojo 04 (três) importantes questões jurídicas, assim elencadas:
+1- É pacífico o entendimento acerca de que o depósito em garantia do juízo não se equipara a pagamento. O devedor continua obrigado aos consectários do título de crédito até a data da efetiva disponibilização do pagamento ao credor;
+2- A matéria é objeto do TEMA 677 e o Acórdão proferido no julgamento do R Esp. 1.820.963 já foi publicado, bem como o Egrégio Tribunal de Justiça de São Paulo já foi cientificado acerca do teor da tese firmada;
+3- A negativa de aplicação da tese firmada viola o disposto nos artigos 489, §1º, VI, no art. 927, III, no art. 1.022, parágrafo único, I e II, no art. 1039 e no art. 1040, II, todos do Código de Processo Civil.
+4- AUSENCIA DE PRECLUSÃO. FEITO QUE NÃO FOI EXTINTO QUANDO DO JULGAMENTO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. Violação ao artigo Art. 5º, inciso XXXV da Constituição Federal.
+E prossegue toda a fundamentação sobre a violação dos dispositivos legais indicados, em razão da não aplicação do Tema n. 677/STJ.
+Portanto, resta evidente que, neste recurso especial, a recorrente questiona a violação da tese fixada por esta Corte Superior no julgamento dos recursos especiais afetados a o rito dos recursos repetitivos, sob o Tema n. 677, ainda que se utilizando do subterfúgio de questionar violação daqueles artigos de lei.
+Ocorre que não cabe recurso especial, com fundamento na alínea "a" do permissivo constitucional, alegando desrespeito a tese fixada no julgamento de recursos repetitivos (tema), visto que tal normativo não se enquadra no conceito de lei federal, para interposição do apelo nobre, incidindo, por analogia, o óbice da Súmula 518/STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. RAZÕES RECURSAIS DISSOCIADAS. APLICAÇÃO DA SÚMULA 284 DO STF. ALEGAÇÃO DE VIOLAÇÃO DO TEMA REPETITIVO 877/STJ. NÃO CABIMENTO. PROVIMENTO NEGADO.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+2. "Quanto ao Tema 877 do STJ, não é cabível o recurso especial quando se busca analisar a violação ou a interpretação divergente de norma diversa de tratado ou lei federal" (AgInt no AREsp 2.243.619/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+3. Agravo interno a que se nega provimento.
+(STJ - AgInt no AREsp: 2461770 TO 2023/0341101-8, relator.: Ministro PAULO SÉRGIO DOMINGUES, Data de Julgamento: 26/02/2024, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 29/02/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
