@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Santa Cruz do Sul da Primeira Vice-Presidência do Tribunal de Justiça do Rio Grande do Sul, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) "A questão controvertida no presente recurso não se enquadra na hipótese tratada no REsp 1.060.210/SC (TEMA 355)" (fl. 1.572); e (II) incidem os obstáculos das Súmulas 05/STJ e 07/STJ, pois "a conclusão do Órgão Julgador, ao efeito de acolhimento do apelo extremo, exige, na espécie, o reexame do conjunto fático-probatório e das cláusulas contratuais" (fl. 1.574).
+A parte agravante, em suas razões, sustenta, em síntese, que: "ao entender que as Súmulas 05 e 07 do STJ se estabelecem como obstáculo à admissão do Recurso Especial, a decisão agravada deturpa o sentido dado pelo próprio Superior Tribunal de Justiça ao entendimento sumulado.  ..  Deste modo, o recurso do Município tem por objetivo sustentar que a atividade desenvolvida pela parte autora, se qualifica como de manutenção e conservação de máquinas, equipamentos e outros objetos de terceiros, sendo, portanto, tipificada no item 14.01 da Lista Anexa à Lei Complementar nº 116/2003, incidindo a regra prevista no caput do art. 3º da referida LC, sendo devido o imposto ao município onde localizado o estabelecimento prestador" (fl. 1.614).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade dos anteparos sumular n. 05 e n. 07/STJ.
+Logo, não tendo havido efetiva impugnação a esses fundamentos da decisão denegatória de admissibilidade do recurso especial, é de se manter a monocrática sob crivo.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
