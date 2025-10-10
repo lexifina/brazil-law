@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PETERSON FRAGA DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 5010328-58.2019.8.21.0039/RS).
+Consta dos autos que o paciente foi condenado como incurso no art. 33, § 4º, da Lei n. 11.343/2006 à pena de 4 anos, 5 meses e 10 dias de reclusão, em regime semiaberto. Irresignada, a defesa interpôs recurso de apelação, ao qual se deu provimento para reduzir a pena para 1 ano e 8 meses de reclusão, em regime aberto.
+Opostos embargos de declaração, estes foram rejeitados nos seguintes termos (e-STJ fls. 8-9):
+DIREITO PENAL. EMBARGOS DE DECLARAÇÃO EMAPELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. INTERRUPÇÃO DA PRESCRIÇÃO. RECONHECIMENTODO RECEBIMENTO DA DENÚNCIA. OMISSÃO NÃOCONFIGURADA. EMBARGOS CONHECIDOS EREJEITADOS.
+I. CASO EM EXAME
+1. Embargos de declaração pela defesa, alegando omissão noacórdão por não reconhecer a prescrição da pretensão punitiva, emrazão da idade do réu à época dos fatos e do transcurso superior adois anos entre a data do fato e a sentença.
+II. QUESTÕES EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve omissão noacórdão quanto ao reconhecimento da prescrição da pretensãopunitiva do Estado.
+III. RAZÕES DE DECIDIR
+3. O acórdão embargado não padecia de omissão, tendo em vistaque houve marco interruptivo da prescrição com o recebimento dadenúncia em 29/09/2022, conforme despacho fundamentado dojuízo de primeiro grau, que expressamente afastou as hipóteses doart. 397 do CPP.
+4. Tal decisão constitui juízo de admissibilidade da acusação,sendo reconhecida como causa interruptiva da prescrição nostermos do art. 117, I, do Código Penal, conforme jurisprudência consolidade do Superior Tribunal de Justiça.
+5. Verificado que entre os marcos interruptivos da prescrição (recebimento da denúncia, sentença e acórdão condenatórios) não houve transcurso de prazo superior ao fixado no art. 109, V c/c art.115, ambos do Código Penal.
+IV. DISPOSITIVO E TESE
+6. Embargos de declaração conhecidos e rejeitados.
+Tese de julgamento: "O recebimento da denúncia pelo juízo deprimeiro grau constitui marco interruptivo da prescrição penal, nãohavendo omissão a ser sanada se devidamente considerada atempestividade da pretensão punitiva no acórdão embargado."
+Dispositivos relevantes citados: Código Penal: art. 109, V; art. 115;art. 117, I e IV; Código de Processo Penal: art. 397; art. 619.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 918.060/RS,rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 16/10/2024, D Je23/10/2024; STJ, AgRg no RHC n. 180.079/PR, rel. Min. Joel IlanPaciornik, Quinta Turma, j. 30/10/2023, D Je 08/11/2023.
+No presente mandamus, a defesa aduz, em síntese, que deve ser reconhecida a extinção da punibilidade pela prescrição, uma vez que o paciente era menor de 21 anos na data dos fatos e que a prescrição não se interrompeu pelo recebimento da denúncia, haja vista a ausência de manifestação do juiz.
+Pugna, liminarmente e no mérito, pela extinção da punibilidade.
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer. Referido entendimento foi ratificado pela Terceira Seção, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP.
+Nessa linha de intelecção, como forma de racionalizar o emprego do writ e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+As disposições previstas no art. 64, inciso III, e no art. 202, ambos do Regimento Interno do Superior Tribunal de Justiça, bem como no art. 1º do Decreto-Lei n. 552/1969, não impedem o relator de decidir liminarmente o mérito do habeas corpus e do recurso em habeas corpus, nas hipóteses em que a pretensão se conformar com súmula ou com jurisprudência consolidada dos Tribunais Superiores ou a contrariar.
+De fato, a ciência posterior do Parquet, "longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido" (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Relevante consignar que o julgamento do writ liminarmente "apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n.45/2004 com status de princípio fundamental" (AgRg no HC 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Assim, "para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica" (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Conforme relatado, a defesa busca, em síntese, o reconhecimento da prescrição da pretensão punitiva estatal, em virtude da prescrição da pretensão punitiva estatal entre a data dos fatos e a data da sentença condenatória, haja vista a ausência de decisão de recebimento da denúncia.
+A Corte local, ao analisar o pleito defensivo em embargos de declaração, consignou que o recebimento da denúncia ocorreu em 29/9/2022, não tendo transcorrido o prazo de 2 anos entre esta data e a da publicação da sentença condenatória, em 26/7/2024. Dessa forma, diversamente da alegação defensiva, não há se falar em prescrição da pretensão punitiva estatal.
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
