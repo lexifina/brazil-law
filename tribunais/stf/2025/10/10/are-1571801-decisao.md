@@ -1,0 +1,43 @@
+DECISÃO
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (Doc. 6, fl. 2):
+
+    “AGRAVO DE INSTRUMENTO - AÇÃO DE HABILITAÇÃO DE CRÉDITOS - CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA - JUROS DE MORA SOBRE HONORÁRIOS ADVOCATÍCIOS - Decisão que indeferiu a incidência de juros moratórios sobre os honorários advocatícios entre a data da apresentação dos cálculos e a data da expedição da requisição de pequeno valor - Pleito de reforma da decisão - Cabimento - Juros de mora que incidem sobre os honorários advocatícios a partir do trânsito em julgado da sentença, momento em que a agravada constitui-se em mora, até a data da requisição de pequeno valor ou do precatório - Precedentes do STF e STJ - Decisão reformada - AGRAVO DE INSTRUMENTO provido, para determinar a incidência de juros de mora sobre os honorários advocatícios a partir do trânsito em julgado da sentença em que foram fixados, até a data da requisição de pequeno valor ou do precatório.”
+
+    Opostos Embargos de Declaração (Doc. 8), foram rejeitados (Doc. 9).
+
+    No Recurso Extraordinário (Doc. 11), com fundamento no art. 102, III, “a”, da Constituição, o ESTADO DE SÃO PAULO alega violação ao art. 100, §8º, da CF/1988, bem como a inaplicabilidade do Tema 96 da repercussão geral à hipótese dos autos.
+
+    Em suas razões, defende a não incidência ao caso de juros de mora sobre verba honorária antecedentes ao tempo de expedição do ofício requisitório.
+
+    Sustenta que “os honorários advocatícios, fixados em percentual, não são verbas frutíferas, de modo que não geram a incidência de juros. Demais disso, não houve qualquer atraso no adimplemento dos honorários sucumbenciais a justificar a incidência dos juros de mora” (Doc. 11, fls. 9-10). (...) “Juros moratórios somente incidem se e quando existe mora, entendida como o descumprimento de obrigação vencida” (Doc. 11, fl. 10).
+
+    Em exame de admissibilidade (Doc. 14), negou-se seguimento ao RE aplicando a Súmula 279/STF.
+
+    No Agravo (16), o agravante alegada a desnecessidade de reexame de provas.
+
+    Em seguida, os autos foram enviados ao STF (Doc. 19).
+
+    É o relatório. Decido.
+
+    Assiste razão ao recorrente.
+
+    No caso concreto, o Tribunal de origem decidiu que incidem juros de mora sobre honorários advocatícios, citando precedente do PLENÁRIO do SUPREMO TRIBUNAL FEDERAL (AR 1950 ExecFazPub-EEAgR, Rel. Min. CÁRMEN LÚCIA; DJ de 23/03/2.021) no qual se aplicou o Tema 96 da repercussão geral, cuja tese é a seguinte: Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+
+    A jurisprudência mais recente desta CORTE, contudo, é no sentido da inaplicabilidade do Tema 96 à presente hipótese. Nesse sentido:
+
+    “Ementa: Direito previdenciário. Agravo regimental no recurso extraordinário com agravo. Honorários advocatícios. Juros de mora. Prequestionamento. Deficiência de fundamentação. Ausência de impugnação específica. Não conhecimento. Trânsito em julgado. Baixa imediata dos autos. I. Caso em exame 1. Agravo interno interposto contra decisão que inadmitiu agravo em recurso extraordinário, este último manejado em face de acórdão do Tribunal de Justiça de São Paulo. A controvérsia original, tratada em agravo de instrumento, versava sobre cumprimento de sentença em ação acidentária, especificamente a incidência de juros de mora sobre honorários advocatícios. 2. O agravante argumenta pela incidência de juros de mora sobre os honorários advocatícios no período compreendido entre a data da conta de liquidação e a expedição do requisitório, com base no Tema 96 da repercussão geral do Supremo Tribunal Federal. 3. O Tribunal de Justiça de São Paulo reformou a decisão de primeiro grau para afastar a incidência de juros de mora sobre os honorários advocatícios, por entender que a correção monetária sobre o valor principal da dívida, que já incluía juros moratórios, geraria anatocismo ao se aplicar juros adicionais à verba honorária. A decisão agravada negou seguimento ao agravo em recurso extraordinário, com base na ausência de prequestionamento da matéria constitucional e na deficiência de fundamentação recursal. II. Questão em discussão 4. Há três questões em discussão: (i) saber se a matéria constitucional versada no recurso extraordinário foi devidamente prequestionada nas instâncias de origem; (ii) saber se o Tema 96 da repercussão geral se aplica à incidência de juros de mora sobre honorários advocatícios; e (iii) saber se o agravo interno impugnou especificamente todos os fundamentos da decisão agravada. III. Razões de decidir 5. A matéria constitucional invocada no recurso extraordinário não foi objeto de análise pela Corte de origem, tampouco foi suscitada em embargos de declaração, o que impede o conhecimento do recurso por ausência de prequestionamento, conforme as Súmulas 282 e 356 do Supremo Tribunal Federal. 6. O Tema 96 da repercussão geral, que trata da incidência de juros de mora entre a conta de liquidação e a expedição do requisitório, não se aplica à questão em discussão, que é a incidência de juros sobre honorários advocatícios, caracterizando deficiência de fundamentação recursal, nos termos da Súmula 284 do Supremo Tribunal Federal. 7. As razões do agravo interno não impugnaram especificamente todos os fundamentos da decisão agravada, limitando-se a reiterar argumentos já refutados, o que inviabiliza o conhecimento do recurso, conforme o princípio da dialeticidade recursal e a jurisprudência desta Corte (Súmula 287/STF). 8. A interposição de agravo interno manifestamente inadmissível, com intuito protelatório, configura abuso do direito de recorrer, o que impõe o não conhecimento do recurso e a determinação do trânsito em julgado e baixa imediata dos autos. IV. Dispositivo e tese 9. Agravo interno não conhecido, com determinação de certificação do trânsito em julgado e baixa imediata dos autos à origem, independentemente de publicação do acórdão. 10. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1541949 AgR / SP, Relator(a): Min. FLÁVIO DINO, Primeira Turma, DJe de 29/8/2025)
+
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 12.05.2023. EXECUÇÃO. CUMPRIMENTO DE ACÓRDÃO. PRECATÓRIO. RPV. NÃO INCIDÊNCIA DE JUROS MORATÓRIOS. VALOR DEVIDO PELA FAZENDA PÚBLICA ESTADUAL A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. NÃO ESCOAMENTO DO PRAZO DE IMPUGNAÇÃO. TEMA 96 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. SÚMULA 279 DO STF. 1. O Supremo Tribunal Federal, no julgamento do Tema 96 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 579.431, de relatoria do Ministro Marco Aurélio, DJe de 19.04.2017, assentou a seguinte tese: “Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.” 2. Inaplicável, ao caso concreto, o referido Tema 96 da repercussão geral, pois a situação enfrentada nestes autos é diversa, tendo em vista que o Tribunal de origem, com apoio na jurisprudência do STJ, concluiu pela não incidência de juros moratórios sobre o valor devido pela Fazenda Pública Estadual, a título de honorários sucumbenciais, considerando o fato de que, na hipótese, não foi escoado o prazo de impugnação. 3. Eventual divergência em relação ao entendimento adotado pelo juízo de origem, no que tange à aplicação do Tema 96 ao caso, demandaria o reexame do conjunto fático probatório constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. 4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na instância de origem.” (RE 1401341 AgR / RJ, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe de 4/9/2023)
+
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, CONHEÇO DO AGRAVO E DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO para restabelecer a decisão monocrática proferida no juízo de origem que decidiu pela não incidência de juros moratórios sobre honorários advocatícios (Doc. 2, fl. 16).
+
+    Publique-se.
+
+    Brasília, 10 de outubro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
