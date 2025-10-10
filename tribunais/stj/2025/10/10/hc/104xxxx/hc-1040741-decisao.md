@@ -1,0 +1,18 @@
+DECISÃO
+ADILSON ARAÚJO DE LIMA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo.
+A defesa explica que o sentenciado está cumprindo pena em regime fechado e sua progressão foi condicionada pelas instâncias ordinárias à elaboração de exame criminológico.
+O impetrante aponta o desrespeito à Súmula Vinculante n. 26 e à Súmula n. 439 do STJ, a inconstitucionalidade formal e material do art. 112, §1º, da LEP e a irretroatividade da lei penal mais gravosa.
+Requer a concessão da ordem, para que o juízo de origem avalie o pleito de progressão independentemente do exame criminológico.
+Decido.
+A discussão sobre a constitucionalidade em abstrato de norma jurídica deve ocorrer por meio de instrumentos jurídicos específicos, como a Ação Direta de Inconstitucionalidade (ADI), Ação Declaratória de Constitucionalidade (ADC), ou Arguição de Descumprimento de Preceito Fundamental (ADPF), que são ações apropriadas, com enumeração taxativa de órgãos legitimados para pedir o controle concentrado, o que deve ser feito perante o Supremo Tribunal Federal.
+Por isso, segundo entendimento desta Corte, o habeas corpus "não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral" (AgRg no HC 840.517/SP, relator o Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 07/11/2023, DJe de 09/11/2023), o que implicaria subverter regras próprias do controle abstrato de constitucionalidade, desvirtuar a natureza do remédio constitucional e usurpar a competência atribuída ao Supremo Tribunal Federal para o exame da questão.
+Ademais, não se verifica o interesse de agir, pois nem sequer houve a aplicação do art. 112, § 1º, da LEP ao paciente.
+Segundo o acórdão recorrido, "na hipótese, o exame criminológico não será realizado por força obrigatória da nova lei, mas, sim, porque devidamente justificada a sua realização no caso concreto" (fls. 99/100), uma vez que:
+ ..  o agravado, apesar de ostentar envolvimento em crime cometido sem violência e/ou grave ameaça, é reincidente e, durante o cumprimento das penas, veio a praticar falta disciplinar de natureza grave (fl. 101, destaquei).
+As razões apresentadas no habeas corpus mostram-se deficientes, o que inviabiliza o exame da ilegalidade do ato apontado como coator.
+Incabível, ainda, eventual concessão da ordem, de ofício, uma vez que, conforme a Súmula n. 439 do STJ, não é ilegal a determinação de "realização de exame criminológico com base em elementos concretos, considerando o histórico criminal conturbado do apenado, consistente na prática de falta grave no curso da execução  .. 5. Habeas corpus denegado. (HC n. 388.275/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/5/2017, grifei).
+O ""atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC 426201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, Dje 12/6/2018)" (AgRg no HC n. 814.112/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023).
+A "tese defensiva está em confronto com a Súmula n. 439 do STJ, o que obsta a concessão da ordem de ofício. Determinou-se o exame criminológico por decisão idoneamente motivada, que apontou histórico carcerário conturbado" (AgRg no HC n. 805.754/SP, relator Ministro Rogerio Schietti, Sexta Turma, julgado em 9/5/2023, DJe de 15/5/2023).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus. Ademais, não identifico flagrante ilegalidade apta a justificar eventual concessão da ordem, de ofício.
+Publique-se e intimem-se.
+EMENTA
