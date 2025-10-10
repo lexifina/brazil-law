@@ -1,0 +1,84 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S.A. contra acórdão prolatado, por unanimidade, pela 1ª Câmara Cível do Tribunal de Justiça do Estado de Goiás no julgamento de apelação, assim ementado (fl. 516e):
+AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C INDENIZAÇÃO POR DANO MORAL. CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA. SEXTA-FEIRA. VEDAÇÃO. LEIS Mº 8.987/95 E 13.460/17. DANO MORAL IN RE IPSA. SERVIÇO ESSENCIAL. PRECEDENTES DESTE SODALÍCIO E DO STJ.
+1. É vedada a suspensão da prestação de serviço de energia elétrica, em virtude de inadimplemento, realizado na sexta-feira, no sábado ou no domingo, bem como em feriado ou no dia anterior a feriado, conforme previsto no art. 6o, parágrafo único, da Lei nº 13.460/2017 e no art. 6o, §4o, da Lei nº 8.987/95.
+2. Realizado o corte no fornecimento de energia elétrica na unidade consumidora da Apelada numa sexta feira, resta caracterizado o ato ilícito passível de dano moral, que nesse caso é in re ipsa, diante da essencialidade do serviço e do tempo da interrupção.
+3. O valor de R$ 5.000,00 (cinco mil reais) fixado na sentença a título de dano moral se mostra adequado à situação fática exposta nos autos, sendo apto a compensar o prejuízo extrapatrimonial sofrido pela Apelada, não havendo razões para sua minoração, à luz da Súmula 32-TJGO. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Opostos embargos de declaração, foram rejeitados (fls. 556-565e e 606-613e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i) Arts. 371 e 1.022, II, do Código de Processo Civil - O acórdão recorrido mostra-se omisso em relação aos seguintes pontos: a) ausência de elementos para a condenação em danos morais; b) ausência de proporcionalidade e razoabilidade no valor fixado a título de indenização moral;
+ii) Art. 944 do Código Civil - O Tribunal de origem não apresentou os fundamentos pelos quais fixou o valor dos danos morais, o que evidencia a ausência de proporcionalidade e de razoabilidade no quantum arbitrado, razão pela qual deve-se reformar o julgado.
+Sem contrarrazões (fl. 823e), o recurso foi inadmitido (fls. 826-829e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 939e).
+Feito breve relato, decido.
+Nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+- Da Alegação de Violação ao Art. 1.022, II, do CPC
+A parte Recorrente sustenta a existência de vício no acórdão recorrido, não sanado no julgamento dos embargos de declaração, porquanto omisso em relação aos seguintes pontos: a) ausência de elementos para a condenação em danos morais; b) ausência de proporcionalidade e razoabilidade no valor fixado a título de indenização moral.
+Ao prolatar o acórdão recorrido, mediante o qual os embargos de declaração foram analisados, o Tribunal de origem enfrentou a controvérsia reconhecendo tratar-se de dano moral in re ipsa, entendendo, ainda, que o valor de R$ 5.000,00 (cinco mil reais) mostra-se razoável e proporcional diante da privação imotivada de energia elétrica, bem essencial, por um longo período, capaz de gerar abalo que supera o mero aborrecimento da vida cotidiana, nos seguintes termos (fls.511-513e):
+Inicialmente, é imperioso destacar que restou incontroverso nos autos que houve falha na prestação do serviço de energia elétrica por parte da Apelante, por ter realizado o corte de energia elétrica da unidade consumidora da Apelada na sexta-feira, violando a norma prevista no art. 6o, parágrafo único, da Lei nº 13.460/2017 e do art. 6o, §4o, da Lei nº 8.987/95.
+ ..
+Nessa linha, o corte de energia elétrica pela Apelante numa sexta-feira se revela como ato ilícito apto a ensejar o dano moral, que nesse caso é in re ipsa, ou seja, é presumido, diante da essencialidade do serviço e do tempo da interrupção, considerando que a suspensão se deu em 11/03/2022 a regularização definitiva pela concessionária operou-se apenas em 02/07/2022.
+ ..
+Desse modo, devidamente configurada a ilegalidade da conduta da Apelante, resta a definição do quantum indenizatório.
+A valoração do dano moral deve se escorar nos princípios da razoabilidade e proporcionalidade, averiguando a extensão e gravidade da conduta, de modo que a reprimenda judicial garanta seu caráter pedagógico, a fim de impedir novos comportamentos lesivos, sem causar, contudo, enriquecimento indevido da vítima.
+Neste caso, entendo que o valor arbitrado na origem de R$ 5.000,00 (cinco mil reais) se mostra razoável e proporcional, nos termos da Súmula 32 do TJGO, considerando os graves transtornos causados à Apelada, uma vez que a privação imotivada de um bem extremamente essencial como energia elétrica, por um longo período, ocasiona abalo psíquico que extrapola o mero aborrecimento da vida cotidiana. (destaque meu)
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+Por fim, registre-se que prevalece nesta Corte Superior o entendimento de que não há violação do art. 1.022 do CPC/2015 quando a Corte a qua se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento.
+Espelhando essa compreensão:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AMBIENTAL. DESTINAÇÃO DE EVENTUAL INDENIZAÇÃO AO FUNDO MUNICIPAL DO MEIO AMBIENTE. IMPOSSIBILIDADE. REGRA COGENTE ESTABELECIDA PELO ART. 13 DA LEI N. 7.437/1985. OPÇÃO LEGISLATIVA. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL A QUO MEDIANTE FUNDAMENTAÇÃO SUFICIENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MATÉRIA CONFORME ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE.
+1. Não ocorre ofensa ao art. 1.022 do CPC quando a Corte de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.832.112/GO, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. em 25/8/2025, DJEN de 28/8/2025, destaque meu.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. OCORRÊNCIA. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. TEMA N. 880/STJ. INAPLICABILIDADE.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+ ..
+X - Agravo interno improvido.
+(AgInt no REsp n. 2.113.466/PE, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, j. em 8/4/2024, DJe de 11/4/2024, destaque meu.)
+- Da Alegação de Violação ao Art. 371 do CPC
+Em relação à afronta ao art. 371 do CPC, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma genérica, o que impede o conhecimento do recurso especial.
+Desse modo, em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a orientação contida na Súmula 284 do Colendo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 11.2.2014, DJe 18.2.2014 - destaque meu)
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, j. 18.2.2014, DJe 7.3.2014 - destaque meu)
+- Da Alegação de Violação ao Art. 944 do CC
+Nas razões do Recurso Especial, aponta-se ofensa ao art. 944 do CC, alegando-se, em síntese, não ter o Tribunal de origem apresentado os fundamentos pelos quais fixou o valor dos danos morais, evidenciando ausência de proporcionalidade e razoabilidade no quantum arbitrado (fl. 640e).
+Acerca do tema, a Corte a qua, após minucioso exame dos elementos fáticos contidos nos autos, consignou mostrar-se razoável e proporcional o valor arbitrado em razão da privação imotivada de um bem extremamente essencial por um longo período, ocasionando abalo psíquico que extrapola o mero aborrecimento da vida cotidiana, nos seguintes termos (fl. 513e):
+Desse modo, devidamente configurada a ilegalidade da conduta da Apelante, resta a definição do quantum indenizatório.
+A valoração do dano moral deve se escorar nos princípios da razoabilidade e proporcionalidade, averiguando a extensão e gravidade da conduta, de modo que a reprimenda judicial garanta seu caráter pedagógico, a fim de impedir novos comportamentos lesivos, sem causar, contudo, enriquecimento indevido da vítima.
+Neste caso, entendo que o valor arbitrado na origem de R$ 5.000,00 (cinco mil reais) se mostra razoável e proporcional, nos termos da Súmula 32 do TJGO, considerando os graves transtornos causados à Apelada, uma vez que a privação imotivada de um bem extremamente essencial como energia elétrica, por um longo período, ocasiona abalo psíquico que extrapola o mero aborrecimento da vida cotidiana. (destaque meu)
+Do confronto entre a insurgência recursal e fundamentação adotada pelo Tribunal de origem pode-se defluir tanto a possibilidade de mera revaloração de premissas nas quais o acórdão recorrido esteja assentado, quanto a incidência do óbice constante na Súmula n. 7/STJ, segundo a qual, a pretensão de simples reexame de prova não enseja recurso especial.
+In casu, a análise da pretensão recursal - não foram apresentadas as premissas para fixação do valor dos danos morais, evidenciando ausência de proporcionalidade e de razoabilidade no quantum arbitrado - a fim de revisar o entendimento adotado pela Corte a qua - mostra-se razoável e proporcional o valor arbitrado em razão da privação imotivada de energia elétrica, bem essencial, por um longo período, ocasionando abalo psíquico que extrapola o mero aborrecimento da vida cotidiana - demanda o necessário revolvimento de matéria fática, o que é inviável em recurso especial, à luz do óbice contido no mencionado verbete sumular.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AMICUS CURIAE. INTERESSE AO JULGAMENTO FAVORÁVEL A UMA DAS PARTES. IMPOSSIBILIDADE. QUANTUM INDENIZATÓRIO. REDUÇÃO. DESPROPROCIONALIDADE OU IRRAZOABILIDADE. INOCORRÊNCIA. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO. SÚMULA N. 54/STJ. DANOS MATERIAIS. PENSIONAMENTO MENSAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DANOS MORAIS. PRESCRIÇÃO. ART. 200 DO CÓDIGO CIVIL. EXISTÊNCIA DE PERSECUÇ ÃO PENAL. IMPEDIMENTO AO INÍCIO DO LUSTRO PRESCRICIONAL. RECURSO ESPECIAL DO MUNICÍPIO DE SÃO PAULO NÃO CONHECIDO. RECURSO ESPECIAL DAS AUTORAS CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+ ..
+III - Consoante a jurisprudência desta Corte, não é cabível, na via especial, ressalvadas as hipóteses de flagrante desproporcionalidade ou irrazoabilidade, a revisão do valor estipulado pelas instâncias ordinárias a título de indenização, porquanto demandaria necessário revolvimento de matéria fática, o que é inviável à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+XII - Recurso Especial do Município não conhecido. Recurso Especial das Autoras parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp n. 2.099.872/SP, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, j. 24.9.2024, DJe 27.9.2024 - destaque meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. INDENIZAÇÃO POR DANOS MORAIS COLETIVOS. MAJORAÇÃO DO MONTANTE PELO TRIBUNAL DE ORIGEM. ATO PRÓPRIO DAS INSTÂNCIAS ORDINÁRIAS INCIDÊNCIA DA SÚMULA 7/STJ. REVISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. EXCEPCIONALIDADE. NÃO APLICAÇÃO AO CASO CONCRETO. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. O dano extrapatrimonial deve ser quantificado de acordo com os critérios de proporcionalidade, moderação e razoabilidade, cabendo ao prudente arbítrio judicial essa definição. A quantificação deve, ainda, levar em consideração as particularidades dos fatos e as circunstâncias do caso concreto, além de estar alinhada à função sancionatória e pedagógica da reparação.
+1.1. A revisão da conclusão alcançada pelo colegiado estadual (acerca da razoabilidade e proporcionalidade do quantum fixado a título de dano moral coletivo) demandaria o revolvimento do acervo fático- probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de conhecer do agravo para não conhecer do recurso especial, tendo em vista que é excepcional a revisão de honorários advocatícios, incumbência que cabe as instâncias ordinárias.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.406.061/MT, relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA TURMA, j. 26.2.2025, DJEN 6.3.2025 - destaque meu.)
+- Dos Honorários Recursais
+Nos termos do art. 85, § 11, de rigor a majoração, para R$ 1.500,00 (mil e quinhentos reais), dos honorários anteriormente fixados (fl. 513e).
+- Do Dispositivo
+Posto isso, com fundamento nos arts. 932, III e IV, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO PARCIALMENTE do Recurso Especial e, nessa extensão, NEGO-L HE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
