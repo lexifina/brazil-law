@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por MARCOS AURÉLIO DA SILVA BEZERRA contra acórdão proferido pelo Tribunal de Justiça do Estado do CEARÁ (HC n. 0627675-70.2025.8.06.0000).
+Consta dos autos que o paciente foi denunciado pela suposta prática de lesão corporal culposa na direção de veículo automotor, agravada por omissão de socorro, nos termos do art. 303, § 1º, do Código de Trânsito Brasileiro.
+Sobreveio sentença, em 09/07/2025, fixando a pena em 1 ano e 4 meses de detenção em regime aberto, substituída por pena restritiva de direitos, e suspensão do direito de dirigir por 3 meses. Assegurou-se o direito de apelar em liberdade e determinou-se a imediata expedição de ofício ao DETRAN/CE para suspensão da habilitação.
+A defesa opôs embargos de declaração em 24/07/2025, rejeitados por intempestividade em 30/07/2025. Em habeas corpus subsequente, o TJCE, em 02/09/2025, não conheceu do writ por sucedâneo recursal, mas concedeu parcialmente a ordem, de ofício, para reconhecer a tempestividade dos embargos, declinando de analisar a suspensão antecipada da CNH por já estar suscitada nos embargos restabelecidos.
+A defesa sustenta violação ao princípio da presunção de inocência e inadmissibilidade da execução antecipada de sanção restritiva de direitos consistente na suspensão da CNH sem trânsito em julgado, por contrariar o art. 5º, LVII, da CF e o art. 293, § 1º, do CTB.
+Destaca existência de constrangimento ilegal decorrente da manutenção da suspensão da CNH, com afetação direta do direito social ao trabalho do paciente, motorista profissional.
+Requer, liminarmente, a concessão da ordem para suspender imediatamente o a penalidade de suspensão da CNH do paciente, com expedição de ofício ao DETRAN/CE.
+É o relatório.
+Decido.
+A concessão de liminar em recurso em habeas corpus é medida excepcional, somente cabível quando, em uma análise sumária, observa-se constrangimento ilegal.
+A defesa sustenta a existência de constrangimento ilegal decorrente da suspensão imediata da CNH do recorrente antes do trânsito em julgado da condenação.
+Extrai-se do acórdão recorrido (fls. 488-489):
+Colho dos autos de origem (n. 0051139-42.2021.806.0121), que o paciente foi denunciado pela prática do crime previsto no art. 303, §1º, do Código de Trânsito Brasileiro (fls. 57-61). Regularmente processado, Marcos Aurélio da Silva Bezerra foi condenado às penas de 1 (um) ano e 4 (quatro) meses de detenção, em regime aberto, substituída por pena restritiva de direitos, e suspensão para dirigir por 3 (três) meses (fls. 391-399).
+Às fls. 407-413, o paciente opôs embargos de declaração, a fim de sanar contradição constante da sentença proferida pelo juízo singular, consistente na concessão ao réu do direito de recorrer em liberdade, paralelamente à determinação de que fosse o Detran-CE oficiado do teor da decisão, ante a determinação da suspensão da CNH, o que representaria o cumprimento antecipado da pena. Assim, requereu que fosse esclarecido se a pena de suspensão para dirigir deveria aguardar o trânsito em julgado da sentença ou não.
+Por meio de decisão interlocutória (fl. 415), o juiz primevo deixou de receber os embargos de declaração, dada sua suposta intempestividade.
+Entretanto, consoante sustentado pela defesa e corroborado pelo parecer da Procuradoria de Justiça, impõe-se a correção da decisão que deixou de receber os embargos de declaração. Isso porque a sentença foi disponibilizada no Diário da Justiça Eletrônico em 21/07/2025 (fl. 402), considerando-se publicada em 22/07/2025, nos termos do art. 4º, §3º, da Lei nº 11.419/2006:  ..
+À vista do prazo de dois dias previsto no art. 619 do CPP para a oposição de embargos de declaração, tem-se que o termo inicial ocorreu em 23/07/2025, findando-se em 24/07/2025, data em que efetivamente foram protocolados os embargos (fls. 407-413). Assim, a despeito do não conhecimento do habeas corpus quanto a este ponto, a ordem deve ser concedida de ofício.
+No que se refere à alegação de suposta execução antecipada da pena, em afronta ao princípio da presunção de inocência, tendo em vista que, não obstante assegurado ao paciente o direito de recorrer em liberdade, determinou-se paralelamente a expedição de ofício ao Detran-CE para fins de suspensão de sua CNH, entendo que o writ igualmente não comporta conhecimento nesse ponto.
+Como já exposto, o paciente opôs embargos de declaração contra a sentença proferida pelo juízo de primeiro grau, exatamente porque, da leitura do inteiro teor do decisum e conforme também sustentado nas razões do presente remédio constitucional, subsiste dúvida quanto à manifestação do juízo primevo, que simultaneamente concedeu ao paciente condenado o direito de recorrer em liberdade, mas determinou que fosse oficiado o Detran-CE para suspensão de sua CNH.
+Assim, a questão já foi arguida em recurso adequado, o qual, embora inicialmente não tenha sido conhecido por suposta intempestividade, deverá ser apreciado, diante da presente decisão que concede parcialmente a ordem, de ofício, para corrigir o equívoco na contagem do prazo para o recebimento dos embargos de declaração.
+Reforço que o habeas corpus, enquanto remédio constitucional, destina-se à proteção imediata da liberdade de locomoção, sendo inadequado para situações que demandem dilação probatória. As provas necessárias devem ser pré-constituídas e integralmente incluídas nos autos, possibilitando a pronta verificação da alegação de ilegalidade ou abuso de poder, o que não se verifica neste caso.
+Diante do exposto, não conheço do habeas corpus. Todavia, concedo parcialmente a ordem, de ofício, para reconhecer a tempestividade dos embargos de declaração opostos pela defesa do paciente nos autos de origem.
+Ao analisar a fundamentação exposta acima, verifica-se que a Corte local não conheceu do habeas corpus, porém concedeu parcialmente a ordem para reconhecer a tempestividade dos embargos de declaração opostos pela defesa, determinando que o Juízo de primeiro grau analise a matéria oposta nos embargos declaratórios.
+Assim, a análise por esta Corte resultaria em supressão de instância, visto que o Tribunal de origem não analisou a matéria, apenas determinou que esta fosse analisada pelo Juízo de primeiro grau.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Guilherme Santos Viola da Silva contra decisão monocrática da egrégia Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor. O paciente foi condenado à pena de 4 anos, 7 meses e 9 dias de reclusão, em regime semiaberto, pelo crime previsto no art. 33 da Lei n. 11.343/2006. A defesa pleiteia a incidência da causa de diminuição de pena do tráfico privilegiado, sob o argumento de que a corré obteve tal benefício na apelação criminal.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o pleito de reconhecimento do tráfico privilegiado pode ser analisado diretamente pelo Superior Tribunal de Justiça, sem prévio exame pelo Tribunal de origem; e (ii) estabelecer se a extensão do benefício concedido à corré poderia ser analisada por esta Corte.
+III. RAZÕES DE DECIDIR
+3. O conhecimento da matéria pelo Superior Tribunal de Justiça configura indevida supressão de instância, pois a questão referente à aplicação do tráfico privilegiado ao paciente não foi objeto de deliberação pelo Tribunal de origem.
+4. A análise do pedido de extensão de benefício concedido a corré compete ao órgão jurisdicional que proferiu a decisão favorável, não cabendo ao Superior Tribunal de Justiça examinar a questão originariamente.
+5. A jurisprudência desta Corte é firme no sentido de que a extensão dos efeitos de decisão favorável a corréu não ocorre de forma automática e deve ser analisada pela instância competente, levando-se em conta as particularidades de cada acusado.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 978.258/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 18/3/2025, DJEN de 24/3/2025.)
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se.
+Intimem-se.
+EMENTA
