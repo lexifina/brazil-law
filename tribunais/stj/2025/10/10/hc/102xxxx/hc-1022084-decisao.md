@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Habeas Corpus sem pedido de liminar impetrado em favor de JEFFERSON GUEDES DE OLIVEIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do Habeas Corpus nº 2193621-54.2025.8.26.0000;
+Extrai-se dos autos que a Juíza da Unidade Regional de Departamento Estadual de Execução Criminal - Deecrim 1ª RAJ - Comarca de São Paulo, nos autos da Execução nº 0009426-10.2023.8.26.0041, indeferiu o pleito, formulado em prol do ora paciente, de remição proporcional da pena pela realização da prova do Exame Nacional para Certificação de Competência de Jovens e Adultos (ENCCEJA).
+A Segunda Câmara de Direito Criminal, por votação unânime, em julgamento virtual finalizado aos 18 de julho de 2025, indeferiu liminarmente a impetração, nos termos do artigo 248 do Regimento Interno do respectivo Tribunal e do artigo 663 do Código de Processo Penal, nos termos do acórdão assim ementado:
+"Habeas Corpus. Contestação de decisão do Juízo das Execuções. Matéria a ser guerreada por agravo em execução. Ausente teratologia no ato impugnado. Impetração indeferida liminarmente." (f. 15).
+Neste writ, a Parte Impetrante alega constrangimento, decorrente de decisão que indeferiu a remição de pena pela aprovação no Encceja, afirmando que "A negativa de remição com base apenas na vinculação a atividades escolares regulares viola o princípio da legalidade e o artigo 126 da LEP, além de afrontar a jurisprudência desta Corte que confere tratamento equânime ao esforço educacional, independentemente da via escolhida (estudo autodidata ou regular)".
+Destaca que o paciente concluiu o Ensino Médio pelo ENCCEJA, o que lhe dá direito a 133 dias de remição.
+Requer a concessão da ordem para conhecer o direito do paciente à remição pela conclusão do Ensino Médio pelo ENCCEJA, ressalvada a possibilidade de cômputo da remição já concedida pelo estudo regular, nos termos do art. 126, § 5º, da LEP (f. 2-6).
+Informações prestadas pelo Juízo de primeiro grau (fls. 33/35) e pelo Tribunal de origem (fls. 39/40).
+Parecer do Ministério Público Federal pelo não conhecimento do writ (fls. 55/63).
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, a Corte de origem indeferiu liminarmente o pleito na origem por não verificar, em um primeiro exame, o alegado constrangimento ilegal que justificasse a antecipação do mérito. Veja o seguinte recorte do acórdão combatido:
+"O agravo em execução é o instrumento processual adequado e eficiente para impugnar decisão desfavorável em sede de execução das penas.
+Logo, podendo se utilizar voluntariamente do recurso adequado, não está o paciente habilitado a se valer da via estreita do habeas corpus para a reparação de suposto constrangimento contrário ao ordenamento jurídico.
+A ação constitucional sempre foi e é reservada aos casos em que haja, desde o seu limiar, clara possibilidade de ocorrência de violação ao direito de locomoção do ser humano. O abuso, a ilegalidade e o constrangimento ilícito devem ser flagrantes, passíveis de reconhecimento sem necessidade de instrução ou de minuciosa apuração fática.
+No caso em apreço, formulados pedidos de remição de pena, foi proferida a seguinte decisão pelo i. Juízo das Execuções (fls. 10/12):
+ ..
+Não se vislumbra, portanto, flagrante constrangimento ilegal a autorizar a concessão da ordem, estando o decisum suficientemente fundamentado.
+Além disso, noto que a decisão judicial fora proferida em 16 de maio de 2024 e, aparentemente, não houve irresignação defensiva no momento adequado. Diante da preclusão temporal, eventual alteração de entendimento jurisprudencial não autorizaria a rediscussão da questão, em respeito à coisa julgada e à segurança jurídica.
+ .. " (fls. 16/20)
+Da leitura do acórdão recorrido, verifica-se que nenhuma das teses aventadas pelo paciente foram discutidas no acórdão impugnado, que se limitou a afirmar a inviabilidade do manejo de habeas corpus em substituição ao recurso próprio e a ausência de flagrante constrangimento ilegal a autorizar a concessão da ordem.
+Nesse contexto, a análise do constrangimento alegado resta inviabilizada por esta Corte Superior, sob pena de configurar indevida supressão de instância.
+Ora, admitir a análise direta por esta Corte Superior de eventual ilegalidade não submetida ao crivo do Tribunal de origem denotaria patente desprestígio às instâncias ordinárias e inequívoco intento de desvirtuamento do ordenamento recursal ordinário, o que efetivamente tem se buscado coibir (AgRg no HC n. 818.673/SC, Ministro Nome, Quinta Turma, DJe 29/5/2023).
+Destaco que esta Corte Superior de Justiça consolidou o entendimento de que até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, Min. Nome, DJe 25/5/2017).
+Confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. REVISÃO CRIMINAL INDEFERIDA NA ORIGEM. TESES NÃO DEBATIDAS NO ACÓRDÃO REVISIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DAS QUESTÕES NESTA CORTE. SUPRESSÃO DE INSTÂNCIA. ENTENDIMENTO DO TRIBUNAL ESTADUAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REVISÃO CRIMINAL. USO COMO SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. PRETENSÃO DE REANÁLISE DE PROVAS. HIPÓTESE NÃO PREVISTA NO ART. 621 DO CPP. Agravo regimental improvido.
+(AgRg no HC: 718879 SP 2022/0015637-2, Relator.: Ministro SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 05/03/2025, T6 - SEXTA TURMA, Data de Publicação: DJEN 11/03/2025)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME TRIBUTÁRIO. NULIDADE. BUSCA E APREENSÃO REALIZADA HÁ MAIS DE 5 ANOS. CAUTELAR DEFERIDA ANTES DO LANÇAMENTO TRIBUTÁRIO. SUPRESSÃO DE INSTÂNCIA. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO. PERDA DE OBJETO. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior .
+2. Ademais, Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021) .
+3. Na hipótese, a matéria referente à suposta nulidade da busca e apreensão realizada há mais de 5 anos no domicílio do agravante não foi efetivamente examinada pelo Tribunal a quo e a parte sequer opôs embargos de declaração para suprir eventual omissão da Corte de origem, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+ ..  5. Agravo regimental a que se nega provimento.
+(AgRg no RHC: 195600 ES 2024/0101081-4, Relator.: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 23/04/2024, T5 - QUINTA TURMA, Data de Publicação: DJe 29/04/2024)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. MATÉRIA NÃO EXAMINADA PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+Não houve pronunciamento, pelas instâncias ordinárias, acerca do preenchimento, pelo apenado, dos requisitos objetivo e subjetivo, necessários à concessão do benefício pleiteado, não sendo, portanto, possível o seu exame diretamente por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+ ..
+(AgRg no RHC n. 164.542/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
