@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por WBIRATAM GOMES DE CASTRO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (e-STJ fls. 115/118):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. PENHORA ON-LINE. IMPENHORABILIDADE NÃO COMPROVADA. TÍTULO EXECUTIVO BASEADO EM LEI VÁLIDA. EXECUÇÃO FISCAL DE PEQUENO VALOR. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Apelação interposta contra sentença que julgou improcedentes os embargos à execução fiscal propostos em face do Conselho Regional de Engenharia, Arquitetura e Agronomia (CREA/PA). A sentença reconheceu a validade da penhora realizada e a exigibilidade do título executivo fiscal.
+II. Questão em discussão
+2. A controvérsia cinge-se a três questões principais: (i) a alegada nulidade da penhora on-line, sob a justificativa de possível incidência sobre valores de natureza alimentar; (ii) a suposta inexigibilidade do título executivo fiscal, com base em norma declarada inconstitucional e violação ao princípio da estrita legalidade; e (iii) a aplicação da Lei n. 10.522/2002 para o arquivamento da execução fiscal, em razão da irrisoriedade do valor exequendo.
+III. Razões de decidir
+3. Quanto à nulidade da penhora on-line, concluiu-se que o Apelante não apresentou prova inequívoca de que os valores bloqueados eram impenhoráveis, conforme o art. 655-A, § 2º, do CPC. A sentença observou corretamente os dispositivos legais que atribuem prioridade ao dinheiro como objeto de penhora (art. 11, I, da Lei n. 6.830/1980 e art. 655 do CPC).
+4. No que tange à inexigibilidade do título executivo fiscal, constatou-se que a Certidão de Dívida Ativa (CDA) está fundamentada na Lei n. 5.194/1966, norma válida e vigente, não sendo aplicável a declaração de inconstitucionalidade da Lei n. 11.000/2004 pelo STF. A presunção de certeza e liquidez do título, prevista no art. 3º da Lei de Execuções Fiscais e no art. 204 do CTN, não foi afastada.
+5. Quanto à execução fiscal de pequeno valor, verificou-se que a Lei n. 10.522/2002 não se aplica de forma automática às autarquias profissionais, como o CREA/PA. O valor reduzido não afasta a validade do crédito inscrito em dívida ativa, nem impede sua cobrança por meio de execução fiscal.
+IV. Dispositivo e tese
+6. Recurso desprovido, com manutenção integral da sentença.
+Tese de julgamento:
+A alegação de impenhorabilidade de valores bloqueados em penhora on-line exige prova inequívoca por parte do devedor, nos termos do art. 655-A, § 2º, do CPC.
+A Certidão de Dívida Ativa fundamentada em norma válida goza de presunção de certeza e liquidez, que somente pode ser afastada mediante prova suficiente.
+A irrisoriedade do valor exequendo não impede a cobrança de créditos inscritos em dívida ativa por meio de execução fiscal, salvo quando demonstrada expressa aplicação de norma que determine o arquivamento.
+Nas suas razões, o recorrente sustenta, em resumo, que o acórdão recorrido contrariou o art. 833, IV e X, do CPC, ao exigir prova inequívoca da impenhorabilidade, invertendo indevidamente o ônus da prova.
+Afirma, ainda, que a jurisprudência do STJ é pacífica no sentido de que valores inferiores a 40 salários mínimos são impenhoráveis, salvo demonstração de má-fé, abuso ou fraude, o que não foi comprovado nos autos.
+Sem contrarrazões, o recurso foi admitido na origem (e-STJ fls. 135/136).
+Passo a decidir.
+A Corte Especial afetou para julgamento sob a sistemática dos recursos repetitivos a seguinte questão controvertida (Tema 1.285): "Definir se é ou não impenhorável a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos". Houve determinação de suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+Encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministra Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Ministro Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo .
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
+EMENTA
