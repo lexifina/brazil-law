@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno interposto por COSTA SUL PESCADOS S.A. contra decisão da Presidência desta Corte Superior em que não se conheceu do agravo em recurso especial que não impugna os fundamentos da decisão de prelibação do TJSC (ausência de prequestionamento, óbice das Súmulas 7 do STJ, 280, 283 e 284 do STF).
+A parte agravante alega, em síntese, que impugnou cada um dos fundamentos da decisão de prelibação.
+Passo a decidir.
+Tem razão a agravante, motivo pelo que reconsidero a decisão da Presidência de e-STJ fls. 1416/1417, tornando-a sem efeitos, e passo à nova apreciação do apelo nobre.
+O recurso especial se origina de ação anulatória de lançamento fiscal de corrente de glosa de créditos presumidos.
+No âmbito administrativo, lavrou-se alguns autos de infração por utilização indevida de crédito presumido de ICMS para o fim de recolher o valor devido a menor. Reconheceu-se que a contribuinte teria se utilizado de créditos presumidos que eram excetuados nas operações relativas ao peixe do tipo "merluza", na forma da legislação estadual.
+Na inicial, a autoria pleiteava a anulação dos autos de infração aduzindo, no que interessa ao presente recurso especial, que os peixes por ela negociados se classificariam como "polaca do alaska" e não "merluza", motivo pelo que faria jus à utilização do crédito presumido glosado pelo agente fiscal.
+Por sentença, além de outras controvérsias, decidiu-se que os documentos acostados pela autora não dão sustentação as suas alegações, especialmente porque "as planilhas de levantamento de EVENTO1INFO30 e 31, além de apenas trazerem dados relativos ao ano de 2010, não qualificam o peixe Merluza em "Argentina" ou "do Alasca", utilizando apenas a denominação "Merluza Filé"" e que "não vieram aos autos outros documentos, como notas fiscais deste ou dos demais períodos, que identificassem a origem dos pescados e demonstrassem essa diferenciação dos produtos adquiridos/comercializados (qual percentual dos lançamentos "Merluza Filé" seria de Merluza Argentina e qual seria de Merluza/Polaca do Alasca)".
+O Tribunal catarinense negou provimento à apelação.
+Preliminarmente, afastou a alegação de cerceamento de direito de defesa na negativa de produção de prova.
+Aduziu que as razões para o indeferimento seriam (1) a existência de pedido genérico; (2) que controvérsia exige apenas interpretação normativa relativa ao enquadramento de produtos para aproveitamento de crédito presumido; (3) o longo lapso temporal transcorrido desde o lançamento das notificações fiscais, tornando inviável a realização de perícia que possa determinar, com a precisão necessária, quais espécies de peixes foram efetivamente submetidas à tributação.
+Consignou-se, ainda, que a prova pericial requerida revela-se desnecessária, porquanto não foram indicados de forma clara e específica quais aspectos técnicos poderiam influenciar a análise jurídica da controvérsia, nem quais elementos probatórios seriam objeto de exame especializado.
+No mérito, concluiu que não há elementos suficientes nos autos para comprovar a alegação do efetivo enquadramento do produto como "Polaca do Alasca", uma vez que a documentação fiscal apresentada descreve o produto como "merluza".
+Afirmou-se que a norma estadual excetua, expressamente, a possibilidade de aproveitamento de créditos presumidos de ICMS nas saídas tributadas de peixes considerados nobres (hadoque, bacalhau, congro, merluza, pirarucu e salmão).
+Adotando a fundamentação da sentença, concluiu que embora possa se admitir divergência entre a nomenclatura dos pescados colacionados na exordial (Merluza e Polaca), não há necessidade de tecer maiores considerações acerca da sua classificação e da (im)possibilidade de aproveitamento de crédito presumido na sua comercialização, porque a documentação encartada aos autos pela parte ativa, a quem cabia tal ônus (art. 373, I, do CPC) não demonstra o erro material arguido.
+Opostos embargos de declaração, foram eles rejeitados.
+Em seu recurso especial, o recorrente aponta para a violação dos arts. 369, 370 e 464 do Código de Processo Civil, aduzindo, em síntese:
+(i) o cerceamento de direito de defesa na negativa de produção da prova pericial;
+(ii) a nulidade do processo administrativo em razão de vícios formais e materiais;
+(iii) a violação ao direito ao crédito presumido e o enquadramento errôneo dos itens comercializados, bem como a desconsideração dos valores estornados pelo contribuinte.
+Pois bem.
+A jurisprudência do STJ é assente no sentido de que o juiz é o destinatário das provas e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA.
+IMPROCEDÊNCIA DO PEDIDO E PROCEDÊNCIA DA RECONVENÇÃO. COMPROVAÇÃO DA PROPRIEDADE DA RÉ SOBRE O IMÓVEL OBJETO DA LIDE. DESNECESSIDADE DE NOVA PERÍCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. No caso, a sentença julgou improcedente o pedido da inicial e procedente a reconvenção, por entender que o autor não comprovou a origem das áreas registradas em seu nome, enquanto o réu apresentou título com registro anterior e inequívoca comprovação do domínio, o que foi constatado pela perícia. Diante da robusta prova documental apresentada pelo réu, o magistrado reputou desnecessária a realização de nova perícia, acentuando que o perito respondeu as questões levantadas pelas partes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.619.012/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020) (Grifos acrescidos).
+No mesmo sentido, a título de exemplo: AgInt no AREsp 789.992/SP, rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 07/12/2020, DJe 16/12/2020; AREsp 1.588.759/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 05/03/2020, DJe 19/05/2020; AgInt no AREsp 424.134/GO, rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 06/04/2017, DJe 19/04/2017.
+Na hipótese dos autos, além de concluir que a documentação presente nos autos era suficiente para a solução da controvérsia quanto à classificação do pescado, não houve julgamento por ausência de provas, tendo as instâncias ordinárias indicado expressamente quais as provas constantes nos autos que entendia pertinentes à solução da controvérsia.
+Como relatado, apontou-se como razões para o indeferimento: (1) a existência de pedido genérico; (2) que controvérsia exige apenas interpretação normativa relativa ao enquadramento de produtos para aproveitamento de crédito presumido; (3) o longo lapso temporal transcorrido desde o lançamento das notificações fiscais, tornando inviável a realização de perícia que possa determinar, com a precisão necessária, quais espécies de peixes foram efetivamente submetidas à tributação.
+Afirmou-se, ainda, a desnecessidade da produção da prova uma vez que a documentação fiscal apresentada pela autora descreve o produto como "merluza" e não como "polaca".
+Vê-se que, contrariamente ao afirmado pelo recorrente, não houve julgamento pelo ônus probatório mesmo após o indeferimento da produção de prova, mas apenas o reconhecimento da sua impertinência e desnecessidade, não havendo falar de cerceamento de direito de defesa.
+Este entendimento não destoa da jurisprudência atual do STJ acima indicada, motivo pelo qual incide na espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é aplicável quando o apelo nobre é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Quanto às demais alegações recursais, o recorrente falhou em indicar quais os dispositivos de Lei federal que teriam sido violados pelo acórdão de origem.
+A referida deficiência na fundamentação atrai a incidência do óbice da Súmula 284 do STF .
+Ante  o  exposto:
+(i) RECONSIDERO a decisão da Presidência de e-STJ fls. 1416/1417, tornando-a sem efeitos; e
+(II)  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
