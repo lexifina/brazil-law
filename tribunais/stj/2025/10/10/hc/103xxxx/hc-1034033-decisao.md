@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HENRIQUE DE JESUS LIMA contra acórdão que denegou o habeas corpus na origem.
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida posteriormente para preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta, em síntese, a inexistência dos requisitos ensejadores da decretação da prisão preventiva, nos termos do art. 312 do CPP, ao argumento de que as instâncias originárias se lastrea ram em fundamentação genérica para manter o cárcere e desconsideraram as condições pessoais favoráveis, de modo que ressalta a suficiência e adequação das medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou, subsidiariamente, substituí-la por outras medidas cautelares diversas da prisão.
+É o breve relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do Regimento Interno do egrégio Superior Tribunal de Justiça.
+A prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do Código de Processo Penal.
+O decreto prisional restou assim fundamentado (fls. 74-75):
+Trata-se de auto de prisão em flagrante no qual a autoridade policial subscritora comunica a prisão de HENRIQUE DE JESUS LIMA, já qualificado, efetuada no dia 30/07/2025, no Município de Itabaiana, Sergipe.
+Da inspeção documental, verifico que o autuado foi preso pelo suposto cometimento da infração penal tipificada no art. 33, caput, da Lei 11.343/2006, na situação prevista no inciso I do art. 302 do Código de Processo Penal.
+Foram realizadas administrativamente as oitivas necessárias, qualificado e interrogado o até então flagrado. O auto de prisão está assinado e contém as advertências legais em relação aos direitos constitucionais do preso. A nota de culpa foi entregue, bem assim foram feitas as comunicações legais.
+Lado outro, a materialidade delitiva resta satisfatoriamente comprovada, representada pelos documentos e depoimentos acostados. No que tange à autoria, há indícios no in folio que apontam para a ação do autuado, tudo conforme os depoimentos mencionados.
+De resto, as partes não suscitaram ilegalidades.
+Dessa forma, obser vadas as prescrições contidas na legislação processual penal e na Constituição Federal, considero HÍGIDA a prisão em flagrante submetida à análise.
+Passo, doravante, a me manifestar acerca do disposto nos incisos II e III do art. 310 do Código de Processo Penal.
+Com efeito, a pena máxima em abstrato da infração penal supostamente cometida é superior a quatro anos, havendo, portanto, pressuposto legal para a conversão do presente flagrante em prisão preventiva.
+Diante disso, cabe verificar se há também, na hipótese, alguns dos fundamentos exigidos para a aplicação da cautelar máxima, elencados no caput do art. 312 do mesmo Digesto Processual.
+Sobre esse ponto, verifico que o autuado não ostenta registro criminal junto ao SCPV. Todavia, o modus operandi narrado nos autos revela, em análise perfunctória, elevado desvalor da ação. Isso porque, afora a razoável quantidade de droga apreendida (185 gramas de maconha; 90 pinos contendo cocaína), foram encontrados com o agente petrechos comumente relacionados à mercancia ilícita de entorpecentes, circunstância indicativa, portanto, de sua dedicação à atividade criminosa, apta por si só a afastar a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006 (STJ, AgRg no HC 720.589) e, por conseguinte, representativa de um maior desvalor da conduta e da sua periculosidade concreta.
+Outrossim, o fato de a droga estar fracionada e devidamente embalada para comercialização indica a alta probabilidade de repetição de condutas tidas por delituosas, evidenciando a indispensabilidade da imposição da segregação cautelar à hipótese (STJ, AgRg no HC 760036/SP).
+De mais a mais, o depoimento da testemunha acostado à p. 17 robustece a versão deduzida pelos condutores, no sentido da habitualidade criminosa do suspicaz.
+Destarte, tal ocorrência inegavelmente atenta contra a ordem pública e a paz social, de modo que um hipotético estado de liberdade do autuado é fato gerador de perigo concreto a demandar a decretação da sua prisão preventiva, nos termos do art. 315, § 1º, do Código de Processo Penal.
+Inclusive, esse é o entendimento do e. TJSE, senão vejamos:
+ ..
+Em arremate, constatado o fumus comissi delicti e o periculum libertatis, preenchidos os pressupostos e fundamentos legais, afigura-se cabível a conversão do presente flagrante em prisão preventiva, a fim de se garantir a ordem pública, restando, ipso facto, prejudicada a aplicação de medidas cautelares diversas da prisão, por se mostrarem insuficientes e inadequadas para este caso concreto.
+Pelo exposto, acolho o parecer ministerial e CONVERTO A PRISÃO EM FLAGRANTE de HENRIQUE DE JESUS LIMA em PRISÃO PREVENTIVA.
+No caso, verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na gravidade concreta da conduta imputada - apreensão de 185 gramas de maconha e 90 pinos de cocaína - circunstância indicativa de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a re velar a indispensabilidade da imposição da medida extrema na hipótese.
+"É pacífico o entendimento no sentido de que as circunstâncias fáticas do crime, como a quantidade apreendida, a variedade, a natureza nociva dos entorpecentes, a forma de acondicionamento, entre outros aspectos, podem servir de fundamentos para o decreto prisional quando evidenciarem a periculosidade do agente e o efetivo risco à ordem pública, caso permaneça em liberdade" (AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.)
+Por fim, vale destacar que "A presença de condições pessoais favoráveis não impede a imposição da prisão preventiva, quando presentes os requisitos legais" (AgRg no HC n. 990.311/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2025, DJEN de 30/4/2025.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
