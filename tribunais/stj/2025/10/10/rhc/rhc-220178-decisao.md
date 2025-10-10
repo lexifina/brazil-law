@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de MAYCON JUNIO GOMES DA SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.213327-7/000).
+Consta dos autos a prisão em flagrante do recorrente, posteriormente convertida em preventiva, pela suposta prática do delito de tráfico de drogas.
+Em suas razões, a Defesa sustenta a ocorrência de constrangimento ilegal, porquanto a segregação processual do recorrente encontra-se destituída de fundamentação idônea, pois amparada na mera gravidade abstrata do delito; está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar e reincidência a específica; e o recorrente possui condições pessoais favoráveis (primariedade, ocupação lícita, residência fixa).
+Requer, assim, liminarmente e no mérito, a liberação do recorrente.
+O pedido liminar foi indeferido às fls. 363/364, por meio de decisão da lavra do Ministro Herman Benjamin.
+Informações prestadas às fls. 372/394.
+O Ministério Público Federal manifestou-se às fls. 398/410, opinando pelo improvimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não deve ser provido.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do recorrente, ressaltou o seguinte (fls. 260/263; grifamos):
+Segundo dispõe o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria. Os indícios de autoria e materialidade estão presentes nas declarações dos policiais que atenderam ao chamado e realizaram o flagrante, como pelos laudos preliminares que constataram a substância entorpecente. Da leitura da FAC e CAC do investigado Maycon, observo que se encontra em cumprimento de pena no Distrito Federal, execução penal nº. 0401194-26.2018.8.07.0015, pelo crime de tráfico de drogas, portanto, reincidente.
+(..)
+Resta clara a necessidade da prisão preventiva para garantia da ordem pública. Na posse do autuado Maycon foram apreendidas quantidade considerável de drogas, já acondicionadas de forma comumente utilizada para tráfico, armas, sendo que com numeração raspada, dinheiro, balanças de precisão, o que, , demonstram indícios para o envolvimento com o tráfico de drogas. Se não a priori bastasse, havia investigação prévia (sigilosa) na qual foi expedido mandado de busca a apreensão que originou o presente flagrante. Logo, há indícios suficientes de autoria e materialidade a justificar a segregação cautelar.
+(..)
+Os investigados supostamente comercializavam drogas no estabelecimento empresarial, sendo certo que, além de vultuosa quantidade de drogas, foi apreendida considerável quantidade em dinheiro em espécie.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar (fls. 313/321; grifamos):
+De fato, o delito em tese praticado se revela de especial e concreta gravidade, considerando, notadamente, a apreensão de imensa quantidade e variedade de entorpecentes, a saber, 397,76g (trezentos e noventa e sete gramas e setenta e seis centigramas) de cocaína e 9,51g (nove gramas e cinquenta e um centigramas) de maconha, conforme Exame Preliminar de Drogas (fls. 231/234 - doc. único). Ademais, foi apreendia uma balança de precisão, diversas munições e três armas de fogo, de acordo com o Auto de Apreensão (fls. 134/136 - doc. único), o que demonstra a real periculosidade do inculpado e reforça a necessidade de sua segregação cautelar. Isto posto, observo que os fatos ora apurados comprometem o meio social e autorizam a custódia cautelar do autuado, a fim de se evitar a repetição do ato nocivo censurável e, com isso, garantir a ordem pública.
+(..)
+Outrossim, não há o que se falar em configuração do antecipado cumprimento de pena, em virtude da utilização de elementos abstratos inerentes ao tipo penal para fundamentar a decisão. Isso porque, ao analisar a custódia do paciente, a Juíza a quo constatou a existência dos requisitos autorizadores da prisão preventiva elencados nos artigos 312 e 313 do Código de Processo Penal, não realizando, portanto, uma mera análise de elementos inerentes ao tipo penal.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da quantidade e diversidade de droga apreendida em seu poder, além de balança de precisão, três armas de fogo e munições, e o risco concreto de reiteração delitiva, diante da reincidência do acusado, denotando que as medidas cautelares diversas da prisão não são suficientes para impedir a prática de novas condutas penais e acautelar o meio social.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ademais, de fato, consta dos autos que o agente, preso em flagrante sob a acusação de tráfico de drogas, ostenta outra condenação transitada em julgado, estando, inclusive, por ocasião da prática delitiva, em pleno cumprimento de pena por condenação oriunda do Tribunal de Justiça do Estado do Distrito Federal, o que demonstra a sua propensão ao cometimento de delitos e o risco concreto de, uma vez solto, voltar a delinquir.
+Por derradeiro, a tese da ausência de contemporaneidade não foi avaliada pelo Tribunal de origem, motivo pelo qual não pode esta Corte de Justiça sobre ela deliberar, sob pena de indevida supressão de instância.
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
