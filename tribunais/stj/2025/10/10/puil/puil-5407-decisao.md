@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei suscitado por Eliseu Labor da Silva, com fundamento no art. 14, § 4º, da Lei n. 10.259/2001, contra acórdão da Turma Recursal Provisória da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ fl. 188):
+RECURSO INOMINADO. TURMA RECURSAL PROVISÓRIA DA FAZENDA PÚBLICA. REALIZAÇÃO DA PROVA TEÓRICA. IDOSO. PARA OS CANDIDATOS QUE NÃO TEM FAMILIARIDADE COM O USO DO "MOUSE", HÁ POSSIBILIDADE UTILIZAÇÃO DE MONITORES TIPO TOUCH SCREEN (TELA SENSÍVEL AO TOQUE), INCLUSIVE COM SUGESTÃO DE AJUSTE DO ZOOM PARA 150%. O AUTOR DEVE PROVIDENCIAR, NA TRANSFERÊNCIA DE SERVIÇO DE RENACH PARA CFC/CHC, QUE SE DISPONIBILIZE O EQUIPAMENTO TOUCH SCREEN. SENTENÇA MANTIDA POR SEUS FUNDAMENTOS. ART. 46 DA LEI FEDERAL 9.099/95. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 206/208).
+O requerente afirma que o aresto combatido deu interpretação divergente daquela conferida pelo Tribunal de Justiça de Mato Grosso do Sul - TJMS aos arts. 1º, II, 5º, caput, da Constituição da República, aos arts. 2º, 3º, I e II, 4º e 10, § 1º, do Estatuto do Idoso, aos arts. 140, II, e 261, § 1º, do Código de Trânsito Brasileiro e ao art. 6º da Lei de Introdução às Normas do Direito Brasileiro.
+Afirma que a exigência de prova teórica exclusivamente digital -após curso de reciclagem para regularização da CNH depois do cumprimento de pena de suspensão da habilitação - a pessoa idosa sem letramento digital afronta de dignidade da pessoa humana.
+Defende que a negativa de adaptação tecnológica (como leitor ou prova impressa) impede o acesso a serviço público essencial e ignora hipossuficiência de grupo prioritário.
+Aduz que o CTB exige apenas que o condutor saiba ler e escrever, não impondo que a prova seja aplicada em formato digital, inexistindo razoabilidade, portanto, em sua aplicação apenas no referido formato a pessoa idosa.
+Contrarrazões apresentadas às e-STJ fls. 18/23.
+Passo a decidir.
+Dispõe o art. 14, § 4º, da Lei n. 10.259/2001:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+§ 4o Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Inicialmente cumpre observar que a legislação que fundamenta o PUIL ora em apreço diz respeito a Juizados Cíveis e Criminais da Justiça Federal, e o caso em discussão tem origem em acórdão de Turma Recursal do Estado do Rio Grande do Sul.
+Além disso, o cabimento pelo § 4º está restrito às hipóteses em que a orientação acolhida pela TNU, em direito material, contrariar Súmula ou jurisprudência dominante do STJ, o que não foi demonstrado no caso.
+Com efeito, o requerente não indicou nenhuma violação da Súmula do STJ sobre o tema, tampouco demonstrou a existência de confronto com jurisprudência dominante desta Corte Superior, mas apenas apontou eventual divergência com julgado do TJMS, o que inviabiliza seu conhecimento.
+A propósito:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. NÃO CONHECIDO. CONDIÇÕES NÃO SATISFEITAS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de Pedido de Uniformização de Interpretação de Lei - PUIL dirigido a esta Corte Superior, fundamentado no art. 14, § 4º, da Lei n. 10.259/2001, c/c o art. 31 do Regimento Interno da Turma Nacional de Uniformização - TNU e art. 67, parágrafo único, VIII-A, do Regimento Interno do STJ, contra acórdão da TNU. O demandante interpôs o presente agravo interno contra decisão que não conheceu do seu pedido.
+II - A teor do que dispõe o art. 14, § 4º, da Lei n. 10.259 de 2001, o PUIL dirigido ao STJ somente é cabível quando satisfeitas, cumulativa e simultaneamente, as seguintes condições: i) a orientação acolhida pela TNU, em questão de mérito, é contrária a enunciado de súmula ou a jurisprudência dominante do STJ; ii) a questão discutida está limitada ao campo do direito material.
+III - No presente caso, o paradigma indicado pela parte requerente não se qualifica como "jurisprudência dominante" para fins de cabimento de PUIL, conforme fixado pela Primeira Seção do STJ no julgamento do PUIL n. 825/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 24/5/2023, DJe de 5/6/2023. No mesmo sentido: EDcl no AgInt no PUIL n. 2.597/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 15/8/2023, DJe de 17/8/2023. AgInt nos EDcl no PUIL n. 1.966/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 30/11/2021, DJe de 7/12/2021.
+IV - Eventual alteração do julgado representaria reexame do conjunto fático-probatório, o que é vedado no âmbito do PUIL, nos termos da Súmula n. 42 da TNU, bem como da Súmula n. 7 do STJ e da Súmula n. 279 do STF, aplicáveis por analogia à TNU. Nesse sentido: AgInt no PUIL n. 929/MA, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 6/5/2019. AgInt no PUIL n. 546/AC, relator Ministro Sérgio Kukina, Primeira Seção, DJe 1º/4/2019. PUIL n. 1.395/PR, relator Ministro Herman Benjamin, Primeira Seção, julgado em 11/12/2019, DJe 26/2/2020.
+V - Agravo interno improvido.
+(AgInt no PUIL 4333/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 3/12/2024, DJEN de 6/12/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. LEI N. 10.259/2001. PREQUESTIONAMENTO. INDISPENSABILIDADE. JURISPRUDÊNCIA DOMINANTE. INOCORRÊNCIA. JULGADO ÚNICO. PEDIDO NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do pedido de uniformização de interpretação de lei federal se a matéria apresentada ao STJ para exame não foi objeto de deliberação pela TNU. Necessidade de prequestionamento. Precedente:
+AgInt no PUIL n. 679/RS, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 19/6/2018.
+2. Nos termos do art. 14 da Lei n. 10.259/2001, o pedido dirigido a esta Corte Superior somente é cabível "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça -STJ".
+3. O conceito de "jurisprudência dominante", para efeitos do manejo do pedido de interpretação de lei federal, deriva da dicção do art. 927 do CPC e pressupõe, como paradigmas, decisões proferidas em IRDR instaurado nas ações originárias do STJ, do IAC, de recursos especiais repetitivos (inciso III); de súmulas do STJ (inciso IV);
+ou, ainda, de julgamentos em plenário ou por órgão especial (inciso V).
+4. Não se pode ter por "jurisprudência dominante" a compreensão encontrada em um único julgado de órgão fracionário, não consolidada em reiteradas decisões posteriores. Precedentes: AgInt na Pet n. 10.963/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 22/2/2018; e Pet n. 10.239/RS, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 19/5/2015.
+5. Agravo interno não provido.
+(AgInt no PUIL 1799/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 4/10/2022, DJe de 7/10/2022).
+Registre-se, ainda, que o pedido de Uniformização de Interpretação de Lei é instrumento específico dos Juizados Especial Federais e da Fazenda Pública - o último, no âmbito dos Estado, Distrito Federal e Municípios - e visa garantir a uniformidade de interpretação de lei federal no âmbito dos juizados especiais, sanando divergências entre Turmas Recursais em matéria de direito material, conforme se extrai da cabeça do art. 14 da Lei n. 10.259/2001 (já transcrito) e do art. 18 da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+No caso, a parte indicou como paradigma acórdão proferido em recurso de apelação pelo TJMS, que não se presta à demonstração da divergência, visto que não integra do microssistema dos Juizados Especiais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DA LEI FEDERAL. ART. 18, § 3º, DA LEI 12.153/2009. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Admite-se o incidente de uniformização dirigido ao STJ, entre outras hipóteses, quando houve interpretação divergente entre Turmas Recursais estaduais, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, nos termos do § 3º do artigo 18 da Lei n. 12.153/2009.
+2. No caso concreto, o incidente não deve ser conhecido porquanto o requerente não demonstrou o dissídio jurisprudencial mediante o cotejo analítico entre os acórdãos confrontados, na forma dos arts.
+541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+3. Agravo interno não provido.
+(AgInt na Pet 10251/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/12/2016, DJe de 2/2/2017.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. REQUISITOS DE ADMISSIBILIDADE NÃO PREENCHIDOS. CONTRARIEDADE À JURISPRUDÊNCIA DO STJ. DESCABIMENTO. FALTA DE INDICAÇÃO DO DISPOSITIVO CONTROVERTIDO. CORREÇÃO DAS DEFICIÊNCIAS NO RECURSO INTERNO. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do § 3º do art. 18 da Lei n. 12.153/2009, esta Corte Superior é competente para conhecer diretamente do pedido de uniformização em duas situações: (i) entre Turmas Recursais de Estados diferentes; e (ii) Turma Recursal proferir decisão contrária à Súmula do Superior Tribunal de Justiça.
+2. No caso em exame, os Agravantes não indicaram qual o dispositivo de lei federal acerca do qual haveria a divergência interpretativa, bem como o pedido está amparado em alegação de contrariedade com jurisprudência deste Tribunal e não em súmula desta Corte, o que impede o seu conhecimento.
+3. Pela preclusão consumativa, é inviável a tentativa de corrigir, no agravo interno, as deficiências da petição de interposição do incidente, como no caso concreto, em que, na presente insurgência interna, se indicou o dispositivo cuja interpretação seria controvertida.
+4. Agravo interno desprovido.
+(AgInt no PUIL 4465/RO, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 19/8/2025, DJEN de 22/8/2025.).
+Confiram-se, ainda: PUIL 2.130, Ministra Regina Helena Costa, DJe de 14/06/2021; e PUIL 4.402, Ministro Benedito Gonçalves, DJe de 1ª/10/2024.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
