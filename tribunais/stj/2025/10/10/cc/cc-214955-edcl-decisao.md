@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, ajuizado por MOUSER ARAÚJO OLIVEIRA e OUTROS envolvendo o r. juízo da 1ª Vara Cível e Empresarial de Redenção/PA, onde tramita a recuperação judicial do Grupo Agro Campo Bom (processo n.º 0802540-12.2025.8.14.0045) e o r. juízo da Vara do Trabalho de Redenção/PA, no qual se processa a reclamação trabalhista n.º 0000046-05.2025.5.08.0118, aforada por CICERO ALVES DA SILVA em face dos suscitantes.
+Aduzem os suscitantes, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios/expropriatórios contra seus bens nos autos da mencionada ação trabalhista, invadindo, assim, competência exclusiva do Juízo falimentar, que, conforme alegam, é o foro competente para tratar de atos que afetem seu patrimônio. Citam, em favor de sua tese, julgados deste STJ.
+Pedem a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento.
+No mérito, pleiteiam a declaração de competência do r. juízo universal da recuperação judicial (fls. 2/14).
+Às fls. 609/611, o pleito liminar foi indeferido.
+Os aclaratórios de fls. 617/622, aguardam exame.
+As informações foram prestadas e estão acostadas às fls. 623/663 e 669/813, sendo que o MPF ofertou parecer no sentido da declaração de competência do r. juízo da recuperação judicial (fls. 815/819).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, envolvendo, de um lado, o Juízo universal e, de outro, o Juízo Laboral, no qual tramita execução trabalhista movida em face de produtores rurais submetidos ao processo de soerguimento - como na hipótese - o Superior Tribunal de Justiça tem reconhecido a competência do primeiro para efetivar atos de constrição e expropriação que, de alguma forma, afetem o patrimônio envolvido no supracitado regime de recuperação.
+Nessa linha: CC 216008/RS, Rel. Min. Maria Isabel Gallotti, DJe de 23/9/2025; CC 210776/MT, Desta Relatoria, DJe de 26/8/2025; AgInt nos EDcl no CC 174322/SP, Rel. Min. Nancy Andrighi, DJe de 14/6/2021; AgInt no CC 172707/SP, Rel. Min. Luis Felipe Salomão, Dje de 02/10/2020; AgInt no CC 152.280/GO, Rel. Ministro Paulo de Tarso Sanseverino; CC 185367/MT, Rel. Min. Daniela Teixeira, DJe de 30/06/2025.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente incidente e, por conseguinte, declaro a competência do r. juízo da 1ª Vara Cível e Empresarial de Redenção/PA, onde tramita a recuperação judicial do Grupo Agro Campo Bom (processo n.º 0802540-12.2025.8.14.0045), nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se. Fica prejudicado o exame dos embargos de declaração de fls. 617/622.
+EMENTA
