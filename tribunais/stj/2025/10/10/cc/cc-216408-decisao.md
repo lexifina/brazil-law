@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO FEDERAL DA 5ª VARA CRIMINAL DE SÃO PAULO - SJ/SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA - DIPO 4 -SÃO PAULO - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o Juízo competente para a adoção de medidas judiciais que se fizerem necessárias em inquérito policial instaurado para apurar a possível prática do crime de violações de correspondência e divulgação de segredo.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 5ª Vara Criminal de São Paulo - SJ/SP, ora suscitante (fls. 748-755).
+Decido.
+O instituto da conexão, consoante dicção do art. 76 do Código de Processo Penal, significa a ligação (dependência ou vínculo jurídico) existente entre crimes que aconselhe a união dos processos, tudo para que o julgador possa ter uma uniforme visão do quadro probatório, evitando-se decisões conflitantes.
+No caso, observo que, ao menos neste estágio das investigações, os supostos delitos noticiados à autoridade policial - relativos à violação de correspondência e à divulgação de segredo - mostram-se imbricados com o procedimento investigativo instaurado pelo Ministério Público Federal, destinado a apurar eventuais crimes contra o mercado de valores mobiliários.
+Segundo o Juízo suscitado, "os representantes da Mobly S.A., a partir de e-mails enviados por Régis a outras pessoas ligadas à companhia, identificaram o eventual cometimento de ilícito penal e comunicaram o fato ao Ministério Público Federal" (fl. 623), que instaurou o procedimento investigativo.
+Vale dizer que as supostas violações de correspondência e a divulgação de segredo estariam na própria gênese do procedimento instaurado pelo Ministério Público Federal. Por essa razão, verifico  ao menos até o presente momento  a existência de liame ou conexão que recomenda o julgamento conjunto dos referidos delitos, em especial aqueles relativos à violação de correspondência e à divulgação de segredo, com os fatos atualmente apurados no âmbito do MPF.
+Na linha da manifestação do Ministério Público Federal, "caracterizada a conexão, o referido inquérito policial  ..  deve ser reunido ao Processo  ..  que tramita perante o Juízo da 5ª Vara Federal Criminal de São Paulo - SJ/SP, tendo em vista que é o juízo prevento em que restou ajuizada a investigação mais antiga" (fl. 754).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara Criminal de São Paulo - SJ/SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
