@@ -1,0 +1,67 @@
+DECISÃO
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão da 1ª Turma Recursal do Estado de Santa Catarina, assim ementado (Doc. 56, fl. 2):
+
+    “RECURSO INOMINADO - SERVIDOR PÚBLICO ESTADUAL - TÉCNICO EM ENFERMAGEM - AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM CONDIÇÕES INSALUBRES - SENTENÇA DE PROCEDÊNCIA - IRRESIGNAÇÃO DO IPREV QUANTO AO PERÍODO POSTERIOR A 30.09.2012 - PERÍCIA JUDICIAL INDICANDO O EXERCÍCIO DE ATIVIDADE INSALUBRE EM TODO O PERÍODO PLEITEADO NO CASO CONCRETO - PERCEBIMENTO, OUTROSSIM, DO RESPECTIVO ADICIONAL - AVERBAÇÃO DEVIDA NA HIPÓTESE - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.”
+
+    Opostos Embargos de Declaração pelo ESTADO DE SANTA CATARINA (Doc. 58), foram rejeitados (Doc. 60).
+
+    No Recurso Extraordinário (Doc. 62), interposto com fundamento no art. 102, III, “a”, da Constituição, a parte recorrente alega que o acórdão recorrido viola o art. 40, §4º, III, da CF/1988, na redação anterior à EC 103/2019, bem como aplicou de forma equivocada o Tema 942 da repercussão geral, pois (Doc. 62, fl. 2):
+
+    “Trata-se de ação, via juizado especial, em que servidor efetivo demanda acréscimo de tempo de serviço em razão de haver supostamente laborado sob condições insalubres. Em primeira instância o pleito foi acolhido em partes e a sentença confirmada pela Turma Recursal.
+
+    Ocorre que, no presente caso, há LTCAT juntado aos autos (evento 58, laudo 1, dos autos n. 5005477-33.2019.8.24.0090), o qual demonstra que a parte recorrida somente trabalhou em condições especiais durante o período de 01/06/1998 a 30/09/2012. No período posterior a 30/09/2012 a servidora não trabalhou em condições insalubres, portanto não pode ser averbado com acréscimo, porém o édito atestou o trabalho em condições especiais para efeitos previdenciários.
+
+    Portanto, o julgamento no presente feito está confrontando a prova técnica e caracterizando período em condições especiais de trabalho que NÃO OCORRERAM, mesmo no período posterior ao advento da Lei n. 9.528/97.
+
+    Observe-se, destarte, que a decisão desconsidera que, no termos da tese fixada pelo STF no Tema 942, o direito previsto no art. 40, § 4º, III, da Constituição Federal, na redação anterior à EC 103/2019, imprescinde da elaboração do laudo de aferição do labor insalutífero, previsto no art. 58, §1º, da Lei 8.213/91.”
+
+    Nessa linha, entende que a Lei 8.213/1991 deve “ser aplicada em todos os seus termos, inclusive quanto à exigência da demonstração da exposição a agentes insalubre por meio de laudo técnico de condições ambientais do trabalho (LTCAT)” (Doc. 62, fl. 6). Todavia, “o aresto recorrido, ao confirmar a sentença, concedeu o acréscimo fictício de tempo apenas em razão do pagamento de adicional de insalubridade, destoando das exigências definidas pelo STF no Tema 942 para reconhecimento do direito previsto na norma constitucional (art. 40, § 4º, III, da Constituição Federal, na redação anterior à EC 103/2019)” (Doc. 62, fl. 7).
+
+    Ressalta que “inexistindo o LTCAT ou em desconformidade com este, não há como se pronunciar o direito com amparado na tese fixada pelo STF no Tema 942” (Doc. 62, fl. 7), de modo que “a providência correta seria a reabertura da instrução do feito para adequar o julgamento ao LTCAT” (Doc. 62, fl. 7).
+
+    Em exame de admissibilidade (Doc. 65), o RE foi inadmitido aos fundamentos de que (i) incidem ao caso os óbices contidos nos Enunciados 279 e 280 do STF; e (ii) trata-se de ofensa meramente reflexa ao texto constitucional.
+
+    No Agravo (Doc. 66), o agravante alega refuta todos os argumentos da decisão agravada.
+
+    É o relatório. Decido.
+
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    Eis os fundamentos da parte para sustentar a repercussão geral da matéria (Doc. 62, fl. 3):
+
+    “O recorrente entende que a decisão impugnada incorre em equivoco na aplicação da tese firmada pela Suprema Corte no Tema 942. Este precedente assim dispôs acerca do art. 40 § 4º, III, (atual § 4º-C) da Constituição Federal: (...) Portanto, versando a contenda acerca da inobservância da orientação fixada no Tema 942, que trata da exegese do artigo 40, § 4º, III, da Constituição Federal, o requisito da repercussão geral está devidamente preenchido.”
+
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Além disso, no que diz respeito ao reconhecimento da contagem especial de tempo de serviço de contribuição previdenciária postulado pela parte autora, o Tribunal de origem manteve a sentença que julgou parcialmente procedente o pedido ao fundamento de que “é incontroverso que a parte autora exerceu a atividade de técnica de enfermagem desde 1.6.1998, como é possível auferir da documentação carreada aos autos. Ademais, quanto à comprovação da insalubridade, está demonstrada pelo Laudo Judicial juntado no evento 58 (laudo 1, dos autos n. 5005477-33.2019.8.24.0090). Destarte, evidenciada a prova da insalubridade pelo período apontado” (Doc. 44, fl. 2).
+
+    Assim, reconheceu “o direito da parte requerente à averbação definitiva na sua ficha funcional do tempo de serviço prestado sob a condição de agentes insalubres (desde 1.6.1998), com a conversão de tempo especial em comum com aplicação do fator de 1.2 até 13 de novembro de 2019, sem prejuízo de eventual aplicação das regras para aposentadoria especial previstas no art. 64-D da Lei Complementar nº 412/2008” (Doc. 44, fl. 6).
+
+    Por sua vez, o recorrente alega que “há LTCAT juntado aos autos (evento 58, laudo 1, dos autos n. 5005477-33.2019.8.24.0090), o qual demonstra que a parte recorrida somente trabalhou em condições especiais durante o período de 01/06/1998 a 30/09/2012. No período posterior a 30/09/2012 a servidora não trabalhou em condições insalubres, portanto não pode ser averbado com acréscimo, porém o édito atestou o trabalho em condições especiais para efeitos previdenciários. Portanto, o julgamento no presente feito está confrontando a prova técnica e caracterizando período em condições especiais de trabalho que NÃO OCORRERAM, mesmo no período posterior ao advento da Lei n. 9.528/97”.
+
+    Desse modo, para divergir dos fundamentos do acórdão recorrido seria necessário analisar a questão à luz da legislação infraconstitucional local aplicável à espécie, o que encontra óbice na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário), bem como das provas dos autos, providência igualmente vedada na via extraordinária nos termos da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário), providências vedadas na via extraordinária.
+
+    Em casos semelhantes:
+
+    “Ementa: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. TEMA 942 DA REPERCUSSÃO GERAL. INVIABILIDADE DE ANÁLISE. CONTROVÉRSIA RELATIVA AO LAUDO APRESENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Quanto à possibilidade de conversão do tempo exercido em atividade de risco em comum pelo servidor público estadual, o Tribunal de origem negou seguimento ao recurso sob o fundamento de adequação do julgado ao Tema 942 da sistemática da repercussão geral. Contra essa decisão, a parte interpôs agravo interno, que foi julgado pelo órgão competente na origem. De modo que a matéria não pode ser objeto de análise por esta Corte. 2. Eventual divergência acerca da adequação do laudo apresentado pelo parte demandaria o reexame de provas e da legislação infraconstitucional pertinente. Precedente. Incidência das Súmulas 279 e 280/STF. 3. Acerca da eventual violação ao art. 24, §§ 1º a 4º, da CF, a alegada ofensa não foi apreciada pelo acórdão impugnado, tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF). 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 5. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC/2015.” (ARE 1430954 AgR / SC, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 25/8/2023)
+
+    “EMENTA Agravo regimental em recurso extraordinário. Direito administrativo. Servidor público. Contagem de tempo de serviço. Atividade insalubre. Conversão para fins de aposentadoria. Repercussão Geral no RE nº 1.014.286/SP-RG. Consonância. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Segundo a firme jurisprudência da Suprema Corte, “até a edição da Emenda Constitucional nº 103/2019, o direito à conversão, em tempo comum, do prestado sob condições especiais que prejudiquem a saúde ou a integridade física de servidor público decorre da previsão de adoção de requisitos e critérios diferenciados para a jubilação daquele enquadrado na hipótese prevista no então vigente inciso III do § 4º do art. 40 da Constituição da República, devendo ser aplicadas as normas do regime geral de previdência social relativas à aposentadoria especial contidas na Lei 8.213/1991 para viabilizar sua concretização enquanto não sobrevier lei complementar disciplinadora da matéria. Após a vigência da EC n.º 103/2019, o direito à conversão em tempo comum, do prestado sob condições especiais pelos servidores obedecerá à legislação complementar dos entes federados, nos termos da competência conferida pelo art. 40, § 4º-C, da Constituição da República” (RE nº 1.014.286/SP-RG, feito paradigma do Tema nº 942 da Sistemática da Repercussão Geral). 2. Não se presta o recurso extraordinário para a análise da causa à luz da interpretação dada à legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos (Súmula nº 279/STF). 3. Agravo regimental não provido. 4. Não houve majoração da verba honorária, tendo em vista a ausência de sua fixação pela origem.” (RE 1540437 AgR / SP, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, DJe de 16/5/2025)
+
+    “EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. GUARDA CIVIL MUNICIPAL. APOSENTADORIA ESPECIAL. ATIVIDADE INSALUBRE. SÚMULA VINCULANTE 33. INAPLICABILIDADE. TEMA 942 DA REPERCUSSÃO GERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. DECRETO 21.234/2014 DO MUNICÍPIO DE SOROCABA/SP. IMPOSSIBILDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (RE 1412768 AgR / SP, Relator(a): Min. LUIZ FUX, Primeira Turma, DJe de 27/2/2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+
+    Publique-se.
+
+    Brasília, 10 de outubro de 2025.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
