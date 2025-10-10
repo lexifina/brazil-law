@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo DISTRITO FEDERAL contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional.
+Passo a decidir.
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar, em específico, todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701404/SC, 746775/PR e 831326/SP, decidiu pela necessidade de o agravante impugnar, especificamente, todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Da análise dos autos, verifico que a parte agravante deixou de impugnar, específica e adequadamente, os seguintes fundamentos da decisão que não admitiu o recurso especial:
+Em análise aos pressupostos constitucionais de admissibilidade, verifica-se que o recurso especial não merece prosseguir quanto à apontada afronta aos artigos 489, §1º, incisos I e IV, e 1.022, inciso II, do Código de Processo Civil, porque, de acordo com o entendimento jurisprudencial pacífico da Corte Superior, "Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade" (REsp n. 2.130.489/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/12/2024, D Je de 23/12/2024).
+De igual modo, não é possível dar trânsito ao apelo especial no que tange ao suposto malferimento ao artigo 535, inciso III, §§ 5º e 7º, do Código de Processo Civil, uma vez que não houve combate específico aos fundamentos do acórdão recorrido no sentido de que:
+Consoante se observa, o Tema 864 do STF se refere à revisão geral da remuneração dos servidores públicos, não havendo identidade material com a Lei Distrital 5.184/2013, que trata de reajuste específico concedido aos integrantes da carreira pública de Assistência Social do Distrito Federal pela Lei Distrital 5.184/2013, o que afasta a sua aplicação ao presente caso.
+Pelos mesmos motivos acima, não há falar em inexigibilidade do título com base em interpretação vinculante do STF, haja vista a inaplicabilidade da tese jurídica fixada no Tema 864/STF à hipótese, conforme decidido na própria ADI 7.391/DF.
+Com efeito, a jurisprudência da Corte Superior considera que "É deficiente o recurso quando a parte recorrente deixa de impugnar fundamento do acórdão recorrido suficiente para manter o julgado, apresentando razões recursais diversas. Incidência das Súmulas n. 283 e 284 do STF" (AgInt no REsp n. 2.110.757/RS, relatora Ministra Regina. Helena Costa, Primeira Turma, julgado em 25/11/2024, D Je de 29/11/2024).
+De fato, na petição de agravo em recurso especial, a parte recorrente limita-se a afirmar que (e-STJ fls. 450/451):
+q uanto à alegada incidência das Súmulas 283 e 284/STF, no sentido de que "não houve combate específico aos fundamentos do acórdão recorrido" sobre o Tema 864 da Repercussão Geral, certo é que o Distrito Federal fez o combate direto destacando capítulo próprio, como se ora destaca:
+V.4. DA VIOLAÇÃO AO ART. 535, III, §§ 5º E 7º, DO CPC - INEXIGIBILIDADE DA OBRIGAÇÃO - TÍTULO EXECUTIVO INCONSTITUCIONAL - TEMA 864-RG
+ ..
+Com todo o respeito, como está demonstrado na petição de R Esp, o acórdão recorrido negou vigência aos arts. 489, §1º, I e IV, e 1.022, I e II, parágrafo único, I e II, do CPC.
+ ..
+Questões determinantes foram ignoradas para o julgamento do feito, explícita ou implicitamente. Patente, portanto, a violação aos arts. 489, § 1º, V e VI, e 1.022, I e II, parágrafo único, I e II, do CPC, a permitir o processamento do REsp.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto, " ..  não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido" (AREsp 212401, rel. Ministro Mauro Campbell Marques, DJe de 22/06/2022).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
