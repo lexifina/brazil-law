@@ -1,0 +1,60 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que, ao negar provimento ao agravo interno, manteve a decisão de não conhecimento do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 2.520):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSOCIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕESGENÉRICAS. PRINCÍPIO DA DIALETICIDADE. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. O entendimento do Superior Tribunal de Justiça é no sentido de que, nocaso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, em virtude da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial. Precedente.
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+3. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório e da interpretação de cláusula contratual.
+4. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.578 - 2.581).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, caput, LIV e LV, 93, IX, e 170, caput, da Constituição Federal.
+Nesse sentido, argumenta ter havido negativa de prestação jurisdicional, pois o acórdão recorrido não teria enfrentado, de modo satisfatório, os teses centrais suscitadas no recurso especial, notadamente a referente à sentença genérica e indeferimento de provas essenciais para o deslinde da controvérsia, violando os princípios do devido processo legal, do contraditório e do dever de motivação das decisões judiciais.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.522-2.523):
+Inicialmente, o agravo interno e-STJ fls. 2.482-2.494 não deve ser conhecido em virtude do princípio da unirrecorribilidade.
+No caso, a mesma parte interpôs dois agravos internos contra a decisão de e-STJ fls. 2.461-2.462. O entendimento do Superior Tribunal de Justiça é no sentido de que, no caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro (e-STJ fls. 2.467-2.479) poderá ser conhecido, em virtude da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial
+A propósito:
+(..)
+O art. 932, III, do Código de Processo Civil impõe ao relator não conhecer do recurso "(..) que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, conforme consignado na decisão atacada, o agravo em recurso especial não rebateu de maneira específica o fundamento referente à aplicação das Súmulas nºs 5 e 7/STJ.
+Cumpre destacar que a impugnação da decisão atacada deve ser clara e suficiente para demonstrar o equívoco em sua negativa, o que não ocorreu na espécie, visto que os agravantes se limitaram a alegar de forma genérica que não pretendem o reexame de provas e a interpretação de cláusula contratual, já que se trata de matéria jurídica.
+Esse é, inclusive, o entendimento pacífico desta Corte Superior, formulado no sentido de que é dever da parte agravante atacar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Convém ressaltar que, no tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório e da interpretação de cláusula contratual.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido" (AgInt no AREsp 1.925.017/SC, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 5/9/2022, DJe de8/9/2022- grifou-se).
+(..)
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração, nos seguintes termos (fl. 2579):
+De fato, o acórdão embargado não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+No caso dos autos, o aresto embargado confirmou a decisão de e-STJ fls. 2.461-2.462, que não conheceu do agravo em virtude da ausência de impugnação específica dos fundamentos da decisão que não admitiu o apelo nobre.
+Naquela oportunidade, ressaltou-se que, no tocante às Súmulas nºs 5 e 7 /STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático- probatório e da interpretação de cláusula contratual.
+Desse modo, o não acolhimento das teses ventiladas pela parte requerente não significa omissão ou contradição, tanto mais quando abordados todos os pontos relevantes da controvérsia, como no caso.
+Observa-se que os embargantes, em verdade, desejam rediscutir matéria julgada de maneira inequívoca, além de afirmar a existência de contradição sem comprovar suas alegações.
+Nesse contexto, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+(..)
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
