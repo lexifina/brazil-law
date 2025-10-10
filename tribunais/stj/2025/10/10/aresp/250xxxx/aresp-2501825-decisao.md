@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE EVARISTO RIBEIRO contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que inadmitiu o recurso especial por ele interposto contra o acórdão que manteve a sentença de pronúncia (fls. 344/347).
+No recurso especial inadmitido, o agravante alegou violação dos arts. 158, 158-C, 159, 165 e 413, § 1º, do Código de Processo Penal, sustentando: (i) nulidade do exame cadavérico indireto; (ii) excesso de linguagem na decisão de pronúncia; e (iii) ausência de observância do rito do exame de corpo de delito.
+A Presidência do Tribunal a quo inadmitiu o recurso especial aplicando a Súmula 83/STJ quanto à ausência de exame de corpo de delito direto e consignando que não prosperava a alegação de excesso de linguagem, pois as instâncias de origem apenas indicaram as provas que fizeram concluir pela materialidade e indícios de autoria.
+No presente agravo, o recorrente sustenta que a decisão agravada deve ser reformada, reiterando os mesmos argumentos do recurso especial originário.
+O Ministério Público Federal manifestou-se pelo conhecimento parcial do agravo para negar provimento ao recurso especial (fls. 389/391).
+É o relatório.
+Conheço do agravo, uma vez que presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+O agravante pretende a reforma do acórdão de origem com base nos seguintes fundamentos: (i) nulidade do exame cadavérico indireto; (ii) excesso de linguagem na decisão de pronúncia; e (iii) violação do rito do exame de corpo de delito.
+O Tribunal de origem analisou a questão e concluiu que a prova da materialidade pode ser suprida tanto de forma direta quanto indireta, com base no conjunto probatório, conforme jurisprudência consolidada desta Corte Superior. A verificação da suficiência dos elementos probatórios para configurar a materialidade delitiva demanda necessário exame do acervo fático-probatório dos autos.
+O acórdão recorrido verificou que a decisão de pronúncia se limitou à admissibilidade da acusação, reconhecendo a presença dos requisitos necessários, quais sejam, prova da materialidade do crime e indícios suficientes de autoria. O Tribunal consignou que a decisão não emitiu juízo de valor acerca da certeza da autoria, mas apenas indicou as provas que levaram à conclusão pela materialidade e clareza dos indícios de autoria.
+Para verificar se houve efetivo excesso de linguagem na fundamentação da pronúncia seria necessário examinar detidamente o conteúdo da decisão e confrontá-lo com o conjunto probatório dos autos.
+A análise da regularidade do procedimento probatório e da suficiência dos elementos coligidos para demonstrar a materialidade delitiva exige inevitável incursão no contexto fático-probatório dos autos, o que não é permitido na via do recurso especial.
+Em todos os pontos suscitados, o acolhimento da pretensão recursal demandaria inevitável revolvimento do contexto fático-probatório dos autos. O Tribunal de origem, soberano na análise probatória, entendeu pela suficiência dos elementos aptos à pronúncia. A reversão desse entendimento demanda reexame das provas produzidas, inviabilizado pela Súmula 7 do Superior Tribunal de Justiça: a pretensão de simples reexame de prova não enseja recurso especial.
+Conforme jurisprudência consolidada desta Corte: não prospera a alegação de excesso de linguagem por ocasião da decisão de pronúncia, pois as instâncias de origem não emitiram juízo de valor acerca da certeza da autoria, mas, tão somente, indicaram as provas carreadas no processo que as fizeram concluir pela materialidade dos delitos e pela clareza dos indícios de autoria, elementos suficientes para autorizar a submissão do réu ao Tribunal do Júri.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. ALEGAÇÃO DE NULIDADE DO EXAME CADAVÉRICO INDIRETO. SENTENÇA DE PRONÚNCIA. EXCESSO DE LINGUAGEM. PRETENSÕES QUE DEMANDAM REVOLVIMENTO DO CONTEXTO FÁ TICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
