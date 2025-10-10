@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto por GILSON DE JESUS MATOS contra decisão em que neguei provimento ao recurso ordinário em habeas corpus.
+Depreende-se dos autos que o agravante foi preso preventivamente e denunciado pela prática, em tese, de tráfico de drogas, em razão da apreensão de 131 porções de cocaína pesando 77g (setenta e sete gramas).
+Impetrado prévio writ na origem, a ordem foi denegada, nos termos da ementa de e-STJ fl. 61:
+Habeas corpus Tráfico de drogas Nulidade da busca pessoal não verificada Nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência - Constrangimento ilegal não evidenciado Ordem denegada.
+No recurso ordinário, sustentou a defesa a ilicitude das provas decorrentes da busca pessoal, porque não configurada a justa causa para a sua realização.
+Relatou que a medida ocorreu durante o cumprimento de mandado de busca e apreensão em local conhecido como "bar do jacaré", porém o nome do recorrente não constava nesse mandado, até porque a investigação era conduzida contra terceiros.
+Acrescentou que, "ainda que o paciente Gilson de Jesus Matos jamais tivesse sido mencionado nas investigações, tampouco sido investigado pelas equipes policiais, mas tão somente em razão de uma AFIRMAÇÃO INFORMAL feita pela esposa de um dos investigados, o paciente fora abordado em via pública quando iria para sua casa, ocasião em que fora realizada busca pessoal e encontrado ali entorpecentes, bem como ainda, teria dito "espontaneamente" o paciente que tinha mais entorpecentes de sua propriedade no interior do "bar do jacaré", ocasião em que esse fora preso em flagrante" (e-STJ fl. 75).
+Diante dessas considerações, pediu (e-STJ fl. 85):
+a) Em sede LIMINAR a concessão da liberdade provisória do paciente com ou sem aplicação de medidas cautelares diversas da prisão;
+b) No MÉRITO, o conhecimento do presente recurso e o seu provimento a fim de que seja reformado o acórdão ora recorrido para que seja reconhecida a nulidade da busca pessoal no paciente, uma vez a inexistência da fundada suspeita para tal medida, declarando assim todas as provas decorrentes de tal ato, ilícitas, devendo ser desentranhadas dos autos e consequentemente, em razão de que a referida ação penal tão somente se encontra alicerçada em tais provas, requer o trancamento da ação penal.
+No presente agravo, reitera a parte a argumentação deduzida no recurso ordinário, requerendo, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+Decido.
+Conforme relatado, busca a defesa o relaxamento da prisão preventiva e o trancamento da ação penal, ao argumento de que são nulas as provas decorrentes da busca pessoal.
+Ocorre que, compulsando o andamento da Ação Penal n. 1500022-26.2025.8.26.0125, verifica-se que, após a interposição do presente recurso ordinário, foi prolatada sentença condenando o agravante à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, pela prática do crime do art. 33, caput e § 4º, da Lei n. 11.343/2006, sendo a sanção corporal substituída por medidas restritivas de direitos.
+Nesse contexto, verifico que a s insurgências estão prejudicadas, tendo em vista que já houve apreciação da questão atinente à busca pessoal e manifestação em um juízo de cognição mais amplo que as vias angustas do recuso ordinário em habeas corpus, com formação de título judicial.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. CORRUPÇÃO DE MENOR. ALEGAÇÃO DE NULIDADES NO CURSO DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. INTERPOSIÇÃO DE APELAÇÃO DEFENSIVA. INSTRUMENTO ADEQUADO PARA O REEXAME DAS QUESTÕES. PRETENSÃO QUE NÃO SE REFERE À TUTELA IMEDIATA DA LIBERDADE AMBULATORIAL DO ACUSADO. SUBVERSÃO DO SISTEMA RECURSAL. AGRAVO DESPROVIDO.
+1. Consoante se verifica dos autos, o processo já se findou, com a prolação de sentença condenatória em desfavor do réu, tendo a defesa interposto a Apelação n. 0008691-47.2023.8.26.0050, perante o Tribunal de origem, ainda pendente de apreciação por aquele sodalício, o que prejudica a análise do presente writ.
+2. Com a condenação do agravante, as nulidades suscitadas passam a ter suporte decisório na sentença, que deverá ser examinada não na via estreita mandamental, mas no bojo da apelação já manejada pela defesa perante o Tribunal de origem, instrumento processual adequado para o reexame da questão, sob pena de se incidir em indevida supressão de instância.
+3. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual  ..  é indevida a subversão do sistema recursal e a avaliação, enquanto não exaurida a prestação jurisdicional pela instância de origem, de tese defensiva na via estreita do habeas corpus" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 846.290/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023, grifei.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO E FALSIDADE IDEOLÓGICA. NULIDADE. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO POR DEFENSOR DATIVO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. JUÍZO DE COGNIÇÃO MAIS AMPLO. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL.
+1. Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita.
+2. A posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença.
+3. Agravo regimental improvido.
+(AgRg no RHC 71.840/PE, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018, grifei.)
+Ante o exposto, julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
