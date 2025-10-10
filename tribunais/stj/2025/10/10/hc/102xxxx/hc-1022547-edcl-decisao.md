@@ -1,0 +1,34 @@
+DECISÃO
+T rata-se de embargos de declaração opostos por HENRIQUE TORRES DE ALMEIDA, em face da decisão que não conheceu do habeas corpus (fls. 296-304).
+Em suas razões, o Embargante afirma a existência de omissão.
+Ressalta que,
+O mote do HC, pois, não envolve a (i)legalidade da abordagem e revista em si, mas a falta de prova - metadúvida - de que ocorreu a dita "fuga da polícia", a despeito da existência de aparelho tecnológico que a pudesse demonstrar. Só que não há uma só linha sobre isso na decisão monocrática, que, claro, é omissa.
+Requer o acolhimento dos embargos declaratórios para sanar o vício apontado.
+É o relatório.
+Decido.
+De plano, cumpre esclarecer que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal, sendo possível, excepcionalmente, a alteração ou modificação do decisum nos efeitos infringentes.
+Também podem ser admitidos para a correção de eventual erro material, consoante o entendimento preconizado pela doutrina e jurisprudência, hoje igualmente consagrado no art. 1.022, III, do atual Código de Processo Civil. Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª ed., 1999, p. 1045):
+Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado.
+No mesmo sentido: EDcl no AgRg nos EAREsp n. 2.060.783/RN, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 12/4/2023, DJe de 14/4/2023 e EDcl no AgRg no RHC n. 163.279/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 24/5/2022, DJe de 30/5/2022.
+Na hipótese, não se verifica a existência da apontada omissão, tendo em conta a fundamentação expressamente consignada na decisão denegatória, especificamente, quanto a questão suscitada em declaratórios (fls. 297-299) :
+(..). No caso, o Tribunal de origem rejeitou as alegações de ausência de fundadas razões para abordagem e de busca pessoal ilegal, com base na fundamentação a seguir (fls. 228-231, grifamos):
+A preliminar não merece acolhimento.
+Com efeito, extrai-se do conjunto probatório, como se verá, que a diligência dos policiais militares de abordagem e revista pessoal do acusado, com consequente prisão em flagrante delito pela posse de drogas ilícitas destinadas à mercancia espúria ocorreu de modo regular, com espeque em fundada suspeita de prática delituosa, inexistindo, a despeito do entendimento da defesa, qualquer violação ao disposto no art. 240, § 2º, do Código de Processo Penal.
+No caso sub examen, a situação de flagrante era patente e necessária a autuação imediata. Os policiais realizavam diligências em contumaz ponto de comércio de drogas e assim que o acusado os avistou, imediatamente partiu em fuga, dispensando, em seguida, uma mochila.
+Não se tratava de mera desconfiança ou intuição dos agentes, mas situação concreta e segura, baseada em critérios objetivos, havendo fundada suspeita de que o acusado pudesse estar praticando infração criminal, de modo que os policiais agiram dentro de seu dever de apurar a ocorrência, o que consubstancia ato legal em preservação da ordem pública.
+A inviolabilidade da intimidade da pessoa, norma constitucional de eficácia contida, está insculpida e consagrada no art. 5º, inc. X, da Constituição Federal, dispondo da seguinte maneira: "X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação". Contudo, ela pode ser mitigada, dentre outras possibilidades, diante da constatação de ocorrência de crime, como na hipótese.
+Por sua vez, considerando-se que o tráfico ilícito de drogas é crime permanente, verifica-se permitida, pela Carta Magna, a ação dos agentes em revistas pessoais de indivíduos suspeitos, em locais públicos ou privados, com vistas às providências necessárias e cabíveis para a prisão em flagrante do agente criminoso e consequente apreensão do material ilícito, desde que presente a justa causa.
+Na presente hipótese, conforme já delineado, vê-se presente a justa causa de forma inequívoca, autorizando a realização da revista pessoal diante da inquestionável conduta suspeita ao empreender fuga e dispensar uma mochila.
+(..). De se salientar que em relação às bodycams, a resposta à acusação foi apresentada tempestivamente (fl. 132), não sendo requerida as imagens das câmeras corporais, estando, pois, preclusa a oportunidade.
+Registre-se que às partes recai o ônus de provar tudo que alegam, e assim devem fazê-lo, definindo a estratégia de ação para convencer o juiz a decidir a seu favor.
+Esse encargo, todavia, não impõe à acusação a tarefa de congregar todas as fontes de prova capazes de comprovar suas afirmações, valendo-se de todos os meios de prova que o caso lhe oferece.
+Isso porque, o desiderato das provas não é outro senão formar o convencimento do juiz, que tem liberdade plena para analisar e avaliar os elementos coligidos no processo, bem como as provas produzidas em contraditório judicial, para, ao final, exarar seu veredicto devidamente fundamentado.
+Da certeza que colhe das provas, o juiz labora a sua verdade e, ao final, presta a jurisdição por meio da sentença, corolário maior de sua convicção íntima.
+Assim, se o acervo probatório se revela apto a extrair o convencimento para a prestação jurisdicional, o que se reputa suficientemente presente nos autos, é o quanto basta, não havendo que se falar em prejuízo pela ausência das imagens de câmeras corporais.
+Aliás, nem sequer há informação se os militares que abordaram o acusado de fato usavam as referidas câmeras corporais. Não se pode cogitar na invalidade das provas decorrentes de abordagens de todo e qualquer policial que não tenha consigo referido aparelho.
+Rejeitada a preliminar, passa-se à análise do mérito.
+In casu, verifica-se que os argumentos apresentados não demonstram a busca por qualquer saneamento, mas sim o reexame da matéria já decidida, o que não se mostra possível na via eleita. Nesse prisma, a pretensão não está em harmonia com a natureza e a função do recurso integrativo.
+A esse respeito: EDcl no AgRg no AREsp n. 1.203.591/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022; EDcl no REsp n. 1.931.145/SP, relator Ministro S ebastião Reis Júnior, Terceira Seção, julgado em 24/8/2022, DJe de 26/8/2022; e EDcl no AgRg no HC n. 713.568/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022)
+Ante o exposto, não vislumbrando qualquer vício no decisum, rejeito os embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
