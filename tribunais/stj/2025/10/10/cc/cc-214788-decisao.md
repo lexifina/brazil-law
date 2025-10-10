@@ -1,0 +1,8 @@
+DECISÃO
+1. O eg. Supremo Tribunal Federal, no âmbito do ARE 1532603/PR, Rel. Ministro Gilmar Mendes, tema de Repercussão Geral nº 1.389, determinou, em decisão prolatada em 14/04/2025, a suspensão de todos os processos que tratem de matéria relativa a "competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade"
+Portanto, a controvérsia subjacente ao presente conflito de competência está pendente de julgamento pelo STF, o que torna inócua a sua decisão no presente momento, porque, considerando a determinação de suspensão nacional, qualquer dos r. juízos eventualmente declarados competentes terá de aguardar até o pronunciamento final da Corte Suprema.
+Posta a situação nestes termos, a análise do presente conflito de competência resta prejudicada, tendo em vista a impossibilidade jurídica de surtir efeitos no caso concreto.
+A circunstância fática que impede a produção de efeitos práticos da decisão do conflito de competência torna sua análise prejudicada. Citem-se os seguintes precedentes, aplicáveis no presente caso de forma análoga: EDcl no AgInt nos EDcl no CC n. 171.678/DF, relator Ministro Raul Araújo, Segunda Seção, julgado em 8/3/2023, DJe de 14/3/2023; AgInt no CC n 164.850/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 2/6/2020, DJe de 4/6/2020.
+2. Do exposto, julga-se prejudicado o presente conflito de competência, determinando que o processo subjacente ao incidente aguarde suspenso no r. juízo suscitante até a definição do tema pelo STF.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados.
+EMENTA
