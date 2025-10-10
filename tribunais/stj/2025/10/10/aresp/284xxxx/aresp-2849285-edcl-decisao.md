@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maria Nazareth De Assis Macedo contra decisum singular, de fls. 472/476, que conheceu de seu agravo para não conhecer do apelo especial.
+Em suas razões, a parte embargante aduz a existência de omissão no julgado, sob a assertiva de que não houve a apreciação de um dos argumentos que embasa a tese de negativa de prestação jurisdicional pelo Tribunal de origem, a saber, silêncio acerca preliminar de ilegitimidade ativa ad causam da parte embargada quanto à cobrança dos valores pagos indevidamente.
+Sem impugnação (fl. 493).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, no recurso especial a parte ora embargante apontou contrariedade aos arts. 489, § 1º, e 1.022, parágrafo único, II, ambos do CPC, sob o fundamento de que, a despeito da oposição de aclaratórios, o Tribunal de origem deixou de apreciar "a alegação em contra razões de que se a pensão era dividida entre MARIA NAZARETH e sua genitora, viúva de José Isaac de Macedo, se não fosse MARIA NAZARETH receber 50%, sua genitora receberia 100%. E que, assim, a SPPREV é parte ilegítima para cobrar valores pagos para MARIA NAZARETH, lhe faltando interesse de agir" (fl. 374).
+Sucede que tal questão foi, sim, plenamente analisada no decisum ora embargado, consoante se extrai do trecho que segue (fls. 473/474):
+Dito isto, verifica-se que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp n. 1.678.312/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/4/2021).
+ ..
+De igual modo, a questão concernente à legitimidade da SPPREV para cobrar em juízo os valores indevidamente pagos à parte ora recorrente foi examinado no acórdão recorrido. Confira-se (fl. 314):
+6. Sendo assim, respeitado entendimento diverso, deve ser julgada procedente a ação de cobrança (Processo nº 1064801-16.2018.8.26.0053 ) ajuizada pela SPPREV para condenar a ré MARIA NAZARETH DE ASSIS MACHADO ao pagamento de valor a ser apurado em liquidação, com juros moratórios a partir da citação e correção monetária devida desde a data dos respectivos desembolsos pela autora em favor da beneficiária, consoante os índices estipulados pelo E. STF no julgamento do Tema de Repercussão Geral nº 810, melhor detalhados pelo C. STJ no julgamento do Tema de Recursos Repetitivos nº 905, incidindo a Taxa SELIC, por força do art. 3º da Emenda Constitucional nº 113/21, a partir da publicação da referida norma constitucional.
+Assim, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
