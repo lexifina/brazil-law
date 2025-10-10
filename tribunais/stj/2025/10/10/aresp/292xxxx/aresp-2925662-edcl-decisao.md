@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO CARLOS CORREA e outros contra a decisão de e-STJ fls. 565/569, em que conheci do agravo para não conhecer do recurso especial ante a incidência da Súmula 83 do STJ.
+A parte embargante alega que a decisão foi omissa quanto à "recente afetação do tema ao regime dos recursos repetitivos (RRC) pela recente seleção dos Recursos Especiais 2217139/SP, 2217140/SP e 2217138/SP já como Recursos Representativos de Controvérsia junto ao Núcleo de Gestão de Precedentes desta Corte Superior, além de que, consoante relevância reconhecida pelos pareceres emitidos pela Procuradoria-Geral da República, a jurisprudência do Superior Tribunal de Justiça tem autorizado o prosseguimento da ação de cobrança na hipótese de superveniência do trânsito em julgado do mandado de segurança coletivo" (e-STJ fl. 576).
+Aduz a existência de contradição em razão da "existência de julgado da Segunda Turma contemporâneo aos precedentes citados na decisão embargada, que demonstra a divergência entre o entendimento do acórdão recorrido e o do STJ. Hipótese que justifica o afastamento do Enunciado 83 do STJ" (e-STJ fl. 581).
+Repisa, ainda, as alegações anteriores, invocando a aplicação do Tema 1.119 do STF.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, não assiste razão ao embargante.
+Com efeito, a simples admissão de recursos especiais como representativos da controvérsia pelo Tribunal de origem ou mesmo o encaminhamento de processos à Comissão Gestora de Precedentes no âmbito do STJ não são causas para o sobrestamento de processos similares, sendo necessário para esse mister a efetiva afetação do tema pelo STJ, com a determinação de suspensão da jurisdição.
+Ainda, na decisão ora embargada foi claramente explicitado que a matéria dos autos não se amolda ao Tema 1.119 do STF (é desnecessária a autorização expressa dos associados, a relação nominal destes, bem como a comprovação de filiação prévia, para a cobrança de valores pretéritos de título judicial decorrente de mandado de segurança coletivo impetrado por entidade associativa de caráter civil), uma vez que, aqui, não há discussão acerca dos requisitos para ação de cobrança nele debatidos.
+Quanto às demais alegações, consoante o entendimento desta Corte, "a contradição passível de ser sanada na via dos embargos declaratórios é acontradição interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido peloembargante como acertado" (EDcl no AgInt no AREsp 1872840/SP, rel. MinistroMANOEL ERHARDT - desembargador convocado do TRF5, Primeira Turma, DJe 24/03/2022).
+Na hipótese, afirma a parte recorrente que o aresto recorrido foi contraditório em razão da "existência de julgado da Segunda Turma contemporâneo aos precedentes citados na decisão embargada, que demonstra a divergência entre o entendimento do acórdão recorrido e o do STJ. Hipótese que justifica o afastamento do Enunciado 83 do STJ" (e-STJ fl. 581).
+Verifica-se, assim, que não houve a indicação de nenhuma inadequação lógica entre a fundamentação posta e a conclusão adotada, havendo mera irresignação da parte recorrente quanto à solução do seu recurso.
+Assim, não há vício de integração a ser sanado.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
