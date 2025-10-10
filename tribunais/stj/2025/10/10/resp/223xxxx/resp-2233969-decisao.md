@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2 ª Região, assim ementado (fl. 170):
+APELAÇÕES CÍVEIS. ADMINISTRATIVO. PROGRAMA FARMÁCIA POPULAR DO BRASIL. SUSPENSÃO PREVENTIVA DE PAGAMENTO E CONEXÃO COM O SISTEMA DATASUS. LEGALIDADE. INDÍCIOS DE IRREGULARIDADE. RESTABELECIMENTO DA CONEXÃO E DOS PAGAMENTOS ANTES DA CONCLUSÃO DA APURAÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE. SEPARAÇÃO DOS PODERES. RECURSO DA PARTE AUTORA DESPROVIDO. RECURSOS DA PARTE RÉ PROVIDO.
+1. Apelações interpostas contra sentença que julgou parcialmente procedentes os pedidos para determinar o fim da suspensão preventiva da parte Autora no Programa Farmácia Popular do Brasil.
+2. A constatação de diversos indícios de irregularidades na execução do Programa pela empresa ensejou a suspensão dos pagamentos e da conexão com o DATASUS, bem assim a instauração do procedimento para averiguação dos fatos, na forma da legislação de regência. 3. Não se afigura possível o imediato restabelecimento da conexão e dos pagamentos antes da conclusão da apuração administrativa, vez que não seria razoável permitir que uma empresa com indícios de irregularidades continuasse atuando no âmbito do referido programa.
+3. A Administração Pública tem o poder-dever de apurar com cautela os fatos apontados, a fim de evitar danos irreparáveis ao erário, não competindo ao Judiciário invadir a esfera discricionária do Administrador Público, ante a ausência de ilegalidade, e, consequentemente, de direito líquido e certo da empresa privada.
+4. Apelação da Autora desprovida. Apelação do Réu provida.
+Embargos de declaração rejeitados.
+Quanto à questão de fundo, sustenta ofensa ao artigo 2º da Lei 9.784/1999 e dissídio jurisprudencial, sob o argumento de que a Corte de origem afirmou "que teriam sido constatados indícios na execução do Programa pela Recorrente, o que ensejaria a suspensão da conexão e dos pagamentos, bem assim a instauração do procedimento para averiguação dos fatos" (fl. 213).
+Alega que não há razoabilidade e proporcionalidade na suspensão, pelo período de 38 (trinta e oito) meses, para fins de apuração dos fatos, como assim entendeu a Corte de origem (fl. 213).
+Por fim, menciona que "a morosidade extrema na conclusão do processo administrativo não deve ser imputada à Recorrente, em hipótese nenhuma. É ônus da Administração lidar tempestivamente com o volume de informações que demanda dos administrados, sobretudo se as informações foram prestadas de forma célere em um cenário de dano continuado àquele que as prestou - tal como a Recorrente, que suporta prejuízos mês a mês desde a suspensão de sua participação no Programa Farmácia Popular" (fl. 214).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 233-234.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial não merece conhecimento.
+Não é possível conhecer do recurso especial que apresenta suposta violação do artigo 2º da Lei 9.784/1999, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido, o que atrai a aplicação da Súmula 284/STF à hipótese.
+Cita-se a seguinte decisão monocrática proferida em caso similar: AREsp n. 2.302.044, Ministro Gurgel de Faria, DJe de 23/06/2023.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. REINTEGRA. VARIAÇÃO DE ALÍQUOTAS PELO PODER EXECUTIVO. DECRETO. LEGALIDADE. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Não há na hipótese prestação jurisdicional insuficiente ou incompleta, afastando-se a alegação negativa ao art. 1.022 do CPC/2015.
+3. No caso dos autos, evidencia-se que o artigo 3º do CPC/2015 não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula n. 284/STF.
+4. A fixação de percentuais variáveis, em determinados períodos, estipulados pelos decretos regulamentares do REINTEGRA, são autorizados pela Lei 22, §1º, da Lei n. 13.043/2014, não extrapolando os limites da delegação. Precedentes.
+5. Agravo interno improvido.
+(AgInt no REsp n. 2.126.595/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 25/8/2025, DJEN de 1/9/2025.)
+Por fim, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
