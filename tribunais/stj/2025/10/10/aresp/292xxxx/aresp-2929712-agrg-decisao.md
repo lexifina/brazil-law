@@ -1,0 +1,29 @@
+DECISÃO
+ANDERSON PINTO DA SILVA interpõe agravo regimental contra decisão de fls. 493-494, proferida pela Presidência desta Corte Superior de Justiça, que não conheceu do agravo em recurso especial, em razão do enunciado na Súmula n. 182 do STJ.
+A defesa alega, em síntese, que, ao contrário do que afirmado, os argumentos invocados para não admitir o recurso especial foram devidamente impugnados no agravo em recurso especial.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja: a) aplicada em 2/3 a minorante prevista no art. 33, § 4º, da Lei de Drogas, e não em 1/6, como efetivado pelo Tribunal de origem; b) fixado o regime aberto; c) determinada a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+Decido.
+I. Juízo de retratação
+De fato, entendo que assiste razão ao agravante quando afirma que a decisão de fls. 493-494 se equivocou ao aplicar a Súmula n. 182 do STJ.
+O Tribunal a quo obstou o prosseguimento do recurso especial pelos seguintes fundamentos: a) Súmula n. 83 do STJ (fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006); b) Súmula n. 83 do STJ (regime inicial de cumprimento de pena); c) Súmula n. 83 do STJ (quanto à apontada omissão não sanada pelos embargos de declaração).
+O agravante, nas razões do agravo em recurso especial, impugnou todos os argumentos invocados pela Corte de origem, motivo pelo qual afasto a incidência do enunciado na Súmula n. 182 do STJ e, dentro do juízo de retratação inerente ao agravo regimental, reconsidero a decisão de fls. 493-494, na extensão e nos termos a seguir aduzidos.
+Consequentemente, uma vez que o agravo é tempestivo e infirmou o fundamento da decisão agravada, passo à nova análise do recurso especial, por meio do qual a defesa pleiteia, em síntese, a aplicação da minorante prevista no § 4º do art. 33, § 4º, da Lei n. 11.343/2006 no patamar máximo de 2/3, com a consequente fixação de regime mais brando e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+II. Fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+O Tribunal de origem entendeu devida a incidência da minorante em questão no patamar de 1/6, nos seguintes termos (fls. 383-386):
+Conforme os autos, foram apreendidos 360 g de maconha e 134,760 g de crack. A natureza e a quantidade dessas substâncias não podem ser desconsideradas, pois exercem papel fundamental na definição do grau de reprovabilidade da conduta do réu. A quantidade de entorpecentes apreendida revela que o apelado não estava apenas envolvido em um pequeno comércio de drogas, mas sim em uma operação de maior envergadura, com capacidade de abastecimento de usuários em larga escala, conforme bem apontado pelo Ministério Público.
+Destaca-se que o próprio legislador, ao incluir a natureza e a quantidade da droga como elementos a serem considerados na dosimetria (art. 42 da Lei nº 11.343/2006), conferiu relevância a tais aspectos na aplicação das penas no tráfico de drogas, justamente por refletirem o grau de periculosidade da conduta do agente e a potencialidade lesiva à saúde pública.
+ ..
+Neste contexto, considerando a quantidade significativa das drogas (360 g de maconha e 134,760 g de crack), a aplicação da fração mínima de 1/6 se mostra mais adequada à realidade dos autos, para refletir o maior grau de reprovabilidade da conduta do apelado.
+Conforme colacionado acima, aplicando-se a fração redutora de (um sexto) passo a fixar a pena definitiva do réu em 04 (quatro) anos e 02 (dois) meses de reclusão, além do pagamento de 417 (quatrocentos e dezessete) dias-multa.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+No caso, uma leitura atenta do acórdão impugnado permite identificar que a Corte estadual - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução mínima prevista em lei, havendo mencionado a natureza e a quantidade de drogas apreendidas.
+Ainda, relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso dos autos.
+Portanto, em razão de todas essas considerações, não identifico a apontada violação legal e, por conseguinte, mantenho inalterada a reprimenda imposta ao ora agravante.
+III. Regime e substituição da pena
+Diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, ficam mantidas também a imposição do regime inicial semiaberto (pena superior a 4 anos de reclusão), bem como a negativa de substituição da reprimenda privativa de liberdade por restritivas de direitos, por ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP.
+IV. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 493-494, para conhecer do agravo e negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
