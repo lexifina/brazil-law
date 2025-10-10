@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MIKE WILLIAM CEZAR CURY MUNIZ contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO, assim ementado (fl. 107):
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRIMÁRIO. DENEGAÇÃO DA ORDEM. I. Caso em exame. Mike William Cezar Cury Muniz foi preso em flagrante em 30.05.2025, pela suposta prática do crime de tráfico de drogas. A Defesa alega que a decretação da prisão preventiva se deu de forma inidônea, diante da ilegalidade da prisão em flagrante e da ausência dos requisitos legais que justificam a medida. Sustenta, ademais, a desproporcionalidade da segregação, frente à possibilidade de se subsumir ao tráfico privilegiado. Desse modo, pleiteia a revogação da prisão. Questão em discussão. Verificar se existem elementos que justifiquem a manutenção da prisão preventiva do paciente. III. Razões de decidir. Flagrante formalmente em ordem, devidamente homologado. Via do Habeas Corpus não comporta reexame de fatos e provas, sendo inviável a análise das teses meritórias. A decisão atacada apresenta-se devidamente fundamentada e apresenta ao quanto exigido pelo artigo 93, inciso IX, da Constituição Federal. Circunstâncias do crime e demais elementos que indicam a necessidade da manutenção da prisão, mesmo considerando condições pessoais favoráveis. Dispositivo e tese. DENEGA-SE A ORDEM. Tese de julgamento: 1. A decisão da prisão preventiva foi fundamentada. 2. Os fundamentos e requisitos da prisão preventiva também se verificam no caso concreto, à luz do caput do artigo 312 do CPP.
+O paciente "foi preso em flagrante delito em 30.05.2025, pela prática, em tese, do crime de tráfico de drogas" (fl. 108), convertido em prisão preventiva, sendo posteriormente denunciado.
+A defesa sustenta, em suma, que o flagrante teria sido forjado, pois o paciente "encontrava-se em frente a sua residência e sozinho e quando questionado o paciente declarou ser usuário contumaz" (fl. 9).
+Aduz condições pessoais favoráveis, incluindo primariedade, "visto que todos os seus problemas para com a justiça foram cumpridos e pagos" (fl. 3).
+Entende, ainda, que o paciente fará jus à desclassificação (art. 28 da Lei n. 11.343/2006) ou à benesse do tráfico privilegiado, requerendo, ao final, a imediata revogação da custódia preventiva, "sem fiança com imposição legais ao paciente/averiguado" (fl. 24).
+Em petição, às fls. 156-158, alega que o paciente está preso "há quase 03 (três) meses sem que tenha sido sequer notificado da denúncia protocolada", requerendo a reapreciação e concessão da medida liminar para concessão da liberdade provisória.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 226):
+HABEAS CORPUS SUBSTITUTIVO. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. PRISÃO FUNDADA NA GRAVIDADE ABSTRATA DA CONDUTA. FUNDAMENTAÇÃO INIDÔNEA.
+1. O não cabimento de habeas corpus substitutivo de recurso próprio se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ.
+2. Decreto constritivo que carece de fundamentação idônea para a imposição da prisão preventiva, uma vez que a decisão constritiva faz menção à gravidade abstrata do delito, não demonstrando o perigo que a liberdade do paciente possa, porventura, causar à ordem publica ou a outro bem juridicamente relevante.
+3. Presente constrangimento ilegal, merece ser revogada a prisão preventiva, com a substituição por medidas cautelares diversas.
+4. Parecer pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+De início, quanto à tese de flagrante forjado, ressaltou o Tribunal local que "não se constatam vícios formais passíveis de reconhecimento", pois "o d. Magistrado responsável pela audiência de custódia homologou a prisão em flagrante, reconhecendo que a conduta do Paciente e a situação fática se encontravam subsumidas às regras previstas pelo artigo 302 do Código de Processo Penal" (fl. 112), não havendo falar-se, assim, em ilegalidade.
+No mais, o presente mandamus encontra-se sem objeto.
+Isso porque, em 5/9/2025, o egrégio Supremo Tribunal Federal concedeu, de ofício, a ordem de habeas corpus, determinando a revogação da custódia processual do ora paciente, conforme se vê do documento de fls. 215-220.
+Diante do exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
