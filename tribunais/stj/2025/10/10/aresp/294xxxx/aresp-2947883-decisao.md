@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por HYUNDAI MOTOR BRASIL MONTADORA DE AUTOMÓVEIS LTDA. contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fls. 711/713):
+TRIBUTÁRIO. MAJORAÇÃO DE ALÍQUOTAS DO PIS E DA COFINS PELO DECRETO N. 8.426/2015. ALTERAÇÃO DENTRO DOS PARÂMETROS PREVISTOS NA LEI N. 10.865/2004. NÃO CUMULATIVIDADE. APELAÇÃO IMPROVIDA.
+Ausência de afronta ao princípio da legalidade: a Lei n. 10.865/2004 estabelece que as alíquotas do PIS e COFINS poderão ser alteradas pelo Poder Executivo dentro de certos limites.
+Na vigência do Decreto n. 5.442/2005, as alíquotas estavam reduzidas a zero. Por esta razão, discute-s e a possibilidade de majoração das alíquotas do PIS e da COFINS, respectivamente para 0,65% e 4%, no regime da não cumulatividade, por decreto e não por lei.
+Não há que se falar em afronta ao princípio da legalidade. O art. 27, § 2º, da Lei n. 10.865/2004, possibilita ao Poder Executivo diminuir tais patamares e restabelecê-los, a depender da conjuntura econômica.
+A Lei n. 10.637/2002 fixou para o PIS o percentual de 1,65%, enquanto a Lei n. 10.833/2003 fixou, para a COFINS, o percentual de 7,6%. Assim, o Decreto n. 8.426/2015, ao dispor sobre a aplicação de alíquotas de 0,65% e 4% para o PIS e para a COFINS, respectivamente, obedeceu os limites definidos por lei.
+O art. 150, I, da CF/1988 exige lei para majoração do tributo, nada exigindo para alteração do tributo dentro dos patamares legais.
+A não cumulatividade instituída para as contribuições sociais, incidentes sobre a receita ou o faturamento, não se refere ao ciclo de produção, mas tem em conta o próprio contribuinte, uma vez que a grandeza constitucionalmente definida como base de cálculo não constitui um ciclo econômico, mas um fator eminentemente individual, a saber, a obtenção de receita ou faturamento.
+A Constituição Federal, em seu art. 195, § 12, com redação determinada pela Emenda Constitucional n. 42/2003, prevê o regime da não cumulatividade, mas não estabelece os critérios a serem obedecidos, cabendo, portanto, à legislação infraconstitucional a incumbência de fazê-lo.
+As Leis n. 10.637/2002 e n. 10.833/2003 não preveem de forma explícita que a instituição da contribuição necessariamente deverá se dar com a utilização de créditos de despesas financeiras, de modo que este é o regime legalmente delineado e inexiste ilegalidade a ser reconhecida. Precedentes.
+Quanto à apropriação e desconto de créditos do PIS e da COFINS sobre as despesas financeiras incorridas, a partir de 01.07.2015, ressalto que o vocábulo "também", empregado pelo art. 27, § 2º, da Lei n. 10.865/2004, não obriga que a elevação de alíquota seja acompanhada da permissão de creditamento. A não cumulatividade é um mecanismo do sistema de tributação, que permite ao Legislador elevar alíquotas sem contrapartida obrigatória.
+Apelação improvida.
+No especial obstaculizado, a recorrente apontou violação do art. 97, II e IV, do CTN, alegando, em síntese, que o Decreto n. 8.426/2015, ao majorar as alíquotas do PIS e da COFINS, violou o princípio da legalidade tributária, uma vez que a fixação de alíquotas é matéria reservada à lei. Sustentou que a delegação de competência ao Poder Executivo, prevista no art. 27, § 2º, da Lei n. 10.865/2004, é inconstitucional.
+Seguiu afirmando que a majoração das alíquotas do PIS e da COFINS, sem a correspondente possibilidade de aproveitamento de créditos sobre despesas financeiras, viola o princípio da não cumulatividade. Aduziu que a sistemática introduzida pelo Decreto n. 8.426/2015 torna cumulativos os tributos em relação às receitas financeiras, em desconformidade com o art. 195, § 12, da CF/1988.
+Por fim, requer, subsidiariamente, "reconhecer-se o direito à dedução de créditos sobre os valores das despesas financeiras, calculados pela mesma alíquota incidente sobre tais receitas" (e-STJ fl. 739).
+Contrarrazões apresentadas às e-STJ fls. 772/775.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, sob o fundamento de que a controvérsia possui natureza eminentemente constitucional, conforme decidido no Tema 939 do STF, sendo incabível sua apreciação em sede de recurso especial (e-STJ fls. 895/900).
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança, objetivando a declaração de inconstitucionalidade e ilegalidade do Decreto n. 8.426/2015, que majorou as alíquotas do PIS e da COFINS incidentes sobre receitas financeiras, sob o argumento de que tal majoração somente poderia ser realizada por meio de lei. Subsidiariamente, requereu a apropriação e o desconto de créditos do PIS e da COFINS sobre as despesas financeiras incorridas, a partir de 01/07/2015, para fins de compensação na apuração das contribuições devidas mensalmente, corrigidas pela Selic.
+O juízo de primeiro grau denegou a segurança.
+O Tribunal de origem, ao examinar a apelação interposta pela HYUNDAI MOTOR BRASIL MONTADORA DE AUTOMÓVEIS LTDA, negou-lhe provimento.
+Pois bem.
+O recurso não merece prosperar.
+De acordo com a jurisprudência do STJ, é vedado o exame da alegação de violação do art. 97 do Código Tributário Nacional por esta Corte Superior, em razão de esse dispositivo constituir mera reprodução de preceito constitucional.
+Aliás, essa orientação foi recentemente reiterada pela Primeira Seção da Corte, quando concluiu que "é vedado o exame da alegação de violação do art. 97 do Código Tributário Nacional (CTN) pelo Superior Tribunal de Justiça (STJ) por ser esse dispositivo mera reprodução de preceito constitucional (art. 150, I, da Constituição Federal), que trata do princípio da legalidade tributária)" (REsp 2.091.202/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 11/12/2024, DJEN de 16/12/2024).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de hono rários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
