@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por Accioly José da Silva e Janice Ramos Accioly Silva, com fundamento no art. 105, III, da Constituição Federal (CF).
+Na origem, os recorrentes propuseram ação visando ao pagamento de diferenças remuneratórias decorrentes da instituição da Unidade Real de Valor, com base no Ato Normativo 711/2000 do Tribunal Superior do Trabalho (TST), que reconheceu administrativamente direito a recomposição salarial no percentual de 11,98%. Deu-se, à causa, o valor de R$ 84.222,00 (oitenta e quatro mil, duzentos e vinte e dois reais).
+Após sentença que julgou procedente o pedido, o Tribunal Regional Federal da 1ª Região deu provimento à apelação e à remessa oficial, reformando a sentença para acolher a prescrição e julgar extinto o processo com resolução de mérito.
+O referido acórdão foi assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL DO TRT-14ª REGIÃO. RECOMPOSIÇÃO SALARIAL. 11,98%. RECONHECIMENTO ADMINISTRATIVO. ATO 711/2000 DO TST. PRESCRIÇÃO. SENTENÇA REFORMADA. PROCESSO EXTINTO, COM RESOLUÇÃO DO MÉRITO (ART. 269, IV, CPC). APELAÇÃO E REMESSA OFICIAL PROVIDAS.
+1. As dívidas passivas da União, bem assim todo e qualquer direito ou ação contra a Fazenda Pública prescrevem em 5 (cinco) anos, contados da data do ato ou fato do qual se originarem (art. 1º do Decreto 20.910/32). Nos termos das disposições do aludido ato normativo, a prescrição somente poderá ser interrompida uma vez, quando recomeçará a correr, pela metade do prazo, da data do ato que a interrompeu ou do último ato ou termo do respectivo processo.
+2. Na espécie, o reconhecimento do direito dos servidores da Justiça do Trabalho à recomposição salarial no índice de 11,98%, pelo Ato Normativo 711, de 12.12.2000, da Presidência do Tribunal Superior do Trabalho, interrompeu a prescrição, que recomeçou a fluir pela metade do prazo, ou seja, por dois anos e meio.
+3. Ajuizada a ação em 28.10.2005, encontram-se irremediavelmente atingidas pela prescrição as parcelas referentes à recomposição salarial em 11,98%.
+4. Apelação e remessa oficial providas.
+Os embargos de declaração opostos foram rejeitados.
+Os recorrentes alegam violação dos arts. 458 e 535 do Código de Processo Civil de 1973 (CPC/1973), e 191, do Código Civil (CC). Sustentam, em síntese, que o Ato Normativo 711/2000 do TST implicou em renúncia tácita à prescrição. Apontam, ainda, que o acórdão recorrido contraria a jurisprudência consolidada do Superior Tribunal de Justiça (STJ) sobre a matéria.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a vigência da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do CPC/1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do STJ.
+Considerando que a fundamentação do acórdão foi devidamente impugnada, e atendidos os demais pressupostos de admissibilidade, passo ao exame do recurso.
+Assiste razão aos recorrentes. Verifica-se que o acórdão recorrido, ao acolher a prescrição apenas com base no Decreto n. 20.910/1932, deixou de observar a jurisprudência deste Tribunal Superior, que interpretou como renúncia tácita à prescrição (art. 191, do CC) a edição de ato normativo reconhecendo o direito dos servidores da Justiça do Trabalho à recomposição salarial no índice de 11,98%.
+Nesse sentido, vejamos a jurisprudência do STJ:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 11,98%. CONCESSÃO VIA ADMINISTRATIVA. ATO NORMATIVO N. 711/TST. CONFIGURAÇÃO DE RENÚNCIA TÁCITA DA PRESCRIÇÃO. PRECEDENTES DO STJ.
+1. Esta Corte de Justiça possui entendimento consolidado no sentido de que o Ato Normativo nº 711, do Tribunal Superior do Trabalho, que reconheceu o direito dos servidores à incorporação da diferença decorrente da transformação dos salários pela unidade real de valor - URV, a partir de abril de 1994, no percentual de 11,98%, implicou em renúncia tácita à prescrição, nos termos do art. 191 do Código Civil (REsp 1251053/RO, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 4/12/2012).
+2. Tendo em vista que o ato normativo foi editado em 12/12/2000 e publicado em 14/12/2000 e que a ação foi ajuizada em janeiro de 2005, não há falar em consumação da prescrição.
+3. Agravo regimental improvido.
+(AgRg no REsp 895.781/RO, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/3/2015, DJe 6/4/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 11, 98%. CONCESSÃO VIA ADMINISTRATIVA. ATO NORMATIVO Nº 711/TST. CONFIGURAÇÃO DE RENÚNCIA TÁCITA DA PRESCRIÇÃO. PRECEDENTES DO STJ.
+1. Esta Corte de Justiça possui entendimento consolidado no sentido de que o Ato Normativo nº 711, do Tribunal Superior do Trabalho, que reconheceu o direito dos servidores à incorporação da diferença decorrente da transformação dos salários pela unidade real de valor - URV, a partir de abril de 1994, no percentual de 11,98%, implicou em renúncia tácita à prescrição, nos termos do art. 191 do Código Civil (REsp 1251053/RO, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 4/12/2012).
+2. Tendo em conta que o mencionado ato normativo foi editado em 12/12/2000 e a presente ação ajuizada em 20/1/2005, dentro, portanto, do prazo quinquenal, tem-se por não consumada a prescrição.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1274584/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/3/2014, DJe 5/6/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO DA JUSTIÇA TRABALHISTA. REAJUSTE DE 11,98%. CONCESSÃO VIA ADMINISTRATIVA. ATO N. 711 DO TST. RENÚNCIA TÁCITA DA PRESCRIÇÃO. JUROS DE MORA. TERMO A QUO. CITAÇÃO VÁLIDA. RESERVA DE PLENÁRIO. VIOLAÇÃO NÃO CONFIGURADA. ANÁLISE DE NORMA CONSTITUCIONAL PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que o Ato Normativo n. 711 do Tribunal Superior do Trabalho, que reconheceu o direito dos servidores à incorporação da diferença decorrente da transformação dos salários pela Unidade Real de Valor - URV, a partir de abril de 1994, no percentual de 11,98%, implicou na renúncia tácita à prescrição, nos termos do art. 191 do Código Civil. Precedentes: AgRg no Ag 1.424.058/RO, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 2/2/2012; AgRg no REsp 968.605/RO, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 6/9/2010; e AgRg no REsp 1.031.448/RO, Rel. Ministro Celso Limongi (Desembargador convocado do TJ/SP), Sexta Turma, DJe 29/3/2010.
+2. Os juros de mora no caso de pagamentos de verbas remuneratórias em atraso são devidos a partir da citação, consoante inteligência do art. 219 do CPC. Precedentes: AgRg no REsp 693.417/RS, Rel. Ministra Laurita Vaz, Quinta Turma, DJ 1º/8/2005; REsp 842.094/MS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe 25/8/2008.
+3. É vedado a esta Corte, na via eleita, o exame de matéria constitucional, ainda que para fins de prequestionamento.
+4. Agravo regimental não provido.
+(AgRg no AREsp 237.501/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2013, DJe 8/5/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SERVIDORES FEDERAIS. 11,98%. LIMITAÇÃO À EDIÇÃO DA LEI N. 10.475/2002. ABSORÇÃO PELO PLANO DE CARGOS E SALÁRIOS DO PODER JUDICIÁRIO. DECISÃO ADMINISTRATIVA DO CJF. PRESCRIÇÃO. NÃO OCORRÊNCIA. ATO NORMATIVO 711/TST. RENÚNCIA TÁCITA. AUSÊNCIA DE FUNDAMENTOS NOVOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravos regimentais improvidos.
+(AgRg no REsp n. 1.041.369/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/9/2012, DJe de 3/10/2012.)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. SERVIDOR PÚBLICO. PERCENTUAL DE 11,98%. PRESCRIÇÃO. RENÚNCIA TÁCITA. ATO NORMATIVO 711, DE 2000, DO TST. CONTAGEM DO PRAZO PROCESSUAL EM 5 ANOS.
+1. Em reiterados precedentes, o Superior Tribunal de Justiça posiciona-se no sentido de que a edição do Ato Normativo n.º 711-TST, de 12 de dezembro de 2000, é hipótese de renúncia tácita da prescrição.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 899.748/RO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 23/6/2009, DJe de 3/8/2009.)
+Assim, considerando a edição do Ato Normativo 711/2000 pelo TST, publicado em 14/12/2000, como o marco temporal para a contagem do prazo prescricional de cobrança, e que a ação foi ajuizada em 28/10/2005, dentro, portanto, do prazo quinquenal, deve ser afastada a prescrição reconhecida pelo Tribunal de origem.
+Ante o exposto, com esteio no art. 255, § 4º, III, do Regimento Interno do STJ , conheço do recurso especial para dar-lhe provimento.
+Determino a majoração dos honorários advocatícios previamente fixados pelas instâncias de origem, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Publique-se. Intime-se.
+EMENTA
