@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto por RENATO ALVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 627-636):
+APELAÇÕES. LOCAÇÃO DE IMÓVEL RESIDENCIAL. COBRANÇA. RECONVENÇÃO. COBRANÇA DE VALORES DECORRENTES DE DEFEITO NA PRESTAÇÃO DE SERVIÇO DE INTERMEDIAÇÃO. AÇÃO DE COBRANÇA IMPROCEDENTE. RECONVENÇÃO PARCIALMENTE PROCEDENTE. INSURGÊNCIA DO LOCADOR E DA IMOBILIÁRIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. RECURSOS IMPROVIDOS. Não há falar em cerceamento de defesa, visto que as questões postas ao crivo do digno Magistrado de primeiro grau, tanto a matéria de direito e os aspectos fáticos da demanda, estavam suficientemente elucidadas, prescindindo, assim, da reclamada dilação probatória. Embora os apelantes sustentem que era imprescindível a colheita de depoimento da corretora, o fato é que ela é ré na ação e, regulamente citada, deixou de apresentar defesa. Ademais, a atuação da corretora, intermediando a realização do contrato de locação, está bem demonstrada pelo acervo provatório existente nos autos.
+APELAÇÕES. LOCAÇÃO DE IMÓVEL RESIDENCIAL. COBRANÇA. RECONVENÇÃO. COBRANÇA DE VALORES DECORRENTES DE DEFEITO NA PRESTAÇÃO DE SERVIÇO DE INTERMEDIAÇÃO. AÇÃO DE COBRANÇA IMPROCEDENTE. RECONVENÇÃO PARCIALMENTE PROCEDENTE. INSURGÊNCIA DO LOCADOR E DA IMOBILIÁRIA. ALEGAÇÃO DE QUE O EQUÍVOCO NA CONTRATAÇÃO PARTIU EXCLUSIVAMENTE DA CORRETORA AUTÔNOMA. INOCORRÊNCIA. CORRETORA QUE ATUOU EM NOME DO LOCADOR. PARCERIA ENTRE CORRETORA E IMOBILIÁRIA. SENTENÇA MANTIDA. RECURSOS IMPROVIDOS. Não existe controvérsia a respeito da autorização para a corretora divulgar e intermediar a celebração de contrato de locação. A corretora, bem como a imobiliária, exerce atividade de intermediação na celebração do contrato e, como tal, assumem, pelos seus atos, a responsabilidade civil que lhe advém do Código de Defesa do Consumidor. Não respondem por eventuais débitos derivados do contrato de locação, entretanto, podem responder pelo inadimplemento do contrato de intermediação, ou seja, indenizar os contratantes por defeito na prestação dos seus serviços. Descabida a alegação do locador de que o equívoco foi exclusivo da corretora autônoma. A corretora agiu em nome do locador, de modo que o vinculou aos termos do que foi negociado. Por fim, não há falar que a imobiliária não deve ser responsabilizada por atuação da corretora que não faz parte dos seus quadros. Está instalada uma parceria com benefício para ambas as atuantes, pois a corretora faz a intermediação e aproximação de locadores e locatários e a imobiliária confecciona os contratos e administra a locação, auferindo lucro dessa atuação.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 644-649).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, sustentando que, apesar da oposição de embargos de declaração, o Tribunal de origem não se manifestou acerca de pontos essenciais ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão recorrido contrariou as disposições contidas nos arts. 422 e 665 do Código Civil e 6º da LINDB, sustentando violação do princípio da boa-fé; que as negociações preliminares realizadas pela corretora excederam os poderes conferidos e não vinculam o locador, impondo a responsabilização exclusiva da mandatária; e que deve prevalecer o contrato escrito como ato jurídico perfeito, com observância do pacta sunt servanda, uma vez que houve a celebração de contrato definitivo posteriormente em detrimento das negociações preliminares.
+Foram oferecidas contrarrazões ao recurso especial (fls. 705-721).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 725-727), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 759-765).
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do apelo nobre.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os embargos de declaração, demonstrou ter efetivamente enfrentado a questão levada ao seu conhecimento, qual seja, a responsabilidade civil da recorrente em razão da atuação da corretora contratada e que a violação do princípio da boa-fé decorreu do fato de que foram cobrados valores que não correspondiam às obrigações contratuais.
+E, a propósito do contexto recursal, destacou a origem (fls. 647-648):
+ ..
+Conforme constou no acórdão, não houve controvérsia a respeito da autorização de Débora para divulgar e intermediar a celebração de contrato de locação.
+É necessário enfatizar, ainda, que a corretora, bem como a imobiliária, exercem atividade de intermediação na celebração do contrato e, como tal, assumem, pelos seus atos, a responsabilidade civil que lhe advém do Código de Defesa do Consumidor.
+Significa que elas não respondem, a princípio, por eventuais débitos derivados do contrato de locação, pois esta responsabilidade é exclusiva do locador e locatário. Entretanto, podem responder pelo inadimplemento do contrato de intermediação, ou seja, indenizar os contratantes por defeito na prestação dos seus serviços.
+Descabida a alegação do locador de que o equívoco foi exclusivo da corretora Débora. A corretora agiu em nome do locador, de modo que o vinculou aos termos do que foi negociado.
+Houve ofensa à boa-fé objetiva quando na negociação constaram determinados valores que não foram observados na elaboração do contrato. Evidente que o contrato deve corresponder fielmente ao que foi negociado entre a corretora e o locatário.
+Entendendo o embargante que a corretora excedeu os poderes do mandato concedido e suportou prejuízo, pode ajuizar a competente ação regressiva buscando o respectivo ressarcimento.
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Também não merece conhecimento o recurso especial quanto à suscitada ofensa aos arts. 422 e 665 do Código Civil e 6º da LINDB, em especial acerca da tese recursal referente à violação do princípio da boa-fé, à atuação da corretora - se teria ou não extrapolado os poderes que lhe foram conferidos -, bem como acerca dos termos da avença definitiva em detrimento do contrato preliminar.
+Ocorre que a alteração das premissas fixadas pelo Tribunal, que atestou a responsabilidade civil do recorrente, enquanto locador, pela negociação levada a efeito pela corretora e pela imobiliária, demandaria reexame do acervo fático-probatório e de cláusulas contratuais, esbarrando-se no óbice das Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VENDA FRAUDULENTA DE IMÓVEL. RESPONSABILIDADE OBJETIVA DA ADMINISTRADORA A QUE VINCULADA A CORRETORA FALSÁRIA.
+1. Grave falha na prestação dos serviços de intermediação imobiliária consubstanciada na venda fraudulenta de imóveis por corretora vinculada à Auxiliadora Predial.
+2. Não há falar em omissão ou contradição aptas a fazer nulificado o acórdão que julgou os aclaratórios, tendo o órgão julgador perpassado clara e suficientemente pelos fatos relevantes alegados pela defesa, mas concluído no sentido da responsabilidade da administradora de imóveis pela fraude cometida por uma de suas corretoras.
+3. Na forma do que se deixou ver na origem, o cenário fora bastante bem urdido pela criminosa, não havendo falar em culpa exclusiva de terceiro, porque o corretor não figura como terceiro em face da fornecedora dos serviços de corretagem.
+4. Necessário nexo de causalidade entre a gravíssima falha na prestação dos serviços de corretagem e o dano que ora se busca indenizar que não se mostra rompido.
+5. A alegada ausência de diligência por parte dos adquirentes e, assim, de uma pretensa culpa nos danos experimentados é questão que não extravasa o contexto fático probatório, de hegemônica análise da instância primeva, incidindo, na espécie, o enunciado n. 7/STJ.
+Agravo interno improvido.
+
+(AgInt no REsp n. 1.893.395/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO. COMPRA E VENDA. IMÓVEL. ENTREGA. ATRASO. AFETAÇÃO. TEMA Nº 1.173/STJ. SUSPENSÃO. NÃO CABIMENTO. CORRETORA IMOBILIÁRIA. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO. INCORPORAÇÃO À CONSTRUTORA. RESPONSABILIDADE SOLIDÁRIA. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS Nº S 5 E 7/STJ.
+1. Discute-se nos autos acerca da responsabilidade solidária da corretora imobiliária pelos danos causados ao consumidor em virtude do atraso na entrega do imóvel.
+2. A corretora de imóveis pertence à cadeia de fornecimento do produto, sendo solidária à responsabilidade de todos os fornecedores que se beneficiam da cadeia de fornecimento.
+3. Na hipótese, rever a conclusão de reconhecimento da responsabilidade solidária em virtude do envolvimento da corretora e de sua incorporação à pessoa jurídica responsável pela implementação do empreendimento imobiliário, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+
+(AgInt no AREsp n. 2.114.894/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 635).
+Publique-se. Intimem-se.
+EMENTA
