@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial .
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+4. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+III. Dispositivo e tese
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 480-508) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial.
+Em suas razões, a parte agravante alega que (fls. 483-484):
+Não pretendem os Agravantes rediscutirem os fatos ou provas, mas sim ver a declaração de violação aos artigos 76 do CPC, pela incapacidade do Sr. Luis Tralhão comunicada na primeira oportunidade nos autos, ou aos artigos 313 e 314 do CPC, em razão do óbito ocorrido em 20/02/2022, antes da arrematação realizada em 2ª praça no dia 22/02/2022, ou, ainda, ao artigo 1.784, do CC/2002, tendo em vista que os herdeiros, atuais titulares do imóvel leiloado (artigo 1.784 CC/2002) e o Espólio (na pessoa do inventariante) não foram intimados pessoalmente sobre o Leilão.
+E importante ainda ressaltar que referidas violações são matéria de ordem pública, ou seja, poderiam ser reconhecidas até mesmo de ofício, o que comprova que no presente caso não se pretende qualquer revisão fática, mas apenas a expressa manifestação desta Corte sobre a aplicação da Lei!
+Portanto, com a devida vênia ao Tribunal a quo , tais razões, por si sós já são capazes de comprovar a AUSÊNCIA DA APLICAÇÃO DA SÚMULA 7 DO STJ, que resta EXPRESSAMENTE IMPUGNADA no presente recurso de agravo.
+Ademais, com relação à SÚMULA 283 DO STF, com a devida vênia, bastaria leitura das razões recursais para identificar que todos os fundamentos da decisão foram atacados especificamente no recurso interposto, inclusive, no tocante a aplicação indevida pelo Tribunal a quo da Sumula 83 do STJ, eis que comprovado que o STJ e o Tribunal de Justiça do Rio de Janeiro possuem entendimento diverso ao julgado e, dessa forma, favorável ao pleito dos Agravantes.
+Ou seja, ao contrário do que consta na decisão agravada, o posicionamento do próprio STJ e do Tribunal a quo é alinhado com a tese suscitada pelos Agravantes.
+Insiste na alegada violação dos arts. 489 e 1.022 do CPC e reitera argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (fls. 513-522), com pedido de aplicação de multa por litigância de má-fé e ato atentatório à dignidade da justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial .
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+4. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+III. Dispositivo e tese
+5. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 470-476):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, porque ausente ofensa aos arts. 489 e 1.022 do CPC/2015 e em razão das Súmulas n. 7 e 211 do STJ e 283 e 284 do STF (fls. 2.241-2.247).
+O acórdão recorrido encontra-se assim ementado (fl. 2.126):
+APELAÇÕES CÍVEIS. AÇÃO DE REVISÃO CONTRATUAL C/C CONDENAÇÃO EM PERDAS E DANOS E REPETIÇÃO DE INDÉBITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE AMBAS AS PARTES. INCIDÊNCIA DO CPC/1973. CONTRATO DE FORNECIMENTO DE GASES E OUTROS PRODUTOS. PRESCRIÇÃO. MATÉRIA JÁ ANALISADA EM DECISÃO ANTERIOR. PRECLUSÃO. NÃO CONHECIMENTO NO, PONTO. MÉRITO. REAJUSTE DO PREÇO DOS PRODUTOS. INEXISTÊNCIA DE PREVISÃO CONTRATUAL DO ÍNDICE DE REAJUSTE EFETIVAMENTE UTILIZADO NO CÁLCULO, BEM COMO À ENERGIA ELÉTRICA DE MERCADO LIVRE E MERCADO CATIVO CONSUMIDA NO PROCESSO DE PRODUÇÃO. CLÁUSULA QUE APENAS REFERE TERMOS GENERICOS E NÃO ESPECIFICA A MODALIDADE DE ENERGIA ELÉTRICA QUE COMPÕE O CÁLCULO NULIDADE. NECESSIDADE DE INTERPRETAÇÃO DO CONTRATO DA FORMA MENOS GRAVOSA AO DEVEDOR.
+MULTA CONTRATUAL. INOCORRÊNCIA DE INFRAÇÃO DE CLÁUSULA. DESCABIMENTO DA PENALIDADE. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. DESCABIMENTO. ENUNCIADO N. 7 DO STJ. RECURSO DA RÉ PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. APELO DO AUTOR CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 2.149-2.155).
+Nas razões do recurso especial (fls. 2.158-2.192), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação dos arts. 489, § 1º, II, III, IV e VI, e 1.022, I e II, do CPC/2015, alegando omissão do Tribunal de origem no exame das seguintes questões (fl. 2.168):
+(j) à prescrição, dado o entendimento jurisprudencial quanto à ausência de preclusão a respeito da matéria e, além disso, da inexistência de preclusão consumativa do tema no caso concreto; (ii) ao comportamento contraditório da CISER e da aplicação do instituto do ventre contra factum proprium; e (iii) à periodicidade dos reajustes dos preços, pois tal questão não fora objeto sequer de pronunciamento pela decisão colegiada embargada.
+Indica ofensa ao art. 206, § 3º, IV, do CC/2002, sustentando que o exame da prescrição na fase de saneamento foi superficial, pois seria definitivamente decidida apenas no momento do julgamento do mérito, inexistindo, portanto, preclusão. Acrescenta que a prescrição é matéria de ordem pública, não sujeita à preclusão.
+Defende que o prazo para o ajuizamento da ação que visa a restituição de valor se fundamentou em enriquecimento sem causa e, portanto, se submete ao prazo prescricional trienal.
+Afirma que houve contrariedade aos arts. 112, 113, 421 e 422 do CC/2002, argumentando que (fls. 2.174-2.179):
+(..) a discussão em apreço é relacionada única e exclusivamente à interpretação da fórmula de reajuste debatida entre as partes litigantes, na medida em que a cláusula contratual que legitima a revisão dos preços não especifica qual dos mercados de energia elétrica seria aplicado: se somente um mercado ou um percentual que resultasse da aplicação conjunta de ambos (cativo e livre).
+Todavia, a toda evidência não seria necessária a especificação de qual mercado de energia elétrica poderia ser aplicado, pois a intenção da fórmula de reajuste é evidente: a manutenção do equilíbrio econômico e financeiro da avença, mediante o repasse, à empresa adquirente dos gases, dos custos de produção da WHITE MARTINS, eis que a recorrente trata-se de empresa reconhecidamente eletrointensiva.
+(..)
+Nesse mesmo contexto, é evidente que o acórdão recorrido, ao impor a interpretação do contrato de maneira manifestamente divergente à vontade declarada pelas partes quando da celebração do pacto contratual, desrespeitou a disposição dos arts. 421 e 422 do Código Civil, que consagram a boa-fé e a liberdade contratual, porquanto o eg. tribunal, a despeito de se tratar de duas sociedades empresárias consolidadas em seus respectivos mercados, limitou a aplicação de um dispositivo contratual essencial para a manutenção do equilíbrio econômico-financeiro, sem o mínimo cuidado com o exame de sua efetiva natureza e particularidade, violando os princípios da força obrigatória dos contratos (pacta sunt servanda) e da "autonomia privada" (ou, para alguns, da "autonomia da vontade").
+(..)
+Além do mais, é inquestionável que o acórdão recorrido, seguindo o mesmo desacerto da sentença, não só interpretou a fórmula contratual de maneira incoerente com a sua real intenção, como também deixou passar despercebido o relevante fato de que a recorrida CISER sempre pagou os preços praticados pela recorrente absolutamente sem qualquer objeção em relação aos seus reajustes.
+Mais ainda: a CISER sempre esteve ciente dos métodos matemáticos utilizados pela W HITE M ARTINS para o reajuste dos preços, inclusive quanto aos repasses pontuais da variação percentual do mercado livre de energia elétrica, como comprovam os comunicados e e-mails juntados aos autos às fls. 876/877 e 1160/1181. Não foi por outro motivo que o próprio perito indicou que o "método" de reajustamento questionado sempre ocorreu no contrato controvertido (fl. 1.508).
+Aponta negativa de vigência ao art. 2º, § 1º, da Lei n. 10.192/2001, argumentando que a referida norma "não faz qualquer vedação ao repasse de custos de produção de produtos, tratando exclusivamente da periodicidade ânua para as "cláusulas monetárias"" (fl. 2.181). Aduz que (fl. 2.181):
+O repasse de custos de produção observa a necessidade de reajuste do equilíbrio econômico-financeiro do contrato, máxime porque as concessionárias de energia elétrica possuem a faculdade de aplicar os reajustes extraordinários e atemporais dos custos de energia elétrica.
+Logo, não há similitude alguma entre o repasse dos custos de produção do produto comercializado e a "cláusula de correção monetária" a que alude o dispositivo legal violado pelo acórdão, uma vez que a correção monetária tem como finalidade evitar a perda de substância da moeda, ao passo que o reajuste convencional dos preços objetiva evitar o rompimento da equação econômica do contrato durante a sua execução.
+Suscita divergência jurisprudencial quanto ao prazo prescricional aplicável e quanto à legalidade dos reajustes de gases industriais com base no mercado livre de energia elétrica.
+No agravo (fls. 2.251-2.274), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 2.302).
+É o relatório.
+Decido.
+Ausente ofensa aos arts. 489 e 1.022 do CPC/2015, pois a Corte estadual apresentou, de forma clara e suficiente, os fundamentos pelos quais manteve a sentença que julgou parcialmente procedente a ação de revisão contratual cumulada com perdas e danos e repetição de indébito. Confira-se o seguinte excerto (fls. 2.131-2.133):
+Inicialmente, no tocante à prescrição da pretensão aventada pela à ré, tenho que a matéria não pode ser conhecida, posto que foi enfrentada pela decisão interlocutória que saneou o feito às fls. 1.456/1.459, e dela não foi interposto o recurso cabível.
+Assim, na forma do art. 473 do CPC/73 (atual art. 507 do CPC/15), sua análise fica obstada pela ocorrência da preclusão.
+Passando à análise do mérito, insurgiu-se a requerida contra sentença que julgou parcialmente procedentes os pleitos iniciais da ação de revisão contratual, determinando o reajuste anual dos preços dos produtos, assim como a utilização, para cálculo do reajuste, da variação percentual da tarifa de energia elétrica do mercado cativo (celesc). Para tanto, afirmou que a autora aderiu livremente às cláusulas contratuais, inclusive em negociações anteriores, não podendo alegar desconhecimento da forma utilizada pela apelante no reajuste dos preços e repasse das variações percentuais tanto do mercado cativo, quanto do mercado livre de energia elétrica.
+Sustentou que é uma empresa reconhecidamente eletrointensiva, tendo na energia elétrica o principal insumo para a produção de seus produtos, e a variação do preço produz impacto direto em seus custos de produção. Explicou que, por conta disso, adquire a energia junto aos mercados livre e cativo, optando pelo fornecedor conforme a melhor variação do preço.
+Disse que não há nenhuma ilegalidade no contrato e que é lícito o repasse da variação dos custos do mercado livre ao preço do produto.
+Pois bem. Da análise estrita das cláusulas contratuais e do resultado da perícia técnica, tenho que a sentença não merece modificações.
+Isso porque, muito embora o cálculo do preço do produto considerando a variável de duas fontes diferentes de energia elétrica não o constitua ilegalidade, esta disposição inexiste no pacto firmado pelas partes.
+A requerida White Martins afirma que o cálculo do reajuste de preço considera o "mix celesc", que consiste na conjugação entre a energia mercado cativo  celesc (divulgada anualmente pela ANEEL) com o índice do (divulgado mensalmente pela Câmara de Comercialização de Energia Elétrica).
+Contudo, a cláusula quarta (preços e reajuste) e os termos aditivos posteriores do contrato não fazem qualquer menção à referida fórmula matemática com duas fontes diversas de energia empregada no processo de produção e de índices de reajuste utilizados no cálculo. A referência é apenas genérica aos termos "variação percentual da tarifa de energia elétrica" e "índice" (fl. 85).
+A propósito, respondeu o perito sobre o assunto:
+(..)
+Ou seja, na prática, o cálculo é elaborado considerando vetores que não foram expressamente previstos no termo contratual, não se sabendo a quantidade consumida de energia elétrica proveniente do mercado cativo e do mercado livre, os quais possuem índices de reajustes substancialmente diferentes.
+Por conta disso, é evidente a nulidade da cláusula diante da omissão, razão pela qual mantém-se a sentença que interpretou o contrato da maneira menos onerosa ao devedor, determinando a utilização, no cálculo do preço, da variação da energia elétrica do mercado cativo, praticada pela Celesc e homologada pela ANEEL, de reajuste anual.
+No acórdão que julgou os embargos de declaração, esclareceu-se ainda que (fl. 2.153):
+No mais, sustenta o embargante que o acórdão não enfrentou o comportamento contraditório da empresa autora, nem a periodicidade do reajuste de preço. Todavia, o vicio contratual constatado foi decorrente da ausência dos parâmetros de cálculo para fixação do preço do produto, e não o reajuste anual. Ademais, o mero pagamento do valor cobrado pela ré não afasta o direito da autora de questionar a nulidade da cláusula contratual.
+A Corte estadual analisou expressamente as matérias que a parte afirma terem sido omitidas, sendo que o fato de não se acolherem as teses defendidas pela parte não configura o vício alegado.
+Sobre a prescrição, o Tribunal de origem entendeu que a matéria estaria preclusa porque analisada pela decisão que saneou o feito sem ter sido objeto de recurso. No especial, a parte não traz dispositivo legal apto a refutar tal fundamento, limitando-se a invocar o art. 206, § 3º, IV, do CC/2002, norma que não tem conteúdo apto a dar suporte à discussão referente à ocorrência de preclusão. Incide a Súmula n. 284 do STF no ponto.
+No mais, o especial não merece conhecimento em razão das Súmulas n. 5 e 7 do STJ.
+O Tribunal a quo analisou o contrato e os demais elementos probatórios dos autos para concluir que, ao contrário do alegado pela recorrente, o contrato não previa o cálculo do preço do produto considerando a variável de duas fontes diferentes de energia elétrica. Em tais condições, a análise da pretensão recursal demandaria reexame de matéria fática, vedado em recurso especial.
+Registre-se que os enunciados aplicados também impedem o conhecimento do especial fundamentado na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Ao contrário do alegado pela parte, não há violação dos arts. 489 e 1.022 do CPC, pois o Tribunal de origem analisou todas as questões pertinentes para a solução da lide, sendo que o simples fato de não terem sido acolhidas as alegações da parte, quanto à suposta nulidade da arrematação do imóvel, não configura negativa de prestação jurisdicional.
+Inafastável a Súmula n. 283 do STF, pois a parte recorrente limitou-se a insistir nas mesmas teses arguidas na origem quanto à suposta nulidade da arrematação, em razão de a segunda praça ter ocorrido após o falecimento da parte, sem impugnar os fundamentos do acórdão recorrido para afastar o pedido de anulação.
+A Corte estadual concluiu se tratar de nulidade relativa, no mesmo sentido do acórdão paradigma indicado pelo próprio recorrente (Agint no AREsp n. 2.083.123/SP), e que não foi demonstrado prejuízo. Alterar tal conclusão demandaria exame de prova, vedado pela Súmula n. 7 do STJ.
+Ademais, a instância de origem concluiu que a parte foi intimada do leilão antes do falecimento, na pessoa de seu advogado; que não foi indicado justo impedimento para que o falecimento fosse noticiado apenas dois meses depois; que houve violação da boa-fé; que, após a assinatura do auto da arrematação, ela é considerada perfeita, acabada e irretratável, eventual nulidade somente podendo ser deduzida por ação autônoma (art. 903 do CPC); que o reconhecimento de vício não vinculado intrinsecamente ao leilão não autoriza o desfazimento da arrematação.
+Nenhum desses fundamentos foi impugnado no recurso especial.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Por ora, deixo de aplicar a multa requerida pela parte agravada, porque ainda não evidenciada a conduta protelatório a ensejar tal sanção.
+É como voto.
