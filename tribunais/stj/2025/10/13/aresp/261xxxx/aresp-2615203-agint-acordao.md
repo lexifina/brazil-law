@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MANTIDA.
+1. Nos termos da Súmula n. 284 do Supremo Tribunal Federal, o argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANDRÉ LUIZ BALDINETTI contra decisão singular da lavra da Ministra Presidente do Superior Tribunal de Justiça, na qual o agravo em recurso especial não foi conhecido em virtude da aplicação da Súmula n. 284 do Supremo Tribunal Federal, sob o fundamento de que a parte agravante deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional (e-STJ, fls. 510-511).
+Nas razões do seu agravo interno (e-STJ, fls. 515-519)., a parte agravante alega que não se valeu de argumentos genéricos para demonstrar a violação aos preceitos de lei federal, mas buscou realizar o recorte direto dos pontos cristalizados no acórdão de origem que violaram os preceitos de lei federal. A discussão gravita na incidência de danos morais em caso de má atuação dos advogados constituídos na sua defesa judicial. O recurso especial interposto está dentro das hipóteses constitucionalmente previstas, conforme o artigo 105, inciso III, alínea "a", da Constituição Federal. Estão presentes os requisitos para a configuração da responsabilidade civil pela perda de uma chance, porque a desídia dos réus culminou em sua condenação precoce e retirou-lhe a chance real e séria de obter uma prestação jurisdicional mais favorável.
+Impugnação ao agravo interno (fls. 524-535), na qual a parte agravada alega que o agravo interno não impugna especificamente os fundamentos da decisão agravada, atraindo a aplicação do artigo 932, inciso III, do Código de Processo Civil e da Súmula n. 182 do Superior Tribunal de Justiça. A irresignação do agravante é manifestamente protelatória, devendo ser aplicada multa nos termos do artigo 1.021, § 4º, do Código de Processo Civil;
+A análise do mérito do recurso especial demandaria reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MANTIDA.
+1. Nos termos da Súmula n. 284 do Supremo Tribunal Federal, o argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+A decisão que inadmitiu o recurso especial assentou que a ausência de indicação precisa dos dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo; bem como que mera citação de artigo de lei na peça recursal não supre a exigência constitucional, atraindo a aplicação da Súmula n. 284 do Supremo Tribunal Federal (e-STJ, fls. 510-511).
+Nas razões do seu agravo em recurso especial (e-STJ, fls. 492-496), a parte agravante apenas afirmou que houve violação de dispositivos legais, sem, contudo, indicar precisamente quais seriam esses dispositivos e demonstrar a sua aplicação na regulação do caso concreto.
+A parte agravante, portanto, deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso, uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Assim, como consignado na decisão que não admitiu o recurso especial, a ausência de indicação precisa dos dispositivos legais violados impede o conhecimento do recurso, nos termos da Súmula n. 284 do Supremo Tribunal Federal.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
