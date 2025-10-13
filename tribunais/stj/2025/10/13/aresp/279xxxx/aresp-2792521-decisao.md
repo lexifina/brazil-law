@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, inciso III, alínea "a", da Constituição Federal. interposto por CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTO em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PROCEDÊNCIA NA ORIGEM. INSURGÊNCIA DA PARTE AUTORA. PRELIMINAR DAS CONTRARRAZÕES. PLEITO DE MAJORAÇÃO DA VERNA HONORÁRIA. LEGITIMIDADE RECURSAL CONCORRENTE ENTRE A PARTE E O ADVOGADO. ENTENDIMENTO DO STJ. REJEIÇÃO. MÉRITO. CORREÇÃO MONETÁRIA PELO INPC, A PARTIR DE CADA PAGAMENTO INDEVIDO, E JUROS DE MORA DE 1% AO MÊS, A CONTAR DA CITAÇÃO. REPARO DA SENTENÇA NO PONTO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. FIXAÇÃO NA ORIGEM COM BASE NO VALOR DA CAUSA, O QUAL EXPRIME VALOR DIMINUTO. PRETENSA FIXAÇÃO COM BASE NA TABELA DA OAB. CRITÉRIO MERAMENTE ORIENTADOR QUE, POR ISSO, NÃO VINCULA O JULGADOR. DEMANDA DE BAIXA COMPLEXIDADE. READEQUAÇÃO DO VALOR, EM OBSERVÂNCIA AOS REQUISITOS DO ART. 85, §§ 2º E 8º, DO CPC. PROVIMENTO DO RECURSO NO PONTO. SENTENÇA REFORMADA. HONORÁRIOS RECURSAIS NÃO INCIDENTES. (ART. 85, § 11, CPC). RECURSO PROVIDO EM PARTE
+Opostos embargos de declaração, estes foram rejeitados às fls. 181-182.
+No recurso especial, a agravante aponta violação ao art. 51 do Código de Defesa do Consumidor, ao argumento de que "não há que se falar em vantagem excessiva, uma vez que, nos contratos de empréstimos celebrados pela CREFISA, os juros são cobrados com a anuência do Contratante" (fl. 199).
+Alega contrariedade aos arts. 20 e 21 da Lei de Introdução às Normas do Direito Brasileiro (LINDB), eis que a desmedida revisão das taxas de juros pactuadas em contratos de empréstimo pessoal propaga verdadeira insegurança jurídica no mercado, afetando negativamente a atividade econômica.
+Contrarrazões às fls. 224-236.
+Assim, delimitada a controvérsia, passo a decidir.
+Cuida-se, na origem, de ação revisional ajuizada pela agravada, Inêz Venina de Lima, na qual narra que teria contraído junto à agravante, Crefisa S/A, empréstimo cujos juros seriam abusivos por superar a taxa média de mercado. Assim, demandou a limitação da taxa de juros fixada no contrato.
+O Juízo de primeira instância julgou procedente a demanda, a fim de "declarar: a) a limitação da taxa de juros pactuada em 122,29% ao ano de conformidade com o percentual autorizado pelo BACEN para o período; b) afastar a incidência dos encargos moratórios dada a ocorrência de abusividades no período da normalidade contratual; c) deferir a repetição do indébito dos valores pagos a maior na forma simples".
+Em face da sentença, somente a agravada interpôs apelação, na qual postulou a reforma da sentença quanto à fixação da correção monetária e juros de mora, bem como aos honorários de sucumbência, que foi parcialmente provido. Transcrevo (fl. 148):
+2.5) Do resultado
+2.5.1) conheço do recurso; 2.5.2) dou parcial provimento para:
+2.5.2.1) determinar que os valores a serem restituídos devem ser corrigidos pelo INPC, desde a data de cada pagamento indevido, e acrescidos de juros de mora no percentual de 1% ao mês a contar da citação;
+2.5.2.2) fixar os honorários advocatícios em R$ 1.000,00 (um mil reais).
+Em face do acórdão, a agravante interpôs recurso especial, que entendo não ser admissível.
+De plano, verifico que os arts. 51 do CDC e, 20 e 21 da LINDB não foram objeto de discussão no Tribunal de origem, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Verifica-se que a agravante, em seu recurso especial, sustenta a legalidade da taxa de juros pactuada no contrato, argumentando que não seria abusiva e que, portanto, não poderia ter sido limitada à taxa média de mercado apurada pelo Banco Central. Observa-se, contudo, que a agravante não interpôs apelação contra a sentença que julgou procedente o pedido para limitar os juros remuneratórios.
+Dessa forma, como a questão relativa aos juros contratados não foi objeto de análise pelo acórdão recorrido  que se restringiu à discussão sobre juros moratórios, correção monetária e honorários sucumbenciais  , resta configurado o trânsito em julgado do referido capítulo da sentença, não sendo possível sua rediscussão em recurso especial.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
