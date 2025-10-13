@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RAYANNY VICTORIA LOPES DOS SANTOS à decisão monocrática de minha relatoria que não conheceu do recurso, ao fundamento de que o pedido de liberdade provisória configuraria inovação recursal não deduzida no habeas corpus originário.
+Aqui, a embargante alega que a decisão incorreu em omissão e erro de premissa fática, uma vez que, segundo sustenta, o pedido de liberdade provisória teria sido formulado expressamente na impetração originária, sendo o pleito de prisão domiciliar apenas subsidiário.
+Afirma que a decisão, ao não reconhecer tal fato, deixou de apreciar questão essencial, o que teria conduzido ao indevido não conhecimento do recurso. Argumenta, ainda, que a manutenção dessa omissão gera cerceamento de defesa e perpetua flagrante constrangimento ilegal, já que a ré é primária, de bons antecedentes e mãe de criança com necessidades especiais.
+Requer o acolhimento dos embargos, para que seja sanada a omissão e o Tribunal aprecie o mérito do pedido de liberdade provisória, ou, subsidiariamente, que seja concedida a ordem de ofício, com a expedição de alvará de soltura em favor da acusada (fls. 189/192).
+É o relatório.
+Como é sabido, nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+A decisão embargada consignou que o recurso ordinário em habeas corpus não poderia ser conhecido, porque o pedido de liberdade provisória não teria sido formulado no habeas corpus originário, limitando-se este à substituição da prisão preventiva por domiciliar. Assim, este relator concluiu pela inviabilidade de apreciação do novo pleito, por configurar supressão de instância, além de inexistir ilegalidade flagrante que justificasse a concessão da ordem de ofício.
+Confrontando os argumentos da embargante com a fundamentação do acórdão, não se identifica omissão ou contradição. A decisão enfrentou o ponto essencial, qual seja, a impossibilidade de conhecer de matéria nova não submetida ao Tribunal de origem. Ainda que a defesa sustente que o pedido de liberdade provisória constava da petição inicial, a divergência quanto à interpretação do conteúdo da impetração originária não configura omissão, mas mero inconformismo com a conclusão do julgador.
+O acórdão embargado foi claro e coerente, expondo de forma compreensível que, ausente o pedido de liberdade na origem, o exame da questão nesta Corte configuraria indevida supressão de instância. Ademais, foi analisada expressamente a possibilidade de concessão da ordem de ofício, afastando-a diante da ausência de ilegalidade manifesta, o que reforça a completude do julgado.
+Não há, portanto, obscuridade, pois a linha argumentativa é perfeitamente inteligível; tampouco há contradição interna, já que as premissas e a conclusão se articulam de modo lógico.
+Em síntese, os embargos não apontam vício apto a ensejar integração, mas buscam rediscutir o mérito da decisão, providência incompatível com a via estreita dos embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO.
+Embargos de declaração rejeitados.
