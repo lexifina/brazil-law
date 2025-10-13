@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por QUINTILIANO AUGUSTO CAMPOMORI DO VALLE, manejado com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 245):
+APELAÇÃO - ADMINISTRATIVO - SERVIDOR PÚBLICO - CARREIRA DO GRUPO DE ATIVIDADES DE GESTÃO, PLANEJAMENTO, TESOURARIA E AUDITORIA POLÍTICO-INSTITUCIONAIS - CARGO DE GESTOR GOVERNAMENTAL - TITULAÇÃO - POSICIONAMENTO INICIAL NA CARREIRA - LEI 10.470/2005 - ATO DE EFEITOS CONCRETOS - PRESCRIÇÃO DE FUNDO DE DIREITO VERIFICADA - SENTENÇA REFORMADA NA REMESSA NECESSÁRIA - RECURSO VOLUNTÁRIO PREJUDICADO. - Eventual direito do autor à retificação do enquadramento na carreira em virtude da titulação que possuía, considerada a previsão do art. 10 da Lei 10.470/2005, foi afetada pela prescrição de fundo de direito, eis que ajuizada a ação após ultrapassados cinco anos da sua posse, que consolida ato de efeitos concretos quanto ao posicionamento inicial na carreira. - Sentença reformada na remessa necessária. Recurso voluntário prejudicado.
+Embargos de declaração rejeitados (e-STJ, fls. 293-296).
+Nas razões recursais, o recorrente alega, além de divergência jurisprudencial, violação do art. 1º do Decreto n. 20.910/1932 e dos arts. 489, § 1º, IV e 1.022, I e II e parágrafo único, do CPC/2015, sustentando que houve negativa de prestação jurisdicional quanto à "(i) violação da Súmula 85 do STJ por não fazer a devida diferenciação entre as hipóteses em que aplicável a prescrição de fundo de direito daquelas em que incide a prescrição nas relações de trato sucessivo, quanto pela (ii) indevida aplicação do artigo 1º do Decreto 20.910/1932 aos autos, em dissonância com a pacífica jurisprudência do C. STJ" (e-STJ, fls. 312-313).
+No mérito, assevera que não incide a prescrição de fundo de direito, mas a quinquenal, tendo em vista que se trata de relação de trato sucessivo e de conduta omissiva da Administração, que não realizou o correto enquadramento funcional do recorrente ao nomeá-lo, nos moldes da Súmula 85/STJ.
+Contrarrazões (e-STJ, fls. 348-354).
+O Tribunal de origem admitiu o processamento do recurso especial, vindo os autos a esta Corte Superior (e-STJ, fls. 357-361).
+Brevemente relatado, decido.
+Quanto à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Sobre o tema da prescrição, o Tribunal de origem decidiu o seguinte (e-STJ, fls. 247-; grifos acrescidos):
+A questão central proposta na ação diz respeito ao direito do autor à correção do posicionamento inicial na carreira de "Gestor Governamental", considerando o fato do requerente possuir títulos de pós- graduação em momento anterior ao ingresso no cargo em virtude de aprovação em concurso público.
+Fundamenta seu pedido nas disposições contidas no art. 10 da Lei 15.470/2005 que traz as seguintes previsões, no que releva:
+Art. 10 - O ingresso em cargo de carreira instituída por esta Lei depende de comprovação de habilitação mínima em:
+(..)
+III - para as carreiras de Gestor Governamental e Médico Perito:
+a) nível superior de escolaridade, conforme definido no edital do concurso público, para ingresso no nível I;
+b) nível de pós-graduação lato sensu ou residência médica, conforme definido no edital do concurso público, para ingresso no nível III.
+O autor afirma que já possuía dois títulos de pós-graduação ao tempo da aprovação no concurso e ingresso no cargo, o que o habilitaria a ingressar no "nível III" da carreira, conforme art. 10, III, "b" da lei 11.470/2005, todavia, seu enquadramento deu-se no nível I, pelo que requer o ajustamento da sua carreira com o pagamento das diferenças não prejudicadas pela prescrição quinquenal aplicável somente às parcelas.
+Sendo esta a pretensão trazida a juízo, com a devida vênia, reputo configurada a prescrição de fundo de direito.
+Isso porque eventual direito do autor à retificação do ato de "enquadramento" na carreira, com fundamento na norma em questão, encontra-se fulminado pela prescrição não apenas das parcelas, mas do próprio direito, tendo em vista que a definição comissiva praticada pelo Poder Público - enquadramento funcional - é claramente identificada como ato único de efeitos concretos, posto que perceptíveis os decorrentes efeitos materiais e jurídicos imediatamente após a sua implementação.
+Nestas circunstâncias, a insurgência contra a validade do ato e de seus efeitos deveria ter sido manifestada dentro do lapso temporal instituído pelo Decreto n. 20.910/32, "verbis":
+ ..
+No caso dos autos, o ilícito apontado foi concretizado no momento em que enquadrado o autor na carreira em que inserido, ou seja, na sua posse ocorrida em 27/11/2014 (ordem 10), ao passo que a presente ação foi ajuizada apenas em 19/02/2023.
+A análise da pretensão, portanto, está prescrita.
+Constatada a prescrição da pretensão inicial, deve ser reformada a sentença para julgar totalmente improcedentes os pedidos iniciais, em prejuízo ao recurso de apelação estatal.
+Pelo exposto, reformo a sentença na remessa necessária para julgar totalmente improcedentes os pedidos iniciais (art. 487, II, do CPC).
+Do exposto, verifica-se que o Tribunal de origem se manifestou de forma expressa e fundamentada acerca da matéria relativa à legitimidade ad causam, não se verificando a propalada ofensa aos arts. 489 e 1.022 do CPC/2015.
+Ademais, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA. VIOLAÇÃO DOS ARTS. 489, § 1º, INCISO IV E 1.022, INCISO II, DO CPC/2015. INEXISTÊNCIA. TESE DE JULGAMENTO EXTRA PETITA NÃO PREQUESTIONADA. SÚMULA N. 211 DO STJ. CONCLUSÕES DA CORTE DE ORIGEM ACERCA DO ÔNUS DA PROVA, DA INEXISTÊNCIA DA FALHA NA PRESTAÇÃO DO SERVIÇO E DO DEVER DE INDENIZAR. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ALEGAÇÃO DE AFRONTA À RESOLUÇÃO N. 414/2010 DA ANEEL. AGRAVO INTERNO DESPROVIDO.
+1. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, o acórdão recorrido não possui as eivas suscitadas pela parte recorrente, tendo apresentado, concretamente, os fundamentos que justificaram a sua conclusão, de modo que existe mero inconformismo da parte recorrente com o resultado do julgado, que lhe foi desfavorável. Inexiste, portanto, ofensa aos arts. 489 e 1.022 do CPC/2015.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.759.027/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/5/2025, DJEN de 4/6/2025.)
+No mérito, tampouco assiste razão à parte recorrente.
+O STJ possui entendimento consolidado no sentido de que "o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ" (EREsp n. 1.422.247/PE, relator Ministro Og Fernandes, Primeira Seção, julgado em 28/9/2016, DJe 19/12/2016).
+A propósito (grifos acrescidos):
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL MILITAR. PROMOÇÃO. MODIFICAÇÃO LEGISLATIVA. OMISSÃO DA ADMINISTRAÇÃO PÚBLICA. PRESCRIÇÃO PARCELAR . SÚMULA N. 85 DO STJ. PRECEDENTES.
+AGRAVO INTERNO DESPROVIDO.
+1. A Primeira Seção do STJ possui jurisprudência consolidada de que "o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ." (EREsp n. 1.422.247/PE, relator Ministro Og Fernandes, Primeira Seção, julgado em 28/9/2016, DJe 19/12/2016.)
+2. Contudo, tal entendimento não deve prevalecer nos casos em que for constatada omissão da Administração Pública quanto ao (re)enquadramento do servidor público, hipótese que afasta a prescrição do fundo de direito diante da relação de trato sucessivo, nos termos da Súmula n. 85 do STJ, como no caso dos autos. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.142.808/TO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 27/8/2025, DJEN de 2/9/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AUSÊNCIA DE CONTROVÉRSIA JURISPRUDENCIAL À ÉPOCA DO JULGADO RESCINDENDO. INAPLICABILIDADE DA SÚMULA 343/STF. PROVIMENTO N EGADO.
+1. Verifica-se que a jurisprudência do STJ acerca da matéria controvertida já estava pacificada ao tempo do julgado que se pretende rescindir, no sentido de que o enquadramento ou reenquadramento de servidor público constitui ato único de efeitos concretos que não caracteriza relação de trato sucessivo, de modo que a prescrição incide sobre o próprio fundo de direito. Não é hipótese, portanto, de incidência da Súmula 343/STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.622.349/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Considerando que, segundo o acórdão recorrido, houve o efetivo enquadramento do servidor no nível I da carreira no momento de sua posse, tratando-se de ato único de efeitos concretos, aplica-se a prescrição de fundo do direito.
+Nesse mesmo sentido, as seguintes decisões monocráticas proferidas em casos que discutem a mesma carreira: REsp n. 2.198.477/MG, relatora Ministra Regina Helena C osta, Primeira Turma, DJEN 26/03/2025; e REsp n. 1.759.082/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 17/08/2018, trânsito em julgado em 13/09/2018.
+Incide, assim, a Súmula 83/STJ no tocante à controvérsia em análise.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor fixado pelas instâncias ordinárias para os honorários devidos pela parte sucumbente, observados, quando aplicáveis, os limites percentuais estabelecidos em seus §§ 2º e 3º, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. SERVIDOR PÚBLICO. REVISÃO DO ATO DE ENQUADRAMENTO. PRESCRIÇÃO DE FUNDO DO DIREITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR DE JUSTIÇA. RECURSO ESPECIAL DESPROVIDO.
