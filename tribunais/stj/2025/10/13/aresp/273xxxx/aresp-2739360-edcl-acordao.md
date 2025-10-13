@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL POR INTEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. APLICAÇÃO DA LEI Nº 14.939/2024. PRECEDENTE DA CORTE ESPECIAL. EMBARGOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. A Corte Especial deste Tribunal, aos 5/2/2025, nos autos do AREsp nº 2.638.376/MG, acolheu a questão de ordem proposta no sentido de aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para reformar o acórdão recorrido e a decisão agravada, determinando que a parte recorrente comprove em 5 (cinco) dias a regularidade da interposição do recurso especial, nos termos do art. 1.003, 6º, do CPC.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ITALO JOHN LOPES MONTEIRO (ITALO) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, NA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+2. A jurisprudência do STJ entende que a segunda-feira de carnaval, quarta-feira de cinzas, dias da semana santa que antecedem a Sexta- Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para demonstração da tempestividade recursal e devem ser comprovados pela parte recorrente, por meio de documentação idônea, no ato de interposição do recurso perante a Corte de origem, sendo inviável a regularização posterior.
+3. A modulação dos efeitos decidida na QO no R Esp 1.813.684/SP, para permitir a comprovação posterior do feriado local referente à segunda-feira de Carnaval, só se aplica aos recursos interpostos até o dia 18/11/2019 (data da publicação do acórdão), não alcançando o presente recurso especial.
+4. Agravo interno não provido (e-STJ, fls. 855-856).
+Nas razões do presente inconformismo, ITALO defendeu a tempestividade do recurso especial, indicando a alteração da redação do art. 1.003, § 6º, do CPC pela Lei n. 14.939/2024.
+Foi apresentada impugnação (e-STJ, fls. 874-876).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL POR INTEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. APLICAÇÃO DA LEI Nº 14.939/2024. PRECEDENTE DA CORTE ESPECIAL. EMBARGOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. A Corte Especial deste Tribunal, aos 5/2/2025, nos autos do AREsp nº 2.638.376/MG, acolheu a questão de ordem proposta no sentido de aplicar os efeitos da Lei nº 14.939/2024 também aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, por ocasião do julgamento dos agravos internos/regimentais contra decisões monocráticas de inadmissibilidade recursal em decorrência da falta de comprovação de ausência de expediente forense.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para reformar o acórdão recorrido e a decisão agravada, determinando que a parte recorrente comprove em 5 (cinco) dias a regularidade da interposição do recurso especial, nos termos do art. 1.003, 6º, do CPC.
+VOTO
+Os presentes embargos de declaração merecem ser acolhidos, com efeitos infringentes.
+A Lei nº 14.939/2024 alterou o parágrafo 6º do art. 1.003 do CPC, que passou a ter a seguinte redação: O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico.
+Em julgamento de questão de ordem no AREsp nº 2.638.376/MG, a Corte Especial do STJ decidiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes de sua vigência, devendo ser observada, igualmente, no julgamento dos agravos internos ou regimentais contra decisões monocráticas que não admitiram o recurso devido a não comprovação da falta de expediente forense.
+Confira-se por sua ementa:
+PROCESSUAL CIVIL. QUESTÃO DE ORGEM NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO.
+1. A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+3. Questão de ordem acolhida pela Corte Especial".
+(QO no AREsp n. 2.638.376/MG, relator Ministro ANTONIO CARLOS FERREIRA, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025)
+No caso em análise, a comprovação da tempestividade é ato que não demanda maior complexidade, razão pela qual o prazo de 5 (cinco) dias para a sua comprovação se afigura suficiente.
+Ante o exposto, ACOLHO os embargos de declaração, com efeito modificativos, para, reconsiderando o acórdão embargado, bem como a decisão de, e-STJ, fls. 821-822, determinar a intimação da parte recorrente para que comprove a tempestividade do recurso especial no prazo de 5 (cinco) dias, nos termos do art. 1.003, § 6º, do CPC.
+É o voto.
