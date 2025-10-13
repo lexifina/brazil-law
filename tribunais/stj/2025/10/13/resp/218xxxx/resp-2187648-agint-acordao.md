@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMUNIDADE TRIBUTÁRIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A Corte regional concluiu, com base no arcabouço fático constante dos autos, que não houve o cumprimento dos requisitos para fruição da imunidade tributária, sendo certo que a modificação dessa conclusão, a fim de acolher o pedido da parte recorrente, demanda o reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, nos termos da Súmula 7 do STJ.
+2. A análise do dissídio jurisprudencial está prejudicada em razão da aplicação do verbete sumular 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela ASSOCIAÇÃO BENEFICENTE BOM SAMARITANO contra decisão, de minha lavra, proferida às e-STJ fls. 296/301 e integrada pela decisão de e-STJ fls. 319/322, em que conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, ante a incidência do óbice da Súmula 7 do STJ e por não vislumbrar ausência de prestação jurisdicional pelo Tribunal regional.
+A parte agravante alega, em suma, que "a matéria debatida é de índole estritamente jurídica, atinente à correta interpretação dos artigos supracitados, não exigindo revolvimento do conjunto fático-probatório dos autos. Portanto, não incide na hipótese o óbice previsto na Súmula 7 do STJ, sendo patente o cabimento do recurso especial pela alínea "c" do permissivo constitucional" (e-STJ fl. 334).
+Sem impugnação (e-STJ fl. 360).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMUNIDADE TRIBUTÁRIA. REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A Corte regional concluiu, com base no arcabouço fático constante dos autos, que não houve o cumprimento dos requisitos para fruição da imunidade tributária, sendo certo que a modificação dessa conclusão, a fim de acolher o pedido da parte recorrente, demanda o reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, nos termos da Súmula 7 do STJ.
+2. A análise do dissídio jurisprudencial está prejudicada em razão da aplicação do verbete sumular 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Consoante afirmado na decisão agravada, o recurso especial origina-se de ação de consignação em pagamento referente às contribuições previdenciárias, RAT e terceiros, que foi julgada procedente no primeiro grau de jurisdição. .
+Irresignada, a Fazenda Nacional interpôs recurso de apelação, que foi provida para julgar improcedente o pedido.
+No que interessa, veja os fundamentos do acórdão regional (e- STJ fls. 153 e seguintes):
+2.1 Imunidade das entidades beneficentes: requisitos O disposto no art. 195, §7º, da CF, revela uma blindagem constitucional à incidência das contribuições para a seguridade social relativamente às entidades beneficentes, condicionada aos requisitos fixados pelo legislador tributário.
+O STF, no julgamento dos embargos de declaração opostos ao RE 566.622, cuja Ata de Julgamento foi publicada em 31.01.2020, decidiu que a lei complementar seria a forma exigível para a definição do modo beneficente de atuação das entidades assistenciais, sobretudo no que se refere às contrapartidas a serem por elas observadas, reputando constitucional, porém, o inciso II do art. 55 da Lei n. 8.212/91, que exigia como requisito para a imunidade - do mesmo modo que o "caput" do art. 29 da Lei n. 12.101/09 (hoje revogada) e o art. 3º da LC 187/2021 - a entidade ser portadora do CEBAS.
+Portanto, impõe-se seja aplicada a tese firmada pelo STF no RE 566.622, nos termos do art. 1.039, "caput", do CPC, de maneira que, para fazer jus à imunidade do art. 195, §7º, da Constituição Federal, primariamente a entidade deve ser portadora do CEBAS.
+Por outro lado, segundo o art. 29 da Lei 12.101/09, a entidade certificada terá direito à imunidade desde que, cumulativamente, atenda aos seguintes requisitos:
+(..)
+Referido preceito legal - art. 29 e seus incisos da Lei 12.101/09 - foi objeto da ADI 4.480, tendo o STF decidido que os seus incisos I e V ajustam-se ao art. 14, I, do CTN; o inciso II ao art. 14, II, do CTN e os incisos III, IV, VII e VIII ao art. 14, III, do CTN. No julgamento dos embargos de declaração opostos à ADI, em 08.02.2021, o STF conferiu-lhes efeitos infringentes, a fim de declarar a inconstitucionalidade formal do inciso VI do art. 29. Sobreveio a Lei Complementar 187/2021, publicada em 17/12/2021, que manteve a exigência do CEBAS e de outros requisitos para o gozo da imunidade, assim prevendo em seus artigos 2º e 3º:
+(..)
+Diante deste contexto normativo, para fazer jus à imunidade do art. 195, §7º, da Constituição Federal, a entidade devia ser portadora do CEBAS e atender ao disposto no art. 14 do CTN e no art. 29 da Lei 12.101/09 (excetuado o seu inciso VI) na vigência da Lei 12.101/09, e, atualmente, obedecer ao que estabelece a Lei Complementar nº 187/2021.
+2.2 Ônus probatório Como os requisitos do art. 29 da Lei 12.101/09 foram julgados constitucionais pelo Supremo Tribunal Federal, esta Turma passou a considerar que a obtenção do CEBAS não basta para que se presumam atendidos todos os requisitos para a imunidade, sendo ônus da parte autora demonstrar o seu preenchimento (AC 5004035-42.2019.4.04.7003, SEGUNDA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 26/08/2021; 5004110- 75.2015.4.04.7115, SEGUNDA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 20/09/2021).
+2.3 Caso concreto O CEBAS foi requerido na vigência da Lei 12.101/2009, e foi deferido em maio de 2020.
+Todavia, na hipótese dos autos, é inviável reconhecer judicialmente direito à imunidade e declarar o direito ao recolhimento parcial das contribuições previdenciárias devidas pela parte autora, na medida em que não foi comprovado o atendimento dos demais requisitos do art. 29 da Lei 12.101/09 no período abrangido pela ação, dentre os quais se incluem, exemplificativamente, a apresentação da certidão negativa ou certidão positiva com efeito de negativa de débitos relativos aos tributos administrados pela Secretaria da Receita Federal do Brasil e certificado de regularidade do Fundo de Garantia do Tempo de Serviço - FGTS (III), a demonstração da escrituração contábil regular (inciso IV) e as demonstrações contábeis auditadas, em sendo o caso (VIII).
+Assim, em que pese seja incontroverso que a autora possuía CEBAS válido no período que pretende o reconhecimento da imunidade prevista no art. 195, § 7º, da CF, não houve a produção de prova para comprovar o cumprimento dos requisitos legais que devem se somar à certificação válida.
+Logo, não basta a concessão do certificado para que se deixe de recolher as contribuições previdenciárias, objeto do depósito judicial. A parte autora deve comprovar sua condição de entidade imune.
+Pois bem.
+Consoante afirmado na decisão agravada, a Corte regional afastou o direito à fruição da imunidade tributária, em razão de entender que não houve o cumprimento dos requisitos legais.
+Afirmou ainda, o Tribunal a quo que "(..) em nenhum momento dos autos foi trazida ao conhecimento do juízo a existência da ação nº 5010507- 54.2022.4.04.7003, em que, segundo alega a embargante, foi reconhecido o direito à imunidade e à repetição do indébito tributário das contribuições sociais (INSS Patronal, PIS e GILRAT) desde janeiro de 2018. A existência do direito alegado não foi apontada na inicial nem mesmo ventilada na sentença ou no recurso de apelação, configurando indevida inovação recursal, que não pode ser apreciada no Tribunal, sob pena de supressão de instância" (e-STJ fl. 179).
+Nesse cenário, tanto o deferimento da imunidade tributária quanto o acolhimento das razões da parte embargante, a fim de ver reconhecido seu direito (partindo do plano de que já fora reconhecido o benefício fiscal), demandariam, inevitavelmente, o reexame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos do verbete sumular 7 do STJ.
+Ilustrativamente, cito os seguintes precedentes:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMUNIDADE DE ENTIDADE BENEFICENTE. A APRESENTAÇÃO DO CEBAS NÃO EXIME DO CUMPRIMENTO DOS DEMAIS REQUISITOS. SÚMULA 352/STJ. PREENCHIMENTO DOS REQUISITOS. VERIFICAÇÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte está consolidada no sentido de que a apresentação do CEBAS não exime a entidade do cumprimento dos demais requisitos para fruição da imunidade tributária, a teor da Súmula 352/STJ.
+2. A modificação da conclusão a que chegou a Corte de origem, para fins de se aferir se foram cumpridos os requisitos da legislação para a fruição da imunidade tributária demanda o reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, a teor da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+3. Agravo Interno do Contribuinte a que se nega provimento.
+(AgInt no AREsp 1.680.970/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO. ITBI. INTEGRALIZAÇÃO DO CAPITAL SOCIAL. EMPRESA INATIVA. ENFOQUE CONSTITUCIONAL. INEXISTÊNCIA DE QUALQUER ATIVIDADE. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ
+1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem, com base em laudo pericial e demais provas dos autos, concluiu que a pessoa jurídica não desempenhou qualquer atividade comercial durante anos, e, portanto, não demonstrou fazer jus à imunidade do imposto sobre transmissão de imóveis. Assim, revela-se desnecessária a análise de todos os pontos levantados pela parte inclusive a suposta inexistência de fato gerador , uma vez que seriam incapazes de infirmar a conclusão adotada pelo julgador, nos exatos termos do art. 489, §1º, IV, do CPC/2015.
+ ..
+4. O colegiado estadual assentou seu entendimento nas provas dos autos, sobretudo em laudo pericial que atestou a inércia da empresa, a qual não demonstrou nenhuma razão para fazer jus à imunidade pleiteada, motivo pelo qual foi obviamente enquadrada na regra geral de incidência.
+5. Rever os fatos processuais dos autos ou alterá-los de modo diverso àquele consignado pela Corte de origem requer revolvimento do conjunto fático- probatório, inadmissível ante o óbice da Súmula 7/STJ.
+6. Outrossim, é visível o enfoque eminentemente constitucional do acórdão, uma vez que seu raciocínio jurídico toma por premissa, à luz do disposto no art. 156, § 2º, I, da Constituição Federal, que deve ser imprescindível o efetivo exercício das atividades empresariais e a obtenção de receitas patrimoniais para o gozo da imunidade relativa ao ITBI, o que torna inviável a análise da questão, no mérito, em Recurso Especial, sob pena de usurpação da competência do STF.
+ ..
+8. Agravo Interno não provido.
+(AgInt no AREsp 1.853.006/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/09/2021, DJe 13/10/2021).
+TRIBUTÁRIO. A GRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. IMUNIDADE TRIBUTÁRIA. REQUISITOS. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Para acolher a tese do especial e desconstituir a conclusão do TJRJ, seria necessário examinar o laudo do assistente técnico. Súmula n. 7/STJ. 4. Não obstante, ao óbice da Súmula 7/STJ, depreende-se que os fundamentos normativos a respeito da incidência da imunidade tributária são de índole constitucional, consoante reverberou o Tribunal de origem em sua ementa ao analisar o comando do artigo 150, inciso III, alínea "c", da Constituição Federal.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp 1.494.782/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/11/2019, DJe 07/11/2019).
+Por fim, quanto à análise do dissídio jurisprudencial, convém registrar que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Irrepreensível, portanto, o julgado ora combatido.
+Por fim, d eixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
