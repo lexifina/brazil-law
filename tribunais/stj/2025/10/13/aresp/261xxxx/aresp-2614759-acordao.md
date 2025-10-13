@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7/STJ; ausência de fundamentação suficiente quanto à alegada violação de lei federal - Súmula nº 284/STF; e deficiência na demonstração do dissídio jurisprudencial, vedado ainda o confronto com precedentes do próprio STJ).
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por Rosália Cristina Rocha Lima (ROSÁLIA) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, de relatoria do Desembargador Andrade Neto, assim ementado:
+CONTRATO DE EMPRÉSTIMO BANCÁRIO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. AÇÃO DE ANULAÇÃO DO PROCEDIMENTO DE EXECUÇÃO EXTRAJUDICIAL. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DAS DATAS DO LEILÃO. NÃO RECONHECIMENTO. ESGOTAMENTO DAS TENTATIVAS DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA PURGAÇÃO DA MORA. NOTIFICAÇÃO POR EDITAL REGULARMENTE REALIZADA, NOS TERMOS DO ART. 26, § 4º, DA LEI N. 9.514/97. IRRELEVÂNCIA, ADEMAIS, PORQUANTO NÃO DEMONSTRADO EFETIVO INTERESSE EM QUITAR O DÉBITO. AUSÊNCIA DE FUNDAMENTOS JURÍDICOS APTOS A OBSTAR A EXCUSSÃO DA GARANTIA FIDUCIÁRIA. AÇÃO IMPROCEDENTE. SENTENÇA MANTIDA.
+APELAÇÃO DESPROVIDA.
+Nas razões do agravo, ROSÁLIA apontou (1) que o recurso especial não pleiteia o reexame de provas, mas sim a revaloração das provas, o que é permitido pelo Superior Tribunal de Justiça, conforme entendimento consolidado em precedentes como o AgInt no AgInt no REsp 1.681.710/RJ; (2) que o dissídio jurisprudencial foi demonstrado de forma analítica, com cotejo entre o acórdão recorrido e o paradigma, evidenciando a similitude fática e a divergência de entendimento quanto a necessidade de intimação pessoal do mutuário sobre as datas dos leilões extrajudiciais, conforme jurisprudência do STJ; (3) que a decisão de inadmissibilidade do recurso especial incorreu em erro ao aplicar a Súmula 7/STJ, pois a questão discutida não envolve reexame de matéria fática, mas sim a qualificação jurídica dos fatos descritos no acórdão recorrido; (4) que a decisão recorrida afronta o entendimento consolidado do STJ sobre a necessidade de tentativa de notificação pessoal do mutuário antes da intimação por edital, conforme previsto no Decreto-lei nº 70/1966 e na Lei nº 9.514/1997.
+Houve apresentação de contraminuta por Banco Santander Brasil S.A. (SANTANDER) defendendo que o agravo não merece provimento, pois a decisão de inadmissibilidade está devidamente fundamentada e os óbices sumulares aplicados são pertinentes ao caso concreto (e-STJ, fls. 394-395).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7/STJ; ausência de fundamentação suficiente quanto à alegada violação de lei federal - Súmula nº 284/STF; e deficiência na demonstração do dissídio jurisprudencial, vedado ainda o confronto com precedentes do próprio STJ).
+2. Agravo não conhecido.
+VOTO
+Não se pode conhecer do recurso.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, verifica-se que o inconformismo não se dirigiu, de forma específica, contra os fundamentos da decisão agravada, pois ROSÁLIA não refutou, de forma arrazoada, (i) a ausência de fundamentação suficiente quanto a alegada violação de lei federal, limitando-se a simples menção de dispositivos legais sem desenvolver argumentos que sustentassem a ofensa, atraindo a incidência da Súmula 284 do STF; (ii) a incidência da Súmula 7 do STJ, uma vez que o recurso especial buscava, em verdade, reexame de provas; e (iii) a ausência de cotejo analítico para caracterização da divergência jurisprudencial, em desacordo com o art. 1.029, § 1º, do CPC.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial, que: não haveria pedido de reexame de provas, mas apenas de revaloração jurídica, o que afastaria a incidência da Súmula 7/STJ; teria demonstrado, de forma suficiente, o dissídio jurisprudencial; a decisão da 32ª Câmara de Direito Privado do TJSP estaria em confronto com precedentes do próprio STJ que exigem intimação pessoal do mutuário sobre as datas dos leilões.
+Cumpre esclarecer que tais alegações não afastam os fundamentos da decisão agravada. Para superar o óbice da Súmula 7/STJ, não basta afirmar tratar-se de revaloração de provas, devendo a parte demonstrar objetivamente que não pretende revolver fatos e circunstâncias delineados pelo tribunal de origem, o que não ocorreu. Da mesma forma, para infirmar a ausência de demonstração do dissídio jurisprudencial, caberia à parte realizar o cotejo analítico, transcrevendo trechos dos acórdãos confrontados e evidenciando a similitude fática entre eles, nos termos do art. 1.029, § 1º, do CPC, c/c arts. 541, parágrafo único, do CPC/1973, e 255, §§1º e 2º, do RISTJ. Isso não foi feito.
+Ademais, registre-se que o dissídio jurisprudencial hábil a ensejar recurso especial deve ser entre Tribunais Estaduais ou Federais distintos, não sendo cabível apontar dissídio com precedentes do próprio STJ, por não estar previsto no art. 105, III, c, da Constituição Federal.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste recurso é capaz de infirmar o acerto da decisão de inadmissibilidade.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+No mesmo sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020)
+Nessas condições NÃO CONHEÇO do agravo interposto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
+É o voto.
