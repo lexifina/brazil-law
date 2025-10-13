@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por MARCIO DA CUNHA LEOCADIO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 30/01/2025.
+Concluso ao gabinete em: 30/06/2025.
+Ação: de obrigação de fazer ajuizada por FRANCISCO ZAREMBA FILHO em face de CAIXA BENEFICENTE DOS FUNCIONÁRIOS DO BANCO DO ESTADO DE SÃO PAULO - CABESP, alegando indevida negativa de cobertura de tratamento médico na modalidade de home care.
+Sentença: julgado procedente o pedido.
+Acórdão: o TJ/SP, por unanimidade, negou provimento à apelação interposta por LAZARA SILVESTRE ZAREMBA e FRANCISCO ZAREMBA FILHO, nos termos da seguinte ementa:
+PLANO DE SAÚDE - HONORÁRIOS DE ADVOGADO FIXADOS SOBRE O VALOR DA CAUSA - SENTENÇA DE PROCEDÊNCIA - O AUTOR ALMEJA A MODIFICAÇÃO DO CRITÉRIO ADOTADO NA SENTENÇA PARA O VALOR DA CONDENAÇÃO - VALOR DA CAUSA É CRITÉRIO A SER UTILIZADO QUANDO O VALOR DA CONDENAÇÃO NÃO FOR POSSÍVEL MENSURAR NO CASO CONCRETO, SITUAÇÃO PRESENTE NA DEMANDA, POIS O AUTOR ATRIBUIU À CAUSA VALOR ESTIMADO DO TRATAMENTO ANUAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Embargos de Declaração: opostos por LAZARA SILVESTRE ZAREMBA e FRANCISCO ZAREMBA FILHO, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 927, III, 85, § 2º, e 1022, II, do CPC. Alega a inobservância, pelo TJ/SP, do Tema 1076/STJ, que determina o cálculo dos honorários sobre o valor da condenação, quando possível a sua mensuração, inclusive quando se trata de obrigação de fazer, consubstanciada em fornecimento de tratamento médico. Afirma que "o valor de R$ 30.000,00 atribuído à causa pelo recorrente, correspondia a uma estimativa mensal do custo do tratamento e não anual, como interpretou o TJ/SP" (e-STJ fl. 331). Defende que "o valor da condenação corresponde ao custo anual do tratamento, disponibilizado pela operadora de planos de saúde", o qual "é facilmente aferível mediante a apresentação dos custos pela própria recorrida" (e-STJ fl. 332).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do critério de fixação dos honorários advocatícios de sucumbência, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da existência de fundamento não impugnado
+A parte recorrente não impugnou os fundamentos utilizados pelo TJ/SP, de que "somente nos embargos de declaração o embargante alegou que o valor dado à causa correspondia ao importe do tratamento mensal e não anual" (e-STJ fl. 358), bem como de que não é possível mensurar o valor da condenação porque "o autor atribuiu à causa valor estimado do tratamento" (e-STJ fl. 360), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do arbitramento dos honorários advocatícios de sucumbência
+"Segundo a jurisprudência das Turmas que compõem a Segunda Seção, o título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas as condenações. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa" (REsp 1.904.603/RS, Terceira Turma, julgado em 22/02/2022, DJe de 24/02/2022). No mesmo sentido: AgInt no REsp n. 1.955.244/PE, Quarta Turma, julgado em 3/10/2022, DJe de 26/10/2022.
+No particular, o TJ/SP concluiu que não foi possível mensurar o valor da condenação, considerando que o Juízo de primeiro grau impôs a CABESP a obrigação de "custeio da home care que necessita o autor, de modo ininterrupto, nos exatos moldes do relatório médico de fl. 33" (e-STJ fl. 257).
+Logo, o acórdão recorrido está em harmonia com a jurisprudência desta Corte.
+Aplica-se, portanto, a Súmula 83/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO ED FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DE INTERNAÇÃO DOMICILIAR (HOME CARE). CONDENAÇÃO À OBRIGAÇÃO DE FAZER DE VALOR IMENSURÁVEL. CRITÉRIO PARA O ARBITRAMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA. VALOR DA CAUSA.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. "Segundo a jurisprudência das Turmas que compõem a Segunda Seção, o título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas as condenações. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa" (REsp 1.904.603/RS, Terceira Turma, julgado em 22/02/2022, DJe de 24/02/2022).
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
