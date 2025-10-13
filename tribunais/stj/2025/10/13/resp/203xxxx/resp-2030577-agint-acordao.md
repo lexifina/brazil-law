@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 436-452) interposto contra decisão desta relatoria, que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (fls. 429-432).
+Em suas razões, a parte agravante reitera a arguição de omissão e falta de fundamentação no acórdão recorrido, relativamente às alegações de violação do princípio da isonomia e de ausência de paridade de tratamento entre credores da mesma classe.
+Destaca a inaplicabilidade da Súmula n. 7 do STJ, pois a questão seria estritamente jurídica.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 456-462).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 429-432):
+Trata-se de recurso especial interposto contra acórdão do TJMT, assim ementado (fl. 247):
+RECUPERAÇÃO JUDICIAL - APROVAÇÃO PELA ASSEMBLEIA GERAL DE CREDORES - HOMOLOGAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL - SOBERANIA - CONTROLE DE LEGALIDADE - POSSIBILIDADE - CLASSE GARANTIA REAL - SUBCLASSES - TRATAMENTO DIFERENCIADO ENTRE CREDORES DA MESMA CLASSE - NÃO VERIFICADO - ART. 67, PARÁGRAFO ÚNICO, LEI 11.101/2005 DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 324-360).
+No recurso especial (fls. 351-369), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, I, II, do CPC/2015.
+Suscita a existência de omissão e deficiência na fundamentação, pois o Tribunal de origem teria deixado de apreciar questões imprescindíveis ao deslinde da controvérsia, quanto à alegação de que "a lei exige a regular e normal prestação do serviço, o que não pode significar, em hipótese alguma, a faculdade da não concessão de linha de crédito aos recuperandos" (fl. 361).
+Alega, ainda, afronta ao art. 67 da Lei n. 11.101/2005.
+Sustenta que "antes do pedido recuperacional, a instituição financeira concedia linhas de crédito aos recuperandos, de forma que, qualquer possibilidade de redução do serviço, ainda que potencial, implica em benefício indevido aos credores de mesma classe" (fl. 365).
+Requer a atribuição de efeito suspensivo ao recurso.
+Houve contrarrazões (fls. 384-406).
+Juízo positivo de admissibilidade (fls. 407-411).
+Nesta Corte, o Ministério Público Federal se manifestou pelo conhecimento parcial do recurso e, nessa extensão, pelo seu desprovimento (fls. 419-427).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Inicialmente, não há falar em violação dos arts. 489, § 1º, IV, e 1.022, I, II, do CPC, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento. O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais. Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (fls. 250-256):
+ ..  De acordo com a Ata da Assembleia Geral de Credores, tão somente a representante do Sicredi Ouro Verde MT manifestou interesse de aderir à proposta da subclasse apresentada para a classe garantia real.
+Ainda, nos termos da Ata, o plano de recuperação judicial, acrescido das modificações, foi aprovado pela Assembleia Geral de Credores, por todas as classes de credores, nos termos do artigo 45 da Lei 11.101/2005.
+Consta, ainda, a aprovação por maioria simples dos credores titulares de créditos com garantia real, no percentual de 66,67% e 90,91% da classe quirografária. Por sua vez, houve aprovação do plano por mais da metade do valor total dos créditos presentes, em relação às referidas classes, no percentual de 54,01% (garantia real) e 68,46% (quirografário), nos termos do art. 45, § 1º, da Lei 11.101/2005.
+Quanto aos credores trabalhistas e microempresa ou empresas de pequeno porte, a maioria presente votou pela aprovação da recuperação judicial, sendo 66,67 % e 100% em cada uma das classes respectivamente, atendido ao disposto no art. 45, § 2º da Lei 11.101/2005.
+Em particular, em relação aos credores da classe garantia real, verifica-se que além do ora agravante, outros dois fazem parte da categoria: Sicredi Ouro Verde MT, com crédito no valor de R$ 4.645.000,00, que aderiu a subclasse, e Amerra-Leaf Agro Recovery, com crédito de R$ 4.348.367,28.
+Assim, a classe garantia real obteve 2 (dois) votos por cabeça, o que representa o percentual de 66,67%, bem como obteve o total de votos por créditos de R$ 8.993.367,28, o que representa o percentual de 54,05%.
+Assim exposto, a controvérsia está em saber se a hipótese demanda exercer o controle de legalidade em relação aos termos do plano de recuperação judicial, em particular, quanto à criação de subclasse dentro da classe garantia real.
+De acordo com o agravante, os recuperandos, ora agravados, protocolaram, duas horas antes da continuidade da Assembleia Geral de Credores, ocorrida no dia , um modificativo ao plano de recuperação 20/08/2021 judicial, no qual se criou uma subclasse dentro da classe de garantia real, que teria beneficiado somente o credor Sicredi Ouro Verde MT, com extrema vantagem em relação a todos os demais credores da mesma classe.
+Pois bem. De plano, necessário assinalar que se afigura absolutamente possível que o Poder Judiciário, sem imiscuir-se a análise da viabilidade econômica da empresa em crise, promova o controle da legalidade do plano de recuperação judicial que, em si, em nada contemporiza a soberania da assembleia geral de credores.
+ ..  Assim entendido, não comporta censura a criação de subclasses de credores colaboradores, com tratamento mais benéfico àqueles que continuem fornecendo bens, serviços e crédito necessários ao soerguimento da recuperanda.
+ ..  Ademais, a possibilidade de tratamento benéfico a credor estratégico encontra amparo no art. 67, parágrafo único da Lei 11.101/2005, que dispõe sobre a possibilidade de tratamento diferenciado aos credores de bens e serviços que continuem com a relação comercial junto à devedora após o pedido de recuperação judicial.
+ ..  De relevo anotar que a proposta da subclasse de garantia real poderia ser aderida pelos "credores financeiros-estratégicos que tenham mantido, após a distribuição do pedido de recuperação judicial, a movimentação da conta corrente com os devedores, com ou sem limite de crédito. Tem-se como credor financeiro, as instituições financeiras ou cooperativas presentes na lista de credores da presente recuperação judicial". Em complemento, a proposta foi estendida a todos os credores daquela classe que se encontravam presentes na Assembleia Geral de Credores e se enquadrassem nas condições assinaladas. Registra-se, no entanto, que dentre os credores da classe garantia real, somente a representante do Sicredi Ouro Verde MT, manifestou interesse e aderiu à proposta da subclasse. E, ainda que oportunizado aos demais credores a adesão à proposta alternativa apresentada na Assembleia Geral de Credores, não há nenhum registro nesse sentido, seja de adesão, seja de impugnação.
+Por fim, chama-se atenção que, embora a proposta enquadre os credores que "mantiverem sua movimentação, com ou sem concessão de linha de crédito", não se tem por isso o esvaziamento do disposto no parágrafo único do art. 67 da Lei 11.101/2005. Veja que se trata de uma condicional, ou seja, nada impede que a instituição financeira conceda linha de crédito. E ainda que assim não faça, há que se considerar a possibilidade da movimentação bancária, tão essencial aos recuperandos, sem que isso implique, especialmente, em bloqueio de valores.
+Ausente, assim, ilegalidade na criação de subclasse de credores colaborativos, com tratamento mais benéfico àqueles que continuem fornecendo bens, serviços e crédito necessários ao processo de soerguimento dos recuperandos.
+Nesse cenário, para alterar os fundamentos do acórdão impugnado e sopesar as razões recursais, em relação ao outro dispositivo tido por violado, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, diante da aplicação da Súmula n. 7 do STJ.
+Diante do exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. JULGO PREJUDICADO o pedido de atribuição de efeito suspensivo ao recurso especial.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Rever a conclusão do acórdão recorrido, no sentido da legalidade da criação de subclasse de credores colaborativos, com tratamento mais benéfico àqueles que continuem fornecendo bens, serviços e crédito necessários ao processo de soerguimento dos recuperandos, nos termos do art. 67, parágrafo único, da Lei n. 11.101/2005, da adesão apenas da representante do Sicredi Ouro Verde MT, e sopesar as razões recursais, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
