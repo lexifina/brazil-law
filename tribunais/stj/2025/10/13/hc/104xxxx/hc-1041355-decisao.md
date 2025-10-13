@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SÉRGIO RICARDO DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 10 anos de reclusão no regime fechado e de pagamento de 1.000 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+O impetrante assinala a ilegalidade da manutenção da prisão preventiva na sentença condenatória, defendendo o direito do paciente de aguardar o julgamento da apelação em liberdade.
+Pontua que a negativa do direito de apelar solto se apoiou em fundamentação inidônea, sem indicação concreta dos requisitos do art. 312 do CPP, violando os princípios da presunção de inocência e do devido processo.
+Ressalta que não houve trânsito em julgado da sentença condenatória, sendo vedada a execução provisória da pena, e que a prisão preventiva não pode ser mantida ou restabelecida sem fatos novos supervenientes.
+Alega que a decisão sentencial deixou de aplicar a detração da pena e que, se corretamente considerada, o regime adequado seria menos gravoso, o que reforça a incompatibilidade da manutenção da prisão preventiva.
+Entende adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP, realçando os predicados pessoais favoráveis do paciente.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com a imposição de medidas cautelares diversas, para que o paciente possa recorrer em liberdade.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+De início, verifica-se que os fundamentos do decreto prisional foram anteriormente apreciados por esta Corte nos autos do HC n. 927.543/SP, cuja ordem foi denegada por decisão publicada em 12/8/2024, e chancelada pela Sexta Turma em julgamento virtual realizado de 27/2/2025 a 5/3/2025.
+Ademais, em relação à manutenção da prisão preventiva, assim constou na sentença condenatória (fl. 135, grifei):
+Daniel, Rodrigo, Luis Felipe e Sérgio não poderão recorrer em liberdade, pois permanecem presentes os requisitos que autorizam a prisão preventiva. Cabe ressaltar que o crime em questão é concretamente grave, visto que envolveu expressiva quantidade de cocaína, sendo a manutenção da custódia cautelar necessária para preservação da ordem pública. Recomendem-se os réus no estabelecimento em que se encontram recolhidos.
+Acerca do assunto, esta Corte fixou o entendimento seguinte:
+ ..  a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1.º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (AgRg no RHC n. 187.138/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023).
+Nesse contexto, não há que se falar em ilegalidade a ser sanada, sobretudo porquanto, na sentença, o magistrado ressaltou que persistem os motivos que autorizaram a decretação da prisão preventiva, os quais, repita-se, já foram analisados preteritamente por esta Corte Superior nos autos do HC n. 927.543/SP.
+Por outro lado, quanto à alegação de que a sentença condenatória deixou de aplicar a detração da pena, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
