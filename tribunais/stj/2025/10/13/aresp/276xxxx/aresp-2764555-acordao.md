@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE LOCAÇÃO EM SHOPPING CENTER. PRAZO PRESCRICIONAL. INTERESSE PROCESSUAL. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ.
+1. Questão controvertida refere-se à admissibilidade de recurso especial que impugna acórdão estadual sobre prestação de contas em contrato atípico de locação comercial em shopping center, especificamente quanto ao prazo prescricional aplicável, interesse de agir da ex-locatária e aplicação da exceptio non adimpleti contractus.
+2. Tribunal de origem, fundamentando-se na análise das peculiaridades contratuais e do conjunto fático-probatório, concluiu pela aplicação do prazo prescricional decenal do art. 205 do Código Civil, afastando a incidência do prazo trienal previsto no art. 206, § 3º, I, do mesmo diploma legal.
+3. Reconhecimento do interesse processual da demandante baseou-se na constatação de falta de transparência nos critérios de cobrança dos encargos condominiais, circunstância apurada mediante exame das provas coligidas aos autos.
+4. Afastamento da tese de exceção de contrato não cumprido decorreu da interpretação das cláusulas contratuais e da avaliação das circunstâncias fáticas que envolveram a relação locatícia entre as partes.
+5. Modificação das conclusões adotadas pela instância ordinária demandaria, inevitavelmente, o revolvimento do acervo probatório e a reinterpretação de cláusulas contratuais, providência vedada em sede de recurso especial.
+6. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça obsta o conhecimento do recurso especial quando a pretensão recursal exige reexame de elementos fático-probatórios e contratuais delineados pelas instâncias ordinárias.
+7. Ausência de prequestionamento quanto à delimitação dos documentos a serem apresentados atrai a aplicação da Súmula 282 do Supremo Tribunal Federal.
+8. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por C.R.A.L. EMPREENDIMENTOS E PARTICIPAÇÕES LTDA e CONDOMÍNIO CIVIL CENTER PLAZA SHOPPING (C.R.A.L. E CONDOMÍNIO) contra decisão ddo Tribunal de Justiça do Estado de São Paulo que inadmitiu seu apelo (e-STJ, fls. 788 a 790).
+A ação originária é uma ação de exigir contas ajuizada por CIE AGÊNCIA DE VIAGENS LTDA ME (CIE) em desfavor de C.R.A.L. E CONDOMÍNIO, referente a contrato de locação de espaço em shopping center. O pedido foi julgado procedente em primeira instância para condenar os réus à prestação de contas, no prazo de 15 dias, relativas ao período de dezembro de 2012 a dezembro de 2022 (e-STJ, fls. 26 a 31).
+Interposto agravo de instrumento, o Tribunal de Justiça do Estado de São Paulo, sob a relatoria do desembargador Marcos Gozzo, negou provimento ao recurso, mantendo a decisão de primeira instância. O acórdão consignou a aplicação do prazo prescricional decenal (art. 205 do CC) e afastou as teses de falta de interesse de agir e de exceção do contrato não cumprido (e-STJ, fls. 109 a 115). Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 132 a 135).
+No recurso especial, fundado no art. 105, III, "a", da Constituição Federal, C.R.A.L. E CONDOMÍNIO alegaram violação dos arts. 330, III, 485, VI, 373, I, e 551, § 1º, do Código de Processo Civil; e 476 e 206, § 3º, I, do Código Civil. Sustentaram, em síntese, (1) a carência da ação por falta de interesse de agir, ao argumento de que as contas sempre estiveram disponíveis administrativamente; (2) a inexigibilidade da obrigação de prestar contas em razão da inadimplência de CIE, com base na exceção do contrato não cumprido; (3) a necessidade de delimitação dos documentos a serem apresentados; e (4) a aplicação do prazo prescricional trienal, em detrimento do decenal reconhecido nas instâncias ordinárias .
+A Presidência da Seção de Direito Privado do tribunal paulista inadmitiu o recurso especial com base na Súmula 7 do STJ, por entender que a revisão do julgado demandaria o reexame de provas e das circunstâncias fáticas do processo (e-STJ, fls. 788 a 790).
+No presente agravo, C.R.A.L. E CONDOMÍNIO impugnam os fundamentos da decisão de inadmissibilidade, defendendo que a matéria discutida é exclusivamente de direito e não exige reexame fático-probatório, insistindo no processamento do recurso especial.
+Foi apresentada contraminuta por CIE, pugnando pela manutenção da decisão agravada (e-STJ, fls. 822 a 825).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE LOCAÇÃO EM SHOPPING CENTER. PRAZO PRESCRICIONAL. INTERESSE PROCESSUAL. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ.
+1. Questão controvertida refere-se à admissibilidade de recurso especial que impugna acórdão estadual sobre prestação de contas em contrato atípico de locação comercial em shopping center, especificamente quanto ao prazo prescricional aplicável, interesse de agir da ex-locatária e aplicação da exceptio non adimpleti contractus.
+2. Tribunal de origem, fundamentando-se na análise das peculiaridades contratuais e do conjunto fático-probatório, concluiu pela aplicação do prazo prescricional decenal do art. 205 do Código Civil, afastando a incidência do prazo trienal previsto no art. 206, § 3º, I, do mesmo diploma legal.
+3. Reconhecimento do interesse processual da demandante baseou-se na constatação de falta de transparência nos critérios de cobrança dos encargos condominiais, circunstância apurada mediante exame das provas coligidas aos autos.
+4. Afastamento da tese de exceção de contrato não cumprido decorreu da interpretação das cláusulas contratuais e da avaliação das circunstâncias fáticas que envolveram a relação locatícia entre as partes.
+5. Modificação das conclusões adotadas pela instância ordinária demandaria, inevitavelmente, o revolvimento do acervo probatório e a reinterpretação de cláusulas contratuais, providência vedada em sede de recurso especial.
+6. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça obsta o conhecimento do recurso especial quando a pretensão recursal exige reexame de elementos fático-probatórios e contratuais delineados pelas instâncias ordinárias.
+7. Ausência de prequestionamento quanto à delimitação dos documentos a serem apresentados atrai a aplicação da Súmula 282 do Supremo Tribunal Federal.
+8. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece provimento.
+No recurso especial interposto com fundamento no art. 105, III, "a", da CF, C.R.A.L. E CONDOMÍNIO apontaram violação aos arts. (1) 330, III, e 485, VI, do CPC, por carência de ação ante a falta de interesse de agir; (2) 476 do CC, pela inadimplência de CIE (exceptio non adimpleti contractus); (3) 551, § 1º, do CPC, quanto à extensão dos documentos solicitados; e (4) 206, § 3º, I, do CC, defendendo a aplicação do prazo prescricional trienal em detrimento do decenal fixado pelo tribunal paulista.
+A irresignação, todavia, não prospera.
+(1) Da falta de interesse de agir e da exceção do contrato não cumprido
+C.R.A.L. E CONDOMÍNIO sustentam a ausência de interesse de agir de CIE, por não ter esgotado a via administrativa, e invocam a exceção do contrato não cumprido, diante da alegada inadimplência da ex-locatária.
+O Tribunal de Justiça de São Paulo, ao analisar a controvérsia, concluiu pela presença do interesse processual e pela inaplicabilidade da tese de exceção de contrato não cumprido com base nos elementos fáticos e contratuais dos autos.
+O acórdão recorrido destacou que a justificativa para a ação reside na falta de transparência dos critérios de cobrança e que a eventual inadimplência da locatária não afasta o dever de prestar contas por parte da administradora do shopping.
+Consta do voto condutor:
+A recorrida justificou a necessidade da prestação de contas em razão da falta de transparência dos critérios utilizados para aferição dos valores das cotas condominiais.
+Assim, presente na demanda o interesse de agir, bem como o dever do agravante de prestar contas relacionadas às "despesas condominiais (privativa e comum)", nos termos já definidos na decisão objurgada.
+Quanto à alegação de exceção de contrato não cumprido, melhor sorte não socorre à agravante, pois eventual inadimplência da autora não afasta o dever de prestar contas, visto que subsistente o contrato de locação. (e-STJ, fls. 109 a 115)
+Dessa forma, para infirmar as conclusões do tribunal de segunda instância e acolher as teses de C.R.A.L. E CONDOMÍNIO, seria necessário reexaminar as provas dos autos e interpretar as cláusulas do contrato de locação, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 desta Corte.
+(2) Do prazo prescricional
+Quanto ao prazo prescricional, a corte paulista entendeu pela aplicação da regra geral decenal, prevista no art. 205 do Código Civil, por considerar inexistir prazo específico para a pretensão de exigir contas em contratos de locação de shopping center. A decisão foi fundamentada na análise da natureza jurídica da relação contratual estabelecida entre as partes.
+A pretensão recursal de aplicar o prazo trienal do art. 206, § 3º, I, do Código Civil, embora amparada em tese jurídica, demandaria a revisão do enquadramento jurídico-factual realizado pela instância ordinária.
+A definição do prazo prescricional, no caso, está atrelada à natureza da obrigação discutida, cuja análise foi feita pelo tribunal de segunda instância com base no acervo probatório e no contrato.
+Assim, a modificação do entendimento do acórdão recorrido, também neste ponto, encontra óbice na Súmula 7 do STJ, que impede a reapreciação de fatos e provas.
+Por fim, no que se refere à delimitação dos documentos a serem exibidos e ao termo inicial para o cumprimento da obrigação, tais matérias não foram objeto de deliberação exauriente pelo acórdão recorrido, que se limitou a julgar a primeira fase da ação de exigir contas, carecendo do indispensável prequestionamento, o que atrai a incidência da Súmula 282 do STF.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO do recurso especial.
+MAJORO em 5% o valor econômico dos honorários advocatícios sucumbenciais fixados em desfavor de C.R.A.L. EMPREENDIMENTOS E PARTICIPAÇÕES LTDA E CONDOMÍNIO CIVIL CENTER PLAZA SHOPPING, na forma do art. 85, §11, do CPC.
+É o voto.
