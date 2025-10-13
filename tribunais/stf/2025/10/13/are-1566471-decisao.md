@@ -1,0 +1,25 @@
+DESPACHO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado em face do acórdão assim ementado:
+
+    “RECURSO INOMINADO INTERPOSTO PELA PARTE REQUERIDA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ESTADO DE SERGIPE. AÇÃO DE COBRANÇA. SERVIDORA INATIVA DO MAGISTÉRIO. PLEITO DE IMPLEMENTAÇÃO DO PISO SALARIAL DO MAGISTÉRIO NACIONAL REFERENTE AO ANO DE 2022. CONCEITO DE PISO: VENCIMENTO BÁSICO. PRETENSÃO AMPARADA PELO ARTIGO 206, VIII, DA CF/88 E LEI FEDERAL N. 11.738/2008. DIREITO À PARIDADE REMUNERATÓRIA EVIDENCIADO. SATISFAÇÃO DOS REQUISITOS LEGAIS PREVISTOS NA EC N. 41/2003. LEI ESTADUAL N. 365/2022. PUBLICAÇÃO EM MARÇO DE 2022 E EFEITOS RETROATIVOS INCIDENTES DESDE JANEIRO/2022. INCORPORAÇÃO DA GRATIFICAÇÃO DE REGÊNCIA DE CLASSE AO VENCIMENTO BÁSICO. CONGELAMENTO DO VALOR DO ADICIONAL DE TRIÊNIO. MUDANÇA DO REGIME JURÍDICO DO MAGISTÉRIO. POSSIBILIDADE. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. NECESSIDADE DE OBSERVÂNCIA DA GARANTIA DO DIREITO ADQUIRIDO (ARTIGO 5º, XXXVI, CF/88) E DA IRREDUTIBILIDADE DE VENCIMENTOS (ART. 37, INCISO XV, DA CONSTITUIÇÃO FEDERAL). DECRÉSCIMO REMUNERATÓRIO QUE DEVE SER COLMATADO. VALOR DO PISO SALARIAL DEVIDO, BEM COMO DOS REFLEXOS DESSE SOBRE AS DEMAIS V A N T A G E N S CORRELATAS. INCORPORAÇÃO À REMUNERAÇÃO DA PARTE AUTORA DESDE JANEIRO/2022. ALTERAÇÃO LEGISLATIVA QUE NÃO PODE REDUZIR O VALOR DA REMUNERAÇÃO ANTERIORMENTE DEVIDA. DIFERENÇAS SALARIAIS DEVIDAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.” (Recurso Inominado Cível nº 202510384, 2ª Turma Recursal do Estado de Sergipe, Rel. Des. Marcelo Augusto Costa Campos, j. 18.03.2025)
+
+    Na minuta sustenta-se violação dos arts. 2º, 25, e 37, X e XIII, da Constituição da República.
+
+    É o relatório.
+
+    Da leitura dos autos, verifica-se que a matéria versada no presente recurso, relativa a “saber se o índice de reajuste do valor do piso nacional da educação fixado por atos da Administração federal deve ser estendido automaticamente às carreiras da educação pública estadual e municipal, independentemente de lei do respectivo ente federativo”, foi submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 1.502.069-RG, paradigma do Tema 1324, assim ementado:
+
+    “Direito constitucional e administrativo. Recurso extraordinário com agravo. Piso nacional da educação pública. Atualização de remuneração por portaria do MEC Vinculação de estados e municípios. Repercussão geral. I. Caso em exame 1. Recurso extraordinário com agravo contra acórdão de Turma Recursal do Estado de São Paulo que afirmou o direito de revisão de salário-base de professora municipal, com base no valor de atualização do piso nacional da educação fixado em Portaria do Ministério da Educação – MEC. II. Questão em discussão 2. A questão em discussão consiste em saber se o reajuste do valor do piso nacional da educação por Portarias do MEC deve ser estendido automaticamente às carreiras da educação pública estadual e municipal, independentemente de lei do respectivo ente federativo. III. Razões de decidir 3. O STF, na ADI 4.848, declarou a constitucionalidade do parágrafo único do art. 5º da Lei nº 11.738/2008, que dispõe sobre a atualização anual do piso nacional do magistério da educação básica, mediante Portaria do Ministério da Educação. 4. Na ADI 4.167, por sua vez, o STF definiu que a expressão piso não poderia ser interpretada como “remuneração global”, mas como vencimento-básico (salário-base). 5. A Súmula Vinculante nº 42, contudo, afirma a inconstitucionalidade de vinculação do reajuste de vencimentos de servidores estaduais ou municipais a índices federais de correção monetária. Em razão disso, o STF vem cassando decisões que reajustam o salário-base de profissionais da educação municipal com base em variação de valor fixada em Portarias do MEC. Grande volume de ações a respeito. 6. Constitui questão constitucional relevante definir se a atualização do valor do piso da educação pública por atos da Administração Federal deve ser estendida ao salário-base de profissionais da educação estadual e municipal, independentemente de lei do respectivo ente federativo. IV. Dispositivo 7. Repercussão geral reconhecida para a seguinte questão constitucional: saber se o índice de reajuste do valor do piso nacional da educação fixado por atos da Administração federal deve ser estendido automaticamente às carreiras da educação pública estadual e municipal, independentemente de lei do respectivo ente federativo.” (ARE 1502069 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, DJe 02-10-2024)
+
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+
+    Devolvam-se os autos à Corte de origem.
+
+    Publique-se.
+
+    Brasília, 13 de outubro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
