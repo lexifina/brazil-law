@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. OMISSÃO NA ORIGEM INEXISTENTE. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. APELO NOBRE NÃO CONHECIDO.
+1. Na hipótese dos autos, a questão de mérito foi detidamente analisada e entregue a prestação jurisdicional de forma adequada, não se vislumbrando omissão capaz de gerar a nulidade pretendida.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pelo acerto da decisão que estipulou a forma correta de se atingir o quantum debeatur. Alterar esse entendimento demandaria o reexame das provas, vedado em recurso especial.
+3. Agravo conhecido. Recurso especial em parte não conhecido para, na parte conhecida, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por KELLY DA SILVA COSTA VELOSO, MARIA FLAVIA CARVALHO TAVARES, PEDRO HUMBERTO VELOSO, RONALDO RIBEIRO TAVARES, VELOSO E TAVARES INDUSTRIA DE ALIMENTOS S.A (KELLY, MARIA, PEDRO, RONALDO e VELOSO), contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a da CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE DESPEJO - CUMPRIMENTO DE SENTENÇA - VALOR DO ALUGUEL - ÍNDICE DE ATUALIZAÇÃO - OBSERVÂNCIA DO PARÂMETRO DE REAJUSTE - PREVISÃO CONTRATUAL - OFENSA AO PRINCÍPIO DA COISA JULGADA. - O cumprimento de sentença deve observar o índice estabelecido no contrato executado, não sendo adequado rediscutir o índice de correção do montante devido em fase de cumprimento, especialmente quando já operada a coisa julgada sem situação que autorize correção ex oficio. (TJMG - Agravo de Instrumento-Cv 1.0000.23.139469-3/001, Relator(a): Des.(a) Cavalcante Motta, 10ª CÂMARA CÍVEL, julgamento em 05/09/2023, publicação da súmula em 11/09/2023).
+No presente inconformismo, KELLY, MARIA, PEDRO, RONALDO e VELOSO defenderam que o apelo nobre foi indevidamente indadmitido, pois a finalidade recursal não se cinge na reanálise dos fatos e das provas colhidas na demanda.
+Foi apresentada contraminuta em e-STJ fls. 790-792.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. OMISSÃO NA ORIGEM INEXISTENTE. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. APELO NOBRE NÃO CONHECIDO.
+1. Na hipótese dos autos, a questão de mérito foi detidamente analisada e entregue a prestação jurisdicional de forma adequada, não se vislumbrando omissão capaz de gerar a nulidade pretendida.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pelo acerto da decisão que estipulou a forma correta de se atingir o quantum debeatur. Alterar esse entendimento demandaria o reexame das provas, vedado em recurso especial.
+3. Agravo conhecido. Recurso especial em parte não conhecido para, na parte conhecida, negar-lhe provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+KELLY, MARIA, PEDRO, RONALDO e VELOSO afirmaram a violação dos arts. 525, V e 1.022 do CPC, sustentando (1) decisão omissa da Instância Ordinária (2) apontamento indevido da quantia devida.
+(1) Da existência de omissão na decisão da Corte de origem
+KELLY, MARIA, PEDRO, RONALDO e VELOSO afirmaram a violação do art. 1.022 do Código de Processo Civil, sustentando a haver omissão na decisão do TJMG.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, deficiência de fundamentação, confira-se:
+A planilha apresentada pelo agravado indica a correção pelo IGP-M em detrimento dos alugueis atrasados e não da indenização por danos materiais. Em que pese o acórdão não definir o índice para correção dos alugueis devidos, a título de dano material, o contrato estabelece na cláusula 12.1: (..) Embora o acórdão não especifique o índice correto para correção dos alugueis atrasados, consta, de maneira expressa, no contrato que o valor atrasado será corrigido monetariamente nos termos do item 5.1, portanto, o índice aplicado para correção do montante devido é o IGP-M. Discutir o índice aplicado em cumprimento de sentença viola o princípio da coisa julgada. Conforme fundamentação do juízo a quo, os agravantes utilizam como parâmetro a segunda parte do dispositivo, todavia, essa parte refere-se aos danos materiais e não ao reajuste dos aluguéis. Portanto, não há indícios de excesso de execução.
+Assim, inexiste omissão, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA AO ART. 489 DO CPC/2015. INEXISTENTE. ENFRENTAMENTO, PELO JULGADOR, DOS ARGUMENTOS QUE POSSUAM APTIDÃO PARA INFIRMAR A FUNDAMENTAÇÃO. DANO MORAL. QUANTIFICAÇÃO. REVISÃO. INVIABILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado. Na hipótese dos autos, a questão de mérito foi detidamente analisada e entregue a prestação jurisdicional de forma adequada, não se vislumbrando a fundamentação genérica capaz de gerar a nulidade pretendida pelo ora Agravante.
+III - A jurisprudência desta Corte firmou-se no sentido de que somente é cabível a revisão do valor fixado a título de danos morais quando exorbitante ou ínfimo. No caso, como não houve excesso ou valor irrisório, haja vista a gravidade e a magnitude da situação, torna-se inviável a análise da questão sem que se proceda ao reexame do contexto fático-probatório dos autos, o que atrai o óbice da súmula 7/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.768.916/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/3/2019, DJe de 21/3/2019 - grifo nosso.)
+Afasta-se, portanto, a alegada violação.
+(2) Do apontamento indevido da quantia devida
+Sobre o tema o TJMG consignou que a decisão do magistrado de primeiro grau agiu bem ao estipular quais parâmetros deveriam ser adotados para alcance do valor do crédito exequendo e consequente respeito à coisa julgada, conforme se confere do trecho acima transcrito.
+Quanto a tal ponto, rever as conclusões quanto aos índices adotados demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO VERIFICADA. CUMPRIMENTO DE SENTENÇA. ASTREINTES. REDUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. FICTO. ART. 1025 DO CPC. COISA JULGADA E EXCESSO DE EXECUÇÃO. INDICADO VALOR DEVIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ÔNUS DA PROVA. INVERSÃO. FALTA INTERESSE RECURSAL. DISSIDIO. COTEJO ANALÍTICO. AUSÊNCIA. FALTA FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. ART. 537 DO CPC. SÚMULA Nº 83/STJ. HONORÁRIOS. IMPUGNAÇÃO. ACOLHIMENTO PARCIAL. CONDENAÇÃO. EXEQUENTE. SÚMULA Nº 83/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de discussão pelo tribunal local acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento, a atrair a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+5. Na hipótese, infirmar a conclusão do aresto atacado acerca da coisa julgada e do cumprimento dos requisitos da impugnação demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+6. No que diz respeito à inversão do ônus probatório, falta interesse recursal à recorrente, quando o tribunal acentua que à parte recorrida foi atribuída a prova acerca da questão controvertida.
+7. Nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+8. O aresto atacado não destoa da orientação firmada nesta Corte, no sentido de que o art. 537, § 1º, do Código de Processo Civil de 2015 não se restringe somente à multa vincenda, pois, enquanto houver discussão acerca do montante a ser pago a título da multa cominatória, não há falar em multa vencida. Aplicação da Súmula nº 83/STJ.
+9. Caracteriza-se a deficiência da fundamentação recursal quando o recurso especial não indica de modo preciso os dispositivos legais violados, a atrair o óbice da Súmula nº 284/STF.
+10. No caso, cabe à ora recorrente o pagamento da verba honorária decorrente do acolhimento parcial da impugnação. Incide Súmula nº 83/STJ.
+11. Agravo conhecido para conhecer parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.740.530/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025 - destaque de agora.)
+Assim, o recurso não merece que dele se conheça quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER em parte do apelo nobre e, na paerte conhecida, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONSORCIO PARQUE LOGISTICO VIA EXPRESSA, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+É o voto.
