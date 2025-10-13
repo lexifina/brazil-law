@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRODUÇÃO DE PROVA PERICIAL. SÚMULA 7/STJ. SEGURO DE VIDA. MORTE DA SEGURADA. NEGATIVA DE COBERTURA SECURITÁRIA EM RAZÃO DE DOENÇA PREEXISTENTE. AUSÊNCIA DE EXIGÊNCIA DE EXAMES PRÉVIOS PELA SEGURADORA. SÚMULA 609/STJ. NÃO COMPROVAÇÃO DE MÁ-FÉ DA SEGURADA. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (Súmula 609/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado por Brasilseg Companhia de Seguros, em face da decisão de fls. 701-703. A parte agravante sustenta que as Súmulas 5, 7, e 609, do STF, não constituem obstáculo ao conhecimento do recurso especial. Afirma a aplicabilidade da Lei 14.905/2024 quanto à correção monetária e juros moratórios.
+Impugnação às fls. 730-735.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRODUÇÃO DE PROVA PERICIAL. SÚMULA 7/STJ. SEGURO DE VIDA. MORTE DA SEGURADA. NEGATIVA DE COBERTURA SECURITÁRIA EM RAZÃO DE DOENÇA PREEXISTENTE. AUSÊNCIA DE EXIGÊNCIA DE EXAMES PRÉVIOS PELA SEGURADORA. SÚMULA 609/STJ. NÃO COMPROVAÇÃO DE MÁ-FÉ DA SEGURADA. SÚMULAS 5 E 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (Súmula 609/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A decisão recorrida julgou agravo manifestado em face do juízo de admissibilidade que negou seguimento ao recurso especial interposto por Brasilseg Companhia de Seguros, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Piauí, que, em ação indenizatória, negou provimento ao recurso de apelação, mantendo a decisão que condenou os requeridos ao pagamento da indenização securitária no valor previsto na apólice nº 1075993, correspondente a R$ 300.000,00 (trezentos mil reais), nos termos da seguinte ementa (fls. 485-486):
+DIREITO CIVIL E CÓDIGO DE DEFESA DO CONSUMIDOR. APELAÇÕES CÍVEIS. SEGURO DE VIDA. MORTE DA SEGURADA. NEGATIVA DE COBERTURA SECURITÁRIA EM RAZÃO DE DOENÇA PREEXISTENTE. AUSÊNCIA DE EXIGÊNCIA DE EXAMES PRÉVIOS PELA SEGURADORA. NÃO COMPROVAÇÃO DE MÁ-FÉ DA SEGURADA. SÚMULA 609 DO STJ. APELAÇÕES DESPROVIDAS.
+1. A instituição financeira que atua como intermediária e beneficiária do contrato de seguro de vida detém legitimidade passiva para figurar na demanda. Preliminar afastada.
+2. Preliminar de ilegitimidade ativa afastada, uma vez que houve, no primeiro grau, o aditamento da inicial, de forma a incluir do polo ativo o filho da segurada, beneficiário da apólice do seguro.
+3. Descabe, ainda, falar-se em cerceamento de defesa, máxime porque consta dos autos a apólice de seguro de vida firmada pela falecida segurada na qual afirmou sua concordância com as condições gerais do seguro (ID Num. 8923612), sem qualquer exigência de apresentação de exames médicos pré-contratuais, razão pela qual se afigura totalmente irrelevante a produção de prova pericial médica.
+4. Quanto ao mérito, a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado.
+5. No caso, a aceitação do risco pela seguradora se deu no momento em que ela não procedeu a qualquer ato de verificação das condições de saúde da segurada, assumindo com isso os riscos inerentes à sua atividade, mesmo porque a ela seria lícito exigir que a segurada se submetesse a exames médicos, condicionando a aceitação do risco ao resultado destes.
+6. Os apelantes não se desincumbiram do ônus de comprovar a má-fé da segurada em omitir informações, sendo, portanto, inadmissível que recusem o pagamento do capital segurado ao beneficiário, de acordo com a boa-fé contratual.
+7. Não se observa, ainda, nenhuma ação desenvolvida pela segurada com intenção de enganar a companhia seguradora. O fato de a morte da segurada ter se dado em razão de insuficiência respiratória aguda, metástases pulmonares e neoplasia pulmonar não induz à conclusão de que houve má-fé na contratação do seguro.
+8. Ressalte-se que os apelantes também não comprovaram que a segurada tinha conhecimento de que era portadora de neoplasia antes da contratação do seguro. Assim, não há que se falar em exclusão contratual.
+9. Apelações conhecidas e desprovidas.
+A parte recorrente, ora agravante, alegou que a negativa de produção da prova pericial cerceou seu direito de defesa, impossibilitando comprovar a má-fé da parte agravada. Sustentou que houve omissão de doença preexistente pela parte segurada, o que afasta o dever de indenizar.
+Cuida-se, neste caso, de ação ajuizada por FN de MP contra Companhia de Seguros Aliança do Brasil (Brasilseg) e Banco do Brasil S/A (fls. 7-17), visando à indenização securitária no valor de R$ 300.000,00 (trezentos mil reais) e danos morais de R$ 30.000,00 (trinta mil reais), por negativa de pagamento de seguro de vida sob alegação de doença preexistente não declarada.
+O juiz julgou procedente o pedido, condenando os requeridos ao pagamento da indenização securitária, sob o fundamento de que a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado (fls. 305-309).
+Interposta apelação (fls. 344-363), o Tribunal de Justiça do Estado do Piauí negou provimento ao recurso, mantendo a sentença, sob o fundamento de que os apelantes não se desincumbiram do ônus de comprovar a má-fé da segurada em omitir informações, sendo inadmissível que recusem o pagamento do capital segurado ao beneficiário, de acordo com a boa-fé contratual.
+Conforme pacífica jurisprudência desta Corte, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido. (AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+Quanto ao tema da doença preexistente, incide a Súmula 609/STJ, a qual consigna que "a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado". Inviável, além disso, desconstituir a premissa fática atinente à boa-fé do segurado, em face dos óbices das Súmulas 5 e 7 do STJ.
+Por fim, não conheço da alegação relativa à aplicabilidade da Lei 14.905/2024, por ser matéria estranha à debatida nos autos, constituindo inovação que não se admite em sede de agravo interno.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
