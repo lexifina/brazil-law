@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JOSE DENILSON DE LIMA LEOPOLDINO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA  no julgamento da Apelação Criminal n. 0803345-07.2024.8.15.0001.
+Consta dos autos que o paciente foi condenado à pena de 10 (dez) anos e 3 (três) meses de reclusão, em regime inicial fechado, pela prática do delito capitulado no art. 157, § 2º, II, e § 2º-A, I, combinado com o art. 70, todos do Código Penal.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, porquanto, na terceira etapa da dosimetria da pena, houve cumulação das majorantes relativas ao concurso de agentes e ao emprego de arma de fogo sem justificativa concreta, defendendo a aplicação da regra do art. 68, parágrafo único, para um único aumento de 2/3 (dois terços).
+Concedido o aumento único, aduz que a pena será fixada em patamar inferior a 8 (oito) anos, fazendo jus o paciente à fixação de regime semiaberto, em razão das circunstâncias judiciais favoráveis e ausência de reincidência, nos termos dos artigos 33, § 2º, "b", e § 3º, c/c o art. 59, ambos do Código Penal.
+Requer, em suma, o redimensionamento da pena, com a consequente alteração do regime inicial de cumprimento para o semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou o entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Ademais, não há como reconhecer a presença de manifesta ilegalidade quanto à matéria relativa à cumulação de majorantes na dosimetria da pena, pois, do que consta dos autos, não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. PEDIDO NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O habeas corpus foi impetrado contra acórdão já transitado em julgado. Diante dessa situação, o writ não deve ser conhecido, pois foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+2. Não há manifesta ilegalidade na dosimetria a reclamar a concessão da ordem, pois a tese suscitada não foi analisada pela Corte local, motivo pelo qual incabível o exame de tal questão, de forma originária, por este Sodalício, sob pena de indevida supressão de instância.
+3. Agravo regimental não provido. (AgRg no HC n. 888.166/SP, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 21.6.2024.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNGIBILIDADE RECURSAL. TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FALTA DE JUSTA CAUSA. BIS IN IDEM NA DOSIMETRIA. APLICAÇÃO DE REGIME MAIS BRANDO. MATÉRIAS NÃO APRECIADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT ORIGINÁRIO NÃO CONHECIDO. CONDENAÇÃO TRANSITADA EM JULGADO. CABIMENTO DE REVISÃO CRIMINAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Petição recebida como agravo regimental, em homenagem ao princípio da fungibilidade, tendo em vista ausência de previsão legal de pedido de reconsideração. Precedentes.
+2. As teses suscitadas pela defesa (violação de domicílio, bis in idem na dosimetria da pena e necessidade de alteração do regime prisional) não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+3. Não há ilegalidade na decisão do Tribunal de origem que não conheceu do writ originário manejado como substitutivo de revisão criminal. Isso porque a impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de desconstituir sentença condenatória definitiva é indevida, sobretudo quando a análise das teses constantes do writ substitutivo demandam revolvimento fático-probatório.
+4 . Agravo regimental desprovido. (RCD no HC n. 904.224/AM, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22.6.2023; AgRg no HC n. 899.551/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29.4.2024; AgRg no HC n. 897.496/MS, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 23.4.2024; AgRg no HC n. 879.253/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 21.3.2024; AgRg no HC n. 882.227/RJ, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 18.32024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
