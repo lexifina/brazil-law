@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Gurgel de Faria, Paulo Sérgio Domingues, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. JULGAMENTO DE PROCESSO ADMINISTRATIVO.I IMPOSSIBILIDADE DE APLICAÇÃO DO CPC. PROCEDIMENTO EM ACORDO COM AS NORMAS ADMINISTRATIVAS. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ APRECIADA. EMBARGOS REJEITADOS.
+I. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+II. Da leitura atenta do voto condutor, nota-se que o acórdão embargado se manifestou de maneira clara e embasada consignando que o adiamento do processo administrativo foi oportunamente cientificado ao causídico e ocorreu em estrita observância às normas administrativas.
+III. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos em face ao acórdão assim ementado (fls. 1.232/1.233e):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PENA DE DEMISSÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. RECURSO ADMINISTRATIVO. JULGAMENTO ADIADO SEM NOVA PUBLICAÇÃO DE PAUTA. AUSÊNCIA DE NULIDADE. INTIMAÇÃO REALIZADA. DESÍDIA CARACTERIZADA. AÇÃO REITERADA DO SERVIDOR. PREVIAMENTE PUNIDA COM A PENA DE SUSPENSÃO. INCIDÊNCIA DA SÚMULA 650/STF.
+I. Não há falar em nulidade do Processo Administrativo Disciplinar - PAD por cerceamento de defesa, em razão do adiamento da sessão de julgamento do recurso administrativo, uma vez que foram observadas as normas administrativas para cientificação do causídico acerca do adiamento da sessão de julgamento do recurso administrativo.
+II. Em processo administrativo disciplinar, apenas se declara a nulidade de um ato processual quando houver efetiva demonstração de prejuízo à defesa, por força da aplicação do princípio pas de nullité sans grief, não havendo efetiva comprovação, pelo Impetrante, de prejuízos por ele suportados, e, concluir em sentido diverso,demandaria dilação probatória, o que não é possível em sede de mandado de segurança, no qual se exige prova documental pré-constituída.
+III. A caracterização da conduta desidiosa, para configurar causa motivadora da pena disciplinar máxima de demissão, deve levar em conta a reiteração do comportamento ilícito e/ou a consequência dele advinda, sob pena de se afrontarem os princípios da razoabilidade e da proporcionalidade previstos no art. 2º da Lei n. 9.784/1999.
+IV. No caso, a conduta do servidor já havia sido objeto de outros PA Ds, com aplicação de pena de suspensão, totalizando o descumprimento de mais de 100 mandados.
+V. É firme o entendimento no âmbito do Supremo Tribunal Federal e desse SuperiorTribunal de Justiça no sentido de que o mandado de segurança não é a via adequada para o exame da suficiência do conjunto fático-probatório constante do Processo Administrativo Disciplinar - PAD, a fim de verificar se o impetrante praticou ou não os atos que foram a ele imputados e que serviram de base para a imposição de penalidade administrativa, porquanto exige prova pré-constituída e inequívoca do direito líquido e certo invocado. O controle jurisdicional do PAD restringe-se ao exame da regularidade do procedimento e a legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, sendo-lhe defesa qualquer incursão no mérito administrativo, a impedir a análise e valoração das provas constantes no processo disciplinar.
+VI. A teor da Súmula n. 650 desta Corte, " a  autoridade administrativa não dispõe de discricionariedade para aplicar ao servidor pena diversa de demissão quando caraterizadas as hipóteses previstas no art. 132 da Lei n. 8.112/1990".
+VII. Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VIII. Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX. Agravo Interno improvido.
+O embargante argumenta que o acórdão deixou de enfrentar a tese da defesa em que se argumenta acerca da legítima expectativa da publicação da última pauta de julgamento. Pondera que ainda que fosse desnecessária a nova publicação da pauta de julgamento, seria possível verificar a nulidade vinda da quebra de expectativa positiva construída ao jurisdicionado.
+Sustenta, ainda, omissão acerca dos julgados colacionados e sobre o efetivo prejuízo sofrido pela parte.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. JULGAMENTO DE PROCESSO ADMINISTRATIVO.I IMPOSSIBILIDADE DE APLICAÇÃO DO CPC. PROCEDIMENTO EM ACORDO COM AS NORMAS ADMINISTRATIVAS. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUTIR A MATÉRIA JÁ APRECIADA. EMBARGOS REJEITADOS.
+I. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+II. Da leitura atenta do voto condutor, nota-se que o acórdão embargado se manifestou de maneira clara e embasada consignando que o adiamento do processo administrativo foi oportunamente cientificado ao causídico e ocorreu em estrita observância às normas administrativas.
+III. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+Da leitura atenta do voto condutor, nota-se que o acórdão embargado se manifestou de maneira clara e embasada consignando: (i) a impossibilidade de aplicação do art. 935 do CPC, porquanto se trata de sustentação oral em processo administrativo; (b) comprovação da ciência inequívoca acerca do adiamento com a expressa essalva de que o julgamento se daria independentemente de nova publicação, conforme previsto no Regimento Interno do Tribunal de Justiça do Piauí, no qual há expressamente a dispensa de nova publicação em casos de adiamento para a sessão subsequente.
+Pontuou-se, ainda, quenão se verificou ter havido qualquer objeção quanto à previsão de desnecessidade de nova publicação, ao contrário, apenas foi questionado o procedimento após o resultado desfavorável do julgamento.
+Não há, portanto, qualquer omissão a ser sanada na hipótese.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado, esclarecer obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do CPC de 2015, não se prestando para rediscutir a lide.
+2. Não são cabíveis embargos de declaração, quando a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e sim rediscutir o que ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+3. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1.805.918/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/09/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONFLITO DE COMPETÊNCIA. DIREITO À SAÚDE. COMPETÊNCIA DA JUSTIÇA ESTADUAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Na espécie, o acórdão embargado foi expresso quanto ao exame da controvérsia, adotando o posicionamento então dominante nesta Primeira Seção segundo o qual se deve conhecer do conflito e reconhecer a competência da Justiça estadual para o processamento e julgamento da controvérsia.
+3. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida de maneira fundamentada, o que não é possível por meio dos embargos de declaração.
+4. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando. 5. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no CC n. 186.983/SC, Rel. Min. Paulo Sérgio Domingues, Primeira Seção, DJe de 2/3/2023.)
+Ausente, portanto, omissão a ser suprida.
+Pelo exposto, rejeito os embargos de declaração.
+É como voto.
