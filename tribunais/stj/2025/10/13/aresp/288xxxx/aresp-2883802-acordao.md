@@ -1,0 +1,122 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo interposto contra decisão que não admitiu recurso especial, fundamentada na inexistência de violação ao art. 1.022 do Código de Processo Civil e na aplicação da Súmula nº 7 deste Superior Tribunal de Justiça, considerando que a análise do decaimento das partes na lide, para aferir a proporção da sucumbência, implicaria revisão de matéria fático-probatória.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível revisar, em sede de recurso especial, a proporção da sucumbência recíproca entre as partes, considerando o princípio da causalidade e os elementos fático-probatórios dos autos.
+III. Razões de decidir
+3. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula nº 7 do STJ.
+4. No aspecto considerado, coincide portanto a decisão de inadmissibilidade do recurso especial com a jurisprudência desta Corte, não merecendo reparo.
+IV. Dispositivo
+5. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial com fundamento na inexistência da alegada violação ao artigo 1.022 do Código de Processo Civil pelo acórdão recorrido, e ainda na Súmula nº 7 desta Corte Superior, já que a análise do decaimento de cada uma das partes na lide com o intuito de aferir a proporção da sucumbência implicaria revisão de matéria fático-probatória.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo interposto contra decisão que não admitiu recurso especial, fundamentada na inexistência de violação ao art. 1.022 do Código de Processo Civil e na aplicação da Súmula nº 7 deste Superior Tribunal de Justiça, considerando que a análise do decaimento das partes na lide, para aferir a proporção da sucumbência, implicaria revisão de matéria fático-probatória.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível revisar, em sede de recurso especial, a proporção da sucumbência recíproca entre as partes, considerando o princípio da causalidade e os elementos fático-probatórios dos autos.
+III. Razões de decidir
+3. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula nº 7 do STJ.
+4. No aspecto considerado, coincide portanto a decisão de inadmissibilidade do recurso especial com a jurisprudência desta Corte, não merecendo reparo.
+IV. Dispositivo
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+Trata-se de Recurso Especial (ID 36683277) interposto, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido em sede de Apelação Cível, integrado pelo julgamento de Embargos de Declaração (ID 33367053 e ID 35850224).
+Consta na ementa do acórdão recorrido (ID 32151333):
+EMENTA - AÇÃO DE COBRANÇA SECURITÁRIA (DPVAT). INDENIZAÇÃO. CORREÇÃO MONETÁRIA. ENCOGE. ALTERAÇÃO PARA IGPM. IMPOSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. MANUTENÇÃO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE. REFORMA PARCIAL DA SENTENÇA.
+1. Para a indenização do seguro obrigatório DPVAT, deve ser mantido o índice de correção monetária fixado na sentença, qual seja, a tabela do ENCOGE, não sendo possível a substituição para o IGPM. Precedentes TJPE.
+2. De acordo com o disposto no Art. 85, 2º do NCPC, e considerando os requisitos legais exigidos - o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e importância da causa; e, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço -, na hipótese dos autos, deve ser majorado de 10% (dez por cento) para 20% (vinte por cento) sobre o valor da condenação.
+3. Recurso de apelação parcialmente provido, tão somente para majorar os honorários advocatícios de 10% (dez por cento) para 20% (vinte por cento) sobre o valor da condenação.
+Os embargos de declaração rejeitados (ID 35850224)
+Nas razões recursais (ID 36683277), a Recorrente afirma que o acórdão recorrido violou os artigos 82, § 2, 85, caput, e 1.022, II, todos do CPC.
+Defende, em síntese, que o acórdão recorrido não se manifestou sobre todos os pontos suscitados nos embargos de declaração. Portanto, deixou de apreciar questões indispensáveis para completa solução da questão.
+Sustenta que o acórdão recorrido não observou a legislação vigente ao manter a condenação da ora Recorrente ao pagamento das custas e honorários advocatícios sucumbenciais, "mesmo a ação tendo sido julgada procedente". Acrescentando que, no caso de procedência do pedido, deverá o "ônus de sucumbência ser imputado à parte vencida ou a quem deu causa a ação, em observância ao princípio da sucumbência e causalidade.
+Assegura, ainda, que os honorários advocatícios sucumbenciais, nas causas em que o valor da condenação for pequeno, deverá ser fixado por equidade, mas com observância dos valores recomendados pelo conselho seccional da OAB.
+Alega, ademais, que o entendimento proferido por este e. TJPE divergiria do firmado pelo e. TJMS (Apelação Cível nº 0800290-06.2013.8.12.2005), visto que no acórdão paradigma foi reconhecida a sucumbência integral da seguradora (DPVAT), diante da procedência do pedido indenizatório e da resistência à pretensão da parte autora.
+Pugna, ao final, pelo provimento do recurso especial para anular o acórdão recorrido, no sentido de afastar a obrigatoriedade do rateio dos honorários de sucumbência e fixar os honorários sucumbenciais, por equidade, com base na tabela do conselho seccional da OAB.
+Contrarrazões apresentadas (ID 37377968).
+É o relatório. DECIDO.
+O recurso excepcional em análise atende aos requisitos recursais atinentes à representação processual válida, tempestividade e preparo.
+1. Da inexistência de omissão - ausência de violação ao art. 1.022, do CPC
+De início, não se verifica afronta ao artigo 1.022, do CPC, pois, com clareza e harmonia entre suas proposições, o acórdão recorrido contém motivação suficiente para justificar o decidido, evidenciando o enfrentamento das questões realmente relevantes para o deslinde - com segurança jurídica - da controvérsia que subsidia a causa.
+Com efeito, está claro que a intenção do ora Recorrente é rediscutir a matéria. Tanto que pretende trazer à baila a existência de omissão no julgado ao argumento de que o Colegiado não teria analisado todas as questões jurídicas por ele suscitadas.
+Neste particular, relativamente à omissão como defeito do julgado suprível na via dos declaratórios, doutrina e jurisprudência o vislumbram configurado quando o fundamento adotado não basta para justificar o concluído na decisão, em regra por não ter sido analisado elemento do processo (tese, prova ou circunstância) que, (i) tendo sido a tempo e modo agitado pela parte e (ii) sendo efetivamente relevante para o desate da vexata quaestio com segurança jurídica, sobre ele o Estado-juiz deve se pronunciar.
+Por isso que está sedimentado o entendimento de não haver omissão no acórdão que, com fundamentação suficiente, ainda que não exatamente a invocada pela parte, decide de modo integral a controvérsia posta, como ocorreu no caso em análise, conforme se depreende de trecho extraído do voto relator, in verbis (ID 34821206):
+"(..) Como bem consignei no relatório, a parte embargante defende a necessidade de esclarecimento acerca do pagamento dos honorários de sucumbência.
+No entanto, em que pese a dúvida, entendo que a parte dispositiva do acórdão embargado se encontra clara o suficiente ao mencionar o provimento parcial do apelo "tão somente para majorar a verba honorária de 10% (dez por cento) para 20% (vinte por cento) sobre o valor da condenação".
+Verifica-se, então, que houve apenas a majoração do percentual. Logo, a sucumbência recíproca fora mantida.
+Cuido, ainda, não merecer acolhida o pedido referente a quantificação da verba honorária, porquanto inexiste qualquer vício do Art. 1022, do NCPC, mas apenas de mera irresignação da embargante com o resultado alcançado, desviando a essência do instituto com fins nitidamente de revisão do julgado, hipótese inconcebível na estreita via dos aclaratórios.
+Assim sendo, havendo o enfrentamento dos pontos controvertidos da demanda por meio de decisão refletida e balizada em entendimento legal e jurisprudencial, respeitando os argumentos e o substrato probatório das partes, deve ser mantido o decisum embargado. (..)" omissões nossas.
+Nesta linha de raciocínio, é o entendimento do c.STJ, conforme se depreende dos seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO PARA AFETAÇÃO DO CASO AO REGIME DOS RECURSOS REPETITIVOS. DESCABIMENTO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. CONCLUSÕES DA CORTE ORIGINÁRIA PAUTADAS EM FATOS E PROVAS. REVISÃO INVIÁVEL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. ALEGAÇÃO DE IMPOSSIBILIDADE DE APRESENTAÇÃO DE PROVAS EM SEDE DE CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO ANUAL DOS DOCUMENTOS. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+(..) 2. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..) 7. Agravo interno desprovido. (AgInt no AREsp n. 2.254.859/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/4/2024, DJe de 7/5/2024.) omissões e negritos nossos.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, § 1º, E 1.022, I, DO CPC. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. PRÉDIO CONSTRUÍDO EM SOLO CONTAMINADO. INDENIZAÇÃO. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. DANOS MORAIS. DISTRIBUIÇÃO DA SUCUMBÊNCIA. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICOPROBATÓRIO. SÚMULA N. 7 DO STJ. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. ARBITRAMENTO DA INDENIZAÇÃO POR DANOS MORAIS. TAXA SELIC. INCIDÊNCIA. SUBSTITUIÇÃO DO INDEXADOR E DOS JUROS DE MORA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+(..) 5. Agravo interno parcialmente provido. (AgInt no AREsp n. 2.140.598/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.) omissões e negritos nossos.
+2. Da aplicação do enunciado da súmula 7, do STJ
+Ademais, percebe-se que a pretensão recursal de fundo é rediscutir, por via transversa, a matéria de fato já analisada no julgamento da Apelação Cível, de modo a ocasionar um novo juízo de convicção, esbarrando no enunciado da Súmula 7 1 , do c. STJ.
+Com efeito, a análise acerca do decaimento de cada uma das partes na lide, com o intuito de aferir a proporção da sucumbência, assim como a aferição da impossibilidade de condenação da parte Recorrente em custas processuais e honorários advocatícios sucumbenciais, em virtude do princípio da causalidade, implicariam em revisão da matéria fática e probatória.
+Neste sentido, é o entendimento do c. STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DPVAT. CORREÇÃO MONETÁRIA. CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..) 2. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 1.762.436/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/4/2021, DJe de 12/5/2021.) omissões e negritos nossos.
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+(..) 2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. A revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame elementos fáticos e probatórios dos autos, incidindo a Súmula 7 do STJ. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.376.134/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.) omissões e negritos nossos.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ALEGAÇÃO DE NÃO OCORRÊNCIA DE DANOS MORAIS. PRETENSÃO DE REDISCUTIR A DISTRIBUIÇÃO DA SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia.
+(..) 3. "Revisar a conclusão do Tribunal de origem acerca da distribuição dos ônus da sucumbenciais, feita com base no princípio da causalidade, encontra óbice na Súmula n. 7/STJ" (AgInt no AREsp 2.189.349/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.518.247/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024.) omissões e negritos nossos.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. CONTRATO DE FRANQUIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. MULTA CONTRATUAL. REDUÇÃO. IMPOSSIBILIDADE. SÚMULAS Nº 5 E 7/STJ. PAGAMENTO DOS INSUMOS E PRODUTOS. LEGITIMIDADE. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. PARÂMETROS. OBSERVÂNCIA. SUCUMBÊNCIA. REDISTRIBUIÇÃO. SÚMULA Nº 7/STJ. DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS. CARACTERIZAÇÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. MULTA. CORREÇÃO MONETÁRIA. PREVISÃO CONTRATUAL. ANÁLISE. SÚMULA Nº 5 E Nº 7/STJ.
+(..) 4. O tribunal de origem obedeceu a gradação estabelecida pela lei e pela Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072-PR, de forma que, havendo condenação, os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor desta.
+5. A jurisprudência pacífica desta Corte é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferição de sucumbência recíproca ou mínima, implica reexame de matéria fático-probatório, incidindo a Súmula nº 7/STJ.
+(..) 10. Agravo interno não provido. (AgInt no AREsp n. 2.374.688/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.) omissões e negritos nossos.
+Isto posto, rever o entendimento do Colegiado sobre a questão trazida para julgamento - (in)existência da sucumbência recíproca -, implicaria, necessariamente, no reexame do conjunto fático-probatório dos autos, finalidade, repita-se, que escapa ao âmbito do recurso especial, nos termos da citada súmula obstativa.
+3. Dissídio jurisprudencial prejudicado
+Considerando o reconhecimento do óbice da súmula acima mencionada, e a consequente inadmissão do recurso especial com fundamento no art. 105, III, alínea "a", da CF/88, fica prejudicado o exame do dissídio jurisprudencial invocado com fundamento na alínea "c" do mesmo dispositivo.
+Nesse sentido:
+ ..  5. Segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica. 6. Agravo interno não provido. (AgInt no AREsp n. 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/9/2023, DJe de 13/9/2023.) omissões nossas
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, INADMITO o presente Recurso Especial.
+Intimações necessárias.
+ Grifos próprios
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise dos autos indica que a Corte de origem adotou entendimento em harmonia com o perfilhado pela jurisprudência desta Corte Superior, o que atrai a incidência do comando da Súmula nº 83 deste Superior Tribunal de Justiça ("não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Com efeito, em demandas com a mesma causa de pedir, este Colegiado vem se manifestando da seguinte forma:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. ENTREGA DE MERCADORIA. INVERSÃO DO ÔNUS DA PROVA. PRECLUSÃO. INCIDÊNCIA DOS ÓBICES DAS SÚMULAS 5, 7 E 283 DO STF/STJ. AGRAVO INTERNO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze, que conheceu do agravo para não conhecer do recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo em ação monitória. A parte agravante alegou negativa de prestação jurisdicional, incompetência territorial, ausência de prova do recebimento das mercadorias, inversão indevida do ônus da prova, erro no termo inicial da correção monetária e erro na distribuição dos ônus sucumbenciais. II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão:(i) verificar se houve negativa de prestação jurisdicional quanto aos temas da correção monetária e sucumbência;(ii) examinar se o acórdão incorreu em erro ao reconhecer a competência territorial da comarca da praça de pagamento;(iii) determinar se a análise do recebimento das mercadorias e da inversão do ônus da prova violou normas legais;(iv) avaliar a possibilidade de reexame das matérias relativas à correção monetária e à sucumbência em recurso especial. III. RAZÕES DE DECIDIR
+3. O acórdão recorrido apreciou fundamentadamente todas as questões postas, inexistindo omissão ou negativa de prestação jurisdicional, o que afasta a alegada violação aos arts. 489 e 1.022 do CPC.
+4. A decisão reconheceu a competência do foro da praça de pagamento indicada nas duplicatas e notas fiscais, com base em provas documentais e interpretação contratual, o que atrai a incidência das Súmulas 5 e 7 do STJ.
+5. Quanto à alegação de ausência de recebimento das mercadorias, o acórdão baseou-se na teoria da aparência e no conteúdo das notas fiscais com canhotos assinados. Além disso, houve preclusão quanto à produção de prova pericial, fato também já julgado e coberto por coisa julgada. A revisão desse entendimento demanda reexame de provas, vedado pela Súmula 7 do STJ.
+6. A alegação de sucumbência recíproca também não pode ser conhecida, por demandar reanálise do grau de decaimento das partes, o que encontra óbice na Súmula 7 do STJ.
+7. Parte dos fundamentos do acórdão recorrido não foi impugnada nas razões do recurso especial, especialmente quanto à ausência de interesse recursal e à preclusão da prova, atraindo a incidência da Súmula 283 do STF por analogia. IV. DISPOSITIVO
+8. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.778.499/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. REDIMENSIONAMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRESCRIÇÃO. CLÁUSULA DE ÊXITO. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA. JUROS DE MORA. ART. 406 DO CC. TAXA SELIC. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO.
+1. Ação de arbitramento de honorários.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático probatória, incidindo a Súmula 7/STJ.
+4. De acordo com a jurisprudência desta Corte, a existência de cláusula quota litis em contrato de prestação de serviços advocatícios faz postergar o início da prescrição até o momento da implementação da condição suspensiva, o que ocorre com o trânsito em julgado da sentença, momento a partir do qual o procurador poderá exigir os respectivos honorários contratuais. Precedentes.
+5. A Corte Especial, recentemente, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária.
+Precedentes.
+6.Nos termos da jurisprudência desta Corte, os juros de mora são decorrência lógica da condenação e devem incidir sobre a verba advocatícia, desde que haja mora do devedor, a qual somente ocorre a partir do momento em que se verifica a exigibilidade da condenação, vale dizer, do trânsito em julgado.
+7. Recurso especial parcialmente conhecido e parcialmente provido.
+(REsp n. 2.176.961/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
