@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento .
+RELATÓRIO
+Trata-se de agravo interno interposto por TOPSEAL COMÉRCIO E SERVIÇOS DE TRATAMENTO DE SUPERFÍCIES LTDA contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido em virtude da ausência de impugnação específica ao fundamento de inadmissibilidade do recurso especial, qual seja, a incidência da Súmula 7/STJ (fls. 850-851).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que houve impugnação implícita e suficiente ao fundamento de inadmissibilidade, sustentando que as questões suscitadas no recurso especial são de direito e não demandam reexame de matéria fática.
+Argumenta que a aplicação de astreintes em valor superior ao da obrigação principal afronta o art. 884 do Código Civil e que a inversão do ônus da prova foi realizada sem a devida fundamentação, em violação ao art. 373, I, do Código de Processo Civil.
+Impugnação ao agravo interno às fls. 863-865, na qual a parte agravada alega que as questões deduzidas no recurso especial demandam reexame de matéria fática e probatória, o que atrai a incidência da Súmula 7/STJ. Sustenta, ainda, que não houve impugnação específica ao fundamento de inadmissibilidade do recurso especial, conforme exige o art. 1.021, § 1º, do Código de Processo Civil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento .
+VOTO
+O recurso não merece prosperar.
+De início, destaco que a decisão que não admitiu o recurso especial consignou que a análise de eventual contrariedade aos artigos 884 do Código Civil e 373, I, do Código de Processo Civil esbarra no óbice da Súmula 7/STJ, uma vez que a conclusão sobre o acerto ou desacerto do acórdão recorrido demandaria sensível incursão no acervo fático-probatório dos autos (fls. 819-820).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que as astreintes impostas são desproporcionais e que a inversão do ônus da prova foi realizada de forma indevida, sem, contudo, demonstrar de forma concreta e específica a inaplicabilidade da Súmula 7/STJ ao caso.
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+No mais, ressalto que, ainda que fosse superado tal óbice, o recurso especial da parte certamente não seria provido.
+Com efeito, alegou-se, em recurso especial violação aos arts. 884 do CC, já que a multa aplicada seria exorbitante e extrapolaria o caráter coercitivo (fls. 791-793), e 373, I, do CPC, uma vez que teria ocorrido indevida inversão do ônus da prova (fls. 793-795).
+Ocorre que tais questões foram devidamente apreciadas na Corte de origem, que entendeu ser viável a inversão do ônus da prova, bem como razoável a multa aplicada, tudo diante das circunstâncias do caso concreto, como se vê abaixo (fls. 773 e 775:
+In casu, nota-se que os recorrentes pleiteiam o afastamento da regra, em virtude de as peças enviadas com supostos defeitos terem sido recebidas por profissionais capacitados para atestar a qualidade dos itens.
+Entretanto, ainda que os agravados estejam sendo assessorados por profissionais com conhecimento para tal ateste, tal, de per si, não tem o condão de afastar a relação consumerista que se da entre as empresas agravantes e os particulares, visto que a relação jurídica estabelecida é entre os autores e os ora recorrentes e não com terceiros estranhos à lide.
+Diante disso, da relação contratual firmada pelas partes, não se extrai outra conclusão senão tratar-se de relação consumerista, adotando o conceito de consumidor da teoria finalista mitigada, se emoldurando na definição de destinatário final inserta no artigo 2º do CDC, estando os particulares em posição de hipossuficiência técnica, jurídica ou econômica diante dos agravados.
+Portanto, a hipossuficiência técnica dos recorridos é presumida, uma vez que as empresas recorrentes têm recursos superiores para produzir provas e documentos sobre a relação de consumo estabelecida entre as partes.
+ ..  Destarte, demonstrada a aplicação do Código de Defesa do Consumidor e a notória hipossuficiência dos recorridos, a manutenção da inversão do ônus da prova é medida impositiva.
+ ..  Cumpre ressaltar, com relação a esse ponto, que houve interposição do agravo de instrumento de n. 5716824-20.2023.8.09.0051, o qual deu parcial provimento a pretensão do ora recorrente, reduzindo a multa diária para R$ 1.000,00 (mil reais) por dia, limitando a sua incidência ao prazo de 30 (trinta) dias.
+Observa-se que tal limitação ocorrera após a última fixação de multa pelo condutor processual a quo e restou acobertada pelo manto da coisa julgada, com as limitações supramencionadas.
+Por outro lado, outra multa foi fixada no decisum recorrido, não mais para entrega dos materiais, mas para que as recorrentes realizem "a prestação dos serviços de remoção de sujeiras, resíduos e tratamento hidro e óleo repelente (impermeabilização) das superfícies em concreto pré-moldado dos revestimentos adquiridos pelos autores, no prazo de 15 (quinze) dias da data desta sentença" e complementa que tal é devida "sem prejuízo das demais multas já cominadas nos autos".
+Logo, para efetivar o fiel cumprimento do pacto, necessária a imposição de multa, a qual não se mostra destoante do que já entendeu esta Corte de Justiça, inclusive quando do julgamento do agravo de instrumento de n. 5716824- 20.2023.8.09.0051, que reduziu a multa outrora aplicada para os exatos patamares fixados pelo condutor processual na origem.
+Da fundamentação acima, observa-se argumentação adequada e fundada nas provas juntadas ao processo, sem indício algum de ilegalidade manifesta.
+Logo, na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7/ STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
