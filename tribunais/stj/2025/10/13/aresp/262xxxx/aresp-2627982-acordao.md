@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DE RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 10, 278, 489, §1º, IV, E 1.022, I A III, DO CÓDIGO DE PROCESSO CIVIL, BEM COMO AOS ARTS. 125, 320, 421-A E 422 DO CÓDIGO CIVIL. SUPOSTA OMISSÃO E DECISÃO-SURPRESA. INOCORRÊNCIA. APLICAÇÃO DE REGRA GERAL SOBRE ÔNUS DA PROVA. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. MULTA DO ART. 1.021, §4º, CPC. INAPLICABILIDADE. AGRAVO NÃO CONHECIDO. HONORÁRIOS MAJORADOS.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de ausência de indicação clara de omissão e necessidade de reexame de matéria fático-probatória, vedado pelas Súmulas 5 e 7 do STJ.
+II. Questão em discussão
+2. Suposta violação a dispositivos do Código de Processo Civil e do Código Civil em razão de: (i) alegada omissão do acórdão recorrido; (ii) nulidade processual por decisão-surpresa; (iii) interpretação equivocada de provas e cláusulas contratuais relativas ao pagamento parcial de dívida reconhecida em embargos à execução.
+III. Razões de decidir
+3. O acórdão recorrido analisou de forma clara e suficiente as questões necessárias ao deslinde da controvérsia, não configurando omissão, obscuridade ou contradição.
+4. Alegada decisão-surpresa afastada. Aplicação de regra geral acerca do ônus da prova dispensa prévio contraditório. Precedentes.
+5. A pretensão de revisão das conclusões do colegiado demandaria reexame de matéria fático-probatória e interpretação de cláusulas contratuais, o que encontra óbice na s Súmulas 5 e 7 do STJ.
+6. Inaplicabilidade da multa do art. 1.021, § 4º, do CPC, nos casos de não provimento de agravo em recurso especial.
+IV. Dispositivo
+7. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial (e-STJ, fls. 837-880) interposto contra decisão que inadmitiu o recurso especial sob argumento de que a agravante não indicou de maneira clara a existência de omissão, obscuridade e/ou contradição no acórdão recorrido, bem como que a modificação da conclusão do Colegiado passaria pela seara fático-probatória, análise vedada em recurso especial conforme as Súmulas 5 e 7/STJ (e-STJ, fls. 831-833).
+Segundo a agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+A controvérsia trazida pelo agravante versa sobre suposta omissão do acórdão recorrido e violação de dispositivos legais infraconstitucionais. Neste contexto, verifica-se que o Tribunal de Justiça de Goiás negou provimento a apelação interposta pela agravada contra sentença exarada em embargos à execução, afastando a alegação de cerceamento de defesa e, após exame exauriente da documentação constante dos autos, manteve a sentença que reconheceu o pagamento parcial do débito (e-STJ, fls. 664-674).
+A agravante opôs dois embargos de declaração contra o acórdão, tendo sido os dois aclaratórios rejeitados (e-STJ, fls. 715-720; fls. 762-768).
+Em recurso especial (e-STJ, fls. 772-809), o agravante alega violação ao artigo 10, artigo 278, artigo 489, § 1º, inciso IV, e artigo 1.022, incisos I, II e III, todos do Código de Processo Civil, bem como aos artigos 125, 421-A e 320, do Código Civil.
+Intimadas nos termos do artigo 1.042, § 3º, do Código de Processo Civil, os agravados manifestaram-se pelo não provimento do recurso, com imposição de multa à agravante nos termos do artigo 1.201, § 4º, do Código de Processo Civil (e-STJ, fls. 885-894).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DE RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AOS ARTS. 10, 278, 489, §1º, IV, E 1.022, I A III, DO CÓDIGO DE PROCESSO CIVIL, BEM COMO AOS ARTS. 125, 320, 421-A E 422 DO CÓDIGO CIVIL. SUPOSTA OMISSÃO E DECISÃO-SURPRESA. INOCORRÊNCIA. APLICAÇÃO DE REGRA GERAL SOBRE ÔNUS DA PROVA. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. MULTA DO ART. 1.021, §4º, CPC. INAPLICABILIDADE. AGRAVO NÃO CONHECIDO. HONORÁRIOS MAJORADOS.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de ausência de indicação clara de omissão e necessidade de reexame de matéria fático-probatória, vedado pelas Súmulas 5 e 7 do STJ.
+II. Questão em discussão
+2. Suposta violação a dispositivos do Código de Processo Civil e do Código Civil em razão de: (i) alegada omissão do acórdão recorrido; (ii) nulidade processual por decisão-surpresa; (iii) interpretação equivocada de provas e cláusulas contratuais relativas ao pagamento parcial de dívida reconhecida em embargos à execução.
+III. Razões de decidir
+3. O acórdão recorrido analisou de forma clara e suficiente as questões necessárias ao deslinde da controvérsia, não configurando omissão, obscuridade ou contradição.
+4. Alegada decisão-surpresa afastada. Aplicação de regra geral acerca do ônus da prova dispensa prévio contraditório. Precedentes.
+5. A pretensão de revisão das conclusões do colegiado demandaria reexame de matéria fático-probatória e interpretação de cláusulas contratuais, o que encontra óbice na s Súmulas 5 e 7 do STJ.
+6. Inaplicabilidade da multa do art. 1.021, § 4º, do CPC, nos casos de não provimento de agravo em recurso especial.
+IV. Dispositivo
+7. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+No agravo em recurso especial (e-STJ, fls. 837-880), o agravante alega violação ao artigo 10, artigo 278, artigo 489, § 1º, inciso IV, e artigo 1.022, incisos I, II e III, todos do Código de Processo Civil, bem como aos artigos 125, 421-A e 320, do Código Civil.
+Sustenta omissão do órgão colegiado, o qual teria deixado de apreciar todos os argumentos apresentados pelo agravante.
+Defende a nulidade da sentença do Juízo de origem sob fundamento de que promoveu "inversão tumultuária do processo", pois a controvérsia acerca do valor do débito não poderia ter ocorrido nos embargos à execução após a sentença que, na execução em apenso, converteu a execução para entrega de coisa em execução por quantia certa.
+Aponta que o Tribunal de origem fundamentou sua decisão em argumento acerca do qual não deu à agravante oportunidade de se manifestar.
+Aduz que o colegiado julgador interpretou as provas constantes dos autos de maneira contrária à legislação, mormente aos artigos 125, 421-A e 422, do Código Civil, bem como deixou de observar o artigo 320 do Código Civil ao apreciar o recibo nº 1.344, o qual, no entender da agravante, não permite concluir pela quitação da Cédula de Produto Rural executada.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma das decisões recorridas, cujas ementas foram assim redigidas (e-STJ, fls. 664-674; fls. 715-720; fls. 762-768):
+EMENTA: DUPLA APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CERCEAMENTO DE DEFESA AFASTADO. PAGAMENTO PARCIAL DA DÍVIDA. ÔNUS DA PROVA. ART. 940 DO CÓDIGO CIVIL. MÁ-FÉ NÃO COMPROVADA. DEVER DE INDENIZAR NÃO CONFIGURADO.
+1. Resta afastado o alegado cerceamento de defesa, sobretudo ao credor que não se desincumbiu do encargo de comprovar o mencionado prejuízo, nos termos da Súmula 28 deste TJGO.
+2. No caso, caberia ao exequente/primeiro apelante do seu ônus acostar os comprovantes de pagamento das mencionadas duplicatas, a fim de comprovar que elas não dizem respeito à CPR objeto da execução, ônus do qual não se desincumbiu.
+3. Deve ser mantida a sentença que reconheceu o pagamento parcial da dívida, prosseguimento a execução somente quanto ao valor remanescente.
+4. O adimplemento parcial do débito não era evidente, porquanto necessitou da devida instrução probatória para sua constatação, o que afasta a alegada má-fé da parte credora a ensejar indenização pelo art. 940 do Código Civil, bem como danos morais.
+5. Desprovido o primeiro recurso de apelação, cumpre majorar os honorários sucumbenciais fixados na sentença, para 12% (doze por cento), em desfavor do primeiro apelante, sucumbente na sentença, nesta seara recursal (art. 85, § 11, do CPC).
+APELAÇÕES CÍVEIS DESPROVIDAS.
+EMENTA: EMBARGOS DECLARATÓRIOS EM APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PAGAMENTO PARCIAL DA DÍVIDA. OMISSÃO E OBSCURIDADE. VÍCIOS NÃO CONFIGURADOS. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Nos termos do art. 1.022 do CPC, os embargos declaratórios objetivam, exclusivamente, rever decisões que apresentam falhas ou vícios, como obscuridade, contradição, omissão, ou erro material, a fim de garantir a harmonia lógica, a inteireza e a clareza da decisão embargada.
+2. Conforme suficientemente fundamentado no acórdão embargado, o ônus de provar que o pagamento parcial seria referente a outro negócio jurídico era do credor, encargo do qual não de desincumbiu, presumindo-se que se trata de pagamento parcial da CPR 001 A/14, datada de 06.02.2014.
+3. De igual forma, não prevalece a tese de violação à coisa julgada, em razão da decisão que converteu a execução de entrega de coisa incerta em execução por quantia certa, porquanto a adequação do valor da execução, por si só, não interfere no andamento dos atos expropriatórios.
+4. Não configurado erro de fato, contradição, obscuridade ou omissão no julgado que decidiu pela manutenção da sentença e prosseguimento da respectiva execução quanto à diferença apurada.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+EMENTA: EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PAGAMENTO PARCIAL DA DÍVIDA. OMISSÃO E OBSCURIDADE. VÍCIOS NÃO CONFIGURADOS. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Conforme suficientemente fundamentado no acórdão embargado, o ônus de provar que o pagamento parcial seria referente a outro negócio jurídico era do credor, encargo do qual não de desincumbiu, presumindo-se que se trata de pagamento parcial da CPR 001 A/14, datada de 06.02.2014.
+2. De igual forma, não prevalece a tese de violação à coisa julgada, em razão da decisão que converteu a execução de entrega de coisa incerta em execução por quantia certa, porquanto a adequação do valor da execução, por si só, não interfere no andamento dos atos expropriatórios.
+3. Certo é que os aclaratórios visam expungir da decisão atacada eventual obscuridade, contradição ou omissão, finalidade essa não afastada nem mesmo para fins de prequestionamento. Destarte, ausentes, no caso, quaisquer dos vícios catalogados no artigo 1.022 da Lei de Ritos Civis, ficam rejeitados os embargos de declaração opostos.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Inicialmente, salienta-se que, ao contrário do quanto alega a agravante, o acórdão exarado pelo Tribunal estadual em sede de apelação apreciou e expôs de maneira clara a controvérsia dos autos e os fundamentos de sua decisão, sendo certo que as aventadas omissões apontadas pelo agravante não existem, pois os argumentos supostamente não avaliados encontram-se todos, ainda que indiretamente, no bojo da fundamentação do acórdão.
+Cabe rememorar que, nos termos da jurisprudência deste Superior Tribunal de Justiça, "não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia" (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023) - justamente o caso a hipótese dos autos.
+Seguindo, a agravante assevera que o Tribunal de origem desrespeitou o artigo 10 do Código de Processo Civil, pois, ao concluir que o ônus de provar pagamento no caso concreto seria do credor (e-STJ, fls. 715-720), desconsiderou que "a imputação do pagamento não foi objeto de argumentação pelas partes litigantes e, assim, inexistiu o necessário contraditório sobre a matéria".
+Sem razão a agravante neste ponto, porque, conforme a jurisprudência deste Superior Tribunal de Justiça, a aplicação de regra geral referente a ônus probatório dispensa prévio contraditório.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL. CONTRADIÇÃO. INOCORRÊNCIA. ARTIGO 371 DO CÓDIGO DE PROCESSO CIVIL. PROVA PERICIAL. IMPERTINÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. SÚMULA 83/STJ. ARTIGO 10 DO CÓDIGO DE PROCESSO CIVIL. CONTRADITÓRIO PRÉVIO. APLICAÇÃO DA REGRA GERAL REFERENTE AO ÔNUS PROBATÓRIO. DESNECESSIDADE. PRECEDENTES.
+1. O acórdão recorrido analisou as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Segundo o sistema da persuasão racional, adotado pela legislação processual civil (artigos 130 e 131 do CPC/1973 e 371 do CPC/2015), o magistrado é livre para examinar as provas dos autos, formando com base nelas a sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento, ainda que em sentido oposto ao pretendido pela parte. Incidência da Súmula 83/STJ.
+3. A proibição à denominada decisão-surpresa só ocorre nos casos em que a manifestação prévia possa influir efetivamente no provimento jurisdicional, o que, de modo incontroverso, não ocorre na hipótese, em que aplicada regra geral de julgamento referente ao ônus probatório. Incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.426.347/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/08/2024, DJe de 14/08/2024 - sem grifos no original)
+No mais, exame das demais razões expostas no agravo em recurso especial faz concluir pela inviabilidade de modificação dos acórdãos recorridos por óbice imposto pela Súmula 7/STJ.
+Isto porque os argumentos dirigidos ao Superior Tribunal de Justiça pela agravante no que tange à suposta ocorrência de nulidade processual e interpretação de provas contrária aos artigos 125, 320, 421-A e 422, do Código Civil demandam, de maneira inequívoca e invariável, o reexame do conjunto probatório.
+É ressabido que a jurisprudência desta corte tem reiterado que "é inviável rever, na via do recurso especial, conclusões das instâncias de cognição plena que resultam do estrito exame do acervo fático-probatório carreado nos autos e da interpretação de cláusulas contratuais (Súmulas nº 5 e 7 do STJ)" (REsp n. 2.123.587/SC, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/2/2025, DJEN de 19/2/2025). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+(..)
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE COMPRA E VENDA. CONTRATO ALEATÓRIO. OSCILAÇÃO DOS CUSTOS QUE INTEGRA A RELAÇÃO JURÍDICA E PAGAMENTO APÓS A ENTREGA EFETIVA DO PRODUTO. NÃO CUMPRIMENTO. EXCEÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, afastar a afirmação contida no acórdão atacado, quanto ao que ficou estipulado expressamente no contrato acerca do pagamento posterior e de que as oscilações de preço e as alterações dos preços de insumo não seriam impeditivo ao cumprimento do avençado, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.555.823/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Assim, não há que se falar em mudança do juízo negativo de admissibilidade, vez que as razões recursais são, efetivamente, de inviável exame pelo Superior Tribunal de Justiça.
+A propósito, com relação à Súmula 7/STJ, no autos do AGInt no ARESP n. 1.490.629/SP, Rel. Ministro Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2021, firmou-se o entendimento de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias."
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.490.629/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2021, DJe de 25/8/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Inaplicável a multa do artigo 1.201, § 4º, do Código de Processo Civil à hipótese, vez que trata-se de agravo em recurso especial - e não agravo interno.
+Majoro o percentual de honorários sucumbenciais para 15% (quinze por cento), nos termos do artigo 85, § 11, do Código de Processo Civil.
+É o voto.
