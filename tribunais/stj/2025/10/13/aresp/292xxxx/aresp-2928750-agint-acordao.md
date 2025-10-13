@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. INFILTRAÇÃO EM UNIDADE DO CONDÔMINO. AUSÊNCIA DE RESPONSABILIDADE DO CONDOMÍNIO. FALTA DE MANUTENÇÃO AFASTADA POR PERÍCIA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recur so especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Na hipótese, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, como pretende o recorrente, a fim de responsabilizar o condomínio pelas infiltrações na unidade de sua propriedade, demandaria incontornável incursão no conjunto fático-probatório dos autos, o que esbarra na Súmula 7 do STJ.
+3. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Cuida-se de agravo interno interposto por WALTER LOPES, inconformado com a decisão de fls. 1.063/1.064, proferida pelo em. Ministro Presidente do STJ, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica de fundamento decisório (Súmula 182/STJ).
+Nas razões do agravo interno, alega-se que houve a devida impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial.
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls. 1.073/1.083)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. INFILTRAÇÃO EM UNIDADE DO CONDÔMINO. AUSÊNCIA DE RESPONSABILIDADE DO CONDOMÍNIO. FALTA DE MANUTENÇÃO AFASTADA POR PERÍCIA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recur so especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Na hipótese, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, como pretende o recorrente, a fim de responsabilizar o condomínio pelas infiltrações na unidade de sua propriedade, demandaria incontornável incursão no conjunto fático-probatório dos autos, o que esbarra na Súmula 7 do STJ.
+3. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes os argumentos trazidos pela parte recorrente, razão pela qual reconsidero a decisão de fls. 1.063/1.064.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo em recurso especial interposto por WALTER LOPES contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. DIREITO CIVIL. CONDOMÍNIO. INFILTRAÇÃO QUE OCORRE PELA PERCOLAÇÃO DAS ÁGUAS PLUVIAIS PELAS ESQUADRIAS DAS JANELAS. PERÍCIA CONCLUSIVA. AUSÊNCIA DE RESPONSABILIDADE DO CONDOMÍNIO.
+1. Ação julgada improcedente em primeira instância.
+2. Recurso do autor não provido.
+3. Preliminar de cerceamento de defesa afastada.
+4. Prova pericial conclusiva no sentido de que a infiltração ocorre principalmente pela percolação de águas pluviais pelas esquadrias das janelas, devido à falta de escoamento para o lado externo das mesmas (o que foi corrigido em algumas unidades do condomínio), fazendo com que a água acumulada infiltre nas paredes do apartamento.
+5. Infiltrações entre as unidades superiores e inferiores. Infiltrações nas partes altas das paredes que exigem impermeabilização. Ausência de responsabilidade do condomínio.
+6. Recurso desprovido. Sentença mantida." (fls. 972-973)
+Os embargos de declaração foram rejeitados (fls. 996-1003).
+Nas razões do recurso especial, a parte aponta violação dos arts. 1.336, I, 1.348, V, 927 e 186 do Código Civil, sustentando, em síntese, que:
+(a) a acórdão recorrido violou os artigos 1.336, I, e 1.348, V, do Código Civil ao afastar a responsabilidade do condomínio pela manutenção da fachada, que é parte comum do edifício, desconsiderando o dever de conservação contínua e a obrigação de reparar danos causados por omissão;
+(b) houve violação dos artigos 927 e 186 do Código Civil, pois a ausência de manutenção adequada da fachada constitui omissão que gera danos aos condôminos, cabendo ao condomínio a obrigação de repará-los, contrariando o princípio da responsabilidade civil.
+Foram apresentadas contrarrazões (fls. 1019-1029).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+Decido.
+Inicialmente, no que tange à alegada violação do dispositivo citado (art. 1.336 do CC), tem-se, no ponto, inviável o debate. Isso, porque não se vislumbra o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Súmulas 282 e 356 do STF). Por oportuno, leia-se este julgado:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Avançando, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante a análise do contexto fático-probatório dos autos, afastou a responsabilidade do condomínio pelas infiltrações no imóvel da parte recorrente e, por consequência, o dever de indenizar, in verbis:
+"Não procedem as objeções do autor contra o laudo pericial, porque:
+(a) O laudo pericial é conclusivo no sentido de que as infiltrações, umidade e mofo na unidade objeto não são exclusivamente decorrentes pela falta e/ou falha da impermeabilização na fachada do Condomínio, por mais que apresentem falhas construtivas (impermeabilizantes) - (destaque na citação).
+(b) O perito também afirmou que "a causa preponderante da infiltração no apartamento dos autores, conforme verificado no momento da vistoria, ocorre principalmente pela percolação de águas pluviais pelas esquadrias das janelas, devido à falta de escoamento para o lado externo das mesmas (recurso corrigido em algumas unidades do condomínio), fazendo com que a água acumulada infiltre nas paredes do apartamento (fls. 833/834).
+(c) O perito ainda respondeu, em complemento às objeções do autor manifestadas a fls. 850/855, que são as mesmas de fls. 886/888:
+(..)
+(c.2) Ratificou o laudo afirmando que foi possível verificar que a causa preponderante da infiltração no apartamento dos Autores, ocorre principalmente pela percolação de águas pluviais pelas esquadrias das janelas, devido à falta de escoamento para o lado externo das mesmas (recurso corrigido em algumas unidades do condomínio), fazendo com que a água acumulada infiltre nas paredes do apartamento (fls. 878).
+(c.3) Em relação às infiltrações na parte superior uma vez que o problema são as esquadrias, esclareceu que são problemas corriqueiros que ocorrem em apartamentos, quando tem-se infiltrações entre as unidades superiores e inferiores, portanto, para solucionar as infiltrações nas partes altas das paredes, os moradores do apartamento de cima devem impermeabilizar a proveniência dos vazamentos para a unidade dos Autores (fls. 879).
+(c.4) Rebateu também o parecer divergente do autor, respondendo que a infiltração observada no apartamento em estudos, ocorreu por conta do acumulo de água nas paredes, e o desgaste das mesmas, fazendo com que os danos aumentem com o tempo decorrido, confirmando que causaria sim a infiltração no apartamento objeto da demanda.
+(..)
+6. Assim, o que se tem de concreto é que o autor não se conforma com o laudo pericial que lhe foi desfavorável, e quer que o perito acolha os seus argumentos de que a infiltração é causada pela falta de manutenção da fachada do prédio, o que leva a crer que - no entender do autor - somente um laudo que lhe fosse favorável seria válido.
+7. Em síntese, diante deste quadro, por qualquer ângulo que se examine a questão, chega-se sempre à abalizada conclusão a que chegou o nobre magistrado, de forma que se impõe a preservação da r. sentença nos termos em que foi proferida." (e-STJ, fls. 978/981, g.n)
+A título elucidativo, transcreve-se trecho da sentença quanto à responsabilidade do condomínio:
+"Com efeito, o autor reclamou na inicial por condenação da ré à obrigação de fazer consistente em reparos na fachada do imóvel e na unidade de sua propriedade.
+Contudo, delimitada a controvérsia acerca da existência dos problemas estruturais e da origem dos danos experimentados pelo autor, foi deferida a realização de prova pericial que se demonstrou conclusiva à solução da demanda.
+Conforme constou do trabalho pericial, "(..) pode-se concluir que as infiltrações, umidade e mofo na unidade objeto não são exclusivamente decorrentes pela falta e/ou falha da impermeabilização na fachada do Condomínio, por mais que apresentem falhas construtivas (impermeabilizantes). A causa preponderante da infiltração no apartamento dos autores, conforme verificado no momento da vistoria, ocorre principalmente pela percolação de águas pluviais pelas esquadrias das janelas, devido à falta de escoamento para o lado externo da mesmas (recurso corrigido em algumas unidades do condomínio), fazendo com que a água acumulada infiltre nas paredes do apartamento" (fls. 833/834).
+Ao apresentar os esclarecimentos, prosseguiu o ilustre perito: "(..) a causa preponderante da infiltração no apartamento dos autores, conforme verificado no momento da vistoria, ocorre principalmente pela percolação de águas pluviais pelas esquadrias das janelas, devido à falta de escoamento para o lado externo das mesmas, existem vícios construtivos constatados em diversos locais do condomínio, sob responsabilidade da construtora de origem, detalhado no presente processo" (fls. 880).
+Logo, a responsabilidade pela manutenção e reparos necessários a eventuais vícios construtivos deve ser atribuída à construtora." (e-STJ, fl. 897, g.n)
+Nesse contexto, a análise das razões recursais e a reforma do aresto hostilizado, com a desconstituição de suas premissas, como pretende o recorrente, a fim de responsabilizar o condomínio pelas infiltrações na unidade de sua propriedade, demandaria incontornável incursão no conjunto fático-probatório dos autos, o que esbarra na Súmula 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONDOMÍNIO. DANOS DECORRENTES DE INFILTRAÇÃO NA LAJE. 1. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NO BOJO DA PETIÇÃO RECURSAL. DESNECESSIDADE. NOVO ENTENDIMENTO JURISPRUDENCIAL PROFERIDO NA CORTE ESPECIAL. DECISÃO RECONSIDERADA NESSE PONTO. 2. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. 3. RESPONSABILIDADE. NEXO CAUSAL. DANOS MATERIAIS E MORAIS. CONFIGURAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. 4. PERDAS E DANOS. REDUÇÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. A Corte Especial do STJ, por ocasião do julgamento do AgRg nos EAREsp n. 440.971/RS, no dia 3/2/2016, modificando a jurisprudência até então consolidada, passou a entender que não é necessária a formulação do pedido de gratuidade, no curso do processo, por meio de petição avulsa, a qual deve ser processada em apenso. Acórdão ainda pendente de publicação.
+2. Não ocorre violação ao art. 535 do CPC quando o julgador decide, como no caso examinado, a lide de forma fundamentada indicando os motivos de seu convencimento, ainda que de forma contrária da pretendida pela parte.
+3. As conclusões do acórdão impugnado acerca da responsabilidade do agravante ao pagamento de danos morais e perdas e danos encontram-se firmadas nos fatos e provas coligidos nos autos, assim, a revisão desse entendimento na via especial atrai o impedimento da Súmula 7 desta Corte Superior.
+4. Conforme entendimento desta Corte, a revisão do quantum indenizatório fixado nas instâncias estaduais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo, hipótese não verificada no caso dos autos, em que estabelecida a indenização conforme as circunstâncias fáticas analisadas pelo Tribunal de origem. Revisão obstada pela Súmula n. 7/STJ.
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 808.934/DF, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 15/3/2016, DJe de 1/4/2016.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PROGRAMA MINHA CASA MINHA VIDA. VÍCIOS CONSTRUTIVOS. RESPONSABILIDADE CIVIL. CONSTRUTORA. REVISÃO. SÚMULA 7/STJ. INCIDÊNCIA. DANOS MORAIS. CARACTERIZAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Consoante a jurisprudência desta Corte, "o dano moral, na ocorrência de vícios de construção, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação de direito da personalidade dos proprietários do imóvel" (AgInt no AREsp 1.288.145/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe de 16/11/2018).
+2. Na hipótese, a alteração das premissas fáticas adotadas pelo Tribunal a quo, no tocante à presença dos elementos caracterizadores da responsabilidade civil e do dever de indenizar, diante da existência de defeitos no imóvel decorrentes de problemas na construção, assim como acerca da caracterização do dano moral, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.693.983/SC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 16/11/2020, DJe de 14/12/2020.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo exame, conheço do agravo para não conhecer do recurso especial.
+É como voto.
