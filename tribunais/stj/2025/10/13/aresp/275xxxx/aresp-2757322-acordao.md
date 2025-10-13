@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. SUBSTITUIÇÃO DE PENHORA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. APELO NOBRE NÃO CONHECIDO.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pelo acerto da decisão que indeferiu pedido de substituição de bem penhorado. Alterar esse entendimento demandaria o reexame das provas, vedado em recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por SILOTE SOCIEDADE IMOBILIARIA E LOTEADORA LIMITADA (SILOTE), contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c da CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, da relatoria do Desembargador Marcos Gozzo assim ementado:
+AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Pretensão do recorrente de substituição por valores a receber em ação de cobrança. Não comprovada, portanto, a existência de meios mais eficazes e menos onerosos para satisfação da dívida, ônus do qual o recorrente não se desincumbiu, sendo de rigor manter a penhora sobre o imóvel urbano. Inteligência do artigo 805, parágrafo único do CPC. Decisão preservada. Agravo desprovido.
+No presente inconformismo, SILOTE defendeu que o apelo nobre foi indevidamente indadmitido, pois a finalidade recursal não se cinge na reanálise dos fatos e das provas colhidas na demanda e restou comprovado dissídio jurisprudencial.
+Foi apresentada contraminuta em e-STJ fls. 359-367.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. SUBSTITUIÇÃO DE PENHORA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. APELO NOBRE NÃO CONHECIDO.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pelo acerto da decisão que indeferiu pedido de substituição de bem penhorado. Alterar esse entendimento demandaria o reexame das provas, vedado em recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+SILOTE afirmou a violação dos arts. 189, 368, 369 e 882 do CC, e de contrariedade com julgado de outros Tribunais, sustentando a substituição de bem penhorado.
+Sobre o tema o TJSP consignou que a decisão do magistrado de primeiro grau agiu bem ao indeferir a substituição de penhora, vez que a parte executada não comprovou a menor onerosidade e a inexistênci a de prejuízos, confira-se:
+O agravante pretende a compensação de valores existentes entre a presente demanda e a de autos nº 1130884-38.2016.8.26.0100. Alega ser credor do valor de R$ 463.073,34 atualizados até abril de 2022, e no presente feito há cobrança de R$ 171,579,94. Ocorre que, o artigo 847 dispõe que: O executado pode, no prazo de 10 (dez) dias contado da intimação da penhora, requerer a substituição do bem penhorado, desde que comprove que lhe será menos onerosa e não trará prejuízo ao exequente. É dever do agravante, ainda, a indicação dos meios menos gravosos e mais eficazes para garantir a execução, em atenção ao disposto no parágrafo único do art. 805 do Código de Processo Civil, nos seguintes termos: "Ao executado que alegar ser a medida executiva mais gravosa incumbe indicar outros meios mais eficazes e menos onerosos, sob pena de manutenção dos atos executivos já determinados". No caso vertente, não se aplicam as hipóteses dos artigos supramencionados ao caso em questão, já que a substituição ocasionará prejuízos ao exequente. Outrossim, como decidido pelo MM. Juízo a quo, "Isso porque, como então argumentado naquele feito (1001067-97.2019), a compensação de créditos pretendida pela executada Silote teria o condão de privar o condomínio de liquidez necessária para a sua própria gestão, importando em grave prejuízo a uma das partes, sendo, portanto, ao invés, determinada a penhora de unidades condominiais para a purgação da dívida" (fls. 787 dos autos em primeiro grau). Ademais, como explanado pelo agravado, não se trata de compensação de valores, nos moldes previstos pelo Código Civil, uma vez que não são as partes simultaneamente credoras e devedoras. Destarte, não comprovada a existência de meios mais eficazes e menos onerosos para satisfação da dívida, ônus do qual o recorrente não se desincumbiu, de rigor manter a decisão profligada, por seus próprios fundamentos.
+Assim, rever as conclusões quanto ao cabimento da substituição pretendida demandaria, nece ssariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. SUBSTITUIÇÃO DE PENHORA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. NULIDADE DE ALGIBEIRA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA Nº 283 DO STF. DIREITO À MORADIA DIGNA DO IDOSO. OFENSA AO DISPOSTO NO ART. 37 DA LEI Nº 10.741/2003. MATÉRIA NÃO PREQUESTIONADA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ.
+RECURSO NÃO CONHECIDO.1. Alterar o decidido pelo v. acórdão recorrido no que se refere às teses de impenhorabilidade do bem de família e de que era possível a substituição da penhora exige, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.2. A falta de impugnação a fundamento autônomo da decisão agravada - nulidade de algibeira - impede o conhecimento da matéria, por atração da Súmula nº 283 do STF, por analogia.3. O art. 37 da Lei nº 10.741/2003 não foi objeto de apreciação pelo Tribunal estadual, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre. Incidência da Súmula nº 211 do STJ.4.
+Recurso especial não conhecido.
+(REsp n. 2.162.201/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025 - destaque de agora.)
+Assim, o recurso não merece que dele se conheça.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do apelo nobre.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de CONDOMÍNIO RESIDENCIAL AEROPORTO, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+É o voto.
