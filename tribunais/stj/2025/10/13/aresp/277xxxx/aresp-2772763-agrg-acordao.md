@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO E LAVAGEM DE DINHEIRO. ABSORÇÃO DA LAVAGEM DE DINHEIRO PELO CRIME ANTECEDENTE. IMPOSSIBILIDADE. CONDUTA AUTÔNOMA. SÚMULA N. 83 DO STJ. ART. 580 DO CPP. AUSÊNCIA DE IDENTIDADE FÁTICA COM OS CORRÉUS ABSOLVIDOS. REVISÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O delito de lavagem de dinheiro é crime autônomo em relação ao delito antecedente. Precedentes.
+2. O acórdão recorrido afastou a tese de consunção do crime de lavagem de dinheiro por seu delito antecedente - peculato-desvio, uma vez que as infrações penais decorrem de fatos distintos: pagamento de remunerações com base em folha fictícia de servidores (peculato-desvio) e dissimulação da origem ilícita dos recursos oriundos dos pagamentos indevidos nas contas de terceiros (lavagem de dinheiro). Incidência da Súmula n. 83 do STJ, pois o entendimento firmado no acórdão está em harmonia com a orientação desta Corte.
+3. Alterar a conclusão do Tribunal estadual, de que não houve ofensa ao postulado da isonomia, pois "a condenação do requerente adveio precisamente de suas causas subjetivas e pessoais, estabelecidas pela autoria, materialidade e culpabilidade dos fatos, o que, por certo, não existiu aos absolvidos" (fl. 7.211), demandaria reexame de fatos e provas, o que encontra obstáculo na Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCOS ANTÔNIO DONADON agrava de decisão em que conheci de seu agravo para não conhecer do recurso especial.
+Neste regimental, a defesa alega o seguinte (fls. 7.433-7.434):
+(1º) no que toca à violação ao art. 1º da Lei 9.613/98  ne bis in idem , o pressuposto de violação que se invoca parte da própria jurisprudência do STJ e do STF de que a consumação do peculato-desvio se concretiza com a "efetiva transferência dos valores", de modo que "o depósito em contas de terceiros, não configura a lavagem de dinheiro";
+ ..
+(2º) quanto à violação ao art. 580 do CPP: os elementos que constam da própria base fática do acórdão  integrada pelos votos divergentes , demonstram que as mesmas premissas utilizadas para absolver 14 corréus, foram utilizadas para condenar o recorrente, de modo que a conclusão pela violação legal não atrai a Súmula 7/STJ.
+P ede a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PECULATO E LAVAGEM DE DINHEIRO. ABSORÇÃO DA LAVAGEM DE DINHEIRO PELO CRIME ANTECEDENTE. IMPOSSIBILIDADE. CONDUTA AUTÔNOMA. SÚMULA N. 83 DO STJ. ART. 580 DO CPP. AUSÊNCIA DE IDENTIDADE FÁTICA COM OS CORRÉUS ABSOLVIDOS. REVISÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O delito de lavagem de dinheiro é crime autônomo em relação ao delito antecedente. Precedentes.
+2. O acórdão recorrido afastou a tese de consunção do crime de lavagem de dinheiro por seu delito antecedente - peculato-desvio, uma vez que as infrações penais decorrem de fatos distintos: pagamento de remunerações com base em folha fictícia de servidores (peculato-desvio) e dissimulação da origem ilícita dos recursos oriundos dos pagamentos indevidos nas contas de terceiros (lavagem de dinheiro). Incidência da Súmula n. 83 do STJ, pois o entendimento firmado no acórdão está em harmonia com a orientação desta Corte.
+3. Alterar a conclusão do Tribunal estadual, de que não houve ofensa ao postulado da isonomia, pois "a condenação do requerente adveio precisamente de suas causas subjetivas e pessoais, estabelecidas pela autoria, materialidade e culpabilidade dos fatos, o que, por certo, não existiu aos absolvidos" (fl. 7.211), demandaria reexame de fatos e provas, o que encontra obstáculo na Súmula n. 7 do STJ.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recorrente foi condenado, com trânsito em julgado, pelos crimes de peculato e de lavagem de dinheiro, e o Tribunal de origem julgou improcedente o pedido formulado na revisão criminal proposta pela defesa.
+Apesar dos esforços do ora agravante, não constato fundamentos suficientes para reformar a decisão agravada, cuja conclusão mantenho.
+O Tribunal de origem assim decidiu (fl. 7.207, destaquei):
+A sentença de 1º grau, confirmada pelo Tribunal, esclareceu que, para dissimular a sua origem ilícita, vários dos cheques-salários desviados por Donadon foram depositados nas contas bancárias do seu sobrinho, Rogério Henrique de Medeiros, de Débora Cristina Prado Dutra (mulher de Rogério), ou, ainda, nas contas de Laurinda Jordão de Campos Alves (sogra de sua irmã Miriam Donadon) e Zilma Henrique de Medeiros (sogra de Marco Donadon), caracterizando lavagem de capitais cometida de forma habitual (art. 1º, V, § 4º, da Lei 9613/98).
+O recebimento de valores não é parte do peculato-desvio, crime antecedente, no caso analisado, à lavagem de dinheiro, mas fato autônomo.
+Na espécie, ocorreram atos nitidamente autônomos entre si. Primeiro, houve a realização do peculato-desvio, mediante a elaboração de uma fictícia folha de servidores e emissão de cheques-salários que, depois de devidamente assinados pelo Presidente e Diretora do Departamento Financeiro da Assembleia, eram distribuídos aos deputados conforme o quinhão de cada um, endossados e novamente devolvidos aos últimos para deles disporem ao seu bel-prazer. Consumado o crime antecedente, muitos dos seus coautores utilizaram ainda as contas de terceiros para dissimular a origem ilícita dos recursos, incidindo em nova infração penal.
+O acórdão recorrido afastou a tese de consunção do crime de lavagem de dinheiro por seu delito antecedente - peculato-desvio, uma vez que as infrações penais decorrem de fatos distintos: pagamento de remunerações com base em folha fictícia de servidores (peculato-desvio) e dissimulação da origem ilícita dos recursos oriundos dos pagamentos indevidos nas contas de terceiros (lavagem de dinheiro).
+Portanto, aplico a Súmula n. 83 do STJ, pois o entendimento firmado no acórdão está em harmonia com a orientação desta Corte, segundo a qual o delito de lavagem de dinheiro é crime autônomo em relação ao delito antecedente.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. CRIME DE LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS OU VALORES. CRIME ANTECEDENTE DE TRÁFICO DE DROGAS. AUTONOMIA E INDEPENDÊNCIA. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE NA SEDE MANDAMENTAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A aptidão da denúncia relativa ao crime de lavagem de dinheiro não exige uma descrição exaustiva e pormenorizada do suposto crime prévio, bastando, com relação às condutas praticadas antes da Lei 12.683/12, a presença de indícios suficientes de que o objeto material da lavagem seja proveniente, direta ou indiretamente, de uma daquelas infrações penais mencionadas nos incisos do art. 1º da Lei 9.613/98 (STJ, Corte Especial, APn 922/DF, relatora ministra Nancy Andrighi, julgado em 5/6/2019).
+2. No caso, o relator do acórdão de apelação apontou a existência de elementos do crime antecedente (tráfico de drogas), o que é suficiente para a condenação pelo crime de lavagem de dinheiro (crime subsequente), pois a jurisprudência deste Superior Tribunal de Justiça consolidou-se no sentido de que o delito de lavagem de dinheiro é crime autônomo e independe do processamento e da condenação do paciente pelo delito antecedente.
+3. Por fim, modificar as premissas fáticas estabelecidas no acórdão de apelação no sentido da inexistência de crime antecedente de tráfico de drogas, como pretende a defesa, demandaria o revolvimento do material fático-probatório dos autos, expediente vedado na sede mandamental.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 957.961/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025, grifei)
+AGRAVO NO RECURSO ESPECIAL. CONSTITUCIONAL, PENAL E PROCESSO PENAL. CRIME DE LAVAGEM DE ATIVOS. DELITO AUTÔNOMO COM RELAÇÃO AO DELITO ANTECEDENTE.  ..  RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O crime de lavagem de capitais é delito autônomo em relação à infração penal antecedente.
+ ..
+6. Agravo regimental parcialmente provido para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento para afastar a continuidade delitiva, readequar a pena definitiva e modificar o regime inicial de cumprimento da pena.
+(AgRg no REsp n. 1.875.233/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022, destaquei)
+Alterar a conclusão do Tribunal estadual, de que não houve ofensa ao postulado da isonomia, pois "a condenação do requerente adveio precisamente de suas causas subjetivas e pessoais, estabelecidas pela autoria, materialidade e culpabilidade dos fatos, o que, por certo, não existiu aos absolvidos" (fl. 7.211), demandaria reexame de fatos e provas, o que encontra obstáculo na Súmula n. 7 do STJ.
+Po rtanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
