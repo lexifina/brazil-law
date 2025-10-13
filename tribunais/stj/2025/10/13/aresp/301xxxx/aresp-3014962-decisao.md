@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ROSANA APARECIDA ABRAHAO BUENO DE MORAIS e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação de indenização por danos materiais e morais Transporte aéreo Aquisição de passagem por intermédio de agência de viagem que comercializou pacote turístico Alegação de cancelamento unilateral das passagens pela transportadora aérea requerida e recusa do reembolso de valores Descabimento Impugnação da existência de relação jurídica entre as partes, alegando a transportadora ré não localizou em seus sistemas reservas com os nomes dos autores Processo instruído com documentos unilateralmente produzidos pela agência de viagens responsável pela comercialização do pacote turístico, sem qualquer vinculação com a companhia aérea requerida Ausência de documento válido de emissão das passagens ou protocolo de atendimento vinculando a transportadora aérea requerida aos fatos narrados na petição inicial Autores não comprovaram fato constitutivo de seu direito (art. 373, I do CPC) Sentença mantida - Recurso negado.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 6º, VIII, do CDC, sustentando que apesar da comprovação documental da compra e cancelamento, o juízo de origem indevidamente afastou a inversão do ônus da prova prevista, ignorando a hipossuficiência dos autores e a verossimilhança das alegações, trazendo a seguinte argumentação:
+Trata-se de ação indenizatória, promovida pelos ora recorrentes, com o objetivo de serem ressarcidos dos valores das passagens aéreas que adquiriram junto à apelada com destino à Mendoza, na Argentina, saindo do aeroporto de Guarulhos/SP, marcada para o dia 16/01/2022 e 23/01/2022, que foi sumariamente cancelada pela empresa requerida, sem a realização do endosso das passagens para outra companhia aérea, nem mesmo com o estorno dos valores pagos.
+Diante do cancelamento abrupto e sem prévio aviso, os recorrentes foram forçados a adquirir novas passagens, por companhia aérea diversa, pagando valor sensivelmente superior ao original e amargando duplo prejuízo, para poderem fazer a viagem (já que em companhia de outras pessoas, que também faziam parte do grupo que viajaria unido).
+Após a instrução processual, o d. Juízo de origem proferiu r. sentença que encampou a tese defensiva e julgou improcedente o pedido, sob o fundamento de que não houve a comprovação de que as passagens aéreas foram efetivamente adquiridas ou, ainda, reservadas junto à companhia aérea, nem informações sobre o cancelamento do voo contratado.
+ ..
+De largada, cumpre esclarecer que o feito foi processado sob a égide do Código de Defesa do Consumidor, situação essa reconhecida no v. acórdão recorrido. Entretanto, foi feita a equivocada distribuição do ônus da prova.
+Entretanto, não foi respeitada a regra de distribuição do ônus da prova, prevista no art. 6º, VIII, do mencionado diploma legal.
+ ..
+Da análise do artigo indicado infere-se que, nos casos de aplicação do Código de Defesa do Consumidor, a defesa de seus direitos deve ser facilitada, com a inversão do ônus da prova quando demonstrada a verossimilhança das alegações ou a hipossuficiência da parte.
+ ..
+A uma, demonstrada a verossimilhança das alegações, com diversos documentos que atestam a compra das passagens aéreas, o cancelamento e compra de um novo voo..
+A duas, patente a hipossuficiência dos recorrentes, uma vez a notória diferença de capacidade probatória das partes.
+Dessa forma, a não aplicação da regra de inversão do ônus da prova caracteriza, ao fim e ao cabo, negativa de vigência ao dispositivo de lei federal.
+ ..
+No caso em discussão, os autores efetivamente demonstraram a aquisição das passagens aéreas, ainda que por intermédio de agência de viagens - situação que não retira da recorrida a responsabilidade civil pelos fatos discutidos. Há a comprovação da aquisição das passagens, com indicação de data e horário do voo, o local de partida, o de destino e, ainda, o número do avião.
+No documento, existe até mesmo a logomarca identificadora da empresa recorrida, com todos os dados de identificação possíveis, bem como os valores efetivamente pagos pelo transporte aéreo.
+Mais do que isso: há a demonstração, de forma expressa, que a reserva está finalizada e os vouchers liberados.
+Logo, efetivamente demonstrada a relação entre as partes, tal qual descrita na exordial.
+Portanto, existindo, no mínimo, a verossimilhança das alegações, imperiosa a aplicação do violado dispositivo de lei.
+ ..
+Não se ignore que os recorrentes tiveram que adquirir novas passagens aéreas, agora pela empresa LATAM, nos mesmos dias que as aquisições aqui discutidas. A análise das datas, tanto das passagens canceladas pela empresa apelada, quanto pela nova adquirida em substituição, apenas confirma o relato inicial e trazem a necessária certeza dos fatos descritos na peça exordial.
+Assim, definitivamente, a alegação de inexistência de relação jurídica não merece acolhida, eis que comprovada a efetiva contratação da companhia apelada (fls. 195/201).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No entanto, não se evidencia fundamento suficiente para o julgamento da causa com a inversão do ônus da prova (art. 6º, VIII, do CDC), por não demonstrada a verossimilhança das alegações dos autores de cancelamento unilateral das passagens aéreas pela requerida e a recusa de reembolso dos valores (fls. 177).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto ao ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "A inversão do ônus da prova no âmbito do Código de Defesa do Consumidor não é automática, dependendo da constatação pelas instâncias ordinárias da verossimilhança das alegações do consumidor, que não está dispensado de comprovar minimamente o fato constitutivo do seu direito. 2. A análise da suficiência das provas apresentadas não pode ser realizada em recurso especial devido à vedação de reexame de matéria fático-probatória, conforme Súmula n. 7/STJ." (AgInt nos EDcl no AREsp n. 2.800.409/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/6/2025, DJEN de 3/7/2025.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.575.962/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 22/11/2024; REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/11/2024; AgInt no AREsp n. 2.653.386/BA, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2024; AgInt no REsp n. 2.019.364/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 29/8/2024; EDcl no AgInt no AREsp n. 1.993.580/SP, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 2/5/2024; AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
