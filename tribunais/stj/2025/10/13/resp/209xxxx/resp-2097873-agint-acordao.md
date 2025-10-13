@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022, II, DO CPC. OFENSA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1.022, II, do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio, não ensejando a anulação do acórdão proferido em sede de embargos de declaração a mera insatisfação com o resultado do julgado desfavorável à parte.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. e-STJ, 1.019):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 1.022 E 489 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 /STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+A parte agravante alega que persiste a violação ao artigo 1.022, do CPC/2015, ao argumento de que "O Tribunal de origem negou provimento aos aclaratórios sem enfrentar a alegação fulcral de que o processo supostamente pendente já estava extinto sem resolução do mérito. Tampouco indicou por que tais argumentos seriam irrelevantes ou improcedentes" (fl. e-STJ, 1.032).
+Reitera a tese de vulneração ao artigo 104, do Código de Defesa do Consumidor, ao argumento de que "há o aproveitamento dos efeitos da sentença coletiva quanto há requerimento de suspensão da ação individual", devendo assim ser reconhecido o direito dos agravantes à execução dos efeitos da sentença coletiva para afastar qualquer alegação de litispendência nos autos.
+Impugna a incidência da Súmula 283/STF, argumentando que "o Recurso Especial consignou a violação ao art. 5 e 489 do CPC, em razão de patente preclusão e coisa julgada que obstam o conhecimento de eventual litispendência, pois arguida extemporaneamente, ainda que se trata de matéria de ordem pública" (fl. e-STJ, 1.037).
+Aduz, ainda, que "não há de incidir ao caso a Súmula 284/STF, pois a questão da ilegitimidade não foi combatida simplesmente porque essa questão sequer faz parte da lide" (fl. e-STJ, 1.038).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022, II, DO CPC. OFENSA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação do art. 1.022, II, do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio, não ensejando a anulação do acórdão proferido em sede de embargos de declaração a mera insatisfação com o resultado do julgado desfavorável à parte.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, no que se refere à alegada vulneração aos arts. 489 e 1.022, do CPC/2015, a decisão ora agravada enfrentou as alegações pertinentes à preclusão, extinção dos processos apontados como ensejadores de litispendência, verificação da identidade dos períodos executados e compensação.
+A propósito, assim constou do acórdão integrativo proferido em sede de embargos de declaração (fls. e-STJ, 817):
+"Para o reconhecimento da litispendência entre ação coletiva proposta pelo sindicato e ação individual, faz-se necessária a produção, no momento oportuno, de prova documental da sua ocorrência, capaz de afastar os servidores do polo ativo da execução. Cabe à recorrente o ônus de comprovar documentalmente suas alegações de litispendência e/ou coisa julgada ou pagamento.
+No caso, a União foi diligente em apontar a existência de litispendência em relação aos exequentes citados em sua peça de agravo, indicando o número dos processos em que se constata ter ocorrido o mesmo pleito por parte de alguns exequentes, em sede de execução de sentença. Em sendo assim, há de se acolher as alegações da União de litispendência em relação aos mencionados exequentes".
+A ilegitimidade é matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição, não havendo que se falar em preclusão.
+No mais, ao asseverar que: "a União foi diligente em apontar a existência de litispendência em relação aos exequentes citados em sua peça de agravo, indicando o número dos processos em que se constata ter ocorrido o mesmo pleito por parte de alguns exequentes, em sede de execução de sentença", o órgão julgador por certo considerou a apresentação de termos de opção, a extinção sem resolução do mérito dos processos apontados como litispendentes e a coincidência dos períodos executados, não havendo que se cogitar de omissão neste ponto.
+Se o acórdão embargado, ao assim decidir, não foi feliz, não legando ao caso concreto a melhor solução, cabe à parte, caso não se conforme com a conclusão daquele, interpor, a tempo e modo, o recurso adequado. A pretensão de revisão do entendimento supracitado não é cabível na via estreita dos embargos de declaração. (Grifei).
+Desse modo, evidencia-se que a Corte de Origem apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial fundamentação das decisões judiciais, o que torna desnecessário qualquer esclarecimento ou complemento ao que já decidido.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. EXTINÇÃO. ATUALIZAÇÃO DOS VALORES. PRECLUSÃO. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. ANÁLISE DE DISPOSITIVO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF.
+1. Afasta-se a alegada ofensa do art. 1.022 do CPC , porquanto a instância ordinária, solucionou, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não havendo que se confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O exame da controvérsia acerca da ocorrência da preclusão, tal como enfrentada pela instância ordinária, exigiria a análise de dispositivos de legislação local (Ato n.º 013/2012 do Tribunal de Justiça do Estado do Rio Grande do Sul), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.073.999/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2017, DJe de 25/8/2017.) (Grifei).
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o recurso especial apresentou ofensa aos artigos 104 do CDC e 5º, do CPC/2015, associados ao argumento de que teria se configurado preclusão consumativa, vulneração à boa fé processual, devido processo legal, segurança jurídica e coisa julgada, bem como a incidência do instituto da supressio, em razão da "perda da faculdade de alegar a pretensa nulidade em razão do decurso do tempo".
+Entretanto, os artigos supra indicados não contém o comando normativo deduzido pelo recorrente, não sendo capaz de infirmar os fundamentos do acórdão recorrido, que assim decidiu (fl. 817):
+A ilegitimidade é matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição, não havendo que se falar em preclusão.
+No mais, ao asseverar que: "a União foi diligente em apontar a existência de litispendência em relação aos exequentes citados em sua peça de agravo, indicando o número dos processos em que se constata ter ocorrido o mesmo pleito por parte de alguns exequentes, em sede de execução de sentença", o órgão julgador por certo considerou a apresentação de termos de opção, a extinção sem resolução do mérito dos processos apontados como litispendentes e a coincidência dos períodos executados, não havendo que se cogitar de omissão neste ponto. (Grifei).
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a fundamentação contida no acórdão recorrido no sentido de que a ilegitimidade é matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição, não havendo que se falar em preclusão" (fl. e-STJ, 817).
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Assim, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, os seguintes precedentes que tratam de situação análoga à dos autos:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. PREQUESTIONAMENTO. INEXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não se conhece do recurso especial, quando o dispositivo apontado como violado não contém, por si só, comando normativo para infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+3. A análise da divergência jurisprudencial fica prejudicada quando a tese sustentada no exame do recurso especial pela alínea "a" do permissivo constitucional esbarra em óbice sumular.
+4. Agravo interno desprovido. (Grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
