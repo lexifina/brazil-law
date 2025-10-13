@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SUPERGASBRÁS ENERGIA LTDA. (SUPERGASBRÁS) contra acórdão proferido pela Terceira Turma desta Corte, que conheceu do agravo para não conhecer do recurso especial, assim ementado:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TEMAS NÃO DEBATIDOS PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N. 282 DO STF. CONTRATO DE FORNECIMENTO DE GÁS. CLÁUSULA PENAL. VALOR EXCESSIVO CARACTERIZADO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N. 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula n. 282 do STF, aplicável por analogia.
+2. No caso, a partir da interpretação das cláusulas do contrato, bem como da análise dos elementos fáticos da causa, o Tribunal estadual reconheceu a caracterização de valor excessivo a título de cláusula penal. A pretensão de rever esse entendimento encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial (e-STJ, fl. 201).
+Nas razões do presente inconformismo, SUPERGASBRÁS alegou que o julgado foi omisso, porque (1) ao majorar a verba honorária em 5% em seu desfavor, procedeu-se a um aumento dos honorários advocatícios de forma desproporcional, considerando que a parte contrária sequer protocolou contrarrazões ao recurso especial ou ao agravo; e, (2) a majoração no percentual indicado ficou desprovida de fundamentação, acarretando enriquecimento sem causa da parte ora embargada, que permaneceu inerte, pois não houve um trabalho adicional de sua parte.
+Não houve impugnação ao recurso (e-STJ, fls. 225/226).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+O acórdão recorrido não foi obscuro, omisso ou contraditório, tampouco apresentou erro material, tendo concluído pela incidência das Súmulas n. 282 do STF, 5 e 7 do STJ.
+Ficou destacado, inicialmente, que SUPERGASBRÁS alegou afronta aos arts. 421 e 422 do CC/2002. Sustentou que (1) deve ser observada a cláusula penal em seus exatos termos, pois esta considerou em seu critério de cálculo elementos como o preço do produto, a metade do tempo faltante para completar o prazo de vigência do contrato e a média do consumo; e (2) foram alterados critérios de cálculo em desacordo com o estipulado em contrato, havendo desrespeito aos princípios da função social e da boa-fé objetiva do contrato.
+No entanto, ficou evidenciado que os conteúdos normativos dos dispositivos apontados como contrariados, que dispõem sobre a liberdade contratual e seu exercício nos limites da função social do contrato e acerca da obediência aos princípios da probidade e boa-fé na conclusão do contrato e em sua execução, respectivamente, não foram debatidos e não foram opostos embargos de declaração.
+Assim, assinalou-se que não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Assim, concluiu-se ser inafastável a incidência da Súmula n. 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, ficou assentado que o Tribunal de Justiça de São Paulo, soberano na análise do contexto fático-probatório, concluiu pela excessividade da multa cominada, sendo correta a redução da cláusula penal, a teor do art. 413 do CC/2002.
+Desse modo, como se percebeu, foi com base nas peculiaridades do caso concreto e na análise do contrato entabulado entre as partes que se formou a convicção dos julgadores do TJSP.
+Nesse sentido, registrou-se que, para se chegar a conclusão diversa daquela a que chegou a Corte local, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas n. 5 e 7 do STJ: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Por oportuno, transcreve-se o seguinte trecho do voto proferido pela Terceira Turma:
+Da alegada afronta aos arts. 421 e 422 do CC/2002
+SUPERGASBRÁS alegou afronta aos arts. 421 e 422 do CC/2002. Sustentou que (1) deve ser observada a cláusula penal em seus exatos termos, pois esta considerou em seu critério de cálculo elementos como o preço do produto, a metade do tempo faltante para completar o prazo de vigência do contrato e a média do consumo; e (2) foram alterados critérios de cálculo em desacordo com o estipulado em contrato, havendo desrespeito aos princípios da função social e da boa-fé objetiva do contrato.
+Os conteúdos normativos dos dispositivos apontados como contrariados, que dispõem sobre a liberdade contratual e seu exercício nos limites da função social do contrato e acerca da obediência aos princípios da probidade e boa-fé na conclusão do contrato e em sua execução, respectivamente, não foram debatidos e não foram opostos embargos de declaração.
+Assim, não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula n. 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Sobre o tema, seguem os julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À SÚMULA. DISPOSIÇÃO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DISSÍDIO NOTÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO DO COTEJO ANALÍTICO. OMISSÃO. INEXISTÊNCIA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. A ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.494.832/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 18/2/2020, DJe 3/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo acórdão recorrido, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.368.197/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+De qualquer sorte, veja-se o seguinte trecho do aresto recorrido:
+O valor da multa pretendida pela autora é excessivo considerando a natureza do contrato. Conforme constou na r. sentença, o valor corresponde a 50% do valor que a autora auferira durante todo o período restante do contrato (50 meses), o que não é razoável considerando que a autora recebeu os produtos por apenas 10 meses. Assim, correta a redução da cláusula penal para R$ 31.824,08, conforme verdadeira imposição legal ao Magistrado contida no art. 413 do Código Civil (e-STJ, fl. 147).
+Nesse sentido, conforme acima transcrito, o Tribunal de Justiça de São Paulo, soberano na análise do contexto fático-probatório, concluiu pela excessividade da multa cominada, sendo correta a redução da cláusula penal, a teor do art. 413 do CC/2002.
+Desse modo, como se percebe, foi com base nas peculiaridades do caso concreto e na análise do contrato entabulado entre as partes que se formou a convicção dos julgadores do TJSP.
+Assim, para se chegar a conclusão diversa daquela a que chegou a Corte local, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas n. 5 e 7 do STJ: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTAÇÃO. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. CONTRATO DE COMPRA E VENDA. NULIDADE. NÃO OCORRÊNCIA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. ACÓRDÃO FUNDAMENTADO. MULTA. POSSIBILIDADE.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, bastando, para tanto, que indique na decisão os motivos que lhe formaram o convencimento. A intervenção do Superior Tribunal de Justiça quanto à tal valoração encontra óbice na Súmula nº 7/STJ.
+3. No caso, rever a conclusão dos magistrados de origem que, com base nas provas produzidas nos autos, concluíram pela licitude do contrato entabulado entre as partes e afastaram a existência de qualquer onerosidade excessiva, exige a interpretação de cláusula contratual e o reexame do contexto fático-probatório, procedimentos vedados em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+4. No que tange à correta interpretação do art. 1.026, § 2º, do CPC, a jurisprudência desta Corte Superior é no sentido de que a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório dos embargos de declaração, a ensejar a incidência da multa do mencionado artigo.5. No caso concreto, a imposição da multa está devidamente fundamentada, não tendo sido aplicada de forma automática.
+6. Rever as conclusões do acórdão quanto ao caráter protelatórios dos embargos de declaração encontra óbice na Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.445.709/AP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025, DJEN de 9/5/2025 - sem destaque no original)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE FORNECIMENTO DE COMBUSTÍVEIS E USO DE MARCA. PREQUESTIONAMENTO FICTO. NÃO ATENDIMENTO. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ARTIGO 1.022 DO CPC/2015. CLÁUSULA PENAL. ART. 413 DO CC. EXCESSO. REDUÇÃO. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça e dos arts. 412 e 413 do Código Civil/2002, é possível a redução da cláusula penal se a obrigação principal tiver sido cumprida em parte ou se o montante da penalidade for manifestamente excessivo.
+3. Na espécie, o Tribunal de Justiça considerou a multa contratual excessiva, levando em conta a ocorrência da rescisão contratual em seus estágios iniciais e a condição econômica dos contratantes. A reforma desse entendimento demandaria nova interpretação das cláusulas do contrato e o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+4. A incidência das Súmulas 5 e 7 do STJ também é óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.547.310/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024 - sem destaques no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial (e-STJ, fls. 204/208 - destaques no original).
+Desse modo, todas as matérias ventiladas foram apreciadas, mas de forma contrária aos interesses da parte, o que não enseja omissão, obscuridade ou contradição.
+Por derradeiro, apenas para afastar dúvidas, no tocante à tese de ausência de motivação para a majoração da verba honorária, vale pontuar que o STJ já assentou o entendimento de que, segundo o disposto no art. 85, § 11, do NCPC, é impositiva a majoração do percentual já fixado, relativo aos honorários advocatícios, independentemente de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+Ilustrativamente, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MAJORAÇÃO. ART. 85, § 11, DO CPC/2015. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do entendimento desta Corte, "é devida a majoração da verba honorária sucumbencial, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Relator Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe de 19/10/2017).
+2. "A jurisprudência do Superior Tribunal de Justiça é no sentido de se aplicar o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), impondo a majoração do percentual já fixado, relativo aos honorários advocatícios, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões" (AgInt no AREsp 2.559.173/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.099.416/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/10/2024, DJe de 4/11/2024 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ADIMPLEMENTO CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. INSTÂNCIA RECURSAL. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A eg. Corte Especial do STJ, no julgamento do AgInt nos EAREsp nº 762.075/MT, j. 19/12/2018, DJe 7/3/2019, firmou o entendimento de que  ..  é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso, sendo ainda assentado que,  ..  a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários  .. .
+(AgInt nos EAREsp nº 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, Corte Especial, j. 19/12/2018, DJe 7/3/2019).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 2.296.866/AC, de minha relatoria, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023 - sem destaque no original)
+De qualquer sorte, ao majorar a verba honorária, foram observados os limites percentuais previstos nos §§ 2º e 3º do art. 85 do NCPC, atendendo-se aos princípios da razoabilidade e da proporcionalidade e, por isso, deve ser mantida.
+Em suma, a pretensão desborda da previsão do art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
