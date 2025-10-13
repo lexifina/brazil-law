@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PARA O FUNDO DE GARANTIA DO TEMPO DE SERVIÇO - FGTS. BASE DE CÁLCULO. INCLUSÃO DO SALÁRIO-PATERNIDADE E DO SALÁRIO-MATERNIDADE. ACÓRDÃO RECORRIDO PELA LEGALIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Os valores pagos aos empregados a título de salário-paternidade e salário-maternidade integram a base de cálculo da contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS. Precedentes.
+4. No caso dos autos, o conhecimento do recurso encontra óbice na Súmula 83 do STJ, tendo em vista a conformidade do acórdão com a jurisprudência do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por INOVAT INDÚSTRIA FARMACÊUTICA LTDA contra decisão que, ao conhecer do agravo, com apoio em entendimento jurisprudencial e nas Súmula 83 do STJ, não conheceu de recurso especial em que discute a legalidade da inclusão dos valores pagos aos empregados a título de salário-paternidade e salário-maternidade na base de cálculo da contribuição ao Fundo de Garantia do Tempo de Serviço - FGTS, à luz da decisão do Supremo Tribunal Federal, no RE 576.967/PR; e negou-lhe provimento quanto à tese de violação dos arts. 489 e 1.022 do Código de Processo Civil - CPC/2015.
+A parte agravante não concorda com o óbice sumular ao conhecimento do recurso, insiste na alegação de violação dos arts. 489 e 1.022 do CPC/2015 e sustenta, em síntese (fls. 935/945):
+Deve ser afastada da base de cálculo da contribuição ao FGTS os valores pagos a título de salário maternidade/paternidade, uma vez que se trata de mesmo racional com relação às demais contribuições, conforme o artigo 15ª da Lei nº 8.036/90 e o artigo 22 da Lei nº 8.212/91; bem como (ii) no que tange ao salário paternidade, o mesmo racionou utilizado pelo STF no recentíssimo julgamento do RE nº 576.967/PR (Tema 72) e o Parecer da própria Procuradoria - Perecer SEI 18361/2020ME devem ser aplicados ao presente caso, sob pena de afronta ao artigo 1.040, inciso II, do Código de Processo Civil.
+Sem impugnação pela parte agravada (fl. 952).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PARA O FUNDO DE GARANTIA DO TEMPO DE SERVIÇO - FGTS. BASE DE CÁLCULO. INCLUSÃO DO SALÁRIO-PATERNIDADE E DO SALÁRIO-MATERNIDADE. ACÓRDÃO RECORRIDO PELA LEGALIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Os valores pagos aos empregados a título de salário-paternidade e salário-maternidade integram a base de cálculo da contribuição para o Fundo de Garantia do Tempo de Serviço - FGTS. Precedentes.
+4. No caso dos autos, o conhecimento do recurso encontra óbice na Súmula 83 do STJ, tendo em vista a conformidade do acórdão com a jurisprudência do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida.
+A propósito, vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 574/588):
+A licença paternidade, cuja duração, fixada pelas Disposições Transitórias (artigo 10, §1º), é de cinco dias, constitui verba de encargo do empregador, não se tratando, pois, de benefício previdenciário, tal qual o salário maternidade.
+Desta feita, é rubrica que se reveste de caráter remuneratório, sendo legítima a incidência de contribuição previdenciária. Vale registrar, por oportuno, que esse entendimento foi consolidado pela 1ª Seção do Superior Tribunal de Justiça, no REsp 1230957/RS, representativo da matéria  ..  impende salientar que o entendimento supra, está em consonância com o que restou decidido no Resp 1.230.957/RS e no Resp. 1.358.281/SP, submetidos ao rito dos recursos repetitivos (art. 543-C do CPC).
+ ..
+O Fundo de Garantia do Tempo de Serviço - FGTS é um direito autônomo dos trabalhadores urbanos e rurais, de índole social e trabalhista, não possuindo caráter de imposto ou de contribuição previdenciária, não sendo possível, assim, a sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, tornando irrelevante a natureza da verba trabalhista para fins de incidência do FGTS .
+Saliente-se, inclusive, que a Súmula n.º 353 do STJ dispõe que "as disposições do Código Tributário Nacional não se aplicam às contribuições para o FGTS " Outrossim, observa-se que a base de cálculo da contribuição ao FGTS é definida no art. 15 da Lei n.º 8.036/90, ressaltando-se que o § 6º deste artigo exclui de modo taxativo a incidência da contribuição sobre as verbas elencadas no art. 28, § 9º, da Lei n.º 8.212/91, de modo que a não-incidência somente se verifica em relação às parcelas expressamente excluídas pela lei
+ ..
+Com efeito, nota-se que a contribuição ao FGTS não se confunde com a contribuição previdenciária, sendo regidas por normas diversas, cada qual com a base de cálculo definida por lei própria.
+No caso vertente, verifica-se que não há previsão de exclusão da incidência da contribuição ao FGTS com relação ao salário-maternidade e ao salário paternidade, haja vista que tais verbas não estão elencadas no art. 28, § 9º, da Lei nº 8.212/91.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 631/635).
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, definiu tese segundo a qual "o art. 93, inc. IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+De outro lado, nos termos da Lei n. 8.036/1990, todos os empregadores ficam obrigados a depositar, até o vigésimo dia de cada mês, em conta vinculada, a importância correspondente a 8% da remuneração paga ou devida, no mês anterior, a cada trabalhador, incluídas na remuneração as parcelas de que tratam os arts. 457 e 458 da CLT e a Gratificação de Natal" (art. 15), sendo que não se incluem na remuneração as parcelas elencadas no § 9º do art. 28 da Lei n. 8.212/1991 (art. 15, § 6º). E, a propósito do § 9º do art. 28 da Lei n. 8.212/1991, não determina a exclusão do salário-paternidade e do salário-maternidade da base de cálculo do salário de contribuição.
+A respeito, vide:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO FGTS. INCIDÊNCIA SOBRE: SALÁRIO-MATERNIDADE, QUINZE PRIMEIROS DIAS QUE ANTECEDEM A CONCESSÃO DO AUXÍLIO-DOENÇA E AUXÍLIO-ACIDENTE, TERÇO DE FÉRIAS, DÉCIMO TERCEIRO SALÁRIO, AVISO PRÉVIO INDENIZADO E REFLEXOS, HORAS EXTRAS, DESCANSO SEMANAL REMUNERADO E ADICIONAIS NOTURNO, DE INSALUBRIDADE E PERICULOSIDADE.
+1. A jurisprudência desta Corte é no sentido de que as contribuições para o FGTS incidem sobre: salário-maternidade, quinze primeiros dias que antecedem a concessão do auxílio-doença e auxílio-acidente, terço de férias, décimo terceiro salário, aviso prévio indenizado e reflexos, horas extras, descanso semanal remunerado e adicionais noturno, de insalubridade e periculosidade, não sendo viável equipará-las às contribuições previdenciárias por ausência de previsão legal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.946.254/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022)
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. FGTS. BASE DE CÁLCULO.
+ ..
+3. O FGTS incide sobre: importância paga nos quinze dias que antecedem o auxílio-doença; terço constitucional de férias; aviso prévio indenizado; férias gozadas; salário maternidade; salário paternidade; horas extras; adicionais de insalubridade, periculosidade e noturno; auxílio quebra de caixa; valores pagos por trabalho prestado aos domingos e feriados e em decorrência de banco de horas extras; adicional por tempo de serviço.
+ ..
+5. Recurso especial da Fazenda Nacional provido. Recurso especial de NOVASOC COMERCIAL LTDA e outros não provido.
+(REsp n. 1.718.101/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/2/2018, DJe de 2/3/2018)
+Na mesma linha, entre outros: AgInt no REsp n. 2.161.792/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/12/2024, DJEN de 5/12/2024; AgInt no AREsp n. 2.171.054/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 27/2/2023; AgInt nos EDcl no REsp n. 1.595.870/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/9/2017, DJe de 28/9/2017.
+No contexto, portanto, correta a decisão de inadmissão do especial, pois o acórdão recorrido está em conformidade com a pacífica jurisprudência deste Tribunal Superior. Observância da súmula 83 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
