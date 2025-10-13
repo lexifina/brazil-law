@@ -1,0 +1,113 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. TÍTULO EXECUTIVO EXTRAJUDICIAL APRESENTADO POR CÓPIA. PRESUNÇÃO DE VERACIDADE. DESNECESSIDADE DE JUNTADA DO ORIGINAL. VIOLAÇÃO AOS ARTS. 425, § 2º, 341, PARÁGRAFO ÚNICO, DO CPC; 286 E 884, CAPUT, DO CC. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ E 211/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+2. A parte agravante sustenta a violação aos artigos 286 e 884 do Código Civil e aos artigos 341, parágrafo único, e 425, § 2º, do Código de Processo Civil, alegando que o título executivo apresentado em cópia não atende aos requisitos legais para a execução, especialmente considerando a arguição de fato concreto impeditivo levantada pelo devedor executado.
+3. O acórdão recorrido entendeu que a cópia do título executivo apresentada nos autos é suficiente para o prosseguimento da execução, presumindo-se sua veracidade, e afastou a exigência de juntada do documento original.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o recurso especial pode ser admitido diante da ausência de prequestionamento explícito ou implícito dos dispositivos legais apontados como violados e da necessidade de reexame de fatos e provas.
+III. Razões de decidir
+5. O prequestionamento explícito ou implícito dos dispositivos legais apontados como violados é requisito indispensável para a admissibilidade do recurso especial, conforme as Súmulas 282 e 356 do STF.
+6. A ausência de decisão específica sobre os dispositivos legais indicados como violados impede o conhecimento do recurso especial, sendo aplicáveis as Súmulas 211 do STJ e 282 do STF.
+7. A análise da suficiência da cópia do título executivo para o prosseguimento da execução demanda o reexame de fatos e provas, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+8. A função uniformizadora do recurso especial não permite sua utilização para revisitar o contexto fático-probatório estabelecido na instância de origem.
+IV. Dispositivo
+9. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto com fundamento no artigo 105, inciso III, alínea "a" e "c", da Constituição Federal contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, (e-STJ, Fl. 184-198), uma vez que foi claro quanto aos pedidos e artigos violados.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, (e-STJ, Fl. 214-219).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. TÍTULO EXECUTIVO EXTRAJUDICIAL APRESENTADO POR CÓPIA. PRESUNÇÃO DE VERACIDADE. DESNECESSIDADE DE JUNTADA DO ORIGINAL. VIOLAÇÃO AOS ARTS. 425, § 2º, 341, PARÁGRAFO ÚNICO, DO CPC; 286 E 884, CAPUT, DO CC. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ E 211/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+2. A parte agravante sustenta a violação aos artigos 286 e 884 do Código Civil e aos artigos 341, parágrafo único, e 425, § 2º, do Código de Processo Civil, alegando que o título executivo apresentado em cópia não atende aos requisitos legais para a execução, especialmente considerando a arguição de fato concreto impeditivo levantada pelo devedor executado.
+3. O acórdão recorrido entendeu que a cópia do título executivo apresentada nos autos é suficiente para o prosseguimento da execução, presumindo-se sua veracidade, e afastou a exigência de juntada do documento original.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o recurso especial pode ser admitido diante da ausência de prequestionamento explícito ou implícito dos dispositivos legais apontados como violados e da necessidade de reexame de fatos e provas.
+III. Razões de decidir
+5. O prequestionamento explícito ou implícito dos dispositivos legais apontados como violados é requisito indispensável para a admissibilidade do recurso especial, conforme as Súmulas 282 e 356 do STF.
+6. A ausência de decisão específica sobre os dispositivos legais indicados como violados impede o conhecimento do recurso especial, sendo aplicáveis as Súmulas 211 do STJ e 282 do STF.
+7. A análise da suficiência da cópia do título executivo para o prosseguimento da execução demanda o reexame de fatos e provas, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+8. A função uniformizadora do recurso especial não permite sua utilização para revisitar o contexto fático-probatório estabelecido na instância de origem.
+IV. Dispositivo
+9. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+BR LUMBER COMÉRCIO VAREJISTA E ATACADISTA DE MADEIRAS LTDA, representada por curador especial, interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, ao argumento de violação aos arts. 286 e 884, caput, do Código Civil; 341, parágrafo único, e 425, § 2º, do Código de Processo Civil; além de divergência jurisprudencial no que diz respeito à necessidade de juntada da via original do título executivo (evento 54, RECESPEC1).
+Cumprida a fase do art. 1.030, caput, do Código de Processo Civil.
+É o relatório.
+Dispensada a relevância das questões de direito federal infraconstitucional, prevista no art. 105, § 2º, da Constituição Federal, por ainda não estar devidamente regulamentada, e preenchidos os demais requisitos extrínsecos, passo à análise da admissibilidade do recurso.
+Em relação à suposta ofensa ao art. 425, § 2º, do Código de Processo Civil, e à divergência jurisprudencial correlata, a ascensão da insurgência pelas alíneas "a" e "c" do permissivo constitucional encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+A insurgente alega que "a fundamentação retro diverge (contradiz) a determinação do Superior Tribunal de Justiça (STJ), no entendimento do art. 425, CPC, que determina a juntada do original do título executivo para prevenção de alienação do crédito, quando devedor arguir fato impeditivo, o que ocorreu no caso concreto em que o Recorrente BR arguiu o perigo da alienação, perigo aumentado pela falta de contato entre Recorrente e respectivo curador especial." (evento 54, RECESPEC1).
+O aresto recorrido, contudo, deliberou em consonância com o entendimento da Corte Superior a respeito da matéria, assim como considerou as circunstâncias fáticas sobre o caso, conforme se depreende do seguinte trecho do voto (evento 32, RELVOTO1): (..)
+Em decorrência, "as razões recursais encontram óbice na Súmula 83 do STJ, que determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo Tribunal de origem estiver em conformidade com a jurisprudência consolidada do STJ" (STJ, AgInt no AgInt no AREsp n. 1.811.324/DF, rel. Min. Luis Felipe Salomão, Quarta Turma, j. em 9-8-2022).
+Concernente à alegada ofensa aos arts. 286 e 884, caput, do Código Civil; e 341, parágrafo único, do Código de Processo Civil, a ascensão do reclamo é vedada pelas Súmulas 211 do STJ e 282 do STF, por analogia. Faz-se ausente o requisito do prequestionamento, pois a Câmara não emitiu juízo de valor acerca dos referidos artigos no julgamento da apelação, a despeito da oposição dos embargos de declaração. (..)
+Diante do exposto:
+1) com fulcro no art. 1.030, V, do CPC, NÃO ADMITO o recurso especial do evento 54, RECESPEC1;
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Sustenta o agravante a violação aos artigos 425, § 2º, 341, parágrafo único, do Código de Processo Civil, bem como aos artigos 286 e 884 do Código Civil, ao argumento que o título executivo apresentado em cópia não atende aos requisitos legais para a execução, especialmente considerando a arguição de fato concreto impeditivo levantada pelo devedor executado.
+Como se vê, a controvérsia central dos autos versa sobre a necessidade de juntada do original do título executivo em ação de execução, uma vez que o acórdão recorrido entendeu que a cópia do título executivo apresentada nos autos é suficiente para o prosseguimento da execução, presumindo-se sua veracidade, e afastou a exigência de juntada do documento original.
+Dito isto, quanto às alegadas violações aos arts. 286 e 884, caput, do Código Civil, e 341, parágrafo único, do Código de Processo Civil, a ascensão do reclamo encontra vedação expressa nas Súmulas 211 do Superior Tribunal de Justiça e 282 do Supremo Tribunal Federal.
+No presente caso, observa-se que o acórdão recorrido não enfrentou especificamente as questões jurídicas relativas aos artigos 286 e 884 do Código Civil, bem como ao artigo 341, parágrafo único, do CPC, já que a decisão limitou-se a examinar a suficiência da cópia do título executivo para o prosseguimento da execução, sem adentrar na análise das implicações jurídicas específicas dos dispositivos invocados pelo agravante.
+A análise do teor do acórdão recorrido indica que os dispositivos tidos por violados não foram debatidos pela Corte de origem.
+É certo que, por força constitucional (art. 105, III, da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. TÍTULO EXECUTIVO. CÓPIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de execução de título executivo extrajudicial.
+2. É possível o ajuizamento de execução aparelhada por cópia autenticada de título executivo extrajudicial, quando não se tratar de cambial. Precedentes.
+3. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial. 4. Em virtude do exame do mérito, por meio do qual foi rejeitada a tese sustentada pela recorrente, fica prejudicada a análise da divergência jurisprudencial.
+5. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.805.935/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/8/2019, DJe de 28/8/2019.)
+Dessa forma, "para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+É certo que: "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local (..)" (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Entretanto, para que se considere ocorrido o prequestionamento implícito, há de se ter presente, no caso concreto, a discussão da temática fático-jurídica que se pretende ver revisada nesta Corte, não se podendo cogitar de pronunciamento inaugural a respeito do enfoque pretendido pela parte recorrente em sede especial.
+Daí porque, tem-se reiterado neste colegiado que "não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte, de modo que "Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF. " (AgInt no AREsp n. 1.701.763/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 13/12/2021.)
+Por sua vez, em relação a alegada violação do artigo 425, § 2º, do CPC, que trata da juntada do original do título executivo, a aplicação da Súmula n. 7 se justifica porque a verificação do cumprimento ou não deste requisito demandaria necessariamente o exame das circunstâncias concretas dos autos, tais como: a natureza específica do documento apresentado, as condições em que foi juntado aos autos, a existência ou não de impugnação fundamentada quanto à sua autenticidade, e demais elementos fático-probatórios que caracterizam o caso concreto.
+Ora, a pretensão recursal de reexaminar se a cópia do título executivo atende ou não aos requisitos legais exigiria inevitavelmente a análise das particularidades fático-probatórias dos autos, razão pela qual se mostra inviável em sede de recurso especial, aplicando-se integralmente o óbice sumular mencionado.
+Desse modo, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TÍTULO EXECUTIVO EXTRAJUDICIAL. CERTEZA, LIQUIDEZ E EXIGIBILIDADE. REQUISITOS PRESENTES. HIGIDEZ DA CÓPIA DA CÉDULA DIGITALIZADA. JUNTADA DE DOCUMENTO ORIGINAL. DESNECESSIDADE. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior orienta no sentido de que "excepcionalmente, quando a certeza acerca da existência do ajuste celebrado pode ser obtida por outro meio idôneo, ou no próprio contexto dos autos, a exigência da assinatura de duas testemunhas no documento particular pode ser mitigada" (AgInt no AREsp n. 2.331.288/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+2. Na espécie, a questão foi resolvida com base nos elementos fáticos que permearam a demanda e na análise do contrato firmado entre as partes. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo colegiado local, para fazer valer a tese do recorrente de que o documento particular não possui força executiva, ou para afastar a legitimidade do título apresentado no processo eletrônico de forma digitalizada, demandaria a inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos vedados em recurso especial, conforme enunciado das Súmulas 5 e 7 do STJ.
+3. A incidência das Súmulas 5 e 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.605.576/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. JUNTADA DA VIA ORIGINAL DO TÍTULO DE CRÉDITO. NECESSIDADE DE ALEGAÇÃO CONCRETA E MOTIVADA PELO DEVEDOR. NÃO REALIZADA. INCIDÊNCIA
+DAS SÚMULAS N.os 7 E 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior entende que A apresentação da via original da Cédula de Crédito Bancário (CCB) só é necessária, a critério do juiz, se houver alegação concreta e motivada do executado de que o título possui alguma inconsistência formal ou material, de que ele circulou ou de que estaria sendo executado em duplicidade (REsp n. 2.061.889/PR, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+2. Na hipótese dos autos, o acórdão recorrido concluiu que não há dúvida acerca da existência do título e, portanto, necessidade de juntada de via original, motivo pelo qual é possível o prosseguimento da execução com a cópia da cédula de crédito bancário.
+3. Não foram impugnados toda a fundamentação da decisão. Aplicação da Súmula n.º 283 do STF, por analogia.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.391.313/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+(..)
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais, posto ter sido fixado na origem no máximo legal.
+É o voto.
