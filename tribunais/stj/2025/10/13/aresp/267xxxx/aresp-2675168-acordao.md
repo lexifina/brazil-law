@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PROCESSUAL CIVIL. DANOS MORAIS. FILA. BANCO. TEMPO DE ESPERA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Rever o entendimento firmado pelas instâncias ordinárias de que não houve comprovação de danos morais em razão de espera em fila do banco demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo contra a inadmissão de recurso especial interposto por A L DA S F (MENOR) e OUTRA. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a" da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas assim ementado:
+"EMENTA: DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL EM AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. TEMPO DE ESPERA EM FILA DE BANCO. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS AUTORAIS PARA CONDENAR A INSTITUIÇÃO FINANCEIRA À COMPENSAÇÃO DOS DANOS MORAIS SUPORTADOS PELAS AUTORAS. RECURSO INTERPOSTO PELO BANCO. TESES PRELIMINARES DE AUSÊNCIA DE INTERESSE DE AGIR E DE AFASTAMENTO DO BENEFÍCIO DE GRATUIDADE DE JUSTIÇA. NO MÉRITO SUSCITA A INEXISTÊNCIA DE CONDUTA ILÍCITA, DANOS NÃO COMPROVADOS, AUSÊNCIA DE NEXO CAUSAL E MEROS ABORRECIMENTOS QUE NÃO GERAM A OBRIGAÇÃO DE INDENIZAR. ALTERNATIVAMENTE REQUER A REDUÇÃO DA INDENIZAÇÃO ARBITRADA. 1. Inépcia da petição inicial. Ausência de interesse de agir. Deixar de apreciar as nuances que envolvem aferir sobre possível evento de conduta ilícita e de dano que dela pode ter resultado, acolhendo um precário apontamento sobre a inocorrência de lesão a direito, se confunde com negar jurisdição, ou, no mínimo, o desvio do dever da primazia da resolução do mérito, que corresponde ao direito das partes ao exame do mérito recursal do caso em apreço.
+2. Impugnação à concessão de gratuidade da justiça. É cediço nesta Corte de Justiça que basta a declaração de hipossuficiência da requerente para presumir o direito ao benefício, ademais os autos outros elementos dos autos demonstram que as autoras fazem jus a benesse concedida na origem.
+3. O pleito das demandantes encontraria suas balizas na Lei Municipal (Penedo/AL) 1.509/2014, a qual dispõe que as instituições bancárias teriam o limite de 20 (vinte) minutos para atender aos clientes nos dias normais, de 30 (trinta) minutos nas vésperas ou dias seguintes a feriados prolongados e dias de pagamento de servidores públicos municipais e 35 (trinta e cinco minutos) nos dias de lançamento de Programas Sociais. Contudo, a referida Lei Municipal passou a vigorar a partir de dezembro de 2014 e os fatos narrados no litígio ocorreram 8 (oito) meses antes da entrada em vigência.
+4. Não vislumbrado lastro probatório capaz de evidenciar as alegações autorais por completo, embora tenham sido colacionados os citados documentos, não resta demonstrado que a Autora procurou providenciar o pagamento em data anterior, o que seria possível e recomendável, e nem de que ela estava realmente acompanhada da filha menor no evento narrado.
+5. A mera espera por atendimento em fila por tempo superior ao disposto na legislação de regência, não configura, por si só, o dano moral., revelando-se necessário faz trazer aos autos elementos probatórios aptos a comprovar que em razão da espera na fila teve complicações. Precedentes.
+6. Inversão dos ônus de sucumbência. 7. Recurso conhecido e provido" (e-STJ fls. 185/186).
+Nas razões do recurso especial, as recorrentes sustentam violação dos artigos 6º e 14 do Código de Defesa do Consumidor e 186 e 927 do Código Civil.
+Pleiteiam pela condenação em danos morais.
+Aduzem que
+"(..) a conduta ilícita do recorrido (espera excessiva) já restou comprovada e reconhecida pelo juízo de 1ª grau, sendo mantida pelo Tribunal Estadual, quando reconheceu a comprovação do longo tempo de espera através dos documentos contidos nos autos, fato que revela a falha na prestação de serviço bancário" (e-STJ fl. 205).
+Sem contrarrazões (certidão de e-STJ fl. 216).
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso, tendo em vista a incidência da Súmula nº 7/STJ.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PROCESSUAL CIVIL. DANOS MORAIS. FILA. BANCO. TEMPO DE ESPERA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Rever o entendimento firmado pelas instâncias ordinárias de que não houve comprovação de danos morais em razão de espera em fila do banco demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Observa-se dos autos que o Tribunal de origem concluiu que não houve demonstração dos danos morais, conforme se observa dos trechos abaixo transcritos:
+"(..)
+Cinge-se a controvérsia recursal em examinar se a demora no atendimento bancário, por si só, configura lesão à honra ou à personalidade da parte Apelada, ensejando a indenização por danos morais.
+Inegável a relação de consumo, sendo a instituição financeira responsável pelos serviços prestados, nos termos do art. 14 do CDC.
+De mais a mais, é pacífico na jurisprudência que as instituições financeiras se submetam à legislação de proteção ao consumidor, conforme o entendimento consolidado na Súmula n. 297 do Superior Tribunal de Justiça, como firmada a tese: "O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+Dos fatos que ensejaram o litígio, depreendo que as Autoras, mãe e filha menor de oito anos de idade, se dirigiram à unidade bancária, em 14 de abril de 2014, com a finalidade de efetuar o pagamento de boleto bancário (GRU - Guia de Recolhimento da União) de recebimento exclusivo na instituição financeira demandada. O documento era referente à taxa de inscrição em concurso público e a data seria o último dia para a quitação da obrigação.
+Às fls. 10, encontram-se os documentos (senha de atendimento e comprovante de pagamento) que demonstram o tempo de espera superior a cinco horas.
+Baseado nessa prova, o Magistrado julgou procedente a demanda sob a seguinte fundamentação:
+ ..  No caso dos autos, verifico que as partes autoras apresentaram provas contundentes no que diz respeito à demora excessiva na espera de fila de atendimento na agência bancária, especialmente a senha de atendimento nº C116, que comprova que as clientes chegaram na agência bancária às 13:33 horas, no dia 14 de abril de 2014 e só foram atendidas às 18:31, de acordo com o comprovante de pagamento, ambos documentos foram colacionados à fl. 10. (..) Note-se que a espera em fila de agência bancária, em tempo excessivo, caracteriza falha na prestação de serviço e enseja reparação por danos morais. Entenda-se por tempo excessivo o lapso de espera que não é aceitável ao padrão médio da sociedade. (..) No caso em comento, observo que, de fato, em virtude exclusiva de falha na prestação dos serviços ofertados pela parte ré, as partes requerentes, sendo uma delas uma criança, tal como restou demonstrado nos documentos que acompanharam a exordial, esperaram na agência bancária por um tempo excessivo, ou seja, passaram mais de 05 (cinco) horas em uma fila para realizar o pagamento de um boleto. Importante mencionar que a instituição bancária não trouxe aos autos qualquer fato que pudesse justificar a referida demora. (..) Assim, o dever de indenizar por danos morais, no presente caso, é certo, tendo em vista a existência de nexo causal entre a conduta da instituição bancária e os danos sofridos pelas autoras, vez que a demandada foi a responsável pela espera injustificada de mais de 05 (cinco) horas das requerentes na fila de uma de suas agências bancárias, o que gerou naquelas danos de ordem extrapatrimonial.  ..  (Original sem grifos.)
+Nessa senda, convém consignar que o pleito das demandantes encontraria suas balizas na Lei Municipal (Penedo/AL) 1.509/2014, a qual dispõe que as instituições bancárias teriam o limite de 20 (vinte) minutos para atender aos clientes nos dias normais, de 30 (trinta) minutos nas vésperas ou dias seguintes a feriados prolongados e dias de pagamento de servidores públicos municipais e 35 (trinta e cinco minutos) nos dias de lançamento de Programas Sociais.
+Contudo, a referida Lei Municipal passou a vigorar a partir de dezembro de 2014 e os fatos narrados no litígio ocorreram 8 (oito) meses antes da entrada em vigência.
+(..)
+Neste diapasão, compulsando os autos dos processos referidos não vislumbro lastro probatório capaz de evidenciar as alegações autorais por completo. E digo isso porque embora tenham sido colacionados os citados documentos, não verifico demonstrado que a Autora procurou providenciar o pagamento em data anterior, o que seria diligencialmente possível e recomendável, e nem de que ela estava realmente acompanhada da filha menor no evento narrado.
+(..)
+Além disso, a meu ver, resta evidente que o tempo estabelecido na lei, que é posterior ao fato, não está diretamente ligado ao fato de existir dano moral, e sim, a uma tolerância de espera por um serviço.
+Assim, entendo que para se conceder a referida indenização, seria necessário mensurar eventuais danos, o que não se verifica nos autos, considerando que, sequer existia à época sanção administrativa, não há comprovação alguma nesse sentido, bem como abalo psicológico pelo fato de ter esperado por tempo a mais do que foi estabelecido legalmente como o ideal em legislação posterior ao fato.
+Efetivamente, a mera espera por atendimento em fila por tempo superior ao disposto na legislação de regência, não configura, ipso facto, o dano moral. Necessário se faz trazer aos autos elementos probatórios aptos a comprovar que em razão da espera na fila teve complicações.
+Nesse viés, o dano ou lesão à personalidade, merecedores de reparação, somente se configurariam com a exposição do demandante à situação humilhante, bem como ofensa a atributo da sua honra, imagem ou qualquer dos direitos personalíssimos tutelados no art. 5º, incisos V e X, da CF/88, o que não restou comprovado no caso dos autos.
+Isso porque, como dito, não há comprovação de que, em decorrência da espera, a Autora tenha havido qualquer situação excepcional, a fim de ensejar indenização, enquadrando-se, somente, um mero dissabor, razão pela qual, não se mostra devida a condenação a título de dano moral" (e-STJ fls. 190/193) - grifou-se .
+Dessa forma, rever os argumentos trazidos no acórdão recorrido demandaria reapreciar todo o conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. Violação aos artigos 489 e 1.022 do CPC não configurada.
+Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão ou obscuridade. Precedentes.
+2. Rever a conclusão do Tribunal de origem no sentido de que ficaram configurados os danos morais, em razão da espera excessiva e recorrente nas filas de banco, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2.1. A indenização por danos morais fixada em quantum sintonizado aos princípios da razoabilidade e da proporcionalidade não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso.
+Incidência da Súmula 7 do STJ.
+3. A incidência do referido enunciado sumular prejudica a análise do dissídio jurisprudencial alegado. Precedentes.
+4. Agravo interno desprovido."
+(AgInt no AREsp nº 2.061.945/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, DJe de 3/10/2024)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. ASSISTÊNCIA JUDICIÁRIA. RENOVAÇÃO DO PEDIDO. DESNECESSIDADE. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. TEMPO DE ESPERA EM FILA DE BANCO. DANOS MORAIS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. DECISÕES MONOCRÁTICAS. IMPOSSIBILIDADE. DIVERGÊNCIA NÃO DEMONSTRADA.
+1. A assistência judiciária gratuita estende-se a todas as instâncias e a todos os atos do processo.
+2. A renovação do pedido ou a comprovação de que a parte recorrente é beneficiária da justiça gratuita não é necessária quando da interposição do recurso especial.
+3. Não viola o art. 535 do CPC o acórdão que, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+4. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+5. Decisão monocrática de relator proferida com fundamento no art. 557 do CPC não se presta para configurar dissenso interpretativo.
+6. Agravo regimental desprovido."
+(AgRg no AREsp nº 593.007/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 21/5/2015, DJe de 26/5/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
