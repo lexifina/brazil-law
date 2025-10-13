@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. NÃO PROVIDO.
+1. A interposição de agravo de instrumento com fundamento no art. 1.015 do CPC em face da decisão que não admitiu o recurso especial, apesar de o sistema processual vigente prever expressamente o cabimento do agravo em recurso especial do art. 1.042 do CPC, caracteriza inegável erro grosseiro diante da ausência de dúvida objetiva sobre qual o instrumento adequado, o que inviabiliza a aplicação do princípio da fungibilidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Benderplast - Indústria e Comércio de Embalagens Ltda. contra decisão de fls. 874-875 que não conheceu do recurso, destacando ser manifestamente incabível, pois o Agravo de Instrumento, previsto no art. 1.015 do CPC, destina-se a atacar decisões interlocutórias de primeiro grau, enquanto o recurso cabível contra decisão que inadmite Recurso Especial é o Agravo previsto no art. 1.042 do CPC
+Na referida decisão constou ainda que a interposição equivocada do agravo de instrumento, na hipótese dos autos, constitui erro grosseiro, tornando-se inaplicável o princípio da fungibilidade.
+Nas razões do presente recurso, a agravante defende que, apesar do equívoco na citação do dispositivo legal (art. 1.015 ao invés do art. 1.042), a peça recursal possui forma, conteúdo e destinação compatíveis com o agravo previsto no art. 1.042 do CPC.
+Argumenta que o erro é meramente formal e não compromete a compreensão nem a função do ato, sendo descabido invocar a figura do "erro grosseiro". Defende a aplicabilidade do princípio da fungibilidade recursal, pois o recurso foi interposto tempestivamente, endereçado corretamente e processado nos próprios autos, sem prejuízo à parte contrária.
+Foi juntada impugnação da NV Manuchar S/A (fls. 885-889), aduzindo que a jurisprudência do STJ rejeita a aplicação do princípio da fungibilidade recursal em casos de erro grosseiro, como a interposição de Agravo de Instrumento contra decisão que inadmite Recurso Especial. Requer o desprovimento do agravo interno e a aplicação de multa de 1% a 5% do valor da causa, conforme o art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. NÃO PROVIDO.
+1. A interposição de agravo de instrumento com fundamento no art. 1.015 do CPC em face da decisão que não admitiu o recurso especial, apesar de o sistema processual vigente prever expressamente o cabimento do agravo em recurso especial do art. 1.042 do CPC, caracteriza inegável erro grosseiro diante da ausência de dúvida objetiva sobre qual o instrumento adequado, o que inviabiliza a aplicação do princípio da fungibilidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+As razões do agravo interno não comportam acolhimento.
+Inicialmente, cumpre destacar que o recurso especial foi interposto na origem em face de acórdão assim ementado:
+APELAÇÃO. DIREITO PROCESSUAL CIVIL. SENTENÇA TERMINATIVA. ABANDONO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA EMPRESA DEMANDANTE, NOS TERMOS DO ART. 485, §1º, DO CÓDIGO DE PROCESSO CIVIL. ANULAÇÃO DA SENTENÇA. Cinge-se a controvérsia recursal sobre a configuração de abandono da causa pela parte autora, hipótese que conduziria à sentença de extinção do feito, ora objurgada. Com efeito, não houve a regular intimação da parte autora a fim de que procedesse ao andamento do feito - evitando, dessa forma, sua possível extinção por abandono. Nesse sentido, o compulsar dos fólios revela que, de fato, o representante da empresa apelante no Brasil não foi intimado pessoalmente para dar andamento ao feito no prazo legal. Apenas os seus patronos foram intimados, o que contraria o disposto no art. 485, §1º do CPC. Assim, considerando o disposto nos arts.9º ("não se proferirá decisão contra uma das partes sem que ela seja previamente ouvida") e 10, ambos do NCPC ("o juiz não pode decidir, em grau algum de jurisdição, com base em fundamento a respeito do qual não se tenha dado às partes oportunidade de se manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício"), não se mostra possível a prolação de sentença de extinção, com fundamento no art. 485, III, do CPC, sem que, previamente, seja oportunizado à parte dar regular andamento ao feito.
+Dessa forma, restou configurado de forma cabal o error in procedendo, impondo-se o acolhimento da pretensão recursal para anulação do decisum, restando prejudicadas as demais alegações formuladas no agravo, em especial, em relação à prorrogação do "stay period" da empresa executada.
+Recurso conhecido e provido.
+Da análise dos autos, verifica-se que a parte ora agravante interpôs o agravo de instrumento (e-STJ, fls. 848 - 852), com amparo no art. 1.015 do Código de Processo Civil de 2015, contra a decisão do Tribunal local que não admitiu o recurso especial.
+A jurisprudência consolidada no âmbito desta Corte superior, porém, é no sentido de que, nos termos dos arts. 1.030, § 2º, e 1.042 do CPC/2015, o agravo em recurso especial é o único recurso cabível contra a decisão que não admite o recurso especial.
+Ressalte-se que a interposição equivocada de recurso quando há expressa disposição legal do recurso cabível afasta a dúvida objetiva e constitui manifesto erro grosseiro, não sendo possível a aplicação do princípio da fungibilidade recursal, como defendido pela parte agravante.
+Com efeito, na linha da jurisprudência consolidada no âmbito desta Corte, "(..) o princípio da fungibilidade recursal somente se aplica quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto, b) inexistência de erro grosseiro e c) observância do prazo do recurso cabível. neste sentido, ausente qualquer desses pressupostos, é inviável sua aplicação" (AgInt no AREsp 1.811.095/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/10/2021, DJe de 28/10/2021) - grifo nosso.
+Dessa forma, embora a parte defenda que o prazo recursal e o endereçamento correto foram observados, é inviável a aplicação do princípio da fungibilidade do recurso ao caso.
+Confiram-se ainda:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO NO AGRAVO INTERNO. ERRO GROSSEIRO. RECURSO MANIFESTAMENTE INCABÍVEL.
+1. O agravante manejou agravo de instrumento contra acórdão da Terceira Turma do STJ que considerou intempestivo o recurso especial da parte.
+2. A interposição de agravo de instrumento é manifestamente incabível contra decisão emanada de órgão colegiado e configura erro grosseiro, motivo por que não comporta a aplicação do princípio da fungibilidade recursal. Precedentes.
+Agravo não conhecido.
+(AgInt no AgInt no AREsp n. 2.560.645/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. VENDA AD CORPUS. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. NÃO PROVIDO.
+1. A interposição de agravo de instrumento com fundamento no art. 1.015 do CPC em face da decisão que não admitiu o recurso especial, apesar de o sistema processual vigente prever expressamente o cabimento do agravo em recurso especial do art. 1.042 do CPC, caracteriza inegável erro grosseiro diante da ausência de dúvida objetiva sobre qual o instrumento adequado, o que inviabiliza a aplicação do princípio da fungibilidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.409.664/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024.)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
