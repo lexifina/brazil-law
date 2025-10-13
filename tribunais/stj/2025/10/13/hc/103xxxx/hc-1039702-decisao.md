@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO CÉSAR MARQUES MORAES em que se aponta como autoridade coatora a 9ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, no julgamento da Apelação Criminal n. 1501104-22.2024.8.26.0483.
+Consta dos autos que o paciente foi condenado às penas de 5 anos e 10 meses de reclusão, em regime prisional inicial fechado, e 583 dias-multa, em razão da prática da infração penal descrita no art. 33, caput, da Lei n. 11.343/2006.
+Interposta apelação pela defesa, o Tribunal local negou provimento ao recurso.
+No presente writ, a defesa sustenta a ilegalidade do ato coator por violação à orientação consolidada no Tema 1.194 do Superior Tribunal de Justiça, bem como às Súmulas 545 e 630 do STJ, ao não reconhecer a atenuante da confissão espontânea prevista no art. 65, III, d, do Código Pena, ainda que qualificada, com reflexos na segunda fase da dosimetria, a qual deve ser aplicada, ainda que em fração menor.
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem para reconhecer a incidência da atenuante da confissão espontânea (art. 65, III, d, do CP), ainda que qualificada, nos termos do Tema n. 1.194 do STJ, com consequente redução da pena do paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela concessão da ordem, em parecer assim ementado (e-STJ fl. 63):
+EMENTA: Habeas Corpus. Tráfico de drogas. Confissão espontânea.
+Aplicabilidade. Revisão da Súmula 630 do STJ.
+- No caso, o paciente assumiu a propriedade da droga para consumo próprio, o que, segundo entendimento então vigente ao tempo da sentença, não ensejava a aplicação da atenuante, nos termos da Súmula 630 do STJ: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+- Não obstante, o posicionamento foi revisado recentemente, passando o entendimento sumular a contar com a seguinte redação: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes quando o acusado admitir a posse ou a propriedade para uso próprio, negando a prática do tráfico de drogas, deve ocorrer em proporção inferior à que seria devida no caso da confissão plena".
+Parecer pela concessão, a fim de diminuir a pena do paciente para 5 anos, 4 meses e 5 dias de reclusão.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca-se, no caso, a redução da pena, em razão da incidência de atenuante de confissão.
+No caso, o paciente assumiu a propriedade da droga para consumo próprio, conforme trecho do acórdão impugnado, o qual ora destaco:
+Ouvido em Juízo, contudo, afirmou que negou a propriedade da droga localizada em seu armário porque foi surpreendido quando os agentes policiais a localizaram, vindo a admitir que toda a droga encontrada era sua, mas destinava-se a seu uso pessoal, referindo o uso diário de maconha há 08 (oito) anos (e-STJ fl. 14).
+Com efeito, fora aplicado o entendimento vigente ao tempo da sentença condenatória, segundo o qual a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio (Súmula 630 do STJ).
+Porém, o referido entendimento foi recentemente revisado para considerar que a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes quando o acusado admitir a posse ou a propriedade para uso próprio, negando a prática do tráfico de drogas, deve ocorrer em proporção inferior à que seria devida no caso de confissão plena (TERCEIRA SEÇÃO, julgado em 10/9/2025, DJEN de 16/9/2025).
+Assim, deve incidir a atenuante de confissão espontânea de forma a diminuir a reprimenda, na segunda fase de aplicação da pena, na fração de 1/12, resultando em um total de 5 anos, 4 meses e 5 dias de reclusão, e 504 dias-multa.
+À vista do exposto, com fundamento no artigo 34, inciso XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para aplicar a pena de 5 anos, 4 meses e 5 dias de reclusão, e 5 04 dias-multa, devendo ser mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
