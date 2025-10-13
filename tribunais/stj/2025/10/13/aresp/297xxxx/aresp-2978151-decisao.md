@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284/STF.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 832):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. PRINCÍPIO DA DIALETICIDADE RECURSAL. OBSERVADO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. REJEITADO. COMPETÊNCIA MUNICIPAL. ISSQN. SEDE DO ESTABELECIMENTO DO PRESTADOR DE SERVIÇO. INTELIGÊNCIA DO ART. 3º DA LEI COMPLEMENTAR Nº 116/2003.
+1. Preliminar contrarrecursal. As razões de apelo atacam os fundamentos da sentença de forma a atender o disposto no inc. I do art. 1010 do Código de Processo Civil, em atenção ao princípio da dialeticidade. Preliminar de não conhecimento do apelo rejeitada.
+2. Preliminar recursal. Litisconsórcio passivo necessário. O contexto sub judice não enseja o reconhecimento do litisconsórcio passivo necessário, nos termos do art. 116 do Código de Processo Civil. Preliminar rejeitada.
+3. Mérito recursal. O objeto principal do contrato é o fornecimento de sistema de serviços, prestado pela parte autora através do próprio sistema e/ou via atendimento central, por meio de telefone, chat, VOIP, e-mail, internet, a partir da sede da empresa, no Centro Tecnológico, localizada no município de Rio do Sul, no Estado de Santa Catarina. As atividades descritas no objeto do contrato social do demandante não se identificam com as discriminadas nos incisos I a XXV do art. 3º da Lei Complementar nº 116/2003, que justifique afastar a regra geral da competência do município onde está situado o estabelecimento do prestador dos serviços.
+4. Sentença mantida. Honorários recursais fixados.
+PRELIMINARES REJEITADAS. APELAÇÃO DESPROVIDA. UNÂNIME.
+No recurso especial, o recorrente alega violação dos arts. 3º, caput, e 4º da LC 116/2003, sob os seguintes argumentos: a) a controvérsia fundamental trazida em questão é sobre a competência do Município de Guaíba/RS ou do Município de Rio do Sul/SC para a cobrança de ISSQN sobre a prestação de serviço, uma vez que o demandante mantém unidade técnica dentro das dependências do Município de Guaíba especificamente na Secretaria de Fazenda e Secretaria de Saúde; b) é necessário ponderar a respeito da natureza do objeto nos Contratos nº 132/2019 e 133/2019, ambos firmados com o Município de Guaíba; c) à vista dos objetos contratados e do Termo de Referência do Pregão Eletrônico nº 85/2019, é inafastável a conclusão de que foram contratados sistemas estruturantes de tecnologia da informação nos moldes explicitados, a fim de atender às necessidades de gestão patrimonial, financeira, de recursos humanos, entre outros, da Administração Municipal, não se tratando da contratação das chamadas licenças de softwares de prateleira (standards) na qual a solução é a mesma qualquer que seja o cliente; d) não há dúvida de que a prestação dos serviços foi local e continua sendo, inclusive com unidade de atendimento local de técnicos residentes; e) a complexidade da operação e o desenvolvimento local, sua manutenção e suporte presencial não podem ser considerados acessórios e contradizem o disposto no acórdão; f) não se afasta a regra geral da sujeição ativa do ente federado onde situado o estabelecimento prestador (art. 3º, caput, da LC 116/2003), mas a norma é elucidada pelo art. 4º da mesma lei considerando a unidade profissional, ainda que temporária, onde se preste os serviços a qual atrai a competência tributária do ISS ao município contratante; g) a recorrida também é contribuinte no Município de Rio do Sul/SC por força de contrato firmado (em vigor- 2º Termo Aditivo), prestando serviços àquela municipalidade; h) tal como no Município de Guaíba, é a customização às necessidades locais prevista contratualmente que confere concreção ao conceito de estabelecimento prestador previsto no art. 3º, caput, e completado pelo art. 4º, ambos da LC116/2003.
+Com contrarrazões.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado o fundamento da decisão agravada, passa-se ao exame do recurso especial.
+Em o fazendo, retira-se do acórdão recorrido (fls. 829-831):
+"O objeto principal do contrato é o fornecimento de sistema de serviços, prestado pela parte autora através do próprio sistema e/ou via atendimento central, por meio de telefone, chat, VOIP, e-mail, internet, a partir da sede da empresa, no Centro Tecnológico, localizada no município de Rio do Sul, no Estado de Santa Catarina.
+O contexto probatório revela que é ofertado atendimento remoto e virtual, consoante se extrai dos relatórios anexados aos autos (evento 18, OUT2).
+Dispõe o art. 1º da Lei Complementar 116/2003:
+(..)
+A regra da legitimidade para cobrança do ISS está disciplinada no art. 3º da referida Lei Complementar:
+(..)
+Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, consoante a literalidade do art. 4º da citada lei.
+A empresa demandante está sediada no Município Catarinense de Rio do Sul, e possui como objeto social da empresa as seguintes atividades (evento 1, Contrato Social 2):
+(..)
+Registre-se que as referidas atividades não se identificam com as discriminadas nos incisos I a XXV do art. 3º da Lei Complementar nº 116/2003, que justifique afastar a regra geral da competência do município onde está situado o estabelecimento do prestador dos serviços.
+(..)
+Por oportuno, saliente-se que a matéria foi submetida a apreciação em sede de Agravo de Instrumento, sendo reconhecida a competência tributária do Município de Rio do Sul/SC, nos termos da ementa que segue (evento 20 - ACOR2 - proc. 5095259-24.2023.8.21.7000/RS):
+(..)
+Com essas considerações, não merece provimento o apelo do Município de Guaíba/RS. Em consequência, majoro a verba honorária fixada na sentença para 12% sobre o valor da condenação, em atenção ao disposto no § 11 do art. 85 do Código de Processo Civil."
+Isso registrado, observa-se que no que diz respeito aos arts. 3º, caput, e 4º da LC 116/2003, a Corte de origem, após ampla análise dos contratos entre as partes envolvidas e do conjunto fático-probatório, firmou compreensão de que a competência tributária, no caso, é do Município de Rio do Sul/SC.
+Assim, tem-se que a revisão do entendimento a que chegou o Tribunal de origem sobre a questão demanda o reexame dos referidos contratos e dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidem à hipótese as Súmulas 5/STJ e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ISSQN. MUNICÍPIO COMPETENTE. ACÓRDÃO RECORRIDO PAUTADO NOS CONTRATOS ENTRE AS PARTES E NO CONJUNTO FÁTICO-PROBATÓRIOS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
