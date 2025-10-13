@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUÉIS. PRESCRIÇÃO. INTERRUPÇÃO. NECESSIDADE DE CITAÇÃO VÁLIDA. DEMORA NÃO IMPUTÁVEL AO JUDICIÁRIO. INAPLICABILIDADE DA SÚMULA 106/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não há falar em negativa de prestação jurisdicional quando o Tribunal estadual enfrenta de forma fundamentada a questão central da controvérsia.
+2. A jurisprudência desta Corte é pacífica no sentido de que a prescrição somente se interrompe com o despacho que ordena a citação se o autor aperfeiçoar o ato citatório no prazo legal, ressalvada a hipótese de mora exclusiva do Judiciário.
+3. Constatada a inexistência de citação válida e afastada a mora do Judiciário, não incide a Súmula 106/STJ.
+4. A alteração das conclusões do acórdão recorrido exigiria reexame de fatos e provas, providência inviável na via estreita do recurso especial, conforme Súmula 7/STJ.
+5 . O dissídio jurisprudencial não foi demonstrado, diante da ausência de cotejo analítico e de similitude fática entre os acórdãos confrontados.
+6. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por BOMPREÇO BAHIA SUPERMERCADOS LTDA. (BOMPREÇO) contra decisão que não admitiu seu recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE C O B R A N Ç A D E A L U G U E L -AUTOR/APELANTE QUE PLEITEIA INDENIZAÇÃO RELATIVA AOS ALUGUEIS NÃO REPASSADOS REFERENTE AOS MESES DE 15/05/2015 E 15/08/2015 A 15/09/2016 - SENTENÇA QUE DECLAROU A PRESCRIÇÃO, NOS TERMOS DOART. 206, § 3º, I DO CC - A PRETENSÃO RELATIVA A DÍVIDAS DECORRENTES DA LOCAÇÃO PRESCREVE EM 3 (TRÊS) ANOS, CONFORME DISPÕE O ARTIGO 206, § 3º, INCISO I, DO CÓDIGO CIVIL - NÃO OCORREU A CITAÇÃO - MARCO INICIAL DA PRESCRIÇÃO É A DATA DO AJUIZAMENTO DA AÇÃO SOMENTE EM 30/09/2016 - PRETENSÃO AUTORAL FULMINADA PELA PRESCRIÇÃO -PRECEDENTES DO STJ E DESTA CORTE - SENTENÇA MANTIDA - R E C U R S O C O N H E C I D O E DESPROVIDO. À UNANIMIDADE.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o agravante alegou (1) negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem deixou de apreciar questões relevantes ao deslinde da controvérsia, (2) violação dos arts. 202, I, do CC/2002 e 240 do CPC/2015, sustentando que a interrupção da prescrição se daria com o despacho inicial, independentemente da efetivação da citação, (3) aplicação da Súmula 106/STJ, diante da alegada ausência de inércia do autor, e, por fim, (4) dissídio jurisprudencial, com indicação de julgados paradigmas que, segundo afirma, adotam entendimento diverso sobre o termo interruptivo da prescrição.
+Apresentadas contrarrazões, o recurso não foi admitido, ensejando a interposição do presente agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUÉIS. PRESCRIÇÃO. INTERRUPÇÃO. NECESSIDADE DE CITAÇÃO VÁLIDA. DEMORA NÃO IMPUTÁVEL AO JUDICIÁRIO. INAPLICABILIDADE DA SÚMULA 106/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. REEXAME DE PROVAS. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não há falar em negativa de prestação jurisdicional quando o Tribunal estadual enfrenta de forma fundamentada a questão central da controvérsia.
+2. A jurisprudência desta Corte é pacífica no sentido de que a prescrição somente se interrompe com o despacho que ordena a citação se o autor aperfeiçoar o ato citatório no prazo legal, ressalvada a hipótese de mora exclusiva do Judiciário.
+3. Constatada a inexistência de citação válida e afastada a mora do Judiciário, não incide a Súmula 106/STJ.
+4. A alteração das conclusões do acórdão recorrido exigiria reexame de fatos e provas, providência inviável na via estreita do recurso especial, conforme Súmula 7/STJ.
+5 . O dissídio jurisprudencial não foi demonstrado, diante da ausência de cotejo analítico e de similitude fática entre os acórdãos confrontados.
+6. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não deve ser conhecido.
+(1) Negativa de prestação jurisdicional
+Não há falar em negativa de prestação jurisdicional. O Tribunal estadual enfrentou suficientemente a matéria, ainda que de forma contrária ao interesse do recorrente. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA . JURISPRUDÊNCIA DO STJ. CONFORMIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE . 1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio . 2. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai o óbice de conhecimento do recurso especial estampado na sua Súmula 83. 3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial ."4. Agravo interno desprovido.
+(STJ - AgInt no AREsp: 2263027 SP 2022/0386081-5, Relator.: GURGEL DE FARIA, Data de Julgamento: 15/05/2023, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 19/05/2023 - sem destaque no original)
+(2) Interrupção da prescrição e (3) aplicação da Súmula 106/STJ
+A decisão recorrida encontra-se em harmonia com a jurisprudência desta Corte, segundo a qual a interrupção da prescrição pelo despacho citatório está condicionada ao aperfeiçoamento do ato, ressalvada a demora exclusiva imputável ao Poder Judiciário. No caso, as instâncias ordinárias consignaram que não houve citação válida e que as dificuldades decorreram da não localização do devedor, e não de mora do serviço judiciário.
+Nesse contexto, inaplicável a Súmula 106/STJ. Para se chegar a conclusão diversa da que chegou o eg. Tribunal a quo, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial. Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal. Referida vedação encontra respaldo na Súmula n.º 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Colacionam-se os precedentes abaixo com as devidas adequações ao caso concreto:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. IAC NO RESP 1.604..412/SC. AUSÊNCIA DE INÉRCIA DESMOTIVADA NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. SÚMULA 7 DO STJ. CONTRADITÓRIO DESRESPEITADO. AGRAVO DESPROVIDO.  ..  4. De qualquer sorte, a Corte de origem foi hialina ao observar que a instituição financeira, em nenhum momento, deixou de requerer o prosseguimento da execução, laborando ativamente, por meio de diversas tentativas de penhora de imóveis, valores e outros bens em nome dos executados pessoa física, mesmo tendo o conhecimento de que a pessoa jurídica teve a falência decretada. Incidência da Súmula 7 do STJ. 5. Além de a hipótese vertente não demonstrar a ocorrência prescrição intercorrente, não se observou a prévia intimação da recorrida para assegurar o exercício oportuno do contraditório substancial da questão. 6. Agravo interno desprovido. (AgInt no REsp n. 1.981.320/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/6/2022, DJe de 1º/7/2022, sem destaque do original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.  ..  3. Rever o entendimento adotado pelo Tribunal de Justiça acerca da prescrição, especialmente, quanto à inércia do recorrido, demandaria reexame das provas colhidas nos autos, o que é inviável nesta via recursal, conforme o óbice previsto no Enunciado n.º 7 do Superior Tribunal de Justiça.  ..  7. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.854.503/PR, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 25/10/2021, DJe de 3/11/2021, sem destaque no original)
+(4) Dissídio jurisprudencial
+Por fim, o dissídio jurisprudencial não foi demonstrado, pois não houve cotejo analítico apto nem similitude fática entre os julgados comparados. A propósito:
+RECURSO ESPECIAL. EMPRESARIAL. AUTOFALÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FALIDO. DISSÍDIO JURISPRUDENCIAL. CONFRONTO ANALÍTICO. AUSÊNCIA. SIMILITUDE FÁTICA. INEXISTÊNCIA.
+1. Recurso especial interposto com fundamento na alínea "c" do permissivo constitucional.
+2. A divergência jurispru dencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3.  ..
+4. Recurso especial não conhecido.
+(REsp n. 2.113.729/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorarar honorários advocatícios porque não houve fixação na origem.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades do art. 1.026, § 2º, do CPC.
