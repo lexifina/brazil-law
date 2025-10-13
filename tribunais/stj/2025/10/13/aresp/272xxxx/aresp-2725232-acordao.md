@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (acórdão recorrido em consonância com a jurisprudência consolidada desta Corte e incidência da Súmula nº 7/STJ).
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MARILAINE SPIERING - ME e CLÉLIA MARIA ZANOL (MARILAINE e outra), contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, de relatoria do Desembargador, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. CANCELAMENTO PARCIAL DA DISTRIBUIÇÃO. DECISÃO PROLATADA EM 2013. AUSÊNCIA DE IRRESIGNAÇÃO TEMPESTIVA. DESPACHO AGRAVADO QUE APENAS SE REFERE A DECISÃO ANTERIOR. MANUTENÇÃO DA DECISÃO. DESCABE A ESTE JUÍZO DETERMINAR A ABERTURA DE PRAZO PARA RECOLHIMENTO DAS CUSTAS, QUANDO A DECISÃO QUE DETERMINOU O CANCELAMENTO DA DISTRIBUIÇÃO ADVÉM DE 2013, TENDO TRANSCORRIDO DEZ ANOS DESDE A DECISÃO PROLATADA. PARTE QUE INCLUSIVE REALIZOU PETIÇÕES DIVERSAS NOS AUTOS, SEM CONTUDO EFETUAR A INTERPOSIÇÃO DE RECURSO CABÍVEL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO DE INSTRUMENTO DESPROVIDO. (e-STJ, fls. 50-52)
+Nas razões do agravo, MARILAINE e outra apontaram: (1) a decisão de inadmissibilidade do recurso especial incorreu em erro ao aplicar a Súmula 7/STJ, pois não se trata de reexame de provas, mas de análise de violação ao art. 257 do CPC/1973 e ao art. 290 do CPC/2015, que exigem intimação pessoal para o pagamento de custas processuais; (2) a decisão recorrida violou os incisos I e II do art. 1.022 do CPC/2015, ao não enfrentar as omissões apontadas nos embargos de declaração, o que caracteriza negativa de prestação jurisdicional; (3) a decisão de inadmissibilidade equivocou-se ao aplicar a Súmula 283/STF, pois as razões do recurso especial impugnaram todos os fundamentos do acórdão recorrido; (4) a decisão de inadmissibilidade também incorreu em erro ao aplicar a Súmula 284/STF, pois as razões do recurso especial apresentaram argumentos claros e concatenados, com indicação precisa dos dispositivos legais violados.
+Houve apresentação de contraminuta por RODOIL DISTRIBUIDORA DE COMBUSTÍVEIS LTDA. (RODOIL), defendendo que o agravo não merece provimento, pois a decisão de inadmissibilidade está devidamente fundamentada e os óbices sumulares aplicados são pertinentes ao caso (e-STJ, fls. 131-134).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (acórdão recorrido em consonância com a jurisprudência consolidada desta Corte e incidência da Súmula nº 7/STJ).
+2. Agravo não conhecido.
+VOTO
+O recurso não pode ser conhecido.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, se verifica que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois a parte recorrente não refutou, de forma arrazoada, os seguintes pontos: (i) a incidência da Súmula 7/STJ, que impede o reexame do conjunto fático-probatório; e (ii) a circunstância de que o acórdão recorrido encontra-se em consonância com a jurisprudência consolidada desta Corte, inclusive com precedentes qualificados e enunciados repetitivos, afastando a alegada negativa de prestação jurisdicional.
+E isso não fez porque somente alegou, nas razões do seu agravo em recurso especial, que: o Tribunal de origem teria incorrido em omissão ao deixar de apreciar argumentos sobre ausência de intimação pessoal e cancelamento da distribuição, configurando violação aos arts. 489, §1º, IV, e 1.022, I e II, do CPC; o acórdão estadual teria apresentado fundamentação insuficiente, limitando-se a reproduzir decisões anteriores; haveria nulidade na exclusão da parte do polo ativo dos embargos à execução, em razão da ausência de intimação adequada para recolhimento de custas, em afronta ao art. 257 do CPC/1973 e ao art. 290 do CPC/2015.
+Como se observa, o agravo limitou-se a reiterar teses já deduzidas no recurso especial, sem, contudo, enfrentar os fundamentos concretos da decisão de inadmissibilidade. Para infirmar corretamente a decisão agravada, competia ao recorrente demonstrar, de forma clara e específica, como superar os óbices apontados, seja afastando a aplicação da Súmula 7/STJ, seja afastando a aplicação de jurisprudência pacífica/repetitivos.
+Assim, ausente a impugnação específica, aplica-se o art. 932, III, do CPC, sendo inviável o conhecimento do presente agravo.
+Conforme já decidiu o STJ:
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRINCÍPIOS DA NÃO SURPRESA, CONGRUÊNCIA, ADSTRIÇÃO E DIALETICIDADE. AUSÊNCIA DE VIOLAÇÃO. 3. DEPÓSITO JUDICIAL. LEVANTAMENTO DA QUANTIA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO AOS CONSECTÁRIOS DA MORA (TEMA N. 677 DO STJ). PEDIDO NEGADO PELO TRIBUNAL ESTADUAL. PARTE QUE POSTULOU A EXTINÇÃO DA EXECUÇÃO PELA SATISFAÇÃO DO DÉBITO APÓS A EXPEDIÇÃO DO SEGUNDO ALVARÁ. VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E BOA-FÉ OBJETIVA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior já decidiu que o princípio da não surpresa não incide nos casos em que a decisão é contrária aos fundamentos defendidos pela parte.
+3. Tendo em vista que o autor não impugnou especificamente o argumento de que, após a expedição do segundo alvará, postulou expressamente a extinção da execução pela satisfação do débito, incide a Súmula n. 283 do STF.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.197.117/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.)
+No mesmo sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020)
+Nessas condições NÃO CONHEÇO do agravo interposto.
+Sem honorários, por não haver condenação na instância inferior.
+Por oportuno, previn o que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, §2º, do CPC.
