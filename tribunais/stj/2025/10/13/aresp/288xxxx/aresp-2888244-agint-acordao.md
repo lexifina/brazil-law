@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO NA PARTE CONHECIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. Negativa de prestação jurisdicional, ofensa à coisa julgada, preclusão pro judicato e cabimento e base de cálculo da multa do art. 1.026, § 2º, do CPC.
+3. Aplicabilidade das Súmulas n. 7 do STJ e 282, 283, 284 e 356 do STF
+III. Razões de decidir
+4. "O percentual de aplicação da multa pela sanção processual na interposição de embargos de declaração manifestamente protelatórios do art. 1026, § 2º, do CPC, pode ser substituído por fixação de valor apto a atingir o escopo sancionador e dissuasório quando constatado valor da causa baixo ou irrisório, segundo permitido pelos arts. 80, VII, e 81, § 2º, do CPC" (EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025).
+5. Hipótese em que o valor atribuído à causa foi baixo  R$ 4.500,00  e a multa por embargos de declaração protelatórios foi fixada na origem em patamar excessivo  1% sobre débito estimado em R$ 1.860.951,80  , sendo a pena pecuniária reduzida para R$ 2.000,00.
+6. A ausência de impugnação específica do fundamento do acórdão recorrido e a apresentação de razões dissociadas atraem as Súmulas n. 283 e 284 do STF.
+7. Ausente o enfrentamento da matéria pelo Tribunal de origem, inviável seu conhecimento na via especial, por falta de prequestionamento. Súmulas n. 282 e 356 do STF.
+8. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+9. Decisão monocrática reconsiderada. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento.
+Tese de julgamento: "1. A multa por embargos de declaração protelatórios deve ser calculada com base no valor atualizado da causa, conforme o art. 1.026, § 2º, do CPC, podendo ser substituída por valor fixo apto a atingir o escopo sancionador e dissuasório quando o valor da causa for baixo ou irrisório. 2. A fixação de multa em valor excessivo, que ultrapasse os limites estabelecidos no art. 81, § 2º, do CPC, deve ser ajustada para atender aos princípios da razoabilidade e da proporcionalidade. 3. A ausência de impugnação específica e a apresentação de razões dissociadas obstam o recurso especial, conforme as Súmulas n. 283 e 284 do STF. 4. A falta do enfrentamento da tese pelo acórdão recorrido impede o conhecimento da matéria em sede especial, por ausência de prequestionamento. 5. A reavaliação de elementos fático-probatórios é vedada em recurso especial, conforme a Súmula n. 7 do STJ."
+Dispositivos relevantes citados: CPC, arts. 1.026, § 2º; 80, VII; 81, § 2º.
+Jurisprudência relevante citada: STJ, EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025; STJ, EDcl no AgInt no AREsp n. 2.074.424/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025; STJ, EDcl nos EDcl no REsp n. 1.204.425/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2014.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.738-1.746) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (fls. 1.731-1.734).
+Em suas razões, a parte agravante requer o julgamento conjunto dos agravos internos interpostos nos Agravos em Recurso Especial n. 2.888.244/SP e 2.834.062/SP, "para fins de evitar decisões conflitantes" e "para que se possa garantir efetividade ao conteúdo jurisdicional" (fl. 1.740).
+Reitera as teses de ofensa aos arts. 489, § 1º, 505, 1.022 e 1.026, § 2º, do CPC.
+Defende a inaplicabilidade das Súmulas n. 282, 283, 284 e 356 do STF.
+Sustenta ainda a não incidência da Súmula n. 7 do STJ, argumentando que "a adequação da base de cálculo da multa fixada com base no art. 1.026, § 2º, CPC, independe de fato e prova, pois basta ver que a norma fala expressamente no valor da causa, enquanto o acórdão recorrido manteve como base de cálculo da multa o valor do "débito"" (fl. 1.744).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação às fls. 1.750-1.767.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO NA PARTE CONHECIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Questão em discussão
+2. Negativa de prestação jurisdicional, ofensa à coisa julgada, preclusão pro judicato e cabimento e base de cálculo da multa do art. 1.026, § 2º, do CPC.
+3. Aplicabilidade das Súmulas n. 7 do STJ e 282, 283, 284 e 356 do STF
+III. Razões de decidir
+4. "O percentual de aplicação da multa pela sanção processual na interposição de embargos de declaração manifestamente protelatórios do art. 1026, § 2º, do CPC, pode ser substituído por fixação de valor apto a atingir o escopo sancionador e dissuasório quando constatado valor da causa baixo ou irrisório, segundo permitido pelos arts. 80, VII, e 81, § 2º, do CPC" (EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025).
+5. Hipótese em que o valor atribuído à causa foi baixo  R$ 4.500,00  e a multa por embargos de declaração protelatórios foi fixada na origem em patamar excessivo  1% sobre débito estimado em R$ 1.860.951,80  , sendo a pena pecuniária reduzida para R$ 2.000,00.
+6. A ausência de impugnação específica do fundamento do acórdão recorrido e a apresentação de razões dissociadas atraem as Súmulas n. 283 e 284 do STF.
+7. Ausente o enfrentamento da matéria pelo Tribunal de origem, inviável seu conhecimento na via especial, por falta de prequestionamento. Súmulas n. 282 e 356 do STF.
+8. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+9. Decisão monocrática reconsiderada. Agravo em recurso especial conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento.
+Tese de julgamento: "1. A multa por embargos de declaração protelatórios deve ser calculada com base no valor atualizado da causa, conforme o art. 1.026, § 2º, do CPC, podendo ser substituída por valor fixo apto a atingir o escopo sancionador e dissuasório quando o valor da causa for baixo ou irrisório. 2. A fixação de multa em valor excessivo, que ultrapasse os limites estabelecidos no art. 81, § 2º, do CPC, deve ser ajustada para atender aos princípios da razoabilidade e da proporcionalidade. 3. A ausência de impugnação específica e a apresentação de razões dissociadas obstam o recurso especial, conforme as Súmulas n. 283 e 284 do STF. 4. A falta do enfrentamento da tese pelo acórdão recorrido impede o conhecimento da matéria em sede especial, por ausência de prequestionamento. 5. A reavaliação de elementos fático-probatórios é vedada em recurso especial, conforme a Súmula n. 7 do STJ."
+Dispositivos relevantes citados: CPC, arts. 1.026, § 2º; 80, VII; 81, § 2º.
+Jurisprudência relevante citada: STJ, EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025; STJ, EDcl no AgInt no AREsp n. 2.074.424/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025; STJ, EDcl nos EDcl no REsp n. 1.204.425/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2014.
+VOTO
+Preliminarmente, impende assinalar ser "faculdade do julgador a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a intensidade da conexão e o grau de risco da ocorrência de decisões contraditórias" (AgInt no AREsp n. 2.125.002/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+No caso concreto, a decisão ora exarada não implica prejuízo à prestação jurisdicional a ser efetuada no AREsp n. 2.888.244/SP, ausente risco de decisões contraditórias ou de dano às partes.
+No que diz respeito à pretensão de correção da base de cálculo da multa imposta com fundamento no art. 1.026, § 2º, do CPC, reconsidero a decisão agravada, em razão da omissão do acórdão recorrido e tendo em vista a inaplicabilidade da Súmula n. 7 do STJ no que diz respeito à pretensão.
+Alegada e confirmada a ofensa aos arts. 489, § 1º, e 1.022 do CPC quanto à referida questão, admite-se seu prequestionamento ficto, na forma do art. 1.025 do CPC.
+O § 2º do art. 1.026 do CPC é expresso no sentido de que, "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa" (grifei).
+No respeitante à matéria, todavia, a Corte Especial deste Tribunal Superior entende que "o percentual de aplicação da multa pela sanção processual na interposição de embargos de declaração manifestamente protelatórios do art. 1026, § 2º, do CPC, pode ser substituído por fixação de valor apto a atingir o escopo sancionador e dissuasório quando constatado valor da causa baixo ou irrisório, segundo permitido pelos arts. 80, VII, e 81, § 2º, do CPC" (EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025).
+É o caso dos autos, em que o valor atribuído à causa foi de R$ 4.500,00 (quatro mil e quinhentos reais) (fl. 56) e a multa por embargos de declaração protelatórios, ainda que fosse fixada no percentual máximo, implicaria pena pecuniária ínfima e sem aptidão dissuasória.
+Por outro lado, atento ao que dispõe o art. 1.026, § 2º, do CPC e observados os parâmetros indicados no julgado mencionado, especialmente o limite estabelecido no art. 81, § 2º, do CPC, não se justifica a fixação da multa no patamar de "1% do débito" (fl. 1.523)  estando a dívida estimada em R$ 1.860.951,80 (um milhão e oitocentos e sessenta mil e novecentos e cinquenta e um reais e oitenta centavos) (fls. 1.507-1.509)  , porquanto representaria sanção excessiva, em montante superior a 10 (dez) vezes o valor do salário-mínimo.
+Nesse contexto, impõe-se a redução da multa por embargos de declaração protelatórios para o valor de R$ 2.000,00 (dois mil reais), segundo critério adotado nesta Corte em situações análogas (EDcl no AgInt nos EAREsp n. 2.253.009/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025; EDcl no AgInt no AREsp n. 2.074.424/GO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 13/2/2025; e EDcl nos EDcl no REsp n. 1.204.425/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/8/2014, DJe de 12/8/2014).
+No mais, a insurgência não merece acolhida.
+Conforme relatado na decisão agravada, o BANCO BRADESCO S.A. apontou, em sede especial, violação dos seguintes dispositivos legais (fl. 1.732):
+(i) arts. 489, § 1º, e 1.022 do CPC, aduzindo omissão do acórdão recorrido acerca das seguintes alegações: "a) violação da coisa julgada que determinou a devolução apenas das diferenças de correção monetária; b) da ocorrência de preclusão pro judicato quanto ao decidido agravo de instrumento nº 2078499-08.2016.8.26.0000; e c) da necessidade de afastamento da multa arbitrada por embargos protelatórios  .. " (fl. 1.585);
+(ii) art. 505 do CPC, alegando ofensa à coisa julgada e preclusão pro judicato; e
+(iii) art. 1.026, § 2º, do CPC, defendendo a inaplicabilidade da multa por oposição de embargos de declaração protelatórios.
+Entretanto, a Corte estadual pronunciou-se, de forma clara e suficiente, acerca das alegações de ofensa à coisa julgada e de preclusão pro judicato, concluindo pelo não conhecimento das referidas matérias, nos seguintes termos (fls. 1.556-1.558):
+ ..  o recurso comporta parcial conhecimento.
+Isso porque, o banco Agravante já interpôs, em 23/02/2024, o Agravo de Instrumento nº 2044669-70.2024.8.26.0000, em que também requer "o recebimento do presente recurso, sendo preliminarmente concedido o efeito suspensivo buscado, impedindo-se, com isso, o prosseguimento do feito na origem, notadamente a execução lastreada em cálculos baseados em critérios precários e contrários à coisa julgada, sobre os quais pende discussão na instância superior", como na hipótese.
+E, ainda que os recursos se refir am a decisões distintas, patente que a intenção de suas interposições é a mesma: sobrestar o feito, especialmente, na indefinição dos critérios para o cálculo do débito, que estariam sendo discutidos no REsp 1726731/SP, de relatoria do Ministro Antonio Carlos Ferreira; neste contexto, ainda estariam em andamento Agravo em Recurso Especial e Agravo Interno.
+Em consulta processual no site do E. Superior Tribunal de Justiça, observa-se o trânsito em julgado do REsp 1726731/SP em 19/05/2021, mesmo dia em que se deu sua baixa definitiva para este E. Tribunal.
+Ademais, as fls. 1.422/1.426 revelam a inadmissão do recurso especial e a negativa de seguimento ao recurso extraordinário pelo Presidente da Seção de Direito Privado.
+Por conseguinte, ao receber o Agravo de Instrumento nº 2044669-70.2024.8.26.0000, esta Relatora negou o efeito suspensivo pleiteado, porquanto não se vislumbrou os requisitos necessários para sua concessão, pendendo de julgamento, ainda, o mérito supramencionado.
+Assim sendo, tem-se pela existência de dois recursos que, embora impugnem de forma superficial, aliás duas decisões diversas, deduzem o mesmo pedido: que se impeça o prosseguimento do feito na origem, notadamente em relação aos cálculos, sobre os quais pende discussão na instância superior.
+Mesmo que assim não fosse, é de se salientar que o pleito em questão sequer se refere a algum ponto específico das decisões recorridas, tampouco busca sua reforma, de modo a assinalar ausência de interesse recursal.
+Portanto, deixo de conhecer do pedido novamente formulado, devendo o banco recorrente aguardar o julgamento do Agravo de Instrumento nº 2044669-70.2024.8.26.0000.
+Desse modo, não há falar em violação dos arts. 489, § 1º, e 1.022 do CPC quanto àqueles temas.
+Ademais, ausente em sede especial impugnação específica dos motivos do não conhecimento das teses de ofensa à coisa julgada e de preclusão pro judicato, bem como apresentadas razões dissociadas dos respectivos fundamentos, incidem as Súmulas n. 283 e 284 do STF.
+Consequentemente, carece do indispensável preque stionamento a questão relacionada à violação do art. 505 do CPC, de sorte que são aplicáveis ainda as Súmulas n. 282 e 356 do STF.
+Por fim, rever a conclusão do acórdão, quanto ao cabimento da multa do art. 1.026, § 2º, do CPC, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Diante do exposto, reconsidero a decisão de fls. 1.731-1.734 para CONHECER do agravo nos próprios autos, a fim de CONHECER EM PARTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO, com o intuito de reduzir para R$ 2.000,00 (dois mil reais) a multa imposta na origem com fundamento no art. 1.026, § 2º, do CPC.
+É como voto.
