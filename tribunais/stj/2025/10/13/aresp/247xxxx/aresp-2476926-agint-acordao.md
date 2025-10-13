@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISCUSSÃO ACERCA DA CONCURSALIDADE DO CRÉDITO OBJETO DE EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE. NATUREZA TRIBUTÁRIA DO CRÉDITO IDENTIFICADA NA ORIGEM. NÃO SUBMISSÃO AO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. PRECEDENTES. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. A jurisprudência do STJ consolidou-se no sentido de que o crédito de natureza tributária, via de regra, não se submete ao procedimento de recuperação judicial, sendo a competência do juízo recuperacional restrita à análise da viabilidade da constrição realizada em execução fiscal. Precedentes.
+2. Não há como rever o entendimento do Tribunal de origem que, diante das circunstâncias fáticos-probatórias, concluiu ser incontroversa a natureza tributária do crédito perseguido, sob pena de violar o disposto na Súmula n. 7 do STJ.
+3. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AIDA ALIMENTOS LTDA - EM RECUPERAÇÃO JUDICIAL contra decisão que negou provimento ao agravo em recurso especial.
+Em suas razões, a parte sustenta que o crédito perseguido na origem possui natureza concursal, motivo pelo qual deve ser submetido ao procedimento de recuperação judicial, sob pena de violação do disposto no art. 49 da Lei n. 11.101/2005. Afirma que a situação não demanda revisão de fatos e provas, motivo pelo qual, não há falar em aplicação do óbice da Súmula n. 7 do STJ, no caso concreto.
+Requer, portanto, que seja reconsiderada a decisão agravada e dado provimento ao recurso, de modo a reconhecer a natureza concursal do crédito exequendo, devendo ser habilitado no processo de recuperação judicial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISCUSSÃO ACERCA DA CONCURSALIDADE DO CRÉDITO OBJETO DE EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE. NATUREZA TRIBUTÁRIA DO CRÉDITO IDENTIFICADA NA ORIGEM. NÃO SUBMISSÃO AO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. PRECEDENTES. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. A jurisprudência do STJ consolidou-se no sentido de que o crédito de natureza tributária, via de regra, não se submete ao procedimento de recuperação judicial, sendo a competência do juízo recuperacional restrita à análise da viabilidade da constrição realizada em execução fiscal. Precedentes.
+2. Não há como rever o entendimento do Tribunal de origem que, diante das circunstâncias fáticos-probatórias, concluiu ser incontroversa a natureza tributária do crédito perseguido, sob pena de violar o disposto na Súmula n. 7 do STJ.
+3. Agravo desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Como bem relatado na decisão agravada, o caso dos autos tem origem em agravo de instrumento interposto contra decisão proferida nos autos de execução de título extrajudicial, que determinou o bloqueio de valores nas contas bancárias da agravante, convertendo-o em penhora.
+O referido recurso foi parcialmente provido na origem para suspender a execução até que os atos constritivos fossem analisados pelo Juízo da recuperação judicial.
+Irresignada, a defesa interpôs o competente recurso especial informando que o crédito perseguido é concursal, devendo ser integralmente submetido ao procedimento de recuperação judicial.
+O presente agravo interno reitera os referidos argumentos. Contudo, sem razão.
+Isso porque, a despeito dos argumentos defensivos acerca da concursalidade do crédito, bem como da sua origem contratual, certo é que o Tribunal de origem considerou ser incontroversa a natureza tributária do crédito pertencente à recorrida, que pertence ao sistema "S".
+Por esse motivo, o relator concluiu pela impossibilidade de se extinguir a execução promovida em primeiro grau, determinando-se, entretanto, a submissão das medidas constritivas ao Juízo recuperacional, de modo a ser possível a avaliação acerca do comprometimento do soerguimento da empresa.
+Para justificar a posição acima, foi citado na decisão agravada o seguinte excerto do acórdão (fl. 255):
+O julgado acima citado, que culminou com o cancelamento do Tema 987 e determinação de adoção de tais medidas de cooperação entre os juízos envolvidos (o da execução e o da recuperação judicial), faz constantes referências à análise dos atos constritivos. Nessa medida, necessária se faz a submissão ao juízo por onde se processa a recuperação judicial de pleitos para constrições que eventualmente possam prejudicar o cumprimento do plano apresentado nos seus autos. Em razão de tal situação jurídica, a empresa em recuperação não dispõe livremente de seus bens, com o que não se haveria de cogitar de dilapidação ou ocultação de valores, não havendo razão para bloquear os referidos valores, convertendo-os em penhora, não sem antes serem analisados pelo juízo da recuperação judicial.
+Dessa maneira, entendeu-se que o acórdão está em consonância com a jurisprudência do STJ a respeito do tema, segundo a qual, "o deferimento do plano de recuperação judicial não suspende as Execuções Fiscais. Ressalva-se, todavia, que "cabe ao juízo da recuperação judicial verificar a viabilidade da constrição efetuada em sede de execução fiscal, observando as regras do pedido de cooperação jurisdicional" (art. 69 do CPC/2015), podendo determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial" (AgInt no AgInt no AREsp n. 2.336.422/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/4/2024, DJe de 2/5/2024).
+Acrescentou-se, por fim, que não haveria como rever o entendimento da Corte de origem acerca da natureza tributária do crédito perseguido, ante o óbice da Súmula n. 7 do STJ, o que também afastaria a tese defensiva acerca da sua concursalidade, visto que o crédito tributário, como regra, não se submete à recuperação judicial.
+Nesse contexto , convém mencionar que "os créditos tributários não se submetem ao concurso formal (ou processual) instaurado com a decretação da falência ou com o deferimento da recuperação judicial, vale dizer, não se subordinam à vis attractiva (força atrativa) do Juízo falimentar ou recuperacional, motivo pelo qual as execuções fiscais devem ter curso normal nos juízos competentes (artigo 76 da Lei 11. 101/2005)" (REsp n. 1.466.200/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4/12/2018, DJe de 12/2/2019.)
+Caso, pois, de manutenção da decisão agravada pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
