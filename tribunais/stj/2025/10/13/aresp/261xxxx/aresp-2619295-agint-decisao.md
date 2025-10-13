@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interno interposto por INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA contra decisão proferida por esta relatoria, a qual conheceu do agravo para negar provimento ao recurso especial, assim ementada (e-STJ, fl. 1.019):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO. DIFERENÇA ENTRE 80% DO VALOR DO DEPÓSITO E AQUELE FIXADO NA CONDENAÇÃO. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O apelo excepcional foi manejado com base na alínea a do permissivo constitucional, por meio do qual o ora agravante se insurgiu contra acórdão assim ementado (e-STJ, fl. 888):
+ADMINISTRATIVO. DESAPROPRIAÇÃO AGRÁRIA. JUROS COMPENSATÓRIOS. HONORÁRIOS ADVOCATÍCIOS. PROVIMENTO PARCIAL DA APELAÇÃO DO INCRA.
+1. Não são devidos juros compensatórios quando o imóvel possuir graus de utilização da terra e de eficiência na exploração iguais a zero, por força dos §§ 1º e 2º, do artigo 15-A, do Decreto nº 3.365/1941, declarados constitucionais pelo STF, no julgamento de mérito da ADI 2.332/DF.
+2. Nas ações de desapropriação para a reforma agrária, após a edição da Lei º 13.465, em 12 de julho de 2017, que acrescentou o § 9º no art. 5º da Lei nº 8.629/93, o percentual de juros compensatórios passa a ser o mesmo fixado para remunerar os títulos da dívida agrária depositados como oferta inicial para a terra nua.
+3. O STJ fixou a tese de que as normas que disciplinam a incidência dos juros compensatórios, como consectários legais da condenação, têm aplicação imediata aos processos em curso, ainda que não retroativa, aplicando-a a partir de sua edição.
+4. O imóvel apresentou graus de utilização da terra e de eficiência na exploração iguais a zero, devendo ser afastada a incidência de juros compensatório desde a sua imissão na posse, em 02/12/2015, por força do § 2º, do art. 15-A, do DL 3.365/41, até 12 de julho de 2017, quando entrou em vigor Lei º 13.465, que acrescentou o § 9º no art. 5º da Lei nº 8.629/93, pelo qual, nas desapropriações para fins de reforma agrária, o percentual de juros compensatórios deve ser fixado no mesmo patamar daqueles utilizados para remunerar os títulos depositados como oferta inicial para a terra nua, norma que deve incidir no segmento.
+5. A base de cálculo dos juros compensatórios em desapropriações corresponde à diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença.
+6. A verba incide até a data da primeira conta, que liquida a sentença e que efetivamente origina o precatório. Ou seja, o termo dos juros ad quem compensatórios deve ser a data da conta de liquidação, que dá origem ao precatório original e a expedição dos TDA"s.
+7. Havendo divergência, para maior, entre o preço ofertado em juízo e o valor do bem, fixado na sentença, são devidos os honorários advocatícios no percentual de 5% (cinco por cento), não somente em atenção ao trabalho dos profissionais, como também porque o percentual está entre os limites fixados na lei e em harmonia com a iterativa jurisprudência desta Corte.
+8. Apelação provida em parte.
+Em suas razões de recurso especial (e-STJ, fls. 929-936), o recorrente alegou violação aos arts. 1.022 do CPC; e 5º, § 9º, da Lei n. 8.629/1993, a partir da edição da Lei n. 13.465/2017.
+Apontando omissão por parte do acórdão recorrido, acerca da rejeição da incidência do art. 5º, § 9º, da Lei n. 8.629/1993.
+Asseverou que apesar de o aresto recorrido reconhecer a aplicação imediata da incidência da Lei n. 13.465/2017 deixou de observar que a base de cálculo dos juros compensatórios também sofreu alteração com a vigência da citada lei.
+Ponderou que a norma não foi declarada inconstitucional pelo STF, logo, a partir da sua entrada em vigor, a base de cálculo dos juros compensatórios deve ser a diferença entre o valor da condenação e o valor total da oferta, ou seja, entre cem por cento da oferta e cem por cento da condenação.
+Contrarrazões apresentadas às fls. 948-960 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 961-963).
+O apelo especial foi inadmitido na origem (e-STJ, fls. 961-963), o que motivou a interposição de agravo em recurso especial (e-STJ, fls. 966-973), o recurso foi julgado monocraticamente pela Presidência desta Corte, não conhecendo do recurso (e-STJ, fls. 985-986).
+Às fls. 1.019-1.032 (e-STJ, esta relatoria após reconsiderar a decisão proferida pela Presidência do STJ, negou provimento à pretensão do insurgente.
+No agravo interno (e-STJ, fls. 1.040-1.047), o agravante pretende a reforma da decisão agravada.
+Para tanto, reitera a aplicação do art. 5º, § 9º, da Lei n. 8.629/1993, com redação dada pela Lei n. 13.465/2017, que alterou a base de cálculo dos juros compensatórios em desapropriações agrárias.
+Afirma que a partir da vigência da citada norma, ou seja 12/7/2017, a base de cálculo deve se dar pela diferença entre o valor total da condenação e o valor total da oferta, e não mais 80% do valor do depósito, como previsto anteriormente.
+Sendo assim, defende a aplicação imediata da Lei n. 14.620/2023, que entrou em vigor em 13/7/2023, e alterou o art. 15-A do Decreto-Lei n. 3.365/1941, a qual veda a incidência de juros compensatórios nas indenizações relativas às desapropriações de interesse social para fins de reforma agrária, previstas no art. 184 da Constituição Federal e, que por se tratar de legislação superveniente, deve ser aplicada aos processos em curso, conforme entendimento consolidado do STJ e do STF.
+Ao final, pugna pela aplicação da Lei n. 13.465/2017 para alterar a base de cálculo dos juros compensatórios até 13/7/2023, assim como a exclusão da incidência de juros compensatórios a partir de 13/7/2023, em conformidade com a Lei n. 14/620/2023.
+Impugnação apresentada às fls. 1.050-1.057 (e-STJ).
+É o relatório.
+Na decisão agravada, após afastar a alegação de negativa de prestação jurisdicional, foi asseverado que a conclusão a que chegou a Corte originária não destoava do entendimento jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça de que os juros remuneratórios prestam-se a remunerar a perda antecipada da posse, sendo assim a base de cálculo é a diferença entre 80% do valor do depósito e aquele fixado na condenação.
+De fato, após a interposição do recurso especial pela parte ora agravante, houve a entrada em vigor da Lei n. 14.620/2023, a qual alterou a redação do art. 15-A do Decreto-Lei n. 3.365/1945, no sentido de que os juros compensatórios passariam a incidir sobre o valor da diferença entre o montante ofertado em juízo e o valor do bem fixado na sentença.
+Com efeito, esta Corte Superior tem se firmado no sentido de que os juros compensatórios devem ser arbitrados de acordo com as normas vigentes no momento de sua incidência:
+A propósito:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. JUROS COMPENSATÓRIOS. AÇÃO DE DESAPROPRIAÇÃO. LEI SUPERVENIENTE À INTERPOSIÇÃO DO RECURSO ESPECIAL. APLICABILIDADE. RECURSO PROVIDO.
+1. Os juros compensatórios discutidos em ação de desapropriação estão sujeitos à lei vigente no momento de sua fixação, motivo pelo qual, desde que o título judicial ainda não tenha sido formado, a lei superveniente à interposição do recurso especial em que se discute juros compensatórios deve ser aplicada.
+2. Agravo interno a que se dá provimento; determina-se a aplicação ao presente caso do art. 15-A do Decreto-Lei 3.365/1945, com a redação dada pela Lei 14.620/2023.
+(AgInt no REsp n. 2.007.300/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/5/2025, DJEN de 22/5/2025.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS, MORATÓRIOS E HONORÁRIOS ADVOCATÍCIOS EM AÇÕES EXPROPRIATÓRIAS. DECRETO-LEI N. 3.365 /1945, ARTS. 15-A E 15-B. ADI 2.332/STF. PROPOSTA DE REVISÃO DE TESES REPETITIVAS. COMPETÊNCIA. NATUREZA JURÍDICA DAS TESES ANTERIORES À EMENDA 26/2016. CARÁTER ADMINISTRATIVO E INDEXANTE. TESES 126, 184, 280, 281, 282, 283 E SÚMULAS 12, 70, 102, 141 E 408 TODAS DO STJ. REVISÃO EM PARTE. MANUTENÇÃO EM PARTE. CANCELAMENTO EM PARTE. EDIÇÃO DE NOVAS TESES. ACOLHIMENTO EM PARTE DA PROPOSTA. MODULAÇÃO. AFASTAMENTO.
+ ..
+13. Edição de nova tese: "Os juros compensatórios observam o percentual vigente no momento de sua incidência.". Evidencia-se a interpretação deste Tribunal sobre a matéria, já constante nos julgados repetitivos, mas não enunciada como tese vinculante própria.
+ ..
+17. Proposta de revisão de teses repetitivas acolhida em parte.
+(Pet n. 12.344/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 28/10/2020, DJe de 13/11/2020.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. JUROS COMPENSATÓRIOS. AJUSTE ÀS TESES REPETITIVAS REVISADAS NA PET 12.344 E LEIS SUPERVENIENTES À INTERPOSIÇÃO DO RECURSO ESPECIAL (MP 700/15 E LEI 13.465/17). INCIDÊNCIA TEMPORAL E HIPÓTESES DE EXCLUSÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. A incidência dos juros compensatórios se pauta pela norma vigente no momento de sua aplicação.
+2. Havendo alteração normativa - legal e jurisprudencial - superveniente à interposição do especial e no curso de seu julgamento, é forçosa a adequação do provimento jurisdicional.
+ ..
+5. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no REsp n. 1.320.652/SE, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/10/2021, DJe de 26/10/2021.)
+Desse modo, apesar de a Lei n. 14.620/2023 ser superveniente à interposição do recurso especial, levando em consideração o entendimento desta Corte, ela deve ser aplicada de forma imediata a os juros compensatórios provenientes da ação de desapropriação.
+Ante o exposto, em juízo de retratação, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinar o retorno dos autos ao tribunal de origem para que, em novo julgamento da apelação, seja analisada a incidência dos juros compensatórios à luz das inovações promovidas pela Lei n. 14.620/2023, na parte em que alterou o art. 15-A do Decreto-Lei n 3.365/1945 .
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. BASE DE CÁLCULO. SUPERVENIÊNCIA À INTERPOSIÇÃO DO RECURSO ESPECIAL DE LEI QUE PROMOVEU ALTERAÇÃO NO ART. 15-A DO DECRETO-LEI N. 3.365/1941. APLICABILIDADE IMEDIATA. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RETRATAÇÃO .
