@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. RESPONSABILIDADE CIVIL. CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE POR CANCELAMENTOS E "CHARGEBACKS". REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA. AGRAVO NÃO CONHECIDO.
+I. Caso em Exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso, III, alíneas "a" e "c", da Constituição Federal.
+II Questão em discussão
+2. A questão em discussão consiste em saber (i) Se o Recurso especial pode ser conhecido considerando a alegação de violação aos artigos 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, diante da existência de óbice da súmula 7 do STJ (ii), Se o dissídio jurisprudencial foi devidamente comprovado.
+III- Razões de decidir
+3. A pretensão de revisão do entendimento do Tribunal de origem acerca do reconhecimento responsabilidade do recorrente por danos decorrentes de cancelamentos ou chargebacks, em razão da impossibilidade de não poder assumir riscos de negócio alheio, demanda necessariamente o reexame do conjunto fático-probatório dos autos, providência vedada pelo enunciado da Súmula 7 do Superior Tribunal de Justiça.
+4. A alegada violação aos artigos 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, não restou demonstrada de forma inequívoca, uma vez que o acórdão recorrido decidiu a controvérsia com base na análise das circunstâncias específicas da causa, não havendo ofensa direta aos dispositivos legais invocados.
+5. Para a adequada demonstração do dissídio jurisprudencial, não é suficiente a mera transcrição de ementas de julgados, sendo imprescindível a comprovação analítica da divergência mediante cotejo minucioso das circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, evidenciando soluções jurídicas diversas para situações análogas.
+6. A ausência de comprovação adequada do dissídio jurisprudencial, conjugada com a incidência da Súmula 7/STJ, constitui óbice intransponível ao conhecimento do recurso especial.
+IV DISPOSITIVO
+7. Agravo não Conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto com art. 105, III, "a" e "c", da Constituição Federal ,contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, (e-STJ 332-349), uma vez que foi claro quanto aos pedidos e artigos violados. Sustenta que o acórdão recorrido incorreu em (i) violação aos arts. 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, tendo em vista a ilegitimidade passiva verificada e necessidade de se reconhecer a denunciação da lide aos consumidores; (ii) Existência de dissenso jurisprudencial.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, tratando o recurso de meio de rediscussão dos fatos (e-STJ 365-382).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. RESPONSABILIDADE CIVIL. CLÁUSULA DE EXCLUSÃO DE RESPONSABILIDADE POR CANCELAMENTOS E "CHARGEBACKS". REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA. AGRAVO NÃO CONHECIDO.
+I. Caso em Exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso, III, alíneas "a" e "c", da Constituição Federal.
+II Questão em discussão
+2. A questão em discussão consiste em saber (i) Se o Recurso especial pode ser conhecido considerando a alegação de violação aos artigos 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, diante da existência de óbice da súmula 7 do STJ (ii), Se o dissídio jurisprudencial foi devidamente comprovado.
+III- Razões de decidir
+3. A pretensão de revisão do entendimento do Tribunal de origem acerca do reconhecimento responsabilidade do recorrente por danos decorrentes de cancelamentos ou chargebacks, em razão da impossibilidade de não poder assumir riscos de negócio alheio, demanda necessariamente o reexame do conjunto fático-probatório dos autos, providência vedada pelo enunciado da Súmula 7 do Superior Tribunal de Justiça.
+4. A alegada violação aos artigos 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, não restou demonstrada de forma inequívoca, uma vez que o acórdão recorrido decidiu a controvérsia com base na análise das circunstâncias específicas da causa, não havendo ofensa direta aos dispositivos legais invocados.
+5. Para a adequada demonstração do dissídio jurisprudencial, não é suficiente a mera transcrição de ementas de julgados, sendo imprescindível a comprovação analítica da divergência mediante cotejo minucioso das circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, evidenciando soluções jurídicas diversas para situações análogas.
+6. A ausência de comprovação adequada do dissídio jurisprudencial, conjugada com a incidência da Súmula 7/STJ, constitui óbice intransponível ao conhecimento do recurso especial.
+IV DISPOSITIVO
+7. Agravo não Conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A parte agravante sustenta que o acórdão recorrido incorreu em (i) violação aos arts. 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC, tendo em vista a ilegitimidade passiva verificada e necessidade de se reconhecer a denunciação da lide aos consumidores; (ii) Existência de dissenso jurisprudencial.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+I. Trata-se de recurso especial interposto por WIRECARD BRAZIL INSTITUIÇÃO DE PAGAMENTO S/A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o V. Acórdão proferido na C. 14ª Câmara de Direito Privado.
+II. O recurso não reúne condições de admissibilidade pela alínea "a" da norma autorizadora.
+Violação aos artigos 186, 421-A e 927, do CC e 7º, 125, II e 369, do CPC:
+Não ficou demonstrada a alegada vulneração aos dispositivos em referência, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão. Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial" (Agravo em Recurso Especial 1871253/DF, Relator Ministro Marco Buzzi, in DJe de 09.08.2022).
+Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+III. Melhor sorte não colhe o reclamo sob o prisma da letra "c".
+Não ficou demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas entre os Vv. Acórdãos recorrido e paradigma.
+Nesse sentido: "(..) em relação ao apontado dissídio jurisprudencial, cumpre assinalar que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, c, da Constituição
+Federal, se a divergência não estiver comprovada nos moldes dos arts. 1029, § 1º, do CPC/2015; e 255, parágrafos 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades dos precedentes colacionados diferem do caso em análise, o que inviabiliza a configuração da divergência jurisprudencial, conforme exigência legal e regimental" (Agravo Interno no Agravo em Recurso Especial 1830578/SP, Relator Ministro Marco Aurélio
+Bellizze, in DJe de 01.09.2020).
+Falta de juntada dos precedentes que deram origem à Súmula 381, da C. Corte Superior:
+O dissenso sumular deve ser comprovado mediante a juntada dos precedentes que deram origem à Súmula, com a realização do devido cotejo analítico, que se dá mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e dos precedentes que originaram o verbete indicado como divergente, apontadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (confira-se: Agravo em Recurso Especial 1517124/SC, Relator Ministro Paulo de Tarso Sanseverino, in DJe de 04.12.2019).
+IV. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+O objeto da controvérsia gira em torno da irresignação do agravante pelo indeferimento da denunciação da lide, pelo que sustenta a violação aos artigos 186, 421-A e 927 do Código Civil, bem como aos artigos 7º, 125, II e 369 do Código de Processo Civil.
+No caso, não se verifica violação aos artigos 186, 421-A e 927 do Código Civil, tampouco aos artigos 7º, 125, II e 369 do Código de Processo Civil, uma vez que a decisão recorrida enfrentou de forma fundamentada todas as alegações jurídicas suscitadas.
+A pretensão recursal, que versa sobre responsabilidade contratual por danos oriundos de cancelamentos ou "chargebacks", fundamentando-se na existência de cláusula contratual específica e na tese de impossibilidade de assunção de risco de negócio alheio, demandaria o revolvimento do acervo fático-probatório dos autos.
+Ao analisar o caso, o Tribunal de origem destacou (e-STJ Fl.315), que o agravante não trouxe ao s autos prova efetiva de que as compras foram contestadas pelos portadores dos cartões, tampouco esclareceu de que forma se deu tal contestação, não sendo comprovada a alegada participação do lojista na ocorrência de fraude por eventual negligência na concretização das vendas.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos , procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+(..)
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+No presente feito, o acolhimento da tese recursal, no sentido de se analisar a denunciação à lide aos consumidores, ante a existência de cláusula contratual que possibilita a ocorrência de cancelamento ou chargeback de transações on line, demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Diante disso, não conheço do recurso no ponto.
+Quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2 022, DJe de 31/3/2022).
+No caso, a agravante limitou-se a juntar ementas dissociadas das peculiaridades fáticas destes autos, sem realizar o cotejo analítico exigido pela legislação processual e pela jurisprudência consolidada desta Corte.
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente - além da comprovação da alegada divergência jurisprudencial, por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial -, a comparação analítica dos acórdãos confrontados, nos termos dos artigos 1029, §§1º e 2º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ, o que não foi feito.
+Ademais, é certo que: "A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional." (AgInt no AREsp n. 2.662.008/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem a apresentação de quadro analítico ou instrumento que o valha apto a clarificar os pontos de dissonância existentes entre o paradigma e o acórdão recorrido.
+Assim, não se mostra viável o conhecimento do recurso pela divergência.
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro o percentual de honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
