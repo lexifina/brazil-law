@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO RIO DE JANEIRO e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO E ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COM COBRANÇA. ACUMULAÇÃO DE PENSÃO PREVIDENCIÁRIA E DE PENSÃO ESPECIAL EM DECORRÊNCIA DE FALECIMENTO DE POLICIAL MILITAR EM SERVIÇO. SENTENÇA DE PROCEDÊNCIA. MANUTENÇÃO. RECURSO DE APELAÇÃO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1.022 do CPC em virtude de suposta deficiência na fundamentação do aresto objurgado.
+É o relatório.
+Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF, tendo em vista que a parte recorrente aponta ofensa ao art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "A ausência de indicação dos incisos do art. 1.022 configura deficiência de fundamentação, o que enseja o não conhecimento do recurso especial" (AgInt no AREsp n. 2.697.337/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 13/2/2025).
+Confira-se também os seguintes julgados: ;AgInt no REsp n. 2.129.539/CE, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 2/12/2024; AgInt nos EDcl no AREsp n. 2.069.174/MS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 4/11/2024; AgInt no AREsp n. 2.543.862/RN, relator Ministro Humberto Martins, Terceira Turma, DJe de 30/10/2024; AgInt no AREsp n. 2.452.749/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 20/8/2024; AgInt no AgInt no AREsp n. 2.260.168/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 6/12/2023; AgInt no AREsp n. 1.703.490/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2020.
+Ademais, a alegação de nulidade do acórdão recorrido em sede de embargos de declaração , porquanto deixou de apreciar questão de natureza constitucional, refoge à competência do Superior Tribunal de Justiça.
+Com efeito, a jurisprudência do STJ orienta que "não compete a este Sodalício analisar eventual omissão da Corte local sobre tema de natureza constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgInt no REsp n. 2.152.640/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/11/2024, DJe de 19/11/2024).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 2.169.295/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 18/3/2025; AgInt no AREsp n. 2.722.719/PE, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 5/3/2025; AgInt no REsp n. 2.046.776/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/9/2023; REsp n. 1.871.430/RN, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 7/4/2022; AgInt no REsp n. 1.715.836/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 18/3/2022; AgInt no REsp 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/4/2018; REsp 1.825.790/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
