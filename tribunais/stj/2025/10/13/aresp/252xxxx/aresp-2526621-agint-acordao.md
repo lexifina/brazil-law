@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIANE BERENISE BRESSAN GOULART da decisão em que não conheci de seu recurso especial por incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (fls. 602/606).
+A parte agravante afirma que os argumentos constantes de seu recurso não estão dissociados do que foi abordado no acórdão recorrido.
+A parte adversa apresentou impugnação (fls. 627/631).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS DO QUADRO FÁTICO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. Segundo a orientação do Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência no caso concreto da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não há razão para dar provimento à pretensão recursal.
+Na origem, trata-se de ação de reintegração de posse ajuizada por RUMO MALHA SUL S. A, em que foi reconhecido o esbulho possessório e determinada a demolição das edificações situadas na faixa de domínio.
+O TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO fundamentou sua decisão na impossibilidade de legitimar a utilização indevida de área de domínio público em contrariedade com a legislação, com prejuízo aos serviços concedidos e risco às pessoas e aos bens situados à volta da ferrovia, conforme demonstrado no seguinte trecho do acórdão recorrido (fls. 508/511):
+A faixa de domínio consiste em uma porção de terreno com largura mínima de quinze metros de cada lado do eixo da via férrea, sem prejuízo das dimensões estipuladas nas normas e regulamentos técnicos vigentes, ou definidas no projeto de desapropriação ou de implantação da respectiva ferrovia (artigo 1º, § 2º, do Decreto n.º 7.929/2013). Com efeito, é espaço público indispensável à garantia de segurança na utilização do transporte ferroviário e das edificações, bem como à eventual ampliação e manutenção da malha ferroviária ou implantação de outras linhas.
+Contígua à faixa de domínio está a área non aedificandi, que possui, no mínimo, 15 (quinze) metros de largura, contados a partir daquela, e, quando pertence a particular, sofre limitação administrativa, pois nela não são permitidas edificações (artigo 4º, incisos III e III-A, da Lei n.º 6.766/1979).
+Sobre a evolução da disciplina normativa, é ilustrativo o voto proferido pela eminente Desembargadora Federal Marga Inge Barth Tessler, no julgamento da apelação cível n.º 5012335-27.2014.4.04.7113/RS, que me permito transcrever parcialmente:
+(..)
+Indo além, observe-se o que o antigo Decreto 2.089, de 18 de janeiro de 1963, trazia sobre o que hoje está relacionado à faixa de domínio ferroviário:
+"Art. 9º As estradas de ferro gozarão do direito de desapropriação, por utilidade pública, dos imóveis e benfeitorias necessários à construção, funcionamento, ampliação, conservação e defesa da via permanente e das demais instalações ferroviárias, bem como à segurança e regularidade do tráfego dos trens, estendendo-se êsse direito às pedreiras, aguadas, lastreiras e árvores situadas nas proximidades do leito da via férrea. (..) § 2º Para o fim previsto neste artigo, a faixa mínima de terreno necessária a perfeita segurança do tráfego dos trens, terá seus limites lateralmente fixados por uma linha distante seis (6) metros do trilho exterior, salvo em casos excepcionais, a critério do D. N. E. F."
+O Decreto 2.089/63 vigorou até 14/02/1985, tendo sido expressamente revogado pelo Decreto 90.959/85. Esse último não contém dispositivo com indicação de dimensão mínima de faixa de domínio ferroviário ou algo assemelhado.
+Posteriormente, o Decreto 91.317, de 11 de junho de 1985, publicado no dia seguinte a esse, suspendeu temporariamente a execução do Decreto nº 90.959/85, tendo sido restabelecidas, nesse ínterim, as disposições do Regulamento aprovado pelo Decreto 2.089/63, voltando, portanto, a vigorar o antes referido art. 9º, §2º, desse Decreto.
+Mais tarde, Decreto (sem número) de 15/02/1991, publicado em 18/02/1991, revogou, mais uma vez e de forma definitiva, o Decreto 2.089/63.
+Evento mais ou menos recente, entra em vigor o Decreto 7.929/2013 em 19/02/2013, que contém o seguinte dispositivo relacionado especificamente à dimensão mínima de faixa de domínio ferroviário:
+"Art. 1º A reserva técnica necessária à expansão e ao aumento da capacidade de prestação do serviço público de transporte ferroviário, prevista no inciso IV do caput do art. 8º da Lei nº 11.483, de 31 de maio de 2007, consiste no conjunto de imóveis não operacionais oriundos da extinta Rede Ferroviária Federal S. A. - RFFSA essenciais e indispensáveis para:
+(..)
+§ 2º Para efeito deste Decreto, entende-se por faixa de domínio a porção de terreno com largura mínima de quinze metros de cada lado do eixo da via férrea, sem prejuízo das dimensões estipuladas nas normas e regulamentos técnicos vigentes, ou definidas no projeto de desapropriação ou de implantação da respectiva ferrovia."
+Assim, pode-se resumir o que foi exposto da seguinte forma:
+a) de 22 de janeiro de 1963, data da publicação do Decreto 2.089/63, até 14/02/1985 (último dia em o Decreto 2.089/63 vigorou, eis que a partir do dia seguinte a esse entrou em vigor o Decreto 90.959/85, que revogou aquele), havia previsão de uma faixa mínima de terreno necessária a perfeita segurança do tráfego dos trens, sendo seu(s) limite(s) lateralmente fixado(s) por uma linha distante seis (6) metros do trilho exterior;
+b) voltaram a vigorar as disposições do referido Regulamento do Decreto 2.089/63 a partir 12/06/1985, quando o Decreto 91.317/1985 foi publicado, restaurando-se a vigência da dimensão mínima prevista no item anterior;
+c) essa restauração das disposições do Regulamento do Decreto 2.089/63 vigorou até ser publicado o Decreto 15/02/1991 (em 18/02/1991), que acabou revogando definitivamente o Decreto 2.089/63;
+d) depois, somente a partir de 19/02/2013, as faixas de domínio ferroviário têm fixada dimensão mínima de 15 metros para cada lado do eixo da via férrea.
+Nesse ínterim, para além dos referidos atos normativos, houve a criação da Lei 6.766/79 (que dispôs sobre o parcelamento do solo urbano). Dessa Lei pode-se destacar a fixação da dimensão mínima das áreas não edificáveis ao longo das faixas de domínios ferroviários - que não se confundem com essas - em 15 metros. Veja-se o seguinte dispositivo dessa Lei:
+"CAPÍTULO II
+Dos Requisitos Urbanísticos para Loteamento
+Art. 4º. Os loteamentos deverão atender, pelo menos, aos seguintes requisitos: (..) III - ao longo das águas correntes e dormentes e das faixas de domínio público das rodovias e ferrovias, será obrigatória a reserva de uma faixa não-edificável de 15 (quinze) metros de cada lado, salvo maiores exigências da legislação específica; (Redação dada pela Lei nº 10.932, de 2004)" (..) (grifei)
+Pela dicção dos dispositivos acima transcritos, percebe-se que não é possível edificar na faixa de domínio de 15 metros de cada lado de uma ferrovia, a menos que sejam estipuladas outras dimensões nas normas e regulamentos técnicos vigentes, ou definidas no projeto de desapropriação ou de implantação da respectiva ferrovia.
+A documentação acostada aos autos (mapa fornecido pela extinta Rede Ferroviária Federal S. A. - RFFSA - em favor do qual milita a presunção de veracidade e legitimidade, não afastada por elementos probatórios consistentes -, croqui de invasão, relatório produzido pelos fiscais da empresa GERSEPA -Gerenciamento de Serviços Patrimoniais Ltda. e boletim de ocorrência - OUT22 a OUT25 do evento 1, e OUT2 do evento 128, todos dos autos originários) comprova a ocupação de faixa de domínio da ferrovia, não tendo sido infirmadas a contento as medições realizadas administrativamente.
+Assim, constatado que a construção em questão foi erigida a menos de 20 (vinte) metros do eixo da linha férrea, a construção e a ocupação levadas a efeito pela parte ré desrespeitaram os limites da faixa de domínio.
+À míngua de autorização para edificação em faixa de domínio e/ou área non aedificandi de ferrovia federal, a ocupação irregular desse espaço (ou detenção de natureza precária) constitui esbulho possessório, que autoriza o manejo de ação de reintegração de posse pela concessionária (artigos 1.208 e 1.210 do Código Civil; artigos 560 a 562 do Código de Processo Civil, e artigo 71 do Decreto-Lei n.º 9.760/1946) e o respectivo desfazimento das construções, às expensas da parte ré.
+Em seu recurso especial, a parte recorrente argumentou que a decisão judicial não levou em conta que "a faixa de domínio era regulada pelo artigo 9º do Decreto nº 2.089/1963, portanto, esta é a norma que deve ser aplicada ao caso concreto em relação à faixa de domínio" (fl. 541). A discussão sobre a intertemporalidade das normas, porém, foi superada no acórdão recorrido.
+Vê-se que a parte recorrente, em seu recurso, apresentou razões dissociadas do que foi decidido no acórdão recorrido, pois, ao contrário do que ela aduziu, o Tribunal de origem decidiu que a Lei 6.766/1979 é aplicável ao presente caso, regulando o tamanho da faixa de domínio.
+Concluo que está correta a decisão que não conheceu do recurso da parte ora agravante por aplicação da Súmula 284 do Supremo Tribunal Federal, por analogia.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
