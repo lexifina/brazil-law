@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BRUNO SULLIVAN LEONEL DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - DANOS MORAIS - SÚMULA Nº 385, DO STJ - INSCRIÇÃO ANTERIOR - DISCUSSÃO JUDICIAL - INDENIZAÇÃO DEVIDA - SENTENÇA REFORMADA.
+- A inscrição indevida do nome da parte autora nos cadastros de restrição ao crédito ocasiona dano moral presumido, merecendo, pois, reparação.
+- Afasta-se a aplicação da súmula nº 385, do STJ, quando a restrição anterior é objeto de questionamento judicial, em ação própria.
+- Recurso provido. Sentença reformada.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 186, 927 e 944 do CC, no que concerne à majoração do quantum arbitrado a título de danos morais decorrentes da inscrição de nome em cadastro de restrição creditícia, porquanto o valor arbitrado na origem se distanciou da jurisprudência desta Casa, trazendo a seguinte argumentação:
+O valor arbitrado, a título de danos morais decorrente de inclusão indevida nos cadastros de proteção ao crédito, pelo eg. TJMG equivale a menos de 01 (um) salário mínimo já que o valor atual do salário mínimo é de R$ 1.420,00 (mil quatrocentos e vinte reais). A propósito, o eg. Superior Tribunal de Justiça já pacificou desde 2005 que tem sido de 50 (cinquenta) salários mínimos a indenização por danos morais, atinente a inscrição inadvertida em cadastros de inadimplentes:
+ ..
+Portanto Vossas Excelências, o valor arbitrado pelo eg. TJMG em R$ 1.000,00 (um mil reais) decorrente de inclusão indevida nos cadastros de proteção ao crédito acabou violando os arts. 186, 927 e 944 todos do Código Civil pois o eg. STJ em casos semelhantes de inclusão inadvertida, tem arbitrado o valor equivalente a 50 (cinquenta) salários mínimos (fls. 479-480).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A respeito da fixação de indenizações decorrentes de danos morais, entendo que deve o Magistrado pautar-se pelo bom-senso, moderação e prudência, analisando cada caso concreto, de acordo com o seu livre convencimento, sem perder de vista que, por um lado, a indenização deve ser a mais completa possível e, por outro, ela não pode tornar-se fonte de lucro, devendo o Julgador, neste ponto, cuidar de distinguir as peculiaridades apresentadas, considerando os princípios constitucionais da proporcionalidade e da razoabilidade.
+No caso concreto, entendo que o valor de R$ 1.000,00 (mil reais) é suficiente para compensar os abalos sofridos pelo recorrente, sem promover seu enriquecimento indevido, especialmente porque ajuizou outras ações para discutir inscrições que julga indevidas (fls. 453-454, grifos meus).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
