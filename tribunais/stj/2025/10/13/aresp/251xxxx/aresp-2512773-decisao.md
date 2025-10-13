@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO OSMAR STORI MARCHAUKOWSKI contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não trouxe argumentos aptos a afastar a aplicação dos óbices aplicados.
+O recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação nos autos de embargos à execução.
+O acórdão recorrido foi assim ementado (fl. 211):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PROCEDÊNCIA. EXTINÇÃO DA EXECUÇÃO. INADEQUAÇÃO DA VIA ELEITA. CONTRATO DE PROMESSA DE COMPRA E VENDA FUTURA DE SOJA. CONTRATO LÍQUIDO, CERTO E EXIGÍVEL, A TEOR DO ART. 784, III, DO CPC. AINDA QUE PACTUADA A ENTREGA DE SACAS DE SOJA, HÁ POSSIBILIDADE DE QUANTIFICAÇÃO DO VALOR DEVIDO NOS CONTRATOS, ESPECIALMENTE PORQUE A PRETENSÃO É APENAS DE RECEBIMENTO DA MULTA E DEMAIS PENALIDADES PELO INADIMPLEMENTO. SENTENÇA CASSADA. JULGAMENTO IMEDIATO DOS DEMAIS TEMAS VENTILADOS PELO EMBARGANTE, COM FULCRO NO ART. 1.013, § 3O, DO CPC. RESOLUÇÃO UNILATERAL DOS CONTRATADOS. CLÁUSULA QUE PREVÊ MULTA E PENALIDADES. COBRANÇA DEVIDA. RESOLUÇÃO QUE RESULTOU EM PREJUÍZOS À COOPERATIVA, CONSOANTE DEMONSTRADO NOS AUTOS. REPARAÇÃO DEVIDA. EXCESSO DE EXECUÇÃO NÃO VERIFICADO. CASO SEMELHANTE JÁ JULGADO POR ESTE COLEGIADO. IMPROCEDÊNCIA DOS PEDIDOS. NOVA FIXAÇÃO DAS VERBAS DE SUCUMBÊNCIA. APELO PROVIDO. DECISÃO CASSADA. JULGAMENTO IMEDIATO, COM A IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação do art. 403 do Código Civil, porque as perdas e danos não podem ser fixados com base em patamar mínimo contratual, sem a devida comprovação dos prejuízos efetivos suportados pela parte recorrida.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece conhecimento, pois a análise da controvérsia demandaria reexame de cláusulas contratuais e do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 do STJ. Sustenta que os prejuízos foram devidamente comprovados por notas fiscais e que o título executivo é líquido, certo e exigível, conforme previsão contratual.
+Requer o provimento do agravo para que se reconheça a inadequação da via eleita pela parte recorrida e se reforme o acórdão recorrido, julgando-se procedentes os embargos à execução e afastando-se a cobrança de perdas e danos e demais penalidades contratuais.
+É o relatório. Decido.
+Trata-se, na origem, de embargos à execução opostos por JOÃO OSMAR STORI MARCHAUKOWSKI contra a COOPERATIVA AGROINDUSTRIAL BOM JESUS.
+O embargante alegou inadequação da via eleita para a cobrança de valores decorrentes de contratos de compra e venda futura de soja.
+Em primeira instância, o Juízo acolheu os embargos, extinguindo a execução com resolução de mérito, sob o fundamento de que o título executivo extrajudicial não possuía liquidez, certeza e exigibilidade, sendo inadequada a execução para cobrança de perdas e danos sem a devida comprovação dos prejuízos efetivos.
+A COOPERATIVA AGROINDUSTRIAL BOM JESUS interpôs apelação.
+O Tribunal de Justiça do Estado do Paraná deu provimento ao recurso, cassando a sentença e julgando improcedentes os embargos à execução.
+Entendeu que os contratos firmados entre as partes possuíam cláusulas claras e objetivas, que permitiam a quantificação dos valores devidos por meio de cálculos aritméticos, sendo, portanto, adequados para execução. Além disso, considerou que a cooperativa comprovara os prejuízos sofridos com notas fiscais que demonstravam a aquisição de soja a preços superiores aos contratados.
+O agravante alega violação do art. 403 do Código Civil, pois as perdas e danos não podem ser fixados com base em patamar mínimo contratual, sem a devida comprovação dos prejuízos efetivos suportados pela parte recorrida.
+O acórdão recorrido reconheceu a liquidez, certeza e exigibilidade dos contratos de compra e venda futura de soja; validou a cobrança de multa de 15% e de perdas e danos mínimos de 20%, o que estava previsto contratualmente; assentou a existência de prejuízo da cooperativa, comprovado por notas fiscais com preço unitário superior ao do contratado; afastou as alegações de excesso de execução; e concluiu pela improcedência dos embargos à execução
+Para apreciar os argumentos do agravante e reconhecer os prejuízos efetivamente sofridos, seria preciso interpretar cláusulas contratuais e revisitar o contexto fático- probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. LIQUIDAÇÃO POR ARBITRAMENTO. CRITÉRIO DE QUANTIFICAÇÃO DO DANO MATERIAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem registra que o critério de quantificação do dano material adotado na liquidação por arbitramento, obedeceu aos estritos parâmetros estipulados na sentença condenatória transitada em julgado. A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo interno não provido. (AgInt no REsp n. 1.406.305/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe de 16/12/2019.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
