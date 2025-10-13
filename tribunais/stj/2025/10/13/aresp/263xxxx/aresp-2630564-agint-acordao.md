@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. FALTA DE DIALETICIDADE. SÚMULA 182. NÃO PROVIDO.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que não admitiu o recurso especial, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALMERIA EMPREEDIMENTOS IMOBILIÁRIOS S/A em face da decisão proferida pela Presidência deste Superior Tribunal de Justiça às fls. 610-612, que não conheceu do agravo em recurso recurso especial manejado pela parte.
+Na decisão, a Presidência entendeu que o Tribunal local não admitiu o recurso especial interposto pela parte por entender que encontrava óbice na Súmula 284 do STF, e que esse fundamento não teria sido impugnado no agravo em recurso especial. Assim, aplicou a Súmula 182 deste STJ.
+No agravo interno, alega o agravante que teria efetivamente apontado o dispositivo tido por violado, razão pela qual não haveria que se falar em aplicação da Súmula 284 do STF.
+Impugnação ao recurso às fls. 624-633.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. FALTA DE DIALETICIDADE. SÚMULA 182. NÃO PROVIDO.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que não admitiu o recurso especial, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2 . Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece provimento.
+Verifico que, de fato, no recurso especial, apesar da alegação de suposto dissídio jurisprudencial, a agravante não apontou o dispositivo legal ao qual foi atribuída a interpretação divergente, o que atrai a incidência da Súmula 284 do STF. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DEFICIÊNCIA RECURSAL. SÚMULA N. 284 DO STF. PERSUASÃO RACIONAL. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu. Inafastável a Súmula n. 284 do STF.
+ ..
+(AgInt no AREsp n. 1.727.622/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/2/2025, DJEN de 14/2/2025.)
+Além disso, observo que tal fundamento não foi impugnado pela agravante em seu agravo em recurso especial, razão pela qual a Presidência aplicou corretamente a Súmula 182 desta Corte ao não conhecer do recurso.
+Ainda que assim não fosse, a despeito de a agravante alegar, em seu recurso especial, violação ao art. 489, § 1º, inciso VI, do Código de Processo Civil, o TJRS emitiu decisão fundamentada, ainda que em sentido contrário à pretensão da agravante.
+Há de se frisar que "a regra do art. 489, § 1º, VI, do CPC/15, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp 1.698.774/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe 9/9/2020)"
+No caso, o Tribunal local entendeu estar configurado o dano moral, tendo em vista que houve atraso de quase 2 (dois) anos na entrega do imóvel pela agravante aos agravados. Transcrevo (fl. 397):
+No caso dos autos, a parte ré sustenta que descabidas e desprovidas de provas as alegações dos autores para indenização por dano moral; que a situação não trouxe qualquer ofensa aos seus direitos da personalidade, não havendo que se falar em dano moral; requer o provimento do recurso para que seja afastada a condenação.
+No entanto, embora o mero inadimplemento contratual não seja suficiente para ensejar abalo moral, no caso em apreço verifica-se que os autores tomaram posse da unidade após quase 2 anos de atraso, situação que não pode ser considerada como mero dissabor.
+Assim, a sentença recorrida aplicou a medida de direito adequada ao caso concreto, cabendo transcrever em aditamento:
+(..) Relativamente à reparação dos prejuízos extrapatrimoniais, o artigo 5º, X, da Constituição Federal, assegura o direito à indenização por danos morais decorrentes da violação à intimidade, vida privada, honra e imagem das pessoas, que resultem em verdadeiro sofrimento psíquico, ensejando sentimentos de tristeza, frustração ou angústia, uma vez que os meros dissabores não são suficientes para gerar o dever de indenizar. Embora a jurisprudência seja unânime em referir que o mero inadimplemento contratual não enseja indenização por danos morais, no caso dos autos é evidente o abalo sofrido pela parte autora, ultrapassando a esfera do mero aborrecimento do cotidiano.
+Com efeito, o contrato foi assinado em outubro de 2009, havendo previsão de entrega para abril de 2012 (fl.41); porém, só houve imissão dos adquirentes na posse do imóvel em 2014. Consigno que é justa a expectativa de quem adquire uma casa própria para fins de moradia, sem contar o planejamento pessoal que certamente foi afetado pelo atraso na obra, o que autoriza a indenização por danos morais.
+A quantificação dos danos extrapatrimoniais, por sua vez, deve representar ao lesado a satisfação moral (psicológica) capaz de neutralizar ou, ao menos, amenizar os efeitos do desgosto experimentado. Na medida em que visa a satisfazer o ofendido, não pode causar-lhe enriquecimento sem causa. Tem por finalidade, outrossim, desestimular o causador do dano de cometer novo atentado.
+Nesse passo, fixo o total da indenização no valor de R$ 8.000,00 (oito mil reais), a título de danos morais, para cada requerente. (..)
+O julgado está em consonância com a jurisprudência desta Corte, cujo entendimento é de que, "o mero atraso na entrega de obra não caracteriza, por si só, danos morais ao adquirente, sendo cabível, todavia, indenização a esse título em caso de atraso excessivo e injustificado que acarrete dano extrapatrimonial relevante" (AgInt no REsp n. 2.185.310/MA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025), como nos casos em que o atraso ocorre por quase 2 (dois) anos.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015 NÃO EVIDENCIADA. LUCROS CESSANTES. TERMO FINAL. ENTREGA DAS CHAVES. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. ATRASO EXCESSIVO NA ENTREGA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. De acordo com a jurisprudência desta Corte, no sentido de que "há presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves" (AgInt no REsp 1.792.742/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/8/2019, DJe de 30/8/2019).
+3. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi de aproximadamente 2 anos após o prazo de tolerância.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 30.000, 00 (trinta mil reais), sendo R$ 15.000,00 (quinze mil reais) para cada recorrido, não é exorbitante nem desproporcional aos danos causados, em razão do atraso excessivo na entrega do imóvel.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.977.767/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. COMPRA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO CONFIGURADA. REEXAME DE MATÉRIA CONTRATUAL E FÁTICO-PROBATÓRIA. SÚMULAS 5 E 7 DO STJ. DANO MORAL. PRECEDENTES. SÚMULA 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. Nos termos da jurisprudência desta Corte, o simples inadimplemento contratual, em regra, não configura dano moral indenizável, mas o atraso na entrega por longo período pode ensejar o reconhecimento de dano extrapatrimonial. Precedentes. Incide a Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria contratual e fático-probatória (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.484.343/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
