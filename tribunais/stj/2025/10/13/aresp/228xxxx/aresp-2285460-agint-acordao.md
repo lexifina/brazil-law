@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é incabível. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CS BRASIL TRANSPORTES DE PASSAGEIROS E SERVIÇOS AMBIENTAIS LTDA da decisão em que conheci parcialmente de seu recurso especial para, na parte conhecida, a ele negar provimento (fls. 4.419/4.426).
+A parte agravante afirma que "os vícios procedimentais apontados no recurso especial são relevantes e capazes de infirmar parcialmente as conclusões adotadas na decisão de piso, não se tratando, venia concessa, de mero inconformismo com o resultado do julgamento" (fl. 4.434). Também sustenta que a reforma do acórdão recorrido, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, não depende da revisão de fatos e provas presentes nos autos (fls. 4.445/4.447). Por fim, assevera que não suscitou negativa de vigência a dispositivo de lei local (fl. 4.447).
+Requer a reconsideração da decisão agravada ou o julgamento deste recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DO STF. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Extrai-se do art. 105, inciso III, da Constituição Federal que a missão do Superior Tribunal de Justiça (STJ) é a de uniformizar a interpretação da legislação federal. No cumprimento de seu papel, não lhe é permitida a formação de novo juízo sobre fatos e provas dos autos. Incidência da Súmula 7 deste Tribunal.
+3. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é incabível. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+Não prospera a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão, vê-se que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO resolveu a controvérsia de forma fundamentada, não havendo que se falar em omissão, contradição, obscuridade ou erro material.
+Com efeito, sobressai dos acórdãos integrado e integrador a expressa justificativa pela imposição de juros de mora em virtude do não pagamento da multa imposta, assim como a consideração da lei posterior mais benéfica - que, inclusive, dera cabimento à alteração do julgado de primeiro grau - para a redução da alíquota do tributo.
+Ademais, o colegiado estadual deixou claro que a parte recorrente não se desincumbiu de comprovar que a transferência de veículos se referira à integralização de capital, de modo a afastar a exação (fls. 4.269). Nesse cenário, o órgão julgador concluiu que, considerada a transferência, a autuação da agravante ocorreu na condição de responsável tributária (fl. 4.271).
+Ressalto que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos). É suficiente que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+Está correta a decisão que afastou a violação dos dispositivos legais indicados pela parte.
+No que concerne à aplicação da Súmula 7 do STJ, observo que a ação busca afastar a incidência de Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) sobre operação de transferência de veículos, sem emissão de nota fiscal, ao argumento de que a operação consistiu em aumento de capital por integralização. O pedido foi acolhido tão somente em relação aos consectários, para redução da multa aplicada e delimitação dos juros de mora
+O Tribunal de origem, ao examinar os autos, entendeu ser incólume o auto de infração e impossível a descaracterização do fato gerador da multa, além de deixar assentada a responsabilidade do contribuinte e a ausência de prova de que a operação de transferência de veículos realizada teve origem em integralização do capital social.
+Da análise do art. 105, inciso III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Correto, também, o não conhecimento do recurso com fundamento na Súmula 7 do STJ.
+Por fim, é certo que, para aferir a aduzida ofensa ao art. 106 do Código Tributário Nacional (CTN), seria necessária a análise da lei estadual. Não é que a parte recorrente tenha alegado violação de lei local, mas a apreciação desse tópico somente seria possível mediante regresso à norma local, o que é vedado ao STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
