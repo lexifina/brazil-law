@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO. INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS NOS TERMOS DO ART. 523, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA N. 83/STJ. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência do STJ, a multa e os honorários advocatícios do art. 523, § 1º, do CPC/2015 são devidos quando o devedor não efetua o pagamento voluntário da quantia devida, mesmo que tenha comparecido aos autos para impugnar o cumprimento de sentença. O comparecimento espontâneo do agravante supre a ausência de intimação, conforme o art. 239, § 1º, do CPC/2015, e não impede a aplicação dos encargos processuais (AgInt no AREsp n. 2.176.981/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 29/5/2025.)
+2. Na hipótese, o Tribunal de origem expressamente consignou que o banco ora recorrente foi intimado em mais de uma oportunidade para pagamento voluntário da quantia devida, quedando-se inerte, sofrendo as consequências do disposto no art. 523, § 1º, do CPC. Incidência da Súmula n. 83/STJ.
+3. A desconstituição do fundamento do acórdão no sentido de que o recorrente não foi intimado para pagamento voluntário da quantia devida requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO BRADESCO S/A contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 1.195):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO. INCIDÊNCIA DA MULTA DE 10% E HONORÁRIOS ADVOCATÍCIOS DE 10% SOBRE O MONTANTE DA EXECUÇÃO. SÚMULA N. 83/STJ. REVISÃO. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO assim ementado (fl. 980):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO. VERIFICAÇÃO. NÃO PAGAMENTO. INCIDÊNCIA DA MULTA DE 10% E HONORÁRIOS ADVOCATÍCIOS DE 10% SOBRE O MONTANTE DA EXECUÇÃO. PREVISÃO EXPRESSA DO ART. 523, § 1º, DO CPC. RECURSO NÃO PROVIDO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE 10% PARA 15% . REGRA DO ART. 85, § 11, DO CPC.
+1 - Sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, não ocorrendo pagamento voluntário, o montante da execução será acrescido de multa de dez por cento e, também, de honorários de advogado de dez por cento (regra do art. 523, § 1º, do CPC).
+2 - Recurso não provido.
+3 - Majora-se os honorários advocatícios fixados na sentença quando incidir a hipótese do art. 85, § 11, do CPC. No caso concreto de 10% para 15%.
+Rejeitados os embargos de declaração opostos (fls. 1.005-1.016).
+Nas razões do agravo interno, o agravante alega a inaplicabilidade das Súmulas n. 7 e 83 do STJ.
+Aduz, ainda, que "o argumento do recorrente é de que, uma vez definido o valor devido, a intimação para pagamento jamais ocorreu, estando o acórdão a considerar intimações anteriores que foram anuladas ou efetivadas antes de se saber o montante a ser pago. Desse espeque, não faz qualquer sentido a aplicação do óbice da Súmula 83/STJ in casu, pois o recorrente não questiona a jurisprudência mencionada, mas sim roga pela sua correta aplicação à luz das particularidades do caso" (fl. 1.206).
+Sustenta, outrossim, que (fl. 1.208):
+" ..  ainda que o Banco tenha sido intimado em momento anterior (meados de 2016), diante da interposição de recurso desta decisão, esta não restou estabilizada. Além disso, a quantia então executada (R$ 266.991,15) não se mostrava definitiva, o que se corrobora pelo fato de representar quase a metade dos valores bloqueados nesta oportunidade (R$ 523.760,20).
+Em casos análogos, a jurisprudência é uníssona ao reconhecer que deveria ter ocorrido a intimação do executado para pagamento voluntário a respeito do novo pedido de cumprimento de sentença proposto, com a atualização dos valores devidamente liquidados, cumprindo-se os mandamentos contidos nos artigos 523 do CPC."
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões às fls. 1.211-1.215 e 1.216-1.220.
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO. INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS NOS TERMOS DO ART. 523, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA N. 83/STJ. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência do STJ, a multa e os honorários advocatícios do art. 523, § 1º, do CPC/2015 são devidos quando o devedor não efetua o pagamento voluntário da quantia devida, mesmo que tenha comparecido aos autos para impugnar o cumprimento de sentença. O comparecimento espontâneo do agravante supre a ausência de intimação, conforme o art. 239, § 1º, do CPC/2015, e não impede a aplicação dos encargos processuais (AgInt no AREsp n. 2.176.981/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 29/5/2025.)
+2. Na hipótese, o Tribunal de origem expressamente consignou que o banco ora recorrente foi intimado em mais de uma oportunidade para pagamento voluntário da quantia devida, quedando-se inerte, sofrendo as consequências do disposto no art. 523, § 1º, do CPC. Incidência da Súmula n. 83/STJ.
+3. A desconstituição do fundamento do acórdão no sentido de que o recorrente não foi intimado para pagamento voluntário da quantia devida requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Discute-se nos autos se o banco executado foi ou não intimado para pagamento voluntário e, assim, não incorrer em multa de 10% e em honorários advocatícios, nos termos do art. 523, § 1º, do CPC.
+Nos termos da jurisprudência do STJ, a multa e os honorários advocatícios do art. 523, § 1º, do CPC/2015 são devidos quando o devedor não efetua o pagamento voluntário da quantia devida, mesmo que tenha comparecido aos autos para impugnar o cumprimento de sentença. O comparecimento espontâneo do agravante supre a ausência de intimação, conforme o art. 239, § 1º, do CPC/2015, e não impede a aplicação dos encargos processuais (AgInt no AREsp n. 2.176.981/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 29/5/2025.)
+No mesmo sentido, cito:
+PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIÊNCIA INEQUÍVOCA DO INÍCIO DO CUMPRIMENTO DE SENTENÇA. PAGAMENTO VOLUNTÁRIO. AUSÊNCIA. INCIDÊNCIA DA MULTA DO ART. 475-J DO CPC/1973 (ART. 523, § 1º, DO CPC/2015) E DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Quando o devedor, apesar de não ter sido inicialmente intimado, toma ciência inequívoca do início do cumprimento de sentença não paga, tampouco oferece impugnação, atrai para si a aplicação da multa prevista no art. 523, § 1º, do Código de Processo Civil, então 475-J do CPC, pouco importando se nas planilhas apresentadas, anteriormente, o credor não fizera alusão à multa, vez que não se trata de mera faculdade do credor, mas de imposição legal, decorrente do descumprimento da obrigação pelo devedor.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.178.364/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DEPÓSITO VOLUNTÁRIO. MULTA E HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO DEVEDOR. PRECEDENTES. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do STJ firmou-se no sentido de que a multa a que se refere o art. 523 do Código de Processo Civil/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito. Precedentes.
+2. Nos termos da jurisprudência desta Corte Superior, a parte que pretende impugnar a decisão agravada, que adota julgado do STJ como razões de decidir, deve demonstrar que outra é a positivação do direito na atual jurisprudência, com a indicação de precedentes contemporâneos ou supervenientes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.964.912/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+No caso dos autos, o Tribunal de origem expressamente consignou que o banco ora recorrente foi intimado em mais de uma oportunidade para pagamento voluntário da quantia devida, quedando-se inerte, o que atrai a incidência do art. 523, § 1º, do CPC. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 982-984):
+Cinge-se o debate do presente recurso, se foi, ou não, intimado o Banco executado para o pagamento voluntário e assim, não incorrer na multa de 10% e nos honorários advocatícios.
+ ..
+De uma detida análise dos autos, constato que o despacho de fl. 550, em cumprimento a decisão exarada no Agravo de Instrumento 333891-8 da lavra do Exmo. Desembargador Evandro Magalhães Melo, tornou sem efeito o despacho de fl. 441, o qual determinava a intimação do banco executado para o pagamento voluntário.
+Ocorre que no mesmo despacho (fl.550) o juízo determinou que o referido banco se manifestasse quanto à atualização dos cálculos do laudo pericial.
+Entretanto, ao invés de falar sobre a atualização dos cálculos apresentou impugnação de forma intempestiva ao laudo pericial, tendo o juiz a quo, através da decisão de 625/625v, deixado de receber a impugnação, diante do fenômeno da preclusão para, ao mesmo tempo, homologar os cálculos atualizados pelo exequente e determinado a intimação do banco para, no prazo de 15 dias, pagar a dívida exequenda, e ainda com a advertênciái ue na hipótese de não pagamento, o valor seria acrescido de multa de 10% e honorários advocatícios também no percentual de 10% do valor devido, cuja decisão foi publicada no DJE em 15/06/2016 (fl. 624v).
+Dessa decisão, o banco executado agravou de instrumento (proc. nº 443909-9), sem, contudo, depositar em conta judicial o valor que entendia devido.
+Foi negado provimento ao referido agravo de instrumento, tendo esta relatoria mantido a decisão agravada na sua integralidade (fls. 684/703), com ocorrência de trânsito em julgado em 21/03/2018 e baixa definitiva e remessa ao juízo de origem em 11/07/ 2018, conforme informa o sistema de informatização deste Tribunal.
+Diante disso, o juízo a quo através do despacho de fl.715, determinou nova intimação do Banco Bradesco para cumprimento da decisão de fl. 625/625v, o que foi realizado (fl.716).
+ ..
+Diante da inércia do Banco Bradesco, foi realizada a atualização do débito exequendo com a inclusão da referida multa e honorários advocatícios, no valor total de R$ 523.760,20 (quinhentos e vinte e três mil, setecentos e sessenta reais é vinte centavos)/ cujo valor foi penhorado via BACENJUD e transferido para conta judicial (fls.732/733).
+Dessa penhora o banco não opôs embargos, tendo tão somente se manifestado às fls. 746/753, alegando excesso de execução pela inclusão da multa e honorários advocatícios, em face da ausência de intimação para pagamento voluntário, ou seja, os mesmos argumentos utilizados neste apelo.
+Pelo que se constata dos acontecimentos acima, narrados, o Banco Bradesco teve todas as oportunidades de efetuar o pagamento voluntário do débito exequendo, mas assim não quis fazer, devendo, de consequência, sofrer os acréscimos da multa de 10% e honorários advocatícios de 10%, a teor do art. Art. 523. do CPC,
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência desta Corte, mantenho a incidência da Súmula n. 83/STJ.
+Ademais, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente de que não houve intimação somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Assim, em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
