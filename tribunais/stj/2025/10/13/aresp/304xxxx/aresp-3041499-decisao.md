@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por GABRIEL MESQUITA SANTANA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos autos da Apelação Criminal n. 0000161-04.2020.8.14.0144 (fls. 213/225).
+No recurso especial, a defesa requereu, em síntese: a) o reconhecimento de violação do art. 386, VII, do Código de Processo Penal, com a consequente absolvição por inexistirem provas suficientes para a condenação; e b) a possibilidade de revaloração jurídica da moldura fática delineada no acórdão recorrido, afastando a incidência da Súmula 7/STJ (fls. 228/234).
+Inadmitido o recurso na origem, sob o fundamento de que a pretensão demandaria reexame do acervo fático-probatório, incidindo o óbice da Súmula 7/STJ (fls. 242/244), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 246/250).
+O Ministério Público Federal opinou pelo não provimento do agravo, em razão da ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade (Súmula 182/STJ), além da manutenção do óbice da Súmula 7/STJ (fls. 284/287).
+É o relatório.
+O presente agravo em recurso especial deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passo à análise do recurso especial, observando desde já, entretanto, que o mesmo não comporta conhecimento.
+Busca a defesa a absolvição dos acusados por violação do art. 386, VII, do CPP, alegando que as provas em relação ao crime imputado ao réu são insuficientes, de modo que seria evidente o error iuris in judicando proveniente de equívoco na valoração das provas (fl. 229).
+Segundo consta do acórdão recorrido, o Tribunal de origem aduziu que a materialidade delitiva restou comprovada por meio do boletim de ocorrência policial, do laudo toxicológico definitivo e da prova oral colhida tanto em sede de investigação policial quanto em juízo. O laudo pericial toxicológico atestou que a substância apreendida tratava-se de 2 envelopes em papel branco, contendo 16,536 g de erva prensada, disposta em 27 embrulhos em formato de trouxinhas, bem como 28,516 g de erva prensada, disposta em um tablete, com resultado positivo para maconha.
+Quanto à autoria delitiva, o acórdão destacou que os depoimentos testemunhais dos policiais militares evidenciaram a prática do crime de tráfico mediante a confirmação em juízo de que encontraram a droga na casa em que estavam os acusados. Os policiais relataram que receberam denúncia de que estariam traficando no local, deslocaram-se até a residência, foram autorizados a entrar e, após busca, encontraram os entorpecentes. Um dos acusados inclusive assumiu que a droga era sua e indicou onde havia mais entorpecente enterrado no quintal.
+Nesse cenário, entendo que a modificação desse entendimento, com vista à sua absolvição dos recorrentes, enseja necessariamente o reexame dos elementos fáticos do processo, prática vedada na via eleita dada a incidência da Súmula 7/STJ.
+Com efeito, os elementos de prova, portanto, convergem para a autoria delitiva, de modo que eventual reversão das conclusões da Corte local a respeito da responsabilidade criminal do agravante depende de nova incursão na seara probatória (AgRg no HC n. 911.510/AL, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/5/2024).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. PLEITO ABSOLUTÓRIO POR FALTA DE PROVAS. IMPOSSIBILIDADE. ALTERAÇÃO QUE EXIGIRIA REVOLVIMENTO FÁTICO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
