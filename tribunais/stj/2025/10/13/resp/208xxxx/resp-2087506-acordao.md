@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito civil. Recurso especial. Prescrição. Regra de transição do Código Civil de 2002. Termo inicial do prazo prescricional.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que reconheceu a prescrição da pretensão em ação de resolução contratual por inadimplemento, aplicando o prazo decenal do artigo 205 do Código Civil de 2002, contado a partir do vencimento da última prestação contratual, em 6/4/1997.
+2. O Tribunal de origem considerou que, como a demanda foi ajuizada em 17/12/2012, o prazo prescricional estaria ultrapassado, extinguindo o processo com fundamento no artigo 487, II, do CPC.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o termo inicial do prazo prescricional deve ser a data do vencimento da última parcela contratual (1997) ou a data de entrada em vigor do Código Civil de 2002 (11/1/2003), conforme a regra de transição prevista no artigo 2.028 do Código Civil de 2002.
+III. Razões de decidir
+4. A regra de transição do artigo 2.028 do Código Civil de 2002 estabelece que, quando os prazos de prescrição forem reduzidos pelo novo Código e, na data de sua entrada em vigor, houver transcorrido menos da metade do prazo previsto no Código Civil de 1916, aplica-se o prazo da lei nova, com termo inicial em 11/1/2003.
+5. No caso, como o prazo vintenário do Código Civil de 1916 não havia transcorrido pela metade até 11/1/2003, aplica-se o prazo decenal do artigo 205 do Código Civil de 2002, com termo inicial na data de entrada em vigor do novo Código.
+6. A ação foi ajuizada em 17/12/2012, antes do término do prazo prescricional, que se daria em 11/1/2013, não estando configurada a prescrição.
+7. O entendimento do Tribunal de origem, ao considerar como termo inicial a data do vencimento da última prestação contratual, contraria a jurisprudência pacífica do STJ sobre a aplicação da regra de transição do Código Civil de 2002.
+IV. Dispositivo
+Recurso provido para afastar a prescrição e determinar o retorno dos autos ao Tribunal de origem para novo julgamento.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por A. Z. IMÓVEIS LTDA., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 823-829):
+APELAÇÕES CÍVEIS. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. CONTRATO DE COMPRA E VENDA DE LOTE URBANO. RECURSO DA RÉ. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO DE RESCISÃO CONTRATUAL E DA COBRANÇA DOS VALORES DECORRENTES DO COMPROMISSO DE COMPRA E VENDA. MATÉRIA DE ORDEM PÚBLICA NÃO SUJEITA À PRECLUSÃO. APLICAÇÃO DO PRAZO DECENAL. ART. 205, DO CÓDIGO CIVIL. TERMO INICIAL NO VENCIMENTO ESTIPULADO PARA A ÚLTIMA PARCELA. PRINCÍPIO DA ACTIO NATA . PRECEDENTES DO STJ. TRANSCURSO DE LAPSO TEMPORAL SUPERIOR A 10 ANOS ENTRE O VENCIMENTO DA ÚLTIMA PARCELA E O AJUIZAMENTO DA DEMANDA. PRESCRIÇÃO CARACTERIZADA. READEQUAÇÃO DOS ÔNUS DA SUCUMBÊNCIA. RECURSO DA RÉ CONHECIDO E PROVIDO. RECURSO DA AUTORA PREJUDICADO. (TJPR - Apelação Cível nº 0020989-81.2012.8.16.003, Relator(a): Des. Francisco Luiz Macedo Junior, 7ª CÂMARA CÍVEL, j. 10/02/2023).
+Rejeitados os embargos de declaração (fls. 920-922).
+No recurso especial, a parte recorrente alega violação dos arts. 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil de 2002, sustentando que não teria sido caracterizada a prescrição da pretensão reconhecida pelo Tribunal estadual, ao passo que inobservada a regra de transição prevista no artigo 2.028 do CC/2002. Ainda, defendeu que a Corte local se equivocou quanto ao termo inicial da fluência do prazo prescricional, que considerou como sendo a data do vencimento da última prestação do contrato.
+Foram apresentadas contrarrazões ao recurso especial (fls. 945-960).
+O recurso foi admitido na origem (fls. 962-964).
+É, no essencial, o relatório.
+EMENTA
+Direito civil. Recurso especial. Prescrição. Regra de transição do Código Civil de 2002. Termo inicial do prazo prescricional.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado do Paraná que reconheceu a prescrição da pretensão em ação de resolução contratual por inadimplemento, aplicando o prazo decenal do artigo 205 do Código Civil de 2002, contado a partir do vencimento da última prestação contratual, em 6/4/1997.
+2. O Tribunal de origem considerou que, como a demanda foi ajuizada em 17/12/2012, o prazo prescricional estaria ultrapassado, extinguindo o processo com fundamento no artigo 487, II, do CPC.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o termo inicial do prazo prescricional deve ser a data do vencimento da última parcela contratual (1997) ou a data de entrada em vigor do Código Civil de 2002 (11/1/2003), conforme a regra de transição prevista no artigo 2.028 do Código Civil de 2002.
+III. Razões de decidir
+4. A regra de transição do artigo 2.028 do Código Civil de 2002 estabelece que, quando os prazos de prescrição forem reduzidos pelo novo Código e, na data de sua entrada em vigor, houver transcorrido menos da metade do prazo previsto no Código Civil de 1916, aplica-se o prazo da lei nova, com termo inicial em 11/1/2003.
+5. No caso, como o prazo vintenário do Código Civil de 1916 não havia transcorrido pela metade até 11/1/2003, aplica-se o prazo decenal do artigo 205 do Código Civil de 2002, com termo inicial na data de entrada em vigor do novo Código.
+6. A ação foi ajuizada em 17/12/2012, antes do término do prazo prescricional, que se daria em 11/1/2013, não estando configurada a prescrição.
+7. O entendimento do Tribunal de origem, ao considerar como termo inicial a data do vencimento da última prestação contratual, contraria a jurisprudência pacífica do STJ sobre a aplicação da regra de transição do Código Civil de 2002.
+IV. Dispositivo
+Recurso provido para afastar a prescrição e determinar o retorno dos autos ao Tribunal de origem para novo julgamento.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Recurso especial proveniente de ação de resolução contratual por inadimplemento. O Tribunal de origem entendeu configurada a prescrição da pretensão, aplicando o prazo decenal previsto no artigo 205 do Código Civil de 2002, contado a partir do vencimento da última prestação contratual, em 06/04/1997. Como a demanda foi ajuizada apenas em 17/12/2012, considerou ultrapassado o prazo prescricional e julgou extinto o processo, com fundamento no artigo 487, II, do CPC.
+Discute-se a correta aplicação das regras de prescrição à luz dos artigos 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil de 2002. A controvérsia reside no termo inicial do prazo prescricional diante da regra de transição: se deve ser considerada a data do vencimento da última parcela contratual (1997), como entendeu o Tribunal local, ou a data da entrada em vigor do Código Civil de 2002 (11/01/2003), conforme jurisprudência pacífica do STJ. Conclui-se que, tendo transcorrido menos da metade do prazo vintenário previsto no CC/1916, aplica-se o novo prazo de 10 anos do artigo 205 do CC/2002, cujo marco inicial é 11/01/2003. Assim, ajuizada a ação em 17/12/2012, não estava configurada a prescrição.
+Da violação dos artigos 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil de 2002
+No que se refere à suposta violação dos artigos 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil de 2002, assiste razão ao recorrente.
+Conforme se depreende do acórdão, a Corte de origem reconheceu que a ação estaria fulminada pela prescrição, entendo ser aplicável à ação de resolução contratual por inadimplemento o prazo prescricional de 10 anos, contados da data do vencimento da última prestação do contrato. Vejamos excerto do julgado (fls. 828-829):
+Assim e por isso, aplicável à ação de resolução contratual por inadimplemento, o prazo prescricional de 10 anos.
+(..)
+Quanto ao termo inicial da fluência do prazo prescricional decenal, ele deve ser a data do vencimento estipulado para a última prestação do contrato
+Ora, a análise dessa questão perpassa pelo exame do princípio da actio nata , o qual preconiza que o início do prazo prescricional ocorre com a efetiva lesão ou ameaça do direito tutelado, momento em que nasce a pretensão a ser deduzida em juízo.
+A propósito, nesse sentido, o artigo 189, do Código Civil, prevê: "Violado o direito, nasce a ". pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206".
+(..)
+Na espécie, denota-se que ficou convencionado entre as partes que o valor do negócio seria dividido em 84 (oitenta e quatro) prestações mensais e consecutivas, cujo vencimento inicial se daria em 06 de abril de 1990, conforme o disposto na cláusula segunda, parágrafos primeiro e quinto do contrato (mov. 1.7/1.8).
+Destarte, considerando que entre o pagamento da última parcela, que somente deveria ocorrer em 06 de abril de 1997, e o ajuizamento da presente ação, em 17 de dezembro de 2012, transcorreu prazo muito acima que 10 (dez) anos, resta configurada a prescrição.
+Logo, a pretensão formulada pela autora encontra-se, de fato, prescrita, devendo ser reformada a sentença para que seja extinto o feito, com base no artigo 487, inc. II, do Código de Processo Civil.
+(..)
+De plano, impende salientar que a regra de transição do art. 2.028 do CC de 2002 estabelece que incidem os prazos do Código Civil de 1916, quando reduzidos pelo Código civilista de 2002, se, na data da entrada em vigor deste - 11/1/2003 - houver transcorrido mais da metade do tempo estabelecido naquele.
+Nesse contexto, verifica-se que o entendimento do Tribunal de origem acerca do termo inicial está em dissonância com a jurisprudência dominante desta Corte, que vem se posicionando no sentido de que, a contrário sensu, quando reduzidos os prazos de prescrição pelo Código Civil de 2002 e, na data de sua entrada em vigor, houver transcorrido menos da metade do prazo previsto no Código Civil de 1916, aplica-se o prazo previsto na lei nova, de modo que, nessa hipótese, "o marco inicial de contagem é o dia 11 de janeiro de 2003, data de entrada em vigor do novo Código e não a data do fato gerador do direito" (REsp n. 838.414/RJ, Quarta Turma, julgado em 8/4/2008, DJe de 22/4/2008; AgRg no Ag n. 986.520/RS, Terceira Turma, julgado em 16/6/2009, DJe de 25/6/2009).
+No caso, como a data de pagamento da última parcela do contrato se deu em 6/4/1997, e houve o transcurso de menos da metade do prazo previsto no Código Civil de 1916 (20 anos) na data de entrada em vigor do Código Civil de 2002, a contagem do prazo é de 10 anos, conforme estabelecido no artigo 205 do novo Código Civil, cujo termo inicial é a data da sua entrada em vigor, isto é, 11/1/2003.
+Assim, considerando que a presente ação foi proposta em 17/12/2012, verifica-se que não houve o implemento do prazo da prescrição da pretensão, uma vez que o prazo fatal se daria somente em 11/1/2013.
+Conclui-se, assim, que o ajuizamento da ação ocorreu em tempo hábil, não estando, pois, configurada a prescrição, dada a incidência da regra de transição prevista no artigo 2.028 do Código Civil atual (2002).
+Assim, mostra-se equivocada a conclusão a que chegou a Corte local em considerar como marco inicial da contagem do prazo prescricional decenal "a data do vencimento estipulado para a última prestação do contrato" (fl. 828). Tal entendimento implica equívoco quanto ao termo inicial da prescrição da pretensão, considerando a data do fato gerador do direito, e não a data de entrada em vigor do novo Código, contrariando expressamente a jurisprudência desta Corte.
+A propósito, cito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. FORNECIMENTO DE ENERGIA ELÉTRICA . DÍVIDA NÃO TRIBUTÁRIA. PRAZO PRESCRICIONAL. CÓDIGO CIVIL. APLICAÇÃO . 1. A natureza jurídica da remuneração cobrada pela prestação de serviço público, no caso energia elétrica, por meio de uma concessão pública, é de tarifa ou preço público, portanto de caráter não tributário, sendo aplicados quanto à prescrição os prazos estabelecidos no Código Civil. 2. Violado o direito na vigência do Código Civil de 1916, e não transcorrido o prazo estabelecido, aplica-se a regra de transição do art . 2.028 do Código Civil, segundo o qual há de ser aplicado o novo prazo prescricional do Código Civil de 2002 se, na data de sua entrada em vigor, não houver transcorrido mais da metade do tempo estabelecido na lei revogada. 3. Tratando-se de ação de cobrança de fatura de energia elétrica sem prazo específico estabelecido na novel legislação, e nos termos da jurisprudência desta Corte, aplica-se o prazo geral decenal (art . 205 do CC) a contar de 11.1.2003. 4 . Afastada a prescrição, porquanto, não decorridos mais de dez anos entre a entrada em vigor do novo Código Civil e o ajuizamento da ação. Recurso especial provido.
+(STJ - REsp: 1198400 RO 2010/0113633-6, Relator.: Ministro HUMBERTO MARTINS, Data de Julgamento: 24/08/2010, T2 - SEGUNDA TURMA, Data de Publicação: DJe 08/09/2010)
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO C/C REPETIÇÃO DE INDÉBITO. OBRIGAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO. PRAZO APLICÁVEL. DIREITO INTERTEMPORAL. REGRA DE TRANSIÇÃO.
+1. Ação revisional de contrato bancário c/c repetição de indébito ajuizada em 05/08/2010, da qual foi extraído o presente recurso especial, interposto em 29/09/2021 e atribuído ao gabinete em 20/05/2022.
+2. O propósito recursal é decidir sobre a ocorrência da prescrição da pretensão de revisão de contrato bancário bem como sobre a taxa de juros de mora aplicável.
+3. A contrário senso do que dispõe o art. 2.028 do CC/2002, quando reduzidos os prazos de prescrição pelo CC/2002 e, na data da sua entrada em vigor, houver transcorrido menos da metade do prazo previsto no CC/1916, aplica-se o prazo previsto na lei nova, tendo o STJ decidido que, nessa hipótese, o marco inicial de contagem é o dia 11/01/2003, data de entrada em vigor do novo Código, e não a data do fato gerador do direito.
+4. Em se tratando de obrigação de trato sucessivo, podem incidir, no contexto da mesma relação jurídica, dois prazos prescricionais diferentes - CC/1916 e CC/2002 - a serem contados a partir de dois marcos temporais diferentes - data da entrada em vigor do CC/2002 e data do vencimento de cada prestação -, a depender do momento em que nasce cada pretensão, isoladamente considerada, tendo como referência a vigência do CC/2002.
+5. Hipótese em que, sendo os lançamentos ocorridos desde julho de 1994, não se considera prescrita a pretensão deduzida, à luz do art. 2.028 do CC/2002, considerando a interrupção do prazo prescricional em 12/06/2006 e o ajuizamento desta ação em 10/08/2010.
+6. Recurso especial conhecido e provido.
+(REsp n. 2.001.617/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/8/2022, DJe de 5/8/2022.)
+Dispositivo
+Ante o exposto, conheço do recurso especial e dou-lhe provimento a fim de afastar a prescrição, determinando, por conseguinte, o retorno d os autos ao TJPR para que proceda a novo julgamento, conforme a fundamentação acima.
+É como penso. É como voto.
