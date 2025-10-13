@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR ANTECEDENTE C/C SUSTAÇÃO DE PROTESTO E EMBARGOS À EXECUÇÃO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cautelar antecedente c/c sustação de protesto e embargos à execução.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA, contra decisão que conheceu do agravo e não conheceu do recurso especial.
+Ação: cautelar antecedente c/c sustação de protesto ajuizada pela ENGATCAR INDÚSTRIA DE AUTO PEÇAS LTDA., em desfavor de CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA., e, ainda, embargos à execução opostos pela agravante ENGATCAR INDÚSTRIA DE AUTO PEÇAS LTDA em desfavor de CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA.
+Sentença: julgou as ações acima mencionadas, nos seguintes termos (e-STJ fls. 600-606):
+Isso posto, julgo PROCEDENTES os pedidos formulados na Ação de Sustação de Protesto nº 5003816-54.2016.8.21.0010 e Ação Declaratória nº 5003817-39.2016.8.21.0010 ajuizadas por ENGATCAR INDÚSTRIA DE AUTO PEÇAS LTDA. - Em recuperação judicial e desfavor de CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA. e S. R ASSESSORIA EMPRESARIAL LTDA. a fim de:
+a) confirmar as tutelas de urgências deferidas em ambas as ações;
+b) declarar a inexigibilidade dos débitos relativos as duplicatas anexadas aos autos;
+c) determinar o cancelamento dos respectivos protestos de protocolos; e
+d) condenar as suplicadas, de forma solidária, ao pagamento da quantia de R$ 43.787,80 (quarenta e três mil setecentos e oitenta e sete reais e oitenta centavos) a título de danos materiais em favor da empresa autora, a ser corrigido pelo IGP-M a contar de cada desembolso e juros de mora de 12% ao ano a contar da citação.
+Condeno a parte suplicada ao pagamento das custas processuais e honorários advocatícios ao procurador da parte autora, arbitrados em 10% sobre o valor atualizado da causa (ação de sustação de protesto) e valor atualizado da condenação (ação declaratória), a ser corrigido pelo IGP-M a contar desta data.
+A responsabilidade dos ônus sucumbenciais da empresa S. R. Assessoria se limita apenas na ação a ela direcionada em solidariedade com a empresa Cindumel (5003817-39.2016.8.21.0010).
+Ainda, julgo PROCEDENTES os Embargos a Execução opostos por ENGATCAR INDÚSTRIA DE AUTO PEÇAS LTDA. em desfavor de CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA., a fim de reconhecer a inexigibilidade do(s) título(s) executivo(s) objeto(s) da ação de execução nº 5005249-59.2017.8.21.0010 emitidas a contar de março de 2016 quando constatado o fornecimento de produtos defeituosos pela embargada/exequente.
+Condeno a embargada ao pagamento das custas processuais e de honorários ao procurador da parte adversa, fixados em 10% sobre o valor atualizado da causa, a ser corrigido pelo IGP-M a contar desta data.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA., e provimento à apelação interposta por SR ASSESSORIA EMPRESARIAL LTDA., nos termos da seguinte ementa (e-STJ fl. 370):
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO, AÇÃO DE CANCELAMENTO DE PROTESTO E EMBARGOS À EXECUÇÃO JULGADOS EM CONJUNTO. AQUISIÇÃO DE PEÇAS PELA PARTE AUTORA/EMBARGANTE FORNECIDAS PELA CORRÉ CINDUMEL. AUSÊNCIA DE PROVA DE RECUSA OU INUTILIZAÇÃO DOS LOTES CONSTANTES DAS NOTAS FISCAIS OBJETO DA LIDE. PEÇAS COM DEFEITO REFERENTES A LOTES DIVERSOS, OBJETO DE SUBSTITUIÇÃO OU ABATIMENTO DE VALORES. PREJUÍZO MATERIAL COMPROVADO.
+PRETENSÃO CONDENATÓRIA RESTRITA À CORRÉ CINDUMEL. SENTENÇA REFORMADA. RECURSOS PROVIDOS EM PARTE.
+Embargos de declaração: opostos por CINDUMEL INDUSTRIAL DE METAIS E LAMINADOS LTDA. (corré), foram acolhidos em parte apenas para corrigir erro material, enquanto, os opostos pela ENGATCAR INDÚSTRIA DE AUTO PEÇAS LTDA. (autora), foram rejeitados.
+Recurso Especial: alegou violação dos artigos 186 e 927, do CC e dos arts. 373, I, e 1.022, I e II, do CPC. Requereu o provimento do Recurso Especial para que seja eximida do pagamento de qualquer indenização à parte adversa (e-STJ fls. 800-806).
+Decisão unipessoal: conheceu do agravo e não conheceu do recurso especial, nos termos da seguinte ementa (e-STJ fl. 996):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR ANTECEDENTE C/C SUSTAÇÃO DE PROTESTO E EMBARGOS À EXECUÇÃO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cautelar antecedente c/c sustação de protesto e embargos à execução.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
+Agravo interno: a agravante impugna a Decisão unipessoal, que conheceu do agravo e não conheceu do recurso especial, notadamente quanto aos óbices de aplicação das Súmulas 5 e 7 do STJ. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR ANTECEDENTE C/C SUSTAÇÃO DE PROTESTO E EMBARGOS À EXECUÇÃO. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação cautelar antecedente c/c sustação de protesto e embargos à execução.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Conforme consta da decisão agravada, o TJ/RS, ao analisar o recurso interposto pelo recorrente/agravante, concluiu o seguinte (s-STJ fls. 728-729):
+ ..
+No caso, as aquisições realizadas pela parte autora contemplaram número bastante significativo de molas fornecidas pela corré Cindumel, superior a 20.000 peças, divididas em diversos lotes, representados pelas notas fiscais acostadas ao feito e objeto de execução.
+Incontroverso nos autos que algumas das molas apresentaram defeito, o que, inclusive, ensejou a troca de parte do material, além da compensação de valores, o que se depreende tanto dos documentos acostados aos autos quanto do relato das testemunhas ouvidas em Juízo.
+Ocorre que de todas as notas fiscais juntadas, a prova documental demonstra a existência de defeitos relacionados apenas aos lotes constantes das notas fiscais nº 77360, 77872, 77899 e 79826, os quais, à exceção do último, não são objeto da lide, sendo que, quanto a este, das 3000 molas adquiridas apenas 6 teriam apresentado problemas (fls. 18 e 50, evento 3, PROCJUDIC1, fl. 1, evento 3, PROCJUDIC2).
+Importante registrar que a parte ré afirmou em defesa ter substituído os produtos com defeito e procedido ao abatimento de valores, situação não impugnada especificamente em réplica, além de corroborada pelos depoimentos dos informantes arrolados pela própria demandante.
+No aspecto, Edivaldo da Silva Neves, que exerce cargo de chefia junto à empresa autora, referiu "que houve devolução pela empresa autora com abatimento em duplicatas e, posteriormente, foi feito um refaturamento. Disse que não tem conhecimento se essas novas peças apresentavam defeitos." Jaime Carlos Garcia da Rocha, de sua vez, engenheiro mecânico da demandante destacou que a ré "realizou a reposição de alguns lotes que também apresentavam os mesmos defeitos."
+O certo é que nada há nos autos a comprovar, afora as seis peças com problemas constantes da NF 79826, que todos os demais produtos adquiridos, relativos às notas fiscais objeto da lide, tenham sido descartados ou devolvidos por defeituosos.
+A parte autora não acostou notas fiscais de devolução, tampouco comprovação de descarte por inadequação. Também não há notificação, mesmo que informal, mediante correspondência eletrônica ou mensagem telefônica, impugnando ou recusando expressamente as notas fiscais encaminhadas a protesto, mostrando-se inviável presumir a inutilização generalizada dos produtos, sequer demonstrado o seu destino final, de fato.
+No mais, embora sustente a demandante a imprestabilidade das peças, informa a aquisição de somente 4.220 junto a terceiro, alegando que isso se fez necessário ante os problemas naquelas fornecidas pela ré, que, entretanto, totalizam mais de 20.000.
+Destaca-se, ainda, que mesmo depois de relatados os defeitos, a autora seguiu adquirindo produtos da parte ré, o que se deu até junho de 2016.
+Razão assiste à parte demandada, de outro turno, quando afirma que a prova pericial não tem o condão de evidenciar a inutilidade de todo o material, uma vez que consta expressamente do laudo que a perícia examinou uma única peça defeituosa apresentada pela autora, consignando "Durante a realização da perícia não encontramos na empresa peças desses lotes enviados com os possíveis problemas, segundo o Sr. Jaime da Rocha todas as peças que foram listadas como passíveis de apresentar problemas foram devolvidas para e ré (Cindumel)."
+O fato de algumas peças terem apresentado defeito, como já mencionado, é incontroverso. Não obstante, dado o número expressivo de aquisição, inclusive após a verificação dos defeitos, cabia à parte autora, a teor do art. 373, I, do CPC, o ônus de comprovar a recusa do material objeto das notas ficais em litígio, a devolução ou descarte, do que não se desincumbiu, inexistindo qualquer referência nos documentos acostados a respeito de problemas com os lotes em questão, exceto quanto a seis peças.
+De anotar que não se trata de demanda envolvendo direito do consumidor, bem ainda que a relação jurídica envolve valores e quantidades elevadas de produtos, de modo que embora algumas peças tenham apresentado grave defeito, a recusa de todas não se pode presumir, notadamente porque, como já referido, nada veio a comprovar o destino final do material.
+Quanto à reparação por danos materiais, considerando a incontroversa existência de defeitos, ainda que em peças não relacionadas àquelas constantes dos lotes objeto da lide, vai mantida apenas em relação à corré Cindumel, contra quem direcionada a demanda condenatória, pois comprovados os prejuízos sofridos com novas aquisições, incluindo aumento de preço, frete e paralisação de atividades.
+Nesse contexto, merece reforma a sentença, para julgar improcedentes os embargos à execução e a ação declaratória nº 5003817-39.2016.8.21.0010, bem como parcialmente procedente a ação de cancelamento de protesto nº 5003816- 54.2016.8.21.0010 quanto à corré Cindumel e improcedente no tocante à SR Assessoria, afastando os pedidos de sustação de protesto e inexigibilidade de título. Ante o resultado do julgamento, arcará a parte autora/embargante com as custas atinentes à declaratória nº 5003817- 39.2016.8.21.0010 e aos embargos à execução, além de honorários ao procurador da parte adversa fixados em 10% sobre o valor da causa.
+No que tange à ação de cancelamento de protesto nº 5003816- 54.2016.8.21.0010, arcará a parte autora com 70% das custas e honorários ao procurador da parte ré fixados em 10% sobre o valor da causa. A corré Egatcar, de sua vez, arcará com o restante das custas e honorários ao procurador da autora arbitrados em 10% sobre o valor da condenação.
+Diante do exposto, VOTO por DAR PARCIAL PROVIMENTO ao apelo da Cindumel e PROVIMENTO ao recurso da SR Assessoria para julgar improcedentes os embargos à execução e a ação declaratória nº 5003817-39.2016.8.21.0010 e procedente em parte a ação de cancelamento de protesto nº 5003816- 54.2016.8.21.0010 quanto à corré Cindumel e improcedente no tocante à SR Assessoria, na forma da fundamentação. (grifos no original)
+Alterar o decidido no acórdão impugnado, no que se r efere à alegada inexigibilidade dos títulos de créditos em razão do fornecimento de mercadorias defeituosas e o descumprimento das cláusulas contratuais, exige o reexame de fatos e provas, assim como, quanto à abusividade, a interpretação de cláusula contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Portanto, deve ser mantida a decisão agravada que não conheceu do recurso especial.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
