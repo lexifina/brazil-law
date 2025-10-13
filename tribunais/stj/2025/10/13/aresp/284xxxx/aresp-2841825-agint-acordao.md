@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. COBRANÇA POR EMPRESA TERCEIRIZADA. ALEGADA ILEGITIMIDADE PASSIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. MULTA. ART. 400 DO CPC/2015. CABIMENTO. SÚMULA 83/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira das Súmulas283 e 284 do Supremo Tribunal Federal.
+2. O entendimento desta Corte é de que, "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (REsp 1.777.553/SP, Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 26/5/2021, DJe de 1º/7/2021).
+3. A solicitação de alteração do valor fixado a título de honorários encontra óbice na Súmula 7 do STJ, uma vez que, no caso em análise, tal questão exige a avaliação de aspectos como a complexidade da causa, o nível de dedicação do advogado, as adversidades enfrentadas no acompanhamento do processo, entre outros fatores.
+4 Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ CARLOS SKRZYSZOWSKI JUNIOR ADVOGADOS ASSOCIADOS contra decisão proferida por esta Relatoria (e-STJ, fls. 457-462), que conheceu do agravo para não conhecer do recurso especial.
+Nas razões do agravo interno (e-STJ, fls. 465-482), a parte agravante alega que não incide a Súmula 7/STJ, sob o argumento de que o STJ não pode se restringir ao reexame formal, devendo interpretar o acontecimento trazido nos autos e, se for o caso, conferir outro entendimento jurídico; sustenta a não aplicação das Súmulas 83/STJ e 283 e 284 do STF, afirmando que houve demonstração dos dispositivos apontados e que há a necessidade de pronunciamento do STJ no tocante a impossibilidade de exibição/revisão de contratos anteriores/alheios à lide, pois a decisão não condiz com a realidade dos fatos, de modo que não se busca a reapreciação de provas. Afirma que na ação de exibição de documentos, não cabe a aplicação de multa cominatória, nos termos da Súmula 372/STJ. Pleiteia, ainda, a redução dos honorários sucumbenciais, alegando que o presente feito se revela de pouca complexidade.
+Foi apresentada impugnação (e-STJ, fls. 485-491).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. COBRANÇA POR EMPRESA TERCEIRIZADA. ALEGADA ILEGITIMIDADE PASSIVA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. MULTA. ART. 400 DO CPC/2015. CABIMENTO. SÚMULA 83/STJ. HONORÁRIOS ADVOCATÍCIOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira das Súmulas283 e 284 do Supremo Tribunal Federal.
+2. O entendimento desta Corte é de que, "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (REsp 1.777.553/SP, Relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 26/5/2021, DJe de 1º/7/2021).
+3. A solicitação de alteração do valor fixado a título de honorários encontra óbice na Súmula 7 do STJ, uma vez que, no caso em análise, tal questão exige a avaliação de aspectos como a complexidade da causa, o nível de dedicação do advogado, as adversidades enfrentadas no acompanhamento do processo, entre outros fatores.
+4 Agravo interno improvido.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Conforme consignado na decisão agravada, o Tribunal de origem, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 318-321):
+Demais disso, as matérias de ilegitimidade passiva e de impossibilidade jurídica do pedido restaram apreciadas e refutadas quando da interposição de dois Agravos de Instrumento pela Requerida, aos quais findou negado o provimento, bem como na sentença ora recorrida.
+Assim sendo, preclusas as teses, como se vê em julgado assemelhado proferido por esta c. Corte:
+(..)
+De saída, verifica-se que a proteção dos dados pessoais resulta preconizada na Constituição Federal, art. 5º, LXXIX, este acrescentado pela EC nº 115/22:  é assegurado, nos termos da  . lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais
+Essa diretriz fundamental se afigura regulamentada pela Lei nº 13.709/18, mormente, no que ora importa, em seus arts. 3º, 5º, 7º e 9º - sendo que, especificamente quanto a este último dispositivo, há determinação expressa de que  O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada  .
+(..)
+Diante disso, infere-se que qualquer das instituições que se encontrem na posse de informações de um indivíduo devem, a pedido deste, fornecer as informações que possuam acerca de determinado negócio jurídico que o envolva, independentemente de sua condição terceirizada.
+Quando não - e isso sob conjectura -, o agente de ad argumentandum tantum tratamento se obriga a exibir o respectivo contrato de prestação de serviços, de que conste cláusula impeditiva de cessão de dados.
+Contudo, como ponderado no recorrido, nada juntou a Requerida para decisum comprovar essa inviabilidade, consoante exigido pelo C. Proc. Civil, art. 373, caput e II.
+Sem prejuízo disso, não há como conceber - sem a juntada do instrumento contratual em comento - que a sociedade se fie em dados meramente repassados via sistema computacional, efetuando cobranças sem a conferência da correspondente avença originária. in totum
+À vista disso, denota-se que a guarda de dados consiste em risco inerente à atividade econômica desenvolvida pela Requerida, pelo que resta patente sua responsabilidade solidária pela exibição ora almejada.
+(..)
+À conta disso, descabe obtemperar sobre a necessidade de prévio requerimento administrativo à instituição bancária titular da cobrança, tampouco de expedição de ofício para obtenção do contrato, exigência que ocasiona empecilho ao direito do consumidor de tomar ciência dos débitos existentes em seu desfavor, bem como de sua natureza - ainda mais quando desconhece sua origem.
+Por derradeiro, a situação não se enquadra em qualquer das condições para escusa de apresentação de documento, as quais se acham elencadas no C. Proc. Civil, art. 404.
+De conseguinte, mantidas as determinações da sentença, fixando-se lapso de quinzena para apresentação da avença objetivada pelo Requerente, restabelecendo-se a pena de multa diária previamente imposta.
+Tocantemente à insurgência em relação à imposição de multa diária por descumprimento, observa-se que a Súmula nº 372 do Superior Tribunal de Justiça restou superada, de acordo com o disposto no C. Proc. Civil, art. 400, parágrafo único, em entendimento consolidado no Tema Repetitivo nº 1000, como se vê:
+(..)
+Com isso, anteriormente à restauração da pena de multa diária, seria imperioso determinar medida de busca e apreensão do contrato junto à Requerida - o que, por sua vez, se afigura contraproducente, uma vez que esta alega não o possuir, e dificilmente deixará de sustentar essa assertiva.
+Portanto, a multa diária culminará restabelecida em caso de inobservância do prazo definido na r. sentença.
+Alfim, a Requerida questiona o montante arbitrado para pagamento de honorários sucumbenciais, reputando-o excessivo.
+Todavia, o importe se revela satisfatório para remuneração do labor despendido pelo Advogado da parte vencedora, atentando-se para os critérios inscritos no C. Proc. Civil, art. 85, §§ 2º e 8º.
+Inclusive, ante o total desprovimento da porção conhecida do Apelo, a verba sucumbencial comporta majoração para R$ 3.500,00 (três mil e quinhentos reais), com sustentáculo nos mesmos parâmetros. (Sem grifo no original).
+A despeito de toda a argumentação sobre a ilegitimidade passiva e a impossibilidade de exibição dos documentos, a parte recorrente não demonstrou de que forma o Tribunal de origem teria violado os dispositivos apontados e não impugnou o fundamento sobre a ocorrência da preclusão.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca das questões ventiladas no recurso especial (arts. 525, § 1º, e 485, VI, do CPC/2015) acarreta falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação das Súmulas nºs 283 e 284/STF.
+6. Conforme entendimento desta Corte Superior, a multa a que se refere o art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a discussões a respeito do débito, o que não é o caso dos autos.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+No tocante à multa diária em ação de exibição de documentos, ratifica-se que a Segunda Seção do Superior Tribunal de Justiça, ao analisar o Tema 1.000, determinou que o parágrafo único do artigo 400 do Código de Processo Civil não representa um silêncio eloquente, mas sim uma previsão implícita de multa cominatória, inserida no contexto das "medidas coercitivas". Com base nisso, foi estabelecida a seguinte tese:
+Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015.
+O precedente qualificado recebeu a seguinte ementa:
+RECURSO ESPECIAL REPETITIVO. TEMA 1000/STJ. PROCESSUAL CIVIL. CPC/2015. COMINAÇÃO DE ASTREINTES NA EXIBIÇÃO DE DOCUMENTOS REQUERIDA CONTRA A PARTE "EX ADVERSA". CABIMENTO NA VIGÊNCIA DO CPC/2015. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. CASO CONCRETO. INSCRIÇÃO NEGATIVA EM CADASTRO DE INADIMPLENTES. PEDIDO AUTÔNOMO DE EXIBIÇÃO DO CONTRATO PERTINENTE À INSCRIÇÃO NEGATIVA. INDEFERIMENTO DA INICIAL PELO JUÍZO DE ORIGEM. APLICAÇÃO DA TEORIA DA CAUSA MADURA PELO TRIBUNAL DE ORIGEM. PROCEDÊNCIA DO PEDIDO DE EXIBIÇÃO COM COMINAÇÃO DE ASTREINTES. DESCABIMENTO. NECESSIDADE DE PRÉVIO JUÍZO DE PROBABILIDADE E DE PRÉVIA TENTATIVA DE BUSCA E APREENSÃO OU OUTRA MEDIDA COERCITIVA. ANULAÇÃO DA SENTENÇA E DO ACÓRDÃO RECORRIDO. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM.
+1. Delimitação da controvérsia: exibição incidental ou autônoma de documentos requerida contra a parte "ex adversa" em demanda de direito privado.
+2. Tese para os fins do art. 1.040 do CPC/2015: "Desde que prováveis a existência da relação jurídica entre as partes e de documento ou coisa que se pretende seja exibido, apurada em contraditório prévio, poderá o juiz, após tentativa de busca e apreensão ou outra medida coercitiva, determinar sua exibição sob pena de multa com base no art. 400, parágrafo único, do CPC/2015" (Tema 1000/STJ).
+3. Caso concreto:
+3.1. Controvérsia acerca da cominação de astreintes em ação autônoma de exibição ajuizada com o escopo de ter acesso ao contrato que teria dado origem a uma inscrição negativa em cadastro de inadimplentes.
+3.2. Indeferimento da petição inicial pelo juízo de origem, tendo o Tribunal de origem reformado a sentença e, aplicando a teoria da causa madura, julgado procedente o pedido de exibição, com cominação de astreintes.
+3.3. Descabimento da cominação de astreintes sem prévio juízo de probabilidade acerca da existência da relação jurídica e do documento, nos termos da tese firmada neste voto.
+3.4. Necessidade de prévia tentativa de busca e apreensão ou outra medida coercitiva, antes da cominação de astreintes.
+3.5. Desconstituição da sentença e do acórdão recorrido para que seja retomado o curso da ação de exibição de documentos para possibilitar a aplicação da tese consolidada neste voto, como se entender de direito.
+4. RECURSO ESPECIAL PROVIDO, EM PARTE.
+(REsp n. 1.777.553/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 26/5/2021, DJe de 1/7/2021.)
+Ressalte-se que a admissibilidade do recurso especial pela alínea "c" do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL E DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA MOVIDA POR SEGURADORA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SEGURADORA. RESPONSABILIDADE EXTRACONTRATUAL. JUROS MORATÓRIOS. DATA DO DESEMBOLSO DA QUANTIA EM RAZÃO DA INCIDÊNCIA DA SÚMULA 54/STJ. PRECEDENTES.
+1. Ação regressiva movida por seguradora.
+2. A interposição de recurso especial não é cabível quando ocorre alegação de violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A seguradora, ao propor ação regressiva de reparação de danos contra o causador do sinistro, está sub-rogada em todos os direitos do segurado. Sendo assim na hipótese de responsabilidade extracontratual, por aplicação da Súmula 54 do Superior Tribunal de Justiça, os juros moratórios devem fluir a partir da data do desembolso da indenização. Precedentes.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.978.728/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022).
+Por fim, não há como rever, no âmbito estreito do recurso especial, o arbitramento dos honorários advocatícios consoante a proporcionalidade dos serviços prestados.
+A reforma do julgado demandaria, necessariamente, o reexame do substrato fático-probatório dos autos, inviável nesta instância especial, a teor do disposto na Súmula 7 do STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
