@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por CARLOS ALBERTO SILVA DE AZEVEDO, ex-Prefeito do Município de São Francisco de Itabapoana, contra acórdão da Sexta Turma desta Corte, assim ementado:
+DIREITO PENAL. AGRAVO REGIMENTAL. DOSIMETRIA DA PENA. CAUSA DE AUMENTO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. A parte agravante alega prequestionamento dos arts. 78, inciso IV, do CPP e 35, inciso II do CE e do art. 312 do CP com relação ao art. 350 do CE, além de questionar a exasperação da pena-base, a aplicação do art. 327, § 2º, do CP, e a ausência de substituição da pena reclusiva por penas restritivas de direito.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve prequestionamento das normas citadas e se a exasperação da pena- base e a aplicação da causa de aumento prevista no art. 327, § 2º, do CP são justificadas, além da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+III. Razões de decidir
+3. A falta de prequestionamento impede o conhecimento do recurso especial, conforme as Súmulas 282 e 356 do STF.
+4. A exasperação da pena-base foi fundamentada na natureza da verba desviada, vinculada à área de saúde, evidenciando maior reprovabilidade da conduta delituosa.
+5. A aplicação da causa de aumento de pena do art. 327, § 2º, do CP é compatível com a finalidade de maior repressão a crimes cometidos contra a administração pública por ocupantes de cargos eletivos.
+6. A substituição da pena privativa de liberdade por restritiva de direitos é inviável devido à ausência de comprovação dos requisitos contidos no art. 44 do Código Penal.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A falta de prequestionamento impede o conhecimento do recurso especial. 2. A exasperação da pena-base é justificada pela maior reprovabilidade da conduta delituosa. 3. A aplicação da causa de aumento de pena do art. 327, § 2º, do CP é compatível com a repressão a crimes cometidos por ocupantes de cargos eletivos. 4. A substituição da pena privativa de liberdade por restritiva de direitos é inviável sem comprovação dos requisitos legais".
+Dispositivos relevantes citados: CPP, art. 78, inciso IV; CE, art. 35, inciso II; CP, art. 312; CP, art. 327, § 2º; CP, art. 44; CE, art. 350.
+Jurisprudência relevante citada: STF, INQ 2606, Rel. Min. Luiz Fux, Tribunal Pleno, julgado em 04.09.2014; STF, HC 148138 AgR, Rel.
+Min. Luiz Fux, Primeira Turma, julgado em 31.08.2018; STJ, AgRg no HC 823.916/PE, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 15.04.2024.
+(AgRg no REsp n. 2.199.232/RJ, Rel. Min. Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma do STJ, unânime, julgado em 20/08/2025, DJEN de 26/08/2025) - negritei.
+No presente recurso, a defesa sustenta que, ao admitir a possibilidade de aplicação da causa de aumento de pena prevista no art. 327, § 2º, do Código Penal aos ocupantes de cargos político-eletivos, a Sexta Turma do STJ divergiu do entendimento da Quinta Turma no REsp n. 1.723.969/PR (relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/5/2019, DJe de 27/5/2019), no qual se reconheceu que a referida causa de aumento de pena não incide se o delito foi cometido por ocupante de cargo político-eletivo como o de vereador, já que a norma penal não admite a analogia in malam partem.
+Argumenta que, "conquanto o paradigma trate de vereador a ratio decidendi (não se admite analogia in malam partem) estende-se a casos envolvendo prefeitos, como o subjacente, seja porque se trata igualmente de cargo político-eletivo, seja porque no próprio paradigma apresentado consta colação de precedente relacionado a ex-vice governador" (e-STJ fl. 3.684).
+Pede, assim, o provimento dos embargos de divergência, "para que, diante da mesma base fática (mesmo crime de peculato), analisada à luz do mesmo dispositivo de lei federal (art. 327, § 2º, CP), seja conferida a solução consagrada no REsp 1723969/PR, Rel. Min. Joel Ilan Paciornik, afastando-se o art. 327, § 2º, CP aos ocupantes de cargos político-eletivos" (e-STJ fl. 3.685).
+É o relatório. Passo a decidir.
+Os embargos de divergência são tempestivos.
+Entretanto o recurso não autoriza conhecimento.
+A uma, porque a defesa não cuidou de efetuar o necessário e adequado cotejo analítico entre a situação fático-jurídica analisada no caso concreto e aquela objeto de debate no julgado apontado como paradigma, de forma a demonstrar que, diante de contextos similares, a Terceira Seção, a Quinta e a Sexta Turmas desta Corte decidiram de maneira diferente sobre determinado tema.
+Ressalto que a mera transcrição de trechos dos julgados comparados em tabela, na qual cada coluna faz alusão a fundamentos jurídicos lançados nos acórdãos e à conclusão obtida em cada caso, não atende aos requisitos necessários para o cotejo analítico.
+Lembro que a jurisprudência desta Corte é assente no sentido de que a "mera transcrição de ementas, seguidas de considerações interpretativas do recorrente, não atendem aos requisitos de admissibilidade dos embargos de divergência, que pressupõem a demonstração da identidade fática entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa" (AgRg nos EAREsp n. 1.910.762/RJ, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 23/2/2022, DJe de 25/2/2022).
+A duas, porque não existe similitude entre as situações fático-jurídicas analisadas nos acórdãos comparados.
+Isso porque, no caso concreto, o acórdão embargado expressamente consignou, com amparo em precedentes do Supremo Tribunal Federal, ser possível aplicar a causa de aumento de pena prevista no art. 327, § 2º, do Código Penal "a agentes com mandato eletivo, pois o Chefe do Poder Executivo, conforme a Constituição Federal, exerce um cargo de direção na Administração Pública. Essa interpretação não configura analogia prejudicial nem extensão indevida da norma penal, mas sim uma compreensão do texto legal" (e-STJ fls. 3.669/3.670).
+Em outras palavras, a situação em exame nos autos envolvia não só o cometimento de delito (in casu, peculato - art. 312 do CP) por réu que, à época dos fatos (dez/2009 a 2012), detinha mandato eletivo, como também exercia função de direção do Poder Executivo Municipal, pois era prefeito do Município de São Francisco de Itabapoana/RJ.
+Seja dizer, a conclusão adotada pelo acórdão recorrido levou em conta duas situações concomitantes: o exercício de mandato eletivo aliado ao exercício de função de direção da Administração Pública decorrente do cargo de chefe do poder executivo municipal.
+De outro lado, no acórdão indicado como paradigma (REsp n. 1.723.969/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/5/2019, DJe de 27/5/2019), o que está em exame é a possibilidade de aplicação da mesma causa de aumento de pena a réu que detém mandato eletivo, mas não ocupa função de direção, pois trata-se de vereador condenado por peculato.
+Rememoro, por fim, que a finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça, portanto não podem ser utilizados como nova via recursal, visando corrigir eventual equívoco ou controvérsia advinda do julgamento do próprio recurso especial.
+Tenho, portanto, como incabíveis os embargos de divergência.
+Ante o exposto, indefiro liminarmente os presentes embargos, com fundamento no art. 266-C do Regimento Interno desta Corte, na redação da Emenda Regimental n. 22, de 16/03/2016.
+Intimem-se.
+EMENTA
