@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, a, da Constituição Federal.
+O feito decorre de ação civil pública ajuizada pelo Ministério Público Federal tendo como objetivo a revisão do cálculo da renda da aposentadoria das pessoas com deficiência, após a reforma promovida pela Emenda Constitucional n. 103/2019, com valor da causa fixado em R$ 100.000,00 (cem mil reais), em janeiro de 2021.
+Após sentença que julgou procedente o pedido, foi interposta apelação, a qual foi parcialmente provida pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO em acórdão assim ementado:
+PREVIDENCIÁRIO. AÇÃO CIVIL PÚBLICA. APELAÇÃO. APOSENTADORIA DA PESSOA COM DEFICIÊNCIA. RMI. EMENDA CONSTITUCIONAL N.º 103/2019. LC N.º 142/13. RECEPTIVIDADE.
+1. A redação do art. 22 da Emenda Constitucional n.º 103/19 deixa claro que, na reforma previdenciária, optou o constituinte derivado pela criação de dois sistemas distintos para cálculo dos benefícios de aposentadoria, reservando para as "pessoas com deficiência" as regras vigentes antes do advento da nova ordem constitucional.
+2. A incidência da regra esculpida no §2º do art.3º da Lei 9.876/99 à aposentadoria da pessoa com deficiência é corolário lógico da receptividade da LC n.º 142/2013 e da redação que a própria Lei nº 9.876/99 conferiu ao artigo 29 da Lei n.º 8.213/91 pela nova ordem constitucional, devendo ser observada.
+3. A aposentadoria da pessoa com deficiência rege-se pelas normas da aposentadoria por idade ou por tempo de contribuição, fazendo parte dos benefícios a que se refere o artigo 29, inciso I, da Lei nº 8.213/91, na redação que lhe deu o artigo 2º da Lei n.º 9.876/99.
+4. Segundo o artigo 3º da Lei 9.876/99, o período contributivo base da aposentadoria da pessoa deficiente fica limitado à competência de JUL/94; ou ao dia de efetivo início da contribuição, se posterior àquela data.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, aponta violação do art. 8º, da Lei Complementar n. 142/2013 e art. 2º, § 1º, da LINDB.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Instado a se manifestar, o Ministério Público Federal opinou pelo improvimento do recurso.
+É o relatório. Decid o.
+A leitura atenta do acórdão recorrido revela que ele utilizou-se de fundamento constitucional para solucionar a controvérsia, notadamente a Emenda Constitucional n. 103/2019. Desta forma se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Dessa forma, não cumpre ao Superior Tribunal de Justiça, na via estreita do recurso especial, analisar a suposta violação de dispositivos constitucionais, nem mesmo para fins de prequestionamento, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal para tratar da matéria de índole eminentemente constitucional, através do processamento e julgamento de recursos extraordinários, nos termos do art. 102, III, da Constituição Federal.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DO SEGURO SOCIAL - GDASS. PATAMAR MÍNIMO DE 70 PONTOS. ACORDÃO QUE EXTENDEU A GRATIFICAÇÃO POR OFENSA AO ARTIGO 40, §§ 4º E 8º, DA CF/88. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. NÃO CONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia acerca da extensão da gratificação GDASS aos aposentados e pensionistas foi dimirida pelo acórdão local com fundamento eminentemente constitucional, a partir da ofensa ao artigo 40, §§ 4º e 8º, da CF/88.
+2. Compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido quanto ao ponto, sob pena de usurpação de competência inserta no art. 102 da Constituição. Federal. Precedentes: AgInt no AREsp n. 2.238.546/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/5/2023; AgInt no REsp n. 1.909.039/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/4/2022, DJe de 22/4/2022; AgInt no REsp n. 1.893.820/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021; e AgInt no REsp n. 1.447.193/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2018, DJe de 26/6/2018.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.388.628/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/12/2023, DJe de 20/12/2023.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. GDASS. PONTUAÇÃO MÍNIMA. EXTENSÃO AOS INATIVOS. REGRA DA PARIDADE. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1. O recurso especial possui fundamentos eminentemente constitucionais - consistentes em demonstrar a extensão aos inativos da pontuação mínima da Gratificação de Desempenho de Atividade da Seguridade Social - GDASS paga aos servidores ativos, em razão da regra da paridade -, o que afasta o exame da questão pelo STJ, sob pena de invadir a competência do STF.
+2. O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com amparo em razões de natureza constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.909.039/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/4/2022, DJe de 22/4/2022.)
+Nesse ponto, em razão de o recurso ter sido interposto na vigência da atual legislação processual civil, possível seria seu envio ao Supremo Tribunal Federal, após a readequação da petição recursal, nos termos do art. 1.032 do CPC/2015. Porém, considerada a existência, no caso, de recurso extraordinário, essa providência não é necessária (AgInt no REsp 1.659.462/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 06/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
