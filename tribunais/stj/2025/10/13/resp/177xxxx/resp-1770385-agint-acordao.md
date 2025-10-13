@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. USUCAPIÃO. COPROPRIETÁRIO. INTERESSE DE AGIR. POSSIBILIDADE JURÍDICA DO PEDIDO. SANEAMENTO REGISTRAL. PLANO DIRETOR MUNICIPAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. USUCAPIÃO TABULAR. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A questão referente à alegada burla às regras do plano diretor municipal não foi objeto de debate na Corte de origem, a qual nem sequer foi provocada a se manifestar a respeito por embargos de declaração, o que atrai a incidência do óbice da Súmula 282/STF.
+2. Rever as conclusões do acórdão recorrido quanto ao preenchimento dos requisitos da usucapião tabular ensejaria o reexame de matéria fático-probatória (Súmula 7/STJ).
+3. A jurisprudência do Superior Tribunal de Justiça admite a usucapião por parte de coproprietário quando o objetivo é sanear a cadeia dominial ou individualizar a posse sobre parte certa do imóvel, mesmo que ele já figure na matrícula.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão que negou provimento ao recurso especial interposto com base na alínea "a" do art. 105, III, da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fls. 207-225):
+"APELAÇÃO CÍVEL. USUCAPIÃO TABULAR. POSSIBILIDADE JURÍDICA DO PEDIDO. EXTINÇÃO AFASTADA. PROSSEGUIMENTO EM RELAÇÃO AO MÉRITO. CAUSA MADURA. ENFITEUSE ANTERIORMENTE CONSTITUÍDA. INTERESSE DO MUNICÍPIO NÃO MANIFESTADO. REQUISITOS DO ARTIGO 1.242, PARÁGRAFO ÚNICO. CUMPRIMENTO. FUNÇÃO SOCIOECONÔMICA DA PROPRIEDADE. PRETENSÃO QUE COMPORTA GUARIDA. GRATUIDADE DA JUSTIÇA RECONHECIDA AOS DEMANDANTES. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA."
+Os embargos de declaração não foram opostos (fls. 260).
+Na decisão agravada, neguei provimento ao recurso especial por entender que: (i) a Corte local não emitiu juízo de valor sobre a tese de que a usucapião teve por finalidade burlar as regras do plano diretor municipal, estando ausente o prequestionamento dessa matéria; e (ii) a alteração da conclusão quanto ao interesse de agir demandaria reexame de fatos e provas, vedado pela Súmula 7/STJ.
+No agravo interno, o Ministério Público sustenta que: (i) o recurso especial não se fundamenta na tese de burla às regras do plano diretor, mas na ausência de interesse de agir e na impossibilidade de enquadramento na usucapião tabular; (ii) a burla ao plano diretor seria mera consequência da manutenção do acórdão; (iii) não incide a Súmula 7/STJ, pois o recurso busca apenas a revaloração jurídica dos fatos já estabelecidos no acórdão.
+É o breve relato.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. USUCAPIÃO. COPROPRIETÁRIO. INTERESSE DE AGIR. POSSIBILIDADE JURÍDICA DO PEDIDO. SANEAMENTO REGISTRAL. PLANO DIRETOR MUNICIPAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. USUCAPIÃO TABULAR. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A questão referente à alegada burla às regras do plano diretor municipal não foi objeto de debate na Corte de origem, a qual nem sequer foi provocada a se manifestar a respeito por embargos de declaração, o que atrai a incidência do óbice da Súmula 282/STF.
+2. Rever as conclusões do acórdão recorrido quanto ao preenchimento dos requisitos da usucapião tabular ensejaria o reexame de matéria fático-probatória (Súmula 7/STJ).
+3. A jurisprudência do Superior Tribunal de Justiça admite a usucapião por parte de coproprietário quando o objetivo é sanear a cadeia dominial ou individualizar a posse sobre parte certa do imóvel, mesmo que ele já figure na matrícula.
+4. Agravo interno a que se nega provimento.
+VOTO
+O juízo de primeira instância extinguiu o processo sem resolução de mérito por falta de interesse de agir, ao fundamento de que os autores, sendo proprietários da área maior em condomínio, não poderiam usucapir porção de terra da qual já detêm o domínio. O Tribunal de origem, por unanimidade, reformou a sentença, afastando a extinção e julgando procedente o pedido de usucapião tabular.
+Assim posta a questão, passo ao exame do recurso.
+A controvérsia cinge-se a definir se: (i) há interesse de agir na ação de usucapião proposta por coproprietários que buscam adquirir fração certa dentro da gleba maior de que já são proprietários em condomínio; e (ii) estão presentes os requisitos específicos da usucapião tabular.
+Da inovação recursal
+Inicialmente, observo que o agravante alega que a tese de burla às regras do plano diretor municipal seria mera consequência da manutenção do acórdão. A análise das razões do recurso e do acórdão recorrido revela que o tema do plano diretor municipal não foi ventilado durante a instrução processual ou enfrentado pelo tribunal de origem, tratando-se de matéria nova introduzida apenas em sede de recurso especial.
+Como é pacífico nesta Corte, não se admite a inovação em sede de recurso especial, aplicando-se o óbice da Súmula 282/STF. Nesse sentido, não conheço do recurso especial quanto a este ponto.
+Do reexame de provas - Súmula 7/STJ
+Verifico que a pretensão de demonstrar a ausência dos requisitos específicos da usucapião tabular - especialmente a inexistência de registro prévio cancelado - demandaria necessariamente o reexame do conjunto fático-probatório dos autos.
+O T ribunal de origem, soberano na análise das provas, reconheceu a possibilidade jurídica do pedido e o interesse de agir dos autores. A superação de tal conclusão exigiria a reanálise de elementos probatórios específicos, o que encontra óbice na Súmula 7/STJ.
+Do interesse de agir e da possibilidade jurídica do pedido
+Quanto ao interesse de agir, a jurisprudência desta Corte Superior não é absoluta no sentido de vedação da usucapião por parte de quem já figura como proprietário na matrícula do imóvel.
+O acórdão recorrido fundamentou adequadamente a superação da extinção prematura, asseverando que:
+"A extinção do feito, sem resolução de mérito, em razão de ausência de interesse processual na modalidade de impossibilidade jurídica do pedido cinge-se às hipóteses em que o pleito não guarda correlação no direito positivo ou, ainda, quando o pedido, possuindo respaldo no ordenamento, está eivado por ilicitude."
+E prosseguiu:
+"Sabe-se, ademais, que as condições da ação devem ser aferidas à luz da teoria da asserção, isto é, diante da situação fática narrada na exordial pela parte autora. Haverá interesse processual sempre que a parte necessitar vir a juízo pleitear seu direito e quando a tutela pretendida trouxer-lhe utilidade prática - tal como no presente caso, em que a providência pleiteada impacta na esfera pessoal dos demandantes. Inexistindo ilicitude no pleito consubstanciado na inicial ou vedação legal e estando o seu escopo compreendido no ordenamento - trazendo ele, repise-se, utilidade prática na esfera dos autores - que pretendem obter a declaração de domínio sobre porção de área individualizada, há que ser devidamente revolvido o mérito a fim de que seja verificado o preenchimento (ou não) dos requisitos para o deferimento da medida requisitada, não se podendo cogitar de falta de condições para o exercício do direito de ação."
+Esta Corte tem precedentes no sentido de admitir a usucapião quando há finalidade saneadora da cadeia dominial, mesmo em situações envolvendo coproprietários. Nesse sentido, o REsp 575.572/RS, de relatoria da Ministra Nancy Andrighi, assentou:
+"CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. USUCAPIÃO. DOMÍNIO PÚBLICO. ENFITEUSE. - É possível reconhecer a usucapião do domínio útil de bem público sobre o qual tinha sido, anteriormente, instituída enfiteuse, pois, nesta circunstância, existe apenas a substituição do enfiteuta pelo usucapiente, não trazendo qualquer prejuízo ao Estado. Recurso especial não conhecido."
+De igual modo, no REsp 254.417/MG, de relatoria do Ministro Luis Felipe Salomão, esta Corte estabeleceu:
+"DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. USUCAPIÃO. POSSE EXERCIDA APENAS SOBRE PARTE DE IMÓVEL URBANO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. AFASTAMENTO. INEXISTÊNCIA DE VEDAÇÃO LEGAL À PRETENSÃO DA AUTORA. RECURSO ESPECIAL PROVIDO.  ..  3. A possibilidade jurídica do pedido consiste na admissibilidade em abstrato da tutela pretendida, vale dizer, na ausência de vedação explícita no ordenamento jurídico para a concessão do provimento jurisdicional. 4. Com efeito, inexistindo vedação legal à pretensão da autora, não se há cogitar de falta de condições para o exercício do direito de ação."
+No caso dos autos, o acórdão recorrido fundamentou adequadamente a possibilidade jurídica do pedido, inexistindo vedação legal à utilização da usucapião tabular como instrumento de saneamento registral por coproprietários.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
