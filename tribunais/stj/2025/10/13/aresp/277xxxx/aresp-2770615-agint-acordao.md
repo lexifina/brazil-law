@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. ALEGAÇÃO DE VENDA A NON DOMINO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REALIZAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. DESNECESSIDADE. PROVA DOCUMENTAL SUFICIENTE. JULGAMENTO ANTECIPADO DO MÉRITO. OBSERVÂNCIA AO ART. 355, I, DO CPC. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento fundamentado não configura cerceamento de defesa.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDO GABRIEL DA SILVA contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do recurso especial por entender que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório, o que atrai a incidência da Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em erro ao aplicar a Súmula 7/STJ, sustentando que a controvérsia não demanda reexame de provas, mas apenas a revaloração jurídica do conjunto probatório.
+Argumenta, ainda, que houve cerceamento de defesa em razão do julgamento antecipado da lide, sem a produção de provas testemunhais e depoimento pessoal dos réus, o que teria violado os princípios do contraditório e da ampla defesa.
+Aduz que houve flagrante violação aos arts. 7º e 369, ambos do Código de Processo Civil, uma vez que o Tribunal de origem ao validar o juízo de origem, de forma contraditória, manteve decisão que julgou improcedente o pedido sob o argumento de ausência de provas, isso ao mesmo tempo em que deixou de oportunizar a devida instrução probatória.
+Defende que, para a transferência de direitos possessórios sobre imóveis de valor inferior ao referido limite, admite-se plenamente a utilização de outros meios de prova, inclusive a prova oral, em consonância com o princípio da liberdade probatória previsto no art. 369 do CPC.
+Impugnação ao agravo interno às fls. 560-566, na qual a parte agravada alega que a decisão agravada está em consonância com a jurisprudência do STJ, que reconhece a impossibilidade de reexame de provas em recurso especial. Sustenta, ainda, que o julgamento antecipado da lide foi devidamente fundamentado e que as provas constantes dos autos eram suficientes para o deslinde da controvérsia, não havendo cerceamento de defesa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. ALEGAÇÃO DE VENDA A NON DOMINO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REALIZAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. DESNECESSIDADE. PROVA DOCUMENTAL SUFICIENTE. JULGAMENTO ANTECIPADO DO MÉRITO. OBSERVÂNCIA AO ART. 355, I, DO CPC. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento fundamentado não configura cerceamento de defesa.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação anulatória de negócio jurídico, com pedido de tutela de urgência, proposta por FERNANDO GABRIEL DA SILVA em desfavor de MARIA PEREIRA DE MORAIS SPINDULA e outros na qual alega que adquiriu os direitos possessórios sobre a totalidade do imóvel situado no Condomínio Nosso Lar, por meio de contrato verbal, mas que os recorridos, posteriormente, alienaram frações do imóvel a terceiros. Requereu a nulidade dos negócios jurídicos realizados e a reintegração na posse integral do imóvel.
+O juízo de origem concluiu que o conjunto probatório era suficiente para o julgamento antecipado da lide, nos termos do art. 355, I, do Código de Processo Civil, e julgou improcedentes os pedidos, fundamentando que o autor não comprovou documentalmente a posse ou domínio sobre o imóvel, enquanto os réus apresentaram cessões de direitos possessórios devidamente formalizadas.
+O Tribunal de origem manteve a sentença, destacando que o julgamento antecipado da lide não configurou cerceamento de defesa, pois as provas documentais constantes dos autos eram suficientes para a formação do convencimento do magistrado. Ressaltou, ainda, que o autor não demonstrou a titularidade dos direitos possessórios sobre a totalidade do imóvel, sendo desnecessária a produção de provas testemunhais. Confira-se:
+De início, cumpre esclarecer que, em sentença, o Magistrado, preliminarmente, destacou o julgamento antecipado do mérito, tendo em vista o cumprimento do disposto no art. 355 do CPC, pela desnecessidade de produção de outras provas além das já acostadas aos autos.
+ ..
+Ou seja, o sentenciante fundamentou que as provas existentes seriam suficientes para o deslinde da questão apresentada, entendimento do qual coaduno.
+Conforme destacado em sentença, em que pese a alegação do requerente de que se tratou, o caso, de venda não se desincumbiu do ônus de comprovar que o imóvel, objeto a non domino, da demanda (Condomínio Nosso Lar, Conjunto E, Lote 9, Planaltina-DF.), seria de seu domínio.
+De início, verifica-se que a procuração por ele apresentada (ID 53029042) refere-se somente ao lote 9-A, ou seja, não trata da integralidade do imóvel como por ele alegado. Por outro lado, ainda é preciso destacar que "a procuração não prova a posse do demandante, tampouco transferência dos direitos possessórios para ele, mas apenas que recebeu poderes para agir em nome dos titulares do imóvel."
+Diante disso, possível verificar que o recorrente não foi capaz de alegar qualquer propriedade, posse ou domínio sobre o imóvel e, por consequência, não demonstrada qualquer irregularidade ou invalidade dos negócios feitos em relação ao imóvel.
+ ..
+Ou seja, não há dúvidas de que o feito, de fato, já se encontrava pronto para julgamento, posto que o conjunto probatório era suficiente para o deslinde da controvérsia.
+O artigo art. 355 do CPC é claro ao disciplinar que o juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando não houver necessidade de produção de outras provas. E, acrescento que a decisão de saneamento e organização do processo ocorre, conforme descreve o art. 357 do CPC, quando não ocorrer qualquer uma das hipóteses anteriormente previstas no Capítulo X do referido normativo legal, quais sejam: extinção do processo, julgamento antecipado do mérito, julgamento antecipado parcial do mérito.
+Assim, diferente do que alega o recorrente, já tendo a julgadora elementos suficientes para julgar antecipadamente o mérito, não precisaria proferir decisão saneadora e muito menos determinar realização de audiência de instrução e julgamento com oitiva de testemunhas.
+Cabe relembrar que o julgamento antecipado da lide, quando já se encontram nos autos elementos suficientes para a formação do convencimento do julgador, é mais do que uma mera faculdade judicial, constituindo, propriamente, um dever do magistrado.
+ ..
+Por fim, pontuo que não é possível verificar que a realização da audiência de instrução e julgamento seria capaz de alterar qualquer entendimento fundamentado em sentença. As provas necessárias para a análise e fundamentação das alegações dependiam realmente de documentos, fazendo-se dispensável a oitiva de qualquer testemunha.
+Assim, se as provas juntadas aos autos foram suficientes para firmar sua convicção acerca da matéria posta em juízo, não há que se falar em cerceamento de defesa, em face da não realização da audiência de instrução e julgamento  ..  (fls. 396-399).
+Com efeito, de fato, em regra, as partes possuem direito à produção de provas, ao contraditório e à ampla defesa. Como todo direito, contudo, também esses direitos não são irrestritos ou infinitos. A Constituição e a lei infraconstitucional, por exemplo, trazem algumas balizas que limitam esses direitos, assim como o traz o disposto no art. 371 do CPC.
+Por isso, não há que se cogitar em cerceamento de defesa no caso, tendo em vista que está na livre discricionariedade do magistrado decidir pela sua produção, necessidade ou não, desde que fundamentado e demonstrado que o feito se encontrava suficientemente instruído - como o foi na situação presente.
+Por esse motivo, constou na decisão agravada que o acolhimento da pretensão do recurso demandaria o reexame do acervo fático-probatório, o que é vedado em sede de recurso especial, conforme dispõe a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Quanto ao mais, verifico que a tese relativa à possibilidade de utilização prova oral, não foi objeto de discussão no Tribunal de origem e a parte recorrente nem sequer provocou a devida manifestação mediante a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
