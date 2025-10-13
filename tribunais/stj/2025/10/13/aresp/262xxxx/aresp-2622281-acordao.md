@@ -1,0 +1,116 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ALEGADA AUSÊNCIA DE CERTEZA E LIQUIDEZ. DO TÍTULO. EXCESSO DE EXECUÇÃO. INCLUSÃO DE VALORES INDEVIDOS. MATÉRIA INCOMPATÍVEL COM A VIA DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRETENSÃO DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO AO ART. 784 DO CPC. APLICAÇÃO DA SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal.
+2. A parte agravante alegou violação aos artigos 518, 786 e 803 do Código de Processo Civil, sustentando a inexigibilidade do título executivo por ausência de certeza e liquidez, além de excesso de execução.
+3. A decisão recorrida rejeitou a exceção de pré-executividade, considerando que as alegações de excesso de execução demandariam dilação probatória, incompatível com o rito da exceção de pré-executividade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o recurso especial pode ser admitido para revisar a decisão que rejeitou a exceção de pré-executividade, considerando a alegação de ausência de certeza e liquidez do título executivo e a necessidade de dilação probatória.
+III. Razões de decidir
+5. O prequestionamento é requisito indispensável para o conhecimento do recurso especial. No caso, o artigo 786 do Código de Processo Civil não foi debatido pela Corte de origem, nem houve oposição de embargos de declaração para suprir tal ausência, configurando óbice da Súmula 282 do STF.
+6. A exceção de pré-executividade é cabível apenas para matérias de ordem pública cognoscíveis de ofício pelo juiz e que não demandem dilação probatória. No caso, a análise da certeza e liquidez do título executivo e a apuração de valores indevidos demandariam instrução probatória incompatível com o rito da exceção de pré-executividade.
+7. A revisão do conjunto fático-probatório encontra óbice na Súmula 7 do STJ, que veda o reexame de provas em sede de recurso especial.
+8. A função uniformizadora do recurso especial não permite sua utilização para revisitar o contexto fático-probatório estabelecido na instância de origem.
+IV. Dispositivo
+9. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto com fundamentando no artigo 105, inciso III, alínea "a", da Constituição Federal contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, (e-STJ, Fl. 393-402).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado, (e-STJ, Fl. 410-424).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ALEGADA AUSÊNCIA DE CERTEZA E LIQUIDEZ. DO TÍTULO. EXCESSO DE EXECUÇÃO. INCLUSÃO DE VALORES INDEVIDOS. MATÉRIA INCOMPATÍVEL COM A VIA DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRETENSÃO DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO QUANTO AO ART. 784 DO CPC. APLICAÇÃO DA SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal.
+2. A parte agravante alegou violação aos artigos 518, 786 e 803 do Código de Processo Civil, sustentando a inexigibilidade do título executivo por ausência de certeza e liquidez, além de excesso de execução.
+3. A decisão recorrida rejeitou a exceção de pré-executividade, considerando que as alegações de excesso de execução demandariam dilação probatória, incompatível com o rito da exceção de pré-executividade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o recurso especial pode ser admitido para revisar a decisão que rejeitou a exceção de pré-executividade, considerando a alegação de ausência de certeza e liquidez do título executivo e a necessidade de dilação probatória.
+III. Razões de decidir
+5. O prequestionamento é requisito indispensável para o conhecimento do recurso especial. No caso, o artigo 786 do Código de Processo Civil não foi debatido pela Corte de origem, nem houve oposição de embargos de declaração para suprir tal ausência, configurando óbice da Súmula 282 do STF.
+6. A exceção de pré-executividade é cabível apenas para matérias de ordem pública cognoscíveis de ofício pelo juiz e que não demandem dilação probatória. No caso, a análise da certeza e liquidez do título executivo e a apuração de valores indevidos demandariam instrução probatória incompatível com o rito da exceção de pré-executividade.
+7. A revisão do conjunto fático-probatório encontra óbice na Súmula 7 do STJ, que veda o reexame de provas em sede de recurso especial.
+8. A função uniformizadora do recurso especial não permite sua utilização para revisitar o contexto fático-probatório estabelecido na instância de origem.
+IV. Dispositivo
+9. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+Trata-se de recurso especial interposto por JOSÉ HILCATÀ HOLANDA PINHEIRO, adversando acórdão (fls.310-318 e embargos de declaração de fls.382-388), proferido pela 3 a Câmara de Direito Privado, desprovendo o agravo de instrumento e mantendo a decisão que rejeitou a exceção de pré-executividade.
+(..)
+Não se configurando, no particular, as hipóteses previstas no art.
+1.030, I, II, III, e IV, do CPC, passo ao juízo de admissibilidade do presente recurso (art. 1.030, V, CPC).
+Conforme relatado, a parte insurgente argui que o acórdão violou os
+arts.518, 786 e 803 do Código de Processo Civil.
+Já a decisão colegiada, quanto ao arcabouço fatico-probatório dos autos, assentou à fl.310:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. MATÉRIA QUE NECESSITA DE MAIOR DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. RECURSO CONHECIDO E NÃO PROVIDO. 1. As questões de ordem pública referentes às condições da ação e aos pressupostos processuais podem ser conhecidas de oficio pelo juiz e, consequentemente, podem ser suscitadas pelo executado, em sede de execução ou cumprimento de sentença, independentemente de embargos ou impugnação (arts. 518 e 803 do CPC). 2. O cabimento da exceção de pré-executividade está adstrito a dois parâmetros bem definidos. O primeiro, substancial: a matéria deve ser de ordem pública e, portanto, cognoscível de oficio pelo juiz. O segundo, formal: não deve haver necessidade de produção de prova, dada a incompatibilidade de qualquer dilação probatória com o padrão procedimental da execução. Precedentes do STJ e do TJCE. 3. As alegações de excesso de execução e inclusão nos cálculos de valores indevidos, demandam dilação probatória, o que desborda a hipótese da exceção de pré-executividade, vez que é matéria própria dos embargos à execução (art. 917, III do CPC). 4. Recurso não provido." (GN)
+Nesse cenário, entendo que não é viável a admissão do presente recurso.
+Primeiro, porque o recorrente deixou de cumprir o requisito do prequestionamento, indispensável para permitir o trânsito da insurgência para os Tribunais Superiores.
+Na hipótese, o art. 786, do Código de Processo Civil, indicado como violado, não foi sequer mencionado no provimento jurisdicional impugnado.
+(..)
+Ademais, como se sabe, após o julgamento proferido pela instância ordinária, certas matérias tornam-se incontroversas, não sendo possível a revisão do conjunto fático-probatório, mostrando-se inviável, por via de consequência, a reapreciação de peças processuais no que se refere aos fatos já definitivamente delineados. Nessa perspectiva, concluo que a intensão da parte é que o recurso especial sirva como meio de reapreciar os fatos e provas constantes dos autos, o que não é admitido.
+Com efeito, a Súmula nº 7 do Superior Tribunal de Justiça:
+"A pretensão de simples reexame de prova não enseja recurso especial". (GN)
+Ante o exposto, inadmito o presente recurso especial, nos termos do artigo 1.030, inciso V, do Código de Processo Civil.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Alega o agravante que o acórdão recorrido violou os arts. 518, 786 e 803 do CPC, uma vez que afastou a tese da inexigibilidade do título executivo, por ausência de certeza e liquidez, já que não há clareza quanto o valor e a data da origem do débito.
+Analisando os autos, observo que a controvérsia central reside na análise da possibilidade de conhecimento da exceção de pré-executividade, considerando a alegação ausência de certeza e liquidez por haver excesso de execução e a necessidade de dilação probatória.
+A esse respeito, a Corte de origem destacou, a fim e rejeitar a tese recursal, que o cabimento da exceção de pré-executividade está adstrito a dois parâmetros: (i) a matéria deve ser de ordem pública e cognoscível de ofício pelo juiz; e (ii) não deve haver necessidade de produção de prova, dada a incompatibilidade de qualquer dilação probatória com o padrão procedimental da execução, (e-STJ, Fl 313-214).
+Tem-se, pois, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Alegada ainda o agravante, a vulneração ao art. 786 do CPC, contudo, a análise do teor do acórdão recorrido indica que o dispositivo tido por violado não foi debatidos pela Corte de origem, tampouco foram opostos embargos de declaração com vistas ao prequestionamento dessa matéria federal, nos moldes exigidos pela jurisprudência pacífica do Superior Tribunal de Justiça, consubstanciada na Súmula 282 do Supremo Tribunal Federal, aplicada por analogia.
+É certo que, por força constitucional (art. 105, III, da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Dessa forma, "para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+É certo que: "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local (..)" (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Entretanto, para que se considere ocorrido o prequestionamento implícito, há de se ter presente, no caso concreto, a discussão da temática fático-jurídica que se pretende ver revisada nesta Corte, não se podendo cogitar de pronunciamento inaugural a respeito do enfoque pretendido pela parte recorrente em sede especial.
+Daí porque, tem-se reiterado neste colegiado que "não basta ao cumprimento do requisito do prequestionamento a mera oposição de embargos de declaração na origem." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte, de modo que "Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF. " (AgInt no AREsp n. 1.701.763/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 13/12/2021.)
+Ademais, a apreciação da alegada inexequibilidade do título executivo demandaria revolvimento do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ, que estabelece: "A pretensão de simples reexame de prova não enseja recurso especial."
+Ressalta-se que a invocação dos arts. 518, 786 e 803 do CPC não tem o condão de infirmar o decisum recorrido, que atuou nos estreitos marcos da exceção de pré-executividade, cuja admissibilidade restringe-se a matérias cognoscíveis de plano, por se referirem a vícios formais ou nulidades evidentes da execução.
+É, portanto, a exceção de pré-executividade, de índole excepcional e natureza atípica, instrumento processual cabível apenas para arguição de matérias de ordem pública, cognoscíveis de ofício e que não exijam dilação probatória, entendimento esse aplicado na origem.
+No caso, a análise da certeza e liquidez do título e a apuração de eventuais valores indevidos demandariam perícia contábil ou instrução probatória incompatível com o rito da exceção de pré-executividade. Assim, o juízo local corretamente remeteu a discussão aos embargos à execução.
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é necessário que a decisão possa ser tomada sem necessidade de dilação probatória.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório, concluiu que a alegação de excesso de execução demandaria dilação probatória, incompatível com a exceção de pré-executividade. Alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fática-probatória, inviável em recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.831.742/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÃO. INOCORRÊNCIA DE PRECLUSÃO E DESNECESSIDADE DE DILAÇÃO PROBATÓRIA CONFIGURADOS. REFORMA DO ENTENDIMENTO, COMO POSTO, QUE DEMANDA O REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIA ADEQUADA DESDE QUE INEXISTA DILAÇÃO
+PROBATÓRIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.1. Não se reconhece a violação dos arts. 489 e 1.022, ambos do CPC, quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.2.
+A alteração das conclusões adotadas pela Corte estadual quanto a inexistência de preclusão e a desnecessidade de dilação probatória por se tratar de prova pré-constituída demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula nº 7 do STJ. Precedentes.3. Nos termos da jurisprudência desta Corte, a exceção de pré-executividade pode ser utilizada para alegar excesso de execução quando há prova pré-constituída, dispensando dilação probatória.4. Agravo interno não provido.
+(AgInt no AREsp n. 2.688.557/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+Portanto, não há dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MAJORAÇÃO DE HONORÁRIOS. IMPOSSIBILIDADE. AGRAVO INTERNO.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais.
+(..)
+(AgInt no AREsp n. 2.753.530/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
