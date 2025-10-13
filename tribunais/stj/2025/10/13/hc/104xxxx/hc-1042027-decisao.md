@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUIZ GUSTAVO RAMOS FONTES, preso preventivamente e acusado pela prática de tráfico de drogas (Processo n. 1502861-87.2025.8.26.0395, da 1ª Vara da comarca de Guaíra).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 6/10/2025, não conheceu do HC n. 2284106-03.2025.8.26.0000) - fl. 15:
+HABEAS CORPUS. TRÁFICO DE DROGAS. LEGALIDADE DA PRISÃO PREVENTIVA JÁ APRECIADA. IMPETRAÇÃO NÃO CONHECIDA.
+1. Habeas corpus impetrado em favor de Luiz Gustavo Ramos Fontes, visando a revogação da prisão preventiva por suposta prática de tráfico de drogas. A defesa alega ausência de requisitos para a manutenção da prisão, destacando que o paciente é primário, de bons antecedentes, e que a prisão não impactou a investigação. Argumenta que o paciente não residia no imóvel onde as drogas foram apreendidas e que não há risco à ordem pública, instrução processual ou aplicação da lei penal.
+2. A prisão preventiva foi ratificada em julgamento anterior, com decisão unânime pela sua manutenção, sem alterações processuais ou fáticas que justifiquem nova análise.
+3. A impetração não será conhecida, pois a questão já foi decidida em habeas corpus anterior, e não houve mudanças que demandem reavaliação.
+4. Impetração não conhecida.
+Alega a ausência de fundamentos para a prisão temporária e para a conversão em preventiva, indicando a desnecessidade e a desproporcionalidade da medida.
+Afirma que houve a apresentação voluntária do paciente à autoridade policial, bem como a colaboração com a investigação, sendo o réu primário e com bons antecedentes.
+Aponta a ausência de comprovação de domicílio do paciente no local, salientando que igualmente não há prova de que residisse ali, conforme narrativa judicial (fl. 7); inadequação da fundamentação em ordem pública baseada apenas na quantidade de drogas, afirmando que tal elemento, por si, não sustenta a preventiva, à luz do art. 312 do Código de Processo Penal, com indicação de requisitos não satisfeitos; registro de que o réu permaneceu em liberdade por um mês sem notícias de novos delitos (fl. 10); suficiência de medidas cautelares diversas e afronta à presunção de inocência pela manutenção da prisão (fls. 5 e 10/12).
+Requer a revogação da prisão preventiva, com autorização para responder ao processo em liberdade, com ou sem medidas cautelares do art. 319 do Código de Processo Penal.
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada em elementos concretos dos autos (fl. 22):
+O paciente foi preso na esteira de investigação que localizou grande quantidade de variados entorpecentes, além apetrechos comumente utilizados no tráfico e munições em imóvel alugado para ele, circunstância que permite supor, nesta fase preliminar, a finalidade de tráfico de drogas. A quantidade, grande para os padrões de tráfico de drogas (3.907 gramas de maconha, 1.620 gramas de cocaína e 935 gramas de crack), denota certo entrosamento com traficantes organizados, pois é pouco crível que estes confiassem tanto entorpecente a um neófito, ainda mais se se considerar o valor pecuniário envolvido.
+O entendimento das instâncias ordinárias de que é legítima a prisão cautelar em questão está em consonância com a firme jurisprudência do Superior Tribunal de Justiça. A propósito, esta Corte Superior entende que hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública (AgRg no HC n. 899.502/SP, Ministro Schietti Cruz, Sexta Turma, DJe 12/6/2024).
+E, ainda: AgRg no HC n. 981.884/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025; e AgRg no HC n. 990.118/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/5/2025, DJEN de 20/5/2025.
+Nesse contexto, observa-se que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando a gravidade em concreto do delito.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
