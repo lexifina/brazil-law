@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe à agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por ICATU SEGUROS S.A. contra a decisão que inadmitiu o recurso especial.
+A denegação se deu pelos seguintes fundamentos: i) ausência de demonstração de vulneração aos dispositivos apontados como violados; ii) incidência da Súmula nº 7/STJ); e iii) dissídio jurisprudencial não comprovado (e-STJ fls. 249/252).
+Em suas razões (e-STJ fls. 255/260), a agravante repisa os argumentos expostos anteriormente e alega que foi devidamente apontado o artigo violado e que não há a necessidade de reexaminar fatos e provas.
+Com apresentação de contraminuta às e-STJ fls. 263/268.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe à agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+2. Agravo em recurso especial não conhecido.
+VOTO
+A irresignação não merece prosperar.
+O art. 932, III, do Código de Processo Civil impõe ao relator não conhecer do recurso " ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, conforme consignado na decisão atacada, o agravo em recurso especial não refutou de maneira específica os fundamentos referentes à aplicação da Súmula nº 7/STJ e do dissídio pretoriano não comprovado.
+Convém ressaltar que não basta a parte sustentar genericamente a não aplicação da Súmula nº 7/STJ, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório, como demonstram os julgados a seguir transcritos:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. SÚMULA 7/STJ. MERA ALUSÃO À IMPERTINÊNCIA DO ÓBICE SUMULAR. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Para afastar a aplicação da Súmula n. 7 do STJ, é imprescindível que o agravante apresente argumentos além da reiteração da tese defendida, em observância ao princípio da dialeticidade, sob pena de não conhecimento do recurso.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.239.631/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 1º/6/2023 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do CPC).
+2. Inadmitido o recurso especial na origem com base na Súmula nº 83/STJ, cabe ao agravante indicar, na petição de agravo em recurso especial, os precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. Precedentes do STJ.
+3. No que diz respeito à Súmula nº 7/STJ, não basta a parte sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Precedente."
+(AgInt no AREsp 2.247.737/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 15/12/2023 - grifou-se)
+Ainda, cumpre destacar que a impugnação da decisão de inadmissibilidade do recurso deve ser clara e suficiente para demonstrar o equívoco na sua negativa, o que não ocorreu na espécie, visto que a agravante apenas alega, de forma genérica, a não aplicação dos óbices, sem fundamentar devidamente cada ponto.
+Esse é, inclusive, o entendimento pacífico desta Corte Superior, formulado no sentido de que é dever da recorrente atacar especificamente todos os fundamentos da decisão combatida, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+A propósito:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 518 do STJ).
+3. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+4. Agravo interno não provido."
+(AgInt no AREsp 1.727.212/RS, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020)
+"AGRAVO INTERNO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA INDEFERIDO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182/STJ.
+1. O pedido de assistência judiciária gratuita - que possui efeito ex nunc - formulado nas razões do agravo interno deve ser indeferido quando os documentos anexados não amparam a alegação de hipossuficiência financeira sustentada pela parte.
+2. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, bem como a Súmula 182/STJ.
+3. Pedido de assistência judiciária gratuita indeferido. Agravo interno não conhecido."
+(AgInt nos EDcl no REsp 1.889.429/DF, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/12/2020, DJe de 15/12/2020)
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do art. 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
