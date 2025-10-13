@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS EM MEIO FECHADO E SEMIABERTO DE POÇOS DE CALDAS - MG suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA VARA CRIMINAL DE SÃO JOÃO DA BOA VISTA - SP.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente para execução de multa aplicada cumulativamente com a pena privativa de liberdade.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarada a competência do Juízo de Direito da Vara Criminal de São João da Boa Vista - SP, ora suscitado (fls. 60-62).
+Decido.
+No caso, a condenação e o cumprimento da pena privativa de liberdade do apenado se deu em São Paulo. Segundo a orientação desta Corte, "a competência para a execução de penas, incluindo a pena de multa, é do juízo que proferiu a condenação, independentemente de mudança de domicílio do apenado" (AgRg no CC n. 209.651/SP, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, DJe 18/8/2025). Nesse sentido, ainda:
+" a  execução da pena de multa deve seguir no Juízo das Execuções Penais, que é o Juízo Estadual, no caso de haver cumprimento de pena privativa de liberdade em presídio estadual aplicada cumulativamente com a multa. Além de a multa ter natureza de sanção penal, sendo racional a existência de execução penal una, ressalte-se que os valores recolhidos, quer por sentença condenatória proferida por Juízo Estadual ou por sentença condenatória proferida por Juízo Federal, têm o mesmo destino: o Fundo Penitenciário Nacional, nos termos do art. 2º, inciso V, da Lei Complementar nº 79/1994" (CC n. 168.815/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2020, DJe 16/6/2020).
+Logo, a competência para a execução da pena de multa cumulativamente imposta na sentença deve permanecer com o Juízo da execução da pena privativa de liberdade, de modo que não haja a cisão da execução penal, nos termos da orientação deste Superior Tribunal.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara Criminal de São João da Boa Vista - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
