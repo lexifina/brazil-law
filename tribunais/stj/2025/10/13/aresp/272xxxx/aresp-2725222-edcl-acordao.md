@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pelo Estado do Amapá contra acórdão proferido pela Primeira Turma, assim ementado (fls. 730/731):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO E VIOLÊNCIA OBSTÉTRICA. DANOS MORAIS E MATERAIS. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO- PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE TERIA SIDO VIOLADO. APLICAÇÃO DA SÚMULA 284/STF.
+1. Na origem, cuida-se de ação indenizatória com o objetivo de condenação do Estado do Amapá pelos danos materiais e morais suportados pela autora em decorrência de falha no serviço de saúde que culminou em lesões permanentes.
+2. A alteração das premissas adotadas pela Corte de origem, a fim de aferir se não há comprovação do nexo de causalidade entre a conduta da agravante e os danos sofridos pela parte autora, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+3. A ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do apelo nobre, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+4. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta que "o recurso especial foi extremamente claro e preciso indicando expressamente os dispositivos legais violados assim como fez o cotejo analítico em tópicos separados, afastando-se o óbice da Súmula 284/STF. A fundamentação do agravo em Recurso Especial é completa conforme exigido pela lei. Consta em seu teor questionamento acerca da violação apresentada no acórdão demonstrando diretamente quais artigos da legislação federal foram violados, explorando a importância de sua observação para o julgamento correto do processo em questão. Determinando assim a exata controvérsia" (fl. 748).
+Complementa, ainda: "Não há que se falar em pretensão recursal de reanálise de provas. A matéria discutida é exclusivamente de direito e versa sobre interpretação de lei. E mais, o recurso especial tratou de discussão acerca da vigência de lei federal, trata-se mais especificamente dos art. 485, IV, e art.489 IV do Código de Processo Civil/2015.  ..  O ESTADO DO AMAPÁ deixou explicitado em seu Recurso Especial a violação direta aos arts. 485, IV, e 489 IV do Código de Processo Civil/2015, pois o agravado negando-lhe vigência, ante o posicionamento contrário a sua interpretação pela instância a quo" (fls. 749/750).
+Aberta vista à parte embargada, decorreu in albis o prazo para apresentação de impugnação (fl. 759/760).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte recorrente.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado a impossibilidade de se conhecer do apelo nobre que esbarra nos óbices das Súmulas n. 7/STJ e 284/STF.
+A propósito, confiram-se os seguintes trechos do decisório colegiado embargado (fls. 733/736):
+Isso porque, conquanto sustente a agravante que basta a apreciação do comando normativo inserto no dispositivo legal apontado como violado (art. 373 do CPC), bem como de suas alegações embasadoras da pretensão recursal, é manifesta a necessidade de reexame dos fatos e das provas para que se verifique alegado desacerto do julgado sobre a efetiva comprovação dos elementos ensejadores da responsabilidade objetiva do Estado e a ausência de provas de eventual ocorrência de excludente da responsabilidade.
+Sobre o ponto, destaca-se trecho da fundamentação do acórdão recorrido, em que a Corte de origem, soberana na apreciação do arcabouço fático-probatório dos autos, observa que a parte autora se desincumbiu de seu ônus probatório, enquanto a parte ré, ora recorrente, deixou de apresentar provas que sustentassem sua tese de defesa (fl. 563):
+ ..  o Estado responde objetivamente pelos danos causados, independentemente de culpa, desde que comprovada a ocorrência da conduta omissiva ou comissiva de seus prepostos, o prejuízo advindo e o nexo causal entre ambos, o que foi devidamente comprovado nos autos, sobretudo ao considerar-se que a natureza da lesão é evidentemente incompatível com o risco do procedimento de parto normal ou da conduta e circunstâncias clínicas da paciente.
+Além disso, convém assinalar que, apesar de o ESTADO DO AMAPÁ sustentar a ausência de nexo de causalidade, aduzindo a inocorrência de qualquer conduta comissiva, omissiva, negligente ou imperita de seus servidores, não traz provas das referidas teses, que também não são hábeis a infirmar as que foram produzidas pela Autora, ora Apelada.
+Razões pelas quais entendo que o apelo do ESTADO DO AMAPÁ não merece provimento.
+Não há, portanto, razão para a reforma da decisão agravada, devendo ser mantida a incidência da Súmula 7/STJ, in verbis: " a  pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+No que diz respeito à aplicação do óbice sumular 284/STF, assiste razão ao agravante ao afirmar que "é dispensável o prequestionamento numérico do dispositivo legal invocado, bastando que o recurso verse sobre questão jurídica sobre a qual o Tribunal de Origem tenha se pronunciado" (fl. 709), pois a jurisprudência deste Sodalício é firma no sentido de que "há prequestionamento quando a Corte de origem, com ou sem a menção expressa do dispositivo de lei federal tido por violado, manifesta-se, no acórdão impugnado, acerca da tese jurídica apontada pelo recorrente" (AgInt no REsp 2.079.880/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024).
+Contudo, o prequestionamento da matéria suscitada no apelo nobre não retira o ônus do recorrente alicerçar sua pretensão recursal em dispositivo de lei federal que teria sido ofendida pela prestação jurisdicional ofertada pela Corte a quo. Isso porque "a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem" (AgInt no REsp 1.972.930/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022).
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com o decisum tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
