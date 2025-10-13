@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (acórdão recorrido em consonância com o Tema 1.091/STJ e Súmula 549/STJ; impossibilidade de exame de matéria constitucional; ausência de negativa de prestação jurisdicional; e incidência da Súmula 7/STJ).
+2. Agravo não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por IVONIR RODRIGUES e VERGILINA CUNHA RODRIGUES (IVONIR e outros) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CASO CONCRETO. CONTRATO DE LOCAÇÃO. PENHORA SOBRE BEM DE FAMÍLIA DOS FIADORES. POSSIBILIDADE. INCIDÊNCIA DO ART. 3º, INCISO VII, DA LEI Nº 8.009/1990. AFASTAMENTO DA PROTEÇÃO LEGAL A QUEM SE OBRIGA EM RAZÃO DE FIANÇA CONCEDIDA EM CONTRATOS LOCATÍCIOS, DESIMPORTANDO A NATUREZA DA LOCAÇÃO, SE RESIDENCIAL OU COMERCIAL. ENTENDIMENTO DOS TRIBUNAIS SUPERIORES. TEMA 1127 DO STF. PRECEDENTES DESTE ÓRGÃO FRACIONÁRIO. DECISÃO MANTIDA. RECURSO DESPROVIDO. (e- STJ, fls. 80-82).
+Nas razões do agravo, IVONIR e outros apontaram (1) negativa de prestação jurisdicional, com violação do art. 1.022, II, do CPC, em razão de omissões no acórdão recorrido quanto a análise dos princípios da dignidade da pessoa humana e da menor onerosidade da execução; (2) afronta ao art. 489, § 1º, III, do CPC, por ausência de fundamentação específica no acórdão recorrido, que teria se limitado a reproduzir argumentos genéricos; (3) violação do art. 805 do CPC, ao não se considerar a possibilidade de substituição do bem penhorado por outro imóvel indicado pelos agravantes, em afronta ao princípio da menor onerosidade; (4) afronta ao art. 1º, III, da Constituição Federal, por violação do princípio da dignidade da pessoa humana, ao manter a penhora do único imóvel utilizado como moradia pelos agravantes.
+Houve apresentação de contraminuta por ANITA WELK defendendo que o acórdão recorrido está em consonância com a jurisprudência consolidada do STF e do STJ, especialmente no que tange a possibilidade de penhora de bem de família de fiador em contrato de locação, conforme o Tema 1.127 do STF e a Súmula 549 do STJ (e-STJ, fls. 130-134).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que não impugna os fundamentos da respectiva inadmissibilidade (acórdão recorrido em consonância com o Tema 1.091/STJ e Súmula 549/STJ; impossibilidade de exame de matéria constitucional; ausência de negativa de prestação jurisdicional; e incidência da Súmula 7/STJ).
+2. Agravo não conhecido.
+VOTO
+Não se pode conhecer do recurso.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não se conhecer do agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, verifica-se que o inconformismo não se dirigiu, de forma específica, contra os fundamentos da decisão agravada, pois os agravantes não refutaram, de forma arrazoada, (i) a conclusão de que o acórdão recorrido encontra-se em consonância com a tese firmada no Tema 1.091/STJ e na Súmula 549/STJ, que reconhecem a validade da penhora do bem de família do fiador; (ii) a impossibilidade de exame de dispositivos constitucionais em recurso especial; e (iii) a inexistência de negativa de prestação jurisdicional, diante da fundamentação suficiente constante do acórdão recorrido.
+E isso não fizeram porque, em suas razões, limitaram-se a repetir, de forma genérica, os argumentos já expostos no recurso especial, sustentando apenas que: teria havido omissão no acórdão recorrido quanto aos princípios da dignidade da pessoa humana e da menor onerosidade da execução, configurando violação dos arts. 489, § 1º, III, e 1.022, II, do CPC; a penhora deveria ser afastada por afronta ao princípio da proporcionalidade, em razão da existência de outros bens passíveis de constrição; a decisão agravada seria nula por não enfrentar todos os argumentos lançados no agravo de instrumento e nos embargos de declaração.
+Como se vê, o agravo em recurso especial não ataca, de forma efetiva e objetiva, os fundamentos da decisão de inadmissibilidade. A correta impugnação exigiria que o agravante demonstrasse, de maneira clara, como o acórdão recorrido se distanciaria da jurisprudência consolidada desta Corte, inclusive enfrentando os precedentes obrigatórios (Temas 1.091/STJ e 1.127/STF), o óbice da Súmula 7/STJ -que impede o reexame do conjunto fático-probatório - e a impossibilidade de invocação de normas constitucionais em recurso especial.
+Não basta, portanto, mera alegação genérica de ofensa aos dispositivos legais, sendo imprescindível a demonstração clara da violação ou divergência jurisprudencial, o que não ocorreu na espécie.
+Nesse contexto, a ausência de impugnação específica atrai a incidência da jurisprudência pacífica desta Corte, segundo a qual o agravo em recurso especial que não enfrenta, de forma direta, os fundamentos da decisão agravada não pode ser conhecido.
+Conforme já decidiu o STJ:
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRINCÍPIOS DA NÃO SURPRESA, CONGRUÊNCIA, ADSTRIÇÃO E DIALETICIDADE. AUSÊNCIA DE VIOLAÇÃO. 3. DEPÓSITO JUDICIAL. LEVANTAMENTO DA QUANTIA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO AOS CONSECTÁRIOS DA MORA (TEMA N. 677 DO STJ). PEDIDO NEGADO PELO TRIBUNAL ESTADUAL. PARTE QUE POSTULOU A EXTINÇÃO DA EXECUÇÃO PELA SATISFAÇÃO DO DÉBITO APÓS A EXPEDIÇÃO DO SEGUNDO ALVARÁ. VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E BOA-FÉ OBJETIVA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior já decidiu que o princípio da não surpresa não incide nos casos em que a decisão é contrária aos fundamentos defendidos pela parte.
+3. Tendo em vista que o autor não impugnou especificamente o argumento de que, após a expedição do segundo alvará, postulou expressamente a extinção da execução pela satisfação do débito, incide a Súmula n. 283 do STF.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.197.117/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025 - grifos acrescidos)
+No mesmo sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020)
+Nessas condições NÃO CONHEÇO do agravo interposto.
+Sem honorários, por não haver condenação na instância inferior.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
+É o voto.
