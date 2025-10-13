@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO NO DISPOSITIVO DO ACÓRDÃO EMBARGADO. EXISTÊNCIA. REDIMENSIONAMENTO DA SUCUMBÊNCIA. EFEITOS INFRIN GENTES.
+1. A existência de contradição no dispositivo do acórdão embargado conduz ao acolhimento dos embargos de declaração, com efeitos infringentes.
+2. Onde se lê "ficam SUL AMERICA COMPANHIA DE SEGURO SAUDE e HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados, cada um, ao pagamento de 50% (cinquenta por cento) das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada" (e-STJ fl. 747), leia-se "ficam HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados ao pagamento das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada".
+3. Embargos de declaração acolhidos, com efeitos infringentes.
+RELATÓRIO
+Examinam-se embargos de declaração opostos por SUL AMERICA COMPANHIA DE SEGURO SAUDE contra acórdão assim ementado:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANO MORAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PLANO DE SAÚDE. CIRURGIA ELETIVA COM FINALIDADE ESTÉTICA. PROCEDIMENTOS DE EMERGÊNCIA NECESSÁRIOS AO TRATAMENTO DE COMPLICAÇÕES CIRÚRGICAS. COBERTURA DE TRANSFUSÃO DE SANGUE OBRIGATÓRIA. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTUITO MANIFESTAMENTE PROTELATÓRIO. MULTA DO § 2º DO ART. 1.026 DO CPC AFASTADA.
+I. Hipótese em exame
+1. Ação de obrigação de fazer c/c compensação por dano moral, da qual foi extraído o presente recurso especial, interposto em 14/10/2024 e concluso ao gabinete em 18/12/2024.
+II. Questão em discussão
+2. O propósito recursal é decidir sobre a negativa de prestação jurisdicional, bem como sobre a obrigação de cobertura, pela operadora, de procedimentos de emergência realizados durante cirurgia eletiva com finalidade estética e a multa aplicada no julgamento dos embargos de declaração.
+III. Razões de decidir
+3. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Por força do que dispõe o art. 35-C, I, da Lei 9.656/1998, e na linha da diretriz estabelecida pela ANS no art. 11 da Resolução Normativa 465/2021, os procedimentos necessários ao tratamento das complicações clínicas e cirúrgicas, decorrentes de procedimentos cobertos ou não cobertos, têm cobertura obrigatória quando constarem do rol de procedimentos e eventos em saúde.
+5. Segundo a jurisprudência desta Corte, a aplicação da penalidade prevista no § 2º do art. 1.026 do CPC é devida apenas quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos embargos de declaração (AgInt nos EDcl nos EDcl no REsp 1.744.970/SP, Terceira Turma, DJe 10/03/2021).
+IV. Dispositivo
+6. Recurso especial conhecido e provido.
+Alega a embargante a existência de contradição no acórdão embargado, afirmando, para tanto, que "impôs condenação apenas em face da Embargada Hospital Integrados da Gávea S/A, porém redistribuiu o ônus de sucumbência entre a Embargante e o Hospital Embargado pela metade" (e-STJ fl. 765).
+Acrescenta que "a Autora, Sra. Eduarda, não requereu em sua peça vestibular qualquer tipo de condenação à Embargante Sul América e na fase probatória restou consignado que a Sul América jamais foi demandada administrativamente - seja pelo Hospital, seja por Eduarda - para realizar o pagamento do procedimento sub judice " (e-STJ fl. 765).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÃO NO DISPOSITIVO DO ACÓRDÃO EMBARGADO. EXISTÊNCIA. REDIMENSIONAMENTO DA SUCUMBÊNCIA. EFEITOS INFRIN GENTES.
+1. A existência de contradição no dispositivo do acórdão embargado conduz ao acolhimento dos embargos de declaração, com efeitos infringentes.
+2. Onde se lê "ficam SUL AMERICA COMPANHIA DE SEGURO SAUDE e HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados, cada um, ao pagamento de 50% (cinquenta por cento) das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada" (e-STJ fl. 747), leia-se "ficam HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados ao pagamento das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada".
+3. Embargos de declaração acolhidos, com efeitos infringentes.
+VOTO
+De fato, o recurso especial foi provido para, além de afastar a multa aplicada no julgamento dos embargos de declaração na apelação de EDUARDA (embargada) e declarar a inexistência da dívida atribuída a esta por HOSPITAIS INTEGRADOS DA GÁVEA S/A (embargada), condenar essa instituição à devolução dos valores eventualmente pagos por EDUARDA (embargada) pelos procedimentos realizados (hemograma e a transfusão de sangue).
+Como afirmado pela SUL AMERICA COMPANHIA DE SEGURO SAUDE (embargante), "havendo apenas condenação para o Hospital, apenas este deve arcar com a sucumbência" (e-STJ fl. 765).
+Logo, devem ser acolhidos os embargos de declaração, com efeitos infringentes, apenas para aclarar a contradição havida no dispositivo do acórdão embargado.
+Assim, onde se lê "ficam SUL AMERICA COMPANHIA DE SEGURO SAUDE e HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados, cada um, ao pagamento de 50% (cinquenta por cento) das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada" (e-STJ fl. 747), leia-se "ficam HOSPITAIS INTEGRADOS DA GÁVEA S/A condenados ao pagamento das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada".
+Forte nessas razões, ACOLHO os embargos de declaração, com efeitos infringentes, para aclarar a contradição havida no dispositivo do acórdão embargado e, por conseguinte, condenar HOSPITAIS INTEGRADOS DA GÁVEA S/A ao pagamento das custas e despesas processuais, bem como dos honorários de sucumbência, arbitrados em 10% (dez por cento) do proveito econômico obtido por EDUARDA MORAES CHACON ROSAS, correspondente ao valor da dívida cobrada.
