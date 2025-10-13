@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial conhecido provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo em recurso especial interposto por VOLPE CAMARGO ADVOGADOS ASSOCIADOS S/S, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: embargos à execução opostos pelos agravados AMÉLIA BARBOSA DURAES e OSVALDO DURAES FILHO contra a agravante, alegando a inexistência de título líquido, certo e exigível, bem como a necessidade de compensação de valores e a inexigibilidade de honorários advocatícios em razão da renúncia do mandato antes da conclusão dos inventários e de uma ação rescisória.
+Sentença: acolheu parcialmente os embargos à execução, determinando que o débito fosse corrigido monetariamente pela poupança desde a data de assinatura do contrato até o pagamento. Condenou as partes ao pagamento das custas e honorários advocatícios na proporção de 10% para a embargada e 90% para os embargantes, fixados em 10% do valor atualizado da causa.
+Acórdão: negou provimento à apelação interposta pelos agravados e deu parcial provimento à apelação da agravante, determinando que os honorários advocatícios incidissem sobre o proveito econômico obtido pelo embargado, nos termos da seguinte ementa:
+DIREITO CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. RENÚNCIA DE MANDATO. ÍNDICE DE CORREÇÃO MONETÁRIA PREVISTO NO CONTRATO. IMPOSSIBILIDADE DE COMPENSAÇÃO. JUROS DE MORA A PARTIR DO VENCIMENTO DA OBRIGAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA PREVISTO NO CONTRATO. HONORÁRIOS ADVOCATÍCIOS SOBRE O PROVEITO ECONÔMICO OBTIDO. RECURSO DOS EMBARGANTES DESPROVIDO. RECURSO DO EMBARGADO PARCIALMENTE PROVIDO.
+1. A garantia de motivação das decisões judiciais tem a finalidade de assegurar uma justificação; isso, portanto, faz com que a decisão fundamentada possa ser submetida a determinada espécie de controle, seja o conhecido controle advindo das partes, seja da sociedade ou até do próprio Poder Judiciário. Partindo desses pressupostos, não há nulidade no decisum apelado.
+2. Se o contrato de honorários, título executivo objeto da ação de execução embargada, prevê o pagamento integral após a formalização do acordo de partilha em autos de inventários, independentemente da conclusão dos atos finais, houve o cumprimento integral da obrigação contratual pelo exequente.
+3. Não há falar em compensação dos honorários advocatícios devidos com o valor pago para a prestação dos serviços em ação rescisória se a cláusula contratual referente à ação rescisória estipulava que os valores pagos não seriam restituídos em caso de rescisão antecipada.
+4. Na hipótese de responsabilidade contratual decorrente de obrigações líquidas, consoante previsão do art. 397, do Código Civil, os juros de mora incidem a partir do vencimento da obrigação. (AgInt no REsp n. 2.117.059/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+5. Deve permanecer o índice de correção monetária previsto no contrato, mesmo quanto ao período de inadimplência, se há cláusula contratual que dispõe que o referido índice incide até a data do efetivo pagamento.
+6. Nos termos do art. 85, § 4.º, inc. III, do CPC, não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa. Na hipótese em que é perfeitamente possível averiguar o proveito econômico obtido pelo embargado, os honorários advocatícios devem incidir sobre este valor."
+(e-STJ fls. 698-699)
+Embargos de Declaração: opostos pela agravante, foram parcialmente acolhidos, com efeitos infringentes, para excluir a determinação de instauração de prévia liquidação de sentença e corrigir erro material na fixação dos honorários recursais, fixando-os em 2% sobre o valor do prove ito econômico, totalizando 11% (onze por cento) a incidir sobre o proveito econômico da demanda (e-STJ fls. 989-997).
+Recurso especial: alega violação dos arts. 85, § 2º, 491, caput e § 2º, 1.022, parágrafo único, II, e 489, § 1º, IV do CPC e 398 e 406 do CC. Alega que houve erro na quantificação do proveito econômico para fins de cálculo dos honorários de sucumbência, deixando de incluir valores relativos a pedidos rejeitados. Afirma que o acórdão recorrido foi omisso quanto à definição dos critérios de atualização financeira a incidir sobre a base de cálculo dos honorários. Além disso, requereu a reforma do acórdão para incluir na base de cálculo dos honorários os valores de R$ 166.333,33, R$ 150.000,00 e R$ 632.666,66, relativos a pedidos rejeitados, bem como a definição dos critérios de atualização financeira.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Agravo conhecido. Recurso especial conhecido provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, TerceiraTurma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, Quarta Turma, DJe de 2/3/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte agravante, não se manifestou acerca dos critérios de atualização monetária e incidência de juros sobre os honorários de sucumbência fixados no julgamento dos embargos à execução, cuja base de cálculo foi alterada pelo TJ/MS.
+Como bem pontuado pela parte agravante, os honorários advocatícios que dão suporte à execução, cujos critérios de atualização e juros foram devidamente fixados, não se confundem com os honorários de sucumbência arbitrados por ocasião do julgamento dos embargos à execução.
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parte agravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do agravo para CONHECER do recurso especial e DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao TJ/MS, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte agravante.
