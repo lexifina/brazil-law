@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OMISSÃO E ERRO DE FATO. NÃO EXISTÊNCIA. SÚMULA N. 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem afirmou que o acórdão rescindendo, com base nas provas colacionadas aos autos, inclusive laudo pericial, reconheceu a anterioridade da incapacidade laboral à data de filiação ao regime geral previdenciário, o que impede a concessão do benefício pleiteado, conforme previsto no art. 42, § 2º, primeira parte, da Lei n. 8.213/1991. Esta a razão de ter afastada a alegada violação ao art. 966, V, do CPC.
+2. Aquela Corte também afastou a violação ao art. 966, VIII, do CPC, por não verificar a ocorrência de erro de fato.
+3. Não se pode considerar omisso acórdão suficiente e adequadamente fundamentado, apenas por ter adotado tese divergente da sustentada pelo embargante. Precedente.
+4. Infirmar as premissas do acórdão recorrido, visto que amparadas nos elementos de prova colacionados aos autos, encontra óbice no teor da Súmula n. 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Maria Marques Viana desafiando decisão de fls. 512/518, que não conheceu do recurso especial, com base nos seguintes fundamentos: ausência de violação ao disposto no art. 1.022 do CPC, alinhamento do acórdão recorrido ao entendimento deste Superior Tribunal e incidência da Súmula n. 7/STJ, por impossibilidade de novo exame do acervo fático-probatório constantes dos autos, a fim de verificar a ocorrência de erro de fato.
+Inconformada, sustenta a parte agravante, em resumo, que (fls. 532 e 534):
+(I) o acórdão recorrido foi omisso quanto à alegação da agravante de que:
+  Foi submetida a cirurgia em 07/07/2016;
+ Recebeu auxílio-doença entre 07/07/2016 e 06/09/2016, com registro administrativo;
+ A nova incapacidade foi fixada pericialmente em 23/02/2017;
+ Logo, nessa data, a segurada ainda mantinha a qualidade de segurada, nos termos do art. 15, II, da Lei nº 8.213/91 .
+(II) não incidência da Súmula n. 7/STJ, pois:
+Os fatos mencionados (recebimento de auxílio-doença, fixação da nova incapacidade e manutenção do período de graça) são incontroversos e documentados nos autos, sendo discutida apenas sua consequência jurídica, ou seja, a correta aplicação dos arts. 15, II, e 42, §2º da Lei nº 8.213/91, e por consequência, o erro de fato e a violação manifesta de norma jurídica.
+A parte agravada não apresentou impugnação (fl. 545).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OMISSÃO E ERRO DE FATO. NÃO EXISTÊNCIA. SÚMULA N. 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem afirmou que o acórdão rescindendo, com base nas provas colacionadas aos autos, inclusive laudo pericial, reconheceu a anterioridade da incapacidade laboral à data de filiação ao regime geral previdenciário, o que impede a concessão do benefício pleiteado, conforme previsto no art. 42, § 2º, primeira parte, da Lei n. 8.213/1991. Esta a razão de ter afastada a alegada violação ao art. 966, V, do CPC.
+2. Aquela Corte também afastou a violação ao art. 966, VIII, do CPC, por não verificar a ocorrência de erro de fato.
+3. Não se pode considerar omisso acórdão suficiente e adequadamente fundamentado, apenas por ter adotado tese divergente da sustentada pelo embargante. Precedente.
+4. Infirmar as premissas do acórdão recorrido, visto que amparadas nos elementos de prova colacionados aos autos, encontra óbice no teor da Súmula n. 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+De início, observa-se que a ausência de omissão no julgado foi demonstrada no decisório ora agravado, com a transcrição dos votos proferidos na origem, nestes termos:
+É de bom alvitre observar o entendimento da Corte de origem que, ao afastar a alegação de erro de fato, assim consignou (fls. 409/421):
+Passo, pois, à análise do juízo rescindendo. A parte autora fundamenta sua pretensão com base no artigo 966, incisos V e VIII, do CPC de 2015:
+ ..
+No tocante ao erro de fato, deve o julgador da decisão rescindenda, por equívoco evidente na apreciação das provas, admitir um fato inexistente ou considerar inexistente um fato efetivamente ocorrido, ou seja, presume-se que não fosse o erro manifesto na apreciação da prova o julgamento teria resultado diverso.
+No presente caso, a parte autora, nascida em 08.12.1949, ajuizou a ação originária postulando a condenação do INSS a conceder o benefício de aposentadoria por invalidez (B32), a partir do requerimento administrativo em 14.07.2016, ou o restabelecimento do auxílio-doença (NB 31/615.096.742-9), cessado em 06.09.2016 (ID 281353552 - Pág. 5/12).
+Para comprovar a sua incapacidade laborativa juntou documentos médicos (receituários, laudos, exames e prontuário médicos - ID 281353552 - Pág. 17/38) atestando que é portadora de moléstias que a impedem de trabalhar, bem como, no curso da demanda originária, postulou a realização perícia médica.
+O exame pericial (ID 281353553 - Pág. 2/10), realizado em 22.11.2017, concluiu que a parte autora era portadora de outras poliartroses, obesidade, lumbago com ciática, dor lombar baixa, osteoartrose primária generalizada, osteoporose e transtorno depressivo recorrente, episódio atual moderado (CID-10 - M 15.8; E 66; M54. 4; M54. 5; M15. O; M82. 8 e F33.1), que geram incapacidade total e permanente para o trabalho, tendo fixado a data provável do início da incapacidade em 23.02.2017.
+Houve prolação de sentença (ID 281353553 - Pág. 19/22) de procedência do pedido e a interposição de recurso pelas partes.
+Nesta Corte, foi proferido acórdão pela Nona Turma dando provimento ao apelo do INSS e julgando prejudicado o recurso da parte autora, conforme ementa:
+ ..
+O julgado rescindendo foi mantido uma vez que os embargos de declaração opostos pela parte autora foram rejeitados (ID 281353553 - Pág. 99/103), e o C. STJ (ID 281353555 - Pág. 52/57) decidiu conhecer do agravo para não conhecer do recurso especial interposto pela requerente, bem como proferiu acórdão negando provimento ao agravo interno da parte autora (ID 281353555 - Pág. 81/88). Houve o trânsito em julgado da decisão (ID 281353555 - Pág. 91).
+A parte autora alega que o julgado rescindendo incidiu em erro de fato e violação à norma quando decidiu pela improcedência do seu pedido de concessão de benefício por incapacidade sob o fundamento de incapacidade preexistente. Argumenta que o laudo pericial produzido, além de atestar a incapacidade total e permanente para o trabalho, fixou a data de início de incapacidade em 23.02.2017, momento em que preenchia as condições de qualidade de segurado e carência exigidas.
+ ..
+Ao contrário do que alega a parte autora, o julgado rescindendo considerou as provas trazidas aos autos, inclusive o laudo pericial produzido, tendo concluído que o magistrado não está adstrito ao seu conteúdo.
+Ao firmar tal posicionamento, o acórdão que se pretende rescindir sopesou a vida laborativa da requerente, entendendo que foi basicamente exercida em atividades domésticas na informalidade, vindo a se filiar ao regime geral, como contribuinte facultativa, já desgastada pela idade e doenças físicas indicadas no laudo, ressaltando o caráter contributivo do referido regime. De fato, colhe-se dos autos que a parte autora, nascida em 08.12.1949, verteu sua primeira contribuição previdenciária aos cofres públicos em 01.06.2011 (CNIS - ID 281353552 - Pág. 44), quando contava com 61 anos de idade. Portanto, ao negar o benefício por incapacidade, o julgado rescindendo deu plena aplicação ao disposto no art. 42, §2º, primeira parte, da Lei nº 8.213/91, que impede a concessão do benefício em casos de incapacidade preexistente.
+O entendimento adotado pelo julgado rescindendo não desborda do razoável, tendo em vista que constatou a preexistência da incapacidade quando da filiação da parte autora ao Regime Geral de Previdência Social.
+Conclui-se que o julgado apenas deu aplicação aos preceitos tidos por violados, e o fez com base nas provas dos autos e com suporte no princípio do livre convencimento motivado, não havendo força suficiente para a alegação de violação manifesta à norma jurídica.
+Sem adentrar no mérito da tese firmada na decisão, entendimento conhecido como "filiação tardia", representa um dos entendimentos possíveis. Segue recente julgado desta E. 3ª Seção:
+ ..
+Por sua vez, não se presta a rescisória ao rejulgamento do feito, como ocorre na apreciação dos recursos, ou uma nova oportunidade para a complementação das provas. Dessa forma, é incabível a rescisão do julgado pela hipótese prevista no art. 966, incisos V, do CPC.
+Por outro lado, da transcrição do julgado rescindendo, conclui-se que houve a análise das provas trazidas aos autos, todavia, a interpretação adotada foi contrária aos interesses da parte requerente. Não se negou a existência de incapacidade, nem a data de início da incapacidade fixada no laudo pericial. Houve valoração do histórico contributivo da parte autora em cotejo com seus males físicos e o prestígio ao caráter contributivo do sistema previdenciário para concluir que não havia direito ao benefício por incapacidade.
+Não se configura, desta forma, a hipótese prevista no artigo 966, inciso VIII, do CPC, já que para a verificação do "erro de fato", a ensejar a rescisão do julgado, é necessário que este tenha admitido fato inexistente ou considerado inexistente fato efetivamente ocorrido, bem como não tenha ocorrido controvérsia ou pronunciamento judicial sobre o fato.
+ ..
+Diante do exposto, rejeito a matéria preliminar e JULGO IMPROCEDENTE o pedido formulado na presente ação rescisória, nos termos da fundamentação acima.
+E o voto proferido nos embargos de declaração acentuou (fl. 457)
+No caso vertente, a decisão embargada foi clara ao expressar que o pronunciamento rescindendo adotou uma interpretação possível, ainda que não a melhor ou mais justa, de forma que restou afastada a rescisão por suposta violação manifesta à norma jurídica. Também foi descaracterizada a ocorrência de erro de fato porque, além de ter ocorrido controvérsia sobre a questão, houve a consideração das provas apresentadas, inclusive o laudo pericial, bem como a valoração do histórico contributivo e laborativo da parte autora.
+Como se vê, o Tribunal de origem afirmou que o acórdão rescindendo, com base nas provas colacionadas aos autos, inclusive laudo pericial, reconheceu a anterioridade da incapacidade laboral à data de filiação ao regime geral previdenciário, o que impede a concessão do benefício pleiteado, conforme prescrito no art. 42, § 2º, primeira parte, da Lei n. 8.213/1991. Esta a razão de ter afastada a alegada violação ao art. 966, V, do CPC.
+Aquela Corte também afastou a alegação de violação ao art. 966, VIII, do CPC, por não ter verificado erro de fato.
+Assim, não se pode considerar omisso acórdão suficiente e adequadamente fundamentado, apenas por ter adotado tese divergente da sustentada pela parte embargante.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPOSTA VIOLAÇÃO AOS ARTS. 489, §1º, IV, E 1.022, I E II, PARÁGRAFO ÚNICO, II, DO CPC. AMBOS DO CPC. NULIDADE POR OMISSÃO. AUSÊNCIA. MATÉRIA DECIDIDA. SUPOSTA INFRINGÊNCIAS AOS ARTS. 98, §4, DO DECRETO-LEI N. 73/66 E 2º, II, DA LEI N. 11.101/05. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. ART. 18, F, DA LEI N. 6.024/74. IN(EXIGIBILIDADE) AO PAGAMENTO DE MULTA ADMINISTRATIVA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. LEI DAS EXECUÇÕES FISCAIS (LEI N. 6.830/74) VERSUS LEI DE INTERVENÇÃO E LIQUIDAÇÃO EXTRAJUDICIAL DE INSTITUIÇÕES FINANCEIRAS (LEI N. 6.024/74). CONFLITO APARENTE DE NORMAS. NORMA ESPECIAL PREVALECE SOBRE NORMA GERAL. PRECEDENTES. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A mera insatisfação com o conteúdo da decisão proferida não importa em violação aos arts. 489, §1º, IV, e 1.022, I e II, parágrafo único, II, do CPC. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Precedentes.
+2. Ademais, o órgão julgador não está adstrito a todos os argumentos trazidos pela parte em defesa da tese que apresenta. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à resolução da demanda. Precedentes.
+3. Mesmo após a oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre pontos suscitados por violados (arts.
+98, §4º, do Decreto-Lei n. 73/66 e 2º, II, da Lei n. 11.101/05), incidindo, portanto, o enunciado da Súmula n. 211 do STJ nesse ponto ("Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+4. Ante a suposta infringência ao art. 18, f, da Lei n. 6.024/74, o Tribunal de origem seguiu o entendimento desta Colenda Corte de Justiça, no sentido de que, em havendo conflito aparente de normas entre a Lei da Execuções Fiscais (Lei n. 6.830/74) e a Lei que trata sobre a intervenção e liquidação extrajudicial de instituições financeiras (Lei n. 6.024/74), prevalece a primeira, por ser norma especial, inclusive quando se tratar de (in) exigibilidade ao pagamento de multa administrativa em sede de liquidação extrajudicial, incidindo o enunciado da Súmula n. 83/STJ a este ponto ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.679.165/RS, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 18/8/2025.)
+Quanto à incidência da Súmula n. 7/STJ, como já afirmado na decisão agravada, a alteração das premissas adotadas pelo Pretório de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no aludido verbete.
+ANTE O EXPOSTO, nega- se provimento ao agravo interno.
+É o voto.
