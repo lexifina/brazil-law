@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO ANTINEOPLÁSICO PRESCRITO POR MÉDICO ASSISTENTE. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. O STJ firmou entendimento no sentido de que é obrigatório o custeio pelo plano de saúde de exames, medicamentos e procedimentos para o tratamento de câncer, sendo irrelevante a natureza taxativa ou exemplificativa do rol da ANS.
+2. Agravo conhecido. Recurso especial não provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por UNIMED JOÃO PESSOA COOPERATIVA DE TRABALHO MÉDICO (UNIMED) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça da Paraíba, assim ementado:
+PRELIMINAR DE CERCEAMENTO DE DEFESA. MATÉRIA EXCLUSIVAMENTE DE DIREITO. PROVAS SUFICIENTES PARA A ANÁLISE DA CELEUMA. REJEIÇÃO DA PREFACIAL.
+" ( ) 2. Não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender adequadamente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente.
+Precedentes.( ) (AgInt no AREsp 556.695/SC, Rel. Ministro RAUL
+ARAÚJO, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021).
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PORTADORA DE CARCINOSSARCOMA DE ÚTERO COM DIFERENCIAÇAO HETERÓLOGA CONDROSSARCOMATOSA. MEDICAMENTOS DENOMINADOS KEYTRUDA E LENVIMA REGISTRADOS NA ANVISA. NEGATIVA DE COBERTURA. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO RECURSO.
+- Os planos de saúde sujeitam-se à incidência das normas do Código de Defesa do Consumidor, enquadrando-se na modalidade de serviço prestado, sob remuneração, pelo mercado de consumo, nos termos do art. 3º, § 2º, daquele diploma normativo.
+- "In casu", as bulas dos fármacos registrados na ANVISA indicam sua utilização para diversos tipos de neoplasia, afastando a alegação de mero tratamento experimental, tendo sido, inclusive, indicados por médico credenciado pelo plano (e-STJ, fls. 411/412).
+Os embargos de declaração opostos por UNIMED foram parcialmente colhidos para fixar os honorários de sucumbência (e-STJ, fls. 453/457.).
+No presente inconformismo, UNIMED alegou, a par de dissídio jurisprudencial, a violação dos arts. 4º e 10 da Lei n. 9.659/98, ao sustentar, em síntese, que o medicamento requisitado pela recorrida possuía expressa exclusão legal de cobertura obrigatória, uma vez que a Lei nº 9.656/98 prevê a vinculação da cobertura obrigatória a ser observada pelos planos com o Rol de Procedimentos e Eventos em Saúde, além de excluir expressamente o tratamento experimental.
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO ANTINEOPLÁSICO PRESCRITO POR MÉDICO ASSISTENTE. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. O STJ firmou entendimento no sentido de que é obrigatório o custeio pelo plano de saúde de exames, medicamentos e procedimentos para o tratamento de câncer, sendo irrelevante a natureza taxativa ou exemplificativa do rol da ANS.
+2. Agravo conhecido. Recurso especial não provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+No presente inconformismo, UNIMED alegou, a par de dissídio jurisprudencial, a violação dos arts. 4º e 10 da Lei n. 9.659/98, ao sustentar, em síntese, que o medicamento requisitado pela recorrida possuía expressa exclusão legal de cobertura obrigatória, uma vez que a Lei nº 9.656/98 prevê a vinculação da cobertura obrigatória a ser observada pelos planos com o Rol de Procedimentos e Eventos em Saúde, além de excluir expressamente o tratamento experimental.
+Pois bem.
+A propósito do tema, o TJPB consignou o seguinte:
+Extrai-se dos autos que a Autora/Apelada, em agosto de 2019, foi diagnosticada com carcinossarcoma de útero com diferenciação heteróloga condrossarcomatosa, sendo submetida a tratamento cirúrgico, seguido de quimioterapia, no período de setembro de 2019 a janeiro de 2020.
+Posteriormente, em dezembro de 2020, disse que, em detecção precoce confirmada por meio de biópsia, veio o diagnóstico de recidiva em linfonodal. Nesse passo, realizou resgate cirúrgico com linfadenectomia inguinal esquerda, seguida de radioterapia local, no período de março de 2021 a abril de 202, e ainda, evidência de recidiva linfonodal e hepática em PET-CT oncológico, realizado em junho de 2021.
+Contou que atualmente faz uso de doses crescentes de analgésicos, além de já exposta previamente à esquema de outros medicamentos. A partir de então, conforme prescrito pelo profissional médico responsável, a utilização de dois medicamentos, quais sejam: LENVATINIBE e PEMBROLIZUMABE, faz-se necessária.
+Contudo, a Promovida se recusou a autorizar o fornecimento das medicações, sob o argumento de que não constam no rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), conforme carta enviada negando o pedido.
+Pois bem.
+A celeuma ora posta centra-se na obrigatoriedade, ou não, do plano de saúde em custear o procedimento requerido pela Autora.
+Ab initio, mister se faz realçar que os planos de saúde sujeitam-se à incidência das normas do Código de Defesa do Consumidor, enquadrando-se na modalidade de serviço prestado, sob remuneração, pelo mercado de consumo, nos termos do art. 3º, § 2º, daquele diploma normativo.
+A própria , que regulamenta a atividade dos planos e seguros privados de assistência à Lei nº 9.656/98 saúde, dispõe ser obrigatória a cobertura de tratamentos antineoplásicos quando o plano incluir . internação hospitalar, como é o caso da Autora Notório resta que a negativa da cobertura solicitada, necessária à saúde da paciente, restringe direito fundamental inerente à própria natureza do contrato, sobremodo diante do quadro clínico apresentado por ela.
+Outrossim, não pode o plano de saúde restringir os meios que assegurem a efetividade de tratamentos relacionados a problemas dessa ordem, sendo plenamente abusiva a cláusula que limita a cobertura do procedimento considerado mais adequado pelo profissional de saúde.
+"In casu", as bulas dos fármacos registrados na ANVISA indicam sua utilização para diversos tipos, afastando a alegação de mero tratamento experimental, tendo sido, inclusive, indicados por de neoplasia médico credenciado pelo plano.
+Não almejamos negar ou suprimir a autonomia da vontade na formação dos contratos. Absolutamente. O nosso querer restringe-se à primazia de valores maiores, utilizando-se, para tanto, do espírito protetivo do direito consumerista e seus princípios da transparência, boa-fé, lealdade, probidade e eticidade.
+Ressalto, pois, que a liberdade de contratar não é absoluta, esbarrando em zonas fronteiriças de bens supremos e, por isto, indisponíveis.
+A natureza peculiar do contrato de seguro de saúde e a especial relevância do direito protegido estão a exigir que a sua compreensão seja realizada à luz de princípios maiores e não a vista das regras tradicionais da teoria dos contratos.
+Destaco, ainda, que a cooperativa médica ofertante de planos de saúde, por inserir-se em um ramo de atividade classificada como serviço público de natureza essencial, deve ter como bússola norteadora de suas ações a promoção da dignidade humana.
+É assente no STJ o entendimento segundo o qual o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, sendo abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Cabe, aqui, ressaltar que, no âmbito do REsp 1.733.013/PR, a eg. Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n. 1.949.270/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022).
+Assim, na hipótese de medicamento para o tratamento de câncer, esta Corte é firme no entendimento de que a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento nos termos recomendados pelo médico com vistas à preservação da saúde do segurado se a doença é coberta contratualmente.
+A propósito, confiram-se os recentes precedentes:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ILEGALIDADE. MEDICAMENTO ANTINEOPLÁSICO ORAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Seria necessário o reexame dos fatos e das provas dos autos para alterar o entendimento do Tribunal de origem quanto à doença que atinge a paciente (câncer de ovário) e à necessidade do medicamento postulado para seu tratamento.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.890.823/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022 -sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.905/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021 - sem destaques no original)
+Dessa forma, forçoso concluir que a solução jurídica esposada pelo TJPB, no sentido de obrigar a operadora do plano de saúde ao fornecimento dos medicamentos em testilha, encontra-se em sintonia com o entendimento consolidado nesta Corte Superior, não merecendo, portanto, reparos.
+Nessas condições, CONHEÇO do agravo para NEG AR PROVIMENTO ao recurso especial.
+Inaplicável a majoração dos honorários recursais.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
