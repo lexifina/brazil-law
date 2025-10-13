@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. NECESSIDADE. ACOLHIMENTO. EFEITOS INFRINGENTES. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. APELAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE VERIFICADA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Verificada a ocorrência de erro material no acórdão embargado, que partiu de premissa inexistente no caso concreto, os embargos de declaração devem ser acolhidos para repará-lo.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, rever a conclusão do acórdão recorrido sobre a violação ao princípio da dialeticidade na apelação demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+4. Embargos de declaração acolhidos com efeitos modificativos.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  MARIA APARECIDA DO NASCIMENTO E BRAGA e OUTRO  ao  acórdão  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DECISÃO MONOCRÁTICA. RECURSO ESPECIAL. SÚMULA Nº 281/STF.
+1. O exaurimento da instância ordinária é pressuposto de admissibilidade do recurso especial. Inteligência da Súmula nº 281/STF.
+2. Agravo interno não provido"  (fl.  589  e-STJ).
+
+Nas  presentes  razões,  os  embargantes  sustentam  que há omissão e erro material no julgado.
+Sem impugnação  (fls.  604/605 e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. NECESSIDADE. ACOLHIMENTO. EFEITOS INFRINGENTES. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. APELAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE VERIFICADA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Verificada a ocorrência de erro material no acórdão embargado, que partiu de premissa inexistente no caso concreto, os embargos de declaração devem ser acolhidos para repará-lo.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, rever a conclusão do acórdão recorrido sobre a violação ao princípio da dialeticidade na apelação demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+4. Embargos de declaração acolhidos com efeitos modificativos.
+VOTO
+O recurso merece acolhimento.
+Consoante o disposto no art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+No caso, de fato, o agravo regimental foi julgado junto com os embargos de declaração pela Corte de origem, nos termos do acórdão de e-STJ. fls. 408/409.
+Nesse cenário, os presentes aclaratórios devem ser acolhidos, com efeitos infringentes, para possibilitar um novo exame do agravo interno anteriormente interposto (e-STJ fls. 570/574).
+Pela decisão de e-STJ fls. 565/566, a Presidência do Superior Tribunal de Justiça não conheceu do recurso especial porque entendeu que ele foi interposto contra decisão monocrática proferida pelo Tribunal de origem.
+Nas razões do agravo interno, os agravantes alegam que deve ser afastada a incidência da Súmula nº 281/STF.
+A pretensão merece provimento.
+Observa-se o disposto no acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios:
+"EMBARGOS DE DECLARAÇÃO. DECISÃO DE NÃO CONHECIMENTO DA APELAÇÃO CÍVEL. OBSCURIDADE. NÃO CONFIGURAÇÃO. AGRAVO INTERNO. DECISÃO QUE RECONHECE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE, INOVAÇÃO RECURSAL E PEDIDO EXTRAPETITA. MANUTENÇÃO. NULIDADE SUSCITADA POR HERDEIRO. MANIFESTAÇÃO TARDIA. NULIDADE DE ALGIBEIRA. CONFIGURAÇÃO. Os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar do acórdão impugnado eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022 e incisos, do Código de Processo Civil. A insatisfação do embargante com o resultado do julgamento não é suficiente para a sua alteração por meio dos embargos de declaração, mormente quando não há vício no acórdão. Não evidenciados elementos que contradizem a decisão monocrática proferida, deve ser mantido o entendimento quanto ao não conhecimento do recurso de apelação, tendo em vista a violação ao princípio da dialeticidade, a pretensão de inovação recursal e a dedução de pedidos extra petita. Hipótese em que, verificada a necessidade de inclusão no polo passivo de reconvenção dos herdeiros do de cujus, em litisconsórcio passivo necessário, a viúva do falecido e o filho se manifestaram nos autos e omitiram a existência de outra filha, que compareceu aos autos, espontaneamente, apenas após a apreciação do recurso de apelação, para sustentar a nulidade dos atos processuais que lhes são desfavoráveis, ante a derrota sofrida pela viúva e pelo outro filho. Evidenciado que a filha do falecido tinha conhecimento do processo, desde momento anterior, mas manteve-se silente, resta configurada a nulidade de algibeira, de sorte que os atos processuais devem ser mantidos e a herdeira passará a figurar no polo passivo da reconvenção, recebendo o processo no estado em que se encontra." (e-STJ fl. 408)
+Desse modo, deve ser provido o agravo interno pra reconsiderar a decisão e-STJ fls. 565/566.
+Nesse contexto, passa-se à análise do agravo em recurso especial (e-STJ fls. 539/551).
+Verifica-se que, no recurso especial, os ora embargantes alegam violação dos artigos 489, § 1º, IV, 932, III, 1.010, III, e 1.022, II, do CPC, sob o argumento de que a apelação impugnou os fundamentos da sentença.
+Com as contrarrazões (e-STJ fls. 512/529), o recurso especial foi inadmitido, dando ensejo à interposição do agravo.
+O recurso não merece acolhida.
+Não se vislumbra a apontada violação dos arts. 489 e 1.022 do Código de Processo Civil.
+Na hipótese dos autos, o tribunal local assim consignou:
+"(..)
+Não se sustenta a tese recursal de que o Magistrado singular teria admitido a discussão quanto à forma de venda da área objeto do contrato tratado nos autos, se ad mensuram ou ad corpus.
+Nesse particular, o Magistrado da causa, após tecer considerações acerca do contrato firmado entre as partes, consignou que, de qualquer forma, a autora não pede o complemento da área, a resolução do contrato ou o abatimento do preço, mas não veio aos autos qualquer pleito reconvencional sucessivo. Ademais, o aditamento do pedido dependeria de autorização da parte requerida, que não veio aos autos depois da petição de ID 109258156.
+Veja que, apesar de ter consignado qual seria a pretensão da agravante coma discussão acerca da área vendida, o Magistrado entendeu que tal discussão encontraria óbice no fato de que a autora/reconvinda/apelante/agravante não não havia deduzido, no momento processual adequado e oportuno, pedido de complemento da área, de resolução do contrato ou de abatimento do preço, ou ainda, pleito reconvencional sucessivo.
+(..)
+Evidentemente, se a pretensão dos apelantes/agravantes fosse de reformar a sentença nesse particular e, portanto, demonstrar a viabilidade de se discutir, neste processo, sua condição de credores, em virtude do superveniente conhecimento de que a área vendida seria inferior à prometida, deveriam ter impugnado os fundamentos específicos da sentença quanto ao ponto, providência que não adotaram.
+No mais, convém enfatizar que, igualmente em razão da ausência de aditamento da inicial ou de reconvenção à reconvenção, é impossível acobertar, neste feito, os pedidos deduzidos pelos agravantes à ocasião da interposição de recurso de apelação.
+Como dito na decisão agravada, até então, não havia nos autos pedido para que a venda do bem fosse considerada ad mensuram, com a condenação dos réus à devolução de valores, tampouco para declarar a invalidade do contrato, pedidos que revelam a pretensão de inovação recursal.
+Não bastasse a ausência de reconvenção à reconvenção, a decisão agravada também explicou que a pretensão recursal encontra barreira na natureza da ação proposta" (e-STJ fls. 412/413).
+Assim, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Como cediço, o julgador não é obrigado a responder a todos os argumentos apresentados pelas partes, bastando que aponte as razões do seu convencimento acerca dos pontos imprescindíveis à resolução da demanda para que a decisão esteja devidamente fundamentada.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANODESAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA).NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2.FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3.ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTACORTESUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DEPREQUESTIONAMENTO.INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5.AGRAVO INTERNODESPROVIDO.1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez queo Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n.6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVOEMRECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃOMONOCRÁTICAQUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIARECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ademais, rever a conclusão do acórdão recorrido sobre a violação ao princípio da dialeticidade na apelação demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+Ante o exposto, acolho os embargos com efeitos infringentes para tornar sem efeito o acórdão de e-STJ fls. 589/591, por conseguinte, dar provimento ao agravo interno para reconsiderar a decisão e-STJ fls. 565/566, afastando a aplicação da Súmula nº 281/STF.
+Finalmente, em atenção ao princípio da celeridade, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+  É  o  voto.
