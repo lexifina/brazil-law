@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA DE LOTE NÃO EDIFICADO. INADIMPLEMENTO DO COMPRADOR. TAXA DE FRUIÇÃO. IPTU. POSSE EFETIVA. CLÁUSULA PENAL. LEI N. 13.786/2018. IRRETROATIVIDADE. SÚMULA 7/STJ.
+1. A responsabilização do promitente comprador pelo pagamento de taxa de fruição e IPTU exige a comprovação da posse efetiva do imóvel, não sendo suficiente a mera previsão contratual de transmissão da posse na data da assinatura do contrato.
+2. Constitui matéria fático-probatória, insuscetível de reexame em sede de recurso especial, a conclusão do Tribunal de origem de que não restou demonstrada a efetiva imissão na posse do imóvel pelo promitente comprador. Incidência da Súmula 7/STJ.
+3. O princípio da irretroatividade das leis impede a aplicação da Lei n. 13.786/2018 (Lei do Distrato) a contratos celebrados antes de sua vigência, sendo impertinente a invocação do art. 32-A da Lei n. 6.766/79 para definir a base de cálculo da cláusula penal em contrato firmado em 2017.
+4. Verificada a ausência de prova da posse fática, torna-se prejudicada a análise da alegada violação aos dispositivos legais que regulam os efeitos dela decorrentes, bem como inviabilizada a demonstração do dissídio jurisprudencial por falta de similitude fática entre o acórdão recorrido e os paradigmas invocados.
+5. A redução da cláusula penal com base no art. 413 do Código Civil, por considerar excessiva a penalidade originalmente pactuada, encontra-se alicerçada nas particularidades fático-probatórias do caso concreto, o que atrai novamente a vedação contida na Súmula 7 desta Corte.
+6. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por EMPREENDIMENTOS IMÓVELNORTE DO PARANÁ LTDA. (IMÓVELNORTE), com fundamento no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+A ação originária, ajuizada por IMÓVELNORTE, buscava a rescisão de um contrato de compromisso de compra e venda de um lote não edificado, cumulada com reintegração de posse e indenização por perdas e danos, em face de CESAR AUGUSTO CANDIDO SANTIAGO (CESAR), em razão do inadimplemento deste.
+A sentença julgou parcialmente procedente o pedido para declarar a rescisão do contrato e determinar a reintegração de posse, adequando, no entanto, a cláusula penal para o correspondente a 20% dos valores efetivamente pagos por CESAR (e-STJ, fls. 152 a 165).
+Ambas as partes apelaram.
+O Tribunal de Justiça do Estado do Paraná negou provimento ao recurso de IMÓVELNORTE e deu parcial provimento ao apelo de CESAR para julgar improcedente o pedido de reintegração de posse e parcialmente procedente a reconvenção a fim de condenar IMÓVELNORTE à devolução dos valores pagos, com o desconto da cláusula penal.
+A Corte paranaense fundamentou que IMÓVELNORTE não comprovou a efetiva transmissão da posse do imóvel a CESAR, o que afastaria não apenas o pleito possessório, mas também a cobrança de taxa de fruição e de IPTU (e-STJ, fls. 306 a 316).
+Os embargos de declaração opostos por IMÓVELNORTE foram rejeitados (e-STJ, fls. 336 a 339).
+No recurso especial, IMÓVELNORTE apontou, além de dissídio jurisprudencial, violação dos arts. 421 do Código Civil; 34 do Código Tributário Nacional; e 32-A, I, II e IV, da Lei nº 6.766/79. Sustentou, em síntese, que (1) a posse foi transmitida com a assinatura do contrato, conforme cláusula expressa, sendo devidas a taxa de fruição e a cobrança do IPTU, em respeito a liberdade contratual; e (2) a base de cálculo para a retenção de valores deve ser o valor total do contrato, e não a quantia paga.
+Não foram apresentadas contrarrazões (e-STJ, fl. 394).
+O recurso especial não foi admitido na origem (e-STJ, fls. 395 a 397), o que ensejou a interposição de agravo, ao qual foi dado provimento para determinar sua conversão em recurso especial para melhor exame da controvérsia (e-STJ, fls. 452 a 454).
+EMENTA
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPROMISSO DE COMPRA E VENDA DE LOTE NÃO EDIFICADO. INADIMPLEMENTO DO COMPRADOR. TAXA DE FRUIÇÃO. IPTU. POSSE EFETIVA. CLÁUSULA PENAL. LEI N. 13.786/2018. IRRETROATIVIDADE. SÚMULA 7/STJ.
+1. A responsabilização do promitente comprador pelo pagamento de taxa de fruição e IPTU exige a comprovação da posse efetiva do imóvel, não sendo suficiente a mera previsão contratual de transmissão da posse na data da assinatura do contrato.
+2. Constitui matéria fático-probatória, insuscetível de reexame em sede de recurso especial, a conclusão do Tribunal de origem de que não restou demonstrada a efetiva imissão na posse do imóvel pelo promitente comprador. Incidência da Súmula 7/STJ.
+3. O princípio da irretroatividade das leis impede a aplicação da Lei n. 13.786/2018 (Lei do Distrato) a contratos celebrados antes de sua vigência, sendo impertinente a invocação do art. 32-A da Lei n. 6.766/79 para definir a base de cálculo da cláusula penal em contrato firmado em 2017.
+4. Verificada a ausência de prova da posse fática, torna-se prejudicada a análise da alegada violação aos dispositivos legais que regulam os efeitos dela decorrentes, bem como inviabilizada a demonstração do dissídio jurisprudencial por falta de similitude fática entre o acórdão recorrido e os paradigmas invocados.
+5. A redução da cláusula penal com base no art. 413 do Código Civil, por considerar excessiva a penalidade originalmente pactuada, encontra-se alicerçada nas particularidades fático-probatórias do caso concreto, o que atrai novamente a vedação contida na Súmula 7 desta Corte.
+6. Recurso especial não provido.
+VOTO
+Da contextualização fática
+IMÓVELNORTE e CESAR celebraram, em 6 de janeiro de 2017, contrato de compromisso de compra e venda referente a um lote de terreno não edificado, pelo preço de R$ 90.860,00 (noventa mil, oitocentos e sessenta reais). CESAR tornou-se inadimplente a partir da parcela vencida em 10 de janeiro de 2018, o que motivou o ajuizamento da ação de rescisão contratual.
+A sentença rescindiu o pacto e determinou a reintegração de posse, mas reduziu a cláusula penal, fixando-a em 20% sobre o montante pago por CESAR (e-STJ, fls. 152 a 165).
+O Tribunal de Justiça do Estado do Paraná, ao julgar as apelações, reformou parcialmente a sentença. A Corte paranaense afastou a reintegração de posse e, por consequência, a cobrança de taxa de fruição e IPTU, sob o fundamento de que, sendo a posse um estado de fato, a mera previsão contratual de sua transmissão no ato da assinatura era insuficiente diante da ausência de provas de que CESAR efetivamente ingressou no imóvel.
+O acórdão consignou expressamente que a Apelante não fez prova de que o Apelado tenha entrado na posse do imóvel a ponto de justificar o pedido da referida taxa de fruição ou de pagamento de IPTU (e-STJ, fls. 306 a 316).
+Objetivo recursal
+O objetivo de IMÓVELNORTE é a reforma do acórdão para que seja reconhecida a responsabilidade de CESAR pelo pagamento de taxa de fruição e IPTU, com base na validade da cláusula contratual que estipulou a transferência da posse na data da assinatura do instrumento, bem como para que a base de cálculo da cláusula penal seja o valor total do contrato.
+No recurso especial interposto com fundamento no art. 105, III, alíneas a e c, da CF, IMÓVELNORTE apontou violação dos arts. (1) 421 do Código Civil, por desrespeito a liberdade contratual e ao princípio do pacta sunt servanda, uma vez que o contrato previa a imissão na posse na data de sua assinatura; (2) 34 do Código Tributário Nacional e 32-A, I e IV, da Lei nº 6.766/79, sustentando a responsabilidade do possuidor pelo pagamento de IPTU e a legalidade da cobrança de taxa de fruição; e (3) 32-A, II, da Lei nº 6.766/79, defendendo que a base de cálculo da cláusula penal deve ser o valor atualizado do contrato.
+A controvérsia central reside na distinção entre a previsão contratual de transmissão da posse e a necessidade de sua comprovação fática para fins de imputação de encargos. IMÓVELNORTE argumenta que a cláusula sétima do contrato, ao estipular a transmissão da posse na data da assinatura, seria suficiente para responsabilizar CESAR pelo pagamento da taxa de fruição e do IPTU, em respeito a liberdade contratual (art. 421 do Código Civil) e as normas tributárias e urbanísticas (arts. 34 do CTN e 32-A, I e IV, da Lei nº 6.766/79).
+Contudo, o Tribunal de Justiça do Estado do Paraná, soberano na análise do acervo fático-probatório, concluiu que a promitente vendedora não se desincumbiu do ônus de provar a efetiva transmissão da posse do imóvel ao promitente comprador.
+O acórdão foi categórico ao afirma:
+Como é certo, a posse é um estado de fato, de modo que não basta haver disposição contratual a respeito. A Cláusula Sétima da avença dispõe que, desde a assinatura, poderia o compromissário comprador tomar posse do imóvel. Mas a Apelada não fez prova de que ocorreu, efetivamente, a transmissão da posse ao Apelante, nem mesmo de forma precária. O Apelante nega que tenha ingressado na posse do imóvel, de modo que competia a Apelada fazer prova do fato constitutivo do direito alegado, sobre o que olvidou (e-STJ, fls. 306 a 316).
+Embora este Superior Tribunal de Justiça, em algumas circunstâncias, possa reconhecer efeitos jurídicos a posse contratual, a premissa fática inafastável no presente caso é a de que o Tribunal paranaense, com base nas provas dos autos, afirmou a inexistência de posse fática.
+A revisão dessa conclusão, que se baseia na valoração do conjunto probatório para determinar se houve ou não a efetiva imissão na posse, é inviável em recurso especial, por força do óbice contido na Súmula 7 desta Corte. A função do STJ é uniformizar a interpretação da legislação federal, e não reavaliar o substrato fático que fundamentou a decisão das instâncias ordinárias.
+Assim, assentado pelo Tribunal paranaense que não houve posse efetiva, não há como analisar a suposta violação dos dispositivos legais que regulam os efeitos dela decorrentes (taxa de fruição e IPTU).
+Conforme já decidiu esta Corte Superior:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E REPARAÇÃO POR DANOS MATERIAIS. ATRASO NA ENTREGA DA OBRA . PREQUESTIONAMENTO PARCIAL. LUCROS CESSANTES. PRESUNÇÃO. RESPONSABILIDADE DO PROMITENTE COMPRADOR PELAS DESPESAS DO IMÓVEL . AUSÊNCIA. TERMO INICIAL. IMISSÃO NA POSSE.
+1 . (..)
+2. (..)
+3. A responsabilidade do promitente comprador pelas despesas do imóvel, como condomínio e IPTU, somente se dá a partir da imissão na posse, a qual ocorre com o recebimento das chaves. Precedentes.
+4 . Agravo interno não provido.
+(AgInt nos EDcl no REsp: 1.961.537/SP, Relator.: Ministra NANCY ANDRIGHI, Julgamento: 14/3/2022, TERCEIRA TURMA, DJe 18/3/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. ARTS . 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. DESPESAS CONDOMINIAIS E IPTU . RESTITUIÇÃO. POSSIBILIDADE. ILEGITIMIDADE PASSIVA REJEITADA. IMPOSSIBILIDADE DE REVISÃO . MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1 .(..)
+2 . Segundo a jurisprudência do STJ, as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+3 . (..)
+4. Agravo interno improvido.
+(AgInt nos EDcl no REsp: 1.839.792/RJ, Relator.: Ministro MARCO AURÉLIO BELLIZZE, ulgamento: 10/8/2020, TERCEIRA TURMA, DJe 17/8/2020)
+O mesmo óbice se aplica ao conhecimento do recurso pela alínea c do permissivo constitucional, pois a ausência de similitude fática entre o acórdão recorrido - que se baseou na não comprovação da posse fática - e os paradigmas invocados impede a demonstração do dissídio jurisprudencial.
+No que tange a base de cálculo da cláusula penal, IMÓVELNORTE alega violação do art. 32-A, II, da Lei nº 6.766/79, que prevê a retenção de até 10% do valor atualizado do contrato.
+O argumento, todavia, não prospera.
+O contrato em discussão foi celebrado em 6 de janeiro de 2017. O referido dispositivo legal foi introduzido pela Lei nº 13.786, de 27 de dezembro de 2018.
+Como bem apontou o acórdão recorrido, em respeito ao princípio da irretroatividade das leis, a nova legislação não se aplica a contratos firmados antes de sua vigência.
+A redução da cláusula penal foi realizada com base no art. 413 do Código Civil, que autoriza o juiz a reduzir equitativamente a penalidade se esta for manifestamente excessiva.
+A análise sobre o caráter excessivo da multa e a adequação de sua base de cálculo também perpassa por questões de fato e pelas particularidades do caso concreto, o que novamente atrai a incidência da Súmula 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor econômico dos honorários advocatícios sucumbenciais fixados em desfavor de EMPREENDIMENTOS IMÓVELNORTE DO PARANÁ LTDA, na forma do art. 85, § 11, do CPC.
+É o voto.
