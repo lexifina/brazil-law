@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, IV e 1.022, II e parágrafo único, II, do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ para desafiar decisão de minha lavra, proferida às e-STJ fls. 473/477, em que conheci do agravo para negar provimento ao recurso especial, por ausência de ofensa aos arts. 489, § 1º, IV, e 1.022, II e parágrafo único, II, do CPC/2015.
+No presente agravo interno, a parte agravante sustenta que, "nos embargos, apresentou e fez a devida distinção entre o objeto das ações nº 2001.70.00.000065-1/PR; nº 2001.70.00.000102-3/PR; nº 2001.70.00.0260831/PR; ACO 1.092; e ACO 1.273, porquanto, nessas ações, embora tenha se discutido a legalidade da privatização do Banestado sob diversos aspectos, não se enfrentou, especificamente, o processo de privatização no que se refere ao preço mínimo estabelecido para venda das ações da referida instituição bancária em comparação ao capital social do referido banco. Esse ponto - preço mínimo estabelecido para venda das ações - trata-se de questão sobre a qual o Poder Judiciário não se debruçou, razão pela qual a prova pericial se faz necessária para se verificar a existência - ou não - de ilegalidades no edital de privatização do Banestado S.A. Isso porque, nesta ação popular, alega-se que o valor indicado em edital de venda estava subestimado, isto é, o preço mínimo fixado teve por base patrimônio líquido inferior ao que efetivamente existia, o que - se detectado na perícia da origem - demonstrará a existência de prejuízo ao erário, decorrente do processo de privatização do referido banco" (e-STJ fls. 489/490).
+Sustenta que "essa distinção entre o objeto das ações julgadas pelo STF e a presente, deve ser enfrentada pelo Poder Judiciário, nos termos defendidos no recurso especial" (e-STJ fl. 490).
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 506/524.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Inexiste ofensa aos arts. 489, § 1º, IV e 1.022, II e parágrafo único, II, do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão agravada, no tocante à alegada ofensa dos arts. 489, § 1º, IV e 1.022, II e parágrafo único, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante o entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal de origem decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 329/345):
+Com o seguimento do trâmite processual, é instaurada controvérsia a respeito da necessidade de perícia contábil, visando apurar a alegada defasagem do preço mínimo das ações estipulado no edital, conforme destacado pelo Ministério Público na origem (mov. 1.14 - 1º Grau):
+ ..
+O contrato de compra e venda das ações do Banco do Estado do Paraná S/A é acostado aos autos pelo Banco Itaú S /A na data de 24/10/2000 indicando o R$ 1.568.376.906,30 (um bilhão, quinhentos e sessenta e oito milhões, trezentos e setenta e seis mil, novecentos e seis reais e trinta centavos (mov. 1.15 - 1º Grau). Na ocasião, o Banestado S/A informa que a venda é efetivada com um ágio de 300% (trezentos por cento) do valor inicialmente previsto.
+Considerando aludida operação, passa a integrar a lide o Banco Itaú S/A, o qual apresenta contestação (mov. 1.16 - 1º Grau).
+Nesta esteira, sopesando a questão controvertida acerca do prejuízo aventado na exordial, o agravado e o Ministério Público do Estado do Paraná pugnam a realização de perícia contábil, no intuito de esclarecer a alegada "inadequação" do preço de venda das ações do BANESTADO.
+O pedido de realização da perícia é indeferido pelo Juízo de 1º Grau, sendo interposto agravo de instrumento, autos nº 481.330-9 pelo Ministério Público (mov. 1.27 - 1º Grau) e proferido o Acórdão, dando provimento ao recurso e determinando a realização da perícia contábil, assim ementado (mov. 1.28 - 1º Grau):
+ ..
+A primeira ação civil pública foi ajuizada pelo Ministério Público do Estado do Paraná e pelo Ministério Público Federal (mov. 167.2 - 1º Grau), a qual resta julgada improcedente (mov. 167.3 - 1º Grau). Por outro lado, os recursos de apelação interpostos pelo Banco Central, União Federal e Banco Banestado S/A, para reconhecer a legalidade da operação foram providos, nos termos do acórdão do Tribunal Regional Federal da 4ª Região nos autos de nº 2001.70.00.000065-1/PR.
+Os pedidos formulados em duas outras ações populares, que versavam sobre a mesma controvérsia, de igual forma foram julgados improcedentes, conforme acórdãos das apelações cíveis nº 2001.70.00.000102-3/PR e 2001.70.00.026083-1/PR do Tribunal Regional Federal da 4ª Região (mov. 167.5 e 167.7 - 1º Grau).
+ ..
+Portanto, a pretensão do agravado está necessariamente vinculada as decisões proferidas pelo Tribunal Pleno do Supremo Tribunal Federal, nos termos do artigo 927, V, do CPC, sob pena inclusive de nulidade de decisão que viesse a ser proferida em sentido contrário, conforme dispõe o artigo 489, §1º, VI, do CPC.
+Logo, aludida circunstância evidencia não subsistir qualquer utilidade no prosseguimento do presente feito, considerando a evidente perspectiva de que a pretensão autoral encontra-se conflitante com o entendimento supervenientemente firmado pelo plenário da mais alta Corte do Poder Judiciário sobre a mesma questão de fundo, ainda que em outro processo.
+ ..
+O interesse de agir estabelece questão de ordem pública, passível de ser conhecida de ofício e em qualquer grau de jurisdição, com fulcro no artigo 485, VI, §3º, do CPC:
+ ..
+Destarte, citado efeito não se restringe ao recurso de apelação, permitindo também que no agravo de instrumento sejam conhecidas questões de ordem pública e, consequentemente, decretada a extinção do processo e de ofício.
+ ..
+Por conseguinte, ainda que o presente recurso refira a agravo de instrumento, interposto em face de decisão interlocutória proferida nos autos de ação popular em fase de instrução, a constatação de que não subsiste qualquer utilidade na continuidade da prestação jurisdicional frente à pretensão formulada pelo agravado, em contraste com superveniente precedente vinculante do Supremo Tribunal Federal, impõe o reconhecimento, de ofício, da perda do interesse de agir e, por conseguinte, a extinção do processo, sem resolução de mérito, com fundamento no artigo 485, VI, do CPC.
+Posto isso, manifesta-se o voto no sentido de conhecer e de ofício extinguir o feito sem resolução de mérito, com fundamento no artigo 485, VI, do CPC, considerando o entendimento superveniente precedente, vinculante do Supremo Tribunal Federal. (Grifos acrescidos).
+Como se vê, contrariamente ao alegado pela parte recorrente, não há nenhuma omissão a ser sanada, já que a Corte de origem enfrentou diretamente as questões relativas à distinção entre o objeto das ações em discussão, bem como a sua implicação em relação aos demais temas debatidos nos autos.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
