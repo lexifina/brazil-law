@@ -1,0 +1,133 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Humberto Martins.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito do consumidor. Recurso especial. Indenização por danos materiais e morais. Vício oculto em aparelho televisor. acórdão extra petita. NÃO OCORRÊNCIA. danos morais. reexame fático-probatório.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul que, em ação de indenização por danos materiais e morais, condenou a requerida ao pagamento de indenização por danos materiais, consistentes nos valores dispendidos com o conserto do produto, mas negou o pedido de indenização por danos morais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve julgamento extra petita ao determinar o ressarcimento ao consumidor do valor referente ao conserto do produto, em vez da devolução do valor pago pelo aparelho televisor.
+III. Razões de decidir
+3. O acórdão recorrido limitou-se aos lindes da controvérsia proposta pela parte autora, respeitando o princípio da congruência, ao interpretar logicamente o pedido feito pelo autor.
+4. Aferir se um determinado bem é de natureza essencial demanda análise fático-probatória, inviável pela presente Corte, ante o óbice oposto pela Súmula n. 7 do STJ.
+5. Não houve negativa de conserto do aparelho pela assistência técnica, não havendo violação do art. 18, § 1º, do CDC, já que não assistia à parte autora a alternatividade ali prevista.
+6. A Corte de origem é soberana na análise d o pleito de indenização por danos morais, sendo seu reexame obstado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+Recurso especial conhecido em parte e, nessa parte, improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por RAFAEL DE AZEVEDO BORGES DA SILVA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 164):
+EMENTA - AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS - CONSERTO DE APARELHO DE TELEVISÃO - OXIDAÇÃO NA PARTE INTERNA - INVERSÃO DO ÔNUS DA PROVA - REQUERIDA NÃO COMPROVOU O MAU USO DO APARELHO PELO AUTOR. VÍCIO OCULTO - RECLAMAÇÃO DO CONSUMIDOR DENTRO DO PRAZO DECADENCIAL DE 90 DIAS. DANO MATERIAL - COMPROVADO. DANO MORAL NÃO CONFIGURADO - MERO DISSABOR. RECURSO PARCIALMENTE PROVIDO. Aplica-se no caso a inversão do ônus da prova, haja vista a verosimilhança das alegações do autor, cabendo à requerida comprovar que o defeito constatado se deu em razão do mau uso pelo consumidor, ora apelante, o que não ocorreu. Não há falar em ausência de cobertura pela garantia do fabricante, pois, tratando-se de vício oculto - oxidação na parte interna de componentes do aparelho - em bem durável - aparelho de televisão, o direito decai em 90 (noventa) dias, iniciando-se a contagem a partir do momento em que evidenciado o defeito, nos termos do artigo 26, II, §3º, do CDC. Considerando o prejuízo suportado pelo autor para o conserto do aparelho de televisão, configurada está a responsabilização da requerida a restituir os valores pagos a título de dano material. Por outro lado, ausente a comprovação de que os fatos transbordam o mero dissabor, não há se falar em condenação por danos morais.
+Rejeitados os embargos de declaração opostos, em acórdão assim ementado (fl. 199):
+EMENTA. DIREITO DO CONSUMIDOR. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. VÍCIO NÃO VERIFICADO. REDISCUSSÃO DA MATÉRIA RECURSO DESPROVIDO. I. CASO EM EXAME 1. Embargos de declaração em apelação cível contra acórdão da 3ª Câmara Cível deste Tribunal. II. QUESTÃO EM DISCUSSÃO 2. Verificar (i) se houve julgamento extra petita ao determinar o ressarcimento ao consumidor do valor referente ao conserto do produto III. RAZÕES DE DECIDIR 3. Os embargos de declaração se prestam a aperfeiçoar o julgado e afastar os vícios de omissão, contradição, obscuridade ou erro material porventura existentes. 4. No caso, ausente as omissão e contradição apontadas, pois houve a análise suficiente das matérias alegadas nas razões recursais. Ressalta-se que os embargos de declaração não podem ser utilizados para a rediscussão de matéria. IV. DISPOSITIVO 4. Recurso conhecido desprovido. -- Dispositivos relevantes citados: CPC/2015, art. 937, 1.022; CDC/1990, art. 18. Jurisprudência relevante citada: TJMS. Embargos de Declaração Cível n. 1411749-53.2022.8.12.0000, Campo Grande, 3ª Câmara Cível, Relator (a): Des. Marco André Nogueira Hanson, j: 15/02/2023, p: 17/02/2023; TJMS. Embargos de Declaração Cível n. 0800676-68.2021.8.12.0033, Eldorado, 3ª Câmara Cível, Relator (a): Des. Paulo Alberto de Oliveira, j: 15/02/2023, p: 17/02/2023.
+A parte recorrente alega, preliminarmente, ofensa aos arts. 141, 492 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial, a ocorrência de julgamento extra petita.
+No mérito, sustenta que o acórdão estadual contrariou as disposições contidas nos arts. 18, § 1º, inciso II, do CDC e 186 e 927 do CC, apontando divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Afirma, em síntese, que (fls. 209-222):
+A pretensão da parte recorrente era a restituição do valor pago no aparelho de TV, conforme constou dos pedidos iniciais (fl. 8), e especialmente ao final da fl. 5:
+(..) Entretanto, decidindo à margem do formulado pelo recorrente, o Tribunal de origem determinou a restituição do valor relativo ao conserto (fl. 175):
+(..) Ao decidir dessa forma, o órgão julgador a quo concedeu providência jurisdicional diversa daquela pleiteada, violando o princípio da congruência, nos termos dos arts. 141 e 492 do CPC.
+(..) Ora, a regra destacada acima pelo julgador prevê justamente a escolha pelo consumidor da solução mais adequada, tendo nesse sentido optado o recorrente pela devolução do valor integral pago na TV. 29. Como se vê, a decisão veiculada no acórdão recorrido retirou do recorrente a escolha que lhe é facultada pelo CDC, incidindo em desrespeito direto ao art. 18, § 1º, do referido codex, o que exige a devida reforma. " (fl. ).
+(..) O acórdão paradigma, acertadamente, acolheu o pedido da recorrente para ver reconhecido o direito ao recebimento de indenização por danos morais decorrente da inércia da fabricante do aparelho de TV para solucionar o problema e da frustração por não poder utiliza-lo há mais de ano para o fim devido, entendendo aquele Tribunal não se tratar tais fatos meros aborrecimentos ou simples inadimplemento contratual, ao contrário do entendimento exposto pelo Tribunal a quo.
+Apresentadas as contrarrazões (fls. 244-250), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 252-254).
+Interposto agravo em recurso especial (fls. 256-262), com contraminuta juntada (fls. 269-271), determinei sua conversão em recurso especial.
+É, no essencial, o relatório.
+EMENTA
+Direito do consumidor. Recurso especial. Indenização por danos materiais e morais. Vício oculto em aparelho televisor. acórdão extra petita. NÃO OCORRÊNCIA. danos morais. reexame fático-probatório.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul que, em ação de indenização por danos materiais e morais, condenou a requerida ao pagamento de indenização por danos materiais, consistentes nos valores dispendidos com o conserto do produto, mas negou o pedido de indenização por danos morais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve julgamento extra petita ao determinar o ressarcimento ao consumidor do valor referente ao conserto do produto, em vez da devolução do valor pago pelo aparelho televisor.
+III. Razões de decidir
+3. O acórdão recorrido limitou-se aos lindes da controvérsia proposta pela parte autora, respeitando o princípio da congruência, ao interpretar logicamente o pedido feito pelo autor.
+4. Aferir se um determinado bem é de natureza essencial demanda análise fático-probatória, inviável pela presente Corte, ante o óbice oposto pela Súmula n. 7 do STJ.
+5. Não houve negativa de conserto do aparelho pela assistência técnica, não havendo violação do art. 18, § 1º, do CDC, já que não assistia à parte autora a alternatividade ali prevista.
+6. A Corte de origem é soberana na análise d o pleito de indenização por danos morais, sendo seu reexame obstado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+Recurso especial conhecido em parte e, nessa parte, improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+I. O caso em discussão
+Cuida-se de recurso especial proveniente de ação de indenização por danos materiais e morais, em decorrência de vício oculto existente em aparelho televisor, que deixou de funcionar pouco depois de dois anos de sua compra. Em primeira instância, o pedido foi julgado improcedente e, interposta apelação, o Tribunal local deu parcial provimento ao recurso do autor, ora recorrente, condenado a requerida ao pagamento de indenização por danos materiais, consistentes nos valores dispendidos com o conserto do produto.
+II. Questão em discussão no recurso especial
+Preliminarmente, o recorrente sustenta violação do disposto nos arts. 141, 492 e 1.022, todos do CPC, já que, em sua peça inaugural, teria querido devolução dos valores dispendidos com a compra do aparelho televisor danificado e não dos valores para o seu conserto, concluindo que o acórdão recorrido carreou julgamento extra petita.
+Acerca do tema julgamento extra petita, recentemente, esta Corte entendeu que:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. SÚMULA N. 83/STJ. CAPITALIZAÇÃO DIÁRIA DE JUROS. AUSÊNCIA DE INDICAÇÃO DA TAXA DE JUROS DIÁRIA. VIOLAÇÃO DO DEVER DE INFORMAÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DESCARACTERIZAÇÃO DA MORA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Não há julgamento extra, infra ou ultra petita quando o órgão julgador decide, a partir de uma interpretação lógico-sistemática dos pedidos, dentro dos limites objetivos da pretensão inicial, respeitando o princípio da congruência. Na espécie, o Tribunal a quo declarou abusiva a cobrança da comissão de permanência, acolhendo pedido expresso da parte autora (AgInt no REsp n. 1.329.383/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022).
+3. Nos termos da jurisprudência do STJ, é possível a cobrança de capitalização diária de juros em contratos bancários, sendo necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato, porquanto a mera informação acerca da capitalização diária, sem indicação da respectiva taxa, retira do consumidor a possibilidade de estimar previamente a evolução da dívida e de aferir a equivalência entre a taxa diária e as taxas efetivas mensal e anual, situação que configura descumprimento do dever de informação, nos termos da norma do art. 46 do CDC. Incidência da Súmula n. 83/STJ.
+4. Modificar o entendimento do tribunal local sobre a existência da periodicidade e da taxa diária no contrato, demandaria a reavaliação do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial, em face das Súmulas n. 5 e 7 do STJ.
+5. O reconhecimento da ilegalidade da capitalização dos juros cobrada descaracteriza a mora. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.673.180/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.) (Grifou-se.)
+No caso dos autos, o acórdão recorrido assim se manifestou sobre o pedido de indenização por danos materiais (fl. 173):
+Consta nos autos que o aparelho de televisão do autor, com menos de dois anos de uso, apresentou defeito, cujo valor do conserto foi orçado em R$ 2.600,00 (f. 18).
+Nesse ponto, apesar de o autor não comprovar que efetivamente realizou o conserto do aparelho, é certo que para recuperar o bem terá que dispender valores e, portanto, sofrerá prejuízos, que devem ser ressarcidos no montante do valor do orçamento realizado, de R$ 2.600,00 (dois mil e seiscentos reais).
+Em embargos de declaração, a Corte de origem também se manifestou sobre o ponto no seguinte sentido (fls. 204-206):
+Na hipótese, o embargante alega ocorrência de julgamento extra-petita, na medida em que requereu o recebimento de produto novo, ao passo que o acórdão determinou o ressarcimento do valor indicado no orçamento apresentado.
+Não verifico o vício alegado.
+O artigo 18 do Código de Defesa do Consumidor estabelece que:
+Art. 18. Os fornecedores de produtos de consumo duráveis ou não duráveis respondem solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou inadequados ao consumo a que se destinam ou lhes diminuam o valor, assim como por aqueles decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem, rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua natureza, podendo o consumidor exigir a substituição das partes viciadas.
+§ 1º Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor exigir, alternativamente e à sua escolha:
+I - a substituição do produto por outro da mesma espécie, em perfeitas condições de uso;
+II - a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos;
+III - o abatimento proporcional do preço.
+§ 2º Poderão as partes convencionar a redução ou ampliação do prazo previsto no parágrafo anterior, não podendo ser inferior a sete nem superior a cento e oitenta dias. Nos contratos de adesão, a cláusula de prazo deverá ser convencionada em separado, por meio de manifestação expressa do consumidor.
+§ 3º O consumidor poderá fazer uso imediato das alternativas do § 1º deste artigo sempre que, em razão da extensão do vício, a substituição das partes viciadas puder comprometer a qualidade ou características do produto, diminuir-lhe o valor ou se tratar de produto essencial.
+Da leitura do §1º do artigo 18, vê-se que, primeiramente, o fornecedor deverá sanar o vício, no prazo de 30 dias e, apenas no caso de o vício não ser sanado no prazo estabelecido pelo fornecedor, o consumidor poderá exigir as opções previstas nos incisos.
+Além disso, apesar do embargante invocar, na hipótese, a aplicação do §3º do artigo 18, do CDC, ao afirmar que "o conserto de aparelho de alto valor agregado que, com menos de 2 anos de uso apresentou defeito de grande extensão e monta, requerendo a troca da tela inteira ao custo de 60% do valor pago na TV nova" (f. 03), o autor não trouxe comprovação de que com a troca das peças defeituosas haveria o comprometimento da qualidade do produto ou a diminuição de seu valor.
+Ainda, ressalta-se que o aparelho televisão, pela sua natureza não se enquadra no critério de "produto essencial".
+Portanto, não preenchidos os requisitos previstos no §3º, do artigo 18 do CDC, aplica-se a regra, prevista no §1º do referido dispositivo normativo.
+O que se depreende, portanto, ao analisar os fundamentos do acórdão recorrido, é que a concessão de indenização por danos materiais em valor distinto do requerido em sede inicial decorre de interpretação lógica dada ao pedido feito pelo autor.
+Não tendo o tribunal estadual constatado que o bem em questão é de natureza essencial, aplicou à espécie regra constante do art. 18, § 1º, do CDC, acolhendo a pretensão autoral em parte.
+Portanto, o acórdão recorrido, no que diz respeito aos arts. 141, 492 e 1.022 do CPC, limitou-se aos lindes da controvérsia proposta pela parte autora, bem como aos pedidos firmados por ela em sede inaugural, assim respeitado o princípio da congruência e o entendimento jurisprudencial esposado por esta Corte, tendo sido examinados todos os pontos objeto de embargos de declaração pela parte autora, ora recorrente.
+No mais, modificar as conclusões obtidas pelo tribunal estadual no ponto implicaria reexame fático- probatório, o que é vedado ao STJ, nos termos de sua Súmula n. 7. Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. ARBITRAMENTO DE HONORÁRIOS. PRESCRIÇÃO. TERMO INICIAL. REVOGAÇÃO DO MANDATO. INCIDÊNCIA DA SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não ocorre a alegada violação dos arts. 489 e 1.022 do CPC, visto que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+2. O Tribunal de origem adotou a jurisprudência pacífica desta Corte no sentido de que "a contagem do prazo prescricional a que se refere o artigo 25, inciso V, da Lei nº 8.906/1994 se inicia na data em que ocorre a ciência da renúncia ou revogação do mandato ou o término da prestação dos serviços" (AgInt no AREsp n. 1.406.447/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/6/2020, DJe de 1º/7/2020). Precedentes.
+3. Rever os fundamentos do acórdão recorrido para analisar a alegação de que a decisão é extra petita importa necessariamente no reexame de fatos e provas, o que é vedado nesta fase recursal e enseja a incidência da Súmula n. 7/STJ.
+4. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Precedentes.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.488.617/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/11/2024, DJEN de 2/12/2024, grifou-se.)
+Assim, no ponto, não conheço do recurso especial.
+A parte recorrente aduz, ainda, que o acórdão recorrido teria violado o disposto no art. 18, § 1º, inciso II, do CDC. Afirma que aparelho televisor é bem essencial, condizente com o disposto no § 3º do art. 18 do CDC e que, constatada a ocorrência de vício oculto, nos termos do art. 18, § 1º, do CDC, a ele incumbiria optar pelo ressarcimento do bem, não cabendo ao juízo deferir-lhe pedido diverso do realizado em sede inaugural.
+Aferir se um determinado bem é de natureza essencial é tema que demanda análise fático-probatória, inviável pela presente Corte, ante o óbice oposto pela Súmula n. 7 do STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. PERMANÊNCIA NA POSSE DA RECUPERANDA. SÚMULA N. 7/STJ.
+1. Ainda que os créditos garantidos fiduciariamente não se sujeitem aos efeitos da recuperação judicial, não se admite a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial.
+2. Assentada a natureza essencial à recuperação judicial dos bens de capital alienados fiduciariamente, a pretensão da agravante encontra óbice na Súmula n. 7/STJ, visto que a revisão da matéria implica o imprescindível reexame das provas constantes dos autos.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.132.917/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+Ademais, não se verifica violação do disposto no art. 18, § 1º, do CDC por parte do aresto recorrido, visto que, como por ele analisado, não houve o transcurso do prazo de 30 (trinta) dias para que o vício fosse sanado e assim a parte autora, ora recorrente, pudesse, então, requerer uma das alternativas a ela concedidas pelo referido dispositivo legal:
+Da leitura do §1º do artigo 18, vê-se que, primeiramente, o fornecedor deverá sanar o vício, no prazo de 30 dias e, apenas no caso de o vício não ser sanado no prazo estabelecido pelo fornecedor, o consumidor poderá exigir as opções previstas nos incisos (fl. 205).
+Veja-se que, no próprio recurso aviado a parte autora, ora recorrente, confirma que não pretendeu o conserto do aparelho (fl. 212):
+Encaminhado à assistência técnica autorizada, foi emitido orçamento no valor de R$ 2.600,00 para a substituição integral da tela. 13.
+O recorrente, contudo, não autorizou a realização do serviço e contactou a LG, obtendo como resposta que o aparelho encontrava-se fora do prazo de garantia, razão pela qual o custo do reparo deveria ser integralmente suportado por ele. (Grifou-se.)
+Assim, se não houve negativa de conserto do aparelho pela assistência técnica, não há que se falar em violação do art. 18, § 1º, por parte do acórdão recorrido, já que não assistia à parte autora, ora recorrente, a alternatividade ali prevista.
+Logo, no ponto, conheço do recurso recorrido, mas, nesse aspecto, nego-lhe provimento.
+Por fim, a parte recorrente aduz violação do disposto nos arts. 186 e 927 do Código Civil, além de dissídio jurisprudencial, no que diz respeito ao pedido de indenização por danos morais por ela formulado, em decorrência da ausência de reparação de seu aparelho televisor, considerado por ele, bem essencial.
+Como já salientado ao longo do presente voto, constatar se o aparelho televisor é bem essencial é matéria que depende de análise fático-probatória, que escapa das competências desta Corte, encontrando óbice na Súmula n.7 do STJ.
+No mais, quanto ao pleito de indenização por danos morais, a corte de origem é soberana na sua análise, já que a ela incumbe verificar a ocorrência de violação a direito da personalidade que justifique sua incidência, de maneira que, seu reexame por esta Corte esta obstado pela Súmula n. do STJ, como se pode observar dos julgados a seguir ementados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. 1. VÍCIO OCULTO. AUSÊNCIA DE COMPROVAÇÃO. DANOS MORAIS E MATERIAIS. REVER O QUADRO FÁTICO TRAÇADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível alterar a conclusão assentada pelo Tribunal local com base na análise das provas nos autos, ante o óbice do enunciado n. 7 da Súmula do STJ.
+2. Na hipótese, o Tribunal de origem, soberano no exame do acervo fático-probatório dos autos, afirmou de forma categórica que não foi comprovado o vício no produto, a ensejar a responsabilização por danos materiais e morais. Rever essa conclusão, neste caso, é impossível ante o óbice do enunciado de súmula supramencionado.
+3. O dispositivo legal indicado (art. 333, II, do CPC) não foi debatido pelo Tribunal de origem, obstando o conhecimento do recurso especial pela ausência de prequestionamento. Aplicação do enunciado 282 da Súmula do STF.
+4. Dessa forma, não tendo a matéria, inversão do ônus da prova, relacionada ao artigo apontado como violado sido enfrentada pelo acórdão recorrido, obsta o conhecimento do recurso especial.
+5. Se os embargos declaratórios não tiveram o condão de suprir o devido prequestionamento, deve a parte suscitar violação do art. 535 do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado, e não interpor recurso contra questão federal não prequestionada, como ocorreu na espécie.
+Incidência do enunciado n. 211 da Súmula desta Corte.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 773.615/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/11/2015, DJe de 10/12/2015.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO INDENIZATÓRIO. COMPRA E VENDA DE VEÍCULO. VÍCIOS OCULTOS. FUNDAMENTAÇÃO SUCINTA. OMISSÃO. INEXISTÊNCIA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. VÍCIOS OCULTOS. DANOS MORAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. VALOR INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação.
+2. O Tribunal estadual assentou que a grande maioria dos vícios decorreu de abalroamento anterior à compra do veículo, os vícios não foram reparados e o dano moral estaria evidenciado, tendo em vista a essencialidade do bem para o labor do adquirente. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+3. Apenas pode ser revista indenização por danos morais quando o valor for manifestamente exorbitante ou irrisório.
+4. A alegação de ofensa ao art. 1.022 do NCPC deve ser acompanhada da expressa indicação das teses omitidas, contraditórias ou obscuras, bem como de sua relevância para o deslinde da controvérsia.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.245.191/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.) (Grifou-se.)
+Dessa forma, não conheço do recurso especial nesse ponto.
+III. Do dispositivo
+Ante o exposto, conheço em parte do recurso especial interposto e, nessa parte, nego-lhe provimento.
+IV. Dos honorários recursais
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+É como penso. É como voto.
