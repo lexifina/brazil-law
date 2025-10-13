@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RESTITUIÇÃO DE VALORES PAGOS INDEVIDAMENTE. FUNDAMENTAÇÃO BASEADA EM ENRIQUECIMENTO SEM CAUSA. PRESCRIÇÃO TRIENAL (ART. 206, § 3º, IV, DO CC). ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO FUNDAMENTADA. CONFUSÃO COM JULGAMENTO DESFAVORÁVEL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS (ART. 85, § 11, DO CPC).
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação de cobrança ajuizada pela previ para restituição de valores pagos indevidamente ao espólio, com alegações de violação aos arts. 1.022, incisos I e II, 188, 227, 985 e 986 do CPC, e ao art. 206, § 5º, inciso I, do CC.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia reside na adequação da ação de cobrança versus enriquecimento sem causa, no prazo prescricional aplicável (quinquenal ou trienal), na existência de omissão no acórdão recorrido configurando negativa de prestação jurisdicional, e na possibilidade de reexame fático-probatório.
+III. RAZÕES DE DECIDIR
+3. Inexistência de violação ao art. 1.022 do CPC, pois o acórdão recorrido se manifestou de forma fundamentada sobre as questões suscitadas, não confundindo decisão desfavorável com negativa de prestação jurisdicional, conforme jurisprudência do STJ.
+4. A pretensão da autora fundamenta-se em enriquecimento sem causa (art. 884 do CC), atraindo a prescrição trienal do art. 206, § 3º, inciso iv, do CC, tendo transcorrido o prazo desde o falecimento em 2018 ou conhecimento em 2019, até o ajuizamento em 2024.
+5. Infirmar a conclusão do tribunal de origem demandaria reexame de fatos e provas, vedado pela súmula 7 do STJ.
+IV - DISPOSITIVO
+6. Não se conhece do agravo em recurso especial. Majoração dos honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários a o conhecimento e provimento. Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 1.022, incisos I e II, 188, 227, 985 e 986 do Código de Processo Civil, bem como o art. 206, § 5º, inciso I, do Código Civil.
+Quanto à suposta ofensa ao art. 1.022, sustenta que o Tribunal de origem não teria se manifestado suficientemente sobre as questões suscitadas, configurando negativa de prestação jurisdicional. Argumenta que a referência ao dispositivo teve como única finalidade resguardar o prequestionamento ficto, conforme o art. 1.025 do CPC.
+Argumenta, também, que os arts. 188 e 227 do CPC foram violados, pois a PREVI possui autonomia para escolher a ação adequada à cobrança do devedor, sendo a ação de cobrança o meio correto para pleitear a devolução dos valores pagos indevidamente.
+Além disso, teria violado o art. 206, § 5º, inciso I, do Código Civil, ao não reconhecer que o prazo prescricional aplicável seria o quinquenal, e não o trienal, como decidido. Alega que a ação de cobrança é o meio adequado para a restituição dos valores, afastando a aplicação da prescrição trienal do art. 206, § 3º, IV, do Código Civil.
+Haveria, por fim, violação aos arts. 985 e 986 do CPC, uma vez que o Tribunal de origem teria desconsiderado a possibilidade jurídica da via eleita pela parte autora, que seria a ação de cobrança.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada pugnou pelo conhecimento do agravo para, no mérito, ser negado o provimento (e-STJ fl. 363-368).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RESTITUIÇÃO DE VALORES PAGOS INDEVIDAMENTE. FUNDAMENTAÇÃO BASEADA EM ENRIQUECIMENTO SEM CAUSA. PRESCRIÇÃO TRIENAL (ART. 206, § 3º, IV, DO CC). ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO FUNDAMENTADA. CONFUSÃO COM JULGAMENTO DESFAVORÁVEL. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO. MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS (ART. 85, § 11, DO CPC).
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial, em ação de cobrança ajuizada pela previ para restituição de valores pagos indevidamente ao espólio, com alegações de violação aos arts. 1.022, incisos I e II, 188, 227, 985 e 986 do CPC, e ao art. 206, § 5º, inciso I, do CC.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia reside na adequação da ação de cobrança versus enriquecimento sem causa, no prazo prescricional aplicável (quinquenal ou trienal), na existência de omissão no acórdão recorrido configurando negativa de prestação jurisdicional, e na possibilidade de reexame fático-probatório.
+III. RAZÕES DE DECIDIR
+3. Inexistência de violação ao art. 1.022 do CPC, pois o acórdão recorrido se manifestou de forma fundamentada sobre as questões suscitadas, não confundindo decisão desfavorável com negativa de prestação jurisdicional, conforme jurisprudência do STJ.
+4. A pretensão da autora fundamenta-se em enriquecimento sem causa (art. 884 do CC), atraindo a prescrição trienal do art. 206, § 3º, inciso iv, do CC, tendo transcorrido o prazo desde o falecimento em 2018 ou conhecimento em 2019, até o ajuizamento em 2024.
+5. Infirmar a conclusão do tribunal de origem demandaria reexame de fatos e provas, vedado pela súmula 7 do STJ.
+IV - DISPOSITIVO
+6. Não se conhece do agravo em recurso especial. Majoração dos honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+ ..  O recurso é tempestivo, regular o preparo, as partes são legítimas e está presente o interesse em recorrer.
+Passo ao exame dos pressupostos constitucionais de admissibilidade.
+O recurso especial não merece ser admitido no que tange à suposta afronta ao artigo 1.022, incisos I e II, do CPC, porque de acordo com o entendimento jurisprudencial pacífico da Corte Superior, "Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável "ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional (AREsp n. 2.397.496/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/11/2024, DJe de 11/12/2024).
+Melhor sorte não colhe o apelo no tocante à mencionada contrariedade aos artigos 188, 227, 985 e 986, todos do CPC e 206, §5º, inciso I, do CCB. Isso porque o órgão julgador, após detida análise do contexto fático-probatório dos autos, assentou que (ID 69648403):
+(..) Do acima exposto, reputo hígida a r. sentença monocrática, não havendo motivos para sua reforma, razão pela qual integro-a nas razões de decidir. Isso porque, ao contrário da tese defendida, não há dúvidas de que a parte autora, ora recorrente, lastreou o pedido de restituição dos valores indevidamente vertidos em favor do espólio de MARIA DE LOURDES, com base no enriquecimento sem causa de seus herdeiros. Nesse sentido, confira-se a fundamentação empregada na peça vestibular de ID nº 65504299: (..). Assim, resta claro que a pretensão da parte autora não está lastreada em cobrança de dívida líquida constante de instrumento público ou particular, mas, sim, nos termos do art. 884 do CC, na restituição dos valores indevidamente auferidos pelo espólio réu, notadamente em razão da vedação ao enriquecimento sem causa. Dito isso, verifica-se que a pretensão da autora restou fulminada pela prescrição trienal prevista no inciso IV do § 3º do art. 206 do CC. Tal apreensão se dá pelo fato de que a demanda foi ajuizada em 17/01/2024, quando transcorrido (e muito) o prazo prescricional de 03 (três) anos, seja contado a partir do falecimento de MARIA DE LOURDES, ocorrido em 12/11/2018, seja contado da data de conhecimento da ilicitude, ocorrida em janeiro/2019, quando soube do cancelamento do CPF de Maria de Lourdes. Assim, é medida que se impõe a manutenção do r. julgado vergastado.
+Nesse passo, infirmar fundamentos dessa natureza, como pretende a parte recorrente, é providência que encontra óbice no enunciado 7 da Súmula do STJ.  ..
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que as questões suscitadas já foram enfrentadas pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+No que tange à alegação de afronta aos artigos 1.022, por não ter o Tribunal de origem se manifestado de forma suficiente sobre as questões suscitadas, configurando negativa de prestação jurisdicional, razão não assiste à agravante.
+O acórdão combatido traz em seu bojo a seguinte fundamentação:
+ ..  ao contrário da tese defendida, não há dúvidas de que a parte autora, ora recorrente, lastreou o pedido de restituição dos valores indevidamente vertidos em favor do espólio de MARIA DE LOURDES, com base no enriquecimento sem causa de seus herdeiros.  ..  Assim, resta claro que a pretensão da parte autora não está lastreada em cobrança de dívida líquida constante de instrumento público ou particular, mas, sim, nos termos do art. 884 do CC, na restituição dos valores indevidamente auferidos pelo espólio réu, notadamente em razão da vedação ao enriquecimento sem causa.
+Dito isso, verifica-se que a pretensão da autora restou fulminada pela prescrição trienal prevista no inciso IV do § 3º do art. 206 do CC.
+Tal apreensão se dá pelo fato de que a demanda foi ajuizada em 17/01/2024 quando transcorrido (e muito) o prazo prescricional de 03 (três) anos, seja contado a partir do falecimento de MARIA DE LOURDES, ocorrido em 12/11/2018, seja contado da data de conhecimento da ilicitude, ocorrida em janeiro/2019, quando soube do cancelamento do CPF de Maria de Lourdes.
+Compulsando os autos, percebe-se que a Corte de origem analisou e rebateu os argumentos levantados, sendo certo que a ausência de menção a um ou outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+Além disso, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+No presente caso, a decisão combatida destacou que o Tribunal de origem concluiu que a pretensão da autora estava fundamentada no enriquecimento sem causa, atraindo o prazo prescricional trienal do artigo 206, § 3º, IV, do Código Civil e infirmar essa conclusão demandaria reexame de fatos e provas, o que é vedado pela Súmula 7 do STJ (e-STJ fls. 337-338).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PRETENSÃO INDENIZATÓRIA FUNDADA EM ENRIQUECIMENTO SEM CAUSA. PRAZO TRIENAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal estadual julgou a lide em conformidade com a orientação jurisprudencial segundo a qual a pretensão de ressarcimento assentada no princípio da vedação do enriquecimento sem causa atrai a incidência da prescrição trienal. Incidência da Súmula 83/STJ.
+2. Para alterar a convicção da Turma julgadora quanto ao não enquadramento na hipótese de enriquecimento sem causa, seria necessário o reexame do conjunto fático-probatório, providência vedada no âmbito do recurso especial, consoante o teor da Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.718.587/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro o percentual de honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
