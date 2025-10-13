@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. CARÁTER PROTELATÓRIO. MULTA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente a inviabilidade do presente pleito, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o aresto impugnado de maneira tecnicamente inadequada.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BERNARDO MAZZUTTI ao acórdão de e-STJ fls. 1.627/1.629 que rejeitou os embargos declaratórios anteriores.
+Em suas razões, o embargante alega a existência de omissão e de contradição, bem como repisa as razões do recurso especial.
+Aduz, além de divergência jurisprudencial, violação dos arts. 357, II, 370, 371, 480, 489, § 1º, inciso IV, 731, 734, 735, 938, § 3º, 1.022, inciso II, e 1.026, § 2º, todos do CPC. Requer o acolhimento dos declaratórios e o provimento do recurso especial.
+Impugnação às e-STJ fls. 1.599/1.605.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. CARÁTER PROTELATÓRIO. MULTA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente a inviabilidade do presente pleito, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o aresto impugnado de maneira tecnicamente inadequada.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Conforme consta do julgado ora embargado, a negativa de prestação jurisdicional deve ser afastada, pois o órgão colegiado se pronunciou acerca dos pontos levantados pelo recorrente, os quais entendeu relevantes para a solução da controvérsia, afastando os argumentos que poderiam infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas pela parte não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema nº 339/STF).
+Não há obrigação de o órgão judicante se pronunciar especificamente sobre todos os pontos, tese ou alegação suscitados pelos litigantes. Na técnica da decisão judicial, é usual o fato de que o acolhimento ou a refutação de determinado argumento torne prejudicado ou exclua, logicamente, a análise dos demais, por restarem incompatíveis com a decisão ou simplesmente por não terem sido acolhidos pelo julgador.
+Disso se conclui que a motivação contrária aos interesses da parte ou a superação de argumentos considerados irrelevantes para a solução do caso não autoriza o acolhimento dos declaratórios.
+Conforme assentado no aresto combatido, em relação à preliminar de alegada intempestividade da contestação apresentada pela embargada no juízo de primeira instância, haja vista que teria havido o comparecimento espontâneo e o causídico teria poderes para receber citação, tal argumento foi afastado com amparo em fundamento que se encontra alinhado à jurisprudência do STJ. Ver, por todos, os EREsp 1.709.915/CE, relator Ministro Og Fernandes, Corte Especial, DJe de 9/8/2018.
+Também é improcedente o argumento quanto aos sustentados cerceamento de defesa em razão do julgamento antecipado da lide, vício no despacho saneador e necessidade de produção de provas, vez que as instâncias ordinárias teriam deixado de apreciar os elementos constantes dos autos.
+Esta Corte Superior entende que a arguição de nulidade pode ser afastada, pois não há cerceamento de defesa no julgamento antecipado da lide quando a instância de origem entende que o feito está suficientemente instruído e indefere a produção de provas adicionais, por serem desnecessárias ou por se tratar de matérias já comprovadas documentalmente (vide o Tema Repetitivo 437 /STJ: "Não configura cerceamento de defesa o julgamento antecipado da lide, ante os elementos documentais suficientes para a apreciação da controvérsia").
+Além disso, não merece acolhida a alegação de vício no despacho saneador. A jurisprudência reiterada do STJ entende que " a  falta de despacho saneador não constitui fundamento, por si só, para justificar a nulidade do julgamento antecipado da lide quando presentes elementos probatórios suficientes para a apreciação da controvérsia" (AgInt no AREsp 2.559.897/PI, relator Ministro Marco Aurélio Bellizze, Segunda Turma; AgInt nos EDcl no AREsp 2.490.098/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, e AgInt no AREsp 1.779.513/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma).
+No que toca à dita inobservância do ato regulamentar expedido pelo Ministério da Agricultura, registre-se a impossibilidade de conhecimento da insurgência quanto à indicada norma. Isso porque
+" a  jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o conceito de tratado ou Lei Federal, previstos no art. 105, III, a, da Constituição Federal, devem ser considerados em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos" (AgInt no REsp 1.864.009/CE, relator Ministro Francisco Falcão, DJe de 2/12/2020).
+Por fim, o recurso não merece ser conhecido no que tange à alegada divergência jurisprudencial, haja vista que não houve a realização do devido cotejo analítico entre os arestos confrontados, restando desatendidas as exigências legais estatuídas pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o seu intuito infringente, que visa a reforma da decisão de maneira tecnicamente inadequada.
+Ante o exposto, rejeito os embargos de declaração e, dado o seu caráter protelatório, aplico multa ao embargante no valor de 1% sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do CPC.
+É o voto.
