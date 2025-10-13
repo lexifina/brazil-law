@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial .
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo e tese
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 910-926) interposto contra decisão desta relatoria, que negou provimento a agravo em recurso especial.
+Em suas razões, a parte agravante insiste na alegação de omissão do Tribunal de origem no exame da ilegitimidade ativa, a distribuição do ônus sucumbenciais, o termo inicial e final para a incidência das diárias.
+Reitera argumentos do especial e refuta a aplicação da Súmula n. 7 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (fls. 929-932).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial .
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+III. Dispositivo e tese
+5. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 901-906):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial porque não demonstrada ofensa aos arts. 489 e 1.022 do CPC/2015 e em razão da Súmula 7 do STJ (fls. 830-835).
+O acórdão recorrido encontra-se assim ementado (fl. 721):
+APELAÇÃO CÍVEL. VEÍCULO ACAUTELADO PÁTIO LEGAL. COBRANÇA DIÁRIAS. LEGITIMIDADE PASSIVA CREDOR FIDUCIÁRIO. REGULARIDADE NOTIFICAÇÃO. EDITAL DESNECESSÁRIO. LIMITAÇÃO PERÍODO DAS DIÁRIAS A FIM DE EVITAR QUE A COBRANÇA SE TRANSFORME EM VERDADEIRO CONFISCO DO BEM. No caso dos autos, o veículo acautelado no pátio administrado pela autora foi objeto de contrato de alienação fiduciária firmado pela ré. Como cediço, no contrato de alienação fiduciária em garantia, o devedor tem a propriedade sob condição suspensiva, enquanto o alienante tem sob condição resolutiva. O que importa reconhecer é que este último detém a propriedade do bem. Nesse cenário, mantendo a ré/apelante o domínio do bem e, portanto, a propriedade resolúvel, deve ser a responsável pelo pagamento de despesas referentes à estadia do veículo apreendido, em razão da natureza propter rem da referida obrigação de pagamento. Entendimento jurisprudencial assente desta Corte no sentido de que somente se faz necessária a publicação do edital previsto no art. 4º da Lei 6575/78, quando restar negativa a notificação postal prevista em seu art. 3º, o que não é o caso dos autos. Infundada a pretensão de limitação das diárias ao período de trinta dias, por aplicação analógica do disposto no art. 262 do CTB, visto que a referida norma tem incidência para a hipótese de apreensão do veículo decorrente de aplicação de sanção administrativa, o que não é a hipótese dos autos, que trata de veículo recuperado por ter sido objeto de ilícito penal. Apesar disso, demonstrou-se nos autos a necessidade de limitação das diárias, de modo a evitar que a cobrança se transforme em verdadeiro confisco do bem. Destarte, perfeitamente aplicável ao caso em testilha a limitação temporal de cobrança ao período de seis meses prevista no artigo 328, § 5º, do CTB, já que a regra se aplica aos veículos apreendidos ou removidos a qualquer título. A interpretação sistemática do Código de Trânsito Brasileiro permite concluir que a mens legis no caso é a proteção do proprietário do veículo contra taxação indefinida e ilimitada, em prestígio ao princípio do não-confisco, eis que, na ausência de limitação, o valor das diárias poderia superar o valor do bem acautelado, configurando enriquecimento sem causa do acautelador do veículo. RECURSO PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados (fls. 776-782).
+Nas razões do recurso especial (fls. 784-805), interposto com fundamento no art. 105, III, alínea "a", da CF, a parte recorrente aponta violação dos arts. 489, § 1º, III e IV, e 1.022, parágrafo único, II, do CPC/2015.
+Afirma que houve omissão do Tribunal de origem em analisar sua ilegitimidade passiva "para ser demandado quanto ao pagamento das diárias pelo acautelamento do veículo, principalmente pelo fato de que não houve a consolidação da propriedade do veículo em favor do recorrente, na medida em que o veículo foi encaminhado para o pátio administrado pelo Consórcio Cevera antes de ser efetivada a citação do devedor fiduciante na ação de busca e apreensão, o que resultou na extinção dessa demanda" (fl. 791). Alega que não foi esclarecido o marco temporal a partir do qual teria responsabilidade pelo pagamento das diárias.
+Indica também omissão quanto à distribuição dos ônus sucumbenciais, alegando que deve ser considerado, no mínimo, que houve sucumbência recíproca, permitindo-se a compensação nos termos do art. 21 do CPC/1973.
+Suscita contrariedade aos arts. 1.196, 1.204, 1.361 e 1.368-B, parágrafo único, do CC/2002. Defende que "o credor fiduciário, in casu, o Santander, somente passa a responder pelos débitos relacionados ao bem alienado - ainda que de natureza propter rem - a partir do momento em que se torna o seu proprietário pleno, mediante a consolidação da propriedade em seu favor" (fl. 795).
+Aponta ofensa ao art. 328, § 5º, do Código de Trânsito Brasileiro argumentando que, apesar de o Tribunal de origem ter limitado o prazo máximo para cobrança de diárias pelo acautelamento dos veículo em seis meses, não indicou como termo inicial para referida contagem a data do acautelamento do veículo.
+Suscita negativa de vigência ao art. 21, parágrafo único, do CPC/1973, defendendo que, diante do parcial provimento da apelação para liminar a cobrança das diárias ao período de seis meses, é caso de se reconhecer, ao menos, a sucumbência recíproca, pois a outra parte decaiu de boa parte de seus pedidos.
+No agravo (fls. 853-857), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 868-873).
+É o relatório.
+Decido.
+Na origem, a ora recorrida ajuizou ação de obrigação de fazer cumulada com cobrança contra o recorrente, para que o réu retirasse o veículo de seu "pátio legal" e pagasse as diárias devidas.
+A sentença julgou procedentes os pedidos. O réu apresentou apelação, que foi parcialmente provida para limitar a cobrança das diárias ao período de seis meses, mantendo a sentença nos demais pontos.
+O réu interpôs recurso especial alegando existência de omissões no acórdão recorrido.
+A primeira questão apontada como omitida diz respeito à alegação de ilegitimidade passiva. O recorrente sustenta que, sem a consolidação da propriedade em seu favor (é o credor fiduciário), não pode ser demandado pelo pagamento das diárias pelo acautelamento do veículo.
+No entanto, não há o vício apontado, pois o tema foi expressamente analisado pelo Tribunal a quo. Confira-se o seguinte excerto do acórdão recorrido (fl. 725):
+A apelante sustenta ser parte ilegítima para responder pela cobrança, ao argumento de que o devedor das quantias cobradas é o antigo fiduciário.
+Da análise do caderno processual, contudo, constata-se que o veículo acautelado no pátio administrado pela autora, ora apelada, foi objeto de contrato de alienação fiduciária firmado pela ré.
+Como cediço, no contrato de alienação fiduciária em garantia, o devedor tem a propriedade sob condição suspensiva, enquanto o alienante tem sob condição resolutiva. O que importa reconhecer é que este último detém a propriedade do bem.
+Nesse cenário, mantendo a ré/apelante o domínio do bem e, portanto, a propriedade resolúvel, deve ser a responsável pelo pagamento de despesas referentes à estadia do veículo apreendido, em razão da natureza propter rem da referida obrigação de pagamento.
+Rejeita-se, assim, a preliminar de ilegitimidade passiva.
+Consoante entendimento da Corte estadual, por deter a propriedade do bem, ainda que sob condição resolutiva, e por se tratar de débito propter rem, o recorrente tem a obrigação de pagar o débito referente ao período de estadia do veículo.
+O fato de não ter sido acolhida a alegação da parte - de que somente poderia ser responsabilizado após a consolidação da propriedade - não configura o vício alegado. Além disso, por entender que o proprietário deve pagar por todo o período da estadia, está claro que a obrigação dele se inicia a partir do momento em que o veículo ingressa no pátio.
+Tampouco há falar em omissão no exame da alegada sucumbência recíproca. A questão foi expressamente analisada no acórdão recorrido, concluindo-se que o parcial provimento do recurso não modificou a sucumbência. Confira-se o seguinte trecho (fl. 779):
+Com efeito, o acórdão está suficientemente fundamentado e apresenta claramente os motivos pelos quais deu parcial provimento ao recurso interposto pela Aymoré unicamente para limitar a cobrança das diárias ao período de seis meses, mantendo-se, no mais, a sentença tal como lançada. O que, por certo, não dá ensejo à redistribuição do ônus de sucumbência, tampouco sua inversão, nos termos do art. 86, parágrafo único, do CPC.
+No mérito, a parte indicou ofensa aos arts. 1.196, 1.204, 1.361 e 1.368-B, parágrafo único, do CC/2002 para defender que somente poderia responder pelas despesas relacionadas com o bem alienado fiduciariamente após a consolidação da propriedade em seu favor.
+No entanto, tal entendimento não encontra respaldo na jurisprudência do STJ, segundo a qual "o arrendante é o responsável final pelo pagamento das despesas com a estadia do automóvel junto a pátio privado, pois permanece na propriedade do bem alienado enquanto perdurar o pacto de arrendamento mercantil" (REsp n. 1.828.147/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/2/2020, DJe de 26/2/2020).
+Confiram-se ainda:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA. VEÍCULO APREENDIDO POR ORDEM JUDICIAL DECORRENTE DE AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. DESPESAS COM ESTADIA EM PÁTIO E GUINCHAMENTO QUE DEVEM SER ARCADAS PELO CREDOR FIDUCIÁRIO. PERÍODO DE ESTADIA QUE NÃO COMPORTA LIMITAÇÃO, POSTO QUE NÃO SE REFERE ÀS OBRIGAÇÕES ADVINDAS DE INFRAÇÃO COMETIDA PELO CONDUTOR.
+1. A jurisprudência do STJ firmou o entendimento de que o pagamento devido pelas despesas relativas à guarda e conservação de veículo alienado fiduciariamente em pátio privado em virtude de cumprimento de decisão judicial em ação movida pelo credor, por se tratar de obrigação propter rem, é de responsabilidade do credor fiduciário, quem detém a propriedade do automóvel objeto de contrato garantido por alienação fiduciária.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.439.234/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. VEÍCULOS OBJETO DE CONTRATO DE FINANCIAMENTO, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. DESPESAS COM ESTADIA. AUTOMÓVEIS RECOLHIDOS POR AUTORIDADE POLICIAL AO PÁTIO REQUERENTE. INFRAÇÕES ADMINISTRATIVAS. ILEGITIMIDADE PASSIVA AFASTADA. CREDOR. RESPONSÁVEL PELAS DESPESAS DE ESTADIA. RESSALVADO DIREITO DE REGRESSO. SÚMULA 83 DO STJ. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA PREVALECENTE NO STJ. RAZÕES DISSOCIADAS. SÚMULA 284 DO STF. FUNDAMENTOS INATACADOS DO ACÓRDÃO. SÚMULA 283/STF. ARGUMENTAÇÃO DEFICIENTE. DISSÍDIO JURISPRUDENCIAL. SÚMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Os precedentes do STJ adotam entendimento de que é do credor-fiduciário a responsabilidade pelas diárias e despesas de remoção e estadia do veículo alienado fiduciariamente, quando for recolhido no depósito em caso de apreensão por infrações administrativas. Nessa linha, a Súmula 83 do STJ determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo e. Tribunal de origem estiver em conformidade com a jurisprudência consolidada dos Tribunais Superiores.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.210.496/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2019, DJe de 15/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. DESPESAS COM REMOÇÃO E ESTADIA DO VEÍCULO EM PÁTIO PARTICULAR. OBRIGAÇÃO PROPTER REM. ÔNUS DO CREDOR FIDUCIÁRIO. LIMITAÇÃO DE COBRANÇA A TRINTA DIAS. IMPROCEDÊNCIA. AGRAVO NÃO PROVIDO.
+1. "O pagamento devido pelas despesas relativas à guarda e conservação de veículo alienado fiduciariamente em pátio privado em virtude da efetivação de liminar de busca e apreensão do bem, por se tratar de obrigação propter rem, é de responsabilidade do credor fiduciário que é quem detém a propriedade do automóvel objeto de contrato garantido por alienação fiduciária" (AgRg no REsp 1.016.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7.11.2013, DJe de 21.11.2013).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 910.776/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2018, DJe de 7/12/2018.)
+ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. CONVERSÃO EM DEPÓSITO. LIBERAÇÃO DO VEÍCULO. DESPESAS COM REMOÇÃO E ESTADIA EM PÁTIO PARTICULAR. OBRIGAÇÃO PROPTER REM. ÔNUS DO CREDOR FIDUCIÁRIO.
+1. As despesas decorrentes do depósito do bem alienado em pátio privado constituem obrigações propter rem, de maneira que independem da manifestação expressa ou tácita da vontade do devedor.
+2. O credor fiduciário é o responsável final pelo pagamento das despesas com a estadia do automóvel junto a pátio privado, pois permanece na propriedade do bem alienado, ao passo que o devedor fiduciante detém apenas sua posse direta.
+3. Recurso especial a que se nega provimento.
+(REsp n. 1.045.857/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/4/2011, DJe de 25/4/2011.)
+Em tais condições, não ficou demonstrada a ofensa aos dispositivos legais indicados.
+Tampouco foi demonstrada a negativa de vigência ao art. 328, § 5º, do Código de Trânsito Brasileiro, visto que o Tribunal de origem limitou a cobrança das diárias ao prazo de seis meses, contados a partir de recolhimento do veículo no pátio.
+Incide a Súmula n. 284 do STF.
+Por fim, a análise da alegada ofensa ao art. 21, parágrafo único, do CPC/1973, encontra óbice na Súmula n. 7 do STJ.
+O Tribunal de origem concluiu que o parcial provimento do apelo não alterou a proporção da sucumbência e, por isso, manteve a sentença na parte em que condenou a parte ré ao pagamento dos ônus sucumbenciais. Alterar tal conclusão demandaria exame de elementos fáticos, o que é vedado em recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme exposto na decisão agravada, as questões que a parte afirma omitidas foram expressamente analisadas pela Corte estadual. Na verdade, a parte não demonstra a existência de omissão, mas inconformismo com o fato de não terem sido acolhidas suas teses.
+Contudo, o simples fato de a decisão ser contrária aos interesses da parte não configura ofensa aos arts. 489 e 1.022 do CPC.
+Inafastável a Súmula n. 284 do STF, pois a parte não logrou demonstrar a ofensa aos dispositivos do Código Civil invocados, que tratam de posse e propriedade fiduciária.
+A tese defendida pela parte não encontra respaldo na jurisprudência do STJ, que se consolidou no sentido de que o credor fiduciário, que detém a propriedade do automóvel, é o responsável pelas despesas relativas à guarda e conservação do veículo alienado.
+Tampouco foi demonstrada a ofensa ao art. 328, § 5º, do CTB, pois a limitação da cobrança das diárias em seis meses está de acordo com o previsto em tal dispositivo.
+Por fim, para verificar a proporção da sucumbência de cada parte seria necessária a análise de prova, o que é inviável em recurso especial ante a incidência da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
