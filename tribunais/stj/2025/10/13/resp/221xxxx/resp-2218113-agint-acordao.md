@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS. COFINS. DESCONTOS E BONIFICAÇÕES. AQUISIÇÃO PARA POSTERIOR REVENDA DA MERCADORIA.
+1. A Primeira Turma do Superior Tribunal de Justiça entende que: "Os descontos concedidos pelo fornecedor ao varejista, mesmo quando condicionados a contraprestações vinculadas à operação de compra e venda, não constituem parcelas aptas a possibilitar a incidência da contribuição ao PIS e da COFINS a cargo do adquirente" (REsp n. 1.836.082/SE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 12/5/2023).
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejada pela FAZENDA NACIONAL, contra decisão de minha lavra, constante às e-STJ fls. 585/589, em que neguei provimento ao recurso especial, em razão do entendimento adotado pelo Tribunal de origem estar em sintonia com a orientação sufragada por esta Primeira Turma do STJ.
+A parte agravante aduz que a decisão não considerou adequadamente a moldura normativa apresentada, especialmente a alegação de ofensa ao art. 368 do Código Civil, referente à compensação de créditos entre fornecedores e adquirentes.
+Argumenta, ainda, que os créditos em favor da recorrida não surgem da operação de compra e venda, mas sim em momento posterior, resultando de sua atividade empresarial, podendo ser compensados com as obrigações de pagar decorrentes da operação anterior de compra e venda.
+Por fim, defende que as bonificações em mercadorias, quando não constam da nota fiscal de venda, podem ser consideradas doações e, nessas condições, representam receitas sobre as quais devem incidir tanto contribuição ao PIS quanto à COFINS.
+Pede a reconsideração da decisão ou, alternativamente, que o feito seja submetido a julgamento pela Turma, para que seja conhecido e provido o presente Agravo Interno, reformando-se a decisão agravada e dando-se provimento ao Recurso Especial.
+Impugnação às e-STJ fls. 626/641.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. PIS. COFINS. DESCONTOS E BONIFICAÇÕES. AQUISIÇÃO PARA POSTERIOR REVENDA DA MERCADORIA.
+1. A Primeira Turma do Superior Tribunal de Justiça entende que: "Os descontos concedidos pelo fornecedor ao varejista, mesmo quando condicionados a contraprestações vinculadas à operação de compra e venda, não constituem parcelas aptas a possibilitar a incidência da contribuição ao PIS e da COFINS a cargo do adquirente" (REsp n. 1.836.082/SE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 12/5/2023).
+2. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+Consoante afirmado na decisão agravada, o recurso especial tem origem em mandado de segurança impetrado com o objetivo de ver reconhecido o direito de não incluir os descontos e as bonificações recebidas na base de cálculo da contribuição ao PIS e da COFINS, cuja ordem foi concedida no primeiro grau de jurisdição.
+Apelação e remessa oficial desprovidas pela Corte regional, com amparo nos seguintes fundamentos (e-STJ fls. 413 e seguintes):
+Os descontos e as bonificações em mercadorias recebidas pelo contribuinte por ocasião da aquisição de produtos, independentemente de destaque nas notas fiscais, não configuram receita da pessoa jurídica adquirente. O desconto recebido configura mero redutor do custo de aquisição das mercadorias, que não pode ser compreendido como receita tributável, pois não corresponde a efetivo ingresso financeiro positivo a justificar a incidência tributária.
+Ao comprar, o que existe para o comprador é uma despesa, maior ou menor na medida da concessão do desconto pelo vendedor, mas não receita. Mesmo na hipótese de recebimento de desconto na forma de mercadorias em bonificação, a receita surgirá apenas com a posterior venda da mercadoria bonificada, e não no momento do seu ingresso em estoque.
+Dessa forma, a distinção entre a natureza dos descontos concedidos  se condicionais ou incondicionais e se destacados em nota fiscal ou não  deve ser realizada pela Receita Federal na relação jurídico-tributária existente a União e a pessoa jurídica alienante das mercadorias, sendo irrelevantes tais aspectos para fins de apuração do tributo devido pelo adquirente das mercadorias, uma vez que este não aufere receita na operação de aquisição.
+Pois bem.
+Como delineado no julgado ora combatido, o entendimento adotado no acórdão regional está em sintonia com a orientação sufragada por esta Primeira Turma do STJ, de que não incide de PIS e COFINS sobre descontos condicionais e bonificações, consoante se verifica dos seguintes julgados:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 1º, , § 3º,CAPUT V, A, DAS LEIS NS. 10.637/2002 E 10.883/2003. BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. INGRESSO PATRIMONIAL NOVO. AQUISIÇÃO DE PRODUTOS POR VAREJISTA COM DESCONTO CONCEDIDO POR FORNECEDORES. PARCELA REDUTORA DO CUSTO QUE NÃO CARACTERIZA RECEITA DO COMPRADOR. CONTRAPARTIDA DO ADQUIRENTE PARA OBTENÇÃO DO ABATIMENTO NÃO CONSTITUI PRESTAÇÃO DE SERVIÇO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Não existência de omissão, contradição ou obscuridade.
+III - Consoante previsto nos arts. 1º, § 3º, V, a, das Leis ns. 10.637/2002 e 10.883/2003, a base de cálculo da contribuição ao PIS e da COFINS, no regime não cumulativo, consiste no total de receitas auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil, razão pela qual o conceito jurídico de receita não se vincula àquele veiculado pela ciência das finanças. Precedente do STF.
+IV - Nas relações comerciais entre agentes econômicos, o adquirente de mercadorias para revenda despende valores com a compra de produtos para desempenho de sua atividade empresarial, sendo desinfluente a natureza jurídica dos descontos obtidos do fornecedor para a incidência das contribuições em exame quanto ao varejista, porquanto rubrica modificadora da receita de quem vende e redutora dos custos do comprador.
+V - A pactuação de contrapartida a cargo do revendedor para a redução da quantia paga ao fornecedor constitui forma de composição do preço acordado na transação mercantil, motivo pelo qual não pode ser dissociada desse contexto para figurar, autonomamente, como a contraprestação por um serviço.
+VI - Os descontos concedidos pelo fornecedor ao varejista, mesmo quando condicionados a contraprestações vinculadas à operação de compra e venda, não constituem parcelas aptas a possibilitar a incidência da contribuição ao PIS e da COFINS a cargo do adquirente.
+VII - Recurso Especial parcialmente conhecido e, nessa extensão, provido.
+(REsp 1.836.082/SE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/05/2023).
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA. JURISPRUDÊNCIA CONSOLIDADA. POSSIBILIDADE. PIS E COFINS. DESCONTOS CONDICIONAIS E BONIFICAÇÕES. REEXAME FÁTICO-PROBATÓRIO. DESNECESSIDADE.
+1. A leitura conjugada do art. 932, VIII, do CPC/2015 com o art. 255, § 4º, I II, do RISTJ, bem como da Súmula 568 desta Corte Superior, permite extrair que o relator está autorizado a examinar, monocraticamente, o recurso especial na hipótese em que há jurisprudência consolidada do Superior Tribunal de Justiça, como na hipótese dos autos.
+2. Ao decidir que "a parte impetrante não apresentou nos autos do processo prova documental que pudesse demonstrar que os requisitos alinhavados pela autoridade fiscal são observados na sua prática comercial, constando tais bonificações na nota fiscal de venda e não estando condicionadas a eventos futuros", o Tribunal regional adotou entendimento contrário à orientação jurisprudencial da Primeira Turma do STJ, no ponto em que reconheceu a não incidência de PIS e COFINS sobre descontos conferidos a título de bonificações.
+3. Revela-se desnecessário o revolvimento do conjunto fático-probatório dos autos na hipótese, uma vez que na relação comercial havida com seus fornecedores, as rubricas (descontos condicionados ou bonificações) não configuram receita, mas despesa decorrente da aquisição de produtos, de modo que se trata de subsunção do fato incontroverso à legislação e jurisprudência e ele aplicáveis.
+4. Agravo interno desprovido.
+(AgInt no REsp 2.164.924/CE, de minha relatoria, Primeira Turma, julgado em 24/3/2025, DJEN de 31/3/2025).
+Daí porque foi corretamente desprovido o recurso fazendário.
+Nada há, no agravo interno, que justifique o afastamento da conclusão de que, no caso, a parcela em comento caracteriza-se, no específico contexto dos autos, como custo do comprador, não como receita do vendedor. Portanto, impossível a cobrança de PIS e de COFINS na forma pretendida pela Fazenda Nacional.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC, por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
