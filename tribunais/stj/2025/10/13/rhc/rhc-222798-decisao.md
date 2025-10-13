@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por DELISVAN DA SILVA SANTOS contra o acórdão proferido pelo Tribunal de Justiça da Bahia que, nos autos do HC n. 8042420-92.2025.8.05.0000, denegou a ordem, mantendo o prosseguimento da Ação Penal n. 0000341-32.2017.8.05.0158, em tramitação na Vara Criminal de Mairi/BA, afastando, por consequência, o pleito de trancamento por excesso de prazo.
+O recorrente sustenta falta de fundamentação concreta no acórdão, que teria se baseado apenas na gravidade abstrata do crime e atribuído ao acusado a responsabilidade pela demora processual na ação penal que tramita desde 2017 sem sentença ou conclusão da instrução. Aduz que o fato de responder em liberdade não afasta o constrangimento decorrente da morosidade estatal, que o mantém vinculado indefinidamente ao processo, comprometendo sua legitimidade.
+Pede o conhecimento e o provimento do recurso ordinário para determinar o trancamento da ação penal.
+Processado o feito sem pedido liminar, opinou o Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus (fls. 88/92).
+É o relatório.
+Estou de pleno acordo com a opinião do Subprocurador-Geral da República Onofre de Faria Martins, segundo a qual não caracteriza constrangimento ilegal pelo excesso de prazo quando demonstrado que a apontada mora não decorreu da negligência do Poder Judiciário ou da acusação, mas que foi provocado pela defesa (fl. 88).
+Realmente, segundo entendimento desta Corte, a fuga do paciente constitui obstáculo ao reconhecimento de constrangimento ilegal por excesso de prazo. Nesse sentido: Estando o acusado foragido desde o início da ação penal, não há que se falar em constrangimento ilegal por excesso de prazo, pois esta Corte Superior de Justiça possui entendimento de que tal condição afasta a aludida coação (AgRg no RHC n. 181.862/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023) - (AgRg no HC n. 917.881/MT, relator Ministro Og Fernandes, Sexta Turma, DJEN de 2/12/2024) - (AgRg no HC n. 985.911/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 12/5/2025).
+Em outros termos, a análise de eventual atraso no andamento processual não se pode deixar de observar as peculiaridades do feito, em que o réu deixou de comparecer aos autos, permanecendo em local incerto e não sabido, o que naturalmente acarretou certo atraso na tramitação do feito (AgRg no HC n. 883.775/AM, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 7/5/2025).
+Ante o exposto, acolho o parecer e nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. TRANCAMENTO DA AÇÃO PENAL. EXCESSO DE PRAZO. INEVIDÊNCIA. AUSÊNCIA DE DESÍDIA DO JUDICIÁRIO. CONTRIBUIÇÃO DO RÉU. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso improvido.
