@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra a decisão que não admitiu o seu recurso especial interposto, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 74):
+RECURSO EM SENTIDO ESTRITO DEFENSIVO. HOMICÍDIO QUALIFICADO. SENTEN ÇA DE PRONÚNCIA.
+Despronúncia. Ausência de indícios suficientes de autoria na fase do contraditório judicial. Não bastam, exclusivamente, para fins de pronúncia, elementos informativos do inquérito policial. Artigo 155 do Código de Processo Penal. Depoimento prestado por testemunha, em inquérito, que não foi confirmado em Juízo, sob o crivo do contraditório e ampla defesa. Precedente do STJ. Relatos indiretos e por "ouvir dizer" (hearsay testimony) que não constituem elementos suficientes para a viabilidade da acusação nesse momento processual. Fragilidade do conjunto probatório que não permite a submissão do réu-recorrente a julgamento pelo Tribunal do Júri. Artigo 414 do Código de Processo Penal. Despronúncia do réu-recorrente JULIO CESAR.
+RECURSO EM SENTIDO ESTRITO PROVIDO, POR MAIORIA.
+Em suas razões, o agravante sustenta que a decisão de inadmissibilidade merece reforma, uma vez que não incide ao caso os óbices das Súmulas 7 e 83, ambas do STJ.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para negar seguimento ao recurso especial (fls. 216/219).
+É o relatório.
+O agravo merece ser conhecido, pois impugna adequadamente os fundamentos da decisão recorrida. No entanto, o recurso especial não deve ser conhecido, conforme passo a demonstrar.
+O Tribunal de origem, ao apreciar a controvérsia, deu provimento ao recurso da defesa para despronunciar o acusado, fundamentando que (fls. 71/72):
+Do exame da prova produzida e da decisão recorrida, verifico que a decisão de pronúncia está amparada: (i) no relato prestado na fase de inquérito pelo indivíduo Endrigo Teles Pinheiro, o qual não foi confirmado em juízo, em razão de o Ministério Público ter desistido de sua oitiva após as inúmeras tentativas de localização para intimação para a audiência de instrução e julgamento; e (ii) no relato judicial do policial civil responsável pela investigação, Gabriel Slaviero Ibarra, da testemunha Lisiane de Fátima Morinel da Costa e da informante Silvana dos Santos Farias que não presenciaram o fato.
+Diante desse contexto, entendo que os elementos constantes não configuram indícios suficientes de autoria a permitir a submissão do acusado a julgamento pelo Tribunal do Júri.
+Quanto ao primeiro elemento, adoto o posicionamento recente das Cortes Superiores, no sentido de que é inviável a manutenção da pronúncia, quando amparada exclusivamente em elementos produzidos durante o inquérito, devendo ser observado o disposto no artigo 155 do Código de Processo Penal, também nas decisões de pronúncia.
+Nesse contexto, a pretensão ministerial de reforma do acórdão para pronunciar o acusado esbarra no óbice da Súmula 7/STJ , pois demandaria o revolvimento do acervo fático-probatório dos autos para que se concluísse pela existência de indícios suficientes de autoria.
+Com efeito, alterar a conclusão do Tribunal de origem de que não há indícios suficientes de autoria que justifiquem a pronúncia do acusado, exigiria a reanálise do conjunto probatório produzido nos autos, o que não é possível na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Ademais, o acórdão recorrido não dissentiu da orientação jurisprudencial firmada por esta Corte Superior, que rechaça a pronúncia fundamentada exclusivamente em elementos probatórios colhidos na fase inquisitorial sem confirmação judicial, em observância ao art. 155 do CPP.
+Nesse sentido, destaco o seguinte precedente: A jurisprudência desta Corte rechaça a pronúncia fundamentada exclusivamente em testemunhos indiretos (hearsay testimony) ou em elementos probatórios colhidos na fase inquisitorial sem confirmação judicial, em observância ao art. 155 do CPP (AgRg no REsp n. 2.097.754/PA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025).
+Assim, incide à hipótese também o óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DESPRONÚNCIA. PRETENSÃO DE PRONÚNCIA DO ACUSADO. ALEGAÇÃO DE EXISTÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ.
+A gravo conhecido para não conhecer do recurso especial.
