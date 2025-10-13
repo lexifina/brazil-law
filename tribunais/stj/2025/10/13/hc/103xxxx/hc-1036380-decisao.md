@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO LOPES DA SILVA BISPO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0011700-46.2025.8.26.0050).
+Consta dos autos que o Juízo da execução penal, com base no art. 9º, XV, c/c o art. 12, I, do Decreto n. 12.338/2024, concedeu o indulto e, consequentemente, declarou extinta a punibilidade do paciente em relação à Ação Penal n. 1517037-29.2021.8.26.0228 (fls. 102-103).
+O Ministério Público, então, interpôs agravo em execução perante o Tribunal de origem, o qual deu provimento ao recurso para revogar o indulto (fls. 125-130).
+No presente writ, a Defensoria Pública sustenta que a decisão da autoridade coatora violou a competência privativa do Pres idente da República para conceder indulto, conforme o art. 84, XII, da Constituição Federal, ao impor requisitos não previstos no Decreto Presidencial n. 12.338/2024.
+Argumenta que o decreto estabelece, de forma taxativa, os critérios para a concessão do indulto, incluindo a presunção de hipossuficiência econômica em casos de representação pela Defensoria Pública, fixação do valor do dia-multa no mínimo legal e ausência de vínculo empregatício ou bens em nome do apenado.
+Alega que o paciente preenche todos os requisitos previstos no decreto, incluindo a presunção de hipossuficiência econômica, uma vez que é representado pela Defensoria Pública, está desempregado e teve o valor do dia-multa fixado no mínimo legal.
+Afirma que a decisão da autoridade coatora impôs exigências adicionais não previstas no decreto, configurando constrangimento ilegal.
+Por isso, requer, inclusive liminarmente, a concessão da ordem a fim de que seja reconhecido o direito do paciente ao indulto, com a consequente extinção da punibilidade.
+O pedido liminar foi indeferido (fls. 144-147).
+Parecer do Ministério Público Federal pela "não admissão do writ, descabida a concessão de um habeas corpus ex officio" (fl. 159).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Portanto, não se pode conhecer do presente habeas corpus.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+O Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público, consignando, para tanto, que (fls. 127-130):
+Consta dos autos que o Leonardo Lopes da Silva Bispo, condenado pela prática do delito previsto no art. 180, caput, do CP, pleiteou perante o juízo da execução o indulto de sua pena.
+O Ministério Público teria se manifestado desfavoravelmente, sob a alegação que não teria ocorrido a reparação dos danos a presunção de hipossuficiência pela pessoa assistida pela Defensoria Pública ou por advogado dativo, seria relativa, bem como a ausência de comprovação de reparação do dano.
+O magistrado deferiu o pedido, apontando que o sentenciado se
+enquadra no art. 9º, XV, c.c. 12, §2º, I, do Decreto Presidencial nº 12.338/2024, a saber:
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+XV - a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto; ou
+§ 2º Para fins do disposto no inciso II do caput, poderá ser feita prova a incapacidade econômica nas seguintes hipóteses:
+I - a pessoa for representada pela Defensoria Pública ou por
+advogado dativo ou houver atuação de entidade pro bono;
+De acordo com o art. 84, inciso XII, da Constituição Federal, compete privativamente ao Presidente da República estabelecer requisitos e pressupostos indispensáveis para a concessão do benefício em tela. Sendo assim, impossível criar critérios ou requisitos diversos daqueles previstos no texto do Decreto editado.
+O Plenário do Supremo Tribunal Federal, ao analisar a ADI nº 5.874/DF, por maioria, firmou o posicionamento que a concessão de indulto natalino é um instrumento de política criminal e carcerária adotada pelo Poder Executivo, com amparo em competência constitucional, decidindo pela constitucionalidade do decreto Presidencial, possuindo restrições na própria Constituição, que impede a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e ao s classificados como hediondos.
+Recentemente, ao julgar Recurso Extraordinário em que se discutia a constitucionalidade do art. 5º, caput e parágrafo único, do Decreto nº 11.302/2022, o STF reafirmou sua jurisprudência, no sentido que "O juízo de conveniência e oportunidade do indulto é exclusivo do Presidente da República" e "O indulto não se vincula à determinada política criminal ou jurisprudência sobre aplicação da legislação penal".
+Superada tal questão, deve-se analisar se ao tempo da edição do decreto estavam presentes os requisitos estabelecidos no art. 9º, XV, quais sejam, se até 25 de dezembro de 2024 o sentenciado, condenado por crime patrimonial, sem violência ou grave ameaça, tenha reparado o dano, ressalvada a hipóteses de hipossuficiência.
+E nesse aspecto, o recurso comporta provimento, pois não preenchidos os requisitos à época do Decreto.
+Em consulta ao processo de conhecimento (processo nº 1517037-29.2021.8.26.0228), verifica-se que o agravado foi condenado por ter recebido de terceiro não identificado, o celular iPhone X, IMEI, ciente de que era produto de crime anterior, e apesar de ter realizado acordo de não persecução penal, não realizou o pagamento no valor de um salário-mínimo à instituição beneficiada, sendo representado por advogada particular.
+Dito isso, cabe destacar que apesar do art. 12, §2º, do referido decreto apresentar norma interpretativa, indicando situações em que se presume a hipossuficiência, é evidente que tal norma também deve obedecer ao requisito temporal do decreto, não podendo alcançar fatos ocorridos posteriormente.
+In casu, verifica-se que até a 25/12/2024, data considerada para fins de análise de requisitos para fins de indulto/comutação, não há demonstração de atuação da Defensoria Pública ou outra situação que pudesse se presumir a hipossuficiência.
+De modo que a atuação da Defensoria Pública 28/03/2025, após a edição do Decreto 12.338/2024.
+Nesse aspecto, importante destacar que a análise do preenchimento dos requisitos para a concessão dos benefícios de indulto e de comutação de pena deve considerar se presentes os requisitos na data da publicação do decreto presidencial, sendo indiferente o fato de que posteriormente o sentenciado tenha alterado sua representação processual, situação que, ainda que demonstrasse alteração financeira, ocorreu após 25 de dezembro de 2024.
+Assim, considerando que a decisão que concede ou indefere o indulto tem natureza declaratória, com efeitos ex tunc, retroagindo à data da publicação do Decreto Presidencial, data em que será analisado o cumprimento dos requisitos, de modo que à época de sua edição o sentenciado não era defendido pela Defensoria Pública, não demonstrando sua hipossuficiência, não cumprindo todos os requisitos exigidos pelo referido Decreto, sendo de rigor o indeferimento do benefício.
+Assim sendo, ante do não preenchimento dos requisitos legais, de rigor a reforma da decisão. (Grifei.)
+Dos trechos do acórdão colacionados, verifica-se que o Tribunal de origem revogou o indulto concedido em primeiro grau, porque, "até 25/12/2024, data considerada para fins de análise de requisitos para fins de indulto/comutação, não há demonstração de atuação da Defensoria Pública ou outra situação que pudesse se presumir a hipossuficiência" (fl. 129).
+Dessa forma, verifica-se que o paciente, de fato, não teria preenchido o requisito exigido pelo art. 9º, XV, c/c o art. 12, § 2º, ambos do Decreto n. 12.338/2024.
+Aliás, nesse mesmo sentido foi a manifestação do Ministério Público Federal. Confira-se (fls. 158-159):
+Realmente, cumpre esclarecer que o inciso XV do artigo 9º do Decreto nº 12.338/24, de fato, condiciona a concessão de indulto aos condenados "..a pena privativa de liberdade por crime contra o patrimônio, cometido sem violência ou grave ameaça a pessoa que, até 25 de dezembro de 2024, tenham reparado o dano conforme o disposto no art. 16 ou no art. 65, caput, inciso III, alínea "b", do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, excetuada a necessidade de reparação do dano nas hipóteses previstas no art. 12, § 2º, deste Decreto;".
+Ou seja, esse dispositivo legal trata do indulto a ser outorgado ao apenado que, na data de 25/12/2024, esteja unicamente cumprindo pena por crimes patrimoniais, cometidos sem violência ou grave ameaça a pessoa, exigindo, para tanto, a reparação do dano à vítima ou a comprovação da sua impossibilidade, mediante prova de pobreza, o que, entretanto, não configura a situação do caso em tela.
+Isso porque, conforme bem destacado pela Corte Estadual, até o dia 25/12/2024 o apenado, ora paciente, "..não realizou o pagamento no valor de um salário-mínimo à instituição beneficiada, sendo representado por advogada particular. (..) não há demonstração de atuação da Defensoria Pública ou outra situação que pudesse se presumir a hipossuficiência. De modo que a atuação da Defensoria Pública 28/03/2025, após a edição do Decreto 12.338/2024. (..) a concessão dos benefícios de indulto e de comutação de pena deve considerar se presentes os requisitos na data da publicação do decreto presidencial, sendo indiferente o fato de que posteriormente o sentenciado tenha alterado sua representação processual, situação que, ainda que demonstrasse alteração financeira, ocorreu após 25 de dezembro de 2024", razão pela qual, de fato, não há que se falar em enquadramento e tampouco adimplemento do requisito objetivo previsto no artigo 9º, XV, do Decreto nº 12.338/24 para a concessão da benesse. (Grifo no original.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
