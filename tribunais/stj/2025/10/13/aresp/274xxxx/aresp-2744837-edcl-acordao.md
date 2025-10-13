@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+Impedido o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  REQUISITOS.  NÃO  OCORRÊNCIA.
+1.  Os  embargos  de  declaração  têm  ensejo  quando  há  obscuridade,  contradição,  omissão  ou  erro  material  no  julgado,  nos  termos  do  disposto  no  art.  1.022  do  CPC/2015.
+2.  A  rediscussão  do  julgado  constitui medida  inadmissível  em  sede  de  embargos  declaratórios.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  pela  FUNDAÇÃO DE DESENVOLVIMENTO DA UNICAMP - FUNCAMP  ,  contra  acórdão  prolatado  pela  Primeira  Turma  assim  ementado  (e-STJ  fl.  5.488):
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NECESSIDADE DE PROVA PERICIAL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não se configura ofensa ao art. 1.022 do CPC quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem considerou insuficiente o acervo probatório para a solução da controvérsia, anulou a sentença e determinou a realização de prova pericial para melhor apuração do cumprimento dos requisitos para comprovar a condição de beneficente (assistente social), a fim de gozar do instituto de imunidade tributária.
+3. Dissentir da conclusão adotada pelo acórdão recorrido, de modo a se aferir a desnecessidade de dilação probatória, demandaria a incursão na circunstâncias fáticas da causa, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+A embargante aponta omissão no julgado,  afirmando  que  "o recurso especial busca demonstrar que o requisito exigido pelo Tribunal de origem não é exigido pela Lei (questão de direito), e não que há prova nos autos acerca de tal requisito (questão de prova) - Desnecessidade do reexame de fatos e provas"  (e-STJ  fl.  5.503).
+Acrescenta: "a Lei n. 8.742/93 (LOAS), em seu artigo 3º, traz o conceito de entidades e organizações de assistência social, bem como define os tipos de atividades por elas desenvolvidos, sem qualquer menção ao dever de que a entidade desenvolva atividade à população pobre de forma gratuita" (e-STJ fl. 5.505).
+Pugna pelo acolhimento dos embargos para "afastar a determinação do Tribunal de origem de retorno dos autos à origem para produção de prova pericial, de modo que reste reconhecida a suficiência da comprovação das contrapartidas previstas no art. 14 do CTN para fruição da imunidade das contribuições para a seguridade social" (e-STJ fl. 5.506).
+Sem impugnação (e-STJ fl. 5.516).
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  REQUISITOS.  NÃO  OCORRÊNCIA.
+1.  Os  embargos  de  declaração  têm  ensejo  quando  há  obscuridade,  contradição,  omissão  ou  erro  material  no  julgado,  nos  termos  do  disposto  no  art.  1.022  do  CPC/2015.
+2.  A  rediscussão  do  julgado  constitui medida  inadmissível  em  sede  de  embargos  declaratórios.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Nos  termos  do  art.  1.022  do  CPC,  são  admitidos  embargos  de  declaração  quando  houver  obscuridade,  contradição,  omissão  e  erro  material  na  decisão, vícios não constatados na hipótese.
+Como salientado no julgado embargado, a Fundação busca o reconhecimento da imunidade tributária, referente a impostos e a contribuições previdenciárias, no que foi vencedora no primeiro grau de jurisdição.
+Ao examinar a apelação fazendária e a remessa de ofício, o TRF da 3ª Região decidiu pela devolução dos autos à primeira instância, a fim de complementar a instrução probatória, e, por conseguinte, anulou a sentença "para a produção de prova pericial e posterior prolação de nova sentença" (e-STJ fl. 5.130).
+Eis o teor do julgado regional (e-STJ fls. 5.126 e seguintes):
+(..) imunidade está restrita às instituições filantrópicas, porque a noção de beneficência impõe gratuidade nas atividades da entidade voltadas a carentes e não propósitos empresariais lucrativos. Na Súmula 730 do E. STF, restou pacificado que, mesmo para a imunidade dos impostos, a atenção à população carente é relevante (E. STF, Súmula 730: "A imunidade tributária conferida a instituições de assistência social sem fins lucrativos pelo art. 150, VI, c, da Constituição, somente alcança as entidades fechadas de previdência social privada se não houver contribuição dos beneficiários."), de modo que, com maior razão em temas de seguridade social regidos pela solidariedade social, o empenho no auxílio aos pobres e miseráveis não pode ser superficial ou irrisório quando a entidade pretende deixar de recolher contribuições sociais.
+(..)
+Essas condições da imunidade pessoal, extraídas da Constituição, estão refletidas no recepcionado art. 14 do Código Tributário Nacional. O comprometimento patrimonial está positivado expressamente no art. 14, I e II, do Código Tributário Nacional, razão pela qual as entidades de assistência social não podem distribuir qualquer parcela de seu patrimônio ou de suas rendas (a qualquer título), e devem aplicar integralmente (no Brasil) os seus recursos na manutenção dos seus objetivos institucionais. O inciso III desse mesmo art. 14 do Código Tributário Nacional impõe requisito formal para viabilizar o controle da atuação solidária das entidades assistenciais, ao exigir escrituração regular de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão. O art. 14, §§ 1º e 2º do CTN, autoriza que a autoridade administrativa competente suspenda a aplicação do benefício em caso de irregularidade, e estabelece que a atuação da entidade assistencial deve estar atrelada, exclusivamente, aos serviços diretamente relacionados com seus objetivos institucionais previstos nos respectivos estatutos ou atos constitutivos.
+Havendo judicialização, controvérsias sobre a comprovação do atendimento aos requisitos do art. 14 do CTN geralmente dependem de prova pericial, não bastando afirmações genéricas baseadas em cláusulas abstratas de estatutos sociais para o reconhecimento da imunidade, ou referências a balanços sintéticos e certidões de utilidade pública desvinculadas das condições para a desoneração tributária. Por ausência de previsão em lei complementar, certificados expedidos por entidades públicas (p. ex. CEBAS) não são imprescindíveis ao reconhecimento judicial da imunidade tributária, embora avalizem (com presunção relativa de veracidade e de validade) a adequação da atuação da entidade beneficente de assistência social aos propósitos constitucionais e legais.
+(..)
+Em suma, para usufruir da imunidade pessoal e condicionada dos arts. 150, VI, "c" e 195, § 7º, do texto de 1988, a entidade deve cumprir continuamente os requisitos cumulativos do art. 14 do CTN, e o reconhecimento judicial depende da comprovação dos seguintes aspectos: 1) execução de assistência social beneficente em proporções substanciais da atividade e dos recursos da entidade, sem fins lucrativos e voltada à população miserável ou economicamente pobre; 2) a entidade não pode remunerar ou conceder vantagens e benefícios (a qualquer título) a seus diretores, conselheiros, sócios, instituidores ou benfeitores; 3) a instituição deve aplicar, integralmente, seus recursos no atendimento das finalidades assistenciais (de modo direto ou indireto); 4) a escrituração da entidade beneficente deve ser regular.
+(..)
+(..) os documentos apresentados não são capazes de provar que a entidade efetivamente compromete parcela substancial de seu patrimônio e recursos na execução de assistência social beneficente voltada à população miserável ou economicamente pobre. Não é possível, sequer, identificar quais tipos de serviço são prestados diretamente ao público, uma vez que, segundo consta, a atividade principal da parte autora é a prestação de serviços de apoio à sua instituidora, tais como a mobilização de recursos humanos e materiais.
+Tendo em vista que a documentação, por si só, não é suficiente para a atribuição da condição de beneficente à instituição autora, e, ainda, que ela não possui CEBAS (o que lhe renderia a presunção desta condição), é necessária a realização de perícia.
+No entanto, em que pese o pedido da parte autora, na petição inicial, para a produção de todas as provas necessárias ao deslinde da causa (ID 90613851), o Juízo de 1º grau de jurisdição optou por realizar o julgamento antecipado do mérito, nos termos do artigo 355, I, do CPC, julgando procedente o pedido (ID 90614038).
+A sentença, portanto, deve ser anulada, para que a prova pericial seja produzida, vez que necessária ao julgamento da lide.
+Já no acórdão ora embargado, ficou assentado que a inversão do julgado de origem, para afastar a necessidade da reabertura da fase probatória e para chegar a conclusão diversa daquela explicitada no acórdão recorrido, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Desse  modo,  não  há  que  cogitar  em  nenhuma  omissão  que  justifique  o  acolhimento  dos  embargos, pois ficou claro que a alteração das premissas afirmadas pela instância ordinária implicaria em revolvimento de provas.
+No  ponto,  uma  vez  mais,  a  recorrente  busca  reexaminar  o  acerto  do  julgado  objeto  dos  aclaratórios,  desconsiderando  que  o  desiderato  de  rediscutir  a  causa,  sem  a  presença  dos  requisitos  exigidos  no  art.  1.022  do  CPC ,  é  inadmissível  em  sede  de  embargos  de  declaração.
+Nesse  sentido:
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.
+ ..
+2.  Os  embargos  de  declaração  têm  por  escopo  sanar  decisão  judicial  eivada  de  obscuridade,  contradição,  omissão  ou  erro  material.
+3.  A  contradição  que  autoriza  os  embargos  de  declaração  é  aquela  interna,  ou  seja,  no  próprio  julgado,  e  não  entre  este  e  o  entendimento  do  recorrente  ou  de  outros  julgados.  Precedente  da  Corte  Especial.
+4.  Hipótese  em  que  as  alegações  da  embargante  manifestam  o  seu  inconformismo  com  o  julgamento,  na  instância  ordinária,  pela  improcedência  do  pedido  de  concessão  de  aposentadoria  rural  por  idade  em  razão  da  não  comprovação  da  qualidade  de  segurada  especial  da  parte  autora  por  meio  de  início  de  prova  material  corroborada  por  prova  testemunhal.
+5.  O  desiderato  de  rediscutir  a  causa  sem  a  presença  dos  requisitos  exigidos  no  art.  1.022  do  CPC  de  2015  é  inadmissível  em  sede  de  aclaratórios.
+6.  Embargos  rejeitados.
+(EDcl  no  AgInt  no  AREsp  938.333/MS,  de  minha  relatoria,  PRIMEIRA  TURMA,  julgado  em  14/08/2018,  DJe  21/08/2018).
+Por fim, advirto a recorrente que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante  o  exposto,  REJEITO  os  embargos  de  declaração.
+É  como  voto.
