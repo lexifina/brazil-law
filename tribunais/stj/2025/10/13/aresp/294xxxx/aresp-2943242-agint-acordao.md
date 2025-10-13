@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COPARTICIPAÇÃO. AUSÊNCIA DE INDICAÇÃO DE CLÍNICA CREDENCIADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, uma vez que houve a devida impugnação da decisão de admissibilidade.
+2. Não se verifica a alegada violação do art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+3. Esta Corte Superior possui o entendimento de que, nos contratos de plano de saúde, não é abusiva a cláusula que prevê coparticipação, desde que expressamente prevista no instrumento contratual firmado entre as partes, de forma clara e legível.
+4. No caso, o Tribunal local afirmou que, "Embora tenha apresentado clínica em rede credenciada, verifica-se que esta não dispõe do tratamento necessário à recuperaçao do autor".
+5. A pretensão recursal, com o escopo de alterar as conclusões do acórdão recorrido, demandaria o revolvimento do acervo fático-probatório dos autos, medidas inviáveis na via estreita do recurso especial, em razão da incidência da Súmula 7 do STJ.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED DE MONTE ALTO - COOPERATIVA DE TRABALHO MÉDICO contra decisão monocrática da Presidência do STJ (fls. 434-435), que não conheceu do agravo em razão da incidência da Súmula 182/STJ.
+A parte agravante, em suas razões recursais (e-STJ, fls. 433-438), sustenta ter impugnado todos os fundamentos da decisão de admissibilidade, afirmando a ocorrência de violação dos dispositivos apontados no recurso especial e que não há incidência da Súmula 7/STJ.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 451-457.
+É o relatório.
+EMENTA
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. COPARTICIPAÇÃO. AUSÊNCIA DE INDICAÇÃO DE CLÍNICA CREDENCIADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Decisão agravada reconsiderada, uma vez que houve a devida impugnação da decisão de admissibilidade.
+2. Não se verifica a alegada violação do art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+3. Esta Corte Superior possui o entendimento de que, nos contratos de plano de saúde, não é abusiva a cláusula que prevê coparticipação, desde que expressamente prevista no instrumento contratual firmado entre as partes, de forma clara e legível.
+4. No caso, o Tribunal local afirmou que, "Embora tenha apresentado clínica em rede credenciada, verifica-se que esta não dispõe do tratamento necessário à recuperaçao do autor".
+5. A pretensão recursal, com o escopo de alterar as conclusões do acórdão recorrido, demandaria o revolvimento do acervo fático-probatório dos autos, medidas inviáveis na via estreita do recurso especial, em razão da incidência da Súmula 7 do STJ.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+Afiguram-se relevantes os argumentos trazidos pela recorrente, razão pela qual reconsidero a decisão de fls. 434-435.
+Passa-se ao exame do mérito recursal.
+Trata-se de recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 317):
+"APELAÇÃO. Plano de saúde. Ação de obrigação de fazer. Sentença de improcedência. Inconformismo do autor. Internação de urgência em clínica psiquiátrica particular decorrente de dependência em substâncias químicas. Aplicação dos REsps nºs 1.809.486/SP e 1.755.866/SP - Tema 1032 do STJ, que não consideraram abusiva a cláusula de coparticipação. Operadora que deverá arcar com o pagamento das despesas de internação até o 30º dia e, em regime de coparticipação, após esse período. Sentença reformada. Recurso a que se dá parcial provimento."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 329-331).
+Nas razões do recurso especial (e-STJ, fls. 334-359), fundamentado na alínea "a" do permissivo constitucional, a recorrente apontou violação dos arts. 371 e 1.022 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a omissão do acórdão recorrido, uma vez que não analisou adequadamente o documento de fls. 121/125, que comprovaria a indicação de clínica credenciada para o tratamento do Recorrido, contrariando o entendimento de que não houve tal indicação.
+Foram apresentadas contrarrazões às fls. 371-385.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+Passo a decidir.
+Primeiramente, não se vislumbra a alegada violação do art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Na hipótese, o Tribunal de origem deu provimento parcial ao recurso de apelação interposto pelo ora recorrido para condenar a operadora de plano de saúde, ora agravante, a custear integralmente as despesas decorrentes do tratamento do autor, limitados aos primeiros 30 dias, e partir do 31º dia, o pagamento se dará mediante coparticipação no percentual máximo de 50%, pelo preço praticado pela Clínica. É o que se infere do seguinte trecho do acórdão (e-STJ, fls. 318-320):
+"A operadora de plano de saúde não indicou clínica credenciada quando solicitada para o tratamento que foi indicado ao autor, conforme se verifica as fls. 32/34, motivo pelo qual procurou clínica particular.
+Logo, de rigor a cobertura do tratamento na clínica indicada pelo autor, todavia, com observação do entendimento firmando pelo C. Superior Tribunal de Justiça ao julgar os REsps nºs 1.809.486/SP e 1.755.866/SP, de que não é abusiva a cláusula que estabelece a coparticipação do usuário em 50% dos custos da internação, após o trigésimo dia de permanência em hospital ou clínica psiquiátrica, "in verbis":
+(..)
+Assim, em que pese o quadro de dependência química do autor, os custos da internação, após o 30º dia, deverão ser em regime de coparticipação, nos termos da cláusula XVIII (fls. 138).
+(..)
+Dessa forma, de rigor a reforma da sentença, a fim de determinar à ré o reembolso integral referente primeiro mês de internação do autor em clínica para tratamento de dependência química e 50% dos demais meses.
+Embora tenha apresentado clínica em rede credenciada, verifica-se que esta não dispõe do tratamento necessário à recuperaçao do autor."
+Os fundamentos adotados pelo Tribunal a quo se encontram em consonância com a jurisprudência desta Corte no tocante à responsabilidade das operadoras de plano de saúde diante da omissão na indicação de rede credenciada. A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. PLANO DE SAÚDE. TRATAMENTO PSIQUIÁTRICO. INÉRCIA DA REQUERIDA EM INDICAR CLÍNICA ESPECIALIZADA CREDENCIADA. DEVER DE REEMBOLSO INTEGRAL. CONSONÂNCIA COM O ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. Evidenciadas a urgência do tratamento e a falha na prestação do serviço consistente na omissão da operadora do plano de saúde em indicar estabelecimento, além da indisponibilidade de serviços próprios na rede credenciada, é devido o reembolso integral das despesas feitas pelo segurado.
+3. Agravo interno provido. Agravo conhecido. Recurso especial improvido."
+(AgInt no AREsp n. 2.393.487/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/3/2025, DJEN de 20/3/2025)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANO MORAL COM TUTELA DE URGÊNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. COBERTURA DE TRATAMENTO MÉDICO. AUSÊNCIA DE INDICAÇÃO DE CLÍNICA APTA A FORNECER O TRATAMENTO NA REDE CREDENCIADA. DEVIDO O REEMBOLSO INTEGRAL DAS DESPESAS HOSPITALARES. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. AGRAVO PROVIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte se firmou no sentido de que, "nos casos em que não seja possível a utilização dos serviços médicos próprios, credenciados ou conveniados, o reembolso, pela operadora de assistência à saúde, do custeio das despesas médicas realizadas pelo segurado, deve ficar limitado aos valores indicados na tabela da operadora de plano de saúde, ainda que se trate de inexistência de estabelecimento credenciado no local ou impossibilidade de utilização dos serviços próprios da operadora" (AgInt no AREsp 2.534.737/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024).
+2. Contudo, em casos excepcionais, como "Na hipótese em que a operadora do plano de saúde se omite em indicar prestador da rede credenciada apto a realizar o atendimento do beneficiário, este faz jus ao reembolso integral das despesas assumidas com o tratamento de saúde que lhe foi prescrito pelo médico assistente, em razão da inexecução contratual" (AgInt no AREsp 2.396.847/RJ, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.503.886/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/8/2024, DJe de 2/9/2024)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PLANO DE SAÚDE. TRATAMENTO MÉDICO. URGÊNCIA. OMISSÃO DO PLANO DE SAÚDE EM INDICAR PROFISSIONAL CREDENCIADO PARA REALIZAÇÃO DO TRANSPLANTE DE FÍGADO. REEMBOLSO INTEGRAL. AFASTAMENTO DA TABELA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. A restituição das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitida somente em hipóteses excepcionais, observada a tabela praticada no mercado. Contudo, "na hipótese em que a operadora do plano de saúde se omite em indicar prestador da rede credenciada apto a realizar o atendimento do beneficiário, este faz jus ao reembolso integral das despesas assumidas com o tratamento de saúde que lhe foi prescrito pelo médico assistente, em razão da inexecução contratual" (AgInt no AgInt no REsp n. 2.063.554/SP, relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+3. Agravo interno a que se nega provimento."
+(AgInt no AgInt no AREsp n. 2.456.523/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2024, DJe de 23/8/2024)
+Nesse contexto, estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Por fim, rever a conclusão do Tribunal de origem a respeito da não indicação de clínica credenciada de forma tempestiva demandaria o reexame de provas, o que é incabível ante o óbice da Súmula 7 do STJ.
+Diante do exposto, dou provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial.
+É o voto.
