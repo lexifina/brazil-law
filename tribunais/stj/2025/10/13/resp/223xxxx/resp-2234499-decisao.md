@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por DISTRITO FEDERAL com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a Fazenda Pública ajuizou execução fiscal, visando a cobrança de crédito tributário de Imposto Predial e Territorial Urbano (IPTU) e Taxa de Limpeza Pública (TLP). Deu-se, à causa, o valor de R$ 1.443,16 (um mil, quatrocentos e quarenta e três reais e dezesseis centavos).
+O juízo da execução fiscal proferiu decisão interlocutória indeferindo pedido de penhora de direitos possessórios. O agravo de instrumento foi parcialmente provido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), que deferiu a penhora dos direitos possessórios relativos a um dos imóveis, mas a indeferiu quanto ao outro, em razão da existência de cessão desses direitos a terceiro.
+O referido acórdão foi assim ementado, in verbis:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DÉBITO TRIBUTÁRIO. IMPOSTO PREDIAL TERRITORIAL URBANO - IPTU. INADIMPLEMENTO. PENHORA DE DIREITOS POSSESSÓRIOS.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que determinou a penhora de direitos possessórios sobre imóvel em situação irregular.
+2. A controvérsia envolve a possibilidade de penhora sobre direitos possessórios relativos a imóveis irregulares e os limites dessa medida em caso de cessão a terceiros.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em determinar: (i) se é admissível a penhora de direitos possessórios sobre imóveis em situação irregular; e (ii) se tal penhora pode ser realizada quando comprovada a cessão do imóvel a terceiro.
+III. RAZÕES DE DECIDIR
+4. É possível a penhora de direitos possessórios sobre imóvel irregular, desde que a constrição recaia sobre os direitos pessoais relacionados ao bem, respeitando a jurisprudência consolidada.
+5. A negociação de direitos possessórios de imóveis em áreas irregulares, por possuírem valor econômico, viabiliza a alienação e a satisfação de créditos do exequente.
+6. Contudo, a cessão comprovada dos direitos possessórios a terceiros impossibilita a constrição, pois esses direitos não integram mais o patrimônio do devedor.
+IV. DISPOSITIVO E TESE
+7. Agravo conhecido e parcialmente provido. Tese de julgamento: "1. É admissível a penhora de direitos possessórios sobre imóveis em situação irregular, desde que a constrição incida sobre os direitos pessoais e não sobre o bem propriamente dito. 2. Não se admite a penhora de direitos possessórios quando comprovada sua cessão a terceiros."
+Não foram opostos embargos de declaração.
+No apelo nobre, o DISTRITO FEDERAL alega violação dos arts. 73, I e II, 374, IV, 405, 797, 835, XIII, todos do CPC, sustentando, em síntese, que deve ser deferida a penhora no caso da Fazenda Pública comprovar, por meio de sistemas próprios, a titularidade de direitos de posse sobre os imóveis, bem como que os créditos de IPTU/TLP são relativos ao imóvel apontado.
+Na sequência, aponta violação do art. 130 do CTN, justificando, em suma, que a responsabilidade tributária se transfere à adquirente ou cessionária, porquanto o fato gerador corresponde à propriedade, ao domínio útil ou à posse de bens imóveis, motivo pelo qual deve ser admitida a penhora, ainda que existente cessão de direitos possessórios sobre o imóvel.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Sobre a controvérsia, verifica-se que o Tribunal a quo deferiu a penhora de um dos imóveis do executado e a indeferiu em relação a outro, por este ter sido objeto de cessão em 1999, ao passo que a execução fiscal foi ajuizada em 2002, conforme se extrai dos excertos do julgado:
+(..)
+Alega que o feito data do ano de 2002, sem que tenha ocorrido a satisfação do crédito, e que já foram realizadas todas as tentativas de persecução patrimonial.
+(..)
+No presente caso, importante ressaltar que a agravada não nega ser a proprietária do imóvel localizado ao Condomínio Privé Residencial Mônaco, Quadra 04, Lote nº 05, consoante petição ao ID 36895782 da origem. Na mesma oportunidade, esclarece que reside no local desde 1.993 e que tentou negociar a redução da alíquota relativa ao IPTU/TLP, sem êxito. Ainda, informa que o imóvel localizado ao Condomínio Privé Residencial Mônaco, Quadra 04, Lote nº 03, foi cedido à Márcia Madalena Boucher em 13/05/1999.
+Em consulta aos autos originários, de fato, consta a cópia do instrumento particular de cessão de direitos do imóvel no ano de 1.999, de tal modo que, em tese, não faz mais parte do patrimônio da agravada (ID 36895782 da origem).
+Assim, consoante já explanado, embora seja possível a penhora de direitos aquisitivos, na presente hipótese mostra-se incabível a penhora sobre o imóvel objeto de cessão de direitos a terceiros.
+(..)
+O Superior Tribunal de Justiça tem entendido que é possível a penhora de direitos aquisitivos derivados de contrato com cláusula de alienação fiduciária em garantia, bem como de imóvel situado em condomínio irregular, uma vez que a constrição não recairá sobre a propriedade do imóvel, mas sobre os direitos possessórios que o devedor tenha. Confiram-se os julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA DOS DIREITOS DECORRENTES DE CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. LEGALIDADE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2. Não há violação arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. No que se refere à ordem legal de preferência da penhora e a onerosidade do ato constritivo, o conhecimento do recurso encontra óbice nas Súmulas 7 e 211 do STJ e 282 do STF.
+4. No caso dos autos, o acórdão recorrido está em conformidade com pacífica orientação jurisprudencial deste Tribunal Superior, no sentido de que, no processo executivo fiscal, é legal a penhora de direitos aquisitivos derivados de contrato com cláusula de alienação fiduciária em garantia. Precedentes. Observância da Súmula 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.284.019/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS AQUISITIVOS. PENHORA. POSSIBILIDADE. IMÓVEL VINCULADO AO PROGRAMA MINHA CASA MINHA VIDA. PAGAMENTO DE DÉBITO CONDOMINIAL. EXCEÇÃO À IMPENHORABILIDADE.
+1. Ação de execução de título executivo extrajudicial da qual foi extraído o presente recurso especial, interposto em 21/8/2024 e concluso ao gabinete em 26/9/2024.
+2. O propósito recursal consiste em dizer se são penhoráveis os direitos aquisitivos derivados de contrato de alienação fiduciária de imóvel integrante do Programa Minha Casa Minha Vida (PMCMV) para pagamento de débito condominial.
+4. Esta Corte Superior perfilha o entendimento de que é possível a penhora de direitos aquisitivos - de titularidade da parte executada - derivados de contrato de alienação fiduciária em garantia.
+3. Nos contratos de alienação fiduciária em garantia de bem imóvel, a responsabilidade pelo pagamento das despesas condominiais recai sobre o devedor fiduciante, enquanto estiver na posse direta do imóvel. Assim, como ainda não se adquiriu a propriedade plena, eventual penhora não poderá recair sobre o direito de propriedade - que pertence ao credor fiduciário -, mas sim sobre os direitos aquisitivos derivados da alienação fiduciária em garantia.
+Precedentes.
+5. A partir da interpretação sistemática do inciso I do art. 833 do CPC/2015 e do disposto no §1º do mesmo dispositivo legal, conclui-se que são penhoráveis os direitos aquisitivos derivados de contrato de alienação fiduciária de imóvel integrante do Programa Minha Casa Minha Vida (PMCMV) para pagamento de débito condominial.
+6. Na hipótese dos autos, não merece reforma o acórdão recorrido, pois, nos termos da fundamentação aqui adotada, autorizou a penhora dos direitos aquisitivos derivados de contrato de alienação fiduciária de imóvel integrante do Programa Minha Casa Minha Vida (PMCMV) para pagamento de débito condominial.
+7. Recurso especial não provido.
+(REsp n. 2.172.631/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/11/2024, DJe de 18/11/2024.)
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TAXAS DE CONDOMÍNIO. PENHORA SOBRE IMÓVEL SITUADO EM CONDOMÍNIO IRREGULAR. POSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 13/STJ. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Tratando-se de imóvel situado em condomínio irregular, a penhora não recairá sobre a propriedade do imóvel, mas sobre os direitos possessórios que o devedor tenha.
+2. O artigo 655, XI, do Código de Processo Civil prevê a penhora de direitos, o que autoriza a constrição do direito possessório, em especial nas situações em que o direito possui expressão econômica e integra o patrimônio do devedor.
+3. A admissibilidade de recurso especial fundado na alínea "c" do permissivo constitucional pressupõe que tribunais distintos tenham interpretado um mesmo tema de maneira divergente. Súmula n. 13/STJ.
+4. A mera transcrição do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+5. Recurso especial não-conhecido.
+(REsp n. 901.906/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/2/2010, DJe de 11/2/2010.)
+No caso em exame, ainda que a jurisprudência desta Corte Superior reconheça a possibilidade de penhora de direitos possessórios, em razão de seu conteúdo econômico, não se mostra viável, na espécie, acolher a tese da Fazenda Pública de que haveria registros nos sistemas internos do Fisco demonstrando a posse do executado sobre o imóvel. Isso porque o julgador a quo, amparado no conjunto probatório dos autos, concluiu que a cessão dos direitos possessórios pelo executado ocorreu em momento anterior ao ajuizamento da execução fiscal.
+Assim, para modific ar tal entendimento e interpretar os dispositivos legais indicados como violados, seria imprescindível o reexame de matéria fático-probatória, providência vedada na estreita via do recurso especial. Incide, portanto, a Súmula n. 7 do STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
