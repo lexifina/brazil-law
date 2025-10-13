@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. FUNDO 157. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTAS DECLARADAS BOAS. DOCUMENTAÇÃO SUFICIENTE. PROVA DO VALOR E DA DATA DO INVESTIMENTO INICIAL E DA EVOLUÇÃO DAS COTAS. REEXAME. SÚMULA N. 7/STJ.
+1. O Tribunal de origem entendeu que o banco recorrido prestou as contas de forma satisfatória, pois os documentos juntado informam valor e a data do investimento inicial, bem como a evolução do número de cotas do autor até a data da prestação de contas.
+2. A análise da tese recursal, no sentido de que a prestação das contas teria sido irregular demandaria reexame de fatos e provas, o que é vedado pela Súmula n. 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ANTONIO OLMIRO DOS REIS contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento nos termos da seguinte ementa (fl. 1.397):
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. FUNDO 157. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTAS DECLARADAS BOAS. DOCUMENTAÇÃO SUFICIENTE. PROVA DO VALOR E DA DATA DO INVESTIMENTO INICIAL E DA EVOLUÇÃO DAS COTAS. REEXAME. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 1.244):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. FUNDO 157. SEGUNDA FASE. I - Preliminar contrarrecursal de inépcia da apelação. Contendo as razões recursais os nomes e qualificação das partes, os fundamentos de fato e de direito da reforma da sentença e o pedido de nova decisão, inexiste a alegada ofensa ao princípio da dialeticidade, satisfazendo o apelo, pois, os requisitos do art. 1.010 do CPC. Preliminar rejeitada. II - Impossibilidade de restituição do valor investido. Não procede a pretensão da parte autora de obter restituição dos valores investidos no Fundo 157, acrescido de rentabilidade pelo índice IBOVESPA, pois o investimento em questão não é indexado ao índice. Desprovido, no ponto. III - Pedido subsidiário de desconstituição da sentença. Não merece provimento o pedido subsidiário de desconstituição da sentença e reabertura do prazo para o banco requerido acostar aos autos os certificados e extratos pertinentes ao investimento de todo o período do investimento, considerando que as contas prestadas pelo banco indicaram o valor inicialmente investido, em 31/12/1976, que correspondia a 12,38 cotas, e a evolução do investimento até a data da prestação de contas, em 27/05/2022, quando possuía 0,01238 cotas, sendo que a impugnação do autor às contas prestadas é genérica e carece de comprovação no que tange à data e ao valor que alega ter investido. Assim, a sentença que declarou boas as contas prestadas pelo banco deve ser mantida. Recurso desprovido, no particular. APELO DESPROVIDO, REJEITADA A PRELIMINAR. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fl. 1.281).
+A agravante alega, nas razões do agravo interno, que a Súmula n. 7/STJ seria inaplicável ao caso, que as contas que foram acolhidas não observaram o art. 551, caput, do CPC, pois não especificaram receitas, despesas ou investimentos, limitando-se a indicar valores unilaterais de cotas e sua evolução.
+Aduz que a irregularidade da prestação de contas justifica a restituição dos valores investidos.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contraminuta (fls. 1.418-1.437).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. FUNDO 157. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTAS DECLARADAS BOAS. DOCUMENTAÇÃO SUFICIENTE. PROVA DO VALOR E DA DATA DO INVESTIMENTO INICIAL E DA EVOLUÇÃO DAS COTAS. REEXAME. SÚMULA N. 7/STJ.
+1. O Tribunal de origem entendeu que o banco recorrido prestou as contas de forma satisfatória, pois os documentos juntado informam valor e a data do investimento inicial, bem como a evolução do número de cotas do autor até a data da prestação de contas.
+2. A análise da tese recursal, no sentido de que a prestação das contas teria sido irregular demandaria reexame de fatos e provas, o que é vedado pela Súmula n. 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+A controvérsia trata de ação de exigir contas em que a parte ora agravante afirma ter direito à restituição dos valores investidos no Fundo 157 em razão da irregularidade nas contas prestadas pelo banco agravado.
+No recurso especial, alega a agravante, no mérito, que o acórdão contrariou os arts. 884 e 1.194 do Código Civil, 1º e 7º do Decreto-Lei n. 157/1967, 551, 552 e 373, I e II, do CPC, 6º, VIII, do Código de Defesa do Consumidor e 10 e 3º do Código Comercial.
+Sustenta, em síntese, (i) possibilidade de restituição de valores em sede de ação de exigir contas quando estas não forem prestadas; (ii) ausência de prestação de contas adequadas; (iii) ausência de comprovação dos valores investidos por parte do Banco recorrido a partir de documento meramente unilateral; e (iv) dever de guarda e obrigação do recorrido de juntar a integralidade dos extratos requeridos.
+O Tribunal de origem consignou a impossibilidade de restituição dos valores investidos acrescidos de rentabilidade pelo índice IBOVESPA, pois o investimento no Fundo 157 não é indexado ao índice referido (fls. 1.241-1.242):
+Conforme Resolução do Conselho Monetário Nacional nº 1023/85, os Fundos 157 foram transformados ou incorporados em Fundos Mútuos de Investimento em Ações, atuais fundos de investimento em ações, nos quais o investidor é detentor de um determinado número de cotas.
+O investimentos de renda variável, como é o caso das aplicações em fundos de ações, podem dar lucro ou prejuízo, estando sujeitos às variações de cotação das ações que compõem a carteira de investimentos do fundo, além de existirem despesas, a exemplo da taxa de administração, sendo certo que não há relação entre a variação do valor das quotas e a correção monetária do período ou outros indicadores.
+Assim, não procede a pretensão do autor de restituição do valor investido, acrescido de rentabilidade pelo índice IBOVESPA, pois o investimento em questão não é indexado ao índice.
+Registrou ainda que as contas prestadas pelo Banco são boas, afastando o direito à restituição (fl. 1.242):
+O banco apresentou as contas que entende como sendo devidas, acompanhadas de demonstrações financeiras do fundo, entre outros documentos, as quais foram impugnadas pelo autor e julgadas boas pela sentença.
+Ademais, é certo que o banco comprovou, por meio de documento intitulado "extrato cotista ex-fundo fiscal DL 157", o valor inicialmente investido, em 31/12/1976, que correspondia a 12,38 cotas, e a evolução do investimento até a data da prestação de contas, em 27/05/2022, quando possuía 0,01238 cotas, esclarecendo que "as conversões das moedas, ao longo dos anos, estão refletidas no valor da cota, à exceção da conversão monetária de 1993, de Cr$ para CR$, em que o administrador procedeu na divisão por 1.000 na quantidade de cotas" (evento 72, EXTR3).
+O autor alegou que a documentação juntada é insuficiente, postulando a intimação do réu para a juntada de todos os extratos e certificados relativos ao investimento, sob pena de aplicação do art. 400 do CPC, todavia conforme se observa, os documentos juntados pelo banco informam valor e a data do investimento inicial, bem como a evolução do número de cotas do autor até a data da prestação de contas.
+Nesse contexto, as contas apresentadas pelo banco devem ser declaradas boas, não merecendo reforma a sentença, no ponto.
+Alterar o decidido no acórdão impugnado, no que se refere à regularidade das contas prestadas, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. SEGUNDA FASE. FUNDO 157. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DAS CONTAS PRESTADAS DE FORMA FUNDAMENTADA. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. A INVERSÃO DO ÔNUS DA PROVA NÃO DISPENSA O AUTOR DE DEMONSTRAR MINIMAMENTE OS FATOS CONSTITUTIVOS DE SEU DIREITO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. "Nos termos da jurisprudência pacífica do STJ, apesar de o art. 6º, VIII, do CDC prever a inversão do ônus da prova para facilitação da defesa, a aplicação do Código de Defesa do Consumidor não exime o autor do ônus de apresentar prova mínima dos fatos constitutivos de seu direito. Precedentes." (AgInt no AREsp 2298281 / RJ, Rel Ministro HUMBERTO MARTINS, Terceira Turma, j. 20/11/2023).
+3. A Corte estadual concluiu que o banco recorrido demonstrou de forma satisfatória qual é o saldo de ações titulado pelo recorrente, o que, consequentemente, afasta a aplicação do art. 400, I, do CPC.
+4. A análise da tese recursal, no sentido de que a prestação das contas teria sido irregular demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.593.853/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
