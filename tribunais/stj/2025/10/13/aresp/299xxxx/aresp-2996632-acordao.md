@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. PLANO DE SAÚDE. COPARTICIPAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LIMITAÇÃO. INOVAÇÃO RECURSAL. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. O dispositivo legal indicado como malferido não tem comando normativo suficiente par a infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, com fundamento no art. 105, III, alíneas "a " e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C RECONHECIMENTO DA INAPLICABILIDADE DA COPARTICIPAÇÃO - PLANO DE SAÚDE - PACIENTE DIAGNOSTICADO COM TRANSTORNO DO ESPECTRO AUTISTA (TEA) - INDICAÇÃO DE TRATAMENTO MULTIDISCIPLINAR - COBRANÇA DE COPARTICIPAÇÃO DEVIDA, DESDE QUE NÃO ULTRAPASSE EM 02 (DUAS) VEZES O VALOR DA MENSALIDADE - SENTENÇA REFORMADA, EM CONSONÂNCIA COM O PARECER MINISTERIAL - RECURSO PROVIDO.
+A cobrança sob a modalidade de coparticipação não é ilegal, posto que está em consonância com o art. 16, inc. VIII, da Lei n. 9.656/98. Entretanto, quando extrapola o limite da proporcionalidade deve ser ponderada, pois não pode onerar demasiadamente o consumidor, colocando-o em desvantagem exagerada, e impedindo-o de utilizar o plano de saúde contratado, colocando em risco sua saúde e vida.
+Logo, ainda que não seja abusiva a cláusula contratual de plano de saúde que estabeleça a coparticipação do usuário nas despesas médico-hospitalares, em relação às terapias para tratamento de Transtorno de Espectro Autista (TEA), a contraprestação não poderá exceder o montante equivalente a 2 (duas) mensalidades do paciente" (e-STJ fl. 494).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 519-526).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial acerca da interpretação do art. 16, VIII, da Lei nº 9.956/1998, a violação dos arts. 489 e 1.022 do Código de Processo Civil.
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem, ao limitar a cobrança de coparticipação, violou a legislação sobre a matéria e a cláusula contratual.
+Afirma que o Superior Tribunal de Justiça possui entendimento no sentido de "limitar a cobrança de coparticipação e dividir o saldo remanescente em parcelas mensais, ressaltando a limitação imposta, até que se atinja o valor total da coparticipação" (e-STJ fl. 543).
+Argumenta que
+"a Operadora de Planos de Saúde utiliza do cálculo atuarial para se arbitrar valor da mensalidade e da coparticipação a ser cobrada de cada usuário, não devendo o judiciário, sem qualquer respaldo técnico, limitar a sua contraprestação" (e-STJ fl. 545).
+Sem as contrarrazões (e-STJ fl. 553), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. PLANO DE SAÚDE. COPARTICIPAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LIMITAÇÃO. INOVAÇÃO RECURSAL. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. O dispositivo legal indicado como malferido não tem comando normativo suficiente par a infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo, por analogia, o óbice da Súmula nº 284/STF.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à existência de inovação recursal quanto ao tema, além de ter asseverado que o entendimento jurisprudencial seria contrário ao pleito da ora recorrente.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Com relação ao mérito, o Tribunal de origem deu provimento à apelação interposta pela parte autora para reconhecer a abusividade do valor cobrado a título de coparticipação e determinou que a cobrança a esse título não ultrapasse 02 (duas) vezes o valor da mensalidade.
+Confira-se o seguinte trecho do acórdão recorrido:
+"Conforme relatado, cinge-se a questão em verificar a legalidade ou não da cobrança de coparticipação no tratamento multidisciplinar fornecido pela operadora do plano de saúde a parte autora, bem como a possibilidade de sua limitação em 02 (duas) vezes o valor da mensalidade.
+Pois bem. De início, cumpre ressaltar que a relação entre as partes se enquadra nos conceitos oriundos do Código de Defesa do Consumidor, os quais cito, in verbis:
+(..)
+Voltando-se os olhos ao caso , verifica-se que o autor, representado na sub judice lide pela sua genitora, é beneficiário do plano de saúde da apelante e portador de Transtorno do Espectro Autista (TEA), sendo recomendado o tratamento multidisciplinar (Id. 247630786).
+Devemos lembrar que há possibilidade de estipulação do valor a título de coparticipação nos planos de saúde, nos termos do artigo da Lei nº. 16 9.656/98, uma vez que implica em redução do risco assumido pela operadora quanto às coberturas oferecidas, bem como reduz o uso de forma indiscriminada das consultas, exames e procedimentos médicos, garantindo a sustentabilidade do equilíbrio contratual e consequente oferta de mensalidade mais módica para os usuários.
+Contudo, veda-se a aplicação de fatores de coparticipação que possam limitar o acesso aos serviços de saúde, considerando a sujeição das operadoras ao Código de Defesa do Consumidor e consequente vedação de condutas abusivas.
+(..)
+Portanto, ainda que avençada a coparticipação do contratante, observado o disposto no artigo 9º, parágrafo 3º, da Resolução Normativa da ANS nº. 268/11, há que se aferir, em cada caso, se a exigência do pagamento do respectivo valor restringiria o acesso ao atendimento de que necessita o paciente em função do contrato.
+Na espécie, conforme se extrai do contrato de Id. 247631682 - pág. 15, há previsão expressa acerca da cobrança de coparticipação sobre consultas em consultório médico, exames e de todos os demais serviços/procedimentos realizados em regime ambulatorial, incluindo os eventuais gastos com materiais, medicamentos, diárias e taxas.
+Entretanto, essa cobrança de coparticipação não pode ser muito onerosa ao consumidor de modo a impedir de continuidade do tratamento.
+À vista disso, observa-se que as mensalidades cobradas habitualmente do paciente C. D. O. S. F. é no importe de R$ 269,35 (duzentos e sessenta e nove reais e trinta e cinco centavos), e o valor cobrado a título de coparticipação foi bem superior a isso, chegando a mais de 09 (nove) vezes o valor da mensalidade inicial, conforme demonstrado no documento juntado no Id. 247631685 pela própria parte requerida.
+Logo, esse valor está muito acima do proporcional e razoável, assim, para evitar a interrupção do tratamento médico, o valor da coparticipação deve ser limitado em até 2 (duas) vezes o valor da mensalidade" (e-STJ fls. 485-488).
+Ao analisar os embargos de declaração, asseverou que:
+"No caso vertente, diversamente dos argumentos da recorrente, não há qualquer vício a ser sanado na decisão embargada.
+Pertinente ressaltar no ponto de insurgência nestes aclaratórios que a questão relativa à possibilidade de cobrança futura do saldo remanescente de coparticipação sequer foi objeto de insurgência na fase recursal anterior, tampouco abordada na peça contrarrecursal Id. 247631718 ou mesmo foi aventada no curso da demanda na instância singela.
+Verifica-se, em análise das razões recursais da apelação interposta, que a insurgência da parte apelante embargada limitou-se a requerer a exclusão da cobrança de coparticipação referente ao tratamento multidisciplinar, com fundamento na Resolução Normativa nº. 539/2022 da ANS, ou, subsidiariamente, a limitação da coparticipação ao equivalente a duas mensalidades do plano contratado.
+Assim, não há que se falar em omissão no acórdão embargado, uma vez que a matéria não foi objeto da controvérsia devolvida a esta instância recursal. Configura-se, portanto, evidente inovação recursal, vedada nesta fase processual.
+Os embargos de declaração não servem para reavaliar o mérito ou apresentar novos argumentos não discutidos anteriormente, sob pena de inovação recursal.
+Além disso, o entendimento dos Tribunais sobre a limitação da coparticipação em planos de saúde é firme no sentido de que não há base legal para a cobrança de saldo remanescente" (e-STJ fl. 523 - grifou-se).
+Nesse contexto, extrai-se das razões recursais que a agravante, então recorrente, não refutou todos os fundamentos adotados pela Corte local, sobretudo no que diz respeito à inovação recursal, o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, ainda que superado o óbice, verifica-se que o dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo o óbice da Súmula nº 284/STF.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) do valor da causa, ficando a recorrente responsável pelo pagamento de 50% (cinquenta por cento) e a parte recorrida em 50% (cinquenta por cento) desse valor, em razão da sucumbência recíproca.
+Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários para 20% (vinte por cento) sobre o valor da causa, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+É o voto.
