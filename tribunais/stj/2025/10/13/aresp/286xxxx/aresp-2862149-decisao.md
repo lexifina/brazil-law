@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por WESLEY SEBASTIAO MANOEL contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SANTA CATARINA que inadmitiu o recurso especial interposto contra o acórdão que julgou a Revisão Criminal n. 5056971-37.2024.8.24.0000 (fls. 87/88).
+No recurso especial (fls. 93/100), o agravante requereu, em síntese, o afastamento do aumento da pena-base fundado nas circunstâncias do crime e o reconhecimento do concurso formal entre o crime de homicídio e incêndio, alegando violação dos arts. 59 e 70 do Código Penal.
+Inadmitido o recurso na origem (fls. 87/88), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 135/138).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o recorrente a revisão da dosimetria com o afastamento do aumento da pena-base baseado nas circunstâncias do crime, bem como o reconhecimento do concurso formal entre os crimes de homicídio e incêndio, sustentando que não se trata de reexame de prova, mas da correta interpretação e aplicação da lei.
+O voto condutor do acórdão assim fundamentou a manutenção da dosimetria e do concurso material (fl. 45):
+Infere-se do relato prestado pelo informante Felipe André da Silva (irmão da vítima), que este na sessão plenária do Tribunal do Júri atesta que quando chegou à residência, quando já estava o Corpo de Bombeiros, seu irmão estava ainda "agonizando". Da mesma forma, a testemunha Alexandre Porto Ferreira, ouvido em sede judicial, afirmou que encontrou a vítima com ferimentos na parte da cabeça que apresentava muito sangramento e que na ocasião a vítima respirava com muita dificuldade, de forma que sequer conseguia falar, apenas gemia. Assim, infere-se que a fundamentação constante na sentença encontra amparo na prova oral, a qual atesta a maior crueldade na execução do delito, já que a vítima, além de ter sido encontrada com várias lesões na cabeça, estava agonizando em meio ao fogo instaurado em sua residência. No tocante ao concurso de crimes, restou evidente nos autos, notadamente o vídeo constante nos autos, que o revisionando, aproveitando das mesmas circunstâncias, após os golpes desferidos contra a cabeça da vítima, ateou fogo em sua residência, configurando, assim, desígnios autônomos, de modo que acertado o concurso material empregado na sentença.
+Verifica-se que o Tribunal de origem fundamentou adequadamente suas conclusões com base no conjunto probatório dos autos, especialmente nos depoimentos das testemunhas e nas imagens do vídeo que demonstraram tanto a maior crueldade na execução do delito quanto a existência de desígnios autônomos para configuração do concurso material.
+A pretensão defensiva de alteração da dosimetria e reconhecimento do concurso formal demanda inevitável revolvimento do contexto fático-probatório para nova análise das circunstâncias do crime e dos elementos que caracterizam a unidade ou pluralidade de desígnios, o que é inviabilizado pela Súmula 7/STJ.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. REVISÃO DA DOSIMETRIA. RECONHECIMENTO DO CONCURSO FORMAL. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
