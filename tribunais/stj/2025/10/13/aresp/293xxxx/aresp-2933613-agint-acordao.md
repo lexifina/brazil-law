@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. OFENSA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Nos termos do art. 105 da CF, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por GISELE MARINHO CARDOSO SIQUEIRA DE PAIVA contra decisão da Presidência do Superior Tribunal de J ustiça (fls. 293-294), que não conheceu do agravo em recurso especial.
+Os embargos de declaração foram rejeitados.
+Nas razões do agravo interno, a parte agravante requer a reconsideração da decisão agravada, alegando, para tanto, a inaplicabilidade da Súmula 284/STF, pois "a decisão merece reforma, porquanto deixou de considerar aspectos relevantes à luz da Constituição Federal e da legislação processual, incorrendo em violação ao art. 5º, inciso LV, da CF e aos arts. 489, §1º, IV, e 1.022, II, do CPC, caracterizando cerceamento de defesa" (fl. 313).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. OFENSA AO ART. 5º, LV, DA CONSTITUIÇÃO FEDERAL. ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Nos termos do art. 105 da CF, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+Afiguram-se relevantes as alegações recursais, motivo pelo qual reconsidero a decisão de fls. 293-294.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu seu apelo nobre, fundamentado na alínea "a" do permissivo constitucional, em face de acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - INÉPCIA DA INICIAL AFASTADA - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - CHEQUES EMITIDOS - CIRCULAÇÃO - PAGAMENTO DEVIDO - SENTENÇA CONFIRMADA. - Não é inepta a petição inicial que contém pedidos certos, determinados, que decorrem logicamente dos fatos nela expostos e que atendem aos requisitos do art. 319, do CPC. - O cerceamento de defesa apenas resta configurado quando limitado o direito da parte em realizar defesa, por ofensa aos princípios constitucionais da ampla defesa e do contraditório. - O cheque é título de crédito, revestido das características do direito cambiário, das quais decorrem as presunções de certeza e exigibilidade. - Comprovado que o título executivo circulou e ausente prova da má-fé do seu portador, deve o devedor honrar com o pagamento da cártula. - Preliminares rejeitadas e recurso desprovido. (fl. 256)
+Nas razões do recurso especial, a parte recorrente aponta ofensa ao artigo 5º, LV, da Constituição Federal, sustentando, em síntese, que "o Recorrente permite-se observar ainda acerca do cabimento deste recurso especial, que seu "mérito" refere exclusivamente matéria de direito posto ao direito de "Cerceamento de Defesa" artigo 5 inciso LV da Constituição Federal. Logo, não se trata de examinar o direito de "cerceamento de defesa", ou qualquer circunstância fática, mas apenas de afastar a lesão à norma cogente federal, de caráter processual, que regula a competência" (fl. 265).
+Sem contrarrazões.
+Decido.
+Inicialmente, é necessário esclarecer que o recurso especial não é o meio adequado para discutir eventual ofensa a dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal (art. 102, III, da CF/1988). Nesse sentido:
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. ANÁLISE DE MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. INVASÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Na aplicação do art. 1.022 do CPC, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, não existindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que têm como escopo único uniformizar a jurisprudência do Tribunal, não se prestando para ser utilizado como via de rejulgamento do Recurso Especial (STJ, AgInt nos EREsp n. 1.565.059/ES, relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 20/9/2022, DJe de 23/9/2022).
+3. Nos termos do art. 105 da CF, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+4. Agravo interno ao qual se nega provimento."
+(AgInt nos EAREsp n. 2.284.019/SC, relatora Ministra MARIA ISABEL GALLOTTI, Corte Especial, julgado em 24/9/2024, DJe de 30/9/2024 - sem grifo no original).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. AGRAVO DE INSTRUMENTO. DOIS AGRAVOS INTERPOSTOS. APLICAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. ANÁLISE DO PRIMEIRO. PRECLUSÃO CONSUMATIVA EM RELAÇÃO AO SEGUNDO. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGADO FUNDAMENTADO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA N. 284 DO STF, POR ANALOGIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N. 283 DO STF, POR ANALOGIA. FATURAMENTE DA EMPRESA. PENHORA. POSSIBILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Em razão do princípio da unirrecorribilidade recursal, que estabelece que para cada provimento judicial admite-se apenas um recurso, deve ser reconhecida a preclusão consumativa daquele que foi deduzido por último, porque electa una via non datur regressus ad alteram.
+2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+3. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça de Goiás decidiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+4. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+5. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula n. 283 do STF, aplicável, por analogia, ao recurso especial.
+6. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+7. A não observância dos requisitos dos arts. 1.029, § 1º, do NCPC, e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do
+permissivo constitucional.
+8. Agravo interno não provido."
+(AgInt no AREsp n. 2.400.143/GO, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024 - sem grifo no original).
+Com essas considerações, verifica-se que o apelo nobre não comporta conhecimento.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para não conhecer do recurso especial.
+Se houver nos autos a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3 º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
