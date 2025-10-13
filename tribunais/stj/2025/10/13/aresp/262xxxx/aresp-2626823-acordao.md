@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO BANCÁRIO.TERCEIRA FRAUDADORA. RELAÇÃO COM A INSTITUIÇÃO FINANCEIRA. PARCERIA COMERCIAL. QUESTÃO NÃO DECIDIDA. EMBARGOS DE DECLARAÇÃO OPOSTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. A violação do art. 1.022 do Código de Processo Civil devidamente demonstrada no recurso especial enseja a devolução dos autos ao Tribunal de origem para que proceda a um novo julgamento dos embargos de declaração opostos ao acórdão recorrido, sanando-se os vícios neles apontados.
+2. É certo que o magistrado não está obrigado a rebater exaustivamente cada ponto levantado pelas partes, mas deve analisar, ainda que para rejeitá-los, os fundamentos que sejam potencialmente capazes de conduzir a controvérsia a desfecho diverso.
+3. Agravo conhecido para conhecer do recurso especial, e nessa extensão, dar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por CAROLINA HOMSI contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DECLARATÓRIA DE ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZATÓRIA - Contrato bancário - Sentença de parcial procedência dos pedidos - Insurgência do banco réu - Cabimento - Instituição financeira que logrou êxito em demonstrar a regularidade da contratação - Ausência de prova de que a autora tenha utilizado os canais de comunicação oficiais do banco réu - Fato exclusivo de terceiro - Inexistência de nexo causal entre o ato ilícito praticado por falsárias e a conduta do banco requerido - Improcedência dos pedidos com relação ao banco réu - RECURSO DO RÉU PROVIDO.
+AÇÃO DECLARATÓRIA DE ANULAÇÃO DE CONTRATO CUMULADA COM INDENIZATÓRIA - Contrato bancário - Sentença de parcial procedência dos pedidos - Insurgência da autora - Empresa ré que agiu de forma ardilosa e induziu a requerente a contratar empréstimos e quitar boletos - Devolução em dobro, nos termos do art. 42, § único, do CDC - Dano moral configurado - Comprometimento de verba que ostenta natureza alimentar - Fixação do quantum indenizatório em R$ 10.000,00 - RECURSO DA AUTORA PARCIALMENTE PROVIDO" (e-STJ fl. 650).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 672/677).
+No recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos com as respectivas teses:
+i) artigos 489 e 1.022 do Código de Processo Civil, aduzindo que teria havido negativa de prestação jurisdicional porque o Tribunal de origem não analisou o argumento de que a Libercon não é uma terceira fraudadora sem relação com o Banco Pan, mas sim verdadeira parceira comercial, conforme admitido pelo Banco Pan em resposta à reclamação formulada junto ao Procon-SP;
+ii) art. 389 do Código de Processo Civil, sustentando que o acórdão recorrido ignorou a confissão extrajudicial do Banco Pan sobre sua relação de parceria com a Libercon, o que descaracteriza sua defesa em juízo; e
+iii) art. 14 da Lei n.º 8.078/90 (Código de Defesa do Consumidor), defendendo que, ao não reconhecer a responsabilidade solidária do Banco Pan, o acórdão recorrido aplicou indevidamente a excludente de responsabilidade prevista no §3º do referido artigo, ao contrário do entendimento de outros Tribunais que reconhecem a responsabilidade objetiva das instituições financeiras por fraudes praticadas por terceiros no âmbito de operações bancárias.
+Após as contrarrazões (e-STJ fl. 733/742), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO BANCÁRIO.TERCEIRA FRAUDADORA. RELAÇÃO COM A INSTITUIÇÃO FINANCEIRA. PARCERIA COMERCIAL. QUESTÃO NÃO DECIDIDA. EMBARGOS DE DECLARAÇÃO OPOSTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. A violação do art. 1.022 do Código de Processo Civil devidamente demonstrada no recurso especial enseja a devolução dos autos ao Tribunal de origem para que proceda a um novo julgamento dos embargos de declaração opostos ao acórdão recorrido, sanando-se os vícios neles apontados.
+2. É certo que o magistrado não está obrigado a rebater exaustivamente cada ponto levantado pelas partes, mas deve analisar, ainda que para rejeitá-los, os fundamentos que sejam potencialmente capazes de conduzir a controvérsia a desfecho diverso.
+3. Agravo conhecido para conhecer do recurso especial, e nessa extensão, dar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+No recurso especial a parte recorrente alega, dentre outros assuntos, que
+"Como se vê, a análise do Tribunal a quo se deteve apenas às cédulas de crédito bancário (contratos de empréstimo), sendo ignorada a prova documental juntada pela requerente, que confirma, de maneira inequívoca, a principal alegação autoral acerca da existência de relação comercial entre as corrés e, portanto, do dever de ingerência do Banco Pan na hipótese, o que seria suficiente para que atraia sua responsabilidade pela fraude debatida na presente demanda.
+Com isto, a autora opôs embargos de declaração, com fundamento nos artigos 1.022, inciso II e parágrafo único, inciso II, e art. 489, §1º, inciso IV, ambos do CPC/15, alertando ao Tribunal de origem a existência de omissão ao não ter sido avaliado o argumento de que o Banco Pan havia confessado ser parceiro da Libercon, de modo que teria sim responsabilidade por não ter fiscalizado a atuação de sua correspondente autorizada.
+A C. 11ª Câmara de Direito Privado do E. TSJP, Turma, não obstante, limitou-se, de forma genérica, em afirmar que não havia, no Acórdão, o vício apontado, aduzindo que a matéria debatida havia sido suficientemente enfrentada, reproduzindo, para tanto, ipsis litteris trechos da fundamentação e do dispositivo do julgado.
+Sucede que, ainda que a jurisprudência tenha convencionado que o julgador não está obrigado a debater, ponto a ponto, todos os argumentos deduzidos pelas partes, a justificativa abstrata de que "o acórdão foi claro ao analisar as questões postas em julgamento, fundamentando, de maneira clara, suas razões de decidir" não se presta para negar a existência da omissão apontada" (e-STJ fls. 695/696).
+De fato, tais questões foram devidamente ventiladas nos embargos de declaração de e-STJ fls. 663/670, mas não foram devidamente analisadas.
+Isso porque o acórdão que julgou o recurso integrativo limitou-se a repetir o acórdão recorrido, registrando, genericamente, que "o acórdão foi claro ao analisar as questões postas em julgamento, fundamentando, de maneira clara, suas razões de decidir" (e-STJ fl. 674).
+Nesse sentido, o  artigo  1.022,  parágrafo  único,  II,  do  CPC/2015,  remetendo-se  ao  artigo  489,  §  1º,  IV,  determina  que  é  omissa  a  decisão  que  "não  enfrentar  todos  os  argumentos  deduzidos  no  processo  capazes  de,  em  tese,  infirmar  a  conclusão  adotada  pelo  julgador".
+É certo que o magistrado não está obrigado a rebater exaustivamente cada ponto levantado pelas partes, mas deve analisar, ainda que para rejeitá-los, os fundamentos que sejam potencialmente capazes de conduzir a controvérsia a desfecho diverso.
+A omissão quanto a tais questões compromete a completude da prestação jurisdicional e enseja o cabimento dos embargos de declaração.
+Não se admite, portanto, decisão genérica ou meramente formal, que silencie sobre argumentos relevantes e juridicamente adequados à modificação do resultado do julgamento. A jurisprudência tem reconhecido que a ausência de enfrentamento de tais pontos configura vício sanável por meio dos aclaratórios.
+Assim, o julgador deve enfrentar todas as teses capazes, em tese, de infirmar sua conclusão, sob pena de nulidade por negativa de prestação jurisdicional, ainda que o resultado final se mantenha inalterado após o exame motivado das alegações.
+No caso,  não  tendo  o  Tribunal  local  enfrentado  questão  necessária  ao  deslinde  da  controvérsia,  resta  impossibilitado  o  acesso  à  instância  extrema,  cabendo  à  parte  vencida  invocar,  como  no  caso,  a  transgressão  ao  art.  1.022  do  CPC/2015,  a  fim  de  anular  o  acórdão  recorrido  para  suprir  a  omissão  existente.
+Confiram-se:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  CUMULADA  COM  DANOS  MORAIS.  JULGAMENTO  POR  DECISÃO  MONOCRÁTICA.  SÚMULA  N.  568/STJ.  VIOLAÇÃO  DO  ART.  1.022,  II,  DO  CPC/2015.  OMISSÃO  CONFIGURADA.  RETORNO  DOS  AUTOS  AO  TRIBUNAL  DE  ORIGEM.  DECISÃO  MANTIDA.
+1.  "O  relator,  monocraticamente  e  no  Superior  Tribunal  de  Justiça,  poderá  dar  ou  negar  provimento  ao  recurso  quando  houver  entendimento  dominante  acerca  do  tema"  (Súmula  n.  568  do  STJ).
+2.  Deixando  a  Corte  local  de  se  manifestar  sobre  questões  relevantes  apontadas  em  embargos  de  declaração  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo,  tem-se  por  configurada  a  violação  do  art.  1.022,  II,  do  CPC/2015,  devendo  ser  provido  o  recurso  especial,  com  determinação  de  retorno  dos  autos  à  origem,  para  que  seja  suprido  o  vício.
+3.  Agravo  interno  a  que  se  nega  provimento"
+  (AgInt  no  REsp  1.679.541/PE,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  27/8/2019,  DJe  30/8/2019 - grifou-se).
+
+"PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC/2015.  MATÉRIA  PRELIMINAR.  VIOLAÇÃO.  OCORRÊNCIA.  QUESTÕES  DE  MÉRITO.  PREJUDICIALIDADE.
+1.  "Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC"  (Enunciado  Administrativo  n.  3  do  STJ).
+2.  Há  ofensa  ao  art.  1.022  do  CPC/2015  quando  o  Tribunal  de  origem,  a  despeito  da  oposição  de  aclaratórios,  não  se  manifesta  sobre  questão  relevante  ao  deslinde  da  controvérsia,  sendo  de  rigor  o  retorno  dos  autos  à  origem  para  sanar  o  vício  de  integração,  notadamente  quando  relacionado  a  matéria  fático-probatória.
+3.  O  acolhimento  da  preliminar  de  nulidade  do  acórdão,  por  negativa  de  prestação  jurisdicional,  prejudica  a  análise  das  questões  mérito  suscitadas  pelas  partes,  tendo  em  conta  que  será  renovado  o  julgamento  dos  embargos  de  declaração.
+4.  Agravo  interno  desprovido"
+  (AgInt  no  AgInt  no  AgInt  no  AREsp  1.082.536/MA,  Rel.  Ministro  GURGEL  DE  FARIA,  PRIMEIRA  TURMA,  julgado  em  19/3/2019,  DJe  2/4/2019 - grifou-se).
+Na  hipótese,  portanto,  faz-se  imperioso  o  retorno  dos  autos  à  origem.
+Ante  o  exposto,  conheço  do  agravo para conhecer do recurso especial e  dar-lhe  provimento,  a  fim  de  determinar  o  retorno  dos  autos  ao  Tribunal  de  origem  para  novo julgamento dos embargos de declaração de e-STJ fls. 663/670 , sanando-se os vícios neles apontados, prejudicadas as demais teses recursais.
+É o voto.
