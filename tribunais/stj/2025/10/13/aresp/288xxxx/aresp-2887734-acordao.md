@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos do art. 1.022 do CPC, considera-se omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+2. Embora o julgador não esteja obrigado a responder todas as alegações das partes, deve se pronunciar sobre temas essenciais ao deslinde da controvérsia, indicando as razões que lhe formaram a convicção.
+3. Hipótese em que o Tribunal de origem não se pronunciou acerca do preenchimento dos requisitos legais para a concessão da tutela de evidência, especialmente a probabilidade do direito alegado pelos recorridos.
+4. Impossibilidade de esta Corte Superior de Justiça adentrar na análise dos fatos e provas dos autos e de enfrentar temas não prequestionados, impondo-se o retorno dos autos à origem para novo julgamento dos embargos de declaração.
+Agravo conhecido. Recurso especial provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por BANCO SAFRA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 103):
+Agravo de Instrumento. Cautelar antecedente. Tutela de evidência. Recurso do banco, ora requerido. Recorrente que pretende a revogação da tutela. Plausível o deferimento da medida no caso concreto. Tutela de evidência deferida no curso do feito para suspender os efeitos dos contratos discutidos nos autos. Parte agravante que contribuiu para o adiamento da conclusão pericial na medida em que, apesar de intimada por diversas vezes para apresentar os documentos faltantes, os quais foram devidamente relacionados pelo perito, descumpriu a determinação judicial. Possibilidade. Propósito protelatório da parte. Requisitos do artigo 311, I do CPC. Decisão mantida. Recurso não provido.
+Rejeitados os embargos de declaração opostos (fls. 136-142).
+No recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou a disposição contida no artigo 311, I, do CPC, porquanto a tutela de evidência foi concedida com base apenas em suposta conduta procrastinatória, sem comprovação da verossimilhança do direito dos recorridos, requisito essencial para a medida.
+Sustenta, em síntese, que seu crédito é líquido e certo, enquanto o alegado pelos recorridos se apoia em parecer contábil unilateral. Afirma ainda que eventual atraso na perícia decorreu da complexidade do exame, não de sua conduta, tornando indevida a aplicação de penalidade.
+Oferecidas contrarrazões ao recurso especial (fls. 146-161), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 162-164), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 192-205).
+Em decisão d a Presidência desta Corte, o agravo em recurso especial não foi conhecido em razão do óbice da Súmula n. 182/STJ (fls. 212-213).
+O Banco recorrente interpôs agravo interno, sustentando que todos os fundamentos foram impugnados e requerendo reconsideração da decisão agravada ou julgamento colegiado.
+Em decisão de minha relatoria (fls. 245-247), verificou-se que os fundamentos da decisão de inadmissibilidade do Tribunal de origem foram devidamente impugnados, sendo o agravo interno provido e a decisão da Presidência reconsiderada para uma nova análise do recurso especial.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Nos termos do art. 1.022 do CPC, considera-se omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+2. Embora o julgador não esteja obrigado a responder todas as alegações das partes, deve se pronunciar sobre temas essenciais ao deslinde da controvérsia, indicando as razões que lhe formaram a convicção.
+3. Hipótese em que o Tribunal de origem não se pronunciou acerca do preenchimento dos requisitos legais para a concessão da tutela de evidência, especialmente a probabilidade do direito alegado pelos recorridos.
+4. Impossibilidade de esta Corte Superior de Justiça adentrar na análise dos fatos e provas dos autos e de enfrentar temas não prequestionados, impondo-se o retorno dos autos à origem para novo julgamento dos embargos de declaração.
+Agravo conhecido. Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia cinge-se à legalidade da decisão que deferiu a tutela de evidência, com fundamento no art. 311, I, do CPC, para suspender os efeitos dos contratos bancários, sob a alegação de que o Banco Safra S.A., ora recorrente, teria contribuído para o atraso da perícia ao não atender integralmente às solicitações do perito judicial.
+O recorrente sustenta que não estavam presentes os requisitos legais para a tutela de evidência, em especial a verossimilhança do direito alegado pelos recorridos, e que o Tribunal de origem teria incorrido em omissão ao não analisar adequadamente os argumentos dos embargos de declaração.
+Assiste razão à recorrente quanto à alegada ofensa ao art. 1.022 do CPC.
+Com efeito, a tese reputada omissa - preenchimento dos requisitos legais para a concessão da tutela de evidência, especialmente a probabilidade do direito alegado pelos recorridos - foi objeto de embargos de declaração, ocasião em que se requereu sua apreciação pelo Tribunal a quo (fls. 131-135).
+Da análise minuciosa dos autos, verifica-se que, de fato, mesmo após a oposição de embargos, a questão supramencionada não foi apreciada pelo Tribunal de origem, que se limitou a afirmar, de forma genérica, que não havia omissão ou erro material a ser sanado, in verbis (fls. 138-141):
+Rejeito os embargos declaratórios, eis que ausente qualquer omissão, contradição ou obscuridade a ser sanada no aresto, de acordo com o disposto no artigo 1.022 do CPC.
+A decisão embargada, portanto, mostra-se bastante clara e objetiva, tendo pontuado detalhadamente todos os argumentos apresentados pelas partes.
+Ademais, o embargante pretende, em verdade, o reexame da causa e isso porque, foi decidiu contrariamente aos seus interesses.
+ ..
+A propósito, "Não precisa o Juiz reportar-se a todos os argumentos trazidos pelas partes. Claro que se o juiz acolher um argumento bastante para sua conclusão, não precisará dizer que os outros, que objetivam o mesmo fim, são procedentes ou não" (Mário Guimarães, "O Juiz e a Função Jurisdicional", pág. 350, ed. 1958).
+Há entendimento jurisprudencial no sentido de que as decisões judiciais não estão obrigadas a resolver todas as questões suscitadas pelas partes. Mas apenas aquelas que as embasem de modo suficiente (RJTJESP 115/207; 111/414; 104/340). "Desnecessidade de o Juiz responder a todas as alegações da ré, bastando que exponha os fundamentos jurídicos em que se baseou" (RJTJESP 119/400).
+ ..
+Assim, a matéria tratada no recurso recebeu pontual exame, não apresentando nenhum dos vícios do art. 1022 do CPC.
+Também não prospera o uso de embargos de declaração para fins de prequestionamento de questões federais ou constitucionais como meio de viabilizar recurso especial ou extraordinário.
+Desse modo, para que a Corte de origem se manifeste acerca dos pontos reputados como omissos, impõe-se o reconhecimento da alegada violação do art. 1.022 do CPC, bem como a anulação do acórdão proferido em embargos de declaração para que seja realizado novo julgamento, que supra as omissões apontadas.
+A propósito, cito precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO AO ART. 1022 DO CPC/2015. OCORRÊNCIA. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Cinge-se a controvérsia, segundo se extrai do acórdão recorrido, de ação indenizatória com trânsito em julgado, proposta pela DELFIN RIO S/A CRÉDITO IMOBILIÁRIO em face do ESTADO DO RIO DE JANEIRO, que foi julgada procedente, condenando a parte ré ao pagamento de indenização pelos danos emergentes e pelos lucros cessantes desde a data do dano, em 1991. Foi expedido precatório judicial para o pagamento da condenação no ano de 2001, o qual só veio a ser pago em 2014. A parte autora, então, pleiteou o prosseguimento da execução até a satisfação integral do seu débito, ao argumento de que havia necessidade de complementação do depósito. O juiz de primeira instância determinou o retorno dos autos à Central de Cálculos, para refazer as contas, apurando-se os lucros cessantes. Em face dessa decisão, o ESTADO DO RIO DE JANEIRO interpôs agravo de instrumento, visando afastar a incidência de juros moratórios sobre os lucros cessantes devidos de 1991 (data do dano) a 2001 (data da expedição do precatório). O Tribunal de origem negou provimento ao recurso.
+2. Em análise à apontada violação ao art. 1.022 do CPC/2015, verifica-se que o Tribunal a quo, em que pese a oposição de embargos de declaração, não se manifestou sobre as seguintes teses deduzidas pelo ESTADO DO RIO DE JANEIRO: (i) existência de prescrição/preclusão da oportunidade de cobrar créditos moratórios;
+(ii) ocorrência de julgamento extra-petita, pois não houve pedido de inclusão dos juros moratórios na complementação do precatório em primeira instância; (iii) a de que os juros moratórios já estariam embutidos no valor do precatório pago; e (iv) ausência de intimação prévia quanto ao julgamento dos primeiros embargos de declaração opostos na origem, em violação aos artigos 934, 935 e 1.023, §1 do CPC, pois os embargos de declaração foram levados em mesa em sessão posterior à subsequente ao julgamento do agravo de instrumento.
+3. Não obstante a relevância das questões mencionadas, suscitadas em momento oportuno, o Tribunal de origem não se pronunciou sobre elas, mesmo após a oposição de embargos de declaração, restando, portanto, omisso o acórdão recorrido. Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1022 do CPC.
+Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+4. Agravo interno provido para dar provimento ao recurso especial e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração. (AgInt no REsp n. 1.767.552/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/6/2021, DJe de 14/6/2021.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre os pontos omissos apontados nos embargos de declaração.
+É como penso. É como voto.
