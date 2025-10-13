@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ART. 619 DO CPP. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Na linha dos precedentes desta Corte Superior, " ..  não está o juiz obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nas hipóteses em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial (REsp 1259899. Rel. Ministra Assusete Magalhães. DJ de 7/4/2014)" (AgRg no REsp n. 1.189.155/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2015, DJe 2/2/2016).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por SERGIO BENTO DE ARAUJO contra acórdão assim ementado (e-STJ fl. 1.403):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO CAPA DURA. NULIDADE. BUSCA E APREENSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. MOTIVAÇÃO PER RELATIONEM. POSSIBILIDADE. ANÁLISE DA PRESENÇA DE ELEMENTOS CONCRETOS PARA O DEFERIMENTO DA MEDIDA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, arts. 5º, inciso LXI, e 93, inciso IX, respectivamente). De acordo com a jurisprudência desta Corte Superior e do Supremo Tribunal Federal, a motivação per relationem é suficiente para fundamentar decisões judiciais. Em outras palavras, o fato de o decisum ter-se reportado ao anterior requerimento torna o ato perfeitamente válido para se determinar as medidas constritivas.
+2. Constando do acórdão recorrido que "o reconhecimento da necessidade do deferimento das medidas, nos termos do art. 240, do CPP, se deu a partir da avaliação de todos os fatos e dados coletados pela investigação até agora, os quais evidenciam elementos circunstanciais e indicativos dos possíveis crimes perpetrados pelos investigados", a alegação defensiva de ausência, "nos autos, de elementos concretos que apontem para o envolvimento do agravante nos fatos apurados, especialmente a ponto de autorizar a medida extrema" (e-STJ fl. 1.386), implica em revolver o material fático probatório, expediente esse defeso na angusta via do recurso especial ante o óbice encontradiço no verbete 7 da Súmula desta Corte.
+3. É dizer, mutatis mutandis, "a análise de eventual ausência de suporte probatório do relato policial que embasou referida medida implicaria necessário reexame de fatos e de provas, procedimento vedado, em recurso especial, pelo óbice previsto na Súmula n. 7 do STJ" (AgRg no AREsp n. 2.586.329/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2024, DJe de 20/6/2024.).
+4. Agravo regimental desprovido.
+Em suas razões, o embargante alega que "o acórdão embargado padece de omissões frente a 02 (dois) fundamentos jurídicos suscitados pelo embargante para justificar o reconhecimento da causa de nulidade quanto à ausência de fundamentação da decisão que deferiu a busca e apreensão" (e-STJ fl. 1.431).
+Sustenta, para tanto, que (e-STJ fls. 1.431/1.434):
+Em primeiro lugar, infere-se que o acórdão embargado, ao desprover o agravo regimental e chancelar a decisão monocrática, desconsiderou o parecer pericial documentoscópico acostado aos autos pela embargante.
+ ..
+Em segundo lugar, constata-se que o acórdão embargado também padece de omissão por outra perspectiva: diante da comprovação da causa de nulidade arguida pelo embargante - por meio de documento pericial que realiza o cotejo analítico entre a representação policial, o parecer ministerial e a decisão judicial -, infere-se que a decisão proferida pelo d. Juízo a quo em 19/12/2023 (e-STJ, fls. 74- 99) não se enquadra na utilização da técnica de fundamentação "per relationem", justamente porque a cópia do conteúdo de peças anteriores foi realizada pelo juiz à revelia da:
+(i) citação expressa às peças processuais das quais os trechos em questão foram copiados, tendo o magistrado adotado tais argumentos como se fossem seus, sem esclarecer às partes que foram extraídos integralmente do parecer ministerial e da representação policial;
+(ii) inclusão de argumentos jurídicos ou constatações fáticas de sua própria autoria, em postura que inviabilizou por completo a compreensão da parte sobre a formação da convicção do julgador e, por consequência, tornou prejudicado o controle de legalidade da decisão.
+Ao final, requer, o acolhimentos dos aclaratórios para (e-STJ fl. 1.439):
+(b.1) compatibilizar o acórdão embargado com a juntada de documento comprobatório da causa de nulidade arguida pela parte - parecer pericial documentoscópico -, o qual foi desconsiderado no julgamento do agravo regimental, embora tenha a embargante pugnado por sua relevância para o deslinde da causa, nos termos do art. 263, inc. II, do RI-STJ (e-STJ, fls. 1.108-1.345);
+(b.2) compatibilizar o acórdão embargado com a jurisprudência deste E. STJ que considera inválida a técnica de "per relationem" quando o magistrado deixa de acrescentar os próprios argumentos aos excertos transcritos de outras peças - abstendo-se, inclusive, de citar a fonte de onde tais trechos foram retirados -, como ocorreu neste caso, nos termos do art. 263, inc. II, do RI-STJ.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ART. 619 DO CPP. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. A questão posta foi decidida à luz de fundamentos adequados. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Na linha dos precedentes desta Corte Superior, " ..  não está o juiz obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nas hipóteses em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial (REsp 1259899. Rel. Ministra Assusete Magalhães. DJ de 7/4/2014)" (AgRg no REsp n. 1.189.155/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2015, DJe 2/2/2016).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato esse inadmissível em aclaratórios.
+A respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. (I) OPOSIÇÃO DE DOIS EMBARGOS IDÊNTICOS. (II) REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE FLS. 1.969/1.970 NÃO CONHECIDOS. EMBARGOS DE DECLARAÇÃO DE FLS. 1.967/1.968 REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos declaratórios.
+3. Embargos de declaração de fls. 1.969/1.970 não conhecidos. Embargos de declaração de fls. 1.967/1.968 rejeitados. (EDcl no AgRg nos EDcl no RE nos EDcl no AgRg no AREsp 639.142/SP, relatora Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 3/8/2016, DJe 30/8/2016.)
+Com efeito, é assente nesta Corte que " ..  não está o juiz obrigado a rebater, pormenorizadamente, todas as questões trazidas pela parte, configurando-se a negativa de prestação jurisdicional somente nas hipóteses em que o Tribunal deixa de emitir posicionamento acerca de matéria essencial (REsp 1259899. Rel. Ministra Assusete Magalhães. DJ de 7/4/2014)" (AgRg no REsp n. 1.189.155/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/12/2015, DJe 2/2/2016), razão pela qual não prospera a alegação defensiva de que houve a desconsideração de "parecer pericial documentoscópico acostado aos autos pela embargante".
+Com efeito, inexiste o vício da omissão na decisão objurg ada. Percebe-se, isso sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Desse modo, não há que se falar em vício no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
