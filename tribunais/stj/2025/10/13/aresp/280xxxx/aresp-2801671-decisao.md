@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo ESTADO DE MATO GROSSO DO SUL, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul , assim ementado (fl. 971):
+EMENTA - AÇÃO RESCISÓRIA EM EMBARGOS À EXECUÇÃO FISCAL - PRELIMINAR CONTRARRECURSAL DE NÃO CABIMENTO DA RESCISÓRIA - AFASTADA - MÉRITO - VIOLAÇÃO À NORMA JURÍDICA E ERRO DE FATO - ART. 966, V E VI, DO CPC - DÉBITO FISCAL ICMS - AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA - PROCESSO ADMINISTRATIVO - AUSÊNCIA DE NOTIFICAÇÃO DA CONSTITUIÇÃO DA DÍVIDA - VÍCIO INSANÁVEL - PROCEDÊNCIA DA AÇÃO.
+I - O requerido sustenta não estar configurado o erro de fato para fundamentar a ação rescisória, com base no inciso VIII do art. 966 do CPC, pois não há como admitir a rescisória pela valoração ou interpretação do acervo probatório, tampouco reexame de provas. Entretanto, a alegação não deve ser acolhida, uma vez que se confunde com o mérito desta.
+II - A ausência de intinção do contribuinte acerca da inscrição do crédito tributário em dívida ativa viola o disposto no art. 5º, LV, da CF, pois a ausência de notificação válida do suposto devedor tributário precedente à constituição da título é medida indispensável para certificar o cumprimento do contraditório e da ampla defesa. Sem tal observância, o procedimento administrativo fiscal concluído é nulo, o que, por consequência, a acarreta a nulidade da CDA dele gerada. (sic)
+III - Considerando que a ausência de notificação válida do suposto devedor tributário é medida indispensável para certificar o cumprimento do contraditório e da ampla defesa, e constatada a sua ausência no procedimento administrativo fiscal concluído, restam configurados a violação manifesta de norma jurídica, bem como o erro de fato necessários à procedência do pedido inicial.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 998-1.020, o recorrente sustenta a existência de violação ao artigo 966, inciso V e VI do Código de Processo Civil, ao argumento de que "não se verificou erro de fato, muito menos violação à norma jurídica gravada no § 5º do art. 2º da Lei 6.830/80 e art. 203 do CTN, sendo hígido, legal e legítimo o crédito público e, portanto, os dinheiros do cidadão sul-matogrossense representados pela Certidão de Dívida Ativa inadvertidamente fulminada pelo acórdão objurgado" (fl. 1.008).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 1.050-1.054):
+No tocante à propalada violação do art. 966, V e VI, do CPC, e ao preenchimento dos requisitos da ação rescisória, rever as premissas fáticas adotadas pelo acórdão recorrido e o convencimento obtido por este Tribunal - que, com base nas provas produzidas nos autos, entendeu estar configurado erro de fato para fundamentar a ação rescisória, para assim modificar o julgado e acolher o pleito recursal, implicaria, necessariamente, no reexame do conjunto fático-probatório, o que é vedado, no âmbito de recurso especial, por força da Súmula 7 do Tribunal da Cidadania.
+(..)
+À vista disso, independentemente do ângulo de análise, imperioso reconhecer que o reclamo esbarra em impeditivos formais e não supera todas as exigências legais em sede de juízo de prelibação, motivo pelo qual o prosseguimento do presente recurso especial deve ser obstaculizado.
+Em seu agravo, às fls. 1.059-1.065, s agravante alega que:
+As questões levantadas pelo recurso barrado dizem respeito exclusivamente ao direito envolvido na situação, como a inadequação da ação rescisória e a ausência de violação clara à norma jurídica, que já foram examinadas de maneira exaustiva em duas instâncias judiciais no processo que foi anulado pelo acórdão impugnado.
+(..)
+A discussão limitou-se ao fato de que o acórdão violou o artigo e seus incisos antes mesmo do julgamento da causa, porque recebeu a petição inicial da ação rescisória, mesmo considerando que não existia erro de fato ou violação à norma jurídica.
+Fica claro, portanto, que a análise deste recurso especial não exige um reexame das provas apresentadas no caso, mas se limita à interpretação dos dispositivos legais que regulam o uso da ação rescisória.
+Assim, não se justifica, neste caso, a aplicação da Súmula nº 07 do STJ como impedimento para o processamento da questão levantada.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III E DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
