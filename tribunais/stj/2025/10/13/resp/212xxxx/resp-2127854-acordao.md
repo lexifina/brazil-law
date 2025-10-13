@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 07/10/2025 a 13/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. RESCISÃO DO CONTRATO DE COMPRA E VENDA. DISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. RECONHECIMENTO DE DECAIMENTO MÍNIMO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIÁVEL. SÚMULA Nº 7/STJ. BASE DE CÁLCULO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. TAXA DE FRUIÇÃO. DISPOSITIVO LEGAL INTERPRETADO DE FORMA DIVERGENTE. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. A jurisprudência desta Corte é firme no sentido de que, no âmbito do recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda implica análise do conteúdo fático-probatório dos autos, que atrai a incidência da Súmula nº 7/STJ.
+2. Ausente o prequestionamento, até mesmo de modo implícito, da tese apontada como violada no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+3. Nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido interpretado de forma divergente, fazendo incidir ao caso o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4 . Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por CARLOS MARIA IBANEZ e ELIZANDRA PATRÍCIA DE OLIVEIRA VIEIRA IBANEZ, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. Rescisão de contrato de venda e compra imobiliário. Recurso interposto contra sentença que declarou a rescisão contratual e a nulidade da previsão de pagamento de taxa de fruição pelos compradores, bem como determinou a restituição pelas apelantes de 95% de todo o valor pago pelos apelados, descontados eventuais débitos referentes a IPTU e demais taxas decorrentes da posse do bem. Correção monetária pelo IGPM e juros de mora desde a citação. Alegação de sentença ultra petita que declarou nulidade da taxa de fruição reconhecida como devida pelos próprios apelados no pedido inicial. Cabimento. Não demonstração da abusividade da cláusula que fixou sua exigibilidade. Concordância dos apelados em arcar com esta despesa manifestada expressamente na inicial. Requerimento de observância do Tema STJ nº 1.002, com início do cômputo dos juros de mora a partir do trânsito em julgado da sentença. Descabimento. Rescisão contratual deferida na forma prevista em contrato, não havendo motivo para alteração da data inicial para incidência dos juros de mora. Recurso a que se dá parcial provimento para adequação do julgado às cláusulas contratuais, entendimentos jurisprudenciais e normas legais aplicáveis ao caso. RECURSO PARCIALMENTE PROVIDO" (e-STJ fl. 182).
+Nas razões do seu recurso especial, os recorrentes apontam violação dos artigos 85, § 2º, e 86 do Código de Processo Civil, aduzindo que deve ser imputado à ora recorrida a integralidade do ônus da sucumbência.
+Afirmam, ainda, que não é certo que a referência para fixação dos honorários seja o valor da condenação, devendo ser utilizado o valor da causa atualizado.
+Apresentam, ainda, divergência jurisprudencial acerca do pagamento da taxa de fruição.
+Apresentadas contrarrazões (e-STJ fls. 272/290).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. RESCISÃO DO CONTRATO DE COMPRA E VENDA. DISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. RECONHECIMENTO DE DECAIMENTO MÍNIMO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIÁVEL. SÚMULA Nº 7/STJ. BASE DE CÁLCULO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. TAXA DE FRUIÇÃO. DISPOSITIVO LEGAL INTERPRETADO DE FORMA DIVERGENTE. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. A jurisprudência desta Corte é firme no sentido de que, no âmbito do recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda implica análise do conteúdo fático-probatório dos autos, que atrai a incidência da Súmula nº 7/STJ.
+2. Ausente o prequestionamento, até mesmo de modo implícito, da tese apontada como violada no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+3. Nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido interpretado de forma divergente, fazendo incidir ao caso o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4 . Recurso especial não conhecido.
+VOTO
+A insurgência não merece prosperar.
+O Tribunal de origem assim dirimiu a questão acerca da distribuição dos ônus de sucumbência:
+"(..)
+Diante da sucumbência recíproca, caberá aos recorridos pagar os honorários da parte contrária que ora fixo em 20% da diferença entre o valor da causa e o da condenação, bem como às recorrentes pagar os honorários da parte apelada fixada em 15% do valor da condenação, nos termos do art. 85, § 11, do Código de Processo Civil" (e-STJ fls. 574-575).
+Como se pode notar, o acolhimento da pretensão recursal, a fim de alterar a distribuição do ônus de sucumbência, reconhecendo o decaimento mínimo da parte autora, demandaria o revolvimento de matéria fático-probatória, o que é inviável na estreita via do recurso especial, nos termos da Súmula nº 7/STJ.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. FALECIMENTO. DANOS MORAIS. INDENIZAÇÃO. VALOR. ÔNUS DE SUCUMBÊNCIA. REDISTRIBUIÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+3. A jurisprudência desta Corte é firme no sentido de que, no âmbito do recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda implica análise do conteúdo fático-probatório dos autos, que atrai a incidência da Súmula nº 7/STJ. Precedentes.
+4. Agravo interno não provido" (AgInt no REsp 2.009.671/CE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+No tocante à alegada violação do artigo 85, § 2º, do CPC, verifica-se que a tese de que a base de cálculo dos honorários deveria ser o valor da causa não foi prequestionada, o que inviabiliza o recurso especial diante da falta de prequestionamento, conforme o óbice da Súmula nº 282/STF.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA ILÍCITA DE COBERTURA. DEMORA NO TRATAMENTO. DANO MORAL CARACTERIZADO. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. BASE DE CÁLCULO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões adotadas pela Corte estadual (quanto a afronta a direito da personalidade do autor e a ocorrência de danos morais indenizáveis) demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n.º 7 do STJ.
+2. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ.
+3. A matéria que não foi objeto de debate prévio nas instâncias de origem não pode ser apreciada em sede de recurso especial por estar ausente o indispensável prequestionamento, nos termos da Súmula n. 282 do STF.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido" (AgInt no AREsp 2.793.503/RN, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025).
+Por fim, quanto ao dissídio jurisprudencial, observa-se a ausência de indicação do dispositivo legal interpretado de forma divergente, o que atrai a incidência do óbice da Súmula nº 284/STF.
+Nesse sentido:
+"PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. FALTA DE INTERESSE RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Conforme o entendimento desta Corte, a falta de particularização do dispositivo legal supostamente violado ou objeto de dissídio jurisprudencial atrai a aplicação da Súmula n. 284 do STF, configurando deficiência na delimitação da controvérsia. Cabe ressaltar que a simples menção a artigos de lei não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso.
+2. Quanto à insurgência referente aos honorários de sucumbência, não há interesse recursal, pois não existe "nos autos prévia fixação de honorários advocatícios pelas instâncias de origem" (fl. 927) em razão da natureza da ação proposta (mandado de segurança) e do disposto no art. 25 da Lei n. 12.016/2009 e nas Súmulas n. 512 do STF ("Não cabe condenação em honorários de advogado na ação de mandado de segurança") e 105 do STJ ("Na ação de mandado de segurança não se admite condenação em honorários advocatícios").
+2. Agravo interno conhecido em parte e, nessa extensão, desprovido" (AgInt no REsp 2.193.036/CE, Relator Ministro TEODORO SILVA SANTOS, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025).
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o art. 85, § 11, do CPC, pois já foram fixados na origem no limite legal de 20% (vinte por cento).
+É o voto.
