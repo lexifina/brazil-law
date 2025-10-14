@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JOÃO RAFAEL GOBBO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2271437-15.2025.8.26.0000.
+Consta que o recorrente foi preso em flagrante no dia 17/3/2025, pela prática, em tese, dos crimes previstos no art. 171, caput, e no art. 288, ambos do Código Penal.
+Nesta insurgência, a Defesa sustenta, em síntese, que há excesso de prazo na manutenção da medida cautelar extrema.
+Argumenta que a pluralidade de réus não torna o processo complexo, e que a Defesa não deu causa a morosidade estatal.
+Aduz que até a realização da audiência de instrução prevista para o dia 4/1/2025, o réu estará preso há 8 (oito) meses.
+Requer, liminarmente e no mérito, o relaxamento da prisão do recorrente.
+É o relatório.
+Decido.
+Inicialmente, ressalta-se que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o mérito do recurso.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de réus, a necessidade de diligências específicas (como a expedição de cartas precatórias ou a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora processual injustificada. Confira-se o seguinte trecho do acórdão impugnado (fls. 78-79; grifamos):
+Importa considerar, de início, que não se demonstrou, de plano, como era de rigor, dadas as especificidades e limites desta via jurisdicional, qualquer irregularidade concreta do desenvolvimento da persecução penal, ou desídia por parte da Digna Autoridade Judiciária apontada como coatora, de modo a ensejar a caracterização de indevido excesso de prazo para o encerramento da instrução processual.
+É preciso anotar, a propósito, que, considerada a complexidade atual dos sistemas judiciário e prisional, os prazos processuais não podem ser tidos como fatais e a análise de eventuais excessos, à evidência, devem ter como referência a razoabilidade.
+No caso em tela, o desenvolvimento da persecução penal apresenta contornos de complexidade diferenciada, em particular, em razão da pluralidade de acusados, com reflexos em todas as fases da persecução penal.
+Ademais, o paciente foi preso em flagrante em 17 de março de 2025 e a audiência de instrução, debates e julgamento foi designada para 04 de novembro de 2025, de modo que o tempo decorrido não extrapola a razoabilidade.
+Não se demonstrou, portanto, contornos de irregularidade no desenvolvimento da persecução penal, de modo a ensejar a existência de coação ilegal, nos termos do art. 648, do Cód. de Proc. Penal.
+Não é demais anotar, ainda, que as imputações dirigidas ao paciente, associação criminosa e estelionato, com complexo e coordenado grupo de pessoas, com distribuição de funções, destinado a efetiva consumação da fraude, são de natureza grave e em caso de condenação nos termos da inicial não se vislumbra a possibilidade inequívoca de benefício que importe em liberdade, razão pela qual não há que se falar em ofensa ao princípio da proporcionalidade.
+As circunstâncias do caso em tela, em tese, fazem presente a possibilidade de reiteração criminosa.
+Não se vislumbra, assim, ilegalidade a ser corrigida por meio do presente writ.
+Na hipótese dos autos, não se verifica o alegado excesso de prazo da custódia (que perdura há pouco mais de 6 (seis) meses), considerando a pena em abstrato prevista para os graves delitos imputados na denúncia; a complexidade do feito, que tramita com múltiplos (3) corréus; bem como a diligência do Juízo de primeiro grau na condução do feito, já tendo sido designada audiência de instrução e julgamento para o dia 4/11/2025, conforme destacado pelo Tribunal a quo.
+Este entendimento está em conformidade com a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO. EXTORSÃO. PRISÃO PREVENTIVA. (..) EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+5. No caso, a tramitação processual ocorre dentro da razoabilidade de tempo esperada, todavia marcada por suas particularidades, já que se trata de três denunciados e duas vítimas, não havendo nenhum elemento que evidencie a desídia dos órgãos estatais na condução feito, razão pela qual não se vislumbra, por ora, o alegado constrangimento ilegal, ainda que o agravante esteja preso desde julho de 2022. Além disso, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a audiência de instrução e julgamento foi designada para o dia 3/6/2024.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 181.749/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE. RISCO DE FUGA. (..) EXCESSO DE PRAZO. RAZOABILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+IV - No que concerne ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+V - Na hipótese, levando em consideração a prisão cautelar decretada, em 21/3/2022, não se verifica a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado; haja vista as particularidades da causa, mormente a gravidade da conduta imputada à pluralidade de pessoas, 2 (dois) réus, sendo que a prisão preventiva tem sido constantemente reavaliada; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+VI - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 183.146/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+Acrescento, ainda, que, conforme o andamento processual disponível no site do Tribunal a quo, o Magistrado singular, em data recente (3/9/2025), reavaliou a necessidade da custódia preventiva do ora recorrente, o que corrobora a inexistência de desídia estatal na tramitação da ação penal.
+Ante o exposto, com base no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
