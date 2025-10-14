@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. NÍTIDO INCONFORMISMO. IMPOSSIBILIDADE DE UTILIZAÇÃO DOS ACLARATÓRIOS COMO SUCEDÂNEO RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, de fundamentação vinculada, somente são cabíveis quando constatada obscuridade, contradição, omissão ou ambiguidade no julgado, bem como para correção de erro material, não se prestando à mera rediscussão do mérito.
+2. No caso, o acórdão embargado enfrentou adequadamente as alegações da defesa, ressaltando a fundamentação da prisão preventiva na gravidade concreta dos fatos, na suposta reiteração criminosa, no vínculo a organização criminosa de grande porte, na utilização de empresa contratada pelo poder público para lavagem de capitais e na condição de foragido atribuída ao embargante.
+3. A decisão também consignou que o decreto prisional não se baseou apenas no recebimento da denúncia, mas em novos elementos probatórios, e afastou a alegação de excesso de prazo diante da complexidade do processo, do número de réus e da conduta do acusado em se evadir.
+4. A irresignação do embargante traduz mero inconformismo com o resultado do julgamento, não configurando hipótese autorizadora de oposição dos aclaratórios.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DÉCIO GOUVEIA LUIS contra acórdão que negou provimento ao agravo regimental interposto em recurso em habeas corpus, o qual, por sua vez, buscava a revogação da prisão preventiva decretada no curso da ação penal em que o embargante é acusado pela suposta prática dos crimes de organização criminosa e lavagem de capitais, nos termos dos arts. 2º, caput e § 4º, IV, da Lei n. 12.850/2013, e arts. 1º, § 1º, I e II, 2º, I e § 4º, da Lei n. 9.613/1998, c/c art. 29 do Código Penal.
+Eis a ementa do acórdão ora embargado (e-STJ fl. 330):
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DAS CONDUTAS. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO. APLICAÇÃO DA LEI PENAL. EXCESSO DE PRAZO. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva foi mantida em razão da gravidade concreta das condutas imputadas ao agravante, consistentes na prática de crimes de lavagem de dinheiro e participação em organização criminosa vinculada ao PCC, com possível utilização de empresa contratada pelo poder público para dissimulação de valores ilícitos.
+2. Constatada a presença de elementos que indicam reiteração delitiva, histórico criminal e participação ativa na empresa utilizada como instrumento para os crimes, evidenciada a necessidade de acautelamento da ordem pública.
+3. O fato de o agravante se encontrar foragido, associado à retomada de atividades ilícitas de forma mais estruturada, em tese com uso de empresa contratada pelo poder público, reforça a necessidade da prisão preventiva para assegurar a aplicação da lei penal e prevenir a continuidade delitiva, configurando fundamentação cautelar idônea conforme orientação consolidada desta Corte.
+4. Não se verifica constrangimento ilegal por excesso de prazo, considerando a complexidade da causa, o número elevado de réus (19) e a conduta do agravante em evadir-se, o que contribuiu para eventual atraso na marcha processual.
+5. Condições pessoais favoráveis não impedem a decretação ou manutenção da prisão preventiva quando presentes os requisitos legais.
+6. Agravo regimental não provido.
+Sustenta o embargante, em síntese, a existência de omissão no acórdão quanto à indicação concreta dos elementos probatórios novos que teriam embasado a decretação da custódia cautelar. Alega que a prisão preventiva foi decretada com base apenas no recebimento da denúncia, sem fato novo e sem apontamento específico de indícios de autoria ou materialidade contra si. Insiste que o decreto prisional repete, de forma genérica, argumentações do Ministério Público sem individualização de conduta, em afronta ao art. 313, § 2º, do Código de Processo Penal. Aduz, ainda, que houve omissão quanto à ausência de contemporaneidade e à ausência de fundamento concreto que justifique a medida extrema.
+Requer o reconhecimento das omissões alegadas, com eventual concessão de efeito infringente, para revogação da prisão preventiva e concessão de liberdade provisória, com ou sem a imposição de medidas cautelares alternativas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. NÍTIDO INCONFORMISMO. IMPOSSIBILIDADE DE UTILIZAÇÃO DOS ACLARATÓRIOS COMO SUCEDÂNEO RECURSAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração, de fundamentação vinculada, somente são cabíveis quando constatada obscuridade, contradição, omissão ou ambiguidade no julgado, bem como para correção de erro material, não se prestando à mera rediscussão do mérito.
+2. No caso, o acórdão embargado enfrentou adequadamente as alegações da defesa, ressaltando a fundamentação da prisão preventiva na gravidade concreta dos fatos, na suposta reiteração criminosa, no vínculo a organização criminosa de grande porte, na utilização de empresa contratada pelo poder público para lavagem de capitais e na condição de foragido atribuída ao embargante.
+3. A decisão também consignou que o decreto prisional não se baseou apenas no recebimento da denúncia, mas em novos elementos probatórios, e afastou a alegação de excesso de prazo diante da complexidade do processo, do número de réus e da conduta do acusado em se evadir.
+4. A irresignação do embargante traduz mero inconformismo com o resultado do julgamento, não configurando hipótese autorizadora de oposição dos aclaratórios.
+5. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+O julgado recorrido enfrentou expressamente as alegações formuladas pela defesa no agravo regimental, destacando que a prisão preventiva foi fundamentada na necessidade de garantia da ordem pública e da aplicação da lei penal, diante da gravidade concreta dos fatos, da suposta reiteração criminosa, da vinculação a organização criminosa de grande envergadura, da utilização de empresa contratada pelo poder público como meio para a lavagem de capitais e da condição de foragido atribuída ao embargante.
+Ressaltou-se, ademais, que o decreto prisional não se baseou exclusivamente no recebimento da denúncia, tendo como fundamento a reunião de novos elementos probatórios trazidos na denúncia, os quais demonstram, em juízo de cognição sumária, a verossimilhança das alegações imputadas ao acusado. O acórdão consignou, ainda, que a complexidade do feito, o número elevado de réus e a conduta do embargante em se evadir da aplicação da lei penal afastam a alegação de constrangimento ilegal por excesso de prazo.
+A pretensão do embargante, portanto, revela nítido inconformismo com os fundamentos adotados na decisão impugnada, não sendo cabível sua rediscussão por meio de embargos declaratórios.
+De fato, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
