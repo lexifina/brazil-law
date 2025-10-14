@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HENDERSON RICARDO CENTENO DE FREITAS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 5115882-57.2023.8.21.0001/RS).
+Consta nos autos que o paciente foi condenado à pena de 3 (três) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no artigo 16, § 1º, inciso IV, da Lei n. 10.826/03.
+Em sede de apelação, o Tribunal de origem negou provimento ao recurso da Defesa e deu parcial provimento ao apelo do Ministério Público para redimensionar a pena para 4 (quatro) anos e 18 (dezoito) dias de reclusão, em regime inicial fechado.
+A impetrante sustenta a existência de constrangimento ilegal na dosimetria da pena e na fixação do regime prisional. Argumenta que o acórdão impugnado exasperou a pena na segunda fase em fração superior à de 1/6 (um sexto), patamar consolidado na jurisprudência desta Corte, sem apresentar fundamentação concreta e idônea para tanto.
+Afirma que o paciente sofre bis in idem, pois a pluralidade de condenações, já utilizada para valorar negativamente os maus antecedentes na primeira fase, serviu de fundamento para aplicar a fração de 1/5 (um quinto) na etapa seguinte, em razão da agravante da reincidência.
+Defende, ainda, que, com a redução da pena, o regime fechado se mostra ilegal, por contrariar o disposto no art. 33 do Código Penal.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja reformado o acórdão impugnado, a fim de que o aumento pela agravante da reincidência seja fixado no patamar de 1/6 e, por conseguinte, seja estabelecido regime inicial de cumprimento de pena mais benéfico.
+É o relatório.
+Decido.
+No caso em análise, verifico que o acórdão impugnado foi assinado eletronicamente em 25/09/2025. Dessa forma, a presente impetração foi protocolada antes do termo final para a interposição do recurso especial, considerando que a Defensoria Pública, no exercício de suas atribuições constitucionais, possui o benefício da contagem em dobro dos prazos processuais.
+Dessa maneira, revela-se prematura a impetração do presente habeas corpus como substitutivo do recurso cabível, não sendo possível, neste momento, afastar a eventualidade de a matéria ser submetida a esta Corte por meio da via processual adequada, qual seja, o recurso especial. Assim, não compete ao Superior Tribunal de Justiça, de forma antecipada, proceder ao exame da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO HABEAS CORPUS. LAPSO PARA INTERPOSIÇÃO DO RESPECTIVO RECURSO ESPECIAL AINDA EM CURSO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. POSSIBILIDADE DE MANEJO DA VIA ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+(AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe de 16/05/2022)
+Ademais, não constato, ao menos a princípio, flagrante ilegalidade apta a ensejar a concessão de habeas corpus de ofício, isso porque o fundamento utilizado pelo Tribunal de origem para aplicar incremento mais severo na pena está em consonância com a jurisprudência desta Corte Superior, que admite o acréscimo da circunstância agravante da reincidência em fração superior a 1/6 quando configurada a dupla reincidência do réu.
+A propósito :
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MESMO FATO CRIMINOSO ANTERIOR SOPESADO PARA DOIS VETORES. BIS IN IDEM. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FRAÇÃO DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CULPABILIDADE E MAUS ANTECEDENTES. FUNDAMENTOS VÁLIDOS. AGRAVANTE DE REINCIDÊNCIA EM 1/5. RÉU MULTIRREINCIDENTE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+ ..
+5. A utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como na hipótese.
+ ..
+8. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+9. Na hipótese, destacada a multirreincidência do paciente (duas condenações anteriores distintas da sopesada para elevar a pena-base), não se verifica manifesta ilegalidade na escolha da fração de 1/5 pelo reconhecimento da causa de aumento do art. 61, I, do Código Penal, a autorizar excepcionalmente a intervenção desta Corte.
+10. Agravo regimental não provido.
+(AgRg no HC n. 865.341/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. CONDENAÇÃO POR TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA A CONDUTA DESCRITA NO ART. 28 DA LEI N. 11.343/06. DESCONSTITUIÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE NO RITO ELEITO. RÉU COM DUAS CONDENAÇÕES ANTERIORES TRANSITADAS EM JULGADO. AUMENTO EM 1/5 NA SEGUNDA FASE DA DOSIMETRIA. PROPORCIONALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É consabido que o Código Penal não estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando há dupla ou multirreincidência. No caso, a agravante da reincidência foi aplicada no patamar de 1/5, em razão da existência de duas condenações anteriores transitadas em julgado, não merecendo reparos a pena do paciente, posto que aplicada nos termos da jurisprudência desta Corte Superior de Justiça.
+ ..
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 811.829/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023)
+Outrossim, a negativação dos antecedentes e, posteriormente, o aumento pela reincidência se deram com base em condenações distintas, senão vejamos (fl. 18):
+Reputo idôneo o fundamento utilizado na sentença, pois o réu ostenta duas condenações com trânsito em julgado anteriores ao presente(001/2.16.0102929-0 e 001/2.17.0013799-7), e uma condenação que, embora praticada anteriormente, transitou em julgado posteriormente (5072637-93.2023.8.21.0001), conforme certidão de antecedentes (evento 40,CERTANTCRIM1).
+Ainda que o juízo não tenha especificado quais delas foram utilizadas em cada etapa, nota-se a inexistência de bis in idem, por serem condenações distintas. Contudo, em atenção às razões ministeriais, para melhor esclarecer este aspecto e dando provimento ao recurso do Ministério Público, reputo mais adequada a consideração da condenação com trânsito em julgado posterior como maus antecedentes, reservando-se as duas outras para sopesar na segunda etapa, como agravante.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
