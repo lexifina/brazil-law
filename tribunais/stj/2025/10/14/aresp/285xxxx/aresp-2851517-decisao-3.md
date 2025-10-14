@@ -1,0 +1,71 @@
+DECISÃO
+MARIA CRISTINA RAMOS MACHADO agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região na Apelação Criminal n. 1960-87.2005.4.01.3900.
+A agravante fora condenada em primeira instância como incursa no art. 317, §1º, c/c art. 71, ambos do Código Penal, em 23 anos, 08 meses e 13 dias de reclusão, em regime fechado, e 888 dias-multa.
+O Tribunal a quo deu parcial provimento a sua apelação, para fixar a pena definitiva em 8 anos, 8 meses e 20 dias de reclusão, além de 89 dias-multa.
+No recurso especial, a defesa indicou violação dos arts. 59 e 71, do Código Penal. Defendeu: a) descabida a valoração negativa da culpabilidade, vez que fundamentada em circunstâncias inerentes ao tipo penal; b) caso mantida a valoração negativa da circunstância retro, tem-se excesso no quantum da majoração imposta à pena; c) indevida a majoração decorrente da continuidade delitiva por não ter sido realizada pelo juízo a quo e pelo Tribunal qualquer especificação da quantidade de vezes em que a recorrente cometeu o crime de corrupção, limitando a dispor que foram diversas práticas.
+Requereu a seja reformado o acórdão recorrido para redução da pena da recorrente e adequação do regime inicial de seu cumprimento, com eventual substituição por penas restritivas de direito.
+Inadmitido o recurso na origem, o Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (fls. 22.568-22.603).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido. Passo ao exame do especial.
+I - Valoração negativa das circunstâncias judiciais.
+O Tribunal de origem assim fundamentou a valoração negativa da culpabilidade da agravante (fls. 23.628 - 23.629, grifei):
+No caso, a culpabilidade da ré deve ser considerada de maneira negativa, assim como considerado na sentença, pois, de fato, a ré utilizava-se do órgão da administração pública, sem qualquer pudor, para a realização de seus intentos pessoais, em conluio com outros colegas e empresários da região.
+ ..
+Desse modo, fixa-se a pena-base fixada em 03 (três) anos de reclusão e 30 (trinta) dias-multa.
+Ao admitir a valoração negativa da culpabilidade ao fundamento de que a agravante agia "utilizava-se do órgão da administração pública, sem qualquer pudor, para a realização de seus intentos pessoais", colocou-se o acórdão recorrido em contraposição com a jurisprudência deste Tribunal.
+A jurisprudência desta Corte Superior veda a utilização como circunstância judicial desfavorável de elemento fático já previsto no tipo penal.
+Por todos, colaciono os dois seguintes julgados (grifei):
+ ..
+IV - É pacífico o entendimento desta Corte no sentido de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto. Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+V - A análise das circunstâncias do crime envolve a verificação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores.
+No caso destes autos, restou pontuado pelas instâncias de origem que a quantidade de moedas falsas em poder do réu projetou maior potencialidade lesiva sobre a fé pública, situação que extravasa as fronteiras do tipo penal.
+Agravo regimental desprovido."
+(AgRg no REsp n. 1.984.411/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+" ..
+II - Cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+III - A análise das circunstâncias do crime envolve a verificação da intensidade da lesão causada pela conduta. Se anormal, além do que ordinariamente prevê o próprio tipo penal, essa circunstância judicial deve ser valorada negativamente. Caso contrário, como na espécie, não pode lastrear a majoração da pena-base. Referida vetorial trata da avaliação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores.
+IV - No caso destes autos, restou pontuado pelas instâncias de origem que o delito foi praticado "tendo como intermediário um menor de idade", compreensão que se alinha ao entendimento desta Corte Superior para negativação do vetor em referência.
+Agravo Regimental desprovido."
+(AgRg no REsp n. 1.884.571/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 23/3/2023.)
+É absolutamente inerente ao tipo penal de corrupção passiva (CP, art. 317) o agir do servidor público em desacordo com suas funções.
+Descabida, portanto, a valoração negativa da culpabilidade, motivo pelo qual, na primeira fase da dosimetria, a pena deve restar fixada no mínimo legal, de 2 anos de reclusão e 10 dias-multa.
+II - Fração de aumento pela continuidade delitiva.
+O Tribunal manteve a sentença condenatória no que fixou a fração máxima para o aumento decorrente da continuidade delitiva.
+A sentença assim referiu os crimes de corrupção praticados pela agravante (fls. 23.053-23.261, grifei):
+As CND"s liberadas pela ré MARIA CRISTINA em nome das empresas CKOM ENGENHARIA LIDA, TERRAPLENA LIDA, ENGEPLAN - ENGENHARIA E PLANEJAMENTO continham irregularidades, conforme relatório elaborado pela Auditoria-Fiscal da Previdência Social (fis. 137 do vol. 1, do anexo III do PAD - vol. 12, dossiê 12: MARIA CRISTINA RAMOS MACHADO):
+ ..
+A Comissão de Processo Administrativo Disciplinar fez estudo de regularidade de liberação de pedidos de Certidão Negativa de Débito (PCND) às fis. 137/457 - anexo III - vol. 12, dossiê nº 12, no que se refere, especificamente, às certidões, cujas liberações foram consideradas irregulares, com correções julgadas necessárias pela Comissão (fl. 627 do Vol. 4º do PAD - Anexo III).
+ ..
+Sobre a liberação indevida das CND"s nºs 6824/2004 e 5068/2004 para a empresa EXPORTADORA PERACCHI LIDA e da CND nº 5202/2004 para a empresa BLITZ CASA FORTE SEGURANÇA ELETRÔNICA LTDA, e da CND nº 5691/2004 para o HOSPITAL CELINAGONÇALVES S/A, análise efetuada pela Comissão - ESTUDO DE REGULARIDADE DE LIBERAÇÃO DO PEDIDO DE CERTIDÃONEGATIVA DE DÉBITO encontrou as seguintes irregularidades (fls.5708do volume 26 do processo principal do PAD):
+ ..
+Laudo de exame realizado no computador utilizado pela ré MARIA CRISTINA na Agência da Previdência Social - APS Nazaré informa a existência de arquivos agrupados na categoria antonio lúcio, enqeplan, floraplac, ivaneide correa paraense, ioão batista, iosé Otávio, iosé raimundo, maria cristina, paulo bríqido, rosânqela alíverti novo, serq e servíp.
+Os diálogos captados nas escutas telefônicas autorizadas judicialmente revelam a participação da ré MARIA CRISTINA nas fraudes (proc. 2006.6621-5):
+ ..
+As perícias realizadas nos computadores da empresa PAULO BRÍGIDO ENGENHARIA, bem como no computador que a Ré utilizavano INSS; a documentação apreendida na residência da Ré e no Centro Integrado de Perícias - CIP (pertencente a ex-servidora lOLANDA MATOS CARDOSO, comparsa da Ré no crime); e a delação da corré IVANEIDE CORRÊA PARAENSE, todas conjugadas com as escutas telefônicas judicialmente autorizadas não dão margem à dúvida sobre o dolo da ré MARIA CRISTINA RAMOS MACHADO.
+Entendo que a instrução probatória conseguiu demonstrar que a ré MARIA CRISTINA RAMOS MACHADO, em razão da função que ocupava, recebeu vantagens indevidas para emitir CND"s negativas em favor de empresas devedoras do INSS.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a fração de aumento deve ser definida com base na quantidade de crimes cometidos em continuidade.
+Para demonstração:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 217-A DO CP. ABSOLVIÇÃO. AFASTAMENTO DA CONTINUIDADE DELITIVA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. CIRCUNSTÂNCIAS DO CRIME E CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. CONTINUIDADE DELITIVA APLICADA NO PATAMAR DE 1/5. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime do artigo 217-A do Código Penal, em continuidade delitiva. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, ou, subsidiariamente, pelo reconhecimento de crime único, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes.
+3. As circunstâncias do crime como circunstância judicial referem-se à maior ou menor gravidade do crime em razão do modus operandi.
+Constata-se, assim, a existência de fundamentação concreta e idônea, a qual efetivamente evidenciou aspectos mais reprováveis do modus operandi delitivo e que não se afiguram inerentes ao próprio tipo penal, a justificar a majoração da pena, uma vez que o acusado o sentenciado levava a criança para local ermo, uma casa abandonada, para a prática delitiva, fundamento a aumentar a reprovabilidade da conduta.
+4. Prosseguindo, foram apontados elementos concretos e não inerentes ao tipo penal para elevação da pena-base do acusado Jean, exasperada em razão da culpabilidade, elencando o fato do envolvido ter se aproveitado de sua relação de parentesco e confiança com a vítima para a realização do crime em análise, o que demonstra uma reprovabilidade superior àquela ínsita ao tipo penal, a merecer uma maior resposta do Estado.
+5. No tocante à continuidade delitiva, a exasperação da pena será determinada, basicamente, pelo número de infrações penais cometidas, parâmetro este que especificará no caso concreto a fração de aumento, dentro do intervalo legal de 1/6 a 2/3. Nesse diapasão esta Corte Superior de Justiça possui o entendimento consolidado de que, em se tratando de aumento de pena referente à continuidade delitiva, aplica-se a fração de 1/6 pela prática de 2 infrações;1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações;1/2 para 6 infrações e 2/3 para 7 ou mais infrações. Precedentes.
+6. No caso, ficou consignado, quanto ao número de crimes, que "foram praticadas em número superior a duas vezes" (e-STJ fl. 360), ou seja, no mínimo três vezes, não havendo ilegalidade na aplicação do patamar de aumento de 1/5, como feito pela Corte de origem.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.810.272/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025.)
+A sentença condenatória, conforme acima transcrito, referiu diversos eventos delituosos, referindo concretamente grande quantidade de CNDs emitidas irregularmente pela ré e vinculando tais emissões à percepção de vantagem indevida.
+Verifica-se que foram apresentados fundamentos concretos, ancorados nas provas produzidas nos autos, para afirmar a suficiência do padrão probatório para a condenação da ré em relação a mais de sete crimes de corrupção, tendo sido transcritos na sentença penal planilhas e documentos com a identificação de bem mais do que tal quantidade de CNDs emitidas irregularmente (vinculando tais emissões à percepção de vantagem indevida).
+Rever tal fundamentação exigiria o revolvimento de fatos e provas, o que é vedado nessa instância especial por força da Súmula n. 07 do STJ.
+Deve, com efeito, ser mantida em 2/3 a fração de aumento da pena imposta à agravante por força da continuidade delitiva.
+III - Adequação da Pena
+Consoante acima exposto, na primeira fase da dosimetria, a pena imposta à recorrente resta fixada no mínimo de 2 anos de reclusão e 10 dias-multa.
+Na segunda fase da dosimetria, mantém-se o acórdão recorrido, no que afirmou ausentes atenuantes e agravantes.
+Na terceira fase, igualmente resta mantida a incidência da causa de aumento do art. 317, § 1º, do CP, elevando a pena para 2 anos e 8 meses de reclusão e 13 dias-multa. Mantida também a majorante do §2º do artigo 327 do CP, que eleva a pena para 3 anos 6 meses e 20 dias de reclusão, além de 17 dias-multa.
+Ainda na terceira fase da dosimetria, a fração de aumento da continuidade delitiva restou mantida em 2/3, o que torna definitiva a pena em 5 anos e 11 meses de reclusão, além de 28 dias multa, mantido o valor do dia multa em 1/30 do salário mínimo.
+Sendo favoráveis as circunstâncias judiciais e não reincidente a ré, fixo o regime semiaberto para início da execução da pena privativa de liberdade.
+IV - Dispositivo.
+À vista do exposto, conheço do agravo para dar parcial provimento ao recurso especial, reduzindo a pena da recorrente para 5 anos e 11 meses de reclusão, além de 28 dias multa, mantido o valor do dia multa em 1/30 do salário mínimo.
+Publique-se e intimem-se.
+EMENTA
