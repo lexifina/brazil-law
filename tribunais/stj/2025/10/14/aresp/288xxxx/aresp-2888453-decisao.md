@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por XMB DIGITAL S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de prequestionamento dos arts. 474 e 763 do Código Civil e 272, § 5º, do Código de Processo Civil; na incidência da Súmula n. 7 do STJ; e na prejudicialidade da análise da divergência jurisprudencial.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 643-646.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em apelação cível nos autos de ação monitória.
+O julgado foi assim ementado (fl. 533):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CARTA DE FIANÇA. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. AFASTAMENTO. SENTENÇA CASSADA. APLICAÇÃO DO ARTIGO 1.013, §3º DO CPC. CAUSA MADURA. RESPONSABILIDADE SOLIDÁRIA. INÍCIO DE PROVA. PROCEDÊNCIA DO PEDIDO.1. Constatado que a empresa fiadora se comprometeu, por meio de carta fiança, com todas as dívidas decorrentes da Aquisição de Produtos descritos nos Pedidos de Compras, referente a Obra 21 - SESC VENDA NOVA, torna- se parte legítima para o polo passivo da ação monitória proposta.2. Reconhecida a legitimidade passiva da requerida, a cassação da sentença que julgou extinto o processo, sem julgamento de mérito, é medida que se impõe, aplicando-se a teoria da causa madura, por força do artigo 1.013, §3º do CPC.3. Em regra, a fiança tem caráter subsidiário, ou seja, somente será exigível caso o devedor não cumpra com sua obrigação, de modo que será solidária caso o fiador não utilize do benefício de ordem ou quando renuncia essa faculdade.4. O benefício de ordem da fiança não subsiste quando o fiador assume a posição de principal pagador ou de devedor solidário, conforme artigo 828, inciso II, do Código Civil.5. Por se tratar de ação monitória, a Carta de Fiança não é considerada como título executivo de per si, ainda que a dívida esteja prescrita, mas mero início de prova sobre a relação jurídica estabelecida, corroborada com os e-mails trocados entre os litigantes, situação que justifica o cabimento da ação monitória e afasta eventual discussão sobre a validade ou não da Carta de Fiança.6. Deve ser julgado procedente o pedido inicial, para converter o mandado inicial (mov. 15) em mandado executivo, para condenar a requerida ao pagamento da Nota Fiscal n.º 269, no valor de R$ 30.903,20 (trinta mil, novecentos e três reais e vinte centavos), nos termos do artigo 700 do CPC. APELAÇÃO CONHECIDA E PROVIDA.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 579-580):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CARTA DE FIANÇA. BENEFÍCIO DE ORDEM. INEXISTÊNCIA DE OMISSÃO. PRETENSÃO DE REDISCUSSÃO. MULTA POR EMBARGOS PROTELATÓRIOS. ART. 1.026, § 2º, DO CPC.
+I. CASO EM EXAME:
+1. Segundos embargos de declaração opostos em face de acórdão que rejeitou embargos anteriores, sustentando omissão quanto ao benefício de ordem previsto em carta de fiança e reafirmando a relação de subsidiariedade entre o afiançado e a fiadora.
+II. QUESTÃO EM DISCUSSÃO:
+2. A questão em discussão consiste em verificar se há omissão no acórdão embargado quanto ao benefício de ordem na carta de fiança e se é possível rediscutir a matéria em sede de embargos declaratórios.
+III. RAZÕES DE DECIDIR:
+3. Os embargos de declaração, nos termos do art. 1.022 do CPC, são cabíveis apenas para sanar omissões, obscuridades, contradições ou corrigir erros materiais, não sendo via própria para rediscutir matérias já decididas.
+4. A pretensão do embargante se limita a rediscutir o mérito do julgamento, o que já foi devidamente analisado no recurso apelatório e nos embargos anteriores, não havendo omissão no acórdão embargado.
+5. Tendo em vista o caráter manifestamente protelatório dos presentes embargos, aplica-se ao embargante a multa prevista no art. 1.026, § 2º, do CPC.
+IV. DISPOSITIVO E TESE:
+6. Embargos de declaração conhecidos e rejeitados, com imposição de multa de 2% sobre o valor atualizado da causa, por caráter manifestamente protelatório.
+Tese de julgamento: 1. É incabível a rediscussão de matéria já decidida em sede de embargos de declaração, salvo nas hipóteses de omissão, obscuridade, contradição ou erro material, conforme o art. 1.022 do CPC. 2. A imposição de multa por embargos protelatórios é cabível quando evidenciado o intuito de prolongar indevidamente o trâmite processual.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 827 do Código Civil, porque o fiador, como devedor subsidiário, tem direito ao benefício de ordem e não pode ser tratado como principal pagador, de modo que a responsabilização direta viola a natureza subsidiária da fiança e exige prévia excussão dos bens do devedor principal;
+b) 474 do Código Civil e 763 do Código Civil, porquanto houve condição resolutiva prevista na carta de fiança que tornava a garantia ineficaz em caso de inadimplemento da taxa de contratação, visto que a tomadora não adimpliu a taxa e, portanto, a fiança não produziu efeitos jurídicos.
+Requer o provimento do recurso para que se reforme o acórdão recorrido e se reconheça a validade do benefício de ordem e a ineficácia da carta de fiança diante da condição resolutiva e, subsidiariamente, para que se assegure a ordem de excussão.
+Contrarrazões às fls. 610-615.
+É o relatório. Decido.
+I - Art. 827 do CC
+A agravante argumenta que o fiador, como devedor subsidiário, tem direito ao benefício de ordem e não pode ser tratado como principal pagador, de modo que a responsabilização direta viola a natureza subsidiária da fiança e exige prévia excussão dos bens do devedor principal.
+Sobre a matéria, assim decidiu o Tribunal de origem (fls. 527-530):
+Primeiramente, sobre a ilegitimidade passiva da XMB Digital S/A, cumpre registrar que o Código de Processo Civil adotou a Teoria da Asserção para apuração das condições da ação, o que implica na avaliação dos fatos contidos na inicial com presunção de veracidade, afastando-se a legitimidade da parte tão somente quando verificada sua dissociação com a narrativa da parte Autora.
+Além do mais, a legitimidade da parte verifica-se pela correspondência entre os sujeitos do direito material controvertido (sujeitos da lide) e os da relação processual estabelecida (sujeitos do processo).
+Para o processualista Humberto Theodoro Júnior, legitimados ao processo são "os sujeitos da lide, isto é, os titulares dos interesses em conflito. A legitimação ativa caberá ao titular do interesse afirmado na pretensão, e a passiva ao titular do interesse que se opõe ou resiste à pretensão. Em síntese: como as demais condições da ação, o conceito da "letigimatio ad causam" só deve ser procurado com relação ao próprio direito de ação, de sorte que "a legitimidade não pode ser senão a titularidade da ação"". (in Curso de Direito Processual Civil, vol. I, 25a ed., Forense, 1998, p. 57/58).
+Nesse contexto, tem legitimidade ativa o titular dos interesses pretendidos e, passiva, o titular do interesse que resiste à pretensão.
+No caso, sob a ótica da Teoria da Asserção, resta presente a legitimidade passiva da XMB Digital S/A porquanto figura como fiador no contrato de fiança acostado à exordial (mov. 01- doc.06).
+Dessa forma, constatado que a empresa fiadora se comprometeu, por meio de carta fiança, com todas as dívidas decorrentes da Aquisição de Produtos descritos nos Pedidos de Compras, referente a Obra 21 - SESC VENDA NOVA, torna-se parte legítima para o polo passivo da ação monitória proposta.
+ ..
+Daí, reconhecida a legitimidade passiva da requerida, a cassação da sentença que julgou extinto o processo, sem julgamento de mérito, é medida que se impõe. Todavia, por força do artigo 1.013, §3º do CPC, considerando que a causa está madura para julgamento, cumpre adentrar no julgamento de mérito da causa.
+No mérito, cumpre analisar sobre a responsabilidade subsidiária ou solidária do fiador e a possibilidade de aplicação do benefício da ordem em seu favor.
+ ..
+Em regra, a fiança tem caráter subsidiário, ou seja, somente será exigível caso o devedor não cumpra com sua obrigação, de modo que será solidária caso o fiador não utilize do benefício de ordem ou quando renuncia essa faculdade.
+ ..
+No caso, a Carta de Fiança celebrada (mov. 01-doc. 06) regulamenta a responsabilidade do fiador no caso de não pagamento da dívida principal pelo afiançado
+ ..
+Ao contrário do que foi decidido na sentença, o benefício de ordem da fiança não subsiste quando o fiador assume a posição de principal pagador ou de devedor solidário, conforme artigo 828, inciso II, do Código Civil
+ ..
+Dessa forma, no caso, observa-se que a inadimplência do principal pagador foi devidamente demonstrada nos autos, diante das negociações havidas entre as partes (mov. 01- doc.09), sendo concedida prorrogação do pagamento pelo credor, exclusão da multa e redução dos juros de mora e, mesmo, assim, não houve o adimplemento da Nota Fiscal n.º 269, no valor de R$ 30.903,20 (trinta mil, novecentos e três reais e vinte centavos).
+Ademais, o não pagamento da Nota Fiscal n.º 269 é fato incontroverso, sendo confessado pela própria empresa fiadora, conforme se observa do teor do e-mail datado de 07.05.2021 (mov. 01-doc.15). Por outro lado, não se exime da responsabilidade a fiadora ao argumento de "Então a AKON cancelou a carta fiança tendo em vista que além do fornecedor não cumprir a entrega conforme a carta, acionaram o SESC e isto os prejudicou, e agora nos acionando um documento que eles não pagaram e conforme nas cláusulas não tem validade." (mov. 01-doc.15), pois a recusa na cobertura da fiança caracteriza verdadeiro comportamento contraditório (venire contra factum proprium).
+Assim, o fiador tornou-se responsável pelo adimplemento da dívida nos exatos termos da Carta de Fiança celebrada correspondente a 100% (cem por cento) do Valor Global do Contrato de R$ 81.703,60 (oitenta e um mil, setecentos e três reais e sessenta centavos).
+ ..
+Demais disso, vale registrar que, por se tratar de ação monitória, a Carta de Fiança não é considerada como título executivo de per si, ainda que a dívida esteja prescrita, mas mero início de prova sobre a relação jurídica estabelecida, corroborada com os e-mails trocados entre os litigantes, situação que justifica o cabimento da ação monitória e afasta eventual discussão sobre a validade ou não da Carta de Fiança.
+A leitura do acórdão recorrido e das razões do recurso especial permite concluir que as conclusões ampararam-se no contexto fático e em elementos de prova, tal como as cláusulas inseridas na carta de fiança, o que impede o reexame em recurso especial, tendo em vista o óbice previsto na Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSENTE. ART. 1.210, § 2º, DO CC/02. PREQUESTIONAMENTO. FALTA. MATÉRIA NÃO ABRANGIDA NA VIOLAÇÃO DO ART. 535 DO CPC. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DEBATE POSSESSÓRIO. COISA JULGADA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça não há ofensa ao art. 535 do CPC, quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir vício algum ao acórdão somente porque decidira em sentido contrário à pretensão do recorrente.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, apesar de opostos embargos de declaração, impede o conhecimento do recurso especial.
+3. A ausência de impugnação a fundamento capaz de manter, por si só, o acórdão recorrido quanto ao ponto atrai a incidência da Súmula 283/STF.
+4. A alteração das conclusões adotadas pela Corte de origem, acerca da inexistência de coisa julgada sobre o debate possessório, implica o reexame dos fatos e provas constantes dos autos, providência vedada em recurso especial, conforme o óbice disposto na Súmula 7/STJ.
+5. Agravo regimental a que se nega provimento. (AgRg nos EDcl no AREsp n. 715.471/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/9/2015, DJe de 28/9/2015.)
+II - Arts. 474 e 763 do CC
+A agravante defende que houve condição resolutiva prevista na carta de fiança que tornava a garantia ineficaz em caso de inadimplemento da taxa de contratação, visto que a tomadora não adimpliu a taxa e, portanto, a fiança não produziu efeitos jurídicos.
+A leitura do acórdão recorrido e das razões do recurso especial permite concluir pela ausência do indispensável prequestionamento da violação dos dispositivos em questão suscitada no recurso, conforme apontado na decisão que inadmitiu o recurso especial na origem.
+A Constituição Federal exige, como etapa do cabimento dos recursos de natureza extraordinária (arts. 102, III, e 105, III), que a causa tenha sido decidida pelo tribunal de origem.
+Vale dizer: de maneira geral, somente o que foi analisado e resolvido é que se pode afirmar ter sido decidido.
+Pressupõe-se, como regra geral, que o tribunal de origem tenha debatido, discutido, ventilado a questão que a parte pretende ver analisada pelo tribunal superior, sem o que não se abre a instância extraordinária.
+Em nenhum momento os dispositivos acima indicados foram considerados no julgamento do acórdão recorridos.
+Por isso, faltam ao recurso especial condições de conhecimento nesse ponto, em decorrência da incidência da Súmula n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), aplicável analogicamente ao recurso especial.
+Além disso, ainda que ultrapassado o referido óbice, eventual discussão acerca da condição resolutiva apontada como prevista na carta de fiança que tornava a garantia ineficaz em caso de inadimplemento da taxa de contratação, visto que a tomadora não adimpliu a taxa, seria inviável, pois a revisão dos fundamentos do acórdão recorrido quanto aos referidos pontos encontra óbice na Súmula n. 7 do STJ.
+Por fim, apesar de constar a indicação da alínea c na petição de recurso especial, as razões não menci onam dissídio jurisprudencial, sendo, portanto, desnecessária a análise por esta Corte.
+III - Conclusão
+Ante o exposto, conheço em parte do agravo e, nessa extensão, nego-lhe provimento.
+Deixo de majorar os honorários advocatícios em desfavor da parte ora recorrente, diante da ausência de fixaçã o na origem.
+Publique-se. Intimem-se.
+ EMENTA
