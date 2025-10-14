@@ -1,0 +1,18 @@
+DECISÃO
+TAUÃ PRATES SILVA interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia nos autos do HC n. 0300167-22.2019.8.05.0079, que, ao denegar a ordem, manteve a usa prisão preventiva.
+Consta dos autos que o recorrente, preso preventivamente, impugnou perante o Tribunal de origem o excesso de prazo para a designação de novo julgamento pelo Tribunal do Júri, após a anulação do veredito anterior.
+Neste recurso, a defesa reitera a tese de constrangimento ilegal decorrente da demora injustificada para a realização da nova sessão de julgamento, requerendo a revogação da prisão preventiva.
+O Ministério Público Federal, em parecer juntado aos autos, opinou pela prejudicialidade do recurso (fls. 158-162).
+Decido.
+O presente recurso or dinário em habeas corpus perdeu seu objeto, o que impede a análise de seu mérito.
+A defesa busca a revogação da prisão preventiva do recorrente sob o argumento de excesso de prazo para a realização de novo julgamento pelo Tribunal do Júri.
+Ocorre que, conforme informado pelo Ministério Público Federal com base em dados do sistema processual do Tribunal de origem, sobreveio fato novo que altera completamente o quadro fático-processual. Em 19/9/2025, foi proferida nova sentença pelo Tribunal do Júri, que condenou o recorrente. Cito o trecho do parecer ministerial (fl. 158):
+Consoante as informações colhidas junto ao sistema eletrônico de acompanhamento processual do Tribunal de Justiça do Estado da Bahia, em 19/09/2025, foi proferida sentença pelo Tribunal do Júri condenando o recorrente pela prática do delito de homicídio duplamente qualificado por motivo torpe e por recurso que dificultou a defesa, à pena de 12 (doze) anos de reclusão, em regime inicial fechado, mantida a prisão.
+Como se sabe, o Supremo Tribunal Federal, no julgamento do Recurso Extraordinário nº 1.235.340/SC, realizado em 12/9/2024, sob o rito da repercussão geral (Tema 1.068), afirmou de forma categórica que a execução imediata da pena imposta pelo Tribunal do Júri não se confunde com prisão preventiva, tratando-se de cumprimento provisório da condenação, com fundamento direto na soberania dos veredictos, consagrada no art. 5º, inciso XXXVIII, alínea "d", da Constituição Federal.
+A determinação de execução imediata da pena não é ilegal, pois está amparada pelo art. 492, I, "e", do CPP. Ademais, o Plenário do Supremo Tribunal Federal decidiu que a soberania dos vereditos do Tribunal do Júri, prevista na Constituição Federal, autoriza a imediata execução de condenação imposta pelo Conselho de Sentença, independentemente do total da pena aplicada.
+O entendimento foi firmado por maioria de votos, no RE 1.235.340/SC, concluído em 12/9/2024. A matéria tem repercussão geral reconhecida (Tema n. 1.068), o que significa que a tese fixada deve ser aplicada a todos os casos semelhantes nas demais instâncias do Judiciário.
+Prevaleceu, na Corte Constitucional, o entendimento de que o artigo 492 do Código de Processo Penal, na parte que limita a execução imediata apenas das condenações a no mínimo 15 anos de reclusão, é inconstitucional, pois relativiza a soberania do júri. A tese de repercussão geral fixada foi a seguinte: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+Portanto, considerando que a prisão do recorrente não decorre mais do decreto preventivo, mas do cumprimento provisório da condenação, evidencia-se a superveniente perda do objeto deste feito.
+À vista do exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
