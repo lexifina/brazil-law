@@ -1,0 +1,2 @@
+Artigo 12-G - O Estado fica autorizado a doar áreas remanescentes de assentamentos aos Municípios ou entidades da administração pública, para a utilização em suas atividades ou para atividades ou obras reconhecidas como de interesse público ou social. (NR)
+Parágrafo único - O Estado poderá outorgar título provisório ou definitivo, oneroso ou gratuito, de áreas de assentamento para a implantação de infraestrutura reconhecida como de interesse público, social ou econômico, a associações ou a outras entidades legalmente constituídas ou integradas por assentados. (NR)

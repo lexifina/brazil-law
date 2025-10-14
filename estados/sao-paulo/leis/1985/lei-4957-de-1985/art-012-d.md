@@ -1,0 +1,1 @@
+Artigo 12-D - O descumprimento das condições resolutivas e obrigações contidas no título de domínio será apurado em processo administrativo, sob as garantias do contraditório e da ampla defesa, aplicando-se, no que couber, o disposto na Lei n° 10.177, de 30 de dezembro de 1998, com oportunidade ao beneficiário de sanar a irregularidade, na forma prevista em regulamento. (NR)

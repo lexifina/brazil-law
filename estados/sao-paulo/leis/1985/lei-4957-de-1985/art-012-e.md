@@ -1,0 +1,3 @@
+Artigo 12-E - A propriedade objeto do título de domínio é transferível por sucessão legítima ou testamentária, desde que os herdeiros ou legatários atendam aos requisitos de elegibilidade desta lei e assumam as obrigações constantes do título, vedado o fracionamento do lote. (NR)
+§ 1° - Não havendo sucessores que atendam aos requisitos de elegibilidade desta lei, ou que queiram explorar o lote, este poderá ser alienado a terceiro que atenda aos aludidos requisitos, desde que o beneficiário tenha quitado o preço de que trata o 12-F desta lei. (NR)
+§ 2° - Nas situações de herança vacante dos beneficiários titulados, o Estado fica autorizado a receber do Município a área para destinação prevista pelos planos públicos. (NR)
