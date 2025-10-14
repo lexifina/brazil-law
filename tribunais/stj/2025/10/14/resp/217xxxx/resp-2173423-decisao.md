@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial manejado por Olavo Mazao com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 840):
+ADMINISTRATIVO. AMBIENTAL. IBAMA. AUTO DE INFRAÇÃO. QUEIMADA SEM AUTORIZAÇÃO DO ÓRGÃO COMPETENTE. RESPONSABILIDADE SUBJETIVA. PRESUNÇÃO DE VERACIDADE DO AUTO DE INFRAÇÃO. PRINCÍPIO DA PRECAUÇÃO. INVERSÃO DO ÔNUS DA PROVA.
+1. Em se tratando de infração administrativa ambiental, o Superior Tribunal de Justiça entende que a responsabilidade é subjetiva, a qual demanda a demonstração da existência de culpa.
+2. O auto de infração constitui ato administrativo dotado de imperatividade, presunção relativa de legitimidade, veracidade e legalidade. Assim, havendo nele elementos que denotem a existência de dolo ou culpa por parte do autuado, cabe a este o ônus de afastar a presunção de veracidade das informações constantes do ato administrativo.
+3. O STJ possui entendimento no sentido de que "a inversão do ônus da prova aplica-se às ações de degradação ambiental" (Súmula nº 618), competindo, com base no princípio da precaução, a quem supostamente provocou o dano ambiental comprovar que não o causou. Tal entendimento é válido inclusive para os casos em que a responsabilidade seja subjetiva, cabendo ao autuado, em tais casos, a prova de alegada ausência de dolo ou culpa.
+4. No caso, a parte autora foi autuada por queimada não autorizada em sua propriedade rural, alegando que o incêndio teve início na propriedade vizinha. 5. Havendo no auto de infração informação de que não havia foco de incêndio na vizinhança, cabia ao autor, a fim de elidir sua presunção de veracidade, produzir prova inequívoca de suas alegações.
+6. A prova testemunhal produzida é contraditória e veio desacompanhada de prova pericial, da qual a parte autora desistiu durante a instrução do feito e que teria o condão de determinar, com maior grau de convencimento, a origem do fogo. Além disso, não há prova documental dos alegados prejuízos sofridos em razão do incêndio, assim como dos danos ou queimada proposital na fazenda vizinha.
+7. Sentença reformada para reconhecer a higidez do auto de infração.
+Opostos embargos declaratórios, foram rejeitados (fls. 875/881).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts.:
+I - 1.022, I e II, do CPC, sustentando que ocorreu "OMISSÃO quanto à extinção da punibilidade pelo falecimento do agente; e a CONTRADIÇÃO ao reconhecer a validade do Auto de Infração n.º 221948/D: afirmando, por um lado, que a responsabilidade pelo dano ambiental é subjetiva (demonstração de culpa), e, por outro lado, que "as provas produzidas  ..  não são aptas a afastar a presunção de veracidade do auto de infração"; bem como o pelo fato de que o julgado o qual serviu de paradigma para o acórdão recorrido (afirmar que as provas produzidas in casu não seriam aptas a afastar a presunção de veracidade do auto de infração) trata de caso completamente distinto deste em apreço" (fl. 897);
+II - 51 e 107, I, do CP, bem como 79 da Lei n. 9.605/98, afirmando que devem ser aplicadas subsidiariamente as disposições do Código Penal e do Código de Processo Penal às sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente. Assim, diante do falecimento do autuado, impõe-se o reconhecimento da prejudicialidade do recurso de apelação interposto pelo Ibama e a consequente extinção do processo. Isso porque, embora se possa considerar a pena de multa como dívida de valor, isto não afasta a sua natureza penal;
+III - 457 do CPC; 13, caput e § 2º; 29 do CP; 2º da Lei n. 9.605/98; 38, § 4º, da Lei n. 12.651/2012; 62 do CPP.
+Foram ofertadas contrarrazões às fls. 1.011/1.020.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022, I e II, do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que ocorreu omissão quanto à extinção da punibilidade pelo falecimento do agente, especialmente em razão da aplicação do princípio da intranscendência de penalidades administrativas.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Ficam prejudicadas todas as demais questões deduzidas no raro apelo.
+Publique-se.
+ EMENTA
