@@ -1,0 +1,35 @@
+DECISÃO
+GUSTAVO MARTINS QUEIROZ alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem no HC n. 1.0000.25.363456-2/000.
+O paciente foi denunciado, pela prática do crime de tráfico de drogas, e teve sua prisão em flagrante convertida em preventiva.
+A defesa pede a revogação da prisão preventiva ou sua substituição pelas cautelares dispostas no art. 319 do CPP, sob o argumento de ausência dos requisitos para a manutenção da custódia cautelar - indícios de autoria e materialidade e perigo de estar em liberdade.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena, e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315, ambos do CPP).
+A cautela extrema foi assim fundamentada:
+Em nova entrevista com os militares, o autuado tentou tomar da mão do militar a bolsa contendo os entorpecentes e o dinheiro porém, ao perceber a aproximação de outros militares, o mesmo desistiu e passou a acatar as ordens policiais.
+As substâncias apreendidas durante as diligências são de natureza diversificada, em quantidade relevante, totalizando 2 (dois) comprimidos de ecstasy/MDMA, pesando 1,1g e 276 (duzentos e setenta e seis) microtubos de cocaína, pesando 162,5g, acondicionadas em porções embaladas, divisadas e prontas para a venda, denotando a presença veemente de indícios da mercancia ilícita dos entorpecentes. As drogas foram submetidas a exame preliminar, que de fato constatou que se tratavam de substâncias entorpecentes, de uso e comércio proscrito, demonstrando a materialidade delitiva.
+Nos termos do artigo 313, I, do CPP, a prisão preventiva pode ser decretada quando a conduta praticada se tratar de crime doloso punido com pena privativa de liberdade máxima cominada em abstrato superior a 4 anos, tal qual ocorre no caso em apreço, nos termos do preceito secundário do artigo 33 da Lei de Tóxicos, que comina, em abstrato, pena máxima privativa de liberdade de quinze anos de reclusão.
+A gravidade concreta dos fatos corrobora a necessidade da conversão da prisão em flagrante em preventiva, para a garantia da ordem pública e da instrução criminal, sobretudo diante da reincidência específica do autuado Gustavo Martins Queiroz, que ostenta condenação penal transitada em julgado pela prática anterior do delito de tráfico ilícito de entorpecentes, estando em cumprimento de pena (fl. 29, grifei).
+O Tribunal de origem esclareceu o seguinte:
+Conforme decisão juntada (doc. de ordem nº 03), constata-se que o MM. Juiz apontou a necessidade excepcional da medida com base na gravidade concreta dos fatos, qual seja: apreensão de 02 (dois) comprimidos de ecstasy/MDMA, pesando 1,1g e 276 (duzentos e setenta e seis) microtubos de cocaína, pesando 162,5g, bem como diante do risco de reiteração delitiva por parte do paciente, já que ele se encontra em cumprimento de pena pela prática de delito de mesma natureza, o que configura sua reincidência específica.
+ ..
+Ademais, em consulta ao SEEU, verifica que, conforme bem pontuado pelo douto magistrado, trata-se de paciente reincidente específico, na medida em que no ano de 2023 teve sua pena privativa de liberdade extinta pelo integral cumprimento, também pela condenação por tráfico de drogas (fls. 78-79, grifei).
+Como se observa, a despeito das pequenas quantidades de drogas apreendidas - 2 comprimidos de ecstasy e 162,5 g de cocaína -, para a garantia da ordem pública, a prisão preventiva foi validamente fundamentada, com base na circunstância de que o ora paciente é reincidente específico em crime de tráfico de drogas. O risco concreto de reiteração delitiva justifica a medida extrema.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REINCIDÊNCIA ESPECÍFICA. PRISÃO PREVENTIVA JUSTIFICADA PARA GARANTIA DA ORDEM PÚBLICA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS. AGRAVO DESPROVIDO.
+I. CASO EM EXAME CAUTELARES
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de Diego da Silva, condenado pelo crime de tráfico de drogas (art. 33 da Lei 11.343/06). A defesa reitera a ausência dos requisitos para a decretação da prisão preventiva.
+II. QUESTÃO EM DISCUSSÃO
+2. Há uma questão em discussão: avaliar a legalidade da decretação da prisão preventiva, especialmente a fundamentação empregada para determinação da medida extrema.
+3. A prisão preventiva foi adequadamente fundamentada, com base na necessidade de garantir a ordem pública, considerando que o paciente é reincidente específico em crimes de tráfico de drogas e estava em cumprimento de pena no momento do flagrante. O risco concreto de reiteração delitiva justifica a medida extrema, sendo insuficientes outras cautelares alternativas.
+III. RAZÕES DE DECIDIR
+4. Embora a quantidade de droga apreendida (29 porções de crack) não seja exorbitante, foram encontrados elementos que indicam o envolvimento do paciente com o tráfico de drogas, como balança de precisão e celulares. A análise de eventuais inconsistências nas provas (incluindo a alegada "plantação" de drogas) demanda dilação probatória, inviável em sede de habeas corpus.
+IV. DISPOSITIVO
+5. Agravo regimental desprovido.
+(AgRg no HC n. 925.326/PR, Ministra Daniela Teixeira, Quinta Turma, julgado em 21/10/2024, DJe 23/10/2024)
+Com efeito, " ..  maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Aplica-se ainda, na espécie, a seguinte orientação deste Superior Tribunal:
+O Magistrado de primeiro grau, ao decretar a prisão preventiva, entendeu, com base nos elementos de prova disponíveis, estarem demonstrados indícios mínimos de autoria e prova da materialidade delitiva. Nesse contexto, é inadmissível o enfrentamento da alegação de negativa de autoria/participação no delito na via estreita do habeas corpus, ante a necessária incursão probatória, que deverá ser realizada pelo Juízo competente para a instrução e julgamento da causa (HC n. 552.612/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2020).
+Por fim, as apontadas circunstâncias dos fatos e as condições pessoais do acusado - reincidente específico - não indicam ser adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319 d o CPP).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
