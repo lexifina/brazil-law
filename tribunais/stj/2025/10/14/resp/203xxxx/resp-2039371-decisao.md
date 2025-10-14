@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, recurso especial interposto por SHIRLEY MOURA SIQUEIRA contra acórdão proferido pelo TJTO, assim ementado, por seu caput (fl. 298):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO SENTENÇA COLETIVA. SERVIDORES EXONERADOS EM 15.08.2008. FÉRIAS VENCIDAS. FÉRIAS PROPORCIONAIS. DÉCIMO TERCEIRO PROPORCIONAL. ILEGITIMIDADE AD CAUSAM EVIDENCIADA. APLICAÇÃO EFEITO TRANSLATIVO. DEMANDA ORIGINÁRIA EXTINTA. RECURSO PROVIDO.
+O acórdão dos embargos declaratórios, por sua vez, recebeu a seguinte ementa (fl. 346):
+EMBARGOS DE DECLARAÇÃO EM FACE DO ACÓRDÃO PROVENIENTE DO AGRAVO DE INSTRUMENTO QUE JULGOU ILEGITIMA A EMBARGANTE PARA PROPOR CUMPRIMENTO SENTENÇA COLETIVA EM RAZÃO DA PARTE NÃO CONSTAR NA LISTA SISEPE. EMBARGOS ACOLHIDOS APENAS PARA SANAR ERRO MATERIAL, MANTENDO O RESTANTE DO ACÓRDÃO NOS DEMAIS PONTOS. RECURSO PARCIALMENTE PROVIDO.
+1. Embargos apresentados pela Agravada face ao resultado do acórdão proveniente de Agravo de Instrumento interposto pelo Estado face a decisão referente aos autos do Cumprimento da sentença proferida nos autos nº 5002004-78.2008.827.2729, que não reconheceu seu suposto direito ao recebimento de valores relativos às férias proporcionais, férias vencidas e décimo terceiro proporcional dos servidores exonerados através do ATO n.º 2.871- EX.
+2. Ao contrário do que estava sendo interpretado por este tribunal, uma vez que a parte aqui embargante não integrava a aludida listagem, não possui legitimidade para propor o cumprimento da sentença. Ou seja, merece guarida o pleito declaratório apenas no que tange a decotar do julgado a informação de datas de admissão em razão de que a coisa julgada material não pode ser estendida para toda a categoria representada pela entidade autora da ação conforme estava no acórdão, simplesmente porque persiste diretriz limitativa expressamente inserida no título exequendo.
+3. Embargos de Declaração conhecidos e parcialmente providos, excluindo-se do julgado a parte que fala sobre datas de admissão como sendo fator determinante, mantendo o acórdão nos demais pontos.
+Nas razões do recurso especial, a recorrente aponta violação dos 1.022 e 1.025 do CPC, argumentando que "os embargos declaratórios por ela opostos foram providos parcialmente, fato que resultou no reconhecimento que a recorrente foi exonerada na data de 15/08/2008 (logo, estaria preenchida a condição prevista no acórdão de mérito). Contudo, o Tribunal de Justiça inovou quanto a matéria de mérito, pois aduziu que a recorrente não possuía legitimidade para propor o cumprimento da sentença por não integrar a lista de servidores filiados ao sindicato, que fora acostada à exordial da Ação Coletiva de Cobrança" (fl. 363).
+Acrescenta que "ao julgar os embargos de declaração, o tribunal modificou completamente seu primeiro posicionamento por meio de um rejulgamento de mérito, o que fica claro a partir da adoção de novo fundamento para viabilizar o provimento do agravo de instrumento, ou seja, o fundamento de que a parte recorrente não integrava a lista de servidores filiados ao sindicato (autor da ação coletiva) anexa à exordial da Ação Coletiva de Cobrança nº 5002004-78.2008.827.2729" (fl. 365).
+É o relatório.
+Passo a decidir.
+De acordo com a jurisprudência do STJ, para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto.
+Nesse contexto, a ausência de discussão na instância de origem da matéria tratada no recurso especial, a respeito da qual não foram opostos embargos de declaração, enseja a aplicação das Súmulas 282 e 356/STF.
+No caso, o argumento da recorrente de o Tribunal não poderia ter adotado novo fundamento, em sede de embargos declaratórios, para manter o acórdão da apelação que não reconheceu o direito da parte embargante, não foi debatido pela Corte de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. SAT/RAT. MAJORAÇÃO. NÃO RECOLHIMENTO. DENEGAÇÃO DA SEGURANÇA. DEFICIÊNCIA RECURSAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS N. 283 E 284, AMBAS DO STF. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+ ..
+IX - Não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+ ..
+XII - Agravo interno improvido (AgInt no AREsp 2.160.282/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023 - grifo nosso).
+Isso posto, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intime-se.
+EMENTA
