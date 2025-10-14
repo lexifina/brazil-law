@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo interposto por MARINETE DO NASCIMENTO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fls. 205-207):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA. RESERVA DE MARGEM CONSIGNÁVEL. CARTÃO DE CRÉDITO CONSIGNADO. IRDR Nº 53983/2016. APLICAÇÃO. ART. 373, II, DO CPC. PROVA CONTRATAÇÃO E UTILIZAÇÃO DO CARTÃO. RESPONSABILIDADE CIVIL NÃO CONFIGURADA. AUSÊNCIA DO DEVER DE INDENIZAR. RECURSO CONHECIDO E DESPROVIDO.
+I. O cerne do presente recurso consiste em examinar, se de fato o empréstimo questionado pelo autor da demanda, ora apelante, inobservou o dever de informação, o que ensejaria a repetição do indébito e, ainda, reparação a título de danos morais.
+II. Da análise detida dos autos, verifico que o Banco apelado se desincumbiu de provar a existência de fato extintivo do direito do autor, visto que comprovou através de documentos de ids. 26042706/26042708 (termo de adesão de cartão de crédito consignado com autorização para desconto em folha de pagamento, documentos pessoais de titularidade do apelante e faturas do cartão) que houve regular contratação do cartão de crédito na modalidade consignado, atendendo assim o disposto no art. 373, II do Código de Processo Civil.
+III. Repise-se que no julgamento do Incidente de Resolução de Demandas Repetitivas - IRDR n. 53.983/2016, o Tribunal de Justiça do Maranhão fixou a tese no sentido de que, apesar de não ser vedada a contratação de quaisquer modalidades de mútuo financeiro, a exemplo do empréstimo na modalidade cartão de crédito, cabe à instituição financeira/ré o ônus de provar que houve a contratação do empréstimo consignado, mediante a juntada do contrato ou de outro documento capaz de revelar a manifestação de vontade da consumidora no sentido de firmar o negócio jurídico, o que restou demonstrado no caso concreto.
+IV. Assim, a aplicação da tese jurídica fixada no IRDR nº 53983/2016 é medida que se impõe, em atendimento ao que dispõe o Código de Processo Civil.
+V. Com efeito, não restando demonstrada a prática de ato ilícito por parte da instituição bancária apelada, tem-se que o negócio jurídico firmado é válido, sendo o numerário transferido à conta da apelante, os descontos das prestações mensais se revestem de legalidade, representando o exercício legítimo do direito da instituição bancária de cobrar a contraprestação devida pelo contrato de empréstimo firmado. indébito.
+VI. Apelação cível conhecida e desprovida.
+Rejeitados os embargos de declaração opostos (fls. 250-263).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 436, II, 428 I, 429, II e art. 169 do CC.
+Sustenta que, o Tribunal de origem deixou de se manifestar sobre pontos relevantes tais, como: (i) aplicação da tese 01 do IRDR n. 53.983/2016, ratificada pelo Tema 1.061/STJ; (ii) consequências processuais da impugnação da assinatura digital no contrato sem prova de autenticidade; e (iii) insuscetibilidade de confirmação de negócio jurídico nulo por comprovante de transferência/extrato.
+Sustenta, ainda, que, impugnou, em réplica, a autenticidade da digital constante do contrato ("impugnação em réplica pela autora da digital posta no contrato como não sendo sua", fls. 268), o que exigia enfrentamento específico pelo Tribunal, conforme a sistemática do ônus da prova e as consequências da impugnação formal do documento e que em razão disso teria cessado a fé do documento particular ("cessou a fé como documento particular", fls. 268), exigindo que o Tribunal analisasse a validade do contrato à luz desse efeito jurídico.
+Sustenta, também, que, em razão da impugnação da assinatura digital, o ônus de provar a autenticidade recai sobre quem produziu o documento (instituição financeira), que, intimada, não requereu perícia grafotécnica e não se desincumbiu desse ônus. A Corte local, porém, não teria apreciado esse ponto sob a ótica do ônus probatório específico, contrariando o dispositivo.
+Afirma que, sendo nulo o negócio jurídico em razão da ausência de prova da autenticidade da assinatura digital impugnada, ele é insuscetível de confirmação, independentemente de comprovante de transferência ou extrato.
+Foram oferecidas contrarrazões ao recurso especial (fls. 278-280).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 282-285), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 295-298).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia na suposta omissão do Tribunal a quo em se manifestar sobre pontos essenciais ao correto equacionamento da lide, mesmo após a oposição dos embargos de declaração.
+Da detida análise dos autos, merece guarida a alegação de afronta ao art. 1.022 do CPC.
+Consoante se infere dos autos, o recorrente manejou ação declaratória de nulidade de débito para para declarar nulo o Contrato de Empréstimo Consignado de n. 0041856080001 firmado com a instituição financeira recorrida.
+O juízo de primeiro grau julgou improcedente a ação.
+O Tribunal de origem negou provimento à apelação e rejeitou os embargos de declaração.
+A jurisprudência desta Corte Superior é firme no sentido de que a violação ao art. 1.022 do CPC ocorre quando o Tribunal de origem se furta a apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício, notadamente as que têm o condão de infirmar a conclusão adotada.
+No caso concreto, o recorrente arguiu que o acórdão dos embargos de declaração não enfrentou, de forma clara e específica:
+(i) a observância da tese firmada em julgamento de casos repetitivos: O art. 1.022, parágrafo único, I, do CPC, expressamente determina que se considera omissa a decisão que "deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento".
+A tese do IRDR n. 53.983/2016, ratificada pelo Tema 1.061/STJ - "todo contrato que tiver a autenticidade da assinatura impugnada pelo autor/consumidor, caberá à instituição financeira/ré o ônus de provar autenticidade, através de perícia grafotécnica" - é aplicável à controvérsia sobre a validade do contrato e o ônus da prova da assinatura digital impugnada. A falta de análise expressa sobre a aplicação e as consequências dessa tese, que distribui o ônus probatório, configura frontal violação ao dispositivo legal.
+(ii) As consequências processuais da impugnação da assinatura digital: Em estrito rigor, a omissão quanto à tese repetitiva (Tema 1.061/STJ) abrange a omissão quanto à aplicação dos arts. 428, I, e 429, II, do CPC. O STJ possui entendimento consolidado de que a impugnação da autenticidade da assinatura em documento particular, quando não comprovada a autoria, impõe o ônus da prova a quem o produziu. Deixar de enfrentar as consequências dessa impugnação e o não requerimento de perícia por parte da instituição financeira é ponto decisivo para a solução da lide.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO PROFERIDO EM IRDR. CONTRATOS BANCÁRIOS. EMPRÉSTIMO CONSIGNADO. DOCUMENTO PARTICULAR. IMPUGNAÇÃO DA AUTENTICIDADE DA ASSINATURA. ÔNUS DA PROVA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Para os fins do art. 1.036 do CPC/2015, a tese firmada é a seguinte: "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II)."
+2. Julgamento do caso concreto.
+2.1. A negativa de prestação jurisdicional não foi demonstrada, pois deficiente sua fundamentação, já que o recorrente não especificou como o acórdão de origem teria se negado a enfrentar questões aduzidas pelas partes, tampouco discorreu sobre as matérias que entendeu por omissas. Aplicação analógica da Súmula 284/STF.
+2.2. O acórdão recorrido imputou o ônus probatório à instituição financeira, conforme a tese acima firmada, o que impõe o desprovimento do recurso especial.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+
+(REsp n. 1.846.649/MA, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/11/2021, DJe de 9/12/2021, g.n .)
+Com efeito, ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, II, parágrafo único, I, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tais pontos.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de que os autos retornem ao Tribunal a quo para novo julgamento, sanando a omissão apontada e enfrentando expressamente os pontos relevantes para o deslinde da controvérsia, em especial a tese firmada no Tema 1.061/STJ e as consequências da impugnação da autenticidade da assinatura digital.
+Publique-se. Intimem-se.
+ EMENTA
