@@ -1,0 +1,75 @@
+DECISÃO
+ELIANA MATILDE TRINDADE agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região na Apelação Criminal n. 1960-87.2005.4.01.3900.
+A agravante fora condenada em primeira instância como incursa no art. 317, §1º, c/c art. 71, ambos do Código Penal, em 22 anos, 2 meses e 20 dias de reclusão, além de 710 dias-multa.
+O Tribunal a quo deu parcial provimento a sua apelação, para fixar a pena definitiva em 8 anos, 10 meses e 20 dias de reclusão, além de 133 dias-multa.
+No recurso especial, a defesa indicou violação dos arts. 59, do Código Penal, e 619, do Código de Processo Penal. Defendeu: a) descabida a valoração negativa da culpabilidade e das circunstancias do crime, vez que fundamentadas em circunstâncias inerentes ao tipo penal; b) indevida a majoração decorrente da continuidade delitiva por não ter sido realizada pelo juízo a quo e pelo Tribunal qualquer especificação da quantidade de vezes em que a recorrente cometeu o crime de corrupção, limitando a dispor que foram diversas práticas.
+Requereu a seja reformado o acórdão recorrido para redução da pena da recorrente e adequação do regime inicial de seu cumprimento, com eventual substituição por penas restritivas de direito.
+Inadmitido o recurso na origem, o Ministério Público Federal opinou pelo não provimento do agravo em recurso especial (fls. 22.568-22.603).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido. Passo ao exame do especial.
+I - Valoração negativa das circunstâncias judiciais.
+O Tribunal de origem assim fundamentou a valoração negativa da culpabilidade da agravante e das circunstâncias do crime de corrupção que cometeu (fls. 23.647-23.648, grifei):
+Da análise das circunstâncias do art. 59 do Código Penal considero que a culpabilidade da ré deve ser considerada desfavorável, pois, de fato, agia em completo desacordo com suas funções utilizando a autarquia previdenciária como verdadeiro balcão de negócios espúrios.
+ ..
+As circunstâncias do crime devem ser consideradas desfavoráveis, pois a ré trabalhava justamente no setor de análise dos processos de restituição, ou seja, a ré preparava os processos, analisava e dava pareceres favoráveis a indevidas restituições e desconstituição de créditos.
+ ..
+Isso posto, fica a pena-base fixada em 04 (quatro anos de reclusão e 60 (sessenta) dias-multa.
+Ao admitir a valoração negativa da culpabilidade ao fundamento de que a agravante agia "em completo desacordo com suas funções" e a valoração negativa das circunstâncias sob a justificativa de que "a ré trabalhava justamente no setor de análise dos processos de restituição", colocou-se o acórdão recorrido em contraposição com a jurisprudência deste Tribunal.
+A jurisprudência desta Corte Superior veda a utilização como circunstância judicial desfavorável de elemento fático já previsto no tipo penal.
+Por todos, colaciono os dois seguintes julgados (grifei):
+ ..
+IV - É pacífico o entendimento desta Corte no sentido de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto. Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+V - A análise das circunstâncias do crime envolve a verificação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores.
+No caso destes autos, restou pontuado pelas instâncias de origem que a quantidade de moedas falsas em poder do réu projetou maior potencialidade lesiva sobre a fé pública, situação que extravasa as fronteiras do tipo penal.
+Agravo regimental desprovido."
+(AgRg no REsp n. 1.984.411/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+" ..
+II - Cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+III - A análise das circunstâncias do crime envolve a verificação da intensidade da lesão causada pela conduta. Se anormal, além do que ordinariamente prevê o próprio tipo penal, essa circunstância judicial deve ser valorada negativamente. Caso contrário, como na espécie, não pode lastrear a majoração da pena-base. Referida vetorial trata da avaliação dos elementos não definidos na lei penal, mas que ajudam a delinear as singularidades do fato. Neste conjunto, incluem-se o estado de ânimo do agente, a duração dos eventos criminosos, dentre outros fatores.
+IV - No caso destes autos, restou pontuado pelas instâncias de origem que o delito foi praticado "tendo como intermediário um menor de idade", compreensão que se alinha ao entendimento desta Corte Superior para negativação do vetor em referência.
+Agravo Regimental desprovido."
+(AgRg no REsp n. 1.884.571/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 23/3/2023.)
+É absolutamente inerente ao tipo penal de corrupção passiva (CP, art. 317) o agir do servidor público em desacordo com suas funções e mesmo que a irregularidade cometida tenha relação com suas atribuições.
+Descabida, portanto, a valoração negativa de ambas as circunstâncias judiciais, motivo pelo qual, na primeira fase da dosimetria, a pena deve restar fixada no mínimo legal, de 2 anos de reclusão e 10 dias-multa.
+II - Fração de aumento pela continuidade delitiva.
+O Tribunal manteve a sentença condenatória no que fixou a fração máxima para o aumento decorrente da continuidade delitiva.
+A sentença assim referiu os crimes de corrupção praticados pela agravante (fls. 23.218-23.261, grifei):
+Segundo a denúncia, a Ré teria exarado despacho favorável aos interesses da empresa APTEL LTDA., determinando, em 12.05.2004, o pagamento de restituição pleiteada pela empresa, sendo que as notas fiscais de nºs 149 a 153, que instruíram o pedido de restituição despachado pela Ré, já haviam instruído processo de restituição anterior, ocorrida em 2003. Além disso, as notas fiscais teriam sofrido adulteração, incluindo rubrica referente a contribuições sociais então não existentes.
+A ré ELIANA também teria mantido contato com a corré EURICA BARBOSA TRINDADE (vulgo ÉRICA), e emitido, em 30/11/2004, CND indevida para RICARDO, contador da empresa EMPREPAV. A corré EURICA é contadora e cuida dos interesses do escritório de assessoria jurídica dos Municípios do Estado do Pará. Asrés ELIANA e EURICA favoreciam empresas dispostas a efetuar pagamento por "consultorias", "assessorias" e "pareceres" favoráveis. Segundo o MPF, a Ré teria praticado os crimes dos arts. 288 e 317, §1º,do CP e art. 3º, III, da Lei nº 8.137/90.
+ ..
+A empresa EXPAMA, representada pelo corréu HUDSON, foi encaminhada ao escritório da corré EURICA TRINDADE (irmã da ré ELIANA), por meio da corré ROSÂNGELA, tendo sido expedida a CND nº1024/2004, em 18/12/2004, pelo corréu JOSÉ OTÁVIO.
+Importante mencionar a tabela de fl. 3173 (vol. 13º) com informações resumidas sobre a situação da Certidão Negativa de Débito, emitida para a empresa EXPAMA EXPORTADORA PARAOOMINAS DE MADEIRAS:
+ ..
+A cópia da CND nº 1024/2004, expedida em favor da empresa EXPAMA EXPORTADORA PARAGOMINAS DE MADEIRAS encontra-se às fis. 1599 do PAD - anexo 11! - Dossiê n. 6: ROSÂNGELA ALIVERTI NOVO, vol. 9), colecionada nesta sentença à fl. 525.
+As escutas telefônicas revelam diálogos da ré ELIANA MATILDE TRINDADE que comprovam o envolvimento nas fraudes:
+ ..
+Os diálogos a seguir transcritos também revelam que a ré ELIANA em conluio com a ré EU RICA (irmã) favorecia empresas dispostas a efetuarem pagamento por "consultorias", "assessorias" e "pareceres" favoráveis:
+ ..
+Presente, ainda, a causa de aumento do art. 71/CP (crime continuado), posto que os autos demonstram diversas práticas de corrupção pela servidora por longo período de tempo, aumento a pena anterior em 2/3 (dois terços), passando-a para 22 (vinte e dois) anos. 02 (dois) meses e 20 (vinte) dias de reclusão, e multa de 710 (setecentos e dez) dias-multa. calculado o dia-multa na forma acima especificada, pena esta que torno definitiva, à míngua de outras causas de aumento ou de causas de diminuição.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a fração de aumento deve ser definida com base na quantidade de crimes cometidos em continuidade.
+Para demonstração:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 217-A DO CP. ABSOLVIÇÃO. AFASTAMENTO DA CONTINUIDADE DELITIVA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. CIRCUNSTÂNCIAS DO CRIME E CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. CONTINUIDADE DELITIVA APLICADA NO PATAMAR DE 1/5. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime do artigo 217-A do Código Penal, em continuidade delitiva. Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, ou, subsidiariamente, pelo reconhecimento de crime único, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes.
+3. As circunstâncias do crime como circunstância judicial referem-se à maior ou menor gravidade do crime em razão do modus operandi.
+Constata-se, assim, a existência de fundamentação concreta e idônea, a qual efetivamente evidenciou aspectos mais reprováveis do modus operandi delitivo e que não se afiguram inerentes ao próprio tipo penal, a justificar a majoração da pena, uma vez que o acusado o sentenciado levava a criança para local ermo, uma casa abandonada, para a prática delitiva, fundamento a aumentar a reprovabilidade da conduta.
+4. Prosseguindo, foram apontados elementos concretos e não inerentes ao tipo penal para elevação da pena-base do acusado Jean, exasperada em razão da culpabilidade, elencando o fato do envolvido ter se aproveitado de sua relação de parentesco e confiança com a vítima para a realização do crime em análise, o que demonstra uma reprovabilidade superior àquela ínsita ao tipo penal, a merecer uma maior resposta do Estado.
+5. No tocante à continuidade delitiva, a exasperação da pena será determinada, basicamente, pelo número de infrações penais cometidas, parâmetro este que especificará no caso concreto a fração de aumento, dentro do intervalo legal de 1/6 a 2/3. Nesse diapasão esta Corte Superior de Justiça possui o entendimento consolidado de que, em se tratando de aumento de pena referente à continuidade delitiva, aplica-se a fração de 1/6 pela prática de 2 infrações;1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações;1/2 para 6 infrações e 2/3 para 7 ou mais infrações. Precedentes.
+6. No caso, ficou consignado, quanto ao número de crimes, que "foram praticadas em número superior a duas vezes" (e-STJ fl. 360), ou seja, no mínimo três vezes, não havendo ilegalidade na aplicação do patamar de aumento de 1/5, como feito pela Corte de origem.
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.810.272/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2025, DJEN de 21/5/2025.)
+A sentença condenatória, conforme acima transcrito, referiu concretamente apenas três eventos delituosos, limitando-se, quanto ao mais, apenas a referir que os diálogos telefônicos indicaram que a ré "favorecia empresas dispostas a efetuarem pagamento", sem afirmar concretamente quais foram estes favorecimentos, tampouco referindo especificamente a base probatória a eles referentes.
+Verifica-se que foram apresentados fundamentos concretos, ancorados nas provas produzidas nos autos, para afirmar a suficiência do padrão probatório para a condenação da ré apenas em relação a três crimes de corrupção.
+Rever tal fundamentação exigiria o revolvimento de fatos e provas, o que é vedado nessa instância especial por força da Súmula n. 07 do STJ.
+Ainda assim, contudo, foi fixada a fração de aumento máxima, o que, nos termos da jurisprudência desta Corte Superior acima colacionada, não pode prosperar.
+Deve, com efeito, ser reduzida para 1/5 a fração de aumento da pena imposta à agravante por força da continuidade delitiva.
+III - Adequação da Pena
+Consoante acima exposto, na primeira fase da dosimetria, a pena imposta à recorrente resta fixada no mínimo de 2 anos de reclusão e 10 dias-multa.
+Na segunda fase da dosimetria, mantém-se o acórdão recorrido, no que afirmou ausentes atenuantes e agravantes.
+Na terceira fase, igualmente resta mantida a incidência da causa de aumento do art. 317, § 1º, do CP, elevando a pena para 2 anos e 8 meses de reclusão e 13 dias-multa.
+Ainda na terceira fase da dosimetria, por força da presente decisão, a fração de aumento da continuidade delitiva restou reduzida para 1/5, o que torna definitiva a pena em 3 anos, 2 meses e 12 dias de reclusão e 15 dias multa, mantido o valor do dia multa em 1/30 do salário mínimo.
+Sendo favoráveis as circunstâncias judiciais e não reincidente a ré, fixo o regime aberto para início da execução da pena privativa de liberdade e promovo sua substituição por duas restritivas de direito a serem definidas pelo juízo da execução penal.
+IV - Dispositivo.
+À vista do exposto, conheço do agravo para dar parcial provimento ao recurso especial, reduzindo a pena da recorrente para 3 anos, 2 meses e 12 dias de reclusão e 15 dias multa, mantido o valor do dia multa em 1/30 do salário mínimo, no regime inicial aberto, devendo pelo juízo da execução ser efetuada a substituição da pena privativa de liberdade por duas penas restritivas de direito.
+Publique-se e intimem-se.
+EMENTA
