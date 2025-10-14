@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOSÉ CARLOS DE SOUSA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ no julgamento do Habeas Corpus Criminal n. 0625695-88.2025.8.06.0000.
+Extrai-se da inicial que o paciente é investigado por supostos crimes contra a administração pública (peculato, associação criminosa e lavagem de dinheiro) relacionados ao Serviço Autônomo de Água e Esgoto (SAAE) de Ipueiras/CE, e foi submetido a medidas cautelares diversas da prisão, com fundamento no art. 319 do Código de Processo Penal.
+A defesa requereu a revogação da cautelar que veda o acesso a órgãos públicos municipais, alegando fato novo consistente na eleição do paciente para o cargo de vereador (legislatura 2025/2028) e desproporcionalidade da medida, contudo o pleito foi indeferido pelo Juiz de primeiro grau.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Ceará, que teria denegado a ordem.
+No presente writ, a defesa sustenta, em síntese: a) violação aos princípios constitucionais da soberania popular e da presunção de inocência; b) prejuízo irreparável ao exercício do mandato de vereador e à imagem pública do paciente; c) desproporcionalidade e inadequação da medida cautelar de vedação de acesso a órgãos públicos municipais, diante de outras cautelares já impostas e suficientes; d) ausência de periculum libertatis concreto e atual; e) necessidade de revisão periódica das cautelares, nos termos do art. 282, § 5º, do CPP.
+Alega, ainda, que a vedação de acesso a órgãos públicos inviabiliza o exercício do múnus parlamentar (fiscalização do Executivo, participação em reuniões e acompanhamento de políticas públicas), configurando restrição indevida ao mandato conferido democraticamente, com efeitos lesivos à dignidade do cargo e à representatividade popular.
+Argumenta que a motivação ministerial e judicial é genérica, baseada em suposição de "influência" sem lastro em elementos concretos, e que a investigação tem sido prorrogada sucessivamente sob o argumento de "complexidade" e "grande volume de dados", sem apresentação de relatórios de progresso, perícias concluídas ou individualização de provas relevantes, o que reforça a necessidade de revisão das cautelares e a ausência de contemporaneidade do risco.
+Requer, liminarmente, a suspensão imediata da medida cautelar que proíbe o paciente de frequentar instalações de órgãos e entidades administrativas vinculadas ao Município de Ipueiras, para permitir o pleno exercício do mandato parlamentar e, no mérito, postula a concessão definitiva da ordem para cassar o acórdão impugnado e reformar a decisão de primeira instância, revogando em definitivo a medida de proibição de acesso a órgãos públicos municipais ou, subsidiariamente, a concessão parcial para restringir a vedação de acesso exclusivamente às dependências do SAAE de Ipueiras, mantendo-se o acesso aos demais órgãos para o exercício das funções parlamentares.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, o presente writ, está deficientemente instruído, não se verificando a cópia do acórdão denegatório do Tribunal de origem, tampouco da decisão que impôs ao paciente as medidas cautelares diversas da prisão, documentos essenciais ao deslinde da questão.
+A despeito das razões delineadas na inicial, cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da ação. Nesse sentido, confiram-se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JURI. INSURGÊNCIA DEFENSIVA EM FACE DA SENTENÇA DE PRONÚNCIA. AUSÊNCIA NOS AUTOS DO INTEIRO TEOR DO ACÓRDÃO DE ORIGEM. COMPREENSÃO DA CONTROVÉRSIA IMPOSSIBILITADA. INSTRUÇÃO DEFICIENTE DO WRIT. POSTERIOR PERDA DO OBJETO. INFORMAÇÃO DE SUPERVENIÊNCIA DA CONDENAÇÃO PERANTE O CONSELHO DE SENTENÇA. PREJUDICADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decidido pela Relatoria anterior, não existia nos autos sequer o inteiro teor do acórdão do Tribunal de origem apontado como ato coator - o que, como já explicado, não permitiu a exata compreensão da controvérsia, por deficiência de instrução.
+III - Assente nesta Corte Superior que, "Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório" (AgInt no HC n. 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017).
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 698.005/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. NÃO COLACIONADA A ÍNTEGRA DO ACÓRDÃO DE APELAÇÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. É dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos.
+2. É insuficiente a juntada apenas da ementa e do resultado dos julgamentos das decisões impugnadas. Os acórdãos, apontados como atos coatores, devem ser colacionados na íntegra.
+3. Agravo regimental improvido.
+(AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
