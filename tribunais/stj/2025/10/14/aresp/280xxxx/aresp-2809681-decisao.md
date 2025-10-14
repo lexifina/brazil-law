@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESTADO DO MARANHÃO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fls. 56/57):
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA PROFERIDA PELO RELATOR QUE NÃO CONHECEU DO RECURSO POR INADEQUAÇÃO DA VIA ELEITA. PEDIDO DE REFORMA. ALEGAÇÕES DO AGRAVANTE QUE NÃO AUTORIZAM A REVISÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+1) A deliberação judicial proferida na base julgou parcialmente procedente a impugnação ao cumprimento de sentença, homologou os cálculos da Contadoria Judicial e determinou a expedição de precatório/requisição de pequeno valor, não havendo mais o que ser decidido quanto ao mérito dessa fase processual. Trata-se inequivocamente de sentença, sendo incabível o recurso manejado pelo agravante.
+2) Alegações do agravante que não se mostram suficientes para modificar o posicionamento deste relator na decisão agravada.
+3) Agravo Interno conhecido e desprovido.
+Houve oposição de embargos declaratórios, que foram rejeitados, conforme ementa de julgamento abaixo transcrita (fls. 93/94):
+CIVIL. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. IMPROCEDÊNCIA. ACÓRDÃO EMBARGADO CLARO E COERENTE QUANTO À SUA FUNDAMENTAÇÃO E CONCLUSÃO. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA JULGADA EM SEDE RECURSAL QUE NÃO SE AFIGURA ADEQUADA PELA VIA TOMADA PELO EMBARGANTE. EMBARGOS DE DECLARAÇÃO CONHECIDOS E NÃO ACOLHIDOS.
+1) De acordo com o art. 1.022 do CPC, cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material.
+2) Não configurada nos autos qualquer das hipóteses previstas no art. 1.022 do CPC, especialmente por não haver no julgado nenhuma omissão ou contradição a ser sanada, a rejeição dos embargos de declaração é medida impositiva, destacando-se que os aclaratórios não se prestam para rediscutir os fundamentos de decisão colegiada proferida em sede recursal.
+3) Embargos de Declaração conhecidos e não acolhidos.
+O recorrente, em seu recurso especial de fls. 135/146, alega violação aos artigos 203, §§ 1º e 2º; 489, § 1º, inciso IV; 924, inciso III; 1.015, parágrafo único; e 1.022, parágrafo único, inciso II, todos do Código de Processo Civil.
+Sustenta que o acórdão recorrido apresenta vício de omissão acerca de argumento capaz de infirmar a conclusão adotada pelo julgador no que tange ao cabimento de agravo de instrumento em face de decisão interlocutória proferida em processo de cumprimento de sentença.
+O Tribunal de origem, nos termos da decisão agravada proferida às fls. 150/153, não admitiu o recurso especial sob os seguintes fundamentos:
+Trata-se de recurso especial, interposto por Estado do Maranhão / Procuradoria-geral do Estado do Maranhão, com fundamento no art. 105, III, "a" da Constituição Federal, visando à reforma de acórdão lavrado pela 7ª Câmara Cível.
+Na origem, o recorrido promove cumprimento da sentença proferida na Ação Coletiva n. 14.440 em que reconhecido aos associados da ASSEPMMA o direito à incorporação, nos vencimentos, de diferenças monetárias decorrentes da errônea conversão da moeda Cruzeiro Real em URV.
+O Juízo de primeiro grau julgou a impugnação oferecida pelo recorrente, homologou os cálculos apresentados na inicial e determinou a expedição de ofício requisitando a formalização de precatório em favor do recorrido.
+O recorrente interpôs agravo de instrumento, que não foi conhecido, em decisão monocrática, pois o relator entendeu que o recurso cabível seria o de apelação. A decisão do relator foi mantida pela 7ª Câmara Cível (Ids. 28427762 e 33836975).
+O recorrente ainda opôs ao acórdão embargos de declaração, que não foram acolhidos (Id. 36806358).
+Em suas razões, o recorrente sustenta divergência jurisprudencial e violação aos artigos 203, §§1º e 2º, c/c art. 924, inciso III, c/c art. 1.015, parágrafo único, e art. 1.022, §único, II ,c/c art. 489, § 1º, IV, todos do CPC, pois o entendimento do STJ seria de que " ..  decisões que julgam improcedentes ou parcialmente improcedentes a impugnação ao cumprimento de sentença desafiam recurso de Agravo de Instrumento, justamente por não implicarem a extinção do cumprimento de sentença" (Id. 38583190).
+Sem contrarrazões, por inércia.
+É o relatório.
+Decido.
+Configurados os pressupostos genéricos intrínsecos e extrínsecos de admissibilidade, passo ao exame dos pressupostos específicos do recurso especial.
+O STJ entende que " ..  o recurso cabível contra a decisão que homologa os cálculos, determinando a expedição de RPV ou precatório, encerrando, portanto, a execução, é o de apelação, constituindo erro grosseiro a interposição de agravo de instrumento" e que, para rever esse entendimento da Corte local, precisaria reexaminar o acervo fático-probatório dos autos, função que declina de realizar, por força da Súmula/STJ 07 (AgInt no AREsp 2408476, rel. Ministro MAURO CAMPBELL MARQUES, 2ª Turma, j. em 04/03/2024).
+Ante o exposto, inadmito o recurso especial (CPC, art. 1.030, V).
+Em seu agravo, às fls. 155/157, o agravante aduz que inexiste violação ao enunciado nº 07 da Súmula do Superior Tribunal de Justiça, que não se aplica ao caso em análise. Argumenta que não se pretende ver reapreciada questão de fato mas tão somente a tese de que decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo cabível a impugnação via recurso de agravo de instrumento.
+É o relatório.
+Ultrapassados os requisitos do agravo, passa-se ao exame do recurso especial.
+A pretensão recursal não merece acolhimento.
+De início, verifica-se inexistir a alegada negativa de prestação jurisdicional ou violação aos artigos 489, § 1º, inciso IV; e 1.022, parágrafo único, inciso II, do Código de Processo Civil.
+O Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara e fundamentada as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há que se falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente, sendo que o magistrado não está obrigado a se manifestar sobre todas as teses invocadas pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SFH. APÓLICE PÚBLICA (RAMO 66). AÇÃO INDENIZATÓRIA POR VÍCIOS CONSTRUTIVOS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CEF. INTERESSE JURÍDICO. RE 827.996 (TEMA 1011/STF). FUNDAMENTO CONSTITUCIONAL. SÚMULA 126/STJ. NÃO CONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional, nem em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Ademais, o magistrado não está obrigado a se manifestar sobre todas as teses invocadas, bastando que decida de forma motivada a questão.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.440.485/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 04/09/2024)
+No mais, o recorrente pugna pela reforma do acórdão recorrido sob o entendimento de que é cabível interposição de agravo de instrumento em face de decisão que acolhe parcialmente a impugnação em cumprimento de sentença contra a Fazenda Pública.
+Aduz que o acórdão recorrido afrontou os artigos 203, §§ 1º e 2º; 924, inciso III; e 1.015, parágrafo único, do Código de Processo Civil.
+Além disso, fundamenta sua tese com base em entendimento do Superior Tribunal de Justiça no sentido de que "decisões que julgam improcedentes ou parcialmente procedentes a impugnação ao cumprimento de sentença desafiam recurso de Agravo de Instrumento, justamente por não implicarem a extinção do cumprimento de sentença". (REsp 1.698.344/MG, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 01/08/2018)
+Assim, sustenta que "toda decisão de base que julga parcialmente procedente a impugnação ou nega provimento à impugnação é de caráter interlocutório, pois no momento da decisão ainda não houve a satisfação do crédito/da obrigação executada, o que ocorrerá tão somente quando do pagamento efetivo do RPV e/ou Precatório". (fl. 139)
+Todavia, em que pese os argumentos do recorrente, a jurisprudência desta Corte Superior consolidou-se no sentido de que o recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de precatório ou requisição de pequeno valor, declarando extinta a execução, é o de apelação.
+Nesse sentido, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO E DECISÃO ORA AGRAVADA QUE SE ENCONTRAM EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de precatório ou RPV, declarando extinta a execução, é o de apelação. Precedentes.
+2. Constatada a ocorrência de erro grosseiro, tendo vista a interposição de agravo de instrumento, inviável a aplicação do princípio da fungibilidade recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.120.344/PI, rel. Min. Maria Thereza de Assis Moura, Segunda Turma, DJe de 18/11/2024)
+PROCESSUAL CIVIL. EXECUÇÃO. EXTINÇÃO. RECURSO CABÍVEL. 1. Consoante o entendimento desta Corte, a apelação é o recurso cabível contra decisão que importa na extinção da execução.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.404.603/RJ, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 25/4/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE PÕE FIM À EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. INDISPENSABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+(..)
+4. Ao decidir pelo não cabimento do agravo de instrumento desafiando decisão que pôs fim ao cumprimento de sentença, o Tribunal de origem alinhou-se ao entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual "o recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de RPV ou precatório, declarando extinta a execução, é o de apelação" (AgInt no REsp n. 1.783.844/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/11/2019, DJe de 26/11/2019). Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.991.052/MG, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 9/3/2023.)
+PROCESSUAL CIVIL. O RECURSO CORRETO CONTRA A DECISÃO QUE HOMOLOGA CÁLCULO E DETERMINA A EXPEDIÇÃO DE RPV É A APELAÇÃO.
+1. Entende esta Corte Superior que "o recurso cabível contra a decisão que homologa os cálculos e determina a expedição de requisição de pequeno valor ou precatório, declarando extinta a execução, é o de apelação" (REsp n. 1.902.533/PA, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. Agravo interno provido.
+(AgInt no AREsp n. 2.074.532/PA, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+In casu, consta expressamente do acórdão prolatado na origem: "Reitero que a deliberação judicial proferida na base julgou parcialmente procedente a impugnação ao cumprimento de sentença, homologou os cálculos da Contadoria Judicial e determinou a expedição de precatório/requisição de pequeno valor, não havendo mais o que ser decidido quanto ao mérito dessa fase processual. Trata-se inequivocamente de sentença, sendo incabível o recurso manejado pelo agravante". (fl. 60)
+Assim, constatada a inadequação da via eleita pelo recorrente na origem (tendo em vista a interposição de agravo de instrumento), inviável o provimento do recurso especial, sendo de rigor a manutenção da conclusão alcançada pelo Tribunal local.
+Incide, no caso, o que dispõe o enunciado nº 568 da Súmula do Superior Tribunal de Justiça, verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b" do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor do agravante, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC. DECISÃO DE ORIGEM QUE REJEITA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, HOMOLOGA OS CÁLCULOS DA CONTADORIA JUDICIAL E ORDENA A EXPEDIÇÃO DAS REQUISIÇÕES DE PAGAMENTO. PROVIMENTO JUDICIAL TERMINATIVO A SER DESAFIADO POR APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. INADEQUAÇÃO DA VIA ELEITA. PRECEDENTES DO STJ. SÚMULA 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
