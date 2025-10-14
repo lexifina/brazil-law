@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de pedido de tutela de urgência formulado por FORTE SECURITIZADORA S.A., objetivando a concessão de efeito suspensivo ao agravo em recurso especial interposto contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial.
+O aresto recorrido recebeu a seguinte ementa (fls. 158-160):
+DIREITO CIVIL E CONSUMIDOR. DUPLA APELAÇÃO CÍVEL. COMPRA E VENDA DE IMÓVEL EM REGIME DE MULTIPROPRIEDADE. RESOLUÇÃO CONTRATUAL. RECURSOS DESPROVIDOS.
+I. CASO EM EXAME
+1. Trata-se de dupla apelação cível contra sentença que julgou parcialmente procedente ação de rescisão contratual, restituição de importâncias pagas e indenização por danos morais, rescindindo o negócio celebrado entre as partes e condenando as requeridas, solidariamente, à restituição das quantias pagas e ao pagamento de indenização por danos morais.
+II. QUESTÕES EM DISCUSSÃO
+2. As questões em discussão consistem em: (i) saber se a securitizadora possui legitimidade passiva para figurar no polo passivo da demanda; (ii) verificar se ocorreu prescrição trienal quanto à pretensão de restituição de valores pagos a título de comissão de corretagem; (iii) definir a possibilidade de retenção parcial dos valores pagos pelo adquirente e de aplicação de taxa de fruição; (iv) examinar a caracterização dos danos morais e a razoabilidade do valor fixado; e (v) analisar a aplicação de honorários recursais.
+III. RAZÕES DE DECIDIR
+3. A securitizadora integra a cadeia de consumo, auferindo benefícios econômicos diretos do empreendimento imobiliário, o que atrai a sua responsabilidade solidária, nos termos dos arts. 7º, parágrafo único, e 25, § 1º do Código de Defesa do Consumidor. 4. A cláusula contratual que não discrimina com clareza os valores relativos ao sinal e à comissão de corretagem é nula de pleno direito, por violação ao direito básico de informação do consumidor (art. 6º, III, CDC) e por contrariedade ao art. 51, II e IV, do mesmo diploma legal.
+5. O prazo prescricional aplicável à pretensão de resolução contratual e consequente restituição de valores é decenal (art. 205, CC), não se aplicando o prazo trienal previsto no Tema Repetitivo n. 938 do STJ, que se restringe às pretensões fundadas na abusividade da cláusula de corretagem, e não nos casos em que a pretensão restitutória decorre da resolução do contrato por inadimplemento do vendedor.
+6. A construtora deu causa à rescisão contratual ao não entregar o imóvel no prazo pactuado, mesmo considerando o período de tolerância, e ao não providenciar o habite-se na forma contratualmente prevista, caracterizando inadimplemento contratual.
+7. Em caso de resolução do contrato por culpa exclusiva do vendedor, deve ocorrer a restituição integral das parcelas pagas pelo adquirente, conforme Súmula n. 543 do STJ, sem qualquer retenção.
+8. A aplicação de taxa de fruição depende da coexistência de dois pressupostos: privação da disposição da coisa pelo vendedor e entrega do bem para plena disposição do adquirente, o que não ficou caracterizado no caso concreto.
+9. O atraso na entrega do imóvel, além dos limites contratuais, constitui dano moral indenizável, não caracterizando mero aborrecimento, sendo razoável o valor de R$ 5.000,00 (cinco mil reais) fixado pelo juízo de origem, em consonância com a Súmula n. 32 do TJGO.
+10. Presentes os requisitos para majoração da verba honorária sucumbencial (art. 85, § 11, do CPC) - decisão recorrida publicada na vigência do CPC/2015, recurso não provido e condenação em honorários advocatícios desde a origem - impõe-se o aumento dos honorários advocatícios de 10% para 12% sobre o valor da condenação.
+IV. DISPOSITIVO E TESE
+11. Recursos conhecidos e desprovidos, mantendo-se a sentença por seus próprios fundamentos, com majoração dos honorários advocatícios para 12% sobre o valor da condenação.
+Tese de julgamento: "1. A securitizadora que figura como beneficiária dos pagamentos integra a cadeia de fornecimento e possui legitimidade passiva para responder solidariamente pelos danos causados ao consumidor. 2. No caso de resolução do contrato por inadimplemento do fornecedor, o prazo prescricional aplicável é o geral de dez anos previsto no art. 205 do Código Civil. 3. A cláusula contratual que não discrimina com clareza os valores relativos ao sinal e à comissão de corretagem é nula de pleno direito. 4. O atraso na entrega de imóvel constitui dano moral indenizável." Dispositivos relevantes citados: CDC, arts. 3º, § 2º, 6º, III, 7º, parágrafo único, 14, 25, § 1º, 51, II e IV; CC, arts. 132, 205, 206, § 3º, IV, 418, 420, 423, 475, 725; CPC, arts. 85, § 11, 373, II. Jurisprudência relevante citada: STJ, R Esp n. 1.737.992/RO; STJ, Súmula n. 543; TJGO, Súmula n. 32; STJ, Tema Repetitivo n. 938.
+Alega que "a Requerente comprovou a execução imediata da condenação solidária poderá implicar bloqueio de valores da Requerente, que sequer possui vínculo jurídico com o contrato discutido" (fl. 9).
+É, no essencial, o relatório.
+De acordo com o art. 300 do CPC/2015, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Outrossim, na esfera da probabilidade do direito, o art. 995, parágrafo único, do CPC/2015 exige, ainda, como condição para a concessão de efeito suspensivo ao recurso especial, a probabilidade de provimento do recurso.
+Em análise superficial não exauriente, observo que, aparentemente, não há risco concreto, uma vez que o próprio requerente afirma que "a execução imediata da condenação solidária poderá implicar bloqueio de valores", sendo, portanto, mera possiblidade que não afeta o patrimônio do requerente.
+Com isso, ausente um dos requisitos para a concessão da tutela de urgência, é desnecessária a análise do outro pressuposto. Nesse sentido, trago o julgado abaixo:
+PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO PEDIDO INCIDENTAL DE TUTELA PROVISÓRIA DE URGÊNCIA NO RECURSO ESPECIAL. TUTELA DE URGÊNCIA QUE OBJETIVA A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. AUSÊNCIA DE PRESSUPOSTOS.
+1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+2. A ausência do "periculum in mora" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "fumus boni juris", que deve se fazer presente cumulativamente.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp n. 1.342.640/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 14/11/2016.)
+Ante o exposto, com fundamento no art. 288, § 2º, do RISTJ, indefiro o pedido.
+Publique-se. Intime-se.
+EMENTA
