@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por LEONARDO DA SILVA DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5164943-65.2025.8.21.7000/RS).
+Consta dos autos que o recorrente foi preso preventivamente "pela suposta prática do crime de roubo majorado (art. 157, §2º, inciso II, e §2º-A, inciso I, ambos do Código Penal)" - e-STJ fl. 32.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada (e-STJ fls. 32/38).
+Neste recurso, afirma a defesa inexistir justificativa idônea para a manutenção da segregação antecipada e defende a suficiência da imposição de medidas alternativas.
+Aduz que militam em favor do recorrente condições pessoais favoráveis.
+Busca, assim, seja revogada a prisão preventiva.
+É o relatório.
+Decido.
+Como visto no relatório, insurge-se a defesa contra a prisão processual do recorrente.
+O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta do decreto prisional (e-STJ fls. 33/34, grifei):
+Trata-se de representação da Autoridade Policial pela decretação da prisão preventiva de RAFAEL DA SILVA GONÇALVES e de LEONARDO DA SILVA DE SOUZA , suspeitos da prática, em tese, do delito de roubo majorado (1.1).
+Intimado, o Ministério Público manifestou-se favoravelmente à representação policial (9.1).
+Vieram os autos conclusos.
+Relatei sucintamente. DECIDO.
+O decreto de prisão preventiva exige a presença de pressupostos de admissibilidade (art. 313 do CPP), fundamentos (art. 312, 1ª parte, do CPP) e requisitos legais (art. 312 do CPP).
+Adianto que o caso em tela se enquadra na hipótese do artigo 313, inciso I, do Código de Processo Penal, uma vez que a pena cominada ao delito imputado aos investigados (roubo majorado) é superior a quatro anos de privação de liberdade.
+Da análise dos elementos trazidos aos autos pela Autoridade Policial, verifica-se que há suficientes indícios de participação dos representados no crime de roubo majorado praticado no dia 24/09/2024, por volta das 00h15, na Rua Elis Regina, 313, Vila Três Marias, na cidade de Esteio/RS.
+No caso, a materialidade do crime vem consubstanciada, especialmente, na ocorrência policial nº 17930/2024/100510 (1.4) e no relatório de investigação (1.10).
+No que toca à autoria, os indícios, igualmente, recaem sobre os representados.
+De acordo com o relatório de investigação, o roubo foi praticado a partir de uma chamada de transporte por aplicativo, tendo como vítima o motorista Patrick Strassburger Balduino.
+Diante disso, a fim de identificar os autores do delito, a Delegacia de Polícia oficiou a operadora do transporte por aplicativo e as operadoras de telefonia, com o objetivo de colher os dados cadastrais dos usuários que realizaram o chamado do serviço, resultando na obtenção do nome de Rafael da Silva Gonçalves.
+Além disso, o motorista/ofendido possuía, em seu aparelho celular, que permaneceu dentro do veículo, aplicativo utilizado como mecanismo de segurança, o qual registrou, por áudio, a conversa ocorrida entre os dois sujeitos que cometeram o delito, tendo sido identificada a menção a nomes como "Leonardo", "Sprint" e "Rafael".
+ ..
+Posteriormente, a Autoridade Policial constatou, por meio de dados cadastrais, que o primeiro sujeito identificado, Rafael, possui um irmão chamado Leonardo da Silva de Souza, o que coincidia com os nomes citados e registrados dentro do automóvel.
+Diante desses elementos, a vítima foi chamada para realizar reconhecimento dos suspeitos, tendo reconhecido, sem sombra de dúvidas, RAFAEL DA SILVA GONÇALVES e LEONARDO DA SILVA DE SOUZA como sendo os autores do delito de roubo (1.8 e 1.9).
+Ademais, na conversa dos indivíduos, há a informação de que, após abandonar o veículo, eles estavam próximos da Estação Cidadania-Cultura, conhecida também como Praça do CEU, localizada na Av. Valdomimo Rodrigues Machado, em Sapucaia do Sul/RS.
+ ..
+Desse modo, está demonstrada a materialidade do crime e presentes robustos indicativos de autoria que recaem sobre os representados.
+Presente, assim, o fumus commissi delicti consagrado no artigo 312, segunda parte, do CPP.
+No que refere ao periculum libertatis, observo que a custódia cautelar dos representados é o único meio de acautelar a ordem pública, o que destaco pela gravidade concreta do delito de roubo majorado, cometido mediante emprego de arma de fogo e em concurso de agentes.
+Assim, no caso concreto, a necessidade da segregação cautelar mostra-se presente, servindo para a garantia da ordem pública, compreendida, in casu, pela gravidade concreta da conduta narrada, tendo os investigados utilizado serviço de transporte por aplicativo, que se encontra permanentemente à disposição dos usuários e da sociedade, como meio de facilitação do seu intento criminoso.
+De mais a mais, tenho que as medidas cautelares alternativas relacionadas no artigo 319 do Código de Processo Penal são insuficientes no caso em comento e não acautelarão a ordem pública, diante do modus operandi da conduta dos representados, que, inclusive, abusaram da confiança depositada pelo ofendido em relação aos próprios usuários do serviço de transporte, como já referido anteriormente.
+Ressalto, por derradeiro, que o princípio da não culpabilidade não está sendo violado, uma vez que a prisão ora decretada é de natureza cautelar, com previsão legal, servindo ao bom andamento do processo e a garantir a sua eficácia.
+Ante ao exposto, presentes os requisitos previstos no artigo 312 do Código de Processo Penal, em acolhimento à representação policial, com o parecer favorável do Ministério Público, DECRETO a prisão preventiva dos representados RAFAEL DA SILVA GONÇALVES e LEONARDO DA SILVA DE SOUZA.
+Como se vê, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado singular a gravidade concreta da conduta e a periculosidade social do recorrente, extraídas do modus operandi do delito de roubo majorado pelo emprego de arma de fogo e pelo concurso de agentes, já que teriam "os investigados utilizado serviço de transporte por aplicativo, que se encontra permanentemente à disposição dos usuários e da sociedade, como meio de facilitação do seu intento criminoso" (e-STJ fl. 34), além do que "abusaram da confiança depositada pelo ofendido em relação aos próprios usuários do serviço de transporte, como já referido anteriormente" (e-STJ fl. 34).
+Corroborando a compreensão de primeiro grau, consignou o Tribunal de origem que "a denúncia descreve que o roubo envolveu violência, consistente em um "mata-leão" para imobilizar a vítima. O fato foi relatado pela vítima quando ouvida no inquérito. Não fosse isso, há relatos de que ambos os agentes teriam agido com violência e graves ameaças ("atira nele. Atira nele!" e "Perdeu, perdeu. Vou te matar"). Portanto, a prisão se justifica pela gravidade das circunstâncias do caso concreto, e não pela gravidade abstrata do delito" (e-STJ fl. 35).
+Aliás, "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+Recentemente esta Corte frisou que "a prisão preventiva encontra fundamento legítimo quando baseada na gravidade concreta do crime e no modus operandi violento que revele acentuada periculosidade do agente" (AgRg no HC n. 999.660/SP, relator Ministro Carlos Cini Marchionatti, Desembargador Convocado TJRS, Quinta Turma, julgado em 17/6/2025, DJEN de 25/6/2025).
+Em caso análogo, guardadas as devidas particularidades, esta Corte Superior assim se pronunciou:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA, NA ESPÉCIE. AGRAVO DESPROVIDO.
+1. No caso, a prisão preventiva do Acusado está devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, para a garantia da ordem pública, tendo em vista a gravidade concreta da conduta, evidenciada pelo modus operandi do delito. Com efeito, conforme apurado, o ora Agravante, juntamente com outros increpados, teria solicitado uma corrida por aplicativo de transporte e, em seguida, ameaçado de morte o motorista, que teve sua liberdade restringida para que realizasse diversas operações bancárias, cujo valor ainda não foi apurado. Tais circunstâncias evidenciam a necessidade da segregação cautelar.
+2. A suposta existência de condições pessoais favoráveis não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes um dos requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema.
+3. Demonstrada pelas instâncias originárias, com expressa menção às peculiaridades do caso concreto, a necessidade da imposição da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 847.281/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Não bastasse até aqui já haver justificativa bastante para a prisão processual do recorrente, extrai-se do acórdão impugnado, a título de reforço, que, "embora primário o paciente, responde a outra ação penal pela suposta prática de idêntico delito, ocorrido poucos dias após o crime aqui apurado. Na oportunidade, foi preso em flagrante após trocar tiros com a polícia. Assim como aqui, o roubo teria sido praticado com violência" (e-STJ fl. 35).
+Ademais, é cediço nesta Corte que "a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar" (HC n. 607.654/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 16/12/2020).
+Portanto, a prisão cautelar está amparada na necessidade de garantir a ordem pública.
+Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
