@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interposto por PEDRO ALVES DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fls. 240-241):
+APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. EMPRÉSTIMO CONSIGNADO. EFETIVA CONTRATAÇÃO. COMPROVAÇÃO. CRÉDITO DISPONIBILIZADO NA CONTA DO CONSUMIDOR. NÃO UTILIZAÇÃO. IRRELEVÂNCIA. INVIABILIDADE DE DESCONSTITUIÇÃO DA AVENÇA. DANO MORAL NÃO EVIDENCIADO. CONDUTA ANTIÉTICA OU TENTATIVA DE ALTERAÇÃO MALICIOSA DA VERDADE DOS FATOS. POUCA COMPREENSÃO ACERCA DOS TERMOS DO NEGÓCIO JURÍDICO. EVIDÊNCIAS. LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA. AFASTAMENTO. REFORMA DA SENTENÇA, NO PONTO. PROVIMENTO PARCIAL DO RECURSO. Verificado que o autor firmou contrato de empréstimo e que os valores lhe foram disponibilizados em conta corrente, embora não tenha se utilizado dos recursos, não se desincumbiu do ônus de provar supostas irregularidades ou vício na manifestação de sua vontade que, em tese, maculariam a obrigação. Inviável se falar em repetição do indébito ou danos morais, na medida em que não foram constatadas quaisquer ilicitudes na formalização da avença. A exposição de informações imprecisas acerca do pacto celebrado, por si só não enseja a punição por litigância de má-fé, exigindo-se, para tanto a inequívoca demonstração de atitude antiética capaz de alterar a verdade dos fatos com a deliberada intenção de induzir o juiz ao erro. Precedentes.
+Os embargos de declaração opostos foram rejeitados (fls. 281-287).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 104, 166 e 171 do Código Civil e 14 do CDC.
+Sustenta, em síntese, a invalidade do negócio jurídico, ao argumento de que nunca teve a intenção de celebrar o contrato de empréstimo consignado, não tendo havido uma real manifestação de sua vontade de formar livre, inequívoca e consciente.
+Foram oferecidas contrarrazões ao recurso especial (fls. 356-359).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 363-366), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 368-378).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não prospera a alegada violação do art. 1.022, II, do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, o recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+O Tribunal de origem concluiu que a validade do negócio jurídico foi devidamente demonstrada, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 243):
+Como bem observado pelo juízo sentenciante, vê-se que o banco demandado juntou aos autos documentação que revela a contratação do empréstimo entre as partes (Id. 17943475, 17943476, 17943477, 17943479 e 17943480), restando demonstrado que as afirmações da instituição bancária se encontram devida e suficientemente atestadas no caderno processual, não merecendo qualquer retoque a Sentença proferida, quanto à improcedência dos pedidos relativos à declaração de inexistência do negócio validamente firmado, da repetição dobrada do suposto indébito e de fixação de indenização pela ocorrência de suposto dano moral.
+Afastar o referido entendimento para concluir no sentido da invalidade d o negócio jurídico, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
