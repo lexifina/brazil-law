@@ -1,0 +1,1 @@
+Artigo 2°-A - O Poder Executivo emitirá, até o dia 30 de abril de cada ano, um relatório especificando os beneficiários da política estadual de regularização de terras, nos termos do regulamento. (NR)
