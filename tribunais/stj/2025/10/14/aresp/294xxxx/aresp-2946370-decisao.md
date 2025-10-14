@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE SÃO LUÍS, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão (fls. 139-188), assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNCIONÁRIO PÚBLICO MUNICIPAL. PROGRESSÃO FUNCIONAL. Lei nº 4.931/2008. REQUISITOS DEMONSTRADOS. AUSÊNCIA DE PRESCRIÇÃO.
+I - Restou demonstrado o preenchimento dos requisitos para a progressão vertical das autoras (contracheque, diplomas de graduação e requerimentos administrativos) impostos pela Lei Municipal nº 4.931/2008.
+II - O servidor público não pode ser penalizado diante da inércia da Administração em realizar a avaliação de desempenho, cujo dever legal é de responsabilidade exclusiva do ente público.
+III - Conforme a Tese fixada pela Primeira Seção do STJ, com observância do rito do julgamento dos recursos repetitivos (Tema 1075): "é ilegal o ato de não concessão de progressão funcional de servidor público, quando atendidos todos os requisitos legais, a despeito de superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de ente público, tendo em vista que a progressão é direito subjetivo do servidor público, decorrente de determinação legal, estando compreendida na exceção prevista no inciso I do parágrafo único do art. 22 da Lei Complementar 101/2000" (REsp n. 1.878.849/TO, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 24/2/2022, DJe de 15/3/2022.) (fls. 140-141).
+No recurso especial (fls. 196-202), o recorrente sustenta violação aos arts. 1º e 6º do Decreto nº 20.910/32, considerando que a "pretensão das autoras está atingida pela prescrição do fundo de direito, pois a revisão do enquadramento funcional e o pagamento de diferenças salariais foram pleiteados fora do prazo quinquenal previsto" no referido Decreto.
+A parte recorrida apresentou contrarrazões à fl . 205.
+O Tribunal de origem não admitiu o recurso especial por estas razões, in verbis (fls. 207/209):
+O acórdão recorrido está em consonância com o entendimento do STJ, no sentido de que, "  em se tratando de ato omissivo continuado, tal como ocorre nos casos em que a Administração Pública deixa de proceder à progressão funcional de servidor público, e não havendo a negativa do direito pretendido, não se opera a prescrição do fundo de direito, mas sim das parcelas anteriores ao quinquênio que antecedeu à ação" (AgInt no AgInt no REsp n. 1.894.377/AM, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023), incidindo, pois, ao caso, o óbice da Súmula 83/STJ. (fl. 208)
+No agravo em recurso especial (fls. 215-220), o agravante alega não ser aplicável a Súmula 83/STJ, uma vez que a "impugnação especial fora apresentada com fundamento não em divergência jurisprudencial, mas sim em violação à legislação federal, mais especificamente aos arts. 1º e 6º do Decreto nº 20.910/32." (fl. 218)
+No mais, reedita as razões do recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a fundamentação da decisão agravada, porquanto o agravante não infirmou o argumento utilizado para inadmissão do recurso especial.
+Em verdade, o juízo de inadmissibilidade realizado pela Vice-Presidência da Corte estadual abalizou-se na incidência do enunciado 83 da Súmula do STJ, já que o acórdão recorrido está em consonância com a jurisprudência desta Corte superior.
+Todavia, em seu agravo, a parte deixou de refutar, adequada e detalhadamente, o referido pilar argumentativo, tendo se limitado a reproduzir a tese alinhavada em seu recurso especial sem, contudo, demostrar qualquer desacerto do julgado que não o admitiu. Logo, o fundamento da decisão agravada, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, fere-se o princípio da dialeticidade, atraindo a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024.).
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú., I, DO RISTJ. AGRAVO NÃO CONHECIDO.
