@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE GUARABIRA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 146):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA MUNICIPAL. CONTRATO TEMPORÁRIO. ESTADO GRAVÍDICO. ESTABILIDADE PROVISÓRIA DA GESTANTE. PEDIDO DE INDENIZAÇÇÃO POR DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA PARCIAL. INCONFORMISMO DA AUTORA. PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE. REJEIÇÃO. MÉRITO. ILEGALIDADE NA CONDUTA DO MUNICÍPIO EM EXONERAR E SUPRIMIR SALÁRIO DA SERVIDORA GESTANTE COM DIREITO A ESTABILDIADE PROVISÓRIA. REQUISITOS DO DEVER DE INDENIZAR PREENCHIDOS. RESPONSABILIDADE CIVIL DO ESTADO. DANO MORAL CARACTERIZADO. REFORMA PARCIAL DA SENTENÇA. PROVIMENTO PARCIAL DO APELO PARA CONCEDER O DANO MORAL.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 192):
+EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015 - PRETENSÃO DE REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - MANUTENÇÃO DA DECISÃO- REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+Em seu recurso especial, às fls. 204-223, o recorrente sustenta violação ao art. 17 do Código de Processo Civil, tendo em vista que, "se a autora/recorrida não demonstrou ter solicitado administrativamente os pagamentos requeridos nesta demanda, assim como não comprovou que o réu/recorrente teria negado a sua implantação/reintegração, então, por consequência, não houve formação de lide, de litigio apto a justificar o ajuizamento de uma demanda judicial" (fl. 213). Assim sendo, "não tendo interesse processual, deve a demanda ser extinta sem resolução do mérito" (fl. 214).
+Aduz, ainda, ofensa aos arts. 489, §1º, inciso IV, e 1.022, ambos do Código de Processo Civil, uma vez que o acórdão recorrido não foi devidamente fundamentado.
+Ademais, argumenta que a parte recorrida, ao interpor o recurso de apelação, não atacou os fundamentos da sentença, "logo, não tendo havido dialeticidade entre o recurso da autora e a sentença" (fl. 216), há clara violação ao art. 932, inciso III, do Código de Processo Civil.
+Continua, alegando, de modo genérico, que "o acórdão da 3ª Câmara Cível do E. TJPB violou os artigos 1º e 8º do CPC, vez que interpretou normas fundamentais da Constituição Federal sem observar a legalidade a que se submete a Administração Pública Municipal de Guarabira" (fl. 218).
+No mais, aponta desrespeito ao art. 373, inciso I, do Código de Processo Civil, já que "é ônus da autora provar o seu direito constitutivo, sem o qual a demanda deve ser julgada improcedente na medida em que não houve prova dos fatos alegados pelo autor. Note-se que este não produziu nenhuma prova para demonstrar, ou ao menos, indicar, um sofrimento de dano moral" (fl. 220).
+Por fim, sustenta que (fl. 221):
+Portanto, não houve ato ilícito, não se enquadrando na hipotese do artigo 186 do Código Civil, de modo que o acórdão recorrido ofendeu o artigo 186 do CC.
+Nesse ponto, tendo sido o contrato firmado com autora de tempo determinado por excepcional interesse público, houve exercício regular do direito nos termos do artigo 188, I, do Código Civil, o qual está sendo violado pelo acórdão recorrido. (sic)
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 270-271):
+De fato, no que diz respeito à arguida omissão acerca da falta de interesse de agir não se pode reputar omisso o acórdão, quando as alegações do insurgente somente foram levantadas por ocasião da oposição dos embargos de declaração, como é o caso dos presentes autos, uma vez que a apelação foi interposta pela autora e não pela edilidade.
+(..)
+Ademais, com relação à aduzida ofensa aos arts. 1º; 8º; 37; 39, §3º; 489, §1º todos do CPC e artigos 186; 188, I e 944 do CC, constata-se que referidos dispositivos e as teses a ele atinentes não foram objeto de debate na decisão hostilizada, denotando, assim, ausência do prequestionamento necessário a ensejar acesso à superior instância, o que atrai, portanto, o óbice da Súmula 282 do STF, aplicada analogicamente aos recursos especiais.
+Em seu agravo, às fls. 286-291, o agravante afirma que:
+A decisão de inadmissão alegou que os artigos 1º; 8º; 37; 39, §3º; 489, §1º todos do CPC e artigos 186; 188, I e 944 do CC, não foram objeto de debate na decisão hostilizada, o que atrairia a Súmula nº 282 do STF.
+(..)
+Todavia, de início, é importante pontuar que Súmula nº 282 do STF foi estritamente editada para aplicação ao recurso extraordinário, o que, evidentemente, não é o caso dos autos, pois trata-se de recurso especial, não sendo apropriado utilizar como fundamento tal verbete para inadmissão da presente especial recursal.
+Noutro giro, as normas legais foram comprovadamente violadas, pois, apesar de suscitadas, não foram debatidas na origem. Desse modo, não há razão de se invocar a atração da Súmula nº 282 do STF ao caso ora analisado.
+Portanto, resta afastada a incidência da súmula nº 282 do STF, já que houve a omissão clara e incontroversa do acórdão em ralação às normas contidas nos artigos 1º, 8º, 17, 85, §4º, inciso II, 373, I e II, 496, 489, §1º, IV, e 1022 do CPC, embora suscitadas em momento oportuno, assim como o acórdão tratou diretamente do artigo 373 e 85 do CPC, ainda que não tenha apresentado/indicado o número da norma. (fl. 289, sic)
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência do enunciado 282 da Súmula do STF, em razão da ausência de prequestionamento.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
