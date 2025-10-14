@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 0040840-04.2002.4.01.3400, assim ementado (fl. 1456):
+PROCESSUAL CIVIL. GRATIFICAÇÃO DE DESEMPENHO DA SEGURIDADE SOCIAL E DO TRABALHO  GDASST. LEI Nº 10.483/2002. APOSENTADOS E PENSIONISTAS. ART. 7º DA EC N. 41/2003. EXTENSÃO. MODIFICAÇÃO DO VALOR ATRIBUÍDO À CAUSA. RECOLHIMENTO DE CUSTAS COMPLEMENTARES EM DECORRÊNCIA DE INCIDENTE DE IMPUGNAÇÃO DO VALOR DA CAUSA. NECESSIDADE DE INTIMAÇÃO PESSOAL DO AUTOR. PRECEDENTES DO STJ. SENTENÇA ANULADA.
+1. A parte autora ajuizou esta ação objetivando assegurar o direito dos servidores/pensionistas por ela representados à percepção da Gratificação de Desempenho de Atividade da Seguridade Social e do Trabalho  GDASST em seu valor máximo e atribuiu à causa o valor de R$ 358,00 (trezentos e cinquenta e oito reais).
+2. Em sede de Impugnação ao Valor da Causa, os autos foram remetidos à Contadoria da Seção Judiciária, que estimou a pretensão econômica do pedido em R$ 23.241.348,00, cujo valor foi acolhido pelo juízo a quo e de cuja decisão a parte autora interpôs agravo de instrumento (AG nº 2006.01.00.015867-0/DF), ao qual foi negado o pedido de atribuição de efeito suspensivo.
+3. Após a negativa do pedido de efeito suspensivo no agravo de instrumento, a parte autora não foi intimada, nem pessoalmente e nem por meio do advogado constituído, quanto à necessidade de recolhimento das custas complementares, limitando-se o magistrado a quo a solicitar à Secretaria do juízo que certificasse o recolhimento das custas.
+4. Em se tratando de custas complementares em decorrência do acolhimento de incidente de Impugnação ao Valor da Causa, não há que se falar de falta de preparo, mas apenas de sua insuficiência, a justificar, não o indeferimento da inicial, mas a intimação pessoal do autor para complementação das custas, nos termos do § 1º do art. 267 do CPC então vigente.
+5. "Não tem cabimento o cancelamento da distribuição pelo não pagamento das custas complementares decorrentes de incidente de impugnação ao valor da causa. Ademais, a extinção do processo sem julgamento do mérito, em face do não pagamento das custas, deve ser precedida de intimação pessoal do autor para fazer tal recolhimento" (STJ, REsp 266.330/SP, 5º Turma, Rel. Min. Felix Fischer, DJ de 20.11.2000). Precedentes do STJ.
+6. Apelação provida. Sentença anulada, com o regular processamento do feito no juízo de origem.
+Os embargos de declaração opostos foram rejeitados (fls. 1473-1477 e 1508-1516).
+Nas razões do apelo nobre, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante alega violação:
+i) dos arts. 489, incisos II, III, e §1º, inciso IV, e 1.022, inciso II, do CPC, por negativa de prestação jurisdicional e omissão no julgado recorrido;
+ii) dos arts. 995, parágrafo único c.c art. 1.019, inciso I, do CPC, sustentando que " ..  ao condicionar o indeferimento da petição inicial por não pagamento das custas complementares, após regular intimação de comando judicial expresso para esse fim, à não intimação da decisão que negou o efeito suspensivo ao agravo (sendo que a ausência desse efeito já é a regra, e sua concessão exceção expressamente fundamentada), a Corte Regional atribuiu efeito suspensivo automático ao agravo de instrumento, em afronta à lei, bem como criou dever processual não previsto em lei" (fl. 1532).
+Ao final, requer seja provido o recurso especial para que:
+ ..  seja anulado o julgamento proferido, em razão de ausência de fundamentação e negativa de jurisdição, com o retorno dos autos à Corte Regional, para que profira decisão devidamente fundamentada, analisando a causa efetivamente posta, e enfrentando os tópicos relevantes de mérito; em caso de não anulação, seja reformado o acórdão, reconhecendo a legitimidade da sentença que indeferiu a petição inicial decorrente do não recolhimento das custas após intimação específica para tanto (fl. 1532).
+O Tribunal de origem não admitiu o apelo nobre (fls. 1546-1547).
+Apresentado agravo em recurso especial (fls. 1551-1557).
+Contraminuta ao agravo às fls. 1559-1568.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre por inexistência de violação dos arts. 489, inciso II, II e § 1º e 1.022, inciso II, do CPC e pela necessidade de reexame de provas (Súmula n. 7 do STJ).
+Contudo, a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar, específica e suficientemente, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, violação dos art. 995, parágrafo único c.c art. 1.019, inciso I, do CPC, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial. A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. GRATIFICAÇÃO DE DESEMPENHO DA SEGURIDADE SOCIAL E DO TRABALHO  GDASST. LEI N. 10.483/2002. APOSENTADOS E PENSIONISTAS. ART. 7º DA EC N. 41/2003. EXTENSÃO. MODIFICAÇÃO DO VALOR ATRIBUÍDO À CAUSA. RECOLHIMENTO DE CUSTAS COMPLEMENTARES EM DECORRÊNCIA DE INCIDENTE DE IMPUGNAÇÃO DO VALOR DA CAUSA. NECESSIDADE DE INTIMAÇÃO PESSOAL DO AUTOR. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
