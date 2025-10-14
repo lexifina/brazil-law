@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 08/10/2025 a 14/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. REVISÃO. POSSIBILIDADE. OFENSA AO DEVIDO PROCESSO LEGAL NÃO COMPROVADA. COMPARECIMENTO ESPONTÂNEO. NOTIFICAÇÃO FRUSTRADA SUPRIDA. CONTRADITÓRIO E AMPLA DEFESA RESPEITADOS. AGRAVO INTERNO DESPROVIDO.
+1. Com base no entendimento firmado pelo Supremo Tribunal Federal no RE n. 817.338/DF (Tema n. 839 da Repercussão Geral), esta Corte, ao analisar os procedimentos de revisão das anistias concedidas pela Portaria n. 1.104/GM-3/1964, "entendeu que tais processos não podem cercear a defesa do interessado, não bastando, contudo, a alegação genérica de nulidade, devendo ser demonstrada a condução irregular pela administração" (MS n. 18.682/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/6/2023, DJe de 20/6/2023).
+2. "Esta Corte Superior firmou entendimento no sentido que o comparecimento espontâneo da parte supre a ausência de citação, afastando a nulidade processual quando não comprovado efetivo prejuízo. Precedentes" (AgInt no AREsp n. 2.415.542/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de minha lavra, por meio da qual deneguei a segurança pleiteada.
+Na razões recursais, a agravante ressalta que " a  ofensa ao devido Processo Legal inicia-se com a ausência da notificação do impetrante prolongando-se por todo o processo ofendendo nem só o Tema 830 do STF, mas também diversos dispositivos constitucionais e diversas Leis infraconstitucionais".
+Em contrarrazões, a União defende a manutenção do decisório agravado.
+É o relatório.
+EMENTA
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. REVISÃO. POSSIBILIDADE. OFENSA AO DEVIDO PROCESSO LEGAL NÃO COMPROVADA. COMPARECIMENTO ESPONTÂNEO. NOTIFICAÇÃO FRUSTRADA SUPRIDA. CONTRADITÓRIO E AMPLA DEFESA RESPEITADOS. AGRAVO INTERNO DESPROVIDO.
+1. Com base no entendimento firmado pelo Supremo Tribunal Federal no RE n. 817.338/DF (Tema n. 839 da Repercussão Geral), esta Corte, ao analisar os procedimentos de revisão das anistias concedidas pela Portaria n. 1.104/GM-3/1964, "entendeu que tais processos não podem cercear a defesa do interessado, não bastando, contudo, a alegação genérica de nulidade, devendo ser demonstrada a condução irregular pela administração" (MS n. 18.682/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/6/2023, DJe de 20/6/2023).
+2. "Esta Corte Superior firmou entendimento no sentido que o comparecimento espontâneo da parte supre a ausência de citação, afastando a nulidade processual quando não comprovado efetivo prejuízo. Precedentes" (AgInt no AREsp n. 2.415.542/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar.
+Com efeito, nos termos da jurisprudência consolidada pela Primeira Seção deste Tribunal Superior, "os atos administrativos concernentes às concessões de anistia, com base unicamente na Portaria n. 1.104/GM 3/1964, devem ser revistos pelo poder público, assegurado o devido processo legal, o contraditório e a ampla defesa, em procedimento administrativo, conforme assentado pelo Supremo Tribunal Federal, no julgamento do Tema n. 839" (AgInt no MS n. 28.948/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 15/8/2023, DJe de 17/8/2023).
+Isso porque, com base no entendimento firmado pelo Supremo Tribunal Federal no RE n. 817.338/DF (Tema n. 839 da Repercussão Geral), esta Corte, ao analisar os procedimentos de revisão das anistias concedidas pela Portaria n. 1.104/GM- 3/1964, "entendeu que tais processos não podem cercear a defesa do interessado, não bastando, contudo, a alegação genérica de nulidade, devendo ser demonstrada a condução irregular pela administração" (MS n. 18.682/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/6/2023, DJe de 20/6/2023).
+No caso, restou comprovado que, embora frustrada a notificação sobre a abertura do processo de revisão (fls. 108-109), foi recebida a defesa administrativa (fls. 110-143), cujos argumentos foram considerados no parecer conclusivo (fls. 105-107).
+Conforme a jurisprudência desta Casa, " o  comparecimento espontâneo do réu ao processo supre a nulidade da citação, conforme o art. 239, § 1º, do CPC. Precedentes" (AREsp n. 2.648.683/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025), razão pela qual não há que se anular o ato de notificação frustrado.
+No mesmo sentido: REsp n. 2.143.578/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/6/2025, DJEN de 17/6/2025; AgInt no REsp n. 2.169.549/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/2/2025, DJEN de 14/2/2025; AgInt no AREsp n. 2.415.542/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024.
+Ante o exposto, NEGO PROVIMENTO ao recurso interno.
+É o voto.
