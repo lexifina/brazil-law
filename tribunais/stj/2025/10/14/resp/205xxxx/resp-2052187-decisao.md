@@ -1,0 +1,16 @@
+DECISÃO
+MICHEL DALIRIO MAZZAROTTO VIANA interpõe recurso especial com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5080022-21.2018.4.04.7100/RS.
+Consta dos autos que o recorrente foi condenado pela prática dos crimes dos arts. 157, § 2º, I e IV, n. f. art. 71, e 180, caput, e 288, todos do CP, às penas (fixadas em grau de apelação) de 13 anos e 1 mês de reclusão, em regime fechado, acrescida de 150 dias-multa, no valor unitário de 1/30 do salário mínimo.
+No especial (fls. 3.612-3.620), sem indicar violação de dispositivo legal, requer o redimensionamento das penas dosadas pelas instâncias ordinárias. Subsidiariamente, pede pela concessão de habeas corpus de ofício.
+O MPF opinou pelo desprovimento do recurso.
+Decido.
+O recurso especial é tempestivo, mas esbarra no óbice da Súmula n. 284 do Supremo Tribunal Federal.
+Com efeito, as razões recursais deixaram de explicitar quais os dispositivos legais foram violados pelo Tribunal local, no julgamento do recurso de apelação. No REsp, a defesa requer, de forma genérica, a aplicação do que entende ser a melhor interpretação da regra do art. 61, I, do CP, sem contudo, sequer afirmar expressamente como o acórdão recorrido violou ou negou vigência a tal dispositivo de lei federal. Aliás, é evidente a pretensão de manejar o recurso especial para um julgamento em "terceira instância" pelo pedido da parte, que é de redimensionamento do cálculo da pena já realizado pelas instâncias ordinárias.
+O Superior Tribunal de Justiça tem a função primordial, por meio do recurso especial, de uniformizar a interpretação e a aplicação do direito federal infraconstitucional. Com isso, o conhecimento do recurso, seja ele interposto pela alínea "a" seja pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado.
+Nesse sentido:
+ ..  Ressalte-se que é assente neste Tribunal que a não indicação do dispositivo legal tido por violado revela a deficiência de fundamentação, inclusive no tocante a alínea c do permissivo constitucional, o que atrai a aplicação da Súmula n. 284 do STF.  ..  (AgRg no AREsp n. 1.793.805/SC, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 30/9/2022)
+ ..  O conhecimento do recurso especial, seja ele interposto pela alínea "a" ou pela alínea "c" do permissivo constitucional, exige, necessariamente, a indicação do dispositivo de lei federal que se entende por contrariado, sob pena de incidência, por analogia, da Súmula n. 284 do STF (AgRg no AREsp n. 1.366.658/SP, Ministro Rogério Schietti Cruz, Sexta Turma, DJe 27/5/2019).  ..  (AgRg no AREsp n. 1.773.624/CE, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/5/2021, grifei)
+Evidencia-se a falta de fundamentação do recurso especial em relação a esse ponto, circunstância que atrai a incidência da Súmula n. 284 do Supremo Tribunal Federal, aqui aplicada por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+À vista do exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
