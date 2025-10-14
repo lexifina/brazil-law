@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, embargos de declaração opostos por SERRAZUL RESIDENCIAL ADMINISTRAÇÃO E EMPREENDIMENTOS LTDA., nos quais se sustenta a ocorrência de "omissão ao petitório de e-STJ Fls. 841/845, em que a Embargante apresentou requerimento para que fosse determinado o retorno dos autos ao E. TJ-SP, para cumprimento da a r. decisão de fls. e-STJ Fls. 748/749 que determinou o sobrestamento da demanda até o julgamento do Tema nº 1.348 do E. STF, o que caracteriza omissão a ser sanada" (fls. 868-869).
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do art. 1.024, § 3º, do CPC, recebo os embargos de declaração como agravo interno e, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC/2015 e 259 do RISTJ, reconsidero a decisão recorrida e passo a novo exame do recurso especial.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior teve sua repercussão geral reconhecida, no tema Tema 1348/STF, cuja descrição estabelece: "Recurso extraordinário em que se discute à luz do artigo 156; § 2º; I, da Constituição Federal se a imunidade do ITBI, prevista no inciso I do § 2º do art. 156 da Constituição, para a transferência de bens e direitos em integralização de capital social é assegurada para empresas cuja atividade preponderante é compra e venda ou locação de bens imóveis".
+Nesse contexto, os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o Tema ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, reconsidero a decisão de fls. 856-863 e determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem- se.
+EMENTA
