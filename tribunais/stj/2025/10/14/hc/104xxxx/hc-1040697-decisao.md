@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Rafael de Almeida, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação n. 50032221720218210155 - fls. 1.810/1.828).
+Narram os autos que o paciente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, como incurso no delito de extorsão.
+Neste writ, a defesa alega condenação sem lastro probatório mínimo, com inversão do ônus da prova e ausência de demonstração de dolo, sustentando que o paciente apenas realizou corrida como motorista particular, sem vínculo com a empreitada criminosa, e que a manutenção da condenação apoiou-se na exigência de prova de inocência pela defesa (fls. 5/12).
+Requer, então, a concessão da ordem para absolver o paciente.
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+No caso, a pretensão relativa ao reexame do mérito da condenação mantida pela Corte de Origem, nos termos expostos na petição em exame, não encontra amparo na cognição do writ constitucional.
+De fato, a via estreita do habeas corpus não admite o revolvimento fático-probatório dos elementos da ação penal, sob pena de desvirtuamento da ação constitucional. Ora, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita, em especial quando as instâncias ordinárias, após exauriente reexame do delineamento fático e probatório coligido aos autos no decorrer da instrução criminal, concluíram pela existência de elementos suficientes a fundamentar a condenação da paciente (AgRg no HC n. 750.015/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 26/8/2022).
+Afora isso, a postulação se sustenta na alegação de ausência de dolo na conduta, cujo acolhimento depende, amplamente, do exame verticalizado do conjunto de provas amealhados ao longo da instrução, providência inviável nos estreitos limites cognitivos do habeas corpus (AgRg no RHC n. 186.853/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2023).
+Em face do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. EXTORSÃO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. FALTA DE CABIMENTO. SISTEMA PROCESSUAL PENAL. DESVIRTUAMENTO. INADMISSIBILIDADE. INSUFICIÊNCIA DE PROVAS. ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
