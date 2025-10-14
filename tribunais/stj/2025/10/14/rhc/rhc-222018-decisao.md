@@ -1,0 +1,51 @@
+DECISÃO
+WILTON DE JESUS OLIVEIRA interpõe recurso ordinário em habeas corpus contra acórdão do Tribunal de Justiça do Estado da Bahia, proferido no HC n. 8043019-31.2025.8.05.0000.
+Consta dos autos que o recorrente se encontra preso preventivamente, desde 26/6/2025, pela suposta prática do crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Requer o relaxamento da prisão ou, subsidiariamente, a revogação da custódia preventiva.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso (fls. 251-255).
+Decido.
+O recorrente foi preso em flagrante na cidade de Jequié/BA, em via pública, carregando duas sacolas. Ao realizarem a abordagem, os policiais encontraram em sua posse aproximadamente 1 kg de maconha, 713 g de cocaína, uma balança de precisão, 927 pinos plásticos para acondicionamento de drogas e R$ 100,00 em espécie.
+I. Nulidade do flagrante (violação de domicílio)
+A defesa sustenta a ilegalidade da prisão em flagrante e argumenta que a apreensão das drogas não ocorreu em via pública, mas no interior de domicílio de terceiro, sem mandado judicial ou situação flagrancial que autorizasse o ingresso dos policiais. Aponta a fragilidade da versão policial, especialmente pela ausência de registros fotográficos da apreensão.
+O Tribunal de origem, por sua vez, não conheceu dessa tese, sob o fundamento de que "é incabível, na presente via, reexame aprofundado de prova, sendo a instrução criminal o momento adequado para discussão sobre eventual ilegalidade da apreensão". Consignou o acórdão (flS. 224-225):
+ ..
+Cuida-se de habeas corpus, com pedido liminar, impetrado por Maria Clara Silveira Amorim, em favor de Wiltom de Jesus Oliveira, contra ato supostamente coator atribuído ao Juízo da 1ª Vara Criminal da Comarca de Jequié/BA, que converteu a prisão em flagrante do Paciente em prisão preventiva, nos autos do processo n.º 8004034-55.2025.8.05.0141, em razão da suposta prática do crime tipificado no art. 33 da Lei nº 11.343/2006.
+ ..
+Acerca da alegada ilegalidade da abordagem e eventual violação de domicílio, verifico, dos elementos constantes nos autos, que a prisão em flagrante de Wilton de Jesus Oliveira se deu em 23/06/2025, durante ronda ostensiva da Polícia Militar, ocasião em que o Paciente foi encontrado portando duas sacolas, sendo que, ao ser abordado, foram apreendidos em sua posse aproximadamente 1kg de maconha, 713g de cocaína, uma balança de precisão, diversos pinos plásticos (927 pinos) e R$ 100,00 em espécie (id. 506252021 do Pje 1º grau).
+Consta do Auto de Prisão em Flagrante que a substância entorpecente estava sendo carregada pelo próprio Paciente no momento da abordagem, inexistindo qualquer menção, pelos policiais condutores, de que o material teria sido localizado no interior de domicílio.
+Ao contrário, os agentes consignaram que o entorpecente encontrava-se nas sacolas em posse do Paciente, conforme id. 506252021 - PJe 1º grau.
+Em sede de habeas corpus, é imprescindível a presença de prova pré-constituída da ilegalidade apontada, o que, no presente caso, não se verifica.
+A versão apresentada pela Impetrante, no sentido de que os policiais teriam levado o Paciente à casa de um conhecido de apelido "Prego" e que a droga teria sido lá encontrada (id. 87163453), não encontra respaldo em qualquer outro elemento de prova nos autos, e colide frontalmente com os relatos dos policiais responsáveis pela prisão.
+Desta forma, a apuração da veracidade de tal narrativa demanda dilação probatória, procedimento incompatível com a via estreita do habeas corpus. Ressalte-se que, nos termos do entendimento consolidado, é incabível, na presente via, reexame aprofundado de prova, sendo a instrução criminal o momento adequado para discussão sobre eventual ilegalidade da apreensão.  ..
+No mesmo sentido, o Ministério Público Federal opinou que "em sede de habeas corpus não é possível a valoração de depoimentos colhidos e, tampouco, confrontar argumentos fáticos relacionados com o correto enquadramento jurídico da conduta delituosa" (fl. 254).
+De fato, a jurisprudência desta Corte Superior é firme no sentido de que o rito do habeas corpus e de seu recurso ordinário não comporta dilação probatória, sendo via inadequada para resolver controvérsias fáticas, como a existente no caso, em que a versão da defesa se contrapõe frontalmente aos relatos dos policiais que efetuaram a prisão. Acolher a tese defensiva exigiria um aprofundado reexame de fatos e provas, inviável nesta via estreita. Nessa perspectiva: AgRg no RHC n. 212.447/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.
+Portanto, considerando que a Corte local não conheceu do tema, inviável a análise do pedido, sob pena de vedada supressão de instância.
+Assim, quanto a este ponto, o recurso não comporta conhecimento.
+II. Prisão preventiva (art. 312 do CPP)
+O recorrente alega a ausência de fundamentação idônea para a manutenção da custódia cautelar, que estaria amparada na gravidade abstrata do delito. Sustenta, ainda, a desnecessidade da medida extrema, em razão de suas condições pessoais favoráveis.
+A tese não merece acolhida.
+A prisão preventiva é medida excepcional e deve ser decretada apenas quando, havendo prova da materialidade e indícios suficientes de autoria, estiverem presentes os requisitos do art. 312 do Código de Processo Penal. No caso, a decisão que converteu a prisão em flagrante em preventiva, mantida pelo Tribunal de origem, está devidamente fundamentada na necessidade de garantia da ordem pública, em razão da gravidade concreta da conduta.
+O decreto prisional destacou os seguintes elementos (fls. 20-21):
+" ..  após abordagem e revista, apreenderam consigo substância similar a cocaína, aproximadamente um quilo de maconha, cem reais em espécie, uma balança de precisão, diversas embalagens para acondicionamento da droga.  ..  o que recomenda, a fim de se garantir a ordem pública, que o indiciado permaneça preso preventivamente durante o inquérito e a instrução."
+O acórdão recorrido, por sua vez, desdobrando as mesmas razões de decidir, reforçou a presença do periculum libertatis, ressaltando (fl. 225):
+Nos termos da gravação da audiência de custódia, foi ressaltada a quantidade de entorpecentes apreendidos, a presença de apetrechos típicos do tráfico (balança de precisão, embalagens plásticas), além de certa quantia em dinheiro . Assim, não se trata de decisão genérica ou meramente pautada na gravidade abstrata do tipo penal, mas sim lastreada em elementos objetivos dos autos. Tais elementos são, por si sós, suficientes para demonstrar o periculum libertatis, revelando risco concreto à ordem pública, notadamente diante da apreensão, que excede em muito a quantidade associada ao uso pessoal, indicando atividade direcionada à mercancia.
+Com efeito, a quantidade e a variedade das drogas apreendidas (aproximadamente 1 kg de maconha e 713 g de cocaína), somadas à apreensão de uma balança de precisão e de grande quantidade de embalagens (927 pinos plásticos), são fatores que indicam a periculosidade social do agente e o risco concreto de reiteração delitiva, justificando a manutenção da custódia para a garantia da ordem pública.
+Este Superior Tribunal de Justiça possui entendimento consolidado de que a quantidade e a natureza dos entorpecentes apreendidos, bem como a apreensão de apetrechos para o tráfico, são elementos idôneos para a decretação da prisão preventiva. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E VARIEDADE DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO. IDONEIDADE DA MEDIDA. AGRAVO DESPROVIDO. I. CASO EM EXAME
+ ..
+6. A jurisprudência desta Corte entende que a periculosidade e os riscos sociais decorrentes da natureza e quantidade das drogas apreendidas podem justificar a custódia cautelar.
+7. A indicação de fundamentos concretos para a custódia cautelar torna inadequada a aplicação de medidas cautelares alternativas, consideradas insuficientes para resguardar a ordem pública.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 988.714/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INVASÃO DE DOMICÍLIO. JUSTA CAUSA PARA O INGRESSO POLICIAL. CRIME DE NATUREZA PERMANENTE. FUNDAMENTAÇÃO IDÔNEA. REQUISITOS DO ARTIGO 312 DO CPP PRESENTES. GRAVIDADE CONCRETA DO DELITO. REITERAÇÃO CRIMINOSA. IMPOSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. ALEGADA VIOLÊNCIA POLICIAL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A prisão preventiva foi decretada e mantida com base em fundamentação idônea, atendendo aos requisitos do artigo 312 do Código de Processo Penal, especialmente para garantia da ordem pública, ante a gravidade concreta do delito, evidenciada pela expressiva quantidade de drogas apreendidas e pelo modus operandi do agravante, que já possuía antecedentes criminais por delitos da mesma natureza. A reiteração criminosa demonstra sua periculosidade social e o risco concreto de continuidade da prática delitiva, justificando a necessidade da segregação cautelar como forma de evitar a reiteração do crime e garantir a eficácia da persecução penal.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+5. A alegação de violência policial demanda dilação probatória incompatível com a via estreita do habeas corpus, devendo ser apurada pelas vias próprias.
+6. Agravo regimental não provido.
+(AgRg no RHC n. 212.253/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+Por fim, eventuais condições pessoais favoráveis, como primariedade e residência fixa, não têm o condão de, por si sós, afastar a segregação cautelar, quando presentes os requisitos que a autorizam, como ocorre na espécie.
+Desse modo, estando a decisão fundamentada em elementos concretos que evidenciam o risco à ordem pública, não há falar em constrangimento ilegal a ser sanado.
+À vista do exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
