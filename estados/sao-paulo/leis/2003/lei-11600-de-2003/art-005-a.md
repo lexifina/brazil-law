@@ -1,0 +1,2 @@
+Artigo 5°-A - Identificadas áreas urbanas ou com características urbanas em terras devolutas não reservadas, poderá o Município requerer a transferência ao seu patrimônio para fins de regularização fundiária, que será processada na forma prevista no artigo 19, inciso IV, da Constituição do Estado. (NR)
+Parágrafo único - As áreas urbanas ou com características urbanas previstas no "caput" deste artigo poderão ser objeto de regularização de posse aos próprios ocupantes, desde que preenchidos os requisitos legais, dispensada a comprovação do percentual de exploração. (NR)

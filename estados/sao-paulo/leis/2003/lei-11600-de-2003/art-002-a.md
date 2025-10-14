@@ -1,0 +1,6 @@
+Artigo 2°-A - A regularização de posse de interesse social será gratuita ao ocupante, pessoa física, não proprietário de outro imóvel rural, que mantiver, sem oposição, posse efetiva de imóvel rural ou com características rurais, ainda que descontínuo, com área não superior a 4 (quatro) módulos fiscais, por prazo mínimo e ininterrupto de 5 (cinco) anos. (NR)
+§ 1° - Considera-se posse efetiva para os fins deste artigo a morada permanente ou habitual no imóvel e a exploração efetiva, entendida como a utilização de, no mínimo, 30% (trinta por cento) da área aproveitável do imóvel. (NR)
+§ 2° - Para fazer jus à gratuidade, o ocupante deverá declarar a impossibilidade de pagar o valor previsto no § 1° do artigo 2° desta lei, sem prejuízo do próprio sustento ou de sua família, ou declarar o seu enquadramento como agricultor familiar, nos termos da Lei federal n° 11.326, de 24 de julho de 2006. (NR)
+§ 3° - Será vedada a regularização de posse gratuita de imóvel ao ocupante estrangeiro não naturalizado brasileiro. (NR)
+§ 4° - O ocupante que tenha sido beneficiado por regularização ou legitimação de posse não terá direito à gratuidade de que trata este artigo. (NR)
+§ 5° - Os ocupantes beneficiários da regularização de posse gratuita ficarão isentos dos custos relativos aos serviços técnicos de que trata o artigo 7° desta lei. (NR)
