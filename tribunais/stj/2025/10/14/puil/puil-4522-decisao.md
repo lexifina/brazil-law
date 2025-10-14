@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado pelo MUNICÍPIO DE BORBOREMA contra acórdão da 1ª Turma Recursal de Fazenda Pública do Tribunal de Justiça de São Paulo, assim sintetizado (fl. 44):
+Recurso Inominado. Servidora Público do Município de Borborema. Agente de Serviços de Limpeza e Copa. Pretensão ao recebimento de adicional de insalubridade desde a data da atividade insalubre, não da confecção do laudo pericial. Possibilidade. Verba devida desde o início da atividade insalubre, não da homologação do laudo técnico, de natureza declaratória e não constitutiva de direito. Inconteste a manutenção das atividades tidas como insalubres pela servidora, o que supera a tese de mera presunção anterior. Sentença de improcedência reformada. Recurso provido.
+Alega o requerente que o acórdão impugnado viola os artigos 89, § 1º, VI, 926 e 927, §§ 1º, 3º e 4º do CPC; além do artigo 195 da CLT.
+Alega que, nos termos da lei federal, o adicional de insalubridade somente será devido caso constatado por meio de Laudo Técnico Pericial e que houve afronta ao decidido pelo Superior Tribunal de Justiça no julgamento do PUIL n. 3.693/SP, bem como em outros julgados desta Corte.
+Aponta, também, divergência com julgado da 3ª Turma Recursal dos Juizado Especiais do Tribunal de Justiça do Distrito Federal, bem como do julgado da 4ª Turma Recursal dos Juizados Especiais do Tribunal do Paraná, que concluíram pela impossibilidade de se conferir efeito retroativo ao laudo pericial.
+Pleiteia o acolhimento do pedido de uniformização, "indeferindo o pagamento do adicional de insalubridade, conforme Laudo Técnico - LTCAT , sem possibilidade de pagamentos retroativos em favor da Recorrida".
+É o relatório.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade com súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na espécie, insurge-se o requerente contra acórdão que deu provimento ao recurso, "a fim de julgar procedente a ação, reconhecendo o direito da autora e condenando a parte ré ao pagamento do referido adicional de insalubridade, em relação ao período anterior à confecção do laudo, quando já exercida a atividade tida como insalubre, com os pertinentes reflexos e respeitada a prescrição quinquenal".
+A título de ilustração, confiram-se os fundamentos do julgado (fl. 47):
+Note-se que não há qualquer impugnação da municipalidade, quanto ao fato de exercício de atividades insalubres pela demandante, desde o ingresso à função, restando limitada à tese firmada no PUIL 413-RS (2017/0247012-2).
+(..)
+Se não bastasse, já que inexiste polêmica quanto à questão, inaplicável à presente a tese fixada no Puil 413/RS, destinada à Administração Pública Federal, de modo que, sob todos os ângulos, a procedência é medida de rigor.
+(..)
+Ainda que assim não fosse, a prova dos autos permite a conclusão cabal de ausência de qualquer violação ao PUIL 3693 do STJ, vez que aqui não há presunção, mas constatação de insalubridade em momento anterior à confecção do pertinente laudo .
+Em suma, respeitado o entendimento em sentido diverso, não se infere fundamento suficiente para o não pagamento da referida verba, em razão da manutenção anterior das mesmas atividades constatadas no laudo pericial, o que enseja o direito à percepção retroativa do adicional de insalubridade.
+É certa a indispensabilidade do competente laudo, com efeito declaratório, para o reconhecimento do direito ao benefício, sendo que o direito ao recebimento do adicional se inicia com o exercício da atividade insalubre, não com a homologação do laudo técnico.
+Como exaustivamente frisado, aqui se vislumbra a hipótese de retroação da verba para período em que a servidora já exercia a mesma função para qual, posteriormente, foi reconhecida a natureza insalubre. (grifos nossos)
+Da leitura das razões do pedido de uniformização, verifica-se que o requerente não demonstrou a existência de divergência e de similitude fática entre os julgados, mediante a realização do devido cotejo analítico, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, aplicáveis por analogia.
+Além disso, tampouco refutou os fundamentos utilizados na origem para condenar a ré ao pagamento do adicional de insalubridade, em relação ao período anterior à confecção do laudo, quando já exercida a atividade tida como insalubre. Nesse sentido, no caso tem incidência, por analogia, a Súmula 284/STF.
+Sobre o tema, cumpre trazer à baila os seguintes acórdãos da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. COTEJO ANALÍTICO NÃO REALIZADO. CARÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. SUPOSTA CONTRARIEDADE A JULGADO REPETITIVO. NÃO EQUIPARAÇÃO À OFENSA DE ENUNCIADO SUMULAR. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+2. Conforme entendimento desta Corte, não se conhece do pedido de uniformização de interpretação de lei fundado em divergência jurisprudencial quando a parte requerente deixa de realizar o indispensável cotejo analítico entre os acórdãos confrontados, de modo a evidenciar a similitude fática das hipóteses comparadas. Precedentes.
+3. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei.
+4. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI . RECURSO QUE NÃO PROMOVE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DISSOCIAÇÃO LÓGICA. NÃO CONHECIMENTO .
+1. O Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 25.11.2020).
+2. Agravo interno não conhecido.
+(AgInt no PUIL n. 2.406/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 3/5/2022, DJe de 5/5/2022.)
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ADMINISTRATIVO E PROCESSO CIVIL. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. NÃO CONHECIMENTO.
