@@ -1,0 +1,51 @@
+DECISÃO
+EXPRESSO ADAMANTINA LTDA. - EM RECUPERAÇÃO JUDICIAL suscita conflito positivo de competência com pedido liminar, indicando como suscitados o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP e o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Informa que foi deferido o processamento da recuperação judicial em 19/12/2024. Relata que o Juízo da recuperação determinou que todos os créditos existentes, ainda que não constituídos, estariam sujeitos à recuperação.
+Aduz que o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP foi (fl. 3-4):
+ ..  categórico em dispor quanto a necessidade da imediata suspensão de todas as execuções relativas a créditos ou obrigações sujeitas à recuperação judicial ajuizadas contra a Suscitante nos termos do artigo 6º da LFRE, razão pela qual determinou que fosse informada a referida medida junto aos Juízos em que tramitavam os processos autônomos, conforme dispõe o art. 52, §3º da Lei n. 11.101/20052.
+Desta forma, em todas as ações que tramitam contra a Suscitante, informou-se que o processamento do seu pedido de Recuperação Judicial foi deferido, razão pela qual, há impossibilidade de realização de qualquer ato expropriatório de bens sem a devida apreciação do Juízo Recuperacional.
+Pertinente mencionar que a decisão determinou expressamente que as ações de despejo fundadas em aluguéis vencidos até a data do pedido (20/11/2024), como é o caso da ação de despejo nº 5068366-94.2023.8.13.0702, que originou a decisão conflitante no Agravo de Instrumento, não devem prosseguir, e os créditos estão sujeitos à recuperação, conforme trecho abaixo copiado, vejamos:
+Noticia que foi proposta a ação de despejo por TRICON - TRIÂNGULO PARTICIPAÇÕES S.A. Destaca que o processo foi "distribuído a 17ª Câmara Cível, que deu provimento ao agravo interposto e determinou a imediata desocupação do guichê onde a suscitante exerce sua atividade de venda de passagens que, repita-se, foi considerada como essencial pelo Magistrado no processo de Recuperação Judicial" (fl. 5).
+Discorre a respeito do juízo universal da recuperação, que, a partir do deferimento, passa a ser o único competente para a prática de ato que comprometa seu patrimônio, postulando o afastamento dos atos de constrição.
+Requer (fl. 14):
+ ..  concessão do pedido de tutela de urgência, suspendendo-se, em caráter liminar, a decisão da 17ª Câmara Cível do Tribunal de Justiça de Minas Gerais, visto que INVADINDO a competência do d. Juízo Recuperacional;
+b) No mérito, requer seja o conflito julgado totalmente procedente, revogando a ordem de despejo exarada, até o julgamento de mérito do presente Conflito de Competência;
+Liminar indeferida (fls. 366-368).
+A suscitante peticionou requerendo a reconsideração da decisão que indeferiu o pedido liminar (fls. 371-383).
+Informações prestadas (fls. 387-431, 432-477, 485-562, 564-606 e 607-609).
+A parte interessada, Tricon - Triângulo Concessões S.A., peticionou às fls. 478-484, requerendo "que seja negado provimento ao conflito de competência suscitado pela suscitante, sendo mantida a competência do Eg. TJMG para deliberar sobre todas questões relativas à ação de despejo por denúncia vazia" (fl. 482).
+O Ministério Público Federal manifestou-se nos seguintes termos (fl. 615):
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃO DE DESPEJO. NÃO SUJEIÇÃO AO JUÍZO DA RECUPERAÇÃO JUDICIAL. A ação de despejo movida por proprietário de imóvel contra empresa em recuperação judicial e que tem por objeto apenas a retomada do bem não está sujeita ao juízo universal recuperacional.
+Parecer pelo conhecimento do conflito para declarar a competência do E. Tribunal de Justiça do Estado de Minas Gerais.
+É o relatório.
+Decido.
+Segundo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse o caso dos autos, em que se busca fixar o Juízo competente para apreciar a natureza do crédito discutido nos autos, bem como para determinar atos de constrição e expropriação contra o patrimônio da sociedade recuperanda.
+Segundo jurisprudência do STJ, "a ação de despejo movida pelo proprietário locador contra sociedade empresária em regime de recuperação judicial não se submete à competência do juízo da recuperação. Isso porque, ao Juízo da recuperação judicial, cabe apenas apreciar a essencialidade dos bens que integram o patrimônio da empresa, não se incluindo, aqui, imóveis de terceiros" (REsp n. 2.090.074/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/6/2025, DJEN de 26/6/2025). Nessa linha:
+DIREITO CIVIL. AGRAVO INTERNO. AÇÃO DE DESPEJO E RESCISÃO CONTRATUAL DE ARRENDAMENTO RURAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial em ação de despejo cumulada com rescisão contratual de arrendamento rural e determinou a desocupação do imóvel pela agravante e o reembolso de valores não cobertos pela recuperação judicial.
+2. A decisão de primeira instância julgou procedente a ação, determinando a desocupação do imóvel e o reembolso dos valores devidos. O Tribunal de origem manteve a decisão, considerando que o arrendamento rural se equipara a contrato de locação, devendo, portanto, o bem imóvel ser devolvido ao credor, real proprietário, permanecendo atrelado ao concurso de credores tão somente os créditos líquidos e vencidos antes do deferimento da recuperação judicial.
+II. QUESTÕES EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a retomada do bem imóvel objeto da ação de despejo viola o juízo universal da recuperação judicial e se é possível o prosseguimento da execução fora do procedimento da recuperação, considerando a alegação de essencialidade do bem pela recuperanda.
+4. Outra questão é saber se a decisão agravada incorreu em erro ao aplicar a Súmula n. 83 do STJ, considerando a regulação do caso pela Lei n. 4.504/1964, e não pela Lei n. 8.425/1991.
+III. RAZÕES DE DECIDIR
+5. O Tribunal de origem concluiu que, ultrapassado o prazo de suspensão do art. 6º, § 4º, da Lei n. 11.101/2005, a ordem de despejo não se submete à competência do juízo universal da recuperação, pois o imóvel não integra o patrimônio da recuperanda - interpretação do art. 49, §3º, da Lei n. 11.101/05.
+6. A jurisprudência do STJ estabelece que o credor proprietário de bem imóvel não se submete aos efeitos da recuperação judicial, prevalecendo os direitos de propriedade sobre a coisa.
+7. A alegação de essencialidade do bem não foi enfrentada pela Corte de origem nos moldes propostos pela agravante, não havendo embargos de declaração para provocar o debate, o que atrai a incidência da Súmula n. 211 do STF no ponto.
+8. A decisão agravada está em conformidade com a jurisprudência do STJ, que permite o prosseguimento de ação de despejo contra empresa em recuperação judicial, desde que não haja medida constritiva sobre ativos financeiros da recuperanda, o que atrai a incidência da Súmula n. 83 do STJ.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A ordem de despejo não se submete à competência do juízo universal da recuperação judicial quando o imóvel não integrar o patrimônio da recuperanda. 2. O credor proprietário de bem imóvel não se submete aos efeitos da recuperação judicial, prevalecendo os direitos de propriedade sobre a coisa. 3. A ação de despejo pode prosseguir contra empresa em recuperação judicial, desde que não haja medida constritiva sobre ativos financeiros da recuperanda".
+Dispositivos relevantes citados: Lei n. 11.101/2005, arts. 6º, § 4º, e 49, § 3º; Decreto n. 59.566/1966, art. 32, III. Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.475.258/MS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 7/3/2017; STJ, AgInt no REsp n. 1.835.668/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/11/2019.
+(AgInt no AREsp n. 2.726.147/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 10/2/2025, DJEN de 13/2/2025.)
+CONFLITO NEGATIVO DE COMPETÊNCIA - CONTRATO DE LOCAÇÃO - EMPRESA LOCATÁRIA SUBMETIDA AO REGIME DE RECUPERAÇÃO JUDICIAL - NÃO SUBMISSÃO AO JUÍZO UNIVERSAL DA RECUPERAÇÃO - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - COMPETÊNCIA DO JUÍZO SUSCITADO.
+Hipótese: consiste na declaração de competência para processar e julgar ação de despejo c/c cobrança de alugueis formulada contra sociedade empresária em regime de recuperação judicial.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente conflito negativo de competência, pois apresenta controvérsia acerca da competência entre juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, I, "d", da Constituição Federal.
+2. A jurisprudência da Segunda Seção caminha no sentido de que a ação de despejo movida pelo proprietário locador contra sociedade empresária em regime de recuperação judicial não se submete à competência do juízo universal da recuperação. Precedentes.
+3. Conflito negativo conhecido para declarar a competência do r. juízo suscitado.
+(CC n. 170.421/PR, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 9/9/2020, DJe de 14/10/2020.)
+Neste caso, cabe à Justiça Estadual de Minas Gerais processar a ação de despejo (processo n. 5068366-94.2023.8.13.0702), ficando ressalvada a competência do Juízo universal apenas em relação à execução de valores decorrentes do contrato de locação vencidos antes do processamento da recuperação.
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS para processar e julgar a ação de despejo (processo n. 5068366-94.2023.8.13.0702), e DECLARO o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP competente para decidir sobre atos constritivos referentes a valores decorrentes do contrato de locação. PREJUDICADO o pedido de reconsideração de fls. 371-383.
+Publique-se e intimem-se.
+EMENTA
