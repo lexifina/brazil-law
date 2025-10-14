@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JORGE KAJURU REIS DA COSTA NASSER, Senador da República, contra acórdão proferido pela 1ª TURMA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL, que, à unanimidade, indeferiu a ordem no Habeas Corpus nº 0728783-18.2025.8.07.0000, que almejava o trancamento de ação penal privada ajuizada em face do paciente.
+A defesa argui, preliminarmente, a incompetência absoluta do juízo de primeira instância para processar e julgar ação penal privada ajuizada em face do paciente, cujo objeto compreende suposta prática de delitos contra honra, no contexto de discurso político, no ano de 2024, quando aquele já exercia mandato de parlamentar federal, em virtude do disposto no art. 102, inc. I, alínea b, da Constituição Federal.
+Alega, ainda, a ocorrência de constrangimento ilegal pela inaplicabilidade da prerrogativa de foro, prevista no art. 53, §1º, da Constituição Federal, por ser caso de incidir a tese firmada pelo Supremo Tribunal Federal no julgamento da Questão de Ordem na Ação Penal nº 937. Sustenta a existência do liame entre as declarações do paciente e sua condição de detentor de mandato político, tendo seu comportamento compreendido expressão do múnus parlamentar, o que afastaria a competência do juízo de primeira instância para julgar a ação penal privada.
+Requer, liminarmente, a suspensão imediata do processo nº 0733279- 24.2024.8.07.0001 (ação penal privada), determinando-se ao juízo a quo que se abstenha de praticar novos atos até o julgamento do presente writ; e, no mérito, a concessão da ordem para anular os atos decisórios proferidos pelo juízo de primeiro grau e trancar a ação penal por força da imunidade material, prevista no art. 53, caput, da Constituição Federal; subsidiariamente, requer o reconhecimento da incompetência absoluta e remessa dos autos da ação penal privada ao Supremo Tribunal Federal.
+É o relatório.
+DECIDO.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVIII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de po der".
+O presente habeas corpus tem como paciente membro do Congresso Nacional e visa eventual trancamento de ação penal privada ajuizada em desfavor desse , por suposta prática de crimes contra a honra, o que atrai a competência originária do Supremo Tribunal Federal, por força de expressa disposição do art. 102, inc. I, alíneas b e d, da Constituição Federal, senão vejamos:
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+(..)
+b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;
+(..)
+d) o habeas corpus , sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da Repúb lica e do próprio Supremo Tribunal Federal; (Grifou-se).
+Portanto, não há competência do Superior Tribunal de Justiça para processar e julgar o presente writ, conforme a referida norma constitucional, uma vez que o paciente - não a autoridade coatora - é um membro do Congresso Nacional, ocorrendo, nesse caso, a competência funcional decorrente da prerrogativa de foro.
+Na verdade, nesse momento não se discute se o paciente teria prerrogativa de foro para o processo e julgamento de ações penais contra ele propostas, matéria de fundo da presente impetração, mas apenas reconhecendo que, sendo ele senador e paciente, independentemente de quem seja a autoridade coatora ou o foro no qual esteja ou deva ser processado, remanesce a competência do Supremo Tribunal Federal para o julgamento do habeas corpus.
+Ante o exposto, declino a competência, de ofício, ao tempo em que determino a remessa imediata dos autos ao Supremo Tribunal Federal, com fulcro no disposto no art. 10 2, inc. I, alínea d, da Constituição Federal.
+Publique-se.
+Intimem-se.
+EMENTA
