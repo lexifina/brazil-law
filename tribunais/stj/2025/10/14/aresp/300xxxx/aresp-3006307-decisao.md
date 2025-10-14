@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOHNNY LIMA DA SILVEIRA e por LUCIANE PEREIRA LIMA DA SILVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na consonância do acórdão com o Tema n. 996 do STJ com "nego seguimento" (fls. 554-558), pela incidência das Súmulas n. 5 e 7 do STJ, e prejudicada a análise da divergência jurisprudencial (fls. 556-557).
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não pode ser admitido quanto ao Tema n. 996 do STJ por ausência de interposição de agravo interno na origem, sustenta a incidência das Súmulas n. 5 e 7 do STJ e, por analogia, das Súmulas n. 283 e 284 do STF. Afirma inexistir violação ao CDC em razão de caso fortuito de origem judicial, requer a manutenção da decisão que inadmitiu o recurso especial e o desprovimento do agravo (fls. 604-616).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO em apelação cível nos autos de ação de rescisão contratual cumulada com indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 496):
+CIVIL. PROCESSUAL CIVIL. ADMINISTRATIVO. FINANCIAMENTO HABITACIONAL. ATRASO NA ENTREGA DA OBRA. PRAZO. JUSTA CAUSA PARA PRORROGAÇÃO DO PRAZO. ADIMPLEMENTO SUBSTANCIAL. JUROS DE OBRA. DANOS MATERIAIS. DANOS MORAIS. DESCABIMENTO.
+1. A responsabilidade da CEF, da construtora e da incorporadora pelos danos (materiais e extrapatrimoniais) suportados pela parte autora em razão de atraso injusti cado na obra é solidária e decorre do fato de todas terem descumprido o convencionado, já que o banco, além de agente  nanceiro, atua também como  scalizador de prazos e da qualidade da obra, gerindo os recursos  nanceiros e técnicos juntamente com a construtora/incorporadora e interferindo diretamente na execução do projeto.
+2. De acordo com a cláusula do contrato de  nanciamento do imóvel, e tendo em vista as medidas liminares proferidas na Ação Civil Pública nº 0010482-44.2019.8.16.0026,  cou prorrogada a entrega do imóvel em razão de caso fortuito.
+3. Com a prorrogação do prazo de entrega, não se con gura causa para a rescisão contratual pretendida pela apelante nem o direito a danos morais.
+4. Excepcionalmente, deve ser considerada, para  ns de  xação do termo inicial dos lucros cessantes, a data do CVCO acrescida da cláusula contratual que estabelece 60 dias para a entrega das chaves.
+5. A devolução dos juros de obra deve ter como termo inicial a data de conclusão da obra contratada acrescida dos 180 dias estabelecidos no contrato, tendo em vista a ocorrência de fortuito no caso concreto.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 524):
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REDISCUSSÃO.
+1. Os embargos de declaração pressupõem a presença de omissão, contradição, obscuridade ou erro material na decisão embargada.
+2. A contradição suscetível de ser afastada por meio dos aclaratórios é interna ao julgado, e não aquela que se estabelece entre o entendimento a que chegou o juízo à luz da prova e do direito e a interpretação pretendida por uma das partes.
+3. A pretensão de reexame de matéria sobre a qual já houve pronunciamento do órgão julgador desafia recurso próprio, não justificando a interposição de embargos de declaração.
+4. O princípio da fundamentação quali cada das decisões é de mão dupla. Se uma decisão judicial não pode ser considerada fundamentada pela mera invocação a dispositivo legal, também à parte se exige, ao invocá-lo, a demonstração de que sua incidência será capaz de in uenciar na conclusão a ser adotada no processo.
+5. Tendo havido exame sobre todos os argumentos deduzidos e capazes de in uenciar na conclusão adotada no acórdão, os embargos devem ser rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 43-A, Lei n. 4.591/1964, porque o acórdão teria violado o limite legal de tolerância de 180 dias e fixado o CVCO como marco inicial para indenizações, em afronta ao regime específico das incorporações e ao Tema n. 996 do STJ;
+b) 14, § 3º, e 47, Lei n. 8.078/1990, porque a responsabilidade das fornecedoras seria objetiva e não haveria culpa exclusiva de terceiro, e as cláusulas contratuais deveriam ser interpretadas de modo mais favorável ao consumidor; e
+c) 393, 421, 422, Lei n. 10.406/2002, porque a aplicação genérica do caso fortuito do Código Civil teria afastado indevidamente a função social do contrato e a boa-fé, desconsiderando as condições específicas de prorrogação contratual e convertendo fortuito interno em excludente de responsabilidade.
+Sustenta que o Tribunal de origem divergiu de precedentes ao decidir que o termo inicial dos lucros cessantes seria o CVCO acrescido de 60 dias e ao reconhecer caso fortuito judicial para prorrogação.
+Requer o provimento do recurso para que reforme o acórdão recorrido para que se aplique estritamente a cláusula de tolerância nos termos do Tema n. 996 do STJ, se reconheça a violação do art. 43-A da Lei n. 4.591/1964 e se fixe como marco inicial do atraso a data contratual de entrega, com a responsabilização das recorridas à luz do art. 14 do CDC e à condenação pelos lucros cessantes, danos morais e devolução dos juros de obra.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não pode ser admitido por pretender reexame de provas e reinterpretação contratual, que falta prequestionamento dos dispositivos invocados, que o acórdão está em consonância com o Tema n. 996 do STJ e com a Súmula n. 83 do STJ, e requer o não conhecimento ou desprovimento do recurso especial (fls. 573-594).
+É o relatório. Decido.
+A controvérsia diz respeito à ação de rescisão contratual cumulada com indenização por danos materiais e morais em que a parte autora pleiteou a resolução do contrato, o pagamento de lucros cessantes e danos morais decorrentes do atraso na entrega de imóvel adquirido no Programa Minha Casa Minha Vida, bem como a devolução de juros de obra.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos para condenar as rés ao pagamento de lucros cessantes de 0,5% ao mês sobre o valor do imóvel por mês de atraso, danos morais de R$ 10.000,00 e devolução de juros de obra, reconhecendo a responsabilidade solidária da CEF. Não consta dos autos o valor da causa fixado na inicial.
+A Corte estadual reformou parcialmente a sentença para reconhecer a prorrogação do prazo de entrega por caso fortuito decorrente de decisão judicial, afastar a rescisão e os danos morais, fixar como termo inicial dos lucros cessantes o CVCO acrescido de 60 dias e determinar a devolução de juros de obra apenas após o término do prazo contratual acrescido da tolerância de 180 dias.
+I - Art. 43-A da Lei n. 4.591/1964
+No recurso especial, a parte recorrente alega que o acórdão violou o regime das incorporações ao permitir prorrogação superior ao limite legal de 180 dias e ao fixar o CVCO como marco inicial das indenizações, em descompasso com o Tema n. 996 do STJ.
+O acórdão recorrido concluiu que, observada a cláusula de tolerância de 180 dias e a paralisação judicial das obras, houve justa causa para prorrogação, mantendo, de forma alinhada ao Tema n. 996 do STJ, a ilegitimidade da cobrança de juros de obra após o prazo contratual acrescido da tolerância e fixando parâmetros específicos para lucros cessantes (fls. 496-497).
+Quanto à questão referente à violação do regime da tolerância e à aplicação do Tema n. 996 do STJ, foi negado seguimento pelo Tribunal de origem, razão pela qual não será analisada neste agravo em recurso especial.
+II - Arts. 14, § 3º, e 47, Lei n. 8.078/1990
+A recorrente afirma que o Tribunal aplicou indevidamente o art. 393 do CC e afastou a responsabilidade objetiva dos fornecedores, sem demonstrar culpa exclusiva de terceiro, contrariando o art. 14, § 3º, do CDC, e que as cláusulas deveriam ser interpretadas pro consumidor nos termos do art. 47.
+O acórdão recorrido assentou que a paralisação por decisão judicial em ACP caracterizou caso fortuito, apto a prorrogar o prazo de entrega, e que, com a prorrogação, não se configurou causa para rescisão nem dano moral, ajustando a devolução de juros de obra e a fixação dos lucros cessantes (fls. 496-497).
+A questão relativa à alegada interpretação contratual pro consumidor e à aplicação do CDC foi decidida pelo Tribunal a quo com fundamento na análise de cláusula contratual de tolerância e na incidência de caso fortuito judicial.
+Rever tal entendimento encontra óbice na incidência da Súmula n. 5 do STJ.
+No recurso especial, a parte alega que o reconhecimento de caso fortuito judicial afastou indevidamente a mora e as indenizações.
+O Tribunal de origem, analisando o acervo probatório dos autos, concluiu pela ocorrência de paralisação judicial das obras e pela adequação de prazos e encargos, fixando parâmetros para lucros cessantes e juros de obra (fls. 496-497).
+Como visto, o Tribunal a quo analisou a controvérsia com base em circunstâncias fáticas e probatórias. Rever tal entendimento demandaria o reexame de provas, o que é incabível em recurso especial ante o óbice da Súmula n. 7 do STJ.
+III - Arts. 393, 421 e 422, Lei n. 10.406/2002
+Sustenta que a aplicação genérica do caso fortuito do Código Civil teria afastado indevidamente a função social e a boa-fé, desconsiderando as condições específicas contratadas para prorrogação e convertendo fortuito interno em excludente de responsabilidade.
+O acórdão recorrido reconheceu que medidas liminares em ACP paralisaram a obra, caracterizando caso fortuito judicial, e que, com a prorrogação, não se configurou causa para rescisão nem dano moral, determinando critérios para lucros cessantes e juros de obra (fls. 496-497).
+A questão relativa à alegada violação dos arts. 393, 421 e 422 foi decidida com fundamento em cláusula contratual de tolerância e em elementos fáticos do caso concreto.
+Rever tal entendimento encontra óbice nas Súmulas n. 5 e 7 do STJ.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2 do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
