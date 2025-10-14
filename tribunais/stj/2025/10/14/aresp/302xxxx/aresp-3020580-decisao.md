@@ -1,0 +1,20 @@
+DECISÃO
+DOUGLAS JUNIOR LEMOS LIMA, MARCELO DA SILVA e NICOLAS TIMOTHEO DA SILVA agravam da decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do Recurso em Sentido Estrito n.º 5017697-13.2025.8.21.0001 (fls. 75-76).
+Consta dos autos que os agravantes foram pronunciados pela suposta prática do crime de tentativa de homicídio qualificado. A defesa, no recurso especial, alegou, em síntese, a violação do art. 414 do Código de Processo Penal, ao argumento de que não haveria indícios suficientes de autoria para a pronúncia, sendo a decisão baseada exclusivamente em depoimentos de policiais militares. Pugna, ao final, pela despronúncia.
+Apresentadas as contrarrazões, a Corte de origem não admitiu o recurso especial (fls. 115-118), em razão dos óbices previstos nas Súmulas n. 7 e 83 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 144-150).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente todas as motivações da decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso, os agravantes não rebateram adequadamente os fundamentos relacionados à incidência da Súmula n. 7 do STJ. A defesa limitou-se a sustentar que a análise das teses recursais não demandaria o reexame de provas, mas sim mera revaloração jurídica, conforme se depreende das fls. 125-126, ao afirmar que a pretensão "prescinde de qualquer revolvimento fático probatório, sendo mera análise jurídica a respeito do reconhecimento de que houve interpretação errônea da prova dos autos".
+A argumentação, contudo, revela-se insuficiente. Os agravantes não demonstraram como seria possível reverter as conclusões do Tribunal de Justiça do Estado do Rio Grande do Sul - que confirmou a pronúncia com base na prova da materialidade e nos indícios de autoria extraídos dos depoimentos das vítimas, policiais militares, e da apreensão de armas de fogo com munições deflagradas - sem o reexame do acervo fático-probatório analisado no acórdão recorrido.
+Saliento que são insuficientes assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. A parte deve expor, com particularidade, de que forma seria possível reverter as conclusões do Tribunal de origem - que, para manter a pronúncia, baseou-se nos depoimentos colhidos em juízo e nos laudos periciais - sem a apreciação fático-probatória dos autos no caso concreto.
+Nessa perspectiva:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei)
+Portanto, verifica-se que os agravantes não rebateram, com particularidade, todos os óbices de admissão do Recurso Especial. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada ".
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
