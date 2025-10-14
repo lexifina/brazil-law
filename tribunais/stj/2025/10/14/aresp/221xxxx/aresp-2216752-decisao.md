@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por EVANIR BENEDITO FERREIRA RODRIGUES e JERSON RODRIGUES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que os agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 376):
+APELAÇÃO. Embargos à execução. Sentença de parcial procedência. Insurgência dos litigantes. Não acolhimento. Razões recursais da parte embargada que foram resolvidas no Acórdão que julgou a ação principal. Trânsito em julgado do referido Aresto. Coisa julgada material. Análise de mérito prejudicada. Parte embargante que defende a impenhorabilidade do seu imóvel, por ser bem de família. Não acolhimento. Parte embargante que figurou como fiadora em contrato de locação. Incidência do artigo 3º, VII, da Lei do Bem de Família. Ordem de preferência de penhora cuja observância se dá na hipótese de existirem bens suficientes para quitar o débito, em posição anterior à do bem imóvel. Acaso inexistentes, não há óbice para penhora do bem imóvel. Honorários de sucumbência arbitrados por equidade. Reforma necessária. Valor da causa que permite o arbitramento pela regra geral. Sentença reformada em parte, somente em relação à regra de aplicação da sucumbência, mantida no mérito. Recurso da parte embargada não conhecido. Recurso da parte embargante provido em parte.
+Sem embargos de declaração.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 85, § 2º, 805, 835, 848, I, e 917, II, do Código de Processo Civil.
+Sustenta, em síntese, que ficou equivocado o valor de fixação de honorários e que há impossibilidade de penhora de bem de família do fiador por dívida decorrente de contrato de locação comercial.
+Aponta divergência jurisprudencial com aresto do Supremo Tribunal Federal.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 605-607), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+De início, convém destacar que houve juízo híbrido de admissibilidade que
+também negou seguimento ao recurso especial em razão de recurso qualificado (Tema n. 1.076/STJ), de modo que cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo. Nesse sentido, cito:
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Dessa forma, uma vez negado seguimento à parte do apelo nobre em razão de precedente qualificado, o inconformismo quanto à aplicação de tema firmado em recurso repetitivo ou repercussão geral deve ser manifestado por meio de agravo interno, que não fora interposto pela recorrente, dirigido ao próprio Tribunal de origem, órgão que exerce, nessa particularidade, competência própria, sobre a qual não é admitida a apreciação de acerto ou desacerto. Por isso, a controvérsia acerca dos honorários que teve o seguimento negado não merece análise.
+Em relação à violação dos dispositivos dos arts. 805, 835, 848, I, e 917, II, do CPC, sustenta a recorrente pela impossibilidade de penhora de bem de família de fiador decorrente de dívida de contrato de locação comercial.
+Nesse sentido, cita o Tema n. 1.127/STF, que, à época, estava pendente de julgamento. Não obstante, sobreveio decisão sobre a controvérsia, oportunidade em que restou assim definido pelo Supremo Tribunal Federal: "É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, seja residencial, seja comercial".
+Nesse mesmo sentido é o Tema n. 1.091/STJ: "É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990".
+Portanto, a conclusão do Tribunal de origem está em conformidade com a jurisprudência do Superior Tribunal de Justiça. Sendo assim, atrai-se a incidência da Súmula n. 83/STJ.
+Por fim, em relação à alegação de violação da ordem de penhora e do princípio da menor onerosidade, constata-se que o acórdão recorrido, analisando o acervo fático-probatório, decidiu pela penhorabilidade do bem para satisfazer a execução, de modo que, para dissentir das razões ali expostas, seria necessário o revolvimento desses aspectos, o que é vedado pela Súmula n. 7/STJ. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO NOBRE - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. O Tribunal de origem não enfrentou a questão atinente à desnecessidade da concordância do credor para a substituição da penhora, tampouco foram opostos embargos de declaração para esse fim, caracterizando-se a ausência de prequestionamento sobre o tema.
+Incidência das Súmulas 282 e 356 do STF.
+2. Segundo a orientação jurisprudencial desta Corte, "o princípio da menor onerosidade ao devedor não se sobrepõe à efetividade da tutela executiva e, portanto, é legitima a recusa do credor ao pedido de substituição do bem penhorado com preferência legal na ordem de penhora." (AgInt no AREsp n. 2.732.989/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/12/2024, DJEN de 19/12/2024). Aplicação da Súmula 83/STJ.
+3. Entendendo as instâncias de origem que não estão presentes circunstâncias aptas a justificarem a prevalência do princípio da menor onerosidade ao executado, inclusive porque não foi comprovado que a penhora dos veículos será de fato mais onerosa à executada, a revisão dessa conclusão é inviável, dado o óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.755.830/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025; grifo.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. VEÍCULOS PENHORADOS. REMOÇÃO. DEPÓSITO. EXEQUENTE. REVISÃO. SÚMULA Nº 7/STJ. MENOR ONEROSIDADE. 1. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos (Súmula nº 7/STJ).
+2. Na hipótese, rever a conclusão do acórdão recorrido quanto à possibilidade de remoção dos veículos penhorados, os quais devem ser depositados em poder do exequente mediante regular termos nos autos, é providência que esbarra na Súmula nº 7/STJ.
+3. No caso, tendo sido efetivada a penhora e a remoção dos bens do executado, é desarrazoada a substituição por bens imóveis também já penhorados, mas que não satisfazem a garantia do juízo.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.254.122/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
