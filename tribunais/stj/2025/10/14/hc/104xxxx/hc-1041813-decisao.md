@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de OVIDIO PEREIRA DA SILVA JUNIOR, apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, em razão do julgamento da apelação criminal n. 0002151-24.2017.403.6110.
+Segundo a petição inicial, o ato coator consiste na manutenção, em sede de apelação criminal, da exasperação da pena-base e da pena de multa. Informa-se que o paciente foi condenado como incurso no art. 33, caput, c/c o art. 40, I, da Lei 11.343/2006, por suposta aquisição de 973,091 kg de maconha proveniente do Paraguai, em 26/2/2015 (fls. 2-3). A pena definitiva foi estabelecida em 12 anos e 3 meses de reclusão e 1.225 dias-multa, com valor unitário de 1 salário mínimo.
+Alega-se que a pena-base foi fixada em 10 anos e 6 meses de reclusão, com majoração superior a 100% do mínimo legal (5 anos), fundamentada na quantidade da droga apreendida (973,091 kg) e em supostos elementos negativos da personalidade (fl. 3).
+Sustenta-se, em suma, a existência de constrangimento ilegal decorrente de erro manifesto na dosimetria, por exasperação desproporcional da pena-base e fixação de dias-multa em patamar exorbitante (fls. 3, 6). Alega-se a desproporcionalidade do aumento da pena-base pela quantidade da droga, superior a 100% sobre o mínimo legal (fl. 6), com violação aos princípios da proporcionalidade e da razoabilidade (fl. 7), ausência de critério objetivo e de fundamentação adequada, em afronta ao art. 93, IX, da Constituição Federal, e ao art. 59 do Código Penal (fls. 8-9), bem como ofensa ao princípio da individualização da pena (art. 5º, XLVI, da Constituição Federal) (fls. 9-10). Aponta-se, ainda, valoração indevida da personalidade do agente com base em elementos não comprovados por sentença transitada em julgado, em violação à Súmula n. 444/STJ, configurando bis in idem (fls. 13-15).
+Pede-se, ao final, a concessão da ordem para reduzir a pena-base para 8 anos e 4 meses de reclusão, com o consequente recálculo da pena final para 9 anos e 8 meses de reclusão.
+É o relatório. DECIDO.
+Verifico que os autos não foram suficientemente instruídos, pois o impetrante não encartou a cópia do acórdão que pretende impugnar. A orientação firmada no âmbito desta Corte é no sentido de que constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do habeas corpus.
+Nesse sentido:
+ ..
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória; desse modo, é cogente ao impetrante apresentar elementos documentais suficientes que permitam aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+2. Compulsando os autos, constato que das 443 páginas que instruem o writ, não consta a cópia da sentença condenatória, o que impossibilita a correta compreensão do caso e, por conseguinte, o exame da suposta ilegalidade. Precedentes.
+ ..
+(AgRg no HC 834755/MS, Relator Ministro REYNALDO SOARES DA FONSECA, 5ª Turma, DJ-e de DJe 14/08/2023)
+O habeas corpus é uma ação mandamental cuja principal característica é a sumariedade, não possuindo fase instrutória. A inicial deve vir acompanhada de prova documental pré-constituída, permitindo ao juiz ou tribunal examinar os fatos que caracterizam o constrangimento ou ameaça, bem como sua ilegalidade.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que é ônus do impetrante a correta instrução dos autos, no momento do protocolo da impetração ou da interposição do recurso ordinário, sob pena de não conhecimento.
+Nesse sentido: RCD no HC 969.911/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2025, DJEN de 20/3/2025, e AgRg no HC 967.819/AM, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
