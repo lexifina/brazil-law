@@ -1,0 +1,36 @@
+DECISÃO
+FÁBIO HENRIQUE MUNOZ interpõe agravo em recurso especial (art. 1.042, CPC) contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial interposto com fulcro no art. 105, III, "a", da CF, nos autos da Apelação Criminal n. 0001338-22.2018.8.26.0505.
+Consta dos autos que o recorrente foi condenado à pena de 5 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, acrescida de multa de 17 dias-multa, pela prática do crime tipificado no art. 2º, §§ 2º e 3º, da Lei n. 12.850/2013.
+A decisão agravada apontou os seguintes óbices à admissibilidade do recurso especial: a) negativa de seguimento quanto à tese de nulidade das interceptações telefônicas, por conformidade do acórdão com o Tema n. 661 do STF; b) ausência de fundamentação necessária, a atrair a incidência da Súmula n. 284 do STF e c) necessidade de reexame de prova, vedado pela Súmula n. 7 do STJ.
+O agravante alega, em síntese: a) que o recurso especial está devidamente fundamentado, com a indicação específica dos dispositivos violados e das razões da insurgência, o que afasta a Súmula n. 284 do STF; e b) que a pretensão recursal busca a revaloração jurídica dos fatos, e não o reexame probatório, portanto sem incidência da Súmula n. 7 do STJ. Requer o conhecimento do agravo para admitir e dar provimento ao recurso especial.
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo para negar provimento ao recurso especial (fls. 8.331-8.349).
+Decido.
+O agravo foi interposto no prazo legal. Passo a examinar se impugnou adequadamente todos os fundamentos da decisão agravada, nos termos da Súmula n. 182 do STJ.
+I. Quanto ao óbice fundado no Tema n. 661 do STF
+A decisão de inadmissibilidade, proferida pelo Tribunal de origem, negou seguimento a uma parte do recurso especial com o seguinte fundamento:
+O Excelso Supremo Tribunal Federal, apreciando o Recurso Extraordinário nº 625.263/PR (Tema nº 661 da repercussão geral), aos 17 de março de 2022, por maioria, fixou a seguinte tese: "São lícitas as sucessivas renovações de interceptação telefônica, desde que, verificados os requisitos do artigo 2º da Lei nº 9.296/1996 e demonstrada a necessidade da medida diante de elementos concretos e a complexidade da investigação, a decisão judicial inicial e as prorrogações sejam devidamente motivadas, com justificativa legítima, ainda que sucinta, a embasar a continuidade das investigações. São ilegais as motivações padronizadas ou reproduções de modelos genéricos sem relação com o caso concreto".
+Assim, estando o aresto recorrido em consonância com tal entendimento, nego seguimento ao presente recurso especial, nesse aspecto, nos termos do artigo 1.030, I, "b", do Código de Processo Civil e artigo 638 do Código de Processo Penal. (fl. 7.832).
+Trata-se de fundamento autônomo e suficiente para obstar o processamento do recurso quanto à matéria das interceptações telefônicas, pois assenta a conformidade do acórdão recorrido com tese firmada em precedente vinculante.
+Ao impugnar a decisão, o agravante, em seu agravo em recurso especial (fls. 7.921-7.979), não atacou especificamente a aplicação do art. 1.030, I, "b", do CPC. Em vez de demonstrar o eventual equívoco na aplicação do Tema n. 661 do STF ao caso concreto (distinguishing) ou a superação do precedente (overruling), a defesa limitou-se a reiterar as mesmas razões de mérito já expostas no recurso especial, concernentes à suposta ilegalidade das interceptações.
+Diante da não impugnação desse fundamento, o agravo não deve ser conhecido.
+II. Quanto aos óbices das Súmulas n. 284 do STF e 7 do STJ
+A decisão agravada também inadmitiu o restante do recurso especial com base nos seguintes óbices:
+No mais, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil, o que afasta a possibilidade da sua admissão.
+O E. Superior Tribunal de Justiça, considerando a importância desse requisito formal, assinalou que: "(..) Verifica-se deficiência na fundamentação do recurso especial, a atrair o óbice do Enunciado n. 284 da Súmula do STF, pois o recorrente não demonstrou de maneira específica as razões de sua insurgência (..)".
+Outrossim, incide ao caso a Súmula nº 7, do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial", ou seja, há divergência quanto à situação reconhecida pelo Tribunal, não sendo possível emitir um juízo de valor sobre a questão de direito federal sem antes alterar os elementos de fato. (fls. 7.832-7.833)
+Em suas razões de agravo, o recorrente buscou impugnar tais argumentos. Contudo, são insuficientes, para refutar esses fundamentos de inadmissibilidade, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. A parte deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos, o que não ocorreu na espécie.
+Nessa perspectiva:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, dispõe-se que "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no conteúdo do Enunciado n.º 7 da Súmula do Superior Tribunal de Justiça, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.575.387/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/2/2020, grifei)
+Portanto, verifica-se que o agravante não rebateu, concretamente , todos os óbices de admissão do recurso especial. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável o agravo em recurso especial que deixa de impugnar todos os fundamentos da decisão que inadmitiu o apelo extremo, incidindo, na espécie, o teor da Súmula n.182/STJ.
+2. Na hipótese em que se pretende impugnar a incidência da Súmula n. 83 do STJ, deveria a parte agravante demonstrar que os precedentes indicados na decisão agravada não se aplicavam ao caso, ou então trazer precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual, o que deixou de fazer (AgInt no AREsp 885.406/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/3/2018, DJe 3/4/2018, grifei).
+III. Dispositivo
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
