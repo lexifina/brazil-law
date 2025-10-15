@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE ROUBO. REGIME INICIAL DE CUMPRIMENTO DE PENA. FIXAÇÃO DO REGIME SEMIABERTO. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. GRAVIDADE CONCRETA DO DELITO. MODO DE EXECUÇÃO. VIOLÊNCIA EMPREGADA CONTRA A VÍTIMA. LESÃO CORPORAL. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. AUSÊNCIA DE BIS IN IDEM. VALORAÇÃO NEGATIVA DE ELEMENTOS QUE, EMBORA RELACIONADOS AO TIPO PENAL, EVIDENCIEM MAIOR REPROVABILIDADE DA CONDUTA. PRECEDENTES. SÚMULA 83/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por BRUNO HENRIQUE SORIANO DE OLIVEIRA contra a decisão monocrática, de minha lavra, assim ementada (fl. 255):
+DIREITO PENAL. RECURSO ESPECIAL. ROUBO. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ.
+Recurso não conhecido.
+Em suas razões, o agravante alega que: (i) a fixação do regime inicial semiaberto baseou-se unicamente no empurrão dado na vítima, elemento que já integra o próprio tipo penal do roubo, configurando dupla punição; (ii) não há fundamentação idônea que justifique regime mais gravoso que o aberto; (iii) a conduta praticada (empurrão para subtrair cervejas de valor inferior a R$ 30,00 - trinta reais) não demonstra periculosidade excepcional que justifique a exasperação do regime prisional; e (iv) aplicação equivocada do art. 33, § 2º, c, do Código Penal.
+Requer o provimento do agravo regimental para fixação do regime inicial aberto.
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE ROUBO. REGIME INICIAL DE CUMPRIMENTO DE PENA. FIXAÇÃO DO REGIME SEMIABERTO. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. GRAVIDADE CONCRETA DO DELITO. MODO DE EXECUÇÃO. VIOLÊNCIA EMPREGADA CONTRA A VÍTIMA. LESÃO CORPORAL. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. AUSÊNCIA DE BIS IN IDEM. VALORAÇÃO NEGATIVA DE ELEMENTOS QUE, EMBORA RELACIONADOS AO TIPO PENAL, EVIDENCIEM MAIOR REPROVABILIDADE DA CONDUTA. PRECEDENTES. SÚMULA 83/STJ.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não comporta provimento.
+Conforme se depreende do acórdão recorrido, o regime inicial semiaberto foi estabelecido não apenas em razão da violência empregada, mas em consideração à circunstância judicial desfavorável decorrente da gravidade concreta do delito e do modo de execução. O Tribunal de origem fundamentou adequadamente sua decisão ao considerar que o ora agravante praticou o delito no interior de estabelecimento comercial, em plena luz do dia, e quando surpreendido pela reação da funcionária, empurrou-a fortemente, causando-lhe lesão corporal, com o fim de fugir e garantir a subtração do bem, demonstrando a elevada reprovabilidade da conduta.
+A jurisprudência desta Corte Superior é pacífica no sentido de que, embora estabelecida pena definitiva inferior a quatro anos de reclusão, a existência de circunstância judicial negativa na exasperação da pena-base justifica a fixação de regime prisional mais gravoso, no caso, o semiaberto. A análise das circunstâncias judiciais do art. 59 do Código Penal não se confunde com a tipificação penal, podendo o julgador valorar negativamente o modo de execução do crime, ainda que este integre elementos do tipo.
+O emprego de violência no crime de roubo, conquanto elementar do tipo penal, admite gradações em sua intensidade e forma de execução. O magistrado pode e deve considerar, na dosimetria da pena e fixação do regime, as circunstâncias concretas que evidenciem maior reprovabilidade da conduta, sem que isso configure bis in idem. No caso em exame, a violência empregada ultrapassou o mínimo necessário à configuração do tipo, caracterizando-se pela ousadia do agente e pelo desprezo às consequências de seus atos, elementos que justificam a exasperação do regime prisional.
+A fixação do regime inicial semiaberto encontra-se devidamente fundamentada nas circunstâncias concretas do delito e na necessidade de adequada resposta penal ao comportamento praticado, em conformidade com os princípios da individualização da pena e da proporcionalidade. A decisão embargada aplicou corretamente o disposto no art. 33, § 2º, c, do Código Penal, considerando a existência de circunstância judicial desfavorável que justifica a imposição de regime mais severo.
+O entendimento adotado pela Corte estadual conforma-se à jurisprudência deste Superior Tribunal sobre a matéria, incidindo a Súmula 83/STJ, a obstar o conhecimento do apelo nobre.
+Ante o exposto, nego provimento ao agravo regiment al.
