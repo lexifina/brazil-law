@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GABRIEL SOARES MONTEIRO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (HC n. 026010-28.2025.8.17.9000).
+Consta nos autos que, em 23/11/2023, o paciente teria tido a prisão preventiva restabelecida por decisão liminar proferida na Ação Cautelar Inominada n. 0019392-38.2023.8.17.9000 (fls. 12, 93-94), pela suposta prática dos delitos previstos nos arts. 33, caput e 35, caput, ambos da Lei n. 11.343/2006, e no art. 2º, §§ 1º, 2º e 3º, da Lei nº 12.850/2013. Consta, ainda, que o paciente teria sido preso em 22/03/2022, solto em 20/09/2023, e novamente recolhido em 09/09/2024 em cumprimento da medida cautelar.
+Neste writ, o impetrante sustenta, preliminarmente, a ausência de acesso integral às mídias das interceptações telefônicas produzidas, indicando que CDs teriam sido acostados aos autos sem condições técnicas de abertura, e que, apesar de pedidos e ofícios, não se teria logrado acesso por nuvem (Cronos), nem instruções de abertura, conforme decisões e comunicações juntadas aos autos.
+Alega que haveria quebra da cadeia de custódia dos arquivos gerados pelas interceptações telefônicas e que o Ministério Público teria utilizado apenas trechos degravados e selecionados, sem disponibilização íntegra dos áudios, em afronta ao contraditório e à ampla defesa.
+Argumenta que a impossibilidade de acesso teria inviabilizado a realização de perícia de constatação de voz e a conferência da correção das degravações, diante de acervo informado como composto por mais de 400 mil arquivos, sem identificação e sem organização por paciente, o que impossibilitaria o exercício efetivo de defesa.
+Ressalta decisões do juízo de primeiro grau que teriam rejeitado a denúncia e relaxado a prisão preventiva por ausência de preservação da cadeia de custódia e não disponibilização integral dos áudios.
+Aduz que a decisão prolatada na ação cautelar inominada, na qual o Desembargador Relator restabeleceu as prisões preventivas, teria sido teratológica, despida de razoabilidade e fundada em generalizações sobre alta periculosidade, sem enfrentar a ausência de acesso às provas, razão pela qual seria cabível a mitigação da Súmula 691/STF.
+Aponta, no tocante ao paciente, o preenchimento dos requisitos para responder ao processo em liberdade, consignando sua vinculação laboral após soltura (12/09/2023) e o tempo total de prisão cautelar no processo (aproximadamente 2 anos, 6 meses e 6 dias), o que demonstraria desnecessidade da segregação.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório.
+Decido.
+De início, cumpre destacar que, na estreita via do habeas corpus, exige-se a prévia constituição da prova, devendo a impetração ser devidamente instruída com toda a documentação indispensável à apreciação da pretensão deduzida.
+No caso em exame, entretanto, verifica-se que a parte impetrante deixou de acostar aos autos cópia da decisão impugnada, peça imprescindível à adequada compreensão da controvérsia.
+A ausência de tal documento inviabiliza o conhecimento da impetração, porquanto não se desincumbiu a Defesa do ônus que lhe competia de instruir devidamente o feito. Nesse sentido: AgRg no HC n. 1.006.445/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025; AgRg no HC n. 995.894/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025; PET no HC n. 941.704/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
