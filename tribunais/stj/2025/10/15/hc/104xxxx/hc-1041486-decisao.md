@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ROGEAN CARLOS GRANZOTTO VIEIRA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação n. 0017685-78.2018.8.24.0023).
+Depreende-se dos autos que o ora paciente foi condenado a 5 anos e 10 meses de reclusão, no regime inicial fechado, por haver praticado o crime de tráfico de drogas (e-STJ fls. 35/49).
+O Tribunal de origem negou provimento à apelação defensiva e deu provimento ao recurso ministerial para majorar a reprimenda para 9 anos, 4 meses e 15 dias de reclusão (e-STJ fls. 12/33).
+Daí o presente writ, no qual sustenta a defesa que, " n o presente caso, a entrada dos policiais militares na residência do Paciente ocorreu sem mandado judicial e sem o seu consentimento. Conforme já relatado, o próprio Paciente afirmou em juízo que não autorizou a entrada dos agentes em sua casa e que não acompanhou as buscas  .. " (e-STJ fl. 5).
+Diante dessas considerações, pede a concessão da ordem para (e-STJ fl. 11):
+1. Declarar a nulidade de todas as provas obtidas a partir da invasão de domicílio, em aplicação da Teoria dos Frutos da Árvore Envenenada (Art. 157 do CPP);
+2. Determinar o desentranhamento de tais provas dos autos do processo;
+3. Em consequência, absolver o Paciente ROGEAN CARLOS GRANZOTTO VIEIRA da imputação do crime de tráfico de drogas, com fundamento no artigo 386, inciso VII, do Código de Processo Penal, ante a ausência de provas lícitas suficientes para sustentar a condenação no processo em epigrafe.
+É o relatório.
+Decido.
+O writ não merece conhecimento.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+No caso, a condenação do paciente transitou em julgado, de maneira que não se deve conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência deste Tribunal Superior acerca da controvérsia.
+Ademais, tem-se que a tese de nulidade não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+No entanto, vislumbro ilegalidade flagrante apta a ser sanada na presente via, mediante concessão de habeas corpus de ofício.
+Consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não constitui demasia enfatizar, no particular, que, "como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela" (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015, p. 808).
+A jurisprudência desta Casa é pacífica nesse sentido, senão vejamos:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ATENUANTE DA MENORIDADE. PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ENUNCIADO N. 231 DO STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CAUSA DE AUMENTO PELA TRANSNACIONALIDADE DO DELITO. BIS IN IDEM. INOCORRÊNCIA. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS REQUISITOS DO ART. 44, I, DO CÓDIGO PENAL - CP. REPRIMENDA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+- A fixação da pena-base em patamar acima do mínimo legal foi devidamente fundamentada pelas instâncias ordinárias que, a teor do art. 42 da Lei n. 11.343/2006, consideraram, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga apreendida (3,5kg de cocaína).
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 487.774/SP, relator Ministro Ericson Maranho (Desembargador convocado do TJSP), Sexta Turma, julgado em 6/8/2015, DJe 28/8/2015, grifei.)
+No caso, contudo, conquanto a pena-base tenha sido estabelecida acima do mínimo em consideração à variedade e quantidade do entorpecente apreendido, em observância ao disposto no art. 42 da Lei n. 11.343./2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de drogas apreendidas - "13 (treze) porções de cocaína, pesando 6,2g (seis gramas e dois decigramas), 2 (duas) cartelas, contendo 55 (cinquenta e cinco) micropontos de LSD, 2 (duas) porções de maconha, com massa bruta total de 57,3g (cinquenta e sete gramas e três decigramas), 15 (quinze) comprimidos de ecstasy e 1 (uma) bucha de cristal, pesando 4,9g (quatro gramas e nove decigramas)" - e-STJ fls. 35/36, quantidade que não se revela expressiva o suficiente a justificar a negativação da referida vetorial.
+Diante desse cenário, entendo que o aumento operado na primeira etapa da dosimetria deve ser afastado.
+Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. NOCIVIDADE DAS DROGAS APREENDIDAS. CRACK E COCAÍNA. QUANTIDADES PEQUENAS. FUNDAMENTO INIDÔNEO A JUSTIFICAR A EXASPERAÇÃO DA SANÇÃO INICIAL. MAUS ANTECEDENTES. CONDENAÇÕES PRETÉRITAS ATINGIDAS PELO PERÍODO DEPURADOR. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Este Superior Tribunal de justiça firmou entendimento no sentido de que o art. 42 da Lei de Drogas permite o aumento da pena-base com fundamento na quantidade e natureza do entorpecente apreendido, de forma que esses dois quesitos devem ser interpretados em conjunto. Assim, a apreensão de pequena quantidade de cocaína, não obstante seja considerada uma das mais nocivas, não justifica, por si só, o aumento da reprimenda na primeira fase da dosimetria.
+2. A jurisprudência desta Corte superior entende que condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes, permitindo o incremento da sanção inicial.
+3. Agravo regimental parcialmente provido para reduzir a reprimenda dos recorrentes a 6 anos, 9 meses e 20 dias de reclusão, mais 680 dias-multa.
+(AgInt no HC n. 403.668/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/11/2017, DJe 14/11/2017, grifei.)
+Ante o exposto, indefiro liminarmente a impetração mas concedo a ordem de ofício tão somente para decotar o aumento de 1/3 da pena-base, devendo a reprimenda ser redimensionada pelo juízo das execuções.
+Publique-se. Intimem-se.
+EMENTA
