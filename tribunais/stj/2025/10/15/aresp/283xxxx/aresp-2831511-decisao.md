@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALMIR WILHELM PARIGOT DE SOUZA FILHO E OUTRO, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 7.611/7.617):
+AÇÃO RESCISÓRIA. DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. OFENSA À COISA JULGADA. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. INOCORRÊNCIA. IMPROCEDÊNCIA.
+1. A despeito da decisão proferida no MS nº 2000.70.00.024450-0, não havia óbice legal (ou lógico) para o prosseguimento do processo administrativo que, com a observância do devido processo legal, redundou na válida aplicação da penalidade de inaptidão do CNPJ; conforme decidido no MS nº 2001.70.00.008506-1.
+2. Hipótese em que não se verifica, na decisão rescindenda, a ocorrência de ofensa à coisa julgada, uma vez que o próprio encerramento do processo administrativo (e nem tanto o julgamento do MS nº 2001.70.00.008506-1) já tornava impossível a produção de efeitos práticos da decisão proferida no MS nº 2000.70.00.024450-0.
+3. A violação manifesta apta a autorizar a rescisão de decisão judicial transitada em julgado deve decorrer de contrariedade direta e inequívoca entre o comando judicial exarado e a norma jurídica invocada, não se prestando a via rescisória, por outro lado, à correção de eventual injustiça da decisão ou ao reexame de provas e argumentos. Precedentes do STJ.
+4. Não caracterizada a ocorrência de violação manifesta da norma jurídica apontada pelos autores, eis o entendimento adotado pelo acórdão rescindendo não implica violação da coisa julgada material formada no Mandado de Segurança nº 2000.70.00.024450-0.
+5. Ação rescisória julgada improcedente.
+Houve oposição de embargos declaratórios, os quais foram acolhidos em parte, apenas para correção de erro material e sem atribuição de efeitos infringentes, conforme ementa de julgamento abaixo transcrita (fl. 7.643):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. CORREÇÃO DE ERRO MATERIAL. ACOLHIMENTO PARCIAL. PREQUESTIONAMENTO IMPLÍCITO.
+1. Cabem embargos de declaração contra qualquer decisão judicial para: a) esclarecer obscuridade ou eliminar contradição; b) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; c) corrigir erro material (CPC/2015, art. 1.022, incisos I a III). Em hipóteses excepcionais, entretanto, admite-se atribuir-lhes efeitos infringentes.
+2. Verificada a ocorrência de erro material no acórdão embargado, abrem-se ensanchas a que se corrija o equívoco, sem que disso resulte alteração do julgado.
+3. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (art. 1.025 do CPC/2015).
+Em sede de recurso especial (fls. 7.652/7.670), os recorrentes sustentam violação aos artigos 489, inciso II, § 1º, incisos IV e VI; 502; e 1.022, incisos I e II, parágrafo único, inciso II, todos do Código de Processo Civil.
+Apontam os recorrentes que o acórdão recorrido está eivado de flagrantes vícios de omissão e de contradição sobre pontos importantes e relevantes para o julgamento da lide que foram ilegalmente desconsiderados pelo Tribunal de origem.
+Além disso, alegam que resta devidamente demonstrado no caso em análise a ocorrência de ofensa ao instituto da coisa julgada. Assim, requerem o reconhecimento de violação aos dispositivos legais apontados, com anulação do acórdão recorrido e retorno dos autos à origem para que profira nova decisão em atenção às omissões e contradições apontadas.
+O Tribunal de origem, nos moldes da decisão agravada de fls. 7.685/7.688, não admitiu o recurso especial sob os seguintes fundamentos:
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, "a", da Constituição Federal, contra acórdão de Órgão Colegiado desta Corte, assim ementado:
+(..)
+Sustenta a parte recorrente que o acórdão contrariou os dispositivos indicados.
+Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional.
+A pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 (não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida), que se aplica também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+O julgado desta Corte está em consonância com os precedentes do STJ abaixo colacionados:
+(..)
+A súplica não merece trânsito, uma vez que a questão suscitada demanda verificação de matéria probatória. Neste sentido a Súmula 07 do Superior Tribunal de Justiça, estabelecendo que "a pretensão de simples reexame de prova não enseja recurso especial".
+Na mesma linha, são os seguintes precedentes:
+(..)
+Ante o exposto, não admito o recurso especial.
+Inconformados, os agravantes interpuseram recurso de agravo (fls. 7.697/7.714) no qual aduzem que inexiste violação ao enunciado nº 83 da Súmula do Superior Tribunal de Justiça, pois as razões do recurso especial foram absolutamente claras e detalhadas no tocante à exposição dos vícios e consequências correlatas, de modo a justificar o seu cabimento e as violações ocorridas.
+Assim, reiteram os argumentos recursais no sentido de demonstrar os vícios de omissão e de contradição que entendem existentes no acórdão recorrido, razão pela qual afirmam que os precedentes citados na decisão agravada não se aplicam ao caso em análise.
+Ademais, discorrem os agravantes sobre a não incidência do enunciado nº 07 da Súmula do Superior Tribunal de Justiça, sob o entendimento de que não há circunstâncias fáticas ou provas a serem reanalisadas.
+Afirmam que "não é suficiente que a r. Decisão agravada tão somente colacione julgados que tratem do tema coisa julgada e nos quais havia necessidade de revolvimento de fatos e provas (diferente do caso em apreço), e afirme que incidem ao presente caso sem realizar qualquer mínima contextualização com o caso concreto". (fl. 7.709)
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto os agravantes não contestaram especificamente os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão agravada que negou a subida do recurso especial assentou-se nas seguintes razões: (i) óbice pelo enunciado nº 83 da Súmula do Superior Tribunal de Justiça, sob o entendimento de que o acórdão recorrido harmoniza-se com a jurisprudência desta Corte Superior no sentido de que não há que se falar em violação aos artigos 489 e 1.022 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte; e (ii) óbice pelo enunciado nº 07 da Súmula do Superior Tribunal de Justiça, pois a análise dos argumentos suscitados no recurso especial demanda nítida verificação de matéria probatória.
+Todavia, no seu agravo, a parte não refutou suficientemente os referidos fundamentos, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Com efeito, as razões do agravo não trazem argumentos suficientes à impugnação dos óbices elencados na decisão agravada, de modo que os agravantes não lograram êxito em demonstrar de que forma seria possível esta Corte Superior analisar os seus argumentos recursais sem, necessariamente, ter que adentrar na análise das questões fático-probatórias analisadas e decididas pelo Tribunal de origem.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, os agravantes ferem o princípio da dialeticidade e atraem a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno n ão provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor dos agravantes, no importe de 10% sobre o valor já arbitrado, nos termos do artigo 85, §11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
