@@ -1,0 +1,75 @@
+RECLAMAÇÃO. CONSTITUCIONAL. DIREITO DO TRABALHO.TERCEIRIZAÇÃO DE SERVIÇOS PARA CONSECUÇÃO DE ATIVIDADE-FIM. ALEGAÇÃO DE AFRONTA À ORDEM DE SUSPENSÃO NACIONAL DETERMINADA NOS AUTOS DO ARE 1.532.603. CONTROVÉRSIA NA ORIGEM QUE DIZ RESPEITO ÀS QUESTÕES QUE ENSEJARAM A INSTAURAÇÃO DO TEMA-RG 1.389, EM QUE SE DETERMINOU A SUSPENSÃO NACIONAL DE PROCESSOS ENVOLVENDO A TEMÁTICA VERSADA NA PRESENTE RECLAMAÇÃO. IMPERATIVO DE MANUTENÇÃO DA INTEGRIDADE E COERÊNCIA DA JURISPRUDÊNCIA. ARTIGO 926 DO CPC. RECLAMAÇÃO QUE SE JULGA PROCEDENTE PARA DETERMINAR A SUSPENSÃO DO PROCESSO DE ORIGEM.
+
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por New Time Fitness Academia de Ginastica Ltda. contra decisão do Juízo da 11ª Vara do Trabalho do Rio de Janeiro, nos autos do Processo nº 0100701-10.2025.5.01.0011, sob a alegação de inobservância da decisão de suspensão nacional exarada no ARE 1.532.603 — Tema 1.389-RG.
+
+    Narra a parte reclamante tratar-se, na origem, de reclamação trabalhista ajuizada pela parte ora beneficiária objetivando o reconhecimento de vínculo empregatício, bem como o pagamento de verbas trabalhistas pelo período em que prestou serviços à empresa.
+
+    Afirma ter apresentado contestação, na qual sustentou a inexistência de vínculo, uma vez que “o autor atuava como autônomo, porém era remunerado como “professor horista”, remunerado por hora”.
+
+    Relata, em síntese, que controvérsia dos autos relaciona-se ao que decidido na ADPF 324 e no RE 958.252, Tema 725 da repercussão geral, cuja tese se firmou no sentido de declarar a constitucionalidade da terceirização, tanto de atividades-meio quanto de atividades-fim, não havendo que se falar em reconhecimento de vínculo direto por ilicitude da terceirização.
+
+     Aduz que a decisão reclamada indeferiu o pedido de sobrestamento do feito, ao entendimento de que a ora reclamante reconheceu que o autor era remunerado por hora. Afirma que “o professor horista, via de regra, é contratado para ministrar aulas de forma pontual e não contínua, percebendo apenas pelos encontros efetivamente realizados, sem sujeição a jornada fixa, sem subordinação direta e sem habitualidade no sentido celetista. Trata-se, portanto, de prestação de serviços que se enquadra na natureza autônoma, incompatível com a moldura rígida da CLT”
+
+    Alega, nesse sentido, que a decisão reclamada afrontou a ordem de suspensão nacional determinada no ARE 1.532.603, cujo objeto é exatamente decidir sobre a competência e o ônus da prova nos processos nos quais há a discussão de fraude no contrato de prestação de serviços, bem como a licitude da contratação de trabalhador autônomo.
+
+    Requer, por esses fundamentos, o imediato cumprimento da ordem de suspensão nos autos do processo de origem, até a decisão final do Tema 1.389.
+
+    Em que pese devidamente citada, a parte beneficiária não apresentou contestação (docs. 13 e 14).
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido.” (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022 - grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022 - grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento.” (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022 - grifei).
+
+    Fixadas as premissas, notam-se, a partir da leitura dos autos, irresignações da reclamante relativas à decisão que deixou de suspender o processo de origem (doc. 5), em afronta à determinação de suspensão nacional proferida no Tema 1.389.
+
+    Com efeito, verifica-se que este Supremo Tribunal Federal, ao apreciar o ARE 1.532.603, de relatoria do eminente Ministro Gilmar Mendes, instaurou o Tema 1.389 da sistemática da repercussão geral, que tem por escopo o exame das seguintes questões constitucionais: “Competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade”.
+
+    Deveras, ante a controvérsia havida nos casos como o presente, em que debatida a aplicação da ADPF 324 e do Tema 725-RG, o Plenário deste Supremo Tribunal Federal houve por bem admitir novo tema de repercussão geral, com o fito de esclarecer a matéria. Referido tema, como se vê, se adéqua perfeitamente ao caso concreto, na medida em que discute-se, nos autos de origem, a existência ou não de fraude em contrato de natureza civil ou empresarial e a licitude da contratação de trabalhador autônomo.
+
+    Sendo este o panorama discutido na presente reclamação, impõe-se a suspensão do processo de origem, em atenção à ordem de suspensão nacional de processos determinada pelo Ministro Gilmar Mendes no bojo do ARE 1.532.603 (Tema 1.389), em decisão datada de 14 de abril de 2025 (DJ de 15/04/2025), cujo excerto transcrevo abaixo, verbis:
+
+    “A controvérsia sobre esses temas tem gerado um aumento expressivo do volume de processos que tem chegado ao STF, especialmente por intermédio de reclamações constitucionais.
+
+    Como já destaquei na manifestação sobre a existência de repercussão geral, parcela significativa das reclamações em tramitação nesta Corte foram ajuizadas contra decisões da Justiça do Trabalho que, em maior ou menor grau, restringiam a liberdade de organização produtiva. Esse fato se deve, em grande parte, à reiterada recusa da Justiça trabalhista em aplicar a orientação desta Suprema Corte sobre o tema.
+
+    Conforme evidenciado, o descumprimento sistemático da orientação do Supremo Tribunal Federal pela Justiça do Trabalho tem contribuído para um cenário de grande insegurança jurídica, resultando na multiplicação de demandas que chegam ao STF, transformando-o, na prática, em instância revisora de decisões trabalhistas.
+
+    Essa situação não apenas sobrecarrega o Tribunal, mas também perpetua a incerteza entre as partes envolvidas, afetando diretamente a estabilidade do ordenamento jurídico.
+
+    Feitas essas considerações, entendo necessária e adequada a aplicação do disposto no art. 1.035, § 5º, do CPC, ao caso dos autos, para suspender o processamento de todas as ações que tramitem no território nacional e versem sobre os assuntos discutidos nestes autos.
+
+    Entendo que essa medida impedirá a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica e desafogando o STF, permitindo que este cumpra seu papel constitucional e aborde outras questões relevantes para a sociedade.
+
+    Ante o exposto, determino a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas nos presentes autos, relacionadas ao Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário.”
+
+    Nesse contexto, importa ressaltar que a sistemática da repercussão geral e todas as técnicas a ela vinculadas pelo Código de Processo Civil, dentre as quais a possibilidade de suspensão nacional de processos (art. 1.035, § 5º), se destinam, em última análise, a assegurar a estabilidade, integridade e coerência da jurisprudência, à luz do comando constante do art. 926 daquele Código. Nesse sentido, cito as recentes decisões monocráticas proferidas nas seguintes reclamações: 78.580, Rel. Min. Cármen Lúcia, DJ 22.04.2025; 69.829, Rel. Min. Gilmar Mendes, DJ 22.04.2025; 75.192, Rel. Min. André Mendonça, DJ 23.04.2025; 75.696, Rel. Min. Dias Toffoli, DJ 23.04.2025; 78.452, Rel. Min. Flávio Dino, DJ 23.04.2025
+
+    Constada, pois, a similitude de questões debatidas no caso de origem e aquelas que ensejaram instauração do Tema 1.389 da repercussão geral, tendo o decisum reclamado versado sobre as questões constitucionais reconhecidas por este STF em recurso extraordinário submetido à sistemática da repercussão geral, impõe-se a procedência da presente ação, com vistas à suspensão do processo de origem, nos termos do art. 1.035, § 5º, do CPC, até o julgamento do recurso paradigma do Tema 1.389 no âmbito deste Supremo Tribunal.
+
+    Ex positis, JULGO PROCEDENTE a presente reclamação para cassar a decisão reclamada proferida no Processo nº 0100701-10.2025.5.01.0011, em trâmite perante o Juízo da 11ª Vara do Trabalho do Rio de Janeiro, e determinar a suspensão do referido processo, até ulterior decisão deste Supremo Tribunal Federal no ARE 1.532.603 (Tema-RG 1.389).
+
+    Comunique-se o teor desta decisão à autoridade reclamada.
+
+    Oficie-se a autoridade reclamada para que providencie a notificação da parte beneficiária acerca da presente decisão diretamente nos autos da ação de origem.
+
+    Publique-se.
+
+    Brasília, 15 de outubro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
