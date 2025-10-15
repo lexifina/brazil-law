@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 83-84):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. POSSIBILIDADE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que diz respeito à impossibilidade de manejo do habeas corpus como sucedâneo de revisão criminal, destaca-se que a jurisprudência desta Corte Superior é firme ao asseverar a possibilidade de conhecimento do habeas corpus substitutivo de revisão criminal, sempre que constatada flagrante ilegalidade nos autos, como na hipótese.
+2. O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+3. A Terceira Seção desta Corte Superior de Justiça decidiu, através do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7 /2021), que " a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+4. No caso, dado que a quantidade, a variedade e a natureza das drogas apreendidas foi isoladamente sopesada para levar à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+5. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XLIII e XLVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que a causa especial de diminuição de pena do tráfico privilegiado não seria aplicável ao caso, pois não estariam preenchidos todos os requisitos para a concessão do benefício.
+Nesse sentido, argumenta que a expressiva quantidade e variedade de droga apreendida e demais circunstâncias fáticas da ação delituosa, que evidenciam a dedicação do recorrente às atividades criminosas, são fundamentos suficientes a afastar a aplicação da minorante do tráfico privilegiado, configurando violação ao princípio da individualização da pena.
+Requer, assim, a admissão e o provimento do recurso.
+Foram apresentadas contrarrazões (fls. 128-138).
+O recurso extraordinário foi inadmitido, nos termos da decisão de fls. 141-143.
+Remetidos os autos ao Supremo Tribunal Federal em razão da interposição de agravo em recurso extraordinário, sobreveio despacho determinando a devolução do processo a esta Corte Superior de Justiça para adoção dos procedimentos previstos nos incisos I a III do art. 1.030 do Código de Processo Civil relativamente ao Tema n. 712 de repercussão geral (fls. 192-193).
+É o relatório.
+2. A controvérsia cinge-se à questão da aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, estando o acórdão recorrido assim fundamentado (fls. 85-87 - grifamos):
+ .. , a despeito das alegações ministeriais, noto que o decisum combatido foi claro ao demonstrar a necessidade de reconhecimento da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Isso porque, para a aplicação da minorante, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Pois a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343 /2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+Nos autos em exame, a instância de origem, ao mencionar as ci rcunstâncias do delito que impedem a incidência da minorante, enumerou apenas a quantidade, a natureza e a variedade das drogas apreendidas.
+Entretanto, conforme explicitei na decisão agravada, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Mini stro Jão Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Destaco, por fim, que a análise em questão, conforme visto, não decorreu do reexame das provas amealhadas aos autos, pois foi realizada a partir da simples leitura das razões constantes da sentença e do acórdão, de modo que inexistiu dilação probatória na via mandamental.
+O Supremo Tribunal Federal, no julgamento do ARE n. 666.334-RG/AM, sob a sistemática da repercussão geral, fixou a seguinte tese vinculante (Tema n. 712):
+As circunstâncias da natureza e da quantidade da droga apreendida devem ser levadas em consideração apenas em uma das fases do cálculo da pena.
+Confira-se, a propósito, a ementa do acórdão paradigma:
+Recurso extraordinário com agravo. Repercussão Geral. 2. Tráfico de Drogas. 3. Valoração da natureza e da quantidade da droga apreendida em apenas uma das fases do cálculo da pena. Vedação ao bis in idem. Precedentes. 4. Agravo conhecido e recurso extraordinário provido para determinar ao Juízo da 3ª VECUTE da Comarca de Manaus/AM que proceda a nova dosimetria da pena. 5. Reafirmação de jurisprudência.
+(ARE 666334 RG, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 03-04-2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-084 DIVULG 05-05-2014 PUBLIC 06-05-2014)
+Assim, constata-se que o julgado impugnado se encontra em harmonia com o entendimento da Suprema Corte consolidado no Tema n. 712 do STF, conforme também interpretação da própria Presidência do STF.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. ART. 33, § 4º, DA LEI N. 11.343/2006. TRÁFICO PRIVILEGIADO. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DA SUPREMA CORTE, FIXADO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. TEMA N. 712 DO STF. NEGATIVA DE SEGUIMENTO.
