@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO JOSE DA SILVA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou provimento ao Agravo em Execução Penal n. 0008249-55.2025.8.26.0521, mantendo a exigência do exame criminológico em razão do art. 112, § 1º, da Lei de Execução Penal (Execução n. 0007060-42.2025.8.26.0521, DEECRIM 10ª RAJ - Sorocaba/SP).
+Aqui, a defesa alega, em síntese, constrangimento ilegal por ausência de fundamentação válida para exigência do exame.
+Pede a concessão da ordem de habeas corpus para dispensar a exigência de exame criminológico no caso concreto, declarando-se a inconstitucionalidade incidenter tantum dos arts. 112, § 1º, e 114, III, da LEP, conforme redação dada pela Lei n. 14.843/2024, ou, subsidiariamente, conferindo interpretação conforme a Constituição para exigir fundamentação concreta na determinação judicial de submissão ao exame criminológico, nos termos da Súmula Vinculante n. 26 (fls. 2/21).
+Em 12/9/2025, indeferi o pedido liminar (fls. 100/101).
+Prestadas as informações (fls. 107/108), o Ministério Público Federal opinou, às fls. 121/124, pelo não conhecimento da impetração.
+É o relatório.
+Esta Corte Superior possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir ou ainda a reincidência são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+Especificamente, em relação ao § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, a Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+No caso, é nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para impor a realização de exame criminológico, mas apenas a alegada obrigatoriedade de prévia realização de exame criminológico como requisito para a progressão de regime, após a Lei n. 14.843/2024 (fls. 50/51), o que não encontra amparo na jurisprudência deste Superior Tribunal.
+Ante o exposto, concedo a ordem para afastar a exigência de realização do exame criminológico, determinando a imediata análise do pedido de progressão de regime.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
