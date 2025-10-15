@@ -1,0 +1,178 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Joel Ilan Paciornik, Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito Processual Penal. Embargos de Declaração. Execução de Pena de Multa. Legitimidade Subsidiária da Fazenda Pública. ausência de omissão e ambiguidade. Embargos Rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos pela Fazenda Nacional contra acórdão da Quinta Turma que reconheceu a legitimidade subsidiária da Procuradoria da Fazenda Nacional para a execução da pena de multa criminal, em caso de inércia do Ministério Público.
+2. A embargante alega ambiguidade e omissão quanto à incidência do art. 51 do Código Penal, com redação dada pela Lei n. 13.964/2019, que estabelece a competência exclusiva das varas de execução penal para a execução da multa criminal.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) a existência de omissão ou de ambiguidade no acórdão embargado quanto à competência exclusiva das varas de execução penal para a execução da multa criminal; e (ii) a possibilidade de análise de dispositivos constitucionais para prequestionamento da matéria.
+III. Razões de decidir
+4. Os embargos de declaração apresentam fundamentação vinculada, sendo cabíveis apenas para sanar ambiguidade, obscuridade, contradição ou omissão, conforme o art. 619 do Código de Processo Penal.
+5. Não há omissão ou ambiguidade no acórdão embargado, que apreciou integralmente as questões necessárias à solução da lide, embora de forma contrária ao pretendido pela embargante.
+6. O órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas apenas sobre aqueles necessários ao deslinde da controvérsia.
+7. A jurisprudência consolidada do Superior Tribunal de Justiça afirma que a legitimidade do Ministério Público para a execução da pena de multa é prioritária, mas não exclusiva, permitindo a atuação subsidiária da Fazenda Pública em caso de inércia do Parquet.
+8. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração não se prestam para revisão de mérito por mero inconformismo.
+2. O Superior Tribunal de Justiça não pode examinar matéria constitucional, ainda que para prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Dispositivos relevantes citados: Código de Processo Penal, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no AREsp n. 669.505/RN, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/8/2015; STJ, EDcl no AgRg no AREsp n. 2.720.362/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJEN de 29/4/2025; STJ, EDcl no AgRg no HC n. 864.422/SP, Rel. Min. Og Fernandes, Sexta Turma, DJe de 10/10/2024.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra acórdão da Quinta Turma, assim ementado:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE PENA DE MULTA. LEGITIMIDADE. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pela Fazenda Nacional contra decisão monocrática que deu provimento ao recurso especial do Ministério Público Federal para que, ante sua inércia em promover a execução da pena de multa, seja oportunizada à Procuradoria da Fazenda Nacional a adoção de medidas pertinentes à execução da sanção pecuniária.
+2. A Fazenda Nacional pleiteia o sobrestamento do feito em razão da pendência do julgamento do Tema n. 1.219/STF, ou a reforma da decisão a fim de se reconhecer a legitimação exclusiva do Ministério Público para a execução da multa.
+II. Questão em discussão
+3. Uma questão em discussão trata da necessidade de sobrestamento do processo devido à repercussão geral reconhecida pelo STF no Tema n. 1.219.
+4. Outra questão consiste em saber se a legitimidade para execução da pena de multa criminal é exclusiva do Ministério Público ou se, em caso de sua inércia, a Fazenda Pública detém legitimidade subsidiária.
+III. Razões de decidir
+5. O Supremo Tribunal Federal, ao reconhecer a repercussão geral no RE n. 1.377.843/PR (Tema n. 1.219/STF), não determinou o sobrestamento dos processos ainda pendentes de julgamento sobre o tema, razão pela qual podem ser apreciados pelo Superior Tribunal de Justiça.
+6. No julgamento da ADI n. 3.150/DF, o STF afirmou que: (i) a redação dada pela Lei n. 9.268/1996 ao art. 51 da LEP não alterou o caráter de sanção criminal da multa penal, de modo que, se não for paga nos 10 dias após o trânsito em julgado da sentença (art. 50 do CP), sua execução será movida prioritariamente pelo Ministério Público no Juízo das Execuções Penais, observados os arts. 164 e seguintes da LEP; (ii) se devidamente intimado o Parquet não agir no prazo de 90 dias, a advocacia da Fazenda Pública será legitimada subsidiariamente para a execução fiscal da multa na Vara das Execuções Fiscais, pois se trata também de "dívida de valor".
+7. Esse entendimento continuou intacto após a vigência da Lei n. 13.964/2019, que confere ao art. 51 do CP sua redação atual.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. Os processos relacionados ao Tema n. 1.219/STF não devem ser sobrestados, podendo ser apreciados pelo STJ. 2. Após a nova redação dada ao art. 51 do CP pela Lei n. 13.964/2019, a Fazenda Nacional continuou legitimada de forma subsidiária para a execução de pena de multa ante a inércia do Parquet (legitimado prioritário).".
+Dispositivos relevantes citados: Código Penal, art. 51.
+Jurisprudência relevante citada: STJ, AgRg no AREsp n. 2.695.983/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/9/2024; STJ, AgRg no AREsp n. 2.096.601/RS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe de 24/8/2022; STJ, EDcl no AgRg no HC n. 441.809/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe de 16/4/2021; STJ, EDcl no AgRg no REsp n. 1.806.025/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe de 5/11/2019; STF, ADI n. 3.150/DF, Rel. originário Min. Marco Aurélio, Rel. para acórdão Min. Luís Roberto Barroso, Tribunal Pleno, DJe-170 publicado em 6/8/2019." (e-STJ, fls. 208-209).
+Em suas razões, a embargante alega ambiguidade e omissão quanto à incidência da norma de competência absoluta fixada pelo art. 51 do CP, com a redação dada pela Lei n. 13.964/2019, o qual estabelece que, ""transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal", não sendo mais possível sua execução perante as varas da fazenda pública." (e-STJ, fl. 226).
+Dessa forma, sustenta que o único legitimado para titular a execução da multa criminal perante o Juízo das Execuções Penais é o Ministério Público. Aduz que não há mais espaço para a competência de ambas as instituições.
+Defende que houve ofensa ao princípio da legalidade (art. 5º, II, 37, caput, da CR/1988). Argumenta, ainda, omissão quanto à violação do art. 129, I, da CR/1988.
+Requer, ao final, o acolhimento dos embargos de declaração, a fim de que este Órgão Colegiado se manifeste sobre: (i) a omissão quanto à competência exclusiva e absoluta, em razão da matéria, das varas de execução penal para a execução das penas de multa; (ii) a ambiguidade ao admitir a atribuição subsidiária da Procuradoria da Fazenda Nacional para a execução das multas penais ao tempo em que reconhece a competência exclusiva da Vara de Execução Penal; (iii) a omissão quanto à violação aos arts. 5º, II; 37, caput, e 129, I da Constituição da República, para fins de prequestionamento.
+É o relatório.
+EMENTA
+Direito Processual Penal. Embargos de Declaração. Execução de Pena de Multa. Legitimidade Subsidiária da Fazenda Pública. ausência de omissão e ambiguidade. Embargos Rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos pela Fazenda Nacional contra acórdão da Quinta Turma que reconheceu a legitimidade subsidiária da Procuradoria da Fazenda Nacional para a execução da pena de multa criminal, em caso de inércia do Ministério Público.
+2. A embargante alega ambiguidade e omissão quanto à incidência do art. 51 do Código Penal, com redação dada pela Lei n. 13.964/2019, que estabelece a competência exclusiva das varas de execução penal para a execução da multa criminal.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) a existência de omissão ou de ambiguidade no acórdão embargado quanto à competência exclusiva das varas de execução penal para a execução da multa criminal; e (ii) a possibilidade de análise de dispositivos constitucionais para prequestionamento da matéria.
+III. Razões de decidir
+4. Os embargos de declaração apresentam fundamentação vinculada, sendo cabíveis apenas para sanar ambiguidade, obscuridade, contradição ou omissão, conforme o art. 619 do Código de Processo Penal.
+5. Não há omissão ou ambiguidade no acórdão embargado, que apreciou integralmente as questões necessárias à solução da lide, embora de forma contrária ao pretendido pela embargante.
+6. O órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas apenas sobre aqueles necessários ao deslinde da controvérsia.
+7. A jurisprudência consolidada do Superior Tribunal de Justiça afirma que a legitimidade do Ministério Público para a execução da pena de multa é prioritária, mas não exclusiva, permitindo a atuação subsidiária da Fazenda Pública em caso de inércia do Parquet.
+8. Não cabe ao Superior Tribunal de Justiça manifestar-se sobre dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. Os embargos de declaração não se prestam para revisão de mérito por mero inconformismo.
+2. O Superior Tribunal de Justiça não pode examinar matéria constitucional, ainda que para prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Dispositivos relevantes citados: Código de Processo Penal, art. 619.
+Jurisprudência relevante citada: STJ, EDcl no AgRg no AREsp n. 669.505/RN, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/8/2015; STJ, EDcl no AgRg no AREsp n. 2.720.362/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJEN de 29/4/2025; STJ, EDcl no AgRg no HC n. 864.422/SP, Rel. Min. Og Fernandes, Sexta Turma, DJe de 10/10/2024.
+VOTO
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Inicialmente, cumpre ressaltar que os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+ ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp n. 669.505/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2015, DJe de 25/8/2015).
+No caso dos autos, à toda evidência, não se vislumbra omissão ou ambiguidade, conforme quer fazer crer o embargante. Ao contrário, verifica-se que o acórdão ora embargado apreciou integral e satisfatoriamente todas as questões necessárias à solução da lide, embora o tenha feito de modo contrário ao pretendido.
+Para corroborar tal assertiva, vale transcrever o inteiro teor do voto condutor:
+"Preliminarmente, cumpre ressaltar que "o Supremo Tribunal Federal, quando do reconhecimento da repercussão geral no RE n. 1.377.843/PR (Tema n. 1.219/STF), não determinou o sobrestamento imediato dos processos ainda pendentes de julgamento e, por via de consequência, não há óbice à apreciação do presente feito pelo Superior Tribunal de Justiça (AgRg no RMS n. 71.319/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/6/2023, DJe de 30/6/2023.). Precedentes." (AgRg no AREsp n. 2.695.983/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/9/2024, DJe de 24/9/2024).
+De fato, até o ano de 1996, a redação dada pela Lei n. 7.209/1984 ao art. 51 do Código Penal permitia que a pena de multa viesse a ser convertida em pena de detenção caso o condenado solvente deixasse de pagá-la ou frustrasse a sua execução.
+Com a redação dada ao art. 51 do CP pela Lei n. 9.268/1996, proibiu-se a conversão da multa em detenção e, além disso, permitiu-se que a pena de multa venha a assumir a qualidade de dívida de valor:
+"Art. 51. Transitada em julgado a sentença condenatória, a multa será considerada dívida de valor, aplicando-se-lhes as normas da legislação relativa à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição." (Redação dada pela Lei nº 9.268, de 1º/4/1996, grifou-se)
+A respeito dessa redação, o Supremo Tribunal Federal, no julgamento da ADI n. 3.150/DF, afirmou que, com a vigência da Lei n. 9.268/1996, a multa penal não perdeu o seu caráter de sanção criminal, razão pela qual, caso não seja paga dentro de 10 dias depois do trânsito em julgado da sentença (art. 50 do CP), (i) deverá ser executada prioritariamente pelo Ministério Público perante o Juízo das Execuções Penais, observado o procedimento descrito pelos arts. 164 e seguintes da LEP. Na ocasião, assentou-se que, (ii) apenas se o Parquet, devidamente intimado, deixar de propor a execução da multa no prazo de 90 dias, poder-se-á, por também se tratar de "dívida de valor", admitir a legitimidade (subsidiária) da advocacia da Fazenda Pública para a execução fiscal da multa, em Vara das Execuções Fiscais. Veja:
+"EXECUÇÃO PENAL. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PENA DE MULTA. LEGITIMIDADE PRIORITÁRIA DO MINISTÉRIO PÚBLICO. NECESSIDADE DE INTERPRETAÇÃO CONFORME. PROCEDÊNCIA PARCIAL DO PEDIDO.
+1. A Lei nº 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal, que lhe é inerente por força do art. 5º, XLVI, c, da Constituição Federal.
+2. Como consequência, a legitimação prioritária para a execução da multa penal é do Ministério Público perante a Vara de Execuções Penais.
+3. Por ser também dívida de valor em face do Poder Público, a multa pode ser subsidiariamente cobrada pela Fazenda Pública, na Vara de Execução Fiscal, se o Ministério Público não houver atuado em prazo razoável (90 dias).
+4. Ação direta de inconstitucionalidade cujo pedido se julga parcialmente procedente para, conferindo interpretação conforme à Constituição ao art. 51 do Código Penal, explicitar que a expressão "aplicando-se-lhes as normas da legislação relativa à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição", não exclui a legitimação prioritária do Ministério Público para a cobrança da multa na Vara de Execução Penal. Fixação das seguintes teses: (i) O Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; (ii) Caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 (noventa) dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei 6.830/1980."
+(ADI n. 3.150/DF, Rel. originário Min. Marco Aurélio, Rel. para acórdão Min. Roberto Barroso, Tribunal Pleno, julgado em 13/12/2018, DJe-170 publicado em 6/8/2019).
+Ademais, em 2019, pelo menos parte do entendimento firmado no julgamento da ADI n. 3.150/DF parece ter sido referendada pela redação dada ao art. 51 do Código Penal pela Lei n. 13.964/2019:
+"Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição." (Redação dada pela Lei n. 13.964, de 2019, grifou-se) (Vide ADI n. 7032)
+No Superior Tribunal de Justiça, ambas as Turmas as quais integram a Terceira Seção - superando o entendimento até então vigente no STJ, descrito na Súmula n. 521 do STJ - curvaram-se à orientação da Suprema Corte:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PENA DE MULTA. NATUREZA JURÍDICA. DÍVIDA DE VALOR. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. ENTENDIMENTO SUPERADO. ADI 3.150/DF - STF. NATUREZA DE SANÇÃO PENAL. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado, ou, ainda, segundo a jurisprudência e doutrina, corrigir eventual erro material.
+2. No julgamento do Recurso Especial 1.519.777/SP, sob a égide do art. 543-C do Código de Processo Civil de 1973, a Terceira Seção deste Superior Tribunal havia firmado o entendimento de que, "após a nova redação do art. 51 do CP, dada pela Lei 9.268/1996, a pena pecuniária é considerada dívida de valor e, desse modo, possui caráter extrapenal, de forma que sua execução é de competência exclusiva da Procuradoria da Fazenda Pública".
+3. Todavia, o Supremo Tribunal Federal, ao julgar a ADI n. 3.150/DF, em 13/12/2018, declarou que, à luz do preceito estabelecido pelo art. 5º, XLVI, da Constituição Federal, a multa, ao lado da privação de liberdade e de outras restrições - perda de bens, prestação social alternativa e suspensão ou interdição de direitos -, é espécie de pena aplicável em retribuição e em prevenção à prática de crimes, não perdendo, assim sua natureza de sanção penal.
+4. Acórdão proferido pelo Tribunal de Justiça em dissonância com o novel entendimento fixado pelo STF no julgamento da ADI n. 3.150/DF, motivo pelo qual deve ser reformado.
+5. Embargos de declaração acolhidos, com efeitos infringentes para, adotando a nova orientação firmada pelos Tribunais Superiores, anular o acórdão embargado e determinar ao eg. Tribunal de Justiça do Estado de São Paulo que analise o mérito do pedido de indulto da pena de multa, nos autos do Agravo n. 9000128-18.2017.8.26.0050, afastado, portanto, o entendimento de que a pena pecuniária seria somente dívida de valor e sua cobrança de competência exclusiva da Fazenda Pública."
+(EDcl no AgRg no HC n. 441.809/SP, de minha relatoria, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021).
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CUMPRIMENTO INTEGRAL DA PENA PRIVATIVA DE LIBERDADE. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. INVIABILIDADE. LEGITIMIDADE PRIORITÁRIA DO MP PARA EXECUÇÃO DA PENA DE MULTA. CARÁTER DE SANÇÃO CRIMINAL RECONHECIDO PELO STF NA ADI 3150/DF (DJE 6/8/2019). EFEITO VINCULANTE. RESTABELECIMENTO DO ACÓRDÃO DO AGRAVO EM EXECUÇÃO PENAL N. 7006377-53.2016.8.26.0050.
+1. O Supremo Tribunal Federal, ao julgar a ADI n. 3.150/DF, declarou que, à luz do preceito estabelecido pelo art. 5º, XLVI, da Constituição, a multa, ao lado da privação de liberdade e de outras restrições - perda de bens, prestação social alternativa e suspensão ou interdição de direitos -, é espécie de pena aplicável em retribuição e em prevenção à prática de crimes.
+2. O Ministério Público tem legitimidade, ainda que não exclusiva, mas prioritária, para cobrar a multa decorrente de condenação criminal transitada em julgado. A legitimidade da Fazenda Pública para propor execução fiscal é subsidiária, dependendo da hesitação do órgão ministerial dentro de prazo, foi fixado em 90 dias contados a partir da intimação para a execução da reprimenda.
+3. O Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, observado o procedimento descrito pelos artigos 164 e seguintes da Lei de Execução Penal; (ii) Caso o titular da ação penal, devidamente intimado, não proponha a execução da multa no prazo de 90 (noventa) dias, o Juiz da execução criminal dará ciência do feito ao órgão competente da Fazenda Pública (Federal ou Estadual, conforme o caso) para a respectiva cobrança na própria Vara de Execução Fiscal, com a observância do rito da Lei 6.830/1980. (ADI n. 3150, Ministro Marco Aurélio, Relator p/ Acórdão Ministro Roberto Barroso, Tribunal Pleno, DJe 6/8/2019).
+4. O Supremo Tribunal Federal, no julgamento da ADI n. 3.150/DF, ocorrido em 13/12/2018, firmou o entendimento de que "a Lei n. 9.268/96, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal que lhe é inerente por força do art. 5º, XLVI, c, da CF. Como consequência, por ser uma sanção criminal, a legitimação prioritária para a execução da multa penal é do Ministério Público perante a Vara de Execuções Penais" (CC n. 165.809/PR, Ministro Antônio Saldanha Palheiro, Terceira Seção, DJe 23/8/2019).
+5. As declarações de constitucionalidade ou de inconstitucionalidade, são dotadas de eficácia contra todos e efeito vinculante em relação aos órgãos do Poder Judiciário. Portanto, fixada a interpretação constitucional do tema pelo Pretório Excelso, no exercício de controle concentrado, impõe-se a superação da jurisprudência desta Corte Superior que há pouco decidia pela ilegitimidade do Ministério Público para a execução da pena de multa.
+6. O Tribunal paulista dispôs que embora o art. 51 do Código Penal, com a redação dada pela Lei n. 9.268/1996, disponha que, após o trânsito em julgado da sentença condenatória, a multa será considerada dívida de valor, aplicando-se a ela legislação relativa à Fazenda Pública, ela não perdeu o seu caráter penal, permanecendo inalterados os efeitos decorrentes da condenação, razão pela qual é o Juízo das Execuções Criminais o competente para apreciação do pedido de indulto da multa inadimplida.  ..  Quanto ao pedido de extinção da punibilidade do agravante, independentemente do pagamento da pena pecuniária, melhor sorte não assiste à douta Defesa.  ..  Realmente, dispõe o artigo 51 do Código Penal, com a redação dada pela Lei n. 9.268/1996, que, após o trânsito em julgado da sentença condenatória, a multa será considerada dívida de valor, devendo ser aplicada com relação a ela a legislação relativa à Fazenda Pública.  ..  Entretanto, mesmo sendo considerada dívida de valor, a pena de multa, como já mencionado, não perdeu seu caráter penal, permanecendo inalterados os efeitos decorrentes da condenação, com o que não se pode falar em extinção da punibilidade da pena de multa pelo não pagamento.
+7. As razões colacionadas pelo Tribunal de Justiça de São Paulo estão em conformidade com o novo entendimento fixado pelo Supremo Tribunal Federal no julgamento da ADI n. 3.150/DF, motivo pelo qual devem ser mantidos.
+8. Embargos de declaração acolhidos para negar provimento ao recurso especial."
+(EDcl no AgRg no REsp n. 1.806.025/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 22/10/2019, DJe de 5/11/2019).
+Ou seja, após a vigência Lei n. 13.964/2019 - que confere ao art. 51 do CP a sua redação atual -, continua intacto o entendimento firmado pelo Supremo Tribunal Federal na ADI n. 3.150/DF.
+Em resumo, caso a pena de multa não seja recolhida no prazo de 10 dias do trânsito em julgado da sentença penal condenatória (art. 50 do CP), (i) prioritariamente, o Ministério Público deverá executá-la perante o Juízo das Execuções Penais, observado o procedimento descrito pelos arts. 164 e seguintes da LEP; e, (ii) somente se o Parquet, devidamente intimado, deixar de propor a execução da multa no prazo de 90 dias, poder-se-á admitir a legitimidade (subsidiária) da advocacia da Fazenda Pública para a execução fiscal da multa, em Vara das Execuções Fiscais.
+Desse modo, se o Ministério Público deixou de ajuizar, perante o Juízo da Execução, a execução da pena de multa no prazo de 90 dias - como ocorreu no caso aqui examinado -, caberá à advocacia da Fazenda Pública o exercício da sua legitimidade, ainda que subsidiária, para a cobrança da sanção pecuniária.
+Nessa conjuntura, aliás, tive a oportunidade de ressaltar que, "mesmo após a alteração decorrente da nova redação do art. 51 do Código Penal pela Lei 13.964/2019, a Fazenda Pública mantém a competência subsidiária para execução dos respectivos valores"" (AgRg no AREsp n. 2.096.601/RS, de minha relatoria, Quinta Turma, julgado em 16/8/2022, DJe de 24/8/2022).
+No mesmo sentido:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE PENA DE MULTA. LEGITIMIDADE SUBSIDIÁRIA DA FAZENDA PÚBLICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pela Fazenda Nacional contra decisão que negou provimento a recurso especial, mantendo a legitimidade subsidiária da Fazenda Pública para execução de pena de multa criminal, em caso de inércia do Ministério Público.
+2. A decisão agravada baseou-se na jurisprudência do STJ, que reconhece a legitimidade prioritária do Ministério Público para execução da multa, mas não exclusiva, permitindo a atuação da Fazenda Pública de forma subsidiária.
+3. A Fazenda Nacional pleiteia o sobrestamento do feito em razão da repercussão geral reconhecida pelo STF no Tema n. 1219, ou, alternativamente, a reforma da decisão para reconhecer a exclusividade do Ministério Público na execução da multa.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a legitimidade para execução da pena de multa criminal é exclusiva do Ministério Público ou se a Fazenda Pública possui legitimidade subsidiária em caso de inércia do Parquet.
+III. Razões de decidir
+5. A jurisprudência do STJ estabelece que a legitimidade do Ministério Público para execução da pena de multa é prioritária, mas não exclusiva, permitindo a atuação subsidiária da Fazenda Pública.
+6. A pendência de julgamento pelo STF sobre a repercussão geral do Tema n. 1219 não implica o sobrestamento de recursos especiais no STJ.
+7. A decisão do Tribunal de origem está em consonância com o entendimento do STJ, que mantém a legitimidade subsidiária da Fazenda Pública após a vigência da Lei 13.964/2019.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A legitimidade do Ministério Público para execução da pena de multa é prioritária, mas não exclusiva, permitindo a atuação subsidiária da Fazenda Pública. 2. A pendência de julgamento de tema com repercussão geral no STF não implica sobrestamento de recursos especiais no STJ."
+Dispositivos relevantes citados: Código Penal, art. 51; Lei de Execução Penal, art. 164.
+Jurisprudência relevante citada: STJ, AgRg no RMS n. 71.319/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/6/2023, DJe de 30/6/2023; STJ, AgRg no AREsp n. 2.222.146/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023."
+(AgRg no REsp n. 2.141.372/RN, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2024, DJe de 25/11/2024).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DA PENA DE MULTA. LEGITIMIDADE PRIORITÁRIA DO MINISTÉRIO PÚBLICO. LEGITIMIDADE SUBSIDIÁRIA DA FAZENDA PÚBLICA. ADVENTO DO PACOTE ANTICRIME (LEI N. 13.964/2019). AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão do Tribunal de origem está em consonância com a jurisprudência desta Corte Superior de Justiça no sentido de que, mesmo após a vigência da Lei n. 13.964/2019, perdura a legitimidade subsidiária da Fazenda Pública para a execução da pena de multa, uma vez que a legitimidade do Ministério Público para a cobrança da sanção pecuniária é prioritária e não exclusiva. Precedentes.
+2. Desse modo, é permitido à Fazenda Pública propor a execução da pena de multa subsidiariamente, dependendo da hesitação do órgão ministerial em promover a cobrança dentro do prazo de 90 dias, contados a partir da intimação para a execução da reprimenda.
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 1.937.252/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. REPERCUSSÃO GERAL RECONHECIDA PELO STF SEM A DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS PENDENTES. DESCABIMENTO DA SUSPENSÃO DO JULGAMENTO DO RECURSO PELO STJ. EXECUÇÃO PENAL DA PENA DE MULTA. ART. 51 DO CP, COM A REDAÇÃO DADA PELA LEI N. 13.964/2019. LEGITIMIDADE DO MINISTÉRIO PÚBLICO E, SUBSIDIARIAMENTE, DA FAZENDA PÚBLICA. A GRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal, ao reconhecer a repercussão geral no RE n. 1.377.843/PR (Tema n. 1.219/STF), não determinou o sobrestamento imediato dos processos ainda pendentes de julgamento, motivo pelo qual não há óbice à apreciação do presente feito pelo Superior Tribunal de Justiça.
+2. O acórdão recorrido encontra-se em consonância com a orientação jurisprudencial pacífica do Superior Tribunal de Justiça de que "o Ministério Público é o órgão legitimado para promover a execução da pena de multa, perante a Vara de Execução Criminal, sendo que a Fazenda Pública mantém a competência subsidiária para execução dos respectivos valores, mesmo após a alteração decorrente da nova redação do art. 51 do Código Penal pela Lei 13.964/2019" (AgRg no REsp n. 1.993.920/RS, relator Ministro Jesuíno Rissato  Desembargador convocado do TJDFT , Quinta Turma, DJe de 2/12/2022).
+3. Agravo regimental desprovido."
+(AgRg no RMS n. 71.317/RS, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto." (e-STJ, fls. 214-220).
+Ressalte-se, ademais, que, de acordo com a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre aqueles que entender necessários ao deslinde da controvérsia.
+Por fim, imperioso esclarecer que carece ao Superior Tribunal de Justiça competência para enfrentar suposta ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação do mister do Supremo Tribunal Federal.
+A respeito, anotem-se os seguintes precedentes:
+"DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quinta Turma do Superior Tribunal de Justiça que desproveu agravo regimental.
+2. O embargante alega contradição no julgado, afirmando a desnecessidade de reexame de provas para afastar a decisão de pronúncia e o reconhecimento das qualificadoras do delito, além de omissão quanto à fixação de honorários ao defensor dativo e necessidade de prequestionamento para interposição de recurso extraordinário.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o acórdão embargado apresenta omissão, obscuridade, ambiguidade ou contrariedade que justifique o acolhimento dos embargos de declaração.
+4. A questão também envolve a análise da competência do Superior Tribunal de Justiça para fixação de honorários advocatícios e para o prequestionamento de matéria constitucional.
+III. Razões de decidir
+5. O acórdão embargado não apresenta omissão, obscuridade, ambiguidade ou contrariedade, tendo as teses sido devidamente analisadas, com aplicação do óbice da Súmula n. 7 do STJ.
+6. A fixação de honorários advocatícios devidos ao advogado dativo, por atuação na fase recursal no âmbito do STJ, é de competência do Estado de origem e deve ser pleiteada naquela instância.
+7. Não compete ao Superior Tribunal de Justiça examinar dispositivos constitucionais para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+8. Os embargos de declaração não se prestam para rediscutir matéria já decidida ou para manifestar mero inconformismo da parte.
+IV. Dispositivo e tese
+9. Embargos de declaração rejeitados.
+Tese de julgamento: ""1. Os embargos de declaração não são cabíveis para rediscutir matéria já decidida. 2. A fixação de honorários advocatícios devidos ao advogado dativo é de competência do Estado de origem. 3. Não compete ao STJ examinar dispositivos constitucionais para prequestionamento visando à interposição de recurso extraordinário".
+Dispositivos relevantes citados: CPP, art. 619; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 1776521/TO, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 24/6/2021; STJ, AgRg no AREsp n. 2.766.924/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025."
+(EDcl no AgRg no AREsp n. 2.720.362/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. A concessão do habeas corpus foi fundamentada, de modo suficiente, na jurisprudência preconizada pelo Superior Tribunal de Justiça.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Não cabe a esta Corte Superior manifestar-se sobre dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+6. Embargos de declaração rejeitados."
+(EDcl no AgRg no HC n. 864.422/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024.)
+Dessa forma, considerando que a decisão embargada foi proferida em consonância com a jurisprudência deste Superior Tribunal de Justiça, forçoso reconhecer a inexistência de vício a ser integrado em sede de embargos.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
