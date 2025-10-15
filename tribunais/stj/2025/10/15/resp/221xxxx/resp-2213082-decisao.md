@@ -1,0 +1,12 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015 (art. 1.036, caput e § 1º), TEMA 1.384, com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AÇÃO POSSESSÓRIA MOVIDA POR CONCESSIONÁRIA DE SERVIÇO PÚBLICO CONTRA PARTICULARES. FAIXA DE DOMÍNIO DE RODOVIA OU FERROVIA. OCUPAÇÕES IRREGULARES. BEM PÚBLICO FEDERAL. UNIÃO, DNIT E/OU ANTT. MANIFESTAÇÃO DE DESINTERESSE NO FEITO. JUÍZO COMPETENTE. DEFINIÇÃO.
+1. A questão submetida ao Superior Tribunal de Justiça consiste em definir se, em ações possessórias movidas por concessionárias contra particulares ocupantes de faixas de domínio de ferrovias ou rodovias federais, a manifestação expressa de desinteresse da União, do DNIT e/ou da ANTT vincula o juízo quanto à fixação da competência, determinando o processamento na Justiça estadual, ou se tais entes podem ser compelidos a integrar a lide contra sua vontade, mantendo-se a competência da Justiça Federal.
+2. Hipótese em que o apelo excepcional interposto é admissível e contém abrangente argumentação e discussão sobre o tema, havendo multiplicidade de recursos sobre o mesmo assunto, tendo sido atendidos os demais requisitos para a afetação.
+3. Delimitação da controvérsia: estabelecer se a União, o DNIT e/ou a ANTT devem obrigatoriamente participar de ações possessórias ajuizadas por concessionárias de serviços públicos federais contra particulares que ocupam faixas de domínio de ferrovias ou rodovias federais, independentemente de sua manifestação de vontade, ou se a declaração de ausência de interesse jurídico por esses entes é suficiente para afastar a competência da Justiça Federal, deslocando o feito para a Justiça estadual.
+4. Afetação de recurso especial repetitivo para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.215.194/DF, relator Ministro Gurgel de Faria, Primeira Seção, j. em 16.9.2025, DJEN de 22.9. 2025 destaque meu.)
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Especial Repetitivo acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
+EMENTA
