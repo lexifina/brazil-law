@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DO DISTRITO FEDERAL - DF, suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE JAÚ - SP, suscitado.
+O Juízo de Direito da 1ª Vara Criminal de Jaú - SP declinou de sua competência para dar andamento a execução de pena sob o entendimento de que essa atribuição caberia ao juízo do local onde estaria preso o sentenciado (fl. 240).
+O Juízo de Direito da Vara de Execuções Penais do Distrito Federal, por sua vez, suscitou o conflito de competência por entender que a mudança voluntária de domicílio do apenado, a prática de novo crime em jurisdição diversa ou mesmo o recolhimento do apenado em localidade diversa daquela originariamente competente para a execução não seriam, por si sós, causas legais para alteração da competência (fls. 283-287).
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da 1ª Vara Criminal de Jaú - SP (fls. 307-309).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Consta dos autos que o custodiado foi condenado pela Justiça de São Paulo por tráfico de drogas e iniciou a execução da pena no Estado de São Paulo. Com a progressão ao regime aberto, evadiu-se para o Distrito Federal, onde foi preso em cumprimento a mandado de prisão.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em Comarca diversa, em cumprimento a mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+No caso dos autos, embora o reeducando tenha sido detido no Distrito Federal, tal fato não desloca a competência para a execução penal, que continua sendo do juízo da condenação, a saber, o Juízo de Direito da 1ª Vara Criminal de Jaú - SP.
+Ante o exposto, conheço do conflito para declarar competente Juízo de Direito da 1ª Vara Criminal de Jaú - SP.
+Publique-se. Intimem-se.
+EMENTA
