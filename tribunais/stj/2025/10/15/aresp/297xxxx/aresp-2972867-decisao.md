@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da aplicação do art. 1.030, I, "b", do CPC e incidência da Súmula n. 7 do STJ (fls. 520-522).
+O acórdão recorrido encontra-se assim ementado (fl. 478):
+APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO CONSIGNADO BENEFÍCIO - RCC. Ação declaratória de inexistência de relação jurídica cumulada com pedidos de repetição de indébito e de indenização por dano moral. Sentença de improcedência. Insurgência do autor. Regularidade da contratação por meio eletrônico. Aceite mediante captura de biometria facial - selfie, apresentação de documento de identificação pessoal, além do registro da geolocalização, endereço IP. Não configurada violação da instrução normativa INSS/PRES nº 28/08 vigente à época da celebração. Desnecessidade de utilização de certificado digital emitido pela ICP Brasil para conferir validade à contratação. Sentença mantida pelos próprios fundamentos, nos termos do artigo 252, do Regimento Interno do Tribunal de Justiça de São Paulo. Litigância de má-fé requerida pelo réu. Reconhecida a conduta prevista no artigo 80, II, do Código de Processo Civil, alterada a verdade dos fatos. Multa fixada em 2% do valor da causa. RECURSO DO AUTOR DESPROVIDO, com aplicação de multa por litigância de má-fé.
+Os embargos de declaração foram rejeitados (fls. 501-505).
+Nas razões do recurso especial (fls. 485-495), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação:
+(i) do art. 429, II, do CPC, porque (fl. 488):
+ ..  determina a inversão do ônus da prova quando o juiz verificar que o consumidor se encontra em posição de hipossuficiência em relação à outra parte, o que claramente ocorre neste caso, em que o Recorrente, aposentado e vulnerável, firmou um suposto contrato eletrônico com uma instituição financeira de grande porte.
+(ii) do art. 4º, II, da Lei n. 14.063/2020, pois "não há prova de que a assinatura eletrônica da Recorrente atende a esses requisitos, pois não foi realizada perícia técnica para aferir sua autenticidade" (fl. 490),
+(iii) do art. 6º, VIII, do CDC, pois (fls. 490-491):
+ ..  o Superior Tribunal de Justic a, ao julgar o Tema 1061, consolidou o entendimento de que quando o consumidor impugna a assinatura aposta em contrato banca"rio, cabe a" instituic a o financeira provar sua autenticidade.
+ ..  o Tribunal de origem desconsiderou completamente a inversa o do o nus da prova, impondo ao Recorrente, um idoso hipossuficiente, o dever de comprovar a na o contratac a o do servic o, o que equivale a" imposic a o de um o nus probato"rio impossível de ser cumprido. Esse entendimento e" manifestamente equivocado e contra"rio a" jurisprude ncia consolidada do STJ, pois na o cabe ao consumidor provar um fato negativo, mas sim a" instituic a o financeira demonstrar a regularidade do nego"cio jurídico alegado.
+(iv) do art. 80, II, do CPC, porque (fl. 491):
+ ..  a multa foi indevidamente aplicada pelo Tribunal de Justic a de Sa o Paulo, que considerou que o Recorrente teria alterado a verdade dos fatos ao negar a contratac a o do carta o consignado, mesmo diante da ause ncia de prova cabal da contratac a o por parte do banco.
+Tal decisa o fere o devido processo legal e o princípio da ampla defesa, pois o mero exercício do direito de ac a o e a impugnac a o de documentos eletro nicos duvidosos na o podem ser confundidos com litiga ncia de ma"-fe". O direito do consumidor de contestar um contrato cuja validade e" questiona"vel na o pode ser punido com sanc a o processual, pois isso configuraria um verdadeiro cerceamento do direito constitucional de acesso a" Justic a.
+No agravo (fls. 525-529), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 532-538).
+É o relatório.
+Decido.
+Conforme o § 2º do art. 1.030 do CPC ("Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021"), compete somente ao Tribunal de origem a análise de eventual distinção entre o precedente formado pelo recurso especial repetitivo e o caso concreto. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+ ..  4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator para Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+A Corte de origem, na sistemática estabelecida pelo legislador para a análise das demandas repetitivas, negou seguimento à insurgência recursal, asseverando que o acórdão anterior está em consonância com a orientação do STJ firmada em recurso repetitivo (Tema n. 1.040 do STJ).
+Portanto, em conformidade com a jurisprudência citada, a matéria relativa ao ônus da prova não foi devolvida a novo exame deste Tribunal Superior, motivo pelo qual não conheço desta parte da irresignação.
+Consta nos autos que o Tribunal de origem assim entendeu (fls. 481-482):
+Resta analisar o pedido de condenação do autor como litigante de má-fé. Afirmado na petição inicial "Sucede, no entanto, que o autor JAMAIS contratou qualquer dos respectivos empréstimos com a instituição ré e também não autorizou que fossem por ela realizados descontos em seu benefício previdenciário." (fls. 2). Em sua manifestação sobre a contestação, de forma genérica, alegou não ter o réu comprovado os fatos.
+Conforme fundamentação da r. sentença e deste voto, há nos autos elementos suficientes a demonstrar a contratação e ciência do autor, donde se dessume haver alterado a verdade dos fatos, conduta prevista no artigo 80, II, do Código de Processo Civil. Sendo litigante de má-fé, deverá arcar o autor com a respectiva multa, ora fixada em 2% do valor atualizado da causa.
+Modificar o entendimento do acórdão impugnado quanto à litigância de má-fé demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo e NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
