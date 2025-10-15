@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. ART. 42 DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DOS ENTORPECENTES. DISCRICIONARIEDADE DO MAGISTRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A exasperação da pena-base em razão da natureza e quantidade das drogas apreendidas constitui circunstância judicial preponderante prevista no art. 42 da Lei n. 11.343/2006, cabendo ao julgador valorar o contexto concreto do delito de forma fundamentada e proporcional.
+2. A dosimetria da pena insere-se na discricionariedade do magistrado, sendo passível de revisão em recurso especial apenas em casos de manifesta ilegalidade ou flagrante desproporcionalidade, não sendo possível o reexame das circunstâncias concretas do delito por implicar incursão no acervo fático-probatório, vedada pela Súmula 7/STJ.
+3 . Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão monocrática de fls. 447/448 que conheceu do agravo para não conhecer do recurso especial interposto contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO.
+Sustenta o agravante (fls. 452/461), nas razões do regimental, em síntese: a) que a decisão se distanciou da pacífica orientação desta Corte Superior quanto à matéria; b) que a quantidade de 7,325 kg de entorpecentes (sendo 5,475 kg de maconha, 1,740 kg de skunk e 110 g de haxixe) é expressiva e atrai a incidência da circunstância judicial preponderante prevista no art. 42 da Lei n. 11.343/2006; c) que não há discricionariedade do julgador para aplicação ou não da circunstância judicial preponderante; e d) que o recurso especial não encontra óbice na Súmula 7/STJ, pois se trata de critério quantitativo certo e determinado.
+Requer, por fim, a reconsideração da decisão monocrática ou o provimento do agravo regimental para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. ART. 42 DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DOS ENTORPECENTES. DISCRICIONARIEDADE DO MAGISTRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A exasperação da pena-base em razão da natureza e quantidade das drogas apreendidas constitui circunstância judicial preponderante prevista no art. 42 da Lei n. 11.343/2006, cabendo ao julgador valorar o contexto concreto do delito de forma fundamentada e proporcional.
+2. A dosimetria da pena insere-se na discricionariedade do magistrado, sendo passível de revisão em recurso especial apenas em casos de manifesta ilegalidade ou flagrante desproporcionalidade, não sendo possível o reexame das circunstâncias concretas do delito por implicar incursão no acervo fático-probatório, vedada pela Súmula 7/STJ.
+3 . Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a irresignação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+O Tribunal de origem deixou de aumentar a pena-base com base no art. 42 da Lei n. 11.343/2006 com os seguintes fundamentos (fl. 300):
+De ver que, conforme a denúncia, dos 7,325kg da substância apreendida, 5,475kg era de maconha (3/4 do total), sendo apenas 1,740kg de skank e 110g de haxixe. Tal volume de entorpecente, especialmente a vista da proporção descrita, não justifica a exasperação da pena com fundamento na quantidade da droga, circunstância preponderante prevista na Lei de Drogas (art. 42).
+Conforme consignado na decisão agravada, não se mostra possível mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa. A lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, sendo assim, o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido.
+No caso concreto, a decisão originária foi fundamentada de forma idônea, com base em elementos dos autos, valorados na esfera de seu juízo discricionário, considerando o contexto concreto do delito. Ao contrário do que aduz o recorrente, a quantidade não é expressiva o suficiente para ensejar a reforma nesta instância, em especial diante do fato apontado pelo Tribunal de origem de que apenas uma minoria do entorpecente apreendido possuía uma qualidade mais deletéria (haxixe e skunk).
+Por conseguinte, mostra-se inviável, na via estreita do recurso especial, proceder à revisão do juízo discricionário exercido pelas instâncias ordinárias, por implicar reexame do acervo fático-probatório dos autos, providência expressamente vedada pela Súmula 7/STJ.
+A jurisprudência desta Corte Superior reconhece que a dosimetria da pena constitui atividade discricionária do magistrado, sujeita à revisão apenas em hipóteses de flagrante ilegalidade ou manifesta desproporcionalidade. No caso, não se vislumbra qualquer ilegalidade ou desproporcionalidade na fundamentação adotada pelo Tribunal de origem. Sobre este ponto, conferir: AgRg no REsp n. 2.014.605/SC, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN 8/9/2025.
+Diante do exposto, nego provimento ao agravo regimental.
