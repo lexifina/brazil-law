@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VANDERLEI DE SOUSA CARVALHO contra a decisão do Tribunal de Justiça do Estado do Tocantins que inadmitiu recurso especial fundamentado no art. 105, III, alínea a, da Constituição Federal, no qual se apontou contrariedade ao art. 413, § 1º, do Código de Processo Penal e art. 93, IX, da Constituição Federal.
+Na origem, objetiva a defesa a anulação da decisão de pronúncia sob a alegação de excesso de linguagem e ofensa ao dever de fundamentação das decisões judiciais.
+O Tribunal de origem não admitiu o recurso especial com base na inadequação do recurso especial para análise de matéria constitucional e na Súmula 83/STJ.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 138/140).
+É o relatório.
+O agravo não comporta conhecimento.
+Verifica-se que o agravante, em suas razões recursais, não impugnou de forma específica e adequada todos os fundamentos da decisão agravada. O agravante não se desincumbiu de impugnar a inviabilidade de apreciação, no recurso especial, de alegada violação de princípios ou regras constitucionais, uma vez que o exame das matérias é de competência do Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna.
+De outro lado, quando o inconformismo excepcional não é admitido pela instância ordinária com escoro no entendimento desta Corte, compete ao agravante indicar precedentes contemporâneos ou supervenientes aos referidos na decisão agravada para demonstrar que outra é a orientação jurisprudencial prevalente neste Superior Tribunal, ou mesmo, que cada um daqueles precedentes que embasaram a decisão não possuem pertinência com o caso posto em discussão.
+De acordo com o princípio da dialeticidade recursal, são inadmissíveis os recursos com alegações genéricas, com alegações dissociadas do conteúdo da decisão recorrida, que façam a impugnação de apenas parte dos fundamentos do ato recorrido, ou que se limitem a reiterar ou reproduzir alegações anteriores. Em todas estas hipóteses, resta ausente a dialeticidade recursal, inviabilizando o conhecimento do recurso.
+Constata-se que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta do fundamento empregado pela Corte a quo para não admitir o recurso especial, atraindo a incidência da Súmula 182/STJ, que dispõe: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, o entendimento consolidado desta Corte:
+A ausência de impugnação específica aos fundamentos da decisão agravada imp ede o conhecimento do recurso.  ..  Esta Corte firmou o entendimento de que, quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg no AREsp 1.777.305/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021).
+Assim, não tendo o agravante indicado jurisprudência que demonstrasse a divergência de entendimento entre o Tribunal de origem e esta Corte Superior, não se desincumbiu do ônus de impugnar especificamente todos os fundamentos da decisão impugnada.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, d o RISTJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCESSO DE LINGUAGEM. AUSÊNCIA DE MOTIVAÇÃO. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
