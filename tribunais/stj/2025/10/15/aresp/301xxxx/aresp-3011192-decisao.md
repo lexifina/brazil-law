@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AMAKHA PARIS COMÉRCIO DE PRODUTOS DE PERFUMARIA LTDA., AMK INTERMEDIAÇÕES DE NEGÓCIOS LTDA. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/5/2025.
+Concluso ao gabinete em: 24/9/2025.
+Ação: de indenização por danos morais, lucros cessantes c/c obrigação de fazer e pagar.
+Sentença: julgou improcedentes os pedidos autorais, com resolução de mérito. (e-STJ fl. 343).
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela parte agravada, nos termos da seguinte ementa (e-STJ fl. 385):
+Ação cominatória e indenizatória - Contrato para revenda de produtos da marca "Amakha Paris" Bloqueio do acesso do autor à plataforma digital, em virtude do inadimplemento da parte autora - Decreto de improcedência - Cerceamento de defesa inocorrente - Inutilidade da colheita de prova oral diante do teor da demanda - Questão preliminar rejeitada - Atividade de "marketing" multinível - Comprovação da infração contratual noticiada pelas rés - Exclusividade desrespeitada pelo autor - Reativação de acesso e indenizações corretamente indeferidas - Retenção indevida, no entanto, de valores referentes ao pagamento de taxa obrigatória e "bônus de liderança" - Falta de impugnação do alegado na petição inicial, não sendo apresentados comprovantes de pagamentos - Procedência parcial da ação - Sucumbência recíproca - Apelo parcialmente provido.
+1º Embargos de Declaração: opostos pela agravante, foram parcialmente acolhidos, nos termos da seguinte ementa (e-STJ fl. 415):
+Embargos de declaração - Acórdão - Omissão inexistente - Ausência da interposição de recurso pelos embargantes - Questão preliminar de incompetência do Juízo rejeitada em primeira instância, operado trânsito em julgado quanto ao respectivo capítulo da sentença - Honorários advocatícios - Reciprocidade da sucumbência - Arbitramento da verba honorária recomposto - Descabimento da aplicação da multa prevista no art. 1.026, § 2º do CPC/2015 proposta pela parte embargada - Embargos acolhidos parcialmente.
+2º Embargos de Declaração: opostos pela parte agravada , foram parcialmente acolhidos apenas para sanar erro material, sem alteração do resultado do julgamento. (e-STJ fl. 431)
+3º Embargos de Declaração: opostos pela agravante, foram rejeitados (e-STJ fl. 439).
+Recurso especial: alega violação dos arts. 42 e 485, VII, 1.022, II, do CPC, bem como do art. 8º, parágrafo único, e art. 20, parágrafos 1º e 2º, da Lei 9.307/1996 (Lei de Arbitragem). Além de negativa de prestação jurisdicional, sustenta que houve omissão do acórdão sobre cláusula compromissória contratual suscitada na contestação e nas contrarrazões, pois a convenção de arbitragem não foi observada no que tange a competência do juízo arbitral. Defende a extinção do processo sem julgamento do mérito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da inaplicabilidade da convenção de arbitragem na presente hipótese, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Nesse sentido, confiram-se as razões extraídas do acórdão integrativo (e-STJ fls. 440-441):
+Em relação à questão preliminar atinente à falta de jurisdição estatal para a apreciação do litígio, repete-se que a omissão apontada pelas embargantes não está configurada.
+Neste ponto, a fundamentação adotada foi explicita e merece ser reproduzido o seguinte trecho do acórdão embargado:
+"As ora embargantes, conforme constou no relatório do acórdão, em contestação, invocaram cláusula compromissória inserida no contrato celebrado (fls. 185/208).
+Essa questão preliminar, porém, foi rejeitada pela sentença apelada, "uma vez que a cláusula 30 do contrato em verdade apenas estabelece o foro de eleição para execução de sentença arbitral, títulos executivos extrajudiciais e medidas de urgência que sejam necessárias, conforme expressamente constou, mas não inclui a presente causa, em que se objetiva a discussão contratual, em fase de conhecimento" (fls. 341) e as ora embargadas, ao contrário do ora embargado, resignadas, não recorreram da sentença, de maneira que, sobre a matéria, descaberia qualquer pronunciamento desta Corte.
+Há de ser ressaltado, ademais, que, em suas contrarrazões, as embargantes afirmaram que "o Douto Juízo "a quo" corretamente julgou totalmente improcedentes os pedidos da exordial, tendo em vista a manifesta ausência de fundamentos fáticos e jurídicos capazes de ensejar o deferimento das pretensões" (fls. 381), operado trânsito em julgado quanto ao capítulo da sentença atinente à questão preliminar em apreço." (fls. 416/417)
+Soma-se que, diante do princípio da eventualidade, ajuizado recurso pela parte contrária, cabia às embargantes, se entendessem conveniente, recorrerem também, atacando o capítulo da sentença em que foi rejeitada enfocada questão preliminar, mas optaram por não o fazer. A rejeição da questão preliminar, observado o disposto no artigo 507 do atual CPC, se tornou definitiva e, neste ponto, uma reapreciação é incabível, não atingida matéria abrangida pela ordem pública.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere a alegada incompetência do Juízo em razão da existência de uma cláusula compromissória de renúncia da jurisdição estatal, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da condenação (e-STJ fls. 417) para 14% (quatorze por cento) .
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação indenizatória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
