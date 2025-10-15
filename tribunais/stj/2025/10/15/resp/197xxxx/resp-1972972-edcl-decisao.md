@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CISA Trading Sociedade Anônima (CISA Trading S/A) contra decisão de fls. 515/520, em que conheci do recurso especial da Fazenda Nacional e dei-lhe provimento para julgar improcedente a ação, com inversão dos ônus sucumbenciais.
+A parte embargante alega erro material, sustentando que houve adoção de premissa fática equivocada, pois o Tribunal de origem não teria autorizado a exclusão de bonificações sem comprovação/destaque em notas fiscais, tendo apenas reconhecido a natureza incondicional das bonificações com remessa da comprovação dos recolhimentos à liquidação de sentença.
+Afirma omissão quanto: (a) à análise d e mérito sobre a natureza das bonificações e a demonstração de violação dos dispositivos das Leis 10.637/2002 e 10.833/2003, que tratam dos descontos incondicionais; e (b) aos motivos pelos quais não foram aplicadas as Súmulas 5 e 7 do STJ, dado que a apreciação do recurso da Fazenda Nacional demandaria interpretação de cláusulas contratuais e revolvimento do conjunto fático-probatório.
+Impugnação apresentada às fls. 546/547.
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+A Corte Especial do STJ firmou a compreensão de que a admissibilidade do recurso especial, nesta instância, pode ser realizada "de forma implícita, sem necessidade de exposição de motivos, onde o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito" (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 17/12/2014, DJe de 19/12/2014).
+Cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DO MÉRITO. ADMISSIBILIDADE IMPLICÍTA. POSSIBILIDADE.
+1. Esta Corte Superior pode realizar o juízo de admissibilidade de forma implícita, sem necessidade de exposição de motivos, em que o exame do mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito (EREsp 1.119.820/PI, relator Min. MAURO CAMPBELL MARQUES, Corte Especial, DJe 19/12/2014).
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.909.556/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2021, DJe de 14/9/2021.)
+A decisão embargada, em síntese, aplicou a orientação do Superior Tribunal de Justiça (STJ) segundo a qual descontos incondicionais não compõem a base de cálculo da contribuição ao Programa de Integração Social (PIS) e da Contribuição para o Financiamento da Seguridade Social (COFINS). Esclareceu que a não incidência da exação depende do destaque desses descontos nas notas fiscais, requisito esse não preenchido no caso dos autos visto que o Tribunal de origem reconheceu expressamente que as bonificações que foram consideradas descontos incondicionais não eram registradas nas notas fiscais, fl. 417.
+Ao contrário do que sugere a parte embargante, inexiste o alegado erro material, pois a decisão embargada reproduziu fielmente a fundamentação do acórdão recorrido. Não se trata, portanto, de inexatidão formal, mas de síntese correta do conteúdo decisório do Tribunal de origem.
+Ressalto que a decisão embargada partiu do quadro fático já assentado no acórdão recorrido, sendo que a ausência de menção expressa às Súmulas 5 e 7 não configura omissão relevante, pois não houve utilização de provas novas ou reinterpretação contratual que demandasse a aplicação dos óbices sumulares.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
