@@ -1,0 +1,76 @@
+DECISÃO
+Cuida-se de agravo interposto por GRUPO OK CONSTRUCOES E INCORPORACOES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 284-285):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE IMISSÃO DE POSSE E AÇÃO INDENIZATÓRIA. AÇÕES CONEXAS. JULGAMENTO SIMULTÂNEO. IMÓVEL GRAVADO COM INDISPONIBILIDADE. ABANDONO. POSSE DE TERCEIRO. BOA-FÉ. IMISSÃO NA POSSE INDEVIDA. AUSÊNCIA DE ATO ILÍCITO. NÃO CABIMENTO DE INDENIZAÇÃO. REVELIA. ATUAÇÃO DO ADVOGADO EM AUDIÊNCIA E ALEGAÇÕES FINAIS. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA DEVIDOS.
+1. É devida a reunião de processos para julgamento simultâneo quando observada a presença da mesma causa de pedir em ambos os feitos, qual seja, a posse exercida pela parte ré no imóvel de propriedade do autor. A reunião das ações cumpre o papel de evitar a prolação de decisões conflitantes ou contraditórias, na forma prevista no §3º do art. 55 do CPC.
+2. A indisponibilidade gravada sobre um bem imóvel, com amparo na Lei de Improbidade Administrativa (art. 7º da Lei 8.429/92), impede a sua alienação, como forma de assegurar ressarcimento de provável dano em virtude de lesão ao patrimônio público. No entanto, a medida não cria obstáculo à conservação do bem pelo proprietário, tampouco a tomada de outras medidas acautelatórias pela União ou pela autoridade administrativa interessada na permanência da garantia.
+3. O abandono do bem pelo proprietário e por aquele a quem interessava a medida acautelatória gera a consequência jurídica da perda da posse, diante do exercício da posse por terceiro de boa-fé, conforme previsto no art. 1.223 do Código Civil.
+4. A inércia em conservar bem imóvel, abandonando-o por quase vinte anos, cria situação jurídica que autoriza, por força da regra constitucional que privilegia a função social da propriedade, a permanência da ré na posse do bem, em observância ao disposto no art. 5º, inc. XXIII da CF.
+5. A expressa manifestação da União quanto à ausência de interesse na causa, por não ser proprietária do imóvel, autoriza a conclusão de que a indisponibilidade do bem, embora visasse assegurar ressarcimento eventual, não objetiva garantir a posse sobre o mesmo bem e sobre ela não produz efeito.
+6. A posse exercida de boa-fé não viola direito e, portanto, afasta a prática de ato ilícito que autorizaria o reconhecimento do direito à indenização por supostos danos materiais pelo tempo de fruição do imóvel.
+7. O proprietário não possuidor não detém legitimidade para cobrar parcelas de IPTU não pagas durante o tempo em que o imóvel esteve sob a posse de terceira, visto que o possuidor possui a obrigação de adimplemento dos impostos incidentes sobre o imóvel.
+8. A atuação do advogado da ré revel durante a audiência de instrução e julgamento e na apresentação de alegações finais autoriza a condenação da parte contrária, vencida, ao pagamento de honorários advocatícios de sucumbência. São, portanto, fixados honorários advocatícios de sucumbência na ação indenizatória, no importe de 10% (dez por cento) sobre o valor da causa.
+9. Dada a sucumbência recursal, os honorários advocatícios, devidos em ambas as ações, são majorados de 10% para 11% sobre o valor da causa, com suporte no §11 do art. 85 do CPC. 10.
+Apelos do autor desprovidos. Apelo da ré provido.
+Rejeitados os embargos de declaração opostos (fls. 375-381).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no artigo 16 da Lei 8.429/1992 (Lei de Improbidade Administrativa).
+Sustenta ausência de enfrentamento específico da tese sobre a licitude da imissão na posse pelo proprietário registral, à luz da indisponibilidade judicial do imóvel decretada desde o ano 2000.
+Sustenta, ainda, ausência de manifestação sobre os efeitos jurídicos da indisponibilidade prevista na Lei na conservação da posse pelo proprietário e na precariedade da posse exercida por terceiros.
+Sustenta, também, omissão quanto à incompatibilidade da indisponibilidade judicial com a consolidação da posse da recorrida ou com usucapião, havendo ausência de enfrentamento das teses jurídicas amparadas em precedentes colacionados que qualificam a posse de terceiro como precária e sem animus domini em contexto de indisponibilidade.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 413-430).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 447-449), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 465-476).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cinge-se a controvérsia em definir se o recorrente, proprietário registral, tem direito à imissão na posse de imóvel gravado com indisponibilidade judicial desde o ano 2000, à vista do alegado abandono do bem e da posse mansa e pacífica exercida pela recorrida de boa-fé.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento à apelação do recorrente e dar provimento à apelação da recorrida, fundamentou o acórdão nos seguintes termos (fls. 288-290):
+As provas produzidas autorizam a conclusão de que a ré exerceu a posse do imóvel desde o ano de 2008 (ID 17022971), ininterruptamente, e sem oposição, até a propositura da ação, ocorrida em 18/01/2019. Demonstrou, ainda, mediante prova emprestada, que o edifício objeto da controvérsia encontrava-se em situação precária e que foi necessária a realização de benfeitorias para torná-lo habitável.
+Nesse cenário, conclui-se que houve, de fato, o abandono da propriedade, o que tornou a posse da ré de boa- fé e autoriza a aplicação do raciocínio de que a propriedade deve cumprir sua função social.
+É certo que a indisponibilidade de um bem, prevista na Lei de Improbidade Administrativa (art. 7º da Lei 8.429/92), impede a sua alienação, como forma de assegurar ressarcimento de provável dano em virtude de lesão ao patrimônio público. No entanto, ela não cria obstáculo à conservação do bem pelo proprietário, tampouco a tomada de outras medidas acautelatórias pela União ou pela autoridade administrativa interessada.
+Nesse cenário, o abandono do bem levado a efeito teve como consequência o exercício da posse de boa-fé pela ré, que inclusive deteve durante mais de 10 (dez) anos o exercício pleno dos poderes inerentes à propriedade, sem que o autor opusesse qualquer resistência, na forma definida no art. 1.196 do Código Civil. A consequência jurídica da atuação do proprietário é a perda de sua posse, conforme previsto no art. 1.223 do Código Civil:
+Art. 1.196. Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade.
+Art. 1.223. Perde-se a posse quando cessa, embora contra a vontade do possuidor, o poder sobre o bem, ao qual se refere o art. 1.196.
+Importa acrescentar que o autor não fez prova acerca do exercício de algum de seus poderes de proprietário durante o período em que o imóvel esteve sob a posse da ré, deixando de se desincumbir de seu ônus probatório, na forma do art. 373 do CPC. A sua inércia em conservar seu bem criou situação jurídica de abandono que autorizou, por força da regra constitucional que privilegia a função social da propriedade, a permanência da ré na posse do bem, em observância ao disposto no art. 5º, inc. XXIII da CF.
+Por outro ângulo, vale ressaltar que a União, embora instada a manifestar seu interesse, alegou, expressamente, que, por não ser proprietária do bem, não teria interesse em intervir no feito (ID 17023002 - proc. n. 0700380-34). Diante de tal manifestação, conclui-se que a indisponibilidade do bem, embora visasse assegurar ressarcimento em favor da União, não objetivou garantir a posse sobre o mesmo bem e sobre ela não produz efeito.
+Por tais fundamentos, julgo que o abandono do bem obsta a pretendida imissão na posse, em virtude de expressa previsão legal (art. 1.223 do Código Civil).
+Confira-se precedente desta Turma, no mesmo sentido:
+ ..
+Pelo exposto, julgo devida a perda da posse pela parte autora, nos termos do art. 1.223 do Código Civil, conforme reconhecido pelo juízo de primeiro grau.
+Os temas indicados como omitidos foram examinados no acórdão de apelação, com transcrição e aplicação dos arts. 1.196 e 1.223 do Código Civil, além de análise específica sobre os efeitos da indisponibilidade judicial (referência ao art. 7º da Lei n. 8.429/1992) e à manifestação da União quanto à ausência de interesse, tudo culminando na negativa da imissão na posse por perda da posse decorrente de abandono e na qualificação da posse da ré como de boa-fé.
+No acórdão dos embargos de declaração, O Tribunal a quo reafirmou a suficiência e coerência da fundamentação, rechaçando vícios integrativos. Vejamos (fls. 379-380):
+ ..
+O voto condutor apresenta coerente fundamentação, ao esclarecer que "para ser reconhecido o direito à indenização, conforme previsto no art. 186 do Código Civil, faz-se necessário que haja a conduta violadora de direito, além da demonstração do dano e do nexo de causalidade" e que, no presente caso, "a posse exercida pela ré não pode ser considerada como violadora de direito do autor, diante do abandono do imóvel e da realização da posse durante mais de dez anos de boa-fé, sem que o proprietário tenha manifestado qualquer resistência. O exercício legítimo da posse afasta a prática de ato ilícito e, portanto, o direito à indenização por supostos danos materiais pelo tempo de fruição do imóvel."
+Concluiu-se, ainda, que não cabe ao proprietário cobrar o adimplemento de parcelas de IPTU do possuidor, dada sua ilegitimidade.
+Na presente hipótese, tem-se que o acórdão é claro ao julgar, com base nas provas produzidas, que foi suficientemente demonstrado o exercício da posse sem oposição e que o abandono do imóvel pelo proprietário permitiu o reconhecimento da posse mansa e pacífica pela ré.
+Assim, não há que se falar em qualquer vício no julgado. Embora seja certo que o órgão julgador utilizou fundamentos não coincidentes com as razões recursais, não se pode negar que expressa com clareza os motivos da decisão, coerentes com a conclusão alcançada, na forma exigida pelo art. 93, inc. IX da Constituição Federal e art. 489 do CPC. Logo, não se verifica qualquer vício no julgado.
+Importa ainda ressaltar que não há que se falar em contradição externa, ou seja, frente a julgados proferidos por outros órgãos julgadores. A contradição que autoriza o saneamento por meio dos embargos declaratórios é aquela que apresenta incoerência interna entre os fundamentos do acórdão e a decisão alcançada ou ante elementos racionalmente inconciliáveis. A divergência de entendimento com julgados de outras Turmas ou Tribunais não configura o vício da contradição.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+As premissas decisórias centrais foram fixadas a partir do conjunto probatório dos autos, quais sejam: a posse da recorrida desde 2008, ininterrupta e sem oposição, até o ajuizamento em 18/1/2019, com indicação de documentos e prova emprestada; a situação precária do edifício e realização de benfeitorias pelos ocupantes, corroborando o estado de abondando; o reconhecimento do abandono da propriedade pelo recorrente e a decorrente qualificação da posse da recorrida como de boa-fé.
+Alterar o decidido no acórdão impugnado, no que se refere às premissas fáticas de abandono, posse mansa e pacífica e ausência de oposição, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. REEXAME DE PROVAS. VIOLAÇÃO NÃO CONFIGURADA DOS ARTS. 489, § 1º, IV, E 1.022 DO CPC. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. O Tribunal de origem reconheceu a posse mansa, pacífica, com animus domini e produtiva do espólio de Itacir de Gregori, oriunda da posse anterior de Jovino de Matos, não atingida por ação reivindicatória anterior, o que preenche os requisitos do art. 1.238 do Código Civil.
+ ..
+8. A revisão das conclusões do Tribunal de origem sobre a caracterização da posse e o lapso temporal necessário exigiria reexame do conjunto fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.865.419/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 25/8/2025, DJEN de 28/8/2025, g.n.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intime-se.
+ EMENTA
