@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. REGIME FECHADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, por se tratar de impetração contra decisão monocrática de Desembargador sem exaurimento da instância ordinária. Precedente.
+2. Hipótese em que não há ilegalidade na decisão monocrática hostilizada, uma vez que, quando há simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, é legítima a reserva de análise das questões para o julgamento do agravo em execução pendente na origem.
+3. A decisão de indeferimento de primeiro grau, fundamentada na impossibilidade de concessão de prisão domiciliar a condenado em regime fechado (art. 117, II, da LEP), na ausência de demonstração da inviabilidade do tratamento no ambiente prisional e em relatório médico que atesta quadro estável e acompanhamento médico adequado, está em conformidade com o entendimento desta Corte Superior.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 844.029/2025) interposto por EDSON FERNANDES DA SILVA contra a decisão da Presidência desta Corte (fls. 275/276) que indeferiu liminarmente a impetração aos fundamentos de não cabimento de habeas corpus contra decisão monocrática e ausência de ilegalidade em se reservar a análise das questões para o julgamento do agravo em execução pendente na origem.
+Sustenta o agravante, inicialmente, a possibilidade de utilização do writ para impugnar decisão monocrática na origem - a situação do paciente é demasiadamente grave, de modo que a impetração de habeas corpus, uma ação autônoma, não apenas se mostra cabível, mas também se revela como a única medida capaz de preservar a vida do paciente com a urgência necessária para minimizar os danos que vem sofrendo (fl. 285) - e, no mérito, ratifica os argumentos da impetração, pretendendo que seja concedida a prisão domiciliar humanitária ao paciente, com fundamento no art. 117, II, da LEP e no art. 318, II, do CPP, em razão de seu grave estado de saúde (fl. 286).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR HUMANITÁRIA. REGIME FECHADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indeferiu liminarmente a impetração, por se tratar de impetração contra decisão monocrática de Desembargador sem exaurimento da instância ordinária. Precedente.
+2. Hipótese em que não há ilegalidade na decisão monocrática hostilizada, uma vez que, quando há simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, é legítima a reserva de análise das questões para o julgamento do agravo em execução pendente na origem.
+3. A decisão de indeferimento de primeiro grau, fundamentada na impossibilidade de concessão de prisão domiciliar a condenado em regime fechado (art. 117, II, da LEP), na ausência de demonstração da inviabilidade do tratamento no ambiente prisional e em relatório médico que atesta quadro estável e acompanhamento médico adequado, está em conformidade com o entendimento desta Corte Superior.
+4. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve o indeferimento de prisão domiciliar humanitária ao paciente, em cumprimento de pena no regime fechado, referente à Execução Penal n. 0002644-16.2025.8.26.0041, da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 1ª RAJ) da comarca de São Paulo/SP - não comporta reparos.
+Primeiro, por se tratar de impetração contra decisão monocrática de Desembargador sem exaurimento da instância ordinária (AgRg no HC n. 1.004.591/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar a concessão de ordem de ofício, pois:
+a) havendo a simultânea interposição de recurso próprio e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a análise das questões para o momento do julgamento do agravo em execução que está pendente de análise na origem; e
+b) a decisão de indeferimento de primeiro grau (fls. 220/222) - aos fundamentos de que o regime fechado não permite a concessão de prisão domiciliar (art. 117, II, da LEP), inexistência de demonstração da inviabilidade do tratamento no ambiente prisional e relatório médico indicando que o paciente se encontra em quadro estável e recebe acompanhamento médico adequado no presídio - está de acordo com o entendimento desta Corte Superior (AgRg nos EDcl no HC n. 906.481/MS, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Em razão disso, nego provimen to ao agravo regimental.
