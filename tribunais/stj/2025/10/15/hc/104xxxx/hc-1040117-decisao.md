@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de FABIO VIEIRA DA SILVA - condenado como incurso no crime de tráfico transnacional de drogas (Ação Penal n. 5006819-50.2021.4.03.6000) -, em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação impo sta ao paciente pelo Juízo de Direito da 5ª Vara Federal de Campo Grande, ao argumento de que a pena-base imposta ao paciente ficou semelhante a do corréu tido por líder de associação criminosa e responsável por condutas mais graves.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade (EDcl no AgRg no HC n. 964.972/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 24/4/2025).
+E, no caso, observo que o Tribunal de origem logrou justificar a exasperação da pena-base e a fixação do percentual de 1/6 a título de minorante do tráfico privilegiado (fls. 121/122).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO TRANSNACIONAL DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. ALEGAÇÃO DE DESPROPORCIONALIDADE NA PENA-BASE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
