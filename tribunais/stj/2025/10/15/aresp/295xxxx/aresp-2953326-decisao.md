@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por HERBERT SILVA ALMEIDA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal (fls. 1.105/1.112).
+No recurso especial (fls. 1.189/1.214), o recorrente sustentou violação do art. 413 do Código de Processo Penal, alegando que a pronúncia se baseou apenas em testemunha indireta e requerendo a impronúncia com o restabelecimento da sentença de primeiro grau.
+Inadmitido o recurso na origem com fundamento na Súmula 7/STJ (fls. 1.307/1.314), bem como pela ausência de cotejo analítico, subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo.
+O Ministério Público Federal opinou pelo não conhecimento ou, acaso conhecido, pelo desprovimento do recurso, em parecer fundamentado na incidência das Súmulas 182/STJ, 7/STJ e 284/STF, além da ausência de cotejo analítico (fls. 1.479/1.486).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agrav ante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o recorrente a impronúncia, sustentando insuficiência de indícios de autoria e alegando que a pronúncia se baseou exclusivamente em depoimento de testemunha indireta.
+Contudo, o recurso especial não merece conhecimento por múltiplos óbices processuais.
+Primeiramente, verifica-se que o agravante não impugnou especificamente os fundamentos da decisão agravada. Conforme assentado pelo Ministério Público Federal: nas razões do agravo, a defesa tão somente alegou genericamente a não incidência do óbice e repisou as razões do recurso especial (fl. 1.481).
+A jurisprudência desta Corte é pacífica no sentido de que o agravo deve apresentar argumentos capazes de infirmar todos os fundamentos da decisão impugnada, não se admitindo a mera repetição das razões do recurso especial. A ausência de impugnação específica dos fundamentos que levaram à inadmissão atrai a incidência da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Superado esse óbice, o recurso especial igualmente não comporta conhecimento.
+A pretensão de impronúncia por alegada insuficiência de indícios de autoria demandaria inevitável revolvimento do contexto fático-probatório. O Tribunal de origem, soberano na análise das provas, entendeu pela suficiência dos elementos que justificam a submissão ao Tribunal do Júri, conforme fundamentação extraída do acórdão (fl. 1.111):
+Os indícios de autoria, ainda que não sejam suficientes para uma condenação nesta fase processual, são o bastante para justificar a pronúncia dos réus. A vítima identificou os réus  ..  apontando ainda Herbert Silva Almeida como o mandante. Além disso, os depoimentos das testemunhas indicam que havia rixa anterior entre a vítima e o réu Herbert, relacionada à propriedade rural, o que fortalece a motivação do crime.
+A reversão desse entendimento exigiria profunda incursão em matéria probatória, incompatível com a natureza excepcional do recurso especial, inviabilizada pela Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Por fim, quanto à alegação de dissídio jurisprudencial (alínea c), constata-se que o recorrente não realizou o devido cotejo analítico entre o acórdão impugnado e os paradigmas colacionados. Conforme assentado pelo Parquet Federal: não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados (fl. 1.483).
+A mera transcrição de ementas não satisfaz as exigências do art. 1.029, § 1º, do CPC, sendo necessária a demonstração de que as soluções encontradas tiveram por base as mesmas premissas fáticas e jurídicas. A ausência de tal demonstração configura deficiência na fundamentação recursal, atraindo a Súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia .
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PLEITO DE IMPRONÚNCIA. ALEGAÇÃO DE INSUFICIÊNCIA DE INDÍCIOS DE AUTORIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 182/STJ. PRETENSÃO DE REANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
