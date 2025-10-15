@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de DIOMAR ANTONIO FLORES, preso preventivamente e condenado pelos crimes de participação em organização criminosa e tráfico de drogas majorado (fatos 1, 2 e 3 da denúncia) - (Ação Penal n. 5002218-67.2024.4.04.7002, da 5ª Vara Federal de Foz do Iguaçu/PR).
+Aponta-se como autoridade coatora a Oitava Turma do Tribunal Regional Federal da 4ª Região, que, em 20/8/2025, conheceu parcialmente do HC n. 5022109-94.2025.4.04.0000/PR e, nessa extensão, denegou a ordem.
+Alega-se constrangimento ilegal decorrente da negativa de vigência do acórdão anterior da própria Turma julgadora no HC n. 5025942-57.2024.4.04.0000/PR, que trancou a ação penal em relação ao crime de tráfico transnacional de drogas (fato 4 da peça acusatória) por ausência de materialidade. Não obstante, tal fato foi utilizado para fundamentar a transnacionalidade das condutas 1, 2 e 3 e manter a competência federal.
+Sustenta-se, diante desse cenário, a nulidade absoluta dos atos decisórios proferidos no processo criminal em questão e a inaplicabilidade da teoria do juízo aparente, uma vez que a incompetência da Justiça Federal era evidente desde o início.
+Aduz-se que, em razão desse vício, a manutenção da prisão preventiva e das medidas restritivas configuram abuso de poder e constrangimento ilegal, impondo-se o relaxamento da custódia como consequência reflexa da nulidade.
+Pede-se, em caráter liminar, a suspensão dos efeitos da sentença condenatória e a expedição de alvará de soltura em favor do paciente, sem prejuízo da aplicação de cautelares diversas. Requer-se, no mérito, a confirmação da medida liminar, o reconhecimento da incompetência absoluta da Justiça Federal e a anulação de todos os atos decisórios até então proferidos.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+Na espécie, a Corte regional deixou de conhecer do writ quanto à alegação de incompetência, por implicar o revolvimento do acervo fático-probatório da ação penal, providência incompatível com os estreitos limites do remédio constitucional (fl. 18).
+Mencionou, ademais, que a defesa interpôs recurso de apelação, ainda pendente de julgamento (fl. 27).
+Ora, vê-se que a Corte local adotou posicionamento que encontra respaldo na jurisprudência desta Casa, pois é prematura a análise de tema na via do habeas corpus quando pendente de julgamento a apelação, recurso próprio à análise da nulidade suscitada (AgRg no RHC n. 83.205/PE, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/6/2017).
+Além disso, a ausência de debate sobre a matéria pelo Tribunal a quo impede sua apreciação direta por esta Corte Superior, sob pena de configurar indevida supressão de instância.
+Quanto à prisão preventiva, expôs o acórdão que a medida está fundamentada na garantia da ordem pública, tendo em vista a natureza e grande quantidade de entorpecentes apreendidos com a "Operação Pó de Ferro". Também a função exercida pelo paciente no grupo criminoso, de liderança e coordenação do núcleo operacional da organização criminosa denominado "grupo 2", demonstra a necessidade de manutenção da segregação cautelar (fl. 32).
+Com efeito, pacífico é o entendimento desta Corte Superior no sentido de que a periculosidade da agente e a necessidade de se interromper ou reduzir a atividade do grupo criminoso, enfraquecendo a atuação da facção, enquadra-se no conceito de garantia da ordem pública. Ademais, o suposto envolvimento  do  agente com organização criminosa revela sua periculosidade, justificando, assim, a prisão preventiva como forma de garantir a ordem pública (HC n. 956.760/CE, Ministro de minha relatoria, Sexta Turma, DJEN 12/5/2025).
+Por fim, a substituição por outras medidas cautelares não é adequada quando a prisão preventiva se mostra necessária para a manutenção da ordem pública (AgRg no RHC n. 209.432/DF, de minha relatoria, Sexta Turma, DJEN 27/3/2025).
+Tal o cenário, não vislumbro manifesta ilegalidade a ser sanada nestes autos.
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RIS TJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. OPERAÇÃO PÓ DE FERRO. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA E TRÁFICO DE DROGAS MAJORADO. NULIDADE. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. SUPRESSÃO DE INSTÂNCIA. APELAÇÃO PENDENTE DE JULGAMENTO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Indeferimento liminar da petição inicial.
