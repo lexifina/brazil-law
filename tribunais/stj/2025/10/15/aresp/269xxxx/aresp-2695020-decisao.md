@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PATRÍCIA DOS SANTOS contra decisão de fls. 4.771-4.773, assim ementada:
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSOESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Alega a defesa alega que houve omissão em razão da alegada não apreciação de erro ocorrido nas instâncias de origem, que teriam reconhecido antecedentes criminais de pessoa homônima em seu desfavor, defendendo que se trata de erro material sanável.
+Acresce que "atacou expressamente os fundamentos da decisão de inadmissão do REsp, demonstrando violação ao art. 386, VII, do CPP, erro na dosimetria e pleito subsidiário de revisão do regime" e que indicou os dispositivos violados, o que afastaria os óbices das Súmulas n. 182 do STJ e n. 284 do STF.
+Por fim, afirma ser mãe lactante de criança menor com doença crônica, pretendendo obter a modificação do regime prisional inicial.
+Requer, ao final, o acolhimento dos aclaratórios, para sanar os vícios apontados, com a correspondente repercussão jurídica.
+Às fls. 4.790-4.791 foi determinada a intimação do advogado EVERALDO DA ROCHA DOS SANTOS, OAB n. 88.293/PR, para juntar aos autos cópias dos julgados por ele referidos às fls. 4.462, 4.665 e 4.720 destes autos, decorrendo o prazo sem manifestação.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Sobre os maus antecedentes reconhecidos pela Corte de origem em desfavor da embargante e sobre o regime inicial de cumprimento da pena ficou consignado no acórdão que julgou a apelação (f. 4.604-4.605):
+A acusada possui antecedentes criminais diante da existência da condenação definitiva nos autos nº 0002764-55.2015.8.16.0084, em que o crime foi perpetrado no dia 17.07.2015, antes do crime descrito na denúncia, com trânsito em julgado posterior, em 22.03.2018 (cf. oráculo mov. 429.1).
+ ..
+Tendo em vista o quantum de pena aplicado, superior a 4 (quatro) anos, e a reincidência da acusada, estabeleço o para o início do cumprimento da reprimenda, com fundamento no art. 33,regime fechado §2º, alíneas "a" e "b" e §3º do Código Penal.
+Contudo, no recurso especial de fls. 4.629-4.631 tais questões não foram mencionadas, não tendo havido, ainda, embargos de declaração que provocassem o Tribunal de origem a respeito.
+Nesse contexto, em que somente no agravo em recurso especial (fls. 4.661-4.666) foram suscitadas as questões, agora repetidas em embargos de declaração, não pode haver manifestação dessa Corte Superior, por ausência de prequestionamento.
+A propósito, o prequestionamento é requisito de admissibilidade do recurso especial, traduzindo-se na necessidade de que tenha havido expresso debate, pelo tribunal de origem, da matéria que se pretende submeter ao tribunal superior, conforme elucidam as Súmulas n. 282 e 356 do STF e 211 do STJ.
+Quanto à alegação relacionada à incidência da Súmula n. 284 do STF, aplicada analogicamente ao caso, as razões do agravo em recurso especial não afastam a conclusão de falha na indicação clara e específica dos dispositivos alegadamente violados, bem como na exposição das razões pelas quais o acórdão recorrido teria afrontado cada um deles, o que confirma a impossibilidade de afastamento do referido óbice (AgRg no AREsp n. 2.512.162/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/4/2024, DJe de 15/4/2024; AgRg no AREsp n. 2.340.943/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+Ademais, a contradição que permite o acolhimento de embargos declaratórios é a que eventualmente ocorra dentro do próprio julgado, o que não se alegou no recurso em apreço. Nesse sentido: EDcl no AgRg no AREsp n. 2.510.405/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.
+Portanto, inexistindo vício a ser sanado, a pretensão do recurso é de rediscussão dos fundamentos da decisão embargada, propósito inviável para o recurso em apreço, nada havendo que se possa acolher.
+Ante o exposto, na forma do art. 264, § 1º do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Anoto, por fim, que a apresentação de nova irresignação incabível ou protelatório poderá ensejar o não conhecimento do recurso.
+Ainda, determino sejam oficiados o Conselho Federal da Ordem dos Advogados do Brasil e a Seção do Paraná com cópia da decisão de fls. 4.790-4.791 e das páginas nelas referidas, acrescidas do que mais for relevante, para ciência e providências quanto à menção, pelo Advogado EVERALDO DA ROCHA DOS SANTOS, OAB n. 88.293/PR, de julgados inexistentes como se fossem jurisprudência, referindo-se ao "HC n. 123.456/SP, Rel. Min. João Silva, j. 20/03/2018" e ao "HC n. 987.654/RS, Rel. Min. Maria da Silva, j. 15/05/2019".
+Publique-se. Intimem-se. Cumpra-se.
+ EMENTA
