@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. ALEGAÇÃO DE ERRO E DE REFORMATIO IN PEJUS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 63 DO CP. FALTA DE PREQUESTIONAMENTO. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA. MOTIVAÇÃO IDÔNEA E EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR.
+1. A ausência de indicação clara e precisa, nas razões recursais, do dispositivo de lei federal eventualmente violado atrai a incidência da Súmula 284/STF, em virtude da deficiência de fundamentação.
+2. O prequestionamento exige debate prévio e específico nas instâncias ordinárias, inclusive em matérias de ordem pública (Súmulas 282 e 356/STF).
+3. A reincidência e a presença de duas circunstâncias judiciais desfavoráveis justificam a manutenção do regime semiaberto, mesmo com pena inferior a 4 anos. A conversão da pena privativa de liberdade em restritivas de direitos é inviável em caso de reincidência e vetorial desabonadora.
+4. Agravo regimental improvido.
+RELATÓRIO
+Lieslie de Oliveira Dutra interpõe agravo regimental contra a decisão monocrática de fls. 737/741, de minha lavra, assim resumida:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME PREVISTO NO ART. 171, CAPUT, C/C O ART. 14, II, DO CP. ANPP. RECUSA RATIFICADA PELO ÓRGÃO SUPERIOR DO MPF. AUSÊNCIA DE REQUISITO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. DESCABIMENTO DA ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE ENUNCIADO DE SÚMULA. ALEGAÇÃO DE REFORMATIO IN PEJUS E ERRO NA DOSIMETRIA DA PENA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 63 DO CP. FALTA DE PREQUESTIONAMENTO. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA. MOTIVAÇÃO IDÔNEA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. PRECEDENTES.
+Reconsiderada a decisão da Presidência desta Corte. Agravo conhecido para negar provimento ao recurso especial.
+Nas razões de seu regimental, a defesa sustenta, de início, em relação à dosimetria, que a decisão monocrática se equivocou ao negar provimento ao recurso especial sob o fundamento de que as alegações defensivas seriam genéricas e não indicariam os dispositivos de lei federal supostamente violados, o que configuraria óbice da Súmula 284/STF. Argumenta que suas razões foram claras e específicas, apontando de forma precisa as violações legais, e reitera o argumento de reformatio in pejus, asseverando que, se as alegações fossem realmente genéricas, o correto seria a manutenção da decisão inicial de inadmissibilidade, e não o acolhimento parcial das razões defensivas para afastar o referido óbice (fls. 746/748).
+No tocante ao art. 63 do Código Penal, argumenta que, apesar de a questão não ter sido devidamente prequestionada pela defesa constituída à época, a matéria relativa à reincidência é de ordem pública, suscetível de apreciação de ofício por esta Colenda Corte, e que, ainda que assim não fosse, a matéria nele prevista foi efetivamente examinada quando da fixação do regime inicial semiaberto pela Corte de origem (fls. 747/748).
+Reitera a alegação de necessidade de fixação do regime inicial aberto, com base no art. 33, § 2º, c, do Código Penal, considerando a primariedade e o quantum da pena, inferior a 4 anos, bem como da substituição da pena privativa de liberdade por restritivas de direitos, ante o preenchimento dos requisitos do art. 44 do Código Penal (fls. 748/749).
+É o relatório.
+EMENTA
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. ALEGAÇÃO DE ERRO E DE REFORMATIO IN PEJUS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 63 DO CP. FALTA DE PREQUESTIONAMENTO. REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA. MOTIVAÇÃO IDÔNEA E EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR.
+1. A ausência de indicação clara e precisa, nas razões recursais, do dispositivo de lei federal eventualmente violado atrai a incidência da Súmula 284/STF, em virtude da deficiência de fundamentação.
+2. O prequestionamento exige debate prévio e específico nas instâncias ordinárias, inclusive em matérias de ordem pública (Súmulas 282 e 356/STF).
+3. A reincidência e a presença de duas circunstâncias judiciais desfavoráveis justificam a manutenção do regime semiaberto, mesmo com pena inferior a 4 anos. A conversão da pena privativa de liberdade em restritivas de direitos é inviável em caso de reincidência e vetorial desabonadora.
+4. Agravo regimental improvido.
+VOTO
+A irresignação não merece prosperar.
+Isso porque os argumentos colacionados nas razões do agravo regimental não são capazes de infirmar os fundamentos da decisão agravada, que se encontra em consonância com a jurisprudência desta Corte.
+De início, não há falar em equívoco da decisão na aplicação do óbice da Súmula 284/STF.
+Isso porque o recurso foi considerado inadmissível apenas em relação a um dos pedidos cumulados - reforma da dosimetria da pena -, e esse pedido não é essencial para a resolução dos demais, de forma que a pretensão recursal foi examinada e julgada em conformidade com o princípio da congruência.
+E, quanto ao ponto, volto a dizer, houve uma falha na argumentação da defesa, que não indicou, nas razões do apelo especial, o dispositivo de lei federal que, no seu entender, teria sido violado.
+Desse modo, a ausência de delimitação do dispositivo legal sob o qual se funda a controvérsia caracteriza deficiência na fundamentação e impede o conhecimento do recurso.
+Em reforço ao precedente anteriormente citado: EDcl nos EDcl no AgRg no REsp n. 2.160.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2025, DJEN de 9/9/2025; e AgRg no AREsp n. 2.719.004/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2025, DJEN de 15/8/2025.
+Afora isso, verifica-se que a alegação de reformatio in pejus não foi objeto de debate pela instância ordinária, o que também inviabiliza o conhecimento do recurso especial, no ponto, por ausência de prequestionamento (Súmula 282/STF).
+Também não se mostra possível acolher a irresignação no tocante ao art. 63 do Código Penal. Isso porque o prequestionamento exige debate prévio e específico nas instâncias ordinárias, inclusive em matérias de ordem pública (Súmulas 282 e 356/STF) - EDcl nos EDcl no AgRg no REsp n. 2.160.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.
+Em relação ao regime prisional e à substituição da pena privativa de liberdade, a jurisprudência consolidada desta Corte admite a imposição de regime mais gravoso e a negativa da substituição da pena nos casos como o dos autos, em que presentes circunstâncias judiciais desfavoráveis e reincidência (AgRg no AREsp n. 2.601.768/PR, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025).
+Assim, os argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
