@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 1.022 do CPC, bem como pela incidência da Súmula n. 7 do STJ e pela não comprovação do dissídio jurisprudencial nos moldes legais (fls. 221-223).
+O acórdão recorrido está assim ementado (fl. 173):
+AGRAVO DE INSTRUMENTO Falência Pedido, pelo sócio/agravante, de partilha do excedente existente na conta da falência Decisão pela qual foi indeferido o pedido Insurgência do sócio Alegação de que as dívidas falimentares devem ser atualizadas até a data da quebra e, "pago os credores, qualquer saldo que remanescer deve ser restituído à falida" Descabimento Administrador judicial que afirmou na origem não ser possível ainda saber se todos os créditos foram pagos, postulando pela suspensão dos pagamentos e a expedição de ofício ao Banco do Brasil, para que traga informações atualizadas sobre as guias expedidas Pedido que foi deferido na mesma decisão que indeferiu a partilha do excedente postulada Decisão mantida AGRAVO DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 187-189).
+No recurso especial (fls. 191-208), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além da divergência jurisprudencial, ofensa aos arts. 1.022, II, do CPC, 26 e 129 do Decreto-Lei n. 7.661/1945.
+Alegou omissão no acórdão recorrido, porque o Tribunal de origem não teria se manifestado sobre ponto essencial do recurso, qual seja, a certeza da existência de saldo remanescente após o pagamento dos credores.
+Sustentou que as dívidas falimentares devem ser atualizadas apenas até a data da falência e que o saldo remanescente, uma vez satisfeitas as obrigações com os credores, deve ser restituído aos sócios.
+Pleiteou a atribuição de efeito suspensivo ao recurso especial.
+Não foram apresentadas contrarrazões (fl. 212).
+No agravo (fls. 226-237), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (fl. 239).
+Juízo negativo de retratação (fl. 240).
+O Ministério Público manifestou-se pelo não conhecimento do agravo nos seguintes termos (fl. 251):
+AGRAVO EM RECURSO ESPECIAL. PLEITO DE LEVANTAMENTO DE SALDO REMANESCENTE DECORRENTE DE SUPOSTAS SOBRAS DE VALORES DO PROCESSO FALIMENTAR. RECURSO QUE NÃO IMPUGNA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ. - Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 176-177):
+ ..  Consultado o administrador judicial da massa falida sobre o pedido do sócio/agravante, contudo, respondeu ele, na origem (fls. 5991/5593 do processo; fls. 15/17 do agravo), anotando que, das quatro guias de pagamento emitidas em nome da massa falida, duas apenas foram liquidadas, sendo uma pertencente ao antigo administrador judicial e outra ao antigo perito contador e que, desde dois, "apenas um consta da lista atual de pagamentos", razão pela qual requereu ao Magistrado na origem a paralisação dos pagamentos e a expedição de ofício ao Banco do Brasil, "para que a instituição informe todos os levantamentos ocorridos desde 01.03.2018, tendo em vista a existência das guias, porém, como já frisado sem a comprovação de sua eventual liquidação, assim como a data valores e beneficiários", somente após o que seria possível ao administrador analisar quais credores foram eventualmente pagos e quais poderão ser liquidados.
+Nesse sentido é que a decisão, indefere o pedido do agravante somente depois de deferir os pedidos do administrador judicial, indicado acima, suspendendo os pagamentos, determinando a expedição de ofício ao Banco para dar informações atualizadas sobre as guias emitidas.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Quanto à suposta violação aos arts. 26 e 129 do Decreto-lei n. 7.661/1945, o Tribunal local baseou sua decisão na manifestação do administrador judicial, que apontou incertezas sobre quais credores já haviam sido pagos e a necessidade de oficiar o Banco do Brasil para obter informações atualizadas sobre as guias de liquidação expedidas. Alterar essa conclusão demandaria reexame do conjunto fático-probatório, providência obstada pela Súmula n. 7 do STJ.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. JULGO PREJUDICADO o pedido de atribuição de efeito suspensivo ao recurso.
+Publique-se e intimem-se.
+EMENTA
