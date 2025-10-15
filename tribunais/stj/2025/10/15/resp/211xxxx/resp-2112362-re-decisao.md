@@ -1,0 +1,49 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, aplicando as Súmulas n. 283 e 284 do STF.
+O julgado recorrido recebeu a seguinte ementa (fls. 733-734):
+AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  CONTRATAÇÃO DIRETA ILEGAL. PRIMEIRA PARTE DO ART. 89, CAPUT, DA LEI N. 8.666/1993. INEXISTÊNCIA DE ABOLITIO CRIMINIS. CONTINUIDADE TÍPICO-NORMATIVA NO ART. 337-E DO CÓDIGO PENAL. APLICAÇÃO DO ART. 29 DO CP. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. AGRAVO  REGIMENTAL  DESPROVIDO.
+1. O entendimento do Tribunal de origem está em consonância com a orientação desta Corte Superior, ao concluir pela não ocorrência de abolitio criminis em relação ao delito previsto na primeira parte do art. 89 da Lei n. 8.666/1993, uma vez que a conduta de "dispensar ou inexigir licitação fora das hipóteses previstas em lei" permanece prevista, por força das alterações introduzidas pela Lei n. 14.133/2021, no art. 337-E do Código Penal, que tipificou o ato de se "admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei", evidenciando a ocorrência de uma continuidade típico-normativa.
+2. No caso dos autos, a Corte local registrou que "a denúncia narra hipótese de contratação direta (sem licitação) fora das hipóteses previstas em lei, que continua tipificado pelo Código Penal, no art. 337-E", sendo irrelevante, portanto, a descriminalização da conduta descrita na segunda parte do art. 89 da Lei n. 8.666/1993, qual seja, "deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade".
+3. Quanto à ausência de reprodução do parágrafo único do art. 89 da Lei n. 8.666/1993 na redação do art. 337-E do Código Penal, o Tribunal de origem destacou que "o art. 29 do Código Penal prevê que, quem, de qualquer modo, concorre para o crime, incide nas penas a este cominadas, na medida de sua culpabilidade, sendo punível, portanto, o particular (extraneus) que concorre para o delito praticado pelo funcionário público". Contudo, tal fundamento não foi impugnado nas razões recursais, o que atrai, quanto ao ponto, a incidência do óbice das Súmulas n. 283 e 284 do Supremo Tribunal Federal, por deficiência na fundamentação do recurso.
+4.  Agravo  regimental  a que se nega  provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 807-808).
+A parte recorrente sustenta a ocorrência de violação dos arts. 1º, caput, 5º, II, XXXIX e XL, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Em preliminar, menciona a ocorrência de prescrição da pretensão punitiva pelo decurso de lapso superior a 8 anos entre marcos interruptivos.
+No mérito, assevera que a Lei n. 14.133/2021, ao revogar o art. 89 e parágrafo único da Lei n. 8.666/1993 e inserir o art. 337-E no Código Penal, deixou de prever a responsabilização criminal do particular que colabora dolosamente para a dispensa ou inexigibilidade indevida de licitação, configurando abolitio criminis.
+Afirma que, excluída a conduta imputada ao recorrente, deve ser declarada extinta a punibilidade.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Formula a parte, em preliminar, pedido de reconhecimento da prescrição da pretensão punitiva, declarando-se a extinção da punibilidade do agente.
+O art. 61 do Código de Processo Penal preceitua que, " e m qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício".
+Nos termos do referido dispositivo legal, para que a punibilidade do agente seja extinta pela prescrição, é necessário que a questão seja passível de cognição e apreciação pelo julgador, o que não ocorre no caso.
+Isso porque a matéria objeto da petição não se enquadra nas atribuições definidas pelo Regimento Interno do Superior Tribunal de Justiça e delegadas à Vice-Presidência, as quais se limitam à apreciação das petições de recursos dirigidos ao Supremo Tribunal Federal (art. 22, § 2º, I, a, do RISTJ).
+Nesse sentido:
+AGRAVO REGIMENTAL. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO.  ..  PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INCOMPETÊNCIA DA VICE-PRESIDÊNCIA. RECURSO CONTRA DESPACHO SEM CONTEÚDO DECISÓRIO. IMPOSSIBILIDADE. RECLAMO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
+ ..
+3. Nos termos do art. 22 do Regimento Interno do Superior Tribunal de Justiça, não compete à Vice-Presidência a análise da prescrição da pretensão punitiva do Estado. Além disso, conforme disposto no art. 1.001 do Código de Processo Civil, é inviável a interposição de recurso contra despacho, sem conteúdo decisório.
+4. Agravo regimental parcialmente conhecido e, na extensão, desprovido.
+(AgRg no RE no AgRg nos EREsp n. 1.833.624/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 26/4/2022, DJe de 29/4/2022.)
+AGRAVO REGIMENTAL. PRESCRIÇÃO POR OCASIÃO DA FASE DE ADMISSÃO DO EXTRAORDINÁRIO. PLEITO IMPRÓPRIO. VIOLAÇÃO DO ART. 5º, INCISO XLVI, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA INDIVIDUALIZAÇÃO DAS PENAS.
+DOSIMETRIA. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. TEMA 182/STF.
+REGIMENTAL NÃO PROVIDO.
+1. O pedido de reconhecimento da prescrição não condiz, via de regra, com simples juízo de prelibação, acerca da negativa de seguimento ao Recurso Extraordinário ou sua admissão, que é exercido pela Vice-Presidência desta Corte.
+2. Nos autos do AI 742.460 RG/RJ, firmou-se na Corte Suprema a tese de que não tem repercussão geral o recurso extraordinário que verse sobre dosimetria da pena, por se tratar de matéria de índole infraconstitucional.
+3. Agravo regimental não provido.
+(AgRg no RE nos EDcl nos EDcl no AgRg no REsp n. 1.509.630/SE, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 15/5/2019, DJe de 22/5/2019.)
+3. Quanto à tese recursal, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+No caso em tela, a pretensão recursal cinge-se especificamente ao reconhecimento da abolitio criminis em relação à conduta praticada pelo particular, prevista anteriormente no revogado parágrafo único do art. 89 da Lei n. 8.666/1993.
+Com efeito, no tocante à referida matéria, o acórdão recorrido entendeu que houve deficiência na f undamentação recursal, com incidência das Súmulas n. 283 e 284 do STF, nos seguintes termos (fl. 745-746):
+Quanto à ausência de reprodução do parágrafo único do referido dispositivo legal na redação do art. 337-E do Código Penal, o Tribunal de origem destacou que "o art. 29 do Código Penal prevê que, quem, de qualquer modo, concorre para o crime, incide nas penas a este cominadas, na medida de sua culpabilidade, sendo punível, portanto, o particular (extraneus) que concorre para o delito praticado pelo funcionário público" (e-STJ fl. 545).
+Contudo, nas razões do recurso especial, a defesa não impugnou o fundamento relativo à incidência do art. 29 do CP, o que atrai, quanto ao ponto, a incidência do óbice das Súmulas n. 283 e 284 do Supremo Tribunal Federal, por deficiência na fundamentação recursal.
+Nesse contexto, quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. REQUISITOS DE ADMISSIBILIDADE DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
