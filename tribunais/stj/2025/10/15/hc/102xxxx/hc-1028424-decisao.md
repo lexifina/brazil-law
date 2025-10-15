@@ -1,0 +1,21 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção (HC n. 726.087/GO).
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de MAYKON DOUGLAS FAGUNDES DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, por haver dado provimento ao recurso interposto pela assistente de acusação, a fim de pronunciar o paciente, ao lado dos corréus, como incurso nas penas do art. 121, § 2º, I, do Código Penal (Apelação Criminal n. 5416031-91.2021.8.09.0127).
+Alega-se que a decisão de pronúncia incorreu em excesso de linguagem, ao emitir juízos de certeza sobre a autoria e o dolo, comprometendo a imparcialidade dos jurados e violando o art. 413 do Código de Processo Penal, que exige apenas demonstração da materialidade e indícios suficientes de autoria.
+Destaca-se que o Ministério Público, em alegações finais, requereu a absolvição sumária por ausência de dolo homicida e de vínculo subjetivo entre os acusados.
+Ressalta-se, ainda, que a sentença absolutória de primeira instância reconheceu a inexistência de indícios mínimos de autoria e a presença de excludente de ilicitude manifesta quanto a um dos corréus.
+Requer-se a imediata suspensão da Ação Penal n. 5416031-91.2021.8.09.0127, em tramitação na 2ª Vara Criminal da comarca de Pires do Rio/GO, cuja sessão do Tribunal do Júri está designada para 12/11/2025.
+No mérito, pugna-se pela declaração de nulidade do acórdão impugnado, com a consequente determinação de retorno dos autos ao Tribunal de origem para que outra decisão seja proferida.
+Indeferi a pretensão de urgência (fls. 116/117).
+Parecer do Ministério Público Federal pelo não conhecimento da impetração (fls. 125/130).
+É o relatório.
+O writ não merece prosperar, pois, além de se apresentar como substitutivo de recurso próprio, a jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+No caso, já tramita nesta Corte o AREsp n. 2.517.949/GO, referente ao mesmo acórdão, e, em 2/10/2025, decidi pelo não conhecimento do recurso especial interposto pelo ora paciente.
+Afora isso, na espécie, houve evidente fracionamento de pedidos em oportunidades diversas pela Defesa, procedimento igualmente refutado por esta Corte Superior de Justiça, por representar verdadeiro tumulto processual e ferir os deveres de ética e lealdade processuais (AgRg no HC n. 760.334/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe 5/3/2024).
+Ademais, conforme bem expôs o Subprocurador-Geral da República Mario Ferreira Leite, a decisão do Tribunal de origem não caracteriza excesso de linguagem, pois não emitiu juízo de certeza acerca da responsabilidade penal dos réus, limitando-se a reconhecer a prova da materialidade e os indícios de autoria, suficientes para a submissão da causa ao Tribunal do Júri, em conformidade com o art. 93, IX, da Constituição Federal. A respeito do paciente, destacou-se apenas a existência de indícios concretos, como o auxílio prestado no deslocamento de Wesley até a residência de Leonardo para buscar a motocicleta, fato registrado em relatório policial (fl. 129), que aponta, inclusive, o resultado da quebra de sigilo de dados do aparelho celular do coacusado.
+Com efeito, não se cogita a presença de excesso de linguagem da pronúncia, ofensivo ao art. 413, § 1º, do CPP, quando as instâncias ordinárias não adentraram em juízo de certeza, apenas fundamentando-se na existência de prova da materialidade do crime e indícios suficientes de autoria, inclusive em resposta à tese contrária da defesa (AgRg no AREsp n. 2.369.413/RO, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/11/2023).
+Considerando o parecer ministerial e a jurisprudência, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. FRACIONAMENTO DE PEDIDOS. DESVIRTUAMENTO DO USO DO WRIT. JÚRI. HOMICÍDIO QUALIFICADO. EXCESSO DE LINGUAGEM NO ACÓRDÃO DE PRONÚNCIA. INEXISTÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO. PARECER ACOLHIDO.
+Ordem denegada.
