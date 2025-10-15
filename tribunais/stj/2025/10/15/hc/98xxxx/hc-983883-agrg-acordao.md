@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANSFERÊNCIA DE APENADO EX-POLICIAL MILITAR PARA PRESÍDIO COMUM. ALEGAÇÃO DE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava ilegalidade na transferência de apenado ex-policial militar do Presídio Militar Romão Gomes para o Presídio Comum de Guarulhos II, determinada de ofício pelo Tribunal de Justiça Militar de São Paulo.
+2. O agravante sustenta que a transferência foi realizada sem prévia provocação do Ministério Público ou da unidade prisional, sem fundamentação idônea e em violação aos princípios do contraditório, da ampla defesa, da inércia da jurisdição, do duplo grau de jurisdição, do promotor natural e do devido processo legal.
+3. Argumenta que houve supressão de instância, reformatio in pejus e prejuízo à reinserção social do apenado, além de interrupção de atividades que contribuíam para a remição da pena.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a transferência de apenado ex-policial militar para presídio comum, determinada de ofício pelo Tribunal de Justiça Militar, sem prévia provocação do Ministério Público ou da unidade prisional, configura flagrante ilegalidade apta a justificar a concessão de habeas corpus.
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal estabelece que não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade.
+6. A transferência de apenado ex-policial militar para presídio comum não se mostra irregular, desde que observadas as disposições legais, como o art. 18, inciso VI, da Lei nº 14.751/2023, que prevê o cumprimento de pena em unidade prisional especial ou separada dos demais presos do sistema penitenciário comum, quando necessário.
+7. Não há elementos nos autos que demonstrem a inadequação da unidade prisional em que o apenado se encontra ou risco à sua integridade física, tampouco necessidade de transferência imediata.
+8. A decisão agravada está em sintonia com a jurisprudência do Superior Tribunal de Justiça, que reconhece que a transferência de apenado deve considerar não apenas conveniências pessoais, mas também as da administração pública.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade.
+2. A transferência de apenado ex-policial militar para presídio comum não configura ilegalidade, desde que observadas as disposições legais e garantias previstas na Lei nº 14.751/2023.
+3. A decisão sobre transferência de apenado deve considerar as conveniências da administração pública, além das condições pessoais do apenado.
+Dispositivos relevantes citados: Lei nº 14.751/2023, art. 18, inciso VI.
+Jurisprudência relevante citada: STJ, AgRg no HC 736.859/RO, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 09.08.2022; STJ, AgRg no HC 666.434/BA, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.06.2021.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por JACKSON DA SILVA LIMA, contra a decisão de fls. 208-212, que não conheceu da ordem de habeas corpus.
+O agravante alega que a decisão agravada desconsiderou a flagrante ilegalidade apontada na impetração. Sustenta que a transferência do paciente do Presídio Militar Romão Gomes para o Presídio Comum de Guarulhos II foi determinada de ofício pelo Tribunal de Justiça Militar de São Paulo, sem prévia provocação do Ministério Público ou da unidade prisional. Afirma que a medida foi adotada sem fundamentação idônea, em violação aos princípios do contraditório, da ampla defesa, da inércia da jurisdição, do duplo grau de jurisdição, do promotor natural e do devido processo legal.
+Reitera o agravante a alegação de que houve supressão de instância, pois a transferência deveria ter sido apreciada pelo Juízo de primeira instância responsável pela execução da pena. Sustenta ainda que se configurou reformatio in pejus, uma vez que a decisão agravou a situação d o paciente, que estudava e trabalhava no presídio militar, sem que houvesse recurso da parte contrária. Argumenta, ademais, que a decisão causou prejuízo à sua reinserção social e interrompeu atividades que contribuíam para a remição da pena.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao órgão colegiado para conceder a ordem de habeas corpus.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANSFERÊNCIA DE APENADO EX-POLICIAL MILITAR PARA PRESÍDIO COMUM. ALEGAÇÃO DE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, no qual se alegava ilegalidade na transferência de apenado ex-policial militar do Presídio Militar Romão Gomes para o Presídio Comum de Guarulhos II, determinada de ofício pelo Tribunal de Justiça Militar de São Paulo.
+2. O agravante sustenta que a transferência foi realizada sem prévia provocação do Ministério Público ou da unidade prisional, sem fundamentação idônea e em violação aos princípios do contraditório, da ampla defesa, da inércia da jurisdição, do duplo grau de jurisdição, do promotor natural e do devido processo legal.
+3. Argumenta que houve supressão de instância, reformatio in pejus e prejuízo à reinserção social do apenado, além de interrupção de atividades que contribuíam para a remição da pena.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a transferência de apenado ex-policial militar para presídio comum, determinada de ofício pelo Tribunal de Justiça Militar, sem prévia provocação do Ministério Público ou da unidade prisional, configura flagrante ilegalidade apta a justificar a concessão de habeas corpus.
+III. Razões de decidir
+5. A jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal estabelece que não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade.
+6. A transferência de apenado ex-policial militar para presídio comum não se mostra irregular, desde que observadas as disposições legais, como o art. 18, inciso VI, da Lei nº 14.751/2023, que prevê o cumprimento de pena em unidade prisional especial ou separada dos demais presos do sistema penitenciário comum, quando necessário.
+7. Não há elementos nos autos que demonstrem a inadequação da unidade prisional em que o apenado se encontra ou risco à sua integridade física, tampouco necessidade de transferência imediata.
+8. A decisão agravada está em sintonia com a jurisprudência do Superior Tribunal de Justiça, que reconhece que a transferência de apenado deve considerar não apenas conveniências pessoais, mas também as da administração pública.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. Não cabe habeas corpus substitutivo de recurso legalmente previsto, salvo em casos de flagrante ilegalidade.
+2. A transferência de apenado ex-policial militar para presídio comum não configura ilegalidade, desde que observadas as disposições legais e garantias previstas na Lei nº 14.751/2023.
+3. A decisão sobre transferência de apenado deve considerar as conveniências da administração pública, além das condições pessoais do apenado.
+Dispositivos relevantes citados: Lei nº 14.751/2023, art. 18, inciso VI.
+Jurisprudência relevante citada: STJ, AgRg no HC 736.859/RO, Rel. Min. Jesuíno Rissato, Quinta Turma, julgado em 09.08.2022; STJ, AgRg no HC 666.434/BA, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 01.06.2021.
+VOTO
+A  irresignação  não  prospera.
+Conforme  exposto  na  decisão  agravada,  esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, rel. Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Inicialmente, cumpre destacar que a controvérsia trazida pela impetração delimita-se à questão de ser idônea a determinação pelo Tribunal de Justiça Militar da remoção de apenado que não mais ostenta a condição de militar para presídio comum, sem anterior provocação do Ministério Público.
+Dito isso, cumpre colacionar o trecho, extraído do acórdão proferido no agravo em execução penal, em que Corte estadual determinou a remoção do ora Paciente para presídio comum aos civis, nos seguintes termos (fl. 18):
+Dirimida essa questão chama a atenção neste feito o fato de que os três crimes praticados não tiveram qualquer relação com o exercício do cargo de Soldado da Polícia Militar então ocupado pelo sentenciado, razão pela qual, inclusive, suas condenações foram proferidas pela Justiça Comum e, mesmo sendo expulso daquela Instituição em 9 de janeiro de 2024, tornando-se civil desde então, continua cumprindo pena em estabelecimento prisional militar, o que se mostra indevido e inconveniente, devendo, portanto, ser providenciada a sua imediata transferência para estabelecimento prisional comum.
+Nessa conformidade, observada a determinação acima, deve ser negado provimento ao presente agravo de execução penal, mantendo-se a decisão proferida em primeiro grau.
+Com efeito, nota-se que o encaminhamento do apenado para presídio comum não se mostra irregular, bem como não consta da impetração elemento que demonstre a inadequação da unidade prisional em que se encontra atualmente o Paciente para o alcance dos objetivos da pena, tão somente pelo fato de ser ex-policial militar, bastando que seja observado o disposto no art. 18, inciso VI, da Lei n. 14.751/2023:
+Art. 18. São garantias das polícias militares e dos corpos de bombeiros militares dos Estados, do Distrito Federal e dos Territórios, bem como de seus membros ativos e veteranos da reserva remunerada e reformados, entre outras:
+ .. .
+VI - cumprimento de pena privativa de liberdade decorrente de sentença transitada em julgado, em unidade prisional militar e, na falta desta, em unidade prisional especial, separado dos demais presos do sistema penitenciário comum, quando a disciplina ou a ordem carcerária exigirem, quando perder o posto e a patente ou a graduação;
+Na esteira desse entendimento:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. TRANSFERÊNCIA DE PRESO (EX-POLICIAL MILITAR) PARA CUMPRIR PENA EM ESTABELECIMENTO MILITAR. DIREITO ABSOLUTO. INEXISTÊNCIA. FALTA DE ESTABELECIMENTO ADEQUADO NA COMARCA. INOCORRÊNCIA. EXECUÇÃO DA PENA EM ESTABELECIMENTO DESTINADO A MILITARES. DIREITOS RESGUARDADOS. CONVENIÊNCIA DA ADMINISTRAÇÃO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Assente nesta eg. Corte Superior que "(..) a deprecação da pena privativa de liberdade não constitui direito absoluto do executado, ainda que sob o fundamento da proximidade com a família.
+Cabe ao Juízo da Execução, portanto, analisar a viabilidade da transferência, fundada a decisão não somente nas conveniências pessoais do apenado, mas também nas da administração pública" (HC n. 487.932/GO, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/3/2019).
+III - Ademais, não merece prosperar a alegação defensiva de inadequação da Penitenciária Estadual Aruanã/RO, onde o agravante se encontra recolhido, tendo em vista que a Portaria n. 4227/2019/SEJUS-COGESPEN, além de demonstrar ser um ergástulo especial, não destinado a condenados comuns, atesta igualmente a adequação do estabelecimento à prisão de militares condenados, ainda que não definitivamente, como é o caso.
+IV - No caso concreto, não se aduziu também qualquer necessidade de transferência imediata do agravante para outro estabelecimento prisional, diante da ausência de qualquer informação de risco à sua integridade física ou mesmo da própria inadequação do local de sua custódia.
+V - No mais, a d. Defesa limitou-se a reprisar os argumentos lançados no habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 736.859/RO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA LIMINAR INDEFERIDA NO HC IMPETRADO NA CORTE DE ORIGEM. SÚMULA 691/STF. INSURGÊNCIA CONTRA DECISÃO DE 1º GRAU QUE DETERMINOU A TRANSFERÊNCIA DO AGRAVANTE, POLICIAL MILITAR DA ATIVA PRESO PREVENTIVAMENTE PELA SUPOSTA PRÁTICA DE HOMICÍDIO CONTRA INTEGRANTE DE FACÇÃO CRIMINOSA, PARA PRESÍDIO EM REGIME DISCIPLINAR DIFERENCIADO (RDD). ALEGAÇÃO DE DIREITO A PRISÃO ESPECIAL - ARTS. 295, CPP E 73, PARÁGRAFO ÚNICO, LEI 6880/80. AUSÊNCIA DE PATENTE ILEGALIDADE NA DECISÃO QUE INDEFERIU A LIMINAR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Não se revela teratológica a decisão do Relator do habeas corpus impetrado na Corte de origem que indeferiu liminar, salientando que, a par de a jurisprudência admitir a transferência de preso preventivo para o Regime Disciplinar Diferenciado - RDD, com amparo no art. 52 da Lei de Execuções Penais, a decisão de 1º grau que determinara a transferência se encontrava, à primeira vista, devidamente fundamentada em relatórios de indisciplina do paciente fornecidos pelo Centro de Custódia Provisória em que se encontrava internado, além de suspeita de sua associação com colega de cela, para comandar, de dentro do cárcere um sequestro. Existência, ainda, de informação do presídio para o qual o recorrente foi transferido atestando que suas dependências oferecem segurança necessária para custodiar o preso.
+3. Decisão indeferitória de liminar que se alinha, ademais, a precedente desta Corte no qual se reconheceu que "O fato de o recorrente ser policial militar não impede sua transferência ao Sistema Penitenciário Federal, uma vez que a reiterada jurisprudência desta Corte possui entendimento de que a prisão especial assegurada ao militar, custodiado provisoriamente, "consiste exclusivamente no recolhimento em local distinto da prisão comum (art. 295, § 1º, do CPP)". (HC 51.324/ES, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 4/2/2010, DJe 8/3/2010; RHC 44.014/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 4/09/2014, DJe 15/9/2014)" (RHC 115.918/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/08/2019, DJe 13/08/2019).
+4. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 666.434/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/6/2021, DJe de 8/6/2021.)
+Dessa forma,  na  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  impugnada.
+Ante o  exposto,  nego  provimento  ao  agravo  regimental.
+É o voto.
