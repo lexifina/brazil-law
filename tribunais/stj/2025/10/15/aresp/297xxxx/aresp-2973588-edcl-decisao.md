@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CESTA DE ALIMENTOS BRASIL LTDA à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+A r. decisão embargada aplicou a Súmula nº 7 do STJ para afastar a análise da alegada violação ao art. 779, II, do CPC, sob o argumento de que a pretensão recursal demandaria o reexame do acervo fático-probatório.
+Contudo, a Embargante, em seu Recurso Especial, não pleiteou a rediscussão de fatos, mas sim a revaloração jurídica dos elementos fáticos já delineados pelo Tribunal de origem, para demonstrar que a presunção de sucessão empresarial, baseada em critérios frágeis e insuficientes (como a mera continuidade de atividades no mesmo endereço e nome fantasia), configura uma interpretação equivocada do art. 779, II, do CPC.
+ ..
+No que concerne à segunda controvérsia, a r. decisão embargada afirmou a ausência de prequestionamento da tese recursal relativa à inaplicabilidade da preclusão quanto ao excesso de execução, em face de ato superveniente (penhora), conforme o art. 525, § 11, do CPC.
+Entretanto, a Embargante buscou, perante o Tribunal de origem, o prequestionamento da matéria, inclusive por meio de Embargos de Declaração, visando a manifestação expressa sobre a possibilidade de impugnação de atos supervenientes por simples petição, nos termos do art. 525, § 11, do CPC. A decisão embargada não se manifestou sobre a existência ou não de Embargos de Declaração opostos na instância ordinária para fins de prequestionamento, nem sobre a eventual omissão do Tribunal a quo em se manifestar sobre a questão, o que poderia configurar o prequestionamento ficto, nos termos do art. 1.025 do CPC.
+ ..
+Quanto à terceira controvérsia, a r. decisão embargada corretamente asseverou a impossibilidade de análise de matéria constitucional em sede de Recurso Especial, por ser de competência do Supremo Tribunal Federal.
+Não obstante, a tese recursal da Embargante, que versava sobre a violação aos princípios do devido processo legal, contraditório e ampla defesa (art. 5º, LIV e LV, da CF), decorrente da inclusão da parte na fase de cumprimento de sentença sem participação na fase de conhecimento, possui reflexos e desdobramentos de natureza infraconstitucional. A violação a tais princípios constitucionais, no caso concreto, manifesta-se através da inobservância de normas processuais infraconstitucionais que garantem a ampla defesa e o contraditório em todas as fases do processo (fls. 190-192).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
