@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE QUANTIA CERTA. CONTRATO DE MÚTUO. PRESCRIÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, o Estado do Tocantins propôs ação de execução de quantia certa contra os ora Agravados, visando o pagamento de dívida decorrente de contrato de empréstimo consignado firmado no âmbito do Programa de Microcrédito "Nossa Oportunidade", operado pelo PRODIVINO. A execução foi extinta pela ocorrência da prescrição.
+2. O Tribunal Estadual negou provimento ao apelo do Estado e do Instituto, julgado mantido em sede de embargos.
+3. Nesta Corte, o recurso especial não foi conhecido.
+4. A ausência de impugnação específica ao fundamento autônomo do acórdão recorrido, relativo à inexistência de comprovação de tentativa de intimação pessoal, atrai a incidência das Súmulas n. 283 e 284 do STF, por dissociação das razões recursais em relação à argumentação do acórdão.
+5. A análise do dissídio jurisprudencial resta prejudicada quando não há cotejo analítico entre os julgados apresentados, com a transcrição dos trechos necessários para demonstrar a identidade jurídica e a similitude fática entre os acórdãos comparados, nos termos do art. 1.029, § 1º, do CPC.
+6. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS e pelo INSTITUTO SOCIAL DIVINO ESPÍRITO SANTO - PRODIVINO contra decisão que não conheceu do recurso especial interposto pelos ora Agravantes, nos termos da seguinte ementa (fl. 385-386):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESCRIÇÃO. PROTESTO EXTRAJUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO E RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AUSÊNCIA DE COTEJO ANALÍTICO. RECURSO ESPECIAL NÃO CONHECIDO.
+Na origem, o ESTADO DO TOCANTINS propôs ação de execução de quantia certa contra PAULA ROSA DE OLIVEIRA STOCCHI e PAULO SOUSA DOS SANTOS, visando o pagamento de dívida decorrente de contrato de empréstimo consignado firmado no âmbito do Programa de Microcrédito "Nossa Oportunidade", operado pelo PRODIVINO. Alegou-se inadimplência dos executados em relação às parcelas do empréstimo, com pedido de citação para pagamento, indisponibilidade de bens e inclusão dos devedores em cadastro de inadimplentes.
+A sentença de primeiro grau extinguiu a execução com fundamento na prescrição quinquenal, nos termos do Decreto n. 20.910/32, considerando que o vencimento da última parcela do empréstimo ocorreu em 15/12/2014 e a ação foi ajuizada apenas em 13/02/2020.
+O Tribunal de Justiça do Estado do Tocantins, ao julgar a apelação interposta pelo ente público, manteve a sentença, destacando que o protesto extrajudicial não interrompe o prazo prescricional para créditos não tributários, por ausência de previsão normativa no Decreto n. 20.910/32.
+No recurso especial, os agravantes sustentaram violação do art. 202, inciso II, do Código Civil, ao argumento de que o protesto extrajudicial seria meio válido para interromper a prescrição, mesmo em dívidas não tributárias cobradas pela Fazenda Pública. Alegaram, ainda, que a interpretação do acórdão recorrido, ao fundamentar-se exclusivamente no Decreto n. 20.910/32, seria incompatível com a aplicação subsidiária do Código Civil e contrária a princípios constitucionais como eficiência, proteção ao crédito e indisponibilidade do interesse público.
+A decisão monocrática agravada, contudo, entendeu que as razões do recurso especial não impugnaram especificamente o fundamento autônomo do acórdão recorrido, relativo à ausência de comprovação de tentativa de intimação pessoal no protesto extrajudicial, o que atraiu os óbices das Súmulas n. 283 e 284 do STF. Ademais, destacou-se a ausência de cotejo analítico para a demonstração do dissídio jurisprudencial, inviabilizando a análise da divergência suscitada.
+No presente agravo interno, os agravantes alegam que o recurso especial impugnou de forma adequada e suficiente todos os fundamentos do acórdão recorrido, não sendo aplicáveis as Súmulas n. 283 e 284 do STF. Sustentam, ainda, que o protesto extrajudicial deve ser reconhecido como causa interruptiva da prescrição, com base no art. 202, inciso II, do Código Civil, e que a decisão monocrática merece retratação ou reforma pelo colegiado.
+Contrarrazões foram apresentadas pelos agravados, que defendem a manutenção da decisão agravada, sob o argumento de que o agravo interno possui caráter manifestamente protelatório, requerendo, inclusive, a aplicação de multa por litigância de má-fé, nos termos do art. 1.021, § 4º, do CPC.
+É o relatório
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE QUANTIA CERTA. CONTRATO DE MÚTUO. PRESCRIÇÃO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, o Estado do Tocantins propôs ação de execução de quantia certa contra os ora Agravados, visando o pagamento de dívida decorrente de contrato de empréstimo consignado firmado no âmbito do Programa de Microcrédito "Nossa Oportunidade", operado pelo PRODIVINO. A execução foi extinta pela ocorrência da prescrição.
+2. O Tribunal Estadual negou provimento ao apelo do Estado e do Instituto, julgado mantido em sede de embargos.
+3. Nesta Corte, o recurso especial não foi conhecido.
+4. A ausência de impugnação específica ao fundamento autônomo do acórdão recorrido, relativo à inexistência de comprovação de tentativa de intimação pessoal, atrai a incidência das Súmulas n. 283 e 284 do STF, por dissociação das razões recursais em relação à argumentação do acórdão.
+5. A análise do dissídio jurisprudencial resta prejudicada quando não há cotejo analítico entre os julgados apresentados, com a transcrição dos trechos necessários para demonstrar a identidade jurídica e a similitude fática entre os acórdãos comparados, nos termos do art. 1.029, § 1º, do CPC.
+6. Agravo interno não provido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece prosperar.
+Quanto ao cerne das alegações, constou na decisão agravada os seguintes argumentos (fls. 334-336):
+De início, a Corte de origem dirimiu a controvérsia no seguinte sentido (fls. 270-272):
+A regra da prescrição para o caso é clara, aplicando-se o Decreto n. 20.910/32 e não a regra do artigo 206, §5º, I do Código Civil.
+Ademais, a prescrição é um instituto criado com o objetivo de estabilizar as relações no tempo, visando privilegiar a segurança jurídica. Sobre o referido instituto, inexistem duvidas quanto a sua aplicabilidade em desfavor da Fazenda Pública, inclusive em sede de execução de título extrajudicial.
+Inclusive, no caso, não há que se falar em causa interruptiva da prescrição, em decorrência de protesto, eis que não se trata de regra prevista no Decreto n. 20.910/32. Assim, verifica-se que o pagamento da última parcela deveria ter sido realizado na data de (evento 1, ANEXO2), entretanto, o feito somente15/12/2014 foi distribuído em , tornando, logicamente, prescrita a pretensão autoral.13/02/2020
+Ressaltando que o protesto extrajudicial de título bancário também não está previsto entre as únicas hipóteses de interrupção da contagem do prazo prescricional elencadas no parágrafo único do art. 174 do CTN.
+E ainda que o vencimento da última parcela do empréstimo em 15/12/2014 configura o termo inicial da prescrição, uma vez que se trata de obrigação única, cujo parcelamento foi apenas uma forma de facilitar o adimplemento, não havendo relação de trato sucessivo que justifique a contagem da prescrição individual para cada parcela.
+ ..
+Logo, em que pese tenha havido o protesto extrajudicial do título, ao ponderar que a intimação do(a) devedor(a) acerca do protesto foi realizada por edital, sem qualquer comprovação de sequer ter ocorrido tentativa de intimação pessoal, mostra-se inviável considerar o protesto realizado como causa interruptiva da prescrição, em conformidade com o entendimento do STJ e demais tribunais pátrios.
+Nesse cenário, percebe-se que a parte recorrente deixou de impugnar, especificamente, o fundamento da ausência de comprovação de tentativa de intimação pessoal, o que atrai, por conseguinte, os óbices das Súmulas n. 283 e 284 do STF, por estarem as razões dissociadas da argumentação disposta no acórdão recorrido, limitando- se a violação genérica em relação à alegada ofensa a dispositivo legal.
+ ..
+Ademais, no que diz respeito ao dissídio jurisprudencial, a existência de óbice processual impedindo o conhecimento de questão suscitada pela alínea a, do permissivo constitucional, prejudica a análise da a alegada divergência jurisprudencial acerca do mesmo tema.
+ ..
+Por fim, verifica-se a ausência de cotejo analítico, já que não houve a transcrição dos trechos da decisão para comprovar a identidade jurídica e a similitude fática entre os acórdãos comparados, ainda que haja existência de citação de ementas.
+Na espécie, conforme bem pontuado na decisão agravada, percebe-se que não houve impugnação ao fundamento da ausência de comprovação de tentativa de intimação pessoal, justificada, portanto, a aplicação dos óbices dispostos nas Súmulas n. 283 e 284 do STF.
+Ademais, não há qualquer fato novo que justificasse a alteração da decisão agravada, renovando o agravante as razõ es dispostas no recurso especial.
+No caso, a parte agravante não logrou êxito em infirmar os fundamentos, relativos aos óbices, que nortearam a decisão ora agravada, que deve ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
