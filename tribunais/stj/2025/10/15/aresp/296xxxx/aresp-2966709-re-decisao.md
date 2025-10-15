@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que manteve a decisão de não conhecimento do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 5.505):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DAS SÚMULAS 7, 83 E 182 DO STJ. DECISÃO DE INADMISSIBILIDADE COMO UNIDADE INCINDÍVEL. IMPUGNAÇÃO GENÉRICA. REITERAÇÃO DE MÉRITO INSUFICIENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, por ausência de impugnação específica a todos os fundamentos da decisão de inadmissibilidade, especialmente quanto à aplicação das Súmulas n. 83 e 7 do STJ.
+2. Conforme o art. 932, III, do CPC e o art. 253, parágrafo único, I, do RISTJ, impõe-se a necessidade de impugnação específica e suficiente de todos os fundamentos da decisão agravada, sob pena de incidênciada Súmula 182 do STJ.
+3. A simples alegação genérica de não incidência dos óbices e a transcrição de ementas sem o necessário cotejo analítico não afastam os fundamentos da inadmissibilidade.
+4. A jurisprudência do STJ é pacífica no sentido de que a decisão que inadmite recurso especial constitui unidade incindível, exigindo-se impugnação integral de seus fundamentos.
+5. A reafirmação de argumentos de mérito, sem o enfrentamento técnico dos fundamentos da decisão de inadmissibilidade, não supre a exigência recursal.
+6. Agravo regimental não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 5.522-5.525).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, XXXIX, XLVI, LIV, LV e LVII, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta o STJ teria rejeitado os embargos de declaração sem enfrentar questões essenciais, especialmente a inaplicabilidade das Súmulas n. 7 e 83 do STJ, a ausência de perícia técnica (arts. 158 e 167 do CPP) e a insuficiência probatória (art. 386 do CPP), configurando negativa de prestação jurisdicional.
+Sustenta que a pena-base teria sido mantida acima do mínimo legal com amparo em fundamentação genérica.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 5.508-5.509):
+Como visto, a decisão agravada não conheceu do agravo em recurso especial com base na ausência de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial na origem, a qual apontou, de forma clara, a incidência das Súmulas 7 e 83 do STJ.
+De fato, nos termos do art. 932, III, do CPC, combinado com o art. 253, parágrafo único, I, do RISTJ, não se conhece de agravo em recurso especial que não ataca especificamente todos os fundamentos da decisão agravada.
+No caso, todavia, verifica-se que, ao interpor o agravo em recurso especial, bem como o presente agravo regimental, a defesa se limitou a alegar, de maneira genérica, a não incidência dos óbices indicados, sem demonstrar o adequado enfrentamento dos fundamentos utilizados na decisão agravada.
+Oportuno relembrar que o "afastamento da Súmula 83/STJ exige a demonstração de divergência estabelecida entre o entendimento adotado pelo Tribunal e a jurisprudência do STJ, com indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, na espécie" (AgRg no AREsp n. 2.444.910/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Ademais, a "mera transcrição de ementas e a ausência de cotejo analítico entre os precedentes citados e a situação dos autos não são suficientes para afastar o óbice da Súmula 83 do STJ." (AgRg no AREsp n. 2.543.958/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2025, DJEN de 26/6/2025.)
+ ..
+De outro vértice, saliente-se que, conforme o firme entendimento desta Corte, não basta ao agravante "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/6/2020.)
+Com efeito, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Nesse contexto, portanto, na mesma linha da decisão agravada, conclui-se inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
