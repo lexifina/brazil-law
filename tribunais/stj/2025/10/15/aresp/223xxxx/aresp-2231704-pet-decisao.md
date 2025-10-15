@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de petição apresentada por Fernando Vidal Ferreira, buscando o reconhecimento da prescrição da pretensão punitiva, na modalidade retroativa, em relação ao crime de sonegação de contribuição previdenciária (art. 337-A do Código Penal), tendo em vista a fixação da pena definitiva de 5 anos de reclusão e 25 dias-multa (e-STJ fls. 2633.
+O Ministério Público Federal se manifestou pelo reconhecimento da prescrição.
+É o relatório. Decido.
+Acolho, como razões de decidir, a manifestação apresentada pelo Ministério Público Federal, às e-STJ fls. 97-99 do expediente avulso, in verbis:
+Merece acolhida a pretensão defensiva.
+Sobre o tema, prescrição retroativa, invocada em relação ao crime de sonegação de contribuição previdenciária (art. 337- A do Código Penal), deve-se anotar que o seu reconhecimento "entre a data do fato e o recebimento da denúncia, baseando-se na pena em concreto, somente é possível quanto a fatos ocorridos antes de 5/5/2010, pois a nova redação dada pela Lei n. 12.234 ao § 1º do art. 110 do CP veda expressamente o reconhecimento da prescrição que tem por marco inicial a data anterior à da denúncia ou queixa" (AgRg no AR Esp n. 1.708.693/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/2/2021, D Je de 26/2/2021, grifou-se).
+No presente caso, os fatos imputados são anteriores ao advento da aludida Lei nº 12.234/2010, pelo que a eventual prescrição deve ser aferida, de fato, na modalidade retroativa, prevista no ora revogado § 2º do art. 110 do Código Penal, tomando por base a pena em concreto, nos termos do art. 109 do CP, após o trânsito em julgado da condenação e segundo os marcos interruptivos descritos no art. 117 do mesmo diploma legal.
+Consta nestes autos que a sonegação de contribuição previdenciária ocorreu por 12 meses, de janeiro de 2001 a dezembro de 2001, tendo sido aplicada a pena-base de 03 anos de reclusão, mais 15 dias-multa, a qual sofreu acréscimo de 2/3 pela continuidade delitiva, resultando na pena definitiva de 5 anos de reclusão e 25 dias-multa (e-fl. 2633).
+Nesse passo, desconsiderada a continuidade delitiva, a pena a ser avaliada na hipótese é de 03 anos de reclusão, sendo que: (i) a data fatos monta de janeiro de 2001 a dezembro de 2001; e (ii) o recebimento da denúncia se deu em 10/05/2013, pelo que observa- se o decurso de prazo superior a 8 anos (art. 109, IV, do Código Penal) entre os referidos marcos interruptivos, razão pela qual também está prescrita a pretensão punitiva do crime do art. 337-A do Código Penal.
+Logo, deve ser declarada extinta a punibilidade do peticionário pela prescrição da pretensão punitiva retroativa.
+Estando o corréu na mesma situação fática do peticionante, deve ser estendida a Roberto Mendes de Lima o efeitos desta decisão, nos termos do art. 580 do CPP .
+Ante o exposto, declaro ex tinta a punibilidade de Fernando Vidal Ferreira, relativamente ao delito do art. 337-A do Código Penal, com fundamento na prescrição da pretensão punitiva estatal na modalidade retroativa, com extensão dos efeitos a Roberto Mendes de Lima.
+Intime-se.
+EMENTA
