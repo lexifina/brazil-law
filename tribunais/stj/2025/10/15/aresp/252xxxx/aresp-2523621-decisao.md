@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se agravo em recurso especial interposto por MARCUS VINICIUS DA SILVA CIRUFFO contra decisão que obstou a subida do recurso especial.
+Extrai-se dos autos que foi interposto recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que julgou demanda relativa à enriquecimento sem causa.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fls. 522-523):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ALEGADAS BENFEITORIAS REALIZADAS DE BOA-FÉ EM IMÓVEL QUE FOI RESTITUÍDO AO RÉU EM VIRTUDE DE DECISUM EM AÇÃO DE REINTEGRAÇÃO DE POSSE. ARTIGOS 1.219 E 1.220 DO CC. SENTENÇA DE IMPROCEDÊNCIA. 1. A análise detida do feito revela que as notas ficais apresentadas pelo autor (I Ds 11 e 37) datam de 2011 a 2014. 2. Além disso, as demandas judiciais nas quais havia discussão sobre a propriedade e posse do bem descrito na inicial (usucapião e reintegração de posse) foram ajuizadas em 2007 e 2008, o que torna demasiadamente frágil a alegação de boa-fé do autor. 3. Neste contexto, a despeito de constar no laudo pericial que foram realizadas ampliações/reformas no imóvel (fls. 280/281 - ID 278), algumas com baixo/baixíssimo padrão de acabamento e precário estado de conservação, o demandante não faz jus à almejada indenização de benfeitorias, dada a ausência de boa-fé objetiva, assim como melhorias necessárias, nos moldes do art. 961 e do art. 1.2202, ambos do CC. SENTENÇA QUE SE MANTÉM. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Rejeitados os embargos de declaração opostos (fls. 550-555).
+No presente recurso especial, o recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 1.220 do Código Civil.
+Apresentadas as contrarrazões (fls. 574-586), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 589-592), o que ensejou a interposição de agravo (fls. 600-607).
+Apresentada contraminuta do agravo (fls. 610-621).
+É, no essencial, o relatório.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade, notadamente a impugnação específica aos fundamentos da decisão agravada. Assim, conheço do agravo e passo à análise do recurso especial, o qual, contudo, não merece prosperar.
+O Tribunal de origem concluiu no sentido de que não há boa-fé do Agravante, o que afasta o dever de indenização, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 526-528):
+Sucede que a análise detida do feito revela que as notas ficais apresentadas pelo autor (I Ds 11 e 37) datam de 2011 a 2014. Outrossim, o réu comprovou que notificou o ora autor em 2008 a fim de que desocupasse o bem (ID 155):
+(..)
+Além disso, as demandas judiciais nas quais havia discussão sobre a propriedade e posse do bem (usucapião e reintegração de posse) foram ajuizadas em 2007 e 2008, o que torna demasiadamente frágil a alegação de boa-fé do autor que, repita-se, apresentou comprovantes de despesas relativas a alegadas obras no imóvel datadas de 2011 a 2014 (I Ds 11 e 37). Neste contexto, a despeito de constar no laudo pericial que foram realizadas ampliações/reformas no imóvel (fls. 280/281 - ID 278), algumas com baixo/baixíssimo padrão de acabamento e precário estado de conservação, o demandante não faz jus à almejada indenização de benfeitorias, dada a ausência de boa-fé objetiva, assim como de benfeitorias necessárias, nos moldes do art. 964 e do art. 1.2205, ambos do CC.
+Afastar o referido entendimento para concluir no sentido de que o Agravante agiu de boa-fé ao realizar as benfeitorias, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15 % sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
