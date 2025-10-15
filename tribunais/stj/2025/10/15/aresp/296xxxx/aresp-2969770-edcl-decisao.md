@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por R. D. N. contra decisão em que conhecido o agravo e não conhecido o recurso especial (fls. 610-615).
+A parte embargante afirma a ocorrência de vício no julgado, pois não teriam sido observados os arts. 5º, LIV e LV, e 93, IX, da Constituição, afirmando que haveria omissa na decisão embargada quanto aos referidos dispositivos (fls. 260-263).
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, não ultrapassado o óbice da Súmula n. 7 do STJ, uma vez que a pretensão para que seja absolvido o recorrente demandaria aprofundado reexame de fatos e provas, providência vedada em sede de recurso especial.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, propósito inviável em embargos de declaração, nada havendo que se possa acolher.
+Ademais, não cabe "a esta Corte Superior de Justiça levar a efeito exame de pretensa afron ta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl no AgRg no AREsp n. 2.597.307/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024; e EDcl no AgRg no AREsp n. 2.487.334/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
