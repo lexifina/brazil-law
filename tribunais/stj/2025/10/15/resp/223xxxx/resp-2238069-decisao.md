@@ -1,0 +1,74 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ARILU DISTRIBUIDORA S.A contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 4ª Região no julgamento, assim ementado (fls. 274/276e):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. MENOR APRENDIZ. CONTRIBUINTE OBRIGATÓRIO NA CATEGORIA DE EMPREGADO.
+1. O menor aprendiz, apesar de possuir contrato especial de trabalho, é considerado segurado obrigatório na categoria de empregado para efeito da incidência da contribuição previdenciária.
+2. O contrato especial firmado pelo empregador com o aprendiz não se confunde com o contrato com o menor assistido, regulado pelo Decreto-Lei nº 2.318/86.
+3. O art. 6º, II, da IN nº 971/09, e o art. 5º, II, da IN nº 2.110/22, ao disporem que o aprendiz, maior de 14 anos e menor de 24 anos, deve contribuir na qualidade de segurado empregado, mantiveram-se contidos pelo balizamento legal.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+- Arts. 428 e parágrafos da Consolidação das Leis do Trabalho (combinado com as regras do art. 46 e 47 do Decreto nº. 9.579/2018) e 4º §4º, do Decreto-Lei nº. 2.318/86 - "o Tribunal Regional Federal da 4ª região manteve o entendimento de que há incidência de contribuição previdenciária sobre os valores pagos a título de remuneração ao menor aprendiz, sob o fundamento de que este deve ser enquadrado como segurado obrigatório na categoria de empregado" (fl. 292e), "deixando de aplicar a norma isentiva contida no decreto" (fl. 302e); e
+- Arts. 14 da Lei nº. 8.212/91, 13 da Lei nº. 8.213/91 e 11, §3º do Decreto 3.048/99 - o acórdão recorrido violou a lei federal que prevê "que o maior de 14 anos é segurado facultativo do Regime", bem como o "disposto no art. 11, § 3º do decreto 3.048/99, que "expressa que é segurado facultativo o maior de 18 anos de idade que se filiar ao Regime Geral de Previdência Social, bem como "que a filiação na qualidade de segurado facultativo representa ato volitivo do segurado." (fl. 308e)
+Com contrarrazões (fls. 369/378e), o recurso foi inadmitido (fls. 381/384e), tendo sido interposto Agravo, convertido, posteriormente, em Recurso Especial (fl. 465e).
+O Ministério Público Federal manifestou-se às fls. 460/463e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Anote-se, inicialmente, que, acerca das suscitadas ofensas aos arts. 14 da Lei nº. 8.212/91, 13 da Lei nº. 8.213/91 e 11, §3º do Decreto nº. 3.048/99, amparadas nos argumentos de que o acórdão recorrido decidiu que aprendizes devem contribuir como segurados empregados e, nessa toada, deixou de reconhecer norma isentiva aplicável ao caso concreto, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca da carga normativa contida nos dispositivos apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, não foi examinada, ainda que implicitamente, a alegação concernente à necessidade de manter a suspensão do feito até a conclusão dos embargos de declaração no Tema 1.237, com fundamento nos arts. 8º, 926 e 927, III, do Código de Processo Civil.
+Desse modo, aplicável o enunciado da Súmula n. 211 desta Corte ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. PRESCRIÇÃO. INEXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. PREJUÍZO.
+1. As teses vinculadas ao disposto nos arts. 50, 187 e 1.712 do Código Civil; 921, III e §§ 1º, 2º e 4º, do CPC; e 37 da Lei n. 10.741/2003 não foram prequestionadas, não obstante a oposição de embargos de declaração, o que atrai a incidência do óbice da Súmula 211 do STJ na espécie, não havendo que falar em prequestionamento implícito.
+(..)
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.147.272/RJ, Relator Ministro Gurgel de Faria, Primeira Turma, julgado em 09.06.2025, DJEN de 25.06.2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INEXISTÊNCIA DE BENS PENHORÁVEIS. SUSPENSÃO DA EXECUÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. MATÉRIA DECIDIDA. ALEGADA VIOLAÇÃO AOS ARTS. 5º, 9º, 10, 14 E 921, § 4º, TODOS DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ. 3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.154.123/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+Oportuno mencionar que o Decreto 3.048/99 é diploma de natureza infralegal, que não viabiliza a interposição de recurso especial.
+- Das contribuições incidentes sobre a remuneração paga ao aprendiz
+Passando ao mérito, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte no julgamento do Tema Repetitivo 1242, segundo o qual "a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, da Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e das contribuições a terceiros":
+Tributário. Tema 1.342. Recurso especial representativo de controvérsia. Contribuição patronal. Incidência. Contrato de aprendizagem (art. 428 da CLT).
+I. Caso em exame
+1. Tema 1.342: recursos especiais (REsp ns. 2.191.479 e 2.191.694) afetados ao rito dos recursos repetitivos, para dirimir controvérsia relativa à incidência da contribuição previdenciária patronal sobre a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT).
+II. Questão em discussão
+2. Definir se a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal.
+III. Razões de decidir
+3. A contribuição do empregador e o adicional para financiamento da aposentadoria especial incidem sobre as remunerações de empregados e de trabalhadores avulsos, "destinadas a retribuir o trabalho, qualquer que seja a sua forma" (art. 22, I, da Lei n. 8.212/1991). A Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e as contribuições a terceiros são apuradas sobre a mesma base.
+4. O aprendiz é empregado. O contrato de aprendizagem é um "contrato de trabalho especial" (art. 428 da CLT, com redação dada pela Lei n. 11.180/2005). O reconhecimento de direitos previdenciários ao adolescente é princípio da legislação protetiva (art. 65 do ECA).
+5. Não se sustenta o argumento de que o aprendiz é segurado facultativo, na forma do art. 14 da Lei n. 8.212/1991 e de seu correspondente art. 13 da Lei n. 8.213/1991. Esses dispositivos apenas trazem uma idade mínima para a filiação como facultativo. A forma de filiação de uma pessoa com menos de 18 anos de idade que tenha um contrato de trabalho será a de empregado.
+6. A jurisprudência do STJ afirma que o art. 4º, § 4º, do Decreto-Lei n. 2.318/1986 não está regulamentado e não se confunde com o contrato de aprendizagem, previsto no art. 428 da CLT. Logo, não há aplicação atual para esse ato normativo.
+IV. Dispositivo e tese
+7. Tese: A remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, da Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e das contribuições a terceiros.
+8. Caso concreto: negado provimento ao recurso especial.
+______
+Dispositivos relevantes citados: arts. 14 e 22 da Lei n. 8.212/1991, art. 13 da Lei n. 8.213/1991, art. 4º, § 4º, do Decreto-Lei n. 2.318/1986, art. 428 da CLT, art. 65 do ECA.
+Jurisprudência relevante citada: STJ, AgInt no REsp n. 2.146.118, Rel. Min. Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024; AgInt nos EDcl no REsp n. 2.078.398, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 26/2/2024.
+(REsp n. 2.191.479/SP, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 13/8/2025, DJEN de 19/8/2025.)
+- Do dissídio jurisprudencial
+Por fim, quanto à alegação de divergência jurisprudencial, o recurso especial também é inadmissível.
+A uma, porque o acórdão recorrido encontra-se em consonância com a jurisprudência deste Superior Tribunal de Justiça, como consignado acima,.
+A duas, porquanto a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que a recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas e votos. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. IRRESIGNAÇÃO. DEFICIÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. INEXISTÊNCIA.
+ ..
+2. Para a comprovação da divergência jurisprudencial é necessária a comparação do acórdão recorrido com precedentes de outros Tribunais ou do próprio STJ mediante cotejo analítico, com demonstração da similitude fática existente entre os casos e da diferença de solução jurídica para eles aplicada.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.787.325/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 30/6/2025, DJEN de 8/7/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. IMPUGNAÇÃO DA HABILITAÇÃO EM SEDE DE CUMPRIMENTO DE SENTENÇA. MORTE DO REQUERENTE NO CURSO DA AÇÃO DE CONHECIMENTO. DEVIDA PRESTAÇÃO JURISDICIONAL. FUNDAMENTOS SUFICIENTES POR SI SÓS PARA ESTEAR ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. HONORÁRIOS. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA N. 284 DO STF. RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, DESPROVIDO.
+ ..
+4. A parte recorrente não realizou o cotejo analítico, nos moldes legais e regimentais, vício insanável. Com efeito, a mera transcrição da ementa do paradigma ou de recorte de trecho do voto, seguida de considerações genéricas do recorrente, não atende ao requisito de admissibilidade do recurso especial interposto com base na alínea c do permissivo constitucional, que pressupõe a demonstração da identidade fático-jurídica entre os casos confrontados, de modo a evidenciar o suposto dissenso na interpretação do dispositivo de lei federal.
+5. Recurso especial conhecido em parte e, na extensão, desprovido.
+(REsp n. 2.188.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ (Recursos Especiais ns. 1.864.633/RS, 1.865.223/SC e 1.865.553/PR, acórdãos pendentes de publicação), fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Assim, sem condenação em honorários advocatícios, a teor do disposto no art. 25 da Lei n. 12.016/2009 e na Súmula 105/STJ.
+Posto isso, com fundamento nos arts. 932, III e IV, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO PARCIALMENTE do Recurso Especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
+EMENTA
