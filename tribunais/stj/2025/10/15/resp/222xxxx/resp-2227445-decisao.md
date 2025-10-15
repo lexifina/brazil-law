@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRE SANTOS ALMEIDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, na Apelação Criminal n. 0082929-47.2017.8.26.0050, assim ementado (fls. 305/326):
+APELAÇÃO CRIMINAL. RECEPTAÇÃO. Preliminar de nulidade por suposta ilegalidade na busca pessoal afastada. Abordagem legitimada por fundada suspeita, diante da presença do réu em local notoriamente vinculado a desmanches de veículos furtados ou roubados, conduzindo automóvel de alto valor incompatível com a realidade da região. Pleito de absolvição por insuficiência de provas. Impossibilidade. Materialidade e autoria bem delineadas. Réu que admitiu ter adquirido veículo com valor notadamente inferior ao de mercado, sem trazer qualquer comprovação de que tenha adquirido de maneira lícita. Versão exculpatória isolada não se sobrepõe à palavra firme, coerente e harmônica dos agentes de segurança pública, cujos depoimentos gozam de presunção de veracidade, ausente prova em sentido contrário. Ônus da prova quanto à boa-fé que incumbia à Defesa, não satisfeito. Dolo evidenciado. Condenação mantida. Pena-base exasperada em razão do expressivo do bem, carro de luxo, o que acentua a reprovabilidade da conduta do réu. Critério legítimo e adequado, nos termos da jurisprudência consolidada. Regime aberto, pertinente ao réu primário. Substituída a pena privativa de liberdade por duas penas restritivas de direitos. Impossibilidade de redução da prestação pecuniária, já fixada no mínimo. Afastada a preliminar, no mérito, negado o provimento ao recurso.
+No recurso especial, a parte recorrente alegou, em síntese, violação dos arts. 156, 157, caput e § 1º, e 244, todos do Código de Processo Penal, bem como dos arts. 59 e 109, IV, ambos do Código Penal. Sustenta a nulidade das provas por ilegalidade da busca pessoal, a indevida inversão do ônus da prova, a ocorrência da prescrição da pretensão punitiva e, subsidiariamente, a ilegalidade na exasperação da pena-base (fls. 332/348).
+Oferecidas contrarrazões (fls. 353/358), o recurso especial foi parcialmente admitido na origem (fls. 360/362).
+O Ministério Público Federal opinou pelo não conhecimento do recurso e, no mérito, pelo seu desprovimento (fls. 371/375).
+É o relatório.
+A insurgência não comporta acolhimento.
+1. Da alegada contrariedade aos arts. 244 e 157, caput e § 1º, do Código de Processo Penal
+O recorrente alega a nulidade da abordagem policial e das provas dela decorrentes, por ausência de fundada suspeita. Sobre a matéria, o Tribunal de origem assim entendeu (fl. 308 - grifo nosso):
+ ..
+Conforme relatado pelos agentes públicos, a diligência ocorreu em local notoriamente conhecido como destino recorrente de veículos oriundos de furto e roubo, dada a expressiva incidência de desmanches e crimes correlatos, inclusive de roubo de carga. O automóvel, de elevado valor comercial, circulava em região de reconhecida vulnerabilidade social, circunstância que, por destoar do habitual e diante da vivência dos policiais em ocorrências da mesma natureza, despertou fundada suspeita desprovida de qualquer traço de discriminação, mas lastreada na experiência funcional e na lógica operacional da segurança pública.
+ ..
+Com efeito, as instâncias ordinárias, soberanas na análise do acervo fático-probatório, concluíram pela existência de justa causa para a abordagem, fundamentada em elementos concretos observados no momento da ação policial. A alteração desse entendimento, para reconhecer a ausência de fundada suspeita, demandaria, necessariamente, o reexame de fatos e provas, providência vedada nesta via especial, nos termos da Súmula 7/STJ.
+Ademais, a abordagem realizada em contexto de patrulhamento ostensivo, com base em elementos que indicam incompatibilidade entre o bem e a situação observada, não configura, de plano, ilegalidade, conforme precedentes desta Corte (grifo nosso):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. NULIDADE POR BUSCA VEICULAR EM VIA PÚBLICA. ABORDAGEM DE TERCEIRO EM OPERAÇÃO OSTENSIVA DE PATRULHAMENTO DA POLÍCIA RODOVIÁRIA FEDERAL. TRANCAMENTO DO INQUÉRITO POLICIAL. IMPOSSIBILIDADE. PRESENÇA DE JUSTA CAUSA PRIMA FACIE. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+ ..
+III - No caso concreto, a abordagem policial de terceiro foi realizada em plena operação de policiamento ostensivo por policiais rodoviários federais, não havendo falar em nulidade patente do ato.
+Precedente do STF.
+IV - Como ainda consignado na origem, a renda do terceiro (então abordado na operação policial) seria aparentemente incompatível com o valor pago pelo veículo, tudo o que também poderia ser verificado por meio de provas independentes.
+ ..
+(AgRg no HC n. 872.320/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+2. Da suposta violação do art. 156 do Código de Processo Penal
+A defesa sustenta que houve indevida inversão do ônus da prova. Contudo, o acórdão recorrido está em perfeita harmonia com a jurisprudência consolidada deste Superior Tribunal de Justiça, segundo a qual, no crime de receptação, a apreensão do bem de origem ilícita em poder do agente gera a presunção de sua responsabilidade, cabendo-lhe demonstrar a licitude da posse. A propósito: A jurisprudência do STJ é consolidada no sentido de que, no crime de receptação, cabe à defesa apresentar prova da origem lícita do bem ou de sua conduta culposa, conforme art. 156 do CPP, sem inversão do ônus da prova (AgRg no REsp n. 1.870.835/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+Incide, portanto, o óbice da Súmula 83/STJ.
+3. Da alegada contrariedade ao art. 109, IV, do Código Penal
+A pretensão de ver reconhecida a prescrição não prospera. A pena máxima para o crime de receptação é de 4 anos, cujo prazo prescricional é de 8 anos (art. 109, IV, do CP). Como bem pontuou a Corte local, o recebimento da denúncia, em 11/12/2023, interrompeu o curso do prazo (art. 117, I, do CP), não havendo transcorrido o lapso de 8 anos desde a data do fato (ocorrido entre 18/7/2017 e 18/9/2017).
+Sobre o tema, transcreve-se o trecho pertinente do acórdão recorrido (fl. 308):
+ ..
+Cabe ressaltar que, embora alegue a Defesa prescrição da pretensão punitiva, não há espaço para que seja ela acolhida. Da data do fato até o recebimento da denúncia transcorreram-se 5 (cinco) anos, no entanto, considerando a pena em abstrato máxima de 4 (quatro) anos, o prazo seria de 8 (oito) anos, nos termos do art. 109, inciso III. Após o recebimento da denúncia, até a sentença transcorreram-se 1 (um) ano, 1 (um) mês e 24 (vinte e quatro) dias, estando, também, dentro do prazo prescricional da pena em concreto, que seria de 4 (quatro) anos.
+ ..
+Não há, portanto, ilegalidade a ser sanada. Nesse sentido: REsp n. 2.097.438/PR, de minha relatoria, Sexta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.
+4. Da suposta violação do art. 59 do Código Penal
+Por fim, no que tange à dosimetria, a defesa insurge-se contra a exasperação da pena-base em razão do valor do bem receptado. A jurisprudência desta Corte é pacífica no sentido de que o elevado valor do bem constitui fundamento idôneo para a valoração negativa da culpabilidade ou das consequências do crime, justificando o aumento da pena-base: Em crimes patrimoniais envolvendo veículo automotor, bem de elevado valor patrimonial, a conduta se reveste de maior reprovabilidade concreta, o que autoriza a exasperação da pena-base (AgRg no REsp n. 1.953.699/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+Estando o acórdão recorrido em consonância com o entendimento deste Tribunal, aplica-se a Súmula 83/STJ.
+Em razão do exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. RECEPTAÇÃO. BUSCA PESSOAL. FUNDADA SUSPEITA. INVERSÃO DO ÔNUS DA PROVA. PRESCRIÇÃO. DOSIMETRIA DA PENA. SÚMULA 7/STJ. SÚMULA 83/STJ.
+Recurso especial improvido.
