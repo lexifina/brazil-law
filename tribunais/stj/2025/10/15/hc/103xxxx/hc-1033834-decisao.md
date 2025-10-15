@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em benefício de MARCOS ANTONIO DO NASCIMENTO JUNIOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento do Agravo em Execução Penal n. 0711292-95.2025.8.07.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal deferiu o pedido de indulto, formulado pelo paciente com base no Decreto Presidencial n. 12.338/2024.
+O Tribunal de origem deu parcial provimento ao agravo em execução penal interposto pelo Parquet para cassar o indulto, em razão da homologação de falta grave no período relevante, determinando ao Juízo da execução que, após oitiva do apenado, decida sobre a reconversão definitiva da pena restritiva de direitos em privativa de liberdade. Confira-se a ementa do julgado (fls. 12/13):
+"DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. INDULTO NATALINO. FALTA GRAVE COMETIDA DENTRO DO PERÍODO DE DOZE MESES ANTERIORES AO DECRETO PRESIDENCIAL. HOMOLOGAÇÃO POSTERIOR. IMPEDIMENTO À CONCESSÃO DO BENEFÍCIO. RECURSO PARCIALMENTE PROVIDO.
+I. CASO EM EXAME
+1. Agravo em execução penal interposto pelo Ministério Público do Distrito Federal e Territórios contra decisão que concedeu indulto pleno ao condenado pelos crimes de embriaguez ao volante e lesão corporal, com base no Decreto n. 12.338/2024. A decisão declarou extinta a pena privativa de liberdade e a multa, embora o apenado tenha abandonado a execução da pena restritiva de direitos e tenha sido reconhecida e homologada a prática de falta grave.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a prática de falta grave dentro dos doze meses anteriores a 25/12/2024, ainda que homologada posteriormente, impede a concessão do indulto previsto no Decreto n. 12.338/2024.
+III. RAZÕES DE DECIDIR
+3. O art. 6º do Decreto n. 12.338/2024 condiciona a concessão do indulto à inexistência de aplicação de sanção por falta disciplinar de natureza grave cometida nos doze meses anteriores a 25/12/2024, desde que a infração tenha sido reconhecida em audiência de justificação, com respeito ao contraditório e à ampla defesa, mesmo que a homologação ocorra após a data de referência.
+4. No caso concreto, o apenado abandonou o cumprimento da pena pecuniária em 09/10/2024, cessando os depósitos efetuados, e teve a falta grave homologada em 12/03/2025, em audiência para a qual foi regularmente intimado, mas não compareceu.
+5. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o prazo previsto nos decretos de indulto se refere à data da prática da falta grave, e não à sua homologação judicial (AgRg no HC n. 975.718/SP, DJEN 7/5/2025; AgRg no HC n. 956.684/SP, DJEN 18/3/2025; AgRg no HC n. 936.137/SP, DJe 26/11/2024).
+6. A prática de falta grave no período de doze meses anteriores a 25/12/2024 impede a concessão do indulto previsto no Decreto n. 12.338/2024, ainda que a homologação judicial da infração ocorra posteriormente.
+7. A reconversão da pena restritiva de direitos em privativa de liberdade exige prévia oitiva do apenado, ainda que este tenha sido previamente advertido quanto às consequências do descumprimento, não cabendo ao tribunal decidir sobre a medida sem manifestação do juízo da execução.
+IV. DISPOSITIVO
+8. Recurso parcialmente provido."
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos necessários à concessão do indulto, não sendo possível o indeferimento com fundamento em suposta falta disciplinar homologada em momento posterior ao período relevante previsto no Decreto n. 12.338/2024.
+Assevera que o reconhecimento da falta grave em desfavor do paciente se deu somente em 12/3/2025, portanto fora do lapso sensível do Decreto, não podendo retroagir para obstar o indulto concedido com base em requisitos cumpridos até 25/12/2024.
+Requer a concessão da ordem para cassar o acórdão questionado e assim restabelecer a decisão do Juízo da Execução que concedeu o indulto ao paciente, com base no art. 9º, VII, do Decreto n. 12.338/2024.
+O Ministério Público Federal - MPF opinou pela denegação da ordem (fls. 337/341).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O art. 6º do Decreto n. 12.338/2024 prevê a impossibilidade de concessão do indulto ou comutação de penas aos condenados que tenham praticado falta grave nos 12 meses que antecedem a data de 25/12/2024. A propósito, confira-se o teor do dispositivo:
+"Art. 6º A declaração do indulto e da comutação de pena prevista neste Decreto fica condicionada à inexistência de aplicação de sanção reconhecida pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave prevista na Lei nº 7.210, de 11 de julho de 1984, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2024.
+Parágrafo único. A notícia da prática de falta disciplinar de natureza grave prevista na Lei nº 7.210, de 11 de julho de 1984, ocorrida após a data de publicação deste Decreto, não suspende nem impede a obtenção do indulto ou da comutação de pena."
+Tal dispositivo é repetição da norma insculpida em outros decretos que concederam indulto no Brasil. A interpretação pretendida pela defesa, no sentido de que apenas as faltas graves praticadas, apuradas e devidamente sancionadas nos doze meses que antecedem a data limite prevista no decreto, foi objeto de análise por esta Corte.
+Inclusive, há afetação pela Terceira Seção do Tema Repetitivo 1.195, no qual a questão submetida a julgamento é "A possibilidade de comutação de pena, nos casos em que, embora tenha ocorrido a prática de falta grave nos últimos doze meses que antecederam a publicação do Decreto n. 9.246/17, não conste homologação em juízo no mesmo período".
+Em que pese a existência de julgados dissonantes, é possível afirmar que prevalece, em ambas as turmas que compõem a Terceira Seção, o entendimento de que a falta grave praticada nos doze meses que antecedem a data limite prevista no decreto concessivo de indulto impede a aplicação do benefício, independentemente da data da homologação.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. NULIDADE. AUSÊNCIA DE PREJUÍZO. INDULTO. DECRETO PRESIDENCIAL N. 8.615/2015. FALTA GRAVE. HOMOLOGAÇÃO POSTERIOR. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O STJ entende necessária a demonstração de prejuízo concreto para a declaração de nulidade de qualquer ato processual.
+2. O prazo de doze meses a que se refere o Decreto Presidencial n. 8.615/2015 relaciona-se apenas ao cometimento da falta grave, e não à sua homologação judicial.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.757.968/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 8.940/16. COMETIMENTO DE FALTA GRAVE NOS DOZE MESES ANTERIORES AO DECRETO. INDEFERIMENTO DA BENESSE POR AUSÊNCIA DE REQUISITO LEGAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - O Superior Tribunal de Justiça já firmou entendimento no sentido de que "o óbice à concessão de indulto ou comutação ocorrerá se a falta grave tiver sido cometida dentro do prazo previsto no decreto concessivo, independentemente da data de sua homologação, se antes ou depois do ato presidencial" (AgRg no AREsp n. 993.265/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 31/10/2017).
+III - No caso concreto, o paciente, no curso da execução da pena decorrente da ação penal nº 0063444-05.2014.8.19.0004, restou preso em flagrante no dia 26/1/2016, pela prática dos crimes previstos no art. 155 e no art. 329, ambos do Código Penal, que resultaram na ação penal nº 0000177-87.2016.8.19.0069, cuja condenação até já transitou em julgado, em 20/9/2019 (fl. 70).
+IV - O Decreto n. 8.940/16, em seu art. 9º, caput, estabelece expressamente que: "Art. 9º. A declaração do indulto prevista neste Decreto fica condicionada à ausência da prática de infração disciplinar de natureza grave, nos doze meses anteriores à publicação deste Decreto".
+V - Verifica-se, portanto, que o paciente não cumpriu requisito legal para a concessão do benefício de indulto, por ter praticado infração disciplinar de natureza grave dentro do período de 12 (doze) meses que antecedeu à publicação do Decreto n. 8.940, de 22 de dezembro de 2016.
+Habeas corpus não conhecido.
+(HC n. 694.309/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021.)
+Conforme consta dos autos, em 9/10/2024 , o paciente praticou falta grave consistente no descumprimento das condições ajustadas para o cumprimento da pena restritiva de direito imposta, com homologação em audiência de justificação realizada em 12/3/2025, para a qual o paciente foi intimado, mas não compareceu (fl. 16).
+Em tal contexto, o Tribunal a quo, a despeito de indeferir o indulto em razão da prática de falta grave homologada, determinou ao juízo da execução "deliberar sobre a reconversão da pena, após a devida oitiva do sentenciado" (fl. 18).
+Logo, tendo sido formalmente homologada a falta grave, praticada nos doze meses anteriores à publicação do Decreto, não há falar em preenchimento do requisito objetivo para concessão de indulto.
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a concessão da ordem de habeas corpus de ofício.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
