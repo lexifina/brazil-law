@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. SÚMULA 83/STJ. INSURGÊNCIA GENÉRICA.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula 182/STJ.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra a decisão por mim proferida, por meio da qual não se conheceu do respectivo agravo em recurso especial (fls. 472/473).
+Requer a parte agravante o afastamento do óbice aplicado (Súmula 182/STJ), uma vez que sustenta ter impugnado de forma suficiente o fundamento da decisão recorrida.
+Argumenta que trouxe precedentes recentes e diretamente relacionados à matéria discutida, todos proferidos no mesmo ano da interposição do recurso, o que evidencia a contemporaneidade e pertinência dos julgados (fl. 483).
+Diz que os precedentes citados - como os proferidos nos AgRg no HC n. 902.443/TO (julgado em 07/05/2024) e AgRg no HC n. 885.122/SC (julgado em 22/04/2024) - tratam de temas correlatos à legalidade da atuação policial e à admissibilidade de provas, sendo utilizados para demonstrar que o entendimento adotado pelo Tribunal de origem não está em consonância com a jurisprudência atual do Superior Tribunal de Justiça (fl. 483).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. SÚMULA 83/STJ. INSURGÊNCIA GENÉRICA.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula 182/STJ.
+2. Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+Com efeito, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O apelo nobre não foi admitido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA pela aplicação, à espécie, da Súmula 83/STJ. Contudo, a parte agravante, no agravo em recurso especial, não impugnou, de forma suficiente e pormenorizada, esse fundamento.
+Portanto, inarredável a incidência da Súmula 182/STJ, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no AREsp n. 2.123.045/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/8/2022.
+Além disso, a parte agravante deixou de demonstrar, por meio da indicação de julgados contemporâneos ou mais recentes, que foi superado o entendimento desta Corte Superior de Justiça no qual está alicerçada a decisão agravada para aplicar a Súmula 83/STJ, pois os julgados por ela juntados são anteriores ao julgado que fundamentou a aplicação do citado óbice para inadmitir o apelo nobre quando do juízo de admissibilidade feito pelo Tribunal de origem.
+Não bastasse isso, os julgados juntados no agravo em recurso especial não são hábeis a demonstrar a superação do entendimento desta Corte Superior, nem demonstram que o tema é controverso no âmbito do Superior Tribunal de Justiça (fl. 483), pois tratam de matéria totalmente distinta ao julgado citado na decisão de inadmissibilidade, já que aquelas se referem a hipóteses nas quais houve autorização do proprietário do imóvel para ingresso na residência, situação que não ocorreu no caso vertente.
+Ainda, deixou de demonstrar que os precedentes mencionados no citado provimento judicial tratam de questões que não são análogas à do caso examinado nestes autos.
+A propósito: AgRg no AREsp n. 2.222.928/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/3/2023; e AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023.
+De outro lado, o Superior Tribunal de Justiça tem entendimento consolidado no sentido de que não se admite como paradigma, para comprovação do dissenso interpretativo, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência (AgRg nos EDcl no AREsp n. 2.509.472/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024 - grifo nosso).
+Por fim, a jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que o óbice contido no Enunciado n. 83 da Súmula do Superior Tribunal de Justiça também se aplica ao recurso especial interposto com base na alínea a do inciso III do art. 105 da Constituição da República (AgRg no AREsp n. 2.209.260/SE, Ministra Laurita Vaz, Sexta Turma, DJe 19/12/2022).
+Ante o exposto, nego provimento ao agravo regimental.
