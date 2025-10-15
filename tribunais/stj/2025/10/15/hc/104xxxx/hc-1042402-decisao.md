@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de ELAINE CRISTINA VAZ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS proferido no julgamento do HC n. 5481724-58.2025.8.09.0102.
+Informa a parte impetrante que a paciente se encontra presa preventivamente por decisão proferida logo após o acórdão que anulou, pela segunda vez, o julgamento do Tribunal do Júri que absolveu a acusada, por suposta quebra da imparcialidade dos jurados. Noticia que o mandado de prisão foi cumprido e a custódia homologada em audiência de custódia, permanecendo a paciente encarcerada desde então.
+Irresignada com a manutenção da custódia cautelar, a defesa impetrou habeas corpus junto ao Tribunal de origem que, por maioria, conheceu do pedido e denegou a ordem, consoante acórdão de fls. 24/32, tendo sido posteriormente opostos embargos de declaração, os quais foram rejeitados (fls. 34/46).
+No presente habeas corpus, a parte impetrante alega, inicialmente, a necessidade de revogação da prisão preventiva por ausência de contemporaneidade e de fundamentação concreta, destacando a desproporcionalidade da medida em face da absolvição da paciente no julgamento realizado em 6/11/2024, bem como o fato de que a acusada respondeu ao processo em liberdade e compareceu espontaneamente às Sessões do Júri.
+Sustenta a ausência de fundamentação idônea e dos requisitos legais previstos no art. 312 do CPP para a decretação e manutenção da prisão preventiva, afirmando que os motivos utilizados - gravidade concreta da conduta, garantia da ordem pública, conveniência da instrução criminal e garantia da aplicação da lei penal - foram invocados de forma genérica e abstrata, sem individualização e motivação concreta e atual.
+Aduz a suficiência da aplicação de medidas cautelares menos gravosas previstas no art. 319 do CPP, especialmente considerando as condições pessoais favoráveis da paciente, como trabalho lícito, domicílio estável e histórico de comparecimento aos atos processuais.
+Assere que a alegada quebra da incomunicabilidade dos jurados decorreu de intervenção exclusiva do advogado, sem anuência da paciente, não sendo legítimo presumir que ela reiterará condutas irregulares, motivo pelo qual a segregação fundada em conjecturas não se sustenta.
+Aponta violação aos princípios da presunção de inocência e da razoável duração do processo, ao manter-se a paciente encarcerada por tempo indeterminado enquanto se aguarda nova sessão plenária, sem jurados sequer sorteados, embora tenha sido absolvida em julgamento anterior.
+Requer, liminarmente e no mérito, a concessão da ordem para reconhecer a ilegalidade do decreto de prisão preventiva, substituindo-a, se necessário, por medidas cautelares diversas previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+O writ não comporta conhecimento, pois está deficientemente instruído.
+Como se vê, não foram juntadas aos autos as cópias da decisão do Juízo singular que decretou a prisão preventiva da paciente, bem como da sentença de pronúncia e dos acórdão que anularam os julgamentos realizados pelo Tribunal do Júri. Assinala-se que os referidos documentos são essenciais à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe à parte impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes, entre outros (grifos nossos):
+RECURSO EM HABEAS CORPUS. FEMINICÍDIO TENTADO. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INSTRUÇÃO DEFICIENTE QUE OBSTA O EXAME DA TESE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. SUBSTITUIÇÃO DA CAUTELA EXTREMA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. A defesa não instruiu o presente recurso com cópia das decisões que trataram da prisão preventiva do réu (conversão do flagrante em custódia provisória, indeferimento de concessão da liberdade provisória e pronúncia), circunstância que inviabiliza o exame da suscitada ausência de motivação idônea para impor a cautela extrema.
+ ..
+6. Recurso conhecido em parte e não provido.
+(RHC 132.620/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DE DECRETOU A PRISÃO TEMPORÁRIA E DA DECISÃO QUE A CONVERTEU EM PREVENTIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A decisão monocrática que nega provimento a recurso ordinário não viola o princípio da colegialidade, eis que conforme previsão no Regimento Interno desta Corte, é permitido ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+II - O agravante não juntou aos autos cópia da r. decisão que decretou a sua prisão temporária, e a decisão que a converteu em preventiva no momento da interposição do recurso, tampouco no presente agravo regimental, alegando, ainda, a sua desnecessidade, impedindo, em virtude da instrução deficiente, a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do mandamus ou de seu recurso ordinário. Precedentes.
+III - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+(AgRg no RHC 130.798/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/09/2020.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
