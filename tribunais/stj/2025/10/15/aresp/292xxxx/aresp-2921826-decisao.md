@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interposto por EMANOEL MERCURI DA SILVA PROCÓPIO MARQUES contra decisão do TJMT que inadmitiu seu recurso especial.
+Consta dos autos que o agravante foi condenado pelo crime de roubo majorado.
+No recurso especial, sustentou a defesa que o acórdão recorrido teria negado vigência aos arts. 226 e 386, VII, ambos do Código de Processo Penal.
+Aponta que o reconhecimento pessoal do acusado não obedeceu as regras estabelecidas na lei processual penal para o ato, o que o torna inválido.
+Requer, ao final, seja o agravante absolvido do crime de roubo.
+Inadmitido o recurso especial (enunciados sumulares 7/STJ e 83/STJ), a defesa interpôs o presente agravo.
+Com vista dos autos, opinou o Ministério Público Federal pelo não conhecimento do agravo (e-STJ fls. 675/677).
+É o relatório. Decido.
+Em que pese o esforço da combativa defesa, como tem reiteradamente decidido esta Corte Superior, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Da detida análise dos autos, depreende-se que a decisão ora agravada (e-STJ, fls. 625/630) culminou na inadmissão do recurso especial interposto pelo recorrente, aos fundamentos da incidência dos óbices consubstanciados nas Súmulas nsº 7 e 83 do colendo Superior Tribunal de Justiça.
+Não obstante, verifico que, nas razões do agravo ora apreciado, o agravante deixou de apresentar impugnação específica e detalhada a entrave apontado pela Corte de origem na decisão de inadmissibilidade, a saber, a Súmula n. 83/STJ, limitando-se a reiterar o mérito do recurso especial e a alegar, de forma genérica, que "ao contrário do alegado pelo e. TJPR, a decisão do Tribunal não está em consonância com a jurisprudência dos Tribunais, em especial os Superiores" (e-STJ fl. 210).
+Como é cediço, esta Corte Superior possui entendimento consolidado no sentido de que, inadmitido o recurso especial com fundamento na incidência da Súmula n. 83/STJ  óbice que também se aplica aos recursos especiais manejados com fundamento na alínea "a" do permissivo constitucional  , a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte, o que não ocorreu na hipótese dos autos.
+Nesse contexto, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+Nesses casos, é inafastável a incidência do enunciado n. 182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Na mesma linha, os seguintes julgados:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. EXCEÇÃO DE INCOMPETÊNCIA. DECISÃO MONOCRÁTICA. RECURSO INADMISSÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, sob o fundamento de que a parte agravante não impugnou, de forma específica, os fundamentos do não cabimento do recurso especial, incidindo as Súmulas 83 e 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a decisão monocrática que rejeita exceção de incompetência é recorrível e se a parte agravante apresentou argumentos suficientes para afastar a aplicação das Súmulas 83 e 182 do STJ.
+III. Razões de decidir
+3. A decisão monocrática que rejeita exceção de incompetência é considerada irrecorrível, sendo possível impugnação apenas via habeas corpus ou em preliminar de apelação.
+4. A parte agravante não apresentou precedentes contemporâneos ou supervenientes capazes de alterar o julgado, nem demonstrou distinguishing, conforme exigido para a superação da Súmula 83 do STJ.
+5. Decisões monocráticas não podem ser utilizadas como paradigma para fins de alegação de dissídio jurisprudencial, conforme entendimento consolidado do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A decisão monocrática que rejeita exceção de incompetência é irrecorrível, admitindo-se impugnação apenas via habeas corpus ou em preliminar de apelação. 2. Decisões monocráticas não servem como paradigma para comprovação de dissídio jurisprudencial. 3. A ausência de impugnação específica dos fundamentos da decisão agravada enseja a incidência da Súmula 182 do STJ".
+Dispositivos relevantes citados: CPP, art. 581, II e III; CPC, art. 932.Jurisprudência relevante citada: STJ, AgRg no REsp 2.094.487/TO, Rel. Min. Messod Azulay Neto, Quinta Turma, j.
+05.03.2024; STJ, AgInt no REsp 1.785.538/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe 13.05.2019.
+(AgRg no AREsp n. 2.698.188/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. O agravo em recurso especial não foi conhecido em razão da ausência de impugnação dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ.
+2. As razões do agravo regimental não modificam a conclusão da decisão recorrida, pois de fato não se constata, no agravo em recurso especial, o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+3. Inadmitido o recurso especial na origem em razão da incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+4. Ainda, uma vez não admitido o recurso especial em virtude da não superação do óbice da Súmula n. 83 do STJ, não basta a mera afirmação de que precedentes teriam sido citados no recurso especial, não se podendo suprir a falha decorrente da ausência de indicação de precedentes contemporâneos ou supervenientes indicativos da divergência alegada.
+5. Não se constata a ocorrência de flagrante ilegalidade, pois a pena-base foi fixada em consonância com a jurisprudência desta Corte Superior, indicados fundamentos concretos para aplicar patamar superior a 1/6 da pena mínima.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.646.084/DF, relator Ministro OG FERNANDES, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Diante do não conhecimento do apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. Ademais, conforme destacado na decisão que não conheceu do recurso especial, o Superior Tribunal de Justiça possui o entendimento de que "a imposição das restrições de liberdade  .. , por medida de caráter cautelar, de modo indefinido e desatrelado de inquérito policial ou processo penal em andamento, significa, na prática, infligir-lhe verdadeira pena sem o devido processo legal, resultando em constrangimento ilegal" (RHC n. 94.320/BA, relator Ministro Felix Fischer, Quinta Turma, julgado em 9/10/2018, DJe 24/10/2018).
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.664.424/MG, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 17/9/2024, DJe de 9/10/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que a quantidade de droga não é pode modular o grau de diminuição do tráfico privilegiado, bem como que ações em andamento não podem afastar a diminuição no grau máximo.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente o fundamento lançado no decisum agravado, qual seja: "O delito em questão - tráfico ilícito de entorpecentes - foi cometido quando o paciente fruía de liberdade provisória. Assim, tal circunstância demonstra o desapreço do acusado pela ordem jurídica, a revelar comportamento arredio à organização social e à autoridade do Poder Judiciário. Desse modo, verifica-se que há fundamento idôneo, por si só, a amparar a modulação realizada pelas instâncias ordinárias". Nessa senda, as razões expendidas no bojo do presente contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido. (AgRg no HC 721.664/SC, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), QUINTA TURMA, julgado em 5/4/2022, DJe 12/4/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. REALIZAÇÃO DE TATUAGEM EM AMBIENTE PRISIONAL. FALTA DISCIPLINAR GRAVE. ATIPICIDADE: INEXISTÊNCIA. DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC 725.349/SP, DE MINHA RELATORIA, julgado em 8/3/2022, DJe 14/3/2022).
+DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de recurso especial, com fundamento na ausência de impugnação específica aos fundamentos da decisão agravada e na impossibilidade de reexame de provas em instância especial, conforme a Súmula n. 7 do STJ.
+2. A defesa alega que os depoimentos policiais não são suficientes para condenação por tráfico de drogas e requer a desclassificação do delito para uso pessoal, conforme art. 28 da Lei n. 11.343/06.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+4. A questão também envolve a análise da possibilidade de reexame do conjunto fático- probatório em instância especial para desclassificação do delito de tráfico de drogas.
+III. Razões de decidir
+5. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, que impede o conhecimento do agravo regimental.
+6. A modificação da conclusão da origem demandaria reexame do conjunto fático- probatório, o que é inviável na instância especial, conforme a Súmula n. 7 do STJ.
+7. A pequena quantidade de droga apreendida, por si só, é irrelevante diante das circunstâncias que indicam a destinação mercantil do entorpecente.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.645.466/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025).
+Ante o exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
