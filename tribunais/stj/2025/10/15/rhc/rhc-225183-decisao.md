@@ -1,0 +1,90 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por CARLOS LUIZ BOMFIM RIBEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no HC n. 8047511-66.2025.8.05.0000.
+Extrai-se dos autos que o recorrente se encontra preso preventivamente pela suposta prática dos delitos capitulados nos arts. 33 e 35 da Lei n. 11.343/2006.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo sido a ordem denegada.
+Neste recurso, a Defesa sustenta a ausência dos requisitos autorizadores da medida extrema, apontando que o decreto prisional carece de fundamentação idônea.
+Alega que a quantidade de droga apreendida não justifica, por si só, a preventiva. Argumenta que não foram utilizados elementos concretos e contemporâneos para demonstrar o risco atual do paciente e a insuficiência das medidas alternativas.
+Defende que não existe prova do vínculo do paciente com o material apreendido. Ressalta que as "anotações financeiras" encontradas não foram periciadas.
+Impugna o recambiamento do paciente para o estado da Bahia. Aduz que seu núcleo familiar é de Minas Gerais e que os atos processuais podem ser realizados por videoconferência.
+Suscita, ainda, excesso de prazo, em razão da ausência de oferecimento da denúncia após a conclusão do inquérito, em 30/08/2025.
+Pleiteia, liminarmente e no mérito, a expedição de alvará de soltura em favor do recorrente ou, de modo subsidiário, a substituição da custódia por medidas cautelares alternativas. Requer, ainda, a suspensão do recambiamento do paciente, com a determinação de que os atos processuais sejam realizados por videoconferência.
+É o relatório.
+Decido.
+É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Passa-se, assim, à análise do mérito recursal.
+A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que, no julgamento de habeas corpus e do recurso ordinário, o exame se restringe à aferição de eventual ilegalidade manifesta no ato coator. A via processual escolhida, por possuir rito célere e cognição sumária, não se presta à reavaliação aprofundada de fatos e provas com a finalidade de afastar as conclusões firmadas pelas instâncias ordinárias. Por esse motivo, teses como a ausência de autoria e de materialidade, que exigem uma análise detalhada do conjunto probatório, não se enquadram no escopo de cognição permitido a esta Corte no presente meio recursal.
+Assim, a tese de ausência de autoria por inexistência de vínculo com objetos apreendidos não comporta conhecimento, pois sua análise demandaria, inevitavelmente, o reexame do conjunto probatório, providência incompatível com a presente via processual, conforme pacífica jurisprudência desta Corte (AgRg no RHC 188.015/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC 999.474/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2025, DJEN de 18/8/2025).
+Além disso, quanto às alegações de excesso de prazo, ausência de perícia e falta de contemporaneidade na decretação da preventiva, observa-se que as questões não foram apreciadas pelo Tribunal de origem. Essa circunstância impede o exame inaugural nesta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE INTIMAÇÃO DA DEFESA. SUPRESSÃO DE INSTÂNCIA. GRAVIDADE CONCRETA DOS FATOS. EXPRESSIVA QUANTIDADE DE DROGAS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FU NDAMENTAÇÃO SUFICIENTE. CONTEMPORANEIDADE DA MEDIDA.
+1. Em relação à alegação de ausência de intimação da defesa para impugnação do requerimento de prisão preventiva pelo Ministério Público, observa-se que a matéria não foi objeto de análise pelo Tribunal de origem, o que impede o exame inaugural nesta Corte Superior, sob pena de indevida supressão de instância.
+(..)
+4. Agravo regimental improvido. (AgRg no HC n. 898.757/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2025, DJEN de 30/5/2025).
+Em relação aos demais argumentos, insta consignar que a Corte de origem manteve a custódia cautelar do ora recorrente conforme a fundamentação a seguir (fls. 101-113; grifamos):
+ ..  III - DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA
+A análise dos requisitos previstos no art. 312 do Código de Processo Penal revela sua presença inequívoca no caso concreto.
+Quanto ao fumus commissi delicti, a materialidade delitiva encontra-se sobejamente demonstrada pelas apreensões realizadas: 1,108 kg (um quilo e cento e oito gramas) de substância análoga à maconha; 528 g (quinhentos e vinte e oito gramas) de substância análoga ao haxixe; balanças de precisão; máquinas de cartão de crédito; anotações com contabilidade do tráfico; armas de fogo; munições e; caderno contendo movimentações superiores a R$ 1.000.000,00 (um milhão de reais), relacionadas ao comércio de entorpecentes.
+Tais elementos, conjugados ao relatório de investigação criminal, configuram indícios suficientes de autoria quanto aos crimes de tráfico de drogas e associação em organização criminosa.
+Quanto ao periculum libertatis, a decisão objurgada demonstrou concretamente a necessidade da custódia cautelar para garantia da ordem pública. A gravidade excepcional das condutas investigadas, somada ao suposto envolvimento do paciente em organização criminosa estruturada (Comando Vermelho) com ramificações interestaduais, evidencia risco concreto à paz social.
+A periculosidade do agente não decorre de presunção abstrata, mas das circunstâncias concretas do caso: a quantidade e variedade de entorpecentes apreendidos, a diversidade de petrechos utilizados no comércio ilícito, a apreensão de armamentos e, especialmente, as anotações financeiras que revelam operações em escala industrial. Tais elementos caracterizam dedicação ao comércio proscrito e probabilidade concreta de reiteração delitiva caso seja liberado.
+A necessidade de resguardo da instrução criminal também se justifica ante a capacidade de influência e intimidação inerente à organização criminosa da qual o paciente supostamente faz parte, com potencial para comprometer a colheita da prova e o regular andamento da persecução penal.
+IV - DAS CONDIÇÕES PESSOAIS DO PACIENTE
+As condições pessoais favoráveis alegadas pela defesa - residência fixa, atividade profissional, núcleo familiar constituído - embora relevantes, não possuem força suficiente para sobrepujar a demonstrada necessidade da medida extrema quando presente a gravidade concreta dos fatos.
+A jurisprudência dos Tribunais Superiores é assente no sentido de que condições pessoais favoráveis, como primariedade, bons antecedentes, residência fixa ou exercício de atividade laborativa lícita, não são suficientes para afastar a custódia cautelar, quando a gravidade concreta dos fatos justifica sua manutenção.  ..
+VI - DA PROPORCIONALIDADE DAS MEDIDAS CAUTELARES
+A aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, revela-se inadequada diante da excepcional gravidade dos fatos investigados.
+O suposto envolvimento em organização criminosa de alta periculosidade, com estruturação interestadual e significativo potencial lesivo, torna insuficientes as alternativas menos gravosas para resguardo da ordem pública.
+Como se vê, diversamente do sustentado pela Defesa, a decretação da cautelar foi devidamente fundamentada pelas instâncias ordinárias, considerando a gravidade concreta da conduta atribuída ao recorrente, demonstrada a partir da quantidade de droga apreendida (1,108 quilogramas de maconha e 528 gramas de haxixe), além da apreensão de balanças de precisão, máquinas de cartão de crédito, anotações com contabilidade do tráfico, armas de fogo, munições e caderno contendo registros de movimentações superiores a R$ 1.000.000,00 (um milhão de reais), supostamente relacionadas ao comércio de entorpecentes, em contexto relacionado à facção criminosa Comando Vermelho.
+As circunstâncias apontadas demonstram a acentuada periculosidade do imputado. Tal periculosidade justifica a manutenção da prisão como forma de garantir a ordem pública, entendimento que está em harmonia com a jurisprudência consolidada deste Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGA APREENDIDA (10,1 KG DE MACONHA). PRISÃO DOMICILIAR. PACIENTE COM FILHOS MENORES DE 12 ANOS DE IDADE. SITUAÇÃO EXCEPCIONALÍSSIMA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+(AgRg no HC n. 1.012.943/TO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DAS CIRCUNSTÂNCIAS CONCRETAS DO CRIME. ILEGALIDADE NÃO IDENTIFICADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, por tratar-se de sucedâneo recursal, rejeitou a possibilidade de concessão da ordem de ofício por não constatar ilegalidade na prisão preventiva do agravante.
+2. A defesa alega que a quantidade de drogas não justifica a prisão preventiva e que o agravante é primário e sem antecedentes, de maneira que seria suficiente a aplicação de medidas cautelares diversas.
+3. O Superior Tribunal de Justiça entende que o habeas corpus não pode ser utilizado como sucedâneo de recurso próprio, impondo-se o não conhecimento da impetração.
+4. A prisão preventiva foi fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, em razão da qualidade e da quantidade de drogas apreendidas.
+5. A jurisprudência consolidada do STJ reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+6. Condições pessoais favoráveis não garantem a revogação da prisão processual se presentes os requisitos da custódia cautelar.
+7. Agravo regimental improvido.
+(AgRg no HC n. 1.008.006/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2025, DJEN de 9/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo a prisão preventiva do agravante por tráfico de drogas.
+2. A prisão preventiva foi decretada com base na apreensão de significativa quantidade de drogas, dinheiro, petrechos para comercialização e caderno de anotações, além de indícios suficientes de autoria, visando garantir a ordem pública.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, considerando a quantidade e diversidade das drogas apreendidas.
+III. Razões de decidir
+3. A decisão impugnada está em consonância com a jurisprudência do Tribunal Superior, que admite a prisão preventiva quando a quantidade e diversidade de entorpecentes evidenciam a maior reprovabilidade do fato.
+4. A gravidade concreta da conduta delitiva justifica a manutenção da prisão preventiva para garantir a ordem pública, sendo insuficientes medidas cautelares alternativas.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando a quantidade e diversidade de drogas apreendidas evidenciam a maior reprovabilidade do fato. 2. Medidas cautelares alternativas são insuficientes quando a gravidade concreta da conduta delitiva justifica a prisão preventiva para garantir a ordem pública".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, AgRg no HC 711.616/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 22.02.2022; STJ, HC 425.704/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27.02.2018.
+(AgRg no HC n. 1.001.217/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.)
+Portanto, tendo em vista que a necessidade da prisão preventiva foi concretamente demonstrada nos termos dos arts. 312 e 313, ambos do Código de Processo Penal, não se mostra suficiente a aplicação de medidas cautelares mais brandas.
+Por fim, quanto ao pedido de suspensão do recambiamento para unidade prisional localizada no estado da Bahia, assim decidiu o Tribunal a quo (fls. 101-113; grifamos):
+V - DA QUESTÃO DO RECAMBIAMENTO
+O pedido de permanência do paciente em estabelecimento prisional próximo ao seu domicílio não merece acolhimento. O direito de permanecer preso próximo à família, conquanto relevante, não constitui prerrogativa absoluta, podendo ser restringido mediante fundamentação idônea. A esse respeito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECAMBIAMENTO DE PRESO . ALEGADA OFENSA AO DIREITO À CONVIVÊNCIA FAMILIAR NÃO CONFIGURADA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO . 1. A jurisprudência desta Corte entende que o direito do preso de cumprimento de pena próximo aos seus familiares preconizado no art. 103 da LEP não é absoluto. Precedentes . 2. O Tribunal de origem invocou fundamentos idôneos para manter a decisão de recambiamento, salientando que a superlotação do sistema penitenciário paulista, a comprovação de que a condenação é oriunda de outro Estado da federação e o fato de o preso não ter condenação no Estado de São Paulo justificariam a remoção do apenado. 3. Agravo regimental desprovido (STJ. AgRg no HC 755257/SP. Rel. Min. João Batista Moreira - Desembargador convocado do TRF1. Quinta Turma. D Je 03/05/2023) (grifo nosso).
+In casu, o juízo de origem esclareceu a impossibilidade técnica de realização de atos processuais por videoconferência a partir do sistema prisional mineiro, justificando a necessidade do recambiamento para o Estado da Bahia, a bem da adequada instrução processual.
+Tal fundamentação atende aos parâmetros jurisprudenciais exigidos para restrição do direito em questão.
+Nessas circunstâncias, observa-se que o recambiamento do custodiado ao juízo processante, fundamentado no risco à instrução processual, constitui medida necessária ao regular andamento da ação penal e não configura, por si só, constrangimento ilegal.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRANSFERÊNCIA DE PRESO PROVISÓRIO. ALEGAÇÃO DE VÍNCULO FAMILIAR E SOCIAL NO RIO DE JANEIRO. INEXISTÊNCIA DE DIREITO SUBJETIVO ABSOLUTO À ESCOLHA DO LOCAL DE CUSTÓDIA. FUNDAMENTAÇÃO IDÔNEA PARA O RECAMBIAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. O art. 103 da LEP estabelece diretriz para a permanência do preso em local próximo à família, mas não configura direito subjetivo absoluto, estando sua aplicação condicionada à conveniência administrativa, à organização do sistema prisional e à existência de vagas.
+4. A jurisprudência do STJ é pacífica no sentido de que o cumprimento da pena ou da prisão provisória em localidade próxima à família não é garantia incondicionada, podendo ser afastada mediante decisão judicial devidamente fundamentada.
+5. No caso concreto, a decisão do Juízo de origem apresenta fundamentação idônea, mencionando fatos concretos como a ausência de vínculos permanentes no Rio de Janeiro, a recente mudança da esposa do agravante, o histórico de fuga e o potencial prejuízo à instrução criminal com eventual transferência.
+6. Inexiste demonstração de ilegalidade manifesta, tampouco de negativa arbitrária por parte da unidade prisional quanto ao pleito de permanência no Estado do Rio de Janeiro. (..)
+(AgRg no RHC n. 213.618/DF, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/6/2025, DJEN de 18/6/2025.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. REINCIDÊNCIA. NECESSIDADE DE SE INTERROMPER OU DIMINUIR A ATUAÇÃO DE ORGANIZAÇÕES CRIMINOSAS. PLEITO DE RECAMBIAMENTO AO PRESÍDIO DE ORIGEM, ONDE CUMPRIA PENA, EM LOCAL PRÓXIMO À RESIDÊNCIA FAMILIAR. IMPOSSIBILIDADE. DECISÃO FUNDAMENTADA. RECURSO ORDINÁRIO DESPROVIDO.
+(..)
+IV - O recambiamento do recorrente para a penitenciária onde já vinha cumprindo pena foi denegado na origem por meio de decisão fundamentada, na qual o eg. Tribunal de origem apreciou a pretensão de forma escorreita, não se vislumbrando qualquer ilegalidade na decisão, sendo firme a jurisprudência desta Corte, no sentido de não se tratar tal flexibilização de direito absoluto, podendo o Juízo competente indeferir pleito nesse sentido se houver fundadas razões para tanto, eis que deve sopesar os interesses do preso com os da Administração da Justiça, tal qual realizado pelo Colegiado a quo.
+Precedentes.
+Recurso ordinário desprovido.
+(RHC n. 109.262/DF, relator Ministro Felix Fischer, Quinta Turma, julgado em 21/5/2019, DJe de 4/6/2019.)
+Ante o exposto, conheço em parte do recurso em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
