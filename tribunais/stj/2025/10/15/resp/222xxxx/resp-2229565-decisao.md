@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (fl. 796):
+COMPRA E VENDA DE IMÓVEL. Ação de rescisão contratual c/c com devolução de valores. Sentença de parcial procedência. Insurgência das autoras. Insurgência da autora. Recurso que versa somente sobre a devolução dos valores pagos a título de comissão de corretagem. Base de cálculo do valor do preparo. Ação de rescisão contratual por atraso na entrega da obra. Alegação de prescrição trienal afastada. Imóveis que não foram entregues. Culpa das vendedoras que devem reparar integralmente o adquirente, devolvendo inclusive os valores pagos a título de corretagem. Arts. 7º, parágrafo único do CDC e art. 475 do CC. Precedentes deste E. Tribunal. Sentença modificada em parte. Recurso provido.
+Os embargos de declaração foram rejeitados (fls. 817-822).
+Nas razões apresentadas (fls. 825-840), a parte recorrente aponta dissídio jurisprudencial e contrariedade:
+(i) ao art. 1.022, II, do CPC/2015, afirmando haver negativa de prestação jurisdicional, "pelo fato de o acórdão recorrido não ter enfrentado as alegações de omissão postas nos embargos de declaração, mantendo as omissões alegadas com decisão manifestamente não fundamentada. Veja que a decisão poderia ser aplicada para qualquer outra decisão, eis que não adentra em qualquer dos argumentos trazidos, quais sejam: omissão na análise da tese da prescrição em razão dos julgados proferidos pelo Tribunal de Justiça de São Paulo sobre o tema" (fl. 836),
+(ii) ao art. 206, § 3º, IV, do CC/2002, uma vez que incidiria a prescrição trienal na pretensão de repetição dos valores gastos pelos consumidores com o pagamento de comissão de corretagem,
+(iii) aos arts. 725 e 884 do CC/2002 e 927, III, do CPC/2015, argumentando que teria direito à comissão de corretagem, mesmo que desfeita a aquisição imobiliária, sob pena de enriquecimento sem causa dos compradores.
+Acrescenta que seria válido o repasse da responsabilidade pelo pagamento da comissão de corretagem aos adquirentes do imóvel, ante a concretização do negócio e devido à comprovação de sua ciência sobre a transferência do encargo em debate.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 845-869).
+O recurso foi admitido na origem (fls. 896-898).
+É o relatório.
+Decido.
+As contradições, omissões e obscuridades que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pela parte recorrente são genéricas, porque não discriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito: "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+A jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos (Tema n. 1.099), é no sentido de que, incide a prescrição decenal do art. 205 do CC/2002, "à pretensão de restituição dos valores pagos a título de comissão de corretagem, quando o pedido de repetição dirigido contra a incorporadora/construtora tiver por fundamento a resolução do contrato em virtude de atraso na entrega do imóvel, contando-se o prazo desde a data em que o adquirente tiver ciência da recusa da restituição integral das parcelas pagas" (REsp n. 1.897.867/CE, Relator Ministro HUMBERTO MARTINS, SEGUNDA SEÇÃO, julgado em 13/8/2025, DJe 21/8/2025).
+A Corte a quo não divergiu de tal orientação. Confira-se (fls. 798-799):
+Em segundo, cuida-se de ação de rescisão contratual por atraso na entrega da obra e não ação de repetição de indébito. Logo, não há que se falar em prescrição trienal.
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O art. 927, III, do CPC/0015, não possui o alcance normativo pretendido pela parte recorrente, a fim de justificar o deferimento da cobrança da comissão de corretagem dos adquirentes, porque nada dispõe a respeito do referido encargo.
+Desse modo, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto ao art. 927, III, do CPC/2015 sob o ponto de vista da parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo dos arts. 725 e 884 do CC/2002 sob o ponto de vista da parte recorrente, a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+A Corte local, à luz do princípio da reparação integral e do art. 475 do CC/2002, manteve a condenação solidária da parte recorrente ao reembolso da comissão de corretagem ante o atraso na entrega das obras nos termos a seguir (fls. 816-817):
+No entanto, restou incontroverso nos autos o atraso na entrega da obra, de modo que a culpa pela rescisão é atribuída às rés. Logo, pelo princípio da reparação integral, em razão da culpa da vendedora pelo atraso na entrega da obra, cabível a devolução das desses valores, nos termos do art. 475 do Código Civil.
+A respeito de tais razões de decidir, a parte recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
