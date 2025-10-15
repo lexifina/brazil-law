@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por WESLLE DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal (fls. 1.105/1.112).
+No recurso especial (fls. 1.256/1.269), o recorrente alegou violação dos arts. 39, inciso IX, da CRFB/88, e dos arts. 413 e 414 do CPP, sustentando que as provas colhidas não se mostram suficientes para manter a pronúncia e pugnando pela absolvição pela ausência de provas sob invocação do princípio in dubio pro reo.
+Inadmitido o recurso na origem com fundamento na Súmula 7/STJ (fls. 1.316/1.321), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 1.373/1.386).
+O Ministério Público Federal opinou pelo não conhecimento ou, acaso conhecido, pelo desprovimento do recurso, em parecer fundamentado na incidência da Súmula 7/STJ e 83/STJ, além da impossibilidade de análise de violação constitucional (fls. 1.472/1.478).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o recorrente a impronúncia, sustentando insuficiência probatória e invocando violação a dispositivos constitucionais e infraconstitucionais.
+Contudo, o recurso especial não merece conhecimento por múltiplos óbices processuais.
+Inicialmente, o recurso especial apresenta alegação de violação do art. 39, inciso IX, da CRFB/88 (presunção de inocência). Tal pretensão é manifestamente incabível no âmbito do recurso especial, que se destina exclusivamente à apreciação de contrariedade ou negativa de vigência de dispositivos de legislação federal infraconstitucional.
+A análise de eventual afronta à Constituição Federal compete unicamente ao Supremo Tribunal Federal por meio de recurso extraordinário, conforme a previsão constitucional que define as finalidades distintas de cada espécie recursal. Conforme precedente desta Corte: É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal (EDcl no AgRg no AREsp n. 2.597.307/ES, da minha relatoria, Sexta Turma, DJe 16/8/2024 ).
+Superados esses óbices, a pretensão de impronúncia por alegada insuficiência probatória demandaria inevitável revolvimento do contexto fático-probatório. O Tribunal de origem, soberano na análise das provas, entendeu pela suficiência dos elementos que justificam a submissão ao Tribunal do Júri, conforme fundamentação extraída do acórdão (fl. 1.111):
+Os indícios de autoria, ainda que não sejam suficientes para uma condenação nesta fase processual, são o bastante para justificar a pronúncia dos réus. A vítima identificou os réus Ronilson Pires da Costa e Weslle dos Santos como os executores do crime, apontando ainda Herbert Silva Almeida como o mandante. Além disso, os depoimentos das testemunhas indicam que havia rixa anterior entre a vítima e o réu Herbert, relacionada à propriedade rural, o que fortalece a motivação do crime.
+A reversão desse entendimento exigiria profunda incursão em matéria probatória, incompatível com a natureza excepcional do recurso especial, inviabilizada pela Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PLEITO DE IMPRONÚNCIA. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. PRETENSÃO DE REANÁLISE FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
