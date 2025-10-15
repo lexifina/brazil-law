@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. ALEGAÇÃO DE CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS E PROVAS ILÍCITAS. BUSCA PESSOAL E VEICULAR. DENÚNCIA ANÔNIMA ESPECIFICADA. FUNDADA SUSPEITA CONFIGURADA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que con heceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+2. O agravante sustenta nulidade da condenação em revisão criminal, por alegada ilicitude das provas obtidas em busca pessoal e veicular fundada em denúncia anônima, além de reiterar dissídio jurisprudencial não examinado.
+II. Questão em discussão
+3. Há três questões em discussão: (i) saber se a busca pessoal e veicular realizada pelos policiais foi ilegal, diante da alegada ausência de fundada suspeita; (ii) saber se as provas derivadas da busca podem ser consideradas lícitas; e (iii) se o dissídio jurisprudencial foi adequadamente demonstrado para fins de admissibilidade do recurso especial.
+III. Razões de decidir
+4. A revisão criminal não pode ser utilizada como sucedâneo recursal para rediscutir matéria fático-probatória, sendo admitida apenas nas hipóteses taxativas do art. 621 do CPP.
+5. A busca pessoal e veicular encontra amparo nos arts. 240, § 2º, e 244 do CPP, quando há fundada suspeita, a qual se configurou no caso concreto, diante de denúncia anônima especificada, confirmada por diligência policial, resultando na apreensão de 62 tabletes de cocaína e crack.
+6. Não há ilicitude na prova obtida, pois a denúncia anônima indicou o veículo e o condutor, confirmados antes da abordagem, circunstâncias que legitimam a intervenção policial.
+7. O agravante não indicou os dispositivos legais cuja interpretação seria objeto de divergência jurisprudencial, o que configura deficiência de fundamentação, atraindo a incidência da Súmula 284/STF.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A revisão criminal não pode ser utilizada como nova apelação, limitando-se às hipóteses do art. 621 do CPP.
+2. A busca pessoal e veicular fundada em denúncia anônima especificada e confirmada por diligência policial configura fundada suspeita e não gera ilicitude da prova.
+3. O dissídio jurisprudencial exige a indicação do dispositivo legal objeto da divergência, sob pena de incidência da Súmula 284/STF.
+Dispositivos relevantes citados: CPP, arts. 240, § 2º, e 244.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 985.708/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 09/04/2025, DJEN 28/04/2025; STJ, AgRg no HC n. 904.012/MG, Rel. Min. Og Fernandes, Sexta Turma, j. 14/04/2025, DJEN 24/04/2025; STJ, AgRg no HC n. 949.229/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 26/03/2025, DJEN 08/04/2025; STJ, AgRg no AREsp n. 2.775.475/SE, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 18/03/2025, DJEN 26/03/2025; STF, Súmula 284.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIANO ALVES FERNANDES contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento (e-STJ, fls. 2.775-2.780).
+A parte agravante alega, em síntese, que a sentença condenatória contrariou texto de lei e a evidência dos autos, cabendo a revisão criminal. Afirma que demonstrou o dissídio jurisprudencial. Reitera que a condenação foi baseada em provas ilícitas, derivadas de procedimentos de abordagem veicular e pessoal eivada de irregularidades.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. ALEGAÇÃO DE CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS E PROVAS ILÍCITAS. BUSCA PESSOAL E VEICULAR. DENÚNCIA ANÔNIMA ESPECIFICADA. FUNDADA SUSPEITA CONFIGURADA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que con heceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+2. O agravante sustenta nulidade da condenação em revisão criminal, por alegada ilicitude das provas obtidas em busca pessoal e veicular fundada em denúncia anônima, além de reiterar dissídio jurisprudencial não examinado.
+II. Questão em discussão
+3. Há três questões em discussão: (i) saber se a busca pessoal e veicular realizada pelos policiais foi ilegal, diante da alegada ausência de fundada suspeita; (ii) saber se as provas derivadas da busca podem ser consideradas lícitas; e (iii) se o dissídio jurisprudencial foi adequadamente demonstrado para fins de admissibilidade do recurso especial.
+III. Razões de decidir
+4. A revisão criminal não pode ser utilizada como sucedâneo recursal para rediscutir matéria fático-probatória, sendo admitida apenas nas hipóteses taxativas do art. 621 do CPP.
+5. A busca pessoal e veicular encontra amparo nos arts. 240, § 2º, e 244 do CPP, quando há fundada suspeita, a qual se configurou no caso concreto, diante de denúncia anônima especificada, confirmada por diligência policial, resultando na apreensão de 62 tabletes de cocaína e crack.
+6. Não há ilicitude na prova obtida, pois a denúncia anônima indicou o veículo e o condutor, confirmados antes da abordagem, circunstâncias que legitimam a intervenção policial.
+7. O agravante não indicou os dispositivos legais cuja interpretação seria objeto de divergência jurisprudencial, o que configura deficiência de fundamentação, atraindo a incidência da Súmula 284/STF.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A revisão criminal não pode ser utilizada como nova apelação, limitando-se às hipóteses do art. 621 do CPP.
+2. A busca pessoal e veicular fundada em denúncia anônima especificada e confirmada por diligência policial configura fundada suspeita e não gera ilicitude da prova.
+3. O dissídio jurisprudencial exige a indicação do dispositivo legal objeto da divergência, sob pena de incidência da Súmula 284/STF.
+Dispositivos relevantes citados: CPP, arts. 240, § 2º, e 244.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 985.708/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, j. 09/04/2025, DJEN 28/04/2025; STJ, AgRg no HC n. 904.012/MG, Rel. Min. Og Fernandes, Sexta Turma, j. 14/04/2025, DJEN 24/04/2025; STJ, AgRg no HC n. 949.229/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 26/03/2025, DJEN 08/04/2025; STJ, AgRg no AREsp n. 2.775.475/SE, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, j. 18/03/2025, DJEN 26/03/2025; STF, Súmula 284.
+VOTO
+As alegações da parte agravante não são suficientes para reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+De início, cabe ressaltar que, conforme jurisprudência pacífica desta Corte Superior, "A revisão criminal não pode ser utilizada como nova apelação para reexame de fatos e provas, sem os pressupostos do art. 621 do CPP" (AgRg no HC n. 985.708/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 9/4/2025, DJEN de 28/4/2025).
+Cito, por oportuno, o seguinte julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. CONVERGÊNCIA DAS PROVAS. REVISÃO CRIMINAL NA ORIGEM. INSUFICIÊNCIA PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO IMPROVIDO.
+1. Quanto à alegação de insuficiência probatória, verifica-se, no contexto fático delineado pela Corte de origem, a existência de elementos que apontam para a autoria delitiva do paciente, incluindo os depoimentos dos demais envolvidos na ação, os quais indicam que ele foi o mentor do crime. Em contrapartida, o corréu Manoel contratou os corréus Caio, Kreyson, Moacir e Willian para a prática da conduta. Destaca-se, ainda, que o paciente possuía dívida com a vítima e, conforme relatos de testemunhas, teria solicitado aos autores do roubo a subtração dos documentos que comprovassem tal dívida. Qualquer incursão que escape à moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+2. O acolhimento da revisão criminal tem caráter excepcional, sendo admitido apenas quando patente que a condenação é contrária à evidência dos autos ou se a inocência pela prova nova fique demonstrada de forma flagrante, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos.
+3. A fundamentação baseada apenas na insuficiência probatória não autoriza o Tribunal de origem a proferir juízo absolutório, no âmbito de revisão criminal, pois essa situação não se identifica com o alcance do disposto no art. 621, I e III, do Código de Processo Penal.
+4. Agravo regimental improvido."
+(AgRg no HC n. 904.012/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025, grifou-se.)
+Na hipótese dos autos, o Tribunal a quo julgou improcedente o pedido revisional, mediante a seguinte fundamentação (e-STJ, fls. 2.563-, grifou-se):
+"Como se sabe, para que a condenação seja considerada nula com base no inciso I, do Art. 621, do CPP, tem vez quando o julgamento violar disposição expressa em lei ou se foi proferido em descompasso com as provas existentes nos autos, o que se distingue da mera fragilidade probatória, que, por sua vez, não constitui fundamento legal para a propositura de revisão criminal.
+ ..
+No caso em tela, o autor sustenta que a necessidade de revisão da condenação reside na nulidade da prisão em flagrante, posto que decorrente de busca pessoal e veicular sem justa causa, uma vez que fundada em denúncia anônima.
+ ..
+Extrai-se dos autos que os policiais federais realizaram a abordagem ao veículo do aqui autor após receberem denúncia anônima que informava sobre transporte de drogas para o Estado de Sergipe em um automóvel tipo caminhão e com condutor denominado Marciano ; que montada a vigilância, foi abordado veículo com as características indicadas, sendo confirmando o nome do condutor e, após a revista no veículo, localizaram o entorpecente.
+ ..
+Assim, in casu, as provas dos autos denotam que policiais procederam a abordagem após fundada suspeita da prática de tráfico de entorpecentes (denúncia anônima que explicitava o veículo e o nome do condutor), constatando a veracidade das informações quanto ao nome do condutor e o veículo, bem como encontrando durante a busca 62 (sessenta e dois) tabletes contendo cocaína/crack (auto de apreensão fl. 61), não havendo como reconhecer a ilicitude da prova e, menos ainda, a nulidade da sentença condenatória.
+Como se vê, ao contrário do que alega o autor, a atuação da polícia decorre de justa causa que legitimou a busca veicular, pois fundada suspeita decorrente do fato de os agentes terem recebido denúncia com informações exatas acerca do veículo e do nome do condutor"
+Na revisão criminal, aduz a defesa ofensa aos artigos 157, §1º e 648, I, ambos do Código de Processo Penal, quanto à busca pessoal e veicular. Assevera, que as provas dela advindas seriam ilícitas.
+Como se sabe, "nos termos do art. 244 do CPP, a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar." (AgRg no AREsp 1403409/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/03/2019, DJe 04/04/2019).
+No caso, segundo se depreende dos autos, os policiais receberam uma denúncia anônima especificando a prática de tráfico de drogas pelo acusado com destino ao Estado de Sergipe, com descrições do veículo em que se encontrava o indivíduo suspeito, nominalmente identificado. Ao chegarem ao local, constataram a veracidade das informações quanto ao nome do condutor e as características do veículo, assim procederam à busca que resultou na apreensão de 62 (sessenta e dois) tabletes contendo cocaína e crack.
+Tais circunstâncias, assim, justificaram a busca pessoal e veicular, havendo fundadas razões para a abordagem policial.
+A propósito:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO CONTRA REVISÃO CRIMINAL. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA CONFIGURADA. PEDIDO DE DESCLASSIFICAÇÃO PARA CRIME DE CONSUMO PESSOAL. ART. 28, DA LEI 11.343/2006. IMPOSSIBILIDADE. RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior tem adotado entendimento no sentido de que a busca pessoal e veicular são disciplinadas pela norma constante nos arts. 240, § 2º, e 244, ambos do Código de Processo Penal - CPP. Para ambas, exige-se fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos, ou papéis que constituam corpo de delito. Restou evidenciada a justificativa para a abordagem, decorrente de contexto prévio de fundadas razões a qual culminou na apreensão de entorpecentes, não se vislumbrando qualquer ilegalidade na atuação policial, uma vez que amparada pelas circunstâncias do caso concreto.
+No caso dos autos, a Corte de origem destacou que, após denúncia anônima especificada de morador noticiando o tráfico praticado na região, conhecida como ponto de tráfico de droga, indicando, inclusive as vestimentas dos agentes, os policiais foram até o local, tendo o agravante, ao avistar a polícia, empreendido fuga.
+Sublinhou-se, ainda, que, na ocasião, o agente dispensou uma sacola com 18 "epperndorfs" de cocaína e certa quantia, em dinheiro.
+2. A condenação por tráfico de drogas está devidamente fundamentada nas instâncias ordinárias, com base nas provas de autoria e materialidade, sendo inviável, na via do habeas corpus, a reanálise do conjunto fático-probatório para fins de desclassificação do delito.
+3. Pelo mesmo fundamento - inviabilidade em sede de habeas corpus de incursão aprofundada em matéria fática -, vedada a modificaçao do aresto combatido que negou a aplicação do § 4º do art. 33 da Lei de Drogas, na medida em que escorado nas circunstâncias do fato delituoso, os quais evidenciaram que o réu estava se dedicando ao tráfico de drogas.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 949.229/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025, grifou-se.)
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA PESSOAL. FUNDADA SUSPEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do recurso especial, no qual a parte agravante pleiteava a nulidade da busca pessoal realizada por suposta ausência de fundada suspeita e a readequação da dosimetria da pena.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) se a busca pessoal realizada pelos policiais militares foi ilegal, diante da alegada ausência de fundada suspeita, (ii) se a dosimetria da pena deve ser readequada, considerando a situação da arma apreendida.
+III. Razões de decidir
+3. A busca pessoal realizada pelos policiais encontra respaldo nos arts. 240, § 2º, e 244 do Código de Processo Penal, tendo sido motivada por denúncia anônima especificada, a qual detalhava características do acusado, com elementos indiciários confirmados antes da abordagem. Tal procedimento configura exercício regular da atividade estatal, inexistindo ilegalidade na ação policial.
+4. A tese de desproporcionalidade da pena corporal não foi apresentada nas razões do recurso especial, constituindo inovação recursal, cujo conhecimento é incabível em sede de agravo regimental diante do óbice da preclusão.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: 1. A busca pessoal realizada com base em denúncia anônima especificada e confirmada por diligências policiais é válida e não configura ilegalidade. 2. Inovações recursais não são admitidas em sede de agravo regimental devido à preclusão.
+Dispositivos relevantes citados: CPP, arts. 240, § 2º, e 244.
+Jurisprudência relevante citada: STJ, RHC n. 158.580/BA, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/04/2022, DJe 25/04/2022; STJ, AgRg no REsp n. 2.096.453/MG, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/02/2025, DJEN de 25/02/2025."
+(AgRg no AREsp n. 2.775.475/SE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/3/2025, DJEN de 26/3/2025, com destaque.)
+Sobre o dissídio jurisprudencial, o recorrente não apontou quais seriam os dispositivos legais de interpretação controvertida nos Tribunais, o que configura deficiência na fundamentação recursal e atrai a incidência da Súmula 284/STF. Afinal, para os recursos interpostos com fundamento na alínea "c" do art. 105, III, da CR/1988, é necessário que a parte recorrente indique qual foi o texto legal objeto do dissídio pretoriano, o que não ocorreu no presente caso. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. LEI DE DROGAS. APLICAÇÃO DE MINORANTE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPÉRIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. O apontamento de dissídio jurisprudencial sem indicação do dispositivo porventura violado conduz à deficiência de fundamentação e à aplicação do enunciado n. 284 da Súmula do Supremo Tribunal Federal - STF.
+ ..
+4. Agravo regimental desprovido".
+(AgRg no AREsp n. 1714857/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/11/2020, DJe de 27/11/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
