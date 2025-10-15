@@ -1,0 +1,13 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 225-237) interposto contra acórdão no qual foi estabelecido que, sendo a aposentadoria direito patrimonial disponível, é cabível a renúncia a tal benefício, não havendo, ainda, impedimento para que o segurado que continue a contribuir para o sistema formule novo pedido de aposentação que lhe seja mais vantajoso.
+Às fls. 246-247 o recurso foi admitido e remetido à Suprema Corte, que devolveu os autos a esta Corte Superior em razão da inclusão do Tema n. 503 no Plenário Virtual.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 503 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fls. 270-275).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fl. 286):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. DESAPOSENTAÇÃO. TEMA 503 DE REPERCUSSÃO GERAL. ACÓRDÃO EM DISSONÂNCIA COM A TESE FIXADA PELO SUPREMO TRIBUNAL FEDERAL. JUÍZO DE RETRATAÇÃO EXERCIDO.
+1. A orientação jurisprudencial do Superior Tribunal de Justiça, segundo a qual, por se tratar de direito patrimonial disponível, o segurado poderia renunciar à sua aposentadoria com o propósito de obter benefício mais vantajoso no Regime Geral de Previdência Social ou em regime próprio de Previdência, mediante a utilização de seu novo tempo de contribuição, diverge do entendimento consolidado pela Suprema Corte no julgamento definitivo do RE n. 661.256/SC - Tema 503, no qual se fixou a seguinte tese de repercussão geral: " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91" (RE 661256, Relator(a): ROBERTO BARROSO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Tribunal Pleno, julgado em 27-10-2016, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-221 DIVULG 27-09-2017 PUBLIC 28-09-2017).
+2. Juízo de retratação exercido, nos termos do art. 1.040, II, do Código de Processo Civil. Agravo regimental do INSS provido para negar provimento ao recurso especial interposto pelo segurado.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 225-237, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
