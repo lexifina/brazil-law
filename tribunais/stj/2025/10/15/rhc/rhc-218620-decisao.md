@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por BRUNA ALVES NEVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2029504-46.2025.8.26.0000.
+Extrai-se dos autos que a recorrente foi denunciada como incursa nos arts. 2º, §4º, inciso II, da Lei n. 12.850/2013, e 312, §1º, por oito vezes, c/c o art. 29, todos do Código Penal - CP, em continuidade delitiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas Corpus. O habeas corpus impetrado contra decisão de juízo de primeiro grau deve ser processado perante o Tribunal de Justiça, não se aplicando a regra de hierarquia para impugnação direta do ato de homologação da colaboração premiada pelo TJSP, pois o writ não ataca diretamente essa decisão, mas sim a que reconheceu a competência da Justiça Estadual no incidente de exceção de incompetência. A alegação de que os fatos delatados teriam conexão com crimes eleitorais não é suficiente para deslocar a competência para a Justiça Eleitoral, quando os indícios apontam que o propósito principal dos crimes foi o enriquecimento ilícito dos envolvidos, ainda que parte dos valores desviados tenha sido posteriormente destinada a campanhas eleitorais. A competência da Justiça Estadual foi confirmada, afastando-se qualquer ilegalidade na homologação da delação premiada e nos atos subsequentes da ação penal. Ordem denegada." (fl. 3.279)
+Nas razões do presente recurso, sustenta que a homologação pelo TJ/SP dos acordos de colaboração premiada teria violado o princípio do juiz natural.
+Assevera que os acordos de colaboração de Adriana Nunes Ramos Soprano e Rafael José Soprano Fernandes têm relação direta com crimes eleitorais e conexos.
+Afirma, ainda, que as colaborações apontam que parte do dinheiro desviado de holerites de servidores municipais foi destinado a campanhas eleitorais de candidatos locais, configurando crimes eleitorais conexos, atraindo a competência da Justiça Eleitoral.
+Aduz que o Ministério Público teria fragmentado e minimizado fatos de natureza eleitoral para manter a competência da Justiça Estadual, prática caracterizada como manipulação do juiz natural (forum shopping).
+Argumenta que a nulidade da homologação contamina, por derivação, todas as provas e atos subsequentes.
+Requer a declaração de incompetência absoluta do TJ/SP para homologar os acordos de colaboração, bem como reconhecer a ineficácia dos atos de colaboração, com anulação da denúncia. Subsidiariamente, caso mantida a homologação, pleiteia a rejeição da denúncia, com a remessa dos autos à Justiça Eleitoral, diante da conexão entre os crimes.
+Não houve pedido de medida liminar.
+Parecer ministerial de fls. 3430/3437 pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+São estes os pertinentes excertos do aresto combatido, litteris:
+" ..
+As alegações não procedem.
+Foi questionada a própria competência por distribuição da 1.ª Vara Criminal de Barretos, contudo, tal questão não foi controvertida no recurso, limitando-se o inconformismo à suposta competência da Justiça Eleitoral.
+As investigações, embora revelassem que parte dos pagamentos de alguns dos servidores fosse direcionada para a formação de "caixa 2" de campanhas eleitorais, fato é que os indícios apontam que os desvios serviram, essencialmente, ao enriquecimento clandestino dos funcionários beneficiados, que adquiriram imóveis, veículos, pagaram despesas pessoais e formaram patrimônio com o dinheiro desviado.
+O que há indícios de ter havido é a transferência posterior de dinheiro recebido indevidamente para alimentar campanhas eleitorais de forma ilícita. São fatos acessórios que, eventualmente, poderão ser apurados perante a Justiça Eleitoral, se o caso.
+Destaca-se, aliás, que o estorno de parte do numerário recebido de maneira sub-reptícia nem sequer é o caso da paciente, de tal sorte, que não há cogitar competência da Justiça Eleitoral, nos termos do art. 121 da CF c. c. art. 35 do Código Eleitoral.
+Nesse sentido, reporto-me à r. decisão atacada:
+"Foi possível, na oportunidade, separar de forma satisfatória os fatos relativos à organização criminosa e aos peculatos, daqueles peculatos que foram praticados em contexto eleitoral.
+Tanto o é que o anexo 1 da delação premiada formado pelos volumes II a V diz respeito aos fatos apurados na operação partilha, ao passo que o anexo 2 formado pelo volume VI apresentou os documentos indicativos da utilização de recursos obtidos ilicitamente para custear despesas não contabilizadas em campanhas eleitorais.
+Assim existiram outros dois anexos, indicativos de ilícitos com a utilização do Programa Emergencial de Auxílio Desemprego e lavagem de dinheiro.
+Ademais, o reconhecimento do pleito da excipiente de que a competência para homologação do acordo e para processamento dos fatos apurados cujas provas tenham sido obtidas por meio da colaboração são da justiça eleitoral, demandaram o reconhecimento de que os delitos foram praticados, em essência, para esse fim.
+Todavia, o argumento não convence.
+Como bem evidenciado pelo excepto, a organização criminosa voltada a fraudar o sistema de holerites da Prefeitura, visava a incorporação de valores de forma indevida aos patrimônios pessoais dos servidores envolvidos.
+Evidenciou-se, na oportunidade, que, a despeito da tentativa de boa parte dos servidores acusados de sustentarem a legalidade das verbas o que é apurado individualmente nas ações penais utilizaram os valores para pagamento de dívidas pessoais, assim como para aquisição de veículos e imóveis.
+Desta feita, não há que se falar na prática de crimes eleitorais como motivo para formação da organização criminosa.
+Ao contrário. Há, no máximo, indícios de que determinados valores foram "devolvidos" à pessoas específicas para utilização em campanhas eleitorais.
+Essa, todavia, não é a hipótese da excipiente.
+E, nesse contexto, ainda que assim se compreenda, entende-se que houve a consumação dos delitos de peculato, no âmbito da organização criminosa, para, então, uma vez integrado o valor ilícito ao patrimônio pessoal do servidor envolvido, tenha havido, possivelmente, a formação de "Caixa 2".
+..
+..
+De mais a mais, insta salientar, como fez o excepto, que os fatos que, eventualmente, envolvam crimes eleitorais são acessórios e serão apurados na justiça eleitoral, investigados perante a justiça especializada.
+De outra banda, tem-se que a verificação dos requisitos de legalidade para homologação dos acordos de colaboração premiada dentre eles o da competência foram apreciados pelo Tribunal de Justiça do Estado de São Paulo, que deliberou pela homologação do acordo.
+Assim, não há que se falar em incompetência absoluta a ser reconhecida por este juízo de 1º grau, principalmente porque todas as alegações apresentadas pela defesa já existiam a data da homologação e, por isso, não houve alteração fática que ensejasse a revisão da decisão proferida em 2ª instância.
+Portanto, incabível o reconhecimento do pedido principal formulado pela excipiente."
+Com isso, confirmada a competência da Justiça Estadual, por arrastamento, não há ilegalidade na homologação dos acordos de delação premiada, nem mesmo da denúncia e de outros processuais, que dependeria desse reconhecimento.
+Outras considerações sobre o mérito da ação penal, por dependerem da análise pormenorizada de provas, incabível no âmbito estreito do writ , serão objeto da prolação da sentença, sob pena de supressão de instância.
+Pelo exposto, meu voto denega a ordem." (fls. 3291/3283)
+No caso em debate, a defesa alega a incompetência da Justiça Comum para processar e julgar o feito considerando que os corréus Adriana Nunes Ramos Soprano e Rafael José Soprano Fernandes firmaram um acordo de colaboração premiada, apresentando provas que indicavam a existência da organização criminosa e o uso dos recursos ilícitos para financiamento de campanhas eleitorais.
+Contudo, da leitura do excerto transcrito, verifica-se que o Tribunal de origem afirma que "os indícios apontam que os desvios serviram, essencialmente, ao enriquecimento clandestino dos funcionários beneficiados, que adquiriram imóveis, veículos, pagaram despesas pessoais e formaram patrimônio com o dinheiro desviado". Mormente com relação à ora paciente, assevera que "o estorno de parte do numerário recebido de maneira sub-reptícia nem sequer é o caso da paciente, de tal sorte, que não há cogitar competência da Justiça Eleitoral, nos termos do art. 121 da CF c. c. art. 35 do Código Eleitoral".
+Nessa ordem de ideias, a modificação do julgado recorrido no intuito de concluir pela competência da Justiça eleitoral demandaria o necessário revolvimento do arcabouço fático-probatório, o que não se coaduna com a via eleita, de rito célere e cognição sumária.
+Ilustrativamente:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. CORRUPÇÃO PASSIVA. ALEGADA COMPETÊNCIA DA JUSTIÇA ELEITORAL POR CONEXÃO. IMPOSSIBILIDADE. FATOS DIVERSOS. PARTES DIVERSAS. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. NÃO CABIMENTO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem afirma que, "nas mencionadas decisões que determinaram a remessa à Justiça Eleitoral, não  ..  ficou  expresso que se comunicavam ao presente (até porque, como dito, os fatos são diversos)", bem como que "as partes são diversas. De outro lado, a corrupção passiva apurada, guardada a via estreita, não possui qualquer relação com delitos eleitorais".
+2. Reverter tal entendimento, no intuito de concluir pela conexão entre as ações penais e, por conseguinte, competência da Justiça eleitoral, demandaria o necessário revolvimento do arcabouço fático-probatório, o que não se coaduna com a via eleita, de rito célere e cognição sumária.
+3. O trancamento da ação penal é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas e materialidade do delito.
+4. Diante do contexto em análise, os pormenores do caso somente serão esclarecidos durante a instrução processual, momento apropriado para a análise aprofundada dos fatos narrados pelo titular da ação penal pública, pois a certeza quanto aos fatos e seus contornos jurídicos apenas virá com a prolação da sentença condenatória ou absolutória.
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no RHC n. 202.462/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/10/2025, DJEN de 7/10/2025.)
+Outrossim, na esteira do parecer ministerial da lavra da douto Subprocurador-Geral da República JOÃO HELIOFAR DE JESUS VILLAR, o qual adoto como razões de decidir, "a organização criminosa foi primariamente voltada para o desvio de verbas públicas em benefício pessoal dos servidores envolvidos, configurando peculato, e não visava ao financiamento de campanhas eleitorais. A utilização de parte dos valores desviados para custear despesas não contabilizadas em campanhas eleitorais foi considerada um fato "acessório", distinto do propósito principal dos peculatos". Acresceu, ainda, que "A transferência posterior de dinheiro recebido indevidamente para alimentar campanhas eleitorais, se confirmada, seria mero proveito da conduta típica principal (peculato)" (fl. 3434) .
+Ante o exposto, com fundamento no art. 34, XX, c/c o art. 202, c/c o art. 246, todos do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpu s.
+Publique-se.
+Intimem-se.
+EMENTA
