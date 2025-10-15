@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que julgou prejudicado o recurso especial pelo qual TRADITIO COMPANHIA DE SEGUROS se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO assim ementado (fls. 204/205):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. DESLOCAMENTO DO FEITO À JUSTIÇA FEDERAL. APLICAÇÃO DO TEMA 1011. AUSÊNCIA DE DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS CORRELATOS. DEVEM OS AUTOS SEGUIR SEU REGULAR PROCESSAMENTO. RECURSO PROVIDO.
+- O reconhecimento de Repercussão Geral pelo STF não induz, automaticamente, a suspensão dos feitos correlatos.
+- O Tribunal, por maioria e nos termos do voto do Relator, ora reajustado, resolveu questão de ordem no sentido de que: "a) a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la;  .. ". Vencidos o Ministro Edson Fachin, que rejeitava a questão de ordem, e o Ministro Marco Aurélio, que assentava a inconstitucionalidade do art. 1.035, § 5º, do CPC. Presidiu o julgamento a Ministra Cármen Lúcia. Plenário, 7.6.2017.
+- O Ministro Relator, ao reconhecer a repercussão geral da matéria (Tema 1.011), não determinou a suspensão dos processos pendentes que versem sobre a questão.
+Os embargos de declaração opostos foram rejeitados (fls. 253/260).
+Nas razões de seu recurso especial, a parte recorrente aponta a violação ao art. 109, inciso I, da Constituição Federal, ao art. 124 do Código de Processo Civil e ao art. 1º-A da Lei 12.409/2011, com a redação da Lei 13.000/2014, bem como dissídio jurisprudencial.
+Alega que a Caixa Econômica Federal (CEF) deve intervir no presente caso como assistente, porque a controvérsia envolve seguro de contrato de mútuo habitacional do Sistema Financeiro da Habitação (SFH) com apólice pública e comprometimento do Fundo de Compensação de Variações Salariais (FCVS).
+Sustenta que a competência para processar e julgar a ação é da Justiça Federal.
+Argumenta que, com o julgamento do Recurso Extraordinário 827.996/PR, Tema 1.011 do Supremo Tribunal Federal, a CEF deve atuar na defesa do Fundo de Compensação de Variações Salariais (FCVS), resultando na competência da Justiça Federal.
+Requer o conhecimento do agravo para se prover o recurso especial e ser determinada a intervenção da CEF e a remessa dos autos à Justiça Federal.
+A parte adversa apresentou contrarraz ões (fls. 594/606).
+O Tribunal de origem julgou prejudicado o recurso especial (fls. 609/610) e a parte recorrente interpôs agravo em recurso especial ora em análise (fls. 611/650).
+É o relatório.
+Da análise dos autos, verifico que o agravo ora examinado foi interposto da decisão que julgou " ..  prejudicado o recurso especial interposto por Sul América Companhia Nacional de Seguros S. A" (fl. 610) em razão de o acórdão recorrido estar em consonância com a tese firmada, sob o rito de repercussão geral, quando do julgamento do Recurso Extraordinário 827.996/PR, Tema 1.011, pelo Supremo Tribunal Federal.
+O Superior Tribunal de Justiça já sedimentou o entendimento de que configura erro grosseiro a interposição de agravo em recurso especial, ao invés de agravo interno, da decisão do Tribunal de origem que nega seguimento a recurso especial (ou o julga prejudicado) com base em decisão definitiva proferida em processo representativo de controvérsia, uma vez que, ante a disposição expressa do art. 1.030, § 2º, do Código de Processo Civil, não há dúvida objetiva acerca da insurgência cabível, não sendo possível a aplicação da fungibilidade recursal ou da instrumentalidade das formas.
+Confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL EM RAZÃO DA CONFORMIDADE DO ACÓRDÃO RECORRIDO COM TESE FIRMADA SOB O REGIME DE JULGAMENTO DE RECURSOS REPETITIVOS. INTERPOSIÇÃO DE AGRAVO (ART. 1.042 DO CPC). NÃO CABIMENTO. ERRO GROSSEIRO. INAPLICABILIDADE DOS PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. PROVIMENTO NEGADO.
+1. O Código de Processo Civil (CPC), no § 2º do art. 1.030, é expresso ao determinar que cabe o agravo interno previsto no seu art. 1.021 contra a decisão que nega seguimento a recurso especial interposto contra acórdão conformado a entendimento do Superior Tribunal de Justiça fixado sob o regime de julgamento de recursos repetitivos.
+2. A interposição de agravo em recurso especial, ao invés de agravo interno, configura erro grosseiro, uma vez que, ante a disposição expressa do CPC, inexiste dúvida objetiva acerca da insurgência cabível, não sendo possível a aplicação da fungibilidade recursal ou instrumentalidade das formas.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.501.829/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. INADMISSÃO DO RECURSO ESPECIAL SOB O FUNDAMENTO DE QUE O ACÓRDÃO RECORRIDO ESTÁ DE ACORDO COM ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. VIOLAÇÃO DO 535 DO CPC/73 AFASTADA. INTERPOSIÇÃO DE AGRAVO NO RECURSO ESPECIAL. NÃO CABIMENTO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE.
+1. A Corte Especial do STJ, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de relatoria do Ministro Cesar Asfor Rocha, adotou o entendimento de que é incabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do STJ sob o rito dos recursos repetitivos, inclusive no que concerne à alegação de violação do art. 535 do CPC/73, quando essa está atrelada à matéria enfrentada no precedente.
+2. Ademais, na forma do artigo 1.030, § 2º, do Novo Código de Processo Civil, o recurso cabível contra a decisão que nega seguimento a recurso especial com base no art. 1.030, I, b, do mesmo Código Processual, é o agravo interno.
+3. Não mais existindo dúvida objetiva quanto ao recurso cabível, a interposição de agravo em recurso especial nesses casos configura erro grosseiro, desautorizando a aplicação do princípio da fungibilidade recursal.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.240.716/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2018, DJe de 6/11/2018.)
+Desse modo, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
