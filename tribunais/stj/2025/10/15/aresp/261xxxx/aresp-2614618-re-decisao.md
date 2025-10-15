@@ -1,0 +1,23 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 3.778):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA COLETIVO. ESTIPULANTE. REPRESENTANTE DOS SEGURADOS. RESPONSABILIDADE DE PRESTAR INFORMAÇÕES AOS ADERENTES. INVALIDEZ PARCIAL. DOENÇA OCUPACIONAL. RISCO EXCLUÍDO NA APÓLICE COLETIVA. IMPROCEDÊNCIA DO PEDIDO.
+1. No seguro de vida em grupo, o estipulante é o mandatário dos segurados, sendo por meio dele encaminhadas as comunicações entre a seguradora e os consumidores aderentes.
+2. O dever de informação, na fase pré-contratual, é satisfeito durante as tratativas entre seguradora e estipulante, culminando com a celebração da apólice coletiva que estabelece as condições gerais e especiais e cláusulas limitativas e excludentes de riscos. Na fase de execução do contrato, o dever de informação, que deve ser prévio à adesão de cada empregado ou associado, cabe ao estipulante, único sujeito do contrato que tem vínculo anterior com os componentes do grupo segurável. A seguradora, na fase prévia à adesão individual, momento em que devem ser fornecidas as informações ao consumidor, nem sequer tem conhecimento da identidade dos interessados que irão aderir à apólice coletiva cujos termos já foram negociados entre ela e o estipulante.
+3. Havendo cláusula expressa afastando a cobertura de invalidez parcial por doença laboral, a ampliação da cobertura para abranger o risco excluído, e, portanto, não considerado no cálculo atuarial do prêmio, desequilibraria o sinalagma do contrato de seguro.
+4. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 3.803-3.808).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, 102 e 105, III, a, da Constituição Federal.
+Nesse sentido, argumenta ter havido afronta aos princípios do devido processo legal e do contraditório, além de extrapolação da competência constitucional do Superior Tribunal de Justiça, com distorção do modelo recursal previsto na Constituição Federal, porque, ao dar provimento ao recurso especial da parte recorrida, o julgado impugnado teria adentrado no reexame de fatos e provas e na interpretação de cláusulas contratuais, conduta vedada pelas Súmulas n. 5 e 7 do próprio STJ.
+Requer a concessão de justiça gratuita, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 3.863-3.869.
+É o relatório.
+2. Inicialmente, defere-se o pedido de gratuidade de justiça formulado à fl. 3.814 tão somente no que se refere às custas para a interposição do presente recurso, nos termos do art. 98, § 5º, do Código de Processo Civil, bem como da Lei n. 1.060/1950.
+3. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal, no julgamento do paradigma vinculado ao Tema n. 181, afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Desse modo, a controvérsia suscitada no presente recurso extraordinário, segundo a qual o recurso especial interposto pela parte ora recorrida não seria passível de conhecimento, por incidir em óbices processuais, demandaria a apreciação dos dispositivos infraconstitucionais que regulamentam os requisitos recursais de admissibilidade, o que inviabiliza o seguimento da insurgência nos termos do Tema n. 181 do STF.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
