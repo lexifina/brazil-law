@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Agravo interposto por KAROLINE PEREIRA DA SILVA CALIXTO, à decisão que inadmitiu Recurso Especial com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise do recurso de KAROLINE PEREIRA DA SILVA CALIXTO, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 14.02.2025, sendo o Recurso Especial interposto somente em 07.03.2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ademais, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. SANDRO DE SOUZA GARCIA.
+Com efeito, percebeu-se, no STJ, haver irregularidade na tempestividade e representação processual do recurso.
+A parte, embora regularmente intimada para sanar referidos vícios, deixou o prazo transcorrer in albis (certidão fl. 731).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+EMENTA
