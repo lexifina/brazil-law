@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Busca veicular. Fundada suspeita. Prova lícita. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, no qual se alegava a nulidade da busca veicular realizada pela Polícia Rodoviária Federal, pelo argumento de ausência de fundada suspeita objetiva.
+2. A busca veicular resultou na apreensão de 48,845 kg de maconha e na condenação do agravante pelo delito previsto no art. 33, caput, da Lei nº 11.343/2006.
+3. A decisão agravada considerou que a abordagem policial foi respaldada por fundada suspeita, baseada em comportamentos e circunstâncias observadas durante patrulhamento ostensivo e preventivo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a busca veicular realizada pela Polícia Rodoviária Federal, que resultou na apreensão de drogas, foi válida, considerando os elementos que configuraram a fundada suspeita exigida pelo ordenamento jurídico.
+III. Razões de decidir
+5. A busca veicular foi realizada em conformidade com o art. 244 do Código de Processo Penal, que permite a diligência sem mandado judicial em casos de fundada suspeita.
+6. A fundada suspeita foi configurada por um conjunto de elementos objetivos, incluindo o nervosismo do condutor, o comportamento evasivo do passageiro e a relutância em abrir o porta-malas.
+7. A abordagem policial ocorreu durante patrulhamento ostensivo e preventivo, inserindo-se no contexto de fiscalização regular de trânsito e segurança pública, sem qualquer ilegalidade.
+8. A jurisprudência desta Corte Superior reafirma que a fundada suspeita deve ser baseada em fatos e circunstâncias objetivas, o que foi atendido no caso concreto.
+IV. Dispositivo e tese
+9. Agravo regimental im provido.
+Tese de julgamento:
+1. A busca veicular realizada com base em fundada suspeita, configurada por elementos objetivos e circunstâncias específicas, é válida e não constitui prova ilícita.
+2. A atuação policial em patrulhamento ostensivo e preventivo, inserida no contexto de fiscalização regular, é legítima e não caracteriza abuso de autoridade.
+Dispositivos relevantes citados: CPP, art. 244; Lei nº 11.343/2006, art. 33.
+Jurisprudência relevante citada: STJ, HC 774.140/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.10.2022; STJ, AgRg no HC 782.558/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 14.02.2023 .
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROSIVALDO APARECIDO DA SILVA LIMA (e-STJ, fls. 905-917) de decisão, por mim proferida (e-STJ, fls. 896-900), em que conheci do agravo para negar provimento ao recurso especial interposto pelo agravante.
+A Defesa aponta a invalidade da busca pessoal e veicular realizada, argumentando que foi baseada em meras conjecturas e no suposto nervosismo do abordado, sem a presença de fundada suspeita objetiva, o que configuraria uma violação aos artigos 240, § 2º, e 244 do Código de Processo Penal.
+Ademais, argumenta que o pleito não busca alterar a jurisprudência da Corte, mas sim evidenciar que a decisão proferida pelo Tribunal de Justiça destoou da interpretação já pacificada por esta Corte Superior, que exige elementos objetivos e concretos para a fundada suspeita, rechaçando a banalização da medida baseada em impressões subjetivas ou tirocínio policial.
+Por fim, pede a reforma da decisão monocrática agravada, com a consequente reforma do acórdão recorrido, para reconhecer a violação aos artigos 240, § 2º, 244 e 621, inciso I, do Código de Processo Penal, bem como a aplicação do artigo 157, caput e § 1º, do mesmo diploma legal, declarando a nulidade da busca pessoal e veicular e afastando as provas contaminadas pela ilicitude originária. Em decorrência, espera pela absolvição do recorrente, nos termos do artigo 386, inciso II, do Código de Processo Penal.
+Não sendo este o entendimento, postula que submeta este Agravo Regimental à apreciação da Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental NO AGRAVO EM RECURSO ESPECIAL. Busca veicular. Fundada suspeita. Prova lícita. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso especial, no qual se alegava a nulidade da busca veicular realizada pela Polícia Rodoviária Federal, pelo argumento de ausência de fundada suspeita objetiva.
+2. A busca veicular resultou na apreensão de 48,845 kg de maconha e na condenação do agravante pelo delito previsto no art. 33, caput, da Lei nº 11.343/2006.
+3. A decisão agravada considerou que a abordagem policial foi respaldada por fundada suspeita, baseada em comportamentos e circunstâncias observadas durante patrulhamento ostensivo e preventivo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a busca veicular realizada pela Polícia Rodoviária Federal, que resultou na apreensão de drogas, foi válida, considerando os elementos que configuraram a fundada suspeita exigida pelo ordenamento jurídico.
+III. Razões de decidir
+5. A busca veicular foi realizada em conformidade com o art. 244 do Código de Processo Penal, que permite a diligência sem mandado judicial em casos de fundada suspeita.
+6. A fundada suspeita foi configurada por um conjunto de elementos objetivos, incluindo o nervosismo do condutor, o comportamento evasivo do passageiro e a relutância em abrir o porta-malas.
+7. A abordagem policial ocorreu durante patrulhamento ostensivo e preventivo, inserindo-se no contexto de fiscalização regular de trânsito e segurança pública, sem qualquer ilegalidade.
+8. A jurisprudência desta Corte Superior reafirma que a fundada suspeita deve ser baseada em fatos e circunstâncias objetivas, o que foi atendido no caso concreto.
+IV. Dispositivo e tese
+9. Agravo regimental im provido.
+Tese de julgamento:
+1. A busca veicular realizada com base em fundada suspeita, configurada por elementos objetivos e circunstâncias específicas, é válida e não constitui prova ilícita.
+2. A atuação policial em patrulhamento ostensivo e preventivo, inserida no contexto de fiscalização regular, é legítima e não caracteriza abuso de autoridade.
+Dispositivos relevantes citados: CPP, art. 244; Lei nº 11.343/2006, art. 33.
+Jurisprudência relevante citada: STJ, HC 774.140/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.10.2022; STJ, AgRg no HC 782.558/SC, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 14.02.2023 .
+VOTO
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos, os quais restaram assim consignados (e-STJ, fls. 897-900):
+"O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No tocante à nulidade da busca veicular, a instância anterior assim se manifestou (e-STJ, fls. 718-722):
+"O requerente foi condenado pela prática do delito previsto no art. 33, caput da Lei n. 11.343/06, pois no dia 07 de abril de 2017, por volta das 21h12min, na rodovia BR 158, km 170 (copo sujo), transportava 48,845 kg de maconha, para fins de traficância, sem autorização e em desacordo com determinação legal e regulamentar. De acordo com os depoimentos dos policiais José Carnaúba de Paiva e Vladimir Neves, prestados na fase extrajudicial e ratificados em juízo, a busca veicular foi motivada em virtude de patrulhamento ostensivo e preventivo na rodovia BR 158. O policial Vladimir relatou (p. 286 - arquivo audiovisual) que "No momento da abordagem ele tava muito nervoso, o Rosivaldo, de imediato ele ficou muito nervoso, o Felipe ficou se escondendo, não olhava pra gente, ai pedimos pra abrir o porta-malas do veiculo pra gente ver, ele ficou balbuciando, não queria abrir o porta-malas, abrir pra gente, ai de imediato vimos que tinha maconha". Conforme narrado, após abertura do porta-malas, as drogas foram encontradas, sendo que o requerente confessou a prática do delito e não resistiu à prisão, tendo ainda confidenciado que a droga era de Três Lagoas e pretendia transportá-las até a Comarca de Aparecida do Taboado.
+Ademais, o tema foi bem dimensionado no parecer, a saber (p. 684):
+"A inviolabilidade da intimidade e da vida privada e o direito à locomoção são garantias fundamentais previstas na Constituição Federal, no artigo 5º, incisos X e LXVIII. Estas garantias constituem manifestações expressivas do direito de ir e vir, bem como do direito da personalidade frente a terceiros ou a atos arbitrários por parte de qualquer órgão do Poder Público. Contudo, tais direitos não se revestem de caráter absoluto, de modo que limitações são admitidas desde que legalmente previstas. Neste contexto, estão a excepcionalidade da medida de busca pessoal e a legalidade da atuação da policial. Por sua vez, a segurança pública é dever do Estado e deve ser exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio. Neste contexto o Código de Trânsito Brasileiro estabelece diversas regras administrativas que incluem o poder de fiscalização, no exercício da atividade de polícia judiciária (artigos 20 a 24 da Lei nº 9.503/97). Portanto, a abordagem de rotina não é irregular e o elemento probatório dela decorrente não constitui prova ilícita. No caso dos autos, tem-se que a abordagem foi decorrente do exercício regular de fiscalização realizada pela Polícia Rodoviária Federal, conduta inerente às funções legais e de patrulhamento das rodovias."
+ ..
+Nesse contexto, considerando que a busca veicular não padece de qualquer ilegalidade e que há prova suficiente de que o requerente trazia consigo drogas para fins de mercancia, corroborado pela sua confissão, rejeito tal pleito."
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal ou veicular poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+Sobre o tema, esta Corte já se manifestou reiteradas vezes que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+A validade da busca veicular em questão, que resultou na apreensão de 48,845 kg de maconha e na condenação do agravante, não se ancorou isoladamente em um suposto nervosismo do acusado, mas sim na conjugação de diversos elementos que, em seu conjunto, configuraram a indispensável fundada suspeita exigida pelo ordenamento jurídico para a realização da diligência.
+Conforme evidenciado no parecer do Ministério Público Federal e no acórdão do Tribunal de Justiça, a atuação policial foi respaldada por uma série de comportamentos e circunstâncias que transcenderam a mera ansiedade, justificando plenamente a intervenção.
+Primeiramente, é crucial contextualizar a abordagem policial.
+Os autos demonstram que a ação se deu durante um patrulhamento ostensivo e preventivo na rodovia BR 158, uma atividade rotineira e legítima da Polícia Rodoviária Federal.
+A abordagem inicial, portanto, inseriu-se dentro de um contexto de fiscalização regular de trânsito e segurança pública, e não de uma perseguição desmotivada.
+Ao se referir à dinâmica da abordagem, os depoimentos dos policiais José Carnaúba de Paiva e Vladimir Neves são elucidativos. Embora o nervosismo do agravante tenha sido um dos fatores observados ("No momento da abordagem ele tava muito nervoso, o Rosivaldo, de imediato ele ficou muito nervoso"), este não foi o único, nem o preponderante, elemento a deflagrar a busca.
+O policial Vladimir Neves destacou, por exemplo, que "o Felipe  corréu  ficou se escondendo, não olhava pra gente", o que já denota um comportamento atípico e evasivo por parte do passageiro.
+Mais do que isso, ao ser solicitado a abrir o porta-malas do veículo, Rosivaldo "ficou balbuciando, não queria abrir o porta-malas, abrir pra gente".
+A relutância em colaborar com uma solicitação legítima em um contexto de fiscalização rodoviária, somada ao comportamento evasivo do passageiro e ao nervosismo do condutor, criou um cenário de fundadas suspeitas muito mais complexo e robusto do que o mero nervosismo individual.
+Como se sabe, a fundada suspeita é uma noção legal que se baseia na avaliação das circunstâncias específicas de cada caso para determinar se há motivos razoáveis para suspeitar que uma pessoa esteja envolvida em atividades criminosas.
+Nesses casos, não se exige certeza absoluta, mas sim uma base objetiva que justifique a conjectura do agente de segurança, ao qual deve ser assegurada a autonomia necessária para exercer suas atividades de fiscalização, a fim de garantir efetivamente o combate ao tráfico de substâncias ilícitas e exercer sua função constitucional de polícia ostensiva.
+É bem verdade que a fundada suspeita não pode ser baseada em estereótipos, discriminação ou preconceitos, devendo ser fundamentada em fatos e circunstâncias objetivas, o que, no caso, foi atendido, uma vez que as características do veículo abordado eram idênticas às mencionadas na denúncia anônima recebida pelas autoridades.
+A fim de assegurar a proteção dos bens jurídicos envolvidos e coibir efetivamente o transporte ilegal de substâncias entorpecentes, é necessário permitir que a autoridade policial realize fiscalizações em veículos com características semelhantes às apontadas na denúncia anônima, evitando assim a impunidade e garantindo a segurança pública.
+Ademais, registre-se que "a alteração de entendimento jurisprudencial verificada posteriormente ao trânsito em julgado da condenação não autoriza o ajuizamento de revisão criminal, visando a sua aplicação retroativa  .. , sob pena de serem violados os princípios da coisa julgada e da segurança jurídica" (STJ, 5ª Turma, AgRg. no HC. nº 782.558/SC, Rel. Min. Messod Azulay Neto, DJ. de 14.2.2023).
+Assim, convém ponderar que "alteração jurisprudencial que definiu a necessidade de standard probatório objetivo para abordagem pessoal foi o RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2022, posterior ao julgado que se pretende rescindir." (AgRg no HC n. 832.501/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+A seguir os julgados que respaldam esse entendimento:
+"REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO PELO RECONHECIMENTO DE REFORMATIO IN PEJUS INDIRETA. INSUBSISTENTE. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. IMPOSSIBILIDADE. REVISÃO CRIMINAL NÃO CONHECIDA. 1. Não subsiste o pleito pelo reconhecimento de reformatio in pejus indireta, porquanto a sucumbência do Parquet estadual quanto à matéria veiculada no recurso especial ocorreu quando do julgamento e provimento parcial da apelação defensiva. 2. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que a mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal, ressalvadas hipóteses excepcionalíssimas de entendimento pacífico e relevante, o que não se vislumbra na espécie. 3. Revisão criminal não conhecida." (RvCr n. 5.620/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/6/2023, DJe de 30/6/2023.)"
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
