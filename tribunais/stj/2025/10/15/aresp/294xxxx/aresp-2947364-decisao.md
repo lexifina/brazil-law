@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 282 e 283 do STF (fls. 51-53).
+O acórdão do TJSP traz a seguinte ementa (fl. 38):
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - EXECUÇÃO INDIVIDUAL - PLANO VERÃO - TEMA 677 DO STJ - COISA JULGADA - Decisão de indeferimento da incidência da revisão do tema 677 do STJ - Pretensão da parte exequente (agravante) de apuração de saldo remanescente com base no novo tema 677, após o trânsito em julgado da sentença de extinção do feito em razão da satisfação da obrigação (CPC/2015, art. 924, II)
+- Descabimento - Agravante que não se insurgiu oportunamente contra a sentença de extinção pelo pagamento - Preclusão que se operou sobre o tema (CPC, arts. 507 e 508) - Juros de mora e correção monetária já apreciados em decisão transitada em julgado.
+- Preclusão consumativa que impede a reapreciação de tais matérias, ainda que tenham natureza de ordem pública - Decisão
+Recurso não provido.
+No recurso especial (fls. 43-49), fundamentado no art. 105, III, "a", da CF, o recorrente apontou contrariedade aos arts. 523 e 525, §§ 6º, 8º e 10 do CPC/2015, e 315, 317 e 319 do CC/2002, argumentando que a tese firmada na revisão do Tema Repetitivo n. 677/STJ teria incidência imediata para atualizar o saldo remanescente do cumprimento de sentença, pois não seria preciso aguardar o trânsito em julgado do acórdão repetitivo.
+Acrescentou que "o exequente sempre buscou a satisfação de seu crédito, enquanto o executado protelava sua satisfação. Assim, não ocorreu preclusão, pois não houve nenhuma circunstância em que o exequente deixou de agir para requerer seu crédito. Portanto, não houve a omissão (non facere) na presente execução" (fl. 48).
+O agravo (fls. 56-68) afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte a quo não examinou o alegado direito à atualização do saldo do cumprimento de sentença com base na revisão do Tema Repetitivo n. 677/STJ, pois reconheceu a existência de preclusão consumativa para discutir a questão decidida por sentença extinguindo o feito executivo e contra a qual não houve a interposição de recurso. Confira-se (fls. 206-207):
+Consta dos autos de origem que foi proferida sentença de extinção do processo com fundamento no art. 924, inc. II, do CPC, em razão da satisfação da obrigação (fls. 249/256), contra a qual a parte exequente, ora agravante, não se insurgiu oportunamente, visto que somente o banco agravado apelou, tendo a decisão sido mantida em segundo grau, mediante acórdão(s) transitado(s) em julgado em 01.09.2023 (fls. 351/366, 483/491 e 493), tornando-se incólume a sentença no que se refere à quitação da obrigação.
+Ora, tendo a parte exequente se conformado com a sentença de extinção da
+execução pela suficiência do pagamento, não pode agora apresentar pedido de apuração de valor remanescente, nem mesmo com base na revisão do tema 677 do STJ, pois tal proceder configura inovação em momento inadequado, sendo vedado à parte credora pretender retroceder no tempo para ver sua pretensão analisada, pelo simples fato de que se operou a preclusão sobre o tema, fenômeno processual que impede a alteração da coisa julgada formada com a sentença de extinção do processo (CPC, arts. 507 e 508).
+Quanto aos critérios fixados para o cálculo do débito, inclusive no que tange aos juros de mora e à correção monetária, registre-se que já foram objeto de sentença confirmada em segundo grau (fls. 351/366) e já transitada em julgado (fl. 493), contra a qual não houve insurgência tempestiva da parte exequente, ora agravante, operando-se, assim, a preclusão consumativa que impede a reapreciação de tais questões, ainda que tenham natureza de ordem pública, conforme entendimento consolidado nos Tribunais Superiores.
+Portanto, a r. decisão agravada deve ser mantida, pelos fundamentos ora adotados.
+Para infirmar tal entendimento, a parte recorrente invocou os arts. 523 e 525, §§ 6º, 8º e 10, do CPC/2015 e 315, 317 e 319 do CC/2002, os quais todavia não apresentam o alcance normativo pretendido, porque não tratam especificamente da preclusão em debate.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+Além disso, a Corte local, ao reconhecer a preclusão consumativa, não se manifestou quanto aos arts. 523 e 525, §§ 6º, 8º e 10, do CPC/2015, e 315, 317 e 319 do CC/2002 sob o ponto de vista da parte recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas dos dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+E ainda, não tendo a parte impugnado o conteúdo normativo dos arts. 507, 508 e 924, II, do CPC/2015, que justificaram o reconhecimento da preclusão consumativa mencionada , aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
