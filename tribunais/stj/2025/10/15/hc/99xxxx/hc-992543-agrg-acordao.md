@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO CONTRA DECISÃO COLEGIADA. INADMISSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL INAPLICÁVEL. PEDIDO NÃO CONHECIDO.
+I. Caso em exame
+1. Pedido de reconsi deração interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que não conheceu de habeas corpus em virtude da interposição simultânea de recurso especial contra o mesmo acórdão proferido pelo Tribunal de origem.
+2. O agravante foi condenado pela prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006, devido à apreensão de 27,6kg de maconha.
+3. O pedido de reconsideração busca a reavaliação da decisão, alegando que a razão para a inadmissão (existência simultânea de recurso especial) já não subsiste, pois o recurso especial foi julgado e arquivado com trânsito em julgado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é cabível pedido de reconsideração contra decisão colegiada, considerando a ausência de previsão legal ou regimental, e se o princípio da fungibilidade recursal poderia ser aplicado.
+III. Razões de decidir
+5. O pedido de reconsideração contra decisão colegiada é inadmissível, em razão da ausência de previsão legal ou regimental, conforme entendimento consolidado do Superior Tribunal de Justiça.
+6. O princípio da fungibilidade recursal não é aplicável em casos de erro grosseiro, como a interposição de pedido de reconsideração contra acórdão colegiado.
+7. O agravo regimental, conforme os arts. 1.021 do CPC e 258 do RISTJ, é cabível apenas contra decisões monocráticas, não sendo admitido para impugnar decisões colegiadas.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Pedido não conhecido.
+Tese de julgamento:
+1. É inadmissível pedido de reconsideração contra decisão colegiada, em razão da ausência de previsão legal ou regimental.
+2. O princípio da fungibilidade recursal não se aplica em casos de erro grosseiro, como a interposição de recurso manifestamente incabível.
+3. O agravo regimental é cabível apenas contra decisões monocráticas, conforme os arts. 1.021 do CPC e 258 do RISTJ.
+Dispositivos relevantes citados: CPC, art. 1.021; RISTJ, art. 258.
+Jurisprudência relevante citada: STJ, RCD no AgRg no HC n. 900.909/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 16.10.2024; STJ, AgRg nos EDcl no AgRg no AREsp n. 2.511.924/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.06.2024; STJ, AgRg nos EDcl no AgRg no AREsp n. 2.513.299/RJ, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 19.08.2024; STJ, RCD nos EDcl no AgRg no AREsp n. 2.358.867/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24.10.2023.
+RELATÓRIO
+Trata-se de pedido de reconsideração interposto contra acórdão da Sexta Turma desta Corte, que foi assim ementado (e-STJ fl. 759):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. I. Caso em exame 1. Agravo regimental interposto contra decisão que não conheceu do pedido de habeas corpus em virtude da interposição simultânea de recurso especial contra o mesmo acórdão proferido pelo Tribunal de origem. 2. O agravante foi condenado pela prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006, devido à apreensão de 27,6kg de maconha. II. Questão em discussão 3. A discussão consiste em saber se é admissível a impetração de habeas corpus em paralelo ao recurso especial interposto contra o mesmo acórdão, em violação ao princípio da unirrecorribilidade. III. Razões de decidir 4. O princípio da unirrecorribilidade impede a tramitação simultânea de habeas corpus e recurso especial contra o mesmo ato judicial, devendo a parte optar por uma única via de impugnação. IV. Dispositivo e tese 5. Agravo regimental não provido. Tese de julgamento: 1. O princípio da unirrecorribilidade impede a tramitação simultânea de habeas corpus e recurso especial contra o mesmo ato judicial.
+Em suas razões, pede a reavaliação da decisão, pois a razão alegada para a inadmissão (existência simultânea de recurso especial) já não subsiste, tendo este sido julgado e arquivado com trânsito em julgado.
+Requer, portanto, que seja reconsiderada a decisão para que o habeas corpus seja apreciado e, subsidiariamente, que se reconheça de ofício o constrangimento ilegal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO CONTRA DECISÃO COLEGIADA. INADMISSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL INAPLICÁVEL. PEDIDO NÃO CONHECIDO.
+I. Caso em exame
+1. Pedido de reconsi deração interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que não conheceu de habeas corpus em virtude da interposição simultânea de recurso especial contra o mesmo acórdão proferido pelo Tribunal de origem.
+2. O agravante foi condenado pela prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006, devido à apreensão de 27,6kg de maconha.
+3. O pedido de reconsideração busca a reavaliação da decisão, alegando que a razão para a inadmissão (existência simultânea de recurso especial) já não subsiste, pois o recurso especial foi julgado e arquivado com trânsito em julgado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é cabível pedido de reconsideração contra decisão colegiada, considerando a ausência de previsão legal ou regimental, e se o princípio da fungibilidade recursal poderia ser aplicado.
+III. Razões de decidir
+5. O pedido de reconsideração contra decisão colegiada é inadmissível, em razão da ausência de previsão legal ou regimental, conforme entendimento consolidado do Superior Tribunal de Justiça.
+6. O princípio da fungibilidade recursal não é aplicável em casos de erro grosseiro, como a interposição de pedido de reconsideração contra acórdão colegiado.
+7. O agravo regimental, conforme os arts. 1.021 do CPC e 258 do RISTJ, é cabível apenas contra decisões monocráticas, não sendo admitido para impugnar decisões colegiadas.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Pedido não conhecido.
+Tese de julgamento:
+1. É inadmissível pedido de reconsideração contra decisão colegiada, em razão da ausência de previsão legal ou regimental.
+2. O princípio da fungibilidade recursal não se aplica em casos de erro grosseiro, como a interposição de recurso manifestamente incabível.
+3. O agravo regimental é cabível apenas contra decisões monocráticas, conforme os arts. 1.021 do CPC e 258 do RISTJ.
+Dispositivos relevantes citados: CPC, art. 1.021; RISTJ, art. 258.
+Jurisprudência relevante citada: STJ, RCD no AgRg no HC n. 900.909/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 16.10.2024; STJ, AgRg nos EDcl no AgRg no AREsp n. 2.511.924/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18.06.2024; STJ, AgRg nos EDcl no AgRg no AREsp n. 2.513.299/RJ, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 19.08.2024; STJ, RCD nos EDcl no AgRg no AREsp n. 2.358.867/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24.10.2023.
+VOTO
+Inicialmente, importa ressaltar que é incabível pedido de reconsideração contra julgamento de órgão colegiado, em razão da ausência de previsão legal ou regimental nesse sentido, sendo inaplicável o princípio da fungibilidade recursal. Nesse sentido:
+PROCESSO PENAL. PEDIDO DE RECONSIDERAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO COLEGIADA. INADMISSIBILIDADE. ERRO GROSSEIRO. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO. 1. Este Superior Tribunal de Justiça tem entendimento no sentido de que não é cabível pedido de reconsideração contra acórdão, por ausência de previsão legal ou regimental. 2. Pedido de reconsideração não conhecido. (RCD no AgRg no HC n. 900.909/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024).
+Por outro lado, considerando a hipótese de recebimento do pedido como agravo regimental, ainda assim haveria óbice, uma vez que esse recurso somente seria cabível em face de decisão monocrática, conforme o disposto nos arts. 1.021 do Código de Processo Civil e 258 do Regimento Interno desta Corte, In verbis:
+Art. 1.021 do CPC. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+Art. 258 do RISTJ. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Exemplificativamente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DE ACÓRDÃO. ERRO GROSSEIRO. RECURSO MANIFESTAMENTE INCABÍVEL. NÃO INCIDÊNCIA DA FUNGIBILIDADE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. Nos termos dos arts. 258 e 259, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, a interposição de agravo regimental é cabível somente contra decisão monocrática. Dessa forma, a interposição de agravo regimental contra acórdão se revela manifestamente incabível e configura erro grosseiro, o que inviabiliza, inclusive, a aplicação do princípio da fungibilidade. Precedentes. 2. Na espécie, o agravo regimental (e-STJ fls. 1292/1305) reitera as teses suscitadas em agravo regimental anterior idêntico (e-STJ fls. 1199/1214), o qual foi devidamente apreciado por órgão colegiado deste Superior Tribunal, que dele não conheceu, em razão de sua intempestividade (e-STJ fls. 1242/1252). 3. Agravo regimental não conhecido. (AgRg nos EDcl no AgRg no AREsp n. 2.511.924/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. INTERPOSIÇÃO DE AGRAVO REGIMENTAL CONTRA DECISÃO COLEGIADA. NÃO CABIMENTO. ERRO GROSSEIRO. AGRAVO NÃO CONHECIDO. 1. O agravo regimental é via recursal destinada, com exclusividade, à impugnação de decisões monocráticas, não existindo previsão legal ou regimental quanto ao seu cabimento para desafiar julgados proferidos por órgãos colegiados do Superior Tribunal de Justiça. 2. Configura erro grosseiro a interposição de agravo regimental contra acórdão, não sendo aplicável à espécie o princípio da fungibilidade recursal, nem mesmo havendo falar em interrupção dos prazos processuais para o manejo de outros recursos. 3. Agravo regimental não conhecido. (AgRg nos EDcl no AgRg no AREsp n. 2.513.299/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024.)
+PEDIDO DE RECONSIDERAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. NÃO CABIMENTO. MERO INCONFORMISMO. MANIFESTO CARÁTER PROTELATÓRIO. PEDIDO DE RECONSIDERAÇÃO NÃO CONHECIDO, COM DETERMINAÇÃO DE CERTIFICAÇÃO DO TRÂNSITO EM JULGADO DO FEITO E BAIXA DOS AUTOS. 1. O pedido de reconsideração contra acórdão proferido no julgamento do agravo regimental no agravo em recurso especial não merece ser conhecido, ante a interpretação analógica com o não cabimento de novo agravo regimental contra decisão colegiada. 2. Segundo entendimento deste Tribunal Superior, "a alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp 1439866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, D Je 6/5/2014). 3. O presente pleito configura o abuso de direito de recorrer, por manifesto caráter protelatório, sendo cabível o reconhecimento do trânsito em julgado. 4. Pedido de reconsideração não conhecido, com determinação de certificação imediata do trânsito em julgado do feito, independentemente de publicação, e baixa dos autos. (RCD nos E Dcl no AgRg no AR Esp n. 2.358.867/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/10/2023, DJe de 27/10/2023.
+Ante o exposto, não conheço do pedido.
+É como voto.
+Ministro CARLOS PIRES BRANDÃO
+Relator
