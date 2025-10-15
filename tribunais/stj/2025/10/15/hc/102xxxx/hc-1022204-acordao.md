@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 09/10/2025 a 15/10/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. TEMA 1.161. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRÁTICA DE FALTA DISCIPLINAR. ANÁLISE DE TODO O HISTÓRICO DO REEDUCANDO DURANTE A EXECUÇÃO DA PENA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de GELCIMAR MONTEIRO DE BARROS contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do Agravo em Execução n. 0005653-76.2025.8.26.0496, negou provimento à insurgência, mantendo o indeferimento da progressão de regime e livramento condicional (Execução n. 7007491-32.2014.8.26.0071, DEECRIM 6ª RAJ - Ribeirão Preto/SP).
+Aqui, a defesa afirma que não existe mais dúvida quanto ao prazo de reabilitação do comportamento carcerário, pois a nova Lei cominou, de maneira, clara, que a reabilitação ocorra após 12 (doze) meses do cometimento da última falta disciplinar grave, como acima exposto, e o exame criminológico favorável atestou o cumprimento do requisito subjetivo (fl. 13).
+Pede a concessão da ordem determinando-se a reanálise do pedido de livramento condicional considerando reabilitado o comportamento carcerário do paciente e, alternativamente, a progressão ao regime semiaberto (fl. 14 - sem os grifos do original).
+Informações prestadas (fls. 106/117 e 121/134), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 137/142).
+É o relatório.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. TEMA 1.161. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRÁTICA DE FALTA DISCIPLINAR. ANÁLISE DE TODO O HISTÓRICO DO REEDUCANDO DURANTE A EXECUÇÃO DA PENA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+VOTO
+De início, verifica-se que a impetração não prospera, visto que, além desta Corte já ter assentado posicionamento no sentido de que é vedada a utilização do habeas corpus como substitutivo de recurso ordinário ou especial (HC n. 804.906/SP, Ministra Daniela Teixeira, Quinta Turma, DJe de 17/12/2024), não há ilegalidade flagrante que justifique a concessão do writ e a consequente superação do óbice constatado.
+O Tribunal a quo, ao manter a decisão de indeferimento dos benefícios, asseverou que (fls. 78/79):
+ ..  Ademais, da análise do Boletim Informativo apresentado nos autos, é possível comprovar a prática de duas faltas disciplinares médias e oito faltas disciplinares de natureza grave (por posse de entorpecente, agressão entre sentenciados, danos ao patrimônio público, subversão à ordem e disciplina e desrespeito). Consta ainda que a última falta cometida em 29/01/2024 (média) será reabilitada somente em 26/08/2025, em razão da prática de faltas disciplinares em sequência (fls. 1042/1050 da execução).
+Diante disso, com razão a juíza de origem quanto à falta de mérito para progressão ou livramento condicional, uma vez que resta comprovado que a agravante segue em período de reabilitação da última falta praticada em 2024, razão pela qual, de fato, não houve comprovação de assimilação da terapêutica penal necessária tanto para fins de progressão quanto para fins de concessão de livramento condicional.
+ ..
+Primeiro, quanto ao livramento condicional, o requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+Nesse sentido, o Superior Tribunal de Justiça fixou, sob o rito dos recursos especiais repetitivos, a seguinte tese (Tema 1.161):
+A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+Assim, considerando o histórico de faltas graves e médias, sendo a última praticada em 29/1/2024, não demonstrado o constrangimento ilegal.
+Da mesma forma, quanto à progressão de regime, também ausente o requisito subjetivo, visto que a fundamentação adotada pelo Tribunal a quo se encontra em conformidade com o entendimento desta Corte, firmado no sentido de que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o comet imento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016) - (AgRg no HC n. 956.164/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025).
+Com similar conclusão: AgRg no AREsp n. 2.439.647/RN, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe de 6/3/2024; e, AgRg no HC n. 985.800/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2025 , DJEN de 26/6/2025.
+Ademais, a modificação das conclusões das instâncias ordinárias quanto ao preenchimento do requisito subjetivo exigiria aprofundado exame de fatos e de provas, providência inadmissível na via eleita.
+Em face do exposto, denego a ordem.
