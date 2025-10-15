@@ -1,0 +1,29 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão prolatado, por unanimidade, pela 17ª Câmara Cível do Tribunal de Justiça de Minas Gerais no julgamento de apelação, assim ementado (fl. 220e):
+APELAÇÃO CÍVEL - CUMULAÇÃO DO BENEFÍCIO AUXILIO- ACIDENTE COM APOSENTADORIA - INSS - CABIMENTO - DOENÇA DO TRABALHO - SILICOSE - INÍCIO DA APOSENTADORIA E DA ECLOSÃO DA DOENÇA ANTERIOR À ALTERAÇÃO DO ART. 86, §§ 2 0 E 30 , DA LEI 8.213/1991 - MANIFESTAÇÃO TARDIA DOS SINTOMAS - CÕNCESSÃO DO BENEFÍCIO ACIDENTÁRIO.
+- A cumulação do beneficio do auxílio-acidente com a aposentadoria é possível quando a eclosão da Iesãõ incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria são anteriores à alteração do art. 86, §§ 2 0 e 3 1, da Lei 8.213/1 991.
+- A silicose é urna espécie de doença pulmonar de origem ocupacional, cujos sintomas se manifestam tardiamente, muito depois da exposição ao pó sílica (quartzo). Dessa forma, por tratar-se de caso muito especial, pela própria natureza da doença, independentemente do tempo em que venha a se manifestar no organismo do segurado, exposto ao seu agente causador, não ocorre o rompimento do nexo de causalidade, para fins de recebimento do benefício acidentário.
+Opostos embargos de declaração, foram rejeitados (fls. 249/253e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i. Art. 1.022 do Código de Processo Civil - acerca da impossibilidade de acumulação do auxílio-acidente com aposentadoria; e
+ii. Arts. 23 e 86, § 2º da Lei n. 8.213/1991 - no caso não foi constatada incapacidade laborativa, nem houve segregação compulsória antes da aposentadoria do segurado em 1987. Logo, a data a ser considerada para eclosão da incapacidade é o dia em que foi realizado o diagnóstico, o que ocorreu após a alteração legislativa.
+Com contrarrazões (fls. 269/287e), o recurso foi admitido (fls. 295/297e).
+Feito breve relato, decido.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Prequestionados, implicitamente, os dispositivos tidos por violados, afasto a alegada ofensa ao art. 1022 do Código de Processo Civil.
+Com efeito, esta Corte possuiu entendimento ratificado com a publicação da Súmula n. 507/STJ, in verbis: "A acumulação de auxílio-acidente com aposentadoria pressupõe que a lesão incapacitante e a aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei n. 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho".
+Nesse sentido, o seguinte precedente, assim ementado:
+RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA.MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CUMULAÇÃO DE BENEFÍCIOS. AUXÍLIO-ACIDENTE E APOSENTADORIA. ART. 86, §§ 2º E 3º, DA LEI 8.213/1991, COM A REDAÇÃO DADA PELA MEDIDA PROVISÓRIA 1.596-14/1997, POSTERIORMENTE CONVERTIDA NA LEI 9.528/1997. CRITÉRIO PARA RECEBIMENTO CONJUNTO. LESÃO INCAPACITANTE E APOSENTADORIA ANTERIORES À PUBLICAÇÃO DA CITADA MP (11.11.1997). DOENÇA PROFISSIONAL OU DO TRABALHO. DEFINIÇÃO DO MOMENTO DA LESÃO INCAPACITANTE. ART. 23 DA LEI 8.213/1991. CASO CONCRETO. INCAPACIDADE POSTERIOR AO MARCO LEGAL. CONCESSÃO DO AUXÍLIO-ACIDENTE. INVIABILIDADE.
+(..)
+3. A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991 ("§ 2º O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria; § 3º O recebimento de salário ou concessão de outro benefício, exceto de aposentadoria, observado o disposto no § 5º, não prejudicará a continuidade do recebimento do auxílio-acidente."), promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997.
+(..)
+5. No caso concreto, a lesão incapacitante eclodiu após o marco legal fixado (11.11.1997), conforme assentado no acórdão recorrido (fl. 339/STJ), não sendo possível a concessão do auxílio-acidente por ser inacumulável com a aposentadoria concedida e mantida desde 1994.
+6. Recurso Especial provido. Acórdão submetido ao regime do art.
+543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.296.673/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 22/08/2012, DJe 03/09/2012 -destaques meus).
+No caso, a aposentadoria por invalidez foi concedida em 01/11/1987 (189e); e, o Tribunal foi categórico ao afirmar que a eclosão da lesão incapacitante geradora do auxílio-acidente se deu antes da alteração legislativa do art. 86, §§ 2º e 3º, da Lei n. 8.213/1991 (fl. 226e), assim possível a cumulação pretendida, nos termos da súmula 507/STJ.
+Posto isso, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ, NEGO PROVIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
