@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por GRACIANO JUNIOR MOREIRA DO NASCIMENTO contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III a da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça local (Recurso em Sentido Estrito n. 5567834-18.2020.8.09.0011) que manteve a decisão de pronúncia, afastando as alegações defensivas (fls. 464/473).
+Nas razões do recurso especial, a defesa alegou a nulidade do reconhecimento pessoal (violação do art. 226 do CPP) e a omissão no acórdão recorrido (violação do art. 619 do CPP), pois não teriam sido analisadas todas as questões levantadas pelo recorrente.
+A Corte de origem inadmitiu o recurso entendendo que a decisão recorrida não foi omissa e está em consonância com a jurisprudência. No tocante à arguição de nulidade do reconhecimento pessoal, o recurso especial foi inadmitido com base na Súmula 7/STJ (fls. 575/577).
+Contra o decisum a defesa interpôs o presente agravo (fls. 583/596).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, em razão do óbice da Súmula 7/STJ (fls. 619/625).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+Consta do acórdão dos aclaratórios o seguinte trecho (fls. 521/524):
+  In casu, sustenta o embargante omissão no acórdão quanto à aplicabilidade do art. 226, do CPP, não sendo obedecidas as formalidades legais para o reconhecimento pessoal. Inobstante os argumentos invocados, é evidente a pretensão de rediscussão da matéria fática posta nos autos. Isso porque, perquirindo-se as razões do recurso interposto, infere-se a reiteração da tese lançada em sede de recurso em sentido estrito, em que a embargante/recorrente Graciano alegou ausência de prova judicial suficiente de autoria delitiva, sendo ela reconhecida por depoimentos frágeis e reconhecimento fotográfico nulo, além de depoimento prestado por menor no inquérito. Com efeito, não há omissão no acórdão embargado, notadamente porque a tese apresentada pelo embargante foi rebatida  .
+Igualmente, no acórdão do recurso em sentido estrito, a Corte local assim se manifestou (fl. 470):
+ ..  No tocante à nulidade do reconhecimento fotográfico, segundo os recentes julgados do Superior Tribunal de Justiça, eventual reconhecimento fotográfico e/ou pessoal efetuado em sede inquisitorial em descompasso com os ditames do art. 226 do CPP não podem ser considerados provas aptas, por si sós, a engendrar uma condenação sem o apoio do restante do conjunto probatório produzido na fase judicial, com a observância do contraditório e da ampla defesa.
+Isso não implica, todavia, que não possam ser considerados como indícios mínimos de autoria, especialmente em sede de pronúncia.
+No caso em testilha, os indícios de autoria do recorrente encontram-se alicerçados não só no reconhecimento fotográfico, mas no teor dos depoimentos de testemunhas que presenciaram os fatos e afirmaram que, embora não conhecessem o suposto autor antes, seriam capazes de reconhecê-lo, tendo a testemunha Gerson reafirmado, em juízo, o reconhecimento feito no inquérito  .. .
+Infere-se, pois, pelos trechos destacados, que ambos os acórdãos proferidos pelo Tribunal de origem enfrentaram as teses defensivas, inclusive a nulidade do reconhecimento pessoal.
+Assim, o que se observa é um mero inconformismo do recorrente, ao não aceitar o fundamento expresso pelo Tribunal local.
+Por fim, no tocante à suposta violação do art. 226 do CPP, perfilho-me ao parecer ministerial, que assim se manifestou (fl. 623):
+ ..  Assim, observa-se que o acórdão agravado apontou, com suficiência e clareza, acerca da nulidade apontada, e que os indícios de autoria do recorrente se encontram alicerçados não só no reconhecimento fotográfico, mas no teor dos depoimentos de testemunhas que presenciaram os fatos e afirmaram que, embora não conhecessem o suposto autor antes, seriam capazes de reconhecê-lo, tendo a testemunha Gerson reafirmado, em juízo, o reconhecimento feito no inquérito.
+Com efeito, contrariamente ao que aduz, a Corte de origem concluiu que os autos possuem provas suficientes para a pronúncia, não sendo o caso, aqui, de revaloração da prova, como pretende fazer crer.
+Desse modo, a alteração do julgado, a fim de reconhecer a ausência de provas para a pronúncia, demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, incidindo ao caso o óbice da Súmula 7/STJ, para o seguimento do especial perante essa Egrégia Corte de Justiça  ..
+Ora, pelas próprias razões do recurso especial, verifica-se a imprescindibilidade do revolvimento do conjunto fático-probatório para a análise das circunstâncias do caso concreto, sobretudo quanto às supostas irregularidades apontadas no reconhecimento pessoal, situação esta inviável por esta via recursal, atraindo-se, assim, o óbice da súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. ALEGAÇÕES DEFENSIVAS DEVIDAMENTE EXAMINADAS. MERO INCONFORMISMO. ALEGAÇÃO DE NULIDADE DO RECONHECIMENTO PESSOAL. NECESSIDADE DE REEXAME FÁTICO.
+Agravo conhecido para não conhecer do recurso especial.
