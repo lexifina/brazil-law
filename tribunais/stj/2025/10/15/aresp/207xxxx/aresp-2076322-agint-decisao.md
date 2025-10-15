@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno interposto por PATRICIA MENDES GALVEAS e OUTROS da decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso porque a divergência não teria sido devidamente demonstrada (fls. 1.284/1.286).
+A parte agravante afirma que foi demonstrada a divergência consoante trechos que cita.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 1.299).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alínea c, da Constituição Federal, do acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 1.105):
+ADMINISTRATIVO. PROCESSO CIVIL. JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO DO ACÓRDÃO À TESE JURÍDICA FIRMADA PELO STF EM REGIME DE REPERCUSSÃO GERAL (RE 565.089/SP). INEXISTÊNCIA DE LEI PARA REVISÃO GERAL ANUAL DAS REMUNERAÇÕES DOS SERVIDORES PÚBLICOS. AUSÊNCIA DE DIREITO À INDENIZAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. MODIFICAÇÃO DO JULGADO. DESCABIMENTO.
+I - A teor do artigo 1.022 do CPC/2015, os embargos de declaração constituem instrumento processual apto a suprir omissão no julgado ou dele extrair eventual obscuridade, contradição, erro material, ou qualquer das condutas descritas no artigo 489, parágrafo 1º, do mesmo Codex Processual.
+II - Infere-se que a embargante, em verdade, objetiva a modificação do resultado final do julgamento, eis que a fundamentação dos seus embargos de declaração tem por escopo reabrir a discussão sobre o tema, uma vez que demonstra seu inconformismo com as razões de decidir, sendo a via inadequada.
+III - O Superior Tribunal de Justiça já se posicionou no sentido de que " Nos rígidos limites estabelecidos pelo art. 1022, incisos I, II e III, do Código de Processo Civil/15, os embargos de declaração destinam-se apenas a esclarecer obscuridade ou eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios for reconhecido". (AgInt no AgRg no AREsp 621715, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 08/09/2016).
+IV - De acordo com o Novo Código de Processo Civil, a simples interposição dos embargos de declaração já é suficiente para prequestionar a matéria, "ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade" (art. 1.025 do NCPC), razão pela qual, a rigor, revela-se desnecessário o enfrentamento de todos os dispositivos legais ventilados pelas partes para fins de acesso aos Tribunais Superiores.
+V - Embargos de declaração conhecidos e desprovidos.
+Nas razões de seu recurso especial, a parte agravante aponta dissídio jurisprudencial quanto à aplicação do disposto no art. 85 do Código de Processo Civil (CPC), bem como violação dos arts. 20 do CPC/1973 c/c 141 e 142 do CPC vigente.
+Sustenta, em síntese, que, ao dar provimento ao recurso de apelação, cuja sentença fora proferida na vigência do Código de Processo Civil de 1973, o acórdão majorou indevidamente os honorários advocatícios, sem que houvesse pedido da parte recorrida, sendo inaplicável o art. 85 do CPC.
+Afirma que o correto seria apenas inverter os honorários de sucumbência fixados na sentença, e não majorá-los.
+A insurgência não merece prosperar.
+A respeito dos honorários advocatícios de sucumbência, o Tribunal de origem assim se pronunciou (fl. 1.103):
+A parte embargante suscitou a ocorrência de omissão no acórdão, por conta da fixação de honorários advocatícios em 10% (dez por cento) sobre o valor da causa. Confira-se:
+"A sentença havia condenado a embargada no pagamento de honorários de advogado no percentual de 5% sobre o valor da causa. Interposta apelação contra sentença prolatada na vigência do CPC anterior (antes de 18.3.2016), a inversão do ônus da sucumbência implicaria na manutenção do mesmo percentual de honorários (Ag nos Embargos de Divergência no REsp 1.539.725 STJ).
+O acórdão, entretanto, majorou os honorários para 10% sobre o valor da causa, não exarando fundamentação para tanto, havendo omissão no aspecto. Não houve, na apelação da embargada, pedido de majoração dos honorários de sucumbência (arts. 141, 492 do CPC), o que era exigível na vigência do código processual de 1973.
+Pelo exposto, requer sejam conhecidos e providos estes embargos declaratórios, com os efeitos infringentes, apreciando a matéria à luz dos dispositivos legais mencionados. Proclamando que os honorários de advogado sejam mantidos no percentual de 5% sobre o valor da causa, conforme sentença exarada à luz do CPC/1973".
+Ora, não há que se falar em ocorrência de majoração de honorários advocatícios na hipótese. Diante da reforma do acórdão e da sucumbência da parte autora, houve a fixação de percentual nos parâmetros legais, sendo certo que, tanto nos termos do art. 20, § 3º, do CPC/73, quanto no art. 85, § 2º, do CPC/15, cabe o estabelecimento entre 10 % (dez por cento) e 20 % (vinte por cento).
+Conforme destacado em contrarrazões, "ainda que a interposição do recurso tenha se dado sob a égido do CPC/73, não se deve olvidar que a fixação de honorários sucumbenciais em 10% do valor da causa encontra amparo no art. 20, §§3º e 4º, daquele diploma normativo" (Evento 132, CONTRAZ1, Página 3).
+Como visto, o Tribunal de origem concluiu que não houve majoração de honorários advocatícios, mas apenas a sua fixação, tendo em vista a reforma da sentença com a sucumbência da parte autora.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que houve indevida majoração dos honorários advocatícios, sem que houvesse pedido da parte contrária.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, reconsidero a decisão de fls. 1.284/1.286, e conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
