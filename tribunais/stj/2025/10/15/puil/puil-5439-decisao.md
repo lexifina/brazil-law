@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado por Lurdes Eberhardt Ledur e Marli Andriolli Massuda, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, em face de acórdão da 1ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, assim sintetizado (fl. 236):
+RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. MUNCIÍPIO DE BARRA DO GUARITA. ADICIONAL DE INSALUBRIDADE. IMPOSSIBILIDADE DE ADOÇÃO DO SALÁRIO MÍNIMO COMO BASE DE CÁLCULO. TEMA 25 DO STF. SENTENÇA DE IMPROCEDÊNCIA MANTIDA POR SEUS PRÓRIOS FUNDAMENTOS. RECURSO INOMINADO DESPROVIDO.
+As requerentes afirmam existir divergência com julgado da 3ª Turma Recursal de Santa Catarina no Recurso Cível nº 5000741-85.2021.8.24.0256.
+Defendem que da decisão paradigma se extrai o entendimento de que o menor padrão de vencimento previsto no quadro geral de servidores do Município não pode ser inferior a um salário mínimo.
+Sustentam que há similitude fático-jurídica e divergência entre os julgados, requerendo o reconhecimento da divergência e a reforma do acórdão recorrido para uniformizar o entendimento de que o menor padrão de vencimento não possa ser inferior ao salário mínimo.
+É o relatório.
+A Lei n. 12.153/2009, que dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, prevê, em seu artigo 18, a competência desta Corte para dirimir a divergência quando a questão controvertida for de direito material e houver divergência de interpretações da lei federal entre Turmas de diferentes Estados ou contrariedade com súmula do Superior Tribunal de Justiça:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Na espécie, as requerentes não indicaram o dispositivo de lei federal que teria sido objeto de interpretação divergente pelo acórdão impugnado, requisito imprescindível para o pedido de uniformização. Nesse sentido, confiram-se precedentes da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. AGRAVO INTERNO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE COTEJO ANALÍTICO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL INTERPRETADO DIVERGENTEMENTE. PROVIMENTO NEGADO.
+1. Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito do Superior Tribunal de Justiça quando as turmas recursais de diferentes estados derem à lei federal interpretações divergentes ou quando a decisão proferida estiver em contrariedade com súmula deste Tribunal, e especificamente no que se refere a questões de direito material.
+2. No caso dos autos, a parte deixou de realizar o cotejo analítico dos precedentes indicados com a situação concreta em exame, o que se faz por meio da comparação analítica dos trechos dos acórdãos paradigma e recorrido que identifiquem a similitude fática e a adoção de posicionamento distinto pelo órgão julgador.
+3. A ausência de indicação do dispositivo de lei federal interpretado divergentemente inviabiliza do conhecimento do pedido de uniformização no âmbito desta Corte Superior. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no PUIL n. 3.688/PA, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 20/8/2024, DJe de 23/8/2024.)
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. SIMILITUDE FÁTICA. INEXISTÊNCIA. INDICAÇÃO DO DISPOSITIVO VIOLADO. AUSÊNCIA.
+1. "É entendimento pacífico dessa Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados" (AgInt no PUIL 302/CE, relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe 03/10/2018).
+2. O conhecimento do pedido encontra óbice no fato de que a admissibilidade do incidente requer o preenchimento dos requisitos inerentes à comprovação da divergência jurisprudencial e, no caso, a requerente deixou de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais
+3. Agravo interno desprovido. (AgInt no PUIL n. 2.952/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 14/2/2023, DJe de 8/3/2023.)
+Além disso, as requerentes não demonstraram a existência de divergência nem a similitude fático-jurídica entre os casos confrontados, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, aplicáveis por analogia, porquanto se limitaram ao mero cotejo analítico da ementa do acórdão paradigma, sem evidenciar a identidade das premissas de fato e de direito, razão pela qual o pedido de uniformização revela-se incabível.
+Sobre o tema, cumpre trazer à baila os seguintes acórdãos da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. COTEJO ANALÍTICO NÃO REALIZADO. CARÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. SUPOSTA CONTRARIEDADE A JULGADO REPETITIVO. NÃO EQUIPARAÇÃO À OFENSA DE ENUNCIADO SUMULAR. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+2. Conforme entendimento desta Corte, não se conhece do pedido de uniformização de interpretação de lei fundado em divergência jurisprudencial quando a parte requerente deixa de realizar o indispensável cotejo analítico entre os acórdãos confrontados, de modo a evidenciar a similitude fática das hipóteses comparadas.
+Precedentes.
+3. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei.
+4. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/2/2024, DJe de 1/3/2024.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI,. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Dispõe o § 3º do art. 18 da Lei n. 12.153/2009 que caberá o Pedido de Uniformização de Interpretação de Lei para o STJ: "Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado".
+2. É pacifico o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico.
+3. Para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise. Precedentes.
+Agravo interno improvido.
+(AgInt no PUIL n. 2.667/SC, relator Ministro Humberto Martins, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se.
+Intimem-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ADMINISTRATIVO E PROCESSO CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO E DE DEMONSTRAÇÃO DE SIMILILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS CONFRONTADOS. NÃO CONHECIMENTO.
