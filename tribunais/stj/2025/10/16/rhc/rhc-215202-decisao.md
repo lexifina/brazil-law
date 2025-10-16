@@ -1,0 +1,5 @@
+DECISÃO
+Mediante a petição protocolada sob o n. 976705/2025 o advogado legalmente constituído de JOHN VICTOR MACIEL FURTADO, EMERSON FABIANO KERBER JUNIOR, GABRIEL BARALHAS DOS SANTOS, ALAN PATRICK LOURENCO, GABRIEL IVAN MERCADO e RODRIGO MODESTO DA SILVA MOLEDO comunica a absolvição dos recorrentes pelo Juízo de origem, informa que a referida sentença transitou em julgado em 12/08/2025 (fl. 168) e requer o reconhecimento da prejudicialidade do recurso, determinando-se sua baixa e arquivamento (fl. 168).
+À vista, pois, da sentença acostada às fls. 169/171, na qual o Juízo de Direito da 14ª Vara Criminal e JTGE do Foro Central da comarca de Porto Alegre/RS julgou improcedente a denúncia para absolver os recorrentes da acusação de terem incorrido nas penas do art. 41-B do Estatuto do Torcedor, por fato de 26/03/2023, na forma do art. 386, inciso III, do CPP (fl. 170); logo, o objeto do recurso se esvaiu, motivo pelo qual julgo-o prejudicado, ante a superveniência de alteração no contexto fático-processual.
+Publiq ue-se.
+EMENTA
