@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 676, DE 15 DE OUTUBRO DE 2025
+Estabelece procedimentos operacionais aplicáveis à liquidação ou amortização de dívidas de produtores rurais cujas atividades foram prejudicadas por eventos adversos, de que tratam a Medida Provisória nº 1314, de 5 de setembro de 2025, e a Resolução CMN nº 5.247, de 19 de setembro de 2025.
+O Chefe do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro (Derop), no uso das atribuições que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e com base na disposição da alínea “b” do item 3 da Seção 6 (Contabilização e Controle) do Capítulo 3 (Operações) do Manual de Crédito Rural (MCR),
+R E S O L V E :
