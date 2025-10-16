@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Petição n. 839544/2025, protocolizada nos autos do HC n. 907.562/SP, em que o requerente FELIPE HENRIQUE DOS REIS solicita a extensão dos efeitos da concessão da ordem de habeas corpus proferida às fls. 228/237.
+Na fundamentação, o requerente informa ser corréu do paciente DOUGLAS APARECIDO DOS SANTOS nos autos da Ação Penal n. 1500681-88.2022.8.26.0400, em que foi condenado às penas de 7 anos, 3 meses e 15 dias de reclusão em regime inicial fechado e ao pagamento de 729 dias-multa, como incurso no art. 33, § 4º, da Lei n. 11.343/2006.
+Aduz que as razões de decidir não se fundaram em elementos de cunho exclusivamente pessoal, sendo aproveitável ao requerente.
+Postula a extensão dos efeitos da decisão proferida neste writ, a fim de que lhe seja reduzida a pena-base, afastada a agravante da calamidade pública e aplicada a redutora do tráfico privilegiado, redimensionando as penas finais nos termos explicitados.
+Parecer do MPF, às fls. 258/265, opinando pelo deferimento do pedido de extensão.
+É o relatório.
+DECIDO.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (art. 25 do Código Penal), a decisão do recurso interposto por um dos réus, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese dos autos, a decisão que concedeu a ordem de habeas corpus considerou que a quantidade de entorpecentes apreendidos - 407,2g de crack - é apta a justificar o acréscimo da pena-base, pois demonstra maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+Contudo, entendeu que o fundamento utilizado quanto à culpabilidade foi empregado de modo genérico sem fundamentação concreta, sendo de rigor decotar o vetor culpabilidade para reduzir a pena-base fixada.
+No mais, quanto à incidência da agravante prevista no art. 61, II, "j", do Código Penal, sob o fundamento de que o delito foi praticado durante a vigência do decreto de calamidade pública decorrente da pandemia de COVID-19, entendeu que não foi minimamente delineado no acórdão impugnado o contexto pandêmico para facilitar a prática delitiva, que se limitou a constatar a contemporaneidade dos fatos com o período de exceção. Logo, impõe-se o seu afastamento.
+Na terceira fase, verificou-se que a Corte estadual, após reconhecer o direito do réu à causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas, aplicou a fração redutora no patamar mínimo de 1/6, fundamentando a escolha na "grande quantidade de droga encontrada, bem como a natureza (crack)". Ocorre que essas mesmas circunstâncias - a natureza e a quantidade da droga (407,2g de crack) - já haviam sido expressamente utilizadas para exasperar a pena-base na primeira fase da dosimetria.
+Assim, reconheceu-se que utilizar o mesmo fundamento para modular a fração de redução configuraria bis in idem, devendo a causa de diminuição incidir no grau máximo (2/3).
+Assim, tendo sido evidenciada a similitude fático-processual, a decisão - no que se refere à circunstância da culpabilidade do agente, à agravante da calamidade pública e à fração do tráfico privilegiado -, deve ser estendida ao requerente, em atendimento ao disposto no art. 580 do CPP.
+Fixadas essas premissas, passo a redimensionar as penas do requerente.
+Na primeira fase de aplicação da pena, fixo a pena-base do requerente em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, em razão do aumento de 1/6 (um sexto) pela quantidade e natureza da droga apreendida.
+Na segunda etapa, pela ausência de circunstâncias atenuantes e agravantes, a sanção intermediária resta inalterada em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na terceira e última etapa, aplico a causa de diminuição do § 4º do art. 33 da referida Lei na fração máxima (dois terços), de modo que a pena definitiva fica quantificada em 1 (um) ano e 11 (onze) meses de reclusão e 194 (cento e noventa e quatro) dias-multa, no valor unitário mínimo.
+Quanto ao regime inicial de cumprimento de pena, embora a nova dosimetria do crime de tráfico de drogas tenha resultado em pena privativa de liberdade inferior a 04 (quatro) anos de reclusão, a pena-base foi fixada acima do mínimo legal. Esse fato justifica o estabelecimento do regime inicial semiaberto e impede a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Ante o exposto, defiro o pedido de extensão do julgado ao requerente FELIPE HENRIQUE DOS REIS, nos termos do artigo 580 do CPP, redimensionando a pena para 1 (um) ano e 11 (onze) meses de reclusão e 194 (cento e noventa e quatro) dias-multa, em regime inicial semiaberto.
+Publique-se. Intimem-se.
+EMENTA
