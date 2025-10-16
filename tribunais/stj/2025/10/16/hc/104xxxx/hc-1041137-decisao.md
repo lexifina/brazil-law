@@ -1,0 +1,11 @@
+DECISÃO
+MARCIO CORREIA GASPARINI, condenado por ameaça, desobediência e resitência, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que a despeito da pena imposta, fixou o regime semiaberto para o início do seu cumprimeto, o qual pretende seja modificado para o aberto.
+O caso permite o julgamento antecipado do habeas corpus, por se adequar à pacífica orientação desta Corte em casos análogos, todos desfavoráveis à pretensão defensiva.
+Deveras, não bastasse o presente habeas corpus ser manejado como substitutivo de revisão criminal - circunstância que, por si só, já impediria o seu regular processamento, conforme a jurisprudência consolidada desta Corte -, verifica-se que o alegado constrangimento ilegal não restou caracterizado.
+De início, observa-se que o paciente fei condenado ao cumprimento de 4 meses e 26 dias de detenção, em regime inicial semiaberto, e 13 dias-multa. Ao estabelecer o regime semiaberto, destacou o Magistrado de primeiro grau, ratificado pelo Tribunal de origem, o seguinte: "O regime inicial de cumprimento da pena corporal será o semiaberto, conforme dispõe o artigo 33, § 2º, do Código Penal, haja vista os maus antecedentes e reincidência ostentados" (fl. 38, destaquei).
+Segundo a orientação deste Superior Tribunal, " a  fixação do regime inicial semiaberto foi considerada adequada, tendo em vista a presença de circunstância judicial desfavorável e a reincidência do réu, o que justifica a imposição de regime mais gravoso" (AgRg no HC n. 996.135/SC, relator Ministro Otávio de Almeida Toledo - Desembargado convocado do TJSP, DJe 25/6/2025).
+Quanto à pretensão e afastamento da reincidência, malgrado os crimes considerados tenham sido proticados em 2005 e 2006, " o  termo inicial do período de cinco anos, para a caracterização do período depurador, é a data de cumprimento ou da extinção da pena, e não a do  fato ou do  trânsito em julgado da condenação, nos termos do art. 64, I, do Código Penal (AgRg no HC n. 727.118/SP, relator Ministro Rogerio Schietti, DJe 19/5/2022).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
