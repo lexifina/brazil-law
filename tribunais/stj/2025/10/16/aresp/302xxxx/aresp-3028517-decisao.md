@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO ROBERTO ULLMANN contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 83):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVOGAÇÃO. POSSIBILIDADE.
+1. A apreciação do recurso de forma monocrática pelo Relator é possível sempre que houver entendimento dominante acerca do tema versado, consoante o verbete nº 568 da súmula de jurisprudência do STJ (Corte Especial, julgado em 16-3-2016, DJe de 17-3-2016), prevendo que "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+2. Deve ser concedido o benefício legal da assistência judiciária gratuita quando a parte requerente declarar-se necessitada e inexistirem nos autos evidências que infirmem tal condição.
+3. Rendimentos da parte incompatíveis com a concessão da gratuidade, sem comprovação de despesas extraordinárias que possam corroborar a condição de hipossuficiência financeira, encontrando-se desautorizada a concessão do benefício.
+4. O art. 102 do CPC determina que com a confirmação da revogação da benesse, a parte deverá recolher todas as despesas de cujo adiantamento foi dispensada.
+NEGARAM PROVIMENTO AO AGRAVO INTERNO.
+Ambos os embargos de declaração foram rejeitados (fls. 108 e 127):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVOGAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES.
+1. Inexistindo os pressupostos previstos no CPC, não há como acolher os embargos de declaração, já que opostos com o fim de rever a decisão. Ainda que opostos apenas com o fito de prequestionar a matéria, os embargos devem observar os limites traçados no diploma processual.
+2. Segundo a tese firmada pelo Supremo Tribunal Federal no tema 339, o art. 93, IX, da Constituição da República não impõe o exame pormenorizado de cada uma das alegações.
+3. Embargos de declaração que se caracterizam como protelatórios. Aplicação, ex officio, da multa prevista no art. 1.026, § 2º, do CPC.
+REJEITARAM OS EMBARGOS DE DECLARAÇÃO E APLICARAM A MULTA DO ART. 1.026, § 2º, DO CPC.
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVOGAÇÃO. ABUSO DO DIREITO DE RECORRER. ELEVAÇÃO DA MULTA. ARTIGO 1.026, § 3º, DO CPC.
+1. Questão relativa à possibilidade de revogação da assistência judiciária gratuita após trânsito em julgado da sentença clara e devidamente analisada quando do julgamento do agravo de instrumento e do agravo interno.
+2. Reconhecido o caráter protelatório dos primeiros embargos de declaração, com a fixação da multa prevista no artigo 1.026, § 2º, do CPC.
+3. A multa aplicada nos primeiros embargos de declaração diz com o caráter protelatório do recurso, a qual foi adequadamente aplicada, por estar presente o propósito manifesto de protelar o resultado final do julgamento da lide.
+4. Oposição de novos embargos de declaração que se traduzem em abuso do direito de recorrer, denotando novamente o caráter meramente protelatório da insurgência.
+5. Incidência do disposto no parágrafo 3º do art. 1.026 do CPC: "Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final".
+REJEITARAM OS EMBARGOS DE DECLARAÇÃO E MAJORARAM A MULTA PREVISTA NO ARTIGO 1.026 DO CPC.
+Em  seu  recurso  especial  de  fls.  129-172, a parte  recorrente sustenta, além de divergência jurisprudencial,  violação  do art. 1.026, § 2º, do CPC, sob o argumento de que é indevida a aplicação de multa por ocasião dos aclaratórios opostos na origem, notadamente considerando o entendimento do STJ no sentido de que a interposição do recurso cabível não acarreta interposição de multa por litigância de má-fé, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+O Tribunal de origem não admitiu o recurso especial sob o fundamento de que o recorrente, devidamente intimado a efetuar o recolhimento do preparo recursal em dobro, limitou-se a atravessar petição alegando estar "dispensado do recolhimento do preparo do Recurso Especial por ora, até eventual apreciação do pedido de gratuidade judiciária", razão pela qual não é de ser admitido o recurso. Acrescentou que, no momento da interposição do recurso em epígrafe, não houve pedido para a obtenção de tal benefício. Ademais, não há irresignação no apelo extremo contra revogação da gratuidade da justiça (fls. 180-181).
+Em  seu  agravo,  às  fls.  186-205,  a parte  agravante  afirma que foi surpreendido pela intimação requerendo o recolhimento de custas e majorando seu valor para o dobro do comumente requerido. Ressalta que, conforme o entendimento do STJ no julgamento do AgRg nos EREsp nº 1.222.355, "É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício.".
+Contraminuta às fls. 248-278.
+É  o  relatório.
+A irresignação não merece prosperar.
+De início, saliento que a parte agravante rebateu os fundamentos de inadmissibilidade lançados pela Corte de origem, razão pela qual conheço do recurso.
+No entanto, o recurso especial não comporta conhecimento. Isso porque se considera deserto o recurso quando a parte, mesmo após intimada a regularizar o preparo, não o faz devidamente.
+A propósito:
+PROCESSUAL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. IRREGULARIDADE NA COMPROVAÇÃO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO. COMPLEMENTAÇÃO. NÃO OCORRÊNCIA. PRECLUSÃO. DESERÇÃO. SÚMULA 187/STJ. REPRESENTAÇÃO PROCESSUAL. IRREGULARIDADE NO RECURSO ESPECIAL E NO AGRAVO NÃO SANEADA. CONHECIMENTO INVIÁVEL. SÚMULA 115/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado a realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015.
+2. É deserto o recurso especial se, apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo (CPC/2015, art. 1.007, § 7º), ou efetuar o pagamento em dobro (§ 4º do mesmo artigo), a parte não o faz devida e oportunamente.
+3. Nos termos do artigo 76, § 2º, I, do Código de Processo Civil de 2015, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+4. O recurso dirigido à instância superior desacompanhado de procuração ou em que a cadeia de substabelecimentos mostra-se incompleta é inexistente, à luz do disposto na Súmula 115 do STJ.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.828.009/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+No caso dos autos, a Corte de origem, à fl. 176, ponderou que não foi localizado nos autos o deferimento do benefício da Justiça gratuita à parte Recorrente. Desse modo, restou intimada a parte recorrente para: 1) indicar o evento em que deferida a AJG; ou 2) realizar o recolhimento do preparo em dobro, conforme disposto no artigo 1.007, § 4º, do Código de Processo Civil.
+Em vez de realizar o recolhimento do preparo, o recorrente apresentou petição alegando, em suma, que, na forma do entendimento pacificado pelo STJ, é desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício.
+No entanto, é importante destacar que, como explicitamente consignado pelo recorrente em suas razões do recurso especial (fls. 129-172), a pretensão recursal é tão somente obter o afastamento da multa aplicada por suposto caráter protelatório dos embargos de declaração. Não há, pois, nenhuma discussão de mérito a respeito da gratuidade de justiça a ensejar a aplicação do mencionado entendimento.
+Assim sendo, o recurso especial não pode ser conhecido, ante a constatada deserção. Aplica-se, à espécie, o óbice da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO DO RESP. SÚMULA 187/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
