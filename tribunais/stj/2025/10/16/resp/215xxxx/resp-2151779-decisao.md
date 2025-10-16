@@ -1,0 +1,71 @@
+DECISÃO
+Em análise, recurso especial interposto por AÉRNIO DILKIN PENTEADO JÚNIOR contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 2.926-2.932):
+TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. FIRMA INDIVIDUAL. CONTADOR.
+O contador que exerce pessoalmente sua atividade profissional, ainda que por meio de firma individual formalmente constituída, sujeita-se à tributação dos honorários recebidos em razão de suas atividades como pessoa física.
+Os embargos de declaração foram rejeitados (fls. 2.966-2.969 e 2.991-2.994).
+Nas razões recursais, Aérnio Dilkin Penteado Junior sustenta, em síntese, violação aos arts. 489, § 1º, IV, e 1.022, I, II e III, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 2º do Decreto-Lei 1.706/1979; 41 da Lei 4.506/1964; 97, I e VI, e 105 do CTN; 1º e 6º do Decreto-Lei 4.657/1942; 966 do Código Civil; 373, I, do CPC; 8º do Decreto 70.235/1972; 2º, caput e parágrafo único, I, IV, VII, VIII e X, 4º e 22 da Lei 9.784/1999; e 129 da Lei 11.196/2005. Afirma:
+A juntada das notas fiscais pelo Fisco ao processo era obrigatória, não só porque entregues pelo contribuinte em resposta a pedido da própria fiscalização, como também servem para demonstrar a real natureza dos serviços prestados pela firma individual, haja vista que o Auto de Infração afirma que todos os serviços eram de contabilidade, o que sempre foi negado pelo contribuinte.
+ ..
+Neste contexto, apontou-se contradição no acórdão que julgou o recurso de apelação (evento 13), pois, de um lado, afirma que "não há nos autos prova de que.. o contribuinte tenha anexado as cópias das notas fiscais emitidas", porém, de outro, de forma totalmente contraditória, três parágrafos antes dessa afirmação, o próprio acórdão reconhece que "Em resposta à intimação, o contribuinte informou ter acostado aos autos do processo administrativo "05 talões de numeração 001 à 250" (p. 204)" (Grifou-se).
+ ..
+Como consequência do quanto acima referido, apontou-se também erro material no acórdão por partir de premissa fática equivocada quando afirma que "não há nos autos prova de que.. o contribuinte tenha anexado as cópias das notas fiscais emitidas" e que "não restou comprovada a supressão de documentos no procedimento fiscal".
+ ..
+Isto é, está documentado nos autos (I) o pedido de entrega dos talonários das notas fiscais, (II) o protocolo da resposta do Recorrente entregando os 5 talonários de notas fiscais e (III) a afirmação no Relatório de Ação Fiscal reconhecendo a entrega das notas fiscais à fiscalização.
+ ..
+Realmente, há omissão no acórdão na medida em que não esclarece, então, a quais notas fiscais o Relatório de Ação Fiscal faz referência. Ora, se a referência não é às notas fiscais emitidas pela firma individual do Recorrente, a quais notas fiscais, afinal, o Relatório de Ação Fiscal está se referindo
+ ..
+Portanto, ao invés de rejeitar os segundos embargos de declaração, o acórdão deveria ter sanado a omissão e a obscuridade apontadas a fim de esclarecer, afinal, a quais notas fiscais o Relatório de Ação Fiscal faz referência, quem às entregou à fiscalização e onde elas constam nos autos do processo administrativo.
+ ..
+Requereu "o conhecimento, o processamento e o provimento deste Recurso Especial, pela alínea "a" do inciso III do artigo 105 da CF/88, para, reconhecendo a violação ao artigo 373, I, do CPC, reconhecer que o Recorrente se desincumbiu do seu ônus probatório e anular os acórdãos recorridos determinando o retorno dos autos para a E. Corte a quo para que julgue a apelação a partir da premissa de que as notas fiscais da firma individual foram entregues pelo Recorrente".
+Contraminuta apresentada às fls. 3.059-3.068.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 2.927-2.932):
+Em que pese a alegação da parte autora, não há nos autos prova de que, além da tabela mencionada, o contribuinte tenha anexado as cópias das notas fiscais emitidas, nas quais fosse possível verificar a natureza dos serviços por ela prestados por meio da firma individual de sua titularidade.
+Assim, não havendo qualquer comprovação a respeito do efetivo extravio de documentos apresentados à fiscalização, não há como reconhecer a nulidade do processo administrativo fiscal por cerceamento de defesa.
+Merece destaque, por fim, o fato de que o suposto extravio de documentação apresentada à Receita Federal somente foi informado pelo contribuinte no ajuizamento desta demanda, mais de uma década após a resposta ao Termo de Início de Procedimento Fiscal do MPF nº 1010700.2009.01329-6, e não foi apontado nos recursos interpostos administrativamente.
+ ..
+Considerando que as atividades exercidas por profissionais liberais como médicos, engenheiros, advogados e contadores não se confundem com as atividades econômicas, por expressa previsão do art. 6º, alínea "a", do Decreto-lei nº 5.844/43, sujeitam-se à tributação do imposto de renda pessoa física os "honorários do livre exercício da profissão de médico, engenheiro, advogado, dentista, veterinário, contador e de outras que se lhes possam assemelhar".
+ ..
+No caso dos autos, a parte autora exercia pessoalmente a atividade de contador por meio de firma individual nos anos-calendário de 2006 a 2008 e submetia os rendimentos recebidos à tributação pelo IRPJ.
+Considerando que a parte autora exercia pessoalmente atividade intelectual, que não se confunde com a exploração de atividade econômica organizada para a produção ou a circulação de bens ou de serviços (art. 966, parágrafo único, do Código Civil), era incabível a equiparação a pessoa jurídica para fins de tributação pelo imposto de renda, em razão do que foi lavrado Auto de Infração para a cobrança do imposto de renda em nome da pessoa física.
+ ..
+Ressalte-se, ademais, que embora a parte autora alegue que exercia, além da atividade de contador, também atividades econômicas, não produziu nestes autos nenhuma comprovação nesse sentido. Ao contrário, os contratos de prestação de serviços juntados aos autos (Ev. 1.5, p. 84/105) comprovam a prestação de serviços de contabilidade, não havendo em nenhum deles menção a atividades econômicas, como venda ou fornecimento ou manutenção de equipamentos de informática  atividades econômicas constante do CNAE da firma individual.
+ ..
+Além de ser absolutamente distinta a situação jurídica de Fabrício Vieira de Almeida da situação jurídica do autor (Ev. 22.2, p. 5), ainda que ficasse comprovada a inércia da autoridade fiscal na lavratura de Auto de Infração em face daquele, certamente tal circunstância não permitiria o reconhecimento de nulidade do Auto de Infração lavrado em face do autor, em plena observância à legislação de regência, como já demonstrado. No máximo, caberia a responsabilização da autoridade fiscal por falta funcional, o que não se discute nestes autos. Deve ser mantida, assim, a sentença recorrida.
+ ..
+Provida em parte a apelação da parte autora tão somente para que
+(i) seja autorizada a compensação entre o tributo em cobrança por meio do Auto de Infração combatido e os tributos recolhidos pela firma individual de que era titular o autor, relativamente aos mesmos rendimentos, e
+(ii) sejam fixados os honorários advocatícios devidos pela parte autora nos percentuais mínimos previstos nos incisos do art. 85, §3º, do Código de Processo Civil, observado o escalonamento do § 5º, sobre o valor da causa atualizado pelo IPCA-E.
+No julgamento de embargos de declaração, a Corte de origem assim se manifestou (fl. 2.967):
+Ao defender que teria sido comprovada a juntada das notas fiscais supostamente extraviadas, a parte embargante não demonstra a existência de omissão no julgado, mas verdadeira insurgência quanto ao mérito da demanda, que não comporta apreciação pela via dos embargos declaratórios.
+ ..
+E ainda (fls. 2.992-2.993):
+Como já exaustivamente esclarecido, não há nos autos comprovação a respeito da juntada aos autos do processo administrativo fiscal das notas fiscais mencionadas pela parte embargante.
+No Relatório Fiscal do Auto de Infração combatido, ao descrever os documentos apresentados à fiscalização em atendimento ao Termo de Início de Procedimento Fiscal, de 09/09/2009  justamente aquele no qual foi solicitada a juntada de "Talonários contendo todas as Notas Fiscais emitidas desde sua constituição" (Ev. 1.3, p. 201)  a autoridade fiscal referiu apenas a juntada aos autos do processo administrativo fiscal de "atos constitutivos (fls. 206/207), contratos de prestação de serviços (fls. 593/615), livros contábeis (fls. 209/509, em especial os Termos de Abertura e Encerramento, às fls. 209, 302, 303, 419, 509, e notas explicativas, às fls. 296, 413 e 503)" (Ev. 1.8, p. 383). Não há menção às notas fiscais mencionadas pela parte embargante.
+Veja-se que a autoridade fiscal apreciou a alegação do contribuinte de que outros serviços, além daqueles de contabilidade, teriam sido prestados, sem fazer qualquer menção a notas fiscais.
+Nesse contexto, a referência genérica a "notas fiscais" constante do Relatório Fiscal, por provável erro material, não comprova a juntada dos documentos mencionados pela parte embargante.
+Note-se que tal menção ocorreu de forma genérica, apenas no excerto final em que a autoridade fiscal fazia ressalva no sentido de que se sujeitam à tributação os rendimentos recebidos pelo contribuinte mesmo que os serviços descritos em contratos ou "notas fiscais" não tenham sido efetivamente prestados. Veja-se (Ev. 1.8, p. 392):
+"Aqui cabe uma ressalva quanto à efetiva prestação dos serviços lastreados nos contratos e notas fiscais apresentados à fiscalização.
+Como é do conhecimento público, o fiscalizado foi alvo de um procedimento investigatório por parte da Polícia Federal, denominada "operação Kolektor", na qual se investiga(ou) a utilização de empresas de fachada para, supostamente, retirar vultosas quantias em dinheiro que, em tese, seriam oriundas da instituição de ensino superior controlada pela CELSP.
+É princípio consagrado em Direito Tributário que o tributo deve incidir sobre as atividades lícitas e, da mesma forma, sobre aquelas consideradas ilícitas ou imorais. Isso ocorre de acordo com o princípio segundo o qual, para o Estado, o dinheiro não tem cheiro, que se traduz na conhecida expressão pecunia non olet. O que importa é tão somente a análise objetiva da ocorrência da hipótese de incidência, sendo irrelevante se o fato gerador do tributo decorre de uma fonte lícita ou ilícita, de ato imoral ou não, de ato nulo ou anulável, criminoso ou não. Em outras palavras, o Direito Tributário preocupa-se em saber tão somente sobre a relação econômica relativa a um determinado negócio jurídico.
+Uma vez recebido o numerário correspondente à prestação do serviço efetivamente contratado (tenha sido ele prestado ou não), houve aquisição de disponibilidade econômica e também financeira de renda, devendo, pois, ser tributado.
+E, uma vez incidindo no conceito de renda oriunda da prestação de serviços de contabilidade (e correlatos), repise-se, de forma INDIVIDUAL, não poderiam ser tributados na pessoa jurídica, mas sim na pessoa física".
+Cabe esclarecer, ademais, que no Termo de Intimação Fiscal do Ev. 1.7, p. 147, igualmente, não há menção ao conteúdo das notas fiscais alegadamente apresentadas pela parte autora, mas apenas à tese de que teriam sido emitidas notas fiscais à CELSP, o que pode ser extraído dos contratos anteriormente acostados aos autos do processo administrativo.
+Tanto é assim que um dos questionamentos efetuados pela autoridade fiscal era justamente sobre quais foram os serviços prestados à CELSP (item "b").
+Repita-se: ao defender que teria sido comprovada a juntada das notas fiscais supostamente extraviadas, a parte embargante não demonstra a existência de omissão no julgado, mas verdadeira insurgência quanto ao mérito da demanda, que não comporta apreciação pela via dos embargos declaratórios.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+A alteração da conclusão do Tribunal a quo, acerca da inexistência de "comprovação a respeito da juntada aos autos do processo administrativo fiscal das notas fiscais mencionadas pela parte embargante", ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ademais:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Isso posto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
