@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANK HENRIQUE PEREIRA DA SILVA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial apresentado na Apelação Criminal n. 1502943-07.2023.8.26.0196.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para dar parcial provimento ao recurso especial, a fim de reconhecer a atenuante da confissão espontânea (fls. 286/288).
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos, inclusive de forma específica, suficiente e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ (AgRg nos EDcl no AREsp n. 2.985.942/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/9/2025, DJEN de 25/9/2025).
+Ao que se observa, o Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: Súmula 283/STF e 7/STJ. Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica e suficiente, a fundamentação atinente aos referidos óbices.
+Verifica-se que, no tocante à Súmula 283/STF, limitou-se a argumentar que teria atacado todos os fundamentos do acórdão. Contudo, não demonstrou, concretamente, de forma clara e concisa, que teria atacado todos os fundamentos do aresto recorrido. E mais, não demonstrou em suas razões do agravo que o teria feito, deixando de elencar os trechos do recurso especial em que apresentou os fundamentos do Tribunal de origem acerca da questão controvertida, e a respectiva argumentação recursal que expressamente se insurgiu quanto aos citados fundamentos.
+Do que se apresenta nas fls. 257/259, aparenta ser mera transcrição de arestos sem que seja possível identificar de que forma ocorreu a argumentação recursal em relação a cada um dos fundamentos do apelo nobre.
+No que diz respeito à Súmula 7/STJ, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
