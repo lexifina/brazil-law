@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ROGERIO LEITE STULPEN, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Agravo em Execução Penal n. 8003577-11.2025.8.21.0001.
+Extrai-se dos autos que o Juízo da Execução Penal deferiu o pedido de progressão de regime, formulado pelo paciente.
+O Tribunal de origem deu provimento ao agravo em execução penal interposto pelo Parquet estadual, para revogar a decisão que concedeu a progressão de regime ao apenado e determinar a realização de exame criminológico. Confira-se a ementa do julgado (fl. 23):
+"AGRAVO EM EXECUÇÃO DO MINISTÉRIO PÚBLICO. PROGRESSÃO DE REGIME. LEGISLAÇÃO QUE ALTEROU OS REQUISITOS LEGAIS. EXAME CRIMINOLÓGICO. NECESSIDADE. NOVA REGRA DO §1º DO ART. 112 DA LEP.
+Com o advento da Lei nº 14.843/24, o § 1º do artigo 112 da Lei de Execução Penal foi alterado e, com a modificação do dispositivo, passou a ser exigida a realização de exame criminológico para fins de progressão de regime prisional:
+As normas que regram a execução penal possuem natureza processual penal, e, ocorrendo modificação em seu texto legal, devem ter aplicação imediata, nos termos que determina o art. 2º do Código de Processo Penal.
+Tendo havido a modificação dos requisitos para concessão da progressão e, considerando as condições do cumprimento de pena do apenado - possui faltas graves reconhecidas durante a execução e saldo de mais de 15 anos a cumprir de pena, impositiva a revogação da decisão recorrida que concedeu progressão sem realização do exame criminológico, devendo ser realizado o respectivo exame.
+AGRAVO PROVIDO."
+No presente writ, a defesa sustenta a inexistência de motivação concreta e adequada para a imposição do exame criminológico.
+Assinala que são inaplicáveis as modificações introduzidas pela Lei n. 14.843/2024, em razão da vedação de retroatividade de norma penal mais gravosa, considerado que o fato atribuído ao apenado foi anterior à alteração legislativa.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja cassado o acórdão impugnado.
+A liminar foi indeferida às fls. 94/95. Informações prestadas às fls. 98/100 e 105/121. O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 127/129.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Colhe-se do voto condutor do acórdão que determinou a realização do exame criminológico para análise da progressão ao regime semiaberto (grifos nossos):
+"Em consulta ao SEEU verifico que o apenado cumpre pena de 33 anos, 08 meses e 24 dias de reclusão, pela prática dos crimes de roubo majorado (duas incidências), latrocínio e tráfico de drogas. Em 17/03/2007 iniciou o cumprimento da pena, com término de pena previsto para 24/01/2041, restando saldo de mais de 15 anos a cumprir.
+ ..
+Além do mais, o apenado possui faltas graves reconhecidas durante a execução, sendo, portanto, necessária maior cautela para concessão de benefícios no curso da execução da pena.
+Logo, tendo havido a modificação dos requisitos para concessão da progressão, impositiva a revogação da decisão recorrida que concedeu progressão sem realização do exame criminológico." (fls. 9/10)
+Da leitura dos trechos acima, observa-se que a circunstância decisiva para a exigência da avaliação prévia em relação ao paciente não foi apenas porque possuía condenação por crime dotado de maior gravidade e reprovabilidade ou em razão do longo tempo de pena a cumprir, mas também se levou em consideração a prática de faltas disciplinares de natureza grave , situação que, por estar ligada ao comportamento do apenado ao longo da execução penal, legitima a necessidade do exame criminológico.
+Sobre este tema, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR. AUSÊNCIA DE ESGOTAMENTO DA VIA ORDINÁRIA. EXIGÊNCIA DO EXAME CRIMINOLÓGICO. CONFORMIDADE COM A SÚMULA N. 439 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Além disso, a tese defensiva está em confronto com a Súmula n. 439 do STJ, o que obsta a concessão da ordem de ofício. Determinou-se o exame criminológico por decisão idoneamente motivada, que apontou histórico carcerário conturbado (prática de novo crime durante o livramento condicional).
+3. Agravo regimental não provido.
+(AgRg no HC n. 805.754/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/5/2023, DJe de 15/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTAS GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Na hipótese, o indeferimento da progressão de regime foi adequadamente fundamentado pelo Tribunal de origem, com base no histórico carcerário conturbado do reeducando, o qual denota a ausência do requisito subjetivo, necessário à concessão da benesse.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020). 6. Agravo regimental desprovido.
+(AgRg no HC n. 731.611/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+Nesse sentido, colhe-se o enunciado da Súmula Vinculante n. 26/STF:
+"Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei nº 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico."
+Ainda sobre o tema, a Súmula n. 439 desta Corte Superior dispõe que:
+"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+Também é importante registrar que, de acordo com o entendimento deste STJ, a análise do requisito subjetivo necessário para a obtenção de benefícios da execução penal não possui um limite temporal, devendo, pois, ser analisado todo o período de cumprimento da pena, a fim de se averiguar o mérito do apenado.
+Ademais, não se desconhece das alterações promovidas pela Lei n. 14.843/2024, que tornou obrigatória a realização de exame criminológico, para fins de progressão de regime prisional, cabendo destacar que o Supremo Tribunal Federal, em recente decisão proferida no HC 240.770, de relatoria do e. Ministro André Mendonça, firmou orientação no sentido de que a obrigatoriedade do exame criminológico - como pressuposto subjetivo à progressão de regime prisional, nos termos do art. 112, § 1º, da Lei de Execuções Penais -, deve ser aplicada apenas aos crimes praticados após a entrada em vigor da Lei n. 14.843/2024, considerando que as alterações por ela promovidas têm natureza de reformatio legis in pejus.
+O referido entendimento foi acolhido por ambas as Turmas de Direito Criminal desta Corte Superior, como se denota dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 929.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+RECURSO EM HABEAS CORPUS. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CASOS COMETIDOS SOB ÉGIDE DA LEI ANTERIOR. PRECEDENTES.
+1. A exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.
+2. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+3. No caso, todas as condenações do paciente são anteriores à Lei n. 14.843/2024, não sendo aplicável a disposição legal em comento de forma retroativa.
+4. Recurso em habeas corpus provido para afastar a aplicação do § 1º do art. 112 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, determinando o retorno dos autos ao Juízo da execução para que prossiga na análise do pedido de progressão de regime.
+(RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+Vê-se, portanto, que a despeito de não ser possível a aplicação da Lei n. 14.843/2024 ao caso concreto, foi apresentada motivação idônea para condicionar a análise do pleito de progressão de regime à prévia realização do exame criminológico, na esteira do entendimento firmado por esta Corte Superior na Súmula n. 439 e da Súmula Vinculante n. 26 do STF, razão pela qual não se vislumbra qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
