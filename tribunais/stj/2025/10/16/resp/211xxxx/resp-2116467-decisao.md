@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto por ASSOCIAÇÃO EDUCACIONAL SÃO PAULO APÓSTOLO-ASSESPA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FAZENDA PÚBLICA. POSSIBILIDADE DE SUBSTITUIÇÃO DA PENHORA EM QUALQUER FASE DO PROCESSO, INDEPENDENTEMENTE DA ANUÊNCIA DO DEVEDOR. OBSERVÂNCIA DA ORDEM LEGAL. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES DO STJ.
+Os embargos de declaração foram parcialmente acolhidos, mas sem efeitos infringentes (fls. 403-408).
+Nas razões recursais, os recorrentes sustentam, em síntese, divergência jurisprudencial e violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de omissão, contradição e erro material, bem como afronta ao art. 185-A, sustentando que "no caso em exame seria "desnecessário atingir prioritariamente o patrimônio da devedora principal para, então, pleitear a decretação de medidas constritivas sobre os bens dos corresponsáveis"" (fl. 433).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Trata-se, na origem, de agravo de instrumento interposto pelos ora recorrentes "contra a decisão do evento 99, integrada pela decisão que apreciou os embargos de declaração (evento 124), ambas proferidas pelo Juízo da 5ª Vara Federal de Execução Fiscal do Rio de Janeiro, que, nos autos da Execução Fiscal, deferiu o pedido da Exequente de penhora de ativos financeiros de titularidade da Executada Priscilla Levinsohn, via Sistema SISBAJUD" (fl. 351).
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, os recorrentes não demonstram, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+O Tribunal de origem, soberano na análise do contexto fático-probatório, quando do julgamento dos embargos de declaração, assentou que não houve indisponibilidade de bens da recorrente Priscilla Vieira (fl. 408):
+Por fim, registre-se que não houve decretação da indisponibilidade dos bens e direitos do devedor, na forma do art. 185-A do CTN. Portanto, tratando-se de hipóteses distintas, descabe a aplicação, ao caso, do entendimento contido no R Esp nº 1.377.507/SP, submetido ao rito dos recursos repetitivos, invocado pelos Embargantes.
+A alteração da conclusão do Tribunal a quo, acerca da inexistência de decretação de indisponibilidade de bens da recorrente, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
