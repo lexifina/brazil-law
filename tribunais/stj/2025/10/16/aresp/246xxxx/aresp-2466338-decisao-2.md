@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO CARLOS CARPES TELLES JUNIOR contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal (fls. 4.405/4.422).
+No recurso especial (fls. 4.474/4.481), o agravante requereu, em síntese, o reconhecimento de nulidade por cerceamento de defesa, alegando violação do art. 372 do Código de Processo Civil, sustentando que o Ministério Público juntou documento advindo de processo estranho à ação penal pouco antes do julgamento pelo Conselho de Sentença, sem que fosse oportunizado o contraditório.
+Inadmitido o recurso na origem (fls. 4.502/4.503), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 4.546/4.553).
+O Ministério Público Federal opinou pelo não provimento do recurso.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o recorrente o reconhecimento de nulidade por cerceamento de defesa, sustentando que o Ministério Público juntou documento de processo estranho à ação penal sem observância do contraditório, o que teria prejudicado o direito de defesa.
+A decisão de inadmissibilidade assim fundamentou a ausência de prequestionamento (fls. 4.502/4.503):
+Consoante a jurisprudência do Superior Tribunal de Justiça, "é condição sine qua non para que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos". Ainda que "a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento". In casu, não foi ventilada no acórdão recorrido nem foram opostos embargos de declaração para sanar as omissões, a atrair a aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal, a suscitada violação ao artigo 372 do Código de Processo Civil, por ter o julgado incorrido em nulidade por cerceamento de defesa, ao não garantir "o contraditório penal quando da juntada de prova emprestada pelo Ministério Público, pouco antes do julgamento pelo conselho de sentença".
+Verifica-se que o acórdão recorrido não enfrentou a matéria suscitada no recurso especial, qual seja, a alegada violação do art. 372 do Código de Processo Civil pela juntada de documento sem observância do contraditório. Não havendo manifestação do Tribunal a quo sobre a questão federal invocada, e não tendo sido opostos embargos de declaração para provocar o pronunciamento da Corte de origem, resta configurada a ausência do necessário prequestionamento.
+Constata-se que a matéria recursal não foi objeto de análise pelo Colegiado, sendo deficiente, dessa forma, o prequestionamento, pressuposto essencial ao acesso às instâncias superiores, conforme estabelece a Súmula 211/STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CERCEAMENTO DE DEFESA. JUNTADA DE DOCUMENTO PELO MINISTÉRIO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULA 211/STJ.
+Agravo conhecido para não conhecer do recurso especial.
