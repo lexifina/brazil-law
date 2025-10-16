@@ -1,0 +1,12 @@
+DECISÃO
+JAQUELIANE BORGES DA SILVA FREITAS alega sofrer coação ilegal diante de liminar indeferida pelo relator do HC n. 0820290-38.2025.8.15.0000, Desembargador do Tribunal de Justiça do Estado da Paraíba.
+A defesa informa que a paciente foi condenada a 2 anos e 2 meses em regime inicial aberto, e teve negado o direito de recorrer em liberdade, com determinação de imediata execução da pena. Para a defesa, é incompatível o indeferimento do aguardo do recurso em liberdade com a imposição do regime aberto. Argumenta que o fato de haver sido expedido alvará de soltura não elide a ilegalidade, porquanto a compatibilização entre prisão cautelar e regime de cumprimento de pena não encontra previsão legal.
+Requer a concessão do direito de recorrer em liberdade.
+Decido.
+Conforme o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Somente quando demonstrada, de plano e sem necessidade de exame aprofundados dos autos, violação intolerável e irreversível ao direito de liberdade do paciente, a jurisprudência do STJ e do STF admite, de forma excepcional, o afastamento do rigor da Súmula n. 691 do STF, situação que não verifico no caso concreto.
+Em regra, quando o réu está preso preventivamente e há sentença condenatória, o juiz deve expedir uma guia de recolhimento provisória (art. 674 do CPP e art. 105 da LEP), essencial para que o juízo da execução penal possa analisar pedidos de progressão de regime, detração penal, prisão domiciliar etc.
+No caso, há registro de alvará de soltura e de compatibilização da prisão preventiva ao regime prisional imposto na sentença. Assim, "O Supremo Tribunal Federal tem decidido pela incompatibilidade na manutenção da prisão preventiva - aos réus condenados a cumprir pena em regime semiaberto ou aberto - por configurar a segregação cautelar, medida mais gravosa. Tal regra, todavia, pode ser excepcionada a depender da situação concreta, como na hipótese, em que a necessidade do encarceramento cautelar se justifica para evitar-se a reiteração delituosa - tendo a instância ordinária assegurado a compatibilização do regime" (AgRg no HC n. 909.319/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+À vista do exposto, com fundamento na Súmula n. 691 do STF, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
