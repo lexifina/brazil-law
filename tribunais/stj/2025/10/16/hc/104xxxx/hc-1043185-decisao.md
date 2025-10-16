@@ -1,0 +1,31 @@
+DECISÃO
+DUBEM PAUL ONONYE aponta constrangimento ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2269032-06.
+A defesa busca o deferimento da progressão ao regime aberto, independentemente da realização de exame criminológico.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, o paciente praticou crime de tráfico de drogas antes da inovação legislativa. A Lei de Execução Penal trata da individualização da pena na fase do cumprimento da sentença e leis penais mais gravosas não podem ser aplicadas retroativamente.
+O condenado iniciou o cumprimento da reprimenda em 7/10/2021, com término previsto para 10/2/2030 e, atualmente, está no regime semiaberto.
+O Juízo das execuções assim determinou a realização do exame criminológico:
+Também não há que se falar em inconstitucionalidade da norma.
+A tese de inconstitucionalidade não prospera, uma vez que não há ofensa ao princípio da individualização da pena. Ao contrário do que se argumenta, há preservação deste princípio, na medida em que o exame criminológico obrigatório possibilitará que em todos os casos, a condição executória dos sentenciados seja analisada individualmente com maior acuidade para fins de concessão de benefícios, sendo estes concedidos adequadamente caso a caso.
+Ainda não há que se falar em ofensa à duração razoável do processo, na medida em que deve prevalecer a segurança jurídica, o devido cumprimento da pena e a garantia da ordem pública.
+Ademais, não se desconhece a decisão proferida no RH 200.670 pela Sexta Turma do Superior Tribunal de Justiça, todavia, não há tese definida em sede de recurso repetitivo.
+Convém destacar ainda que o regime aberto baseia-se na autodisciplina e senso de responsabilidade do(a) condenado(a), o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável.
+Assim, em que pese o cumprimento do requisito objetivo necessário à obtenção do benefício, diante da obrigatoriedade legislativa, faz-se necessária uma análise da personalidade do reeducando e de suas reais condições para ser beneficiado com a progressão de regime pretendida.
+Por fim, quanto à Resolução nº 36, de 4 de novembro de 2024, do Conselho Nacional de Política Criminal e Penitenciária (CNPCP), é essencial destacar o relevante papel desempenhado pelo Conselho Nacional de Política Criminal e Penitenciária (CNPCP) na formulação de diretrizes voltadas ao aprimoramento do sistema penitenciário brasileiro. Suas resoluções refletem notáveis esforços para uniformizar procedimentos e promover a ressocialização dos reeducandos, objetivos que inegavelmente contribuem para a evolução da política criminal no país. Contudo, a Resolução nº 36, de 4 de novembro de 2024, que estabelece diretrizes específicas para a realização de exame criminológico não pode ser aplicada.
+A Resolução nº 36, de 4 de novembro de 2024, do Conselho Nacional de Política Criminal e Penitenciária (CNPCP), é um ato administrativo normativo. Embora tenha caráter orientador e busque uniformizar procedimentos no âmbito da política criminal, não possui força de lei.
+A imposição de prazos específicos, a introdução de regras processuais estranhas à sistemática vigente e a padronização de procedimentos para a realização dos exames são matérias de lei e não podem ser estabelecidas por meio de resolução, nos termos do art. 22, inciso I, da Constituição Federal. Assim, resta afastada a aplicação da Resolução nº 36 do CNPCP.
+Neste contexto, de rigor a realização do exame criminológico para a apreciação do pedido formulado (fls. 99-100, grifei).
+A corte de origem assim denegou a ordem:
+HABEAS CORPUS - Progressão de regime. Lei nº 14.843/24 que conferiu nova redação ao artigo 112, § 1º, e artigo 114, II, ambos da LEP. Obrigatoriedade do exame criminológico para fins de progressão de regime. Natureza processual. Aplicabilidade imediata, nos moldes do artigo 2º do Código de Processo Penal ("tempus regit actum").
+Inexistência da demonstração de ilegalidade manifesta.
+Decisão devidamente fundamentada. Ordem denegada (fl. 26).
+Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+As instâncias de origem determinaram o exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que se limitou a tecer considerações a respeito da gravidade dos delitos. Esses dados são inerentes aos tipos penais e interessam à escolha da pena proporcional e adequada à gravidade do crime. Ainda, cumpre consignar que o paciente nem sequer ostenta falta grave (fl. 64)
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, concedo a ordem, in limine, para afastar a exigência de realização do exame criminológico e determinar que o Juízo da Execução prossiga na análise do pedido de progressão de regime do paciente, aferindo o requisito subjetivo com base nos demais elementos constantes dos autos.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Juízo de primeiro grau e ao Tribunal de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
