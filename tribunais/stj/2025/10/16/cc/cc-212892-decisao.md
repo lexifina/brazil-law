@@ -1,0 +1,23 @@
+DECISÃO
+Examinam-se embargos de declaração opostos por USINA REUNIDAS SERESTA S/A - EM RECUPERAÇÃO JUDICIAL contra decisão unipessoal que não conheceu do conflito de competência.
+Em suas razões, sustenta que a decisão embargada incorreu em omissão "ao deixar de observar que as decisões proferidas pelo MM. Juízo da 2ª Vara do Trabalho de São Miguel dos Campos/AL negam vigência às disposições e obrigações estabelecidas no plano de recuperação judicial, além de usurparem a competência do MM. Juízo da 4ª Vara Cível de Maceió/AL, responsável pelo processamento da recuperação" (e-STJ fl. 210). Aduz, ainda, a existência de obscuridade, tendo em vista que diverge da jurisprudência desta Corte que reconhece a competência exclusiva do juízo recuperacional para decidir sobre a instauração do incidente de desconsideração da personalidade jurídica, quando o plano homologado contém cláusula que obsta a satisfação dos créditos fora do regime de soerguimento. Pugna, assim, pelo acolhimento dos embargos e pela declaração da competência do juízo da recuperação judicial.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão ou erro material no julgado impugnado, situações não verificadas na hipótese.
+Com efeito, a decisão embargada foi clara ao consignar que o redirecionamento da execução trabalhista em face dos sócios da recuperanda, por meio da desconsideração da personalidade jurídica, não conflita com o prosseguimento da recuperação judicial da embargante.
+No particular, prospera o entendimento, no âmbito desta Corte Superior de Justiça, de que o juízo da recuperação judicial não possui competência exclusiva para apreciar pedido de desconsideração da personalidade jurídica formulado em face da sociedade devedora (CC 169.362/PE, Segunda Seção, DJe 21/6/2021)
+É também assente o entendimento neste Tribunal no sentido de que não configura conflito de competência a constrição de bens dos sócios da empresa em recuperação judicial, à qual foi aplicada, na Justiça Especializada, a desconsideração da personalidade jurídica. A propósito:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELA JUSTIÇA DO TRABALHO. CONSTRIÇÃO DE BENS DOS SÓCIOS. NÃO CONFIGURAÇÃO DE CONFLITO.
+1. A desconsideração da personalidade jurídica ou o reconhecimento da existência de grupo econômico não é de competência exclusiva do Juízo que processa a recuperação judicial.
+2. Não se configura conflito de competência quando constrito bem de sócio da empresa em recuperação judicial, à qual, na Justiça do Trabalho, foi aplicada tal providência. Isso porque, em princípio, salvo decisão do Juízo da recuperação em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial. Precedentes.
+3. Atuando as autoridades judiciárias no âmbito de sua competência, não se configura conflito positivo.
+4. Conflito de competência não conhecido. (CC 124.065/SP, Segunda Seção, DJe 3/11/2016; sem grifo no original)
+Registre-se, por oportuno, em complemento aos argumentos ora apresentados, que o conflito de competência, incidente de cognição restrito à definição do juízo competente para exercer a jurisdição em determinado processo, não pode ser utilizado para exigir pronunciamento acerca de matérias impugnáveis por recurso próprio, tais como a eficácia das cláusulas do plano de recuperação judicial ou sua eventual repercussão sobre incidente de desconsideração da personalidade jurídica instaurado na Justiça do Trabal ho.
+Ademais, ainda que existam julgados que adotam a mesma linha argumentativa da embargante, não há como contornar o fato de que o entendimento sobre o tema é, inclusive, sumulado, na direção de que a recuperação judicial do devedor principal não impede o prosseguimento de execuções em face dos sócios da recuperanda, devedores solidários, garantidores ou coobrigados em geral (Súmulas 480 e 581 do STJ).
+Assim, os argumentos apresentados pela embargante, a pretexto de omissão e obscuridade, apenas indicam insatisfação com o não conhecimento do incidente.
+Dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, impõe-se a rejeição da pretensão deduzida.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OBSCURIDADE E OMISSÃO NO JULGADO. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente vício a ser sanado.
+2. Embargos de declaração rejeitados.
