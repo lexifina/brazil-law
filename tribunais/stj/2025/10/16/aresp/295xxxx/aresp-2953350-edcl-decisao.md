@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por São Roque Energética S/A., em face da decisão monocrática de fls. 1.270-1.274 que, no julgamento do Agravo em Recurso Especial n. 2.953.350/SC, interposto pela concessionária embargante, conheceu do agravo para não conhecer de seu recurso especial, com a determinação de majoração da verba honorária recursal no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis: i) os limites percentuais previstos nos §§2º e 3º do já citado dispositivo legal; ii) a concessão de gratuidade judiciária.
+Em suas razões recursais, aponta a embargante omissão no acórdão embargado quanto a sua condenação em honorários advocatícios recursais, porquanto, tratando-se de ação de desapropriação, os honorários advocatícios devem restar limitados o máximo legal previsto no Decreto-Lei n. 3.365/1941, cujos limites não se encontram previstos nos §§2º, 3º e 11 do art. 85 do CPC/2015.
+Não houve impugnação aos impugnação aos embargos de declaração às fls. 1.277-1.278.
+É o relatório. Decido.
+Seja à luz do art. 535 do CPC/1973, ou nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso dos autos, assiste razão à concessionária embargante, porquanto, de fato, houve equívoco na decisão embargada acerca da condenação da São Roque Energética S/A em honorários advocatícios recursais, porquanto já fixados no limite máximo previsto no art. 27, § 1º, do Decreto-Lei 3.365/1941, desde a sentença de primeiro grau.
+Ante o exposto, acolho os embargos de declaração para, sanando o equívoco apontado na decisão embargada, afastar a condenação da concessionária embargante ao pagamento de verba honorária recursal, uma vez que os honorários advocatícios já foram fixados no limite máximo previsto no art. art. 27, § 1º, do Decreto-Lei 3.365/1941.
+Publique-se. Intimem-se.
+EMENTA
