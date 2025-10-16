@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO SERGIO DE MOURA ROMAO JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500752-29.2020.8.26.0152.
+Consta dos autos que o paciente foi condenado às penas de 35 anos de reclusão no regime fechado e pagamento de 16 dias-multa, como incurso nas sanções do art. 157, § 3º, II, do Código Penal.
+A apelação criminal interposta pela defesa foi parcialmente provida pelo Tribunal estadual, redimensionando as penas para 29 anos e 2 meses de reclusão e pagamento de 13 dias-multa, nos termos da seguinte ementa (e-STJ fl. 31):
+Latrocínio Reconhecimento feito por testemunha por fotografia na delegacia Inobservância do art. 226, do Código de Processo Penal Corréus que foram novamente apontados pela testemunha em juízo Nulidade - Inocorrência Preliminar rejeitada; Latrocínio Depoimentos de policiais civis que participaram das investigações firmes e coerentes Depoimento de testemunha que ouviu dois dos corréus contarem como ocorreu o crime Negativas de três deles isoladas Prova suficiente para a condenação dos agentes Crime cometido durante a pandemia causada pelo COVID-19 Estado de calamidade pública decretado Agravante que não foi determinante para a prática da infração Afastamento da pena de multa Não cabimento Regime fechado Obrigatoriedade Justiça gratuita deferida para três agentes Aplicação, na forma do art. 98, do Código de Processo Civil Recursos parcialmente providos para redução das penas.
+Daí o presente writ, no qual a defesa alega a existência de constrangimento ilegal do paciente, pois teria sido condenado com base em provas ilícitas e em descompasso com a realidade fática demonstrada nos autos.
+Nesse sentido, argumenta que toda a persecução penal teria sido construída sobre prova declarada judicialmente ilícita, em decisão proferida na audiência de custódia do Processo n. 1500900-67.2020.8.26.0628, na qual o juiz relaxou a prisão em flagrante do paciente, reconhecendo a ilicitude da diligência policial em razão da violação de domicílio e do acesso indevido dos aparelhos celulares.
+Acrescenta que, conforme o laudo necroscópico juntado aos autos, o crime teria sido praticado enquanto o paciente estava sob custódia do Estado, o que torna faticamente impossível sua participação no delito, enfatizando que a conduta imputada ao paciente de "preparar o cativeiro" seria atípica e impossível, pois o imóvel jamais teria sido utilizado e o suposto "preparo" teria ocorrido antes mesmo do sequestro da vítima, em local diferente e com o réu já detido.
+Afirma que a sentença e o acórdão mantiveram a condenação com base em um único depoimento indireto (de ouvir dizer) prestado por Kaique Gonçalves de Medeiros, que teria se retratado em juízo e inocentado o paciente, violando o princípio do in dubio pro reo e o art. 155 do CPP, que proíbe condenação fundada exclusivamente em elementos colhidos no inquérito.
+Requer, assim, a concessão da ordem para determinar a imediata expedição de alvará de soltura em favor do paciente e declarar a nulidade absoluta da Ação Penal n. 1500752-29.2020.8.26.0152, em razão da ilicitude das provas que deram origem à investigação, determinando-se o trancamento do feito. Subsidiariamente, a absolvição do paciente, com base no art. 386, IV e VII, do CPP, reconhecendo-se que não concorreu para o crime e não há prova suficiente para a condenação.
+As informações foram prestadas às e-STJ fls. 529/534 e 537/587, e o Ministério Público Federal, por meio do parecer exarado às e-STJ fls. 590/596, opinou pelo não conhecimento do habeas corpus ou, se conhecido, pela denegação da ordem.
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer.
+Oportuno registrar que referido entendimento foi ratificado pela Terceira Seção do Superior Tribunal de Justiça, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP, a qual foi "acolhida, por maioria, para não conhecer do habeas corpus por não ser sucedâneo do recurso ordinário".
+Nessa linha de intelecção, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Nada obstante, na hipótese dos autos, conforme informações prestadas pelo Juízo da Vara Criminal de Cotia à e-STJ fl. 532: "O paciente interpôs recurso especial às fls. 1341/1353", e pelo Tribunal de origem à e-STJ fl. 538: "O patrono do paciente ingressou com recurso especial, o qual aguarda o retorno do feito - encaminhado à Vara de origem para a intimação do Defensor dativo dos corréus do teor do acórdão - para processamento".
+Nesse contexto, tendo a defesa se utilizado simultaneamente do habeas corpus e do recurso apropriado, tem-se manifesta a subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais, o que impede o conhecimento do presente mandamus.
+Com efeito, "O Superior Tribunal de Justiça não admite o uso de habeas corpus concomitantemente ou após a interposição de recurso especial em face do mesmo aresto, para evitar a subversão do sistema recursal e a violação do princípio da unirrecorribilidade" (AgRg no HC n. 984.540/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025).
+No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES. IMPETRAÇÃO DE HABEAS CORPUS DE FORMA CONCOMITANTE COM RECURSO LEGALMENTE PREVISTO. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+Precedentes.
+2. Constatada a interposição concomitante de recurso especial, em processamento na instância inferior, e de habeas corpus, este último não pode subsistir.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 1.019.405/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/9/2025, DJEN de 29/9/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, por ter sido impetrado concomitantemente com recurso próprio, situação que não pode ser admitida, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível o conhecimento de habeas corpus impetrado simultaneamente com recurso próprio, em face do princípio da unirrecorribilidade das decisões judiciais.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade.
+4. A impetração de habeas corpus substitutivo de recurso próprio não deve ser conhecida, conforme orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+5. A concessão de habeas corpus de ofício não se presta como meio para obter pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A tramitação concomitante de recursos e habeas corpus contra o mesmo ato viola o princípio da unirrecorribilidade. 2. Habeas corpus substitutivo de recurso próprio não deve ser conhecido. 3. A concessão de habeas corpus de ofício não é meio para obter pronunciamento sobre mérito de pedido não admissível".
+Dispositivos relevantes citados: CPP, art. 654, § 2º; CPC, art. 1.029, § 5º, inciso III. Jurisprudência relevante citada: STJ, AgRg no HC 733.563/RS, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 10/05/2022; STJ, AgRg no HC 702.446/SC, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 15/03/2022.
+(AgRg no HC n. 976.764/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/4/2025, DJEN de 7/5/2025.)
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos ao acórdão que negou provimento ao agravo regimental e manteve decisão monocrática que não conheceu da impetração.
+2. O embargante alega omissão no acórdão ao não considerar o trânsito em julgado do recurso especial anteriormente interposto, o que afastaria a simultaneidade recursal e o óbice ao conhecimento do writ, com base no princípio da unirrecorribilidade.
+II. Questão em discussão
+3. A discussão consiste em saber se a superveniência do trânsito em julgado do recurso especial interposto afasta a aplicação do princípio da unirrecorribilidade, permitindo o conhecimento do habeas corpus.
+III. Razões de decidir
+4. O princípio da unirrecorribilidade impede a impetração de habeas corpus concomitantemente à interposição de recurso próprio contra o mesmo ato judicial.
+5. A superveniência do trânsito em julgado não retroage para tornar admissível a impetração inicialmente inadmissível, pois a duplicidade recursal é aferida com base na situação existente no momento da análise da admissibilidade do writ.
+6. Não há omissão, obscuridade ou contradição no acórdão embargado que justifique sua modificação ou complementação.
+IV. Dispositivo e tese
+7. Embargos de declaração rejeitados.
+Tese de julgamento: 1. O princípio da unirrecorribilidade impede a impetração de habeas corpus concomitantemente com recurso próprio contra o mesmo ato judicial. 2. A superveniência do trânsito em julgado não torna admissível a impetração inicialmente inadmissível.
+Dispositivos relevantes citados: CPP, art. 619.Jurisprudência relevante citada: STJ, AgRg no HC 549.368/SC, Min. Joel Ilan Paciornik, Quinta Turma, DJe 19/12/2019; STJ, AgRg no HC 845.563/RS, Min. Jesuíno Rissato, Sexta Turma, DJe 1º/03/2024; STJ, AgRg no HC 811.810/MS, Min. Otávio de Almeida Toledo, Sexta Turma, DJe 25/11/2024.
+(EDcl no AgRg no HC n. 926.722/PR, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 344 DO CP. IMPETRAÇÃO DE HABEAS CORPUS DE FORMA CONCOMITANTE COM RECURSO. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus impetrados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade. Precedentes.
+2. Ademais, inviável a apreciação deste writ, notadamente quando não se verifica flagrante ilegalidade a atrair a concessão de habeas corpus de ofício, como na espécie.
+3. Na linha dos precedentes desta Corte, "a nulidade decorrente da quebra da cadeia de custódia deve ser arguida no momento processual oportuno, sob pena de preclusão, nos termos do artigo 571, inciso II, do Código de Processo Penal" (AgRg no RHC n. 211.318/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 1.002.243/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. WRIT IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. INADMISSIBILIDADE. AGRAVO DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto por Fabiano Pereira de Oliveira contra decisão monocrática que não conheceu do habeas corpus impetrado com o objetivo de restabelecer a decisão de primeiro grau que havia autorizado o benefício da saída temporária ao paciente, benefício posteriormente revogado pelo Tribunal de Justiça do Estado de Santa Catarina, no agravo em execução penal. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade do habeas corpus quando impetrado simultaneamente à interposição de recurso especial contra o mesmo acórdão e com idêntica pretensão. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é incabível o habeas corpus quando interposto concomitantemente a recurso especial já manejado contra o mesmo ato judicial e com o mesmo objeto, sob pena de violação do princípio da unirrecorribilidade das decisões judiciais.
+4. A duplicidade de meios de impugnação representa subversão do sistema recursal e afronta à segurança jurídica e à economia processual, razão pela qual o habeas corpus deve ser tido por inadmissível.
+5. O agravante deixou de apresentar elemento novo capaz de afastar o fundamento de inadmissibilidade, limitando-se a repetir argumentos já afastados pela decisão agravada.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC n. 997.416/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 28/5/2025, DJEN de 2/6/2025.)
+Ademais, as instâncias ordinárias, com base no acervo probatório, concluíram, motivadamente, pela presença de provas suficientes de materialidade e autoria do delito para a condenação do paciente. Nesse contexto, não se mostra possível o revolvimento dos fatos e das provas, haja vista o habeas corpus não ser meio processual adequado para analisar a tese de insuficiência probatória para a condenação, uma vez que se trata de ação constitucional de rito célere e de cognição sumária.
+Pelo exposto, indefiro liminarmente do mandamus.
+Publique-se.
+EMENTA
