@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDACAO PETROBRAS DE SEGURIDADE SOCIAL PETROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 639):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA COMPLEMENTAR. SUPLEMENTAÇÃO DE PENSÃO POR MORTE. REJEITADA. SENTENÇA DE AUSÊNCIA DE DIALETICIDADE PRELIMINAR . MÉRITO PELA PROCEDÊNCIA DO PEIDIDO. INCONFORMISMO DA PARTE RÉ. PLEITO DE NECESSIDADE DE INSCRIÇÃO DO BENEFICIÁRIO NA ÉPOCA EM QUE O FUNCIONÁRIO ADERIU AO PLANO PETROS. INACOLHIMENTO. POSSIBILIDADE DE INCLUSÃO POSTERIOR. PRECEDENTES DO STJ. NECESSIDADE DE APORTE FINANCEIRO PRÉVIO. NÃO CABIMENTO. INEXISTÊNCIA DE NORMA REGULAMENTAR VIGENTE À ÉPOCA EM QUE A EX-ESPOSA FALECIDA DO AUTOR PREENCHEU OS REQUISITOS NECESSÁRIOS PARA APOSENTADORIA. ENTENDIMENTO SEDIMENTADO NO STJ. SENTENÇA CONFIRMADA. .RECURSO NÃO PROVIDO.
+I Preliminar - Ausência De Dialeticidade - Da simples leitura da peça recursal, verifica-se que a apelante enfrentou os fundamentos invocados pela decisão recorrida. Preliminar rejeitada.
+II - Mérito Cinge-se a questão averiguar a juridicidade da sentença que declarou: 1) que o apelado é beneficiário da falecida - esposa; 2) a inaplicabilidade da Resolução 49/97; e 3) a nulidade do ato administrativo que indeferiu o recebimento da suplementação da pensão por morte.
+III - O apelado comprovou a sua condição de dependente da Sra. Ida Maria Maia de Andrade, habilitado junto ao INSS e recebendo a pensão por morte (ID 13088448), atendendo, portanto, o quanto exigido no Art. 4º, do Regulamento da Petros e no Art. 16, da Lei 8.213/1991.
+IV - Assim, comprovada a sua condição de dependente, e preenchidos os requisitos do Regulamento vigente quando do óbito da ex-esposa falecida, não há que se falar na necessidade de inclusão prévia da parte autora como dependente perante a recorrente, ou ainda, de qualquer pagamento adicional não previsto de forma expressa no Regulamento vigente à época da aposentação. Sentença de improcedência mantida. Precedentes do STJ e desta Corte de Justiça transcritos no Corpo do Voto Condutor.
+PRELIMINAR REJEITADA. .
+RECURSO DE APELAÇÃO IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 681-697).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 1º, 9º, 16, § 2º, 17, 18, § 2º, e 19 da LC 109/2001, bem como aos Temas 955 e 1.021/STJ , bem como do artigo 202 da Constituição Federal.
+Sustenta, em síntese, que a parte recorrida pretende a concessão do benefício de suplementação por morte sem prévia inscrição como beneficiário e sem o correspondente aporte para formação da reserva matemática, à luz do regulamento aplicável no momento da elegibilidade (óbito em 9/5/2017), notadamente a Resolução PETROS 49/1997, e dos princípios de capitalização e equilíbrio atuarial do regime de previdência complementar.
+Aponta divergência jurisprudencial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 833-838).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 847-854), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 903-907).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 202 da Constituição Federal, por ser a via inadequada à alegação de afronta a artigos e preceitos da Constituição Federal, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+ ..
+III - Não cabe a esta Corte a apreciação de violação de dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+(AREsp n. 1.970.639/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022.)
+ ..
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+(AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, reconheceu: a) a condição de dependente do recorrido, habilitado e em gozo de pensão por morte no RGPS (Lei 8.213/1991, art. 16; Regulamento PETROS, art. 4º); b) a possibilidade de inclusão posterior de beneficiário, afastando a necessidade de inscrição prévia no plano, por inexistência de cláusula expressa de exclusão automática até a aposentadoria (1994); c) a incidência do Tema 907/STJ para adotar o regulamento da época do preenchimento dos requisitos do benefício, concluindo que, por ter a participante reunido as condições para aposentadoria em 1994, não se pode exigir obrigação de custeio inexistente à época da inativação e, d) a inaplicabilidade da Resolução 49/1997 ao caso concreto.
+A Segunda Seção do STJ, no julgamento dos EARESP 925.908 /SE, concluído no dia 22.5.2024, por maioria, admitiu a concessão de pensão por morte a dependente de beneficiário que já estava recebendo proventos de suplementação de aposentadoria, ainda que não tenha havido a prévia inscrição pelo falecido perante a entidade fechada de previdência privada do novo consorte, sob o fundamento de que a dependência econômica, nesse caso, é presumida, bem assim para dar cumprimento à função social do sistema fechado de previdência privada, nos termos da seguinte ementa:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE SUPLEMENTAÇÃO DE PENSÃO POR MORTE. ESPOSA NÃO INDICADA COMO BENEFICIÁRIA PELO EX-PARTICIPANTE. DEPENDÊNCIA ECONÔMICA PRESUMIDA.
+1. Ação de concessão de suplementação de pensão por morte.
+2. O propósito recursal é dirimir divergência jurisprudencial acerca do direito à suplementação de pensão por morte da esposa não inscrita como beneficiária pelo ex-participante.
+3. A previdência privada, qualificada pela doutrina como um braço da seguridade social e negócio jurídico privado concretizador dos ideais constitucionais de solidariedade e justiça social, tem como finalidade suprir a necessidade de renda adicional do participante, por ocasião de sua aposentadoria ou superveniente incapacidade, bem como dos seus beneficiários, por ocasião de sua morte.
+4. No que tange aos beneficiários, a função social do contrato previdenciário se cumpre a partir da concessão de benefício a quem o legislador presume depender economicamente do participante falecido, como, aliás, estabelece o art. 16, I e § 4º, da Lei 8.213/1991.
+5. Em atenção à função social do contrato previdenciário, mas sem descurar da necessidade de manutenção do equilíbrio do plano de custeio, deve ser admitida a inclusão posterior do dependente direto como beneficiário do exparticipante, desde que isso não acarrete prejuízo ao fundo de pensão.
+6. Hipótese em que o contexto delineado pelas instâncias de origem, que registra a ausência de prejuízo ao fundo de pensão, aliado ao fato de que não há sequer menção à juntada nos autos de cálculos atuariais que, eventualmente, comprovem o contrário, revelam ser indevida a recusa da PETROS de inclusão da esposa no rol de beneficiários, considerando a sua presumida dependência econômica do participante falecido.
+7. Embargos de divergência conhecidos e providos.
+(EARESP 925.908 /SE, Relatora Ministra Nancy Andrighi, DJe de 7/6/2024).
+Acrescente-se que nesse mesmo sentido decidiu a Segunda Seção, ao examinar hipótese absolutamente idêntica à discussão nos presentes autos, relativa à aplicação das regras estabelecidas na Resolução Petros 49/1997 aos assistidos que já haviam preenchido os requisitos para o recebimento do benefício de complementação de aposentadoria, em data anterior a sua edição, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE PENSÃO POR MORTE. DEPENDENTE NÃO INDICADA COMO BENEFICÁRIA. INCLUSÃO POSTERIOR. POSSIBILIDADE. PREJUÍZO AO FUNDO PREVIDENCIÁRIO. AUSÊNCIA. RATEIO ENTRE A EX-ESPOSA E A CONVIVENTE.
+1. Conforme entendimento firmado no julgamento dos EAREsp n. 925.908/SE, pela Segunda Seção, deve ser admitida a inclusão posterior do dependente direto como beneficiário do ex-participante no plano previdenciário, que deve receber cota-parte da suplementação de pensão por morte, desde que isso não acarrete prejuízo ao fundo de pensão, ou seja, observando-se a manutenção do equilíbrio do plano de custeio.
+2. Impossibilidade de aplicação da Resolução PETROS nº 49/1997 - que define as condições necessárias para a inscrição de novos beneficiários de participante, após a concessão de suplementação de aposentadoria -, aprovada depois de o assistido ter implementado todas as regras de percepção do benefício previdenciário.
+3. Agravo interno não provido.
+(AgInt no EARESP 1.838.565/SE, Relator Ministro Ricardo Villas Bôas Cuera, DJ 26.11.2024)
+O acórdão do Tribunal de origem está em consonância com a jurisprudência deste STJ, o que atrai a incidência da Súmula 83/STJ.
+Ademais, alterar o fundamento de que "não existia cláusula expressa de exclusão automática" e que "não era exigido o prévio aporte para a inclusão de novos dependentes" ao tempo da aposentadoria (1994), seria necessário interpretar o conteúdo do Regulamento PETROS vigente então, bem como a disciplina interna posterior (Resolução 49/1997) e sua incidência no caso. Tal providência configura re interpretação de cláusulas contratuais e normativas internas do plano, hipótese que, em sede especial, encontra óbice da Súmula 5/STJ.
+Nesse sentido:
+(..)
+2.Para modificar a conclusão exarada no acórdão objurgado e acolher a tese defendida pela demandante (no sentido de que a forma correta de cálculo do benefício deve ser verificada através da análise conjunta dos dispositivos do Regulamento do Plano de Benefícios), seria imprescindível a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório do processo em voga, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula 283/STF.
+4 . Agravo interno desprovido.
+(AgInt no AREsp 1610598/PR, Relator, Ministro Marco Aurélio Bellizze, ARCO AURÉLIO BELLIZZE, Data de Julgamento: 16/05/2022, Terceira Turma, DJe de 18/05/2022)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+ EMENTA
