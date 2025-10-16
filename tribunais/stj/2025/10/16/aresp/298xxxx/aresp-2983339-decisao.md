@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por MARGARETE DAS NEVES MENEZES, em face da agravante, em razão de negativa indevida de cobertura dos medicamentos PEMBROLIZUMABE e AXITINIBE para tratamento de câncer renal.
+Acórdão recorrido: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA.TUTELA ANTECIPADA. CÂNCER RENAL. PEMBROLIZUMABE e AXITINIBE. PREVALÊNCIA DA PRESCRIÇÃO MÉDICA. RELATÓRIOS MÉDICOS QUE DEMONSTRAM A NECESSIDADE DOS MEDICAMENTOS. AGRAVO CONHECIDO E IMPROVIDO.
+1. Estão presentes os requisitos necessários à concessão da tutela requerida nos autos principais, eis que demonstrados a probabilidade do direito da autora, ora agravada, e o perigo de dano, como reza o art. 300, caput, do CPC.
+2. Com efeito, o relatório médico de id. 439020062 dos autos principais atesta que a agravada teve confirmação de recidiva de doença oncológica renal de células claras. No referido documento o profissional informa, ainda, que a agravada necessita iniciar tratamento sistêmico imediatamente.
+3. Verifica-se, portanto, a necessidade de realização imediata do tratamento, diante da alteração da saúde da agravada, que pode piorar com a espera pela decisão final do processo. Presente, pois, o perigo de dano.
+4. Não cabe ao magistrado questionar o tratamento prescrito pelo médico, pois este, além de conhecer o histórico clínico da paciente, detém qualificação técnica necessária para indicar o melhor tratamento.
+5. Se o tratamento de determinada doença é assegurado contratualmente, todos os procedimentos e técnicas solicitados de maneira embasada pelo médico, como métodos necessários à cura e ao melhor desenvolvimento do paciente, estarão acobertados. Caso contrário, o tratamento seria formalmente assegurado, mas, na prática, inacessível.
+6. Logo, não merece reforma a decisão de primeiro grau que deferiu a antecipação da tutela em favor da agravada, diante da presença dos requisitos autorizadores.
+7. Agravo improvido. (e-STJ fls. 320-321)
+Decisão de admissibilidade do TJ/BA: inadmitiu o recurso especial, em razão da incidência da Súmula 735/STF.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz não ser possível a aplicação da Súmula 735/STF ao fundamento de que "O recurso constitucional interposto levantou os temas relativos aos Art.300 do CPC/2015; Art. 10, § 4º, Lei nº 9.656/1998; Art. 3º e 4º, III da Lei Federal nº 9.961/2000; Art. 10, II, 10-A, 16, VI da Lei 9.656/1998; Art. 54, §4º do CDC; e a Jurisprudência.; cujo amago é A LEGALIDADE NA NEGATIVA DO MEDICAMENTO, CONSIDERANDO SER UM TRATA MENTO EXPERIMENTAL AO DIAGNÓSTICO DA RECORRIDA. O que se quer aqui não é o ataque a ordem liminar em si, mas demonstrar que o lastro legal da mesma não se faz robusto, pois é contrário a lei específica, o contrato e as normas regulamentares aplicáveis à espécie. ADEMAIS, A LIMINAR COMBATIDA NÃO FOI DEFERIDA EM FASE RECURSAL, MAS NOS AUTOS DE 1º GRAU. Demonstrou-se que os requisitos da liminar não se apresentaram. Daí o recurso constitucional ser cabível." (e-STJ fls. 503-504).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 735/STF.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Juízo de segundo grau de jurisdição . Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
