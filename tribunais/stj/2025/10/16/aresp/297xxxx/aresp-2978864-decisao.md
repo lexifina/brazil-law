@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO PEDRO GHELLER e JOÃO GHELLER NETO contra decisão que não admitiu recurso especial manejado, com base na alínea "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 55):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO MONITÓRIA. PREENCHIDOS OS PRESSUPOSTOS DO ART. 700 DO CPC. CONVERSÃO DE ENTREGA DE COISA FUNGÍVEL (SACAS DE SOJA) EM PAGAMENTO. INTELIGÊNCIA DO ART. 809 DO CPC.
+O fato de a obrigação original ter sido pactuada em sacas de soja, demonstrado o vencimento das parcelas ajustadas, possível a conversão da obrigação em pagamento de quantia, nos termos do art. 809 do CPC.
+RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante alega, em síntese, que o acórdão recorrido violou o art. 485, IV e § 3º, do Código de Processo Civil e o art. 421 do Código Civil.
+Sustenta que houve nulidade processual por ausência de interesse de agir, em razão da inadequação da via eleita (ação monitória).
+Defende, ainda, que a conversão da obrigação, sem prévia tentativa de cumprimento da entrega e sem cláusula que a autorize, desequilibra o contrato e ofende o princípio da função social, previsto no art. 421 do Código Civil, por permitir alteração do objeto obrigacional com prejuízos financeiros desproporcionais, em descompasso com a equidade contratual.
+Decorreu o prazo sem apresentação de contrarrazões (fl. 76).
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Decorreu o prazo sem apresentação de impugnação (fl. 102).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Originariamente, os agravantes interpuseram agravo de instrumento contra decisão interlocutória proferida na ação monitória que rejeitou a preliminar de carência da ação, sob o fundamento de que, vencidas em 30.4.2017, 30.4.2018 e 30.4.2019 as parcelas referentes a entrega de sacas de soja, seria possível a conversão da obrigação de entrega de coisa fungível em pagamento de quantia certa.
+Em face dessa decisão, a parte agravante interpôs agravo de instrumento, que teve provimento negado pelo Tribunal de origem.
+Nesse cenário, especificamente com relação à alegação de nulidade processual, o Tribunal de origem entendeu que estão presentes os pressupostos de constituição e desenvolvimento válido do processo, sendo que "a ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor o pagamento de quantia em dinheiro, a entrega de coisa fungível ou infungível ou de bem móvel ou imóvel e o adimplemento de obrigação de fazer ou de não fazer", como ocorreu no caso (fl. 54).
+A propósito do cabimento da ação monitória, a jurisprudência desta Corte admite a formulação de pretensões que envolvam não apenas quantia certa, mas também obrigação de fazer, não fazer ou entregar coisa, nos termos do art. 700 do CPC. Veja-se:
+RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROVA ESCRITA JUNTADA PELA AUTORA SUFICIENTE PARA EVIDENCIAR A RAZOÁVEL PROBABILIDADE DO CRÉDITO PRETENDIDO. ALEGAÇÕES FORMULADAS NOS EMBARGOS MONITÓRIOS DE FORMA GENÉRICA. EMBARGANTE/RÉ QUE NEM SEQUER PLEITEOU EXPRESSAMENTE QUALQUER PRODUÇÃO DE PROVA. RESTABELECIMENTO DA SENTENÇA, EM RELAÇÃO À COMPROVAÇÃO DE ENTREGA DAS MERCADORIAS AO PARCEIRO COMERCIAL DA RÉ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA PROSSEGUIR NO EXAME DAS DEMAIS ALEGAÇÕES FORMULADAS NA APELAÇÃO. RECURSO PROVIDO.
+1. Nos termos do que dispõe o art. 700 do Código de Processo Civil de 2015, a ação monitória poderá ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz (i) o pagamento de quantia em dinheiro; (ii) a entrega de coisa fungível ou infungível ou de bem móvel ou imóvel; ou (iii) o adimplemento de obrigação de fazer ou de não fazer.
+2. A prova escrita apta a embasar a ação monitória é aquela suficiente a evidenciar a razoável probabilidade do direito pretendido pelo autor, não necessitando, por isso, da juntada de prova indubitável acerca do crédito pretendido. Assim, caso o autor da ação monitória junte prova escrita da qual possa razoavelmente se inferir a existência do crédito, caberá ao réu, por meio da oposição de embargos monitórios, desconstituir a presunção inicial que milita em favor do embargado/autor, trazendo elementos suficientes para contrapor a plausibilidade das alegações que levaram à expedição do mandado de pagamento, utilizando-se dos meios de prova admitidos no ordenamento jurídico. (..)
+8. Recurso especial provido.
+(REsp n. 1.994.370/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/12/2023, DJe de 14/12/2023.)
+Nesse sentido, verifica-se que o Tribunal de origem julgou a pretensão da parte adequadamente ao entender pelo cabimento da ação monitória no caso.
+Além disso, também não prospera a alegação de impossibilidade de conversão da obrigação.
+Quanto ao ponto, o Tribunal destacou que, tratando-se de obrigação originalmente fixada em coisa fungível (sacas de soja), o inadimplemento das parcelas nos prazos ajustados autoriza a conversão da obrigação em quantia certa, nos termos do art. 809 do CPC.
+A propósito, trechos do acórdão:
+O fato de a obrigação original ter sido pactuada em sacas de soja (coisa fungível), vencidas as parcelas ajustadas, possível a conversão da obrigação em pagamento de quantia, nos termos do art. 809 do CPC1.
+Inclusive, o Juízo Singular, em suas razões de decidir ( evento 54, DESPADEC1) bem anotou estar (..) claro que as obrigações venceram-se em 30/04/2017, 30/04/2018 e 30/04/2019 (evento 2, INIC E DOCS2 p. 13). Com o vencimento da obrigação e seu inadimplemento, o que é incontroverso nos autos, possibilitada sua conversão em pagamento de quantia certa, (..)
+Nesse passo, não há falar em nulidade processual, sequer em extinção do processo, porquanto, comprovado o fato constitutivo do direito da parte agravada, diante da ausência de entrega dos bens pactuados, plenalmente viável a conversão da obrigação em pagamento como prevê a lei.
+Nesse sentido, como se sabe, o art. 497 do CPC estabelece que, nas obrigações de fazer, o juiz concederá tutela específica ou, se procedente o pedido, providências que assegurem resultado prático equivalente. Contudo, sobrevindo a impossibilidade material de cumprimento da obrigação, "a obrigação somente se converterá em perdas e danos se assim for requerido pelo autor ou se impossível a tutela específica ou a obtenção de resultado prático equivalente" (art. 499 do CPC).
+Nesse sentido, esta Corte possui orientação de que é possível a conversão da obrigação de perdas e danos quando impossível o cumprimento de tutela específica (inclusive no âmbito de cumprimento de sentença). Vejam-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo nos próprios autos, mantendo a inadmissão de recurso especial interposto contra acórdão do TJRJ. O acórdão recorrido deu parcial provimento à apelação do condomínio autor e à apelação dos réus em ação de obrigação de fazer c/c indenização por danos materiais, relacionada a vícios construtivos em áreas comuns de um condomínio.
+2. As decisões anteriores. A sentença de primeiro grau condenou as rés a realizar reparos indicados em laudo pericial, fixando prazos para início e término das obras, com previsão de multa em caso de descumprimento. O TJRJ, em decisão monocrática, deu parcial provimento às apelações para ajustar a sentença quanto aos prazos e incluir esclarecimentos do perito.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve omissão no acórdão recorrido quanto à conclusão do perito judicial sobre o prazo para realização das obras e se a conversão da obrigação de fazer em perdas e danos foi correta.
+4. Outra questão em discussão é a aplicação do Código de Defesa do Consumidor, considerando a alegação de inexistência de relação de consumo entre as partes.
+III. Razões de decidir
+5. O Tribunal entendeu que não houve omissão no acórdão recorrido, pois o prazo de 120 dias para conclusão das obras foi devidamente fundamentado, considerando a sugestão do perito e a não obrigatoriedade do juiz em seguir o laudo pericial.
+6. A conversão da obrigação de fazer em perdas e danos foi considerada correta, conforme o art. 499 do CPC/2015, e está em consonância com a jurisprudência do STJ.
+7. A relação entre as partes foi qualificada como consumerista, com base nos arts. 3º, 7º e 14 do CDC, e o recurso da parte não suscitou ofensa a esses dispositivos. Além disso, a revisão dessa conclusão exigiria análise de provas, o que é inviável em recurso especial.
+8. A alegação de violação do art. 369 do CPC/2015 não foi prequestionada na instância ordinária, inviabilizando sua análise no recurso especial.
+IV. Dispositivo e tese
+9. Agravo interno não provido.
+Tese de julgamento: "1. A conversão da obrigação de fazer em perdas e danos é permitida quando a tutela específica não é possível, conforme o art. 499 do CPC/2015. 2. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. 3. O recurso especial não comporta o exame de questões jurídicas cuja análise pressupõe incursão sobre elementos fático-probatórios dos autos. 4. A ausência de prequestionamento impede a análise de dispositivos não discutidos na instância ordinária".
+Dispositivos relevantes citados: CPC/2015, arts. 489, § 1º, IV;
+499; 1.022; CDC, arts. 3º, 7º, 14.Jurisprudência relevante citada:
+STJ, REsp 2.121.365/MG, Min. Regina Helena Costa, Primeira Turma, julgado em 03.09.2024; STJ, AgInt no AREsp 1.322.139/PR, Min. Raul Araújo, Quarta Turma, julgado em 15.08.2022.
+(AgInt no AREsp n. 2.295.199/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+(..) 2. "A jurisprudência desta Corte é firme no sentido de que é possível a conversão da obrigação de fazer em perdas e danos, independentemente de pedido explícito e mesmo em fase de cumprimento de sentença, se verificada a impossibilidade de cumprimento da obrigação específica." (REsp 1760195/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+Incidência da Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão de fls. 114-115, e-STJ. Agravo conhecido para de plano negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.455.221/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. FASE DE CUMPRIMENTO DE SENTENÇA. CONVERSÃO EM PERDAS E DANOS. REQUERIMENTO DO DEVEDOR. DESNECESSIDADE. IMPOSSIBILIDADE DO CUMPRIMENTO DA OBRIGAÇÃO DE FAZER. CULPA DO DEVEDOR. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(..) 2. No caso dos autos, a Corte de origem concluiu que a impossibilidade de cumprimento da obrigação de fazer, que gerou sua conversão em perdas e danos, decorreu de conduta do próprio devedor/agravante. A modificação do entendimento da Corte de origem demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.991.961/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022.)
+Na hipótese dos autos, verifica-se que tanto o Juízo de primeira instância quanto o Tribunal de origem entenderam pela possibilidade de conversão da obrigação de fazer em razão da impossibilidade de cumprimento da entrega das sacas de soja, manifestada, por sua vez, no incontroverso "vencimento da obrigação e seu inadimplemento" por parte da agravante.
+Nesse cenário, verifica-se que o Tribunal decidiu em conformidade com a jurisprudência desta Corte.
+De toda forma, a alteração das conclusões a que chegou o Tribunal de origem, sobretudo com relação às circunstâncias do caso que viabilizam a conversão da obrigação de fazer em obrigação de pagar, demandaria, necessariamente, a análise de cláusulas contratuais e o reexame de fatos e provas, providência vedada pela Súmula 7 do STJ.
+Quanto à alegada ausência de tentativa de cumprimento da obrigação de fazer, observo que a questão não foi objeto de discussão no Tribunal de origem e a parte agravante nem sequer provocou a devida manifestação mediante a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
