@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Augusta Romancini Borges e Outros, desafiando decisão do Tribunal de Justiça do Estado de Santa Catarina, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não ocorreu negativa de prestação jurisdicional, afastando violação ao art. 489, § 1, V, do CPC; (II) há ausência de prequestionamento quanto aos arts. 167 da Lei n. 6.015/1973, 44 da Lei n. 4.591/1964 e 28 e 31 da Lei n. 2.847/1956, aplicando a Súmula 211/STJ; (III) há deficiência de fundamentação quanto aos arts. 19 e 20 do CPC, incidindo a Súmula 284/STF; (IV) incide a Súmula 7/STJ na análise do art. 213 da Lei n. 6.015/1973, por demandar reexame de provas; (V) aplicação, por analogia, da Súmula 283/STF, ante a falta de impugnação de fundamento autônomo do acórdão.
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de impugnar: incidência das Súmulas 7/STJ, 211/STJ e 284/STF.
+A esse respeito, cumpre frisar que a parte agravante não realizou o imprescindível cotejo entre o acórdão estadual e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Ademais, é imperioso frisar que, negado o processamento do recurso especial ante a ausência de prequestionamento da matéria veiculada no apelo raro, é essencial que as razões do agravo demonstrem o seu efetivo debate pelo acórdão recorrido, cuja providência, no caso, não ocorreu.
+Ainda, no que diz respeito à Súmula 284/STF, é certo que, para impugnar tal entendimento, cabia ao agravante transcrever os devidos trechos correspondentes do seu arrazoado, no sentido de efetivamente comprovar que seu recurso especial foi fundamentado de forma correta, inexistindo na sua argumentação qualquer tipo de deficiência.
+Logo, não tendo havido efetiva impugnação a tais fundamentos da decisão denegatória de admissibilidade do recurso especial, não merece conhecimento o agravo em recurso especial.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
