@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIO LEANDRO DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal (fls. 4.405/4.422).
+No recurso especial (fls. 4.457/4.471), o agravante requereu, em síntese, a anulação do acórdão com a submissão dos autos a novo Júri, alegando violação ao art. 593, III, "d", do CPP, sustentando que a decisão dos jurados foi manifestamente contrária à prova dos autos, uma vez que não existem indícios de autoria suficientes para sua condenação.
+Inadmitido o recurso na origem (fls. 4.506/4.509), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 4.527/4.544).
+O Ministério Público Federal opinou pelo não provimento do recurso.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende o recorrente a anulação do julgamento pelo Tribunal do Júri, sustentando que a decisão dos jurados foi manifestamente contrária à prova dos autos, alegando inexistência de indícios de autoria suficientes para sua condenação.
+O voto condutor do acórdão assim fundamentou a manutenção da decisão do Tribunal do Júri (fls. 4.405/4.422):
+Afasto a insurgência das defesas acerca da existência de decisão manifestamente contrária à prova dos autos. Somente pode ser acatada a tese de decisão manifestamente contrária a prova dos autos quando a decisão dos jurados não encontrar apoio em qualquer prova produzida em contraditório judicial. Não é o que ocorre no caso em exame. No caso concreto, a decisão não é manifestamente contrária à prova dos autos, uma vez que há vertente probatória, dando conta de que a vítima teria sido atingida por disparos de arma de fogo efetuadas pelos réus. Há o depoimen to de dois policiais militares - que efetuaram a prisão em flagrante dos réus -, aduzindo que na ocasião dos fatos, em patrulhamento, ouviram disparos de arma de fogo e logo avistaram um carro andando na contramão no escuro com as luzes apagadas, razão pela qual procederam a abordagem. Quando da prisão efetuada, lograram êxito em encontrar armas de fogo com os tripulantes, bem assim, ao depois, localizaram o corpo da vítima 50 metros distante do local da abordagem. Assim, há substrato probatório para manutenção da decisão condenatória, inclusive da qualificadora do recurso que dificultou a defesa na vítima.
+Ou seja, o Tribunal de origem, soberano na análise fático-probatória, entendeu pela existência de elementos probatórios suficientes para sustentar a decisão condenatória do Conselho de Sentença. A reversão desse entendimento demanda inevitável revolvimento do contexto fático-probatório, inviabilizado pela Súmula 7/STJ.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS DA AUTORIA. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
