@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GUSTAVO GERALDO FERREIRA - na execução de condenação da pena privativa de liberdade, em razão da condenação por roubo -, atacando-se o acórdão proferido pelo Tribunal de Justiça de Santa Catarina (fls. 10/14 - Agravo de Execução Penal n. 8000503-05.2025.8.24.0020), comporta pronto acolhimento.
+Com efeito, a impetração busca restabelecer a decisão concessiva de trabalho externo - na Execução da Pena n. 8001111-37.2024.8.24.0020 (fls. 23/30, da Vara de Execuções Penais da comarca de Criciúma/SC), cassada em grau recursal (fls. 10/14) -, ao argumento de irretroatividade da Lei n. 14.843/2024 por se tratar de norma de direito penal material mais gravosa que restringe o trabalho externo sem vigilância direta para crimes hediondos ou cometidos com violência ou grave ameaça, em violação do art. 5º, XL, da Constituição Federal e do princípio da individualização da pena (fls. 5/6).
+Sem pedido liminar.
+Embora se trate de impetração indevidamente utilizada como substitutivo de recurso próprio, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento, pois o Tribunal de origem assentou a aplicabilidade imediata da Lei n. 14.843/2024 (art. 122, § 2º, da LEP), por reputar a norma de natureza processual, regida pelo princípio tempus regit actum, concluindo que o trabalho externo sem vigilância direta está vedado aos condenados por crimes cometidos com violência ou grave ameaça, caso do roubo imputado ao paciente (fls. 11/13), em discordância com o entendimento desta Corte Superior (AgRg no HC n. 966.842/SC, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Em razão disso, concedo liminarmente a ordem para, cassando o acórdão hostilizado, restabelecer a decisão que deferiu trabalho externo ao paciente, na Execução da Pena n. 8001111-37.2024.8.24.0020, da Vara de Execuções Penais da comarca de Criciúma/SC.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRABALHO EXTERNO. LEI N. 14.843/2024. ART. 122, § 2º, LEP. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE. NOVATIO LEGIS IN PEJUS. CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente nos termos do dispositivo.
