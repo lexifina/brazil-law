@@ -1,0 +1,92 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual RAMONA PEREIRA MORI se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 153):
+AGRAVO DE INSTRUMENTO - Ação indenizatória - Seguro Habitacional - Fase de cumprimento de sentença - Decisão que acolheu parcialmente impugnação ao cumprimento de sentença para determinar a exclusão dos juros de mora sobre o valor da multa decendial - Inconformismo da exequente - Descabimento - Os juros de mora não compõem a base de cálculo da multa decendial, porquanto esta se restringe ao valor da indenização fixada acrescida, apenas, da correção monetária - Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 189/192).
+A parte recorrente, inicialmente, requer a suspensão do feito até o julgamento do REsp 1.953.648/SP, qualificado pela Comissão Gestora de Precedentes do Superior Tribunal de Justiça (STJ) como representativo da controvérsia (fls. 168/169).
+Aponta violação do art. 1.022 do Código de Processo Civil/2015 (CPC/2015) e do art. 557, § 1º, do CPC/1973, por omissão no acórdão acerca da tese de coisa julgada.
+Alega contrariedade aos arts. 502, 503, 505, 507 e 508 do CPC/2015, sustentando que a limitação da multa decendial em execução não observou a coisa julgada e o ato jurídico perfeito. Afirma que a matéria "em nenhum momento havia sido discutida no processo" (fl. 170).
+Sustenta violação aos arts. 92, 412, 884 do Código Civil e ao art. 47 do Código de Defesa do Consumidor (CDC), defendendo que o acórdão recorrido teria transgredido a legislação ao excluir os juros moratórios da base de cálculo da multa contratual decendial, o que configuraria enriquecimento ilícito da seguradora e violação das normas que regem a mora e as perdas e danos. Aduz, também, que a interpretação contratual deve ocorrer da forma mais favorável ao consumidor.
+Indica infringência ao art. 781 do Código Civil, por ser vedada a limitação da cláusula penal na mora da seguradora.
+Requer o provimento do recurso, a fim de que seja afastada a limitação da multa decendial (fl. 177).
+Contrarrazões apresentadas às fls. 196/203.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado (fls. 207/210).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+De início, o pedido de suspensão do trâmite processual até o julgamento do recurso selecionado como representativo da controvérsia está prejudicado, uma vez que a indicação do REsp 1.953.648/SP foi rejeitada pelo Ministro Relator Marco Buzzi, por decisão publicada em 28/8/2023.
+Na origem, cuida-se de ação de indenização securitária por danos físicos em imóvel ajuizada por RAMONA PEREIRA MORI contra a COMPANHIA EXCELSIOR DE SEGUROS, em razão de vícios construtivos cobertos por seguro habitacional vinculado ao Sistema Financeiro de Habitação (SFH).
+A controvérsia envolve a incidência de juros moratórios sobre a multa contratual decendial e a limitação dessa ao valor da obrigação principal.
+Em fase de cumprimento de sentença, o Juízo de primeiro grau acolheu em parte a impugnação à execução e decidiu o seguinte (fls. 77/78):
+ ..  consigno que sobre a multa decendial não deve incidir juros moratórios, em consonância ao entendimento que tem prevalecido neste E. Tribunal de Justiça sobre o tema:
+ ..
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO negou provimento ao agravo de instrumento interposto pela recorrente, nos seguintes termos (fls. 153/156):
+Sustenta a agravante, em síntese, que os cálculos apresentados estão corretos, porquanto a obrigação principal também compreende os juros de mora.
+ ..
+O recurso não comporta provimento.
+Isto porque, conforme acertadamente consignou o Juiz "a quo", os juros de mora não compõem a base de cálculo da multa decendial, porquanto esta se restringe ao valor da indenização fixada acrescida, apenas, da correção monetária, conforme consignado na cláusula 17, item 3, do respectivo contrato de seguro, verbis:
+"A falta de pagamento da indenização, no prazo fixado no item 16.2 da Cláusula 16ª destas Condições, sujeitará a Seguradora ao pagamento da multa de 2% (dois por cento) sobre o valor da indenização devida, para cada decêndio ou fração de atraso, sem prejuízo da aplicação da correção monetária cabível".
+A amparar a decisão impugnada, tem-se o seguinte julgado da lavra do Desembargador MOREIRA VIEGAS, que encerra verdadeira lição:
+"Agravo de Instrumento - ação de indenização securitária - cumprimento de sentença incompetência Justiça Estadual, necessidade de intimação da CEF, matéria coberta pelo manto da coisa julgada, nos termos dos artigos 468 e 474 do Código de Processo Civil - os juros de mora não podem incidir sobre o valor da multa decendial por ser cláusula penal acessória da obrigação principal, qual seja indenização securitária e, assim sendo, não representa capital do qual o credor foi privado, ao contrário do que ocorria com o valor principal da obrigação - não podem incidir os juros sobre o acessório - redução do valor da multa decendial não merece acolhimento haja vista estar respeitado o limite previsto no art. 412 do CC - Recurso parcialmente provido
+ ..
+Quando a obrigação não é cumprida no seu termo, incidem juros de natureza moratória, porque o credor, privado do capital que representa a prestação, deixou de perceber os frutos que ele é capaz de produzir.
+Sucede que a multa decendial é cláusula penal acessória da obrigação principal, qual seja indenização securitária e, assim sendo, não representa capital do qual o credor foi privado, ao contrário do que ocorria com o valor principal da obrigação. Consequentemente, não podem incidir os juros sobre o acessório ou, em outras palavras, acessório sobre acessório, porque o valor da referida multa, que não integrava o patrimônio do credor e passou a ser devida exclusivamente por força da sentença, não produz frutos". (Agravo de Instrumento nº 2089882-17.2015.8.26.0000; 5ª Câmara de Direito Privado, Relator MOREIRA VIEGAS; j. 01.07.2015).
+A parte recorrente opôs embargos de declaração na origem, indicando omissão no acórdão sobre a tese de violação à coisa julgada (fl. 178).
+Ao apreciar o recurso integrativo, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu o seguinte (fls. 190/191):
+A decisão em epígrafe não pode ser rotulada de omissa, pois enfrentou as questões suscitadas no recurso submetido à apreciação do colegiado, sendo oportuno relembrar, também, que o órgão julgador não está obrigado a debater ou rebater, ponto por ponto, as razões das partes, colhendo delas apenas o que é relevante para fundamentar o julgado e até as despreza de todo, sem que se increpe nulidade, "ius novit curia" (In RJTJESP 79/223 e 225).
+ ..
+O que persegue a embargante, na verdade, é o reexame da decisão de fls. 152/157, o que, obviamente, é inadmissível, a teor do que dispõe o já citado artigo 1.022 do Estatuto Adjetivo.
+Embora a Corte de origem não tenha se pronunciado expressamente acerca da tese de violação à coisa julgada, fundamentadamente decidiu que "os juros de mora não compõem a base de cálculo da multa decendial, porquanto esta se restringe ao valor da indenização fixada acrescida, apenas, da correção monetária, conforme consignado na cláusula 17, item 3, do respectivo contrato de seguro" (fl. 154).
+Ademais, a recorrente admite que a matéria "em nenhum momento havia sido discutida no processo" (fl. 170), afirmação que contradiz a tese de violação à coisa julgada.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A recorrente sustenta que a limitação da multa decendial foi indevida, caracterizando ofensa à coisa julgada e ao ato jurídico perfeito, bem como enriquecimento sem causa da seguradora e a desconsideração à necessidade de interpretação contratual da forma mais favorável ao consumidor.
+Porém, verifico que os arts. 502, 503, 505, 507 e 508 do CPC/2015, os arts. 92 e 884 do Código Civil e o art. 47 do Código de Defesa do Consumidor (CDC) não foram apreciados pelo Tribunal de origem, nem foram objeto dos embargos de declaração apresentados, os quais buscaram, de forma genérica e não fundamentada, apenas pronunciamento acerca de "ofensa à coisa julgada".
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ainda no que concerne à tese de ofensa à coisa julgada, cabe também destacar que, ao contrário do que defende a recorrente, no acórdão que julgou as apelações das partes, constou o seguinte (fls. 43/49):
+A autora também recorreu, reiterando o agravo retido de fls. 646/648. Postula aplicação da multa decendial, sem limite, e majoração da verba honorária.
+ ..
+Referida indenização, ainda, deve ser acrescida da multa decendial, como pediu a autora. De acordo com o entendimento esposado pelo Egrégio Superior Tribunal de Justiça: "É devida a multa decendial, pactuada entre as partes para o caso de atraso do pagamento da indenização objeto do seguro obrigatório" (Ag.Rg. no AREsp. n. 99486/PE, rel. Min. Sidnei Benetti, j. 15.05.2012).
+Anoto, em relação à referida multa, que deve ser respeitada a regra estatuída no art. 412, do Código Civil. Nada justifica que o valor da multa sobreponha-se ao da obrigação principal e, prevista na apólice, é, evidentemente, acessória.
+De outra parte, em se tratando de cláusula penal acessória da obrigação principal, qual seja, da indenização securitária, a multa decendial não representa capital do qual o credor esteve privado, ao contrário do que ocorre com a obrigação principal. Por consequência, não podem incidir juros sobre o acessório - acessório sobre acessório - porque referida multa, não integrante do patrimônio do credor, passou a ser devida exclusivamente por força da decisão condenatória, e, via de consequência, não produz frutos.
+ ..
+Pelo exposto, NÃO CONHECO PARTE do recurso interposto pela ré e, na parte conhecida, a ele NEGO PROVIMENTO. DOU PARCIAL PROVIMENTO ao apelo da autora para condenar as rés a pagarem indenização securitária nos valores apurados em perícia, corrigidos monetariamente pela tabela do TJSP a partir da entrega do laudo e acrescidos de juros de mora de 1% ao mês, contados da citação, sem prejuízo da pena convencional de 2% sobre o valor da indenização, para cada decêndio ou fração de atraso, contando-se da citação e limitada até 100% do valor total do dano a ser indenizado.
+Nesse contexto, não encontra amparo a alegação de ofensa à coisa julgada, eis que o título executivo expressamente analisou a controvérsia em sentido oposto ao que afirma a recorrente.
+No que tange à alegação de violação do art. 557, § 1º, do CPC/1973, a parte recorrente não fez sua indicação acompanhada de argumentação específica sobre o modo como foi violado, assim, há deficiência de fundamentação, razão pela qual incide no ponto, por analogia, a Súmula 284/STF e dessa parte do recurso não é possível conhecer.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE ERRO NOS CÁLCULOS DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ADEQUAÇÃO DA MEMÓRIA DE CÁLCULO AO TÍTULO JUDICIAL EXECUTIVO. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+ ..
+3. O recorrente não enfrentou especificamente os fundamentos da decisão agravada, limitando-se a apresentar argumentação genérica sobre a suposta violação legal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia, em razão da deficiência na fundamentação do Recurso.
+4. A jurisprudência do STJ é pacífica no sentido de ser inadmissível o Recurso Especial quando o agravante não demonstra de forma adequada e específica o equívoco na decisão que não admitiu o Recurso, conforme princípio da dialeticidade.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.409.038/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2024, DJe de 7/5/2024, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. CONSELHO PROFISSIONAL. ANUIDADE. REGULAR CONSTITUIÇÃO DO CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+ ..
+II - Revela-se deficiente a argumentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.921.863/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 22/3/2021, DJe de 25/3/2021, sem destaque no original.)
+Por outro lado, quanto à alegação da parte recorrente de que os juros de mora não podiam ser excluídos da base de cálculo da multa contratual decendial, o que configuraria enriquecimento ilícito da seguradora e violação das normas que regem a mora e as perdas e danos, verifica-se que o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO aplicou o entendimento desta Corte Superior de que a multa decendial é aplicável em caso de atraso no pagamento da indenização do seguro obrigatório, nos contratos do Sistema Financeiro de Habitação (SFH), com seu valor limitado ao da obrigação principal.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. IMÓVEL FINANCIADO PELO SFH. MULTA DECENDIAL. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Nos termos da jurisprudência do Superior Tribunal de Justiça, a multa decendial incidente no seguro habitacional deve ser limitada ao valor da obrigação principal, sendo inviável o acréscimo de juros, sob pena de afronta ao art. 412 do Código Civil" (AgInt no REsp n. 2.005.430/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/10/2024, DJe de 7/10/2024).
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.876.938/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/3/2025, DJEN de 26/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. INCIDÊNCIA DE JUROS SOBRE A MULTA DECENDIAL. IMPOSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+4. Nos termos da jurisprudência desta Corte, a multa decendial no seguro habitacional é limitada ao valor da obrigação principal, sendo inviável o acréscimo de juros, sob pena de afronta ao art. 412 do Código Civil. Súmula n. 83 do STJ.
+5. Agravo conhecido para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.866.340/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025 - sem destaques no original.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA (URGENTE). DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO EVIDENCIADA. INDENIZAÇÃO POR VÍCIOS CONSTRUTIVOS. MULTA DECENDIAL. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. IRRESIGNAÇÃO QUANTO A MATÉRIAS DECIDIDAS. PRECLUSÃO. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. Outrossim, "a multa decendial no seguro habitacional é limitada ao valor da obrigação principal, sendo inviável o acréscimo de juros, sob pena de afronta ao art. 412 do Código Civil" (REsp 2.187.030/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2025, DJEN de 5/3/2025).
+4. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+5. O Tribunal de Justiça, analisando as circunstâncias do caso, consignou que "o novo julgamento abrange somente as questões apreciadas pelo Tribunal Superior, estando preclusas as demais matérias, sequer conhecidas no julgamento". A modificação do entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.856.667/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/6/2025, DJEN de 24/6/2025 - sem destaques no original.)
+Por fim, a parte recorrente não indicou nas razões de seu recurso especial qual seria o dispositivo de lei federal objeto de interpretação controvertida nos Tribunais, providência exigida por esta Corte Superior para o conhecimento dos recursos especiais interpostos com fundamento na alínea c do art. 105, inciso III, da Constituição Federal.
+No presente caso, por analogia, incide a Súmula 284 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Publique-se. Intimem-se.
+ EMENTA
