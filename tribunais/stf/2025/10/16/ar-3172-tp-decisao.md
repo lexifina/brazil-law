@@ -1,0 +1,84 @@
+DECISÃO:
+
+Ementa: Direito constitucional e Previdenciário. Tutela provisória em ação rescisória. Aposentadoria de servidora estabilizada. Art. 19 do ADCT. Contrariedade à tese de repercussão geral. Liminar deferida.
+I.	Caso em exame
+    1.  Ação rescisória fundada no art. 966, V, do CPC, em que se objetiva a desconstituição da decisão proferida no  ARE 1.387.131, a qual determinou que a aposentadoria de servidora estabilizada na forma do art. 19 do ADCT fosse vinculada ao Regime Geral da Previdência Social (RGPS) - e não ao Regime Próprio da Previdência Social (RPPS).
+II.	Questão em discussão
+    2. As questões em discussão consistem em saber, em juízo de cognição sumária, se: (i) é admissível a propositura de ação rescisória por alegada contrariedade entre a coisa julgada e a modulação de efeitos que veio a ser estabelecida no RE 1.426.306 (Tema 1.254/RG); e (ii) foram preenchidos os requisitos para concessão da tutela provisória, a fim de restabelecer o pagamento do benefício pelo RPPS.
+III.	Razões de decidir
+    3. Precedentes desta Corte vem admitindo o processamento de ações rescisórias que objetivam adequar a coisa julgada à modulação dos efeitos da tese firmada pelo Supremo Tribunal Federal para o Tema 1.254/RG.
+    4. Probabilidade do direito alegado. No RE 1.426.306 (Tema 1.254/RG), esta Corte decidiu que apenas servidores detentores de cargos efetivos são vinculados ao RPPS. Em embargos de declaração, foram "ressalvadas as aposentadorias e pensões já concedidas ou com requisitos já satisfeitos até a data da publicação da ata de julgamento destes embargos declaratórios". Em juízo de cognição sumária, a autora se enquadra nessa ressalva, já que havia obtido a aposentadoria pelo RPPS em 2016.
+    5. Perigo de dano. A parte autora é pessoa idosa, com mais de setenta anos de idade, e depende do benefício previdenciário, de natureza alimentar, para prover a própria subsistência.
+IV.	Dispositivo e tese
+    6. Deferimento da tutela provisória de urgência, submetida a posterior referendo pelo Plenário (art. 21, V, RISTF), para suspender os efeitos da decisão rescindenda, com o consequente retorno do pagamento dos proventos de aposentadoria pelo RPPS do Tocantins, sustando-se o benefício vinculado ao RGPS.
+____
+Dispositivos relevantes citados: Código de Processo Civil, arts. 966, V,  975, 525, § 15 e 535, § 8º.
+Jurisprudência relevante citada: RE 1.426.306 – ED - Tema 1.254/RG (2024), Rel. Min. Luís Roberto Barroso; RE 1.489.56 - Tema 1.338/RG (2024), Rel. Min. Luís Roberto Barroso; AR 2.876 QO (2025), Rel. Min. Gilmar Mendes; AR 3.143 TP-Ref (2025), Rel. Min. Gilmar Mendes; AR 3.099 TP-Ref (2025), Rel. Min. Dias Toffoli; AR 3.106 MC-Ref e  e AR 3.078 MC-Ref (2025), Rel. Min. Flávio Dino; AR 3.074 MC-Ref (2025), Rel. Min. Nunes Marques; AR 3.096 TP-Ref (2025), Rel. Min. Gilmar Mendes; AR 3.126 TP-Ref e AR 3.097 TP-Ref (2025), Rel. Min. Edson Fachin.
+    1. Trata-se de ação rescisória, com pedido de tutela provisória, em que se pretende a desconstituição da decisão monocrática proferida pela Ministra Cármen Lúcia (Relatora) no ARE 1.387.131 (em 20.06.2022), a qual deu provimento ao recurso para determinar que a aposentadoria de servidora estabilizada na forma do art. 19 do Ato das Disposições Constitucionais Transitórias fosse vinculada ao Regime Geral da Previdência Social. Essa decisão recebeu a seguinte ementa:
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORA PÚBLICA APOSENTADA. ESTABILIDADE DO ART. 19 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE SERVIDORES ESTÁVEIS NÃO EFETIVOS E SERVIDORES EFETIVOS. VINCULAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. DESAPOSENTAÇÃO. IMPUGNAÇÃO DEFICIENTE: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO PROVIDO E RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.
+
+    2. A parte autora alega a ocorrência de manifesta violação a norma jurídica (art. 966, V, do CPC), tendo em vista que, posteriormente, o Supremo Tribunal Federal firmou tese no sentido de preservar aposentadorias e pensões concedidas ou com requisitos já satisfeitos até 17.06.2024 (RE 1.426.306 – ED, paradigma do Tema 1.254 da Repercussão Geral, sob a minha relatoria, j. em 11.06.2024). Destaca que sua aposentadoria foi concedida em 2016, pelo IGEPREV/TO, motivo pelo qual o benefício deve ser restabelecido. Cita precedentes no sentido da “possibilidade de utilização da ação rescisória para adequação de acordão transitado em julgado à modulação de efeitos realizada em tese de repercussão geral”. Afirma, ainda, que o prazo bienal para a propositura da ação deve ser contado a partir da publicação da ata do julgamento proferido no citado RE 1.426.306 – ED, em conformidade com o decidido na AR 2.876 QO (Rel. Min. Gilmar Mendes, em 24.04.2025).
+
+    3.   Com base nesses argumentos, a parte autora pede a concessão de tutela de urgência, para determinar ao IGEPREV/TO que restabeleça o pagamento do benefício até o julgamento do mérito da ação. Argumenta que os requisitos à concessão de aposentadoria foram preenchidos antes do marco temporal fixado por esta Corte no âmbito do Tema 1.254/RG e que a cessação do pagamento compromete sua subsistência, visto que possui 72 anos, não conta com outra fonte de renda e atualmente recebe proventos pelo Regime Geral de Previdência Social em valor inferior ao benefício concedido pelo regime próprio dos servidores. Acrescenta que depende do restabelecimento do vínculo para usufruir de plano de saúde disponibilizado para inativos. Por fim, argumenta que não há risco de dano inverso, na medida em que valores eventualmente indevidos poderão ser restituídos.
+
+    4. É o relatório. Decido.
+
+    5. Inicialmente, defiro o pedido de gratuidade de justiça à parte autora, motivo pelo qual deixo de exigir o depósito prévio, conforme dispõe o art. 968, II e §1º, do Código de Processo Civil (“CPC”).
+
+    6. Observo que a presente ação foi ajuizada em 27.09.2025, após o decurso do prazo de dois anos previsto no art. 975 do CPC, tendo em vista que a decisão rescindenda transitou em julgado em 16.09.2022. No entanto, a parte autora alega que o prazo decadencial deve ser contado a partir da decisão que modulou os efeitos da tese fixada por esta Corte para o Tema 1.254 da Repercussão Geral (RE 1.426.306 – ED, sob a minha relatoria, j. em 11.06.2024).
+
+    7. Em precedente similar (AR 3.143 TP-Ref, Rel. Min. Gilmar Mendes, j. em 22.09.2025), o Plenário desta Corte referendou, por unanimidade, decisão cautelar que adotou o referido marco temporal para a contagem do prazo decadencial previsto no art. 975 do CPC. Essa decisão se baseou no julgamento da questão de ordem suscitada na AR 2.876 (Rel. Min. Gilmar Mendes, j. em 23.04.2025), em que foi firmado o seguinte enunciado:
+
+"O § 15 do art. 525 e o § 8º do art. 535 do Código de Processo Civil devem ser interpretados conforme à Constituição, com efeitos ex nunc, no seguinte sentido, com a declaração incidental de inconstitucionalidade do § 14 do art. 525 e do § 7º do art. 535:
+1. Em cada caso, o Supremo Tribunal Federal poderá definir os efeitos temporais de seus precedentes vinculantes e sua repercussão sobre a coisa julgada, estabelecendo inclusive a extensão da retroação para fins da ação rescisória ou mesmo o seu não cabimento diante do grave risco de lesão à segurança jurídica ou ao interesse social.
+2. Na ausência de manifestação expressa, os efeitos retroativos de eventual rescisão não excederão cinco anos da data do ajuizamento da ação rescisória, a qual deverá ser proposta no prazo decadencial de dois anos contados do trânsito em julgado da decisão do STF.
+3. O interessado poderá apresentar a arguição de inexigibilidade do título executivo judicial amparado em norma jurídica ou interpretação jurisdicional considerada inconstitucional pelo STF, seja a decisão do STF anterior ou posterior ao trânsito em julgado da decisão exequenda, salvo preclusão (Código de Processo Civil, arts. 525, caput, e 535, caput)" (destaques acrescentados).
+
+    8. No mesmo sentido: AR 3.139 MC-Ref e AR 3.135 TP-Ref, ambas sob Relatoria do Min. Flávio Dino, j. em 15.09.2025.
+
+    9. De acordo com essa lógica, a presente ação é, em tese, tempestiva, já que a sua propositura ocorreu: (i) após a publicação da ata de julgamento da AR 2.876 QO (em 25.04.2025); e (ii) dentro do prazo de dois anos contados a partir da publicação da ata de julgamento do RE 1.426.306 ED (em 17.06.2024), sem exceder o marco de cinco anos da data do ajuizamento da ação. Assim, sem prejuízo do melhor exame dessa questão após o estabelecimento do contraditório, recebo a petição inicial e passo ao exame do pedido liminar.
+
+    10. O deferimento do pedido de tutela de urgência pressupõe a existência de elementos que evidenciem a probabilidade do direito alegado e o perigo de dano ou risco ao resultado útil do processo (arts. 300 e 969 do CPC). Considero que esses requisitos foram preenchidos no presente caso.
+
+    11. A parte autora alega que a decisão rescindenda, proferida em 20.06.2022, contraria a modulação de efeitos que veio a ser estabelecida no julgamento do paradigma do Tema 1.254 da Repercussão Geral. No exame do mérito desse recurso (RE 1.426.306, Rel. Min. Rosa Weber, j. em 12.06.2023), esta Corte decidiu que apenas servidores detentores de cargos efetivos são vinculados ao regime próprio de previdência social. Em embargos de declaração, julgados sob a minha relatoria (em 11.06.2024), foram modulados os efeitos da decisão, firmando-se a seguinte tese:
+
+“Somente os servidores públicos civis detentores de cargo efetivo (art. 40, CF, na redação dada pela EC 20/98) são vinculados ao regime próprio de previdência social, a excluir os estáveis nos termos do art. 19 do ADCT e os demais servidores admitidos sem concurso público, ressalvadas as aposentadorias e pensões já concedidas ou com requisitos já satisfeitos até a data da publicação da ata de julgamento destes embargos declaratórios” (destaque acrescentado).
+
+    12. Em juízo de cognição sumária, considero que, em princípio, não se aplica ao caso a Súmula nº 343 do STF, segundo a qual “[n]ão cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais”. Não havia controvérsia jurisprudencial sobre a modulação dos efeitos da tese de repercussão geral em questão.
+
+    13. Além disso, o Supremo Tribunal Federal já admitiu a propositura de ação rescisória fundada em alegada contrariedade entre a coisa julgada e a posterior modulação de efeitos de enunciado de repercussão geral. No RE 1.489.562, paradigma do Tema 1.338/RG, esta Corte firmou a tese de que “[c]abe ação rescisória para adequação de julgado à modulação temporal dos efeitos da tese de repercussão geral fixada no julgamento do RE 574.706 (Tema 69/RG)” (sob a minha Relatoria, j. em 18.10.2024). Com base nesse precedente, o Plenário vem referendando decisões cautelares que: (i) admitiram o processamento de ações rescisórias que debatem a mesma questão suscitada nestes autos; e (ii) concederam a tutela de urgência para suspender os julgados que se encontram em aparente desacordo com a modulação temporal estabelecida para o Tema 1.254/RG. Confira-se:
+
+Ementa: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO. REFERENDO EM TUTELA PROVISÓRIA NA AÇÃO RESCISÓRIA. CABIMENTO DE AÇÃO RESCISÓRIA CONTRA DECISÃO EM CONTRARIEDADE COM POSTERIOR MODULAÇÃO DOS EFEITOS DE TESE DE REPERCUSSÃO GERAL. POSSIBILIDADE. NÃO INCIDÊNCIA DA SÚMULA 343/STF. PRECEDENTE: RE 574.706 - TEMA 69/RG. DECISÃO RESCINDENDA EM DESACORDO COM A TESE FIXADA NO TEMA 1.254 DA REPERCUSSÃO GERAL, QUE EXPRESSAMENTE RESSALVOU AS APOSENTADORIAS E PENSÕES JÁ CONCEDIDAS OU COM REQUISITOS SATISFEITOS ATÉ A DATA DA PUBLICAÇÃO DA ATA DE JULGAMENTO DOS EMBARGOS DECLARATÓRIOS. MODULAÇÃO TEMPORAL DE EFEITOS OCORRIDA NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO NO TEMA 1.254/RG QUE SE APLICA À SITUAÇÃO DA AUTORA. PESSOA IDOSA E QUE DEPENDE EXCLUSIVAMENTE DOS PROVENTOS DE APOSENTADORIA PARA SUA SUBSISTÊNCIA. PRESENÇA DO FUMUS BONI IURIS E DO PERICULUM IN MORA. REFERENDO INTEGRAL.
+I. CASO EM EXAME
+1. Ação rescisória, com fundamento no art. 966, V, do CPC, em que se objetiva a desconstituição da decisão proferida no ARE 1.360.527/TO, de relatoria do Ministro Edson Fachin, com o consequente restabelecimento do pagamento da aposentadoria da autora até o julgamento final desta ação.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se é cabível a utilização da ação rescisória para adequação de acórdão transitado em julgado à modulação de efeitos realizada em sede de repercussão geral; e (ii) saber se o acórdão rescindendo viola manifestamente norma jurídica ao não considerar a modulação de efeitos realizada pelo Supremo Tribunal Federal no julgamento do tema 1.254 (RE 1.426.306/TO).
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STF tem admitido o cabimento de ação rescisória contra julgados em contrariedade com posterior modulação dos efeitos de tese de repercussão geral em oposição à tese de que haveria incidência da Súmula 343/STF e/ou tema 136 da repercussão geral, porque “[i]nexiste, na espécie, posterior superação de precedente a implicar óbice ao cabimento de ação rescisória” (RE 1.478.035 AgR).
+4. Presença do fumus boni iuris. No julgamento dos embargos de declaração opostos no RE 1.426.306 – tema 1.254, esta Corte modulou os efeitos da decisão, com o acréscimo de esclarecimentos à tese fixada no referido paradigma, para ressalvar "(...) as aposentadorias e pensões já concedidas ou com requisitos já satisfeitos até a data da publicação da ata de julgamento destes embargos declaratórios", situação em que se enquadra a autora.
+5. Quanto ao periculum in mora, está demonstrado que a demandante é pessoa idosa, prestes a completar 70 (setenta) anos de idade e depende exclusivamente dos proventos de aposentadoria para sua subsistência.
+IV. DISPOSITIVO E TESE
+6. Deferimento da tutela provisória de urgência pleiteada, para que sejam suspensos os efeitos da decisão ora rescindenda, com o consequente retorno imediato do pagamento à autora dos proventos de aposentadoria vinculada ao Regime Próprio de Previdência Social de Tocantins (RPPS/TO) e a suspensão do benefício atualmente percebido e vinculado ao RGPS, até o julgamento definitivo desta ação rescisória.
+7. Liminar referendada.
+(AR 3.143 TP-Ref, Rel. Min. Gilmar Mendes, Tribunal Pleno, j. em 22.09.2025) (destaques acrescentados)
+
+    14. Em igual sentido: AR 3.099 TP-Ref, Rel. Min. Dias Toffoli, Tribunal Pleno, j. em 25.04.2025; AR 3.106 MC-Ref e AR 3.078 MC-Ref, Rel. Min. Flávio Dino, Tribunal Pleno, j. em 07.05.2025; AR 3.074 MC-Ref, Rel. Min. Nunes Marques, Tribunal Pleno, j. em 19.05.2025; AR 3.096 TP-Ref, Rel. Min. Gilmar Mendes, Tribunal Pleno, j. em 07.05.2025; AR 3.126 TP-Ref, Rel. Min. Edson Fachin, Tribunal Pleno, j. em 19.08.2025.
+
+    15. No caso, a plausibilidade do direito alegado decorre do fato de que a autora obteve a concessão de sua aposentadoria por meio da Portaria 189 de 7 de março de 2016, do IGEPREV/TO. Em juízo de cognição sumária, isso indica que: (i) em tese, ela se enquadra na ressalva contida na tese firmada para o Tema 1.254 da Repercussão Geral; e (ii) por consequência, a decisão rescindenda está, em princípio, em desacordo com o precedente de observância obrigatória.
+
+    16. Além disso, a autora demonstrou a existência de risco de dano. Trata-se de pessoa idosa, com 71 anos de idade, que afirma não possuir outra fonte de renda além do benefício previdenciário, de natureza alimentar. Segundo se extrai dos autos, a sua vinculação ao Regime Geral da Previdência Social acarretou a diminuição do valor da aposentadoria, que havia sido concedida pelo IGEPREV, em 2016, no valor de R$2.949,88. Logo, há risco de prejuízo a sua subsistência.
+
+    17. Ante o exposto, defiro o pedido de tutela de urgência, nos termos dos arts. 300 e 969 do CPC, para o fim de suspender os efeitos da decisão rescindenda até o julgamento do mérito desta ação, com o consequente retorno do pagamento da aposentadoria concedida à autora pelo Regime Próprio da Previdência Social do Tocantins, sustando-se o pagamento vinculado ao RGPS.
+
+    18.  Submeta-se a presente decisão a referendo pelo Plenário, nos termos do art. 21, V, e §5º do Regimento Interno do Supremo Tribunal Federal.
+
+    19. Anote-se quanto ao deferimento da gratuidade de justiça à parte autora.
+
+    20. Citem-se os réus para oferecimento da contestação no prazo legal. Intimem-se autor e réus a respeito do teor desta decisão.
+
+Publique-se.
+Brasília, 16 de outubro de 2025.
+
+Ministro Luís Roberto Barroso
+Relator
