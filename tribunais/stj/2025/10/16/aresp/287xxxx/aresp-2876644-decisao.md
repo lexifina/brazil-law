@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAANAIM ENGENHARIA CONSTRUTORA E INCORPORADORA LTDA. (ME) contra a decisão que inadmitiu o recurso especial com fundamento pela incidência das Súmulas n. 5 e 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo em recurso especial é tempestivo e que o recurso especial foi corretamente inadmitido porque a controvérsia demanda reexame de provas e interpretação de cláusulas contratuais. Requer a manutenção da decisão de inadmissibilidade e a majoração dos honorários recursais.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em agravo interno na apelação cível nos autos de ação declaratória de nulidade de cláusula contratual c/c rescisão contratual e devolução de quantias pagas.
+O julgado foi assim ementado (fls. 666-667):
+DIREITO CIVIL. DUPLO AGRAVO INTERNO. APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL. INADIMPLEMENTO DA CONSTRUTORA. DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS. CLÁUSULA PENAL. PANDEMIA E FORTUITO INTERNO. DECISÃO MANTIDA.
+I. CASO EM EXAME 1. Duplo Agravo Interno interposto por ambas as partes contra decisão monocrática que conheceu dos apelos e deu provimento parcial ao primeiro e integral ao segundo.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em verificar: (i) a validade da cláusula contratual que transfere ao comprador a comissão de corretagem; (ii) a possibilidade de afastamento ou modificação da cláusula penal em caso de inadimplemento; (iii) a aplicação da pandemia como justificativa para o atraso das obras e a responsabilidade por tributos e taxas incidentes sobre o imóvel.
+III. RAZÕES DE DECIDIR 3. A comissão de corretagem deve ser mantida conforme o Tema 938 do Colendo Superior Tribunal de Justiça. 4. A cláusula penal, prevista apenas para o inadimplemento do comprador, deve ser invertida em favor do consumidor, conforme o Tema 971 do Colendo Superior Tribunal de Justiça. 5. Os atrasos nas obras, causados por entraves burocráticos e pela pandemia, constituem fortuito interno e não eximem a construtora de sua responsabilidade. 6. O comprador não deve responder por tributos até que tenha obtido a posse do imóvel. 7. Ausente fato novo relevante capaz de alterar o entendimento esposado na decisão agravada, impõe-se o desprovimento do Agravo Interno e a manutenção do decisum.
+IV. DISPOSITIVO E TESE 7. Agravos Internos conhecidos e desprovidos. Decisão agravada mantida.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 595-596):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESCISÃO CONTRATUAL E DEVOLUÇÃO DE QUANTIAS PAGAS. CULPA EXCLUSIVA DA CONSTRUTORA. INVERSÃO DA
+CLÁUSULA PENAL. INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL.
+1. Havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ser invertida à empresa que deu causa à rescisão contratual (Tema 971 do Colendo Superior Tribunal de Justiça), em favor do consumidor.
+2. Os embargos declaratórios cingem-se às hipóteses do artigo 1.022 do Código de Processo Civil, não se prestando para rediscutir matérias debatidas e analisadas, cuja decisão desfavorece a parte embargante.
+EMBARGOS CONHECIDOS E REJEITADOS.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 884 do Código Civil, porque a fixação da cláusula penal sobre o valor total do contrato gera enriquecimento sem causa da compradora, visto que a multa deve incidir apenas sobre as parcelas efetivamente pagas, preservando o equilíbrio contratual;
+b) 885 do Código Civil, porquanto a restituição e a indenização devem observar limitação razoável à vantagem obtida, visto que a base de cálculo sobre o total do contrato excede a finalidade ressarcitória da cláusula penal;
+c) 886 do Código Civil, já que a vedação ao locupletamento impõe a incidência da multa entre 10% e 25% sobre as parcelas pagas, e não sobre o valor integral do negócio, sob pena de desvirtuamento da natureza compensatória da cláusula penal.
+Em reforço, a recorrente invoca a Súmula n. 568 do STJ. Afirma que a jurisprudência desta Corte admite, em hipóteses de rescisão por inadimplemento do comprador, a flutuação da retenção entre 10% e 25% das parcelas pagas, o que, porquanto, confirma que a base de cálculo diz respeito às prestações adimplidas.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, de modo que a cláusula penal incida sobre o valor das parcelas pagas.
+Nas contrarrazões, a parte recorrida aduz que o reexame pretendido demanda interpretação contratual e revolvimento do conjunto fático-probatório. Requer a inadmissão ou, subsidiariamente, o desprovimento do especial.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de declaratória de nulidade de cláusula contratual c/c rescisão contratual e devolução de quantias pagas em que a parte autora pleiteou a rescisão do compromisso de compra e venda por atraso na entrega da infraestrutura, a devolução integral das parcelas pagas, a restituição da corretagem e a aplicação de cláusula penal.
+Na decisão monocrática, o Juízo de primeiro grau declarou rescindido o contrato; condenou a empresa à restituição integral das parcelas pagas e da taxa de corretagem; determinou a compensação de IPTU; aplicou cláusula penal de 10% sobre o valor atualizado do contrato e fixou honorários em 10% sobre o valor da condenação, com sucumbência de 30% para a autora e de 70% para a ré (fls. 535-536).
+A Corte estadual, em duplo agravo interno, manteve a decisão monocrática por seus fundamentos, reformando-a apenas para excluir a restituição da corretagem e afastar a retenção de IPTU, mantendo a inversão da cláusula penal, fixada em 10% sobre o valor total do contrato.
+I - Arts. 884, 885 e 886 do Código Civil
+O acórdão recorrido concluiu que, havendo previsão de cláusula penal apenas para o inadimplemento do comprador, deve ser invertida em favor do consumidor, impondo-se o pagamento de 10% do valor total do contrato, porque assim estipulada na avença, além de reconhecer que os atrasos configuram fortuito interno, não eximindo a construtora de sua responsabilidade.
+Confiram-se trechos do julgado (fls. 670-671):
+Quanto ao pedido de afastamento da inversão da cláusula penal, no julgamento do REsp Repetitivo nº 1.614.721/DF (Tema 971 do Colendo Superior Tribunal de Justiça), definiu-se que no contrato de adesão firmado entre o comprador e a construtora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para fixação da indenização pelo inadimplemento da empresa devedora.
+Desse modo, deve ser mantida a inversão da cláusula penal em favor do consumidor, impondo-se o pagamento de "10% do valor total do contrato", porquanto assim estipulada na avença.
+ ..
+Ocorre que no contrato de venda do lote a construtora se comprometeu a entregar toda a infraestrutura do loteamento em 24 (vinte e quatro) meses, com uma prorrogação de 180 (cento e oitenta) dias, de modo que eventuais problemas burocráticos - como os ora reportados - estão inseridos nos riscos de sua própria atividade, sendo que nenhuma das situações descritas se insere nos casos de fortuito ou força maior aptas a eximir a sua responsabilidade.
+Como visto, a controvérsia foi objeto de análise com base em elementos contratuais e probatórios constantes dos autos, de modo que a revisão do entendimento adotado pelo Tribunal de origem demandaria a interpretação de cláusulas contratuais e o reexame de provas, o que é incabível em recurso especial, ante o óbice das Súmulas n. 5 e 7 do STJ.
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
