@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 69):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. SEGURO DE VIDA. Renovação periódica e/ou alteração do valor do prêmio sempre são acompanhadas da emissão de um novo certificado. Art. 2º, VII, Res. CNSP 439, de 04/07/2022. Certificado mais recente engloba as quantias e as atualizações realizadas. Para cada proposta de seguro, deve ser considerado apenas o certificado mais recente, cuja data de emissão deve corresponder ao termo inicial da atualização monetária, sob risco de enriquecimento sem causa. Decisão mantida. Recurso conhecido e não provido.
+No recurso especial, foi alegada violação dos arts. 503 e 508 do Código de Processo Civil.
+Afirma que o acórdão violou a coisa julgada e extrapolou os limites do título executivo judicial, pois excluiu três certificados do cômputo do prêmio devido, bem como fixou como termo inicial da correção monetária a data de emissão dos certificados, em vez da data de contratação.
+Afirma que "as partes apresentaram impugnações aos cálculos periciais apresentados, bem como impugnações aos esclarecimentos, sendo que levado, então, o parecer contábil para avaliação do Juízo, este entendeu por bem HOMOLOGAR, rejeitando assim, integralmente a impugnação aos cálculos de liquidação apresentada pelo Agravante de fls. 412/414 e ainda, determinando que o Recorrente pague/restitua a Recorrida o importe de R$ 8.281,62" (fl. 79).
+Requer, ao final, "o retorno dos autos ao perito judicial para que proceda a realização de novos cálculos considerando as correções acima apontadas, acrescendo em sua apuração os certificados de fls. 20,23 e 24, bem como para que ajuste o início (termo inicial) da aplicação da TR, nos moldes da fundamentação" (fl. 86).
+Contrarrazões apresentadas, pugnando pela incidência dos óbices das Súmulas 5 e 7 do STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se na origem de agravo de instrumento interposto por Jaime de Oliveira contra decisão que, em liquidação de sentença promovida contra Bradesco Vida e Previdência, homologou os cálculos periciais, ocasionando a conversão do agravante de credor a devedor.
+A Corte local, ao analisar o agravo, negou provimento ao recurso, considerando que em liquidação de sentença deve-se adotar o certificado mais recente de cada proposta de seguro, uma vez que ele já contém as quantias e as atualizações anteriormente realizadas. Confira-se (fls. 71/73):
+De proêmio, não se pode acolher a tese de que cada certificado engendraria um direito distinto do capital segurado. É assim, porque, no caso de seguro de vida, a renovação de sua vigência e/ou a alteração do valor do prêmio serão sempre acompanhadas da emissão de um novo certificado, o que não implica um novo seguro a ser recebido.
+Destaca-se, consoante o artigo 2º, inciso VII, da Resolução CNSP nº 439, de 04/07/2022, que certificado individual é o "documento destinado ao segurado, emitido pela sociedade seguradora no caso de contratação coletiva, quando da aceitação do proponente, da renovação do seguro ou da alteração de valores de capital segurado ou Prêmio".
+Em vista disso, deve-se adotar, em liquidação de sentença, o certificado mais recente de cada proposta de seguro, vez que ele já contém as quantias e as atualizações anteriormente realizadas. Admitir o contrário acarretaria a soma em duplicidade dos valores aos quais o beneficiário faz jus e o seu consequente enriquecimento sem causa, o que não se admite.
+Esses motivos impedem também a acolhida da irresignação acerca do termo inicial da atualização monetária.
+Observa-se que a emissão sucessiva de certificados, decorrente da renovação periódica, é acompanhada de sua correção monetária, pois conclui-se que o capital foi periodicamente atualizado, até a data do último certificado.
+Em sentido similar já decidiu este E. Tribunal de Justiça:
+(..)
+Pelo exposto, nada há o que reformar na decisão agravada, ficando, portanto, revogado o efeito suspensivo, outrora concedido.
+De plano, verifico que a questão em torno da ofensa aos arts. 503 e 508 do CPC, alegando o recorrente violação à coisa julgada, não foi objeto de discussão no Tribunal de origem e a parte recorrente nem sequer provocou a devida manifestação mediante a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
