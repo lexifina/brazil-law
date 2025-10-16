@@ -1,0 +1,59 @@
+DECISÃO
+Em análise, recurso especial interposto por ASSOCIAÇÃO PRO SAÚDE DE CLEVELÂNDIA contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 420):
+IMUNIDADE. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL. ART. 195, §7º, CONSTITUIÇÃO FEDERAL. REQUISITOS. CEBAS E ART. 29 DA LEI N. 12.101, DE 2009. NÃO PREENCHIMENTO. RE 566.622 E ADI 4.480.
+Opostos embargos de declaração na origem, estes foram parcialmente acolhidos para sanar omissão sem modificação do julgado (fls. 451-455).
+Nas razões recursais, a parte recorrente sustenta violação aos arts. 373, I, II, e 435, parágrafo único, do CPC; e art. 32 da Lei 12.101/2009, além de alegar violação ao princípio da proibição da reformatio in pejus. Segundo argumenta, em síntese (fls. 471-480):
+O v. acórdão recorrido viola os artigos 435, parágrafo único, e 5º, do CPC, porque autorizou a juntada extemporânea de documento pela recorrida, somente com a apelação, interposta em 01/09/2022, conquanto a ré tenha tido dele conhecimento em 25/03/2022, quase quatro meses antes da prolação da sentença, cinco meses antes da interposição do recurso e dias antes da sua última manifestação nos autos de primeiro grau (evento 18).
+ ..
+A contestação foi apresentada em 07/03/2022. Em 28/03/2022, a recorrida se manifestou novamente nos autos, mas não juntou qualquer documento. A impugnação à contestação foi apresentada em 10/06/2023, oportunidade na qual a autora recorrente, contrapondo os fatos impeditivos ao seu direito formulados pela recorrida, carreou aos autos os balanços patrimoniais referentes aos exercícios de 2018, 2019, 2020 e 2021. Prolatada a sentença em 11/07/2022, julgando integralmente procedentes os pedidos da autora, houve a interposição de apelação pela União, em 01/09/2022, reiterando a alegação de suposta ausência de comprovação dos requisitos para fruição da imunidade tributária do art. 195, §7º, da CF e a respectiva repetição do indébito. Todavia, para subsidiar sua alegação, juntou com a apelação o documento exarado pela Receita Federal do Brasil em 25/03/2022 (INF2, evento 30). Ocorre que este documento já era de ciência da União antes mesmo da última manifestação apresentada nos autos de primeiro grau, em 28/03/2022 (evento 18).
+ ..
+Não se está diante de fatos supervenientes, pois as matérias ventiladas na apelação são as mesmas das alegadas em sede de contestação. Em verdade, o documento apresentado pela ré após a prolação da sentença visava a comprovar fato anterior, já alegado na contestação, não consistindo, portanto, em documento novo, na acepção do art. 435, parágrafo único do CPC. Houve a estabilização da demanda.
+ ..
+O princípio da proibição da reformatio in pejus está atrelado ao efeito devolutivo dos recursos e impede que a situação do recorrente seja piorada em decorrência do julgamento de seu próprio recurso. No presente caso, com base no documento extemporâneo apresentado pela ré, o Egrégio Tribunal a quo reformou a sentença para julgar improcedente a demanda nos seguintes termos (evento 6):
+ ..
+Ocorre que a autora colacionou aos autos em primeiro grau os balanços patrimoniais referentes aos exercícios de 2018, 2019, 2020 e 2021, que infirmavam a alegação, adotada na v. acórdão, de que não teria preenchido os requisitos dos incisos VII e VIII, do art. 29, da Lei nº 12.101/2009.
+ ..
+Há, portanto, evidente reformatio in pejus, vedada no ordenamento jurídico brasileiro, motivo pelo qual se requer o conhecimento do presente recurso especial e provimento para o fim de anular o v. acórdão recorrido.
+ ..
+Portanto, há evidente error in judicando ao se aplicar, no presente caso, a regra do art. 373, I, do CPC, para julgar improcedente a demanda, haja vista se tratar ônus da ré provar fato impeditivo do direito da autora, isto é, a suposta inobservância dos requisitos do art. 29 da Lei nº 12.101/2009. No mais, conforme consignado no v. acórdão recorrido, a autora logrou êxito em demonstrar o preenchimento dos requisitos dos incisos VII e VIII do art. 29 da Lei nº 12.101/2009, haja vista a apresentação dos balanços patrimoniais referentes aos exercícios de 2018, 2019, 2020 e 2021 (evento 23, OUT2-OUT9), não impugnados nem desconstituídos pela ré. E o próprio documento extemporâneo adotado pelo E. Tribunal a quo para fundamentar a sua decisão não afirma que houve descumprimento do requisito estabelecido no inciso I do referido artigo, sugerindo a autoridade fiscal, inclusive, a verificação, pela PFN, do Estatuto Social da entidade (p. 40).
+ ..
+E porque não demonstrado em juízo a ausência de cumprimento dos requisitos do art. 29 da Lei nº 12.101/2009, deve ser reformado o acórdão recorrido para o fim de restabelecer a sentença e a procedência da demanda, reconhecendo-se a natureza declaratória da concessão do CEBAS-SAÚDE e a sua retroação ao dia 1º do exercício anterior ao do requerimento da certificação, isto é, ao exercício de 2019, com a consequente condenação da União à repetição do indébito tributário, nos termos da exordial.
+Recurso especial fundado no art. 105, III, "a", da Constituição Federal.
+Contrarrazões às fls. 501-510.
+É o relatório.
+Passo a decidir.
+O recurso não merece conhecimento.
+Súmula 211 do STJ
+No que diz respeito à alegação de violação ao princípio da proibição da reformatio in pejus, o recurso especial não merece prosperar.
+Em que pese a irresignação da parte recorrente, o exame dos autos revela que a matéria alegada não foi objeto de exame pelas instâncias ordinárias, mesmo após o julgamento dos embargos de declaração.
+O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o tema que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial sob o viés pretendido pela parte, inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Súmula 211 do STJ.
+A propósito, no mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. MATÉRIA CONTROVERTIDA. INEXISTÊNCIA.
+1. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos legais tidos por violados não são examinados na origem, mesmo após opostos embargos de declaração.
+2. O óbice da Súmula 343 do STF deve ser afastado, porquanto, antes do trânsito em julgado da sentença rescindenda, a jurisprudência de ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça já era pacífica quanto ao entendimento de que a CDA não é nula em razão da declaração de inconstitucionalidade do art. 3º, § 1º, da Lei n. 9.718/1998, devendo prosseguir a execução pelo decote do eventual excesso.
+3. Agravo interno desprovido (AgInt no REsp 1.942.612/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Súmula 284 do STF
+Além disso, ainda sobre a alegação de violação ao princípio da proibição de reformatio in pejus, incide o óbice da Súmula 284 do STF. Isso porque basta uma leitura do apelo extremo para se verificar a ausência de indicação específica de qualquer dispositivo legal que em tese pudesse estar sendo violado.
+Neste viés, impende ressaltar que a jurisprudência desta Corte Superior é iterativa no sentido de que inviabiliza o conhecimento do recurso especial a alegação genérica de princípio sem a indicação precisa de artigo, parágrafo ou alínea da legislação tida por violada.
+Súmula 7 do STJ
+Em relação à alegação de violação ao art. 435 do CPC, a jurisprudência desta Corte ilustra ser admissível "a juntada de documentos novos apenas quando se tornaram conhecidos, acessíveis ou disponíveis após a petição inicial ou contestação, desde que comprovado o motivo que impediu sua juntada anterior" (REsp n. 2.193.948/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025).
+No caso dos autos, assim se manifestou a Corte de origem (fl. 452):
+Inicialmente, cumpre referir que não foi analisada a alegação da impetrante de que teria havido violação aos arts. 434 e 435 do Código de Processo Civil, por parte do acórdão embargado, ao admitir a documentação juntada pela União na ocasião da interposição da sua apelação, a saber, os autos do processo administrativo de nº 10265.133738/2022-19 (evento 30, INF2).
+Ocorre que a União ofereceu contestação em 07-03-2022 (evento 16, CONTES1), ao passo que o processo administrativo juntado aos autos findou-se somente em 25-03-2022, de modo que não há prática irregular por parte da embargada. Além disso, o Código de Processo Civil não impede que a parte junte documentos durante a fase recursal, já que o art. 435 do referido diploma legal, em seu parágrafo único, dispõe o seguinte:
+ ..
+Por outro lado, ao contrário do que alega o embargante, não se vislumbra aqui violação ao disposto nos arts. 9 e 10 do Código de Processo Civil, visto que a embargante pôde se manifestar a respeito dos documentos trazidos pela parte em suas contrarrazões à apelação da União, como de fato o vez.
+Ocorre que a alteração da conclusão do Tribunal a quo, acerca do cabimento ou não da juntada do documento na apelação, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROTOCOLO ELETRÔNICO EQUIVOCADO DE APELAÇÃO. INTERPOSIÇÃO EM PROCESSO DIVERSO. ERRO DA PARTE. INTEMPESTIVIDADE. ERRO GROSSEIRO E INSANÁVEL. PRECEDENTES DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DOCUMENTO NOVO. JUNTADA POSTERIOR. HIPÓTESE DOS AUTOS. REVISÃO. MATÉRIA. PROVA. SÚMULA N. 7 DO STJ. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+ ..
+3. Em relação ao art. 435 do CPC, a conclusão adotada pelo Tribunal a quo teve por base os fatos e as provas constantes dos autos e sua revisão, a fim de verificar se cabível ou não a juntada de documentos novos esbarraria, necessariamente, no óbice da Súmula n. 7/STJ.
+4. Conforme o entendimento do Superior Tribunal de Justiça, o documento novo a que faz referência o art. 435 do CPC é aquele que surge de fatos supervenientes ao ajuizamento da ação ou que somente tenha sido conhecido pela parte em momento posterior. Precedentes.
+Incidência da Súmula n. 83/STJ.
+Agravo interno improvido (AgInt nos EDcl no AREsp n. 2.169.228/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Ato contínuo, no que tange à alegação de violação aos arts. 373, I, II, do CPC e 32 da Lei 12.101/2009, o Tribunal de origem consignou expressamente que "a parte autora não logrou êxito em comprovar, pela via judicial, o cumprimento das exigências apontadas pela autoridade fiscal no curso do procedimento administrativo" (fl. 454). Novamente incide o óbice da Súmula 7 do STJ, uma vez que seria necessário revisitar o contexto fático-probatório dos autos para acatar a tese sustentada pela parte recorrente.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
