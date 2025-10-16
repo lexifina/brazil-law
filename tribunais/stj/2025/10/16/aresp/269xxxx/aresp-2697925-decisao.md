@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial no qual se discute a abusividade dos juros remuneratórios pactuados em contrato bancário e os critérios de aferição dessa abusividade, notadamente a suficiência ou não das taxas médias de mercado do Banco Central do Brasil e a (in)admissibilidade de recurso especial para rediscutir conclusões baseadas em aspectos fáticos da contratação .
+A matéria encontra-se afetada à Segunda Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.378), os Recursos Especiais n. 2.227.280/PR, 2.227.287/MG, 2.227.276/AL e 2.227.844/RS, de relatoria do Min. Antonio Carlos Ferreira.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do referido tema pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir do precedente qualificado.
+Publique-se. Intimem-se.
+ EMENTA
