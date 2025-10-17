@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE AÇÕES PREVIDENCIÁRIAS DE BRASÍLIA - DF (Juízo suscitante) e o JUÍZO FEDERAL DA 26ª VARA DO JUIZADO ESPECIAL CÍVEL DE BRASÍLIA - SJ/DF (Juízo suscitado).
+O conflito decorre de ação ajuizada em desfavor do Instituto Nacional do Seguro Social (INSS) em que a parte autora objetiva a concessão de benefício por incapacidade temporária (auxílio-doença).
+O Juízo suscitado se declarou incompetente para processar e julgar o processo porque no laudo pericial havia sido constatado que a doença incapacitante que acometia a parte autora decorria de acidente de trabalho (fls. 63/65).
+O Juízo suscitante, por sua vez, suscitou o presente conflito com os seguintes fundamentos (fls. 70/71):
+Trata-se de ação previdenciária inicialmente proposta perante a Justiça Federal, que declinou de sua competência ao presente juízo, sob o fundamento de que a matéria seria relacionada a acidente de trabalho. No entanto, ao proceder à análise detida dos autos, verifico que o autor é segurado facultativo, circunstância que não configura acidente de trabalho para os fins do disposto no art. 109,I, § 3º, da Constituição Federal.
+A competência para processar e julgar ações que envolvam acidentes de trabalho é privativa da Justiça Estadual, porém tal definição não ocorre quando se tratar de contribuinte individual ou segurado facultativo, situações que não caracterizam acidente de trabalho para os fins legais e constitucionais, pois não incluídas no rol taxativo do art. 19 da Lei n. 8.213/91. Neste caso, a competência seria da Justiça Federal, uma vez que não há vínculo empregatício, tampouco nexo com acidente laboral.
+Assim, emerge conflito negativo de competência entre este Juízo e o Juízo Federal de origem, sendo necessária a resolução pelo Superior Tribunal de Justiça, nos termos do art. 105, I, "d", da Constituição Federal.
+O Ministério Público Federal opinou pelo conhecimento do conflito para que fosse declarada a competência do Juízo suscitado (fls. 82/84).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Segundo o pacífico entendimento desta Corte Superior de Justiça, o teor da petição inicial é elemento essencial à resolução do conflito, visto que a definição da competência decorre de verificação da causa de pedir e do pedido nela apresentados.
+No presente caso, não se extrai da peça inicial nenhuma menção à ocorrência de acidente de trabalho, ou evento a ele equiparado, a atrair a regra excepcional do art. 109, I, da Constituição Federal, a qual estabelece a competência da Justiça estadual para processar e julgar os processos relativos a acidente de trabalho.
+Além disso, a ação foi ajuizada por segurada da Previdência Social, na condição de segurado facultativo de baixa renda, que, segundo consta da petição inicial, declarou estar desempregada, "realizando as contribuições para o INSS de forma facultativa baixa renda" (fl. 11).
+Considerando que no caso a que refere este conflito de competência a parte autora é classificada como segurado facultativo de baixa renda ou contribuinte individual, a competência para processar e julgar a ação judicial é da Justiça Federal.
+Nesse mesmo sentido: (1) CC 214.034/DF, relator Ministro Benedito Gonçalves, DJEN de 1º/7/2025; (2) CC 206.645/PR, relator Ministro Herman Benjamin, DJe de 14/8/2024; (3) CC 204.970/RO, relator Ministro Teodoro Silva Santos, DJe de 28/5/2024; (4) CC 176.534/PR, relator Ministro Gurgel de Faria, DJe de 9/2/2021.
+Ante o exposto, conheço do presente conflito para declarar a competência do JUÍZO FEDERAL DA 26ª VARA DO JUIZADO ESPECIAL CÍVEL DE BRASÍLIA - SJ/DF, ora suscitado.
+Publique-se. Comunique-se.
+ EMENTA
