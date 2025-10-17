@@ -1,0 +1,12 @@
+DECISÃO
+ANDERSON DE SOUZA SILVA, condenado a 8 anos e 4 meses de reclusão, em regime fechado, pelo crime de homicídio qualificado tentado,  alega  sofrer  constrangimento  ilegal  diante  de  acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao Agravo Interno no Habeas Corpus n. 2118463-90.2025.8.26.0000/50000.
+A defesa busca a aplicação da atenuante de confissão espontânea em favor do sentenciado. Verifico, contudo, que a controvérsia deduzida neste habeas corpus não foi previamente analisada pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+Ademais, em decisão monocrática, o habeas corpus previamente impetrado não foi admitido, sob o seguinte fundamento (fl. 618, grifei):
+Conforme relatado, o impetrante se insurge contra a dosimetria da pena aplicada.
+Todavia, em que pesem as alegações aqui explanadas, em consulta aos autos de origem ao sistema SAJ, verifica-se que referida condenação transitou em julgado em 21/03/2019 (fl. 398 dos autos de origem), de modo que, neste momento processual, cabível eventual pedido de revisão criminal, nos termos dos artigos 621 e seguintes do Código de Processo Penal, o qual não se procede por meio desta via do writ.
+O Colegiado estadual confirmou a decisão acima mencionada, nestes termos (fl. 89, destaquei):
+Na análise do pleito formulado no Habeas Corpus nº 2118463-90.2025.8.26.0000, o qual, como mencionado, restou indeferido liminarmente, ficou assentada a patente impropriedade do remédio constitucional para apreciação da questão suscitada eis que, diante do trânsito em julgado da condenação, cabível, neste momento, eventual pedido de revisão criminal, nos termos do art. 621 e seguintes do Código de Processo Penal, o qual não se procede por meio da estreita via do writ.
+O entendimento firm ado no acórdão recorrido está em harmonia com a orientação desta Corte, segundo a qual "O habeas corpus não pode ser utilizado como substitutivo de revisão criminal após o trânsito em julgado da condenação" (AgRg no HC n. 1.024.029/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/10/2025, DJEN de 13/10/2025).
+À  vista  do  exposto,  indefiro  liminarmente  o  habeas  corpus.
+Publique-se  e  intimem-se.
+ EMENTA
