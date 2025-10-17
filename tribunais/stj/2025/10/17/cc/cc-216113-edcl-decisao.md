@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SCANIA BANCO S/A contra decisão, da lavra deste signatário, acostada às fls. 83/85, que conheceu do incidente e, por conseguinte, declarou a competência do r. juízo da 1ª Vara Empresarial, de Recuperação de Empresas e de Falências de Fortaleza/CE.
+Em suas razões, o insurgente aponta que "(..) com relação aos atos praticados anteriormente ao processamento do pedido recuperacional, quando sobretudo com relação ao bem de placa POQ5784, que não mais integrava o patrimônio da Embargada em virtude da perfectibilização da consolidação da propriedade efetivada em favor do credor fiduciário, ora Embargante." Acrescenta, outrossim, que "(..) somente em 29/07/2024, ou seja, após quase três meses da consolidação da posse e propriedade do bem apreendido em favor do credor fiduciário, ora Embargante, compareceu a Embargada aos autos pretendendo a suspensão da liminar, assim como a restituição do aludido veículo, valendo-se de decisão proferida pelo Juízo Recuperacional proferida em 10/07/2024."
+Requer, assim, o acolhimento da insurgência (fls. 91/100).
+Sem impugnação (fl. 144).
+É o relatório.
+Decisão.
+Os embargos de declaração não merecem acolhimento.
+1. Nos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, são os seguintes precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário, apoiado em pacífica orientação jurisprudencial da Segunda Seção, consignou compreensão segundo a qual, ainda que se trate de créditos garantidos por alienação fiduciária - como na hipótese dos autos - compete ao juízo acerca da essencialidade de determinado bem para fins da recuperação judicial decidir de aplicação da ressalva prevista no art. 49, § 3º, da Lei nº 11.101/2005, na parte que não admite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial.
+Nessa linha: Agint no CC 183.972/CE, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 7/3/24; Agint no CC 191.971/SP, Desta Relatoria, DJe de 30/6/2023; Agint no CC 171.694/MT, Rel. Min. Nancy Andrighi, DJe de 23/4/2021; Agint no CC 161.997/AL, Rel. Min. Moura Ribeiro, DJe de 4/6/2020; Agint no CC 159.480/MT, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 30/9/2019.
+Inexistindo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
