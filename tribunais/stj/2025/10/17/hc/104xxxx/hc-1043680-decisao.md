@@ -1,0 +1,14 @@
+DECISÃO
+LUCAS PAULO MOREIRA e DANIEL EMERSON PAULO MOREIRA, acusados por tentativa de homicídio qualificado, alegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem impetrada naquela Corte, na qual pretendiam a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+O caso comporta o julgamento antecipado do habeas corpus, visto que se adequa a pacífica orientação desta Corte aplicada em casos análogos, os quais são desfavoráveis à pretensão defensiva.
+Conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+No caso, extrai-se da decisão constritiva a indicação da gravidade concreta dos fatos imputados aos pacientes, a qual se mostra indiscutível e pode ser evidenciada pelo próprio modus operandi com que praticado o delito (devidamente retratado). No particular, destacou o decisum de primeiro grau (fl. 48, destaquei):
+ ..
+Ainda, há perigo gerado por eventual liberdade dos autuados tendo em vista o sério comprometimento da ordem pública, decorrente da gravidade concreta da conduta, notadamente pelo emprego de arma de fogo, a qual foi disparada em direção às vítimas por diversas vezes, pelo concurso de agentes, pelos indícios de que a empreitada delitiva teria sido premeditada e minuciosamente planejada para o extermínio (houve perseguição, emboscada e cerco veicular), bem como pelo fato de haver uma criança de três anos no interior do veículo alvejado.
+No particular, é pacífica a orientação deste Superior Tribunal de que "a gravidade concreta do delito, à luz de seu modus operandi, evidencia a periculosidade do suspeito e o interesse cautelar de evitar a reiteração delitiva" (HC n. 615.256/PR, relator Ministro Rogerio Schietti, DJe 29/3/2021).
+Além disso, toda a argumentação defensiva voltada contra a vítima ou contra a imputação de autoria é inviável de ser dirimida em habeas corpus, porquanto exige dilação probatória ou reexame vertical do material cognitivo.
+Vale dizer, "todas as matérias arguidas pelos impetrantes no tocante à real dinâmica dos fatos e eventual fragilidade probatória quanto à autoria são questões que se referem diretamente ao mérito, cuja apreciação está reservada, como dito, ao juízo competente por ocasião da instrução do processo" (fl. 20).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se
+EMENTA
