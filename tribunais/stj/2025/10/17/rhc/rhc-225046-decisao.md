@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DENIS JEREMIAS DOS SANTOS contra o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina que denegou a ordem no Habeas Corpus n. 5068402-34.2025.8.24.0000, mantendo a prisão preventiva imposta pelo Juízo da Vara Regional de Garantias da comarca de Concórdia/SC, em razão da suposta prática do crime de tráfico de drogas (Autos n. 5001393-50.2025.8.24.0519).
+Neste recurso, a defesa sustenta ausência de fundamentação concreta do decreto cautelar, considerando a pequena quantidade de droga e a ausência de violência ou grave ameaça.
+Alega primariedade, bons antecedentes e residência fixa, além de suficiência de medidas cautelares diversas da prisão.
+Pede, em liminar, a revogação da prisão preventiva. No mérito, requer a concessão da liberdade provisória com medidas cautelares diversas.
+É o relatório.
+Consta dos autos que o recorrente foi preso em flagrante durante o cumprimento de mandado de busca e apreensão na residência de sua avó, onde, após abordagem e autorização para ingresso, foram apreendidos 85,2 g de maconha, 2 g de haxixe, quatro plantas de Cannabis, uma balança de precisão e R$ 985,00 (novecentos e oitenta e cinco reais) em espécie. A prisão foi posteriormente convertida em preventiva, com fundamento na garantia da ordem pública e na conveniência da instrução criminal.
+O Tribunal de Justiça, ao apreciar o writ, ressaltou a gravidade concreta da conduta, a variedade das drogas apreendidas (maconha e haxixe), a presença de balança de precisão e dinheiro fracionado, além do histórico de atos infracionais e o risco de reiteração delitiva. Concluiu pela insuficiência das medidas cautelares alternativas e pela necessidade da custódia preventiva para garantia da ordem pública (fls. 66/69).
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta registros infracionais, relativos ao tráfico de drogas, ameaça e homicídio, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+A corroborar: AgRg no HC n. 996.281/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/6/2025, DJEN de 16/6/2025.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. APREENSÃO DE MACONHA E HAXIXE, PLANTAS DE CANNABIS, BALANÇA DE PRECISÃO E VALOR EM ESPÉCIE. RISCO DE REITERAÇÃO DELITIVA. ATOS INFRACIONAIS PRETÉRITOS. INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS.
+Recurso improvido.
