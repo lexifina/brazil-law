@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ITAMAR FERREIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, que denegou a ordem impetrada em seu favor (e-STJ, fls. 120-123).
+No presente recurso, a defesa sustenta que há excesso de prazo para a formação da culpa, na medida em que estaria preso preventivamente há mais de 9 (nove) meses, sem que tenha sido ratificado o recebimento da denúncia.
+Req uer, assim, o relaxamento da prisão preventiva com a fixação de medidas cautelares diversas da prisão.
+O Ministério Público Federal opina pelo conhecimento parcial do recurso e, nessa extensão, pelo seu improvimento (e-STJ, fls. 152-154).
+É o relatório.
+Decido.
+O Tribunal de origem, ao denegar o habeas corpus, consignou (e-STJ, fls. 120-121):
+"É viável, todavia, conhecer da tese de excesso de prazo, uma vez que já transcorridos mais de sete meses desde a análise feita por esta Câmara Criminal.
+Todavia, não há ilegalidade a ser reconhecida sob o prisma de excesso de prazo.
+Pela conveniência, cita-se as informações prestadas pela autoridade apontada como coatora:
+O Ministério Público, em 28/11/2024, ofereceu denúncia contra HELOISA FERNANDA DA SILVA GONCALVES, ITAMAR FERREIRA DA SILVA (ora paciente), IVANDRO JOAO BARNI, JOSE AYRTON LIANI DE OLIVEIRA, LIONICE APARECIDA MACHADO, LUCAS GUSTAVO FERREIRA, LUIZ CARLOS DE OLIVEIRA, PATRICK COSTA DA PAZ, PETERSON MOTTA MELO, TATIANE VENERI, VANESSA SECHAS ROSA, FRANCISCO GONCALVES JUNIOR, EMILIANO ALEXANDRE, EDUARDO MARCEL DA ROSA, ADIR MARCZAK e TEODORICO MANOEL DA SILVA; no que respeita ao paciente, pela suposta prática das condutas tipificadas no art. 299, do Código Penal, e no art. 2º, da Lei nº 12.850/13 (processo 5003358- 55.2024.8.24.0533/SC, evento 1, DENUNCIA1).
+Em 5/12/2024, decretou-se a prisão preventiva do acusado/paciente (processo 5003058- 93.2024.8.24.0533/SC, evento 25, DESPADEC1).
+Em 3/12/2024, recebeu-se a denúncia e determinou-se a citação dos acusados (processo 5003358- 55.2024.8.24.0533/SC, evento 9, DESPADEC1).
+Em 18/12/2024, o acusado/paciente habilitou-se nos autos da ação penal, por meio de defensores constituídos (processo 5003358-55.2024.8.24.0533/SC, evento 71, PROC1) e, em 3/4/2025, apresentou resposta à acusação (processo 5003358-55.2024.8.24.0533/SC, evento 230, DEFESA PRÉVIA1).
+Em 29/4/2025, declarou-se suprida a ausência de citação pessoal e indeferiu-se o pedido de revogação de prisão preventiva (processo 5003358-55.2024.8.24.0533/SC, evento 261, DESPADEC1).
+Em 3/7/2025, os autos passaram a tramitar nesta Vara Estadual de Organizações Criminosas.
+Em 16/7/2025, o acusado pleiteou novamente a revogação de sua prisão preventiva (ev. 1.1), cujo requerimento foi indeferido (ev. 8.1).
+ ..
+Com efeito, verifica-se que a marcha processual está adequada à complexidade do caso concreto, cuja denúncia foi oferecida em face de 16 (dezesseis) réus, em uma peça com 67 (sessenta e sete) laudas.
+A propósito:
+ .. "
+Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. É certo que a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado (RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015).
+No caso, a denúncia foi oferecida em 28/11/2024, contra 16 acusados, dentre eles o recorrente, pela suposta prática das condutas descritas no artigo 299 do Código Penal e no artigo 2º da Lei n. 12.850/2013. A prisão preventiva do recorrente foi decretada em 5/12/2024. A denúncia, por sua vez, foi recebida em 3/12/2024, tendo sido determinada a citação dos acusados. Em 18/12/2024, o recorrente habilitou-se nos autos da ação penal, por meio de seus defensores, e apresentou resposta à acusação em 3/4/2025. O pedido de revogação da prisão preventiva foi indeferido em 29/4/2025, e novamente denegado em 16/7/2025.
+Portanto, o período transcorrido até o momento não demonstra mora desarrazoada, tampouco é possível extrair dos autos qualquer indício de que o juízo age de forma a alongar o feito por tempo além do necessário, razão pela qual não resta caracterizada manifesta ilegalidade no caso em apreço.
+Ressalte-se, ainda, que o recorrente responde pelos delitos de falsidade ideológica e organização criminosa, tendo sido denunciado com mais 15 indivíduos. Como bem ponderou o Ministério Público Federal em seu parecer, "A multiplicidade de réus e, certamente, de defesas inevitavelmente reflete na duração do processo, prolongando a instrução criminal e a prisão preventiva" (e-STJ, fl. 153).
+Confira-se os precedentes desta Corte nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme ao asseverar que a análise do suscitado excesso de prazo deve ser feita de maneira global, em observância aos critérios da razoabilidade e da proporcionalidade e as circunstâncias específicas do caso concreto.
+2. No caso, a audiência de instrução e julgamento está aprazada para 13/4/2022, cerca de 9 meses após a prisão em flagrante do réu, pela suposta prática do crime de tráfico de drogas, o que evidencia prognóstico de encerramento do feito em período de tempo proporcional e razoável.
+3. Agravo não provido. (AgRg no HC n. 726.554/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/4/2022, DJe de 12/4/2022.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A CONCLUSÃO DO INQUÉRITO POLICIAL. PRINCÍPIO DA RAZOABILIDADE. TRÂMITE REGULAR. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO IMPROVIDO. COM RECOMENDAÇÃO.
+1. O constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto.
+2. No caso, conquanto o agravante se encontre preso há pouco mais de 3 meses, eventual retardo na tramitação do feito e conclusão do inquérito policial justifica-se pela complexidade da causa, que envolve uma pluralidade de investigados, havendo ainda testemunhas para serem ouvidas e perícia a ser realizada, cujos laudos foram recentemente juntados, circunstâncias essas que, ainda no momento de tantos transtornos gerados pela pandemia do COVID-19, como visto no último ano, colaboram com um inevitável, ainda que indesejável, prolongamento da marcha processual.
+3. "É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de maneira que eventual demora no oferecimento da denúncia ou no término da instrução criminal deve ser aferida dentro dos critérios da razoabilidade, levando-se em conta as peculiaridades do caso concreto" (HC-269.921/SE, Rel. Min. Rogério Schietti Cruz, DJe de 2/10/2014).
+4. Agravo regimental a que se nega provimento. Recomenda-se, entretanto, de ofício, ao Juízo processante que reexamine a necessidade da segregação cautelar, tendo em vista o tempo decorrido e o disposto na Lei nº 13.964/19. (AgRg no RHC n. 156.663/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021.)
+Ante o exposto, nego provimento ao recurso em habeas corpus. Recomenda-se, entretanto, de ofício, ao Juízo processante, celeridade no encerramento da instrução processual.
+Publique-se. Intimem-se.
+EMENTA
