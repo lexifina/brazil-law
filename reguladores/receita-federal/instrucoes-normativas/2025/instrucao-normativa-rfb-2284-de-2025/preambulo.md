@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2284, de 14 de outubro de 2025
+Altera a Instrução Normativa RFB nº 2.063, de 27 de janeiro de 2022, que dispõe sobre parcelamento de débitos perante a Secretaria Especial da Receita Federal do Brasil de que tratam os arts. 10 a 10-B, 11 a 13 e 14 a 14-F da Lei nº 10.522, de 19 de julho de 2002.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 84, caput, § 8º, da Lei nº 8.981, de 20 de janeiro de 1995, e no art. 61 da Lei nº 9.430, de 27 de dezembro de 1996, resolve:
