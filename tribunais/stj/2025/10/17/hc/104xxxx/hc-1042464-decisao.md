@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de VICTOR GARCIA contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Segundo se infere dos autos, o paciente teve a prisão preventiva decretada pela suposta prática dos crimes tipificados nos artigos 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Impetrado habeas corpus na origem, o Tribunal estadual denegou a ordem.
+Nesta Corte, a defesa alega, em suma, que não há fundamento concreto para a prisão cautelar, pois o julgador limitou-se a destacar a gravidade abstrata do crime e a quantidade de drogas apreendidas.
+Afirma que a excepcionalidade da decr etação da medida extrema, bem como que o paciente possui condições pessoais favoráveis, sendo suficiente a imposição de medidas cautelares diversas.
+Requer a concessão da ordem para que seja revogada a custódia preventiva ou substituída por cautelares diversas do art. 319 do CPP.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A prisão preventiva do paciente foi decretada nos seguintes termos:
+"No caso em apreço, entendo que se encontram presentes os requisitos para a conversão da prisão em flagrante em preventiva dos custodiados, considerando que os fatos narrados retratam a prática, em tese, das condutas descritas nos arts. 33 e 35 da Lei n. 11.343/2006.
+Segundo informações apresentadas no boletim de ocorrência, no dia 22 de julho de 2025, por volta das 08h55min, a equipe da Polícia Rodoviária Federal (PRF) de plantão foi acionada pelo Serviço de Inteligência da PRF com a finalidade de realizar a abordagem de um veículo suspeito. O automóvel em questão, um Hyundai HB20 de cor preta, placas QHX6F46, estaria em deslocamento vindo do estado do Paraná. Diante da solicitação, os policiais se dirigiram até a unidade da PRF localizada em Água Doce, Santa Catarina, com o objetivo de localizar e interceptar o referido veículo.
+Por volta das 10 horas da manhã, o automóvel foi avistado trafegando pela BR- 153, na altura do quilômetro 11, em sentido crescente da rodovia. A equipe procedeu com a abordagem e a ordem de parada foi prontamente obedecida pelo condutor. No interior do veículo encontravam-se dois indivíduos: o condutor, identificado como Victor Garcia, e o passageiro, Nicolas Rodrigues dos Santos.
+Após a abordagem, foi realizada a vistoria do veículo, durante a qual foram encontrados diversos tabletes de substância com características semelhantes à maconha, totalizando 147kg.
+Pois bem. Esses elementos demonstram - notadamente a natureza e quantidade de droga apreendida -, incluindo depoimentos, documentos e mídias anexadas nos autos, o envolvimento de VICTOR GARCIA e NICOLAS RODRIGUES DOS SANTOS no tráfico de drogas e associação ao tráfico, e a gravidade em concreto das suas condutas, de tal modo que a prisão preventiva se revela eficaz para interromper a prática criminosa e resguardar a ordem pública.
+Ressalta-se que a quantidade de droga apreendida, se fracionada, seria suficiente para produzir mais de 147.000 doses da substância ilícita, consoante a Circular n. 92/2024 da Corregedoria-Geral da Justiça do Tribunal de Justiça de Santa Catarina.
+Com efeito, a quantidade apreendida revela, de forma inequívoca, a magnitude da atividade ilícita, evidenciando não apenas o caráter profissional da ação, mas também a forte probabilidade de envolvimento com o tráfico interestadual de drogas, considerando que, conforme informações apresentadas no Boletim de Ocorrência, o veículo apreendido tinha como origem o Estado do Paraná.
+Ademais, embora os investigados sejam tecnicamente primários, verifica-se que Victor Garcia já responde a uma ação penal por crime praticado contra a mulher, além de constar como beneficiário de suspensão condicional do processo em outro feito criminal relacionado a infração de trânsito. Tais circunstâncias demonstram propensão à reiteração delitiva e ausência de comprometimento com o cumprimento das regras legais." (e-STJ, fls. 32-33)
+No caso, observa-se que a custódia cautelar atendeu ao disposto no art. 312 do CPP e está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o paciente foi surpreendido quando transportava 147kg de maconha em seu veículo automotor, vindo de outro estado da federação.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva (AgRg no HC n. 1.006.331/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado do TJRS), Quinta Turma, julgado em 27/08/2025, DJEN de 02/09/2025; AgRg no HC n. 1.023.390/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/08/205, DJEN de 27/08/2025).
+Nesse mesmo sentido, cita-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXPRESSIVA QUANTIDADE DE DROGAS. GARANTIA DA ORDEM PÚBLICA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, mantendo a prisão preventiva do agravante pela suposta prática do crime de tráfico de drogas, com base na necessidade de garantia da ordem pública.
+2. O agravante foi preso em flagrante com 165 quilos de maconha, o que indicaria seu envolvimento com grupo criminoso de grande potencial, justificando a prisão preventiva para garantir a ordem pública.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a quantidade de droga apreendida é fundamento suficiente para a decretação da prisão preventiva, em detrimento da aplicação de medidas cautelares diversas.
+III. Razões de decidir
+4. A jurisprudência do Superior Tribunal de Justiça reconhece que a quantidade e a diversidade dos entorpecentes podem fundamentar a prisão preventiva, quando evidenciam a maior reprovabilidade do fato.
+5. A aplicação de medidas cautelares diversas da prisão foi considerada inviável dada a gravidade do fato apurado.
+6. Condições pessoais favoráveis do agravante, como primariedade, residência fixa e bons antecedentes, não garantem ao réu a liberdade, quando presentes os pressupostos do art. 312 do CPP.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A quantidade significativa de entorpecentes apreendidos pode fundamentar a prisão preventiva para garantir a ordem pública. 2. Condições pessoais favoráveis não impedem a decretação da prisão preventiva quando há gravidade concreta dos fatos."
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citada: STJ, AgRg no HC n. 953.132/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2025; STJ, AgRg no HC 959.140/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025.
+(AgRg no HC n. 975.895/PR, minha relatoria, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: AgRg no RHC n. 204.865/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025; AgRg no HC n. 964.753/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.
+Consigne-se, ainda, que o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento do Superior Tribunal de Justiça (AgRg no HC n. 1.023.076/RS, relator Ministro Reynaldo Soares Fonseca, Quinta Turma, julgado em 19/08/2025, DJEN de 27/08/2025; AgRg no RHC n. 212.280/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/08/2025, DJEN de 25/08/2025).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
