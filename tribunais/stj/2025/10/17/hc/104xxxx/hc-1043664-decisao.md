@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de VERONICA CRISTINA NETO MARTOS DE SOUZA - condenada por extorsão qualificada a 18 anos de reclusão e 30 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 14/40), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria - na condenação proferida na Ação Penal n. 1500455-04.2024.8.26.0048 (fls. 49/68, da 2ª Vara Criminal da comarca de Atibaia/SP) -, com:
+a) alteração da fração de exasperação da pena-base, sustentando desproporcionalidade por ter sido fixada no máximo legal sem fundamentação concreta e em violação dos arts. 59 e 68 do Código Penal (fls. 6/8); e
+b) incidência da atenuante da confissão, aduzindo que o próprio acórdão reconheceu expressamente que a Paciente confessou, ainda que de forma informal, os fatos que lhe foram imputados, utilizando essa declaração como elemento de convicção para fundamentar a condenação (fls. 9/10).
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois:
+a) a atenuante da confissão foi reconhecida - a própria ré confessou que o ofendido merecia "um susto" por não lhe ter emprestado a quantia de R$ 20.000,00 (fl. 37) -, mas compensada com agravante na segunda fase da dosimetria (fl. 65); e
+b) a despeito da desproporcionalidade da pena-base, fixada no máximo legal pela negativação de dois vetores (fl. 39), tem-se que, ainda que realizado o decote proporcional, com a incidência de fração de 1/3 pelas circunstâncias do crime - considerando a concreta utilização de dois fundamentos distintos: filhos menores presentes e utilização pela ex-esposa de informações privilegiadas (fls. 38/39) -, e de 1/6 pelas consequências do delito, a pena-base seria fixada em 9 anos de reclusão e 15 dias-multa. Entretanto, na segunda fase, a pena intermediária alcançaria o máximo legal, considerando a incidência de quatro agravantes (motivo fútil, dissimulação, recurso que impossibilitou a defesa do ofendido e direção da atividade dos demais agentes - fls. 37 e 65) e da atenuante da confissão, nos termos da Súmula 231/STJ. Assim, a pena final seria igual à pena aplicada pelas instâncias ordinárias.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. EXTORSÃO QUALIFICADA. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
