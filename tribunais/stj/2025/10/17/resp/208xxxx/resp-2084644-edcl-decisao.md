@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por  TEREZINHA OLIVEIRA DE SOUSA  à  decisão  de  fls.  386/388  na  qual  determinei  o  retorno  dos  autos  ao  Tribunal  de  origem  com  vistas  a  aguardar  a  solução  da  Ação  Direta  de  Inconstitucionalidade  5.090/DF.
+Nas  razões  de  seus  embargos  de  declaração,  a  parte  embargante  reitera  que, às fls. 369/370,  "optou  por  renunciar  a  qualquer  outro  índice  de  correção,  anuindo  expressamente  com  a  sua  tese  recursal,  qual  seja,  a  aplicação  da  Taxa  Referencial  -  TR  na  correção  monetária,  justamente  no  intuito  de  receber  seu  crédito  com  a  celeridade  que  a  Constituição  Federal  preconiza  a  todos  os  processos  judiciais."  (fl.  392).
+Por  conseguinte,  pede  que  os  embargos  sejam  acolhidos  para  reconhecer  a  perda  do  objeto  recursal  .
+Impugnação  pela  parte  embargada  juntada  às  fls.  404/406  onde  manifesta  que  "a decisão embargada versa tão somente sobre a suspensão imposta pela liminar proferida na ADI 5090 e retorno dos autos ao tribunal de origem, não havendo nenhuma das hipóteses contidas no art. 1.022 do CPC".
+É  o  relatório.
+Os  embargos  declaratórios  não  apresentam  vícios  formais,  foram  opostos  dentro  do  prazo  e  cogitam,  objetivamente,  de  matéria  própria  dessa  espécie  recursal  (arts.  1.022  e  1.023  do  CPC).  Nada  há,  enfim,  que  impeça  o  seu  conhecimento.
+O  recurso  especial  interposto  pela  parte  ora  embargada,  MUNICÍPIO  DE  PARAUAPEBAS,  discute  especificamente  a  aplicação  da  Taxa  Referencial  (TR)  como  índice  de  correção  aplicável  aos  depósitos  do  Fundo  de  Garantia  por  Tempo  de  Serviço  (FGTS).
+Assim,  tendo  a  parte  embargante  renunciado  a  qualquer  outro  índice  anuindo  com  a  aplicação  da  TR,  verifico  que  o  objeto  recursal  não  subsiste  e  estes  embargos  merecem  acolhimento.
+No que respeita ao julgamento da ADI 5.090/DF,  o Supremo Tribunal Federal (STF) determinou efeitos apenas prospectivos, ex nunc, ao decidido, não interferindo neste feito.
+Ante  o  exposto,  conforme  o  art.  34,  XI,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  c/c  art.  487,  III,  "c"  do  CPC,  acolho  os  embargos  de  declaração  reconsiderando  minha  decisão  de  fls.  386/388  para  homologar  a  renúncia  por  parte  de  TEREZINHA OLIVEIRA DE SOUSA  a  qualquer  outro  índice  de  correção  dos  depósitos  de  FGTS  com  anuência  expressa  à  TR,  neste  feito,  e  declarar  prejudicado  o  recurso  especial  do  MUNICÍPIO  DE  PARAUAPEBAS.  Sem  majoração  de  honorários  recursais.
+Transitada  em  julgado  esta  decisão,  retornem  os  autos  à  origem  para  demais  providências.
+Publique-se.  Intimações  necessárias.
+ EMENTA
