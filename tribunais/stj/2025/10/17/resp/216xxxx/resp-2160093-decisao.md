@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VERA CRUZ ASSOCIAÇÃO DE SAÚDE, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa à obrigatoriedade de cobertura de Freestyle Libre e canetas de insulina Trebisa e FIASP pelo plano de saúde.
+O julgado deu provimento em parte ao recurso de apelação do recorrido nos termos da seguinte ementa (fl. 793):
+PLANO DE SAÚDE - Pedido de fornecimento do sensor "FreeStyle" para controle de glicemia - consumidora idosa e portadora de diabetes mellitus tipo 2 - Cobertura negada pela Ré - Abusividade na recusa - Aplicabilidade da súmula 102 deste E. TJSP - Alegação de taxatividade do rol da ANS Previsão da Lei 14.454/22 - Dano moral não verificado no caso em concreto - sucumbência recíproca - Recurso provido em parte.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega violação do art. 10, I, §§ 1º e 4º , da Lei n. 9.656/1998, "tendo em vista tratar-se de medicamento que não integra o Rol de Procedimentos em Saúde da ANS" (fl. 815).
+Aduz contrariedade dos arts. 8º, III e 17, I, da resolução Normativa n. 465/2021 e art. 10, § 13, da Lei n. 14.454/22, "na medida que não observou os requisitos necessários para a imposição da cobertura pela Operadora" (fl. 815).
+A operadora sustenta ofensa aos arts. 489, § 1º, IV e VI, 926 e 927 do CPC, uma vez que o acórdão não enfrentou a perícia desfavorável, acatada pela decisão de primeiro grau.
+Apresentadas as contrarrazões (fls. 1.348-1.359), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 1.360-1.362).
+É, no essencial, o relatório.
+As Turmas que compõem a Segunda Seção do STJ já decidiram que, independentemente da discussão a respeito da natureza do rol da ANS, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938 /SP, Terceira Turma, julgado em 27/4/2021, DJe de 4/5/2021; e REsp 1.883.654/SP, Quarta Turma, julgado em 8/6/2021, DJe de 2/8/2021).
+Além disso, em relação à situação específica dos autos, a insulina e o equipamento para monitoramento de glicose, são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para serem autoadministrados por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura. A esse propósito: AgInt no REsp n. 2.126.278/MS, Terceira Turma, DJe de 15/5/2024; AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, Terceira Turma, DJe de 8/9/2022.
+Nesse mesmo sentido, recente precedente monocrático em caso idêntico proferido pela Ministra Nancy Andrighi: REsp n. 2.222.594/MG, DJe 8/10/2025.
+Verifica-se que o acórdão estadual está dissonante do entendimento desta Corte Superior.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para restabelecer a sentença, inclusive quanto aos ônus da sucumbência.
+Publique-se. Intimem-se.
+ EMENTA
