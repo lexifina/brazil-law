@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GABRIEL ALVES - condenado por tráfico de drogas circunstanciado (2.198 g de maconha e 127 g de cocaína - fl. 34) a 6 anos e 8 meses de reclusão, e 667 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 17/31), não comporta processamento.
+Com efeito, busca a impetração a declaração de nulidade das provas decorrentes de busca domiciliar sem autorização judicial ou, subsidiariamente, a revisão da dosimetria - na condenação proferida na Ação Penal n. 5011743-08.2024.8.21.0005 (fls. 38/53, da 1ª Vara Criminal da comarca de Bento Gonçalves/RS), alterada em grau de apelação -, aos seguintes argumentos:
+a) busca domiciliar fundada apenas em denúncia de populares e fuga, sustentando desconformidade com o Tema 280 do Supremo Tribunal Federal (fls. 8/12); e
+b) ocorrência de bis in idem quando o porte de armas é utilizado para afastar o tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) e incidir a causa de aumento do art. 40, IV, da Lei de Drogas (fls. 12/14).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o acórdão estadual:
+a) afastou a nulidade do ingresso domiciliar com base em fundadas razões objetivas - tentativa de abordagem em via pública, fuga do réu e do adolescente para o interior do imóvel e perseguição (fl. 27) -, em conformidade com o entendimento desta Corte Superior, para o qual o Plenário do Supremo Tribunal Federal, em recente julgado, decidiu que a fuga do réu, ao verificar a aproximação dos policiais, para dentro do imóvel, apontado em denúncia anônima como local de traficância, é causa suficiente para autorizar a busca domiciliar sem mandado judicial (RE no AgRg no HC n. 920.951/AL, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 2/9/2025); e
+b) negou o tráfico privilegiado, assentando que, embora primário, o réu portava arma de fogo de uso restrito com munição e atuava em contexto estruturado, indicativo de dedicação a atividades criminosas (fls. 19 e 30), em consonância com o entendimento deste Tribunal Superior (AgRg no HC n. 926.696/MG, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJEN de 25/3/2025).
+Em razão disso, indefiro liminarment e a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS CIRCUNSTANCIADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
