@@ -1,0 +1,1 @@
+Art. 29-E. Os atos aprovados pelo Colégio de Procuradores poderão ser sustados pelo Tribunal Pleno quando caracterizada, de forma fundamentada, a exorbitação do poder regulamentar de suas atribuições, mediante decisão aprovada por dois terços dos Conselheiros, ouvido previamente o Ministério Público de Contas do Pará.

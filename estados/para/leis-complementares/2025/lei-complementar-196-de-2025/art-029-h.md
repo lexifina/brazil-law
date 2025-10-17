@@ -1,0 +1,2 @@
+Art. 29-H. Aos membros do Ministério Público de Contas do Estado do Pará aplicam- se, de forma subsidiária, as disposições normativas relativas aos membros do Ministério Público do Estado do Pará, especialmente quanto a direitos, garantias, prerrogativas, vedações, regime disciplinar e forma de investidura na carreira.
+Parágrafo único. As vantagens asseguradas aos membros do Ministério Público de Contas do Estado do Pará observarão os parâmetros e a natureza jurídica das atribuídas aos Conselheiros do Tribunal de Contas do Estado.
