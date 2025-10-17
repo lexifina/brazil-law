@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, de próprio punho, impetrado por GABRIEL MARTINS BAPTISTA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao apelo defensivo e manteve a condenação do paciente como incurso nos arts. 33, caput, da Lei 11.343/06, às penas de 06 (seis) anos e 09 (nove) meses de reclusão, em regime inicial fechado, e ao pagamento de 674 dias-multa.
+Encaminhados os autos para a Defensoria Pública da União, nos termos de Acordo de Cooperação Técnica STJ/DPU nº 3/2025, foram deduzidos os seguintes pedidos: i) a fixação da pena-base no mínimo legal de 05 (cinco) anos, haja vista que foi exasperada em 1/8 acima do mínimo, ou seja, em 07 meses e 15 dias de reclusão; ii) o reconhecimento da aplicação do benefício do tráfico privilegiado, na fração máxima de 2/3, bem com o abrandamento do regime inicial de cumprimento da reprimenda.
+É o relatório.
+Decido.
+Preliminarmente, observa-se que a defesa se insurge contra condenação definitiva pelo delito de tráfico de drogas, o que confere a este habeas corpus nítidas caracteristicas revisionais. Busca-se, em suma, o abrandamento da pena-base e a aplicação da minorante especial da Lei de Drogas.
+No ponto, cumpre destacar que, a fim de se prestigiar a sistemática recursal prevista na lei processual penal e o uso racional do habeas corpus, o Supremo Tribunal Federal e esta Corte tem decidido pela inadmissibilidade do uso do habeas corpus como substitutivo de recurso próprio, ressalvadas as hipóteses de concessão da ordem, de ofício, quando verificada manifesta ilegalidade no ato judicial atacado.
+Todavia, na hipótese, a pena foi estipulada conforme a legislação de regência e dentro da discricionariedade regrada do julgador, pois sendo reincidente específico o paciente é de fato incabível a aplicação da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, assim como não houve desproporcionalidade no aumento da pena-base em 1/8, pela aferição negativa da quantidade de droga (124,97g de cocaína - fls. 171).
+Nesse sentido : AgRg no HC n. 940.391/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2025, DJEN de 24/3/2025; AgRg no HC n. 958.212/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; AgRg no HC n. 961.564/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
