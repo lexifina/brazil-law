@@ -1,0 +1,15 @@
+DECISÃO
+O JUÍZO FEDERAL DA 5ª VARA DE SANTOS - SJ/SP suscita conflito de competência, em procedimento investigativo, diante do JUÍZO FEDERAL DA 1ª VARA DE COLATINA - SJ/ES.
+Depreende-se dos autos que houve a apreensão, durante procedimento rotineiro de verificação de remessas transportadas e em atividade de fiscalização realizada na Alfândega do Porto de Santos, de mercadoria estrangeira o devido reconhimento de impostos devidos, a qual teria sido supostamente remetida por pessoa domiciliada em Ecoporanga - ES.
+A controvérsia estabelecida neste incidente processual, portanto, cinge-se a saber qual o juízo competente para a prática de eventual ato judicial que se faça necessária nessa investigação, deflagrada pela suposta prática de descaminho.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de Colatina - ES, ora suscitado (fls. 391-394).
+Decido.
+Não descuro do entendimento estabelecido no enunciado da Súmula n. 151 do STJ. Entretanto, na espécie, estou de acordo com o parecer ministerial.
+Com efeito, em julgamento de caso similar, pela Terceira Seção (CC n. 172.392/SP, Rel. Ministro Joel Ilan Paciornik, DJe 29/06/2020), ficou estabelecido que, em algumas hipóteses, é possível que seja mitigado o referido entendimento sumular, em nome da "facilidade para a coleta de provas e para a instrução do processo, tendo em conta os princípios que atendem à finalidade maior do processo que é a busca da verdade real" (CC n. 151.836/GO, relator Min. Reynaldo Soares da Fonseca, DJe 26/6/2017).
+No caso, observa-se que o envio da mercadoria possui local e destinatário conhecidos (Ecoporanga - ES) e, a sua apreensão, somente ocorreu em trânsito na cidade de Santos - SP, localidade esta que não guarda nenhuma relação com os atos praticados, situação esta que, de fato, dificulta a investigação e o pleno esclarecimento dos fatos, caso adotado como competente o local de apreensão.
+É de se estabelecer, na espécie, a competência do Juízo suscitado, porquanto este seria o local onde iria ser entregue a mercadoria e, portanto, onde haverá maior facilidade de colheita de provas, bem como do exercício da ampla defesa, tal como decidiu recentemente este Superior Tribunal, no CC n. 172.392/SP, de modo a mitigar a aplicação da Súmula n. 151 do STJ, máxime se considerado que a remessa é de país estrangeiro. Acertadas, portanto, as ponderações do Ministério Público Federal, nestes termos (fl. 394):
+ ..
+Assim, o conflito de competência negativo existe e deve ser reconhecido para determinar a competência do Juízo suscitado, uma vez que a pessoa física tida por importadora é residente naquela localidade, o que facilitaria a produção de provas. Mesmo que haja menção da importadora de não mais residir no país.
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Colatina - ES, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos sucitante e suscitado .
+EMENTA
