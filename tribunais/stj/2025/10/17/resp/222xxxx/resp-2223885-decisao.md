@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 374):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. PROCURADOR FEDERAL. DIREITO À PARTICIPAÇÃO EM CONCURSO DE PROMOÇÃO. EXIGÊNCIA DE CONCLUSÃO DO ESTÁGIO PROBATÓRIO. INEXISTÊNCIA DE PREVISÃO LEGAL.
+1. A situação funcional do impetrante, que participou do concurso de promoção, por força de liminar, confirmada na sentença, e a sua situação funcional pode ser revista, como esclareceu a apelante, não se justificando a extinção do feito, por perda do objeto. Assim, o Agravo de Regimental interposto pela União merece acolhimento, prosseguindo o feito, com a apreciação da remessa oficial e do recurso de apelação.
+2. Não há falar em decadência, na espécie, uma vez que o marco inicial a ser considerado para a contagem do prazo é a do Edital nº 04-PGF, de 22 de fevereiro de 2008-PGF, e o mandado de segurança foi impetrado em 05 de maio de 2008, ou seja, antes do transcurso do prazo decadencial. Não obstante a existência de norma anterior, com a mesma exigência impugnada por melo do presente wrft, só a partir do referido edital, o impetrante sentiu-se ferido em seu direito, de forma concreta, uma vez que implementaria os três anos no cargo em janeiro de 2008, ou seja, após o prazo previsto no edital - 31/12/2007
+3. A Lei Complementar nº 73/93 concedeu ao Conselho Superior da Advocacia Geral da União a legitimidade para fixar os Critérios objetivos para a promoção por merecimento, não impondo em momento algum, critério restritivo de direito. Assim, no exercício do poder regulamentar, não poderia haver restrição ou ampliação onde o legislador não o fez, cabendo ao referido Conselho apenas especificar o conteúdo da norma para lhe permitir a execução.
+4. Ao estabelecer que somente os Procuradores da Federais com mais de três anos de exercício poderiam concorrer às vagas existentes para promoção na carreira, a Administração criou exigências limitativas de direitos, não previstas na legislação de regência. Precedentes.
+5. Agravo Regimental acolhido.
+6. Apelação e remessa oficial não providas.
+Os embargos de declaração opostos foram rejeitados (fls. 368-375).
+Em suas razões (fls. 411/431), a recorrente alega violação aos seguintes dispositivos legais:
+a) ao artigo 535, II, do CPC/1973 (correspondente ao art. 1.022, II, do CPC/2015), argumentando que o Tribunal de origem não apreciou a matéria quanto à competência do Conselho Superior da Advocacia-Geral da União (CSAGU) para "promoções, análise e alteração de critérios e requisitos relativos ao concurso de promoção" (fl. 414).
+b) aos artigos 2, alínea "d", 7, 8, 24 e 25 da Lei Complementar 73/1993, defendendo a competência exclusiva do CSAGU para organizar listas de promoção e julgar reclamações e recursos. Defende, ainda, a impossibilidade de substituição, pelo judiciário, de critérios e requisitos estabelecidos pelo órgão competente. Aduz, por fim, a legitimidade da exigência de conclusão do estágio confirmatório/probatório de três anos como requisito de elegibilidade para promoção.
+O recurso foi admitido na origem às fls. 443/444.
+O Ministério Público Federal manifestou-se pelo conhecimento parcial do recurso e, nessa parte, pelo seu desprovimento (fls. 459/463).
+É o relatório.
+De início, não há falar em ofensa ao artigo 535 do CPC/1973 (atual 1.022 do CPC/2015), uma vez que Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Além disso, o acórdão recorrido manifestou-se sobre todos os argumentos da parte que, em tese, poderiam infirmar a conclusão adotada, não havendo falar em nulidade qualquer.
+Registre-se que a mera insatisfação com o conteúdo da decisão proferida não importa em violação dos dispositivos legais supramencionados. Com efeito, o fato de o tribunal haver decidido o recurso de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Ademais, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentam. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução". (AgInt no AREsp n. 1.570.205/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2023, DJe de 19/4/2024).
+Passo seguinte, no mérito, o Tribunal Regional Federal da 1ª Região, ao decidir a matéria, fundamentou o voto nos seguintes termos (fls. 369/371- nossos os grifos-):
+A controvérsia cinge-se à condição de elegibilidade fixada no Edital nº 04/2008- PGF, que estabeleceu a necessidade do cumprimento mínimo de três anos de exercício para os Procuradores Federais participarem do concurso de promoção.
+A Lei Complementar nº 73/93 (instituiu a Lei Orgânica da Advocacia-Geral da União), no tocante a promoção, assim dispõe:  ..
+Por outro lado, o Edital nº 04/2008-PGF estabeleceu, como condição de elegibilidade, o seguinte: "Poderão integrar as listas de promoção, por antiguidade ou por merecimento, somente os integrantes da carreira de Procurador Federal que, em 31 de dezembro de 2007, já tenham cumprido interstício de 3 anos na categoria imediatamente inferior.." (fl. 23).
+Essa exigência já estava prevista na Portaria nº 493/2006, alterada pela Portaria nº 613/2007, nestas letras:  ..
+Como se vê, a Lei Complementar nº 73/93 concedeu ao Conselho Superior da AGU a legitimidade para fixar os critérios objetivos para a promoção, por merecimento e antiguidade, não impondo, contudo, critério restritivo de direito. Assim, no exercício do poder regulamentar, não poderia haver restrição ou ampliação onde o legislador não o fez, cabendo ao referido Conselho apenas especificar o conteúdo da norma para lhe permitir a execução.
+Em casos similares, a jurisprudência tem considerado ilegais atos dessa natureza. Confiram-se:  ..
+Em face do exposto, nego provimento à apelação e à remessa oficial.
+Da análise dos autos, verifica-se que a parte recorrente, em seu apelo especial, limitou-se a apontar, de forma genérica, violação aos arts. 2, alínea d, 7, 8, 24 e 25 da Lei Complementar 73/1993, com alegações dissociadas do acórdão recorrido, deixando de refutar especificamente o fundamento pelo qual a Corte Regional reconheceu a inexistência de previsão legal para o Conselho Superior da AGU restringir ou ampliar direitos onde o legislador não o fez.
+Dessa forma, evidenciada a deficiência na fundamentação recursal, aplica-se ao caso, por analogia, o disposto na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A esse respeito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. ATIVIDADE ESPECIAL. HABITUALIDADE E PERMANÊNCIA NÃO DEMONSTRADAS. INVERSÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF. HONORÁRIOS RECURSAIS. LIMITE LEGAL. OBSERVÂNCIA.
+(..)
+2. Não se conhece de recurso especial que deixa de impugnar os fundamentos do acórdão recorrido. Incidência das Súmulas 283 e 284 do STF.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.725.968/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/4/2025, DJEN de 6/5/2025.) (grifos acrescidos).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. EMBARGOS À EXECUÇÃO FISCAL. PRAZO PARA APRESENTAÇÃO. INTIMAÇÃO DA PRIMEIRA PENHORA. PROVIMENTO NEGADO.
+1. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284 do Supremo Tribunal Federal (STF), por analogia.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.839.440/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.) (grifos acrescidos).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR. TESES RECURSAIS DISSOCIADAS DO TEOR DE DISPOSITIVOS ARROLADOS NO RECURSO E AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL. SÚMULA 284/STF. ÔNUS DA PROVA. ART. 373, I, DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO
+INTERNO DESPROVIDO.
+1. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido, trazendo alegações dissociadas do que foi decidido pelo Tribunal de origem. Incidência da Súmula 284 do Supremo Tribunal Federal.
+2. O entendimento no sentido do descumprimento, por parte do município recorrente, do pagamento de verbas trabalhistas ao recorrido, especificamente 13º salário e férias com o adicional adicional de 1/3, em razão do exercício da carga comissionada do Procurador-Geral no período de 2016 a 2020, atrai a aplicação da Súmula 7/STJ.3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.696.658/PE, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 19/3/2025, DJEN de 25/3/2025.) (grifos acrescidos).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente no importe de 10% sobre o valor já arbitrado , nos termos do artigo 85, § 11º, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PROCURADOR FEDERAL. PARTICIPAÇÃO EM CONCURSO DE PROMOÇÃO. VIOLAÇÃO AO ART. 535 DO CPC/73 (ATUAL 1.022 DO CPC/2015). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
