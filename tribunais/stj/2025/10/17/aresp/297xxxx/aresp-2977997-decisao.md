@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERT RODRIGUES DUARTE contra a decisão do Tribunal de Justiça do Estado do Maranhão que inadmitiu recurso especial fundamentado no art. 105, III, a, da Constituição Federal, no qual se apontou violação do art. 593, III, d, do Código de Processo Penal.
+Na origem, o agravante foi condenado pelo Tribunal do Júri à pena de 7 anos, 5 meses e 25 dias de reclusão, em regime fechado, pela prática de dupla tentativa de homicídio. A defesa sustenta que o julgamento foi manifestamente contrário à prova dos autos, especialmente porque o laudo médico de uma das vítimas detectou ferimento por arma branca, não por disparo de arma de fogo.
+O Tribunal de origem inadmitiu o recurso especial com base na Súmula 83/STJ, consignando que o acórdão recorrido estava em consonância com a jurisprudência desta Corte sobre a soberania dos veredictos do júri.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (fls. 1.063/1.072).
+É o relatório.
+O agravo não comporta conhecimento.
+Constata-se que o agravante, em suas razões recursais, não impugnou, de forma específica e adequada, os fundamentos da decisão agravada. O Tribunal de origem inadmitiu o recurso especial fundamentando-se na incidência da Súmula 83/STJ, ao entender que o acórdão recorrido estava em consonância com a jurisprudência consolidada desta Corte sobre a soberania dos veredictos do júri.
+Verifica-se que a defesa se limitou a sustentar, de forma genérica, que a jurisprudência trazida pelo Vice-Presidente do TJMA para inadmitir o recurso especial reforçaria sua argumentação, sem demonstrar especificamente que os julgados paradigmas seriam inaplicáveis ao caso concreto ou que haveria outros precedentes mais recentes em sentido contrário.
+Para fins de impugnação do óbice da Súmula 83/STJ, a parte deve demonstrar que os julgados paradigmas são inaplicáveis ao caso concreto, ou que há outros mais recentes, em sentido contrário, favoráveis à sua tese, de modo que aqueles citados estariam superados, conforme já decidido por esta Corte no AgRg no AREsp n. 1.207.268/MG , Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018.
+Embora o agravante tenha apresentado extensa argumentação sobre a alegada dissociação entre as conclusões dos jurados e os elementos probatórios, não foi atacado especificamente o fundamento da inadmissibilidade, qual seja, a conformidade do acórdão recorrido com a jurisprudência consolidada desta Corte.
+De acordo com o princípio da dialeticidade recursal, são inadmissíveis os recursos com alegações genéricas, dissociadas do conteúdo da decisão recorrida, que façam impugnação apenas parcial dos fundamentos, ou que se limitem a reiterar alegações anteriores. Não houve impugnação efetiva, concreta e pormenorizada dos fundamentos específicos da inadmissibilidade.
+O agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta dos fundamentos empregados pela Corte a quo para não admitir o recurso especial, atraindo a incidência da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Também: AgRg no AREsp n. 238.064/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 18/8/2014.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DUPLA TENTATIVA DE HOMICÍDIO. TRIBUNAL DO JÚRI. JULGAMENTO MANIFESTAMENTE CONTRÁRIO ÀS PROVAS DOS AUTOS. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
