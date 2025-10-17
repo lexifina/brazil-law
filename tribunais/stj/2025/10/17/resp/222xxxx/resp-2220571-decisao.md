@@ -1,0 +1,24 @@
+DECISÃO
+C uida-se de recurso especial interposto por CREFISA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOS, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 372):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - EMPRÉSTIMO PESSOAL - DESCONTOS REALIZADOS NA CONTA CORRENTE EM QUE A PARTE AUTORA RECEBE O SEU BENEFÍCIO PREVIDENCIÁRIO - LIMITAÇÃO A 30% (TRINTA POR CENTO) DOS RENDIMENTOS PERCEBIDOS - POSSIBILIDADE - LEI 10.820/03 - CARÁTER ALIMENTAR -DANOS MORAIS NÃO CONFIGURADOS - REPARAÇÃO INCABÍVEL SENTENÇA MANTIDA. É certo que nos termos do artigo 2º, §2º, inciso I, da Lei nº 10.820/03, os descontos para pagamento de "empréstimos" não podem ultrapassar 35% do valor do benefício, sendo 5% destinado exclusivamente para amortização de despesas e utilização de saques por meio de cartão de crédito. Em que pese se tratar de empréstimo pessoal, a instituição financeira tem total conhecimento do valor dos proventos recebidos pela contratante na conta bancária mantida para o recebimento do referido benefício, razão pela qual o empréstimo pessoal descontado na referida conta bancária também deve se limitar a 30% (trinta por cento) da aposentadoria, dado o caráter alimentar e a fim de garantir o princípio constitucional da dignidade da pessoa humana, estatuído no art.1º, inciso III, da Constituição da República.
+Rejeitados os embargos de declaração opostos (fl. 574).
+A parte recorrente alega que a decisão do Tribunal a quo viola o artigo 1.039 do CPC, que determina a aplicação de tese firmada em recursos repetitivos a casos idênticos.
+Busca a reforma do acórdão que limitou os descontos de empréstimo descontado em conta-corrente e impôs condenação por danos morais.
+Não apresentadas as contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 620 - 621).
+É, no essencial, o relatório.
+O recurso especial tem origem em ação ordinária na qual se discutiu a limitação de descontos de empréstimos pessoais realizados em conta-corrente em qual a autora recebe benefício previdenciário, bem como a condenação por danos morais.
+O Tribunal de origem confirmou a sentença que determinou a limitação dos descontos a 35% dos proventos da aposentada, por considerar necessária a proteção do mínimo existencial e a dignidade da pessoa humana. Manteve também a condenação por danos morais.
+Aplicou por analogia o art. 2º, § 2º, inciso I, da Lei n. 10.820/2003, em razão do princípio da dignidade da pessoa humana, previsto no art. 1º, inciso III, da CR/1988, "decorrendo de tal princípio a conclusão de que não se pode subtrair de ninguém os meios materiais necessários para garantia de uma existência digna" (fl. 377).
+No que se refere à limitação dos descontos em conta-corrente, o acórdão recorrido decidiu também com base em fundamento constitucional. Contudo, o recurso extraordinário não foi interposto, o que impede o exame do recurso especial. Incidência da Súmula n. 126 do STJ. Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ATO ILÍCITO. MATÉRIA JORNALÍSTICA. RAZÕES DECISÓRIAS AMPARADAS EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial, em ação de indenização por danos à imagem e à honra em razão de reportagem publicada que vinculou a demandante a um julgamento de homicídio, mesmo após o trânsito em julgado da sentença de impronúncia.
+2. Com essas ponderações notadamente firmadas a partir de interpretações de julgados do Supremo Tribunal Federal, o Tribunal a quo concluiu que, no caso dos autos, os requeridos abusaram do seu direito de informar.
+3. O recurso especial não merece prosperar porquanto encontra óbice na Súmula 126 do Superior Tribunal de Justiça, uma vez que o acórdão recorrido amparou-se em fundamentos constitucionais suficientes para manter o acórdão recorrido, e o agravante não manejou o devido recurso extraordinário à Corte Suprema.
+4. A negligência na apuração e edição dos fatos, resultando em veiculação de informação inverídica, configura ato ilícito indenizável, ferindo os direitos da personalidade da recorrida.
+5. A revisão do entendimento do Tribunal de origem demandaria o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, conforme a Súmula 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.777.182/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 17% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
