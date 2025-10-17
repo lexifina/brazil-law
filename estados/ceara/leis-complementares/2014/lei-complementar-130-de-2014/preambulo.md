@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 130, DE 06.01.14 (D.O. 29.01.14)
+INSTITUI O CÓDIGO DE RELACIONAMENTO COM O CONTRIBUINTE DO ESTADO DO CEARÁ, E DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
