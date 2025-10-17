@@ -1,0 +1,62 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 4ª Região no julgamento de Apelação/Remessa Necessária, assim ementado (fl. 92e):
+TRIBUTÁRIO. PENA DE PERDIMENTO. REQUISITOS. VEÍCULO CONDUZIDO POR TERCEIRO. BOA-FÉ NÃO ELIDIDA. AUSÊNCIA DE RESPONSABILIDADE.
+1. Em consonância com a legislação de direito aduaneiro e a jurisprudência desta Corte, a aplicação da pena de perdimento do veículo transportador pressupõe a prova de que o proprietário do veículo concorreu, de alguma forma, para a prática do ilícito, e relação de proporcionalidade entre o valor do veículo e das mercadorias apreendidas.
+2. Desde que não suprimida a presunção de boa-fé, não há lugar à incidência da pena de perdimento, visto que esta só é aplicável àquele que, tendo consciência da ilicitud e e do caráter fraudulento da conduta ou deixando de se precaver adequadamente quanto a possíveis empecilhos para a realização do negócio, beneficia-se da irregularidade.
+3. A apreensão do veículo com mercadorias estrangeiras, por si só, não caracteriza a responsabilidade referida, pois não poderia o apelante presumir o uso ilícito do veículo emprestado.
+Opostos embargos de declaração, foram rejeitados (fls. 104/106e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa a dispositivos legais, alegando-se, em síntese, omissão e a possibilidade de aplicar a pena de perdimento ao veículo apreendido.
+Sem contrarrazões, o recurso foi admitido (fl. 121e).
+O Ministério Público Federal manifestou-se às fls. 131/137e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Em relação à afronta arts. 371, 1.022, II, do CPC; 104, 94 e 95 do Decreto-lei 37/1966; 27 do Decreto-lei 1.455/1976; 604, I; 617; e 690, §§, do Decreto 4.543/2002, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+A arguição genérica de ofensa a dispositivo de lei federal, sem demonstração efetiva da contrariedade, atrai a incidência, por analogia, da orientação contida na Súmula n. 284 do Supremo Tribunal Federal, segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, são os julgados assim resumidos:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PROVIMENTO NEGADO.
+1. É inviável o conhecimento do recurso quando a alegação de violação à norma se dá de forma genérica. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.036.100/RN, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, j. 23.6.2025, DJEN 27.6.2025).
+AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. 1. IMPENHORABILIDADE. INAPLICABILIDADE. PESSOAS JURÍDICAS. INDISPENSABILIDADE DA QUANTIA PENHORADA À MANUTENÇÃO DA PESSOA JURÍDICA. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. ALEGAÇÃO GENÉRICA DE CONTRARIEDADE A DISPOSITIVO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGOS DE LEI VIOLADOS. SÚMULA 284/STF. 4. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Esta Corte Superior entende que se evidencia "a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação, a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF" (AgInt no REsp n. 2.133.012/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024).
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.607.365/SP, Rel. Ministro Marco Aurélio Bellizze, Segunda Turma, j. 13.8.2025, DJEN 19.8.2025).
+No mais, a Corte de origem concluiu que a apreensão do veículo com mercadoria estrangeira, isoladamente, não caracteriza a responsabilidade da proprietária, nem autoriza responsabilização objetiva:
+Assim, haverá a perda do veículo quando este estiver conduzindo mercadoria sujeita a perdimento e desde que estas mercadorias pertençam ao responsável pela infração (inc. V do art. 104 do DL 37/1966).
+Por outro lado, o proprietário do veículo responderá pela infração, estando sujeito à pena de perdimento, mesmo quando não for o proprietário das mercadorias e ainda que não esteja conduzindo o veículo, desde que tenha ciência da situação fática, com ela concorrido ou, de alguma forma, dela se beneficiado, seja com dolo ou culpa in eligendo ou in vigilando (inc. I do art. 95 do DL 37/1966).
+  Essa conclusão também se extrai do próprio art. 688, V e § 2.º, do D 6.759/2009, que preconiza a necessidade de se demonstrar, em procedimento regular, a responsabilidade do proprietário do veículo na prática delituosa, para efeito de aplicação da pena de perdimento.
+Neste caso o auto de infração  aponta que o veículo  foi apreendido em 17out.2023, por transportar 153 garrafas de vinho, de origem e procedência estrangeira, com características que permitem presumir tratar-se de destinação comercial. Não há qualquer menção de reincidência da apelante ou do condutor do veículo.
+O veículo era conduzido pelo locatário do veículo, sr. Marco Aurélio Freyer, acompanhado de Gabriel Freyer. A impetrante não estava presente no momento da ocorrência.
+  Nenhuma dessas hipóteses implica concluir pela aplicação da pena de perdimento, uma vez que não há indícios de habitualidade nas condutas da apelante, proprietária do veículo, e do condutor, o locatário. A União não trouxe ao autos qualquer prova no sentido contrário.
+A apreensão do veículo com mercadorias estrangeiras, por si só, não caracteriza a responsabilidade referida, pois não poderia a apelante presumir o uso ilícito do veículo emprestado.
+Esse contexto indica que a proprietária do veículo Daiane Campos da Silva não tinha conhecimento, ainda que potencial, da utilização do veículo de sua propriedade para a prática do ilícito fiscal, ou de que fosse se beneficiar do produto da infração. Da mesma forma, não há indícios de habitualidade ou risco de reiteração da conduta, tanto por parte do proprietária, quanto por parte do condutor do veículo.
+Dessa forma, não restou elidida a boa-fé da apelante, na medida em que não demonstrada a sua responsabilidade direta ou indireta pelo ato cometido, não havendo se falar em responsabilização objetiva.
+Não havendo prova de que a apelante tenha contribuído para a prática da conduta infratora, a sentença deve ser mantida. (fls. 90/91e)
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
