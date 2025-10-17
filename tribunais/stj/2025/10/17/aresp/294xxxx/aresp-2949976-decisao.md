@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOLINO RODRIGUES DE LIMA contra a decisão proferida pela 1ª Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu o recurso especial interposto contra o acórdão que manteve as qualificadoras na decisão de pronúncia (Processo n. 0001141-14.2025.8.16.0210).
+O agravante foi pronunciado pela prática do crime previsto no art. 121, § 2º, incisos II e IV, do Código Penal (homicídio qualificado por motivo fútil e por recurso que dificultou a defesa da vítima), praticado em 16/7/2023 contra Mateus Júlio.
+No recurso especial inadmitido na origem, o agravante alegou violação do art. 121, § 2º, incisos II e IV, do Código Penal, requerendo o afastamento das qualificadoras. Argumentou que o cometimento do crime em razão de um furto praticado pela vítima não pode ser considerado motivo fútil, e que a suposta redução da capacidade de reação do ofendido não foi causada pelo acusado nem decorreu de meio ardiloso por ele empregado.
+A decisão de inadmissão fundamentou-se nas Súmulas 83 e 7/STJ, sob o argumento de que a conclusão está em consonância com a jurisprudência consolidada do STJ e que o acolhimento da pretensão demandaria reexame de elementos fático-probatórios.
+No presente agravo (fls. 891/893), o agravante reitera as alegações do recurso especial, sustentando estarem presentes os requisitos de admissibilidade.
+O Ministério Público Federal opinou pelo conhecimento do agravo para não conhecer do recurso especial (fls. 944/949).
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. O agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+As questões centrais do recurso especial dizem respeito à pretendida exclusão das qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima na decisão de pronúncia.
+O Tribunal de origem, ao manter as qualificadoras, fundamentou sua decisão em elementos concretos constantes dos autos.
+Quanto ao motivo fútil: em tese, o crime foi praticado em razão de a vítima ter furtado objetos do interior do veículo do réu e que o motivo para o cometimento, em tese, do ilícito penal pelo réu é totalmente desproporcional à conduta do acusado (fl. 851).
+Quanto ao recurso que dificultou a defesa: constatou-se, pelos vídeos acostados ao feito, que o réu desferiu golpes com o taco de madeira, após a vítima ter caído ao chão, ou seja, após JOSÉ ter derrubado MATEUS ao solo - com intenção de conter o ofendido -, o acusado o atacou com a arma branca (fl. 851).
+Como bem destacou o Ministério Público Federal em seu parecer, a decisão de pronúncia não encerra um juízo de certeza a respeito da materialidade e autoria do delito, apenas constata a existência de indícios suficientes de autoria e participação, de modo que não cabe ao magistrado valorar, de modo exauriente, a acusação formulada contra o réu.
+Conforme firme entendimento desta Corte, somente é possível a exclusão de qualificadora quando demonstrado ser ela absolutamente improcedente ou descabida, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Na espécie, as instâncias de origem apresentaram fundamentação idônea, baseada em elementos concretos dos autos, que indicam plausibilidade da incidência das qualificadoras, o que é suficiente para o encaminhamento da questão ao Tribunal do Júri.
+A conclusão adotada pelo Tribunal de origem encontra respaldo na jurisprudência consolidada desta Corte, conforme se extrai dos seguintes precedentes:
+Somente devem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri (AgRg no REsp 2094775/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 18.09.2024).
+Compete ao Tribunal do Júri, a avaliação profunda e exauriente da conduta atribuída ao paciente, assim, o afastamento das qualificadoras, na fase da pronúncia, só seria possível se manifestamente improcedente, sob pena de usurpação da competência dos jurados (AgRg no HC 669.117/RS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 22/12/2022).
+Na hipótese dos autos, o Tribunal de origem concluiu pela plausibilidade mínima das qualificadoras imputadas ao agravante, de modo que o acolhimento do pedido da defesa esbarra, necessariamente, no óbice da Súmula n. 7, STJ (AgRg no AREsp 2246366/SP, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 16.09.2023).
+O aresto combatido exarou conclusão em sintonia com a jurisprudência desta Corte ao considerar que existe fundamentação idônea para a manutenção das qualificadoras na fase de pronúncia, reservando-se ao Tribunal do Júri a análise aprofundada da questão.
+Tal entendimento atrai a incidência da Súmula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, aplicável também aos recursos interpostos com fundamento na alínea a do permissivo constitucional.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXCLUSÃO DE QUALIFICADORAS NA PRONÚNCIA. MOTIVO FÚTIL E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. COMPETÊNCIA DO TRIBUNAL DO JÚRI. SÚMULA 83/STJ.
+Agravo conhecido para não conhecer do recurso especial.
