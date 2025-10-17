@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em favor de JOAO VITOR BORGES - condenado à pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa, pela prática do crime de tráfico de drogas -, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1502581-90.2023.8.26.0297), não comporta conhecimento.
+Busca-se, na presente impetração, liminarmente, a suspensão da execução da pena e, no mérito, a declaração de nulidade do trânsito em julgado da condenação, reabrindo o prazo para defesa interpor recurso especial e a expedição de alvará de soltura em favor do paciente. Alega-se ausência de defesa efetiva, em razão da inércia na apresentação de contrarrazões ao apelo ministerial e da interposição intempestiva do recurso especial. Sustenta-se prejuízo concreto com o provimento integral do apelo que agravou a pena para 5 anos de reclusão, em regime inicial fechado, bem como com a expedição e cumprimento do mandado de prisão, em conformidade com a Súmula 523 do Supremo Tribunal Federal.
+É o relatório.
+Inicialmente, cumpre destacar que o writ não pode ser impetrado como substitutivo de revisão criminal, pois, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça decidir, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Sobre a questão, cito os seguintes precedentes: AgRg no HC n. 853.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/2/2024; e AgRg no HC n. 847.051/SP, Ministra Laurita Vaz, Sexta Turma, DJe de 5/10/2023.
+Ademais, verifico que a irresignação da defesa não foi apresentada ao Tribunal de origem, que não teve oportunidade de manifestar-se quanto à alegada nulidade processual decorrente da ausência ou deficiência da defesa, o que obsta a análise por esta Corte Superior, pois é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PLEITO DE DESCONSTITUIÇÃO DO TRÂNSITO EM JULGADO DA CONDENAÇÃO E REABERTURA DE PRAZO RECURSAL. DEFICIÊNCIA DA DEFESA. PEDIDO NÃO ANALISADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. AUSÊNCIA.
+Habeas corpus não conhecido.
