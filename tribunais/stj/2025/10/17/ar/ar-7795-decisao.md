@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de ação rescisória, com pedido liminar de tutela de urgência, proposta por SCALEZ - COMERCIO DE DERIVADOS DE PETROLEO LTDA., com fundamento no art. 966, inciso VIII, do CPC/2015, visando à desconstituição de decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, transitada em julgado em 20/9/2023, por meio da qual rejeitou os aclaratórios opostos contra decisão que não conheceu do recurso especial com fundamento na intempestividade.
+Alega a parte autora que "a decisão monocrática que declarou a intempestividade do recurso especial incorre em erro de fato, ao ignorar a certidão eletrônica de tempestividade emitida pelo sistema Pje, que comprovava a suspensão dos prazos em razão de feriados locais e nacionais" (fl. 5).
+Aduz que (fl. 8):
+Conforme consta na Certidão de Tempestividade datada de 17 de novembro de 2022 (Doc. Nº 130204716 Certidão de tempestividade..), a decisão que negou seguimento ao recurso especial foi disponibilizada no Diário da Justiça Eletrônico em 21 de outubro de 2022 e considerada publicada em 24 de outubro de 2022. O prazo recursal foi suspenso nos dias 28 de outubro de 2022 (Feriado do Dia do Servidor Público), 02 de novembro de 2022 (Feriado Nacional de Finados), 14 de novembro de 2022 (Ponto Facultativo), e 15 de novembro de 2022 (Feriado Nacional da Proclamação da República), conforme a Portaria nº 1121/2021-PRES.
+Mesmo com a suspensão dos prazos devidamente certificada, o recurso foi declarado intempestivo, desconsiderando a prova documental constante nos autos e o registro oficial da suspensão dos prazos processuais. Diante desse erro material evidente, a parte autora busca, por meio da presente ação rescisória, a desconstituição da decisão com base no erro de fato e decisão contra prova dos autos, conforme previsto no art. 966, inciso VIII, do CPC.
+Sustenta a inobservância do disposto nos arts. 4º, 6º, 139, inciso IX, 932, 1.003, § 6º, e 1.029, § 6º do CPC, tendo em vista que não foi oportunizada a correção de vício sanável.
+Indeferido o pedido de tutela de urgência (fls. 92-95).
+Contestação apresentada às fls. 103-169.
+Novo pedido de tutela de urgência apresentado às fls. 171-201.
+Impugnação apresentada às fls. 206-210.
+Memoriais apresentados por SCALEZ - COMERCIO DE DERIVADOS DE PETROLEO LTDA. às fls. 213-216, com requerimento de tutela de urgência.
+Alegações finais apresentadas por IPIRANGA PRODUTOS DE PETRÓLEO S.A. às fls. 224-228.
+Parecer do Ministério Público Federal às fls. 232-236, opinando pela improcedência da ação rescisória.
+É, no essencial, o relatório.
+No caso dos autos, a Ministra Maria Thereza de Assis Moura, quando do exercício da Presidência do STJ, ao julgar o AREsp n. 2.390.516/MT, não conheceu do recurso especial em razão da sua manifesta intempestividade, senão vejamos (fls. 25 26):
+Mediante análise do recurso de SCALEZ - COMERCIO DE DERIVADOS DE PETROLEO LTDA, a parte recorrente foi intimada do acórdão recorrido em 24/10/2022, sendo o recurso especial interposto somente em 17/11/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Apesar d a oposição de embargos de declaração, estes foram rejeitados, mantendo-se a decisão de não conhecimento do recurso especial (fls. 28-32), com trânsito em julgado datado em 20/9/2023.
+Preliminarmente, registro que, consoante a Súmula n. 401/STJ, "o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial". Assim, tenho por tempestiva a presente demanda, pois o trânsito em julgado da ação principal somente ocorreu em 20/9/2023 (fl. 34).
+A teor do disposto no art. 105, inciso I, alínea "e", da Constituição Federal, só cabe ao Superior Tribunal de Justiça conhecer originariamente de ação rescisória de seus julgados que apreciam o mérito da demanda, o que não ocorreu na decisão rescindenda.
+Contudo, nos termos da jurisprudência desta Corte e do disposto no art. 966, § 2º, inciso II do CPC, é possível a rescisão de decisão transitada em julgado que, embora não seja de mérito, impeça a admissibilidade do recurso correspondente, como no caso dos autos, em que se objetiva apenas a admissibilidade do recurso especial, por meio da superação do óbice da intempestividade. Nesse sentido, cito:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ADMISSIBILIDADE RECURSAL. CABIMENTO. AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO PERANTE O TRIBUNAL AD QUEM. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR. MANUTENÇÃO.
+1. O CPC/2015 admite a propositura de ação rescisória para
+rescindir decisão transitada em julgado que, embora não seja de mérito, impeça a admissibilidade do recurso correspondente (art. 966, § 2º, II), hipótese em que o objeto da presente demanda visa apenas a admissibilidade do recurso e superar a intempestividade reconhecida no aresto rescindendo.
+2. O julgado rescindendo externa a orientação consolidada neste Tribunal Superior, segundo a qual, para os recursos interpostos sob a égide do CPC/2015, a comprovação do feriado local deve ocorrer no ato da interposição do recurso, nos termos do art. 1.003, § 6º, do aludido diploma, sendo descabida a intimação da parte para regularização do vício, com espeque no art. 932 do referido Código.
+3. No caso dos autos, o autor, ora agravante, não trouxe a comprovação, no momento da interposição do recurso, do ato do tribunal local suspendendo os prazos recursais nos dias de jogos da Seleção Brasileira de Futebol na Copa do Mundo, para os fins do art. 1.003, § 6º, do CPC/2015.
+4. A Primeira Seção desta Corte tem admitido a possibilidade de indeferimento liminar de pleito rescisório pelo relator quando não divisadas nenhuma das hipóteses descritas no art. 966 do CPC/2015 (AgInt na AR 6.601/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 07/04/2020, DJe 16/04/2020).
+5. Agravo interno desprovido.
+(AgInt na AR n. 6.745/DF, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 2/3/2021, DJe de 10/3/2021.)
+Não obstante, o pleito rescisório não merece prosperar.
+De início, verifica-se que a Lei n. 14.939/2024 alterou o disposto no art. 1.003, § 6º, do CPC para prever que o "recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+Quanto ao tema, no julgamento da Questão de Ordem no AREsp n. 2.638.376/MG, a Corte Especial do STJ se manifestou no sentido de que a Lei n. 14.939/24, só é aplicável às situações não transitadas em julgado que discutam a tempestividade recursal.
+Assim, considerando que o trânsito em julgado da decisão rescindenda foi certificado em 20/9/2023 (fl. 34), antes da vigência das alterações promovidas pela Lei n. 14.939/24, ocorrida em 31/7/2024, deve ser aplicado o regramento anteriormente vigente quanto à tempestividade recursal.
+A propósito, confiram-se precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. INTEMPESTIVIDADE AFASTADA. AGRAVO INTERNO PROVIDO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182 DO STJ. AGRAVO NOS PRÓPRIOS AUTOS NÃO CONHECIDO.
+ ..
+3. Não se aplica o óbice utilizado pela Presidência. A Corte Especial do STJ deliberou que "a Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício" (QO no AREsp n. 2.638.376/MG, de minha relatoria, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025). Novo exame do recurso.
+ ..
+Tese de julgamento: "1. A Lei n. 14.939/2024 é aplicável às situações não transitadas em julgado que discutam a tempestividade recursal. 2. O agravo deve impugnar especificamente todos os fundamentos da decisão de inadmissibilidade para ser conhecido."
+Dispositivos relevantes citados: CPC, arts. 932, III, e 1.003, § 6º.
+Jurisprudência relevante citada: STJ, EAREsp n. 746.775/PR, Min. Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018; STJ, AgInt nos EAREsp n. 1.587.032/RS, Min. Paulo de Tarso Sanseverino, Corte Especial, julgado em 19/5/2021; STJ, QO no AREsp n. 2.638.376/MG, de minha relatoria, Corte Especial, julgado em 5/2/2025.
+(AgInt nos EDcl no AREsp n. 2.782.987/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/9/2025, DJEN de 2/10/2025, grifo meu.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE RECURSAL. EXONERAÇÃO PLENA DA FIANÇA. REVISÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO
+DESPROVIDO.
+ ..
+III. RAZÕES DE DECIDIR
+4. A superveniência da Lei n. 14.939/2024 caracteriza fato novo aplicável às situações não transitadas em julgado que discutam a tempestividade recursal, permitindo a superação da intempestividade.
+ ..
+(AgInt no AREsp n. 2.624.735/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/9/2025, DJEN de 4/9/2025, grifo meu.)
+Nesse contexto, verifica-se que o recurso especial era manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 219, caput, 1.003, § 5º, e 1.029 do CPC, tendo em vista que o acórdão recorrido foi disponibilizado em 21/10/2022 e publicado em 24/10/2022, sendo o recurso especial apresentado apenas em 17/11/2022.
+Considerando que não houve a apresentação de nenhum documento oficial ou certidão expedida pelo Tribunal de origem para comprovar a ocorrência das suspensões do prazo processual quando da interposição do recurso especial, mostra-se correta a decisão rescindenda, que externou a orientação desta Corte aplicável ao caso.
+Pelas razões expostas, é evidente que, a despeito da alegação de erro de fato, pretende a parte autora o reexame da admissibilidade de seu recurso especial, a fim de que se aplique norma vigente em momento posterior trânsito em julgado da decisão. Todavia, tal providência é inviável por meio do ajuizamento de ação rescisória, que não pode ser utilizada como sucedâneo recursal. A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO RESCISÓRIA. AUXÍLIO CESTA ALIMENTAÇÃO. ALTERAÇÃO JURISPRUDENCIAL. RESCISÃO INVIÁVEL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração jurisprudencial, posterior à manifestação transitada em julgado, não autoriza a propositura de ação rescisória, inclusive quanto à inclusão do auxílio cesta alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada. Precedentes.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 1.950.368/RS, Relator Min. Raul Araújo, Quarta
+Turma, DJe de 4/4/2022 - grifo nosso). Desse modo, evidencia-se que o pleito rescisório foi proposto como mero sucedâneo recursal ante a nítida correspondência das alegações contidas na inicial a suposto dissídio jurisprudencial entre o acórdão rescindendo e precedente superveniente ao trânsito em julgado daquele, o que é inadmissível segundo a jurisprudência desta Corte Superior, e autoriza o seu indeferimento de forma liminar. A propósito: "É possível indeferir-se liminarmente a petição inicial de ação rescisória quando for verificado o seu descabimento de plano, a exemplo da utilização indevida do instrumento como sucedâneo recursal ou da flagrante inexistência de violação manifesta de norma jurídica.
+(AgInt no AREsp 1.186.603/DF, Rel. Min. Ricardo Villas Boas Cueva, Terceira Turma, DJe 15/10/2021, grifo meu).
+Ante o exposto, julgo improcedente o pedido rescisório.
+Nos termos do art. 85, § 2º, do CPC, fixo os honorários em desfavor da parte autora em 10% sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Julgo prejudicados os novos pedidos de tutela provisória apresentados às fls. 171-201 e às fls. 213-216.
+Publique-se. Intimem-se.
+EMENTA
