@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JEFFERSON LEANDRO VELOSO CARVALHO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL - RECURSO DEFENSIVO - PROGRESSÃO AO REGIME SEMIABERTO - SUBMISSÃO DO SENTENCIADO A EXAME CRIMINOLÓGICO - FALTA DE FUNDAMENTAÇÃO - PLEITO DE SEU AFASTAMENTO. A defesa requer o deferimento ao executado da progressão ao regime semiaberto, independentemente da realização do exame criminológico - INADMISSIBILIDADE - Caso em que, a decisão monocrática que determinou a realização do exame criminológico encontra-se devidamente fundamentada, em consonância com o disposto no artigo 93, inciso IX da Constituição Federal - Necessidade de realização do exame criminológico para verificação do mérito do reeducando, diante das peculiaridades do caso vertente, considerando-se que, no caso, aplicável o entendimento do §2º do art. 112, da Lei 7.210/84, na redação anterior à Lei nº 14.843/24, em razão da irretroatividade; mesmo anteriormente à redação dada pela Lei nº 13.964/19, que já tinha suprimido a referência ao exame criminológico, a supressão não impedia a submissão do sentenciado ao exame, desde que motivada a exigência - Insuficiência, no caso, de atestado de bom comportamento para comprovação de preenchimento do requisito subjetivo - Inteligência da Súmula 439 do STJ e da Súmula Vinculante 26 do STF - Exame criminológico que não possui caráter vinculante, podendo o juiz decidir de forma contrária, desde que fundamentada sua convicção, eis que o sistema de valoração das provas é baseado no princípio do livre convencimento motivado, cabendo ao magistrado ponderar tanto o deferimento da benesse quanto a segurança da sociedade - Prevalência do princípio in dubio pro societate.
+Agravo improvido."(e-STJ, fl. 13).
+Neste writ, a impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência da exigência do exame criminológico para a progressão ao regime semiaberto.
+Aduz que a gravidade abstrata do delito praticado e a quantidade de pena pendente de cumprimento são fundamentos inidôneos a justificar a exigência da perícia.
+Ressalta que os requisitos legais para a progressão de regime foram preenchidos, destacando, quanto ao subjetivo, o bom comportamento carcerário e a inexistência de registro de faltas disciplinares nos últimos 12 meses.
+Requer, ao final, que seja concedida a progressão de regime ao paciente, independentemente da realização do exame criminológico.
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal apresentou seu parecer, manifestando-se pela não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+A consulta aos autos da execução n. 01126-12.2020.8.26.0026, na página eletrônica do Tribunal de Justiça do Estado de São Paulo, demonstra que foi deferida ao paciente a progressão ao regime semiaberto em 17/9/2025, de modo que é manifesta a superveniente ausência do interesse de agir e a consequente perda do objeto deste habeas corpus devido à alteração da situação fático-processual do apenado.
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
