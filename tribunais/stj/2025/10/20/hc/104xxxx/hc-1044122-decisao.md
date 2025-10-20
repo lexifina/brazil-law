@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado por FLAVIO FARINACCI PAIVA DE FREITAS indicando como ato coator praticado pelo r. juízo da 4ª Vara do Trabalho de Campinas/SP, nos autos dos embargos de terceiro n.º 0012030-89.2025.5.15.0053.
+Aduz que, ante a ordem de imissão na posse de bem imóvel exarada pelo r. juízo ora impetrado, "(..) o oficial de justiça mesmo diante deste conflito competência no STJ CC 216832/SP instaurado avisou que na data do dia 15/10/2025 irá cumprir o mandado de imissão na posse " Argumenta, nesse contexto, que "(..) A presente impetração tem como escopo a cessação de constrangimento ilegal decorrente de decisão proferida pela Autoridade Coatora, que expediu mandado de imissão na posse em processo trabalhista, atingindo diretamente o escritório de advocacia do Impetrante". Acrescenta que "(..) A questão jurídica central reside na necessidade de suspensão do processo trabalhista e, consequentemente, da ordem de imissão na posse, em virtude da instauração de Conflito de Competência (CC 216832/SP) perante este Superior Tribunal de Justiça. Tal conflito foi suscitado entre a Justiça do Trabalho, responsável pela execução e imissão na posse do imóvel arrematado, e a Justiça Comum, onde tramita ação de usucapião envolvendo o mesmo bem, ajuizada pela parte ora Requerente."
+Requer, em caráter liminar, a suspensão da ordem de imissão na posse e, no mérito, a concessão da ordem em habeas corpus (fls. 3/7).
+É o relatório.
+Decisão.
+O pedido não comporta processamento.
+1. Cediço que o habeas corpus é instrumento processual caracterizado por cognição sumária e rito célere, não comportando, por isso, a análise de questões as quais, para o seu deslinde, demandam aprofundado exame dos elementos fático-probatórios coligidos nos autos, característica típica do processo de conhecimento, sendo certo que o seu exame deve restringir-se à legalidade ou não de ordem emanada da autoridade apontada como coatora que afete o direito de locomoção.
+Nessa ordem de ideias, a orientação deste Tribunal é no sentido de que este instrumento não deve ser utilizado como substitutivo de recurso próprio, nem admitido quando não houver ofensa à liberdade de locomoção, como na hipótese dos autos.
+Nessa linha: AgInt no HC n. 729.296/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022; AgInt no RHC n. 129.877/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 1/2/2022.
+Com esse norte hermenêutico, no caso em exame, não se observa a existência de qualquer ato que pudesse vir a causar ofensa ou ameaça, ainda que de forma reflexa, ao direito de liberdade de locomoção do ora impetrante/paciente que, registra-se, pretende evitar ordem de imissão na posse de bem.
+No mesmo sentido, confira-se: HC 958181/SC, Rel. Min. Humberto Martins, DJe de 13/11/2024.
+Por mais larga que seja a utilização do presente instrumento, todavia ele não se presta ao fim visado pelo ora impetrante, o qual, já se valeu de diversos expedientes processuais para se manter na posse do bem que, há aproximadamente 09 (nove) anos, foi adjudicado, sendo que o seu titular aguarda até hoje para a imissão na posse do imóvel.
+2. Do exposto, com fulcro no artigo 34, inciso XX, do RISTJ, indefere-se liminarmente o presente writ.
+Publique-se. Intimem-se.
+EMENTA
