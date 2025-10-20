@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRIBUIÇÕES DESTINADAS AO INCRA E AO SEBRAE. BASE DE CÁLCULO LIMITADA A VINTE SALÁRIOS MÍNIMOS. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA TRAZIDA A JULGAMENTO.
+1. O Tribunal de origem não examinou a controvérsia sob o enfoque trazido no recurso especial, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula n. 211/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Onseg Serviços de Vigilância e Segurança Ltda. e outras desafiando decisão de fls. 786/787, que não conheceu de seu recurso especial em razão da ausência de prequestionamento da matéria trazida a julgamento.
+Opostos embargos de declaração, foram rejeitados (fls. 805/808).
+Inconformada, sustenta a parte agravante, em resumo, o prequestionamento do art. 4º, parágrafo único, da Lei n. 6.950/1981 e a necessidade de sobrestamento do feito ante a iminente afetação da controvérsia à sistemática de recursos repetitivos.
+Sem impugnação (fl. 872).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRIBUIÇÕES DESTINADAS AO INCRA E AO SEBRAE. BASE DE CÁLCULO LIMITADA A VINTE SALÁRIOS MÍNIMOS. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA TRAZIDA A JULGAMENTO.
+1. O Tribunal de origem não examinou a controvérsia sob o enfoque trazido no recurso especial, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula n. 211/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao colegiado para serem confirmados:
+Trata-se de recurso especial manejado por ONSERVICE GESTÃO DE SERVIÇOS TERCEIRIZADOS LTDA E FILIAIS, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 551):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DESTINADAS AO SEBRAE E AO INCRA. FOLHA DE SALÁRIOS. VALOR DA OPERAÇÃO. ART. 149, III, "A", DA CONSTITUIÇÃO, COM A REDAÇÃO DA EMENDA CONSTITUCIONAL Nº 33, DE 2001. BASE DE CÁLCULO. LIMITE. 20 SALÁRIOS MÍNIMOS. INAPLICABILIDADE.
+1. São constitucionais as contribuições destinadas ao SEBRAE e ao INCRA, incidentes sobre a "folha de salários", uma vez que essa base de cálculo se inclui no "valor da operação" a que se refere a alínea "a" do inciso III do art. 149 da Constituição, acrescentado pela Emenda Constitucional nº 33, de 2001.
+2. O limite de 20 salários mínimos, uma vez estabelecido pela Lei nº 6.950, de 1981, para o salário-de-contribuição do empregado, não condiciona a incidência das contribuições que tem por objeto a folha de salários do empregador.
+Opostos embargos de declaração, foram rejeitados (fls. 610/612).
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque de que em relação às contribuições ao INCRA e ao Sebrae o limite não foi alterado, ficando mantida a base de cálculo de até 20 salários mínimos vigentes no país, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no AREsp n. 2.454.963/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024; AgInt no AREsp n. 2.582.295/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/10/2024, DJe de 16/10/2024; RCD no AREsp n. 2.201.202/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+Conforme consignado no decisório agravado, o Tribunal de origem não se manifestou acerca da tese apresentada nas razões do recurso especial relativamente à manutenção da base de cálculo de até vinte salários mínimos para as contribuições destinadas ao Incra e ao Sebrae. Dessa forma, ante a inexistência do necessário prequestionamento, obstáculo intransponível à sequência recursal, a questão suscitada não pode ser conhecida no Superior Tribunal de Justiça.
+Também inviável o sobrestamento do presente feito uma vez que a jurisprudência desta Corte já sedimentou o entendimento de que candidatos a representativos de controvérsia repetitiva no STJ não possuem força processual para tanto. Precedentes: AgInt no REsp n. 1.968.970/RN, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/9/2022; AgInt no AREsp n. 1.338.426/MG, Relator Ministro Og Fernandes, Segunda Turma, DJe de 18/3/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
