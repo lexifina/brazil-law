@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GABRIEL BENEDITO DE ASSUNCAO PEREIRA CAMPOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0900233-13.2024.8.12.0004).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, caput c/c o art. 40, V; e art. 35, caput, c/c o art. 40, V, todos da Lei n. 11.343/2006, com as disposições da Lei n. 8.072/90; e arts. 330 e 180, ambos do Código Penal, à pena de 11 anos, 7 meses e 1 dia de reclusão, a ser cumprida no regime inicial fechado, em decorrência da apreensão de 752kg da substância entorpecente popularmente conhecida como "maconha"; quatro garrafas de 2 litros cheias de sementes da droga popularmente conhecida como "maconha"; 900g da substância entorpecente popularmente conhecida como "haxixe" e 4kg da droga popularmente conhecida como "skunk" (e-STJ fls. 8/28).
+A apelação defensiva foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa (e-STJ fls. 8/9):
+EMENTA. DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO DOS RÉUS EM RELAÇÃO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE DEMONSTRAÇÃO DO VÍNCULO ASSOCIATIVO. MANUTENÇÃO DA CONDENAÇÃO POR DESOBEDIÊNCIA. NEGATIVA A ORDEM DE PARADA EMANADA DE AUTORIDADE POLICIAL. RECRUDESCIMENTO RAZOÁVEL DA PENA-BASE. UM POUCO ACIMA DE 1/10 EM RAZÃO DA NATUREZA E MASSIVA QUANTIDADE DE DROGA. RECONHECIMENTO DA ATENUANTE DA MENORIDADE RELATIVA A UM DOS RÉUS. INTERESTADUALIDADE MANTIDA. TRÁFICO PRIVILEGIADO. INOCORRÊNCIA. REGIME INICIAL MANTIDO NO FECHADO. EM PARTE COM O PARECER, PARCIAL PROVIMENTO DOS APELOS.
+I. CASO EM EXAME
+1. Recursos de apelação interpostos contra sentença que condenou os Réus por tráfico interestadual de drogas, associação para o tráfico e, no caso de Vítor e Gabriel, também por receptação, e de Gabriel, por desobediência. As defesas pleitearam a absolvição quanto à associação para o tráfico e, no caso de Gabriel, também pelo crime de desobediência. Postularam, ainda, a aplicação da minorante do tráfico privilegiado, redimensionamento das penas e abrandamento do regime prisional.
+II. QUESTÃO EM DISCUSSÃO
+2. Há cinco questões em discussão: (i) definir se estão presentes os requisitos do art. 35 da Lei 11.343/2006 para a condenação por associação para o tráfico; (ii) estabelecer se a conduta de Gabriel configura o crime de desobediência; (iii) verificar a possibilidade de aplicação da causa de diminuição do tráfico privilegiado; (iv) determinar se a pena-base de Vítor deve ser redimensionada; (v) avaliar a legalidade da aplicação da causa de aumento da interestadualidade.
+III. RAZÕES DE DECIDIR
+3. A condenação por associação para o tráfico exige a demonstração de vínculo associativo estável e permanente entre os corréus, o que não restou comprovado, sendo a atuação conjunta episódica e sem organização duradoura, ensejando a absolvição por esse delito.
+4. A conduta de Gabriel configura o crime de desobediência, pois ele desatendeu ordem de parada emanada por policiais em atividade ostensiva, o que se enquadra na tipicidade penal conforme a jurisprudência consolidada do STJ (Tema 1060).
+5. A minorante do tráfico privilegiado é inaplicável, dado que os réus se dedicavam à atividade criminosa, conforme demonstrado pela vultosa quantidade de entorpecentes, planejamento prévio, uso de veículo adulterado e envolvimento com organização criminosa.
+6. Mantém-se a pena-base de Vítor, pois a fixação em 6 anos, 9 meses e 20 dias para o tráfico, a partir da análise negativa da quantidade e da natureza da droga, foi adequada e fundamentada.
+7. A aplicação da causa de aumento pela interestadualidade é legítima, bastando demonstrada a intenção de transpor fronteiras estaduais, comprovada nos autos pela confissão dos réus e destinação das drogas ao Estado do Mato Grosso.
+IV. DISPOSITIVO E TESE
+8. Em parte com o Parecer, Recursos parcialmente providos, a fim de absolver os Réus da prática do crime de associação para o tráfico, bem como para reconhecer a incidência da atenuante da menoridade relativa em favor de Gabriel, reduzindo-se a reprimenda de todos os Recorrentes; todavia, mantendo-se o regime inicial no fechado.
+Tese de julgamento:
+A) A condenação por associação para o tráfico exige vínculo estável e permanente entre os agentes, não sendo suficiente o concurso episódico.
+B) A desobediência a ordem de parada em contexto de policiamento ostensivo configura crime previsto no art. 330 do CP.
+C) A vultosa quantidade de entorpecentes e o modo de execução caracterizam dedicação à atividade criminosa, afastando o tráfico privilegiado.
+D) A pena-base pode ser exasperada com base na natureza e quantidade da droga, ainda que em fração superior a 1/10, a depender do caso concreto e em prestígio à discricionariedade regrada do Julgador.
+E) A majorante da interestadualidade independe da efetiva transposição da fronteira, sendo suficiente a intenção demonstrada por provas idôneas.
+Dispositivos relevantes citados: Lei 11.343/2006, arts. 33, §4º, 35, caput, e 40, V; CP, arts. 29, 49, §1º, 65, I, 180 e 330; CPP, art. 654, §2º.
+Jurisprudência relevante citada: STJ, Súmula 587; STJ, HC 416867/SP, Rel. Min. Jorge Mussi, j. 24.10.2017; TJMS, Ap. Crim. n. 0000264-77.2020.8.12.0043, Rel. Desª Elizabete Anache, j. 07.02.2021; TJMS, Ap. Crim. n. 0004636-14.2015.8.12.0021, Rel. Juiz José Eduardo Neder Meneghelli, j. 24.10.2018; STJ, HC 98766/SP, Rel. Min. Og Fernandes, j. 5/11/2009; STF, HC 103.225/RN, Rel. Min. Joaquim Barbosa, j. 11/10/2011.
+Daí o presente writ, no qual alega a defesa que houve ilegalidade no afastamento do redutor do tráfico privilegiado, previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Ainda, afirma que o paciente faz jus à detração.
+Requer, desse modo, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343 /2006, o abrandamento do regime e a substituição da pena.
+É o relatório.
+Decido.
+A jurisprudência do Superior Trib unal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, no caso, não há que se falar em teratologia ou flagrante ilegalidade apta a ensejar a superação do supracitado entendimento.
+No ponto, cumpre destacar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
