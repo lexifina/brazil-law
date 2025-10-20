@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 198/200, proferida pela Presidência do Superior Tribunal de Justiça, a qual aplicou a Súmula 7/STJ quanto à pretensão do recorrente em relação ao deferimento da gratuidade de justiça, tendo em vista que a parte teria demonstrado sua atual situação de hipossuficiência financeira. Quanto à alegação de dissídio jurisprudencial, a decisão entendeu pela ausência de prequestionamento da tese recursal objeto da divergência.
+A parte agravante sustenta que a Súmula 7 não constitui obstáculo ao conhecimento do recurso especial. Aduz que foi demonstrado o dissídio jurisprudencial acerca do tema, apresentando jurisprudências de tribunais diversos em sentido contrário ao acórdão recorrido.
+Não houve a apresentação de impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Cumpre destacar, por primeiro, que o presente agravo interno não apresentou a devida impugnação específica ao fundamento adotado quanto à alegação de dissídio jurisprudencial, qual seja, a ausência de prequestionamento.
+No mais, o recurso não merece provimento.
+Isso se diz porque, quanto à controvérsia, o Tribunal estadual se manifestou nos seguintes termos (fl. 145):
+Entretanto, na hipótese, tal presunção não prevalece, pois, em atenção ao disposto no artigo 99, § 2º, do CPC, constatada a existência de elementos indicativos da capacidade financeira do agravante, foi-lhe concedida oportunidade para exibição "dos extratos de todas as suas contas bancárias e de faturas de todos os seus cartões de crédito, cuidando para que tais documentos registrem as operações realizadas nos últimos três meses e especifiquem os remetentes e destinatários das transferências efetuadas." (fls. 107).
+No entanto, referida determinação não foi cumprida pela agravante, que limitou-se a apresentar a carteira de trabalho (fls. 112/115), conta de água (fls. 116), extrato do benefício previdenciário (fls. 117/119) e declaração de imposto de renda exercício 2023 e 2024 (fls. 120/135).
+Verifica-se que os extratos bancários apresentados (fls. 70/103 autos originários), demonstram elevada movimentação financeira, a afastar a alegação de hipossuficiência financeira, relevando notar que a agravante é titular de ao menos mais uma conta, como bem analisado pelo juízo a quo.
+Evidentemente, a injustificada recusa em exibir todos os extratos bancários e as faturas de cartão de crédito requisitados, corrobora os indícios de que a agravante, em realidade, usufrui de renda suficiente para fazer frente às despesas processuais e não faz jus ao benefício pretendido.
+Logo, há de ser mantido o indeferimento do benefício, que se destina precipuamente a pessoas comprovadamente destituídas de meios materiais para fazer frente às despesas judiciais, sem prejuízo da subsistência, o que não se comprovou ser o caso do agravante.
+Nos termos da jurisprudência desta Corte, a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA.PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DAHIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DASÚMULA 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Concluindo o Tribunal originário que a hipossuficiência da parte requerente não foi comprovada nos autos, fica impedido o Superior Tribunal de Justiça de modificar a conclusão acolhida, ante a incidência da Súmula7/STJ.
+3. A incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.657.329/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. ACÓRDÃO ESTADUAL EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça: I)tratando-se de concessão do benefício de gratuidade da justiça em favor da pessoa física, há a presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente (incidência da Súmula 83 do STJ); II) a concessão do benefício de gratuidade da justiça a pessoa jurídica, ainda que em regime de liquidação extrajudicial, recuperação judicial ou sem fins lucrativos, somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (incidência da Súmula 481/STJ).
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.576.243/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.)
+Outrossim, a conclusão do Tribunal revisor, acerca da ausência de elementos necessários para a concessão da gratuidade, foi obtida pela análise do conteúdo fático e probatório dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
