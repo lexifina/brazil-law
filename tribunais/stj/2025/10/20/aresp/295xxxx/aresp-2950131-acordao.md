@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. SUSPENSÃO DO PRAZO PROCESSUAL NA ORIGEM. COMPROVAÇÃO APÓS A INTERPOSIÇÃO DO RECURSO. POSSIBILIDADE. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. TESE RECURSAL. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem em razão da intempestividade do recurso especial.
+II. Razões de decidir
+2. Nos termos do entendimento atual do STJ, decorrente do julgamento pela Corte Especial da QO no AREsp n. 2.638.376/MG (j. 5/2/2025, DJEN 27/3/2025), é lícito ao recorrente comprovar após a interposição do recurso especial a ocorrência de feriado local ou suspensão de prazo processual.
+3. Caso concreto em que o recorrente comprovou de maneira idônea, quando da interposição do agravo em recurso especial, a suspensão de prazo processual e a prorrogação do vencimento desse prazo para o dia 4/6/2024 - data da interposição do recurso especial inadmitido na origem, o que convence acerca da tempestividade do recurso interposto.
+4. A análise de violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+5. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+III. Dispositivo
+3. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial por intempestividade.
+O acórdão recorrido encontra-se assim ementado (fl. 475):
+EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - PRELIMINAR DE ILEGITIMIDADE PASSIVA - PARTE QUE NÃO CELEBROU CONTRATO DE LOCAÇÃO - ACOLHIMENTO - AJUIZAMENTO DE AÇÃO DE DESPEJO CONTRA TERCEIRO POSSUIDOR - IMPOSSIBILIDADE - PRELIMINAR DE NULIDADE DA SENTENÇA - CERCEAMENTO DE DEFESA - NÃO CONFIGURAÇÃO - PRELIMINARES DE NEGATIVA DE CONHECIMENTO DO PRIMEIRO APELO - INTEMPESTIVIDADE - REJEIÇÃO - IRREGULARIDADE FORMAL - AUSÊNCIA - PRINCÍPIO DA DIALETICIDADE - OBSERVÂNCIA - INDICAÇÃO, PELO RECORRENTE, DOS FATOS E FUNDAMENTOS PELOS QUAIS ENTENDE NECESSÁRIA A REFORMA DA DECISÃO RECORRIDA - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA - PROVA DA QUITAÇÃO DOS ALUGUEIS EM ATRASO - INEXISTÊNCIA - RECONVENÇÃO - CLÁUSULA CONTRATUAL DE RENÚNCIA DO LOCATÁRIO AO DIREITO DE INDENIZAÇÃO POR BENFEITORIAS - PRESENÇA - VALIDADE. 1. A ação de despejo pode ser intentada pelo locador apenas em face do locatário, sendo o terceiro possuidor parte ilegítima para figurar no polo passivo de demanda dessa espécie, justamente porque não compõe a relação contratual que ensejou sua propositura. 2. Eventual necessidade de intimação para purga da mora, antes da concessão da medida liminar, não implica cerceamento de defesa, mas erro de julgamento, cometido não na sentença, mas na decisão que concedeu a medida. 2. Não há falar-se em intempestividade do inconformismo quando verificado que foi apresentado a protocolo, regularmente, antes do termo final do prazo disposto em Lei. 3. Se a parte recorrente indica, em suas razões, os fatos e fundamentos pelos quais entende ser necessária a reforma do ato jurisdicional combatido, não há falar-se em negativa de conhecimento do inconformismo, por violação ao princípio da dialeticidade, pouco importando, inclusive, se o substrato basilar da argumentação recursal consistiu na reprodução literal de outras peças processuais. 4. Poderá a locação ser desfeita em decorrência da falta de pagamento do aluguel e demais encargos, ocorrendo a extinção do contrato apenas quando há a efetiva entrega das chaves. 5. A teor do artigo 373, inciso II, do Código de Processo Civil, compete ao réu a demonstração dos fatos extintivos, modificativos ou impeditivos do direito do autor. 6. É válida a cláusula que, em contrato de locação, prevê, de forma clara e expressa, a renúncia do locatário aos direitos de indenização e retenção por benfeitorias realizadas no imóvel locado, por encontrar essa estipulação base normativa no artigo 35 da Lei n.º 8.245/91.
+Os embargos de declaração foram rejeitados (fls. 565-573).
+Novos embargos declaratórios foram acolhidos (fls. 607-611).
+Nas razões do recurso especial (fls. 627-645), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+i. art. 4º da Lei 8.245/91, haja vista que o Tribunal de origem "deixou de apreciar e enfrentar as teses suscitadas pelo Recorrente, tais como demonstradas, na qual tinham o condão de infirmar o acordão recorrido, cuja consequência jurídica, possivelmente, seria favorável aos pleitos do Recorrente, portanto, o acordão recorrido claramente merece ser reformado" (fl. 639);
+ii. art. 884 do CC, já que a parte recorrida se beneficiou de forma ilícita de mais de R$ 500.000,00;
+iii. art. 5º, LV, da CF, por ter havido cerceamento de defesa no caso concreto, bem como violação do duplo grau de jurisdição e da ampla defesa.
+No agravo (fls. 732-738), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 751-756).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. SUSPENSÃO DO PRAZO PROCESSUAL NA ORIGEM. COMPROVAÇÃO APÓS A INTERPOSIÇÃO DO RECURSO. POSSIBILIDADE. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. TESE RECURSAL. DISPOSITIVO LEGAL. FALTA DE CARGA NORMATIVA. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem em razão da intempestividade do recurso especial.
+II. Razões de decidir
+2. Nos termos do entendimento atual do STJ, decorrente do julgamento pela Corte Especial da QO no AREsp n. 2.638.376/MG (j. 5/2/2025, DJEN 27/3/2025), é lícito ao recorrente comprovar após a interposição do recurso especial a ocorrência de feriado local ou suspensão de prazo processual.
+3. Caso concreto em que o recorrente comprovou de maneira idônea, quando da interposição do agravo em recurso especial, a suspensão de prazo processual e a prorrogação do vencimento desse prazo para o dia 4/6/2024 - data da interposição do recurso especial inadmitido na origem, o que convence acerca da tempestividade do recurso interposto.
+4. A análise de violação a dispositivos constitucionais é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+5. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+6. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+III. Dispositivo
+3. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+VOTO
+Analiso, primeiramente, a matéria devolvida a este Tribunal Superior por força do agravo em recurso especial interposto, consistente na afirmada intempestividade do recurso especial.
+Em razão do advento da Lei 14.939/2024, este STJ estabeleceu diretriz interpretativa no sentido de que é cabível a comprovação de feriado local ou suspensão de prazo processual mesmo após a interposição do recurso especial, cabendo ao órgão julgador facultar à parte interessada a correção do vício formal.
+Nesse sentido:
+PROCESSUAL CIVIL. QUESTÃO DE ORGEM NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL. LEI N. 14.939/2024. ALTERAÇÃO DO § 6º DO ART. 1.003 DO CPC/2015. APLICAÇÃO A RECURSOS ANTERIORES À VIGÊNCIA DO NOVO DIPLOMA LEGISLATIVO.
+1. A Lei n. 14.939, de 30/7/2024, não modificou os requisitos de admissibilidade do recurso, mantendo a exigência de comprovação, no ato da interposição do recurso, da suspensão do expediente forense na localidade em que a peça recursal deve ser protocolizada. Nada obstante, criou incumbência para o Poder Judiciário, sem fixar prazo ou termo para o cumprimento, de determinar a correção do vício formal, ex officio, ou desconsiderá-lo caso a informação já conste do processo eletrônico.
+2. Em tais circunstâncias, salvo se houver coisa julgada formal sobre a comprovação de feriado local e ausência de expediente forense, a Corte de origem e o Tribunal ad quem, enquanto não encerrada a respectiva competência, inclusive em agravo interno/regimental, estarão obrigados a determinar a correção do vício.
+3. Questão de ordem acolhida pela Corte Especial.
+(QO no AREsp n. 2.638.376/MG, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 5/2/2025, DJEN de 27/3/2025.)
+Neste caso concreto, o recurso especial foi inadmitido na origem por suposta intempestividade, mas não foi dada oportunidade à recorrente para comprovar a suspensão dos prazos processuais que já havia sido alegada na própria petição de recurso especial.
+Somente com a interposição do agravo em recurso especial teve a recorrente oportunidade de promover a juntada de documentação comprobatória da ocorrência de suspensão do prazo processual no Tribunal de origem, o que se deu nos dias 29, 30 e 31 de maio de 2024 e das 8 horas às 12 horas do dia 3 de junho de 2024 (Portaria Conjunta n. 1.546/PR/2.024 - fls. 740/745).
+Constou do ato administrativo em exame, ademais, expressa menção à suspensão e prorrogação de prazos processuais, nos termos do dispositivo que transcrevo (fls. 742):
+Art. 4º Ficam prorrogados para o primeiro dia útil subsequente os prazos que se iniciarem e vencerem no período de 27 a 31 de maio e no dia 3 de junho de 2024.
+Parágrafo único. Haverá suspensão dos prazos processuais no período a que se refere o caput deste artigo.
+Em conclusão, nos termos do entendimento atual do STJ, é lícito ao recorrente comprovar após a interposição do recurso especial a ocorrência de feriado local ou suspensão de prazo processual. Neste caso concreto, o recorrente comprovou de maneira idônea, quando da interposição do agravo em recurso especial, a suspensão de prazo processual e a prorrogação do vencimento desse prazo para o dia 4/6/2024 - data da interposição do recurso especial inadmitido na origem (fl. 672) -, o que convence acerca da tempestividade do recurso interposto.
+Na forma do art. 1.042, § 5º, do CPC e do art. 253, parágrafo único, II, do Regimento Interno do STJ, passo incontinenti ao exame do recurso especial interposto.
+Cumpre esclarecer, de saída, que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de violação de dispositivos constitucionais - no caso, art. 5º, LV, da CF -, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Quanto à alegada violação ao art. 4º da Lei 8.245/1991, a peça recursal não esclareceu como tal preceito daria amparo à tese recursal sustentada pelo recorrente, de que o acórdão recorrido teria deixado de apreciar e enfrentar as teses suscitadas pelo Recorrente.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivo de lei que, evidentemente, não ostenta carga normativa apta a sustentar a tese defendida, incide, no ponto, o óbice da Súmula n. 284 do STF.
+Por fim, quanto à alegada violação ao art. 884 do CC, tal alegação não foi analisada pelo Tribunal de origem, apesar da oposição de embargos declaratórios. Caberia à parte alegar violação do art. 1.022 do CPC, o que não ocorreu. Dessa forma, à falta de prequestionamento, incide a Súmula n. 211/STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
