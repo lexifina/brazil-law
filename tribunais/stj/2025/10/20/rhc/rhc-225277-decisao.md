@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PAULO VICTOR SILVA FERNANDES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta nos autos que o recorrente foi condenado à pena de 04 (quatro) anos de reclusão, em regime inicial fechado, pela suposta prática do delito de furto qualificado; negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 77-82.
+Na hipótese, a defesa aponta a ocorrência de constrangimento ilegal consubstanciado na negativa de recorrer em liberdade.
+Sustenta ausência de requisitos para a manutenção da segregação cautelar do recorrente.
+Aponta violação ao disposto no art. 302, do Código de Processo Penal, argumentando que "o recorrente teve sua prisão em flagrante decretada por suposta prática de delito pelo qual foi absolvido em sentença" (fl. 108).
+Aduz que "não há qualquer elemento nos autos que comprove que o requerente, atualmente, represente risco à ordem pública, à instrução criminal ou à aplicação da lei penal, conforme exigido pelo art. 312 do CPP" (fl. 110).
+Requer a expedição de alvará de soltura em favor do recorrente.
+É o relatório. DECIDO.
+A análise da sentença condenatória, bem como do acórdão impugnado, permite a conclusão de que a prisão cautelar do recorrente se encontra em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o risco de reiteração criminosa, haja vista que, além da conduta em exame, ele ostenta reincidência específica bem como registra atos infracionais análogos aos crimes de receptação, roubos e tráfico de drogas e, na fase adulta, possui condenação pelo delito de roubo majorado.
+Nesse sentido, o Juízo sentenciante negou o direito de recorrer em liberdade, consignando que "não é a primeira vez que vem a ser condenado por delitos patrimoniais, o que evidencia a necessidade de resguardar a ordem pública, já fartamente abalada por delitos desta natureza" (fl. 31).
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar para a garantia da ordem pública, diante do risco concreto de reiteração delitiva.
+Sobre o tema:
+"Consoante sedimentado em farta jurisprudência desta Corte Superior, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitara reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 884.146/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024.)
+Ademais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No que tange à alegação de afronta ao disposto no art. 302, do Código de Processo Penal, ao argumento de que "o recorrente teve sua prisão em flagrante decretada por suposta prática de delito pelo qual foi absolvido em sentença" (fl. 108); não verifico flagrante ilegalidade a ser sanada na medida em que, não obstante a absolvição pelo delito previsto no art. 288 do Código Penal, a prisão se encontra mantida na subsistência de delito autônomo, uma vez que o recorrente foi condenado como incurso no art. 155, § 4º, I e IV, do Códig o Penal, e a negativa de recorrer em liberdade está amparada no risco concreto de reiteração criminosa, não se evidenciando o constrangimento ilegal suscitado.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
