@@ -1,0 +1,39 @@
+DECISÃO
+
+    1. Trata-se de reclamação proposta pelo MPBA contra decisão proferida pelo STJ, sob a alegação de má aplicação do Tema/RG nº 280.
+
+    2. Narra o reclamante que o réu Tiago Assunção Rodrigues foi condenado, em sede de apelação, como incurso no art. 33, caput, da Lei nº 11.343/06. O recurso especial e AREsp interpostos pela defesa foram inadmitidos. Ato contínuo, em lugar de agravo regimental, a defesa impetrou Habeas Corpus, no qual concedida ordem para anular as provas decorrentes do suposto ingresso ilegal no imóvel, restabelecendo-se a sentença absolutória. Este entendimento foi mantido no julgamento do agravo regimental e dos embargos de declaração. O MP, então, interpôs RE, em que esta Corte determinou a devolução dos autos à  origem para fins de “adoção dos procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil”. O STJ negou seguimento ao RE, seguindo-se a interposição de agravo regimental, que se encontra pendente de julgamento.
+
+    3. Requer a reclamante seja a presente conhecida e, no mérito, adotando-se a previsão contida no art. 161, parágrafo único do STF, julgada totalmente procedente, cassando-se as decisões exorbitantes (atos judiciais impugnados, oriundos do STJ), com a prolação de nova decisão adequada à solução da controvérsia, com imediato cumprimento da decisão, nos termos da previsão contida nos arts. 992 e 993 do CPC (I. caso esse egrégio STF entenda pela cassação da decisão colegiada impugnada, fica requerido seja determinada a prolação de nova decisão adequada à solução da controvérsia; II. caso, entretanto, esse egrégio STF entenda pela cassação da decisão monocrática impugnada, fica requerido seja determinada a admissão e consequente trânsito do Recurso Extraordinário a essa respeitável Corte Constitucional ou a adoção do procedimento insculpido no art. 1.030, inc. II, do CPC).
+
+        É o relatório.
+        Decido.
+
+    4. Deixo de requisitar informações e de enviar o feito à Procuradoria-Geral da República, por entender que o processo está em plenas condições de julgamento (arts. 21, § 1º, 52, parágrafo único, e 161, parágrafo único, do RISTF).
+
+    5. A  estreita via da reclamação constitucional (art. 102, inc. I, al. ”l” e § 3º, do art. 103-A da CRFB) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a enunciado de sua súmula vinculante ou o descumprimento de decisão desta Corte em controle abstrato de constitucionalidade, ou em controle difuso, contanto que havida, nesta última hipótese, a mesma relação jurídica e entre as mesmas partes.
+
+    6. Como relatado, alega-se inobservância do que decidido por esta Corte no julgamento do Tema/RG nº 280 cuja tese se transcreve:
+
+A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.
+
+    7. Pela decisão reclamada, manteve-se a concessão de ordem para anular a prova decorrente do ingresso ilegal, restabelecendo-se a sentença absolutória, nos seguintes termos (e-doc. 10, p.1-2):
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. INGRESSO EM QUARTO DE HOTEL. AUSÊNCIA DE FUNDADAS RAZÕES. ÔNUS ESTATAL DE COMPROVAR A VOLUNTARIEDADE DO CONSENTIMENTO. INVEROSSIMILHANÇA DAS ALEGAÇÕES POLICIAIS. AGRAVO REGIMENTAL DESPROVIDO. 1. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, submetido à sistemática da repercussão geral, firmou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados". 2. "A definição de casa para efeito da proteção constitucional, instituída no art. 5º, XI, da CF, compreende qualquer (i) espaço físico habitado; (ii) compartimento de natureza profissional, desde que fechado o acesso ao público em geral (iii) e aposentos coletivos, 'ainda que de ocupação temporária, como quartos de hotel, pensão, motel e hospedaria.' (AgRg no HC n. 731.668/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado e m 17/5/2022, DJe de 20/5/2022)" (HC n. 838.667/MS, relator Ministro Jesuíno Rissato – Desembargador Convocado do Tjdft, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023). 3. No caso, para justificar o ingresso no quarto do hotel, os agentes policiais alegaram ter recebido denúncia anônima de que um indivíduo com as características do acusado estaria praticando o comércio de entorpecentes na cidade e, após a realização de diligências, abordaram-no em via pública fumando um cigarro de maconha; oportunidade em que ele teria confessado a prática do tráfico de drogas e franqueado voluntariamente a entrada dos policiais no local, onde foram apreendidos 27 (vinte e sete) comprimidos de ecstasy e 43g (quarenta e três gramas) de maconha. 4. "Se, de um lado, se deve, como regra, presumir a veracidade das declarações de qualquer servidor público, não se há de ignorar, por outro lado, que o senso comum e as regras de experiência merecem ser consideradas quando tudo indica não ser crível a versão oficial apresentada, máxime quando interfere em direitos fundamentais do indivíduo e quando se nota um indisfarçável desejo de se criar uma narrativa amparadora de uma versão que confira plena legalidade à ação estatal" [trecho do voto condutor deste julgado] (AgRg no HC n. 732.128/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/9/2022, DJe de 7/10/2022). 5. Esta Corte Superior tem reiteradamente decidido que compete ao Estado a comprovação da voluntariedade do agente em autorizar a entrada dos policiais, o que não ocorreu no caso em tela. Ao revés, extrai-se dos autos que, em juízo, o acusado negou que tivesse franqueado o ingresso dos policiais no quarto onde estava hospedado. 6. Agravo regimental desprovido.
+
+    8. Conforme informado pelo reclamante, o agravo regimental interposto após negativa de seguimento do RE ainda se encontra pendente de julgamento, e assim, tem-se como não cumprido o requisito de esgotamento das instâncias ordinárias, conforme o disposto na parte final do art. 988, § 5º, II, do Código de Processo Civil.
+    9. Este Supremo Tribunal Federal tem entendimento consolidado, no que concerne ao enfocado requisito, quanto à necessidade de se percorrer todo o caminho processual antes do acesso à Suprema Corte, quando se discute tese firmada em julgamento de recurso extraordinário com repercussão geral. Senão, vejamos:
+
+EMENTA AGRAVO INTERNO EM RECLAMAÇÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. 1. É exigível o esgotamento das instâncias ordinárias quando se alega, em reclamação, descumprimento de tese firmada em julgamento de recurso extraordinário paradigma de repercussão geral (CPC, art. 988, § 5º, II). 2. Agravo interno desprovido.
+(Rcl nº 59.012 AgR/BA, Rel. Min. Nunes Marques, Segunda Turma, j. 03/07/2023, p. 21/08/2023).
+
+RECLAMAÇÃO. REVISÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGADA AFRONTA AO TEMA 506 DA REPERCUSSÃO GERAL. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. ARTIGO 988, § 5º, II, DO CPC. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+(Rcl nº 74.766, Rel. Min. Luiz Fux, j. 18/12/2024, p. 19/12/2024).
+
+    10. Ante o exposto, nego seguimento à reclamação, nos termos do art. 21, § 1º, do RISTF.
+
+Publique-se.
+Brasília, 20 de outubro de 2025.
+
+Ministro ANDRÉ MENDONÇA
+Relator
