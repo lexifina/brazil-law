@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO, ANTE A SUA INTEMPESTIVIDADE.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte Especial, em julgamento de questão de ordem no AREsp 2.638.376/MG, definiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada, portanto, no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso sob fundamento da falta de comprovação de ausência de expediente forense no período.
+1.1. Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei nº 14.939/2024, "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+1.2. No presente agravo interno, a parte apresentou documentos que comprovam a suspensão do expediente forense no curso do prazo recursal, tornando tempestivo o reclamo.
+1.3. Decisão monocrática reconsiderada com o julgamento, de plano, do agravo em recurso especial.
+2. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência e, de plano, não conhecer do agravo em recusro especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por NOTRE DAME INTERMEDICA SAUDE S.A., contra a decisão monocrática de fls. 309-310, e-STJ, que não conheceu do agravo da ora insurgente, por considerá-lo intempestivo.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 228-236, e-STJ):
+Apelação Cível. Plano de saúde. Pretensão de indenização por danos materiais e morais relativos à negativa de custeio do tratamento de Estimulação Magnética Transcraniana (EMT). Sentença de parcial procedência deferindo apenas os danos materiais pretendidos. Inconformismo das partes. Alegação da ré de legalidade na recusa do fornecimento do tratamento. Não acolhimento. Havendo prescrição do tratamento pelo médico para evolução da saúde e do bem-estar do autor, o plano de saúde não pode interferir ou restringir os procedimentos adotados pelo profissional. Danos morais. Cabimento. Negativa da ré que aumentou o sofrimento que já se fazia presente em razão da enfermidade que acometia a autora. Valor de R$ 6.000,00 (seis mil reais) que se mostra razoável para indenizar a autora pelo sofrimento experimentado. Sentença parcialmente reformada. Recurso da autora provido e recurso da ré improvido.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 272-276, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 6º, § 1º, do Decreto-Lei 4.657/42; 10, caput e § 1º, 12, caput, e 35-G da Lei 9.656/98; 186, 187, 188, I, 884, 927 e 944 do Código Civil; e 1.022 do CPC.
+Sustenta, em síntese: a) omissão quanto à análise de dispositivos legais indicados nos embargos de declaração, configurando violação ao art. 1.022 do CPC; b) tese de que o rol de procedimentos da ANS é taxativo, não havendo obrigação de custeio de tratamentos não previstos, conforme entendimento consolidado no EREsp 1.889.704/SP e EREsp 1.886.929/SP; c) inexistência de ato ilícito, pois a negativa de cobertura foi amparada no exercício regular de direito, nos termos do art. 188, I, do Código Civil; d) ausência de comprovação dos critérios exigidos pela Lei 14.454/22 para cobertura de tratamentos fora do rol da ANS; e) desproporcionalidade no valor arbitrado a título de danos morais, em afronta aos arts. 884 e 944 do Código Civil.
+Contrarrazões apresentadas às fls. 281-284, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 291-299, e-STJ).
+Contraminuta apresentada às fls. 320-303, e-STJ.
+Em decisão monocrática (fls. 309-310, e-STJ), a Presidência desta Corte não conheceu do recurso, ante: a) a exigência dos requisitos de admissibilidade do novo CPC, eis que a decisão impugnada fora publicada após a entrada em vigor do CPC/15; b) a parte foi intimada do decisum em 8/7/2024 e o reclamo interposto em 31/7/2024, portanto fora do prazo legal; c) consoante o disposto no art. 1.003, § 6º, do CPC/15, o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso.
+Daí o presente agravo interno (fls. 314-318, e-STJ), no qual sustenta, em síntese, a tempestividade do recurso, ao argumento de que houve a suspensão do expediente nos dias 8 e 9/7/2024, em razão da suspensão do expediente no Tribunal a quo e do feriado, respectivamente. Apresentou documentos às fls. 336-341, e-STJ.
+Sem impugnação (certidão às fls. 323, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO, ANTE A SUA INTEMPESTIVIDADE.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte Especial, em julgamento de questão de ordem no AREsp 2.638.376/MG, definiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada, portanto, no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso sob fundamento da falta de comprovação de ausência de expediente forense no período.
+1.1. Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei nº 14.939/2024, "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+1.2. No presente agravo interno, a parte apresentou documentos que comprovam a suspensão do expediente forense no curso do prazo recursal, tornando tempestivo o reclamo.
+1.3. Decisão monocrática reconsiderada com o julgamento, de plano, do agravo em recurso especial.
+2. Em razão do princípio da dialeticidade, deve a parte agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+3. Agravo interno provido para reconsiderar a decisão singular da Presidência e, de plano, não conhecer do agravo em recusro especial.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O presente recurso merece prosperar.
+1. Consoante relatado, a decisão singular da Presidência do STJ não conheceu do agravo ante a sua intempestividade, visto que a parte recorrente foi intimada do decisum em 8/7/2024 e o reclamo interposto em 31/7/2024, sem a apresentação de documento idôneo capaz de comprovar a suspensão do expediente forense no período.
+Todavia, no presente agravo interno, após intimação para comprovar a ocorrência de feriado local, a insurgente apresentou documentos às fls. 336-341, e-STJ, os quais demonstram a suspensão dos prazos processuais nos dias 8 e 9/7/2024, em todas as unidades do Poder Judiciário de São Paulo.
+No particular, a Corte Especial do STJ, em recente julgamento de questão de ordem no AREsp 2.638.376/MG, firmou entendimento no sentido de que a Lei nº 14.939/2024, que alterou a redação do § 6º do art. 1.003 do CPC, é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso devido a não comprovação da ausência de expediente forense no período.
+Desta forma, considerando a fluência do prazo a partir da intimação ocorrida em 10/7/2024, bem ainda de ter sido demonstrado no agravo interno a ausência de expediente nos dias 8 e 9/7/2024, revela-se tempestivo o agravo protocolado em 31/7/2024.
+Reconsidero, portanto, a decisão singular ora agravada e passo, de pronto, a nova apreciação do agravo.
+2. O presente recurso não deve ser conhecido.
+2.1. No decisum de inadmissibilidade (fls. 285-288, e-STJ), o Tribunal local inadmitiu o apelo face os fundamentos da não vulneração dos dispositivos, da ausência de negativa de prestação jurisdicional, da incidência das Súmulas 7/STJ e 284/STF e divergência jurisprudencial não comprovada.
+Com efeito, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar especificamente os fundamentos suficientes para manter o decisum hostilizado, de maneira a demonstrar que o julgamento proferido merece ser modificado; ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge, deve especificamente infirmar a fundamentação utilizada.
+No caso, observa-se que a agravante não combateu, especificamente, todos os fundamentos utilizados pela Corte Estadual para inadmitir o processamento do apelo extremo. Isso porque, quanto aos óbices aplicados pela instância de origem, relativos à não vulneração dos dispositivos, ausência de negativa de prestação jurisdicional, incidência das Súmulas 7/STJ e 284/STF e divergência jurisprudencial não comprovada, permaneceu silente.
+Tal conduta determina o não conhecimento da irresignação, na forma dos arts. 932, III, do CPC/15 e 253, parágrafo único, I, do RISTJ:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+(..)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério
+Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+Assim, incide, na espécie, a Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, os recentes julgados da Corte Especial deste Tribunal: EAREsp n.701404/SC, EAREsp n. 746775/PR e EAREsp n. 831326/SP.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+3. Do exposto, dá-se p rovimento ao agravo interno para reconsiderar a decisão singular da Presidência e, de plano, com fundamento no art. 932 do CPC c/c Súmula 182/STJ, não conheço do agravo em recurso especial.
+É o voto.
