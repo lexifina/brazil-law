@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. CONTRATO DE PERMUTA. CLÁUSULA RESOLUTIVA EXPRESSA. INADIMPLEMENTO CONTRATUAL. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NATUREZA PRECÁRIA DA DECISÃO. INCIDÊNCIA DA SÚMULA 735/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. A análise da controvérsia demanda reexame de cláusulas contratuais e do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7/STJ.
+2. A decisão recorrida possui natureza precária, passível de modificação a qualquer tempo, atraindo a aplicação da Súmula 735/STF.
+3. Fundamento autônomo e suficiente do acórdão recorrido não foi impugnado, incidindo, no caso, a Súmula 283/STF.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELISEU UJACOV NOGUEIRA e OUTROS contra decisão singular de minha lavra que não conheceu do recurso especial, pelos seguintes fundamentos: a) incidência da Súmula 735/STF, por se tratar de decisão de natureza precária; b) incidência das Súmulas 5 e 7/STJ, em razão da necessidade de reexame de cláusulas contratuais e do conjunto fático-probatório; c) incidência da Súmula 283/STF, por ausência de impugnação de fundamento autônomo e suficiente do acórdão recorrido.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o recurso especial não versa exclusivamente sobre o deferimento ou indeferimento de tutela provisória, mas sim sobre a correta aplicação dos arts. 474 e 475 do Código Civil, que disciplinam a cláusula resolutiva expressa e seus efeitos; a controvérsia não demanda reexame de provas ou interpretação de cláusulas contratuais, mas apenas a subsunção dos fatos incontroversos às normas jurídicas aplicáveis; o recurso especial impugnou todos os fundamentos relevantes do acórdão recorrido, não havendo fundamento autônomo inatacado.
+Contraminuta às fls. 592-595.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. CONTRATO DE PERMUTA. CLÁUSULA RESOLUTIVA EXPRESSA. INADIMPLEMENTO CONTRATUAL. REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NATUREZA PRECÁRIA DA DECISÃO. INCIDÊNCIA DA SÚMULA 735/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. A análise da controvérsia demanda reexame de cláusulas contratuais e do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7/STJ.
+2. A decisão recorrida possui natureza precária, passível de modificação a qualquer tempo, atraindo a aplicação da Súmula 735/STF.
+3. Fundamento autônomo e suficiente do acórdão recorrido não foi impugnado, incidindo, no caso, a Súmula 283/STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Originariamente, os agravantes ajuizaram ação declaratória de nulidade de negócio jurídico, com pedido de tutela de urgência, visando à resolução de contrato de permuta firmado com a agravada e à reintegração na posse de imóvel rural. Alegaram inadimplemento contratual por parte da agravada, que não teria cumprido as obrigações pactuadas, incluindo o pagamento de quantia em dinheiro e a entrega de unidades condominiais livres de ônus.
+O Tribunal de origem conheceu parcialmente do agravo de instrumento interposto pelos autores e, na parte conhecida, negou-lhe provimento, sob o fundamento de que a reintegração de posse depende do reconhecimento da nulidade do contrato de permuta, o que não seria possível em sede de tutela provisória.
+Como constou na decisão agravada, a análise da controvérsia demanda reexame de cláusulas contratuais e do conjunto fático-probatório, o que atrai a incidência das Súmulas 5 e 7/STJ. Ademais, a decisão recorrida possui natureza precária, passível de modificação a qualquer tempo, o que justifica a aplicação da Súmula 735/STF. Por fim, o recurso especial deixou de impugnar fundamento autônomo e suficiente do acórdão recorrido, atraindo a incidência da Súmula 283/STF.
+Pois bem, o acórdão recorrido é de agravo de instrumento que manteve o indeferimento de tutela cautelar/urgência incidental, expressamente afirmando que o pedido de reintegração de posse (pedido sucessivo) depende do reconhecimento da nulidade do contrato de permuta (pedido principal), razão pela qual é incabível a antecipação de tutela nessa sede.
+Trata-se, pois, de decisão provisória, de cognição sumária (não-exauriente) e suscetível de modificação, o que atrai a aplicação analógica da Súmula 735/STF.
+Foi exatamente nessa linha que a Vice-Presidência do TJMS inadmitiu o REsp  registrando a natureza precária e a inviabilidade da via excepcional  e que a decisão monocrática no STJ reafirmou a incidência da Súmula 735/STF ao tratar de pretensão voltada a reexaminar indeferimento de tutela provisória.
+No agravo interno, os recorrentes procuram qualificar o debate como "definitivo" sobre os arts. 474 e 475 do CC, mas essa tentativa não altera a moldura processual efetivamente impugnada (tutela provisória indeferida em agravo de instrumento) nem afasta o caráter precário identificado nas decisões de inadmissibilidade.
+Tampouco procede a tese de que o REsp cuidaria apenas de subsunção a fatos incontroversos.
+O próprio acórdão recorrido assentou, entre outros pontos, que (i) não se demonstrou insuficiência patrimonial da construtora; (ii) os agravantes tinham ciência dos ônus (hipoteca/arresto) por força da cláusula 9ª; (iii) a reintegração depende do reconhecimento da nulidade (pedido principal); e (iv) questões atinentes à cláusula 11ª devem ser submetidas aos autos conexos indicados.
+Todas essas premissas evidenciam controvérsia fático-probatória e contratual  e não mera qualificação jurídica de fatos incontroversos  cujo reexame é vedado na via especial.
+Por isso, a decisão monocrática desta Corte apontou a incidência das Súmulas 5 e 7/STJ, ressaltando que o que se pretende no especial implica reinterpretação de cláusulas do contrato (por exemplo, 9ª e 11ª) e revolvimento do conjunto fático-probatório (suposta insolvência, leilões, extensão de gravames, alegada impossibilidade de cumprimento).
+A par disso, as próprias razões recursais revelam que o REsp foi construído sobre narrativa de inadimplemento (torna de R$ 300.000,00 não paga; descumprimento do prazo para "desembaraço" das unidades pela cláusula 11ª; leilões em SP), reivindicando a aplicação direta dos arts. 474/475 do CC para resolver o contrato com reintegração de posse  o que pressupõe (e exige) revolvimento de fatos e de cláusulas.
+A decisão agravada também aplicou a Súmula 283/STF porque permaneceu inatacado fundamento autônomo e suficiente do acórdão recorrido.
+E aqui, de novo, os autos confirmam: o acórdão estadual assentou múltiplos pilares para manter a negativa d a tutela  insuficiência patrimonial não demonstrada, dependência lógica (nulidade  reintegração) e remessa das questões sobre a cláusula 11ª a outro feito  , ao passo que o REsp concentrou-se na tese de cláusula resolutiva expressa (arts. 474/475 CC) e nos efeitos pretendidos (resolução e reintegração), sem rebater, de forma específica e completa, todos os fundamentos autônomos.
+Aliás, o teor do AREsp e da decisão monocrática evidencia justamente isso: a peça recursal insiste no "inadimplemento incontroverso" e na operabilidade de pleno direito da cláusula resolutiva, mas não enfrenta, ponto a ponto, as razões do acórdão para negar tutela (sumária) em sede de agravo de instrumento.
+Daí a correta incidência do óbice da Súmula 283/STF assinalada na decisão agravada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
