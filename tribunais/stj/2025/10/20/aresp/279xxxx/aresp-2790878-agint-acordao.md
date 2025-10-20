@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE QUANTIA PAGA. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM EMPREENDIMENTO HOTELEIRO. RELAÇÃO DE CONSUMO. TEORIA FINALISTA MITIGADA. DESISTÊNCIA DO PROMITENTE COMPRADOR. DEVOLUÇÃO PARCIAL DOS VALORES PAGOS. SÚMULA 543/STJ. INAPLICABILIDADE DO REGIME DE OBRA POR ADMINISTRAÇÃO. INAPLICABILIDADE DAS SÚMULAS 5, 7 E 83/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Configurada a relação de consumo, aplica-se o Código de Defesa do Consumidor, afastando-se o regime de obra por administração.
+2. A devolução parcial dos valores pagos pelo promitente comprador, em caso de desistência, está em consonância com a Súmula 543/STJ.
+3. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por TC NEXUS I EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e RAJA SOCIEDADE UNIPESSOAL contra decisão singular que não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do Código de Processo Civil, e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, em razão da ausência de impugnação específica de todos os fundamentos da decisão agravada.
+Nas razões do presente agravo interno, as agravantes alegam, em síntese, que houve impugnação específica de todos os fundamentos da decisão agravada, especialmente no que tange à inaplicabilidade das Súmulas 5, 7 e 83/STJ, bem como da Súmula 284/STF. Sustentam que a decisão agravada incorreu em equívoco ao considerar que não houve impugnação específica, e reiteram os argumentos apresentados no agravo em recurso especial.
+Decorreu o prazo sem apresentação de impugnação (fl. 3.720).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE QUANTIA PAGA. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM EMPREENDIMENTO HOTELEIRO. RELAÇÃO DE CONSUMO. TEORIA FINALISTA MITIGADA. DESISTÊNCIA DO PROMITENTE COMPRADOR. DEVOLUÇÃO PARCIAL DOS VALORES PAGOS. SÚMULA 543/STJ. INAPLICABILIDADE DO REGIME DE OBRA POR ADMINISTRAÇÃO. INAPLICABILIDADE DAS SÚMULAS 5, 7 E 83/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Configurada a relação de consumo, aplica-se o Código de Defesa do Consumidor, afastando-se o regime de obra por administração.
+2. A devolução parcial dos valores pagos pelo promitente comprador, em caso de desistência, está em consonância com a Súmula 543/STJ.
+3. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Originariamente, ANGELICA PINTO DA SILVA ajuizou ação de rescisão contratual cumulada com pedido de devolução de valores pagos em face de TC NEXUS I EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. e RAJA SOCIEDADE UNIPESSOAL, alegando que adquiriu unidade imobiliária no empreendimento Nexus Hotel e Residences, mas, em razão do atraso na entrega do imóvel, não possui mais condições de arcar com as parcelas do contrato. Requereu a rescisão do contrato e a devolução de 90% dos valores pagos.
+A sentença julgou parcialmente procedente o pedido, decretando a rescisão do contrato e determinando a devolução de 80% dos valores pagos, com correção monetária a partir de cada desembolso e juros de mora a partir do trânsito em julgado. O Tribunal de origem manteve a sentença, afastando a aplicação do regime de obra por administração e reconhecendo a relação de consumo entre as partes, com base na teoria finalista mitigada.
+No agravo em recurso especial, as agravantes alegaram, entre outros pontos, a inaplicabilidade do Código de Defesa do Consumidor e a necessidade de observância do regime de obra por administração, previsto na Lei 4.591/64. A decisão agravada inadmitiu o recurso especial, com fundamento na ausência de impugnação específica de todos os fundamentos da decisão recorrida, na incidência das Súmulas 5, 7 e 83/STJ, e na deficiência de fundamentação, nos termos da Súmula 284/STF.
+A decisão monocrática desta Corte, ora agravada, foi explícita: o AREsp deixou de impugnar especificamente (i) a ausência/erro de indicação do permissivo constitucional; (ii) a ausência/erro na indicação de artigo de lei federal violado; (iii) a incidência da Súmula 83/STJ; e (iv) a falta de indicação de acórdãos paradigmas para demonstrar dissídio, todas razões autônomas invocadas na origem (muitas delas sob o rótulo da Súmula 284/STF), além dos óbices das Súmulas 5 e 7/STJ.
+Com base no art. 932, III, do CPC e na jurisprudência da Corte Especial sobre a unidade do dispositivo nas decisões de inadmissibilidade, concluiu-se pelo não conhecimento do agravo em recurso especial (Súmula 182/STJ).
+Com efeito, a 3ª Vice-Presidência do TJRJ indeferiu o juízo de admissibilidade por múltiplos fundamentos autônomos: permissivo constitucional mal indicado/ausente (Súmula 284/STF), deficiência na indicação de dispositivos de lei federal (Súmula 284/STF), incidência das Súmulas 5 e 7/STJ (interpretação contratual e revolvimento fático-probatório) e falta de cotejo analítico idôneo para a alínea "c" (art. 255 do RISTJ), além de Súmula 83/STJ quanto aos consectários (correção desde cada desembolso).
+No AREsp, entretanto, as recorrentes não atacaram (um a um) todos esses fundamentos: deixaram sem enfrentamento específico o vício do permissivo constitucional, a deficiência na indicação dos artigos federais supostamente violados, a Súmula 83/STJ e a falta de paradigmas/cotejo analítico exigido pelo art. 255 do RISTJ  circunstância registrada expressamente na decisão monocrática ora impugnada.
+A consequência é a incidência direta da Súmula 182/STJ, pois "não se conhecerá do AREsp que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A jurisprudência da Corte Especial é firme: a decisão que inadmite o REsp possui dispositivo único, ainda que fundado em mais de um óbice; por isso, a parte agravante deve impugnar todos os fundamentos de inadmissibilidade, sob pena de não conhecimento.
+Além disso, o Tribunal fluminense não apenas reconheceu a relação de consumo (teoria finalista mitigada), como também afastou a moldura fática-jurídica do regime de obra por administração, destacando elementos contratuais e probatórios próprios do caso (destinatário dos pagamentos, atuação da comissão, retenções em caso de desistência etc.).
+Rever tais premissas demandaria reinterpretação de cláusulas e reexame de prova, providências vedadas pelas Súmulas 5 e 7 do STJ na via especial.
+No ponto, o agravo interno insiste em tratar o tema como questão de direito puro, mas sua conclusão depende, inevitavelmente, do contexto fático-contratual fixado pelas instâncias ordinárias  precisamente o que as Súmulas 5 e 7 obstam.
+Quanto ao dissídio jurisprudencial sem cotejo analítico (art. 255 do RISTJ), vê-se que o REsp, embora tenha invocado a alínea "c", deixou de cotejar analiticamente nos moldes regimentais: comparação de arestos, similitude fática e jurídica, indicação dos dispositivos legais e trechos pertinentes.
+D aí a manutenção do óbice (Súmula 284/STF) pela origem e o reconhecimento, por esta Corte, da falta de impugnação específica sobre esse ponto.
+Também a decisão agravada explicitou que permaneceram sem ataque específico: (i) o vício de ausência/erro na indicação da alínea do art. 105, III, CF; e (ii) a deficiência quanto à indicação precisa dos dispositivos federais tidos por violados (Súmula 284/STF).
+O agravo interno limitou-se a afirmar genericamente que teria havido impugnação ampla, mas não demonstrou onde efetivamente enfrentou tais vícios formais, dando azo à manutenção do óbice imposto pela Súmula 182/STJ.
+Quanto aos consectários, o acórdão estadual aplicou a orientação deste Tribunal quanto ao termo inicial da correção monetária  "o efetivo desembolso"  , solução consolidada que atrai a Súmula 83/STJ.
+Esse fundamento não foi impugnado de modo específico no AREsp, consoante consignado pela decisão agravada, o que reforça a conclusão pelo não conhecimento.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
