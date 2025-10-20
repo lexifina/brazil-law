@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LILIAN KELLY FAZAN, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Narra a defesa que a paciente encontra-se presa preventivamente desde 15/08/2025, pela suposta prática do crime de tráfico de drogas.
+No presente writ, alega a defesa que a prisão preventiva foi mantida com fundamentação genérica, sem demonstração dos requisitos do art. 312 do Código de Processo Penal, apontando a pequena quantidade apreendida e a ausência de elementos típicos da mercancia.
+Sustenta, ademais, a fragilidade da materialidade delitiva, por existir apenas laudo preliminar (teste de Scott) indicativo de cocaína, sem confirmação laboratorial definitiva.
+Ressalta que a paciente é primária, possui residência fixa, é mãe de criança menor de 12 anos e que medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, seriam suficientes ao acautelamento.
+Argumenta, ainda, a incidência do princípio da proteção integral da criança e o cabimento da prisão domiciliar.
+Por fim, ressalta o quadro psiquiátrico da paciente, com crises recorrentes e necessidade de tratamento contínuo, o que tornaria incompatível a custódia preventiva.
+Requer a revogação da prisão preventiva da paciente, com a expedição do competente alvará de soltura. Subsidiariamente, pleiteia a substituição por prisão domiciliar, nos termos dos arts. 318, V, e 318-A, do Código de Processo Penal, ou a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. D essa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do decreto preventivo e do inteiro teor do acórdão impugnado.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
