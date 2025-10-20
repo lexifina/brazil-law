@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. IMPLANTE DE PRÓTESE AÓRTICA TRANSVALVAR (TAVI). IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de obrigação de fazer.
+2. Agravo interno interposto contra decisão que negou provimento ao recurso especial em virtude da incidência da Súmula 568/STJ.
+3. É inepta a petição de agravo interno que não impugna, especificamente, o fundamento da decisão agravada, na hipótese, relativo à aplicação da Súmula 182/STJ.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por FUNDACAO CESP, contra decisão que negou provimento ao recurso especial.
+Ação: de obrigação de fazer ajuizada por MARIA MARGARIDA ARAÚJO ALCOBIA em face da recorrente, visando o custeio do procedimento cirúrgico de implante de prótese aórtica transvalvar (TAVI) com a utilização dos materiais inerentes ao ato, junto ao hospital HCor (credenciado).
+Sentença: julgou procedente o pedido, condenando a requerida ao cumprimento da obrigação de fazer, consistente na cobertura do procedimento de troca valvular aórtica percutânea (TAVI), segundo guia de solicitação médica.
+Acórdão: negou provimento ao recurso da recorrente, nos termos da seguinte ementa:
+APELAÇÃO PLANO DE SAÚDE OBRIGAÇÃO DE FAZER NEGATIVA DE CUSTEIO DE PROCEDIMENTO CIRÚRGICO PARA IMPLANTAÇÃO DE TAVI PRESCRIÇÃO MÉDICA COBERTURA DEVIDA ROL DE COBERTURA DA ANS EXEMPLIFICA A COBERTURA MÍNIMA OBRIGATÓRIA, MAS NÃO EXCLUI TRATAMENTO PRESCRITO POR PROFISSIONAL HABILITADO FUNDAMENTOS DA SENTENÇA QUE DÃO SUSTENTAÇÃO ÀS RAZÕES DE DECIDIR APLICAÇÃO DO ARTIGO 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - SENTENÇA DE PROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO.
+Determinado juízo de retratação ante o julgamento do tema 1076 quanto aos honorários de sucumbência, deu-se provimento ao recurso da autora, nos termos da seguinte ementa:
+"APELAÇÃO OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - CONTROVÉRSIA LIMITADA À FIXAÇÃO DA VERBA HONORÁRIA - VALOR DOS HONORÁRIOS ADVOCATÍCIOS QUE DEVE SER ARBITRADO COM BASE NO VALOR DA CONDENAÇÃO, NOS TERMOS DO ARTIGO 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015 - APLICAÇÃO DAS TESES DEFINIDAS PELO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA NOS RECURSOS REPETITIVOS: REsp 1850512/SP, 1877883/SP, 1906623/SP E 1906618/SP, Tema 1.076 - RECURSO DA AUTORA PROVIDO."
+Embargos de Declaração: opostos por Fundação CESP foram rejeitados.
+Recurso especial: alega violação dos artigos 10, parágrafos 3º e 4º da Lei nº 9.656 de 1998 e 422 do Código Civil. Sustenta que a negativa do plano de saúde foi baseada em cláusula contratual vigente e válida, e que as questões sobre cobertura de procedimentos devem ser analisadas sob o enfoque da natureza jurídica da Vivest, pois os planos de saúde geridos sob o sistema de autogestão devem receber tratamento diferenciado.
+Decisão unipessoal: negou provimento ao recurso especial ante a incidência da Súmula 568/STJ a respeito da interpretação e exigibilidade do atendimento às diretrizes de utilização (DUT) para a cobertura de procedimento incluído no rol da ANS.
+Agravo interno: o agravante alega que não é obrigatória a cobertura de tratamento não previsto no rol da ANS, que tem natureza taxativa, e no contrato firmado entre as partes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. IMPLANTE DE PRÓTESE AÓRTICA TRANSVALVAR (TAVI). IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de obrigação de fazer.
+2. Agravo interno interposto contra decisão que negou provimento ao recurso especial em virtude da incidência da Súmula 568/STJ.
+3. É inepta a petição de agravo interno que não impugna, especificamente, o fundamento da decisão agravada, na hipótese, relativo à aplicação da Súmula 182/STJ.
+4. Agravo interno não conhecido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada negou provimento ao recurso especial, nos seguintes termos (fls. 472/475, e-STJ):
+- Da Súmula 568 do STJ
+O acórdão recorrido ratificou a sentença de procedência em sua integralidade, a qual, por sua vez, assim fundamentou a procedência do pedido (e-STJ fls. 166/168):
+Nos termos do art. 12, caput, inciso I, alínea "b", da Lei n. 9.656/98, constitui exigência mínima dos planos de saúde com atendimento ambulatorial "b) cobertura de serviços de apoio diagnóstico, tratamentos e demais procedimentos ambulatoriais, solicitados pelo médico assistente". Por sua vez, o art. 10, § 4º, da mesma Lei, estabelece o seguinte: "A amplitude das coberturas no âmbito da saúde suplementar, inclusive de transplantes, de procedimentos de alta complexidade e das dispostas nas alíneas "c" do inciso I e "g" do inciso II do caput do art. 12, será estabelecida em norma editada pela ANS".
+Existem tratamentos de saúde considerados padrão- ouro ou mais avançados, segundo o atual estágio da Medicina. No entanto, é do conhecimento comum que existem procedimentos em saúde suplementar menos custosos e igualmente adequados ao tratamento de doenças e lesões com cobertura contratual.
+A Súmula 102 do Tribunal de Justiça de São Paulo estabelece que, "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS".
+(..)
+A recente jurisprudência do Superior Tribunal de Justiça é no sentido na natureza taxativa do rol de procedimentos e eventos em saúde da ANS, sendo admitidas exceções devidamente justificadas. Nesse sentido, em julgamento finalizado no último dia 8 de junho, o STJ definiu as seguintes teses (R Esp 1.886.929/SP):
+1 - O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2 - A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3 - É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4 - Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Na hipótese dos autos, é certo que a autora não preenche as diretrizes terapêuticas para cobertura do procedimento obrigatório, incluído no Rol de Procedimentos da ANS. De fato, o procedimento de troca valvar por via percutânea foi incluído no Rol da ANS, com diretrizes de utilização previstas na DUT 143. A cobertura é obrigatória para os pacientes com idade igual ou superior a 75 anos, sintomáticos, com expectativa de vida maior que um ano, inoperáveis ou com alto risco cirúrgico, definido como escore STS > 8%. No caso, a autora apresenta escore de risco cirúrgico de 2,4198%, abaixo do índice estabelecido na diretrizes de utilização.
+No entanto, o relatório médico às fls. 20 justifica a excepcional indicação do procedimento cirúrgico. Isso porque, apesar do baixo risco cirúrgico calculado pelos "scores", a paciente apresenta comorbidades, idade avançada e, portanto, maior fragilidade, justificando-se a indicação da cirurgia de troca valvular aórtica percutânea (TAVI) como alternativa à cirurgia tradicional.
+Da leitura dos trechos acima, verifica-se que a decisão proferida pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte no sentido de que "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp n. 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Nas razões do presente agravo interno, a parte agravante defende a não obrigatoriedade de cobertura do tratamento prescrito, pois não incluído no rol da ANS, além de ausência de parecer da CONITEC sobre eficácia e segurança e inexistência de autorização da ANVISA para uso no SUS. Sustenta, ainda a natureza taxativa do rol da ANS de modo que a ausência do tratamento no rol da ANS e no contrato firmado entre as partes afasta a obrigatoriedade de cobertura do procedimento de troca valvular aórtica percutânea (TAVI).
+Assim, a parte agravante não impugna o fundamento da decisão ora agravada relativo à aplicação da Súmula 568/STJ quanto à interpretação e exigibilidade do atendimento às diretrizes de utilização (DUT) para a cobertura de procedimento incluído no rol da ANS.
+Saliente-se que cabia à parte, na hipótese, demonstrar que outra era a jurisprudência do STJ a respeito de que a DUT "deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências".
+Não o fazendo, ou seja, não demonstrando a agravante o desacerto da decisão agravada, o conhecimento do presente agravo interno também se mostra inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
