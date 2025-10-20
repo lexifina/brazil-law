@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. INÉRCIA DA PARTE. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. Na hipótese, a parte agravante não apresentou, no ato de interposição do agravo em recurso especial, documento válido que comprovasse a ocorrência de feriado local ou a suspensão de expediente forense. Oportunizada a regularização posterior, manteve-se inerte, sendo de rigor a manutenção da decisão que não conheceu do recurso.
+4 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por VICENTE MACHADO DIAS e OUTRO contra decisão proferida pelo Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo, ante a sua intempestividade.
+Nas razões do agravo interno, a parte agravante requer a reconsideração da decisão, alegando para tanto que "o recurso foi interposto tempestivamente, havendo mero equívoco na apresentação da documentação de comprovação de tempestividade, sendo apresentado a referida documentação baseada neste tribunal STJ, e não do juízo a quo." (e-STJ, fl. 496).
+Devidamente intimada, a parte agravada apresentou impugnação (e-STJ, fls. 706/710)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DO ART. 1.003, § 6º, DO CPC, COM AS ALTERAÇÕES DA LEI 14.939/2024. INTIMAÇÃO PARA COMPROVAÇÃO POSTERIOR DA TEMPESTIVIDADE RECURSAL. INÉRCIA DA PARTE. SUSPENSÃO DO EXPEDIENTE FORENSE NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos dos arts. 219, caput, 994, VII e VIII, 1.003, § 5º, 1.029, § 3º, e 1.042, caput, do Código de Processo Civil de 2015, o prazo para interposição do recurso especial e do agravo em recurso especial é de 15 (quinze) dias úteis.
+2. Conforme disposto no art. 1.003, § 6º, do CPC, com redação dada pela Lei 14.939/2024, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+3. Na hipótese, a parte agravante não apresentou, no ato de interposição do agravo em recurso especial, documento válido que comprovasse a ocorrência de feriado local ou a suspensão de expediente forense. Oportunizada a regularização posterior, manteve-se inerte, sendo de rigor a manutenção da decisão que não conheceu do recurso.
+4 . Agravo interno a que se nega provimento.
+VOTO
+Em que pesem os esforços empreendidos pela parte agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+Observa-se que os argumentos trazidos mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser confirmada por seus próprios fundamentos.
+A questão a ser enfrentada diz respeito à tempestividade do agravo em recurso especial.
+Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do CPC/2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+No caso, verifica-se que a parte recorrente foi intimada da decisão agravada em 2.4.2025, sendo o agravo somente interposto em 28.4.2025.
+Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei 14.939/2024, "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+Sobre o tema, recentemente, "A Corte Especial, em julgamento de questão de ordem no AREsp 2.638.376/MG, definiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada, portanto, no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso sob fundamento da falta de comprovação de ausência de expediente forense no período" (AgInt nos EDcl no AREsp 2.550.735/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/3/2025, DJEN de 27/3/2025).
+Nos moldes do entendimento firmado na Questão de Ordem lavrada pela Corte Especial do Superior Tribunal de Justiça, no AREsp 2.638.376/MG, à fl. 476 (e-STJ), a parte ora agravante foi intimada para comprovar a ocorrência de feriado local ou a suspensão de expediente forense, em consonância com a nova redação conferida pela Lei 14.939/2024 ao art. 1.003, § 6º, do Código de Processo Civil de 2015.
+Embora regularmente intimada para comprovar a tempestiva interposição do agravo em recurso especial, nos termos do art. 1.003, § 6º, do CPC, a parte ora agravante não o fez devida e oportunamente. Na espécie, não obstante a parte ter apresentado manifestação à fl. 478/482 (e-STJ), alegando a tempestividade recursal, da documentação colacionada no referido petitório infere-se que as alegadas suspensões dos expedientes referem-se a esta Corte Superior.
+Ressalte-se, que, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Assim, em decorrência da preclusão consumativa operada pela inércia da parte recorrente, é inviável o saneamento posterior para a comprovação da tempestividade recursal.
+Portanto, considerando que a parte agravante não apresentou documento válido que comprovasse, no ato de interposição do agravo em recurso especial, a suspensão do prazo processual em razão dos feriados locais e, posteriormente intimada, também não regularizou a tempestividade recursal, é de rigor a manutenção da decisão da Presidência desta Corte, que não conheceu do recurso por intempestividade.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
