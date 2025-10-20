@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual c/c indenização por danos materiais e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: i) incidência da Súmula 83 do STJ no tocante à possibilidade de configuração de dano moral quando houver elevado período de atraso na entrega da unidade imobiliária.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por JFE 45 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. - EM RECUPERACAO JUDICIAL contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial.
+Ação: de rescisão contratual c/c indenização por danos materiais e compensação por danos morais ajuizada por FILIPE CAMPOS DUTRA em face de JFE 45 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. - EM RECUPERACAO JUDICIAL, decorrente do injustificado atraso na entrega de unidade imobiliária objeto de contrato de compra e venda celebrado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos.
+Acórdão: negou provimento à apelação interposta por JFE 45 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. - EM RECUPERACAO JUDICIAL e OUTRO, nos termos da ementa abaixo:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. EMPREENDIMENTO IMOBILIÁRIO. ATRASO NA ENTREGA DO IMÓVEL. NÃO FOI CUMPRIDA A DATA ESTABELECIDA PARA CONCLUSÃO DA OBRA, QUAL SEJA 30/05/2016, SENDO O PRAZO PRORROGADO POR MAIS 180 DIAS, CONFORME ADMITIDA CONTRATUALMENTE, AINDA ASSIM NÃO FOI CONCLUÍDA. PEDE QUE O CONTRATO, SEJA IMEDIATAMENTE RESCINDIDO, SEJA IMPEDIDA A NEGATIVAR DO SEU NOME, A RESTITUIÇÃO INTEGRAL DO VALOR PAGO E INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA EIS QUE HÁ EXPRESSA PREVISÃO DE CLÁUSULA RESOLUTIVA NO PACTO - CLÁUSULA 6.2 DO PACTO.
+CONDENAÇÃO DE FORMA SOLIDÁRIA PARA AS RES DEVOLVEREM AO AUTOR A INTEGRALIDADE DOS VALORES PAGOS, NOS TERMOS DA SÚMULA 543 DO STJ E TEMA REPETITIVO 577 DO STJ, O QUE TOTALIZAVA NO AJUIZAMENTO DA DEMANDA R$379.983,51, VALORES ESTES ACRESCIDOS DE JUROS DE MORA DE 1% AO MÊS A CONTAR DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DE CADA DESEMBOLSO; CONDENAR AS RÉS A DE FORMA SOLIDÁRIA PAGAREM AO AUTOR R$4.000,00 PELOS DANOS MORAIS, ACRESCIDOS DE JUROS DE MORA DE 1% AO MÊS A CONTAR DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DESTA DATA. DIANTE DA SUCUMBÊNCIA MÍNIMA DA PARTE AUTORA, OS RÉUS FORAM CONDENADOS AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS, ARBITRADOS EM 20% DO VALOR DA CONDENAÇÃO.
+APELAÇÃO DOS RÉUS, OBJETIVANDO O RECONHECIMENTO DA ILEGITIMIDADE PASSIVA DA SEGUNDA RÉ, JOÃO FORTES ENGENHARIA, E A IMPROCEDÊNCIA DO DANO MORAL, E, ALTERNATIVAMENTE, SUA REDUÇÃO, ALÉM DA REFORMA DO TERMO INICIAL DOS JUROS DOS DANOS MORAIS, A FIM DE QUE SEJA FIXADO A PARTIR DA SENTENÇA E A REDUÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DO PATRONO DO APELADO. PRELIMINAR QUE SE REJEITA.
+RESPONSABILIDADE SOLIDÁRIA DAS EMPRESAS QUE PARTICIPAM DA CADEIA DE FORNECEDORAS. ARTIGO 7º DO CDC. A JOÃO FORTES ENGENHARIA S.A. COMPÕE O QUADRO SOCIETÁRIO DA 1ª APELANTE (JFE 45 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA) FORMANDO UM GRUPO ECONÔMICO). MARCA DA JOÃO FORTES ENGENHARIA QUE CONSTA NA PUBLICIDADE DO EMPREENDIMENTO, BEM COMO NOS DOCUMENTOS EMITIDOS A RESPEITO DOS VALORES RELATIVOS AO CONTRATO FIRMADO PELAS PARTES, COMO SE VÊ NO DEMONSTRATIVO DE ÍNDICE 000046, NA CORRESPONDÊNCIA DE ÍNDICE 000052 E NO DOCUMENTO DE ÍNDICE 000122, EM QUE A JOÃO FORTES ENGENHARIA COMUNICA O INÍCIO DAS OBRAS DO EMPREENDIMENTO IMOBILIÁRIO OBJETO DESTA DEMANDA.
+DANO MORAL EVIDENTE, FIXADO EM R$4.000,00 (QUATRO MIL REAIS), VALOR MÓDICO, CONSIDERANDO O IMENSO TRANSTORNO CAUSADO AO AUTOR PELO ATRASO DE MAIS DE 8 ANOS, MAS QUE DEVE SER MANTIDO POR AUSÊNCIA DE RECURSO DO AUTOR. INCIDÊNCIA DE JUROS A PARTIR DA CITAÇÃO. TRATANDO-SE DE RESPONSABILIDADE CONTRATUAL E SENDO A PROMITENTE VENDEDORA A RESPONSÁVEL EXCLUSIVA PELO DESCUMPRIMENTO DA AVENÇA, O TERMO INICIAL PARA A INCIDÊNCIA DOS JUROS MORATÓRIOS É A DATA DA CITAÇÃO, COM FUNDAMENTO NO ART.
+405 DO CÓDIGO CIVIL, QUE PREVÊ QUE, EM CASO DE PERDAS E DANOS, "CONTAM-SE OS JUROS DE MORA DESDE A CITAÇÃO INICIAL". HONORÁRIOS ADVOCATÍCIOS QUE OBSERVARAM ESTRITAMENTE OS PARÂMETROS INSCULPIDOS NO § 2º DO ARTIGO SUPRACITADO, NÃO EXISTINDO NENHUMA ILEGALIDADE NO PERCENTUAL ESTIPULADO DENTRO DAQUELES LIMITES, SENDO CERTO QUE O PERCENTUAL DE 20% LEVOU EM CONSIDERAÇÃO NÃO SÓ OS INCISOS DO § 2º DO ART. 85 DO CPC, COMO TAMBÉM A COMPLEXIDADE DA CAUSA E O TEMPO DESPENDIDO PELO PATRONO DO DEMANDANTE, MOTIVO PELO QUAL NÃO PROCEDE O PLEITO DE REDUÇÃO PARA O PERCENTUAL MÍNIMO PREVISTO NO ARTIGO 85, § 2º DO CPC. DESPROVIMENTO DO RECURSO. (e-STJ fls. 851-852).
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que impugnou adequadamente todos os fundamentos da decisão de inadmissibilidade, notadamente a incidência das Súmulas 5, 7 e 83 do STJ.
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual c/c indenização por danos materiais e compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: i) incidência da Súmula 83 do STJ no tocante à possibilidade de configuração de dano moral quando houver elevado período de atraso na entrega da unidade imobiliária.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TJ/RJ:
+i) incidência da Súmula 83 do STJ no tocante à possibilidade de configuração de dano moral quando houver elevado período de atraso na entrega da unidade imobiliária; e
+ii) aplicação das Súmulas 5 e 7 do STJ.
+- Da Súmula 83/STJ
+Em seu agravo em recurso especial, a parte agravante não refutou a incidência da Súmula 83/STJ quanto à possibilidade de configuração de dano moral quando houver elevado período de atraso na entrega da unidade imobiliária.
+Da renovada análise dos autos, observa-se que o agravante não indicou precedentes contemporâneos ou supervenientes ao referido na decisão agravada, de forma a comprovar que o acórdão recorrido diverge da orientação jurisprudencial desta Corte Superior, tampouco realizou qualquer distinção entre o precedente aplicado à hipótese e a questão jurídica decidida neste processo.
+Nesse sentido: AgInt no AREsp 868.542/RJ, Terceira Turma, DJe de 1/8/2017 e AgInt no AREsp 2.257.194/GO, Quarta Turma, DJe de 26/10/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
