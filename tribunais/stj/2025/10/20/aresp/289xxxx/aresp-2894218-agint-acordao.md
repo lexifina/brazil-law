@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO EM RAZÃO DA AUSÊNCIA DE INTIMAÇÃO. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. TEMA NÃO PREQUESTIONADO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, considerados os teores do acórdão recorrido e das razões recursais, as Súmulas 7 e 211 do STJ e 282 do STF se revelam óbices ao conhecimento do recurso, pois, além de ser necessário o reexame fático para o fim de afastar a premissa de que houve regular intimação, os arts. 85, 183 e 937 do CPC/2015 e o art. 25 da Lei n. 6.830/1980 não estão prequestionados.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão que, ao conhecer do agravo, com apoio em entendimento jurisprudencial e nas Súmulas 7 e 211 do STJ e 282 do STF, não conheceu de recurso especial em que discute a nulidade do julgamento do recurso de apelação, em razão da ausência de intimação, e, subsidiariamente, a base de cálculo dos honorários advocatícios de sucumbência.
+A parte agravante não concorda com os óbices sumulares ao conhecimento do recurso e sustenta, em síntese (fls. 601/606):
+Não se mostra necessário revolver o conjunto fático-probatório a fim de dirimir a controvérsia, afinal ela é exclusivamente jurídica. Discute-se se, em conformidade com os artigos 183, § 1º, art. 937, inciso I do CPC, art. 25 da LEF e do art. 85, §§ 2º e 3º, do CPC, é possível Tribunal de Justiça impedir que a parte, mesmo que manifeste interesse nos termos do regimento interno, apresente sustentação oral  ..  as prerrogativas processuais da Fazenda Pública se processam no interesse da coletividade, na medida em que o volume de processos e as matérias tratadas pela advocacia pública exigem um procedimento diverso que aquilate os interesses e permita a análise cuidadosa de todos os casos com a mesma atenção. Nesse sentido, além dos prazos dilatados, não se exige dos Entes Públicos, em específico, dos advogados públicos a consulta ao Diário Oficial para verificar os prazos processuais inaugurados, cometendo-lhes a prerrogativa de serem intimados pessoalmente de todos os atos do processo. Essa é a locução do art. 183, §1º, do CPC  ..  no caso dos autos, o Estado fora intimado em 16/10/2023 sobre a inclusão em pauta de seu recurso de Apelação, em sessão virtual que ocorreria em 08/11/2023. Nos termos do art. 60-A do Regimento Interno do TJRJ, cuja disciplina foi regulamentada pelo art. 9º do Ato Normativo 14/2020 do TJRJ, caso deseje retirar o feito da pauta de sessão virtual de julgamento, o advogado poderá apresentar objeção 48 horas antes do início da sessão de julgamento virtual. Urge destacar que a sessão virtual fora agendada para o dia 08/11/2024, a petição de objeção apresentada pelo ERJ foi protocolizada em 01/11/2024. Desta forma, a objeção ao julgamento virtual apresentada pelo Estado do Rio de Janeiro foi, portanto, tempestiva.
+Impugnação apresentada pela parte agravada (fls. 610/616).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO EM RAZÃO DA AUSÊNCIA DE INTIMAÇÃO. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. TEMA NÃO PREQUESTIONADO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, considerados os teores do acórdão recorrido e das razões recursais, as Súmulas 7 e 211 do STJ e 282 do STF se revelam óbices ao conhecimento do recurso, pois, além de ser necessário o reexame fático para o fim de afastar a premissa de que houve regular intimação, os arts. 85, 183 e 937 do CPC/2015 e o art. 25 da Lei n. 6.830/1980 não estão prequestionados.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve ser mantida.
+A propósito, vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 329/338):
+O Estado opôs embargos de declaração no indexador 350, no qual sustenta que tomou ciência da data da sessão virtual de julgamento e, apresentou petição, solicitando a retirada de pauta, requerendo o julgamento presencial ou por videoconferência, contudo, a petição foi considerada intempestiva.
+Alega que houve omissão quanto ao cumprimento do art. 60-A do regimento interno e, do art. 9, II, § 1º, do ato normativo TJRJ nº 14/2020.
+Afirma que não consta no processo o edital da referida pauta e a intimação não se refere ao edital, mas sobre a sessão de julgamento. Aduz que não houve intimação pessoal da fazenda pública.
+ ..
+O processo foi incluído na sessão de julgamento de 08/11/2023, com publicação no Diário da Justiça Eletrônico, em 11/10/2023, contendo o edital de julgamento, no qual é informado o prazo para retirada de pauta e apresentação de memorial.
+Destarte, na mesma data, foi expedida a intimação pessoal ao Estado do Rio de Janeiro acerca da designação de sessão virtual, sendo que foi certificada a intempestividade do requerimento, formulado pelo Estado, pois o prazo era até 26/10/2023, nos termos do edital publicado no DJe.
+Pois bem.
+Como registrado na decisão monocrática, considerados os teores do acórdão recorrido e das razões recursais, as Súmulas 7 e 211 do STJ e 282 do STF se revelam óbices ao conhecimento do recurso, pois, além de ser necessário o reexame fático para o fim de afastar a premissa de que houve regular intimação, os arts. 85, 183 e 937 do Código de Processo Civil - CPC/2015 e o art. 25 da Lei n. 6.830/1980 não estão prequestionados.
+No contexto, portanto, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
