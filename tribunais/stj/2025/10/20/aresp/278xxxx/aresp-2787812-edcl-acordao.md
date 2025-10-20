@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, "apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial". Precedentes.
+3. A jurisprudência do STJ é no sentido de que, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória". Precedentes.
+4. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração interpostos por JOSÉ DA SILVA MARTINS e JS MARTINS ADMINISTRAÇÃO EMPRESARIAL contra acórdão que negou provimento ao agravo interno de OAREZ FOELLMER RAMBO, ANTONIO FOELLMER RAMBO, MARLISA FOELLMER RAMBO, JORGE FOELLMER RAMBO, nos termos da seguinte ementa (e-STJ fl. 1533):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL E MATERIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OUOBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.
+1. Ação de obrigação de fazer cumulada com pedido de indenização por dano moral e material.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+6. Agravo interno não provido.
+Nas razões do presente recurso, os embargantes JOSÉ DA SILVA MARTINS e JS MARTINS ADMINISTRAÇÃO EMPRESARIAL, afirmam que o acórdão incorreu em omissão relevante, pois deixou de apreciar pedido específico quanto à aplicação da multa prevista no artigo 1.021, §4º, do CPC, requerida em contrarrazões como decorrência lógica da manifesta improcedência do agravo interno.
+Requer, assim, o acolhimento dos embargos de declaração para que seja "reconhecida a necessidade de aplicação da multa prevista no artigo 1.021, §4º, do Código de Processo Civil, em razão da manifesta improcedência e inadmissibilidade do agravo interno interposto, cujo conteúdo se revelou meramente protelatório, em consonância com a fundamentação expendida na própria decisão e nas contrarrazões apresentadas" (fl.1551).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Embargos de declaração que apontam suposta omissão em sua fundamentação.
+2. Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, "apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial". Precedentes.
+3. A jurisprudência do STJ é no sentido de que, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória". Precedentes.
+4. Ausentes os vícios previstos no art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+5. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Preliminarmente, em harmonia com o princípio da unicidade recursal, não conheço dos embargos de declaração interpostos às fls. 1553-1561, tendo em vista a preclusão consumativa ocorrida com a prévia interposição dos presentes embargos de fls. 1544-1552.
+A jurisprudência do STJ é no sentido de que "Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial" (AgInt no AREsp n. 2.124.510/RJ, Terceira Turma, DJe de 17/2/2023).
+Nos termos do art. 1.022 do Código de Processo Civil, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Verifica-se, nessa linha, que a questão apontada pelas partes embargantes, restringe-se ao pedido de aplicação, à parte agravante, ora embargada, da multa prevista no art. 1.021, §4º, do CPC, não se constituindo, portanto, em pontos omissos, contraditórios ou obscuros do julgado.
+A embargante sustenta a existência de omissão no acórdão quanto à imposição da referida penalidade, ao argumento de que o agravo interno interposto teria sido considerado manifestamente improcedente, "porquanto o recurso não trouxe qualquer argumento novo ou apto a infirmar os fundamentos da decisão monocrática" (fls. 1548).
+No entanto, o acórdão recorrido foi claro ao negar provimento ao agravo interno, mantendo a decisão monocrática que não conheceu do agravo em recurso especial. Ao contrário do alegado pela parte embargante, embora o agravo tenha sido improvido, o acórdão não declarou que o recurso teria sido abusivo, meramente protelatório ou manifestamente improcedente.
+Conforme entendimento desta Corte de Justiça, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória." (AgInt no AREsp 2763943/MS, Terceira Turma, DJEN 08/05/2025).
+No mesmo sentido: AgInt nos EDcl no AgInt no AREsp 1746080/DF, Terceira Turma, DJEN 04/04/2025; AgInt no AREsp 2772083/SP, Terceira T urma, DJEN 03/04/2025; EDcl no AgInt no REsp 2012074/MT, Quarta Turma, DJEN 19/12/2024; e EDcl no AgInt no REsp 1966847/RS, Quarta Turma, DJEN 29/11/2024.
+Verifica-se, portanto, que a ausência de manifestação expressa quanto à aplicação da multa prevista pelo art. 1.021, § 4º, do CPC, decorreu, não de omissão do julgado, mas da inexistência dos requisitos para sua imposição, uma vez que a interposição do agravo interno por OAREZ FOELLMER RAMBO, ANTONIO FOELLMER RAMBO, MARLISA FOELLMER RAMBO, JORGE FOELLMER RAMBO, não se revelou, por si só, abusiva ou de caráter meramente procrastinatório, não se justificando, portanto, a imposição da multa.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Por fim, advirto a parte de que a futura interposição de recursos ou medidas protelatórias ensejará a aplicação de multa.
+Forte nessas razões, REJEITO os embargos de declaração.
