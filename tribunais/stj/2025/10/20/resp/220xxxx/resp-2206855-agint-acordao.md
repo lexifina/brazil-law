@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ALDY MELLO DE ARAUJO E OUTROS contra decisão da Presidência desta Corte, que não conheceu do recurso especial em razão da incidência da Súmula 115/STJ.
+Os agravantes alegam que "que não se apontou, de forma específica e pormenorizada, qual vício deveria ser sanado, razão pela qual os recorrentes se limitaram a apresentar um novo substabelecimento. (..) Não se discute, assim, a importância da existência de requisitos formais de admissibilidade dos recursos previstos no ordenamento jurídico pátrio; o que se afirma é que no eventual conflito entre a regularidade processual e a resolução de mérito de um determinado recurso, o segundo fator deve prevalecer. No caso em tela, o princípio da primazia na resolução do mérito recursal merece especial atenção, tendo em vista a natureza do acórdão paradigma, que foi julgado sob a sistemática de recursos repetitivos, cuja tese é de observância obrigatória em todos os juízos e tribunais, conforme inteligência do art. 927, III do CPC" (fl. 801).
+Aduzem que "a efetivação do preceito em comento não se limita apenas às hipóteses previstas em lei ou nos regimentos internos dos tribunais, já que está previsto no art. 4º do CPC e possui plena aplicabilidade em qualquer situação em que se identifica um vício formal possível de ser sanado, de modo a aperfeiçoar a qualidade da prestação jurisdicional. (..) Nesse sentido, e em observância ao princípio da primazia da resolução de mérito e da boa-fé objetiva, a parte recorrente vem juntar procuração ad judicia em que são conferidos poderes ao subscritor do Recurso Especial, sanando o vício formal apontado pela presidência e tornando o recurso apto para julgamento de mérito, razão pela qual o presente recurso deve ser julgado procedente, reformando a decisão impugnada e conhecendo do recurso interposto" (fl. 802).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque a decisão agravada não conheceu do recurso especial, sob o fundamento de que "a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. Glaydson Campelo de Almeida Rodrigues, subscritor do Recurso Especial. Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, porquanto os poderes consignados no instrumento de mandato de fl. 792, foram outorgados ao subscritor do recurso em data posterior à sua interposição. (..) Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ" (fl. 796).
+Ocorre que os agravantes não impugnaram, especificamente, referido fundamento, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: PET no REsp n. 1.821.723/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 11/4/2024; AgInt no REsp n. 2.099.331/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 5/3/2024; AgInt no REsp n. 2.021.569/PA, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 5/10/2023; AgInt no REsp n. 2.024.463/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023; AgInt no REsp n. 1.378.838/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2023; AgInt no REsp n. 2.042.843/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 5/5/2023.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
