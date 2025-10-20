@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de MIKAEL PEREIRA DA SILVA, em que a impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, em 25/9/2025, deu parcial provimento às apelações da defesa e do Ministério Público para, de um lado, isentar o réu do pagamento das custas processuais e, de outro, reconhecer concurso material entre os arts. 15 e 16, § 1º, IV, da Lei n. 10.826/2003, fixando a pena definitiva em 5 anos de reclusão, regime semiaberto, e 20 dias-multa (Apelação Criminal n. 5002400-04.2024.8.21.0032).
+Alega a defesa constrangimento ilegal por afastamento indevido do princípio da consunção entre o porte ilegal de arma de fogo com numeração suprimida e o disparo de arma de fogo, praticados no mesmo contexto fático. Sustenta nexo de dependência entre as condutas, com absorção do crime-meio pelo crime-fim, à luz da técnica de solução de conflito aparente de normas e da ideia de crime progressivo.
+Em caráter liminar, pede a suspensão dos efeitos do acórdão recorrido até o julgamento definitivo do writ. No mérito, requer a concessão da ordem para cassar o acórdão impugnado, aplicar o princípio da consunção e absolver o paciente das sanções do art. 15 da Lei n. 10.826/2003, ante a absorção dos delitos no mesmo contexto fático.
+É o relatório.
+O writ é inadmissível.
+O remédio constitucional tem suas hipóteses de cabimento restritas, nos termos do art. 105, I, c, da Constituição Federal, e não deve ser utilizado a fim de provocar a discussão de temas afetos a apelação criminal, a recurso especial, a agravo em execução, tampouco deve vir como sucedâneo de revisão criminal.
+Além disso, a impetração do habeas corpus somente se justifica quando há ilegalidade manifesta, de fácil e imediata constatação, restrita a questões de direito que não demandem incursão no conjunto probatório da ação penal. No caso concreto, essa condição não se verifica.
+Ora, como o aresto impugnado assentou que os crimes foram cometidos de forma autônoma, em momentos distintos, sem nexo de dependência ou subordinação, não é possível conferir entre as espécies delitivas a relação de meio e fim. Ademais, o acolhimento da pretensão posta no writ demanda rever as premissas fáticas delineadas pelo aresto impugnado, circunstância vedada no âmbito do habeas corpus, tendo em vista a necessidade de revolvimento do acervo fático- probatório dos autos (AgRg no HC n. 664.602/SC, Ministro Felix Fischer, Quinta Turma, DJe de 7/6/2021).
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DESCABIMENTO DO WRIT COMO SUCEDÂNEO RECURSAL. ESTATUTO DO DESARMAMENTO. DISPARO DE ARMA DE FOGO. PORTE DE ARMA COM NUMERAÇÃO SUPRIMIDA. CONCURSO MATERIAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AUTONOMIA DAS CONDUTAS EM MOMENTOS DISTINTOS. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Petição inicial indeferida liminarmente.
