@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CORPO ESTRANHO NO PRODUTO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO. SÚMULA 568/STJ.
+1. Inicialmente, verifica-se que o Tribunal de origem, ao negar provimento à apelação, não analisou a controvérsia à luz do artigo 373, I, do CPC. Logo, não foi cumprido o requisito do prequestionamento quanto ao referido dispositivo legal. Incidência da Súmul a n. 211/STJ.
+2. O acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual "é irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado" (REsp n. 1.899.304/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/8/2021, DJe de 4/10/2021).
+3. Estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por COCA COLA INDÚSTRIAS LTDA. contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial nos termos da seguinte ementa (fl. 337):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEVER DE INDENIZAR. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 248-252):
+APELAÇÃO - REPARAÇÃO DE DANOS MORAIS - FATO DO CONSUMO - CORPO ESTRANHO NA GARRAFA DE REFRIGENTE - RESPONSABILIDADE FORNECEDOR - De acordo com o art. 12, caput, do Código de Defesa do Consumidor o fabricante, o produtor, o construtor e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos. Ademais, o art. 13 do mesmo Diploma prescreve que o comerciante será "igualmente" responsável, o que demonstra que não haveria responsabilidade exclusiva; - Indenização pelos danos morais sofridos em quantia equivalente a R$13.000,00 (treze mil reais), suficiente para reparar os danos causados e impingir ao fornecedor o dever de aprimorar a prestação de seus serviços, considerando que não houve recurso da parte autora. RECURSO IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 258-260).
+A agravante alega, nas razões do agravo interno, que a decisão monocrática que negou provimento ao agravo em recurso especial incorreu em equívoco ao aplicar o óbice da Súmula 7 do STJ, uma vez que as questões suscitadas no recurso especial não demandam reexame de fatos e provas, mas sim análise de questões jurídicas relacionadas à interpretação e aplicação do Código de Defesa do Consumidor e do Código Civil.
+Aduz, ainda, que o Tribunal de origem valorou equivocadamente as provas dos autos, violando dispositivos legais como o artigo 12, § 3º, do CDC, o artigo 373, I, do CPC, e os artigos 186, 927 e 944 do Código Civil. Argumenta que não houve comprovação de que o suposto corpo estranho encontrado no produto tenha surgido durante o processo de fabricação, inexistindo, portanto, nexo de causalidade e conduta antijurídica que justifiquem a condenação por danos morais.
+Sustenta, outrossim, que o valor fixado a título de danos morais, no montante de R$ 13.000,00, é exorbitante e desproporcional, violando o artigo 944 do Código Civil. A agravante defende que a indenização deve observar os princípios da razoabilidade e proporcionalidade, considerando a ausência de comprovação de danos efetivos e a inexistência de transtornos adicionais decorrentes do fato narrado.
+Pugna, por fim, pela reforma da decisão monocrática para que seja reconhecida a improcedência da ação indenizatória ou, alternativamente, pela redução do valor arbitrado a título de danos morais.
+A agravada apresentou contraminuta e requer seja aplicada a multa prevista no art. 1.021, §4º, do CPC, alegando manifesta improcedência do recurso (fls. 363-381).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CORPO ESTRANHO NO PRODUTO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO. SÚMULA 568/STJ.
+1. Inicialmente, verifica-se que o Tribunal de origem, ao negar provimento à apelação, não analisou a controvérsia à luz do artigo 373, I, do CPC. Logo, não foi cumprido o requisito do prequestionamento quanto ao referido dispositivo legal. Incidência da Súmul a n. 211/STJ.
+2. O acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual "é irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado" (REsp n. 1.899.304/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/8/2021, DJe de 4/10/2021).
+3. Estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar visto que, de fato, não merece conhecimento o recurso especial.
+Inicialmente, verifica-se que o Tribunal de origem, ao negar provimento à apelação, não analisou a controvérsia à luz do artigo 373, I, do CPC.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+Acrescente-se que, se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, cito:
+1. O recurso especial não comporta conhecimento por ausência de prequestionamento dos dispositivos legais mencionados (artigos 47 e 54 do CDC, artigo 129 do Código Civil). O acórdão recorrido não analisou explicitamente tais dispositivos, e os agravantes não indicaram violação do art. 1.022 do CPC, o que inviabiliza o conhecimento do recurso especial, aplicando-se as Súmulas n. 211 do STJ e 282 do STF.
+(AgInt no REsp n. 2.114.449/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024.)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Apesar de opostos embargos de declaração na origem, a recorrente não indicou a contrariedade ao artigo 1.022 do Código de Processo Civil, a fim de sanar eventual omissão.
+(AgInt no AREsp n. 2.370.076/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2024.)
+Alega o recorrente, ainda, violação do artigo 12, § 3º, do CDC, que assim dispõe:
+Art. 12 - O fabricante, o produtor, o construtor, nacional ou estrangeiro, e o importador respondem, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos decorrentes de projeto, fabricação, construção, montagem, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos, bem como por informações insuficientes ou inadequadas sobre sua utilização e riscos.
+§ 3º O fabricante, o construtor, o produtor ou importador só não será responsabilizado quando provar:
+I - que não colocou o produto no mercado;
+II - que, embora haja colocado o produto no mercado, o defeito inexiste;
+III - a culpa exclusiva do consumidor ou de terceiro.
+No caso dos autos, contudo, o Tribunal a quo fundamentou o acórdão recorrido no art. 12, § 1º, do CDC, segundo o qual o "produto é defeituoso quando não oferece a segurança que dele legitimamente se espera, levando-se em consideração as circunstâncias relevantes (..)".
+Assim, afastou a ocorrência de vício de qualidade, previsto no art. 18, caput, do CPC, deixando de fazer qualquer menção ao art. 12, § 3º, do CDC, que também carece de prequestionamento.
+Concluiu o Tribunal que o "simples fato de ter exposto produto impróprio para o consumo caracteriza potencial risco à saúde do consumidor, isto é, é até mesmo desnecessária a ingestão do produto para caracterização do dano moral" (fl. 250).
+Verifica-se que o acórdão recorrido encontra amparo na jurisprudência desta Corte, segundo a qual "é irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado".
+A propósito, cito:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. AQUISIÇÃO DE ALIMENTO (PACOTE DE ARROZ) COM CORPO ESTRANHO (CONGLOMERADO DE FUNGOS, INSETOS E ÁCAROS) EM SEU INTERIOR. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E INCOLUMIDADE FÍSICA E PSIQUÍCA. FATO DO PRODUTO. INSEGURANÇA ALIMENTAR. EXISTÊNCIA DE DANO MORAL MESMO QUE NÃO INGERIDO O PRODUTO.
+1. Ação ajuizada em 11/05/2017. Recurso especial interposto em 24/07/2020 e concluso ao gabinete em 13/11/2020.
+2. O propósito recursal consiste em determinar se, na hipótese dos autos, caracterizou-se dano moral indenizável em razão da presença de corpo estranho em alimento industrializado, que, embora adquirido, não chegou a ser ingerido pelo consumidor.
+3. A Emenda Constitucional nº 64/2010 positivou, no ordenamento jurídico pátrio, o direito humano à alimentação adequada (DHAA), que foi correlacionado, pela Lei 11.346/2006, à ideia de segurança alimentar e nutricional.
+4. Segundo as definições contidas na norma, a segurança alimentar e nutricional compreende, para além do acesso regular e permanente aos alimentos, como condição de sobrevivência do indivíduo, também a qualidade desses alimentos, o que envolve a regulação e devida informação acerca do potencial nutritivo dos alimentos e, em especial, o controle de riscos para a saúde das pessoas.
+5. Nesse sentido, o art. 4º, IV, da Lei 11.346/2006 prevê, expressamente, que a segurança alimentar e nutricional abrange "a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos".
+6. Ao fornecedor incumbe uma gestão adequada dos riscos inerentes a cada etapa do processo de produção, transformação e comercialização dos produtos alimentícios. Esses riscos, próprios da atividade econômica desenvolvida, não podem ser transferidos ao consumidor, notadamente nas hipóteses em que há violação dos deveres de cuidado, prevenção e redução de danos.
+7. A presença de corpo estranho em alimento industrializado excede aos riscos razoavelmente esperados pelo consumidor em relação a esse tipo de produto, sobretudo levando-se em consideração que o Estado, no exercício do poder de polícia e da atividade regulatória, já valora limites máximos tolerados nos alimentos para contaminantes, resíduos tóxicos outros elementos que envolvam risco à saúde.
+8. Dessa forma, à luz do disposto no art. 12, caput e § 1º, do CDC, tem-se por defeituoso o produto, a permitir a responsabilização do fornecedor, haja vista a incrementada - e desarrazoada - insegurança alimentar causada ao consumidor.
+9. Em tal hipótese, o dano extrapatrimonial exsurge em razão da exposição do consumidor a risco concreto de lesão à sua saúde e à sua incolumidade física e psíquica, em violação do seu direito fundamental à alimentação adequada.
+10. É irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado.
+11. Essa distinção entre as hipóteses de ingestão ou não do alimento insalubre pelo consumidor, bem como da deglutição do próprio corpo estranho, para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, do dano moral.
+12. Recurso especial conhecido e provido.
+(REsp n. 1.899.304/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/8/2021, DJe de 4/10/2021.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se ao caso o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assim, também não prospera a alegada violação dos artigos 186, 927 e 944 do Código Civil, visto que o acórdão está em consonância com a jurisprudência desta Corte ao entender no sentido da ilicitude do próprio ato de expor produto impróprio para o consumo.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
