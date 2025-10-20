@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DEYSE LIANE DE SOUZA TIM, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo (TJES), que denegou a ordem no HC nº 5010440-97.2025.8.08.0000.
+A paciente foi presa em flagrante em 17 de maio de 2025, pela suposta prática de homicídio qualificado tentado, fato ocorrido em 16 de maio de 2025. A prisão foi convertida em preventiva.
+A defesa alega, em síntese, a ocorrência de constrangimento ilegal por dois motivos principais: (I) - Ilegalidade da prisão em flagrante, uma vez que teria sido efetuada mais de 24 horas após o fato, sem a comprovação de perseguição ininterrupta, descaracterizando o flagrante impróprio previsto no art. 302, III, do Código de Processo Penal (CPP); (ii) - Excesso de prazo para o oferecimento da denúncia, pois transcorreram mais de 45 dias da prisão sem a formalização da acusação pelo Ministério Público, em violação ao art. 46 do CPP. Requer, liminarmente e no mérito, a revogação da prisão ou, subsidiariamente, a sua substituição por medidas cautelares diversas.
+A liminar foi indeferida (e-STJ fls. 265-266).
+O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Maria Emilia Moraes de Araujo, opinou pelo não conhecimento do habeas corpus (e-STJ fls. 278-280).
+É o relatório. DECIDO.
+Antecipo que a pretensão não merece acolhida. Explico.
+Inicialmente, cumpre ressaltar que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, no caso, o Recurso Ordinário Constitucional, sob pena de desvirtuar a sua natureza de remédio heroico, destinado a sanar ilegalidades manifestas e coações diretas à liberdade de locomoção.
+No entanto, em homenagem ao princípio da ampla defesa, passa-se à análise da existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício, o que não se verifica na hipótese.
+A defesa sustenta a ilegalidade da prisão em flagrante, ao argumento de que a captura da paciente ocorreu mais de 24 horas após o suposto crime, sem a existência de perseguição ininterrupta.
+Contudo, a discussão sobre eventuais vícios na prisão em flagrante fica superada com a sua conversão em prisão preventiva, ou seja, a decretação da custódia preventiva estabelece um novo título judicial para a segregação, que passa a ter como fundamento os requisitos do art. 312 do Código de Processo Penal, e não mais a situação de flagrância.
+Nesse sentido, o parecer do Ministério Público Federal foi preciso ao citar precedente desta Corte de Justiça: "esta Corte tem entendimento reiterado segundo o qual a discussão acerca de nulidade da prisão em flagrante fica superada com a conversão do flagrante em prisão preventiva, haja vista a formação de novo título a embasar a custódia cautelar" (e-STJ fls.278-280).
+Dessa forma, tendo sido a prisão em flagrante convertida em preventiva em audiência de custódia, não há que se falar em ilegalidade a ser sanada por esta via.
+Ademais, a impetração alega, ainda, o excesso de prazo para o oferecimento da denúncia, que não teria sido apresentada mesmo após 45 dias da segregação da paciente.
+O argumento, todavia, encontra-se esvaziado. Conforme as informações prestadas pelo juízo de primeira instância, o Ministério Público ofereceu denúncia em 22 de julho de 2025 , a qual foi devidamente recebida em 24 de julho de 2025.
+O oferecimento e recebimento da exordial acusatória antes do julgamento deste writ tornam prejudicada a análise da alegação de excesso de prazo, conforme bem destacado pelo Tribunal de origem e pelo Ministério Público Federal. Assim, a tese defensiva perdeu seu objeto.
+Superadas as teses principais, afasta-se a possibilidade de concessão da ordem de ofício, pois não se constata ilegalidade flagrante na decisão que manteve a prisão preventiva da paciente.
+As instâncias ordinárias, de forma fundamentada, indicaram a necessidade da custódia cautelar para a garantia da ordem pública, com base na gravidade concreta da conduta. A decisão que decretou a prisão preventiva, mantida pelo Tribunal de Justiça, ressaltou o modus operandi do delito (uma tentativa de homicídio qualificado contra uma jovem de dezoito anos, supostamente motivada por ciúmes do ex-namorado da agente) e a periculosidade da paciente.
+Quanto ao ponto, deve ser observado que a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva.
+Assim, presentes os requisitos do art. 312 do CPP e devidamente justificada a necessidade da medida extrema, revela-se insuficiente a aplicação de medidas cautelares diversas da prisão, não havendo constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem de habeas corpus
+Publique-se. Intime-se.
+EMENTA
