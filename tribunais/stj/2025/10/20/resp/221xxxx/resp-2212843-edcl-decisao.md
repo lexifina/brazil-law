@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, embargos de declaração opostos por TEIXEIRA COMÉRCIO DE CEREAIS LTDA contra decisão de fls. 767/772, que conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento.
+A parte embargante sustenta, em síntese, que:
+Quando do relatório, Vossa Excelência menciona a questão do regime especial que engloba o crédito presumido e o crédito outorgado, entretanto, quando do julgamento, acaba por referir tão somente que os benefícios fiscais concedidos consoante o tema 1.182 sejam excluídos da base de cálculo do IRPJ e CSLL, sem necessidade de comprovação da finalidade econômica.
+Ao assim proceder, deixou fundamentar a decisão relativa ao regime especial, pois, como se sabe, pelo EREsp. 1.517.492/PR, restou decidido ser vedada a tributação do crédito presumido por violação ao pacto federativo. (fl. 778)
+Afirma, ainda, que "requer se digne Vossa Excelência em complementar a decisão proferida, garantido à Recorrente o direito de se valer do julgamento do EREsp. 1.517.492/PR no que diz respeito ao regime especial mencionado, vez que tal questão escapa ao julgamento do tema 1.182 referido no dispositivo da decisão" (fl. 778).
+A UNIÃO não apresentou impugnação aos embargos de declaração.
+É o relatório.
+Passo a decidir.
+Conheço dos embargos, porquanto presentes os pressupostos de admissibilidade.
+No mais, o artigo 1.022 do Código de Processo Civil dispõe o seguinte:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para eliminar obscuridade, contradição, erro material e/ou suprimir omissão.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão/contradição/obscuridade, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, na decisão embargada foram expostos de forma clara os motivos pelos quais o recurso especial não merecia prosperar, constando, expressamente que:
+Inicialmente, de acordo com a jurisprudência deste STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, o art. 489, § 1º, IV, do CPC não fo objeto dei análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+No mais, esta Corte Superior, no julgamento dos ER Esp 1.157.492/PR, firmou entendimento de que nos casos de crédito presumido de ICMS " a  tributação pela União de valores correspondentes a incentivo fiscal estimula competição indireta com o Estado-membro, em desapreço à cooperação e à igualdade, pedras de toque da Federação" (EREsp n. 1.517.492/PR, relator Ministro Og Fernandes, relatora para acórdão Ministra Regina Helena Costa, Primeira Seção, julgado em 8/11/2017, DJe de 8/11/2017).
+O referido acórdão restou assim ementado:
+ ..
+O aludido precedente é compatível com o posterior julgamento que originou o Tema 1.182/STJ e deu mais definições:
+1. Impossível excluir os benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL, salvo quando atendidos os requisitos previstos em lei (art. 10, da Lei Complementar n. 160/2017 e art. 30, da Lei n. 12.973/2014), não se lhes aplicando o entendimento firmado no ERESP 1.517.492/PR que excluiu o crédito presumido de ICMS das bases de cálculo do IRPJ e da CSLL.
+2. Para a exclusão dos benefícios fiscais relacionados ao ICMS, - tais como redução de base de cálculo, redução de alíquota, isenção, diferimento, entre outros - da base de cálculo do IRPJ e da CSLL não deve ser exigida a demonstração de concessão como estímulo à . implantação ou expansão de empreendimentos econômicos 3. Considerando que a Lei Complementar 160/2017 incluiu os §§ 4º e 5º ao art. 30 da Lei 12.973/2014 sem, entretanto, revogar o disposto no seu § 2º, a dispensa de comprovação prévia, pela empresa, de que a subvenção fiscal foi concedida como medida de estímulo à implantação ou expansão do empreendimento econômico não obsta a Receita Federal de proceder ao lançamento do IRPJ e da CSSL se, em procedimento fiscalizatório, for verificado que os valores oriundos do benefício fiscal foram utilizados para finalidade estranha à garantia da viabilidade do empreendimento econômico. (Grifo nosso)
+Assim, merece ser reformado o aresto recorrido, no ponto, por estar em desconformidade com o entendimento firmado neste Tribunal Superior em sede de recurso especial repetitivo, ao entender que:
+ ..  compulsando os autos, nenhuma prova foi produzida pelo contribuinte no sentido de que realiza registro de reserva de lucros para fins de incentivos fiscais. Destarte, não se atenderia o pressuposto fático apontado pelo colendo STJ para possibilitar a exclusão dos benefícios fiscais pretendidos, sendo desnecessário ressaltar ser este ônus probatório exclusivo do impetrante. (fl. 563)
+Isso posto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento a fim de possibilitar que os benefícios fiscais concedidos consoante o Tema 1.182/STJ sejam excluídos da base de cálculo do IRPJ e da CSLL, sem a necessidade de prévia comprovação da finalidade econômica, nos termos expostos. (fls. 768/772 - Grifo nosso)
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
