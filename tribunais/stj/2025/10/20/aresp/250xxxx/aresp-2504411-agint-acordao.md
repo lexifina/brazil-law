@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VALE-PEDÁGIO. LEI N. 10.209/2001. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por NEXTRANS TRANSPORTES LTDA contra decisão da Ministra Presidente do Superior Tribunal de Justiça, que conheceu do agravo em recurso especial para não conhecer do recurso especial, sob o fundamento de que não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados (e-STJ, fls. 447-449).
+Nas razões do presente agravo interno (e-STJ, fls. 453-462), a parte agravante alega que o recurso especial interposto preenche todos os requisitos de admissibilidade, especialmente no que tange à demonstração do dissídio jurisprudencial. Sustenta que foram apresentados arestos paradigmas aptos a comprovar a divergência, com a transcrição de ementas e trechos significativos das decisões, além de elementos que permitiriam a comparação e identificação da divergência. Argumenta, ainda, que o Código de Processo Civil de 2015 preza pela instrumentalidade das formas, de modo que a demonstração de decisões não unânimes seria suficiente para demonstrar o dissídio.
+Impugnação ao agravo interno (e-STJ, fls. 468-484), na qual a parte agravada alega que o recurso não deve ser provido, reiterando que a agravante não realizou o cotejo analítico necessário para a demonstração do dissídio jurisprudencial. Aponta, ainda, que a conduta da agravante é incompatível com os ditames da boa-fé objetiva, configurando-se a supressio em razão da inércia por quase cinco anos.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VALE-PEDÁGIO. LEI N. 10.209/2001. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO NÃO PROVIDO.
+VOTO
+O recurso não merece prosperar.
+Originariamente, NEXTRANS TRANSPORTES LTDA ajuizou ação de indenização por danos materiais contra HURNER DO BRASIL EQUIPAMENTOS TÉCNICOS LTDA, alegando que a ré não adiantou os valores devidos a título de vale-pedágio, conforme determina a Lei n. 10.209/2001. Requereu a condenação da ré ao pagamento de R$2.889.264,86, correspondente ao dobro do valor dos transportes realizados (e-STJ, fls. 1-18).
+O juízo de primeiro grau julgou improcedente a demanda, entendendo que a autora não demonstrou o prejuízo material suportado, além de reconhecer a configuração do instituto da supressio, em razão da inércia da autora por quase cinco anos (e-STJ, fls. 242-250).
+O Tribunal de Justiça de São Paulo manteve a sentença, destacando que a própria autora incluiu os valores dos pedágios nos conhecimentos de transporte, recebendo-os juntamente com os valores dos fretes, o que configuraria conformação com a situação (e-STJ, fls. 315-319).
+No recurso especial (e-STJ, fls. 323-333), a agravante sustentou a inaplicabilidade do instituto da supressio às indenizações previstas na Lei n. 10.209/2001, apontando dissídio jurisprudencial. A decisão agravada, contudo, não conheceu do recurso especial, por ausência de cotejo analítico (e-STJ, fls. 447-449).
+Como constou na decisão agravada, a demonstração do dissídio jurisprudencial exige a transcrição de trechos dos julgados confrontados, com a indicação das circunstâncias identificadoras da divergência, o que não foi realizado pela parte agravante. A mera transcrição de ementas ou votos não é suficiente para caracterizar o cotejo analítico, conforme entendimento pacífico desta Corte Superior (AgInt no AREsp 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 05/04/2019).
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
