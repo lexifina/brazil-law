@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JOSE CARLOS DE SOUZA JUNIOR em que se aponta como ato coator o acórdão proferido pelo JUSTIÇA FEDERAL 1ª INSTÂNCIA SÃO PAULO no julgamento da Apelação Criminal n. 5003968-96.2021.4.03.6110.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto a pena-base foi fixada acima do mínimo legal com fundamento na gravidade do delito e na forma de ocorrência dos fatos, sem circunstâncias judiciais desfavoráveis concretas, o que violaria o princípio da proporcionalidade.
+Argumenta que as circunstâncias judiciais do art. 59 do Código Penal não desabonam o paciente, de modo que a pena-base deve retornar ao mínimo legal, ou, ao menos, observar patamar de elevação estritamente compatível com elementos idôneos dos autos.
+Expõe que o paciente era menor de 21 (vinte e um) anos à época dos fatos, circunstância atenuante que reforça a necessidade de adequada calibragem da pena, evitando exasperação indevida.
+Defende que a imposição de regime inicial mais gravoso com base na gravidade do crime afronta a individualização da pena e a proporcionalidade, devendo ser fixado o regime aberto.
+Alega que estão presentes os requisitos para substituição da pena privativa de liberdade por restritivas de direitos, por ser medida socialmente adequada ao caso concreto.
+Requer, em suma, o redimensionamento da pena-base, e a alteração do regime inicial para aberto. E, subsidiariamente, a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.
+Decido.
+Consoante consta da inicial do presente writ (fl. 04), ocorreu o trânsito em julgado do acórdão impugnado.
+Ou seja, o presente Habeas Corpus foi impetrado contra condenação proferida na origem já transitada em julgado e não há, neste Tribunal, julgamento de mérito em relação à ela passível de revisão.
+Segundo a jurisprudência do STJ, não deve ser conhecido o writ manejado como substitutivo de revisão criminal em hipótese na qual não houve inauguração da competência desta Corte.
+Isso porque, consoante o artigo 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, somente as revisões criminais e as ações rescisórias de seus próprios julgados.
+Nesse sentido, vale citar os seguintes julgados colegiados desta Corte: AgRg no HC n. 903.400/RS, Rel. Ministro Messod Azulay Neto, Quinta Turma; DJe de 17.6.2024; AgRg no HC n. 885.889/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.6.2024; AgRg no HC n. 852.988/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12.6.2024; AgRg no HC n. 908.528/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28.5.2024; AgRg no HC n. 883.647/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 15.5.2024; AgRg no HC n. 887.735/PE, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 25.4.2024; HC n. 790.768/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 10.4.2024; AgRg no HC n. 757.635/SC, Rel. Ministro Teodoro Silva Santos, Sexta Turma, DJe de 15.3.2024; AgRg no HC n. 825.424/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024; AgRg no HC n. 820.174/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15.8.2024; AgRg no HC n. 913.826/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3.7.2024.
+Ademais, não detendo o STJ competência para o processamento do presente writ, não está em curso processo que possibilite a concessão de Habeas Corpus de ofício nos termos do § 2º do artigo 654 do Código de Processo Penal (AgRg no HC n. 979.816/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 24/3/2025; AgRg no HC n. 912.611/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024; AgRg no HC n. 813.788/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/6/2023; AgRg no AgRg no AgRg no AREsp n. 2.407.640/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/4/2024; AgRg no HC n. 830.059/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 8/5/2025).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
