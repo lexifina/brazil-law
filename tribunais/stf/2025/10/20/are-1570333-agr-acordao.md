@@ -1,0 +1,1019 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 23
+
+20/10/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.570.333 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: NASSER IBRAHIM FARACHE
+: DUCLER FOCHE CHAUVIN
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+Ementa: DIREITO PROCESSUAL PENAL. SEGUNDO AGRAVO
+REGIMENTAL NO RECURSO EXTRAORDINÁRIO. APROPRIAÇÃO
+INDÉBITA
+PREVIDENCIÁRIA.
+INSUFICIÊNCIA
+DE
+FUNDAMENTAÇÃO QUANTO À ALEGAÇÃO DE EXISTÊNCIA DE
+REPERCUSSÃO GERAL. OFENSAS INDIRETAS. REEXAME DE
+PROVAS.
+IMPOSSIBILIDADE.
+SÚMULA 279/STF.
+AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I. CASO EM EXAME
+1. Agravo Regimental interposto contra decisão pela qual neguei
+seguimento ao Recurso Extraordinário com Agravo aos fundamentos de
+que: (a) não houve a demonstração fundamentada da presença de
+repercussão geral da questão veiculada no recurso extremo; (b) o exame
+da pretensão veiculada neste apelo situa-se no contexto normativo
+infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO
+FEDERAL são meramente indiretas (ou mediatas); (c) a reforma do
+julgado passa, necessariamente, pelo reexame do conjunto fáticoprobatório dos autos, providência vedada em sede de Recurso
+Extraordinário, conforme Súmula 279/STF e (d) o acórdão do Tribunal de
+origem está em consonância com a jurisprudência desta CORTE, no
+sentido de que o elemento subjetivo das condutas típicas dos crimes de
+sonegação de contribuição previdenciária e apropriação indébita
+previdenciária é o dolo genérico.
+II. QUESTÃO EM DISCUSSÃO
+2. Inaplicabilidade dos óbices processuais invocados na decisão
+recorrida.
+3. Reiteração dos argumentos expostos nas razões do Recurso.
+III. RAZÕES DE DECIDIR
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9074-FC8D-FAEC-7EE3 e senha B353-0065-2188-E9C5
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 23
+
+ARE 1570333 AGR / SP
+4. A obrigação do recorrente em apresentar formal e motivadamente
+a preliminar de repercussão geral, que demonstre sob o ponto de vista
+econômico, político, social ou jurídico, a relevância da questão
+constitucional debatida que ultrapasse os interesses subjetivos da causa,
+conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do CPC/2015), não se confunde com meras invocações
+desacompanhadas de sólidos fundamentos no sentido de que o tema
+controvertido é portador de ampla repercussão e de suma importância
+para o cenário econômico, político, social ou jurídico, ou que não
+interessa única e simplesmente às partes envolvidas na lide, muito menos
+ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL
+FEDERAL é incontroversa no tocante à causa debatida, entre outras de
+igual patamar argumentativo.
+5. O aresto impugnado ampara-se em matéria situada no contexto
+normativo infraconstitucional, de forma que as ofensas à
+CONSTITUIÇÃO FEDERAL são meramente indiretas (ou mediatas), o
+que inviabiliza o conhecimento do referido apelo.
+6. Os pedidos veiculados no recurso demandam a análise do acervo
+fático probatório constante dos autos, o que é vedado pela Súmula 279 do
+STF (Para simples reexame de prova não cabe recurso extraordinário),
+circunstância que inviabiliza o conhecimento do apelo extremo).
+7. Esta CORTE possui o entendimento consolidado no sentido de
+que, para os crimes de apropriação indébita previdenciária e sonegação
+de contribuição previdenciária, basta o dolo genérico, sendo
+desnecessário o dolo específico.
+IV. DISPOSITIVO E TESE
+8. Agravo Regimental a que se nega provimento.
+_________
+Atos normativos citados: CF/1988, art. 5º, LVII, e art. 102, § 3º; CP, arts. 33,
+§§ 2º e 3º, 44, 45, 46, 65, III, b, 68, 71 e 168-A.
+Jurisprudência relevante citada: STF, HC 243.527 AgR, Rel. Min. ANDRÉ
+MENDONÇA, Segunda Turma, DJe 22.10.2024; STF, ARE 691.595-AgR,
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9074-FC8D-FAEC-7EE3 e senha B353-0065-2188-E9C5
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 3 de 23
+
+ARE 1570333 AGR / SP
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 25.02.2013;
+STF, ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda
+Turma, DJe 14.02.2013; STF, AI 717.821-AgR, Rel. Min. JOAQUIM
+BARBOSA, Segunda Turma, DJe 13.08.2012.
+ACÓRDÃO:
+A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes.
+Publique-se.
+Brasília, 20 de outubro de 2025.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 9074-FC8D-FAEC-7EE3 e senha B353-0065-2188-E9C5
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 23
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.570.333 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: NASSER IBRAHIM FARACHE
+: DUCLER FOCHE CHAUVIN
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+RELATÓRIO
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Trata-se de Agravo Regimental interposto contra decisão pela qual
+neguei seguimento ao Recurso Extraordinário com Agravo aos
+fundamentos de que: (a) não houve a demonstração fundamentada da
+presença de repercussão geral da questão veiculada no recurso extremo;
+(b) o exame da pretensão veiculada neste apelo situa-se no contexto
+normativo infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO
+FEDERAL são meramente indiretas (ou mediatas); (c) a reforma do julgado
+passa, necessariamente, pelo reexame do conjunto fático-probatório dos
+autos, providência vedada em sede de Recurso Extraordinário, conforme
+Súmula 279/STF e (d) o acórdão do Tribunal de origem está em
+consonância com a jurisprudência desta CORTE, no sentido de que o
+elemento subjetivo das condutas típicas dos crimes de sonegação de
+contribuição previdenciária e apropriação indébita previdenciária é o dolo
+genérico (Doc. 176).
+Em suas razões, a parte agravante alega, em resumo, que “[n]ÃO se
+vislumbra autoria, vez que, NÃO prova suficiente a indicar que o Recorrente tenha
+agido com o objetivo de prejudicar a arrecadação do fisco Federal ou de que se
+associaram (dolosamente), entre si ou a terceiros, frente o parcelamento, e que se
+lembre enquanto esteve a frente da administração da empresa AJAX manteve-se
+adimplente com o parcelamento, ou seja, in dubio pro reo, a sua absolvição, com a
+devida reforma do v. Acordão do Tribunal a quo, por ser a pura expressão de
+JUSTIÇA” (Doc. 180, fl. 4).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0AA5-3707-7834-8FB6 e senha FD31-E7EF-FC10-2FA6
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 23
+
+ARE 1570333 AGR / SP
+Requer, assim, o conhecimento e o provimento do recurso.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0AA5-3707-7834-8FB6 e senha FD31-E7EF-FC10-2FA6
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 6 de 23
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.570.333 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. ALEXANDRE DE MORAES
+: NASSER IBRAHIM FARACHE
+: DUCLER FOCHE CHAUVIN
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+VOTO
+
+O SENHOR MINISTRO ALEXANDRE DE MORAES (RELATOR):
+Eis o teor da decisão agravada (Doc. 176):
+Trata-se de Agravo em Recurso Extraordinário
+interposto em face de acórdão proferido pelo Tribunal
+Regional Federal da 3ª Região, resumido na seguinte
+ementa (Doc. 62, fls. 27-30):
+PENAL. ARTIGO 168-A DO CÓDIGO PENAL.
+INOCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO
+PUNITIVA
+ESTATAL.
+COMPROVADO
+DÉBITO
+REMANESCENTE
+APÓS
+A
+EXCLUSÃO
+DOS
+PARCELAMENTOS. DESNECESSIDADE DE SE OFICIAR À
+RFB.
+PARTICIPAÇÃO
+DO
+RÉU
+NO
+PROCESSO
+ADMINISTRATIVO
+FISCAL.
+INEXISTÊNCIA
+DE
+CERCEAMENTO DE DEFESA. MATERIALIDADE, AUTORIA
+E
+DOLO
+COMPROVADOS.
+EXCLUDENTE
+DE
+CULPABILIDADE POR INEXIGIBILIDADE DE CONDUTA
+DIVERSA NÃO CONFIGURADA. DOSIMETRIA DA PENA.
+REDUÇÃO DA PENA BASE. ATENUANTE DO ART. 65, III,
+“B”, DO CP NÃO RECONHECIDA. EXISTÊNCIA DE
+CONTINUIDADE DELITIVA. APELAÇÃO DA DEFESA
+PARCIALMENTE PROVIDA. 1. O crime de apropriação
+indébita previdenciária (art. 168-A do Código Penal) ostenta
+natureza formal, bastando para sua consumação que o agente
+tenha deixado de recolher as contribuições sociais destinadas à
+Previdência Social, no prazo legal. 2. O réu foi condenado pela
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 7 de 23
+
+ARE 1570333 AGR / SP
+
+prática do crime estampado no artigo 168-A do Código Penal,
+no que tange às contribuições relativas às competências de
+novembro de 1995 a fevereiro de 1998. A denúncia foi recebida
+em 21.09.2009 e a sentença publicada em 12.04.2019. O curso
+prescricional esteve suspenso em razão do parcelamento do
+débito nos períodos de 27.04.2000 a 01.12.2008 e de 29.09.2009 a
+05.12.2014. Dessa forma, considerando-se que não houve
+recurso pela acusação, tomada a pena aplicada na sentença, não
+se vislumbra o transcurso de 08 (oito) anos entre os marcos
+interruptivos da prescrição, a teor do que dispõe o artigo 109,
+inciso IV, do Código Penal 3. Após a exclusão da empresa do
+último parcelamento, em ofício datado de 19 de setembro de
+2016, a Procuradoria-Regional da Fazenda Nacional na 3ª
+Região - SP/MS informou os valores remanescentes do débito.
+Desse modo, mesmo após os recolhimentos efetuados no
+período em que o contribuinte esteve inserido nos
+parcelamentos, constata-se que não houve o pagamento integral
+da dívida, de modo que desnecessário envio de ofício à Receita
+Federal do Brasil novamente. 4. O procedimento administrativo
+fiscal se presta à apuração do crédito tributário devido pela
+pessoa jurídica e, dado ser esta a responsável pelo pagamento
+do tributo, é suficiente sua intimação por meio de seu
+representante legal ao tempo da fiscalização, a quem caberá a
+entrega da documentação solicitada pelo auditor fiscal e
+eventual impugnação dos débitos apurados. O acusado era o
+responsável pela empresa na época da fiscalização e teve
+ciência do procedimento fiscal e da autuação, seja pelos
+subordinados que atenderam a fiscalização ou posteriormente
+por via postal. De toda sorte, a responsabilidade fiscal não se
+confunde com a responsabilidade penal, a qual será constatada
+em devido processo penal, no qual o acusado pela apropriação
+indébita previdenciária poderá exercer seu direito ao
+contraditório e à ampla defesa, produzindo, inclusive, as provas
+que poderia ter feito no procedimento administrativo, naquilo
+que pertinente à materialidade e autoria delitivas. Na seara
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 8 de 23
+
+ARE 1570333 AGR / SP
+
+criminal será apurado o autor da apropriação dos tributos, e
+não a responsabilidade pelo pagamento do débito tributário, de
+modo que os participantes da esfera administrativa e criminal
+não se correlacionam necessariamente. 5. A materialidade
+delitiva restou comprovada nos autos por meio do
+procedimento administrativo fiscal e os documentos que o
+integram, bem como pela respectiva Representação Fiscal para
+Fins Penais, que descreve os fatos. Tais documentos
+demonstram
+que
+foram
+descontadas
+contribuições
+previdenciárias dos valores pagos a segurados empregados,
+sem o posterior recolhimento à previdência social no prazo
+legal, no período de novembro de 1995 a fevereiro de 1998. 6. A
+autoria delitiva restou demonstrada pela prova documental e
+oral. O acusado era o responsável pela gestão da empresa
+autuada na época dos fatos narrados na denúncia e possuía
+total domínio sobre suas diretrizes. 7. Existência do elemento
+subjetivo consubstanciado no dolo. Nos crimes de apropriação
+indébita previdenciária, restou pacificado que basta o dolo para
+a caracterização desses crimes, consistente na vontade livre e
+consciente de deixar de recolher aos cofres públicos, no prazo
+legal, contribuição descontada dos salários dos trabalhadores
+segurados, dispensando-se a intenção de apropriar-se das
+importâncias descontadas. 8. A defesa não se desincumbiu de
+seu ônus probatório acerca da alegada grave crise financeira
+enfrentada pela empresa. Para que se admitisse a exclusão da
+culpabilidade pelo reconhecimento de inexigibilidade de
+conduta diversa, seria imprescindível a apresentação de provas
+contundentes acerca das dificuldades financeiras, bem como a
+demonstração de que se tratava de situação pontual
+(esporádica) e excepcionalmente grave, e não de mero risco do
+empreendimento. 9. Dosimetria. Na primeira fase dosimétrica,
+a majoração da pena base deu-se em virtude de as
+consequências do delito serem desfavoráveis, considerando-se
+o montante originário apropriado: R$ 712.952,01. Tendo em
+vista ser recurso exclusivo da defesa, há de ser observado o
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 9 de 23
+
+ARE 1570333 AGR / SP
+
+valor considerado na sentença, sem juros e multa. Tal montante
+enseja a majoração da pena base em 1/3 (um terço), nos moldes
+que tem sido decidido majoritariamente no âmbito desta 11ª
+Turma, o que resulta na redução da pena base a 02 (dois) anos e
+08 (oito) meses de reclusão e 13 (treze) dias-multa. 10. Na
+segunda fase da dosimetria da pena, a atenuante da confissão
+espontânea foi reconhecida em primeiro grau. No que tange à
+atenuante do artigo 65, III, “b”, do Código Penal (ter o agente
+procurado, por sua espontânea vontade e com eficiência, logo
+após o crime, evitar-lhe ou minorar-lhe as conseqüências, ou
+ter, antes do julgamento, reparado o dano), considerando o
+pagamento parcial do débito, não há demonstração nos autos
+dos valores efetivamente pagos pelo contribuinte nos
+parcelamentos frente ao total apropriado. Reduzida a pena base
+apenas em razão da atenuante da confissão espontânea, na
+fração de 1/6 (um sexto), resultando a pena em 02 (dois) anos,
+02 (dois) meses e 20 (vinte) dias de reclusão e 10 (dez) diasmulta. 11. Na terceira fase, no que diz respeito ao concurso de
+crimes, registre-se que ele não integra o sistema trifásico da
+pena, devendo a eventual majoração pela sua ocorrência ser
+aplicada após o encerramento da última fase da dosimetria,
+notadamente porque só há que se falar em sua aplicação após
+conhecidos todos os delitos sancionados pelo julgador.
+Ausentes causas de aumento e de diminuição, resta mantida a
+pena em 02 (dois) anos, 02 (dois) meses e 20 (vinte) dias de
+reclusão e 10 (dez) dias-multa. 12. O réu atuou de forma
+reiterada por 28 vezes, nas competências de novembro de 1995
+a fevereiro de 1998, com semelhança das condições de tempo,
+lugar e maneira de execução, revelando-se imperioso o
+reconhecimento do crime continuado (artigo 71 do Código
+Penal). 13. Em acórdão relatado pelo Des. Fed. Nelton dos
+Santos, a Segunda Turma deste E. Tribunal Regional Federal da
+3ª Região adotou o critério de aumento decorrente da
+continuidade delitiva segundo o número de parcelas não
+recolhidas, nos seguintes termos: de dois meses a um ano de
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 10 de 23
+
+ARE 1570333 AGR / SP
+
+omissão no recolhimento das contribuições previdenciárias, o
+acréscimo é de 1/6 (um sexto); de um a dois anos de omissão,
+aumenta-se 1/5 (um quinto); de dois a três anos de omissão, ¼
+(um quarto); de três a quatro anos de omissão, 1/3 (um terço);
+de quatro a cinco anos de omissão, ½ (um meio); e acima de
+cinco anos de omissão, 2/3 (dois terços) de aumento (TRF 3ª
+Região, Segunda Turma, ACR n.º 11780, Rel. Des. Fed. Nelton
+dos Santos). A sentença aplicou a fração de aumento de 1/4 (um
+quarto), em consonância com esse critério, o que resulta na
+pena definitiva de 02 (dois) anos, 09 (nove) meses e 10 (dez)
+dias de reclusão e 12 (doze) dias-multa. 14. O valor unitário do
+dia-multa estabelecido na sentença foi de 1/30 (um trigésimo)
+do salário-mínimo mensal vigente na época dos fatos, devendo
+a multa ser atualizada a partir da data do fato, o que resta
+mantido à míngua de insurgência recursal nesse tocante. 15. O
+regime inicial do cumprimento da pena deve ser o ABERTO,
+nos termos do artigo 33, § 2º, "c", do Código Penal. 16. Presentes
+os requisitos dos incisos I e II do art. 44 do Código Penal (pena
+privativa de liberdade aplicada não superior a quatro anos,
+crime praticado sem violência ou grave ameaça e réu não
+reincidente em crime doloso), e sendo a medida suficiente (art.
+44, inciso III, do Código Penal), substituiu-se a pena privativa
+de liberdade por duas penas restritivas de direito consistentes
+em prestação de serviços à comunidade ou a entidade pública a
+ser definida pelo Juízo da Execução e que terá a mesma duração
+da pena substituída, nos termos do art. 46 e §§ do Código Penal,
+e prestação pecuniária de 05 (cinco) salários mínimos, em favor
+de entidade ou programa com destinação social, também
+designada pelo Juízo das Execuções Penais (art. 45, § 1º, do CP),
+o que resta mantido à míngua de insurgência recursal quanto
+ao tema. 17. Preliminares rejeitadas. Apelação da defesa
+parcialmente provida.
+
+Consta dos autos, em síntese, que NASSER IBRAHIM
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 11 de 23
+
+ARE 1570333 AGR / SP
+
+FARACHE foi condenado às penas de 3 anos, 4 meses de
+reclusão, em regime aberto, além de 15 dias-multa, por ter
+cometido o crime previsto no art. 168-A c/c o art. 71, ambos do
+Código Penal (Doc. 31).
+
+Interposto recurso de Apelação, foi ele parcialmente
+provido “para reduzir a pena cominada ao réu NASSER
+IBRAHIM FARACHE, pela prática do delito inscrito no artigo
+168-A, § 1º, inciso I, c.c. o art. 71, ambos do Código Penal, a 02
+(dois) anos, 09 (nove) meses e 10 (dez) dias de reclusão e 12
+(doze) dias-multa” (Doc. 62).
+
+Opostos embargos
+rejeitados (Doc. 73).
+
+de
+
+declaração,
+
+foram
+
+eles
+
+Irresignado, o acusado interpôs Recurso Extraordinário,
+
+com amparo no art. 102, III, “a”, da CF/1988, no qual
+afirma que o acórdão viola o artigo 5º, LVII da Constituição
+Federal (Doc. 81).
+
+Nas razões recursais, alega que “[n]ão se vislumbra
+autoria, vez que, NÃO prova suficiente a indicar que o
+Recorrente tenha agido com o objetivo de prejudicar a
+arrecadação do fisco Federal ou de que se associaram
+(dolosamente), entre si ou a terceiros, frente o parcelamento, e
+que se lembre enquanto esteve a frente da administração da
+empresa AJAX manteve-se adimplente com o parcelamento, ou
+seja, in dubio pro reo, a sua absolvição” (Doc. 81, fls. 9-10).
+Argumenta que “restou caracterizado, a inexigibilidade de
+conduta diversa a fundamentar o reconhecimento da
+excludente de culpabilidade, frente a decretação Judicial de
+Recuperação Judicial e posterior Falência da Empresa Ajax,
+lembrado que houve parcelamento dos créditos Federais, que
+deram origem a presente Ação Penal, pretendidos através da
+Fazenda Nacional, havendo desde de 2011 até 2014 serem
+adimplidos, mas após nomeação de Administrador Judicial,
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 12 de 23
+
+ARE 1570333 AGR / SP
+
+NÃO mais adimplidos, ou seja, ou seja, Nobres Julgadores,
+enquanto o Réu Nasser esteve à frente da administração da
+empresa, manteve-se adimplente aos pagamentos do
+parcelamento, mas posterior a nomeação do administrador
+judicial, deixou de recolher, lembrando que o Acusado Nasser
+já NÃO tinha o poder Hierárquico”(Doc. 81, fl. 11).
+Assevera que “realizou PARCELAMENTO de TODOS
+seus débitos federais, incluindo aos referentes que deram
+origem a presente e só NÃO foram dado continuidade ao
+adimplemento do parcelamento frente ocorrências” (Doc. 81, fl.
+15).
+Pede, assim, o conhecimento e o provimento do recurso
+“com a reforma do v. Acórdão proferido por Egrégio Tribunal
+Regional Federal da 3ª Região, o qual encontra-se em
+desarmonia com a interpretação dada à Magna Carta o que virá
+em homenagem aos ditames basilares de nosso Estado de
+Direito, corporificado na Constituição Federal” (Doc. 81, fl. 21).
+O Tribunal de origem inadmitiu o recurso com base nos
+seguintes fundamentos: (i) não se verifica o requisito relativo ao
+prequestionamento; (ii) a alegação de afronta a princípio
+constitucional, especialmente quando a análise do caso concreto
+não prescindir da análise da legislação infraconstitucional, não
+configura situação de ofensa direta à Constituição e (iii) incide
+ao caso a Súmula 279/STF (Doc. 89).
+No Agravo, o recorrente refuta a ocorrência dos óbices
+processuais (Doc. 95).
+
+É o relatório. Decido.
+Os recursos extraordinários somente serão conhecidos e
+julgados quando essenciais e relevantes as questões
+constitucionais a serem analisadas, sendo imprescindível ao
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 13 de 23
+
+ARE 1570333 AGR / SP
+
+recorrente, em sua petição de interposição de recurso, a
+apresentação formal e motivada da repercussão geral que
+demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a
+existência de acentuado interesse geral na solução das questões
+constitucionais discutidas no processo, que transcenda a defesa
+puramente de interesses subjetivos e particulares.
+A obrigação do recorrente de apresentar, formal e
+motivadamente, a repercussão geral que demonstre, sob o
+ponto de vista econômico, político, social ou jurídico, a
+relevância da questão constitucional debatida que ultrapasse os
+interesses subjetivos da causa, conforme exigência
+constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art.
+1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º,
+do Regimento Interno do Supremo Tribunal Federal), não se
+confunde com meras invocações, desacompanhadas de sólidos
+fundamentos e de demonstração dos requisitos no caso
+concreto, de que (a) o tema controvertido é portador de ampla
+repercussão e de suma importância para o cenário econômico,
+político, social ou jurídico; (b) a matéria não interessa única e
+simplesmente às partes envolvidas na lide; ou, ainda, de que (c)
+a jurisprudência do SUPREMO TRIBUNAL FEDERAL é
+incontroversa no tocante à causa debatida, entre outras
+alegações de igual patamar argumentativo (ARE 691.595-AgR,
+Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de
+25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR,
+Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI
+717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma,
+DJe de 13/8/2012).
+Eis os fundamentos da parte recorrente para sustentar a
+repercussão geral da matéria (Doc. 81, fls. 8-12):
+Repercussão Geral
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 14 de 23
+
+ARE 1570333 AGR / SP
+
+Impende destacar, de início, a repercussão geral da
+matéria em debate. Conforme preconiza o artigo 1.035, do CPC,
+com redação dada pela Lei no 13.105/15: “O Supremo Tribunal
+Federal, em decisão irrecorrível, não conhecerá do recurso
+extraordinário quando a questão constitucional nele versada
+não tiver repercussão geral, nos termos deste artigo.” No caso
+em tela insurge-se o Recorrente contra decisão do Egrégio
+Tribunal Regional Federal da 3ª Região que entendeu: (...) No
+entanto, após a exclusão da empresa do último parcelamento,
+em ofício datado de 19 de setembro de 2016, a ProcuradoriaRegional da Fazenda Nacional na 3ª Região — SP/MS informou
+que os DEBCADs ns.º 32.380.307-5 e 32.380.308-3 encontram-se
+na fase ‘792 RESCISÃO/EXCLUSÃO DE CRÉDITOS DE
+PARCELAMENTOS ESPECIAIS’, somando os valores
+consolidados de R$ 2.612.604,94 e R$ 540.462,92,
+respectivamente (fl. 231 ID 182615869), ao que foi determinado
+o prosseguimento do feito. (...).tem-se que a empresa se
+manteve funcionando e teve a falência decretada apenas em
+2015 (por sentença disponibilizada no Diário Oficial aos
+20.10.2015, conforme informação da defesa em memoriais – fl.
+252 ID 182615869), sendo que os fatos narrados na denúncia são
+relativos a novembro de 1995 a fevereiro de 1998. (...). (g.n.)
+Data maxima venia, Nobres Julgadores, em que tese o
+entendimento
+é
+fato
+que
+o
+Recorrente,
+realizou
+PARCELAMENTO de TODOS seus débitos federais, incluindo
+aos referentes que deram origem a presente e só NÃO foram
+dado continuidade ao adimplemento do parcelamento frente
+ocorrência. Igualmente e foto que em 2014 com
+RECUPERAÇÃO JUDICIAL e posterior decretação da
+FALÊNCIA decretada apenas em 2015 (por sentença
+disponibilizada no Diário Oficial aos 20.10.2015, conforme
+informação da defesa em memoriais – fl. 252 ID 182615869),
+ambas, com nomeação de administrador judicial, demostrado
+com documentos juntados a grande dificuldade financeira, ou
+seja, AUSÊNCIA INEQUÍVOCA DE DOLO E FRAUDE. [...]
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 15 de 23
+
+ARE 1570333 AGR / SP
+
+Portanto, restou caracterizado, a inexigibilidade de
+conduta diversa a fundamentar o reconhecimento da
+excludente de culpabilidade, frente a decretação Judicial de
+Recuperação Judicial e posterior Falência da Empresa Ajax,
+lembrado que houve parcelamento dos créditos Federais, que
+deram origem a presente Ação Penal, pretendidos através da
+Fazenda Nacional, havendo desde de 2011 até 2014 serem
+adimplidos, mas após nomeação de Administrador Judicial,
+NÃO mais adimplidos, ou seja, ou seja, Nobres Julgadores,
+enquanto o Réu Nasser esteve à frente da administração da
+empresa, manteve-se adimplente aos pagamentos do
+parcelamento, mas posterior a nomeação do administrador
+judicial, deixou de recolher, lembrando que o Acusado Nasser
+já NÃO tinha o poder Hierárquico. Assim Nobres Julgadores,
+que se pergunte. Onde está caracterizado Autoria? Data
+maxima venia, AUSÊNCIA INEQUÍVOCA DE DOLO E
+FRAUDE.
+Justamente com base nesta ideia é que entendemos pela
+absolvição do Recorrente, por restar duvidosa, ou seja, havendo
+dúvidas, aplica-se o princípio do “in dubio pro reo”. Isso
+porque a garantia da liberdade deve prevalecer sobre a
+pretensão punitiva do Estado.
+Data maxima venia, Nobres Julgadores, evidente a
+necessidade de aplicação do Artigo 5º inciso LVII, da CF/88 PRINCÍPIO DO “IN DUBIO PRO REO”.
+De modo que, nos termos da legislação vigente, encontrase demonstrada a repercussão geral da matéria em debate.
+
+Em que pese o esforço argumentativo do recorrente
+entendo não ter havido demonstração fundamentada da
+presença de repercussão geral, sendo incabível, portanto, o
+seguimento do Recurso Extraordinário.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 16 de 23
+
+ARE 1570333 AGR / SP
+
+Mesmo que superado tal óbice, estes foram os
+fundamentos do Tribunal de origem para manter a condenação
+do acusado (Doc. 62, fls. 10-18):
+
+DO MÉRITO
+Da desnecessidade de participação do réu no processo
+administrativo fiscal. Inexistência de cerceamento de defesa.
+Sustenta o réu que não foi cientificado do processo fiscal e não
+pôde exercer o contraditório e a ampla defesa dele
+participando, o que possibilitaria obstar a materialidade
+delitiva. Importante seja salientado que o procedimento
+administrativo fiscal se presta à apuração do crédito tributário
+devido pela pessoa jurídica e, dado ser esta a responsável pelo
+pagamento do tributo, é suficiente sua intimação por meio de
+seu representante legal ao tempo da fiscalização, a quem caberá
+a entrega da documentação solicitada pelo auditor fiscal e
+eventual impugnação dos débitos apurados. Consigne-se que o
+acusado foi admitido na sociedade em 17.06.1994, constando
+como sócio administrador desde então (ficha cadastral da
+JUCESP acostada às fls. 185/190 ID 182615869) e, portanto, era o
+responsável pela empresa na época da fiscalização em 1998.
+Consta nos relatórios fiscais (fls. 32/34, 47/48 ID 182615871) que
+a fiscalização foi atendida pelos Srs. Celso Júnior Marques e
+Márcio Maciel de Moraes, contabilistas da empresa, que ficaram
+cientes da origem do débito; por falta do representante legal
+para recebimento da 2a. via deste procedimento fiscal, a mesma
+foi remetida à empresa por via postal, de modo que o réu teve
+ciência do procedimento fiscal e da autuação, seja pelos
+subordinados que atenderam a fiscalização ou posteriormente
+por via postal. Assim, a tese defensiva não convence. Ainda que
+houvesse qualquer nulidade no processo fiscal, tal vício não
+comporta discussão no âmbito destes autos, ante a
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 17 de 23
+
+ARE 1570333 AGR / SP
+
+independência das esferas administrativa e penal.
+A responsabilidade fiscal, ademais, não se confunde com
+a responsabilidade penal, a qual será constatada em devido
+processo penal, no qual o acusado pela apropriação indébita
+previdenciária poderá exercer seu direito ao contraditório e à
+ampla defesa, produzindo, inclusive, as provas que poderia ter
+feito no procedimento administrativo, naquilo que pertinente à
+materialidade e autoria delitivas.
+Na seara criminal será apurado o autor da apropriação
+dos tributos, e não a responsabilidade pelo pagamento do
+débito tributário, de modo que os participantes da esfera
+administrativa
+e
+criminal
+não
+se
+correlacionam
+necessariamente. Nestes autos, foi permitido ao réu demonstrar
+suas alegações por todos os meios de prova admitidos, com
+discussão dos fatos geradores do crédito tributário aqui
+debatido, e, assim, inexistente qualquer cerceamento de defesa.
+No sentido da desnecessidade de participação do réu no
+procedimento administrativo colaciono precedente do Superior
+Tribunal de Justiça:
+[...]
+Ademais, ao invés de se insurgir em face da autuação, o
+contribuinte aderiu ao REFIS em 27.04.2000 (fls. 240, 245 ID
+182613391), o que significa dizer que reconheceu a existência do
+débito. Outrossim, a adesão a parcelamento somente é possível
+com a anuência do representante legal da empresa.
+Desse modo, resta refutada a alegação defensiva.
+Da materialidade
+
+A materialidade delitiva restou comprovada nos autos
+por meio do procedimento administrativo fiscal e os
+documentos que o integram, bem como pela respectiva
+Representação Fiscal para Fins Penais, que descreve os fatos (ID
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 18 de 23
+
+ARE 1570333 AGR / SP
+
+182615871).
+Consoante Relatório Fiscal da NFLD n. 32.380.307-5, este
+relatório refere-se a débito normal de contribuições destinadas à
+Seguridade Social, arrecadadas dos segurados empregados,
+apuradas com base nos lançamentos efetuado nos Livros
+Diário, do período de Novembro/95 a Setembro/97, abrangendo
+a matriz acima e as filiais cadastradas no CGC sob os nºs.
+44.995.595/0003-08 e 44.995.595/0004-80. 2- A empresa efetuou a
+arrecadação das contribuições dos segurados empregados, sem
+os devidos recolhimentos à Seguridade Social, estando os
+valores arrecadados indicados no Discriminativo do Débito
+Originário-DDO, anexo (fls. 32/34 ID 182615871). Consoante
+Relatório Fiscal da NFLD n. 32.380.308-3, este relatório refere-se
+a débito normal de contribuições destinadas à Seguridade
+Social, arrecadadas dos segurados empregados, apuradas com
+base nas Folhas de Pagamento, do período de Outubro/97 a
+Fevereiro/98, abrangendo a matriz acima e as filiais cadastradas
+no CGC sob os nºs. 44.995.595/0003-08 e 44.995.595/0004-80. 2- A
+empresa efetuou a arrecadação das contribuições dos segurados
+empregados, sem os devidos recolhimentos à Seguridade
+Social, estando os valores arrecadados indicados no
+Discriminativo do Débito Originário-DDO, anexo (fls. 47/48 ID
+182615871). Tais documentos demonstram que foram
+descontadas contribuições previdenciárias dos valores pagos a
+segurados empregados, sem o posterior recolhimento à
+previdência social no prazo legal, no período de novembro de
+1995 a fevereiro de 1998, totalizando um crédito tributário no
+montante originário, sem juros e multa, de R$ 712.952,01
+(R$ 580.493,51 - NFLD n. 32.380.307-5, R$ 132.458,50 - NFLD n.
+32.380.308-3, fls. 21/28, 39/44 ID 182615871). Cabe especificar
+que os fatos melhor se amoldam ao delito previsto no art. 168A, § 1º, inciso I, do Código Penal.
+Da autoria e dolo
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 19 de 23
+
+ARE 1570333 AGR / SP
+
+Da ficha cadastral da JUCESP acostada aos autos (fls.
+185/190 ID 182615869), verifica-se que o réu foi admitido na
+sociedade em 17.06.1994, constando desde então como sócio
+administrador da empresa ACUMULADORES AJAX LTDA.
+Em juízo, o acusado confirmou que era o administrador
+da empresa no período dos fatos imputados na denúncia.
+Explicou que após sua aquisição verificou que o montante
+devedor era maior do que aquele informado no momento da
+compra e, logo na sequência, veio o Plano Real, que alterou
+todo o panorama de linhas de crédito, entre outras coisas.
+Acrescentou que aderiu ao REFIS, e em 2000 teve uma unidade
+fechada pela CETESB, fato que o prejudicou bastante. Aduziu
+que, em 2009, a empresa estava em melhor situação, e aderiu a
+novo parcelamento, pagando em torno de um milhão de reais
+mensais; em 2010 teve problemas mentais, mas a empresa
+continuou pagando as prestações até 2012, tendo
+posteriormente sido decretada sua falência (ID 264425640).
+[...]
+Assim, plenamente comprovado que o increpado era
+proprietário
+e
+administrador
+da
+pessoa
+jurídica
+ACUMULADORES AJAX LTDA.
+Desse modo, considerando que era o responsável pela
+gestão da empresa autuada na época dos fatos narrados na
+denúncia (consoante provas documental e oral), e possuía total
+domínio sobre suas diretrizes, resta demonstrada a autoria
+delitiva.
+Tem-se que o dolo quanto à prática do crime igualmente
+restou evidenciado.
+No que tange ao delito previsto no artigo 168-A do Código
+Penal, restou pacificado que basta o dolo para a caracterização
+desses crimes, consistente na vontade livre e consciente de
+deixar de recolher aos cofres públicos, no prazo legal,
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 20 de 23
+
+ARE 1570333 AGR / SP
+
+contribuição descontada dos salários dos trabalhadores
+segurados, dispensando-se a intenção de apropriar-se das
+importâncias descontadas.
+[...]
+Irrelevante, portanto, a existência de um especial fim de
+agir, perfectibilizando-se a conduta com o não recolhimento aos
+cofres públicos, no prazo legal, das contribuições descontadas.
+Portanto, o elemento anímico está suficientemente
+demonstrado, uma vez que o réu, como responsável pela
+administração da empresa, deixou de recolher as contribuições
+previdenciárias descontadas dos segurados, aos cofres públicos,
+no prazo devido.
+Da
+alegada
+excludente
+inexigibilidade de conduta diversa
+
+de
+
+culpabilidade
+
+por
+
+[...]
+É certo que referida causa supralegal tem sido aceita, de
+forma restrita, nas situações de tributos descontados ou
+cobrados do contribuinte de fato, como nos casos do artigo 168A do Código Penal e artigo 2º, inciso II, da Lei n. 8.137/1990,
+cujas condutas prescindem de fraude e, em tese, a existência de
+graves dificuldades financeiras poderia levar à conclusão de
+que era inexigível conduta diversa nas circunstâncias em que o
+acusado se encontrava.
+Contudo, para que se justifique a exclusão da
+culpabilidade, tais dificuldades devem ser intensas, devem
+extrapolar a mera situação de penúria, isto é, deve-se analisar se
+estava em risco a própria sobrevivência da empresa, se não foi o
+próprio agente quem, por meio de gestão temerária ou
+fraudulenta, deu causa à má situação financeira, e se a prática
+da conduta tipificada foi medida última, excepcional e
+ocasional (e não rotineira).
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 21 de 23
+
+ARE 1570333 AGR / SP
+[...]
+
+Feitas tais considerações, tem-se que no caso concreto, a
+defesa não se desincumbiu de seu ônus probatório acerca da
+alegada grave crise financeira enfrentada pela empresa.
+Como se verifica, o exame da pretensão veiculada neste
+apelo situa-se no contexto normativo infraconstitucional, de
+forma que as ofensas à CONSTITUIÇÃO FEDERAL são
+meramente indiretas (ou mediatas).
+Além disso, o acolhimento da pretensão recursal passa
+necessariamente pela revisão das provas, incidindo, assim, o
+óbice da Súmula 279 desta CORTE (Para simples reexame de
+prova não cabe recurso extraordinário), circunstância que
+também inviabiliza o conhecimento do recurso.
+Por outro lado, o acórdão do Tribunal de origem está em
+consonância com a jurisprudência desta CORTE, no sentido de
+que o elemento subjetivo das condutas típicas dos crimes de
+sonegação de contribuição previdenciária e apropriação
+indébita previdenciária é o dolo genérico. Nesse sentido,
+julgado do SUPREMO TRIBUNAL FEDERAL:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.
+APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA (ART. 168-A
+DO CP). ATIPICIDADE DA CONDUTA. NÃO OCORRÊNCIA.
+PENA.
+REGIME
+DE
+CUMPRIMENTO:
+FECHADO.
+CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. AUSÊNCIA DE
+ILEGALIDADE. 1. As instâncias ordinárias entenderam
+comprovadas a materialidade e a autoria alusivas ao
+cometimento, pelo paciente, do crime de apropriação indébita
+previdenciária a partir de elementos concretos, produzidos sob
+o crivo do contraditório. Nesse contexto, é inviável divergir da
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Voto - MIN. ALEXANDRE DE MORAES
+
+Inteiro Teor do Acórdão - Página 22 de 23
+
+ARE 1570333 AGR / SP
+
+conclusão adotada sem o reexame de fatos e provas,
+providência incabível na via estreita do habeas corpus.
+Precedentes. 2. A orientação jurisprudencial do Supremo
+Tribunal Federal é firme no sentido de que, “para a
+configuração do crime de apropriação indébita previdenciária,
+basta a demonstração do dolo genérico, sendo dispensável um
+especial fim de agir, conhecido como animus rem sibi habendi
+(a intenção de ter a coisa para si).” Precedentes. 3. Não há
+ilegalidade na fixação do regime inicial fechado, tendo em vista
+a consideração negativa das circunstâncias judiciais, nos termos
+do art. 33, §§ 2º e 3º, do Código Penal. Precedentes. 4. Agravo
+regimental ao qual se nega provimento. (HC 243527 AgR, Min.
+Rel. ANDRÉ MENDONÇA, Segunda Turma, DJe 22/10/2024 grifei)
+Diante do exposto, com base no art. 21, § 1º, do Regimento
+Interno do STF, NEGO SEGUIMENTO AO AGRAVO.
+
+Logo, não há reparo a fazer no entendimento aplicado, pois o
+Agravo regimental não apresentou qualquer argumento apto a
+desconstituir os óbices apontados.
+Diante do exposto, NEGO PROVIMENTO ao Agravo Regimental.
+É o voto.
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4794-03C3-EF8A-A38A e senha 0201-B633-E1A2-2ECE
+
+Supremo Tribunal Federal
+Extrato de Ata - 20/10/2025
+
+Inteiro Teor do Acórdão - Página 23 de 23
+
+PRIMEIRA TURMA
+
+EXTRATO DE ATA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.570.333 SÃO PAULO
+PROCED. : SÃO PAULO/SP
+RELATOR(A): MIN. ALEXANDRE DE MORAES
+AGTE.(S): NASSER IBRAHIM FARACHE
+ADV.(A/S): DUCLER FOCHE CHAUVIN (269191/SP)
+AGDO.(A/S): MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES): PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator, Ministro Alexandre de
+Moraes. Primeira Turma, Sessão Virtual de 10.10.2025 a 17.10.2025.
+Composição: Ministros Flávio Dino (Presidente), Cármen Lúcia,
+Luiz Fux, Alexandre de Moraes e Cristiano Zanin.
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E062-4CE7-EEB1-A274 e senha ED3A-95FC-5A75-534D
