@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BENEDITA THEREZINHA DE ALBUQUERQUE contra decisão que inadmitiu recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional..
+Agravo em recurso especial interposto em: 2/6/2025.
+Concluso ao gabinete em: 14/8/2025.
+Ação: declaratória de inexistência de débito c/c nulidade contratual, restituição de valores e compensação por danos morais, ajuizada por BENEDITA THEREZINHA DE ALBUQUERQUE, em face de BANCO BMG S.A., na qual requer a conversão do contrato de cartão de crédito consignado em empréstimo pessoal consignado, a devolução dos valores descontados e a suspensão dos descontos em folha, além da compensação por danos morais.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) converter o contrato de cartão de crédito consignado em empréstimo pessoal consignado, ii) determinar a devolução simples dos valores descontados a maior com compensação, iii) suspender os descontos em folha até a liquidação do contrato, e condenar à compensação por danos morais de R$ 8.000,00.
+Acórdão: deu provimento ao recurso de apelação interposto por BANCO BMG S.A., nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM NULIDADE CONTRATUAL, RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO DE CARTÃO DE CRÉDITO CONSIGNADO. REGULARIDADE DA CONTRATAÇÃO. IMPROCEDÊNCIA DO PEDIDO AUTORAL.
+I. CASO EM EXAME 1. Recurso interposto contra sentença que declarou a conversão de contrato de cartão de crédito consignado em empréstimo pessoal, determinou a devolução de valores descontados, suspendeu os descontos em folha até a liquidação do contrato, e condenou o banco ao pagamento de indenização por danos morais no valor de R$ 8.000,00.
+II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se houve vício de consentimento ou ilegalidade na contratação de cartão de crédito consignado pela autora.
+III. RAZÕES DE DECIDIR 3. O contrato de cartão de crédito consignado apresenta termos claros e específicos, indicando ciência e anuência da autora quanto à sua natureza e características.
+4. Inexistência de indícios de erro, dolo ou qualquer vício que macule o negócio jurídico celebrado.
+5. O banco apresentou provas suficientes para demonstrar a regularidade da contratação e a utilização dos valores pela autora, afastando a tese de erro ou desconhecimento do serviço contratado.
+6. Não configurada a ilicitude ou abusividade na cobrança, tampouco o dano moral alegado. IV. DISPOSITIVO E TESE 7. Recurso provido. Pedido autoral julgado improcedente.
+Tese de julgamento : "É válida a contratação de cartão de crédito consignado, desde que demonstrada a ciência do contratante sobre as características do negócio jurídico e a regularidade da cobrança." (e-STJ fls. 471-472)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, I, 6º, VI e VIII, 14, 39, I, 42, parágrafo único, 51, IV, § 1º, III, e 52, II, III, IV e V do CDC; 141, 373, I, 489, II, § 1º, IV, 1.013 e 1.022, II do CPC; 113, 187, 421, 422, 423 e 2.035, parágrafo único do CC; 5º da LINDB; e, 4º, VI da Lei 4.595/64, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, afirma que houve violação aos deveres de informação e transparência na contratação de cartão de crédito consignado, com cláusulas ambíguas e ausência de esclarecimento adequado. Aduz que os encargos cobrados são abusivos, gerando onerosidade excessiva e desequilíbrio contratual em desfavor da consumidora. Argumenta que é necessária a conversão da contratação para empréstimo pessoal consignado, com aplicação da taxa média de mercado. Assevera que é devida a repetição do indébito em dobro, por cobrança indevida não justificável. Sustenta que se aplica o prequestionamento ficto para viabilizar o exame das matérias federais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 4º, I, 6º, VI e VIII, 14, 39, I, 42, parágrafo único, 51, IV, § 1º, III, e 52, II, III, IV e V, do CDC; 141 e 1.013 do CPC; 113, 187, 421, 422, 423 e 2.035, parágrafo único, do CC; 5º da LINDB; e, 4º, VI da Lei 4.595/64, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, Terceira Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, Quarta Turma, DJe de 2/5/2024.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 4º, I, 6º, VI e VIII, 14, 39, I, 42, parágrafo único, 51, IV, § 1º, III, e 52, II, III, IV e V, do CDC; 141 e 1.013 do CPC; 113, 187, 421, 422, 423 e 2.035, parágrafo único, do CC; 5º da LINDB; e, 4º, VI da Lei 4.595/64, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, Terceira Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, Quarta Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à validade da contratação de cartão de crédito consignado e à alegada abusividade dos encargos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+- Da divergência jurisprudencial
+Por fim, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 479) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL, RESTITUIÇÃO DE VALORES E COMPENSAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO INDICAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação declaratória de inexistência de débito c/c nulidade contratual, restituição de valores e compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial não conhecido.
