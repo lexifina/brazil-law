@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por LOAME AZEVEDO DA SILVA e JESSICA SAIONARA VALE ARAUJO AZEVEDO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 287):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO REVISIONAL DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS AUTORAIS E PROCEDÊNCIA DA RECONVENÇÃO. INSURGÊNCIA DA PARTE AUTORA. PEDIDO DE ALTERAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA (IGP-M PARA IPCA). PANDEMIA. TEORIA DA IMPREVISÃO. NÃO CABIMENTO. CAPITALIZAÇÃO MENSAL DOS JUROS. VIABILIDADE. ENCARGOS DA MORA. JUROS MORATÓRIOS ESTABELECIDOS EM 5% AO MÊS. NECESSIDADE DE REDUÇÃO PARA 1% AO MÊS. PRECEDENTES DO STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos (fls. 331-338) foram parcialmente acolhidos para excluir do acórdão o ponto relativo à capitalização de juros, por se tratar de julgamento extra petita (fls. 350-356).
+Nas razões recursais (fls. 367-388), a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 1.022, III, do CPC, por erro material não sanado quanto ao aumento do saldo devedor; e 317 e 478 do Código Civil e 6º, V, do CDC, sustentando a necessidade de revisão contratual para substituição do índice de correção monetária (IGP-M pelo IPCA) em razão da onerosidade excessiva decorrente da pandemia de COVID-19.
+Apresentadas as contrarrazões (fls. 396-415).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 416-420), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo (fl. 439).
+É, no essencial, o relatório.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade, notadamente a impugnação específica aos fundamentos da decisão agravada. Assim, conheço do agravo e passo à análise do recurso especial, o qual, contudo, não merece prosperar.
+Cinge-se a controvérsia recursal à possibilidade de revisão de contrato de compra e venda de imóvel para substituir o índice de correção monetária IGP-M pelo IPCA, sob a alegação de onerosidade excessiva decorrente da pandemia de COVID-19, e à suposta ocorrência de erro material no acórdão recorrido.
+O recurso não merece prosperar.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem solucionou a lide em conformidade ao que foi apresentado em juízo.
+Com efeito, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+No ponto, ao solucionar a controvérsia quanto ao alegado erro material sobre o aumento do saldo devedor, a Corte local, em sede de Embargos de Declaração, assim decidiu (fls. 353-354):
+Acerca das alegações quanto a suposto erro material em face de premissa equivocada quanto ao aumento do saldo devedor de R$ 60.000,00 para R$73.649,00, verifica se a inocorrência dos vícios apontados. Ao contrário do que afirma, a questão foi devidamente apreciada no acórdão.
+Não há contradição no julgado, neste ponto, tendo em vista que foi proferido com base na legislação e jurisprudência pátrias.
+Em verdade, pretende o Embargante a rediscussão do julgado e não o expurgo de qualquer um dos vícios mencionados, até porque não os vislumbrei no caso em tela.
+Ademais, constou no acórdão recorrido o enfrentamento da questão suscitada no apelo nobre Confira-se (fls. 292-293):
+A Parte Autora, ora Recorrente, questiona a atualização do saldo devedor, que teria passado de R$ 60.000,00 para R$ 73.649,00, sem previsão contratual.
+É sabido que, nos termos do art. 46, da Lei nº 10.931/04, é admitida a estipulação de cláusula de reajuste por índices de preços setoriais ou gerais nos contratos de comercialização de imóveis, in verbis:
+Art. 46. Nos contratos de comercialização de imóveis, de financiamento imobiliário em geral e nos de arrendamento mercantil de imóveis, bem como nos títulos e valores mobiliários por eles originados, com prazo mínimo de trinta e seis meses, é admitida estipulação de cláusula de reajuste, com periodicidade mensal, por índices de preços setoriais ou gerais ou pelo índice de remuneração básica dos depósitos de poupança.
+Sobre o reajuste do saldo devedor e das parcelas pactuadas, dispõe a Cláusula Terceira do contrato:
+O valor das prestações mensais será reajustado a cada período de 12 (doze) meses ou em menor período, autorizado por lei pela variação acumulada do IP-M/FGV ocorrido no período, ou por índice que o substitua conforme 3.1.
+3.1) O saldo devedor do preço e todas as prestações serão reajustadas mensalmente pela variação do IGP-M/FGV, a partir do mês de assinatura deste instrumento."
+Da leitura da citada cláusula, percebe-se que o saldo devedor do contrato será reajustado em janeiro de cada ano, pela variação acumulada do índice anual do IGP-M/FGV do mês anterior. Por sua vez, o valor das parcelas dos 12 meses subsequentes, será o resultado da divisão deste saldo devedor atualizado, pelo número de mensalidades vincendas pendentes de pagamento.
+Assim, o acréscimo do valor questionado pela Parte Requerente é tão somente resultado do reajuste do saldo devedor, frise-se, previsto contratualmente.
+Por fim, o fato da soma das parcelas superar o valor do imóvel, é próprio da natureza deste tipo de contrato, que contempla a margem de lucro no financiador, disto não resultando necessária abusividade ao consumidor.
+Assim, inexistente a alegada violação dos arts. 489 e 1.022 do CPC, visto que as questões recursais foram efetivamente enfrentadas pelo Tribunal a quo, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+No mérito, o Tribunal de origem, ao manter a sentença de improcedência em relação à revisão do índice de correção, decidiu com base nos fatos e provas dos autos, afirmando o seguinte (fl. 297):
+ ..  na espécie, não se verifica a imprevisibilidade e extraordinariedade de fato superveniente no que se refere ao índice adotado. Embora tenha havido o aumento do índice do IGP M durante os anos de 2020 e 2021, tal variação faz parte da natureza da cláusula adotada, que inclusive pode trazer variações negativas. Assim, entendo que o aumento faz parte do risco do negócio firmado. Ainda que a pandemia tenha contribuído com esse aumento, não há como colocá la exclusivamente como o fator determinante dessa variação, a qual conta com diversos aspectos de mercado e preço. Assim, não se vislumbra que o fato natural diretamente afetou o equilíbrio contratual, pois a correção prevista já continha a possibilidade de oscilação conforme os preços da cadeia produtiva.
+Nessas condições, incide a Súmula n. 7 do STJ, o que impede o conhecimento do recurso especial.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE LOCAÇÃO DE LOJA EM SHOPPING CENTER. COVID 19. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. MÉRITO. PRETENSÃO DE REVISÃO DE REAJUSTE. COVID 19. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+ ..  3. No caso, o Tribunal de Justiça, com fulcro no acervo fático probatório carreado aos autos, confirmando sentença, assentou, entre outros fundamentos, que " ..  a utilização do IGP M como indexador, livremente pactuado entre as partes, não traduz a alegada onerosidade excessiva, tratando se de índice amplamente adotado no mercado e que busca apenas refletir a correção monetária para o setor imobiliário". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e o revolvimento de matéria fático probatória, inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.525.081/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 26/8/2024.)
+Por fim, afastada a tese de violação das normas jurídicas invocadas com fundamento no entendimento dominante desta Corte, fica prejudicada a análise do dissídio jurisprudencial.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO NO RECURSO ESPECIAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. 1. REVISÃO DOS ENCARGOS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. 2. DISSÍDIO JURIPSRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+ ..  2. Não se conhece da divergência quando a orientação firmada pela instância de origem se deu no mesmo sentido da jurisprudência dominante do STJ.
+3. Agravo conhecido para conhecer do recurso especial, e negar lhe provimento.
+(AREsp n. 2.760.737/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, na parte conhecida, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico.
+Publique-se. Intimem-se.
+EMENTA
