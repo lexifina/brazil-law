@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. "POOL" HOTELEIRO. RESCISÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESPESAS ADMINISTRATIVAS. RETENÇÃO DE PERCENTUAL. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA Nº 284/STF. PUBLICIDADE ENGANOSA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  refo rmar  o  julgado  por  via  inadequada.
+2.  Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  PATRIMAR ENGENHARIA S.A.  ao  acórdão  assim  ementado:
+"RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. "POOL" HOTELEIRO. RESCISÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESPESAS ADMINISTRATIVAS. RETENÇÃO DE PERCENTUAL. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA Nº 284/STF. PUBLICIDADE ENGANOSA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em falha na prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, mesmo que em desacordo com a expectativa da parte.
+2. Considera-se deficiente a fundamentação recursal quando os dispositivos legais indicados como malferidos não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela parte recorrente. Incidência, por analogia, do óbice contido na Súmula nº 284/STF.
+3. Na hipótese, para modificar a conclusão do acórdão recorrido, de que o conteúdo do material publicitário induziu a autora a contratar acreditando que teria retorno imediato do valor investido e rendimento mínimo de 0,8% ao mês, seria indispensável reexaminar o contexto fático-probatório dos autos, o que é vedado na via recursal eleita, consoante os ditames da Súmula nº 7/STJ.
+4. Recurso especial parcialmente conhecido e não provido. "
+Em  suas  razões  (e-STJ  fls.  1.430-1.437),  a embargante  afirma,  em síntese, que
+"(..) as conclusões alcançadas pelo acórdão ora embargado decorreram, portanto, de negativa de prestação jurisdicional, em evidente violação ao art. 5º, XXXV, da CR/88; de erro de fato com relação ao dispositivo legal cuja violação foi apontada (art. 475 do Código Civil e não art. 476 do Código Civil); e da manifesta omissão com relação à ausência de análise das provas coligidas aos autos, implicando em violação ao art. 5º, LIV e LV, da CR/88" (e-STJ fl. 1.434).
+Ao final, requer o acolhimento dos embargos de declaração, com efeitos infringentes, para que, sanados os vícios indicados, seja dado provimento ao recurso especial, com expressa manifestação sobre o art. 5º, XXXV, LIV e LV, da Constituição Federal, para fins de prequestionamento.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  aos  aclaratórios  (e-STJ  fls.  1.441-1.453).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. "POOL" HOTELEIRO. RESCISÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESPESAS ADMINISTRATIVAS. RETENÇÃO DE PERCENTUAL. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA Nº 284/STF. PUBLICIDADE ENGANOSA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  refo rmar  o  julgado  por  via  inadequada.
+2.  Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+No caso em apreço, ficou suficiente esclarecido que: a) o órgão julgador, na origem, enfrentou todas as questões suscitadas pela recorrente, concluindo, no entanto, que: a) a publicidade veiculada acerca do imóvel adquirido pela autora extrapola as condições verdadeiramente ofertadas; b) a propaganda induziu a autora a contratar acreditando que teria rendimentos superiores ao que de fato obteve e c) nas propagandas juntadas aos autos, a vendedora garante retorno imediato do valor investido e garante rendimento mínimo de 0,8% ao mês, chegando a apresentar fórmula de cálculo para se chegar a esse percentual, além de apresentar depoimentos de investidores para corroborar tais afirmações, não se podendo falar, portanto, em negativa de prestação jurisdicional.
+A equivocada menção ao art. 476 do Código Civil, no lugar do art. 475 do mesmo diploma legal, não altera a conclusão de que os dispositivos legais indicados como violados não possuem comando normativo suficiente para infirmar a conclusão adotada no acórdão recorrido, que reconheceu a possibilidade de rescisão contratual, com o retorno das partes ao status quo ante.
+Reafirma-se, de todo modo, que, ao negar provimento ao recurso de apelação da autora e dar parcial provimento ao apelo da ré, apenas para determinar que a autora devolvesse os valores referentes ao lucro obtido na vigência do contrato, o acórdão não modificou a sentença na parte que determinou o desconto, dos valores a serem restituídos, do montante de R$ 6.000,00 (seis mil reais), referentes às despesas operacionais.
+Por fim, nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+(..)
+III - Refoge à competência do Superior Tribunal de Justiça apreciar suposta ofensa a dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Embargos de Declaração rejeitados" (EDcl no REsp 910.799/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 3/5/2011, DJe 17/6/2011).
+"EMBARGOS DECLARATÓRIOS. AGRAVO DE INSTRUMENTO APRECIADO PELA TURMA. DISPENSADA LAVRATURA DO ACÓRDÃO. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE.
+(..)
+3. Impossível, em sede de embargos declaratórios, a apreciação de preceitos constitucionais, ainda que a título de prequestionamento, sob pena de usurpação da competência do STF.
+4. Embargos de declaração rejeitados" (EDcl no AG 813.112/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 7/4/2011, DJe 15/4/2011).
+Dessa  maneira,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade  ou  eliminar  a  contradição,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
