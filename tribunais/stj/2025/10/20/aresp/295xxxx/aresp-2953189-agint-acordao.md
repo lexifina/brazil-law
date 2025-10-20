@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 781-814) interposto contra decisão desta relatoria, que negou provimento ao recurso (fls. 775-777).
+Em suas razões, a parte agravante alega que a não incidência da Súmula n. 7 do STJ e o dissídio jurisprudencial alegado.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 818-821).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/ STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 775-777):
+Trata-se de agravo nos próprios autos (CPC, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (fls. 722-724).
+O acórdão recorrido está assim ementado (fl. 509):
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. PEDIDO DE REPARAÇÃO POR DANOS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA. COMPRA E VENDA DE VEÍCULO. FALSO INTERMEDIÁRIO. AUSÊNCIA DE CAUTELA PELA AUTORA. ART. 422 DO CC. MÁ-FÉ PELO COMPRADOR NÃO VERIFICADA. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. ORIENTAÇÃO DO STJ (EDCL NO AGINT NO RESP 1.573.573/RJ). ARBITRAMENTO E MAJORAÇÃO. CPC, ART. 85, § 11. INDEPENDÊNCIA DA COMPROVAÇÃO DE TRABALHO ADICIONAL. ANÁLISE ECONÔMICA DO DIREITO. TEORIA DOS JOGOS. REDUÇÃO DA LITIGÂNCIA FRÍVOLA. VALORIZAÇÃO DA BOA ADVOCACIA. RECURSO CONHECIDO E NÃO PROVIDO.
+Em caso de fraude por "falso intermediário", não há responsabilidade do comprador que, de maneira diligente, de boa-fé, efetuou o pagamento, após a transferência do bem, e em acordo com as orientações do vendedor.
+Conforme a iterativa jurisprudência do Superior Tribunal de Justiça, é cabível o arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC), impondo-se a majoração do percentual já fixado relativo aos honorários advocatícios, independentemente de comprovação de trabalho adicional pelo advogado da parte recorrida, sendo devida mesmo quando não apresentadas contrarrazões.
+Sob a ótica da Análise Econômica do Direito, essa prática estabelece um sistema de incentivos que visa desestimular a apresentação de recursos protelatórios. A Teoria dos Jogos fornece uma base teórica para entender como a majoração dos honorários sucumbenciais recursais pode atuar como um desincentivo financeiro para práticas litigiosas abusivas, aumentando os custos de litígios infundados para a parte recorrente. Essa abordagem não só busca a redução da litigância frívola, mas também promove a eficiência do sistema judiciário, diminuindo o congestionamento processual e acelerando a resolução de litígios.
+A medida reconhece e valoriza a boa advocacia, premiando o esforço do advogado da parte vencedora, mesmo sem a exigência de comprovação de trabalho adicional. Dessa forma, o arbitramento e a majoração dos honorários sucumbenciais recursais incentivam práticas processuais responsáveis e éticas, beneficiando o sistema judicial e fortalecendo a confiança na justiça.
+Os embargos de declaração foram acolhidos, em julgado assim ementado (fl. 562):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. HONORÁRIOS. ERRO MATERIAL CORRIGIDO. RECURSO CONHECIDO E ACOLHIDO.
+Conforme art. 1.022, inciso III, do CPC, os embargos de declaração são cabíveis para "corrigir erro material". Nesse sentido, caso o julgador identifique a necessidade de correção, torna-se imperativo adequar a decisão objeto do recurso.
+Nas razões do recurso especial (fls. 578-622), interposto com base no art. 105, III, "c", da CF, a parte recorrente apontou dissídio jurisprudencial por violação dos arts. 148, 171 e 422 do CC, alegando que o acórdão aplica entendimento destoante "no TJ/PR da interpretação dos artigos 148, 171 e 422 do Código Civil, vez que desconsidera o dolo de terceiro, uma vez que o recorrido se aproveitou do negócio, pois tinha ou deveria ter conhecimento do valor vil a que comprara o automóvel" (fls. 601-602).
+Foram oferecidas contrarrazões (fls. 711-719).
+O agravo (fls. 731-742) afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 749-752).
+É o relatório.
+Decido.
+O TJSC, ao analisar as provas constantes dos autos, entendeu que "os réus, por sua vez, agiram conforme era esperado para a situação: entraram em contato com o anunciante, viram o bem pessoalmente, e apenas efetuaram os pagamentos após a efetiva transferência  ..  comprovaram ainda que efetuaram o pagamento das despesas atrasadas do veículo  ..  não se verifica má-fé dos réus, ora apelados, tampouco conduta que implique na necessidade de indenização por danos". Confira-se o seguinte excerto (fls. 506-507):
+Os réus, por sua vez, agiram conforme era esperado para a situação: entraram em contato com o anunciante, viram o bem pessoalmente, e apenas efetuaram os pagamentos após a efetiva transferência, conforme comprovantes de evento 22, OUT10.
+Comprovaram ainda que efetuaram o pagamento das despesas atrasadas do veículo (evento 22, OUT9).
+Quanto ao argumento de que foi pago valor inferior ao preço de mercado, importa mencionar que o próprio apelante assinou autorização de transferência de propriedade do veículo (evento 22, OUT8, fl. 5) com a declaração do valor atribuído ao bem. Desse modo, tal argumento é insuficiente para responsabilizar os réus pela fraude perpetrada por terceiro.
+ ..
+No caso, não se verifica má-fé dos réus, ora apelados, tampouco conduta que implique na necessidade de indenização por danos, sejam estes de natureza material ou moral, de modo que não há motivo para reforma da sentença originalmente proferida.
+A alteração do decidido pelo Colegiado implicaria reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+Com efeito, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte estadual entendeu que "Os réus, por sua vez, agiram conforme era esperado para a situação: entraram em contato com o anunciante, viram o bem pessoalmente, e apenas efetuaram os pagamentos após a efetiva transferência, conforme comprovantes de evento 22, OUT10  ..  Quanto ao argumento de que foi pago valor inferior ao preço de mercado, importa mencionar que o próprio apelante assinou autorização de transferência de propriedade do veículo (evento 22, OUT8, fl. 5) com a declaração do valor atribuído ao bem. Desse modo, tal argumento é insuficiente para responsabilizar os réus pela fraude perpetrada por terceiro" (fl. 506).
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável n o âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Conforme a decisão agravada, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
