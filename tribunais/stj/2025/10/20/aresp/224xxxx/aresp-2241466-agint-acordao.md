@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RECONHECIMENTO DE SOCIEDADE DE FATO C/C DISSOLUÇÃO E APURAÇÃO DE HAVERES. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 997-1.025) interposto contra decisão desta relatoria, que negou provimento ao recurso (fls. 990-993).
+Em suas razões, a parte alega que, "Conforme exposto no recurso especial e no agravo em recurso especial, o Tribunal a quo se manifestou acerca da redistribuição dos ônus sucumbenciais e ao pagamento das despesas processuais, incluindo custas da perícia designada nos autos para liquidação de sentença, mencionando expressamente o art. 95 do C PC" (fl. 1.005).
+Aduz que "Também houve prequestionamento acerca do art. 942 do CPC, conforme consta expressamente na e-STJ fl. 685" (fl. 1.007).
+Sustenta que, "sendo aplicada a técnica de julgamento estendido do art. 942 do CPC, deve ser assegurado às partes o direito de fazer sustentação oral perante os novos julgadores" (fl. 1.012).
+Defende que "a jurisprudência dos Tribunais brasileiros entende corretamente que o sócio remisso não possui direito a requerer a apuração de haveres na dissolução de sociedade se não tiver integralizado sua parte no capital social" (fl. 1.016).
+Consigna que, "como houve acolhimento parcial dos embargos declaratórios e reforma parcial da sentença, este recorrente não pode suportar integralmente os ônus sucumbenciais fixados na sentença" (fl. 1.021).
+Assevera que não se aplicam as Súmulas n. 283 e 284 do STF e 7 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 1.029-1.040), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RECONHECIMENTO DE SOCIEDADE DE FATO C/C DISSOLUÇÃO E APURAÇÃO DE HAVERES. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+6. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 990-993):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 do STF e 7 do STJ (fls. 921-924).
+O acórdão recorrido encontra-se assim ementado (fls. 547-548):
+APELAÇÃO CÍVEL. AÇÃO DE RECONHECIMENTO DE SOCIEDADE DE FATO C/C DISSOLUÇÃO E APURAÇÃO DE HAVERES. REVOGAÇÃO DA ASSISTÊNCIA JUDICIÁRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. PRECLUSÃO. COMPROVAÇÃO DA EXISTÊNCIA DA SOCIEDADE DE FATO. LIQUIDAÇÃO DE SENTENÇA. 1. A revogação da assistência judiciária exige a comprovação de inexistência ou desaparecimento dos requisitos essenciais à sua concessão. 2. De acordo com o art. 293 do CPC, o valor da causa deve ser impugnado pela parte ré no prazo da contestação, sob pena de preclusão. 3. Evidenciado nos autos que o autor atuava junto à pessoa jurídica em igualdade de condições com o sócio designado no contrato social, inclusive firmando contratos, de forma exclusiva, em nome dela, superando a mera prestação de serviços, faz jus ao recebimento de haveres no percentual de 50% (cinquenta por cento). 4. Reconhecida a existência da sociedade de fato e a quebra da , é devida aaffectio societatis apuração de haveres, que deve ser efetivada em sede de liquidação de sentença, nos termos do art. 1.031 do CPC. Apelo conhecido e desprovido.
+Os primeiros embargos de declaração foram parcialmente acolhidos (fls. 688-692) e o segundo foi acolhido, sem efeito modificativo (fls. 726-732).
+Nas razões do recurso especial (fls. 736-762), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes artigos:
+(i) 942 do CPC/2015, defendendo que, "sendo aplicada a técnica de julgamento estendido do art. 942 do CPC, deve ser assegurado às partes o direito de fazer sustentação oral perante os novos julgadores" (fl. 746).
+(ii) 1.058 do CC/2002, argumentando que "Ao sócio remisso não socorre o direito de reclamar apuração de haveres decorrentes da liquidação das quotas que deixou de integralizar, sobretudo porque, aparentemente, a sociedade dissolvenda nunca desenvolveu atividades com o fim de alcançar seu objeto social" (fl. 749).
+(iii) 86 do CPC/2015, alegando que "o presente Recurso Especial deve ser provido para reformar o acórdão do Tribunal , a fim de fixar que as custasa quo processuais e os honorários advocatícios serão rateados entre as partes, de forma recíproca, conforme o art. 86 do CPC, por ter o recorrido decaído de parte relevante de seu pedido" (fl. 756).
+(iv) 95 do CPC/2015, por fim, aduzindo que "foi o recorrido quem requereu a apuração de haveres na exordial e, consequentemente, deve arcar com as custas da perícia, nos termos do art. 95 do CPC, não podendo tal despesa ser imputada ao ora recorrente, como feito na sentença" (fl. 756).
+No agravo (fls. 928-963), afirma a presença dos requisitos de admissibilidade do especial. Contraminuta apresentada (fls. 968-981).
+É o relatório.
+Decido.
+No que diz respeito à alegada tese de que, "sendo aplicada a técnica de julgamento estendido do art. 942 do CPC, deve ser assegurado às partes o direito de fazer sustentação oral perante os novos julgadores" e que "foi o recorrido quem requereu a apuração de haveres na exordial e, consequentemente, deve arcar com as custas da perícia", bem como afronta aos arts. 95 e 942 do CPC/2015, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide no caso a Súmula n. 211 do Superior Tribunal de Justiça.
+Relativamente à tese de que "Ao sócio remisso não socorre o direito de reclamar apuração de haveres decorrentes da liquidação das quotas que deixou de integralizar, sobretudo porque, aparentemente, a sociedade dissolvenda nunca desenvolveu atividades com o fim de alcançar seu objeto social", a sentença de primeiro grau asseverou que (fl. 431, grifei):
+"Infere-se dos autos que nenhuma das partes logrou êxito em comprovar , assim, face aintegralização de cota social ou mesmo de aportes inexistência de comprovação do total de cotas de cada sócio, entendo que devem prevalecer as alegações do autor, ou seja, de que cada sócio possuía 50% das cotas.
+O Tribunal local por sua vez concluiu que (fl. 689, grifei):
+Outrossim, frise-se que a questão da apuração de haveres também foi dirimida, pois o próprio embargante confessou que o recorrido faz jus a, no mínimo, 30% (trinta por cento) do capital social.
+Diante disso, entendo que, embora não deva prevalecer a determinação de apuração de haveres na proporção de 50% (cinquenta por cento) do capital social, também não deve ser acolhido o pleito do embargante de não haver saldo a ser pago ao embargado, pois este, de fato, atuou como sócio da pessoa jurídica, devendo ser ressarcido como tal no momento da extinção da sociedade empresária, sob pena de enriquecimento ilícito.
+Nesse toar, o embargado faz jus ao percentual de 30% (trinta por cento) do capital social, conforme afirmado pelo próprio embargante na notificação extrajudicial supracitada.
+Três foram os fundamentos utilizados para se analisar a questão da apuração de haveres: primeiro, que nenhuma das partes "logrou êxito em comprovar integralização de cota social ou mesmo de aportes" o que, por si só, torna impossível se aplicar a tese defendida pelo recorrente de que "ao sócio remisso que deixou de intregralizar o capital social não socorre o direito de reclamar apuração de haveres decorrentes da liquidação das quotas", pois como nenhum dos sócio integralizou o capital social a apuração de haveres seria impossível para ambas as partes, o que não se pode admitir.
+O segundo e terceiro fundamento foram o de que "a questão da apuração de haveres também foi dirimida, pois o próprio embargante confessou que o recorrido faz a, no mínimo, 30% (trinta por cento) do capital social" e o de que "também não devejus ser acolhido o pleito do embargante de não haver saldo a ser pago ao embargado, pois este, de fato, atuou como sócio da pessoa jurídica, devendo ser ressarcido como tal no momento da extinção da sociedade empresária, sob pena de enriquecimento ilícito" (fl. 689).
+Portanto, o recorrente traz alegações dissociadas do que ficou decidido, devendo ser aplicada, nessa parte, a Súmula n. 284 do STF.
+Ademais, a parte agravante não impugnou os referidos argumentos, limitando-se a afirmar a impossibilidade de apuração de haveres quando o sócio remisso não integraliza as quotas da empresa. Dessa forma, a subsistência de fundamentos não combatidos, aptos a manterem a conclusão do acórdão recorrido, impõe o não conhecimento da pretensão recursal, a teor da Súmula n. 283 do STF.
+Por fim, rever o acórdão impugnado, quanto à sucumbência mínima ou recíproca, no sentido de averiguar o quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como apurar a adequação do respectivo percentual fixado, exigiria incursão no fático-probatório. Incide, portanto, a Súmula n. 7/STJ no caso em apreço. Confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR INCLUSÃO EM CADASTRO RESTRITIVO DE CRÉDITO. DANOS MORAIS. REVISÃO DA ILEGITIMIDADE DE INSCRIÇÃO PREEXISTENTE OBJETO DA SÚMULA 385/STJ. INVIABILIDADE. REVISÃO DA DISTRIBUIÇÃO DO ÔNUS DA PROVA. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DA SUCUMBÊNCIA. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.
+ .. .
+3. Conforme a jurisprudência desta Corte, não é possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca e a fixação do respectivo quantum, por implicar incursão no suporte fático-probatório dos autos, óbice da Súmula 7/STJ. 4. Agravo interno a que se nega provimento. (AgInt no AgInt no AR Esp n. 1.613.311/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 29/6/2020, D Je de 5/8/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A decisão recorrida não merece reparo algum.
+Como asseverado na decisão recorrida, as alegações de que, "sendo aplicada a técnica de julgamento estendido do art. 942 do CPC, deve ser assegurado às partes o direito de fazer sustentação oral perante os novos julgadores", e de que "foi o recorrido quem requereu a apuração de haveres na exordial e, consequentemente, deve arcar com as custas da perícia" não foram analisadas previamente pelo Tribunal de origem, apesar da oposição de embargos declaratórios. Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Relativamente à tese de que "o sócio remisso não possui direito a requerer a apuração de haveres na dissolução de sociedade se não tiver integralizado sua parte no capital social" (fl. 1.016), o Tribunal de origem entendeu por sua improcedência com base nos seguintes fundamentos (fls. 545-546 - grifei):
+É inconteste a existência da sociedade de fato, pois o próprio recorrente, além de reconhecer sua existência nos autos, outorgou procuração ao agravado em 05/08/2014, dando-lhe poderes para "gerir e administrar a empresa outorgante, podendo, para tanto, representá-la perante repartições públicas administrativas, autárquicas e Cartórios em geral, Governos Federal, Estaduais e Municipais, seus Departamentos e Secretarias de direito público ou privado.." etc.
+Não obstante, o apelante também encaminhou ao recorrido em 05/09/2016 uma notificação extrajudicial, informando os termos em que a sociedade foi constituída e, além disso, o notifica para formalizar sua saída da empresa, com a respectiva apuração de haveres (evento 01).
+Assim, os elementos constantes no caderno probatório comprovam a existência da sociedade e, também, a quebra da affectio societatis, ensejando, assim, sua dissolução.
+ ..
+Ora, conquanto não haja provas de integralização do capital social, o fato é que o próprio apelante confessa que o recorrido faz jus a, no mínimo, 30% (trinta por cento) do capital social, o que torna evidente que a relação havida entre eles era mais do que a simples prestação de serviços, a despeito das informações constantes do contrato social.
+Não obstante, o apelado demonstrou ter atuado pela empresa na qualidade de sócio, inclusive firmando, sozinho, contratos em nome da pessoa jurídica, especialmente perante órgãos públicos, como evidencia o requerimento para participação no Pregão Presencial nº 140/2014 junto ao Município de Catalão/GO (evento 25).
+Em sede de embargos de declaração, ainda ficou consignado (fl. 689, grifei):
+Outrossim, frise-se que a questão da apuração de haveres também foi dirimida, pois o próprio embargante confessou que o recorrido faz jus a, no mínimo, 30% (trinta por cento) do capital social.
+Diante disso, entendo que, embora não deva prevalecer a determinação de apuração de haveres na proporção de 50% (cinquenta por cento) do capital social, também não deve ser acolhido o pleito do embargante de não haver saldo a ser pago ao embargado, pois este, de fato, atuou como sócio da pessoa jurídica, devendo ser ressarcido como tal no momento da extinção da sociedade empresária, sob pena de enriquecimento ilícito.
+Nesse toar, o embargado faz jus ao percentual de 30% (trinta por cento) do capital social, conforme afirmado pelo próprio embargante na notificação extrajudicial supracitada.
+A sentença de primeiro grau também asseverou que (fl. 431, grifei):
+Infere-se dos autos que nenhuma das partes logrou êxito em comprovar , assim, face a integralização de cota social ou mesmo de aportes inexistência de comprovação do total de cotas de cada sócio, entendo que devem prevalecer as alegações do autor, ou seja, de que cada sócio possuía 50% das cotas.
+No entanto, a parte agravante não refutou tais argumentos no recurso especial, razão pela qual foi correta a aplicação da Súmula n. 283/STF. Ressalte-se que a impugnação apenas em sede de agravo interno não é suficiente para afastar o óbice verificado.
+Cumpre esclarecer novamente que nenhuma das partes "logrou êxito em comprovar integralização de cota social ou mesmo de aportes", o que, por si só, torna impossível aplicar a tese defendida pelo recorrente de que "ao sócio remisso que deixou de intregralizar o capital social não socorre o direito de reclamar apuração de haveres decorrentes da liquidação das quotas" pois, como nenhum dos sócios integralizou o capital social da empresa, a apuração de haveres seria impossível para ambas as partes, o que não se pode admitir.
+Do mesmo modo, os acórdãos citados pela parte recorrente em suas razões divergem do caso concreto, pois, na presente lide, a sociedade dos autos se trata de sociedade de fato devidamente comprovada e teve suas atividades exercidas pelo período de dois anos, o que difere dos paradigmas.
+Assim, o conhecimento do recurs o pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+Por fim, reitero que rever o acórdão impugnado quanto à sucumbência mínima ou recíproca, no sentido de averiguar o quantitativo em que as partes saíram vencedoras ou vencidas, bem como apurar a adequação do respectivo percentual fixado, exigiria incursão fático-probatória. Incide, portanto, a Súmula n. 7/STJ . Confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR INCLUSÃO EM CADASTRO RESTRITIVO DE CRÉDITO. DANOS MORAIS. REVISÃO DA ILEGITIMIDADE DE INSCRIÇÃO PREEXISTENTE OBJETO DA SÚMULA 385/STJ. INVIABILIDADE. REVISÃO DA DISTRIBUIÇÃO DO ÔNUS DA PROVA. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DA SUCUMBÊNCIA. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+..
+3. Conforme a jurisprudência desta Corte, não é possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca e a fixação do respectivo quantum, por implicar incursão no suporte fático-probatório dos autos, óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.613.311/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 29/6/2020, D Je de 5/8/2020.)
+4. Agravo interno a que se nega provimento.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
