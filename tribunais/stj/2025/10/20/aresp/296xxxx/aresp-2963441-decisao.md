@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIAS LISBOA contra a decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ.
+Nas razões do agravo, a defesa argumenta que o recurso especial deveria ter sido admitido, articulando o seguinte (fls. 780-781):
+Verifica-se que o Recurso Especial interposto pela Defesa foi apresentado sob o fundamento do art. 105, inciso III, alíneas "a" da Constituição Federal, tendo em vista que o Acórdão impugnado contrariou e negou vigência à lei federal e atribuiu interpretação divergente ao atual entendimento do Eg. STJ.
+Ocorre que o Vice-Presidente do Tribunal de Justiça do Estado de Goiás ao realizar o juízo de admissibilidade inadmitiu o Recurso Especial interposto pelo agravante sob o argumento que a eventual análise aos artigos demandaria incursão no acervo fático probatório atraindo, por conseguinte o sumular do verbete da súmula 07 do Superior Tribunal de Justiça.
+Contudo, a decisão agravada não deduziu a inaplicabilidade do óbice apontado, deixando de demonstrar a real necessidade da análise do conjunto fático-probatório.
+Insta esclarecer, que o Recurso Especial não foi proposto com o objetivo de realizar o envolvimento fático-probatório, mas apenas a analisar os elementos legais no limite do que já foi decido nos acordões impugnados. Explico.
+Quanto a tese da violação aos artigos 413, §1º do Código de Processo Penal, embora a matéria não tenha sido arguida em eventual recurso em sentido estrito ou em sede de apelação, cumpre informar que a defesa do agravante assumiu a representação do réu já na fase de embargos de declaração do julgamento do recurso de apelação no Tribunal de origem. Foi nessa oportunidade que constatou a nulidade e a ventilou nos referidos embargos, que, no entanto, foram rejeitados. A decisão de pronúncia é absolutamente nula, isto porque a douta magistrada externou juízo de valor passível de influenciar o corpo de jurados. Explico.
+Ao fundamentar a decisão de pronúncia a magistrada exarou termos como "impossível afastar tais qualificadoras", dessa forma, é possível verificar o nítido excesso de linguagem praticado que acabou por prejudicar todo o Conselho de Sentença.
+Com a devida vênia, mas a nobre julgadora externou juízo de valor e se aprofundou no exame das provas, deixando transparecer a sua própria convicção acerca dos fatos imputados ao agravante, o que vai em desencontro ao entendimento do Superior Tribunal de Justiça, vejamos:  ..
+Aborda, ainda, aspectos relacionados ao mérito da causa, questionando a dosimetria da pena realizada, especialmente em sua primeira fase, quando valoradas de forma negativa a culpabilidade, as circunstâncias e consequências do crime.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada nas fls. 809-811.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do recurso especial, nos termos da seguinte ementa (fl. 853):
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PLEITOS DE RECONHECIMENTO DA NULIDADE DA PRONÚNCIA POR EXCESSO DE LINGUAGEM OU DE REDUÇÃO DA PENA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO- PROBATÓRIO DOS AUTOS. VEDAÇÃO DA SÚMULA 7/STJ. NÃO CONHECIMENTO DO AGRAVO EM RESP. ALTERNATIVAMENTE, PELO NÃO PROVIMENTO DA PRETENSÃO RECURSAL
+1. As pretensões defensivas de nulidade da pronúncia por excesso de linguagem ou de redução da reprimenda demandam o reexame do acervo fático-probatório dos autos, vedado pela Súmula 7/STJ;
+2. Parecer pelo conhecimento do AR Esp, para não conhecer do R Esp; caso conhecido este, pelo não provimento da pretensão recursal nele inserta.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+No recurso especial, busca-se, em primeiro lugar, a declaração de nulidade da sentença de pronúncia, por excesso de linguagem e, subsidiariamente, a reforma da dosimetria da pena.
+Como se percebe, a parte recorrente, por meio do recurso especial, almeja questionar dois momentos processuais distintos, a sentença proferida na primeira fase do Tribunal do Júri e aquela prolatada já diante da análise feita pelo corpo de jurados.
+No entanto, não há como, neste momento processual, em que já submetida a ação penal ao Tribunal do Júri, questionar a sentença proferida na sua primeira fase, quando pronunciado o acusado, por evidente preclusão temporal.
+Em matéria de nulidades, a jurisprudência desta Corte Superior firmou-se no sentido de que as nulidades processuais, sejam elas relativas ou absolutas, devem ser arguidas em momento oportuno, sob pena de preclusão.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REVALORAÇÃO JURÍDICA. INAPLICABILIDADE DA SÚMULA N. 7 DO STJ. NULIDADE PROCESSUAL. PRECLUSÃO. CONJUNTO PROBATÓRIO ROBUSTO A SUSTENTAR A CONDENAÇÃO. AUSÊNCIA DE PREJUÍZO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo em recurso especial para dar provimento ao recurso especial interposto pelo Ministério Público, cassando o acórdão do Tribunal de origem que havia acolhido preliminar de nulidade processual e restabelecendo a condenação do agravante pelo Tribunal do Júri.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se: (i) a decisão agravada ultrapassou o enunciado da Súmula n. 7 do STJ, por ter supostamente havido reexame do conjunto fático-probatório para que fosse possível dar provimento ao recurso especial da acusação; (ii) se a nulidade processual alegada pela defesa deve ser mantida, mesmo tendo sido alegada posteriormente, por ter havido evidente prejuízo ao agravante, por conta do restabelecimento de sua condenação.
+III. Razões de decidir
+3. A decisão agravada limitou-se a revalorar juridicamente as situações fáticas descritas na sentença e no acórdão prolatados pelas instâncias de origem, o que não configura inobservância da Súmula n. 7 do STJ.
+4. A preclusão, gerada a partir da inércia da defesa ao deixar de interpor recurso contra a sentença de pronúncia que tratou de questão com a qual discorda, impede a reiteração da nulidade processual em momento inoportuno, configurando nulidade de algibeira, fenômeno rejeitado pela jurisprudência desta Corte.
+5. A condenação do agravante pelo Tribunal do Júri foi baseada em depoimentos testemunhais e confissão extrajudicial de um dos corréus, não tendo sido demonstrado prejuízo à defesa que justifique a manutenção de nulidade processual já preclusa. Além disso, o restabelecimento da condenação, por si só, não é ocorrência geradora automática de prejuízo.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A revaloração jurídica das circunstâncias fáticas descritas pelas instâncias ordinárias não esbarra na Súmula n. 7 do STJ. 2. As nulidades processuais devem ser arguidas em momento oportuno, sob pena de preclusão, não podendo ser suscitadas posteriormente por inércia da parte alegante, revelando-se em nulidade de algibeira; 3. Estando a condenação amparada em conjunto probatório razoável, o seu restabelecimento por afastamento de nulidade processual não é fato gerador de prejuízo automático à defesa."
+Dispositivos relevantes citados: CPP, arts. 563, 571, 581, IV.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 978.362/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19.03.2025; STJ, HC 784.263/ES, Rel. Min. Messod Azulay Neto, Quinta Turma, DJe 20.09.2024; STJ, AgRg no AREsp n. 2.192.337/ES, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 15.08.2023; STJ, AgRg no REsp 1.444.666/MT, Relª. Minª. Maria Thereza de Assis Moura, Sexta Turma, DJe 04.08.2014.
+(AgRg no AREsp n. 2.660.578/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025, grifei.)
+Em relação ao pedido subsidiário, de reforma da dosimetria da pena, a pretensão não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de do reexame das provas produzidas.
+Vejam-se, a propósito, os seguintes excertos da manifestação do Ministério Público Federal sobre o ponto, aqui acolhidos como razão de decidir (fl. 859):
+Como visto, ficou devidamente assentada no Aresto vergastado a negativação da culpabilidade, pela intensidade dolosa da conduta, consistente em dois disparos de arma de fogo à queima-roupa, e ambos na cabeça da vítima.
+As circunstâncias do crime foram consideradas desfavoráveis em razão da premeditação, do planejamento e do emprego de surpresa à vítima, aguardando-a por horas no local dos fatos, abordando-a repentinamente e sem chances de defesa.
+E, enfim, as consequências do crime também desbordaram do tipo penal em exame, porque a ação ilícita se direcionou a pessoas muito jovens que, em virtude do delito contra elas praticado, tiveram ceifado o direito de usufruírem da vida adulta.
+Assim, na espécie, é possível constatar a existência de fundamentação concreta e apta a embasar a elevação da pena-base acima do mínimo legalmente previsto.
+Finalmente, outra não é a conclusão que se chega in casu sub examine, senão a de que a pena do Réu foi elevada acima do patamar mínimo na primeira fase, porque foram, motivadamente, negativadas as vetoriais da culpabilidade, das consequências e das circunstâncias do crime.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1º/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Na mesma direção, em situação semelhante à do presente feito:
+Direito processual penal. Agravo regimental. Recurso especial.
+Revisão de decisão do tribunal do júri. Agravo regimental improvido.
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a condenação do recorrente por tentativa de homicídio qualificado, com base na soberania dos veredictos do Tribunal do Júri.
+2. A decisão do Tribunal do Júri deve ser respeitada, salvo quando manifestamente contrária à prova dos autos, o que não se verifica no caso em análise.
+3. Não foi identificada divergência jurisprudencial suficiente para afastar o óbice da Súmula 83 do STJ, uma vez que a decisão recorrida está em consonância com a jurisprudência dominante desta Corte Superior.
+4. A revisão de matéria fático-probatória é vedada em recurso especial, conforme a Súmula 7 do STJ, o que impede a análise das alegações do recorrente quanto à insuficiência de provas e à aplicação das qualificadoras.
+5. A dosimetria da pena foi fundamentada de forma concreta e idônea, não cabendo revisão em recurso especial, que não é a via adequada para reexame dos parâmetros adotados na graduação da pena-base.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 2.585.544/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/4/2025, DJEN de 15/4/2025, grifei. )
+Por fim, registre-se que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
