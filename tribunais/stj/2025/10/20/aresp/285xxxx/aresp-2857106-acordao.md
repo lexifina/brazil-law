@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Raul Araújo.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DE RECURSO DE APELAÇÃO. INDISPONIBILIDADE DE SISTEMA ELETRÔNICO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que não conheceu de recurso de apelação por intempestividade.
+2. O Tribunal de origem rejeitou embargos de declaração, afirmando que não houve comprovação da indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024, e que a intempestividade do recurso de apelação constitui vício insanável.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024 justifica a prorrogação do prazo para interposição do recurso de apelação, e se houve negativa de prestação jurisdicional por não enfrentar adequadamente a matéria relativa à indisponibilidade do sistema.
+III. Razões de decidir
+4. A tempestividade é condição indispensável para o exame do mérito do recurso, não sendo superável, ainda que se trate de questão de ordem pública.
+5. O reexame de fatos e provas é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+6. A indisponibilidade do sistema eletrônico deve ser comprovada mediante documento oficial, o que não ocorreu no caso dos autos.
+IV. Dispositivo e tese
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por REGINA CÉLIA BRAZ TEIXEIRA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO INTERNO NA APELAÇÃO. RECURSO CONTRA DECISÃO MONOCRÁTICA. INSURGÊNCIA. NÃO CONHECIMENTO DO RECURSO INTERPOSTO POR MANIFESTA INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA. REITERAÇÃO DE ARGUMENTOS JÁ EXAMINADOS. INCONFORMISMO QUE NÃO DEVE PROSPERAR. DECISÃO MONOCRÁTICA QUE SE RATIFICA. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fls. 347-350)
+Os embargos de declaração opostos por Regina Célia Braz Teixeira foram rejeitados, às fls. 369-371 (e-STJ).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 224, §1º, do CPC, pois teria ocorrido a violação ao direito de prorrogação do prazo processual devido à indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024. A recorrente argumenta que, conforme os relatórios e protocolos anexados aos autos, o prazo para interposição do recurso de apelação deveria ter sido prorrogado para o primeiro dia útil seguinte à resolução do problema.
+(ii) art. 1.022, incisos I e II, do CPC, pois teria havido negativa de prestação jurisdicional ao não enfrentar adequadamente a matéria relativa à indisponibilidade do sistema eletrônico. A recorrente sustenta que o Tribunal de origem rejeitou os embargos de declaração sem considerar a prova de indisponibilidade, o que configuraria omissão e violação ao devido processo legal.
+Foram apresentadas contrarrazões (e-STJ, fls. 398-410).
+O recurso especial foi inadmitido na origem, sob os seguintes fundamentos: (a) intempestividade do recurso de apelação, uma vez que foi interposto fora do prazo de 15 dias úteis, conforme os arts. 219, 994, I, e 1.003, §5º, do CPC; (b) ausência de comprovação de indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024, não havendo ato oficial do Tribunal que determinasse a suspensão dos prazos; (c) falta de demonstração de divergência jurisprudencial, pois a recorrente não realizou o cotejo analítico necessário, conforme exigido pelo art. 1.029, §1º, do CPC e pela Súmula 284 do STF; (d) impossibilidade de reexame de matéria de fato, conforme a Súmula 7 do STJ, já que a análise das razões recursais demandaria o reexame do conjunto fático-probatório.
+Contra essa decisão, interpôs o presente agravo. No agravo em recurso especial (e-STJ, fls. 380-382), sustentou a agravante Regina Célia Braz Teixeira que seu recurso de apelação foi tempestivo, pois o sistema eletrônico do Tribunal de Justiça do Estado do Rio de Janeiro estava indisponível nos dias 20/03/2024 e 21/03/2024, conforme comprovado por protocolos e relatórios técnicos anexados aos autos. A agravante argumenta que, nos termos do art. 224, §1º, do CPC, o prazo para interposição do recurso deveria ter sido prorrogado para o primeiro dia útil seguinte à resolução do problema, sendo o protocolo realizado em 22/03/2024 tempestivo. Além disso, alega negativa de prestação jurisdicional, pois o acórdão dos embargos de declaração não teria enfrentado adequadamente a matéria relativa à indisponibilidade do sistema eletrônico, violando o art. 1.022 do CPC.
+O agravado apresentou contraminuta ao agravo em recurso especial (e-STJ, fls. 437-449).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DE RECURSO DE APELAÇÃO. INDISPONIBILIDADE DE SISTEMA ELETRÔNICO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que não conheceu de recurso de apelação por intempestividade.
+2. O Tribunal de origem rejeitou embargos de declaração, afirmando que não houve comprovação da indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024, e que a intempestividade do recurso de apelação constitui vício insanável.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024 justifica a prorrogação do prazo para interposição do recurso de apelação, e se houve negativa de prestação jurisdicional por não enfrentar adequadamente a matéria relativa à indisponibilidade do sistema.
+III. Razões de decidir
+4. A tempestividade é condição indispensável para o exame do mérito do recurso, não sendo superável, ainda que se trate de questão de ordem pública.
+5. O reexame de fatos e provas é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+6. A indisponibilidade do sistema eletrônico deve ser comprovada mediante documento oficial, o que não ocorreu no caso dos autos.
+IV. Dispositivo e tese
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+O agravo em recurso especial não encontra em seu caminho nenhum dos óbices do art. 253, parágrafo único, I, do RISTJ. É dizer, o recurso de agravo atende aos requisitos de admissibilidade, não se acha prejudicado e impugnou especificamente todos os fundamentos da decisão de inadmissibilidade do especial.
+Assim, autorizado pelo art. 1.042, §5º, do CPC, promovo o julgamento do agravo conjuntamente com o recurso especial, passando a analisar, doravante, os fundamentos do especial.
+Conforme se extrai da decisão agravada, o acórdão recorrido examinou de forma satisfatória a questão da intempestividade do recurso de apelação interposto por Regina Célia Braz Teixeira. O Tribunal de Justiça do Estado do Rio de Janeiro, por meio da Décima Nona Câmara de Direito Privado, ratificou a decisão monocrática que não conheceu do recurso devido ao seu protocolo fora do prazo legal de 15 dias úteis, conforme estipulado pelos arts. 219, 994, I, e 1.003, §5º, do CPC. O acórdão destacou que a alegação de indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024 não foi comprovada de forma idônea, não havendo determinação oficial de paralisação dos prazos, e que a intempestividade constitui vício insanável, impedindo a admissibilidade do recurso.
+Ao rejeitar os embargos de declaração, pontuou-se que (e-STJ, fls. 1874-1876):
+"Trata-se, portanto, de recurso de fundamentação vinculada, que não se presta a novo julgamento da lide.
+No caso concreto, a Embargante não traz em suas alegações qualquer circunstância contemplada nas hipóteses de cabimento do recurso.
+Da análise dos Embargos de Declaração, extrai-se que, na verdade, a pretensão da Embargante é rediscutir questão já ponderada por este Colegiado, não sendo o presente recurso a via adequada para a manifestação de seu inconformismo.
+Não merece prosperar a alegada omissão acerca da indisponibilidade do sistema nos dias 20/03/2024 e 21/03/2024. Isto porque não há nenhuma decisão deste Tribunal Superior que determinou a paralisação dos prazos nos dias supramencionados, devido a problemas técnicos ou falta de acesso ao sistema eletrônico.
+Portanto, as questões suscitadas pela Embargante foram enfrentadas e decididas pelo "decisum" e seus demais argumentos esbarram na orientação do verbete nº 52, da Súmula deste TJRJ1. Nesse passo, a Recorrente não traz em suas alegações qualquer circunstância contemplada nas hipóteses de cabimento dos Embargos de Declaração (destaquei)."
+Constata-se que as matérias arguidas foram devidamente apreciadas e a decisão firmada foi exposta com a devida fundamentação. Contudo, a eventual discordância do recorrente com a conclusão ou os fundamentos adotados não significa a ausência de motivação ou a configuração de algum vício no julgado.
+De fato, o Tribunal de origem rechaçou a tese de omissão, pontuando que: (a) não se vislumbra vício no julgado embargado, pois a Turma Julgadora foi clara ao expor, por completo e com objetividade, os motivos que levaram à negativa de provimento ao agravo interno, mantendo o entendimento de que o recurso de apelação foi intempestivo, ressaltando que "nenhuma decisão deste Tribunal Superior que determinou a paralisação dos prazos nos dias supramencionados, devido a problemas técnicos ou falta de acesso ao sistema eletrônico"; (b) a rediscussão da matéria é incabível nos embargos de declaração, que visam apenas esclarecer obscuridade, sanar omissão ou eliminar contradição, conforme o art. 1.022 do CPC; e (c) os embargos de declaração opostos não trouxeram elementos novos que justificassem a alegação de omissão, sendo rejeitados por unanimidade.
+Nesse contexto, estando a decisão adequadamente fundamentada, não se verifica omissão, contradição, erro material, tampouco obscuridade; assim, não há que se falar em ofensa ao art. 1.022, I e II, do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. INTEMPESTIVIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. A tempestividade, por se tratar de um dos requisitos de admissibilidade do recurso, é condição indispensável para o exame do mérito, não sendo superável, ainda que se trate de questão de ordem pública.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.347.850/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/2/2019, DJe de 21/2/2019.)
+No que tange à suposta violação ao art. 224, §1º, do CPC, a recorrente sustenta que seu direito à prorrogação do prazo processual foi violado devido à indisponibilidade do sistema eletrônico nos dias 20/03/2024 e 21/03/2024. O Tribunal de origem, ao analisar os fatos e as provas apresentadas, concluiu que não houve comprovação suficiente dessa indisponibilidade a ponto de justificar a suspensão oficial dos prazos.
+Para reverter essa conclusão e acolher a tese recorrente, seria imprescindível reexaminar os documentos e protocolos juntados aos autos que, segundo a parte, comprovariam a falha no sistema. De igual modo, a alteração das premissas adotadas pela Corte de origem, no sentido da intempestividade do recurso de apelação, demandaria necessariamente novo exame do acervo fático-probatório constante dos autos.
+O reexame de fatos e provas é vedado em sede de recurso especial, por força do óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. INTEMPESTIVIDADE. COMPROVAÇÃO. DOCUMENTAÇÃO OFICIAL. AUSÊNCIA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela intempestividade do recurso de apelação, em razão da ausência de comprovação da indisponibilidade do sistema de peticionamento eletrônico por meio de documentação idônea. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.286.218/AP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023 - destaquei .)
+Além disso, jurisprudência do STJ possui entendimento segundo o qual a indisponibilidade do sistema eletrônico do Tribunal de origem também deve ser comprovado, mediante documento oficial, no ato da interposição do recurso, o que, consoante entendimento do Tribunal de origem, não é o caso dos autos. (AgInt no AREsp 1317805/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+No mais, a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (REsp n. 2.196.064/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 4/4/2025).
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+É como voto.
