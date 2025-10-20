@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITOS SUSPENSIVO AOS EMBARGOS. AGRAVO INTERNO. EFEITO SUSPENSIVO EM RECURSO ESPECIAL. REQUISITOS NÃO PREENCHIDOS. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que indeferiu pedido de tutela antecipada para atribuir efeito suspensivo a recurso especial pendente de juízo de admissibilidade.
+2. A parte agravante alegou a presença dos requisitos de cautelaridade, sustentando que o título executivo seria desprovido de certeza, liquidez e exigibilidade, por ausência de assinatura das partes e complementação por boletins unilaterais de medição. Argumentou também o risco de dano irreversível devido à constrição patrimonial no valor de R$ 2.407.342,15.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos para atribuir efeito suspensivo ao recurso especial, pendente de juízo de admissibilidade, considerando os argumentos de ausência de certeza, liquidez e exigibilidade do título executivo e o risco de dano irreversível.
+III. Razões de decidir
+4. A atribuição de efeito suspensivo ao recurso especial pendente de juízo de admissibilidade é medida excepcional, que exige a demonstração cumulativa de fumus boni iuris, periculum in mora e manifesta teratologia ou ilegalidade da decisão impugnada, conforme jurisprudência consolidada desta Corte.
+5. A análise da plausibilidade do direito alegado, baseada na alegação de incerteza do título executivo, depende de elementos fático-probatórios, cujo reexame é vedado pelas Súmulas nº 5 e 7 do Superior Tribunal de Justiça.
+6. Além disso, não se verifica a presença de teratologia, pois os precedentes citados na decisão agravada indicam que a atribuição de efeito suspensivo aos embargos à execução exige a garantia do juízo por penhora, depósito ou caução, requisito não preenchido no caso.
+IV. Dispositivo
+7. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha relatoria que indeferiu o pleito de tutela antecipada aduzido pela parte agravante.
+Segundo a parte agravante, todos os predicados típicos de cautelaridade estariam presentes. Argumenta que o fumus boni iuris estaria presente em razão da probabilidade de êxito do recurso especial: isto é, à luz da interpretação incorreta do artigo 919, § 1º, do Código de Processo Civil pelo Tribunal de origem, em desacordo com a jurisprudência desta Corte. Colaciona, a propósito, precedente da Quarta Turma deste Superior Tribunal de Justiça, segundo o qual o ajuizamento a incerteza do título executivo configura fundamento autônomo e suficiente para atribuir efeito suspensivo aos embargos à execução (AgInt no REsp 1.919.280/RJ, Relator Ministro Luis Felipe Salomão, DJe 0.07.2021). Afirma que, no presente caso, o agravante teria demonstrado o descabimento da execução e dos embargos e que o suposto título seria desprovido de certeza, liquidez e exigibilidade, já que carente de assinatura das partes e complementado por boletins de medição unilaterais.
+A título de periculum in mora, argumenta que teria demonstrado o risco real, concreto e iminente de dano irreversível decorrente do prosseguimento da execução fundada em título manifestamente inidôneo, com determinação de constrição de bens do agravante até o limite de R$ 2.407.342, 15, valor integral da execução que teria sido comprovado nos autos.
+Certificou-se às fls. 164 que não foi aberta a vista para impugnação ao agravo interno, uma vez que a parte agravada encontra-se sem representação nos autos no Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EFEITOS SUSPENSIVO AOS EMBARGOS. AGRAVO INTERNO. EFEITO SUSPENSIVO EM RECURSO ESPECIAL. REQUISITOS NÃO PREENCHIDOS. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que indeferiu pedido de tutela antecipada para atribuir efeito suspensivo a recurso especial pendente de juízo de admissibilidade.
+2. A parte agravante alegou a presença dos requisitos de cautelaridade, sustentando que o título executivo seria desprovido de certeza, liquidez e exigibilidade, por ausência de assinatura das partes e complementação por boletins unilaterais de medição. Argumentou também o risco de dano irreversível devido à constrição patrimonial no valor de R$ 2.407.342,15.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos para atribuir efeito suspensivo ao recurso especial, pendente de juízo de admissibilidade, considerando os argumentos de ausência de certeza, liquidez e exigibilidade do título executivo e o risco de dano irreversível.
+III. Razões de decidir
+4. A atribuição de efeito suspensivo ao recurso especial pendente de juízo de admissibilidade é medida excepcional, que exige a demonstração cumulativa de fumus boni iuris, periculum in mora e manifesta teratologia ou ilegalidade da decisão impugnada, conforme jurisprudência consolidada desta Corte.
+5. A análise da plausibilidade do direito alegado, baseada na alegação de incerteza do título executivo, depende de elementos fático-probatórios, cujo reexame é vedado pelas Súmulas nº 5 e 7 do Superior Tribunal de Justiça.
+6. Além disso, não se verifica a presença de teratologia, pois os precedentes citados na decisão agravada indicam que a atribuição de efeito suspensivo aos embargos à execução exige a garantia do juízo por penhora, depósito ou caução, requisito não preenchido no caso.
+IV. Dispositivo
+7. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos seus próprios fundamentos, os quais transcrevo para que passem a integrar a presente decisão colegiada:
+Cuida-se de pedido de efeito suspensivo ao Recurso Especial formulado nos autos do Agravo de Instrumento nº 0810147-85.2023.8.14.0000 por Consórcio Construtor Belo Monte.
+O recurso especial foi interposto contra acórdão que discutiu a atribuição de efeito suspensivo aos Embargos à Execução. O Tribunal de Justiça do Pará negou provimento ao recurso, condicionando a atribuição de efeito suspensivo à garantia da execução por penhora, depósito ou caução.
+A admissibilidade do Recurso Especial foi negada, sob o argumento de que as teses suscitadas esbarrariam na Súmula 7/STJ, motivando a interposição de Agravo.
+O Peticionante alega que a execução é nula, fundamentada em contrato desacompanhado de assinatura, condição essencial para título executivo extrajudicial, nos termos do art. 784, III, do CPC. Aduz, ainda, que a pretensão executória estaria fulminada pela prescrição, conforme art. 206, §5º, I, do Código Civil, uma vez que o contrato foi encerrado em 2013 e a execução ajuizada em 2019.
+Afirma o risco de dano irreversível, pois já foi expedido mandado de penhora e avaliação de bens, determinando a constrição patrimonial até o limite de R$ 2.407.342,15.
+É o relatório.
+DECIDO.
+Nos termos do art. 995, parágrafo único do CPC: "A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso."
+Nesta corte superior, a adoção de tal medida visa o acautelamento da frutuosidade do pleito recursal que tenha sido manejado pela parte requerente, objetivando assegurar que, uma vez obtido êxito, o recurso não seja atingido pela inviabilidade prática.
+Daí porque, "A atribuição de efeito suspensivo a recurso especial inadmitido na origem, e objeto de agravo perante esta Corte de Justiça, é excepcional e pressupõe a demonstração do periculum in mora, que se traduz na urgência da prestação jurisdicional, e a caracterização do fumus boni juris, consistente na plausibilidade do direito alegado (possibilidade de provimento do especial)" (AgInt na TutCautAnt n. 454/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+De fato, em se tratando de medida com conotação cautelar, o deferimento da providência almejada encontra-se condicionado ao preenchimento dos requisitos inerentes à cautelaridade, notadamente a comprovação da existência de risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso, na dicção adotada pelo art. 995, parágrafo único do CPC.
+Conforme entendimento consolidado pelo Superior Tribunal de Justiça, a configuração da aparência do bom direito, requisito para a concessão da tutela de urgência voltada à atribuição de efeito suspensivo ao recurso especial, exige, simultaneamente, o preenchimento dos requisitos de admissibilidade recursal e a plausibilidade da argumentação apresentada nas razões do recurso, de modo a indicar, em análise preliminar, a viabilidade de êxito da pretensão recursal.
+No presente feito, afirma a postulante que o entendimento manifestado pela origem encontra-se em desconformidade com a jurisprudência desta corte.
+Ocorre, contudo, que a jurisprudência das Turmas que compõe a Segunda Seção é pacífica no sentido de que "A atribuição de efeito suspensivo aos embargos à execução é medida excepcional, somente aplicável quando presentes os requisitos exigidos, entre eles a garantia do juízo por penhora, depósito ou caução suficientes, o que não houve no caso." (AgInt no AREsp n. 2.675.799/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. Nos termos do art. 919, § 1º, do Código de Processo Civil de 2015, somente é possível atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo. Precedentes. Elidir as conclusões do aresto impugnado quanto ao não preenchimento dos requisitos do art. 919, §1º, do CPC/2015, deveras, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial, a teor da Súmula N. 07/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.539.395/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024. Grifo Acrescido)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS DO ART. 919, § 1º, DO CPC/2015 NÃO CONFIGURADOS. GARANTIA HIPOTECÁRIA QUE NÃO SUPRE A EXIGÊNCIA LEGAL. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consolidada desta Corte: "é condição sine qua non para a concessão do efeito suspensivo aos embargos do devedor a garantia do juízo por penhora, depósito ou caução suficientes" (REsp 1.803.247/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/11/2019, DJe de 21/11/2019).
+2. A garantia hipotecária não supre a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º do art. 919 do CPC/2015.
+3. Hipótese em que não se encontram presentes os requisitos necessários à concessão do excepcional efeito suspensivo aos embargos à execução, tendo em vista a ausência de garantia do juízo da execução.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.521.198/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/7/2024, DJe de 2/8/2024. Grifo Acrescido)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AOS ARTS. 55 E 919, § 1º, DO CPC/2015. CONCESSÃO DE EFEITO SUSPENSIVO. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE GARANTIA DO JUÍZO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA 13/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, nos moldes do art. 919, § 1º, do CPC/2015, o que não ocorreu no caso em análise.
+2. Modificar o entendimento do Tribunal local, acerca do fato de que o reconhecimento da conexão entre as ações não exime o devedor da garantia do juízo e da inexistência dos requisitos para atribuição de efeito suspensivo aos embargos à execução, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7 /STJ.
+3. Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Outrossim, observa-se a impossibilidade de o Superior Tribunal de Justiça conhecer da divergência interpretativa suscitada pelo recorrente com base em julgado do próprio Tribunal de Justiça do Acre, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.331.876/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024. Grifo Acrescido)
+Dessa forma, em abordagem própria do momento processual em questão, não se constata a existência de "fumus boni iuris".
+Ante o exposto, indefiro o pleito de tutela antecipada.
+Publique-se. Intimem-se.
+A jurisprudência desta Corte perfilha o entendimento de que a análise do pedido de atribuição de efeito suspensivo ao recurso especial, pendente o juízo de admissibilidade, está predicada no cumprimento cumulativo de três requisitos: i) fumus boni juris ou probabilidade do direito; ii) periculum in mora; e iii) teratologia ou manifesta ilegalidade da decisão.
+Nesse sentido:
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL PENDENTE DE JUÍZO DE ADMISSIBILIDADE. MEDIDA EXCEPCIONAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. MEDIDA LIMINAR. REQUISITOS. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. FUMUS BONI IURIS NÃO CONFIGURADO. INCIDÊNCIA DAS SÚMULAS Nº 634 E Nº 635 DO STF.
+1. A competência do Superior Tribunal de Justiça para a apreciação de medida cautelar, objetivando concessão de efeito suspensivo a recurso especial, instaura-se após ultrapassado o juízo de admissibilidade, a cargo do Tribunal de origem.
+2. A atribuição, em caráter excepcional, de efeito suspensivo a recurso especial, pendente de juízo de admissibilidade, depende da presença cumulativa dos requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+3. A verificação dos requisitos autorizadores da concessão da medida cautelar está relacionada diretamente com a probabilidade de êxito do recurso especial, de modo que conveniente o exame da viabilidade do apelo extremo, ainda que de modo superficial.
+4. No caso dos autos, em um exame perfunctório, não se constata a plausibilidade jurídica do recurso do requerente.
+5. Ausente um dos requisitos autorizadores da concessão da medida cautelar, que devem estar necessariamente conjugados, inviável o deferimento do pleito.
+6. Agravo regimental não provido.
+(AgRg na MC n. 23.127/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2014, DJe de 26/9/2014.)
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. JUÍZO DE ADMISSIBILIDADE PENDENTE. INCOMPETÊNCIA DO STJ. SITUAÇÃO EXPCEPCIONAL NÃO EVIDENCIADA.
+1. Enquanto não publicada a decisão de admissibilidade, o pedido cautelar deve ser formulado ao presidente ou Vice-Presidente do Tribunal de origem (1.029, § 5º, do CPC/15). Ainda assim, o STJ admite a concessão de efeito suspensivo a recurso especial pendente de juízo prévio de admissibilidade em situações excepcionais, quais sejam: quando, além de demonstrada a urgência na prestação jurisdicional e a plausibilidade do direito alegado, revelar-se manifestamente teratológica a decisão impugnada, requisitos não evidenciados na hipótese dos autos.
+2. Agravo interno no pedido de tutela provisória desprovido.
+(AgInt na Pet n. 14.287/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021.)
+Ou seja, dada a excepcionalidade da atribuição de efeito suspensivo ao recurso especial, tanto mais quando ainda pendente o juízo de admissibilidade, faz-se necessária, além dos predicados típicos de cautelaridade, quais seja o fumus boni iuris e o periculum in mora, a comprovação de que a decisão impugnada na origem revela-se manifestamente teratológica, o que não se verifica na espécie, tendo em vista os precedentes citados na decisão agravada, reproduzida acima na íntegra.
+Além disso, a análise da plausibilidade do direito alegado, calcada na argumento de que o título em execução seria desprovido de certeza, liquidez e exigibilidade, uma vez que o instrumento contratual, conforme alega o agravante, não conteria a assinatura das partes e seria complementado por boletins unilaterais de medição, depende da análise de elementos fático-probatórios que esbarram nas Súmulas nº 5 e 7 desta Corte Superior.
+Firme nessas razões, manifesto meu voto pelo não provimento do presente agravo interno.
+É como voto.
