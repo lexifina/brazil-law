@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. (1) VIOLAÇÃO DOS ARTS. 489, 926 E 1.022 DO NCPC. HIGIDEZ DO ARESTO RECORRIDO. (2) OBRIGAÕES GARANTIDAS POR CESSÃO FIDUCIÁRIA DE RECEBÍVEIS PERFORMADOS E A PERFORMAR. NATUREZA EXTRACONCURSAL DO DIREITO. "RECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+1. As razões recursais de alegada omissão pelo TJSP não encontram respaldo no teor do aresto recorrido, que fundamentou de modo coerente e integral a respeito da controvérsia, revelando-se hígido o decisum.
+2. A jurisprudência desta egrégia Corte Superior orienta-se no sentido de que os créditos garantidos por alienação fiduciária de direitos sobre coisas móveis e títulos de crédito não se submetem ao processo de recuperação judicial, independetemente de terem sido efetivamente performados ou não até a data do pleito de recuperação judicial.
+3. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA LTDA. - EM RECUPERAÇÃO JUDICIAL (GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA), com fundamento na alíneas a e c do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Recuperação judicial. Impugnação de crédito apresentada pela recuperanda. Improcedência. Agravo de instrumento.
+Créditos garantidos por cessão fiduciária de recebíveis, performados ou a performar, não se submetem aos efeitos da recuperação judicial, sendo, portanto, extraconcursais. Precedentes do STJ e das Câmaras Reservadas de Direito Empresarial deste Tribunal.
+Verba honorária fixada na forma do tema 1.076 dos repetitivos especiais. Sua mantença, em que pese o Enunciado XXII das Câmara Empresariais do Tribunal  "A habilitação/impugnação de crédito em recuperação judicial ou falência, por se tratar de mero incidente processual, regulado por lei especial (Lei 11.101/2.005), sem sentença propriamente condenatória e sem cognição exauriente, típica das ações de conhecimento, cujo crédito reconhecido será submetido ao plano recuperacional ou ao rateio falimentar, não se sujeita à aplicação ao Tema 1076 fixado pelo STJ, possibilitando a fixação dos honorários advocatícios por equidade, nos termos do art. 85, § 8º, do CPC." , dado que não exorbitante o valor a que se chega mediante a aplicação do percentual mínimo do § 2º do art. 85 do CPC (10%) sobre o valor da condenação.
+Decisão mantida. Agravo de instrumento a que se nega provimento. (e-STJ, fls. 101/102)
+Opostos embargos de declaração por GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA, estes foram rejeitados (e-STJ, fls. 130-135).
+Nas razões do presente inconformismo, GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA alegou violação dos seguintes dispositivos legais (1) arts. 489, § 1º, IV e VI, 926 e 1.022, I e II, do NCPC, por reputar que o acórdão recorrido se quedou omisso, obscuro e despido de fundamentação quanto à existência de precedentes em sentido contrário à orientação adotada no caso em comento, nos quais apenas os recebíveis materializados/constituídos até o pedido de recuperação judicial podem compor a garantia fiduciária (e-STJ, fl. 153), além de não haver realizado distinção ou indicado a superação do entendimento então indicado pela recorrente; (2) arts. 125 e 1.361 do Código Civil e arts. 47, 49, caput e § 3º, da Lei 11.101/2005, ao asseverar que os débitos seriam concursais na medida em que anteriores ao pedido de soerguimento e baseados em títulos não performados, que deveriam ser compreendidos como representativos de dívida não protegida, porquanto, uma vez celebrada a cessão fiduciária de obrigações futuras, a consolidação da propriedade estaria vinculada à constituição do crédito cedido em garantia, o que somente ocorreria com o implemento da correspondente condição suspensiva. Também apontou dissenso pretoriano, tendo por paradigmas precedentes dos Tribunais de Justiça de Minas Gerais e do Rio Grande do Sul.
+Foram apresentadas contrarrazões (e-STJ, fls. 218-241).
+O apelo nobre foi admitido na origem (e-STJ, fls. 252-253).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. (1) VIOLAÇÃO DOS ARTS. 489, 926 E 1.022 DO NCPC. HIGIDEZ DO ARESTO RECORRIDO. (2) OBRIGAÕES GARANTIDAS POR CESSÃO FIDUCIÁRIA DE RECEBÍVEIS PERFORMADOS E A PERFORMAR. NATUREZA EXTRACONCURSAL DO DIREITO. "RECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+1. As razões recursais de alegada omissão pelo TJSP não encontram respaldo no teor do aresto recorrido, que fundamentou de modo coerente e integral a respeito da controvérsia, revelando-se hígido o decisum.
+2. A jurisprudência desta egrégia Corte Superior orienta-se no sentido de que os créditos garantidos por alienação fiduciária de direitos sobre coisas móveis e títulos de crédito não se submetem ao processo de recuperação judicial, independetemente de terem sido efetivamente performados ou não até a data do pleito de recuperação judicial.
+3. Recurso especial não provido.
+VOTO
+O recurso não merece ser provido.
+(1) Das alegadas omissão, obscuridade e falta de fundamentação
+GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA alegou que o acórdão recorrido se quedou omisso, obscuro e despido de fundamentação quanto à existência de jurisprudência contrária no sentido de reconhecer a sujeição à recuperação judicial de créditos garantidos por cessão fiduciária de recebíveis não performados até o requerimento recuperacional, além da negativa de apontamento de distinguishing ou overrulling.
+Nos termos do art. 489, § 1º, VI do NCPC, não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Referido dispositivo legal deve ser interpretado, porém, de forma harmônica com o art. 927 do NCPC. Assim, não há necessidade de o julgador efetuar distinção ou superação do caso concreto em relação a qualquer outro julgado invocado pela parte, mas apenas em relação àqueles precedentes qualificados, que ostentam natureza vinculante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO E FALTA DE FUNDAMENTOS APÓS REJEIÇÃO DOS DECLARATÓRIOS. NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º E SEU INCISO VI, DO CPC/2015. INAPLICABILIDADE AOS PRECEDENTES PERSUASIVOS. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO QUE DEFERIU TUTELA DE URGÊNCIA. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 735/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a regra do art. 489, § 1º, VI, do CPC/15, segundo a qual o juiz, para deixar de aplicar enunciado de súmula, jurisprudência ou precedente invocado pela parte, deve demonstrar a existência de distinção ou de superação, somente se aplica às súmulas ou precedentes vinculantes, mas não às súmulas e aos precedentes apenas persuasivos" (REsp 1.698.774/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 1º/9/2020, DJe 9/9/2020).
+3. Consoante orientação jurisprudencial desta Corte Superior, "à luz do disposto no enunciado da Súmula 735/STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg na MC 24.533/TO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe 15/10/2018).
+4.1. De acordo com o entendimento desta Corte Superior, não é possível, em julgamento de recurso especial, o exame dos requisitos autorizadores para a concessão de medida liminar, ante a incidência da Súmula 7/STJ.
+4.2. Reverter a conclusão do Tribunal local - para acolher a pretensão recursal, sobretudo no que concerne à aplicação do efeito expansivo -demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.242.933/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, j. 5/6/2023, DJe de 9/6/2023)
+Como nenhum dos acórdãos citados nas razões recursais constitui efetivamente "precedente" para efeito do art. 927 do NCPC, tem-se que o Tribunal bandeirante, ao proferir o aresto recorrido, não estava mesmo obrigado a fazer distinção ou superação.
+Portanto, inexistem os vícios elencados nos arts. 489, § 1º, IV e VI, e 1.022, I e II, do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Acrescente-se, ainda, que a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído no acórdão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmulado Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019).
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTENTE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COMISSÃO DE CORRETAGEM. AUSÊNCIA DE INFORMAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA N. 5/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.848.092/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QuartaTurma, j. 7/6/2021, DJe 14/6/2021).
+Dessa forma, tem-se que o TJSP decidiu a lide de forma fundamentada e integral, sendo forçoso reconhecer a higidez do aresto recorrido.
+(2) Da natureza do crédito
+GLOBAL BRASIL TECNOLOGIA EM QUÍMICA E MODA alegou que se enquadrariam como concursais os créditos assegurados por cessão fiduciária, eis que precedem a elaboração do pedido de soerguimento e lastreados em recebíveis a serem emitidos somente no futuro, de modo que a consolidação da propriedade estaria subordinada ao implemento da correspondente condição suspensiva.
+Entretanto, o acórdão recorrido decidiu em harmonia com a jurisprudência desta egrégia Corte Superior no sentido de que os créditos garantidos por alienação fiduciária de direitos sobre coisas móveis e títulos de crédito não se submetem ao processo de recuperação judicial, independetemente de terem sido efetivamente performados ou não até a data do pleito de recuperação judicial, conforme os seguintes precedentes:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BLOQUEIO DE VALORES. STAY PERIOD. FALTA DE PREQUESTIONAENTO. CESSÃO FIDUCIÁRIA DE RECEBÍVEIS A PERFORMAR. EXTRACONCURSALIDADE DO CRÉDITO. RENÚNCIA EXPRESSA. INEXISTÊNCIA. RECURSO NÃO PROVIDO.
+1. Recurso especial interposto por empresa em recuperação judicial contra acórdão do Tribunal de Justiça do Estado de São Paulo que reconheceu a extraconcursalidade de crédito garantido por cessão fiduciária de recebíveis não performados.
+2. O entendimento consolidado no Superior Tribunal de Justiça é de que o crédito garantido fiduciariamente não se submete à recuperação judicial, pois é de propriedade resolúvel do credor, independentemente do momento em que é performado.
+3. A extraconcursalidade do crédito garantido por alienação fiduciária ou cessão fiduciária de crédito limita-se ao valor do bem dado em garantia, devendo eventual saldo devedor ser habilitado como crédito quirografário.
+4. A renúncia à garantia fiduciária deve ser expressa, não se caracterizando com a execução do título.
+5. Recurso especial conhecido em parte e, nessa extensão, não provido.
+(REsp n. 2.176.046/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 25/8/2025, DJEN de 29/8/2025.)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CESSÃO FIDUCIÁRIA. CRÉDITOS NÃO PERFORMADOS. EXTRACONCURSALIDADE RECONHECIDA. PRECEDENTES.
+1. Recuperação judicial.
+2. De acordo com a compreensão do STJ, os créditos derivados de cessão fiduciária não se submetem à recuperação judicial, sendo irrelevante se se trata de créditos performados, aqueles cuja condição já se realizou, ou não performados, cuja condição ainda pende no momento da recuperação judicial.
+3. Recurso especial provido.
+(REsp n. 2.207.152/GO, relatora Ministra Nancy Andrighi, Terceira Turma, j. 9/6/2025, DJEN de 12/6/2025.)
+DIREITO EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO GARANTIDO POR CESSÃO FIDUCIÁRIA. NATUREZA EXTRACONCURSAL. RECURSO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto por instituição financeira contra decisão que inadmitiu recurso especial, visando reformar acórdão do Tribunal de Justiça do Estado de Goiás que classificou crédito garantido por cessão fiduciária de recebíveis como quirografário no processo de recuperação judicial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o crédito garantido por cessão fiduciária de recebíveis, incluindo créditos futuros, deve ser considerado extraconcursal e, portanto, não sujeito aos efeitos da recuperação judicial.
+III. Razões de decidir
+3. O entendimento consolidado no Superior Tribunal de Justiça é de que o crédito garantido fiduciariamente não se submete à recuperação judicial, pois é de propriedade resolúvel do credor, independentemente do momento em que é performado.
+4. A extraconcursalidade do crédito garantido por alienação fiduciária ou cessão fiduciária de crédito limita-se ao valor do bem dado em garantia, devendo eventual saldo devedor ser habilitado como crédito quirografário.
+IV. Dispositivo e tese
+5. Recurso provido para reconhecer a natureza extraconcursal do crédito objeto da impugnação, até o limite da garantia.
+Dispositivos relevantes citados: Lei 11.101/2005, art. 49, § 3º;
+Código Civil, art. 125.Jurisprudência relevante citada: STJ, AgInt no REsp 2.032.341/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 09.10.2023; STJ, AgInt no REsp 2.041.801/MG, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 09.10.2023.
+(AREsp n. 2.787.595/GO, relator Ministro Raul Araújo, Quarta Turma, j. 28/4/2025, DJEN de 6/5/2025.)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+É o voto.
