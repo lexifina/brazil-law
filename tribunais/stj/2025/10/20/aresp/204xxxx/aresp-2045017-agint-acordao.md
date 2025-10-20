@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DISPENSA DE PRODUÇÃO DE PROVA DE DIREITO DISPONÍVEL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Não há que se falar em cerceamento de defesa quando o titular do direito patrimonial disponível dispensa a produção probatória, ainda que a prova seja posteriormente considerada imprescindível pelo órgão julgador.
+3. Hipótese em que, intimada quanto ao interesse na produção de provas, como requerido na inicial, notadamente a realização de perícia contábil, a parte recorrente dispensou sua realização, o que veio a ser posteriormente considerado pelo Tribunal de origem como essencial à comprovação do direito alegado. A inversão do julgado implicaria o revolvimento do mesmo conjunto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno a que se nega provim ento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COOPERATIVA AGROPECUÁRIA CAMPONOVENSE da decisão de minha relatoria de fls. 429/433.
+A parte recorrente alega que o Tribunal de origem violou o art. 1.022 do Código de Processo Civil por não ter apreciado os argumentos da apelação, os quais conduziriam ao provimento do recurso.
+Refuta a incidência da Súmula 7 do STJ ao argumento de que a controvérsia está cingida a questões de direito e invoca a possibilidade de revaloração jurídica da prova.
+Reitera a necessidade de produção de prova pericial.
+Requer a reconsideração da decisão agravada ou a apreciação do processo pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 1.098-1.104).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. DISPENSA DE PRODUÇÃO DE PROVA DE DIREITO DISPONÍVEL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Não há que se falar em cerceamento de defesa quando o titular do direito patrimonial disponível dispensa a produção probatória, ainda que a prova seja posteriormente considerada imprescindível pelo órgão julgador.
+3. Hipótese em que, intimada quanto ao interesse na produção de provas, como requerido na inicial, notadamente a realização de perícia contábil, a parte recorrente dispensou sua realização, o que veio a ser posteriormente considerado pelo Tribunal de origem como essencial à comprovação do direito alegado. A inversão do julgado implicaria o revolvimento do mesmo conjunto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno a que se nega provim ento.
+VOTO
+Na decisão agravada, foi negado provimento ao recurso especial da parte ora agravante porque o acórdão recorrido não padecia de vício algum e a prestação jurisdicional havia sido integralmente prestada.
+Quanto ao ponto controvertido - que diz respeito à pretensão de produção probatória ex officio -, o TJRS assim decidiu (fls. 201-205):
+ ..
+A embargante busca imputador ao julgador o ônus da prova, em alegações que ignoram o caráter inerte da jurisdição - pressuposto basilar ao funcionamento adequado do sistema constitucional e judicial. O fato de ter agido de forma contraditória, isto é, aduzindo ser desnecessária a produção probatória e agora buscando reavivar discussão já afetada pelo instituto da preclusão não tem o condão de criar omissão onde esta não exista. Para que dúvidas não pairem, colaciono excerto do julgamento, que abarca, com precisão, o ponto ora suscitado:
+ ..
+Ora, como resta evidente do sistema vigente, em não sendo ilidida a presunção fiscal, não se está diante de mácula na autuação ora veiculada. Inexiste afronta ao contraditório, à capacidade contributiva ou aos princípios constitucionais invocados quando a cobrança regular seja originada, conforme o acórdão embargado, a partir de irregularidades averiguadas nos produtos transferidos dos produtores rurais à cooperativa - seja porque não foram acompanhados das notas fiscais de venda respectivas, seja porque não houve efetiva constatação de que o houve o recolhimento do ICMS em momento superveniente, isto é, quando da comercialização dos grãos pela intermediária, ora apelante.
+Assim, tendo em vista que a embargante busca reanálise da matéria já devidamente decidida, o que não é permitido via embargos declaratórios, o desacolhimento dos embargos é medida que se impõe. Ainda, no que toca à viabilidade de creditamento em relação aos valores objeto de autuação, trata-se de manifesta inovação recursal, que jamais foi versada na inicial ou nas respectivas razões recursais. Não conheço, portanto, do ponto.
+ ..
+Evidentes tanto a manifestação da parte recorrente sobre a desnecessidade da produção probatória quanto a conclusão do órgão julgador a quo sobre a regularidade da cobrança do Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS).
+Tudo que interessava à resolução da controvérsia foi devidamente respondido. É importante ressaltar que o descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação.
+Ademais, não haveria chance de sucesso da parte recorrente nas questões meritórias.
+Conforme já observado na decisão agravada, ainda que a jurisprudência do Superior Tribunal de Justiça reconheça o cerceamento de defesa em situações nas quais há improcedência por ausência de produção probatória que, todavia, fora requerida e denegada (AgInt nos EDcl nos EAREsp n. 1.790.144/GO, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022; e REsp n. 1.805.500/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/5/2019, DJe de 17/6/2019), no caso dos autos ocorreu a dispensa expressa da produção de prova pela parte agravante (fls. 105/106).
+Nesse cenário, embora tenha sido declarada a imprescindibilidade da prova pericial pelo Tribunal de origem, não há que se falar em cerceamento de defesa, porquanto o caso destes autos diz respeito a direito patrimonial disponível cuja produção probatória foi dispensada pelo próprio titular.
+Por fim, a Corte estadual reconheceu "a inexistência de documentos fiscais hábeis a comprovarem a efetiva regularidade dos produtos transferidos dos produtores rurais à cooperativa, seja porque não foram acompanhados das notas fiscais de venda respectivas, seja porque não houve efetiva constatação de que o houve o recolhimento do ICMS em momento superveniente, isto é, quando da comercialização dos grãos pela intermediária, ora apelante" (fl. 108).
+Da análise do art. 105, III, da Constituição Federal, conclui-se que a missão do Superior Tribunal de Justiça é a de uniformizar a interpretação da legislação federal.
+No cumprimento de seu papel, não é devido a este Tribunal o reexame do contexto fático-probatório dos autos porque tal providência daria ensejo à formação de novo juízo acerca de fatos e provas, atribuição exclusiva das autoridades judiciais de primeira e segunda instâncias.
+Está correta a decisão que não conheceu do recurso com fundamento na Súmula 7 do STJ.
+Não custa, de qualquer forma, lembrar que, a fim de rebater o fundamento de que a reforma do acórdão recorrido ou a aplicação da tese recursal demanda o reexame de fatos e provas, a parte recorrente deve demonstrar a inaplicabilidade do óbice em questão, podendo fazê-lo mediante a realização do confronto entre o acórdão recorrido, proferido pelo Tribunal de origem, e a tese recursal, o que não ocorreu no presente caso.
+Está correta, portanto, a decisão que negou provimento ao recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
