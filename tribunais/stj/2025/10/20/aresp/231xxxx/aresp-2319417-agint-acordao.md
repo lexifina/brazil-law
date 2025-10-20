@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que, com fundamento na Súmula n. 7 do STJ, negou provimento ao agravo em recurso especial.
+2. A parte agravante alega que a aplicação da Súmula n. 7 do STJ seria indevida, pois não se trata de reexame de provas, mas de requalificação jurídica dos fatos.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a aplicação da Súmula n. 7 do STJ foi adequada ao caso, considerando a alegação de que não se trata de reexame de provas, mas de requalificação jurídica dos fatos.
+III. RAZÕES DE DECIDIR
+4. A Súmula n. 7 do STJ impede o reexame do conjunto fático-probatório em recurso especial, sendo aplicável ao caso, pois a pretensão recursal demandaria a revisão da análise de provas realizada pela Corte de origem.
+IV. DISPOSITIVO E TESE
+5. Agravo interno desprovido.
+Tese de julgamento: 1. A Súmula n. 7 do STJ impede o reexame do conjunto fático-probatório em recurso especial, sendo aplicável quando a pretensão recursal demanda revisão de fatos e provas.
+Dispositivos relevantes citados: CPC, arts. 320 e 700, I e 85, § 2º, I, II, III, IV; CC, arts. 264 e 265.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 484-488, que negou provimento ao agravo em recurso especial em razão da incidência da Súmula n. 7 do STJ.
+A parte agravante alega que não incide a Súmula n. 7 do STJ, pois suas teses demandam apenas revaloração jurídica dos elementos já reconhecidos no acórdão recorrido.
+Aponta violação dos arts. 320 e 700, I, do CPC, por ausência de prova escrita apta à ação monitória; 264 e 265 do Código Civil, visto que não é responsável solidária; e 85, § 2º, I, II, III, IV, do CPC, pois os honorários fixados seriam desproporcionais e desarrazoados.
+Requer a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Nas contrarrazões, a parte agravada requer o não conhecimento ou o desprovimento do agravo interno, com aplicação de multa do art. 1.021, § 4º, do CPC e a condenação da recorrente por litigância de má-fé (fls. 512-520).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que, com fundamento na Súmula n. 7 do STJ, negou provimento ao agravo em recurso especial.
+2. A parte agravante alega que a aplicação da Súmula n. 7 do STJ seria indevida, pois não se trata de reexame de provas, mas de requalificação jurídica dos fatos.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a aplicação da Súmula n. 7 do STJ foi adequada ao caso, considerando a alegação de que não se trata de reexame de provas, mas de requalificação jurídica dos fatos.
+III. RAZÕES DE DECIDIR
+4. A Súmula n. 7 do STJ impede o reexame do conjunto fático-probatório em recurso especial, sendo aplicável ao caso, pois a pretensão recursal demandaria a revisão da análise de provas realizada pela Corte de origem.
+IV. DISPOSITIVO E TESE
+5. Agravo interno desprovido.
+Tese de julgamento: 1. A Súmula n. 7 do STJ impede o reexame do conjunto fático-probatório em recurso especial, sendo aplicável quando a pretensão recursal demanda revisão de fatos e provas.
+Dispositivos relevantes citados: CPC, arts. 320 e 700, I e 85, § 2º, I, II, III, IV; CC, arts. 264 e 265.
+Jurisprudência relevante citada: STJ, Súmula n. 7.
+VOTO
+O recurso não merece prosperar.
+A controvérsia diz respeito à ação monitória em que a parte autora pleiteou a constituição de título executivo judicial para o pagamento de R$ 59.792,97, acrescido de juros de 1% ao mês e correção monetária desde a data em que a dívida deveria ter sido paga.
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos formulados na inicial; a Corte estadual manteve integralmente a sentença.
+No recurso especial, a parte aponta violação dos arts. 85, § 2º, I, II, III, IV, 320, 373, I, 485, IV, 700, caput e I, do Código de Processo Civil, 264 e 265 do Código Civil.
+Alega que não há prova escrita idônea para a monitória nem solidariedade, bem como que os honorários fixados são desproporcionais.
+Requer a extinção da ação monitória sem resolução de mérito por insuficiência documental; subsidiariamente, pretende a conversão para o afastamento da solidariedade e a redução dos honorários advocatícios sucumbenciais.
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Isso porque o Tribunal de origem, soberano na análise dos fatos e provas dos autos concluiu que a ação monitória foi instruída com documentos hábeis para a demonstração do direito perseguido, que a parte recorrente teve participação na relação comercial, bem como que o valor dos honorários se mostra justo e razoável, nestes termos (fls. 286-288):
+Na petição inicial da ação monitória, além do que prevê os artigos 319 e ss do CPC, cumpre ao autor explicitar, de modo específico, a importância devida e instruir o processo com a respectiva memória de cálculo (CPC, art. 700, § 2º, I), requisito que foi devidamente atendido no caso (Id. 109136486), assim como o foi a exigência de que conste dos autos os documentos indispensáveis à propositura da ação (CPC, art. 320), já que a prova escrita da ação monitória não se submete ao rigor da prova do ato jurídico exigida pelo direito material, bastando, à instauração do pleito monitório, que o conjunto probatório reflita razoável probabilidade da existência de direitos de crédito em favor do autor, ou seja, "não precisa, necessariamente, ser robusta, podendo ser aparelhada por documento idôneo, ainda que emitido pelo próprio credor, contanto que, por meio do prudente exame do magistrado, exsurja o juízo de probabilidade acerca do direito afirmado pelo autor" (STJ - 4ª Turma - AgRg no AREsp 559.231/PE - Rel. Min. MARCO BUZZI - Julg. 10/03/2015), e, nessa perspectiva, a verdade é que não faz sentido lógico ou jurídico a tese defendida pelo réu/apelante de carência da ação porque "é necessário que se diferencie prova sem eficácia de título executivo, hábil à Ação Monitória, de pretensa prova unilateral e apócrifa desconstituída de mínima aparência de idoneidade e formalidade ou que não seja capaz de representar a verossimilhança da alegação de existência do direito de crédito face a Apelante", afinal, a causa de pedir da ação monitória é justamente fundada em "prova escrita sem eficácia de título executivo" (CPC, art. 700). (fls. 286-287)
+A Nota Fiscal de Produtor (Id. 109136475), Espelho GTA (Id. 109136477), a Nota Fiscal de Devolução de Compra (Id. 109136479), a Notificação Extrajudicial encaminha à empresa Frical (Id. 109136482) e os Romaneios de Embarque (Id. 109136484) e de Abate (Id. 109136485), são provas válidas da relação negocial que se estabeleceu entre os apelado e as empresas FRICAL e W.D de Souza Distribuidora de Carnes.
+Não procede a singela objeção da apelante FRICAL de que somente era a responsável pelo abate dos animais, mas não pela constituição da negociação que de fato se consumou entre o apelado e a empresa W.D de Souza. O documento "Espelho GTA", no local denominado "destino", mostra o "estabelecimento: Frical Frigorífico" ali indicado como destinatário dos animais adquiridos (Id. 109136477) e, isso comprova a participação ativa e proveitosa da referida empresa na relação comercial existente , pois, como não houve a devolução dos animais ou qualquer outra informação de que o vendedor/apelado não tenha cumprido sua parte no acordo, qual seja, a entrega dos animais para o abate, tem-se que as duas empresas, inclusive a FRICAL, alcançaram o proveito econômico almejado.
+Nesse sentido:
+ ..
+O autor instruiu a inicial com as notas fiscais, e como os romaneios de embarque e de abate (este, inclusive informando como destinatário da carga justamente a empresa FRICAL), documentos hábeis para demonstrar a relação jurídica entre os litigantes, comprovando, por conseguinte, a existência da dívida e fazendo surgir em favor do vendedor a evidência da existência do crédito representado pelos referidos documentos, sendo certo, ipso facto, que caberia às rés/devedoras o ônus de desconstituir tal circunstância.
+É essa a lição doutrinária:
+"Ao conceder a tutela monitória, o magistrado formula juízo de verossimilhança em favor do autor. A partir de então e em qualquer caso - considerem-se os embargos "ação" ou contestação" -, passa a ser ônus do réu destruir o juízo de verossimilhança inicialmente estabelecido. Há entendimento assente em direito probatório de que, quando se forma presunção em favor de uma das partes, cabe à adversária demonstrar o desacerto dessa presunção. Essa noção igualmente é aplicável aos juízos de probabilidade: é ônus do réu no procedimento monitório provar que as coisas não ocorreram como parecem ter ocorrido (o que não exclui que ele se desincumba desse encargo através de "provas indiretas")" (TALAMINI, Eduardo. "Tutela Monitória", 2ª ed., Editora Revista dos Tribunais, São Paulo, 2011, pág. 149)
+E a orientação da jurisprudência da Corte Superior sobre o tema:
+"Demonstrado pelo autor da monitória, pelos documentos apresentados com a inicial, o fato constitutivo de seu direito, compete ao embargante provar os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do artigo 333, incisos I e II, do Código de Processo Civil" (STJ - TERCEIRA TURMA - REsp 337522/MG, Rel. Ministro CASTRO FILHO, julgado em 02.12.2003, DJ 19.12.2003)
+Portanto, cabia às rés o ônus de infirmar o direito creditório afirmado e sumariamente comprovado pelo autor.
+Sendo assim, são irretocáveis o raciocínio e a conclusão decisória, nada mais havendo a ser acrescido aos fundamentos sentenciais, pois, conforme acima delineado, é de se concluir que, considerando que a defesa (e, agora, a impugnação recursal) das rés (na verdade, apenas da FRICAL, já que a outra corré foi revel), se restringiu basicamente à mera alegação de inexistência de qualquer relação/obrigação justificadora do pagamento solidário da dívida cobrada pelo autor/apelado, mas nada nesse sentido restou comprovado, ou seja, não restou desconstituída a presunção favorável ao autor, não tendo a parte ré se desvencilhado do ônus probatório, devendo, por isso, suportar a procedência do pedido formulado na inicial, porquanto arrimado este em prova documental hábil.
+Sobre os honorários advocatícios, estes devem ser atingidos a partir do concurso de algumas variáveis em atenção à regra do art. 85, § 2º, do CPC, quais sejam, o grau de zelo profissional, o lugar de prestação do serviço, o tempo exigido para o serviço, a singularidade da matéria e o trabalho realizado, daí resultando valor definido segundo apreciação equitativa do julgador. No caso, o valor fixado pelo Juízo (20%) se mostra justo e razoável capaz de prestigiar o trabalho desenvolvido . Isso posto, desprovejo o recurso, mantendo intocada a r. sentença apelada." (fl. 288)
+Nesse contexto, acertada a conclusão da decisão ora impugnada de aplicar a Súmula n. 7 do STJ, uma vez que, para adotar desfecho diverso do assentado pelo Tribunal de origem e acolher as teses recursais de ausência de prova idônea para a monitória e de solidariedade, assim como de que os honorários foram fixados desproporcionalmente, seria necessário reexaminar os elementos fático-probatórios dos autos, medida que encontra óbice nesta instância superior.
+Portanto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a revisão da decisão agravada, que deve ser mantida por seus próprios fundamentos.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, pleiteada em contrarrazões, a orientação desta Corte é no sentido de que "a multa aludida no art. 1.021, §§ 4º e 5º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+Quanto à questão relacionada ao pedido de aplicação da pena por litigância de má-fé formulado em impugnação ao agravo interno, ressalte-se que a litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+No caso, apesar do desprovimento do agravo interno, não está caracterizada a manifesta inadmissibilidade do recurso ou mesmo a litigância temerária, razão pela qual é incabível a aplicação das penalidades acima referidas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
