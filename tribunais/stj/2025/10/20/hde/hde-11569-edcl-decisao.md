@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos por Borealis Properties Limited à decisão que homologou as sentenças estrangeiras oriundas dos Tribunais Distritais do Condado de Harris, Texas, EUA, que condenaram o requerido ao pagamento de indenização por inadimplemento total das obrigações contraídas entre as partes (fls. 398-400).
+A parte embargante alega que houve omissão no decisum "ao não fixar os honorários advocatícios sucumbenciais e não determinar o pagamento das custas processuais em face de LEANDRO CARBONI, conforme expressamente requerido na petição inicial à e-STJ fl. 18" (fl. 405).
+Aduz que "a incidência de honorários sucumbenciais em procedimentos de homologação de decisões estrangeiras é plenamente pacificada na jurisprudência deste E. Superior Tribunal quando constatada resistência pela parte contrária" (fls. 405-406).
+Argumenta ainda que, "neste caso concreto, não se pode desconsiderar a complexidade e relevância da matéria, evolvendo quantias que ultrapassam R$ 7.000.000,00 (sete milhões de reais), a necessidade de elaboração e tradução juramentada de mais de dez documentos jurídicos, totalizando mais de 200 páginas, constantes contatos com advogados estrangeiros para a obtenção de documentos oriundos de fora do Brasil, e diligências extras que precisaram ser tomadas por conta de condutas questionáveis tomadas pelo REQUERIDO, incluindo a possível falsificação de extrato bancário internacional, tudo isso resultando em diversos e significativos custos e dispêndio de tempo por parte dos patronos da EMBARGANTE." (fl. 406).
+Por fim, requer o acolhimento dos Aclaratórios a fim de que "seja determinado a LEANDRO CARBONI que efetue o pagamento das custas e dos honorários advocatícios sucumbenciais no valor a ser determinado por este E. Superior Tribunal (art. 85, §§2º, 8º e 8º-A, do CPC)." (fl. 407).
+Não houve impugnação, conforme certidão de fl. 411.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+Contudo, acerca da omissão apontada, impõem-se os seguintes esclarecimentos: a Corte Especial do Superior Tribunal de Justiça, ao apreciar caso de homologação de sentença estrangeira na vigência do Código de Processo Civil de 2015, firmou entendimento no sentido de que, em caso de processo necessário no qual não haja resistência da parte requerida, "seja porque, citada, não compareceu, passando, nesse caso, a ser assistida pela curadoria especial, seja porque compareceu e não se opôs ao pedido, não haverá condenação da parte requerida ao pagamento das verbas de sucumbência" (HDE 1.614/EX, Relator Ministro Raul Araújo, Corte Especial, DJe de 1º.7.2021, grifos acrescidos).
+Eis a ementa do referido julgado:
+HOMOLOGAÇÃO DE DECISÃO ESTRANGEIRA. DISSOLUÇÃO DE CASAMENTO. CUMPRIMENTO DOS REQUISITOS. DEFERIMENTO, SEM CONDENAÇÃO DO REQUERIDO NOS ÔNUS SUCUMBENCIAIS. PROCESSO NECESSÁRIO. PEDIDO DEFERIDO.
+. É devida a homologação da sentença estrangeira de dissolução de casamento, porquanto foram atendidos os requisitos previstos nos arts. 963 e 964 do CPC de 2015 e 216-C e 216-D do RISTJ, bem como constatada a ausência de ofensa à soberania nacional, à dignidade da pessoa humana e à ordem pública (CPC/2015, art. 963, VI; LINDB, art. 17; RISTJ, art. 216-F).
+2. Em razão de se tratar de processo necessário, nas homologações de sentença estrangeira em que não haja resistência ao pedido homologatório pela parte citada, seja porque, citada, não compareceu, passando, nesse caso, a ser assistida pela curadoria especial, seja porque compareceu e não se opôs ao pedido, não haverá condenação da parte requerida ao pagamento das verbas de sucumbência.
+3. Pedido de homologação da decisão estrangeira deferido. (HDE 1.614/EX, Relator Ministro Raul Araújo, Corte Especial, DJe 1º.7.2021.)
+Seguindo essa orientação:
+PROCESSUAL CIVIL. HOMOLOGAÇÃO DE SENTENÇA ESTRANGEIRA. EMBARGOS DE DECLARAÇÃO. VÍCIO DE FUNDAMENTAÇÃO. OMISSÃO. SUCUMBÊNCIA DA CURADORIA ESPECIAL EM PROCESSO NECESSÁRIO. AFASTAMENTO DA CONDENAÇÃO EM HONORÁRIOS.
+1. A questão da condenação da curadoria especial em processo necessário de homologação de sentença estrangeira foi detidamente analisada por esta Corte Especial, por ocasião do julgamento da HDE n. 1.614.
+2. Naquele feito, conquanto tenha havido concordância em relação ao resultado no caso concreto, concluiu-se, no voto condutor do acórdão, pelo descabimento dos honorários, diante da ausência de resistência efetiva à homologação, embora a maioria do colegiado tenha seguido a compreensão da divergência, afastando a condenação por se tratar de processo necessário em que a parte não compareceu ao feito, constituindo-se apenas a curadoria especial, realizada pela Defensoria.
+3. A análise dos precedentes em julgamento plural - quando há fundamentos concorrentes no Colegiado - exige leitura especialmente crítica pelos aplicadores do precedente.
+4. Hipótese em que o fundamento prevalente na Corte Especial constou não no voto da relatoria, mas no voto da divergência.
+5. À luz da conclusão adotada pela Corte Especial na HDE n. 1.614 e diante dos fundamentos prevalentes naquela ocasião, é de se reconhecer a omissão do acórdão embargado quanto à peculiar situação da curadoria especial nos processos necessários e sua implicação para sucumbência.
+6. Descabe a fixação de honorários de sucumbência, nos processos de homologação de sentença estrangeira submetidos à curadoria especial, por ausência de comparecimento da parte ao feito, independentemente do teor patrimonial ou existencial do direito discutido, ainda que a Defensoria tenha resistido ao requerimento por dever de ofício.
+7. Embargos de declaração acolhidos, com efeitos infringentes, para afastar a condenação imposta à parte representada por curador especial.
+(EDcl na HDE 4.858/EX, Relator Ministro Og Fernandes, Corte Especial, DJe de 14.8.2023, grifos acrescidos.)
+Ante o exposto, acolho os Embargos de Declaração, sem efeitos infringentes, apenas para prestar esclarecimentos.
+Publique-se.
+Intimem-se.
+EMENTA
