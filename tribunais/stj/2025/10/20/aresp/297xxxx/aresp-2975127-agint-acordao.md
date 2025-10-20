@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INCIDÊNCIA DA SÚMULA N. 284/STF. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. COMPROMETIMENTO DO MÍNIMO EXISTENCIAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Inaplicabilidade da Súmula n. 284/STF. Isso porque demonstrado que a parte agravante mencionou, nas razões recursais, violação do artigo 833, IV, do Código de Processo Civil.
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.874.222/DF, firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. A decisão do Tribunal de origem está em harmonia com a jurisprudência do STJ, visto que em situações excepcionais, como a dos autos, é possível a relativização da regra da impenhorabilidade de vencimentos do devedor. Incidência da Súmula n. 83/STJ.
+4. Alterar o decidido no acórdão impugnado, no sentido de que o valor penhorado não compromete a subsistência da recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Agravo interno provido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por LUCIANE DE LOURDES MANCINE contra decisão monocrática da Presidência desta Corte que não conheceu do recurso especial em razão do óbice da Súmula n. 284/STF (fls. 132-133).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 37):
+EXECUÇÃO. Cédula de crédito bancário. Penhora de honorários médicos. Mitigação da regra de impenhorabilidade prevista no art. 833, IV, do CPC. Possibilidade no caso em concreto diante da prova documental produzida. Precedentes do STJ. Desbloqueio de contas correntes. Desnecessidade. Ordem de constrição que deferiu, apenas e tão somente, a indisponibilidade de ativos financeiros da recorrida em caráter reiterado e por até 30 dias, cujo prazo já se esgotou. Possibilidade da agravante realizar suas movimentações bancárias. RECURSO DESPROVIDO.
+Sem embargos de declaração.
+A agravante alega, em síntese, nas razões do agravo interno, que (fls. 140-141):
+Em que pese os argumentos da decisão de fls., que não conheceu do Agravo em Recurso Especial, com fundamento de que o recorrente deixou de indicar de forma precisa a violação da Lei federal, incidindo a sumula 284/STF, entretanto, o agravante em sua peça recursal de forma clara e objetiva demonstrou que houve a violação do Artigo 833, IV do Código de Processo Civil-Lei nº 13.105 de 16 de março de 2015, que expressamente prevê que são Impenhoráveis, os ganhos referente aos Honorários de profissional liberal. No caso concreto ora analisado, houve o bloqueio judicial na conta corrente da agravante referente a seus Honorários médicos, o que é vedado expressamente pelo artigo 833, IV do CPC, portanto, ao contrário do entendimento de Vossa Excelência, houve por parte da agravante a demonstração clara e esta indicou os artigos de lei violados na presente lide, devendo recurso ser conhecido.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A agravada apresentou contraminuta (fls. 157-164).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INCIDÊNCIA DA SÚMULA N. 284/STF. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. COMPROMETIMENTO DO MÍNIMO EXISTENCIAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Inaplicabilidade da Súmula n. 284/STF. Isso porque demonstrado que a parte agravante mencionou, nas razões recursais, violação do artigo 833, IV, do Código de Processo Civil.
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.874.222/DF, firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. A decisão do Tribunal de origem está em harmonia com a jurisprudência do STJ, visto que em situações excepcionais, como a dos autos, é possível a relativização da regra da impenhorabilidade de vencimentos do devedor. Incidência da Súmula n. 83/STJ.
+4. Alterar o decidido no acórdão impugnado, no sentido de que o valor penhorado não compromete a subsistência da recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Agravo interno provido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Assiste razão ao agravante quanto à inaplicabilidade da Súmula n. 284/STF, em razão de ter mencionado, nas razões recursais, violação do artigo 833, IV, do Código de Processo Civil.
+Assim, reconsidero a decisão de fls. 397-398 e passo a uma nova análise do recurso especial.
+Cuida-se, na origem, de ação de execução de título extrajudicial promovida pelo Banco do Brasil S.A., com base em cédula de crédito bancário, na qual foi determinada a penhora de ativos financeiros da executada, Luciane de Lourdes Mancini, por meio do sistema SISBAJUD. A executada, ora recorrente, apresentou impugnação à penhora, alegando a impenhorabilidade dos valores bloqueados, por se tratarem de honorários médicos com natureza alimentar, protegidos pelo art. 833, inciso IV, do Código de Processo Civil.
+A decisão de primeira instância rejeitou a impugnação, mantendo a constrição dos valores. Contra essa decisão a executada interpôs agravo de instrumento, reiterando a tese de impenhorabilidade e invocando os princípios da execução menos gravosa e da dignidade da pessoa humana.
+O Tribunal de origem, ao julgar o agravo de instrumento, negou-lhe provimento, sob o argumento de que, no caso concreto, a relativização da regra de impenhorabilidade seria possível, considerando que os valores bloqueados não comprometem o mínimo existencial da executada e de sua família, conforme demonstrado pela análise das movimentações financeiras constantes nos autos.
+Assim, a recorrente interpô s o presente recurso especial, alegando que o acórdão recorrido violou o dispositivo contido no artigo 833, IV, do Código de Processo Civil, porquanto os valores bloqueados, no montante de R$ 12.788,47, possuem natureza alimentar, sendo provenientes de honorários médicos percebidos pela recorrente em razão de sua atividade como profissional liberal. Argumenta que tais valores são impenhoráveis, conforme expressamente previsto no referido dispositivo legal, que protege os ganhos de trabalhador autônomo e os honorários de profissional liberal, destinados ao sustento do devedor e de sua família.
+Além disso, sustenta que o bloqueio compromete o mínimo existencial necessário para sua subsistência e aponta que o acórdão recorrido divergiu de precedentes do Superior Tribunal de Justiça e de outros tribunais, que reconhecem a impenhorabilidade de valores de natureza alimentar, reforçando a literalidade do artigo 833, IV, do CPC.
+Foram apresentadas contrarrazões (fls. 69-76).
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, após ampla análise do conjunto fático-probatório, concluiu que a penhora dos valores bloqueados, no montante de R$ 12.788,47, não compromete o mínimo existencial da recorrente e de sua família, permitindo, assim, a relativização da regra de impenhorabilidade prevista no art. 833, IV, do Código de Processo Civil.
+É o que se extrai dos seguintes trechos (fls. 39-44):
+Insiste, a devedora no reconhecimento da impenhorabilidade do valor em questão.
+Dispões o art. 833, IV, do CPC, que são impenhoráveis:
+"(..) os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º"
+Sucede que a relativização da impenhorabilidade do salário vem sendo permitida em casos excepcionais, desde que preservada o mínimo existencial capaz de garantir a dignidade e subsistência do devedor e de sua família.
+Sobre o tema, confira-se:
+ ..
+Como se observa foram bloqueados por meio do Sisbajud ativos financeiros da agravante no importe de R$.12.788,47 (fl. 114).
+Contudo, do exame dos autos identifica-se que a quantia acima referida, o não afetará a subsistência da recorrida e de sua entidade familiar e permite a relativização da regra de impenhorabilidade.
+ ..
+Nesta senda, a penhora de parte de seus honorários médicos não comprometerá seu mínimo existencial e de sua família em atenção ao princípio da dignidade da pessoa humana.
+Finalmente, não comporta acolhimento o pedido de desbloqueio das contas correntes de titularidade da executada.
+Com efeito, inexiste elemento capaz de comprovar que há qualquer comando judicial que impeça a agravante de realizar livremente suas movimentações bancárias.
+Note-se que a ordem que originou a constrição deferiu, apenas e tão somente, a indisponibilidade de ativos financeiros da agravante em caráter reiterado e por até 30 dias, ou seja, na modalidade comumente denominada como "Teimosinha" e que já se esgotou.
+Com efeito, a Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp n. 1.874.222/DF, firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+A propósito, cito a ementa do referido julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+Assim, observa-se que a decisão do Tribunal de origem está em harmonia com a jurisprudência do STJ, visto que em situações excepcionais, como a dos autos, é possível a relativização da regra da impenhorabilidade de vencimentos do devedor.
+Incide, in casu, a Súmula n. 83/STJ.
+Ademais, alterar o decidido no acórdão impugnado, no sentido de que o valor penhorado não compromete a subsistência da recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PENHORA DE SALÁRIOS. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE. POSSIBILIDADE. COMPROMETIMENTO DO MÍNIMO EXISTENCIAL. NÃO OCORRÊNCIA. PENHORA PERMITIDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - de que o percentual penhorado do valor do salário do recorrente não inviabilizaria a sua subsistência e de sua família, sendo protegido o mínimo existencial para uma vida digna, - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula desta Corte Superior.
+3. A interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo. 4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º , do CPC, devendo ser analisado caso a caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.475.865/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 132-133 e conhecer do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
