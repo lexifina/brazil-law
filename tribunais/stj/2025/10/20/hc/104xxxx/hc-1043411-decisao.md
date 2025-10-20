@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, interposto em benefício de IGOR DANIEL DA SILVA SANTOS, contra ato do MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ - MP/PR, nos autos da Ação Penal n. 0032765-39.2025.8.16.0030.
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 311, § 2º, III, do Código Penal - CP, oportunidade na qual o Parquet estadual negou a celebração do Acordo de Não Persecução Penal - ANPP.
+A Subprocuradoria-Geral de Justiça para assuntos jurídicos do Ministério Público estadual indeferiu o pleito de revisão da negativa do acordo formulado pela defesa, nos termos da ementa a seguir (fl. 9):
+"EMENTA: PROCESSO PENAL. REVISÃO DE ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). ART. 28-A, §14, DO CPP. INDEFERIMENTO DA PROPOSTA PELO MINISTÉRIO PÚBLICO. MANUTENÇÃO DA NEGATIVA EM SEDE DE REVISÃO MINISTERIAL. DENÚNCIA PELA PRÁTICA DO CRIME DE ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO (CP, ART. 311, §2º, III). REMESSA À SUBPROCURADORIA-GERAL DE JUSTIÇA PARA ASSUNTOS JURÍDICOS APÓS PEDIDO DE REVISÃO DA DEFESA. FUNDAMENTO DA NEGATIVA INICIAL EM INSUFICIÊNCIA DA MEDIDA PARA PREVENÇÃO E REPROVAÇÃO DO DELITO. A GRAVIDADE CONCRETA DO INJUSTO, PRATICADO NUM CONTEXTO DIRIGIDO À VIABILIZAÇÃO DE POSSÍVEIS DELITOS MAIS GRAVES, TORNA A CONDUTA MAIS REPROVÁVEL, SENDO ELEVADA CULPABILIDADE DO AGENTE. MODUS OPERANDI QUE EXTRAPOLA O ORDINÁRIO E TORNA O ANPP INADEQUADO. INDEFERIMENTO DO PEDIDO DE REVISÃO E MANUTENÇÃO DA NEGATIVA DE CELEBRAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL."
+No presente writ, a defesa sustenta que o paciente é primário, possui residência fixa, exerce atividade lícita e confessou o delito cometido sem violência ou grave ameaça e com pena mínima inferior a quatro anos, preenchendo, portanto, os requisitos do art. 28-A do Código de Processo Penal - CPP para a celebração do ANPP.
+Alega que a negativa ministerial foi arbitrária e apoiada em conjecturas, sem lastro probatório concreto.
+Requer, em liminar, a expedição de alvará de soltura em favor do paciente. No mérito, pugna pela concessão da ordem para que seja determinado ao Ministério Público estadual o oferecimento do ANPP.
+É o relatório.
+Decido.
+O presente writ não deve ser conhecido.
+O Superior Tribunal de Justiça não possui competência para a análise de decisões prolatadas pela Subprocuradoria-Geral de Justiça do Ministério Público estadual, ante a ausência de previsão no art. 105, I, c, da Constituição Federal.
+Observe-se, ainda, que não há notícia de incidente processual sobre a questão ventilada neste habeas corpus junto ao Tribunal de origem.
+Conforme precedente deste Superior Tribunal de Justiça, mutatis mutandi, " i mpetrado o habeas corpus contra ato proferido por Câmara de Coordenação e Revisão do Ministério Público Federal, não se constata a competência do Superior Tribunal de Justiça para apreciar o pedido" (RCD no HC n. 920.154/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/11/2024, DJe de 8/11/2024).
+Ainda sobre a questão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIDO LIMINARMENTE. INCOMPETÊNCIA. WRIT IMPETRADO DIRETAMENTE NO STJ CONTRA ATO DA CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO MILITAR. CRIME MILITAR. ART. 251 DO CPM. INCIDÊNCIA DO ACORDO DE NÃO PERSECUÇÃO PENAL NA JUSTIÇA MILITAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A atuação, por força do art. 28-A, § 14, do CPP, da Câmara de Coordenação e Revisão do Ministério Público Militar, por meio dos Sub-Procuradores Gerais de Justiça Militar que a integram, em ação penal militar em trâmite no primeiro grau de jurisdição, por si só, não desloca a competência diretamente para o Superior Tribunal de Justiça para o processamento e julgamento de habeas corpus contra a decisão que manteve o não oferecimento do acordo de não persecução penal no âmbito da Justiça Militar.
+2. Em semelhante hipótese, esta Corte Superior, no julgamento do Agravo Regimental no Habeas Corpus n. 550.851/DF de minha relatoria consignou que a atuação do Procurador-Geral de Justiça do MPDFT (membro do Ministério Público da União com atuação em Tribunais) em processos de primeiro grau, por analogia ao art. 28 do CPP, sobre temas que a Corte local nem sequer tenha se manifestado, não desloca a competência para o julgamento do mandamus, diretamente, perante esta Corte Superior.
+3. O pleito não reúne condições de acolhimento, pois o referido dispositivo de lei federal infraconstitucional, nos termos do que mencionado na petição anteriormente apresentada (art. 28-A, do CP - acordo de não persecução penal), não foi objeto de específico debate perante o eg. Colegiado a quo  ..  (AgRg na PET no AREsp 1668089/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/10/2020, DJe de 29/10/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 628.595/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2020, DJe de 17/12/2020 - grifamos.)
+Ante o exposto, com fulcro n o art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
