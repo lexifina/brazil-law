@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.  MATÉRIA  DE  ORDEM  PÚBLICA.  CONHECIMENTO.  IMPOSSIBILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  embargos de declaração,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  MARIA LUISA MOREIRA DA SILVA  ao  acórdão  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUALCIVIL. PREPARO. RECOLHIMENTO. COMPROVAÇÃO. DEFICIÊNCIA. JUNTADA DE DOCUMENTO SEM O CÓDIGO DE BARRAS. INTIMAÇÃO. SANEAMENTO. INÉRCIA. DESERÇÃO CARACTERIZADA. SÚMULA Nº 187/STJ.
+1. É deserto o recurso especial na hipótese em que a recorrente, apesar de intimada a regularizar o preparo, queda-se inerte.
+2. A falta do número do código de barras do comprovante de pagamento apresentado impede a aferição da regularidade do preparo, tornando o recurso deserto. Precedentes.
+3. Agravo interno não provido."  (e-STJ  fl.  682).
+
+Nas  presentes  razões,  a  embargante  defende  o afastamento da deserção.
+Impugnação às e-STJ  fls.  702/704.
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.  MATÉRIA  DE  ORDEM  PÚBLICA.  CONHECIMENTO.  IMPOSSIBILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  embargos de declaração,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+De  fato,  a  decisão  embargada  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  art.  1.022  do  Código  de  Processo  Civil :  obscuridade,  contradição,  omissão  ou  erro  material.
+Conforme  já  disposto,  o Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas e dos respectivos comprovantes de pagamento, os quais, para que sejam aptos a comprovar o pagamento das custas devidas ao Superior Tribunal de Justiça, devem possuir a sequência numérica do código de barras legível, a fim de permitir a comparação com os dados constantes da guia de recolhimento apresentada, sob pena de deserção.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+3. Documento sem a sequência numérica do código de barras ou com o código de barras ilegível não é apto para comprovar o pagamento das custas devidas ao STJ, tendo em vista a impossibilidade de comparação com os dados constantes da guia de recolhimento apresentada.
+4. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+5. Agravo interno desprovido" (AgInt no AREsp 2.534.925/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. NECESSIDADE DE DEMONSTRAÇÃO NO MOMENTO ADEQUADO. ATO DE INTERPOSIÇÃO DO RECURSO. AUSÊNCIA DE COMPROVAÇÃO. RECURSO INTEMPESTIVO. DESERÇÃO DO RECURSO ESPECIAL. ABERTURA DE PRAZO PARA REGULARIZAÇÃO. IMPOSSIBILIDADE DE CONFERÊNCIA DO PREPARO RECURSAL. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+2. A Corte Especial deste Superior Tribunal, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015, bem como os princípios consagrados pelo novo código, por maioria, firmou orientação de que a parte recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso" (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+3. Ademais, "os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça" (AgInt no AREsp 1.762.967/PR, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 31/05/2021, DJe 04/06/2021).
+4. De acordo com a regra do art. 1.007, § 4º, do CPC/2015, a parte será intimada para recolhimento do preparo recursal em dobro quando interpor o recurso sem a comprovação das respectivas taxas judiciárias, de modo que, caso não atenda a determinação, seu recurso será considerado deserto, nos termos da Súmula 187/STJ.
+5. Assim, "incide o referido óbice quando for impossível verificar a correspondência entre o código de barras e a guia de recolhimento, como na presente hipótese, visto que o comprovante de pagamento digitalizado pela parte não permite a verificação completa do código de barras" (AgInt no AREsp n. 1.225.592/RJ, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/3/2020, DJe 25/3/2020).
+6. Agravo interno desprovido" (AgInt no AREsp 2.258.263/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em , D Je5/6/2023de - grifou-se).
+No caso concreto, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A recorrente, embora regularmente intimada para sanar referido vício, nos termos do art. 1.007, §§ 2º e 4º, do Código de Processo Civil, não o regularizou, tendo em vista que a petição de e-STJ fls. 556/560 foi protocolada sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registra-se que o documento juntado aos autos não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação, tendo em vista que não contém a sequência numérica do código de barras.
+Assim, correta a decisão que decretou a deserção.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. IRREGULARIDADE. INDICAÇÃO INCORRETA DO NÚMERO DO PROCESSO NA GUIA. INTIMAÇÃO PARA REGULARIZAÇÃO EM DOBRO. NÃO ATENDIMENTO. SÚMULA N.º 187 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A guia de recolhimento das custas deve conter o número do processo ou o número constante do acórdão recorrido, considerando-se irregular o recolhimento do preparo sem a observância da referida diretriz.
+2. Não demonstrado o recolhimento do preparo no ato de interposição do recurso e, intimado para efetuar o recolhimento em dobro, o recorrente não o comprovou no prazo assinalado, o recurso especial não deve ser admitido em virtude da sua deserção (Súmula n.º 187 do STJ).
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp n.º 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+4. Agravo interno não provido" (AgInt nos EDcl no AREsp 2.537.177/RS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  os  erros  materiais,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Confiram-se:
+
+"EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  CIVIL  PÚBLICA.  ALEGAÇÃO  DE  PUBLICIDADE  ENGANOSA.  INFORMAÇÃO  FALSA.  AFRONTA  À  BOA-FÉ.  FABRICAÇÃO  E  COMERCIALIZAÇÃO,  NO  ANO  DE  2015,  DE  DUAS  VERSÕES  DO  VEÍCULO  "IX  35"  ANO-MODELO  2015/2016.  PRIMEIRA  VERSÃO  NÃO  FOI  FABRICADA  NO  ANO  DE  2016.  CONSUMIDORES  LESADOS  EM  RAZÃO  DA  FALSA  PUBLICIDADE.  INDUÇÃO  A  ERRO.  PRINCÍPIOS  DA  BOA-FÉ  E  DA  ETICIDADE.  SUBTRAÇÃO  DAS  EXPECTATIVAS  LEGÍTIMAS  DOS  CONSUMIDORES.  OBRIGAÇÃO  DE  FAZER.  PUBLICAÇÃO  EM  DOIS  JORNAIS  DE  GRANDE  CIRCULAÇÃO  DA  PARTE  DISPOSITIVA  DO  ACÓRDÃO  EXARADO  PELO  TRIBUNAL  DE  ORIGEM.  INDENIZAÇÃO  PELOS  DANOS  MATERIAIS  DECORRENTES  DA  DESVALORIZAÇÃO  DO  VEÍCULO.  AFIRMAÇÃO.  DANO  MORAL  INDIVIDUAL  E  COLETIVO.  NÃO  CONFIGURAÇÃO.  OBRIGAÇÃO  DE  NÃO  FAZER.  ABSTENÇÃO  DE  OFERTA  DE  AUTOMÓVEIS  SOB  A  DENOMINAÇÃO  DE  MODELO  DO  PRÓXIMO  ANO  SEM  QUE  O  VEÍCULO  SEJA  FABRICADO  E  PRODUZIDO  NO  ANO  MENCIONADO.  MULTA  MONITATÓRIA  EM  CASO  DE  DESCUMPRIMENTO.  ACÓRDÃO  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  83  DO  STJ.  APLICAÇÃO.  PRETENSÃO  QUE  EXIGE  O  REVOLVIMENTO  DO  CONJUNTO  FÁTICO  E  PROBATÓRIO  DOS  AUTOS.  SÚMULA  7  DO  STJ.  INCIDÊNCIA.  AGRAVO  INTERNO  NÃO  PROVIDO.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  OU  ERRO  MATERIAL.  INEXISTÊNCIA.  EMBARGOS  REJEITADOS.
+1.  Inexistindo  omissão,  obscuridade,  contradição  ou  erro  material,  cumpre  registrar  que  os  embargos  de  declaração  não  se  não  são  via  adequada  para  a  insurreição  que  vise  a  reforma  do  julgamento.
+2.  Embargos  de  declaração  rejeitados"  (EDcl  no  AgInt  no  AREsp  1.588.  036/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  24/8/2020,  DJe  31/8/2020).
+
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
