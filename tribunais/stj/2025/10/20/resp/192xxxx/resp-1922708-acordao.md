@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito do consumidor. Recurso especial. Plano de saúde coletivo. Rescisão contratual. Migração para plano individual. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto por operadora de plano de saúde contra acórdão do Tribunal de Justiça de São Paulo que determinou a inclusão de beneficiárias em plano individual ou familiar, nas mesmas condições assistenciais do contrato coletivo rescindido, sem necessidade de cumprimento de carência.
+2. Fato relevante. A operadora de plano de saúde rescindiu unilateralmente o contrato coletivo empresarial, sem disponibilizar às beneficiárias a migração para plano individual ou familiar, conforme previsto na Resolução do Consu nº 19/1999.
+3. As decisões anteriores. O Juízo de primeiro grau condenou a operadora a manter o contrato nas mesmas condições anteriores, salvo o valor da mensalidade. O Tribunal de Justiça de São Paulo reformou parcialmente a sentença, reconhecendo a legitimidade passiva da operadora e determinando a inclusão das beneficiárias em plano individual ou familiar, observando a equivalência de preço e sem necessidade de cumprimento de carência.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a operadora de plano de saúde pode ser obrigada a oferecer plano individual ou familiar a beneficiárias de plano coletivo rescindido, mesmo não comercializando tais modalidades; e (ii) saber se a rescisão unilateral de contrato coletivo de plano de saúde, enquanto o segurado está em tratamento, configura prática abusiva e ilegal.
+III. Razões de decidir
+5. A operadora de plano de saúde não pode ser obrigada a oferecer plano individual ou familiar se não comercializa tais modalidades, conforme entendimento consolidado do STJ (arts. 1º e 3º da Resolução do Consu nº 19/1999).
+6. A análise sobre a comercialização de planos individuais ou familiares pela operadora envolve reexame de provas, o que é vedado pelas Súmulas 5 e 7 do STJ.
+7. A ausência de prequestionamento sobre a questão da comercialização de planos individuais ou familiares impede sua apreciação em recurso especial, conforme Súmula 211 do STJ.
+8. A rescisão unilateral de contrato coletivo de plano de saúde, enquanto o segurado está em tratamento, é considerada prática abusiva e ilegal, conforme jurisprudência do STJ.
+IV. Dispositivo
+9. Resultado do Julgamento: Recurso especial não conhecido.
+Dispositivos relevantes citados: Lei nº 9.656/1998, art. 13; Resolução do Consu nº 19/1999, arts. 1º e 3º; CPC/2015, art. 85, § 11.
+Jurisprudência relevante citada: STJ, REsp 1.884.465/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 08.11.2022; STJ, AgInt no REsp 1.917.843/DF, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 21.06.2021; STJ, AgInt no AREsp 1.406.027/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24.06.2019.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 732-735):
+"Ementa: Plano de saúde - Obrigação de fazer - Sentença de parcial procedência - Rescisão contratual de plano coletivo empresarial - Operadora que não disponibiliza ao beneficiário, a migração para plano individual ou familiar, nos termos da Resolução 19/99, do Consu - Operadora contratada que não possui a obrigação de manter as autoras no plano de saúde, ante a inexistência de vínculo contratual - Decisão reformada - Apelo da requerida provido e parcialmente provido o apelo das requerentes."
+Sem embargos de declaração.
+A parte recorrente alega que o acórdão recorrido violou o artigo 13, parágrafo único, II, da Lei n. 9.656/98 e os artigos 478 e 479 do Código Civil, ao não reconhecer a possibilidade de rescisão unilateral do contrato coletivo de plano de saúde, conforme entendimento do Superior Tribunal de Justiça (fls. 743-759). Ainda, o acórdão teria contrariado a Resolução do Consu n. 19, ao determinar a manutenção das autoras em plano individual, mesmo não comercializando esse tipo de plano (fls. 743-759).
+Apresentadas as contrarrazões (fls. 799-801), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 804-806), recebendo o REsp tão somente em relação à alínea "c" do artigo 105, inciso III, da CF.
+É, no essencial, o relatório.
+EMENTA
+Direito do consumidor. Recurso especial. Plano de saúde coletivo. Rescisão contratual. Migração para plano individual. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto por operadora de plano de saúde contra acórdão do Tribunal de Justiça de São Paulo que determinou a inclusão de beneficiárias em plano individual ou familiar, nas mesmas condições assistenciais do contrato coletivo rescindido, sem necessidade de cumprimento de carência.
+2. Fato relevante. A operadora de plano de saúde rescindiu unilateralmente o contrato coletivo empresarial, sem disponibilizar às beneficiárias a migração para plano individual ou familiar, conforme previsto na Resolução do Consu nº 19/1999.
+3. As decisões anteriores. O Juízo de primeiro grau condenou a operadora a manter o contrato nas mesmas condições anteriores, salvo o valor da mensalidade. O Tribunal de Justiça de São Paulo reformou parcialmente a sentença, reconhecendo a legitimidade passiva da operadora e determinando a inclusão das beneficiárias em plano individual ou familiar, observando a equivalência de preço e sem necessidade de cumprimento de carência.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a operadora de plano de saúde pode ser obrigada a oferecer plano individual ou familiar a beneficiárias de plano coletivo rescindido, mesmo não comercializando tais modalidades; e (ii) saber se a rescisão unilateral de contrato coletivo de plano de saúde, enquanto o segurado está em tratamento, configura prática abusiva e ilegal.
+III. Razões de decidir
+5. A operadora de plano de saúde não pode ser obrigada a oferecer plano individual ou familiar se não comercializa tais modalidades, conforme entendimento consolidado do STJ (arts. 1º e 3º da Resolução do Consu nº 19/1999).
+6. A análise sobre a comercialização de planos individuais ou familiares pela operadora envolve reexame de provas, o que é vedado pelas Súmulas 5 e 7 do STJ.
+7. A ausência de prequestionamento sobre a questão da comercialização de planos individuais ou familiares impede sua apreciação em recurso especial, conforme Súmula 211 do STJ.
+8. A rescisão unilateral de contrato coletivo de plano de saúde, enquanto o segurado está em tratamento, é considerada prática abusiva e ilegal, conforme jurisprudência do STJ.
+IV. Dispositivo
+9. Resultado do Julgamento: Recurso especial não conhecido.
+Dispositivos relevantes citados: Lei nº 9.656/1998, art. 13; Resolução do Consu nº 19/1999, arts. 1º e 3º; CPC/2015, art. 85, § 11.
+Jurisprudência relevante citada: STJ, REsp 1.884.465/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 08.11.2022; STJ, AgInt no REsp 1.917.843/DF, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 21.06.2021; STJ, AgInt no AREsp 1.406.027/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24.06.2019.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cinge-se a discussão a analisar se foi adequado o procedimento de rescisão do contrato pela NOTRE DAME, a qual encerrou o contrato coletivo, não disponibilizando às autoras a migração ou contratação na modalidade individual.
+Em primeiro grau, o Juízo entendeu que procedente a pretensão (fls. 644-646):
+ ..
+Com relação ao mérito do feito, é certo que a questão controvertida nos presentes autos se reporta à hipótese de manutenção das autoras junto ao plano de saúde que fazem menção na exordial. Do mesmo modo, pedem que seja retirada a carência e que prossiga o tratamento da requerente Anália junto ao Hospital Santa Cecília. Requerem, também, que seja declarado nulo o aumento das mensalidades dos planos das autoras ocorridos em novembro e dezembro de 2016.
+Pelo que depreende dos presentes autos, é certo dizer que a autora evidentemente é beneficiaria de plano empresarial coletivo em razão de sua relação de emprego com a terceira DIMAS (cerca de 25 anos). Desse modo, nos moldes do artigo 31 da lei 9.656/98, a manutenção do plano nos moldes anteriormente concedidos, mesmo após a aposentadoria da titular do plano, é medida legalmente permitida.
+Não se pode olvidar, outrossim, que houve o cancelamento do contrato por parte da contratante com a requerida, sendo que passou a ter relação jurídica com a AMEPLAN.
+Desse modo, a manutenção das autoras junto ao plano contratado é o que deve prevalecer, isso nos mesmos moldes anteriormente determinados.
+No mais, com exceção do valor do plano, repete-se, ao julgamento, o argumento já utilizado para a concessão da tutela nos seguintes termos:
+"..Os documentos juntados com a inicial demonstram que a autora é beneficiária de plano de saúde de sua ex-empregadora de forma vitalícia, possuindo dependente. Face a isso, arca integralmente com as despesas do plano. Houve mudança de plano pela empregadora, o que se admite perante a majoritária doutrina e jurisprudência, mas esse último, além de aumentar os valores de forma excessiva, impôs carências e não receberá a dependente, que efetua tratamento periódico.
+Não obstante seja possível a mudança do plano, ela deve ocorrer sem que se prejudique ao consumidor, notadamente quanto aos locais de prestação de serviços e continuidade sem exigência de carências. A questão do valor, embora controversa, também deve ser observada, sob pena de não se observar a proteção ao consumidor do plano de saúde. E, no caso, há demonstração de aumento de mensalidade em patamares, a uma primeira vista, abusivos.
+Diante disso, presente a probabilidade, defiro tutela para que a requerida Ameplan, nova contratada, receba ambas as autoras nas mesmas condições do contrato que possuíam junto à Notre Dame Intermédica, inclusive com cobertura de tratamento efetuado pela dependente junto ao hospital indicado na inicial (Hospital Santa Cecília)..".
+A única mudança que deve ser efetuada se reporta ao valor do plano, o qual, face a mudança de empresa gestora, deve ser o agora aplicado.
+Posto isso julgo procedente em parte a ação ajuizada pela autora contra a requerida. Condeno a requerida a manter o contrato entre as autoras e ela, nas mesmas condições anteriores de cobertura, salvo valor da mensalidade, devendo as autoras efetuarem o pagamento do valor total. Face a incidência do art. 31 da lei 9.656/98 ele se efetuará na forma vitalícia. Eventual descumprimento poderá ensejar multa e/ou substituição da vontade.
+Em grau de recurso, o Tribunal de Justiça de São Paulo manteve a condenação (fls. 728 - 735):
+ ..
+Nos termos § 1º, da Resolução do Consu, as operadoras de plano de saúde ou seguros de assistência à saúde, em caso de cancelamento do benefício, devem disponibilizar plano de saúde na modalidade individual ou familiar ao universo dos beneficiários.
+Assim, resta demonstrada sua legitimidade passiva, uma vez que deveria ter mantido as autoras em plano individual.
+ ..
+Verídica a afirmativa da requerida no sentido de que quando da efetivação do contrato a autora não contava da relação dos funcionários ativos, pois esta já havia sido demitida.
+A rescisão contratual de contrato coletivo de plano de saúde era plenamente possível, se respeitada a vigência mínima de duração contratual de 12 doze meses e prévia notificação da outra parte com antecedência mínima de 60 dias.
+ ..
+Porém, a operadora NotreDame não cumpriu o quanto disposto na Resolução do Consu nº 19/99, segundo a qual:
+"Art. 1º As operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse benefício a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse benefício, sem necessidade de cumprimento de novos prazos de carência".
+ ..
+Assim, a obrigação de proporcionar às autoras a possiblidade de optar por plano individual ou familiar era da requerida Intermédica/NotreDame, razão pela qual deve ser considerada como parte passiva legítima e proceder, imediatamente a inclusão das autoras em plano de saúde individual ou familiar, nas mesmas condições assistenciais do contrato rescindido, sem necessidade de cumprimento de qualquer tipo de carência, inclusive a parcial temporária, que poderia ser alegada pela operadora em razão da doença que acomete a requerente, devendo observar ainda a equivalência quanto ao preço das mensalidades.
+Destarte, dá-se parcial provimento ao recurso das autoras para, reconhecendo a legitimidade passiva da requerida NotreDame/Intermédica, condená- la a proceder a imediata inclusão das autoras em plano de saúde familiar ou individual, de forma vitalícia, com as mesmas condições de cobertura, sem necessidade de cumprimento de prazo de carência, devendo observar a similaridade quanto ao preço das mensalidades pagas anteriormente, dando-se, por conseguinte provimento ao recurso da corré Ameplan, revogando-se a tutela anteriormente concedida.
+No recurso, NOTRE DAME INTERMÉDICA SAÚDE S/A afirma que não houve o descumprimento da lei ou do contrato. Refere ainda que não comercializa planos de saúde individual desde 2005 e, portanto, não poderia disponibilizar planos às autoras.
+Não se desconhece a jurisprudência deste STJ assentando que "quando houver o cancelamento do plano privado coletivo de assistência à saúde, deve ser permitido que empregados ou ex-empregados migrem para planos individuais ou familiares, sem o cumprimento de carência, desde que a operadora comercialize tais modalidades de plano (arts. 1º a 3º da Res.-CONSU nº 19/1999)" (REsp n. 1.884.465/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/11/2022, DJe de 16/11/2022).
+Conclui-se, assim, que a operadora de plano de saúde não poderá ser obrigada a restabelecer plano de saúde coletivo que foi devidamente extinto, ao passo que também não poderá ser compelida a criar um produto único e exclusivo apenas para o autor (REsp n. 1.119.370/PE, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 17/12/2010; REsp n. 1.736.898/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 20/9/2019, e AgInt no REsp n. 1.902.349/SP, Rel. Ministro Moura Ribeiro, DJe de 18/3/2022).
+Ocorre que o requisito de a operadora não comercializar planos individuais ou familiares não foi objeto de debate nos autos. O tema não foi mencionado no recurso de apelação (fls. 658-665) e, portanto, não foi adequadamente prequestionado, o que inviabiliza sua apreciação em recurso especial.
+Desatendido, portanto, o requisito específico de admissibilidade do recurso especial referente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Nessa ótica, a Corte Especial do STJ firmou o entendimento no sentido de que "mesmo que se trate de questão de ordem pública, é imprescindível que a matéria tenha sido decidida no acórdão impugnado, para que se configure o prequestionamento". (AgInt nos EDcl no AREsp 746.371/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 09/03/2018).
+A ausência de prequestionamento é também óbice intransponível para o exame da questão mencionada, ainda que sob o pálio da divergência jurisprudencial.
+No mais, de acordo com a moldura fática definida pela Corte de origem, a recorrida está submetida a tratamento, como se vê do relatório às fls. 729-730:
+Recurso da requerida (fls. 658/665): pugna pela reforma do julgado, alegando que as autoras não eram mais beneficiárias da Intermédica desde 2015, não podendo realizar a portabilidade; que devem firmar novo contrato como pessoa física, não sendo permitido o aproveitamento de carências já cumprida e que o Hospital onde a autora faz o tratamento não pertence à rede credenciada, não sendo possível o reembolso, devendo a autora se responsabilizar pelas despesas no caso de utilizar o nosocômio.
+O cancelamento de plano de saúde coletivo enquanto o segurado está em tratamento é considerado uma prática abusiva e ilegal. Nesse sentido, cito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL DO CONTRATO COLETIVO DE PLANO DE SAÚDE. POSSIBILIDADE. PRECEDENTES. MANUTENÇÃO, PORÉM, DO PLANO DE SAÚDE PARA OS BENEFICIÁRIOS QUE ESTIVEREM INTERNADOS OU EM TRATAMENTO MÉDICO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Esta Corte possui a compreensão de que é possível a resilição unilateral do contrato coletivo de plano de saúde, imotivadamente após a vigência do período de 12 meses e mediante prévia notificação da outra parte, uma vez que a norma inserta no art. 13, II, b, parágrafo único, da Lei 9.656/98 aplica-se exclusivamente a contratos individuais ou familiares. Precedentes.
+2. Contudo, a jurisprudência também reconhece que, em se tratando de contrato coletivo de plano de saúde, mesmo não sendo aplicável o art. 13 da Lei 9.656/98, as cláusulas previamente estabelecidas não podem proteger práticas abusivas e ilegais, com o cancelamento promovido no momento em que o segurado necessita da cobertura. Incidência da Súmula 83/STJ.
+3. Na espécie, conforme se verifica dos autos, há ao menos dois beneficiários do referido plano de saúde em pleno tratamento médico.
+4. Agravo interno parcialmente provido" (AgInt no REsp 1.917.843/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2021, DJe 29/6/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATO COLETIVO. RESILIÇÃO UNILATERAL. SEGURADO EM TRATAMENTO. IMPOSSIBILIDADE. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que a resilição unilateral do acordo, em se tratando de contrato coletivo de plano de saúde, não é manto protetor às práticas abusivas e ilegais como o cancelamento pleiteado no momento em que o segurado está em pleno tratamento. Precedentes.
+3. Na hipótese, os magistrados da instância ordinária decidiram em perfeita consonância com a jurisprudência desta Corte, circunstância que atrai a incidência da Súmula nº 568/STJ. 4.
+Agravo interno não provido" (AgInt no AREsp 1.406.027/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/6/2019, DJe 1º/7/2019).
+De qualquer sorte, analisar se a recorrente comercializa, ou não, planos de saúde individuais envolve rever a prova dos autos, o que é vedado pelas Súmulas 5 e 7 do STJ. Registre-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. SEGURADO EM TRATAMENTO. MIGRAÇÃO. PLANO INDIVIDUAL. MODALIDADE. COMERCIALIZAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1. A operadora não pode ser obrigada a oferecer plano individual a usuário de plano coletivo extinto se ela não disponibiliza no mercado tal modalidade contratual (arts. 1º e 3º da Resolução-CONSU nº 19/1999). Inaplicabilidade, por analogia, da regra do art. 30 da Lei nº 9.656/1998.
+2. Na hipótese, rever a conclusão do julgado, no sentido de que a alegação da recorrente de que não comercializa plano individual não corresponde à verdade dos fatos, demandaria o reexame de material fático-probatório, providência inviável no recurso especial (Súmula nº 7/STJ).
+3. É firme a orientação do Superior Tribunal de Justiça no sentido de que a resilição unilateral do acordo, em se tratando de contrato coletivo de plano de saúde, não é manto protetor às práticas abusivas e ilegais como o cancelamento pleiteado no momento em que o segurado está em pleno tratamento. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.023.171/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos pela parte recorrente para 15% sobre o valor da causa.
+É como penso. É como voto.
