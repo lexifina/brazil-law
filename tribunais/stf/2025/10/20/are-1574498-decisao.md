@@ -1,0 +1,49 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de agravo (e-doc. n° 74) contra decisão que inadmitiu recurso extraordinário, fundado nas letras “a” e “c” do permissivo constitucional, interposto contra acórdão com a seguinte ementa (e-doc. n° 39):
+
+    AGRAVO DE INSTRUMENTO. CONTRIBUIÇÕES A TERCEIROS. SISTEMA S. LEGITIMIDADE PASSIVA DA UNIÃO. IMPOSSIBILIDADE DE ASSISTÊNCIA LITISCONSORCIAL. AGRAVO IMPROVIDO. I - O art. 149, caput, da Constituição Federal dispõe que "compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas". II - O art. 3º da Lei 11.457/2007, por sua vez, preceitua que cabe à Secretaria da Receita Federal do Brasil as atribuições de planejar, executar, acompanhar e avaliar as atividades relativas à tributação, fiscalização, arrecadação, cobrança e recolhimento das contribuições devidas a terceiros. III - Conforme se verifica dos dispositivos supra, cumpre à União Federal a instituição, arrecadação e repasse das contribuições das terceiras entidades, de modo que a relação jurídico-tributária se forma entre ela e o contribuinte, como sujeito ativo e passivo, respectivamente, do tributo. IV - As entidades não atuam na exigibilidade da exação. Elas apenas recebem posteriormente o resultado da arrecadação, repasse de ordem exclusivamente orçamentária. Se deixar de haver a contribuição, deixarão de receber. Precedente (STJ, REsp 1.172.796/DF). V - Nas ações em que se discute a inexigibilidade das contribuições às terceiras entidades sobre verbas indenizatórias, a legitimidade para figurar no polo passivo da demanda é somente da União, tendo as entidades às quais se destinam os recursos arrecadados mero interesse econômico, mas não jurídico. Assim, incabível a tese de tratar-se de litisconsórcio passivo necessário da União Federal (Fazenda Nacional) com as terceiras entidades beneficiadas. Precedentes (TRF3, 3ª Turma, AI 5003702-72.2022.4.03.0000; TRF3, 4ª Turma, AI 5019242-63.2022.4.03.0000; TRF3, Agravo Legal em AMS nº 2013.61.43.017196-8). VI - Da mesma forma, restou pacificado o entendimento nas Cortes Superiores no sentido de que o rito processual da ação mandamental não comporta intervenção de terceiros (STJ, AgInt na PET no MS 23.310/DF; STF; RExt-AgR-ED 1.046.278; DF). VII - Agravo de instrumento improvido.
+
+    Opostos Embargos de Declaração, foram rejeitados (e-doc n° 55).
+
+    No recurso extraordinário (e-doc n° 66), as partes recorrentes alegam violação dos artigos 6º, 7º, IV, 196, 203, III, 2015, 215, 217, 225, 240, 149, 150, 194, 195, I, ‘a’, e § 5º, 201, §11, 97 e 103-A, da Constituição Federal, também da Instrução Normativa 1.717/2017, além de negar vigência aos dispositivos da lei federal, no caso, dos artigos. 3º do Decreto-lei nº 9.403/46, artigo 49 do Decreto-lei 57375/65, artigos 4º e 6º do Decreto-lei nº 4.048/42 e artigo 50 do Decreto 494/62.
+
+    Defendem a legitimidade das recorrentes para intervirem no processo na qualidade de assistentes litisconsorciais da União Federal, ou, subsidiariamente, para intervirem no processo na qualidade de assistentes simples da União Federal.
+
+    Na decisão de admissibilidade, o Vice-Presidente do Tribunal de origem não admitiu o apelo por entender que não cabe alegar violação de norma infraconstitucional em Recurso Extraordinário e que eventual violação à Constituição Federal seria meramente reflexa. Assentou, ainda, com base na jurisprudência do STF, a inviabilidade da intervenção de terceiros no mandado de segurança (e-doc n° 72).
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Com efeito, a questão relativa à possibilidade ou não de intervenção de terceiros em mandado de segurança da competência de outras Cortes não possui status constitucional, pois pressupõe a análise da legislação processual pertinente.
+
+    Verifica-se, assim, que para ultrapassar o entendimento do Tribunal de origem acerca da impossibilidade de os recorrentes atuarem na qualidade de litisconsortes, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, providência vedada em sede de recurso extraordinário. Nesse sentido:
+
+    Direito processual civil. Agravo regimental no recurso extraordinário com agravo. Mandado de segurança. Intervenção de terceiros. Assistente. Ilegitimidade e ausência de interesse jurídico reconhecidas pelo tribunal de origem. Ausência de impugnação específica. Precedentes. Reexame de fatos e provas. Súmula 279/STF. Análise da legislação infraconstitucional. Impossibilidade. Agravo interno não provido. I. Caso em exame 1. Agravo interno interposto por entidades do terceiro setor contra decisão que negou seguimento a recurso extraordinário, o qual buscava reformar acórdão do Tribunal Regional Federal da 3ª Região. 2. O recurso extraordinário defendia a existência de interesse jurídico das recorrentes para ingressarem como assistentes simples da União em mandado de segurança impetrado, alegando violação a diversos dispositivos da Constituição Federal. 3. A decisão de inadmissibilidade do recurso extraordinário fundamentou-se na ausência de prequestionamento das matérias constitucionais, na necessidade de reexame de legislação infraconstitucional e de conjunto fático-probatório, na inviabilidade de intervenção de terceiros em mandado de segurança e na inaplicabilidade do art. 102, III, "c", da Constituição Federal. II. Questão em discussão 4. Há duas questões em discussão: (i) saber se o agravo interno apresentou argumentos aptos a impugnar especificamente todos os fundamentos da decisão agravada, especialmente quanto à impossibilidade de intervenção de terceiros em mandado de segurança; e (ii) saber se a revisão da conclusão do Tribunal de origem demandaria reexame de legislação infraconstitucional e de fatos e provas. III. Razões de decidir 5. O agravo interno não apresentou argumentos aptos a impugnar especificamente todos os fundamentos da decisão agravada, notadamente a impossibilidade de intervenção de terceiros em mandado de segurança, o que o torna inadmissível. 6. A revisão das premissas adotadas pelo Tribunal de origem, no sentido da inexistência de interesse jurídico dos recorrentes, demandaria o exame e a interpretação da legislação infraconstitucional aplicável, bem como o reexame de fatos e provas, atraindo a incidência da Súmula 279 do Supremo Tribunal Federal. 7. As razões do agravo interno não foram suficientes para afastar os fundamentos da decisão agravada. IV. Dispositivo e tese 8. Agravo interno não provido (ARE nº 1.538.723-AgR, Primeira Turma, Rel. Min. Flávio Dino, DJe de 29/8/25).
+
+    “Segundo agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Mandado de segurança. Intervenção de terceiros. Impossibilidade. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental. Sem majoração da verba honorária” (RE 1046278 AgR-segundo, Segunda Turma, Rel. Min. Gilmar Mendes, DJe 3/9/20).
+
+    Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Intervenção de terceiros. Assistência simples. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A matéria relativa à ausência dos pressupostos para o desenvolvimento válido da relação processual tem natureza infraconstitucional. A afronta ao texto constitucional, caso ocorresse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE nº 1.244.247-AgR, Tribunal Pleno, minha relatoria, DJe de 13/4/20).
+
+    Por fim, é inviável o conhecimento do recurso extraordinário interposto com base na alínea “c” do inc. III do art. 102 da Constituição quando o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Nesse sentido, anote-se:
+
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Deficiência da fundamentação do recurso extraordinário. Não demonstração da contrariedade à Constituição Federal. Incidência da Súmula 284. 4. O Tribunal de origem não julgou válida lei ou ato de governo local, contestado em face da Constituição Federal. Descabida a invocação do art. 102, III, “c”, da CF/88. 5. Agravo regimental a que se nega provimento” (AI nº 792.968/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/4/12).
+
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Deficiência da fundamentação do recurso extraordinário. Não demonstração da contrariedade à Constituição Federal. Incidência da Súmula 284. 4. O Tribunal de origem não julgou válida lei ou ato de governo local, contestado em face da Constituição Federal. Descabida a invocação do art. 102, III, “c”, da CF/88. 5. Agravo regimental a que se nega provimento” (AI nº 792.884/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/4/11).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Sem majoração dos honorários de sucumbência (Súmula 512/STF).
+
+    Publique-se.
+
+    Brasília, 20 de outubro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
