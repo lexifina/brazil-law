@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se houve o prequestionamento da matéria e se o especial esbarra no impedimento da Súmula n. 7 do STJ.
+III. Razões de decidir
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF .
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: 1. A falta de prequestionamento impede o conhecimento do recurso especial, conforme as Súmulas n. 282 e 356 do STF. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ. 3. A comprovação da divergência jurisprudencial para o conhecimento do recurso especial exige a indicação do dispositivo legal objeto de interpretação divergente e a demonstração do dissídio, mediante cotejo analítico entre os casos confrontados.
+RELATÓRIO
+Trata-se de agravo interno (fls. 297-303) interposto contra decisão da Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial (fls. 287-293).
+Em suas razões, a parte agravante alega que houve o prequestionamento da matéria e que a aplicação da Súmula n. 7 do STJ é equivocada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fl. 307).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial.
+II. Questão em discussão
+2. Consiste em saber se houve o prequestionamento da matéria e se o especial esbarra no impedimento da Súmula n. 7 do STJ.
+III. Razões de decidir
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF .
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: 1. A falta de prequestionamento impede o conhecimento do recurso especial, conforme as Súmulas n. 282 e 356 do STF. 2. O recurso especial não admite reexame de provas, conforme a Súmula n. 7 do STJ. 3. A comprovação da divergência jurisprudencial para o conhecimento do recurso especial exige a indicação do dispositivo legal objeto de interpretação divergente e a demonstração do dissídio, mediante cotejo analítico entre os casos confrontados.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 287-293):
+Cuida-se de Agravo apresentado por SALVADOR ADAIR BORGES PEREIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO REGRESSIVA DE RESSARCIMENTO. 1. RESPONSABILIDADE EXTRACONTRATUAL E SUBJETIVA. RECONHECENDO-SE O NEXO DE CAUSALIDADE ENTRE A AÇÃO OU OMISSÃO DE UM, BEM COMO O DANO EXPERIMENTADO POR OUTRO, EVIDENCIA-SE O DEVER DE INDENIZAR DAQUELE QUE CAUSOU O DANO, POR DOLO (COM INTENÇÃO DE PRATICAR ATO) OU CULPA (AGINDO COM IMPRUDÊNCIA: CONDUTA COMISSIVA. NEGLIGÊNCIA: CONDUTA OMISSIVA OU IMPERÍCIA: INOBSERVÂNCIA DE REGRA TÉCNICO-PROFISSIONAL). 2. NO CASO, ADMITIDA A EXISTÊNCIA DE DIFICULDADE DE VISUALIZAÇÃO DO FLUXO DE VEÍCULOS QUE TRAFEGAVAM NA RODOVIA - EM RAZÃO DO CURTO CAMPO DE VISÃO REFERIDO PELO RÉU - E CONSIDERANDO QUE O LOCAL EM QUE HAVIDO O ACIDENTE DE TRÂNSITO SUB JUDICE É PALCO DE INTENSA MOVIMENTAÇÃO DE VEÍCULOS DIUTURNAMENTE, INCUMBIA AO DEMANDADO A ADOÇÃO DE CAUTELA REDOBRADA NA EXECUÇÃO DA MANOBRA QUE PRETENDIDA REALIZAR, HIPÓTESE EM QUE DEVERIA TER AGUARDADO A REDUÇÃO CONSIDERÁVEL NO FLUXO DE TRÂNSITO PARA. SOMENTE APÓS, REALIZAR A TRANSPOSIÇÃO DA RODOVIA, EM ATENÇÃO AO QUE PRECEITUAM OS ARTIGOS 34, 38, PARÁGRAFO ÚNICO E 44, TODOS DO CTB. 3. CONSTATADA A IMPRUDÊNCIA DO RÉU AO TRANSPOR A PISTA DE ROLAMENTO DA RODOVIA ESTADUAL, SEM ATENTAR ÀS CAUTELAS NECESSÁRIAS PARA A REALIZAÇÃO DA MANOBRA, IMPENDE NEGAR PROVIMENTO AO RECURSO, MANTENDO A SENTENÇA QUE JULGOU PROCEDENTE A DEMANDA REGRESSIVA MANEJADA PELA SEGURADORA. 4. SUCUMBÊNCIA MAJORADA, NOS TERMOS DO ART. 85, § 11, DO CPC. RECURSO DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação do arts. 944 e 945 do CC, no que concerne à ocorrência de culpa concorrente, tendo em vista que se o condutor do veículo segurado estivesse dirigindo com atenção e em baixa velocidade não teria acontecido o acidente. Requer, ainda, o reconhecimento da desproporção entre a gravidade da culpa do réu e o dano, a fim de reduzir o valor fixado a título de indenização, trazendo a seguinte argumentação:
+Razão pela qual a demanda foi julgada totalmente procedente, determinando que o réu, ora recorrente, tivesse de arcar com os custos dos reparos do veículo segurado pela autora.
+No entanto, à míngua da prova produzida nos autos, constante do acórdão, inclusive, não é possível estabelecer um único culpado pelo acidente em questão.
+Isso porque o boletim de ocorrência, prova única, não é esclarecedor acerca da dinâmica do acidente, possuindo inúmeras divergências que permitem diversas conclusões.
+Com efeito, tal como já mencionado acima, é do autor o ônus da prova, sobretudo em ação indenizatória regressiva, em que se busca responsabilizar o réu pelo acidente ocorrido. Inteligência do art. 373, 1, CPC.
+ ..
+Com base nos relatos acima, tanto o juízo de primeira como de segunda instância consideraram, pelo fato de o réu ter mencionado não ter visto o veículo que trafegava pela RS030, que houve menção expressa de culpa.
+ ..
+Veja-se que a dinâmica do acidente é incontroversa, bem como o curto campo de visão.
+Logo, tal como demonstrado no vídeo anexado com a contestação, o qual levou a conclusão do acórdão acerca do curto campo de visão, evidentemente que o condutor do veículo encontrava-se em alta velocidade, tanto que atingiu tão somente o reboque tracionado.
+No entanto, uma vez que evidenciada a culpa do réu, fato que se discorda, porém não se discute mais nessa fase recursal (Súmula 7), deve também ser reconhecida a culpa do condutor do veículo, o qual evidentemente contribuiu para a colisão.
+Nesse sentido é que não foi observada a culpa concorrente suscitada pela parte desde a peça contestatória.
+ ..
+Ora, à míngua da prova produzida, não se pode chegar a uma conclusão inequívoca sobre o causador exclusivo do acidente, pois em nenhum momento, nos termos do art. 373, I, CPC, ficou clara a responsabilidade exclusiva do réu.
+Ao contrário, inúmeras dúvidas foram suscitadas.
+Além disso, o próprio condutor poderia ter sido arrolado como testemunha por parte da seguradora, o qual poderia dizer sobre a real dinâmica, não sendo esse um ônus do réu como constou do acórdão.
+Trata-se do reconhecimento da teoria das concausas, assim entendidas como todos os fatos relevantes que contribuem para a efetiva ocorrência do acidente, ou seja, fatos que, em maior ou menor medida, são responsáveis pela produção do evento danoso.
+Veja-se, no entanto, que o posicionamento do Egrégio Tribunal de Justiça limitou-se tão somente a reconhecer a existência de culpa do motorista da ré, decorrente de presunção relativa fixada pela jurisprudência no caso em concreto, imputando-lhe a integralidade da responsabilidade.
+Isso porque ainda que se pudesse considerar que a conduta do veículo do réu tenha sido negligente, é fato também que se o condutor do veículo segurado estivesse dirigindo com atenção e em baixa velocidade não haveria qualquer acidente.
+ ..
+Isto é, mesmo que o réu tivesse tomado TODOS OS CUIDADOS POSSÍVEIS, devido ao curto campo de visão, o acidente ocorreria com qualquer outro veículo que estivesse realizando o cruzamento se o automóvel segurado viesse em alta velocidade, ou seja, muito acima do limite da via.
+Portanto, o acórdão viola expressamente o art. 945, CC, deixando de reconhecer a concausa e a culpa concorrente do condutor do veículo segurado que se revelou determinante ao evento danoso, bem como, em ofensa à disposição literal da lei, deixou de fixar equitativamente a extensão da responsabilidade pelo ressarcimento do dano.
+Logo, requer-se a reforma do acórdão regional para o fim de reconhecer a culpa concorrente do condutor do veículo segurado, o que faz com que cada envolvido arque com suas responsabilidades ou para que, no mínimo, seja reconhecida a desproporção entre a gravidade da culpa do réu e o dano, reduzindo-se consideravelmente a responsabilidade no valor da indenização.
+ ..
+ ..  conferindo-se justiça ao caso em concreto para o fim de:
+a) Reconhecer a violação ao art. 945, CC, e, consequentemente a culpa concorrente, julgando improcedente a demanda e responsabilizando cada parte pelo pagamento de seus prejuízos.
+b) Alternativamente, reconhecer a desproporção entre a gravidade da culpa do réu e o dano, reduzindo-se consideravelmente a responsabilidade no valor da indenização, nos termos do art. 944, CC (fls. 249/257).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Pois bem. Muito embora, de fato, a manobra realizada pelo réu não seja proibida, consoante ressalta em suas razões recursais, é assente a preferência de tráfego atribuída aos veículos que trafegam por rodovias.
+Outrossim, também não há dúvida a respeito da cautela que deve ser adotada por todo e qualquer condutor que intencione realizar manobras de exceção, ainda mais na hipótese em que traciona outro veículo.
+No caso sub judice, é incontroverso o fato de que o condutor do veículo segurado trafegava na ERS 030, no sentido Osório - Freeway, ao passo em que o réu pretendia cruzar a rodovia, para acessar a Avenida Getúlio Vargas, localizada do outro lado da rodovia, em relação ao seu ponto de partida.
+À autoridade policial que esteve no local do evento danoso e atendeu à ocorrência, SALVADOR declarou que "trafegava pela Estrada da Perua e ao cruzar pela ERS 030 ace 9090 no km 01, para acessar a Av. Getulio Vargas, visualizou dois veículos na rodovia e calculando que daria tempo de cruzar, iniciou a manobra, sendo colhido no reboque pelo veículo Lexus que também vinha pela rodovia mas não foi visto pelo mesmo."(grifos meus) Em suas razões, o réu sustenta que o relato consignado no Boletim de Ocorrência lavrado pelo Comando Rodoviário da Brigada Militar permite uma série de conclusões distintas sobre a dinâmica do evento danoso, motivo pelo qual não pode ser considerado para o deslinde da controvérsia.
+Entretanto, nos termos da bem lançada sentença, entendo que os apontamentos realizados não ultrapassam o campo das ilações e conjecturas deduzidas pelo réu-apelante.
+Explico.
+O réu defende não ter havido colisão entre o seu veículo e os outros dois automóveis que havia avistado no momento anterior à colisão. Refere ter sido surpreendido com a presença do veículo segurado, fato que comprova que o automóvel LEXUS trafegava em excesso de velocidade. Ainda, sustenta que o seu campo de visão era curto, razão pela qual não haveria tempo de reação, caso algum veículo surgisse trafegando em excesso de velocidade.
+Todavia, o Boletim de Ocorrência colacionado aos autos não refere quais os veículos foram avistados por SALVADOR, em momento anterior ao evento. Tampouco há no acervo probatório, qualquer adminículo de prova, tendente a demonstrar a velocidade empregada pelo condutor do veículo segurado, naquela ocasião.
+Admitida a existência de dificuldade de visualização do fluxo de veículos que trafegavam na rodovia - em razão do curto campo de visão referido pelo réu - e considerando que o local em que havido o acidente de trânsito sub judice é palco de intensa movimentação de veículos diuturnamente, incumbia ao demandado a adoção de cautela redobrada na execução da manobra que pretendida realizar, hipótese em que deveria ter aguardado uma redução considerável no fluxo de trânsito para, somente após, realizar a transposição da rodovia, em atenção ao que preceituam os artigos 34, 38, parágrafo único e 44, todos do CTB:
+ ..
+Impende ressaltar que o veículo do réu tracionava um reboque no momento do evento danoso, fato que demanda maior cautela na execução das manobras, porquanto multiplicado o tempo de reação do veículo para a execução das manobras, bem como as suas dimensões.
+De mais a mais, o fato do condutor do veículo sinistrado não ter procurado o réu, para postular pelo pagamento da franquia do seguro contratado, em nada contribui para a aferição da responsabilidade pelo evento danoso.
+Ainda releva salientar que a existência de divergência no Boletim de Ocorrência, a respeito da localização da avaria produzida no reboque titulado pelo réu, não é capaz, por si só, de fragilizar o conteúdo do documento.
+Por fim, apenas para que não passe em branco, anoto que instadas as partes sobre as provas que pretendiam produzir, o réu pugnou pelo julgamento antecipado da lide (evento 21, PET1), abrindo mão, portanto, de produzir prova testemunhal, pericial ou documental apta a comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+A título exemplificativo, registro que o demandado poderia ter postulado pela produção de prova oral, arrolando como testemunha o condutor do veículo sinistrado. Contudo, não o fez.
+Nessa moldura probatória, no caso dos autos, entendo que o Boletim de Ocorrência lavrado pelo Comando Rodoviário da Brigada Militar, que deslocou-se até o local para atendimento do evento danoso, colhendo a versão apresentada pelos condutores envolvidos e declinando a versão dos fatos, de acordo com a sua percepção, se afigura prova apta a comprovar o direito vindicado pela parte autora, na esteira do que prevê o art 373, inciso I, do CPC.
+ ..
+De outro lado, tenho que o réu não se desincumbiu do seu ônus probatório, na medida em que apenas apresentou teses que vieram desamparadas de acervo probatório, não servindo para tanto o vídeo colacionado à contestação (evento 8, OUT6), porquanto apenas apto a reproduzir o trajeto realizado no momento da colisão, não sendo capaz de comprovar, contudo, o comportamento adotado pela parte demandada.
+ ..
+Destarte, reconhecendo-se o nexo de causalidade entre a ação ou omissão de um, bem como o dano experimentado por outro, evidencia-se o dever de indenizar daquele que causou o dano, por dolo (com intenção de praticar ato) ou culpa (agindo com imprudência: conduta comissiva, negligência: conduta omissiva ou imperícia:
+ ..
+No caso, constatada a imprudência do réu ao transpor a pista de rolamento da rodovia estadual, sem atentar às cautelas necessárias para a realização da manobra, impende negar provimento ao recurso, mantendo a sentença que julgou procedente a demanda regressiva manejada pela seguradora (fls. 232/235, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O acórdão vergastado não reconheceu caso fortuito ou força maior nem culpa concorrente da vítima, concluindo que o acidente ocorreu por imprudência do motorista da agravante. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ." (AgInt no REsp n. 2.064.885/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ainda, os seguintes precedentes: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Além disso, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: ;AgInt no AREsp n. 2.100.337/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+Conforme destacad o pela decisão agravada, não houve o pronunciamento do Tribunal a quo a respeito da culpa concorrente e da desproporção da indenização fixada sob o viés pretendido pela parte recorrente, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Inafastáveis as Súmulas n. 282 e 356 do STF.
+Ademais, o Tribunal de origem, com base nos elementos de prova dos autos, concluiu pela responsabilidade da parte recorrente pelo acidente, bem como que suas alegações não foram comprovadas.
+Alterar a conclusão do acórdão recorrido esbarra no impedimento da Súmula n. 7/STJ.
+Em relação à falta de comprovação da divergência jurisprudencial apontada, subsistem os fundamentos da decisão agravada, pois não impugnados neste recurso.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
