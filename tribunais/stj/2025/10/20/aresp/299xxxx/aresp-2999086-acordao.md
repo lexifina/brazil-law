@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. IMÓVEL RURAL. LEILÃO EXTRAJUDICIAL. AÇÃO DE IMISSÃO NA POSSE. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. REVERSÃO PELO TRIBUNAL ESTADUAL POR MEIO DE DECISÃO MONOCRÁTICA. INTERPOSIÇÃO DE RECURSO ESPECIAL. INADMISSÃO COM FUNDAMENTO NA SÚMULA Nº 281 DO STF, POR ANALOGIA. APRESENTAÇÃO DE AGRAVO INTERNO. NÃO CONHECIMENTO PELO TRIBUNAL ESTADUAL PELA INADEQUAÇÃO DA VIA ELEITA. PROTOCOLO DE NOVO RECURSO ESPECIAL INVOCANDO MATÉRIAS DE MÉRITO. RAZÕES RECURSAIS TOTALMENTE DESCONEXAS COM A MATÉRIA DOS AUTOS. INADMISSIBILIDADE. DEFICIÊNCIA DA FUNDAMENTAÇÃO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O primeiro recurso especial foi inadmitido com base na Súmula 281 do STF, sob o fundamento de ausência de exaurimento das instâncias ordinárias. Agravo interno interposto contra essa decisão foi não conhecido pelo Tribunal estadual, sob o argumento de que o recurso cabível seria o agravo previsto no art. 1.042 do CPC.
+2. Interposição de segundo recurso especial alegando omissão, cerceamento de defesa, invalidade do procedimento de leilão extrajudicial, arrematação por preço vil, abuso de direito e cobrança de dívida já quitada.
+3. Razões apresentadas que estão totalmente desconexas com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo, a incidência da Súmula 284 do STF.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CLEITON ALEX WICKERT, IVANE LUDWIG WICKERT e PEDROLINO JOSÉ WICKERT (CLEITON e OUTROS), contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina,assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. VIA RECURSAL ELEITA INCABÍVEL. NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão de inadmissão de recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+2. Discussão sobre a adequação da via recursal eleita e a aplicação do princípio da fungibilidade.
+III. RAZÕES DE DECIDIR
+3. Inadequação da via recursal eleita. Inaplicabilidade do princípio da fungibilidade ao caso.
+IV. DISPOSITIVO
+4. Agravo interno não conhecido. (fls. 261)
+Nas razões do agravo, CLEITON e OUTROS apontaram: (1) a inaplicabilidade das Súmulas 283 e 284 do STF, argumentando que as razões do recurso especial impugnaram adequadamente os fundamentos da decisão recorrida e que não houve dissociação entre as razões recursais e o conteúdo do acórdão recorrido; (2) a inaplicabilidade da Súmula 281 do STF, sustentando que o recurso especial não foi interposto contra decisão monocrática, mas sim contra acórdão colegiado que julgou o agravo interno; (3) a necessidade de aplicação do princípio da fungibilidade recursal, considerando a complexidade da matéria e a boa-fé processual dos agravantes.
+Foi apresentada contraminuta (fls. 369/372).
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, Wickert e outros apontaram: (1) violação ao art. 1.022, II, do CPC, em razão de omissão do acórdão recorrido quanto à análise de nulidades absolutas, vício de consentimento, preço vil e ausência de animus novandi, prejudicando o conhecimento do recurso especial; (2) violação aos arts. 6º, 369 e 370 do CPC, em razão de cerceamento de defesa pela negativa de produção de provas essenciais, como testemunhal, pericial e documental, violando o princípio da cooperação e ampla defesa; (3) violação ao art. 27, § 2º-A, da Lei n. 9.514/97, ao considerar válido o leilão extrajudicial sem intimação pessoal do devedor, contrariando a exigência legal expressa de comunicação formal da data, hora e local do leilão; (4) violação aos arts. 24, VI, e 27, § 4º, da Lei n. 9.514/97, ao sustentar que houve arrematação por preço vil sem revisão do valor da garantia, contrariando a exigência contratual e legal de avaliação atualizada e justa; (5) violação aos arts. 186, 187 e 927 do CC, e aos arts. 42 e 940 do CDC, em razão de cobrança de dívida já quitada e ausência de devolução de valores excedentes, configurando abuso de direito, ato ilícito e enriquecimento sem causa; (6) existência de dissídio jurisprudencial.
+Foram apresentadas contrarrazões (fls. 340/345).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. IMÓVEL RURAL. LEILÃO EXTRAJUDICIAL. AÇÃO DE IMISSÃO NA POSSE. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. REVERSÃO PELO TRIBUNAL ESTADUAL POR MEIO DE DECISÃO MONOCRÁTICA. INTERPOSIÇÃO DE RECURSO ESPECIAL. INADMISSÃO COM FUNDAMENTO NA SÚMULA Nº 281 DO STF, POR ANALOGIA. APRESENTAÇÃO DE AGRAVO INTERNO. NÃO CONHECIMENTO PELO TRIBUNAL ESTADUAL PELA INADEQUAÇÃO DA VIA ELEITA. PROTOCOLO DE NOVO RECURSO ESPECIAL INVOCANDO MATÉRIAS DE MÉRITO. RAZÕES RECURSAIS TOTALMENTE DESCONEXAS COM A MATÉRIA DOS AUTOS. INADMISSIBILIDADE. DEFICIÊNCIA DA FUNDAMENTAÇÃO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O primeiro recurso especial foi inadmitido com base na Súmula 281 do STF, sob o fundamento de ausência de exaurimento das instâncias ordinárias. Agravo interno interposto contra essa decisão foi não conhecido pelo Tribunal estadual, sob o argumento de que o recurso cabível seria o agravo previsto no art. 1.042 do CPC.
+2. Interposição de segundo recurso especial alegando omissão, cerceamento de defesa, invalidade do procedimento de leilão extrajudicial, arrematação por preço vil, abuso de direito e cobrança de dívida já quitada.
+3. Razões apresentadas que estão totalmente desconexas com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo, a incidência da Súmula 284 do STF.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Das alegações desconexas
+O caso cuida de uma ação de imissão de posse proposta por FÁBIO JOSÉ RECKZIEGEL, SÉRGIO LUIZ TRICHES e SIMONE BETTANIN TRICHES (FÁBIO e OUTROS) em face de CLEITON e OUTROS, alegando que, em 25 de novembro de 2020, arremataram, por meio de leilão extrajudicial, o imóvel rural descrito na matrícula n.º 10.371 do Ofício de Registro de Imóveis da Comarca de Pinhalzinho/SC, pelo valor de R$ 535.592,90. O imóvel, anteriormente pertencente aos réus, foi consolidado em favor da COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS ITAIPU - SICOOB CREDITAIPU, em razão do inadimplemento de cédula de crédito bancário.
+Após a arrematação, o imóvel foi registrado em nome FÁBIO e OUTROS, que notificaram os réus para desocupação. Contudo, os CLEITON e OUTROS se recusaram a deixar o imóvel, o que motivou o ajuizamento da presente ação.
+Em contestação, os CLEITON e OUTROS sustentaram a nulidade do procedimento de execução extrajudicial e da arrematação, alegando ausência de intimação pessoal acerca dos leilões e preço vil na arrematação. Informaram, ainda, que ajuizaram duas ações anulatórias (processos n.º 5002809-81.2020.8.24.0049 e n.º 5002959-62.2020.8.24.0049) para discutir a validade do procedimento de consolidação da propriedade e da arrematação.
+O juízo de origem, considerando a procedência das ações anulatórias, extinguiu a ação de imissão de posse sem resolução do mérito, com fundamento no art. 485, VI, do Código de Processo Civil.
+Contra essa decisão, os FÁBIO e OUTROS interpuseram recurso de apelação, alegando que a extinção foi precipitada, pois as sentenças das ações anulatórias ainda não transitaram em julgado.
+O ilustre Relator, por meio de decisão monocrática, deu provimento ao recurso, desconstituindo a sentença e determinando a suspensão do processo até o trânsito em julgado das ações anulatórias conexas (e-STJ, fls. 153/154).
+Em face desta decisão, CLEITON e OUTROS interpuseram recurso especial, que foi inadmitido com base na Súmula 281 do STF, sob o fundamento de ausência de exaurimento das instâncias ordinárias.
+Contra essa decisão, os réus interpuseram agravo interno, que foi não conhecido pelo Tribunal de Justiça de Santa Catarina, sob o argumento de que o recurso cabível seria o agravo previsto no art. 1.042 do CPC.
+CLEITON e OUTROS interpuseram novo recurso especial alegando basicamente a existência de omissão; cerceamento de defesa; invalidade do procedimento de leilão extrajudicial; arrematação do imóvel por preço vil; abuso de direito na cobrança de dívida já quitada.
+Diante deste cenário, fácil concluir que as razões apresentadas no recurso especial estão totalmente desconexas com a matéria dos autos, o que torna totalmente deficiente sua fundamentação, atraindo, também, a incidência da Súmula 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ora, deveria a parte impugnar o acórdão que afirmou expressamente que o recurso cabível contra decisão que inadmite recurso especial é o agravo previsto no art. 1.042 do CPC e não simplesmente revolver a matéria de mérito que sequer foi analisada pelas decisões prolatadas pelo Relator e pela Câmara de Recursos Delegados do Tribunal de Justiça do Estado de Santa Catarina (vide e-STJ, fls. 153/154, 245 e 259/261).
+Nesse sentido, a jurisprudência dessa Corte Superior é tranquila ao considerar deficiente a fundamentação que não guarda qualquer relação com as questões tratadas nos autos. Veja-se:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LEILÃO DE IMÓVEL. PREÇO VIL. RECURSO NÃO CONHECIDO.
+ ..
+5. A recorrente apresentou argumentos desconexos da decisão recorrida, incorrendo em vício insanável, atraindo a incidência da Súmula n. 284 do STF, que impede a análise do recurso pelo tribunal superior.
+ ..
+Tese de julgamento: "1. É deficiente o recurso especial quando suas razões estão dissociadas dos fundamentos do acórdão impugnado, o que atrai, por analogia, a incidência da Súmula n. 284 do STF. 2. A arrematação de imóvel em leilão por valor correspondente a 60% do valor de avaliação não configura preço vil. 2. A fixação de lance mínimo em 60% do valor da avaliação está em conformidade com os arts. 891 e 843 do CPC, que estabelecem que o preço mínimo não pode ser inferior a 50% do valor da avaliação".
+ ..
+(REsp n. 1.884.369/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 20/5/2025, DJEN de 23/5/2025.)
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO. PROMESSA DE COMPRA E VENDA IMOBILIÁRIA. LEI Nº 4.591/1964. CÓDIGO DE DEFESA DO CONSUMIDOR. FUNDAMENTOS LEGAIS DA LIDE. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. REGISTRO. INEXISTENTE. TEMA Nº 1.095/STJ. INAPLICÁVEL. ILEGITIMIDADE PASSIVA AD CAUSAM. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. ARTIGOS APONTADOS COMO VIOLADOS. PREQUESIONAMENTO. AUSÊNCIA. RESTITUIÇÃO PARCIAL DOS VALORES PAGOS. DESISTÊNCIA DO COMPRADOR. POSSIBILIDADE. LEILÃO EXTRAJUDICIAL. IRRELEVÂNCIA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. INVIÁVEL. DESPESAS COM SEGURO, RATEIO E REALIZAÇÃO DO LEILÃO. DISPOSITIVOS LEGAIS VIOLADOS OU INTERPRETADOS DE FORMA DIVERGENTE. INDICAÇÃO. AUSENTE. SÚMULA N 284/STF. CORREÇÃO MONETÁRIA. INCIDÊNCIA. A PARTIR DE CADA DESEMBOLSO.
+ ..
+2. Encontrando-se as razões recursais dissociadas dos fundamentos do julgado atacado, é de se aplicar, por analogia, o óbice previsto na Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+(REsp n. 2.179.100/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 19/5/2025, DJEN de 23/5/2025.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
+É o voto.
