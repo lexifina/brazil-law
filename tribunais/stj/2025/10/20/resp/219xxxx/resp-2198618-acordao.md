@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Direito civil e processual civil. Recurso especial. Cumprimento de sentença. Depósito judicial. Encargos moratórios. Tema 677/STJ.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em demanda relativa ao cumprimento de sentença proferida em ação civil pública, reconheceu como válido o depósito judicial realizado pelo devedor para garantia do juízo, entendendo que tal depósito extinguiria a obrigação do devedor e afastaria os encargos moratórios.
+2. O Tribunal de origem fundamentou sua decisão na ausência de trânsito em julgado do Tema 677/STJ, que trata da incidência de encargos moratórios em depósitos judiciais realizados em garantia do juízo.
+3. O recorrente alegou violação dos artigos 927, III, e 1.040 do CPC, bem como ao entendimento firmado no Tema 677/STJ, sustentando que o depósito judicial não extingue os encargos moratórios previstos no título executivo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o depósito judicial realizado pelo devedor para garantia do juízo extingue os encargos moratórios previstos no título executivo, conforme entendimento firmado no Tema 677/STJ.
+III. Razões de decidir
+5. O depósito judicial realizado em garantia do juízo não implica imediata entrega do dinheiro ao credor, tampouco enseja quitação da obrigação, razão pela qual não opera a cessação da mora do devedor.
+6. Os encargos moratórios previstos no título executivo continuam a incidir até que haja efetiva liberação dos valores depositados em favor do credor.
+7. O saldo da conta judicial, acrescido de correção monetária e juros remuneratórios pagos pela instituição financeira depositária, deve ser deduzido do montante final devido pelo devedor, evitando o enriquecimento sem causa do credor.
+8. O entendimento do Tribunal de origem está superado pelo Tema 677/STJ, que estabelece que o depósito judicial em garantia do juízo não isenta o devedor do pagamento dos consectários da mora.
+IV. Dispositivo
+Recurso provido para reformar o acórdão recorrido, reconhecendo que o depósito judicial em garantia do juízo não isenta o devedor do pagamento dos encargos moratórios previstos no título executivo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por MARISA APARECIDA ZUFFI e OUTROS, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa ao cumprimento de sentença proferida em ação civil pública proposta pelo Instituto de Defesa do Consumidor (IDEC) a qual reconheceu como devido o índice de 42,72%, alusivo à variação do IPC (Índice de Preços ao Consumidor) verificada no mês de janeiro de 1989, para os depósitos de poupança acerca dos expurgos inflacionários do Plano Verão.
+O julgado negou provimento ao recurso de agravo de instrumento do recorrente nos termos da seguinte ementa (fl. 561):
+AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA Depósito realizado pelo agravado nos autos principais, ainda que tenha sido para garantia do juízo, não lhe retira a característica de pagamento Depósito tempestivo Não incidência de verba honorária Inteligência jurisprudencial do STJ - Depósito judicial é hábil para extinguir a obrigação do devedor, o que afasta a possibilidade de acolhimento da irresignação do agravante - Tema 677, do STJ, que ainda não transitou materialmente em julgado - Impossibilidade de pleitear-se a aplicação contida neste comando, enquanto se apresentar condição de modificação. AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - Pedido de levantamento de valores - Pleito que deve ser, antes de tudo, dirigido ao juízo de primeiro grau para análise. AGRAVO DE INSTRUMENTO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - Levantamento de valores na execução por herdeiros do falecido poupador - Descabimento - Necessário, antes de tudo, a realização inventário - Inventário que é o juízo universal, e para onde deverá ser transferido o crédito em questão, realizando-se a necessária regularização dos herdeiros e partilha de bens. Agravo desprovido, com observação.
+Rejeitados os embargos de declaração opostos (fl. 593), nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO Pretensão de conferir efeito infringente ao julgado Ausência de omissão, contradição ou obscuridade Rejeição.
+No presente recurso especial, a parte recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 927, III, e 1.040 do Código de Processo Civil por violação do Tema 677 do Superior Tribunal de Justiça, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Apresentadas as contrarrazões (fls. 626-636), sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 637-639), o que ensejou a interposição de agravo (fls. 642-663).
+Este relator houve por bem dar provimento ao agravo para determinar a conversão dos autos em recurso especial (fls. 694-697).
+É, no essencial, o relatório.
+EMENTA
+Direito civil e processual civil. Recurso especial. Cumprimento de sentença. Depósito judicial. Encargos moratórios. Tema 677/STJ.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em demanda relativa ao cumprimento de sentença proferida em ação civil pública, reconheceu como válido o depósito judicial realizado pelo devedor para garantia do juízo, entendendo que tal depósito extinguiria a obrigação do devedor e afastaria os encargos moratórios.
+2. O Tribunal de origem fundamentou sua decisão na ausência de trânsito em julgado do Tema 677/STJ, que trata da incidência de encargos moratórios em depósitos judiciais realizados em garantia do juízo.
+3. O recorrente alegou violação dos artigos 927, III, e 1.040 do CPC, bem como ao entendimento firmado no Tema 677/STJ, sustentando que o depósito judicial não extingue os encargos moratórios previstos no título executivo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o depósito judicial realizado pelo devedor para garantia do juízo extingue os encargos moratórios previstos no título executivo, conforme entendimento firmado no Tema 677/STJ.
+III. Razões de decidir
+5. O depósito judicial realizado em garantia do juízo não implica imediata entrega do dinheiro ao credor, tampouco enseja quitação da obrigação, razão pela qual não opera a cessação da mora do devedor.
+6. Os encargos moratórios previstos no título executivo continuam a incidir até que haja efetiva liberação dos valores depositados em favor do credor.
+7. O saldo da conta judicial, acrescido de correção monetária e juros remuneratórios pagos pela instituição financeira depositária, deve ser deduzido do montante final devido pelo devedor, evitando o enriquecimento sem causa do credor.
+8. O entendimento do Tribunal de origem está superado pelo Tema 677/STJ, que estabelece que o depósito judicial em garantia do juízo não isenta o devedor do pagamento dos consectários da mora.
+IV. Dispositivo
+Recurso provido para reformar o acórdão recorrido, reconhecendo que o depósito judicial em garantia do juízo não isenta o devedor do pagamento dos encargos moratórios previstos no título executivo.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A controvérsia cinge-se em verificar se houve desrespeito pelo Tribunal de origem ao entendimento desta Corte no julgamento do Tema n. 677.
+No ponto, o Tribunal de origem entendeu que não seria possível a adoção do entendimento desta Corte, pois não havia ainda o trânsito em julgado do recurso especial submetido ao rito dos recursos repetitivos e entendeu que o depósito judicial seria hábil para extinguir a obrigação do devedor, servindo como pagamento.
+Em relação ao tema, muito embora o Tribunal de origem tenha decidido pela satisfação do crédito pelo depósito de valores em garantia do juízo, tal po sicionamento se encontra superado por esta Corte.
+Nesse sentido, o julgado sob o rito dos recursos repetitivos - Tema n. 677:
+Tese firmada: "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+Colaciono abaixo a ementa do julgamento desta Corte:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL. PROCEDIMENTO DE REVISÃO DO ENTENDIMENTO FIRMADO NO TEMA 677/STJ. CUMPRIMENTO DE SENTENÇA. PENHORA DE ATIVOS FINANCEIROS. DEPÓSITO JUDICIAL. ENCARGOS MORATÓRIOS PREVISTOS NO TÍTULO EXECUTIVO. INCIDÊNCIA ATÉ A EFETIVA DISPONIBILIZAÇÃO DA QUANTIA EM FAVOR DO CREDOR. BIS IN IDEM. INOCORRÊNCIA. NATUREZA E FINALIDADE DISTINTAS DOS JUROS REMUNERATÓRIOS E DOS JUROS MORATÓRIOS. NOVA REDAÇÃO DO ENUNCIADO DO TEMA 677/STJ.
+1. Cuida-se, na origem, de ação de indenização, em fase de cumprimento de sentença, no bojo do qual houve a penhora online de ativos financeiros pertencentes ao devedor, posteriormente transferidos a conta bancária vinculada ao juízo da execução.
+2. O propósito do recurso especial é dizer se o depósito judicial em garantia do Juízo libera o devedor do pagamento dos encargos moratórios previstos no título executivo, ante o dever da instituição financeira depositária de arcar com correção monetária e juros remuneratórios sobre a quantia depositada.
+3. Em questão de ordem, a Corte Especial do STJ acolheu proposta de instauração, nos presentes autos, de procedimento de revisão do entendimento firmado no Tema 677/STJ, haja vista a existência de divergência interna no âmbito do Tribunal quanto à interpretação e alcance da tese, assim redigida: "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada".
+4. Nos termos dos arts. 394 e 395 do Código Civil, considera-se em mora o devedor que não efetuar o pagamento na forma e tempos devidos, hipótese em que deverá responder pelos prejuízos a que sua mora der causa, mais juros e atualização dos valores monetários, além de honorários de advogado. A mora persiste até que seja purgada pelo devedor, mediante o efetivo oferecimento ao credor da prestação devida, acrescida dos respectivos consectários (art. 401, I, do CC/02).
+5. A purga da mora, na obrigação de pagar quantia certa, assim como ocorre no adimplemento voluntário desse tipo de prestação, não se consuma com a simples perda da posse do valor pelo devedor; é necessário, deveras, que ocorra a entrega da soma de valor ao credor, ou, ao menos, a entrada da quantia na sua esfera de disponibilidade.
+6. No plano processual, o Código de Processo Civil de 2015, ao dispor sobre o cumprimento forçado da obrigação, é expresso no sentido de que a satisfação do crédito se dá pela entrega do dinheiro ao credor, ressalvada a possibilidade de adjudicação dos bens penhorados, nos termos do art. 904, I, do CPC.
+7. Ainda, o CPC expressamente vincula a declaração de quitação da quantia paga ao momento do recebimento do mandado de levantamento pela parte exequente, ou, alternativamente, pela transferência eletrônica dos valores (art. 906).
+8. Dessa maneira, considerando que o depósito judicial em garantia do Juízo - seja efetuado por iniciativa do devedor, seja decorrente de penhora de ativos financeiros - não implica imediata entrega do dinheiro ao credor, tampouco enseja quitação, não se opera a cessação da mora do devedor. Consequentemente, contra ele continuarão a correr os encargos previstos no título executivo, até que haja efetiva liberação em favor do credor.
+9. No momento imediatamente anterior à expedição do mandado ou à transferência eletrônica, o saldo da conta bancária judicial em que depositados os valores, já acrescidos da correção monetária e dos juros remuneratórios a cargo da instituição financeira depositária, deve ser deduzido do montante devido pelo devedor, como forma de evitar o enriquecimento sem causa do credor.
+10. Não caracteriza bis in idem o pagamento cumulativo dos juros remuneratórios, por parte do Banco depositário, e dos juros moratórios, a cargo do devedor, haja vista que são diversas a natureza e finalidade dessas duas espécies de juros.
+11. O Tema 677/STJ passa a ter a seguinte redação: "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+12. Hipótese concreta dos autos em que o montante devido deve ser calculado com a incidência dos juros de mora previstos na sentença transitada em julgado, até o efetivo pagamento da credora, deduzido o saldo do depósito judicial e seus acréscimos pagos pelo Banco depositário.
+13. Recurso especial conhecido e provido.
+(REsp n. 1.820.963/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 19/10/2022, DJe de 16/12/2022.)
+No mesmo sentido, cito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. LITIGÂNCIA DE MÁ-FÉ. MULTA. IMPOSIÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. EXECUÇÃO. DEPÓSITO. FINALIDADE. GARANTIA DO JUÍZO. ENCARGOS DA MORA. ISENÇÃO. NÃO OCORRÊNCIA. TEMA Nº 677/STJ.
+1. No caso, rever a conclusão do acórdão recorrido de que não houve litigância de má-fé, encontra o óbice da Súmula nº 7/STJ.
+2. Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial (Tema nº 677/STJ).
+3. Na presente hipótese, como o depósito foi realizado apenas a título de garantia do juízo, o devedor não está isento da responsabilidade pelos encargos da mora previstos no título executivo, devendo responder pela diferença.
+4. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+(REsp n. 1.856.956/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/6/2025, DJEN de 23/6/2025.)
+Por fim, inexistindo qualquer modulação temporal que excepcione a aplicação da tese definida, e considerando que a orientação firmada no Tema n. 677 do STJ possui caráter vinculante e alcance imediato, impõe-se a sua observância no caso concreto.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. TEMA N. 677 DO STJ. MODULAÇÃO DOS EFEITOS. AFASTAMENTO. APLICAÇÃO IMEDIATA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que, após a revisão do Tema n. 677 do STJ, o depósito da garantia não isenta o executado dos consectários de mora.
+2. A ausência de modulação dos efeitos da decisão que revisou o Tema n. 677 do STJ implica a aplicação imediata da tese firmada, conforme o art. 927, inciso III, do CPC.
+3. Agravo conhecido para negar provimento ao recurso especial.
+(AREsp n. 2.801.701/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025.)
+Desta feita, assiste razão ao recorrente, uma vez que o depósito judicial a título de garantia do juízo não elide os encargos consectários da mora.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para reformar o acórdão recorrido a fim de reconhecer que o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial obteve provimento, o que faz incidir os preceitos do Tema n. 1.059/STJ: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+É como penso. É como voto.
