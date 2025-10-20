@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. INTUITO INFRINGENTE. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. EFEITOS INFRINGENTES. NÃO CABIMENTO.  RECURSO  PROTELATÓRIO.  ART. 1.026, § 2º, DO CPC. HIPÓTESES. NÃO CONFIGURAÇÃO. MULTA. NÃO CABIMENTO.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Constatada a presença de erro material no dispositivo do acórdão embargado, deve, no ponto, ser acolhida a irresignação, contudo, sem efeitos infringentes.
+3.  A aplicação da multa prevista no art. 1.026, § 2º, do CPC não é automática, pois não se trata de mera decorrência lógica da rejeição dos embargos de declaração.
+4. Embargos de declaração parcialmente acolhidos apenas para corrigir erro material, sem efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BETA COMERCIAL IMPORTADORA LTDA. ao acórdão da Terceira Turma que conheceu do seu agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa:
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE PASSIVA. NATUREZA. ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA. NÃO OCORRÊNCIA. ALTERAÇÃO. MODELO SOCIETÁRIO. PREJUÍZO. CREDORES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. HONORÁRIOS. IMPUGNAÇÃO. ACOLHIMENTO. CABIMENTO.
+1. A jurisprudência desta Corte Superior é no sentido de que, enquanto não decididas, as questões de ordem pública podem ser conhecidas, inclusive de ofício, em qualquer grau de jurisdição ordinária, pois não estão sujeitas à preclusão temporal, mas à coisa julgada e sua eficácia preclusiva. Precedentes.
+2. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+3. Segundo a jurisprudência deste Superior Tribunal de Justiça, o acolhimento da impugnação ao cumprimento de sentença, ainda que parcial, enseja a condenação ao pagamento de honorários advocatícios em favor do advogado da parte executada. Precedentes.
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento." (e-STJ fl. 497 ).
+Nas razões dos presentes aclaratórios, a embargante aponta haver omissão e erro material no acórdão.
+Sustenta que o art. 1.115 do Código Civil foi adequadamente prequestionado, haja vista que a matéria foi articulada na sua contraminuta ao agravo de instrumento e o Tribunal de origem desconsiderou que a a modificação posterior da forma societária da devedora implicou evidentes prejuízos aos anteriores direitos dos credores.
+Afirma que, mesmo que não tenha havido a menção expressa ao aludido dispositivo, está configurado o prequestionamento implícito, aceito pela jurisprudência desta Corte.
+Reitera a tese do seu apelo extremo de que o incidente de desconsideração é dispensável no caso, porquanto não se trata de responsabilização de sócio de pessoa jurídica, mas de cobrança dirigida ao próprio empresário individual que, em 2013, contraiu a dívida em seu nome e em benefício de sua atividade empresarial.
+Aduz que há erro material no acórdão, pois os honorários de sucumbência foram fixados na origem em 10% (dez por cento), e não em 11% (onze por cento) do valor da causa.
+Requer o acolhimento dos seus embargos com efeitos infringentes para o conhecimento e provimento do seu recurso especial.
+A impugnação foi apresentada (e-STJ fls. 529/534), na qual a parte embargada requer a imposição da multa do art. 1.026, § 2º, do Código de Processo Civil à parte embargante.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA. INTUITO INFRINGENTE. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. EFEITOS INFRINGENTES. NÃO CABIMENTO.  RECURSO  PROTELATÓRIO.  ART. 1.026, § 2º, DO CPC. HIPÓTESES. NÃO CONFIGURAÇÃO. MULTA. NÃO CABIMENTO.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Constatada a presença de erro material no dispositivo do acórdão embargado, deve, no ponto, ser acolhida a irresignação, contudo, sem efeitos infringentes.
+3.  A aplicação da multa prevista no art. 1.026, § 2º, do CPC não é automática, pois não se trata de mera decorrência lógica da rejeição dos embargos de declaração.
+4. Embargos de declaração parcialmente acolhidos apenas para corrigir erro material, sem efeitos modificativos.
+VOTO
+A inconformidade veiculada nos presentes aclaratórios prospera apenas na parte relativa ao erro material do acórdão, cuja correção não é, contudo, capaz de proporcionar efeitos infringentes à irresignação.
+Primeiramente, verifica-se o acórdão embargado não padece dos seguintes vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição ou omissão.
+De fato, a controvérsia relacionada à inviabilidade de conhecimento do recurso especial decorrente da ausência do indispensável prequestionamento dos arts. 1.115 do Código Civil e 485, VI, do Código de Processo Civil, em virtude da falta de efetivo debate pelas instâncias ordinárias acerca das normas versadas nos respectivos dispositivos e sobre as respectivas teses de que não se trata da responsabilização de sócio da pessoa jurídica, a exigir o correspondente incidente de desconsideração, mas de cobrar o próprio empresário individual que, com sua atuação, gerou a dívida, sobretudo porque a subsequente modificação do modelo organizacional da empresa - que passou a ser uma EIRELI - não pode prejudicar os credores, foi explícita e adequadamente fundamentada no acórdão recorrido, inexistindo vício que enseje a oposição dos embargos declaratórios e que mereça ser sanado.
+Eis, por oportuno, excerto do referido julgado:
+"(..)
+Por sua vez, quanto às normas versadas nos arts. 1.115 do Código Civil e 485, VI, do Código de Processo Civil e a correspondente tese de que não se trata da responsabilização de sócio da pessoa jurídica, a exigir o correspondente incidente de desconsideração, mas de cobrar o próprio empresário individual que, com sua atuação, gerou a dívida, sobretudo porque a subsequente modificação do modelo organizacional da empresa - que passou a ser uma EIRELI - não pode prejudicar os credores, observa-se que elas não foram objeto de debate pelas instâncias ordinárias, nem sequer de modo implícito, não tendo a recorrente nem ao menos oposto embargos de declaração visando obter daquele Tribunal o pronunciamento a respeito desses temas, o que inviabiliza o recurso especial diante da falta de prequestionamento, conforme o óbice das Súmulas nºs 282 e 356/STF." (e-STJ fl. 502).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade ou eliminar contradição, mas, sim, reformar o julgado por via inadequada.
+Entretanto, em relação aos honorários sucumbenciais, tem razão a parte embargante quanto ao erro material contido no acórdão embargado no que diz respeito ao percentual a que fora condenado na origem.
+Assim, à fl. 503, onde se lê que "Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor atualizado da causa  .. ", deve constar que "Na origem os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da execução  .. ".
+A correção do mencionado erro material não conduz, todavia, à alteração do julgado, mantendo-se a majoração dos honorários para o patamar de 15% (quinze por cento), determinada pelo colegiado desta Terceira Turma.
+No mais, a jurisprudência do Superior Tribunal de Justiça possui entendimento pacífico no sentido de ser cabível a multa prevista no art. 1.026, § 2º, do Código de Processo Civil quando presente o intuito manifestamente procrastinatório na oposição de declaratórios.
+Contudo, o não conhecimento ou a improcedência dos embargos de declaração não são suficientes para a condenação automática à referida penalidade, devendo ser analisado caso a caso a ocorrência de efetiva intenção protelatória, o que não se deu até o presente momento.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a correção dos cálculos apresentados pelo perito. Incidência da Súmula 7/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é firme em afastar a aplicação da penalidade de multa quando manejado o recurso previsto em lei, sendo a conduta de per si insuficiente para demonstrar o intento protelatório, sobretudo quando não há reiteração da oposição dos aclaratórios. Provimento do agravo interno no presente ponto.
+4. Agravo interno parcialmente provido, tão somente para afastar a multa aplicada à agravante com base no art. 1.026, § 2º, do CPC/2015."
+(AgInt no AREsp 2.221.249/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 2/5/2024)
+Ante o exposto, acolho em parte os embargos de declaração, apenas para correção do erro material indicado, sem alteração na conclusão do julgado.
+É o voto.
