@@ -1,0 +1,40 @@
+DECISÃO
+A controvérsia foi relatada pelo Parquet Federal em seu parecer, in verbis (e-STJ fls. 124/125):
+O recorrido foi condenado por crimes diversos, incluindo tráfico de drogas (art. 33 e art. 33, § 4º da Lei 11.343/06), porte ilegal de arma (art. 14 da Lei 10.826/03) e corrupção ativa (art. 333 do CP), totalizando uma pena de 12 anos e 02 meses de reclusão (em razão de dois processos de execução).
+Em 14 de dezembro de 2022, o sentenciado obteve o benefício do livramento condicional, concedido pelo Juízo da Execução Penal de Igarapé/MG. O benefício foi deferido sob diversas condições.
+Posteriormente, a Defesa postulou a progressão de regime. O Juízo da Execução Penal deferiu a progressão do regime fechado para o semiaberto, com data de início retroativa a 14/02/2023 (data prevista para a progressão).
+Irresignado, o Ministério Público interpôs agravo em execução, argumentando que o apenado, ao usufruir do livramento condicional, já estava na última etapa da pena e, portanto, não se encontrava mais no sistema progressivo, o que tornava a progressão indevida ou prejudicada.
+O TJMG negou provimento ao recurso ministerial, mantendo o entendimento de que a progressão de regime e o livramento condicional são institutos autônomos e independentes, e que a concessão de um não obsta a do outro, especialmente porque a progressão garantiria o cumprimento da pena em regime mais brando, caso o livramento condicional fosse revogado.
+O MP/MG interpôs o presente recurso especial, alegando a violação do artigo 112, caput, da Lei de Execução Penal. Sustenta que o acórdão recorrido contraria o entendimento do Superior Tribunal de Justiça, segundo o qual o pleito de progressão se torna prejudicado quando o sentenciado já está em livramento Condicional.
+Recurso admitido.
+Opinou, então, o órgão ministerial pelo provimento do recurso.
+É o relatório.
+Decido.
+O recorrente, nas razões recursais, afirma, em resumo, que (e-STJ fl. 98):
+Ora, se o apenado que se encontra em livramento condicional não está cumprindo pena no regime fechado, semiaberto ou aberto, certo é que o tempo de pena cumprido durante o "período de prova" não poderá ser usado para aferir o requisito objetivo da progressão de regime.
+Isso, porque o artigo 112, da Lei de Execução Penal, exige que o sentenciado tenha cumprido uma parcela da pena no regime anterior para que se perfaça o "sistema progressivo de cumprimento da pena".
+Não bastasse, de acordo com esse entendimento do Superior Tribunal de Justiça, a consequência do descumprimento do livramento condicional será, além da perda do período de prova, se cabível, a revogação do benefício como acima explicado e, consequentemente, o retorno ao cumprimento da pena no regime prisional anterior.
+Assim, não se pode admitir, nem sequer em abstrato, que, a um sentenciado que vinha cumprindo pena no regime fechado e é beneficiado com o livramento condicional nesta condição, por exemplo, sobrevenha a progressão ao regime semiaberto em razão do cumprimento de pena em período de prova, pois, com eventual revogação do livramento condicional, o retorno ao cumprimento da pena se daria no regime semiaberto, valendo-se do período de tempo cumprido em função de um benefício revogado diante do descumprimento de suas condições ou do cometimento de um novo crime.
+Acerca do tema recursal a Corte de origem manifestou-se nos seguintes termos (e-STJ fl. 79):
+"A priori", cumpre destacar que o livramento condicional e a progressão de regime são institutos autônomos, regulados por normas diversas, possuindo prazos independentes para obtenção. Nesse sentido, um não se confunde com o outro, sendo o livramento uma antecipação da liberdade, a qual o reeducando fica condicionado ao cumprimento de certas determinações que, se descumpridas, podem acarretar a sua revogação, o impedimento para nova concessão e a desconsideração do período de prova.
+Dessa maneira, em que pese a abrangência do livramento condicional, este, sendo instituto autônomo, não exclui o interesse do reeducando na obtenção da progressão de regime.
+Nesse mesmo viés, a título de exemplo, tem-se a situação de eventual caso de revogação do livramento condicional, hipótese na qual o reeducando se beneficiaria com a declaração anterior de sua progressão de regime.
+Desse modo, considerando que a progressão de regime e o livramento condicional são institutos independentes e autônomos e que o reeducando preenche os requisitos objetivos e subjetivos, verifica-se não haver óbice para a concessão dos benefícios.
+Verifico do exame dos excertos referenciados que a argumentação de que o tempo de pena cumprido durante o período de prova do livramento condicional não poderá ser usado para aferir o requisito objetivo da progressão de regime e os argumentos a eles relacionados, do modo como ora debatidos no apelo extremo, não foram tratados de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. DOSIMETRIA. CONFISSÃO E REINCIDÊNCIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. RESP N. 1341370/MT. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. AGRAVO NÃO PROVIDO.
+1. A tese acerca da incidência da atenuante da confissão e sua posterior compensação com a agravante da reincidência não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282 do STF.
+ ..
+3. Agravo regimental não provido. Ordem de habeas corpus concedida de ofício para determinar a compensação da agravante da reincidência com a atenuante da confissão, redimensionando a pena para 9 anos, 7 meses e 6 dias de reclusão e 19 dias-multa, mantidos os demais termos da condenação. (AgRg no REsp 1.778.141/RO, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/3/2019, DJe 25/3/2019.)
+PROCESSUAL PENAL. AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. ART. 16, CAPUT, DA LEI 10.826/03, ART. 288, PARÁGRAFO ÚNICO, DO CP, ART. 157, § 2, I, II E V, DO CP E ART. 155, § 4º, II E IV, DO CP. AGRAVO DE A. M. DA S. S. SUSTENTAÇÃO ORAL NO AGRAVO REGIMENTAL. IMPOSSIBILIDADE. INTEMPESTIVIDADE. DECISÃO MANTIDA. CONTINUIDADE DELITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUMENTO NA TERCEIRA ETAPA DA DOSIMETRIA PELO NÚMERO DE MAJORANTES DO CRIME DE ROUBO. ILEGALIDADE FLAGRANTE. SÚMULA 443/STJ. REDUZIDA AS PENAS. AGRAVO IMPROVIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+5. Carece o recurso especial de A. G. DE J e S. C. DA S. do indispensável requisito do prequestionamento quanto ao reconhecimento da continuidade delitiva. Incidência das Súmulas 282 e 356/STF.
+ ..
+7. Agravos regimentais improvidos e habeas corpus concedido, de ofício, para reduzir as penas dos agravantes relacionadas aos crimes de roubo, ante a inobservância da Súmula 443/STJ, mantido o regime fechado. (AgRg no REsp 1.668.610/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2017, DJe 17/3/2017.)
+Ante o exposto, não conheço do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
