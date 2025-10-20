@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA NÃO ARGUIDA NO AGRAVO INTERNO. PRECLUSÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Inexiste falar em omissão acerca de questões que não foram suscitadas no agravo interno. Nesse sentido: EDcl no AgInt no AREsp n. 1.001.004/DF, Relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 6/3/2025.
+3. "É inadmissível a inovação recursal, ante a preclusão consumativa de matéria não suscitada no agravo interno. Nesse sentido: EDcl no AgRg no REsp 1236938/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23.2.2012" (EDcl no AgInt no AREsp n. 882.323/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2016).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pela Associação dos Oficiais de Justiça Avaliadores Federais no Estado do Rio de Janeiro - Assojaf/RJ contra acórdão proferido pela Primeira Turma, assim ementado (fl. 423):
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO. GRATIFICAÇÃO DE ATIVIDADE JUDICIÁRIA (GAJ). NATUREZA JURÍDICA. EQUIPARAÇÃO AO VENCIMENTO. IMPUGNAÇÃO ESPECÍFICA AO ACÓRDÃO RECORRIDO. AUSÊNCIA. SÚMULA N. 283/STF.
+1. Trata-se, na origem, de ações coletivas ajuizadas pela Associação dos Oficiais de Justiça Avaliadores Federais no Estado do Rio De Janeiro (Assojaf/RJ) pleiteando declaração de que a vantagem Gratificação Judiciária (GAJ) possui natureza jurídica de vencimento e, via de consequência, a condenação da ré a pagar aos oficiais de justiça federais no Estado do Rio de Janeiro as respectivas diferenças remuneratórias daí advindas, acrescidas dos consectários legais.
+2. É condição para o conhecimento do recurso especial a impugnação, nas razões recursais, de todos os fundamentos autônomos e suficientes à manutenção do acórdão recorrido, nos termos da Súmula n. 283/STF.
+3. Hipótese em que, no recurso especial, não foi especificamente impugnado o alicerce segundo o qual a Lei n. 11.416/2016 expressamente diferenciou o vencimento básico da GAJ.
+4. Agravo interno desprovido.
+Sustenta a parte embargante a existência de omissão e contradição no julgado, "principalmente com relação a limitação da ação apenas para aqueles que assinaram a ata de assembleia que autorizou a propositura da ação, excluindo a listagem constante dos autos, bem como deixou de apreciar o tratamento a ser dado diante de situações modificativas acerca do elemento subjetivo da ação, o que colimaria no permissivo de vinda aos autos de novas listagens e de adesão ao processo por indivíduos que ao terem conhecimento desta ação, poderiam optar pelos seus efeitos, na esteira do que garante o art. 104 do CDC" (fls. 441/442).
+Nesse fio, alega que "deixou de ser apreciado que a respeito da verdadeira legitimação coletiva exercida, envolvendo os direitos coletivos strictu sensu, essa sim por substituição processual, e dentro do que dispõe remansosa conjugação dos dispositivos constantes do art. 81 e 82 do CDC" (fl. 442), sendo certo que tal apreciação "afastaria com mesmo sabre, qualquer discussão travada sobre legitimidade coletiva tirada em agravo de instrumento sob autos nº 5002274-53.2020.4.02.0000, o qual não tratou e não previu a existência e concorrência entre diversos sistemas de tutelas coletivas presentes em nosso ordenamento, a saber, aquele previsto no art. 5º, inciso XI da CF (por representação), o previsto no art. 5º, inciso XX, "b", da CF (por substituição), e aquele previsto no microssistema coletivo do Código de Defesa do Consumidor (por substituição)" (fls. 443/444).
+Afirma, ainda que houve omissão quanto ao fato novo de novas filiações, após a propositura, e da apreciação do pedido de opção do art. 104 do CDC e, ainda, em relação à distinção entre listagem nominal e lista de presença.
+A parte embargada apresentou impugnação às fls. 456/459.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA NÃO ARGUIDA NO AGRAVO INTERNO. PRECLUSÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Inexiste falar em omissão acerca de questões que não foram suscitadas no agravo interno. Nesse sentido: EDcl no AgInt no AREsp n. 1.001.004/DF, Relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 6/3/2025.
+3. "É inadmissível a inovação recursal, ante a preclusão consumativa de matéria não suscitada no agravo interno. Nesse sentido: EDcl no AgRg no REsp 1236938/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23.2.2012" (EDcl no AgInt no AREsp n. 882.323/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2016).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Acrescente-se que, consoante o "entendimento assente nesta Corte Superior,  ..  é inviável a análise de tese alegada apenas em embargos de declaração, por se caracterizar inovação recursal" (AgInt nos EDcl no REsp n. 2.125.778/GO, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/9/2024).
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, nas razões do agravo interno (fls. 395/409), a parte ora embargante nada arguiu no tocante às teses agora apontadas nos aclaratórios, limitando-se, apenas, a deduzir argumentos vinculados ao preenchimento dos pressupostos de admissibilidade do apelo especial no que tange à questão de mérito debatida na subjacente demanda, a saber, declaração de que a vantagem Gratificação Judiciária (GAJ) possui natureza jurídica de vencimento e, via de consequência, a necessidade de condenação da ré a pagar aos substituídos as respectivas diferenças remuneratórias daí advindas, acrescidas dos consectários legais.
+Destarte, diante da preclusão das matérias trazidas nos aclaratórios, inexiste falar em omissão. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. JUROS MORATÓRIOS E COMPENSATÓRIOS. OMISSÃO. INEXISTÊNCIA. TEMAS NÃO SUSCITADOS NO AGRAVO INTERNO. AVALIAÇÃO. ELABORAÇÃO DE NOVO LAUDO DETERMINADA NO ACÓRDÃO EMBARGADO. EMBARGOS PARCIALMENTE ACOLHIDOS, APENAS PARA ESCLARECIMENTOS.
+1. As matérias atinentes aos juros moratórios e compensatórios, inclusive percentuais e termos iniciais, não foram objeto do agravo interno, motivo pelo qual inexiste omissão no acórdão embargado por não ter sobre elas se manifestado.
+2. Em relação aos juros compensatórios, a matéria chegou a ser suscitada no recurso especial; porém, teve o seu conhecimento obstado pela Súmula n. 7 do STJ, na decisão que conhecera do agravo para não conhecer do recurso especial dos ora agravantes. Tal capítulo da decisão não foi objeto do agravo interno, o que acarreta a preclusão da matéria. Quanto aos juros moratórios, sequer foram objeto do recurso especial.
+3. No recurso especial não houve pedido no sentido de que fossem considerados alguns dos laudos avaliatórios existentes, mas de que fosse produzida nova avaliação. Portanto, o provimento do recurso especial, nesse capítulo, importou na determinação de que fosse realizado novo laudo pericial.
+4. Embargos de declaração parcialmente acolhidos, apenas para esclarecimentos.
+(EDcl no AgInt no AREsp n. 1.001.004/DF, Relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 6/3/2025, grifo nosso.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. ADICIONAL DE QUALIFICAÇÃO. LEI 11.907/2009. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PRETENSÃO DE REEXAME. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os aclaratórios não merecem prosperar, pois o acórdão embargado não padece de vícios, na medida que apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+2. É inadmissível a inovação recursal, ante a preclusão consumativa de matéria não suscitada no agravo interno. Nesse sentido: EDcl no AgRg no REsp 1236938/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23.2.2012.
+3. A análise das razões recursais revela a pretensão da parte em alterar o resultado do decisum, o que é inviável nesta seara recursal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 882.323/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2016, grifo nosso.)
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+É como voto.
