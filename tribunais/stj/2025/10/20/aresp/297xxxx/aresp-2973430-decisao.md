@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE SALVADOR contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado (fl. 746):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS PARA O CARGO DE PROFISSIONAL DE ATENDIMENTO INTEGRADO - ENFERMEIRO - ADMINISTRAÇÃO DIRETA - 20H. EXONERAÇÕES E DESCLASSIFICAÇÕES QUE ALCANÇAM A POSIÇÃO DA AUTORA. EXPECTATIVA DE DIREITO QUE SE CONVALIDA EM DIREITO SUBJETIVO À NOMEAÇÃO. ENTENDIMENTO DOS TRIBUNAIS SUPERIORES. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fl. 860):
+EMBARGOS DE DECLARAÇÃO EM SEDE DE APELAÇÃO CÍVEL. CONCURSO PÚBLICO. CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS PARA O CARGO DE PROFISSIONAL DE ATENDIMENTO INTEGRADO - ENFERMEIRO - ADMINISTRAÇÃO DIRETA - 20H. EXONERAÇÕES E DESCLASSIFICAÇÕES. INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. ACÓRDÃO MANTIDO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Em  seu  recurso  especial  de  fls.  789-794, a parte  recorrente sustenta  violação  dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC, sob o argumento de que o Tribunal de origem deixou de se manifestar sobre pontos relevantes ao deslinde da controvérsia.
+O Tribunal a quo não admitiu o recurso especial, tendo a parte recorrente apresentado agravo em recurso especial (fls. 902-905).
+É  o  relatório.
+A irresignação não merece prosperar.
+De início, saliento que a parte agravante rebateu os fundamentos de inadmissibilidade lançados pela Corte de origem, razão pela qual conheço do recurso.
+Passo à análise do mérito recursal.
+Em REsp (fls. 789-794), a parte  recorrente afirma que o Tribunal de origem se equivocou ao afirmar que não houve fixação da tese no Tema 683 do STF, quando o RE 766.304/RS já foi julgado com a fixação expressa da tese. Além disso, afirma que a Corte local deixou de enfrentar o argumento de que a maior parte das desclassificações e exonerações ocorreu após o prazo de validade do concurso, bem como de que vários candidatos desclassificados reverteram suas situações e retornaram aos cargos. Por fim, salienta que não houve análise do impacto das novas convocações já realizadas para reposição de candidatos desclassificados.
+Pois bem. Pela simples leitura das razões recursais, logo se percebe que a pretensão da parte recorrente é, em verdade, de rediscussão do mérito da causa em sede de embargos de declaração, o que é vedado.
+Ademais, cumpre-me pontutar que, ao analisar as decisões proferidas na origem, percebe-se que não há violação dos artigos de lei indicados pela parte insurgente, pois o Tribunal local dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada. Na hipótese dos autos, o Sodalício estadual, ao julgar os aclaratórios, manifestou-se nos seguintes termos (fls. 860-886):
+(..)
+Destarte, analisando detidamente os autos, não se verifica a ocorrência de omissão no acórdão objurgado, tendo em vista que foi devidamente elucidado que, a despeito de o Supremo Tribunal Federal ter afetado o RE 766306 para ser julgado sob a sistemática da repercussão geral, ainda não houve a fixação da tese no Tema 683 do STF, vejamos trecho do julgado:
+"(..) Outrossim, cumpre registrar que, a despeito de o Supremo Tribunal Federal ter afetado o RE 766306 para ser julgado sob a sistemática da repercussão geral, ainda não houve a fixação da tese no Tema 683 do STF.
+(..)
+Acrescento que o Tribunal local, quando da análise do recurso de apelação, assim se pronunciou (fls. 768-780):
+Analisando detidamente os autos, verifica-se que a autora/apelada participou do concurso realizado pelo Município de Salvador, Edital SEPLAG nº 01/2011, para o cargo de Profissional de Atendimento Integrado - Enfermeiro (20h), com previsão de 128 (cento e vinte e oito) vagas, sendo 122 (cento e vinte e duas) da lista da ampla concorrência e 06 (seis) para deficientes, tendo sido classificada na posição 146ª, consoante documentação acostada ao ID 51475801.
+É cediço que os candidatos classificados fora do número de vagas ofertadas pelo edital (cadastro de reserva), têm mera expectativa de direito à nomeação, não se podendo, a princípio, compelir a Administração Pública a realizar tais convocações, competindo a esta, dentro do seu poder discricionário, nomear os candidatos aprovados de acordo com a sua conveniência e oportunidade.
+Nesse sentido, confira-se o RE nº 837311/PI, julgado pelo Plenário do STF, sob a sistemática da repercussão geral:
+(..)
+Entretanto, no caso em análise, em que pese a aprovação da recorrida na 146ª colocação no aludido concurso público, que ofertava apenas 122 (cento e vinte e duas) vagas em ampla concorrência, constata-se que houve 24 (vinte e quatro) desclassificações, 03 (três) exonerações e 01 (uma) nomeação tornada sem efeito, todas em colocações precedentes, consoante provas documentais IDs 51475805, 51475806, 51475807, 51475808, 51475809, 51475810, 51475811, 51475812, 51475814, 51475815, 51475816 e 51477818.
+Com efeito, malgrado a candidata tenha figurado no cadastro de reserva, em decorrência das desclassificações e exonerações, no total de 28 (vinte e oito), nota-se que a mesma passou a constar entre o quantitativo de vagas previsto no edital.
+Nessa linha intelectiva, são os precedentes do Supremo Tribunal Federal:
+(..)
+Nota-se que, na hipótese, a Corte de origem emitiu pronunciamento claro e fundamentado sobre a controvérsia que lhe foi apresentada. Sendo assim, diante dos fundamentos suso colacionados, não se pode afirmar que há vícios de fundamentação no aresto que, embora em desconformidade com os interesses da parte recorrente, desata a questão jurídica posta em juízo, circunstância que não revela nenhuma irregularidade no julgamento a quo.
+Ante o exposto, com fundamento nos arts. 932, IV, do CPC, c/c 253, parágrafo único, II, do Regimento Interno desta Corte, conheço do agravo para negar provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagante s que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. MERO INCONFORMISMO COM O JULGADO PROFERIDO NA ORIGEM. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
