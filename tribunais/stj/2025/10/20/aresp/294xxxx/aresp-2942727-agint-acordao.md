@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 7 do STJ).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DHL GLOBAL FORWARDING BRAZIL LOGISTICS LTDA. (DHL) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da falta de impugnação à incidência da Súmula n. 7 do STJ.
+Nas razões do presente inconformismo, DHL reiterou seu agravo e defendeu que (1) os fundamentos utilizados para negar provimento ao Agravo em Recurso Especial não se sustentam diante das peculiaridades do caso concreto e da correta aplicação do direito; (2) a Súmula 7 restou, inequivocadamente, impugnada no item 3.4 do Recurso Especial, oportunidade em que as Agravantes ressaltaram a ausência de pretensão de reexame do conjunto fático- probatório; e (3) impugnaram efetivamente a aplicação da Súmula 7 ao apresentarem as violações aos artigos 754, 756, 186 e 927 do Código Civil, bem como o artigo 485, inciso VI do Código de Processo Civil. Essa impugnação é verificável no tópico 3.2 do Agravo em Recurso Especial interposto pelas Agravantes que, expressamente, indicaram que a matéria debatida no recurso baseia exclusivamente em questão de direito (e-STJ, fls. 706/714).
+Foi apresentada impugnação (e-STJ, fls. 719/730).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 7 do STJ).
+2. Agravo interno não provido.
+VOTO
+O inconformismo não merece ser provido.
+No caso, em que pese o reforço de argumentação apresentado nas razões do agravo interno, da análise do agravo em recurso especial se verifica que, conforme já consignado na decisão impugnada, o inconformismo não se dirigiu, de forma específica, contra todos os fundamentos da decisão agravada, pois DHL não infirmou seus esteios, na medida em que não refutou, de forma arrazoada, o óbice pela incidência da Súmula n. 7 do STJ ao caso.
+Em resumo, nas razões de seu agravo em recurso especial, DHL limitou-se a afirmar que (i) não há necessidade de se analisar o conjunto fático-probatório dos autos para verificar a violação perpetrada ao artigo 1.022, inciso II, do Código de Processo Civil; aos artigos 754, parágrafo único, e 86, caput, do Código Civil; ao artigo 485, inciso VI, do Código de Processo Civil; e aos artigos 186 e 927 do Código Civil; (ii) não se postula que esta E. Corte aprecie essa ou aquela prova, mas apenas o exame da aplicação da norma, eis que a pretensão recursal se baseia exclusivamente em questão de direito, sendo desnecessário o reexame do contexto fático-probatório delineado pelas instâncias ordinárias; (iii) as premissas que devem ser consideradas para a análise do Recurso Especial interposto decorrem das próprias decisões recorridas, onde é possível constatar a colisão frontal com a regra dos artigos invocados pela Agravante; e (iv) basta a análise do acórdão proferido pelo Tribunal a quo em face da legislação tida por violada para se constar a correção das alegações da Agravante, não havendo qualquer necessidade de análise de provas produzidas nos autos (e-STJ, fls. 657/672), sem, no entanto, evidenciar, de forma adequada, a inadequação da fundamentação adotada (incidência da Súmula n. 7 do STJ).
+Na espécie, como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que também não foi feito.
+No caso, o acórdão recorrido consignou expressamente que
+ ..  Narra a autora, em síntese, a ocorrência de contratação de transporte marítimo de componentes eletrônicos e de seguro contratado pela proprietária da carga, com saída do Porto de Novo Hamburgo e destino ao Porto de Hong Kong, China.
+Conta que ocorreram avarias em todos os paletes embarcados, com perda parcial da carga, prejuízo equivalente a R$ 37.771,79, atualizado até 31/05/2023, indenizado pela autora à segurada, sub-rogação operada, razão da pretensão em regresso ora deduzida.
+Inicialmente, analisar-se-á, de proêmio, as questões preliminares de mérito.
+Não há o que se falar em ilegitimidade passiva da recorrente para figurar como ré na presente ação, eis que as empresas pertencem ao mesmo grupo econômico, respondendo, em tese, solidariamente pelo inadimplemento verificado.
+Outrossim, não prospera a alegação de decadência do direito, porquanto, como bem colacionado pelo Magistrado:
+"(..) rejeito a prejudicial suscitada, decadência, restrita a aplicação do artigo 754, parágrafo único, do Código Civil, às partes contratantes do transporte, jamais à seguradora subrogada, sem prova da constatação imediata da avaria pela segurada, suposto termo a quo da contagem do respectivo prazo.
+Assim:
+"Ação regressiva pretensão da autora ao ressarcimento do valor pago à sua segurada em decorrência de avarias em sistema de microscopia a laser comprado na Alemanha durante o transporte para o Brasil prescrição não caracterizada porque a ação foi ajuizada dentro do prazo trienal do art. 206, § 3º, V, do CC/02 decadência não caracterizada pois o prazo do art. 754, parágrafo único, do CC/02 se refere à ação do destinatário contra o transportador relação jurídica regida pelo Código Civil Brasileiro - dever de reparação integral dos danos inaplicabilidade da Convenção de Montreal e do Código Brasileiro de Aeronáutica demanda procedente - improvido recurso da requerida provimento ao da autora." (TJ-SP - 16ª Câmara de Direito Privado; Apelação 1003761-23.2017.8.26.0003; Relator(a): Jovino de Sylos; Data do Julgamento: 07/08/2018).""
+No mérito, o recurso não comporta provimento.
+Isto porque, a documentação carreada aos autos comprova, de maneira inequívoca, a celebração do contrato de transporte de carga, consistente em componentes eletrônicos, acondicionados em contêiner de número TCLU8606029, declarado no conhecimento de embarque (Bill of Landing), confessado o transporte pela requerida e verificados os danos à mercadoria transportada, conforme informado pelas corrés (fls. 03) e demais documentos.
+Dessa maneira, não há o que se falar em ausência de responsabilidade civil da recorrente, eis que integra a cadeia de fornecedores responsáveis pela entrega da mercadoria em boas condições de uso e manuseio.
+ ..
+Dessa maneira, a manutenção da r. sentença pelos seus próprios e jurídicos fundamentos é medida que se impõe.
+Em atenção ao artigo 85, parágrafo 11, do Código de Processo Civil, majoram-se os honorários advocatícios para 11% (onze por cento) sobre o valor da condenação.
+Ante o exposto, nega-se provimento ao recurso (e-STJ, fls. 41/45 - sem destaques no original).
+Desse modo, tendo DHL partido de premissas que desafiam aquelas assentadas pelo acórdão recorrido, especialmente no que se refere a legitimidade passiva e a existência do dever de reparação, não se vislumbra, das razões recursais apresentadas, nenhuma questão federal a ser dirimida nesta Corte Superior.
+Em resumo, nas razões do agravo em recurso especial, DHL se limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do CPC.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 - sem destaque no original)
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente a barreira anteriormente mencionada, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Com efeito, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, devendo ser mantida a decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. RAZÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. MULTA. LITIGÂNCIA. MÁ-FÉ. HONORÁRIOS. MAJORAÇÃO. INCABÍVEL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do Código de Processo Civil).
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.903.271/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025 - sem destaque no original)
+CIVIL. EMPRESARIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ADIMPLEMENTO DO DEVEDOR. ENFOQUE DO TRIBUNAL SOBRE OCORRÊNCIA DE SUPRESSIO E EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. SÚMULAS N. 5 E 7 DO STJ E 284 DO STF. IMPUGNAÇÃO ESPECÍFICA. INOCORRÊNCIA. INADMISSÃO. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial, fundamentada na ausência de impugnação específica aos óbices apontados na decisão de admissibilidade, nos termos do art. 932, III, do CPC e da Súmula 182 do STJ, em razão da incidência das Súmulas n. 5 e 7 do STJ e 284 do STF.
+2. O objetivo recursal é (i) verificar se houve impugnação específica aos fundamentos da decisão de inadmissão; (ii) se é possível afastar a aplicação das Súmulas n. 5 e 7 do STJ, alegando que o recurso especial não demanda reexame de provas, mas revaloração jurídica; (iii) contestar a aplicação da Súmula n. 284 do STF, sustentando que os fundamentos do recurso especial são claros e inteligíveis.
+3. A revaloração jurídica é cabível apenas quando os fatos incontroversos, tal como delineados pelas instâncias ordinárias, permitem uma interpretação diversa sem a necessidade de reexaminar o material probatório vedado pela Súmula n. 7 do STJ.
+4. No caso, a argumentação dos agravantes não especifica quais fatos são incontroversos, limitando-se a afirmar violação dos dispositivos legais sem demonstrar, de forma clara e específica, como a revaloração das provas se aplicaria ao caso concreto.
+5. A fundamentação recursal é considerada deficiente, a teor da Súmula n. 284 do STF, quando alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+6. O recurso de agravo em recurso especial que apenas replica os argumentos do apelo nobre não viabiliza adequado enfrentamento da decisão de inadmissibilidade pela ausência de dialeticidade.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.745.096/MS, minha relatoria, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025 - sem destaques no original)
+Nesse contexto, porque DHL não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do CPC.
