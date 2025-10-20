@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. INVERSÃO DO ÔNUS DA PROVA. VIOLAÇÃO AOS ARTS. 373, §2º, E 1.022, I E II, CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Maternidade Santa Úrsula de Vitória Ltda. contra decisão que inadmitiu recurso especial manejado contra acórdão do TJES, o qual manteve decisão de primeiro grau que determinou a inversão do ônus da prova em ação indenizatória por danos materiais e morais ajuizada por Jaqueline dos Santos Amorim.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível o conhecimento do recurso especial, à vista da alegada violação aos arts. 373, §2º, e 1.022, I e II, do CPC, diante da ausência de manifestação do Tribunal de origem sobre tais dispositivos.
+III. RAZÕES DE DECIDIR
+3. O recurso especial exige, como requisito constitucional de admissibilidade, o prequestionamento da matéria federal, o qual pressupõe que o Tribunal de origem tenha analisado a tese jurídica vinculada aos dispositivos indicados, ainda que implicitamente.
+4. A ausência de oposição de embargos de declaração pela parte recorrente afasta a possibilidade de suprimento da omissão quanto à análise dos arts. 373, §2º, e 1.022 do CPC.
+5. A jurisprudência do STJ admite o prequestionamento implícito, mas exige a efetiva discussão da matéria no acórdão recorrido, o que não ocorreu no caso.
+6. Ausente o prequestionamento, incide o óbice das Súmulas 282 e 356 do STF, aplicáveis por analogia ao recurso especial.
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial por Maternidade Santa Ursula de Vitoria Ltda. interposto contra decisão do Tribunal de origem que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. INVERSÃO DO ÔNUS DA PROVA. VIOLAÇÃO AOS ARTS. 373, §2º, E 1.022, I E II, CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Maternidade Santa Úrsula de Vitória Ltda. contra decisão que inadmitiu recurso especial manejado contra acórdão do TJES, o qual manteve decisão de primeiro grau que determinou a inversão do ônus da prova em ação indenizatória por danos materiais e morais ajuizada por Jaqueline dos Santos Amorim.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é cabível o conhecimento do recurso especial, à vista da alegada violação aos arts. 373, §2º, e 1.022, I e II, do CPC, diante da ausência de manifestação do Tribunal de origem sobre tais dispositivos.
+III. RAZÕES DE DECIDIR
+3. O recurso especial exige, como requisito constitucional de admissibilidade, o prequestionamento da matéria federal, o qual pressupõe que o Tribunal de origem tenha analisado a tese jurídica vinculada aos dispositivos indicados, ainda que implicitamente.
+4. A ausência de oposição de embargos de declaração pela parte recorrente afasta a possibilidade de suprimento da omissão quanto à análise dos arts. 373, §2º, e 1.022 do CPC.
+5. A jurisprudência do STJ admite o prequestionamento implícito, mas exige a efetiva discussão da matéria no acórdão recorrido, o que não ocorreu no caso.
+6. Ausente o prequestionamento, incide o óbice das Súmulas 282 e 356 do STF, aplicáveis por analogia ao recurso especial.
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 1048-1051):
+MATERNIDADE SANTA URSULA DE VITORIA LTDA interpôs RECURSO ESPECIAL (id. 4676656), com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, em face do ACÓRDÃO (id. 4353840), proferido pela Egrégia Segunda Câmara Cível que, à unanimidade, negou provimento ao RECURSO DE AGRAVO DE INSTRUMENTO mantendo a DECISÃO proferida pelo JUÍZO DA 2ª VARA CÍVEL, FAMÍLIA, ÓRFÃOS E SUCESSÕES DE ARACRUZ/ES nos autos da AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS proposta por JAQUELINE DOS SANTOS AMORIM em face da Recorrente, cujo decisum, dentre outras questões, determinou a inversão do ônus da prova, com fulcro no artigo 6º, inciso VIII, do Código de Defesa do Consumidor.
+O referido Acórdão está assim ementado, in verbis:
+EMENTA: PROCESSUAL CONSTITUCIONAL, PROCESSUAL CIVIL E DO CONSUMIDOR. AGRAVO DE INSTRUMENTO. PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. CONCISÃO E BREVIDADE DO PRONUNCIAMENTO. PRELIMINAR REJEITADA. MÉRITO. VEROSSIMILHANÇA QUANTO À HIPOSSUFICIÊNCIA DA CONSUMIDORA LITIGANTE. MANUTENÇÃO DA INVERSÃO DO ÔNUS DA PROVA. RECURSO CONHECIDO E DESPROVIDO.
+I. Preliminar de Nulidade da Decisão por Ausência de Fundamentação.
+I.I. Na esteira da tão repetida compreensão da jurisprudência pátria, certo é que concisão e brevidade não se traduzem em eventual transgressão do dever de fundamentação, de modo que a sucinta exposição dos fundamentos atende ao precípuo escopo da garantia constitucional de obrigatória motivação das decisões judiciais.
+I.II. Preliminar rejeitada.
+II. Mérito
+II.I. Nos lindes do artigo 6º, inciso VIII, do Código de Defesa do Consumidor, a critério de juiz, segundo a verossimilhança das alegações ou baseado na hipossuficiência das partes, poderá ser determinada a inversão do ônus da prova, facilitando, assim, a defesa dos direitos consumeristas pleiteados.
+II.II. "A responsabilidade das sociedades empresárias hospitalares por dano causado ao paciente-consumidor pode ser assim sintetizada: (i) as obrigações assumidas diretamente pelo complexo hospitalar limitam-se ao fornecimento de recursos materiais e humanos auxiliares adequados à prestação dos serviços médicos e à supervisão do paciente, hipótese em que a responsabilidade objetiva da instituição (por ato próprio) exsurge somente em decorrência de defeito no serviço prestado (art. 14, caput, do CDC); (ii) os atos técnicos praticados pelos médicos sem vínculo de emprego ou subordinação com o hospital são imputados ao profissional pessoalmente, eximindo-se a entidade hospitalar de qualquer responsabilidade (art. 14, § 4, do CDC), se não concorreu para a ocorrência do dano; (iii) quanto aos atos técnicos praticados de forma defeituosa pelos profissionais da saúde vinculados de alguma forma ao hospital, respondem solidariamente a instituição hospitalar e o profissional responsável, apurada a sua culpa profissional. Nesse caso, o hospital é responsabilizado indiretamente por ato de terceiro, cuja culpa deve ser comprovada pela vítima de modo a fazer emergir o dever de indenizar da instituição, de natureza absoluta (arts. 932 e 933 do CC), sendo cabível ao juiz, demonstrada a hipossuficiência do paciente, determinar a inversão do ônus da prova (art. 6º, VIII, do CDC)". (REsp 1145728/MG, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2011, DJe 8/9/2011)." (STJ; AgInt nos EDcl no AREsp n. 1.895.660/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022).
+II.III. Na hipótese, basta uma análise dos argumentos sedimentados na petição inicial para verificar a plausibilidade e verossimilhança do pedido de inversão do ônus probatório, na medida em que apontados erros nos procedimentos médicos a que foi submetida, assim como falha na prestação do serviço hospitalar, sobretudo no período pós-operatório, quando surgiram as complicações decorrentes da cirurgia, inclusive com o surgimento de quadro infeccioso por bactéria.
+II.IV. Resulta demonstrada a hipossuficiência da Recorrida, sobretudo no que tange à dificuldade de produção de provas técnicas, tendo sido, inclusive, postulada a realização de prova pericial, circunstância que demandaria sacrifício desproporcional por parte da Recorrida, no tocante ao exercício do ônus probatório, notadamente, observada a relação de consumo sub examine.
+III. Recurso desprovido.
+(TJES, AGRAVO DE INSTRUMENTO nº 5000684-69.2022.8.08.0000, SEGUNDA CÂMARA CÍVEL, Relator(a): Des. Namyr Carlos de Souza Filho, julgado em 14/02/2023)
+Irresignada, a Recorrente aduz, em suma, violação aos artigos 373, §2º, e 1.022, incisos I e II, do Código de Processo Civil, sob o argumento de que não houve manifestação sobre a tese de que "a inversão do ônus da prova não pode ocorrer quando o encargo probatório em desfavor do litigante resultar na necessidade de produção de prova diabólica."
+Intimada para apresentar Contrarrazões recursais, a Recorrida não se manifestou (id. 6504840).
+Na espécie, verifica-se que dispositivos legais apontados pela Recorrente não foram objeto de análise pelo Órgão Fracionário, sequer tendo sido opostos Embargos de Declaração pela ora Recorrente, o que impede a admissão do excepcional, por ausência de prequestionamento, a teor das Súmulas 282 e 356, do Excelso Supremo Tribunal Federal, aplicadas por analogia.
+Note-se, por oportuno e relevante que, consoante o entendimento do Egrégio Superior Tribunal de Justiça, "O prequestionamento admitido por esta Corte se caracteriza quando o Tribunal de origem emite juízo de valor sobre determinada questão, englobando aspectos presentes na tese que embasam o pleito apresentado no recurso especial. Assim, uma tese não refutada pelo Tribunal de origem não pode ser conhecida no âmbito do recurso especial por ausência de prequestionamento." (STJ, AgRg no REsp n. 1.940.937/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+Com efeito, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (STJ, AgInt no AREsp 1596432/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2021, DJe 17/06/2021).
+Destarte, uma vez ausente o prequestionamento dos dispositivos ditos vulnerados, ressai incabível a análise da irresignação.
+Isto posto, com arrimo no art. 1.030, inciso V, do Código de Processo Civil, inadmito o recurso. Intimem-se.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+A análise do teor do acórdão recorrido indica que os dispositivos tidos por violados, artigos 373, §2º, e 1.022, incisos I e II, do Código de Processo Civil, não foram debatidos pela Corte de origem.
+Além disso, a parte agravante sequer apresentou embargos de declaração a fim de prequestionar a matéria.
+É certo que, por força constitucional (art. 105, III, da CRFB/88), ao Superior Tribunal de Justiça somente é dado o julgamento em recurso especial "das causas decididas, em única ou última instância", uma vez que, presente a finalidade revisional da insurgência recursal, não se mostra viável o pronunciamento originário a respeito de matérias ainda não discutidas na origem.
+Destarte, "a falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, a teor da Súmula nº 282/STF." (AgInt no AREsp n. 2.582.153/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+(..)
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmulas 282 e 356/STF).
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.228.031/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ENTERPRISE. PEDIDO DE RESTITUIÇÃO. BEM QUE AINDA INTERESSA AO PROCESSO. POSSIBILIDADE DE PERDIMENTO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA 7, STJ. TESE DE VIOLAÇÃO AO ART. 49-A, CC. FATOS CRIMINOSOS ATRIBUÍDOS AO ADMINISTRADOR DA EMPRESA. POSSIBILIDADE DE CONSTRIÇÃO DE BENS DE PESSOA JURÍDICA SUPOSTAMENTE UTILIZADA NA LAVAGEM DE CAPITAIS. PRECEDENTES. VIOLAÇÃO AO ART. 156, CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282, STF.
+I - É inviável o reexame de fatos e provas para afastar as conclusões do Tribunal a quo de que há fortes indícios de que foram utilizados recursos decorrentes de atividades criminosas para adquirir o veículo sobre o qual versa o pedido de restituição.
+Incidência da Súmula n. 7, STJ.
+II - Segundo a jurisprudência desta Corte, é possível determinar a constrição de bens de pessoas jurídicas quando houver indícios de que elas tenham sido utilizadas para a prática delitiva ou para ocultar ativos decorrentes de atividades ilícitas. Precedentes.
+III - Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno do dispositivo legal tido como violado, a fim de que se possa, na instância especial, abrir discussão sobre a correta aplicação da lei federal.
+IV - No caso sob exame, não se verificou, a partir da leitura dos acórdãos recorridos, discussão efetiva acerca do ônus da prova e do art. 156 do Código de Processo Penal, de modo que deve ser mantido o óbice da Súmula n. 282, STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 2333928 / PR, RELATOR Ministro MESSOD AZULAY NETO, QUINTA TURMA, DATA DO JULGAMENTO 04/06/2024, DATA DA PUBLICAÇÃO/FONTE DJe 07/06/2024)
+Dessa forma, "para que se tenha por satisfeito o requisito do prequestionamento, "há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1.487.935/SP, 4ª Turma, DJe 04/02/2020)." (AgInt no REsp n. 1.815.548/AM, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020.)
+É certo que: "Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local (..)" (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Entretanto, para que se considere ocorrido o prequestionamento implícito, há de se ter presente, no caso concreto, a discussão da temática fático-jurídica que se pretende ver revisada nesta Corte, não se podendo cogitar de pronunciamento inaugural a respeito do enfoque pretendido pela parte recorrente em sede especial.
+No presente feito, a parte recorrente não logrou comprovar que o acórdão recorrido tratou dos dispositivos legais tidos por violados ou da tese jurídica ora trazida a esta Corte, de mod o que "Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF." (AgInt no AREsp n. 1.701.763/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 13/12/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
