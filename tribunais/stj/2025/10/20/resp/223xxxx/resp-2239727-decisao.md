@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por VILMA LUCINI PETRIKOWSKI e ALDO PETRIKOWSKI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 61):
+"AGRAVO DE INSTRUMENTO. AÇÃO DE NULIDADE CONTRATUAL C/C PEDIDO DE DEVOLUÇÃO DE QUANTIA PAGA. TUTELA CAUTELAR DE ARRESTO. PROBABILIDADE DO DIREITO E RISCO DE DANO QUE MILITAM EM FAVOR DA AGRAVADA. COMERCIALIZAÇÃO DE IMÓVEL INAPTO PARA A CONSTRUÇÃO DO EMPREENDIMENTO IMOBILIÁRIO A QUE SE DESTINAVA. CONTRATO DE COMPRA E VENDA APARENTEMENTE CONEXO COM O CONTRATO DE ADMINISTRAÇÃO DE EMPREENDIMENTO IMOBILIÁRIO FIRMADO COM A CORRÉ. REQUISITOS DO ART. 300, CPC PREENCHIDOS. NECESSIDADE DE MANUTENÇÃO DA ORDEM DE ARRESTO PARA GARANTIA DE EVENTUAL DIREITO DA PARTE. LIBERAÇÃO, NO ENTANTO, DOS VALORES BLOQUEADOS VIA SISBAJUD PORQUE INFERIORES A 40 SALÁRIOS-MÍNIMOS. DECISÃO MANTIDA. RECURSO PARCIALMENTE PROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 90/96).
+No recurso especial, a parte agravante alega que o acórdão contrariou as disposições contidas nos artigos 7º do Decreto Lei 116/1967; 361 do Código Civil; 783 e 1.029, §5º, III, do CPC, sustentando: i) que o Tribunal de origem "adotou um excesso de arresto, sem justificar de forma adequada a necessidade de constrições adicionais aos bens dos agravantes, que já possuíam bens suficientes para garantir a dívida em questão." mantendo "a determinação do arresto não apenas do imóvel dos agravantes, mas também de outros bens, sem considerar que o imóvel penhorado possui valor substancialmente superior ao montante da dívida que se busca assegurar." (fl. 108); ii) que "a penhora deve incidir sobre os bens suficientes para cobrir a dívida principal, acrescida de juros, custas e honorários, o que não foi respeitado no presente caso, resultando no arresto de bens em excesso." (fl. 108).
+Requer seja reformada a decisão agravada, em razão da ausência de elementos probatórios que justifiquem a adoção de medidas tão gravosas aos agravantes, pugnando pelo "reconhecimento do excesso de arresto e a revisão da decisão que impôs a constrição de bens dos agravantes de forma indevida, sem a devida comprovação da dívida, e que violou o princípio da menor onerosidade e os direitos dos agravantes de dispor livremente de seus bens." (fl. 110).
+Foram oferecidas contrarrazões ao recurso especial (fls. 115/119).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 127/129), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo (fls. 140/141).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e diante das circunstâncias que envolvem a lide, inclusive o valor elevado da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar a sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
