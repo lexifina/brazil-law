@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL E JUIZADO ESPECIAL CRIMINAL DE NOVO GAMA - GO, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE SANTA MARIA - DF, suscitado.
+O Juízo de Direito da 2ª Vara Criminal de Santa Maria - DF declinou de sua competência para processar e julgar crime de receptação sob o fundamento de que o art. 70 do Código de Processo Penal prevê a competência do juízo do local onde se consumar a infração - compra de bicicleta interceptada (fls. 77-78).
+O Juízo de Direito da 1ª Vara Criminal e Juizado Especial Criminal de Novo Gama - GO, por sua vez, suscitou o conflito por entender que, tratando-se de delito permanente cometido em mais de uma jurisdição, aplica-se o artigo 71 do Código de Processo Penal a fim de firmar a competência pela prevenção (fls. 95-96).
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da 1ª Vara Criminal e Juizado Especial Criminal de Novo Gama - GO (fls. 105-106).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre Juízos vinculados a Tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição da República.
+Consta dos autos que, em 16 de maio de 2025, em Santa Maria/DF, durante diligência policial voltada à apuração de fato distinto do relatado neste processo, o investigado foi abordado enquanto conduzia uma bicicleta marca Caloi.
+Após consulta, verificou-se tratar-se de produto de roubo. Indagado, o interessado afirmou haver adquirido a bicicleta na denominada "feira do rolo", situada em Novo Gama/GO, pelo valor de R$ 200,00 (duzentos reais). Diante da situação, foi lavrado auto de prisão em flagrante.
+Consoante entendimento consolidado desta Corte, o crime de receptação na modalidade "conduzir" é um crime permanente, cuja consumação se protrai no tempo. Logo, nos termos do art. 71 do Código de Processo Penal, praticada a conduta em territórios de duas ou mais jurisdições, aplica-se a regra da prevenção para estabelecer a competência. Nesse sentido:
+"Conforme jurisprudência consolidada do STJ, o crime de receptação na modalidade conduzir é um crime permanente. Precedentes." (CC n. 178.020/BA, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 22/9/2021, DJe de 27/9/2021.)
+"CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. INQUÉRITO POLICIAL. RECEPTAÇÃO DE VEÍCULO FURTADO/ROUBADO. MODALIDADE CONDUZIR. CRIME PERMANENTE. COMPETÊNCIA DETERMINADA PELA PREVENÇÃO.
+1. "A prática do delito de receptação na modalidade conduzir, caso dos autos, é forma permanente do ilícito, o que atrai a aplicação do disposto nos arts. 71 e 83, ambos do Código de Processo Penal, segundo os quais, tratando-se de infração permanente, a competência se dará pela prevenção, devendo julgar o processo o Juízo que tiver antecedido aos outros na prática de algum ato do processo ou de medida a este relativa, ainda que anterior ao oferecimento da denúncia ou da queixa."(CC 131.150/MG, Rel. Ministro ERICSON MARANHO (Desembargador convocado do TJ/SP), Terceira Seção, julgado em 25/03/2015, DJe 07/04/2015)
+2. Situação em que o veículo fora furtado/roubado em São Paulo, teria sido ali vendido ao investigado, mas veio a ser encontrado, posteriormente, em patrulha policial na cidade de Goiânia/GO, de posse do indiciado que o conduzia.
+3. Como o Juízo suscitado foi o primeiro que praticou atos no feito, pois apreciou o auto de prisão em flagrante do investigado, é de se reconhecer a sua competência para a condução do inquérito policial e julgamento de eventual ação penal daí decorrente.
+4. Conflito conhecido, para declarar competente para a condução do inquérito policial o Juízo de Direito da 7ª Vara criminal de Goiânia/GO, o suscitado. (CC n. 147.548/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/8/2016, DJe de 16/8/2016)
+Na espécie, observo que o indiciado foi preso em flagrante na Comarca de Santa Maria/DF quando conduzia a bicicleta produto do crime.
+O Juízo de Direito da 2ª Vara Criminal de Santa Maria - DF foi, assim, o primeiro a praticar atos no feito, razão pela qual é prevento para a condução do inquérito policial (fls. 5 e ss).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Criminal de Santa Maria - DF.
+Publique-se. Intimem-se.
+EMENTA
