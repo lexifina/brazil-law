@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGRÁRIA INDÚSTRIA E COMÉRCIO LTDA. (em recuperação judicial) contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ; na falta de demonstração da divergência jurisprudencial; e na ausência de cotejo analítico.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o benefício da justiça gratuita concedido à agravante deve ser revogado, pois a recuperação judicial foi encerrada e a empresa apresenta capacidade financeira para arcar com as despesas processuais. Requer a aplicação da penalidade prevista no parágrafo único do art. 100 do CPC.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais em apelação nos autos de embargos à execução.
+O julgado foi assim ementado (fl. 379):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - REJEITADA - CONTRATO DE PROMESSA DE COMPRA E VENDA DE MERCADORIAS - COMPROVAÇÃO DA ENTREGA - INEXISTÊNCIA - CONCRETIZAÇÃO DO NEGÓCIO JURÍDICO - NÃO DEMONSTRADA - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - FIXAÇÃO POR EQUIDADE- POSSIBILIDADE. Se a sentença tratou do ponto que entendeu relevante e expôs, ainda que de forma sucinta, as razões de seus fundamentos jurídicos, resta afastada a tese de nulidade da sentença, por ausência de fundamentação. Para que o título possa embasar uma pretensão executiva, o art. 783, do CPC/2015, exige 03 (três) requisitos substanciais para a obrigação que dele decorre, quais sejam: a certeza, a liquidez e a exigibilidade. Não restando satisfatoriamente comprovada a efetiva entrega das mercadorias ao comprador, descabida a execução do contrato, objetivando a cobrança do preço, haja vista tão ter sido demonstrada a concretização do negócio, não restando cumprido o requisito da exigibilidade da obrigação posta no título. Os honorários advocatícios devem ser fixados por apreciação equitativa não somente quando o valor da causa for aviltante, como também naquelas que possuem valor excessivo, a contrario sensu.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 853):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO - INEXISTÊNCIA - NÃO ACOLHIMENTO. Os embargos declaratórios são cabíveis apenas no caso de restar configurados algum dos requisitos estipulados pelo art. 1.022 do CPC/2015, entre os quais não está incluída a possibilidade de revisão da decisão tomada pela Turma Julgadora.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 373, caput, I e II e § 1º, do CPC, porque o acórdão recorrido teria invertido o ônus da prova na via recursal, sem fundamentar a medida e sem oportunizar a produção de provas;
+b) 141 do CPC, pois o Tribunal decidiu além dos limites propostos pelas partes;
+c) 492 do CPC, visto que o colegiado proferiu decisão de natureza diversa da pedida;
+d) 783 e 784, III, do CPC, já que o contrato exequendo seria título executivo autônomo, líquido, certo e exigível, dispensando a apresentação de outros documentos para sua execução;
+e) 1.022, I e II, do CPC, porquanto o acórdão recorrido teria deixado de sanar omissões e contradições apontadas nos embargos de declaração.
+Sustenta que o Tribunal de origem, ao decidir que a inversão do ônus da prova poderia ocorrer na via recursal, divergiu do entendimento firmado no REsp n. 802.832/MG, da Segunda Seção do STJ, que estabelece que a inversão do ônus da prova deve ocorrer preferencialmente na fase de saneamento do processo ou, ao menos, que se assegure à parte a oportunidade de produzir as provas pertinentes.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se a improcedência dos embargos à execução ou, subsidiariamente, determinando-se a anulação do processo desde a sentença para produção de provas.
+Nas contrarrazões, a parte recorrida aduz que não há violação de legislação vigente; que não houve ausente impugnação específica; e que incidem na espécie as Súmulas n. 5 e 283 do STJ.
+É o relatório. Decido.
+A controvérsia diz respeito a embargos à execução em que a parte autora pleiteou a desconstituição do título executivo sob alegação de inexigibilidade e inexequibilidade do contrato de promessa de compra e venda de mercadorias.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os embargos para excluir os honorários advocatícios de 20% sobre o débito, determinando o prosseguimento da execução e fixando honorários advocatícios em 10% sobre o valor da dívida corrigida.
+A Corte estadual reformou a sentença para acolher os embargos à execução e julgar extinta a execução sem resolução de mérito, nos termos do art. 485, IV, do CPC, fixando honorários advocatícios de R$ 3.000,00.
+I - Art. 1.022, I e II, do CPC
+Afasta-se a alegada ofensa ao 1.022, I e II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Arts. 141, 373, caput, I e II e § 1º, 492, 783 e 784, III, do CPC
+O acórdão recorrido concluiu que cabia à agravante comprovar a entrega das mercadorias, essencial para a exigibilidade do título executivo, e que a ausência dessa prova impunha o acolhimento dos embargos à execução. Confira-se (fls. 385-386):
+Entretanto, da análise detida dos autos, entendo que não restou comprovada a efetivação da compra e venda de mercadorias entre as partes.
+No caso dos autos, é de ver que a embargada juntou aos autos o contrato executado e as notas fiscais de Ordem 38, entretanto, não restou demonstrado que as mercadorias foram entregues aos embargantes, visto não constar qualquer assinatura de recibo nas referidas notas, não tendo a embargada, a meu ver, se desincumbido de seu ônus.
+No recurso especial, a parte alega que a inversão do ônus da prova foi realizada sem observância do art. 373, caput, I e II e § 1º, do CPC. Por sua vez, o Tribunal a quo, analisando o acervo probatório dos autos, concluiu que a agravante não se desincumbira de seu ônus probatório e que não ficara configurado o requisito de exigibilidade da obrigação executada.
+Desse modo, a revisão do entendimento adotado pela instância de origem demandaria reexame de elementos fático-probatório dos autos , o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+III - Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+N ão basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
