@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTIGOS 1.022 E 489 DO CPC. SÚMULA N. 284/STF. LEGITIMIDADE DO CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL - RMC. VÍCIO DE CONSENTIMENTO NÃO CONSTATADO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não comporta conhecimento a alegada violação dos artigos 489, § 1º, IV, e 1.022, do CPC, visto que embasada na alegação de vícios no julgado que não foram sanados no julgamento dos embargos de declaração, sem que tenha havido o manejo de declaratórios na origem, o que atrai ao ponto a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A questão foi resolvida com amparo nas cláusulas contratuais e nos elementos fáticos da demanda, de sorte que alterar a conclusão do Tribunal de origem, na forma como pretendido pela recorrente, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por PAULO DE TARSO NUNES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 519):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. EMPRÉSTIMO CONSIGNADO COM ADESÃO A CARTÃO DE CRÉDITO E RESERVA DE MARGEM CONSIGNÁVEL (RMC). DECISÃO MONOCRÁTICA DE DESPROVIMENTO DO RECURSO DA PARTE AUTORA. IMPROCEDÊNCIA DOS PEDIDOS EXORDIAIS. INSURGÊNCIA DA PARTE AUTORA.
+AVENTADA IRREGULARIDADE E INVALIDADE DA CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). SUSTENTADO VÍCIO DE CONSENTIMENTO. INSUBSISTÊNCIA. PREVISÃO DA MODALIDADE E DAS CARACTERÍSTICAS DO NEGÓCIO JURÍDICO CELEBRADO. CONTRATO DE EMPRÉSTIMO COM EXPRESSA MENÇÃO DE CARTÃO DE CRÉDITO, RESERVA DE MARGEM CONSIGNÁVEL E AUTORIZAÇÃO PARA DESCONTOS NO BENEFÍCIO PREVIDENCIÁRIO. PACTO DEVIDAMENTE ASSINADO PELA PARTE MUTUÁRIA. ADEMAIS, UTILIZAÇÃO DO CARTÃO DE CRÉDITO, PELA PARTE CONSUMIDORA, PARA A REALIZAÇÃO DE COMPRAS EM DIVERSOS ESTABELECIMENTOS COMERCIAIS. SUBSTRATO PROBATÓRIO CONSTANTE NOS AUTOS QUE DEMONSTRA CIÊNCIA DA PARTE CONSUMIDORA SOBRE A MODALIDADE DE CRÉDITO PACTUADA. AUSÊNCIA DE VIOLAÇÃO AO DEVER DE INFORMAÇÃO E DE FALHA NA PRESTAÇÃO DO SERVIÇO. INEXISTÊNCIA DE ATO ILÍCITO A ENSEJAR O DEVER DE INDENIZAÇÃO. ENTENDIMENTO FIRMADO PELO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTA CORTE NO JULGAMENTO DA CAUSA-PILOTO NO IRDR N. 5040370-24.2022.8.24.0000. PRECEDENTES. DECISÃO MONOCRÁTICA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, o recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC, porquanto o Tribunal de origem deixou de enfrentar argumentos essenciais apresentados no recurso, como a ausência de consentimento informado e a necessidade de adaptação contratual.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 6º, III e V, 39, 46, 51, IV, 52, 54-B, 54-C e 54-D do CDC, ao argumento de que houve violação do dever de informação e da boa-fé objetiva, uma vez que não foi devidamente esclarecido sobre a natureza, os riscos, as taxas e as implicações do contrato de cartão de crédito com reserva de margem consignável (RMC).
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Oferecidas contrarrazões ao recurso especial (fls. 661-665), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 666-667), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 688-691).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTIGOS 1.022 E 489 DO CPC. SÚMULA N. 284/STF. LEGITIMIDADE DO CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL - RMC. VÍCIO DE CONSENTIMENTO NÃO CONSTATADO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não comporta conhecimento a alegada violação dos artigos 489, § 1º, IV, e 1.022, do CPC, visto que embasada na alegação de vícios no julgado que não foram sanados no julgamento dos embargos de declaração, sem que tenha havido o manejo de declaratórios na origem, o que atrai ao ponto a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A questão foi resolvida com amparo nas cláusulas contratuais e nos elementos fáticos da demanda, de sorte que alterar a conclusão do Tribunal de origem, na forma como pretendido pela recorrente, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Agravo conhecido. Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se, na origem, de ação declaratória cumulada com repetição de indébito e indenização por danos morais, ajuizada por Paulo de Tarso Nunes em face do Banco BMG S.A., sob a alegação de que foi induzido a contratar um cartão de crédito com reserva de margem consignável (RMC).
+O Juízo de primeiro grau validou a modalidade de cartão RMC, afastando a tese de ausência de consentimento esclarecido. Afirmou, ainda, inexistir prova cabal de induzimento em erro, razão pela qual se mantiveram íntegras as cláusulas contratuais firmadas.
+Em decisão monocrática, o relator negou provimento à apelação do recorrente com base na tese firmada no IRDR de n. 5040370-24.2022.8.24.000, que reconheceu a validade do contrato de cartão de crédito com RMC, desde que haja previsão contratual expressa e ciência do consumidor. Assim, concluiu que o contrato foi devidamente assinado pelo recorrente, com autorização para desconto em benefício previdenciário, e que o banco cumpriu o dever de informação.
+Na sequência, o Tribunal de origem, ao negar provimento ao agravo interno, reafirmou a validade do contrato e a ausência de vício de consentimento.
+Dessa maneira, o recorrente interpôs o presente recurso especial, buscando, em síntese, o reconhecimento do vício de consentimento e a conversão do contrato em empréstimo consignado, nos moldes legalmente previstos.
+A irresignação não merece prosperar.
+De início, não comporta conhecimento a alegada violação dos artigos 489, § 1º, IV e 1.022, do CPC, visto que embasada na alegação de vícios no julgado que não foram sanados no julgamento dos embargos de declaração, sem que tenha havido o manejo de declaratórios na origem, o que atrai ao ponto a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+2. A ausência de oposição de embargos de declaração na origem inviabiliza a análise da apontada violação dos arts. 489 e 1.022 do Código de Processo Civil no recurso especial, porquanto torna impossível a compreensão da controvérsia, situação que atrai o óbice da Súmula nº 284/STF à espécie.
+(REsp n. 2.187.907/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 6/5/2025.)
+1. Inviável a alegada violação do art. 489, § 1º, do CPC, visto que embasada na alegação de ausência de prestação jurisdicional, sem que tenha havido o manejo de declaratórios na origem. Incidência da Súmula n. 284/STF.
+(AgInt no AREsp n. 2.106.815/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025.)
+No mérito, melhor sorte não assiste ao recorrente.
+Com efeito, o Tribunal de origem, após ampla análise do conjunto fático-probatório, concluiu pela regularidade da contratação do cartão de crédito com RMC e inexistência de vício de consentimento ou qualquer outra irregularidade.
+É o que se extrai dos seguintes trechos (fls. 516-517):
+De plano, insta salientar que a temática referente à contratação de empréstimo consignado através de cartão de crédito, com reserva de margem consignável (RMC) restou apreciada pelo Grupo de Câmaras de Direito Comercial desta Corte que, em 14 de junho de 2023, julgou o Incidente de Resolução de Demandas Repetitivas (IRDR) de n. 5040370-24.2022.8.24.0000, bem como a causa-piloto nos autos da Apelação Cível n. 5000297-59.2021.8.24.0092, firmando a seguinte tese e entendimento:
+ ..
+Dito isso, em análise ao conteúdo do presente recurso, denota-se que não merece acolhimento.
+Na hipótese em tela, a instituição financeira juntou aos autos o instrumento contratual, devidamente assinado pela parte consumidora, pelo qual houve adesão ao cartão de crédito e autorização para desconto em seu benefício previdenciário (evento 13, CONTR2, evento 13, OUT3, evento 13, OUT4, evento 13, OUT5), bem como comprovantes de transferências (evento 13, COMP6) que demonstram a realização de depósitos em conta bancária de titularidade do(a) contratante.
+Além disso, verifica-se que a parte autora utilizou o cartão de crédito para a realização de compras em diversos estabelecimentos comerciais, conforme demonstram as faturas exibidas pela instituição financeira (evento 13, FATURA7 - fls. 1-2, 4-9, 11-15, 18, 22-25, 28-30, 35, 41-44, 47-51, 58 e 82-84).
+Outrossim, diferentemente do afirmado pela parte agravante, os pactos assinados esclarecem devidamente os termos da pactuação e os encargos incidentes sobre a operação, bem como a forma de amortização da dívida, o que reforça a ciência da parte autora acerca da modalidade do negócio jurídico contratado.
+Assim, tem-se como explicitadas as características da operação, razão por que não há falar em desconhecimento acerca da modalidade de crédito pactuada.
+Dessarte, considerando-se a regularidade e a clareza das cláusulas e dos termos contratuais, a instituição financeira cumpriu devidamente com o dever de informação, nos termos do art. 6º, inciso III, do Código de Proteção e Defesa do Consumidor, presumindo-se que agiu de boa-fé e em total observância à lei que instituiu a questionada modalidade de crédito.
+Por consequência, inexistindo vício de consentimento ou qualquer outra ilegalidade, a contratação firmada pelas partes é válida, motivo pelo qual os termos contratados merecem ser mantidos em sua integralidade.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO VIA CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). VÍCIO DE CONSENTIMENTO CONSTATADO. SÚMULAS N. 5 E 7/STJ.
+1. O Tribunal de origem, através da análise dos fatos e provas acostados aos autos, especialmente do contrato de cartão de crédito consignado e dos extratos referentes ao serviço, entendeu que houve desvirtuação na contratação do empréstimo por meio de cartão de crédito com reserva de margem consignável.
+2. Rever o entendimento firmado no acórdão recorrido a respeito do vício de consentimento demandaria interpretação de cláusula contratual e reexame de provas, providências vedadas nos termos das Súmulas 5 e 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.405.232/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. IMPOSSIBILIDADE DE ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL OU DE RESOLUÇÃO. FALTA DE PREQUESTIONAMENTO. DANOS MORAIS. INEXISTÊNCIA. CONTRATO VÁLIDO. COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu pela validade da contratação do empréstimo bancário, pois o contrato possui a assinatura do autor, acompanhado dos documentos pessoais, bem como foi comprovado que os valores foram disponibilizados na conta do recorrente.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.790.306/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/5/2021, DJe de 9/6/2021.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso esp ecial pela divergência jurisprudencial sobre a mesma questão
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+É como penso. É como voto.
