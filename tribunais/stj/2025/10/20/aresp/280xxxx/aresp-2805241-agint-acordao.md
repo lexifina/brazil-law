@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C INEXIGIBILIDADE DE DÉBITO E RESTITUIÇÃO DE QUANTIA PAGA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação declaratória de rescisão contratual c/c inexigibilidade de débito e restituição de quantia paga.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por MEDI MOHAMAD KHALIL SAFADDINE, contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: declaratória de rescisão contratual c/c inexigibilidade de débito e restituição de quantia paga com pedido de tutela de urgência, ajuizada por MEDI MOHAMAD KHALIL SAFADDINE em face de DIMARTEX IMOVEIS EMPREENDIMENTOS E PARTICIPACOES LTDA, por meio do qual sustenta que, após a formalização do contrato de locação, a requerida não entregou as chaves do imóvel, impedindo o uso do bem e causando insegurança ao requerente.
+Sentença: julgou improcedente a ação, condenado o autor ao pagamento da cláusula penal compensatória e dos alugueres vencidos desde o início da locação até a restituição da posse do imóvel à ré. (e-STJ fls. 292-293)
+Acórdão: negou provimento à apelação, nos termos da seguinte ementa (e- STJ fl. 354):
+Apelação. Ação declaratória de rescisão contratual e de inexigibilidade de multa contratual cumulada com restituição de caução de R$ 30.000,00. Locação comercial. Alegação de ausência de entrega das chaves e de que havia faixa de "aluga-se", evidenciando-se quebra de confiança. Contestação com reconvenção. Alegação de rescisão por culpa do locatário. Pretensão de recebimento de multa contratual de três meses de aluguel e pagamento de aluguéis e encargos até a entrega das chaves. Sentença de improcedência da ação principal e de procedência da reconvenção. Insurgência do autor. Desacolhimento. Contrato firmado em 28/06/2022 com início em 20/07/2022. Chaves entregues em 28/06/2022, conforme prova colhida em audiência. Locatário apelante que não cumpriu com o pagamento acordado a título de caução de R$ 93.000,00. Faixa exibida em imóvel que noticiava a mudança de endereço do antigo locatário. Pretensão de rescisão por culpa do locador que não se sustenta. Fato imputável ao locatário autor. Sentença mantida. RECURSO IMPROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão unipessoal: agravo conhecido, recurso especial não conhecido, com fundamento impossibilidade de análise de violação de dispositivo constitucional em recurso especial, na ausência de prequestionamento (Súmula 211/STJ), e na inadmissibilidade de reexame de fatos e provas e de interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ) (e-STJ fls. 454-456).
+Agravo interno: a parte agravante alega que i) o recurso especial preenche todos os requisitos de admissibilidade, incluindo o prequestionamento das matérias e dispositivos legais indicados; ii) não há necessidade de reexame de fatos e provas, nem de interpretação de cláusulas contratuais; iii) a matéria recursal envolve violação direta à legislação federal; e iv) a decisão monocrática extrapolou o exame de admissibilidade ao afirmar que não houve vulneração aos dispositivos citados. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito. (e-STJ fls. 461-473)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C INEXIGIBILIDADE DE DÉBITO E RESTITUIÇÃO DE QUANTIA PAGA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação declaratória de rescisão contratual c/c inexigibilidade de débito e restituição de quantia paga.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão conheceu do agravo em recurso especial para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ fl. 454):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C INEXIGIBILIDADE DE DÉBITO E RESTITUIÇÃO DE QUANTIA PAGA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. 1. Ação declaratória de rescisão contratual c/c inexigibilidade de débito e restituição de quantia paga. 2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88. 3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. 4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis. 5. Agravo conhecido. Recurso especial não conhecido.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da violação de dispositivo constitucional
+De acordo com a legislação vigente, a interposição de recurso especial só é cabível quando a decisão recorrida se baseia em violação de lei federal.
+Assim, não é possível a interposição de recurso especial quando a decisão se baseia em violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal.
+Cumpre dizer, que em recurso especial não cabe invocar violação à norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao artigo 93, IX da Constituição Federal.
+- Da ausência de prequestionamento da matéria tratada no recurso especial (Súmula 211/STJ)
+Do exame do agravo em recurso especial, observa-se que a parte agravante não sustentou a inaplicabilidade da Súmula 211/STJ de forma consistente. A argumentação apresentada foi genérica, afirmando que "todos os temas e artigos relacionados ao tema recorrido foram devidamente tratados nas instâncias inferiore" (fl. 464).
+No entanto, a fundamentação apresentada não demonstra que a matéria relativa à interpretação dos arts. 9, 37, 38 da Lei 8.245/91; 412, 475, 844 do Código Civil; 373, II, 369 do Código de Processo Civil, teria sido efetivamente analisada e debatida no acórdão recorrido.
+A jurisprudência desta Corte de Justiça, reforça a necessidade de que a matéria seja efetivamente debatida e decidida no acórdão recorrido para que se configure o prequestionamento. Portanto, a ausência de demonstração específica e concreta por parte da agravante quanto à análise dos artigos mencionados no acórdão recorrido impede o afastamento do óbice da Súmula 211 do STJ.
+Nesse sentido: AgInt no REsp 2.101.466/SP, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe de 21/12/2023.
+-Do reconhecimento da necessidade de interpretação de cláusulas contratuais e do reexame de contexto fático-probatório
+Da leitura do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 5/STJ, pois não demonstrou como a análise do recurso especial prescindiria da interpretação das cláusulas do contrato objeto do recurso.
+Nesse sentido: AgInt no AREsp 2.417.625/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no REsp 2.041.442/RN, Quarta Turma, DJe de 28/2/2024.
+De igual modo, não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente "que questões relativas à valoração da prova não constituem questão de fato, mas sim de direito" (fl. 467), sem demonstrar quais os pressupostos fáticos necessários ao julgamento do recurso, estavam delineados no acórdão recorrido.
+Registra-se que, conforme a jurisprudência desta Corte, "para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas" (AgInt no AREsp 2.224.243/DF, Terceira Turma, DJe 30/10/2024).
+Confira-se, ainda: AgInt no AREsp 2.385.441/MG, Quarta Turma, DJe 18/4/2024; AgInt no AREsp 2.225.910/RS, Quarta Turma, DJe 3/10/2024; AgInt no AREsp 2.630.267/RS, Terceira Turma, DJe 30/10/2024.
+Diante disso, mostra-se correto o entendimento adotado na decisão agravada, que não merece reparos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
