@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por GOULART TRANSPORTE E LOGISTICA LTDA, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+TRIBUTÁRIO. CRÉDITOS PRESUMIDOS DE ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPJ/CSLL. CRÉDITOS "PRESUMIDOS" DE ICMS "SUBSTITUTIVOS".
+"O contribuinte não tem direito à exclusão de créditos de ICMS, apurados de forma específica pela lei estadual, em substituição aos créditos escriturais de ICMS que decorrem da não cumulatividade e que não são tributados pelo IRPJ/CSL". Precedentes desta Segunda Turma.
+Na origem, foi impetrado mandado de segurança objetivando o reconhecimento do direito à exclusão do valores referentes aos créditos presumidos do ICMS das bases de cálculo do Imposto sobre a Renda de Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL).
+O juízo de primeiro grau concedeu a segurança para assegurar o direito de exclusão, bem como de compensar os montantes pagos. Interposto recurso de apelação, foi este provido para reformar a sentença recorrida e afastar a possibilidade de exclusão tal como almejada.
+Opostos embargos de declaração, foram estes rejeitados.
+No presente recurso especial, o recorrente apontou violação de dispositivos de lei federal.
+Foram apresentadas contrarrazões.
+É o relatório. Decido.
+Em relação à alegada omissão suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial.
+Isso porque, a Corte local reconheceu que a natureza dos valores sobre os quais se pretende a exclusão da base de cálculo do IRPJ e da CSLL não corresponde propriamente a um crédito presumido, o que afastaria a aplicação do entendimento firmado por esta Corte Superior no julgamento do EREsp 1.517.492/PR, conforme extrai-se do teor do acórdão recorrido (fl. 165):
+ ..
+De fato, os créditos de ICMS em análise não possuem natureza jurídica propriamente de créditos presumidos.
+"Trata-se de uma sistemática simplificada de cálculo do ICMS, pela qual a pessoa jurídica prestadora do serviço de transporte rodoviário de cargas intermunicipal ou interestadual calculará o ICMS devido aplicando uma dedução de 20%, sem o aproveitamento de qualquer outro crédito de suas entradas. É um regime de apuração facultativo, substitutivo de apuração do ICMS, cabendo ao contribuinte a decisão de optar ou não, conforme sua conveniência" (TRF4 5005115- 42.2022.4.04.7001, SEGUNDA TURMA, Relator EDUARDO VANDRÉ OLIVEIRA LEMA GARCIA, juntado aos autos em 22/06/2023).
+Em caso similar, esta Segunda Turma já se manifestou, em sessão Telepresencial, no sentido de que créditos de ICMS, apurados de forma específica pela lei estadual, não são "créditos presumidos propriamente ditos", mas sim créditos escriturais que podem ser utilizados para dar cumprimento ao princípio constitucional da não cumulatividade.
+ ..
+Nesse contexto, fundamentou-se que os valores em discussão decorrem da adesão facultativa à uma sistemática de apuração por meio da qual, em substituição ao regime ordinário e não cumulativo do ICMS, se procura, de igual forma, materializar o princípio constitucional da não cumulatividade.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Por fim, quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO FISCAL. ANUIDADES. CANCELAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO, SIMILITUDE FÁTICA E INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. SÚMULA 7/STJ. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige o necessário cotejo analítico e demonstração de similitude fático-jurídica entre os acórdãos supostamente divergentes, bem como a indicação do dispositivo legal interpretado de modo dissentâneo, o que não restou comprovado no presente caso. Hipótese, por extensão, da Súmula 284/STF.
+2. A incidência da Súmula 7 do STJ nas questões controversas apresentadas é, por consequência, prejudicial para a análise de apontado dissídio jurisprudencial, e impede o seguimento do presente recurso pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.518.728/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/11/2019, DJe 22/11/2019.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE RESPONSABILIDADE. CADÁVER ENCONTRADO NO RESERVATÓRIO DE ÁGUA. PRETENSÃO DE REEXAME FÁTICO - PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação de responsabilidade em razão de danos causados em decorrência de cadáver encontrado no reservatório de água da cidade. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - A parte alega violação e divergência de interpretação em relação aos arts. 8º, 14, § 1º, 22, parágrafo único, do CDC e 927 do CC, no que concerne aos danos morais Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que ela demanda o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+III - Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea a e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c. Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+IV - Agravo interno improvido.
+(AgInt no AREsp 1.546.739/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/5/2020, DJe 20/5/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
