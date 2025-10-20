@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  aos  artigos 489 e  1.022  do  CPC.
+2.  A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+3. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PAULO EDUARDO PESSAGNO - ESPÓLIO contra decisão monocrática de fls. 291-296 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado na alínea "a" do permissivo constitucional, fora interposto no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 144 e-STJ):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO PROVISÓRIA POR ARBITRAMENTO. Preliminar de litispendência. Inocorrência. Ausência de identidade de pedidos. Incidentes processuais que visam executar decisões díspares, que, inclusive, conferiram provimentos jurisdicionais distintos. Mérito. Inexistência de omissão indevida de informações por parte dos recorridos. Apuração de haveres que há de ser realizada por Perito Judicial, e não por Administrador Judicial, a quem compete zelar pela probidade na administração das empresas a serem parcialmente dissolvidas. Apensamento dos feitos. Medida que propiciará o intercâmbio de dados contábeis e, via de consequência, facilitará e abreviará o cálculo dos haveres dos sócios dissidentes. Não configuração de quaisquer das hipóteses previstas no art. 80 do CPC. DECISÃO REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração (fls. 164-171 e-STJ), esses foram rejeitados (fls. 183-188 e-STJ).
+Em suas razões de recurso especial (fls. 191-202 e-STJ), a parte recorrente apontou violação aos seguintes dispositivos legais: (i) artigos 489, § 1º, e 1.022, II, do Código de Processo Civil, alegando a existência de omissão e negativa de prestação jurisdicional no acórdão recorrido acerca da matéria suscitada nos embargos de declaração; e (ii) artigo 55, § 1º, do CPC, sustentando, em suma, que o acórdão recorrido determinou o apensamento por conexão de um incidente extinto por sentença, o que contraria o referido dispositivo legal.
+Contrarrazões às fls. 207-218 e-STJ.
+Em juízo provisório de admissibilidade (fls. 221-224 e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: a) inexistência de violação aos arts. 489, § 1º, e 1.022 do CPC; e b) aplicação do óbice da Súmula 211/STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Contraminuta às fls. 241-254 e-STJ.
+Em julgamento monocrático (fls. 291-296 e-STJ), este signatário conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: (i) inexistência de violação aos artigos 489, § 1º, e 1.022 do CPC, eis que suficiente a fundamentação do acórdão recorrido; (ii) aplicação do óbice da Súmula 211/STJ, diante da ausência de prequestionamento da aventada contrariedade ao 55, § 1º, do CPC; e (iii) aplicação do óbice das Súmulas 283 e 284 do STF, em razão das razões recursais encontrarem-se dissociadas dos fundamentos do acórdão recorrido.
+Inconformada, a parte recorrente interpõe o presente agravo interno (fls. 300-309 e-STJ), insurgindo-se contra a negativa de provimento do recurso especial. Reitera, primeiramente, a alegação de violação aos arts. 489 e 1.022 do CPC. Em seguida, refuta aplicação dos óbices das Súmulas 211/STJ; 283 e 284 do STF, reiterando a matéria de mérito exposta nas razões do recurso especial. Requer, ao final, a reforma da decisão recorrida.
+Impugnação às fls. 314-331 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  aos  artigos 489 e  1.022  do  CPC.
+2.  A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+3. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+4. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. De início, revela-se correta  a  decisão  que  afastou  à  apontada  violação  aos  artigos 489 e  1.022  do  CPC.
+De  fato,  não  restou  configurada  a  negativa  de  prestação  jurisdicional.  Conforme  a  iterativa  jurisprudência  deste  Tribunal  superior,  deve  ser  afastada  a  alegação  de  ofensa  aos  artigo  s 489 e  1.022  do  CPC/2015  "na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  não  se  podendo,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional"  (RCD  no  AREsp  1297701/RS,  Rel.  Ministro  SÉRGIO  KUKINA,  PRIMEIRA  TURMA,  julgado  em  07/08/2018,  DJe  13/08/2018).
+Alegou a parte recorrente que o acórdão impugnado restou omisso acerca da "evidente aplicação do art. 55, § 1º do CPC" ao caso dos autos.
+No  entanto,  conforme  consignado  pela  decisão  agravada,  o  Tribunal  local  tratou  de  forma  adequada  e  suficiente  sobre  as questões essenciais ao deslinde da lide, pronunciando-se nos seguintes termos (fls. 147-149 e-STJ):
+4. Outrossim, não há falar em indevida omissão por parte dos recorridos quanto às funções a serem exercidas pelo Administrador Judicial nomeado nos autos do cumprimento provisório de tutela recursal nº. 0014820-07.2022.8.26.0114.
+Diversamente do que tentam levar a crer em suas razões recursais, em momento algum deliberou-se que competiria ao Administrador Judicial o cálculo dos haveres dos recorrentes. Ao revés, nota-se que a decisão que deferiu a tutela cautelar nos autos da Apelação Cível foi enfática ao afirmar que incumbiria ao i. Auxiliar da Justiça tão apenas zelar pela probidade da administração das sociedades.
+Abona tal entendimento o termo de compromisso protocolado pelo i. Administrador Judicial às fls. 60/65 dos autos do cumprimento provisório de tutela recursal, no qual, em capítulo denominado "Delimitação do Escopo", elenca diversas tarefas a serem realizadas, dentre as quais não se inclui a apuração de haveres dos recorridos. (..).
+Desse modo, levando-se em consideração que jamais se atribuiu ao i. Administrador Judicial a tarefa de proceder à apuração dos haveres dos recorrentes, é certo que não houve qualquer omissão indevida de informações por parte dos recorridos.
+5. lado outro, reputa-se conveniente o apensamento do cumprimento provisório de tutela recursal aos autos de origem, visto que o levantamento de dados contábeis promovido pelo Administrador Judicial decerto pode auxiliar e abreviar o cálculo dos haveres dos sócios dissidentes a ser realizado pelo i. Perito nomeado pelo Juízo.
+E quando do julgamento dos embargos de declaração, o órgão julgador complementou que (fls. 186-187 e-STJ):
+3. No caso dos autos, inexistem os vícios passíveis de correção através do recurso interposto.
+Em que pese o embargante lance mão de diversas teses que, supostamente, não teriam sido apreciadas por esta C. Turma Julgadora quando do julgamento do recurso de agravo de instrumento, nota-se que nenhuma delas restou ventilada em suas contrarrazões recursais (fls. 84/94 dos autos nº. 2227254-27.2023.8.26.0000).
+Ressalte-se, ainda, que as teses suscitadas pelo embargante não exsurgiram em momento posterior ao julgamento do agravo de instrumento, de sorte que não se adequam à hipótese prevista no artigo 493 do Código de Processo Civil, que, por sua vez, prevê o dever de o magistrado levar em consideração os fatos supervenientes que possam influir no julgamento do mérito do recurso.
+Como  visto,  as  teses  da parte  insurgente  foram  apreciadas  pelo  Tribunal  a  quo,  que  as  afastou  apontando  os  fundamentos  jurídicos  para  tal,  ainda  que  em  sentido  contrário  a  pretensão  recursal.
+Não há, portanto, a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação ao artigo 1.022 do CPC/2015.
+2. Com relação à aplicação do óbice da Súmula 211/STJ, deve ser mantida a decisão que negou provimento ao recurso especial.
+Conforme consignado pela decisão agravada, com relação à apontada contrariedade ao artigo 55, § 1º, do CPC, incide, na espécie, o óbice da Súmula 211/STJ, ante a ausência de prequestionamento da matéria, porquanto, mesmo após o julgamento dos embargos de declaração, a tese jurídica relativa ao referido dispositivo legal não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+No caso em tela, quando do julgamento dos embargos declaratórios, o órgão julgador afastou a alegação de omissão no acórdão recorrido, sob o fundamento de que as matérias apontadas como omissas tratam-se de inovação recursal, pronunciando-se nos seguintes termos (fls. 186-187 e-STJ):
+3. No caso dos autos, inexistem os vícios passíveis de correção através do recurso interposto.
+Em que pese o embargante lance mão de diversas teses que, supostamente, não teriam sido apreciadas por esta C. Turma Julgadora quando do julgamento do recurso de agravo de instrumento, nota-se que nenhuma delas restou ventilada em suas contrarrazões recursais (fls. 84/94 dos autos nº. 2227254-27.2023.8.26.0000).
+Ressalte-se, ainda, que as teses suscitadas pelo embargante não exsurgiram em momento posterior ao julgamento do agravo de instrumento, de sorte que não se adequam à hipótese prevista no artigo 493 do Código de Processo Civil, que, por sua vez, prevê o dever de o magistrado levar em consideração os fatos supervenientes que possam influir no julgamento do mérito do recurso.  grifou-se
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que, como visto, não ocorreu.
+3. Ademais, em que pese a parte recorrente tenha alegado violação ao art. 1.022 do CPC/15, não logrou, nas razões do recurso especial, combater o fundamento da inovação recursal.
+Observa-se, assim, que as razões recursais se encontram dissociadas dos fundamentos do acórdão recorrido, fazendo incidir os óbices das Súmulas 283 e 284/STF.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)  grifou-se
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
