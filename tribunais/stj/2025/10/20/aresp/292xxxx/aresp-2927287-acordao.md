@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO AFASTADA. REVISÃO. SÚMULA Nº 7/STJ. RECURSO COM CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA.
+1. Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A revisão do entendimento firmado pelas instâncias ordinárias, de que não há falar em exceção do contrato não cumprido, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Evidenciado o caráter manifestamente protelatório, ante a reiteração, em novos declaratórios, de questões já apreciadas, cabível a aplicação da multa prevista no § 2º do art. 1.026 do Código de Processo Civil.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por JÚLIO OSMAR EMERICK contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no art. 105, III, " a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"RECURSO DE AGRAVO INTERNO EM SEDE DE RECURSO DE APELAÇÃO - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EXCEÇÃO DE CONTRATO NÃO CUMPRIDO - NÃO INCIDÊNCIA - FALÊNCIA DO CREDOR POSTERIOR AO TERMO FIXADO PARA O DEVEDOR ADIMPLIR COM A OBRIGAÇÃO - RECURSO CONHECIDO E DESPROVIDO. Na petição de agravo interno, o recorrente deve impugnar especificamente os fundamentos da decisão agravada. Se não apresentado qualquer argumento novo capaz de modificar o decisum recorrido, impõe-se a sua manutenção. O princípio da exceptio non adimpleti contractus restou estabelecido no art. 476 do CC, pelo qual nos contratos bilaterais nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.
+Não há falar em aplicação da exceção do contrato não cumprido quando o inadimplemento pelo pactuante não guarda relação com a obrigação supostamente descumprida pelo outro" (e-STJ fls. 200/201).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 268/280 e 333/335).
+No recurso especial, a parte recorrente alega violação dos seguintes dispositivos com as respectivas teses:
+(1) arts. 489 e 1.022 do Código de Processo Civil - aduzindo que teria havido negativa de prestação jurisdicional porque o Tribunal de origem foi omisso ao não apreciar as seguintes questões: (a) ausência de impugnação pela parte recorrida aos fundamentos da sentença, que reconheceu a exceção de contrato não cumprido no momento da propositura dos embargos à execução; (b) incidência dos arts. 477 e 495 do Código Civil que autorizariam o vendedor a sobrestar a entrega da coisa em caso de insolvência do comprador antes da tradição, e (c) inviabilidade de remessa do processo para liquidação de sentença, por ser incompatível com a natureza dos embargos à execução;
+(2) artigos 476, 477 e 495 do Código Civil - sustentando que a sentença que reconheceu a exceção de contrato não cumprido deveria ser mantida, pois a recorrida teve sua falência decretada em 1998, antes da tradição da mercadoria, e não efetuou o pagamento do saldo do preço nem deu garantia de fazê-lo e
+(3) art. 1.026, §§ 2º e 3º, do CPC - porque foi indevida a aplicação da multa pela oposição de embargos para fins de prequestionamento.
+Após as contrarrazões (e-STJ fls. 369/376), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO AFASTADA. REVISÃO. SÚMULA Nº 7/STJ. RECURSO COM CARÁTER MANIFESTAMENTE PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA.
+1. Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A revisão do entendimento firmado pelas instâncias ordinárias, de que não há falar em exceção do contrato não cumprido, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+3. Evidenciado o caráter manifestamente protelatório, ante a reiteração, em novos declaratórios, de questões já apreciadas, cabível a aplicação da multa prevista no § 2º do art. 1.026 do Código de Processo Civil.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante às omissões apontadas no acórdão estadual, o Tribunal de origem, ao decidir os embargos de declaração, manifestou-se expressamente sobre os arts. 477 e 495 do CC e sobre a impossibilidade de processamento da liquidação de sentença.
+É o que se extrai da seguinte passagem:
+"(..)
+O acórdão ora embargado é claro ao apontar toda a fundamentação que levou ao desfecho do caso, apontando que não há qualquer justificativa para que o Apelado se utilize do estado de insolvência da Apelante para se eximir da responsabilidade de cumprimento da obrigação pactuada, uma vez que o termo ajustado para adimplemento se deu 03 (três) anos antes da falência da Recorrente, que somente se , o que afasta a aventada omissão no que se refere aos arts. 477 e demais operou em 1998 indicados pelo embargante.
+Quanto à impossibilidade de processamento da liquidação de sentença, nota-se que se trata de mais um caso de argumento protelatório, uma vez que os valores precisam ser atualizados e não há qualquer prejuízo às partes na sua tramitação.
+Calha ponderar, que o feito fora analisado detidamente, sendo verificadas todas as razões e contrarrazões apresentadas por ambas as partes.
+(..)" (e-STJ fls. 277/278).
+Nesse contexto, no que diz respeito à alegada negativa de prestação jurisdicional - violação do art. 1.022 do CPC -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEVOLUÇÃO DE PARCELAS PREVIDENCIÁRIAS. PREVIDÊNCIA PRIVADA. ENCERRAMENTO DO PLANO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. Ação de devolução de parcelas previdenciárias.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, inexiste a violação do art. 489 do CPC/15.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência das Súmulas 5 e 7/STJ prejudicam a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido."
+(AgInt no AREsp 2.183.495/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022 - grifou-se)
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Quanto aos arts. 476, 477 e 495 do CC, consta no acórdão recorrido que a ora recorrente não poderia invocar a exceção do contrato não cumprido, pelos seguintes fundamentos:
+"(..)
+"No caso dos autos, vislumbra-se que as partes ajustaram contratualmente que a parte Apelada deveria entregar as sacas de soja até o dia 15.03.1995, conforme expressa previsão contratual ora colacionada (id 161145324): Mas tal entrega não se realizou, restando a Apelada inadimplente em 16.03.1995. Conforme afirmado por ambas as partes litigantes (fato incontroverso), a Apelante LAVROFERTIL - PRODUTOS DA LAVOURA LIMITADA teve a sua falência decretada apenas em 1998, 03 anos após o inadimplemento por parte do Executado/Apelado e, inclusive, após o ajuizamento da ação executiva (Execução n. 130/1995 - código 2218).
+Ou seja, não há qualquer justificativa para que o Apelado se utilize do estado de insolvência da Apelante para se eximir da responsabilidade de cumprimento da obrigação pactuada, uma vez que o termo ajustado para adimplemento se deu 03 (três) anos antes da falência da Recorrente, que somente se operou em 1998.
+Dessa forma, mostra-se ilegítima a recusa do Apelado em promover a entrega das sacas de soja, sob pena de flagrante enriquecimento sem causa / ilícito, mesmo porque restou ajustado no contrato que a Apelante efetuaria o pagamento do valor inicial (denominado no contrato como "princípio de pagamento"), o que inclusive restou referendada a plena e total quitação, senão vejamos:
+Ocorre que, ao examinar o contrato, não se constata qualquer cláusula que vincula a entrega da mercadoria ao pagamento integral dos valores, sendo que o sinal acima identificado e as outras garantias foram ajustadas exatamente para assegurar a quitação do débito após a entrega da coisa, sendo que a obrigação da Apelante somente surgiria com a entrega do cereal e a fixação do preço que ocorreria em 31.05.1995, conforme expressa previsão contratual contida na cláusula primeira.
+Assim, não há falar em exceção do contrato não cumprido, tendo em vista que é incontroverso nos autos que o não cumprimento do pacto contratual por parte do Apelado em relação à entrega das sacas de sojas não se deu pela simples insolvência da parte credora/exequente/apelante, haja vista que ocorrera muito tempo após o prazo estipulado no pacto (Falência em 1998).
+Dessa feita, a manutenção da sentença de procedência representaria verdadeiro enriquecimento ilícito por parte do vendedor inadimplente, visto que o Apelado recebeu parte do pagamento e evidente o seu descumprimento acerca da entrega da coisa certa, sendo obrigação do Apelado entregar o grão para então, somente na data de 31.05.1995, fixar o preço.
+Assim, se houve algum descumprimento contratual, este se deu por parte do Apelado.
+Isto posto, tendo sido reconhecido o inadimplemento por parte do devedor apelado, uma vez que não efetuou a entrega da mercadoria na data aprazada (15.03.1995), é cabível a devolução dos valores pagos, não havendo falar em exceção de contrato não cumprido, devendo os valores devidos serem apurados em sede de liquidação."
+(..)" (e-STJ fls. 203/205).
+Com efeito, a revisão do entendimento firmado pelas instâncias ordinárias, de que não há falar em exceção do contrato não cumprido, demandaria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+No que tange ao art. 1.026, §§ 2º e 3º, do CPC, o Tribunal de origem aplicou multa pela oposição dos primeiros aclaratórios, considerando que "se revela nítida a pretensão da Embargante em rediscutir o mérito, mesmo porque as matérias constantes dos presentes embargos já foram ventila das em outros dois recursos anteriores" (e-STJ fl. 279).
+Ademais, tem-se que restou caracterizada a intenção protelatória dos segundos embargos declaratórios, tendo em vista que a pretensão recursal já havia sido atendida.
+Como cediço, os embargos de declaração, a teor do art. 1.022 do CPC, são recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -; assim, não podem ser acolhidos quando a parte embargante pretende, essencialmente, que a decisão seja proferida nos exatos termos que requer.
+Cumpre ressaltar que o mero inconformismo da parte não constitui hipótese de cabimento de embargos de declaração, tampouco caracteriza vício na decisão.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A reiteração de argumentos, nos segundos embargos de declaração, já repelidos no acórdão anteriormente proferido, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+3. Embargos de declaração rejeitados, com aplicação de multa."
+(EDcl nos EDcl no AgInt nos EREsp 1.728.046/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 13/6/2023, DJe de 19/6/2023 - grifou-se)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que rejeitou os primeiros embargos de declaração.
+4. Em virtude de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa."
+(EDcl nos EDcl no AgInt no AREsp 1.955.226/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/4/2022, DJe de 6/4/2022)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
