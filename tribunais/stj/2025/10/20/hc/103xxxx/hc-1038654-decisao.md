@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus de próprio punho impetrado por JHONATAS MATHEUS ROCHA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Segundo se infere dos autos, o paciente foi condenado definitivamente pelo delito de tráfico de drogas, à pena de 06 anos e 08 meses de reclusão, em regime fechado, e ao pagamento de 650 dias-multa,
+Em atenção ao Acordo de Cooperação Técnica STJ/DPU nº 3/2025, o feito foi encaminhado à DPU para a adequada assistência jurídica do paciente/impetrante, cuja petição juntada requer: "conceder definitivamente a ordem para o fim de estender o benefício da decisão proferida em favor do có-réu TIAGO HENRIQUE TEIXEIRA MARCONDES no Recurso Especial nº 1948711/SP - 2021/0216442-2 - Rel. Min. Ribeiro Dantas, aplicando-se o benefício do tráfico privilegiado."
+É o breve relato.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Na hipótese, ao contrário do afirmado pela defesa, os réus não estão em idêntica situação processual, uma vez que ao corréu Thiago o tráfico privilegiado foi negado pelas instâncias ordinárias, em razão tão somente da quantidade de droga apreendida, e, conforme posto na decisão de minha relatoria, que deu provimento ao Recurso Especial nº 1948711/SP, este fundamento, por si só, não pode ser utilizado para afastar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006. Já em relação ao paciente, o privilégio especial da Lei de Drogas foi negado diante da ausência dos atendimentos dos requisitos legais, uma vez que há o registro de maus antecedentes em seu desfavor ("Ademais, ostenta maus antecedentes, sendo reincidente." )
+Nesse contexto, não cabe acolhimento ao pedido de extensão deduzido nos termos do art. 580 do CPP, uma vez que o paciente possui condição pessoal diversa a do corréu e válida que justificou a negativa da redutora especial da Lei de Drogas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
