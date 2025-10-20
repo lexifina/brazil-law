@@ -1,0 +1,1 @@
+Art. 10-B. Aos Procuradores de Contas são aplicados os direitos, garantias, prerrogativas, vedações e deveres estabelecidos em lei específica que discipline sua carreira, observada a independência funcional e a integração administrativa prevista nesta Lei.

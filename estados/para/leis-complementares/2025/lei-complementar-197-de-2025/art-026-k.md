@@ -1,0 +1,8 @@
+Art. 26-K. Competem ao Conselho Superior do Ministério Público de Contas:
+I - elaborar a lista tríplice, de que trata o §1º, do art. 26-H desta Lei, para o encaminhamento ao Chefe do Poder Executivo, para a escolha do Procurador-Geral do Ministério Público de Contas dos Municípios;
+II - decidir sobre o vitaliciamento de membros do Ministério Público de Contas, após a conclusão do estágio probatório, aplicando os critérios objetivos estabelecidos em lei específica da carreira;
+III - autorizar o afastamento de membro do Ministério Público de Contas dos Municípios do Estado do Pará para frequentar curso de especialização, mestrado ou doutorado, no país ou no exterior;
+IV - julgar o processo administrativo disciplinar (PAD) contra membros do Ministério Público de Contas dos Municípios do Estado do Pará e aplicar as penalidades cabíveis;
+V - conhecer a correição realizada pela Corregedoria Ministerial, recomendando, quando for o caso, as providências que devam ser tomadas.
+§1º Os critérios para vitaliciamento dos membros do Ministério Público de Contas dos Municípios são os estabelecidos em lei específica da carreira, competindo ao Conselho Superior a aplicação de tais critérios e a regulamentação dos procedimentos operacionais necessários.
+§2º As decisões do Conselho Superior do Ministério Público de Contas relativas ao vitaliciamento, aos afastamentos e aos procedimentos disciplinares de seus membros são definitivas, não se sujeitando à revisão ou homologação pelo Tribunal de Contas dos Municípios do Estado do Pará, preservada, em tais matérias, a plena autonomia funcional assegurada constitucionalmente ao Ministério Público de Contas.

@@ -1,0 +1,1 @@
+Art. 26-O. As competências e funcionamento da Ouvidoria Ministerial, observadas as disposições desta Lei, serão regulamentados em ato próprio do Ministério Público de Contas dos Municípios do Estado do Pará.

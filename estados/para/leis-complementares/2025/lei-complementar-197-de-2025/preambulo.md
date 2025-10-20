@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 197, DE 17 DE OUTUBRO DE 2025.
+Dispõe sobre a incorporação do Ministério Público de Contas dos Municípios do Estado do Pará pelo Tribunal de Contas dos Municípios do Estado do Pará, acrescendo, alterando e revogando dispositivos da Lei Complementar Estadual nº 109, de 27 de dezembro de 2016; revoga a Lei Complementar nº 086, de 03 de janeiro de 2013; a Lei Complementar nº 144, de 2021; a Lei Complementar nº 152, de 15 de junho de 2022 e a Lei Complementar nº 176, de 04 de julho de 2024.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO PARÁ estatui e eu sanciono a seguinte Lei Complementar:

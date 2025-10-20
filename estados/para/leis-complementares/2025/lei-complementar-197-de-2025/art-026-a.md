@@ -1,0 +1,3 @@
+## Seção I Das Disposições e Competências Gerais
+Art. 26-A. Ao Ministério Público de Contas dos Municípios do Estado do Pará compete promover e fiscalizar o cumprimento e a guarda da Constituição e das Leis, no que se referir à fiscalização contábil, financeira, orçamentária, operacional e patrimonial, da competência do Tribunal de Contas dos Municípios do Estado do Pará, que lhe garantirá os meios necessários para o pleno exercício de suas atribuições.
+Parágrafo único. O Ministério Público de Contas é composto por 07 (sete) Procuradores, nomeados na forma da Constituição Federal, Estadual e desta Lei, com carreira disciplinada em lei específica.
