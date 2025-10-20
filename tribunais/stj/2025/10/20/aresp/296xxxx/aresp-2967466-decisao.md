@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo apresentado por Rosalino das Chagas para impugnar decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 273):
+PREVIDENCIÁRIO. ATIVIDADE RURAL ANTES DOS 12 ANOS DE IDADE. EXCEPCIONALIDADE. NÃO RECONHECIMENTO. SEGURADO ESPECIAL.
+- O reconhecimento do tempo de serviço rural para fins previdenciários deve ser demonstrado através de início de prova material, sendo vedada a prova exclusivamente testemunhal.
+- É possível, em tese, o cômputo de período de trabalho rural realizado antes dos 12 anos de idade, para fins de reconhecimento de tempo de serviço e de contribuição pelo exercício das atividades descritas no art. 11 da Lei 8.213/91, em maior amplitude, sem a fixação de requisito etário.
+- O reconhecimento de tempo como trabalhador rural em período anterior aos 12 (doze) anos de idade para fins previdenciários pressupõe prova coesa, robusta e específica acerca do desempenho da atividade laborativa do requerente nas lides campesinas. Passa, assim, dentre outras coisas, pela análise da composição do grupo familiar, da natureza das atividades, da intensidade das atividades, da regularidade das atividades e do grau de contribuição das atividades para a subsistência da família, mediante averiguação da situação concreta.
+- O reconhecimento de trabalho anterior aos 12 anos de idade tem por escopo não deixar desamparada criança que tenha sido, direta ou indiretamente, vítima de exploração do trabalho infantil, o que não se confunde com situação de iniciação ao trabalho e auxílio progressivo ao núcleo familiar no desempenho de atividades urbanas ou rurais.
+- Uso de mão de obra infantil "contratada", subordinada, certamente caracteriza, por presunção, desempenho de atividade indevida. Eventual atividade ancilar ou de introdução profissional no âmbito da família, de modo contrário, a despeito dos compreensíveis questionamentos que suscita, nem sempre pode ser caracterizada, por presunção, como situação de uso indevido de mão de obra infantil, notadamente em períodos mais remotos, quando as bases da sociedade eram diversas. Em certa medida, o trabalho incipiente de pessoas de tenra idade no campo, ocorrido no seio da família e, logo, sob orientação e supervisão dos pais, pode, num primeiro momento, ser equiparado à situação de iniciação ao trabalho.
+- A admissão de tempo de contribuição antes dos doze anos de idade se justifica como instrumento de proteção dos direitos da criança e do adolescente e, também, do trabalhador. Tem por objetivo evitar situações concretas de déficit, em homenagem ao princípio da proibição da insuficiência, pois o Estado tem o dever de proteção mínima aos direitos sociais fundamentais.
+- Embora os indícios de prova material apontem para o labor rural pela família da parte autora, não há comprovação suficiente para a caracterização de efetiva atuação como trabalhador rural desde tenra idade, de modo a evidenciar o labor como segurado especial inclusive na condição de criança.
+Os embargos de declaração opostos em sequência foram rejeitados (e-STJ, fls. 290-292).
+No recurso especial, o recorrente alegou violação dos arts. 489, § 1º, incisos I e IV, e 1.022, II, do Código de Processo Civil, além de dissídio jurisprudencial quanto ao Tema 995 do Superior Tribunal de Justiça.
+Aduziu que o acórdão dos embargos declaratórios não enfrentou o pedido de reafirmação da Data de Entrada do Requerimento (DER), formulado desde a petição inicial e renovado nos embargos de declaração com a nova data, limitando-se a qualificá-lo como "inovação recursal", em contrariedade aos deveres de fundamentação e enfrentamento de argumentos capazes de infirmar a conclusão adotada.
+Apontou dissídio jurisprudencial em relação ao entendimento contido no Tema 995/STJ, sob a alegação de que seria possível a reafirmação da DER, independentemente de renovação do pedido em grau recursal.
+Por fim, requereu o provimento do recurso especial.
+O recurso especial foi inadmitido na origem (e-STJ, fls. 323-325) e, diante disso, foi interposto o presente agravo (e-STJ, fls. 327-338) impugnando os fundamentos da decisão.
+Brevemente relatado, decido.
+O recurso especial merece prosperar.
+No que tange à omissão do acórdão recorrido sobre a matéria relativa à reafirmação da DER, registre-se que, ainda que se trate de alegação trazida apenas em embargos de declaração, trata-se de matéria de ordem pública, que pode ser alegada e, portanto, examinada a qualquer tempo nas instâncias ordinárias.
+Assim, o Tribunal de origem deve se manifestar sobre a questão, sob pena de incorrer em omissão.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REAFIRMAÇÃO DA DER. MATÉRIA COGNOSCÍVEL DE OFÍCIO. OMISSÃO. INOVAÇÃO EM EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA.
+1. Conforme entendimento firmado no julgamento do Tema 995/STJ, a reafirmação da DER é matéria cognoscível de ofício pelo juiz, nos termos do art. 493 do CPC.
+2. Incitado o Tribunal de origem a manifestar-se, em embargos de declaração, sobre aludida matéria, seu silêncio configura violação ao art. 1.022, II, do CPC, não havendo falar em inovação recursal.
+3. Agravo conhecido para conhecer do recurso especial e dar-lhe provimento.
+(AREsp 2.533.071/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/09/2024, DJe 23/09/2024).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de, reconhecida a violação do art. 1.022 do CPC, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre a relevante questão que lhe foi submetida pela parte embargante.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL DE ORIGEM, DE QUESTÃO SUSCITADA EM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS QUE SE IMPÕE. AGRAVO CONHECIDO PARA DAR PROVIMENTO A O RECURSO ESPECIAL.
