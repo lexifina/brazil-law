@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Para rever o entendimento firmado pelas instâncias ordinárias de que restaram preenchidos os requisitos da usucapião, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+2. Nos termos dos artigos 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a indicação de divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por EMILIA APARECIDA DE OLIVEIRA contra a decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"DUPLA APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. IMÓVEL OBJETO DE HERANÇA. POSSIBILIDADE DE USUCAPIÃO POR CONDÔMINO SE HOUVER POSSE EXCLUSIVA. AUSÊNCIA DOS REQUISITOS NECESSÁRIOS PARA RECONHECIMENTO DA USUCAPIÃO. ACORDO TÁCITO DE UTILIZAÇÃO DO BEM. ATOS DE MERA PERMISSÃO QUE NÃO INDUZEM POSSE. DESCARACTERIZAÇÃO DO ANIMUS DOMINI. ALUGUEL POR USO EXCLUSIVO DE BEM COMUM POR HERDEIRO. TERMO INICIAL. DATA DA RECONVENÇÃO. DANO MORAL. REQUISITOS NÃO EVIDENCIADOS. 1. Vislumbra-se ser possível, em tese, ao herdeiro interessado postular em juízo a usucapião do bem a fim de obter a constituição de propriedade exclusiva em seu favor, desde que demonstre efetivamente o cumprimento de todos os requisitos legais para a declaração da prescrição aquisitiva. 2. Os atos de tolerância de um coproprietário em relação ao outro não permitem a configuração da usucapião. Somente na hipótese de ficar caracterizado o abandono do imóvel pelo coproprietário é que poderia ser invocada a usucapião, desde que demonstrada a posse mansa, pacífica e ininterrupta e, no caso, exclusiva, com animus domini, o que não restou demonstrado. 3.
+Registra-se que o uso exclusivo de um bem por um dos compossuidores ou condôminos gera para os outros o direito ao recebimento de aluguéis, na proporção da quota que detém sobre o imóvel, até que se efetive a respectiva partilha, sob pena de enriquecimento sem causa. Nesta linha de raciocínio, é razoável e devido o arbitramento de aluguéis mensais pelo uso exclusivo do imóvel em comum, nos termos do artigo 1.322 do Código Civil, sob pena de enriquecimento ilícito da parte que o usufrui. 4. Em relação ao termo inicial da obrigação de pagar o locatício arbitrado, este deve ser fixado na data da ciência do pedido da parte contrária, no caso, a data do pleito reconvencional. 5. Não há dúvida de que houve um desgaste nas relações familiares das partes envolvidas, todavia, nada significativo a ponto de violar o direito de personalidade dos recorrentes, razão pela qual impõe-se a confirmação da negativa do pleito por indenização por danos morais. APELOS CONHECIDOS. PRIMEIRO APELO PARCIALMENTE PROVIDO. SEGUNDO APELO DESPROVIDO" (e-STJ fl. 567/568).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 589/604).
+Nas razões do recurso especial, a recorrente sustenta, além da divergência jurisprudencial, violação do artigo 1.238 do Código Civil.
+Pleiteia pelo reconhecimento da usucapião extraordinária.
+Aduz que
+"(..)
+se faz cristalina a reforma do r. acórdão, vez que a contestação dos RECORRIDOS na lide processual não pode ser causa para afastamento no animus de posse da RECORRENTE, bem como o abandono do imóvel pelos coproprietários ser requisitos indispensável para o reconhecimento da usucapião extraordinária" (e-STJ fl. 619).
+Contrarrazões às e-STJ fls. 631/642.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+1. Para rever o entendimento firmado pelas instâncias ordinárias de que restaram preenchidos os requisitos da usucapião, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+2. Nos termos dos artigos 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a indicação de divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No presente caso, o Tribunal de origem entendeu que foram preenchidos os requisitos para o reconhecimento da usucapião nos seguintes termos:
+"(..)
+Primeiramente, é de consignar que meros atos de tolerância não induzem posse com animus domini ou ad usucapionem.
+Embora a apelante alegue a posse mansa e pacífica sobre a coisa, o fato de os demais herdeiros contestarem tal pleito, por si só, já é suficiente para afastar a posse ad usucapionem.
+Isso porque restou claro que os herdeiros apenas autorizaram a recorrente a permanecer no imóvel, após o falecimento da genitora, por ato de mera tolerância.
+Vale ressaltar que essa permissão não pode ser confundida com abandono, porque os demais irmãos não abdicaram do direto dos quais são titulares, mas simplesmente permitiram que a autora residisse na casa em razão dos laços familiares.
+Os atos de tolerância de um coproprietário em relação ao outro não permitem a configuração da usucapião. Somente na hipótese de ficar caracterizado o abandono do imóvel pelo coproprietário é que poderia ser invocada a usucapião, desde que demonstrada a posse mansa, pacífica e ininterrupta e, no caso, exclusiva, com animus domini, o que não restou demonstrado.
+Destarte, a autora jamais teve a posse ad usucapionem do imóvel, já que não teve a posse exclusiva e ali residia por ato de permissão da genitora, enquanto viva e, após, dos demais irmãos.
+Com efeito, com a morte da genitora (Dona Sebastiana), todos os herdeiros receberam a posse e a propriedade do todo unitário, pelo princípio da saisine.
+Tal princípio, disposto no art. 1.784, do Código Civil, dispõe que, no momento da morte, "a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários."
+Assim, diante do óbito da genitora, todos os coherdeiros, notadamente os irmãos da apelante, passaram a deter a posse do imóvel sobre os bens a inventariar, incluindo o imóvel em discussão, envolvendo a quota parte de todos os herdeiros, em igualdade.
+Em conformidade com o art. 1.208 do CC: "Não induzem posse os atos de mera permissão ou tolerância assim como não autorizam a sua aquisição os atos violentos, ou clandestinos, senão depois de cessar a violência ou a clandestinidade".
+Ainda, não houve, tampouco, transmutação do caráter da posse, observando-se que nos termos do art. 1.203, do CC: "Salvo prova em contrário, entende-se manter a posse o mesmo caráter com que foi adquirida".
+Nesse contexto, não há se falar que os requisitos da usucapião extraordinária foram preenchidos, faltando-lhe a posse exclusiva com efetivo animus domini" (e-STJ fls. 562/563).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, de que restaram preenchidos os requisitos da usucapião seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO SUFICIENTE. INEXISTÊNCIA DE OFENSA AO ART. 489 DO CPC. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. USUCAPIÃO. REQUISITOS. VERIFICAÇÃO QUE DESAFIARIA O REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC. CABIMENTO. EMBARGOS PROTELATÓRIOS. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, NÃO PROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito e fundamentada corretamente a decisão recorrida, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+2. Conforme a jurisprudência deste STJ, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC.
+3. Hipótese em que o TJSP afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide. Reversão do julgado que demandaria o reexame de provas, atraindo o óbice da Súmula n. 7 do STJ.
+4. Rever as conclusões quanto aos requisitos autorizadores da usucapião demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n. 7 do STJ.
+5. Correta a aplicação da penalidade prevista no art. 1.026, § 2º, do CPC quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos segundos embargos de declaração.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido" (AREsp 2.883.650/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. O acolhimento da pretensão recursal quanto ao preenchimento ou não dos requisitos da usucapião extraordinária demandaria o revolvimento de matéria fática e reexame do substrato probatório dos autos, providência obstada, na via eleita, pela Súmula 7 do STJ.
+2. A irregularidade registral do imóvel não impede a aquisição pela usucapião.
+3. Agravo interno desprovido" (AgInt no AgInt no REsp 1.932.225/DF, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DOS REQUISITOS. REVISÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Quando o pedido possui mais de um fundamento e o juiz acolhe apenas um deles, a apelação devolve ao tribunal o conhecimento dos demais (art. 1.013, § 2º, do Código de Processo Civil).
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+3. Não se admite a revisão do entendimento do Tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido" (AgInt no AREsp 1.443.549/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023).
+A divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Não basta a simples transcrição de ementas ou de trechos dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ademais, é indispensável a indicação do dispositivo de lei federal infraconstitucional objeto da divergência, o que também não ocorreu no caso.
+Nesse sentido:
+"AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CABIMENTO. HIPÓTESES. ART. 1.015 DO CPC/2015. ROL TAXATIVO MITIGADO. TEMA Nº 988/STJ. URGÊNCIA. INEXISTENTE. VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO. DECENAL. PRAZO DECADENCIAL. INEXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o rol do art. 1.015 do CPC é de taxatividade mitigada, admitindo a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. (Tema n. 988/STJ). Precedentes.
+2. No caso, a insurgência da agravante não se reveste de urgência e, portanto, não enseja a mitigação da taxatividade do rol do art. 1.015 do CPC.
+3. A pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+4. Nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo conhecido para negar provimento ao recurso especial"
+(AREsp n. 2.049.517/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+É o voto.
