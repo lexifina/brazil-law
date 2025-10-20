@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por DAIANA SIQUEIRA DE FREITAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou a ordem no HC n. 5258279-26.2025.8.21.7000.
+Consta dos autos que a recorrente foi presa preventivamente em 9/6/2025 , no âmbito da "Operação Firma - Fase II", que apura a prática, em tese, dos crimes de organização criminosa e lavagem de dinheiro, no contexto de facção criminosa ("Os Tauras").
+Inconformada com a duração da custódia na fase investigativa, a Defesa impetrou habeas corpus na origem, cuja ordem foi denegada.
+No presente recurso, a recorrente alega a subsistência do constrangimento ilegal, argumentando que a prisão já perdura por tempo desproporcional sem o oferecimento de denúncia. Aduz que a mera finalização do inquérito não afasta a mora processual, uma vez que o Ministério Público dispõe de prazo elastecido para se manifestar, podendo, inclusive, requisitar novas diligências.
+Pleiteia, liminarmente e no mérito, o relaxamento da prisão ou, subsidiariamente, sua substituição por medidas cautelares diversas.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+A aferição de eventual constrangimento ilegal por excesso de prazo não resulta de uma simples soma dos prazos processuais. Trata-se de uma análise que convoca a aplicação do princípio da razoabilidade, segundo o qual a demora no trâmite processual deve ser avaliada à luz das particularidades do caso concreto. A mera extrapolação dos prazos legalmente previstos não induz, de forma automática, o reconhecimento da ilegalidade, sendo imprescindível a demonstração de que a delonga é injustificada e decorre de desídia do aparato judicial (AgRg no HC n. 907.485/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+A análise, portanto, é casuística e demanda uma ponderação entre a duração da prisão e a complexidade da causa, a pluralidade de agentes, a necessidade de diligências específicas (como a realização de perícias) e a eventual contribuição da defesa para a demora processual.
+No caso em exame, o Tribunal de origem, ao analisar a questão, apresentou fundamentação idônea para afastar, por ora, a alegação de mora estatal injustificada. Confira-se o seguinte trecho do acórdão impugnado (fl. 31):
+Por outro turno, constrangimento ilegal como decorrência de excesso de prazo na formação da culpa constitui antiga criação pretoriana que, preteritamente, contemplava mera soma de prazos processuais. Todavia, justamente por resultar de tal criação, com o passar do tempo, constatando-se não ser razoável a desconsideração de circunstâncias peculiares a cada processo, passou a jurisprudência a se orientar no sentido de que a determinação de eventual excesso não decorre de mera operação aritmética, devendo levar em conta fatores outros, tendo-se como inaceitável a extrapolação dos prazos, se decorrente de inércia ou negligência do juízo, não se podendo ter por abusiva, se justificada por razões outras, como complexidade da causa e atuação das partes.
+No caso presente, entretanto, não se evidencia o alegado constrangimento ilegal, pois, segregada a paciente em 9 de junho de 2025, o inquérito policial foi concluído com o indiciamento de quarenta e oito investigados, entre os quais Daiana, indiciada pelos crimes de organização criminosa e lavagem de dinheiro (quatro vezes), tendo sido juntado o relatório final no último dia 4 e expedida, no dia 16, intimação eletrônica ao Ministério Público, ainda pendente de abertura.
+No caso concreto, o acórdão impugnado está em conformidade com a orientação de que a complexidade da causa justifica a dilação dos prazos processuais. Trata-se de investigação de notória envergadura, que apura a atuação de uma sofisticada organização criminosa dedicada à lavagem de capitais em larga escala, com a suposta movimentação de centenas de milhões de reais e o indiciamento de quarenta e oito agentes.
+Nesse contexto, a alegação de inércia estatal não se sustenta. O feito tem tramitado de forma regular, compatível com as suas peculiaridades. A conclusão do inquérito policial representou um avanço significativo, afastando a alegação de paralisação indevida na fase pré-processual, conforme bem pontuado pelo Tribunal de origem.
+Ademais, em consulta ao andamento do feito na origem, observa-se o superveniente declínio de competência para a Justiça Federal, em razão da identificação de supostos crimes contra o sistema financeiro nacional na modalidade "dólar-cabo", o que revelar uma faceta ainda mais complexa da atuação delitiva, reforçando a necessidade de um trâmite mais cauteloso, e não a desídia do aparato estatal.
+Nesse contexto, a dilação temporal para o oferecimento da denúncia mostra-se justificada, não havendo que se falar, por ora, em violação ao princípio da razoável duração do processo.
+Em casos similares, assim já se decidiu:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. FRAUDE ELETRÔNICA. EXCESSO DE PRAZO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. A alegação de excesso de prazo não se sustenta, considerando a complexidade do caso e a pendência de definição de competência jurisdicional.
+5. As condições pessoais favoráveis do agravante não são suficientes para afastar a prisão preventiva, diante da presença dos requisitos autorizadores da custódia cautelar.
+IV. Dispositivo e tese
+6. Recurso não provido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida para garantia da ordem pública em casos de fraudes eletrônicas de grande repercussão social. 2. A complexidade do caso e a pendência de definição de competência justificam eventual excesso de prazo para o oferecimento da denúncia".
+Dispositivos relevantes citados: CPP, art. 282, II; CPP, art. 46.
+Jurisprudência relevante citada: STJ, AgRg no HC 894.821/MG, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 13/5/2024; STJ, AgRg no HC 850.531/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023.
+(AgRg no RHC n. 210.174/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 30/4/2025, DJEN de 8/5/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FALSIFICAÇÃO, CORRUPÇÃO, ADULTERAÇÃO OU ALTERAÇÃO DE PRODUTO DESTINADO A FINS TERAPÊUTICOS OU MEDICINAIS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DA CONDUTA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. EXCESSO DE PRAZO NÃO CONFIGURADO. COMPLEXIDADE DA INVESTIGAÇÃO. CERCEAMENTO DE DEFESA. PREJUÍZO NÃO CONSTATADO. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+3. O Tribunal de origem afastou o excesso de prazo para o oferecimento da denúncia, considerando a complexidade da investigação, em que é apurada uma pluralidade de fatos supostamente ilícitos cometidos por inúmeros investigados com procuradores distintos.
+(..)
+5. Agravo regimental improvido.
+(AgRg no RHC n. 211.924/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 30/4/2025, DJEN de 7/5/2025; grifamos.)
+Afastado o constrangimento ilegal alegado, revela-se incabível a aplicação de medidas cautelares alternativas, destacando-se que a existência de fundamentos suficientes para a manutenção da custódia preventiva da recorrente já foi reconhecida por esta Corte, nos autos do HC n. 1.023.923/RS.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
