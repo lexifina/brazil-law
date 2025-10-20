@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BMG S.A. contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (fl. 32):
+AGRAVO DE INSTRUMENTO. Execução Fiscal. Multa aplicada pelo PROCON. Depósito em dinheiro, para oferta de Embargos à Execução, com efeito suspensivo. Requerimento posterior de substituição do dinheiro por seguro garantia. Decisão indeferindo o pleito. Insurgência recursal. A despeito de o seguro garantia ter previsão na Lei nº 6.830/90, consoante a alteração pela Lei nº 13.043/2014, o C. Superior Tribunal de Justiça entende que a substituição, especialmente, em se tratando de Execução Fiscal, o recebimento de seguro garantia ou carta fiança não se pode dar por simples conveniência do Executado, havendo necessidade de comprovação de que o seguro ou a carta, em substituição ao dinheiro, lhe é mais benéfico, justamente, em razão do "princípio da menor onerosidade". Não há elementos que permitam concluir que o recebimento do seguro garantia se faz necessário, em especial em detrimento do depósito de dinheiro. Art. 151, II, do CTN, que prevê que apenas o depósito em dinheiro acarreta a suspensão da exigibilidade do crédito tributário. Fiança bancária ou o seguro garantia não atingem essa finalidade, se prestando, tão somente, a permitir que os embargos sejam analisados e julgados. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (fl. 66):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. Acordão que desproveu o recurso de agravo de instrumento. Execução Fiscal. Multa aplicada pelo PROCON. Depósito em dinheiro, para oferta de Embargos à Execução, com efeito suspensivo. Requerimento posterior de substituição do dinheiro por seguro garantia. Insurgência recursal. O recurso não tem caráter integrativo, mas, apenas, almeja a rediscussão de matéria já analisada e decidida. Inexistência de omissão, contradição ou obscuridade. As questões trazidas em sede embargos de declaração foram, devidamente, analisadas e refutadas pelo Acórdão. In casu, não há qualquer violação aos artigos de lei citados pela Parte Autora, tendo em vista que este Colegiado, no momento de decidir, observou o que preconiza os artigos 371, do CPC. Aplicação ao caso da súmula nº 52, deste Tribunal. Intuito de prequestionamento. RECURSO DESPROVIDO.
+Em  seu  recurso  especial  de  fls.  77-89, a parte  recorrente sustenta  violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC, sob o argumento de que, não obstante as claras omissões apontadas nos embargos declaratórios, a Turma Julgadora local os rejeitou, com o singelo e infundado argumento de que se pretendia a modificação do julgado por meio de recurso inadequado, persistindo, portanto, em sua postura de não enfrentar diretamente as questões por meio deles suscitadas.
+Contrarrazões às fls. 107-119.
+O Tribunal de origem não admitiu o recurso especial, tendo a parte recorrente apresentado agravo em recurso especial (fls. 137-148).
+Contraminuta às fls. 152-165.
+É  o  relatório.
+A irresignação não merece prosperar.
+De início, saliento que a parte agravante rebateu os fundamentos de inadmissibilidade lançados pela Corte de origem, razão pela qual conheço do recurso.
+No entanto, o recurso especial não comporta conhecimento.
+Em REsp (fls. 77-89), a parte  recorrente afirma que foram opostos embargos de declaração em face do acórdão que julgou seu agravo de instrumento e que, não obstante as claras omissões apontadas nos declaratórios, a Turma Julgadora local os rejeitou, com o singelo e infundado argumento de que se pretendia a modificação do julgado por meio de recurso inadequado, persistindo, portanto, em sua postura de não enfrentar diretamente as questões por meio deles suscitadas.
+Percebe-se, pois, que as razões contidas em REsp são vagas e genéricas, o que configura evidente deficiência na fundamentação, impondo, assim, a aplicação do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE ALIMENTOS CONTRA AVÔ. EXCESSO DE EXECUÇÃO NÃO EVIDENCIADO. SUSPENSÃO DO MANDADO DE PRISÃO SEM PREJUÍZO A ULTERIOR ANÁLISE DOS REQUISITOS. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 525, §1º, V, E 528, §8º, DO CPC. MERA ALUSÃO A DISPOSITIVOS DE LEI. AUSÊNCIA DE DEMONSTRAÇÃO DE VULNERAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. PRETENSÃO DE REEXAME DE FATOS E PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+(..)
+III. Razões de decidir
+3. O recurso especial tem natureza vinculada e para o seu cabimento, é imprescindível que a parte recorrente demonstre de forma clara e objetiva de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão.
+Incidência da Súmula 284 do STF, por analogia. (AgInt no AREsp n. 1.211.354/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/3/2020, DJe de 1/4/2020.)
+4. A mera menção superficial de artigos de lei ou exposição do tratamento jurídico da matéria como o recorrente entende correto, sem o adequado e necessário cotejo entre o conteúdo preceituado pela norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal, configura fundamentação deficiente, o que atrai a incidência da Súmula 284 do STF.
+(..)
+IV. Dispositivo 7. Recurso não conhecido.
+(AREsp n. 2.001.449/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 16/6/2025, DJEN de 27/6/2025.)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL.
