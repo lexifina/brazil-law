@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórd ão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Marco Antônio Pereira de Figueiredo contra acórdão proferido pela Primeira Turma, assim ementado (fls. 343/344):
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. JULGAMENTO . OFENSA À EXTRA PETITA COISA JULGADA. NÃO EXISTÊNCIA.
+1. Na origem, cuida-se de agravo de instrumento interposto pela parte ora agravante, com o fim de reformar decisão proferida em sede de cumprimento de sentença cautelar, a qual deferiu a exibição da declaração de imposto de renda do insurgente referente ao ano-calendário 2006, atendendo pleito do Ministério Público do Estado do Rio de Janeiro.
+2. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em homenagem ao princípio da congruência ou da adstrição, o provimento jurisdicional deve ser exarado nos exatos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir da análise de toda a petição inicial e do contraditório efetivo havido entre as partes.
+4. Na espécie, como assentou a instância de origem, a leitura de toda a petição inicial permite inferir que o ano-calendário de 2006 foi alcançado pelo pedido formulado pelo autor da ação cautelar, tanto que esse ponto foi objeto de defesa. Logo, não foram violados os arts. 502 e 509 do CPC.
+5. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta, em síntese, que (fls. 357/359):
+ ..  o e. Tribunal de Justiça do Estado do Rio de Janeiro não dedicou uma linha sequer a apreciar a passividade e a inércia do MPRJ, que culminou com a formulação de pedido absolutamente indevido e feito a destempo, passados já dois anos desde o trânsito em julgado da sentença exequenda, e mais de 8 (oito), desde a resposta da SRF aos ofícios a ela expedidos, remetendo cópia integral da declaração de imposto de renda do agravante apenas referente ao ano-calendário 2005, como lhe fora determinado, e como restou deferido e consignado na r. sentença e no v. acórdão transitados em julgado, que julgaram procedentes a ação cautelar originária ajuizada pelo Ministério Público.
+ ..  o v. acórdão embargado restou omisso acerca do fato de que se o pedido formulado na inicial abrangesse efetivamente a quebra do sigilo fiscal referente ao ano-calendário 2006, e se tivesse sido efetivamente esta a tutela concedida liminarmente e, depois, confirmada em sentença, por que o Ministério Público não manifestou desde logo o seu não cumprimento pela Receita Federal  Não o fez, porque não foi esse seu pedido, e não foi isso o que concedeu o MM. Juízo de primeira instância na fase cognitiva. Não há que prosperar, em fase de cumprimento de sentença transitada em julgado há mais de dois anos, que tornou definitiva a liminar concedida nos estritos termos requeridos pelo Parquet em sua inicial, notadamente a quebra de sigilo fiscal do embargante, requerimento à Superintendência Regional da RFB no Rio de Janeiro "o envio de cópia integral de sua declaração de imposto de renda relativa ao ano de 2005, devendo a Receita também informar o valor de sua movimentação financeira em referido ano". Ora, não se presta a fase de cumprimento de sentença a rejulgar o que foi decidido, infirmando o reconhecimento do direito tal como reconhecido na sentença ou indo além do que nela ficou estabelecido.
+A parte embargada apresentou impugnação, às fls. 367/373.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórd ão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação do embargante.
+De acordo com o previsto no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado às fls. 345/350, que:
+O decisum agravado, por sua vez, concluiu que não há omissão no acórdão recorrido, nem se verificou ocorrência de julgamento extra petita ou ofensa à coisa julgada.
+Em seu agravo interno, a parte agravante discorda desses fundamentos.
+Sem razão, contudo.
+Inicialmente, tal como constatou a decisão agravada, verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre a alegada inércia do estadual na requisição da Parquet declaração de rendimentos do ano 2006, a Corte estadual assim se manifestou (fls. 50/52):
+Assim é que o pedido se extrai da interpretação lógico-sistemática de toda a argumentação desenvolvida na peça inicial, sendo que a sua apreciação nesses moldes não implica em julgamento ultra ou extra petita.
+E, no caso, decorre com clareza da simples leitura da petição inicial (fls. 14/26 - indexador 000013 do Anexo 1) que o Ministério Público do Estado do Rio de Janeiro, ao ajuizar a ação cautelar, objetivou a quebra do sigilo bancário e fiscal do Agravante durante o período de 2003 a 2006, para fins de instruir ação civil pública por ato de improbidade administrativa fundada em suposto enriquecimento ilícito.
+A título de ilustração, vale trazer à colação o seguinte excerto da petição inicial (fls. 18/19 - indexador 000019 do Anexo 1):
+"Ou seja, de um quadro de variação patrimonial incompatível (84,95%) evolui-se à constatação de uma variação patrimonial a descoberto (137,44%), o que, contudo, demanda maiores esclarecimentos por intermédio da decretação da quebra dos sigilos bancário e fiscal do requerido, inclusive relativamente aos anos de 2005 e 2006, o que ora se requer."
+Tanto restou claro o alcance do pedido formulado na inicial da ação cautelar em relação ao ano-calendário de 2006 que o próprio réu, ao longo de toda a sua contestação, impugnou o pedido de quebra de sigilo bancário e fiscal também em relação ao aludido período, conforme se infere, em especial, das seguintes passagens (fls. 150 e - indexador 000019 do Anexo 1):
+"O MP, no curso da ação civil pública por ato de administrativa que propôs em face do Requerido, processo principal apenso, ajuizou a presente ação cautelar incidental requerendo a quebra dos sigilos bancário e fiscal do Requerido aos anos de 2004, 2005 e 2006.(fl. 150 - indexador 000019 do Anexo 1)
+ ..
+Verdadeiro absurdo o pedido do MP, que inclusive já ajuizou a ação de improbidade administrativa que entendeu cabível por conta dos anos de 2000, 2001, 2002 e 2003. Configura verdadeiro abuso de poder, um pedido extemporâneo de quebra de sigilo bancário e fiscal referente aos anos de 2004, 2005 e 2006, sob o manto de uma ação civil pública já ajuizada. Resta evidente a má-fé do Parquet.(fl. 150 - indexador 000019 do Anexo 1)
+ ..
+MESMO REFERINDO-SE A PERÍODOS DISTINTOS DO ESPECIFICADO NA AÇÃO DE IMPROBIDADE JÁ AJUIZADA, que, ainda não foi recebida, este juízo determinou a distribuição por dependência e o apensamento da cautelar aos autos da ação de improbidade já ajuizada, deferindo in totum, sem a oitiva do Requerido, a medida cautelar pleiteada pelo MP para quebra do sigilo bancário e fiscal relativo aos anos de 2004, 2005 e 2006." (fl. 151 - indexador 000147 do Anexo 1)
+Seguindo essa linha de intelecção, decorre como lógica que, ao julgar procedente o pedido formulado na inicial na ação cautelar, a sentença exequenda concedeu a quebra do sigilo bancário e fiscal do agravante em relação aos anos-calendário de 2003 a 2006.
+Assim, não há omissão a ser sanada na via do recurso especial pois a instância a quo, de forma expressa, rejeitou a alegação de inércia do Parquet estadual e apontou trechos do pedido formulado na ação cautelar, que englobou a exibição da declaração de rendimentos do ano 2006.
+É dizer, para o Pretório local, o fato de estar contemplado o ano de 2006 no pedido feito na inicial bastou para legitimar o deferimento da medida, não importando a insistência da parte recorrente em afirmar que o Ministério Público teria "demorado" a peticionar, especificamente, pela solicitação daquele período.
+Lado outro, a leitura dos excertos acima transcritos revela que o acórdão proferido pelo Tribunal estadual não incorreu em julgamento extra petita, nem violou a coisa julgada. Compreendeu-se, diversamente, que toda a extensão das medidas deferidas estava incluída na petição inicial.
+Não menos importante, conclui-se nessa direção enfatizando que o intervalo foi objeto de efetivo contraditório, destacando-se trechos da defesa que insurgiram contra o pedido de informações relativos a anos posteriores ao ajuizamento da ação por improbidade.
+Com isso, embora viável superar o óbice da Súmula 7/STJ quanto ao ponto, a mencionada afronta aos dispositivos de lei federal não se confirma.
+Sobre o tema, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, em homenagem ao princípio da congruência ou da adstrição, o provimento jurisdicional deve ser exarado nos exatos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir da análise de toda a petição inicial.
+ ..
+Portanto, como assentou a instância de origem, a leitura de toda a petição inicial e a extensão do contraditório permite inferir que o ano-calendário de 2006 foi alcançado pelo pedido formulado pelo autor da ação cautelar, o que é corroborado pelos trechos que constam do acórdão, citando efetiva defesa quanto ao ponto, de forma que o intervalo encontra-se validamente contemplado no título executivo. Logo, não foram violados os arts. 502 e 509 do CPC.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. MODIFICAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. O instituto da preclusão consumativa veda a possibilidade de aditar razões a recurso já interposto. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.342.294/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não há que se cogitar da ocorrência de omissão e contradição, uma vez que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do firme posicionamento jurisprudencial aplicável à hipótese dos autos.
+3. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+4. Incide a Súmula 187/STJ quando a parte, devidamente intimada para sanar vício relativo ao recolhimento do preparo (art. 1.007, § 4º, do CPC), interpõe recurso contra o despacho de regularização e não realiza o recolhimento em dobro. Precedentes.
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.900.442/SC, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
