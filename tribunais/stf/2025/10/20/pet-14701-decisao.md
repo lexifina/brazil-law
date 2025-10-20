@@ -1,0 +1,109 @@
+Trata-se de “ação por obrigação de fazer c/c indenização por danos materiais e morais com pedido de antecipação dos efeitos da tutelade inaudita altera pars”, ajuizada pelo requerente no Supremo Tribunal Federal, contra a Bookwire Brasil Ltda e a Google Brasil Internet Ltda.
+
+    Alega-se, em suma, que:
+
+    Ocorreu que a equipe do YouTube, alegando “Provided to YouTube by Bookwire” = Fornecido ao YouTube pela Bookwire, sem autorização do Requerente, criou a página Domingos Borges da Silva – Tema, (https://www.youtube.com/channel/UCvmRcb_CQ1apEAFP70wJFzw), utilizando a Capa do Livro OS GENOCÍDIOS DOS POVOS INDÍGENAS NO BRASIL, e através dela dividiu o primeiro Livro original Audiobook em 34 (trinta e quatro) vídeos áudios, e o segundo, também do original Audiobook em 50 (cinquenta) vídeos áudios, totalizando 84 (oitenta e quatro), e, está publicando de forma aleatória, como se seu fosse, os dois Livros, violando os direitos autorais do Requerente, já que se encontram na íntegra em referida página (doc. 1).
+
+    Requer, por fim:
+
+    que, após os trâmites legais, seja a presente ação julgada procedente, cuja prestação jurisdicional consista em condenar as Requeridas, em promoverem a retirada de quaisquer páginas da Internet, que tenha por objeto divulgar de forma gratuita os livros integrais do Requerente, dos formatos E-books e Audiobooks; bem como sejam condenadas solidariamente em indenizações por danos materiais, que se sugere seja no valor mensurado por número de acessos à página social ilegalmente levada a efeito em nome do Requerente, para publicação de forma gratuita dos livros integrais do mesmo, nos formatos Audiobooks, multiplicados pelo valor de cada livro do formato Impresso, a ser apurado em liquidação de sentença; em danos morais, cujo valor se sugere seja no importe de R$ 200.000,00 (duzentos mil reais), a ser arcados por cada Requerida individualmente, sem prejuízo dos valores eventualmente apurados em multas fixadas, bem como nas custas e despesas processuais, além de honorários advocatícios de sucumbência, que se requer sejam fixados no percentual de 20% (vinte por cento) a serem calculados sobre os valores de condenação, na forma contida no Art. 85, do Código de Processo Civil (doc. 1).
+
+    É o relatório. Decido.
+
+    Bem examinados os autos, verifico que o pedido não merece prosperar.
+
+    Isso porque a competência do Supremo Tribunal Federal encontra-se elencada no texto constitucional, especificamente nos arts. 102 e 103. Vejamos:
+
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+
+    I - processar e julgar, originariamente:
+
+    a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal;
+
+    b) nas infrações penais comuns, o Presidente da República, o Vice-Presidente, os membros do Congresso Nacional, seus próprios Ministros e o Procurador-Geral da República;
+
+    c) nas infrações penais comuns e nos crimes de responsabilidade, os Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, ressalvado o disposto no art. 52, I, os membros dos Tribunais Superiores, os do Tribunal de Contas da União e os chefes de missão diplomática de caráter permanente;
+
+    d) o habeas corpus, sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o habeas data contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal;
+
+    e) o litígio entre Estado estrangeiro ou organismo internacional e a União, o Estado, o Distrito Federal ou o Território;
+
+    f) as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta;
+
+    g) a extradição solicitada por Estado estrangeiro;
+
+    i) o habeas corpus, quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância;
+
+    j) a revisão criminal e a ação rescisória de seus julgados;
+
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+
+    m) a execução de sentença nas causas de sua competência originária, facultada a delegação de atribuições para a prática de atos processuais;
+
+    n) a ação em que todos os membros da magistratura sejam direta ou indiretamente interessados, e aquela em que mais da metade dos membros do tribunal de origem estejam impedidos ou sejam direta ou indiretamente interessados;
+
+    o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;
+
+    p) o pedido de medida cautelar das ações diretas de inconstitucionalidade;
+
+    q) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal;
+
+    r) as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público;
+
+    II - julgar, em recurso ordinário:
+
+    a) o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;
+
+    b) o crime político;
+
+    III - julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida:
+
+    a) contrariar dispositivo desta Constituição;
+
+    b) declarar a inconstitucionalidade de tratado ou lei federal;
+
+    c) julgar válida lei ou ato de governo local contestado em face desta Constituição.
+
+    d) julgar válida lei local contestada em face de lei federal.
+
+    § 1.º A argüição de descumprimento de preceito fundamental, decorrente desta Constituição, será apreciada pelo Supremo Tribunal Federal, na forma da lei.
+
+    § 2º As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal.
+
+    § 3º No recurso extraordinário o recorrente deverá demonstrar a repercussão geral das questões constitucionais discutidas no caso, nos termos da lei, a fim de que o Tribunal examine a admissão do recurso, somente podendo recusá-lo pela manifestação de dois terços de seus membros.
+
+    Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:
+
+    I - o Presidente da República;
+
+    II - a Mesa do Senado Federal;
+
+    III - a Mesa da Câmara dos Deputados;
+
+    IV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do Distrito Federal;
+
+    V - o Governador de Estado ou do Distrito Federal;
+
+    VI - o Procurador-Geral da República;
+
+    VII - o Conselho Federal da Ordem dos Advogados do Brasil;
+
+    VIII - partido político com representação no Congresso Nacional;
+
+    IX - confederação sindical ou entidade de classe de âmbito nacional.
+
+    A hipótese dos autos não se enquadra em nenhum dos permissivos constitucionais acima elencados, de modo a ser inviável a instauração da competência do Supremo Tribunal Federal para processar e julgar o pedido formulado na inicial.
+
+    Posto isso, julgo improcedente a petição (art. 21, § 1°, do RISTF).
+
+    Certifique-se o trânsito em julgado.
+
+    Arquive-se.
+
+    Publique-se.
+
+    Brasília, 20 de outubro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
