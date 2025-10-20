@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ ALBERTO ALBUQUERQUE DE ALMEIDA à decisão desta relatoria, assim ementada (e-STJ, fl. 340):
+RECURSO ESPECIAL. PREVIDENCIÁRIO. AGENTE POLÍTICO. VEREADOR. SEGURADO FACULTATIVO ATÉ A VIGÊNCIA DA LEI N. 10.887/2004. AUSÊNCIA DE RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. CÔMPUTO DE TEMPO PARA FINS DE APOSENTADORIA. INVIABILIDADE. RECURSO ESPECIAL PROVIDO.
+O embargante alega a ocorrência de obscuridade na decisão embargada, ao argumento de que, ao não reconhecer o período em que exerceu cargo de vereador, deveria haver manifestação desta relatoria acerca de o autor fazer jus ou não à concessão da sua aposentadoria, decidindo-se, ainda, se o benefício seria por idade ou por tempo de contribuição.
+Sem impugnação (e-STJ, fl. 362).
+Brevemente relatado, decido.
+Cabe rememorar que essa espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Como bem salientado nas razões dos aclaratórios, não ficou estabelecido se, mesmo excluindo o período sem contribuição previdenciária anterior à edição da Lei n. 10.887/2004, o embargante faria jus ou não a concessão da aposentadoria, e se essa seria por idade ou por tempo de contribuição, o que configura vício do julgado.
+Desse modo, considerando que a questão envolve nova análise do conteúdo fático-probatório dos autos, inviável de apreciação por esta Corte, o retorno dos autos ao Tribunal de origem para proceder à análise do direito à concessão da aposentadoria por idade ou tempo de contribuição, excluído o período sem contribuição, é medida de rigor.
+Assim, acolho os embargos de declaração, com o fim de dar provimento ao recurso especial para afastar o reconhecimento do período sem contribuição previdenciária anterior à edição da Lei n. 10.887/2004, considerando a imprescindibilidade de recolhimento das contribuições relativas ao período em que exercido o cargo de vereador, a fim de averbá-lo para fins de aposentadoria, determinando o retorno dos autos ao Tribunal de origem para que verifique o preenchimento dos requisitos para concessão da aposentadoria, com a exclusão do referido tempo.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIO. EXISTÊNCIA. PREVIDENCIÁRIO. AGENTE POLÍTICO. VEREADOR. SEGURADO FACULTATIVO ATÉ A VIGÊNCIA DA LEI N. 10.887/2004. AUSÊNCIA DE RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. CÔMPUTO DE TEMPO PARA FINS DE APOSENTADORIA. INVIABILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA PROCEDER À ANÁLISE ACERCA DO PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DA APOSENTADORIA, EXCLUÍDO O TEMPO SEM CONTRIBUIÇÃO. EMBARGOS ACOLHIDOS.
