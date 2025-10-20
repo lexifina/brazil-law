@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. QUITAÇÃO PARCIAL DO TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 917 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ART. 3º DA LEI COMPLEMENTAR 207/2024. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Nas razões recursais, a parte agravante apontou violação do art. 3º da Lei Complementar 207/2024; entretanto, não desenvolveu argumentação jurídica que evidenciasse a ofensa assestada, tornando patente a falha na fundamentação do apelo especial. Incidência da Súmula 284 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Cuida-se de agravo desafiando decisão que não admitiu recurso especial, este calcado nas alíneas "a" e "c" do permissivo constitucional, interposto por RAFAEL LUTZ CABRAL e OUTRO, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, ementado nos seguintes termos:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRELIMINAR CONTRARRECUSAL - AUSÊNCIA DE DIALETICIDADE - AFASTADA. MÉRITO. ALEGADA QUITAÇÃO PARCIAL DO TÍTULO EXECUTIVO EXTRAJUDICIAL - EMBARGANTES QUE NÃO COMPROVAM O FATO CONSTITUTIVO DO DIREITO - ART. 373, I, DO CPC. RECURSO DESPROVIDO.
+Havendo impugnação específica quanto aos fundamentos contidos na sentença, a exposição de fato e de direito, as razões do pedido de reforma e pedido de nova decisão, deve ser afastada a alegada ofensa ao princípio da dialeticidade.
+Nos termos do art. 373, do CPC, o ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+No caso, os embargantes não lograram êxito em comprovar que o depósito bancário demonstrado nos autos refere-se ao pagamento parcial do título executivo extrajudicial objeto de execução pelo embargado. (fl. 234)
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente aponta violação dos arts. 917 do CPC/2015; e 3º da Lei Complementar 207/2024, sustentando, em síntese, que "em caso de excesso de execução, o meio cabível para salvaguarda do direito é os embargos à execução. Foi exaustivamente demonstrado que o credor solicitou aos Recorrentes que fizesse o pagamento do valor de R$ 120.000,00 (cento e vinte reais) em conta corrente de sua genitora, conforme demonstrado com o print da conversa e do comprovante de depósito" (fl. 288).
+Contrarrazões às fls. 334-336.
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. QUITAÇÃO PARCIAL DO TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 917 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ART. 3º DA LEI COMPLEMENTAR 207/2024. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Nas razões recursais, a parte agravante apontou violação do art. 3º da Lei Complementar 207/2024; entretanto, não desenvolveu argumentação jurídica que evidenciasse a ofensa assestada, tornando patente a falha na fundamentação do apelo especial. Incidência da Súmula 284 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Inicialmente, no que tange à alegada violação do art. 917 do CPC/2015, tem-se, no ponto, inviável o debate. Isso porque não se verifica o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Súmulas 282 e 356 do STF). A propósito:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REAJUSTE DE BENEFÍCIO. FALTA DE PREQUESTIONAMENTO E INVIABILIDADE DE ANÁLISE DE INSTRUMENTOS CONTRATUAIS E CONTEXTO FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Os temas insertos nos arts. 42 da Lei 6.435/77 e 21 do Decreto 81.240/78, tidos por contrariados, não foram objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração a fim de suprir eventual omissão. É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no REsp 1693829/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO. 1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada. 2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ). 3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe de 1º/08/2014)
+Nas razões recursais, a parte recorrente apontou, ainda, violação do art. 3º da Lei Complementar 207/2024; entretanto, não desenvolveu argumentação que evidenciasse a ofensa ao referido dispositivo legal pelo acórdão recorrido, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai, igualmente, a incidência da Súmula 284 do Supremo Tribunal Federal.
+Acrescente-se, contudo, que o mencionado dispositivo legal citado no corpo da petição recursal claramente figura apenas como recurso de argumentação jurídica; contudo, tal fórmula não se presta para viabilizar a abertura da via especial, na medida em que não atende a requisito constitucionalmente exigido pelo art. 105, III, "a", da Constituição Federal, qual seja a indicação da legislação federal violada. A propósito:
+RECURSO ESPECIAL DA FAZENDA NACIONAL: PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF.  ..  RECURSO ESPECIAL DO PARTICULAR: ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+1. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Recurso especial do PARTICULAR não conhecido.
+(REsp 1.218.260/RS, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, julgado em 16/4/2013, DJe 23/4/2013)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Se houver nos autos a prévia fixação de ho norários de advogado pelas inst âncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É o voto.
