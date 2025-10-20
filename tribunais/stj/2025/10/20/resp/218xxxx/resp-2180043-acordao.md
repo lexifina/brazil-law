@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR. REVISIONAL DE CONTRATO. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. VIOLAÇÃO DO ART. 51, § 1º, CDC. AUSÊNCIA DE ESPECIFICAÇÃO DE INCISOS VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DOS REQUISITOS DO ART. 255, § 1º DO RISTJ. VÍCIO SUBSTANCIAL. RECURSO NÃO CONHECIDO.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC, quando a Corte de origem aborda as questões do litígio, ainda que de forma sucinta.
+2. A ausência de especificação dos incisos, parágrafos e alíneas do artigo tido por contrariado impede o conhecimento do recurso, por deficiência de sua fundamentação, nos termos da Súmula n. 284/STF
+3. O não cumprimento dos requisitos para a demonstração da divergência jurisprudencial caracteriza vício substancial, sendo incabível a concessão do prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do CPC (art. 255, § 1º do RISTJ).
+Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por ADILSON APARECIDO DOS SANTOS, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 568):
+Apelação. Contrato bancário. Ação revisional. Embora admissível a discussão dos contratos anteriores, não se exige a apresentação dos referidos instrumentos para demonstrar a dívida confessada no instrumento objeto de cobrança. Exibição judicial de contratos bancários. Necessidade de atendimento a determinados requisitos para aferição do interesse de agir, nos termos do REsp 1349453/MS, julgado no rito do art. 543-C do CPC, que não foram verificados no caso concreto. Abusividade dos juros remuneratórios. Inocorrência. Alto risco do negócio. Aplicação de entendimento firmado pelo E. STJ. Majoração da verba honorária. Aplicação do § 11 do artigo 85 do CPC de 2015. Sentença de improcedência mantida. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 614-619).
+A parte recorrente alega, preliminarmente, ofensa ao art. 1.022, II e parágrafo único, bem como o art. 489, §1º, IV, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, sustenta que o acórdão estadual contrariou as disposições contidas no artigo 51, §1º, DO CDC, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Afirma, em síntese, que "Em que pese não tenha havido o devido enfrentamento dos fundamentos trazidos em sede de Apelação pelo r. Tribunal a quo, com a menção expressa das teses sustentadas no recurso, este entendeu que os embargos manifestavam mero inconformismo e deviam ser rejeitados, violando, desta maneira, o art. 1.022, II e parágrafo único, bem como o art. 489, §1º, IV, do CPC/15. Em que pese o cabedal jurídico dos Julgadores do Tribunal de origem, nesta feita laboraram em erro, já que perpetraram violação aos dispositivos supracitados, bem como em face do artigo 51, §1º do CDC e Resp 1.060.530/RS." (fl. 624).
+Apresentadas as contrarrazões (fls. 670-682), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 703-704).
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR. REVISIONAL DE CONTRATO. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. VIOLAÇÃO DO ART. 51, § 1º, CDC. AUSÊNCIA DE ESPECIFICAÇÃO DE INCISOS VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DOS REQUISITOS DO ART. 255, § 1º DO RISTJ. VÍCIO SUBSTANCIAL. RECURSO NÃO CONHECIDO.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC, quando a Corte de origem aborda as questões do litígio, ainda que de forma sucinta.
+2. A ausência de especificação dos incisos, parágrafos e alíneas do artigo tido por contrariado impede o conhecimento do recurso, por deficiência de sua fundamentação, nos termos da Súmula n. 284/STF
+3. O não cumprimento dos requisitos para a demonstração da divergência jurisprudencial caracteriza vício substancial, sendo incabível a concessão do prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do CPC (art. 255, § 1º do RISTJ).
+Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O cerne da controvérsia diz respeito à: 1) Constatação de omissão do acórdão recorrido em razão de ausência de fundamentação, não suprida a despeito da interposição de embargos de declaração; e 2) Caracterização de abusividade dos juros pactuados e contrato.
+Da violação dos arts . 489 e 1.022 do CPC
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento à apelação consignou no acórdão o seguinte: "1) Assim, admissível a revisão apenas dos contratos exibidos. São os seguintes os juros cobrados pela ré no contrato impugnado na demanda; 2) Contudo, revendo entendimento, os juros cobrados não devem ser considerados abusivos pelo fato de estarem acima da taxa média do mercado, consoante sustentado na demanda. Isso porque, para análise da abusividade devem ser verificados diversos fatores, tais como o custo dos recursos na época, valor, prazo do financiamento, fontes de renda, garantias ofertadas, perfil de risco, dentre outros elementos e não somente o valor dos juros cobrado nos contratos em comparação com a taxa média do mercado divulgada pelo Bacen; 3) Cumpre destacar que a inversão do ônus da prova é medida excepcional e necessita do preenchimento de certos requisitos como o da verossimilhança das alegações e hipossuficiência, que não estão presentes no caso, pois o autor tinha condições de comprovar os fatos alegados na petição inicial. Assim já decidiu o Superior Tribunal de Justiça" (fl. 573/575 e 577).
+Neste contexto, contata-se que a Corte estadual abordou a incidência do CDC na relação contratual, a abusividade dos juros e a taxa de cada contrato analisado.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito precedente:
+CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. HASTA PÚBLICA. DESFAZIMENTO DA ARREMATAÇÃO DE IMÓVEL. ART. 903, §§ 1º E 2º, DO CPC. SÚMULA 283/STF.
+1. A controvérsia gira em torno da validade da arrematação de um imóvel, cuja anulação foi determinada pelo Tribunal de Justiça do Mato Grosso do Sul. A Corte entendeu que houve remição da dívida. O recorrente, no entanto, sustenta que a remição foi intempestiva, realizada sem o depósito integral do valor devido e somente após a assinatura do auto de arrematação.
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC quando a Corte estadual enfrenta, fundamentadamente, as questões que lhe foram submetidas.
+3. A arrematação torna-se irretratável após a assinatura do auto, conforme dispõe o caput do art. 903 do CPC. No entanto, é possível seu desfazimento se forem comprovados vícios que se enquadrem nas hipóteses excepcionais previstas nos §§ 1º e 2º do referido artigo.
+4. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+5. A falta de cotejo analítico impede o acolhimento do recurso, pois não foi demonstrado em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito sobre a mesma situação fática.
+Recurso especial conhecido em parte e improvido.
+(REsp n. 1.936.100/MS, relator Ministro Humberto Martins, Terceira Turma, DJEN de 15/5/2025.)
+No mesmo sentido: REsp n. 2.139.824/MT, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 29/4/2025 e AREsp n. 2.313.358/MS, relatora Ministra Daniela Teixeira, Terceira Turma, DJEN de 30/6/2025.
+Da violação do art. 51, § 1º do CDC (Súmula n. 284/STF)
+O recorrente sustenta que o acórdão recorrido violou o art. 51, § 1º, do CDC, deixando, contudo, de explicitar qual ou quais incisos do referido dispositivo legal teriam sido violados.
+A ausência de especificação dos incisos, parágrafos e alíneas do artigo tido por contrariado impede o conhecimento do recurso por deficiência de sua fundamentação, nos termos da Súmula n. 284/STF.
+Sobre o tema, cito os precedentes:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. ALEGAÇÃO DE VIOLAÇÃO DE NORMAS CONSTITUCIONAIS. INVIABILIDADE. USURPAÇÃO DE COMPETÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284/STF. PLURALIDADE DE ADVOGADOS. AUSÊNCIA DE PEDIDO DE INTIMAÇÃO EXCLUSIVA. INEXISTÊNCIA DE NULIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SÚMULA N. 284/STF.
+1. Cuida-se de ação de consignação em pagamento, objetivando a efetivação do depósito de quantia devida, no intuito de desonerar o autor da obrigação relativa ao pagamento de bem imóvel.
+2. Não cabe a esta Corte se manifestar, ainda que para prequestionamento, acerca de suposta afronta a princípios ou a artigos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Conforme a jurisprudência desta Corte, "incide ao caso o óbice da Súmula 284 do STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material" (AgInt no AREsp n. 1.766.826/RS, rel. Min. Manoel Erhardt - Desembargador convocado do TRF da 5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021).
+4. O entendimento jurisprudencial desta Corte é no sentido de que, havendo vários advogados constituídos nos autos, é válida a intimação feita em nome de qualquer deles quando ausente pedido de intimação exclusiva no nome de algum.
+5. Indubitável a incidência, no caso, da Súmula n. 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal.
+6. A não realização do necessário cotejo analítico, bem como a apresentação inadequada do dissídio jurisprudencial, não obstante a transcrição de ementas, impedem a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+Agravo interno improvido. (Grifei)
+(AgInt no AREsp n. 2.543.862/RN, Rel. Ministro Humberto Martins, Terceira Turma. julgado em 28/10/2024, DJEN em 30/10/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORIDNÁRIA DE RESPONSABILIDADE OBRIGACIONAL. SEGURO HABITACIONAL. VIOLAÇÃO DE NORMA LEGAL SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+2. Agravo interno a que se nega provimento. (Grifei)
+(AgInt no AREsp n. 2.313.512/SC, Rel. Ministra Maria Isabel Gallotti, Quarta Turma. julgado em 24/3/2025, DJEN em 27/3/2025.)
+Desta feita, o recurso não deve ser conhecido pela alínea "a" do permissivo constitucional.
+Da divergência jurisprudencial
+Quanto ao ponto, o apelo nobre não comporta conhecimento, uma vez que deixou a recorrente de apresentar certidão, cópia autenticada ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tenha sido publicado o acórdão divergente, ou ainda a reprodução de julgado disponível na internet, com indicação da respectiva fonte (art. 255, § 1º, do RISTJ).
+A propósito, cito o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA. COMPROVAÇÃO. AUSÊNCIA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. ART. 1.043, § 4º, DO CPC. DESCUMPRIMENTO.
+1. Nos termos da jurisprudência pacífica desta Corte, para se comprovar a existência de dissídio em embargos de divergência, devem ser cumpridas as seguintes diligências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial, autorizado ou credenciado, no qual eles se achem publicados, inclusive, em mídia eletrônica; e d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+2. É pacífico o entendimento desta Corte de que o não cumprimentos dos requisitos para a demonstração da divergência jurisprudencial caracteriza vício substancial, sendo incabível a concessão do prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do CPC, que somente é aplicado aos casos em que a parte deve sanar vício estritamente formal. Precedente.
+3. No caso, o embargante não colacionou aos autos o inteiro teor do julgado paradigma, tendo em vista que o referido aresto está desacompanhado da certidão de julgamento.
+4. A juntada da ementa e do voto na íntegra não supre a necessidade de juntada da certidão de julgamento, documento fundamental à aferição temporal dos requisitos formais de julgamento dos embargos de divergência que não foi juntado aos autos, tendo o embargante, somente neste momento processual, feito o apensamento.
+Agravo interno improvido. (Grifei)
+(AgInt no AREsp n. 2.543.862/RN, Rel. Ministro Humberto Martins, Terceira Turma. julgado em 28/10/2024, DJEN em 30/10/2024.)
+Ante o exposto, não conheço do recurso especial, diante dos óbices da Súmulas n. 284/STF e art. 255, § 1º, do RISTJ.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+É como penso. É como voto.
