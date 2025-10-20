@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO PROVOCADO POR EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DESCABIMENTO. ART. 921, § 5º, DO CPC. EXTINÇÃO SEM ÔNUS PARA AS PARTES. INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ.
+1. O art. 921, § 5º, do CPC, com redação dada pela Lei nº 14.195/2021, estabeleceu nova disciplina para a prescrição intercorrente, determinando expressamente que a extinção ocorre sem ônus para as partes, o que afasta a condenação em custas e honorários sucumbenciais.
+2. A jurisprudência do STJ consolidou-se no sentido de que a isenção de ônus sucumbenciais prevista no art. 921, § 5º, do CPC, aplica-se independentemente da forma como a prescrição intercorrente foi reconhecida, seja de ofício pelo magistrado ou por provocação da parte.
+3. É indevida a condenação do exequente em honorários advocatícios com fundamento no princípio da causalidade, ainda que tenha havido resistência ao reconhecimento da prescrição, sob pena de o devedor beneficiar-se duplamente do descumprimento de sua obrigação.
+4. O marco temporal para aplicação da nova redação do art. 921, § 5º, do CPC é a data de prolação da sentença ou do acórdão que reconhece a prescrição intercorrente, aplicando-se aos processos em curso quando proferida decisão após 26/8/2021.
+5. Dissídio jurisprudencial prejudicado. Precedentes invocados anteriores à vigência da Lei nº 14.195/2021 não se amoldam à hipótese dos autos.
+Recurso especial conhecido e improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por JAIRO JUSTINO PEREIRA, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+"DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRELIMINAR EM CONTRARRAZÕES. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA POR AUSÊNCIA DE CITAÇÃO NO PRAZO LEGAL. ART. 240, §§ 2º E 3º DO CPC/73, VIGENTE À ÉPOCA DO AJUIZAMENTO DA AÇÃO. DECURSO DO PRAZO PRESCRICIONAL VERIFICADO. DEVER DA PARTE AUTORA EM VELAR PELA CONSUMAÇÃO DA CITAÇÃO. DESÍDIA CONFIGURADA. ENCARGOS DE SUCUMBÊNCIA. DESCABIMENTO. NOVA REDAÇÃO DO ART. 921, § 5º, DO CPC. EXTINÇÃO SEM QUE OCORRE SEM ÔNUS PARA AS PARTES. 1. Havendo ataque aos fundamentos da sentença, para a satisfação do requisito da regularidade formal previsto no art. 1.010, inc. II, do CPC, não há que se falar em não conhecimento do recurso por desobediência ao Princípio da Dialeticidade. 2. O transcurso do prazo prescricional de cinco anos sem que fosse promovida a citação válida dos executados impõe a ratificação do veredicto que pronunciou a prescrição da pretensão executiva, sem que se possa debitar o fato quer ao cartório quer ao Poder Judiciário, afastando-se a incidência da súmula 106 do STJ. 3. Diante da alteração legislativa introduzida pela Lei nº 14.195, de 26.08.21, uma vez reconhecida a prescrição, há dispensa das partes do pagamento dos encargos de sucumbência, conforme agora previsto no artigo 921, § 5º, do CPC, mesmo porque a execução foi promovida pelo inadimplemento dos devedores, circunstância que não afeta a responsabilidade pelo pagamento das verbas de sucumbência ao credor, em razão da extinção do feito, aplicando-se o princípio da causalidade. RECURSO PARCIALMENTE PROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 411-415).
+Nas razões do recurso especial, a parte recorrente alega violação dos artigos 14, 85, §§1º e 2º, e 921, §5º, do CPC.
+Defende o recorrente que são devidos honorários advocatícios sucumbenciais em favor do executado quando acolhida a exceção de pré-executividade com reconhecimento da prescrição, com base no princípio da causalidade.
+Argumenta divergência jurisprudencial com precedentes do próprio STJ que estabelecem o cabimento de honorários advocatícios na extinção da execução por prescrição do direito material.
+Sustenta que o acórdão recorrido aplicou incorretamente a Lei nº 14.195/2021, que alterou a redação do art. 921, §5º, do CPC, para afastar a condenação em honorários sucumbenciais.
+Apresentadas as contrarrazões, sobreveio juízo de admissibilidade positivo na instância de origem (575-579).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO PROVOCADO POR EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DESCABIMENTO. ART. 921, § 5º, DO CPC. EXTINÇÃO SEM ÔNUS PARA AS PARTES. INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ.
+1. O art. 921, § 5º, do CPC, com redação dada pela Lei nº 14.195/2021, estabeleceu nova disciplina para a prescrição intercorrente, determinando expressamente que a extinção ocorre sem ônus para as partes, o que afasta a condenação em custas e honorários sucumbenciais.
+2. A jurisprudência do STJ consolidou-se no sentido de que a isenção de ônus sucumbenciais prevista no art. 921, § 5º, do CPC, aplica-se independentemente da forma como a prescrição intercorrente foi reconhecida, seja de ofício pelo magistrado ou por provocação da parte.
+3. É indevida a condenação do exequente em honorários advocatícios com fundamento no princípio da causalidade, ainda que tenha havido resistência ao reconhecimento da prescrição, sob pena de o devedor beneficiar-se duplamente do descumprimento de sua obrigação.
+4. O marco temporal para aplicação da nova redação do art. 921, § 5º, do CPC é a data de prolação da sentença ou do acórdão que reconhece a prescrição intercorrente, aplicando-se aos processos em curso quando proferida decisão após 26/8/2021.
+5. Dissídio jurisprudencial prejudicado. Precedentes invocados anteriores à vigência da Lei nº 14.195/2021 não se amoldam à hipótese dos autos.
+Recurso especial conhecido e improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Presentes os requisitos de admissibilidade do recurso especial, passo ao exame do mérito.
+Cinge-se a controvérsia a verificar se são devidos honorários advocatícios sucumbenciais ao executado quando a extinção da execução, por prescrição intercorrente, ocorre a requerimento da parte.
+A questão em discussão consiste em definir se o art. 921, §5º, do CPC, com redação dada pela Lei n. 14.195/2021, ao estabelecer que a extinção ocorre "sem ônus para as partes", aplica-se apenas ao reconhecimento de ofício ou também quando provocado pela parte.
+O dispositivo legal em análise dispõe:
+"Art. 921. Suspende-se a execução:
+ ..
+§5º O juiz, depois de ouvidas as partes, no prazo de 15 (quinze) dias, poderá, de ofício, reconhecer a prescrição no curso do processo e extingui-lo, sem ônus para as partes."
+Até a entrada em vigor da Lei n. 14.195, de 26/8/2021, que alterou a redação do art. 921, §5º, do CPC, vigorava o entendimento de que, embora tivesse ocorrido a prescrição intercorrente, o executado, ao não quitar seus débitos, motivou o ajuizamento da ação, razão pela qual deveria ser condenado ao pagamento de custas processuais e honorários sucumbenciais, em observância ao princípio da causalidade.
+Entretanto, diante da alteração legislativa introduzida pela Lei nº 14.195, que entrou em vigor em 26/8/2021, nos casos em que declarada a prescrição intercorrente - hipótese em exame - a jurisprudência desta Corte Superior consolidou-se no sentido que se estabeleceu nova disciplina para a prescrição intercorrente independentemente da forma como foi suscitada, afastando a condenação de quaisquer das partes ao pagamento dos encargos de sucumbência, pois a extinção, conforme o dispositivo legal, ocorre sem ônus para as partes.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS DE SUCUMBÊNCIA. RESISTÊNCIA DO EXEQUENTE. CONDENAÇÃO EM HONORÁRIOS. IMPOSSIBILIDADE. ART. 921, § 5º, DO CPC. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. A sentença que extingue a execução pelo reconhecimento da prescrição intercorrente não enseja a fixação de verba honorária em favor de nenhuma das partes quando prolatada após a entrada em vigor da Lei n. 14.195/2021.
+2. É indevida a condenação do credor nos ônus sucumbenciais, com fundamento no princípio da causalidade, ainda na hipótese em que houve resistência, sob pena de o devedor se beneficiar duplamente, já que não cumpriu sua obrigação.
+3. Recurso especial não provido.
+(REsp n. 2.182.757/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. LEI N. 14.195/2021. VEDAÇÃO À CONDENAÇÃO AO PAGAMENTO DE CUSTAS E HONORÁRIOS DE SUCUMBÊNCIA PELO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. AGRAVO INTERNO NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento a recurso especial em execução de título judicial, discutindo a condenação do exequente ao pagamento de honorários advocatícios em caso de prescrição intercorrente.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se, após a alteração do art. 921, § 5º, do CPC pela Lei n. 14.195/2021, é cabível a condenação do exequente ao pagamento de honorários advocatícios em caso de extinção da execução por prescrição intercorrente.
+III. RAZÕES DE DECIDIR
+3. A alteração do art. 921, § 5º, do CPC pela Lei n. 14.195/2021 estabelece que a extinção da execução por prescrição intercorrente não gera ônus para as partes, afastando a condenação em honorários advocatícios.
+4. A Terceira Turma do STJ já decidiu que, para sentenças proferidas após a vigência da Lei n. 14.195/2021, não cabe a condenação ao pagamento de custas e honorários de sucumbência.
+5. O reconhecimento da prescrição intercorrente não altera o fato de que o executado não cumpriu espontaneamente a obrigação, não podendo se beneficiar do descumprimento.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp n. 2.669.159/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONFIGURADA. NULIDADE PREJUDICADA. CELERIDADE. ECONOMIA PROCESSUAL. EFETIVIDADE. PRIMAZIA DO JULGAMENTO DE MÉRITO. TEORIA DA CAUSA MADURA. DEVEDOR. BENS NÃO ENCONTRADOS. PRESCRIÇÃO INTERCORRENTE. CONFIRMADA. HONORÁRIOS ADVOCATÍCIOS. SUPERVENIÊNCIA DA LEI Nº 14.195/2021. ALTERAÇÃO LEGAL. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS. "EXTINÇÃO SEM ÔNUS". MARCO TEMPORAL. SENTENÇA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Execução de título extrajudicial, ajuizada em 6/11/2018, da qual foi extraído o presente recurso especial, interposto em 6/7/2022 e concluso ao gabinete em 22/9/2022.
+2. O propósito recursal consiste em definir se, após a alteração do art. 921, §5º, do CPC/15, promovida pela Lei nº 14.195/2021, o reconhecimento da prescrição intercorrente e a consequente extinção do processo obstam a condenação da parte que deu causa à ação ao pagamento de honorários sucumbenciais.
+3. A jurisprudência desta Corte pacificou-se em relação à aplicação do princípio da causalidade para o arbitramento de honorários advocatícios quando da extinção do processo em razão do reconhecimento da prescrição intercorrente (art. 85, §10º, do CPC/15).
+4. Todavia, após a alteração promovida pela Lei nº 14.195/2021, publicada em 26/8/2021, faz-se necessário rever tal posicionamento, uma vez que o §5º do art. 921 do CPC/15 dispõe expressamente que não serão imputados quaisquer ônus às partes quando reconhecida referida prescrição.
+5. Nas hipóteses em que extinto o processo com resolução do mérito, em razão do reconhecimento da prescrição intercorrente, é de ser reconhecida a ausência de ônus às partes, a importar condenação nenhuma em custas e honorários sucumbenciais.
+6. A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal).
+7. Hipótese em que a sentença extinguiu o processo em 4/10/2021, ante o reconhecimento da prescrição intercorrente, e o executado/recorrente foi condenado ao pagamento de honorários sucumbenciais, quando do julgamento da apelação do exequente/recorrido.
+8. Recurso especial conhecido e provido para afastar a condenação em honorários advocatícios.
+(REsp n. 2.025.303/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+Importante consignar que a Lei nº 14.195/21 entrou em vigor em 26/8/2021, data de sua publicação, e as alterações por ela introduzidas, quanto às modificações do Código de Processo Civil, começaram a produzir efeitos na mesma data.
+O disposto no art. 14 do CPC estabelece que "A norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada".
+No presente caso, a sentença que reconheceu a prescrição intercorrente foi prolatada em data posterior à vigência da Lei nº 14.195/2021, sendo aplicável a nova redação do §5º do art. 921 do CPC.
+Dessa forma, o acórdão recorrido está em consonância com a legislação vigente e a jurisprudência desta Corte Superior, ao reconhecer que nas hipóteses de extinção da execução por prescrição intercorrente, com a aplicação da nova redação do art. 921, §5º, do CPC, não há condenação em honorários advocatícios, ocorrendo a extinção sem ônus para as partes.
+Por fim, quanto ao alegado dissídio jurisprudencial, anoto que os precedentes invocados pelo recorrente (fls. 320/322) foram julgados anteriormente à entrada em vigor da Lei nº 14.195/2021, de modo que não se amoldam à hipótese dos autos. Ademais, o recorrente "não se desincumbiu do ônus de demonstrar, por precedentes atuais do Superior Tribunal de Justiça, ou da realização de distinguishing, que a jurisprudência desta Corte não estaria no sentido do acórdão recorrido, ou de que os precedentes citados seriam inaplicáveis à hipótese." (AgInt no AREsp n. 2.112.682/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022).
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+É como penso. É como voto.
