@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO DE TRÂNSITO. RECUSA À REALIZAÇÃO DO TESTE DO ETILÔMETRO. INFRAÇÃO DE MERA CONDUTA. APLICAÇÃO DA PENALIDADE. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, mesmo antes da edição do art. 165-A do CTB, a infração prevista no art. 277, § 3º, do Código de Trânsito Brasileiro poderia ser configurada pela simples recusa do condutor em se submeter ao teste do etilômetro, independentemente da demonstração de embriaguez por outros meios de prova.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Fábio da Silva Rosário desafiando decisório de fls. 824/828, que deu provimento ao recurso especial, por entender que "a sanção do art. 277, § 3º, do CTB dispensa demonstração da embriaguez por outros meios de prova" (fl. 827).
+A parte agravante, em suas razões, sustenta, em resumo, que a decisão ora agravada equivocou-se ao reconsiderar a da Presidência desta egrégia Corte, que havia negado seguimento ao especial apelo interposto pelo Detran/ES, com base na Súmula n. 284 do STF, pois a insurgência especial da autarquia, de fato, carecia de requisito fundamental de admissibilidade: a indicação clara e precisa dos dispositivos de lei federal tidos como violados.
+Acrescenta que (fl. 848):
+À época dos fatos, a penalidade para a recusa estava prevista unicamente no § 3º do artigo 277 do CTB (na redação dada pela Lei nº 11.705/2008), que remetia às penalidades e medidas administrativas do artigo 165 do mesmo código. Contudo, o caput e o § 2º do mesmo artigo 277 estabeleciam que a certificação da influência de álcool ocorreria "na forma disciplinada pelo Contran" e que a infração poderia ser caracterizada por diversos meios, incluindo a "constatação de sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora". A norma regulamentadora vigente era a Resolução CONTRAN nº 432/2013. Esta resolução, em seu artigo 5º, § 2º, e Anexo II, detalhava os sinais de alteração da capacidade psicomotora que deveriam ser considerados pelo agente de trânsito.
+Aduz, então, que o auto de infração limitou-se a registrar a recusa do indivíduo, situação insuficiente para ensejar a infração, pois, somente a partir de 4 de maio de 2016, passou a existir no CTB uma infração de trânsito "cujo núcleo seria a negativa às várias formas de testes (não apenas ao bafômetro) com vistas a comprovar a influência de álcool ou outra substância psicoativa" (fl. 854).
+A parte agravada apresentou impugnação às fls. 869/878.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO DE TRÂNSITO. RECUSA À REALIZAÇÃO DO TESTE DO ETILÔMETRO. INFRAÇÃO DE MERA CONDUTA. APLICAÇÃO DA PENALIDADE. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, mesmo antes da edição do art. 165-A do CTB, a infração prevista no art. 277, § 3º, do Código de Trânsito Brasileiro poderia ser configurada pela simples recusa do condutor em se submeter ao teste do etilômetro, independentemente da demonstração de embriaguez por outros meios de prova.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Conforme consta na decisão ora agravada, os dispositivos tidos como violados pela parte agravada foram sim explicitados no bojo de suas razões recursais, quais sejam: arts. 165-A, 277, § 3º, do CTB, afirmando que "a jurisprudência do STJ pacificou o entendimento de que a configuração da infração descrita no art. 277, § 3º, dispensa a demonstração de embriaguez por outros meios de prova" (fl. 721).
+Assim não há falar em aplicação do óbice contido na Súmula n. 284/STF.
+No que tange à matéria de fundo, o Tribunal de origem destacou (fl. 681)
+O auto de infração lavrado no caso concreto, contudo, indica apenas a recusa do condutor na realização do teste do "bafômetro", sem descrever qualquer sinal de embriaguez ou alteração da capacidade psicomotora do motorista (fl. 27). Inexiste, portanto, elementos como depoimento de testemunha, vídeos ou até mesmo confissão por parte do condutor acerca da ingestão de bebida alcoólica, não tendo sido produzida qualquer outra prova para caracterização da infração do art. 165 do CTB
+Nesse viés, afigura-se ilegítima a presunção de embriaguez e configuração da referida infração pela simples recusa do motorista em se submeter ao teste do etilômetro.  ..
+Registro não ser aplicável à espécie a alteração referente ao artigo 165-A, publicada em 04/05/2016, através da Lei nº 13.281/2016, cuja vigência, datada de 1/11/2016, é posterior à infração administrativa (21/02/2016) e não possui eficácia retroativa.
+Com efeito, "o STJ já decidiu que a recusa do condutor em se submeter ao teste do bafômetro, mesmo antes da edição do art. 165-A do CTB, enquadra-se na previsão do art. 277, § 3º, do Código de Trânsito Brasileiro. Nessa linha: AgInt nos EDcl no PUIL 1.955/DF, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe de 18.8.2022" (AgInt no PUIL n. 3.486/RS, Relator Ministro Herman Benjamin, Primeira Seção, julgado em 20/6/2023, DJe de 27/6/2023). Na mesma linha de percepção:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA NACIONAL DE TRÂNSITO. AUTO DE INFRAÇÃO. TESTE DO ETILÔMETRO. RECUSA DO CONDUTOR. NECESSIDADE DE PUNIÇÃO DO DESCUMPRIMENTO DO DEVER POSITIVO PREVISTO NO ART. 277 DO CTB. INFRAÇÃO DE MERA CONDUTA. APLICAÇÃO DA MESMA PENALIDADE PREVISTA PARA A SANÇÃO ADMINISTRATIVA DO ART. 165 DO CTB. VALIDADE DO ATO ADMINISTRATIVO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. No caso dos autos, o Tribunal de origem negou provimento à Apelação do ora agravante, firmando entendimento de que, por se tratar de penalidade administrativa, a simples recusa ao teste do etilômetro justifica a aplicação do artigo 165 do Código de Trânsito Brasileiro, nos termos da disposição contida no art. 277, § 3o. do CTB (fls. 220), concluindo pela validade do auto de infração.
+2. No Recurso Especial sustentou-se a violação do art. 277, § 3o. da Lei 9.503/1997, ao argumento de ser necessário que o agente de trânsito se utilize de outros meios de prova para aferição do estado de embriaguez e caracterização da infração administrativa.
+Afirmou-se que, na ausência de sinais claros de embriaguez, auferidos pela autoridade de trânsito, não há ilegalidade cometida pelo recorrente.
+3. Entretanto, verifica-se que esta Corte Superior consolidou o entendimento exposto na decisão agravada de que, tendo em vista a necessidade de punição do descumprimento do dever positivo previsto no art. 277 do CTB, enquanto infração de mera conduta, a recusa em se submeter ao teste de alcoolemia resulta na aplicação da mesma penalidade prevista para a sanção administrativa do art. 165 do CTB.
+Precedentes: REsp. 1.720.060/RJ, Rel. Min. REGINA HELENA COSTA, DJe 6.12.2018; REsp. 1.758.579/RS, Rel. Min. FRANCISCO FALCÃO, DJe 4.12.2018; AgInt no REsp. 1.719.584/RJ, Rel. Min. HERMAN BENJAMIN, DJe 29.11.2018.
+4. Agravo Interno do Particular desprovido.
+(AgInt no REsp n. 1.540.731/RN, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/6/2019, DJe de 14/6/2019.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
