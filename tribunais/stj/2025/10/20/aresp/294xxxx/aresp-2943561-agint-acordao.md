@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÕES. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentos que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC.
+2. Está correto, pois, o decisum, ao anular o acórdão que apreciou os embargos de declaração e determinar o retorno dos autos ao Sodalício de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Sindicato dos Trabalhadores do Serviço Público Federal do Estado da Bahia contra decisão que conheceu do agravo para dar provimento ao recurso especial, a fim de anular o acórdão que apreciou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+A parte agravante, em suas razões, sustenta que "o agravo deve ser inadmitido nos termos da Súmula 182/STJ, que estabelece ser inviável o agravo que não ataca todos os fundamentos da Decisão agravada, combinado como artigo 932, inciso III, do CPC, que também estabelece que dever ser negado conhecimento a recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida.  ..  Ora, o v. acórdão recorrido se funda justamente na modulação aplicação do Tema 880/STJ, julgado sob o regime de recursos repetitivos. Portanto, evidente que r. Decisão ora agravada merece ser reconsiderada para negar seguimento ao recurso especial.  ..  A r. Decisão também se omite quanto ao alegado e demonstrado em sede de contrarrazões, de que o recurso da União desafia o revolvimento do conjunto probatório, como bem assinalado na Decisão do Tribunal a quo.  ..  Evidente, portanto, que o Tribunal a quo decidiu com acerto ao aplicar a Súmula 7/STJ para inadmitir o recurso especial interposto pela União. Todavia, se o entendimento for pelo afastamento da Súmula 7/STJ, o que se tema apenas para efeitos de argumentação, então a Decisão deveria analisar e considerar se as alegações da União de que o Tribunal a quo estaria obrigado a responder as suas alegações" (fls. 925/927).
+As razões do recurso foram impugnadas às fls. 937/940.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÕES. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentos que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC.
+2. Está correto, pois, o decisum, ao anular o acórdão que apreciou os embargos de declaração e determinar o retorno dos autos ao Sodalício de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte recorrente não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pelo decisum recorrido.
+Como asseverado no referido decisório, a parte agravada, nas razões aduzidas nos embargos declaratórios e no recurso especial (fls. 863/870), alega que "é importante frisar que, neste período, não houve qualquer pedido judicial de fichas financeiras ou demora imputável à União para atrair a incidência do entendimento do STJ proferido no REsp 1.336.026/PE. E no caso em questão, a União Federal sustentou a ocorrência de prescrição, com base no art.1º do Decreto Lei 20.910/32 CF/88, demonstrando a peculiaridade do caso em questão, por meio da interposição de embargos declaratórios, os quais foram rejeitados de forma genérica, sem que fossem apreciadas as distinções em questão.  ..  Conforme anteriormente exposto, não houve qualquer pedido judicial de apresentação de fichas financeiras ou outro documento necessário para o início do cumprimento de sentença. Conforme reconhecido pelo juízo de piso, a demora na propositura da ação executiva se deu em razão exclusivamente da inércia da parte autora em apresentar o requerimento de cumprimento de sentença. Nesse sentido, não há qualquer demora imputável à União para atrair a incidência do entendimento do STJ proferido no REsp 1.336.026/PE".
+Contudo, observa-se que o Tribunal a quo, mesmo provocado em sede de embargos declaratórios, quedou silente sobre a referida argumentação, que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC.
+Está correta, pois, a decisão, ao anular o acórdão que apreciou os embargos de declaração e determinar o retorno dos autos ao Sodalício de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+No mesmo sentido:
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso especial e determinar o retorno dos autos à origem para novo julgamento dos embargos de declaração.
+(AREsp n. 1.553.983/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/5/2020, DJe de 17/6/2020.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
