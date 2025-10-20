@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por ADOLFO MEURER contra decisão que inadmitiu o recurso especial em razão da ausência de prequestionamento (Súmulas 282/STF, 356/STF e 211/STJ) e incidência das Súmulas 7/STJ e 83/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 610):
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO CIVIL. DESCONTOS DE REMUNERAÇÃO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL. REPOSIÇÃO AO ERÁRIO. SITUAÇÃO PECULIAR, NA QUAL EVIDENCIADA, ADEMAIS, A BOA-FÉ DO BENEFICIÁRIO. ACOLHIMENTO DO PEDIDO PARA RECONHECER A ILICITUDE DOS DESCONTOS.
+1. Trata-se o percentual referente à URP de parcela remuneratória que foi incorporada à folha de pagamentos entre as décadas de 1980 e 1990, incorporação que decorreu, tenha ou não havido interpretação equivocada do título, em tese, de decisão judicial (ação trabalhista). Os servidores, saliente-se, figuraram como substituídos, pelo que a iniciativa, de rigor, sequer foi pessoal.
+2. Razoável o entendimento de que, em tese, os valores, até que a rmado em de nitivo que deveria ocorrer a cessação, estavam sendo recebidos (e a própria Administração entendia assim) por força de decisão judicial (ação trabalhista). Sendo este o quadro, aplicável a mesma ratio que inspirou os precedentes do Superior Tribunal de Justiça no sentido de que descabida a restituição de valores recebidos por conta de decisão judicial transitada em julgado.
+3. Pode-se a rmar, assim, sob outra ótica, que plausível a alegação de que após novembro de 2007, quando reformada a decisão de primeiro grau no processo 2002.72.00.012264-9, os pagamentos não se deram por força de decisão provisória, mas, sim, por erro da administração, que continuou a pagar a URP, a despeito da inexistência, a partir de então, de manifestação judicial definitiva afirmando que a cessação da rubrica em 2002 estava correta.
+4. Acolhimento do pedido para declarar indevidos os descontos questionados.
+No recurso especial (fls. 619-627), interposto com fundamento no artigo 105, III, a, da Constituição Federal, a parte recorrente alega violação do art. 54, da Lei n. 9.784/1999, ao argumento de que houve decadência do direito de a Administração promover a reposição ao erário, porque o prazo de cinco anos do art. 54 da Lei n. 9.784/1999 teria começado com a revogação das decisões judiciais que sustentavam a vantagem (2007/2008), momento em que já poderia suprimir a rubrica e cobrar os valores, sem precisar aguardar o trânsito em julgado. Afirma que o processo administrativo só foi instaurado em 10/12/2015, com ciência em 17/06/2016, após o quinquênio, o que torna ilícitos os descontos. Fundamenta o termo inicial na lógica da actio nata, fixando-o na ocorrência da lesão ao direito e não no trânsito em julgado.
+Sem contrarrazões.
+Neste agravo (fls. 704-736) afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recurso especial tem origem em ação proposta por servidor público para reconhecer a ilegalidade do processo administrativo de reposição ao erário de valores recebidos a título de URP/1989, por força de decisão judicial posteriormente revogada, e impedir descontos em sua remuneração. A sentença acolheu em parte os pedidos, afastando a decadência e a prescrição, e o TRF da 4ª Região negou provimento às apelações da União e do autor, mantendo a irrepetibilidade dos valores, reconhecendo a boa-fé e fixando o marco de contagem do prazo para eventual ressarcimento no trânsito em julgado da ação coletiva.
+A Corte de origem afirmou que não há que se falar em decadência no presente feito considerando que não transcorreu o prazo de cinco anos entre o trânsito em julgado da ação de conhecimento e o início do processo administrativo, in verbis (fl. 616):
+ ..
+Por fim, não se verifica a ocorrência da decadência para União promover a pretensão de ressarcimento, tendo em vista que entre o o trânsito em julgado da ação coletiva n. 2002.72.00.012264-9 (14/11/2015) e a data da notificação da autora acerca do processo administrativo (2019 - Evento 1, OUT7 e Evento 14, INF2), não houve o transcurso de mais de cinco anos.
+ ..
+A decisão está em conformidade com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. VANTAGEM PERCEBIDA POR FORÇA DE MEDIDA LIMINAR POSTERIORMENTE REFORMADA. DEVOLUÇÃO DOS VALORES. TERMO INICIAL DO PRAZO DECANDENCIAL. TRÂNSITO EM JULGADO DA DECISÃO QUE JULGOU IMPROCEDENTE O PEDIDO. RECONHECIMENTO DA DÍVIDA. MORTE DO DEVEDOR. INÍCIO DO LAPSO PRESCRICIONAL CONTRA O ESPÓLIO. AGRAVO INTERNO DESPROVIDO.
+1. Discute-se no recurso especial: (i) o termo inicial do prazo para o exercício do direito da administração pública de reaver os valores recebidos por servidor após a reforma da liminar anteriormente concedida; e (ii) a aplicação da teoria da dupla conformidade e do princípio da proteção da confiança ao caso em questão.
+2. Esta Corte Superior possui entendimento de que os valores pagos indevidamente pela administração pública em decorrência de decisão judicial de natureza precária, posteriormente revogada, estão sujeito à decadência, devendo ser cobrados no prazo de 5 (cinco) anos, nos termos do art. 54 da Lei n. 9.784/1999, contados da data do trânsito em julgado da decisão que julgou improcedente o pedido formulado.
+ ..
+7. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.221.475/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/9/2024, DJe de 25/9/2024).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. RECEBIMENTO DE VALORES POR FORÇA DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA POSTERIORMENTE CASSADA. DEVOLUÇÃO AO ERÁRIO. POSSIBILIDADE.
+ ..
+5. Igualmente é assente na jurisprudência do Superior Tribunal de Justiça a orientação de que "o direito de a Administração Pública efetuar o desconto no contracheque dos servidores de valores indevidamente pagos por força de decisão judicial precária, posteriormente revogada, deve ser exercido no prazo de 5 (cinco) anos, nos termos do art. 54 da Lei 9.784/99, contados da data do trânsito em julgado da decisão que julgou improcedente o pedido" (AgRg no AgRg no Ag 1.315.175/DF, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 28/6/2011).
+6. Agravo interno a que se nega provimento.
+(AgInt no RMS n. 48.576/CE, relator Ministro Og Fernandes, Segunda Turma, julgado em 3/9/2019, DJe de 9/9/2019).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM RECEBIDA POR FORÇA DE LIMINAR POSTERIORMENTE REVOGADA. DEVOLUÇÃO. TERMO INICIAL DO PRAZO PRESCRICIONAL. TRÂNSITO EM JULGADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. O STJ entende que o direito da Administração Pública de efetuar o desconto dos servidores e dos titulares de benefícios previdenciários de valores indevidamente pagos por força de decisão judicial precária, posteriormente revogada, deve ser exercido no prazo de 5 (cinco) anos, nos termos do art. 54 da Lei 9.784/99, contados da data do trânsito em julgado da decisão que julgou improcedente o pedido.
+2. Recurso Especial não provido.
+(REsp n. 1.658.946/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe de 20/6/2017).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ADMINISTRAÇÃO PÚBLICA. PODER DE AUTOTUTELA. VALORES PAGOS A SERVIDORES POR FORÇA DE LIMINAR, POSTERIORMENTE CASSADA. RESTITUIÇÃO. PRAZO DECADENCIAL DE CINCO ANOS. ART. 54 DA LEI 9.784/99. APLICABILIDADE. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+1. O direito de a Administração Pública efetuar o desconto no contracheque dos servidores de valores indevidamente pagos por força de decisão judicial precária, posteriormente revogada, deve ser exercido no prazo de 5 (cinco) anos, nos termos do art. 54 da Lei 9.784/99, contados da data do trânsito em julgado da decisão que julgou improcedente o pedido.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AgRg no Ag n. 1.315.175/DF, relator Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 21/6/2011, DJe de 28/6/2011).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. RESSARCIMENTO AO ERÁRIO. DECADÊNCIA. TERMO INICIAL. TRÂNSITO EM JULGADO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
