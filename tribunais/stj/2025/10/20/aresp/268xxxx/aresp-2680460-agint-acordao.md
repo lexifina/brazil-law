@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedida a Sra. Ministra Nancy Andrighi.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. O Tribunal de origem deu provimento ao pleito da exequente para determinar o prosseguimento do cumprimento de sentença e expedição do alvará referente aos valores incontroversos e depositados pelo próprio banco com fins de pagamento.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão monocrática de minha relatoria que negou provimento ao recurso especial nos termos da seguinte ementa (fl. 316):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 113):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. PEDIDO DE EXPEDIÇÃO DE ALVARÁ. VALOR INCONTROVERSO. POSSIBILIDADE. DECISÃO REFORMADA. Viável a liberação dos valores depositados em juízo, considerando a decisão de anterior agravo de instrumento por esta Câmara, provido em parte, aliado ao fato de que os embargos de declaração interpostos pelo recorrido não têm efeito suspensivo. Ademais, o banco não recorreu da decisão que julgou parcialmente procedente a impugnação ao cumprimento da sentença, sobrevindo apenas irresignação da parte ora recorrente, provida em parte, sendo, portanto, incontroversa a quantia depositada em juízo. AGRAVO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 197 e 231).
+A agravante alega, nas razões do agravo interno, que o Tribunal de origem violou os arts. 489, IV, e 1.022, parágrafo único, II, do CPC, porquanto não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que houve omissão quanto ao fato de serem controvertidos os valores que a recorrida busca ver liberados.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada apresentou contraminuta (fls. 348 - 353).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. O Tribunal de origem deu provimento ao pleito da exequente para determinar o prosseguimento do cumprimento de sentença e expedição do alvará referente aos valores incontroversos e depositados pelo próprio banco com fins de pagamento.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Na origem, trata-se de agravo de instrumento interposto pela exequente, ora agravada, em que requereu a reforma de decisão que suspendera o andamento do cumprimento de sentença.
+Alegou que não haveria necessidade de aguardar o trânsito em julgado de agravo de instrumento interposto contra decisão que julgou a impugnação ao cumprimento de sentença. Isso porque busca o levantamento do crédito que não fora contestado em sede de impugnação de sentença e, portanto, se tornara incontroverso, bem como da multa cominatória cujo montante transitara em julgado.
+O Tribunal de origem deu provimento ao pleito da exequente para determinar o prosseguimento do cumprimento de sentença, tendo em vista que o banco não recorreu da decisão que julgou parcialmente procedente a impugnação ao cumprimento da sentença e que a irresignação da exequente também já fora julgada.
+Registrou ainda que "a própria instituição bancária se manifestou nos autos originários juntando comprovante de pagamento da condenação, não se opondo, inclusive, ao depósito voluntário de eventual saldo remanescente" (fl. 116):
+No caso concreto, como já adiantado por ocasião do recebimento do recurso, mostra- se viável a liberação dos valores depositados em juízo, considerando a decisão de anterior agravo de instrumento por esta Câmara (nº 51813557620228217000), provido em parte, aliado ao fato de que os embargos de declaração interpostos pelo recorrido não têm efeito suspensivo.
+Ademais, o banco não recorreu da decisão que julgou parcialmente procedente a impugnação ao cumprimento da sentença, sobrevindo apenas irresignação da parte ora recorrente, provida em parte, sendo, portanto, incontroversa a quantia depositada em juízo.
+Cabe destacar, ainda, que a própria instituição bancária se manifestou nos autos originários juntando comprovante de pagamento da condenação, não se opondo, inclusive, ao depósito voluntário de eventual saldo remanescente (ev. 69).
+Isso posto, vai reformada a decisão atacada, restando confirmada a antecipação de tutela já deferida, para que seja expedido alvará em favor da agravante.
+O banco ora agravante apresentou embargos de declaração alegando que não houve especificação no acórdão de qual seria a quantia incontroversa, que a interposição de recurso especial em outro agravo de instrumento (em que discutido o valor da multa cominatória) tornou controvertidas todas as quantias, que a autora deveria prestar caução, e que o deferimento de alvará antes da preclusão é irreversível, pois a autora é hipossuficiente e a quantia é elevadíssima.
+Ao julgar os primeiros embargos de declaração, o Tribunal reiterou os termos do acórdão embargado quanto à preclusão dos valores depositados com finalidade de pagamento e registrou que o valor a ser liberado à agravada é R$ 212.454,09.
+Em segundos embargos de declaração, o banco executado noticiou que interpôs novo agravo de instrumento (5235365-36.2023.8.21.7000), em que teria sido deferido efeito suspensivo para sustar a expedição do alvará em discussão.
+O Tribunal estadual então esclareceu que não subsistia mais o efeito suspensivo, pois o novo agravo de instrumento já fora julgado e inclusive não fora conhecido, em razão da preclusão pro judicato quanto à determinação de expedição do alvará (fl. 230):
+Isso posto, esclareço que não mais persistindo o efeito suspensivo deferido quando do recebimento do agravo de instrumento 5235365-36, visto que já julgado, hígida se mostra a decisão proferida no agravo de instrumento e nos embargos de declaração outrora opostos (proc.5251715- 36), mormente quando preclusa a questão relativa à expedição do alvará, o que levou ao não conhecimento do novo agravo de instrumento interposto.
+No recurso especial, a parte recorrente alega ofensa aos arts. 489, IV, e 1.022, parágrafo único, II, do CPC. Aduz que houve omissão quanto ao fato de serem controvertidos os valores que a recorrida busca ver liberados, especialmente a multa cominatória, e que seria necessária a prestação de caução para expedição do alvará, conforme arts. 520, IV, e 521, parágrafo único, do CPC.
+No próprio recurso, o banco aduz que realizou depósito judicial do valor de R$ 212.454,09 em 11/10/2022, com pedido para extinção da execução pelo pagamento, entendendo naquele momento que tal valor seria incontroverso (fls. 247-248):
+Depósito judicial feito pelo Banco Santander do valor de R$ 212.454,09 em 11/10/2022, com pedido para extinção da execução pelo pagamento, pois naquele momento essa quantia era incontroversa (ev. 69).
+A autora apresentou agravo de instrumento de nº 5181355- 76.2022.8.21.7000 contra a decisão que acolheu em parte a impugnação ao cumprimento de sentença, o qual foi provido em parte, para afastar a incidência da terceira multa no valor único de R$ 5.000,00 (28/11/2022).
+Na origem, a autora apresentou o presente agravo de instrumento e em 10/12/2022 o TJRS determinou a expedição de alvará em benefício da autora do valor naquele momento incontroverso, depositado judicialmente.
+No agravo de instrumento 5181355-76.2022.8.21.7000, o Recorrente Santander opôs embargos declaratórios, que foram rejeitados em 27/03/2023, ao que foi apresentado Recurso Especial em 19/04/2023, pugnando, em suma, a total reforma do acórdão que manteve a multa em padrão exorbitante, bem como o pedido de exclusão de todas as multas.
+Alega que apenas a exequente apresentou recurso (processo n. 5181355- 76.2022.8.21.7000) contra a decisão que acolheu parcialmente a impugnação ao cumprimento de sentença, versando sobre parte do valor devido em razão das multas cominatórias impostas ao banco. Tendo sido provido o recurso da exequente a respeito do valor adicional da multa, aduz o recorrente que então interpôs recurso especial pleiteando a exclusão total das multas cominatórias, inclusive referentes aos valores que já havia reportado como incontroversos e que inclusive já havia depositado a título de pagamento, o que entende que tornaria o valor que se pretende levantar totalmente controvertido.
+Consoante aludido na decisão agravada, não há ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem se manifestou de forma fundamentada e abordou os pontos alegados como omissos.
+Registrou que o próprio banco reconheceu ser incontroversa a quantia, depositando o valor para pagamento e não se opondo ao depósito voluntário do remanescente (fl. 116), o que é corroborado pelo recorrente nas razões do recurso especial, em que aduz que realizou depósito judicial do valor de R$ 212.454,09 em 11/10/2022, com pedido para extinção da execução pelo pagamento.
+Registrou que apenas a exequente apresentou recurso contra o parcial provimento da impugnação ao cumprimento da sentença, entendendo que o valor da multa era superior, o que foi confirmado pelo Tribunal no processo n. 5181355- 76.2022.8.21.7000.
+Como relatado, ao julgar os primeiros embargos de declaração, a Corte estadual também esclareceu (fl. 195) que o valor incontroverso a ser liberado à agravada é o depositado pelo Banco para pagamento, qual seja, R$ 212.454,09, informação que também é corroborada no recurso especial. E ao julgar os segundos embargos de declaração (fl. 230), registrou estar preclusa a questão relativa à expedição do alvará dos valores reconhecidos pelo próprio recorrente.
+Como se vê, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de forma integral, a controvérsia posta.
+Não há ainda falar em omissão quanto ao pedido de caução com base nos arts. 520, IV, e 521, parágrafo único, do CPC, que versam sobre execução provisória, o que não é o caso dos autos.
+Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Por oportuno, mostra-se contraditório o comportamento da parte recorrente, que concordou com os valores incontroversos, efetuou o pagamento e, em momento posterior, nos autos de agravo de instrumento da parte contrária, buscou, por meio de recurso especial, rever decisão contra a qual não interpôs recurso e rediscutir esses mesmos valores.
+Registre-se, por fim, que o referido recurso, interposto no processo n. 5181355-76.2022.8.21.7000, trata-se do AREsp 2.423.395/RS, o qual não foi conhecido, em decisão transitada em julgado em 8/9/2025.
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
