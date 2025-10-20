@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DO DEMANDANTE.
+1. Nos termos do artigo 1022 do CPC, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses da parte embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de embargos de declaração, opostos por SONAIRA INCORPORACOES E EMPREENDIMENTOS IMOBILIARIOS LTDA, contra o acórdão de fls. 6019-6020, e-STJ, proferido pela Quarta Turma sob a relatoria deste signatário, que negou provimento ao agravo interno interposto pela parte ora embargante. Eis a ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.A simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incidência da Súmula 284/STF, por analogia.
+2. Os conteúdos normativos dos dispositivos legais tidos por violados (artigos 9º, 10, 505, 507, 515 do CPC) não foram objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração opostos pela ora recorrente, razão pela qual incide, na espécie, a Súmula 211 desta Corte Superior.
+2.1. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+3. A jurisprudência deste Tribunal Superior firmou-se no sentido de que a falta de indicação expressa do dispositivo de lei supostamente violado configura fundamentação recursal deficiente, atraindo a incidência, por analogia, do enunciado 284 do STF Precedentes.
+4. Agravo interno desprovido.
+Nas razões dos embargos de declaração (fls. 6035-6049, e-STJ), aduz a parte insurgente, em suma, a deficiência de fundamentação do acórdão, pois teria se limitado a reproduzir as razões de decidir da decisão agravada. Reitera o cumprimento das formalidades e dos requisitos autorizadores do processamento da pretensão recursal. Afirma que a matéria foi prequestionada, bem como demonstrada a afronta legal, insurgindo-se, assim, contra a incidência dos óbices das Súmulas 211/STJ e 284/STF. Por fim, tece considerações sobre o mérito do recurso especial.
+Impugnação às fls. 6055-6056, com pedido de aplicação de multa.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DO DEMANDANTE.
+1. Nos termos do artigo 1022 do CPC, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses da parte embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhida, pois não demonstram a existência de qualquer vício a macular o acórdão embargado.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material.
+Entretanto, a presente insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO DO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015. 2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios. 3. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1303182/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/10/2019, DJe 21/11/2019)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. 1. De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão impugnado, bem assim para corrigir-lhe erro material. 2. Nesse panorama, não se descortinando nenhum dos referidos vícios, impõe-se a rejeição da súplica integrativa. 3. Embargos de declaração rejeitados. (EDcl no REsp 1395692/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+No que tange à alegação da parte embargante, cumpre asseverar que o acórdão que julgou o agravo interno foi suficientemente claro nas suas razões ao desprover o recurso. Assim, contrariamente ao consignado nas razões dos aclaratórios, inexiste omissão a macular o julgado, possuindo o recurso nítido caráter infringente.
+Assim constou do acórdão (fls. 6026-6031, e-STJ):
+ ..
+1.1. Conforme asseverado na decisão ora recorrida, a insurgente não demonstrou de que forma os artigos 489, § 1º, V e VI, 1022 e 1025 do CPC foram violados pelo acórdão recorrido.
+Com efeito, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal.
+Nesse sentido, a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incide, portanto, o disposto na Súmula 284/STF, que se aplica por analogia.
+ ..
+Apesar de a parte recorrente ter indicado, nas razões recursais, os dispositivos que entende violados, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicação, à hipótese, do enunciado 284 da Súmula do Supremo Tribunal Federal, por aplicação analógica.
+2. Tocante ao pedido de afastamento da incidência da Súmula 211 do STJ, quanto a alegada violação aos artigos 9º, 10, 505, 507, 515 do CPC, sem razão a insurgente.
+Com efeito, a Corte de origem, a despeito da oposição de aclaratórios, não decidiu a controvérsia à luz dos preceitos legais indicados como malferidos.
+De fato, para que se configure o prequestionamento, é necessário que o tribunal de origem se pronuncie especificamente acerca da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+ ..
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta aplicação da legislação federal, o que não é o caso dos autos.
+Saliente-se, por oportuno, que a jurisprudência desta Corte não considera suficiente, para fins de configuração do prequestionamento, que a matéria tenha sido suscitada pelas partes em suas razões recursais ou apenas citada no acórdão como "considerada ou dada por prequestionada", mas sim que a respeito tenha havido efetivo debate no aresto recorrido.
+ ..
+Vale destacar ainda o firme entendimento desta Corte no sentido de que, para que se configure o necessário prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto, não havendo que se falar, na hipótese em prequestionamento ficto, nos termos do art. 1025 do CPC.
+ ..
+Inafastável, portanto, a aplicação da Súmula 211 do STJ, por ambas alíneas, ante a ausência de prequestionamento, porquanto os dispositivos apontados como violados não tiveram o competente juízo de valor aferido, nem foram interpretados pelo Tribunal de origem.
+3. Por fim, verifica-se, ainda, que o recurso especial apresenta deficiência em sua fundamentação, tocante a alegação de ofensa ao princípio venire contra factum proprium, aplicação dos princípios do aproveitamento dos atos processuais, do prazo razoável, da efetividade do direito, da causalidade e da sucumbência, deixou de indicar quais dispositivos legais, especificamente, foram violados pelo acórdão recorrido.
+O recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Dessa forma, é de rigor a incidência da Súmula 284 do STF.
+ ..
+Portanto, inafastável a incidência do teor da Súmula 284/STF, aplicável por analogia.  grifos do original
+Portanto, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do recurso interposto, tendo em vista que não foi demonstrada de que forma os artigos 489 e 1022 do CPC foram violados pelo acórdão impugnado, incidindo o óbice da Súmula 284/STF. A falta de prequestionamento dos artigos 9º, 10, 505, 507 e 515 do CPC, com incidência da Súmula 211/STJ, inexistindo, no caso, prequestionamento implícito e, ainda, nova incidência da Súmula 284 do STF, diante da deficiência de fundamentação quanto a alegação de ofensa ao princípio venire contra factum proprium, aplicação dos princípios do aproveitamento dos atos processuais, do prazo razoável, da efetividade do direito, da causalidade e da sucumbência, porquanto deixou de indicar quais dispositivos legais teriam sido violados pelo aresto hostilizado.
+Assim, não há falar em deficiência de fundamentação, porquanto o aresto embargado enfrentou os argumentos trazidos no agravo interno, eis que as razões de decidir, adotadas por ocasião do julgamento do recurso interposto, são claras e suficientes, tratando-se o presente recurso de nova tentativa de alterar o julgado, sem apontar, porém, o vício da decisão ora embargada.
+Ademais, as teses trazidas foram abordadas, sendo de todo descabida a afirmação de que o acórdão se limitou a repetir a fundamentação nela delineada.
+Como se vê, a pretensão veiculada nos presentes aclaratórios é nitidamente infringente, sem que seja apresentado qualquer vício no julgado, o que enseja a rejeição dos embargos de declaração.
+Dessa forma, não cabe alegação de violação do artigo 1022 do CPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese da parte embargante.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
