@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO CARRAD em que se aponta como autoridade coatora Desembargador Federal do Tribunal Regional Federal da 4ª Região que indeferiu medida liminar nos autos do HC n. 5011814-63.2024.4.04.7200.
+Infere-se dos autos que o paciente foi preso em flagrante, em 17/9/2025, pela suposta prática do crime previsto no art. 334-A, caput, do Código Penal.
+Homologada a prisão em flagrante, o magistrado concedeu o benefício da liberdade provisória, mediante o depósito de fiança, em espécie, no valor de R$ 20.000,00 (vinte mil reais).
+Inconformada, a defesa impetrou habeas corpus na origem, sendo o pleito emergencial parcialmente deferido para reduzir o montante para R$ 7.500,00 (sete mil e quinhentos reais) (e-STJ fls. 15/17).
+No presente habeas corpus, pretendendo a mitigação da Súmula n. 691/STF, a defesa afirma que o paciente não tem condições de pagar o valor arbitrado e que é suficiente a aplicação de outras medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a redução do valor arbitrado a título de fiança, mantidas as demais cautelares fixadas por ocasião da audiência de custódia.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido do não cabimento de habeas corpus impetrado contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade. Confiram-se, a propósito, estes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA N. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido. (AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022, grifei.)
+A aplicação do enunciado 691 da Súmula do Supremo Tribunal Federal somente pode ser excepcionada nas hipóteses de constrangimento ilegal manifesto, o que, primo ictu oculi, verifica-se no caso em apreço.
+Isso, porque a pretensão reveste-se de plausibilidade jurídica.
+Conforme a decisão homologatória da prisão em flagrante, o paciente não se enquadra nas hipóteses de prisão cautelar. Confira-se (e-STJ fl. 16):
+4. Pela concessão de liberdade provisória mediante recolhimento de fiança no valor de R$ 20.000,00 (vinte mil reais) ao indiciado RODRIGO CARRAD pois embora possua registros criminais anteriores tais anotações não guardam relação com os fatos investigados; embora o flagrado estivesse conduzindo o veículo no qual os cigarros foram apreendidos não há nos autos outros elementos que indiquem a necessidade da decretação de sua custódia cautelar.
+4.1. Determinou-se a expedição de alvará de soltura em favor do indiciado RODRIGO CARRAD após o recolhimento da fiança.
+No caso, verifica-se que o encarceramento preventivo apenas perdurou em razão do não recolhimento da fiança arbitrada, situação rechaçada pela remansosa jurisprudência desta Corte Superior.
+Aliás, é cediço nesta Casa que o inadimplemento da fiança imposta, por si só, não é capaz de fundamentar a manutenção da custódia cautelar, nos termos do art. 350 do Código de Processo Penal.
+Mas não é só. Tendo o juízo de primeiro grau entendido que a imposição de medidas cautelares diversas seria suficiente para o resguardo da ordem pública, o paciente não pode permanecer encarcerado apenas em razão de sua hipossuficiência financeira, sendo desnecessária a comprovação documental de tal alegação.
+Assim, considerando-se que, aparentemente, a segregação antecipada somente persiste em virtude do não pagamento da fiança, entendo ser o caso de deferir o pedido de urgência.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REDUÇÃO DA FIANÇA, LEVANDO EM CONSIDERAÇÃO A SITUAÇÃO FINANCEIRA EVIDENCIADA DOS AUTOS. RAZOABILIDADE E PROPORCIONALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - No ponto, cumpre consignar que esta Corte se posicionou no sentido de não ser possível a manutenção da custódia cautelar tão somente em razão do não pagamento do valor arbitrado a título de fiança, máxime quando se tratar de réu pobre, ex vi do art. 350 do CPP.
+II - Na hipótese, o Agravante se encontra com a liberdade restringida única e exclusivamente por não possuir condições de adimplir o valor arbitrado, a título de fiança, pelo suposto cometimento dos crimes capitulados nos art. 330 e 334-A, § 1º, I, ambos do Código Penal, no valor de R$ 20.000,00 (vinte mil reais).
+III - Nesse sentido; conquanto não se possa atribuir exatidão acerca da real capacidade econômica do Agravante, para o fim de afastar a aventada vulnerabilidade financeira; o que se tem dos autos, sem descer ao arcabouço probatório, é que o ora Agravante se encontra com a liberdade restringida por não ter pago o valor fixado a título de fiança. Outrossim, não se trata de elidir o caráter coercitivo da fiança, mas, sim, de reconhecer no caso concreto que, a par da incapacidade financeira, o Agravante se encontra com a liberdade de locomoção restringida diante do valor fixado.
+IV - Tenho, pois, que se mostra razoável e proporcional a redução da fiança estipulada para o valor de R$ 10.000,00 (dez mil reais), não merecendo reparos a decisão agravada.
+V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 822.033/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. RECEPTAÇÃO. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. SÚMULA N. 691 DA SUPREMA CORTE. ILEGALIDADE FLAGRANTE. PRISÃO PREVENTIVA. CONCESSÃO DE LIBERDADE PROVISÓRIA MEDIANTE O PAGAMENTO DE FIANÇA. IMPOSSIBILIDADE DE ADIMPLEMENTO. INCIDÊNCIA DO ART. 350 DO CÓDIGO DE PROCESSO PENAL. AFASTAMENTO DA FIANÇA. RECURSO DESPROVIDO.
+1. Esta Corte Superior possui o entendimento que " ..  não havendo demonstração da presença dos requisitos previstos no art. 312 do CPP, autorizadores da custódia preventiva, configura-se constrangimento ilegal a manutenção da prisão do paciente com base unicamente no não pagamento da fiança arbitrada." (HC n. 399.732/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 20/03/2018, DJe 26/03/2018).
+2. No caso, há ilegalidade apta a ensejar a superação do entendimento consolidado no enunciado da Súmula n. 691/STF.
+3. O Juízo de origem entendeu não estarem presentes os requisitos para a prisão preventiva, concedendo liberdade provisória mediante o pagamento de fiança. No entanto, o Agravado, inadimplente, permaneceu preso até a data do deferimento da liminar neste writ.
+4. Embora não haja nos autos prova plena acerca das condições financeiras do Agravante para arcar ou não com o valor da fiança arbitrada, o fato de o Acusado estar preso sem ter pago a importância arbitrada indica que a falta do recurso realmente é o fator que impede sua liberdade.
+5. Ademais, em julgamento proferido no dia 14/10/2020, a Terceira Seção do Superior Tribunal de Justiça concedeu, por unanimidade, a ordem no habeas corpus coletivo n. 568.693/ES, para determinar a soltura, independentemente do pagamento da fiança, em favor de todos aqueles a quem foi concedida liberdade provisória condicionada ao pagamento de fiança em todo o território nacional e ainda se encontram submetidos à privação cautelar de liberdade em razão do não pagamento do valor arbitrado.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 816.299/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/6/2023, DJe de 19/6/2023.)
+Ante o exposto, concedo a ordem, a fim de que o paciente seja colocado em liberdade, dispensando-se, por ora, o pagamento da fiança, aplicando-se as demais medidas cautelares substitutivas a serem fixadas pelo Juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
