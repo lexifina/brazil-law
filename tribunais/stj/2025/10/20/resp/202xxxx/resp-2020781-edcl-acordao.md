@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por NELSON TADEU FILIPPELLI contra o acórdão de fls. 258-268, proferido pela Quarta Turma do STJ, assim ementado:
+"DIREITO CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. LIBERDADE DE EXPRESSÃO E CRÍTICA JORNALÍSTICA. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, que manteve a improcedência de pedido indenizatório por danos morais, decorrente de matérias jornalísticas veiculadas na internet e em programa de rádio, alegadamente ofensivas à honra do recorrente.
+2. O juiz de primeiro grau julgou improcedente o pedido de indenização por danos morais, decisão confirmada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que concluiu não haver extrapolação do direito à livre manifestação do pensamento nas reportagens questionadas.
+3. A questão em discussão consiste em saber se as matérias jornalísticas veiculadas excederam os limites do direito à livre expressão e crítica, configurando dano moral ao recorrente.
+4. O Tribunal de Justiça do Distrito Federal e dos Territórios concluiu que as matérias jornalísticas não extrapolaram o animus narrandi e criticandi, sendo compatíveis com o direito à livre expressão garantido pela Constituição Federal.
+5. Não se comprovou a intenção difamatória ou o conhecimento da falsidade das informações por parte do jornalista, afastando a configuração de abuso de direito.
+6. A jurisprudência do STJ estabelece que a análise de abuso no exercício da liberdade de expressão jornalística deve considerar o contexto de cada caso, especialmente quando envolve pessoa pública, prevalecendo a liberdade de informação e crítica. Incidência do óbice da Súmula 83/STJ.
+7. Recurso desprovido.
+Conclusão de julgamento: "1. A liberdade de expressão e crítica jornalística não configura dano moral quando exercida dentro dos limites constitucionais, sem intenção difamatória. 2. A análise de abuso no exercício da liberdade de expressão deve considerar o contexto e a condição de pessoa pública do ofendido"." (fl. 258)
+Aduz a parte embargante, em resumo, que: (a) " m esmo sem qualquer prova da veracidade das afirmações constantes nas reportagens jornalísticas, os fatos noticiados foram considerados presumidamente verdadeiros, quando deveria ser o contrário!" (e-STJ, fl. 274); (b) "A omissão quanto aos fatos acima descritos representa uma lacuna na prestação jurisdicional, que necessita de apreciação para o adequado desfecho da lide, e enseja a propositura dos presentes embargos para que se complemente a prestação jurisdicional" (e-STJ, fl. 283); e (c) "embora a decisão embargada tenha reconhecido que a revelia gera presunção relativa de veracidade quanto aos fatos alegados pelo autor, incorreu em contradição ao afastar tais fatos sob o argumento de que não restou comprovada a intenção difamatória ou a ciência da falsidade por parte do recorrido" (e-STJ, fl. 287).
+Sem impugnação, conforme se infere da certidão de fl. 291.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, o acórdão embargado ressaltou que as instâncias locais concluíram que as matérias jornalísticas não extrapolaram o animus narrandi e criticandi, sendo compatíveis com o direito à livre expressão garantido pela Constituição Federal, adequando, deste modo, à jurisprudência do STJ, que estabelece que a análise de abuso no exercício da liberdade de expressão jornalística deve considerar o contexto de cada caso, especialmente quando envolve pessoa pública, prevalecendo a liberdade de informação e crítica. Assim também em relação aos efeitos da revelia, que são relativos e não conduzem, necessariamente, ao julgamento de procedência dos pedidos.
+A propósito, vale transcrever algumas passagens do acórdão embargado:
+"De início, é oportuno destacar que as instâncias de origem rechaçaram a pretensão indenizatória da parte ora recorrente, concluindo que as matérias jornalísticas farpeadas não teriam excedido os limites do denominado animus narrandi, nem extrapolado a mera crítica jornalística, sendo compatíveis, portanto, com os limites estabelecidos pela Constituição Federal e pelas Convenções Internacionais que dispõem sobre o tema.
+ ..
+Com efeito, nos termos da jurisprudência do STJ, "a análise relativa à ocorrência de abuso no exercício da liberdade de expressão jornalística a ensejar reparação civil por dano moral a direitos da personalidade depende do exame de cada caso concreto, máxime quando atingida pessoa investida de autoridade pública, pois, em tese, sopesados os valores em conflito, mostra-se recomendável que se dê prevalência à liberdade de informação e de crítica, como preço que se paga por viver num Estado Democrático" (REsp 801.109/DF, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 12/06/2012, DJe de 12/03/2013).
+Demais disso, é importante pontuar que "não configura dano moral indenizável a matéria jornalística que se limita a tecer críticas prudentes - animus criticandi - ou a narrar fatos de interesse público - animus narrandi. Há, nessas hipóteses, exercício regular do direito de informação" (AgInt no REsp n. 1.727.450/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 23/5/2022, DJe de 23/6/2022).
+ ..
+Ainda, nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça, assente no sentido de que os efeitos da revelia são relativos e não conduzem, necessariamente, ao julgamento de procedência dos pedidos, devendo o magistrado analisar as alegações do autor e a prova dos autos."
+Percebe-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, desse modo, o acolhimento da pretensão embutida nos aclaratórios.
+Nesse sentido, vale mencionar:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto sobre o qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp n. 2.683.104/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 9/12/2024, DJe de 19/12/2024)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL.CONTRADIÇÃO,OBSCURIDADE E OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormen te debatidos.
+2. Embargos de declaração rejeitados."
+(EDcl no REsp n. 1.937.887/RJ, relator Ministro PAULO SÉRGIO DOMINGUES, Primeira Seção, julgado em 11/12/2024, DJe de 16/12/2024)
+Por fim, é necessário salientar que o acórdão embargado debruçou-se sobre as questões suscitadas, decidindo, porém, de forma contrária ao interesse da parte ora embargante, o que, deveras, não pode ser confundido com omissão, tampouco ausência de fundamentação, consoante firme jurisprudência desta Corte Superior.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
