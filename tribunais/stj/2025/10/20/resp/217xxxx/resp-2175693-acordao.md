@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RITO ORDINÁRIO. CONTA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. INTIMAÇÃO. PUBLICAÇÃO. NOME DE ADVOGADO FALECIDO. NULIDADE.
+1. A intimação realizada em nome exclusivo de advogado falecido, ainda que a parte seja representada por outros procuradores, prejudica a presunção de conhecimento do ato judicial e implica prejuízo à defesa, o qual determina a declaração de nulidade do processo a partir desse ato.
+2. Precedentes do STJ.
+Recurso especial provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por FERNANDA CHAVES VASCONCELOS, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fls. 490-491):
+PROCESSUAL CIVIL. AGRAVO INTERNO. ÓBITO DO ADVOGADO. SUBSTABELECIMENTO COM RESERVAS. ADVOGADAS REMANESCENTES. REGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. PUBLICAÇÃO DE DECISÃO EM NOME DO ADVOGADO JÁ FALECIDO. AUSÊNCIA DE PREJUÍZO ÀS PARTES. POSTERIOR ÓBITO DOS AUTORES. SUSPENSÃO DO PROCESSO. TENTATIVAS FRUSTRADAS DE INTIMAÇÃO DO ESPÓLIO/HERDEIROS PARA FINS DE SUCESSÃO E REGULARIZAÇÃO PROCESSUAL. EXTINÇÃO DO FEITO. NULIDADE AFASTADA. RECURSO DESPROVIDO.
+- Compulsando os autos, verifica-se que a advogada FERNANDA CHAVES VASCONCELOS e CRISTIANE DE MEDEIROS BRITO CHAVES FROTA requereram, em petição contida no Evento 85, fosse declarada a nulidade de todos os atos praticados a partir da decisão de 02.02.2021, sob o argumento de que o advogado dos autores já era falecido e as demais patronas não foram devidamente intimadas. Alegaram, ainda, que não possuíam poderes para atuar no processo, pleiteando, finalmente, a suspensão do processo para fins de regularização da representação processual dos herdeiros, com a devolução do prazo, após a regularização.
+- Tal requerimento não restou atendido, culminando na interposição do presente agravo interno.
+- In casu, observa-se que a parte autora nomeou originalmente o Dr. Hugo Jorge de Brito Chaves como seu procurador, conferindo-lhe poderes para substabelecer. Nota-se, outrossim, que aquele patrono substabeleceu, com reservas, às advogadas Fernanda Chaves Vasconcelos (OAB/RJ 152.338) e Myrele Sepeda Martins (OAB/RJ 132.660), para também atuarem na causa.
+- Nesse contexto, não se sustenta a argumentação no sentido de que a extinção dos contratos de trabalho das referidas advogadas, em razão da morte do antigo patrono, cessaria automaticamente os poderes outrora substabelecidos, uma vez que a circunstância é de caráter inter partes, constrita na esfera particular do contrato de trabalho ali estabelecido, sendo que, neste âmbito processual, para todos os efeitos jurídicos, as mesmas continuam figurando como representantes da parte autora. Precedente do eg. STJ citado.
+- Dessa forma, conclui-se que, até então, a representação processual era válida, ainda que o óbito do advogado substabelecente tenha ocorrido em data anterior à intimação da decisão constante no Evento 33, notadamente porque sequer tal fato foi comunicado ao Relator do feito.
+- A declaração de nulidade de um ato que não observou as formalidades legais tem de ser alicerçada na existência de prejuízo às partes, em atenção ao princípio da instrumentalidade das formas e da ausência de nulidade sem prejuízo (pas de nullité sans grief).
+- Assim sendo, inobstante a publicação da decisão que intimou a parte autora, para que se manifestasse sobre a proposta de acordo apresentada pela CAIXA ECONÔMICA FEDERAL - CEF, tenha sido efetivada em nome de advogado já falecido, não há que se falar em nulidade absoluta, tendo em vista que tal ato não foi capaz de causar prejuízo às partes, senão vejamos.
+- Após a prolação daquela decisão e da tentativa frustrada de intimação do patrono originário a proceder sua regularização no sistema EPROC, foi constatado, através do referido sistema, que os autores também haviam falecido, oportunidade na qual o feito foi suspenso para fins de habilitação do espólio ou respectivos sucessores/herdeiros.
+- Verifica-se, ainda, que os possíveis sucessores foram intimados para promoverem a respectiva habilitação, bem como nova representação processual, com base no artigo 110 do CPC, sob pena de extinção do processo, na forma do art. 313, § 2º, II, do CPC.
+- Ocorre que a diligência de intimação pessoal daqueles, no endereço constante da inicial da ação, restou frustrada, tendo sido determinada a expedição de edital para os mesmos fins.
+- Diante do decurso de prazo, sem manifestação, o processo foi julgado extinto, sem resolução do mérito, na forma do art. 485, inciso IV, do CPC.
+- Conclui-se, assim, que não há que se falar em prejuízo às partes causada pela irregularidade de intimação da decisão, ocorrida em fevereiro de 2021, seja porque o feito foi suspenso e, apesar de envidados esforços, não foi possível localizar o espólio, sucessores ou herdeiros das partes para fins de sucessão processual e habilitação nestes autos, seja porque a advogada subscritora da petição de agravo interno só poderia prosseguir no feito, após o falecimento da parte autora, através de novo mandato.
+- Agravo interno desprovido.
+Rejeitados os embargos de declaração opostos (fls. 528-531).
+A parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Afirma, em síntese, que houve nulidades insanáveis no processo, pois, após a suspensão determinada em razão de repercussão geral no STF, o processo retomou a sua tramitação em 2020 quando os autores e o advogado já haviam falecido. Mesmo assim, em 2021, foram realizadas intimações em nome do patrono falecido e em nome de advogadas que não possuíam poderes válidos para representar as partes, já que o substabelecimento outorgado era referente a outro processo e havia perdido eficácia com o óbito dos outorgantes.
+Alega que, em vez de suspender o processo para possibilitar a habilitação dos herdeiros, como determinam os arts. 313 do CPC e 682, II, do Código Civil, a Corte Regional extinguiu a ação, sem resolução de mérito, embora houvesse sentença favorável aos autores. Argumenta que o acórdão violou os arts. 4º, 110, 272, §2º, 313 §§1º e 2º, 687, 689 e 489, II, do CPC. Por fim, pedem que o STJ reconheça a nulidade de todos os atos processuais praticados a partir de 2/2/2021, determine a suspensão do processo até a regularização da representação pelos herdeiros e restabeleça a análise do mérito da demanda. (fl. 540-547).
+Sem a apresentação de contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fl. 571).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RITO ORDINÁRIO. CONTA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. INTIMAÇÃO. PUBLICAÇÃO. NOME DE ADVOGADO FALECIDO. NULIDADE.
+1. A intimação realizada em nome exclusivo de advogado falecido, ainda que a parte seja representada por outros procuradores, prejudica a presunção de conhecimento do ato judicial e implica prejuízo à defesa, o qual determina a declaração de nulidade do processo a partir desse ato.
+2. Precedentes do STJ.
+Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+- O caso em discussão.
+A sentença acolheu os pedidos, mas, após suspensão em razão de repercussão geral no STF, o processo retomou seu curso em 2020, quando já haviam falecido tanto os autores quanto o advogado constituído. Apesar disso, no ano de 2021, foi expedida intimação em nome do patrono falecido e posteriormente em nome de advogadas que não possuíam poderes válidos para atuar no feito, pois o substabelecimento existente referia-se a outro processo já encerrado, e as procurações cessaram com o falecimento dos outorgantes, conforme o art. 682, II, do Código Civil. O advogado, o qual tinha seu nome na intimação, faleceu em 24/9/2020 (fl. 452).
+O Tribunal de origem observou "que a parte autora nomeou originalmente o Dr. Hugo Jorge de Brito Chaves como seu procurador, conferindo-lhe poderes para substabelecer (TRF2, Evento 14 - OUT4, fl. 7). Nota-se, outrossim, que aquele patrono substabeleceu, com reservas, às advogadas Fernanda Chaves Vasconcelos (OAB/RJ 152.338) e Myrele Sepeda Martins (OAB/RJ 132.660), para também atuarem na causa (TRF2, Evento 21 - OUT11, fl. 3)".
+- Da intimação realizada no nome de advogado falecido.
+O Tribunal regional contrariou o entendimento do STJ de que, mesmo que exista mais de um procurador, a publicação unicamente no nome de advogado falecido fragiliza a presunção de conhecimento do ato judicial, havendo prejuízo evidente à defesa da parte. É imperiosa , portanto, a declaração da nulidade das comunicações processuais.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS, ESTÉTICOS E COMPENSAÇÃO POR DANOS MORAIS. INTIMAÇÃO. PUBLICAÇÃO. NOME DE ADVOGADO FALECIDO. NULIDADE.
+1. A intimação realizada em nome exclusivo de advogado falecido, ainda que a parte seja representada por outros procuradores, prejudica a presunção de conhecimento do ato judicial e acarreta nítido prejuízo à defesa, o qual determina a declaração de nulidade do processo a partir desse ato. Precedentes.
+2. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.536.420/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/5/2017, DJe de 30/5/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. MORTE DO ADVOGADO DA PARTE EXECUTADA. DESCONHECIMENTO DO FATO PELA OUTORGANTE E PELO JUÍZO. NULIDADE DOS ATOS POSTERIORMENTE PRATICADOS. 1.
+Constitui efeito do falecimento do advogado da parte a suspensão do processo, revelando-se nulos os atos praticados em desfavor da outorgante, pois sobre eles não pode exercer qualquer direito de defesa.
+2. Caso concreto em que não se tem indícios de ciência acerca do falecimento do profissional pela parte por ele representada judicialmente, não se podendo presumir a omissão intencional desse fato, ou seja, a deslealdade processual da executada.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.606.777/GO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 2/5/2017, DJe de 16/5/2017.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PEDIDO DE DEVOLUÇÃO DE PRAZO RECURSAL. FALECIMENTO DE ADVOGADO. COMUNICAÇÃO AO JUÍZO. NECESSIDADE DE RENOVAÇÃO DA INTIMAÇÃO. NULIDADE RECONHECIDA. AGRAVO INTERNO DESPROVIDO.
+1. Pleiteou-se no recurso especial a reforma do acórdão recorrido de modo a assegurar a devolução do prazo requerida pelo recorrente, orbitando a controvérsia em saber se, na espécie, justificava-se ou não a devolução do prazo recursal à parte insurgente tendo em vista o falecimento de seu patrono.
+2. A fundamentação da decisão ora agravada está balizada na jurisprudência desta Corte Superior consoante a qual a intimação realizada em nome exclusivo de advogado falecido, ainda que a parte seja representada por outros procuradores, prejudica a presunção de conhecimento do ato judicial e acarreta nítido prejuízo à defesa, o qual determina a declaração de nulidade do processo a partir desse ato (AgInt no REsp 1.536.420/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe 30/05/2017).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.386.696/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 19/9/2022, DJe de 21/9/2022.)
+Ante o exposto, dou provimento ao recurso especial para declarar a nulidade de todos os atos processuais, realizados a partir da decisão de 2. 2.2021, bem como para determinar a suspensão do processo até a regularização da representação pelos sucessores dos autores.
+É como penso. É como voto.
