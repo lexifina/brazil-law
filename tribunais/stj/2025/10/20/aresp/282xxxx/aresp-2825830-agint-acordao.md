@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Para a modificação do paradigma fático, quanto à existência dos requisitos para a configuração da responsabilidade civil, seria necessário o revolvimento do acervo probatório dos autos, conduta vedada no âmbito do recurso especial, ante o óbice contido na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por JOSE ELERTON SECIOSO DE ABOIM, contra decisão monocrática de fls. 1.477-1.480, e-STJ, da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial da ora agravante.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 1197, e-STJ):
+INDENIZAÇÃO POR DANO MORAL - ERRO MÉDICO - RESPONSABILIDADE DE TODOS INTEGRANTES DA CADEIA CONSUMERISTA - FALHA NA PRESTAÇÃO DO SERVIÇO DO HOSPITAL E DA OPERADORA DO PLANO DE SAÚDE E DO MÉDICO (DEMONSTRAÇÃO DA CULPA), DIANTE DA PROVA DOCUMENTAL E TESTEMUNHAL - REALIZAÇÃO DE VASECTOMIA AO INVÉS DA FRENULOPLASTIA QUE FOI SOLICITADA PELO PRÓPRIO MÉDICO CIRURGIÃO - PROCEDIMENTO REVERTIDO POSTERIORMENTE COM SUCESSO - FIXAÇÃO DO QUANTUM EM R$ 10.000,00 PARA O HOSPITAL, R$ 5.000,00 PARA O PLANO DE SAÚDE E R$ 5.000,00 PARA O MÉDICO - MANUTENÇÃO - APELOS CONHECIDOS E DESPROVIDOS - UNÂNIME."
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 1211-1213, e-STJ.
+A parte recorrente aponta violação aos arts. 186, 927 e 951 do Código Civil, bem como ao art. 14, §§ 3º, inc. II e 4º, do Código de Defesa do Consumidor, além do desrespeito ao art. 1º da Resolução CFM nº 2.217, de 27 de setembro de 2018, modificada pelas Resoluções CFM nº 2.222/2018 e 2.226/2019. Sustenta, em síntese: a) que o erro cirúrgico decorreu exclusivamente do equívoco cometido pela equipe auxiliar de enfermagem, que catalogou erroneamente o procedimento a ser realizado; c) a inexistência de ato culposo imputável ao médico, indispensável à configuração da responsabilidade civil subjetiva.
+Contrarrazões apresentadas às fls. 1345-1350, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1375-1393, e-STJ).
+Em decisão monocrática, este relator negou provimento ao reclamo ante a incidência das Súmulas 5 e 7 do STJ.
+No presente agravo interno (fls. 833-844, e-STJ), a parte agravante lança argumentos a fim de combater o referido óbice.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Para a modificação do paradigma fático, quanto à existência dos requisitos para a configuração da responsabilidade civil, seria necessário o revolvimento do acervo probatório dos autos, conduta vedada no âmbito do recurso especial, ante o óbice contido na Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. A despeito dos fundamentos veiculados no bojo do agravo interno, revela-se inafastável o óbice da Súmula 7 do STJ.
+Conforme pontuado no bojo da decisão recorrida, cinge-se a controvérsia recursal quanto à configuração do erro médico apto a ensejar a responsabilidade civil subjetiva. Aduz o recorrente ser culpa exclusiva da equipe hospitalar ter sido realizado procedimento diverso do almejado pelo paciente.
+No particular, decidiu o Tribunal de piso:
+No caso dos autos, há prova de que houve falha por parte do hospital porque a testemunha/instrumentadora cirúrgica disse que na sala da cirurgia constava no quadro a cirurgia vasectomia e foi o que ela que leu que seria o procedimento a ser realizado e assim também fez o médico. Um outro médico que foi ouvido em juízo também disse que o hospital/sua equipe é quem faz o checklist do procedimento e coloca qual a cirurgia no mapa cirúrgico, documento este que guia o médico quando entra na sala.
+E a culpa/negligência do médico também restou evidenciada nos autos, tanto que a própria testemunha também disse que somente depois da cirurgia - no quando ele percebeu que tinha sido feita a vasectomia no lugar da plástica de freio. Vale lembrar que foi o própriocheckout - foi demandado/médico quem solicitou a realização da plástica de freio no autor.
+É certo que houve a reversão da vasectomia, com sucesso, tanto que o autor foi pai após o problema, todavia, é evidente que o autor passou por uma séria angústia e sofrimento. Apesar da testemunha ter dito que o médico/demandado é muito competente e decente, e que a reversão é um procedimento muito simples, não resta dúvida de que qualquer pessoa se sentiria insegura e angustiada com a situação aqui retratada.
+Assim, a meu ver, não obstante a assistência do médico após o evento, bem como sua competência enquanto profissional, o fato é que, no caso em análise, houve erro médico.
+Vejamos um trecho da sentença:
+"Não há como olvidar que todos os percalços vivenciados pelo autor e exaustivamente demonstrados pelos relatórios médicos acostados nos autos ocorreram nas dependências do Hospital São Lucas, e, não bastasse, foram seus prepostos os responsáveis pelo preenchimento das informações equivocadas lançadas no mapa cirúrgico, sendo o reconhecimento de sua responsabilidade medida que se impõe."
+Todavia, para a modificação do paradigma fático, quanto à existência dos requisitos para a configuração da responsabilidade civil, seria necessário o revolvimento do acervo probatório dos autos, conduta vedada no âmbito do recurso especial, ante o óbice contido na Súmula 7 do Superior Tribunal de Justiça. Nesse sentido (mutatis mutandis):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1. . ERRO MÉDICO. FALHA NA PRESTAÇÃO DE SERVIÇOS. REEXAME. SÚMULA 7/STJ. 2. PLANO DE SAÚDE. RESPONSABILIDADE SOLIDÁRIA. SÚMULA N. 83/STJ. 3. DANOS MORAIS. VALOR INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO INTERNO DA OPERADORA DO PLANO DE SAÚDE DESPROVIDO.
+1. Modificar as conclusões do Tribunal local, acerca da falha na prestação do serviço em estabelecimento hospitalar credenciado e do respectivo quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, a operadora de plano de saúde é solidariamente responsável pelos danos decorrentes de falha ou erro na prestação de serviços do estabelecimento ou médico conveniados.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.937.242/RJ. Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/11/2023).  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. O reconhecimento de cerceamento de defesa decorrente da prova pericial emprestada, exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. As questões envolvendo os elementos ensejadores do dever de indenizar demandam reexame dos elementos fáticos contidos no processo, tarefa não encontrada no rol das competências do Superior Tribunal de Justiça e, portanto, expressamente vedada no âmbito deste Tribunal, conforme teor da Súmula 7 desta Corte.
+4. No tocante a responsabilidade do nosocômio, o Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte Superior, no sentido de que comprovada a existência de erro médico, como no caso dos autos, a responsabilidade do hospital é objetiva e responde solidariamente com o profissional responsável. Precedentes.
+5. Derruir a conclusão formada pela Corte Fluminense no sentido de que seria necessária a formação de capital garantidor, ante a impossibilidade de antever a durabilidade das empresas e suas estabilidades econômicas, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, providência vedada pelo óbice da Súmula 7 desta Casa.
+6. No que diz respeito à utilização da taxa SELIC para o cálculo dos juros, assiste razão à agravante.
+6.1. Nos termos da jurisprudência do STJ, " a  taxa de juros moratórios a que se refere o art. 406 do Código Civil de 2002 é a SELIC" (AgInt no REsp 1.717.052/AL, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe de 08/03/2019).
+7. Agravo interno parcialmente provido para, de plano, dar parcial provimento ao recurso especial para determinar a incidência da taxa Selic sobre o valor da condenação. (AgInt nos EDcl no AREsp n. 2.178.299/RJ. Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 3/11/2023).  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. ERRO MÉDICO. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANOS MORAIS. VALOR QUE NÃO SE REVELA EXORBITANTE. SÚMULA Nº 7 DO STJ. DANOS MATERIAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE NOVA ANÁLISE. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Aplica-se a Súmula nº 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.350.923/RJ. Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 18/10/2023).  grifou-se
+Incidência da Súmula n. 7 do STJ.
+De rigor, portanto, a manutenção da decisão recorrida.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
