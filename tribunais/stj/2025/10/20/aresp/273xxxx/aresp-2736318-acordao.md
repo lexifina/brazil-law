@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 14/10/2025 a 20/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+ AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  E  CIVIL.  CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. CLÁUSULA  CONTRATUAL.  ANULAÇÃO. DECADÊNCIA.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2.  A decadência para anulação de cláusula de negócio jurídico opera-se em 4 (quatro) anos, conforme disposto no art. 178 do Código Civil. Precedente.
+3.  Agravo  conhecido  para  conhecer  parcialmente  do  recurso  especial  e  , nessa extensão,  negar-lhe  provimento.
+RELATÓRIO
+  Trata-se  de  agravo  interposto  por  NATURASUL FLORESTAL LTDA.  contra  a  decisão  que  inadmitiu  o  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Distrito Federal e dos Territórios assim  ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL CONTRATUAL. AÇÃO DE INDENIZAÇÃO. ANÁLISE DE PRESCRIÇÃO. PRAZO PRESCRICIONAL DECENAL. NÃO CONFIGURAÇÃO. TEORIA DA CAUSA MADURA. APLICABILIDADE. PEDIDO DE ANULAÇÃO DE TERMO DE QUITAÇÃO. ABUSIVIDADE. INSUBSISTÊNCIA. VÍCIO DE CONSENTIMENTO. COAÇÃO. DECADÊNCIA. OCORRÊNCIA"  (e-STJ  fl.  2.184).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fl.  2.248 ).
+No  recurso  especial,  a  recorrente  alega  violação  dos  seguintes  dispositivos  legais  ,  com  as  respectivas  teses:
+(i) arts. 369 e 1.013, § 4º, do Código de Processo Civil, por cerceamento de defesa ao aplicar a teoria da causa madura, sem permitir a produção de provas solicitadas; e
+(ii) arts. 167, § 1º, II, 178, I, 389, 421, 422 e 424 do Código Civil, por defender que as cláusulas de quitação inseridas nos aditivos contratuais são abusivas e violam os princípios da boa-fé objetiva e da função social do contrato.
+Aduz que a assinatura dos aditivos foi imposta, sob pena de retenção de pagamentos, configurando abuso de direito e de reserva mental.
+Defende, ainda, que a nulidade das cláusulas abusivas pode ser reconhecida a qualquer tempo, independentemente do prazo decadencial de 4 (quatro) anos, por se tratar de contrato de adesão.
+Após  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+ AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  E  CIVIL.  CERCEAMENTO DE DEFESA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. CLÁUSULA  CONTRATUAL.  ANULAÇÃO. DECADÊNCIA.
+1. É inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração.
+2.  A decadência para anulação de cláusula de negócio jurídico opera-se em 4 (quatro) anos, conforme disposto no art. 178 do Código Civil. Precedente.
+3.  Agravo  conhecido  para  conhecer  parcialmente  do  recurso  especial  e  , nessa extensão,  negar-lhe  provimento.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+De início, no que se refere ao cerceamento de defesa, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Quanto à abusividade das cláusulas de quitação, extrai-se do acórdão recorrido a seguinte fundamentação:
+"(..)
+Sobre a alegação de que as cláusulas do termo aditivo seriam nulas, uma vez que a autora/apelante teria sido obrigada a assiná-los, não há como transpor o . óbice do prazo decadencial incidente sore a hipótese Isto porque o art. 178, inciso I do CC determina que é de 4 (quatro) anos o prazo de decadência para pleitear-se a anulação do negócio jurídico, contado, no caso de coação, do que dia em que ela cessar. Considerando o contrato foi concluído em 30/09/2015; a parte autora/apelante tinha o direito de pleitear a anulação do ajuste com base vício de consentimento, consubstanciado em coação, até o dia 30/09/2019. Portanto, tendo ajuizado a presente ação em 30/06/2022, a pretensão da autora encontra-se fulminada pela decadência, de modo que os negócios jurídicos não podem ser revistos, prevalecendo a quitação externada, como se irá expor" (e-STJ fl. 2.257).
+Dessa forma, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que a decadência para anulação de cláusula do negócio jurídico opera-se em 4 (quatro) anos, conforme disposto no art. 178 do Código Civil.
+A propósito:
+"PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. DECISÃO QUE ANULA SENTENÇA PROFERIDA LIMINARMENTE RECONHECENDO A DECADÊNCIA, PARA DETERMINAR A REGULAR TRAMITAÇÃO DO FEITO, COM A SUBSEQUENTE CITAÇÃO DOS RÉUS. ARGUMENTO DE PRECLUSÃO PARA RECONHECIMENTO DA DECADÊNCIA. INVIABILIDADE. AFIRMAÇÃO DE IMPRESCRITIBILIDADE PARA ANULAÇÃO DO RESGATE. DESCABIMENTO. O PRAZO PARA AJUIZAMENTO DE AÇÃO VINDICANDO ANULAÇÃO DE PACTUAÇÃO FIRMADA ENTRE ENTIDADE DE PREVIDÊNCIA PRIVADA E EX-PARTICIPANTES, PARTICIPANTES OU ASSISTIDOS DE PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA É DE 4 ANOS. DIREITO POTESTATIVO. INCIDÊNCIA DO DISPOSTO NO ART. 178, INCISOS, DO CC.
+1. É descabido o fundamento utilizado pela Corte local acerca da preclusão para discussão da ocorrência da decadência, pois o primeiro acórdão - prolatado antes mesmo da citação dos réus -, em harmonia com o princípio processual da congruência, limitou-se a anular a sentença primeva para determinar o regular processamento do feito, ensejando a superveniente instauração do contraditório, na presente relação jurídica processual.
+2. Como é cediço, a prescritibilidade é a regra, só havendo falar em imprescritibilidade em hipóteses excepcionalíssimas, como no tocante às ações referentes ao estado das pessoas. Somente alguns direitos subjetivos, observada sua envergadura e especial proteção, não estão sujeitos a prazos prescricionais, como na hipótese de ações declaratórias de nulidades absolutas, pretensões relativas a direitos da personalidade e ao patrimônio público. Dessarte, no tocante à previdência privada, consoante a jurisprudência do STJ, em cada recebimento de parcela a menor de benefício de previdência privada, previsto no regulamento do plano de benefícios, ocorre nova violação ao direito do beneficiário do plano e exsurgimento de pretensão condenatória relativa a essa lesão. Súmula 427/STJ.
+3. A doutrina civilista, desde Windscheid - que trouxe para o direito material o conceito de actio, direito processual haurido do direito romano -, diferencia com precisão os direitos subjetivo e potestativo. O primeiro é o poder da vontade consubstanciado na faculdade de agir e de exigir de outrem determinado comportamento para a realização de um interesse, cujo pressuposto é a existência de uma relação jurídica. Encapsulados na fórmula poder-sujeição, por sua vez, estão os chamados direitos potestativos, a cuja faculdade de exercício não se vincula propriamente nenhuma prestação contraposta (dever), mas uma submissão à manifestação unilateral do titular do direito, muito embora tal manifestação atinja diretamente a esfera jurídica de outrem.
+4. A legislação especial de regência - art. 75 da Lei Complementar n. 109/2001 - estabelece apenas prazo prescricional, não disciplinando, no tocante à relação contratual autônoma de direito civil de previdência privada, o prazo decadencial para exercício de direito potestativo para pretender a anulação de ato praticado no âmbito desta relação, de modo que o prazo decadencial deve ser buscado no Diploma civilista.
+5. Como a ação foi ajuizada quase dez anos após o resgate, procedido em pactuação ("termo de adesão, quitação, transação e cessão de direitos com sub-rogação - devolução das contribuições do participante") com a ora extinta entidade de previdência privada fechada complementar Previ-Banerj, é nítida a decadência para anulação (de cláusula) do negócio jurídico - que opera em 4 anos, conforme disposto no art. 178 do CC.
+6. Recurso especial provido."
+(REsp 1.466.196/RJ, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 10/3/2015, DJe de 31/3/2015, grifou-se)
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e, nessa extensão,  negar-lhe  provimento.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  10%  (dez  por  cento)  sobre  o  valor  da  causa,  os  quais  devem  ser  majorados  para  o  patamar  de  13%  (treze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil.
+  É  o  voto.
