@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de ISMAEL MINERVINO DA SILVA - condenado por tráfico de drogas majorado (137 g de cocaína - fl. 32) a 5 anos e 10 meses de reclusão, e 583 dias-multa -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro (fls. 15/34), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente por ilicitude da prova decorrente de busca pessoal sem fundada suspeita ou, subsidiariamente, a revisão da dosimetria - na condenação proferida na Ação Penal n. 0800180-62.2022.8.19.0048 (fls. 46/63), da Vara Única da comarca de Rio das Flores/RJ -, aos seguintes argumentos:
+a) nulidade da busca pessoal, sustentando ausência de fundadas suspeitas, pois teria se originado do relato do motorista de aplicativo, que desconfiou da insistência do agente em realizar, à noite, corrida para bairro perigoso sob o pretexto de pagar pensão; o motorista informou o fato a amigo policial, que apontou a probabilidade de assalto ao condutor e orientou a continuidade da corrida para viabilizar a abordagem e a busca (fl. 8); e
+b) cumprimento dos requisitos para reconhecimento do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) - aduzindo que, se nem mesmo ações penais em curso podem embasar o afastamento da benesse referenciada, com mais razão não pode a afirmação genérica de que ele seria conhecido dos policiais (fl. 12) - e, consequentemente, a substituição da pena por restritivas de direitos, abrandamento do regime e avaliação de ANPP (fl. 13).
+Sem pedido liminar.
+Ocorre que, além de se tratar de impetração destinada a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do constrangimento ilegal, pois:
+a) o Tribunal estadual, no julgamento da apelação, reconheceu a configuração de fundada suspeita para busca pessoal - decorrente da comunicação prévia do motorista de aplicativo, confirmada em juízo, com abordagem e apreensão do entorpecente (fls. 20/21) -, então, concluir de forma diversa demandaria reexame probatório, inviável na via estreita do habeas corpus; e
+b) a causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) não incidiu na conclusão de dedicação a atividades criminosas, com base em depoimento da informante e na existência de ação penal com sentença condenatória não transitada (fl. 33), em consonância com o entendimento desta Corte Superior.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
