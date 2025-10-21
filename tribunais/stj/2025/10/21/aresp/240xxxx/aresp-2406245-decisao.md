@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual GOLD MILANO EMPREENDIMENTOS IMOBILIARIOS SPE LTDA se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 309):
+AGRAVO DE INSTRUMENTO - Ação de Execução Fiscal - ISSQN - Exercício de 2011 - Exceção de pré-executividade rejeitada - Decadência - Inocorrência - Fato gerador que ocorre com o término da obra - Obra concluída em 28/05/2011, momento em que se iniciou o prazo decadencial - Crédito constituído em 31/03/2016, antes do término do prazo quinquenal - Excesso de execução - Aplicação indevida do índice IPCA - Pretensão de substituição pela Taxa Selic - Descabimento - Correção monetária e juros de mora devidos, porém limitados à Taxa Selic - Aplicação da ADI 442 e Tema 1062 do Superior Tribunal de Justiça - Decisão reformada nesse tópico - Recurso provido em parte.
+Os embargos de declaração foram rejeitados (fls. 356/361).
+Nas razões de seu recurso especial, a parte recorrente alega, além da divergência jurisprudencial (fls. 331/333), violação dos arts. 113, § 1º, 114, 149, parágrafo único, e 150, § 4º, do Código Tributário Nacional (CTN), bem como do art. 1º da Lei Complementar 116/2003, sustentando que o fato gerador do Imposto sobre Serviços de Qualquer Natureza (ISSQN) na construção civil é a prestação de serviços em cada ocorrência individual, não a entrega final da obra, e que, havendo pagamento antecipado, ainda que parcial, a contagem da decadência deve observar o art. 150, § 4º, do CTN (fls. 330/331).
+A parte adversa apresentou contrarrazões (fls. 383/386).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso.
+Na origem, cuida-se de agravo de instrumento interposto de decisão que, nos autos da execução fiscal, rejeitou a exceção de pré-executividade, atestando não estar configurada a decadência, com estes fundamentos (fls. 311/312):
+Em se tratando de serviços de construção civil, o marco temporal para a ocorrência do fato gerador é o término da obra. No caso dos autos, a obra foi concluída em 28/05/2011, conforme Relatório Circunstanciado, referente ao Auto nº 67.194.877 (fl. 52 do processo de origem).
+Logo, o fato gerador ocorreu em 28/05/2011 e a notificação da lavratura do auto de infração de seu em 31/03/2016, ou seja, antes do transcurso do prazo decadencial de 05 anos.
+Em seu recurso especial, a parte recorrente apontou como violados os arts. 113, § 1º, 114, 149, parágrafo único, e 150, § 4º, do Código Tributário Nacional, bem como do art. 1º da Lei Complementar 116/2003, alegando que o fato gerador do tributo ocorria com a realização de cada serviço individual, não com a entrega final da obra, a acarretar decadência da maioria do débito exequendo.
+O acórdão recorrido, entretanto, não decidiu à questão à luz dos dispositivos indicados pela parte recorrente e, portanto, não tratou da tese judicial a eles vinculada. A demanda foi solucionada com fundamento na ideia de que a entrega final da obra caracterizava o serviço a ser tributado pelo ISSQN.
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Não é o caso de prequestionamento ficto porque, conforme o entendimento desta Corte Superior, a incidência do art. 1.025 do Código de Processo Civil (CPC) exige que no recurso especial se tenha alegado a ocorrência de violação do art. 1.022 do CPC, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+A propósito, cito os seguintes julgados deste Tribunal:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO PREVIDENCIÁRIO. ART. 114 DA LEI 8.213/91. IMPOSSIBILIDADE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO RECORRIDA. SÚMULA 182 DO STJ.
+ ..
+3. O STJ possui o entendimento de que não basta a oposição de Embargos de Declaração para a configuração do prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+ ..
+6. Agravo Interno não conhecido.
+(AgInt nos EDcl no REsp n. 1.849.130/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021, sem destaques no original.)
+PROCESSUAL CIVIL E AMBIENTAL. EXECUÇÃO FISCAL. INFRAÇÃO AMBIENTAL. SUSPENSÃO. AÇÃO ANULATÓRIA GARANTIA. INEXISTÊNCIA. FUNDAMENTO NÃO ATACADO. PROGRAMA DE REGULARIZAÇÃO AMBIENTAL (PRA). CONCRETIZAÇÃO PENDENTE. FATO NOVO. ANÁLISE. IMPOSSIBILIDADE. PREQUESTIONAMENTO FICTO. AUSÊNCIA.
+ ..
+8. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a invocação e o reconhecimento de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu.
+9. Agravo interno desprovido.
+(AgInt no REsp n. 1.622.622/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe de 8/9/2020, sem destaques no original.)
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
