@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Alex Sandro Ribeiro - denunciado pelo delito de tráfico de drogas, com apreensão de 2,51 g de cocaína -, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo que denegou o Habeas Corpus criminal n. 3012887-91.2025.8.26.0000.
+Neste writ, a defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação idônea, limitando-se a alegações genéricas de risco abstrato à ordem pública (fls. 4/6).
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva (fls. 14/15).
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da prática do tráfico nas proximidades de escola e da admissão do custodiado de que "recebia R$ 180,00 (cento e oitenta reais) por dia" pela mercancia, o que indicaria habitualidade na prática de atividade ilícita.
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, pois o Juízo de piso destacou a gravidade concreta do fato praticado nas imediações de estabelecimento escolar e com a admissão de remuneração diária pela atividade ilícita, o paciente, aparentemente, é primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa, e a quantidade de droga apreendida pode ser considerada ínfima (2,51 g de cocaína - massa líquida), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto: com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto (HC n. 305.905/SP, da minha relatoria, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INSUFICIENTE. DESPROPORCIONALIDADE DA SEGREGAÇÃO. PRIMARIEDADE. AUSÊNCIA DE VIOLÊNCIA OU GRAVE AMEAÇA. ÍNFIMA QUANTIDADE DE DROGA APREENDIDA (2,51 G DE COCAÍNA). EXCEPCIONALIDADE DA PRISÃO CAUTELAR. SUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS.
+Ordem concedida liminarmente.
