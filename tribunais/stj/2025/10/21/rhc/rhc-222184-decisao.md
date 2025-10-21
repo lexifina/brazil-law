@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WEMERSON NOVAIS DOS SANTOS contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fl. 124):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - GARANTIA DA ORDEM PÚBLICA - MANUTENÇÃO DA MEDIDA - CONDIÇÕES PESSOAIS FAVORÁVEIS - INSUFICIÊNCIA - MEDIDAS CAUTELARES DIVERSAS - INAPLICABILIDADE - EXCESSO DE PRAZO - INOCORRÊNCIA - ORDEM DENEGADA.
+1. Para decretação da prisão preventiva devem ser observadas as circunstâncias descritas nos artigos 312 e 313 do CPP.
+2. Ante a existência de prova da materialidade delitiva e de indícios suficientes de autoria, resta demonstrada a necessidade da prisão preventiva para a garantia da ordem pública e da aplicação da lei penal.
+3. Havendo elementos concretos da imperatividade da manutenção da segregação cautelar, não há que se falar na aplicação de medidas cautelares diversas.
+4. O excesso de prazo para a formação da culpa e trâmite processual deve ser analisado com base no princípio da proporcionalidade, segundo o qual se deve aferir se há razoabilidade entre o lapso temporal dos atos processuais realizados, que pode ser dilatado conforme a complexidade do caso ou na hipótese de haver justificativa legítima para o atraso.
+5. Ordem denegada
+Narram os autos que o recorrente foi preso em flagrante, teve sua prisão convertida em preventiva e foi denunciado pela suposta prática dos delitos previstos no art. 33, caput, da Lei n. 11.343/2006 e no art. 155, § 3º, do Código Penal.
+Inconformado, impetrou habeas corpus na colenda Corte de origem, que denegou a ordem (Habeas Corpus n. 1.0000.25.207175-8/000).
+Aqui, sustenta o recorrente constrangimento ilegal consistente em excesso de prazo para a realização da audiência de instrução e julgamento, tendo sido a audiência redesignada para 28/10/2025, permanecendo o recorrente preso desde 9/4/2025 (fls. 140/152).
+Aduz que a decisão que decretou a prisão preventiva teria se fundamentado apenas na gravidade abstrata dos crimes, sem indicação de elementos concretos que demonstrassem a necessidade da medida cautelar extrema. Afirma que a segregação cautelar, que é a exceção, deve ser empiricamente fundamentada em circunstâncias particulares do caso concreto. Sustenta violação do princípio da presunção de inocência e do princípio da duração razoável do processo.
+Postula, ao final, o conhecimento e o provimento do recurso para que seja concedida a ordem de habeas corpus, permitindo que o recorrente seja posto em liberdade provisória, impondo, se for o caso, as medidas cautelares alternativas.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 160/170).
+É o relatório.
+O recurso não comporta provimento.
+No caso, verifica-se que a prisão preventiva do recorrente está devidamente fundamentada em elementos concretos que demonstram a necessidade da medida cautelar para garantia da ordem pública.
+Conforme consignado na decisão que decretou a prisão preventiva, o recorrente foi preso durante a Operação Dualitas, realizada conjuntamente pelas Polícias Militar e Civil de Januária/MG, em cumprimento a mandado de busca e apreensão. Durante a diligência, foram apreendidos 26,44 g de maconha e 45,17 g de cocaína, além de ter sido constatada ligação clandestina de energia elétrica. Ainda segundo o acórdão de origem, as drogas já se encontravam embaladas e prontas para distribuição (fls. 124/132).
+Ademais, destaca-se que o recorrente é apontado como um dos líderes da organização criminosa denominada "Facção da Galileia", atuante no tráfico de drogas e em crimes violentos contra membros de facções rivais, como a "Facção Jabá/Caic" (fl. 16). A investigação revelou o envolvimento de grupos criminosos oriundos de diversos bairros de Januária, setores marcados por histórica disputa, com confrontos intensos e sucessivos homicídios, além de ocorrências de roubos e disparos de arma de fogo (fl. 128).
+Sobre o tema, esta Corte tem decidido que a vinculação a organizações criminosas é fundamento para a manutenção da prisão preventiva: AgRg no RHC n. 220.574/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 27/8/2025.
+Com relação ao excesso de prazo, dizem nossos precedentes que deve ser aferido nos limites da razoabilidade, considerando-se as circunstâncias excepcionais que retardem o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais.
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam afetar o curso da ação penal. Por todos, colho estes da Sexta Turma: AgRg no RHC n. 132.777/AL, da minha relatoria, DJe 1º/12/2021; e RHC n. 140.433/RS, Ministro Antonio Saldanha Palheiro, DJe 10/3/2021.
+N o caso dos autos, o trâmite processual é compatível com a complexidade do caso, não se vislumbrando desídia do juízo, uma vez que a redesignação da audiência de instrução e julgamento para o dia 28/10/2025 foi devidamente justificada nos autos.
+Quanto às medidas cautelares diversas da prisão, observa-se que as mesmas restariam insuficientes para as finalidades da segregação cautelar. Dadas as circunstâncias do caso concreto, notadamente a variedade e quantidade das substâncias apreendidas, o envolvimento do recorrente em organização criminosa estruturada e a histórica disputa violenta entre facções rivais na região, mostra-se necessária a manutenção da prisão cautelar.
+Diante do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E FURTO QUALIFICADO. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.
+Recurso improvido.
