@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) inviabilidade de se alegar violação ao artigo 5º, XXXV, da CF, por meio de recurso especial; (b) não ocorrência de ofensa ao art. 1.022, I e II, do CPC/2015; (c) incidência da Súmula 7/STJ; (d) ausência de prequestionamento dos artigos 322, 324, 330, 373, I e II, e § 2º, do CPC/2015.
+Ocorre que a parte agravante não impugnou, especificamente, a aplicação da súmula 7/STJ e a não ocorrência de ofensa ao artigo 1.022, I e II, do CPC/2015, o que acarreta o não conhecimento do agravo.
+No que diz respeito ao art. 1.022, I e II, do CPC/2015, a decisão agravada adotou o seguinte fundamento para reconhecer a ausência de violação ao referido dispositivo legal (fls. 451/452, e-STJ):
+No que tange à suscitada ofensa ao dispositivo acima mencionado, alega o recorrente que a decisão não está devidamente fundamentada. Contudo, verifica-se que a matéria foi enfrentada pelo acórdão, que restou consignado da seguinte forma:
+ ..  Inobstante, a mudança do Regime Jurídico dos Servidores Públicos do Município de Brumado, vale ressaltar que a lei revogada deve ser levada em consideração até o limite da sua vigência para fins de cálculo do tempo para progressão, uma vez que, mesmo em não havendo direito adquirido a regime jurídico, há de ser observado direito subjetivo adquirido pela autora quando da vigência da lei que posteriormente seria revogada.
+Depreende-se do caderno processual que a autora é servidora pública Municipal efetiva, empossada no cargo de professora em 08/02/2000 (ID 50982603).
+A legislação municipal firmou como requisitos para aquisição da progressão horizontal apenas o interstício temporal e a aprovação em avaliação de desempenho.
+Cumprido o critério temporal, percebe-se que o Município se quedou inerte quanto à realização das avaliações de desempenho.
+Cumpridas as exigências legais para a progressão horizontal deve ser o direito concedido ao servidor, ainda que pendente de realização e aprovação em avaliação desempenho.
+No caso, preenchido o requisito temporal, previsto na Lei Municipal nº Lei 1.313/2004, a progressão horizontal deve ser concedida.
+Verifica-se, portanto, que a concessão da progressão horizontal não representa uma faculdade do gestor público, mas, sim, um direito conquistado pelos servidores, a partir do implemento de duas condições fáticas, quais sejam, a condição temporal e a obtenção de conceito favorável em avaliação de desempenho.  ..
+Nesse contexto, verifica-se que a matéria em exame foi devidamente enfrentada pela decisão impugnada, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+É pacífico na Corte Infraconstitucional, que o magistrado não está obrigado a rebater individualmente os argumentos expendidos pelas partes, quando já encontrou fundamentação suficiente para decidir a lide.
+Ocorre que, ao abordar o tema (fl. 467, e-STJ), o agravante se limitou a limitou a afirmar de forma genérica a ofensa ao referido normativo, sem oferecer contraponto ao entendimento de que o trecho transcrito na decisão agravada apresenta fundamentação suficiente para rejeitá-la.
+Não houve, igualmente, impugnação à aplicação da Súmula 7/STJ, pois, para afastá-la, não basta a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da demanda.
+Ausente impugnação específica a todos os fundamentos adotados na decisão de inadmissibilidade do recurso especial, é inviável o conhecimento do agravo interposto.
+Nesse sentido: AgInt no AREsp 2.228.742/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe 15/3/2023; AgInt no AREsp 2.083.809/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 16/3/2023; AgInt no REsp n. 2.042.843/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/5/2023, DJe de 5/5/2023.
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. NÃO OCORRÊNCIA DE OFENSA A O ART. 1.022 DO CPC/2015. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
