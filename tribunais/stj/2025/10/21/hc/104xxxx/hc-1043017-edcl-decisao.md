@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CEZAR LUIZ DA SILVA contra decisão monocrática, da minha lavra, que não conheceu do mandamus.
+O embargante aduz que a decisão de e-STJ fls. 247/253 foi contraditória com relação a suposta revogação das medidas cautelares.
+Argumenta que "alegar que as Cautelares foram revogadas por ocasião da sentença de 1º grau, não condiz com a verdade dos autos e das provas devidamente apresentadas, repito, mais uma vez, o Habeas Corpus pode até ser negado, mas com uma decisão que traga a realidade e veracidade do que foi apresentado" (e-STJ fl. 262).
+Pugna, assim, pelo "provimento integral dos presentes embargos para que se reconheça a parte contraditória, reformando o V. Acórdão para conceder a ordem ao Paciente reconhecendo que as cautelares não foram revogadas por ocasião da sentença de 1º grau e que referido tempo de recolhimento noturno e aos sábados e domingos, após a sentença de 1º grau deve ser computado para fins de detração" (e-STJ fl. 262).
+É o relatório. Decido.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EAREsp n. 650.536/RJ, Relator Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 5/11/2021).
+Na hipótese, o embargante alega que a decisão de fls. 247/253 foi contraditória com relação a suposta revogação das medidas cautelares.
+Não prospera a irresignação em relação a alegada contradição, tendo a decisão agravada, destacado que "o teor da sentença proferida no dia , foi deferido ao29/07/2019 réu o direito de recorrer em Liberdade - e-STJ, fl. 204, cessando, assim, automaticamente, as medidas cautelares anteriormente concedidas" (e-STJ fl. 252).
+Consignou-se ainda que a "liberdade provisória mediante o cumprimento de medidas cautelares diversas do cárcere difere-se da condição de condenado após a sentença, pela qual, mesmo que concedido o direito de recorrer em liberdade, o réu não faz mais jus à detração do período de pena provisória" (e-STJ fl. 252).
+No caso concreto, ao contrario do alegado pelo embargante, verifica-se que não constou da sentença condenatória nenhuma menção sobre a manutenção das medidas alternativas determinadas na revogação da custódia cautelar, que limitou-se a assim consignar (e-STJ fl. 204):
+Posto isto, julgo PROCEDENTE a pretensão punitiva estatal para condenar o réu CEZAR LUIZ DA SILVA à pena de 05 anos e 10 meses de reclusão e ao pagamento de 583 dias-multa, fixado este em 1/30 (um trigésimo) do salário mínimo vigente ao tempo dos fatos, como incurso no artigo 33, caput, da Lei nº 11.343/06.
+Faculto ao acusado o direito de apelar em liberdade.
+A pena deverá ser cumprida em regime inicial fechado (cf. STF, HC nº 82.959-7/SP), em razão da gravidade do delito, considerado hediondo, e sua forte repercussão social. Por igual fundamento, incabível sursis e substituição da pena privativa de liberdade por restritiva de direitos, consoante aos artigos 44, I, III e 77, caput, II, ambos do Código Penal.
+Dessa forma, não há se falar em omissão ou contradição , mas sim em mera irresignação. Assim, resolvidas as questões com fundamentação satisfatória, acaso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. SÚMULA N. 182/STJ. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. MERA IRRESIGNAÇÃO.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. A contradição que autoriza a oposição dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, situação que não ocorre no acórdão embargado. Precedente.
+3. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo do recurso integrativo, não há como este ser acolhido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 04/08/2020).
+Nessa linha de intelecção, revela-se manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal, o que inviabiliza a utilização dos embargos de declaração.
+Pelo exposto, rejeito os aclaratórios.
+Publique-se.
+EMENTA
