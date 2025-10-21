@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União (Fazenda Nacional) com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 469):
+PROCESSO CIVIL E TRIBUTÁRIO. AÇÃO RESCISÓRIA. CABIMENTO. PIS E COFINS. BASE DE CÁLCULO. EXCLUSÃO DO ICMS. RE 574.706. TEMA 69. MODULAÇÃO DE EFEITOS.
+1. É cabível o manejo de ação rescisória, desde que observados os prazos legais, para adequar capítulo do acórdão à modulação dos efeitos determinada pelo Supremo Tribunal Federal em sede de Repercussão Geral.
+2. No julgamento dos embargos de declaração no RE 574.706, o STF decidiu que a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da COFINS tem efeitos para os fatos geradores ocorridos a partir de 15/3/2017 (Tema 1279), ressalvadas as ações judiciais e expedientes administrativos protocolados até a data da sessão em que proferido o julgamento (15/03/2017).
+Opostos aclaratórios, foram rejeitados (fls. 491/493).
+Nas razões do recurso especial, a recorrente aponta violação ao art. 85, caput, do CPC. Sustenta que "A condenação da parte vencida ao pagamento de honorários advocatícios é, pois, um imperativo de ordem legal, que somente pode ser afastado por força de lei" (fl. 498).
+Contrarrazões às fls. 501/505.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Observa-se que o recorrente não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que, "nas ações rescisórias relacionadas ao Tema 69, não há como atribuir à empresa qualquer tipo de responsabilidade, inclusive de natureza sucumbencial, pela ação rescisória que é fundada na modulação temporal determinada pelo STF, visto que tal delimitação se deu com esteio em questões de segurança jurídica e não no mérito da causa" (fl. 467), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos ele s". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ademais, tem-se que a Corte regional aplicou o princípio da causalidade à hipótese vertente, entendendo que, " nas ações rescisórias relacionadas ao Tema 69, não há como atribuir à empresa qualquer tipo de responsabilidade, inclusive de natureza sucumbencial, pela ação rescisória que é fundada na modulação temporal determinada pelo STF, visto que tal delimitação se deu com esteio em questões de segurança jurídica e não no mérito da causa" (fl. 467) .
+Assim, é certo que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse passo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REVISÃO. REEXAME DO ACERVO PROBATÓRIO. INADMISSIBLIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Conforme pacífico entendimento jurisprudencial deste Tribunal Superior, na hipótese em que a instauração do processo decorre de ato atribuído ao próprio contribuinte ou responsável tributário, deve-se observar o princípio da causalidade, caso a caso, para se impor a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência. Precedentes.
+4. A via do recurso especial não se revela adequada à revisão de fatos e provas, não sendo, por isso, própria para a aferição da culpa pelo ajuizamento indevido da ação judicial para o fim de observar o princípio da causalidade. Observância da Súmula 7 do STJ. Precedentes.
+5. No caso dos autos, o contexto fático descrito pelo órgão julgador revela a conformidade do acórdão recorrido com jurisprudência deste Tribunal Superior e a inadequação de sua revisão na via do especial, na medida em que, sem reexame do acervo probatório, não há como se alterar a conclusão do acórdão recorrido.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.547.616/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
