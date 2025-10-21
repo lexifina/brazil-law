@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE GOVERNADOR VALADARES - MG, suscitante, e o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE SANTA BARBARA D"OESTE - SP, suscitado.
+Ação: obrigação de fazer ajuizada por LUCI CLEIDE JORDÃO DA CRUZ CARNEIRO em desfavor de UNIMED DE SANTA BARBA D"OESTE E AMERICANA, com o objetivo de ser mantida no plano de saúde oferecido pela empresa requerida, mediante o pagamento das mensalidades, até a conclusão do seu tratamento oncológico.
+Manifestação do Juízo da 3ª Vara de Santa Bárbara D"Oeste - SP: reconheceu a natureza consumerista da demanda e determinou a remessa dos autos para o novo domicílio da autora. Os autos foram, então, distribuídos para o Juízo da 6ª Vara Cível de Governador Valadares - MG, que, por sua vez, declinou da competência, com base na Resolução nº 829/2016 do TJMG, em favor do Juízo da 2ª Vara Cível de Governador Valadares - MG.
+Manifestação do Juízo da 2ª Vara de Governador Valadares - MG: suscitou o presente conflito de competência, ao argumento de que a incompetência relativa não pode ser declarada de ofício.
+Parecer do MPF: opinou pela competência do juízo suscitado.
+RELATADO O PROCESSO, DECIDO.
+Inicialmente, conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes delineados pelo art. 105, I, "d", da Constituição Federal.
+Consoante a jurisprudência da Segunda Seção desta Corte, em se tratando de relações de consumo, a competência é absoluta em favor do consumidor quando este ocupa o polo passivo da ação, prevalecendo o foro de seu domicilio, em razão do princípio da facilitação da defesa.
+De outro lado, naquelas hipóteses em que a demanda foi proposta pelo consumidor, como na hipótese em análise, a lei autoriza que ele possa optar entre o foro do seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, no juízo que melhor atenda a seus interesses, pois, nestes casos a competência é relativa, aplicando-se o teor da Súmula 33 do STJ. Nesse sentido: AgRg no CC 130.813/DF, DJe 3.8.2016; AgRg no CC 129.294/DF, DJe 1º/10/2014; AgRg no CC 124.351/DF, Segunda Seção, DJe 17/5/2013.
+Na espécie, a ação foi proposta pela consumidora em Santa Bárbara D"Oeste, um dos foros concorrentes que lhe são legalmente facultados, a saber, o foro onde se encontra a agência da parte requerida, o qual, portanto, é o competente para o julgamento da demanda.
+Com efeito, consoante bem salientado pelo juízo suscitante, embora tenha sido certificado os autos que, "no curso do processo, a requerente mudou-se para a Comarca de Governador Valadares/MG, a competência territorial deve ser aferida no momento da propositura da ação, à luz do princípio da perpetuatio jurisdictionis, sendo que a requerente, no exercício de sua autonomia, escolheu o foro onde se acha a agência da requerida, opção plenamente válida e que deve ser respeitada pelo Poder Judiciário" (e-STJ fl. 140).
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE SANTA BARBARA D"OESTE - SP .
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO DE COMPETÊNCIA NEGATIVO. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PLANO DE SAUDE. ESCOLHA DO FORO PELO CONSUMIDOR. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O consumidor tem a possibilidade de escolher onde ajuizará sua ação, pois é uma faculdade pertencente somente àquela pessoa física ou jurídica destinatária final do bem ou serviço na relação de consumo.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE SANTA BARBARA D"OESTE - SP.
