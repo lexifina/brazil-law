@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de YUNES MOHAMAD DA COSTA RAMOS apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi denunciado como incurso no art. 311, caput, do Código Penal. Irresignada, a defesa impetrou prévio writ, cuja liminar nem sequer foi apreciada, haja vista o afastamento do Desembargador Relator pelo Conselho Nacional de Justiça.
+No presente mandamus, a defesa sustenta, em síntese, que há constrangimento ilegal na ausência de análise do habeas corpus impetrado na origem, em especial diante da proximidade da audiência para análise do cabimento do acordo de não persecução penal, marcada para 15/10/2025.
+Pugna, liminarmente, pela suspensão da ação penal até o julgamento de mérito do habeas corpus impetrado na origem. No mérito, requer seja determinada a apreciação do writ originário pelo substituto do relator afastado, sob pena de perda do objeto.
+A liminar foi indeferida às e-STJ fls. 53-54, sendo, no entanto, deferido o pedido de reconsideração, para deferir a liminar e suspender a ação penal até a regularização do trâmite do habeas corpus impetrado na origem.
+As informações foram prestadas, às e-STJ fls. 74-77, 78-81 e 82-84, noticiando que foi determinada a redistribuição interna do habeas corpus impetrado.
+O Ministério Público Federal se manifestou, às e-STJ fls. 86-90, pela concessão da ordem, nos seguintes termos:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DIREITO PROCESSUAL PENAL. SUPRESSÃO DE PLACA DE VEÍCULO AUTOMOTOR (ART. 311 DO CP). TRANCAMENTO DE AÇÃO PENAL. ATIPICIDADE DA CONDUTA. WRIT IMPETRADO NO TRIBUNAL DE ORIGEM (TJRJ). RELATOR AFASTADO POR DECISÃO DO CNJ. DEMORA NA APRECIAÇÃO DE LIMINAR. PROXIMIDADE DE AUDIÊNCIA DE ANPP. PERICULUM IN MORA E FUMUS BONI JURIS. SUPRESSÃO DE INSTÂNCIA. MITIGAÇÃO EM CASOS DE FLAGRANTE CONSTRANGIMENTO ILEGAL E INÉRCIA JUDICIAL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. CONCESSÃO PARA CONSOLIDAR A SUSPENSÃO DA AÇÃO PENAL ATÉ JULGAMENTO DO MÉRITO DO WRIT NA ORIGEM.
+Parecer pela concessão da ordem, confirmando-se a liminar deferida.
+É o relatório. Decido.
+De início, esclareço que o presente habeas corpus não é substitutivo de recurso próprio, uma vez que se insurge contra a negativa de prestação jurisdicional do Tribunal de Justiça do Estado do Rio de Janeiro.
+Quanto ao mérito propriamente dito, conforme destacado na decisão que deferiu o pedido liminar, verificou-se a presença não apenas do perigo da demora, diante da designação de audiência de proposta de ANPP, mas também da plausibilidade jurídica do pedido, haja vista a ausência de prestação jurisdicional pela Corte de origem, em situação na qual se discute a própria tipicidade da conduta.
+Conforme destacado pelo Ministério Público Federal (e-STJ fl. 90):
+Todavia, ainda que o mérito da atipicidade não deva ser exaustivamente analisado por essa Corte para evitar supressão, a alegação de que a condução de veículo sem placa não se enquadra na modalidade de adulteração ou remarcação de sinal identificador (Art. 311 do CP) apresenta plausibilidade jurídica, tendo em vista que a jurisprudência tem debatido se a mera ausência ou supressão, sem alteração fraudulenta do sinal, constitui infração penal ou apenas administrativa de trânsito.
+Nesse contexto, embora regularizado o trâmite do habeas corpus impetrado perante o Tribunal de origem, a suspensão do processo deve ser mantida até o seu julgamento de mérito, "garantindo o direito à jurisdição efetiva e evitando o perecimento do HC na origem e a celebração de um ANPP sobre fato potencialmente atípico" (e-STJ fl. 90 ).
+Pelo exposto, concedo a ordem para manter a suspensão do processo na origem até o julgamento do mérito do habeas corpus impetrado na origem.
+Publique-se.
+EMENTA
