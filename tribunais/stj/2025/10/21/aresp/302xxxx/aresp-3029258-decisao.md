@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LUCIANA OLIVEIRA DA COSTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRRUMENTO. GRATUIDADE DA JUSTIÇA. HIPOSSUFICIÊNCIA ECONÔMICA. NÃO COMPROVAÇÃO. AUSÊNCIA DE INOVAÇÃO RECURSAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1. A agravante não trouxe, no agravo interno, nenhum argumento novo apto a infirmar as razões que fundamentaram a decisão monocrática, limitando-se à reiteração de fundamentos anteriormente enfrentados.
+2. A gratuidade da justiça é benefício excepcional, deferido somente àqueles que comprovam não possuir condições de arcar com as despesas processuais sem prejuízo da própria subsistência, nos termos do art. 98 do Código de Processo Civil, cuja presunção de veracidade é relativa (art. 99, § 3º, do CPC).
+3. A documentação constante dos autos revela ser a agravante titular de patrimônio significativo, incluindo imóveis e aplicações financeiras, bem como de microempresa, o que demonstra capacidade econômica incompatível com a alegada hipossuficiência.
+4. A ausência de rendimentos declarados, por si só, não basta para configurar insuficiência de recursos, especialmente quando há outros elementos probatórios que indicam movimentação patrimonial relevante.
+5. O extrato bancário apresentado, ainda que parcial e desatualizado quanto ao histórico, indica saldo positivo, não evidenciando situação de vulnerabilidade financeira atual. A venda recente de imóvel também constitui indício de disponibilidade econômica.
+6. Conforme jurisprudência consolidada do Superior Tribunal de Justiça, é lícita a repetição, na decisão colegiada, dos fundamentos da decisão monocrática, quando o agravante não apresenta alegações novas (EDcl no AgInt no AREsp 1.411.214/MG).
+7. Eventual alteração da situação financeira poderá justificar nova apreciação do pedido de gratuidade, nos termos do art. 99, § 7º, do CPC.
+AGRAVO INTERNO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne ao preenchimento dos requisitos para o reconhecimento dos direito aos benefícios da justiça gratuita, diante da demonstração da impossibilidade de arcar com as despesas processuais sem comprometer sua subsistência, bem como em razão da presunção de veracidade da declaração de hipossuficiência par fins de deferimento do benefício, trazendo a seguinte argumentação:
+No caso concreto, conforme dados lançados na última declaração do imposto de renda (Exercício 2024 - Ano 2025), a recorrente não auferiu renda:
+ ..
+Ainda, sublinha-se que a assistência judiciária é um direito constitucionalmente assegurado, que se destina a possibilitar que todo cidadão tenha acesso à justiça, sem restrições decorrentes de fatores econômicos.
+ ..
+A declaração de hipossuficiência financeira assinada pela recorrente é apta e suficiente à demonstração da insuficiência de recursos alegada, diante da presunção de veracidade que lhe é outorgada por força do art. 99, §3º do Código de Processo Civil, que dispõe:
+ ..
+No caso concreto, a recorrente atualmente é secretaria de consultório médico e para retomada do seu imóvel requereu pedido de gratuidade de justiça, já que não tinha condições de efetuar o pagamento de mais de R$ 7.000,00 (sete mil reais) de custas iniciais, sem fulminar com prejuízos ao seu sustento.
+ ..
+Sendo assim, constata-se que a recorrente não possui patrimônio expressivo (ÚM ÚNICO IMÓVEL E CARRO POPULAR NO VALOR DE R$ 30.000,00), motivos pelos quais se qualifica como hipossuficiente, atendendo assim aos pressupostos para concessão da benesse.
+ ..
+Analisando os extratos ora anexados pela recorrente, constata-se que recebeu no período de 19/12/2023 a 18/01/2025 o equivalente a R$ 37.496,00, sendo aproximadamente R$ 2.084,00 (dois mil e oitenta e quatro reais) média mensal recebida.
+De todo modo, aqui, analisa-se a renda da recorrente - eis que o patrimônio em si é ilíquido, não interferindo na análise da gratuidade judiciária -, e claramente ela justifica a concessão do benefício postulado.
+Em que pese tenha patrimônio ilíquido, conforme mencionado, é de se destacar não ser grande patrimônio. De todo modo, é um patrimônio construído ao longo de uma vida, não se prestando a embasar a indeferimento da benesse.
+De mais a mais, para a concessão do aludido benefício não se exige miserabilidade, nem indigência, pois basta que a parte não possa suportar os encargos do processo sob pena de prejudicar o sustento do postulante.
+É indispensável pontuar que, para a concessão da benesse da gratuidade judiciária, nos termos do art. 98 do Código de Processo Civil, é necessário que a pessoa comprove a insuficiência de recursos para o pagamento das custas, despesas e honorários 2 .
+Outrossim, o fato de a requerente ter aplicação financeira não a obriga a se desfazer de tais economias para custear o processo. Até porque, muitas vezes trata- se de dinheiro guardado por toda uma vida para assegurar eventuais situações de infortúnio ou, até mesmo, para realizar projetos de longo prazo. Ademais, fazem parte do patrimônio que, não elide a possibilidade de concessão da AJG.
+ ..
+Sendo assim, cabível seja concedida a Assistência Judiciária Gratuita diante da comprovação já apresentada nos autos, demonstrando que a recorrente não tem condições de arcar com os custos do processo, já que compromete muito sua renda com seus custos básicos para sobrevivência.
+ ..
+Para finalizar, para fazer jus ao benefício da gratuidade não se apresenta necessário que o pretendente seja miserável, BASTA QUE O DISPÊNDIO REFERENTE ÀS CUSTAS PREJUDIQUE O SUSTENTO PRÓPRIO E O DA FAMÍLIA (fls. 133/139).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Como é sabido, o benefício da gratuidade judiciária é destinado àqueles que, efetivamente, demonstram não ter condições de arcar com as custas processuais sem prejuízo de sua subsistência e de sua família. Como todo benefício, deve ser concedido moderadamente e tão só para quem realmente precise, até porque a presunção concernente à hipossuficiência é relativa.
+Nesse sentido, o art. 98 do CPC estabelece que "a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Por sua vez, o art. 99, § 3º, do CPC confere presunção juris tantum de veracidade da alegação de necessidade.
+A gratuidade judiciária foi indeferida por entender o juízo a quo que os bens da autora não guardam compatibilidade com a ausência de rendimentos declarada.
+Com efeito, a autora anexou as declarações de Imposto de Renda (evento 1, OUT5), as quais revelam a titularidade de um considerável patrimônio, compreendendo um apartamento, um terreno, um box e aplicações financeiras, além de ser titular de uma microempresa individual. Tais elementos evidenciam que a postulante dispõe de condições econômicas suficientes para arcar com o pagamento das custas judiciais.
+Note-se, ademais, que o imóvel da agravante declarado perante o fisco (Av. Cavalhada) não é o mesmo onde reside (Rua Alfredo Varella). É possível que a agravante tenha, portanto, também renda decorrente de aluguel.
+Assim, malgrado a ausência de rendimentos tributáveis declarada pela agravante, seu acervo patrimonial não condiz com a alegada hipossuficiência econômica. Destarte, não demonstrada situação excepcional que ampare a pretensão da recorrente de ver restabelecido o benefício da gratuidade, é de ser mantida a decisão agravada.
+ ..
+Ademais, a noticiada alienação de imóvel, comprovada pela juntada da matrícula atualizada ( evento 15, MATRIMÓVEL4), longe de infirmar a presunção de capacidade econômica, corrobora a existência de movimentação patrimonial relevante, reforçando a conclusão de que a recorrente não se enquadra na condição de benefi ciária presumida da gratuidade de justiça, especialmente diante da titularidade anterior de mais de um imóvel (fls. 123/124)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
