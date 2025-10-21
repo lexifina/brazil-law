@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por WELHIGHTON CAMPOS NUNES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que não admitiu o recurso especial, em razão da incidência das Súmulas n. 7 e 211 do STJ (fls. 459-463).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 285-286):
+APELAÇÃO CÍVEL. REVISÃO DE APOSENTADORIA. SERVIDOR PÚBLICO ESTADUAL. CÔMPUTO DO TEMPO DE CONTRIBUIÇÃO EM OUTRO ÓRGÃO PÚBLICO. CONTAGEM DE TEMPO DE CONTRIBUIÇÃO. PAGAMENTO A PARTIR DO TRÂNSITO EM JULGADO. APOSENTADORIA JUNTO AO IMPAR. AUSÊNCIA DE PROVA DO ALEGADO. INOVAÇÃO RECURSAL. ACERTO DA SENTENÇA. HONORÁRIOS ADVOCATÍCIOS EM GRAU RECURSAL. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, IMPROVIDO.
+1- Incontroverso o direito do autor, ora recorrido, ao cômputo do tempo de contribuição de período anterior, em outro órgão publico, averbando-se o tempo de contribuição junto ao Regime Próprio da Previdência Social do Estado do Tocantins. O autor apresentou provas su cientes nos autos de que laborou anteriormente ao labor junto ao órgão estadual, no período compreendido entre 01/03/1993 a 31/03/1998 e 01/04/1998 a 31/03/2009, possuindo direito à tal averbação.
+2- Ainda, tem-se que a sentença não determinou o pagamento de valores desde a aposentadoria do servidor, como faz crer o recorrente, e sim a contar do trânsito em julgado.
+3- A alegação de que a parte ré, ora recorrente, de que o autor já se encontra aposentado pelo IMPAR é ausente de qualquer prova e não foi alegada em sede de contestação, sendo de rigor o não conhecimento desta parte do apelo.
+4- Honorários advocatícios em grau recursal, com apuração em liquidação de sentença, na forma descrita no art. 85, §§2º, 3º e 4º do CPC.
+5- Recurso parcialmente conhecido e, na parte conhecida, improvido.
+Embargos de declaração rejeitados (fls. 370-371).
+No recurso especial, interposto com fundamento no artigo 105, III, a, da Constituição Federal, a parte recorrente alega as seguintes ofensas:
+a) Emenda Constitucional n. 70/2012: defende que a EC 70/2012 "assegura que o servidor que ingressou no serviço público até a data de publicação da Emenda Constitucional 41/2003 e que se aposentou por invalidez permanente  faz jus à aposentadoria com proventos calculados com base na remuneração do cargo efetivo", afirmando contrariedade do acórdão recorrido ao entendimento fixado pelo Supremo Tribunal Federal no Tema 754, bem como a necessidade de observar os efeitos financeiros prospectivos a partir de 30/03/2012 (fls. 388-397); b) art. 48 da Lei Estadual n. 1.614/2005: afirma violação por não aplicação da regra de contagem recíproca do tempo de contribuição vinculado a outro regime previdenciário, com soma de tempo RGPS/RPPS para revisão dos proventos, ressaltando que "a contagem recíproca é um direito fundamental  " e que o tempo em regimes distintos deve ser considerado (fls. 390-392); e, (c) art. 54 da Lei Complementar Estadual n. 150/2023: sustenta que a legislação complementar manteve a garantia de contagem recíproca nas mesmas bases do art. 48 da Lei n. 1.614/2005, devendo ser aplicada para computar o tempo de contribuição do recorrente em regimes diversos no recálculo dos proventos (fls. 391-392).
+Com contrarrazões (fls. 449-452).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta (fls. 479-487).
+É o relatório. Decido.
+Consigne-se que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Nos termos do art. 105, III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos e/ou princípios constitucionais, cuja competência pertence ao Supremo Tribunal Federal.
+Assim, sob pena de usurpação de competência, não se conhece do apelo especial no tocante à alegada violação da Emenda Constitucional n. 70/2012 e necessidade de adequação ao entendimento fixado pelo Supremo Tribunal Federal no Tema n. 754.
+Ademais, no que diz respeito à ofensa ao artigo 48 da Lei Estadual n. 1.614/2005 e ao artigo 54 da Lei Complementar Estadual n. 150/2023, resta evidente que o recurso especial também não deve ser conhecido nesta Corte Superior, por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula n. 280/STF.
+Ante o exposto, conheço do agravo, para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR ESTADUAL INATIVO. PEDIDO DE EXAME DA EC N. 70/2012 E APLICAÇÃO DO TEMA N. 754/STF. USURPAÇÃO DA COMPETÊNCIA DO STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. RECURSO NÃO CONHECIDO.
