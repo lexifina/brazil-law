@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MAJORADO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. REGIME PRISIONAL MENOS GRAVOSO. IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação quanto às especificidades da causa, a fim de absolver o réu, demandaria o revolvimento de fatos e provas.
+2. Os maus antecedentes (duas condenações pretéritas e transitadas em julgado) justificam a imposição do regime prisional semiaberto, além da própria dinâmica delitiva, uma vez que a instância ordinária ressaltou que a conduta penal foi praticada contra ofendido septuagenário, o que revela juízo de reprovabilidade mais exacerbado.
+3. A ausência de elementos novos ou argumentos juridicamente relevantes aptos a infirmar a decisão agravada impõe a manutenção do acórdão que negou provimento ao recurso especial.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAUPH APARECIDO RAMOS COSTA interpõe agravo regimental contra decisão de fls. 838-848, na qual conheci do agravo para negar provimento ao recurso especial. Naquela oportunidade, a defesa postulou a absolvição do recorrente, sob o argumento da fragilidade do conjunto fático-probatório que amparou a condenação. Alternativamente, pugnou nova dosimetria (redução da pena basilar), a imposição de regime prisional mais benéfico e a substituição da sanção por restritiva de direitos. Assim, apontou violação dos arts. 44 e 71 do Código Penal; 386, III e VII, e 387, IV, ambos do Código de Processo Penal (fl. 838).
+Trata-se de réu condenado, pela prática do crime de estelionato qualificado, previsto no art. 171, § 2º, c/c o § 4º, do Código Penal, à pena de 1 ano, 6 meses e 20 dias de reclusão, no regime semiaberto, mais 14 dias-multa à razão mínima.
+Nesta interposição, a defesa reitera os pleitos às fls. 853-866 e requer a submissão do recurso à Turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MAJORADO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. REGIME PRISIONAL MENOS GRAVOSO. IMPOSSIBILIDADE. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação quanto às especificidades da causa, a fim de absolver o réu, demandaria o revolvimento de fatos e provas.
+2. Os maus antecedentes (duas condenações pretéritas e transitadas em julgado) justificam a imposição do regime prisional semiaberto, além da própria dinâmica delitiva, uma vez que a instância ordinária ressaltou que a conduta penal foi praticada contra ofendido septuagenário, o que revela juízo de reprovabilidade mais exacerbado.
+3. A ausência de elementos novos ou argumentos juridicamente relevantes aptos a infirmar a decisão agravada impõe a manutenção do acórdão que negou provimento ao recurso especial.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+O não provimento do recurso especial ocorreu com amparo nas Súmulas n. 7 e 83, ambas do STJ, sob a seguinte fundamentação, no que interessa (fls. 838-848, grifei):
+ ..  II. Pleito absolutório
+Ao concluir pela condenação do recorrente, o Tribunal estadual ressaltou que o conjunto probatório, notadamente o relato da vítima, corroborados pelas declarações testemunhais, infirma a autodefesa apresentada. Portanto, é irrefutável que o acusado foi o autor do estelionato, dado que, mediante fraude, recebeu quantia expressiva do ofendido, que acreditou se tratar de compra e venda de automóvel sem ônus  ..  justamente porque verificado que a instância de origem, ao entender pela autoria do réu no cometimento do delito em apreço, sopesou as provas colhidas e os depoimentos obtidos em juízo, não há como se proclamar a absolvição, como pretendido.
+ ..  promover mais incursões na dosagem das provas constantes dos autos para se concluir sobre a viabilidade ou não da condenação do recorrente é questão que esbarra na própria apreciação de possível inocência, matéria que não pode ser dirimida em recurso especial  ..  a tese absolutória não encontra espaço na via do recurso manejado pela defesa, uma vez que a aferição do pedido exigiria incursão no conjunto de fatos e provas  .. .
+III. Dosimetria - pena inaugural
+ ..  a pena basilar foi fixada pelos acima do mínimo legal maus antecedentes, pois existentes três condenações penais transitadas em julgado por fatos anteriores ao do crime em apreço. Contudo, o Tribunal local deu parcial para reduzir a exasperação da sanção inicial à razão provimento ao apelo defensivo de 1/6  ..  afigura-se irretocável a valoração negativa do referido vetor judicial,  ..  quantum reconhecido, pela instância ordinária, como razoável e proporcional à elevação da pena-base.
+IV. Regime prisional e substituição da reprimenda por restritiva de direitos
+ ..  Esta Corte Superior tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, à quantidade de reprimenda imposta vale dizer, para a escolha do regime prisional devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso  .. .
+ ..  não verifico ilegalidade na fixação do regime mais severo (semiaberto) porque foram apontados dados fáticos suficientes a indicar a maior gravidade concreta do crime, muito embora a quantidade da pena não haja sido fixada acima de 2 anos de reclusão  ..  os maus antecedentes (duas condenações pretéritas e transitadas em julgado) justificam a imposição do regime prisional semiaberto, além da própria dinâmica delitiva, haja vista que a instância ordinária ressaltou que a conduta penal foi praticada contra ofendido septuagenário, o que revela juízo de reprovabilidade mais exacerbado  .. .
+Nota-se, portanto, que o agravante visa, tão somente, reinaugurar discussão quanto às matérias já analisadas no âmbito do recurso especial no tocante às especificidades da causa, o que demandaria, necessariamente, o revolvimento de fatos e provas.
+Ressalta-se que a compreensão desta Corte de Justiça é a de que "A ausência de elementos novos ou argumentos juridicamente relevantes aptos a infirmar a decisão agravada impõe a manutenção do acórdão que negou provimento ao recurso especial" (AgRg no AREsp n. 2.868.361/SP, Rel. Ministro Carlos Cini Marchionatti (Desembargador convocado TJRS), 5ª T., DJEN 9/6/2025).
+À vista do exposto, nego provimento ao agravo regimental.
