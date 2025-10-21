@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JOSHUA VINICIUS CALIXTO DOS SANTOS, condenado pelos crimes dos arts. 33 e 35 da Lei n. 11.343/2006 à pena de 8 anos de reclusão, em regime inicial fechado (Processo n. 1509174-57.2022.8.26.0302, da 2ª Vara Criminal da comarca de Jaú/SP) - (fl. 2).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 21/11/2024, negou provimento à apelação defensiva e manteve a condenação e o regime fechado (Apelação Criminal n. 1509174-57.2022.8.26.0302).
+Alega a necessidade de extensão, nos termos do art. 580 do Código de Processo Penal, do regime inicial semiaberto concedido a corréus em situação idêntica (Leonardo Vinicius Machado Leme e Danilo Levi Cassiano), com fundamento objetivo e não pessoal.
+Sustenta primariedade, ausência de antecedentes, vínculo familiar e laboral, e resposta ao processo em liberdade, sem intercorrências. Aponta desproporcionalidade do regime fechado e constrangimento ilegal, requerendo a aplicação isonômica da decisão extensiva aos corréus, em conformidade com precedentes desta Corte.
+Requer a concessão da ordem para que seja determinada a extensão do regime semiaberto ao paciente.
+É o relatório.
+Com relação ao regime inicial, a exemplo do que foi decidido no HC n. 966.020/SP, em benefício do corréu Danilo, a orientação desta Corte é no sentido de que a fixação de regime prisional mais gravoso deve ser fundamentada em circunstâncias judiciais desfavoráveis ou reincidência (AgRg no RHC n. 110.812/PR, Min. Leopoldo de Arruda Raposo (Desembargador Convocado do TJPE), Quinta Turma, DJe 10/12/2019; AgRg no REsp n. 2.186.380/SP, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025; e AgRg no HC n. 811.839/SC, Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 15/9/2023). Assim, também ao ora paciente Joshua, infere-se que seria cabível o regime inicial semiaberto, nos termos do art. 33, § 2º, do CP, já que sua condenação totalizou 8 anos de reclusão e não se trata de reincidente.
+O Tribunal de origem, ao fundamentar o regime inicial mais gravoso, argumentou que, mesmo desconsiderando a equiparação à hediondez supedâneo para a estipulação do regime, é de se reconhecer que o universo probatório revelou forte vínculo dos citados réus com a mercancia abjeta, que somente o estágio fechado é capaz de refrear (fl. 35). Assim, considerando que se trata de réu primário, condenado às penas mínimas, ausentes circunstâncias judiciais desfavoráveis, e, diante da fundamentação que se utilizou de elementos genéricos ou ínsitos ao tipo penal, de rigor o ajuste do regime inicial para o semiaberto, nos termos da Súmula 440/STJ.
+Diante do exposto, concedo a ordem para estabelecer o regime inicial semiaberto ao paciente Joshua Vinicius Calixto dos Santos.
+Comunique-se ao Tribunal a quo e à Vara de origem.
+Intime-se o Ministério Público do Estado de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. FUNDAMENTOS GENÉRICOS. PRIMARIEDADE. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida nos termos do dispositivo.
