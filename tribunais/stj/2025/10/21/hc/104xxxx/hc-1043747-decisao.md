@@ -1,0 +1,29 @@
+DECISÃO
+A hipótese é de habeas corpus impetrado em favor de MARCELINO LIMA JOSE, no qual se indica como autoridade coatora o Relator Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que indeferiu o pedido liminar no HC n. 0085202-66.2025.8.19.0000 (fls. 11/13), mantendo a prisão preventiva decretada pelo Juízo de Direito da Central de Audiência de Custódia da comarca da Capital/RJ , em 2/10/2025, pela supos ta prática do crime de receptação (Processo n. 0821561-41.2025.8.19.0204 - fls. 53/56).
+Alega a defesa a nece ssidade de superação da Súmula 691/STF, por não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada em elementos concretos. Aduz ser o paciente primário, com residência fixa e ocupação lícita. Ressalta a suficiência de medidas cautelares alternativas.
+Requer, liminarmente e no m érito, a revogação da prisão preventiva .
+É o relatório.
+Inicialmente, confira-se o teor da Súmula 691 do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+O Superior Tribunal de Justiça, apesar de também observar tal enunciado, tem, todavia, flexibilizado seu entendimento, admitindo impetrações dessa natureza em situações absolutamente excepcionais, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão inquestionavelmente teratológica, despida de qualquer razoabilidade.
+Assim, na via da excepcionalidade, admite-se habeas corpus contra a decisão que indeferiu pedido liminar em writ impetrado no Tribunal a quo, ainda não julgado.
+No caso, assiste razão à defesa.
+Com efeito, o Juízo de primeiro grau decretou a prisão preventiva com base nos seguintes fundamentos (fl. 55 - grifo nosso):
+ ..
+No presente caso, atesta-se a presença do fumus comissi delicti pela prisão em flagrante do custodiado na posse da coisa subtraída, sem placa e com o número do chassi raspado bem como pelas declarações prestadas em sede policial.
+No presente caso, atesta-se a presença do fumus comissi delicti pela prisão em flagrante do custodiado, pelo auto de apreensão, bem como pelas declarações prestadas em sede policial. O periculum libertatis, definido como o risco provocado pela manutenção do indiciado em liberdade, está igualmente presente: trata-se de crime concretamente grave, por meio do qual o custodiado trafegava com motocicleta produto de roubo, sem placa e com o número do chassi raspado.
+A conduta é concretamente grave e busca eximir o condutor de suas ações e responsabilidades no trânsito , situação que não pode ser ignorada pelo juízo
+ ..
+No Tribunal de origem, o Desembargador Relator, ao indeferir a liminar, assim se pronunciou: No prumo dessa orientação e ao menos em juízo de cognição sumária inerente a esta fase procedimental, não visualizo, na espécie, si et in quantum, a necessidade de instantânea expedição de contracautela liberatória ou outra de menor restritividade jurídico-processual, a reclamar a implementação da requestada tutela qualificada de emergência (fls. 12/13).
+Como se vê, o decreto da prisão preventiva está fundamentado tão somente na gravidade abstrata do delito atribuído ao paciente, com seus normais desdobramentos, não indicando nenhum elemento concreto que evidencie a real necessidade da custódia.
+Ora, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular o seu decisum a fatores reais de cautelaridade, o que não ocorreu na espécie.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+Com efeito, a submissão do paciente às medidas cautelares previstas no art. 319 do CPP, menos gravosas que o encarceramento, é adequada e suficiente para restabelecer ou garantir a ordem pública, assegurar a higidez da instrução criminal e a aplicação da lei penal. 4. A orientação desta Corte é pacífica no sentido de que, não sendo apontados elementos concretos aptos a justificar a segregação provisória de réu primário, que cometeu delito sem violência ou grave ameaça, deve ser permitido que ele responda ao processo em liberdade (AgRg no HC n. 864.922/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/12/2023 - grifo nosso ).
+Assim, como o crime noticiado foi supostamente cometido sem violência ou grave ameaça à pessoa e, ao que tudo indica, por réu primário, entendo suficientes a aplicação de medidas cautelares alternativas, que deverão ser fixadas pelo Juízo de primeiro grau.
+Ante o exposto, superando a incidência da Súmula 691/STF, concedo, liminarmente, a ordem, a fim de revogar a prisão preventiva do paciente na ação penal de que tratam estes autos, salvo se por outra razão estiver preso, e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto, bem como determino ao Juízo de primeiro grau competente que aplique as medidas cautelares previstas no art. 319 do Código de Processo Penal que entender convenientes, observado o contexto fático do caso.
+Comunique-se, com urgência, às instânci as ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO. PRISÃO PREVENTIVA. SUPERAÇÃO DA SÚMULA 691/STF. NECESSIDADE. SUFICIÊNCIA E ADEQUAÇÃO, IN CASU, DE MEDIDAS CAUTELARES ALTERNATIVAS (ART. 319 DO CPP). CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
