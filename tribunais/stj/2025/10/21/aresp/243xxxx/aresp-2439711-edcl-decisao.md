@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Companhia Nitro Química Brasileira contra decisum singular, de fls. 479/482, que conheceu o agravo para conhecer e dar provimento ao recurso especial, sob os seguintes fundamentos: (I) inexistência de ofensa aos arts. 489, § 1, III, e 1.022, II, do Código de Processo Civil, porquanto o Tribunal de origem enfrentou integralmente a controvérsia; (II) a matéria referente aos juros moratórios, embora de ordem pública, está submetida aos limites da coisa julgada.
+Em suas razões, a parte embargante aduz, em resumo, que houve omissão na análise do item II.A.3 do recurso especial, especificamente quanto (I) "ao período de restituição referente ao período de 27 de fevereiro de 1986 a 05 de março de 1986", bem como sobre (II) "a impossibilidade de exclusão da Energia Garantida por Tempo Determinado EGTD dos efeitos das malsinadas Portarias do DNAEE n.º 38 e 45, ambas de 1986 decorrentes das majorações indevidas nas faturas de energia-elétrica, uma vez que o provimento jurisdicional foi expresso nesse sentido, não podendo o julgador altera-lo, sob pena de afronta ao disposto no art. 502, 505, 507 c.c. 508 todos do Código de Processo Civil." (fl. 489).
+A parte embargada apresentou impugnação às fls. 502/504.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De fato, a decisão embargada incorreu em omissão.
+Passo ao exame da questão omitida.
+Destaca-se da fundamentação do acórdão recorrido o seguinte trecho pertinente à matéria a qual não houve exame na decisão embargada (fls. 308/309):
+Ademais, a r. sentença condenou a agravada na restituição de valores pagos a maior, tendo em vista a majoração tarifaria, conforme a Portaria DNAEE nº 45/1986, sendo que vigorou de 5/3/1986 até 26/11/1986, sendo ato incontroverso constando da r. sentença.
+Por oportuno, deve ser prestigiada a r. decisão do juízo a quo, inclusive, no seguinte trecho em que foi determinado que os cálculos sejam refeitos, para que a impugnação possa ser julgada, a fim de que se encontre o valor devido pela executada:
+"Ante o exposto, e para que a presente impugnação possa ser julgado, DETERMINO QUE OS CÁLCULOS SEJAM REFEITOS para que se encontre o valor devido pela executada na data em que efetuou o depósito judicial (05/08/2021), com os seguintes parâmetros:".
+Assim, verifica-se que nesse ponto o Tribunal de origem decidiu a controvérsia à luz do exame da Portaria DNAEE nº 45/1986, matéria insuscetível de ser examinada em sede de recurso especial. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgInt no REsp n. 2.106.984/AL, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e AgInt no AREsp n. 2.180.965/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/3/2023, DJe de 4/4/2023.
+ANTE O EXPOSTO, acolho os presentes embargos de declaração sem efeitos infringentes.
+Publique-se.
+EMENTA
