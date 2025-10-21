@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO DO NORDESTE DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fl. 79):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO CÉDULA DE CRÉDITO INDUSTRIAL. EXTRAJUDICIAL. PRELIMINAR DE NULIDADE DA SUPOSTA AUSÊNCIA DE FUNDAMENTAÇÃO. VÍCIO NÃODECISÃO AGRAVADA. CONFIGURADO. AÇÃO REVISIONAL MANEJADA PELOSREJEIÇÃO. MÉRITO. EXECUTADOS. DECLARAÇÃO DE NULIDADE DE CLÁUSULAS CONTRATUAIS. IMPUGNAÇÃO AOS CÁLCULOS APRESENTADOS. DETERMINAÇÃO, PELO JUÍZO, DE REMESSA DOS AUTOS À CONTADORIA JUDICIAL. POSSIBILIDADE, INCLUSIVE DE OFÍCIO. PRERROGATIVA QUE TEM POR FUNDAMENTO A REGULARIDADE DA EXECUÇÃO. PRECEDENTE DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. DESPROVIMENTO DO RECURSO. 1. Não se verifica a nulidade da decisão por ausência de fundamentação, quando se encontra suficientemente motivada, efetivando a prestação jurisdicional, conforme a pretensão deduzida em juízo. 2. O juiz pode, de ofício, independentemente de requerimento das partes, enviar os autos à contadoria judicial quando houver dúvida acerca do correto valor da execução e verificar se os cálculos apresentados estão em desacordo com o título em execução. (STJ, AgInt nos EDcl no AREsp 1.716.966/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/3/2021, DJe de 7/4/2021.)
+Rejeitados os embargos de declaração opostos (fls. 114-122).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022, II, e 489, § 1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, aponta ofensa aos arts. 330, §2º, 525, §§ 4º e 5º, e 917, §§ 3º e 4º, do CPC, sustentando que "cabe à parte devedora apontar inconsistências na planilha do credor e produzir uma contraplanilha para instaurar uma controvérsia jurídica em torno do tema. Como visto, no caso vertente, o acórdão recorrido consignou expressamente que as partes contrárias foram instadas a impugnar a quantificação do valor exequendo realizada pelo Banco do Nordeste, mas não apontaram o valor que entendiam devido e tampouco trouxeram aos autos planilha demonstrando onde residiria o suposto excesso de execução" (fl. 114), o que tornou incontroverso o quantum debeatur.
+Assim, ante a inexistência de dúvidas acerca do correto valor da execução este deve prosseguir.
+Foram oferecidas contrarrazões ao recurso especial (fls. 151-164).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 168-171), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 186-192).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e diante das circunstâncias que envolvem a lide, inclusive o valor elevado da causa, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar a sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
