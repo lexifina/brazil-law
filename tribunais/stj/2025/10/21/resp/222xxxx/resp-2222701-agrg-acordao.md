@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INCIDÊNCIA DO ART. 113 DO CP. MATÉRIA NÃO EXAMINADA NA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AUSÊNCIA DE PREMISSAS FÁTICAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, é imprescindível o prequestionamento da matéria jurídica suscitada, exigência decorrente da própria Constituição Federal.
+2. A ausência de manifestação explícita do acórdão recorrido sobre os dispositivos legais invocados impede o conhecimento do recurso especial, nos termos da Súmula n. 211 do STJ.
+3. Na espécie, a matéria posta em debate, sob a ótica da violação ao art. 113 do CP, segundo o qual "No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a prescrição é regulada pelo tempo que resta da pena", não foi objeto de apreciação pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Ademais, nas razões do recurso especial, não foi indicada a ofensa ao art. 619 do Código de Processo Penal, indispensável para aferir a existência de omissão por parte do Tribunal de origem ou a caracterização de prequestionamento ficto das matérias.
+4. "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 2.026.811/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+5. No caso, não há nos autos delimitação fática necessária para o exame da concessão da ordem de ofício.
+6. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS KENNEY LISBOA JORGE contra decisão de minha relatoria que não conheceu do recurso especial, por ausência de prequestionamento da matéria (art. 113 do CP).
+No especial, sustenta a defesa que o Tribunal de origem foi provocado acerca do tema nos embargos de declaração, não podendo ser prejudicado pela omissão da Corte local em examinar o tema proposto.
+Aponta, ainda, que a questão posta em exame é de ordem pública (reconhecimento da prescrição da pretensão executória da pena), podendo ser concedido o habeas corpus de ofício.
+Requer, ao final, seja reconsideração da decisão ou que o feito seja examinado pelo colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. INCIDÊNCIA DO ART. 113 DO CP. MATÉRIA NÃO EXAMINADA NA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AUSÊNCIA DE PREMISSAS FÁTICAS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, é imprescindível o prequestionamento da matéria jurídica suscitada, exigência decorrente da própria Constituição Federal.
+2. A ausência de manifestação explícita do acórdão recorrido sobre os dispositivos legais invocados impede o conhecimento do recurso especial, nos termos da Súmula n. 211 do STJ.
+3. Na espécie, a matéria posta em debate, sob a ótica da violação ao art. 113 do CP, segundo o qual "No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a prescrição é regulada pelo tempo que resta da pena", não foi objeto de apreciação pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Ademais, nas razões do recurso especial, não foi indicada a ofensa ao art. 619 do Código de Processo Penal, indispensável para aferir a existência de omissão por parte do Tribunal de origem ou a caracterização de prequestionamento ficto das matérias.
+4. "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 2.026.811/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+5. No caso, não há nos autos delimitação fática necessária para o exame da concessão da ordem de ofício.
+6. Agravo regimental a que se nega provimento.
+VOTO
+Em que pese o esforço da combativa defesa, a decisão agravada deve ser mantida por seus próprios fundamentos.
+A Terceira Seção deste Tribunal Superior, em sessão realizada no dia , no julgamento do AgRg no REsp n. 1.983.259/PR, em consonância com as 26/10/2022 decisões do Supremo Tribunal Federal - STF sobre a matéria, decidiu que a prescrição da pretensão executória tem como marco inicial o trânsito em julgado da condenação para ambas as partes.
+Ocorre que, em , o STF modulou a referida tese para entender que3/7/2023 seus preceitos não se aplicam aos processos com trânsito em julgado para a acusação ocorrido até (data do julgamento das ADCs ns. 43, 44 e 53) - Tema n. 788/STF11/11/2020 (EDcl no AgRg no Ext no AREsp n. 2.079.747/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024).
+De fato, como registrou o acórdão, "o marco inicial para a prescrição da pretensão executória deve ser, portanto, o trânsito em julgado para ambas as partes, a não ser para os casos abarcados pela modulação dos efeitos levada a cabo no referido julgamento, no sentido de que tal tese se mostra inaplicável para as hipóteses em que o trânsito em julgado para a acusação tenha ocorrido antes de 11 de novembro de 2020", e "O termo inicial da prescrição da pretensão executória no caso em testilha é, pois, a data do trânsito em julgado para a acusação concretizada em 1º de março de 2010", entendimento que corrobora a orientação jurisprudencial desta Corte.
+No caso, contudo, a matéria posta em debate, sob a ótica da violação ao art. 113 do CP, segundo o qual "No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a prescrição é regulada pelo tempo que resta da pena", não foi objeto de apreciação pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento, atraindo o óbice da Súmula n. 211 /STJ.
+Ademais, nas razões do recurso especial, não foi indicada a ofensa ao art. 619 do Código de Processo Penal, indispensável para aferir a existência de omissão por parte do Tribunal de origem ou a caracterização de prequestionamento ficto das matérias.
+Por fim, "Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 2.026.811/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2022, DJe de 18/11/2022).
+Na espécie, não há nos autos delimitação fática necessária para o exame da concessão da ordem de ofício.
+Desse modo, a tese apresentada no recurso especial deve ser, primeriamente, enfrentada pelas instâncias ordinárias, local adequado para delimitar as premissas fáticas necessárias para o exame da ilegalidade apontada no apelo nobre.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
