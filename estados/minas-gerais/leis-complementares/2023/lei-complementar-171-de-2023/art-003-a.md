@@ -1,0 +1,1 @@
+Art. 3º - A - Na transposição e na transferência de saldos financeiros de que trata esta lei complementar, o consórcio público dará ciência ao Conselho de Saúde do município sede do consórcio, aprovará o Plano de Transposição e Transferência na assembleia geral do consórcio e incluirá o referido plano no orçamento do consórcio público.
