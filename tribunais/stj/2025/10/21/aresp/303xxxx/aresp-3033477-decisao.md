@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 368):
+DIREITO CIVIL. DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DÍVIDA PRESCRITA. POSSIBILIDADE DE COBRANÇA EXTRAJUDICIAL. PRESCRIÇÃO QUE AFETA APENAS A PRETENSÃO DE COBRANÇA JUDICIAL. IMPOSSIBILIDADE DE RECONHECIMENTO DA INEXISTÊNCIA DO DÉBITO. SERASA LIMPA NOME. PLATAFORMA PARA NEGOCIAÇÃO DE DÍVIDAS.
+RECURSO CONHECIDO E PROVIDO. 1. Conforme sedimentado pelo Superior Tribunal de Justiça, "a prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (RESP 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).  (STJ; AgInt-AREsp 1.816.356; Proc. 2021/0015965-2; ES; Quarta Turma; Rel.
+Min. Raul Araújo; DJE 20/09/2022) 2. Inviável o reconhecimento de inexistência da dívida, levando em conta que a prescrição não atinge o direito subjetivo em si mesmo, uma vez que a dívida não pode mais ser exigida apenas pelas vias judiciais, a dívida existe. 3. Credor de dívida prescrita ainda pode promover cobranças por meios extrajudiciais, desde que não se mostrem abusivos ou constrangedores. 4. A plataforma Serasa Limpa Nome não se trata de cadastro de inadimplentes, mas apenas uma ferramenta com a finalidade de promover a negociação de dívidas. 5. Recurso conhecido e provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos artigos 206, § 5º, do Código Civil, e 43, § 1º, do Código de Defesa do Consumidor, além de dissídio jurisprudencial.
+Contrarrazões foram apresentadas às fls. 462/477.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o recurso especial não foi admitido na origem em razão da sua intempestividade, considerando (fl. 491):
+Sobreleva acentuar, por oportuno e relevante, que a Parte Recorrente não se desincumbiu do ônus de provar a existência de feriados locais ou mesmo a suspensão dos prazos no âmbito deste Egrégio Tribunal de Justiça, no período compreendido entre o termo inicial e o termo final para a interposição do recurso, inexistindo nos autos a juntada de cópia de Ato Normativo local, tendo apenas acostado aos autos Portaria Conjunta nº66, de 29 de dezembro de 2023, no âmbito do Poder Judiciário do Estado do Rio Grande do Norte, neste sentido, exigência que lhe era imposta ao tempo da interposição e cujo descumprimento impede o reconhecimento da suspensão do prazo recursal na instância superior, conforme a jurisprudência pacífica do Egrégio Superior Tribunal de Justiça, in litteris:
+A agravante, por sua vez, deixou de impugnar a referida fundamentação.
+Em respeito ao princípio da dialeticidade, o recurso deve ser fundamentado, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena do não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015 e pela aplicação analógica da Súmula 182 do STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+Incidência, por analogia, da Súmula n. 182/STJ .
+2. Agravo interno não conhecido.
+(AgInt no AREsp 968.815/RS, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 7/2/2017, DJe 10/2/2017.
+A Corte Especial do STJ, no julgamento dos EAREsp 746.775/PR, manteve o entendimento quanto à obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial, sob pena de não conhecimento do agravo, ante a incidência da Súmula 182 do STJ.
+Confira-se a ementa do referido precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018.)
+Assim, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
