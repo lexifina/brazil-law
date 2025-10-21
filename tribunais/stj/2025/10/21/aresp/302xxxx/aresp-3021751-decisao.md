@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO SERAFIM DE CARVALHO contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O agravante foi condenado como incurso no artigo 180, caput, do Código Penal (receptação), a 1 (um) ano e 2 (dois) meses de reclusão, em regime inicial semiaberto, e 11 (onze) dias-multa (fls. 192/198).
+O agravante interpôs recurso de apelação, pleiteando, preliminarmente, a anulação do processo a partir da prolação da sentença, alegando violação aos artigos 384 e 564, inciso III, alínea "a", ambos do Código de Processo Penal. No mérito, requereu o reconhecimento da atenuante de confissão espontânea.
+O Tribunal de Justiça do Estado de São Paulo rejeitou a preliminar de nulidade e deu parcial provimento ao recurso, apenas para aplicar a atenuante da confissão espontânea, reduzindo a pena para 1 (um) ano e 1 (um) mês de reclusão, e 10 (dez) dias-multa, mantido o regime semiaberto (fls. 243/249).
+Em face da decisão de segundo grau, foi interposto recurso especial com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, alegando violação aos artigos 384 e 564, inciso III, alínea "a", do Código de Processo Penal (fls. 262/272).
+Contudo, o Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso especial, sob o fundamento de que a análise da pretensão recursal demandaria reexame de fatos e provas, encontrando óbice na Súmula 7, STJ (fls. 283/284).
+Inconformado, o agravante interpôs o presente agravo, reiterando que a questão não demanda reexame de provas, mas tão somente revaloração jurídica de fatos incontroversos já delineados nos autos (fls. 290/297).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo (fls. 322/326).
+É o relatório. DECIDO.
+Considerando os argumentos apresentados pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O recurso especial, porém, não pode ser conhecido.
+O princípio da correlação encontra fundamento constitucional no direito de defesa técnica adequada (art. 5º, inciso LV, da Constituição). Seu objetivo é garantir que o acusado conheça, precisamente, os fatos pelos quais será julgado, evitando surpresa processual que inviabilize o contraditório e a ampla defesa.
+O artigo 383 do Código de Processo Penal autoriza apenas a "emendatio libelli", permitindo ao juiz atribuir definição jurídica diversa sem modificar a descrição dos fatos. Já a "mutatio libelli", que importa alteração do substrato fático, é expressamente vedada.
+No caso em exame, merecem destaque aspectos que podem ser aferidos pela simples leitura dos documentos processuais, sem necessidade de reapreciação probatória: A denúncia descreve que o agravante recebeu e conduziu um veículo em situação em que deveria saber que os sinais identificadores haviam sido adulterados. O enfoque da acusação primitiva era conduta de alteração de identificadores veiculares.
+A sentença condenou o agravante por receptação, crime que pressupõe que o agente "receba ou adquira coisa que sabe ser produto de crime", exigindo conhecimento do caráter criminoso da origem da coisa recebida.
+Estes dois tipos penais, embora possam compartilhar elementos factuais superficialmente similares, diferenciam-se fundamentalmente quanto ao elemento subjetivo e quanto à natureza do conhecimento exigido. A receptação demanda consciência da origem criminosa do bem; o crime de adulteração de sinais demanda apenas conhecimento da adulteração.
+A pretensão defensiva, conquanto se revista de fundamentação técnica respeitável, demanda necessariamente que este Tribunal investigue se os elementos narrados na denúncia seriam suficientes para a condenação por receptação. Ainda que a definição jurídica seja matéria de direito, sua análise neste caso específico não pode prescindir de renovado exame do conjunto fático-probatório.
+O Tribunal de origem foi categórico ao concluir que "o fato criminoso - definido na lei penal como receptação - já estava contido na denúncia", afirmando que a denúncia consignou "que o réu recebeu um veículo dublê tendo conhecimento de tal condição". Desta forma, o Tribunal local, de maneira soberana e fundamentada, concluiu que não houve mutatio libelli, mas emendatio libelli legítima.
+Para infirmar tal conclusão, seria necessário proceder a novo escrutínio dos autos, cotejando minuciosamente a descrição fática original com a prova produzida. Tal procedimento excede os limites estabelecidos pela Súmula n. 7, STJ.
+Nesse sentido:
+"DIREITO PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PECULATO. EQUIPARAÇÃO A FUNCIONÁRIO PÚBLICO (ART. 327, §1º, DO CP). ATIVIDADE LABORATORIAL PRESTADA EM CONTRATO DE SERVIÇO PÚBLICO. PRINCÍPIO DA CORRELAÇÃO. NÃO OCORRÊNCIA DE INOVAÇÃO FÁTICA NA SENTENÇA. DOSIMETRIA. UTILIZAÇÃO DE ELEMENTOS DE CRIME ABSORVIDO PARA NEGATIVAR CIRCUNSTÂNCIAS JUDICIAIS. POSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 619 E 158 DO CPP. SÚMULA 211/STJ. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO (SÚMULA 7/STJ). AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que rejeitou embargos de declaração e manteve acórdão que conheceu parcialmente e negou provimento a recurso especial. O agravante sustenta omissão quanto à violação do art. 619 do CPP, questionando a equiparação a funcionário público, a correlação entre denúncia e sentença e a majoração da pena com base em crime absorvido. Alega ainda ofensa ao art. 158 do CPP, com base em laudo pericial que teria concluído pela inexistência de superfaturamento.
+II. QUESTÃO EM DISCUSSÃO
+2. Há quatro questões em discussão: (i) verificar se houve omissão no enfrentamento das teses defensivas, configurando violação ao art. 619 do CPP; (ii) definir se a atividade laboratorial prestada mediante contrato com a Administração configura atividade típica para fins de equiparação a funcionário público (art. 327, §1º, do CP); (iii) avaliar eventual violação ao princípio da correlação;
+(iv) estabelecer se é possível utilizar elemento de crime absorvido para negativar circunstâncias judiciais do art. 59 do CP.
+III. RAZÕES DE DECIDIR
+3. A decisão agravada apreciou de forma expressa e suficiente todas as teses, não se configurando omissão nem afronta ao art. 619 do CPP; a ausência de menção literal ao dispositivo não implica negativa de prestação jurisdicional.
+4. A jurisprudência do STJ reconhece a equiparação a funcionário público do particular que atua em execução de atividade típica da Administração, ainda que em empresa privada contratada, no caso, exames laboratoriais vinculados ao serviço público de saúde.
+5. Inexiste violação do princípio da correlação quando a conduta descrita na sentença corresponde, em núcleo essencial, ao fato narrado na denúncia, sendo vedado ao STJ reexaminar provas para infirmar essa conclusão (Súmula 7/STJ).
+6. É legítima a utilização de circunstâncias elementares de crime absorvido para negativar moduladoras judiciais do art. 59 do CP, desde que fundadas em elementos concretos que acentuem a reprovabilidade da conduta.
+7. A alegada ofensa ao art. 158 do CPP não foi objeto de debate efetivo na instância ordinária, atraindo a incidência da Súmula 211/STJ; além disso, a análise da indispensabilidade da perícia demandaria reexame fático-probatório, inviável na via especial.
+IV. DISPOSITIVO
+8. Agravo regimental desprovido."
+(AgRg nos EDcl no REsp n. 2.151.833/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
