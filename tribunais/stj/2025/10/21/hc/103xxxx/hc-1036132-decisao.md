@@ -1,0 +1,8 @@
+DECISÃO
+O presente writ, impetrado em benefício de BARBARA CAROLINE BECK - presa preventivamente e denunciada como incursa no art. 288, caput; e art. 299, caput, ambos do Código Penal; art. 1º, caput, § 1º, I e II, § 2º, I e II, ambos da Lei n. 9.613/1998; art. 50, caput, e art. 58, caput, ambos da Lei de Contravenções Penais (Procedimento Criminal n. 5001830-83.2025.8.24.0554/SC) -, no qual se pretende a revogação da custódia cautelar, apontando como autoridade coatora o Desembargador Substituto do Tribunal de Justiça de Santa Catarina, que indeferiu a liminar no HC n. 5071804-26.2025.8.24.0000/SC (fls. 119/123), perdeu o objeto.
+Isso porque, de acordo com as informações prestadas pelo Juízo de Direito da Vara Estadual de Organizações Criminosas da Capital/SC, à fl. 197, foram revogadas as prisões preventivas anteriormente decretadas em desfavor dos acusados  ..  BARBARA CAROLINE BECK - PACIENTE -,  .. , reconhecendo-se a ausência de fundamentos concretos que justificassem a medida extrema - como risco à ordem pública, à instrução criminal ou à aplicação da lei penal (processo 5001830-83.2025.8.24.0554/SC, evento 1068, DESPADEC1), fato que esgota a pretensão contida na presente impetração, dada a superveniente alteração do cenário fático- processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. FALSIDADE IDEOLÓGICA. LAVAGEM DE DINHEIRO. EXPLORAÇÃO DE JOGOS DE AZAR E EXPLORAÇÃO DE JOGO DO BICHO. PRISÃO PREVENTIVA. SUPERVENIENTE REVOGAÇÃO DA CUSTÓDIA CAUTELAR PELO JUÍZO DE ORIGEM. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
