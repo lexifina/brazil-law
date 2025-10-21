@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAMUEL DOS SANTOS SOUZA contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que deu parcial provimento à apelação criminal, substituindo a pena corporal por restritivas de direitos, e negou a extinção da ação penal por alegado bis in idem.
+O réu foi inicialmente condenado pela prática do crime tipificado no art. 299 do Código Penal, à pena de 01 (um) ano e 09 (nove) meses de reclusão, em regime inicial de cumprimento semiaberto, sem substituição por restritiva de direitos, e sem suspensão condicional, além de 21 (vinte e um) dias-multa (fls. 219-224).
+Em sede de apelação, o Tribunal Regional substituiu a pena carcerária por restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, fixada em 08 (oito) salários mínimos, vencido parcialmente o Desembargador Federal Ângelo Roberto Ilha da Silva quanto ao valor da prestação pecuniária (fls. 296-301).
+No recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, o recorrente sustenta ofensa aos arts. 42, 45, § 1º, e 299, todos do Código Penal, alegando a ocorrência de bis in idem (uma vez que já foi condenado anteriormente pelo mesmo delito nos autos da Ação Penal nº 50120537820214047004) e a inadequação do valor fixado a título de prestação pecuniária, pois o valor fixado não se encontra em consonância com a situação econômica do recorrente (fls. 313-323).
+O recurso foi admitido na origem (fl. 343).
+O Ministério Público Federal apresentou parecer opinando pelo não provimento do recurso especial, afirmando que não há bis in idem e que a fixação da prestação pecuniária foi justificada com base em fundamentação idônea (fls. 356-361).
+É o relatório. DECIDO.
+A controvérsia se restringe à alegação de bis in idem e à adequação do valor da prestação pecuniária.
+Nas razões do recurso especial, o recorrente aduz que já foi condenado anteriormente pelo mesmo delito e que o valor da prestação pecuniária não se encontra em consonância com sua situação econômica.
+Entretanto, a despeito dos argumentos apresentados pelo recorrente, tenho que o recurso especial não ultrapassa a barreira do conhecimento.
+Destaco, para delimitar a controvérsia, os fundamentos utilizados pelo Tribunal de origem para negar a extinção do processo e manter o valor da prestação pecuniária (fls. 296-299):
+" ..  No caso concreto, entretanto, ainda que similares, os fatos descritos nas iniciais não são coincidentes.
+Na Ação Penal nº 50120537820214047004, o réu foi denunciado pelos crimes de contrabando de cigarros, de oferecimento vantagem indevida a funcionários públicos (policiais militares) e, também, pelo crime de uso de documento falso, nos termos em que previsto no art. 304 c/c o art. 297 do Código Penal. Este último delito é o que interesse para a análise do presente caso.
+Conforme a inicial naquele processo, o réu teria apresentado CTPS emitida em nome de seu irmão, Maurício Batista de Souza, porém ilustrada com sua foto, durante abordagem policial. Os crimes ali julgados foram cometidos em 28/9/2020, tendo sido o réu condenado, em primeira instância, em concurso material, às penas de 8 (oito) anos e 4 (quatro) dias de reclusão, em regime inicial fechado, e 56 (cinquenta e seis) dias-multa.
+ ..
+No caso presente, contudo, o que se julga não é o uso da CTPS ideologicamente falsa, mas, sim, sua adulteração. Conforme a denúncia desta ação penal, no dia 11/9/2018 , SAMUEL obteve sucesso na emissão da CTPS nº 2339079/0060, cujas informações pessoais referem-se ao seu irmão Maurício, ao passo que a foto que ilustra o documento pertence ao réu.
+De fato, ambas as ações penais referem-se ao mesmo documento, qual seja, a CTPS emitida em nome Maurício Batista de Souza, mas cuja a foto aposta no documento pertence ao réu.
+Inobstante, embora referentes ao mesmo documento identitário, como dito, na primeira ação, o réu foi condenado pela apresentação do papel aos policiais militares, em um contexto de flagrante de contrabando. Nesta, pune-se inserção de dados falsos, consistente na imagem do acusado, quando da feitura da CTPS, portanto dois anos antes.
+Nesse panorama, não há falar em identidade das condutas  .. .
+ ..
+Na fixação da multa, devem ser sopesadas todas as circunstâncias que determinaram a imposição da pena privativa de liberdade - judiciais, agravantes, atenuantes, minorantes e majorantes. No caso, observo que a multa, fixada em 21 (vinte e um) dias-multa ao valor unitário de 1/30 (um trigésimo) do salário mínimo, embora fixada aquém da pena carcerária (já que, acaso proporcional, somaria 50 dias-multa), resta mantida, porquanto o recurso é exclusivo da defesa.
+No tocante à substituição da pena privativa de liberdade, consignou o Magistrado sentenciante o que a multirreincidência impede a substituição por restritivas de direito.
+Contudo, inobstante a existência de condenações pretéritas, entendo ser possível a substituição da pena reclusiva por duas restritivas de direitos, consistentes em uma pena de prestação de serviços à comunidade e outra, consistente na prestação pecuniária, essa no montante mínimo abstratamente previsto de 8 (oito) salários mínimos, cifra que reflete cerca de 30% da renda declarada, entre R$ 1.500,00 (um mil e quinhentos reais) a R$ 2.000,00 (dois mil reais), auferida como criador de frango  .. ".
+Conforme se depreende dos excertos acima colacionados, o Tribunal de origem declinou por meio de fundamentação adequada as razões pelas quais concluiu que não há bis in idem e que a fixação da prestação pecuniária foi correta.
+A revisão dos fundamentos acima elencados, para se concluir que há bis in idem ou que o valor da prestação pecuniária é inadequado, como pretende a defesa, demandaria revolvimento do material fático-probatório dos autos, procedimento inviável na via eleita pelo insurgente, pois é assente nesta Corte Superior de Justiça que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do recurso especial, nos termos da Súmula n. 7, STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SISTEMA NACIONAL DE ARMAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DAS CIRCUNSTÂNCIAS. RISCO À ORDEM PÚBLICA. IMPRESCINDIBILIDADE NÃO COMPROVADA PARA FINS DE CUSTÓDIA DOMICILIAR. AGRAVO DESPROVIDO. I. CASO EM EXAME
+ ..
+4. A análise da suposta negativa de autoria e da ocorrência de bis in idem exigiria revolvimento do conjunto fático-probatório, o que é incompatível com a via estreita do habeas corpus.
+ .. "
+(AgRg no HC n. 992.408/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 21/5/2025, DJEN de 26/5/2025.);
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. FUNRURAL. ABSOLVIÇÃO POR AUSÊNCIA DE DOLO. DOLO GENÉRICO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO DE SUSPENSÃO DA AÇÃO PENAL DEVIDO À GARANTIA DA DÍVIDA NO PROCESSO DE FALÊNCIA. IMPOSSIBILIDADE. REDUÇÃO DA PENA DE PRESTAÇÃO PECUNIÁRIA. SITUAÇÃO ECONÔMICA-FINANCEIRA DO RÉU. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PEDIDO DE SUSTENTAÇÃO ORAL EM AGRAVO REGIMETAL. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. No mais, rever a situação econômico-financeira do agravante, de modo a alterar o entendimento adotado na instância ordinária, demandaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial  .. "
+(AgRg nos EDcl no AREsp n. 2.621.568/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024).
+Ante o exposto, não conheço do recurso especial, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
