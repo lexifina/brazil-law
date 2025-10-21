@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ementado:
+PRODUÇÃO ANTECIPADA DE PROVAS. Sentença que homologou o procedimento, à vista dos documentos apresentados pelo réu. Pretensão da recorrente para arbitramento da sucumbência. Impossibilidade de interposição de recurso contra sentença homologatória. Documentos apresentados em primeira oportunidade. Ausência de pretensão resistida. Litigância de má-fé. Inocorrência. RECURSO NÃO CONHECIDO.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 330, III; 381 e 382, § 3º, do Código de Processo Civil, além de dissídio jurisprudencial. Sustenta que a parte adversa não forneceu a íntegra dos documentos requeridos, o que caracteriza o interesse de agir na ação de exibição de documentos.
+Assim posta a questão, observo que o Tribunal de origem observou o seguinte (fl. 260):
+(..) acertadamente o d. Magistrado homologou por sentença a exibição de documento, sem impor ônus sucumbenciais a qualquer das partes.
+No tocante a prova documental exibida, ainda que parcialmente produzida, verifica-se que o Juízo monocrático considerou que os documentos exibidos com a contestação são suficientes para atender à pretensão do autor que, nas razões de apelação, basicamente se insurge quanto à não imposição de ônus sucumbenciais ao patrono da recorrida.
+Verifica-se, portanto, ser incabível o recurso de apelação interposto pelo agravante, dada a previsão expressa do art. 382, § 4º, do Código de Processo Civil, segundo o qual, em ação de produção antecipada de provas, "não se admitirá defesa ou recurso, salvo contra decisão que indeferir totalmente a produção da prova pleiteada pelo requerente originário".
+Outrossim, ficou estabelecido que os documentos efetivamente exibidos são suficientes para atender à pretensão do autor, considerado, ademais, o disposto no art. 400 do CPC. Quanto aos documentos que a parte considera faltantes, o Tribunal observou que "ficou lídimo e claro que o embargante não formulou de modo adequado e suficiente o prévio pedido administrativo" (fl. 301). A revisão desse posicionamento é inviável em recurso especial, dado o disposto na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Quanto à interposição pela alínea "c", do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Intimem-se.
+EMENTA
