@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO GOMES MOREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Agravo em Execução n. 0729143-50.2025.8.07.0000).
+Depreende-se dos autos que o Juízo da Vara das Execuções Criminais indeferiu pedido de indulto formulado com base no Decreto Presidencial n. 12.338/2024 (e-STJ fls. 240/242).
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fls. 11/12):
+DIREITO PENAL E DE EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO PENAL. INDULTO COLETIVO. CRIME CONTRA O PATRIMÔNIO SEM VIOLÊNCIA OUGRAVE AMEAÇA. REPARAÇÃO DO DANO. HIPOSSUFICIÊNCIA ALEGADA. PRESUNÇÃO RELATIVA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em execução interposto contra decisão que indeferiu a concessão de indulto previsto no Decreto n. 12.338/2024, sob fundamento da ausência de reparação do dano e da inexistência de prova idônea da incapacidade econômica do apenado para fazê-lo.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se a condição de hipossuficiência econômica, presumida pela atuação da Defensoria Pública, pode ser afastada para fins de indeferimento de indulto coletivo, nos termos do art. 9º, XV, c/c art.12, § 2º, do Decreto n. 12.338/2024, diante da ausência de reparação do dano decorrente de crime contra o patrimônio praticado sem violência ou grave ameaça.
+III. RAZÕES DE DECIDIR
+3. O indulto coletivo previsto no art. 9º, XV, do Decreto n. 12.338/2024 exige, como requisito objetivo, a reparação do dano nos crimes patrimoniais sem violência, salvo nas hipóteses em que a incapacidade econômica seja comprovada ou presumida conforme o art. 12, § 2º, do aludido diploma legal.
+4. A presunção de hipossuficiência do apenado assistido pela Defensoria Pública é relativa, admitindo prova em sentido contrário.
+5. Ainda que a parte esteja patrocinada pela Defensoria Pública, cuja presunção de hipossuficiência é relativa, o juiz pode entender de maneira diversa, não concedendo o benefício do indulto, desde que a sua decisão esteja devidamente motivada.
+6. No caso em análise, há notícias de que a Defensoria Pública do Distrito Federal somente assumiu a defesa do apenado em razão deste não ter comparecido aos autos, não sendo possível assim verificar a incapacidade econômica do apenado. Assim, além de não estar comprovado que o apenado tenha reparado o dano causado, também não há provas de que ele não tenha capacidade econômica para arcar com os prejuízos causados, sobretudo porque o dano à vítima alcançou o montante de R$ 30.000,00 (trinta mil reais), o que demonstra que o agente infrator se enriqueceu ilicitamente, com patrimônio de elevado valor, com a sua conduta criminosa.
+7. Não comprovada a reparação do dano, nem a incapacidade econômica para realizá-la, é inviável a concessão do benefício pleiteado.
+IV. DISPOSITIVO
+8. Recurso desprovido.
+Daí o presente writ, no qual alega a defesa que o apenado foi condenado pelo delito de furto, ou seja, crime comum praticado sem violência ou grave ameaça, sendo possível, portanto, o indulto previsto no Decreto n. 12.338/2024.
+Assevera, ainda, que "considerando todos os elementos de prova trazidos à baila neste remédio constitucional, é de clareza hialina que a Defensoria Pública atuou na defesa do paciente, bem como está comprovada a situação de hipossuficiência pelos elementos trazidos aos autos, de modo que se reputa preenchido o requisito previsto no art. 12, § 2º, I, do Decreto 12.338/2024, demonstrando-se a incapacidade econômica do paciente" (e-STJ fl. 8).
+Requer, liminarmente e no mérito, seja concedido o benefício de indulto ao paciente .
+É o relatório.
+Decido.
+In casu, a impetração pretende a extinção da pena de multa.
+Nos termos do art. 5º, LXVIII, da Constituição Federal, conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.
+No mesmo sentido, dispõe o art. 647 do Código de Processo Penal: "Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal na sua liberdade de ir e vir, salvo nos casos de punição disciplinar."
+Ora, o pedido exclusivamente relativo à execução da pena de multa, pura e simples, não pode ser veiculado pela via do writ, que é remédio constitucional próprio para cessar ou evitar constrangimento ilegal ao direito ambulatorial.
+O presente caso não cuida de matéria atinente à liberdade de locomoção, não sendo passível de tutela pelo habeas corpus.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PRETENSÃO DE EXTINÇÃO DE PENA DE MULTA. ART. 9º, IX, DECRETO PRESIDENCIAL 7.648/2011. AUSÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE DE LOCOMOÇÃO DO PACIENTE. NATUREZA PENAL DA MULTA. IRRELEVÂNCIA. IMPOSSIBILIDADE DE CONVERSÃO EM PENA PRIVATIVA DE LIBERDADE. NÃO CABIMENTO DO HABEAS CORPUS. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA: SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que se trate de matéria de ordem pública, é inviável o conhecimento, por esta Corte, de alegação de prescrição da pretensão executória, se o tema não foi objeto de prévia deliberação pelas instâncias ordinárias, sob pena de indevida supressão de instância.
+Precedentes: AgRg no HC 712.721/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022; AgRg no HC 680.616/ES, Rel. Ministro OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), SEXTA TURMA, julgado em 23/11/2021, DJe 29/11/2021; AgRg no HC 704.576/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2021, DJe 29/11/2021; AgRg no RHC 150.463/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/10/2021, DJe 19/10/2021.
+2. O habeas corpus é remédio constitucional voltado ao combate de constrangimento ilegal específico, de ato ou decisão que afete, potencial ou efetivamente, direito líquido e certo do cidadão, com reflexo direto na liberdade de locomoção.
+3. Embora a pena de multa possua natureza de sanção penal, na esteira do que foi decidido pelo Supremo Tribunal Federal na ADI n. 3.150/DF, subsiste a impossibilidade de sua conversão em pena privativa de liberdade em caso de inadimplemento, por ser dívida de valor (art. 51 do CP).
+4. Não obstante esta Corte tenha firmado entendimento no sentido de que o não pagamento da pena de multa, de natureza penal, inviabiliza a extinção da punibilidade em caso de cumprimento apenas da pena privativa de liberdade (ProAfR no REsp 1.785.383/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 20/10/2020, DJe 02/12/2020), os respectivos reflexos são extrapenais ou apenas acidentais e não atuais, o que inviabiliza a utilização do habeas corpus, que pressupõe coação ou iminência direta de coação à liberdade de ir e vir. Precedentes desta Corte e do STF.
+5. "O entendimento pacificado no âmbito dos Tribunais Pátrios é no sentido de que o pedido exclusivamente relativo à pena de multa não pode ser veiculado pela via do writ, que é o remédio constitucional próprio para cessar ou evitar constrangimento ilegal apenas ao direito ambulatorial. Incidência da Súmula 693/STF" (AgRg no HC 546.275/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/03/2020, DJe 13/03/2020).
+6. Situação em que, após o trânsito em julgado de sentença que concedeu ao recorrente a extinção da punibilidade unicamente da pena privativa de liberdade, com amparo no art. 1º, inciso I, do Decreto Presidencial n. 7.648/2011, a defesa requer a extensão do benefício à pena de multa, a despeito de não ter sido cumprida integralmente a pena corporal até 25/12/2011, como exigia o art. 1º, IV, do Decreto Presidencial. Descabimento da impetração.
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 163.808/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/5/2022, DJe de 12/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE INDEPENDENTE DO PAGAMENTO DA MULTA. AUSÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE DE LOCOMOÇÃO DO PACIENTE. SÚMULA N.º 693/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O entendimento pacificado no âmbito dos Tribunais Pátrios é no sentido de que o pedido exclusivamente relativo à pena de multa não pode ser veiculado pela via do writ, que é o remédio constitucional próprio para cessar ou evitar constrangimento ilegal apenas ao direito ambulatorial. Incidência da Súmula 693/STF.
+2. Obiter dictum, da análise da decisão do Juiz da Execução que julgou extinta a punibilidade do Paciente, verifico que o aludido decisum apresentou dois fundamentos distintos, quais sejam, cumprimento integral da pena privativa de liberdade e ausência de interesse de agir tanto da esfera jurisdicional quanto da Fazenda Pública.
+3. Hipótese em que o Tribunal de origem ao dar provimento ao recurso do Ministério Público fê-lo apenas em relação à extinção da pena de multa, mantendo incólume a extinção da pena privativa de liberdade, motivo pelo qual não há falar em efeito reflexo ou indireto na liberdade do Paciente ou na contagem do período depurador previsto no art. 64, I, do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 546.275/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/3/2020, DJe de 13/3/2020.)
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
