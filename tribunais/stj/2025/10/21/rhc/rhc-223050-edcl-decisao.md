@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Victor Hugo Serrudo de Cabrera à decisão deste Relator que negou provimento ao recurso ordinário em habeas corpus (fls. 175/178).
+Alega o embargante omissão quanto ao reconhecimento de que retornou ao Brasil em novembro de 2023 e aqui passou a residir com a família, em Corumbá/MS, fato comprovado por contrato de locação, matrícula escolar dos filhos, contas de água e luz, certidões de nascimento e registro migratório da esposa, rechaçando a premissa de que teria permanecido em território estrangeiro até ser preso em 9/4/2024 (fls. 181/183).
+Aduz, ainda, omissão quanto à nulidade absoluta das provas obtidas a partir do compartilhamento de dados sigilosos do COAF sem autorização judicial, sustentando que a questão poderia ser enfrentada, inclusive de ofício, por se tratar de constrangimento ilegal manifesto (art. 157 e § 1º, c/c o art. 564, IV, do Código de Processo Penal), sem necessidade de dilação probatória, bastando a conferência dos IDs indicados nas razões (fls. 182/184).
+Pretende, assim, o saneamento dos vícios apontados, com efeitos modificativos, para a revogação de sua prisão preventiva (fls. 184/185).
+Dispensadas as contrarrazões.
+É o relatório.
+Nos limites estabelecidos pelo art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade eventualmente existentes no julgado combatido.
+No caso, entretanto, o embargante não demonstrou nenhum desses vícios na decisão que negou provimento ao recurso em habeas corpus.
+A decisão afirmou, de forma explícita, que o acórdão a quo assentou que a sentença condenatória trouxe fundamentação suficiente para a manutenção da prisão preventiva, ressaltando a expressiva pena aplicada, superior a 19 anos, a gravidade concreta da conduta e o envolvimento do embargante em associação voltada ao tráfico internacional de drogas. Ressaltou-se, ainda, que o réu permaneceu em território estrangeiro até ser preso em 9/4/2024, circunstância que revela risco concreto de fuga e dificuldade de aplicação da lei penal (fls. 119/124).
+Com efeito, a discussão acerca da data de retorno do embargante ao Brasil, passa, necessariamente, por revolvimento fático-probatório, prática inadequada para a estreita via do habeas corpus. Melhor esclarecendo, a revisão desse entendimento demandaria indevido revolvimento fático-probatório, incabível na via estreita do habeas corpus (AgRg nos EDcl no HC n. 1.006.898/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 15/10/2025).
+Além disso, no tocante à alegação de nulidade das provas obtidas a partir de compartilhamento de dados sigilosos do COAF, observo que tal questão não foi objeto de análise, motivo pelo qual não pode ser enfrentada de análise pelo acórdão recorrido diretamente nesta via, sob pena de indevida supressão de instância.
+Na verdade, o que transparece dos presentes aclaratórios é o mero inconformismo da parte com o resultado do julgamento, não sendo possível, nesta via, rediscutir o entendimento adotado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. OPERAÇÃO ROTA DE FERRO. TRÁFICO INTERNACIONAL DE DROGAS (ART. 33 DA LEI N. 11.343/2006) E ASSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI N. 11.343/2006). PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PENA FIXADA EM 19 ANOS, 10 MESES E 15 DIAS DE RECLUSÃO. FUNDAMENTAÇÃO IDÔNEA. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INEXISTÊNCIA DE OMISSÃO NA DECISÃO EMBARGADA.
+Embargos de declaração rejeitados.
