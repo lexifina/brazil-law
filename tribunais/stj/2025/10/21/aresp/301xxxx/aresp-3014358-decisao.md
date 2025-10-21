@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por GABRIEL SIMEAO SOARES DE ANDRADE contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS.
+O agravante foi condenado pela prática dos crimes de receptação (art. 180, caput) e adulteração de sinal identificador de veículo automotor (art. 311, caput), ambos do Código Penal, à pena definitiva de 7 (sete) anos, 1 (um) mês e 14 (quatorze) dias de reclusão, em regime inicial fechado.
+A defesa interpôs, então, Recurso Especial, alegando violação aos arts. 386, incisos V e VII, do Código de Processo Penal, e sustentando a insuficiência de provas para a condenação (fls. 465/472).
+O recurso especial não foi admitido pelo Tribunal a quo, com base na Súmula n. 7, STJ (fls. 484/487).
+Daí o presente agravo, no qual o recorrente sustenta que não pretende o reexame de provas, mas sim a revaloração jurídica dos fatos, argumentando que a condenação se baseou exclusivamente em depoimentos de policiais militares, o que seria insuficiente para sustentar o decreto condenatório (fls. 492/497).
+O Ministério Público Federal apresentou parecer pelo conhecimento e desprovimento do agravo (fls. 528/532).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo, em razão da aplicação da Súmula n. 7, STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+O agravante busca, em essência, a absolvição por insuficiência de provas, sustentando que não haveria elementos suficientes para comprovar a responsabilidade pela adulteração da placa do veículo, tampouco a ciência acerca da origem ilícita do bem.
+Embora a defesa argumente que a pretensão seria de "revaloração jurídica", e não de "reexame probatório", é forçoso reconhecer que a análise do pleito absolutório demandaria, inevitavelmente, nova incursão no acervo fático-probatório dos autos.
+A distinção entre reexame e revaloração de provas, embora teoricamente relevante, não socorre o agravante no caso concreto. Isso porque o agravante não questiona a qualificação jurídica de fatos incontroversos, mas sim a suficiência e valoração das provas que fundamentaram a condenação. Pretende, em verdade, substituir a conclusão das instâncias ordinárias acerca da materialidade e autoria delitivas, por outra que lhe seja favorável.
+As instâncias ordinárias, soberanas na análise do conjunto probatório, concluíram, de forma fundamentada, pela existência de elementos suficientes para a condenação. O acórdão recorrido assentou que a materialidade e a autoria dos delitos restaram comprovadas pela apreensão do veículo em poder do agravante, pelos depoimentos harmônicos dos policiais militares, e pelo laudo pericial que atestou a adulteração dos sinais identificadores.
+Modificar essa conclusão demandaria necessariamente o revolvimento do substrato fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula n. 7, STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A argumentação defensiva de que a condenação estaria baseada exclusivamente em testemunhos de policiais militares, não afasta a incidência do óbice sumular. Ao contrário, evidencia a pretensão de rediscutir a prova cuja análise foi feita pelas instâncias ordinárias.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca; e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi.
+Outrossim, a Corte Especial deste Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik; e AgRg no AREsp 1.682.769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas .
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem -se.
+EMENTA
+.
