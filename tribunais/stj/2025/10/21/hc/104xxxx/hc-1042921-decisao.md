@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDERSON DAUTONI DE ALMEIDA e ALESSANDRA DE LIMA COSTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2223830- 06.2025.8.26.0000).
+Consta dos autos terem sido os pacientes presos em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime de tráfico de entorpecentes, ante a apreensão de cerca de 1kg (um quilo) de cocaína.
+Impetrado habeas corpus, o Tribunal de origem negou seguimento ao writ, decisão essa mantida no julgamento do agravo interno (e-STJ fl. 7/9).
+Neste writ, sustenta a defesa que "a jurisprudência consolidada do Superior Tribunal de Justiça (STJ) firmou o entendimento de que a Guarda Municipal possui apenas a competência para o patrulhamento preventivo e a proteção de bens, serviços e instalações municipais (art. 144, § 8º, da Constituição Federal). Sua atuação como órgão de polícia investigativa ou repressiva é inconstitucional e ilegítima" (e-STJ fl. 5).
+Busca, assim (e-STJ fl. 6):
+a. Seja concedida a ordem para declarar a nulidade da atuação da Guarda Civil Municipal e, por conseguinte, determinar o desentranhamento das provas obtidas de forma ilícita, bem como de todas as provas delas derivadas;
+b. Como consequência do pedido anterior, seja trancada a ação penal n.º 1501103- 36.2024.8.26.0548, por falta de justa causa.
+É o relatório.
+Decido.
+A justa causa é prevista de forma expressa no Código de Processo Penal e constitui condição da ação punitiva, consubstanciada no lastro probatório mínimo, indicativo da autoria e da materialidade, o que foi demonstrado no processo.
+A profundidade cognitiva para o reconhecimento ou não da justa causa na persecução penal deve se dar de forma não exauriente, superficial, mediante fundada suspeita de materialidade do crime e de sua autoria.
+Com efeito, o trancamento da ação penal somente é permitido - em habeas corpus ou em seu recurso ordinário - quando evidenciada de plano e sem necessidade de dilação probatória a atipicidade da conduta, causa excludente de punibilidade ou a ausência de lastro probatório mínimo.
+Trata-se, desse modo, de medida excepcional, uma vez que impede o regular andamento da ação penal proposta. Não compete ao Poder Judiciário paralisar o exercício regular da atividade policial, tampouco subtrair do Ministério Público, titular da ação pública, a opinio delicti.
+Na situação vertente, consta do acórdão invectivado que "os pacientes trafegavam em carro com alta velocidade, quando desobedeceram ordem de parada de GCMs, iniciando-se perseguição, durante a qual ALESSANDRA, que estava no banco de passageiro, arremessou uma bolsa rosa, contendo uma porção de cocaína (com massa líquida de 993,1g- laudo de fls. 92/94 dos autos originais)" - e-STJ fl. 30.
+Nesse sentido, segundo a jurisprudência desta Corte, "a abordagem foi realizada em razão da fundada suspeita, uma vez que o paciente foi abordado durante rondas/patrulhas do guarda civil municipal, conduzindo uma motocicleta, sendo dada ordem de parada, o réu acelerou o veículo e empreendeu fuga, tentando se desfazer mais adiante, de uma bolsa plástica e, ainda, efetuado dois disparos de arma de fogo em direção aos policiais. Conforme a jurisprudência desta Corte, tal conduta configura situação de flagrância, legitimando a abordagem e a busca pessoal (CPP, art. 244)" (HC n. 917.341/PE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024 ).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. REVISÃO CRIMINAL NÃO CONHECIDA NA ORIGEM. CONSONÂNCIA COM O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. PRESENÇA DE FUNDADAS RAZÕES. LEGALIDADE. AGRAVO PROVIDO.
+1. Transitada em julgado a condenação, a jurisprudência firmada no Superior Tribunal de Justiça vem destacando o não cabimento da revisão criminal quando utilizada como nova apelação, visando ao mero reexame de fatos e provas, sem que se verifique situação de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do Código de Processo Penal - CPP.
+2. Não se verifica ilegalidade na ação da Guarda Municipal, porquanto a lei autoriza a qualquer do povo realizar prisão em flagrante - art. 301 do CPP. Precedentes.
+3. O Supremo Tribunal Federal julgou procedente pedido formalizado na ADPF n. 995/DF, relator Ministro Alexandre de Moraes, "declarando inconstitucional todas as interpretações judiciais que excluem as Guardas Municipais, devidamente criadas e instituídas, como integrantes do Sistema de Segurança Pública".
+4. No caso, não se verifica a apontada ilicitude probatória decorrente da abordagem dos agentes da Guarda Municipal, pois a atuação decorreu de fundada suspeita, caracterizada pela localização de veículo objeto de roubo, uma vez que os suspeitos encontravam-se nas proximidades em carro que aparece nas filmagens como sendo o utilizado para a prática do delito. Os suspeitos demonstraram nervosismo e desobedeceram à ordem de parada, o que justifica a atuação dos agentes municipais. Precedentes.
+5. Agravo regimental provido para reformar a decisão anteriormente proferida e denegar a ordem de habeas corpus.
+(AgRg no HC n. 871.486/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 15/10/2024, DJe de 23/10/2024.).
+Tal o contexto, denego a ordem, liminarmente
+Publique-se. Intimem-se.
+EMENTA
