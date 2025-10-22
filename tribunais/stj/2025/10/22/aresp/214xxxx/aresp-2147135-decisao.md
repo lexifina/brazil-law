@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLARO S.A. contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 489, 1.022 do CPC; na incidência das Súmulas n. 5 e 7 do STJ; e na prejudicialidade da análise da divergência jurisprudencial.
+Não foi apresentada contraminuta, conforme a certidão de fl. 2.298.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação de cobrança c/c rescisão contratual e indenização por danos materiais e morais.
+O julgado foi assim ementado (fls. 2.092-2.093):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA E RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA. CONTRATO DE REPRESENTAÇÃO COMERCIAL. CLÁUSULA CONTRATUAL QUE OSTENTA NATUREZA JURÍDICA DEL CREDERE. VEDAÇÃO LEGAL EXPRESSA, NOS DITAMES DO ART. 43 DA LEI 4.886/65. CONTRATO DE "ADESÃO". DECLARAÇÃO DE NULIDADE DA AVENTADA CLÁUSULA QUE SE IMPUNHA NO CASO CONCRETO, NOS TERMOS DO ART. 424 DO CÓDIGO CIVIL. DIREITO DA AUTORA, ORA APELADA, DEVIDAMENTE, RECONHECIDO PELO JUÍZO A QUO, AO PAGAMENTO DAS COMISSÕES PELAS VENDAS REALIZADAS, E NÃO QUITADAS PELA PARTE RÉ, ORA APELANTE, BEM COMO AO PAGAMENTO DAS RETRIBUIÇÕES RELATIVAS AOS INDEVIDAMENTE, DESCONTADOS, SOB AS MAIS DIVERSAS RUBRICAS, DAS COMISSÕES. LAUDO PERICIAL, QUE EM COTEJO COM AS DEMAIS PROVAS DOS AUTOS, MOSTROU-SE SUFICIENTE PARA O JULGAMENTO DO FEITO. DESNECESSIDADE DE NOVA PERÍCIA OU EVENTUAL DA ANTERIOR. CONTROVÉRSIA, ESSENCIALMENTE, "DE DIREITO". APLICAÇÃO DOS ARTIGOS 341, 371 E 479 DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES DO E. TJRJ. O NÃO-PAGAMENTO DE RETRIBUIÇÃO NA ÉPOCA DEVIDA À REPRESENTANTE COMERCIAL ENSEJA A RESOLUÇÃO CULPOSA DO CONTRATO, NOS TERMOS DO ART. 36, "d", DA LEI 4.886/65 LEI. REPRESENTADA QUE POR SUA CONDUTA DEU AZO À RESOLUÇÃO DO CONTRATO. INDENIZAÇÃO COMPENSATÓRIA CORRETAMENTE FIXADA PELO JUÍZO A QUO, CONSIDERANDO AS PECULIARIDADES DO CASO CONCRETO, COM FULCRO NO ART. 27, "j", DA LEI 4.886/65. SENTENÇA PROLATADA PELO JUIZ DE PISO BEM FUNDAMENTADA QUE NÃO MERECE QUAISQUER REPAROS. RECURSO CONHECIDO, E IMPROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 2.126):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CIVIL - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE A ENSEJAR A OPOSIÇÃO DOS PRESENTES ACLARATÓRIOS COM EFEITOS INFRINGENTES. NÃO PODE SER ACOLHIDA PRETENSÃO QUE, SOB O RÓTULO DE EMBARGOS DECLARATÓRIOS, PRETENDE SUBSTITUIR O ACÓRDÃO POR OUTRO CUJOS TERMOS JÁ FORAM APRECIADOS. - OS EMBARGOS DECLARATÓRIOS SÃO APELOS DE INTEGRAÇÃO, NÃO DE SUBSTITUIÇÃO. PREQUESTIONAMENTO DE MATÉRIA. NEGA-SE PROVIMENTO AO RECURSO.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 43 da Lei n. 4.886/1965, visto que os estornos de comissão não configuram cláusula del credere;
+b) 884 do Código Civil, porquanto a condenação ao pagamento de estornos de comissão causa enriquecimento sem causa;
+c) 341 e 373, I, do CPC, pois a presunção de veracidade foi aplicada de forma equivocada, uma vez que sua defesa impugnou a alegação de inadimplemento;
+d) 27, j, e 36 da Lei n. 4.886/1965 e 141 do CPC, visto que não houve rescisão imotivada do contrato, mesmo não havendo prova da referida rescisão; ao contrário, as agravadas concordaram com os estornos e vendas não pagas;
+e) 477, § 2º, I e II, do CPC, porquanto o pedido de esclarecimentos sobre o laudo pericial não foi apreciado, configurando cerceamento de defesa; e
+f) 1.022, parágrafo único, II, e 489, § 1º, VI, do CPC, visto que o acórdão recorrido não enfrentou os argumentos centrais apresentados na apelação, especialmente quanto ao cumprimento das regras contratuais para o recebimento das comissões.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando-se improcedente a ação.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 2.210.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de cobrança c/c rescisão contratual e indenização por danos materiais e morais em que a parte autora pleiteou o pagamento de 403 vendas/ativações não quitadas, a devolução de estornos de comissão e a declaração de rescisão injustificada do contrato com indenização.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos, condenando a ré ao pagamento das comissões por vendas realizadas e não quitadas, à devolução de estornos de comissão e à indenização prevista na Lei de Representação, fixando honorários advocatícios.
+A Corte estadual manteve integralmente a sentença.
+I - Arts. 1.022, parágrafo único, II, e 489, § 1º, IV do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, a questão referente à omissão sobre o cumprimento das regras contratuais para o recebimento das comissões, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Arts. 43, 884 do CC, 27, j, e 36 da Lei n. 4.886/1965 e 141 e 477, § 2º, I e II, do CPC
+No caso em exame, quanto aos arts. 43 e 884 do Código Civil, observa-se que o acórdão recorrido reconheceu que a cláusula contratual ostenta natureza jurídica del credere, vedada pela Lei n. 4.886/1965, reputando indevidos os estornos realizados.
+No tocante aos arts. 27, j, e 36 da Lei n. 4.886/65, a recorrente sustentou não ter havido rescisão imotivada do contrato, bem como ter havido concordância das agravadas com os estornos e vendas não pagas. Entretanto, o acórdão recorrido entendeu que o não pagamento da retribuição configura resolução culposa do contrato, nos termos do art. 36, d, do referido diploma legal.
+Por fim, em relação ao art. 477, § 2º, I e II, do CPC, a parte alegou cerceamento de defesa em virtude do não acolhimento de pedido de esclarecimentos sobre o laudo pericial. Contudo, o Tribunal de origem assentou não ser necessária nova prova pericial ou complementação da anterior, decisão amparada na análise do conjunto fático-probatório e contratual.
+Dessa maneira, depreende-se que o Tribunal julgou com base no exame de cláusulas contratuais e do substrato fático-probatório dos autos, não podendo a questão ser revista no âmbito de recurso especial, conforme dispõem as Súmulas n. 5 e 7 desta Corte.
+III - Arts. 341 e 373, I, do CPC
+O acórdão recorrido entendeu que a parte ré não contestara especificamente o pedido de pagamento das vendas não quitadas.
+No recurso especial, a parte alegou que a defesa impugnou a alegação de inadimplemento. Verifica-se, portanto, que a tese jurídica apresentada pela recorrente se encontra dissociada dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF.
+IV - Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+N ão basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+V - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+EMENTA
