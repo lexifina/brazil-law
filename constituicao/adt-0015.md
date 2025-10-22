@@ -1,0 +1,3 @@
+Artigo 15 - O Tribunal de Justiça, dentro do prazo de noventa dias, após a promulgação desta Constituição, encaminhará projeto de lei à Assembleia Legislativa, dispondo sobre a organização, competência e instalação dos Juizados Especiais a que se refere o artigo 87.
+§1° - São mantidos os Juizados Especiais de Pequenas Causas criados com base na Lei Federal n° 7.244, de 7 de novembro de 1984, e na Lei Estadual n° 5.143, de 28 de maio de 1986, bem como suas instâncias recursais.
+§2° - O projeto a que se refere o "caput" deste artigo deverá prever a instalação, na Capital, de Juizados Especiais em número suficiente e localização adequada ao atendimento da população dos bairros periféricos.

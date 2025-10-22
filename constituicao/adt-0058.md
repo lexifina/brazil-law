@@ -1,0 +1,1 @@
+Artigo 58 - Salvo disposições em contrário, os Poderes Legislativo, Executivo e Judiciário deverão propor os projetos que objetivam dar cumprimento às determinações desta Constituição, bem como, no que couber, da Constituição Federal, até a data de 28 de junho de 1990, para apreciação pela Assembleia Legislativa.

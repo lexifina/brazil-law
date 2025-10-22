@@ -1,0 +1,4 @@
+Artigo 143-A - À Polícia Penal, órgão permanente, dirigida por servidor de carreira, cabe a segurança dos estabelecimentos penais. (NR)
+§ 1° - O preenchimento do quadro de servidores da Polícia Penal será feito, exclusivamente, por meio de concurso público e da transformação dos cargos isolados, dos cargos de carreira dos atuais agentes penitenciários e dos cargos públicos equivalentes. (NR)
+§ 2° - Lei orgânica e estatuto disciplinarão a organização, atribuições, funcionamento, direitos, deveres, vantagens e regime de trabalho da Polícia Penal e de seus integrantes, respeitadas as leis federais concernentes. (NR)
+§ 3° - O Diretor Geral da Polícia Penal será nomeado pelo Governador do Estado dentre os ocupantes do serviço ativo da carreira policial penal do Estado de São Paulo, conforme dispuser a lei, devendo fazer declaração pública de bens no ato da posse e de sua exoneração. (NR)

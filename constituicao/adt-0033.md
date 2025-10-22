@@ -1,0 +1,1 @@
+Artigo 33 - O Poder Público promoverá, no prazo de três anos, a identificação prévia de áreas e o ajuizamento de ações discriminatórias, visando a separar as terras devolutas das particulares, e manterá cadastro atualizado dos seus recursos fundiários.

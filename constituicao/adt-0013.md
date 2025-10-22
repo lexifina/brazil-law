@@ -1,0 +1,1 @@
+Artigo 13 - O Tribunal de Justiça, no prazo de cento e oitenta dias contados da promulgação desta Constituição, encaminhará projeto de lei fixando a forma e os termos para criação de Tribunais de Alçada Regionais, a que se refere o artigo 71.

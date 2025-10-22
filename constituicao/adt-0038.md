@@ -1,0 +1,1 @@
+Artigo 38 - Os conselhos, fundos, entidades e órgãos previstos nesta Constituição, não existentes na data da sua promulgação, serão criados mediante lei de iniciativa do Poder Executivo, que terá o prazo de cento e oitenta dias para remeter à Assembleia Legislativa o projeto. No mesmo prazo, remeterá os projetos de adaptação dos já existentes e que dependam de lei para esse fim.

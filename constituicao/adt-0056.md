@@ -1,0 +1,2 @@
+Artigo 56 - No prazo de cinco anos, a contar da promulgação desta Constituição, os sistemas de ensino municipal e estadual tomarão todas as providências necessárias à efetivação dos dispositivos nela previstos, relativos à formação e reabilitação dos portadores de deficiências, em especial e quanto aos recursos financeiros, humanos, técnicos e materiais.
+Parágrafo único - Os sistemas mencionados neste artigo, no mesmo prazo, igualmente, garantirão recursos financeiros, humanos, técnicos e materiais, destinados a campanhas educativas de prevenção de deficiências.

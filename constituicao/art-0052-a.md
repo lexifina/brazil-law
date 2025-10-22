@@ -1,0 +1,5 @@
+Artigo 52-A - Caberá a cada Secretário de Estado, semestralmente, comparecer perante a Comissão Permanente da Assembleia Legislativa a que estejam afetas as atribuições de sua Pasta, para prestação de contas do andamento da gestão, bem como demonstrar e avaliar o desenvolvimento de ações, programas e metas da Secretaria correspondente. (NR)
+§1° - Aplica-se o disposto no "caput" deste artigo aos Diretores de Agências Reguladoras. (NR)
+§2° - Aplicam-se aos procedimentos previstos neste artigo, no que couber, aqueles já disciplinados em Regimento Interno do Poder Legislativo. (NR)
+§3° - O comparecimento do Secretário de Estado, com a finalidade de apresentar, quadrimestralmente, perante Comissão Permanente do Poder Legislativo, a demonstração e a avaliação do cumprimento das metas fiscais por parte do Poder Executivo suprirá a obrigatoriedade constante do "caput" deste artigo. (NR)
+§4° - No caso das Universidades Públicas Estaduais e da Fundação de Amparo à Pesquisa do Estado de São Paulo, incumbe, respectivamente, aos próprios Reitores e ao Presidente, efetivar, anualmente e no que couber, o disposto no "caput" deste artigo. (NR)

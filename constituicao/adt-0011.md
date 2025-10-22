@@ -1,0 +1,1 @@
+Artigo 11 - Aos procuradores do Estado, no prazo de sessenta dias da promulgação da Lei Orgânica da Defensoria Pública, será facultada opção, de forma irretratável, pela permanência no quadro da Procuradoria Geral do Estado, ou no quadro de carreira de Defensor Público, garantidas as vantagens, níveis e proibições.

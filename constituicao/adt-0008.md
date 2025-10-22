@@ -1,0 +1,1 @@
+Artigo 8° - Os Poderes Legislativo, Executivo e Judiciário, no prazo de cento e oitenta dias, proporão uma forma de integração dos seus controles internos em conformidade com o artigo 35 desta Constituição.

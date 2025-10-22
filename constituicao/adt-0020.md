@@ -1,0 +1,1 @@
+Artigo 20 - O pagamento do adicional por tempo de serviço e da sexta parte, na forma prevista no artigo 129, será devido a partir do primeiro dia do mês seguinte ao da publicação desta Constituição, vedada sua acumulação com vantagem já percebida por esses títulos.

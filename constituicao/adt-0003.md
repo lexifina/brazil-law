@@ -1,0 +1,1 @@
+Artigo 3° - A revisão constitucional será iniciada imediatamente após o término da prevista no artigo 3° do Ato das Disposições Constitucionais Transitórias da Constituição Federal e aprovada pelo voto da maioria absoluta dos membros da Assembleia Legislativa.

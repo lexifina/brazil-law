@@ -1,0 +1,1 @@
+Artigo 44 - Ficam mantidas as unidades de conservação atualmente existentes, promovendo o Estado a sua demarcação, regularização dominial e efetiva implantação no prazo de cinco anos, consignando nos próximos orçamentos as verbas para tanto necessárias.

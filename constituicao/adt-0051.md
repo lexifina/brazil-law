@@ -1,0 +1,1 @@
+Artigo 51 - No prazo de cento e vinte dias, a contar da promulgação desta Constituição, o Poder Público estadual deverá definir a situação escolar dos alunos matriculados em escolas de 1° e 2° graus da rede particular que, nos últimos cinco anos, tiveram suas atividades suspensas ou encerradas por desrespeito a disposições legais, obedecida a legislação aplicável à espécie.

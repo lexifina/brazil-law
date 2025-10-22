@@ -1,0 +1,1 @@
+Artigo 27 - Aplica-se o disposto no artigo 8° e seus parágrafos do Ato das Disposições Constitucionais Transitórias da Constituição Federal aos servidores públicos civis da administração direta, autárquica, fundacional e aos empregados das empresas públicas ou sociedade de economia mista, sob controle estatal.

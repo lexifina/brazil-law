@@ -1,0 +1,1 @@
+Artigo 60 - O Estado entregará aos Municípios vinte e cinco por cento do montante de recursos recebidos da União com base no artigo 91 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, respeitando-se, ainda, o disposto nos §§ 2° a 4° do mesmo artigo. (NR)

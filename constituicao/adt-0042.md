@@ -1,0 +1,1 @@
+Artigo 42 - O Estado, no exercício da competência prevista no artigo 24, incisos VI, VII e VIII, da Constituição Federal, no que couber, elaborará, atendendo suas peculiaridades, o Código de Proteção ao Meio Ambiente, no prazo de cento e oitenta dias.

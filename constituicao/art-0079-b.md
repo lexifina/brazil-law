@@ -1,0 +1,1 @@
+Artigo 79-B - Compete à Justiça Militar estadual processar e julgar os militares do Estado, nos crimes militares definidos em lei e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ainda decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças. (NR)

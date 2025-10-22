@@ -1,0 +1,1 @@
+Artigo 54 - A lei, no prazo de cento e oitenta dias após a promulgação do Código do Consumidor, a que se refere o artigo 48 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, estabelecerá normas para proteção ao consumidor.

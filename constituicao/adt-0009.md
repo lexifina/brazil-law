@@ -1,0 +1,1 @@
+Artigo 9° - Enquanto não forem criados os serviços auxiliares a que se refere o artigo 92, IV, desta Constituição, o Ministério Público terá assegurados, em caráter temporário, os meios necessários ao desempenho das funções a que se refere o artigo 97.
