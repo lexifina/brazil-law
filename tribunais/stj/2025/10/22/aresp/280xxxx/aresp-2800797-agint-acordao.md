@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. INTELIGÊNCIA DOS ARTS. 932, III, DO CPC, 253. P. Ú., DO RISTJ, E DO ENUNCIADO 182 DA SÚMULA DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É inviável o agravo em recurso especial que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Inteligência dos artigos 932, inciso III, do CPC, 253, parágrafo único, do RISTJ, e do enunciado 182 da Súmula do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROMILDO FERREIRA DA SILVA, contra decisão monocrática, de minha lavra, que não conheceu do agravo em recurso especial, em razão da incidência do enunciado 182 da Súmula do STJ, consoante a seguinte ementa (fl. 915):
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU NENHUM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+Em seu agravo interno, às fls. 923-932, o recorrente alega ter impugnado todos os fundamentos da decisão que inadmitiu o recurso especial, não se cogitando em aplicação do enunciado 182 da Súmula do STJ à espécie.
+As contrarrazões não foram apresentadas (fl. 940).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. INTELIGÊNCIA DOS ARTS. 932, III, DO CPC, 253. P. Ú., DO RISTJ, E DO ENUNCIADO 182 DA SÚMULA DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É inviável o agravo em recurso especial que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Inteligência dos artigos 932, inciso III, do CPC, 253, parágrafo único, do RISTJ, e do enunciado 182 da Súmula do STJ.
+2. Agravo interno não provido.
+VOTO
+A insurgência não merece ser provida.
+Com efeito, da análise da completude do corrente processado, verifica-se que não foi impugnada a integralidade da fundamentação da decisão de segundo grau, porquanto o agravante não infirmou nenhum dos argumentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, em estudo minucioso dos autos deste agravo, nota-se que o decisum unipessoal de segundo grau que inadmitiu o recurso especial fundou-se em três argumentos distintos e autônomos: (i) - incidência, por analogia, do enunciado 284 da Súmula do STF, tendo em vista a fundamentação recursal manifestamente deficiente; (ii) - aplicação da Súmula 182/STJ, pela ausência de impugnação dos fundamentos do acórdão; e (iii) - ausência de cotejo analítico, no que tange ao dissídio jurisprudencial apresentado.
+Entretanto, em sede de agravo em recurso especial, o recorrente deixou de infirmar especificamente e de modo suficiente, os fundamentos do decisum de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+De fato, quanto ao primeiro fundamento da decisão de segundo grau (i), registre-se que, "para rebater a aplicação da Súmula n. 284 do STF, quando aplicada por ausência de indicação de artigo supostamente violado, é necessário que a parte demonstre que apontou, nas razões do especial, a inobservância de dispositivo legal com força normativa capaz de alterar o aresto atacado" (AgRg no AREsp n. 2.512.162/CE, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe de 15/4/2024), circunstância não visualizada no caso em apreço.
+Na mesma linha , no que diz respeito ao segundo fundamento da decisão de inadmissibilidade (ii), quanto à incidência do enunciado 182 da Súmula do STJ, era de incumbência da parte agravante, em contraste, demonstrar em que ponto da petição do recurso especial há impugnação específica e suficiente acerca dos fundamentos do acórdão recorrido, em sua totalidade, de maneira a justificar ter havido argumentação jurídica lógica e crítica, com enfrentamento direto a todos os argumentos do aresto, em estrita obediência aos contornos do quanto dispõe o princípio da dialeticidade. Entretanto, essa providência não foi adotada pela parte agravante na hipótese em testilha.
+Por fim, quanto ao terceiro argumento da decisão de segundo grau, vale destacar que, para refutar o fundamento (iii), a parte deveria ter indicado o dispositivo legal ao qual foi atribuída interpretação divergente, bem como deveria ter demonstrado a ocorrência do dissídio jurisprudencial, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, mas conclusões jurídicas diametralmente opostas, ônus dos quais a parte recorrente não se desincumbiu no caso em apreço.
+Assim, ao deixar de infirmar adequadamente os fundamentos do juízo de admissibilidade realizado pelo tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a previsão contida no artigo 932, inciso III, do CPC e a do artigo 253, parágrafo único, inciso I, do RISTJ, que assevera que não deve ser conhecido o agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Tal raciocínio advém do teor do enunciado 182 da Súmula do STJ, ainda em vigor, que diz: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNGIBILIDADE. AGRAVO DE INSTRUMENTO FUNDADO NO ART. 544 DO CPC/1973. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. LEGITIMIDADE PARA RECORRER. AUSÊNCIA DE DEMONSTRAÇÃO. AGRAVOS INTERNOS NÃO CONHECIDOS.
+(..)
+2. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e motivada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+(..)
+4. Agravos internos não conhecidos.
+(AgInt no AREsp n. 2.135.260/BA, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 27/6/2024)
+Dessa forma, observa-se que não havia mesmo como se conhecer do recurso de agravo, pois incidente à espécie os artigos 932, inciso III, do CPC e 253, parágrafo único, inciso I, do RISTJ, além do enunciado 182 da Súmula deste Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
