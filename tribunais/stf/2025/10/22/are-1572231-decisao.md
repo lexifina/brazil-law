@@ -1,0 +1,101 @@
+DECISÃO:
+
+    Vistos.
+
+    Agência Nacional de Vigilância Sanitária - ANVISA interpõe agravo contra a decisão que não admitiu recurso extraordinário manejado em face de acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PAGAMENTO POR MEIO DE PRECATÓRIO. SUCESSÃO DA SUPRG PELA PORTOS RS.
+
+    O reconhecimento da sucessão opera efeitos a partir da criação da empresa Portos RS, isto é, com caráter ex nunc, de forma que não há qualquer implicação sobre o precatório expedido antes da extinção da SUPRG, em face da existência de direito adquirido em favor da parte exequente, considerando que o direito ao pagamento via precatório já se incorporou ao patrimônio da autarquia, sob pena de se violar o princípio da segurança jurídica.”
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    Sustenta a recorrente, nas razões de seu apelo extremo, violação dos artigos 5º, inciso XXXVI, e 100 c/c art. 173, §§ 1º, II, e 2º, da Constituição Federal.
+
+    Alega que “a PORTOS RS ostenta personalidade jurídica de direito privado, exerce atividade econômica em regime concorrencial, sem monopólio e com vista a auferir lucro (Lei n. 15.717/2021, do Estado do Rio Grande do Sul). Sujeita-se, pois, ao regime jurídico constitucional das empresas privadas – execução direta –, na forma do art. 173, §§ 1º, II, e 2º, da Constituição Federal, a ela não se aplicando o regime de precatórios previsto no art. 100 da Constituição Federal”.
+
+    Pontua que “mantido o precatório expedido em face da SUPRG/Estado do Rio Grande do Sul como forma de pagamento em benefício da PORTOS RS, viola-se o disposto no art. 100 da CF”.
+
+    Argumenta que “apesar de a Agência ser titular de direito adquirido ao pagamento da dívida exequenda, não se pode concluir que tal direito adquirido somente se dê por via de precatório, que, ademais, traduz apenas a forma como deverá ocorrer o pagamento do crédito pelo devedor, estando vinculado à natureza jurídica deste (fazenda pública ou Privado) e não à do credor”.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Colhe-se do acórdão recorrido a seguinte fundamentação:
+
+    “Quanto à questão dos precatórios expedidos, é importante ressaltar que o reconhecimento da sucessão opera efeitos a partir da criação da empresa Portos RS, isto é, com caráter ex nunc, de forma que não há qualquer implicação sobre o precatório expedido antes da extinção da SUPRG, em face da existência de direito adquirido em favor da ANVISA, considerando que o direito ao pagamento via precatório já se incorporou ao patrimônio da autarquia, sob pena de se violar o princípio da segurança jurídica.
+
+    Ainda, há que se levar em conta que a prática dos atos administrativos relacionados à inscrição, ao processamento e ao cancelamento de precatórios, observam os princípios da Administração Pública (legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência) e as regras referentes à competência, forma, motivação, anulação, revogação e convalidação, etc. No presente caso, não há fundamentos para cancelar ato administrativo perfeito (expedição do precatório), o qual foi realizado dentro dos limites da legalidade e demais princípios do ordenamento jurídico.”
+
+    Nesse contexto, verifica-se que para acolher a pretensão recursal e divergir do entendimento firmado pelo Tribunal de origem quanto à eventual violação ao direito adquirido e ao ato jurídico perfeito, seria imprescindível a análise da legislação infraconstitucional aplicável à espécie e o reexame do conjunto fático-probatório constante dos autos, notadamente no que se refere à data da expedição do precatório e às disposições da legislação que extinguiu a SUPRG e criou a Portos RS. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Incidência da Súmula nº 279 desta Corte.
+
+    Tratando especificamente do tema em questão, transcrevo, por oportuno, o inteiro teor da decisão proferida pelo Ministro Gilmar Mendes, em caso análogo ao presente, nos autos do ARE nº 1.554.044/RS, que bem aborda a questão:
+
+    “DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+
+    ‘PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC/2015. EFEITOS INFRINGENTES. 1. No entanto, a expedição do precatório ocorreu antes do registro da empresa Portos perante a Junta Comercial do Estado, que se deu em 28/04/2022, momento em que se perfectibilizou a criação da Portos. 2. Esclarecido que o reconhecimento da sucessão da extinta SUPRG pela PORTOS RS opera efeitos a partir da criação desta empresa, com caráter ex nunc, de forma que não há qualquer implicação sobre o precatório expedido antes da extinção da SUPRG. O direito ao pagamento via precatório já se incorporou ao patrimônio da exequente ANVISA, não podendo ser afastado, sob pena de se violar o princípio da segurança jurídica’ (eDOC 77 – ID: aa7b93b2, p. 7)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, ‘a’ e ‘c’, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 100; e 173, §§ 1º, II, e 2º, do texto constitucional.
+
+    Nas razões recursais, sustenta-se que a recorrida não está sujeito ao regime de pagamento mediante precatório.
+
+    Alega-se que, após a alteração de sua natureza jurídica de direito público para DIREITO PRIVADO, com patrimônio próprio e autonomia administrativa, técnica, financeira e patrimonial, não mais possui a possibilidade de pagar suas dívidas por meio de precatório, de sorte que suas execuções devem se processar exclusivamente sob o rito da LEF e precisam obrigatoriamente ser garantidas por penhora, fiança ou seguro-garantia (eDOC 103 – ID: b5054e49, p. 8).
+
+    Aduz-se que não há falar que a Lei de criação da nova empresa tenha se omitido, ou mantido as obrigações anteriores sob responsabilidade da SUPRG ou do Estado do Rio Grande Sul, muito menos que o reconhecimento da sucessão opera efeitos apenas ex nunc, uma vez que seu art. 1º, § 1º, é expresso no sentido de que a PORTOS RS sucedeu a SUPRG em todos os direitos e obrigações, não fazendo quaisquer restrições ou exclusões, o que não autoriza que se faça ilações ou presunções em sentido contrário (...) e que (...) a PORTOS RS tem sucedido a SUPRG em diversas relações contratuais, em todos os seus direitos e obrigações (eDOC 103 – ID: b5054e49, p. 8).
+
+    Argumenta-se que a PORTOS RS ostenta personalidade jurídica de direito privado, exerce atividade econômica em regime concorrencial, sem monopólio e com vista a auferir lucro (Lei n. 15.717/2021, do Estado do Rio Grande do Sul) (...) e que, portanto, (...) Sujeita-se, pois, ao regime jurídico constitucional das empresas privadas – execução direta –, na forma do art. 173, §§ 1º, II, e 2º, da Constituição Federal, a ela não se aplicando o regime de precatórios previsto no art. 100 da Constituição Federal (eDOC 103 – ID: b5054e49, p. 12).
+
+    Por fim, alega-se que não subsiste qualquer ofensa ao ato jurídico perfeito e ao direito adquirido na revisão da ordem de pagamento, posto que o depósito ainda não fora realizado e que a sucessão da SUPRG pela empresa pública Portos RS é situação benéfica para o credor.
+
+    É o relatório.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, registro que esta Corte possui diversos precedentes a reconhecer a impenhorabilidade de bens de entidades que, ainda que sejam qualificadas como pessoas jurídicas de direito privado, prestem serviço público de caráter essencial e em regime não concorrencial.
+
+    Cito, título de exemplo, a ADPF 387, de minha relatoria, na qual registrei ser aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Confira-se a ementa deste precedente:
+
+    ‘Arguição de descumprimento de preceito fundamental. 2. Ato lesivo fundado em decisões de primeiro e de segundo graus do Tribunal Regional do Trabalho da 22ª Região que determinaram bloqueio, penhora e liberação de valores oriundos da conta única do Estado do Piauí, para pagamento de verbas trabalhistas de empregados da Empresa de Gestão de Recursos do Estado do Piauí S/A (EMGERPI). 3. Conversão da análise do pedido de medida cautelar em julgamento de mérito. Ação devidamente instruída. Possibilidade. Precedentes. 4. É aplicável o regime dos precatórios às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. Precedentes. 5. Ofensa aos princípios constitucionais do sistema financeiro e orçamentário, em especial ao da legalidade orçamentária (art. 167, VI, da CF), aos princípios da independência e da harmonia entre os Poderes (art. 2º da CF) e ao regime constitucional dos precatórios (art. 100 da CF). 6. Arguição de descumprimento de preceito fundamental julgada procedente’ (ADPF 387, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 25.10.2017 – grifo nosso)
+
+    No mesmo sentido sugiro ainda a consulta aos seguintes precedentes: ADPF 437, Rel. Min. Rosa Weber, DJe de 23/03/2017; ADPF 114, Rel. Min. Joaquim Barbosa, DJe de 27/06/2007; ADPF 275, Rel. Min. Alexandre de Moraes, DJe 27.06.2019; ADPF 547, Rel. Min. Roberto Barroso, DJe 21.06.2021.
+
+    Pois bem.
+
+    Na espécie, o Tribunal de origem consignou que a expedição do precatório ocorreu antes do registro da empresa Portos perante a Junta Comercial do Estado e que, portanto, deve ser mantido o pagamento por meio de precatório, sob pena de ofensa ao princípio da segurança jurídica, considerando-se que o ato foi realizado dentro dos limites da legalidade e demais princípios do ordenamento jurídico. Eis um trecho do acórdão impugnado:
+
+    ‘Com efeito, a expedição do precatório nos autos de origem se deu na data de 27/04/2022, após a entrada em vigor da Lei Estadual nº 15.717/2021, publicada no DOE nº 194, de 28/09/2021, e, inclusive, posteriormente à publicação do Decreto Estadual nº 56.426, em 22/03/2022, que aprovou o estatuto social da Portos RS.
+
+    No entanto, a expedição do precatório ocorreu antes do registro da empresa Portos perante a Junta Comercial do Estado, que se deu em 28/04/2022, momento em que se perfectibilizou a criação da Portos.
+
+    No âmbito deste Regional, ambas as Turmas desta Seção de Direito Administrativo estabeleceram que o reconhecimento da sucessão opera efeitos a partir da criação da empresa Portos RS, isto é, com caráter ex nunc, de forma que não há qualquer implicação sobre o precatório expedido antes da extinção da SUPRG, considerando que o direito ao pagamento via precatório já se incorporou ao patrimônio da autarquia, não podendo ser afastado, sob pena de violação ao princípio da segurança jurídica (...)
+
+    Deve ser mantido o pagamento por meio de precatório, não havendo fundamentos para cancelar ato administrativo perfeito (expedição do precatório), o qual foi realizado dentro dos limites da legalidade e demais princípios do ordenamento jurídico.
+
+    Por fim, em face da discussão acerca do prequestionamento e considerando a disciplina do art. 1.025 do CPC/2015, os elementos que a parte suscitou nos embargos de declaração serão considerados como prequestionados mesmo que tais embargos sejam rejeitados, desde que o tribunal superior considere que houve erro, omissão, contradição ou obscuridade. Ou seja, o novo CPC acabou por consagrar expressamente a tese do prequestionamento ficto, na linha de como o STF pacificou entendimento por meio do verbete sumular 356.
+
+    Nesse sentido, a oposição dos embargos de declaração, ainda que inadmitidos/rejeitados, autorizam o manejo de recurso às Instâncias Superiores.
+
+    Ante o exposto, voto por dar provimento aos embargos de declaração, com efeitos modificativos, nos termos da fundamentação’ (eDOC 77 – ID: aa7b93b2)
+
+    No que se refere especificamente à questão relacionada à possibilidade de expedição de precatório no caso dos autos, verifica-se que o acórdão do Tribunal de origem não destoa da jurisprudência do Supremo Tribunal Federal, notadamente se considerado que a manutenção da prerrogativa conferido à Fazenda Pública em favor da empresa pública não decorreu de uma análise quanto à natureza da atividade exercida pelo ente privado a atrair o regime de precatórios, mas sim da necessidade de conferir segurança jurídica a um direito já incorporado ao patrimônio do credor.
+
+    Além disso, vale registrar que a controvérsia suscitada pelo recorrente remonta à eventual violação ao direito adquirido e ao ato jurídico perfeito, sendo, nesse caso, imprescindível o exame da matéria infraconstitucional e do acervo fático-probatório, notadamente no que se refere à data da expedição do precatório e as disposições da legislação que extinguiu a SUPRG e criou a Portos RS. Nesse sentido, confiram-se os seguintes precedentes:
+
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. COMPLEMENTAÇÃO DE PENSÃO. EX-EMPREGADO PÚBLICO. ÓBITO OCORRIDO APÓS A SUPERVENIÊNCIA DA EC 103/2019. LEIS ESTADUAIS 1.386/1951 E 4.819/1958. LEI COMPLEMENTAR ESTADUAL 200/1974. SÚMULAS 279 E 280 DO STF. PRECEDENTES. TEMAS 229 E 660. INEXISTÊNCIA DE REPERCUSSÃO GERAL. I. Caso em exame. 1. Agravo regimental contra decisão que negou provimento ao recurso extraordinário com fundamento nas Súmulas 279 e 280 do STF. II. Questão em discussão 2. Verificar a viabilidade, ou não, do apelo extremo, no qual se alega ofensa ao art. 5º, XXXVI e 37, § 15 da CF e 7º da EC 103/2019, em face dos óbices apontados na decisão agravada. III. Razões de decidir 3. Eventual divergência em relação ao entendimento adotado pelo juízo a quo, quanto ao direito da pensionista ao benefício de complementação de aposentadoria, demandaria o reexame de fatos e provas constantes dos autos e o exame da legislação local aplicável à espécie (especialmente as Leis Estaduais 1.386/1951 e 4.819/1958 e a Lei Complementar Estadual 200/1974), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Precedentes. 4. O Supremo assentou a inexistência de repercussão geral da questão debatida no acórdão recorrido, concernente à complementação de aposentadoria, com base na Lei 4.819/1958 e na Lei Complementar 200/1974, ambas do Estado de São Paulo, por se tratar de matéria infraconstitucional (Tema 229, RE 585.392-RG) 5. Ademais, no julgamento do ARE 748.371-RG, Tema 660, Rel. Min. Gilmar Mendes, esta Corte rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas infraconstitucionais. IV. Dispositivo 6. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009)’ (ARE 1528257 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 09.04.2025 – grifo nosso)
+
+    ‘Direito administrativo e outras matérias de direito público. Agravo regimental no recurso extraordinário com agravo. Improbidade Administrativa. Exoneração de Cargo Efetivo. Alcance da condenação. Devido Processo Legal Administrativo. Coisa Julgada. Tema 660 RG. Reexame de fatos e provas. Impossibilidade. Súmula 279/STF. Agravo não provido. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário interposto por Município da Estância Turística de Olímpia contra acórdão do Tribunal de Justiça do Estado de São Paulo. 2. O acórdão recorrido entendeu que a exoneração não se configurou como cumprimento de decisão judicial, pois esta não determinou expressamente a perda da função pública, sendo necessária a observância do contraditório na esfera administrativa. 3. O recurso extraordinário alegou violação aos arts. 5º, XXXV, XXXVI, 37, § 4º, e 93, IX, da Constituição Federal. II. Questão em discussão 4. A questão em discussão consiste em saber se o recurso extraordinário deveria ser conhecido, diante da alegada violação aos princípios do devido processo legal, contraditório e ampla defesa, bem como à coisa julgada, em face da ausência de determinação judicial expressa para a exoneração do servidor público. III. Razões de decidir 5. A controvérsia, conforme já asseverado na decisão guerreada, está restrita ao âmbito infraconstitucional e à análise de fatos e provas. Compreensão diversa demandaria a reelaboração da moldura fática delineada e a interpretação da legislação local, procedimentos vedados em recurso extraordinário. Não há falar, portanto, em afronta aos preceitos constitucionais indicados nas razões recursais. Incidência das Súmulas nº 279 e 280/STF. 6. Conforme jurisprudência consolidada desta Suprema Corte, a análise de eventual ofensa aos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada demanda interpretação de normas infraconstitucionais, de modo que eventual violação à Constituição se daria de forma indireta ou reflexa, o que inviabiliza o conhecimento do recurso extraordinário com fundamento no art. 102, III, “a”, da Carta Magna. IV. Dispositivo 7. Agravo interno conhecido e não provido’ (ARE 1392881 AgR, Rel. Min. Flávio Dino, Primeira Turma, DJe 23.06.2025 – grifo nosso)
+
+    Ante o exposto, nego provimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.”
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista a ausência de fixação pela origem.
+
+    Publique-se.
+
+    Brasília, 22 de outubro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
