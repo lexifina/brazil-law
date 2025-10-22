@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HISTÓRICO PRISIONAL CONTURBADO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona ao estabelecer que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao habeas corpus, qual seja, o de prevenir ou de remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. O Tribunal de origem negou ao paciente a progressão de regime com base em fundamentação idônea - ausência do requisito subjetivo, evidenciada pelo histórico prisional conturbado do paciente durante a execução de sua pena, consubstanciado em inúmeras faltas disciplinares anotadas.
+3. É cediço que, não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando o apontado constrangimento ilegal no caso.
+4. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 426.201/SP, relator Ministro Rogerio Schietti, julgado em 5/6/2018, DJe de 12/6/2018).
+5. O habeas corpus não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+6. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTONIO DOMINGO DA SILVA contra a decisão de minha lavra que não conheceu do habeas corpus.
+Nas razões do agravo, a defesa repisa os fundamentos expendidos na petição inicial, sustentando que o paciente preenche os requisitos objetivos e subjetivos para a concessão do benefício, conforme o art. 112 da LEP, e que a decisão da autoridade coatora é ilegal e sem amparo em lei, jurisprudência e doutrina.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao colegiado.
+É o relatório.
+EMENTA
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HISTÓRICO PRISIONAL CONTURBADO. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é uníssona ao estabelecer que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao habeas corpus, qual seja, o de prevenir ou de remediar lesão ou ameaça de lesão ao direito de locomoção.
+2. O Tribunal de origem negou ao paciente a progressão de regime com base em fundamentação idônea - ausência do requisito subjetivo, evidenciada pelo histórico prisional conturbado do paciente durante a execução de sua pena, consubstanciado em inúmeras faltas disciplinares anotadas.
+3. É cediço que, não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando o apontado constrangimento ilegal no caso.
+4. O "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 426.201/SP, relator Ministro Rogerio Schietti, julgado em 5/6/2018, DJe de 12/6/2018).
+5. O habeas corpus não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+6. Agravo regimental improvido.
+VOTO
+Não obstante os esforços argumentativos da defesa, a decisão agravada merece ser mantida pelos seus próprios fundamentos.
+De início, como destacado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça é uníssona ao estabelecer que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao habeas corpus, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..
+(AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024 - grifo próprio.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Entretanto, não é o caso.
+Com efeito, o Tribunal de origem, ao manter a decisão do Juízo singular e indeferir o pedido de progressão para o regime prisional semiaberto, consignou que (fl. 24):
+ ..  Demais disso, na hipótese, nem mesmo seria caso de se conhecer da ordem de ofício, pois a decisão atacada está fundamentada e não se reveste de ilegalidade patente ou flagrante teratologia ao negar a progressão do paciente ao regime prisional semiaberto, com base, dentre outros argumentos, no de que ele teria histórico prisional conturbado ("há inúmeras faltas disciplinares anotadas") (fl. 41).  ..
+Da leitura do excerto acima, colhe-se que o Tribunal de origem, de forma fundamentada, não concedeu ao paciente a progressão ao regime semiaberto, por considerar ausente o requisito subjetivo em vista do histórico prisional conturbado do paciente durante a execução de sua pena, consubstanciado em inúmeras faltas disciplinares anotadas.
+Não obstante o paciente tenha cumprido o requisito temporal para progressão do regime, é cediço que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, não se verificando, no caso, o apontado constrangimento ilegal.
+Ademais, o "atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional" (AgRg no HC n. 426.201/SP, relator Ministro Rogerio Schietti, julgado em 5/6/2018, DJe de 12/6/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO DE REGIME E DE SAÍDA TEMPORÁRIA. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO PRISIONAL DESFAVORÁVEL. MOTIVAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL D ESPROVIDO.
+1. Hipótese em que o Juízo das Execuções Penais indeferiu o pleito de progressão para o regime prisional semiaberto, por ausência do requisito subjetivo, e julgou prejudicado o pedido de saída temporária formulado pelo Apenado que cumpre pena total de 16 (dezesseis) anos, 2 (dois) meses e 29 (vinte e nove) dias de reclusão, em regime fechado, com término previsto para 27/02/2027.
+2. Esta Corte Superior de Justiça firmou orientação no sentido de que "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" (HC 468 .765/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/12/2018, DJe 18/12/2018; sem grifos no original).
+3. Agravo regimental desprovido .
+(AgRg no HC n. 879.565/SC, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe de 15/3/2024 - grifo próprio.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS . EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO PRISIONAL DESFAVORÁVEL. MOTIVAÇÃO IDÔNEA. BOM COMPORTAMENTO DURANTE A EXECUÇÃO DA PENA. ART. 112, § 1.º, DA LEI DE EXECUÇÃO PENAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como é sabido, a execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, conforme o disposto no art. 112 da Lei de Execução Penal.
+2. Na hipótese, as instâncias ordinárias apresentaram fundamentação concreta referente a fatos ocorridos no curso da execução penal para justificar o indeferimento do benefício. Isso porque o Agravante praticou três novos crimes, por ocasião do cumprimento de pena em regime menos rigoroso, ainda que não transitados em julgados.
+3. Considerando que o Apenado ostenta histórico prisional desfavorável, o indeferimento da progressão de regime foi devidamente fundamentado na ausência do requisito subjetivo, porquanto o Agravante não ostenta bom comportamento durante a execução da pena, conforme estabelece o art. 112, § 1.º, da Lei de Execução Penal, assim como a jurisprudência consolidada no Superior Tribunal de Justiça.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 828.247/RN, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/8/2023, DJe de 25/8/2023 - grifo próprio.)
+Por fim, ressalta-se que o habeas corpus não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória necessária.
+Nesse contexto, inexiste ocorrência de flagrante ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, nego provimento ao agravo regimental.
+É co mo voto.
