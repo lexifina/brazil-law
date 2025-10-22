@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado contra a decisão que inadmitiu o recurso especial interposto por AGUINALDO FERREIRA DOS SANTOS, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+"PENAL. PROCESSO PENAL. APELAÇÃO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SIDEVAL ABSOLVIDO. MANTIDAS AS CONDENAÇÕES DOS DEMAIS APELANTES. ALTERAÇÕES NA DOSIMETRIA, NOS TERMOS DO ART. 580 DO CPP. GRATUIDADE DE JUSTIÇA. PEDIDO NÃO CONHECIDO. APELAÇÃO DE AGUINALDO CONHECIDA EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDA. APELAÇÃO DE SIDEVAL PROVIDA. APELAÇÃO DE JARCY LEA PARCIALMENTE PROVIDA.
+1. Em relação a SIDEVAL, as provas produzidas não são suficientes para sustentar uma condenação e não excluem totalmente a tese da Defesa. Reformada a sentença para absolver SIDEVAL da imputação do crime previsto no art. 33, c/c artigo 40, inciso I, da Lei nº 11.343/06 (FATO 8), com fulcro no art. 386, VII, do Código de Processo Penal.
+2. Comprovadas a materialidade, a autoria e o dolo, sendo as condutas típicas e não havendo nenhuma causa excludente da ilicitude, impõe-se a manutenção da condenação do réu AGUINALDO, pela prática das condutas criminosas previstas no artigo 33, c/c artigo 40, inciso I, da Lei nº 11.343/06 (fato 11) e no artigo 35, c/c artigo 40, inciso I, da Lei nº 11.343/06 (fato 1), e a manutenção da condenação de JARCY pela prática da conduta criminosa prevista no artigo 35, c/c artigo 40,inciso I,da Lei nº11.343/06 (fato 1)
+3. Diante da absolvição de SIDEVAL, prejudicado o recurso dele em relação à dosimetria da pena.
+4. Dosimetria - AGUINALDO - correção da pena, em relação aos fatos 1 e 11, para assegurar tratamento isonômico àquele que foi dado a Almir José Pinto, também condenado por esses fatos na ação penal 5003865-74.2013.4.04.7005. Pena final em 13 (treze) anos, 07 (sete) meses e 10 (dez) dias, e 1.575 (m il quinhentos e setenta e cinco) dias multa. Mantido o regime inicial fechado, a impossibilidade de substituição e a suspensão do direito de dirigir.
+5. Dosimetria - JARCY - correção da pena de para assegurar tratamento isonômico àquele que foi dado a Almir José Pinto, também condenado pelo fato 1 na ação penal 5003865- 74.2013.4.04.7005. Pena final em 05 (cinco) anos, 05 (cinco) meses e 10 (dez) dias de reclusão e 759 (setecentos e cinquenta e nove) dias-multa. Mantido o regime inicial aberto e a impossibilidade de substituição.
+6. O pedido de gratuidade de justiça, com isenção do pagamento das custas judiciais, deve ser solicitado ao juízo da execução penal.
+7. Apelação de AGUINALDO conhecida em parte e parcialmente provida; apelação de SIDEVAL provida, e apelação de JARCY parcialmente provida." (e-STJ, fl. 5.678)
+No recurso especial inadmitido, aponta violação aos artigos 33 e 35 da Lei n. 11.343/2006, por entender não comprovada sua participação nos crimes de tráfico de drogas e associação para o tráfico.
+Sustenta, ademais, ausência de comprovação de estabilidade e permanência necessárias à configuração do delito de associação para o tráfico.
+Subsidiariamente, postula "sejam redimensionadas as penas para os mínimos legais, por expresso erro na imposição das penas, haja vista que todas as circunstâncias são plenamente favoráveis ao Recorrente, nada havendo de mácula em sua conduta". (e-STJ, fl. 5.750)
+O recurso especial foi inadmitido na origem (e-STJ, fls. 5.798-5.801), ao que se seguiu a interposição deste agravo (e-STJ, fls. 5.825-5.839).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para não prover o recurso especial (e-STJ, fls. 5.912-5.915).
+É o relatório.
+Decido.
+Conforme constante da decisão agravada, o recurso especial foi inadmitido diante da impossibilidade de se examinar os pleitos de absolvição dos delitos de tráfico de drogas e associação para o tráfico, e de revisão da pena imposta ao réu, ante o óbice da Súmula 7 do STJ. No agravo do art. 1.042 do CPC, todavia, a parte agravante não combateu especificamente os fundamentos da decisão agravada, tecendo apenas breves linhas sobre o porquê entende não aplicável a Súmula n. 7 para a análise de revisão da condenação pela associação para o tráfico.
+A simples reiteração dos argumentos do recurso especial, como fez aqui o agravante, viola o princípio da dialeticidade e torna inadmissível o agravo do art. 1.042 do CPC, nos termos da Súmula 182/STJ.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento".
+(AgRg no AREsp n. 1.260.918/MA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/5/2020, DJe de 19/5/2020.)
+Ademais, sobre a aplicação da Súmula 7/STJ, a parte agravante trouxe apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local.
+Nesse sentido:
+" ..
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.789.363/SP, relator Ministra Laurita Vaz, Sexta Turma, julgado em 2/2/2021, DJe de 17/2/2021.)
+" ..
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..
+11. Agravo regimental não conhecido".
+(AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+Assim, não tendo a parte recorrente impugnado todos os fundamentos que ensejaram a inadmissão do recurso especial, a Súmula 182/STJ impede que se passe ao mérito do agravo do art. 1.042 do CPC, o qual não supera o juízo de admissibilidade.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
