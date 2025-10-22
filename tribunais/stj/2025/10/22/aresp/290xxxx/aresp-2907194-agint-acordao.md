@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. LIQUIDAÇÃO DE SENTENÇA. PRECLUSÃO RECONHECIDA. NÃO IMPUGNADOS DE FORMA ESPECÍFICA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA contra decisão que considerou preclusas as discussões acerca (i) dos valores relativos aos exequentes João Rangel Filho e João Lopes Mendonça; (ii) da inexigibilidade das parcelas perseguidas a título de "segunda execução"; e (iii) dos juros de mora. O Tribunal local deu parcial provimento para determinar a aplicação dos juros de mora com base na taxa mensal de remuneração da caderneta de poupança.
+2. O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 83 do STJ.
+3. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA contra decisão monocrática proferida pelo Ministro Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial, sob o fundamento de que a parte agravante deixou de impugnar especificamente todos os fundamentos da decisão de inadmissibilidade do recurso especial, em especial a incidência da Súmula n. 7 do STJ, nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno do STJ (fls. 1197-1199).
+O recurso especial interposto pelo IBAMA teve origem em agravo de instrumento manejado contra decisão do juízo de primeiro grau que, no âmbito de cumprimento de sentença, considerou preclusas as discussões relativas à legitimidade processual e à exigibilidade do título judicial. O Tribunal Regional Federal da 4ª Região, ao julgar o agravo de instrumento, deu-lhe parcial provimento apenas para determinar a aplicação dos juros de mora com base na taxa mensal de remuneração da caderneta de poupança, nos termos do art. 1º-F da Lei n. 9.494/1997 com a redação dada pela Lei n. 11.960/2009 (fls. 303-312).
+No recurso especial, o IBAMA alegou violação dos arts. 485, incisos IV e VI, 489, § 1º, incisos IV e VI, 503, 505, 507, 525, 783, 923 e 1.022, incisos I e II, do Código de Processo Civil, bem como ao art. 6º do Código Civil (fls. 797-830).
+O Tribunal de origem inadmitiu o recurso especial, aplicando os óbices das Súmulas n. 7 e 83 do STJ (fls. 905-911). Contra essa decisão, o IBAMA interpôs agravo, reiterando os argumentos do recurso especial e pleiteando a reforma da decisão de inadmissibilidade.
+Na decisão ora agravada, o Ministro Presidente do STJ não conheceu do agravo em recurso especial, sob o fundamento de que o IBAMA não impugnou especificamente a aplicação da Súmula n. 7 do STJ, o que configuraria ausência de dialeticidade recursal, nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ (fls. 1197-1199).
+No presente agravo interno, o IBAMA sustenta que a decisão agravada merece reforma, pois teria impugnado de forma específica e pormenorizada todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a aplicação da Súmula n. 7 do STJ. Argumenta que não está a demandar o revolvimento do conjunto fático-probatório dos autos, já que a matéria veiculada no recurso especial é apenas de aplicação ou não de normas legais e do entendimento jurisprudencial dominante, sem a necessidade de exame do mérito do litígio ou de fatos que envolvem a controvérsia (fls. 1206-1214).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo interno ao Colegiado, com o provimento do recurso.
+Devidamente intimada, a parte agravada não apresentou impugnação (fls. 1221-1280).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. LIQUIDAÇÃO DE SENTENÇA. PRECLUSÃO RECONHECIDA. NÃO IMPUGNADOS DE FORMA ESPECÍFICA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA contra decisão que considerou preclusas as discussões acerca (i) dos valores relativos aos exequentes João Rangel Filho e João Lopes Mendonça; (ii) da inexigibilidade das parcelas perseguidas a título de "segunda execução"; e (iii) dos juros de mora. O Tribunal local deu parcial provimento para determinar a aplicação dos juros de mora com base na taxa mensal de remuneração da caderneta de poupança.
+2. O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 83 do STJ.
+3. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Na origem, agravo de instrumento interposto pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA contra decisão que considerou preclusas as discussões acerca (i) dos valores relativos aos exequentes João Rangel Filho e João Lopes Mendonça; (ii) da inexigibilidade das parcelas perseguidas a título de "segunda execução"; e (iii) dos juros de mora.
+O Tribunal local deu parcial provimento para determinar a aplicação dos juros de mora com base na taxa mensal de remuneração da caderneta de poupança.
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 83 do STJ.
+Contudo, a parte agravante, no agravo em recurso especial, não impugnou, de forma específica, a incidência da Súmula n. 7 do STJ.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No que concerne à Súmula n. 7 do STJ, cumpre observar que a parte agravante não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, a partir dos fatos e provas não controvertidos mencionados no acórdão recorrido, independentemente de aprofundado reexame dos elementos probantes que integram o caderno processual, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, do CPC).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO AO ART. 1.021, § 1º, DO CPC/2015 E À SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182/STJ.
+2. A Corte Especial reafirmou tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. para acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+3. Com efeito, verifica-se no caso em apreço que a parte agravante, nas razões do Agravo em Recurso Especial, deixou de impugnar de forma clara e objetiva a incidência das Súmulas 5, 7 e 83 do STJ, e também a impossibilidade de análise, nesta via, de "eventual violação a atos normativos internos, tais como resoluções, portarias, instruções normativas".
+4. É pacífico o entendimento de que, no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 27.3.2020).
+5. O STJ entende que, nos casos em que foi aplicado o não conhecimento do Recurso Especial com base no Enunciado 83 do STJ, incumbe à parte, no Agravo em Recurso Especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do Agravo nos próprios autos.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.447.530/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe 22/8/2024; sem grifos no original.)
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
