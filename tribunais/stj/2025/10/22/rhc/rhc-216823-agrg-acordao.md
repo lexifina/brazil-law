@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Messod Azulay Neto, Maria Marluce Caldas, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental. Falsidade ideológica. Indeferimento de perícia grafotécnica. Recurso improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus, no qual se pleiteava a realização de perícia grafotécnica em documentos relacionados à constituição de sindicato, sob alegação de cerceamento de defesa.
+2. O recorrente foi denunciado pela prática dos crimes de falsidade ideológica e uso de documento falso, previstos nos arts. 299 e 304 do Código Penal, consistentes na inserção de informações falsas em atas e listas de presença de assembleias sindicais.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se o indeferimento da produção da perícia grafotécnica nos documentos apresentados configura cerceamento de defesa apto a ensejar a nulidade da decisão judicial e da instrução penal.
+III. Razões de decidir
+4. O magistrado pode indeferir a produção de provas que considerar impertinentes, irrelevantes ou meramente protelatórias, desde que fundamente adequadamente sua decisão, conforme autoriza o art. 400, §1º, do Código de Processo Penal.
+5. A perícia grafotécnica é necessária apenas nos crimes de falsidade material, sendo desnecessária nos crimes de falsidade ideológica, em que a falsidade recai sobre o conteúdo ou informações constantes do documento.
+6. A materialidade dos crimes encontra respaldo em provas testemunhais robustas e outros elementos probatórios, como declarações de trabalhadores que afirmaram não ter participado das assembleias cujas listas constavam seus nomes.
+IV. Dispositivo e tese
+7. Recurso improvido.
+Tese de julgamento: "1. O magistrado pode indeferir a produção de provas que considerar impertinentes, irrelevantes ou protelatórias, desde que devidamente fundamentado, sem configurar cerceamento de defesa. 2. A falsidade ideológica pode ser demonstrada por outros meios de prova além da perícia grafotécnica. 3. A ausência de perícia grafotécnica não invalida a ação penal quando a materialidade dos fatos imputados está comprovada por provas testemunhais e documentais idôneas".
+Dispositivos relevantes citados: CP, arts. 299 e 304; CPP, art. 400, §1º.
+Jurisprudência relevante citada: STJ, AgRg no HC 763.428/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19.06.2023; STJ, AgRg no AREsp 1.538.693/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25.08.2020; STJ, AgRg no RHC 124.302/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.08.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto, às fls. 352/365, por AIRTON SIMPLICIO BARROS contra decisão de fls. 343/348, que negou provimento ao recurso em habeas corpus.
+Extrai-se dos autos que o recorrente foi denunciado pela prática do delito previsto no art. 304 c/c o art. 299, ambos do CP (uso de documento contendo falsidade ideológica) (fls. 121/130).
+Em razão de resposta à acusação, o magistrado que recebeu a denúncia rechaçou preliminar de nulidade absoluta ante a ausência de realização de prova pericial obrigatória (fls. 133/137).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem, consoante acórdão ementado às fls. 214/215.
+A defesa, então, interpôs o recurso ordinário que ensejou a decisão agravada. Em síntese, consoante precedentes desta Corte, a decisão agravada negou provimento ao recurso, porquanto a conduta narrada enquadra-se em falsidade ideológica, não sendo obrigatória a produção de prova grafotécnica.
+No presente agravo, a defesa insiste na realização de perícia grafotécnica das assinaturas contidas nos documentos supostamente ideologicamente falsos porque a conduta de inserir informações falsas consubstancia-se em assinaturas a caneta de pessoas. Destaca que a existência de assinaturas de pessoas que afirmam não terem participado da reunião necessita ser apurada para demonstrar que o agravante não forjou qualquer assinatura nos referidos documentos, a denotar ausência de dolo específico para a falsidade ideológica. Acresce que a imputação de forjar assinaturas corresponde à falsidade material do documento, em razão do vício na forma. Aduz que o magistrado em primeiro grau está adotando providências para realização da perícia grafotécnica.
+Requer a reconsideração, com concessão da ordem para determinação da realização de perícia grafotécnica.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Falsidade ideológica. Indeferimento de perícia grafotécnica. Recurso improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus, no qual se pleiteava a realização de perícia grafotécnica em documentos relacionados à constituição de sindicato, sob alegação de cerceamento de defesa.
+2. O recorrente foi denunciado pela prática dos crimes de falsidade ideológica e uso de documento falso, previstos nos arts. 299 e 304 do Código Penal, consistentes na inserção de informações falsas em atas e listas de presença de assembleias sindicais.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se o indeferimento da produção da perícia grafotécnica nos documentos apresentados configura cerceamento de defesa apto a ensejar a nulidade da decisão judicial e da instrução penal.
+III. Razões de decidir
+4. O magistrado pode indeferir a produção de provas que considerar impertinentes, irrelevantes ou meramente protelatórias, desde que fundamente adequadamente sua decisão, conforme autoriza o art. 400, §1º, do Código de Processo Penal.
+5. A perícia grafotécnica é necessária apenas nos crimes de falsidade material, sendo desnecessária nos crimes de falsidade ideológica, em que a falsidade recai sobre o conteúdo ou informações constantes do documento.
+6. A materialidade dos crimes encontra respaldo em provas testemunhais robustas e outros elementos probatórios, como declarações de trabalhadores que afirmaram não ter participado das assembleias cujas listas constavam seus nomes.
+IV. Dispositivo e tese
+7. Recurso improvido.
+Tese de julgamento: "1. O magistrado pode indeferir a produção de provas que considerar impertinentes, irrelevantes ou protelatórias, desde que devidamente fundamentado, sem configurar cerceamento de defesa. 2. A falsidade ideológica pode ser demonstrada por outros meios de prova além da perícia grafotécnica. 3. A ausência de perícia grafotécnica não invalida a ação penal quando a materialidade dos fatos imputados está comprovada por provas testemunhais e documentais idôneas".
+Dispositivos relevantes citados: CP, arts. 299 e 304; CPP, art. 400, §1º.
+Jurisprudência relevante citada: STJ, AgRg no HC 763.428/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19.06.2023; STJ, AgRg no AREsp 1.538.693/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25.08.2020; STJ, AgRg no RHC 124.302/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 25.08.2020.
+VOTO
+Preenchidos os pressupostos de admissibilidade, o agravo regimental deve ser conhecido.
+Quanto ao mérito, a decisão agravada deve ser mantida.
+A tipificação do crime foi analisada pelo Tribunal de origem nos seguintes termos:
+"É cediço que o magistrado, enquanto destinatário da prova, pode deferir ou indeferir as diligências que considerar pertinentes e relevantes, rejeitando aquelas que entender impertinentes, protelatórias ou desnecessárias.
+No caso em apreço, não se vislumbra ilegalidade no indeferimento da prova pericial pleiteada, não havendo, de fato, cerceamento de defesa a ser reparado por este writ.
+Ao contrário do que sustenta o impetrante, o crime de falsidade ideológica (art. 299 do Código Penal), diferentemente da falsidade material, não exige necessariamente a realização de perícia grafotécnica, pois a falsificação recai sobre o conteúdo do documento, e não sobre sua autenticidade material.
+ ..
+Embora o impetrante argumente que a narrativa acusatória aponta para falsidade material e não ideológica, nota-se que a acusação formalmente apresentada é a de falsidade ideológica e uso de documento falso (arts. 299 e304 do Código Penal), consistente na inserção de informações falsas em documentos (atas e listas de presença de assembleias sindicais), com posterior utilização destes perante órgãos públicos.
+Como bem destacado pelo Ministério Público Federal em seu parecer, "no caso, há um conjunto robusto de provas, incluindo declarações prestadas pelo próprio acusado, que admitiu a coleta irregular de assinaturas e a ausência de trabalhadores na assembleia. Além disso, diversas testemunhas confirmaram que não participaram da reunião, apesar de seus nomes constarem nos registros apresentados aos órgãos públicos.
+Destaque-se que a própria testemunha Maria Delvanira, mencionada pelo impetrante, admitiu em depoimento ter colhido assinaturas e preenchido dados em momento posterior às assembleias, o que corrobora a tese acusatória de falsidade ideológica - pela inserção de informações inverídicas sobre a presença de pessoas que não compareceram ao ato - e não necessariamente de falsidade material das assinaturas.
+Ademais, a comprovação da materialidade delitiva pode se dar por outros meios de prova, não sendo o exame pericial a única forma idônea para tal.
+Não há, portanto, nulidade a ser declarada, pois o indeferimento da perícia foi devidamente fundamentado e não prejudica o exercício da ampla defesa pelo paciente, que poderá, durante a instrução processual, produzir outros elementos probatórios para comprovar suas alegações.
+Ressalte-se, ainda, que, conforme informações prestadas pela autoridade coatora, a materialidade encontra-se demonstrada por diversos meios de prova, destacando-se as oitivas policiais de testemunhas, incluindo trabalhadores da YAZAKI, que confirmaram não ter comparecido às assembleias, apesar de seus nomes constarem nas listas de presença. Além disso, foi juntada foto publicada em rede social, único registro conhecido da suposta assembleia de fundação do SINDIMETAL, evidenciando número reduzido de participantes, o que demonstra a irregularidade do evento.
+Por fim, destaca-se que o indeferimento da perícia grafotécnica, além de juridicamente justificável pela natureza do crime imputado, apresenta-se como medida razoável diante das circunstâncias do caso concreto. Como bem pontuado pelo Ministério Público Federal, a realização de tal perícia adicionaria mais complexidade a um processo já dificultoso, considerando que o réu reside atualmente em Portugal, exigindo a expedição de cartas rogatórias e cartas precatórias para oitiva de testemunhas." (fls. 237/238 - grifos nossos)
+Extrai-se do trecho acima que a imputação delitiva decorre da inserção de informações inverídicas em documentos sobre a presença de pessoas que não compareceram em assembléia.
+Conclui-se que, com base nos fatos narrados e nas provas já produzidas, é, em tese, pertinente o enquadramento da conduta do agente no tipo penal descrito no art. 299 do Código Penal, razão pela qual não é obrigatória a produção de prova grafotécnica. Assim sendo, resta justificado o indeferimento da diligência.
+Nesse sentido, citam-se precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. SUBVERSÃO À ORDEM E DISCIPLINA. MANUSCRITOS APREENDIDOS. REQUERIMENTO DE PERÍCIA GRAFOTÉCNICA. DISPENSÁVEL. INDEFERIMENTO MOTIVADO. OUTROS MEIOS DEPROVA. RECURSO IMPROVIDO.
+1-  ..  O art. 158 do Código de Processo Penal estabelece a indispensabilidade da realização do exame de corpo de delito, direto ou indireto, quando a infração deixar vestígios. Ainda, de acordo com a compreensão deste Superior Tribunal, a falta do exame de corpo de delito direto não é suficiente para invalidar a condenação, sobretudo quando é possível a verificação da materialidade por outros meios probatórios idôneos, como no caso, no qual a Corte estadual destacou a existência de outras provas acerca da ocorrência dos crimes. Precedentes. 6. Agravo regimental não provido.(AgRg no HC n. 763.428/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+2-  ..  No que concerne à suposta violação dos arts. 158 e 402, ambos do CPP, o Tribunal de origem consignou que, para a comprovação a falsidade ideológica, mostra-se desnecessária a realização de exame grafotécnico. Constata-se, portanto, que houve o indeferimento motivado da prova, em consonância com a jurisprudência desta Corte, no sentido de que "o art. 400, § 1º, do CPP, autorizao Magistrado a indeferir as provas que considerar irrelevantes, impertinentes ou protelatórias, uma vez que é ele o destinatário da prova" (AgRg no RHC 113.646/PA, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO -Desembargador Convocado do TJ/PE-, Quinta Turma, DJe .8/10/2019)  ..  (AgRg no AREsp n. 1.538.693/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020.)
+3- Quando há meios de prova diversos da perícia, ela não é indispensável, sobretudo considerando o poder disciplinar da autoridade administrativa do presídio.
+4- No caso, o Conselho Disciplinar negou a prova grafotécnica, de forma motivada. Explicou que os presos, muitas vezes, se valem de terceiros para redigir suas epístolas, bem como porque os apontamentos apreendidos diziam respeito aos próprios sindicados e seus familiares, o que o individualiza.
+5- Além disso, havia provas suficientes para a imputação da falta grave, diversas da perícia requerida,mais um motivo pelo qual ela foi dispensada. Os visitantes do apenado, que portavam os bilhetes sobre subversão e que tiveram contato com ele minutos antes da apreensão, assim como o conteúdo dos manuscritos, que diziam respeito a seus familiares, contendo instruções de facções criminosas, foram mais elucidativos quando comparados à prova grafotécnica.
+6- Agravo regimental não provido.
+(AgRg no HC n. 841.159/SC, relator MinistroReynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023.)
+AGRAVO REGIMENTAL NO RECURSOORDINÁRIO CONSTITUCIONAL. DENÚNCIA. INÉPCIANÃO CONFIGURADA. DESCRIÇÃO SUFICIENTE DACONDUTA. JUSTA CAUSA EVIDENCIADA. TRANCAMENTO DO PROCESSO. IMPOSSIBILIDADE. ANULAÇÃO AB INITIO. INVIABILIDADE. AGRAVOREGIMENTAL NÃO PROVIDO.
+O trancamento prematuro da persecução penal é medida excepcional, admissível somente quando emergemdos autos, de plano e sem necessidade de apreciaçãoprobatória, a falta de justa causa, a atipicidade da conduta,a extinção da punibilidade ou a inépcia formal da denúncia.
+Hipótese em que estão preenchidos os requisitosdo art. 41 do Código de Processo Penal e presentes oselementos mínimos a demonstrar a justa causa parapersecução penal.
+Não há que se falar em anulação ab initio, porquanto "sendo a acusação de falsidade ideológica, é desnecessária a realização de perícia, uma vez que, diferentemente do que ocorre com a falsidade documental, a alteração é no conteúdo (e não na forma) do documento" (AgRg no REsp n. 1.669.729/SP, Rel. Ministro FelixFischer, 5ª T., DJe 29/6/2018).
+Agravo regimental não provido.
+(AgRg no RHC n. 124.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/8/2020, DJe de 1º /9/2020.)
+Em tempo, em consulta ao teor da denúncia, ao contrário do que alega o recorrente, não se vislumbra qualquer assertiva no sentido de que as assinaturas são materialmente forjadas.
+Ante o exposto, voto no sentido do improvimento do agravo regimental.
