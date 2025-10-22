@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. PENSÃO POR MORTE. PAGAMENTO ADMINISTRATIVO. JUROS DE MORA. INDEFERIMENTO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. CONCLUSÃO DO TRIBUNAL DE ORIGEM, DIANTE DAS PARTICULARIDADES DO CASO CONCRETO, PELA NÃO INCIDÊNCIA DOS JUROS DE MORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por WANDA VIEIRA BARBOSA DE ANDRADE GOMES contra  a  decisão  que  conheceu  do  agravo  para não conhecer do recurso especial, pela aplicação da Súmula 283 do STF.
+Argumenta  a  parte agravante,  em  síntese,  que "há se ressaltar que o objeto do REsp é a possibilidade de incidência dos juros moratório de 1% desde a data do requerimento do benefício. Não há pedido relacionado à índice de correção monetária, como se assentou" (fl. 2.606).
+Defende, ainda, que " restou devidamente comprovada a divergência de interpretação jurisprudencial, atacando exatamente o fundamento central que motivou o decisum, qual seja, a incidência de juros de mora no pagamento realizado na via administrativa, por meio de complemento positivo" (fl. 2.607).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. PENSÃO POR MORTE. PAGAMENTO ADMINISTRATIVO. JUROS DE MORA. INDEFERIMENTO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. CONCLUSÃO DO TRIBUNAL DE ORIGEM, DIANTE DAS PARTICULARIDADES DO CASO CONCRETO, PELA NÃO INCIDÊNCIA DOS JUROS DE MORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.  A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+Ao decidir a controvérsia concernente à aplicação do índice de correção monetária ao montante, bem como o pagamento dos juros sobre as diferenças pagas administrativamente relacionadas à pensão por morte em favor da recorrente, o Tribunal local adotou se seguintes razões de decidir:
+Efetivamente, como bem pontuado pelo magistrado , o benefício de a quo pensão por morte da autora não foi objeto do processo nº 0046828-27.2012.4.03.6301), movida por seu esposo falecido em face da Autarquia Previdenciária.
+Dessa forma, ainda que a autarquia tenha pago os reflexos daquela decisão no benefício da autora, não existe mora reconhecida, reiterando que, na referida ação, se discutia benefício diverso da requerente e que a parte autora sequer figurou como parte originária.
+Ademais, as redações legais preveem que os valores das prestações relativas à benefícios pagos em atraso por responsabilidade da Previdência Social, serão apenas corrigidas monetariamente, ou seja, não há previsão legal para a aplicação de juros.
+Para tanto, há de se observar que a redação original do artigo 41, § 6º, assim dispunha: "§6º. O pagamento de parcelas relativas a benefícios, efetuado com atraso por responsabilidade da Previdência Social, será atualizado com a variação do Índice Nacional de Preços ao Consumidor - INPC, verificado no período compreendido entre o mês em que deveria ter sido pago e o mês do efetivo pagamento."
+O referido parágrafo fora remunerado para o §7º, do mesmo artigo, por força da Lei nº 8.444, de 20/07/92, com a seguinte redação: "§7º. O pagamento de parcelas relativas a benefícios, efetuado com atraso por responsabilidade da Previdência Social, será atualizado com a variação do Índice Nacional de Preços ao Consumidor - INPC, verificado no período compreendido entre o mês em que deveria ter sido pago e o mês do efetivo pagamento."
+Com efeito, esse dispositivo legal foi revogado pela Lei 8.880, de 27/05/94, que por seu artigo 20, § 5º determinou o seguinte: "§5º Os valores das parcelas referentes a benefícios pagos com atraso pela Previdência Social, por sua responsabilidade, serão corrigidos monetariamente pelos índices previstos no art. 41, § 7º, da Lei nº 8.213, de 1991, com as alterações da Lei nº 8.542, de 23 de dezembro de 1992, até o mês de fevereiro de 1994, e convertidos em URV, pelo valor em cruzeiros reais do equivalente em URV no dia 28 de fevereiro de 1994."
+O referido dispositivo legal se encontra regulamentado pelo Decreto n.º3.048/99, em seu artigo 175, in verbis:" O pagamento de parcelas relativas a benefícios efetuado com atraso, independentemente de ocorrência de mora e de quem lhe deu causa, deve ser corrigido monetariamente desde o momento em que restou devido, pelo mesmo índice utilizado para os reajustamentos dos benefícios do RGPS, apurado no período compreendido entre o mês que deveria ter sido pago e o mês do efetivo pagamento. "
+Sendo assim, ante a ausência de previsão legal, os valores a serem pagos administrativamente, mediante complemento positivo, devem ser atualizados monetariamente, sendo indevida a incidência de juros de mora, ante a ausência de previsão legal (fls. 2.511-2.512, grifo nosso).
+Assim, da leitura do recurso especial, verifica-se que os fundamentos suficientes para a manutenção do acórdão não foram impugnados de forma específica pela parte recorrente o que atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Além disso, a pretensão da parte recorrente encontra óbice na Súmula 7 do STJ. Isso porque, para alterar as conclusões, do órgão julgador seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a , servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, nego provimento ao recurso.
