@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. ART. 1.003, §5º, C/C O ART. 219, AMBOS DO CPC. PRINT INSERIDO NA PETIÇÃO DE AGRAVO. AUSÊNCIA DE JUNTADA DE DOCUMENTO IDÔNEO. INTEMPESTIVIDADE MANTIDA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. De acordo com o que prescrevem os artigos 1.003, §5º, e 219, ambos do Código de Processo Civil, o prazo para interposição de recurso especial na esfera cível é de 15 dias úteis.
+2. "A teor de pacífica jurisprudência desta Corte Superior "A ocorrência do feriado local ou a determinação de suspensão do prazo no Tribunal recorrido deve ser atestada por meio de documentação idônea (certidão específica do Tribunal de origem ou cópia do Diário Oficial - contendo o inteiro teor do ato da instância recorrida ou da lei que criou o feriado local). Não serve a tal propósito "print" (captura) de tela, imagem de página eletrônica extraída da "internet", mera menção no corpo da petição recursal ou apresentação de lista ou de calendário. Ademais, não se aplicam os feriados e as suspensões constantes em normas do Superior Tribunal de Justiça" (AgInt no AREsp n. 1.941.411/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)" (EDcl no AgInt no AREsp n. 2.707.555/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+3 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PETRÓLEO BRASILEIRO S A PETROBRAS, contra decisão monocrática, de lavra da Presidência do STJ, que não conheceu do recurso especial, em razão de sua intempestividade, consoante o seguinte fragmento (fls. 814-815):
+Mediante análise do recurso de PETRÓLEO BRASILEIRO S A PETROBRAS, a parte recorrente foi intimada do acórdão recorrido em 19/10/2023, sendo o recurso especial interposto somente em 13/11/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Ademais, a parte recorrente foi intimada da decisão agravada em 24/01/2024, sendo o agravo somente interposto em 19/02/2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Em seu agravo interno às fls. 821-830, a agravante pondera, em suma, que "havia comprovado a suspensão de todos os expedientes conforme tópico próprio "tempestividade" nos termos do Código de Processo Civil, em seu § 6º do art. 1.003".
+As contrarrazões foram apresentadas às fls. 893-900.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. ART. 1.003, §5º, C/C O ART. 219, AMBOS DO CPC. PRINT INSERIDO NA PETIÇÃO DE AGRAVO. AUSÊNCIA DE JUNTADA DE DOCUMENTO IDÔNEO. INTEMPESTIVIDADE MANTIDA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. De acordo com o que prescrevem os artigos 1.003, §5º, e 219, ambos do Código de Processo Civil, o prazo para interposição de recurso especial na esfera cível é de 15 dias úteis.
+2. "A teor de pacífica jurisprudência desta Corte Superior "A ocorrência do feriado local ou a determinação de suspensão do prazo no Tribunal recorrido deve ser atestada por meio de documentação idônea (certidão específica do Tribunal de origem ou cópia do Diário Oficial - contendo o inteiro teor do ato da instância recorrida ou da lei que criou o feriado local). Não serve a tal propósito "print" (captura) de tela, imagem de página eletrônica extraída da "internet", mera menção no corpo da petição recursal ou apresentação de lista ou de calendário. Ademais, não se aplicam os feriados e as suspensões constantes em normas do Superior Tribunal de Justiça" (AgInt no AREsp n. 1.941.411/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)" (EDcl no AgInt no AREsp n. 2.707.555/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+3 . Agravo interno a que se nega provimento.
+VOTO
+A insurgência não tem como prosperar.
+Com efeito, de acordo com o que prescrevem os artigos 1.003, §5º, e 219, ambos do Código de Processo Civil, o prazo para interposição de recurso especial na esfera cível é de 15 dias úteis.
+Na hipótese vertente, tem-se que o acórdão foi publicado no Diário de Justiça Eletrônico no dia 19/10/2023 (fl. 573), ao passo que o recurso especial foi interposto tão somente na data de 13/11/2023 (fls. 577-591), de forma intempestiva, eis que o último dia se deu em 10/11/2023.
+Ressalto que, ao contrário do que afirma a parte recorrente em seu recurso especial (fl. 580), o dia 03 de novembro não é considerado feriado nacional, sendo necessária a comprovação da suspensão de expediente desta data no ato da interposição do recurso, por meio de documento idôneo, o que não ocorreu. Até mesmo na ocasião da interposição do agravo interno, a agravante se limitou a juntar imagem de página extraída da "internet", considerada imprópria para comprovação da tempestividade do recurso.
+Portanto, verifico que o recurso especial fora apresentado fora do lapso legal de 15 dias úteis supra citado, e desacompanhado de qualquer documento idôneo a comprovar eventual feriado local ou suspensão do prazo perante a Corte de origem, o que torna inevitável o não conhecimento do recurso, ante manifesta intempestividade.
+A propósito, "a teor de pacífica jurisprudência desta Corte Superior "A ocorrência do feriado local ou a determinação de suspensão do prazo no Tribunal recorrido deve ser atestada por meio de documentação idônea (certidão específica do Tribunal de origem ou cópia do Diário Oficial - contendo o inteiro teor do ato da instância recorrida ou da lei que criou o feriado local). Não serve a tal propósito "print" (captura) de tela, imagem de página eletrônica extraída da "internet", mera menção no corpo da petição recursal ou apresentação de lista ou de calendário. Ademais, não se aplicam os feriados e as suspensões constantes em normas do Superior Tribunal de Justiça" (AgInt no AREsp n. 1.941.411/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)" (EDcl no AgInt no AREsp n. 2.707.555/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. DOCUMENTO IDÔNEO. PRINT. IMPOSSIBILIDADE. DIA DE TODOS OS SANTOS. DIA DO SERVIDOR PÚBLICO. FERIADO LOCAL.
+(..)
+2. A mera alegação nas razões recursais, o print de tela ou a imagem de página extraída da internet, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.274.521/PR, rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVOCATÓRIA. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+(..)
+3. "O erro de indicação do prazo recursal no sistema eletrônico do tribunal de origem deve ser devidamente comprovado para que configure justa causa capaz de afastar a intempestividade do recurso, o que não ocorreu no caso dos autos" (AgInt nos EDcl no AREsp n. 2.034.914/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022), o que não ocorreu no caso.
+4. A " ..  mera alegação nas razões recursais ou o print de tela ou imagem de página extraída da internet ou ainda a juntada de relação de feriados, sem o inteiro teor do correspondente ato normativo, não servem para comprovar a tempestividade recursal  .. " (AgInt no AREsp 2.140.372/SP, Quarta Turma, DJe de 16/02/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.624.077/PE, rel. Min. Humberto Martins, Terceira Turma, DJe de 25/9/2024)
+Dessa maneira, verifica-se que não há como ser afastada a intempestividade do caso em apreço, sendo hipótese de manutenção, na íntegra, do decisum monocrático prolatado no âmbito deste Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
