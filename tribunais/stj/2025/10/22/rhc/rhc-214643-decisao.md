@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANGELICA MUNIZ LEÃO DE ARRUDA ALVIM contra acórdão da 3ª Câmara Criminal do Tribunal de Justiça de São Paulo, no HC n. 2392963-80.2024.8.26.0000, assim ementado:
+PENAL PROCESSO PENAL HABEAS CORPUS DESACATO E DESOBEDIÊNCIA. 1. INSUFICIÊNCIA PROBATÓRIA MATÉRIA FÁTICA. 2. ATIPICIDADE DA CONDUTA TRANCAMENTO DA AÇÃO PENAL.
+1. A análise aprofundada de matéria fática, quanto à insuficiência probatória, é inadmissível nos estreitos limites desta ação penal constitucional.
+2. Não se verificando atipicidade da conduta, ausência de justa causa ou a inexistência de, ao menos, indícios de autoria, o trancamento de ação penal mostra-se sem sentido, afinal a medida é excepcional e, no caso, há prova de materialidade e indícios suficientes de autoria dos crimes de desacato e desobediência.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA PARTE DENEGADA. (e-STJ, fl. 15)
+Em seu arrazoado, a recorrente nega a ocorrência do crime de desobediência uma vez que não havia policiamento ostensivo de rotina, razão pela qual defende que não se aplica ao caso o Tema n. 1.060 do STJ. Alega que o que houve foi uma abordagem surpresa, violenta e despropositada.
+Alega que não houve dolo para a prática do crime de desacato, argumentando que "lixo e vagabundo são claramente adjetivos comparativos pessoais e não direcionados há um desprestigio de função estatal" (e-STJ, fl. 9).
+Aponta ausência de justa causa e atipicidade da conduta.
+Pugna, liminarmente, pela suspensão da Ação Penal n. 1543725-09.2023.8.26.005 e, ao final, pelo seu trancamento.
+Subsidiariamente, pugna pela remessa dos autos ao TJ/SP para que conheçam da ordem ali impetrada.
+O pedido liminar foi indeferido (e-STJ, fl. 25), decisão contra a qual foi interposto agravo regimental (e-STJ, fls. 48-62), que foi desprovido (e-STJ, fls. 160-165).
+Informações prestadas (e-STJ, fls. 28-39 e 43-46).
+O Ministério Público opinou pelo não conhecimento do recurso ou pelo seu desprovimento (e-STJ, fls. 68-71).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+De início, faz-se necessário destacar que "inexistindo constrangimento direto e concreto ao direito de ir e vir do paciente, incabível a utilização do habeas corpus para finalidade outra que não seja remediar a restrição ou ameaça ilegal, concreta e direta, ao direito de locomoção." (AgRg no HC n. 857.496/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024; grifou-se).
+Extrai-se do acórdão impugnado que, "na data dos fatos, policiais militares estavam em patrulhamento de rotina, quando avistaram o veículo Jeep Renegade placa GIL 3969, que estava com o licenciamento vencido, pelo que procederam à sua parada, emparelhando a viatura com o mesmo para tal finalidade e, solicitando que a Impetrante/Paciente, que estava na direção do retro mencionado veículo, desembarcasse. No entanto, ela teria desobedecido a ordem de parada e seguido na condução do veículo pela via pública, sendo seguida pelos policiais. Ao conseguirem interceptá-la algumas ruas à frente, a Impetrante/Paciente trancou-se no seu veículo blindado e recusou-se em dialogar com os policiais, proferindo-lhes xingamentos de "vagabundo" e "lixo" (fls. 70/71 autos principais)" (e-STJ, fl. 18-19).
+O Tribunal de Justiça de São Paulo compreendeu que " a  pretensão da Impetrante/Paciente de análise das provas no que diz respeito à suposta insuficiência probatória, não comporta conhecimento, afinal a via estreita desta ação penal constitucional, no particular, não autoriza avaliação aprofundada do conjunto probatório, cabendo apenas ao Juízo de conhecimento fazê-la no momento oportuno" (e-STJ, fl. 17).
+Salientou, por fim, que, " o  trancamento da ação penal, por sua vez, medida de caráter excepcionalíssimo, somente é autorizado quando manifesta, evidente, a ausência de justa causa, flagrante a ilegalidade decorrente da atipicidade da conduta imputada, estiver extinta a punibilidade, ou mesmo a ausência de indícios de materialidade ou autoria do crime" (e-STJ, fl. 19).
+Verifica-se que o Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte que tem o entendimento consolidado no sentido de que o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. Não é essa a hipótese dos autos.
+Além disso, a falta de justa causa apreciável em sede de habeas corpus é aquela em que a inocência do agente se apresente evidente, o que não se revela no caso.
+De fato, nos termos da jurisprudência desta Corte, o reconhecimento da ausência de justa causa é providência inviável na via estreita do writ, por exigir profundo exame do contexto probatório dos autos. Referida tarefa é reservada ao Juízo processante que, no decorrer da instrução processual, caso houver, analisará as teses suscitadas pela defesa.
+Ora, o afastamento da efetiva existência de patrulhamento ostensivo e, portanto, do crime de desobediência, demandaria incursão em conteúdo fático-probatório dos autos, providência totalmente inviável na via eleita.
+E dentro do contexto apresentado nos autos, a situação em comento se encaixa perfeitamente no Tema n. 1060 do STJ, segundo o qual: A desobediência à ordem legal de parada, emanada por agentes públicos em contexto de policiamento ostensivo, para a prevenção e repressão de crimes, constitui conduta penalmente típica, prevista no art. 330 do Código Penal Brasileiro.
+A alegação de ausência de dolo de desacatar os policiais também é questão que exige incursão em conteúdo de fatos e provas e deve ser reservada ao Juízo processante que, no decorrer da instrução processual, analisará as teses suscitadas pela defesa.
+Dentro do contexto acima delineado, também não é possível se acolher o pedido subsidiário, haja vista que a Corte estadual analisou a controvérsia de forma adequada, à luz da jurisprudência desta Corte acerca de toda a temática envolvendo a pretensão de trancamento da ação penal.
+Diante do exposto, nego provimento ao recurso.
+Publique-se. Intime-se.
+EMENTA
