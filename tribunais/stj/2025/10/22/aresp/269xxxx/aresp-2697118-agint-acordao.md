@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNOU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O Município recorrente, no agravo em recurso especial, não infirmou o fundamento da decisão do Tribunal de origem, consistente na necessidade de reexame do conjunto fático-probatório e sua vedação na instância superior, tendo se limitado a replicar parcialmente a fundamentação do seu recurso especial e a mencionar, abstratamente, que buscaria a devida aplicação do direito ao caso. Dessa forma, à míngua de impugnação concreta, o fundamento da decisão de inadmissão do recurso especial permaneceu hígido, produzindo todos os efeitos no mundo jurídico.
+2. Ao deixar de rechaçar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante descumpriu o dever de dialeticidade, atraindo a incidência da previsão contida nos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do Regimento Interno do STJ.
+3. No agravo interno, cabe ao recorrente rebater o fundamento da decisão monocrática do relator, não sendo o meio apropriado para complementação das razões do agravo em recurso especial destinada a atacar o óbice utilizado na decisão que inadmitiu o recurso especial .
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE RIO FORMOSO contra decisão monocrática, de minha lavra, que não conheceu do agravo em recurso especial interposto por ele, nos termos da seguinte ementa (fl. 1.204):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATE O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, PARÁGRAFO ÚNICO, DO RISTJ, E ENUNCIADO DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+Nas razões do recurso interno (fls. 1.212-1.218), o ente federativo argumenta que esclareceu no agravo em recurso especial que "não havia falar em incidência da súmula 07 do STJ no caso dos autos, pelo fato da violação à Lei Federal alegada no recurso, ser fato incontroverso dos autos, podendo tal fato ser verificado na própria decisão recorrida, o que afastaria a incidência da súmula 07 do STJ no presente caso".
+Afirma que, "como foi esclarecido no Agravo em Recurso Especial, interposto pelo Município, não há falar em incidência da súmula 07 do STJ no caso dos autos, pelo fato de que para a análise Recurso Especial interposto não é necessário o revolvimento dos elementos fático-probatórios constantes dos autos".
+Diz que, "para a análise do Recurso Especial interposto, repita-se, NÃO se faz necessário rever fatos e provas, pois a própria Decisão recorrida é clara quanto à violação à Lei Federal em debate; logo, é FATO INCONTROVERSO".
+Diante disso, requer o provimento do agravo interno.
+Foram apresentadas contrarrazões ao recurso interno (fls. 1.222-1.230).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNOU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO DESPROVIDO.
+1. O Município recorrente, no agravo em recurso especial, não infirmou o fundamento da decisão do Tribunal de origem, consistente na necessidade de reexame do conjunto fático-probatório e sua vedação na instância superior, tendo se limitado a replicar parcialmente a fundamentação do seu recurso especial e a mencionar, abstratamente, que buscaria a devida aplicação do direito ao caso. Dessa forma, à míngua de impugnação concreta, o fundamento da decisão de inadmissão do recurso especial permaneceu hígido, produzindo todos os efeitos no mundo jurídico.
+2. Ao deixar de rechaçar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante descumpriu o dever de dialeticidade, atraindo a incidência da previsão contida nos arts. 932, inciso III, do CPC, e 253, parágrafo único, inciso I, do Regimento Interno do STJ.
+3. No agravo interno, cabe ao recorrente rebater o fundamento da decisão monocrática do relator, não sendo o meio apropriado para complementação das razões do agravo em recurso especial destinada a atacar o óbice utilizado na decisão que inadmitiu o recurso especial .
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Embora o ente federativo agravante insista na tese de que se estaria diante de fato incontroverso, que não necessitaria do revolvimento fático-probatório dos autos, a companhia agravada qualifica essa alegação como "falaciosa e inoportuna" nas contrarrazões ao recurso interno (fl. 1.229).
+Assim, percebe-se que, além de haver controvérsia quanto aos fatos, o Município concentra sua irresignação na decisão de inadmissão do recurso especial em vez da decisão que não conheceu do seu agravo em recurso especial. Aliás, o óbice da Súmula nº 7 do STJ serviu para amparar a decisão do Tribunal de origem que inadmitiu o recurso especial, mas a decisão resistida neste agravo interno baseou-se na falta de dialeticidade do agravo em recurso especial, que não impugnou o fundamento daquela decisão.
+Dessa maneira, não foi apresentado argumento capaz de alterar o convencimento manifestado na decisão monocrática ora recorrida (fls. 1.206-1.207):
+De plano, verifica-se que não houve impugnação à fundamentação da decisão agravada, porquanto o município agravante não infirmou o fundamento utilizado para a inadmissão de seu recurso especial.
+A decisão de inadmissibilidade do apelo raro fundamentou-se na necessidade de reexame do conjunto fático-probatório e sua vedação na instância superior. Todavia, em vez de rebater o fundamento exposto no decisum objurgado de que seria necessário o reexame fático-probatório, o que é vedado no STJ, tão somente repetiu, quase integralmente, as teses do seu recurso especial.
+Ainda, apresentou argumentação genérica, aplicável a qualquer caso semelhante, sobre a inocorrência do óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+Assim, em seu agravo, a municipalidade recorrente não infirma referido fundamento, limitando-se a replicar parcialmente a fundamentação do seu recurso especial e a mencionar, abstratamente, que buscaria a devida aplicação do direito ao caso. Dessa forma, à míngua de impugnação específica e pormenorizada, o fundamento da decisão agravada permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Por conseguinte, ao deixar de rechaçar corretamente a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade, atraindo a incidência da previsão contida nos arts. 932, inciso III, do Estatuto Processual Civil, e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Destarte, por não ser o agravo interno o meio apropriado para complementação das razões do agravo em recurso especial, a decisão monocrática deve ser integralmente mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
