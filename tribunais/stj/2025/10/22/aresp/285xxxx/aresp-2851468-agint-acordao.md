@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO. RECEBIMENTO. PRESCRIÇÃO. RECONHECIMENTO. NÃO IMPUGNADOS DE FORMA ESPECÍFICA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, ação ordinária ajuizada pela ora agravante em face do Estado do Rio Grande do Norte, na qual se pretende a implantação permanente da Gratificação de Técnico de Nível Superior em 100% (cem por cento) sobre os salários base da requerente. Em primeiro grau, sentença julgando parcialmente procedente o pedido autoral. O Tribunal local reconheceu a prescrição do fundo de direito e extinguiu o processo com resolução do mérito.
+2. O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 518 do STJ.
+3. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IVANISE GOMES DE FREITAS contra a decisão proferida pelo Ministro Presidente Herman Benjamin, que não conheceu do agravo em recurso especial, nos termos da seguinte fundamentação (fls. 293-294):
+ p or meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ e Súmula 518/STJ. Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 518/STJ. Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A agravante, em sua petição de agravo interno (fls. 624-645), sustenta, preliminarmente, a nulidade da decisão agravada, alegando ausência de fundamentação e negativa de prestação jurisdicional. Argumenta que a decisão de fls. 293-294 é genérica e não esclarece quais pontos específicos da decisão recorrida não foram impugnados, violando, assim, o art. 93, inciso IX, da Constituição Federal. Afirma que toda a impugnação específica ao recurso especial encontra-se no item n. 2.2 do recurso especial, que trata da inexistência de prescrição do fundo de direito, com base na Súmula n. 85 do STJ e na Súmula n. 443 do STF (fls. 255-258).
+No mérito, a agravante defende que a matéria a ser analisada pelo Superior Tribunal de Justiça é de natureza puramente federal, haja vista a alegada violação do art. 1º do Decreto Federal n. 20.910/32, que trata da prescrição quinquenal, bem como às Súmulas n. 85 do STJ e 443 do STF. Sustenta que o Tribunal de Justiça do Estado do Rio Grande do Norte (TJRN), ao reconhecer a prescrição do fundo de direito, fundamentou-se equivocadamente na Lei Complementar Estadual n. 333/2006, ignorando que a Gratificação de Técnico de Nível Superior (GTNS) foi extinta apenas em julho de 2010, pela Lei Complementar Estadual n. 432/2010, o que afastaria a prescrição.
+A agravante também aponta divergência jurisprudencial, citando o acórdão paradigma no AgRg no AREsp n. 63.045/RN, que reconheceu a inexistência de prescrição do fundo de direito em casos análogos, por se tratar de relação de trato sucessivo. Requer, assim, a reforma da decisão agravada para que o recurso especial seja conhecido e provido, com o reconhecimento da inexistência de prescrição do fundo de direito e a manutenção da sentença de primeiro grau.
+A decisão recorrida, proferida pelo TJRN (fls. 216-222), reconheceu a prescrição do fundo de direito com base no art. 1º do Decreto Federal n. 20.910/32, ao entender que a Lei Complementar Estadual n. 333/2006, ao instituir o Plano de Cargos, Carreiras e Remuneração dos servidores da SESAP, revogou as disposições contrárias, incluindo a GTNS prevista na Lei Estadual n. 6.371/93. O acórdão concluiu que o ato normativo de 2006 configurou ato comissivo de efeito permanente, iniciando-se, a partir de sua vigência, o prazo prescricional de cinco anos.
+Nos embargos de declaração opostos ao TJRN (fls. 223-226), a agravante alegou erro de fato, sustentando que a GTNS foi convertida em Vantagem Pessoal Nominalmente Identificada (VPNI) apenas em 2010, pela Lei Complementar Estadual n. 432/2010, o que afastaria a prescrição. Contudo, os embargos foram rejeitados (fls. 244-247), sob o fundamento de que a matéria já havia sido devidamente analisada e que os embargos não se prestam à rediscussão do mérito.
+A decisão de admissibilidade do recurso especial (fls. 277-280) inadmitiu o recurso com base na Súmula n. 7/STJ, ao entender que a análise da prescrição demandaria o reexame do conjunto fático-probatório, e na Súmula n. 518/STJ, ao considerar que a alegada violação das Súmulas n. 85 do STJ e 443 do STF não se enquadra no conceito de tratado ou lei federal para fins de recurso especial.
+A agravante, em seu agravo em recurso especial (fls. 281-284), reiterou que a matéria é estritamente técnica e que não há necessidade de reexame de fatos e provas, uma vez que o acórdão recorrido fundamentou-se exclusivamente no art. 1º do Decreto Federal n. 20.910/32. Alegou, ainda, que a decisão agravada violou entendimento consolidado do STJ quanto à inexistência de prescrição do fundo de direito em casos de trato sucessivo.
+Devidamente intimada, a parte agravada não apresentou impugnação (fl. 694).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO. RECEBIMENTO. PRESCRIÇÃO. RECONHECIMENTO. NÃO IMPUGNADOS DE FORMA ESPECÍFICA OS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA GENÉRICA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, ação ordinária ajuizada pela ora agravante em face do Estado do Rio Grande do Norte, na qual se pretende a implantação permanente da Gratificação de Técnico de Nível Superior em 100% (cem por cento) sobre os salários base da requerente. Em primeiro grau, sentença julgando parcialmente procedente o pedido autoral. O Tribunal local reconheceu a prescrição do fundo de direito e extinguiu o processo com resolução do mérito.
+2. O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 518 do STJ.
+3. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, os fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Na origem, ação ordinária ajuizada pela ora agravante em face do Estado do Rio Grande do Norte, na qual se pretende a implantação permanente da Gratificação de Técnico de Nível Superior em 100% (cem por cento) sobre os salários base da requerente.
+Em primeiro grau, sentença julgando parcialmente procedente o pedido autoral.
+O Tribunal local reconheceu a prescrição do fundo de direito e extinguiu o processo com resolução do mérito.
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+O apelo nobre não foi admitido pelo Tribunal de origem considerando a incidência das Súmulas n. 7 e 518 do STJ.
+Contudo, a parte agravante, no agravo em recurso especial, não impugnou, de forma específica, a incidência da Súmula n. 518 do STJ.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora a gravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
