@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de TODAS AS PESSOAS PRESAS QUE ESTEJAM, ESTAVAM OU VENHAM A SER INSERIDAS EM REGIME DE PRISÃO DOMICILIAR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ.
+A impetrante alega que o Juízo da Vara de Execução Penal em Meio Fechado e Semiaberto de Macapá/AMAPÁ instaurou, de ofício, o Pedido de Providências n. 5000269-19.2025.8.03.0001, com o objetivo de reanalisar todas as prisões domiciliares concedidas desde 2020.
+Assevera que, no curso desse procedimento, diversas prisões domiciliares foram revogadas sem prévia intimação ou manifestação da defesa técnica, resultando na expedição e cumprimento de mandados de prisão, o que teria violado os princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Sustenta que a decisão do Tribunal de Justiça do Estado do Amapá, ao inadmitir o habeas corpus coletivo sob o fundamento de inadequação da via eleita, configura omissão deliberada e grave afronta aos direitos fundamentais, uma vez que o agravo em execução não seria capaz de restaurar, de forma imediata e efetiva, a liberdade violada.
+Argumenta que a revogação das prisões domiciliares, sem a oitiva prévia da defesa técnica, tem conduzido ao encarceramento de pessoas em situação de extrema vulnerabilidade, incluindo doentes graves, mulheres grávidas, lactantes, puérperas e outros casos sensíveis, em flagrante violação à dignidade da pessoa humana e aos direitos fundamentais.
+Afirma que o habeas corpus coletivo é cabível e necessário para corrigir a ilegalidade clara e reiterada que atinge um grupo homogêneo de indivíduos vulneráveis, sendo a única via capaz de assegurar proteção real e imediata aos direitos fundamentais dos pacientes.
+Destaca que a ausência de contraditório e ampla defesa nas decisões de revogação das prisões domiciliares implica nulidade absoluta, conforme jurisprudência consolidada e normativas internacionais de direitos humanos, como o Pacto de San José da Costa Rica e as Regras de Mandela.
+Requer (fls. 11/12):
+a) A concessão de medida liminar para:
+I. Suspender a eficácia das decisões judiciais que revogaram prisões domiciliares deferidas, sem prévia intimação e manifestação da defesa técnica, determinando-se o retorno imediato dos beneficiários ao regi- me de prisão domiciliar;
+II. Determinar ao juízo de origem que se abstenha de proferir novas decisões de revogação ou regressão de prisão domiciliar sem a prévia oitiva da defesa técnica, assegurando-se o contraditório e a ampla defesa em todos os casos;
+III. Garantir a manutenção dos pacientes no regime domiciliar até o julgamento final deste writ, especialmente para aqueles que já tenham sido presos ou estejam na iminência de serem recolhidos, restabelecendo-se, nos casos concretos, o regime domiciliar até que seja realiza- do o exame judicial adequado, com contraditório efetivo;
+IV. Expedir ordem de contramandado de prisão em favor dos pacientes para os quais houver mandado de prisão expedido, mas ainda não cumprido, garantindo-se o retorno ao regime de prisão domiciliar até o exame judicial adequado;
+V. Expedir alvará de soltura em favor dos pacientes que já tenham sido presos em razão da revogação da prisão domiciliar sem a prévia intimação da defesa, com a imediata recondução ao regime domiciliar até que se realize a manifestação da defesa técnica e a análise judicial efetiva.
+b) A notificação da autoridade coatora para prestar as informações que entender pertinentes e a intimação do Ministério Público para manifestação nos termos legais;
+c) No mérito, a concessão da ordem, para confirmar e tornar definitivo todos os pedidos liminares.
+d) A intimação para que seja oportunizada sustentação oral por ocasião do julgamento deste habeas corpus coletivo, em defesa dos interesses dos pacientes e do pleno exercício do contraditório e da ampla defesa;
+e) A habilitação do Defensor Público Alexandre Oliveira Koch, nos presentes autos, em razão de ser o Defensor Público com atribuição para acompanhar os processos em segunda instância.
+O pedido liminar foi indeferido (fls. 75-77).
+As instâncias ordinárias apresentaram as informações requisitadas às fls. 85-86 e 96-99.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 306-310).
+É o relatório.
+DECIDO.
+A análise da presente impetração exige rigorosa observância aos limites constitucionais do habeas corpus, remédio constitucional de natureza específica destinado exclusivamente à proteção do direito fundamental de locomoção, nos termos do art. 5º, LXVIII, da Constituição Federal.
+O desvirtuamento funcional do instituto tem sido objeto de constante preocupação desta Corte Superior. Conforme destacado pelo Ministro Rogério Schietti Cruz no AgRg no HC n. 959.440/RO, o Superior Tribunal de Justiça "não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal", ressalvadas situações excepcionais de flagrante ilegalidade. O precedente enfatiza que a utilização inadequada do writ implica "subversão da essência do remédio heroico e alargamento inconstitucional de sua competência".
+No mesmo sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. TEMA N. 506 DO STF. CONDENAÇÃO FUNDADA EM CONJUNTO PROBATÓRIO IDÔNEO. IMPOSSIBILIDADE DE AMPLO REVOLVIMENTO FÁTICOPROBATÓRIO EM HABEAS CORPUS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não se presta à impugnação de decisão que desafia recurso próprio, salvo em hipóteses excepcionais, nas quais se verifica flagrante ilegalidade ou teratologia do ato judicial, o que não se evidencia no caso concreto. Precedentes.
+2. Não há na hipótese ilegalidade flagrante que justifique a concessão da ordem de habeas corpus de ofício, nos termos do art. 647-A do Código de Processo Penal.
+3. Afastada na origem a tese jurídica fixada pelo Supremo Tribunal Federal no Tema n. 506, com base em elementos fáticos-probatórios concretos e idôneos que evidenciam a materialidade e indicam a destinação comercial da droga, legitimando a condenação pelo art. 33, caput, da Lei n. 11.343/2006, não obstante se tratar de menos de 40 g de maconha.
+4. Para se entender de modo diverso das instâncias ordinárias e acolher a tese de desclassificação para o art. 28 da Lei n. 11.343/2006, ou mesmo para ausência de crime, seria imprescindível amplo revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+5. Agravo regimental improvido.
+(AgRg no HC n. 991.206/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 12/8/2025, DJEN de 22/8/2025; grifamos).
+Nesse contexto, não deve ser conhecido este writ, manejado como substitutivo do recurso próprio.
+De qualquer modo, verifica-se que não há, na hipótese, manifesta ilegalidade a reclamar a concessão da ordem de ofício.
+A respeito da controvérsia, o Tribunal de origem consignou (fls. 16-17):
+Como se sabe, as decisões relativas às questões envolvendo a execução penal devem ser desafiadas por meio do recurso de agravo, conforme dispõe o art. 197 da Lei nº 7.210/1984, que tem o seguinte enunciado:
+"Art. 197. Das decisões proferidas pelo juiz caberá recurso de agravo, sem efeito suspensivo."
+E justamente por haver recurso próprio, expressamente previsto em lei, a jurisprudência dominante no âmbito dos tribunais superiores é no sentido de não admitir o habeas corpus em casos como o destes autos, salvo na hipótese de ilegalidade flagrante.
+(..)
+Ademais, não vejo configurada flagrante ilegalidade capaz de justificar a concessão de habeas corpus de ofício, quando o próprio Impetrante informa que o Ministério Público vem se manifestando pela oportunização de manifestação da defesa técnica nos autos individuais.
+Inclusive, segundo as informações prestadas (Id. 3380793), embora tenha havido deliberação quanto à revogação ou manutenção da prisão domiciliar em alguns dos autos originários, a maioria dos processos segue em tramitação regular e aguardando manifestação das partes.
+Assim, não cabe a utilização do habeas corpus como substituto do recurso próprio, de modo a não frustrar a sua finalidade que é a de atuar de forma célere e efetiva no caso de manifesta violência ou coação à liberdade de locomoção do cidadão por ilegalidade ou abuso de poder.
+A insurgência da impetrante se refere à revogação das prisões domiciliares sem prévia intimação ou manifestação da defesa técnica, aduzindo que tal conduta viola os princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Entretanto, nas informações apresentadas pelo Juízo de primeiro grau, consignou-se as providências adotadas pelo Juízo, dentre elas a intimação da defesa, que, por vezes, deixou de se manifestar nos autos, confira-se (fls. 97-98):
+Não procede, portanto, a narrativa de supressão generalizada do contraditório. Observa-se que a dinâmica processual estabelecida pressupôs a intervenção do parquet, a ciência das partes nos feitos originários e a deliberação individual do juízo da execução, com resultados distintos conforme a situação concreta (manutenção, prorrogação ou revogação por descumprimento, por término do prazo sem pedido de renovação, por não apresentação para instalação de monitoramento, ou por superveniência de falta grave/novo crime).
+A título de amostragem, cita-se alguns desses resultados:
+5000237-87.2020.8.03.0001 - ALESSANDRO LAMARÃO DA SILVA: prorrogação da prisão domiciliar pendente de análise. Apesar de intimada, a Defesa não se manifestou  mov. 523 .
+0057170-73.2017.8.03.0001 - ALEXSANDRE CORTES PEREIRA: Verifica-se que houve a prorrogação da prisão domiciliar pelo prazo de 90 dias. Findado o prazo, a Defesa do apenado não se ocupou de pedir a prorrogação do benefício, tendo sido determinada sua revogação.
+8004627-31.2021.8.24.0033 - ANTONIO ISRAEL MATIELLO: autos redistribuídos à 2ª VEP. Não há notícia de revogação da prisão domiciliar.
+0042288-77.2015.8.03.0001 - CONCEIÇÃO LOBATO DE ALMEIDA: prisão domiciliar prorrogada em razão do estado de saúde da apenada  mov. 267 .
+5000037-17.2019.8.03.0001 - GABRIEL BITENCOURT DA LUZ: o apenado cumpre pena em regime aberto, estando superada a questão.
+5000177-51.2019.8.03.0001 - JERONIMO NOLBERTO ALVES: autos redistribuídos à 2ª VEP. Não há notícia de revogação da prisão domiciliar. Aguarda-se a juntada de manifestação defensiva.
+5000279-73.2019.8.03.0001 - JONAS GONÇALVES BASTOS: prisão domiciliar revogada em audiência de justificação  mov. 348 , com participação de advogada particular  mov. 348
+5000968-49.2021.8.03.0001 - MANOEL DIAS OLIVEIRA: a decisão concessiva de prisão domiciliar consignou que o apenado deveria retornar ao IAPEN em 08/ 02/2024, data prevista para término do benefício  mov. 115 . Considerando o descumprimento de tal determinação, foi determinada a suspensão da execução, considerando-se o apenado foragido desde então.
+0025727-70.2018.8.03.0001 - MANOELSON DOS SANTOS DE ALMEIDA: autos redistribuídos à 2ª VEP. Não há notícia de revogação da prisão domiciliar. Ademais, constata-se a juntada de manifestação defensiva nos autos.
+0011926-53.2019.8.03.0001 - ANTONIETA LIRA OEIRAS: a prisão domiciliar foi revogada, após oitiva da Defesa  mov. 586 , em razão de diversos descumprimentos do monitoramento eletrônico.
+5000125-50.2022.8.03.0001 - RAIMUNDO NONATO TOMAZ DE AQUINO: Apenado permanece em prisão domiciliar. Verifica-se a determinação de intimação pessoal do apenado para apresentação de justificativa pelos diversos descumprimentos do monitoramento eletrônico.
+5000465-91.2022.8.03.0001 - JONNIEL DOS SANTOS ROSA: Apenado permanece em prisão domiciliar. Verifica-se a determinação de intimação pessoal do apenado para apresentação de justificativa em razão de não ter retornado ao IAPEN após o término do benefício.
+5002164-20.2022.8.03.0001 - KEILANE MORAES DE ABREU: a prisão domiciliar foi revogada porque a apenada nunca compareceu para instalação da tornozeleira eletrônica.
+0023010-90.2015.8.03.0001 - CRICIELY DE OLIVEIRA BRITO: verifica-se a revogação da prisão domiciliar antes mesmo da decisão proferida nos autos do pedido de providências, tendo em vista que a apenada regrediu ao regime fechado, após a realização de audiência de justificação com participação da
+Defesa, em razão da prática de novo crime no curso da execução. A diversidade de desfechos, inclusive com casos de prorrogação por motivo de saúde, manutenção do benefício, revogação após audiência de justificação com participação defensiva, ou revogação por inadimplemento de condições previamente impostas, evidencia que não houve uma análise coletiva, mas sim apreciação singularizada à luz dos elementos de cada execução.
+Por último, convém destacar que, muito embora a defesa tenha impetrado habeas corpus coletivo, sem anotar a individualização de cada prejudicado, o Juízo a quo apontou que a análise não foi realizada de forma coletiva, mas individualizada à luz dos elementos de cada execução.
+Portanto, conforme indicado pelo Ministério Público Federal, o presente remédio constitucional não merece ser conhecido, considerando a impetração genérica e generalizada, sem demonstrar em cada caso concreto que os prejudicados se enquadram na mesma situação fática.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS COLETIVO. EXECUÇÃO PENAL. PACIENTES INDETERMINADOS - TODOS OS CONDENADOS QUE VÊM CUMPRINDO PENA NO CENTRO DE DETENÇÃO PROVISÓRIA II DE OSASCO/SP COM DIREITO AO REGIME SEMIABERTO - PEDIDO DE PRISÃO ALBERGUE DOMICILIAR. PETIÇÃO INICIAL. REQUISITOS DO ART. 654, § 1º, ALÍNEA "A", DO CPP. AUSÊNCIA.
+1. Não se olvida a jurisprudência do Superior Tribunal de Justiça no sentido de que, tendo sido o agente condenado ou promovido ao regime prisional semiaberto/aberto, constitui ilegalidade submetê-lo, ainda que por pouco tempo, a local apropriado a presos em regime mais gravoso, em razão da falta de vaga em estabelecimento adequado.
+2. Entretanto, conforme ressaltei na decisão agravada, não se pode admitir habeas corpus coletivo, em favor de pessoas indeterminadas, visto que se inviabiliza não só a apreciação do constrangimento, mas também a expedição de salvo-conduto em favor dos supostos coagidos.
+3. Com efeito, a teor do disposto no art. 654, § 1º, alínea "a", do Código de Processo Penal, a petição de habeas corpus conterá o nome da pessoa que sofre ou está ameaçada de sofrer violência ou coação, vale dizer, a identificação de quem esteja sofrendo o alegado constrangimento ilegal.
+4. Registro que não há obrigatoriedade legal de que se formule um único pedido de habeas corpus para cada paciente, podendo a impetração englobar duas ou mais pessoas, bastando que o cenário fático-processual de cada um dos interessado seja comum para viabilizar a concessão da medida.
+5. Não obstante, a individualização dos vários pacientes é imprescindível, não bastando a qualificação dos supostos coagidos como um grupo determinável de sujeitos que se encontrem na mesma situação de fato. 6. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 40.334/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/9/2013, DJe de 16/9/2013.)
+Com efeito, não se pode deferir habeas corpus coletivo, em favor de pessoas indeterminadas, visto que se inviabiliza não só a apreciação do constrangimento, mas também o impedimento da revisão das prisões domiciliares dos supostos coagidos.
+Ante o exposto, não conheço da impetração.
+Comunique-se o Tribunal impetrado.
+Publique-se. Intime-se.
+EMENTA
