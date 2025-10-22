@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por MAURICIO SOBRAL & MARCELLA KATTUCHA CORREA ADVOCACIA ASSOCIADA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 447-453):
+APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS C/C COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - SENTENÇA DE PARCIAL PROCEDÊNCIA - CONTRATO VERBAL - FATO CONSTITUTIVO DO DIREITO - ÔNUS DA PROVA DO AUTOR - RELAÇÃO CONTRATUAL DEMONSTRADA - VALOR DOS HONORÁRIOS - NÃO COMPROVAÇÃO - ART. 373, INCISO I, DO CPC - JUROS DE MORA DE 1% A PARTIR DA CITAÇÃO. REFORMA DA SENTENÇA - PRECEDENTES DESSA CÂMARA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pelo recorrente recorrido foram conhecidos e providos, mas sem alterar o disposto na sentença. (fls. 458-461).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489, § 1º, e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 85 e 373 do Código de Processo Civil; e 22 da Lei n. 8.906/1994.
+Sustenta, em síntese, o acórdão recorrido não observou a existência de contrato firmado entre as partes e foi omisso quando instado a se manifestar.
+Foram oferecidas contrarrazões ao recurso especial (fls. 484-490).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 493-497), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 510-513).
+É, no essencial, o relatório.
+Cinge-se a controvérsia em saber se houve contrato firmado entre as partes de modo a justificar a cobrança de 20% sobre o valor da venda do imóvel a título de serviços prestados pela recorrente, ou se a recorrente não se desincumbiu de seu ônus probatório, justificando a fixação com base em outras provas produzidas.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489, § 1º, e 1.022 do CPC, uma vez que o Tribunal de origem ao dar parcial provimento à apelação deixou claro que "No presente caso, embora afirme que tenha celebrado um contrato, a parte autora não trouxe o instrumento contratual, o que seria suficiente para comprovar não só a pactuação, mas também os seus exatos termos." (fl. 451).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Outrossim, verifica-se que, em que pese a insistência de a recorrente argumentar pela existência de instrumento contratual, consta do acórdão recorrido e da sentença embargada, respectivamente que "embora afirme que tenha celebrado um contrato, a parte autora não trouxe o instrumento contratual" (fl. 451) e que " e m que pese o alegado, o contrato colecionado aos autos não condiz com o serviço prestado objeto do pedido dos autos, qual seja elaboração do contrato de compra e venda de um imóvel." (fl. 394).
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CÉDULA DE CRÉDITO BANCÁRIO. REVISÃO DE CLÁUSULAS CONTRATUAIS. MATÉRIA DE DEFESA ALEGADA EM EMBARGOS À EXECUÇÃO. AUSÊNCIA DE VINCULAÇÃO DOS CONTRATOS. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+4. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+5. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.  ..
+9. Agravo interno desprovido.
+(AgInt no REsp n. 1.527.375/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024. Grifo)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. SÚMULA 7 DO STJ. ART. 489 CPC/2015. AUSÊNCIA DE DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO ESTADUAL. RESPONSABILIDADE E SOLIDARIEDADE DO DÉBITO. SÚMULAS 5 E 7 DO STJ. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. PREQUESTIONAMENTO DE QUESTÕES. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa ao art. 489, do CPC/2015, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. É firme o entendimento do STJ no sentido de que "o magistrado é o destinatário da prova, competindo, portanto, às instâncias ordinárias exercer juízo acerca da imprescindibilidade daquelas que foram ou não produzidas, nos termos do art. 130 do CPC" (AgRg no AREsp 837.683/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/3/2016, DJe 30/3/2016).
+3. A revisão dos fundamentos acórdão estadual no tocante à responsabilidade da agravante pelo débito oriundo do título executado, exigiria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, fazendo incidir o óbice das Súmulas n. 5 e 7 do STJ.  ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.445.689/BA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.)
+Por fim, consta ta-se que o posicionamento desta Corte também é de aplicabilidade do óbice da Súmula n. 7/STJ no que tange ao pedido de majoração de honorários advocatícios, salvo quando por valor irrisório, o que não se verifica no presente caso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. INTENÇÃO DE PREQUESTIONAMENTO. MULTA. AFASTAMENTO. SÚMULA 98 DO STJ. ACIDENTE AUTOMOBILÍSTICO. FALECIMENTO. DANOS MORAIS. VALOR IRRISÓRIO. PROPORCIONALIDADE. VIOLAÇÃO. MAJORAÇÃO. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO PROVIDO.
+ ..
+5. Sentença anterior à vigência do CPC/2015. Fixados os honorários sucumbenciais dentro dos limites de 10% e 20% previstos no art. 20, § 3º, do CPC/1973, é inviável a pretensão voltada ao redimensionamento da verba por esta Corte, a teor da Súmula 7 do STJ.
+6. Agravo interno a que se dá provimento, para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento.
+(AgInt no AREsp n. 2.722.547/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Ante o exposto, conheço do agravo para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intime-se.
+ EMENTA
