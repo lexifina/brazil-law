@@ -1,0 +1,54 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 2.534-2.535):
+DIREITO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, visando à aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. O agravante foi condenado por delitos previstos nos arts. 33, § 1º, inciso II, 34, e 35 da Lei n. 11.343/2006, com pena de 11 anos e 10 meses de reclusão e 2.483 dias-multa. Em apelação, o Tribunal local absolveu o agravante do crime de posse de maquinário e exasperou a pena pelo crime do art. 35, caput, da mesma lei.
+3. O recurso especial foi inadmitido com base nas Súmulas n. 7 e 83 do STJ, e a decisão agravada não conheceu do agravo em recurso especial por falta de dialeticidade.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o agravo regimental deve ser provido para reformar a decisão monocrática e conhecer do agravo em recurso especial, aplicando a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III. RAZÕES DE DECIDIR
+5. A decisão impugnada analisou de forma fundamentada os pontos apresentados e concluiu pela impossibilidade de conhecimento do agravo em recurso especial por falta de dialeticidade, uma vez que o agravante não enfrentou adequadamente os fundamentos da decisão recorrida.
+6. A aplicação da Súmula n. 182 do STJ foi correta, pois o agravante limitou-se a reproduzir os mesmos argumentos do recurso especial inadmitido, sem impugnar de forma específica e concreta os fundamentos da decisão recorrida.
+7. Mesmo que o agravo fosse conhecido, o recurso especial não poderia ser conhecido devido à incidência da Súmula n. 83 do STJ, que impede o reconhecimento da causa especial de diminuição de pena no patamar máximo de 2/3.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental não provido.
+Tese de julgamento: "1. O princípio da dialeticidade recursal exige que os recursos impugnem de forma específica e concreta os fundamentos da decisão recorrida. 2. A reprodução dos mesmos argumentos do recurso especial inadmitido, sem impugnação específica, atrai a aplicação da Súmula n. 182 do STJ. 3. A incidência da Súmula n. 83 do STJ impede o conhecimento do recurso especial quanto à causa especial de diminuição de pena no patamar máximo de 2/3".
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.569-2.572).
+A parte recorrente alega contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, afirma que esta Corte não teria realizado a distinção entre os precedentes citados nos embargos de declaração e o que foi decidido nestes autos.
+Sustenta que o Juízo de primeiro grau teria afastado o privilégio previsto no art. 33, § 4º, da Lei n. 11.343/2006, em razão da quantidade de droga apreendida, o que estaria em dissonância com a jurisprudência deste Tribunal.
+Requer, assim, a admissão e o provimento do recurso extraordinário, além da concessão de habeas corpus de ofício.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa dos seguintes trechos do referido julgado (fls. 2.540-2.541):
+A defesa busca o provimento do agravo regimental de modo a ver reformada a decisão monocrática para conhecer do agravo em recurso especial e, consequentemente, do recurso especial, a fim de aplicar a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Sem razão, contudo, uma vez que a decisão impugnada analisou de forma devidamente fundamentada os pontos apresentados e concluiu pela impossibilidade de conhecimento do agravo em recurso especial, notadamente por falta de dialeticidade.
+Ressalto que o princípio da dialeticidade recursal exige que os recursos impugnem de forma específica e concreta os fundamentos da decisão recorrida. No caso em tela, conforme já esclarecido na decisão agravada, o agravante não enfrentou adequadamente os fundamentos que ensejaram a incidência dos óbices apontados pelo Tribunal de origem para inadmitir o recurso especial, limitando-se a reproduzir os mesmos argumentos constantes do recurso especial inadmitido. Tal circunstância atrai a aplicação da Súmula n. 182, STJ, que impede o conhecimento do agravo.
+A decisão agravada destacou que, caso fosse conhecido o agravo, o recurso especial não poderia ser conhecido ante a incidência da Súmula n. 83, STJ no que tange à pretensão de reconhecimento da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo de 2/3.
+Assi, concluo que a matéria restou devidamente debatida na decisão recorrida, nos limites da via eleita, de forma que não há falar em possível reversão do julgado.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Registre-se que, eventual ofensa ao art. 93, IX, da Constituição Federal em razão da suposta falta de fundamentação da sentença de primeiro grau ou do acórdão proferido pelo Tribunal de origem, deveria ter sido suscitada em recurso extraordinário lá interposto, uma vez que o reclamo apresentado nesta Corte Superior de Justiça deve impugnar o teor das decisões aqui proferidas.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante à pretendida concessão de habeas corpus de ofício, a Lei n. 14.836/2024, que acrescentou o art. 647-A do Código de Processo Penal, estabelece o seguinte:
+Art. 647-A. No âmbito de sua competência jurisdicional, qualquer autoridade judicial poderá expedir de ofício ordem de habeas corpus, individual ou coletivo, quando, no curso de qualquer processo judicial, verificar que, por violação ao ordenamento jurídico, alguém sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção.
+Como se observa, a previsão em comento não suprimiu a necessidade de se respeitar a competência jurisdicional para a concessão da ordem.
+A propósito, o Supremo Tribunal Federal, em julgados recentes, tem reafirmado a imprescindibilidade da correta identificação da autoridade coatora e, consequentemente, da competência originária do órgão ao qual caiba apreciar o pedido. No ponto:
+O constituinte fez clara opção pelo princípio da colegialidade ao franquear a competência desta Corte para apreciação de habeas corpus - consoante disposto na alínea a do inciso II do artigo 102 da CRFB - quando decididos em única instância pelos Tribunais Superiores. E não há de se estabelecer a possibilidade de flexibilização dessa regra constitucional de competência, pois, sendo matéria de direito estrito, não pode ser interpretada de forma ampliada para alcançar autoridades - no caso, membros de Tribunais Superiores - cujos atos não estão submetidos à apreciação do Supremo Tribunal Federal.
+(HC n. 240.886, relator Ministro Luiz Fux, julgado em 6/5/2024, publicado no DJe de 7/5/2024).
+No mesmo sentido: HC n. 240.683, relator Ministro Flávio Dino, julgado em 7/5/2024, publicado no DJe de 9/5/2024; e HC n. 236.778, relator Ministro Edson Fachin, julgado em 2/5/2024, publicado no DJe de 6/5/2024.
+Portanto, no caso em apreço, sob pena de subversão das competências delineadas pela Constituição para apreciação de habeas corpus conforme a autoridade coatora, é incabível a análise pretendida nesta instância, pois seria necessário apreciar, no âmbito de exame da viabilidade do recurso extraordinário, a conclusão alcançada por membros do próprio Superior Tribunal de Justiça.
+Denotando a inviabilidade da apreciação pretendida, veja-se como já se manifestou esta Corte Superior:
+ ..  não há possibilidade de concessão de habeas corpus de ofício contra atos dos seus próprios membros. Competente para analisar os atos desta Corte via mandamus é o Supremo Tribunal Federal, conforme expressa previsão constitucional. (AgRg nos EREsp n. 1.222.031/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/6/2015, publicado no DJe de 1º/7/2015.)
+Na mesma linha: AgRg nos EAREsp n. 2.387.023/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 18/4/2024, publicado no DJe de 24/4/2024; AgRg na RvCr n. 6.021/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 13/3/2024, publicado no DJe de 15/3/2024; e EDcl no AgRg nos EAREsp n. 1.356.514/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 26/4/2023, publicado no DJe de 3/5/2023.
+Vale registrar que a verificação da competência não se altera pelas disposições da nova lei, que estabelece, de modo expresso, a possibilidade de concessão da ordem de ofício, sem, no entanto, modificar a lógica constitucional de distribuição de competências, atribuindo a diferentes órgãos judiciais a apreciação do pedido, conforme a autoridade coatora.
+4 . Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
