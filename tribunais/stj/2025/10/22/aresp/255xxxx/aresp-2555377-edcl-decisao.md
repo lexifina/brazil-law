@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão da relatoria do Ministro Marco Aurélio Bellizze que conheceu do agravo em recurso especial para dar provimento ao recurso especial do ora recorrente..
+Segundo a parte embargante, o julgado padeceria dos vícios apontados no art. 1.022 do Código de Processo Civil, o que autorizaria a oposição de aclaratórios contra decisão judicial obscura, contraditória, omissa ou que contenha erro material. Sustenta, em síntese, que a decisão é obscura quanto à base de cálculo dos honorários advocatícios fixados em 10% sobre o "valor da causa", pois, tratando-se de fase de cumprimento de sentença, não há valor da causa definido, sendo mais adequado que os honorários incidam sobre o valor indevidamente exigido no cumprimento de sentença do qual foi excluído, correspondente ao proveito econômico obtido pela parte embargante.
+Intimada nos termos do art. 1.023, § 2º, do Código de Processo Civil, a parte embargada requereu a rejeição dos presentes embargos.
+É o relatório.
+É o relatório.
+Os embargos de declaração são tempestivos nos termos do art. 1.023 do Código de Processo Civil.
+A natureza da presente medida processual é integrativa e aclaratória, sendo cabível, nos termos do art. 1.022 do Código de Processo Civil, quando houver, na decisão embargada, obscuridade, contradição, omissão ou erro material. Sua finalidade é viabilizar a compreensão exata do pronunciamento judicial. Nesse sentido: EDcl no AgInt no REsp n. 2.013.243/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.
+Na hipótese, observa-se que a decisão embargada apresenta obscuridade, dificultando a exata compreensão da base de cálculo sobre a qual deverá incidir o percentual fixado a título de honorários sucumbenciais.
+Com efeito, consta da decisão que os honorários foram fixados em 10% sobre o valor da causa, sem, no entanto, especificar qual parâmetro deve ser considerado, dada a peculiaridade de se tratar de fase de cumprimento de sentença. Para sanar a obscuridade, esclarece-se que a base de cálculo dos honorários deverá corresponder ao proveito econômico obtido, nos termos do art. 85, §2º, do Código de Processo Civil e conforme orientação firmada no Tema 1076 da jurisprudência do Superior Tribunal de Justiça.
+Diante da verificação efetiva de vício processual e nos termos da fundamentação supra, acolho os presentes embargos de declaração, proporcionando a devida clareza e completude à decisão judicial embargada, para esclarecer que a base de cálculo dos honorários sucumbenciais fixados na decisao recorrida deverá corresponder ao proveito econômico obtido pela parte embargante, mantidos, no mais, os demais termos da decisão.
+Publique-se. Intimem-se.
+EMENTA
