@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PEDIDO DE RESERVA DE HONORÁRIOS CONTRATUAIS FORMULADO APÓS A REALIZAÇÃO DA PENHORA NO ROSTO DOS AUTOS. DIREITO NÃO ASSEGURADO. CRITÉRIO TEMPORAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REFORMA DO JULGADO QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte" (AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+2. "A desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial, por incidência da Súmula n. 7/STJ" (AgInt no REsp n. 2.133.648/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ANZEN COMERCIO DE PRODUTOS ELETRÔNICOS LTDA contra decisão que negou provimento ao recurso especial, nos termos da seguinte ementa (fl. 100):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PEDIDO DE RESERVA DE HONORÁRIOS CONTRATUAIS FORMULADO APÓS A REALIZAÇÃO DA PENHORA NO ROSTO DOS AUTOS. DIREITO NÃO ASSEGURADO. CRITÉRIO TEMPORAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REFORMA DO JULGADO QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO ESPECIAL DESPROVIDO.
+A agravante afirma que "a comprovação inequívoca da prestação de serviços antes da penhora, conforme demonstrado nos autos, afasta a aplicação literal do precedente citado e exige a reforma da decisão, garantindo o justo recebimento dos honorários advocatícios. A simples apresentação posterior do contrato não pode ser utilizada para negar o direito adquirido à remuneração por serviços prestados" (fl. 118).
+Sustenta que não pretende o reexame de fatos e provas, mas a correta interpretação dos fatos incontroversos e da jurisprudência aplicável ao caso.
+Requer o acolhimento do agravo para que seja dado provimento ao recurso especial, garantindo-se, assim, o recebimento dos honorários advocatícios.
+As contrarrazões não foram apresentadas (fl. 131).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PEDIDO DE RESERVA DE HONORÁRIOS CONTRATUAIS FORMULADO APÓS A REALIZAÇÃO DA PENHORA NO ROSTO DOS AUTOS. DIREITO NÃO ASSEGURADO. CRITÉRIO TEMPORAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REFORMA DO JULGADO QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte" (AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+2. "A desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial, por incidência da Súmula n. 7/STJ" (AgInt no REsp n. 2.133.648/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Não obstante as razões do agravo interno, denota-se que a decisão monocrática deve ser mantida, especialmente porque a agravante não trouxe argumentos suficientes para desconstituí-la.
+Da análise dos autos constata-se que a Corte local manteve decisão do juízo de primeiro grau que indeferiu o pedido de destaque de honorários contratuais no cumprimento de sentença, nos seguintes termos (fl. 48):
+O pedido de antecipação da tutela recursal foi decidido nos termos da fundamentação que segue transcrita (8.1):
+Sobre a matéria, dispõe o art. 22, § 4º, do Estatuto da Advocacia (Lei nº 8.906/94):
+Se o advogado fizer juntar aos autos o seu contrato de honorários antes de expedir-se o mandado de levantamento ou precatório, o juiz deve determinar que lhe sejam pagos diretamente, por dedução da quantia a ser recebida pelo constituinte, salvo se este provar que já os pagou.
+Após exame detido dos autos, observo que o pedido de reserva dos honorários contratuais evento 192, PET1 foi apresentado posteriormente ao arresto dos valores requisitados no cumprimento de sentença, para quitação do débito objeto da Execução Fiscal 5057323-69.2023.4.04.7000/PR, evento 184, DESPADEC1. Por ocasião da expedição das requisições de pagamento a parte agravante não requereu o destaque dos honorários contratuais de êxito.
+O STJ já definiu que "a disponibilidade do crédito, em situações análogas à dos autos, infere-se a partir do critério temporal entre o pedido de levantamento e o pedido de penhora no rosto dos autos ou de arresto: STJ, REsp 901.707/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 29/03/2007; AgRg no REsp 1.063.840/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJe de 25/02/2011" (AgInt no REsp 1945739/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/11/2021, DJe 12/11/2021).
+Enfim, não havia destaque dos honorários contratuais em favor da sociedade de advogados agravante que impedisse a constrição. Em tal contexto, remanesce legítima a penhora.
+Ante o exposto, indefiro o pedido de antecipação da tutela recursal.
+Não tendo sido noticiados fatos novos, tampouco deduzidos argumentos suficientemente relevantes para infirmar a conclusão apresentada, ratifico a decisão proferida.
+Ante o exposto, voto por negar provimento ao agravo de instrumento.
+Verifica-se, pois, nos termos da decisão agravada, que o Tribunal de origem decidiu a questão em conformidade com o entendimento do Superior Tribunal de Justiça, que já estabeleceu que "o contrato de honorários juntado após a expedição da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte" (AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+No mesmo sentido:
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. CRÉDITO TRIBUTÁRIO. HONORÁRIOS CONTRATUAIS. PEDIDO DE RESERVA POSTERIOR À PENHORA. NÃO HÁ VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..)
+III - No mérito, o recurso não comporta provimento. Os fundamentos estão de acordo com a jurisprudência desta Corte que, por meio de diversos precedentes oriundos de diferentes turmas, tem assentado o critério temporal como relevante à verificação do direito ao destaque dos honorários na hipótese de penhora no rosto dos autos.
+Confiram-se: AgInt no AREsp n. 2.241.138/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt nos EDcl no AgInt no REsp n. 1.987.170/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AgInt no AREsp n. 1.871.603/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022; AgInt no REsp n. 1.896.168/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021. Inclusive, na linha dos citados precedentes, "a desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial", por incidência da Súmula n. 7/STJ.
+IV - Quanto à divergência jurisprudencial, anote-se que se aplica à espécie o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+(AgInt no REsp n. 2.133.648/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. CUMPRIMENTO DE SENTENÇA. PENHORA NO ROSTO DOS AUTOS. POSTERIOR PEDIDO DE RESERVA DE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O contrato de honorários juntado depois da expedição do precatório ou da penhora no rosto dos autos não assegura ao advogado o direito ao recebimento por dedução da quantia a ser recebida pelo constituinte. Incidência da Súmula n. 83/STJ.
+2. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.871.603/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Assim, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, era mesmo o caso de negar provimento ao recurso especial.
+De mais a mais, vale ressaltar que "a desconstituição da premissa fática de que o requerimento de destaque da verba honorária contratual somente foi formulado após a realização da penhora no rosto dos autos esbarra na impossibilidade de este Tribunal Superior analisar questão fático-probatória em sede de recurso especial, por incidência da Súmula n. 7/STJ" (AgInt no REsp n. 2.133.648/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
