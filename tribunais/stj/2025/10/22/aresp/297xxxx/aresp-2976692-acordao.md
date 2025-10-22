@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA ANTECEDENTE. REVISÃO CONTRATUAL. PANDEMIA DA COVID-19. INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. DECISÃO DE INADMISSÃO COM DISPOSITIVO ÚNICO. AGRAVO NÃO CONHECIDO.
+1. Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, no qual se discutia a revisão contratual de obrigação de pagamento pela potência mínima contratada, em razão dos efeitos imprevisíveis da pandemia da COVID-19.
+2. O Tribunal de origem não admitiu o recurso especial com base nos seguintes fundamentos: (i) ausência de vício de fundamentação no acórdão recorrido; (ii) necessidade de reexame do conjunto fático-probatório (Súmula n. 7/STJ); (iii) necessidade de interpretação de cláusulas contratuais (Súmula n. 5/STJ); (iv) consonância do acórdão recorrido com a jurisprudência do STJ; e (v) aplicação de leis locais, atraindo a incidência analógica da Súmula n. 280/STF.
+3. A parte agravante não impugnou, de maneira específica, o fundamento de que o acórdão recorrido está em consonância com a jurisprudência do STJ, o que atrai a aplic ação do art. 932, inciso III, do CPC/2015, e da Súmula n. 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Conforme entendimento consolidado pela Corte Especial do STJ, a decisão que não admite recurso especial possui dispositivo único, sendo incindível. Assim, a ausência de impugnação específica a qualquer dos fundamentos que sustentam a inadmissibilidade inviabiliza o conhecimento do agravo em recurso especial.
+5. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo, interposto por LIGHT SERVICOS DE ELETRICIDADE S. A., da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 0096069-91.2020.8.19.0001.
+Na origem, cuida-se de procedimento de tutela antecipada antecedente com pedido liminar proposta por CONDOMÍNIO DO PARKSHOPPING CAMPO GRANDE contra a LIGHT SERVICOS DE ELETRICIDADE S. A., na qual objetivava a concessão de tutela de urgência para a revisão contratual da obrigação de pagamento pela potência mínima contratada, visando o pagamento, tão somente, da energia efetivamente consumida, tendo em vista os efeitos imprevisíveis e deletérios da pandemia (fls. 2-27).
+Foi proferida sentença para julgar improcedentes os pleitos autorais (fls. 910-914).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no julgamento da apelação cível, deu provimento em parte ao recurso do autor, em acórdão cuja ementa é a seguir transcrita (fls. 1215-1228):
+APELAÇÃO CÍVEL. RELAÇÃO CONTRATUAL. SHOPPING CENTER QUE FIRMOU CONTRATO COM A CONCESSIONÁRIA PARA FORNECIMENTO DE ENERGIA DENOMINADO MONTANTE DE USO DO SISTEMA DE DISTRIBUIÇÃO (MUSD), CONSISTENTE EM DEMANDA PRÉ- DEFINIDA E COM DESTINO AO FUNCIONAMENTO DO ESTABELECIMENTO. SUPERVENIÊNCIA DA PANDEMIA DA COVID-19 QUE AFETOU A ATUAÇÃO DO SHOPPING, REQUERENDO A REVISÃO CONTRATUAL PARA QUE, NO PERÍODO EM QUE OCORRERAM AS MEDIDAS DE ISOLAMENTO SOCIAL, A COBRANÇA DO CONSUMO OCORRA COM BASE NO QUE FOI EFETIVAMENTE REGISTRADO. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DO AUTOR QUE MERECE PROSPERAR EM PARTE. FUNDAMENTAÇÃO CONCISA QUE NÃO REVELA NULIDADE. PRECEDENTES STJ. NO MÉRITO, EVIDENTE QUE O PERÍODO CORRESPONDENTE ÀQUELE EM QUE OCORRERAM AS MEDIDAS DE ISOLAMENTO SOCIAL, AFETARAM AS ATIVIDADES DO AUTOR, SHOPPING CENTER. DETERMINAÇÃO EXARADA PELO PODER PÚBLICO SE TRADUZ EM CASO FORTUITO CAPAZ DE PERMITIR A COBRANÇA PELO QUE FOI EFETIVAMENTE REGISTRADO. PREVISÃO CONTRATUAL. NESSE SENTIDO, DESEQUILÍBRIO ECONÔMICO EVIDENCIADO. PRECEDENTES DESSA CORTE FRACIONÁRIA. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO PARA REFORMAR A SENTENÇA E JULGAR PROCEDENTES OS PEDIDOS DA INICIAL.
+Opostos embargos de declaração, estes foram rejeitados (fls. 1268-1273).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, a parte recorrente aponta violação aos arts. 489, § 1º, incisos II, III e IV, 1.022, inciso II e 1.025, todos do Código de Processo Civil, pois a Corte local, apesar da oposição de aclaratórios, não teria se manifestado acerca dos seguinte tema:
+(i) o acórdão impugnado não estabeleceu um limite objetivo e claro para a demarcação do período final da obrigação, tendo em vista que a expressão "até o término das medidas restritivas impostas pela covid-19" é excessivamente vaga.
+No mérito, aponta afronta ao art. 373, inciso I, do Código de Processo Civil e aos arts. 393, 421, parágrafo único, 423, 478 e 884, todos do Código Civil, trazendo os seguintes argumentos:
+(i) violação ao art. 373, inciso I, do Código de Processo Civil, pois o autor não se desincumbiu do ônus probatório de comprovar a ocorrência de onerosidade excessiva, proveniente dos efeitos imprevisíveis da pandemia;
+(ii) afronta aos artigos 393, 421, parágrafo único, 423 e 478, todos do Código Civil, pois o acórdão recorrido não logrou êxito em demonstrar o atendimento dos requisitos necessários para a revisão contratual, não havendo como afastar a força obrigatória do pacto firmado;
+(iii) ofensa ao art. 884 do Código Civil, pois o acórdão impugnado não estabeleceu um limite objetivo e claro para a demarcação do período final da obrigação, ocasionando o enriquecimento sem causa do autor (fls. 1277-1291).
+Ao final, requer o provimento do recurso especial para que seja reformado o acórdão recorrido.
+Em contrarrazões, o recorrido defendeu, preliminarmente, a não admissão do recurso especial e, no mérito, o não provimento (fls. 1307-1330).
+O Tribunal a quo não admitiu o recurso especial, por considerar que:
+(i) o acórdão não padece de qualquer vício de fundamentação a ser sanado;
+(ii) a pretensão recursal demandaria o reexame do conjunto fático-probatório, o que atrairia a incidência da Súmula n. 7 do STJ;
+(iii) a pretensão recursal demandaria a interpretação de cláusulas contratuais, o que atrairia a incidência da Súmula n. 5 do STJ;
+(iv) acerca da aplicação da teoria da imprevisão no caso concreto, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça;
+(v) a decisão recorrida está assentada em interpretação de leis locais a fim e apurar as medidas para o enfrentamento da pandemia, o que atrairia a aplicação analógica da Súmula n. 280 do STF (fls. 1335-1346).
+Nas razões do presente agravo em recurso especial, alega a parte agravante que:
+(i) a pretensão recursal não demandaria o reexame do conjunto fático-probatório, mas, tão somente, a revaloração jurídica dos elementos acarreados nos autos, não havendo motivo para a incidência da Súmula n. 7 do STJ;
+(ii) a pretensão recursal não demandaria a interpretação de cláusulas contratuais, não havendo motivo para a incidência da Súmula n. 5 do STJ;
+(iii) reafirmou a existência de vícios de fundamentação a serem sanados;
+(iv) a pretensão recursal não demanda incursão em normas de direito local, não havendo motivo para a incidência analógica da Súmula n. 280 do STF (fls. 1351-1366).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA ANTECEDENTE. REVISÃO CONTRATUAL. PANDEMIA DA COVID-19. INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. DECISÃO DE INADMISSÃO COM DISPOSITIVO ÚNICO. AGRAVO NÃO CONHECIDO.
+1. Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, no qual se discutia a revisão contratual de obrigação de pagamento pela potência mínima contratada, em razão dos efeitos imprevisíveis da pandemia da COVID-19.
+2. O Tribunal de origem não admitiu o recurso especial com base nos seguintes fundamentos: (i) ausência de vício de fundamentação no acórdão recorrido; (ii) necessidade de reexame do conjunto fático-probatório (Súmula n. 7/STJ); (iii) necessidade de interpretação de cláusulas contratuais (Súmula n. 5/STJ); (iv) consonância do acórdão recorrido com a jurisprudência do STJ; e (v) aplicação de leis locais, atraindo a incidência analógica da Súmula n. 280/STF.
+3. A parte agravante não impugnou, de maneira específica, o fundamento de que o acórdão recorrido está em consonância com a jurisprudência do STJ, o que atrai a aplic ação do art. 932, inciso III, do CPC/2015, e da Súmula n. 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Conforme entendimento consolidado pela Corte Especial do STJ, a decisão que não admite recurso especial possui dispositivo único, sendo incindível. Assim, a ausência de impugnação específica a qualquer dos fundamentos que sustentam a inadmissibilidade inviabiliza o conhecimento do agravo em recurso especial.
+5. Agravo em recurso especial não conhecido.
+VOTO
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos:
+(i) o acórdão não padece de qualquer vício de fundamentação a ser sanado;
+(ii) a pretensão recursal demandaria o reexame do conjunto fático-probatório, o que atrairia a incidência da Súmula n. 7 do STJ;
+(iii) a pretensão recursal demandaria a interpretação de cláusulas contratuais, o que atrairia a incidência da Súmula n. 5 do STJ;
+(iv) acerca da aplicação da teoria da imprevisão no caso concreto, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça;
+(v) a decisão recorrida está assentada em interpretação de leis locais a fim e apurar as medidas para o enfrentamento da pandemia, o que atrairia a aplicação analógica da Súmula n. 280 do STF
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente ao acórdão recorrido estar em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 1228), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+É como voto.
