@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 1.384):
+APELAÇÃO CÍVEL - AÇÃO DE ANULAÇÃO DE REGISTRO PÚBLICO C/C RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL E PEDIDOS INDENIZATÓRIOS - COMPRA E VENDA DE IMÓVEL - VÍCIO DE CONSENTIMENTO - ALEGAÇÃO DE DOLO - PRAZO DECADENCIAL - EXTINÇÃO COM RESOLUÇÃO DE MÉRITO - SENTENÇA MANTIDA. - O prazo para se pleitear a anulação de negócio jurídico em razão de dolo, erro, fraude contra credores, estado de perigo ou lesão é de quatro anos contados da data em que se realizou o negócio, nos termos do art. 178, II do Código Civil. - Decorridos mais de quatro anos entre o negócio que se pretende anular e a data de propositura da ação, observado o momento em que a parte teve conhecimento da violação ou lesão ao direito subjetivo, deve ser extinto o processo, nos termos do art. 487, II do CPC/2015, por força da decadência.
+Os embargos de declaração foram rejeitados (fls. 1.446/1.449).
+Em suas razões (fls. 1.458/1.472), a parte recorrente aponta violação dos seguintes dispositivos legais:
+i. arts. 489, § 1º, IV, e 1.022, II, do CPC, uma vez que o acórdão recorrido não teria exposto "as razões pelas quais decidiu de forma contrária ao pedido de nulidade por fraude à lei imperativa" (fl. 1.463);
+ii. art. 166, VI, do CC e arts. 322, § 2º, e 326 do CPC, uma vez que, "interpretando-se o pedido deste Embargante a partir de uma leitura restrita da postulação, desconsiderou a existência de pleito legítimo de nulidade por fraude à lei imperativa, nos termos do art. 166, VI, do CC/02 (e não apenas de anulabilidade por dolo) do negócio jurídico de compra e venda firmado" (fl. 1.465).
+Contrarrazões não apresentadas.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Registro, de início, que inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à interpretação do pedido deduzido pelo recorrente na petição inicial, o Tribunal de origem assim se manifestou (fls. 1.386/1.387):
+A controvérsia recursal cinge-se ao acerto do d. Juízo que reconheceu a existência das prejudiciais de mérito - decadência/prescrição - e extinguiu o feito, sem enfrentar os pedidos autorais.
+Reconheceu a r. sentença que a parte autora decaiu em seu direito, nos termos do art. 178 do CC, uma vez que ajuizou a ação após quatro anos da realização do negócio jurídico, não sendo passível o pleito de anulação do contrato.
+Tratando-se de vício de vontade, capaz de determinar a anulação do negócio jurídico, a demanda deve ser ajuizada no prazo de quatro anos contados da data do ato, nos termos do art. 178, inciso II, do Código Civil de 2002:
+(..)
+Observa-se que, apesar da parte alegar que o negócio jurídico celebrado é nulo, por presença de simulação, requereu em inicial a anulação do ato, nos termos do art.147 do CC, por vício de consentimento decorrente de dolo da parte, com descrição expressa do referido dispositivo legal, que se adequa de forma correta ao caso, nos termos da alegação autoral.
+Sendo assim, aplica-se ao caso o instituto da decadência, afastada a alegação de que o ato impugnado é nulo e, portanto, não prescreve.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+Quanto ao mais alegado, maior razão assiste ao recorrente.
+Do excerto acima transcrito, afere-se que o Tribunal de origem, a partir de uma interpretação meramente literal da petição inicial, concluiu que a parte autora havia limitado o pedido à anulação do negócio jurídico por dolo.
+Não se procedeu, todavia, a uma interpretação lógico-sistemática da postulação para aferir se também fora deduzido pedido declaratório da nulidade do negócio por conta de fraude à lei decorrente de simulação, matéria que, entretanto, foi veiculada na inicial com transcrição, inclusive, dos artigos de lei pertinentes (CC, arts. 166, 168 e 169 - fl. 25).
+A interpretação puramente literal da petição inicial, alheia ao conjunto da postulação, desafia a jurisprudência do STJ, conforme julgados que trago à colação:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EMBARGOS DE TERCEIRO. ALEGAÇÃO DE DECISÃO EXTRA PETITA. RECONHECIMENTO JUDICIAL DA PROPRIEDADE DO IMÓVEL. PEDIDO IMPLÍCITO. INTERPRETAÇÃO SISTEMÁTICA DA INICIAL. RECURSO ESPECIAL NÃO PROVIDO. I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado de Goiás, que inadmitiu recurso especial com fundamento nas Súmulas 284 do STF e 7 do STJ. Na origem, trata-se de embargos de terceiro, ajuizado com o objetivo de proteção ao direito de propriedade. A sentença reconheceu o domínio do embargante e determinou a desaverbação da existência de ação anulatória na matrícula do imóvel. O Tribunal de origem negou provimento à apelação da agravante e confirmou a sentença.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se houve negativa de prestação jurisdicional por ausência de enfrentamento das teses suscitadas nos embargos de declaração; e (ii) definir se a sentença e o acórdão violaram o princípio da congruência ao reconhecerem, de forma supostamente extra petita, a propriedade do imóvel em favor do embargante. III. RAZÕES DE DECIDIR
+3. A negativa de prestação jurisdicional não se configura quando o tribunal de origem aprecia fundamentadamente as questões relevantes para a solução da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. O reconhecimento judicial da propriedade do bem encontra respaldo no pedido inicial de desaverbação da prenotação da existência de ação anulatória, na medida em que a plena utilização da propriedade pressupõe o domínio do imóvel, configurando hipótese de pedido implícito.
+5. O Código de Processo Civil de 2015, em seu art. 322, § 2º, impõe interpretação do pedido que garanta sua efetividade, com base no conjunto da postulação e observância da boa-fé, superando a leitura restritiva anteriormente adotada no CPC/1973.
+6. A jurisprudência do STJ admite a interpretação lógico-sistemática da petição inicial para a identificação do conteúdo do pedido, incluindo os elementos que, embora não expressos, sejam logicamente decorrentes da causa de pedir e da pretensão deduzida.
+IV. DISPOSITIVO
+7. Recurso desprovido.
+
+(AREsp n. 2.838.026/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+RECURSO ESPECIAL. CIVIL, PROCESSO CIVIL E COMERCIAL. CONTRATO DE DISTRIBUIÇÃO E REPRESENTAÇÃO COMERCIAL. EQUIPAMENTOS DE INFORMÁTICA. AÇÃO DE INDENIZAÇÃO.
+1. VIOLAÇÃO DOS ARTS. 489 e 1.022 do CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TRIBUNAL QUE SE MANIFESTOU SOBRE TODOS OS TEMAS RELEVANTES PARA A SOLUÇÃO DA LIDE.
+2. VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA OU ADSTRIÇÃO. NÃO CONFIGURAÇÃO. PEDIDO QUE NÃO DEVE SER ANALISADO APENAS DO CAPÍTULO DA PETIÇÃO INICIAL, MAS DAS QUESTÕES APRESENTADAS PELAS PARTES. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA.
+3. CLÁUSULA LIMITATIVA DE RESPONSABILIDADE. LEGALIDADE. RECONHECIMENTO. POSIÇÃO DOMINANTE DA FORNECEDORA QUE NÃO RETIRA A POSSIBILIDADE DE CONHECIMENTO E COMPREENSÃO DA CLÁUSULA PELA DISTRIBUIBORA, QUE TAMBÉM SE TRATAVA DE EMPRESA DE GRANDE PORTE. DOLO NA ELABORAÇÃO DO ITEM. AUSÊNCIA DE COMPROVAÇÃO. OBRIGAÇÃO EM MOEDA ESTRANGEIRA. ADMISSIBILIDADE. CONVERSÃO NO PAGAMENTO.
+4. MULTA 1.026 §2º DO CPC. CABIMENTO. EMBARGOS PROTELATÓRIOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+
+(REsp n. 1.989.291/SP, relator Ministro Ricardo Villas Bôas Cueva, relator para acórdão Ministro Moura Ribeiro, Terceira Turma, julgado em 7/11/2023, DJe de 23/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO. SENTENÇA ULTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DOS PEDIDOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A apreciação da pretensão segundo uma interpretação lógico-sistemática da petição inicial não implica julgamento ultra petita, pois, para compreender os limites do pedido, é preciso interpretar a intenção da parte com a instauração da demanda.
+2. No caso dos autos, a Corte de origem concluiu que o erro material na petição inicial não é suficiente para caracterizar o julgamento ultra petita, pois, da análise de todo o conteúdo da peça introdutória, extrai-se que a parte autora busca o pagamento de indenização relativa a danos oriundos de acidente de trânsito.
+3. O entendimento da Corte de origem encontra-se de acordo com a jurisprudência desta Corte Superior, nada havendo a alterar no acórdão recorrido.
+4. Agravo interno desprovido.
+
+(AgInt no AREsp n. 2.317.324/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+RECURSO ESPECIAL. PROCESSO CIVIL. VIOLAÇÃO AO ARTIGO 535 DO CPC. INOCORRÊNCIA. OMISSÃO. CABIMENTO. SANÇÃO. ART. 538 DO CPC. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ANÁLISE. REEXAME DE PROVA. SÚMULA 7/STJ. DECISÃO EXTRA PETITA. INOCORRÊNCIA. INÉPCIA DA INICIAL. AUSÊNCIA DE PEDIDO. FUNDAMENTOS DEDUZIDOS NO CORPO DA PETIÇÃO INICIAL. POSTULAÇÃO CONSTATADA. LITISCONSORTE PASSIVO NECESSÁRIO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. NULIDADE DE ALTERAÇÃO CONTRATUAL. CESSÃO DE QUOTAS DO CAPITAL SOCIAL. EXERCÍCIO DO DIREITO DE PREFERÊNCIA. VERIFICAÇÃO. IMPOSSIBILIDADE EM SEDE ESPECIAL. INCIDÊNCIA DAS SÚMULAS 5 E 7 DESTA CORTE.
+1 - Não há falar em omissão nem ausência de fundamentação na apreciação das questões suscitadas, pois o órgão julgador não está obrigado a se manifestar sobre todos os argumentos colacionados pelas partes para expressar o seu convencimento, bastando, para tanto, pronunciar-se de forma geral sobre as questões pertinentes para a formação da sua convicção. Em conseqüência, não há razão para afastar a multa protelatória do parágrafo único, do art. 538 do CPC.
+2 - Se o acórdão recorrido, com base no contexto fático delineado nos autos, entende que o julgamento do feito prescinde de instrução probatória, a análise da ocorrência de eventual cerceamento de defesa esbarra na censura da súmula 7/STJ. Precedentes.
+3 - Malgrado não haja, na espécie, pedido expresso de declaração de nulidade da cessão de quotas do capital social, toda a exposição constante da inicial foi nesse sentido, motivo por que não há falar em julgamento extra petita.
+4 - Conforme lição do Ministro Sálvio de Figueiredo Teixeira, no julgamento do Resp 284/480/RJ, "o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial, sendo de levar-se em conta os requerimentos feitos em seu corpo e não só aqueles constantes em capítulo ou sob a rubrica "dos pedidos"." Assim, não há falar em inépcia da inicial, por ausência de pedido, quando, através da simples análise dos fundamentos deduzidos no corpo da petição inicial, constata-se a postulação do autor.
+5 - Ainda que a questão federal objeto do recurso especial tenha surgido no julgamento atacado, é imprescindível a oposição de embargos declaratórios, com vistas ao alcance do necessário prequestionamento, sob pena de incidência das súmulas 282 e 356 do Supremo Tribunal Federal.
+6 - Girando a controvérsia em torno da declaração de nulidade da primeira alteração contratual da empresa, decorrente da cessão de quotas do capital social a novo sócio, porquanto realizada sem a anuência do recorrido e sem que lhe fosse oportunizado o exercício do direito de preferência à aquisição das referidas quotas, em afronta ao disposto no respectivo contrato social, a revisão do julgado demanda reexame do conjunto fático-probatório dos autos e interpretação das disposições estatutárias da sociedade, providências inviáveis em sede especial, ut súmulas 7 e 5 desta Corte.
+7 - Recurso especial improvido.
+
+(REsp n. 440.211/ES, relator Ministro Fernando Gonçalves, Quarta Turma, julgado em 21/9/2004, DJ de 11/10/2004, p. 330.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial, o que faço para, anulando o processo desde a sentença, determinar o retorno dos autos ao primeiro grau, a fim de que a ação tenha o seu curso retomado adotando-se uma interpretação lógico-sistemática da petição inicial, julgando-se o pedido declaratório de nulidade do negócio jurídico como se entender de direito.
+Publique-se e intimem-se.
+EMENTA
