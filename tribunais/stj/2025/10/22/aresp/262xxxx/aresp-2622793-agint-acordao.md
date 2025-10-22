@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. IPI. BASE DE CÁLCULO. COMPENSAÇÃO TRIBUTÁRIA. AUSÊNCIA DE INTERESSE PROCESSUAL. REVISÃO IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Infirmar as conclusões do acórdão recorrido - quanto à ausência de interesse processual - exigiria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MICROONDULADOS BOX PRINT LTDA. contra decisão monocrática assim ementada (e-STJ, fl. 375):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. IPI. BASE DE CÁLCULO. COMPENSAÇÃO TRIBUTÁRIA. AUSÊNCIA DE INTERESSE PROCESSUAL. REVISÃO IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 /STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo interno, a insurgente alega que não há falar em incidência da Súmula n. 7/STJ ao caso em comento, bem como que o art. 876 do Código Civil, os arts. 156, inciso II, 165 e 170, todos do Código Tributário Nacional, o art. 74 da Lei n. 9.430/1996 e o art. 1º da Lei n. 12.016/2009 foram violados.
+Afirma que deve ser reconhecido o "direito à compensação do valor indevidamente recolhido, durante o período imprescrito, decorrente da inclusão indevida dos valores de frete e despesas acessórias (seguro, pedágio, etc.) da base de cálculo do IPI, independentemente do seu destaque na nota fiscal, porquanto a comprovação pode ocorrer por outros meios, a exemplo do conhecimento de transporte (CT-e)" - (e-STJ, fl. 386). Assevera, ainda, que o dissídio jurisprudencial foi devidamente comprovado.
+Requer, ao final, a reconsideração da decisão agravada para que seja dado provimento ao recurso especial.
+Impugnação não apresentada (e-STJ, fl. 397).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. IPI. BASE DE CÁLCULO. COMPENSAÇÃO TRIBUTÁRIA. AUSÊNCIA DE INTERESSE PROCESSUAL. REVISÃO IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. Infirmar as conclusões do acórdão recorrido - quanto à ausência de interesse processual - exigiria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, verifica-se que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, consoante bem salientado, mostra-se cristalina a incidência da Súmula n. 7/STJ à presente demanda.
+Ora, a controvérsia refere-se, em suma, à existência, ou não, do interesse de agir da ora agravante, considerando o alegado justo receio de ser obstada no seu direito à compensação tributária dos valores indevidamente recolhidos.
+O Tribunal Regional Federal da 4ª Região, por sua vez, manteve a sentença, a qual assim consignou (e-STJ, fls. 286-287; sem grifo no original):
+Dessa forma, o interesse processual é caracterizado pelo binômio necessidade/adequação. Em outras palavras, faz-se imperioso que o pedido veiculado na petição inicial, além de ser útil à parte, não possa ser obtido por outros instrumentos, devendo o procedimento adotado ser apto a concretizar o bem da vida em persecução.
+Portanto, inexiste necessidade na obtenção do provimento jurisdicional pleiteado, o que conduz à conclusão de que falece interesse processual à impetrante, como preleciona a jurisprudência do Tribunal Regional Federal da 4ª Região:  ..
+Saliente que presente ação foi distribuída em 01/02/2023, momento em que já estavam vigentes as disposições acima referidas. Ainda, necessário pontuar não veio aos autos qualquer comprovação de pretensão resistida por parte da autoridade impetrada ou da União relativamente ao pedido veiculado nestes autos, na qualidade de prova pré-constituída.
+Desta forma, é de ser acolhida a preliminar suscitada, extinguindo o feito sem exame do mérito, na forma do art. 485, VI, do CPC c/c art. 6º, § 5º, da Lei 12.016/09, diante da ausência de interesse processual.
+Da leitura do fragmento transcrito depreende-se que o Tribunal de origem, de fato, resolveu as questões com base nos elementos fáticos que permearam a demanda.
+Dessa forma, repisa-se que afastar a conclusão do acórdão recorrido - quanto à ausência de interesse processual - exigiria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Guardadas as particularidades do caso, confiram-se (sem grifo no original):
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDEB. VALOR MÍNIMO ANUAL POR ALUNO. EXERCÍCIOS DE 2009 E 2010. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DEFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO. INOCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE FILIAÇÃO OU DE OUTORGA DE PROCURAÇÃO. TEMA DE REPERCUSSÃO GERAL DO STF. RE N. 573.232/SC. AUSÊNCIA DE INTERESSE DE AGIR. MATÉRIA DE ORDEM PÚBLICA. DIFERENÇA DO REPASSE. NÃO CABIMENTO DE RECURSOS ESPECIAL EM FACE DE ATO INFRALEGAL. INVIABILIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Inexiste, portanto, ofensa ao art. 1022 do CPC/2015.
+2. O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais, existindo mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do CPC/2015.
+3. Quanto à alegação de violação do art. 240, § 1º, do CPC, do art. 202, inciso I, do CC e dos arts. 1º e 9º da Lei n. 20.910/32, o acórdão recorrido está em consonância com o entendimento do STF proferido em sede de repercussão geral - RE n. 573.232/SC -, não havendo comprovação de que o Agravante fosse filiado à associação no momento da propositura da ação coletiva nem de que houvesse outorgado procuração para representação. Precedentes.
+4. Quanto à alegação de violação dos arts. 336 e 1.013, caput, do CPC, o STJ possui o entendimento de que a matéria relativa à ausência de interesse de agir é de ordem pública, passível de ser arguida a qualquer momento e em qualquer grau de jurisdição, desde que ausente pronunciamento judicial a seu respeito, como no presente caso. Precedentes.
+5. O Tribunal de origem, a partir da análise dos elementos fático-probatórios, concluiu que o valor mínimo nacional por aluno/ano foi reajustado pela Portaria n. 380/2011 do Ministério da Educação, em valor superior ao pretendido pelo município recorrente a título de diferença do repasse do VMAA do FUNDEB do exercício de 2010, concluindo pela falta de interesse de agir do Agravante. Para rever a conclusão, seria necessário o reexame de provas e fatos, providências descabidas no âmbito do recurso especial, nos termos da Súmula n. 7 desta Corte Superior.
+6. O acórdão recorrido fundamentou-se em interpretação de dispositivo extraído da Portaria n. 380, de 6 de abril de 2011, sendo que as resoluções, portarias e instruções normativas não se enquadram no conceito de lei federal constante do art. 105, inciso III, da Constituição da República.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.949.221/AL, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 9/4/2025, DJEN de 23/4/2025.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. RESISTÊNCIA À PRETENSÃO AUTORAL. INTERESSE DE AGIR CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - In casu, rever o entendimento do Tribunal de origem, o qual concluiu pela existência de interesse de agir, porquanto configurada a resistência à pretensão autoral, demandaria necessário revolvimento de matéria fática, providência inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt no REsp n. 2.178.490/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/3/2025, DJEN de 28/3/2025.)
+Assim, contata-se que razão não assiste à agravante, não merecendo reparo a decisão monocrática de fls. 375-378 (e-STJ).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
