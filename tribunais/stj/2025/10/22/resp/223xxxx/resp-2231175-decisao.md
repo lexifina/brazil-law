@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARTHUR LUNDGREN TECIDOS S.A. CASAS PERNAMBUCANAS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento do Agravo de Instrumento n. 5069494-81.2024.8.24.0000/SC.
+Na origem, cuida-se de agravo de instrumento interposto pela parte recorrente objetivando a aceitação de "seguro judicial como forma de garantia, ante a expressa previsão legal e especialmente em razão dos danos irreparáveis, em face do risco do grave dano de difícil reparação mencionados" (fl. 16).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento do agravo interno, o desproveu, em acórdão cuja ementa é a seguir transcrita (fl. 71):
+DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. SUBSTITUIÇÃO DA PENHORA DE VALORES VIA SISBAJUD POR SEGURO GARANTIA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Reclamo interposto contra decisão interlocutória que indeferiu a substituição da penhora de valores, via SISBAJUD, por seguro garantia.
+II. QUESTÃO EM DISCUSSÃO
+2. O debate se relaciona ao reconhecimento, ou não, de direito subjetivo à substituição pretendida, bem como se há necessidade de demonstrar prejuízo a agasalhar a substituição.
+III. RAZÕES DE DECIDIR
+3. Não se conhece do pleito relacionado à anulação da multa do art. 1.026, §2º do CPC, pela ausência de interesse recursal, eis que a decisão pretérita que rejeitou os embargos de declaração não fixou tal sanção.
+4. Inexistindo direito subjetivo à substituição da penhora pretendida, cabia à recorrente a comprovação de prejuízo que amparasse o pleito. Ausente a demonstração, correto é o indeferimento do pedido.
+IV. DISPOSITIVO
+5. Recurso conhecido parcialmente e, nesta extensão, desprovido. Dispositivos relevantes citados: n. a.. Jurisprudência relevante citada: TJSC, Agravo de Instrumento n. 5067959-20.2024.8.24.0000, do Tribunal de Justiça de Santa Catarina, rel. Luiz Fernando Boller, Primeira Câmara de Direito Público, j. 04-02-2025; e TJSC, Agravo de Instrumento n. 5043326-42.2024.8.24.0000, do Tribunal de Justiça de Santa Catarina, rel. Jaime Ramos, Terceira Câmara de Direito Público, j. 03-12-2024
+Embargos de declaração rejeitados (fls. 91-92).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a da Constituição Federal, a parte recorrente indica violação ao art. 489, §1º, inciso IV do Código de Processo Civil diante de vício de fundamentação do acórdão, pois (a) a Corte local não teria se manifestado explicitamente sobre o dispositivo de lei indicado como violado e relacionados à possibilidade de substituição da penhora por apólice de seguro-garantia de débito não-tributário; (b) a decisão não observou que "não se aplica ao caso a ordem de preferência estabelecida no artigo 11 da LEF, inclusive porque o seguro-garantia nem sequer está no rol do referido artigo, de modo que ele deve ser considerado equivalente a dinheiro" e que "não há que se falar em aplicação da Súmula n. 112, do STJ" e (c) no que tange ao perigo de grave dano de difícil reparação, por sua vez, encontra-se demonstrado prima facie em razão do fato da sanção encontrar-se vencida, sendo premente a inscrição em dívida ativa".
+Ao final, requer o provimento do recurso especial para que seja "conhecido, com a consequente análise e apreciação deste Egrégio Superior Tribunal de Justiça e, no mérito, seja provido, declarando-se a nulidade dos acórdãos recorrido" (fl. 113).
+Sem contrarrazões.
+Recurso especial admitido às fls. 121-124.
+É o relatório.
+Decido.
+O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais, vejamos (fls. 68-69):
+Em primeiro lugar, cumpre apreciar, e rejeitar, o argumento de que a decisão monocrática do evento 19, DESPADEC1, não teria considerado "que a demonstração de prejuízo não constou na fundamentação da decisão do juízo a quo como fato impedido para substituição da penhora, de modo que a interposição do agravo de instrumento se pautou nos motivos de rejeição da apólice indicados na decisão do juízo de primeira instância".
+Com efeito, extraio, da decisão do Juízo de origem, o seguinte trecho (evento 31, DESPADEC1):
+(..)
+Indefiro o pedido formulado pela executada de substituição da penhora em dinheiro por seguro garantia por ausência de demonstração de elementos concretos que justifiquem a necessidade da alteração (STJ, Tema 578).
+Não há direito subjetivo do executado na oferta de bens em desacordo com a ordem estabelecida no art. 11 da Lei n. 6.830/1980. Para afastar a ordem legal deve a executada comprovar a imperiosa necessidade e justificar a incidência do princípio da menor onerosidade.
+Nesse sentido:
+"AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. DECISÃO QUE MANTÉM A NOMEAÇÃO DE BENS À PENHORA CONSISTENTES EM SEGURO GARANTIA. MEDIDA DESCABIDA. DESRESPEITO À ORDEM DE NOMEAÇÃO. LEGÍTIMA RECUSA PELO MUNICÍPIO EXEQUENTE. AUSÊNCIA DE DE ELEMENTOS CONCRETOS QUE JUSTIFIQUEM A INCIDÊNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE NA HIPÓTESE DOS AUTOS. APLICAÇÃO DA TESE JURÍDICA DEFINIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA PARA O TEMA 578. DECISÃO MODIFICADA. RECURSO PROVIDO." (TJSC, Agravo de Instrumento n. 5043326- 42.2024.8.24.0000, do Tribunal de Justiça de Santa Catarina, rel. Jaime Ramos, Terceira Câmara de Direito Público, j. 17-09-2024).
+Nesse rumo, a decisão agravada está pautada na ausência de demonstração de prejuízo e, por isso é que a decisão unipessoal do evento 19, DESPADEC1 conheceu da matéria e negou provimento ao agravo de instrumento, já que o fundamento da decisão de origem se acha alinhado à compreensão deste Tribunal de Justiça.
+Assim, inexistindo direito subjetivo à substituição da penhora pretendida, cabia à recorrente a comprovação de prejuízo que amparasse o pleito. Ausente a demonstração, correto é o indeferimento do pedido.
+ ..
+Em decorrência, embora invocados os arts. 9º, 11 e 38 da Lei n. 6.830/1980, com o desiderato de equiparar o seguro garantia ao dinheiro, além da aplicação analógica do art. 151, incisos II e V do Código Tributário Nacional (CTN), a inaplicabilidade da Súmula n. 112 do STJ e a pendência de julgamento de embargos de declaração opostos contra o acórdão citado pelo magistrado de origem, a substituição da penhora encontra óbice no fundamento, primordial, de que não foi comprovada situação de prejuízo apta a agasalhar a pretensão.
+O que se denota é mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável. Portanto, não há ofensa ao art. 489 do Código de Processo Civil.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE AFRONTA A DISPOSITIVO LEGAL INEXISTENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. TESE DE QUE FORAM ADMITIDAS COMO PROVA TESTEMUNHO DE PESSOAS COM INTERESSE NO DESLIDE DA CONTROVÉRSIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PRETENSA CONTRARIEDADE AO ART. 489 DO CPC/2015. INEXISTENTE. ART. 10 DA LEI DE IMPROBIDADE ADMINISTRTIVA. APLICAÇÃO RETROATIVA DA LEI N. 14.230/2021. IMPOSSIBILIDADE. CONSTATAÇÃO DE DOLO ESPECÍFICO E EFETIVO PREJUÍZO AO ERÁRIO. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A indicação, nas razões do recurso especial, de afronta a dispositivo legal inexistente, tal como reconhecido no agravo interno, consubstancia deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+2. A tese de afronta ao inciso II § 3º do art. 447 do CPC/2015 (alegação de que as testemunhas ouvidas tinham interesse no deslinde da controvérsia) não foi examinada e decidida pela Corte de origem, a despeito da oposição de embargos de declaração, o que consubstancia ausência de prequestionamento, sendo certo que, nas razões do apelo nobre, não foi alegada violação do art. 1.022 do CPC/2015. Incidência da Súmula n. 211 do STJ.
+3. O acórdão recorrido apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Portanto, não há ofensa ao art. 489 do Código de Processo Civil.
+3. A Lei n. 14.230/21 não se aplica no caso de condutas dolosas, como no caso dos autos. Portanto, não há que se falar na aplicação retroativa da nova lei no caso em exame.
+5. O Tribunal de origem, a partir da análise dos elementos fático-probatórios, concluiu pela existência de dolo específico e efetivo dano ao erário, caracterizando a prática de ato de improbidade administrativa. Para rever a conclusão, seria necessário o reexame de provas e fatos, providências descabidas no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.763.249/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+Nesse mesmo sentido: AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023; AgInt no AREsp n. 2.172.041/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial. Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUBSTITUIÇÃO DA PENHORA DE VALORES VIA SISBAJUD POR SEGURO GARANTIA. PRETENSA CONTRARIEDADE AO ART. 489 DO CPC/2015. INEXISTENTE. RECURSO ESPECIAL DESPROVIDO.
