@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de UALLAS FERREIRA ALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DA BAHIA.
+O paciente foi condenado, em segundo grau, a 7 anos, 5 meses e 27 dias de reclusão, em regime fechado, nos termos do art. 33, caput, da Lei n. 11.343/2006.
+No presente writ, alega o impetrante, em suma, que embora tenha ocorrido o trânsito em julgado da sentença, o processo não foi migrado do sistema PJe para o SEEU, sob a justificativa de que há mandado de prisão em aberto, o que inviabiliza a distribuição à Vara de Execuções Penais.
+Sustenta que o paciente é pai solteiro de dois filhos menores de 12 anos, responsável exclusivo de suas guardas, preenchendo todos os requisitos legais para cumprimento da pena em regime domiciliar, conforme previsão dos arts. 318, VI, do CPP e 117, III, da LEP.
+Afirma que a omissão estatal em promover a migração do feito inviabiliza a apreciação de seu pedido e o coloca em iminente risco de sofrer prisão sem que haja prévia análise de sua situação pessoal, ferindo frontalmente suas garantias constitucionais.
+Pleiteia a concessão da medida liminar para determinar à 2ª Vara Criminal de Ilhéus/BA que expeça imediatamente a guia de execução definitiva e promova a migração dos autos do sistema PJe para o SEEU, possibilitando a distribuição do feito a uma Vara de Execuções Penais.
+No mérito, requer a concessão do habeas corpus a fim de assegurar ao paciente o direito de ver processada regularmente sua execução perante o juízo competente, afastando-se a exigência de cumprimento prévio do mandado de prisão como condição à expedição da guia.
+O pedido de liminar foi indeferido, e as informações prestadas.
+O Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 427):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. EXECUÇÃO PENAL. GUIA DEFINITIVA ANTES DA PRISÃO. IMPOSSIBILIDADE. PRECEDENTE DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DA ORDEM.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que se passa a examinar.
+No que se refere ao tema, consta do acórdão ora impugnado (fls. 22-24):
+ ..  O fato é bastante simples: o Paciente não fora localizado, até a presente data, para dar ínicio à fase executória da sentença condenatória, estando, pois, em aberto o mandado de prisão expedido em seu desfavor.
+A pretensão dos Impetrantes é que seja expedida a guia de execução definitiva, sem - ao menos - que seja efetivada a prisão do Paciente, argumento a Defesa que tem ".. a intenção de formular requerimento de prisão domiciliar perante uma das Varas de Execuções Penais. Contudo, diante da ausência de migração do feito para o sistema SEEU e da inexistência de distribuição nas referidas varas especializadas, não restou alternativa senão apresentar o pedido diretamente ao Juízo da 2ª Vara Criminal da Comarca de Ilhéus/BA" (sic).
+De forma escorreita, o Magistrado de 1º Grau - fundamentadamente - decidiu que "para análise de requerimento de prisão domiciliar, que deveria ser analisado por uma Vara de Execução Penal, todavia, o pedido só fora realizado na 2ª Vara Criminal de Ilhéus/BA, justamente porque o processo não se encontra no sistema adequado à execução penal - que seria o SEEU" (sic), por razões bastantes óbvias, como já dito alhures, não houve a efetivação da prisão do Paciente, a fim de que possa dar início ao processo de execução da pena que lhe fora imposta pelo juízo a quo.
+Pois bem. A pretensão deduzida na presente demanda mostra-se manifestamente incabível, à luz da sistemática estabelecida pela Lei de Execução Penal (LEP), em especial seus artigos 105 e 106, os quais disciplinam claramente a ordem procedimental a ser observada na fase de execução penal.
+ ..
+Portanto, permitir que o Paciente inicie o cumprimento da pena - sem apresentar-se à prisão - constituiria flagrante inversão da lógica processual penal e violação ao princípio da legalidade, na medida em que transformaria a execução penal em mera formalidade cartorária, sem o necessário controle físico do sentenciado pelo Estado.
+A jurisprudência pátria tem reiteradamente reafirmado que não é possível expedir guia de recolhimento definitiva enquanto o réu estiver foragido, por se tratar de documento que pressupõe o início do cumprimento da pena sob custódia estatal. ..
+"O art. 674 do Código de Processo Penal e o art. 105 da Lei de Execução Penal são expressos ao dispor que a guia de recolhimento para a execução penal somente será expedida após o trânsito em julgado da sentença que aplicar pena privativa de liberdade, quando o réu estiver ou vier a ser preso. Precedentes." (AgRg no HC n. 775.631/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+Esta Corte, em casos excepcionais, já determinou a expedição de guia de execução provisória sem o cumprimento de mandado de prisão quando devidamente comprovado o grande gravame ao apenado. (AgRg no RHC n. 185.374/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+No caso, o Tribunal de origem, ao manter a decisão que indeferiu o pedido formulado pela defesa, consignou que não há falar-se em execução penal sem a efetiva entrega do sentenciado ao sistema penal.
+Não consta, portanto, manifesta ilegalidade a ensejar a alteração do julgado no tocante à ausência de guia de execução, por estar em consonância com a jurisprudência desta Corte, pois inexistente nos autos situação excepcional sobre a condição excessivamente gravosa ao apenado. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. EXECUÇÃO DE PENAS. PLEITO DE CUMPRIMENTO DE PENA DEFINITIVA EM PRISÃO DOMICILIAR. PEDIDO SUBSIDIÁRIO DE EXPEDIÇÃO DE GUIA DEFINITIVA INDEPENDENTEMENTE DA PRISÃO DO AGRAVANTE. IMPOSSIBILIDADE. CASO CONCRETO. EXCEPCIONALIDADE NÃO DEMONSTRADA NOS DOIS PEDIDOS. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - De acordo com a legislação em vigor, especialmente o art. 674 do Código de Pr ocesso Penal e o art. 105 da Lei de Execução Penal, a guia de recolhimento será expedida após o trânsito em julgado da sentença, quando o réu estiver ou vier a ser preso, muito embora em casos excepcionais, este Tribunal até admita a expedição da guia de execução sem o cumprimento do mandado de prisão, quando esta espera puder configurar grande gravame ao apenado. Precedentes.
+III - No caso concreto, o acórdão combatido está em consonância com a legislação de regência e o entendimento desta Corte, não se vislumbrando, a existência de situação excepcional.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 855.296/BA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. GUIA DE RECOLHIMENTO. MANDADO DE PRISÃO PENDENTE DE CUMPRIMENTO. REGIME FECHADO. DETRAÇÃO DO PERÍODO DE IMPOSIÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. RECOLHIMENTO DOMICILIAR REVOGADO NO CURSO DA AÇÃO PENAL. PERÍODO INFERIOR À PENA IMPOSTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 105 da Lei de Execuções Penais: "Transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o Juiz ordenará a expedição de guia de recolhimento para a execução."
+2. In casu, as instâncias ordinárias destacaram que o mandado de prisão está pendente de cumprimento e o agravante foi condenado à pena em regime inicial fechado, o que impede a expedição de guia de execução, conforme a legislação vigente e jurisprudência desta Corte Superior. Precedentes.
+3. Ademais, ao contrário do asseverado na inicial, extrai-se dos autos que, em 11/7/2016, foi revogada a medida cautelar de recolhimento domiciliar noturno, única medida cautelar alternativa capaz de provocar detração de pena.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 940.134/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.)
+Por fim, diante da ausência de expedição de guia de execução definitivo, constata-se que a alegação relativa à prisão domiciliar não foi objeto de análise pelo Tribunal local, circunstância que obsta a apreciação da matéria por esta Corte, sob pena de incorrer em indevida supressão de instância.
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
