@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Teodoro Silva Santos.
+Impedido o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINSTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte.
+3. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela RIMO AGROINDUSTRIAL LTDA. contra acórdão por mim relatado que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fl. 873):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA POR PERDAS E DANOS. NEGATIVA DE PRESTAÇÃOJURISDICIONAL. NÃO OCORRÊNCIA. ART. 927 DO CÓDIGO CIVIL. FALTA DE COMANDO APTO A AMPARAR A TESE NELEFUNDAMENTADA. SÚMULA N. 284 DO STF. DANOS MATERIAIS E LUCROS CESSANTES. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em relação ao art. 1.022 do CPC/2015, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente, afastando a possibilidade da execução provisória dos valores tidos como incontroversos.
+2. O art. 927 do Código Civil não possui comando normativo capaz de amparar a tese nele fundamentada de cabimento da indenização por lucros, cessantes e danos materiais, sob o fundamento de o anterior desenvolvimento de atividade econômica na área discutida e a criação de unidade de conservação por decreto "declarado caduco", o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+3. Considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7 do STJ.
+5. Agravo interno desprovido.
+Sustenta a parte embargante que o acórdão embargado contém as seguintes omissões e contradições:
+a) não se pretende discutir matéria fática, mas, sim, não subsistir a conclusão da Corte de origem que afastou os lucros cessantes com esteio na aplicação à espécie do inciso IV do art. 41 da Lei n. 9.985/2000, tendo em vista que o Decreto Estadual n. 39.953/98, instituidor do Parque Estadual Verde Grande, foi declarado caduco e teve seus efeitos anulados por meio de decisão judicial transitada em julgado. Portanto, não houve a criação da área de unidade de conservação a justificar a incidência da antes citada Lei Federal a fundamentar o afastamento dos pedidos da Autora, ora Embargante;
+b) as questões veiculadas no apelo nobre são eminentemente de direito. Por conseguinte, a solução da lide não demanda nova incursão no acervo fático-probatório acostado aos autos, o que afasta a incidência da Súmula n. 7 do STJ;
+c) a responsabilidade civil do estado foi indevidamente arredada pela Corte de origem e, nesse compasso, é aplicável à hipótese o comando normativo contido no art. 927 do Código Civil, devendo ser afastada a Súmula n. 284 do STF.
+d) o aresto proferido pelo Tribunal de Justiça do Estado de Minas Gerais padece de omissões e contradições e, nesse contexto, evidente a contrariedade ao art. 1.022 do CPC/2015.
+Foi apresentada resposta ao recurso integrativo (fls. 910-914).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINSTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES E CONTRADIÇÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. A contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte.
+3. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Ressalto que a contradição ensejadora dos declaratórios deve ser aquela verificada no bojo do decisum embargado, ou seja, aquela existente entre os fundamentos utilizados para embasá-lo e a sua conclusão, e não entre a fundamentação e a tese defendida pela parte, tal como pretende o Embargante.
+Nesse sentido: "a contradição sanável por meio dos aclaratórios é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador" (EDcl no AgInt no AREsp n. 2.369.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+Ademais, o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que:
+a) o acórdão prolatado pela Corte de origem apresentou fundamentação concreta e suficiente a amparar as conclusões nele plasmadas e, por conseguinte, não há falar na ocorrência de quaisquer dos vícios preconizados no art. 1.022 do CPC/2015;
+b) o art. 927 do Código Civil não possui comando normativo apto a alicerçar a tese nele fundamentada, qual seja, a de cabimento da indenização pleiteada na inicial, em razão do anterior desenvolvimento de atividade econômica na área objeto da demanda e a criação de unidade de conservação por meio de decreto "declarado caduco", atraindo a incidência da Súmula n. 284 do STF;
+c) o aresto objurgado, com esteio em percuciente exame das provas e fatos que instruem o caderno processual, concluiu pela improcedência dos pedidos contidos na peça de ingresso. Assim, a inversão do julgado encontra óbice na Súmula n. 7 do STJ;
+d) em obter dictum, foi esclarecido que o aresto atacado decidiu a questão relativa ao direito à indenização a partir da interpretação de dispositivos de direito local, qual seja, o Decreto n. 39.953/98. Nessas condições, a revisão desse entendimento não é passível de ser realizada pelo Superior Tribunal de Justiça, em razão da aplicação analógica da Súmula n. 280 do STF.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
