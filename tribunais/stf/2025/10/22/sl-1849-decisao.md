@@ -1,0 +1,69 @@
+DECISÃO: Trata-se de pedido de suspensão de liminar formulado pelo Município de Jundiaí, com o intuito de sustar os efeitos de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Ação Civil Pública nº 1022061-41.2024.8.26.0309, que deu parcial provimento ao recurso de apelação interposto pela Central Brasileira do Setor de Serviços (Cebrasse).
+
+    Na origem, a Cebrasse ajuizou ação civil pública, com pedido de tutela de urgência, contra a Prefeitura Municipal de Jundiaí, buscando o reconhecimento da nulidade do Decreto municipal n. 32.359/2023, que fixou política tarifária diferenciada entre o vale-transporte e a tarifa comum no transporte público municipal.
+
+    A sentença julgou improcedentes os pedidos. Interposta apelação, o Tribunal de Justiça de São Paulo deu parcial provimento ao recurso para: a) decretar a nulidade do Decreto Municipal 32.359/2023, reconhecendo-se ilegalidade na diferenciação tarifária; b) fixar prazo de trinta (30) dias para a municipalidade reajustar o preço; e c) assegurar que os beneficiários da demanda possam continuar a adquirir o Vale-Transporte através de suas operadoras credenciadas, sem que isso implique qualquer embaraço ou prejuízos aos serviços, benefícios, funcionalidades ou ferramentas fornecidas por estas aos empregadores/adquirentes. Esse acórdão constitui o objeto do presente pedido de suspensão de liminar.
+
+    O requerente ajuizou pedido suspensivo perante o Superior Tribunal de Justiça (SLS nº 3.652), o qual foi indeferido sob o argumento de ausência de comprovação da grave lesão à economia, à saúde e à segurança públicas. Defende ser possível a interposição da medida perante o Supremo Tribunal Federal, em razão do esgotamento da via no Superior Tribunal de Justiça, conforme disposto nos §§ 3º e 4º do art. 4º da Lei nº 8.437/1992.
+
+    Sustenta que o acórdão impugnado não examinou adequadamente as Leis nº 12.587/2012 e nº 8.978/1995, além de ter aplicado de forma equivocada o art. 5º da Lei nº 7.418/1985. Apresenta o histórico e a composição tarifária adotada pelo Município, justificando a diferenciação dos valores com base no subsídio concedido pelos empregadores, na necessidade de sustentabilidade financeira do sistema e na equidade entre os diferentes perfis de usuários.
+
+    Salienta que a equiparação do valor do vale-transporte (R$ 6,15) ao do bilhete único (R$ 5,60) acarretaria aumento expressivo no subsídio mensal municipal, o que se mostra inviável no momento atual. Ressalta o risco de comprometimento na alocação de recursos para áreas essenciais como saúde, educação e segurança pública. Afirma que a redução do valor do vale-transporte impactaria negativamente os trabalhadores de baixa renda, dificultando o acesso ao mercado de trabalho, à educação e a outros serviços essenciais.
+
+    Assevera que grande parte dos recursos previstos na Lei Orçamentária Anual são vinculados, não podendo ser redirecionados para outras finalidades. Pontua que o acréscimo mensal de um milhão de reais com despesas de transporte comprometeria diretamente a execução orçamentária e a gestão fiscal.
+
+    Alega que o cumprimento imediato da decisão fragilizaria a capacidade do Estado de manter a ordem pública, especialmente diante do prazo de trinta dias imposto para adequação, o qual inviabiliza a previsão orçamentária, a realização de estudos técnicos e o reequilíbrio dos contratos com as concessionárias. Por fim, aponta o risco de irreversibilidade do dano.
+
+    A Procuradoria-Geral da República opinou pelo não conhecimento do pedido, em parecer que recebeu a seguinte ementa (eDOC 30):
+
+    “Suspensão de Liminar. Ação civil pública ajuizada pela Central Brasileira do Setor de Serviços (CEBRASSE). Decreto municipal n. 32.359/2023. Fixação tarifária diferenciada entre o vale-transporte e a tarifa comum no transporte público do Município de Jundiaí/SP. Pedido de suspensão indeferido pelo Superior Tribunal de Justiça. Exame de legislação local. Não cabimento de recurso extraordinário. Óbice ao pedido de contracautela dirigido à Suprema Corte. Parecer por que o pedido não seja conhecido.”
+
+    É o relatório. Decido.
+
+    A sólida jurisprudência deste Supremo Tribunal Federal considera que o incidente de contracautela é via processual autônoma à disposição de pessoas jurídicas de direito público e do Ministério Público, que visa resguardar o interesse público primário em causas contra o Poder Público e seus agentes. Trata-se de medida condicionada à demonstração de que o ato impugnado carregue em si risco elevado à ordem, à saúde, à segurança ou à economia públicas. Essa compreensão harmoniza-se com o disposto no artigo 4º, caput, da Lei nº 8.437/92, que estabelece:
+
+    “Art. 4° Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.”
+
+    Na mesma direção, dispõe o art. 297, caput, do Regimento Interno deste Tribunal:
+
+    “Art. 297, do RISTF. Pode o Presidente, a requerimento do Procurador-Geral, ou da pessoa jurídica de direito público interessada, e para evitar grave lesão à ordem, à saúde, à segurança e à economia pública, suspender, em despacho fundamentado, a execução de liminar, ou da decisão concessiva de mandado de segurança, proferida em única ou última instância, pelos tribunais locais ou federais”. (grifei).
+
+    Observe-se que, nos termos dos arts. 4º, caput, da Lei nº 8.437/1991 e do art. 297 do RISTF, a contracautela tem natureza jurídico-processual excepcional. O tipo de cognição permitido por esta via estreita limita-se a constatar a probabilidade e a gravidade do risco representado, portando juízo mínimo sobre a matéria de fundo que perfaz a controvérsia.
+
+    A doutrina também reforça esse entendimento, como assinala Leonardo Carneiro da Cunha:
+
+    “(...) o pedido de suspensão cabe em todas as hipóteses em que se concede tutela provisória contra a Fazenda Pública ou quando a sentença produz efeitos imediatos, por ser impugnada por recurso desprovido de efeito suspensivo automático. Daí se poder dizer que, hoje em dia, há a suspensão de liminar, a suspensão de segurança, a suspensão de sentença, a suspensão de acórdão, a suspensão de cautelar, a suspensão de tutela antecipada e assim por diante.
+
+    O pedido de suspensão destina-se a sobrestar a eficácia de decisões provisórias ou não definitivas. Não deve ser utilizado para suspender execuções definitivas.
+
+    (...) Rigorosamente, o pedido de suspensão destina-se a tutelar interesse difuso, ostentando, portanto, natureza de uma postulação coletiva.O pedido de suspensão não tem natureza recursal, por não estar previsto em lei como recurso e, igualmente, por não gerar a reforma, a anulação nem a desconstituição da decisão. (...) o pedido de suspensão consiste numa ação cautelar específica destinada, apenas, a retirar da decisão sua executoriedade; serve, simplesmente, para suspender a decisão, mantendo-a, em sua existência, incólume. No pedido de suspensão, há uma pretensão específica à cautela pela Fazenda Pública.
+
+    Ao apreciar o pedido de suspensão de liminar, o presidente do tribunal examinase houve grave lesão à ordem, à saúde, à economia ou à segurança públicas. Tradicionalmente, a jurisprudência entende que o presidente do tribunal, ao analisar o pedido de suspensão, não adentra o âmbito da controvérsia instalada na demanda, não incursionando o mérito da causa principal.
+
+    O pedido de suspensão funciona, por assim dizer, como uma espécie de ‘cautelar ao contrário’, devendo, bem por isso, haver a demonstração de um periculum in morainverso, caracterizado pela ofensa a um dos citados interesses públicos relevantes e, ainda, um mínimo de plausibilidade na tese da Fazenda Pública, acarretando um juízo de cognição sumária pelo presidente do tribunal. (CUNHA, Leonardo Carneiro da. A fazenda pública em juízo. 21.ed. Rio de Janeiro: Forense, 2024, p. 535-542, grifei).
+
+     Esta Corte firmou entendimento no sentido de que, para a admissibilidade da medida de contracautela, exige-se não apenas a potencialidade de o ato impugnado causar lesão ao interesse público, é necessário que a controvérsia do processo subjacente seja de natureza constitucional, a fim de determinar-se a competência do Presidente deste Supremo Tribunal Federal, sendo igualmente necessário que a decisão impugnada tenha sido proferida por Tribunal (STA 782 AgR/SP, Relator Min. Dias Toffoli; SS 5112 AgR/SC, Relatora Min. Cármen Lúcia). Sobreleva transcrever importante lição da i. Ministra Rosa Weber quando da apreciação da SL 1595, Plenário, DJe 3.5.2023:
+
+    “Nessa linha, imprescindível que, na suspensão de liminar, a causa de pedir esteja vinculada à potencialidade de violação da ordem, da saúde, da segurança ou da economia públicas, sendo, ainda, indispensável, para o cabimento de tal medida, perante o Supremo Tribunal Federal, que o processo subjacente esteja fundado em matéria de natureza constitucional direta (SS 3.075-AgR/AM, Rel. Min. Ellen Gracie, Tribunal Pleno, DJ 29.6.2007; SS 5.353-AgR/BA, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 17.12.2020; STA 782-AgR/SP, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 18.12.2019, v.g.).”
+
+    Na espécie, o pedido de suspensão se volta contra acórdão, prolatado pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso de apelação interposto pela Cebrasse. O acórdão fundamentou-se no entendimento de que a diferenciação tarifária prevista no Decreto Municipal nº 32.359/2023 contraria o disposto no art. 5º da Lei nº 7.418/1985. Destacou que o art. 9º da Lei nº 12.587/2012 não autoriza a comercialização de bilhetes com valores distintos. Citou jurisprudência do Superior Tribunal de Justiça e do Tribunal de Justiça de São Paulo para reforçar a ilegalidade da majoração da tarifa do vale-transporte em relação ao bilhete comum.
+
+    Logo, observa-se que a fundamentação do acórdão demonstra que a controvérsia no processo subjacente possui estatura infraconstitucional, não autorizando, dessa forma, a atuação dessa Corte. Sobre o tema:
+
+    "AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA SUSPENSÃO DE LIMINAR. AGRAVO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. IRREGULARIDADE FORMAL. ART. 317, § 1º, DO RISTF. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE CONTAS DE EMPRESA CONCESSIONÁRIA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. ARTIGOS 37, XXI E 175 DA CONSTITUIÇÃO FEDERAL. NATUREZA EXCEPCIONALÍSSIMA DO INCIDENTE DE CONTRACAUTELA. NECESSIDADE DE PROVA INEQUÍVOCA DE LESÃO AOS BENS JURÍDICOS PROTEGIDOS PELA LEGISLAÇÃO DE REGÊNCIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. SÚMULA 454 DO STF. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. É ônus do recorrente impugnar de modo específico todos os fundamentos da decisão agravada. Art. 1.021, § 1º, CPC e 317, § 1º, do RISTF. 2. Além disso, no caso concreto, o pedido de suspensão de liminar foi formulado em face de decisão de juízo de primeiro grau, em sede de execução de título extrajudicial, que determinou o bloqueio de contas de empresa concessionária de distribuição de energia elétrica. 3. A controvérsia envolve a análise de legislação infraconstitucional e de cláusulas contratuais (Súmula 454 do STF), o que afasta a competência do Supremo Tribunal Federal para apreciação da causa de pedir, por não possuir natureza constitucional. 4. A sólida jurisprudência deste Supremo Tribunal Federal considera que o incidente de contracautela é via processual autônoma, à disposição de pessoas jurídicas de direito público e do Ministério Público, que visa resguardar o interesse público primário em causas contra o Poder Público e seus agentes. E pressupõe a demonstração de que o ato impugnado possa vir a causar grave lesão à ordem, à saúde, à segurança ou à economia pública. 5. Na hipótese, a Agravante não logrou demonstrar a presença de tal requisito. 6. Agravo regimental não conhecido, prejudicado o segundo recurso de agravo, em face ao princípio da unicidade recursal." (SL 1722-ED-AgR, de minha relatoria, Plenário, DJe de 21.11.2024, grifei).
+
+    "Direito Processual. Agravo interno em Suspensão de tutela provisória. Eleição para o Conselho Tutelar. Negativa de provimento. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a pedido de suspensão de decisão que sustou os efeitos de determinação para que fosse interrompida a eleição para o cargo de Conselheiro Tutelar no Município de Manaus. II. Questão em discussão 2. Discute-se a presença dos requisitos de admissibilidade da medida de contracautela. III. Razões de decidir 3. O pedido de suspensão deve ser dirigido ao “presidente do tribunal ao qual couber o conhecimento do respectivo recurso” (art. 4º da Lei nº 8.437/1992). 4. Incompetência do Supremo Tribunal Federal, em razão da necessidade de reexame da legislação infraconstitucional (Súmula 280/STF). IV. Dispositivo 5. Agravo interno a que se nega provimento. __________ Atos normativos citados: Constituição Federal, art. 102, III; Lei nº 8.437/1992, art. 4º." (STP 999-AgR, Rel. Min. Roberto Barroso, Plenário, DJe de 19.08.2024, grifei).
+
+    Portanto, nessa seara específica, a analisar somente os aspectos ínsitos à presença dos requisitos autorizadores definidos nas normas de regência, mostra-se de rigor a rejeição da medida de contracautela pretendida.
+
+    Ante o exposto, nos termos do art. 21, § 1º, do RISTF, não conheço do pedido de suspensão de liminar.
+
+    Publique-se.
+
+    Brasília, 22 de outubro de 2025.
+
+Ministro Edson Fachin
+
+Presidente
+
+Documento assinado digitalmente
