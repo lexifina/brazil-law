@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VICTOR MAURICIO CACERES RODRIGUEZ, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, em acórdão assim ementado (fl. 49):
+AGRAVO DE EXECUÇÃO PENAL. CONCESSÃO DE INDULTO NATALINO COM FUNDAMENTO NO ART. 9º, VII, DO DECRETO PRESIDENCIAL N. 12.338/2024. TRÁFICO PRIVILEGIADO DE DROGAS (ART. 33, §4º, DA LEI N. 11.343/2006). INSURGÊNCIA DO MINISTÉRIO PÚBLICO. PLEITO DE REVOGAÇÃO DA BENESSE. ACOLHIMENTO. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITO. NECESSIDADE DE CUMPRIR 1/6 (UM SEXTO) DE CADA UMA DAS REPRIMENDAS SUBSTITUTIVAS (ART. 9º, VII). ENTENDIMENTO DO STJ E DESTE TRIBUNAL EM RELAÇÃO A DECRETOS ANTERIORES COM REDAÇÃO SIMILIAR. AUSÊNCIA DE SATISFAÇÃO DO REQUISITO OBJETIVO EM RELAÇÃO À PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+O paciente encontra-se em execução de pena privativa de liberdade e teve o pleito de indulto deferido pelo Juízo de 1º grau.
+Interposto agravo em execução ministerial, o Tribunal a quo deu provimento ao recurso para cassar a decisão que concedeu o benefício, conforme a ementa acima.
+Neste writ, a defesa alega, em síntese, que o paciente cumpriu integralmente a pena de prestação pecuniária, ou seja, 50% da pena total, e 119 horas de serviços comunitários, ou seja, 9,4% da pena total, de modo que já havia cumprido o lapso temporal necessário à concessão do benefício em análise (1/6 da pena imposta).
+Sustenta que o cálculo feito pelo cumprimento de 1/6 de cada uma das penas restritivas até a data-limite caracteriza evidente violação ao postulado da legalidade penal, que impede a interpretação extensiva em prejuízo do apenado feita pelo TJ/SC.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja reconhecido o cumprimento do requisito objetivo, concedendo o indulto ao paciente e restabelecendo a decisão do Juízo executante.
+Prestadas as informações, o Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 271):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. INDULTO NATALINO. PENA PRIVATIVA SUBSTITUÍDA POR DUAS RESTRITIVAS. REQUISITO OBJETIVO. NECESSIDADE DE CUMPRIMENTO DE 1/6 DE CADA UMA DAS PENAS. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ. AUSÊNCIA DE ILEGALIDADE.
+1. O não cabimento de habeas corpus substitutivo de recurso próprio se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordem vindicada.
+2. De acordo com a orientação do Superior Tribunal de Justiça, "As penas restritivas de direitos são autônomas entre si, conforme dispõe o art. 44 do Código Penal. Para fins de concessão de indulto, o requisito objetivo de cumprimento de fração da pena deve ser aferido individualmente para cada uma das penas restritivas de direitos impostas em substituição, sendo incabível a análise do somatório global ou a compensação entre elas" (AgRg no REsp n. 2.194.212/PE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025).
+3. Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º do CPP, o que se passa a analisar.
+Acerca da controvérsia aqui trazida, colhe-se do acórdão impugnado (fls. 47-48 ):
+ ..  No caso dos autos, o agravado cumpre pena de 3 anos e 9 meses, substituída por duas restritivas de direito, consistentes em prestação de serviços à comunidade, pelo mesmo tempo da pena, equivalente a 1.260 (mil, duzentas e sessenta) horas e prestação pecuniária no valor de 1 salário mínimo, pela prática do delito previsto no artigo 33, § 4º, da Lei n. 11.343/2006.
+O agravado é primário. Logo, para fazer jus ao indulto, deve ter satisfeito até o dia 25 de dezembro de 2024 1/6 (um sexto) de cada uma das penas restritivas de direito que lhe foi imposta.
+Compulsando o Processo de Execução Penal originário, é possível constatar que até o dia 25 de dezembro de 2024 o agravado pagou integralmente a prestação pecuniária, mas cumpriu apenas 1 mês e 29 dias de pena relativa a prestação de serviços à comunidade.
+Portanto, ainda que satisfeita a prestação pecuniária, verifica-se que o apenado não cumpriu o requisito objetivo de 1/6 (um sexto) também em relação à prestação de serviços à comunidade, logo inviável manter a concessão do indulto.
+Vale destacar que essa interpretação não é novidade nos Decretos de concessão de indulto, já que tal redação constou tanto no Decreto Presidencial n. 8.615/2015 em seu art. 1º, XIV e no Decreto n. 11.846/2023 e, na oportunidade, o Superior Tribunal de Justiça já assentou que, em hipóteses tais, o requisito objetivo "para concessão de indulto ou comutação é aferido com relação a cada uma das medidas alternativas impostas ao apenado, consideradas individualmente". ..
+Como se vê, o Tribunal de origem concluiu que o paciente não faz jus ao indulto, haja vista não ter cumprido o requisito objetivo de 1/6 também em relação à prestação de serviços à comunidade, evidenciando-se que, para ter direito ao indulto, era necessário ter cumprido até 25/12/2024, 1/6 de cada uma das penas restritivas de direito impostas, o que não ocorreu.
+Nesse contexto, o entendimento adotado pelo Tribunal estadual não destoa da orientação jurisprudencial desta Corte, conforme se observa dos seguintes julgados:
+EXECUÇÃO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO PRESIDENCIAL. PENAS RESTRITIVAS DE DIREITOS. CÁLCULO INDIVIDUALIZADO. INTERPRETAÇÃO DO DECRETO N. 12.338/2024 E DO ART. 44 DO CÓDIGO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pela Defensoria Pública do Estado de Santa Catarina contra decisão monocrática que não conheceu de habeas corpus, visando reformar acórdão do Tribunal de Justiça local que cassou decisão de primeira instância que havia reconhecido o direito ao indulto com base no Decreto n. 12.338/2024. O paciente teve a pena privativa de liberdade substituída por duas penas restritivas de direitos (prestação pecuniária e prestação de serviços à comunidade), tendo cumprido integralmente a primeira e parcialmente a segunda.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se, para fins de concessão de indulto com base no Decreto nº 12.338/2024, é suficiente o cumprimento de fração mínima, 1/6, considerada globalmente entre as penas restritivas de direitos impostas, ou se é necessário o adimplemento individual da fração mínima em cada uma das sanções substitutivas.
+III. RAZÕES DE DECIDIR
+3. É defeso o uso de habeas corpus como substitutivo de recurso próprio, salvo em hipóteses de manifesta ilegalidade, abuso de poder ou teratologia, o que não se verifica no caso concreto.
+4. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que as penas restritivas de direitos são autônomas, nos termos do art. 44 do Código Penal, devendo o requisito temporal para o indulto ser cumprido em relação a cada uma delas individualmente.
+5. O Decreto nº 12.338/2024, embora empregue a expressão "um sexto da pena", deve ser interpretado em conformidade com a natureza autônoma das penas substitutivas, de modo que o cumprimento parcial de apenas uma delas é insuficiente para a concessão do benefício.
+6. A jurisprudência pacífica da Corte é aplicável também ao Decreto nº 12.338/2024, conforme precedentes recentes, inclusive colegiados, que reiteram a exigência do cumprimento de um sexto de cada pena autônoma imposta.
+IV. DISPOSITIVO E TESE
+7. Agravo regimental desprovido.
+Teses de julgamento: (i) para a concessão de indulto previsto no Decreto nº 12.338/2024, o apenado deve cumprir o requisito temporal de um sexto da pena em relação a cada uma das penas restritivas de direitos impostas; (ii) as penas restritivas de direitos, por serem autônomas, não admitem cálculo global para fins de aferição do cumprimento de requisitos objetivos do indulto.
+(AgRg no HC n. 1.008.131/SC, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 19/8/2025, DJEN de 25/8/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 12.338/2024. PENAS RESTRITIVAS DE DIREITO. REQUISITO OBJETIVO. ADIMPLEMENTO DE 1/6 DE CADA PENA RESTRITIVA IMPOSTA. PRECEDENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior sedimentou-se no sentido de que, ao transformar a pena de privativa de liberdade em várias penas alternativas, é necessário, para concessão de indulto, o cumprimento de determinada fração de cada uma das penas. Precedente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 1.001.159/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
