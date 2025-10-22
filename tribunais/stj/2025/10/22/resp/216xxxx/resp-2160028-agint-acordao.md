@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação do art. 1.022 do CPC quando analisadas fundamentadamente pelo Tribunal de origem as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo Município de Belo Horizonte contra decisão que negou provimento ao recurso especial (fls. 609-612).
+A parte agravante insiste na tese de que houve violação, pelo Tribunal de origem, do art. 1.022, II, do CPC, o que acarretou, ao fim e ao cabo, em inadmissível negativa de prestação jurisdicional.
+Pleiteia, pois, a reconsideração do decisum monocrático ou, caso assim não se entenda, a submissão do agravo ao julgamento colegiado desta Turma.
+Contrarrazões às fls. 634-646.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação do art. 1.022 do CPC quando analisadas fundamentadamente pelo Tribunal de origem as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+Convém, antes de mais nada, fazer um breve resumo dos fatos processuais para, então, passar ao exame da controvérsia.
+Inicialmente, foi interposto recurso especial (REsp n. 2.000.007/MG) sustentando a existência de omissão no acórdão proferido na Apelação Cível n. 1.0024.15.165820-0/001, interposta contra a sentença que julgou procedentes os embargos opostos pelo Município de Belo Horizonte à execução de sentença (art. 730 do CPC/1973) promovida por Newton Alves Pedrosa. No referido acórdão, o Tribunal de origem decretou "a nulidade parcial do processo, a partir da decisão à fl. 180, do processo n. 1.0024.12.171111-3, que, de ofício, determinou a citação do Município de Belo Horizonte, nos termos artigo 730 do Código de Processo Civil de 1973; determinando o retorno dos autos ao Juízo de origem, para que o magistrado aprecie a petição de fl. 178, do processo n. 1.0024.12.171111-3" (fl. 425).
+Nesse primeiro recurso especial, o Município sustentou ofensa ao art. 1.022, II, do CPC ao argumento de que o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifestou sobre ponto essencial ao deslinde da controvérsia.
+O recurso especial foi provido pelo relator, Ministro Herman Benjamin, que determinou o retorno dos autos ao Tribunal a quo para que "em novo julgamento dos Embargos de Declaração, se manifeste expressamente acerca do ponto omisso: possibilidade de aproveitamento dos atos válidos (art. 282 do CPC) - principalmente a perícia - após o reconhecimento de nulidade no processo" (fl. 503).
+Em cumprimento à decisão do STJ, o Tribunal de origem realizou novo julgamento, oportunidade em que acolheu os embargos de declaração apenas para se pronunciar sobre o referido ponto, sem, todavia, lhes conferir efeitos infringentes (fls. 533-538). Opostos novos embargos de declaração, também foram acolhidos, desta vez apenas para corrigir erro material (fls. 551-557).
+O Município de Belo Horizonte, então, interpôs novo recurso especial  de que cuidam os presentes autos  , em que sustenta a manutenção do vício de omissão pelo Tribunal a quo, mesmo após a determinação dessa Corte Superior para se manifestasse, expressamente, sobre a possibilidade de aproveitamento dos atos válidos.
+Além disso, afirmou, na petição do recurso especial, que a decisão do Tribunal de origem é "(i) contraditória, ao reconhecer que o valor pretendido pelo exequente é indevido, mas, ainda assim, permitir a execução, e (ii) omissa, em relação ao art. 494, 1, CPC e à jurisprudência do STJ, ao ignorar a possibilidade (dever) de retificar decisão judicial cuja conclusão se baseia em erro de cálculo devidamente reconhecido, ainda que tenha havido trânsito em julgado, vícios estes que não foram sanados" (fl. 569).
+Acrescentou, ainda, que "o reconhecimento apenas parcial da validade de atos legitimamente produzidos evidencia não só violação ao princípio da economia processual, mas também um flagrante desrespeito à decisão do STJ" (fl. 571).
+Requereu "o conhecimento e o provimento deste recurso especial, para que sejam anulados os acórdãos que julgaram os embargos de declaração, determinando-se ao tribunal que refaça os julgamentos, com a correção dos vícios suscitados" (fl. 572).
+Às fls. 609-612, neguei provimento ao recurso especial, o que deu ensejo à interposição deste agravo interno.
+Pois bem. Quanto à alegada violação do art. 1.022 do Código de Processo Civil tem-se, da leitura dos acórdãos recorridos, e ao contrário do que sustenta a parte agravante, que o Tribunal de origem analisou fundamentadamente as questões que lhe foram submetidas, examinando os pontos essenciais ao deslinde da controvérsia, não havendo f alar em nulidade qualquer.
+Conforme indicado no decisum monocrático ora agravado, o Tribunal de Justiça do Estado de Minas Gerais, por determinação desta Corte Superior no REsp n. 2.000.007/MG, realizou novo julgamento do recurso que lhe foi submetido, oportunidade que, especificamente sobre os pontos antes considerados omissos, anotou o seguinte (fls. 537-538):
+A partir da leitura dos autos, extrai-se que a perícia contábil, realizada nos segundos embargos à execução, respeitou o princípio do contraditório e da ampla defesa, tratando-se, portanto, de ato processual válido.
+Posto isto, uma vez verificada a regularidade dos atos processuais posteriores à citação do Município, não há motivo para que esses não sejam considerados válidos e aproveitáveis.
+Nesse esteio, o artigo 283 do Código de Processo Civil dispõe que:
+(..)
+Assim, à luz do princípio da economia processual, devem ser preservados os atos processuais realizados em observância ao contraditório das partes.
+Por fim, acrescento que, apesar de os demais atos processuais serem válidos, a interpretação pretendida pelo embargante, quanto à perícia realizada, não pode ser acolhida neste momento processual, sob pena de violação da coisa julgada.
+Isso porque, como já dito, a referida perícia ocorreu após o trânsito em julgado de uma execução de sentença, sendo que já havia sido realizada perícia anterior, também realizada em observância ao contraditório.
+Ou seja, uma coisa é reconhecer a validade de um ato processual, ante o princípio da economia processual; outra coisa é sobrepô-lo à coisa julgada, o que é inadmissível.
+Assim, não há como se "escolher" a segunda perícia, supostamente mais favorável à parte embargante, simplesmente porque violaria a coisa julgada.
+Ato contínuo, ao julgar novos embargos de declaração, concluiu pela inexistência de manutenção da omissão e, ainda, prestou os seguintes esclarecimentos (fl. 556):
+Ressalta-se, contudo, que restou claro na redação do acórdão embargado que a interpretação pretendida pelo embargante a respeito da perícia realizada não foi acolhida, em razão da autoridade da coisa julgada.
+Isso se deu em razão da referida perícia ter sido realizada após o trânsito em julgado de uma execução de sentença, sendo que já havia sido realizada perícia anterior, também realizada em observância ao contraditório.
+Nesse sentido, ainda que tenha sido reconhecida a validade de um ato processual, em atenção ao princípio da economia processual, esse não foi sobreposto à coisa julgada, já que isso seria inadmissível.
+Ademais, quanto à alegação do recorrente de que a decisão proferida pelo Superior Tribunal de Justiça teria sido desrespeitada, melhor sorte não assiste ao embargante.
+A decisão do Superior Tribunal de Justiça, quanto à ocorrência de omissão no julgamento dos embargos de declaração, foi devidamente observada. Houve manifestação clara por parte do acórdão quanto à possibilidade de aproveitamento dos atos válidos e a respeito da perícia. Nesse esteio, os embargos de declaração foram acolhidos e a referida omissão foi sanada.
+Não há que se falar, portanto, em permanência da omissão por parte do acórdão, já que houve pronunciamento claro a respeito do aproveitamento dos atos processuais e da perícia.
+De fato, a controvérsia foi suficientemente examinada pelo Tribunal a quo, que se manifestou de modo expresso sobre a possibilidade de aproveitamento da segunda perícia, tal como determinado pelo STJ.
+Registre-se que a mera insatisfação com o conteúdo das decisões proferidas não importa em violação do dispositivo legal supramencionado. Com efeito, o fato de o Tribunal haver decidido os recursos de forma diversa da defendida nas razões recursais, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação. Nesse sentido: AgInt no AREsp n. 2.347.060/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgInt no REsp n. 2.130.408/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Ademais, é reiterado o entendimento desta Corte Superior de que o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa das teses que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. Nessa linha: AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024; EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022.
+Por fim, convém rememorar que "a contradição passível de ser sanada na via dos embargos declaratórios é a contradi ção interna, entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com argumento, tese, lei ou precedente tido pela parte embargante como acertado" (EDcl no Aglnt nos EDcl na Rcl n. 43.275/MG, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 18/4/2023, DJe de 24/4/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
