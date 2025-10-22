@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em favor de IVYRSON GUTERRES GOIA contra acórdão proferido pelo TJ/RS, assim ementado (fls. 36-37):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE PROCESSUAL. AUDIÊNCIA DE CUSTÓDIA REALIZADA APÓS A CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. MERA IRREGULARIDADE. REQUISITOS DA PRISÃO PREVENTIVA. PRESENÇA. ORDEM DENEGADA.
+I. CASO EM EXAME:
+1. HABEAS CORPUS IMPETRADO EM FAVOR DO PACIENTE PRESO PREVENTIVAMENTE PELA SUPOSTA PRÁTICA DOS DELITOS DE TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, RESISTÊNCIA E LESÃO CORPORAL, APONTANDO COMO AUTORIDADE COATORA O JUÍZO DA 1ª VARA DA COMARCA DE ITAQUI.
+II. QUESTÃO EM DISCUSSÃO:
+1. HÁ DUAS QUESTÕES EM DISCUSSÃO: (I) A OCORRÊNCIA DE NULIDADE PROCESSUAL, UMA VEZ QUE A DECISÃO QUE CONVERTEU A PRISÃO EM FLAGRANTE EM PREVENTIVA FOI PROFERIDA ANTES DA REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA; (II) A AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO PREVENTIVA, PREVISTOS NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL.
+III. RAZÕES DE DECIDIR:
+1. A INVERSÃO PROCEDIMENTAL, COM A REALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA APÓS A CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA, CONSTITUI MERA IRREGULARIDADE, INCAPAZ DE, ISOLADAMENTE, INVALIDAR A CUSTÓDIA CAUTELAR, CONFORME ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+2. A FINALIDADE DA AUDIÊNCIA DE CUSTÓDIA FOI CUMPRIDA, TENDO SIDO OPORTUNIZADO AO PACIENTE O CONTATO PESSOAL COM O MAGISTRADO, NA PRESENÇA DE SEU DEFENSOR E DO MEMBRO DO MINISTÉRIO PÚBLICO, SEM QUE HOUVESSE ALEGAÇÃO DE NULIDADE NO MOMENTO OPORTUNO.
+3. O FUMUS COMISSI DELICTI ESTÁ DEMONSTRADO PELA APREENSÃO DE EXPRESSIVA QUANTIDADE DE ENTORPECENTES (144 GRAMAS DE COCAÍNA), FRACIONADA EM 130 PORÇÕES, ALÉM DE R$ 2.631,00 EM ESPÉCIE, INDICANDO A PRÁTICA DO CRIME DE TRÁFICO DE DROGAS.
+4. O PERICULUM LIBERTATIS SE EVIDENCIA PELO RISCO CONCRETO DE REITERAÇÃO DELITIVA, CONSIDERANDO QUE O PACIENTE RESPONDE A OUTRA AÇÃO PENAL PELA PRÁTICA DOS CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO.
+5. A GRAVIDADE CONCRETA DO DELITO, EVIDENCIADA PELA QUANTIDADE E NATUREZA DA DROGA APREENDIDA, ALIADA AO HISTÓRICO CRIMINAL ESPECÍFICO E RECENTE DO PACIENTE, DESAUTORIZA A CONCESSÃO DE MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO.
+IV. DISPOSITIVO E TESE:
+1. ORDEM DENEGADA.
+O recorrente foi preso em flagrante, convertido em prisão preventiva, por tráfico de drogas.
+Em síntese, a defesa sustenta a nulidade da decisão que decretou a prisão preventiva, alegando que a segregação cautelar foi imposta antes da audiência de custódia, violando o art. 310, caput, II, do CPP.
+Argumenta que a decretação da prisão preventiva somente tem cabimento no âmbito da audiência de custódia, naturalmente, após o juiz propiciar o interrogatório do flagrado, jamais antes.
+Aponta, ainda, fundamentação inidônea do decreto prisional, que se baseou na gravidade abstrata do delito.
+Requer, liminarmente, a substituição da prisão preventiva por medidas cautelares alternativas previstas no art. 319 do CPP, e, no mérito, a revogação da prisão preventiva.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal assim se manifestou (fl. 107):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE NULIDADE DA CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA ANTES DA AUDIÊNCIA DE CUSTÓDIA. MERA IRREGULARIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PRECEDENTES DO STJ. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA E RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS.
+PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório.
+DECIDO.
+A jurisprudência desta Corte Superior orienta que o reconhecimento de eventual nulidade, relativa ou absoluta, exige a comprovação de efetivo prejuízo, vigorando o princípio pas de nulité sans grief, previsto no art. 563 do CPP.
+Sobre tal alegação de nulidade, o Tribunal de Justiça assim pontuou (fl. 32):
+ ..  Conforme se extrai da cronologia dos eventos processuais na origem, a prisão em flagrante do paciente ocorreu em 23JUL2025 (processo 5002460-71.2025.8.21.0054/RS, evento 1, REGOP3). O auto de prisão em flagrante foi homologado e, na mesma oportunidade, a custódia foi convertida em preventiva, através de decisão proferida em 24JUL2025 (processo 5002460-71.2025.8.21.0054/RS, evento 36, DESPADEC1 ). Posteriormente, na mesma data, foi realizada a audiência de custódia, conforme termo de audiência juntado aos autos (processo 5002460-71.2025.8.21.0054/RS, evento 56, TERMOAUD1).
+Embora o procedimento ideal recomende que a audiência de custódia preceda a análise sobre a conversão da prisão em flagrante, a inversão pontual de tais atos, por si só, não acarreta a nulidade automática do decreto preventivo.
+A jurisprudência dos Tribunais tem se orientado no sentido de que a não realização da audiência de custódia, ou sua realização em momento posterior à decretação da preventiva, constitui mera irregularidade, incapaz de, isoladamente, invalidar a custódia, especialmente quando seus fundamentos permanecem hígidos.
+ ..
+A finalidade precípua da audiência de custódia é verificar a legalidade da prisão, a ocorrência de maus-tratos ou tortura e a necessidade da manutenção da custódia.
+Uma vez que o ato foi efetivamente realizado, ainda que após a decisão de conversão, e tendo sido oportunizado ao paciente o contato pessoal com o magistrado, na presença de seu defensor e do membro do Ministério Público, eventuais vícios do momento da prisão poderiam ter sido ali suscitados.
+Ademais, é de crucial importância registrar que, conforme se depreende do Termo de Audiência (processo 5002460-71.2025.8.21.0054/RS, evento 56, TERMOAUD1), o paciente esteve assistido por seu advogado constituído, Dr. Rodrigo de Oliveira Vieira, OAB/RS 39.456, o qual teve a oportunidade de arguir qualquer nulidade ou irregularidade, mas não o fez.
+O registro da solenidade consigna que o paciente informou que " todo o cumprimento do mandado foi feito de forma segura e no âmbito da lei", e não há qualquer menção a protestos da defesa técnica quanto à inversão procedimental ora questionada.
+A ausência de alegação de nulidade no momento oportuno, somada à inexistência de demonstração de prejuízo concreto ao paciente, enfraquece a tese de constrangimento ilegal, operando-se, em princípio, a preclusão da matéria.
+A superveniência da audiência de custódia, na qual a legalidade da prisão foi chancelada e a necessidade da custódia mantida, tem o condão de sanar a irregularidade procedimental, afastando, em sede de análise liminar, a plausibilidade do direito invocado neste ponto. ..
+Como se vê, destacou o Tribunal local que as finalidades da audiência de custódia foram cumpridas e, além disso, que o recorrente teve contato pessoal com o magistrado, na presença de seu defensor e do membro do Ministério Público.
+Também ressaltou que eventual irregularidade não tem o condão de, isoladamente, invalidar a custódia, especialmente quando seus fundamentos permanecem hígidos, apontando, por fim, que a insurgência não foi arguida no momento oportuno, assim como não foi demonstrado prejuízo concreto, enfraquecendo a tese de constrangimento ilegal e atraindo a preclusão da matéria.
+Nesse diapasão, o pequeno lapso temporal verificado, por si só, não acarreta a ilegalidade do cárcere, mormente no caso concreto, quando se nota que a prisão do recorrente foi regularmente submetida ao crivo da autoridade judicial, e nem se evidencia como motivo hábil a justificar, isoladamente, o relaxamento da prisão em flagrante, tratando-se de mera irregularidade. Nesse sentido: AgRg no RHC n. 191.141/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024.
+No mais, a prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, garantia da regularidade da instrução criminal ou asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado (fl. 24):
+ ..  os Flagrados foram abordados na posse de alta quantia e variedade de substâncias entorpecentes, o que demonstra, ao menos nesse grau de cognição sumária, o altíssimo grau de periculosidade dos presos, também resistindo a abordagem policial.
+Numa análise perfunctória, não se pode afirmar, com efeito, que medidas alternativas seriam suficientes para se resguardar a sociedade contra o risco de reiteração delitiva (a segregação visa cessar a prática de novos crimes). Nada garante, ademais, que a segregação domiciliar ou o simples comparecimento em Juízo seriam suficientes para evitar que o Flagrado deixasse novamente de expor terceiros a comportamento de risco, distribuindo com drogas nesta Comarca. ..
+Verifica-se que a prisão preventiva foi decretada mediante fundamentação idônea, lastreada na apreensão de 144g de cocaína (fl. 33), circunstância indicativa de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, a revelar a indispensabilidade da imposição da medida extrema na hipótese.
+Com efeito, a gravidade concreta da conduta delitiva, consistente em tráfico de drogas, evidencia-se em fatores como a quantidade e a natureza da substância apreendida, a forma de acondicionamento ou a presença de instrumentos destinados à comercialização, circunstâncias que revelam maior potencial lesivo da conduta e indicam periculosidade do agente, ultrapassando a mera gravidade abstrata do delito. Nesse sentido: AgRg no HC n. 957.245/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/2/2025, DJEN de 18/2/2025.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
