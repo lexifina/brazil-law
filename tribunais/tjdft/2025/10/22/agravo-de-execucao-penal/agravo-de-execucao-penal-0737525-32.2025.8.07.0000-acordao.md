@@ -1,0 +1,216 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Criminal
+Processo N.AGRAVO DE EXECUÇÃO PENAL 0737525-32.2025.8.07.0000AGRAVANTE(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSAGRAVADO(S)TAUA LUCAS RODRIGUES DE LUCENARelatorDesembargador ARNALDO CORRÊA SILVA
+ Acórdão Nº2060463
+
+EMENTA
+
+Ementa: DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO NO ENEM E NO ENCCEJA. POSSIBILIDADE DE CUMULAÇÃO. AUSÊNCIA DE BIS IN IDEM. RECURSO NÃO PROVIDO.
+
+I. CASO EM EXAME
+
+1.   Agravo em execução penal interposto pelo Ministério Público do Distrito Federal e Territórios contra decisão que concedeu ao apenado remição de 133 dias de pena pela aprovação no ENCCEJA/2024, embora já tivesse sido beneficiado anteriormente pela aprovação no ENEM/2022.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2.   A questão em discussão consiste em definir se é possível a cumulação da remição de pena pela aprovação no ENEM e no ENCCEJA, ambos relativos ao ensino médio, ou se a medida configuraria bis in idem.
+
+III. RAZÕES DE DECIDIR
+
+3.   A remição da pena por estudo, prevista no art. 126 da Lei de Execução Penal, constitui instrumento de ressocialização e deve ser interpretada de forma a incentivar o esforço educacional do apenado.
+
+4.   A Resolução CNJ n. 391/2021 autoriza expressamente a remição tanto pelo ENCCEJA quanto pelo ENEM, tratando-os como fatos geradores distintos.
+
+5.   O ENCCEJA e o ENEM possuem finalidades, níveis de complexidade e critérios de avaliação distintos.
+
+6.   Enquanto o ENCCEJA visa à certificação de conclusão do ensino básico, o ENEM funciona primordialmente como processo seletivo para ingresso no ensino superior, demandando maior aprofundamento e dedicação do candidato.
+
+7.   O Superior Tribunal de Justiça, no julgamento do EAREsp n. 2.576.955/ES, pacificou o entendimento de que é possível a cumulação da remição da pena pela aprovação no ENCCEJA e no ENEM.
+
+8.   A aprovação em cada exame representa esforço autônomo e contínuo, apto a ensejar nova remição, sem caracterizar bis in idem.
+
+9.   O reconhecimento da cumulação prestigia a função ressocializadora da execução penal e alinha-se à jurisprudência pacífica do STJ.
+
+IV. DISPOSITIVO E TESE
+
+10.   Recurso não provido.
+
+Dispositivos relevantes citados: LEP, art. 126, caput, § 1º, I, e § 5º. Resolução CNJ n. 391/2021, art. 3º, parágrafo único. CF/1988, art. 1º, III; art. 3º, I, II e III.
+
+Jurisprudência relevante citada: STJ, EAREsp n. 2.576.955/ES, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, j. 12.03.2025, DJEN 19.03.2025; STJ, REsp n. 1.854.391/DF, Rel. Min. Laurita Vaz, Sexta Turma, j. 22.09.2020, DJe 06.10.2020; STJ, AgRg no HC n. 768.530/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. 06.03.2023, DJe 09.03.2023.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, ARNALDO CORRÊA SILVA - Relator, SILVANIO BARBOSA DOS SANTOS - 1º Vogal e JAIR SOARES - 2º Vogal, sob a Presidência do Senhor Desembargador JAIR SOARES, em proferir a seguinte decisão: NEGAR PROVIMENTO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Outubro de 2025
+
+Desembargador ARNALDO CORRÊA SILVARelator
+
+RELATÓRIO
+
+Trata-se de agravo de execução penal interposto pelo MINISTÉRIO PÚBLICO contra a decisão proferida pelo Juízo da Vara de Execuções Penais do Distrito Federal (ID 75873329, p. 504-507) que, em 25 de junho de 2025, deferiu ao apenado TAUA LUCAS RODRIGUES DE LUCENA a remição de 133 (cento e trinta e três) dias de sua pena, em razão da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA), referente ao ano de 2024.
+
+Em suas razões (ID 75873329, p. 513-519), o agravante sustenta que a decisão incorre em bis in idem.
+
+Argumenta que o apenado já havia sido beneficiado com a remição pela aprovação no Exame Nacional do Ensino Médio (ENEM) em 2022, e que ambos os exames (ENEM e ENCCEJA) se referem ao mesmo nível de escolaridade — ensino médio —, constituindo, portanto, o mesmo fato gerador. Requer a reforma da decisão para cassar a remição concedida.
+
+A Defensoria Pública, em contrarrazões (ID 75873329, p. 526-535), pugnou pelo conhecimento e não provimento do recurso.
+
+Alegou que os exames possuem naturezas e finalidades distintas, sendo o ENEM mais complexo e voltado ao ingresso no ensino superior, enquanto o ENCCEJA foca na certificação de competências do ensino básico.
+
+Defendeu que a cumulação do benefício é possível e estimula a ressocialização do apenado por meio do estudo continuado, em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+
+Em juízo de retratação, a decisão agravada foi mantida por seus próprios fundamentos (ID 75873329, p. 544).
+
+A d. Procuradoria de Justiça, em seu parecer (ID 75893695), oficiou pelo conhecimento e pelo não provimento do recurso, com fundamento em recente entendimento do Superior Tribunal de Justiça, que pacificou a matéria no sentido da possibilidade de cumulação dos benefícios.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARNALDO CORRÊA SILVA - Relator
+
+Conheço do recurso, uma vez que estão presentes os pressupostos de sua admissibilidade.
+
+O Ministério Público, por sua Promotoria de Justiça, insurge-se contra a decisão do Juízo da Vara de Execuções Penais que concedeu ao agravado a remição de 133 (cento e trinta e três) dias de pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos – ENCCEJA, referente ao ensino médio (ID 75873329, p. 504-507).
+
+O órgão ministerial sustenta a ocorrência de bis in idem, ao argumento de que o apenado já havia obtido remição pela aprovação no Exame Nacional do Ensino Médio – ENEM, tratando-se, segundo alega, do mesmo fato gerador (ID 75873329, p. 513-519).
+
+A controvérsia reside em verificar a possibilidade de cumulação da remição da pena pela aprovação no ENEM e no ENCCEJA, quando ambos se referem à conclusão do ensino médio.
+
+A questão, embora tenha gerado debates, encontra-se atualmente pacificada no âmbito dos Tribunais Superiores em sentido contrário à tese do agravante.
+
+A remição da pena pelo estudo, prevista no art. 126 da Lei de Execução Penal, constitui importante instrumento de ressocialização, incentivando a busca pelo conhecimento e a qualificação profissional do indivíduo privado de liberdade.
+
+“Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. (Redação dada pela Lei nº 12.433, de 2011).
+
+§ 1º A contagem de tempo referida no caput será feita à razão de: (Redação dada pela Lei nº 12.433, de 2011) I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias; [...]
+
+§ 5º O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação”.
+
+A matéria é regulamentada pela Resolução n. 391/2021 do Conselho Nacional de Justiça, que estabelece os procedimentos para o benefício.
+
+“Art. 3° O reconhecimento do direito à remição de pena pela participação em atividades de educação escolar considerará o número de horas correspondente à efetiva participação da pessoa privada de liberdade nas atividades educacionais, independentemente de aproveitamento, exceto, quanto ao último aspecto, quando a pessoa tiver sido autorizada a estudar fora da unidade de privação de liberdade, hipótese em que terá de comprovar, mensalmente, por meio da autoridade educacional competente, a frequência e o aproveitamento escolar. Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4 o da Resolução n o 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5º , da LEP”.
+
+O Superior Tribunal de Justiça, intérprete último da legislação federal, enfrentou a controvérsia em questão e pacificou o entendimento de que é possível a cumulação da remição pela aprovação nos dois exames, ainda que referentes ao mesmo nível de escolaridade.
+
+É sabido que as áreas de conhecimento avaliadas em ambos os exames são as mesmas (“Ciências da natureza e suas tecnologias”, “Ciências humanas e suas tecnologias”, “Linguagens e códigos e suas tecnologias”, “Matemática e suas tecnologias” e “Redação”).
+
+Assim, ainda que as provas avaliem competências similares, o esforço para se preparar e obter êxito em cada um desses exames, com suas particularidades e níveis de exigência, constitui fato gerador autônomo e meritório. A preparação para um novo exame, mesmo sobre matéria já estudada, exige revisão, aprofundamento e disciplina, condutas que a execução penal visa a estimular.
+
+Além disso, é plausível depreender que o grau de complexidade da avaliação contida no ENEM seja superior ao do ENCCEJA. Essa conclusão exsurge do fato de que o ENEM, ao contrário do ENCCEJA, não se presta mais a certificar a conclusão do ensino médio, mas sim a viabilizar o ingresso no ensino superior, o que, por certo, demanda mais empenho e aprofundamento nos estudos por parte do executado. Prova disso são as notas mínimas para aprovação, que são diferentes,
+
+Esse também foi o entendimento adotado no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 2.576.955/ES, a Terceira Seção daquela Corte Superior assentou que o ENCCEJA e o ENEM possuem naturezas, objetivos e graus de complexidade distintos.
+
+Enquanto o primeiro se destina a certificar a conclusão do ensino básico para jovens e adultos, o segundo, especialmente a partir de 2017, consolidou-se como a principal porta de acesso ao ensino superior, o que pressupõe um nível de aprofundamento e dedicação aos estudos consideravelmente maior.
+
+Dessa forma, a aprovação em cada um dos certames representa um fato gerador autônomo, merecedor do benefício da remição, sem que isso configure bis in idem.
+
+A medida, ademais, prestigia o esforço contínuo do apenado em sua trajetória educacional, em perfeita sintonia com o escopo ressocializador da execução penal, não sendo apenas um instrumento de aferição de conhecimento preexistentes.
+
+Confira-se a ementa do referido julgado:
+
+“EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DEFENSIVA. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. APROVAÇÃO EM 3 ÁREAS DE CONHECIMENTO DO EXAME NACIONAL DO ENSINO MÉDIO - ENEM. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL C/C ART. 3º, PARÁGRAFO ÚNICO, DA RESOLUÇÃO N. 391, DE 10/05/2021, DO CONSELHO NACIONAL DE JUSTIÇA. PRÉVIA OBTENÇÃO DE REMIÇÃO DE PENA POR APROVAÇÃO NO ENCCEJA ENSINO MÉDIO NO SISTEMA CARCERÁRIO. IRRELEVÂNCIA. INEXISTÊNCIA DE BIS IN IDEM. GRAUS DE DIFICULDADE DIFERENTES DO EXAME QUE CERTIFICA A CONCLUSÃO DO ENSINO MÉDIO (ENCCEJA) E DO ENEM. DIREITO À REMIÇÃO DE 20 (VINTE) DIAS DE PENA POR MATÉRIA EM QUE O EXECUTADO FOI APROVADO. VEDADO O ACRÉSCIMO DE 1/3 PREVISTO NO ART. 126, § 5º, DA LEP. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal. (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023). Precedentes.
+
+2. O objetivo do conjunto de regras acerca da remição da pena por aproveitamento dos estudos é o de incentivar os apenados aos estudos, bem como sua readaptação ao convívio social.
+
+3. A despeito de as matérias nas quais o estudante é examinado no ENCCEJA - ensino médio e no ENEM possuírem nomes semelhantes, não há como se deduzir que ambos os exames tenham o mesmo grau de complexidade. Pelo contrário, é muito mais plausível depreender-se que a avaliação efetuada no ENEM contém questões mais complexas dos que as formuladas no ENCCEJA - ensino médio, sobretudo tendo em conta que a finalidade do ENEM é possibilitar o ingresso no ensino superior, o que, por certo, demanda mais empenho do executado nos estudos. Reforça essa presunção o fato de que as notas mínimas para aprovação nos referidos exames são diferentes, a prova do ENEM tem mais questões e dura 1h30min a mais que a prova do ENCCEJA.
+
+Nessa linha de entendimento, o pedido de remição de pena por aprovação (total ou parcial) no ENCCEJA - ensino médio não possui o mesmo "fato gerador" do pleito de remição de pena em decorrência de aprovação (total ou parcial) no ENEM realizado a partir de 2017.
+
+4. Não fosse assim, a Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça, que revogou a Recomendação n. 44/2013, teria deixado de reiterar a possibilidade de remição de pena por aprovação no ENEM, mantendo apenas a remição de pena por aprovação no ENCCEJA. Mas não foi o que ocorreu.
+
+Com isso em mente, deixar de reconhecer o direito do apenado à remição de pena por aprovação total ou parcial no ENEM é negar vigência à Resolução 391 do CNJ.
+
+5. Transposto esse raciocínio para a situação da conclusão do ensino médio antes do ingresso do apenado no sistema prisional ou durante o cumprimento da pena, é forçoso concluir, também, que sua superveniente aprovação no ENEM durante o cumprimento da pena não corresponde ao mesmo nível de esforço e ao mesmo "fato gerador" correspondente à obtenção do grau do ensino médio, não havendo que falar em concessão do benefício (remição de pena) em duplicidade pelo mesmo fato.
+
+Precedentes da Quinta Turma: AgRg no HC n. 786.844/SP, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 13/9/2023; AgRg no HC n. 952.590/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024;
+
+AgRg no HC n. 928.497/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024; AgRg no REsp n. 2.070.298/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024; AgRg no HC n. 792.658/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 1/7/2024, DJe de 2/8/2024.
+
+Precedentes da Sexta Turma: AgRg no AREsp n. 2.577.595/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/11/2024, DJe de 12/11/2024; AgRg no HC n. 896.787/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024.
+
+Precedente da Terceira Seção: EREsp n. 1.979.591/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023.
+
+6. De se pontuar, ademais, que essa particular forma de interpretar a lei e as normas que tratam da remição de pena por estudo é a que mais se aproxima da Constituição Federal, que faz da cidadania e da dignidade da pessoa humana dois de seus fundamentos, bem como tem por objetivos fundamentais erradicar a marginalização e construir uma sociedade livre, justa e solidária (incisos I, II e III do art. 3º). Tudo na perspectiva da construção do tipo ideal de sociedade que o preâmbulo da respectiva Carta Magna caracteriza como "fraterna" (HC n. 94163, Relator Min. CARLOS BRITTO, Primeira Turma do STF, julgado em 2/12/2008, DJe-200 DIVULG 22/10/2009 PUBLIC 23/10/2009 EMENT VOL-02379-04 PP-00851).
+
+7. A jurisprudência desta Corte e do Supremo Tribunal Federal é assente no sentido de que as 1.200 horas, correspondentes ao ensino médio, divididas por 12 (1 dia de pena a cada 12 horas de estudo) resultam em 100 dias remidos.
+
+Idêntica forma de parametrar a contagem do tempo a ser remido é aplicável ao ENEM, com a exceção de que o apenado aprovado em todas as áreas do ENEM, a partir de 2017, não faz jus ao acréscimo de 1/3 (um terço) previsto no art. 126, § 5º, da LEP.
+
+8. No caso concreto, a defesa comprovou que o apenado obteve aprovação em 3 (três) das 5 (cinco) áreas de conhecimento nos ENEMs de 2017 (redação) e 2018 (Ciências da Natureza e suas Tecnologias e Ciências Humanas e suas Tecnologias).
+
+Assim sendo, faz jus à remição de 60 (sessenta) dias de pena.
+
+9. Embargos de divergência providos, para reformar o acórdão embargado, dando provimento ao AgRg no AREsp n. 2.576.955/ES, para conhecer do agravo da defesa e dar provimento a seu recurso especial, reconhecendo o direito do ora embargante à remição de 60 (sessenta) dias de pena em virtude de aprovação parcial nos ENEMs de 2017 e 2018.
+
+(EAREsp n. 2.576.955/ES, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 12/3/2025, DJEN de 19/3/2025.)”
+
+O mesmo entendimento também foi adotado por essa Turma Criminal anteriormente:
+
+“Execução penal. Remição de pena pelo estudo. Aprovação no Encceja e Enem. Possibilidade. Agravo não provido.
+
+I. Caso em exame
+
+1.          Agravo de decisão que concedeu ao apenado remição de pena pela aprovação no Enem.
+
+II. Questões em discussão
+
+2.          Discute-se se a aprovação em exames nacionais distintos – Encceja e Enem -, mas de mesmo nível de ensino, dá direito à dupla remição da pena.  I
+
+II. Razões de decidir
+
+3.          O e. STJ tem admitido que é devido o aproveitamento dos estudos realizados durante a execução da pena e a remição pela aprovação – total ou parcial - nos exames, ainda que de mesmo nível de escolaridade. Incentiva a dedicação do apenado – que estudou durante a execução da pena - e favorece a readaptação ao convívio social.
+
+IV. Dispositivo
+
+4.          Agravo não provido.
+
+______
+
+Dispositivos relevantes citados: LEP, art. 126, caput e § 5º.  Jurisprudência relevante citada: STJ, EAREsp n. 2.576.955/ES, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, j. 12/3/2025. (Acórdão 2030695, 0727715-33.2025.8.07.0000, Relator(a): JAIR SOARES, 2ª TURMA CRIMINAL, data de julgamento: 05/08/2025, publicado no DJe: 19/08/2025.)
+
+Ementa: DIREITO PENAL E PROCESSUAL PENAL. RECURSO DE AGRAVO. EXECUÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. REMIÇÃO. APROVAÇÃO PARCIAL NO ENEM 2024. ANTERIOR HOMOLOGAÇÃO DE REMIÇÃO POR APROVAÇÃO NO ENCCEJA 2023. NÃO DUPLICIDADE DE BENEFÍCIO. POSSIBILIDADE DE NOVA REMIÇÃO PELA APROVAÇÃO NO ENEM. FATOS GERADORES DISTINTOS. PRECEDENTES SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+
+I. Caso em exame:
+
+1. Trata-se de recurso de agravo em execução interposto pelo Ministério Público contra a decisão da eminente autoridade judiciária da Vara de Execuções Penais do Distrito Federal, a qual deferiu a remição de pena em virtude da aprovação do sentenciado no ENEM 2024, já agraciado com a remição pela aprovação no ENCCEJA 2023.
+
+II. Questão em discussão:
+
+2. A questão em discussão consiste em avaliar se o apenado, que já foi beneficiado pela remição da pena em razão de aprovação parcial no ENCCEJA, faz jus à remição da pena pelo estudo em razão da aprovação no ENEM.
+
+III. Razões de decidir:
+
+3. Esse Tribunal de Justiça havia firmado orientação, amparada em precedentes do Superior Tribunal de Justiça, no sentido de que não seria possível a concessão de dupla remição pelas aprovações nos exames ENEM e ENCCEJA, sob o fundamento de que os exames recairiam sobre as mesmas áreas de conhecimento, de maneira que a segunda aprovação não significaria incremento no aprendizado.
+
+4. Recentemente, o Superior Tribunal de Justiça revisitou o tema e, em análise acurada aos exames, salientou que possuem finalidades distintas, uma vez que o ENCCEJA se presta à certificação dos ensinos médio e fundamental, ao passo que o ENEM viabiliza o acesso ao ensino superior, bem como que possuem graus de dificuldades diferentes. Além disso, salientou-se que, caso não fosse possível a remição pela aprovação em ambos os exames, a Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça, que revogou a Recomendação n. 44/2013, teria deixado de reiterar a possibilidade de remição de pena por aprovação no ENEM, mantendo apenas a remição de pena por aprovação no ENCCEJA.
+
+5. Curva-se ao posicionamento do Superior Tribunal de Justiça no sentido de ser cabível remição da pena no sentido de que é possível a remição cumulativa pelos dois exames, pelas aprovações parciais ou integrais no ENEM (a partir de 2017), ainda que já tenha sido beneficiada pela aprovação (parcial ou integral) no ENCCEJA, sem que isso configure duplicidade de concessão do benefício, haja vista serem exames que possuem fatos geradores, propósitos educacionais e graus de dificuldade distintos.
+
+IV. Dispositivo:
+
+6. Recurso desprovido.
+
+(Acórdão 2022167, 0723426-57.2025.8.07.0000, Relator(a): SILVANIO BARBOSA DOS SANTOS, 2ª TURMA CRIMINAL, data de julgamento: 17/07/2025, publicado no DJe: 02/08/2025.)”.
+
+No caso dos autos, o agravado obteve remição pela aprovação no ENEM/2022 e, posteriormente, logrou nova aprovação, desta vez no ENCCEJA/2024. A decisão do Juízo da Execução, ao deferir a nova remição (ID 75873329, p. 504-507), aplicou corretamente o direito e alinhou-se à jurisprudência consolidada do Superior Tribunal de Justiça.
+
+Assim, revendo meu posicionamento anterior sobre a matéria, não há reparo a ser feito na decisão agravada.
+
+DISPOSITIVO
+
+Em face do exposto, conheço do recurso e lhe NEGO PROVIMENTO.
+
+É como voto.
+
+O Senhor Desembargador SILVANIO BARBOSA DOS SANTOS - 1º Vogal Com o relatorO Senhor Desembargador JAIR SOARES - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO. UNÂNIME.
