@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por Demerval Prado Barreto Junior em face do Juízo de Direito da 18ª Vara Cível de Aracaju - SE e do Juízo da 5ª Vara do Trabalho de Aracaju-SE, nos autos da ação movida por Demerval Prado Barreto Junior contra a Companhia Estadual de Habitação e Obras Públicas, objetivando a anulução do ato de aposentadoria compulsória aos 70 anos de idade.
+A ação foi aforada perante a Justiça Estadual Comum que extinguiu o feito sem julgamento de mérito, ante a incompetência da justiça comum.
+A demanda foi proposta então perante o Juízo da 5ª Vara do Trabalho de Aracaju-SE que também se declarou incompetente para julgamento da causa.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência da justiça comum.
+É o relatório. Decido.
+O Supremo Tribunal Federal firmou a tese, correspondente ao Tema 606 da repercussão geral, de que a natureza do ato de demissão de empregado público é constitucional-administrativa, e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão.
+No mesmo sentido:
+Recurso extraordinário. Direito Constitucional. Processual. Administrativo. Tema nº 606 da sistemática da Repercussão Geral. Competência da Justiça Federal. Reintegração de empregados públicos. Empresa de Correios e Telégrafos. (ECT). Dispensa em razão de aposentadoria voluntária. Extinção do vínculo. EC nº 103, de 2019. Cumulação. Proventos e vencimentos. Recurso ordinário não provido.
+1. Trata-se, in casu, de empregado público da Empresa de Correios e Telégrafos (ECT) que impetrou mandado de segurança em face de ato mediante o qual o Secretário Executivo do Conselho de Coordenação de Empresas Estatais e do Presidente da ECT determinou o desligamento dos empregados aposentados que se mantinham na ativa, nos termos da MP nº 1523/1996.
+2. Compete à Justiça Federal processar e julgar ação cujo objeto seja a reintegração de empregados públicos dispensados em virtude de aposentadoria espontânea, bem como a cumulatividade de proventos com vencimentos, o que difere, em essência, da discussão acerca da relação de trabalho entre os empregados e a empresa pública, afastando-se a competência da Justiça do Trabalho.
+3. Segundo o disposto no art. 37, § 14, da CF (incluído pela EC nº 103, de 2019), a aposentadoria faz cessar o vínculo ao cargo, emprego ou função pública cujo tempo de contribuição houver embasado a passagem do servidor/empregado público para a inatividade, inclusive quando feita sob o Regime Geral de Previdência Social.
+4. A mencionada EC nº 103/19, contudo, em seu art. 6º, excluiu da incidência da regra insculpida no § 14 do art. 37 da Constituição Federal as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de sua entrada em vigor, sendo essa a hipótese versada nos autos.
+5. Foi fixada a seguinte tese de repercussão geral: A natureza do ato de demissão de empregado público é constitucional-administrativa e não trabalhista, o que atrai a competência da Justiça comum para julgar a questão. A concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º.
+6. Recursos extraordinários não providos.
+(RE 655283, relator: Marco Aurélio, relator p/ Acórdão: Dias Toffoli, Tribunal Pleno, julgado em 16/6/2021, Processo Eletrônico Repercussão Geral - Mérito DJe-078 Divulg. 26/4/2021 PUBLIC 27/4/2021. Republicação: DJe-238 Divulg. 1º/12/2021 Public. 2/12/2021.)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Dire ito da 18ª Vara Cível de Aracaju - SE para prosseguir no julgamento.
+Publique-se. Intimem-se.
+EMENTA
