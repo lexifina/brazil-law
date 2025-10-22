@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno manejado por MISS MERI DA CONCEIÇÃO SANT ANA contra decisão por mim proferida, às e-STJ fls. 480/481, em que determinei o sobrestamento do recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão proferido em recurso especial repetitivo (Tema 1.309 - "Saber se os sucessores do servidor falecido antes da propositura da ação coletiva podem executar a sentença condenatória"), bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+A requerente sustenta, em síntese, que "a questão debatida nos presentes autos não guarda similaridade fático-jurídica com o tema compelido à dinâmica dos recursos repetitivos" (e-STJ fl. 487), aduzindo o que se segue (e-STJ fls. 487/492):
+ ..  a decisão em perspectiva, data maxima venia, não observou circunstâncias que foram trazidas pelos particulares desde o início da lide, quais sejam, a COISA JULGADA já formada e a substituição processual ocorrida em face de pensionista que faleceu em momento posterior à propositura da ação.
+ ..  é necessário insistir que deve ser aplicado por analogia o Tema 476/STJ, oriundo do julgamento do REsp 1.235.513/AL, no sentido de que não cabe à Fazenda Pública revolver a questões que poderiam ser suscitadas antes do trânsito em julgado do título judicial.
+Outrossim, ainda que se alegue tratar de matéria de ordem pública, o entendimento firmado no AgRg no RMS n. 68.879/GO, eleito como paradigma, sustenta que matéria de ordem pública relacionada às condições da ação e aos pressupostos processuais somente é admissível antes que se forme a coisa julgada material, nos termos do art. 508 do CPC/2015.
+Sendo assim, após o trânsito em julgado dos Embargos à Execução e a posterior homologação do crédito em decisões já transitadas em julgado, restou fixado o quantum devido e, após todo o devido processo legal, foi determinando a expedição de requisitório em nome da agravante.
+Em razão do óbito de seu titular, a sucessora buscou se habilitar, sendo surpreendida pela retomada de questões já absolutamente preclusas, vez que o sistema processual não admite que as partes venham a rediscutir as questões decididas após o trânsito em julgado, conforme proclama o art. 508 do CPC
+ ..
+Outrossim, realizado o depósito dos valores inscritos em RPV/Precatório, estes passaram a integrar o patrimônio de seu beneficiário, não sendo admissível reabrir a discussão sobre a origem do crédito.
+ ..
+Outra distinção a ser destacada é que o tema repetitivo trata da relação jurídica existente entre herdeiros do servidor falecido, ao passo que no caso concreto trata-se de substituição processual de pensionista.
+Esse E. Superior Tribunal de Justiça possui entendimento amplo a respeito da possibilidade de sindicato substituir os interesses dos pensionistas dos seus filiados, diante da natureza do vínculo que a pensão gera em relação a viúva do servidor
+ ..
+In casu, a agravante Sra. MISS MERI DA CONCEIÇÃO SANT ANA, é herdeira das duas pensionistas do ex-servidor, a Sra. Maria da Conceição Maurity (viúva) e a Sra. Rosi Mery Sebastiana Maurity, tendo esta última falecido em 17/08/2014, momento posterior, inclusive, à propositura da ação de execução, de modo que esta última restou representada pela FENAPEF, mesmo que não tenha outorgado, expressamente, poderes para tanto.
+ ..
+Nesse diapasão, independentemente do falecimento do ex-servidor, seja antes ou durante a ação de conhecimento, havendo ele deixado pensionista, em razão da natureza do vínculo gerado pela pensão, o Sindicato possui legitimidade extraordinária para representá-la.
+Requer, ao final, "a reforma da decisão monocrática agravada, a fim de que seja reconhecida a distinção do caso concreto em relação ao Tema 1.309/STJ e dado prosseguimento ao feito, com a imediata apreciação do Recurso Especial" (e-STJ fl. 492).
+A União apresentou manifestação (e-STJ fls. 501/505).
+Passo a decidir.
+Inicialmente, embora não seja cabível agravo interno contra decisão do relator que determina a devolução dos autos à origem para fins de realização de juízo de conformidade com precedente repetitivo, sopesando a natureza da pretensão ora deduzida e os princípios da economia e celeridade processuais, entendo por bem receber o presente como o pedido de distinção de que trata o art. 1.037, §§ 9º e 10º, do CPC/2015.
+Feita essa consideração, verifica-se que não assiste razão à requerente.
+Com efeito, nas razões do especial, alegou a União recorrente, em síntese, que, "ora, verifica-se que a pessoa que se pretende suceder (JOSE DE SOUZA MAURITY) faleceu em 11/08/1978, antes de propor a ação originária  ..  de forma que tal cenário fático revela a manifesta ausência de condição da ação, por força da inexistência de capacidade de ser parte nas demandas propostas após seu falecimento, na medida em que a morte da parte impõe a extinção dos poderes então concedidos na fase de conhecimento. In casu, também a pensionista MARIA DA CONCEIÇÃO MAURITY faleceu em data (06/04/2000) anterior ao ajuizamento da ação de conhecimento (ação ORIGINÁRIA)" (e-STJ fl. 407).
+A União busca o "indeferimento da habilitação pleiteada, em face da ilegitimidade ativa e ausência de capacidade processual (inexistência de pessoa natural apta a requerer a própria execução de sentença), já que, com o óbito, houve a perda da capacidade de ser parte antes da proposição da execução" (e-STJ fl. 410).
+O fato de se tratar de habilitação da filha da pensionista do servidor falecido não muda a dinâmica da questão, uma vez que a própria pensionista faleceu em momento anterior ao do ajuizamento da ação cuja sentença se pretende dar cumprimento.
+Assim, a pretensão deduzida no presente recurso especial guarda estreita relação com a tese firmada no aludido repetitivo.
+Ante o exposto, RECEBO o agravo interno como pedido de distinção, o qual INDEFIRO.
+CORRIJA-SE a autuação, a fim de que a Petição 00218209/2025 passe a constar como pedido de distinção.
+Publique-se. Intimem-se.
+EMENTA
