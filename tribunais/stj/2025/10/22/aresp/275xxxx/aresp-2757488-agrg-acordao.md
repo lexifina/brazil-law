@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DECISÃO QUE AFASTOU A EXIGÊNCIA DO EXAME CRIMINOLÓGICO. IRRETROATIVIDADE DA LEI MAIS GRAVOSA. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. GRAVIDADE ABSTRATA DOS CRIMES. ALEGAÇÃO DE PREJUDICIALIDADE. INEXISTÊNCIA. APENADO EM CUMPRIMENTO DO REGIME ABERTO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público da Bahia contra a decisão que conheceu do agravo para dar provimento ao recurso especial manejado por Rodrigo de Jesus Ferreira (fls. 152/155).
+Nas razões do agravo regimental, assevera o agravante que o presente Recurso Especial já se encontrava prejudicado, quando a decisão agravada foi proferida. Com efeito, o Juízo de primeiro grau, em data anterior à decisão ora recorrida, determinou a regressão do Agravado para o regime fechado (fl. 171).
+Na sequência, sustenta que o Órgão do Ministério Público em atuação no primeiro grau de jurisdição, quando se manifestou sobre o pedido de progressão para o regime aberto, explicitou que: i) o Agravado, em 11/5/2023, foi flagrado com maconha, escondida em um bolso falso do short, separada e embalada em sacos plástico; ii) o Parquet, após o devido processo administrativo disciplinar, requereu o reconhecimento da falta grave e a regressão de regime; iii) o Juiz da execução entendeu pelo não reconhecimento da prática da falta grave, o que motivou a interposição de Agravo em Execução Penal por parte do órgão ministerial (e-STJ - fl. 9). Saliente-se que, em consulta ao sistema Pje de segundo grau do Tribunal de Justiça do Estado da Bahia1, verifica-se que o Agravo em Execução Penal, interposto pelo Ministério Público, foi provido para "HOMOLOGAR o resultado do PAD n. 30/2023, reconhecendo-se, por conseguinte, a falta grave cometida pelo reeducando Rodrigo de Jesus Ferreira, competindo ao Juízo de Execução a aplicação das penalidades decorrentes da infração disciplinar, nos termos do art. 52 da Lei n. 7.210/1984" (g. n. - Processo n. 8030558- 61.2024.8.05.0000 - documento anexo).
+Alega que, após o referido acórdão do Tribunal de Justiça do Estado da Bahia que reconheceu a falta grave acima citada, o Juízo da Execução Penal, em 24 de julho de 2024, determinou a regressão do Agravado para o regime fechado (documento anexo). Logo, quando a decisão ora agravada foi proferida, em 19 de dezembro de 2024, o presente Recurso Especial restava prejudicado. Assim argumenta que,  ..  objeto do presente Recurso Especial era a necessidade de realização de exame criminológico para o deferimento de progressão para o regime aberto  ..  houve a perda superveniente objeto,  ..  pugnando, ao final, pela reforma da decisão agravada (fls. 171/172).
+Instado a manifestar-se (fl. 186), a parte agravada colacionou a impugnação de fls. 194/203.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DECISÃO QUE AFASTOU A EXIGÊNCIA DO EXAME CRIMINOLÓGICO. IRRETROATIVIDADE DA LEI MAIS GRAVOSA. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. GRAVIDADE ABSTRATA DOS CRIMES. ALEGAÇÃO DE PREJUDICIALIDADE. INEXISTÊNCIA. APENADO EM CUMPRIMENTO DO REGIME ABERTO.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Ao acolher o recurso ministerial, a Corte origem considerou que a decisão foi tomada após a entrada em vigor da Lei n. 14.843/2024, devido à gravidade do crime cometido com violência, ao envolvimento de adolescente e à existência de falta disciplinar durante a execução da pena (fl. 53 - grifo nosso):
+ ..
+Nesse contexto, há de se observar aplicação da norma, de caráter procedimental, vigente ao tempo da aferição dos requisitos para a análise da progressão de regime, com esteio no postulado tempus regit actum, havendo sido a decisão ora questionada, aliás, proferida em 14.05.2024, posteriormente à entrada em vigor da Lei n.º 14.843/2024, ocorrida em 11.04.2024.
+Além da incidência do dispositivo legal expresso, no caso concreto, deve ser ponderado tratar-se de prática delitiva perpetrada mediante violência física e grave ameaça, em comunhão de desígnios com adolescente, existindo, ainda, notícia da prática de infração disciplinar no curso da execução, todos fatores a recomendar, portanto, a realização do exame criminológico para demonstração do mérito para alcançar a benesse pretendida.
+Ante o exposto, na esteira do Parecer Ministerial, CONHECE-SE e DÁ-SE PROVIMENTO ao presente Agravo em Execução, para cassar a decisão guerreada e determinar a realização de exame criminológico previamente à análise da progressão ao regime aberto.
+ ..
+De fato, a jurisprudência desta Corte Superior sedimentou o entendimento de que, embora a Lei n. 10.792/2003 ao alterar a redação do art. 112 da Lei de Execução Penal tenha afastado a exigência do exame criminológico para fins de progressão de regime, é possível ao Magistrado de primeiro grau, ou mesmo à Corte estadual, diante das circunstâncias do caso concreto e de adequada motivação, determinar a realização do exame.
+A propósito, confiram-se o HC n. 645.466/SP, Ministro Felix Fischer, Quinta Turma, DJe 5/4/2021; e o AgRg no HC n. 634.075/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021.
+Esse entendimento encontra-se sedimentado no Superior Tribunal de Justiça por meio da Súmula 439, in verbis: admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+No entanto, no caso dos autos, não se verifica fundamentação idônea a justificar a necessidade da realização de exame criminológico, porquanto ressaltada apenas a gravidade abstrata dos crimes pelo quais o agravante foi condenado e a longa pena a cumprir, sem o apontamento de fatos ocorridos no curso da execução da pena que impedissem a concessão do benefício ou indicassem a necessidade da perícia.
+Nesse sentido: AgRg no HC n. 625.449/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 18/12/2020; e AgRg no HC n. 553.355/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 18/3/2020.
+Por fim, quanto a alegada prejudicialidade, em consulta ao autos do processo de execução n. 2000167-53.2022.8.05.0080, o apenado está em cumprimento do regime aberto.
+Logo, não há falar em ilegalidade no acórdão atacado.
+Ante o exposto, nego provimento ao agravo regimental.
