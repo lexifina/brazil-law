@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DISPENSA DE LICITAÇÃO. ABOLITIO CRIMINIS. ART. 337-E DO CP. CONTINUIDADE TÍPICO-NORMATIVA. NOTÓRIA ESPECIALIZAÇÃO NÃO COMPROVADA. DOLO ESPECÍFICO (DANO AO ERÁRIO). SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de abolitio criminis do art. 89 da Lei n. 8.666/1993 pela superveniente edição da Lei n. 14.133/2021 não foi acolhida pelo STJ, o qual reconhece na hipótese o fenômeno jurídico da continuidade típico-normativa decorrente da inclusão do art. 337-E no Código Penal. Precedente.
+2. O crime de dispensa ou inexigibilidade de licitação, para sua caracterização, demanda necessária demonstração do dolo específico (causar dano ao erário). O acórdão recorrido destacou não haver sido comprovada, entre outros aspectos, a notória especialização do escritório contratado. O art. 3-A da Lei n. 8.906/1994 não dispensou a necessidade comprovação de notória especialização como requisito para o reconhecimento de sua singularidade.
+3. A análise da pretensão absolutória implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme óbice previsto na Súmula n. 7 do STJ, a fim de desconstituir as premissas firmadas pelas instâncias antecedentes quanto à não singularidade dos serviços prestados, devido à ausência de comprovação da notória especialização e ao dolo de causar dano ao erário.
+4. No tocante à exasperação das penas, a insurgência é deficiente, pois não indicou os dispositivos de lei federal nem demonstrou a referida violação. Além disso, não cabe a interposição de recurso especial fundamentado em violação de conteúdo de súmula. Aplica-se o disposto na Súmula n. 284 do STF.
+5. Com relação aos precedentes indicados, oportuno esclarecer que tais julgados enfrentaram o mérito do recurso especial, circunstância que não foi possível nestes autos, em vista de a pretensão não haver preenchido os requisitos de admissibilidade.
+6. Agravo regimental não provido.
+RELATÓRIO
+ALECIO CASTELLUCCI FIGUEIREDO agrava de decisão de minha relatoria em que não conheci do recurso especial e, dessa forma, mantive o acórdão do Tribunal de origem, que confirmara a sua condenação pelo crime previsto nos arts. 89 e 92 da Lei n. 8.666/1993 e 1º, I, do Decreto-Lei n. 201/1967.
+O agravante aponta a análise de sua pretensão sob a égide da superveniente Lei n. 14.132/2021 e art. 3º-A da Lei n. 8.906/1993 (EOAB) c/c o Tema n. 309 do STF, cujos efeitos devem retroagir. Assere que a pretendida análise envolve apenas questões de direito. Aponta ainda a existência dos julgados proferidos nos AREsp n. 2.401.666/SP e 2.773.118/SP, em que foram reconhecidas a atipicidade da conduta (ausência de dolo específico). Por fim, defendeu a atuação do acusado nos interesses do município de Iperó/SP, a fim de esclarecer a legalidade das compensações tributárias realizadas a afastar qualquer perda patrimonial da municipalidade.
+Pleiteia a reconsideração da decisão agravada ou o julgamento do agravo regimental pelo órgão colegiado.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DISPENSA DE LICITAÇÃO. ABOLITIO CRIMINIS. ART. 337-E DO CP. CONTINUIDADE TÍPICO-NORMATIVA. NOTÓRIA ESPECIALIZAÇÃO NÃO COMPROVADA. DOLO ESPECÍFICO (DANO AO ERÁRIO). SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de abolitio criminis do art. 89 da Lei n. 8.666/1993 pela superveniente edição da Lei n. 14.133/2021 não foi acolhida pelo STJ, o qual reconhece na hipótese o fenômeno jurídico da continuidade típico-normativa decorrente da inclusão do art. 337-E no Código Penal. Precedente.
+2. O crime de dispensa ou inexigibilidade de licitação, para sua caracterização, demanda necessária demonstração do dolo específico (causar dano ao erário). O acórdão recorrido destacou não haver sido comprovada, entre outros aspectos, a notória especialização do escritório contratado. O art. 3-A da Lei n. 8.906/1994 não dispensou a necessidade comprovação de notória especialização como requisito para o reconhecimento de sua singularidade.
+3. A análise da pretensão absolutória implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme óbice previsto na Súmula n. 7 do STJ, a fim de desconstituir as premissas firmadas pelas instâncias antecedentes quanto à não singularidade dos serviços prestados, devido à ausência de comprovação da notória especialização e ao dolo de causar dano ao erário.
+4. No tocante à exasperação das penas, a insurgência é deficiente, pois não indicou os dispositivos de lei federal nem demonstrou a referida violação. Além disso, não cabe a interposição de recurso especial fundamentado em violação de conteúdo de súmula. Aplica-se o disposto na Súmula n. 284 do STF.
+5. Com relação aos precedentes indicados, oportuno esclarecer que tais julgados enfrentaram o mérito do recurso especial, circunstância que não foi possível nestes autos, em vista de a pretensão não haver preenchido os requisitos de admissibilidade.
+6. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar do esforço do agravante, os argumentos apresentados são insuficientes para modificar a posição adotada, cuja conclusão mantenho.
+A decisão agravada explicitou os seguintes fundamentos (fls. 4.120-4.122):
+ ..
+Decido
+I. Inadmissibilidade do REsp
+Cumpre registrar que, para tipificação do crime de dispensa /inexigibilidade de licitação, é necessária a demonstração do dolo específico de causar dano ao erário.
+As instâncias antecedentes concluíram haver ocorrido indevido direcionamento do contrato administrativo, pois não foram comprovadas nem a singularidade dos serviços nem a notória especialização da empresa contratada.
+Assentara também: "não há que se falar em impossibilidade de concorrência ou singularidade do serviço, de modo que cabia à Administração Pública realizar a licitação para contratar a proposta que fosse mais vantajosa ao erário" (fls. 3.134-3.135).
+Destacaram, ainda, que "não restou demonstrado a contento que os órgãos internos da Prefeitura de Iperó, notadamente o Departamento Jurídico com auxílio dos Departamentos de Recursos Humanos e Contabilidade, não poderiam ter prestado referida assessoria à municipalidade" (fl. 3.135).
+No que se refere ao dano ao erário, o acórdão recorrido dispôs:
+ ..
+E nem se alegue que não houve ao erário.
+No período compreendido entre agosto de 2008 e fevereiro de 2013, o escritório Castellucci realizou compensações administrativas que totalizaram R$ 5.337.720,03, bem como recebeu da Prefeitura de Iperó a quantia de R$ 863.549,49 a título de honorários.
+Em razão da não homologação de tais compensações pela Receita Federal, a Prefeitura foi obrigada a realizar o parcelamento do débito, com inclusão de juros e correção monetária, no valor de R$ 6.155.231,37.
+Assim, o Município de Iperó sofreu prejuízo total de aproximadamente R$ 7.000.000,00 (sete milhões).
+Não é demais salientar que o Tribunal de Contas do Estado de São Paulo apurou que a CASTELLUCCI E FIGUEIREDO E ADVOGADOS ASSOCIADOS, num único ano, por força de contratos celebrados com diversas prefeituras municipais, sem exigibilidade de licitação, recebeu cerca de R$ 45.000.000,00, pelo o que se estima que desde 2003 até a presente data, referida empresa já tenha recebido mais de maio bilhão de reais das municipalidades por compensações tributárias indevidas.
+A alegação de que não imaginaram estarem causando danos ao erário resta rechaçada pelo fato de que o Município de Iperó já havia sido autuado pela Receita Federal em 13 de abril de 2012 em razão das compensações previdenciárias indevidas (Auto de Infração DEBCAD 51.014.548-5 e DEBCAD 51.014.549-3), mas mesmo assim continuou com as práticas irregulares.
+Com isso, exaustivamente demonstrado o dolo específico na conduta dos recorrentes: todas as justificativas e fundamentos consignados nos procedimentos que ensejaram as compensações, além de insuficientes para justificar o pagamento de valor extremamente alto a título de honorários sem a validação do ente federal ou a existência de ação judicial transitada em julgado, encontram-se eivados de vício de falsa motivação e desvio de finalidade, tornando nulos os procedimentos derivados nas inexigibilidades realizadas nos anos de 2009 e 2010.
+Importante destacar, ainda, a alegação de que o contrato previa honorários de 20% apenas depois da homologação das compensações pela autoridade fiscal ou do trânsito em julgado de eventual decisão judicial, porém os pagamentos foram realizados após o auto-lançamento.
+A análise da pretensão absolutória implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme óbice previsto na Súmula n. 7 do STJ, a fim de desconstituir as premissas firmadas pelas instâncias antecedentes quanto à não singularidade dos serviços prestados, à ausência de comprovação da notória especialização e ao dolo de causar dano ao erário.
+No tocante à exasperação das penas, a insurgência é deficiente, pois não indicou os dispositivos de lei federal nem demonstrou a referida violação. Além disso, não cabe a interposição de recurso especial baseado em violação de conteúdo de súmula. Aplica-se o disposto na Súmula n. 284 do STF.
+III. Dispositivo
+À vista do exposto, não conheço do recurso especial.
+Cumpre reiterar a inadmissibilidade do recurso especial.
+A tese de abolitio criminis do art. 89 da Lei n. 8.666/1993 pela superveniente edição da Lei n. 14.133/2021 não foi acolhida pelo STJ, o qual reconhece na hipótese o fenômeno jurídico da continuidade típico-normativa decorrente da inclusão do art. 337-E no Código Penal.
+Com efeito, o crime de dispensa ou inexigibilidade de licitação, para sua caracterização, demanda necessária demonstração do dolo específico (causar dano ao erário). O acórdão recorrido destacou não haver sido comprovada, entre outros aspectos, a notória especialização do escritório contratado.
+O art. 3-A da Lei n. 8.906/1994 não dispensou a necessidade comprovação de notória especialização como requisito para o reconhecimento de sua singularidade.
+Nesse contexto, a análise da pretensão absolutória implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme óbice previsto na Súmula n. 7 do STJ, a fim de desconstituir as premissas firmadas pelas instâncias antecedentes quanto à não singularidade dos serviços prestados, devido à ausência de comprovação da notória especialização e ao dolo de causar dano ao erário.
+No tocante à exasperação das penas, a insurgência é deficiente, pois não indicou os dispositivos de lei federal tidos por violados. Além disso, não cabe a interposição de recurso especial fundamentado em violação de conteúdo de súmula. Aplica-se o disposto na Súmula n. 284 do STF.
+Com relação aos precedentes indicados, oportuno esclarecer que tais julgados enfrentaram o mérito do recurso especial, circunstância que não foi possível nestes autos, em vista de a pretensão não haver preenchido os requisitos de admissibilidade.
+À vista do exposto, nego provimento ao agravo regimental.
