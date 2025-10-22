@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO . AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. EMBARGOS DE DECLARAÇÃO NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO SUSCITADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que a matéria seja considerada prequestionada, é indispensável que tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente, ainda que não haja menção expressa e numérica aos dispositivos legais. A ausência de tal análise, mesmo após a oposição de embargos de declaração, atrai a incidência da Súmula n. 211 do STJ.
+2. A falta de alegação de violação ao art. 1.022 do CPC nas razões do recurso especial inviabiliza a análise de eventual omissão no acórdão recorrido, o que impede a configuração do prequestionamento, inclusive na forma ficta, nos termos do art. 1.025 do CPC.
+3. No caso concreto, o Tribunal de origem não apreciou a tese relativa à aplicação do art. 9º do Decreto n. 20.910/1932, que trata do reinício do prazo prescricional pela metade, mesmo após a oposição de embargos de declaração. A ausência de prequestionamento impede o conhecimento do recurso especial.
+4. A parte agravante não conseguiu infirmar os fundamentos da decisão agravada, que reconheceu os óbices ao conhecimento do recurso especial, mantendo-se, assim, a decisão recorrida.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCELO ALEXANDRE ANDRADE DE ALMEIDA contra decisão monocrática de minha relatoria , que não conheceu do recurso especial interposto pelo agravante, nos termos da seguinte ementa (fl. 634):
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. REINÍCIO DO PRAZO CONTADO PELA METADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A decisão agravada fundamentou-se na ausência de prequestionamento das teses recursais, conforme exigido pela Súmula n. 211 do STJ, e na impossibilidade de conhecimento do recurso especial, uma vez que as questões suscitadas não foram apreciadas pela Corte de origem sob o prisma indicado pelo recorrente, mesmo após a oposição de embargos de declaração (fls. 636-637).
+Nas razões do agravo interno (fls. 641-647), o agravante sustenta que o recurso especial interposto não padece de vícios e que as teses nele apresentadas foram devidamente prequestionadas, ainda que de forma implícita, conforme entendimento consolidado do STJ. Argumenta que o acórdão recorrido deixou de se manifestar sobre a aplicação do art. 9º do Decreto n. 20.910/32, que determina que o prazo prescricional interrompido recomeça a correr pela metade, o que teria impacto direto na análise da prescrição da pretensão punitiva da Administração Pública no processo administrativo disciplinar. Alega, ainda, que a decisão agravada desconsiderou a violação de dispositivos legais e a jurisprudência desta Corte Superior, especialmente no que tange ao cálculo do prazo prescricional.
+O agravante reitera que, após a suspensão do prazo prescricional por 140 dias, o prazo deveria ter reiniciado pela metade, conforme o artigo 9º do Decreto n. 20.910/1932, o que resultaria na prescrição da pretensão punitiva em 24/06/2014, e não em 2015, como entendido pelo juízo de origem. Afirma que a ausência de manifestação expressa sobre esse ponto pelo Tribunal Regional Federal da 1ª Região ensejou a oposição de embargos de declaração, os quais foram rejeitados, configurando, assim, o prequestionamento necessário para o conhecimento do recurso especial.
+Por fim, o agravante requer o provimento do agravo interno para que o recurso especial seja conhecido e provido, com a consequente reforma do acórdão recorrido, a fim de que seja reconhecida a prescrição da pretensão punitiva da Administração Pública ou, alternativamente, a nulidade do processo administrativo disciplinar.
+Certidão de decurso de prazo (fl. 656) informa que a parte agravada não apresentou resposta ao agravo interno no prazo legal.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO . AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. EMBARGOS DE DECLARAÇÃO NÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO SUSCITADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que a matéria seja considerada prequestionada, é indispensável que tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente, ainda que não haja menção expressa e numérica aos dispositivos legais. A ausência de tal análise, mesmo após a oposição de embargos de declaração, atrai a incidência da Súmula n. 211 do STJ.
+2. A falta de alegação de violação ao art. 1.022 do CPC nas razões do recurso especial inviabiliza a análise de eventual omissão no acórdão recorrido, o que impede a configuração do prequestionamento, inclusive na forma ficta, nos termos do art. 1.025 do CPC.
+3. No caso concreto, o Tribunal de origem não apreciou a tese relativa à aplicação do art. 9º do Decreto n. 20.910/1932, que trata do reinício do prazo prescricional pela metade, mesmo após a oposição de embargos de declaração. A ausência de prequestionamento impede o conhecimento do recurso especial.
+4. A parte agravante não conseguiu infirmar os fundamentos da decisão agravada, que reconheceu os óbices ao conhecimento do recurso especial, mantendo-se, assim, a decisão recorrida.
+5. Agravo interno não provido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece prosperar.
+Quanto ao cerne das alegações, constou na decisão agravada os seguintes argumentos (fls. 636-637):
+De início, quanto à controvérsia alegada, apesar da oposição de embargos de declaração, não houve apreciação das teses suscitadas pelo recorrente, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Assim, para que a matéria seja considerada prequestionada, ainda que não seja necessária a menção expressa e numérica aos dispositivos violados, é indispensável que a matéria recursal tenha sido apreciada pela Corte de origem sob o prisma suscitado pela parte recorrente no apelo nobre. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF. VIOLAÇÃO AOS ARTS. 5º, 6º, 9º E 10 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+ ..
+2. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.487.419/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJe de 6/12/2024.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PREQUESTIONAMENTO AUSENTE. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC. SÚMULAS 211 DO STJ E 284 DO STF. PRECEDENTES. RECURSO NÃO CONHECIDO.
+ ..
+2. Cotejando as razões do presente Recurso Especial e os fundamentos nos quais o acórdão recorrido se encontra baseado, observa-se que a tese recursal que estaria prevista nos arts. 11, VIII, da LEF e 655, XI, do CPC/73 (atualmente replicado o teor no art. 835, XII, do CPC/2015) não foi apreciada pelo TRF1.
+3. Deve-se incidir, portanto, o teor do enunciado n. 211 da Súmula do STJ, porquanto é "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo". Precedentes.
+4. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211/STJ. E, no caso, embora traga a alegação de violação ao art. 1.022 do CPC/2015, a análise desta foi obstada pela Súmula n. 284/STF, o que inviabiliza a existência de omissão acerca desse tema, cuja constatação é necessária, inclusive, para a eventual configuração do prequestionamento ficto de matéria estritamente jurídica, nos termos do art. 1.025 do Estatuto Processual. Precedentes.
+5. Recurso Especial não conhecido. (REsp n. 2.022.819/AM, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/4/2024, DJe de 24/4/2024.)
+Nesse cenário, é importante ressaltar que, para a devida análise das eventuais omissões, seria fundamental que a parte recorrente trouxesse nas razões do apelo nobre a alegada violação do art. 1.022 do CPC, o que não ocorreu.
+Na espécie, conforme bem pontuado na decisão agravada, percebe-se que a análise do Tribunal de origem não abordou questão do prazo prescricional ter reiniciado pela metade, no termos do art. 9º do Decreto n. 20.910/1932, em que pese a interposição de embargos declaratórios. O que enseja a aplicação do teor da Súmula n. 211 do STJ.
+Ademais, caberia à par te recorrente suscitar a omissão do julgado nas razões do apelo nobre, com base no art. 1.022 do CPC, o que não ocorreu.
+No caso, a parte agravante não logrou êxito em infirmar os fundamentos, relativos aos óbices, que nortearam a decisão ora agravada, que deve ser mantida.
+Ante o exposto, NEG O PROVIMENTO ao agravo interno.
+É o voto.
