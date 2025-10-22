@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por IGOR SILVA BARBOSA DE JESUS, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Pará (HC 0805170-79.2025.8.14.0000).
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada, pela suposta prática do delito tipificado no artigo 121, caput, do Código Penal.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"EMENTA: DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ARTIGO 121 DO CÓDIGO PENAL. (HOMICÍDIO SIMPLES). PRISÃO PREVENTIVA. MUDANÇA DE ENDEREÇO SEM COMUNICAÇÃO AO JUÍZO. DESCUMPRIMENTO DE MEDIDAS CAUT ELARES ANTERIORMENTE CONCECIDAS, PRISÃO RESTABELECIDA E DEVIDAMENTE MANTIDA.
+I. CASO EM EXAME
+1. Habeas Corpus liberatório impetrado em favor de IGOR SILVA BARBOSA DE JESUS, preso preventivamente por haver descumprido medidas cautelares anteriormente definidas, no caso, mudança de endereço sem comunicação prévia ao juízo, buscando assim, a substituição da prisão preventiva por medidas cautelares diversas da privação de liberdade, tendo-a por medida desnecessária.
+II. QUESTÕES EM DISCUSSÃO
+2. Há três questões em discussão: (I) se a decisão que decretou novamente a prisão do paciente por descumprimento de medidas cautelares carece de fundamentação; (II) se for possível substituir a prisão preventiva por medidas cautelares diversas; (III) ter o paciente boas condições pessoais.
+III. RAZÕES DE DECIDIR
+3. O constrangimento ilegal na prisão cautelar não se mostra evidente, quando a prisão preventiva está devidamente fundamentada na gravidade concreta dos fatos praticados.
+4. O descumprimento de medida cautelar anteriormente imposta, quando da concessão da liberdade provisória, é motivo legal para a decretação da prisão preventiva, a teor do disposto nos artigos 312, parágrafo único, e 282, § 4º, ambos do Código de Processo Penal.
+5. A autoridade coatora entendeu que as medidas cautelares diversas da prisão, previstas no artigo 319 do CPP, são insuficientes, dados a gravidade do crime.
+6. Supostas condições pessoais não impedem a decretação da custódia cautelar quando presentes os requisitos para a medida constritiva, em observância ao enunciado da Súmula nº 08 deste Egrégio Tribunal.
+IV. DISPOSITIVO E TESE
+4. Ordem conhecida e denegada." (e-STJ, fls. 136-138).
+Nesta Corte, a defesa sustenta, em síntese, a ausência de requisitos e fundamentação atual da prisão preventiva, com violação ao art. 316, § único, do CPP, por falta de reavaliação periódica e de contemporaneidade da medida, ressaltando que a segregação cautelar foi mantida com base fundamentos genéricos e desatualizados.
+Aduz que o recorrente já foi citado, apresentou resposta à acusação, atualizou endereço, participou da audiência de instrução, possui advogada constituída, de modo que inexiste risco atual à ordem pública ou à aplicação da lei penal.
+Ressalta também as condições pessoais favoráveis do acusado e a suficiência de medidas cautelares diversas, com base no art. 319 do CPP.
+Defende, ainda, a existência de excesso de prazo e morosidade estatal, visto que o recorrente se encontra preso desde 02/01/2025 sem a finalização da instrução criminal.
+Pleiteia, inclusive liminarmente, a revogação da custódia preventiva. Subsidiariamente, pugna pelo reconhecimento do constrangimento ilegal por excesso de prazo, com liberdade provisória e aplicação de cautelares.
+Requer também a intimação da defesa para realizar sustentação oral nesta Corte.
+O pedido liminar foi indeferido (e-STJ, fls. 206-207).
+Prestadas as informações (e-STJ, fls. 214-219 e 220-226), o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 232-236).
+É o relatório.
+Inicialmente, cumpre ressaltar que a "decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019). É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 16/12/2020).
+Havendo prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+O Juízo processante decretou a prisão preventiva pelos seguintes fundamentos:
+" ..  O fumus commissi delicti está assentado nas provas que instruem este instrumento.
+A parte representada, ciente de que as medidas cautelares são instrumento para a manutenção da sua liberdade, demonstrou desídia e descumpriu com as condições impostas, não mais sendo localizada no endereço informado.
+O periculum in libertatis, por sua vez, consubstancia-se na necessidade de garantir a aplicação da lei penal, assim como a conveniência da instrução criminal. Isso ocorre porque, mesmo diante da imposição de medida cautelar que proíbe o acusado de se ausentar da comarca, constatou-se que ele não foi localizado no endereço indicado nos autos para a devida citação, conforme certidão de ID 79035720.
+Nessa perspectiva, o entendimento assente do STJ é no sentido de que a fuga do distrito da culpa, comprovadamente demonstrada nos autos e que perdura, é fundamentação suficiente para a decretação da custódia preventiva, cujo teor transcrevo a seguir:
+ ..
+Em arremate, destaco que os elementos acima sistematizados evidenciam a periculosidade da parte representada, o que afasta, logicamente, a eficácia das medidas cautelares diversas da prisão 5 , que se mostraram inócuas.
+Este é, inclusive, o entendimento sedimentado pelo Tribunal da Cidadania 6 :
+Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+Pelo exposto e, com fulcro no art. 312, parágrafo único, do Código de Processo Penal, REVOGO AS MEDIDAS CAUTELARES anteriormente impostas e DECRETO A PRISÃO PREVENTIVA da pessoa de IGOR SILVA BARBOSA DE JESUS, já qualificado nos autos." (e-STJ, fls. 100-101).
+O Tribunal de origem se manifestou nos termos a seguir transcritos, no pertinente:
+" ..  Assim, necessária se faz a decretação da prisão preventiva do paciente, conforme acima fundamentado, pelo descumprimento das restrições que lhe foram impostas, bem como para o resguardo da ordem pública, tendo em vista que o acusado descumpriu decisão judicial, mudando de endereço sem comunicar o Juízo, demonstrando descaso com a ordem jurídica.
+Além disso, observa-se que a prisão é necessária para a aplicação da Lei Penal, posto que o paciente já descumpriu medidas cautelares impostas pela autoridade coatora, portanto, necessário se faz a decretação de sua prisão preventiva, pois desta forma estão preenchidos os requisitos dos artigos 312 e 313 do Código de Processo Penal.
+ ..
+Assim, a prisão cautelar está revestida de justa causa, lastreada em fatos concretos que justificam a medida extrema, fazendo constar que o paciente descumpriu as medidas protetivas, motivo que justifica a segregação cautelar para a garantia da ordem pública.
+No que tange ao pedido de aplicação das medidas cautelares diversas da prisão incluídas no Código de Processo Penal pela Lei Nº 12.403/11, verifico a impossibilidade de aplicação no caso ora em análise, uma vez que presentes indícios suficientes de autoria e prova da existência do crime, bem como sendo necessária a custódia preventiva para garantia da ordem pública, consubstanciando-se está na gravidade concreta do delito, em tese, perpetrado pelo paciente, restando, por conseguinte, imperiosa a manutenção da prisão preventiva." (e-STJ, fls. 154-157).
+No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública , pois a periculosidade social do recorrente está evidenciada pelo descumprimento das medidas cautelares diversas.
+Segundo consta do caderno processual, o recorrente, beneficiado pela liberdade provisória, não deu cumprimento as medidas cautelares diversas impostas, notadamente mudança de endereço sem comunicação ao juízo, o que justificou o restabelecimento da custódia cautelar.
+Nesse sentido, os seguintes julgados que respaldam esse entendimento:
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO. IMPOSSIBILIDADE. HOMICÍDIO TENTADO. REVOGAÇÃO DA LIBERDADE PROVISÓRIA. PRISÃO PREVENTIVA NOS TERMOS DO ART. 312, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. DESCUMPRIMENTO DAS MEDIDAS CAUTELARES IMPOSTAS. NECESSIDADE DE ACAUTELAMENTO DA ORDEM. DESPROPORCIONALIDADE DA MEDIDA EXTREMA. VIA INADEQUADA. CUSTÓDIA DEVIDAMENTE FUNDAMENTADA. COAÇÃO ILEGAL INEXISTENTE. WRIT NÃO CONHECIDO.
+ ..
+2. Não há o que se falar em constrangimento ilegal quando a negativa quando a custódia processual está devidamente justificada nos termos do art. 312, parágrafo único, do Código de Processo Penal.
+3. No caso, verifica-se que, não obstante o paciente tenha tido revogada a prisão preventiva, com imposição de medidas alternativas ao cárcere, descumpriu, injustificadamente, condição da liberdade provisória - proibição de ausentar-se da comarca sem prévia autorização do Juízo, devendo comunicar qualquer alteração de endereço -, o que constitui motivação idônea para nova decretação da medida extrema, diante da necessidade de se assegurar o cumprimento de eventual condenação.
+ ..
+5. Habeas corpus não conhecido."
+(HC 491.288/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/04/2019, DJe 10/05/2019, grifou-se).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO EM FLAGRANTE. DESCUMPRIMENTO DAS MEDIDAS CAUTELARES IMPOSTAS NA AUDIÊNCIA DE CUSTÓDIA. CITAÇÃO POR EDITAL. PRISÃO PREVENTIVA. RÉ FORAGIDA. PRODUÇÃO ANTECIPADA DE PROVAS. NULIDADE. INEXISTÊNCIA. ART. 366 DO CÓDIGO DE PROCESSO PENAL.
+ ..
+4. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+5. Na hipótese, a recorrente foi presa em flagrante, tendo-lhe sido concedida a liberdade provisória na audiência de custódia, mediante o cumprimento de medidas cautelares alternativas. No entanto, a acusada mudou-se para lugar incerto e não sabido, o que ensejou a citação por edital e a suspensão do processo. Tal o contexto, a prisão preventiva encontra-se justificada para assegurar a aplicação da lei penal e garantir a instrução criminal, em razão de a recorrente, mesmo com a inequívoca ciência da ação penal, ter descumprido as medidas cautelares então impostas e se encontrar foragida desde a concessão da liberdade provisória.
+6. Recurso ordinário desprovido."
+(RHC 97.893/RR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 19/12/2019, grifou-se).
+Saliente-se, ademais, que rever a conclusão a que chegaram as instâncias ordinárias, no sentido de o recorrente teria descumprido medidas cautelares anteriormente impostas - como pretende a defesa -, demandaria detido e profundo revolvimento fático-probatório, o que é inviável na via do recurso ordinário em habeas corpus.
+Nesse contexto, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do paciente indicam que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: AgRg no RHC n. 202.808/SC, Rel. Min. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024; AgRg no HC n. 936.089/SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 13/11/2024, DJe de 18/11/2024; AgRg no HC n. 938.480/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, DJe de 19/11/2024.
+Ademais, o fato de o acusado possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC n. 201.725/PR, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 12/11/2024, DJe de 19/11/2024; AgRg no HC n. 938.480/PE, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, DJe de 19/11/2024; AgRg no HC n. 946.395/MS, Rel. Min, Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.
+No tocante à alegada ausência de contemporaneidade, ao aventado excesso de prazo na formação da culpa e à ofensa ao art. 316, parágrafo único, do CPP, observa-se que o Tribunal de origem não analisou as questões, no julgamento do writ originário. Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. MATÉRIA DE ORDEM PÚBLICA. SUPRESSÃO DE INSTÂNCIA. DESPROVIMENTO DO RECURSO.
+1. Nos termos da jurisprudência vigente neste Superior Tribunal, a ausência de apreciação da matéria pelas instâncias ordinárias impede qualquer manifestação deste Sodalício, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Precedentes.
+2. Mantém-se a decisão singular pela qual se indeferiu liminarmente o habeas corpus.
+3. Em que pese a prescrição seja matéria de ordem pública, na hipótese, não é possível o seu reconhecimento, porquanto ausentes nos autos elementos suficientes a atestar eventuais marcos interruptivos.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 767.497/RJ, relator Ministro Jorge Mussi, Quinta Turma, julgado em 13/12/2022, DJe de 16/12/2022, grifou-se).
+"AGRAVO REGIMENTAL EMHABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. MODUS OPERANDI. AMEAÇAS A TESTEMUNHAS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERAS DA PRISÃO. IMPOSSIBILIDADE. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. EXAME DA CONTROVÉRSIA PER SALTUM. IMPOSSIBILIDADE. VEDADA A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+ ..
+3. A matéria relativa à falta de contemporaneidade não foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+4. "Não se pode confundir a possibilidade de concessão de ofício da ordem, isto é, sem prévia provocação por parte do interessado, com a concessão per saltum, que se verifica quando a matéria não foi sequer submetida à análise do Tribunal a quo e, por isso, é vedada pela jurisprudência pacífica desta Corte." (AgRg no HC n. 765.034/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/9/2022, DJe de 3/10/2022.) 5. Agravo regimental improvido."
+(AgRg no HC n. 757.164/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022, grifou-se).
+Ante o exposto, conheço parcialmente do recurso e, nesta parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
