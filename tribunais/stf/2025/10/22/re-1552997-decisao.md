@@ -1,0 +1,42 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, ementado nos seguintes termos:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. AGENTE PÚBLICO. LEI 8.429/1992. PERDA DA FUNÇÃO PÚBLICA. CASSAÇÃO DA APOSENTADORIA CONCEDIDA AO AGENTE ÍMPROBO. POSSIBILIDADE. DESDOBRAMENTO LÓGICO. RECURSO CONHECIDO E PROVIDO. DECISÃO REFORMADA.
+    1. Apenas é possível a imposição de sanções por improbidade administrativa se comprovado que o agente agiu de forma ilícita e consciente da violação de preceito da Administração Pública, motivado por má-fé, desonestidade ou falta de probidade e, em caso de prejuízo erário, ao menos com culpa grave.
+    2. Consoante entendimento do Superior Tribunal de Justiça, nas hipóteses em que a aposentadoria se dá antes do trânsito em julgado de sentença condenatória na ação de improbidade administrativa, a cassação da aposentadoria afigura-se perfeitamente cabível, por se tratar de decorrência lógica da condenação à pena de perda da função pública. Precedentes.
+    3. Ao contrário do afirmado na decisão agravada, nos autos do processo 2007.01.1.01.20462 APO, este relator proferiu julgamento no mesmo sentido, em que pese tendo proferido voto vencido, ao contrário do que tenta fazer crer o prolator da decisão agravada.
+    4. Recurso conhecido e provido. Decisão reformada.” (eDOC 6 – ID: fcb815e)
+
+É o relatório.
+Decido.
+O recurso não merece provimento.
+No caso,  a decisão agravada está em conformidade com o precedente desta Corte proferida no julgamento da ADPF 418, Rel. Min. Alexandre de Moraes, em que o Plenário assentou a constitucionalidade da aplicação da sanção de cassação de aposentadoria, julgando improcedente a arguição de descumprimento de preceito fundamental, diante da plena conformidade do art. 127, IV, e art. 134, ambos da Lei 8.112/1990, com os preceitos do devido processo legal substantivo (art. 5º, LIV, CF) e do princípio da moralidade (art. 37, caput, CF).
+Eis a ementa do paradigma indicado:
+
+“ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONSTITUCIONAL E ADMINISTRATIVO. ARTS. 127, IV, E 134 DA LEI 8.112/1990. PENALIDADE DISCIPLINAR DE CASSAÇÃO DE APOSENTADORIA OU DISPONIBILIDADE. EMENDAS CONSTITUCIONAIS 3/1993, 20/1998 E 41/2003. PENALIDADE QUE SE COMPATIBILIZA COM O CARÁTER CONTRIBUTIVO E SOLIDÁRIO DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES. PODER DISCIPLINAR DA ADMINISTRAÇÃO PÚBLICA. AÇÃO JULGADA IMPROCEDENTE.
+1. As Emendas Constitucionais 3/1993, 20/1998 e 41/2003 estabeleceram o caráter contributivo e o princípio da solidariedade para o financiamento do regime próprio de previdência dos servidores públicos. Sistemática que demanda atuação colaborativa entre o respectivo ente público, os servidores ativos, os servidores inativos e os pensionistas.
+2. A contribuição previdenciária paga pelo servidor público não é um direito representativo de uma relação sinalagmática entre a contribuição e eventual benefício previdenciário futuro.
+3. A aplicação da penalidade de cassação de aposentadoria ou disponibilidade é compatível com o caráter contributivo e solidário do regime próprio de previdência dos servidores públicos. Precedentes.
+4. A perda do cargo público foi prevista no texto constitucional como uma sanção que integra o poder disciplinar da Administração. É medida extrema aplicável ao servidor que apresentar conduta contrária aos princípios básicos e deveres funcionais que fundamentam a atuação da Administração Pública.
+5. A impossibilidade de aplicação de sanção administrativa a servidor aposentado, a quem a penalidade de cassação de aposentadoria se mostra como única sanção à disposição da Administração, resultaria em tratamento diverso entre servidores ativos e inativos, para o sancionamento dos mesmos ilícitos, em prejuízo do princípio isonômico e da moralidade administrativa, e representaria indevida restrição ao poder disciplinar da Administração em relação a servidores aposentados que cometeram faltas graves enquanto em atividade, favorecendo a impunidade.
+6. Arguição conhecida e julgada improcedente.” (ADPF 418, Rel. Min. Alexandre de Moraes; grifo nosso)
+
+Com efeito, o Plenário do Supremo Tribunal Federal, na sessão de 15.4.2020, destacou, em síntese, que mesmo considerando a promulgação das Emendas Constitucionais 3/1993, 20/1998 e 41/2003, a previsão de aplicação da penalidade de cassação de aposentadoria de servidor público não foi revogada pelo texto constitucional, principalmente no que diz respeito ao regime de previdência instituído pelo art. 40 da Constituição Federal.
+Além disso, a Corte consignou que a perda do cargo público foi prevista no texto constitucional como uma medida aplicável ao servidor que apresentar conduta contrária aos princípios básicos e deveres funcionais que fundamentam a atuação da Administração Pública, especialmente diante da prática de falta grave ou ato ilícito.
+Assim, ante a falta grave praticada pelo servidor ainda em atividade, constatada apenas após a sua aposentadoria, é cabível a penalidade de cassação da aposentadoria. Isso porque se o ato ilícito fosse conhecido à época de sua prática e fosse aplicada a pena de demissão, o servidor perderia o cargo e nem sequer teria direito à aposentadoria.
+Dessarte, esta Corte concluiu que o afastamento da punição de servidor aposentado, a quem a penalidade de cassação de aposentadoria é a única sanção à disposição da Administração, resulta em distinção de tratamento entre servidores ativos e inativos em relação à reprimenda dos mesmos ilícitos, atentando contra a isonomia e a moralidade administrativa. Por oportuno, destaco o seguinte trecho do referido julgado:
+
+“A diferença entre os institutos da demissão e da cassação de aposentadoria concentra-se na época em que for constatado o ato ensejador de punição com a perda do cargo. Isto é, se o servidor se encontrar em atividade, torna-se possível a aplicação da demissão; caso contrário, se já estiver aposentado, aplica-se a penalidade de cassação da aposentadoria. Cogitar-se de tratamento diverso, no caso, para servidores ativos e aposentados, implicaria, inclusive, a adoção de solução não isonômica e, portanto, inconstitucional. Representaria, além disso, indevida restrição ao poder disciplinar da Administração em relação a servidores aposentados que cometeram faltas graves enquanto em atividade, favorecendo a impunidade.” (eDOC 92, p. 18 da ADPF 418; grifo nosso)
+
+Vê-se, portanto, que esta Corte concluiu pela constitucionalidade da pena de cassação de aposentadoria, sendo igualmente consolidada a orientação quanto à possibilidade de conversão da penalidade de perda do cargo em cassação de aposentadoria em razão da prática de ato de improbidade administrativa.
+Nesse sentido, confira-se a ementa do acórdão prolatado pela Segunda Turma desta Corte, Rel. Min. Dias Toffoli, nos autos do RE 1.456.118 (DJe 5.3.2024), nos seguintes termos:
+
+“Agravo regimental em recurso extraordinário. Ação civil pública por ato de improbidade administrativa. Pena de perda do cargo público. Conversão em cassação de aposentadoria. Possibilidade. Precedentes. 1. É cabível a conversão da pena de perda de cargo público em cassação de aposentadoria na fase de cumprimento de sentença proferida em sede de ação civil pública por ato de improbidade administrativa. 2. É inviável, na instância recursal extraordinária, rediscutir matéria objeto de processo de conhecimento já transitado em julgado. 3. O acolhimento da pretensão recursal sobre a ausência de configuração de conduta ilícita com base na Lei nº 8.429/92 e a avaliação de eventual ausência de proporcionalidade e razoabilidade na sanção cominada demandam o reexame de fatos e provas e a prévia análise de legislação infraconstitucional, o que não se mostra cabível em sede de recurso extraordinário. 4. Agravo regimental não provido. 5. Não houve majoração da verba honorária, tendo em vista a ausência de sua fixação pela origem.” (grifo nosso)
+
+Assim, considerando a declaração de constitucionalidade da penalidade de cassação de aposentadoria e a possibilidade da conversão da pena de perda de cargo público em cassação de aposentadoria, entendo que o acórdão recorrido está em conformidade com a jurisprudência da Corte.
+Ante o exposto, nego provimento ao recurso extraordinário.
+Publique-se.
+Brasília, 22 de outubro de 2025.
+
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
