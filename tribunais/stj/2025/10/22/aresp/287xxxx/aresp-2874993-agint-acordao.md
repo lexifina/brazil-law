@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAM ENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, III, do CPC e do enunciado da Súmula 182/STJ (desrespeito ao princípio da dialeticidade recursal).
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DE ITAJAÍ contra a decisão da Presidência desta Corte Superior de fls. 681-682 (e-STJ), fundada na ausência de impugnação do inteiro teor da decisão de inadmissibilidade do recurso especial - não conhecimento do recurso.
+O recurso especial foi deduzido com base na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fl. 577):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DIREITO URBANÍSTICO. IMÓVEL SITUADO NO MUNICÍPIO DE ITAJAÍ. LOTEAMENTO CLANDESTINO PENDENTE DE REGULARIZAÇÃO PERANTE O ÓRGÃO MUNICIPAL. PARCELAMENTO DO SOLO EM DESACORDO COM A LEGISLAÇÃO. NECESSIDADE DE ADEQUAÇÃO. OMISSÃO MUNICIPAL CONSTATADA. RESPONSABILIDADE DO MUNICÍPIO. PODER-DEVER DE REGULARIZAÇÃO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INEXISTÊNCIA DE VIOLAÇÃO. PRAZO ESTABELECIDO RAZOÁVEL. MUNICÍPIO CIENTE DAS IRREGULARIDADES DESDE O ANO DE 2008. MULTA COMINATÓRIA POSSÍVEL. VALOR READEQUADO. RECURSO PARCIALMENTE PROVIDO PARA ESSE FIM.
+No recurso especial, o insurgente apontou violação dos arts. 18, V, e 40 da Lei n. 6.766/1979; e 22 da LINDB.
+Informou que o caso tratou da responsabilidade do Município pela regularização do loteamento Bertholdo Michels, considerado clandestino, e da imposição de obrigações para sanar irregularidades urbanísticas e ambientais. A controvérsia central residiu na interpretação das normas que regulam o parcelamento do solo urbano e na análise da atuação do Poder Judiciário em políticas públicas municipais.
+Esclareceu que se opôs ao acórdão por dar provimento parcial a seu recurso de apelação, apenas para reduzir o valor da multa diária de R$ 20.000,00 (vinte mil reais) para R$ 5.000,00 (cinco mil reais), mantendo, no mais, a sentença proferida na ação civil pública.
+Defendeu equívoco no julgamento, porquanto foi imposta obrigação ao demandante de regularizar loteamento clandestino, contrariando a faculdade prevista no art. 40 da Lei n. 6.766/1979, que utiliza o termo "poderá", indicando discricionariedade.
+Reforçou que o aresto desconsiderou os obstáculos e dificuldades reais do gestor público e as exigências das políticas públicas, conforme previsto no art. 22 da LINDB. Nesse sentido, asseverou que o julgamento interfere no planejamento urbano e na alocação de recursos do Município, violando os princípios da separação de poderes, discricionariedade administrativa e a cláusula da reserva do possível.
+Ponderou que a responsabilidade do insurgente pela regularização de loteamentos clandestinos é subsidiária, devendo ser precedida de cobrança ao loteador, conforme entendimento do STJ.
+Requereu a suspensão da multa diária de R$ 5.000,00 (cinco mil reais) imposta ao Município até o julgamento do recurso; bem como aduziu que seu valor é desarrazoado e inexequível, considerando o curto prazo de 6 (seis) meses para cumprimento das obrigações impostas. Requereu o provimento do recurso especial (e-STJ, fls. 584-612).
+Obstado seguimento ao recurso especial, foi protocolado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 681-682 (e-STJ), negando-se conhecimento ao agravo em recurso especial.
+Questionando essa manifestação, interpõe a parte insurgente agravo interno. Reforça a argumentação constante na petição de recurso especial acima sumariada.
+Frisa que atacou todos os fundamentos da decisão de inadmissibilidade do apelo especial, inclusive a aplicação da Súmula 83/STJ. Pugna pelo provimento do recurso (e-STJ, fls. 690-700).
+Contraminuta apresentada (e-STJ, fl. 711).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAM ENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se conhece de agravo em recurso especial que não tenha impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, nos termos do art. 932, III, do CPC e do enunciado da Súmula 182/STJ (desrespeito ao princípio da dialeticidade recursal).
+2. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Mediante análise dos autos, verifica-se que a decisão então agravada inadmitiu o recurso especial, considerando a incidência das Súmulas 83 e 126/STJ.
+Entretanto, a municipalidade deixou de impugnar objetivamente, ou seja, de forma direta e precisa, o uso do óbice sumular n. 83 deste Tribunal de uniformização para não conhecer da pretensão recursal. Às fls. 651-652 (e-STJ) do agravo, até tentou-se questionar a observância da citada súmula, contudo a referência a ela é vaga, meramente protocolar, o que não atende aos requisitos legais.
+Cabe à parte insurgente, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo que "a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ" (AgInt no AREsp n. 2.067.588/SP, rel. Min. Herman Benjamin, Segunda Turma DJe de 20/8/2024).
+Nessa linha, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da manifestação recorrida, conforme o art. 932, III, do CPC e, por analogia, a Súmula n. 182/STJ - desrespeito ao princípio da dialeticidade recursal.
+A propósito, confiram-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido
+(AgInt no REsp n. 2.115.852/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 16/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E SÚMULA 182/STJ. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Trata-se de Agravo Interno contra decisão que entendeu não impugnada a Súmula 280 do STF.
+2. O Agravo que objetiva conferir trânsito ao Recurso Especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e no art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficientes alegações genéricas de não aplicabilidade do óbice invocado.
+3. O Superior Tribunal de Justiça, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do mesmo Código de Ritos), firmou o entendimento de que tal dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de Recurso já interposto.
+4. As razões do Agravo Interno não refutam os fundamentos da decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça. Incide, novamente, a Súmula 182/STJ.
+5. Os Recursos devem ser bem fundamentados, sendo imprescindível a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos dos arts. 932, III, e 1021, § 1º, do Código de Processo Civil de 2015.
+6. Agravo Interno não conhecido.
+(AgInt no AREsp n. 2.503.688/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, a ausência de impugnação específica de todos os fundamentos da decisão de inadmissibilidade do recurso especial impõe o não conhecimento do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ, art. 932, III, do CPC/2015 e Súmula 182/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.103.457/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Além disso, cumpre ressaltar que, quando o inconformismo excepcional não é admitido com fundamento no enunciado da Súmula n. 83/STJ, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte, o que não se verifica no presente caso.
+Vejam-se (sem grifos no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do STJ, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.387.034/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/9/2024, DJe de 26/9/2024 - sem grifo no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se de agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial em virtude da ausência de impugnação ao óbice da Súmula n. 83/STJ, aplicada na decisão que inadmitiu o apelo nobre na origem.
+2. A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese.
+3. Considerando que cabe ao agravante rebater todos os fundamentos de forma exauriente, de modo a cumprir os ditames do artigo 932, inciso III, do CPC/2015, a ausência de impugnação específica e suficientemente fundamentada impede o conhecimento do agravo em recurso especial.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023 - sem grifo no original)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
