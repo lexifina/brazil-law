@@ -1,0 +1,46 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, confirmando decisão singular pela qual se conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+O julgado recorrido recebeu a seguinte ementa (fl. 581):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DEVER DO CEDENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. Para rever o entendimento firmado pelas instâncias ordinárias, acerca do dever do cedente de pagar à cessionária a quantia constante nos créditos cedidos, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 609-611 e 635-637).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, II, XXXVI, 93, IX, e 170, caput, da Constituição Federal.
+Nesse sentido, argumenta que o aresto recorrido não prestou devidamente a jurisdição ao aplicar de forma genérica a Súmula n. 7/STJ, entendendo que a controvérsia se restringia ao exame de provas.
+Afirma que a cessão de crédito formalmente constituído ocorreu em 2007, de forma que a redução do precatório no ano de 2016 e a homologação em 2021 não podem retroagir para responsabilizar o cedente, sob pena de violação ao ato jurídico perfeito e à segurança jurídica.
+Ressalta que esta Corte Superior, ao impor ao cedente a responsabilidade por eventos posteriores e alheios à cessão, distorce a essência do negócio jurídico, viola o núcleo constitucional da livre iniciativa e compromete a segurança do mercado de cessões de créditos.
+Aduz que a condenação imposta partiu do valor nominal constante das escrituras públicas, tomadas como se fossem prova de desembolso. Ocorre que, juridicamente, a escritura de cessão apenas formaliza a transferência do crédito, mas não constitui recibo ou documento hábil a comprovar o pagamento.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 585-586):
+ ..
+No mais, o tribunal de origem entendeu pelo dever do cedente de pagar os créditos cedidos, nos seguintes termos:
+"(..) Na hipótese, as escrituras públicas de IDs 55715016/55715017 comprovam que o apelante cedeu à apelada créditos no importe de R$ 70.000,00 e R$ 135.000,00, oriundos de duas frações do Precatório nº 2003.00.2.005988-1, cujo valor total era de R$ 7.065.873,47. Contudo, o valor do precatório foi retificado e reduzido para R$ 2.351.957,47, conforme sentença proferida nos autos n. 0005988- 31.2003.8.07.0000 (ID 55715018), do que resultou a ausência de crédito suficiente para saldar o valor relacionado à cessão.
+Acerca da responsabilidade do cedente, dispõe o art. 295 do Código Civil, que "na cessão por título oneroso, o cedente, ainda que não se responsabilize, fica responsável ao cessionário pela existência do crédito ao tempo em que lhe cedeu; a mesma responsabilidade lhe cabe nas cessões por título gratuito, se tiver procedido de má-fé".
+Com efeito, na cessão voluntária, embora, em regra, o cedente não se responsabilize pela solvência do devedor, responde necessariamente pela existência de crédito ao tempo da cessão, pois se não existir o crédito cedido, terá recebido valor ou coisa sem causa, o que terá como consequência a obrigação de restituir, fundada na vedação ao enriquecimento sem causa.
+Portanto, diante da constatação da inexistência do crédito, resta evidente o dever do cedente de pagar à cessionária a quantia constante nos créditos cedidos.
+(..)" (e-STJ fls. 434/435).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, acerca do dever do cedente de pagar à cessionária a quantia constante nos créditos cedidos, seria necessário o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
