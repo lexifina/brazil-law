@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL) contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, apresentado na Apelação Cível n. 5000158-54.2024.4.04.9999/RS, cuja ementa se transcreve a seguir (fl. 367):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO PROVIDOS. EFEITOS INFRINGENTES. PRESCRIÇÃO MATERIAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O juízo de origem reconheceu que entre o lançamento do crédito tributário e a citação da apelada transcorreram mais de 5 anos. Como a ação foi ajuizada antes de 2005, reconheceu-se que o próprio crédito tributário foi fulminado pela prescrição, nos termos do art. 174 do CTN. Portanto, não se trata do reconhecimento da prescrição intercorrente, que autorizaria a aplicação do entendimento firmado no Tema 1229/STJ. Desse modo, os honorários advocatícios fixados na sentença permanecem devidos, razão pela qual a apelação da União deve ser desprovida.
+2. Embargos de declaração providos, com efeitos infringentes. (fl. 367)
+A recorrida opôs embargos de declaração às fls. 355-360, os quais foram acolhidos pela Corte de origem, com efeitos infringentes, para reconhecer que a sentença extinguiu a execução fiscal por prescrição material (art. 174 do Código Tributário Nacional), e não por prescrição intercorrente, afastando a aplicação do Tema n. 1.229/STJ e mantendo a condenação da União ao pagamento de honorários advocatícios, razão pela qual negou provimento à apelação da Fazenda Nacional. Veja-se a ementa (fls. 351-354):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. TEMA 1229/STJ.
+I. Caso em Exame.
+1. Apelação interposta em face de sentença que julgou extinta a execução fiscal pela prescrição intercorrente, condenanado a União Federal ao pagamento de honorários advocatícios.
+II. Questão em Discussão.
+2. Discute-se o cabimento da fixação de honorários advocatícios quando a exceção de pré- executividade é acolhida para extinguir a execução fiscal em razão do reconhecimento da prescrição intercorrente.
+III. Razões de decidir.
+3. Segundo o Tema 1229 do STJ, "à luz do princípio da causalidade, não cabe fixação de honorários advocatícios quando a exceção de pré-executividade é acolhida para extinguir a execução fiscal em razão do reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980".
+IV. Dispositivo.
+4. Apelação provida.
+Dispositivos relevantes citados: CPC, art. 85; Tema 1229/STJ.
+A União opôs embargos de declaração, os quais foram rejeitados (fls. 364-367).
+Irresignada, a União interpôs Recurso Especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, alegando violação dos arts. 1.022, inciso II e parágrafo único, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil; e ofensa aos arts. 19, inciso II, § 1º, inciso I, da Lei n. 10.522/2002, e 90, § 4º, do Código de Processo Civil. Sustenta que houve omissão no acórdão quanto ao reconhecimento expresso do pedido e ao cancelamento da Certidão de Dívida Ativa (CDA), o que imporia o afastamento dos honorários pela Lei n. 10.522/2002 ou, subsidiariamente, a redução pela metade com base no art. 90, § 4º, do CPC (fls. 398-407).
+A parte recorrida apresentou contrarrazões às fls. 409-431.
+O apelo foi admitido na Corte de origem (fl. 432).
+É o relatório.
+Decido.
+O Tribunal de origem, em sede de embargos de declaração, negou provimento à apelação da União nos seguintes termos (fl. 365 - grifo nosso):
+O juízo de origem reconheceu que entre o lançamento do crédito tributário e a citação da apelada transcorreram mais de 5 anos. Como a ação foi ajuizada antes de 2005, reconheceu que o próprio crédito tributário foi fulminado pela prescrição, do que se conclui que a sentença reconheceu a prescrição material prevista no art. 174 do CTN, e não intercorrente.
+Note-se que a prescrição intercorrente ocorre no curso da execução fiscal quando interrompido o prazo prescricional, o que não se caracterizou no caso concreto, já que a citação ocorreu quando o crédito já estava prescrito. Conforme já decidiu o STJ, "a prescrição intercorrente é aquela que diz respeito ao reinício da contagem do prazo extintivo após ter sido interrompido" (STJ, AgRg no R Esp 1.372.592, 2013).
+Desse modo, os honorários advocatícios fixados na sentença permanecem devidos, não se aplicando o Tema 1229/STJ à hipótese dos autos.
+Em consequência, os embargos de declaração restam providos, com efeitos infringentes, para negar provimento à apelação da União.
+A União opôs embargos de declaração com o objetivo de provocar manifestação expressa acerca do reconhecimento da procedência do pedido e do cancelamento da Certidão de Dívida Ativa, pleiteando o afastamento da condenação em honorários com base no art. 19, inciso II, § 1º, inciso I, da Lei n. 10.522/2002.
+Contudo, ao apreciar os aclaratórios, a Corte de origem limitou-se a afirmar, de modo genérico, que "a decisão embargada encontra-se devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos da causa" (fl. 394), sem enfrentar, de forma específica e fundamentada, a tese jurídica suscitada pelo recorrente.
+A apreciação dos embargos da União é essencial para verificar possível omissão do acórdão quanto ao reconhecimento do pedido e ao cancelamento da CDA, com reflexos diretos na sucumbência.
+O exame atento do art. 105, inciso III, da Constituição Federal, que disciplina o recurso especial, evidencia competir ao Superior Tribunal de Justiça a apreciação de "causas decididas" pelos tribunais estaduais, o que pressupõe prévio pronunciamento por parte da instância ordinária acerca da tese jurídica invocada, sob pena de incidência do óbice da Súmula n. 211 do STJ, bem como das Súmulas n. 282 e 356 do STF.
+Nessa linha de raciocínio, se o acórdão combatido é omisso quanto a fundamento relevante para o deslinde da controvérsia, e persiste nesse vício mesmo após a oposição de embargos de declaração, deve-se reconhecer a violação do art. 1.022 do CPC/2015, viabilizando a atuação desta Corte com o fim de determinar o retorno dos autos à origem para suprimento da omissão.
+Na hipótese dos autos, a alegação recursal  relativa ao afastamento da condenação em honorários em decorrência do 19, inciso II, § 1º, inciso I, da Lei n. 10.522/2002  foi devidamente suscitada na primeira oportunidade e reiterada nos embargos de declaração. Não havendo outro fundamento autônomo e suficiente no acórdão para afastar a aplicação da referida norma legal, impõe-se o acolhimento da preliminar de violação do art. 1.022, inciso II, do CPC/2015.
+Consoante a jurisprudência consolidada desta Corte Superior, a negativa de prestação jurisdicional configura-se quando o tribunal de origem, mesmo instado por meio de embargos de declaração, deixa de apreciar tese relevante e essencial ao deslinde da controvérsia, fundamentadamente suscitada pela parte.
+Com idêntica conclusão, trago à colação os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. Caracteriza-se a violação dos arts. 489 e 1.022 do CPC/2015 quando, por deficiência de fundamentação no acórdão ou por omissão da Corte a quo quanto aos temas relevantes no recurso, o órgão julgador deixa de apresentar, de forma clara e coerente, fundamentação adequada e suficiente à conclusão do acórdão embargado.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.623.348/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/4/2021, DJe de 12/5/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. NOVO EXAME DO FEITO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA O DESLINDE DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. Fica configurada ofensa ao art. 1.022 do do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado em sede de embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.443.637/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 11/10/2019.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E RECONVENÇÃO. HONORÁRIOS SUCUMBENCIAIS. DISTRIBUIÇÃO. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, IV, E 1.022, I E II, DO CPC/2015. QUESTÕES RELEVANTES, EM TESE, À SOLUÇÃO DA CONTROVÉRSIA, OPORTUNAMENTE SUSCITADA NOS EMBARGOS DE DECLARAÇÃO, OPOSTOS NA ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO E RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência desta Corte, ocorre violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015 quando o Tribunal de origem deixa de enfrentar questões relevantes ao julgamento da causa, suscitadas pela parte recorrente. Adotando tal orientação: STJ, AgInt no AREsp 1.377.683/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 01/10/2020; REsp 1.915.277/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/04/2021.
+III. No caso, embora o Tribunal a quo tenha sido instado no Apelo, inclusive mediante Embargos de De claração, a se pronunciar sobre questões relevantes ao deslinde da controvérsia, quedou-se silente aquele Sodalício sobre tais matérias, que se revelam relevantes e podem conduzir à modificação do entendimento perfilhado pela Corte de origem.
+IV. Nesse contexto, impõe-se a confirmação da decisão que, em face da reconhecida violação aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, conheceu do Agravo em Recurso Especial e deu provimento ao Recurso Especial, a fim de anular o acórdão que julgou os Embargos Declaratórios, determinando o retorno dos autos à origem, para novo julgamento, sanando-se as omissões indicadas.
+V. Agravo interno improvido.
+(AgInt no AgInt no AREsp n. 1.810.873/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+É cediço que o Tribunal não está obrigado a rebater, um a um, todos os argumentos das partes. No entanto, é imprescindível que enfrente, de forma clara e fundamentada, os pontos jurídicos relevantes, sobretudo quando capazes de infirmar a ratio decidendi adotada, sob pena de nulidade por negativa de prestação jurisdicional.
+Nesse contexto, impõe-se reconhecer a omissão existente no acórdão proferido no julgamento dos embargos de declaração, determinando-se seu refazimento pelo Tribunal de origem, com o necessário enfrentamento da tese jurídica suscitada, sem prejuízo da manutenção do entendimento anteriormente adotado, desde que de forma motivada.
+Com a anulação do julgamento dos embargos de declaração, fica prejudicada a apreciação dos demais temas recursais veiculados neste recurso especial, ficando ressalvada à parte recorrente a possibilidade de renovação de sua insurgência, caso persista interesse, após novo pronunciamento da Corte de origem.
+Ante o exposto, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, a fim de anular o acórdão proferido no julgamento dos embargos de declaração, determinando o retorno dos autos à origem para que outro seja proferido, com expressa manifestação quanto à tese jur ídica apontada como omitida. Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ARTS. 489, § 1º, INCISO IV, E 1.022, INCISO II, DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO CONFIGURADA. TESE JURÍDICA NÃO APRECIADA. NECESSIDADE DE ENFRENTAMENTO PELO TRIBUNAL DE ORIGEM. RETORNO DOS AUTOS. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
