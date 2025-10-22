@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por ALECIO DOS SANTOS ROSSATTI e ELIANE FERNANDA PEREIRA ROSSATTI contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ, ausência de violação a dispositivo legal e falta do devido cotejo analítico (fls. 842/845).
+O acórdão recorrido encontra-se assim ementado (fl. 594):
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL Rescisão contratual Inadimplemento do comprador Majoração da taxa de retenção para 20% dos valores pagos Valor atualizado do contrato deve ser utilizado como base de cálculo, sob pena de enriquecimento sem causa se observado o valor atual do imóvel - Irregularidade das construções que não afeta a indenização pelas benfeitorias Devolução de forma imediata e em uma única parcela Inteligência do art. 53, CDC e Súmula 2, TJSP - Não cabimento da perda das arras, por ausência de previsão contratual - Incidência de juros de mora a partir do trânsito em julgado, conforme tese fixada pelo STJ, em sede de Recurso Repetitivo (Tema 1002) Inversão da sucumbência - Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 792/794).
+Nas razões do recurso especial (fls. 702/736), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+i .arts. 413 e 884 do CC e 6º, V, 39, V, e 51, IV, § 1º, III, do CDC, pois "a retenção de parte dos valores pagos mais a taxa de fruição arbitrada representará uma dedução excessiva, e mais, com evidente descompasso quando comparado com as bases de cálculos e juros moratórios aplicados na restituição aos Recorrentes dos valores pagos e indenização pelas benfeitorias" (fl. 718);
+ii. art. 85, § 11, e 86 do CPC, por ter havido sucumbência recíproca na espécie, não reconhecida pelo acórdão recorrido, não tendo sido aplicada em favor da parte agravante a majoração dos honorários recursais.
+No agravo (fls. 881/889), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 900/907).
+É o relatório.
+Decido.
+Com relação à alegada violação dos arts. 413 e 884 do CC e 6º, V, 39, V, e 51, IV, § 1º, III, do CDC, observa-se que o Tribunal de origem, debruçado sobre os elementos fático-probatórios da causa, deu solução à controvérsia considerando razoável a retenção de parcelas em 20% (vinte por cento) dos valores pagos pela parte agravante, bem como devida, igualmente, taxa pela fruição do bem.
+Diz o acórdão, com efeito (fl. 595/5966):
+A pretensão da apelante de retenção de 25% dos valores é excessivamente onerosa e configura enriquecimento indevido de uma parte em detrimento da outra, o que viola frontalmente o Código de Defesa do Consumidor.
+Assim, para que sejam reparados adequadamente os prejuízos sofridos, afigura-se razoável, na hipótese, que a retenção se dê no patamar de 20% (dez por cento) dos valores pagos. Este percentual é adequado a indenizar parte dos danos sofridos pela autora, bem como todas as despesas administrativas, observando-se que, das 235 prestações avençadas, os adquirentes efetuaram o pagamento de apenas 72.
+A taxa de fruição, por sua vez, deve mesmo ser calculada sobre o valor atualizado do contrato.
+Certo que os imóveis adquiridos tratam-se de lotes de terreno, sobre os quais os adquirentes erigiram edificação, o que, evidentemente, elevou o valor dos imóveis como um todo, conforme atestado pela perícia.
+Logo, a base de cálculo deve ser o valor dos imóveis constante nos contratos, devidamente atualizados, tendo em vista que serve para indenizar a autora pelo tempo de fruição do imóvel durante o período de inadimplência, e que se calculada sobre o valor atual do imóvel ensejaria o enriquecimento ilícito.
+Modificar o entendimento do acórdão impugnado, da forma pretendida pelos recorrentes, para se concluir pela onerosidade excessiva da retenção de parcelas e da taxa de fruição estabelecidas, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Com relação à violação do art. 86 do CPC, observa-se que o acórdão recorrido, ao prover parcialmente o recurso de apelação da parte agravada, assim discorreu quanto aos honorários sucumbenciais (fl. 601):
+Caracterizada a mínima a sucumbência da autora, deverão os réus arcar com as custas e despesas processuais, além de honorários advocatícios de 15% sobre o valor da condenação.
+Para concluir de maneira diferente do acórdão recorrido, tal como pretendido pelos recorrentes, no sentido da ocorrência de sucumbência recíproca na espécie, seria inevitável o revolvimento de todo o arcabouço fático-probatório da causa, o que é inviável em recurso especial nos termos da Súmula n. 7/STJ.
+Quanto à violação do art. 85, § 11, do CPC, afere-se do excerto acima transcrito que o acórdão recorrido nada dispôs acerca da tese veiculada pelos agravantes, de incidência, no caso concreto, desse dispositivo legal, mas a matéria não foi veiculada nos embargos declaratórios opostos pela parte agravante, o que seria imprescindível para se obter a superação de eventual omissão do julgado.
+Está caracterizada, assim, a inovação recursal e a deficiência de prequestionamento, incidindo, no ponto, a Súmula n. 211/STJ.
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas. Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n. 284/STF.
+Além disso, o recurso também não pode ser admitido pela alínea "c" pois, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 181.234 5/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
