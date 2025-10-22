@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. CONDENAÇÃO FIRMADA EM PROVAS ROBUSTAS E INDEPENDENTES DA AUTORIA.
+1. Diante de tal conjuntura fático-processual, não há como acolher o pleito absolutório, pois o reconhecimento do paciente em solo policial, ainda que eventualmente não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que lastreou a condenação, não havendo, assim, falar em nulidade das provas.
+2. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em nome de JEFERSON DA SILVA, condenado pela prática de crime de roubo majorado, previsto no art. 157, §§ 2º, II e V, e 2º-A, I, do Código Penal, à pena de 13 anos, 4 meses e 2 dias de reclusão, e 50 dias-multa.
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, que, em 20/10/2022, deu parcial provimento ao recurso de apelação interposto pelo paciente, reconhecendo a continuidade delitiva e corrigindo erros materiais na dosimetria da pena (Acórdão - fls. 17/33).
+Neste writ, a defesa alega, em síntese, a existência de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de provas suficientes para a comprovação da autoria delitiva.
+Requer a absolvição do paciente por ausência de provas válidas e suficientes para a condenação (fls. 3/13).
+As informações foram prestadas às fls. 42/111.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 117/127).
+É o relatório.
+EMENTA
+HABEAS CORPUS. ROUBO. PLEITO DE ABSOLVIÇÃO POR VÍCIO NO RECONHECIMENTO E FRAGILIDADE PROBATÓRIA. CONDENAÇÃO FIRMADA EM PROVAS ROBUSTAS E INDEPENDENTES DA AUTORIA.
+1. Diante de tal conjuntura fático-processual, não há como acolher o pleito absolutório, pois o reconhecimento do paciente em solo policial, ainda que eventualmente não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que lastreou a condenação, não havendo, assim, falar em nulidade das provas.
+2. Ordem denegada.
+VOTO
+Conforme acima relatado, alega a defesa não haver provas suficientes para a condenação do paciente, aduzindo que o reconhecimento feito em solo policial não observou os ditames do art. 226 do Código de Processo Penal.
+Todavia, ao contrário do que sustenta a defesa, a prova da autoria decorreu de provas robustas e independentes, conforme se verifica da fundamentação lançada pelo acórdão atacado que manteve a condenação do réu (fls. 26/27):
+É o caso dos autos, pois, não obstante a defesa repute frágil o reconhecimento realizado na delegacia, nota-se que a condenação está amparada em outros elementos, notadamente na palavra das vítimas e nos depoimentos dos policiais militares que participaram das diligências, além da apreensão de parte da res furtiva na posse direta dos agentes e da localização dele nas proximidades do veículo subtraído do ofendido do fato 2.
+E as demais alegações da defesa acerca do reconhecimento não alteram essa conclusão.
+No que tange ao fato de que o ofendido Carlos, vítima do fato 1, inicialmente não teria reconhecido, com segurança, os acusados e de que foi necessário trajar o recorrente Jefferson com roupas que não eram dele, efetivamente observa-se tal cenário. Porém, isso não macula o conjunto probatório, porquanto o ofendido Igor, vítima do fato 2, reconheceu, de forma deveras segura, ambos os apelantes como autores do delito, inclusive esclarecendo que nem mesmo foi necessário caracterizá-los com vestimentas semelhantes àquelas que usavam no momento dos fatos, de modo que facilmente identificou os agentes.
+Por essa mesma razão, a circunstância de que as vítimas supostamente estavam juntas no momento do reconhecimento igualmente não acarreta na irregularidade da diligência, já que, embora o ofendido Carlos tenha dado a entender que ficou mais convicto a partir da segurança com que o ofendido Igor reconheceu os acusados, não se verifica o mesmo em relação a esse último.
+Ou seja, não se trata de hipótese em que os ofendidos se influenciaram mutuamente a reconhecer os agentes, mas que apenas um deles (Carlos), menos seguro, amparou sua convicção a partir do reconhecimento realizado pelo outro (Igor).
+Isso também não implica na necessidade de absolver os recorrentes pelo fato 1, uma vez que, apesar da sensível hesitação do respectivo ofendido (Carlos) em reconhecer os apelantes, ele não teve dúvida em apontar que tinha certeza que os agentes que lhe abordaram foram os mesmos que, instantes depois e em local próximo, subtraíram o veículo do ofendido do fato 2 (Igor), ressaltando-se, mais uma vez, que este foi bastante categórico ao afirmar, inclusive sob o crivo do contraditório, de que não teve dúvidas ao reconhecer os suspeitos.
+Com efeito, muito embora não seja possível concluir que os reconhecimentos efetuados na fase policial seguiram a risca as formalidades do art. 226 do CPP, reafirma-se que isso não acarreta na mácula sustentada pela defesa, mormente porque referida diligência não foi o único elemento a amparar a condenação.
+A propósito, verifica-se que o Juízo a quo efetuou análise judiciosa do conjunto probatório, motivo pelo qual se adota a fundamentação da sentença como razão de decidir, providência autorizada pelo entendimento pacificado do Superior Tribunal de Justiça (HC 247.708/SP, Quinta Turma, Rel. MM. Ribeiro Dantas, j. em 19-4-2018, v. u. e RHC 95.278/PA, Sexta Turma, Rel. MM. Antônio Saldanha Palheiro, j. em 19-4-2018, v. u.) - grifos no original:
+(..)
+Pelo que se extrai dos autos, além do reconhecimento fotográfico e pessoal realizado em solo policial e da descrição das condutas pelas vítima, houve, logo após o crime, a localização dos agentes nas proximidades do veículo subtraído e a apreensão com eles de parte da res furtiva.
+Dessa forma, diante de tal conjuntura fático-processual, não há como acolher o pleito absolutório, pois o reconhecimento do paciente em solo policial, ainda que eventualmente não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que lastreou a condenação, não havendo, assim, falar em nulidade das provas.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça: AgRg no HC n. 763.779/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/12/2022; AgRg no HC n. 797.738/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023; e AgRg nos EDcl no HC n. 711.647/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/3/2022.
+Assim, demonstrada fundamentadamente pelas instâncias a quo a autoria delitiva, rever tal conclusão reclamaria ampla incursão no acervo fático-probatório, inviável nesta via.
+Por fim, quanto ao pleito de transferência do local de cumprimento de pena do paciente para o presídio mais próximo de sua família (fl. 9), tal pedido deve ser feito, inicialmente, junto ao juízo de execuções penais responsável pela execução e fiscalização da pena do paciente.
+Ante o exposto, denego a ordem de habeas corpus.
