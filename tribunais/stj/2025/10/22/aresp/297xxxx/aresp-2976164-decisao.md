@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo interposto por ALAN FRANKLIN SILVA DE ANDRADE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 739):
+DIREITO CIVIL E CONSUMIDOR. APELAÇÃO. AÇÃO DE CONHECIMENTO. CONTRATO DE MÚTUO BANCÁRIO. AUTORIZAÇÃO DE DESCONTO EM CONTA-CORRENTE. HIGIDEZ CONTRATUAL. RECURSO PARCIALMENTE CONHECIDO E PROVIDO.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que julgou parcialmente procedentes os pedidos, determinou o cancelamento da autorização de desconto em conta-corrente e condenou a ré à restituição dos valores debitados desde a notificação extrajudicial.
+II. QUESTÃO EM DISCUSSÃO
+2. As questões em discussão consistem em definir: (i) se o recurso viola o princípio da dialeticidade; (ii) se deve ser concedido efeito suspensivo ao recurso; (iii) se houve indevida juntada de documento novo na fase recursal; (iv) se é devida a revogação da autorização dos descontos em conta-corrente; e (v) se o apelante deve ser condenado por litigância de má-fé.
+III. RAZÕES DE DECIDIR
+3. Se, da leitura das razões recursais, é possível compreender com clareza o objeto do apelo, que pretende demonstrar a higidez da operação bancária, especialmente a autorização para desconto em conta-corrente, inexiste afronta ao princípio da dialeticidade. Preliminar rejeitada. 4. O pedido de atribuição de efeito suspensivo formulado na própria petição de interposição do apelo não deve ser conhecido, em razão da inadequação da via, conforme o art. 1.012, § 3º, do CPC e o art. 251, II e § 2º, do RITJDFT. Recurso parcialmente conhecido.
+5. Os documentos juntados pelo apelante após a sentença são os mesmos apresentados com a contestação. Por conseguinte, não há falar em sua exclusão, haja vista não se enquadrar na categoria de documentos novos (art. 283, parágrafo único, e art. 435, , do CPC). caput Preliminar rejeitada.
+6. O c. STJ, no julgamento do Tema n. 1.085, realizado em 9/3/2022 sob a sistemática dos Recursos Especiais Repetitivos, firmou o entendimento de ser lícita a realização de descontos, por parte das instituições financeiras mutuantes, diretamente da conta-corrente do consumidor mutuário, de valores suficientes para a satisfação dos créditos contratados, desde que haja expressa autorização do correntista e enquanto perdurar a referida autorização.
+7. A prerrogativa de revogar autorização para débitos em conta-corrente, conferida pelo art. 6º da Resolução n. 4.790/20 do Banco Central, não se apresenta como potestade em favor do consumidor, devendo ser exercida em compatibilidade com os demais legítimos interesses perpassados na relação jurídica e com a função social do contrato.
+8. A revogação da autorização de descontos deve operar apenas em face de contratos futuros, isto é, em relação a créditos contratados após o cancelamento da autorização, nada prejudicando os contratos celebrados em momento anterior, com descontos já realizados sob o pálio da força normativa dos contratos. Atribuir efeitos retroativos ao cancelamento implica legitimar conduta contrária à boa-fé objetiva por parte do consumidor consistente em desfazer, unilateralmente, autorização concedida de forma livre, voluntária e informada em prejuízo da contratada e da sociedade. Implica também admitir indevida intervenção do Poder Judiciário em relação legitimamente celebrada entre partes maiores e capazes, com potencial a ser executada integralmente, o que não é função do Estado.
+9. Se o contrato de crédito com autorização para débito em conta-corrente discutido nos autos foi celebrado em momento prévio ao pedido de revogação, não há falar em direito do autor em cancelar as autorizações dadas nos referidos ajustes.
+10. Os descontos empreendidos pela instituição financeira ré na conta-corrente de titularidade do autor são legítimos, na medida em que amparados em autorização livre, válida e informada dada em momento anterior ao pedido de revogação, e, por isso, podem continuar ocorrendo, conforme orientação do c. STJ no julgamento do Tema n. 1.085.
+11. A litigância de má-fé, conforme os arts. 79 e 80 do CPC, exige prova do dolo processual. Sem comprovação das condutas do art. 80 do CPC, não cabe multar o apelante por má-fé, sobretudo quando seu recurso é provido, condição suficiente para afastar o alegado intuito manifestamente protelatório.
+IV. DISPOSITIVO
+12. Recurso parcialmente conhecido e, na parte conhecida, provido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 927, inciso VI, § 1º, e 547, § 1º, inciso VI, ambos do CPC e 6º da Resolução 4.790/2020, do Banco Central do Brasil, ao passo que alega violação do Tema 1.085/STJ.
+Sustenta, em síntese, que o banco recorrido teria ignorado pedido administrativo de cancelamento dos descontos em conta-corrente, violando o direito assegurado pelo regulador bancário (fls. 775-776, 780-783).
+Afirma que o acórdão recorrido teria desconsiderado a expressão "enquanto esta autorização perdurar" prevista no Tema 1.085/STJ, impedindo o cancelamento mesmo após revogação pelo consumidor (fls. 781-783).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 799-808).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 813-816), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 819-828).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de ação de conhecimento proposta por ALAN FRANKLIN SILVA DE ANDRADE, requerendo o cancelamento da autorização de débito automático em conta-corrente, e à restituição dos valores descontados após notificação extrajudicial. o Tribunal de origem reformou a sentença para julgar improcedente o pedido de cancelamento e restituição, mas com limitação dos efeitos da revogação da autorização a contratos futuros, sem retroação para contratos pretéritos com descontos já autorizados, por razões de boa-fé objetiva e segurança jurídica (fls. 739-749).
+Inicialmente, quanto à alínea "a" do permissivo constitucional, verifica-se que o recorrente alega apenas ofensa ao artigo 6º da Resolução 4.790/2020, do Banco Central do Brasil.
+Não é possível o conhecimento do recurso especial no qual se alega ofensa a artigos de resolução, visto que circulares, resoluções, portarias, súmulas, bem como dispositivos inseridos em regimentos internos não se enquadram no conceito de lei federal previsto no art. 105, inciso III, alínea "a", da Constituição Federal.
+Assim, a ausência de indicação de dispositivos legais indicados como violados impede o conhecimento do recurso especial, por se configurar deficiência de fundamentação, a atrair por analogia a Súmula 284/STF.
+Quanto ao mais, verifica-se que, em relação à apontada ofensa ao Tema 1.085/STJ, a Corte de origem assentou que:
+Sobre o tema, o c. STJ, no julgamento do Tema n. 1.085, realizado em 9/3/2022 sob a sistemática dos Recursos Especiais Repetitivos, firmou o entendimento de ser lícita a realização de descontos, por parte das instituições financeiras mutuantes, diretamente da conta corrente do consumidor mutuário, de valores suficientes para a satisfação dos créditos contratados, desde que haja expressa autorização do correntista e enquanto perdurar a referida autorização.
+ ..
+Desse modo, o atual estágio da jurisprudência pátria assegura o direito do consumidor a revogar a autorização previamente dada às instituições financeiras para a realização de descontos em sua conta-corrente, sem prejuízo de que assuma as consequências econômico-financeiras da sua escolha, com a exclusão do redutor incidente sobre a taxa de juros remuneratórios.
+Dito isso, a prerrogativa de revogar autorização para débitos em conta-corrente, conferida pelo art. 6º da Resolução n. 4.790/2020, do Banco Central, não se apresenta como potestade em favor do consumidor, devendo ser exercida em compatibilidade com os demais legítimos interesses perpassados na relação jurídica e com a função social do contrato.
+Com efeito, se por um lado assiste ao consumidor/mutuário o direito de revogar autorização, por outro não se pode penalizar a instituição financeira/mutuante que realiza descontos com suporte em expressa e lídima previsão contratual
+Portanto, vê-se que a Corte local, ao contrário do que alega o recorrente, decidiu conforme o Tema 1.085/STJ, o que prevê que: "São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+Portanto, nota-se que o tribunal reconheceu ao consumidor/mutuário o direito de revogar autorização, mas sem retroação para contratos pretéritos com descontos já autorizados, por razões de boa-fé objetiva e segurança jurídica.
+Rever tais premissas, demanda a incursão na seara fático-probatória, o que é vedado pelo óbice da Súmula n. 7/STJ.
+A propósito, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. CONTRATO DE MÚTUO. DESCONTO EM CONTA-CORRENTE. TEMA N. 1.085 DO STJ. AUTORIZAÇÃO EXPRESSA DOS DESCONTOS PELO CONSUMIDOR. REVOGAÇÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC. AFASTAMENTO. SÚMULA N. 7 DO STJ.
+1. Não há que falar em violação do artigo 1.022 do CPC, porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de forma clara e fundamentada, se manifestou sobre os pontos alegados como omissos.
+2. O Tribunal de origem manifestou-se no mesmo sentido da pacífica jurisprudência desta Corte, incidindo, portanto, a Súmula n. 83/STJ.
+3. O acórdão local não fere o entendimento fixado no julgamento do Tema Repetitivo 1.085, porquanto a conclusão do Tribunal de origem foi alcançada a partir dos elementos informativos do processo fundamentando-se no fato de que, na espécie, há expressa autorização do recorrente para tais descontos.
+4. A modificação do julgad o, nos moldes pretendidos pelo agravante, requer o reexame do conjunto fático-probatório dos autos, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7 do STJ.
+5. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo Tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável de análise na via do recurso especial por demandar reexame de matéria fático-probatória.
+Precedentes.
+Agravo interno improvido.
+(AgInt no REsp n. 2.146.642/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
