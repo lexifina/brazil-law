@@ -1,0 +1,1 @@
+Artigo 45 - O Poder Público, dentro de cento e oitenta dias demarcará as áreas urbanizadas na Serra do Mar, com vistas a definir as responsabilidades do Estado e dos Municípios, em que se enquadram essas áreas, a fim de assegurar a preservação do meio ambiente e ao disposto no artigo 12, § 2°, do Ato das Disposições Constitucionais Transitórias da Constituição Federal.

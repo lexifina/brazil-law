@@ -1,0 +1,2 @@
+Artigo 46 - No prazo de três anos, a contar da promulgação desta Constituição, ficam os Poderes Públicos Estadual e Municipal obrigados a tomar medidas eficazes para impedir o bombeamento de águas servidas, dejetos e de outras substâncias poluentes para a represa Billings.
+Parágrafo único - Qualquer que seja a solução a ser adotada, fica o Estado obrigado a consultar permanentemente os Poderes Públicos dos Municípios afetados.

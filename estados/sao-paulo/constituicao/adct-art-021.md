@@ -1,0 +1,1 @@
+Artigo 21 - Dentro de cento e oitenta dias, proceder-se-á à revisão dos direitos dos servidores públicos inativos e pensionistas e à atualização dos proventos e pensões a eles devidos, a fim de ajustá-los ao disposto no artigo 126, § 4°, desta Constituição e ao que dispõe a Constituição Federal, retroagindo seus efeitos a 5 de outubro de 1988.

@@ -1,0 +1,1 @@
+Artigo 55 - A lei disporá sobre a adaptação dos logradouros públicos, dos edifícios de uso público e dos veículos de transporte coletivo, a fim de garantir acesso adequado aos portadores de deficiências.

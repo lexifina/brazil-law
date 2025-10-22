@@ -1,0 +1,2 @@
+Artigo 71-A - O Tribunal de Justiça poderá funcionar de forma descentralizada, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo. (NR)
+Parágrafo único - O Tribunal de Justiça instalará a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. (NR)

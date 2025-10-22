@@ -1,0 +1,1 @@
+Artigo 14 - A competência das Turmas de Recursos a que se refere o artigo 84 entrará em vigor à medida que forem designados seus juízes. Tais designações terão seu início dentro de seis meses, pela Comarca da Capital.

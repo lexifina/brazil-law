@@ -1,0 +1,1 @@
+Artigo 28 - Será contado para todos os fins, como de efetivo exercício, na carreira em que se encontrem, o tempo de serviço dos ex-integrantes das carreiras da antiga Guarda Civil, Força Pública, Polícia Marítima, Aérea e de Fronteiras e outras carreiras policiais extintas.

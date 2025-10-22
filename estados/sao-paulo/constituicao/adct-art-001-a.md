@@ -1,0 +1,2 @@
+Artigo 1°-A - Os Deputados integrantes da legislatura iniciada em 15 de março de 2019 exercerão seus mandatos até 14 de março de 2023. (NR)
+Parágrafo único - A legislatura subsequente começará em 15 de março de 2023, e se encerrará em 31 de janeiro de 2027, iniciando-se a imediatamente posterior, assim como as que se seguirão a ela, em 1° de fevereiro, nos termos do § 2° do artigo 9° desta Constituição. (NR)

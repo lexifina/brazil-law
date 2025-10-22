@@ -1,0 +1,1 @@
+Artigo 32 - As normas de prevenção de acidentes e doenças do trabalho integrarão, obrigatoriamente, o Código Sanitário do Estado, sendo o seu descumprimento passível das correspondentes sanções administrativas.

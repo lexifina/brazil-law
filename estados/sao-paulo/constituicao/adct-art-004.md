@@ -1,0 +1,1 @@
+Artigo 4° - O Regimento Interno da Assembleia Legislativa estabelecerá normas procedimentais com rito especial e sumaríssimo, com o fim de adequar esta Constituição ou suas leis complementares à legislação federal.

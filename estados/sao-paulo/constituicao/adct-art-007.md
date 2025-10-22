@@ -1,0 +1,2 @@
+Artigo 7° - As quatro primeiras vagas de Conselheiros do Tribunal de Contas do Estado, ocorridas a partir da data da publicação desta Constituição, serão preenchidas na conformidade do disposto no artigo 31, § 2°, item 2, desta Constituição.
+Parágrafo único - Após o preenchimento das vagas, na forma prevista neste artigo, serão obedecidos o critério e a ordem fixados pelo artigo 31, §§ 1° e 2°, desta Constituição.

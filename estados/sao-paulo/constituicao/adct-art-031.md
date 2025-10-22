@@ -1,0 +1,1 @@
+Artigo 31 - O concurso público, prorrogado uma vez, por período inferior ao prazo de validade previsto no edital de convocação, e em vigor em 5 de outubro de 1988, terá automaticamente ajustado o período de sua validade, de acordo com os termos do inciso III do artigo 37 da Constituição Federal.

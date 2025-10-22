@@ -1,0 +1,1 @@
+Artigo 50 - Até o ano 2000, bienalmente, o Estado e os Municípios promoverão e publicarão censos que aferirão os índices de analfabetismo e sua relação com a universalização do ensino fundamental, de conformidade com o preceito estabelecido no artigo 60, do Ato das Disposições Constitucionais Transitórias da Constituição Federal.

@@ -1,0 +1,1 @@
+Artigo 23 - Aos servidores extranumerários estáveis do Estado, ficam asseguradas todas as vantagens pecuniárias concedidas aos que, exercendo idênticas funções, foram beneficiados pelas disposições da Constituição Federal de 1967.

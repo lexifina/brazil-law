@@ -1,0 +1,1 @@
+Artigo 6° - Até 28 de junho de 1990, as empresas públicas, sociedades de economia mista e as fundações instituídas ou mantidas pelo Poder Público estadual incorporarão aos seus estatutos as normas desta Constituição que digam respeito às suas atividades e serviços.

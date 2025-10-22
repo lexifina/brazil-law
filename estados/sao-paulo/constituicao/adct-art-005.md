@@ -1,0 +1,1 @@
+Artigo 5° - A Capital do Estado poderá ser transferida mediante lei, desde que estudos técnicos demonstrem a conveniência dessa mudança e após plebiscito, com resultado favorável, pelo eleitorado do Estado.
