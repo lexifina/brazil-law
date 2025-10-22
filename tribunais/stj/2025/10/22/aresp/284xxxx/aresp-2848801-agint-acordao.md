@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica fundamento da decisão que não admitiu o recurso especial na origem, qual seja, a ausência de prequestionamento (Súmula n. 282/STF). Incidência da Súmula n. 182/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por E M M MOTA & CIA LTDA. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 687):
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 698-705), a agravante alega ter apresentado, de forma clara e individualizada, a contestação de todos os fundamentos apontados na decisão de inadmissibilidade proferida na origem, notadamente quanto à suposta ausência de prequestionamento (Súmula n. 282/STF) e à desnecessidade de revolvimento de matéria fática (Súmula n. 7/STJ).
+Sustenta que "o argumento do relator quanto à ausência de insurgência específica contra tal óbice não encontra respaldo fático, pois o Agravo em Recurso Especial enfrentou diretamente essa questão, inclusive demonstrando a efetiva oposição dos embargos e indicando que a omissão do tribunal local não poderia ser imputada à parte, sob pena de violação ao princípio da não surpresa e ao direito de acesso à instância superior" (e-STJ, fls. 699-700).
+Afirma que a decisão recorrida, ao "negar seguimento ao Recurso Especial sob fundamento meramente formal, sem enfrentar o mérito da controvérsia jurídica, fere os princípios constitucionais do contraditório, da ampla defesa e da efetividade da tutela jurisdicional, consagrados no art. 5º, incisos XXXV, LIV e LV, e no art. 93, IX, da Constituição Federal" (e-STJ, fl. 700).
+Pleiteia, ao final, a reforma da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 713).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica fundamento da decisão que não admitiu o recurso especial na origem, qual seja, a ausência de prequestionamento (Súmula n. 282/STF). Incidência da Súmula n. 182/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Conforme consignado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso especial, justificando, tese a tese, o cabimento da irresignação especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+Assim, a parte recorrente deve rebater todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles, não havendo falar em violação aos princípios do contraditório, da ampla defesa e da efetividade da tutela jurisdicional em razão do não conhecimento, de maneira fundamentada, do agravo que não observou o ônus da impugnação.
+Confiram-se os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA MUNICIPAL. PROFESSORA EFETIVA. PISO SALARIAL NACIONAL. NÃO IMPUGNADOS DE FORMA ESPECÍFICA ALGUNS DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO NOBRE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, alguns dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. "É consolidado o entendimento desta Corte Superior acerca da possibilidade de incursão no mérito da lide pelo Tribunal local quando necessária à análise dos pressupostos constitucionais de admissibilidade do recurso especial, nos moldes preconizados no enunciado n. 123 da Súmula desta Corte, sem que isso configure usurpação de competência". (AgInt no AREsp n. 2.648.240/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024.)
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.717.086/BA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. A decisão que inadmitiu o Recurso Especial apontou os seguintes óbices ao seu processamento: a) ausência de violação às normas legais invocadas; b) Súmula 7 do STJ.
+2. A parte recorrente, nas razões do Agravo em Recurso Especial, deixou de impugnar especificamente ambos os fundamentos da referida decisão.
+3. A Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, atacar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+4. Acrescente-se que a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele atribuída e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário o revolvimento do acervo fático-probatório dos autos para a análise da insurgência. Precedentes.
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+No caso, o agravante não atendeu a esse reclamo, pois não impugnou especificamente todos os óbices contidos na decisão de admissibilidade, em virtude da ausência de insurgência, nas razões do agravo em recurso especial, acerca da incidência da Súmula n. 282/STF, limitando-se a impugnar a aplicação da Súmula n. 7/STJ.
+Com efeito, verifica-se dos autos que a ora agravante se limitou a defender, nas razões do agravo, em tópico intitulado "DA NÃO INCIDENCIA DA SÚMULA 7/STJ - VIOLAÇÃO DIRETA AS NORMAS FEDERAIS - DIVERGÊNCIA JURISPRUDENCIAL ACERCA DA INTERPRETAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS", que "o fundamento da decisão guerreada é a incidência da sumula 7/STJ, que assevera que a pretensão de simples reexame de prova não enseja recurso especial" (e-STJ, fl. 619), não tecendo nenhuma consideração acerca da inaplicabilidade da Súmula n. 282/STF ao caso.
+Por conseguinte, a falta de ataque específico a todos os fundamentos da decisão agravada atrai o disposto no art. 932, III, do CPC/2015, em face da não observância ao princípio da dialeticidade exigido na esfera recursal, incidindo, por analogia, a Súmula n. 182 desta Corte Superior.
+Dessa maneira, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
