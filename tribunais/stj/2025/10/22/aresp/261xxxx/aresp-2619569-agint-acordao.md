@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM PROL DA DEFENSORIA PÚBLICA ESTADUAL. POSSIBILIDADE. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem asseverou o entendimento deste Tribunal no sentido de que as ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde possuem proveito econômico inestimável, possibilitando, assim, o arbitramento de honorários advocatícios por apreciação equitativa.
+2. As razões recursais estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por DEFENSORIA PÚBLICA DO ESTADO DO MATO GROSSO DO SUL contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial, pela incidência da Súmula 284/STF.
+Argumenta  a  parte agravante,  em  síntese,  a não incidência do óbice inserto na Súmula 284/STF, defendendo que:
+A Súmula 284/STF não se aplica na hipótese, porquanto não há que se falar em deficiência de fundamentação do recurso, na medida em que os argumentos apresentados foram alicerçados em razões claras, impugnando, de forma específica, os fundamentos da decisão recorrida.
+Com efeito, o objeto recursal do apelo especial versa sobre a necessidade de igualdade/proporcionalidade entre o montante que foram condenados o ente municipal e o Estado de Mato Grosso do Sul em relação aos honorários de sucumbência (fls. 419-420).
+Argumenta, ainda, que:
+ ..  a legislação processual é clara e imperativa no sentido de apontar que o julgador está obrigado a condenar os réus ao pagamento de honorários em igualdade de condições ou, em assim não procedendo, justificar a não aplicação dessa igualdade, mediante aplicação proporcional da respectiva sucumbência (fl. 420).
+Aduz que:
+ ..  resta claro que a discussão não gira em torno da (im)possibilidade de arbitramento de honorários advocatícios por equidade em ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde, mas refuta-se a condenação do Estado em valor consideravelmente inferior ao estipulado para o Município litisconsorte, sem justificativa para tal discrepância (fl. 420).
+Por fim, pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação apresentada às fls. 431-438.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM PROL DA DEFENSORIA PÚBLICA ESTADUAL. POSSIBILIDADE. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem asseverou o entendimento deste Tribunal no sentido de que as ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde possuem proveito econômico inestimável, possibilitando, assim, o arbitramento de honorários advocatícios por apreciação equitativa.
+2. As razões recursais estão dissociadas dos fundamentos utilizados pelo aresto impugnado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+No caso, o Tribunal a quo asseverou:
+Sobre o tema, a orientação jurisprudencial consolidada convergia no sentido da impossibilidade de condenar o Estado de Mato Grosso do Sul ao pagamento de honorários à Defensoria Pública Estadual, em razão da incidência da Súmula n.º 421/STJ, que assim dispunha: "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença".
+Entretanto, o Supremo Tribunal Federal no julgamento do RE n.º 1.140.005/RJ (Tema n.º 1.002) superou o referido enunciado, fixando a seguinte tese:
+"1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra;
+2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição."
+Nesse contexto, em observância ao art. 927, inc. III, do CPC2, impõe- se a fixação de honorários advocatícios sucumbenciais a serem suportados pelo Estado em prol da Defensoria Pública Estadual.
+Com relação ao valor dos honorários nas causas em que a Fazenda Pública for parte, dispõe o art. 85, §§ 3.º e 4.º, do CPC:
+"Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.  ..
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os seguintes percentuais:  ..
+§ 4º Em qualquer das hipóteses do § 3º:  ..
+III - não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa;"
+Entretanto, o Superior Tribunal de Justiça tem adotado entendimento que as ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde possuem proveito econômico inestimável, possibilitando, assim, o arbitramento de honorários advocatícios por apreciação equitativa.
+"PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO INESTIMÁVEL. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. TEMA N. 1.076/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..  II - A Corte Especial deste Tribunal Superior, na sessão de 16.03.2022, concluiu o julgamento do Tema n. 1.076/STJ (Recursos Especiais ns. 1.850.512/SP, 1.877.833/SP. 1.906.618/SP e 1.906.623/SP, acórdãos pendentes de publicação) adotando o entendimento segundo o qual a fixação de honorários por apreciação equitativa do juiz (art. 85, § 8º, do CPC/2015), restringe- se às causas em que irrisório ou inestimável (onde não seja possível atribuir valor patrimonial à controvérsia, não se estendendo àquelas demandas em que atribuído valor elevado) o proveito econômico ou, ainda, quando o valor da demanda for muito baixo. III - As ações em face da Fazenda Pública cujo objeto envolva a tutela do direito à saúde, possuem proveito econômico inestimável, possibilitando o arbitramento de honorários advocatícios sucumbenciais por apreciação equitativa. Precedentes.  .. ." (AgInt no R Esp n. 1.976.775/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/9/2022, D Je de 28/9/2022)
+Logo, considerando (i) que no caso em exame os honorários devem ser fixados por apreciação equitativa, pois, apesar de ter sido atribuído o valor da causa com base no custo do tratamento, é certo que a parte autora não almejou o valor da prestação em si, mas sim a obrigação de fazer, a qual possui valor inestimável; (ii) os parâmetros estabelecidos no art. 85, § 2.º, do CPC; e (iii) a não incidência da regra disposta no § 11 do art. 85 do CPC, conclui-se que os honorários devem ser fixados no montante de R$ 800,00.
+Por fim, oportuno ressaltar que a destinação do valor recebido a título de honorários sucumbenciais restringe-se ao aparelhamento das Defensorias Públicas e capacitação de seu pessoal, sendo vedado seu rateio entre os membros da instituição, conforme definido pelo Supremo Tribunal Federal no RE n.º 1.140.005 (Tema 1.002).
+Portanto, o recurso da Defensoria Pública Estadual deve ser provido (fls. 270-272).
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma ou de nulidade do julgado, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/5/2023).
+Isso posto, nego provimento ao recurso.
