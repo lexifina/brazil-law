@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por DIEGO GIROLDO FRANCA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 75-87):
+APELAÇÃO CÍVEL. AÇÃO DE SENTENÇA DE PROCEDÊNCIA. QUERELA NULLITATIS INSANABILIS. INSURGÊNCIA DA PARTE RÉ. NULIDADE DA CITAÇÃO POR EDITAL. OCORRÊNCIA. AUSÊNCIA DE UTILIZAÇÃO DOS MEIOS DISPONÍVEIS PARA LOCALIZAÇÃO DA PARTE RÉ. EFETIVA VIOLAÇÃO ÀS GARANTIAS DA AMPLA DEFESA E DO CONTRADITÓRIO EM PROCESSO NO QUAL HOUVE A ARREMATAÇÃO EM HASTA PÚBLICA DE IMÓVEL SOBRE O QUAL O ORA APELADO DETINHA DIREITOS AQUISITIVOS. EXCEPCIONALIDADE DA CITAÇÃO EDITALÍCIA. PRECEDENTES DESTA CORTE E DO STJ. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SENTENÇA MANTIDA. APELO DESPROVIDO. FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+1. A ausência de citação válida constitui nulidade insanável, que obsta o aperfeiçoamento da relação jurídico- processual e não se convalida pela coisa julgada, podendo ser reconhecida em sede de ação declaratória.
+2. Ao prever que a citação por edital terá lugar "quando ignorado, incerto ou inacessível o lugar em que se encontrar o citando" (art. 256, inc. II, CPC/2015; art. 231, inc. II, CPC/73), a legislação exige que sejam esgotadas as diligências ordinariamente realizadas para localização das partes.
+3. Ao postular desde logo a citação por edital do réu, o autor contribuiu para configuração de nulidade, respondendo pelos ônus da sucumbência em ação de querela nullitatis.
+Opostos embargos de declaração, o Tribunal de origem os acolheu em parte (fls. 789-793).
+No recurso especial, a parte recorrente aduz, no mérito, que o acórdão recorrido contrariou os arts. 232, I, do CPC/1973 e 231, I e II, e 249, § 1º, CPC/73 (atual artigo 282, § 1º, NCPC), sustentando que não se pode considerar nula a citação por edital, feita sob o Código de 1973, pelo simples motivo de não ter havido requisição a órgãos público, e ainda, que a lei não exigia para a referida modalidade de citação o esgotamento de todas as modalidades de citação, e que não houve qualquer prejuízo à defesa do recorrido.
+Foram oferecidas contrarrazões ao recurso especial (fls. 814-824).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 827-830), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do apelo nobre.
+Quanto à suscitada ofensa aos arts. 232, I, do CPC/1973 e 231, I e II, e 249, § 1º, CPC/73 (atual artigo 282, § 1º, NCPC), não merece acolhimento o recurso especial, visto que, nesta hipótese, a alteração das premissas fixadas pelo Tribunal de origem, que atestou a nulidade da citação por edital, demandaria reexame de fatos e provas, o que esbarra no óbice da Súmula n. 7/STJ.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO. PROCESSUAL CIVIL. TEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. LEI Nº 14.939/2024. APLICAÇÃO. RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CITAÇÃO POR EDITAL. NULIDADE. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe alterar a conclusão do julgado.2. A Corte Especial do Superior Tribunal de Justiça pacificou o entendimento de que os efeitos da Lei nº 14.939/2024 alcançam os recursos interpostos antes de sua vigência, devendo ser considerada igualmente nos agravos internos ou regimentais contra decisões monocráticas que rejeitaram o recurso por ausência de comprovação do feriado local .
+3. Com relação às razões do recurso especial, não viola o artigo 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+4.Na hipótese, rever a conclusão do acórdão recorrido acerca da nulidade de citação editalícia, tendo em vista a existência outros endereços que não foram utilizados antes de se recorrer ao edital, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, a teor do disposto na Súmula nº 7/STJ.
+5. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+6. Embargos de declaração acolhidos com efeitos modificativos para reconsiderar as decisões de e-STJ fls. 130/131 e 160/163 e o agravo interno de e-STJ fls.196/198, conhecer do agravo para conhecer, em parte, do recurso especial e negar-lhe provimento.
+(EDcl no AgInt nos EDcl no AREsp n. 2.711.166/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial .
+Nos termos do art. 85, § 11, do CPC, majoro em 2% os honorários de sucumbência arbitrados pelas instâncias ordinárias em desfavor da parte recorrente.
+Publique-se. Intimem-se.
+EMENTA
