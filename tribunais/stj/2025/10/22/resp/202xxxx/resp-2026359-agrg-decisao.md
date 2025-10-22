@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LUIS RODRIGO LAVIN GAMBOA, em que requer o reconhecimento da extinção de sua punibilidade pela ocorrência da prescrição da pretensão punitiva.
+Sustenta que "nos termos do art. 109, inciso VI, do Código Penal, a pena imposta prescreve em 3 (três) anos. Prazo que foi ultrapassado entre o julgamento da Apelação, em 20/04/2022 (cf. fls. e-STJ 800/808), e a decisão que conheceu e deu parcial provimento ao Recurso Especial, em 25/06/2025 (cf. fls. e-STJ 903/910). Inexistindo qualquer dúvida sobre a causa de extinção da punibilidade, tanto o Ministério Público Estadual (e-STJ, fl. 944) quanto a Procuradoria-Geral (e-STJ, fls. 951/952) se manifestaram pelo "reconhecimento da prescrição da pretensão punitiva" em favor do Agravante".
+Aduz que "por se tratar de causa de extinção da punibilidade, portanto, matéria de ordem pública, além de medida evidentemente mais benéfica ao acusado, é a prescrição da pretensão punitiva que deve preceder a análise de todo o feito, inclusive a averiguação da prescrição da pretensão executória".
+Requer, portanto, "a reconsideração da r. decisão agravada, a fim de que seja reconhecida a prescrição da pretensão punitiva estatal, nos termos do artigo 109, inciso VI, do Código Penal, com o fim de declarar a extinção da punibilidade do Agravante, nos termos do artigo 107, IV, do Código Penal" e, "alternativamente, na hipótese de manutenção da r. decisão monocrática, o que se admite a título argumentativo, requer seja o presente agravo regimental levado a julgamento colegiado".
+É o relatório. DECIDO.
+Tendo em vista os argumentos expostos no agravo regimental, bem como o fato de a prescrição constituir matéria de ordem pública, entendo ser o caso de reconsiderar a decisão agravada.
+Consta dos autos que o requerente foi condenado por lesão corporal, tendo o Tribunal a quo, ao julgar a apelação defensiva, imposto a pena de 10 (dez) meses de detenção, em regime aberto (fls. e-STJ 800/808).
+Com o parcial provimento dado ao Recurso Especial, em 25 de junho de 2025, a pena foi reduzida para 6 (seis) meses e 7 (sete) dias de detenção, em regime aberto (fls. e-STJ 903/910).
+Desse modo, a referida pena foi alcançada pela prescrição da pretensão punitiva estatal em relação ao agravante, a qual ocorreu entre o julgamento da apelação pelo Tribunal de Justiça - em 20 de abril de 20 22 - e a decisão desta Corte.
+Conforme consta dos autos, a pena final restou fixada em 6 (seis) meses e 7 (sete) dias de detenção e, nos termos do art. 109, inciso VI, do Código Penal, prescreve em 3 (três) anos. Tal lapso temporal foi superado entre o julgamento da apelação (20/04/2022) e a decisão de 25/06/2025.
+Dessa forma, impositiva a declaração de extinção da punibilidade do agravante.
+Ante o exposto, reconsidero a decisão anteriormente proferida para declarar extinta a punibilidade de LUIS RODRIGO LAVIN GAMBOA, pela prescrição da pretensão punitiva estatal, nos termos do art. 109, VI, do Código Penal.
+Publique-se. Intimem-se.
+EMENTA
