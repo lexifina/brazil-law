@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2286, de 21 de outubro de 2025
+Altera a Instrução Normativa RFB nº 1.969, de 28 de julho de 2020, para dispor sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF nas operações de crédito de que tratam a Medida Provisória nº 1.314, de 5 de setembro de 2025, e a Portaria MCID nº 1.177, de 8 de outubro de 2025.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 66 do Decreto nº 6.306, de 14 de dezembro de 2007, resolve:
