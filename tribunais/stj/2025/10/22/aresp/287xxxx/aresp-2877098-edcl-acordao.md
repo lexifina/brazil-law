@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 16/10/2025 a 22/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Acórdão embargado que, ao contrário do alegado pela parte, não incorreu em nenhuma omissão.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por 76 OIL DISTRIBUIDORA DE COMBUSTÍVEIS S.A. ao acórdão assim ementado (e-STJ, fls. 583-584):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DA PARTE DE, AO INGRESSAR COM O AGRAVO DO ART. 1.042 DO CPC, IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. EXIGÊNCIA CUJO DESCUMPRIMENTO ACARRETA O NÃO CONHECIMENTO DO AGRAVO. SÚMULA 83/STJ. SÚMULA 182/STJ. RATIFICAÇÃO DA DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões devem infirmar todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015. 2. Correto o entendimento da Presidência do Superior Tribunal de Justiça de não conhecer do agravo em recurso especial, tendo em vista que a parte insurgente não impugnou fundamento da decisão.
+3. Quando o recurso especial não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+4. Agravo interno improvido.
+Nas razões recursais (e-STJ, fls. 599-611), a embargante aduz, em síntese, que "o v. Acórdão embargado se omitiu quanto ao enfrentamento, de forma específica, dos fundamentos efetivamente suscitados pela Agravante, notadamente aqueles voltados a demonstrar o claro e evidente distinguishing entre os precedentes invocados para amparar a aplicação da Súmula nº 83/STJ e a matéria efetivamente discutida no Recurso Especial".
+Assim, requer o acolhimento dos embargos de declaração, a fim de sanar a alegada omissão e, por conseguinte, afastar a incidência da Súmula 182/STJ.
+Impugnação às fls. 620-626 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Acórdão embargado que, ao contrário do alegado pela parte, não incorreu em nenhuma omissão.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente as hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões.
+Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. Não constatada a presença de nenhum vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. A parte embargante defende que não seria o caso de análise de provas, visto que a própria ementa do acórdão do Tribunal de origem consignou que, de "acordo com o estatuto social da autora, devidamente registrado, a embargante tem como objeto social "a indústria, comércio, exportação de móveis e compensados, importação de matérias-primas, maquinaria, material secundário e tudo mais concernente à indústria do mobiliário em geral, agricultura e pecuária em todas as suas modalidades, bem como, participar em outras empresas, como meio de realizar o objeto social ou para beneficiar-se de incentivos fiscais" (evento 1, CONTRSOCIAL3, fls. 4-5)" (fls. 562/563).
+4. Entendimento diverso, conforme pretendido, implicaria necessariamente o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. A argumentação apresentada pela parte embargante denota mero inconformismo e intuito de rediscutir a controvérsia, mas não se prestam os aclaratórios a esse fim.
+6. Os embargos de declaração não constituem instrumento adequado a rever entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de dispositivos constitucionais, mesmo que com vistas à interposição de recurso extraordinário.
+7. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.093.035/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. QUESTÕES JÁ DECIDIDAS NO ACÓRDÃO EMBARGADO. REDISCUSSÃO. IMPOSSIBILIDADE. NECESSIDADE DE PREQUESTIONAMENTO MESMO PARA AS QUESTÕES DE ORDEM PÚBLICA.
+1. Trata-se de Embargos de Declaração contra acórdão que não conheceu do Recurso Especial sob o fundamento de que o tema da prescrição, invocado pelo recorrente, não foi prequestionado, além do que se trataria de questão de ordem pública.
+2. Segundo o embargante, o Tribunal de origem teria prequestionado a matéria no trecho do acórdão em que se afirmou: "a questão da prescrição do julgamento pode ser submetida ao exame do Conselho Seccional. Afastada, por invalidade, as decisões unipessoais do Presidente, a este caberá, portanto, dar, cumprimento ao quanto decidido pelo Conselho Seccional ou, eventualmente, submeter ao colegiado uma ou ambas as aludidas questões" (fls. 1.127, e-STJ).
+3. Ocorre que no acórdão ora embargado houve expresso pronunciamento do colegiado sobre a questão da prescrição: "a instância ordinária não emitiu juízo sobre a ocorrência da prescrição: entendeu que a Presidência da Seccional teria usurpado competência do colegiado, razão pela qual não mais subsistiria e tampouco produziria efeitos, inclusive na parte que decretou a prescrição. Concluiu o Tribunal de origem: "a questão da prescrição pode ser submetida ao exame do Conselho Seccional"" (fls. 1.122, e-STJ).
+4. Em outras palavras, não há no acórdão do TRF3 pronunciamento algum sobre a correta exegese do art. 43, § 1º, da Lei 8.906/1994, ou sobre a imperiosidade de sua aplicação oficiosa pelo Tribunal, pelo que, à míngua da oposição de Embargos de Declaração pelo ora recorrente no origem, incide a Súmula 282/STF, tal como afirmando na decisão embargada, que, portanto, não é omissa, contraditória ou obscura.
+5. "Não se admite o manejo dos aclaratórios com exclusivo propósito de rediscutir o mérito das questões já decididas pelo acórdão impugnado" (EDcl no AgInt na AR 6.601/DF, Rel. Min. Og Fernandes, Primeira Seção, DJe 14.8.2020). No mesmo sentido: AgInt no AREsp 323.892/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 22.11.2018; AgInt no REsp 1.498.690/RS, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 20.3.2017; EDcl no AgInt no RMS 61.830/MS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 14.10.2020.
+6. Pontue-se, ademais, que a jurisprudência do Superior Tribunal de Justiça é de que mesmo as matérias de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem de prequestionamento para que possam ser analisadas na instância extraordinária. Precedentes: AgInt no REsp 1856683/ES, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28/05/2021; AgInt no AREsp 1090437/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 11/12/2019; REsp 1383671/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 20/05/2019.
+7. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.772.855/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/6/2023, DJe de 28/6/2023.)
+Na hipótese dos autos, a decisão embargada resolveu satisfatoriamente o agravo interno, sem incorrer em nenhum dos vícios de contradição, obscuridade ou omissão com relação ao ponto controvertido, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Não há, pois, demonstração de ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015, mostrando-se a via ora eleita com feições de infringência do julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
