@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por SANDRA SOUZA DO NASCIMENTO e OUTRO, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS (fls. 1628-1635 e-STJ), assim ementado:
+AÇÃO DE NULIDADE DE PARTILHA. VÍCIOS APONTADOS NÃO SE ENQUADRAM NAS HIPÓTESES DE NULIDADE DO NEGÓCIO JURÍDICO. PRESCRIÇÃO DA PRETENSÃO DE ANULAÇÃO DA PARTILHA AMIGÁVEL.
+1. De acordo com o artigo 145, do Código Civil de 1916, a partilha seria nula caso tivesse dela participado pessoa absolutamente incapaz, se tivesse abrangido objeto ilícito ou impossível ou sido elaborada com inobservância de disposição de natureza taxativa ou imperativa. No caso dos autos, não houve a ocorrência de nenhum dos referidos vícios, motivo pelo qual não se deve considerar o prazo prescricional de 20 (vinte) anos para o ajuizamento da demanda;
+2. Exsurge da causa de pedir da demanda que os Apelantes intencionam simplesmente anular a partilha amigável, em razão de suposto dolo do Apelado. O prazo prescricional, nesse caso, seria de um ano, nos termos do artigo 178, § 6º, V, do Código Civil de 1916, e do artigo 1.029, parágrafo único, II, do Código de Processo Civil de 1973, motivo pelo qual a pretensão quedou-se prescrita.
+3. Recurso conhecido e não provido.
+Opostos embargos declaratórios (fls. 1688-1694 e-STJ), restaram desacolhidos na origem (fls. 1706-1710 e-STJ).
+Nas razões do especial (fls. 1712-1730 e-STJ), os insurgentes alegaram violação aos seguintes dispositivos de lei federal:
+(i) artigos 489 e 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; e,
+(ii) artigos 104, inc. III, 166, inc. IV e V, 1.028, 1.031, 1.808 e 2.035, parágrafo único, do CC, arguindo a inocorrência de prescrição, por se tratar de nulidade absoluta da partilha.
+Apresentadas contrarrazões (fls. 1740-1753 e-STJ), o apelo extremo foi admitido na origem (fls. 1756-1757 e-STJ).
+O Ministério Público Federal, em parecer de fls. 1788-1798 e-STJ, opinou pelo conhecimento parcial e desprovimento do recurso.
+É o relatório.
+Decide-se.
+1. Preliminarmente, os insurgentes aduzem existir contradição e omissão no acórdão recorrido em relação à alegação de que não estaria sujeita à prescrição a tese de nulidade da partilha por: (i) terem sido partilhados bens de pessoa jurídica como se fossem pertencentes à pessoa física; (ii) ter violado proibição de renúncia à herança de forma fragmentada, em relação a determinados bens; e, (iii) ausência de colação dos bens recebidos pelo recorrido a título de doação.
+2. Necessário afastar, de início, parte da alegação de negativa de prestação jurisdicional. Não se verifica ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Ademais, a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Em semelhante sentido: AgInt no AREsp 1657633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020; EDcl no AgInt no AgInt nos EDcl no AREsp 1450410/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020; AgInt no AREsp 1599936/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020.
+Na hipótese, não foi sequer indicada, de forma precisa, a existência de qualquer contradição interna - mas mera discordância da parte com o teor do decisum.
+Da mesma forma, não há falar em omissão no que se refere aos itens (i) e (ii) acima listados.
+A Corte de origem, de forma clara, expressa e fundamentada, concluiu que as referidas alegações não constituiriam nulidade absoluta, mas sim hipóteses de anulação - motivo pelo qual estariam, na compreensão do Tribunal local, sujeitas à prescrição, cujo prazo teria transcorrido.
+Não há falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, parte da alegada violação aos artigos 489 e 1.022 do CPC/15.
+3. Todavia, ainda no âmbito preliminar, assiste parcial razão aos insurgentes, ante a existência de omissão, no acórdão recorrido, quanto ao item (iii) acima listado.
+Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia, ou deixa de sanar outro vício previsto no artigo 1.022 do CPC/15.
+Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil, cuja correção importe em alterar a conclusão do julgado.
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do Código de Processo Civil por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.750.628/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+CIVIL E PROCESSUAL CIVIL. 1. RECURSO ESPECIAL DA MASSA FALIDA DO BANCO SANTOS. EMBARGOS À EXECUÇÃO. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. ART. 926 DO CPC/2015. DEVER DE UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. ARTIGO INDICADO QUE NÃO POSSUI CONTEÚDO NORMATIVO APTO A AFASTAR A TESE DO ACÓRDÃO ESTADUAL QUANTO A AUSÊNCIA DE REQUISITOS PARA A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SÚMULA Nº 284 DO STF. ART. 50 DO CC/2002. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. ABUSO DA PERSONALIDADE JURÍDICA NÃO VERIFICADO PELO TRIBUNAL ESTADUAL. REVISÃO DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. 2. RECURSO ESPECIAL DE SEARA ALIMENTOS LTDA. EMBARGOS À EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS. BASE DE CÁLCULO. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. ART. 1.022 DO CPC/2015. VÍCIO NÃO SANADO. RETORNO DOS AUTOS AO TRIBUNAL ESTADUAL.
+ ..
+2. O recurso especial interposto por SEARA diz respeito a base de cálculo para a fixação dos honorários sucumbenciais.
+2.1. É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão recorrido.
+2.2. Constatada a existência de vícios não sanados no acórdão proferido pelo Tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do art. 1.022 do CPC/2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+2.3. Recurso especial da MASSA FALIDA DO BANCO SANTOS conhecido em parte e, nessa extensão, não provido. Recurso especial de SEARA ALIMENTOS provido em parte para determinar o retorno dos autos ao Tribunal estadual para a análise da base de cálculo dos honorários sucumbenciais.
+(REsp n. 2.047.782/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/3/2024, DJe de 14/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATORIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE RECONHECEU A NEGATIVA DE PRESTAÇÃO JURISDICIONAL INSURGÊNCIA RECURSAL DA PARTE RÉ .
+1. Há violação dos arts. 489 e 1.022 do CPC/15 quando, apesar do requerimento da parte, por meio de embargos declaratórios, a Corte de origem se recusa a se manifestar sobre questão que lhe foi apresentada por ocasião dos embargos de declaração, relevante ao deslinde da controvérsia. Nessa hipótese, o processo deve retornar à Corte local para que a omissão seja suprida. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.992.917/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+No caso, os insurgentes afirmam que a Corte de origem deixou de apreciar a alegação segundo a qual não estaria prescrita a pretensão relacionada à ausência de colação dos bens recebidos pelo recorrido a título de doação.
+De fato, ao julgar o apelo originário, o Tribunal local nada tratou sobre o prazo/implemento da prescrição em relação a esse ponto da controvérsia.
+Outrossim, os aclaratórios opostos na origem suscitaram, expressamente, a existência da referida omissão (fl. 1692 e-STJ) - tendo constado, inclusive, do relatório do acórdão dos embargos de declaração (fl. 1707 e-STJ).
+Ainda assim, ao rejeitar os aclaratórios, não houve enfrentamento da questão, permanecendo omisso o acórdão em relação à pretensão de colação de bens alegadamente sonegados - mais especificamente, se tal pleito estaria sujeito à prescrição, qual seria o prazo aplicável e se restou implementada no caso.
+Imperioso, portanto, o reconhecimento, em parte, de violação aos artigos 489 e 1.022 do CPC/15.
+Vale esclarecer, por derradeiro, que a presente decisão não constitui pronunciamento de mérito a respeito da demanda originária, apenas determina a devolução dos autos ao Tribunal de origem - repisa-se - para sanar omissão. A manifestação fundamentada acerca da matéria acima especificada, ainda que para dela não conhecer ou para rechaçá-la, é necessária para a completude da prestação jurisdicional - inclusive para possibilitar eventual acesso às instâncias superiores, se for o caso.
+4. Ante o r econhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+5. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, dá-se parcial provimento ao recurso especial, para cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão acima reconhecida.
+Publique-se.
+Intimem-se.
+EMENTA
