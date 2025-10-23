@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de GRAZIANE DO CARMO DE OLIVEIRA - condenada pela prática do crime de tráfico de drogas, a cumprir 7 anos e 7 meses de reclusão, em regime inicial fechado, e a pagar 758 dias-multa -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação Criminal n. 0743943-17.2024.8.07.0001), não comporta conhecimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena-base imposta à paciente uma vez que as condenações ocorridas há mais de 8 anos encontram-se desprovidas de qualquer efeito jurídico e não constituem fundamento idôneo para justificar o aumento da pena-base (fl. 7).
+Aduz que a condenação anterior utilizada para exasperação da pena-base se deu por fatos ocorridos em 2006 e 2012, e extintos em 2010 e 2016, respectivamente, e que o Tribunal a quo, ao considerar as mencionadas condenações pretéritas como fundamento suficiente para valorar negativamente os antecedentes, acaba por atribuir a elas caráter perpétuo, o que não encontra respaldo na norma constitucional e legal, cujo fundamento basilar é a ressocialização do apenado (fl. 7).
+Ocorre que a questão específica sobre a limitação temporal das condenações pretéritas para fins de negativação dos antecedentes na primeira fase da dosimetria nem sequer foi debatida pela Corte estadual, de forma que a revisão por este Superior Tribunal configuraria indevida supressão de instância.
+Ora, não é possível inaugurar, no STJ, o exame de alegações não apreciadas pela instância a quo, sob pena de indevida supressão de instância, violação dos princípios do duplo grau de jurisdição e devido processo legal, bem como alargamento inconstitucional de competência desta Corte para julgamento de habeas corpus (art. 105, I, c, da CF/88). Precedentes. (AgRg no HC n. 845.208/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/4/2024).
+Ademais, o writ foi apresentado com o objetivo de revisar a condenação imposta e mantida pelas instâncias de origem, o que é inadmissível.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. CONDENAÇÕES PRETÉRITAS. LIMITAÇÃO TEMPORAL. DEBATE DA QUESTÃO PELA CORTE ESTADUAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ não conhecido.
