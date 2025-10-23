@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NATÁLIA LARISSA DA SILVA GONÇALVES, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 1501053-85.2021.8.26.0072.
+Consta dos autos que a paciente foi condenada à pena de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 500 (quinhentos) dias-multa, como incursa no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a Defesa interpôs recurso de apelação, ao qual o TJSP negou provimento, mantendo integralmente a sentença condenatória.
+Na presente impetração, o impetrante sustenta a ocorrência de constrangimento ilegal na dosimetria da pena.
+Alega, em síntese, I) que a exasperação da pena-base em 1/6 (um sexto), com fundamento na natureza e quantidade da droga, violaria o entendimento jurisprudencial; II) que o Juízo sentenciante afastou o redutor do art. 33, § 4º, da Lei 11.343/2006, sob o argumento de que a norma dispõe que a pena "poderá" (e não "deverá") ser reduzida, quando, em verdade, tratar-se-ia de direito subjetivo do réu; III) que o afastamento do redutor se deu por mera presunção de que a paciente participaria de "elaborado esquema criminoso", embora seja primária, sem antecedentes, e não haja provas de que se dedique a atividades criminosas ou integre organização criminosa , não tendo sido sequer denunciada por associação ao tráfico.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja aplicado o redutor do tráfico privilegiado na fração máxima de 2/3 (dois terços), com o consequente redimensionamento da pena, a fixação do regime aberto e a substituição da pena corporal por restritivas de direitos.
+É o relatório.
+Decido.
+No caso em análise, verifico, por meio de consulta ao sítio eletrônico do Tribunal de origem, que o acórdão impugnado foi publicado no DJEN no dia 15/10/2025. Dessa forma, a presente impetração foi protocolada antes do termo final para a interposição do recurso pertinente.
+Configura-se, assim, prematura a utilização do habeas corpus como sucedâneo do recurso adequado, não sendo viável, na presente conjuntura, descartar a possibilidade de a questão jurídica ser submetida a esta Corte Superior através da via processual apropriada, isto é, o recurso especial. Consequentemente, não se afigura apropriado ao Superior Tribunal de Justiça proceder, de forma antecipada, à análise do mérito da controvérsia apresentada.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESVIRTUAMENTO DO HABEAS CORPUS. LAPSO PARA INTERPOSIÇÃO DO RESPECTIVO RECURSO ESPECIAL AINDA EM CURSO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. POSSIBILIDADE DE MANEJO DA VIA ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+(AgRg no HC 733.563/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2022, DJe de 16/05/2022)
+Ademais,  cumpre registrar que o presente habeas corpus não trata especificamente de tutela direta e imediata da liberdade de locomoção da paciente. O Juízo sentenciante deferiu à apenada o direito de recorrer em liberdade, conforme registro de fl. 26. O Tribunal de origem não determinou a expedição imediata de mandado de prisão.
+A Defesa pretende, na realidade, a discussão do mérito da condenação, ainda que de forma indireta. Tal tese, se acolhida, apenas por vias transversas ensejaria consequências na liberdade individual da condenada. Sem a constatação de que se discute a tutela direta e imediata da liberdade ambulatorial da paciente, não há como identificar a ressalva processual que admitiria o manejo do habeas corpus.
+Ante  o  exposto,  indefiro liminarmente o  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
