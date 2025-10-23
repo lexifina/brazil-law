@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, embargos de declaração opostos por PRODUTOS ALIMENTÍCIOS FABISE LTDA contra decisão que não conheceu do recurso especial haja vista a incidência do óbice da Súmula 7/STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que, "no especial, abriu-se a via unicamente para debater se a compensação tributária promovida pela Embargante, com espeque numa decisão judicial prévia e calcada no art. 74 da Lei n.º 9.430/96 e na Súmula 461/STJ, poderia ou não ser ignorada pela Fazenda Nacional" (fl. 905).
+Transcorreu in albis o prazo para impugnação (fl. 915)
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+Não há vício formal no decisum. Ficou consignado que não é possível rever, em recurso especial, as conclusões do Tribunal a quo sobre o descumprimento do procedimento administrativo de compensação pela recorrente, "a fim de permitir ao Fisco a validação do procedimento em momento anterior à autuação fiscal", ou sobre o caráter meramente declaratório da ação.
+Em complemento, também incide a Súmula 7/STJ quanto aos fundamentos fáticos postos no acórdão de que "a referida ação judicial é simplesmente declaratória de um direito cabendo  a parte  executar a referida sentença ou ingressar com pedido administrativo visando ter quantificado e confirmado pelo Fisco os valores de PIS que teria a compensar garantindo, desse modo, a certeza e liquidez do seu crédito"; e de que a parte não seguiu o correto procedimento que tornaria possível essa compensação não tendo apresentado requerimento exigido na forma da IN 21/1997, a fim de permitir ao Fisco a validação do procedimento em momento anterior à autuação fiscal.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
