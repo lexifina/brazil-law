@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de ERIC COURBASSIER QUINTANILHA, condenado pelo crime do art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado (Processo n. 1500458-83.2024.8.26.0621, Vara Criminal da comarca de Cruzeiro/SP).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 26/6/2025, negou provimento à apelação e manteve a condenação (Apelação Criminal n. 1500458-83.2024.8.26.0621 - fls. 11/20).
+Aqui, alega o impetrante constrangimento ilegal consistente na incorreta aplicação da dosimetria da pena, visto que afastada indevidamente a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas.
+Alega possibilidade de regime mais brando e de substituição da pena, quando presentes os requisitos legais.
+Em caráter liminar, pede a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006; a fixação de regime inicial aberto; e a substituição da pena privativa de liberdade por restritivas de direitos (fl. 10).
+No mérito, requer a concessão da ordem para: aplicar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, em fração a ser fixada por este Superior Tribunal; estabelecer o regime inicial aberto, nos termos do art. 33, §§ 2º e 3º, do Código Penal; e substituir a pena privativa de liberdade por restritiva de direitos, conforme art. 44 do Código Penal (fls. 4/10).
+A liminar foi indeferida (fls. 416/417).
+Prestadas as informações (fls. 423/443 e 448/469), o Ministério Público Federal opinou pelo conhecimento parcial do habeas corpus e pela concessão da ordem, na parte conhecida (fls. 471/474).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+De início, verifica-se que se trata de habeas corpus substitutivo de recurso próprio, o que denota a flagrante impropriedade do meio processual utilizado. Conforme informações apresentadas pelo Tribunal de origem, constata-se que o paciente também interpôs recurso especial contra o mesmo acórdão apontado como ato coator no presente writ, encontrando-se em tramitação concomitante o Agravo em Recurso Especial n. 3.077.344/SP.
+A jurisprudência do Superior Tribunal de Justiça não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Nesse sentido, os seguintes precedentes: HC n. 870.636/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024; e AgRg no HC n. 842.953/SP, da minha relatoria, Sexta Turma, julgado em 6/2/2024, DJe de 8/2/2024.
+Ademais, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+O acórdão de origem está em consonância com a jurisprudência desta Corte. As instâncias ordinárias fundamentaram adequadamente o afastamento do tráfico privilegiado com base em circunstâncias concretas do caso.
+Conforme se extrai da sentença, o juízo rejeitou a aplicação da causa especial de diminuição de pena e a fixação de regime mais brando sob o argumento de que há comprovação nos autos da dedicação à atividade criminosa, conforme documentado nas conversas degravadas às fls. 60/72, que revelam que o réu vinha explorando o tráfico de drogas de maneira contumaz, possuindo uma rede de contatos com quem comprava e vendia drogas com frequência, postura que diverge da ideia de quem é iniciante no ramo (fl. 33).
+O Superior Tribunal de Justiça tem entendimento no sentido de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto. Cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, somente passível de revisão pelas instâncias superiores na hipótese de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não se observa no presente caso.
+No que se refere ao regime inicial de cumprimento de pena, observa-se que o juízo fixou o regime inicial fechado, em conformidade com os parâmetros legais, considerando-se a pena aplicada de 5 anos de reclusão e a gravidade concreta do delito.
+No mais, é firme o entendimento desta Corte Superior a respeito da possibilidade de imposição de regime mais gravoso de cumprimento de pena com fundamento na gravidade concreta do delito, como ocorreu na hipótese dos autos.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SUBSTITUTIVO DE RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO CONCOMITANTE DE AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AFASTAMENTO DO TRÁFICO PRIVILEGIADO. REGIME INICIAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Writ não conhecido.
