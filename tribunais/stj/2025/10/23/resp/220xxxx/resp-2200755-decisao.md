@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED NORTE MATO GROSSO COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo TJMT, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER E ANTECIPAÇÃO DE TUTELA - PLANO DE SAÚDE - INSUFICIÊNCIA RENAL CRÔNICA - TRATAMENTO COM MEDICAMENTO - URGÊNCIA DEMONSTRADA - NEGATIVA INDEVIDA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1- Conforme entendimento assente no Superior Tribunal de Justiça, a operadora do plano de saúde "pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura."(AgInt no AR Esp 1096312/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, D Je 04/12/2017).3
+2- Com a aplicação do CDC, a ausência de estipulação negativa ou a abusiva exclusão milita em favor do consumidor, em interpretação ao art. 47 do dito texto legal, que estabelece que "As cláusulas contratuais , justamente com o fito de manter o equilíbrio entreserão interpretadas de maneira mais favorável ao consumidor" os contratantes.
+3- Existindo disfunção social do contrato caso aplicada em desfavor do paciente, acometida de doença grave, deve ser resguardada a boa-fé contratual, em aplicabilidade aos artigos 421 e 422 do Código Civil.
+4- Havendo previsão prejudicial ao aderente de contrato de adesão, deve-se interpretar as cláusulas de maneira mais favorável a ele, nos termos do art. 423 do CC.
+5- "É forçoso concluir que o rol de procedimentos e eventos em saúde da ANS tem natureza meramente exemplificativa, porque só dessa forma se concretiza, a partir das desigualdades havidas entre as partes contratantes, a harmonia das relações de consumo e o equilíbrio nas relações entre consumidores e fornecedores, de modo a satisfazer, substancialmente, o objetivo da Política Nacional das Relações de Consumo" (REsp 1846108/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/02/2021, D Je 05/02/2021).
+6- A jurisprudência desta Corte firmou o entendimento de que é "abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar" (AgInt no AR Esp 1.433.371/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, D Je de 24/9/2019).
+Nas razões do presente recurso, UNIMED alegou a violação aos arts. 4º e 10 da Lei nº 9.656/98, 421 e 422 do CC e 293, 489 e 1.022 do NCPC ao sustentar que (1) o TJMT não se pronunciou sobre (i) preliminar de impugnação ao valor da causa; (ii) a existência de cobertura parcial temporária pelo prazo de 24 meses (art. 11 da Lei nº 9.656/98); (iii) a ausência de urgência/emergência no procedimento de transplante (art. 35-C, II, da Lei nº 9.656/98); (iv) o enunciado legal que expressamente afasta a cobertura de medicamento para utilização domiciliar (artigo 10, inciso VI e artigo 12, inciso I, ambos da Lei nº 9.656/98); (2) não está legal e contratualmente obrigada ao custeio de medicamento de uso domiciliar.
+É o relatório.
+DECIDO.
+O presente inconformismo merece prosperar.
+De fato, em seu embargos de declaração a UNIMED requereu a manifestação do Tribunal de origem quanto a tais pontos.
+Embora o TJMT tenha se pronunciado sobre a urgência do tratamento e a obrigatoriedade de fornecimento do medicamento à luz da Lei nº 9.656/98, manteve-se silente quanto à preliminar de impugnação ao valor da causa e à alegação de existência de cobertura parcial temporária pelo prazo de 24 meses (art. 11 da Lei nº 9.656/98).
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJMT a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), DOU PARCIAL PROVIMENTO ao recurso especial determinando o retorno dos autos ao TJMT para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO VERIFICADA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
