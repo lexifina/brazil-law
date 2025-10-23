@@ -1,0 +1,23 @@
+DECISÃO
+JULIA PEREIRA DA SILVA alega sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, que denegou a ordem no no HC n. 029844-24.2025.8.11.0000.
+A paciente foi presa em flagrante, pela prática do crime de tráfico de drogas, e teve sua prisão convertida em preventiva. Posteriormente, por esse delito, foi oferecida denúncia em seu desfavor.
+A defesa alega falta de perigo concreto na libertação da acusada e ausência de fundamentação da decisão que converteu a segregação em preventiva. Argumenta que são suficientes medidas cautelares diversas do cárcere ou a prisão domiciliar, observado que a paciente é mãe de três crianças menores de 12 anos de idade.
+Requer que seja revogada a prisão preventiva ou sua substituição por medidas cautelares diferentes dela.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+O flagrante foi homologado e a prisão foi convertida em preventiva, em decisão assim fundamentada (fls. 105-106, grifei):
+Diante dos elementos informativos colhidos na presente demanda, verifica-se que a necessidade da segregação cautelar tem por escopo a garantia da ordem pública.
+Do que restou preliminarmente apurado, a Polícia Civil abordou a flagrada em atitude suspeita, considerando a dispensa de objeto, posteriormente identificado como invólucro de maconha. A custodiada, supostamente, teria confessado informalmente que pratica a traficância, autorizando o ingresso em sua residência, local no qual foram encontrados 126 invólucros de cocaína, uma porção grande de cocaína, 28 porções de maconha, 20 porções de pasta-base de cocaína, além de R$ 110,00.
+A quantidade e diversidade de drogas demonstra a gravidade concreta da conduta.
+Se não bastar, a flagrada ostenta condenação transitada em julgado pela prática de tráfico de drogas (Ação Penal n.º 1001029-79.2024.8.11.0023), a demonstrar o risco de reiteração delitiva e a necessidade de atuação austera, além da insuficiência de outras medidas diversas da prisão.
+A Corte local denegou a ordem no habeas corpus previamente impetrado (fls. 28-37).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Deve, ainda, ficar concretamente evidenciado, na forma do art. 282, § 6º, do CPP, que, presentes os motivos que a autorizam, não é suficiente e adequada a sua substituição por outras medidas cautelares menos invasivas à liberdade.
+Entendo que, para a garantia da ordem pública, a prisão preventiva da acusada foi validamente fundamentada com base no risco concreto de reiteração delitiva, pois ela ostenta condenação definitiva por tráfico de drogas, ou seja, é reincidente específica.
+Com efeito, "A reincidência específica em tráfico de drogas reforça o risco de reiteração delitiva, legitimando a medida extrema" (AgRg no RHC n. 222.460/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/10/2025, DJEN de 21/10/2025).
+Ademais, "As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública, notadamente diante da possibilidade de reiteração delitiva" (AgRg no HC n. 1.009.923/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2025, DJEN de 2/9/2025).
+Consta dos autos que as drogas foram apreendidas na casa onde a autuada reside com seus filhos menores (fls. 105-106), e "A prática de tráfico de drogas na residência onde vivem filhos menores de 12 anos configura risco à prole e justifica o indeferimento da substituição da prisão por domiciliar" (AgRg no HC n. 1.004.384/SE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+Extrai-se do acórdão que "o companheiro da custodiada, senhor Marcos Guedes da Silva, tem assumido, de forma satisfatória, as funções parentais, prestando assistência direta às cria nças, zelando por sua alimentação, organização do lar e conduzindo-as à unidade escolar" (fl. 36), o que reforça o não cabimento da custódia domiciliar.
+À vista do exposto, in limine, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
