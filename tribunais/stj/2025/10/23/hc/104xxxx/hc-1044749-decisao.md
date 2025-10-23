@@ -1,0 +1,15 @@
+DECISÃO
+STEVEN ROBSON SIQUEIRA DOS SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no Agravo em Execução n. 0020753-26.2025.8.26.0996.
+Na origem, o Juízo da execução concedeu ao apenado a progressão de regime sem exigir exame criminológico, por entender preenchidos os requisitos legais. Irresignado, o Ministério Público recorreu e a decisão foi cassada.
+A defesa explica que o reeducando está no regime aberto desde 8/9/2025 e não registra faltas disciplinares no curso da execução. Sustenta a irretroatividade da Lei n. 14.843/2024 e a falta de fundamentação idônea para justificar o exame criminológico, sem indicação de peculiaridades concretas do caso.
+Requer, por isso, o restabelecimento da decisão de primeiro grau.
+Decido.
+O paciente foi progredido de regime, mas o Tribunal de origem cassou a decisão do Juiz da VEC, porquanto (fl. 14):
+ ..  razão assiste ao representante do Ministério Público, quando sustenta a temeridade da concessão de benefício de tamanha amplitude ao sentenciado que ostenta condenação por tráfico de drogas, sem aplicação do redutor do art. 33, §4º, da Lei de Drogas, já que praticava o comércio de substâncias ilícitas, crime tratado como hediondo pelo ordenamento, que financia as atividades de perigosas organizações criminosas e que fomenta a prática de outros delitos, abalando a ordem pública e a paz social (fls. 14/16) sem a verificação, com maior profundidade, de sua aptidão para o retorno gradativo ao convívio em sociedade.
+É possível o avanço para a pronta solução do habeas corpus, com base na jurisprudência sobre o tema.
+Ressalte-se que " a  exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.  ..  A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal" (RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/8/2024.)
+Uma vez considerada a legislação vigente à época dos fatos e a Súmula n. 439 deste Superior Tribunal de Justiça, verifica-se a flagrante ilegalidade do ato apontado como coator, pois não foram indicadas peculiaridades do caso, em decisão motivada, para a determinação do exame criminológico.
+O acórdão recorrido está em desacordo com o entendimento, já manifestado pelo colegiado, de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão de primeiro grau.
+Publique-se e intimem-se.
+EMENTA
