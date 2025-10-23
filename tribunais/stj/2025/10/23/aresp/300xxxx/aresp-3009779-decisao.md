@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por COPLAC TEXTIL AUTOMOTIVE SYSTEMS LTDA., contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 667, e-STJ):
+Ação monitória. Alegação da autora de que é credora da ré de uma dívida referente a transporte de carga. Sentença de parcial procedência. Pretensão da ré de reforma. Descabimento. Petição inicial que atendeu aos requisitos do art. 700 do CPC, com apresentação de prova escrita. Cerceamento de defesa não configurado, sendo desnecessária a realização de perícia. Planilha de cálculo apresentada pela apelada, excluídos valores sem comprovação. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 686-691, e-STJ.
+Nas razões de recurso especial (fls. 694-703, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 1.022, II, do CPC; art. 93, IX, da CF/1988.
+Sustenta, em síntese: negativa de prestação jurisdicional por omissões relevantes no acórdão recorrido e nos embargos de declaração, quanto a argumentos capazes de, em tese, infirmar a conclusão (inconsistências na planilha de fls. 566-570; ausência de canhotos e assinaturas; divergência de valores de CT-es e boletos; intempestividade de documentos na ação monitória), afirmando bastar o cotejo entre os embargos e o acórdão, sem reexame de provas.
+Contrarrazões apresentadas às fls. 714-716, e-STJ.
+Em juízo de admissibilidade (fls. 717-718, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 721-730, e-STJ).
+Sem contraminuta (fl. 732, e-STJ)
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De inicio, cumpre asseverar não ser atribuição desta Corte a análise de contrariedade a dispositivos constitucionais, sob pena de usurpação da competência do STF, razão pela qual é incabível o exame da alegada afronta ao art. 5º, da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO INDEVIDO DE MARCA. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA RECURSAL ELEITA. COMPETÊNCIA DO STF. NULIDADE DO ACÓRDÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE INTERESSE E INOVAÇÃO RECURSAL. DECISÃO ULTRA PETITA. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MATERIAIS E MORAIS . DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO DESPROVIDO.
+1. "Compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Constituição Federal)" (AgRg no AREsp n. 359.463/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe 3/3/2015).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp 842.987/SP, Terceira Turma, Rel. Ministro MARCO AURÉLIO BELLIZZE, julg ado em 7/4/2016, DJe 14/4/2016)
+2. Com efeito, no que tange à alegada violação ao artigo 1.022 do CPC/15, não merece acolhimento a insurgência, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+Aduz a agravante a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso em relação ao enfrentamento da questão relativa à inconsistências na planilha de fls. 566-570; ausência de canhotos e assinaturas; divergência de valores de CT-es e boletos; intempestividade de documentos na ação monitória.
+Contudo, da leitura dos autos, constata-se que referida tese foi expressamente examinada pela Corte a quo, consoante se denota dos seguintes trechos (fls. 688/689, e-STJ):
+Acontece que não há qualquer desses vícios no v. acórdão, que justifique a interposição do recurso.
+Foram apreciadas todas as matérias levadas a julgamento, apontando os fundamentos da decisão.
+É nítido o inconformismo da parte embargante, que, não concordando com as razões do v. acórdão, pretende a reforma do julgado.
+Constou do v. acórdão que se observa dos autos que o juízo de primeira instância determinou que a autora organizasse a documentação apresentada a fls. 14/185 e 230/476, especificando o valor de cada serviço prestado, com a referência aos documentos juntados aos autos que os comprovam e respectivo valor, bem como a previsão contratual da cláusula penal de 2% sobre o preço do serviço (fls. 493/494), com atendimento pela apelada a fls. 503/514.
+Foi rejeitada a alegação de cerceamento de defesa, tendo sido apresentada toda a documentação necessária para o julgamento da ação, sendo desnecessária a realização de perícia.
+Destacou-se que não tem razão a apelante também com relação à pretensão de extinção da ação sem resolução do mérito, porque a apelada atendeu ao disposto no art. 700 do Código de Processo Civil. O art. 700 do CPC estabelece que "a ação monitória pode ser proposta por aquele que afirmar, com base em prova escrita sem eficácia de título executivo, ter direito de exigir do devedor capaz: I - o pagamento de quantia em dinheiro .. § 2º - Na petição inicial, incumbe ao autor explicitar, conforme o caso: I a importância devida, instruindo-a com memória de cálculo; II o valor atual da coisa reclamada; III o conteúdo patrimonial em discussão ou o proveito econômico perseguido".
+Verificou-se dos autos que a apelada apresentou a prova escrita exigida, juntando aos autos e-mails trocados entre as partes, notas do transporte, notas fiscais dos produtos, comprovantes de recebimento de mercadoria e DACT Es. A planilha de fls. 566/570 elenca os boletos, com as respectivas notas fiscais e CT-es. A r. sentença determinou a exclusão dos valores referentes aos 28 documentos de Conhecimento de Transporte Eletrônico sem a necessária comprovação.
+Ressaltou-se que o e-mail de fl. 30, enviado por uma funcionária da apelante, demonstra que a Diretoria estava de acordo com o valor apontado e propõe o parcelamento da dívida, comprovando, a existência da dívida.
+Concluiu-se que é de rigor a condenação da apelante ao pagamento dos valores devidos e regularmente comprovados nos autos, destacando que já houve a exclusão dos valores cobrados sem a respectiva prova.
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1022 do CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - INDEFERIMENTO DE CITAÇÃO POR MEIO ELETRÔNICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EXEQUENTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. "A Lei nº 14.195/2021, ao modificar o art. 246 do CPC/15, a fim de disciplinar a possibilidade de citação por meio eletrônico, isto, pelo envio ao endereço eletrônico (e-mail) cadastrado pela parte, estabeleceu um detalhado procedimento de confirmação e de validação dos atos comunicados que, para sua efetiva implementação, pressupõe, inclusive, a pré-existência de um complexo banco de dados que reunirá os endereços eletrônicos das pessoas a serem citadas  .. " (REsp nº 2.045.633/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 08/08/2023, DJe 14/08/2023).
+2.1 No caso dos autos, as instâncias ordinárias consignaram que: (i) o sistema de citação por meio eletrônico não se encontra totalmente implementado no Tribunal de origem; (ii) a citanda não endereço de e-mail cadastrado no respectivo banco de dados. Essas circunstâncias inviabilizam a citação na forma como pretendida. Incidência da Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.417.241/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/4/2024, DJe de 3/6/2024.)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
+EMENTA
