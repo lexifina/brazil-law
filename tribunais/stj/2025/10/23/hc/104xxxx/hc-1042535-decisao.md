@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS ANACLETO FERREIRA DUARTE, contra decisão proferida pelo Desembargador Relator do habeas corpus n. 1.0000.25.357356-2/000, impetrado perante o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que indeferiu o pedido liminar feito naqueles autos.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas, tendo o flagrante sido homologado e convertido em prisão preventiva. A decisão recorrida manteve a custódia cautelar, destacando a apreensão de 490 pinos que reagiram, em laudo preliminar, para cocaína, e 18 g de maconha, bem como a existência de registros anteriores e a quebra de compromisso em benefício anterior de liberdade, reputando necessária a prisão para garantia da ordem pública e aplicação da lei penal.
+Inconformada, a defesa impetra novo habeas corpus contra a decisão que indeferiu o pedido liminar, no qual sustenta nulidade da prisão em razão de invasão de domicílio sem mandado e flagrante forjado, bem como a imprescindibilidade do paciente aos cuidados de duas filhas menores, uma delas com TEA, requerendo substituição da prisão preventiva por domiciliar. Aponta, ainda, a fragilidade da fundamentação da preventiva, por se apoiar na gravidade abstrata e no histórico policial, sem dados concretos de risco à ordem pública.
+Requer liminarmente a substituição da prisão preventiva por prisão domiciliar, com ou sem monitoração eletrônica, e a expedição de alvará de soltura. No mérito, requer a concessão da ordem para reconhecer a nulidade do flagrante e revogar a prisão ou, subsidiariamente, conceder definitivamente a prisão domiciliar.
+É o relatório.
+DECIDO.
+A teor do disposto na Súmula 691 do Supremo Tribunal Federal, não se admite a impetração de habeas corpus contra decisão que indeferiu o pedido de liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito do óbice, a jurisprudência do STJ firmou a compreensão de que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação da referida Súmula.
+Na espécie, o pedido de liminar foi indeferido no Tribunal de origem nos seguintes termos (fls. 273-276):
+ ..  Verifico que foram apreendidos, com o paciente; 18g de substância que reagiu, conforme análise em laudo preliminar, para maconha, e 490 pinos de substância que reagiu, conforme análise em laudo preliminar, para cocaína, estupefaciente com elevado potencial de lesividade à saúde pública, bem jurídico tutelado pela norma penal incriminadora.
+Demais disso, o paciente já foi beneficiado com restituição da liberdade em processo/procedimento anterior, quebrando, assim, compromisso assumido com o Poder Judiciário, a evidenciar, com a nova prisão em flagrante delito, comportamento demonstrativo de acentuada descrença na lei e menosprezo pelo sistema de justiça.
+Destarte, penso não se mostrar socialmente recomendável, ao menos em um juízo de cognição sumária, o deferimento da tutela de urgência.
+Assim, da análise dos autos, em um juízo realizado prima facie, não vislumbro, sem qualquer adiantamento do mérito da demanda, manifesta ilegalidade na decisão objurgada a ensejar o deferimento da tutela de urgência, demandando um exame mais aprofundado dos autos, inviável em um juízo de cognição sumária, mostrando-se recomendável sua análise por órgão colegiado, através da turma julgadora, após manifestação do Parquet.
+Como se vê, o pedido liminar foi indeferido na origem porquanto não evidenciados, de plano, os pressupostos autorizativos da medida urgente, em especial, o fumus boni iuris, na medida em que, em tese, fundamentada a prisão preventiva, não se vislumbrando, em juízo de cognição sumária, razão para o deferimento da tutela de urgência.
+Com efeito, a pretensão defensiva é questão passível de indeferimento liminar do habeas corpus , uma vez não constatado prima facie o suposto constrangimento ilegal alegado.
+Não se verifica, dess a forma, teratologia ou manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise do mérito da questão.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
