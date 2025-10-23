@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VITOR AUGUSTO ALVES RODRIGUES, JOAO VICTOR DE ANDRADE BALDASSARINI e MURILO MATOS DE LUCA TINEU, em que se aponta como autoridade coatora a Desembargora relatora do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Narra a defesa que os pacientes foram presos em flagrante em 15/10/2025 e que a audiência de custódia foi realizada apenas em 17/10/2025 em descompasso com o prazo de 24 horas previsto na Resolução CNJ n. 213/2015, o que teria contaminado o flagrante com ilegalidade.
+Informa que o habeas corpus impetrado no Tribunal Regional Federal da 3ª Região, teve a liminar indeferida, mantendo-se a prisão que a defesa qualifica como formalmente ilegal.
+No presente writ, alega a defesa a ilegalidade da prisão pela inobservância do prazo de 24 horas para a audiência de custódia.
+Requer o relaxamento da prisão em flagrante dos pacientes, com a expedição dos competentes alvarás de soltura, e, subsidiariamente, a concessão de liberdade provisória com medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, uma vez que não estão suficientemente instruídos. D essa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado, de plano, o fumus boni iuris do pedido, pois não há, sequer, cópia do inteiro teor da decisão que indeferiu o pedido liminar.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. INSTRUÇÃO DEFICIENTE. INVIABILIDADE DE EXAME. RECURSO NÃO PROVIDO. 1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência do aventado constrangimento ilegal suportado, decorrente de Tribunal sujeito a jurisdição desta Corte Superior, providência não efetivada pelo impetrante. 2. De acordo com a orientação jurisprudencial emanada por esta Corte, "não se coaduna com o remédio heroico o propósito de "busca" de informações a respeito da situação do réu, quando não fornecidos sequer elementos mínimos que possam demonstrar a plausibilidade das razões suscitadas. " (AgRg no HC 289.502/MA, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 01/04/2014, DJe de 07/04/2014). 3. Agravo regimental não provido. (AgRg no HC n. 783.393/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 10/4/2024.)
+Ante o exposto, com fulcro no art . 34, inc. XX e art. 210, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
