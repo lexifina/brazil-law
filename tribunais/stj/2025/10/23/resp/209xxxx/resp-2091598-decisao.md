@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 250-252), assim ementado:
+AGRAVO INTERNO Pedido de tutela antecipada recursal Indeferimento Pretensão de reapreciação Reconsideração inviável. Recurso negado.
+A parte recorrente opôs embargos de declaração contra a decisão recorrida, tendo sido estes rejeitados (fls. 283-288).
+Em seguida, interpôs o presente recurso especial, admitido na origem com fundamento no art.105, III, a e c, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 489, § 1º, III a VI; 855; 866; 926; 1.022, II e parágrafo único, II; 1.037, § 9º, § 10, II, e § 12, I, todos do CPC, bem como dissídio jurisprudencial.
+É o relatório.
+Passo a decidir.
+O recurso especial se volta contra acórdão do TJSP que, em execução fiscal, manteve o indeferimento da penhora de créditos e determinou o sobrestamento pelo Tema 769/STJ, além de rejeitar embargos de declaração.
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, relaciona-se ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 769/STJ, cuja questão submetida a julgamento foi: "Definição a respeito: i) da necessidade de esgotamento das diligências como pré-requisito para a penhora do faturamento; ii) da equiparação da penhora de faturamento à constrição preferencial sobre dinheiro, constituindo ou não medida excepcional no âmbito dos processos regidos pela Lei 6.830/1980; e iii) da caracterização da penhora do faturamento como medida que implica violação do princípio da menor onerosidade. "
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração de distinção, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e pro telatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
