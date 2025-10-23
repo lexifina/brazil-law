@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por SAMARA FERNANDES DA SILVA contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial dirigido contra o acórdão prolatado no Recurso em Sentido Estrito n. 0706863-66.2022.8.07.0008 (fls. 698/728).
+No recurso especial (fls. 761/770), a agravante sustenta, em síntese, violação dos arts. 76, 77 e 78, I, todos do Código de Processo Penal, além de dissídio jurisprudencial, ao argumento de que não haveria conexão entre a imputação de porte ilegal de arma de fogo (art. 14 da Lei n. 10.826/2003) e o crime de homicídio supostamente praticado por seu marido, sendo indevida, assim, a competência do Tribunal do Júri. Alega, ainda, ofensa indireta ao art. 5º, XXXVIII, alínea d, da Constituição Federal.
+O Tribunal de origem não admitiu o apelo nobre ante a incidência da Súmula 7/STJ, da ausência de cotejo analítico, e da impossibilidade de discussão de matéria constitucional (fls. 799/803). Foi interposto agravo em recurso especial às fls. 850/861.
+Às fls. 889/890, a Presidência do STJ analisou agravo em recurso especial do corréu Diogo de Jesus Silva.
+Posteriormente, a agravante apresentou petição incidental sustentando que a referida decisão da Presidência examinou apenas o recurso especial do corréu Diogo de Jesus Silva, sem qualquer menção ao seu recurso, razão pela qual requereu o reconhecimento da falha, com a consequente apreciação de seu agravo (fls. 850/861).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo (fls. 920/926).
+É o relatório.
+Inicialmente, registro que assiste razão à agravante. A decisão da Presidência do Superior Tribunal de Justiça (fls. 889/890) apenas examinou o recurso do corréu. Por tal motivo, passo à sua apreciação.
+O agravo é admissível, pois foi interposto tempestivamente e impugna os fundamentos da decisão de inadmissibilidade.
+O recurso especial foi interposto com fundamento nas alíneas a e c do art. 105, III, da Constituição Federal.
+No juízo de admissibilidade (fls. 799/803), o Tribunal de origem inadmitiu o recurso especial em razão da Súmula 7/STJ, da ausência de cotejo analítico e da violação de normas constitucionais.
+Quanto à alegada afronta aos arts. 76, 77 e 78, I, do Código de Processo Penal, o recurso não demonstrou de que modo o julgado teria incorrido em interpretação equivocada. Tal omissão caracteriza evidente deficiência na fundamentação do recurso especial, circunstância que impede seu conhecimento. Justifica-se, assim, a correta aplicação da Súmula 284/STF.
+Na mesma linha: AgRg no AREsp n. 2.482.535/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/3/2024; AgRg no REsp n. 1.968.097/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2024; AgRg no AREsp n. 2.314.965/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/6/2023; e AgRg no REsp n. 1.949.109/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/6/2022.
+Sublinho, nesse particular, que a menção a normas infraconstitucionais, de forma esparsa, no corpo das razões recursais, desacompanhada da necessária argumentação que a sustente, não é suficiente para o conhecimento do recurso especial, pois dificulta a delimitação da controvérsia. A propósito: AgRg no AREsp n. 2.721.120/GO, Ministro Messod Azulay Neto, Quinta Turma, DJEN 28/5/2025.
+Por outro lado, segundo a jurisprudência pacífica do Superior Tribunal de Justiça, não se conhece de recurso especial fundado em dissídio jurisprudencial quando ausente o cotejo analítico entre os acórdãos confrontados e quando não juntado aos autos o inteiro teor dos julgados paradigmas. Trata-se de regra técnica cujo descumprimento configura vício substancial e insanável (AgRg no REsp n. 1.813.396/PR, Ministro João Otávio de Noronha, Quinta Turma, DJe 27/8/2021).
+No caso concreto, a parte recorrente não apresentou o inteiro teor dos acórdãos paradigmas, nem demonstrou, de forma analítica, a identidade fática e a divergência entre os julgados, limitando-se à mera transcrição de ementas, o que não atende ao disposto no art. 1.029, § 1º, do CPC, e no art. 255, § 1º, do RISTJ.
+Portanto, a parte agravante não logrou comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional, incidindo a Súmula 284/STF. Nesse sentido: AgInt no REsp n. 2.099.049/CE, Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 20/5/2024.
+An te o exposto, conheço do agrav o para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE COTEJO ANALÍTICO PARA COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
