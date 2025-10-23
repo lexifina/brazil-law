@@ -1,0 +1,10 @@
+DECISÃO
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, refere-se ao Tema 1191/STJ, cuja tese firmada é: "Na sistemática da substituição tributária para frente, em que o contribuinte substituído revende a mercadoria por preço menor do que a base de cálculo presumida para o recolhimento do tributo, é inaplicável a condição prevista no art. 166 do CTN."
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+De acordo com o entendimento do STJ, qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida aos tribunais de origem a fim de que exerçam a competência que lhes foi atribuída.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso observe o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração de distinção, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
