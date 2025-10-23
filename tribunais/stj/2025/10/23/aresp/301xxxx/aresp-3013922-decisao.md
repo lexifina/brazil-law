@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por RENATO FONSECA COSTA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. NULIDADE DE NEGÓCIO JURÍDICO. PROPAGANDA ENGANOSA. RESPONSABILIDADE CIVIL OBJETIVA. AUSÊNCIA DE PROVA DA RELAÇÃO JURÍDICA E DO PREJUÍZO MATERIAL. IMPROCEDÊNCIA DOS PEDIDOS MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME.
+1. Na origem, foi julgada improcedente a ação que objetivava a declaração de nulidade de negócio jurídico c/c reparação por danos materiais e morais, decorrente de alegado contrato de consórcio derivado de propaganda enganosa.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) verificar se restou comprovada a relação jurídica entre as partes, que se alega originada de contratação induzida por propaganda enganosa; e (ii) analisar se estão presentes os elementos caracterizadores da responsabilidade civil objetiva da empresa apelada, notadamente o defeito na prestação do serviço, o dano e o nexo de causalidade.
+III. RAZÕES DE DECIDIR
+3. Ausente a comprovação da existência de relação jurídica entre as partes, bem como do prejuízo reportado pelo consumidor, de rigor a manutenção da sentença que afastou a responsabilidade civil do fornecedor.
+4. A jurisprudência do Superior Tribunal de Justiça é no sentido de que " a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no AREsp n. 1.951.076/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022).
+IV. DISPOSITIVO E TESE
+5. Apelação conhecida e desprovida.
+Tese de julgamento: "A inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito".
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação ao art. 6º, VI e VIII, do CDC e aos arts. 186 e 927 do CC, no que concerne ao cabimento da compensação por danos morais, tendo em vista que a empresa promoveu propaganda enganosa, levando o recorrente a acreditar que contratava um financiamento, quando na verdade era um consórcio, trazendo a seguinte argumentação:
+Portanto, consoante a exegese dos dispositivos supracitados, foi desconsiderado que o recorrente demonstrou através de outros meios de prova que efetuou o pagamento de R$1.879,74 (um mil oitocentos e setenta e nove reais e setenta e quatro centavos) referente à 1ª parcela do contrato, uma vez que não recebeu o comprovante de pagamento da entrada.
+Desse modo, o direito do recorrente não só é provável como descabida qualquer argumentação em contrário, sendo possível verificar que a empresa cometeu ato ilícito, veiculando propaganda enganosa reconhecida nacionalmente.
+É fato que o recorrente realizou a efetiva concretização do negócio jurídico, conforme cópia do contrato em ID 19611136, indicando, inclusive, nº do contrato na pág. 5:
+ ..
+Verifica-se que houve a concretização do negócio jurídico e pagamento da 1ª parcela do contrato pelo recorrente, acreditando se tratar de um crédito para obtenção de uma motocicleta. Mas, na realidade, se tratava de um consórcio, ofertado através de propaganda enganosa reconhecida nacionalmente, fazendo jus à reparação moral (fls. 291/293).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Sucede que, não obstante se esteja diante de responsabilidade objetiva do fornecedor, não foram apresentadas pelo apelante, tal como decidido pelo Juízo sentenciante, provas aptas a demonstrar que houve a efetiva contratação de consórcio e, mais que isso, que tal contratação decorreu de uma propaganda enganosa praticada pelo fornecedor. Pensar diferente seria o mesmo que concluir pela ilicitude de todo contrato firmado pela empresa apelada, sem exceção.
+Mais que isso, não houve comprovação de efetivo prejuízo pelo apelante, uma vez que não demonstrou o pagamento do valor que reputa ter dado de entrada na motocicleta (R$ 1.879,74). Nesse ponto, destaca-se que tal prova caberia exclusivamente ao consumidor.
+Eis a razão pela qual não foi dado ênfase pelo Juíz a quo ao contrato de ID 19611136, uma vez que não há efetiva demonstração de sua conclusão, destacando-se que a empresa apelada nega formalmente a existência de qualquer relação jurídica entre as partes (ID 19611138).
+ ..
+Dessa forma, conclui-se que o apelante não se desincumbiu de comprovar o fato constitutivo do seu direito (art. 373, I, do CPC), de sorte que deve ser mantida a improcedência da sua pretensão, uma vez que, além de não demonstrada a relação jurídica firmada entre as partes, não houve a comprovação de prejuízo ao consumidor, afastando-se, dessa forma, a responsabilidade civil da empresa apelada.
+Assim, considerando-se que não restaram presentes todos os elementos caracterizadores da responsabilidade civil, de rigor a manutenção da sentença que julgou improcedente a pretensão indenizatória (fls. 213/214)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
