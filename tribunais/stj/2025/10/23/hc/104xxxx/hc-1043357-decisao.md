@@ -1,0 +1,20 @@
+DECISÃO
+CHUNG CHOUL LEE alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no Agravo em Execução n. 0004709-34.2025.8.26.0477.
+A defesa busca a concessão de indulto em favor do paciente, ao argumento de que sua situação se enquadraria na hipótese prevista no art. 9, VII, do Decreto Presidencial n. 12.338/2024.
+Decido.
+Conforme o decreto de regência (art. 9º), concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+ ..
+VII - a pena privativa de liberdade sob o regime aberto ou substituída por pena restritiva de direitos,  ..  ou beneficiadas com a suspensão condicional da pena, que tenham cumprido, até 25 de dezembro de 2024, um sexto da pena, se não reincidentes, ou um quinto da pena, se reincidentes;
+VIII - a pena privativa de liberdade que estejam em livramento condicional ou cumprindo pena em regime aberto, cujo período da pena remanescente, em 25 de dezembro de 2024, não seja superior a seis anos, se não reincidentes, ou quatro anos, se reincidentes;
+O Juízo da execução indferiu o pedido formula do em favor do paciente, por meio de decisão assim fundamentada (fl. 27):
+INDEFIRO o pedido de indulto formulado em favor do(a) reeducando(a) Chung Choul Lee, com fulcro no Decreto Presidencial 12.338/2024, de 23 de dezembro de 2024, pois, como bem demonstrado pelo Ministério Público em sua manifestação de págs. 1514/1515, caso em que o reeducando não esta contemplado no art. 9º, inciso VIII, do Decreto nº 12.338/2024, vez que nesse artigo às pessoas condenadas a pena privativa de liberdade que estejam em livramento condicional ou cumprindo pena em regime aberto, cujo período da pena remanescente, em 25 de dezembro de 2024, não seja superior a seis anos, se não reincidentes, ou quatro anos, se reincidentes, ou seja, neste caso, o remanescente é superior a sete anos de pena à cumprir.
+Portanto, incabível o indulto pretendido, nestes autos.
+O Tribunal de origem negou o pedido, pois o disposto no inc. VIII do art. 9º do decreto de regência seria o aplicável na hipótese dos autos, uma vez que "dirige-se aos apenados que, inicialmente submetidos a regime mais rigoroso, progrediram ao regime aberto em decorrência do cumprimento satisfatório de parcela significativa da reprimenda" (fl. 12).
+De fato, o reeducando foi condenado a iniciar sua pena privativa de liberdade em regime fechado, estando, atualmente, em regime aberto, em razão do sistema progressivo de cumprimento da reprimenda.
+Desta forma, o acórdão estadual destacou que, "para esta hipótese, exige-se critério adicional mais restritivo: o limite temporal da pena remanescente não superior a seis anos, se não reincidentes, ou quatro anos, se reincidentes" e, in casu, o sentenciado "possui ainda por cumprir 7 anos, 5 meses e 29 dias de pena, de modo que não preenche os requisitos objetivos estabelecidos para a benesse" (fls. 12-13).
+O indulto natalino é um benefício cuja concessão está restrita aos requisitos estabelecidos no decreto presidencial, sendo vedada a extensão do perdão a situações não previstas pelo Presidente da República.
+No caso, o paciente não foi condenado ao cumprimento de pena privativa de liberdade em regime inicial aberto, mas cumpre a reprimenda, atualmente, em regime aberto, razão pela qual não incide a regra prevista no art. 9º, VII, do Decreto n. 12.338/2024, mas no inc. VII do mesmo dispositivo legal.
+É possível o avanço para a pronta solução do habeas corpus, pois, "Para a concessão de indulto devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao magistrado criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma, sob pena de ofensa ao princípio da legalidade, pois é da competência privativa do Presidente da República a tarefa de estabelecer os limites para a concessão da benesse" (AgRg no HC n. 870.877/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
