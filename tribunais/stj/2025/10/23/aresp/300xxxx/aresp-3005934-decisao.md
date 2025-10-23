@@ -1,0 +1,19 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MEDICO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por MARTHA JACKELINE AMARO, em face da agravante, na qual requer que o plano de saúde autorize e custeie cirurgias plásticas reparadoras pós-bariátrica (lipoaspiração, abdominoplastia, mamoplastia com prótese e braquioplastia) e a compensação por danos morais.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante e deu parcial provimento ao recurso de apelação interposto pela agravada, nos termos da seguinte ementa:
+DIREITOS CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS. PROCEDÊNCIA PARCIAL DA PRETENSÃO. APELAÇÕES CÍVEIS. CONTRATO DE PLANO DE SAÚDE. PACIENTE COM QUADRO DE OBESIDADE MÓRBIDA. CONTINUIDADE DO TRATAMENTO APÓS CIRURGIA BARIÁTRICA. CARÁTER FUNCIONAL E REPARADOR. COMPLEMENTAÇÃO AO TRATAMENTO DE OBESIDADE. COBERTURA DEVIDA. JULGAMENTO DO TEMA 1069 PELO STJ. CONDUTA ABUSIVA. DANOS MORAIS CARACTERIZADOS. QUANTUM INDENIZATÓRIO (R$ 5.000,00). OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. POSSIBILIDADE. APELO DA RÉ DESPROVIDO. APELO DA AUTORA PARCIALMENTE PROVIDO. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. ACÓRDÃO Acordam os Desembargadores que integram a 2ª Câmara Cível deste Egrégio Tribunal de Justiça, em Turma e à unanimidade, em desprover o recurso da Unimed Natal Sociedade Cooperativa de Trabalho Médico e prover parcialmente o da autora, nos termos do voto do relator. (e-STJ fl. 811)
+Decisão de admissibilidade do TJ/RN: inadmitiu o recurso especial em razão do seguinte fundamento: inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional (arts. 5º, II, 37, da CF).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) não alegou violação à norma constitucional;
+ii) houve violação dos arts. 10, II, IV e § 4º, da Lei nº 9.656/98, 51, IV, do CDC e 104 e 421 do CC.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: inadmissibilidade de recurso especial fundamentado em violação de dispositivo constitucional (arts. 5º, II, 37, da CF).
+Ressalte-se que foi negado seguimento, na forma do art. 1.030, I, "b", do CPC, ao recurso especial quanto à alegada violação dos arts. 10, II e IV, § 4º, da Lei 9.656/98; e 104 e 421 do CC .
+Ademais, a título de reforço argumentativo, extraem-se do recurso especial argumentos relativos à alegada violação dos dispositivos constitucionais (e-STJ fls. 825 e 828).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (e-STJ fl. 815) em R$ 500,00 (quinhentos reais).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
