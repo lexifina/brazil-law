@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de JORGE CEZAR RAMOS FAGUNDES, condenado pelo crime de homicídio qualificado tentado (art. 121, § 2º, II e IV, c/c o art. 14, II, do Código Penal) à pena de 15 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado (Processo n. 5000785-50.2016.8.21.0002, da Vara Criminal da comarca de Alegrete/RS) - (fls. 688/691).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul, que, em 30/9/2025, negou provimento ao recurso de apelação (fls. 688/694).
+O writ foi inicialmente impetrado no Supremo Tribunal Federal que, conforme decisão de fl. 706, declinou da competência para esta Corte.
+Argumenta que, para compreensão da controvérsia aqui veiculada, é imprescindível a análise acurada dos vídeos relacionados aos atos perpetrados na Sessão do Júri realizada em 08/05/2025, notadamente o interrogatório do paciente e os debates orais, especificamente a sustentação realizada pelo Respeitável Defensor Público (fl. 6).
+Alega, em breve síntese, a deficiência da defesa técnica em plenário do júri.
+Sustenta que o defensor utilizou tempo exíguo e inadequado nos debates, dedicando grande parte da fala a temas alheios ao processo; contrariou frontalmente a tese de legítima defesa afirmada pelo paciente em interrogatório; e dispensou duas testemunhas defensivas presentes, configurando prejuízo concreto à defesa (fls. 6/8).
+Requer, em liminar e no mérito, o reconhecimento da nulidade da sessão do júri e de todos os atos subsequentes, com determinação de novo julgamento; e, por consequência, a revogação da prisão provisória, com expedição de alvará de soltura, ou a substituição por medida cautelar diversa (fls. 9/10).
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Afora isso, a tese de nulidade por deficiência da defesa técnica não foi nem sequer debatida no Tribunal a quo, circunstância que, por si só, obsta o exame do tema por esta Corte, ante a supressão de instância verificada.
+Ainda, para acolher-se a alegação de nulidade, nos termos expostos na petição em exame, seria necessário o reexame aprofundado do conjunto fático-probatório da ação penal, providência incabível na via estreita do habeas corpus.
+Por fim, eventuais nulidades, absolutas ou relativas, devem ser aduzidas em momento oportuno, sob pena de preclusão. Ainda, a jurisprudência do STJ rechaça a "nulidade de algibeira", caracterizada pela insurgência tardia da defesa, como estratégia processual, mesmo após a ciência de eventual vício (AgRg no AREsp n. 2.308.250/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 8/3/2024).
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. PRAZO EM CURSO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL NA ORIGEM. SISTEMA PROCESSUAL PENAL. DESVIRTUAMENTO. INADMISSIBILIDADE. HOMICÍDIO QUALIFICADO TENTADO. DEFICIÊNCIA DA DEFESA TÉCNICA. TEMA NÃO APRECIADO NO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. NULIDADE DE ALGIBEIRA. INVIABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
