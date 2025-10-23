@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de RODRIGO SANTOS E SILVA, em execução penal, no qual se reconheceu falta disciplinar de natureza grave em procedimento administrativo disciplinar (Execução n. 7001158-35.2013.8.26.0577, da Vara do Departamento de Execuções Criminais da comarca de São José dos Campos/SP - fls. 713/714).
+A impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, em 1/10/2025, negou provimento ao agravo de execução interposto pelo paciente (Agravo de Execução n. 0001824-15.2025.8.26.0520 - fls. 781/791)
+Alega constrangimento ilegal por ausência de prova concreta da participação do paciente; inexistência de confissão e negativa expressa dos fatos, conforme termo de declarações do procedimento disciplinar; insuficiência do depoimento isolado do reeducando flagrado com entorpecente; ausência de testemunhas que confirmem suposta dívida, repasse de pecúlio ou coação; divergência entre a versão apresentada na unidade prisional e a versão policial; não oferecimento de denúncia contra o paciente no processo criminal em que apenas o corréu foi condenado; e existência de decisão absolutória, em caso análogo, de outro sentenciado mencionado nos autos.
+Em caráter liminar, pede a suspensão imediata dos efeitos da falta disciplinar reconhecida e a absolvição do paciente por insuficiência probatória e, no mérito, requer a confirmação da liminar e a absolvição definitiva da falta disciplinar, com o reconhecimento da inexistência de lastro probatório idôneo (fls. 2/10).
+É o relatório.
+Não tem cabimento o presente writ, afinal a ilegalidade passível de justificar a impetração do habeas corpus substitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+No Superior Tribunal de Justiça, é pacífico o entendimento de que a via do habeas corpus é imprópria para a análise das teses de insuficiência probatória, responsabilização disciplinar coletiva, atipicidade da conduta ou desclassificação da conduta, dada a necessidade de incursão na seara fático-probatória, incabível nesta sede (AgRg no HC n. 328.288/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/3/2017).
+No caso, a instância local afirmou que não há dúvida de que RODRIGO praticou falta de natureza grave, enquanto ficou configurada a tentativa de ingresso de entorpecente na unidade prisional, evidenciando-se o vínculo direto entre o apenado e a conduta ilícita perpetrada pelo sentenciado que transportava a substância entorpecente (fl. 787).
+Tal conclusão só poderia ser revista mediante incursão nas provas, medida essa incabível na via do mandamus.
+Cumpre salientar que, por não ter sido objeto de debate pelo Tribunal a quo, a alegação de que os argumentos utilizados para absolvição do corréu se aplicariam ao paciente não pode ser analisada, sob pena de supressão de instância.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. AF ASTAMENTO/DESCLASSIFICAÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ABSOLVIÇÃO CORRÉU. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
