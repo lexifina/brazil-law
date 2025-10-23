@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Joel Ilan Paciornik e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausentes, justificadamente, os Srs. Ministros Ribeiro Dantas e Messod Azulay Neto.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO. VIOLÊNCIA EMPREGADA NO CONTEXTO DA TENTATIVA DE FUGA. DESCLASSIFICAÇÃO PARA ROUBO IMPRÓPRIO. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A ausência de violência com o propósito de assegurar a detenção da coisa afastam a configuração do crime de roubo impróprio (AgRg no AREsp n. 2.729.602/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJEN de 20/12/2024.). No caso, a violência empregada na ação não se deu para assegurar a posse do objeto, mas para fugir dos seguranças do estabelecimento.
+2. A pretendida reforma do acórdão estadual, com vista à condenação do recorrido pela prática do crime de roubo impróprio demandaria inegável revolvimento fático-probatório, providência vedada em sede de recurso especial, por força da Súmula n. 7/STJ.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Piauí, assim ementado:
+PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO TENTADO. RECURSO DA ACUSAÇÃO. DESCLASSIFICAÇÃO PARA O CRIME DE ROUBO IMPRÓPRIO. INVIABILIDADE. CONTEXTO DE TENTATIVA DE FUGA. DOSIMETRIA PENAL. CONFISSÃO ESPONTÂNEA CONFIGURADA. REGIME PRISIONAL SEMIABERTO.
+1. Restando evidenciado que o emprego de violência pelo réu se deu, não para assegurar a detenção da res ou para intimidar os agentes de segurança e dissuadi-los de tentar evitar a subtração, mas apenas na tentativa de fugir do local após ser surpreendido, em inequívoco contexto de tentativa de fuga, tem-se por inviável a desclassificação da conduta para o crime do artigo 157, § 1º, do Código Penal. Precedentes do STJ e do TJSP.
+2. Acerca da incidência da atenuante de confissão espontânea, a jurisprudência da Corte Superior se consolidou no sentido de que "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (REsp n. 1.972.098/SC).
+3. Nas hipóteses em que o réu reincidente for condenado à pena inferior a quatro anos de reclusão, o juiz sentenciante poderá estabelecer tanto o regime prisional semiaberto como o regime fechado para o cumprimento da pena privativa de liberdade dosada, eis que ambas as espécies de regime (semiaberto e fechado) se revelam possíveis para esta espécie de crime (punido com reclusão).
+4. Considerando que foi aplicada ao réu reincidente pena inferior a 04 (quatro) anos de reclusão e que as circunstâncias judiciais foram consideradas favoráveis ou neutras em sua totalidade, tem-se por adequado e suficiente o regime prisional semiaberto para início do cumprimento da pena, nos termos do art. 33, § 2º, do Código Penal.
+5. Recurso conhecido e improvido. (e-STJ fls. 308/319)
+O recorrente aponta violação aos arts. 157, § 1º, c/c art. 14, II, do Código Penal e 619 do Código de Processo Penal. Alega que a conduta do recorrido se amolda à descrita pelo artigo 157, §1, c/c art. 14, II, do Código Penal (roubo impróprio tentado), destacando que "o acusado, no caso em questão, após ser cercado, envolveu-se em confronto físico com os funcionários da empresa de segurança (COMO RECONHECIDO PELO ACÓRDÃO) imediatamente após tentar subtrair bens por meio de violência, visando garantir a impunidade do delito, constata-se que sua conduta se enquadra no crime de roubo em sua modalidade imprópria, conforme estabelecido no §1º do art. 157 do Código Penal." (e-STJ fls. 384/385)
+Contrarrazões às e-STJ fls. 394/406.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 463/464.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FURTO. VIOLÊNCIA EMPREGADA NO CONTEXTO DA TENTATIVA DE FUGA. DESCLASSIFICAÇÃO PARA ROUBO IMPRÓPRIO. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A ausência de violência com o propósito de assegurar a detenção da coisa afastam a configuração do crime de roubo impróprio (AgRg no AREsp n. 2.729.602/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJEN de 20/12/2024.). No caso, a violência empregada na ação não se deu para assegurar a posse do objeto, mas para fugir dos seguranças do estabelecimento.
+2. A pretendida reforma do acórdão estadual, com vista à condenação do recorrido pela prática do crime de roubo impróprio demandaria inegável revolvimento fático-probatório, providência vedada em sede de recurso especial, por força da Súmula n. 7/STJ.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrido foi condenado à pena de 1 ano e 10 meses de reclusão, pela prática do crime do art. 155, §4º, IV, c/c art. 14, II, ambos do CP.
+O recorrente se insurge contra essa decisão, alegando que a conduta do recorrido se amolda à descrita pelo artigo 157, §1, c/c art. 14, II, do Código Penal (roubo impróprio tentado), destacando que "o acusado, no caso em questão, após ser cercado, envolveu-se em confronto físico com os funcionários da empresa de segurança (COMO RECONHECIDO PELO ACÓRDÃO) imediatamente após tentar subtrair bens por meio de violência, visando garantir a impunidade do delito, constata-se que sua conduta se enquadra no crime de roubo em sua modalidade imprópria, conforme estabelecido no §1º do art. 157 do Código Penal." (e-STJ fls. 384/385). Sobre o tema, o TJPI assim se manifestou:
+Como se vê, o Ministério Público aduz que a conduta do réu deve ser desclassificada para o delito de roubo improprio, previsto no art. 157, § 1º, do CP, em razão do emprego de violência pelo réu para assegurar a impunidade do delito.
+Sucede que no crime de roubo improprio a expressão "assegurar a impunidade do crime" significa empregar violência para garantir a subtração que acaba de fazer, da qual não desistiu. Assim, nas hipóteses em que o agente, após ter desistido do apossamento da coisa, emprega violência tão somente para fugir, sem a res, não há que se falar em roubo impróprio.
+Dito de outro modo, a violência utilizada pelo agente na fuga para não ser preso por tentativa de furto não caracteriza roubo impróprio. Somente se configura o delito previsto no art. 157, § 1º, do CP quando o agente não desiste da subtração e emprega a violência com objetivo de fugir com a coisa, mesmo que não o consiga.
+ ..
+Esse é o caso dos autos, uma vez que o réu, após ingressar no estabelecimento empresarial da vítima e se apoderar da res furtiva, foi surpreendido por seguranças, momento em que desistiu da subtração e tentou empreender fuga, utilizando-se, para tanto, de violência contra os agentes de segurança patrimonial.
+Assim, restando evidenciado que o emprego de violência pelo réu se deu, não para assegurar a detenção da res ou para intimidar os agentes de segurança e dissuadi-los de tentar evitar a subtração, mas apenas na tentativa de fugir do local após ser surpreendido, em inequívoco contexto de tentativa de fuga, tem-se por inviável a desclassificação da conduta para o crime do artigo 157, § 1º, do Código Penal. (e-STJ fls. 311/312)
+Observa-se, a partir do trecho acima transcrito, que a violência empregada na ação não se deu para assegurar a posse do objeto, mas para fugir dos seguranças do estabelecimento.
+Nesse contexto, o entendimento do Tribunal a quo está em perfeita harmonia com a jurisprudência desta Corte, firme no no sentido de que "a ausência de violência com o propósito de assegurar a detenção da coisa afastam a configuração do crime de roubo impróprio" (AgRg no AREsp n. 2.729.602/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJEN de 20/12/2024.).
+A pretendida reforma do acórdão estadual, com vista à condenação do recorrido pela prática do crime de roubo impróprio demandaria inegável revolvimento fático-probatório, providência vedada em sede de recurso especial, por força da Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
