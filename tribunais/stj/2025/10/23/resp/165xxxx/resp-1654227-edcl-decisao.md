@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de segundos embargos de declaração opostos por Elisa Aparecida Galassi Ribeiro e outros contra decisum singular, de fls. (2.051/2.053), que rejeitou os primeiros embargos de declaração, sob os seguintes fundamentos: (I) art. 1.022 do CPC não autoriza, no caso, a correção do julgado por inexistirem omissão, contradição, obscuridade ou erro material; (II) o recurso especial não é cabível contra acórdão proferido em juízo de retratação, nos termos do art. 1.030, II, do CPC; (III) a sistemática dos recursos repetitivos e da repercussão geral não comporta nova análise de matéria já decidida em conformidade com precedentes vinculantes, não cabendo ao Superior Tribunal de Justiça, no âmbito do recurso especial, aferir a correta aplicação, pelo Tribunal de origem, de precedente do Supremo Tribunal Federal com repercussão geral.
+Em suas razões, a parte embargante aduz, em resumo, que: (I) permanece vício relevante, consubstanciado em premissa fática e jurídica equivocada que teria afastado indevidamente a apreciação do recurso especial admitido na origem, afirmando que a decisão embargada "considerou que teria havido juízo de retratação nos termos do artigo 1.030, II, do CPC, o que afastaria, em tese, a possibilidade de interposição de recurso especial" (fl. 2.056); (II) o juízo de retratação foi realizado "sem a devida observância da tese firmada pelo Supremo Tribunal Federal no Tema 1011 da Repercussão Geral" (fl. 2.057); (III) o recurso especial está fundamentado nos "artigos 926, 927, 1030, 1039 e 1040, todos do CPC", que impõem a observância obrigatória dos precedentes firmados em recursos repetitivos e repercussão geral (fl. 2.057).
+Requer, desse modo, o acolhimento dos aclaratórios com efeito modificativo, para que seja apreciado o apelo nobre.
+A parte embargada apresentou impugnação às fls. 2.063/2.066.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Da simples leitura do relatório antes realizado, extrai-se o intento da parte de infringir o julgado, o que não se coaduna com a via integrativa.
+Realmente, conforme dispõe o artigo 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para correção de erro material. No caso, uma vez mais, não se verifica a existência de qualquer das referidas deficiências.
+Conforme já explicitado nas decisões anteriores, não é cabível a interposição de recurso especial contra acórdão proferido em juízo de retratação (art. 1.030, II, do CPC), uma vez que a sistemática dos recursos repetitivos e da repercussão geral não autoriza nova apreciação da matéria já decidida, não competindo ao Superior Tribunal de Justiça, no âmbito do apelo nobre, verificar a correta aplicação, pelo Tribunal de origem, de precedente do Supremo Tribunal Federal com repercussão geral.
+A propósito:
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 1.468.198/R S, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
