@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADEMAR ANTONIO FELIX ANSILIEIRO, ERASMO POLI FERREIRA e PHELIPE IAGO OLIVEIRA DE LIMA contra acórdão do Tribunal de Justiça do Estado do Paraná proferido no HC n. 0099785-40.2025.8.16.0000.
+Consta nos autos que os pacientes foram presos preventivamente em maio de 2025, no âmbito de ação penal em que foram denunciados, juntamente com outros seis corréus, pela suposta prática do crime de organização criminosa armada (art. 2º, caput e § 2º, da Lei n. 12.850/2013). A investigação aponta para a existência de um grupo estruturado para o tráfico de drogas na comarca de Cianorte/PR.
+Após a apresentação das respostas à acusação, o Juízo de primeiro grau designou audiência de instrução e julgamento para o dia 10/022026. A Defesa formulou pedido de antecipação do ato, o qual foi indeferido sob o fundamento da complexidade do processo e da sobrecarga de trabalho da Vara Criminal.
+Impetrado habeas corpus perante o Tribunal de Justiça do Paraná, a ordem foi denegada.
+Neste writ, o impetrante reitera a tese de constrangimento ilegal por excesso de prazo na formação da culpa. Sustenta que a manutenção da prisão preventiva por quase um ano até o início da instrução processual é desarrazoada e que a sobrecarga do Judiciário não pode justificar a delonga.
+Ressalta, ainda, a presença de condições pessoais favoráveis e a suficiência de medidas cautelares diversas.
+Requer, em liminar e no mérito, a revogação da prisão preventiva ou, subsidiariamente, a determinação para antecipação da audiência de instrução.
+É o relatório.
+Decido.
+Inicialmente, ressalto que, conforme o entendimento consolidado desta Corte, as disposições contidas nos arts. 64, inciso III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam a prerrogativa do relator de apreciar liminarmente, em habeas corpus ou recurso em habeas corpus, a pretensão que esteja em conformidade com súmula ou com a jurisprudência consolidada dos Tribunais Superiores, ou, ainda, que as contrarie, v.g. AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023.
+Assim, passo a analisar diretamente o pedido formulado na insurgência.
+Em primeiro lugar, cumpre registrar que no acórdão impugnado não se tratou a respeito de eventual decreto cautelar proferido em desfavor do paciente ERASMO POLI FERREIRA, motivo pelo qual a impetração não deve ser conhecida em relação a ele, sob pena de indevida supressão de instância.
+Da mesma forma, impende salientar que o argumento central da impetração, concernente à ilegalidade da decisão do Juízo de primeiro grau que indeferiu o pedido de antecipação da audiência não foi submetido à análise do Tribunal de origem no acórdão impugnado. A análise originária desta matéria por este Superior Tribunal também configuraria supressão de instância.
+Contudo, a questão mais ampla, relativa ao excesso de prazo para a formação da culpa, foi devidamente examinada pela autoridade coatora, o que permite o conhecimento do writ nesse ponto. E, no mérito, não se constata o alegado constrangimento ilegal.
+Este Superior Tribunal de Justiça, em consonância com o entendimento externado no acórdão impugnado, possui firme orientação no sentido de que os prazos processuais não devem ser computados de maneira meramente aritmética. A análise do excesso de prazo deve ser pautada pelo princípio da razoabilidade, considerando as particularidades de cada caso, como a complexidade do feito, a pluralidade de réus e a necessidade de expedição de cartas precatórias, desde que não haja inércia ou desídia por parte do aparato estatal.
+No caso em apreço, a ação penal originária apura a conduta de nove acusados, aos quais se imputa a prática do crime de organização criminosa armada, o que, por sua própria natureza, demanda maior dilação temporal para a regular instrução do processo.
+O Tribunal de origem, ao denegar a ordem, destacou que o feito vem recebendo impulso regular, tendo sido a audiência designada após a citação e apresentação de defesa por todos os acusados, não se verificando, portanto, desídia do magistrado condutor do processo. A complexidade do caso, e não a inércia do Judiciário, é o que justifica o prolongamento da instrução.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ANÁLISE RESTRITA AO EXCESSO DE PRAZO. DEMAIS TESES. JÁ ANALISADAS. AÇÃO COMPLEXA. TRÂMITE REGULAR. PROFERIÇÃO DE DECISÃO MONOCRÁTICA. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+2. O habeas corpus se limita à apreciação da alegação de excesso de prazo, pois as teses de ausência de fundamentação idônea do decreto prisional e de saúde debilitada do filho da paciente, o que permitiria a concessão de prisão domiciliar, já foram objeto de exame pelo Superior Tribunal de Justiça no julgamento do HC n. 956.760/CE.
+3. A prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso.
+4. Inexiste flagrante ilegalidade que autorize a concessão da ordem de ofício, pois, considerando a complexidade do processo, que conta com vários réus e procuradores, pedido defensivo de relaxamento de prisão e expedição de cartas precatórias, bem como apura a responsabilidade de organização criminosa complexa, não se constata uma demora injustificada para o início da instrução, destacando-se o trâmite regular dos autos de origem, razão pela qual não há falar em ilegalidade por excesso de prazo.
+5. "Nos termos do art. 932, inciso III, do CPC, e dos arts. 34, XVIII, alíneas a e b; e 255, § 4.º, inciso I, ambos do RISTJ, o Ministro relator está autorizado a proferir decisão monocrática, a qual fica sujeita à apreciação do órgão colegiado mediante interposição de agravo regimental. Assim, não há que se falar em eventual nulidade ou cerceamento de defesa" (AgRg no AREsp n. 2.271.242/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024).
+6. Agravo regimental improvido.
+(AgRg no HC n. 981.472/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/8/2025, DJEN de 28/8/2025; grifamos.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a prisão preventiva do agravante.
+2. O agravante está sendo processado pelos crimes de organização criminosa agravada pela liderança (Lei n. 12.850/2013, art. 2º, § 3º) e fraude para recebimento de indenização ou valor de seguro (Código Penal, art. 171, § 2º, inciso V), por 12 vezes.
+3. A prisão temporária do agravante foi convertida em prisão preventiva em 18/09/2023.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante deve ser mantida, considerando a alegação de morosidade na tramitação do processo e a possibilidade de substituição por medidas cautelares diversas do cárcere.
+III. Razões de decidir
+5. A decisão agravada foi mantida por seus próprios fundamentos, evidenciando a necessidade da custódia cautelar imposta ao agravante, devido à complexidade do feito e à existência de circunstâncias idôneas para afastar a tese de morosidade na tramitação do processo.
+6. A prisão preventiva foi considerada necessária para garantir a instrução criminal e a aplicação da lei penal, não sendo adequada a substituição por medidas cautelares diversas, dada a gravidade dos crimes e o papel de liderança do agravante na organização criminosa.
+7. Não se verifica excesso de prazo na instrução processual, considerando a complexidade do caso, o número de réus e a regular tramitação do processo, respeitando os princípios do contraditório e da ampla defesa.
+IV. Dispositivo e tese
+8. Agravo regimental não provido.
+Tese de julgamento: "1. A prisão preventiva é necessária para garantir a instrução criminal e a aplicação da lei penal em casos de organização criminosa complexa. 2. A alegação de morosidade na tramitação do processo deve ser afastada quando o feito segue sua tramitação regular, respeitando os princípios do contraditório e da ampla defesa".
+Dispositivos relevantes citados: Lei n. 12.850/2013, art. 2º, § 3º; Código Penal, art. 171, § 2º, inciso V; CPP, art. 312; CPP, art. 319.Jurisprudência relevante citada: STF, HC 95024/SP, Rel. Min. Cármen Lúcia, DJe 20/02/2009; STJ, HC 371.769/BA, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/05/2017; STJ, AgRg no HC 644.646/PR, Rel. Min. João Otávio de Noronha, DJe 29/04/2021.
+(AgRg no RHC n. 216.793/DF, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2025, DJEN de 26/8/2025; grifamos.)
+Dessa forma, inexistindo flagrante ilegalidade na decisão impugnada e estando o andamento processual compatível com as peculiaridades da causa, não há falar em constrangimento ilegal a ser sanado por esta via.
+Ante o exposto, conheço em parte da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
