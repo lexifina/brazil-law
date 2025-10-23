@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JUNIOR RODRIGUES MONTEIRO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (APC n. 0036955-26.2013.8.26.0050).
+Consta dos autos que o paciente foi condenado como incurso no art. 168, § 1º, III, do Código Penal, à pena de 1 ano e 4 meses de reclusão, em regime inicial aberto, substituída por duas penas restritivas de direitos (prestação de serviços à comunidade e limitação de fim de semana), além de 13 dias-multa (fls. 28-29 e 39). Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento (fls. 26/39).
+No presente mandamus, a defesa aduz, em síntese, que: i) foram preenchidos os requisitos objetivos do art. 28-A do Código de Processo Penal, mas não foi oportunizada proposta de Acordo de Não Persecução Penal - ANPP; ii) o art. 28-A do CPP é norma de conteúdo híbrido e retroage em favor do réu, nos termos do art. 5º, XL, da Constituição Federal; iii) a ausência de confissão no inquérito policial não impede a oferta do ANPP); e iv) o não oferecimento tempestivo e motivado do ANPP configura nulidade absoluta, com presunção de prejuízo.
+Pugna, liminarmente, pela anulação imediata da condenação ou, ao menos, pela suspensão da ação penal até decisão final do presente writ. No mérito, requer seja anulada a condenação, com remessa dos autos ao Ministério Público Estadual a fim de que seja ofertada proposta de ANPP.
+É o relatório. Decido.
+A pretensão defensiva não merece prosperar.
+A alegação relativa ao acordo de não persecução penal não foi previamente submetida ao crivo do Tribunal de origem. Portanto, não houve manifestação da Corte local sobre o tema, motivo pelo qual não é possível conhecer do writ, sob pena de indevida supressão de instância.
+Com efeito, "é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Relatora Ministra LAURITA VAZ, Sexta Turma , julgado em 15/9/2020, DJe 29/9/2020).
+No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADES. AUSÊNCIA DE FUNDAMENTAÇÃO PARA O RECEBIMENTO DA DENÚNCIA. PROLAÇÃO DE SENTENÇA CONDENATÓRIA QUE PREJUDICA A APRECIAÇÃO DO TEMA. AUSÊNCIA DE APRECIAÇÃO DAS TESES DEFENSIVAS PELA SENTENÇA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O TÉRMINO DA INSTRUÇÃO . ENUNCIADO N. 52, DA SÚMULA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas nulidades decorrentes da sentença condenatória não foram examinadas pelo Tribunal de origem, de modo que inviável a análise inaugural por esta Corte, sob pena de indevida supressão de instância. Outrossim, prolatada a sentença condenatória, fica obstada a análise de eventuais nulidades decorrentes do recebimento da denúncia.
+2. No que se refere ao alegado excesso de prazo para o encerramento da instrução, incide o Enunciado n. 52, da Súmula do STJ, que afirma que "Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Nesse contexto, prolatada a sentença condenatória, inviável o reconhecimento do excesso de prazo.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 837.966/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
