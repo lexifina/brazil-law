@@ -1,0 +1,45 @@
+DECISÃO
+Em análise, recurso especial interposto pela União contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 87-94):
+ADMINISTRATIVO. EXECUÇÃO FISCAL. CRÉDITO RURAL. ART. 40 DA LEF. PRESCRIÇÃO INTERCORRENTE CARACTERIZADA.
+1. Não comprovada a adesão do executado às renegociações previstas nas Leis 11.775/2008, e 13.340, de 2016, não cabe considerar suspensa a prescrição intercorrente.
+2. A prescrição intercorrente nas execuções fiscais é regulada pelo art. 40 da Lei nº 6.830/1980, e se caracteriza pela inércia processual do credor por determinado período de tempo qualificada pela impossibilidade de satisfação do crédito tributário, porque não encontrados o devedor ou bens penhoráveis.
+3. Considera-se como termo inicial da contagem do prazo da prescrição intercorrente a data da intimação da Fazenda Pública acerca da não localização do devedor ou, caso citado o executado, a data em que se constatar a inexistência de bens penhoráveis no endereço indicado, independentemente de o juiz haver expressamente determinado a suspensão do processo.
+4. Aplicadas as balizas fixadas pelo STJ no REsp 1.340.553/RS em harmonia com o decidido por esta Corte no Incidente de Arguição de Inconstitucionalidade na AC n.º 0004671-46.2003.404.7200/SC.
+Os embargos de declaração foram rejeitados (fls. 116-124).
+Nas razões recursais, a União sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 8º, § 5º, da Lei 11.775/2008 e 10 da Lei 13.340/2016 e à Lei 13.729/2018, sustentando que "houve suspensão das ações e do prazo prescricional da cobrança das dívidas de crédito rural, independentemente da adesão à liquidação e renegociação dos débitos". Prossegue:
+Nota-se, portanto, que os precedentes citados não fazem alusão à condição aventada pelo acórdão regional - existência de efetiva adesão a medida de renegociação -, aplicando a causa suspensiva em sua literalidade - entendimento que se estende, in totum, à espécie.
+Diante disso, considerando a suspensão do prazo prescricional até dezembro/2018, determinada pelo referido art. 10 da Lei nº 13.340/2016, com as alterações da Lei nº 13.729/2018, resta afastada a ocorrência da prescrição intercorrente.
+ ..
+FACE AO EXPOSTO, requer a Fazenda Nacional seja provido o presente recurso especial para os seguintes fins:
+a) restaurar a vigência ao art. 489, par.1º. e art. 1.022, II e par. único, do CPC/2015, anulando-se o acórdão recorrido, para que a Egrégia Turma do TRF da 4ª Região examine a matéria que restou omissa, conforme apontado nos embargos de declaração;
+b) superada a questão acima suscitada com o entendimento que a matéria está suficientemente prequestionada, seja então reformado o acórdão regional, porquanto negou vigência aos dispositivos legais acima nominados (art. 8º., parágrafo 5º., da Lei n. 11.775/2008 e art. 10 da Lei 13.340/2016), consoante expendido nos itens supra, e, assim sendo, e, assim sendo, afastar a prescrição intercorrente do crédito exequendo relativo ao crédito rural.
+Não foram apresentadas contrarrazões ao recurso (fl. 155).
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando:
+No caso, não merece acolhida o recurso, uma vez que a matéria alegada nos embargos de declaração foi objeto de análise no voto condutor do acórdão, que assim concluiu:
+Suspensão do prazo prescricional nos termos da Lei 13.340/2016
+Não procede a alegação de que o prazo prescricional esteve suspenso até 30/12/2019, a teor do disposto na Lei nº 13.340/2016 e alterações posteriores.
+Referidas normas dispõem sobre medidas de estímulo à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário, e tem o objetivo de suspender o curso da prescrição em relação à dívida objeto de renegociação pois, nesta condição, não há exigibilidade do crédito.
+A Lei nº 13.340/2016 estabeleceu duas formas pelas quais o mutuário pode renegociar dívidas oriundas da concessão de crédito rural, seja mediante concessão de descontos ou repactuação do total do saldo devedor.
+Assim, fica claro que a suspensão do curso da prescrição é aplicável somente aos casos em que a dívida tornou-se objeto de renegociação pelo mutuário, em adesão às modalidades previstas na Lei nº 13.340/2016.
+No caso dos autos, não há qualquer elemento indicando que o executado tenha aderido às formas de renegociação previstas na legislação.
+Assim, se o débito não foi objeto de parcelamento ou renegociação, não há que se falar em inexigibilidade do crédito e suspensão do respectivo prazo prescricional.
+A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada. Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da inexistência de indicação de que o executado tenha aderido às formas de renegociação dado que a suspensão do curso da prescrição é aplicável somente aos casos em que a dívida se tornou objeto de renegociação pelo mutuário, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Veja-se:
+PROCESSUAL CIVIL. DIREITO AMINISTRATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7/STJ. SÚMULA N. 83/STJ.
+I - Na origem, trata-se de execução fiscal. Na sentença, julgou-se extinto o feito com base nos arts. 924, V, do Código de Processo Civil, e 40, §§ 4º e 5º, da LEF. No Tribunal a quo, a sentença foi mantida.
+II - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "No entanto, não obstante a exequente referir a existência de suspensão do prazo prescricional face se tratar de operação de crédito rural cedida à União na forma da MP 2.196-3/2001, nos termos dos parágrafos 3º e 5º, do art. 8º da Lei 11.775/2008 e do art. 10 da Lei 13.340/16, fato é que não comprovada adesão do executado à renegociação, descabe falar em suspensão da prescrição intercorrente. Ademais, registro que sequer houve pedido da União nos autos para suspensão do feito, em face das legislações citadas. (..) Nessa toada, no caso em análise, considerando que no período compreendido entre 02/08/2016 (data da intimação da União quanto à inexistência de bens penhoráveis) até 04/08/2022, não foi efetivada qualquer constrição que pudesse interromper o prazo prescricional na presente execução fiscal decorridos mais de seis anos, incluindo o período de suspensão do art. 40, § 2º da LEF, operou-se a prescrição."
+III - Não há violação dos arts. 489 e 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+V - Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+VI - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual:
+"Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+VII - Agravo interno improvido (AgInt no AREsp 2.671.651/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Isso posto, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
