@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se de agravo de WILSON GOMES DOS SANTOS FILHO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0314168-38.2014.8.19.0001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no artigo 157, § 2º, II, do Código Penal (roubo qualificado), à pena de 06 anos, 02 meses e 20 dias de reclusão, em regime inicial fechado, e 14 dias-multa (fl. 338).
+Recurso de apelação interposto pela defesa foi parcialmente provido para dar "parcial provimento do apelo defensivo, a fim afastar a agravante da reincidência e abrandar o regime de pena, resultando na reprimenda final de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime semiaberto, e pagamento de 13 (treze) dias-multa, à razão unitária mínima." (fl. 515). O acórdão ficou assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. CON- DENAÇÃO PELA PRÁTICA DE CRIME DE ROUBO QUALIFICADO PELO CONCURSO DE AGENTES. RECURSO DEFENSIVO. PARCIAL PROVIMENTO.
+I. CASO EM EXAME
+1. Apelação criminal interposta em face de sentença que condenou o acusado pela prática do delito previsto no artigo 157, § 2º, II, do Código Penal, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime fechado, e pagamento de 14 (quatorze) dias-multa, à razão unitária mínima.
+II. QUESTÃO EM DISCUSSÃO
+2. (i) insuficiência de provas para um decreto conde- natório; (ii) afastamento da agravante da reincidência; (iii) abrandamento do regime de pena; e (iv) pre- questionamento.
+III. RAZÕES DE DECIDIR
+3. Materialidade e autoria delitivas devidamente comprovadas, na hipótese dos autos, notadamente pela prova oral coligida sob a égide do contraditório, que corrobora as peças de informação produzidas na fase inquisitorial. Impossibilidade de afastamento da majorante referente ao concurso de agentes, considerando o firme conjunto probatório.
+4. Palavra da vítima que assume preponderante im- portância nos crimes contra o patrimônio, sobretudo quando coerente e em consonância com as demais provas coligidas nos autos, como no caso em tela, em que as declarações do ofendido foram corroboradas pelos depoimentos dos policiais militares que prenderam o réu logo após a subtração. Precedentes.
+5. Incidência do Enunciado nº 70 da Súmula da Ju- risprudência Predominante do TJRJ. Defesa que não apresentou qualquer elemento de prova capaz de fragilizar as declarações das testemunhas de acusa- ção, que prestaram declarações coerentes e harmô- nicas entre si, devendo ser mantida a condenação nos moldes da sentença.
+6. A dosimetria merece reparo, devendo ser afastada a reincidência, na segunda fase, eis que não há anotação criminal que configure a referida agravante.
+7. Abrandamento do regime de pena, considerando as peculiaridades do caso concreto e a primariedade técnica do acusado.
+8. Por fim, afasta-se o prequestionamento formulado pela defesa, por ausência de violação, contrariedade ou negativa de vidência a dispositivos legais ou cons- titucionais.
+IV. DISPOSITIVO E TESE
+9. Parcial provimento do recurso defensivo.
+Teses de julgamento: 1. Impossibilidade de absolvição quando suficientemente comprovadas a materialidade e autoria delitivas, pelo conjunto probatório produzido ao longo da instrução criminal. 2. Afastamento da reincidência quando inexistem anotações que configurem a citada agravante. 3. Abrandamento do regime de pena, considerando as peculiaridades do caso concreto e as circunstâncias judiciais favoráveis." (fl. 506)
+Em sede de recurso especial (fls. 532/545), a defesa apontou violação ao artigo 386, inciso VII, do Código de Processo Penal, ao argumento de que inexistem provas suficientes à sustentar a condenação do ora recorrente.
+Requer, por esse motivo, o provimento do recurso especial para que seja absolvido o agravante por insuficiência probatória.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO (fls. 551/560).
+O recurso especial foi inadmitido no TJRJ em razão do óbice da Súmula 7/STJ (fls. 562/565).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 574/583).
+Contraminuta do Ministério Público (fls. 587/589).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos.
+Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do recurso especial (fls. 608/612).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao artigo 386, inciso VII, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO manteve a condenação nos seguintes termos do voto do relator:
+"A materialidade e a autoria delitivas foram absolutamente comprovadas na hipótese vertente, sobretudo pelos depoimentos judiciais das testemunhas de acusação, bem como pelas demais provas existentes no processo - auto de prisão em flagrante, registro de ocorrência, termos de declarações -, que não deixam a menor dúvida acerca da procedência da acusação.
+Finda a instrução criminal, restou incontroverso que, no dia 12/09/2014, por volta das 13:30h, na Rua Professor Eurico Ra- belo, próximo ao Estádio Maracanã, o acusado, em comunhão de ações e desígnios com outros indivíduos não identificados, subtraiu, mediante violência, a quantia de R$10,00 (dez) reais em espécie, pertencente a Henrique Pacheco Júnior.
+Em sede policial, a vítima narrou em detalhes a dinâmica delituosa, inclusive a forma como foi abordada pelo réu e seus comparsas. Esclareceu, em resumo, que o acusado o pegou violentamente pela blusa e o jogou contra a parede, ocasião em que outros dois indivíduos se aproximaram e seguraram seus braços, imobilizando-o. O acusado, então, exigiu a entrega dos dez reais em espécie que estavam em suas mãos.
+Após a subtração, o ofendido acionou uma viatura policial, os quais lograram êxito em prender o apelante.
+Muito embora o lesado não tenha sido localizado para prestar declarações em Juízo, sua narrativa foi corroborada sob a égide do contraditório, através dos firmes depoimentos dos policiais militares que prenderam o réu em flagrante. Ressalte-se que a testemunha Sebastião da Silva Francisco narrou, em Juízo, ter presenciado o momento em que o acusado empurrou a vítima e subtraiu a quantia que estava em suas mãos. Os demais agentes, por sua vez, confirmaram que foram acionados pelo ofendido, destacando suas vestes rasgadas e dedos machucados.
+Em seu interrogatório, o acusado exerceu seu direito constitucional de permanecer em silêncio.
+A tese defensiva de absolvição por insuficiência de provas é desprovida de qualquer veracidade ou coerência com os demais elementos probatórios coligidos nos autos, notadamente diante dos firmes depoimentos das testemunhas de acusação, tanto em sede policial quanto em Juízo.
+A palavra da vítima assume preponderante importância nos crimes contra o patrimônio, sobretudo quando coerente e em consonância com as demais provas coligidas nos autos, como no caso em tela, em que sua narrativa foi corroborada pelas declarações dos policiais militares que estavam no local e prenderam o réu logo após a subtração.
+(..)
+Importa ressaltar que os Tribunais Superiores possuem entendimento segundo o qual os depoimentos das testemunhas policiais, quando em conformidade com as demais provas dos autos, são elementos idôneos a subsidiarem a formação da convicção do julgador, hipótese vislumbrada no caso em comento.
+Portanto, é inequívoco que os atos dos agentes pú- blicos possuem presunção de legalidade e legitimidade. Ademais, não se vislumbra, no presente caso, haver motivos plausíveis para que os apelantes fossem, aqui, acusados injustamente da prática do crime im- putado na denúncia.
+A Defesa, por sua vez, não apresentou nenhum elemento capaz de desconstituir as sólidas provas coligidas pelo Ministério Público.
+A majorante prevista no artigo 157, § 2º, II, do Código Penal também devem ser mantida, eis que suficientemente comprovadas pelo firme conjunto probatório existente nos autos.
+Com efeito, a prova oral torna evidente a atuação do apelante em comunhão de ações e desígnios com outros dois comparsas não identificados, os quais foram essenciais para viabilizar a subtração da quantia em espécie que a vítima trazia consigo.
+Logo, diante do vasto conjunto probatório existente nos autos, correto se mostra o juízo de reprovação, devendo ser mantida a condenação do réu, nos moldes da sentença." (fls. 509/515).
+Extrai-se dos trechos acima que o Tribunal de origem rejeitou a tese defensiva de insuficiência probatória por concluir que a materialidade e autoria delitivas foram comprovadas através do arcabouço probatório coligído aos autos, com especial valoração ao depoimento extrajudicial da vítima e ao depoimento judicial e extrajudicial da testemunha de acusação, que foram corroborados pelos relatos dos policiais militares responsáveis pela prisão em flagrante do réu.
+Em sede policial, o ofendido detalhou a dinâmica criminosa relatando que o réu o segurou violentamente pela blusa, prensando-o contra a parede. Ato contínuo, outros dois agentes apareceram e o imobilizaram pelos braços, momento em que o réu exigiu a entrega da importância de dez reais que a vítima portava consigo.
+Os policiais militares Luís Fernando e Paulo Vitor e a testemunha Sebastião foram ouvidos em juízo, tendo confirmado todo o ocorrido.
+Verifica-se, pois, que o conjunto probatório demonstra inequivocamente a materialidade e autoria delitivas.
+Nesse sentido, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, o que é vedado pela Súmula 7/STJ. A corroborar, citam-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PRETENSÃO DE ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. ELEMENTOS EXTRAJUDICIAIS CONFIRMADOS EM JUÍZO. MAJORANTES. AUMENTOS SUCESSIVOS. MOTIVAÇÃO CONCRETA E IDÔNEA. SÚMULA N. 443 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Entende o STJ que "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa" (HC n. 155.226/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/6/2012, DJe de 1/8/2012).
+2. Com base nos elementos informativos da fase inquisitiva - filmagem, relatórios policiais, objetos apreendidos e informações da testemunha protegida - e nas provas judiciais - depoimentos dos policiais -, o Tribunal local concluiu que o réu, em comunhão de esforços com outros criminosos, participou do roubo e era o responsável pela contratação e definição da participação dos agentes na prática delitiva e por acompanhar a ação. Para alterar a conclusão da Corte de origem, com o intuito de absolver o recorrente, seria necessária a incursão no conjunto de fatos e provas dos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+3. O julgador, diante do concurso de majorantes, deve apresentar fundamentação concreta e idônea, conforme o art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ, ao não optar por aplicar o único aumento - causa mais gravosa - previsto na regra do art. 68, parágrafo único, do CP, opção mais benéfica ao réu.
+4. No caso, houve o incremento de 1/2, em virtude do concurso de agentes e da restrição de liberdade da vítima, e, sucessivamente, de 2/3, em razão do uso de arma de fogo. Para tanto, houve fundamentos concretos e válidos, a saber: a) concurso de cinco agentes, b) uso de vários veículos automotores, inclusive de grande porte, com aparato tecnológico para bloqueio de sinal do rastreador do caminhão roubado, c) uso de arma de fogo, d) ofendido teve suas mãos e pés amarrados, foi transportado para vários locais e, em dado momento, ao ser puxado, caiu e machucou nariz e lábio e e) o agredido teve sua liberdade restringida por várias horas, das 6h às 15h. Portanto, correto o procedimento adotado na origem.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.786.372/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2025 DJEN de 19/5/2025.)  g.n.
+RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. ART. 226 DO CPP. INOBSERVÂNCIA DAS FORMALIDADES LEGAIS. NULIDADE NÃO CONFIGURADA. CONDENAÇÃO FUNDAMENTADA EM CONJUNTO PROBATÓRIO ROBUSTO. RECURSO ESPECIAL DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pelo réu contra acórdão que confirmou sua condenação por roubo majorado (art. 157, § 2º, II, do Código Penal), com pena de 7 anos de reclusão e 15 dias-multa, em regime inicial fechado. O recorrente sustenta violação do art. 226 do CPP, argumentando que a ausência de observância das formalidades legais no procedimento de reconhecimento pessoal implicaria a nulidade da condenação, pugnando pela absolvição.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões centrais em discussão: (i) definir se a ausência de observância das formalidades do art. 226 do CPP invalida o procedimento de reconhecimento pessoal utilizado como prova no julgamento; e (ii) verificar se o reconhecimento, aliado aos demais elementos do conjunto probatório, é suficiente para fundamentar a condenação do recorrente.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ reconhece que a inobservância das formalidades previstas no art. 226 do CPP não gera, por si só, nulidade do reconhecimento, especialmente quando este não constitui a única prova da autoria e é corroborado por outros elementos probatórios.
+4. No caso concreto, o reconhecimento pessoal do acusado pela vítima, realizado em sede policial e ratificado em juízo, foi corroborado por depoimentos consistentes e convergentes da vítima e de três guardas municipais que participaram das diligências, bem como pelo relato de ameaça feita pelo réu à vítima na delegacia.
+5. A palavra da vítima, prestada sob o crivo do contraditório, é considerada meio de prova idôneo e revestido de especial valor em crimes patrimoniais, sobretudo quando corroborada por outros elementos probatórios.
+6. A condenação do recorrente não se fundamenta exclusivamente no reconhecimento realizado na fase inquisitorial, mas em conjunto probatório robusto que inclui depoimentos judiciais e elementos documentais.
+7. Alterar o entendimento do Tribunal de origem quanto à suficiência probatória demandaria reexame de fatos e provas, o que é vedado pela Súmula nº 7 do STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.113.680/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)  g.n.
+Ante o exposto, conheço do agravo para conhecer do recurso especial, e com fundamento no art. 34, XVIII, "b", do RISTJ e na Súmula 568/STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
