@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por JARBAS DELLA GIUSTINA , em face de decisão monocrática da lavra deste signatário (fls. 412-417, e-STJ), que conheceu do agravo para não conhecer do recurso especial interposto por SERGIO DA SILVA.
+D aí os presentes aclaratórios (fls. 420-422, e-STJ), no qual a parte sustenta, em síntese, a existência de obscuridade na decisão embargada quanto ao percentual de majoração dos honorários sucumbenciais a seu favor, nos termos do art. 85, § 11, do CPC/2015;
+Sustenta à fl. 420, e-STJ que:
+"(..) ao dispor que a majoração seria de "10% (dez por cento) sobre o valor já fixado na origem", a Decisão embargada não deixou claro se:
+a) a majoração foi de 10% sobre o percentual originário (10%), o que resultaria em um acréscimo de apenas 1 ponto percentual, perfazendo 13%;
+b) a majoração corresponde a 10% sobre o percentual total já fixado até a interposição do Recurso Especial (12%), o que representaria um acréscimo de 1,2 ponto percentual, perfazendo 13,2%;
+c) a intenção foi acrescentar 10 pontos percentuais sobre o percentual vigente (12%), totalizando 22%, respeitado o teto do art. 85, § 2º, do CPC".
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhida.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de rediscussão do julgado no pertinente ao percentual acrescido aos honorários sucumbenciais, como pretende o embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA. 1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões. 3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão ou obscuridade a ser sanada.
+Na decisão embargada, houve a majoração e m 10% (dez por cento) do valor dos honorários sucumbenciais fixados na origem, conforme o seguinte trecho do dispositivo (fls. 416-417, e-STJ):
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+No acórdão proferido pelo Tribunal estadual, assim ficou consignada a fixação da sucumbência (e-STJ, fl. 219):
+Destarte, tendo em conta os critérios objetivos elencados no art. 85, § 2º, do Código de Processo Civil e, ainda, o parâmetro adotado na sentença vergastada, condena-se a apelante ao pagamento de honorários recursais na quantia de 2% sobre o valor atualizado da condenação. Em tempo, esclarece-se que essa quantia deverá ser somada ao estipêndio já fixado pelo Juízo singular no âmbito do processo de origem.
+A sentença estipulou os honorários sucumbenciais nos seguintes termos (fl. 109, e-STJ):
+Ante o exposto, JULGO IMPROCEDENTES os presentes embargos monitórios para, em consequência, determinar o prosseguimento da ao monitória, nos termos itens 6 e seguintes da decisão do ev. 8.
+Fica, portanto, condenada a parte embargante/devedora no pagamento das custas processuais e honorários de advogado que fixa-se em 10% sobre o valor da condenação, ou seja, a soma dos valores dos cheques, corrigidos monetariamente (INPC) desde as respectivas emissões e acrescidos de juros de mora de 1% ao mas, a contar da citação (05/06/2018 - ev. 15), conforme pedido do ev. 6.
+Com efeito, a operação matemática a ser feita, na hipótese, não é de soma dos percentuais, mas sim de majoração de 10% calculados sobre o valor total de honorários devidos pelos ora embargados . Portanto , os honorários totalizarão 13,2% do valor da condenação.
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
