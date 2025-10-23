@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo de ADEMAR JUNIOR GONCALVES PINHEIRO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.24.507656-7/001.
+Consta dos autos que o agravante ADEMAR JUNIOR GONCALVES PINHEIRO foi condenado à pena de 8 anos e 10 meses de reclusão, no regime inicial fechado, além do pagamento de 1283 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, c/c art. 40, VI (tráfico ilícito de entorpecentes) e 35 (associação para o tráfico), todos da Lei n. 11.343/2006.
+O Tribunal de origem rejeitou as preliminares e, no mérito, deu parcial provimento ao recurso, mantendo as condenações pelo art. 33, c/c art. 40, VI, da Lei 11.343/2006 e absolvendo pelo art. 35, com ajustes na dosimetria e regime, nos termos do acórdão que restou assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - PRELIMINARES - ILICITUDE DE PROVAS POR VIOLAÇÃO DE DOMICÍLIO - REJEIÇÃO - INÉPCIA DA DENÚNCIA - IMPROCEDÊNCIA - PEÇA ACUSATÓRIA QUE PREENCHE OS REQUISITOS DO ARTIGO 41 DO CÓDIGO DE PROCESSO PENAL - NULIDADE DA SENTENÇA POR VIOLAÇÃO DO SISTEMA ACUSATÓRIO - INOCORRÊNCIA - INDEPENDÊNCIA FUNCIONAL DO MAGISTRADO - ARTIGO 385 DO CPP - NULIDADE DA SENTENÇA POR VIOLAÇÃO AO PRINCÍPIO DA PARIDADE DE ARMAS - INEXISTÊNCIA - MÉRITO - MÉRITO - ABSOLVIÇÃO QUANTO AO DELITO PREVISTO NO ART. 33 DA LEI Nº 11.343/06 POR INSUFICIÊNCIA PROBATÓRIA - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEMONSTRADAS POR PROVAS PRODUZIDAS EM CONTRADITÓRIO JUDICIAL - DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI 11.343/06 - DESCABIMENTO- ENTORPECENTES COM DESTINAÇÃO MERCANTIL - - PRINCÍPIO DA INSIGNIFICÂNCIA - INAPLICABILIDADE EM RELAÇÃO A DELITO PREVISTO NA LEI DE DROGAS - CONDENAÇÃO MANTIDA - ABSOLVIÇÃO QUANTO À ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - NECESSIDADE - AUSÊNCIA DE PROVA A COMPROVAR COM SEGURANÇA QUE OS DENUNCIADOS ESTIVESSEM ASSOCIADOS DE FORMA ESTÁVEL E PERMANENTE - DOSIMETRIA - MINORANTE DO §4º DO ARTIGO 33 DA LEI Nº 11.343/06 - INAPLICABILIDADE - DEDICAÇÃO À ATIVIDADE CRIMINOSA - CAUSA DE AUMENTO DO ARTIGO 40, INCISO VI, DA LEI 11.343/06 - MANUTENÇÃO - ENVOLVIMENTO DO ADOLESCENTE E IDADE DEVIDAMENTE DEMONSTRADOS - RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA EM FAVOR DO SEGUNDO APELANTE - PREJUDICIALIDADE - ATENUANTE JÁ RECONHECIDA NA SENTENÇA - RESTITUIÇÃO DE VALORES APREENDIDOS - INVIABILIDADE - EXPRESSA PREVISÃO LEGAL." (fls. 898/899).
+Em sede de recurso especial (fls. 950/974), a defesa de ADEMAR JUNIOR GONCALVES PINHEIRO apontou violação aos arts. 3º-A, 157, § 1º e 386, todos do Código de Processo Penal e art. 33, § 4º, da Lei n. 11.343/2006, sustentando, preliminarmente, a violação ao sistema acusatório, reputando incompatível a aplicação do art. 385 do CPP e a ilicitude das provas obtidas por violação domiciliar.
+Subsidiariamente, busca a aplicação do redutor do tráfico privilegiado.
+Requer o provimento do recurso para que seja reconhecida a violação ao sistema acusatório, com a anulação da sentença; a ilicitude das provas e, por derivação, o restante do acervo probatório, nos termos do art. 157, § 1º, do CPP, com a absolvição do agravante; e, subsidiariamente, a aplicação do redutor do tráfico privilegiado.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 978/981).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 7 do Superior Tribunal de Justiça; e b) óbice da Súmula n. 83 do Superior Tribunal de Justiça (fls. 984/987).
+Em agravo em recurso especial, a defesa impugnou apenas o óbice da Súmula 7/STJ (fls. 1072/1079).
+Contraminuta do Ministério Público (fls. 1083/1085).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo em recurso especial (fls. 1141/1144).
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+Isso porque a irresignação esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica das premissas adotadas para a inadmissão do apelo extremo.
+Da leitura das razões recursais, constata-se que o fundamento referente ao óbice da "Súmula n. 83/STJ" não foi impugnado concreta e especificamente, limitando-se a defesa a impugnar o argumento da Súmula n. 7/STJ.
+Com efeito, a impugnação dos motivos que obstaram o seguimento do recurso especial deve ser realizada de forma concreta e específica.
+Cabe destacar, ainda, que a Corte Especial do Superior Tribunal de Justiça - STJ, na oportunidade do julgamento dos Embargos de Divergência em Recurso Especial n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, DJe de 17/11/2021, pacificou a orientação de que a decisão que inadmite o recurso especial não é composta por capítulos autônomos, devendo ser impugnada em sua integralidade.
+Nesse contexto, de rigor a aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Com igual orientação:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência desta Corte, que não conheceu do agravo em recurso especial, sob a justificativa de que a defesa não impugnou todos os fundamentos da decisão de inadmissibilidade, aplicando-se a Súmula n. 182 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a defesa impugnou adequadamente todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+III. Razões de decidir
+3. A defesa não impugnou de forma específica e concreta o fundamento da decisão de inadmissibilidade do recurso especial consistente no óbice da Súmula n. 83 do STJ, relativamente à tese de abrandamento do regime prisional. Cingiu-se a impugnar a aplicação do óbice da Súmula n. 83 do STJ quanto à tese da aplicação do princípio da insignificância.
+4. A decisão que inadmite o recurso especial na origem não é cindível em capítulos autônomos e, portanto, deve ser impugnada em sua integralidade, o que não foi feito na hipótese.
+5. A ausência de impugnação específica, concreta e integral de todos os fundamentos da decisão agravada impede o conhecimento do agravo, conforme a Súmula n. 182 do STJ.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: 1. A impugnação da decisão de inadmissibilidade de recurso especial deve ser específica, concreta e integral. 2. A ausência de impugnação adequada de todos os óbices aplicados na decisão agravada impede o conhecimento do agravo, conforme a Súmula n. 182 do STJ.
+(AgRg no AREsp n. 2.790.756/TO, de minha relatoria, Quinta Turma, julgado em 4/2/2025, DJEN de 11/2/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 83/STJ (reincidência e regime inicial mais gravoso para o cumprimento da pena) e Súmula 83/STJ (art. 33, § 4º, da Lei n. 11.43/2006 - tráfico privilegiado e quantidade de drogas). A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice e da súmula apontada, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.547.981/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/2/2025, DJEN de 10/2/2025.)
+Desse modo, o presente agrav o em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante do exposto, com fundamento no art. 932, III, do CPC, e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
