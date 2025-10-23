@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de PAULO HENRIQUE SIMAO BATISTA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5002369-45.2025.8.24.0523), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 1ª Vara Criminal da comarca da Capital/SC, ao argumento de que desproporcional é a fração de 1/4 empregada pelo TJSC no caso de concurso entre multirreincidência e confissão (fl. 5). Aduz, ainda, ausência de fundamentação para a fixação de regime mais gravoso do que a pena imposta.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o acórdão a quo se encontra em consonância com farta jurisprudência desta Corte, sendo válida a compensação apenas parcial na segunda fase da dosimetria da pena havendo preponderância da agravante da multirreincidência sobre a atenuante da confissão (AgRg no HC n. 1.004.475/SP, Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 17/6/2025, DJEN 25/6/2025).
+Em arremate, a jurisprudência desta Corte admite a imposição de regime prisional mais severo, mesmo para penas inferiores a 04 (quatro) anos, desde que devidamente fundamentado, como ocorreu no caso em análise, em que o agravante é reincidente (AgRg no HC n. 967.384/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN 24/4/2025).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA E REGIME INICIAL. MULTIRREINCIDÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
