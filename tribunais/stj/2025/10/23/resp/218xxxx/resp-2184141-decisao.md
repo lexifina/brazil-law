@@ -1,0 +1,14 @@
+DECISÃO
+Verifico que a controvérsia objeto do presente recurso guarda relação com o Tema Repetitivo n. 1359 afetado por esta Corte Superior  "À luz do disposto no art. 32, § 4º, I, da Lei n. 9.656/1998, definir o termo inicial da incidência de juros de mora sobre débito a ser pago por operadoras de plano de saúde ao Sistema Único de Saúde (SUS), quando presente a interposição de recurso administrativo"  , no qual foi determinada a suspensão dos recursos especiais e agravos em recursos especiais interpostos nos Tribunais de segunda instância ou em tramitação no STJ que versem sobre a questão delimitada, consoante os fundamentos estampados na seguinte ementa:
+RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO AO RITO DOS RECURSOS REPETITIVOS (ARTS. 1.036 DO CPC E 256, I, DO RISTJ). ADMINISTRATIVO. RESSARCIMENTO AO SUS. TERMO INICIAL DOS JUROS DE MORA. RECURSO ESPECIAL AFETADO.
+1. A controvérsia decorre da exegese do art. 32, § 4º, I, da Lei n. 9.656/1998. Discute-se a definição do termo inicial da incidência dos juros de mora sobre os valores a serem ressarcidos ao Sistema Único de Saúde (SUS), quando presente a interposição de recurso administrativo.
+2. A multiplicidade de recursos especiais, em que discutida essa temática, recomenda a afetação da controvérsia para julgamento em em regime repetitivo, nos termos dos arts. 1.036 a 1.041 do CPC.
+3. Delimitação da questão controvertida: "À luz do disposto no art. 32, § 4º, I, da Lei n. 9.656/1998, definir o termo inicial da incidência de juros de mora sobre débito a ser pago por operadoras de plano de saúde ao Sistema Único de Saúde (SUS), quando presente a interposição de recurso administrativo".
+4. Determinação de suspensão do processamento dos recursos especiais e agravos em recursos especiais interpostos perante os Tribunais de segunda instância ou em tramitação no STJ.
+5. Recurso especial que se afeta como representativo da controvérsia jurídica repetitiva.
+(ProAfR no RECURSO ESPECIAL Nº 2150622 - RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, j. 27/05/2025, DJe 12/06/2025).
+Assim, não houve a manifestação do Tribunal de origem a teor do determinado nos arts. 1.039 e 1.040 do Código de Processo Civil, portanto, somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Posto isso, DETERMINO a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juí zo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se e intimem-se.
+EMENTA
