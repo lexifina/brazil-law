@@ -1,0 +1,15 @@
+DECISÃO
+ALEX SANDRO BASTOS DO PRADO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no Agravo em Execução n. 0008716-34.2025.8.26.0521.
+Consta dos autos que o Juízo da Vara das Execuções deferiu ao paciente a progressão ao regime semiaberto. Inconformado, o Ministério Público recorreu e o Tribunal de origem cassou o benefício, determinando a realização de exame criminológico prévio para análise do pedido.
+A defesa aponta a irretroatividade da Lei n. 14.843/2024, que introduziu o § 1º ao art. 112 da LEP, inaplicável a fatos anteriores à sua vigência. Alega, ainda, que não há nos autos fundamentos concretos que justifiquem a exigência, uma vez que o paciente ostenta bom comportamento carcerário, trabalhou e estudou durante a execução e a única falta de natureza média está reabilitada.
+Requer o restabelecimento da decisão de primeiro grau.
+Decido.
+O Tribunal de origem cassou a progressão de regime deferida ao paciente, porque "a regra do §1º do artigo 112, da LEP, deve ser aplicada imediatamente, podendo ser exigido mesmo aos condenados que cometeram crimes antes da vigência da nova legislação" (fl. 91).
+É possível o avanço para a pronta solução do habeas corpus, com base na jurisprudência sobre o tema.
+O acórdão recorrido está em desacordo com o entendimento de que " a  exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14.843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade.  ..  A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal" (RHC n. 200.670/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 23/8/2024.)
+Aliás, no que tange às exigências da Lei n. 14.843/2024, o Supremo Tribunal Federal, por intermédio de decisão do Ministro André Mendonça, salientou que "tendo em vista o princípio da individualização da pena, o qual também se estende à fase executória, consistindo em inovação legislativa mais gravosa, faz-se necessária a incidência da norma vigente quando da prática do crime, somente admitida a retroatividade de uma nova legislação se mais favorável ao sentenciado (novatio legis in mellius)" (RHC n. 200.670/MG, DJe de 28/5/2024).
+Ainda, e conforme a legislação vigente à época dos fatos e a Súmula n. 439 do STJ, não houve justificativa idônea para exigir o estudo de periculosidade.
+Deveras, "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022).
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão do Juiz das Execuções.
+Publique-se e intimem-se.
+EMENTA
