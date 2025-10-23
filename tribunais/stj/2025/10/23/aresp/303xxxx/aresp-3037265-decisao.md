@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por GILMAR DIVINO BRITO, EURIPEDES DIAS JUNIOR, JOEL GARCIA XIMENDE, RAMAO CASTRO ROMEIRO e THALIO RHANIO PEREIRA DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Os agravantes foram condenados pela prática do crime previsto no artigo 35, caput, c/c artigo 40, inciso V, da Lei nº 11.343/2006 (associação para o tráfico de drogas).
+O Tribunal de Justiça do Distrito Federal e Territórios manteve as condenações, fixando pena de 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial aberto, além de 816 (oitocentos e dezesseis) dias-multa, para Gilmar Divino Brito, e pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial semiaberto, e 886 (oitocentos e oitenta e seis) dias-multa, para os demais agravantes.
+No recurso especial inadmitido, alegou-se violação aos artigos 386, inciso VII, do Código de Processo Penal, e 59 do Código Penal, sustentando-se: (i) insuficiência probatória quanto ao vínculo estável e permanente exigido para a caracterização da associação criminosa; e (ii) bis in idem na valoração negativa da culpabilidade.
+A decisão agravada inadmitiu o recurso especial, sob o fundamento de incidência da Súmula nº 07/STJ (fls. 2701/2704).
+Nas razões do presente agravo, a defesa sustenta a inaplicabilidade do enunciado sumular, argumentando que a análise demandaria apenas revaloração jurídica de fatos incontroversos descritos no acórdão recorrido (fls. 2722/2773).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 2826/2830).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo, em razão da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+A decisão que inadmitiu o recurso especial consignou expressamente que a pretensão de revisão quanto à suficiência probatória da associação criminosa e à valoração da culpabilidade, esbarraria no óbice do enunciado sumular, porquanto o Tribunal de origem, após sopesar todo o acervo fático-probatório, concluiu pela existência de provas suficientes para a condenação e pela adequada fundamentação da exasperação da pena-base.
+O agravo limitou-se a afirmar, genericamente, que a análise não exigiria reexame de fatos e provas, sem, contudo, confrontar adequadamente as premissas fáticas estabelecidas pelo acórdão recorrido com a pretensa questão jurídica suscitada.
+No caso, deveria o agrava nte demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca; e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi.
+Outrossim, a Corte Especial deste Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik; e AgRg no AREsp 1.682.769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas .
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
