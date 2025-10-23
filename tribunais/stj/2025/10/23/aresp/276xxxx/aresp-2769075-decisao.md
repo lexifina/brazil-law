@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por EVELINE PONTES FALCÃO em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Distrito Federal e Territórios, assim ementado (fls. 326-327):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. TRANSFERÊNCIA BANCÁRIA. FRAUDE. FALHA NA PRESTAÇÃO DOS SERVIÇOS DA INSTITUIÇÃO BANCÁRIA. INOCORRÊNCIA. FORTUITO EXTERNO. RESPONSABILIDADE EXCLUSIVA DE TERCEIROS. CONFIGURAÇÃO. SENTENÇA REFORMADA.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 390-396 e-STJ).
+Nas razões de recurso especial (fls. 400-418 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 6º, inciso VIII do Código de Defesa do Consumidor; (ii) artigo 14, caput do Código de Defesa do Consumidor; (iii) artigo 373, inciso II da Lei nº 13.105/2015. Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 440-447 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 460-469 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 491-496 e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Com efeito, segundo o entendimento jurisprudencial do STJ, firmado com base no artigo 14, § 3º, I e II, do CDC, a responsabilidade dos serviços prestados pelas instituições financeiras é objetiva, assumindo o risco integral pela sua atividade, desincumbindo-se apenas se demonstrar a culpa exclusiva do consumidor ou de terceiros ou que, tendo prestado o serviço, o defeito não mais exista.
+O referido entendimento foi pacificado pela Segunda Seção desta Corte no julgamento do REsp 1.199.782/PR, Relator o Ministro Luis Felipe Salomão, DJe de 12/9/2011, no qual ficou assentado que as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros. Eis a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. JULGAMENTO PELA SISTEMÁTICA DO ART. 543-C DO CPC. RESPONSABILIDADE CIVIL. INSTITUIÇÕES BANCÁRIAS. DANOS CAUSADOS POR FRAUDES E DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+1. Para efeitos do art. 543-C do CPC: As instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. Recurso especial provido."
+(REsp n. 1.197.929/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/8/2011, DJe de 12/9/2011, g.n.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FRAUDE BANCÁRIA. "GOLPE DO MOTOBOY". USO DE CARTÃO E SENHA. MOVIMENTAÇÕES ATÍPICAS. FALHA NA PRESTAÇÃO DO SERVIÇO. CONCORRÊNCIA DE CAUSAS. CONFRONTO DA GRAVIDADE DAS CULPAS. CONSUMIDORAS IDOSAS -HIPERVULNERÁVEIS. INEXIGIBILIDADE DAS TRANSAÇÕES BANCÁRIAS NÃO RECONHECIDAS. AGRAVO INTERNO DESPROVIDO.
+1. Malgrado os consumidores tenham a incumbência de zelar pela guarda e segurança do cartão pessoal e da respectiva senha, é também dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas, a ponto de dificultar as fraudes, independentemente de qualquer ato dos consumidores.
+2. Ademais, consoante destacado pela Ministra Nancy Andrighi no julgamento do REsp 1.995.458/SP, tratando-se de consumidor idoso, "a imputação de responsabilidade há de ser feita sob as luzes do Estatuto do Idoso e da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos, sempre considerando a sua peculiar situação de consumidor hipervulnerável".
+3. Situação concreta em que foi constatada a falha da instituição financeira que não se cercou dos cuidados necessários para evitar as consequências funestas dos atos criminosos em conta-corrente de idosas, mormente diante das evidentes movimentações bancárias absolutamente atípicas, em curto espaço de tempo.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.201.401/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. FRAUDE BANCÁRIA. CULPA CONCORRENTE. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por suposta violação dos artigos 14 do Código de Defesa do Consumidor e 927 do Código Civil.
+2. O Tribunal de origem reconheceu a ocorrência de fraude bancária, mas concluiu pela culpa concorrente entre a autora e a instituição financeira, considerando que a autora seguiu orientações atípicas que possibilitaram o acesso de terceiros à sua conta, ao passo que o banco falhou em adotar mecanismos eficazes de segurança para impedir transações incompatíveis com o perfil da correntista.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a responsabilidade objetiva da instituição financeira deve ser reconhecida integralmente em casos de fraude, mesmo quando há conduta negligente do consumidor contribuindo para o resultado danoso.
+III. Razões de decidir
+4. A responsabilidade civil das instituições financeiras é objetiva, nos termos do art. 14 do CDC, podendo ser atenuada ou afastada se comprovada a culpa exclusiva ou concorrente do consumidor.
+5. O Tribunal de origem, com base na análise das provas dos autos, concluiu pela culpa concorrente, assentando que tanto a conduta da autora quanto a falha da instituição financeira contribuíram para o êxito da fraude.
+6. A pretensão de alterar tal conclusão demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+IV. Dispositivo
+7. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+(AREsp n. 2.923.759/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 1/9/2025, DJEN de 4/9/2025.)
+Desse modo, conforme acima destacado, é dever da instituição financeira verificar a regularidade e a idoneidade das transações realizadas por seus clientes, devendo, inclusive, alertá-los acerca de movimentações atípicas em suas contas ou, até mesmo, proceder ao bloqueio preventivo da transação, até que se confirme a autenticidade das operações  o que, no caso concreto, não se evidenciou.
+Ademais, observa-se que, nos autos, o banco restou revel, razão pela qual presumem-se verdadeiros, de forma relativa, os fatos narrados na inicial, conforme bem destacado pelo voto vencido às fls. 364, e-STJ.
+Com efeito, a redefinição do enquadramento jurídico dos fatos expressamente delineados no acórdão recorrido constitui mera revaloração da prova, o que afasta a incidência do óbice da Súmula 7 do Superior Tribunal de Justiça.
+Nesse contexto, consoante o delineamento fático realizado pelas instâncias ordinárias, a fraude bancária foi perpetrada nos seguintes moldes:
+Narra a autora que: (i) em 06/04/2023, recebeu um SMS solicitando a confirmação de uma compra em seu cartão de crédito e que, caso não a reconhecesse, ligasse para o número 4003-0599; (ii) por desconhecer a compra, ligou para o número indicado, sendo atendida por Juliana, que se identificou como funcionária do Banco Itaú e orientou a autora a baixar dois aplicativos; (iii) ao final da ligação, a atendente disse que, no dia seguinte, seria enviado um email relatando toda a situação, o que não ocorreu; (iv) após comparecer à agência do Itaú, foi informada de que uma transferência no valor de R$ 45.000,00 havia sido efetuada pelo aplicativo do banco para a agência 7384, c/c 99651-3 para Sambeleza CNPJ 50.195.600/0001-20; (v) após a constatação da retirada, registrou boletim de ocorrência; (vi) o réu deveria possuir sistemas detectores de fraudes, capazes de apontar a realização de operações fora do perfil do cliente; (vii) entrou novamente em contato com o Banco Itaú, o qual não reconheceu a fraude, informou que não se responsabilizaria e alegou que todas as transações foram realizadas no ambiente digital mediante a digitação da senha.
+Na hipótese, verifica-se que a consumidora é pessoa idosa, contando com 66 (sessenta e seis) anos à época dos fatos, o que a qualifica como consumidora hipervulnerável, nos termos do art. 230 da Constituição Federal e do art. 39, IV, do Código de Defesa do Consumidor.
+Por conseguinte, incumbia ao Itaú Unibanco S.A. demonstrar que houve anuência expressa e esclarecida da consumidora quanto às transações impugnadas, mediante comprovação de sua origem e regularidade, ou, ao menos, que adotou todas as diligências de segurança cabíveis no caso concreto  ônus do qual não se desincumbiu.
+Cumpria, ainda, ao banco demonstrar haver tomado todas as cautelas necessárias a garantir a segurança do consumidor, revelando-se insuficiente a alegação de que as operações foram realizadas com o uso de senha pessoal, situação que, ante a revelia do réu, sequer foi demonstrada.
+Como se vê, o Tribunal de origem decidiu em desconformidade com a jurisprudência desta Corte Superior, porquanto o voto vencedor deixou de sopesar a ausência de cautela da instituição financeira diante de transação manifestamente atípica, no valor de R$ 45.000,00 (quarenta e cinco mil reais).
+Dessa forma, à luz do conjunto fático delineado e considerando-se a revelia do banco, é de se concluir pela responsabilidade da instituição financeira pelos prejuízos suportados pela consumidora, conforme bem assentado no voto vencido. Isso porque restou caracterizada falha na prestação do serviço, uma vez que o Itaú Unibanco S.A. não demonstrou ter adotado mecanismos eficazes de segurança e monitoramento capazes de impedir a concretização da fraude.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, dar provimento ao recurso especial a fim de restabelecer a sentença, nos termos da fundamentação supramencionada.
+Publique-se.
+Intimem-se.
+EMENTA
