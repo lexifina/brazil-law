@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DO RIO GRANDE DO SUL, contra decisão de fls. 512/513, proferida pela Presidência desta Corte, que não conheceu de seu recurso em razão do óbice da Súmula 182/STJ.
+Às fls. 521/525, sustenta a agravante, em resumo, a não incidência da referida súmula uma vez que impugnados todos os fundamentos da decisão agravada, bem como que "Não se trata, pois, de incidência do Enunciado 83 da Súmula do STJ sobre o mérito da demanda, mas sim e tão somente no tocante à negativa de prestação jurisdicional" (fl. 522).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Impugnação apresentada às fls. 528/531.
+É o relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada de fls. 512/513, tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo manejado pelo ESTADO DO RIO GRANDE DO SUL, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 384):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS DIFERIDO. TRANSFERÊNCIA DE SALDO CREDOR PARA TERCEIRO. SUBTRAÇÃO DE SUPOSTOS CRÉDITO DE ESTOQUE. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. INTELIGÊNCIA DO DISPOSTO NO ART. 59 DO RICMS. SÚMULA 129 DO STJ. INAPLICABILIDADE. CRÉDITO QUE NÃO DECORRE DE EXPORTAÇÃO. ÓBICE NORMATIVA À APLICAÇÃO DO ENTENDIMENTO SUMULADO.
+- Diferentemente do que dispõe o art. 58 sobre a transferência de saldo credor em operações de exportação, o art. 59 do RICMS, que trata das demais hipóteses de transferência de saldo credor, objeto de fundamentação pela impetrante administrativamente e neste feito, não veda e nem enseja limitação quanto ao ponto relativo ao estoque das mercadorias.
+- Não é aplicável ao caso concreto a Súmula 129 do STJ, porquanto a hipótese trata de ICMS diferido, porquanto, não há qualquer impeditivo na legislação que regula a transferência de saldo credor na forma pretendida pelo impetrante, restando evidente óbice normativa à sua aplicação.
+- Não incorrendo a atuação da empresa em nenhuma das vedações legais impeditivas para transferência de créditos de seu saldo credor acumulado de ICMS, inexiste previsão legal para a subtração, do saldo credor, do valor do ICMS dos estoques para a circunstância fática geradora do acúmulo de saldo credor de ICMS para a impetrante (saídas diferidas).
+APELO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 429/431).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, III, IV e V e 1.022 do CPC e 25, § 2º, I e II, da LC 87/96.
+Aduz, em resumo: (I) omissão no julgado embargado que não se manifestou acerca das questões postas nos aclaratórios relativamente à exigência legal de o saldo credor acumulado de ICMS ocorrer apenas após a saída das mercadorias ao abrigo do diferimento; (II) "o direito a transferir saldos credores do ICMS nasce apenas quando da efetiva operação de saída da mercadoria  ..  não é possível transferir créditos fiscais relativos a estoques, isto é, créditos relativos a mercadorias (ou produtos com ela fabricados) que não saíram do estabelecimento ao abrigo do diferimento" (fl. 449).
+Impugnação apresentada às fls. 458/466.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que "O saldo credor acumulado do ICMS passível de transferência, na forma da lei, apenas ocorrerá após a saída das mercadorias ao abrigo do diferimento. A transferência do saldo credor acumulado pressupõe a saída da mercadoria, e não sua manutenção em estoque" (fl. 397), bem como que "A circunstância de decorrer da interpretação da lei a necessidade de já ter havido a saído a mercadoria, e não mais permanecer em estoque, para que haja a transferência do saldo credor acumulado do ICMS não foi objeto de exame, daí a razão dos presentes embargos de declaração" (fl. 397).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo para, dando provimento ao recurso especial, nos termos da fundamentação, tornar sem efeito a decisão de fls. 513/513 e determinar o retorno dos autos ao tribunal de origem para novo julgamento dos aclaratórios com a apreciação da questão sucitada.
+Publique-se.
+EMENTA
