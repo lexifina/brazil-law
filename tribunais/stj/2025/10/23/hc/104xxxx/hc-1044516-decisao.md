@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JULIO CESAR RABELO MORAES - condenado à pena de 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa, por incursão no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 01501162-42.2024.8.26.0542).
+Busca-se, nesta impetração, a aplicação do redutor do § 4º do art. 33 da Lei n. 11.343/2006, no patamar máximo de 2/3, com a fixação de regime inicial aberto ou semiaberto, sustentando-se que o paciente é primário e de bons antecedentes; que não há prova de dedicação a atividades criminosas ou de integração a organização criminosa; e que a negativa do tráfico privilegiado fundada na quantidade e variedade das drogas é indevida.
+É o relatório.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 9/8/2025, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Além disso, esta via não é adequada para o amplo reexame de fatos e de provas para análise da dosimetria da pena imposta. Não se revelando, de mais a mais, nenhuma ilegalidade manifesta a ser reparada por meio da concessão de habeas corpus de ofício.
+Ademais, o afastamento do tráfico privilegiado decorreu da expressiva quantidade e diversidade de entorpecentes apreendidos - (213,59 g de cocaína, 1.264 g de crack e 216,6 g de maconha - fl. 28) - e da dinâmica da mercancia, com atuação coordenada dos acusados, sendo destacado no acórdão que o réu Júlio César exercia função relevante no contexto do tráfico, ao organizar a fila de usuários, controlar a entrada destes e liberá-los sequencialmente para que se dirigissem ao corréu Felipe André, responsável pela entrega dos entorpecentes (fl. 137). Esse contexto também justificou a fixação do regime inicial fechado, notadamente a dedicação à atividade criminosa, que se evidencia, sobretudo, pelo tráfico de expressiva quantidade de drogas, notadamente a altamente perniciosa cocaína em pó e na forma de crack (fl. 33).
+Ante o exposto, ind efiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REFAZIMENTO DA DOSIMETRIA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
