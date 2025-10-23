@@ -1,0 +1,63 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 215):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA 83 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do recurso, em razão da intempestividade do recurso especial. Reconsideração.
+2. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Incidência da Súmula 481/STJ.
+4. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 240-248).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV, LV e LXXIV, e 93, IX, da Constituição Federal.
+Nesse sentido, narra ter havido indeferimento de seu pedido de gratuidade de justiça, sob o fundamento de que os documentos de comprovação seriam insuficientes.
+Defende que não possui condições financeiras para arcar com custas e despesas processuais e que a negativa do benefício é que exige prova no sentido contrário à alegação.
+Assevera que não foi dada nova oportunidade para a complementação documental.
+Sustenta que foi violado o amplo acesso à justiça, o devido processo legal, o contraditório, a ampla defesa e os parâmetros constitucionais para a gratuidade de justiça, os quais asseguram a assistência jurídica integral e gratuidade aos que comprovarem insuficiência de recursos.
+Sublinha que houve ofensa ao dever de fundamentação das decisões judiciais.
+Argumenta que não busca o reexame do conjunto fático-probatório, sendo inaplicável o óbice da Súmula n. 279 do STF na hipótese dos autos.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+Contrarrazões foram apresentadas às fls. 265-273.
+É o relatório.
+2. Inicialmente, cumpre destacar que a jurisprudência desta Corte Superior consolidou-se no sentido de que "é desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita" (AgRg nos EREsp n. 1.222.355/MG, relator Ministro Raul Araújo, Corte Especial, julgado em 4/11/2015, DJe de 25/11/2015).
+3. No julgame nto do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 218-220):
+Avançando, o Tribunal de origem consignou que a pessoa jurídica, com ou sem fins lucrativos, pode usufruir do benefício da gratuidade de justiça, devendo, para tanto, comprovar a impossibilidade de arcar com os ônus processuais, o que não ocorreu no caso. A propósito:
+"No caso dos autos, observo que o juízo agiu com acerto a quo ao indeferir o pedido de gratuidade da Justiça.
+Digo isso porque, antes mesmo do seu exame, oportunizou à parte Recorrente a produção de provas de sua hipossuficiência, tendo ela atendido à determinação juntando os documentos de fls. 190/212 dos autos materializados, dentre os quais constam balanço patrimonial, coeficientes de análise, recibo de entrega de escrituração contábil digital entregue à Receita Federal, extratos de sua conta na CEF, além da demonstração do resultado do exercício financeiro.
+Entretanto, os citados documentos demonstram são insuficientes para comprovar a impossibilidade de arcar com as despesas processuais.
+É que, como se percebe, todos esses documentos ilustram situação pretérita da parte Agravante, relativa ao período de 01/01/2022 a 31/12/2022, de mais de 02 (dois) anos atrás, não servindo, então, para comprovar a sua capacidade financeira. atual" (e-STJ, fl. 67)
+A orientação está em consonância com a jurisprudência desta Corte Superior, segundo a qual tal benefício pode ser concedido às pessoas jurídicas apenas se comprovarem que dele necessitam, independentemente de terem ou não fins lucrativos. Nesse sentido: (..)
+Incidem, portanto, à hipótese, as Súmulas 83 e 481 do STJ.
+Ademais, a modificação de tal entendimento, lançado no v. acórdão recorrido, no sentido de reconhecer que a recorrente comprovou sua hipossuficiência e que faria jus ao benefício pretendido, demandaria o revolvimento do suporte fático-probatório dos autos, situação inviável de ser apreciada em recurso especial, nos termos da Súmula 7 deste Pretório. A propósito: (..)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, reconsiderando a decisão agravada, dou provimento ao agravo interno para conhecer do agravo e negar provimento ao recurso especial.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+4. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660 do STF, fixou-se a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Na hipótese, o exame do alegado desrespeito do art. 5º, LIV e LV, da CF dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+5. Ademais, no julgamento do RE n. 956.302-RG, a Suprema Corte firmou o entendimento de que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+A referida orientação foi consolidada no Tema n. 895 do STF, nos seguintes termos:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, a apreciação da apontada ofensa ao art. 5º, XXXV, da CF demandaria o exame de normas infraconstitucionais e a apreciação de matéria fática, motivo pelo qual se aplica a conclusão do STF no Tema n. 895.
+Do mesmo modo, trata-se de entendimento firmado na sistemática da repercussão geral e, portanto, de observância cogente (art. 1.030, I, a, do CPC).
+6. A controvérsia cinge-se à questão do preenchimento dos requisitos legais para a concessão dos benefícios da gratuidade de justiça pela parte recorrente, o que depende do exame dos arts. 98, §§ 1º e 2º, e 99, § 1º, do Código de Processo Civil, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, inviabilizando a admissão do recurso.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso, seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula da Suprema Corte: "Para simples reexame de prova não cabe recurso extraordinário".
+Em caso semelhante, assim já decidiu o STF:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+2. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 279 e 636/STF.
+3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+(ARE 1176191 AgR, Relator(a): DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 15-02-2019, PROCESSO ELETRÔNICO DJe-054 DIVULG 19-03-2019 PUBLIC 20-03-2019).
+7. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário, em relação à suscitada ofensa aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal, e, quanto às demais alegações, com fundamento no art. 1.030, V, do Código de Processo Civil, não o admito.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
