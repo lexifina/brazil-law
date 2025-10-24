@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de DANIEL DAVID DANTAS AFFONSO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO DISTRITO FEDERAL.
+No presente writ, sustenta o impetrante que o paciente estaria sofrendo constrangimento ilegal em razão da segregação cautelar.
+Aponta ausência dos requisitos do art. 312 do Código de Processo Penal, desproporcionalidade da segregação e falta de fundamentação concreta para justificar a restrição à liberdade.
+Além disso, o paciente teria condições pessoais favoráveis, motivo pelo qual requer o relaxamento da prisão processual ou a sua substituição por medidas cautelares diversas.
+Informações prestadas às fls. 111/120.
+O Ministério Público Federal manifestou-se às fls. 153/160, opinando não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+O Tribunal de origem manteve a segregação cautelar do acusado, consignando, in verbis (fls. 85/103):
+Percebe-se, pois, que, ao contrário do que defende a impetrante, a decisão impugnada está devidamente amparada em fundamentação jurídica idônea, apresentando motivação concreta apta a justificar a manutenção da prisão preventiva. A autoridade impetrada se reportou aos fundamentos adotados anteriormente para o decreto prisional, frisando que permanecem intactos. Destacou, ainda, a gravidade em concreto do delito, em especial porque o paciente, segundo as investigações, era um dos principais operadores financeiros do grupo criminoso, tendo, em tese, mediante pagamento, emprestado sua conta bancária para lavar valores provenientes do tráfico de drogas.
+(..)
+Em relação à contemporaneidade, insta esclarecer que o referido requisito não está atrelado ao tempo decorrido desde o fato criminoso, mas, à permanência dos motivos que ensejaram o decreto prisional. Na hipótese, os fundamentos da custódia permanecem incólumes, inexistindo qualquer fato novo a ensejar a sua revogação, na esteira do que restou decidido pela autoridade impetrada.
+Do excerto transcrito, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pela instância ordinária, tendo sido ressaltada a gravidade concreta da conduta do recorrente, evidenciada a partir do seu papel no contexto da organização criminosa que integra, a qual atua em um sofisticado esquema de lavagem de dinheiro proveniente de valores oriundos do tráfico de drogas, evitando-se a perpetuação das atividades criminosas desenvolvidas.
+Como bem anotado na manifestação ministerial, "consta dos autos elementos que denotam a gravidade concreta da imputação, a periculosidade do agente, a possibilidade de reiteração, o que demonstra o risco à ordem pública. Além disso, evidenciou-se o risco à ordem econômica, notadamente em razão do uso de contas bancárias para lavagem de dinheiro oriundo do tráfico de drogas".
+Nessa esteira, "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo" (AgRg no HC n. 728.450/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 18/08/2022), não sendo relevante para a desconstituição da medida extrema o fato de o recorrente não ter sido citado na primeira fase da operação.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si sós, não asseguram a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Quanto à aplicação de medidas cautelares, esta Corte de Justiça possui o entendimento de que, verbis:
+"Em hipótese de graves crimes, praticados com sofisticação e habitualidade, em contexto de organização criminosa ainda não completamente desarticulada, as medidas alternativas à prisão preventiva de que cuida o art. 319 do CPP não são idôneas e suficientes para prover os interesses cautelares descritos no art. 282, I, do mesmo diploma" (HC n. 446.548/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/6/2018, DJe de 1/8/2018).
+Desse modo, não havendo que se falar em ilegalidade manifesta e tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
