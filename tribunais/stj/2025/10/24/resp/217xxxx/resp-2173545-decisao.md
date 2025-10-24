@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALCESTE PINHEIRO DE ALMEIDA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 531):
+APELAÇÃO. TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO DA IMPUGNAÇÃO. CABIMENTO DO RECURSO. HONORÁRIOS FIXADOS COM BASE NO VALOR DA CONDENAÇÃO. COISA JULGADA. ALTERAÇÃO INADIMISSÍVEL. DESPROVIDA.
+1. A apelação interposta é cabível, uma vez que houve extinção do cumprimento da sentença pelo acolhimento da impugnação (STJ. 4ª Turma. REsp 1.698.344-MG, Rel. Min. Luis Felipe Salomão, julgado em 22/05/2018 (Info 630).
+2. Extraem-se da sentença e do acórdão que os honorários foram fixados sobre a condenação, em percentual mínimo, e mediante liquidação de sentença, nos termos do art. 85, §4º, II do CPC. Por outro lado, pretende a apelante que os honorários incidam sobre todo o proveito econômico por ela obtido e não somente sobre o montante que a União foi condenada a desembolsar nos autos.
+3. Destaco que a sentença determinou explicitamente que a ré pagasse honorários advocatícios correspondentes a 5% (cinco por cento) do montante condenatório, conforme estabelecido pelo artigo 90, § 4º, do CPC. O acórdão, já consolidado pela coisa julgada, eliminou apenas a possibilidade de redução desse percentual à metade, afastando a aplicação do mencionado dispositivo, sem, contudo, modificar a base de cálculo prevista para a aplicação do referido percentual.
+4. A base de cálculo da verba honorária é insuscetível de modificação na execução ou na fase de cumprimento da sentença, sob pena de ofensa à coisa julgada. Precedentes do STJ.
+5. Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (fls. 589/592).
+Nas razões de seu recurso, a parte recorrente aponta violação dos arts. 1.022, II, parágrafo único, II, c/c art. 489, § 1º, IV, do Código de Processo Civil (CPC) e do Tema repetitivo 1.050 do Superior Tribunal de Justiça (STJ).
+Alega que, a despeito da oposição dos embargos de declaração, o acórdão recorrido foi omisso ao não especificar a alteração na base de cálculo dos honorários advocatícios, deixando de se manifestar sobre a inclusão dos valores pagos administrativamente pela União na base de cálculo dos honorários sucumbenciais.
+A controvérsia posta nos autos reside, pois, "sobre qual deve ser a base de cálculo dos honorários sucumbenciais quando parte do valor da condenação (restituição do Imposto de Renda) foi devolvida administrativamente e outra parte judicialmente (RPV)" (fl. 602).
+Defende que, nos termos do Tema 1.050/STJ, os valores restituídos administrativamente ao autor da ação deveriam ser incluídos na base de cálculo dos honorários sucumbenciais por ele executados, assinalando que (fl. 604):
+"  ..  a fundamentação jurídica adotada por este E. STJ é de que o pagamento administrativo pela União, que decorre da condenação judicial, faz parte do benefício econômico obtido pelo vencedor da demanda. Portanto, o conceito do Tema 1.050 é de que o critério de cálculo dos honorários sucumbenciais deve considerar todo o montante efetivamente restituído ao autor, seja pela via judicial ou administrativa, já que ambos resultam da mesma relação jurídica e beneficiam o mesmo credor".
+Requer o provimento do recurso especial para que, reformando o acórdão recorrido, seja determinado "que os valores pagos administrativamente pela União ao autor da ação componham a base de cálculo dos honorários sucumbenciais" (fl. 609).
+A parte adversa apresentou contrarrazões (fls. 628/634). Também a par te interessada, UNIVERSIDADE FEDERAL FLUMINENSE UFF, apresentou contrarrazões ao recurso especial (fls. 618/622).
+O recurso foi admitido (fls. 640/641).
+É o relatório.
+Na origem, cuida-se de ação declaratória cumulada com repetição de indébito tributário proposta por Alceste Pinheiro de Almeida contra a União Federal, na qual pleiteou a isenção de imposto de renda sobre aposentadoria e a restituição dos valores recolhidos indevidamente.
+A controvérsia no presente recurso especial diz respeito à base de cálculo dos honorários sucumbenciais, especificamente se os valores pagos administrativamente pela União devem ser incluídos no cálculo.
+Alega a parte que o Tribunal de origem, mesmo após provocado por meio dos embargos de declaração opostos, não se manifestou integral e fundamentadamente sobre pontos relevantes ao deslinde da controvérsia, deixando de considerar os valores pagos administrativamente pela União no cômputo da verba sucumbencial e o quanto decidido no Tema repetitivo 1.050/STJ.
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido sobre a possibilidade de inclusão na base de cálculo dos honorários sucumbenciais dos valores pagos pelo autor na execução administrativa por ele realizada e a observância do Tema 1.050/STJ.
+Constato que, apesar de provocado em duas oportunidades, por meio do recurso de apelação às fls. 524/531 e dos embargos de declaração às fls. 585/592, o Tribunal de origem manteve-se silente sobre essa matéria.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, conheço do recurso especial e a ele dou provimento para reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
