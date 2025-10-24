@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 10/2/2025.
+Concluso ao gabinete em: 5/9/2025.
+Ação: complementação de aposentadoria, ajuizada por HERVAL BARROS DE SOUZA, IZAIAS CANDIDO NASCIMENTO, KÁTIA MARIA DOS SANTOS CAPELLA, MOEMA BARBOSA LOPES e OSMAR MOREIRA EMMERICK, em face de FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER.
+Decisão interlocutória: rejeitou a preliminar de inépcia, pois a inicial preenche os requisitos dos arts. 319, 320, CPC, bem como rejeitou a preliminar de incompetência da Justiça Estadual, além de rejeitar a impugnação ao valor da causa, ante a impossibilidade de se precisar, no momento, o conteúdo econômico da demanda. No mais, deferiu a prova pericial atuarial requerida pela parte agravada.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. DECISÃO DE SANEAMENTO DO PROCESSO. INDEFERIMENTO DO PLEITO DE INTERVENÇÃO NO PROCESSO DA UNIÃO FEDERAL E A CBTU NA QUALIDADE DE AMICUS CURIAE OU DE ASSISTENTE LITISCONSORCIAL, COM O CONSEQUENTE DECLÍNIO DE COMPETÊNCIA PARA A JUSTIÇA FEDERAL. ADMISSIBILIDADE DO RECURSO COM FULCRO NO ARTIGO 1.015, IX, DO CPC. INEXISTÊNCIA DE INTERESSE DA UNIÃO OU DA CBTU A JUSTIFICAR A INCIDÊNCIA DO ART. 109, I, DA CR/88. ENTENDIMENTO FIRMADO NA SÚMULA Nº 505 PELO SUPERIOR TRIBUNAL DE JUSTIÇA: "A COMPETÊNCIA PARA PROCESSAR E JULGAR AS DEMANDAS QUE TÊM POR OBJETO OBRIGAÇÕES DECORRENTES DOS CONTRATOS DE PLANOS DE PREVIDÊNCIA PRIVADA FIRMADOS COM A FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER É DA JUSTIÇA ESTADUAL." AUSÊNCIA DE DEMONSTRAÇÃO QUANTO À ALEGADA NECESSIDADE DE CORRELATO CUSTEIO PATRONAL PARA JUSTIFICAR A INTERVENÇÃO DE TERCEIROS. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO JULGAMENTO VINCULANTE DO RESP Nº 1.370.191/RJ (TEMA Nº 936): " A  PATROCINADORA NÃO POSSUI LEGITIMIDADE PASSIVA PARA LITÍGIOS QUE ENVOLVAM PARTICIPANTE/ASSISTIDO E ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR, LIGADOS ESTRITAMENTE AO PLANO PREVIDENCIÁRIO, COMO A CONCESSÃO E REVISÃO DE BENEFÍCIO OU RESGATE DA RESERVA DE POUPANÇA, EM VIRTUDE DE SUA PERSONALIDADE JURÍDICA AUTÔNOMA". DISCRICIONARIEDADE DO JUÍZO QUANTO À ADMISSÃO DO AMICUS CURIAE EM JUÍZO. DECISÃO CORRETA QUE SE MANTÉM. RECURSO DESPROVIDO." (e-STJ fl. 35)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 138, 489, § 1º, III, IV, V, 1.022, I, II, CPC, 33, Lei Complementar 109/2001. Além de negativa de prestação jurisdicional, sustenta que: i) a parte recorrida traz alegações de que o benefício foi impactado em razão da inadimplência da CBTU, que deixou de repassar as cotas de contribuição para o plano de previdência privado gerido pela parte recorrente, provocou desfalque e recebimento a menor do benefício, considerando que o benefício foi concedido antes do recebimento dos valores definidos no acordo judicial celebrado nos autos do processo 0010752-77.2016.4.02.0000; e, ii) o interesse da União e da CBTU para figurarem como terceiros interessados na presente demanda deveria ter sido analisado com base da Teoria da Asserção; e, iii) considerando a relevância da matéria e a repercussão social da controvérsia, torna-se necessária a presença da CBTU e da União nos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 2/2/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/2/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da competência da justiça estadual para o julgamento da demanda com supedâneo na Súmula 505/STJ e da não intervenção da União e da CBTU nos autos, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 33, Lei Complementar 109/2001, indicado como violado, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/RJ, no sentido de que se aplica à hipótese o entendimento firmado na Súmula 505 do Superior Tribunal de Justiça, bem como de que se aplica à hipótese outro entendimento, de natureza vinculante, no sentido de que a patrocinadora não deve ser incluída no polo passivo nas demandas em que se busca a revisão de benefício, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que se verificam argumentos meramente genéricos por parte da agravante, deixando de demonstrar a real necessidade da intervenção da União e da CBTU, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de complementação de aposentadoria.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca do dispositivo legal indicado como violado, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
