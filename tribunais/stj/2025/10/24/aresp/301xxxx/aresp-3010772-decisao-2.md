@@ -1,0 +1,30 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MASSA FALIDA DE CENTROPROJEKT DO BRASIL S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/7/2025.
+Concluso ao gabinete em: 11/9/2025.
+Ação: de liquidação de sentença por arbitramento, ajuizada por CONSERV ENGENHARIA E MANUTENÇÃO LTDA., em face de MASSA FALIDA DE CENTROPROJEKT DO BRASIL S.A. e SUZANO S.A., na qual requer a apuração, por arbitramento, do valor devido relativo a bens não devolvidos e a análise comparativa das planilhas para apuração do preço de mercado.
+Decisão interlocutória: decidiu pela desnecessidade de liquidação por arbitramento; reconheceu perdas e danos em R$ 55.250,41 (cinquenta e cinco mil, duzentos e cinquenta reais e quarenta e um centavos); condenou a liquidante ao pagamento de honorários de 10% (dez por cento) sobre o excesso; determinou a remessa dos autos à contadoria judicial.
+Acórdão: deu parcial provimento ao recurso de agravo de instrumento interposto por CONSERV ENGENHARIA E MANUTENÇÃO LTDA., nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS TERMOS DELIMITADOS NA SENTENÇA. COISA JULGADA E PRINCÍPIO DA SEGURANÇA JURÍDICA. SENTENÇA ILÍQUIDA. POSSIBILIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. ANÁLISE COMPARATIVA DAS PLANILHAS CONSTANTES DO TÍTULO EXECUTIVO. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE EXCESSIVA NÃO VERIFICADA. 1. Não é possível rediscutir, em liquidação de sentença, matérias já apreciadas e transitadas em julgado, devendo a liquidação se ater aos limites do título executivo judicial. 2. Sentença ilíquida, em que se faz possível a liquidação por arbitramento, nos termos dos artigos 509 e 510 do Código de Processo Civil. 4. Conversão do julgamento em diligência para determinar a liquidação por arbitramento com fins de realização de análise comparativa entre as planilhas que constam no título executivo. 3. O arbitramento de honorários sucumbenciais em liquidação de sentença é exceção, somente sendo possível quando se evidenciar litigiosidade entre as partes, que prolongaria excessivamente a atuação dos patronos, não sendo o caso dos autos. 4. Agravo de Instrumento parcialmente provido. 5. Precedentes do STJ. 6. Unanimidade. (e-STJ fl. 122)
+Embargos de Declaração: opostos por MASSA FALIDA DE CENTROPROJEKT DO BRASIL S.A., foram rejeitados.
+Recurso especial: alega violação dos arts. 485, caput, § 1º, e IV, e 489, § 1º, IV, do CPC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta que a matéria encontra divergência entre julgados quanto ao dever de enfrentamento dos argumentos e à nulidade por falta de fundamentação.
+Afirma que o acórdão não enfrenta os fundamentos relevantes dos embargos de declaração e inova ao determinar diligência em liquidação.
+Aduz que há ausência de fundamentação adequada ao manter a conversão do feito em diligência sem vinculação aos argumentos deduzidos.
+RELATADO O PROCESSO, DECIDE-SE.
+Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito são analisadas e discutidas, com definição acerca da necessidade de converter o julgamento em diligência, " ..  com objetivo de avaliar se os itens constantes corresponderiam, de fato aos pormenorizados as planilhas de fls. 654/655 e 656, bem como o valor correspondente ao seu preço de mercado, acrescido de correção monetária  .. " (e-STJ fl. 132).
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não se confunde com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC quando o Tribunal decide de modo claro e fundamentado. No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, Terceira Turma, DJe 19/12/2019; e AgInt no AREsp 1480314/RJ, Quarta Turma, DJe 19/12/2019.
+Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Liquidação de sentença por arbitramento.
+2. Violação do art. 489 do CPC. Inocorrência.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
