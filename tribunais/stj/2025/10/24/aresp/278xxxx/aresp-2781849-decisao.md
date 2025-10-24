@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ROMULO DINIZ DE SOUZA e RENAN LIMA DA SILVA contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, no bojo da Apelação Criminal n. 0343481-63.2022.8.19.0001 (e-STJ fl. 439).
+Consta dos autos que os agravantes foram condenados, pelo Juízo singular, em concurso material heterogêneo, como incurso nas sanções dos arts. 33, caput, e 35, caput, c/c o art. 40, IV, todos da Lei n. 11.343/2006 e do art. 329, § 1º, do CP, à pena privativa de liberdade de 10 (dez) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, acrescida do pagamento de 1.399 (mil, trezentos e noventa e nova) dias-multa, oportunidade em que, ex vi do art. 387, § 1º, do CPP, restou mantida a segregação cautelar de ambos (e-STJ fls. 287-292).
+Na sequência, a Corte de origem negou provimento ao apelo defensivo (e-STJ fls. 439-448).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta negativa de vigência do art. 386, V, VI e VII, do CPP (e-STJ fl. 485), associada à redação do art. 5º, caput, da CRFF/88 (e-STJ fl. 470).
+Para tanto, assevera (em síntese) que, à míngua de provas cabais que autorizem o juízo a decretar uma sentença condenatória, a absolvição do recorrentes - em alinho ao princípio do in dubio pro reo (e-STJ fl. 485) - constitui provimento de rigor.
+Contrarrazões pelo Parquet (e-STJ fls. 491-495).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 7/STJ (e-STJ fls. 497-501).
+Ao cabo, fora interposto agravo em recurso especial pela Defesa técnica (e-STJ fls. 509-518).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, opina seja desprovido o agravo em recurso especial, por esbarrar no óbice conhecimento da Súmula 7/STJ (e-STJ fls. 551-552).
+É o relatório.
+DECIDO.
+De início, oportuno sublinhar que o princípio da dialeticidade recursal impõe que a parte recorrente impugne (regularmente) os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e pormenorizada, seu eventual desacerto.
+Na espécie, ao se cotejar a decisão de inadmissibilidade a quo (e-STJ fls. 497-501-501) e as (dissociadas) razões do presente agravo (e-STJ fls. 509-518), depreende-se a ausência de (regular, específica e pormenorizada) impugnação à Súmula n. 7/STJ.
+Impugnação deficiente, desidratada e inepta que não atende, por certo, aos ditames normativos de regência da via recursal eleita.
+Ademais, conquanto o postulante assevere a não incidência, no caso em apreço, da Súmula 284 do STF (e-STJ fl. 512) e da Súmula 83 do STJ (e-STJ fl. 513), impende frisar que os epigrafados fundamentos sequer foram ventilados no decisum agravado.
+Tal delineamento denota - à luz do subjacente regramento do devido processo legal - que as razões recursais (alicerçadas nas duas extensões em epígrafe) encontram-se dissociadas dos fundamentos externados na decisão agravada, de m odo a atrair a incidência da Súmula n. 182/STJ.
+Nesse sentido:
+Com base na inteligência da Súmula n. 182/STJ e, notadamente, nos princípios do devido processo legal e da dialeticidade, não se conhece do agravo  ..  quando permeado por razões dissociadas (desconexas) do (s) fundamento (s) consignado (s) na decisão agravada (AgRg no AgRg no AREsp n. 2.889.410/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/8/2025, DJEN de 12/8/2025, grifamos).
+A parte agravante limitou-se a alegações genéricas e dissociadas do conteúdo da decisão recorrida, não enfrentando o fundamento autônomo  .. , o que atrai a incidência do enunciado da Súmula 182/STJ (AgRg no AREsp n. 2.888.945/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/5/2025, DJEN de 28/5/2025, grifamos).
+A argumentação desenvolvida pela agravante encontra-se dissociada dos fundamentos da decisão agravada. Aplicação da Súmula n. 182/STJ (AgRg no REsp n. 1.058.817/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/3/2015, DJe de 12/3/2015, grifamos).
+Sobre o tema, a Corte Especial do Superior Tribunal de Justiça pacificou orientação no sentido de que, a falta de (correspondente e estratificado) ataque aos fundamentos da decisão que inadmitiu o recurso especial  não constituída por capítulos autônomos  obsta - por ausência de "dialeticidade - o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+A propósito:
+ o  provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte Agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifamos).
+No mesmo norte:
+Conforme jurisprudência consolidada do Superior Tribunal de Justiça, quando o agravante deixa de refutar especificamente os fundamentos de inadmissão do recurso especial, como no caso a aplicação da Súmula 7/STJ, incide o óbice previsto na Súmula 182/STJ, que impede o conhecimento do recurso (AgRg no AREsp n. 2.462.539/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 3/6/2025, DJEN de 9/6/2025, grifamos).
+A impugnação genérica de um dos fundamentos da decisão agravada  ..  atrai a incidência da Súmula 182/STJ (AgRg no AREsp n. 2.428.618/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 25/6/2025, grifamos).
+A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula 182/STJ (AgRg no AREsp n. 2.758.707/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/6/2025, DJEN de 23/6/2025, grifamos).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
