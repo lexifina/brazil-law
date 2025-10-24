@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela CLARO S.A contra acórdão prolatado, por unanimidade, pela 7ª Câmara de Direito Privado do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de Agravo de Instrumento, assim ementado (fl. 366e):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONCESSIONÁRIA DE TELEFONIA MÓVEL. AÇÕES DE TELEMARKETING FEITAS EM DESCONFORMIDADE COM REGRAMENTO PROTETIVO AO CONSUMIDOR. PEDIDO DE TUTELA DE URGÊNCIA CONSISTENTE NA ABSTENÇÃO DE TAIS PRÁTICAS QUE FOI INDEFERIDO EM PRIMEIRO GRAU. EQUÍVOCO DO DECISUM, QUE SE REFORMA. COMPROVAÇÃO NOS AUTOS DE VEROSSIMILHANÇA DA ALEGAÇÃO DA AGRAVANTE E DE EXISTÊNCIA DE PERIGO DE DANO IRREPARÁVEL OU DE DIFÍCIL REPARAÇÃO AOS CONSUMIDORES HIPOSSUFICIENTES. PROVIMENTO DO AGRAVO DE INSTRUMENTO. PREJUDICADO O EXAME DO AGRAVO INTERNO.
+Opostos embargos de declaração, foram rejeitados (fls. 419/420e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 485, VI do Código de Processo Civil, alegando-se, em síntese, que "a demanda proposta pelo Recorrido - assim como o pedido liminar por ele formulado - está maculada por patente ausência de interesse de agir, decorrente da ausência de adequação do pedido e, sobretudo, decorrente da ausência de necessidade da ordem judicial buscada pelo PROCON/RJ" - fl. 442e.
+Com contrarrazões (fls. 470/487e), o recurso foi inadmitido (fls. 489/495e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.235e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.247/1.251e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Acerca da suscitada ofensa ao art. 485, VI do Código de Processo Civil, em razão de ausência de interesse de agir, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, não foi examinada, ainda que implicitamente, a alegação concernente à "ausência de adequação do pedido e, sobretudo, decorrente da ausência de necessidade da ordem judicial buscada pelo PROCON/RJ" (fl. 442e) .
+Desse modo, aplicável o enunciado da Súmula n. 211 desta Corte ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO NÃO CONFIGURADO. PROVIMENTO NEGADO.
+1. Pedido de reconsideração recebido como agravo interno.
+2. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do Superior Tribunal de Justiça.
+3. O entendimento desta Corte Superior é o de que o reconhecimento do prequestionamento ficto exige que no recurso especial se tenha alegado a ocorrência de violação do art. 1.022 do Código de Processo Civil, possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+4. Agravo interno a que se nega provimento.
+(RCD no AREsp n. 2.201.202/RJ, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 16.09.2024, DJe de 19.09.2024).
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIÇOS DE ENERGIA ELÉTRICA. MORTE POR ELETROCUSSÃO. AÇÃO INDENIZATÓRIA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 E 211 DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.438.090/BA, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12.08.2024, DJe de 15.08.2024 - destaque meu).
+Cabe ressaltar, ainda, que, caso entendesse persistir vício integrativo no acórdão impugnado, o Re corrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma devidamente fundamentada, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como na espécie.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
