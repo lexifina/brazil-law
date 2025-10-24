@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DE MATO GROSSO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRELIMINAR DE INCAPACIDADE PROCESSUAL DA EMBARGANTE (APELADA). SUCESSÃO EMPRESARIAL COMPROVADA. LEGITIMIDADE ATIVA RECONHECIDA. ICMS DIFERENCIAL DE ALÍQUOTA (DIFAL). INCONSTITUCIONALIDADE DO §6º DO ARTIGO 25 DA LEI 7.098/98. DECISÃO VINCULANTE DO SUPREMO TRIBUNAL FEDERAL (ADI 4623). RECONHECIMENTO DE OFÍCIO. PRINCÍPIO DA NÀO SURPRESA. INOCORRÊNCIA. SENTENÇA MANTIDA. RECURSO NÀO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 10 do CPC, no que concerne à nulidade da sentença em razão da existência de decisão surpresa, tendo em vista que não houve a intimação prévia das partes para manifestação sobre a aplicabilidade da tese firmada na ADI n. 4623, trazendo a seguinte argumentação:
+No caso em questão, o juízo de primeira instância, sem qualquer provocação das partes, julgou procedentes os embargos com base na tese firmada na ADC 4623, declarando, de ofício, a inconstitucionalidade do artigo 25, § 6º, da Lei nº 7.098/98.
+Em nenhum momento das peças processuais - inclusive nos próprios embargos - foi suscitada a inconstitucionalidade em questão, tampouco houve deliberação prévia da parte ora recorrente sobre esse fundamento.
+Ao decidir a apelação, em segundo grau, o v. Acórdão afirma inexistir ofensa a decisão surpresa, na medida em que o reconhecimento de inconstitucionalidade é de observância obrigatória pelos órgãos do Poder Judiciário.
+Ocorre, que o ponto nevrálgico desta irresignação é outro: a supressão do contraditório.
+Importante ressaltar desde já: não se está, de forma alguma, questionando a possibilidade de o magistrado decidir de ofício sobre matérias de ordem pública, inclusive sobre constitucionalidade.
+Contudo, a artigo 10 do CPC/2015 exige que, antes de decidir com base em fundamento que não tenha sido suscitado no processo, o juiz dê às partes a oportunidade de se manifestar. A exigência é objetiva, independe da natureza da matéria e é condição de validade da decisão judicial.
+O contraditório, no atual modelo processual, não se limita à ciência do ato processual, mas se desdobra no direito de influência sobre ele.
+Portanto, ao decidir com base em fundamento novo, sem qualquer intimação prévia das partes, há clara e manifesta violação ao art. 10 do CPC/2015, o que comprometeu a lisura e validade do julgamento.
+ ..
+A inovação do art. 10 do CPC/2015 está em tornar objetivamente obrigatória a intimação das partes para que se manifestem previamente à decisão judicial. A consequência da inobservância do dispositivo é a nulidade da decisão surpresa, ou decisão de terceira via, na medida em que fere a característica fundamental do novo modelo de processualística pautado na colaboração entre as partes e no diálogo com o julgador (fls. 111-113).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Dessa forma, o magistrado pode e deve reconhecer de ofício a inconstitucionalidade de norma já declarada inconstitucional em sede de controle concentrado pelo Supremo Tribunal Federal, conforme entendimento consolidado na jurisprudência pátria. O artigo 927, inciso I, do Código de Processo Civil estabelece a obrigatoriedade de aplicação de decisões do STF em controle de constitucionalidade pelos juízes e tribunais, independentemente de provocação das partes.
+Portanto, não há violação ao princípio da não surpresa quando a decisão de primeiro grau aplica entendimento vinculante do STF que já havia invalidado a norma em questão, tornando inviável a manutenção da cobrança do tributo (fl. 95, grifo meu).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
