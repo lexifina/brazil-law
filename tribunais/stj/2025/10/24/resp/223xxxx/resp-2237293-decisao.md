@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE JOINVILLE, com
+base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 78):
+EXECUÇÃO FISCAL. FALECIMENTO DO EXECUTADO ANTES DA CITAÇÃO. IMPOSSIBILIDADE DE REDIRECIONAMENTO AO ESPÓLIO. ENUNCIADO N. 392 DA SÚMULA DO STJ. INAPLICABILIDADE DA TESE FIXADA NO IRDR 9 DO TJPR. IMPOSSIBILIDADE DE SOBRESTAMENTO DO FEITO. RESP N. 2.216.820/SC QUE AINDA NÃO FOI ADMITIDO COMO REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO INTERNO DESPROVIDO POR NÃO TRAZER ELEMENTOS PARA DESCONSTITUIR A DECISÃO UNIPESSOAL.
+Nas razões do recurso, o recorrente alega violação ao art. 131, III, do CTN.
+Defende a possibilidade de redirecionamento da execução fiscal para o espólio do contribuinte falecido, uma vez que ocorrido o lançamento antes do óbito.
+Sendo assim, requer o provimento do presente recurso especial.
+Decisão de admissibilidade às fls. 96-99 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida no recurso especial, o Tribunal de origem assim se manifestou (e-STJ, fls. 74-77):
+Colho da decisão agravada:
+ ..
+O ente público ajuizou execução fiscal em 2024 e a executada faleceu no mesmo ano, antes da efetivação da citação.
+ ..
+É irrelevante que o óbito tenha ocorrido após o fato gerador do tributo.
+Embora exista um IRDR no Estado do Paraná (Tema n. 9) que ampare a pretensão do Município, referido precedente não vincula a atuação deste Tribunal, já que tem força vinculante horizontal e vertical apenas naquele Estado. Aliás, contraria totalmente a jurisprudência do Superior Tribunal de Justiça.
+Colho de trecho esclarecedor de julgado monocrático do Ministro Humberto Martins, publicada no Diário da Justiça eletrônico de 31-5-2023:
+"O acórdão recorrido está em consonância com entendimento do STJ no sentido de que o redirecionamento da Execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da Execução Fiscal, o que não é o caso dos autos, já que o devedor faleceu antes do ajuizamento da demanda." (STJ, AREsp n. 2.132.005, Ministro Humberto Martins, D Je de 31-5-2023)
+No mesmo sentido, o Ministro Gurgel de Faria, em decisão proferida no R Esp n. 1.644.834/RS, interposto pelo espólio contra acórdão do Tribunal de Justiça do Rio Grande do Sul, que admitiu "o redirecionamento da execução contra a sucessão, no que concerne aos créditos constituídos antes do óbito do devedor, sem necessidade de nova CDA. Inteligência do artigo 131, II,do CTN", cassou o referido acórdão, nos seguintes termos:
+ ..
+Ao pleitear o prosseguimento da execução, o agravante busca a substituição do sujeito passivo, o que é vedado pelo enunciado n. 392 da Súmula do STJ, corretamente aplicado ao caso.
+O parâmetro fixado pelo STJ e por esta Corte para viabilizar (ou não) o prosseguimento do feito executivo na hipótese de óbito do devedor é a citação da parte executada, e não a constituição do crédito.
+ ..
+Além disso, "não é aplicável ao caso o Tema 9/IRDR/TJPR, segundo a qual "é permitida a alteração do polo passivo de execução fiscal, pela morte do sujeito tributário passivo ocorrida após o lançamento e antes da propositura daquela, mediante redirecionamento contra o respectivo espólio", cuja força vinculante atinge apenas os Órgãos Julgadores do Estado do Paraná, por contrariar a jurisprudência pacífica atual do Superior Tribunal de Justiça" (AC n. 0004281-29.2009.8.24.0005, rel. Des. Jaime Ramos, Terceira Câmara de Direito Público, j. 3-10-2023).
+Conforme já superado pela decisão agravada, embora exista um IRDR no Estado do Paraná que ampare a pretensão do Município, referido precedente não vincula a atuação deste Tribunal, já que tem força vinculante horizontal e vertical apenas naquele Estado. Aliás, contraria totalmente a jurisprudência do Superior Tribunal de Justiça.
+Da citada passagem, depreende-se que o Tribunal estadual entendeu que o
+redirecionamento da execução fiscal para o espólio do contribuinte falecido só é possível quando o óbito ocorrer após a efetiva citação, situação não concretizada no caso dos autos.
+Das razões expendidas, verifica-se que o acórdão recorrido adotou solução em consonância com o entendimento consolidado nesta Corte Superior, segundo o qual somente é possível o redirecionamento da execução fiscal contra o espólio do devedor quando seu falecimento ocorrer após a citação válida.
+Nessa linha, confiram-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. EMBARGOS DE TERCEIRO. ARREMATAÇÃO DE IMÓVEL SEM INTIMAÇÃO DOS COPROPRIETÁRIOS. NULIDADE CONFIGURADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 674, § 2º, I, II E IV, DO CPC E 1.667 E 1.829 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - Somente se admite o redirecionamento do executivo fiscal contra o espólio quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado nos autos da execução fiscal. Precedentes.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a nulidade da penhora, em razão da ausência de intimação dos coproprietários sobre a realização do leilão. Rever tal entendimento demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+IV - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - É incabível a majoração dos honorários advocatícios, a título de honorários recursais, previstos no art. 85, § 11, do CPC/2015, no âmbito de agravo interno, porquanto não ocorre a inauguração de instância recursal. Precedentes.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 2.163.682/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. FALECIMENTO DO DEVEDOR APÓS A SUA CITAÇÃO NO CURSO DA EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA O ESPÓLIO. CABIMENTO. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. FUNDAMENTO DO ACÓRDÃO DE ORIGEM NÃO IMPUGNADO. INCIDÊNCIA DAS SÚMULAS 7/STJ E 283 DO STF. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. PROVIMENTO NEGADO.
+1. O acórdão recorrido encontra apoio na orientação consolidada nesta Corte Superior de que o redirecionamento da execução fiscal contra o espólio ou sucessores é cabível quando o falecimento do devedor originário ocorrer após a sua citação válida.
+2. O acolhimento da alegação de que não houve citação do devedor antes de seu falecimento implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Quanto à validade da CDA, o Tribunal de origem seguiu o entendimento consolidado na Súmula 393/STJ de que a exceção de pré-executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que o magistrado pode conhecer das questões de ofício. A
+peça recursal, todavia, não se insurge contra esse fundamento, limitando-se a afirmar que a presunção de certeza e liquidez da CDA não podia ser tomada de forma absoluta. Inafastável, assim, a incidência, por analogia, da Súmula 283/STF, que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.601.771/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. FALECIMENTO DO CONTRIBUINTE ANTERIOR À CITAÇÃO. REDIRECIONAMENTO AO ESPÓLIO. IMPOSSIBILIDADE. SÚMULA 83/STJ.
+1. Como realçado anteriormente, o Tribunal estadual assim decidiu (fls. 253-257, e-STJ, grifei): "(..) A despeito da extensa argumentação do agravante quanto à possibilidade de estabelecimento de analogia entre esses precedentes e a situação dos autos, assim como no que tange às peculiaridades do IPTU, há, aqui, a circunstância do óbito da parte executada antes da citação, o que, como já registrado na decisão recorrida, determina solução jurídica própria, de acordo com firme orientação tanto do STJ quanto deste Sodalício. (..)".
+2. Com efeito, "somente é possível o redirecionamento da execução fiscal em face do espólio quando o falecimento do contribuinte ocorrer após ele ter sido devidamente citado nos autos da execução, o que não ocorreu no caso dos autos" (REsp 1.832.608/PR, rel. Ministro Og Fernandes, Segunda Turma, DJe 24.9.2019). Precedentes do STJ.
+3. Dissídio pretoriano prejudicado.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.999.140/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 30/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. FALECIMENTO DO DEVEDOR ANTES DA CITAÇÃO VÁLIDA. REDIRECIONAMENTO EM FACE DO ESPÓLIO. IMPOSSIBILIDADE.
+1. O redirecionamento da execução fiscal ao espólio somente é possível quando o óbito do contribuinte ocorrer depois de sua citação, o que não ocorreu na espécie, em que o devedor faleceu antes mesmo do ajuizamento da demanda. Precedentes: AgInt no REsp n. 1.955.336/PB, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 25/3/2022; AgInt no REsp n. 1.945.451/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022; REsp n. 1.862.606/ SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2021, DJe de 5/11/2021; REsp n. 1.804.997/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/5/2019; AgRg no AREsp n. 731.447/MG, relator Ministro Mauro Campbell
+Marques, Segunda Turma, julgado em 20/8/2015, DJe de 31/8/2015.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.998.759/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgad o em 23/8/2022, DJe de 31/8/2022.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. REDIRECIONAMENTO CONTRA O ESPÓLIO. IMPOSSIBILIDADE. FALECIMENTO DO CONTRIBUINTE ANTES DA CITAÇÃO. RECURSO ESPECIAL DESPROVIDO.
