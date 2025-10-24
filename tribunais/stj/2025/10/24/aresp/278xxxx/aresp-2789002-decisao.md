@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por PEDRO CARDOSO FILHO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS cuja ementa guarda os seguintes termos (fls. 1.328-1.329):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA DA RELATORA. APELO NÃO CONHECIDO. INTEMPESTIVIDADE EVIDENTE. RECURSO INTERNO CONHECIDO E IMPROVIDO. 1 - Segundo verificado, o cerne da questão é o não conhecimento de recurso de apelação em razão da intempestividade. 2 - In casu, não se vislumbra respaldo para a reconsideração do decisum terminativo, pois que evidenciada a intempestividade da interposição. 3 - É cediço que uma vez constituído advogado particular pela parte, esta renuncia ao prazo recursal em dobro que está em fluição em favor da Defensoria Pública. 4 - Desse modo, inexiste respaldo para o conhecimento do apelo em questão, pois que o prazo em dobro é prerrogativa somente da Defensoria e não do advogado posteriormente constituído e não houve nos autos qualquer causa interruptiva da fluência do prazo recursal. 5 - Recurso interno conhecido e improvido.
+Sem embargos de declaração.
+Aduz, no mérito, que o acórdão contrariou a disposição contida no artigo 10 do Código de Processo Civil.
+Sustenta, em síntese, que a decisão do Tribunal de origem violou o Princípio da vedação à decisão surpresa, na medida em que não oportunizou à recorrente manifestação acerca da tempestividade da apelação.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.363-1.377).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.385-1.388), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.407-1.415).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, nota-se que o acórdão recorrido não se manifestou acerca do art. 10 do CPC, indicado como violado. Embora tenha a recorrente mencionado o artigo e o Princípio da vedação à decisão surpresa em seu agravo interno, nota-se que o acórdão recorrido não abordou a temática, não tendo o agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Extrai-se da fundamentação da origem :
+Segundo verificado, o cerne da questão é o não conhecimento de recurso de apelação em razão da intempestividade. In casu, não se vislumbra respaldo para a reconsideração do decisum terminativo, pois que evidenciada a intempestividade da interposição. É cediço que uma vez constituído advogado particular pela parte, esta renuncia ao prazo recursal em dobro que está em fluição em favor da Defensoria Pública. Desse modo, inexiste respaldo para o conhecimento do apelo em questão, pois que o prazo em dobro é prerrogativa somente da Defensoria e não do advogado posteriormente constituído e não houve nos autos qualquer causa interruptiva da fluência do prazo recursal. Ex positis, voto no sentido de conhecer e NEGAR PROVIMENTO ao recurso interno, mantendo incólume a decisão fustigada. (fls. 1.322-1.323)
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 356/STF.
+Outrossim, o apelo nobre não comporta conhecimento em relação à interposição pela alínea "c", visto que deixou a recorrente i) não promoveu o devido cotejamento analítico, limitando-se a promover a citação de ementas de julgados que entendem acolher sua tese recursal; e ii) deixou de apresentar certidão, cópia autenticada ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tenha sido publicado o acórdão divergente, ou ainda a reprodução de julgado disponível na internet, com indicação da respectiva fonte (art. 255, § 1º, do RISTJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em sentença (fl. 1.182) em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
