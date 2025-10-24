@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROGYER DA SILVA MACEDO contra a decisão do Tribunal de origem que inadmitiu o recurso especial por entender que a pretensão demandaria reexame de provas, providência vedada pela Súmula n. 7 do STJ, bem como pelo óbice da Súmula n. 83 do STJ.
+Nas razões do agravo, a defesa argumenta a inaplicabilidade da Súmula n. 7 do STJ, uma vez que a controvérsia não depende de revolvimento fático-probatório.
+Aduz que o acórdão recorrido não está em consonância a jurisprudência do Superior Tribunal de Justiça, razão pela qual seria inaplicável a Súmula n. 83 do STJ.
+A parte agravante aborda, ainda, aspectos relacionados ao mérito da causa e reitera questões deduzidas no recurso especial.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Parecer do Ministério Público Federal opinando pelo desprovimento do agravo em recurso especial, nos termos da seguinte ementa (fl. 157):
+PENAL. PROCESSO PENAL. ORGANIZAÇÃO CRIMINOSA DEDICADA A NARCOTRÁFICO E LAVAGEM DE DINHEIRO. INDEFERIMENTO DE PEDIDO DE RESTITUIÇÃO DE QUANTIA MONETÁRIA APREENDIDA NO ÂMBITO DA OPERAÇÃO "DIRT(Y) MONEY". RECURSO A ESTA SUPERIOR INSTÂNCIA SOB ALEGAÇÃO DE TRATAR-SE DE VALOR DE ORIGEM LÍCITA PERTENCENTE A TERCEIRO DE BOA-FÉ. INVIABILIDADE DE REEXAME DE PROVAS NA VIA OPTATA E POR CORTE SUPERIOR INCOMPETENTE. SÚMULA 7/STJ. PARECER POR DESPROVIMENTO DO AGRAVO LEGAL E(M) RECURSO ESPECIAL EM RESPEITO À JURISDIÇÃO E SEUS LIMITES E À JUSTIÇA.
+É o relatório.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida.
+No recurso especial, busca-se obter a modificação da decisão do Tribunal de origem, para restituição de quantia apreendida ao agravante.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria do reexame fático-probatório.
+Observa-se que, ao indeferir a restituição do bem apreendido, o Tribunal de Justiça assim fundamentou (fl. 81):
+Inicialmente, esclareço que não é possível a restituição de coisa apreendida enquanto interessar ao processo, antes do trânsito em julgado; além disso, a restituição está condicionada à ausência de dúvida acerca do seu legítimo proprietário, à licitude de sua origem e à demonstração de que não foi usado como instrumento do crime, segundo regramento dos artigos 118, 120, 121 e 124 do Código de Processo Penal e 91, inc. II, do Código Penal.
+No presente caso, pairam dúvidas sobre o legítimo proprietário do valor apreendido, bem como sobre a licitude de sua origem. Compulsando os autos do Pedido de Prisão Preventiva n.º 5130060-74.2024.8.21.0001, denota-se que o objeto ora postulado foi apreendido na residência de BRENDA FARIAS, dentro da gaveta de um roupeiro, na Rua Uruguai, n.º 338, bloco 4, apartamento 316, bairro Canudos, na cidade de Novo Hamburgo/RS, durante o cumprimento do Mandado de Busca e Apreensão.
+O auto circunstanciado de busca, lavrado em 09 de agosto de 2024, documentou o objeto confiscado na residência, qual seja, a quantia de R$ 11.000,00 (onze mil reais).
+De acordo com os elementos informativos até então aportados aos autos, não se queda clara a origem da quantia monetária apreendida na residência de BRENDA FARIAS. No entanto, o local onde ela foi encontrada - gaveta de um guarda-roupa situado na residência da investigada - indica, fortemente, que o dinheiro poderia pertencer a ela, e não a ROGYER.
+E, em se tratando de ação que apura a prática do delito de lavagem de capitais, mostra-se necessária a retenção do valor apreendido, até que todas as circunstâncias dos fatos delituosos sejam apuradas.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal, como exemplificam os seguintes precedentes: AgRg no REsp n. 2.150.805/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2025, DJEN de 4/7/2025; AgRg no AREsp n. 2.828.086/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/6/2025, DJEN de 25/6/2025; AgRg no AREsp n. 2.835.035/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2025, DJEN de 26/6/2025; AgRg no AREsp n. 2.719.789/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2025, DJEN de 20/5/2025; AgRg no AREsp n. 2.530.799/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/5/2024, DJe de 23/5/2024; AgRg no AREsp n. 2.406.002/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023.
+Ademais, a conclusão do Tribunal de origem está em consonância ao entendimento desta Corte.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E LAVAGEM DE DINHEIRO. PEDIDO DE RESTITUIÇÃO DE VALORES. ALEGAÇÕES DE ORIGEM LÍCITA E PROPRIEDADE DO NUMERÁRIO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 7 E 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial, mantendo a apreensão de valores em espécie, no qual se alegava que a recorrente não é investigada ou denunciada, e que os valores apreendidos são de sua propriedade e de origem lícita.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o agravo regimental atende aos pressupostos de admissibilidade para, assim, ser conhecido e, se o caso, provido. Outra questão é analisar se a pretensão da agravante de restituição do dinheiro em espécie apreendido pode ser conhecida por este Superior Tribunal de Justiça.
+III. RAZÕES DE DECIDIR
+3. A restituição de bens apreendidos está condicionada à demonstração cabal da propriedade do bem, à ausência de interesse no curso do inquérito ou da instrução judicial, e à comprovação de que o bem não está sujeito à pena de perdimento, isto é, tem origem lícita. Incidência da Súmula n. 83 do STJ.
+4. As instâncias ordinárias entenderam que inexistiu a demonstração da propriedade dos valores pela recorrente e de que o numerário é de origem lícita, pois apreendido em local vinculado a réu denunciado por tráfico de drogas e lavagem de dinheiro, de modo que eventual futuro confisco demanda dilação probatória.
+5. A revisão da conclusão das instâncias ordinárias demandaria a reanálise de fatos e de provas, o que é vedado nesta instância recursal, conforme Súmula n. 7 do STJ.
+6. A decisão agravada foi mantida, pois a agravante deixou de apresentar impugnação específica e concreta aos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o entendimento da Súmula n. 182 do STJ.
+IV. AGRAVO REGIMENTAL NÃO CONHECIDO.
+(AgRg no AREsp n. 2.803.592/SP, relator Ministro Carlos Cini Marchionatti - Desembargador convocado TJRS -, Quinta Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+Prevalecem, portanto, os óbices previstos nas Súmulas n. 7 e 83 do STJ, uma vez que inviável o revolvimento de fatos e provas e porque o julgado recorrido foi proferido de acordo com a jurisprudência do Superior Tribunal de Justiça.
+Por fim, registre-se que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
