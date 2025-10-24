@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de WESLLEY DA SILVA FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 18 dias de reclusão em regime inicial fechado e de pagamento de 24 dias-multa, como incurso nas sanções do art. 157, § 2º, I, II e V, por três vezes, na forma do art. 70, todos do Código Penal.
+A impetrante sustenta que a decisão que manteve a aplicação das penas é desproporcional e não justifica o regime inicial mais gravoso, contrariando a legislação e a jurisprudência dos Tribunais Superiores.
+Alega que o aumento na terceira fase da dosimetria deve observar o patamar mínimo legal de 1/3, conforme jurisprudência do Superior Tribunal de Justiça, e que a mera presença de mais de uma causa de aumento não justifica a exasperação acima do mínimo.
+Aduz que o regime inicial de cumprimento de pena deve seguir os critérios dos arts. 33 e 59 do Código Penal e que a gravidade abstrata do delito não constitui fundamentação idônea para regime mais severo, conforme as Súmulas n. 718 e 719 do STF.
+Afirma que o paciente era primário, sem antecedentes à época do delito, tendo a pena-base sido fixada no mínimo legal, uma vez que todas as circunstâncias judicias do art. 59 do Código Penal foram consideradas favoráveis. Sustenta, assim ser cabível a fixação do regime semiaberto.
+Requer, liminarmente e no mérito, o redimensionamento da reprimenda do paciente e a mitigação do modo prisional.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem ou, no mérito, pela sua denegação.
+É o relatório.
+Inicialmente, insta consignar que o Superior Tribunal de Justiça firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observem-se a respeito: AgRg no HC n. 943.146/MG, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 22/10/2024; AgRg no HC n. 874.713/SP, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 20/8/2024; AgRg no HC n. 749.702/SP, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 27/6/2024.
+Ademais, a propósito do disposto no art. 647-A do Código de Processo Penal, verifica-se que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme será exposto a seguir.
+A respeito da dosimetria da pena, consta do acórdão impugnado (fls. 146-147):
+Assim, a pena-base deve ser fixada no mínimo de 04 anos de reclusão, mais 10 dias-multa, no piso.
+Na segunda etapa, ausentes agravantes e atenuantes. Na terceira fase, foi aplicado o aumento único de 2/3 referente ao emprego de arma. Neste tópico, o Exmo. Ministro Og Fernandes determinou que o aumento fosse aplicado nos termos do art. 157, § 2º, do CP, conforme as peculiaridades do caso concreto, uma vez que à época dos fatos ainda não estava em vigor a Lei nº 13.654/2018 e sua aplicação é prejudicial ao réu.
+No caso, considerando que os crimes foram praticados mediante emprego de arma de fogo, concurso de agentes e restrição de liberdade das vítimas, de rigor o acréscimo na razão de 5/12.
+Com efeito, os crimes foram praticados por ao menos 03 agentes, sendo que 02 deles entraram na residência da ofendida, com arma de fogo. Ainda, privaram a vítima da liberdade por aproximadamente 02h, deixando-a amarrada, causando-lhe profundo temor. Assim, não se trata de um aumento aritmético considerando apenas o número de majorantes, mas sim as circunstâncias do caso, o que se mostra adequado em respeito à Súmula 443 do STJ. Com isto, a pena resulta em 05 anos e 08 meses de reclusão e 14 dias-multa.
+Por fim, mantido o aumento de 1/5 pelo concurso formal (03 vítimas, a ofendida e seus genitores), a pena privativa de liberdade totaliza em 06 anos, 09 meses e 18 dias de reclusão. As penas de multa deveriam ter sido somadas, a rigor do art. 72 do CP, mas, em razão da proibição da reformatio in pejus, mantém-se a multa no patamar estabelecido em 1º Grau, ou seja, 24 dias- multa.
+Fica mantido o regime inicial fechado, pelos fundamentos do v. Acórdão, inclusive porque o regime prisional não foi objeto de determinação do C. STJ para reavaliação.
+O entendimento desta Corte Superior é o de que "o aumento na terceira fase de aplicação da pena do crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+Assim, não há ilegalidade no acórdão impugnado, o qual fundamentou devidamente o acúmulo das majorantes, ressaltando que "os crimes foram praticados por ao menos 03 agentes, sendo que 02 deles entraram na residência da ofendida, com arma de fogo. Ainda, privaram a vítima da liberdade por aproximadamente 02h, deixando-a amarrada, causando-lhe profundo temor" (fl. 147).
+Nesse sentido (grifei):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. MAJORANTES. AUMENTOS SUCESSIVOS. MOTIVAÇÃO CONCRETA E IDÔNEA. SÚMULA N. 443 DO STJ. CONCURSO FORMAL. CONFIGURAÇÃO. ÚNICO EVENTO. VIOLAÇÃO DE PATRIMÔNIOS DE DIFERENTES VÍTIMAS. DUAS INFRAÇÕES. AUMENTO DE 1/6. ADEQUAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgador, diante do concurso de majorantes, deve apresentar fundamentação concreta e idônea, conforme o art. 93, IX, da Constituição Federal e da Súmula n. 443 do STJ, ao não optar por aplicar o único aumento - causa mais gravosa - previsto na regra do art. 68, parágrafo único, do CP, opção mais benéfica ao réu.
+2. No caso, houve o incremento de 1/2, em virtude do concurso de agentes e da restrição de liberdade da vítima, e, sucessivamente, de 2/3, em razão do uso de arma de fogo. Para tanto, houve fundamentos concretos e válidos, a saber: a) concurso de cinco agentes, b) uso de vários veículos automotores, inclusive de grande porte, com aparato tecnológico para bloqueio de sinal do rastreador do caminhão roubado, c) uso de arma de fogo, d) ofendido teve suas mãos e pés amarrados, foi transportado para vários locais e, em dado momento, ao ser puxado, caiu e machucou nariz e lábio e e) o agredido teve sua liberdade restringida por várias horas, das 6h às 15h. Portanto, correto o procedimento adotado na origem.
+3. O roubo perpetrado com violação de patrimônios de diferentes vítimas, ainda que num único evento, configura a literalidade do concurso formal de crimes, e não apenas de crime único, como na espécie. Precedentes.
+4. Segundo a jurisprudência desta Corte, o concurso formal de duas infrações enseja o aumento de 1/6 sobre a reprimenda. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.786.372/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2025, DJEN de 19/5/2025.)
+PROCESSUAL PENAL . AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. APLICAÇÃO CUMULATIVA DE CAUSAS DE AUMENTO DE PENA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus, mantendo a condenação do agravante por roubo majorado, com aplicação cumulativa das causas de aumento de pena previstas no art. 157, §§ 2º, II e V, e 2º-A, I, do Código Penal.
+2. De acordo com a Súmula n. 443 do STJ, o aumento da pena exige fundamentação concreta além da mera indicação do número de majorantes.
+3. Inexiste ilegalidade quando, ao recrudescer a pena na terceira fase, o magistrado utiliza fundamentação concreta, desenvolvida com base na análise do fato delituoso, expressando que "o réu agiu em concurso com outros elementos, interceptando a trajetória do caminhão dirigido pela vítima, além disso, também restringiu a liberdade da vítima  por aproximadamente 25 minutos , o que agrava ainda mais a reprovabilidade da conduta, sem esquecer do emprego de arma de fogo".
+4. Agravo regimental improvido.
+(AgRg no HC n. 918.855/SP, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Por fim, o regime inicial fechado foi fixado em consonância com a jurisprudência desta Corte Superior, com base em elementos concretos.
+Conforme destacado pelo Ministério Público Federal em sua manifestação, "os múltiplos agentes, a privação da liberdade da vítima por tempo considerável e o uso de arma de fogo, somados à audácia e ousadia da ação, demonstram a maior periculosidade do paciente e a necessidade de um regime inicial mais severo para a reprovação e prevenção do crime" (fl. 164).
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. DOSIMETRIA. INCIDÊNCIA DA ATENUANTE DA MENORIDADE RELATIVA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 231/STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO AGRAVADA MANTIDA. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, alegando constrangimento ilegal pela não aplicação do regime semiaberto para o início do cumprimento da pena, bem como pela falta da aplicação da atenuante da menoridade relativa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a incidência da atenuante da menoridade relativa pode ser aplicada para reduzir a pena aquém do mínimo legal ou ser compensada com a majorante do concurso de agentes.
+3. A questão também envolve a análise da adequação do regime inicial fechado para o cumprimento da pena, considerando a gravidade concreta do delito e a participação do agravante.
+III. RAZÕES DE DECIDIR
+4. A decisão agravada acertadamente considerou que a incidência da atenuante da menoridade relativa vai de encontro à Súmula 231/STJ, carecendo de plausibilidade jurídica a sua aplicação na terceira etapa, para compensar com a majorante do concurso de agentes.
+5. O regime inicial fechado foi mantido com base na gravidade concreta do delito, praticado em concurso de agentes, dentre eles um adolescente, mediante o emprego de violência real contra a vítima, justificando a maior reprovabilidade da conduta. IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. Carece de plausibilidade jurídica a aplicação da atenuante da menoridade relativa na terceira etapa da dosimetria para compensar com a majorante do concurso de agentes. 2. A gravidade concreta do delito pode justificar a fixação de regime inicial mais rigoroso, mesmo para réu primário." Dispositivos relevantes citados: CP, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada: STJ, AgRg no HC 807.526/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/5/2023;STJ, AgRg no AREsp 1.792.589/RJ, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe de 15/12/2021.
+(AgRg no HC n. 978.694/SP, relator Ministro Carlos Cini Marchionatti - Desembargador convocado TJRS -, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus .
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
