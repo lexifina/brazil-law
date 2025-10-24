@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Na hipótese, o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula n. 182 do STJ. Neste regimental, a defesa deveria haver impugnado o referido verbete sumular. Todavia limitou-se a refutar o óbices de conhecimento do recurso especial e a repisar os fundamentos nele apresentados.
+2. A impugnação dos motivos de inadmissão do REsp indicados pela Corte estadual deve ser feita no agravo em recurso especial. Rebater tardiamente os óbices no agravo regimental não sana a deficiência do agravo não conhecido.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GERSON SILVA SIQUEIRA interpõe agravo regimental contra a decisão de fls. 3.674-3.676, em que não conheci do agravo em recurso especial por ele interposto, em virtude da Súmula n. 182 do STJ.
+A defesa refuta, em síntese, os óbices de admissibilidade do especial, a saber, a incidência das Súmulas n. 7 e 83 do STJ. Pleiteia, ao final, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Na hipótese, o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula n. 182 do STJ. Neste regimental, a defesa deveria haver impugnado o referido verbete sumular. Todavia limitou-se a refutar o óbices de conhecimento do recurso especial e a repisar os fundamentos nele apresentados.
+2. A impugnação dos motivos de inadmissão do REsp indicados pela Corte estadual deve ser feita no agravo em recurso especial. Rebater tardiamente os óbices no agravo regimental não sana a deficiência do agravo não conhecido.
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental não comporta conhecimento, uma vez que não infirmou as motivações lançadas na decisão agravada.
+Nas razões do especial, a defesa pleiteou "Por todo o exposto, demonstrado que a decisão contrariou os artigos 400 do Código de Processo Penal e 1º da Lei 9296/96 requer-se que o recurso seja admitido e provido para anular processo ab inito, em virtude de que toda a prova produzida foi deferida por juiz sem competência legal, alternativamente que seja anulado a partir do interrogatório, determinando um novo interrogatório aos réus. " (fl. 3.527).
+A Corte de origem não admitiu o recurso em decorrência da Súmula n. 83 do STJ.
+O agravo interposto não foi conhecido, haja vista a ausência de impugnação específica do óbices mencionado pelo Tribunal estadual, o que atraiu o teor da Súmula n. 182 do STJ ao caso. Veja-se (fl. 3.677-3.679, grifos no original):
+ ..
+Embora haja rebatido o óbice da Súmula n. 83 do STJ em relação à tese de nulidade por inversão da ordem de oitiva de testemunhas ou vítima e interrogatório, não rebateu adequadamente o óbice da mesma Súmula no que diz respeito à violação do art. 5º da Lei n. 9.296/1996, pois limitou-se a alegar (fl. 3.614):
+Ocorre que o Agravante demonstrou a incompetência ab initio do magistrado da Justiça Comum, tendo em vista que desde o início sabia que se tratava do crime de concussão praticados por militares em serviço e em razão da função. Salienta-se que, neste caso concreto, não se aplica a decisão do STJ, tendo em vista que no caso aqui discutido, o magistrado já era incompetente quando deferiu as primeiras medidas cautelares.
+Segundo a Corte Especial do STJ, a decisão que inadmite o REsp não é formada por capítulos autônomos, de modo que a falta de impugnação de qualquer óbice já faz incidir a Súmula n. 182, mesmo que seja um óbice irrelevante e até incorretamente levantado pelo tribunal.
+Portanto, verifica-se que o agravante não rebateu, com particularidade, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da Súmula n. 182 do STJ . Neste regimental, a defesa deveria haver impugnado o referido verbete sumular, ao demonstrar que rebateu, na petição de agravo em recurso especial, a Súmula n. 83 do STJ - motivo indicado pelo Tribunal de origem para não admitir o REsp.
+Todavia a parte limitou-se reiterar o quanto alegado no agravo em recurso especial.
+Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor, integral, específica e detalhadamente, as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Ressalto, por oportuno, que a impugnação dos motivos de inadmissão do REsp indicados pela Corte estadual deve ser feita no agravo em recurso especial. Rebater os óbices no agravo regimental não sana a deficiência do AREsp não conhecido, em razão da preclusão consumativa. No regimental, cabe à parte, tão somente, demonstrar que a Súmula n. 182 do STJ foi aplicada de forma incorreta no AREsp; é dizer, que refutou, no momento processual adequado, as razões pelas quais o seu recurso especial não foi admitido.
+Nessa perspectiva: "A impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusão consumativa, razão pela qual não é cabível a impugnação efetiva, específica e fundamentada somente nas razões de agravo interno" (AgInt nos EDcl no AREsp n. 2.156.382/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022) e "a refutação tardia (somente por ocasião do manejo de Agravo Interno) dos fundamentos da decisão que inadmitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa" (AgInt no AREsp n. 1.995.070/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2022, DJe de 23/6/2022.)
+À vista do exposto, não conheço do agravo regimental.
