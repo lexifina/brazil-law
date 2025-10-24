@@ -1,0 +1,47 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento em exceção de pré-executividade na execução fiscal, interposto pelo ora Agravante contra decisão que acolheu parcialmente a exceção de pré-executividade. No Tribunal a quo, a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. LANÇAMENTO DE TRIBUTO. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO ADMINISTRATIVO FISCAL. ADOÇÃO DO SISTEMA DE NOTIFICAÇÃO ELETRÔNICA DA SE FAZ. COMUNICAÇÃO POR MEIO DO DOMICÍLIO ELETRÔNICO HABILITADO - DEH. DECRETO ESTADUAL  29.720/2014 QUE FIXOU PRAZO PARA O CONTRIBUINTE ADERIR AO CREDENCIAMENTO E, NÃO O FAZENDO, O DOMICÍLIO ELETRÔNICO SERIA FEITO DE OFÍCIO PELA SEFAZ. OBRIGAÇÃO ACESSÓRIA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+A Lei Estadual nº 7.650/2013 instituiu a comunicação eletrônica entre a SEFAZ e o sujeito passivo de tributos por meio do Domicílio Eletrônico Habilitado - DEH, consoante se infere dos seus arts. 1º, 3º e 4º:
+ ..
+Já o Decreto Estadual nº 29.720/2014 por sua vez regulamentou a lei e fixou prazo para o contribuinte aderir ao credenciamento. Ato contínuo, determinou que não o fazendo, o domicílio eletrônico seria feito de ofício pela SEFAZ.
+ ..
+O que se vê, portanto é que o referido Decreto estabelece a obrigatoriedade do credenciamento de todos os contribuintes, sob pena de ter a sua caixa postal habilitada de ofício pela SEFAZ, nos termos do art. 4º, não havendo qualquer determinação de ciência ao contribuinte por outro meio de comunicação.
+ ..
+Quanto ao pedido subsidiário de equívoco no cálculo da multa, afirmou a parte agravante que a CDA que embasa a Execução Fiscal utiliza como metodologia de cálculo o art. 72, inciso VII-A, alínea "c", item 1, que estabelece que, nas infrações à legislação do ICMS, sujeitam o infrator à multa quando deixar de informar documentos fiscais relativos às operações de circulação de mercadorias no bloco "C", e das prestações de serviços de transporte interestadual e intermunicipal e de comunicação no bloco "D", na forma e no prazo estabelecidos na legislação estadual, acarretando multa de 5 (cinco) UFP /SE, por documento, limitada ao máximo de 150 (cento e cinquenta) UFP/SE, por arquivo; e se em decorrência da omissão de que trata esta alínea houver falta do recolhimento do imposto, caberá também outro lançamento com a respectiva cobrança e a multa de 50% (cinquenta por cento) do valor do imposto não recolhido. E assim, afirma ser evidente que a multa fiscal é equivalente a 50% (cinquenta por cento) do valor do imposto não recolhido, porém a Fazenda Pública apresentou atualização do crédito executado para patamares acima de índice oficial permitido.
+ ..
+Nesse contexto, examinando o Auto de Infração e seu o demonstrativo, bem como os termos da Notificação da Infração (fls. 148/152), não vislumbro qualquer irregularidade.
+ ..
+E acrescentou o Tribunal de origem, na ocasião dos embargos de declaração:
+ ..
+Isso porque, conforme indicado no voto a alegação de que os indicies de atualização do débito foram utilizados em patamares que ultrapassam qualquer índice oficial permitido, tais como IPCA-E e SELIC, trata-se de matéria que demanda dilação probatória, isso porque o que se pretende discutir é se de fato há uma irregularidade nos índices aplicados na CDA e se tais valores são excessivos
+ ..
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Expressamente o Tribunal afirma não haver irregularidades nos cálculos da CDA e, na ocasião dos embargos de declaração acrescentou que " .. a alegação de que os indicies de atualização do débito foram utilizados em patamares que ultrapassam qualquer índice oficial permitido, tais como IPCA-E e SELIC, trata-se de matéria que demanda dilação probatória .. .
+Relativamente às demais alegações de violação (art. 783 do CPC/2015 e art. 2º, § 8º, da Lei de Execução Fiscal - 6.830/1.980) esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+No tocante as alegações de ofensa ao art. 99 do CTN, O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual nº 7.650/2013 e o Decreto Estadual nº 29.720/201, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
