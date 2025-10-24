@@ -1,0 +1,35 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Leonardo Machado contra acórdão da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao AgRg no HC 1.017.983/DF (doc. 5).
+
+    Consta de documento encartado a estes autos que o paciente foi “[...] condenado pela prática dos crimes de associação criminosa, extorsão e lavagem de dinheiro, à pena de 11 (onze) anos de reclusão, em regime inicial fechado” (doc. 4, p. 140).
+
+    Neste writ, o impetrante sustenta, em síntese, que:
+
+    Com o devido respeito, a decisão do Superior Tribunal de Justiça incorre em manifesta ilegalidade, ao manter a prisão com fundamentos genéricos, desprovidos de elementos concretos aptos a demonstrar a necessidade da custódia preventiva, conforme exigido pelo art. 312 do CPP. (doc. 1, p. 2).
+
+    Ao final, requer:
+
+    a) O conhecimento e processamento do presente Habeas Corpus; b) A concessão da liminar, para determinar a imediata expedição de alvará de soltura em favor do paciente LEONARDO MACHADO; c) A intimação da Procuradoria-Geral da República para manifestação; d) Ao final, o reconhecimento do constrangimento ilegal e a concessão definitiva da ordem, assegurando ao Paciente o direito de responder em liberdade, com ou sem medidas cautelares alternativas (art. 319 do CPP). (doc. 1, p. 6).
+
+    É o relatório necessário. Decido.
+
+    Colaciono, por oportuno, a ementa do acórdão impugnado:
+
+    Ementa AGRAVO REGIMENTAL EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ROUBO. LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. MANUTENÇÃO. LEGALIDADE. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA. REINCIDÊNCIA. LIDERANÇA NA ASSOCIAÇÃO CRIMINOSA. GRAVIDADE DO DELITO. INADEQUAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado. A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal. 2. Segundo a orientação do Superior Tribunal de Justiça, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema (RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018). 3. Conforme pacífica jurisprudência desta Corte Superior, a preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no HC n. 591.246/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 22/9/2020). 4. No caso concreto, o paciente é reincidente, com pelo menos três condenações transitadas em julgado, respondeu a toda a instrução processual preso, tendo sido sentenciado a uma pena de reclusão de 11 anos, em regime inicial fechado. O sentenciado exercia função de liderança na associação criminosa, evidenciando sua renitência na prática de crimes, a evidenciar ameaça candente de reiteração delitiva capaz de colocar em risco a incolumidade da ordem pública. 5. Demonstra-se a exigência cautelar justificadora da manutenção da prisão preventiva do condenado, pois o paciente apresenta risco concreto de reiteração delitiva porque, além da condenação por posição de destaque em associação criminosa que cometeu outros dois delitos, é reincidente, com pelo menos três condenações transitadas em julgado, respondeu toda a instrução processual preso, tendo sido sentenciado a uma pena de reclusão de 11 anos, em regime inicial fechado. 6. A adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva. 7. Agravo regimental não provido. (doc. 5, pp. 1-2 – grifei).
+
+    O acórdão da Sexta Turma do Superior Tribunal de Justiça não merece reparos. No caso, a manutenção da prisão preventiva, na sentença condenatória, está devidamente motivada e fundamentada no receio de perigo gerado pelo estado de liberdade do paciente, nos exatos termos dos arts. 312, § 2°; e 387, § 1º, ambos do Código de Processo Penal.
+
+    Nessa mesma direção:
+
+    Ementa AGRAVO REGIMENTAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PACIENTE ADVOGADO. SALA DE ESTADO MAIOR. DEPENDÊNCIA PRISIONAL DIVERSA. CONDIÇÃO ADEQUADA. AGRAVO AO QUAL SE NEGA PROVIMENTO. I. Caso em exame 1. Paciente “[...] condenado a cumprir pena de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 26 (vinte e seis) dias/multa, por infração ao artigo 2º, §§ 2º e 4º, incisos II, IV e V, da Lei nº 12.850/2013”. II. Questão em discussão 2. Pretendidas revogação da prisão preventiva ou realocação do paciente advogado para Sala de Estado Maior. III. Razões de decidir 3. A manutenção da prisão preventiva na sentença condenatória proferida pelo Juízo da 2ª Vara Criminal da Comarca de Mogi das Cruzes/SP está devidamente motivada e fundamentada no receio de perigo gerado pelo estado de liberdade do imputado e, ainda, na existência concreta de fatos contemporâneos que justificam a sua aplicação, nos exatos termos dos arts. 312, § 2°; e 387, § 1º, ambos do Código de Processo Penal. 4. A orientação jurisprudencial do Supremo Tribunal Federal é firme no sentido “[...] da possibilidade da prisão de advogado, antes do trânsito em julgado da sentença condenatória, em local que, embora não configure Sala de Estado Maior, dispõe de instalações condignas com o seu grau” (HC 215.939 AgR/RS, Rel. Min. Rosa Weber, Primeira Turma, DJe 20/9/2022), como ocorre no presente caso. IV. Dispositivo 5. Agravo regimental ao qual se nega provimento. (HC 261.490 AgR/SP, da minha relatoria, Primeira Turma, DJe 15/10/2025 – grifei).
+
+    Ementa AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO INTEMPESTIVA DE NULIDADE. PRECLUSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. ROUBO MAJORADO. PRISÃO PREVENTIVA. MANUTENÇÃO NA SENTENÇA CONDENATÓRIA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (HC 173.599 AgR/GO, Relatora a Ministra Cármen Lúcia, Primeira Turma, DJe 18/2/2020 – grifei).
+
+    Ante o exposto, denego a ordem (art. 192, caput, do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 24 de outubro de 2025.
+
+    Ministro Cristiano Zanin
+
+    Relator
