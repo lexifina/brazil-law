@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BANCO CNH INDUSTRIAL CAPITAL S/A, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso especial interposto em: 9/4/2025.
+Concluso ao gabinete em: 2/9/2025.
+Ação: recuperação judicial requerida por CELSIO SCHENKEL, CLEONICE DRUM SCHENKEL, DANIEL SCHENKEL, DFG S/A, FERNANDA SCHENKEL FERNANDES e GUILHERME SCHENKEL.
+Decisão interlocutória: declarou a essencialidade provisória dos bens listados pelo grupo recuperando no DOC. 19, maquinários, implementos agrícolas, veículos, Fazenda Santa Rosa, Fazenda São João, Fazenda Santa Cruz, Fazenda Santa Felicidade I e produção agrícola de algodão em pluma, e, por consequência, determinou a manutenção da parte agravada na posse dos bens, impossibilitando a parte agravante de promover atos de constrição sobre os referidos bens.
+Acórdão: negou provimento ao Agravo de Instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA. BENS CONSIDERADOS ESSENCIAIS À ATIVIDADE EMPRESARIAL PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. MAQUINÁRIOS QUE DEVEM SER MANTIDOS NA POSSE DOS AGRAVADOS. ALEGADA AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA E INDIVIDUALIZADA DA ESSENCIALIDADE DAS GARANTIAS GRAVADAS POR ALIENAÇÃO FIDUCIÁRIA. INOCORRÊNCIA. ESSENCIALIDADE PROVISÓRIA. RECURSO DESPROVIDO.
+"Verifica-se dos documentos que instruem o processo ter sido deferido o processamento da recuperação judicial da empresa agravada, determinado o impedimento de retirada de bens essenciais a sua atividade empresarial. Pela jurisprudência atual do Colendo Superior Tribunal de Justiça (STJ) ficou estabelecido que a essencialidade dos bens dados em garantia dos créditos deve ser reconhecida pelo Juízo da recuperação. (..). Desse modo, houve pronunciamento do Juízo competente sobre a essencialidade dos bens, motivo pelo qual deve ser mantida a decisão agravada, sob pena de ser prejudicar a viabilidade do plano de recuperação judicial." (TJ-SP - Agravo de Instrumento: 2082151-86.2023.8.26.0000 Iepê, Relator: Adilson de Araujo, Data de Julgamento: 05/06/2023, 31ª Câmara de Direito Privado, Data de Publicação: 05/06/2023)" (e-STJ fls. 737-738)
+Recurso especial: alega violação dos arts. 49, § 3º, Lei 11.101/2005, 66-B, § 3º, Lei 4.728/65, 18, Lei 9.514/97, bem como dissídio jurisprudencial, sustentando que: i) o TJ/MT, ao promover o juízo de essencialidade, deixou de observar os critérios objetivos e de dar interpretação sistemática ao § 3º do art. 49 da Lei 11.101/2005, no que tange a categorização de bens de capital, e isso porque houve a análise superficial em relação à atividade exercida versus a característica do bem; e, ii) o entendimento exarado pelo TJ/MT viola, ainda, os arts. 66-B, § 3º, Lei 4.728/65 e 18, Lei 9.514/97, tendo em vista que tais artigos, ao preverem a possibilidade de alienação fiduciária sobre coisa fungível e coisa móvel, estabelecem que a posse direta e indireta do bem objeto da propriedade fiduciária é atribuída à parte recorrente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 66-B, § 3º, Lei 4.728/65, 18, Lei 9.514/97, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "considerando tratar-se de período de blindagem, fica mantida, por hora, a decisão recorrida, vislumbrando-se a essencialidade dos bens objeto do pedido formulado, na medida em que a parte agravado é produtora rural e, obviamente, necessita ser mantida na posse dos maquinários e dos veículos discriminados, para dar continuidade ao desenvolvimento da atividade produtiva", bem como de que "não há o que se falar em ausência de demonstração efetiva e individualizada da essencialidade das garantias gravadas por alienação fiduciária, posto que se trata, ainda, de essencialidade provisória", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de recuperação judicial.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
