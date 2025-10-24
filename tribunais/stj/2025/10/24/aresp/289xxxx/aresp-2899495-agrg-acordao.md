@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. INSUFICIÊNCIA PROBATÓRIA. ACÓRDÃO FUNDAMENTADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem destacou, de forma fundamentada, a existência de robusto conjunto probatório a respaldar a condenação. Para alterar tal conclusão, seria necessário o revolvimento fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2 . Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WEVERTON ANDRADE ZANARDI interpõe agravo regimental contra decisão em que não conheci do seu agravo em recurso especial.
+A defesa refuta a incidência da Súmula n. 7 do STJ ao caso e reitera a afronta aos arts. 155, 156 e 386, V e VII, todos do CPP. Alega insuficiência probatória a embasar a condenação pelo crime previsto no art. 306 do Código de Trânsito Brasileiro.
+Pleiteia, assim, a retratação da decisão agravada ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. INSUFICIÊNCIA PROBATÓRIA. ACÓRDÃO FUNDAMENTADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem destacou, de forma fundamentada, a existência de robusto conjunto probatório a respaldar a condenação. Para alterar tal conclusão, seria necessário o revolvimento fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ.
+2 . Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravante insiste na tese de insuficiência probatória para a condenação pelo crime previsto no art. 306 do Código de Trânsito Brasileiro, reproduzindo argumentos já apresentados nas razões do recurso especial e agravo em recurso especial, devidamente apreciados.
+Não obstante a irresignação defensiva, constato que a decisão agravada examinou de forma suficiente e fundamentada a matéria, concluindo que o acórdão recorrido está amparado em robusto conjunto probatório, não havendo que se falar em nulidade.
+A propósito, coleciono os trechos da decisão (fls. 809-812) :
+A Corte de origem assim se manifestou (fls. 574-575, grifei):
+Verifico que há provas bastantes para a condenação do apelante, a saber: Auto de Prisão em Flagrante Delito (ID 204982339), Boletim de Ocorrência (ID 204982347 - Pág. 9/12), Termo de Apreensão (ID 204982340 - Pag. 1), Termo de Entrega (ID 204982346 - Pág. 1), Termo de Exibição (ID 204982347 - Pág. 15), Laudo de Constatação Provisório da Droga (ID 204982347 - Pág. 25), Laudo Pericial (ID 204980301 - Pág. 69/75), Relatório Policial (ID 204982347 - Pág. 95), Documento de ID 204982347 - Pág. 21 e Pág. 99 e ss) e pelas demais provas colhidas.
+ ..
+Ouvido na fase policial, o próprio apelante confessou que consumiu entorpecente (maconha) e que estava trafegando com Pedro Henrique Vitorino Rieeger na BR 164, quando foi abordado pela PRF (ID 204982347 - Pág. 78/79). Em juízo, o apelante negou que estivesse dirigindo o veículo no momento da abordagem, vez que estava de carona, já que Pedro dirigia o veículo.
+ ..
+No caso, o próprio apelante confessou extrajudicialmente ter feito uso de maconha, além dos depoimentos dos policiais militares que afirmaram de forma idêntica, que o apelante apresentava fala desconexa, olhos vermelhos; vestes desajustadas e odor forte de maconha. Enfim, os depoimentos, em juízo, dos policiais militares que atuaram nas diligências, já que foram acionados pelos policiais rodoviários federais que efetuaram a abordagem do apelante na BR 164, conduzindo veículo sob efeito de substância psicoativa, aliados às declarações do próprio apelante na fase policial que afirmou ter usado entorpecente (maconha), bem como, a apreensão da CNH do apelante sob ID 204982347 - Pág. 81, aliado ao depósito de fiança no valor de R$ 7.700,00 (ID 204982347 - Pág. 91), constituem acervo probatório suficiente para respaldar a condenação do apelante pela prática do crime previsto no art. 306, do CTB.
+Malgrado a negativa da defesa verifica-se que há provas suficientes a demonstrar autoria e materialidade dos delitos imputados, não ficando demonstrada afronta aos dispositivos que alega terem sido violados.
+Extrai-se dos autos que:
+RICARDO GONÇALVES DA SILVA confirmou, em juízo, que a equipe da Polícia Militar foi acionada por agentes da PRF em razão da abordagem de dois indivíduos suspeitos, na entrada da cidade, os quais aparentavam estar sob efeito de substância psicoativa. Com um deles, PEDRO, foi encontrada uma porção de substância análoga à maconha e, no veículo, um dichavador. Informou que, como os policiais rodoviários estavam a caminho de um acidente com vítima fatal, solicitaram apoio da PM para condução dos abordados. Declarou ainda que o condutor, WEVERTON, apresentava sinais de alteração psicomotora e confirmou ter feito uso de droga, embora o teste de alcoolemia tenha dado negativo. Afirmou que ambos admitiram ser usuários de entorpecentes.
+Conforme se observa, o julgado asseverou a existência de provas suficientes para justificar a condenação do ora agravante pela conduta a ele imputada. A defesa pretende rediscutir a comprovação dos fatos atribuídos ao agravante, o que é inviável, porquanto implicaria a necessidade de revolvimento fático probatório aprofundado, procedimento vedado em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Ilustrativamente:
+" ..  1. É incabível a absolvição do réu, por esta Corte Superior, com fundamento na insuficiência probatória, se os juízos antecedentes apontaram, fundamentadamente, elementos concretos acerca da existência de autoria e materialidade do crime, colhidos sob o crivo do contraditório, a fim de subsidiar a condenação. Para entender de forma diversa, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7 do STJ  ..  (AgRg no AREsp n. 1.605.930/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/5/2020)"
+Embora a defesa alegue nulidade do acórdão por suposto vício, ao mencionar elementos como a apreensão da CNH e o pagamento de fiança, observa- se que a condenação não se apoiou exclusivamente nesses aspectos. Ao contrário, foi respaldada em um conjunto probatório mais amplo, devidamente analisado pelas instâncias ordinárias. Prova disso é que a sentença de primeiro grau, que reconheceu a responsabilidade penal do acusado, não fez qualquer referência à CNH ou à fiança, evidenciando que tais elementos não foram determinantes para o juízo condenatório.
+Como esclarecido, o Tribunal de origem destacou expressamente os elementos que embasaram a condenação, tais como a confissão extrajudicial do agravante quanto ao uso de entorpecente, os depoimentos dos policiais que constataram os sinais de alteração psicomotora e as demais provas documentais constantes dos autos. Desse modo, a pretensão defensiva demanda reexame de fatos e provas, providência inviável em recurso especial, à luz da Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
