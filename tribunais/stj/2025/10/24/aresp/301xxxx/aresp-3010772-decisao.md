@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por SUZANO S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 7/3/2025.
+Concluso ao gabinete em: 11/9/2025.
+Ação: liquidação de sentença por arbitramento, ajuizada por CONSERV ENGENHARIA E MANUTENÇÃO LTDA., em face de CENTROPROJEKT DO BRASIL S.A. e SUZANO S.A., na qual requer a apuração, por arbitramento, do quantum debeatur referente a bens não devolvidos.
+Decisão interlocutória: decidiu pela desnecessidade de liquidação por arbitramento; reconheceu perdas e danos em R$ 55.250,41 (cinquenta e cinco mil, duzentos e cinquenta reais e quarenta e um centavos); condenou a liquidante ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o excesso; determinou a remessa dos autos à contadoria; e deferiu justiça gratuita à massa falida.
+Acórdão: deu parcial provimento ao recurso de agravo de instrumento interposto por CONSERV ENGENHARIA E MANUTENÇÃO LTDA., nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. IMPOSSIBILIDADE DE REDISCUSSÃO DOS TERMOS DELIMITADOS NA SENTENÇA. COISA JULGADA E PRINCÍPIO DA SEGURANÇA JURÍDICA. SENTENÇA ILÍQUIDA. POSSIBILIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA. ANÁLISE COMPARATIVA DAS PLANILHAS CONSTANTES DO TÍTULO EXECUTIVO. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM LIQUIDAÇÃO DE SENTENÇA. LITIGIOSIDADE EXCESSIVA NÃO VERIFICADA. 1. Não é possível rediscutir, em liquidação de sentença, matérias já apreciadas e transitadas em julgado, devendo a liquidação se ater aos limites do título executivo judicial. 2. Sentença ilíquida, em que se faz possível a liquidação por arbitramento, nos termos dos artigos 509 e 510 do Código de Processo Civil. 4. Conversão do julgamento em diligência para determinar a liquidação por arbitramento com fins de realização de análise comparativa entre as planilhas que constam no título executivo. 3. O arbitramento de honorários sucumbenciais em liquidação de sentença é exceção, somente sendo possível quando se evidenciar litigiosidade entre as partes, que prolongaria excessivamente a atuação dos patronos, não sendo o caso dos autos. 4. Agravo de Instrumento parcialmente provido. 5. Precedentes do STJ. 6. Unanimidade. (e-STJ fl. 122)
+Recurso especial: alega violação dos arts. 85, § 2º, 98, 489, I, II, § 1º, IV, 502, 507, 508, 509, e 1.022, I, II, parágrafo único, II, do CPC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta que a liquidação deve ocorrer por simples cálculos aritméticos, por já estar delimitado o montante indenizatório.
+Afirma que a concessão da gratuidade de justiça em favor de pessoa jurídica foi deferida sem demonstração concreta de hipossuficiência.
+Aduz que houve desrespeito aos limites objetivos do título executivo judicial ao admitir nova liquidação por arbitramento para abranger itens não discriminados na planilha referida na sentença.
+Argumenta que é cabível a fixação de honorários advocatícios na liquidação, diante da conduta da parte adversa que teria ampliado indevidamente a controvérsia.
+RELATADO O PROCESSO, DECIDE-SE.
+Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da concessão da justiça gratuita (e-STJ fl. 123), da necessidade de liquidação por arbitramento, da inexistência de litígio, com impacto negativo nos honorários (e-STJ fls. 123-128), de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC quando o Tribunal de origem decide de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+Do reexame de fatos e provas
+Na hipótese, extrai-se do acórdão recorrido que o deferimento da gratuidade de justiça à parte agravada decorre da comprovação da hipossuficiência para arcar com as custas do processo (e-STJ fl. 129).
+Além disso, consta no acórdão recorrido que, (i) considerada a natureza do valor da condenação, deve proceder-se à liquidação por arbitramento (e-STJ fl. 131), (ii) a inviabilidade do reexame de questão acobertada pela preclusão máxima (e-STJ fls. 125-126), além da (iii) inexistência de caráter litigioso na respectiva fase, com repercussão negativa em relação ao arbitramento de honorários sucumbenciais.
+Alterar o decidido no acórdão impugnado, quanto aos pressupostos para concessão da justiça gratuita, necessidade de liquidação e objeção de coisa julgada, bem como quanto à inexistência de caráter litigioso na fase de arbitramento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. ILIQUIDEZ DA SENTENÇA. NECESSIDADE DE ARBITRAMENTO. COISA JULGADA. ILITIGIOSIDADE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Liquidação de sentença por arbitramento.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
