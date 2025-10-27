@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE SÃO PAULO contra decisão proferida pelo Presidente desta Corte Superior, constante às e-STJ fls. 219/224, em que conheceu do agravo para não conhecer do recurso especial, em razão dos óbices das Súmulas 284 do STF e 7 do STJ e da natureza constitucional de tese recursal.
+Nas suas razões, a parte agravante afirma que a matéria objeto do recurso especial tem correspondência com o Tema 1.113 do STJ, razão pela qual, ao invés de realizar-se o juízo de admissibilidade do agravo, deveria ter sido determinada a devolução dos autos à origem para observância do disposto no art. 1.030 do CPC.
+Sem contrarrazões.
+Em manifestação de e-STJ fls. 265/270, o MPF opina pelo sobrestamento do recurso especial até o julgamento do T ema 1.371 do STJ.
+Passo a decidir.
+Exerço o juízo de retratação.
+A Primeira Seção desta Corte Superior afetou, à sistemática dos recursos repetitivos, a tese pertinente à possibilidade ou não de a Fazenda Pública apurar, mediante arbitramento, a base de cálculo do ITCMD, tendo sido escolhidos os REsps 217594/SP e 2213551/SP, da relatoria da Ministra Maria Thereza de Assis Moura, como representativos da controvérsia (Tema 1.371 do STJ).
+Na oportunidade, a questão foi assim delimitada:
+Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação.
+O Colegiado decidiu pela "suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ".
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devam aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1456224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 5/2/2016; AgRg no AgRg no AREsp 552103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1588019/GO, Rel. Min. Regina Helena Costa, DJe 17/3/2016; REsp 1502464/RS, AREsp 848627/PB, REsp 1574944/PB e AREsp 779676/PB, todos da relatoria do em. Ministro Benedito Gonçalves, DJe 2/12/2015, 8/3/2016, 4/3/2016 e 3/2/2016, respectivamente.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que o agravo em recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do recurso especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, em juízo de reconsideração, TORNO SEM EFEITO a decisão agravada (e-STJ fls. 219/224) e DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão, a ser proferido nos Recursos Especiais 217594/SP e 2213551/SP, de relatoria da Ministra Maria Thereza de Assis Moura, para julgamento pelo sistema, e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
