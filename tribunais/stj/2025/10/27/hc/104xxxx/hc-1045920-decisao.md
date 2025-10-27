@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de LUAN FERREIRA DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem.
+Neste habeas corpus, alega a impetrante ausência de elementos concretos para custódia cautelar, a qual não pode se justificar apenas na gravidade abstrata do delito e na pequena quantidade de droga apreendida.
+Requer, assim, a revogação da prisão preventiva com expedição de alvará de soltura ou mediante aplicação de cautelares do art. 319 do CPP.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juiz sentenciante decretou a prisão cautelar nos seguintes termos:
+"Inicialmente, cumpre registar que a prisão cautelar é medida excepcionalíssima, em especial após a edição da Lei nº 12.403/2011, que também listou diversas medidas cautelares previstas no art. 319 do CPP, visando à decretação da preventiva como razão última.
+Com efeito, no caso em tela, depreende-se que a materialidade do delito em questão se encontra satisfatoriamente comprovada, representada pelo Auto de Exibição e Apreensão (p. 22) e pelo Auto de Constatação Preliminar de Substância Entorpecente (p. 24-25), que atestou a natureza proscrita das substâncias apreendidas.
+No tocante à autoria em relação ao custodiado, constata-se, também, que há indícios no in folio que apontam a atuação do representado no delito em exame, conforme os termos de depoimento dos condutores (p. 13-16), os quais relataram que, após serem informados pela Guarda Municipal sobre a ocorrência de tráfico de drogas na Praça de Eventos de Itabaiana, com base em monitoramento por câmeras, abordaram o flagranteado e encontraram em sua posse 25 pedras de "crack", 01 pino de "cocaína" e a quantia de R$ 99,00 em cédulas trocadas (p. 9).
+Ademais, a pena máxima prevista em abstrato para o delito supostamente praticado pelo flagranteado é superior a 04 (quatro) anos, sendo, portanto, permitida a prisão preventiva, nos termos do art. 313, inciso I, do CPP. Logo, vislumbra-se que os pressupostos para a decretação da prisão preventiva se fazem presentes.
+Diante disso, cabe verificar se existem na hipótese os fundamentos exigidos para a decretação da prisão preventiva em relação ao representado.
+Procedendo-se a um exame acurado dos autos, vislumbra-se que, a despeito de ser primário, conforme certidão de antecedentes (p. 37-39), a diversidade e a natureza altamente lesiva das drogas apreendidas ("crack" e "cocaína"), somadas à forma de acondicionamento (25 pedras de "crack" e 01 pino de "cocaína") e à apreensão de dinheiro em notas de pequeno valor (p. 9), indicam o estado de traficância e, consequentemente, na gravidade concreta da conduta e a periculosidade do agente, a autorizar a custódia cautelar para garantia da ordem pública." (e-STJ, fl. 63)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, segundo se infere, o julgador não trouxe qualquer dado concreto que demonstre o periculum libertatis.
+O decreto preventivo está fundamentado apenas na gravidade abstrata do delito e em elementos inerentes ao próprio tipo penal (apreensão de drogas e dinheiro). Ademais, nem mesmo a quantidade de droga apreendida - 2g de crack e 1g de cocaína (e-STJ, fl. 38) - isoladamente, autorizaria o encarceramento cautelar, sobretudo porque certificada a primariedade do paciente e trata-se de delito cometido sem violência ou grave ameaça à pessoa.
+Desse modo, uma vez atento a previsão constitucional da custódia preventiva como ultima ratio, impõe-se a substituição da prisão cautelar por outras medidas alternativas do art. 319 do CPP.
+No mesmo sentido, os seguintes julgados:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PEQUENA QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES PESSOAIS FAVORÁVEIS. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA. ORDEM CONCEDIDA DE OFÍCIO. DECISÃO RATIFICADA. AGRAVO IMPROVIDO.
+1. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do Código de Processo Penal.
+2. No caso, mostra-se devida e suficiente a imposição das medidas cautelares alternativas previstas no art. 319, do CPP, ante a primariedade do réu e o fato de que foram apreendidas apenas 8g de crack na ocasião do flagrante.
+3. Tendo sido proferida em consonância com o entendimento firmado neste Sodalício sobre o tema impugnado, deve ser mantida a decisão agravada pelos seus próprios fundamentos.
+4. Agravo regimental desprovido
+(AgRg no RHC n. 168.093/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/10/2022, DJe de 17/10/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RÉU PRIMÁRIO. PEQUENA QUANTIDADE DE DROGA. DESPROPORCIONALIDADE. WRIT CONCEDIDO. DECISÃO MANTIDA.
+1. Conforme a jurisprudência desta Corte, "a validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis" (RHC n. 161.489/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022).
+2. Verifica-se a desproporcionalidade da prisão preventiva decretada com base na quantidade de drogas apreendidas e na apreensão de uma arma de fogo de uso permitido, tendo em vista tratar-se de réu primário, sem antecedentes, e da apreensão de quantidade de droga não relevante (23 trouxinhas de cocaína, mais uma porção de maconha).
+3. Agravo regimental improvido.
+(AgRg no HC n. 831.262/RN, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para revogar a prisão preventiva imposta ao paciente mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
