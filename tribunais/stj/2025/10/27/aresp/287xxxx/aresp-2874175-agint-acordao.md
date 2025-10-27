@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. IMÓVEL ADQUIRIDO NA PLANTA. ENTREGA. INFILTRAÇÃO. PRODUÇÃO ANTECIPADA DE PROVA. DANOS MORAIS. REEXAME. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata- se de agravo em recurso especial interposto por MTT 500 ADMINISTRACAO E PARTICIPACOES LTDA. (MTT) contra decisão de relatoria do Ministro Presidente desta Corte, que conheceu do agravo para não conhecer do recurso especial, com base na aplicação da Súmula n. 7 do STJ.
+A agravante sustenta que não há necessidade de reexame probatório para conhecimento da questão da ocorrência de cerceamento de defesa decorrente da realização de produção antecipada de perícia antes da citação sem a participação da defesa ao caso, uma vez que a questão é eminentemente processual. Defende, ainda, o afastamento do referido óbice também quanto aos danos morais, pois "é necessário apenas observar que a Agravante não teve qualquer relação com o dano moral estabelecido pela sentença" e que "não restou comprovado o elemento que caracterizaria a suposta a situação vexatória em que a Agravada foi posta" (e-STJ, fl. 806). Requer, ao final, a reforma da decisão agravada e o conhecimento e provimento de seu recurso especial.
+Foi apresentada contraminuta (e-STJ, fls . 813-817).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. IMÓVEL ADQUIRIDO NA PLANTA. ENTREGA. INFILTRAÇÃO. PRODUÇÃO ANTECIPADA DE PROVA. DANOS MORAIS. REEXAME. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Alterar as conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+Conforme demonstrado na decisão agravada, o Tribunal de origem afastou a ocorrência de cerceamento de defesa ante a realização antecipada de perícia no imóvel, com os seguintes fundamentos:
+Em relação à produção antecipada de provas, o que se extrai de toda a instrução processual é que o juízo teve o cuidado de preservar o contraditório e a ampla defesa intimando a ré de todos os atos praticados, a qual, inclusive, teve ciência de tais atos quando da sua efetiva citação, oportunidade em que não foi minimamente diligente, não apresentando sequer procuração junto com a contestação, razão pela qual foi decretada a sua revelia. Ademais, havia sério risco de perecimento da prova, tendo em vista que a autora tinha registrado diversas reclamações junto à ré para que esta sanasse o quanto antes os vícios presentes no imóvel objeto da lide, o que poderia ser atendido a qualquer momento. Hígida, portanto, a prova pericial (fl. 701/702).
+De outro lado, a sentença, confirmada pelo acórdão recorrido, verificou a configuração dos danos morais no caso, confira-se:
+Quanto aos danos morais, como prestadora de serviço, correm por conta da parte ré os riscos relativos ao seu empreendimento, cabendo-lhe arcar com os prejuízos decorrentes de sua atividade. Desta feita, responde a referida parte pela falha no serviço prestado à parte autora.
+E  preciso observar que a distinção entre o dano moral e o "mero" aborrecimento, em se tratando de dano moral subjetivo, encontra-se não na reação da vítima - afinal, essa pode ser mais ou menos sensível a  violação de um direito -, mas no comportamento do contratante inadimplente, que, muitas vezes, age de forma particularmente censurável e ultrajante, demonstrando verdadeiro descaso para com o direito alheio.
+O aborrecimento, a contrariedade e outros sentimentos negativos que ordinariamente já  acometem aquele que vê descumprida uma obrigação pactuada em muitos casos são agravados pela conduta maliciosa, desdenhosa ou, simplesmente, indiferente do contratante.
+Os fatos ocorridos com a parte autora não podem ser considerados como um "simples" ou "mero" aborrecimento, decorrente da vida em sociedade. Não se cuida de uma simples frustração ou insatisfação com um serviço ruim ou não prestado adequadamente.
+Trata-se de situação resultante de um comportamento abusivo e inaceitável de empresa fornecedora de serviços e produtos que faz gerar uma indenização eminentemente punitiva. (e-STJ, fl. 564)
+Nesse contexto, conforme acima se viu, o Tribunal estadual, soberano na análise das provas, concluiu, conforme acima transcrito, pela configuração dos danos morais e da inexistência de cerceamento de defesa com base nas circunstâncias e peculiaridades do caso.
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJRJ quanto aos temas, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula n. 7 do STJ.
+Ilustrativamente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INAPLICABILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. ATIVIDADE ECONÔMICA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir 2. O acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte, de que "o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Contudo, tem admitido o abrandamento da regra quando ficar demonstrada a condição de hipossuficiência técnica, jurídica ou econômica da pessoa jurídica, autorizando, excepcionalmente, a aplicação das normas do CDC (teoria finalista mitigada)" (AgInt no AREsp 2.189.393/AL, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 21/3/2023). Inafastável a Súmula n. 83/STJ.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte não se desincumbiu.
+Inafastável a Súmula n. 284 do STF quanto ao ponto.
+III. Dispositivo 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.680.141/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025 -sem destaque no original )
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE CONTRATO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. HIPOSSUFICIÊNCIA NÃO ATESTADA. REVISÃO. SÚMULA 7/STJ. REEXAME. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal, a teoria finalista pode ser mitigada, ampliando a aplicação do Código de Defesa do Consumidor nas relações jurídicas entre pessoas jurídicas, quando ficar demonstrada a vulnerabilidade técnica, jurídica ou econômica da pessoa jurídica em relação ao fornecedor, embora não seja tecnicamente a destinatária final dos produtos.
+2. No caso dos autos, o Tribunal de origem, ao analisar o caso em comento, consignou que a ora agravante não era a destinatária final do serviço, não reconhecendo, assim, sua hipossuficiência e afastando, por conseguinte, a aplicação da teoria finalista mitigada.
+2.1. Desse modo, a revisão da conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.498.507/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024 -sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DA PARTE AUTORA.
+1. O Tribunal de origem, com amparo no acervo fático-probatório dos autos, concluiu pela inaplicabilidade do Código de Defesa do Consumidor por não ser a empresa de transportes destinatária final do produto. Incidência da Súmula 83 do STJ. 1.1. A discussão quanto à caracterização da relação de consumo, no caso concreto, demandaria o reexame dos elementos fático-probatórios dos autos, de forma que a pretensão recursal esbarra no óbice da Súmula 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.811.913/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do NCPC.
