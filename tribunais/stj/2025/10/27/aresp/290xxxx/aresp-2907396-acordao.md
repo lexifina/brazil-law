@@ -1,0 +1,105 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA UNIDADE. DANOS MORAIS. INDENIZAÇÃO. VALOR NÃO EXORBITANTES. SÚMULAS N. 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte, o mero atraso na entrega de obra não caracteriza, por si só, danos morais ao adquirente, sendo cabível, todavia, indenização a esse título em caso de atraso excessivo e injustificado que acarrete dano extrapatrimonial relevante." (AgInt no REsp n. 2.185.310/MA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o atraso na entrega do imóvel de 21 meses gerou danos morais, fixando a respectiva indenização em R$ 10.000,00 (dez mil reais), para cada um dos dois agravados.
+3. Estando o acórdão recorrido em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Não se mostra exorbitante o montante estabelecido pelo Tribunal estadual em R$ 10.000,00 (dez mil reais) para cada um dos dois autores. Incidência da Súmula n. 7/STJ.
+5. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto SPE1 GLOBAL COLONA RESIDENCES EMPREENDIMENTOS S/A contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 379):
+"APELAÇÃO CÍVEL. CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA UNIDADE. CLÁUSULA PENAL MORATÓRIA FIXADA APENAS EM DESFAVOR DO ADQUIRENTE. APLICAÇÃO INVERSA. TEMA Nº. 971, DO STJ. TESE VINCULANTE QUE DETERMINA SEJA ESSA CLÁUSULA CONSIDERADA PARA FINS DE FIXAÇÃO DA INDENIZAÇÃO PELO INADIMPLEMENTO DO PROMITENTE VENDEDOR. JULGAMENTO ULTRA PETITA. MULTA QUE DEVE INCIDIR UMA ÚNICA VEZ. TEMAS Nº. 970 E Nº. 971, DO STJ, QUE IMPEDEM SEJA ACOLHIDO O PEDIDO DE INDENIZAÇÃO POR LUCROS CESSANTES CONCOMITANTEMENTE À APLICAÇÃO DA CLÁUSULA PENAL, QUE, SENDO UMA INDENIZAÇÃO PRÉ-FIXADA, JÁ COMPREENDE ESSA VERBA (OS LUCROS CESSANTES), A IMPOR O AFASTAMENTO DO BIS IN IDEM. PERÍODO DO ATRASO QUE SE ESTENDE ATÉ A EFETIVA ENTREGA DAS CHAVES, VISTO QUE O PROMITENTE VENDEDOR NÃO LOGROU COMPROVAR QUE OS ADQUIRENTES DERAM CAUSA À DEMORA, COMO ALEGADO. DANOS MORAIS CONFIGURADOS. INDENIZAÇÃO POR DANOS MORAIS FIXADA EM R$ 10.000,00 (DEZ MIL REAIS) PARA CADA ADQUIRENTE, NUM TOTAL DE R$20.000,00 (VINTE MIL REAIS), MONTANTE ADEQUADO E SUFICIENTE PARA O CASO E QUE, POIS, DEVE SER MANTIDO NA FORMA DO ENUNCIADO Nº. 343, DO TJRJ. SUCUMBÊNCIA DA PARTE AUTORA QUE NÃO FOI MÍNIMA. DISTRIBUIÇÃO EQUITATIVA DOS ÔNUS SUCUMBENCIAIS, COM A CONDENAÇÃO DA PARTE AUTORA EM HONORÁRIOS. RECURSOS QUE DEVEM SER CONHECIDOS. APELO DO RÉU PROVIDO EM PARTE. APELAÇÃO ADESIVA DOS AUTORES DESPROVIDA."
+Nas razões do apelo nobre (fls. 393-409), SPE1 GLOBAL COLONA RESIDENCES EMPREENDIMENTOS S/A aponta, além de divergência jurisprudencial, violação aos arts. 186, 884, 927 e 944, parágrafo único, do Código Civil, afirmando, entre outros argumentos, que "não há incidência in re ipsa dos danos morais em caso de atraso na entrega de unidade imobiliária, quando não é apresentada qualquer circunstância excepcional que tenha, no caso concreto, justificado um dissabor que fosse de tal forma intenso a ponto de lhe romper o equilíbrio psíquico e dar azo ao mencionado dano" (fls. 398 - destaques no original).
+Aduz, também, que "a simples frustração da expectativa do consumidor com o atraso na entrega de bem imóvel e o próprio período de duração do atraso, não servem como fundamento suficiente para uma condenação a título de danos morais, sem cogitar de qualquer outra argumentação mais sólida que aponte eventuais desdobramentos danosos mais sérios, profundos e vexatórios na vida do adquirente que não a mera quebra de sua expectativa" (fls. 401).
+Assevera que "a simples frustração da expectativa do consumidor com o atraso na entrega de bem imóvel, mormente em caso de apenas 21 meses de duração, não serve como fundamento suficiente para uma condenação da incorporadora/construtora a título de danos morais" (fls. 402-403 - destaques no original).
+Defende, ainda, que o "valor de R$ 10.000,00 (dez mil reais) a cada um dos Recorridos para reparar os danos morais se encontra completamente em descompasso com a razoabilidade e a proporcionalidade, notadamente diante das variáveis acima descritas" (fls. 408 - destaques no original).
+Intimados, CATIA NUNES ROSA SCAQUETTI E CLAUDIO DE CASTRO SCAQUETTI apresentaram contrarrazões (fls. 452-464), pelo desprovimento do recurso.
+O apelo nobre foi inadmitido (decisão às fls. 466-471), motivando o agravo em recurso especial (fls. 475-486), em testilha.
+Também foi apresentada contraminuta (fls. 490-502), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DA UNIDADE. DANOS MORAIS. INDENIZAÇÃO. VALOR NÃO EXORBITANTES. SÚMULAS N. 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte, o mero atraso na entrega de obra não caracteriza, por si só, danos morais ao adquirente, sendo cabível, todavia, indenização a esse título em caso de atraso excessivo e injustificado que acarrete dano extrapatrimonial relevante." (AgInt no REsp n. 2.185.310/MA, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025).
+2. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o atraso na entrega do imóvel de 21 meses gerou danos morais, fixando a respectiva indenização em R$ 10.000,00 (dez mil reais), para cada um dos dois agravados.
+3. Estando o acórdão recorrido em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Não se mostra exorbitante o montante estabelecido pelo Tribunal estadual em R$ 10.000,00 (dez mil reais) para cada um dos dois autores. Incidência da Súmula n. 7/STJ.
+5. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O recurso não merece prosperar.
+De plano, deve ser rejeitada a alegada violação aos arts. 186 e 927 do Código Civil.
+No caso, o eg. TJ-RJ, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o atraso na entrega do imóvel de 21 meses gerou danos morais, fixando a respectiva indenização em R$ 10,000,00 (dez mil reais), para cada um dos dois Agravados. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 381-390):
+"Trata-se, como visto, de ação de cunho indenizatório proposta pelos promitentes compradores, que ostentam a posição de consumidores na relação sob análise, em face do promitente vendedor de unidade imobiliária. A causa de pedir consistiu no atraso do vendedor em promover a entrega da unidade na data estipulada em contrato, tendo-se considerado na contagem do prazo os 180 (cento e oitenta) dias de tolerância também previstos no instrumento contratual.
+Nada obstante o referido atraso, a construção do prédio foi concluída, os promitentes compradores cumpriram integralmente a sua obrigação e a unidade foi a eles entregue pelo réu, fatos esses que restaram incontroversos. O debate se restringiu, pois, à validade da cláusula de tolerância e aos pedidos de caráter indenizatório decorrentes do atraso na entrega da unidade adquirida pelos autores.
+(..)
+Alega o réu, ainda, que o termo final da obrigação teria sido a data em que foi concedido o habite-se. Quando do oferecimento da contestação, alegara o réu que os autores tardaram a quitar o saldo devedor e que esse teria sido o motivo determinante do atraso na entrega. Todavia, essa alegação não se sustentou diante da prova produzida, notadamente tendo em conta a comprovação de quitação do saldo devedor, pelos autores, apresentada às fls. 203/209, em 08/12/2011.
+Já na apelação, o réu alegou que a demora no cumprimento da sua obrigação de promover a entrega da unidade aos autores se deu "por razões alheias à prestação" dos seus serviços (dos serviços do primeiro apelante, diga-se) e que os próprios autores teriam contribuído para esse atraso. Todavia, para além da inovação dos fundamentos de defesa, o réu não especificou qual teria sido a causa (supostamente externa) determinante da sua mora ou em que os autores teriam influído na demora.
+Seja como for, não se desincumbiu o réu do seu ônus probatório, nos termos do art. 373, II, do CPC. Logo, a mora há de ser considerada como tendo perdurado entre o dia 01/03/2012, data em que se encerrou aquele prazo de tolerância de 180 (cento e oitenta) dias da data inicial prevista no contrato e na qual os autores já haviam quitado o seu saldo devedor, e o dia 26/12/2013, data em que a obrigação foi cumprida pelo primeiro apelante, exatamente como fixado na sentença.
+(..)
+Quanto à alegação de que não houve danos extrapatrimoniais, é curial observar que o dano moral, exatamente porque moral, não se demonstra nem se comprova, mas se afere segundo o senso comum do homem médio. A isso se denomina dano moral in re ipsa: é o dano que resulta, por si mesmo, da ação ou omissão culposa, traduzindo-se em dor, física ou psicológica, em constrangimento, em sentimento de reprovação, em lesão e em ofensa ao conceito social, à honra, à dignidade.
+No presente caso, os autores quitaram todo o seu saldo devedor em 08 dezembro de 2011, mas a unidade imobiliária somente lhes foi entregue em 26 de dezembro de 2013, após longos 21 (vinte e um) meses e 25 (vinte e cinco dias) de atraso contados do término do prazo de tolerância de 180 (cento e oitenta) dias.
+Por certo esse atraso de quase dois anos é fato que foge à normalidade da vida comum, não se qualificando como tolerável. Pelo contrário, assume gravidade tal que, indubitavelmente, é capaz de caracterizar dano de natureza moral, causando sensação de insegurança, dúvida, incerteza, angústia, medo que se prolonga no tempo.
+Por essas razões, está plenamente configurado o dano de natureza extrapatrimonial.
+No que tange ao valor arbitrado, cumpre ressaltar que a indenização por danos morais deve ser fixada em termos razoáveis, não se justificando que a reparação venha a constituir-se em enriquecimento sem causa, com manifestos abusos e exageros.
+O arbitramento da verba indenizatória deve ser feito com moderação, proporcionalmente, considerando o grau de culpa e o porte econômico das partes, orientando- se o Juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso.
+(..)
+Diante do exposto, tem-se que o montante de R$20.000,00 (vinte mil reais), sendo a metade para cada um dos autores, que representa mais de 10% (dez por cento) sobre o valor do imóvel, foi fixado com justeza e dentro do critério da razoabilidade, não devendo, assim, ser modificado nem para mais nem para menos, pois, como dito alhures, os fatos narrados nos autos foram adequadamente sopesados."
+(g. n.)
+Com efeito, não se verifica ofensa aos referidos dispositivos legais, na medida em que o entendimento do eg. TJ-RJ corrobora a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DANO MORAL DECORRENTE DE ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. PECULIARIDADES DO CASO CONCRETO. POSSIBILIDADE DE INDENIZAÇÃO. COBRANÇA DE TAXA DE CESSÃO DE DIREITOS. ABUSIVIDADE. RESTITUIÇÃO DEVIDA. INCIDÊNCIA DO CDC. QUESTÃO NÃO PREQUESTIONADA. NÃO CONHECIMENTO. SÚMULAS 282 E 356 DO STF E 211 DO STJ.
+1. Nos termos da jurisprudência desta Corte, o mero atraso na entrega de obra não caracteriza, por si só, danos morais ao adquirente, sendo cabível, todavia, indenização a esse título em caso de atraso excessivo e injustificado que acarrete dano extrapatrimonial relevante.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.185.310/MA, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. ENTREGA DE OBRA. ATRASO EXCESSIVO. DANOS MORAIS CONFIGURADOS. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+(..)
+2. O mero inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Nada obstante, se se trata de longo período de atraso, como no caso de mais de dois anos, pode ensejar o reconhecimento de dano extrapatrimonial.
+3. Agravo interno provido em parte para se conhecer em parte do recurso especial e negar-lhe provimento."
+(AgInt nos EDcl no AREsp n. 2.356.797/BA, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA QUESTÃO FEDERAL. SÚMULA 83/STJ. APLICABILIDADE. AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. (..). AGRAVO INTERNO IMPROVIDO.
+(..)
+2. A Súmula 83 do STJ é aplicável ao recurso especial interposto tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Precedentes.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.798.907/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 21/10/2024, DJe de 4/11/2024 - g. n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. TÍTULO JUDICIAL. QUANTUM DEBEATUR. INCONTROVÉRSIA. LIQUIDEZ. PARCELAS LÍQUIDA E ILÍQUIDA DO JULGADO. LIQUIDAÇÃO E CUMPRIMENTO DE SENTENÇA. CONCOMITÂNCIA. POSSIBILIDADE. FASE LIQUIDATÓRIA. PERÍCIA JUDICIAL. HONORÁRIOS. RESPONSABILIDADE DO DEVEDOR SUCUMBENTE. SÚM. 83/STJ. RECURSO DESPROVIDO.
+(..)
+3. Conforme entendimento gravado na nota n. 83 da Súmula de Jurisprudência do STJ, não se conhece do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, entendimento aplicável tanto aos recursos interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+(..)
+4. Recurso especial parcialmente conhecido e, na parte conhecida, desprovido."
+(REsp n. 2.067.458/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/6/2024, DJe de 11/6/2024 - g. n.)
+Por fim, o apelo tampouco merece acolhida quanto à invocada ofensa aos arts. 884 e 944, parágrafo único, do Código Civil, referente à pretensão de reduzir o valor da indenização a título de danos morais.
+Como sabido, a jurisprudência desta eg. Corte, a pretensão de revisar o valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; no entanto, afasta-se o referido óbice em hipóteses excepcionais, quando for verificada a natureza exorbitante ou irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. USO INDEVIDO DE IMAGEM. PROPAGANDA. OBTENÇÃO DE LUCRO. NÃO CARACTERIZAÇÃO DE BRINDE. REEXAME DE PROVAS. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.855.642/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022 - g. n.)
+No caso, o quantum fixado a título de indenização por danos morais - R$ 10.000,00 (dez mil reais) - para cada um dos dois autores, ora Agravados, não se mostra exorbitante, sendo igual a valores já chancelados por esta eg. Corte em casos assemelhados. A propósito, confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. ENTREGA DE OBRA. ATRASO EXCESSIVO. DANOS MORAIS CONFIGURADOS. SÚMULA N. 83 DO STJ. AGRAVO DESPROVIDO.
+1. A ausência de enfrentamento da matéria pelo tribunal de origem impede o acesso do recurso à instância especial, porquanto não preenchido o requisito do prequestionamento.
+2. O mero inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável.
+Nada obstante, se se trata de longo período de atraso, como no caso de mais de dois anos, pode ensejar o reconhecimento de dano extrapatrimonial.
+3. Agravo interno provido em parte para se conhecer em parte do recurso especial e negar-lhe provimento."
+(AgInt nos EDcl no AREsp n. 2.356.797/BA, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DA OBRA. MORA. TERMO FINAL. SÚMULAS 283 E 284/STF. POSSIBILIDADE DE COMPENSAÇÃO. SÚMULAS 283 E 284/STF. DESPESAS CONDOMINIAIS. PERÍODO ANTERIOR À IMISSÃO NA POSSE. RESPONSABILIDADE DOS PROMISSÁRIOS-VENDEDORES. SÚMULA 83/STJ. DANOS MORAIS CONFIGURADOS. SÚMULA 83 DO STJ. VALOR DA CONDENAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+(..)
+4. No caso dos autos, a fixação do dano moral encontra-se justificada, tendo a Corte estadual destacado que o atraso excessivo na entrega do bem imóvel destinado à moradia, após 12 (doze) meses da data prevista, lesou direito extrapatrimonial dos recorridos.
+5. No caso, não se mostra exorbitante o montante estabelecido pelo Tribunal estadual em R$ 10.000,00 (dez mil reais), visto não ser desproporcional aos danos sofridos pela parte recorrida, em razão do atraso de mais de 12 (doze) meses na entrega do imóvel em questão.
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.060.672/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023 - g. n.)
+Assim sendo, inexistindo a aludida excepcionalidade, o apelo nobre encontra óbice na Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, §11, do CPC/15, majoram-se os honorários advocatícios recursais de 10% (dez por cento) sobre o valor atribuído à causa para 11% (onze por cento) sobre o valor atribuído à causa.
+É o voto.
