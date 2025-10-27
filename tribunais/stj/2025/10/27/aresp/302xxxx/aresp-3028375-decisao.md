@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional de Colonização e Reforma Agrária - Incra contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 83):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CÁLCULOS CONTADORIA. INCIDÊNCIA DE JUROS ATÉ O EFETIVO PAGAMENTO. DESCABIMENTO.
+1. Embora o contador tenha reconhecido o equívoco em relação à dedução do percentual retirado da execução, diante da reiterada afirmação da executada de que os cálculos continuam incorretos em relação ao percentual deduzido dos juros compensatórios, a questão não restou suficientemente esclarecida nos autos.
+2. Deve ser observado o entendimento firmado no âmbito do STF, no sentido de que são incabíveis os juros de mora durante o prazo previsto na Constituição Federal para o pagamento do precatório, a menos que os valores constantes nas requisições não tenham sido adimplidos no prazo constitucional.
+Opostos embargos de declaração, foram rejeitados (fls. 138/140).
+Nas razões do recurso especial, o Incra aponta violação aos arts. 489 e 1.022 do CPC. Para tanto, argumenta que o aresto integrativo deveria ser anulado, porque não teria sando vício indicado nos aclaratórios.
+O MPF emitiu parecer (fls. 223/230), em que opinou pelo conhecimento do agravo para dar provimento ao recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega que, ao acolher o cálculo da Contadoria Judicial, que utilizou a regra prevista no art. 354 do CC, a decisão homologatória analisou a aplicabilidade do referido dispositivo legal; além disso, defende que os consectários legais constituem matéria de ordem pública e, portanto, devem ser conhecidos de ofício em qualquer grau de jurisdição.
+A propósito, cumpre registrar que a jurisprudência deste Tribunal Superior assevera que, "somente com a homologação é que surge a oportunidade de questionar a decisão em segunda instância, não havendo que se falar em preclusão consumativa, uma vez ainda ser cabível esse meio de impugnação via instrumento, até porque este recurso possui efeito regressivo, admitindo a retratação do juízo originário" (AgInt no AREsp n. 2.325.197/MA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/9/2024, DJe de 2/10/2024).
+De igual forma, este STJ entende que "as matérias de ordem pública (e.g. prescrição, decadência, condições da ação, pressupostos processuais, consectários legais, incompetência absoluta, impenhorabilidade, etc) não se sujeitam à preclusão, podendo/devendo ser apreciadas a qualquer momento e de ofício nas instâncias ordinárias" (REsp 1.809.145/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/5/2020, DJe de 27/5/2020).
+Contudo, o Tribunal de origem quedou silente sobre tais argumentações e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial por violação dos arts. 489 e 1.022 do CPC. Por conseguinte, determino o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração, desta feita com expresso enfrentamento da questão omitida.
+Publique-se.
+ EMENTA
