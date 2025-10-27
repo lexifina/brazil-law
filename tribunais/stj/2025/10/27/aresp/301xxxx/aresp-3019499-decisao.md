@@ -1,0 +1,38 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 743/746, in verbis:
+Trata-se de agravo interposto por TATIANE FREITAS DE ALMEIDA contra a decisão proferida pelo Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que negou seguimento ao seu recurso especial, em razão da incidência da Súmula 7 desse e. Superior Tribunal de Justiça (fls. 699/701 e- STJ).
+Eis a ementa do acórdão rechaçado:
+ ..
+No recurso especial, a defesa alega violação ao artigo 1º da Lei nº 9.296/1996 e ao artigo 33, §§ 2º e 3º, do Código Penal. Ao final pugna pela fixação do regime inicial semiaberto (fls. 675/686 e-STJ).
+No agravo, sustenta a inaplicabilidade do óbice ao verbete sumular em questão e reitera os mesmos fundamentos já expostos no apelo especial inadmitido (fls. 706/711 e-STJ).
+Apresentadas as contrarrazões às fls. 717/722 e-STJ.
+Vieram os autos com vista ao Ministério Público Federal para manifestação.
+ ..
+Consta dos autos que TATIANE FREITAS DE ALMEIDA foi condenada à pena de 05 (cinco) anos, 07 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, e 562 (quinhentos e sessenta e dois) dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/06.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da suscitada violação ao disposto no art. 1º da Lei n. 9.296/1996, alega a defesa que o corréu "não autorizou a polícia militar a atender o seu aparelho celular" (e-STJ fl. 682).
+No ponto, consta do acórdão recorrido o seguinte (e-STJ fls. 472/473):
+Ao ser abordado, foram solicitados os documentos e objetos pessoais para averiguação, bem como seu veículo foi vistoriado, diante da fundada suspeita de que algo ilícito ocorria, certo que, durante a diligência, o celular de Sóstenes tocou insistentemente, o que despertou mais suspeitas, mas ele sequer soube informar de quem se tratava, tendo autorizado o atendimento da ligação pelo policial.
+Assim, existindo consentimento do proprietário do aparelho telefônico, não se verifica a alegada ilicitude das provas, lembrando-se que, ao contrário do que disse Sóstenes em Juízo, o celular não foi tomado de sua mão pelo policial, mas, sim, entregue voluntariamente no início da abordagem, tudo em consonância com o primeiro vídeo de fls. 364.
+Conforme se infere dos trechos transcritos, do cotejo entre as alegações constantes do recurso especial e os fundamentos deduzidos pelas instâncias ordinárias, tem-se que, no caso, o acolhimento das teses sustentadas pela defesa exigiria, indiscutivelmente, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Ademais, embora a pena imposta à agravante tenha sido inferior a 8 anos de reclusão, a análise desfavorável de circunstância judicial - maus antecedentes - faz com que o regime fechado seja o adequado para o cumprimento da pena de reclusão, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE ROUBO MAJORADO. DOSIMETRIA DA PENA. PLEITO DE REDUÇÃO DA PENA-BASE. CULPABILIDADE. PREPARAÇÃO PRÉVIA. ESPECIAL REPROVABILIDADE EVIDENCIADA. CIRCUNSTÂNCIAS DO DELITO VALORADAS NEGATIVAMENTE COM BASE NO MODUS OPERANDI. DISPARO DE ARMA DE FOGO. FUNDAMENTO VÁLIDO. PERSONALIDADE. INEXISTÊNCIA DE CONDENAÇÃO DEFINITIVA. IMPOSSIBILIDADE. SÚMULA 444/STJ. PRESENÇA DE DUAS MAJORANTES. FALTA DE FUNDAMENTAÇÃO PARA JUSTIFICAR A EXASPERAÇÃO DA PENA ALÉM DA FRAÇÃO MÍNIMA LEGAL. CRITÉRIO MATEMÁTICO. INCIDÊNCIA DA SÚMULA 443/STJ. REGIME MAIS GRAVOSO. POSSIBILIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. A teor do entendimento cristalizado na Súmula 443/STJ: o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+6. Não há qualquer ilegalidade na imposição do regime fechado ao réu primário cuja pena-base foi fixada acima do mínimo legal, ante o reconhecimento de circunstâncias judiciais desfavoráveis.
+7. Habeas corpus não conhecido. Ordem concedida de ofício apenas para reduzir as penas a 6 anos e 8 meses de reclusão e 18 dias-multa. (HC 199.609/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/6/2015, DJe 3/8/2015, grifei.)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS NEGATIVAS. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ATENUANTE DA MENORIDADE. REDUÇÃO DA PENA EM FRAÇÃO INFERIOR A 1/6 SEM FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REGIME INICIAL FECHADO. PENA-BASE ACIMA DO MÍNIMO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.  ..
+- Uma vez estipulada a pena-base acima do mínimo legal, porquanto presente circunstância judicial desfavorável, o que resultou em pena definitiva superior a quatro anos, não há constrangimento ilegal na fixação de regime inicial fechado.
+- Habeas corpus não conhecido. Ordem concedida de ofício para reduzir as penas aplicadas ao paciente para 6 anos, 5 meses e 23 dias de reclusão, e 18 dias-multa. (HC 356.632/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/6/2016, DJe 1º/8/2016, grifei.)
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. PROVA DA MENORIDADE E DETRAÇÃO PENAL. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CORRUPÇÃO DE MENORES. PROVA DA EFETIVA CORRUPÇÃO DO INIMPUTÁVEL. DESNECESSIDADE. DELITO FORMAL. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL NEGATIVA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA PARTE, DENEGADO.
+1. As alegações de falta de comprovação da menoridade e de cabimento da detração penal não foram objeto de conhecimento pelo Tribunal de origem, razão pela qual não podem ser apreciadas por este Superior Tribunal, sob pena de indevida supressão de instância.
+2. Conforme entendimento firmado pela 3.ª Seção desta Corte Superior de Justiça, "para a configuração do crime de corrupção de menores (art. 244-B do ECA), não se faz necessária a prova da efetiva corrupção do menor, uma vez que se trata de delito formal" (REsp 1.127.954/DF, TERCEIRA SEÇÃO, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 01/02/2012).
+3. Considerando-se que a pena-base foi fixada acima do mínimo legal, porque reconhecida circunstância judicial desfavorável aos Condenados, tem-se por justificada a imposição de regime prisional mais gravoso, a teor do disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal. Não ocorrência de bis in idem.
+4. Habeas corpus parcialmente conhecido e, nessa parte, denegado. (HC 462.055/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/12/2018, DJe 19/12/2018, grifei.)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
