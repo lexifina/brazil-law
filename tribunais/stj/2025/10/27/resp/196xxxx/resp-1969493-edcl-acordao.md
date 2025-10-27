@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. RESPONSABILIDADE TRIBUTÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. O acolhimento da pretensão recursal que se baseia na ausência de configuração de uma das hipóteses de responsabilidade tributária na forma do art. 135 do CTN implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial.
+3 . Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOÃO EDUARDO RAMALHO contra o acórdão da PRIMEIRA TURMA assim ementado (fl. 2.305):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. CRÉDITO TRIBUTÁRIO. DECADÊNCIA. NÃO OCORRÊNCIA. RESPONSABILIDADE TRIBUTÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. PROVIMENTO NEGADO. 1. Na hipótese dos autos, o Tribunal de origem consignou expressamente que não houve declaração de débito ou pagamento antecipado pelo contribuinte, de modo que não há que se falar em decadência para constituição do crédito tributário nos termos do art. 173 do CTN. Concluiu ainda que a parte recorrente não apresentou prova suficiente para afastar a sua responsabilidade pela dívida da sociedade executada. 2. O acolhimento da pretensão recursal que se baseia na constituição do crédito tributário pelo pagamento antecipado a ensejar a incidência da regra do art. 150, § 4º, do CTN, além da ausência de configuração de uma das hipóteses de responsabilidade tributária na forma do art. 135 do CTN, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial. 3. Agravo interno a que se nega provimento.
+A parte recorrente alega que houve omissão quanto aos requisitos de responsabilização pessoal do art. 135, II, do Código Tributário Nacional (CTN), notadamente a necessidade de demonstração de excesso de poderes e dolo, afirmando que o acórdão teria presumido que a mera ausência de emissão de notas fiscais configuraria infração legal suficiente à responsabilização, sem examinar se o embargante detinha poderes de gestão ou atuou dolosamente.
+Narra que não exercia gerência, não possuía poderes irrestritos e não há provas ou indícios, no processo administrativo, de abuso de poder ou intenção de fraudar o Fisco; para corroborar, lista pareceres e decisões administrativas que, segundo afirma, reconheceriam a ausência de responsabilidade do embargante .
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa não apresentou impugnação (fl. 2.340).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. RESPONSABILIDADE TRIBUTÁRIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. O acolhimento da pretensão recursal que se baseia na ausência de configuração de uma das hipóteses de responsabilidade tributária na forma do art. 135 do CTN implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial.
+3 . Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 2.313/2.314 ):
+Na hipótese em análise, o Tribunal de origem concluiu que a parte recorrente exercia a função de preposto, e não de simples funcionário. Consignou, ainda, que o caso dos autos se enquadra nas hipóteses previstas no art. 135 do CTN porque foi comprovada a ausência de emissão de nota fiscal em várias operações envolvendo valores elevados, o que denota a ocorrência de fraude, e a parte recorrente não apresentou prova suficiente para afastar a sua responsabilidade.
+Entendimento diverso, conforme pretendido, notadamente quanto à configuração de uma das hipóteses do art. 135 do CTN pela prática de ato ilícito, implicaria o reexame do contexto fático-probatório dos autos. Incide, portanto, o óbice da Súmula 7/STJ.
+A propósito, cito o julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE DA PESSOA JURÍDICA. JURISPRUDÊNCIA. CONFORMIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência da Primeira Turma do Superior Tribunal de Justiça, a instauração do incidente de desconsideração da personalidade jurídica - IDPJ, em sede de execução fiscal, para a cobrança de crédito tributário, revela-se excepcionalmente cabível diante da: (i) relação de complementariedade entre a LEF e o CPC/2015, e não de especialidade excludente; e (ii) previsão expressa do art. 134 do CPC quanto ao cabimento do incidente nas execuções fundadas em títulos executivos extrajudiciais.
+2. O IDPJ mostra-se viável quando uma das partes na ação executiva pretende que o crédito seja cobrado de quem não figure na CDA e não exista demonstração efetiva da responsabilidade tributária em sentido estrito, assim entendida aquela fundada nos arts. 134 e 135 do CTN (REsp 1.804.913/RJ, rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 1º/09/2020, DJe 02/10/2020). Incidência da Súmula 83 do STJ.
+2. O Tribunal a quo, soberano na apreciação das provas carreadas aos autos concluiu que restou configurada a confusão patrimonial e o desvio de finalidade no incidente de desconsideração da personalidade jurídica. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.041.619/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2023, DJe de 1º/9/2023.)
+A respeito da questão apontada no recurso ora examinado, a PRIMEIRA TURMA resolveu que a configuração das hipóteses do art. 135 do CTN demanda reexame fático-probatório, o que impede o conhecimento do recurso especial, à luz da Súmula 7 do STJ.
+Ao contrário do alegado pela parte recorrente, o acórdão embargado não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante denota inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
