@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por Thiago Luiz Candido, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 1509851-18.2022.8.26.0228 (fls. 174/181).
+Apontou o recorrente que o acórdão negou vigência do art. 67 do CP, ao deixar de proceder à compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência. Além disso, sustentou a negativa de vigência do art. 33, § 4º, da Lei n. 11.343/2006, pelo fato de que a causa de diminuição de pena não foi reconhecida.
+Ao final da peça recursal, requereu o provimento do recurso, com a compensação integral entre a agravante da reincidência e a atenuante da confissão espontânea, bem assim a diminuição da pena no patamar de 2/3 pela incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 (fl. 215).
+Oferecidas contrarrazões (fls. 220/223), o recurso especial foi parcialmente admitido na origem (fl. 227).
+A Procuradoria-Geral da República opinou pelo provimento parcial do recurso (fls. 236/240).
+É o relatório.
+A insurgência comporta parcial acolhimento.
+No que se refere à compensação de atenuantes e agravantes, o Tribunal a quo assim se manifestou em sede de embargos de declaração (fls. 197/198):
+ ..
+Não há que se falar em compensação da reincidência com a confissão.
+Ainda que o Superior Tribunal de Justiça tenha se pronunciado, com caráter geral, sobre a prevalência da atenuante da confissão em relação à agravante da reincidência (Recurso Especial Repetitivo nº 1.341.370/MT, rel. Min. Sebastião Reis Júnior, 3ª Seção, j. em 10.04.2013), o Supremo Tribunal Federal, por suas duas Turmas, tomou posição contrária àquele posicionamento dando, pois, por prejudicada aquela tese (já que Supremo é mais que Superior!) , como se vê do: 1. HC nº 105.543- MS, rel. Min. Luís Roberto Barroso, 1ª T., j. em 29.04.2014: "1. O acórdão impugnado está em conformidade com a jurisprudência de ambas as Turmas do Supremo Tribunal Federal, no sentido de que, a teor do art. 67 do Código Penal, "a agravante da reincidência prepondera sobre a atenuante da confissão espontânea, razão pela qual é inviável a compensação pleiteada " (RHC 110.727, Rel. Min. Dias Toffoli)"; 2. RHC nº 120.677-SP, rel. Min. Ricardo Lewandowski, 2ª T., j. em 18.03.2004: "II Nos termos do art. 67 do Código Penal, no concurso de atenuantes e agravantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes. No caso sob exame, a agravante da reincidência prepondera sobre a atenuante da confissão espontânea, razão pela qual é inviável a compensação pleiteada. Precedentes".
+Ante o exposto, acolhem-se os embargos para alterar o fundamento exposto no Acórdão, ficando afastada a compensação entre a reincidência e a confissão, sem, contudo, alteração do resultado final do Julgado.
+ ..
+Sobre o tema, esta Corte Superior de Justiça fixou a seguinte tese, ao julgar o REsp n. 1.931.145/SP, sob o rito dos recursos especiais repetitivos, atualizando o Tema STJ n. 585: é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade (grifo nosso).
+No caso, embora a Corte de origem tenha reconhecido a confissão espontânea, deixou de compensá-la com a agravante da reincidência, por considerá-la preponderante e, ainda, por ser específica.
+Por conseguinte, compenso a agravante da reincidência com a atenuante da confissão, perfazendo uma pena de 5 anos e 10 meses de reclusão, e 583 dias-multa.
+De outro lado, malgrado a compensação entre a confissão espontânea e a reincidência, a agravante consta expressamente no art. 33, § 4º, da Lei n. 11.343/2006 como impeditivo à concessão, na terceira fase da dosimetria, da causa de diminuição de pena.
+Daí que, no ponto, merece soçobrar o recurso defensivo.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especial para compensar a confissão espontânea com a reincidência e redimensionar a pena para 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. VIOLAÇÃO DOS ARTS. 65, III, D, E 67, AMBOS DO CP. COMPENSAÇÃO INTEGRAL ENTRE CONFISSÃO E REINCIDÊNCIA. POSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA IRRELEVANTE. TEMA 585/STJ. VIOLAÇÃO DO ART. 33, § 4º, DA LEI N 11.343/2006. IMPROCEDÊNCIA. REINCIDÊNCIA. BIS IN IDEM. INEXISTÊNCIA.
+Recurso especial parcialmente provido nos termos do dispositivo.
