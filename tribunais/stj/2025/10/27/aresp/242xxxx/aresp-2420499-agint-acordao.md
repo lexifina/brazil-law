@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AÇÃO DE DESPEJO. AÇÃO CIVIL PÚBLICA. SUSPENSÃO DO PROCESSO INDIVIDUAL. TEMA 60/STJ E TEMA 675/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. MERA REITERAÇÃO DAS TESES RECURSAIS.
+1. Nas ações de despejo relacionadas a macrolide objeto de ação civil pública, aplica-se a orientação consolidada nos Temas 60/STJ e 675/STF, que determinam a suspensão das ações individuais no aguardo do julgamento da ação coletiva.
+2. É inviável o agravo interno que se limita a reproduzir os fundamentos do recurso especial, sem impugnar especificamente o principal fundamento da decisão agravada, notadamente a aplicabilidade da jurisprudência consolidada do STJ e STF ao caso concreto.
+3. Incide o óbice da Súmula 182/STJ quando o agravo interno deixa de atacar especificamente os fundamentos da decisão agravada, limitando-se à mera reiteração das teses recursais já analisadas e rejeitadas.
+4. A ausência de argumentos específicos aptos a infirmar os fundamentos da decisão impugnada não autoriza sua reforma, devendo ser mantida integralmente a decisão que suspendeu o processo individual em conformidade com a jurisprudência dominante.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA. contra decisão singular de minha lavra na qual neguei provimento ao agravo em recurso especial por entender que a orientação adotada no acórdão recorrido está em conformidade com as teses fixadas no Tema 675 do Supremo Tribunal Federal e no Tema 60 deste Superior Tribunal de Justiça, segundo as quais as ações individuais são suspensas, no aguardo do julgamento de ação coletiva atinente à macro lide geradora de processos multitudinários.
+Nas razões do presente agravo interno, a parte agravante alega que a decisão agravada incorreu em violação dos artigos 313, § 4º, e 489, § 1º, do Código de Processo Civil.
+Assevera, em síntese, que a suspensão da marcha processual não poderia ocorrer de forma indefinida, gerando convulsão social na Comarca de Arujá. Sustenta, ainda, que o caso não exigiria reexame de provas e que a Súmula 7/STJ não seria aplicável ao caso concreto.
+Contraminuta ao agravo apresentada às fls. 181/186.
+EMENTA
+AGRAVO INTERNO. AÇÃO DE DESPEJO. AÇÃO CIVIL PÚBLICA. SUSPENSÃO DO PROCESSO INDIVIDUAL. TEMA 60/STJ E TEMA 675/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. MERA REITERAÇÃO DAS TESES RECURSAIS.
+1. Nas ações de despejo relacionadas a macrolide objeto de ação civil pública, aplica-se a orientação consolidada nos Temas 60/STJ e 675/STF, que determinam a suspensão das ações individuais no aguardo do julgamento da ação coletiva.
+2. É inviável o agravo interno que se limita a reproduzir os fundamentos do recurso especial, sem impugnar especificamente o principal fundamento da decisão agravada, notadamente a aplicabilidade da jurisprudência consolidada do STJ e STF ao caso concreto.
+3. Incide o óbice da Súmula 182/STJ quando o agravo interno deixa de atacar especificamente os fundamentos da decisão agravada, limitando-se à mera reiteração das teses recursais já analisadas e rejeitadas.
+4. A ausência de argumentos específicos aptos a infirmar os fundamentos da decisão impugnada não autoriza sua reforma, devendo ser mantida integralmente a decisão que suspendeu o processo individual em conformidade com a jurisprudência dominante.
+5. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Trata-se de ação de despejo ajuizada pela agravante em face de Carlos José da Silva e Antônio Desiderio da França, tendo por objeto um imóvel localizado no loteamento Parque Rodrigo Barreto.
+A decisão de primeiro grau determinou a suspensão do processo em razão de decisão proferida na Ação Civil Pública nº 0003769-81.2000.8.26.0045.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto pela agravante, mantendo a suspensão determinada, nos seguintes termos:
+"Em que pese os argumentos da agravante, a liminar que suspendeu o andamento dos processos não fez distinção quanto ao tipo de lote, sua dimensão ou apresentou restrição quanto aos lotes que deveriam ser considerados, sendo geral a determinação de suspensão do andamento dos processos. Ademais, eventual inconformismo com a suspensão das ações deverá ser apresentado naqueles autos" (fls. 38).
+Como constou na decisão agravada, a orientação adotada no acórdão recorrido está em conformidade com as teses fixadas no Tema 675 do Supremo Tribunal Federal, em sede de repercussão geral, e no Tema 60 deste Superior Tribunal de Justiça, em repetitivo, segundo as quais as ações individuais são suspensas, no aguardo do julgamento de ação coletiva atinente à macro lide geradora de processos multitudinários.
+De início, cumpre observar que a agravante limitou-se a reproduzir os fundamentos do recurso especial, sustentando que o imóvel ocupado pelos agravados não estaria afetado pelo acordo firmado em ACP ajuizada pelo Ministério Público do Estado de São Paulo e a Imobiliária Continental Ltda., ora agravante.
+As premissas fáticas estabelecidas pela Corte local apontam no sentido de que o imóvel dos agravados está situado no Parque Rodrigo Barreto e que a decisão de primeiro grau na Ação Civil Pública de nº. 0003769-81.2000.8.26.0045 foi genérica ao determinar a suspensão de todas as ações em curso em que a agravante figure como parte e cujo objeto fosse lote de imóvel situado no mencionado loteamento, na cidade de Arujá/SP, reafirme-se, sem qualquer restrição (fls. 16/18). Confira-se:
+ ..  o Ministério Público local manifestou-se pela execução do acordo nestes autos, pleiteando diversas providências (fls. 5442/5443).
+ ..
+Inegável a preferência do cumprimento coletivo em detrimento do individual, justamente em razão do alcance da situação fática, em atendimento aos princípios da eficiência e efetividade, como inclusive constou expressamente na manifestação do Procurador Geral do Ministério Público (fls. 5423/5436). Assim, recebo o pedido de cumprimento de sentença, inaugurando-se a fase de liquidação.
+ ..
+Considerando a evidente questão prejudicial instalada (interna e externa), que pode repercutir sobre o mérito de outras causas em trâmite perante este juízo e fora dele, principalmente porque não é possível determinar, ao menos neste momento, quem são os beneficiários do acordo homologado nestes autos e quais lotes por eles são ocupados, o que pode ocasionar decisões e sentenças conflitantes, a teor do quanto disposto no inciso V do artigo 313, alínea a e b, do CPC, determino a suspensão da marcha processual dos feitos em que a executada figura como parte, especificamente as ações de despejo, reintegração de posse e reivindicatórias, cujo objeto seja lote de imóvel localizado no Parque Rodrigo Barreto.
+Por outro lado, a parte agravante não se manifestou sobre a orientação jurisprudencial consolidada desta Corte Superior e do Supremo Tribunal Federal acerca da suspensão de ações individuais quando há ação coletiva em tramitação sobre a mesma matéria.
+Nesse aspecto, aplica-se o enunciado da Súmula 182/STJ: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ademais, ainda que assim não fosse, o agravante não trouxe argumentos específicos capazes de infirmar os fundamentos da decisão agravada, limitando-se a repetir as razões já analisadas e rejeitadas na decisão singular, que se encontra em perfeita sintonia com a jurisprudência dominante desta Corte Superior. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. MACROLIDE. SUSPENSÃO DAS AÇÕES INDIVIDUAIS. 1. O entendimento firmado na origem está em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que, conforme o Tema 60/STJ, "ajuizada ação coletiva atinente a macro lide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva". Incidência da Súmula 83/STJ. 2. Agravo interno desprovido. (AgInt no AREsp n. 2.609.484/AL, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+A mera reiteração das teses recursais, sem o devido enfrentamento dos óbices processuais apontados, não se presta a ensejar a reforma da decisão impugnada.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
