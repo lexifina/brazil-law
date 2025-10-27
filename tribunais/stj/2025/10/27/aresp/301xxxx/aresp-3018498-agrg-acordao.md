@@ -1,0 +1,114 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Posse de arma de fogo com numeração suprimida. Estado de necessidade. Desclassificação do delito. Agravo IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para, em parte, negar provimento ao recurso especial, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ.
+2. A parte agravante sustenta que mantinha arma de fogo com numeração suprimida em razão de ameaças, pleiteando o reconhecimento do estado de necessidade. Requer, ainda, a desclassificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 para o art. 14 do mesmo diploma, alegando ausência de dolo específico.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o estado de necessidade pode ser reconhecido na posse de arma de fogo com numeração suprimida, diante de alegações de ameaças; e (ii) saber se é cabível a desclassificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 para o art. 14 do mesmo diploma, em razão da alegada ausência de dolo específico.
+III. Razões de decidir
+4. O estado de necessidade não se caracteriza na ausência de perigo atual e iminente, conforme previsto no art. 24 do Código Penal. A alegação de posse de arma para defesa contra ameaças futuras não configura perigo atual, sendo insuficiente para justificar a prática delitiva.
+5. A tipificação do delito do art. 16, § 1º, IV, da Lei nº 10.826/2003 não exige dolo específico, tratando-se de crime de perigo abstrato. Basta que o agente tenha ciência da posse de arma com numeração suprimida, o que foi comprovado nos autos.
+6. A desclassificação do crime para o art. 14 da Lei nº 10.826/2003 não é cabível, pois a conduta de portar arma com numeração suprimida é autônoma e prevista expressamente no art. 16, § 1º, IV, do referido diploma legal. A tipificação do delito de posse ou porte ilegal de arma de fogo de uso restrito não se limita ao calibre do armamento, abrangendo também a sua regular identificação, especialmente no que se refere à integridade da numeração de série.
+7. A revisão do julgado demandaria reexame de provas, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O estado de necessidade não se caracteriza na ausência de perigo atual e iminente, sendo insuficiente a alegação de ameaças futuras para justificar a posse de arma de fogo com numeração suprimida.
+2. A tipificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 não exige dolo específico, bastando a ciência da posse de arma em condições irregulares.
+Dispositivos relevantes citados: CP, art. 24; Lei nº 10.826/2003, art. 16, § 1º, IV; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.347.502/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 09.04.2024; STJ, AgRg no HC 515.612/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 26.05.2020; STJ, REsp 1.036.597/RJ, Rel. Min. Felix Fischer, Quinta Turma, julgado em 21.08.2008.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PEDRO KUERTEN contra decisão monocrática que, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negou-lhe provimento (fls. 311-317).
+A parte agravante aduz, em síntese, não ser hipótese de incidência da Súmula 7/STJ. Sustenta que "restou comprovado que o Agravante, proprietário da boate Castelinho Night Club, em Criciúma/SC, mantinha o armamento em razão de ameaças graves e reiteradas por parte de frequentadores do estabelecimento" (fl. 327), razão pela qual deve ser reconhecido o estado de necessidade. Acrescenta ser necessária a "desclassificação do crime do artigo 16, § 1º, inciso IV, da Lei n. 10.826/2003 para o artigo 14 do mesmo diploma, por ausência de dolo específico em portar arma raspada" (fl. 328).
+Pede, ao final, o provimento deste agravo regimental, para que o recurso especial seja conhecido e provido.
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental NO AGRAVO EM RECURSO ESPECIAL. Posse de arma de fogo com numeração suprimida. Estado de necessidade. Desclassificação do delito. Agravo IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para, em parte, negar provimento ao recurso especial, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ.
+2. A parte agravante sustenta que mantinha arma de fogo com numeração suprimida em razão de ameaças, pleiteando o reconhecimento do estado de necessidade. Requer, ainda, a desclassificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 para o art. 14 do mesmo diploma, alegando ausência de dolo específico.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se o estado de necessidade pode ser reconhecido na posse de arma de fogo com numeração suprimida, diante de alegações de ameaças; e (ii) saber se é cabível a desclassificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 para o art. 14 do mesmo diploma, em razão da alegada ausência de dolo específico.
+III. Razões de decidir
+4. O estado de necessidade não se caracteriza na ausência de perigo atual e iminente, conforme previsto no art. 24 do Código Penal. A alegação de posse de arma para defesa contra ameaças futuras não configura perigo atual, sendo insuficiente para justificar a prática delitiva.
+5. A tipificação do delito do art. 16, § 1º, IV, da Lei nº 10.826/2003 não exige dolo específico, tratando-se de crime de perigo abstrato. Basta que o agente tenha ciência da posse de arma com numeração suprimida, o que foi comprovado nos autos.
+6. A desclassificação do crime para o art. 14 da Lei nº 10.826/2003 não é cabível, pois a conduta de portar arma com numeração suprimida é autônoma e prevista expressamente no art. 16, § 1º, IV, do referido diploma legal. A tipificação do delito de posse ou porte ilegal de arma de fogo de uso restrito não se limita ao calibre do armamento, abrangendo também a sua regular identificação, especialmente no que se refere à integridade da numeração de série.
+7. A revisão do julgado demandaria reexame de provas, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O estado de necessidade não se caracteriza na ausência de perigo atual e iminente, sendo insuficiente a alegação de ameaças futuras para justificar a posse de arma de fogo com numeração suprimida.
+2. A tipificação do crime do art. 16, § 1º, IV, da Lei nº 10.826/2003 não exige dolo específico, bastando a ciência da posse de arma em condições irregulares.
+Dispositivos relevantes citados: CP, art. 24; Lei nº 10.826/2003, art. 16, § 1º, IV; Súmula 7/STJ.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.347.502/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 09.04.2024; STJ, AgRg no HC 515.612/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 26.05.2020; STJ, REsp 1.036.597/RJ, Rel. Min. Felix Fischer, Quinta Turma, julgado em 21.08.2008.
+VOTO
+As alegações da parte agravante não são suficientes para alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Como se constatou quando do julgamento monocrático, ao afastar a pretensão desclassificatória e o estado de necessidade, o Tribunal de origem assim se manifestou (fls. 237-239):
+"O réu almeja sua absolvição pelo reconhecimento da excludente de ilicitude por estado de necessidade, já que adquiriu a arma para proteção pessoal, com o propósito de proteger sua vida ao ataque de desafetos.
+Contudo, razão não lhe assiste.
+ ..
+Logo, para o seu reconhecimento, imperioso que haja perigo atual ou, ainda, que de outra forma não possa ele ser evitado, o que não ocorreu no caso dos autos.
+Isso porque a alegação de que possuía o armamento para se defender de possível ataque contra a sua vida não pode ser considerada como perigo atual. Para tanto, o réu poderia ter tentado adquirir a arma de fogo dentro dos limites estabelecidos pela lei. Entretanto, o réu preferiu manter a arma de fogo sem registro, e mais, valendo-se de armamento com numeração suprimida, o que caracteriza o crime pelo qual foi condenado.
+Portanto, deve ser afastada a tese de estado de necessidade e, por conseguinte, sua absolvição.
+ ..
+Com efeito, a tipificação do delito de posse ou porte ilegal de arma de fogo de uso restrito não decorre exclusivamente do calibre do armamento, mas também de sua regularidade identificadora. A impossibilidade de rastreamento do armamento compromete a fiscalização estatal e aumenta o risco de sua utilização para fins criminosos, razão pela qual a Lei n. 10.826/2003 estabelece tratamento penal mais gravoso àqueles que portam ou possuem armas de fogo nessas condições.
+ ..
+Ademais, ao manter a posse da arma de fogo com numeração suprimida, o apelante assumiu o risco de incorrer no tipo penal descrito no art. 16, parágrafo único, IV, da Lei n. 10.826/2003. A ausência de dolo específico para portar armamento de uso restrito não exclui a tipicidade da conduta, uma vez que se trata de crime de perigo abstrato, bastando que o agente tenha consciência da posse da arma em condições irregulares.
+No caso dos autos, restou comprovado que o apelante tinha ciência da posse da arma com a numeração suprimida e, ainda assim, optou por mantê-la sob sua guarda. A legislação é expressa ao considerar criminosa a detenção de arma de fogo cuja identificação tenha sido removida, independentemente da autoria da adulteração. Diante disso, é inviável a desclassificação pretendida, pois a conduta do recorrente amolda-se perfeitamente à norma incriminadora do art. 16, parágrafo único, IV, da Lei n. 10.826/2003".
+Como se vê, foi ponderado não existir prova de que o réu portava a arma de fogo para se defender de perigo atual ou, ainda, que de outra forma não pudesse ser evitado, de modo que não caracterizado eventual estado de necessidade. Tal compreensão encontra amparo na diretriz desta Corte Superior de que o estado de necessidade não se caracteriza na ausência de perigo atual e iminente à pessoa do réu, requisito essencial para o reconhecimento da excludente de ilicitude. A simples alegação de que possuía o armamento para se defender de eventual ameaça contra sua vida, por si só, não justifica a prática de conduta delituosa. A propósito:
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES AMBIENTAIS. ARTIGOS 2º DA LEI N. 8.176/1991 E 55 E 38-A, DA LEI N. 9.605/1998. TESES DE ESTADO DE NECESSIDADE E ERRO DE PROIBIÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. MERA DIFICULDADE FINANCEIRA NÃO JUSTIFICA A PRÁTICA DELITIVA. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "O estado de necessidade não está caracterizado se não esteve presente, em nenhum momento, o perigo atual e iminente para o réu, condição essencial ao reconhecimento da excludente de ilicitude, nos termos do art. 24 do Código Penal. A mera alegação de dificuldade financeira não justifica a prática delitiva" (AgRg no REsp n. 1.591.408/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2016, DJe de 17/6/2016).
+3. Quanto ao erro de proibição, o Tribunal a quo também concluiu que os recorrentes tinham ciência de que operavam sem licença, extraindo recursos minerais pertencentes à União, promovendo desmatamento da vegetação, sendo adequada a condenação pelos delitos dos artigos 2º da Lei n. 8.176/91 e 55 da Lei n. 9.605/98, em concurso formal, e 38-A, também da Lei n. 9.605/98. Sendo assim, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+4. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.347.502/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+Sobre a alegação de ausência de dolo, consta do aresto que o recorrente tinha pleno conhecimento de que a arma de fogo encontrava-se com a numeração suprimida e, ainda assim, decidiu mantê-la sob sua posse.
+Nesse contexto, a inversão do julgado, nos respectivos pontos, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 32, § 2º, DA LEI N. 9.605/1998 (MAUS TRATOS CONTRA ANIMAIS). ALEGADO ESTADO DE NECESSIDADE. SÚMULA N. 7/STJ.
+1. Concluído pelas instâncias ordinárias que o agravante não se encontrava em situação de perigo atual, o pedido de reconhecimento do estado de necessidade defensivo, da forma como colocado, demandaria imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+2. Agravo regimental improvido".
+(AgRg no AREsp n. 1.083.370/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/6/2017, DJe de 1/8/2017.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. EXCLUSÃO DA ILICITUDE. ART. 23, I, DO CP. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Para afastar as conclusões do acórdão e reconhecer o preenchimento dos requisitos do art. 24 do CP, seria imprescindível o reexame de provas, não admitido no recurso especial. Súmula n. 7 do STJ.
+2. A alegação de dificuldades financeiras, por si só, não é idônea a comprovar o estado de necessidade, principalmente se o acórdão registrou que o crime foi praticado durante mais de cinco anos, situação fática incompatível com a tese de perigo atual ou iminente, que os recorrentes não podiam de outro modo evitar.
+3. Agravo regimental não provido".
+(AgRg no AREsp n. 832.864/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2016, DJe de 5/9/2016.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. NULIDADES. BUSCA VEICULAR. IRREGULARIDADE. NÃO OCORRÊNCIA. BUSCA E APREENSÃO DOMICILIAR REALIZADA PELA POLÍCIA MILITAR. POSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DO DELITO. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 7/STJ E 279/STF. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR APENAS UMA PENA RESTRITIVA DE DIREITOS E MULTA. TESE QUE NÃO FOI OBJETO DA APELAÇÃO. PRECLUSÃO. INOVAÇÃO NOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF.
+1. Com relação à busca veicular, sabe-se que esta Corte Superior a equipara à busca pessoal, e o art. 244 do CPP dispõe que "a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar".
+2. Este Tribunal Superior entende que "a realização de busca e apreensão por policiais militares não ofende o artigo 144 da Constituição Federal, não podendo ser acoimada de ilícita a prova que resulte do cumprimento do mandado por referidas autoridades" (RHC n. 55.516/PR, relator Ministro Jorge Mussi, Quinta Turma, julgado em 23/2/2016, DJe de 4/3/2016).
+3. Quanto aos pedidos de absolvição por atipicidade ou reconhecimento de excludente de ilicitude (inexigibilidade de conduta diversa ou estado de necessidade), ou de desclassificação da conduta para porte ilegal de arma de fogo de uso permitido, verificou-se que o Tribunal de origem, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pelo não cabimento de tais pleitos. A mudança da conclusão alcançada no acórdão impugnado exigiria, portanto, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+4. No tocante ao pedido de substituição da pena privativa de liberdade por apenas uma pena restritiva de direitos e multa, verifica-se que a tese ventilada no recurso especial nem sequer foi alegada em apelação, tratando-se de clara inovação recursal, conforme observado pelo Tribunal de origem, no julgamento dos embargos de declaração.
+5. Consoante reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+6. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.531.754/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/10/2024, DJe de 28/10/2024.)
+As próprias razões deste agravo regimental confirmam tal conclusão, já que não indicam nenhum excerto do acórdão recorrido que, reconhecendo fatos incontroversos, permitisse a este STJ concluir pela inocorrência do crime.
+Em relação à tese desclassificatória, não assiste razão ao pleito defensivo. O simples fato de portar ou manter em sua posse arma de fogo com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, é suficiente para caracterização do crime inserto no art. 16, parágrafo único, IV, da Lei 10.826/2003. Isso porque a tipificação do delito de posse ou porte ilegal de arma de fogo de uso restrito não se limita ao calibre do armamento, abrangendo também a sua regular identificação, especialmente no que se refere à integridade da numeração de série. A propósito:
+"DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. POSSE DE ARMA DE USO RESTRITO COM NUMERAÇÃO SUPRIMIDA. AGRAVO REGIMENTAL. HABEAS CORPUS. BUSCA DOMICILIAR. TRÂNSITO EM JULGADO ANTERIOR A 2021. IMPOSSIBILIDADE DE APLICAÇÃO DE NOVO ENTENDIMENTO JURISPRUDENCIAL DE FORMA RETROATIVA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DESCLASSIFICAÇÃO DE CRIME. DESNECESSIDADE. RÉU CONDENADO PELO ART. 16, DA LEI N. 10.286/2003. CRIME QUE TIPIFICA AS CONDUTAS DE POSSUIR E PORTAR. AGRAVO DESPROVIDO.
+ ..
+4. A questão em discussão consiste em saber se há nulidade na busca domiciliar realizada com autorização da corré e se é possível a desclassificação do crime do art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003, para o crime do art. 16, caput, da mesma Lei.
+III. Razões de decidir
+5. Não se verifica flagrante ilegalidade na busca domiciliar, pois o ingresso ocorreu com autorização da corré e em cumprimento de mandado de busca e apreensão.
+6. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza a revisão criminal, sob pena de violação à segurança jurídica.
+7. A desclassificação do crime não é cabível, pois a arma apreendida possuía sinal de identificação adulterado, conforme tipificado no art. 16, parágrafo único, inciso IV, da Lei n. 10.286/2003.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. Não há nulidade na busca domiciliar realizada com autorização da corré e em cumprimento de mandado de busca e apreensão. 2. A alteração de entendimento jurisprudencial posterior ao trânsito em julgado não autoriza revisão criminal. 3. A desclassificação do crime de posse de arma de fogo de uso restrito para posse de arma de fogo de uso permitido não é cabível quando a arma possui sinal de identificação adulterado".
+Dispositivos relevantes citados: CR/1988, art. 5º, XI; CPP, art. 303; Lei n. 10.826/2003, art. 16, parágrafo único, inciso IV.
+Jurisprudência relevante citada: STJ, HC 535.063/SP, Rel. Min. Sebastião Reis Junior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, Primeira Turma, julgado em 27.03.2020; STF, AgR no HC 147.210, Rel. Min. Edson Fachin, Segunda Turma, julgado em 30.10.2018".
+(AgRg no HC n. 917.069/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+"PENAL. RECURSO ESPECIAL. ART. 16, INCISO IV, DA LEI Nº 10.826/03. DESCLASSIFICAÇÃO PARA O ART. 12, CAPUT, DA LEI Nº 10.826/03. IMPOSSIBILIDADE. TIPO PENAL AUTÔNOMO. ARMA DE USO PERMITIDO OU RESTRITO. IRRELEVÂNCIA.
+I - Em razão da independência entre as formas típicas descritas no caput e no parágrafo único do art. 16 da Lei nº 10.826/03, para a caracterização dos incisos deste parágrafo único, é irrelevante se a arma de fogo, acessório e munição são de uso permitido ou de uso restrito (Precedente do STF).
+II - "Inicialmente, enfatizou-se que, nas condutas descritas no referido inciso, não se exigiria como elementar do tipo a arma ser de uso permitido ou restrito, e que, no caso, a arma seria de uso permitido, tendo sido comprovada a supressão do seu número de série por abrasão." (Informativo nº 494 do Pretório Excelso).
+Recurso provido".
+(REsp n. 1.036.597/RJ, relator Ministro Felix Fischer, Quinta Turma, julgado em 21/8/2008, DJe de 20/10/2008.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO PARA O ART. 14 DO MESMO DIPLOMA. SUBSUNÇÃO. NUMERAÇÃO RASPADA. TIPICIDADE. AGRAVO DESPROVIDO.
+1. "O julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema, inexistindo, portanto, ofensa ao princípio da colegialidade" (AgRg no AREsp n. 1249385/ES, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 4/2/2019).
+2. ""Aquele que está na posse de arma de fogo com numeração raspada tem sua conduta tipificada no art. 16, parágrafo único, IV, da Lei n. 10.826/2003  ..  mesmo que o calibre do armamento corresponda a uma arma de uso permitido" - nesse caso, um revólver calibre 32 (Informativo de jurisprudência n. 0364, REsp. 1.036.597/RJ, Relator Ministro FELIX FISCHER, julgado em 21/08/2008)" (HC n. 322.182/RS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 1º/9/2016, DJe 20/9/2016).
+3. Agravo regimental desprovido".
+(AgRg no HC n. 515.612/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/5/2020, DJe de 3/6/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
