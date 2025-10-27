@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. furto. Princípio da insignificância. Habitualidade delitiva. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do réu por furto, com base na inaplicabilidade do princípio da insignificância.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a habitualidade delitiva afasta a aplicação do princípio da insignificância.
+III. Razões de decidir
+3. A habitualidade delitiva do agravante, evidenciada pela reincidência e pela existência de outras ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+4. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: CP, art. 155; RISTJ, art. 253, parágrafo único, inciso II, alínea "a".
+Jurisprudência relevante citada: STF, HC 84.412/SP, Rel. Ministro Celso de Mello, Segunda Turma, DJ 19/11/20; STJ, AgRg no AgRg na PET no HC n. 925.166/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/3/2025; STJ, REsp n. 2.069.452/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJe 25/2/2025; STJ, AgRg no AREsp n. 2.792.662/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DLe 17/2/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LAEL MODESTO DE SOUZA em face de decisão por mim proferida, em que conheci do agravo para negar provimento ao recurso especial.
+A Defesa requer a reforma do acórdão para reconhecer a aplicação do princípio da insignificância em relação ao crime de furto. Aduz que "o valor do bem furtado é irrelevante para a máquina estatal, de modo que não há lesão ao bem jurídico tutelado e a conduta do agente não é passível de ser protegida pelo Direito Penal." (e-STJ, fl. 399)
+Defende que "tanto a reincidência quanto os maus antecedentes são elementos estranhos à tipicidade, sendo circunstâncias que afetam a individualização da pena, ao contrário do princípio da insignificância, que exclui a tipicidade material da conduta". (e-STJ, fl. 400)
+Assim, postula a reconsideração da decisão monocrática ou que submeta este Agravo Regimental à apreciação da Turma.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental no agravo em recurso especial. furto. Princípio da insignificância. Habitualidade delitiva. Agravo regimental improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do réu por furto, com base na inaplicabilidade do princípio da insignificância.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a habitualidade delitiva afasta a aplicação do princípio da insignificância.
+III. Razões de decidir
+3. A habitualidade delitiva do agravante, evidenciada pela reincidência e pela existência de outras ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+4. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese
+5. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: CP, art. 155; RISTJ, art. 253, parágrafo único, inciso II, alínea "a".
+Jurisprudência relevante citada: STF, HC 84.412/SP, Rel. Ministro Celso de Mello, Segunda Turma, DJ 19/11/20; STJ, AgRg no AgRg na PET no HC n. 925.166/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/3/2025; STJ, REsp n. 2.069.452/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJe 25/2/2025; STJ, AgRg no AREsp n. 2.792.662/MG, relator Ministro Messod Azulay Neto, Quinta Turma, DLe 17/2/2025.
+VOTO
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar a decisão agravada, motivo pelo qual a mantenho por seus próprios fundamentos
+No tocante ao pedido de aplicação do princípio da insignificância, assim se manifestou a Corte de origem:
+"A divergência instaurada no bojo do v. acórdão ora embargado, e causadora do presente recurso, cinge-se à possibilidade ou não de incidência do princípio da insignificância, para afastar a tipicidade material da conduta e, assim, absolver o acusado.
+Analisando os autos, pedindo redobrada venia ao eminente Desembargador que prolatou o voto minoritário, entendo que os votos majoritários deram deslinde adequado à questão, ao reconhecerem a configuração da tipicidade material da conduta, eis que, in casu, não se aplicaria o princípio da insignificância.
+Isto porque a aplicação do aludido princípio depende de quatro requisitos: a mínima ofensividade da conduta do agente; a nenhuma periculosidade social da ação; o reduzidíssimo grau de reprovabilidade do comportamento; e a inexpressividade da lesão jurídica provocada.
+ ..
+Nesse contexto, insta destacar, em primeiro lugar, que não obstante o baixo valor da res furtiva, uma garrafa de vinho (R$26,80), sua recuperação pela vítima (Termo de Restituição, Ap.001, ordem 19) não interfere na tipicidade da conduta, mas influi tão somente na dosimetria da pena, no tópico atinente às consequências do delito.
+Outrossim, a conduta foi perpetrada por indivíduo que ostenta maus antecedentes e é reincidente específico, registrando, assim, apontamentos delitivos, conforme documentação juntada aos autos, o que não recomenda a aplicação do referido princípio, porque definitivamente não contribuiria para a sua ressocialização, eis que, nessa circunstância, apenas o instigaria ao cometimento de novos delitos, sob o manto da impunidade.
+De fato, trata-se de acusado com vida pregressa fortemente maculada, apresentando condenações anteriores definitivas, duas delas inclusive pelos crimes da mesma natureza, o que revela a contumácia do réu, mormente em face do desrespeito ao patrimônio alheio. Nesse contexto, absolvê-lo, mesmo diante da comprovação da prática da conduta proscrita, implicaria estímulo desarrazoado à reiteração delitiva, em continuada ofensa aos bens jurídicos alheios.
+Portanto, o crime em tela, em um panorama de reiteração delitiva, não se afigura penalmente insignificante, o que inviabiliza a aplicação do princípio invocado pela defesa. Ante o exposto, considerando a reincidência do acusado e sua vida pregressa maculada, a conduta perpetrada por Lael Modesto de Souza, em nova agressão ao patrimônio alheio, possui inegável gravidade e, por corolário, mostra-se penalmente relevante, razão pela qual rejeito a tese de atipicidade material por incidência do princípio da insignificância." (e-STJ, fls. 287-289)
+O "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+Vale dizer, não basta à caracterização da tipicidade penal a adequação pura e simples do fato à norma abstrata, pois, além dessa correspondência formal, é necessário o exame materialmente valorativo das circunstâncias do caso concreto, a fim de se evidenciar a ocorrência de lesão grave e penalmente relevante ao bem em questão.
+Assim, além dos pressupostos objetivos, idealizados pelo Pretório Excelso, deve estar presente também o requisito subjetivo, indicativo de que o réu não poderá ser um criminoso habitual.
+Conforme registrado pelas instâncias ordinárias, o agravante furtou uma garrafa de vinho avaliada em R$ 26,80, o que poderia ser considerado de pequena monta.
+Entretanto, trata-se que réu com maus antecedentes e reincidente específico.
+Como se sabe, segundo a jurisprudência desta Corte, o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NA PETIÇÃO NO HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA. MULTIRREINCIDENTE EM CRIMES PATRIMONIAIS. REGIME INICIAL SEMIABERTO. RÉU REINCIDENTE. MAUS ANTECEDENTES. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não incide o princípio da insignificância em casos nos quais o réu é habitual na prática de crimes contra o patrimônio.
+Precedentes.
+2. No caso em exame, apesar do valor reduzido do bem furtado, deve ser mantida a decisão que não aplica o princípio da insignificância, pois o acusado tem cinco condenações definitivas pela prática de crimes patrimoniais, situação que denota sua habitualidade na prática delitiva.
+3. Quanto ao regime prisional, o Tribunal de origem fixou o modo semiaberto ao réu, que é reincidente e teve a pena-base fixada acima do mínimo legal. Portanto, não é cabível maior abrandamento do regime, como pretende a defesa, sobretudo porque a Corte local já decidiu de forma benéfica ao acusado.
+4. Agravo regimental não provido."
+(AgRg no AgRg na PET no HC n. 925.166/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+"DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. CRIME DE DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE DELITIVA CONFIGURADA. EXISTÊNCIA DE PROCEDIMENTOS ADMINISTRATIVOS FISCAIS E AÇÕES PENAIS ANTERIORES. RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público Federal contra acórdão do Tribunal Regional Federal da 4ª Região que deu provimento à apelação interposta pela defesa para absolver a ré, Amanda Henrique Roboton, com fundamento no art. 386, inciso III, do Código de Processo Penal, reconhecendo a aplicação do princípio da insignificância no crime de descaminho (art. 334, caput, do Código Penal), em razão do valor dos tributos iludidos (R$ 7.288,15) ser inferior ao parâmetro de R$ 20.000,00 estabelecido na jurisprudência. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão:(i) determinar se a aplicação do princípio da insignificância, no caso concreto, é afastada pela habitualidade delitiva da ré, evidenciada pela existência de múltiplas autuações fiscais e ações penais em curso; e(ii) verificar se o acórdão do Tribunal de origem, ao absolver a recorrida, contrariou a jurisprudência consolidada do Superior Tribunal de Justiça e do Supremo Tribunal Federal sobre o afastamento do princípio da insignificância em casos de reiteração criminosa. III. RAZÕES DE DECIDIR
+3. A habitualidade delitiva da recorrida está configurada pela existência de, pelo menos, três autuações fiscais anteriores e duas ações penais em curso, nas quais é imputada a prática reiterada de descaminho, além de uma condenação em primeiro grau, circunstâncias que evidenciam a contumácia delitiva.
+4. A jurisprudência consolidada do STJ e do STF estabelece que a reiteração de condutas ilícitas, mesmo sem trânsito em julgado de todas as ações, afasta a aplicação do princípio da insignificância, considerando o maior grau de reprovabilidade da conduta e a lesão à ordem tributária.
+5. O entendimento de que a habitualidade delitiva inviabiliza o reconhecimento da atipicidade material no crime de descaminho foi reafirmado em julgados do STJ, inclusive sob a sistemática dos recursos repetitivos (Tema 1218), nos quais se destacou que a contumácia pode ser demonstrada por autuações fiscais ou ações penais pendentes de definitividade, não sendo aplicável o prazo de depuração do art. 64, inciso I, do Código Penal.
+6. No caso concreto, a absolvição da recorrida pelo Tribunal de origem, com base no princípio da insignificância, contraria os precedentes desta Corte, que demandam o afastamento do referido princípio em situações de reiteração criminosa.
+7. Restou comprovado que a recorrida foi autuada pela Receita Federal em, pelo menos, três ocasiões anteriores (16/08/2020, 07/10/2020 e 20/01/2021), além de responder a outras ações penais pelo mesmo delito, evidenciando a habitualidade delitiva e justificando a manutenção da persecução penal. IV. DISPOSITIVO E TESE
+8. Recurso provido."
+(REsp n. 2.069.452/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+"DIREITO PENAL. AGRAVO REGIMENTAL. PRINCÍPIO DA INSIGNIFICÂNCIA. HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação do agravante por furto, com base na inaplicabilidade do princípio da insignificância.
+2. O Tribunal a quo considerou que, apesar do valor da res furtiva ser inferior a 10% do salário mínimo vigente à época dos fatos, a habitualidade delitiva do agravante, evidenciada por diversas ações penais em curso, impede a aplicação do princípio da insignificância.
+II. Questão em discussão3. A questão em discussão consiste em saber se a habitualidade delitiva do agravante afasta a aplicação do princípio da insignificância, mesmo quando o valor da res furtiva é inferior a 10% do salário mínimo vigente à época dos fatos.
+III. Razões de decidir4. A habitualidade delitiva do agravante, evidenciada por diversas ações penais em curso, afasta a aplicação do princípio da insignificância, conforme entendimento pacificado do Superior Tribunal de Justiça.
+5. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância.
+6. O acórdão recorrido está em consonância com os precedentes do Superior Tribunal de Justiça, incidindo o Enunciado Sumular n. 83 do STJ.
+IV. Dispositivo e tese7. Agravo regimental improvido.
+Tese de julgamento: "1. A habitualidade delitiva afasta a aplicação do princípio da insignificância, mesmo quando o valor da res furtiva é inferior a 10% do salário mínimo vigente à época dos fatos. 2. A presença de ações penais em curso e inquéritos policiais em andamento por crimes patrimoniais denota maior reprovabilidade da conduta, inviabilizando a aplicação do princípio da insignificância".
+Dispositivos relevantes citados: RISTJ, art. 253, parágrafo único, inciso II, alínea a. Jurisprudência relevante citada: STJ, AgRg no HC 881.822/SC, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 3/7/2024; STJ, AgRg no AREsp 2.022.596/DF, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 3/10/2022."
+(AgRg no AREsp n. 2.792.662/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Assim, não resta configurada a excepcionalidade apontada nos precedentes deste Superior Tribunal de Justiça, por se tratar de acusado contumaz na prática de delitos, o que afasta o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
