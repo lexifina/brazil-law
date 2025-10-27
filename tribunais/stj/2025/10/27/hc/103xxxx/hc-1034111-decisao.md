@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Eliziana Aparecida Maciel Domingues, condenada pela prática do delito previsto no art. 35, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, além do pagamento de 816 dias-multa (Processo n. 1500207-56.2021.8.26.0270, da 2ª Vara Judicial da Comarca de Itapeva/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+Alega-se que a condenação da paciente se baseou em prova obtida de forma ilícita, em violação dos arts. 157 e 158, ambos do Código de Processo Penal. Sustenta-se que houve desrespeito à cadeia de custódia, uma vez que o celular do corréu, de onde foram extraídas as conversas utilizadas como prova, não foi submetido à perícia técnica (fls. 3/5).
+Requer-se, em liminar e no mérito, a concessão da ordem, para que seja reconhecida a nulidade da prova.
+Liminar indeferida (fls. 733/734).
+Informações  prestadas  (fls.  739/811).
+O  Ministério  Público  Federal  opinou  pela  denegação  da  impetração  (fls.  815/818).
+É  o  relatório.
+Examinando os autos, não se evidencia flagrante ilegalidade apta a justificar a excepcional intervenção desta Corte pela via estreita do habeas corpus.
+De início, o acórdão impugnado registra que a extração de dados do aparelho celular foi autorizada por decisão judicial e que não há indícios objetivos de ruptura da cadeia de custódia. Assenta, ainda, que a condenação não se apoiou exclusivamente nas mensagens, mas em robusto conjunto probatório: apreensão de expressiva quantidade de drogas, relatos detalhados de policiais e investigadores, interceptações e elementos colhidos em diligências, além da própria dinâmica associativa delineada nos autos. Nesse contexto, a ausência de perícia específica no dispositivo - ainda que preferível - não conduz, por si só, à nulidade, ausente demonstração concreta de adulteração, manipulação ou prejuízo (pas de nullité sans grief).
+Ilustrativamente:  HC  n.  470.455/SP,  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  DJe  19/2/2019;  e  RHC  n.  95.408/RJ,  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  DJe  14/2/2019.
+A pretensão defensiva, tal como articulada, demanda reexame aprofundado do acervo fático-probatório para infirmar a higidez da prova, a regularidade da cadeia de custódia e a força convictiva dos depoimentos policiais e demais elementos coligidos. Tal providência é incompatível com a via do habeas corpus, que não se presta à rediscussão de matéria probatória nem à substituição das instâncias ordinárias na valoração de provas.
+Portanto,  não  merece  reforma  o  acórdão  impugnado,  sobretudo  porque  o  acolhimento  da  tese  defensiva  refoge  ao  escopo  do  habeas  corpus,  na  medida  em  que  demanda  a  revisão  do  conjunto  probatório,  o  que  é  inviável  na  via  eleita  (AgRg  no  HC  n.  790.207/SP,  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  DJe  26/4/2023).
+Ressalte-se, ademais, que as instâncias locais apontaram, de forma concreta, a existência de organização criminosa voltada ao tráfico e a divisão de tarefas entre os corréus, inclusive com envolvimento de adolescente (art. 40, VI, da Lei 11.343/2006), circunstâncias que, no plano da autoria e materialidade, reforçam a suficiência do conjunto probatório para a condenação pelo art. 35 da Lei de Drogas. Rever tal conclusão exigiria incursão na moldura fática fixada, providência vedada na espécie.
+Não se verifica, por fim, matéria omitida ou não apreciada pelo Tribunal de origem que demande a intervenção desta Corte, sob pena de supressão de instância. O tema da cadeia de custódia e da licitude da prova foi expressamente enfrentado no acórdão recorrido, com fundamentação idônea.
+Nesse  sentido:  AgRg  no  HC  n.  775.522/PB,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  7/11/2022 e AgRg  no  HC  n.  843.303/SP,  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  20/10/2023.
+Diante  disso,  não  merece  reforma  o  acórdão  impugnado.
+Em  face  do  exposto,  denego  a  ordem.
+Publiq ue  -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. ART. 35 C/C O ART. 40, DA LEI N. 11.343/2006. VI. NULIDADE PROBATÓRIA. ALEGADA QUEBRA DA CADEIA DE CUSTÓDIA POR EXTRAÇÃO DE DADOS DE CELULAR DE CORRÉU SEM PERÍCIA TÉCNICA. INOCORRÊNCIA. EXTRAÇÃO AUTORIZADA JUDICIALMENTE. PROVAS NÃO EXCLUSIVAS DAS MENSAGENS. CONJUNTO PROBATÓRIO ROBUSTO (APREENSÕES, DEPOIMENTOS DE POLICIAIS, DILIGÊNCIAS, INTERCEPTAÇÕES). AUSÊNCIA DE DEMONSTRAÇÃO DE ADULTERAÇÃO OU PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. VIA ESTREITA DO HABEAS CORPUS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL. SUPRESSÃO DE INSTÂNCIA NÃO CONFIGURADA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Ordem  denegada.
