@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por Fundação Petrobras de Seguridade Social  PETROS ao acórdão desta Terceira Turma assim ementado:
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PAGAMENTO DE BENEFÍCIO. DESCADASTRAMENTO DE BENEFICIÁRIO. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. 1. Na hipótese, acolher a tese pleiteada pelo agravante de que o beneficiário teria sido excluído em ato de recadastramento exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ. 2. Agravo conhecido para não conhecer do recurso especial" (e-STJ fl. 492).
+Nas razões dos presentes aclaratórios, a embargante sustenta haver obscuridade no acórdão embargado, pois, ao aplicar os óbices das Súmulas nºs 5 e 7/STJ, teria desconsiderado que a controvérsia seria eminentemente de direito, prescindindo de reexame de provas ou cláusulas contratuais, bastando a análise das premissas fáticas já estabelecidas no acórdão recorrido, notadamente quanto à negativa de pagamento do pecúlio por morte em razão de recadastramento e suposto descadastramento de beneficiários, à luz dos arts. 1º, 18 e 19 da Lei Complementar nº 109/2001 (e-STJ fls. 504/507).
+Impugnação às e-STJ fls. 519/520.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. INTUITO INFRINGENTE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se, desde logo, que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração enumerados no art. 1.022 do Código de Processo Civil: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo obscuridade a ser sanada. Com efeito, a própria argumentação deduzida nas razões dos presentes aclaratórios evidencia tratar-se de mero inconformismo, reiterando questões já sustentadas no recurso especial e expressamente rechaçadas no acórdão embargado.
+Eis, por oportuno, excerto do referido julgado:
+"A controvérsia devolvida se resume a definir se a inclusão do agravado no rol de beneficiários da suplementação de pensão por morte paga pela ora recorrente enseja desequilíbrio atuarial ou enriquecimento ilícito, uma vez que se argumentou a inexistência de beneficiários cadastrados.
+Extrai-se do acórdão recorrido a seguinte fundamentação:
+"Dessa forma, observando-se que, pela análise da certidão de óbito da Participante, Sra. Zilda, acostada às fls. 19, não foram deixados filhos, sendo a falecida divorciada, bem como a idade da obituada (85 anos), presume-se que, de fato, não existam beneficiários enquadrados nos incisos I (cônjuge, filhos menores de 21 anos, companheiro), II (filhos de qualquer condição), e III (pais), do art. 40, acima transcrito, sendo patente a possibilidade de que a ex-funcionária da Petrobrás tenha indicado os Suplicantes, seus sobrinhos, ao recebimento do benefício de pecúlio por morte.
+Tal possibilidade se confirma pela narrativa da própria Apelante, que não nega que os Apelados tenham sido indicados como beneficiários, fundamentando seu recurso em suposta exclusão posteriormente realizada, nos anos de 2015 e 2017, por ocasião dos recadastramentos fomentados pela entidade.
+A Recorrente sustenta sua tese em uma tela sistêmica, supostamente correspondente ao formulário preenchido pela Participante. Frise-se, utiliza-se a expressão "correspondente ao formulário" por se tratar, não do formulário em si, mas de uma síntese deste. Melhor explicando: a Apelante não trouxe exatamente a tela do formulário, com sua formatação, tal como visualizada pela pessoa que o preencheu, não sendo possível, portanto, aferir o nível de complexidade e clareza de informações nele constantes. Cumpre destacar que em 2015 a Srª ZILDA tinha 81 anos de idade e em 2017, 83 anos de idade. Pessoa idosa, presumindo-se sua dificuldade em lidar com preenchimento de formulários por computador.
+Aliás, sequer a referida "tela", diga-se, isolada no arcabouço probatório, pode ser considerada como prova cabal acerca das alegações recursais, na medida em que produzida unilateralmente pela entidade Ré.
+Importante a explanação supra, na medida em que, como ver-se-á da imagem que abaixo será reproduzida, mesmo com a suposta exclusão, os nomes dos beneficiários continuaram a aparecer na referida tela. Ademais, foram anexados documentos de identificação dos Apelados, não sendo crível que para excluí-los do benefício tal fosse necessário, ao contrário do que se presumiria em hipótese de intenção pela manutenção da situação como beneficiários. Vejamos:
+(..)
+Assim sendo, há de se concluir que, uma vez fornecidos os documentos, persistia o vínculo e, consequentemente, a vontade de manutenção dos sobrinhos como beneficiários." (e-STJ fl. 282/285)
+Ressalta-se que a pretensão em juízo estava adstrita ao direito da parte recorrida de receber o benefício decorrente da indicação de seu nome como beneficiário da tia falecida. A disputa ficou adstrita à existência de ato de vontade que teria excluído o beneficiário, por ocasião de recadastramento realizado de forma eletrônica.
+Compulsando as provas, o Tribunal entendeu que a juntada dos documentos de identificação no cadastramento era ato incompatível com o desejo se exclusão, além de consignar que o documento apresentado pela recorrente não apresentava a tela de cadastro apresentada para a participante falecida, que à época do recadastramento já era idosa, contando com 83 anos de idade.
+Ademais, à época de seu falecimento, a participante já havia cumprido todos os requisitos relativos a seu benefício, não havendo que se cogitar de ausência de custeio, conforme expressamente consignado no acórdão recorrido:
+"Por seu turno, também não deve prosperar a alegação recursal quanto à exigência de custeio prévio para a concessão do benefício, haja vista que os Autores já constavam no cadastro da Ré, já existindo, por óbvio, o devido aporte para o pagamento do pecúlio, não havendo que se falar em desequilíbrio atuarial." (e-STJ fl. 285)
+Assim, a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente" (e-STJ fls. 495/496).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, refor mar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
