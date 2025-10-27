@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS RECURSOS ESPECIAIS. EMPRESARIAL. FALÊNCIA. ESCRITÓRIO DE ADVOCACIA. INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. HONORÁRIOS CONTRATUAIS. DEVOLUÇÃO. PRECLUSÃO. AUSÊNCIA. ALTERAÇÃO. CAUSA DE PEDIR. NÃO OCORRÊNCIA. ERRO DE FATO NÃO CONFIGURADO.
+1. A matéria relativa aos valores efetivamente recebidos na ação revocatória foi discutida em primeiro grau e objeto de questionamento no agravo de instrumento, quando se requereu a devolução dos valores pagos a título de honorários, motivo pelo qual não há falar em erro de premissa quanto ao questionamento da inclusão dos aluguéis na base de cálculo dos honorários.
+2. Não constitui erro de fato a conclusão do julgado acerca da ausência de prejuízo na hipótese, tendo o embargante atuado como advogado nos autos, além de ter tido oportunidade de se manifestar acerca dos valores dos honorários.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por R. AMARAL, HULAND, CASTRO ALVES, LINHARES & BARROS LEAL ADVOGADOS impugnando acórdão assim ementado:
+"RECURSOS ESPECIAIS. EMPRESARIAL. FALÊNCIA. ADMINISTRADOR JUDICIAL. REMUNERAÇÃO. INTELIGÊNCIA DO ARTIGO 24 DA LREF. LIMITE LEGAL. SUPERAÇÃO. IMPOSSIBILIDADE. DEVOLUÇÃO. OFENSAÀ COISA JULGADA. INEXISTÊNCIA. ESCRITÓRIO DE ADVOCACIA. INTIMAÇÃO. NULIDADE. HONORÁRIOS CONTRATUAIS. DEVOLUÇÃO. PRECLUSÃO. AUSÊNCIA. ALTERAÇÃO. CAUSA DE PEDIR. NÃO OCORRÊNCIA.
+1. A controvérsia dos autos resume-se em definir: (i) se houve negativa de prestação jurisdicional; (ii) a remuneração da administradora judicial está dentro dos parâmetros legais; (iii) se houve violação à coisa julgada; (iv) se há nulidade por falta de intimação; (v) se a determinação de devolução de parte dos honorários devidos a escritório de advocacia esbarra na preclusão, e (vi) se em embargos de declaração foi deduzida matéria nova, com alteração da causa de pedir.
+2. Não viola o artigo 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. A remuneração do administrador judicial deve ser fixada levando em conta o trabalho a ser desempenhado, a conveniência da contratação de auxiliares, a necessidade de deslocamento para outras cidades, a complexidade da atividade, entre outros fatores específicos. Em contrapartida, deve ser verificada a capacidade de pagamento do devedor, o número de credores e os bens que compõem o ativo, buscando-se um equilíbrio entre essas demandas.
+4. Como no início da falência não é possível dimensionar o tamanho do ativo e o exato número de credores, é recomendado que se fixem honorários provisórios, que serão reavaliados em determinados períodos de tempo.
+5. No que respeita à forma, não é necessário aguardar a realização de todo o ativo para dar início aos pagamentos do administrador, sendo possível o parcelamento mensal, ou por fases do processo, do correspondente a 60%(sessenta por cento) da remuneração. Porém, é imprescindível que se faça a retenção de 40% (quarenta por cento) a ser pago após a aprovação do relatório final.
+6. Na hipótese, a remuneração da administradora judicial extrapolou os limites legais, além de não ser reservado o percentual de 40% (quarenta por cento) a ser pago depois da aprovação das contas, não tendo a determinação de devolução de valores violado a coisa julgada.
+7. A intimação do escritório de advocacia para se manifestar a tempo acerca dos pontos de seu interesse não gera nulidade. No caso, ademais, o escritório já representava a administradora nos autos, tendo conhecimento do andamento do processo.
+8. Não há falar em preclusão se a objeção não recai sobre a contratação do escritório de advocacia mas, sim, sobre o recebimento de honorários a maior.
+9. Na hipótese, não ocorreu inovação recursal, mas contraposição às alegações trazidas pela parte contrária.
+10. Recursos especiais conhecidos e não providos" (e-STJ fls. 2.044/2.045).
+O embargante aponta a existência de erro de fato no julgado, pois em nenhum momento perante o Tribunal de origem a Agropecuária Lys, ora embargada, teria impugnado a inclusão dos aluguéis na base de cálculo dos honorários advocatícios por si levantados.
+Entende que se trata de premissa equivocada a exigência de que se comprove o benefício econômico por parte da Massa Falida decorrente do recebimento de aluguéis recebidos em decisão cautelar na ação revocatória, quando este ponto não era objeto da discussão acerca da qual foi tardiamente intimado a integrar.
+Questiona como seria possível produzir provas acerca de questão que não era objeto do agravo de instrumento interposto, ademais em sede de embargos de declaração, como seria possível exercer o contraditório e a ampla defesa em completude.
+Considera que É indubitável erro de fato considerar que deveria apresentar provas acerca da inclusão dos valores dos aluguéis na base de cálculo de seu levantamento de honorários quando esse ponto não compunha a impugnação recursal da embargada.
+Requer que seja eliminada a premissa equivocada, que configurou inovação recursal acerca da composição da base dos honorários.
+Indica a existência de outra premissa equivocada, agora acerca da ausência de prejuízo com sua intimação apenas em sede de embargos de declaração no agravo de instrumento.
+Afirma que sua atuação como sociedade de advogados contratada para defender a massa falida não pode lhe ocasionar as atribuições de parte.
+Entende que a própria intimação "precária" em sede de embargos demonstra que a Corte de origem observou a sua ausência no feito. Assevera que o estágio avançado das discussões impossibilitou o exercício do contraditório em sua amplitude.
+Alega que
+"(..)
+A situação foi tão grave que R. Amaral Advogados somente tomou conhecimento de que, sob o entendimento do e. TJCE, deveria ter produzido provas de que a Massa Falida de Future recebeu os aluguéis que serviram de base de cálculo para os honorários recebidos, quando o julgamento dos Embargos de Declaração ocorreu com a determinação de devolução de tais honorários. Até então este ponto não constituía fato controverso" (e-STJ fl. 2.072).
+Ressalta que opôs embargos de declaração juntando todos os comprovantes de que a massa falida havia recebido os aluguéis, os quais não foram conhecidos, ficando evidenciado o cerceamento de defesa.
+Assinala que esta Corte "incorre em erro ao estabelecer que a posição de procuradores da Massa Falida de Future no feito bastaria para o pleno exercício da defesa" (e-STJ, fl. 2.073). Destaca que estava defendendo os interesses da massa falida, não havendo preocupação com os seus próprios, que não eram parte do recurso.
+Requer o recebimento dos aclaratórios com efeitos infringentes, eliminando-se as premissas equivocadas do julgado.
+Não foi apresentada impugnação (e-STJ fl. 2.078).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS RECURSOS ESPECIAIS. EMPRESARIAL. FALÊNCIA. ESCRITÓRIO DE ADVOCACIA. INTIMAÇÃO. NULIDADE. NÃO OCORRÊNCIA. HONORÁRIOS CONTRATUAIS. DEVOLUÇÃO. PRECLUSÃO. AUSÊNCIA. ALTERAÇÃO. CAUSA DE PEDIR. NÃO OCORRÊNCIA. ERRO DE FATO NÃO CONFIGURADO.
+1. A matéria relativa aos valores efetivamente recebidos na ação revocatória foi discutida em primeiro grau e objeto de questionamento no agravo de instrumento, quando se requereu a devolução dos valores pagos a título de honorários, motivo pelo qual não há falar em erro de premissa quanto ao questionamento da inclusão dos aluguéis na base de cálculo dos honorários.
+2. Não constitui erro de fato a conclusão do julgado acerca da ausência de prejuízo na hipótese, tendo o embargante atuado como advogado nos autos, além de ter tido oportunidade de se manifestar acerca dos valores dos honorários.
+3. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC): obscuridade, contradição, omissão ou erro.
+O embargante aponta a existência de erro de premissa, pois em nenhum momento teria havido questionamento acerca da inclusão dos aluguéis na base de cálculo dos honorários.
+Conforme afirmado no acórdão embargado, a questão dos honorários sobre os aluguéis foi destacada na decisão de primeiro grau:
+"(..)
+No que respeita à preclusão, verifica-se que a objeção não recai sobre a contratação do escritório de advocacia mas, sim, sobre o recebimento de honorários a maior, questão que foi objeto da análise do pedido de destituição da administradora judicial, destacando-se da decisão de primeiro grau o seguinte excerto:
+"(..) Realce-se que o ilustre Promotor Público, no que se refere a essa questão, expôs em sua manifestação, que o escritório R. AMARAL ADVOGADOS conseguiu a posse do imóvel do Recife para a massa na Ação Revocatória e os valores recebidos do aluguéis do como imóvel, estando devidamente justificados os honorários, igualmente os honorários dos advogados Giovanni e Edmar" (e-STJ fls. 71 /72 - grifou-se)" (e-STJ fl. 2.060)
+Por outro lado, o recebimento dos honorários pelo embargante foi questionado em toda a petição do agravo de instrumento:
+"(..)
+176. Outro aspecto importante nesse item diz respeito ao Contrato de Prestação de Serviços Jurídicos firmado com o escritório R. Amaral, Huland & Pitombeira Advogados, citado nas prestações de contas como Menezes e Pitombeira (Dr. Raul Amaral).
+177. Neste contrato não consta a data em que o mesmo foi firmado . Por qual razão  Estranho que a Administradora Judicial e o próprio Juízo Falimentar aceitem nos autos um Contrato de Prestação de Serviços sem data
+178. No mesmo há a previsão de remuneração mensal de 5 (cinco) salários mínimos e de 2% (dois por cento) sobre o proveito econômico obtido na resolução da Ação Revocatória do prédio de Recife/PE" (e-STJ fl. 35).
+E prossegue:
+"(..)
+183. A remuneração de 2% (dois por cento) sobre o proveito econômico obtido na resolução da Ação Revocatória do prédio de Recife/PE é um valor razoável  Qual o valor efetivo dessa realização
+184. A Massa já gastou com advogados a importância espantosa de R$ 307.935,42 (trezentos e sete mil e novecentos e trinta e cinco reais e quarenta e dois centavos) e com acompanhamento de marca a importância de R$ 104.085,23 (cento e quatro mil e oitenta e cinco reais e vinte e três centavos), totalizando, assim, a importância astronômica de R$ 412.020,65 (quatrocentos e doze mil e vinte reais e sessenta e cinco centavos), sem que se tenha nos autos relatórios elaborados pela Administradora Judicial prestando contas dos resultados obtidos com tamanho gasto.
+(..)
+228. E imperioso que Vossa Excelência determine liminarmente a IMEDIATA devolução do que foi recebido pela Administradora Judicial e pelo Escritório de Advocacia R. Amaral, até o julgamento final do presente Agravo de Instrumento, em privilégio à ordem a à justiça.
+(..)
+272. As decisões de autorizar o pagamento dos honorários da Administradora Judicial e do Escritório de Advocacia R. Amaral, bem como o de manter a Administradora Judicial, devem ser imediatamente revistas por intermédio do presente Agravo de Instrumento.
+273. Veja, douto Julgador, que o pagamento pleiteado pela Administradora Judicial para si e para o Escritório de Advocacia R. Amaral, pelos fatos já demonstrados, deverá ser suspenso até o julgamento meritório do presente agravo. " (e-STJ fl. 36, 43 e 51)
+Como se vê, a matéria relativa aos valores efetivamente recebidos na ação revocatória foi discutida em primeiro grau e objeto de questionamento no agravo de instrumento, quando se requereu a devolução dos valores pagos a título de honorários, motivo pelo qual não há falar em erro de premissa quanto ao questionamento da inclusão dos aluguéis na base de cálculo dos honorários.
+Em relação ao erro de premissa acerca da ausência de prejuízo com a intimação somente na fase de aclaratórios, não se trata de um erro de premissa, mas da conclusão do julgado.
+Com efeito, analisando-se as circunstâncias do caso concreto descritas no aresto recorrido, concluiu-se que a intimação para se manifestar nos aclaratórios não lhe causou prejuízo, tendo havido oportunidade de se manifestar acerca dos temas de seu interesse, momento em que poderia inclusive ter requerido a produção de provas:
+"Conforme se colhe dos autos, o escritório recorrente foi então intimado para se manifestar, extraindo-se do despacho inserido às fls. 1.691/1.697 (e-STJ) o seguinte excerto:
+"(..) Aduz a embargante, em suma (fls. 01/20): (1) omissão acerca de assunto de extrema gravidade, concernente ao pagamento, pela administradora judicial, de forma completamente irregular, com anuência do juízo falimentar, de honorários advocatícios de R$ 220.386,90 ao Escritório de Advocacia R. Amaral, Hulan, Castro Alves, Linhares & Barros Leal Advogados S/S, no dia , quando o valor correto seria de R$ 24/07/2013 105.845,73, equivalente a 2% (dois por cento) do valor da transação firmada em ação revocatória (R$ 5.292.286,56). Além do mais, a agravada (embargada), propositadamente, não juntou aos autos qualquer comprovação de que a negociação em tela tenha ocorrido pelo valor de R$ 8.000.000,00.
+(2) assim, carece ser reformada a decisão recorrida para ordenar ao Escritório de Advocacia R. Amaral, Hulan, Castro Alves, Linhares & Barros Leal Advogados S/S, devolva à massa falida a importância de R$114.541,17 (cento e quatorze mil e quinhentos e quarenta e um reais e dezessete centavos), referentes ao que recebeu a mais, devidamente corrigidas pelo INPC e com juros simples legais de 1% (um por cento) ao mês, desde a data do recebimento (24/07/2013) até a data da efetiva devolução.
+(..)
+Nada obstante a massa falida tenha apresentado impugnação aos aclaratórios, por meio do escritório de advocacia em relação ao qual foi suscitado recebimento irregular de valores, essa questão afeta diretamente referido escritório de advocacia, fazendo-se necessária a intimação de seu representante, haja vista que o acolhimento do pleito recursal pode ensejar a ordem de devolução de valores, inclusive por meio de bloqueio judicial, afora outras considerações de maior gravidade. Assim, em obséquio ao contraditório processual (art. 5º, LIV e LV, da CF/1988 e art. 10 do CPC), determino:
+(i) a intimação pessoal, por mandato a ser cumprido por Oficial de Justiça, do representante legal do Escritório de Advocacia R. Amaral, Hulan, Castro Alves, situado na Av. Linhares & Barros Leal Advogados S/S, Santos Dumont, n. 2456, 16º e 17º andares, Bairro Aldeota, CEP: 60.150-162, Fortaleza-CE, Tel.:  55 (85) 3311-9199 (conforme verificado nesta data no "website" https://ramaral. com/), para se manifestar exclusivamente acerca dos pontos (1) e (2) acima identificados, bem como em relação aos documentos juntados ao agravo de instrumento e aos aclaratórios, que sejam pertinentes a referida questão.
+(ii) assinalo o prazo de 15 (quinze) dias para referida manifestação, por analogia ao art. 437, §1º, do CPC" (e-STJ fls.1.696/1.697).
+Ainda que a intimação tenha se limitado aos pontos (1) e (2), somente esses diziam respeito diretamente ao escritório de advocacia, de modo que não resta demonstrada a existência de prejuízo.
+É preciso consignar que, em sua manifestação, acostada às fls. 1.702/1.717 (e-STJ), o escritório não requereu nem tampouco demonstrou a necessidade de produção de provas".
+Não se constata, portanto, a ocorrência de erro de premissa como alega o embargante.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
