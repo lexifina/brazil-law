@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. CERCEAMENTO DO DIREITO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O sistema processual civil brasileiro é orientado pelo princípio do livre convencimento motivado, sendo permitido ao magistrado formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, de forma que a intervenção do Superior Tribunal de Justiça quanto a tal valoração encontra óbice na Súmula nº 7/STJ. Precedentes.
+2. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, revolve a causa sem a produção de prova requerida pela parte em virtude da suficiência dos documentos dos autos.
+3. No caso, é inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por KOMATSU DO BRASIL LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. BEM MÓVEL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS
+Cumprimento de sentença de verba sucumbencial. Desconsideração da personalidade jurídica rejeitada. Sucessão empresarial fraudulenta não demonstrada. Abuso de direito, confusão patrimonial, desvio de finalidade não comprovados. Decisão mantida - Recurso desprovido" (e-STJ fl. 697).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 708/711).
+No recurso especial, a recorrente alega violação dos artigos 373, I, do Código de Processo Civil e 50, § 1º, do Código Civil.
+Sustenta a nulidade do acórdão por cerceamento de defesa, pois "julgou desnecessária a produção da prova testemunhal requerida e, ao mesmo tempo, concluiu pela ausência de provas da utilização fraudulenta da executada, em desvio de finalidade a ensejar o deferimento da desconsideração" (e-STJ fl. 721).
+Argumenta que a prova oral indeferida demonstraria que não há atividade da empresa, o que configuraria o manifesto abuso da personalidade jurídica e o trespasse fraudulento.
+Afirma que a documentação juntada aos autos comprova sucessão empresarial fraudulenta entre Mafersa e Alstom, caracterizando desvio de finalidade e confusão patrimonial, a justificar a desconsideração da personalidade jurídica e o redirecionamento da execução.
+Com as contrarrazões (e-STJ fls. 731/757), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. CERCEAMENTO DO DIREITO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O sistema processual civil brasileiro é orientado pelo princípio do livre convencimento motivado, sendo permitido ao magistrado formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, de forma que a intervenção do Superior Tribunal de Justiça quanto a tal valoração encontra óbice na Súmula nº 7/STJ. Precedentes.
+2. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, revolve a causa sem a produção de prova requerida pela parte em virtude da suficiência dos documentos dos autos.
+3. No caso, é inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Inicialmente, de acordo com a jurisprudência desta Corte, sendo o nosso sistema processual civil orientado pelo princípio do livre convencimento motivado, ao magistrado é permitido formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, a teor do que dispõe o art. 371 do Código de Processo Civil: "O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento."
+Além disso, o art. 370 do mesmo diploma legal confere ao julgador a prerrogativa de determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+Na espécie, o tribunal de origem entendeu que as provas produzidas foram suficientes e afastou a tese de cerceamento do direito de defesa, conforme demonstra o seguinte trecho do acórdão recorrido:
+"De início, afasta-se a preliminar de nulidade da decisão agravada, não se sustentando a alegação de cerceamento de defesa devido ao julgamento antecipado da lide sem a produção da prova testemunhal reclamada pela agravante, ante à suficiência do conjunto probatório à conclusão do julgado" (e-STJ fl. 699/700).
+Assim, modificar a conclusão das instâncias ordinárias, soberanas quanto à análise da necessidade ou não de se produzir outras provas, além daquelas já existentes no processo, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial, haja vista o óbice da Súmula nº 7 /STJ.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CUSTEIO DE CIRURGIA PLÁSTICA EM PACIENTE PÓS-BARIÁTRICA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO FIRMADO PELO STJ. DANOS MORAIS CARACTERIZADOS NAS INSTÂNCIAS ORDINÁRIAS. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. INCIDÊNCIADA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. A desconstituição do entendimento de que não houve cerceamento de defesa e que as provas constantes dos autos eram suficientes para o julgamento da lide, demandaria o reexame dos elementos fáticos e probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+2. Consoante Tema 1.069 STJ É de cobertura obrigatória pelos planos de saúde a cirurgia plástica de caráter reparador ou funcional indicada pelo médico assistente, em paciente pós-cirurgia bariátrica, visto ser parte decorrente do tratamento da obesidade mórbida.
+3. Existência de entendimento pacífico desta Corte Superior no sentido de que, nos casos em que a recusa indevida de cobertura de tratamento médico-hospitalar impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingindo direito da personalidade, fica demonstrada a ocorrência de danos morais e caracterizado o direito à reparação. Inviabilidade de reexame da conclusão alcançada pelo Tribunal local quanto ao ponto em virtude da incidência da Súmula n. 7 do STJ. 4. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ.
+5. Recurso especial parcialmente conhecido e não provido" (REsp nº 2.163.000/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 15/9/2025, DJEN de 18/9/2025 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. RESPONSABILIDADE CONTRATUAL. INDEFERIMENTO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. FUNDAMENTO SUFICIENTE. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022, II, e 489, § 1º, do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Tendo o tribunal de origem dirimido a controvérsia com base na conclusão de que a escritura pública, firmada entre as partes, define expressamente que quaisquer incidentes adicionais após determinados dados seriam de responsabilidade da cessionária, o que abrange o laudêmio, revisar a conclusão encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. A alegação de cerceamento de defesa não procede quando a prova testemunhal é considerada irrelevante para o mérito de controvérsia, que exige principalmente a interpretação dos instrumentos contratuais, e o indeferimento é fundamentado na preclusão lógica e na inexistência de prejuízo processual, nos termos do art. 370 do CPC.
+4. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+5. Agravo interno desprovido" (AgInt no AREsp nº 2.242.127/BA, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+De outro lado, com relação ao pedido de desconsideração da personalidade jurídica, a Corte local asseverou que,
+"(..) no presente caso, como bem fundamentado pela r. decisão agravada, não se vislumbra os requisitos para desconsideração da personalidade jurídica e inclusão da agravada no polo passivo da demanda, eis que, não restou comprovada a sucessão empresarial, com transmissão integral do acervo patrimonial da executada para a agravada" (e-STJ fl. 700).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
