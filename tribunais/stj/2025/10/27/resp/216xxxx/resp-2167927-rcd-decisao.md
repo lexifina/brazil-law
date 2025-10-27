@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de distinção apresentado por MARIA ODILLA NOBRE - ESPÓLIO contra decisão por mim proferida, às e-STJ fls. 529/530, em que determinei o sobrestamento do recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão a ser proferido em recurso especial repetitivo (Tema 1.033), bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+O requerente sustenta, em síntese, que, nos "a controvérsia objeto do presente recurso guarda pertinência com os REsp nº 2.034.210/CE, nº 2.034.211/CE e nº 2.034.214/CE (Tema 1.254), cuja questão submetida a julgamento é "definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação", e não com o REsp nº 1.774.204/RS (Tema 1.033)" (e-STJ fl. 535).
+A parte requerida apresentou manifestação, pugnando pelo indeferimento do pedido de distinção.
+Passo a decidir.
+Da análise dos autos, verifica-se que assiste, em parte, razão ao requerente.
+Com efeito, o Tribunal de origem, ao reconhecer a prescrição, entendeu que "o ajuizamento da execução coletiva não interrompe o prazo prescricional para os substituídos, uma vez que o ato interruptivo da prescrição possui caráter pessoal e somente aproveitará a quem o promover, ou prejudicará aquele contra quem for dirigido" (e-STJ fl. 413).
+Vê-se, portanto, que o julgado recorrido guarda estrita relação com o Tema 1.033 da sistemática dos recursos repetitivos - "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+Ocorre que, no especial, a parte recorrente insurge-se quanto à prescrição, afirmando a sua não ocorrência em razão do falecimento da servidora durante o trâmite da ação originária, sendo certo que a matéria objeto do recurso corresponde ao Tema 1.254 da sistemática dos recursos repetitivos, qual seja: "Definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação."
+Assim, a questão a ser dirimida nos presentes autos guarda relação com as teses a serem firmadas em ambos os Temas repetitivos acima indicados.
+Ante o exposto, DEFIRO, em parte, o pedido de distinção apenas para determinar que, após a publicação dos acórdãos a serem proferidos nos recursos representativos das controvérsias, o Tribunal de origem observe o art. 1.040 do CPC/2015, considerando os Temas 1.033 e 1.254 da sistemática dos recursos repetitivos.
+Publique-se. Intimem-se.
+EMENTA
