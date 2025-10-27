@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por LE LAC VEÍCULOS S.A., com fundamento na alínea "a" do permissivo constitucional, para desafiar acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 221):
+TRIBUTÁRIO. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1079/STJ.
+1 . Tema 1.079/STJ: ".. a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+2. Também não se submetem ao teto de 20 (vinte) vezes o maior salário mínimo vigente no país previsto no art. 4º, parágrafo único, da Lei n. 6.950/81, as contribuições ao Salário-Educação, INCRA, DPC, FAER, SEBRAE, SENAR, SEST, SENAT, SESCOOP, APEX-Brasil, ABDI e outras contribuições parafiscais das empresas que não tenham a base de cálculo vinculada ao conceito de "salário de contribuição".
+Em suas razões, a recorrente afirma que o acórdão recorrido "portanto, duas conclusões se fazem: primeiro, que o DL nº 2.318/1986 não revogou o dispositivo propriamente dito, mas apenas retirou os seus efeitos sobre determinadas contribuições; segundo, que o parágrafo único do art. 4º da Lei nº 6.950/1981, que trata das contribuições de terceiros, vigora com plenos efeitos, seja porque o DL nº 2.318/1986 não regulamenta referidas contribuições, seja em razão de inexistir revogação do caput do artigo, sendo impossível se falar em derrogação do parágrafo único" (e-STJ fl. 234).
+Ao recurso especial foi negado seguimento na matéria referente ao Tema 1.079 do STJ e admitido quanto ao remanescente (e-STJ fls. 240/241).
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança objetivando ver declarado o direito a limitação da base de cálculo das contribuições destinadas a terceiros em vinte salários mínimos, na forma do disposto no artigo 4º, parágrafo único, da Lei nº 6.950/81.
+Em primeiro grau de jurisdição, o Juízo julgou improcedentes os pedidos.
+Irresignada, a partes recorreram para o Tribunal Regional, que negou provimento à apelação e manteve a sentença. No que interessa, veja o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 219/220):
+Assim, ainda segundo os fundamentos do voto-vista acima referido:
+(a) o conceito de "salário de contribuição" deixou definitivamente de ser influente para o cálculo das contribuições parafiscais das empresas a partir de 01.06.1989, quando o art. 5º, da Medida Provisória n. 63/89 (convertido no art. 3º, da Lei n. 7.787/89), combinado com a primeira parte do art. 14, da Lei n. 5.890/73, mudou a base de cálculo de tais contribuições para "o total das remunerações", que vem a ser o conceito atual de "folha de salários";
+(b) a partir de 01.06.1989 (data da mudança da base de cálculo para a "o total das remunerações") foi esvaziada a eficácia do art. 4º, parágrafo único, da Lei n. 6.950/81, que estabelece teto limite para contribuições parafiscais das empresas que sejam estabelecidas com base no "salário de contribuição", norma que permanece formalmente em vigor;
+Em síntese, o teto limite de 20 (vinte) vezes o maior salário-mínimo vigente no país previsto no art. 4º, parágrafo único, da Lei n. 6.950/81, não se aplica tanto para as bases de cálculo das contribuições ao SESI, SENAI, SESC e SENAC quanto para as bases de cálculo das contribuições ao Salário-Educação, INCRA, DPC, FAER, SEBRAE, SENAR, SEST, SENAT, SESCOOP, APEX-Brasil, ABDI e a todas as contribuições parafiscais das empresas de cuja base de cálculo não participe o conceito de "salário de contribuição".
+No caso concreto, é inaplicável a modulação de efeitos da decisão, porquanto não foi deferida ao contribuinte liminar e/ou tutela de urgência favorável.
+3. Conclusão
+O contribuinte não tem direito à limitação da base de cálculo das contribuições ao Salário- educação, Incra, Sebrae, Sesi/Senai, Sest/Senat e outros a 20 (vinte) vezes o maior salário-mínimo vigente no país previsto no art. 4º, parágrafo único, da Lei n. 6.950/81, razão pela qual seu apelo deve ser desprovido.
+Pois bem.
+A Corte de origem decidiu que a limitação de 20 salários-mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/1981, foi revogada juntamente com o caput do art. 4º, pelo Decreto-Lei n. 2.318/1986, visto que não é possível subsistir em vigor o parágrafo cujo o artigo correspondente está revogado.
+Observa-se, nas razões do apelo especial, que a parte recorrente não apresenta fundamentação idônea capaz de infirmar os fundamentos adotados pela Corte de origem, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão, incidindo o óbice da Súmula 284 do STF.
+Quanto à matéria remanescente, contribuição de terceiros devida ao INCRA e FNDE , não foi prequestionada, nem sequer foram opostos embargos de declaração a fim de sanar a omissão, o que atrai a incidência do óbice da Súmula 282 do STF na espécie.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
