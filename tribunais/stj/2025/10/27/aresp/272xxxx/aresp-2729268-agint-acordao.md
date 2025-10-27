@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 481 DO STJ. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação do artigo 1.022 do Código de Processo Civil.
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481 do STJ).
+3. No caso em questão, o acórdão recorrido foi claro em afastar essa presunção, tendo em vista que não houve a comprovação efetiva da sua incapacidade de arcar com os ônus do processo.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de fls. 79/83, em que neguei provimento ao agravo em recurso especial interposto pela parte ora recorrente.
+Em suas razões (fls. 1.371/1.375), a agravante reitera que houve clara violação do artigo 1.022 do Código de Processo Civil por parte do acórdão recorrido.
+Defende, ainda, que o conhecimento do recurso especial não exige reexame de matéria fático-probatória.
+Afirma que "é inequívoca a contrariedade aos art. 98, 99, §§ 2º, 3º e 7º, do CPC, tanto pela inadequada aplicação da Súmula 481 do STJ quanto pela ausência de intimação prévia do recorrente, pelo colegiado do Tribunal local, para a comprovação de sua condição de hipossuficiência financeira" (fl. 1.375).
+Impugnação apresentada às fls. 1.380/.1388, requerendo a condenação da recorrente às penas do artigo 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. AUSÊNCIA DE COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 481 DO STJ. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação do artigo 1.022 do Código de Processo Civil.
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481 do STJ).
+3. No caso em questão, o acórdão recorrido foi claro em afastar essa presunção, tendo em vista que não houve a comprovação efetiva da sua incapacidade de arcar com os ônus do processo.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No que se refere à alegada afronta ao artigo 1.022 do CPC, a recorrente entende que o acórdão foi omisso quanto ao fato de que o "indeferimento da gratuidade tem natureza interlocutória, e não de mero despacho, razão que era indispensável a apreciação prévia do agravo interno interposto contra decisão monocrática que indefere a gratuidade da justiça" (fl. 1.301).
+Nesse sentido, vale reiterar que a Corte local, ao analisar a controvérsia, asseverou que (fls. 1.283/1.285, grifos acrescidos):
+O recurso principal de apelação não comporta conhecimento, devendo ser julgado deserto.
+Atravessando dificuldade financeira, a empresa devedora de nome Correntão, segundo consta, teria alterado sua razão social e, alegando dificuldades, pleiteou, sem sucesso, o benefício da gratuidade processual.
+Entretanto, a documentação aportada não se revela suficiente para os termos da Súmula 481 do STJ, o elevado endividamento comprovado nos autos, por si só, não implica na hipossuficiência financeira ou dificuldade, até porque se valeu do contrato de venda e dos insumos da apelada para desenvolver sua atividade essencial, e o momentâneo estado de crise não permite, portanto, levar à conclusão, dado o proveito econômico pretendido, da propalada hipossuficiência financeira.
+Destarte, apesar da insistência da parte apelante, os documentos carecem de fundamento e não explicitam, de forma plural, o estado patrimonial do apelante. Conferiu-se à demanda o valor de 20 milhões de reais distribuída no ano de 2021, quando já existia, naquela oportunidade, execução em polos invertidos para a satisfação da obrigação em relação ao débito com a empresa estrangeira.
+Destarte, não produz eficácia alguma a documentação escassa sem o levantamento bancário, dos rendimentos e demais posições patrimoniais para alcançar o ambicionado benefício da gratuidade processual.
+Manifesta a situação de não conhecimento do recurso, com prejuízo ao agravo interno, mantida a verba honorária, a qual se coaduna com a tessitura do litígio.
+Isto posto, pelo meu voto, hei por bem:
+1- NÃO CONHECER do apelo, julgando-o deserto.
+2- DAR POR PREJUDICADO o agravo interno.
+Opostos embargos de declaração, foram rejeitados, oportunidade em que se salientou que "a recorrente repisa os mesmos argumentos, no propósito de obter decisão em seu favor, o que não se admite". Ainda reiterou-se que "não logrou êxito em comprovar a hipossuficiência financeira, ônus que lhe competia, consoante súmula 481 do STJ, a inviabilizar a concessão da gratuidade" (fl. 1.295).
+No caso, não há que se falar em omissão no acórdão e tampouco negativa da prestação jurisdicional quando as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, mas contrária aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem o pretendido reconhecimento de violação do art. 1.022 do CPC.
+Com efeito, é mister salientar que a presunção de que decorrem certos atos jurídicos, como aqueles derivados da declaração de hipossuficiência, é relativa, e apenas aplicável para as pessoas físicas.
+Já no caso das pessoas jurídicas - como é o caso dos autos -, é entendimento pacífico desta Corte de que apenas é possível a concessão da gratuidade quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência.
+Este é, inclusive, o teor da Súmula 481 do Superior Tribunal de Justiça, a qual dispõe que "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais". Confiram-se alguns julgados a respeito (grifos acrescidos):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NÃO COMPROVAÇÃO DA DIFICULDADE FINANCEIRA PARA PAGAMENTO DAS CUSTAS JUDICIAIS. INDEFERIMENTO. ALTERAÇÃO DAS PREMISSAS FÁTICAS. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL. (..)
+3. A concessão do benefício da gratuidade de justiça à pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 deste Superior Tribunal.
+4. No caso, o col. Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, asseverou que a empresa ora recorrente não comprovou sua incapacidade financeira de arcar com as despesas do processo.
+5. A alteração das premissas fáticas firmadas pelo col. Tribunal a quo, quanto à comprovação ou não da dificuldade financeira de a pessoa jurídica arcar com o pagamento das despesas processuais, tal como propugnada, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos, providência vedada no recurso especial pela Súmula 7 do STJ.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial. (AgInt no AREsp n. 1.529.915/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDEFERIMENTO DO BENEFÍCIO DA JUSTIÇA GRATUITA À PESSOA JURÍDICA DEMANDANTE. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DEFICIÊNCIA DA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JUSTIÇA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. INDEFERIMENTO DA ANTECIPAÇÃO DE TUTELA NA AÇÃO RESCISÓRIA. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. ENUNCIADO N. 735 DA SÚMULA DO STF. APLICAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1 Diversamente do que alega a parte insurgente, o aresto impugnado não se ressente de nenhuma omissão, tecendo fundamentação suficiente, com enfrentamento de todas as matérias deduzidas, concluindo-se, diversamente do pretendido, pela não comprovação da situação de hipossuficiência da recorrente, a fazer jus ao benefício da gratuidade de justiça.
+2. A jurisprudência desta Corte de Justiça perfilha o posicionamento de que a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (ut enunciado sumular 481/STJ). (..)
+4. Agravo interno improvido. (AgInt no AREsp n. 2.118.714/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022).
+Na hipótese dos autos, o acórdão recorrido foi claro ao indeferir o pedido da agravante de concessão dos benefícios da justiça gratuita, tendo constatado a ausência de comprovação da alegada impossibilidade de arcar com os custos e despesas processuais.
+Dessa forma, como indicado na decisão agravada, rever as conclusões do Tribunal local, quanto ao preenchimento dos requisitos necessários à concessão dos benefícios da gratuidade da justiça, demandaria o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+Vale ressaltar, no ponto, que o STJ tem entendimento pacificado no sentido de que a análise dos requisitos para a concessão dos benefícios da justiça gratuita demanda a reanálise de fatos e provas, o que é vedado pela Súmula nº 7 desse STJ. Vejam-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EMPRESA INDIVIDUAL DE RESPONSABILIDADE LIMITADA. IMPOSSIBILIDADE DE EQUIPARAÇÃO À PESSOA NATURAL. CONCESSÃO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA À PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+(..)
+4. O Tribunal de origem reconheceu que a pessoa jurídica ora recorrente não conseguira comprovar sua hipossuficiência econômica para fins de obtenção do benefício da gratuidade de justiça.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.019.952/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 489 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. A pretensão de reforma do decisum recorrido, acerca da situação de hipossuficiência financeira da parte, imprescindível à concessão da gratuidade da justiça, demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula nº 7/STJ.
+3. Agravo interno desprovido.
+(STJ; AgInt-AREsp 2.056.122; Proc. 2022/0014690-8; CE; Quarta Turma; Rel. Min. Marco Buzzi; DJE 18/08/2022).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. CRITÉRIO JURÍDICO PARA CONCESSÃO. CAPACIDADE FINANCEIRA ECONÔMICA. ANÁLISE DO CONJUNTO DE ELEMENTOS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Súmula 284/STF.
+2. O critério jurídico para avaliação de concessão do benefício da gratuidade de justiça se perfaz com a análise de elementos dos autos, considerando que o magistrado pode analisar a real condição econômico-financeira do requerente. Verificar se a parte é realmente hipossuficiente de modo a obter tal benefício não limita o magistrado a averiguar apenas a renda da parte solicitante da benesse.
+3. Inviabilidade de incursão na seara fático-probatória para afastar a conclusão do tribunal de origem de que a parte recorrente não revelou hipossuficiência que permita ser beneficiária da gratuidade de justiça. Incidência da súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.022.432/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/5/2017, DJe de 19/5/2017.)
+Nesse sentido, a parte agravante pediu a concessão de Justiça gratuita, contudo não apresentou razões e documentos suficientes para o deferimento do benefício pleiteado. Assim, indefiro o pedido, tal como decidiu o Tribunal de origem.
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 18/12/2017).
+Em face no exposto, nego provimento ao agravo interno.
+É como voto.
