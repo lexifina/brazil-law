@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. Negativa de prestação jurisdicional e aplicabilidade das Súmulas n. 7 do STJ e 283 do STF.
+III. Razões de decidir
+3. A decisão do Tribunal de origem foi fundamentada e coerente, não incorrendo em vícios de fundamentação ou negativa de prestação jurisdicional.
+4. A parte recorrente não impugnou apropriadamente fundamento do acórdão recorrido suficiente para mantê-lo, o que atrai a Súmula n. 283 do STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A decisão fundamentada do Tribunal de origem não configura omissão ou negativa de prestação jurisdicional. 2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo faz incidir a Súmula n. 283/STF. 3. A reavaliação de elementos fático-probatórios é vedada em recurso especial, conforme a Súmula n. 7 do STJ."
+RELATÓRIO
+Trata-se de agravo interno (fls. 421-429) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (fls. 410-415).
+Em suas razões, a parte agravante reitera a tese de ofensa aos arts. 489, § 1º, e 1.022 do CPC e defende a inaplicabilidade das Súmulas n. 7 do STJ e 283 do STF.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (fls. 435-446), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial.
+II. Questão em discussão
+2. Negativa de prestação jurisdicional e aplicabilidade das Súmulas n. 7 do STJ e 283 do STF.
+III. Razões de decidir
+3. A decisão do Tribunal de origem foi fundamentada e coerente, não incorrendo em vícios de fundamentação ou negativa de prestação jurisdicional.
+4. A parte recorrente não impugnou apropriadamente fundamento do acórdão recorrido suficiente para mantê-lo, o que atrai a Súmula n. 283 do STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A decisão fundamentada do Tribunal de origem não configura omissão ou negativa de prestação jurisdicional. 2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo faz incidir a Súmula n. 283/STF. 3. A reavaliação de elementos fático-probatórios é vedada em recurso especial, conforme a Súmula n. 7 do STJ."
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 410-415):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de afronta ao art. 1.022 do CPC e da incidência da Súmula n. 7 do STJ (fls. 352-356).
+O acórdão recorrido encontra-se assim ementado (fl. 204):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MANUTENÇÃO DA POSSIBILIDADE DE LEILÃO DO IMÓVEL "FAZENDA REUNIDAS LIGAÇÕES". INEXISTÊNCIA DE DETERMINAÇÃO DA BAIXA DA GARANTIA HIPOTECÁRIA. DECISÃO DA AÇÃO DECLARATÓRIA QUE UTILIZA COMO FUNDAMENTO A CONCLUSÃO DO ACÓRDÃO DA AÇÃO DE CANCELAMENTO DE HIPOTECA. QUESTÕES JÁ TRATADAS E DECIDIDAS TAMBÉM EM ANTERIOR AGRAVO DE INSTRUMENTO INTERPOSTO NO MESMO PROCESSO. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 304-307).
+Nas razões do recurso especial (fls. 319-344), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC, aduzindo existir no acórdão recorrido os seguintes vícios (fl. 331):
+(i) omissão de exame no acórdão sobre a alegação de inexistência de identidade de pedido e de causa de pedir entre a Ação de Cancelamento de Hipoteca nº 0000426-33.2011.8.16.0025 e Ação Declaratória de Nulida de nº 0006539-61.2015.8.16.0025  ..
+(ii) obscuridade, contradição e omissão do acórdão sobre coisa julgada alegada expressamente nas razões recursais  ..
+(iii) obscuridade, contradição e omissão do acórdão em relação à limitação da garanta hipotecária para garantir apenas dívidas futuras  ..
+(iv) prequestionamento explícito art. 371 do CPC  .. ,
+(ii) art. 371 do CPC, sustentando que "o acórdão recorrido contrariou os fundamentos da sentença e acórdão citados, proferidos na Ação Declaratória de Nulidade nº 0006539-61.2015.8.16.0025, deixando de valorar corretamente a prova amealhada aos autos" (fl. 337). Assevera que, "diferentemente daquela Ação de Cancelamento de Hipoteca (nº 0000426-33.2011.8.16.0025), a Ação Declaratória de Nulidade (nº 0006539-61.2015.8.16.0025) reconheceu o excesso de mandato por parte do procurador Vitório Ragasson que subscreveu a escritura, especialmente em razão da garantia hipotecária se reportar sobre dívida futura, não pretérita" (fl. 338). Acrescenta que, "contrariamente ao que dispõe o acórdão recorrido, não alegam os Recorrentes que a procuração fora declarada totalmente inválida, mas apenas que se reconheceu os excessos cometidos pelo outorgado e, acerca dessas nulidades é que se denota que a decisão alcança a hipoteca gravada sobre o imóvel Fazenda Reunidas Ligações, pois desse excesso é que resultou a nulidade da mencionada hipoteca" (fl. 339), e
+(iii) art. 337, § 2º, do CPC, argumentando que "o acórdão recorrido violou a autoridade máxima da coisa julgada forma- da no acórdão proferido na Ação Declaratória nº 0006539-61.2015.8.16.0025 (AC nº 0006539-61.2015.8.16.0025)" (fl. 340). Defende que "a decisão recorrida, ao determinar o prosseguimento da execução e a expropriação do imóvel denominado Fazenda Reunidas Ligações, é manifestadamente abusiva e ilegal em razão da constrição do bem ter sido alijada na sentença e acórdão proferidos na multicitada Ação Declaratória nº 0006539-61.2015.8.16.0025" (fl. 344).
+No agravo (fls. 366-374), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+Decido.
+Não há falar em vício de fundamentação ou negativa de prestação jurisdicional quando os fundamentos adotados pelo Tribunal de origem bastam para justificar a conclusão do acórdão, não estando o julgador obrigado a rebater todos os argumentos suscitados pela parte.
+No caso concreto, o TJPR concluiu expressamente que: (i) "a hipoteca não foi desconstituída, tampouco foi afastada como garantia da dívida objeto da presente execução" (fl. 206); (ii) inexiste "dissonância entre o que foi decidido na Ação de Cancelamento de Hipoteca e na Ação Declaratória" (fl. 207); (iii) "no acórdão na Ação de Cancelamento de Hipoteca, foi reconhecido que a dívida executada se enquadra como dívida futura, com o que a hipoteca lhe garante" (fl. 207); e (iv) a matéria controvertida está alcançada pela preclusão, porquanto "as questões trazidas pelos Agravantes já foram examinadas e discutidas anteriormente no Agravo de Instrumento nº 0002371-18.2020.8.16.0000, interposto também na presente Execução de Título Extrajudicial sob o nº 0001378-46.2010.8.16.0025" (fls. 207-208). Eis os fundamentos do acórdão recorrido (fls. 206-208, destaquei):
+Cuida-se de Agravo de Instrumento decorrente de decisão proferida em sede de Execução de Título Extrajudicial que manteve a possibilidade do imóvel dado em hipoteca e penhorado nos autos ir a leilão, assim como afastou a alegação de ilegitimidade dos intervenientes hipotecantes e dos fiadores garantidores para responderem pelo crédito objeto da execução.
+Isto porque ao contrário do que defendem os Agravantes a hipoteca não foi desconstituída, tampouco foi afastada como garantia da dívida objeto da presente execução.
+Pelo contrário, no acórdão proferido na Ação Declaratória foi utilizado como fundamento a conclusão do acórdão proferido na Ação de Cancelamento de Hipoteca, nos seguintes termos:
+"Como se vê, a sentença não declarou a procuração outorgada a Vitório Ragasson totalmente inválida, mas reconheceu o excesso do outorgado em reconhecer dívidas passadas e reconhecer dívidas no montante de cinquenta milhões.
+A constituição da hipoteca para dívidas futuras (e aqui leia-se: para a dívida reconhecida na escritura lavrada em Toledo/PR) não foi desconstituída pela sentença 0006539- 61.2015.8.16.0025.
+A constituição da hipoteca manteve-se hígida tal como declarada na escritura pública, e, portanto, é líquida, certa e exigível para ser executada, tal como vem ocorrendo na ação de execução 1378-46.2010.8.16.0025".
+Segue a ementa do acórdão:
+APELAÇÃO CÍVEL 1. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO CUMULADO COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. PRETENSÃO DE NULIDADE DOS ATOS DO MANDATÁRIO QUE EXCEDEU OS PODERES OUTORGADOS EM PROCURAÇÃO. ALEGAÇÃO DE DECADÊNCIA E PRESCRIÇÃO AFASTADAS. NULIDADE. IMPRESCRITIBILIDADE. IMPOSSIBILIDADE DE CONHECIMENTO DAS TESES QUE NÃO GUARDAM CORRELAÇÃO COM A SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE FIXAÇÃO DE ACORDO COM A APRECIAÇÃO EQUITATIVA DO JUIZ. § 8, ART. 85 DO CÓDIGO DE PROCESSO CIVIL. FIXAÇÃO EM CONSONÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. RECURSO PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO. APELAÇÃO CÍVEL 2. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE ACORDO COM A APRECIAÇÃO EQUITATIVA DO JUIZ. § 8, ART. 85 DO CÓDIGO DE PROCESSO CIVIL. FIXAÇÃO EM CONSONÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+(TJPR - 13ª C. Cível - 0006539-61.2015.8.16.0025 - Araucária - Rel.: JUIZ DE DIREITO SUBSTITUTO EM SEGUNDO GRAU VICTOR MARTIM BATSCHKE - J. 21.10.2020)
+E quanto a isso o acórdão na Ação Declaratória afastou expressamente a existência de dissonância entre o que foi decidido na Ação de Cancelamento de Hipoteca e na Ação Declaratória, ao assim se pronunciar:
+"Nesse aspecto, importante trazer à tona, que este não é o único recurso entre as partes e já anteriormente, em decisão da lavra do Des. Athos Pereira Jorge Júnior, foi elaborado exaustivo estudo, quando do julgamento do recurso de apelação proveniente autos nº 0000426-33.2011.8.16.0025, ação essa que o recorrente agora alega ter sido afetada e estar dissonante com a sentença ora analisada".
+Também não pode passar despercebido que no acórdão na Ação de Cancelamento de Hipoteca, foi reconhecido que a dívida executada se enquadra como dívida futura, com o que a hipoteca lhe garante. Basta um passar de olhos pelo seguinte trecho para assim se concluir:
+"Diante do trabalho acima, tudo que se há resumidamente para reconhecer é que a dívida existe e, portanto, a hipoteca tem base para ser exigida. Consoante consta na clausula 10 da Escritura Pública (firmada em 11.10.2007 perante o Serviço Notarial do Distrito de Vila Nova, Comarca de Toledo/PR, no livro 91, fls. 024 a 028), a dívida de tem data base de 09/10/07, ou seja, é dívida de R$ 34.365.779,00, é de fato, obrigação futura porque foi constituída depois da lavratura da escritura registrada no dia 05/10/07, livro 157, folhas, 163/164, confeccionada pelo 2º Oficio de Notas e Registro Civil de Dourados/MS (parcialmente anulada pela sentença da ação declaratória de Nulidade n. 0006539- 61.2015.8.16.0025 como já ressaltado anteriormente)".
+Por fim, veja-se que as questões trazidas pelos Agravantes já foram examinadas e discutidas anteriormente no Agravo de Instrumento nº 0002371-18.2020.8.16.0000, interposto também na presente Execução de Título Extrajudicial sob o nº 0001378-46.2010.8.16.0025, por mim julgado em 08/07/2020, nos seguintes termos:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ESCRITURA PÚBLICA DE CONSTITUIÇÃO DE HIPOTECA PARA GARANTIA DE MERCADORIA NÃO ENTREGUE / RECEBIDA E OUTRAS AVENÇAS. SUSPENSÃO DE LEILÃO E LEVANTAMENTO DA PENHORA DO IMÓVEL "FAZENDA REUNIDAS LIGAÇÕES". PEDIDOS NÃO CONHECIDOS. EXISTÊNCIA DE PREJUDICIALIDADE EXTERNA COM A AÇÃO DECLARATÓRIA JULGADA PARCIALMENTE PROCEDENTE. INEXISTÊNCIA DE DETERMINAÇÃO DA BAIXA DA GARANTIA HIPOTECÁRIA. INTERPRETAÇÃO EQUIVOCADA DA DECISÃO. QUESTÃO JÁ DECIDIDA EM AGRAVO DE INSTRUMENTO ANTERIOR. PRECLUSÃO. ARTIGOS 505 E 507 AMBOS DO CPC/2015. NÃO CONHECIMENTO DO RECURSO NESSE PONTO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL DA AGRAVADA. INEXISTÊNCIA. VÍCIO SANADO. JUNTADA DE INSTRUMENTOS PROCURATÓRIOS. NULIDADE QUE DEVE SER ARGUIDA NO PRIMEIRO MOMENTO. ARTIGO 278 DO CPC/2015. PRECLUSÃO. RATIFICAÇÃO DOS ATOS ANTERIORES REALIZADA. DECISÃO MANTIDA. RECURSO DE AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO.
+(TJPR - 13ª C. CÍVEL - 0002371-18.2020.8.16.0000 - ARAUCÁRIA - REL.: JUIZ DE DIREITO SUBSTITUTO EM SEGUNDO GRAU VICTOR MARTIM BATSCHKE - J. 26.06.2020)
+Como se depreende exaustivamente das demandas mencionadas pelos Agravantes já foi resolvida a questão aqui discutida contrariamente ao que sustentam, uma vez que reconheceram que o débito exequendo se amolda como débito futuro e, por tal razão, a garantia hipotecária lhe alcança.
+Nessas circunstâncias, correta a decisão de 1º Grau que determinou o prosseguimento da execução com a realização de leilão do bem dado em hipoteca e que garante a execução.
+No julgamento dos embargos de declaração, a Corte local (i) consignou a prejudicialidade entre a ação de cancelamento de hipoteca e a ação declaratória de nulidade, (ii) reiterou que "houve o reconhecimento que o débito exequendo se amolda como débito futuro e, por tal razão, a garantia hipotecária lhe alcança" (fl. 306), e (iii) destacou a ausência de má-valoração da prova, "sendo perfeitamente observado o artigo 371 do CPC/2015" (fl. 306). A propósito (fl. 306):
+ ..  os Embargantes insistem em discutir questões exaustivamente analisadas e decididas nos acórdãos que julgaram a Apelação nº 0006539-61.2015.8.16.0025 e Agravo de Instrumento nº 0002371-18.2020.8.16.0000.
+Veja-se que, independentemente da inexistência de identidade dos pedidos e da causa de pedir entre a Ação de Cancelamento de Hipoteca nº 0000426-33.2011.8.16.0025 e a Ação Declaratória de Nulidade nº 00006539-61.2015.8.16.0025, é certo que por ocasião do julgamento de ambos os casos foi estabelecida a prejudicialidade entre as demandas, restando mais do que evidente que a sentença da Ação Declaratória produziu efeitos nos autos nº 000426-33.2011.8.16.0025.
+Assim, não há porque considerar a aplicação do artigo 337, §2º do CPC/2015 no caso em apreço.
+Sob outro aspecto, a decisão colegiada não contradiz o que foi definido no julgamento da Apelação nº 00006539-61.2015.8.16.0025, porque contrariamente ao que defendem os Embargantes, houve o reconhecimento que o débito exequendo se amolda como débito futuro e, por tal razão, a garantia hipotecária lhe alcança.
+Por fim, não se vislumbra a má-valoração da prova, sendo perfeitamente observado o artigo 371 do CPC/2015, não cabendo rediscussão sobre as provas produzidas nas ações de conhecimento em sede de Agravo de Instrumento.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu fundamentadamente a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Ademais, a parte recorrente, apesar de apontar valoração incorreta de provas e ofensa à coisa julgada, deixou de impugnar o fundamento da preclusão, suficiente para a manutenção do acórdão, e cuja subsistência implica a incidência da Súmula n. 283 do STF.
+Por fim, tendo em vista que o deslinde da matéria passou pela análise do contexto fático que permeia não apenas o presente feito, mas principalmente demandas correlatas, bem como pelo exame dos efeitos de suas respectivas decisões, verifica-se que a revisão das conclusões do Tribunal de origem esbarra na Súmula n. 7 do STJ, ante a impossibilidade de revolvimento de fatos e provas nesta via recursal.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme a decisão agravada, não há falar em violação dos arts. 489, § 1º, e 1.022 do CPC, tendo em vista que o TJPR pronunciou-se de forma fundamentada acerca da questão controvertida, constando do acórdão recorrido razões suficientes para justificar sua conclusão, circunstância na qual o julgador não é obrigado a rebater todos os argumentos suscitados pela parte.
+Ademais, de fato, a parte recorrente não rebateu, de modo específico, o fundamento da preclusão, presente tanto na ementa quanto no voto condutor do acórdão recorrido:
+(fl. 204, destaquei)
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MANUTENÇÃO DA POSSIBILIDADE DE LEILÃO DO IMÓVEL "FAZENDA REUNIDAS LIGAÇÕES". INEXISTÊNCIA DE DETERMINAÇÃO DA BAIXA DA GARANTIA HIPOTECÁRIA. DECISÃO DA AÇÃO DECLARATÓRIA QUE UTILIZA COMO FUNDAMENTO A CONCLUSÃO DO ACÓRDÃO DA AÇÃO DE CANCELAMENTO DE HIPOTECA. QUESTÕES JÁ TRATADAS E DECIDIDAS TAMBÉM EM ANTERIOR AGRAVO DE INSTRUMENTO INTERPOSTO NO MESMO PROCESSO. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO.
+(fls. 207-208, destaquei)
+ ..  as questões trazidas pelos Agravantes já foram examinadas e discutidas anteriormente no Agravo de Instrumento nº 0002371-18.2020.8.16.0000, interposto também na presente Execução de Título Extrajudicial sob o nº 0001378-46.2010.8.16.0025, por mim julgado em 08/07/2020  ..
+ ..
+Como se depreende exaustivamente das demandas mencionadas pelos Agravantes já foi resolvida a questão aqui discutida contrariamente ao que sustentam, uma vez que reconheceram que o débito exequendo se amolda como débito futuro e, por tal razão, a garantia hipotecária lhe alcança.
+Nessas circunstâncias, correta a decisão de 1º Grau que determinou o prosseguimento da execução com a realização de leilão do bem dado em hipoteca e que garante a execução.
+Nos termos da Súmula n. 283 do STF, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", sendo esse o caso dos autos.
+A falta de impugnação específica da preclusão, fundamento independente e suficiente para manter o acórdão recorrido, leva à inadmissão do recurso, tendo em vista o teor da Súmula n. 283/STF.
+Por fim, reafirma-se que rever as conclusões da Justiça local  no sentido de que: (i) "a hipoteca não foi desconstituída, tampouco foi afastada como garantia da dívida objeto da presente execução" (fl. 206); (ii) inexiste "dissonância entre o que foi decidido na Ação de Cancelamento de Hipoteca e na Ação Declaratória" (fl. 207); (iii) "a dívida executada se enquadra como dívida futura, com o que a hipoteca lhe garante" (fl. 207); e (iv) a matéria controvertid a está alcançada pela preclusão, porquanto "as questões trazidas pelos Agravantes já foram examinadas e discutidas anteriormente no Agravo de Instrumento nº 0002371-18.2020.8.16.0000, interposto também na presente Execução de Título Extrajudicial sob o nº 0001378-46.2010.8.16.0025" (fls. 207-208)  demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
