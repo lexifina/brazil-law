@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por AQTECH ENGENHARIA E INSTRUMENTAÇÃO S.A., com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 319):
+MANDADO DE SEGURANÇA. "CRÉDITO PRESUMIDO" CONCEDIDO EM SUBSTITUIÇÃO AOS CRÉDITOS ESCRITURAIS DE ICMS QUE DECORREM DA NÃO CUMULATIVIDADE. BASE DE CÁLCULO DO IRPJ E DA CSLL. EXCLUSÃO. IMPOSSIBILIDADE. DENEGAÇÃO.
+Nas suas razões, a recorrente aponta violação dos arts. 43 e 44 do CTN, além de divergência jurisprudencial.
+Alega, em suma, que os créditos presumidos de ICMS concedidos pelo Estado de Santa Catarina, no âmbito de Tratamento Tributário Diferenciado, configuram benefícios fiscais que não se enquadram no conceito de renda ou lucro, não podendo ser incluídos na base de cálculo do IRPJ e da CSLL.
+Sustenta que a decisão recorrida destoa do entendimento consolidado no EREsp 1517492/PR, que reconheceu a exclusão de créditos presumidos de ICMS das bases de cálculo do IRPJ e da CSLL.
+Afirma, ainda, que a decisão recorrida viola o pacto federativo, ao permitir que a União tribute valores decorrentes de renúncia fiscal promovida pelo Estado de Santa Catarina, esvaziando o objetivo do benefício fiscal concedido.
+Contrarrazões apresentadas às e-STJ fls. 370/375.
+Parecer do Ministério Público Federal, às e-STJ fls. 388/392, pelo não conhecimento do recurso.
+Passo a decidir.
+Cuidam os autos, na origem, de mandado de segurança em que a ora recorrente objetiva o reconhecimento do direito de excluir da base de cálculo do IRPJ e da CSLL os valores dos incentivos/benefícios fiscais de ICMS dos quais é beneficiária, especialmente no tocante aos créditos presumidos, afastando-se, por consequência, a exigência de comprovação de que o benefício/incentivo fiscal foi concedido como estímulo à implantação ou expansão de empreendimentos, bem como do cumprimento dos requisitos dispostos no art. 30 da Lei n. 12.973/2014, cuja ordem foi denegada no primeiro grau de jurisdição.
+O Tribunal de origem, ao examinar a apelação, negou-lhe provimento, nos seguintes termos (e-STJ fls. 317 e seguintes):
+A impetrante pretende o reconhecimento do direito em excluir da base de cálculo do IRPJ e da CSLL os valores dos incentivos/benefícios fiscais de ICMS dos quais é beneficiária, especialmente no tocante aos créditos presumidos, afastando-se, por consequência, a exigência de comprovação de que o benefício/incentivo fiscal foi concedido como estímulo à implantação ou expansão de empreendimentos, bem como do cumprimento dos requisitos dispostos no art. 30 da Lei n. 12.973/2014, quer lido em sua redação original, quer naquela que lhe conferiu a LC Nacional n. 160/2017, ordenando-se à Autoridade Coatora que se abstenha de exigir tais exações sobre aquelas grandezas.
+(..)
+Verifica-se, contudo, que os denominados créditos presumidos concedidos pelo Estado de Santa Catarina não são créditos presumidos propriamente ditos.
+O benefício concedido pelo Estado de Santa Catarina por meio do Tratamento Tributário Diferenciado n. 105000000225402 é opcional ao contribuinte e é concedido em substituição ao aproveitamento dos créditos efetivos do imposto. Vejamos (Evento 1, OUT5, fl. 01):
+Cláusula Primeira. Objeto.
+"Fica a Beneficiária autorizada, em substituição aos créditos efetivos do imposto, na saída de produtos de informática por ela fabricados, que atendam as disposições contidas na Lei Federal n. 8.248/1991, a utilizar crédito presumido no percentual estabelecido no art. 144, calculados sobre o imposto devido pela operação própria, nos termos dos artigos 142 e 143, todos do Anexo 2 do RICMS/SC."
+O mesmo ocorre com o benefício concedido pelo Estado de Santa Catarina por meio do Tratamento Tributário Diferenciado nº 105000000225585. Confira-se (Evento 1, OUT5, fl. 11):
+Cláusula Primeira. Objeto
+A Beneficiária fica autorizada a aplicar o crédito presumido de que trata o art. 142 do Anexo 2 do (e-STJ Fl.317) Documento recebido eletronicamente da origem 5015907-06.2023.4.04.7200 40004956914 . V6 RICMS/SC-01, em substituição aos créditos efetivos do imposto, nas saídas de produtos de informática por ela fabricados, que não atendam as disposições contidas na Lei federal nº 8.248/1991, calculado sobre o imposto devido pela operação própria, nos percentuais estabelecidos no art. 145 do mesmo Anexo.
+O mencionado art. 142 do Anexo 2 do RICMS/SC, por sua vez, assim dispõe:
+Art. 142. À indústria produtora de bens e serviços de informática que atenda aos requisitos previstos nesta Seção fica facultado, em substituição aos créditos efetivos do imposto, o aproveitamento de crédito presumido, observado, ainda, o disposto no art. 23.
+Ora, os aqui denominados créditos presumidos caracterizam-se, portanto, como créditos escriturais que podem ser utilizados para dar cumprimento ao princípio constitucional da não cumulatividade que rege o imposto estadual.
+Dessa forma, esse montante nada adiciona ao lucro das empresas e não representa renúncia de receitas por parte do Estado de Santa Catarina, tendo em vista a sua atuação em substituição aos créditos escriturais de ICMS que decorrem da não cumulatividade e que não são tributados pelo IRPJ e pela CSLL.
+No caso, tendo a impetrada optado por essa sistemática simplificada de cálculo do ICMS, o contribuinte não tem direito à exclusão do IRPJ e da CSLL sobre os créditos de ICMS.
+Pois bem.
+O recurso não merece ser conhecido.
+Colhe-se do acórdão recorrido que "esse montante nada adiciona ao lucro das empresas e não representa renúncia de receitas por parte do Estado de Santa Catarina, tendo em vista a sua atuação em substituição aos créditos escriturais de ICMS que decorrem da não cumulatividade e que não são tributados pelo IRPJ e pela CSLL" (e-STJ fl. 318).
+Entretanto, constata-se que a parte recorrente não se insurgiu contra este fundamento, que confere sustentação jurídica ao aresto impugnado, circunstância que atrai a aplicação da Súmula 283 do STF.
+Demais disso, induvidoso que o acolhimento das razões recursais impõe o reexame do acervo probatório e nova interpretação das cláusulas contratuais, providências sabidamente vedadas no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte, assim enunciadas respectivamente: "A simples interpretação de cláusula contratual não enseja recurso especial" e "A pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, a análise da controvérsia relativa à natureza da benesse, se crédito presumido de ICMS decorrente do sistema não-cumulativo do ICMS ou benefício fiscal concedido pelo Estado de Santa Catarina, demandaria a interpretação de lei local, o que é vedado a esta Corte Superior pelo óbice da Súmula 280 do STF.
+Convém registrar que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
