@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AFASTAMENTO DA SÚMULA N. 182/STJ. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE. INSTRUÇÃO PROCESSUAL. OITIVA DE TESTEMUNHA. VIOLAÇÃO AO DEVER DE INCOMUNICABILIDADE. REEXAME. SÚMULA N. 7/STJ. CONTRATO DE COMPRA E VENDA. NULIDADE. ALEGAÇÃO DE SIMULAÇÃO. REEXAME. SÚMULA N. 7/STJ.
+1. Em juízo de retratação (art. 1.021, § 2º, do Código de Processo Civil), afasta-se a Súmula n. 182/STJ, quando verificado que a parte, no agravo em recurso especial, impugnou de forma específica todos os fundamentos da decisão que negou seguimento ao apelo extremo.
+2. No caso, o Tribunal de origem rejeitou a alegação de nulidade da instrução processual, porque não houve violação da incomunicabilidade das testemunhas, bem como confirmou a sentença de improcedência do pedido, tendo em vista que a alegada simulação do contrato de compra e venda não restou comprovada. A reforma dessas conclusões encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MFMT CONSTRUTORA E INCORPORADORA LTDA contra decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, com fundamento nos arts. 932, III, do Código de Processo Civil e na Súmula n. 182/STJ.
+Em suas razões (e-STJ fls. 1.435/1.438), a agravante alega que, nas razões do agravo em recurso especial, impugnou de forma específica o fundamento da decisão que negou seguimento ao apelo extremo, relativo ao óbice da Súmula n. 7/STJ.
+Sem impugnação (e-STJ fl. 1.444).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AFASTAMENTO DA SÚMULA N. 182/STJ. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE. INSTRUÇÃO PROCESSUAL. OITIVA DE TESTEMUNHA. VIOLAÇÃO AO DEVER DE INCOMUNICABILIDADE. REEXAME. SÚMULA N. 7/STJ. CONTRATO DE COMPRA E VENDA. NULIDADE. ALEGAÇÃO DE SIMULAÇÃO. REEXAME. SÚMULA N. 7/STJ.
+1. Em juízo de retratação (art. 1.021, § 2º, do Código de Processo Civil), afasta-se a Súmula n. 182/STJ, quando verificado que a parte, no agravo em recurso especial, impugnou de forma específica todos os fundamentos da decisão que negou seguimento ao apelo extremo.
+2. No caso, o Tribunal de origem rejeitou a alegação de nulidade da instrução processual, porque não houve violação da incomunicabilidade das testemunhas, bem como confirmou a sentença de improcedência do pedido, tendo em vista que a alegada simulação do contrato de compra e venda não restou comprovada. A reforma dessas conclusões encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+A irresignação merece prosperar.
+No caso, a Presidência do Tribunal de origem negou seguimento ao recurso especial (e-STJ fls. 1.398/1.405) com base na aplicação da Súmula n. 7/STJ.
+No agravo em recurso especial (e-STJ fls. 1.406/1.411), a parte impugnou de forma específica referido fundamento da decisão então agravada, de modo que não há suporte fático para a incidência da Súmula n. 182/STJ e do art. 932, III, do Código de Processo Civil.
+Ante o exposto, com fundamento no art. 1.021, § 2º, do Código de Processo Civil, dou provimento ao agravo interno para tornar sem efeito a decisão proferida pela Presidência do STJ (e-STJ fls. 1.431/1.432), passando a novo exame da irresignação.
+Trata-se de agravo interposto contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO/ESCRITURA PÚBLICA DE COMPRA E VENDA - VENDA DE IMÓVEL DE SOCIEDADE EMPRESARIAL - SÓCIO MINORITÁRIO SIMULAÇÃO SENTENÇA DE IMPROCEDÊNCIA PRELIMINARES DE NULIDADE DA SENTENÇA AFASTADAS SIMULAÇÃO DO NEGÓCIO - NÃO COMPROVADOS ESCRITURA PÚBLICA DE COMPRA E VENDA DE IMÓVEL PROVA PLENA IMPOSSIBILIDADE DE ANULAÇÃO DO NEGÓCIO JURÍDICO SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1- Tem-se do documento de contrato social da empresa que ambos os sócios poderiam assinar, separadamente, todos os atos da sociedade, exigindo-se a assinatura em conjunto somente quando a atividade fosse estranha ao interesse social da empresa ou quando implicasse em obrigações em favor de um dos quotistas ou de terceiros, conforme interpretação da CLÁUSULA SEXTA do contrato social.
+2- Para que seja declarada a nulidade de um ato jurídico por simulação ou sua anulação por fraude ou dolo, necessária se faz a prova cabal da existência da dissimulação alegada, ônus que incumbe àquele que alega o prejuízo, nos termos do art. 373, I, do CPC.
+3- Em forte convicção entendo que se o sócio majoritário sabia dos negócios realizados pela sócia minoritária, e, logo concordava, mesmo que tacitamente dos feitos, não há como prosperar alegação de vício no negócio em decorrência da ausência de interesse da empresa, muito menos falar que o ato jurídico formalizado foi à revelia do sócio administrador, em simulada transação ou por ação de agiotagem, não comprovadas.
+4- Ante a ausência de prova de ocorrência de simulação ou vicio de nulidade no negócio jurídico celebrado entre as partes, bem como a irregularidade na escritura pública, impõe-se a improcedência do pedido inicial.
+5- Sentença Mantida. Recurso Desprovido." (e-STJ fl. 1.305)
+Nas razões do apelo nobre, a Recorrente aponta violação dos arts. 456 do Código de Processo Civil e 167 do Código Civil.
+Sustenta, em primeira tese, a nulidade da prova testemunhal colhida em audiência virtual, com a consequente anulação dos atos processuais subsequentes. Afirma que o ato solene violou o princípio da incomunicabilidade das testemunhas, pois uma delas teria se comunicado com terceiro durante a oitiva, enquanto outra realizava a leitura de seu depoimento em um computador, circunstâncias que teriam sido arguidas oportunamente em primeiro grau.
+Em segunda tese, defende a nulidade da escritura pública de compra e venda por simulação. Alega que o negócio jurídico foi celebrado por ex-sócia que não detinha poderes para, isoladamente, alienar bens imóveis da sociedade. Aduz, ainda, que a transação dissimulou uma garantia a empréstimos usurários (agiotagem), evidenciada por diversas inconsistências documentais, pela ausência de prova do efetivo pagamento e pelo preço vil do imóvel, muito inferior à sua avaliação de mercado.
+Contrarrazões às e-STJ fls. 1.390/1.397.
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+De início, no que tange à alegada ofensa ao art. 456 do Código de Processo Civil, a Recorrente sustenta a nulidade da prova testemunhal por suposta quebra da incomunicabilidade durante a audiência virtual.
+O Tribunal de origem, soberano na análise do acervo fático-probatório, afastou a prefacial de nulidade, por não vislumbrar vício na colheita da prova oral. Constou do aresto:
+"Assim conquanto a apelante não se insurgiu contra a alegada "comunicabilidade", ao ato de testemunha olhar ao lado e sorrir, por si só não conduz a alegada comunicação testemunhal, da mesma forma o ato de estar olhando para um computador, sendo o ato veiculado virtualmente por webcam e demais apetrechos eletrônicos, não comprovam de fato estar a testemunha conduzindo sua resposta a "cola" por qualquer meio." (e-STJ fl. 1.314)
+Rever essa conclusão para acolher a tese recursal de que houve comunicação indevida entre as testemunhas ou que uma delas lia seu depoimento demandaria, inequivocamente, o reexame das gravações da audiência e das demais provas dos autos, a fim de perquirir a ocorrência dos fatos como narrados pela parte.
+Esse procedimento, contudo, é vedado na via estreita do recurso especial, a teor do que dispõe o enunciado da Súmula n. 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial".
+A mesma sorte segue a segunda tese, referente à violação do art. 167 do Código Civil. A Recorrente defende a nulidade da escritura de compra e venda, ao argumento de que se tratou de negócio jurídico simulado para ocultar a prática de agiotagem.
+A Corte a quo, após detida análise dos elementos de prova - notadamente o contrato social da empresa -, concluiu pela ausência de comprovação da simulação, da prática de usura ou de qualquer outro vício de consentimento apto a invalidar o negócio. Consignou o acórdão que a sócia detinha poderes para a prática do ato e que não restaram demonstrados os fatos constitutivos do direito da autora, ora recorrente.
+Assim, infirmar o juízo a que chegou o Tribunal mato-grossense - para reconhecer a existência de simulação e a ausência de poderes da sócia - exigiria, da mesma forma, uma nova e aprofundada incursão no conjunto de fatos e provas que compõem a lide, providência que, como visto, encontra óbice intransponível na Súmula n. 7/STJ.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão da Presidência do STJ (e-STJ fls. 1.431/1.432) e, em novo julgamento, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
