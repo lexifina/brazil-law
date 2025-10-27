@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PREJUDICIALIDADE SUPERVENIENTE. ANULAÇÃO DO ACÓRDÃO RECORRIDO EM JULGAMENTO CORRELATO (NEGATIVA DE PRESTAÇÃO JURISDICIONAL). PERDA DO OBJETO DO RECURSO ESPECIAL DAS AUTORAS. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO. AGRAVO INTERNO PROVIDO EM JUÍZO DE RETRATAÇÃO.
+1.Proferida, em feito conexo, decisão que reconhece violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC e determina o retorno dos autos ao Tribunal de origem para enfrentamento de teses remanescentes, fica anulada a decisão local que também majorara honorários.
+2.Fica prejudicado, por perda superveniente de objeto, o recurso especial das autoras quanto à base de cálculo dos honorários (art. 85, § 2º, do CPC), devendo a verba ser redimensionada pelo Tribunal estadual no novo julgamento.
+3.Prejudicada, igualmente, a discussão sobre prequestionamento, diante da necessidade de novo pronunciamento explícito na origem.
+4.Agravo interno provido, em juízo de retratação, para julgar prejudicado o recurso especial das autoras. Sem majoração de honorários nesta fase.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PETRÓLEO BRASILEIRO S. A. - PETROBRAS contra a decisão monocrática que deu provimento ao recurso especial interposto por PETRO AMAZON PETRÓLEO DA AMAZÔNIA LTDA. E OUTROS.
+A controvérsia analisada nos presentes autos decorre de ação ordinária ajuizada por Petro Amazon Petróleo da Amazônia Ltda. e outros contra a Petróleo Brasileiro S.A. - Petrobras, com fundamento em contrato de compra e venda de combustíveis e respectivos aditivos.
+Os autores alegam que a Petrobras inseriu no contrato juros compensatórios e moratórios acima do patamar legal, resultando em cobranças indevidas. A perícia realizada no processo concluiu que houve cobrança de juros superiores aos autorizados, totalizando um valor indevido de R$ 11.202.252,03.
+A sentença de primeiro grau julgou procedentes os pedidos dos autores, declarando a nulidade da cobrança de juros acima do patamar legal, condenando a Petrobras à restituição em dobro dos valores cobrados indevidamente e afastando os encargos moratórios. A sentença também fixou honorários advocatícios em 15% sobre o valor da causa atualizado.
+A Petrobrás interpôs apelação, sustentando, entre outros pontos, a validade dos juros pactuados, a aplicação da Lei de Usura e a exclusão da repetição em dobro dos valores. A empresa também pleiteou a redução dos honorários advocatícios.
+O Tribunal de Justiça do Estado do Amazonas, ao analisar a apelação, não conheceu do recurso, sob o fundamento de que a Petrobras inovou em sede recursal ao alegar a aplicação da Lei de Usura, o que não foi objeto de discussão no Juízo de origem.
+Eis a ementa do julgado (fl. 1104):
+APELAÇÃO - AÇÃO DE COBRANÇA - CONTRATODE COMPRA E VENDA DE COMBUSTÍVEL -COBRANÇA DE JUROS ACIMA DO PATAMARLEGAL - INSURGÊNCIA RECURSAL BASEADA NA APLICAÇÃO DA LEI DA USURA - INOVAÇÃORECURSAL - VIOLAÇÃO AO PRINCÍPIO TANTUMDEVOLUTUM QUANTUM APPELLATUM -IMPOSSIBILIDADE - RECURSO NÃO CONHECIDO
+Opostos embargos de declaração, o recurso foi improvido.
+Irresignada, as agravadas interpuseram recurso especial (fls. 1156/1173), alegando a violação do artigo 85, §2º, do CPC, na medida em que o acórdão recorrido majorou os honorários de sucumbência, fixando-os sobre o valor da causa e não sobre o valor da condenação, havendo, portanto, dissonância entre a sua fixação e o texto normativo processual.
+Ao analisar o recurso especial, proferi a seguinte decisão monocrática (1453/1456):
+(..) A irresignação merece prosperar. Isso porque, conforme o disposto no artigo 85 §2º do CPC, "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa"(..) Dessa forma, o correto seria a majoração dos honorários advocatícios sucumbenciais devidos pela parte recorrente em percentual sob valor atualizado da condenação. Ante o exposto, dou provimento ao recurso especial, para reformar a acórdão impugnado e majorar os honorários advocatícios sucumbenciais para 18% sobre o valor da condenação.
+Nas razões do agravo interno (fls. 1467/1470), a agravante sustenta que a questão relacionada a base de cálculo dos honorários advocatícios estaria preclusa, tendo em vista que a ausência de prequestionamento, pois a matéria não foi mencionada no acórdão que julgou os Embargos de Declaração interpostos pela PETRO AMAZON.
+Requer a retratação/reforma da decisão monocrática impugnada, para negar provimento ao Recurso Especial interposto pela PETRO AMAZON.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PREJUDICIALIDADE SUPERVENIENTE. ANULAÇÃO DO ACÓRDÃO RECORRIDO EM JULGAMENTO CORRELATO (NEGATIVA DE PRESTAÇÃO JURISDICIONAL). PERDA DO OBJETO DO RECURSO ESPECIAL DAS AUTORAS. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO. AGRAVO INTERNO PROVIDO EM JUÍZO DE RETRATAÇÃO.
+1.Proferida, em feito conexo, decisão que reconhece violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC e determina o retorno dos autos ao Tribunal de origem para enfrentamento de teses remanescentes, fica anulada a decisão local que também majorara honorários.
+2.Fica prejudicado, por perda superveniente de objeto, o recurso especial das autoras quanto à base de cálculo dos honorários (art. 85, § 2º, do CPC), devendo a verba ser redimensionada pelo Tribunal estadual no novo julgamento.
+3.Prejudicada, igualmente, a discussão sobre prequestionamento, diante da necessidade de novo pronunciamento explícito na origem.
+4.Agravo interno provido, em juízo de retratação, para julgar prejudicado o recurso especial das autoras. Sem majoração de honorários nesta fase.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 259, §6º, do Regimento Interno do Superior Tribunal de Justiça, "o agravo regimental será submetido ao prolator da decisão, que poderá reconsiderá-la ou submeter o agravo ao julgamento da Corte Especial, da Seção ou da Turma, conforme o caso, computando-se também o seu voto".
+Após proceder a análise das razões apresentadas pelo recorrente, constatei estarem presentes argumentos que justifiquem a reconsideração da decisão de fls. 1453/1456.
+Isso porque, nesta mesma sessão de julgamento, esta relatoria está encaminhando voto condutor pelo provimento do agravo interno interposto pela PETRÓLEO BRASILEIRO S. A. - PETROBRAS contra a decisão monocrática que negou provimento ao seu recurso especial.
+Eis a ementa do julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO QUE NÃO ENFRENTOU TESES AUTÔNOMAS DEVOLVIDAS EM APELAÇÃO. INOVAÇÃO RECURSAL RESTRITA À LEI DE USURA. MATÉRIAS REMANESCENTES NÃO ALCANÇADAS: VALIDADE DOS JUROS PACTUADOS, CONFIGURAÇÃO DA MORA, REPETIÇÃO EM DOBRO, INCIDÊNCIA EXCLUSIVA DA TAXA SELIC. ARTS. 489, § 1º, IV, E 1.022, II, DO CPC. VIOLAÇÃO CONFIGURADA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO MONOCRÁTICA E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1.Configura violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC a ausência de enfrentamento, pelo Tribunal de origem, de teses autônomas e relevantes devolvidas em apelação, não abrangidas pela preliminar de inovação recursal (Lei de Usura).
+2.As questões relativas à validade dos juros contratados (arts. 113, § 1º, II, 421 e 422 do CC), à configuração da mora (arts. 394 e 401, I, do CC), ao cabimento da repetição em dobro (arts. 188, I, 884 e 940 do CC) e à incidência exclusiva da Taxa SELIC (art. 406 do CC) demandavam pronunciamento específico.
+3.Inaplicáveis, no ponto, os óbices das Súmulas 284/STF e 7/STJ, porquanto a controvérsia cinge-se à omissão do acórdão recorrido.
+4.Agravo interno provido para reconsiderar a decisão monocrática e dar parcial provimento ao recurso especial, anulando-se o acórdão dos embargos de declaração e determinando o retorno dos autos ao Tribunal de origem para que se manifeste expressamente sobre as teses remanescentes.
+Dess arte, com a anulação do acórdão que julgou a apelação interposta perante o Tribunal de origem, fica prejudicada a questão relacionada à majoração dos honorários decorrentes fixadas no julgado anulado, em razão da perda superveniente do objeto do recurso especial das ora agravadas, porquanto a verba honorária será necessariamente redimensionada pelo Tribunal local quando do novo julgamento, à luz do que vier a ser decidido sobre o mérito da apelação.
+De igual modo, fica prejudicada a alegação de ausência de prequestionamento suscitada no agravo interno da Petrobras, pois o debate sobre honorários dependerá de novo pronunciamento explícito da Corte estadual, ocasião em que as partes poderão, se for o caso, provocar o prequestionamento adequado.
+Ante o exposto, reconsidero a decisão de fls. 1453/1456 para conhecer do agravo interno e dar-lhe provimento, a fim de julgar prejudicado o recurso especial interposto por PETRO AMAZON PETRÓLEO DA AMAZÔNIA LTDA.
+Sem majoração de honorários nesta fase, porquanto inexistente sucumbência adicional e diante da prejudicialidade reconhecida.
+É como penso. É como voto.
