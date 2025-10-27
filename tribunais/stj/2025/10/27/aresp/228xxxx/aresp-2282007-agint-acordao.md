@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE MAJORAÇÃO. SÚMULA N. 7/STJ. ARBITRAMENTO DA VERBA SUCUMBENCIAL EM PATAMAR IRRISÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 282/STF.
+1. A jurisprudência desta Corte tem orientação no sentido de que, nas demandas que envolvam pedido de majoração ou redução de honorários advocatícios, o óbice da Súmula n. 7/STJ pode ser afastado em situações excepcionais, quando forem verificados excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. No caso dos autos, o Tribunal de origem não se manifestou especificamente sobre a alegação da União quanto ao fato de que a verba sucumbencial teria sido arbitrada em patamar irrisório em comparação com o valor da causa, tampouco foram opostos embargos declaratórios, pelo ente, para suprir eventual omissão a respeito do tema. Portanto, à falta do necessário prequestionamento, incide o entrave do Enunciado n. 282/STF.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela União desafiando decisão de fls. 3.457/3.463, que negou provimento ao agravo em recurso especial, ao fundamento de que "não se mostra possível, no âmbito do recurso especial, a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ" (fl. 3.460).
+Inconformada, sustenta a parte agravante, em resumo, que o referido óbice sumular deve ser afastado, porque a hipótese cuida de exceção que poderia ser acolhida pela jurisprudência do STJ, afastando a aplicação da Súmula n. 7/STJ. Isso porque estaria configurada como irrisória a verba sucumbencial arbitrada em R$ 3.000,00 (três mil reais), especialmente quando confrontada com o valor da causa, que aduz ser de R$ 96.125.671,19 (noventa e seis milhões, cento e vinte e cinco mil, seiscentos e setenta e um reais e dezenove centavos).
+A parte agravada apresentou impug nação às fls. 3.506/3.509.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE MAJORAÇÃO. SÚMULA N. 7/STJ. ARBITRAMENTO DA VERBA SUCUMBENCIAL EM PATAMAR IRRISÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 282/STF.
+1. A jurisprudência desta Corte tem orientação no sentido de que, nas demandas que envolvam pedido de majoração ou redução de honorários advocatícios, o óbice da Súmula n. 7/STJ pode ser afastado em situações excepcionais, quando forem verificados excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade.
+2. No caso dos autos, o Tribunal de origem não se manifestou especificamente sobre a alegação da União quanto ao fato de que a verba sucumbencial teria sido arbitrada em patamar irrisório em comparação com o valor da causa, tampouco foram opostos embargos declaratórios, pelo ente, para suprir eventual omissão a respeito do tema. Portanto, à falta do necessário prequestionamento, incide o entrave do Enunciado n. 282/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+Conforme já consignado, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, no âmbito do recurso especial, a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula n. 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada a ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos presentes autos.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. VALOR RAZOÁVEL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7STJ. PRECEDENTES.
+1. O Superior Tribunal de Justiça, em precedente submetido ao rito do art. 543-C do CPC/1973, firmou entendimento no sentido de que "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, do CPC/73, ou, ainda, um valor fixo, segundo o critério de equidade" (REsp 1.155.125/MG, Rel. Min. Castro Meira, Primeira Seção, DJe 6/4/2010).
+2. Nessa linha de percepção prevalece no STJ a orientação segundo a qual a fixação por equidade da verba honorária envolve a apreciação de matéria de ordem fática, de sorte que não se admite seu reexame na via especial ante o óbice da Súmula 7.
+3. Apenas excepcionalmente, permite-se que o valor da verba honorária seja revisto no âmbito do recurso especial, desde que o montante fixado seja irrisório ou exorbitante, o que não se verifica no caso dos autos, visto que o valor de R$ 10.000,00 (dez mil reais) fixados pela Corte de origem corresponde a 1,834% do valor da causa R$ 545.060,00 (quinhentos e quarenta e cinco mil e sessenta reais).
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.260.891/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/6/2021, DJe de 30/6/2021.)
+Como quer que seja, também é de se notar que a verba debatida se estabeleceu a favor da União por ocasião da prolação do acórdão em embargos de declaração, com inversão do ônus da sucumbência, como se vê do seguinte excerto (fl. 2.073):
+9. No que toca aos ônus da sucumbência, na sentença a parte autora foi condenada nas custas, inclusive periciais e honorários advocatícios, arbitrados em R$ 3.000,00, na forma do art. 20, § 4 0 , do CPC/1973, fl. 1183.
+10. A eg. 5 a turma deu parcial provimento ao apelo da autora, porém deixou de se manifestar quanto às custas e aos honorários advocatícios, fl. 1486, ponto esse que não foi impugnado via embargos de declaração.
+11. Por fim, quando do julgamento dos embargos infringentes restou consignado, tendo em vista o provimento do recurso, que ficavam invertidos os ônus da sucumbência, fl. 1618.
+Pelo exposto, rejeito os embargos de declaração de Usina Nova América S/A e acolho os declaratórios da União para, reconhecendo a ocorrência de omissão, condenar a parte autora nas custas e honorários advocatícios, no importe de R$3.000,00, conforme fixado na sentença.
+Assim, o Tribunal de origem não se manifestou especificamente sobre a alegação da União quanto ao fato de que a verba sucumbencial teria sido arbitrada em patamar irrisório em comparação com o valor da causa, tampouco foram opostos embargos declaratórios, pelo ente, para suprir eventual omissão a respeito do tema. Portanto, à falta do necessário prequestionamento, incide o obstáculo do Enunciado n. 282/STF.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
