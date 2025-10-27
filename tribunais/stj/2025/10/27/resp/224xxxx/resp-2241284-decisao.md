@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por P. G. S. SERVICOS ADMINISTRATIVOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 462-463):
+Apelação - Ação de dissolução total de sociedade - Sentença que, acolhendo a renúncia à pretensão formulada pela requerente, julgou extinto o feito, com resolução do mérito, nos termos do art. 487, III, "c", do CPC - Insurgência do réu - Não acolhimento - Pretensão de anulação da sentença - Alegação de que o "decisum" deveria ter sido proferido em conjunto com a ação anulatória em apenso - Rejeição - Considerando a renúncia ao direito formulada pela parte autora quanto à dissolução total da sociedade, não se vislumbra qualquer prejuízo ou nulidade à extinção da presente demanda e o julgamento da ação anulatória em separado - Renúncia ao direito a que se funda a ação que, ao contrário da desistência, constitui ato unilateral, que não depende de anuência da parte adversa, podendo ser pleiteada a qualquer tempo e grau de jurisdição - Juntada de procuração que confere ao patrono da parte autora poderes específicos para requerer a referida renúncia - Inexistência de pedido reconvencional no sentido de dissolver parcialmente a sociedade - Apenas houve, em contestação, resistência à pretensão autoral, que objetivava a dissolução total da sociedade - Alegação de intenção da autora em incorporar as atividades desempenhadas pela sociedade, em flagrante intento de concorrência desleal, além do mencionado abuso do poder de controle, que deve ser objeto de ação própria, considerando que a perda da "affectio societatis", por si só, não é suficiente para a exclusão do sócio - Sentença de extinção mantida - RECURSO IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 474-479).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 3º, 5º e 18 do CPC, sustentando: i) a inafastabilidade da pretensão de dissolução parcial pela PGS; ii) impossibilidade de renúncia manifestada pela Vanasa Multigás, sob pena de violação do dever de manutenção de conduta pautada na boa-fé.
+Foram oferecidas contrarrazões ao recurso especial (fls. 518/524).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 525-527), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 550-558).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade e diante das circunstâncias que envolvem a lide, há a necessidade de melhor exame do objeto do recurso especial, sendo de rigor sua reautuação.
+Ante o exposto, conheço do agravo para determinar a sua conversão em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade, a ser realizada no momento processual oportuno.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
