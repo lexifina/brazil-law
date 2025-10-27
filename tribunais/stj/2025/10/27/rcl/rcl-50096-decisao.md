@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, ajuizada contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido nos seguintes termos (fl. 12):
+RECURSO INOMINADO. CUMPRIMENTO DE SENTENÇA. IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO. AUSÊNCIA DE GARANTIA DO JUÍZO.
+Recurso do executado - Preliminar de nulidade da sentença - Incompetência do Juízo - Cerceamento de defesa - Inexistência de vínculo associativo - Excesso de execução - Ilegalidade da exigência de garantia do juízo - Executado beneficiário da gratuidade.
+Irresignação desacolhida - Preliminar de incompetência do juízo afastada - Juízo competente - Execução de sentença proferida pela Vara do Juizado Especial Cível - Impossibilidade de remessa ao Juízo comum - Cerceamento de defesa por indeferimento de prova pericial e inexistência de vínculo associativo - Matérias de mérito preclusas - Discussão deveria ter ocorrido em fase de conhecimento - Sentença transitada em julgado - Pretensão de rediscussão do mérito - Inadmissibilidade - Necessidade de garantia do Juízo para apreciação dos Embargos - Previsão expressa nos Artigos 52, inciso IX, alínea "d" e 53, §1º da Lei nº 9.099/95 combinado com Enunciado 117 do FONAJE - Erro material identificado na sentença ao reconhecer "improcedentes os embargos" - Hipótese de não conhecimento ante a ausência de garantia do juízo - Possibilidade de apreciação após a garantia - Sentença reformada apenas para correção de erro material no dispositivo - RECURSO DESPROVIDO.
+A parte reclamante sustenta que o "acórdão proferido pela 3ª Turma Recursal Cível do Tribunal de Justiça do Estado de São Paulo, que, ao manter decisão do Juizado Especial Cível da Comarca de Panorama/SP, afastou-se da tese firmada pelo Superior Tribunal de Justiça no Tema 882, vulnerando a autoridade desta Corte e comprometendo a uniformidade da interpretação do direito federal" (fl. 2).
+Aduz que o indeferimento da prova pericial "pelo Juízo do JEC  mantido pela Turma Recursal  implica cerceamento de defesa e evidencia que o feito excede a simplicidade exigida pelo art. 3º, § 1º, da Lei 9.099/95" (fl. 6).
+Requer liminarmente a suspensão do acórdão reclamado e, no mérito, a procedência da reclamação.
+É o relatório.
+Decido.
+A decisão reclamada foi publicada na vigência da Resolução n. 3 do STJ, de 8 de abril de 2016, que assim dispõe:
+Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes.
+É patente, pois, a incompetência desta Corte Superior para processar e julgar o presente pedido.
+Portanto, com base no art. 34, XVIII, do RISTJ, NÃO CONHEÇO da reclamação, determinando sua remessa ao Tribunal de Justiça do Estado de São Paulo , nos termos do art. 1º da Resolução n. 3/STJ, de 8 de abril de 2016.
+Publique-se e intimem-se.
+EMENTA
