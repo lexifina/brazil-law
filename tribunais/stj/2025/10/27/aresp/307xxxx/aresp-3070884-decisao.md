@@ -1,0 +1,19 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 298/303, in verbis:
+Trata-se de Agravo em Recurso Especial manejado por MARCILIO FERNANDES DA SILVA, por intermédio da Defensoria Pública do Estado de São Paulo, impugnando decisão do Presidente da Seção de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, que inadmitiu apelo nobre interposto com fundamento na alínea "a", do permissivo constitucional, contra acórdão proferido pela 2ª Câmara de Direito Criminal daquele Sodalício, cuja ementa é a seguinte (e-STJ fls. 227/234):
+ ..
+Deflui-se dos autos que a Juíza de Direito da 2ª Vara Criminal da Comarca de Jaú (SP) julgou parcialmente procedente a pretensão punitiva estatal em desfavor do ora agravante, condenando-o como incurso no artigo 128, caput, c/c artigo 61, inciso II, e artigo 14, inciso II, todos do Código Penal; sendo estabelecida a resposta penal em 2 (dois) meses e 27 (vinte e sete) dias de detenção, em regime inicial semiaberto.
+Contra a sentença condenatória (e-STJ fls. 176/178), a defesa interpôs apelação para pleitear a desclassificação da conduta para a contravenção penal de vias de fato ou para o crime de ameaça; e, subsidiariamente, aduziu a fixação da pena-base no mínimo legal, o reconhecimento da circunstância atenuante da confissão e a fixação do regime aberto para início do cumprimento de pena.
+O Tribunal Estadual deu parcial provimento ao recurso apenas para reconhecer a confissão espontânea e, consequentemente, reduzir a reprimenda para 2 (dois) meses e 21 (vinte e um) dias de detenção, mantendo, no mais, a sentença.
+Irresignada, a defesa interpôs recurso especial com fundamento na alínea "a", do permissivo constitucional, no qual aduziu violação ao artigo 33, §2º, alínea "c", do Código Penal, e pleiteou a alteração do regime inicial de cumprimento de pena para o aberto.
+Após o Tribunal a quo não admitir o pleito, com fundamento no óbice da Súmula 83/STJ, sobreveio a interposição do presente Agravo, com a finalidade de ver conhecido o Recurso Especial.
+Apresentadas as contrarrazões às fls. 270/278 (e-STJ), os autos subiram ao Superior Tribunal de Justiça, após o que vieram, digitalizados, ao Ministério Público Federal para manifestação.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, o Tribunal local decidiu em consonância com o entendimento pacificado nesta Corte Superior, uma vez que fixou o regime semiaberto com fundamentação idônea - existência de circunstância judicial desfavorável e reincidência -, aptas a justificarem o recrudescimento do regime prisional.
+Conforme devidamente apontado no parecer ministerial, cujas razões passo a adotar, "o regime inicial mais gravoso foi estabelecido para suficiente reprovação e prevenção do crime, tendo em vista a periculosidade do agente, que apresentou circunstância judicial desfavorável - crime praticado com arma branca - e ainda é reincidente em crime doloso. Diante desse quadro, mostra-se descabida a alegação de desproporcionalidade na imposição do meio prisional mais severo, estando as decisões das instâncias ordinárias em conformidade com o pacífico entendimento desta Corte Superior; pois, nada obstante ser a pena total do réu ser inferior a 4 anos de reclusão, as circunstâncias judiciais negativas e a sua reincidência indicam a necessidade de imposição do regime semiaberto" (e-STJ fl. 300).
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
