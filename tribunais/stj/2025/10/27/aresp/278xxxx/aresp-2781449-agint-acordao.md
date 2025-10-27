@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata- se de agravo interno interposto por ESPÓLIO DE NILSON DO MONTE REZENDE FILHO contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação aos seguintes fundamentos da decisão agravada: Súmula 83/STJ, ausência de afronta ao art. 1.022 do Código de Processo Civil, Súmula 7/STJ, Súmulas 283 e 284 do STF e Súmula 211/STJ (fls. 207-208).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que houve impugnação específica ao fundamento da Súmula 83/STJ, sustentando que o acórdão recorrido estaria em contrariedade com a jurisprudência do Superior Tribunal de Justiça, especialmente no que tange à possibilidade de análise de matérias de ordem pública em sede de exceção de pré-executividade, desde que não demandem dilação probatória. Argumenta, ainda, que a decisão agravada incorreu em erro ao aplicar a Súmula 182/STJ, pois teria enfrentado todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Impugnação ao agravo interno às fls. 228-257, na qual a parte agravada alega que o recurso é manifestamente protelatório, reiterando que o agravante não impugnou de forma específica os fundamentos da decisão agravada, especialmente no que tange à aplicação da Súmula 83/STJ. Requer, ainda, a aplicação de multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início, destaco que a decisão que não admitiu o recurso especial consignou:
+a) ausência de afronta ao art. 1.022 do Código de Processo Civil, pois o acórdão recorrido teria enfrentado todas as questões necessárias à solução da lide; b) incidência da Súmula 7/STJ, em razão da necessidade de reexame de matéria fático-probatória; c) incidência das Súmulas 283 e 284 do STF e da Súmula 211/STJ, em virtude da ausência de impugnação específica a fundamentos do acórdão recorrido; d) incidência da Súmula 83/STJ, ao entender que o acórdão recorrido estaria em consonância com a jurisprudência do Superior Tribunal de Justiça (fls. 110-115).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que o acórdão recorrido estaria em contrariedade com a jurisprudência do STJ, sem, contudo, demonstrar de forma específica e concreta a inaplicabilidade dos óbices sumulares apontados, especialmente da Súmula 83/STJ.
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19.9.2018, DJe 30.11.2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20.8.2019, DJe 22.8.2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende afastar a preclusão da matéria arguida em exceção de pré-executividade, sustentando que se trata de questão de ordem pública que não demanda dilação probatória.
+No caso dos autos, o Tribunal de origem entendeu que a matéria arguida em exceção de pré-executividade estava preclusa, pois poderia ter sido deduzida em embargos à execução, e que a objeção incidental foi manejada com propósito meramente procrastinatório (fls. 62-65).
+Assim, como consignado na decisão que não admitiu o recurso especial, eventual modificação da conclusão do colegiado passaria pela seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, o que atrai a incidência da Súmula 7/STJ.
+Deste modo, a orientação firmada pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, que reconhece a inadequação da exceção de pré-executividade para matérias que demandem dilação probatória ou que poderiam ter sido arguidas em embargos à execução, fazendo incidir, corretamente, a Súmula 83/STJ e, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
