@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. QUEDA NO DESEMBARQUE DE TRANSPORTE COLETIVO. PASSAGEIRA IDOSA. RELAÇÃO CONSUMERISTA. SENTENÇA REFORMADA. DANO MORAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, inciso III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, da Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRANSPORTADORA TINGUÁ LTDA - EM RECUPERAÇÃO JUDICIAL contra decisão da Ministra Presidente do Superior Tribunal de Justiça, na qual o agravo em recurso especial não foi conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada quanto à afronta ao artigo 1.022 do Código de Processo Civil e à incidência das Súmulas n. 7 e 83, com aplicação da Súmula n. 182 do Superior Tribunal de Justiça (e-STJ, fls. 892-893).
+Nas razões do presente agravo interno (e-STJ, fls. 897-921), a parte agravante alega que o recurso especial interposto preenche todos os requisitos de admissibilidade e que a decisão agravada incorreu em equívoco ao não admitir o agravo em recurso especial, não se aplicando ao caso a Súmula n. 7 do Superior Tribunal de Justiça. Sustenta que o acórdão recorrido apresenta omissões e contradições, violando os artigos 489 e 1.022 do Código de Processo Civil, assim como que o valor arbitrado a título de danos morais é desproporcional, devendo ser reduzido. Argumenta, ainda, que os juros de mora sobre a indenização por danos morais devem incidir a partir da data do arbitramento, e não da citação, afastando a incidência da Súmula n. 83 do Superior Tribunal de Justiça.
+Não houve impugnação ao agravo interno (e-STJ, fls. 926).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. QUEDA NO DESEMBARQUE DE TRANSPORTE COLETIVO. PASSAGEIRA IDOSA. RELAÇÃO CONSUMERISTA. SENTENÇA REFORMADA. DANO MORAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RECURSO ESPECIAL. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, inciso III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, da Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+A decisão que não admitiu o recurso especial assenta-se nos seguintes fundamentos: a) ausência de afronta aos artigos 489 e 1.022 do Código de Processo Civil; b) incidência da Súmula n. 7 do Superior Tribunal de Justiça quanto ao reconhecimento nexo causal e à reparação por dano moral; c) incidência da Súmula n. 83 do Superior Tribunal de Justiça quanto aos juros de mora (e-STJ, fls. 817-827).
+Nas razões do seu agravo em recurso especial (e-STJ, fls. 847-874), a parte agravante apenas afirmou, genericamente, que o acórdão recorrido apresenta omissões e contradições, que o valor arbitrado a título de danos morais é desproporcional e que os juros de mora devem incidir a partir da data do arbitramento. Não impugnou, de forma especificada, à negativa de afronta ao artigo 1.022 do Código de Processo Civil e à incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, o que afastaria o conhecimento do recurso especial.
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A propósito, a Corte Especial do Superior Tribunal de Justiça manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula n. 182 do Superior Tribunal de Justiça (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+De mais a mais, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182 do Superior Tribunal de Justiça.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
