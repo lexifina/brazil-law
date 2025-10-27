@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ALEXANDRE RICARDO FREUA contra acórdão proferido por esta colenda Quarta Turma, assim ementado (e-STJ, fl. 613):
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE. PRAZO PRESCRICIONAL DECENAL. DECISÃO EM DESACORDO COM A JURISPRUDÊNCIA DO STJ. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROVIDO.
+1. A jurisprudência desta Corte sedimentou-se no sentido de que, "nas demandas envolvendo resolução contratual cumulada com reintegração de posse, a prescrição obedece ao prazo decenal do art. 205 do Código Civil" (AgInt no AREsp 2.545.948/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024).
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar provimento ao recurso especial, a fim de afastar a prescrição quinquenal e determinar o retorno dos autos à origem, para novo julgamento do feito."
+Em suas razões (e-STJ, fls. 623-625), o embargante sustenta, em síntese, que o acórdão teria sido omisso, uma vez que não se manifestou sobre a tese de aplicação da teoria da causa madura ao presente feito, que permite ao Juízo "ad quem" apreciar o mérito da ação, diante da suficiência probatória e em respeito aos princípios da economia e da celeridade processuais.
+Requer, ao final, sejam sanados os vícios apontados, com a reconsideração da decisão embargada ou sua reforma pela Turma Julgadora.
+Não foi apresentada impugnação (e-STJ, fls. 6 30-632).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece ser acolhida.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+No caso, verifica-se que o acórdão embargado afastou a prescrição reconhecida pelo Tribunal a quo em sede preliminar no julgamento da apelação e determinou o retorno dos autos à origem para que prossiga no julgamento do feito, como entender de direito. Veja-se:
+"No caso, o Tribunal de origem reconheceu que se operou a prescrição da pretensão envolvendo o inadimplemento e a resolução contratual, julgando improcedente o pedido autoral. É o que se observa no trecho do v. acórdão recorrido, in verbis:
+"Dá-se provimento ao recurso de apelação interposto pela ré, pronunciando-se a prescrição, com o acolhimento, pois, de todos os pedidos formulados em reconvenção.
+Nesta ação, ajuizada no distante ano de 2013 e julgada em primeiro grau no ano de 2022, controverte-se quanto ao que envolve um contrato de compromisso de compra e venda de bem imóvel firmado em 2005. Como bem destacou o Ministério Público, e esse aspecto é de fundamental importância à análise da prescrição, a causa de pedir radica no fato de ter havido o inadimplemento de parte do preço, ou seja, da última parcela, dentre as três parcelas pactuadas.
+Pois bem, tratando-se de uma parcela envolvida no contrato, deve ser aplicada a regra do artigo 206, parágrafo 5º., inciso I, do Código Civil, e não a regra geral da prescrição, de maneira que o prazo de prescrição é de cinco anos, contado do momento em que o inadimplemento se configurou, observando que a parcela vencera em janeiro de 2006.
+A prescrição, cujo curso não foi suspenso ou interrompido, configurou-se em 2011, portanto.
+Oportuna a observação do Ministério Público no sentido de que, inerte no manifestar a vontade quanto ao pagamento da parcela, deixando que escoasse o prazo de prescrição, não pode o autor-apelado pretender que, com base nesse mesmo fato, rescinda-se o contrato, porque a prescrição incide sobre o nuclear fato que envolve essa mesma pretensão. Ou seja, a prescrição, quando incide sobre o fato nuclear de uma determinada pretensão, atinge essa mesma pretensão.
+E em consequência da prescrição, que obsta que o autor pudesse exigir o pagamento da última parcela, visto que não possui direito de ação para tanto, daí decorre a procedência aos pedidos que foram formulados em reconvenção, a dizer, a adjudicação do bem imóvel em favor da ré-apelante, com a sua reintegração na posse." (fls. 395/397)
+O entendimento adotado no acórdão recorrido se encontra em dissonância com a jurisprudência assente desta Corte Superior, sedimentada no sentido de que, "nas demandas envolvendo resolução contratual cumulada com reintegração de posse, a prescrição obedece ao prazo decenal do art. 205 do Código Civil" (AgInt no AREsp 2.545.948/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/5/2024, DJe de 29/5/2024). Nesse sentido:
+(..)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a prescrição quinquenal e determinar o retorno dos autos ao Tribunal de origem, para que prossiga no julgamento do feito, como entender de direito.
+Prejudicadas as demais teses recursais, em razão do afastamento da prescrição, in casu, e determinação de retorno dos autos à origem." (e-STJ, fls. 618-620)
+Nos termos da jurisprudência deste Superior Tribunal, não é possível a adoção da teoria da causa madura no exame do recurso especial, devido a necessidade de prequestionamento da matéria submetida a esta Corte, e sob pena de supressão de instância. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. EMBRIAGUEZ. ACIDENTE DE TRÂNSITO. TEORIA DA CAUSA MADURA. INAPLICÁVEL AO JULGAMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é possível a adoção da teoria da causa madura no exame do recurso especial, devido a necessidade de prequestionamento da matéria submetida a esta Corte. Precedentes.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido."
+(AgInt nos EDcl no REsp n. 2.071.128/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024, g.n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. DECISÃO SURPRESA. INOCORRÊNCIA. DECISÃO QUE DETERMINOU A PENHORA DE ATIVOS FINANCEIROS DE SÓCIO. RECURSO DA SOCIEDADE EMPRESÁRIA. LEGITIMIDADE. CONFIGURAÇÃO. APLICAÇÃO DA TEORIA DA CAUSA MADURA. IMPOSSIBILIDADE.
+1. Ação indenizatória em fase de cumprimento de sentença, da qual foi extraído o presente recurso especial interposto em 04/08/2021 e concluso ao gabinete em 21/11/2022.
+2. O propósito recursal consiste em definir se a) houve negativa de prestação jurisdicional; b) o Tribunal de origem violou o princípio da não surpresa e c) a sociedade empresária tem legitimidade para impugnar decisão judicial que determina a constrição de bens de seus sócios.
+3. Na hipótese em exame deve de ser afastada a existência de omissão no acórdão recorrido, pois as matérias impugnadas foram enfrentadas de forma objetiva e fundamentada no julgamento do agravo de instrumento, naquilo que o Tribunal a quo entendeu pertinente.
+4. A proibição de decisão surpresa (art. 10 do CPC/2015) não se refere aos requisitos de admissibilidade recursal, porquanto diz com a mera aplicação da legislação presumidamente de todos conhecida.
+Precedentes.
+5. A técnica da personalização visa, sobretudo, a conferir à pessoa jurídica autonomia negocial e patrimonial. O desvirtuamento da atividade empresarial, porque constitui verdadeiro abuso de direito dos sócios e/ou administradores, é punido pelo ordenamento jurídico com a desconsideração da personalidade jurídica da sociedade (art.
+50 do CC/02). A rigor, portanto, a desconsideração da personalidade da pessoa jurídica resguarda interesses de credores, bem como da própria sociedade indevidamente manipulada.
+6. O interesse na desconsideração ou na manutenção do véu protetor pode partir da própria pessoa jurídica, desde que esta seja capaz de demonstrar a pertinência de seu intuito, o qual deve sempre estar relacionado à defesa de direito próprio. Ou seja, a pessoa jurídica cuja personalidade se busca desconsiderar pode, ao menos em tese, se valer dos meios próprios de impugnação existentes para defender sua autonomia.
+7. Nada obstante a decisão judicial que determina a constrição de bens de sócio de sociedade empresária sem a observância do procedimento previsto nos arts. 133 a 137 do CPC/2015 não determine, expressamente, a desconsideração da personalidade jurídica, a esse provimento se equipara, já que produz o mesmo efeito, qual seja: a satisfação do direito do credor junto ao patrimônio dos sócios da sociedade empresária devedora. Sendo assim e considerando que a manutenção da autonomia dos patrimônios pode ser de interesse da própria empresa, a pessoa jurídica tem legitimidade para recorrer da decisão que autoriza a constrição de bem de sócio que não integra o polo passivo da ação, desde que o faça para defender interesse próprio, sem se imiscuir indevidamente na esfera de direitos do sócio.
+8. A teoria da causa madura não é aplicável ao julgamento do recurso especial, devido à inafastável necessidade de prequestionamento da matéria. Precedentes. Portanto, reconhecida a legitimidade recursal da recorrente, o processo deve retornar à origem para o julgamento do mérito do agravo de instrumento por ela interposto.
+9. Recurso especial conhecido e parcialmente provido."
+(REsp n. 2.057.706/RO, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 13/6/2023, DJe de 16/6/2023, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO.
+1. Afastada a prescrição, é consequência lógica a anulação do acórdão proferido pelo tribunal de origem com o necessário retorno dos autos para a análise do mérito da causa, em virtude da inaplicabilidade da teoria da causa madura em recurso especial.
+2. Embargos de declaração acolhidos para fins de esclarecimentos, sem efeitos modificativos."
+(EDcl no AgInt no REsp n. 1.830.015/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020, g.n.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AFASTAMENTO DA PRESCRIÇÃO EM SEDE DE AGRAVO EM RECURSO ESPECIAL. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. NECESSIDADE. IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA CAUSA MADURA EM RECURSO ESPECIAL.
+1. Afastada a prescrição, é necessário o retorno dos autos ao Tribunal de origem para a análise do mérito da causa, uma vez que a teoria da causa madura não é aplicada em sede de recurso especial.
+2. Agravo regimental não provido."
+(AgRg no AREsp n. 294.137/SP, relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 4/6/2013, DJe de 10/6/2013, g.n.)
+É evidente, pois, a ausência de omissão, obscuridade e contradição, apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
