@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. SEGURO PRESTAMISTA. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL QUE RECONHECEU A QUITAÇÃO DO CONTRATO SEM NENHUMA RESSALVA. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU contra decisão singular da lavra do Ministro Presidente do STJ, na qual o agravo em recurso especial não foi conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem (fls. 483-484).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não observou que os fundamentos da decisão denegatória foram especificamente impugnados no agravo em recurso especial.
+Sustenta que a decisão de inadmissibilidade do recurso especial, ao considerar que não houve violação ao art. 537 do Código de Processo Civil, não analisou adequadamente os argumentos apresentados, especialmente no que tange à impossibilidade de emissão do termo de quitação em razão da existência de débitos anteriores ao sinistro.
+Argumenta, ainda, que a multa aplicada é desproporcional e que estão presentes os requisitos de admissibilidade do recurso especial.
+Decorreu o prazo sem apresentação de impugnação (fl. 495).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. SEGURO PRESTAMISTA. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL QUE RECONHECEU A QUITAÇÃO DO CONTRATO SEM NENHUMA RESSALVA. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início, destaco que a decisão que não admitiu o recurso especial consignou que: a) a alegação de violação a dispositivos constitucionais não serve de suporte à interposição de recurso especial, por fugir às hipóteses do art. 105, III, da Constituição Federal; e b) não ficou demonstrada a alegada vulneração ao art. 537 do Código de Processo Civil, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão recorrido (fls. 438-439).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que "não está conseguindo proceder com a emissão do instrumento de quitação, uma vez que há débitos anteriores à data do sinistro que corresponde a quantia de R$ 13.569,11 (treze mil quinhentos e sessenta e nove reais e onze centavos), conforme já informado nos autos", sem demonstrar de forma concreta e pormenorizada a alegada violação, limitando-se a reiterar argumentos genéricos relativos à impossibilidade de emissão do termo de quitação em razão de débitos anteriores ao sinistro.
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19.9.2018, DJe 30.11.2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20.8.2019, DJe 22.8.2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende reformar o acórdão recorrido para afastar a multa aplicada e reconhecer a impossibilidade de emissão do termo de quitação em razão de débitos anteriores ao sinistro.
+No caso dos autos, o Tribunal de origem entendeu que o título judicial reconheceu a quitação do contrato sem nenhuma ressalva, sendo descabida a alegação de quitação parcial do contrato de financiamento, sob pena de ofensa à coisa julgada. Confira-se:
+Consta do título judicial a parcial procedência da ação, para "DETERMINAR à ré a expedição de termo de quitação do contrato de promessa de venda e compra firmado entre as partes (fls. 17/26) e a transferência da propriedade do imóvel situado na Rua René Neix, nº 03, Jardim CDHU ou Jardim Wanderlei, em Tatuí/SP, CEP 18.277-300, em favor da autora".
+E como bem ressaltou o juízo "a quo", "O trânsito em julgado ocorreu em 26 de fevereiro deste ano (fls. 330)".
+Desse modo, descabido argumentar com quitação parcial do contrato de financiamento quando não é isto que consta expressamente da r. sentença no qual se funda o presente cumprimento de sentença, que determinou a expedição do termo de quitação sem ressalvas, já transitado em julgado o decisum, o que obsta a discussão em sede de cumprimento de sentença, devendo ser cumprido o título judicial exequendo, sob pena de ofensa à coisa julgada  ..  (fls. 393-394).
+Assim, como consignado na decisão que não admitiu o recurso especial, não ficou demonstrada a alegada vulneração ao art. 537 do Código de Processo Civil, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão recorrido no sentido de "que o título judicial reconheceu a quitação do contrato sem qualquer ressalva, sendo descabida a alegação de quitação parcial do contrato de financiamento, sob pena de ofensa à coisa julgada".
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
