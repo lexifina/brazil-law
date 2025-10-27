@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE DIREITOS AUTORAIS. ECAD. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 /STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cumprimento de sentença de ação de cobrança de direitos autorais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por ROBERTO KENICKE JUNIOR, ACHILLES DE GRACIA COLLE, CARLOS ANTONIO NICOLAU FELIZ e KFC ADMINISTRACAO DE BENS E EMPREENDIMENTOS LTDA, contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: cumprimento de sentença de ação de cobrança de direitos autorais pelo Escritório Central de Arrecadação e Distribuição (ECAD) contra KFC Administração de Bens e Empreendimentos Ltda. e outros, referente à sonorização ambiental e eventos esporádicos realizados em estabelecimento comercial.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento de sentença.
+Acórdão: manteve a decisão de mérito, destacando a impossibilidade de rediscussão da matéria em razão da coisa julgada e preclusão consumativa, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PARCELA DA FUNDAMENTAÇÃO QUE CONTRARIA O ESTABELECIDO NA FASE DECISÓRIA. DECISÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE ALTERAÇÃO. COISA JULGADA. PRECLUSÃO. COBRANÇA DE DIREITOS AUTORAIS PELA UTILIZAÇÃO DE OBRAS MUSICAIS EM ESTABELECIMENTO COMERCIAL. CÁLCULOS QUE NÃO OBSERVAM O DETERMINADO EM SENTENÇA. IMPOSSIBILIDADE DE COBRANÇA REFERENTE AO PERÍODO DE RESTRIÇÃO DE ACESSO AO PÚBLICO EM DECORRÊNCIA DA PANDEMIA DA COVID-19. EXPRESSA DETERMINAÇÃO DO DECRETO Nº 4942 DE 30 DE JUNHO DE 2020 E DA RESOLUÇÃO SESA Nº 875 /2020. EXCLUSÃO DO PERÍODO NOS CÁLCULOS QUE É MEDIDA QUE SE IMPÕE. RECURSO PARCIALMENTE PROVIDO. 1. Em relação aos pedidos referentes aos valores cobrados a título de juros e correção monetária e dos valores cobrados a título de usuário eventual, a reforma da decisão agravada encontra óbice na coisa julgada. Os limites objetivos da coisa julgada se encontram nas questões já discutidas e decididas na fase de conhecimento, cujas matérias não mais são passíveis de reforma, sob pena de ofensa aos princípios da segurança jurídica e da boa-fé processual. 2. O Decreto nº 4942 de 30 de junho de 2020 determinou a suspensão do funcionamento de comércios de rua, bem como restringiu o funcionamento de restaurantes e lanchonetes, possibilitando o atendimento apenas por meio de entrega de produtos em domicílio (delivery), retirada expressa sem desembarque (drive thru) e/ou retirada em balcão (take away). 3. A Resolução SESA nº 875/2020 regulamentou o disposto nos arts. 3º, §2º e 5º do Decreto Estadual nº 4942, de 30 de junho de 2020, para implementar medidas de enfrentamento da emergência em saúde pública decorrente do Coronavírus - COVID-19, autorizando o funcionamento de restaurantes e lanchonetes apenas pela modalidade de delivery. 4. Referidas determinações restaram prorrogadas até as 5 horas do dia 10 de março de 2021, conforme Decreto nº 7020 de 05 de março de 2021, restando comprovado, portanto, que não houve o regular funcionamento da atividade comercial, estando a agravante impossibilitada de atender ao público em seu estabelecimento, não sendo cabível, em decorrência, a cobrança de direitos autorais por obras musicais reproduzidas em sua dependência. 5. A sentença julgou parcialmente procedentes os pedidos iniciais condenando a parte executada, ora agravante, ao pagamento das parcelas cobradas a título de contraprestação pela utilização de obras musicais como usuária permanente, desde maio de 2017 a agosto de 2019, correspondente aos exatos limites da planilha de débito de mov. 1.33, a qual não contempla o período de a .08/07/2020 10/03/2021 (e-STJ fls. 228-229)
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso Especial: alegou violação aos arts. 389 e 406 do CC e ao art. 4º do Decreto-Lei nº 22.626/33, argumentando que os cálculos apresentados pelo ECAD extrapolam os limites da sentença ao aplicar cumulativamente a TR, a média INPC/IGP-DI e uma taxa de juros adicional de 1% ao mês, configurando anatocismo vedado pela legislação.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: a parte agravante alega que não incide a Súmula 283/STF, pois houve impugnação específica ao fundamento do acórdão recorrido quanto à impossibilidade de análise de correção monetária e juros sob o risco de violação à coisa julgada. Afirma que não se aplica a Súmula 211/STJ, pois os arts. 389 e 406 do CC foram devidamente prequestionados, ao menos de forma implícita. Defendem ser indevida a incidência da Súmula 7/STJ, porque a análise da violação ao art. 4º do Decreto-Lei 22.626/33 e da alegada cobrança de juros sobre juros constitui questão de direito, fundada em dados incontroversos constantes das planilhas do exequente, prescindindo de reexame fático-probatório, admitindo-se mero juízo de subsunção normativa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. COBRANÇA DE DIREITOS AUTORAIS. ECAD. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 /STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cumprimento de sentença de ação de cobrança de direitos autorais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 283/STF, 7 e 211/STJ.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da existência de fundamento não impugnado
+Permanece a incidência da Súmula 283/STF, tendo em vista que a parte agravante não impugnou o seguinte fundamento utilizado pelo TJ/PR:
+Em relação aos pedidos referentes aos valores cobrados a título de juros e correção monetária e dos valores cobrados a título de usuário eventual, a reforma da decisão agravada encontra óbice na coisa julgada.
+Isso porque, a sentença de mérito (mov. 111.1) julgou e condenou os requeridos aos pagamentos dos direitos autorais pela sonorização ambiental do estabelecimento e pelos eventos esporádicos realizados, nos seguintes termos:
+(a) as parcelas cobradas a título de contraprestação pela utilização de obras musicais como usuária permanente, desde maio de 2017 a agosto de 2019, bem como as vincendas (art. 323 do CPC), correspondente aos exatos limites da planilha de débito de mov. 1.33, exceto quanto as multas de 10% indevidamente inseridas pela parte autora que deverão ser expurgadas;
+(b) bem como os direitos autorais devidos alusivos a shows e eventos realizadas no período de apuração de maio de 2017 a agosto de 2018 (mov. 1.33); exceto quanto as multas de 10% indevidamente inseridas pela parte autora que deverão ser expurgadas;
+Na sequência, complementada pelos embargos de declaração (mov. 141.1), estabeleceu os juros e correção monetária a serem aplicados nos cálculos, determinando que sobre os valores devidos devem incidir correção monetária pela média INPC/IGP-DI e juros de 1% ao mês desde o evento danoso:
+ ..
+Rediscutir a citada matéria, portanto, revela clara ofensa a coisa julgada material, nos termos do artigo 502 do Código de Processo Civil, que assim dispõe:
+Art. 502. Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+Os limites objetivos da coisa julgada se encontram nas questões já discutidas e decididas na fase de conhecimento, cujas matérias não mais são passíveis de reforma, sob pena de ofensa aos princípios da segurança jurídica e da boa-fé processual. (e-STJ fls. 231/233)
+É importante ressaltar que a aplicação da Súmula 283/STF está condicionada ao conteúdo tanto do acórdão recorrido quanto da impugnação apresentada pela parte agravante. Ademais, não é cabível recurso especial quando a questão discutida no acórdão não foi devidamente confrontada.
+Portanto, se a parte agravante não contestou o fundamento adotado pelo Tribunal, fica impedida de interpor recurso especial, uma vez que não preenche os requisitos estabelecidos pelo artigo 105, III, "a" da Constituição Federal, o que resulta na aplicação e manutenção da Súmula 283/STF.
+Nesse sentido: AgInt nos EDcl no AREsp 2.379.396/SP, Quarta Turma, DJe de 18/4/2024; e AgInt nos EDcl no AREsp 2.438.568/SP, Terceira Turma, DJe de 11/4/2024.
+- Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 389 e 406 do CC, apesar da oposição de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 211 do STJ.
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca da alegação de violação do art. 4º do Decreto-Lei nº 22.626/33 e a alegada cobrança de juros sobre juros, não demandaria o reexame de fatos e provas.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular 7/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
