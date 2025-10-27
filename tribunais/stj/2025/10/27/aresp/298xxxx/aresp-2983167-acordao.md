@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local se pronuncia sobre todos os temas importantes ao deslinde da controvérsia, não incorrendo em omissão, contradição ou obscuridade.
+2. Esta Corte possui entendimento consolidado no sentido de que se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por EMPREENDIMENTO IMOBILIARIO JARDIM DOS IPES - SPE LTDA. (EMPREENDIMENTO) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+EMENTA: Direito civil e consumidor. Apelação cível. Obrigação de fazer c/c indenização por danos morais e materiais. Execução de infraestrutura básica em loteamento urbano. Responsabilidade do empreendimento. Recurso desprovido. I. Caso em exame - 1. Trata-se de apelação cível interposta contra sentença que julgou parcialmente procedente a ação. O autor narra que adquiriu lote urbano com garantia de infraestrutura básica, mas não recebeu fornecimento de água tratada, motivo pelo qual requereu a obrigação de fornecimento e indenização por danos morais e materiais. A sentença condenou a empresa ao cumprimento das obras de infraestrutura para o fornecimento de água tratada e ao pagamento de indenização por danos morais e de multa contratual.
+II. Questão em discussão - 2. A questão em discussão consiste em (i) saber se há necessidade de suspender o processo até a conclusão de outro processo que trata do fornecimento de energia elétrica ao loteamento; (ii) apurar a responsabilidade da apelante pela infraestrutura de água tratada, e (iii) verificar a ocorrência de danos morais em razão da ausência de fornecimento de água.
+III. Razões de decidir - 3. A suspensão do processo não se justifica, pois não há identidade de causa entre a presente ação e o processo relativo ao fornecimento de energia elétrica, conforme jurisprudência desta Corte. 4. A responsabilidade pelo fornecimento de infraestrutura básica, incluindo a rede de água tratada, foi assumida contratualmente pela apelante, não lhe cabendo transferência da obrigação à concessionária de energia elétrica. 5. Configura-se o dano moral em favor do autor, pois a falta de fornecimento de água tratada representa descumprimento contratual e afeta negativamente a qualidade de vida.
+IV. Dispositivo e teses - 6. RECURSO CONHECIDO E DESPROVIDO. Tese de julgamento: "1. A responsabilidade pela execução da infraestrutura de água tratada em loteamento urbano é do empreendimento, que não pode transferi-la à concessionária de energia elétrica. 2. A falta de fornecimento de água tratada em lote adquirido gera dano moral em favor do comprador."
+Dispositivos relevantes citados: Código Civil, arts. 393 e 186; Lei nº 6.766/79, art. 2º, §5º.
+Jurisprudência relevante citada: TJGO, Apelação Cível 5092088-84.2023.8.09.0051, julgado em 16/04/2024; TJGO, Agravo de Instrumento 5252840-30.2023.8.09.0051, julgado em 07/08/2023; TJGO, Apelação Cível 5218314-69.2020.8.09.0139, julgado em 27/04/2023 (e-STJ, fls. 872/873).
+No presente inconformismo, EMPREENDIMENTO defendeu que formulou corretamente a alegação de ofensa ao art. 1.022 do CPC, razão pela qual não se aplicaria o óbice da Súmula n. 284 do STF.
+Foi apresentada contraminuta (e-STJ, fls. 1.023-1.027).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal local se pronuncia sobre todos os temas importantes ao deslinde da controvérsia, não incorrendo em omissão, contradição ou obscuridade.
+2. Esta Corte possui entendimento consolidado no sentido de que se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, EMPREENDIMENTO alegou a violação do art. 1.022 do CPC, ao sustentar que o acórdão recorrido é omisso por não analisar a afirmação de que a empresa comprovou a edificação de todas as obras, as quais não estão operando por incúria da concessionária de energia que não fez as ligações necessárias (e-STJ, fl. 919).
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Quanto ao ponto levantado na alegação de ofensa ao art. 1.022 do CPC, o Tribunal estadual consignou, expressamente, que as cláusulas contratuais impuseram a EMPREENDIMENTO a responsabilidade pelo fornecimento dos serviços de energia e água ao consumidor final, não lhe podendo ser admitida a transferência do ônus as concessionárias públicas.
+É o que se depreende do seguinte trecho do voto condutor do acórdão recorrido:
+Inconteste a aplicação do Código de Defesa do Consumidor à hipótese em julgamento, tendo em vista que o apelante é consumidor final do produto vendido pela apelada. Desse modo, as cláusulas do contrato devem ser interpretadas a favor daquele, pois parte mais vulnerável.
+No caso, a apelante busca isentar-se da responsabilidade, alegando que toda a infraestrutura necessária foi fornecida e que a concessionária pública é a responsável pela falta de água, já que falta energia elétrica, necessária à ligação das respectivas bombas. No entanto, pela cláusula 5.3 do contrato firmado entre as partes (mov. 1 - doc. 8), a infraestrutura de água tratada deveria estar concluída até agosto de 2022.
+Conquanto diga o contrato que "a rede de energia elétrica e iluminação pública foi entregue à concessionária (CELG) em maio de 1995" (cláusula 5.3 - mov. 1 - doc. 8) e que a ligação de energia e água é responsabilidade da ENEL e SANEAGO (cláusula 5.3.1. - mov. 1 - doc. 8), mostra-se incontável o fato que, decorridos mais de nove anos, não foi tomada nenhuma providência para se solucionar o problema.
+Ora, o contrato em questão estabelece que o loteamento deve ter infraestrutura pronta, incluindo água tratada, dentro do prazo. Embora o artigo 393 do Código Civil permita que o devedor não responda por casos fortuitos ou de força maior, isso não se aplica se o problema é interno à sua operação e dentro do seu controle. Neste caso, a apelante não demonstrou que o atraso não foi causado por fator imprevisível e inevitável.
+Assim, como o atraso é de responsabilidade da empresa fornecedora de serviços e o acesso à água tratada constitui serviço essencial, cabe-lhe responder pelos danos causados, conforme a lei de proteção ao consumidor. As dificuldades enfrentadas no processo, como a burocracia, são riscos inerentes à atividade da recorrente e não a eximem de responsabilidade.
+Como a empresa apelante não cumpriu a obrigação contratual no prazo estabelecido, está em mora e deve ser responsabilizada (e-STJ, fls. 866/867).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de HIGOR GUIMARAES SANTOS, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+É o meu voto.
