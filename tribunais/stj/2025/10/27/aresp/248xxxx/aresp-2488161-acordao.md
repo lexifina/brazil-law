@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DECLARATÓRIA DE NULIDADE COM OBRIGAÇÃO DE FAZER. EXCLUSÃO DO PARTICIPANTE DE PLANO DE BENEFÍCIO PREVIDENCIÁRIO. NÃO OBSERVÂNCIA DAS NORMAS PREVISTAS NO REGULAMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. No que toca à multa do art. 1.026, § 2º, do CPC, sua imposição é pertinente quando a parte interpõe segundos embargos de declaração suscitando omissão já rejeitada. Precedentes.
+Agravo conhecido. Recurso especial improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por ANDERSON DINIZ DO PRADO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fls. 1.610-1.611):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃO DECLARATÓRIA DE NULIDADE COM OBRIGAÇÃO DE FAZER. EXCLUSÃO DO PARTICIPANTE DE PLANO DE BENEFÍCIO PREVIDENCIÁRIO. NÃO OBSERVÂNCIA DAS NORMAS PREVISTAS NO REGULAMENTO. REINTEGRAÇÃO DO PARTICIPANTE. CASO CONCRETO. 1. DE ACORDO COM O ART. 2º DO REGULAMENTO QUE REGE O PLANO DE BENEFÍCIOS, PERDE A CONDIÇÃO DE PARTICIPANTE AQUELE QUE DEIXAR DE PAGAR 3 CONTRIBUIÇÕES CONSECUTIVAS OU 5 ALTERNADAS. NA FORMA DO §5º DO MESMO ARTIGO 2º É PREVISTO, AINDA, QUE O CANCELAMENTO DA INSCRIÇÃO PELO INADIMPLEMENTO DE CONTRIBUIÇÕES DEVERÁ SER PRECEDIDO DE NOTIFICAÇÃO FIXANDO PRAZO DE 30 DIAS PARA QUITAÇÃO DOS DÉBITOS. 2. HIPÓTESE EM QUE, QUANDO DO ENVIO DA CARTA DE AVISO DE INADIMPLEMENTO QUE DARIA ENSEJO AO DESLIGAMENTO DO AUTOR DO PLANO, AINDA NÃO HAVIA TRÊS PARCELAS CONSECUTIVAS EM ABERTO, MAS APENAS AS VENCIDAS NOS MESES 10 E 11/2018. AUSÊNCIA DE ENVIO DE NOVA CARTA APÓS O VENCIMENTO DA PARCELA DO MÊS 12/2018. 3 . SENDO NECESSÁRIAS TRÊS PARCELAS INADIMPLIDAS, SOMENTE APÓS O IMPLEMENTO DO TERCEIRO ATRASO É QUE O AUTOR DEVERIA TER SIDO NOTIFICADO PARA QUITAÇÃO EM 30 DIAS, E, PERSISTINDO O INADIMPLEMENTO, SER LEVADA A EFEITO SUA EXCLUSÃO DO PLANO PREVIDENCIÁRIO. 4 . A EXCLUSÃO DO AUTOR LOGO APÓS O TERCEIRO ATRASO CONSECUTIVO, SEM PRÉVIA NOTIFICAÇÃO PARA PAGAMENTO EM 30 DIAS, REVELA-SE NULA, POIS EM TOTAL DESCOMPASSO COM O ESTATUTO QUE REGE O PLANO. 5 . DECLARADA A NULIDADE DO ATO PRATICADO PELA RÉ, RECONHECENDO-SE O DIREITO DO DEMANDANTE DE SER REINTEGRADO AO PLANO DO QUAL PARTICIPOU POR MAIS DE 24 ANOS. RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 1.676-1.677 e 1.791- 1.792), tendo sido aplicada multa no julgamento dos segundos embargos de declaração.
+No recurso especial, o recorrente alega ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz (i) ausência de fundamentação específica sobre o pedido de tutela de urgência/evidência, apesar do dispositivo determinar "imediata reintegração"; o acórdão limitou-se a afirmar que o cumprimento só ocorreria após o trânsito em julgado, sem analisar os requisitos do art. 300 e 311 do CPC; (ii) erro material quanto às datas de admissão e de inscrição no plano, alegando comprovação em documento não enfrentado (iii) não enfrentamento do argumento de ausência de previsão regulamentar para contribuições extraordinárias no Regulamento do Plano Único da CGTEE.
+Requer afastamento da multa de 2% sobre o valor da causa, por inexistência de intuito protelatório.
+Oferecidas contrarrazões ao recurso especial (fls. 1.844-1.865), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.878-1.888), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.958-1.962).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DECLARATÓRIA DE NULIDADE COM OBRIGAÇÃO DE FAZER. EXCLUSÃO DO PARTICIPANTE DE PLANO DE BENEFÍCIO PREVIDENCIÁRIO. NÃO OBSERVÂNCIA DAS NORMAS PREVISTAS NO REGULAMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. No que toca à multa do art. 1.026, § 2º, do CPC, sua imposição é pertinente quando a parte interpõe segundos embargos de declaração suscitando omissão já rejeitada. Precedentes.
+Agravo conhecido. Recurso especial improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Na origem, trata-se de ação declaratória de nulidade cumulada com obrigação de fazer, em que a parte autora requer seja declarada a nulidade do ato de cancelamento da inscrição do autor no Plano Único da CGTEE, com sua imediata reintegração.
+Os pedidos foram julgados improcedentes na sentença. O Tribunal de origem deu provimento à apelação do autor, entendendo que a requerida não respeitara o procedimento de exclusão do participante, por não o ter notificado regularmente.
+O autor, ora recorrente, opôs embargos de declaração seguidos, ambos rejeitados, tendo sido aplicada multa.
+No recurso especial, alega nulidade do julgado por negativa de prestação jurisdicional. Aduz que o Tribunal de origem (fls. 1.809-1.810):
+(I) deixou de apreciar o acolhimento do pedido de tutela liminar e esclarecer o dever de a demanda cumprir a v. decisão de forma imediata;
+(II) incorreu em erro material quanto à correta data de admissão do autor bem como da data em que aderiu ao Plano da Fundação ré. Assim, era necessário que se esclarecesse que o autor foi admitido em 13.01.1995 e que aderiu ao Plano da Fundação ré em 10.01.1995, e não que sua admissão, bem como a adesão ao plano, ocorreram em 01.04.1995, tal como afirmado na v. decisão; e
+(III) acórdão não enfrentou a ausência de previsão regulamentar quanto às contribuições extraordinárias.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao julgar os primeiros embargos de declaração, deixou claro que (fl. 1.679):
+Relativamente à omissão quanto à concessão, ou não, da liminar, não assiste razão ao embargante, pois, na ausência de disposição em contrário, por certo que somente estará a ré obrigada ao cumprimento do comando judicial quando do trânsito em julgado do acórdão, momento em que a questão se torna indiscutível e não mais passível de modificação. Assim, a reintegração do autor ao plano deverá ser dar imediatamente após o trânsito em julgado, não antes.
+Quanto ao erro material relativo à data de ingresso do autor no plano, também não se faz presente, pois conforme informação constante da petição inicial (evento 1, INIC1, fl. 22) e da própria apelação (evento 81, APELAÇÃO1, fl. 02), o ingresso do participante se deu em 01-04- 1995, data mencionada no aresto.
+No que toca a suposta ausência de previsão regulamentar de cobrança de contribuições extraordinárias, igualmente não padece de vício o acórdão, pois impertinente sua apreciação, haja vista sua exigibilidade pela ré ser incontroversa, mormente diante do conteúdo da exordial, em que o autor reconhece se tratar de verba devida, tanto que postulada expressamente a concessão de oportunidade para pagamento dos valores correspondentes. Senão vejamos o item "b" dos pedidos (evento 1, INIC1, fl. 21):
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Ainda que contrariamente ao interesse da parte, o Tribunal de origem se manifestou sobre todos os pontos alegados.
+Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto à multa do art. 1.026, § 2º, do CPC, sua imposição é pertinente quando a parte interpõe segundos embargos de declaração suscitando omissão já rejeitada, como no caso dos autos, conforme registrado no acórdão recorrido. Nesse sentido, cito:
+RECURSO ESPECIAL. AUSÊNCIA DE RETRATAÇÃO. INTERPOSIÇÃO DE NOVO APELO NOBRE. DESCABIMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC INEXISTENTE. INCONFORMISMO. DOCUMENTOS NOVOS. SUPERVENIENTES OU DESCONHECIDOS. PRECEDENTES. DOCUMENTAÇÃO DE CONHECIMENTO DA PARTE. REVISÃO DO JULGADO. SÚMULA 7/STJ.
+1. Inviabilidade de análise do segundo recurso especial manejado, visto que, uma vez ausente juízo de retratação em razão de julgado qualificado, cabe ao Tribunal promover a remessa do primeiro recurso, sendo indevida a interposição de novo recurso especial. Precedente.
+2. Não há violação dos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem efetivamente enfrentou a questão que lhe foi submetida, relativa ao cabimento da ação de cobrança de valores de IPI obtidos pela recorrente, na qualidade de substituta processual, em ações que contestaram a incidência do referido imposto sobre os descontos incondicionais. Tais valores são devidos em razão do acordo que autorizou a atuação da recorrente em substituição à recorrida. 3. A
+propósito do contexto recursal, destacou a origem que as disposições contratuais estabeleciam o dever da recorrente no repasse dos valores, inexistindo qualquer condição suspensiva pendente ao implemento da quantia devida. Acresceu que a recorrente agiu de forma atentatória, com alteração da verdade dos fatos e má-fé, o que caminhou na fixação de multa.
+4. O inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. Precedentes.
+5. Sem censura o acórdão recorrido quando destaca que documentos novos são aqueles resultantes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, exegese do art. 435 do CPC (art. 397 do CPC/1973), preceito ao qual se submete eventual documentação juntada em grau recursal no Tribunal.
+6. "A juntada extemporânea de documentos somente é permitida em se tratando de documentos novos, decorrentes de fatos supervenientes ou conhecidos pela parte em momento posterior, o que não ocorreu no caso concreto" (AgInt nos EDcl no REsp n. 2.020.349/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 25/10/2023).
+7. Concluindo o Tribunal de origem que a documentação juntada após a interposição da apelação não se tratava de documentos novos, porquanto sempre estiveram de posse da recorrente, com conhecimento de seu teor, a revisão do julgado demandaria o reexame do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula 7/STJ.
+8. As alegações relativas à implementação da condição suspensiva e eventual preponderância da primeira sobre a segunda condição demandaria reexame do acervo fático-contratual dos autos. Incidência das Súmulas 5/STJ e 7/STJ.
+9. A aplicação das multas dos arts. 77, § 2º, e 81 do CPC decorreram de questões fático-processuais dos autos, o que novamente atrai a incidência da Súmula 7/STJ ao ponto.
+10. No que toca à multa do art. 1.026, § 2º, do CPC, sua imposição é pertinente quando a parte interpõe segundos embargos de declaração suscitando omissão já rejeitada. Precedentes.
+11. Os juros de mora, em razão do caráter contratual, deverão observar os parâmetros moratórios estabelecidos no art. 406 do CC, em sua redação original, impondo a incidência da Taxa Selic, vedada sua cumulação com correção monetária, até 27/8/2024, momento a partir do qual a correção monetária e os juros moratórios incidirão nos termos da nova redação dada pela Lei n. 14.905/2024 aos arts. 389 e 406 do CC.
+Precedentes.
+Recurso especial conhecido em parte e provido em parte.
+(REsp n. 2.116.567/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+É como penso. É como voto.
