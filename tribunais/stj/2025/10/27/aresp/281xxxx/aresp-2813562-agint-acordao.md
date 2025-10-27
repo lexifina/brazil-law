@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. LOCAÇÃO EM SHOPPPING CENTER. VIOLAÇÃO AO ART. 1.022 DO CPC/15. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APRESENTAÇÃO DE DOCUMENTOS. REINTEPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório carreado nos autos, dando parcial provimento a agravo de instrumento manejado pela parte ora Agravada em sede de ação de exigir contas, concluiu, entre outros fundamentos, que devem ser apresentados apenas os documentos referentes à locação entre os ora litigantes "excluindo-se os documentos que envolva interesse de terceiros".
+3. A pretensão de alterar tal entendimento, sobre a apresentação de documentos que envolvem terceiros, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (fls. 358-365) interposto por RTM COMÉRCIO DE BOLSAS E CALÇADOS LTDA - EPP contra decisão (fls. 289-292), desta relatoria, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, aos seguintes fundamentos:
+a) rejeitada a afronta ao art. 1.022 do CPC/15, uma vez que o eg. Tribunal Estadual analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação; e
+b) incidência das Súmulas n. 5 e n. 7, ambas do eg. STJ, no tocante à alegada violação aos arts. 550 e 551 do CPC/15 e ao art. 54, § 2º, da Lei n. 8.245/91.
+Os embargos de declaração (fls. 306-309) opostos foram rejeitados, conforme decisão às fls. 333-335.
+No agravo interno, RTM COMÉRCIO DE BOLSAS E CALÇADOS LTDA - EPP reitera a ofensa ao art. 1.022 do CPC, afirmando que "o acórdão estadual fundamenta que os documentos referentes a locação sejam apresentados, mas "excluindo-se os documentos que envolva interesse de terceiros". 20. É justamente este o objeto da ação originária: obter prestação de contas quanto à composição do preço global cobrado das Recorridas" (fls. 362 - destaques no original).
+Aduz, também, que " l imitar a prestação de contas aos documentos que são de interesse exclusivo da Recorrente - excluindo-se os que são de interesse de terceiros - viola expressamente os artigos 550 e 551 do Código Civil, na medida em que inviabiliza a apresentação específica das receitas, aplicação das despesas e dos respectivos investimentos!" (fls. 362 - destaques no original).
+Assevera, ainda, que o apelo nobre não esbarra nas Súmulas n. 5 e n. 7 do STJ, pois "a interposição do presente agravo em recurso especial não se destina a contornar essa vedação, mas sim a permitir a revisão de questões jurídicas relevantes que tenham sido erroneamente apreciadas pela instância inferior" (fls. 363 - destaques no original).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, que seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Intimadas, ASSOCIAÇÃO DOS LOJISTAS DO PLAZA SHOPPING E BR MALLS PARTICIPAÇÕES S. A apresentaram impugnação (fls. 370-374), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. LOCAÇÃO EM SHOPPPING CENTER. VIOLAÇÃO AO ART. 1.022 DO CPC/15. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APRESENTAÇÃO DE DOCUMENTOS. REINTEPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório carreado nos autos, dando parcial provimento a agravo de instrumento manejado pela parte ora Agravada em sede de ação de exigir contas, concluiu, entre outros fundamentos, que devem ser apresentados apenas os documentos referentes à locação entre os ora litigantes "excluindo-se os documentos que envolva interesse de terceiros".
+3. A pretensão de alterar tal entendimento, sobre a apresentação de documentos que envolvem terceiros, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso em apreço não merece prosperar, uma vez que não foram apresentados argumentos jurídicos aptos a ensejar a modificação da decisão agravada.
+De plano, deve ser rejeitada a suscitada afronta ao art. 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nessa linha de intelecção, os seguintes julgados somam-se àqueles já destacados na decisão vergastada:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.663.815/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Em relação à violação ao artigo 1022 do CPC, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem.
+(..)
+5. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.256.940/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024 - g. n.)
+Avançando, também deve ser confirmada a aplicação das aludidas Súmulas n. 5 e n. 7, quanto à invocada ofensa aos arts. 550 e 551 do CPC/15 e ao art. 54, § 2º, da Lei n. 8.245/91.
+No apelo nobre (fls. 116-125 ), ao qual se pretende trânsito, RTM COMÉRCIO DE BOLSAS E CALÇADOS LTDA - EP, indicando violação a tais normas, argumenta, em síntese, que "tanto no que tange às despesas previstas a título de "DESPESAS DE LOCAÇÃO", quanto aos pagamentos feitos em favor do FUNDO instituído pela Cláusula Nona, há expresso e incontestável dever de prestar contas por parte das Recorridas. É justamente este o objeto da ação originária: obter prestação de contas quanto à composição do preço global cobrado das Recorridas" (fls. 122 - destaques no original).
+Alega, também, que "é indubitável que para a devida demonstração da composição de preço, nos moldes previstos art. 54, §2º da Lei nº 8.245/1991, é necessário que sejam apresentados não só os valores que são cobrados diretamente da Recorrente, como também, os valores gerais das despesas do fundo e sua forma de rateio entre os demais associados" (fls. 123 - destaques no original).
+Preceitua, ainda, que "limitar a prestação de contas aos documentos que são de interesse exclusivo da Recorrente - excluindo-se os que são de interesse de terceiros - viola expressamente os artigos 550 e 551 do Código Civil, na medida em que inviabiliza a apresentação específica das receitas, aplicação das despesas e dos respectivos investimentos!" (fls. 124 - destaques no original).
+Por sua vez, o eg. TJ-RJ, com base no acervo fático-probatório carreado aos autos, dando parcial provimento a agravo de instrumento manejado pela parte ora Agravada tirado de ação de exigir contas, concluiu, entre outros fundamentos, que devem ser apresentados apenas os documentos referentes à locação entre os ora litigantes "excluindo-se os documentos que envolva interesse de terceiros". É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 57-67):
+"Cinge-se a controvérsia recursal em verificar o cabimento ou não da apresentação dos documentos solicitados no processo originário referente a locação comercial.
+A ação de exigir contas é a medida judicial colocada à disposição daquele que teve seus bens sob a administração ou gestão de terceiros, geralmente em consequência de contrato celebrado ou obrigação legal, que se desenvolve em duas etapas, sendo uma inicial em que se decide acerca da obrigação de serem prestadas as contas e outra, em que se julgam as contas propriamente ditas, aplicando-se as regras insculpidas nos artigos 550 a 553 do CPC, verbis:
+(..)
+Na hipótese, de locação de loja em shopping center, recai sobre o empreendedor do shopping, que administra os recursos dos lojistas, o dever de prestar as contas dos valores por ele geridos, nos termos do art. 54 da Lei 8.245/91, sendo, a toda evidência, garantido ao locatário a conferência dos lançamentos existentes em seus boletos mensais, para identificar se os mesmos são provenientes de seu contrato de locação, ou não.
+(..)
+A Terceira Turma do Superior Tribunal de Justiça, no julgamento do Resp 2.003.209, uniformizou o entendimento de que o prazo de sessenta dias fixado no art. 54, §2º, da Lei 8.245/913 diz respeito a periodicidade mínima para que o locatário faça a exigência das contas e não tem natureza decadencial.
+Dessa forma, o citado prazo representa uma faculdade concedida ao locatário para a cada 60 dias exigir pela via extrajudicial as contas do administrador.
+Tal disposição decorre da complexidade das locações em shopping centers e, portanto, o legislador previu o citado intervalo mínimo para o lojista exigi-las administrativamente.
+Contudo, a sua inobservância não inibe a propositura judicial da demanda.
+(..)
+No caso em tela, verifica-se que a autora foi locatária do espaço comercial administrado pelo réu, pretendendo que o locador apresente as contas referentes aos valores cobrados durante o tempo de vigência da locação entre as partes.
+Portanto, na qualidade de gestora do shopping center onde está situado o imóvel locado, a agravante tem o dever de prestar as contas.
+Nesse sentido, diante da relação contratual existente entres as partes é perfeitamente cabível a ação de prestação de contas e, sendo a administradora do shopping responsável por efetuar diretamente as cobranças do locatário, inconteste a legitimidade do locador em propor a ação, já que possui o direito de tomar conhecimento das despesas que influem diretamente no preço do aluguel e encargos condominiais.
+(..)
+Assim, a decisão agravada merece ser reformada para determinar que a agravante apresente apenas os documentos referentes a locação existente entre as partes, excluindo-se os documentos que envolva interesse de terceiros.
+Por tais fundamentos, voto no sentido de dar parcial provimento ao recurso, apenas, para determinar que a agravante apresente os documentos referentes a locação existente entre as partes, excluindo-se os documentos que envolva interesse de terceiros, mantendo-se, no mais, a decisão recorrida." (g. n.)
+Nesse contexto, em que pese os argumentos trazidos no agravo interno, tem-se que a pretensão de alterar o entendimento ora transcrito, para atingir documentos que envolve terceiros, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
