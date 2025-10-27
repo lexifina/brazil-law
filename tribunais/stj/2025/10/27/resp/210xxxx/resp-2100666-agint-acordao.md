@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DECISÃO DETERMINANDO QUE O TRIBUNAL DE ORIGEM PROCEDA AO JUÍZO DE CONFORMIDADE À LUZ DO TEMA 677/STJ. DEPÓSITO JUDICIAL. MORA DO DEVEDOR. AGRAVO INTERNO. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que determinou o retorno dos autos ao Tribunal de origem para juízo de conformidade à luz do entendimento revisado do Tema nº 677/STJ.
+2. A redação anterior original do Tema nº 677/STJ definia que "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada."
+3. A decisão agravada determinou que o Tribunal de origem proceda ao juízo de conformidade à luz das peculiaridades fáticas do caso e da nova redação dada ao Tema nº 677/STJ: "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial."
+4. Segundo os agravantes, a nova interpretação dada ao Tema nº 677 desta Corte não poderia retroagir para prejudicá-los.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o novo entendimento do Tema nº 677/STJ pode ser aplicado ao caso concreto, considerando que o processo ainda está em curso e que o depósito judicial foi realizado sob a vigência da redação anterior do tema.
+III. Razões de decidir
+6. Sendo a nova definição do Tema nº 677/STJ diretamente relacionada ao próprio objeto da pretensão recursal, o qual, por razões intrínsecas ao efeito obstativo dos recursos, não havia precluído, impõe-se, tal como determinado na decisão agravada, a baixa do feito para que o Tribunal de origem proceda ao juízo de conformidade à luz da nova definição do Tema Repetitivo nº 677 desta Corte e das peculiaridades fáticas do caso.
+IV. Dispositivo
+7. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha relatoria que determinou o retorno dos autos ao Tribunal de origem com a respectiva baixa a fim de que se proceda ao juízo de conformidade à luz do entendimento firmado no Tema nº 677 desta Corte. Transcrevo a decisão na íntegra para que componha o presente relatório:
+Trata-se de recurso especial interposto por GABRIELA FLORES DE NORONHA FIGUEIREDO PANTAZOPOULOS, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 933):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. APELAÇÃO CÍVEL. DEPÓSITO INTEGRAL DO VALOR DEVIDO. MORA DO DEVEDOR. INEXISTÊNCIA. JUROS DE MORA. INAPLICABILIDADE. CORREÇÃO MONETÁRIA. ÍNDICE. INSTITUIÇÃO FINANCEIRA. SENTENÇA MANTIDA.
+1. Apelação cível em que a exequente busca a incidência de juros de mora e correção monetária sobre o valor integral depositado em juízo, no período entre o depósito e o efetivo levantamento.
+2. O depósito integral do valor devido em juízo no cumprimento de sentença elide a mora do devedor, cuja quantia passa a receber correção monetária e juros segundo os critérios da instituição financeira.
+2. Ademais, com relação à correção monetária, nos termos da Súmula 179 do STJ, "o estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento da correção monetária relativa aos valores recolhidos".
+3. Negou-se provimento ao recurso de apelação.
+Os embargos de declaração opostos, na sequência, foram rejeitados nos termos da seguinte ementa (fl. 997):
+EMBARGOS DE DECLARAÇÃO. DEPÓSITO INTEGRAL DO VALOR DEVIDO. MORA DO DEVEDOR. INEXISTÊNCIA. AUSÊNCIA DE OMISSÃO. REEXAME DA MATÉRIA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração têm por finalidade a eliminação de obscuridade, contradição e omissão existentes no julgado, e, ainda, por construção pretoriana, a correção do erro material.
+2. A via estreita dos embargos de declaração, recurso de fundamentação vinculada, não permite, por si, o reexame da matéria debatida e decidida, conjectura que reclama outra espécie de recurso.
+3. Embargos de declaração rejeitados.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 489, § 1º, inciso IV, 904, inciso I, 906 e 1022, inciso II e parágrafo único, inciso II, todos do Código de Processo Civil e aos arts. 394, 395 e 401, inciso I, do Código Civil.
+Sustenta, em síntese: a) negativa de prestação jurisdicional; b) que o depósito com finalidade de garantia do juízo não elide a mora do devedor, sendo devidos juros e correção monetária até o efetivo levantamento dos valores.
+Com contrarrazões (fls. 1.161-1.191), o recurso foi admitido na origem.
+É o relatório. Decido.
+No caso, o Tribunal de origem assim se manifestou acerca da controvérsia (fls. 938-941):
+Não assiste razão à apelante.
+O cerne da questão cinge-se em aferir a incidência de juros de mora e correção monetária durante o período entre o depósito judicial do débito executado e o efetivo levantamento de tal valor.
+Compulsando os autos, verifica-se que os executados efetivaram o pagamento judicial do débito de forma voluntária relativo à distribuição de lucros do ano-exercício de 2020 (ID 40220514 e40220516), e do ano-exercício de 2021 (ID 40220527 e 40220529).
+Sobre o tema, é pacífico o entendimento jurisprudencial que o depósito integral do calor devido em juízo a título de cumprimento de sentença elide a mora do devedor, cuja quantia passa a receber juros e correção monetária segundo os critérios da instituição financeira.
+ ..
+Assim, consoante bem pontuou o d. juízo a quo, uma vez consignados os valores em juízo, não há mais que se falar em mora do devedor, mormente quando a impossibilidade de levantamento de valores não se deu por responsabilidade dos devedores, mas sim porque o cumprimento de sentença era, até então, provisório, o que impedia a retirada do valor executado sem que se prestasse caução idônea e suficiente, por serem expressivos os valores depositados, nos termos do art. 520, inciso IV, e art. 521, parágrafo único, in verbis:
+ ..
+Com relação à correção monetária, ressalte-se que, nos termos da Súmula 179 do STJ, "o estabelecimento de crédito que recebe dinheiro, em depósito judicial, responde pelo pagamento de correção monetária relativa aos valores recolhidos".
+Verifica-se do excerto acima transcrito que o depósito foi feito quando ainda vigia o Tema 677/STJ e, em razão disso, o Tribunal de origem o aplicou no caso concreto.
+Ocorre que o presente processo ainda está em curso e o referido paradigma foi revisto pela Corte Especial e, agora, o entendimento da Corte acerca do tema é no sentido de que: "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial". Eis a ementa do julgado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. RECURSO ESPECIAL. PROCEDIMENTO DE REVISÃO DO ENTENDIMENTO FIRMADO NO TEMA 677/STJ. CUMPRIMENTO DE SENTENÇA. PENHORA DE ATIVOS FINANCEIROS. DEPÓSITO JUDICIAL. ENCARGOS MORATÓRIOS PREVISTOS NO TÍTULO EXECUTIVO. INCIDÊNCIA ATÉ A EFETIVA DISPONIBILIZAÇÃO DA QUANTIA EM FAVOR DO CREDOR. BIS IN IDEM. INOCORRÊNCIA. NATUREZA E FINALIDADE DISTINTAS DOS JUROS REMUNERATÓRIOS E DOS JUROS MORATÓRIOS. NOVA REDAÇÃO DO ENUNCIADO DO TEMA 677/STJ.
+1. Cuida-se, na origem, de ação de indenização, em fase de cumprimento de sentença, no bojo do qual houve a penhora online de ativos financeiros pertencentes ao devedor, posteriormente transferidos a conta bancária vinculada ao juízo da execução.
+2. O propósito do recurso especial é dizer se o depósito judicial em garantia do Juízo libera o devedor do pagamento dos encargos moratórios previstos no título executivo, ante o dever da instituição financeira depositária de arcar com correção monetária e juros remuneratórios sobre a quantia depositada.
+3. Em questão de ordem, a Corte Especial do STJ acolheu proposta de instauração, nos presentes autos, de procedimento de revisão do entendimento firmado no Tema 677/STJ, haja vista a existência de divergência interna no âmbito do Tribunal quanto à interpretação e alcance da tese, assim redigida: "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada".
+4. Nos termos dos arts. 394 e 395 do Código Civil, considera-se em mora o devedor que não efetuar o pagamento na forma e tempos devidos, hipótese em que deverá responder pelos prejuízos a que sua mora der causa, mais juros e atualização dos valores monetários, além de honorários de advogado. A mora persiste até que seja purgada pelo devedor, mediante o efetivo oferecimento ao credor da prestação devida, acrescida dos respectivos consectários (art. 401, I, do CC/02).
+5. A purga da mora, na obrigação de pagar quantia certa, assim como ocorre no adimplemento voluntário desse tipo de prestação, não se consuma com a simples perda da posse do valor pelo devedor; é necessário, deveras, que ocorra a entrega da soma de valor ao credor, ou, ao menos, a entrada da quantia na sua esfera de disponibilidade.
+6. No plano processual, o Código de Processo Civil de 2015, ao dispor sobre o cumprimento forçado da obrigação, é expresso no sentido deque a satisfação do crédito se dá pela entrega do dinheiro ao credor, ressalvada a possibilidade de adjudicação dos bens penhorados, nos termos do art. 904, I, do CPC.
+7. Ainda, o CPC expressamente vincula a declaração de quitação da quantia paga ao momento do recebimento do mandado de levantamento pela parte exequente, ou, alternativamente, pela transferência eletrônica dos valores (art. 906).
+8. Dessa maneira, considerando que o depósito judicial em garantia do Juízo - seja efetuado por iniciativa do devedor, seja decorrente de penhora de ativos financeiros - não implica imediata entrega do dinheiro ao credor, tampouco enseja quitação, não se opera a cessação da mora do devedor. Consequentemente, contra ele continuarão a correr os encargos previstos no título executivo, até que haja efetiva liberação em favor do credor.
+9. No momento imediatamente anterior à expedição do mandado ou à transferência eletrônica, o saldo da conta bancária judicial em que depositados os valores, já acrescidos da correção monetária e dos juros remuneratórios a cargo da instituição financeira depositária, deve ser deduzido do montante devido pelo devedor, como forma de evitar o enriquecimento sem causa do credor.
+10. Não caracteriza bis in idem o pagamento cumulativo dos juros remuneratórios, por parte do Banco depositário, e dos juros moratórios, a cargo do devedor, haja vista que são diversas a natureza e finalidade dessas duas espécies de juros.
+11. O Tema 677/STJ passa a ter a seguinte redação: "na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial".
+12. Hipótese concreta dos autos em que o montante devido deve ser calculado com a incidência dos juros de mora previstos na sentença transitada em julgado, até o efetivo pagamento da credora, deduzido o saldo do depósito judicial e seus acréscimos pagos pelo Banco depositário.
+13. Recurso especial conhecido e provido.
+(REsp 1.820.963/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em , DJe de 19/10/2022 16/12/2022)
+Assim, considerando o disposto nos arts. 1.039, 1.040 e 1.0141 do Código de Processo Civil, que dispõem sobre a atuação dos Tribunais locais após o julgamento do recurso especial submetido ao regime dos recursos repetitivo, cumpre a esta Corte devolver os autos ao Tribunal de origem para que o acórdão ora impugnado seja reexaminado pelo órgão colegiado, que deverá realizar o juízo de conformidade à luz do novo entendimento do Tema 677/STJ.
+Ressalta-se, por derradeiro, que a jurisprudência desta Corte é no sentido de que, " P ara aplicação da orientação firmada em caso repetitivo, não é necessário aguardar o trânsito em julgado do acórdão correspondente" (AgInt no REsp 1.667.497/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024)
+Diante do exposto, determina-se o retorno dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que encaminhe o feito ao órgão julgador que proferiu o acórdão recorrido para que, à luz do novo entendimento do Tema 677 /STJ, proceda ao juízo de conformidade, nos termos do que determinam os arts. 1.040 e 10.41 do Código de Processo Civil.
+Publique-se. Intimem-se.
+Segundo os agravantes, a nova interpretação dada ao Tema nº 677 desta Corte, o qual definiu que o depósito feito como garantia do juízo não exime o devedor do pagamento dos consectários da mora, não poderia retroagir para prejudicá-los (e-STJ fls. 1305).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. DECISÃO DETERMINANDO QUE O TRIBUNAL DE ORIGEM PROCEDA AO JUÍZO DE CONFORMIDADE À LUZ DO TEMA 677/STJ. DEPÓSITO JUDICIAL. MORA DO DEVEDOR. AGRAVO INTERNO. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que determinou o retorno dos autos ao Tribunal de origem para juízo de conformidade à luz do entendimento revisado do Tema nº 677/STJ.
+2. A redação anterior original do Tema nº 677/STJ definia que "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada."
+3. A decisão agravada determinou que o Tribunal de origem proceda ao juízo de conformidade à luz das peculiaridades fáticas do caso e da nova redação dada ao Tema nº 677/STJ: "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial."
+4. Segundo os agravantes, a nova interpretação dada ao Tema nº 677 desta Corte não poderia retroagir para prejudicá-los.
+II. Questão em discussão
+5. A questão em discussão consiste em saber se o novo entendimento do Tema nº 677/STJ pode ser aplicado ao caso concreto, considerando que o processo ainda está em curso e que o depósito judicial foi realizado sob a vigência da redação anterior do tema.
+III. Razões de decidir
+6. Sendo a nova definição do Tema nº 677/STJ diretamente relacionada ao próprio objeto da pretensão recursal, o qual, por razões intrínsecas ao efeito obstativo dos recursos, não havia precluído, impõe-se, tal como determinado na decisão agravada, a baixa do feito para que o Tribunal de origem proceda ao juízo de conformidade à luz da nova definição do Tema Repetitivo nº 677 desta Corte e das peculiaridades fáticas do caso.
+IV. Dispositivo
+7. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos anteriormente expendidos, motivo pelo qual mantenho a decisão recorrida pelos seus próprios fundamentos.
+Isso porque, como definido na decisão agravada, a releitura do Tema nº 677 desta Corte sobreveio enquanto ainda pendente de julgamento o recurso dos agravantes, que trouxe como objeto da pretensão recursal insurgência especificamente relacionada à tese firmada nesse Tema: "Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial."
+Ao contrário do que sugerem os agravantes, sendo a nova definição do Tema em análise diretamente relacionada ao próprio objeto da pretensão recursal, o qual, por razões intrínsecas ao efeito obstativo dos recursos, não havia precluído, impõe-se, tal como determinado na decisão agravada, a baixa do feito para que o Tribunal de origem proceda ao juízo de conformidade à luz da nova redação do Tema Repetitivo nº 677 desta Corte e das peculiaridades fáticas do caso.
+Firme nessas razões, manifesto meu voto pelo não provimento do presente agravo interno.
+É como voto.
