@@ -1,0 +1,107 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ALUGUEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO E AÇÃO POSSESSÓRIA. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO REC ORRIDO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Francisco Luiz Oliveira Xavier contra decisão que inadmitiu recurso especial manejado com fundamento no art. 105, III, "a" e "c", da CF/1988, em face de acórdãos proferidos pela 11ª Câmara de Direito Privado em demandas relativas à consignação em pagamento de aluguéis e à ação possessória sobre imóvel locado. O agravante sustenta que a controvérsia é exclusivamente de direito e alega violação dos arts. 1.022 e 489, §§ 1º e 3º, do CPC/2015.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o acórdão recorrido incorreu em omissões ou contradições ao apreciar as provas e fundamentos jurídicos relevantes, em violação aos arts. 1.022 e 489 do CPC; (ii) estabelecer se o recurso especial pode ser conhecido para reexaminar a suficiência dos depósitos consignados e a legitimidade da parte locadora para o recebimento dos aluguéis.
+III. RAZÕES DE DECIDIR
+3. O recurso especial não pode ser conhecido quando a sua análise demanda o reexame do acervo fático-probatório dos autos, por incidência da Súmula 7/STJ.
+4. A definição sobre a validade da posse exercida pela locadora, a suficiência dos depósitos consignados e a caracterização de infrações contratuais depende da reavaliação de provas e cláusulas contratuais, soberanamente apreciadas pelas instâncias ordinárias.
+5. O julgador não está obrigado a rebater, um a um, todos os dispositivos legais invocados, sendo suficiente a exposição dos fundamentos jurídicos determinantes da decisão, o que afasta a alegada violação aos arts. 1.022 e 489 do CPC.
+6. A jurisprudência do STJ é pacífica no sentido de que não cabe recurso especial para rediscutir fatos e provas, cabendo às instâncias ordinárias a análise da matéria fática. Precedentes
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto por Francisco Luiz Oliveira Xavier contra decisão do Tribunal de origem que inadmitiu o recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE ALUGUEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO E AÇÃO POSSESSÓRIA. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO REC ORRIDO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto por Francisco Luiz Oliveira Xavier contra decisão que inadmitiu recurso especial manejado com fundamento no art. 105, III, "a" e "c", da CF/1988, em face de acórdãos proferidos pela 11ª Câmara de Direito Privado em demandas relativas à consignação em pagamento de aluguéis e à ação possessória sobre imóvel locado. O agravante sustenta que a controvérsia é exclusivamente de direito e alega violação dos arts. 1.022 e 489, §§ 1º e 3º, do CPC/2015.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o acórdão recorrido incorreu em omissões ou contradições ao apreciar as provas e fundamentos jurídicos relevantes, em violação aos arts. 1.022 e 489 do CPC; (ii) estabelecer se o recurso especial pode ser conhecido para reexaminar a suficiência dos depósitos consignados e a legitimidade da parte locadora para o recebimento dos aluguéis.
+III. RAZÕES DE DECIDIR
+3. O recurso especial não pode ser conhecido quando a sua análise demanda o reexame do acervo fático-probatório dos autos, por incidência da Súmula 7/STJ.
+4. A definição sobre a validade da posse exercida pela locadora, a suficiência dos depósitos consignados e a caracterização de infrações contratuais depende da reavaliação de provas e cláusulas contratuais, soberanamente apreciadas pelas instâncias ordinárias.
+5. O julgador não está obrigado a rebater, um a um, todos os dispositivos legais invocados, sendo suficiente a exposição dos fundamentos jurídicos determinantes da decisão, o que afasta a alegada violação aos arts. 1.022 e 489 do CPC.
+6. A jurisprudência do STJ é pacífica no sentido de que não cabe recurso especial para rediscutir fatos e provas, cabendo às instâncias ordinárias a análise da matéria fática. Precedentes
+IV. DISPOSITIVO
+7. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 1337-1341):
+Trata-se de recurso especial, fls. 1278/1292, tempestivo, com fulcro nos artigos 105, III, "a" e "c", da Constituição Federal, interposto em face de acórdãos da 11ª Câmara de Direito Privado, fls. 1217/1239 e 1263/1276, assim ementados:
+"APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO.
+- Autor que, alegando possuir dúvidas sobre quem deveria receber valores devidos em contrato de aluguel, ajuizou a presente demanda consignatória. - Sentença vergastada que, analisando conjuntamente a presente demanda consignatória e ação possessória ajuizado pelo primeiro réu, julgou procedentes os pedidos iniciais formulados em ambas as ações para: I) determinar a reintegração do espólio na posse do imóvel descrito na exordial do processo de nº. 0181154-45.2020.8.19.0001; II) declarar o espólio como efetivo proprietário do apartamento objeto da demanda possessória; e III) estabelecer que cabe ao espólio levantar os aluguéis depositados na ação consignatória de nº. 0268892- 71.2020.8.19.0001. Por fim, condenou os réus de ambos os processos ao pagamento das despesas processuais, bem como a pagar honorários advocatícios de sucumbência, fixados em 10% do valor atualizado da causa.
+- Apelo interposto pela segunda demandada que deve ser conhecido, eis que presentes os requisitos extrínsecos e intrínsecos de admissibilidade.
+- Questões relacionadas à nulidade do julgado, à remessa dos autos à primeira instância, bem como sobre a alegação de violação ao princípio da congruência que já foram devidamente analisadas por este órgão fracionário quando do julgamento do processo de nº. 0181154- 45.2020.8.19.0001, devendo ser apreciadas neste feito apenas as questões relativas a quem deverá receber o pagamento dos aluguéis e qual o valor a ser consignado pelo locatário/autor.
+- Segunda ré que demonstrou nos autos da ação possessória, de forma detalhada, toda a cadeia de transferências havida entre os cessionários do imóvel descrito na exordial, iniciando-se o ato de cessão pelo falecido marido da inventariada, até chegar a ela.
+- Contrato de locação, firmado entre o autor e a segunda demandada, que possui caráter pessoal e não real, ou seja, não exige que o locador seja o proprietário registrado do bem, bastando que possua ele a posse válida do imóvel, tal como efetivamente demonstrado pela segunda demandada.
+- Documentos juntados aos autos que comprovam, de forma bastante sólida, a insuficiência dos valores depositados pelo demandante desta consignatória, não sendo possível, portanto, julgar procedente o pedido formulado na exordial. Precedentes do Superior Tribunal de Justiça.
+- Improcedência dos pedidos consignatórios que, todavia, não impede a locadora (segunda ré) de levantar os valores já depositados pelo autor nestes autos, sob pena de enriquecimento sem causa do demandante. Precedentes deste Tribunal.
+- Improcedência dos pedidos iniciais que impõe a condenação do autor ao pagamento integral das despesas do processo, bem como a pagar honorários advocatícios de sucumbência, no percentual de 10% sobre o valor da causa.
+- Inaplicabilidade dos honorários advocatícios recursais na espécie, eis que não presente a hipótese descrita no artigo 85, § 11º, do novo CPC/15.
+CONHECIMENTO E PARCIAL PROVIMENTO DO RECURSO."
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE QUALQUER VÍCIO A SER SANADO POR MEIO DESTE RECURSO. DECISUM QUE ABORDOU, DE FORMA EXAUSTIVA E DIDÁTICA, A QUESTÃO CONTROVERTIDA NESTES AUTOS.
+- Questões relativas ao pagamento dos alugueres e à incidência, ou não, da multa contratual de 10%, que foram efetivamente analisadas por este Tribunal, não havendo que se falar em omissão ou contradição na espécie.
+- Desnecessidade de o julgador citar e refutar cada um dos diversos dispositivos legais suscitados pelas partes, quando os argumentos utilizados no acórdão, por si sós, já sejam capazes de demonstrar a ratio decidendi.
+- Embargante que pretende, na verdade, obter novo julgamento do feito, o que não pode ocorrer em sede de embargos de declaração.
+- Ausência de obscuridade, contradição, omissão ou erro material no julgado vergastado. EMBARGOS DE DECLARAÇÃO CONHECIDOS E DESPROVIDOS."
+Inconformado, o recorrente, em suas razões recursais, alega violação aos arts. 1022 e 489, §§ 1º e 3º, do Código de Processo Civil, e divergência jurisprudencial. Aduz que, em momento algum, esteve inadimplente, cujos pagamentos foram consignados em juízo, até que a questão quanto em litígio na ação de reintegração de posse seja dirimida, e garantindo o adimplemento do valor referente à taxa condominial (pago via boleto).
+Contrarrazões, fls. 1320/1335, e conforme certidão à fl. 1336.
+É o brevíssimo relatório.
+O detido exame das razões recursais revela que a parte recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas realizadas no processo, que não perfaz questão de direito.
+Vejamos o que consta da fundamentação do acórdão recorrido:
+"(..) existe robusta prova demonstrando que a posse exercida pela segunda ré, ao contrário do que alegou o espólio nos autos em apenso, não se deu de forma clandestina e ilícita. Pelo contrário, foi chancelada por ato anterior, provocado pelo próprio inventariante do espólio à época (e também marido da inventariada), Sr. João Lourenço Duarte.
+Logo, considerando que o contrato de locação possui caráter pessoal (e não real) e que tal avença foi firmada pela segunda ré (que, como visto, exerce a posse do bem há mais de uma década, tanto que abriu o imóvel e entregou as chaves ao autor), forçoso concluir que o pagamento dos alugueres deverá ser feito a ela e não ao espólio, cabendo a este último, caso queira, ajuizar ação reipersecutória contra a segunda demandada, demonstrando que o título de posse por esta apresentado não pode ser considerado válido e, ainda, que a referida locadora, mesmo após o transcurso de tantos anos, ainda não logrou reunir as condições para usucapir o bem.
+No que se refere aos valores consignados pelo autor nestes autos, entendo, ainda uma vez, não ser possível considerar devidamente quitados os débitos contratuais. Isso porque, segundo se pode analisar da cláusula segunda do contrato de locação celebrado por ele e a segunda ré (fl. 14 - indexador 000014), o valor do aluguel seria de R$ 1.600,00, estando ali incluídas as demais despesas do imóvel (tais como IPTU, condomínio, taxas e demais impostos), sem prejuízos das posteriores atualizações anuais, segundo índices contratuais (..)" (fls. 1231/1233).
+Essa conclusão não pode ser revista sem reexame fático probatório, o que encontra óbice no Enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+Oportuno realçar, a esse respeito, o consignado no julgamento do R Esp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento."
+(AgInt no AgRg no AREsp 830.868/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2016, DJe 21/10/2016).
+As demais questões suscitadas no recurso foram absorvidas pelos fundamentos desta, que lhes são prejudiciais.
+À vista do exposto, em estrita observância ao disposto no art. 1.030, V, do Código de Processo Civil, INADMITO o recurso especial interposto. Intime-se.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Nas razões do agravo em recurso especial, Francisco Luiz de Oliveira Xavier sustentou que as teses apresentadas são exclusivamente de direito, não exigindo reexame de provas. Alegou, ainda, violação dos arts. 1.022 e 489, §§ 1º e 3º, do CPC, ao argumento de que o acórdão recorrido teria incorrido em omissões e contradições, especialmente no que tange à análise das provas apresentadas e à caracterização de infrações contratuais. Defendeu, ainda, que o pagamento dos valores devidos foi realizado de forma regular, com a quitação das taxas condominiais diretamente ao condomínio, e que a transferência de titularidade da conta de luz, embora realizada com atraso, ocorreu em contexto de pandemia, o que deveria ser considerado.
+Entretanto, a decisão que inadmitiu o recurso entendeu ser necessário o revolvimento fático-probatório, pois a análise das alegações, especialmente quanto à insuficiência dos depósitos consignados, à caracterização de infrações contratuais e à destinação dos valores consignados, dependeria da reavaliação do conjunto de provas, vedada em recurso especial, conforme a Súmula 7 do STJ.
+Para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Desse modo, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É o voto.
