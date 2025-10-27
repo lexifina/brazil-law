@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. FALTA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. NÃO DEMONSTRAÇÃO. COTEJO ANALÍTICO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu, o que atrai a aplicação da Súmula n. 284 do STF quanto ao ponto.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1.043-1.058) interposto contra decisão desta relatoria (fls. 1.037-1.039) que negou provimento ao agravo em recurso especial.
+Em suas razões, a parte agravante reitera a arguição de ofensa aos arts. 489, §1º, IV, e 1.022 do CPC, insistindo nas alegações de contradição, omissão e negativa de prestação jurisdicional, quanto à incidência da prescrição e ao sobrestamento do feito em 1/7/2013 e à consequente consumação do prazo pescricional em 1/7/2019.
+Sustenta ter realizado o cotejo analítico, motivo pelo qual não incidiria a Súmula n. 284 do STF.
+Afirma ser inaplicável a Súmula n. 7 do STJ, pois "limita-se à aferição da regularidade da fundamentação adotada pela Corte de origem" (fl. 1.049).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Impugnação apresentada (fls. 1.062-1.072).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. FALTA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. NÃO DEMONSTRAÇÃO. COTEJO ANALÍTICO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo em recurso especial.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022 do CPC quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu, o que atrai a aplicação da Súmula n. 284 do STF quanto ao ponto.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+5. Agravo interno desprovido.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 1.037-1.039):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial pela ausência de violação aos arts. 489 e 1.022 do CPC, pela incidência da Súmula n. 7 do STJ e pela não demonstração da divergência jurisprudencial (fls. 988-990).
+O acórdão recorrido está assim ementado (fl. 786):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. BLOQUEIO. CONTA CORRENTE. IMPENHORABILIDADE. NÃO COMPROVADA. RECURSO NÃO PROVIDO. 1. Para que se configure a prescrição intercorrente deve ser observada a sistemática do art. 921 do CPC/15, vigente à época, especialmente o comando do § 1º, o qual estabelece ao magistrado o dever de suspender o processo por um ano, quando o executado não possuir bens penhoráveis". 2. Se a parte executada não se desincumbiu do ônus de comprovar que a penhora online recaiu sobre sua remuneração, verba alimentar ou reserva financeira para fins de subsistência, deve ser mantida a constrição.3. Recurso não provido. (DES. MAURÍCIO CANTARINO) VV AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - BLOQUEIO ONLINE - VALORES DEPOSITADOS EM CONTA DE TITULARIDADE DO DEVEDOR - LIMITE DE 40 SALÁRIOS MÍNIMOS - IMPENHORABILIDADE. Tratando-se de importes que perfazem quantia de até 40 (quarenta) salários-mínimos, a apreciação de sua impenhorabilid ade independe da apuração da natureza das contas ou dos fundos em que estão depositados, ressalvadas as hipóteses em que se constata abuso, má-fé ou fraude. Jurisprudência do STJ. Sendo a proteção da dignidade do devedor o fundamento central da impenhorabilidade, a fim de que se lhe assegure um patrimônio mínimo para que se mantenha de forma digna, revela-se temerária a relativização da sobredita regra, para além das estritas hipóteses admitidas pela jurisprudência. Constatado que o importe, depositado em conta de titularidade da parte, não ultrapassa o limite de 40 (quarenta) salários mínimos, e não observada a ocorrência de abuso, má-fé ou fraude, o reconhecimento da impenhorabilidade da verba é medida impositiva. (DES. MARCELO PEREIRA DA SILVA)
+Os embargos de declaração foram rejeitados (fls. 873-878).
+No especial (fls. 914-936), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além de divergência jurisprudencial, ofensa aos arts. 489, §1º, 833, IV, X, 921, §1º, 1.022 do CPC/2015.
+Suscita omissão e falta de fundamentação no julgado, pois o Tribunal teria deixado de apreciar questões imprescindíveis ao deslinde da controvérsia, relativamente ao termo inicial da prescrição intercorrente.
+Sustenta, em síntese, a impenhorabilidade do salário, que se fundamenta na necessidade de assegurar condições mínimas de subsistência ao devedor, visando, em última análise, à proteção de sua dignidade.
+Não houve contrarrazões (fl. 970).
+No agravo (fls. 994-1.007), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (fl. 1.022).
+Juízo negativo de retratação (fl. 1.023).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Inicialmente, não há falar em violação dos arts. 489, § 1º, e 1.022 do CPC, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento. O fato de a parte não concordar com a conclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentação tenha sido suficiente para dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (fls. 793-796):
+ ..  Igualmente, não merece prosperar a alegação de impenhorabilidade do montante bloqueado (R$40.722,60).
+ ..  No caso dos autos, vê-se que, após o bloqueio, a parte executada, ora agravante, apresentou impugnação (DE 215), alegando que os valores seriam impenhoráveis, porquanto "estão sendo utilizados para a subsistência da executada e para a manutenção das condições mínimas de saúde, possuem, portanto, natureza alimentar".
+Todavia, analisando as circunstâncias do caso concreto, vê-se que a parte executada não se desincumbiu do ônus de comprovar que o valor constrito se trata de verba salarial, alimentar ou reserva financeira para fins de subsistência.
+Isso porque, embora alegue que "tem contado exclusivamente com os valores que foram bloqueados, pois é o único recurso que possui para a sua subsistência e para arcar com as despesas de plano de saúde e medicação" e que "atualmente está totalmente sem nenhuma renda, não tendo, inclusive, recebido até o momento o Auxilio por Incapacidade Temporária perante ao INSS", não há comprovação nesse sentido, sendo certo que o relatório médico e o extrato do INSS apresentados (DE 216/217), por si só, não atestam o alegado.
+Outrossim vê-se que, após ser intimada para juntar o extrato das contas em que os bloqueios foram realizados (DE 239), a parte agravante se limitou a apresentar os extratos dos bloqueios SISBAJUD (DE"s 242/243), os quais, inclusive, já constavam dos autos.
+Nesse ponto, cumpre registrar que, para fins de análise da tese de impenhorabilidade, o mínimo que se espera da parte impugnante é juntar aos autos os seus extratos bancários, já que não há como presumir que o montante seria utilizado para garantir a subsistência do devedor ou que o titular não utilizava sua conta para outras movimentações financeiras.
+ ..  Assim, à ausência de prova da impenhorabilidade, considerando que as contas sobre as quais recaíram as constrições são utilizadas para a livre manutenção das atividades financeiras da parte executada/agravante, não há dúvida de que a importância bloqueada estaria à sua disposição, podendo ser utilizada livremente, razão pela qual não há que se falar em poupança ou reserva monetária para mantença digna do devedor.
+Nesse cenário, rever o posicionamento adotado pelo Tribunal e a quo sopesar as razões recursais demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante a Súmula n. 7 do STJ.
+Ademais, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu. Inafastável a Súmula n. 284 do STF quanto ao ponto.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Vale, ainda, transcrever excerto do acórdão proferido em embargos de declaração (fls. 876-877):
+ ..  Diferentemente do aduzido, tem-se que a jurisprudência indicada foi abordada no julgado, tendo sido destacado que "tendo em vista que o feito sequer chegou a ser suspenso, como exigia a sistemática instituída pelo art. 921, §1º do CPC/15, vigente à época, e que durante todo o tempo de tramitação a parte exequente atendeu aos comandos judiciais, não há que se falar em prescrição intercorrente, sendo certo que a alteração do art. 921, III do CPC/15 somente ocorreu em 26.08.2021, quando entrou em vigência, ainda que parcial, a Lei nº 14.195/2021" No mesmo rumo, a despeito dos novos documentos apresentados, pelo acórdão embargado, foi salientado que "a parte executada não se desincumbiu do ônus de comprovar que o valor constrito se trata de verba salarial, alimentar ou reserva financeira para fins de subsistência." Isso porque, embora alegue que "tem contado exclusivamente com os valores que foram bloqueados, pois é o único recurso que possui para a sua subsistência e para arcar com as despesas de plano de saúde e medicação" e que "atualmente está totalmente sem nenhuma renda, não tendo, inclusive, recebido até o momento o Auxilio por Incapacidade Temporária perante ao INSS", não há comprovação nesse sentido, sendo certo que o relatório médico e o extrato do INSS apresentados (DE 216/217), por si só, não atestam o alegado."
+Inicialmente, como delineado na decisão agravada, a não demonstração do dissídio jurisprudencial, mediante a realização do cotejo analítico e a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015), ônus dos quais a parte recorrente não se desincumbiu, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF.
+Outrossim, não há falar em violação dos arts. 489, § 1º, VI, e 1.022 do CPC, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há os vícios apontados quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda qu e em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Ademais, rever as conclusões do Tribunal de origem e sopesar as razões recursais demandariam revolvimento do conjunto-fático probatório dos autos, vedado em especial, nos termos da Súmula n. 7 do STJ.
+Não prosperam, portanto, as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
