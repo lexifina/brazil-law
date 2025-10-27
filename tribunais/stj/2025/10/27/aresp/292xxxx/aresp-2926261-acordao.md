@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que julgou improcedente ação indenizatória por acidente de trânsito.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível o reexame de matéria fática em recurso especial, diante do óbice da Súmula 7 do STJ.
+III. Razões de decidir
+3. A decisão recorrida analisou detidamente todas as questões jurídicas postas, não havendo demonstração de vício processual ou omissão no julgado.
+4. A pretensão de reexame do conjunto fático-probatório é inviável à luz do óbice da Súmula 7 do STJ.
+5. A divergência jurisprudencial não foi demonstrada de forma analítica, sendo insuficiente a simples transcrição de ementas sem o cotejo analítico necessário.
+IV. Dispositivo
+6. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial.
+No apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fls. 1254):
+RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA JULGADA IMPROCEDENTE. NECESSIDADE. CONJUNTO PROBATÓRIO INDICANDO QUE O CONDUTOR DO CAMINHÃO DERIVOU À DIREITA DA PISTA, AGUARDANDO PARA ADENTRAR NO ESTACIONAMENTO DA EMPRESA E QUE NÃO REALIZOU MANOBRA DE CONVERSÃO À ESQUERDA EM MOMENTO INOPORTUNO, NÃO HAVENDO PROVAS EFETIVAS NOS AUTOS DE QUE TENHA INTERCEPTADO, DE MODO REPENTINO E ABRUPTO, A TRAJETÓRIA DA MOTOCICLETA CONDUZIDA PELA AUTORA-APELANTE NO SENTIDO CONTRÁRIO DA PISTA. SENTENÇA RATIFICADA, NOS TERMOS DO ART. 252 DO REGIMENTO INTERNO DO TJSP. Recurso de apelação improvido.
+No recurso especial, a recorrente alega violação aos artigos 489, II, § 1º, IV e 1.022, I e II, do CPC; artigos 28, 34, 35 e parágrafo único, 36, 37, 38 e parágrafo único todos da Lei nº 9.503/97; artigos 186, 187 e 927 e 932, III, todos do CC, sustentando que houve cerceamento de defesa pelo afastamento da prova pericial requerida e que o acórdão Recorrido foi omisso quanto à análise de elementos da dinâmica do evento que seriam capazes de infirmar, em tese, a conclusão adotada (e-STJ, fls. 1289-1323).
+Contrarrazões às fls. e-STJ 1377-1391.
+O Recurso Especial foi inadmitido pelo Tribunal de origem, que entendeu não demonstrada a alegada vulneração aos dispositivos legais arrolados, além de considerar que a pretensão demandaria reexame de matéria fática, vedado pela Súmula 7 do Superior Tribunal de Justiça (STJ) (e-STJ, fls. 1409-1412).
+Contra essa decisão, se interpôs o presente Agravo em Recurso Especial, no qual se reitera os fundamentos do recurso especial, além de se contraditar a incidência do óbice da Súmula 7/STJ (e-STJ, fls. 1415-1439).
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado (e-STJ, fls. 1442-1447).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que julgou improcedente ação indenizatória por acidente de trânsito.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível o reexame de matéria fática em recurso especial, diante do óbice da Súmula 7 do STJ.
+III. Razões de decidir
+3. A decisão recorrida analisou detidamente todas as questões jurídicas postas, não havendo demonstração de vício processual ou omissão no julgado.
+4. A pretensão de reexame do conjunto fático-probatório é inviável à luz do óbice da Súmula 7 do STJ.
+5. A divergência jurisprudencial não foi demonstrada de forma analítica, sendo insuficiente a simples transcrição de ementas sem o cotejo analítico necessário.
+IV. Dispositivo
+6. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso, porquanto o teor de seu recurso especial não esbarra no óbice da Súmula 7/STJ, reiterando ainda, a alegada omissão no acórdão recorrido e a devida comprovação da divergência juriprudencial.
+Ocorre, contudo, que a insurgência já foi enfrentada pela decisão agravada, que analisou detida, e corretamente, todas as questões jurídicas postas.
+Inicialmente, para melhor compreensão da controvérsia, colhe-se do acórdão recorrido, suas razões de decidir (e-STJ, fls. 1261-1262):
+Foram ouvidas em audiência duas testemunhas que presenciaram o acidente: a Sra. Giovana Rodrigues de Oliveira e o Sr. José Braz de Oliveira, os quais deram testemunhos diametralmente opostos.
+Muito embora não haja comprovação de que a autora estivesse, de fato, trafegando pelo acostamento, há nos autos provas de que o condutor do caminhão, antes de entrar na empresa, derivou o veículo para a direita da pista em que trafegava e aguardou o momento adequado para realizar a manobra de travessia da via.
+A tentativa de emprestar maior validade às afirmações de sua testemunha não se sustenta, na medida em que o Sr. José Braz afirmou que trafegava no mesmo sentido e atrás do caminhão e que este não se dirigiu ao acostamento, afirmando que o condutor fez a conversão de forma direta e que "do jeito que estava vindo ele entrou", o que não se confirma pelas demais provas dos autos.
+Evidentemente que, seguindo atrás do caminhão, atento ao trânsito e não tendo este desviado para o acostamento antes de realizar a manobra de travessia da via (como afirmou a testemunha Sr. José Braz), não se mostra razoável aceitar-se suas afirmações sobre a dinâmica do acidente, já que não teria como ver, com detalhes, o que acontecia à frente do caminhão, uma vez que sua visão estaria limitada pela altura e comprimento do referido veículo que seguia à sua frente.
+Portanto, ou o caminhão parou no acostamento, de molde a possibilitar que a testemunha visualizasse o que relatou (o que implicaria em admitir-se que referida testemunha faltou com a verdade), ou fez apenas declarações resultantes de deduções pessoais sobre o ocorrido.
+Desse modo, não prospera a afirmação da recorrente de que o depoimento de sua testemunha, Sr. José Braz, foi mais assertivo na declaração dos fatos.
+Necessário mencionar, enfim, que o conjunto probatório deixou claro que o condutor do caminhão não realizou manobra de conversão à esquerda em momento inoportuno, não havendo provas efetivas nos autos de que tenha interceptado, de maneira abrupta e repentina, a trajetória da motocicleta conduzida pela autora-apelante no sentido contrário da pista.
+Assim sendo, em que pese lamentar-se o ocorrido, não há reparos a se fazer na r. sentença, cujos fundamentos ficam aqui ratificados, nos termos do art. 252 do Regimento Interno do TJSP, uma vez que analisou detidamente todas as questões relevantes trazidas à discussão, mediante criteriosa avaliação do acervo probatório e das circunstâncias do caso concreto.
+De saída, no que tange à alegação de afronta aos artigos 1.022 e 489 do Código de Processo Civil, certo é que "Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados. " (AgInt no AREsp n. 2.441.987/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Efetivamente, compulsados os autos, colhe-se que a Corte de origem analisou e rebateu, um a um, os argumentos levantados, sendo certo que a ausência de menção a um outro argumento invocado pela defesa não macula o comando decisório se, bem fundamentado, apresenta razões capazes de se sustentar por si.
+Assim, "Não procede a arguição de ofensa ao 1.022 do CPC, quando o Tribunal Estadual se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia." (AgInt no REsp n. 1.899.000/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Ressalte-se que não se pode confundir decisão desfavorável aos interesses da parte com negativa de prestação jurisdicional, tampouco fundamentação concisa com ausência de fundamentação.
+Nesse sentido, destaca-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTÊNCIA. MULTA DIÁRIA. REVISÃO DA NECESSIDADE E DO VALOR FIXADO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ.
+1. "Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+(AgInt no AREsp n. 2.746.371/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, constatada a pronúncia expressa e suficiente acerca dos temas indicados como omissos, a questão do direito aplicado é matéria relativa ao mérito recursal, não se podendo cogitar, no presente feito, em prestação jurisdicional defeituosa.
+De outro lado, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da compreensão firmada pela Corte de origem acima do tema.
+Não se quer dizer, contudo, que o debate do quadro fático não possa ser revisado nesta instância especial. Ao revés, é também pacífico o entendimento de que: "a revaloração jurídica de fatos e provas incontroversos delineados no acórdão impugnado afasta a aplicação da Súmula 7 do STJ na espécie." (AgInt no AREsp n. 1.742.678/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+Cuida-se, contudo, de ônus imputado à parte recorrente, que não pode se limitar a afirmar que sua pretensão demanda apenas o reenquadramento fático à moldura legal pretendida, devendo, isto sim, evidenciar, objetivamente, que a análise fática estabilizada melhor se enquadra em outra forma jurídica.
+Daí porque este colegiado também tem afirmado, reiteradamente, que "No tocante às Súmulas nºs 5 e 7/STJ, não basta a parte sustentar genericamente a não aplicação dos óbices, sem explicitar, à luz do contexto fático delineado no acórdão e da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame fático-probatório ou da análise das cláusulas contratuais." (AgInt no AREsp n. 2.250.305/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO. DANOS MATERIAIS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas n.ºs 5 e 7 do STJ e 284 do STF).
+3. Não basta para considerar "especificamente impugnados" os fundamentos da decisão recorrida a mera transcrição de súmulas ou reprodução de dispositivos legais violados. Necessário, além das indicações expressas e claras, a sua vinculação aos fatos tal como analisados pelo acórdão ou decisão para então, mediante enfrentamento dialético desse conjunto de permissivos constitucionais em face do exame soberano do material de cognição pela Corte estadual, se chegar ao almejado entendimento de que a classificação jurídica concluída não espelha o melhor direito ao caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.017/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Quanto ao apontamento da existência de dissenso jurisprudencial, por primeiro, está consolidado neste Tribunal o entendimento de que a prévia constatação da incidência do óbice da Súmula 7 do STJ, quanto a dispositivos tidos por violados, espraia seus efeitos para alegada divergência jurisprudencial, porquanto um julgado construído sobre peculiaridades fáticas não irá se reproduzir para fins de aferição da exigida similitude fática entre os arestos trazidos à colação.
+Se assim não fosse, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Nessa linha, ausentes a necessária demonstração de similitude fática entre os julgados trazidos à colação e o cotejo analítico, não se mostra viável o conhecimento do recurso pela divergência.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro o percentual de honorários advocatícios para 15% (quinze por cento), nos termos do art. 85, § 11, do Código de Processo Civil.
+É como voto.
