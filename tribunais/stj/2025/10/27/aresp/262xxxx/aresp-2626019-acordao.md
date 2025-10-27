@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. NÃO OCORRÊNCIA. ÔNUS. INVERSÃO. NÃO COMPROVAÇÃO. MODIFICAÇÃO DO JULGADO. REEXAME. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A revisão das conclusões do acórdão sobre a comprovação do fato constitutivo do direito do autor encontra o óbice da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO BRADESCO S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DECISÃO QUE DETERMINOU A PRODUÇÃO DE PERÍCIA CONTÁBIL, PROVA ORAL E PROVA DOCUMENTAL, SOB PENA DE APLICAÇÃO DA SANÇÃO PREVISTA NO ART. 400 DO CPC. RECURSO DO RÉU. PRETENSÃO DE ANULAÇÃO DA DECISÃO AGRAVADA OU, SUCESSIVAMENTE, REVOGAÇÃO DA ORDEM DE JUNTADA DE DOCUMENTOS. ALEGAÇÃO DE QUE, APESAR DE NÃO TER SIDO INVERTIDO O ÔNUS PROBATÓRIO, O JUÍZO DE ORIGEM FACILITOU O TRÂMITE EM FAVOR DA PARTE AUTORA. EXISTENTE A RELAÇÃO DE CONSUMO ENTRE AS PARTES, APLICÁVEL O CDC AO CASO, COM A INVERSÃO DO ÔNUS PROBATÓRIO. SÚMULA 479 DO STJ. SUSTENTAÇÃO DE QUE COMPETIRÁ AO PERITO A ANÁLISE E APURAÇÃO DAS PROVAS. DOCUMENTOS EXIGIDOS PELO JUÍZO SE MOSTRAM FUNDAMENTAIS PARA O DESLINDE DO FEITO, EM RAZÃO DO APONTAMENTO DE TRATATIVA DE VALORES E TRANSAÇÕES ENTRE AS PARTES. POSSIBILIDADE DE APLICAÇÃO DO ART. 400 DO CPC. NA ATUAL QUADRA PROCESSUAL, O RÉU PODERÁ AINDA JUNTAR A DOCUMENTAÇÃO EXIGIDA OU JUSTIFICAR A IMPOSSIBILIDADE DE FAZÊ- LA, SENDO QUE PRESUMIR-SE QUE O MAGISTRADO SINGULAR CONSIDERARÁ VERDADEIROS OS DOCUMENTOS EVENTUAL MENTE NÃO ACOSTADOS IMPLICARIA NA ANTECIPAÇÃO DE UMA DECISÃO NÃO LAVRADA. DECISÃO MANTIDA. RECURSO DESPROVIDO" (e-STJ fl. 85).
+No recurso especial (e-STJ fls. 122/136), o recorrente alega violação dos artigos 489, II, § 1º, IV, e 1.022, II, do Código de Processo Civil, tendo em vista que
+"Por meio dos embargos de declaração opostos, o Recorrente pediu fosse saneada omissão quanto à necessidade de acesso às declarações de Imposto de Renda da Recorrida, com vistas à produção de prova suficiente e idônea acerca das operações realizadas, especialmente em relação às remessas internacionais de valores.
+Destacou que a manifestação deveria levar em conta que a Recorrida alega ter realizado operações de remessa internacional de valores e não apresentou nenhum indício de que tais operações tenham sido realizadas, sendo necessária a análise das informações prestadas ao Fisco" (e-STJ fl. 128).
+Quanto ao mérito, aponta ofensa ao artigo 373, §§ 1º, 2º e 3º, do CPC, pois o acórdão recorrido imputou ao Banco ônus extremamente excessivo, inclusive de prova de situações havidas fora do ambiente corporativo.
+Com as contrarrazões (e-STJ fls. 153/178), foi inadmitido o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESTAÇÃO JURISDICIONAL. NEGATIVA. NÃO OCORRÊNCIA. ÔNUS. INVERSÃO. NÃO COMPROVAÇÃO. MODIFICAÇÃO DO JULGADO. REEXAME. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A revisão das conclusões do acórdão sobre a comprovação do fato constitutivo do direito do autor encontra o óbice da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+A insurgência não merece prosperar.
+O Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, nos seguintes termos:
+"(..)
+Não se verifica omissão no julgado quanto ao pedido de consulta ao Imposto de Renda, uma vez que a temática foi analisada, de maneira expressa, na decisão embargada. Confira-se:
+No mais, necessário consignar que o Agravante não aponta qualquer justificativa ou fato que demonstre eventual impossibilidade de juntada dos documentos exigidos na decisão agravada, aduzindo apenas que a expedição de eventual ofício à Receita Federal, com a juntada de declarações de Imposto de Renda da Agravada no período questionado nos autos poderia esclarecer o embate.
+Pelo contrário, o Agravante declara em suas razões recursais que, "desde logo, que está apresentando nos autos originários os documentos que possui relacionados às remessas internacionais de valores internacionais (contrato de câmbio de 25/06/2014, localizado nas bases de dados do Banco Agravante)"" (e-STJ fl. 109).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA DA VENDEDORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. APLICAÇÃO DO PRAZO PRESCRICIONAL DECENAL. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. As Turmas que compõem a Segunda Seção deste Superior Tribunal firmaram entendimento no sentido de que, nos casos de rescisão de contrato de compra e venda de imóvel por culpa do vendedor, é aplicável o prazo decenal contado a partir da resolução.
+3. Agravo interno não provido" (AgInt no AREsp 2.267.897/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 6/12/2023 - grifou-se).
+No que se refere à distribuição do ônus probatório, verifica-se que a Corte de origem se manifestou expressamente nos seguintes termos:
+"(..)
+In casu , colhe-se que a insurgência do Agravante se concentra quanto à ordem de juntada de documentos referentes às remessas internacionais de valores da Agravada, sob pena de aplicação da sanção considerada no art. 400 do CPC. Aduz que, sem expressamente inverter o ônus probatório, o juízo singular facilitou o trâmite processual em favor da Agravada.
+No entanto, denota-se que os documentos exigidos pelo togado a quo mostram-se necessários para o deslinde do feito, vez que a documentação reivindicada irá auxiliar na apuração dos eventos denunciados na exordial, em que a parte Agravada afirma que foi ludibriada por uma funcionária do banco Agravante, a qual desviou grandes quantias de sua conta, sofrendo grande prejuízo financeiro.
+Em leitura à exordial da ação de origem (evento 1, PET1, origem), observa-se que a Agravada noticiou que "ao longo do ano de 2015 a REQUERENTE realizou transferências em euro e dólar para a conta no HSBC. Em 04/02/2015 foram transferidos US$9.785,00 (nove mil, setecentos e oitenta cinco dólares americanos) e mais 06 (seis) remessas de euros de  6.980,00 (seis mil novecentos e oitenta euros) cada a partir de 07/2015 até 12/2015. Estes valores estão retidos no setor de câmbio do REQUERIDO ".
+Corroborando o arguido, a Agravada ainda colacionou na inicial o e-mail de evento 1, INF4, origem, que expõe a tratativa dos referidos valores e transações com o banco Agravante.
+Diante desse cenário, a documentação exigida mostra ser fundamental para o devido julgamento do processo e análise dos eventos denunciados, em especial o desvio de valores com remessa internacional.
+Nesse ponto, necessário consignar que o Agravante se enquadra no conceito de fornecedor do art. 3º do Código de Defesa do Consumidor, uma vez que é o responsável pela prestação de serviços bancários, enquanto a parte Agravada se classifica no conceito de consumidora do art. 2º do mesmo código.
+Dessa maneira, existente a relação de consumo entre as partes, o ônus probatório é inverso na causa, por força do art. 6º, VIII, do Código de Defesa do Consumidor. Portanto, cumpre ao Agravante comprovar nos autos a ausência dos desvios financeiros denunciados, mesmo porque, a Agravada demonstrou, a partir das cópias dos e-mails, início de prova acerca das alegações denunciadas.
+Sobre o tema, o Superior Tribunal de Justiça já estabeleceu, através da Súmula 479, que "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias "" (e-STJ fls. 82/83 - grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
