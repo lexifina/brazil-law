@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fls. 71-72):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. INCIDÊNCIA DE MULTA E HONORÁRIOS DO ART. 523 DO CPC. PLEITO DE NOVA AVALIAÇÃO DO IMÓVEL PENHORADO. AUSÊNCIA DE PROVA DE DEPRECIAÇÃO OU VALORIZAÇÃO DO BEM. RECURSO DESPROVIDO.
+I. Caso em exame
+Agravo de instrumento interposto contra decisão que, nos autos de cumprimento de sentença, aplicou multa de 10% e honorários advocatícios no mesmo percentual, com base no art. 523, § 1º, do CPC, em razão da ausência de pagamento voluntário no prazo legal. A decisão também determinou a alienação judicial de imóvel penhorado, mantendo a avaliação judicial anterior, realizada em 2019.
+II. Questão em discussão
+Há duas questões em discussão: (i) saber se é legítima a aplicação da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC/2015, em cumprimento de sentença retomado após a entrada em vigor do referido código; e (ii) saber se há necessidade de nova avaliação do imóvel penhorado antes da alienação judicial.
+III. Razões de decidir
+A multa e os honorários previstos no art. 523, § 1º, do CPC/2015 são aplicáveis ao caso, pois o cumprimento de sentença foi retomado em 2021, já sob a vigência do referido diploma, sendo irrelevante o início da execução anterior sob a égide do CPC/1973.
+O princípio do tempus regit actum determina a incidência da lei processual vigente ao tempo do ato processual, sendo inaplicável a tese de violação ao direito adquirido ou ao ato jurídico perfeito.
+O Superior Tribunal de Justiça possui entendimento consolidado de que a multa e os honorários previstos no art. 523, § 1º, do CPC/2015 têm natureza coercitiva e caráter cogente, sendo devidos automaticamente diante da inércia do devedor.
+Quanto à atualização da avaliação do imóvel penhorado, a jurisprudência exige a demonstração concreta de desatualização relevante em relação ao valor de mercado para justificar nova avaliação, o que não foi comprovado nos autos.
+IV. Dispositivo e tese
+Recurso desprovido.
+Tese de julgamento: "1. Em cumprimento de sentença retomado após a vigência do CPC/2015, é legítima a aplicação da multa de 10% e dos honorários advocatícios de 10%, previstos no art. 523, § 1º, diante da ausência de pagamento voluntário no prazo legal. 2. A reavaliação de bem penhorado somente é exigível quando houver prova técnica de defasagem significativa do valor de mercado, não sendo suficiente a mera alegação genérica de desatualização."
+Dispositivos relevantes citados: CPC, arts. 14, 523, § 1º, e 879, § 2º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 1.282.273/SP, Rel. Min. Raul Araújo, 4ª Turma, j. 27.11.2018; STJ, REsp 1.280.825/SP, Rel. Min. Paulo de Tarso Sanseverino, 3ª Turma, j. 09.10.2012.
+Os embargos de declaração foram acolhidos em parte, sem efeitos modificativos, conforme ementa (fls. 98-99):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. ALEGADA CONTRADIÇÃO E ANÁLISE POR PREMISSA EQUIVOCADA. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. VIA INADEQUADA. RETIFICAÇÃO DE ERRO MATERIAL. SEM EFEITO INFRINGENTE. EMBARGOS ACOLHIDO PARCIALMENTE.
+I. Caso em exame
+Embargos de declaração opostos contra acórdão proferido em agravo de instrumento, alegando erro material e contradição entre a ementa e o corpo do voto, referente à data de propositura do cumprimento de sentença (retomado em 2021 e não ajuizado nesse ano), e sustentando que o equívoco comprometeria a incidência da multa prevista no art. 523, § 1º, do CPC/2015.
+II. Questão em discussão
+A questão em discussão consiste em: (i) saber se há erro material no acórdão ao constar no voto a palavra "ajuizada" quando deveria constar "retomada" do cumprimento de sentença; (ii) saber se há contradição ou vício que justifique a modificação do julgado.
+III. Razões de decidir
+Reconhecida a existência de erro material na redação do voto, ao afirmar que o cumprimento de sentença foi ajuizado em 2021, quando, na realidade, foi retomado nesse ano.
+Inexistência de contradição e erro de premissa, uma vez que a análise do caso se deu respeitando o princípio do tempus regit actum e os parâmetros jurisprudenciais.
+A pretensão dos embargantes de revisão do mérito, não se amolda às hipóteses legais de embargabilidade, revelando mero inconformismo com a decisão.
+IV. Dispositivo e tese
+Embargos de declaração parcialmente acolhidos, apenas para corrigir erro material, sem efeito infringente.
+Tese de julgamento: "1. A correção de erro material pode ser promovida de ofício ou por provocação da parte, nos termos do art. 494, I, do CPC/2015. 2. Embargos de declaração não se prestam à rediscussão do mérito da decisão embargada."
+Dispositivos relevantes citados: CPC/2015, arts. 494, I, 1.022, 1.023, § 2º, e 523, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 1.282.273/SP, Rel. Min. Raul Araújo, 4ª Turma, j. 27.11.2018.
+Em suas razões (fls. 108-121), a parte recorrente aponta violação dos arts. 5º, XXVI, da CF, 475-J do CPC/1973, 14 e 523, § 1º, do CPC/2015 e 6º da LINDB. Para tanto, sustenta que:
+(i) "o ilustre relator manteve a conclusão de que se deveria aplicar o art. 523, §1º do CPC de 2015 em face do princípio tempus regit actum.  .. . Diante disto, o que se tem é que o v. acórdão recorrido, mesmo tendo sido retificado para constar literalmente que se trata apenas de uma retomada de uma execução anterior, ou seja, reconheça que não se trata de processo novo, iniciado em 2021, mas sim da continuidade de um cumprimento de sentença iniciado no ano de 2002, ainda assim, determinou a aplicação do artigo 523, § 1º do CPC de 2015, ou seja, aplicou uma norma de 2015 retroativamente a uma situação consolidada em 2002" (fl. 115);
+(ii) "a intimação/citação dos herdeiros, como substitutos processuais em razão do encerramento do inventário, não tinha o condão de alterar a data de citação originária, do devedor originário, do cumprimento de sentença, posto que se trata de mera substituição do espólio pelos herdeiros, e não de novo processo. Deste modo, o marco temporal, onde a situação jurídica processual foi consolidada, é a data da citação do devedor no início do cumprimento de sentença, precisamente a data de citação do espólio de Alziro Pozzi, que como visto, foi em 11/02/2003" (fl. 117);
+(iii) "a multa prevista no artigo 475-J (que foi inserida pela Lei 11.232/2005), somente pode ser aplicada em razão de que o cumprimento de sentença foi iniciado após a sua vigência. Isto significa que, numa leitura inversa, se o cumprimento de sentença fosse iniciado antes da vigência, não se aplicaria a lei. É o mesmo caso aqui" (fl. 118); e
+(iv) "o cumprimento de sentença foi iniciado em 2002, a citação para pagamento foi realizada em 2003, ou seja, a citação e o prazo para pagamento foi consumada em 2003, sob a vigência do CPC de 1973, o qual não impunha nem multa e nem honorários em caso de não pagamento. Sendo assim, não se pode aplicar a norma de 2015 (que prevê multa e honorários pelo não pagamento imediato) quando a Lei vigente ao tempo da consumação citação não impunha esta penalidade" (fl. 119).
+Contrarrazões apresentadas às fls. 127-141.
+O recurso foi admitido na origem (fls. 267-268).
+Na petição de fls. 287-312, a parte recorrente requer a concessão de efeito suspensivo, "na medida em que o último e final pagamento da arrematação, conforme se vê do auto de arrematação em anexo  .. , está programado para 31.12.2025, e será no valor de R$ 28.750.000,00 (vinte e oito milhões setecentos e cincoenta mil reais). Caso este valor seja levantado, mesmo que haja provimento do Especial, o que é provável, haverá perecimento do direito, pelo esvaziamento da possibilidade de sua efetividade, dado que, uma vez levantado o valor, jamais poderá ser repetido, vez que os credores não possuem bens de raiz, e será realizado por empresa sem patrimônio suficiente" (fl. 289).
+A parte recorrida manifestou-se pelo indeferimento do pedido de efeito suspensivo (fls. 313-319).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Além disso, "a jurisprudência do STJ firmou-se no sentido da impossibilidade dos princípios contidos no artigo 6º da LINDB serem analisados em sede de recurso especial, por se tratar de matéria constitucional, apenas reproduzida na legislação ordinária" (AgInt no REsp n. 2.042.388/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+No mais, o Tribunal de origem deliberou com base nos seguintes fundamentos (fl. 75):
+A controvérsia devolvida a esta Câmara Cível restringe-se: (i) à legalidade da aplicação da multa de 10% e dos honorários advocatícios de 10% previstos no art. 523, §1º, do CPC/2015 no presente cumprimento de sentença; e (ii) à necessidade de nova avaliação do imóvel penhorado antes da alienação judicial.
+Quanto ao primeiro tópico, é imprescindível destacar que o presente cumprimento de sentença foi ajuizado em 2021, já sob a égide do Código de Processo Civil de 2015. Nesse contexto, impõe-se a aplicação das normas vigentes à época da prática dos atos processuais, em estrita observância ao princípio do tempus regit actum, consagrado na jurisprudência pátria.
+ .. .
+Ademais, o Superior Tribunal de Justiça tem sedimentado o entendimento de que os consectários previstos no art. 523, §1º, do CPC são de incidência automática e cogente em execuções definitivas,  .. .
+ .. .
+Portanto, não há falar-se em ofensa ao ato jurídico perfeito ou direito adquirido, sendo plenamente legítima a incidência dos consectários legais.
+Por sua vez, no acórdão que acolheu em parte os aclaratórios, a Corte local assinalou (fls. 100-101):
+No tocante ao erro material, razão assiste os embargantes, neste particular.
+Dessa forma, determino a retificação do voto para onde constar que "o cumprimento de sentença foi ajuizado em 2021", FAZER CONSTAR que "o cumprimento de sentença foi retomado em 2021".
+Quanto à alegada ocorrência de contradição, o que, a seu ver, ensejou a análise do caso sob premissa equivocada, faz-se necessário destacar, que a real intenção dos embargantes é ter o mérito da questão reapreciado, o que não se enquadra nas hipóteses de interposição de embargos de declaração.
+Na verdade, as matérias articuladas no agravo e na contraminuta foram apreciadas e bem fundamentadas, a teor do que dispõe o art. 93, inc. IX, da CF, porém, esta Câmara chegou à conclusão diversa da pretendida pelos embargantes, quanto a incidência da multa e honorários previstos no artigo 523, § 1º, do CPC de 2015, ao caso concreto, justificando assim a interposição do presente recurso.
+Ademais, a matéria foi amplamente analisada no v. acórdão, demonstrando que seu real interesse é a reapreciação da celeuma. (grifos do original).
+A alegação de que "o cumprimento de sentença foi iniciado em 2002, a citação para pagamento foi realizada em 2003, ou seja, a citação e o prazo para pagamento foi consumada em 2003, sob a vigência do CPC de 1973, o qual não impunha nem multa e nem honorários em caso de não pagamento" (fl. 119) não foi apreciada pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Igualmente, o TJMT não se pronunciou sobre a tese de que "a intimação/citação dos herdeiros, como substitutos processuais em razão do encerramento do inventário, não tinha o condão de alterar a data de citação originária, do devedor originário, do cumprimento de sentença, posto que se trata de mera substituição do espólio pelos herdeiros, e não de novo processo" (fl. 117).
+Dessa forma, quanto à suposta afronta aos arts. 475-J do CPC/1973 e 14 e 523, § 1º, do CPC/2015, as teses e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal de origem da maneira pretendida pela parte ora recorrente, a despeito dos embargos declaratórios opostos.
+Caberia à parte indicar violação do art. 1.022 do CPC, o que não ocorreu. Portanto, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Destaca-se que "o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula n. 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015, sob pena de perseverar a ausência de prequestionamento" (AgInt no REsp n. 2.016.756/MS, de minha relatoria, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022). Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+2.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+2.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que também não ocorreu na hipótese.
+2. Rever o entendimento do Tribunal de origem, na forma como posta nas razões do apelo extremo, ensejaria em rediscussão de matéria fática e interpretação das cláusulas contratuais, providências vedadas nessa instância especial pelas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.987.469/RJ, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022.)
+Acrescente-se que, ""segundo pacífica jurisprudência deste Superior Tribunal, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão controvertida não dispensa o prequestionamento" (AgInt nos EDcl no AgInt no AREsp 1481503/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)" (AgInt no REsp n. 1.639.281/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe 29/4/2022).
+Além disso, acolher a pretensão da parte, a fim de verificar a alegada aplicação retroativa da norma processual, demandaria reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Fica prejudicado, por consequência, o pedido de efeito suspensivo.
+De todo modo, convém observar que, consoante entendimento da Segunda Seção do STJ, "o regular prosseguimento do cumprimento de sentença, por si só, não constitui o perigo de dano ou o risco ao resultado útil do processo exigido para a concessão de tutela provisória de urgência, até porque o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado. A ausência do periculum in mora basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do fumus boni juris, que deve se fazer presente cumulativamente" (AgInt na AR n. 7.296/DF, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 29/11/2022, DJe de 1/12/2022).
+Todavia, isso não retira da parte, considerando-se prejudicada pelo prosseguimento do feito, a possibilidade de formular suas pretensões pelas vias processuais cabíveis, perante as instâncias ordinárias.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+ EMENTA
