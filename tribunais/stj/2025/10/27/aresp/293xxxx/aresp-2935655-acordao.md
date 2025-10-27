@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. ART. 492 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO DO ART. 489. NÃO OCORRÊNCIA. USUCAPIÃO DE IMÓVEIS ALIENADOS EM FAVOR DA CEF. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF.
+2. No caso, não houve ofensa ao art. 489 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma adequada e fundamentada.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula 284/STF)
+4. Agravo conhecido. Recurso especial não provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por OLAVO PEREIRA ROCHA contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. USUCAPIÃO. CAIXA. ALIENAÇÃO FIDUCIÁRIA. SISTEMA DE FINANCIAMENTO IMOBILIÁRIO - SFI. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA.
+1. Tratando-se de imóvel que se encontra alienado fiduciariamente à CEF, enquanto não quitado o contrato, o mutuário/fiduciante detém única e exclusivamente a posse direta do imóvel, a qual é precária e não exclui a indireta do credor fiduciário, não se podendo cogitar de posse mansa e pacífica.
+2. Hipótese em que o referido imóvel ficou, na sua totalidade, para apelante após a partilha, não pertencendo a seu ex-cônjuge, o qual morava em São Paulo.
+3. Ausentes os requisitos legais para reconhecimento de usucapião, reformada a sentença.
+4. O art. 80, II do CPC considera litigância de má-fé alterar a verdade dos fatos, o que é passível de multa a ser fixada em no mínimo 1% do valor dado à causa.
+5. Ante a inexistência de provas concretas nos autos de que o autor atuou com dolo ou má-fé, descabida sua condenação ao pagamento de multa." (fls. 1904).
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte aponta violação dos arts. 492, 489, § 1º, IV, do CPC, sustentando, em síntese, que:
+(a) O acórdão recorrido violou o artigo 492 do CPC ao decidir com base nos requisitos da usucapião urbana (art. 1.240 do Código Civil), enquanto o pedido inicial foi fundamentado na usucapião extraordinária (art. 1.238 do Código Civil), configurando julgamento ultra petita.
+(b) O artigo 489, § 1º, IV, do CPC foi violado, pois o acórdão deixou de enfrentar argumentos essenciais apresentados pelo recorrente, como a prova do exercício da posse contínua, pacífica e com animus domini, ignorando elementos probatórios relevantes, como depoimentos testemunhais e documentos.
+(c) é possível reconhecer a usucapião de imóveis alienados em favor da CEF fora do SFH.
+Foram apresentadas contrarrazões (fls. 2019-2031).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO. ART. 492 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO DO ART. 489. NÃO OCORRÊNCIA. USUCAPIÃO DE IMÓVEIS ALIENADOS EM FAVOR DA CEF. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação das Súmulas 282 e 356 do STF.
+2. No caso, não houve ofensa ao art. 489 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma adequada e fundamentada.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula 284/STF)
+4. Agravo conhecido. Recurso especial não provido.
+VOTO
+De início, no que tange à alegada violação do art. 492 do CPC, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e dos Territórios.
+Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF. Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Enunciados Sumulares 282 e 356 do STF). Por oportuno, leia-se este julgado:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Com efeito, é de rigor a oposição de embargos de declaração e se, mesmo após o respectivo julgamento, o eg. Tribunal a quo permanecer omisso quanto às matérias que se pretendia prequestionar, é dever do recorrente, no apelo nobre, apontar violação do art. 1.022 do CPC/2015, o que não ocorreu no caso em exame.
+Cabe acrescentar que o art. 1.025 do CPC/2015 não alterou a referida regra no tocante ao prequestionamento. Nessa linha de intelecção, além dos precedentes já homenageados na decisão agravada, destacam-se os seguintes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. TUTELA DE URGÊNCIA. SÚMULA N. 735 DO STF. ART. 300 DO CPC. REQUISITOS. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+3. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC), desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC.
+4. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+5. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+6. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+7. Agravo interno desprovido."
+(AgInt no REsp n. 2.032.386/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 26/6/2023, DJe de 3/7/2023, g.n.)
+"PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM RESTITUIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO NCPC EM RELAÇÃO À MATÉRIA. JULGAMENTO EXTRA PETITA. NÃO OCORRIDO. INCIDÊNCIA DA SÚMULA N.º 211 DO STJ. LEGITIMIDADE ATIVA. PLANO DE SAÚDE COLETIVO. DESTINATÁRIO FINAL DO SERVIÇO. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15 em relação à matéria, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI).
+2. O fato de o contrato ser coletivo não impossibilita que o beneficiário busque individualmente a tutela jurisdicional que lhe seja favorável, isto é, o restabelecimento do seu vínculo contratual com a operadora, que, em tese, foi rompido ilegalmente.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 2.209.871/RJ, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/6/2023, DJe de 14/6/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AFRONTA AO ART. 1714 DO CC. FALTA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO NCPC EM RELAÇÃO À MATÉRIA. BEM DE FAMÍLIA. COMPROVAÇÃO. PLURALIDADE DE IMÓVEIS. IMPENHORABILIDADE. POSSIBILIDADE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15 em relação à matéria, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI).
+2. "A jurisprudência deste Tribunal é firme no sentido de que a Lei nº 8.009/1990 não retira o benefício do bem de família daqueles que possuem mais de um imóvel". Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.231.458/PR, relator Ministro RAUL ARAÚJO QUARTA TURMA, julgado em 8/5/2023, DJe de 17/5/2023, g.n.)
+No caso em apreço, verifica-se que a parte recorrente, nas razões do recurso especial, não indicou a violação do art. 1.022 do CPC/2015 em relação ao artigo supramencionado, razão pela qual não se pode concluir pela admissão de prequestionamento ficto.
+Avançando, no caso, a Corte de origem dirimiu, fundamentadamente, as matérias que lhe foram submetidas, motivo pelo qual o acórdão recorrido não padece de omissão, contradição ou obscuridade. Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+Especificamente sobre a ausência de fundamentação quanto à prova do exercício da posse contínua, pacífica e com animus domini, verifica-se que não procede a tese engendrada, diante da fundamentação adotada pelo Tribunal a quo:
+"Para que haja o reconhecimento de usucapião urbano, a parte deve provar o cumprimento dos requisitos legais, dentre eles, que exerce a posse ininterrupta e sem oposição, e que o imóvel seja utilizado para moradia, desde que não seja proprietário de outro bem.
+No caso, assim consta da matrícula do imóvel usucapiendo (evento 250, MATRIMÓVEL3):
+(..)
+Portanto, verifica-se que o imóvel constante da matrícula acima transcrita, de propriedade de Vera Lucia Colombelli, foi alienado fiduciariamente em favor da Caixa Econômica Federal, em 23/11/2011, com prazo de amortização de 360 meses.
+Nos termos do art. 29 da Lei 9.514/97, a transmissão dos direitos relativos aos bem pelo fiduciante somente é possível com a anuência expressa do fiduciário, in verbis:
+Art. 29. O fiduciante, com anuência expressa do fiduciário, poderá transmitir os direitos de que seja titular sobre o imóvel objeto da alienação fiduciária em garantia, assumindo o adquirente as respectivas obrigações.
+Segundo a exegese do artigo 22, caput e § 1º, da Lei nº 9.514/97, a garantia por alienação fiduciária não é exclusiva dos contratos de financiamento imobiliário, podendo incidir em outras modalidades, inclusive celebrados por pessoas jurídicas, não sendo a alienação fiduciária privativa das entidades que operam no Sistema de Financiamento Imobiliário - SFI.
+(..)
+Tratando-se de imóvel que se encontra alienado fiduciariamente à CEF, enquanto não quitado o contrato, o mutuário/fiduciante detém única e exclusivamente a posse direta do imóvel, a qual é precária e não exclui a indireta do credor fiduciário, não se podendo cogitar de posse mansa e pacífica." (e-STJ, fls. 1.899/1.902)
+Como visto, o eg. Tribunal de origem analisou expressamente o argumento relativo à ausência dos requisitos para configurar caso de usucapião do imóvel pelo recorrente, de modo que não há falar em omissão ou ausência de fundamentação no julgado, mas sim inconformismo da recorrente com a conclusão adotada no acórdão recorrido, o que não consiste em ofensa ao art. 489 do CPC.
+Em síntese, os vícios a que se refere os artigos 489 e 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito, na parte que interessa:
+AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.
+ ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ ..
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. MEDIDA CAUTELAR DE ARRESTO. PERICULUM IN MORA NÃO CONFIGURADO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EVIDENCIADA PELA APLICAÇÃO DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Havendo a apreciação pelo Tribunal de origem de todas as matérias suscitadas pelas partes, não há que se falar em violação do art. 1.022 do CPC/2015.
+2. Para modificar a conclusão do acórdão recorrido, que manteve o indeferimento do pedido de arresto cautelar dos bens dos recorridos em razão da ausência de comprovação do periculum in mora, seria imprescindível o reexame de todo o conjunto fático-probatório dos autos, procedimento inviável na via do especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 7/STJ impede o exame do recurso especial em relação ao dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso concreto.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1043856/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+Por fim, quanto à tese da possibilidade de reconhecimento de usucapião de imóveis alienados em favor da CEF fora do SFH, observa-se que a parte recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado 284 da Súmula do Supremo Tribunal Federal. A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOAÇÃO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DAS FORMALIDADES LEGAIS. EMPRÉSTIMO VERBAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA. I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento a agravo em recurso especial. II. Razões de decidir
+2. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ). 5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+6. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu. III. Dispositivo
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.568.839/RS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Ante o exposto, conheço do agravo para negar provimento a o recurso especial.
+Se houver nos autos a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+É como voto.
