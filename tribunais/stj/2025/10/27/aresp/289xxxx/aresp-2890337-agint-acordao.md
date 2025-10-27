@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. FALTA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PARCELAMENTO DAS CUSTAS. AUSÊNCIA DE PREQUESTIONA MENTO. SÚMULAS 282 E 356 DO STF. NÃO PROVIMENTO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 2.045/2.048, proferida pela Presidência do Superior Tribunal de Justiça, a qual aplicou a Súmula 7/STJ quanto à pretensão do recorrente em relação ao deferimento da gratuidade de justiça, tendo em vista que a parte teria demonstrado sua atual situação de hipossuficiência financeira. Também entendeu-se pela ausência de prequestionamento no que se refere à violação do artigo 98, § 6º, do Código de Processo Civil.
+A parte agravante sustenta que a Súmula 7 não constitui obstáculo ao conhecimento do recurso especial.
+Aduz que estaria configurado o prequestionamento implícito quanto à pretensão referente ao parcelamento das custas.
+Impugnação às fls. 2.068/2.073.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. FALTA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PARCELAMENTO DAS CUSTAS. AUSÊNCIA DE PREQUESTIONA MENTO. SÚMULAS 282 E 356 DO STF. NÃO PROVIMENTO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece provimento.
+Isso se diz porque, quanto à controvérsia, o Tribunal estadual se manifestou nos seguintes termos (fl. 1.838):
+Segundo consta dos autos principais, a autora, somente após a prolação da sentença, requereu a concessão da justiça gratuita, alegando não ter condições econômicas de efetuar o recolhimento do preparo sem prejuízo de seu próprio sustento. Não apresentou a recorrente, contudo, documentos que pudessem comprovar eventual substancial mudança de sua situação econômica desde o ajuizamento da ação.
+Em verdade, observa-se que a autora, ora agravante, ajuizou a ação pretendendo a anulação de partilha de inventário extrajudicial, lavrada em 13 de junho de 2019, na qual foi contemplada com a totalidade dos bens mencionados nos itens 3.2 a 3.7, além do valor correspondente a R$ 514.061,21 do bem mencionado no item 3.8, o que compreende um apartamento em bairro nobre desta capital e saldo de aplicações financeiras (fls. 18/25 dos autos principais), somando- se aos imóveis que já compunham o seu patrimônio pessoal (fls. 25/39).
+À luz do princípio da cooperação, concedeu-se prazo para que a apelante apresentasse nos autos "cópia de sua última declaração de rendimentos, bem como de seus extratos bancários e de cartão de crédito dos últimos três meses" (fls. 1728/1729), ao que a recorrente apresentou, apenas, extratos da previdência social em que demonstra o valor mensal percebido com o benefício previdenciário (1737/1739), deixando de cumprir integralmente a determinação, o que traz fundadas dúvidas quanto à alegada impossibilidade financeira. Ocorre que, como visto, os elementos existentes nos autos evidenciam que a aposentadoria recebida mensalmente não seria a sua única fonte de renda e que haveria reserva financeira suficiente para arcar com o pagamento do preparo, estimado em R$32.000,00, sem prejuízo do seu sustento.
+Diante disso, efetivamente, não há como conceder o benefício da assistência judiciária àqueles que, no momento da propositura da ação, não o haviam solicitado, sendo que teria sido indispensável a comprovação da alteração de sua situação econômica posterior ao ajuizamento da demanda.
+Nos termos da jurisprudência desta Corte, a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido. A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA.PESSOA FÍSICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DAHIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DASÚMULA 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+2. Concluindo o Tribunal originário que a hipossuficiência da parte requerente não foi comprovada nos autos, fica impedido o Superior Tribunal de Justiça de modificar a conclusão acolhida, ante a incidência da Súmula7/STJ.
+3. A incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.657.329/MS, relator Ministro Marco Aurélio Bellizze,Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DAPRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIAGRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. ACÓRDÃO ESTADUAL EMSINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. PESSOA JURÍDICA. NECESSIDADE DE PRO VA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAFAVORÁVEL. SÚMULA 481/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVOEM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça: I)tratando-se de concessão do benefício de gratuidade da justiça em favor da pessoa física, há a presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente (incidência da Súmula 83 do STJ); II) a concessão do benefício de gratuidade da justiça a pessoa jurídica, ainda que em regime de liquidação extrajudicial, recuperação judicial ou sem fins lucrativos, somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (incidência da Súmula 481/STJ).
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.576.243/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.)
+Outrossim, a conclusão do Tribunal revisor, acerca da ausência de elementos necessários para a concessão da gratuidade, foi obtida pela análise do conteúdo fático e probatório dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Quanto à suposta ofensa ao artigo 98, § 6º, do CPC, verifico que, de fato, a Corte local não se pronunciou acerca do referido dispositivo legal e à tese a ele vinculada, de modo que ausente o necessário prequestionamento acerca do tema, razão pela qual correta a incidência do óbice das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Cumpre frisar que somente se admite o prequestionamento ficto quando, não sanada a omissão no julgamento dos embargos de declaração, a parte alegue a ofensa ao art. 1.022 do CPC nas razões do recurso especial, o que não ocorreu no caso dos autos, em que não houve sequer a oposição do recurso integrativo acerca da questão.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO MÍNIMA PELA PARTE. DÉBITO. CIÊNCIA PELA PARTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+(..)
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria, nos termos do art. 1.025 do CPC/2015.
+(..)
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1663481/PR, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 30/11/2021)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
