@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL E PROCESSUAL CIVIL.  AÇÃO  DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO. CANCELAMENTO. NOTIFICAÇÃO. INEXISTÊNCIA. DANO MORAL.  NECESSIDADE.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  GEAP AUTOGESTÃO EM SAÚDE  contra  a  decisão  que  inadmitiu  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  art.  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Pernambuco  assim  ementado:
+"CIVIL. APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. CANCELAMENTO DO CONTRATO. INADIMPLÊNCIA. AUSÊNCIA DE NOTIFICAÇÃO REGULAR. SEGURADO INTERNADO. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS CONFIGURADOS. INDENIZAÇÃO MANTIDA. JUROS DE MORA A PARTIR DA CITAÇÃO. CORREÇÃO DE OFÍCIO. HONORÁRIOS RECURSAIS. NÃO PROVIMENTO DO RECURSO.
+Apesar da inaplicabilidade do CDC aos planos de saúde geridos por autogestão, a Lei 9.656/98 permanece aplicável à espécie. Além disso, os deveres de lealdade e de informação, decorrentes do princípio da boa-fé objetiva, devem ser preservados nos contratos civis (art. 422 do CC/02). A inadimplência pode ser causa de cancelamento do plano de saúde, desde que obedecidos os requisitos legais. O art. 13, parágrafo único da Lei n. 9.656/1998 trata do tema. Os documentos indicam não ter a Seguradora observado a regular notificação, pois consta apenas o Aviso de Recebimento válido, AR, desacompanhada do conteúdo da notificação extrajudicial. Tal fato não comprova, de per si, que os autores foram efetivamente cientificados a respeito da possibilidade de cancelamento do plano de saúde contratado, não tendo sido atendida, assim, a determinação legal. E ainda que considerasse a validade da notificação extrajudicial, um dos segurados estava internado para tratamento de Esquizofrenia Residual (CID 10 F 20.5) no Sanatório Psiquiátrico de Recuperação no momento do cancelamento. A conduta da Seguradora de cancelar o contrato, após anos de execução regular, e sem comunicação eficiente e, ainda, durante período de internação hospitalar do segurado, viola a boa-fé objetiva e descumpre os deveres jurídicos anexos. É cristalina a conduta lesiva praticada pela seguradora por ter agido de forma indevida, gerando a segurada constrangimento, perturbação nas relações psíquicas e na sua tranquilidade que já estava abalada em razão de problemas na gestação, fator suficiente para corroborar com o cabimento do dano moral. O dano moral, no caso, é in re ipsa pela simples comprovação do ato ilícito causador da dor, do sofrimento e da lesão aos sentimentos íntimos juridicamente protegidos. Considerados os princípios da razoabilidade e proporcionalidade e, observado o patamar desta Corte para casos semelhantes, a fixação de indenização por danos morais no importe de R$ 10.000,00 se encontra adequada as peculiaridades do caso concreto. Sobre o referido valor, deve incidir correção monetária a partir da data do arbitramento (conforme Súmula 362 do STJ), bem como juros moratórios de 1% ao mês a partir da data da citação, o qual fica corrigido de ofício. Considerando o disposto no art. 85, § 11, do CPC, deve haver a majoração das verbas honorários sucumbenciais de 10% para 15% sobre o valor da condenação. Recurso não provido"  (e-STJ  fls.  399/400).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fls.  455/466).
+No  recurso  especial,  a  recorrente  alega  violação  dos  arts.  186, 188,  421 e 422  do  Código  Civil  e  13 da Lei nº 9.656/1998,  pois  não houve ilegalidade no cancelamento do plano, assim como não era cabível indenização por danos morais na espécie.
+Com  as  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO CIVIL E PROCESSUAL CIVIL.  AÇÃO  DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO. CANCELAMENTO. NOTIFICAÇÃO. INEXISTÊNCIA. DANO MORAL.  NECESSIDADE.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+2.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+Transcreve-se,  por  oportuno,  a  fundamentação  do  aresto  recorrido  ao  analisar  o  feito:
+"(..)
+O dispositivo determina, portanto, que o contrato só poderá ser cancelado se o segurado deixar de pagar as mensalidades por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato. Para tanto, o consumidor deve ser notificado até o quinquagésimo dia de inadimplência, para que tenha a oportunidade de quitar a dívida.
+Da análise dos documentos trazidos na contestação, entretanto, percebo não ter a Seguradora observado a regular notificação.
+Ora, o GEAP informa ter enviado notificação com a comunicação do débito para o endereço cadastrado. Todavia, observo constar apenas o Aviso de Recebimento válido, AR, desacompanhada do conteúdo da notificação extrajudicial, o que não comprova, de per si, que os autores foram efetivamente cientificados a respeito da possibilidade de cancelamento do plano de saúde contratado, não tendo sido atendida, assim, a determinação legal.
+Dessa forma, os Segurados não chegaram a ser regularmente notificados sobre a sua inadimplência, diante da ausência de AR válido nos autos.
+E ainda que considerasse a validade da notificação extrajudicial, Bruno estava internado para tratamento de sua patologia - Esquizofrenia Residual (CID 10 F 20.5) no Sanatório Psiquiátrico de Recuperação, conforme ID 21795123.
+Desse modo, a conduta da Seguradora de cancelar o contrato, após anos de execução regular, e sem comunicação eficiente e, ainda, durante período de internação hospitalar de Bruno, viola os princípios da informação e da boa-fé objetiva e descumpre os deveres jurídicos anexos.
+(..)
+É cristalina, portanto, a conduta lesiva praticada pela seguradora por ter agido de forma indevida, gerando a segurada constrangimento, perturbação nas relações psíquicas e na sua tranquilidade que já estava abalada em razão da sua gravidez de risco, fator suficiente para corroborar com o cabimento do dano moral.
+(..)
+No caso em tela, o cancelamento do plano de saúde já é suficiente para dar ensejo à indenização por dano moral, não havendo necessidade de comprovação do dano suportado pelos segurados, ainda mais diante da necessidade de cobertura, em razão do internamento de Bruno.
+Sendo assim, é imperativa a condenação do GEAP ao pagamento de danos morais" (e-STJ fls. 393/396 - grifou-se).
+Nesse contexto,  verifica-se  a  impossibilidade  de  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  porque  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos ,  o  que  é  inviável  no  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  15%  (quinze  por  cento)  sobre  o  valor  da  condenação,  os  quais  devem  ser  majorados  para  o  patamar  de  17%  (dezessete  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+É  o  voto.
