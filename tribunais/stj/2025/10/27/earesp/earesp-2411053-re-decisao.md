@@ -1,0 +1,25 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental e, por conseguinte, manteve a decisão que indeferiu liminarmente os embargos de divergência.
+O julgado recorrido recebeu a seguinte ementa (fl. 1.289):
+PROCESSUAL CIVIL. PROCESSUAL PENAL AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DIVERGÊNCIA NÃO DEMONSTRADA. RECURSO IMPROVIDO.
+1. O cabimento dos embargos de divergência pressupõe a existência de similitude entre os acórdãos postos em cotejo, a ser verificada com base nos fatos processuais neles constantes.
+2. Enquanto no acórdão embargado afastou-se a ocorrência de excesso de linguagem na sentença de pronúncia, considerando que o magistrado fez referência às provas constantes dos autos para reconhecer a materialidade e a presença de indícios suficientes de autoria, inclusive no que se refere às qualificadoras do crime de homicídio, mas sem emitir juízo de valor sobre a ocorrência dos fatos. No precedente apontado como divergente, ficou consignada a existência de excesso de linguagem, em decorrência de uma afirmação constante da sentença de pronúncia, consistente na expressão "sem qualquer dúvida, o veículo no qual estavam os réus deliberadamente ingressou a contramão para com a derrubada do motociclista com o fito de, com sua morte, fazer que os policiais parassem para socorrer a vítima e os deixasse fugir". De modo que a sentença de pronúncia, adentrando no mérito da causa, utilizou-se de expressões passíveis de influenciar o Conselho de Sentença. Logo, ausente a necessária similitude fática entre os acórdãos confrontados.
+3. Ausente a similitude fático-jurídica, não é possível o conhecimento dos embargos de divergência. Precedentes.
+4. Agravo regimental improvido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 1.315-1.318).
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao art. 5º, XXXVIII, d, da Constituição Federal.
+Requer, assim, a admis são e o provimento do recurso.
+É o relatório.
+2. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
