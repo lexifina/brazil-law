@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LUCAS RAÍ NONATO FRAGA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o recorrente foi condenado às penas de 6 anos e 8 meses de reclusão no regime semiaberto e de pagamento de 650 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, tendo-lhe sido negado o direito de recorrer em liberdade.
+O recorrente sustenta a ausência dos requisitos para a manutenção da prisão na sentença condenatória e afirma que é primário, não possuindo outra condenação penal, razão pela qual a manutenção da prisão violaria o princípio da presunção de inocência.
+Aduz que a prisão preventiva é incompatível com o regime semiaberto fixado na sentença e defende a ausência de periculum libertatis.
+Salienta que o delito apurado não envolveu violência ou grave ameaça e assevera que a gravidade do delito não é capaz de ensejar a segregação cautelar, sendo possível a aplicação de medidas cautelares alternativas.
+Informa que já houve expedição de guia de execução provisória e indeferimento de trabalho externo na execução, o que evidenciaria a não compatibilização efetiva da prisão ao regime semiaberto.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de uma medida cautelar alternativa.
+É o relatório.
+Quanto à manutenção da prisão preventiva na sentença condenatória, " e sta Corte Superior de Justiça tem entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, sendo suficiente a afirmação de que permanecem intactos os motivos ensejadores da custódia cautelar, desde que aquela anterior decisão esteja, de fato, fundamentada, como ocorreu na espécie" (AgRg no HC n. 754.327/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022).
+Em relação ao tema, assim consta da sentença (fl. 555, grifei):
+Da manutenção da prisão preventiva
+Considerando que o autuado respondeu ao processo preso preventivamente e que não sobrevieram razões fáticas ou jurídicas que o favoreçam; considerando que a prova produzida em contraditório judicial demonstrou que o acusado vinha se dedicando ao tráfico de drogas reiteradamente: MANTENHO A PRISÃO PREVENTIVA de LUCAS RAÍ NONATO FRAGA, por seus próprios fundamentos, ante a flagrante insuficiência e inadequação das medidas cautelares mais brandas que a prisão, as quais não se prestariam a evitar a reiteração delitiva.
+Como se vê, o Magistrado sentenciante manteve a prisão preventiva por seu próprios fundamentos, isto é, destacou que persistem os fundamentos autorizadores da custódia cautelar, não havendo ilegalidade a ser sanada neste ponto.
+Ademais, constatou-se que os requisitos da prisão preventiva do recorrente, constantes no decreto prisional, já foram analisados pelo STJ no julgamento do RHC n. 213.932/MG, o qual foi improvido, tendo sido certificado o trânsito em julgado em 22/4/2025, não devendo ser novamente apreciados.
+No mais, quanto à alegada incompatibilidade entre a prisão preventiva e o regime semiaberto fixado na sentença, o voto condutor do acórdão impugnado foi disposto nos seguintes termos (fls. 592-593):
+Outrossim, a meu ver, não há incompatibilidade entre a fixação do regime semiaberto e a negativa do direito de recorrer em liberdade. Nesse ponto, a propósito, consoante a jurisprudência pacífica do augusto STJ:
+ ..
+Com tais considerações, não vislumbrando a presença de constrangimento ilegal imposto, denego a ordem impetrada. Sem custas.
+Acerca da matéria, o Supremo Tribunal Federal, em dezembro de 2024, estabeleceu a compatibilidade entre a prisão preventiva e a fixação do regime semiaberto, desde que a manutenção da segregação cautelar fosse suficientemente fundamentada. Cita-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E DE PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO PREVENTIVA E A FIXAÇÃO DO REGIME SEMIABERTO. COMPATIBILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS.
+1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes.
+2. Na esteira do entendimento das instâncias anteriores e da decisão agravada, as circunstâncias concretas da prática do delito indicam, pelo modus operandi, a gravidade em concreto de delito e a fundada probabilidade de reiteração delitiva, a justificar o decreto prisional para resguardar a ordem pública, nos termos do art. 312 do CPP.
+3. A natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional. Precedentes.
+4. A Primeira Turma do Supremo Tribunal Federal "tem se orientado no sentido da compatibilidade entre a prisão preventiva e a fixação do regime semiaberto, desde que a decisão de manutenção da cautelar seja suficientemente fundamentada" (HC 239.692-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.5.2024).
+5. De acordo com as instâncias anteriores, o paciente está "em cumprimento de pena no regime semiaberto, porquanto possuem celas com distinção de regimes (fechado e semiaberto), além de benefícios inerentes ao regime intermediário, tais como saída temporária e trabalho externo".
+6. Agravo regimental conhecido e não provido.
+(HC n. 242.856-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 16/12/2024, DJe de 19/12/2024.)
+No mesmo sentido: HC n. 259.839-AgR, relator Ministro Cristiano Zanin, Primeira Turma, julgado em 8/9/2025, DJe de 10/9/2025; HC n. 240.152-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 16/12/2024, DJe de 19/12/2024; e HC n. 248.326-AgR, relator Ministro Flávio Dino, Primeira Turma, julgado em 9/12/2024, DJe de 17/12/2024.
+Por sua vez, o Superior Tribunal de Justiça fixou entendimento de que " a  fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória" (AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Em idêntica direção: AgRg no RHC n. 194.672/MG, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 9/9/2024, DJe de 11/9/2024; AgRg no HC n. 887.437/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024; e REsp n. 2.139.829/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 12/3/2025.
+Registra-se que a compatibilização entre o regime da condenação e o cumprimento da prisão preventiva deve ocorrer com a expedição de guia de execução provisória da pena, pelo Juízo da execução.
+No caso, consoante se extrai da sentença condenatória, o Juízo da VEC foi provocado a expedir a guia de execução provisória. Em seguida, foi determinada a expedição de ofício à unidade prisional para que proceda à adequação da prisão preventiva ao regime semiaberto (fl. 555), não havendo, portanto, ilegalidade a se reconhecer.
+Ressalta-se que eventuais insurgências defensivas no bojo da execução devem ser dirigidas ao juízo competente, isto é, ao J uízo da VEC.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
