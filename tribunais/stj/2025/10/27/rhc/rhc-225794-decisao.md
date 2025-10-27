@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JACKSON VIEIRA SIMÕES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o recorrente teve sua prisão preventiva decretada em 7/3/2023, tendo sido posteriormente denunciado pela suposta prática de associação para o tráfico, nos termos do art. 35, caput, c/c o art. 40, IV, ambos da Lei n. 11.343/2006, com manutenção da custódia na fase de recebimento da denúncia.
+O recorrente sustenta que a prisão se apoia em prints de WhatsApp, de 26/4/2023 e 13/5/2023, sem demonstração de fatos novos, o que afronta os arts. 312, § 2º, e 315, § 1º, do CPP.
+Alega que sua identificação como "BG" decorreu apenas de consulta informal a policiais da região, revelando a fragilidade dos indícios.
+Afirma que o acórdão recorrido manteve a preventiva com fundamento genérico de ordem pública e gravidade, sem individualizar elementos concretos do caso.
+Aduz que os argumentos do decreto e da representação se limitaram a reproduzir os mesmos prints, inexistindo prova robusta da materialidade apta a sustentar a cautelar extrema.
+Pondera que o Ministério Público requisitou esclarecimentos sobre a materialidade e que a autoridade policial respondeu de modo vago, reforçando a precariedade da medida.
+Assevera que não há contemporaneidade entre os fatos e a custódia, pois as conversas são de mais de 2 (dois) anos, contrariando o princípio da urgência das cautelares.
+Defende que, diante da ausência de violência, não há riscos concretos à ordem pública, sendo desnecessária a segregação.
+Entende que o art. 282, § 6º, do CPP exige a análise da adequação e da suficiência de cautelares alternativas, exame que não realizado de modo individualizado.
+Informa que é primário, tem 28 anos e reside no distrito da culpa, circunstâncias pessoais que favorecem medidas menos gravosas.
+Requer, liminarmente, a liberdade do recorrente. No mérito, pede o provimento do recurso com a revogação da prisão preventiva ou, subsidiariamente, a sua substituição por medidas cautelares previstas no art. 319 do CPP. (fl. 194).
+É o relatório.
+Em análise inicial, ressalta-se que, no procedimento do habeas corpus, bem como em seu recurso correlato, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Ademais, a prisão preventiva do recorrente foi decretada nos seguintes termos (fls. 96-144, grifo próprio):
+Cuida-se de representação da autoridade policial pela decretação de prisões preventivas e de prisões temporárias de 36 investigados, no bojo do IPL n.º 13/2025/250101, oriundo da 1ª DIN/DENARC - PC/RS. A investigação policial foi instaurado para apurar, em tese, organização criminosa voltada ao tráfico de entorpecentes e comércio ilegal de armas de fogo (evento 1, REPRESENTACAO_BUSCA1).
+ ..
+Os indícios de participação de JACKSON VIEIRA SIMOES no grupo criminoso investigado derivam do contido às fls. 57 e ss., do relatório de evento 1, RELINVESTIG6.
+No que concerne à sua identificação, constaram os seguintes apontamentos:
+Para identificar o contato BG foi realizada consulta junto a operadora VIVO que presta serviço para linha (85) 98219-5978 para obter os dados cadastrais do proprietário. Com o retorno da operadora foi possível identificar que a linha pertence a ANA CLAUDIA APARECIDA FRANCISCO CANDIDO.
+No entanto, a troca de mensagens e a forma como o contato foi salvo, não indicam que o contato BG, abreviação para Bigode, é a proprietária da linha telefônica. Não foi constada relação entre a proprietária da linha com cadastro na cidade de Três Rios - RJ e um possível suspeito. Tal situação sinaliza a possibilidade de abertura de conta telefônica com informações falsas ou dados de terceiro com a intenção de efetuar operações fraudulentas e dificultar a identificação do criminoso.
+Na tentativa descobrir a identidade do criminoso que utiliza a alcunha BIGODE, foi realizada consulta aos membros da equipe de investigação que atuam na região e os mesmos indicaram o indivíduo JACKSON VIEIRA SIMÕES.
+(..)
+Na consulta aos sistemas policiais consta que JACKSON VIEIRA SIMÕES atende pelas alcunhas BIGODE, BIG e VISIONÁRIO, lembrando que na conversa o contato foi salvo como "Bg" por ISMAEL PINTO DE ARAUJO. Ao longo do diálogo, identificamos que "Bg" é a abreviação para Bigode.
+Constaram, ainda, os seguintes indicativos da sua participação nas atividades criminosas:
+Na consulta aos sistemas policiais consta que JACKSON VIEIRA SIMÕES atende pelas alcunhas BIGODE, BIG e VISIONÁRIO, lembrando que na conversa o contato foi salvo como "Bg" por ISMAEL PINTO DE ARAÚJO.
+Ao longo do diálogo, identificamos que "Bg" é a abreviação para "Bigode".
+Atualmente o suspeito está recolhido na Penitenciária de Alta Segurança de Charqueadas. Pelo perfil de conduta, alcunha utilizada na comunicação e histórico criminal, parece plausível que JACKSON VIEIRA SIMÕES seja o contato "Bg".
+2.27.3. CONDUTAS APURADAS
+Tráfico de drogas: art. 33, caput, da Lei 11.343/06  JACKSON possui papel de destaque dentro da organização criminosa, atuando na compra/venda de entorpecentes, além de controlar o fluxo de valores e a distribuição dos recursos.
+Associação para o tráfico de drogas: art. 35 da Lei 11.343/06  JACKSON associou-se com os demais representados com o fim de praticar o crime de tráfico de drogas.
+O histórico de conversa entre o investigado e o contato BG inicia no dia 26 de abril de 2023 às 18h03min.
+ ..
+Ao longo da conversa identificamos que o contato BG, abreviação para Bigode, atua organizando o fluxo do caixa, indicando compradores de entorpecentes e orientando as ações de ISMAEL. Em diversos momentos da conversa entre as partes, JACKSON solicita o envio das listagens de cocaína, crack e dinheiro.
+ ..
+O investigado encontra-se preso preventivamente em ações penais nas quais se lhe imputam crimes de extorsão mediante sequestro e organização criminosa, vide evento 7, CERTANTCRIM8.
+Nesse cenário, o exame acima procedido mostra que há robustos indícios de que os representados compõem uma organização criminosa e, pelo exame da movimentação financeira, realizam atos tendentes ao branqueamento de recursos espúrios.
+ ..
+Conforme esclarecido acima, parte dos réus citados possuem antecedentes expressivos, o que robustece a necessidade da custódia cautelar, ainda que não estivessem em posição de liderança ou em escalão mais elevado do grupo criminoso.
+ ..
+Diante do exposto, acolhemos em parte a representação da autoridade policial, fins de DECRETAR a PRISÃO PREVENTIVA, fins de resguardo da ordem pública, a teor do artigo 312, do Código de Processo Penal, dos seguintes investigados:
+ ..
+xii) JACKSON VIEIRA SIMOES.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, tendo em vista que o recorrente foi identificado como integrante de organização criminosa voltada ao tráfico de drogas e ao comércio ilegal de armas de fogo.
+Segundo as investigações, Jackson Vieira Simões, conhecido pelas alcunhas "Bigode", "Big" e "Visionário", desempenhava papel de destaque no grupo, atuando na compra e venda de entorpecentes, no controle do fluxo financeiro e na distribuição dos lucros, além de orientar as ações de outros membros, inclusive solicitando ao corréu Ismael o envio das listagens de cocaína, crack e valores movimentados.
+Nesse contexto, "conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009)" (AgRg no HC n. 910.098/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "FIM DO MUNDO". ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE NULIDADE E DESENTRANHAMENTO DE PROVAS ILÍCITAS. ACESSO AO CONTEÚDO DO CELULAR APREENDIDO PELA AUTORIDADE POLICIAL OCORRIDO SEM AUTORIZAÇÃO JUDICIAL. QUEBRA DE SIGILO DE DADOS E TELEMÁTICOS. NÃO OCORRÊNCIA. AUTORIZAÇÃO DO CORRÉU. EXERCÍCIO DE AUTODEFESA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DECISÃO MANTIDA.
+ ..
+2. Com efeito: "A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque." (AgRg no HC n. 640.313/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 183.658/RJ, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+Registra-se, ainda, haver risco concreto de reiteração delitiva, uma vez que o Juízo singular destacou que o recorrente "encontra-se preso preventivamente em ações penais nas quais se lhe imputam crimes de extorsão mediante sequestro e organização criminosa" (fl. 140).
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, segundo a qual a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar, visando à garantia da ordem pública, como ocorre no caso em questão. Nesse sentido: AgRg no HC n. 1.004.126/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/9/2025, DJEN de 22/9/2025; HC n. 988.088/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/7/2025, DJEN de 7/7/2025; AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Nesse contexto, esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+De mais a mais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por outro lado, quanto à alegação de ausência de contemporaneidade, observa-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
