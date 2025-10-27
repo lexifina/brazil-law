@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESPONSABILIDADE PELO CUSTEIO DE BENEFÍCIO. AUSÊNCIA DE DIREITO ADQUIRIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. SÚMULA 284 DO STF.
+1. A responsabilidade pelo custeio de benefício previdenciário complementar deve observar as disposições regulamentares vigentes e não implica solidariedade entre a patrocinadora e a entidade fechada de previdência privada.
+2. A alteração da fonte de custeio de benefício previdenciário complementar não viola o direito adquirido ao recebimento do benefício, desde que garantido o pagamento aos beneficiários.
+3. Aplicação da Súmula 284 do STF por analogia.
+4. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MÁRCIA REGINA CAMPOS DOS SANTOS E OUTROS contra decisão que inadmitiu seu recurso especial, fundamentado no artigo 105, III, "a", da Constituição da República, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. ELETROS. AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER E COBRANÇA VISANDO AO RESTABELECIMENTO DO PAGAMENTO DA VERBA DENOMINADA GARANTIA DE RENDA GLOBAL, INSTITUÍDA PELA RESOLUÇÃO Nº.879/89 E REVOGADA PELA RESOLUÇÃO Nº.777/2018, AMBAS EDITADAS PELA ELETROBRÁS. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS, CONDENADO A RÉ ELETROBRÁS. IRRESIGNAÇÃO DESTA E DOS DEMANDANTES. NÃO INCIDÊNCIA DAS NORMAS PROTETIVAS DO CDC. INTELIGÊNCIA DA SÚMULA Nº.563 DO STJ. AUTORES QUE RECEBEM O BENEFÍCIO DO PLANO BD ELETROBRÁS, CUJA INSTITUIÇÃO SE DEU NA VIGÊNCIA DA RESOLUÇÃO Nº.879/89, A QUAL INSTITUIU A GARANTIA DA RENDA GLOBAL DA APOSENTADORIA, QUE NÃO PODERIA SER INFERIOR A 90% DA RENDA MENSAL GLOBAL INICIAL. PAGAMENTO QUE FOI REALIZADO ATÉ O FINAL DO ANO DE 2018, TENDO SIDO SUPRIMIDO EM RAZÃO DO ADVENTO DA RESOLUÇÃO Nº.777/2018. EMBORA NÃO TIVESSE O RESPECTIVO PLANO DE CUSTEIO, O BENEFÍCIO NÃO DEIXOU DE SER IMPLANTADO E PAGO PELA ELETROBRÁS DESDE 1989 A 2018. ALTERAÇÃO PROMOVIDA NO ARTIGO 202 DA CF PELA EC Nº.20/98 E CONSOLIDADA PELA LEI COMPLEMENTAR Nº.109/2001 QUE SE DEU EM DATA POSTERIOR À INSTITUIÇÃO DOS BENEFÍCIOS DOS DEMANDANTES. SUPRESSÃO DA VERBA QUE CONFIGURA VIOLAÇÃO AO TEMPUS REGIT ACTUM. APLICABILIDADE DO TEMA 907 DO STJ. PARCELA QUE FOI CRIADA PELA PATROCINADORA E POR ELA INTEGRALMENTE CUSTEADA. PRESTÍGIO À BOA-FÉ OBJETIVA. IMPOSSIBILIDADE DE RECONHECIMENTO DA RESPONSABILIDADE DA ELETROS, EIS QUE SOMENTE OPERACIONALIZAVA OS PAGAMENTOS. SENTENÇA QUE NÃO MERECE REPARO. RECURSOS CONHECIDOS E DESPROVIDOS." (e-STJ, fls. 974-975)
+Os embargos de declaração opostos pelos recorrentes foram rejeitados, às fls. 972-983 (e-STJ).
+Em seu recurso especial, os recorrentes alegam violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) Art. 1.022, incisos I e II, do CPC, pois teria havido omissão no acórdão recorrido quanto à responsabilidade da ELETROS pela administração e execução dos planos de benefícios, conforme previsto no art. 32 da Lei Complementar 109/2001, e quanto à aplicação das disposições regulamentares vigentes à época em que os recorrentes se tornaram elegíveis ao benefício.
+(ii) Art. 32 da Lei Complementar 109/2001, pois a decisão recorrida teria deixado de reconhecer a responsabilidade da ELETROS pela administração e execução dos planos de benefícios, contrariando a norma que define o objeto das entidades fechadas de previdência complementar.
+(iii) Parágrafo único do art. 17 e §1º do art. 68 da Lei Complementar 109/2001, pois a decisão recorrida teria violado o direito adquirido dos recorrentes à aplicação das disposições regulamentares vigentes à época em que se tornaram elegíveis ao benefício, ao impor o custeio da rubrica exclusivamente à patrocinadora ELETROBRÁS.
+(iv) Art. 1 da Lei Complementar 109/2001 e art. 422 do Código Civil, pois a decisão recorrida teria desconsiderado o princípio mutualista e a boa-fé objetiva, ao não reconhecer a obrigação da ELETROS de realizar a provisão das reservas matemáticas financeiras para o pagamento do benefício.
+(v) Art. 926 do CPC, pois a decisão recorrida teria afrontado o dever de uniformização da jurisprudência, ao divergir de precedentes do próprio Tribunal de Justiça do Estado do Rio de Janeiro que reconheceram a responsabilidade da ELETROS pelo pagamento da rubrica "Garantia de 90% da Renda Mensal Global".
+Foram apresentadas contrarrazões pela ELETROS, às fls. 964-965 (e-STJ).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+DIREITO PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESPONSABILIDADE PELO CUSTEIO DE BENEFÍCIO. AUSÊNCIA DE DIREITO ADQUIRIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. SÚMULA 284 DO STF.
+1. A responsabilidade pelo custeio de benefício previdenciário complementar deve observar as disposições regulamentares vigentes e não implica solidariedade entre a patrocinadora e a entidade fechada de previdência privada.
+2. A alteração da fonte de custeio de benefício previdenciário complementar não viola o direito adquirido ao recebimento do benefício, desde que garantido o pagamento aos beneficiários.
+3. Aplicação da Súmula 284 do STF por analogia.
+4. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Os agravantes interpuseram o recurso especial alegando violação aos arts. 17, 32 e §1º do art. 68 da da Lei Complementar 109/2001, em virtude de, ao deixar de reconhecer a responsabilidade da FUNDAÇÃO ELETROBRÁS SOCIAL - ELETROS para custeio e pagamento da rubrica "GARANTIA DE 90% DA RENDA MENSAL GLOBAL", omitiu-se quanto à competência legal que determina àquela a administração dos planos de benefícios.
+Acrescentam os agravantes que, a alteração da fonte de custeio do pagamento da mencionada rubrica que compõe o benefício de previdência privada, viola o direito adquirido à proteção das regras vigentes ao tempo da aposentadoria.
+A alegação de violação ao art. 1022 do CPC não merece prosperar.
+Com efeito, o acórdão recorrido reconheceu que a FUNDAÇÃO ELETROBRÁS SOCIAL - ELETROS apenas operacionalizava o pagamento do recurso (fl. 982), a ser custeado pela ELETROBRÁS, patrocinadora que o instituiu e arcaria com os pagamentos, logo, ainda de forma sucinta, afastou a responsabilidade da agravada pelo pagamento.
+Assente na jurisprudência desta Corte o entendimento de que inexiste necessidade de rebater todas as argumentações do agravante quanto aos dispositivos legais suscitados.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 489 E 1.022 DO CPC. INEXISTÊNCIA. ATO ILÍCITO NÃO CARACTERIZADO. SÚMULA 7 DO STJ. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. RELEVÂNCIA DA OMISSÃO. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 Código de Processo Civil quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.737.429/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+O cerne da controvérsia diz respeito à pretensão dos autores de manutenção, pelo menos solidariamente, da FUNDAÇÃO ELETROBRÁS SOCIAL - ELETROS como responsável pelo pagamento da verba já mencionada.
+Os dispositivos da Lei Complementar 109/2001 que sustentam a tese dos agravantes são os seguintes:
+Art. 1º O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de previdência social, é facultativo, baseado na constituição de reservas que garantam o benefício, nos termos do caput doart. 202, observando o disposto nesta Lei Complementar.
+Art. 17. As alterações processadas nos regulamentos dos planos aplicam-se a todos os participantes das entidades fechadas, a partir de sua aprovação pelo órgão regulador e fiscalizador, observado o direito acumulado de cada participante.
+Parágrafo único. Ao participante que tenha cumprido os requisitos para obtenção dos benefícios previstos no plano é assegurada a aplicação das disposições regulamentares vigentes na data em que se tornou elegível a um benefício de aposentadoria.
+Art. 32. As entidades fechadas têm como objeto a administração e execução de planos de benefícios de natureza previdenciária.
+Parágrafo único. É vedada às entidades fechadas a prestação de quaisquer serviços que não estejam no âmbito de seu objeto, observado o disposto no art. 76.
+Art. 68. As contribuições do empregador, os benefícios e as condições contratuais previstos nos estatutos, regulamentos e planos de benefícios das entidades de previdência complementar não integram o contrato de trabalho dos participantes, assim como, à exceção dos benefícios concedidos, não integram a remuneração dos participantes.
+§ 1º Os benefícios serão considerados direito adquirido do participante quando implementadas todas as condições estabelecidas para elegibilidade consignadas no regulamento do respectivo plano.
+Da leitura dos dispositivos transcritos, conclui-se inexistir relação daqueles com a inexistente violação a direito adquirido suscitada, pois, mesmo considerando que somente a ELETROBRÁS foi condenada, os agravantes tiveram reconhecido o direito ao recebimento da verba denominada GARANTIA DE RENDA GLOBAL sem qualquer prejuízo.
+Dessa forma, o mero repasse dos pagamentos pela ELETROBRÁS à FUNDAÇÃO ELETROBRÁS SOCIAL - ELETROS não viola o direito adquirido ao recebimento das verbas mencionadas e reconhecidos nas instâncias inferiores.
+Na realidade, a fundamentação do recurso especial se mostra insuficiente para embasar a tese do agravante, haja vista inexistir comando legal que determine o pagamento dos valores solidariamente pelo plano de previdência privada, diante disso, há de se reconhecer a deficiência da fundamentação no presente recurso, conforme já decidiu o STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE BENEFÍCIO DE PREVIDÊNCIA PRIVADA SUPLEMENTAR. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de revisão de benefício previdenciário suplementar.
+2. O recurso especial é inadmissível, quando o acórdão recorrido decide também com base em fundamento constitucional e a parte vencida não interpõe recurso extraordinário. Súmula 126/STJ.
+3. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. Agravo não provido.
+(AgInt no AREsp n. 2.663.369/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 31/3/2025, DJEN de 3/4/2025.)
+Os agravantes ainda invocaram o principio da boa-fé objetiva, previsto no art. 422 do Código Civil, sem discorrer objetivamente sobre qual ou quais, dos deveres laterais ou anexos da relação obrigacional, foram violados quando a agravada deixou de custear a verba pretendida.
+Na realidade, o esforço argumentativo dos agravantes, em relação aos dispositivos legais apontados como fundamento do recurso especial, não permite concluir que o seu conteúdo normativo vede o pagamento da verba denominada GARANTIA DE RENDA GLOBAL apenas pela patrocinadora.
+Aplicável ao caso, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conh eço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 10%(dez por cento) sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+É como voto.
