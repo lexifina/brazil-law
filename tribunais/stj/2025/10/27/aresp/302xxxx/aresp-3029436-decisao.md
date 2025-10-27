@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Nova GCP Vale- Gestora Cobrança e Participações Ltda., desafiando decisão da Vice- Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (I) não há violação aos arts. 489, §1º,1.022, I, II e III, do CPC; e (II) incidência da Súmula 07/STJ, pois "o entendimento firmado pela Turma julgadora teve suporte nos elementos de prova que instruíram os autos, revisitar referida conclusão pressupõe revolvimento do acervo fático-probatório, inviável no âmbito de recurso especial" (fl. 353).
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) "ao adentrar no mérito do deduzido no apelo especial e compreender pela ausência de violação aos 489, §1º, IV, e 1.022, I, II e III do CPC, percorre o caminho fácil da fundamentação absolutamente genérica, sem se deter às particularidades dos argumentos deduzidos pela Agravante" (fl. 359); e (II) "tudo isso deixa claro se tratar de questão exclusivamente de direito, acerca da aplicação dos arts. 489 e 1.022, I, II e III do CPC e do 42 da Lei nº 9.430/96, conforme aduzido no introito desta peça, não havendo margem para aplicação da Súmula nº 7 desse E. STJ à discussão" (fl. 363).
+É O NECESSÁRIO RELATÓRIO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão recorrido e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+ EMENTA
