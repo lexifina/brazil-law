@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE CONTRARRAZÕES DA APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PROVIMENTO NEGADO.
+1. Conforme jurisprudência consolidada desta Corte Superior, havendo a angularização da relação processual ainda que na instância revisora pela apresentação de contrarrazões ao recurso de apelação, interposto de sentença liminar de improcedência, impõe-se a condenação da parte vencida ao pagamento dos honorários advocatícios, em observância ao princípio da sucumbência.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por REFINARIA DE PETROLEOS DE MANGUINHOS S/A - EM RECUPERACAO JUDICIAL da decisão de fls. 886/890.
+A parte agravante alega que o Estado do Rio de Janeiro, ao agravar da decisão anterior, não impugnou especificamente o fundamento relativo ao art. 85, § 3º, do Código de Processo Civil (CPC), o que atrairia a incidência da Súmula 182 do Superior Tribunal de Justiça (STJ).
+Segundo entende, inexiste relação processual válida que autorize a fixação de honorários de sucumbência, porque "a sentença foi proferida de forma monocrática e liminar, com indeferimento da petição inicial, antes mesmo da formação da relação processual. Não houve citação válida, não houve resposta, não houve qualquer impulso processual conferido pelo Estado do Rio de Janeiro" (fl. 903);
+Destaca que a apresentação de contrarrazões em segundo grau "não possui o condão de aperfeiçoar a angularização da relação processual a ponto de gerar direito a honorários advocatícios" (fl. 903) e que "a atuação restrita em segundo grau não supre nem substitui a ausência de citação válida no juízo de origem" (fl. 906).
+Afirma, ainda, que a teleologia do art. 85, § 11, do CPC impede a fixação de honorários em segundo grau quando não estabelecida a verba na origem, e que o princípio da causalidade veda honorários "quando a parte recorrida não deu causa à instauração da lide nem participou validamente da fase cognitiva do processo" (fl. 911).
+Requer a reconsideração da decisão agravada ou o exame do presente recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 921/927).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE CONTRARRAZÕES DA APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. PROVIMENTO NEGADO.
+1. Conforme jurisprudência consolidada desta Corte Superior, havendo a angularização da relação processual ainda que na instância revisora pela apresentação de contrarrazões ao recurso de apelação, interposto de sentença liminar de improcedência, impõe-se a condenação da parte vencida ao pagamento dos honorários advocatícios, em observância ao princípio da sucumbência.
+2. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursal não merece prosperar.
+De início, rejeito a preliminar de não conhecimento do agravo interno interposto pelo Estado do Rio de Janeiro porque os fundamentos da decisão que não conheceu do recurso especial foram impugnados no agravo interno de fls. 799/806, especificamente por reforçar a distinção entre honorários recursais e honorários de sucumbência, além de indicar precedentes do Superior Tribunal de Justiça (STJ) favoráveis à condenação em honorários na apelação contra sentença liminar de improcedência.
+Logo, não incide o óbice da Súmula 182 do STJ.
+Na origem, trata-se de ação anulatória de débito tributário cujo pedido foi julgado liminarmente improcedente, nos termos do art. 332, § 1º, e 487, II, do CPC, diante do reconhecimento da prescrição da pretensão autoral (a anulação de auto de infração). Não houve fixação de verba honorária pela ausência do contraditório.
+Interposta apelação, o Estado do Rio de Janeiro foi intimado e apresentou contrarrazões.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO negou provimento ao recurso, deixando de condenar a parte autora, ora recorrida, ao pagamento de honorários recursais previstos no § 11 do art. 85 do CPC, considerando que não tinha havido fixação de verba sucumbencial no primeiro grau de jurisdição. Ao apreciar os embargos de declaração, complementou:
+Trata-se do segundo recurso de embargos de declaração opostos pelo ora embargante, com o objetivo de modificar o v. acórdão embargado a fim de que sejam fixados honorários advocatícios em seu favor.
+Não lhe assiste, contudo, qualquer razão, na medida em que cabe ao Juízo de primeiro grau a fixação de honorários advocatícios sucumbenciais. À instância revisora cumpre apenas a majoração de honorários previamente fixados, consoante disposto no artigo 85, §11 do Código de Processo Civil, cuja leitura não deixa margem a quaisquer dúvidas:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor. (..)
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+Nem se diga que caberia a revisão da sentença em remessa necessária porque, não tendo havido condenação do ente estatal, tampouco sendo caso de execução fiscal, a sentença não está sujeita ao duplo grau obrigatório de jurisdição, conforme previsto no artigo 496 do Código de Processo Civil:
+Art. 496. Está sujeita ao duplo grau de jurisdição, não produzindo efeito senão depois de confirmada pelo tribunal, a sentença: I - proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público; II - que julgar procedentes, no todo ou em parte, os embargos à execução fiscal.
+Não há, pois, omissão ou obscuridade a ser sanada, tendo o v. acórdão se manifestado sobre o tema de forma clara e precisa.
+Em seu recurso especial, o Estado do Rio de Janeiro defendeu a fixação de honorários de sucumbência independentemente da condenação na origem, destacando que o princípio da causalidade impõe a condenação ao pagamento de honorários advocatícios em grau recursal quando há triangulação da relação processual diante do princípio da causalidade.
+Registro que a viabilidade de majoração de honorários advocatícios, na forma do § 11 do art. 85 do CPC, não se confunde com o cabimento de honorários de sucumbência quando a relação processual somente se aperfeiçoa em grau recursal, à luz do § 1º desse dispositivo legal.
+Nesse cenário, a pretensão recursal encontra apoio na jurisprudência consolidada desta Corte Superior de que, havendo a angularização da relação processual ainda que na instância revisora pela apresentação de contrarrazões ao recurso de apelação, interposto de sentença liminar de improcedência, impõe-se a condenação da parte vencida ao pagamento dos honorários advocatícios, em observância ao princípio da sucumbência.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO LIMINAR DE MÉRITO. APELAÇÃO. SUCUMBÊNCIA DO AUTOR. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+ ..
+2. Cinge-se a controvérsia dos autos em definir se é cabível a condenação da parte ora agravada ao pagamento de honorários sucumbenciais ao patrono da parte agravante, diante do não provimento do recurso de apelação da parte autora.
+3. O Tribunal estadual concluiu pelo não cabimento da condenação ao pagamento de honorários sucumbenciais, porquanto não angularizada a relação processual na lide principal, onde a agravante não foi citada. Ocorre que contra a sentença que julgou improcedente a ação, com fundamento no artigo 285-A do CPC/1973, a parte autora (agravado) interpôs recurso de apelação, vindo a agravante, após citação, apresentar contrarrazões ao referido recurso interposto.
+4. Na hipótese de interposição de apelação em face de sentença de improcedência do pedido, proferida com base no artigo 285-A do CPC/1973, vindo a agravante apresentar contrarrazões ao recurso, enseja a condenação em honorários de sucumbência, nos termos do artigo 20 do CPC/1973, porquanto angularizada a relação processual. Precedentes.
+5. Agravo interno da União provido para condenar a parte autora ao pagamento de honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, com base no art. 20, § 4º, do CPC.
+(AgInt no REsp n. 1.664.667/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 285-A DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO LIMINAR DE MÉRITO. CITAÇÃO DO RÉU PARA APRESENTAÇÃO DE CONTRARRAZÕES. SUCUMBÊNCIA DO AUTOR. PRINCÍPIO DA CAUSALIDADE. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+1. No tocante à alegada violação do art. 285-A, § 2º, do CPC/1973, não se pode conhecer da irresignação, porque o referido dispositivo legal não foi analisado pela instância de origem. Ausente, portanto, o indispensável prequestionamento. 2. O princípio da causalidade impõe a condenação ao pagamento de honorários advocatícios quando há a improcedência da apelação interposta pelo autor, após o reconhecimento da improcedência do pedido, nos termos do art. 285-A do CPC/1973, nos casos em que foram ofertadas contrarrazões pelo réu.
+3. Recurso Especial parcialmente conhecido, nessa extensão, provido.
+(REsp n. 1.790.788/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/2/2019, DJe de 11/3/2019.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE IMPROCEDÊNCIA TOTAL DO PEDIDO. CONTRARRAZÕES RECURSAIS. TRIANGULAÇÃO DA RELAÇÃO PROCESSUAL.
+1. Este Superior Tribunal possui entendimento de que, no recurso de apelação interposto contra sentença de improcedência total do pedido, com base no art. 285-A do CPC/1973, a citação do réu para o oferecimento de contrarrazões recursais constitui a triangulação da relação processual, o que faz surgir o direito à condenação em honorários de sucumbência.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.801.604/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019.)
+Nesse cenário, não há censura a se fazer à decisão que deu provimento ao recurso especial e determinou o retorno dos autos ao Tribunal de origem para a fixação de honorários sucumbenciais em favor do ente público.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
