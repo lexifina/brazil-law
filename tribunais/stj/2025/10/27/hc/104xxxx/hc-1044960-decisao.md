@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JUAREZ DOS SANTOS CRUZ, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.25.152607-5/000).
+Colhe-se dos autos que o paciente foi pronunciado pela suposta prática dos crimes previstos no 121, caput c/c art. 13, §2º, "c", ambos do Código Penal e arts. 304 e 310, ambos do Código de Trânsito Brasileiro, na forma do art. 70 do Código Penal.
+A defesa impetrou prévio writ perante o Tribunal de origem, que não conheceu da impetração, nos termos da seguinte ementa:
+"EMENTA: HABEAS CORPUS - MATÉRIA RELATIVA À RECURSO EM SENTIDO ESTRITO - VIA INADEQUADA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - NÃO CONHECIMENTO DA IMPETRAÇÃO. - Eventual debate acerca de incidentes da sentença de pronúncia deverá ser feito em sede de recurso específico previsto em lei, qual seja, recurso em sentido estrito, consoante disposto no art. 581 do Código de Processo Penal, não podendo o presente mandamus ser enquadrado como sucedâneo recursal." (e-STJ, fl. 13).
+Nesta Corte, a defesa alega, em síntese, a existência de nulidade decorrente nas intimações realizadas no feito de origem, configurando cerceamento de defesa e efetivo prejuízo ao réu.
+Defende a anulação da intimação da pronúncia e sobrestar o feito até a ocorrência da intimação pessoal do defensor, restabelecendo o direito da plenitude de defesa (e-STJ, fl. 6).
+Pontua também a existência de excesso de linguagem na pronúncia.
+Requer, liminarmente, a suspensão da pronúncia e de quaisquer atos preparatórios para a designação do Júri, bem como para determinar ao Juízo de origem que reabra o prazo para interposição do RESE. No mérito, pugna pelo reconhecimento das intimações da pronúncia, além da reabertura do prazo recurso ou processamento do recurso protocolado.
+Pleiteia também a intimação da defesa para realizar sustentação oral nesta Corte.
+A defesa peticionou às fls. 147-152 (e-STJ), acostando documentos e reiterando o risco iminente de cerceamento da liberdade de locomoção do paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo ao exame da impetração, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+Inicialmente, cumpre ressaltar que " a  decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019). É "plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC 607.055/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 16/12/2020).
+Na espécie, quanto às questões da anulação da intimação da pronúncia e intimação pessoal do defensor, note-se que tais questões não foram sequer levantadas no writ originário (e-STJ, fl.14). Com relação às demais matérias suscitadas pela defesa, o Tribunal deixou de analisá-las, sob o fundamento de que "eventual debate acerca de incidentes da sentença de pronúncia deverá ser feito em sede de recurso específico previsto em lei, qual seja, recurso em sentido estrito, consoante disposto no art. 581 do Código de Processo Penal, não podendo o presente mandamus ser enquadrado como sucedâneo recursal" (e-STJ, fl. 13).
+Desse modo, a apreciação direta da questão por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"VI -  ..  Observa-se que a referida tese não foi enfrentada pela eg. Corte de origem. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Precedentes. Saliente-se que, para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado.
+ ..  Agravo regimental desprovido."
+(AgRg no HC n. 776.703/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/3/2023, DJe de 14/3/2023, grifou-se).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO.  ..  AGRAVO DESPROVIDO.
+1. As teses de ilicitude das provas não foram submetidas à apreciação do Tribunal a quo, de modo que não podem ser conhecidas originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Não se olvide que, consoante pacífica jurisprudência desta Corte, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte. Precedentes.  .. "
+(AgRg no HC n. 690.585/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022, grifou-se).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
