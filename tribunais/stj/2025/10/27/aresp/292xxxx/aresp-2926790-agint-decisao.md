@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno manejado pela RODRIMAR S.A. TRANSPORTES, EQUIPAMENTOS INDUSTRIAIS E ARMAZÉNS GERAIS - EM RECUPERAÇÃO JUDICIAL contra decisão do Presidente do STJ, constante às e-STJ fls. 855/856, em que não conheceu do agravo em recurso especial por ausência de impugnação específica de fundamento de inadmissão do apelo raro adotado na origem.
+Na suas razões, a parte agravante afirma ter combatido, de forma dialética, a alegada ausência de afronta a dispositivo legal. Aduz ser genérico o decisum proferido na origem e ter invocado, no seu agravo, o teor da Súmula 123 do STJ, destacando não terem sido apresentados os motivos específicos e concretos para a inadmissão do recurso especial.
+Sem contrarrazões.
+Passo a decidir.
+Da análise dos autos, observo que a inadmissão do apelo nobre na origem teve por fundamentos a consonância do acórdão recorrido com a jurisprudência do STJ, tendo sido citado, nesse sentido, o julgamento proferido no AgInt nos EDcl no REsp 1982769/SP (DJe de 19/10/2002); bem como a inexistência de comprovação da divergência jurisprudencial nos moldes do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ.
+A ausência de afronta a dispositivo legal, referida na decisão ora agravada, portanto, não justificou a solução adotada na instância inferior. Em vista disso, torno sem efeito o decisum impugnado e, em juízo de retratação, passo a novo exame do recurso.
+Não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701404/SC, 746775/PR e 831326/SP, decidiu pela necessidade de a parte agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, verifico que a agravante deixou de impugnar específica e adequadamente as razões de decidir do julgado.
+No agravo em recurso especial, aduz que: (i) " ..  o posicionamento citado na própria r. decisão agravada não se amolda ao caso, uma vez que  ..  não nega a possibilidade de penhora  .. , mas  ..  sustenta  a obrigatória necessidade, in casu, de ouvir previamente o Juízo Falimentar" (e-STJ fl. 821); e (ii) " ..  em seu recurso especial, cuidou de cotejar analiticamente as premissas fáticas e as soluções empregadas pelos vv. acórdãos paragonados, confrontando ponto a ponto suas premissas à luz da similitude fática apresentada  .. " (e-STJ fl. 822).
+Transcreve, nesse sentido, excerto do seu apelo nobre em que indica como paradigmas para a comprovação da suposta divergência jurisprudencial os acórdãos proferidos no AgInt no REsp 1988437/PE (DJe de 23/9/2022) e no AgInt nos EDcl no REsp 1982769/SP (DJe de 19/10/2022).
+Ocorre que esses julgados expõem posicionamento no mesmo sentido do precedente invocado na decisão impugnada. Portanto, não embasam a alegação da parte no sentido de que a penhora na execução fiscal depende de prévia consulta ao juiz da recuperação judicial.
+Inadmitido o recurso especial com base na consonância do acórdão recorrido com a jurisprudência do STJ, caberia à insurgente apontar precedentes contemporâneos ou supervenientes ao aludido na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 855/856 e, em nova análise do agravo em recurso especial, dele NÃO CONHEÇO com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
