@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Marta Aparecida Alves Ribeiro  desafiando a decisão de fls. 2.166/2.169, que não conheceu do seu recurso especial pelas seguintes razões: (a) a alegação genérica de afronta ao art. 995 do CPC atrai a incidência do Enunciado n. 284/STF; (b) aplicação do Verbete n. 211/STJ, em virtude da ausência de prequestionamento do art. 966, V, do CPC e da Súmula n. 343/STF; (c) o art. 966, V, do CPC não possui comando normativo que sustente a tese recursal, o que enseja a deficiência de fundamentação, nos termos do já referido Enunciado n. 284/STF; (d) o apelo especial não se presta ao revolvimento de matéria fática, conforme vedação da Súmula n. 7/STJ.
+Inconformada, a parte agravante sustenta que (fls. 2.180/2.181):
+ ..  o recurso especial foi devidamente funda- mentado e esclarece a pretensão que a agravante almeja. Ocorre que a via do recurso extremo é limitada ao debate processual e não ao revolvimento fático probatório, o que faria incidir a súmula 7 desse e. STJ.
+O recurso especial expõe, com a devida fundamentação, que a decisão rescindenda afetou a coisa julgada formada com base no entendimento pacificado pelo e. TJMG ao tempo dos fatos; exibiu o reconhecimento do STJ pelo afasta- mento do art. 966, V, do CPC, tendo-se em vista o disposto na súmula 343 do STF, além da tese fixada no Tema de Repercussão Geral 136. Além disso, tampouco há que se falar na ausência de exposição dos dispositivos da legislação federal que se entende como violados. Nota-se que, mesmo a decisão combatida, ao final da terceira página, assume a invocação do art. 966, V, do STJ.
+Além disso, tampouco há que se falar na ausência de exposição dos dispositivos da legislação federal que se entende como violados. Nota-se que, mesmo a decisão combatida, ao final da terceira página, assume a invocação do art. 966, V, do STJ.
+De igual modo, aduz que " a  decisão do Tribunal de Origem que ensejou a interposição do recurso especial se manifestou concretamente acerca do art. 966, V, do CPC, que é apresentado como prequestionamento" (fl. 2.181).
+Repisa, ainda, a tese de afronta ao art. 966, V, do CPC, no sentido de que a subjacente ação rescisória não seria cabível porquanto o acórdão rescindendo transitou em julgado em 14/6/2019, quando "não havia decisão de procedência e tese fixada nos autos incidente de Arguição de Constitucionalidade n. 1.0000.17.003425-0/004, o que ocorreu apenas em 22.11.2019" (fl. 2.182).
+Por fim, assevera a inaplicabilidade da Súmula n. 7/STJ, sob a assertiva de que "a presente relação processual, bem como o conhecimento do recurso especial interposto, não exige ree- xame probatório, mas a simples apreciação da decisão rescindenda e o entendimento do e. TJMG ao tempo do julgamento, sob pena de negativa da efetiva e adequada prestação jurisdicional à agravante" (fl. 2.184).
+A parte agravada apresentou impugnação às fls. 2.195/2.204.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. NECESSIDADE DE COMBATE A TODOS OS FUNDAMENTOS DO CAPÍTULO IMPUGNADO. EXIGÊNCIA CONTIDA NO ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os alicerces do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+2. A Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+3. Caso em que a parte insurgente não se desincumbiu desse encargo.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não comporta conhecimento.
+Segundo o art. 1.021, § 1º, do CPC, constitui ônus da parte recorrente impugnar especificamente os pilares do decisório combatido, evidenciando o desacerto das razões declinadas no julgamento monocrático.
+De outro giro, a Corte Especial, ao julgar os EREsp n. 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe de 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, deverá a parte agravante refutar a todos os fundamentos empregados no capítulo por ela impugnado, sob pena de incidência do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."
+Na espécie, conforme destacado no relatório acima, o decisum agravado não conheceu do seu recurso especial pelos seguintes motivos: (a) a alegação genérica de ofensa ao art. 995 do CPC atrai a incidência do Enunciado n. 284/STF; (b) aplicação da Súmula n. 211/STJ, em virtude da ausência de prequestionamento do art. 966, V, do CPC e do Verbete n. 343/STF; (c) o art. 966, V, do CPC não possui comando normativo que sustente a tese recursal, o que enseja a deficiência de fundamentação, nos termos do já referido Enunciado n. 284/STF; (d) o apelo especial não se presta ao revolvimento de matéria fática, conforme vedação da Súmula n. 7/STJ.
+A propósito, confira-se (fls. 2.168):
+De início, verifico que ao alegar genericamente não demonstrou, de forma clara, precisa e congruente, em que consistiria a alegada afronta ao art. 995 do CPC ("Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso."), limitando-se a aduzir genericamente que não poderia a Corte estadual fazer uso de precedente ainda não transitado em julgado.
+Logo, nesse ponto, incide a Súmula 284/STF.
+Por sua vez, para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+In casu, o Sodalício mineiro não emitiu nenhum juízo de valor a respeito da Súmula 343/STF e, ainda, quanto à tese de que a ação rescisória somente seria cabível se o acórdão rescindendo houvesse transitado em julgado em momento posterior à decisão de procedência e tese fixada nos autos do Incidente de Arguição de Constitucionalidade n. 1.0000.17.003425-0/004.
+Acrescente-se, ademais, que o art. 966, V, do CPC nada dispões a respeito da necessidade de a decisão rescindenda ser posterior ao paradigma constitucional suscitado na ação rescisória, motivo pelo qual não possui comando normativo capaz de sustentar referida tese recursal.
+Destarte, incidem na espécie as Súmulas 211/STJ e 284/STF.
+Outrossim, aduz a recorrente que "a decisão rescindenda se sustentou em entendimento pacificado no âmbito do e. TJMG, em interpretação conforme à legislação federal vigente e à Constituição da República, observando, portanto, o que exige os tribunais superiores" (fl. 1.983).
+Sucede que para se admitir como válida tal premissa, seria necessário o exame de matéria de ordem fático-probatória, o que esbarra na vedação da Súmula 7/STJ.
+Já nas razões do agravo interno agora examinado, a parte insurgente cinge-se a aduzir genericamente a inaplicabilidade dos obstáculos sumulares indicados na decisão atacada, deixando, como lhe incumbia (art. 1.021, § 1º, do CPC), de empreender efetivo combate àqueles fundamentos.
+Nesse contexto, incide o Enunciado n. 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ E APLICAÇÃO DO DISPOSTO NOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+1. As razões de agravo interno não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da parte agravante. Incidência da Súmula 182/STJ e aplicação do disposto no art. 932, III, c/c o art. 1.021, § 1º, ambos do Código de Processo Civil de 2015.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.023.903/TO, Rel ator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO IMPUGNAM FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA N. 182/STJ. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. O art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que não ocorreu no presente caso.
+2. Ademais, em observância ao princípio da dialeticidade, exige-se do agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada. Súmula n. 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.965.607/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/9/2022, DJe de 22/9/2022.)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
