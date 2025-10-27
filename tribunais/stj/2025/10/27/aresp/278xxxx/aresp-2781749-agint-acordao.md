@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO DOS JUROS DE MORA E CORREÇÃO MONETÁRIA PELA TAXA SELIC. OFENSA À COISA JULGADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. PRECLUSÃO. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar
+na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. "Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa SELIC - na fase de cumprimento de sentença - viola a coisa julgada." (AgInt no AREsp n. 2.551.197/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.) Incidência da Súmula 83/STJ.
+3. Alterar o decidido no acórdão impugnado, no que se refere à existência de coisa julgada, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+4. Nos termos da jurisprudência desta Corte, para o conhecimento do recurso especial é necessário o prequestionamento, inclusive, das matérias de ordem pública, ocorrendo preclusão quando a matéria de ordem pública é decidida na sentença e a apelação é silente acerca do tema. Incidência das Súmulas 282 e 356/STF.
+5. Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por VILSON BILIBIO, contra decisão monocrática de minha relatoria que negou provimento ao agravo em recurso especial, nos termos da seguinte ementa (fl. 188):
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. OFENSA À COISAJULGADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO IMPROVIDO."
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL , assim ementado (fl. 60):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. DECISÃO QUE REJEITOU IMPUGNAÇÃO AO CÁLCULO ELABORADO PELA CONTADORIA JUDICIAL. PRELIMINAR DE NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO AFASTADA. PEDIDO DE APLICAÇÃO DA TAXA SELIC. MANIFESTAÇÃO EXTEMPORÂNEA DO EXECUTADO. CONCORDÂNCIA TÁCITA COM O CÁLCULO DA CONTADORIA. JUROS DE MORA DE 1% AO MÊS. AMPLA UTILIZAÇÃO EM CONDENAÇÕES JUDICIAIS. PRECEDENTES. AGRAVO DE INSTRUMENTO DESPROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 85/87).
+A agravante alega, nas razões do agravo interno, que inexiste ofensa à coisa julgada na presente hipótese, tampouco a análise da questão controvertida demanda revisão probatória, o que afasta a incidência da Súmula 7/STJ, portanto.
+Aduz, ainda, que a controvérsia "não reside na alteração de um critério expressamente fixado, mas sim na definição do índice legal aplicável a uma condenação silente nesse ponto. Trata-se de questão puramente de direito: a interpretação e aplicação do art. 406 do Código Civil." (fl. 217); e que não ocorreu a preclusão do seu direito de pleitear a incidência da Selic mesmo diante da ausência de impugnação dos cálculos, por tratar-se de questão de ordem pública.
+Alega, outrossim, que ficou demonstrado, por meio do devido cotejo analítico, que o entendimento do Tribunal local diverge da orientação da Corte Especial do STJ, que estabelece a aplicação da SELIC para as dívidas civis quando não houver pactuação de juros, como ocorre na hipótese dos autos, o que afasta a incidência da Súmula 83/STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A parte agravada não apresentou contraminuta (fl. 225).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSTITUIÇÃO DOS JUROS DE MORA E CORREÇÃO MONETÁRIA PELA TAXA SELIC. OFENSA À COISA JULGADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. PRECLUSÃO. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar
+na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. "Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa SELIC - na fase de cumprimento de sentença - viola a coisa julgada." (AgInt no AREsp n. 2.551.197/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.) Incidência da Súmula 83/STJ.
+3. Alterar o decidido no acórdão impugnado, no que se refere à existência de coisa julgada, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+4. Nos termos da jurisprudência desta Corte, para o conhecimento do recurso especial é necessário o prequestionamento, inclusive, das matérias de ordem pública, ocorrendo preclusão quando a matéria de ordem pública é decidida na sentença e a apelação é silente acerca do tema. Incidência das Súmulas 282 e 356/STF.
+5. Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Cinge-se a controvérsia em recurso de Agravo de Instrumento, em fase de cumprimento de sentença, no qual o Agravante insurgiu-se contra a manutenção de juros de mora de 1% ao mês, pleiteando a aplicação exclusiva da Taxa SELIC, conforme o art. 406 do Código Civil.
+Consoante aludido na decisão agravada, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e fundamentada, manifestou-se sobre a impossibilidade de aplicação da Taxa Selic como índice único para juros moratórios e correção monetária, em razão da coisa julgada.
+É o que se extrai dos seguintes trechos (fls. 58/59):
+"Quanto à questão de fundo, pretende a parte recorrente a aplicação da Taxa SELIC para fins de atualização da dívida, com fulcro no art. 406 do Código Civil, em vez da incidência de juros moratórios de 1% ao mês, consoante cálculo apresentado pela Contadoria Judicial. Contudo, além de o cálculo apresentado pela Contadoria Judicial - com incidência de juros moratórios de 1% ao mês - não ter sido tempestivamente impugnado pelo recorrente, consoante já explicitado, não vislumbro ilegalidade tampouco irrazoabilidade na adoção da referida taxa de juros, amplamente utilizada em condenações judiciais, inclusive no âmbito deste Colegiado: (..) Ressalto, por derradeiro, que embora existam decisões dos Tribunais Superiores permitindo a aplicação da Taxa Selic como fator de atualização dos débitos, não dizem respeito a precedentes vinculantes aplicáveis ao caso concreto, a autorizar a devida distinção (distinhguishing). Com efeito, os Temas 99 e 112 do STJ versam sobre matéria diversa (atualizações atinentes às contas vinculadas ao FGTS), assim como os acórdãos das AD Cs 58 e 59 do STF (atualização dos créditos decorrentes de condenação judicial e à correção dos depósitos recursais em contas judiciais na Justiça do Trabalho)."
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo, estando o acórdão recorrido com fundamentação suficiente, inexistindo os alegados vícios.
+Quanto ao mérito, acerca da apontada ofensa aos arts. 406 do Código Civil e 161, §1º, do CTN e à divergência jurisprudencial suscitada, que tratam da aplicação da Taxa Selic como único índice de reajuste, mormente quando não foram indicados os índices de atualização a serem aplicados, o recurso especial não merece prosperar.
+Conforme se extrai do trecho acima transcrito, o Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, na medida em que, ao contrário do alegado pela agravante, houve indicação do índice a ser aplicado para a atualização do débito, consoante cálculo apresentado pela Contadoria Judicial, sendo descabida, nesta hipótese, a sua substituição pela taxa Selic na fase de cumprimento de sentença. Incidência da SúmulA 83/STJ, quanto ao ponto.
+A propósito, cito o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. DECISÃO MONOCRÁTICA. IMPRESTABILIDADE À COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que proceder à alteração dos índices de correção monetária estabelecidos no título judicial, na fase de cumprimento de sentença, configuraria violação à coisa julgada.
+2. Na hipótese, haja vista o título judicial consignar expressamente índices de correção monetária e de juros de mora, a sua substituição pela taxa SELIC - na fase de cumprimento de sentença - viola a coisa julgada.
+3. A jurisprudência do Superior Tribunal de Justiça, "interpretando o art. 1.043, incisos I e III, do CPC, firmou a orientação de que decisão monocrática não pode ser adotada como paradigma para fins de comprovação da divergência" (AgInt nos EAR Esp 1.185.827/ES, Rel. o Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe 24/6/2021).
+4. Agravo interno desprovido." (AgInt no AREsp n. 2.551.197/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à existência de coisa julgada, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COISA JULGADA. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PERTINÊNCIA TEMÁTICA. SÚMULA N. 284 DO STF. RECURSO PROVIDO.
+1. Não há violação à coisa julgada quando o Magistrado interpreta julgamento anterior para melhor definir seu alcance e extensão.
+2. "Para alterar as conclusões contidas no decisum, em relação à questão discutida estar acobertada pela coisa julgada, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ" (AgInt no REsp n. 1.369.455/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+3. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.4. É firme a orientação do STJ de que a impertinência temática do dispositivo legal apontado como ofendido resulta na deficiência das razões do recurso especial, fazendo incidir a Súmula n. 284 do STF.
+5. Agravo interno provido para negar provimento ao recurso especial." (AgInt no REsp n. 1.827.910/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/3/2025, DJEN de 7/4/2025.)
+Por fim, a alegação acerca da ausência de preclusão por falta de impugnação dos cálculos, sobe o argumento de tratar-se de questão de ordem pública, não merece prosperar na medida em que, conforme entendimento desta Corte, para o conhecimento do recurso especial é necessário o prequestionamento, inclusive, das matérias de ordem pública.
+Neste passo, há preclusão quando a matéria de ordem pública é decidida na sentença e a parte silencia na apelação sobre o tema.
+A propósito, cito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. COMPRA E VENDA DE VEÍCULO. INSTALAÇÃO DE EQUIPAMENTOS. LICENCIAMENTO. ATRASO. OMISSÃO. AUSÊNCIA. CORREÇÃO MONETÁRIA. MATÉRIA DECIDIDA NA SENTENÇA. NÃO IMPUGNADA NA APELAÇÃO. PRECLUSÃO. FALHA. DEVER DE INFORMAÇÃO. RESPONSABILIDADE CIVIL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Ocorre a preclusão quando a matéria de ordem pública é decidida na sentença e a apelação é silente acerca do tema.
+ ..
+5. Agravo interno não provido." (AgInt no AREsp n. 2.362.106/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO MONETÁRIA. INEXISTÊNCIA DA COISA JULGADA. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. PRECEDENTE.
+ ..
+3. Embora não se desconheça a natureza de questão de ordem pública dos juros e correção monetária, é "pacífico na jurisprudência desta Corte de que as matérias de ordem pública sujeitam-se aos efeitos da preclusão consumativa quando objeto de decisão anterior" (REsp 1.783.281/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 29/10/2019). No mesmo sentido: AgInt no AREsp 1.807.793/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/11/2021.
+4. Agravo interno não provido." (AgInt no REsp n. 1.935.300/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022)
+Assim, em que pese o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
