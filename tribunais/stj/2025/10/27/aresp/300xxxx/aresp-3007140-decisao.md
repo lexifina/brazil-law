@@ -1,0 +1,83 @@
+DECISÃO
+Cuida-se de agravo de TELMO ALVES CANOFF contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a" e "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 7002513-85.2023.8.22.0013.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 12, caput, da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido) à pena de 01 (um) ano e 06 (seis) meses de detenção e pagamento de 12 (doze) dias-multa, no regime inicial semiaberto (fl. 185).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES DE USO PERMITIDO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME DE PERIGO ABSTRATO. REGIME PRISIONAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REINCIDÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+I. Caso em exame
+1. Apelação criminal interposta contra sentença que condenou o réu pela prática do crime de posse irregular de arma de fogo e munições de uso permitido (art. 12 da Lei nº 10.826/2003), impondo-lhe pena de 1 ano e 6 meses de detenção, no regime inicial semiaberto.
+2. O recorrente sustenta a atipicidade da conduta, requerendo a aplicação do princípio da insignificância. Subsidiariamente, pleiteia a fixação do regime aberto.
+II. Questão em discussão
+3. O recurso trata de duas questões: (i) a possibilidade de aplicação do princípio da insignificância à conduta de posse irregular de arma de fogo; (ii) a viabilidade de imposição do regime aberto, diante das circunstâncias do caso.
+III. Razões de decidir
+4. A jurisprudência consolidada dos tribunais superiores é no sentido de que o crime de posse irregular de arma de fogo de uso permitido é delito de perigo abstrato, sendo punível independentemente da demonstração de efetivo risco à coletividade, o que inviabiliza a aplicação do princípio da insignificância.
+5. O fato de a arma estar guardada em cofre ou ser oriunda de herança não afasta a ilicitude da conduta, especialmente diante da confissão do réu de que adquiriu a arma para sua proteção pessoal. 6. Quanto ao regime prisional, o juízo sentenciante fundamentou adequadamente a imposição do regime semiaberto, considerando a reincidência do réu e seus antecedentes criminais, em conformidade com o art. 33, § 2º, "b", do Código Penal.
+IV. Dispositivo e tese
+7 . Apelação conhecida e desprovida .
+Tese de julgamento: "1. O crime de posse irregular de arma de fogo de uso permitido (art. 12 da Lei nº 10.826/2003) configura delito de perigo abstrato, sendo inaplicável o princípio da insignificância. 2. O regime semiaberto é adequado quando presentes circunstâncias judiciais desfavoráveis, como reincidência e maus antecedentes." (fls. 188/189)
+Em sede de recurso especial (fls. 200/210), além de dissídio jurisprudencial, a defesa apontou violação ao art. 33, § 2º do CP defendendo ser indevida a fixação do regime inicial semiaberto porque "o processo utilizado para imposição de regime semiaberto teve extinta a sua punibilidade em 03/02/2020, data em que sua pena foi totalmente cumprida, conforme verificamos no processo nº 00006620920188220013, em mov. 34.2." e "o crime embasado para justificar a reincidência e consequentemente o regime inicial semiaberto advém de delitos perpetrados sem violência ou grave ameaça (art. 299 do CP e art. 310 do CTB), possível o abrandamento do regime prisional, sobretudo quando suficiente ao cumprimento das finalidades da pena" (fl. 206).
+Contrarrazões do MINISTERIO PUBLICO DO ESTADO DE RONDONIA (fls. 212/220).
+O recurso especial foi inadmitido no TJ em razão de: a) Súmula n. 83 do STJ quanto à violação ao art. 33, § 2º do CP e; b) deficiência na demonstração do dissídio jurisprudencial (fls. 221/223).
+Agravo em recurso especial às fls. 226/234.
+Contraminuta do Ministério Público (fls. 242/247).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 263/265).
+É o relatório.
+Decido.
+De início, o recurso especial foi inadmitido no Tribunal de origem em razão do óbice da Súmula 83/STJ em relação à apontada violação ao art. 33, § 2º do CP, além da deficiência na demonstração do dissídio. Todavia, no presente agravo em recurso especial, a parte recorrente não impugnou de forma específica e adequada os referidos óbices.
+Com efeito, o óbice referente à Súmula n. 83 do STJ deve ser refutado de forma específica, com a demonstração da inaplicabilidade dos precedentes indicados na decisão de admissibilidade ao caso concreto, mediante a apresentação de julgados contemporâneos ou supervenientes no mesmo sentido defendido no recurso especial, ou por meio de distinguishing entre os casos confrontados - o que não ocorreu na hipótese.
+Com igual orientação:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182, STJ. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que afastou a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, sob os argumentos de que o agravante não integra organização criminosa e de que a quantidade de drogas apreendidas não deve inviabilizar o reconhecimento do tráfico privilegiado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o afastamento do tráfico privilegiado pode ser mantido quando, além da quantidade de drogas, há elementos concretos adicionais que indicam a dedicação do agente à atividade criminosa, como o transporte interestadual de drogas com auxílio de "batedor".
+III. Razões de decidir
+3. A decisão agravada está em conformidade com a jurisprudência do STJ, que considera a quantidade de drogas e o modus operandi como elementos suficientes para afastar o tráfico privilegiado.
+4. No caso concreto, o agravante não impugnou adequadamente todos os fundamentos da decisão agravada, especialmente no que se refere ao transporte interestadual de drogas com auxílio de "batedor".
+5. Para afastar a Súmula n. 83, STJ, é necessário apresentar precedentes contemporâneos ou supervenientes que demonstrem a mudança da jurisprudência, ou, ainda, distinção entre os casos considerados na decisão recorrida, o que não foi feito pelo agravante.
+IV. Dispositivo e tese
+6. Agravo regimental não conhecido.
+Tese de julgamento: "1. A quantidade de drogas e o modus operandi podem justificar o afastamento do tráfico privilegiado. 2. Para afastar a Súmula n. 83 do STJ, é necessário demonstrar precedentes contemporâneos ou supervenientes que demonstrem a mudança da jurisprudência ou, ainda, a distinção entre os casos considerados na decisão recorrida."
+(AgRg no REsp n. 2.043.312/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O não conhecimento do agravo em recurso especial se deveu à ausência de impugnação suficiente dos fundamentos da decisão do Tribunal de origem que não admitiu o recurso especial, o que atrai a incidência da Súmula n. 182 do STJ, por não atendimento da necessária dialeticidade recursal.
+2. Inadmitido o recurso especial por incidência do óbice da Súmula n. 7 do STJ, a alegação genérica de que não se pretende o reexame de fatos e provas é insuficiente, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem.
+3. Em relação à Súmula n. 83 do STJ, "é necessário que a parte comprove que o entendimento desta Corte Superior destoa da conclusão a que chegou o Tribunal de origem ou que o caso dos autos seria distinto daqueles veiculados nos precedentes mediante distinguishing, o que não ocorreu na hipótese" (AgRg no AgRg no AREsp n. 2.278.302/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/9/2023, DJe de 3/10/2023).
+4. A alegação genérica de que a matéria impugnada foi objeto de exame pela Corte de origem, ou a simples assertiva de que foram opostos embargos de declaração a respeito do tema, não é suficiente para combater o fundamento de que não estaria atendido o requisito do prequestionamento. Faz-se necessário indicar em qual trecho do acórdão recorrido ocorreu a abordagem da questão jurídica trazida no recurso especial.
+5. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que, no agravo em recurso especial, não se constata o enfrentamento suficiente dos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial.
+6. Agravo regimental improvido.
+(AgRg no AREsp n. 2.842.628/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/3/2025, DJEN de 28/3/2025.)
+De outro lado, o óbice da não comprovação do dissídio jurisprudencial deve ser refutado na peça do agravo com a demonstração de que as razões do recurso especial não se limitaram à transcrição de ementas, pois invocou-se a divergência com cotejo analítico da similitude fática e conclusão jurídica diversa na interpretação de dispositivo legal.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impugnação específica, pormenorizada e concreta de todos os fundamentos da decisão de inadmissibilidade do recurso especial é requisito para o conhecimento do agravo. Apresenta-se insuficiente, pois, a mera alegação de não incidência dos óbices apontados pela decisão agravada.
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente o fundamento de inadmissibilidade consistente na ausência de cotejo analítico entre o acórdão recorrido e os acórdãos paradigmas, de forma a demonstrar a similitude fática entre eles e o confronto de teses jurídicas aplicadas.
+3. Conforme consignado pela decisão recorrida, não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados. Inobservância das exigências previstas no art. 1.043, § 4º, do Código de Processo Civil -CPC, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+4 . Agravo regimental desprovido.
+(AgRg no AREsp n. 2.096.679/SC, de minha relatoria, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSÃO DO PLEITO PELA CORTE ESTADUAL. DECISÃO QUE NÃO VINCULA ESTE TRIBUNAL SUPERIOR. NOVO JUÍZO DE ADMISSIBILIDADE. NÃO CONHECIMENTO DO RECURSO. MOTIVO NÃO IMPUGNADO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O fato de a Corte estadual haver admitido a irresignação veiculada nestes autos não acarreta, obrigatoriamente, o seu conhecimento por este Tribunal Superior, que realiza novo juízo de admissibilidade do recurso interposto. Precedente.
+2. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+3. Na hipótese, o recurso defensivo foi interposto com fundamento na alínea "c" do permissivo constitucional, sob alegação de divergência jurisprudencial.
+4. Todavia, como já delineado na decisão combatida: a) o ora agravante se limitou a apontar o "acórdão paradigma em relação à suscitada nulidade do ingresso do domicílio do réu, mas, ainda assim, não realizou o cotejo entre o precedente do Supremo Tribunal Federal, em repercussão geral, e o decisum vergastado, de modo que o apontado dissenso jurisprudencial não foi evidenciado" ; b) "quanto às demais questões - cerceamento de defesa, absolvição por insuficiência de provas, revisão da dosimetria - o recorrente não indica, sequer, algum acórdão que haja dado interpretação diversa ao tema, a fim de comprovar a divergência jurisprudencial que embasa sua irresignação".
+5. Neste regimental, a defesa questiona o não conhecimento do recurso especial e discorre sobre as matérias suscitadas naquela irresignação, mas deixa de infirmar as razões que levaram à inadmissão do recurso, uma vez que não demonstra que efetuou o devido cotejo analítico entre o paradigma relacionado à tese de violação de domicílio e a situação dos autos, tampouco comprova haver indicado, em relação aos demais temas, a divergência jurisprudencial suscitada. Desse modo, não há como conhecer do regimental, por ausência de dialeticidade recursal, consoante entendimento da Súmula n. 182 do STJ.
+6. Ademais, como já salientado na decisão combatida, a moldura fática delineada nos autos não permite concluir pela ilegalidade da entrada no domicílio do réu - e, consequentemente, pela nulidade da diligência policial -, visto que "os policiais foram acionados pela vizinha do recorrente para apurar a suposta prática de crime de disparo de arma de fogo na direção da casa da declarante - tanto que ela entregou aos policiais o projétil supostamente disparado contra sua morada, quando eles chegaram para atender ao chamado", o que denota a "validade da ação policial e, por isso mesmo, não permite a concessão de habeas corpus de ofício, por não estar configurada flagrante ilegalidade na hipótese".
+7. Agravo regimental não conhecido.
+(AgRg no REsp n. 1.960.477/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Destarte, o agravo em recurso especial não deve ser conhecido por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade proferida pela Corte de origem, consoante o art. 932, III do CPC. Citam-se precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1.199.706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/5/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ATENTADO VIOLENTO AO PUDOR. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO CONFIRMADA.
+A teor do do art. 253, parágrafo único, inciso I, c.c. o art. 1º, da Resolução n. 17/2013, ambos do Regimento Interno desta Corte, é manifestamente inadmissível o agravo que não impugna, especificamente, todos os fundamentos da decisão de admissibilidade.
+Agravo regimental desprovido.
+(AgRg no AREsp 982.371/RS, Rel. Ministro Felix Fischer, Quinta Turma, DJe 27/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECURSO ESPECIAL INADMITIDO NA ORIGEM. AGRAVO NÃO CONHECIDO MONOCRATICAMENTE. AUSÊNCIA DE IMPUGNAÇÃO A TODAS AS RAZÕES UTILIZADAS PELO TRIBUNAL DE JUSTIÇA LOCAL PARA INADMITIR O APELO NOBRE. ART. 932, III, do NCPC. INSURGÊNCIA DESPROVIDA.
+ ..
+3. O agravo não infirmou todos os fundamentos apontados pela Instância a quo para a inadmissão de seu apelo n obre, razão pela qual o inconformismo não foi conhecido monocraticamente pela Presidência deste Sodalício, com fulcro na norma insculpida no art. 932, III, do CPC/2015, combinado com o art. 1.º da Resolução STJ n.º 17/2013.
+4. Em sede recursal é necessário que a parte refute de forma direta os impedimentos apontados para a não admissão de seu apelo extremo, explicitando os motivos pelos quais estes não incidiriam na hipótese em testilha, ônus do qual o agravante não se desincumbiu, razão pela qual a decisão impugnada deve ser mantida por seus próprios fundamentos.
+5. Agravo a que se nega provimento.
+(AgRg no AREsp 880.362/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 19/10/2016.)
+Diante do exposto, com fundamento no art. 932, III, do CPC, e no art. 253, I, do Regimento Interno do Superior Tribunal d e Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
