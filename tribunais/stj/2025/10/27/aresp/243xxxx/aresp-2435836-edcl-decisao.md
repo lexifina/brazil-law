@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELIAS DE SA MARANHÃO contra decisão, de minha lavra, em que acolhi os embargos de declaração anteriores, sem efeitos modificativos do julgado, para sanar vício na decisão embargada (e-STJ fls. 645/647).
+Sustenta o embargante a existência de obscuridade na decisão monocrática ao determinar o respeito à prescrição quinquenal com fundamento na Súmula 85 do STJ, apesar de constarem dos autos elementos documentais que evidenciam a inexistência de fluência do prazo prescricional quinquenal, considerados os atos e as decisões administrativas que culminaram no reconhecimento e implantação do benefício.
+Indica, como marcos administrativos relevantes, o recurso administrativo de 04/08/1999 (e-STJ fls. 67), o provimento do recurso em 13/08/2004 (e-STJ fls. 105) e a implantação do benefício em 14/06/2006, com DIP em 12/12/2005 (e-STJ fls. 245), sustentando que o termo inicial da prescrição não poderia ser a DER, mas a decisão administrativa inaugural de 15/12/2005 (fls. 660).
+Requer, ao final, o acolhimento dos embargos de declaração com o afastamento expresso da prescrição quinquenal.
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 695).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+Na hipótese dos autos, verifico que razão assiste ao embargante, quanto às datas citadas e a não ocorrência da prescrição.
+Nesse particular, veja-se o teor da Súmula 85 desta Corte (Grifos acrescidos):
+Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Nesse sentido, transcrevo julgados das Turmas que compõem a Primeira Seção desta Corte Superior, a saber:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MILITAR. FALECIMENTO. PENSÃO POR MORTE EM FAVOR DA GENITORA. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA.
+1. Cuida-se, na origem, de ação ordinária ajuizada por Maria Eugênia de Oliveira Monteiro contra a União, objetivando a condenação desta a instituir em seu favor pensão militar, em decorrência do falecimento de seu filho Moisés Cabral Monteiro, no ano de 1999, de quem seria dependente econômica.
+2. Na forma da jurisprudência desta Corte, "nas causas em que se pretende a concessão de benefício de caráter previdenciário, inexistindo negativa expressa e formal da Administração, não há falar em prescrição do fundo de direito, nos termos do art. 1º do Decreto-Lei 20.910/1932, porquanto a obrigação é de trato sucessivo, motivo pelo qual incide, no caso, o disposto na Súmula 85 do STJ" (AgInt no REsp n. 2.006.429/RS, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 15/12/2022).
+ ..
+8. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 2.022.134/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. AÇÃO DE PROCEDIMENTO COMUM. SERVIDOR PÚBLICO. REVISÃO DE PENSÃO. REAJUSTE DO BENEFÍCIO PELOS MESMOS ÍNDICES DO RGPS. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC.
+2. O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou: "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Assim, aplicável a Súmula n. 85 do STJ, resultando inocorrente a prescrição do fundo de direito, mas a das parcelas anteriores ao quinquênio que antecede à propositura da ação. Tendo sido a ação proposta em 04/06/2018, restam prescritas as diferenças anteriores a 04/06/2013" (fl. 424, e-STJ).
+3. Ao assim decidir, o acórdão recorrido se alinhou à jurisprudência do STJ de que, "nas ações ajuizadas com o objetivo de obter revisão de benefício previdenciário, relação de trato sucessivo e de natureza alimentar, a prescrição incide apenas sobre as prestações vencidas antes do quinquênio anterior à propositura da ação, não ocorrendo a prescrição do fundo de direito, nos termos da Súmula 85/STJ" (REsp 1.567.477/PE, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 9/3/2017, DJe de 15/3/2017). (..)
+4. Agravo Interno não provido. (AgInt no AREsp n. 1.773.095/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/6/2021, DJe de 3/8/2021).
+No presente caso, tendo a parte autora pleiteado a percepção de saldo de benefício de aposentadoria referente ao período de 29/01/1999 a 11/12/2005 (e-STJ fl. 5), e tendo sido a ação proposta em 23/10/2008 (e-STJ fl. 18), há de ser afastada a prescrição, porquanto não houve o transcurso do prazo quinquenal.
+Com essas considerações, ACOLHO os embargos de declaração, a fim de atribuir efeito modificativo do julg ado para afastar a prescrição quinquenal (Súmula 85 do STJ) no caso concreto.
+Publique-se. Intimem-se.
+EMENTA
