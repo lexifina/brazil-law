@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo da ITAÚ SEGUROS DE AUTO E RESIDÊNCIA S.A. da decisão que inadmitiu recurso especial interposto contra acórdão do Tribunal Regional Federal da 3ª Região, que decidiu demanda relativa à incidência da Contribuição ao PIS e da COFINS sobre os valores que não compõem o conceito de faturamento de empresa seguradora, de modo a afastar a ampliação de base de cálculo proveniente das disposições contidas na Lei n. 9.718/1998.
+A ora agravante interpôs, também, recurso extraordinário na origem (e-STJ fls. 1.167/1.191).
+O Ministério Público Federal apresentou parecer pela devolução dos autos ao Tribunal de origem em virtude da afetação do Tema 1.309 do STF (e-STJ fls. 1.298/1.306).
+Passo a decidir.
+A questão, objeto do apelo extremo interposto na origem, envolve a repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 1479774/RJ, relator Ministro Luiz Fux, que compõe o Tema 1.309 do STF, a saber: "exigibilidade da PIS e da COFINS sobre as receitas financeiras oriundas de aplicações financeiras das reservas técnicas de empresas seguradoras".
+Eis a ementa do acórdão:
+DIREITO TRIBUTÁRIO. REPERCUSSÃO GERAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS/COFINS. INCIDÊNCIA SOBRE RECEITAS ORIUNDAS DA APLICAÇÃO FINANCEIRA DE RESERVAS TÉCNICAS DE EMPRESAS SEGURADORAS. RELEVÂNCIA SOCIAL, ECONÔMICA E JURÍDICA. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+I. Caso em exame
+1. Agravo em recurso extraordinário contra acórdão que declarou a incidência da PIS/COFINS sobre receitas financeiras oriundas de aplicações financeiras das reservas técnicas.
+II. Questão em discussão
+2. A controvérsia diz respeito à natureza constitucional e à existência ou não de repercussão geral acerca da questão da incidência da PIS/COFINS sobre receitas financeiras oriundas de aplicações financeiras das reservas técnicas.
+III. Razões de decidir
+3. No julgamento no RE 609.096 - Tema 372 da sistemática da repercussão geral, o Plenário deste Supremo Tribunal Federal, reafirmando seu entendimento de que o conceito de faturamento empregado pela Constituição coincide com o a ideia de receita bruta operacional decorrente das atividades empresariais típicas das empresas, reconheceu a incidência da PIS/COFINS sobre receitas decorrentes da "coleta, intermediação ou aplicação de recursos financeiros próprios ou de terceiros" pelas instituições financeiras típicas (bancos).
+4. Naquele julgado, o Eminente Redator para o acórdão, Min. Dias Toffoli, afastou expressamente a aplicação do entendimento adotado naquele feito às empresas seguradoras, reconhecendo, implicitamente, que acerca destas últimas pode haver particularidades, ligadas ao delineamento de suas atividades típicas.
+5. Em sendo a manutenção de reservas técnicas obrigação imposta às empresas seguradoras pelo Decreto-Lei nº 73/1966 com vistas à garantia das obrigações assumidas junto aos usuários no mercado, faz-se necessário definir com eficácia erga omnes se as receitas provenientes da aplicação destes recursos integram ou não o conceito constitucional de faturamento, constante do art. 195, I, "b".
+6. A matéria possui natureza constitucional, porquanto relativa à interpretação de conceito utilizado pela Constituição como base de cálculo das contribuições sociais para a seguridade social. A matéria se reveste, outrossim, de evidente relevância social e econômica, dado o papel fundamental que os contratos de seguro exercem no mercado produtivo e os interesses sociais que estas que estas empresas ajudam a garantir e preservar.
+IV. Dispositivo
+7. Repercussão geral reconhecida para a seguinte questão constitucional: exigibilidade da PIS e da COFINS sobre as receitas financeiras oriundas de aplicações financeiras das reservas técnicas de empresas seguradoras.
+(RE 1479774/RJ-RG, relator Ministro Luiz Fux, Tribunal Pleno, julgado em 6/8/2024, DJe 4/11/2024).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
