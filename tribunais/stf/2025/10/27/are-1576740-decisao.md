@@ -1,0 +1,77 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LVII, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AGRAVO DESPROVIDO.
+
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou:
+
+    PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO DUPLAMENTE QUALIFICADO. ART. 121, § 2.º, INCISOS II E IV, DO CÓDIGO PENAL. PRELIMINAR. NULIDADE POR AUSÉNCIA DE ALEGAÇÕES FINAIS DO ACUSADO. NÃO OCORRÊNCIA. PRAZO DE OFERECIMENTO DE MEMORIAIS REGULARMENTE OPORTUNIZADO À DEFESA TÉCNICA CONSTITUÍDA NOS AUTOS. TRANSCURSO IN ALBIS. SUPERVENIÉNCIA DE DECISÃO DE PRONÚNCIA. AUSÊNCIA DE VIOLAÇÃO ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. JUÍZO MERAMENTE PROVISÓRIO DE ADMISSIBILIDADE DA PECA ACUSATÓRIA. EFETIVO PREJUÍZO NÀO DEMONSTRADO. PRINCÍPIO DO PAS DE NULITIÉ SANS GRIEF. MÉRITO. DESPRONÜNCIA. IMPOSSIBILIDADE. CONJUNTO FÁTICOPROBATÓRIO QUE DEMONSTRA A MATERIALIDADE E OS INDÍCIOS SUFICIENTES DE AUTORIA DO DELITO. EXISTÉNCIA DE PROVAS COLHIDAS NA FASE INQUISITORIAL E JUDICIAL. PREVALÉNCIA DO PRINCÍPIO IN DUBIO PRO SOCIETATE. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. AFASTAMENTO DA QUALIFICADORA INSCULPIDA NO INCISO IV, DO § 2.º, DO ART. 121, DO CÓDIGO PENAL. IMPOSSIBILIDADE. INDÍCIOS SUFICIENTES DA OCORRÊNCIA. QUESTÃO A SER DIRIMIDA PELA CORTE POPULAR. MANTENÇA DO DECISUM. RECURSO EM SENTIDO ESTRITO CONHECIDO E DESPROVIDO.
+
+    1. Prima facie, o Recorrente sustenta a ocorrência de nulidade processual absoluta por cerceamento de defesa e violação ao princípio constitucional do devido processo legal, tendo em vista a ausência de oferecimento de alegações finais pelo Réu, peça processual considerada imprescindível à defesa técnica do Acusado. Ocorre que, no cenário das nulidades, vigora o princípio do pas de nullité sans grief, segundo o qual, ainda que produzidos em desacordo com as formalidades legais, os atos processuais não serão declarados nulos, salvo se a parte interessada demonstrar a ocorrência de efetivo prejuízo.
+
+    2. No caso vertente, não se vislumbra a ocorrência da nulidade por conta da ausência de apresentação de Alegações Finais escritas pelo Acusado, haja vista que o insigne Magistrado a quo oportunizou à sua Defesa Técnica o exercício do contraditório e da ampla defesa, que, por sua vez, quedou-se inerte e deixou transcorrer o prazo processual in albis, sugerindo que a medida adotada pode, até, mesmo, constituir estratégia processual para evitar o conhecimento de antemão de tese a ser futuramente apresentada ao Corpo de Jurados. No mais, tratando-se de demanda a ser submetida a Júri Popular, é certo que a ausência de apresentação de Alegações Finais na fase acusatória não constitui, em regra, nulidade processual, por se estar diante de juízo meramente provisório de indícios de autoria e prova da materialidade. Precedentes.
+
+    3. Adentrando-se o exame de mérito, é de bom alvitre salientar que o princípio do in dubio pro societate somente deverá ser excepcionalmente relativizado em homenagem à prevalência do princípio do in dubio pro reo na hipótese em que os Autos não dispuserem de provas judicializadas e os indícios de autoria estiverem amparados exclusivamente em elementos informativos da investigação policial preliminar ou eventualmente em testemunhas indiretas, o que não ocorreu no caso sub judice. Precedentes.
+
+    4. In casu, a materialidade do crime está presente no Laudo Médico de Exame Cadavérico que atesta a morte da Vítima por choque hipovolêmico devido a ferimento lacerocortante em dorso causado com arma branca (faca). Por outro lado, os indícios suficientes de autoria estão presentes nas declarações extrajudiciais e nos Termos de Reconhecimento de Pessoa mediante Fotografia, realizados perante a Autoridade Policial da Delegacia Interativa de Coari/AM, os quais foram posteriormente confirmados pelos depoimentos judiciais colhidos sob o crivo do contraditório e da ampla defesa, perante o douto Juízo a quo, consoante registros de audiovisual acostados ao Termo de Audiência, restando demonstrado que, a priori, o Réu, no dia dos fatos, foi visto correndo atrás do Ofendido com uma faca nas mãos e quando a Vítima tropeçou e caiu no chão provavelmente já ferida o Réu desferiu outros golpes de faca causando-lhe a morte e empreendeu fuga em uma motocicleta.
+
+    5. Desse modo, presentes a materialidade e os indícios suficientes de autoria do delito, vê-se que o conjunto fático-probatório contido nos presentes Autos é hábil e suficiente para pronunciar o Réu, sendo imperioso o exame do meritum causae pelo Corpo de Jurados na segunda fase do procedimento de competência do Tribunal do Jüri, a quem compete, com exclusividade, formar a cognição exauriente sobre o desfecho do caso. Precedentes.
+
+    6. In fine, com relação ao pedido de afastamento das qualificadoras, vê-se que restaram atribuídas ao Réu somente as qualificadoras de motivo fútil e de recurso que dificultou ou tornou impossível a defesa da Vítima, inexistindo pronúncia pela qualificadora de meio cruel, não havendo como se analisar, por óbvio, a sua exclusão e, nesse viés, a qualificadora prevista no inciso IV do 8 2.º do art. 121 da Lei Substantiva Penal que, de fato, se objetiva excluir, pode estar caracterizada nos golpes de faca nas costas do Ofendido que estava caído no chão. Assim, na presença de elementos fático-probatórios em tese a sustentar a incidência da qualificadora, mostra-se imponderado, neste primeiro momento, concluir com exatidão acerca do deslinde dos fatos e, eventualmente, afastar a circunstância qualificadora. Precedentes.
+
+    7. RECURSO EM SENTIDO ESTRITO CONHECIDO E DESPROVIDO.
+
+    Nas razões do apelo extremo, o recorrente sustenta a Repercussão Geral da controvérsia e, no mérito, aponta violação ao artigo 5º, LIV, LV e LVII, da Constituição Federal.
+
+    A defesa alega, inicialmente, que “não houve intimação do réu/recorrente, pessoalmente, para apresentação de alegações finais, sendo possível verificar, de plano, a nulidade absoluta do processo, por violação à plenitude de defesa, haja vista que este se encontrava preso nesta fase processual”.
+
+    Ademais, sustenta que “não há comprovação suficiente de autoria ou de participação a possibilitar a decisão de pronúncia vergastada contra o recorrente, mormente porque, mesmo estando disponível todo o arcabouço probatório disciplinado pelo Código de Processo Penal ao órgão acusador, este não logrou êxito em demonstrar, suficientemente, a autoria delitiva por parte do réu”.
+
+    O Tribunal a quo não admitiu o recurso extraordinário, por entender “não ser possível o seu conhecimento, em razão do não preenchimento de todos os seus requisitos específicos, não tendo o recorrente demonstrado ao longo de suas razões recursais existência de afronta direta a dispositivo constitucional”.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Ab initio, destaco que a jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do livre acesso à justiça, do devido processo legal, da ampla defesa, do contraditório e da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Seguindo esse entendimento, cito:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO MATÉRIA PENAL ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA AUSÊNCIA DE OFENSA DIRETA TRANSGRESSÃO AO ART. 93, IX, DA CARTA MAGNA INOCORRÊNCIA AGRAVO INTERNO IMPROVIDO”. (ARE 1.177.197-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 29/4/2019)
+
+    In casu, para divergir do entendimento do Tribunal a quo, seria necessária a análise da legislação infraconstitucional aplicável à espécie (Código de Processo Penal), inviável em sede extraordinária, conforme entendimento supracitado.
+
+    Ainda que superado esse óbice, melhor sorte não assistiria ao agravante. Com efeito não pode a defesa valer-se de suposto prejuízo a que venha a dar causa ou para o qual concorra, nos termos do artigo 565 do Código de Processo Penal, in litteris:
+
+    Art. 565. Nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse.
+
+    A referida conduta é inadmitida pelo ordenamento jurídico vigente, bem como pela jurisprudência desta Corte. Nesse sentido, trago à colação:
+
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. VÍCIO DE FUNDAMENTAÇÃO NÃO DETECTADO. DEFICIÊNCIA DE DEFESA TÉCNICA. NULIDADES. INOCORRÊNCIA. RÉU FORAGIDO. RATIO DO ART. 565 DO CPP. SÚMULA 523/STF. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Da leitura dos fundamentos do acórdão objurgado, constato explicitados os motivos de decidir, circunstância que afasta o vício da nulidade por negativa de prestação jurisdicional arguido (art. 93, IX, da Lei Maior). A disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. 3. Ato coator parametrizado com a jurisprudência desta Suprema Corte no sentido da impossibilidade de reconhecer nulidades em favor da parte que lhe deu causa, segundo a ratio do artigo 565 do CPP. Precedentes. 4. No processo penal, a falta de defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu (Súmula 523/STF). 5. A jurisprudência desta Suprema Corte exige, como regra, a demonstração concreta de prejuízo tanto para as nulidades absolutas quanto para as nulidades relativas, marcadas que são pelo princípio do pas de nullité san grief previsto no artigo 563 do CPP. Precedentes. 6. Para concluir em sentido diverso das instâncias anteriores quanto à ocorrência de prejuízo resultante de suposta deficiência da defesa técnica, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 7. Agravo regimental conhecido e não provido”. (RHC 214809-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 31/08/2022)
+
+    Cumpre destacar, ademais, que vigoram no ordenamento jurídico brasileiro os princípios da lealdade e boa-fé objetiva, de sorte que não se coaduna com os referidos institutos a intenção da defesa de, sob o pretexto de observância do devido processo legal, subverter o sistema processual por meio de formulação pretensão que não encontra amparo legal. Nessa linha:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DESCRITO NO ART. 65, §1º, I, DA LEI 4.591/1964. CONDENAÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. INVIABILIDADE. NULIDADE ARGUIDA NÃO EVIDENCIADA. 1. As condições descritas em lei são requisitos necessários para o oferecimento do Acordo de Não Persecução Penal (ANPP), importante instrumento de política criminal dentro da nova realidade do sistema acusatório brasileiro. Entretanto, não obriga o Ministério Público, nem tampouco garante ao acusado verdadeiro direito subjetivo em realizá-lo. Simplesmente, permite ao Parquet a opção, devidamente fundamentada, entre denunciar ou realizar o acordo, a partir da estratégia de política criminal adotada pela Instituição. 2. O art. 28-A do Código de Processo Penal, alterado pela Lei 13.964/2019, foi muito claro nesse aspecto, estabelecendo que o Ministério Público "poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições". 3. A finalidade do ANPP é evitar que se inicie o processo, não havendo lógica em se discutir a composição depois da condenação, como pretende a defesa (cf. HC 191.464-AgR/SC, Rel. Min. ROBERTO BARROSO, DJe de 26/11/2020). 4. Inviável a defesa valer-se de suposto prejuízo decorrente de sua omissão, para invalidar a ação penal (CPP, art. 565). Vige no sistema processual penal o princípio da lealdade, da boa-fé objetiva e da cooperação entre os sujeitos processuais. Ainda, sem a demonstração de efetivo prejuízo causado à parte, em atenção ao disposto no art. 563 do CPP, não se reconhece nulidade no processo penal. 5. Agravo Regimental a que nega provimento”. (HC 217694-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 24/08/2022)
+
+    In casu, o Tribunal de origem assentou que “a Defesa Técnica pugnou pela apresentação Alegações Finais de forma escrita, o que foi deferido pelo preclaro Magistrado da 2.º Vara da Comarca de Coari/AM, que consignou que os causídicos estavam, desde já, intimados para a apresentação no prazo de 05 (cinco) dias”.
+
+    Consectariamente, ausente a nulidade aventada, o pleito da defesa não merece acolhimento.
+
+    Ademais, a alegação de violação ao princípio da presunção de inocência, por demandar a análise aprofundada do conjunto fático-probatório dos autos, não pode ser revista por esta Suprema Corte, em face da incidência da Súmula 279 do STF, que dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+
+    Com efeito, essa pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo se restringe à discussão eminentemente de direito. Nesse sentido, aliás é a jurisprudência desta Corte:
+
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. HOMICÍDIO TENTADO. DECISÃO DE PRONÚNCIA. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.283.870-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 04/11/2020)
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Homicídio qualificado. Art. 121, § 2º, incisos I e IV, do Código Penal. Sentença de pronúncia. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Precedentes. 7. Agravo regimental não provido”. (ARE 1.242.008-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 11/03/2020)
+
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+
+    Consectariamente, forçoso é concluir que, à luz do entendimento jurisprudencial desta Corte, o recurso extraordinário a que se refere o presente agravo revela-se inadmissível.
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 27 de outubro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
