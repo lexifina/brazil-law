@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. CORTE NÃO É INSTÂNCIA REVISORA. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal.
+2. A parte agravante alegou que o recurso especial preenchia os requisitos necessários ao conhecimento e provimento, sustentando a responsabilidade objetiva da instituição financeira com base na Súmula 479 do STJ e a configuração de dano moral.
+3. A decisão recorrida apontou ausência de demonstração de violação aos dispositivos legais indicados, insuficiência de fundamentação e ausência de cotejo analítico para comprovar a divergência jurisprudencial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo em recurso especial atende aos requisitos de admissibilidade, considerando: (i) a necessidade de impugnação específica e suficiente dos fundamentos da decisão agravada; e (ii) a demonstração analítica da divergência jurisprudencial alegada.
+III. Razões de decidir
+5. Repetição de argumentos apresentados nas instâncias ordinárias não se presta a fundamentar este especial. Ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ, que impede o conhecimento do agravo interno. .
+6. A demonstração de divergência jurisprudencial exige cotejo analítico entre os acórdãos confrontados, com transcrição dos trechos que configurem o dissídio e identificação das circunstâncias que os assemelhem, conforme art. 1.029, § 1º, do CPC e Súmula 7 do STJ.
+7. A mera transcrição de dispositivos legais ou julgados, sem a necessária argumentação objetiva e convincente, não é suficiente para demonstrar a violação ou negativa de vigência de norma federal.
+8. No caso, não foi realizado o cotejo analítico necessário, limitando-se o recurso à transcrição de ementas, o que inviabiliza o conhecimento do recurso especial pela alínea "c".
+IV. Dispositivo
+9. Agravo não conhecido.
+RELATÓRIO
+Trata-se de Agravo em Recurso Especial interposto por LEIDE APARECIDA BERNARDE TELLIS,, contra decisão que inadmitiu o recurso especial com fundamento no art. 105, III, "a" e "c", da Constituição Federal.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento uma vez que a responsabilidade objetiva da instituição financeira foi comprovada, com base na Súmula 479 do STJ, e que o dano moral foi configurado diante do sofrimento causado pela fraude e pela conduta negligente do Banco Pan S/A.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. CORTE NÃO É INSTÂNCIA REVISORA. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundamentado no art. 105, III, "a" e "c", da Constituição Federal.
+2. A parte agravante alegou que o recurso especial preenchia os requisitos necessários ao conhecimento e provimento, sustentando a responsabilidade objetiva da instituição financeira com base na Súmula 479 do STJ e a configuração de dano moral.
+3. A decisão recorrida apontou ausência de demonstração de violação aos dispositivos legais indicados, insuficiência de fundamentação e ausência de cotejo analítico para comprovar a divergência jurisprudencial.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo em recurso especial atende aos requisitos de admissibilidade, considerando: (i) a necessidade de impugnação específica e suficiente dos fundamentos da decisão agravada; e (ii) a demonstração analítica da divergência jurisprudencial alegada.
+III. Razões de decidir
+5. Repetição de argumentos apresentados nas instâncias ordinárias não se presta a fundamentar este especial. Ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ, que impede o conhecimento do agravo interno. .
+6. A demonstração de divergência jurisprudencial exige cotejo analítico entre os acórdãos confrontados, com transcrição dos trechos que configurem o dissídio e identificação das circunstâncias que os assemelhem, conforme art. 1.029, § 1º, do CPC e Súmula 7 do STJ.
+7. A mera transcrição de dispositivos legais ou julgados, sem a necessária argumentação objetiva e convincente, não é suficiente para demonstrar a violação ou negativa de vigência de norma federal.
+8. No caso, não foi realizado o cotejo analítico necessário, limitando-se o recurso à transcrição de ementas, o que inviabiliza o conhecimento do recurso especial pela alínea "c".
+IV. Dispositivo
+9. Agravo não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+I. Trata-se de recurso especial interposto por Cleide Aparecida Bernarde Tellis, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o V. Acórdão proferido na C. 23ª Câmara de Direito Privado.
+II. O recurso não reúne condições de admissibilidade pela alínea "a" da norma autorizadora.
+Alegação de violação a normas constitucionais:
+Consigno que a assertiva de ofensa a dispositivos constitucionais não serve de suporte à interposição de recurso especial por fugir às hipóteses versadas no art. 105, III e respectivas alíneas, da Constituição da República.
+Dano moral:
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão.
+Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial" (Agravo em Recurso Especial 1871253/DF, Relator Ministro Marco Buzzi, in DJe de 09.08.2022).
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+III. Melhor sorte não colhe o reclamo sob o prisma da letra "c".
+A divergência sumular deve ser comprovada mediante a juntada dos precedentes que deram origem à Súmula 479 do E. Superior Tribunal de Justiça, com a realização do devido cotejo analítico, que se dá mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e dos precedentes que originaram o verbete indicado como divergente, apontadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (confira-se: Agravo em Recurso Especial 1517124/SC, Relator Ministro Paulo de Tarso Sanseverino, in DJe de 04.12.2019).
+Ressalto, ainda, que o dissenso jurisprudencial deve ser demonstrado de forma analítica, mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e daqueles eventualmente trazidos à colação, na forma exigida pelo artigo 1.029, §1º, do Código de Processo Civil, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (neste sentido, o Agravo em Recurso Especial 2007116/SP, Relatora Ministra Maria Isabel Gallotti, in DJe de 02.08.2022; o Agravo Interno no Agravo em Recurso Especial 1765086/SP, Relatora Ministra Assusete Magalhães, in DJe de 30.03.2022, e o Agravo em Recurso Especial 1999092/SP, Relator Ministro Mauro Campbell Marques, in DJe de 09.02.2022).
+IV. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.(e-STJ Fl.373-5)
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Em atenção ao princípio da dialeticidade recursal, a impugnação da decisão agravada deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Observa-se que, no presente caso, embora os agravantes apontem os óbices levantados como pretexto ao não acolhimento das suas razões, o especial apresentado tem como finalidade revisão do julgado, o que não se mostra viável nessa instância.
+Dito mais claramente, a agravante não impugnou de maneira específica e suficiente os argumentos que sustentam a decisão agravada. Não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, não se prestando o recurso especial a servir com instância revisora.
+Além disso, não se demonstrou a inaplicabilidade dos julgados indicados pelas decisões recorridas, o que inviabiliza o conhecimento das insurgências.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA AO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a alegada intempestividade do agravo em recurso especial e a aplicação da Súmula nº 115 desta Corte.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.634.826/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+No mais, a análise das razões recursais indica que a parte recorrente limitou-se à menção dos preceitos legais que considera violados ou desconsiderados, sem deixar claro, de maneira argumentativa objetiva e convincente, a forma como ocorreu a efetiva contrariedade ou negativa de vigência, pelo Tribunal de origem.
+E foi nesse sentido que a decisão recorrida analisou o recurso e sua adequação ao caso em concreto, mencionando que:
+"Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão. Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples alusão a dispositivos, desacompanhada danecessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial" (Agravo em Recurso Especial 1871253/DF, Relator Ministro Marco Buzzi, in D Je de 09.08.2022). Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça". (e-STJ Fl.373-4)
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que: "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022)
+Também nesse ponto correta a decisão impugnada ao afirmar que não foi devidamente realizado o cotejo analítico limitando-se o recurso a mera transcrição ou citação de julgados.
+Nesse sentido destaca-se da decisão impugnada:
+"A divergência sumular deve ser comprovada mediante a juntada dos precedentes que deram origem à Súmula 479 do E. Superior Tribunal de Justiça, com a realização do devido cotejo analítico, que se dá mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e dos precedentes que originaram o verbete indicado como divergente, apontadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (confira-se: Agravo em Recurso Especial 1517124/SC, Relator Ministro Paulo de Tarso Sanseverino, in D Je de 04.12.2019).
+Ressalto, ainda, que o dissenso jurisprudencial deve ser demonstrado de forma analítica, mediante o confronto das partes idênticas ou semelhantes do V. Acórdão recorrido e daqueles eventualmente trazidos à colação, na forma exigida pelo artigo 1.029, §1º, do Código de Processo Civil, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados (neste sentido, o Agravo em Recurso Especial 2007116/SP, Relatora Ministra Maria Isabel Gallotti, in D Je de 02.08.2022; o Agravo Interno no Agravo emRecurso Especial 1765086/SP, Relatora Ministra Assusete Magalhães, in D Je de 30.03.2022, e o Agravo em Recurso Especial 1999092/SP, Relator Ministro Mauro Campbell Marques, in D Je de 09.02.2022)". (e-STJ Fl.374-5)
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente - além da comprovação da alegada divergência jurisprudencial, por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial -, a comparação analítica dos acórdãos confrontados, nos termos dos artigos 1029, §§1º e 2º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ, o que não foi feito.
+Ademais, é certo que: "A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional." (AgInt no AREsp n. 2.662.008/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem a apresentação de quadro analítico ou instrumento que o valha apto a clarificar os pontos de dissonância existentes entre o paradigma e o acórdão recorrido ou a incidência da Súmula nº 7 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Majoro o percentual de honorários sucumbenciais para 12% (doze por cento), nos termos do art. 85, § 11, do CPC.
+É o voto.
