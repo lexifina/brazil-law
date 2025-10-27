@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em favor de ROMULO TEIXEIRA PINTO - condenado pela prática do crime de roubo majorado, a cumprir 6 anos, 2 meses e 10 dias de reclusão, em regime inicial semiaberto, e a pagar 15 dias-multa (Ação Penal n. 5003655-77.2023.8.08.0069, da Vara Criminal da comarca de Marataízes/ES).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, que, em 29/9/2025, negou provimento à apelação defensiva.
+Requer-se a concessão da ordem para absolver o paciente por insuficiência de provas, sob a alegação, em suma, de nulidade do procedimento de reconhecimento de pessoas por violação do art. 226 do Código de Processo Penal. Sustenta-se que a prova utilizada para fundamentar a condenação é de extrema fragilidade, vez que não observou o disposto no art. 226 do Código de Processo Penal, não servindo para embasar a condenação, até porque não corroborada por outras provas (fl. 9).
+É o relatório.
+De plano, destaco que este writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça.
+Afora isso, inexiste ilegalidade flagrante que justifique a superação do óbice verificado, pois, diante da menção às imagens de videomonitoramento que capturaram o momento em que o réu transitava com a motocicleta subtraída (fl. 228) e à confissão (fl. 228), vê-se que o reconhecimento (fotográfico e pessoal), ainda que, por ventura, contenha algum vício, não se afigura como um único elemento probatório que lastreia a denúncia, que se encontra amparada em outras provas independentes (independent source), reclamando-se, assim, a aplicação da ressalva contida no próprio leading case da Sexta Turma desta Corte, firmado no julgamento do HC n. 598.886/SC (AgRg no HC n. 779.678/SC, Ministra Laurita Vaz, Sexta Turma, DJe 30/11/2022).
+Tal como exposto no acórdão ora impugnado, o reconhecimento pessoal não foi o único elemento para a formação do convencimento da magistrada (fl. 291), e o Superior Tribunal de Justiça tem entendimento consolidado de que a inobservância das formalidades do art. 226 do CPP não acarreta, por si só, a nulidade do ato, desde que o reconhecimento esteja corroborado por outras provas (fl. 291).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUCEDÂNEO DE RECURSO ESPECIAL. DESCABIMENTO. ROUBO MAJORADO. RECONHECIMENTO PESSOAL COM INOBSERVÂNCIA DO ART. 226 DO CPP. EXISTÊNCIA DE OUTRAS PROVAS. NULIDADE NÃO CONFIGURADA. JURISPRUDÊNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Writ indeferido liminarmente.
