@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WENDEL TALIS NASCIMENTO BARROS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, em razão do julgamento da apelação criminal n. 0100751-86.2017.8.20.0124.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Parnamirim, na ação penal n. 0100751-86.2017.8.20.0124, pela prática dos delitos capitulados no art. 33 da Lei 11.343/2006, art. 16, caput, da Lei 10.826/2003 e art. 304 do Código Penal, em concurso material, à pena de 19 anos, 5 meses e 7 dias de reclusão, em regime inicial fechado, e 657 dias-multa (fls. 16-53).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado do Rio Grande do Norte, que deu parcial provimento ao recurso para redimensionar a pena do paciente para 14 anos de reclusão, a ser cumprida em regime inicial fechado, cumulada com 641 dias-multa; e 1 ano e 8 meses de detenção, cumulada com 13 dias-multa (fls. 113-122), com trânsito em julgado previamente certificado.
+Na presente impetração, argumenta-se que houve constrangimento ilegal em razão da desproporcionalidade na fixação da pena-base do art. 33 da Lei 11.343/2006, extrapolando os limites da discricionariedade judicial. Sustenta-se que a pena-base foi majorada sem fundamentação concreta, contrariando a jurisprudência do STJ, que veda o uso de elementos genéricos ou inerentes ao tipo penal para esse fim. Aponta-se, ainda, duplicidade na valoração das circunstâncias do crime, ao se considerar a posse de armamento já utilizada para condenação autônoma pelo art. 12 da Lei 10.826/2003, em afronta ao princípio do ne bis in idem.
+Contesta-se a valoração negativa da conduta social com base em suposta vida criminosa e participação em organização criminosa, especialmente diante da absolvição pelo art. 35 da Lei 11.343/2006. Alega-se, também, que os motivos do crime, fundamentados em "lucro fácil", são inerentes ao tipo penal, configurando duplicidade indevida. O aumento de 4 anos e 11 meses na primeira fase seria excessivo, sugerindo-se a adoção de frações (1/8) sobre o intervalo da pena. Mesmo com a manutenção da culpabilidade e dos antecedentes, a pena-base adequada seria de 7 anos e 6 meses. Argumenta-se que a natureza e quantidade da droga não justificariam a elevação aplicada.
+Quanto ao art. 304 do Código Penal, sustenta-se ilegalidade na fixação da pena-base acima do mínimo legal, por ausência de fundamentação idônea, duplicidade e desproporcionalidade, propondo-se também o critério de fração de 1/8 para readequação da pena.
+Requer-se liminar para suspender os efeitos da sentença e do acórdão quanto à pena aplicada, até o julgamento do mérito. Ao final, pleiteia-se o reconhecimento do constrangimento ilegal, a anulação da dosimetria e a fixação de nova pena-base próxima ao mínimo legal, conforme as circunstâncias judiciais do art. 59 do Código Penal e a jurisprudência do STJ.
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de um possível constrangimento ilegal, caracterizado pela fixação de pena-base em patamar elevado sem fundamentação concreta, pela duplicidade na valoração de circunstâncias judiciais já consideradas em outros tipos penais, e pela adoção de critérios desproporcionais na dosimetria, em aparente afronta aos princípios da legalidade, individualização da pena e ne bis in idem.
+Contudo, o presente habeas corpus investe contra um acórdão com trânsito em julgado. Portanto, não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação em que não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, as revisões criminais e as ações rescisórias de seus julgados.
+Nessa linha:
+ ..
+1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024.)
+O artigo 210 do Regimento Interno do Superior Tribunal de Justiça autoriza o relator a indeferir liminarmente o habeas corpus quando constatada a manifesta incompetência, hipótese verificada nos presentes autos.
+De todo modo, não verifico a presença de ilegalidade flagrante que desafie a concessão da ordem nos termos do §2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento do artigo 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
