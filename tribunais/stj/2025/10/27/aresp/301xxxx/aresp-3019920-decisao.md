@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de agravo interposto por GABRIEL MONTEIRO DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial manejado contra acórdão proferido no Recurso em Sentido Estrito n. 1513000-44.2020.8.26.0114, , assim ementado (fl. 411):
+Recurso em Sentido Estrito Pronúncia Homicídio duplamente qualificado Impronúncia Impossibilidade - Materialidade demonstrada e existência de indícios suficientes de autoria a fundamentar a decisão recorrida Pedido recursal a ser submetido à apreciação dos jurados, sob pena de usurpação da competência Precedentes Decisão mantida Recurso desprovido.
+O Juízo de primeiro grau pronunciou o agravante como incurso, em tese, no art. 121, § 2º, inciso I e IV, do Código Penal (fls. 334-341).
+A Corte de origem negou provimento ao recurso em sentido estrito defensivo (fls. 410-424).
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c", do permissivo constitucional, a Defesa alega violação e divergência jurisprudencial acerca da interpretação dos artigos 121, § 2º, inciso I e IV, do Código Penal; 156 e 386, inciso VII.
+Aduz que não há indícios mínimos da autoria e que a decisão de pronúncia se ampara no superado princípio do in dubio pro societate.
+Acrescenta que as qualificadores não claramente incabíveis, pois a quantidade de disparos não se afigura modo análogo à traição ou emboscada e que meras suposição ou presunção não se prestam a qualificar o homicídio pelo desvalor de seus motivos.
+Contrarrazões às fls. 603-615.
+O recurso especial foi inadmitido por aplicação da Súmulas n. 7 do STJ e por ausência de demonstração do dissídio jurisprudencial (fls. 616-618), fundamentos contra os quais se insurge a Defesa neste agravo (fls. 620-631).
+A Procuradoria-Geral da República manifestou-se pelo conhecimento do agravo e não conhecimento do recurso especial subjacente (fls. 669-672).
+É o relatório.
+Decido.
+Impugnados os fundamentos da decisão de inadmissibilidade, passo ao exame do recurso especial.
+A insurgência não merece ser conhecida quanto ao alegado dissídio jurisprudencial.
+Consoante a jurisprudência pacífica e reiterada desta Corte Superior, a admissão do recurso especial fundado no dissídio pretoriano exige a rigorosa observância dos requisitos estabelecidos nos artigos 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do STJ.
+Para tanto, é imperioso que a parte recorrente proceda ao devido cotejo analítico, demonstrando de forma clara e pormenorizada a similitude fática entre o acórdão recorrido e os julgados apontados como paradigma, bem como a divergência na solução jurídica conferida à mesma controvérsia.
+Na hipótese dos autos, todavia, a parte limitou-se à mera transcrição de ementas, formalidade que não se revela suficiente para a comprovação da divergência. A ausência do confronto analítico entre os julgados impede a exata compreensão da controvérsia e obsta, por conseguinte, o conhecimento do apelo nobre no ponto.
+Sob tal perspectiva:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. LOTEAMENTO IRREGULAR. INÉPCIA DA DENÚNCIA. ATIPICIDADE DA
+CONDUTA. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. INADMISSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Para demonstração de dissídio jurisprudencial, o art. 255, § 1º, do RISTJ exige não apenas a juntada de acórdãos, mas a demonstração precisa das circunstâncias que identifiquem ou assemelhem os casos confrontados, com indicação específica dos pontos de divergência interpretativa, sendo insuficiente a mera transcrição de ementas sem o necessário confronto analítico entre as premissas fáticas e jurídicas dos julgados.
+6. A juntada dos acórdãos paradigmas no agravo não supre a deficiência originária do recurso especial, pois a comprovação da divergência deve ser contemporânea à interposição do recurso especial, não se admitindo correção posterior.
+7. Agravo regimental não provido. (AgRg nos EDcl no AREsp 2548059/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 19/08/2025, DJEN de 25/08/2025)
+Ainda sobre a questão: AgRg no AREsp 2745108/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/03/2025, DJEN de 28/03/2025; AgRg no REsp 2034784/MG, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 05/08/2025, DJEN de 14/08/2025; AgRg no REsp 2212019/PR, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/08/2025, DJEN de 14/08/2025.
+No atinente às alegadas violações de dispositivos da legislação federal, as pretensões recursais relacionam-se à pretensa despronúncia do acusado e, subsidiariamente, ao decote das qualificadoras.
+No caso dos autos, o acórdão recorrido manteve a pronúncia do acusado aos seguintes fundamentos (fls. 417-421 - grifamos):
+A decisão impugnada registrou pontual e objetivamente todo o quadro oral produzido nos autos, sob o crivo do contraditório, o qual permite concluir que o arcabouço probatório se encontra esmiuçadamente estratificado na decisão recorrida (fls. 337/339), destacando-se:
+(..) Adriel Santos Batalha, em juízo, disse que, na data dos fatos, trabalhava como motorista de aplicativo, sendo que Gabriel ligou para o depoente e pediu uma corrida. O depoente embarcou Gabriel; no trajeto, Gabriel encontrou uma pessoa e Gabriel pediu para o depoente parar o automóvel; Gabriel ficou conversando com uma pessoa; o depoente foi liberado por Gabriel; o depoente retornou para o ponto de táxi; posteriormente, Gabriel ligou novamente para o depoente para buscá-lo; o depoente não viu Gabriel com arma de fogo.
+A testemunha de acusação Ana Laura Ludugério, ouvida em solo judicial, disse que é mãe da vítima. Afirmou que, três meses antes dos fatos, a vítima sofreu um atentado; a depoente nunca achou drogas ou arma de fogo com a vítima; o pai da vítima chama-se Claudemir Ludugério e reside no Estado do Paraná; a depoente não conhece o réu; a depoente soube que o autor dos fatos poderia ser policial, miliciano ou traficante de drogas.
+A testemunha de acusação Jéssica Alves Pereira, em audiência judicial, disse que era esposa da vítima; a depoente teve um relacionamento de sete anos com a vítima; no passado, há quatro anos antes dos fatos, a vítima vendia drogas, mas a depoente não sabe se isso era tráfico de drogas; a depoente não conhece o réu; Vitor Hugo residia com a depoente e a vítima; Vitor Hugo era usuário de maconha e também vendia; antes dos fatos, a vítima sofreu um atentado; a vítima disse à depoente que estava trabalhando para policiais da BAEP; na data dos fatos, a depoente recebeu uma ligação de Vitor, pelo telefone celular da vítima, dizendo que a vítima tinha morrido e que a culpada era a depoente; Vitor disse que não sabia quem era o autor dos fatos; Vitor mora em Valinhos.
+(..)
+A testemunha de acusação Wellington Bertodo do Nascimento, ouvido em juízo, disse que é agente policial e que não participou das investigações.
+A testemunha de acusação Paulo Vinícius Simões Trevisanuto, em juízo, afirmou que é escrivão de polícia; e que na data em questão compareceu ao local dos fatos e encontrou um cadáver em decúbito dorsal.
+A testemunha de acusação Eder Samuel Gonsales Martines, em audiência judicial, afirmou que é policial civil. O corpo da vítima foi encontrado no local e, por meio das câmeras de segurança, chegaram ao carro e ao nome de um taxista. Ele foi ouvido e indicou o nome de Gabriel como o passageiro que deixou no local. Interrogado na Delegacia de Polícia, Gabriel confessou o crime e disse que a arma de fogo era da própria vítima e, após uma discussão, ele a tomou da vítima e atirou. Segundo se apurou, dias antes, houve a apreensão de uma grande quantidade de droga, causando prejuízos ao tráfico. Gabriel estaria de alguma forma relacionado a esse fato, que gerou a discussão entre as partes. Havia a suspeita de que a vítima seria informante da polícia. A mãe da vítima foi quem passou informalmente algumas das informações."
+Com tal realidade probatória, a pronúncia era mesmo de rigor, pois o argumento defensivo, calcado, essencialmente, na insuficiência de provas, não se afigura flagrante e incontroverso, plenamente evidenciado, tampouco suficiente para que pudesse ser acolhido nesta fase, requerendo para elucidação a amplitude do Tribunal do Júri, a quem cabe decidir acerca de eventual dúvida relacionada com a autoria.
+Com efeito, a despeito de não existirem testemunhas presenciais do homicídio, verte da prova colhida nessa primeira fase processual, especialmente o depoimento do investigador Eder, que teriam sido obtidas imagens de câmera de segurança das imediações do cenário delitivo, possibilitando-se a identificação do veículo de um taxista, apurando-se, ainda, a possível motivação do delito desentendimento envolvendo um crime de tráfico de drogas.
+Da mesma sorte, a testemunha Adriel, ouvida judicialmente, confirmou ter conduzido Gabriel em seu veículo àquela localidade e, após seu encontro com uma pessoa, ter retornado para buscá-lo, oportunidade em que aparentava estar assustado e com medo, tendo dito algo do gênero, "vem me buscar, que deu merda".
+Sem embargo, tais informações também se coadunariam com o histórico de ligações da linha telefônica do réu, a partir de sua utilização da rede telefônica e estações rádio base (conforme relatório de fls. 70/84).
+No mais, ao tomar conhecimento dos elementos inquisitivos que pairavam sobre si, o recorrente admitiu que teria ceifado a vida de Jonathan - alegando, todavia, ter agido em legítima defesa e, conquanto se questione a admissibilidade de tal versão, porque tomada sem assistência de defesa técnica, em seu interrogatório judicial, Gabriel fez uso do silêncio, não refutando, dessa sorte, a veracidade, ou espontaneidade daquele ato.
+Nem se diga, ainda, que a decisão impugnada está fundamentada apenas em indigitada peça informativa, eis que, como se viu, há outros elementos, submetidos ao crivo do contraditório, que a sustentam.
+Enfim, a realidade probatória dos autos empresta aparência positiva ao juízo de probabilidade em relação à autoria, tornando-se, portanto, imprescindível a submissão do réu a julgamento perante o órgão competente, a quem incumbe a valoração aprofundada do mérito das matérias fáticas e demais teses defensivas sustentadas.
+Conforme se depura dos excertos transcritos, a decisão de pronúncia reputou comprovada a materialidade delitiva e existentes indícios mínimos da autoria delitiva, esses evidenciados pela confissão extrajudicial do acusado - não retratada em juízo - aliada à prova testemunhal colhida em contraditório no curso do judicium accusationis, mais especificamente o depoimento do motorista de aplicativo que teria deixado o acusado no local do crime pouco antes da prática delitiva e do policial civil encarregado das investigações.
+Tais elementos de convicção são suficientes ao atendimento dos requisitos do art. 413 do Código de Processo Penal, que não exige a demonstração peremptória da autoria delitiva para a submissão do acusado ao julgamento pelo Conselho de Sentença, mas apenas a probabilidade fática da imputação.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRONÚNCIA. ELEMENTOS DE CONVICÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão monocrática que negou provimento a habeas corpus substitutivo de recurso especial, no qual se alegava insuficiência de provas da autoria em decisão de pronúncia por tentativa de homicídio qualificado.
+2. O agravante sustenta que a pronúncia se baseou exclusivamente em elementos do inquérito policial, sem confirmação em juízo, citando depoimentos colhidos durante a fase inquisitiva.
+3. O Ministério Público estadual e o Ministério Público Federal manifestaram-se pelo não provimento do recurso.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a decisão de pronúncia foi fundamentada exclusivamente em elementos do inquérito policial, sem a devida confirmação em juízo, o que poderia configurar insuficiência de provas para a pronúncia.
+III. Razões de decidir
+5. A decisão de pronúncia não se fundamentou exclusivamente em elementos do inquérito policial, pois o depoimento da testemunha Rosa Maria Severo de Araújo foi colhido em juízo por meio de sistema audiovisual, constituindo elemento suficiente para a pronúncia.
+6. A decisão de pronúncia é um juízo de probabilidade, não de certeza, bastando indícios judicializados suficientes de autoria, conforme jurisprudência desta Corte.
+7. O princípio in dubio pro societate prevalece na fase de pronúncia, autorizando a submissão do caso ao Tribunal do Júri.
+IV. Dispositivo e tese
+8. Agravo regimental improvido.
+Tese de julgamento: "1. A decisão de pronúncia pode se basear em depoimentos colhidos em juízo, mesmo que não numerados, desde que constituam elementos suficientes para a pronúncia. 2. A fase de pronúncia exige apenas indícios judicializados suficientes de autoria, não sendo necessário juízo de certeza. 3. O princípio in dubio pro societate autoriza a submissão do caso ao Tribunal do Júri". (AgRg no HC 902483/AL, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/03/2025, DJEN de 31/03/2025 - grifamos)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. DECISÃO DE PRONÚNCIA. INDÍCIOS DE AUTORIA. PRINCÍPIO DO IN DUBIO PRO . AGRAVO REGIMENTAL DESPROVIDO. SOCIETATE I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário em habeas corpus, mantendo a sentença de pronúncia. 2. A defesa alega inaplicabilidade do princípio do na fase de in dubio pro societate pronúncia e inobservância ao art. 155 do CPP, requerendo o provimento do agravo regimental.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a sentença de pronúncia, baseada em indícios de autoria, pode ser mantida, considerando o princípio do in dubio pro societate e a alegada inobservância ao art. 155 do CPP.
+III. RAZÕES DE DECIDIR
+4. O agravo regimental não apresentou novos argumentos capazes de alterar o entendimento firmado na decisão agravada.
+5. A sentença de pronúncia é um juízo de probabilidade, bastando indícios judicializados suficientes de autoria, prevalecendo o princípio do na fase de in dubio pro societate pronúncia.
+6. O Tribunal de origem concluiu pela manutenção da sentença de pronúncia com base em provas irrepetíveis, como reconhecimento fotográfico e videomonitoramento, além de relatos judiciais.
+7. O acolhimento da tese de despronúncia demandaria amplo reexame da matéria fática e probatória, incompatível com a via do habeas corpus.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A sentença de pronúncia pode ser mantida com base em indícios de autoria, prevalecendo o princípio do na fase de pronúncia. 2. in dubio pro societate Provas irrepetíveis, como reconhecimento fotográfico e videomonitoramento, são hábeis para respaldar a decisão de pronúncia". (AgRg no RHC 199927/ES, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/06/2024, DJEN de 30/06/2025 - grifamos)
+Finalmente, as qualificadoras do motivo torpe e do meio que dificultou a defesa da vítima foram mantidas com arrimo nas seguintes razões de decidir (fls. 422-423 - grifamos):
+Por fim, ao que se infere dos elementos probatórios amealhados e aqui alhures reexaminados, não se pode afastar (até porque sequer houve insurgência específica) que o homicídio tenha sido cometido por motivo torpe, em virtude da possibilidade de ato agressivo por vingança, considerando que a vítima estaria supostamente envolvida em evento delitivo fracassado pela atuação policial que resultou na apreensão do veículo automotor a esta emprestado (BO nº 1002/2020, fls. 116/119), além de atrair suspeitas de que atuava na condição de informante da polícia.
+Da mesma forma, o crime de homicídio pode também ter sido praticado com emprego de recurso que dificultou a defesa da vítima, eis que utilizado instrumento com alto poderio de letalidade, em situação na qual não esperava tal ato, em meio à contenda verbal.
+Logo, não há que se arredar, ao menos neste estágio, as circunstâncias qualificadoras mencionadas, tal como insertas na peça acusatória, porquanto não se mostram manifestamente divorciadas do conjunto probatório, improcedentes ou de todo descabidas.
+Como se sabe, a jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que a competência constitucional do Tribunal do Júri para conhecer e julgar os crimes dolosos contra a vida e, notadamente a soberania dos vereditos (art. 5º, inciso XXXVIII, alínea "c", da CF/88), impõe a conclusão de que somente em caso de manifesta improcedência é que as circunstâncias qualificadoras narradas na inicial acusatória devem ser afastadas da decisão de pronúncia.
+Sobre a matéria:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+I. Caso em exame
+ ..
+III. Razões de decidir
+6. O recurso especial não é a via adequada para o reexame das razões adotadas pelas instâncias ordinárias, conforme a Súmula 7/STJ, que veda o revolvimento do conjunto fático-probatório.
+7. A decisão de pronúncia deve ser mantida, pois há indícios suficientes de autoria e materialidade, cabendo ao Tribunal do Júri a análise do mérito, conforme a competência constitucional.
+8. A exclusão da qualificadora na fase de pronúncia só é possível quando manifestamente infundada, o que não se verifica no caso em exame, pois a qualificadora encontra respaldo no conjunto probatório.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. O recurso especial não é cabível para reexame de provas, conforme Súmula 7/STJ. 2. A decisão de pronúncia deve ser mantida quando há indícios suficientes de autoria e materialidade, cabendo ao Tribunal do Júri a análise do mérito. 3. A exclusão de qualificadora na fase de pronúncia só é possível quando manifestamente infundada". (AgRg no AREsp 2613683/MG, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 06/05/2025, DJEN de 13/05/2025 - grifamos)
+Sob idêntico prisma: AgRg no REsp 1940835/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 14/04/2025, DJEN de 24/04/2025.
+Colhe-se do acórdão recorrido que as instâncias ordinárias concluíram que as qualificadoras do art. 121, § 2º, inciso I e IV, do Código Penal não se afiguravam manifestamente incabível.
+Considerou-se que a torpeza da conduta estaria ligada à suposta motivação do crime, relacionada a vingança por questões envolvendo o acusado e a vítima com a criminalidade e, o modo que teria dificultado a defesa do ofendido, diz respeito à maneira inadvertida com que o acusado teria abordado o acusado.
+Destarte, rever as conclusões a que chegaram às instâncias ordinárias, de modo a reconhecer que a realidade fática que permeia o caso não se encontra refletida dos elementos de convicção, é juízo que não se coaduna com a Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRONÚNCIA. AGRAVO DESPROVIDO.
+ ..
+10. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela exclusão da qualificadora relativa ao motivo fútil demanda o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+IV. Dispositivo e tese
+11. Agravo desprovido.
+Tese de julgamento: "1. A materialidade delitiva pode ser comprovada por outros meios probatórios idôneos, dispensando o exame de corpo de delito para fins de pronúncia. 2. A tese de legítima defesa, quando não inconteste, demanda a submissão do caso ao Tribunal do Júri. 3. A ausência de prequestionamento inviabiliza o conhecimento do recurso especial, atraindo o óbice da Súmula 211/STJ. 4. O réu se defende dos fatos descritos na inicial acusatória e não da capitulação jurídica apresentada pelo Ministério Público, sendo possível a adequação típica tanto em primeira instância como em segundo grau. 5. A revisão de matéria fático-probatória é vedada em recurso especial, ante o óbice contido na Súmula n. 7/STJ.". (AREsp 2931354/AL, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/06/2025, DJEN de 17/06/2025 - grifamos)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intime-se.
+EMENTA
