@@ -1,0 +1,128 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. PRECLUSÃO CONSUMATIVA. SÚMULAS 83 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu de agravo em recurso especial, fundamentado na ausência de impugnação específica aos óbices das Súmulas 83/STJ e 7/STJ, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do STJ.
+2. O Tribunal de origem concluiu pela preclusão consumativa, considerando que a alegação de prescrição intercorrente já havia sido examinada e decidida em instâncias anteriores, sem alteração da situação fática que justificasse nova análise.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se houve negativa de prestação jurisdicional por parte do Tribunal de origem; e (ii) saber se a prescrição intercorrente, por se tratar de matéria de ordem pública, sujeita-se à preclusão consumativa quando já analisada em instâncias anteriores.
+III. Razões de decidir
+4. A Corte local não incorreu em negativa de prestação jurisdicional, pois enfrentou a matéria relativa à preclusão da prescrição intercorrente desde o julgamento do agravo de instrumento, adotando fundamentação suficiente para a resolução da causa.
+5. A jurisprudência do STJ é pacífica no sentido de que matérias de ordem pública, como a prescrição intercorrente, sujeitam-se à preclusão e não podem ser reexaminadas se já tiverem sido objeto de manifestação judicial anterior, em face da qual não caiba mais recurso.
+6. Nos termos do art. 508 do CPC/2015, a eficácia preclusiva da coisa julgada e o princípio do dedutível e do deduzido alcançam não só os argumentos deduzidos, mas também aqueles que poderiam ter sido deduzidos na demanda.
+7. O acórdão recorrido está em consonância com a jurisprudência do STJ, não havendo como afastar o óbice da Súmula 83/STJ.
+8. O reexame do conjunto fático-probatório necessário para a análise da prescrição intercorrente encontra óbice na Súmula 7 do STJ, que veda o reexame de provas em recurso especial.
+IV. Dispositivo
+9. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial interposto.
+Na origem, o agravante interpôs agravo em recurso especial contra decisão de admissibilidade que inadmitiu o recurso especial, sob os fundamentos de: ausência de afronta ao art. 1.022 do Código de Processo Civil (CPC), incidência da Súmula 83/STJ e da Súmula 7/STJ (e-STJ fls. 130/134).
+Nas razões do agravo em recurso especial, o agravante alega, em síntese, que a decisão não enfrentou, de modo suficiente, os arts. 489, § 1º, incisos III, IV e VI, e 1.022, inciso II e parágrafo único, II, do CPC; bem como os arts. 206 e 206-A do Código Civil, e 921 do CPC (fls. 143/156). Sustenta a inaplicabilidade dos óbices das Súmulas 83/STJ e 7/STJ, afirmando que há precedentes em sentido favorável e que a pretensão demanda apenas revaloração jurídica de fatos já delineados (fls. 150/156).
+Quanto à suposta superação da Súmula 83/STJ, sustenta que a tese do recorrente encontra amparo na jurisprudência do STJ, de modo que não há orientação firmada em sentido contrário; por isso, seria desarrazoada sua aplicação (fls. 151/152). Transcreve, para tanto, precedentes que reconhecem violação aos arts. 489 e 1.022 do CPC, determinando retorno dos autos para suprimento de omissão, bem como julgados sobre prescrição intercorrente e exceção de pré-executividade como matéria de ordem pública (fls. 150/152).
+Quanto à suposta superação da Súmula 7/STJ, afirma que não pretende simples reexame de prova, mas revaloração jurídica de fatos incontroversos já delineados no acórdão recorrido, conforme orientação recente do STJ (fls. 154/155).
+Intimada nos termos do art. 1.042, § 3º, do CPC, a parte agravada apresentou contrarrazões (fls. 163/169), sustentando: inexistência de violação aos arts. 489 e 1.022 do CPC; vedação ao reexame de matéria fático-probatória (Súmula 7/STJ); ausência de demonstração adequada do dissídio (art. 1.029, § 1º, do CPC) e necessidade de impugnação específica de todos os fundamentos da decisão de inadmissibilidade (dialeticidade).
+O agravo em recurso especial não foi conhecido, sob o fundamento de ausência de impugnação específica quanto aos óbices da Súmula 83/STJ e da Súmula 7/STJ, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do STJ (RISTJ). Assentou-se, ainda, que a decisão de inadmissibilidade do recurso especial possui dispositivo único e deve ser integralmente impugnada, sob pena de incidência, por analogia, da Súmula 182/STJ (fls. 173/174).
+Nas razões do seu agravo interno, a parte agravante: sustenta que impugnou, de modo específico e minucioso, a aplicação das Súmulas 83/STJ e 7/STJ no agravo em recurso especial; afirma que houve negativa de prestação jurisdicional por omissão quanto ao enfrentamento da prescrição intercorrente e da tese de ausência de preclusão lógica; defende a inaplicabilidade da Súmula 182/STJ; e requer, em juízo de retratação, o conhecimento do agravo em recurso especial (fls. 181/189).
+Argumenta, também, que a decisão agravada teria aplicado indevidamente o art. 932, III, do CPC e o art. 253, parágrafo único, I, do RISTJ, pois, no seu entender, foram efetivamente atacados os fundamentos da inadmissibilidade (Súmulas 83/STJ e 7/STJ) com precedentes e argumentação específica (fls. 182/189).
+Além disso, teria sido violado o art. 1.022, parágrafo único, II, do CPC, ao não reconhecer omissão do acórdão recorrido no exame das teses capazes de alterar o resultado, notadamente sobre prescrição intercorrente como matéria de ordem pública, não sujeita à preclusão consumativa, e sobre a possibilidade de nova exceção de pré-executividade com fundamento diverso (fls. 183/185).
+Alega que a prescrição intercorrente é matéria de ordem pública, apreciável a qualquer tempo, e que não se sujeita à preclusão lógica ou consumativa em hipóteses de nova exceção com objeto diverso. Sustenta ainda que o exame pretendido demanda apenas revaloração jurídica de fatos já definidos no acórdão, afastando o óbice da Súmula 7/STJ (fls. 186/188).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada deixou de se manifestar.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. PRECLUSÃO CONSUMATIVA. SÚMULAS 83 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu de agravo em recurso especial, fundamentado na ausência de impugnação específica aos óbices das Súmulas 83/STJ e 7/STJ, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do STJ.
+2. O Tribunal de origem concluiu pela preclusão consumativa, considerando que a alegação de prescrição intercorrente já havia sido examinada e decidida em instâncias anteriores, sem alteração da situação fática que justificasse nova análise.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se houve negativa de prestação jurisdicional por parte do Tribunal de origem; e (ii) saber se a prescrição intercorrente, por se tratar de matéria de ordem pública, sujeita-se à preclusão consumativa quando já analisada em instâncias anteriores.
+III. Razões de decidir
+4. A Corte local não incorreu em negativa de prestação jurisdicional, pois enfrentou a matéria relativa à preclusão da prescrição intercorrente desde o julgamento do agravo de instrumento, adotando fundamentação suficiente para a resolução da causa.
+5. A jurisprudência do STJ é pacífica no sentido de que matérias de ordem pública, como a prescrição intercorrente, sujeitam-se à preclusão e não podem ser reexaminadas se já tiverem sido objeto de manifestação judicial anterior, em face da qual não caiba mais recurso.
+6. Nos termos do art. 508 do CPC/2015, a eficácia preclusiva da coisa julgada e o princípio do dedutível e do deduzido alcançam não só os argumentos deduzidos, mas também aqueles que poderiam ter sido deduzidos na demanda.
+7. O acórdão recorrido está em consonância com a jurisprudência do STJ, não havendo como afastar o óbice da Súmula 83/STJ.
+8. O reexame do conjunto fático-probatório necessário para a análise da prescrição intercorrente encontra óbice na Súmula 7 do STJ, que veda o reexame de provas em recurso especial.
+IV. Dispositivo
+9. Agravo interno improvido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a integrar a presente decisão:
+Cuida-se de Agravo em Recurso Especial apresentado por DANILO BALDWIN JÚNIOR à decisão que inadmitiu Recurso Especial interposto com fundamento no art. 105, III, da Constituição Federal.
+É o relatório.
+Decido.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 83/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ e Súmula 7/STJ.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+A Súmula 83 desta Corte estabelece que " n ão se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Dessa forma, verifica-se, que no julgamento do agravo de instrumento, o Tribunal de Origem considerou a discursão preclusa devido a existência de decisões anteriores afastando a prescrição intercorrente, com análise de inércia do credor e diligência constantes do exequente (e-STJ fl. 50 - grifos acrescidos):
+"Nas circunstâncias, verifica-se que a questão relativa à prescrição intercorrente já foi previamente examinada por esta Corte no julgamento do agravo de instrumento n. 5119676-12.2021.8.21.7000, relatado pelo eminente Desembargador Giovanni Conti (evento 17, ACOR2 e evento 17, RELVOTO1):
+AGRAVO DE INSTRUMENTO. CONDOMÍNIO. AÇÃO DE COBRANÇA. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. REJEIÇÃO. INÉRCIA DO CREDOR. NÃO VERIFICADA. DECISÃO MANTIDA. Prescrição intercorrente. O instituto da prescrição intercorrente (art. 487, II, do CPC e art. 924, V, do cpc) não se confunde com abandono de causa. A prescrição intercorrente consuma-se quando a paralisação injustificada perdurar por prazo idêntico ao da prescrição da pretensão. Não demonstrado nos autos o desinteresse/desídia por parte do credor em dar andamento ao processo, não há como ser reconhecida a prescrição intercorrente da pretensão. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+(..) No caso dos autos não verifico a ocorrência de paralisação injustificada, tendo a parte credora, agravada, diligenciado, incessantemente, para obtenção do crédito que lhe é devido. Compulsando os autos, pode ser observado que o agravado ajuizou duas ações de cobrança de cotas condominiais em desfavor do agravante, referente a períodos diferentes de inadimplência, sendo a primeira ação de nº 033/1050032076- 7 e a segunda de nº 033/1050031564-0 (ambos processos físicos). Posteriormente, as ações foram juntadas, sendo proferida uma única sentença para ambas as demandas. Por consequência, quando da abertura da fase de cumprimento de sentença, o agravado abarcou o débito de ambos os processos, pois havia uma única sentença a ser executada. Desta forma, não há falar em inércia do agravado e aplicação da prescrição intercorrente, pois em nenhum momento o feito de nº 033/1050031564-0 foi suspenso ou arquivado por inércia do agravado. Pelo contrário, após o transito em julgado da sentença, o agravado requereu o cumprimento de sentença, havendo ainda impugnação da parte ora aqui agravante, com a interposição de recursos. (..)
+Na sequência, inconformado, o ora agravante interpôs o agravo de instrumento n. 5331220- 42.2023.8.21.7000. Ao ser desprovido o recurso em questão foi mantido o posicionamento anteriormente adotado (evento 18, RELVOTO1):
+(..) Na sequência, após a digitalização dos autos (evento 11, DESPADEC1 ) e afastada a alegação de prescrição intercorrente (5119676-12.2021.8.21.7000), o executado apresentou nova impugnação (evento 23, IMPUGNAÇÃO1), o que fez expressamente nos termos do art. 525 do CPC. (..)
+Diante de tais considerações, deve ser mantida a decisão de primeira instância. DISPOSITIVO Ante o exposto, voto por negar provimento ao recurso. (..)"
+Observa-se que o acórdão recorrido é claro e devidamente fundamentado, inclusive concluiu pela preclusão consumativa. A Corte de origem enfrentou a questão reputada como omissa ao declinar suas razões de convencimento com base na análise do conjunto probatório constante dos autos.
+Com efeito, "Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. " (AgInt nos EDcl no REsp n. 2.107.741/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Ademais, registro que "A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. Com efeito, não há necessidade de resposta a cada afirmação específica. (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)" (AgInt no AREsp n. 2.762.821/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/5/2025, DJEN de 16/5/2025.)
+Portanto, no caso, não há que se falar em negativa de prestação jurisdicional, uma vez que o tribunal a quo apreciou a questão submetida a julgamento, decidindo de forma clara, fundamentada e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, somente de forma contrária às expectativas da parte, não sendo possível imputar vício ao julgamento.
+E mais, a postura do Tribunal de origem amolda-se às orientações jurisprudenciais desta Corte sobre o tema de fundo ora discutido. É o que se extrai, por exemplo, dos seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. PRECLUSÃO. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+2. O Tribunal de origem concluiu pela preclusão consumativa, uma vez que a alegação de prescrição intercorrente já havia sido examinada e decidida em instâncias anteriores, não havendo alteração da situação fática que justificasse nova análise.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a alegação de prescrição intercorrente pode ser reexaminada, considerando a preclusão consumativa e a necessidade de reanálise do conjunto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+III. Razões de decidir
+4. A preclusão consumativa impede a reabertura da discussão sobre a prescrição intercorrente, uma vez que a questão já foi decidida em instâncias anteriores sem alteração fática relevante.
+5. O reexame do conjunto fático-probatório necessário para a análise da preclusão encontra óbice na Súmula 7 do STJ, que veda o reexame de provas em recurso especial.
+IV. Dispositivo
+6. Agravo conhecido para não conhecer do recurso especial.
+(AREsp n. 2.796.422/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO IMPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo para dar parcial provimento ao recurso especial, afastando a multa por litigância de má-fé e mantendo, no mais, o acórdão recorrido. A decisão impugnada fundamentou-se na ausência de negativa de prestação jurisdicional e na incidência da Súmula 83/STJ quanto à preclusão da matéria relativa à prescrição intercorrente.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional por parte do Tribunal de origem e se a prescrição intercorrente, por se tratar de matéria de ordem pública, sujeita-se à preclusão quando suscitada com causa de pedir distinta anteriormente analisada.
+III. Razões de decidir
+3. A Corte local não incorreu em negativa de prestação jurisdicional, pois enfrentou a matéria relativa à preclusão da prescrição intercorrente desde o julgamento do agravo de instrumento, adotando fundamentação suficiente para a resolução da causa.
+4. A jurisprudência do STJ é pacífica no sentido de que matérias de ordem pública, como a prescrição intercorrente, sujeitam-se à preclusão e não podem ser reexaminadas se já tiverem sido objeto de manifestação judicial anterior, em face da qual não caiba mais recurso.
+5. Nos termos do art. 508 do CPC/2015, a eficácia preclusiva da coisa julgada e o princípio do dedutível e do deduzido alcançam não só os argumentos deduzidos, mas também aqueles que poderiam ter sido deduzidos na demanda.
+6. O acórdão recorrido está em consonância com a jurisprudência do STJ, não havendo como afastar o óbice da Súmula 83/STJ.
+IV. Dispositivo e tese
+7. Agravo interno improvido.
+Dispositivos relevantes citados: CPC/2015, art. 508.Jurisprudência relevante citada: STJ, AgInt no AREsp 2.425.003/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24.06.2024; STJ, AgInt no AREsp 2.529.297/GO, Rel. Min. Raul Araújo, Quarta Turma, julgado em 19.08.2024.
+(AgInt no AREsp n. 2.813.750/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/5/2025, DJEN de 19/5/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO EXEQUENTE. SÚMULA N. 83 DO STJ. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, em ação de indenização por dano moral, alegando violação aos arts. 206-A do Código Civil e 921, §§ 4º e 4º-A, do Código de Processo Civil.
+2. O Tribunal de Justiça do Estado do Rio Grande do Sul afastou a prescrição intercorrente, considerando que o exequente não foi inerte ou desidioso, tendo adotado as diligências necessárias para a satisfação do crédito.
+II. QUESTÃO EM DISCUSSÃO
+3. Há duas questões em discussão: (i) saber se a prescrição intercorrente pode ser reconhecida na ausência de inércia ou desídia do exequente, considerando a realização de diligências infrutíferas; (ii) saber se a realização de diligências infrutíferas tem o condão de interromper ou suspender o prazo prescricional.
+III. RAZÕES DE DECIDIR
+4. O reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente, o que não foi verificado no caso em análise.
+5. Não se conhece do recurso especial pela divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorria. Súmula n. 83 do STJ.
+6. A realização de diligências infrutíferas não interrompe ou suspende o prazo prescricional, conforme entendimento pacífico do STJ.
+7. A revisão das conclusões do Tribunal de origem demandaria reexame do acervo fático-probatório, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ. 8. A
+parte recorrente não demonstrou o devido cotejo analítico para comprovar o dissídio jurisprudencial, inviabilizando a apreciação do recurso especial com base na alínea c do art. 105, III, da Constituição Federal.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. O reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+2. A realização de diligências infrutíferas não interrompe ou suspende o prazo prescricional. 3. Não se conhece do recurso especial pela divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorria, nos termos da Súmula n. 83 do STJ. 4. O reexame de fatos e provas é vedado em recurso especial, conforme Súmula n. 7 do STJ".
+Dispositivos relevantes citados:
+Código Civil, art. 206-A; Código de Processo Civil, art. 921, §§ 4º e 4º-A. Jurisprudência relevante citada: STJ, AgInt no REsp n. 2.177.441/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/4/2025; STJ, AgInt no AREsp n. 2.728.583/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/5/2025.
+(AgInt no AREsp n. 2.744.765/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+Dessa forma, torna-se irrepreensível a decisão agravada que fez incidir na espécie a Súmula 83 do Superior Tribunal de Justiça em razão da compatibilidade e da sintonia do acórdão recorrido com a jurisprudência desta Corte. Nesse sentido: " o  recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ" (AgInt no AREsp n. 2.020.707/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+No mais, ainda que fosse superado o óbice, é certo, também, que o pretendido debate dependerá de reexame do seu objeto do acervo fático-probatório, incursão cognitiva obstada a esta Corte superior por força da Súmula 7/STJ.
+  Manifesto meu voto, portanto, pelo não provimento do presente agravo interno.
+É como voto.
