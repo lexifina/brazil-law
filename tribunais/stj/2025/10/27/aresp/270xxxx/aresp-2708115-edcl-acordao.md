@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO ESTADUAL QUE DEU PROVIMENTO AO AGRAVO DE INSTRUMENTO PARA EXIMIR O AGRAVANTE DA RESPONSABILIDADE DE DEPOSITÁRIO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA APLICADA PELO TRIBUNAL DE ORIGEM. CABIMENTO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JOSÉ BRITO DE SOUZA JÚNIOR contra acórdão da Quarta Turma, que negou provimento ao agravo interno do embargante, nos termos da seguinte ementa (e-STJ, fls. 660/661):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE GADO COM NOMEAÇÃO DE DEPOSITÁRIO JUDICIAL. EMBARGOS DE TERCEIRO CONEXOS QUE RECONHECERAM QUE O DEPOSITÁRIO NÃO ERA PROPRIETÁRIO NEM EXERCEU POSSE OU DETENÇÃO FÁTICA DO GADO CONSTRITO. COMPROVADA POSSE E PROPRIEDADE DA PARTE EXECUTADA. ACÓRDÃO RECORRIDO QUE DEU PROVIMENTO AO AGRAVO DE INSTRUMENTO PARA EXIMIR O AGRAVANTE DA RESPONSABILIDADE DE DEPOSITÁRIO COM FUNDAMENTO NA REALIDADE FÁTICO-PROBATÓRIA RECONHECIDA E TRANSITADA EM JULGADO. REEXAME. SÚMULA 7/STJ. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal estadual deu provimento ao agravo de instrumento interposto na origem, para o fim de afastar o agravante da responsabilidade de depositário do gado constrito, por ter sido comprovado nos embargos de terceiro conexos que tal gado não era de propriedade nem estava na posse ou detenção do agravante, mas sim permaneceu na posse e titularidade do próprio executado. A reforma do julgado demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+2. "Os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores. Caracterizado, na espécie, o manifesto caráter protelatório dos segundos embargos de declaração opostos na origem, é de rigor a manutenção da multa prevista no §2º do art. 1.026 do CPC/2015" (AgInt no AREsp 2.097.025/SP, Relator Ministro RAULARAÚJO, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+3. Agravo interno desprovido."
+O embargante sustenta que o v. acórdão embargado incorreu em omissão acerca da tese suscitada, que esclarece o nítido propósito de prequestionamento dos embargos de declaração opostos contra o acórdão do TJMT, bem como o descabimento da multa aplicada. Reforça que não foi enfrentado o argumento de que os embargos opostos não são protelatórios, dado ao notório caráter de prequestionamento. Assim, postula que o acórdão embargado seja integrado, em relação à aplicação do Enunciado 98 da Súmula do STJ, levando à conclusão de exclusão da multa imposta pelo TJMT.
+O embargado apresentou impugnação (e-STJ, fls. 678/684).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO ESTADUAL QUE DEU PROVIMENTO AO AGRAVO DE INSTRUMENTO PARA EXIMIR O AGRAVANTE DA RESPONSABILIDADE DE DEPOSITÁRIO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MULTA APLICADA PELO TRIBUNAL DE ORIGEM. CABIMENTO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprir omissão de ponto sobre o qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, o acórdão embargado apresentou motivação clara e satisfatória em relação à adequada aplicação pelo TJMT da multa prevista no art. 1.026, § 2º, do CPC/2015, imposta no julgamento dos segundos embargos de declaração, inexistindo dúvida ou omissão a ser suprida. Confira-se (e-STJ, fl. 668):
+"Com relação à multa aplicada no julgamento dos segundos embargos de declaração, a decisão ora agravada também não merece reparo.
+Da análise dos autos, verifica-se a nítida intenção de rediscutir matéria já apreciada no aresto objurgado, o que é vedado na estreita via dos embargos de declaração. Por meio da oposição de novos embargos de declaração, o embargante pretendia reinaugurar discussão já tratada no acórdão que julgou o recurso de agravo de instrumento.
+O § 2º do art. 1.026 do CPC dispõe que, "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa".
+A condenação prevista no citado dispositivo legal pressupõe que os embargos de declaração sejam manifestamente protelatórios, ou seja, a aplicação da multa será cabível quando houver notório propósito de protelar a solução da demanda e a duração do processo.
+Consoante entendimento desta Corte Superior, os segundos embargos de declaração devem limitar-se a apontar vícios intrínsecos constatados na decisão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores.
+Assim, caracterizado, na espécie, o manifesto caráter protelatório dos segundos embargos de declaração, é de rigor a manutenção da multa prevista no § 2º do art. 1.026 do CPC /2015. Nesse sentido:
+(..)."
+É nítido o intuito da parte embargante de obter a reforma do acórdão embargado, entendendo ter sido equivocado o julgamento. Esse intento, contudo, não é cabível na via estreita dos embargos de declaração, porque tal recurso é incompatível com a pretensão de se obter efeitos infringentes, tampouco é adequado para demonstrar entendimentos divergentes sobre a matéria. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, OBSCURIDADE OUCONTRADIÇÃO. INEXISTÊNCIA. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOSREJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Inexistentes as hipóteses do art. 535 do CPC, não merecem acolhida os embargos de declaração.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Embargos de declaração rejeitados, com imposição de multa fixada em 1% (um por cento) do valor da causa."
+(EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/12/2014, DJe de 02/02/2015)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO. INEXISTÊNCIA. ERRO MATERIAL DA EMENTA. AFASTAMENTO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já apreciada no recurso.
+2. Embargos de declaração acolhidos em parte, para correção de erro material, sem efeito modificativo."
+(EDcl no AgRg no AREsp 511.553/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/3/2015, DJe de 18/3/2015)
+A fundamentação adotada no acórdão é suficiente para respaldar a concl usão alcançada, porquanto ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do CPC/2015.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É como voto.
