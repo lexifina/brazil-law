@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por ROBSON DE JESUS SANTOS contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que não admitiu recurso especial (fls. 373/376).
+Nas razões (fls. 382/397), narrou que, em primeira instância, foi condenado pela prática do crime do art. 155, §4º, incisos I e II, do Código Penal a 02 (dois) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, e a 11 (onze) dias-multa, no valor unitário mínimo, negada a substituição da pena privativa de liberdade por restritivas de direitos. Relatou que, em julgamento de apelações interpostas pelo Ministério Público e pela defesa, o Tribunal de origem deu parcial provimento a ambos, para impor o regime inicial fechado e para afastar o valor a título de indenização mínima. Expôs que, interposto recurso especial, o Tribunal de origem não o admitiu, invocando as Súmulas nº 284, 282 e 356, STF e nº 7, STJ. Argumentou que o recurso especial possui fundamentação adequada; que o acórdão enfrentou os temas atinentes à atipicidade material e ao regime inicial de cumprimento de pena; que não pretende reexame de provas, mas apenas revaloração jurídica.
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou, se conhecido, pelo não provimento do recurso especial (fls. 434/429).
+É o relatório. DECIDO.
+A decisão de inadmissão apontou os seguintes óbices: i) Súmula n. 283; ii) Súmulas n. 282 e 356; iii) Súmula n. 7, STJ.
+Em relação à Súmula n. 283 do Supremo Tribunal Federal, ao agravante compete articular argumentação que indique que o recurso especial abordou todos os fundamentos nos quais se assentou o acórdão recorrido.
+No caso, o agravo, literalmente, reproduz o recurso especial e traz a afirmação, genérica, de que atacou todos os fundamentos do acórdão.
+De qualquer modo, aponte-se, no particular, que o acórdão impôs o fechado por conta da multirreincidência e circunstâncias judiciais desfavoráveis (arts. 33, § 3º, e 59, inciso III, do Código Penal). O recurso especial, porém, tratou somente da questão atinente à reincidência e, por isso, não rebateu o fundamento de que as circunstâncias judiciais também deram ensejo ao recrudescimento do regime inicial.
+Já para transcender as Súmulas n. 282 e 356, STF, há a necessidade de indicar, pontualmente, os trechos do acórdão em que os dispositivos ditos violados foram objeto de debate.
+Confira-se: "A alegação genérica de prequestionamento não é suficiente para superar o óbice das Súmulas 211 do STJ e 282 do STF" (AgRg no AREsp n. 2.598.671/RS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/12/2024, DJEN de 20/12/2024.).
+No caso, o ora agravante transcreve o acórdão e traz a alegação genérica de que houve prequestionamento, o que não é suficiente ao conhecimento do agravo.
+Não fosse por isso, observa-se, para ilustrar, que, de fato, o recurso especial invoca violação ao art. 14, n. 7 do Pacto Internacional dos Direitos Civis e Políticos e art. 8, n. 4 da Convenção Americana de Direitos Humanos, na parcela atinente à alegação de insignificância, e ao princípio da proporcionalidade, no que toca ao regime inicial de cumprimento. Todavia, o acórdão não enfrentou essas matérias.
+Por fim, para superar a Súmula n. 7, STJ, não basta apontar que não há pretensão de reexaminar provas, mas, sim, demonstrar, destacando trechos do acórdão, que, a partir do cenário fático, a discussão é somente jurídica, o que não foi feito.
+A esse respeito:
+"A impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de sua inaplicabilidade, mas sim, mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça  .. ".
+(AgRg no AREsp n. 2.799.537/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.).
+Superado fosse o óbice, enquanto o acórdão, pra afastar a insignificância, reconheceu que houve prejuízo de R$ 600,00 (seiscentos reais) à vítima, o recurso especial sustentou que teria sido de apenas R$ 130,00 (cento e trinta reais).
+Para acolher a pretensão recursal, portanto, haveria a necessidade de infirmar o quadro fático admitido pelo Tribunal de origem, em providência que não encontra amparo na Súmula nº 7, STJ.
+Ante o exposto, não conheço do agravo em recurso especial (art. 253, parágrafo único, inciso I, do RISTJ).
+Publique-se. Intime-se.
+EMENTA
