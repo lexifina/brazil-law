@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 21/10/2025 a 27/10/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito civil. Recurso especial. Plano de saúde. Cláusula de aviso prévio de 60 dias. Abusividade. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação da operadora de plano de saúde, mantendo a sentença que declarou a rescisão contratual, a inexigibilidade de débito e determinou a devolução de valores pagos, além de reconhecer a abusividade da cláusula de aviso prévio de 60 dias após o pedido de cancelamento.
+II. Questão em discussão
+2. A questão em discussão consiste em: (i) saber se ocorreu violação dos arts. 421 e 422 do Código Civil por inobservância do princípio Pacta Sunt Servanda; (ii) saber se há divergência jurisprudencial apta a justificar o provimento do recurso especial.
+III. Razões de decidir
+4. A questão infraconstitucional relativa à violação dos arts. 421 e 422 do Código Civil não foi objeto de debate no acórdão recorrido, nem foram opostos embargos de declaração para provocar manifestação sobre o tema, atraindo a incidência da Súmula n. 282 do STF.
+5. A alegação de dissídio jurisprudencial não atende aos requisitos essenciais para sua comprovação, pois não houve o devido cotejo analítico entre os julgados, conforme exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+6. A utilização de acórdão paradigma do próprio Tribunal de origem para fundamentar o dissídio jurisprudencial atrai o óbice da Súmula n. 13 do STJ.
+IV. Dispositivo e tese
+7. Recurso especial não conhecido.
+Tese de julgamento: "1. A ausência de debate sobre a questão infraconstitucional no acórdão recorrido e a falta de embargos de declaração para suprir a omissão atraem a incidência da Súmula n. 282 do STF. 2. A comprovação de dissídio jurisprudencial exige o devido cotejo analítico entre os julgados, demonstrando a similitude fática e jurídica, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. 3. Acórdão paradigma do próprio Tribunal de origem não pode fundamentar alegação de dissídio jurisprudencial, conforme Súmula n. 13 do STJ."
+Dispositivos relevantes citados: CPC, art. 1.029, § 1º; RISTJ, art. 255, § 1º; Código Civil, arts. 421 e 422.
+Jurisprudência relevante citada: STF, Súmula n. 282; STJ, Súmula n. 13.
+RELATÓRIO
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação declaratória de inexigibilidade de débito com rescisão contratual e devolução de valor pago.
+O julgado foi assim ementado (fl. 441):
+DIREITO CIVIL. APELAÇÃO. PLANO DE SAÚDE. INEXIGIBILIDADE DE DÉBITO. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DA RÉ. I. Caso em Exame. 1. Autora ajuizou Ação Declaratória de Inexigibilidade de Débito com Rescisão Contratual e Devolução de Valor Pago contra a ré., alegando abusividade na cobrança de mensalidades após pedido de cancelamento do plano de saúde coletivo. A sentença declarou a rescisão contratual e a inexigibilidade do débito, determinando a devolução dos valores pagos. II. Questão em Discussão 2. A questão em discussão consiste em verificar a possibilidade de cobrança de aviso prévio de 60 dias pela operadora de saúde após pedido de cancelamento formalizado pela autora, em contrato de plano de saúde coletivo com características de "falso coletivo". III. Razões de Decidir 3. A relação entre as partes é de consumo, aplicando-se o Código de Defesa do Consumidor, que protege contra cláusulas abusivas e desproporcionais. 4. A nulidade do parágrafo único do art. 17 da RN 195/2009 da ANS, declarada em Ação Civil Pública, impede a cobrança de aviso prévio de 60 dias, sendo abusiva a exigência de pagamento das mensalidades nesse período. IV. Dispositivo e Tese 5. Recurso da ré a que se NEGA PROVIMENTO. Tese de julgamento: 1. A cobrança de aviso prévio de 60 dias em contratos de plano de saúde coletivo com características de "falso coletivo" é abusiva. 2. A nulidade do dispositivo normativo impede a exigência de pagamento das mensalidades nesse período. Legislação Citada: Código de Defesa do Consumidor, art. 2º, 3º, 51; Código Civil, art. 473. Jurisprudência Citada: STJ, REsp 1701600/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, j. 06.03.2018. TJSP, Apelação Cível 1133241-10.2024.8.26.0100, Rel. Angela Moreno Pacheco de Rezende Lopes, 10ª Câmara de Direito Privado, j. 31.01.2025. TJSP, Apelação Cível 1125036-26.2023.8.26.0100, Rel. Alcides Leopoldo, 4ª Câmara de Direito Privado, j. 14.05.2024.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 421 e 422 do Código Civil, porque o acórdão decidiu que não seria válida a cláusula de aviso prévio prevista no contrato celebrado entre as partes, violando o Pacta Sunt Servanda.
+Pondera que, apesar da revogação do parágrafo único do artigo 17 da RN 195/2009 pela Resolução Normativa n. 455/2020, o caput do artigo 17 permaneceu inalterado e foi replicado na RN n. 557/2022 como artigo 23, estabelecendo que as condições de rescisão do contrato ou de suspensão de cobertura devem constar do contrato celebrado entre as partes.
+Sustenta que o Tribunal de origem divergiu ao interpretar de forma diversa a legalidade da cláusula de aviso prévio, conforme acórdãos divergentes.
+Requer o provimento do recurso para reforme o acórdão recorrido, para que se reconheça a legalidade da cláusula de aviso prévio de 60 dias e a exigibilidade das mensalidades correspondentes ao período, bem como a redução da verba honorária recursal.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial é inadmissível por pretender reexame de provas, incidindo a Súmula n. 7 do STJ, e que a cobrança de aviso prévio de 60 dias é abusiva e nula em razão da Ação Civil Pública n. 0136265-83.2013.4.02.5101, da Resolução n. 455/2020 e da Resolução n. 557/2022 da ANS; sustenta ainda a manutenção da condenação e a majoração de honorários recursais, citando precedentes do TJSP que afastam a cobrança de aviso prévio (fls. 495-512).
+O recurso especial foi admitido (fls. 513-515).
+É o relatório.
+EMENTA
+Direito civil. Recurso especial. Plano de saúde. Cláusula de aviso prévio de 60 dias. Abusividade. Recurso não conhecido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento à apelação da operadora de plano de saúde, mantendo a sentença que declarou a rescisão contratual, a inexigibilidade de débito e determinou a devolução de valores pagos, além de reconhecer a abusividade da cláusula de aviso prévio de 60 dias após o pedido de cancelamento.
+II. Questão em discussão
+2. A questão em discussão consiste em: (i) saber se ocorreu violação dos arts. 421 e 422 do Código Civil por inobservância do princípio Pacta Sunt Servanda; (ii) saber se há divergência jurisprudencial apta a justificar o provimento do recurso especial.
+III. Razões de decidir
+4. A questão infraconstitucional relativa à violação dos arts. 421 e 422 do Código Civil não foi objeto de debate no acórdão recorrido, nem foram opostos embargos de declaração para provocar manifestação sobre o tema, atraindo a incidência da Súmula n. 282 do STF.
+5. A alegação de dissídio jurisprudencial não atende aos requisitos essenciais para sua comprovação, pois não houve o devido cotejo analítico entre os julgados, conforme exigido pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+6. A utilização de acórdão paradigma do próprio Tribunal de origem para fundamentar o dissídio jurisprudencial atrai o óbice da Súmula n. 13 do STJ.
+IV. Dispositivo e tese
+7. Recurso especial não conhecido.
+Tese de julgamento: "1. A ausência de debate sobre a questão infraconstitucional no acórdão recorrido e a falta de embargos de declaração para suprir a omissão atraem a incidência da Súmula n. 282 do STF. 2. A comprovação de dissídio jurisprudencial exige o devido cotejo analítico entre os julgados, demonstrando a similitude fática e jurídica, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. 3. Acórdão paradigma do próprio Tribunal de origem não pode fundamentar alegação de dissídio jurisprudencial, conforme Súmula n. 13 do STJ."
+Dispositivos relevantes citados: CPC, art. 1.029, § 1º; RISTJ, art. 255, § 1º; Código Civil, arts. 421 e 422.
+Jurisprudência relevante citada: STF, Súmula n. 282; STJ, Súmula n. 13.
+VOTO
+A controvérsia diz respeito à ação declaratória de inexigibilidade de débito com rescisão contratual e devolução de valor pago em que a parte autora pleiteou a declaração de rescisão contratual, a inexigibilidade das mensalidades cobradas após o pedido de cancelamento, e a devolução dos valores pagos, cujo valor da causa é de R$ 9.889,66.
+Na sentença, o Juízo de primeiro grau julgou procedente a ação para declarar a rescisão contratual e a inexigibilidade do débito, com devolução do valor pago; condenou a ré ao pagamento de custas e despesas processuais e fixou honorários advocatícios em 10% sobre o valor corrigido da causa (fls. 392-393).
+A Corte estadual negou provimento ao recurso de apelação da operadora, mantendo a sentença por seus próprios fundamentos; reconheceu a abusividade da cobrança de aviso prévio de 60 dias após o pedido de cancelamento e majorou os honorários advocatícios para 12% sobre o valor atualizado da causa. Destacou que a cláusula de aviso prévio de 60 dias, prevista no contrato, foi declarada nula pela Ação Civil Pública n. 0136265-83.2013.4.02.5101, movida pelo Procon/RJ contra a ANS e que a Resolução Normativa n. 455/2020 da ANS também revogou o parágrafo único do artigo 17 da RN 195/2009, confirmando a invalidação da cláusula de fidelidade (fls. 440-450).
+Verifica-se que a questão infraconstitucional relativa à violação dos arts. 421 e 422 do Código Civil não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+No tocante a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+E também a alegação de dissídio jurisprudencial baseada em acórdão paradigma do próprio Tribunal de origem, atrai a incidência do óbice da Súmula n. 13 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
