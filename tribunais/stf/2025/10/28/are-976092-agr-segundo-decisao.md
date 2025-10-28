@@ -1,0 +1,85 @@
+DECISÃO: Trata-se de agravo regimental interposto contra decisão que negou seguimento ao recurso extraordinário com agravo, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado:
+
+    “(...)
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem consignou que a controvérsia quanto à constitucionalidade da Lei Municipal nº 265/2002 fora solucionada por meio de incidente de arguição de inconstitucionalidade, no bojo da qual declarou-se a inconstitucionalidade da norma mencionada. Ato contínuo, registrou que a sentença de primeira grau se encontra devidamente alinhada ao precedente vinculante daquela Tribunal e que, portanto, a decisão apelada não merece reforma. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    ‘Consolidada que ficou no v. acórdão do C. Órgão Especial (fls. 1.103/1.109) a referida inconstitucionalidade da lei acima mencionada, impõe-se, agora, o julgamento das demais matérias.
+
+    (...)
+
+    Diante do acima exposto, bem como as deduzidas na r. sentença, precisas e concretas acerca da inconstitucionalidade da Lei 265, de 27 de dezembro de 2002, do município de Elisário, que autorizou o Poder Executivo Municipal a implantar pedágio na Rodovia Chafic Saab, no que pertencer ao município e deu outras providências, entendo não merecer reforma a r. sentença, diante de seus próprios fundamentos, pelos quais, registro, bem se examinou a questão controvertida, aqui expressamente adotados para forrar este julgamento, a teor do artigo 252 do Regimento Interno do Egrégio Tribunal de Justiça do Estado de São Paulo: nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver mantê-la’ (eDOC 6, p. 17-18)
+
+    O acórdão proferido no incidente de arguição de inconstitucionalidade mencionado, por sua vez, ressaltou expressamente a ofensa aos princípios da separação dos poderes e da isonomia, dada a interferência da norma, editada pelo Poder Legislativa, na política tarifária de concessões públicas; e tendo em vista a concessão de isenção desarrazoada para apenas uma parcela dos usuários do serviço e a finalidade clarividente de utilizar o pedágio como instrumento para inibir a utilização da via pela população. Nesse sentido, confira-se a ementa do julgado:
+
+    (...)
+
+    Verifica-se, assim, que o acórdão impugnado não destoa da jurisprudência do Supremo Tribunal Federal no que se refere à inconstitucionalidade material de normas que fixam a política tarifária de rodovias objeto de concessão pública de maneira diversa para diferentes tipos de usuários das vias concedidas, sem justifica razoável e em ofensa ao princípio da isonomia.
+
+    Nesse sentido, no julgamento da ADI 4.382, Rel. Min. Alexandre de Moraes, assentou-se a inconstitucionalidade de norma estadual de Santa Catarina que isentou do pagamento de pedágios veículos com placa daquele Estado, com fundamento na ofensa ao princípio da isonomia, ante o tratamento diverso dispensado a brasileiros de diferentes procedências nacionais. Eis a ementa deste julgado:
+
+    (...)
+
+    Ademais, o acórdão recorrido, proferido no âmbito de ação civil pública, não declarou a inconstitucionalidade da norma municipal, apenas aplicou o precedente vinculante de seu Órgão Especial que, em sede controle abstrato de constitucionalidade, entendeu pela inconstitucionalidade dos dispositivos em questão, mantendo a sentença proferida por seus próprios fundamentos.
+
+    Divergir de tal entendimento implicaria analisar a legislação infraconstitucional em questão (regimento interno do TJ) e analisar fatos e provas, o que é vedado em sede de recurso extraordinário.
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.” (eDOC 21/ID: 40486854, p. 2-8)
+
+    O agravante sustenta, em síntese, que a decisão  incorreu em equívoco ao considerar que o acórdão recorrido apenas aplicou precedente do Órgão Especial do Tribunal de Justiça de São Paulo, sem se pronunciar diretamente sobre a inconstitucionalidade da Lei Municipal 265/2002.
+
+    Alega que o precedente da ADI 4.382 foi mal aplicado, pois o artigo da lei municipal que previa a isenção de pedágio a veículos emplacados no município – dispositivo apontado como violador do princípio da isonomia – já havia sido revogado por legislação posterior, razão pela qual não se poderia justificar a declaração de inconstitucionalidade por arrastamento de toda a norma.
+
+    Em suas razões, aduz que “o precedente não se aplica ao caso em exame, no entanto. Com o devido respeito, a r. decisão agravada incorre no mesmo equívoco de análise de que padece o acórdão recorrido, qual seja, o de desconsiderar que o artigo 5º da lei municipal, aquele que estabelecia diferença de tratamento entre os usuários da rodovia – e que motivou a comparação entre este caso concreto e aquele versado na ADI 4382 –, já estava revogado por ocasião do julgamento de origem”. (eDOC 27/ID: f1ba7370, p. 8)
+
+    Afirma que “isso é importante de se ter presente neste recurso porque, ao analisar dispositivos da legislação local que em nada interfeririam na exploração do pedágio pela concessionária, o Tribunal local não poderia de forma alguma estender a declaração de inconstitucionalidade destes dispositivos selecionados para alcançar toda a lei. E não poderia pelo fato de que isso simplesmente inviabiliza a própria existência do projeto licitado, dado que a concessionária se remunera, como se sabe, única e exclusivamente a partir da sua exploração”. (eDOC 27/ID: f1ba7370, p. 11)
+
+    Reitera ainda que “acontece que a limitação do tráfego operada pela via do pedágio, além de não ser ela em si objeto de crítica na ação civil pública, é absolutamente constitucional, conforme prevê o artigo 150, inciso V. O Município acredita ter demonstrado, por essas razões, a diferença entre o caso presente e o resultado alcançado na ADI 4382”. (eDOC 27/ID: f1ba7370, p. 12)
+
+    Por fim, requer seja reconsiderada a decisão para dar provimento ao recurso interposto.
+
+    É o relatório.
+
+    Passo a decidir.
+
+    Após detida análise dos autos, reconsidero a decisão constante do eDOC 21, julgo prejudicado o agravo regimental e passo à nova análise do recurso extraordinário com agravo, interposto em face de acórdão assim ementado:
+
+    “Ação civil pública. Lei inconstitucional. Município de Elisiário. Inconstitucionalidade da Lei Municipal 265/2000 proclamado pelo C. Órgão Especial. Reconhecimento que ora se impõe, com análise dos demais pontos debatidos. Recursos e reexame necessário desprovidos” (eDOC 6, p. 15)
+
+    Noto que o acórdão aplicou, como fundamentação, as conclusões do Órgão Especial do Tribunal de Justiça de São Paulo em incidente de inconstitucionalidade, assim ementada:
+
+    “ARGUIÇÃO DE INCONSTITUCIONALIDADE — LEI Nº 265/2002 DO MUNICÍPIO DE ELISIÁRIO — NORMA QUE AUTORIZOU O PODER EXECUTIVO MUNICIPAL A "IMPLANTAR PEDÁGIO NA RODOVIA CHAFIC SAAB, NO QUE PERTENCER AO MUNICÍPIO E DEU OUTRAS PROVIDÉNCIAS" — DIVISIBILIDADE E ESPECIFICIDADE DO SERVIÇO PÚBLICO NÃO CARACTERIZADAS - GENERALIDADE DE APLICAÇÕES DA RECEITA - AFRONTA AOS ARTIGOS 145, Il, E 150, V, DA CONSTITUIÇÃO FEDERAL — VALOR DO PEDÁGIO DESDE LOGO FIXADO NA LEI E REAJUSTÁVEL CONFORME VALORES COBRADOS NAS RODOVIAS ESTADUAIS — INADMISSIBILIDADE — PREÇO A SER FIXADO PELO PODER EXECUTIVO COMPETENTE — ARTIGOS 120 E 159, PAR. ÚNICO, DA CONSTITUIÇÃO ESTADUAL - PREVISÃO DE ISENÇÃO PARA VEÍCULOS LICENCIADOS NO MUNICÍPIO DE ELISIÁRIO — CLARA FINALIDADE DE CONTENÇÃO DE TRÁFEGO LOCAL — AFRONTA AO PRINCÍPIO DA ISONOMIA - INCIDENTE DE INCONSTITUCIONALIDADE PROCEDENTE.” (eDOC 5, p. 207)
+
+    Como indicado em sede de agravo, o acórdão que julgou o incidente de inconstitucionalidade concluiu que a Lei n° 265, de 2002, do Município de Elisiário, seria integralmente inconstitucional. Todavia, a sua fundamentação, é baseada em três elementos: (i) a vinculação do reajuste de preço aos períodos e valores cobrados nas Estradas do Estado de São Paulo prevista no art. 4°, parágrafo único, em violação ao princípio da separação de poderes inscritos nos arts. 159, parágrafo único da Constituição do Estado; (ii) a isenção conferida pelo art. 5° aos veículos licenciados no Município de Elisário e às motocicletas, em violação ao princípio da isonomia; e (iii) a generalidade de aplicação da receita, conforme estabelecido no art. 8° da norma municipal, em razão da ausência de relação entre o valor da contraprestação tarifada e o custo do serviço público, o que feriria os arts. 145, II e 150, V, da Constituição Federal.
+
+    Inicialmente, registro que a técnica de declaração de inconstitucionalidade por arrastamento ocorre quando “a dependência ou interdependência normativa entre os dispositivos de uma lei pode justificar a extensão da declaração de inconstitucionalidade a dispositivos constitucionais mesmo nos casos em que estes não estejam incluídos no pedido inicial da ação”(MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de direito constitucional. 17. ed. São Paulo: SaraivaJur, 2022, p. 1.553).
+
+    No presente caso, entretanto, observo que os fundamentos da declaração de inconstitucionalidade restringem-se aos dispositivos acima mencionados, de modo que não teriam o condão de macular a constitucionalidade da norma como um todo. Com efeito,trata-se de caso em que se observa divisibilidade da norma, uma vez que os pontos impugnados nada impediriam o reconhecimento da constitucionalidade do estabelecimento da concessão de pedágio.
+
+    Conforme pude observar em sede doutrinária:
+
+    A doutrina e a jurisprudência brasileiras admitem plenamente a teoria da divisibilidade da lei, de modo que, tal como assente, o Tribunal somente deve proferir a inconstitucionalidade daquelas normas viciadas, não devendo estender o juízo de censura às outras partes da lei, salvo se elas não puderem subsistir de forma autônoma. (...) Faz -se mister, portanto, verificar se estão presentes as condições objetivas de divisibilidade. Para isso, impõe -se aferir o grau de dependência entre os dispositivos, isto é, examinar se as disposições estão em relação de vinculação que impediria a sua divisibilidade.
+
+    A norma ora analisada apresenta clara hipótese de divisibilidade. Para citar alguns exemplos, o art. 1° autoriza a criação da concessão, enquanto o art. 2° estabelece quem está sujeito à cobrança de pedágio e o art. 10 franqueia ao Poder Executivo a realização de concessão pública ao setor privado.
+
+    Ademais, a declaração da inconstitucionalidade da norma como um todo teria como efeito extinguir a concessão. A cobrança de pedágio no Município de Elisário ocorre desde 2007, e chegou a ser avalizada em sede cautelar pelo Supremo Tribunal Federal, por oportunidade de Suspensão de Liminar nº 153/SP.
+
+    Noto que o art. 150, V estabelece que a cobrança de pedágio pela utilização de vias conservadas pelo Poder Público é limitação legítima ao tráfego de pessoas ou bens. De fato, nesse sentido, noto que a Primeira Turma desta Corte já decidiu que “a cobrança de pedágio não caracteriza violação à liberdade de locomoção, sendo constitucional sua exigência, mesmo que inexistente via alternativa gratuita para deslocamento.” (RE 1551233 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 02.09.2025) Referido acórdão, ainda, reforça que é competência do Poder Concedente avaliar a razoabilidade e localização de praça de pedágio.
+
+    Assim, afora o indevido uso da técnica de arrastamento, noto que a declaração de inconstitucionalidade integral da norma iria na contra-mão da jurisprudência desta Corte, sendo compatível com a Constituição Federal brasileira a cobrança de pedágios municipais.
+
+    Ademais, não vislumbro vício de inconstitucionalidade formal que macularia o reconhecimento da constitucionalidade dos demais dispositivos.
+
+    Ante o exposto, reconsidero a decisão agravada (eDOC 21), julgo prejudicado o agravos regimental (eDOC 27) e dou parcial provimento ao recurso extraordinário para reformar o acórdão do Tribunal de origem e restringir a declaração de inconstitucionalidade aos arts. 4º, 5º e 8º, parágrafo único, da Lei Municipal 265/2002 de Elisário.
+
+    Publique-se.
+
+    Brasília, 28 de outubro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
