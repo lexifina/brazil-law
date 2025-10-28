@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 1.868-1.869):
+APELAÇÕES CÍVEIS. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE PROCEDÊNCIA. BANCO RÉU CONDENADO A INDENIZAR A SOCIEDADE AUTORA EM RELAÇÃO À VERBA HONORÁRIA SUCUMBENCIAL DIANTE DA RESCISÃO DO CONTRATO. RECURSOS DE AMBAS AS PARTES.
+(I) AUSÊNCIA DE DILATECIDADE RECURSAL AVENTADA EM CONTARRAZÕES. REJEIÇÃO. RAZÕES QUE POSSIBILITAM A COMPREENSÃO DOS MOTIVOS DO INCONFORMISMO DO APELANTE, COMO TAMBÉM SUA CORRELAÇÃO COM OS FUNDAMENTOS DA SENTENÇA.
+(II) RECURSO DO BANCO. SUSTENTADA A INCOMPETÊNCIA DO JUÍZO EM RAZÃO DE CLÁUSULA DE ELEIÇÃO DE FORO. PRETENDIDA A REMESSA DOS AUTOS PARA A COMARCA DE SÃO PAULO. REJEIÇÃO. DISPOSIÇÃO CONTRATUAL QUE PREJUDICA O DIREITO DE AÇÃO DO ESCRITÓRIO E NÃO INFLUI NEGATIVAMENTE NA AMPLA DEFESA DO BANCO. MANUTENÇÃO DA COMPETÊNCIA DO DOMICÍLIO DO ESCRITÓRIO DE ADVOCACIA, LOCAL DA PRESTAÇÃO DOS SERVIÇOS (ART. 53, III, "D", DO CPC).
+ALEGADA A EXISTÊNCIA DE OFENSA À COISA JULGADA E LITISPENDÊNCIA. VÍCIO NÃO VERIFICADO. PRETENSÃO AO RECEBIMENTO DE HONORÁRIOS SUCUMBENCIAIS FORMULADA EM LIDE PRETÉRITA NÃO ANALISADA, DADO O RESULTADO DA DEMANDA.
+TESES DE AUSÊNCIA DE INTERESE DE AGIR DO AUTOR E DE ILEGITIMIDADE PASSIVA. NÃO ACOLHIMENTO. REVOGAÇÃO DO MANDATO QUE AUTORIZA O ESCRITÓRIO A DEMANDAR AÇÃO AUTÔNOMA PARA PLEITEAR O PAGAMENTO DOS HONORÁRIOS SUCUMBENCIAIS DE QUE FOI PRIVADO.
+ALEGADA A OCORRÊNCIA DA PRESCRIÇÃO QUINQUENAL. REJEIÇÃO. PRAZO INTERROMPIDO COM O AJUIZAMENTO DA INTERPELAÇÃO JUDICIAL PROPOSTA PELO ESCRITÓRIO. LAPSO TEMPORAL NÃO TRANSCORRIDO. PREJUDICIAL AFASTADA.
+MÉRITO. ALMEJADO AFASTAMENTO DO DEVER DE INDENIZAR. TESE DE QUE A RESCISÃO FOI MOTIVADA PELO TÉRMINO DO CONTRATO LICITATÓRIO. ALEGAÇÃO DE QUE OS HONORÁRIOS SÓ SÃO DEVIDOS DURANTE O PERÍODO DE VIGÊNCIA DO CONTRATO. NÃO ACOLHIMENTO. PACTO QUE PREVIA, ALÉM DOS HONORÁRIOS CONTRATUAIS, REMUNERAÇÃO POR ÊXITO. ESCRITÓRIO QUE FICOU IMPEDIDO DE COBRAR A VERBA POR CONTA DA REVOGAÇÃO DO MANDATO ANTES DO ENCERRAMENTO DO PROCESSO. COMPENSAÇÃO PELA PERDA DA OPORTUNIDADE DEVIDA. PRECEDENTES DESTA CORTE RELATIVOS A OUTROS CONTRATOS FIRMADOS ENTRE AS PARTES. SENTENÇA MANTIDA.
+(III) PONTO COMUM DOS RECURSOS. BANCO QUE OBJETIVA A MINORAÇÃO DO VALOR FIXADO NA ORIGEM. AUTOR QUE BUSCA O AFASTAMENTO DO ARBITRAMENTO DA VERBA POR EQUIDADE E APLICAÇÃO DO TEMA 1.076 DO STJ. TESE DO BANCO ACOLHIDA. CRITÉRIO DA EQUIDADE QUE SE MOSTRA MAIS JUSTO DADAS AS PARTICULARIDADES DO CASO. REMUNERAÇÃO QUE DEVE SER PROPORCIONAL AO PERÍODO DA PRESTAÇÃO DO SERVIÇO E AO TRABALHO DESEMPENHADO, EM OBSERVÂNCIA À NATUREZA E IMPORTÂNCIA DA CAUSA. PRECEDENTE DESTA CÂMARA. INAPLICABILIDADE DO TEMA 1.076 DO STJ. CONDENAÇÃO QUE VISA REMUNERAR O EFETIVO TRABALHO DESEMPENHADO PELO ESCRITÓRIO QUE FOI IMPOSSIBILITADO DE PRESTAR DE FORMA INTEGRAL O SERVIÇO PARA O QUAL FOI CONTRATADO. CONDENAÇÃO DA QUANTIA EM SUA INTEGRALIDADE QUE RESULTARIA ENRIQUECIMENTO ILÍCITO. CASO CONCRETO QUE CONDUZ À REDUÇÃO DO VALOR FIXADO POR EQUIDADE NA ORIGEM. CONDENAÇÃO QUE DEVE OBSERVAR, PORTANTO, O ART. 85, §2º, I A IV E § 8º DO CPC. SENTENÇA REFORMADA NO PONTO.
+(IV) LITIGÂNCIA DE MÁ-FÉ SUSCITADA EM CONTRARRAZÕES. NÃO OCORRÊNCIA. ATUAÇÃO DOLOSA OU PREJUÍZO AO APELADO NÃO VERIFICADOS.
+RECURSO DO RÉU CONHECIDO E PROVIDO EM PARTE. RECURSO DO AUTOR NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 1.889-1.892).
+Nas razões do recurso especial (fls. 1.904-1.920), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou, além de dissídio jurisprudencial por divergência de interpretação jurisprudencial com relação ao tema repetitivo n. 1.076 do STJ, violação dos arts. 85, §§ 1º e 2º, 1.022, II, e parágrafo único, I, do CPC.
+Preliminarmente, destacou a relevância das questões de direito federal infraconstitucional discutidas na presente demanda.
+Apontou omissão quanto ao não enfrentamento pelo acórdão recorrido do tema repetitivo n. 1.076 do STJ.
+Discute a correta aplicação dos critérios legais na fixação dos honorários advocatícios em detrimento do referido tema, insurgindo-se contra o arbitramento, por equidade, em valor fixo, por não se enquadrar o caso em qualquer das hipóteses previstas no art. 85, § 8º, do CPC.
+Aduz que o valor da causa é certo e determinado e que não é muito baixo.
+Ao final, requer a reforma do acórdão impugnado, a fim de que a fixação dos honorários seja estabelecida em percentual sobre o valor atualizado da causa.
+Foram apresentadas contrarrazões (fls. 2.040-2.062).
+Juízo positivo de admissibilidade (fl. 2.064-2.066).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De início, quanto à apontada ofensa ao artigo 1.022 do CPC, não assiste razão à parte agravante que afirma existir omissão no acórdão recorrido porquanto não analisada a aplicação do tema repetitivo n. 1.076 do STJ.
+Contudo, não há omissão, pois o acórdão recorrido salientou que não é o caso de aplicação do referido tema 1.076 do STJ, uma vez que o que se pretende remunerar é o efetivo trabalho desempenhado pelo escritório que foi impossibilitado de prestar de forma integral o serviço para o qual foi contratado.
+Portanto, ao contrário do que alega a recorrente, não se verifica a omissão apontada.
+Em relação à alegada violação dos arts. 85, §§ 1º e 2º, do CPC, a par da divergência jurisprudencial, no que concerne ao arbitramento dos honorários advocatícios, o Tribunal local assim consignou (fls. 1.865-1.867):
+Essa Câmara tem entendimento de que como os honorários devem ser arbitrados de maneira proporcional ao período de prestação dos serviços, a aplicação do critério disposto no art. 85, § 8º, do CPC (apreciação por equidade) se mostra mais justa. Não se pode negar que o autor não conduziu a execução até o final.
+ ..
+Saliento não é o caso de aplicação do Tema 1.076 do STJ, uma vez que o que se pretende remunerar é o efetivo trabalho desempenhado pelo escritório que foi impossibilitado de prestar de forma integral o serviço para o qual foi contratado.
+ ..
+Em consulta a demanda originária (autos n. 0001396-98.2011.8.16.0068), vejo que a ação de execução por quantia certa, no valor de R$ 116.025,21, foi distribuída em 03/06/2011, perante a Vara Cível da Comarca de Chopinzinho/PR e que o escritório apresentou, além da inicial (ev. 1.8), petições intermediárias. O mandato foi revogado em 2016.
+Para a mensuração dos honorários por arbitramento judicial, adota-se como marco referencial o piso de R$ 4.000,00, previsto para a condução integral de "processo contencioso em geral, rito ordinário" pela Tabela da Ordem dos Advogados (Seccional de Santa Catarina), uma vez que não há disposição específica para as execuções (https://oabsc.s3.sa-east-1.amazonaws. com/arquivo/galeria/1_32_5fda513f040fc. pdf).
+Contudo, o julgador não deve deixar de se ater aos parâmetros já conhecidos: grau de zelo do profissional, local e tempo exigido para a prestação do serviço, natureza e importância da causa (art. 85, § 2º, I a IV, do CPC).
+Vale lembrar que o serviço não foi prestado integralmente e que, pelo apresentado nos autos, durante a atuação pouco foi exigido do patrono da causa.
+Em razão disso, a afasto a tese do autor, porquanto não é o caso de aplicação do Tema 1.076 do STJ e acolho o pedido subsidiário do banco.
+Desse modo, sopesados os critérios legais e o trabalho efetivamente desempenhado pelo escritório, entendo ser mais condizente a fixação da verba no valor de R$ 2.000,00, acrescido de correção monetária pelo INPC, a partir deste arbitramento, e juros de mora de 1% ao mês, a contar da citação.
+Dessa forma, o Tribunal a quo concluiu pela possibilidade de arbitramento dos honorários por equidade, tendo em vista que o serviço não foi prestado integralmente pelo escritório de advocacia que teve o mandato revogado.
+Nas razões do recurso especial, a parte restringiu-se a defender a impossibilidade de arbitramento dos honorários advocatícios por equidade. Em momento algum rebateu o fundamento do acórdão recorrido, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ademais, ainda que assim não o fosse, a Corte de origem fundamentou sua decisão quanto ao arbitramento dos honorários, em valor fixo, em premissas fáticas e probatórias, especialmente no contrato de prestação de serviços advocatícios firmado entre as partes.
+Nesse  contexto,  a  adoção  de  conclusões  diversas  daquela  a  que  chegou  a  instância  de  origem,  fundada,  primordialmente,  no  contrato  firmado  entre  as  partes  e  nos  serviços  advocatícios  efetivamente  prestados ,  implicaria  a  interpretação  de  cláusulas  contratuais  e  o  reexame  do  conjunto  fático-probatório  dos  autos,  medidas  inviáveis  em  recurso  especial,  em  face  das  Súmulas  n.  5  e  7  do  STJ.
+Para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários sucumbenciais fixados para 20% (vinte por cento) do valor arbitrado em favor da parte recorrida.
+Publique-se e intimem-se.
+EMENTA
