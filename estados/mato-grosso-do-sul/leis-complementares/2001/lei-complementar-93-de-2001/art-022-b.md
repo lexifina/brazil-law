@@ -1,0 +1,1 @@
+Art. 22-B. O Estado e a empresa beneficiária podem, a qualquer tempo, desde que antes do cancelamento de que trata o art. 22 desta Lei Complementar, pactuar a extinção do acordo ou do compromisso relativo a benefícios ou a incentivos fiscais, hipótese em que se aplicam as disposições do caput ou do parágrafo único do art. 22-A desta Lei Complementar, conforme o caso.

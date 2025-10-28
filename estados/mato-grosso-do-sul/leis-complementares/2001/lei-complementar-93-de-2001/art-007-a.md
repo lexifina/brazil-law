@@ -1,0 +1,1 @@
+Art. 7º-A. O valor da contribuição, apurado e devido ao Fundo Estadual Pró-Desenvolvimento Econômico (PRÓ-DESENVOLVE), deve ser recolhido ao Tesouro Estadual, na forma e no prazo estabelecidos em legislação específica.

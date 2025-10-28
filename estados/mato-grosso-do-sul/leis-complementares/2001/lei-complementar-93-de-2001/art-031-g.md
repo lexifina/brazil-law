@@ -1,0 +1,2 @@
+Art. 31-G. No caso de empresas interdependentes, em que uma ou mais sejam beneficiárias de incentivos ou de benefícios fiscais concedidos com base nesta Lei Complementar, a apuração do imposto, mediante a utilização desses incentivos ou benefícios fiscais, pode ser realizada de forma diferenciada, nos termos estabelecidos no regulamento ou em termo de acordo.
+Parágrafo único. Para efeito deste artigo, consideram-se interdependentes as empresas enquadradas nas disposições do inciso II do § 1º do art. 57-A da Lei nº 1.810, de 22 de dezembro de 1997.

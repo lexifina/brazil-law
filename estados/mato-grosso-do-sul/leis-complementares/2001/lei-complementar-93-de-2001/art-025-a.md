@@ -1,0 +1,1 @@
+Art. 25-A. Constituem receitas do FADEFE/MS os valores provenientes da contribuição a que se refere o art. 20-A, caput, e art. 20-B, caput, nos percentuais a que se refere o art. 27-A, todos desta Lei Complementar, incluídos os valores pecuniários resultantes de sua aplicação financeira.

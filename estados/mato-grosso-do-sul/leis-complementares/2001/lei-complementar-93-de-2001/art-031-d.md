@@ -1,0 +1,1 @@
+Art. 31-D. Em relação aos créditos tributários que venham a ser exigidos em decorrências da aplicação do disposto no inciso III do § 1º do art. 31-B, desta Lei Complementar, não se realiza a cientificação de que tratam o art. 117-A, caput, e o art. 228, § 3º, da Lei nº 1.810, de 22 de dezembro de 1997, no caso de constituição de ofício.

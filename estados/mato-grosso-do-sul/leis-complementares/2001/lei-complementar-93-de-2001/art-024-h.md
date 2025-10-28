@@ -1,0 +1,1 @@
+Art. 24-H. As receitas do PRÓ-DESENVOLVE, decorrentes do disposto nos arts. 24-F e 24-G desta Lei Complementar, relativamente ao período neles definidos, a critério do Poder Executivo, podem ser destinadas às atividades e às ações de que trata o parágrafo único da cláusula segunda do Convênio ICMS 42, de 3 de maio de 2016.

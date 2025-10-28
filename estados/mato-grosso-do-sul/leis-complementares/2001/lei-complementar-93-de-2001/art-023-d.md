@@ -1,0 +1,11 @@
+## Seção III
+## Da Inadimplência Quanto às Contribuições
+Art. 23-D. A falta de pagamento da contribuição a que se refere o inciso I do § 2º do art. 23-A e os arts. 24-C e 27-A desta Lei Complementar, na forma e no prazo estabelecidos, em relação a três períodos de apuração, consecutivos ou não, implica a suspensão, automática, do incentivo ou do benefício fiscal, por 12 (doze) meses consecutivos, observado o seguinte:
+I - caracterizada a inadimplência, a empresa será notificada para, no prazo de 20 (vinte) dias, prorrogável por igual período, realizar o pagamento ou o parcelamento da contribuição, nos termos da legislação;
+II - decorrido o prazo a que se refere o inciso I do caput deste artigo sem que a empresa beneficiária realize o pagamento do débito ou solicite o seu parcelamento, nos termos da legislação, o incentivo ou o benefício fiscal será automaticamente suspenso, com efeitos a contar do primeiro dia do mês no qual se encerra o prazo da notificação.
+§ 1º A empresa deve, durante o período de vigência da suspensão, realizar a apuração e o pagamento do ICMS sem a utilização de incentivo ou benefício fiscal cuja fruição esteja condicionada ao pagamento da referida contribuição.
+§ 2º Para efeito do disposto no caput deste artigo, considera-se como período de apuração, na determinação dos três períodos, consecutivos ou não, o mês de referência relativo a qualquer das contribuições a que se referem o caput deste artigo desta Lei Complementar, não pagas na data do seu vencimento.
+§ 3º Durante o período de suspensão, caso a empresa:
+I - regularize o débito referente a contribuição de que trata este artigo, o respectivo incentivo ou benefício fiscal será reativado, com efeitos a contar do primeiro dia do mês em que foi realizado o pagamento do débito;
+II - não realize o pagamento do débito referente à contribuição até o último dia do período de suspensão, o incentivo ou benefício fiscal será cancelado automaticamente.
+§ 4º O cancelamento do incentivo ou do benefício fiscal nos termos deste artigo impede, enquanto não regularizado o débito que o motivou, a concessão de novo incentivo ou benefício à respectiva empresa beneficiária, matriz e filiais, às empresas que ela faça parte na condição de sócia, bem como àquelas que pertençam ao seu grupo econômico.

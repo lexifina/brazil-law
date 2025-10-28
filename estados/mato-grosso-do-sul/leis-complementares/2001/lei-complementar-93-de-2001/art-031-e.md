@@ -1,0 +1,1 @@
+Art. 31-E. A condição estabelecida no art. 20-D desta Lei Complementar não impede a aplicação do disposto no convênio a ser celebrado com fundamento na Lei Complementar Federal nº 160, de 7 de agosto de 2017, em especial no § 4º do seu art. 3º, em relação aos respectivos incentivos ou benefícios fiscais.

@@ -1,0 +1,1 @@
+Art. 23-B. Os prazos estabelecidos em compromisso de obrigações recíprocas para a realização de investimentos fixos ou para o cumprimento de obrigações específicas a serem realizadas até uma data fixa, podem ser prorrogados, por até 24 (vinte e quatro) meses, uma única vez, mediante pedido justificado da empresa beneficiária.

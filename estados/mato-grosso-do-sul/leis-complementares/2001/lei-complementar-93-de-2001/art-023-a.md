@@ -1,0 +1,21 @@
+## CAPÍTULO VII-A
+## DO INADIMPLEMENTO DAS OBRIGAÇÕES
+## Seção I
+## Da Inadimplência Quanto às Condições e às Obrigações Socioeconômicas e Específicas
+Art. 23-A. Na atividade de acompanhamento e de controle dos benefícios ou dos incentivos fiscais, havendo indícios de que a empresa esteja inadimplente quanto às condições e às obrigações socioeconômicas e específicas pactuadas em compromisso de obrigações recíprocas, a autoridade competente deve intimar a empresa para, no prazo de 20 (vinte) dias, prorrogável por igual período, comprovar o cumprimento dessas condições e obrigações, observado o disposto no § 2º deste artigo.
+§ 1º O descumprimento da intimação ou a não comprovação de que trata o caput deste artigo, no prazo da intimação, implica a suspensão automática do incentivo ou do benefício fiscal, por 12 (doze) meses consecutivos, com efeitos a contar do primeiro dia do mês no qual se encerra o prazo da notificação, observado o disposto no § 2º deste artigo.
+§ 2º A partir de janeiro de 2023, a empresa beneficiária intimada para a comprovação de que trata o caput deste artigo, pode, se inadimplente, quanto ao ano calendário anterior ao da intimação:
+I - quanto às condições e às obrigações relativas a empregos diretos, montante de faturamento e obrigações específicas, cujo cumprimento seja estabelecido de forma contínua, optar por contribuir adicionalmente ao PRÓ-DESENVOLVE, mediante o pagamento de valor equivalente a 6% (seis por cento) do incentivo fruído em cada período de apuração, pelo período de 12 (doze) meses, contados do mês de janeiro do ano em que ocorrer a opção até dezembro do mesmo ano;
+II - quanto às condições e às obrigações relativas a investimentos e a obrigações específicas, definidas para serem realizadas até uma data fixa, solicitar a prorrogação de prazo a que se refere o art. 23-B desta Lei Complementar ou manifestar-se sobre o interesse em repactuar essas condições e obrigações com redução do respectivo incentivo ou benefício fiscal.
+º
+º
+§ 3º Na hipótese do inciso I do § 2º deste artigo, o adicional referente ao período compreendido entre janeiro do ano em que ocorrer a opção e o mês da opção deve ser acrescido de juros de mora e de multa moratória, nos mesmos termos e nos percentuais previstos nos arts. 285 e 120 da Lei nº 1.810, de 22 de dezembro de 1997, devendo ser pago ou parcelado, nos termos previstos no art. 32-A desta Lei Complementar, até o dia 10 (dez) do mês subsequente à opção.
+§ 4º Na hipótese da manifestação a que se refere o inciso II do § 2º deste artigo:
+I - o Estado, por intermédio da Secretaria de Estado de Fazenda, deve apresentar uma proposta de repactuação do incentivo ou do benefício fiscal à empresa, que deve se manifestar sobre a sua aceitação ou não, no prazo de 20 (vinte) dias, prorrogável por igual período, contado do recebimento da proposta;
+II - a não manifestação no prazo ou a não aceitação da repactuação a que se refere o inciso I deste parágrafo, implica a suspensão automática do incentivo ou do benefício fiscal, por 12 (doze) meses consecutivos.
+§ 5º Durante o período de suspensão, caso a empresa:
+I - opte pelo pagamento da contribuição adicional prevista no inciso I do § 2º do art. 23-A ou no art. 24-D desta Lei Complementar, observados os prazos neles previstos, o respectivo incentivo ou benefício fiscal será reativado com efeitos a contar do primeiro dia do mês da comprovação da regularização;
+II - não opte pelo pagamento da contribuição a que se refere o inciso I deste parágrafo, até o último dia do período de suspensão, o incentivo ou benefício fiscal será cancelado automaticamente.
+§ 6º Se a empresa contribuir adicionalmente ao PRÓ-DESENVOLVE, prorrogar os prazos ou repactuar as condições e as obrigações e o referido benefício ou incentivo nos termos previstos nos §§ 2º, 3º e 4º deste artigo, a empresa ficará dispensada do cumprimento das condições e obrigações relativas ao ano inadimplido.
+§ 7º Nos casos de inadimplência quanto ao pagamento do adicional a que se refere o inciso I do § 2º deste artigo, aplica-se o disposto no art. 23-D desta Lei Complementar.
+§ 8º A empresa deve, durante o período de vigência da suspensão, realizar a apuração e o pagamento do ICMS sem a utilização de incentivo ou de benefício fiscal.

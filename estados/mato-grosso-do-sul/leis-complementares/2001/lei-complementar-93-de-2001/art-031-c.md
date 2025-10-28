@@ -1,0 +1,1 @@
+Art. 31-C. A prorrogação a que se refere o art. 20-A desta Lei Complementar pode ser condicionada, ainda, nos termos estabelecidos em ato do Poder Executivo, a atendimentos de exigências previstas no convênio a ser celebrado com fundamento na Lei Complementar Federal nº 160, de 7 de agosto de 2017, ou destinadas a atender às disposições desta Lei Complementar.
