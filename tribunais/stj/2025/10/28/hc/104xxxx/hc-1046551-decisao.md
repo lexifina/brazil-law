@@ -1,0 +1,9 @@
+DECISÃO
+Pelo exame dos autos, o presente writ não comporta conhecimento.
+Isso porque o impetrante não se desincumbiu do ônus de instruir adequadamente o habeas corpus com a cópia dá decisão que decretou a prisão preventiva, bem como a cópia de movimentação processual junto ao Tribunal de Justiça do Paraná (ref. ao Habeas Corpus n. 0123159-85.2025.8.16.0000), peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado. Nesse sentido: AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019; e AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019.
+Sob esta moldura, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 2º, § 2º, DA LEI N. 12.850/2013, ART. 317, § 1º, C/C O ART. 317, § 1º, C/C O ART. 71, NA FORMA DO ART. 69, TODOS DO CP. PRISÃO PREVENTIVA. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. NEGATIVA DO RECURSO EM LIBERDADE. TESES DE EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO E ILEGALIDADE NA RENOVAÇÃO DA PERMANÊNCIA NO SISTEMA PENITENCIÁRIO FEDERAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. TEMA REFERENTE À RENOVAÇÃO DA PERMANÊNCIA NO SISTEMA PENITENCIÁRIO FEDERAL NÃO SUBMETIDO AO CRIVO DE ANÁLISE DO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
