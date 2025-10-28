@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravos apresentados por JOSÉ APARECIDO VILLA DE FARIAS e pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS) para impugnar as decisões que não admitiram os seus respectivos recursos especiais, interpostos com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ, fl. 668):
+PREVIDENCIÁRIO. PROCESSO CIVIL. CONCESSÃO. APOSENTADORIA ESPECIAL. APOSENTADORIA TEMPO DE CONTRIBUIÇÃO. TEMPO DE SERVIÇO ESPECIAL. RUÍDO. LÍQUIDOS INFLAMÁVEIS. PERICULOSIDADE. ENQUADRAMENTO PARCIAL. REQUISITOS NÃO PREENCHIDOS.
+- A sentença proferida no CPC vigente cuja condenação ou proveito econômico for inferior a 1.000 (mil) salários mínimos não se submete ao duplo grau de jurisdição.
+- Conjunto probatório suficiente para demonstrar parte da especialidade requerida, em razão da exposição habitual e permanente a ruído em níveis superiores aos limites de tolerância previstos nas normas regulamentares e da presença de periculosidade em razão do trabalho exercido no manuseio e transporte de líquidos inflamáveis, o que denota a potencialidade lesiva por conta do risco de explosão.
+- A parte autora não tem direito à aposentadoria especial (artigo 57 e parágrafos da Lei n. 8.213/1991), à aposentadoria por tempo de contribuição integral (CF/1988, artigo 201, § 7º, inciso I, com redação dada pela EC n. 20/1998) e nem à aposentadoria conforme os artigos 15, 16, 17 e 20 da EC n. 103/2019.
+- Ainda que admitida a reafirmação da DER, conforme tese firmada no Tema Repetitivo n. 995, do STJ (REsp n. 1.727.063/SP, 1.727.064/SP e 1.727.069/SP), não é o caso de deferimento do benefício postulado, porquanto não preenchido o requisito temporal.
+- Matéria preliminar arguida pelo INSS rejeitada. - Apelações das partes desprovidas.
+Os embargos de declaração opostos pelo INSS foram rejeitados (e-STJ, fls. 738-739).
+No seu recurso especial (e-STJ, fls. 681-694), o autor alegou violação dos arts. 57, caput, e 58, § 1º, da Lei nº 8.213/1991, sustentando que o acórdão recorrido deixou de reconhecer como especial o período que exerceu a atividade de motorista de caminhão, apesar de ter ficado exposto ao agente físico vibração acima dos limites de tolerância.
+Por sua vez, o INSS sustentou em seu recurso (e-STJ, fls. 741-755) afronta aos arts. 57, §§ 3º e 4º, e 58, caput e § 1º, da Lei n. 8.213/1991, sob o fundamento de impossibilidade de enquadramento como especial de atividades de risco (periculosidade) após a Lei 9.032/1995 e o Decreto 2.172/1997, que teriam limitado a especialidade à exposição a agentes químicos, físicos ou biológicos, e eliminado o enquadramento por categoria profissional e por periculosidade.
+Além disso, afirmou que teria sido violado o art. 1.022, II, do Código de Processo Civil, ao argumento de negativa de prestação jurisdicional. Finalmente, apontou a necessidade de sobrestamento pelo Tema 1.209 do Supremo Tribunal Federal, por tratar de aposentadoria especial com fundamento em periculosidade, invocando os arts. 1.030, III, e 1.037, II, do Código de Processo Civil e o art. 313, V, a, do mesmo diploma.
+As contrarrazões foram apresentadas pelo autor (e-STJ, fls. 777-780).
+Em seguida, a Vice-Presidência do TRF da 3ª Região não admitiu os recursos especiais (e-STJ, fls. 781-790), o que levou ambas as partes à interposição dos respectivos agravos (e-STJ, fls. 792-797 e 801-811).
+A contraminuta foi apresentada pelo autor (e-STJ, fls. 815-818).
+Brevemente relatado, decido.
+O art. 1.036 do CPC prevê que, sempre que houver multiplicidade de recursos extraordinários ou especiais com fundamento em idêntica questão de direito, haverá afetação para julgamento de acordo com as disposições desta Subseção, observado o disposto no Regimento Interno do Supremo Tribunal Federal e no do Superior Tribunal de Justiça.
+Nesse contexto, a Primeira Seção do Superior Tribunal de Justiça afetou o Tema repetitivo n. 1.307 para definir "se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995".
+Na oportunidade, determinou a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação nesta Corte Superior, observada a orientação prevista no art. 256-L do RISTJ.
+Confira-se:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. APOSENTADORIA ESPECIAL. MOTORISTA/COBRADOR DE ÔNIBUS OU MOTORISTA DE CAMINHÃO. AFETAÇÃO.
+1. A questão submetida ao Superior Tribunal de Justiça é definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995.
+2. Hipótese em que o apelo excepcional interposto é admissível e contém abrangente argumentação e discussão sobre o tema, havendo multiplicidade de recursos sobre o mesmo assunto, e foram atendidos os demais requisitos para a afetação.
+3. Tese controvertida: Definir se há possibilidade do reconhecimento da especialidade da atividade de motorista/cobrador de ônibus ou motorista de caminhão, por penosidade, após o advento da Lei n. 9.032/1995.
+4. Afetação do recurso especial como representativo de controvérsia repetitiva para julgamento pela Primeira Seção do Superior Tribunal de Justiça.
+(ProAfR no REsp n. 2.164.724/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 17/12/2024, DJEN de 10/2/2025.)
+Na hipótese dos autos, um dos recursos especiais traz questão relacionada ao reconhecimento como especial do período em que o autor laborou em atividade de motorista de caminhão, uma vez que teria ficado exposto ao agente físico vibração acima dos limites de tolerância.
+Logo, verifica-se que há identidade entre a matéria tratada nos autos e no referido tema repetitivo do Superior Tribunal de Justiça.
+Nessa esteira, em observância ao princípio da economia processual e ao art. 256-L do RISTJ, a seguir transcrito, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.307/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVOS EM RECURSOS ESPECIAIS. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. MOTORISTA/COBRADOR DE ÔNIBUS OU MOTORISTA DE CAMINHÃO. MATÉRIA AFETADA AO RITO DOS REC URSOS ESPECIAIS REPETITIVOS. TEMA N. 1.307/STJ. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
