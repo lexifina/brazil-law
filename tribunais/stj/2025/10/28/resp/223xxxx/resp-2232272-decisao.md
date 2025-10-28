@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 65):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. PASEP. ILEGITIMIDADE PASSIVA. ROL TAXATIVO DO ART. 1.015 DO CPC/15. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO. TESE DA TAXATIVIDADE MITIGADA INAPLICÁVEL NA HIPÓTESE. AUSÊNCIA DE RAZÕES A ENSEJAR A MODIFICAÇÃO DO DECISUM
+1) Trata-se de agravo interno interposto em face da decisão monocrática que não conheceu do recurso de Agravo de Instrumento da parte ré, interposto em face da decisão que rejeitou a preliminar de ilegitimidade passiva deduzida pelo agravante.
+2) A decisão monocrática, expressamente, consignou os motivos pelos quais o recurso de Agravo de Instrumento interposto pela parte ré, ora agravante, não foi conhecido, considerando a ausência de previsão expressa no art. 1.015 do CPC/2015, bem como, porque a questão debatida pela parte não comporta interpretação analógica ou mitigada, conforme decidido pelo egrégio STJ (Tema 988), uma vez que não possui o requisito da urgência, podendo ser analisada posteriormente, em sede de apelação ou em contrarrazões (art. 1.009, § 1º, do CPC).
+3) Diante desse contexto, não trazendo a parte agravante qualquer argumento novo capaz de modificar o entendimento adotado na decisão monocrática hostilizada, improcede o recurso interposto. Cumprida a regra do artigo 1021, § 3º, do Código de Processo Civil/2015, estando devidamente fundamentada a decisão, diante da inexistência de novos argumentos postos pela ora recorrente.
+AGRAVO INTERNO DESPROVIDO
+Nas razões recursais, o recorrente aponta violação ao art. 1.015 do CPC/2015.
+Sustenta o cabimento do agravo de instrumento como recurso cabível para impugnar decisão interlocutória que afasta preliminar de ilegitimidade passiva.
+Destaca que "o artigo 1.015 do Código de Processo Civil estabelece o rol taxativo das decisões interlocutórias agraváveis. No entanto, o Superior Tribunal de Justiça, ao julgar os Recursos Especiais nº 1.696.396/MT e 1.704.520/MT (Tema 988), firmou o entendimento de que a taxatividade do rol pode ser mitigada quando verificada a urgência decorrente da inutilidade superveniente do julgamento da questão no recurso de apelação" (e-STJ, fl. 73).
+Frisa que "a correta aplicação do artigo 1.015 do Código de Processo Civil, em consonância com o entendimento firmado no Tema 988 do STJ, impõe o conhecimento integral do Agravo de Instrumento interposto pelo Banco Recorrente, incluindo a análise da questão prejudicial de mérito relativa à ilegitimidade passiva, diante da urgência e relevância da matéria para o regular prosseguimento da demanda" (e-STJ, fl. 74).
+Sendo assim, requer o provimento do presente recurso especial.
+Contrarrazões às fls. 80-88 (e-STJ).
+Decisão de admissibilidade às fls. 89-92 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida no recurso especial, o Tribunal originário assim se manifestou (e-STJ, fls. 58-63):
+Eminentes Colegas. Trata-se, consoante sumário relatório, de agravo interno interposto em face da decisão monocrática que não conheceu do recurso de Agravo de Instrumento da parte ré, interposto em face da decisão que rejeitou a preliminar de ilegitimidade passiva deduzida pelo agravante.
+ ..
+A decisão monocrática proferida por este relator, que não conheceu do agravo de instrumento interposto pela parte autora é do seguinte teor, sic:
+ ..
+II - DECISÃO
+Trata-de de agravo de instrumento interposto em face da decisão proferida pelo juízo a quo que, nos autos da ação indenizatória por danos materiais e morais envolvendo alegação de má-gestão de conta vinculada ao PASEP, rejeitou a preliminar de ilegitimidade passiva deduzida pelo agravante.
+Com efeito, de acordo com o artigo 1.015 do Código de Processo Civil, não é permitida a interposição de agravo de instrumento acerca de questões estranhas ao rol taxativo previsto nos incisos do dispositivo invocado, in verbis:
+ ..
+Dessa forma, percebe-se que a matéria referente à ilegitimidade passiva não se encontra no rol taxativo.
+Não se desconhece a decisão tomada pelo Superior Tribunal de Justiça, no REsp. 1704520/MT, em que fixada tese de que o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação." Entretanto, a questão debatida pela parte não comporta interpretação analógica ou mitigada, conforme decidido pelo egrégio STJ (Tema 988), uma vez que não possui o requisito da urgência, podendo ser analisada posteriormente, em sede de apelação ou em contrarrazões (art. 1.009, § 1º, do CPC).
+ ..
+Nesse sentido, diante do não cabimento do agravo de instrumento, o presente recurso não merece ser conhecido, forte no disposto no artigo 932, inciso III, do CPC.
+Cumpre destacar que a decisão monocrática expressamente consignou os motivos pelos quais o recurso de Agravo de Instrumento interposto pela parte autora, ora agravante, não deveria ser conhecido, considerando a ausência de previsão expressa no art. 1.015 do CPC/2015.
+Da citada passagem, depreende-se que o Tribunal estadual entendeu ser indevida a interposição de agravo de instrumento como recurso cabível para impugnar decisão que rejeita preliminar de ilegitimidade passiva, considerando a ausência de urgência na questão tratada.
+Com efeito, verifica-se que o posicionamento adotado pela Corte local está em harmonia com a jurisprudência do STJ, a qual reconhece que a ilegitimidade passiva não está inserida no rol das hipóteses de cabimento do agravo de instrumento.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 11 e 489 DO CPC NÃO CONFIGURADA. ART. 1.015, II, DO CPC/2015. NÃO CABIMENTO.
+1. Não se verifica a apontada ofensa aos arts. 11 e 489 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que descabe interpor Agravo de Instrumento contra decisão interlocutória que versa sobre ilegitimidade passiva, pois essa matéria não faz parte do rol de hipóteses do artigo 1.015 do CPC/2015. Nesse sentido: AgInt no AREsp 1.063.181/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/9/2019.
+3. Além disso, vale destacar que a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.704.520/MT (Rel. Ministra NANCY ANDRIGHI, DJe de 19/12/2018), submetido ao rito do art. 1.036 do CPC/2015, firmou tese no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (Tema 988).
+4. Na hipótese, o Tribunal de origem consignou que "a questão aqui discutida não implica, em especial, em urgência na apreciação" (fl. 324, e-STJ). Assim, observa-se que o reexame do acórdão recorrido, em confronto com as razões do Recurso Especial, encontra óbice na Súmula 7 do STJ.
+5. Por fim, a apontada divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.989.620/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/4/2022, DJe de 25/4/2022.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PASEP. ILEGITIMIDADE PASSIVA. CABIMENTO DE AGRAVO DE INSTRUMENTO. ROL TAXATIVO DO ART. 1.015 DO CPC/2015. NÃO CABIMENTO. RECURSO ESPECIAL DESPROVIDO.
