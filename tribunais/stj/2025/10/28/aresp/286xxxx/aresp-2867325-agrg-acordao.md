@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar sem mandado judicial. Flagrante delito. Legalidade das provas obtidas. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, reconhecendo a legalidade do ingresso domiciliar realizado por policiais sem mandado judicial, em contexto de flagrante delito.
+2. O recorrente sustenta a ilegalidade do ingresso domiciliar e, consequentemente, a nulidade das provas obtidas na diligência policial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o ingresso domiciliar realizado por policiais sem mandado judicial, em razão de denúncia anônima e percepção de odor de entorpecentes, configura situação de flagrante delito apta a justificar a mitigação da proteção constitucional à inviolabilidade do domicílio.
+III. Razões de decidir
+4. A entrada forçada em domicílio sem mandado judicial é legítima quando amparada em fundadas razões que indiquem a ocorrência de flagrante delito, conforme entendimento consolidado pelo Supremo Tribunal Federal no RE 603.616/RO (Tema 280).
+5. No caso concreto, o ingresso domiciliar foi precedido de denúncia anônima indicando a prática de tráfico de drogas e da constatação de forte odor de entorpecentes nas imediações do imóvel, elementos suficientes para caracterizar justa causa e flagrante delito.
+6. O crime de tráfico de drogas, na modalidade "guardar" ou "ter em depósito", é considerado permanente, permitindo a intervenção policial sem necessidade de mandado judicial enquanto perdurar a situação de flagrância.
+7. A atuação policial mostrou-se alinhada aos parâmetros estabelecidos pelo STF e pela jurisprudência do STJ, não havendo ilicitude nas provas obtidas na diligência.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem a ocorrência de flagrante delito, devidamente justificadas a posteriori.
+2. O crime de tráfico de drogas, na modalidade "guardar" ou "ter em depósito", configura crime permanente, permitindo a intervenção policial sem necessidade de mandado judicial enquanto perdurar a situação de flagrância.
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; CPP, arts. 244 e 303.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, AgRg no AREsp 2.419.773/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2024; STJ, HC 830780/SE, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 05.11.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS NASCIMENTO DOS SANTOS contra decisão da minha relatoria que conheceu do agravo para negar provimento ao recurso especial interposto.
+A decisão, em síntese, negou provimento ao recurso especial interposto por reconhecer a legalidade da medida de ingresso domiciliar adotada pelos policiais, conforme fls. 503-506.
+Neste agravo regimental, o insurgente, além de repisar as razões do recurso especial, aduz ter infirmado todos os fundamentos da decisão agravada, e requer, ao final, a reconsideração para que seja provido o recurso especial, ou, subsidiariamente, o encaminhamento dos autos ao Colegiado para a análise da matéria.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar sem mandado judicial. Flagrante delito. Legalidade das provas obtidas. Agravo regimental desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento ao recurso especial, reconhecendo a legalidade do ingresso domiciliar realizado por policiais sem mandado judicial, em contexto de flagrante delito.
+2. O recorrente sustenta a ilegalidade do ingresso domiciliar e, consequentemente, a nulidade das provas obtidas na diligência policial.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o ingresso domiciliar realizado por policiais sem mandado judicial, em razão de denúncia anônima e percepção de odor de entorpecentes, configura situação de flagrante delito apta a justificar a mitigação da proteção constitucional à inviolabilidade do domicílio.
+III. Razões de decidir
+4. A entrada forçada em domicílio sem mandado judicial é legítima quando amparada em fundadas razões que indiquem a ocorrência de flagrante delito, conforme entendimento consolidado pelo Supremo Tribunal Federal no RE 603.616/RO (Tema 280).
+5. No caso concreto, o ingresso domiciliar foi precedido de denúncia anônima indicando a prática de tráfico de drogas e da constatação de forte odor de entorpecentes nas imediações do imóvel, elementos suficientes para caracterizar justa causa e flagrante delito.
+6. O crime de tráfico de drogas, na modalidade "guardar" ou "ter em depósito", é considerado permanente, permitindo a intervenção policial sem necessidade de mandado judicial enquanto perdurar a situação de flagrância.
+7. A atuação policial mostrou-se alinhada aos parâmetros estabelecidos pelo STF e pela jurisprudência do STJ, não havendo ilicitude nas provas obtidas na diligência.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. A entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões que indiquem a ocorrência de flagrante delito, devidamente justificadas a posteriori.
+2. O crime de tráfico de drogas, na modalidade "guardar" ou "ter em depósito", configura crime permanente, permitindo a intervenção policial sem necessidade de mandado judicial enquanto perdurar a situação de flagrância.
+Dispositivos relevantes citados: CF/1988, art. 5º, XI; CPP, arts. 244 e 303.
+Jurisprudência relevante citada: STF, RE 603.616/RO, Rel. Min. Gilmar Mendes, Plenário, julgado em 05.11.2015; STJ, AgRg no AREsp 2.419.773/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26.02.2024; STJ, HC 830780/SE, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 05.11.2024.
+VOTO
+Presentes  os  requisitos  de  admissibilidade  do  regimental,  passo  à  análise  do recurso, adiantando, desde já, que a irresignação  não  prospera.
+Isso porque o regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão impugnada por seus próprios fundamentos.
+Nesse compasso, não obstante o teor das razões suscitadas no recurso, não vislumbro elementos hábeis a alterar a decisão recorrida. Ao contrário, os argumentos ali externados merecem ser ratificados.
+O recorrente sustenta a ocorrência de ilegalidade no ingresso domiciliar realizado pelos policiais.
+Em relação à licitude do ingresso policial no domicílio do acusado sem mandado judicial e, por consequência, da validade das provas ali obtidas, consignou o Tribunal de Justiça (fls. 402-403):
+"No caso concreto, verifica-se que o fato de Policiais Militares terem adentrado na residência do acusado, para ali realizarem buscas e arrecadarem provas, não tem o condão de inquinar o feito.
+Segundo restou demonstrado nestes autos, no dia 21/08/2023 , "(..) a Polícia Militar recebeu informações de um indivíduo, o qual optou pelo anonimato, indicando a pratica de tráfico de drogas o endereço supracitado. Segundo noticiado pelo informante, um indivíduo de alcunha "Pit Bull" estaria guardando e comercializando drogas e armas na sua casa (..)" (sic, f. 01, doc. de ordem 2).
+Assim, de posse das informações repassadas pelo denunciante, os Agentes Policiais realizaram um "cerco" no imóvel indicado na denúncia anônima e perceberam, naquele logradouro, um forte odor de drogas. Nesse sentido, confira-se o seguinte excerto do depoimento extrajudicial do Policial Militar MAXIMIANO SILVA DUARTE:
+"(..) segundo as informações, um indivíduo de alcunha PIT BULL estaria comercializando e guardando drogas e armas em sua residência, localizada na Rua Pouso Alegre, nº 358 no Centro, local em que há virias moradias no mesmo número; QUE, os policiais militares, em posse das informações e por já conhecer o local devido a intensa traficância, planejou operação policial (..) que os militares deslocaram-se até o local e posicionaram-se nas imediações da última residência, momento que já foi possível perceber intenso odor de entorpecentes pela grade da residência do indivíduo denunciado (..)" (sic, f. 01, doc. de ordem 4)
+Dessa forma, em virtude das circunstâncias acima declinadas, entende-se que já preexistia situação fático-jurídica apta a justificar o ingresso dos Agentes Públicos na residência réu, com ou sem autorização, porque contra ele recaía denúncia anônima e, nas imediações de sua residência, havia, segundo relatos dos Agentes Públicos, "forte odor de entorpecentes".
+Ademais, sabe-se que o crime de tráfico de drogas é considerado como permanente, isto é, sua consumação se protrai no tempo, permanecendo o agente em constante estado de flagrância, situação que autoriza a pronta e imediata intervenção Policial, mesmo que sem mandado de busca e apreensão."
+Da análise detida do acórdão impugnado, observa-se que o Tribunal de origem assentou que a entrada dos policiais no domicílio do recorrente ocorreu em contexto que justificava a mitigação da proteção constitucional à inviolabilidade do domicílio.
+Esta Corte Superior firmou entendimento no sentido de que a entrada forçada em domicílio sem mandado judicial é legítima quando amparada em fundadas razões que indiquem que, dentro da casa, ocorre situação de flagrante delito.
+No caso em exame, verifica-se que o ingresso no domicílio foi precedido de elementos indiciários suficientes para caracterizar a justa causa exigida pelo ordenamento jurídico, notadamente a denúncia de que no local estaria ocorrendo tráfico, bem como o forte odor de entorpecentes.
+O Supremo Tribunal Federal, ao julgar o RE 603.616/RO, com repercussão geral reconhecida (Tema 280), fixou a tese de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+No caso concreto, portanto, a atuação policial mostrou-se alinhada com os parâmetros estabelecidos pelo Supremo Tribunal Federal, tendo a entrada no imóvel sido motivada por denúncia prévia que indicava a ocorrência de crime no local, bem como o odor de de entorpecentes.
+Ademais, há precedentes nesta Corte Superior validando o ingresso em domicílio em circunstâncias semelhantes:
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. NULIDADE DE DEPOIMENTO INQUISITORIAL DE MENOR NA AUSÊNCIA DE CURADOR. PREJUÍZO NÃO DEMONSTRADO. INGRESSO EM DOMICÍLIO. FUNDADAS RAZÕES. DENÚNCIA ANÔNIMA. DILIGÊNCIAS. FORTE ODOR. CAUSA DE AUMENTO PREVISTA NO ART. 40, VI, DA LEI 11.343/2006. PROVA DA IDADE ATRAVÉS DE DADOS OBTIDOS DO DOCUMENTO DE IDENTIDADE. RESTITUIÇÃO DE BENS NEGADA. VINCULAÇÃO AO TRÁFICO. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que manteve a condenação do recorrente pelo crime de tráfico de drogas, visando à nulidade das provas e à absolvição ou o afastamento da causa de aumento prevista no art. 40, VI, da Lei n. 11.343/2006.
+II. Questões em discussão 2. As questões em discussão consistem em a analisar: (i) a validade do ingresso em domicílio; (ii) se a oitiva de menor na fase inquisitorial sem a presença de curador configura nulidade;(iii) a comprovação da causa de aumento prevista no art. 40,VI, da Lei n 11.343/2006; (iv) se é cabível a restituição dos bens.
+III. Das razões de decidir 3. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal.
+4. A tese de ausência de fundamentação para a fixação da pena-base acima do mínimo legal não foi objeto de análise pelo Tribunal, o que inviabiliza o conhecimento do recurso especial no ponto por ausência de prequestionamento, ante a incidência da Súmula n. 282/STF.
+5. Nos termos da jurisprudência do Superior Tribunal de Justiça, "eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal.
+6. No caso, a condenação do recorrente foi lastreada em outros elementos probatórios colhidos ao longo da instrução criminal, dentre eles os depoimentos dos policiais, inclusive ratificados por ocasião do julgamento do recurso de apelação, o que reforça a impossibilidade de reconhecimento de eventual irregularidade ocorrida no inquérito policial, por força da ausência de prejuízo e da preclusão.
+7. A jurisprudência do STJ firmou o entendimento de que a entrada forçada em domicílio sem mandado judicial só é lícita, quando amparada em fundadas razões, devidamente justificadas que indiquem que dentro da casa ocorre situação de flagrante delito.
+8. O Tribunal de origem considerou que havia justa causa para a entrada no domicílio, com base em denúncia anônima e constatação de odor de drogas, alinhando-se à jurisprudência que admite a busca domiciliar em tais circunstâncias.
+9. Para entender-se pela absolvição do recorrente, por ausência de materialidade, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+10. Mantida a causa de aumento do art. 40, VI, da Lei n. 11.343/2006, porquanto ficou consignado na origem que a prova da idade se baseou em dados indicativos do documento de identidade do menor.
+11. O Supremo Tribunal Federal, ao julgar o RE n. 638.491/PR sob a temática da repercussão geral (Tema 647), fixou a tese de que "É possível o confisco de todo e qualquer bem de valor econômico apreendido em decorrência do tráfico de drogas, sem a necessidade de se perquirir a habitualidade, reiteração do uso do bem para tal finalidade, a sua modificação para dificultar a descoberta do local do acondicionamento da droga ou qualquer outro requisito além daqueles previstos expressamente no artigo 243, parágrafo único, da Constituição Federal." (Rel. Ministro Luiz Fux, Tribunal Pleno, DJ 23/8/2017)" (AgRg no AREsp n. 2.419.773/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2024).
+12. A alteração da conclusão manifestada no acórdão recorrido, de que não estão presentes os requisitos necessários para a restituição dos bens à recorrente, demandaria o reexame dos elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, ante a incidência do óbice da Súmula 7/STJ.
+IV. Dispositivo e tese
+13. Recurso especial parcialmente conhecido, e nesta parte, desprovido.
+(REsp n. 2.014.038/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.)
+Importante destacar, ainda, que o tráfico de drogas, na modalidade "guardar" ou "ter em depósito", configura crime permanente, cuja consumação se protrai no tempo, permitindo a prisão em flagrante enquanto não cessar a permanência, independentemente
+de autorização judicial.
+A propósito:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. INGRESSO DOMICILIAR SEM MANDADO . CRIME PERMANENTE. JUSTA CAUSA. FLAGRANTE DELITO. ORDEM DENEGADA . I. CASO EM EXAME1. Habeas corpus impetrado em favor de paciente condenada por tráfico de drogas e posse
+ilegal de arma de fogo. A defesa alega ilicitude das provas obtidas em revista domiciliar sem mandado judicial e sem justa causa. II. QUESTÃO EM DISCUSSÃO2. A questão em discussão consiste na validade do ingresso domiciliar sem mandado judicial, baseado em fundadas razões de flagrante delito. III . RAZÕES DE DECIDIR3. O Supremo Tribunal Federal, no RE 603.616/RO, estabeleceu que o ingresso sem mandado é lícito quando há fundadas razões de flagrante delito, devidamente justificadas a posteriori. 4 . O Superior Tribunal de Justiça reafirmou a necessidade de fundadas razões para ingresso domiciliar sem mandado, considerando a natureza permanente do crime de tráfico de drogas. 5. No caso concreto, a existência de fundadas suspeitas foi demonstrada, porquanto os policiais civis, no curso das investigações de um crime de homicídio, cujo corréu era um dos suspeitos, conseguiram visualizá-lo na companhia da paciente, em uma motocicleta, quando perceberam que havia uma arma de fogo em sua cintura, tendo sido essa a motivação da abordagem realizada na ocasião. Além da arma de fogo encontrada com o corréu, foram encontradas drogas (0,1g de cocaína e 19,8 g de maconha) e uma arma de fogo dentro da mochila que estava com a paciente Após os agentes dirigiram-se ao domicílio da ré, a qual autorizou a entrada na residência, justificando a busca domiciliar e afastando a alegação de ilicitude das provas. IV. ORDEM DE HABEAS CORPUS DENEGADA." (STJ - HC: 830780 SE 2023/0202883-2, Relator.: Ministra DANIELA TEIXEIRA, Data de Julgamento: , T5 -05/11/2024 QUINTA TURMA, Data de Publicação: 11/11/2024 DJe )
+Assim, não há falar em ilicitude das provas obtidas na diligência policial, tendo sido observados os requisitos legais para o ingresso no domicílio do recorrente, em consonância com os arts. 5º, XI, da Constituição da República, 244 e 303 do Código de Processo Penal.
+Não tendo, portanto, a parte recorrente agregado novos argumentos que justifiquem a adoção de solução diversa daquela implementada na decisão monocrática, ora recorrida, sua manutenção revela-se adequada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
