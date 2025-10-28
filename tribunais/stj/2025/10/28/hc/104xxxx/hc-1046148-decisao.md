@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de LUIS AUGUSTO MOTTA LIMA - pronunciado por homicídio qualificado -, atacando-se o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul (fls. 53/60 - RESE n. 5003199-85.2025.8.21.0008), não comporta processamento.
+Com efeito, busca a impetração afastar a qualificadora do motivo torpe e suspender o processo até o julgamento do writ - referente à pronúncia proferida na Ação Penal n. 5000133-83.2014.8.21.0008 (fls. 754/758), da 1ª Vara Criminal da comarca de Canoas/RS -, sustentando manifesta improcedência do motivo torpe por se tratar de circunstância de caráter pessoal não comunicável ao paciente (fls. 4/6).
+Ocorre que, além de se tratar de impetração indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito, não se verifica a ocorrência do constrangimento ilegal, pois o Tribunal estadual, no julgamento do recurso em sentido estrito, manteve a qualificadora de motivo torpe - ao fundamento de que as qualificadoras somente podem ser excluídas quando manifestamente improcedentes, o que não ocorre no caso, pois o fato estaria supostamente ligado ao descontentamento do réu David, em razão da vítima ter se relacionado com a mesma mulher que o acusado (fl. 58) -, em consonância com o entendimento desta Corte Superior, para o qual desconstituir o entendimento firmado pelo Tribunal de origem e decidir pelo decote de qualificadora, seria necessário o revolvimento do conjunto fático-probatório (AgRg no REsp n. 1.940.835/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 24/4/2025).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Pu blique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. QUALIFICADORA. AFASTAMENTO APENAS SE MANIFESTAMENTE IMPROCEDENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
