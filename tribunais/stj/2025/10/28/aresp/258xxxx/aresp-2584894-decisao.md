@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por Adelcio Bispo dos Santos de Souza contra decisão que não admitiu recurso especial manejado, com base na alínea "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fls. 184-187):
+ARRENDAMENTO MERCANTIL - REVISÃO CONTRATUAL - REPETIÇÃO DE INDÉBITO - Invalidade das cobranças dos "serviços de terceiros" (ausente a especificação dos serviços prestados), "inserção de gravame" e da "tarifa de cadastro" - Cabível a restituição dos valores indevidamente pagos - SENTENÇA DE PROCEDÊNCIA, para condenar a Requerida à restituição dos valores de R$ 1.308,00 ("serviços prestados pelo correspondente da arrendadora"), R$ 37,82 ("inserção de gravame") e R$ 450,00 ("tarifa de cadastro") - Pedido de revisão de contrato bancário sujeito ao prazo prescricional decenal (artigo 205 do Código Civil), que é contado desde a celebração - Caracterizada a prescrição - RECURSO (APELAÇÃO) DA REQUERIDA PROVIDO, PARA JULGAR EXTINTO O PROCESSO, COM FULCRO NO ARTIGO 487, INCISO II, DO CÓDIGO DE PROCESSO CIVIL E RECURSO (ADESIVO) DO AUTOR NÃO CONHECIDO, PORQUE PREJUDICADO
+Os embargos de declaração opostos pelo Adelcio Bispo dos Santos de Souza foram rejeitados (fls. 193-195).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 189 do Código Civil e o art. 205 do Código Civil.
+Sustenta que, quanto ao termo inicial da prescrição para revisão de tarifas inseridas em contrato de arrendamento mercantil, deve-se aplicar a regra do art. 189 do Código Civil, de modo que, tratando-se de obrigação de trato sucessivo, a contagem se iniciaria no vencimento da última parcela, e não na celebração do contrato. Afirma que o contrato foi firmado em 19/6/2009, com previsão de 48 parcelas, vencendo a última em 19/6/2013, e a ação foi proposta em 30/11/2021, o que afastaria a prescrição decenal (fl. 204).
+Defende, ainda, que não incide a Súmula 7/STJ, pois a matéria discutida é exclusivamente de direito, dispensando reexame de provas (fls. 204-205).
+Registra, por fim, a existência de divergência jurisprudencial, apontando como paradigma entendimento desta Corte sobre o termo inicial da prescrição em contratos com prestações sucessivas, no sentido de que deve ocorrer no vencimento da última parcela (fls. 201-203).
+Contrarrazões às fls. 217-218, na qual a parte recorrida alega que não houve prática de ato ilícito, que a pretensão é reformar o acórdão e que está correta a declaração de prescrição, pugnando pelo não provimento do recurso.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Decorreu o prazo sem apresentação de impugnação (fl. 239).
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não deve prosperar.
+Originariamente, trata-se de ação de revisão contratual cumulada com restituição de valores pagos, na qual o Autor requereu a devolução das tarifas denominadas "serviços de terceiros", "inserção de gravame" e "tarifa de cadastro", sob a alegação de abusividade.
+A sentença julgou procedentes os pedidos, condenando a Requerida a restituir R$ 1.308,00 (um mil trezentos e oito reais) a título de "serviços prestados pelo correspondente da arrendadora", R$ 37,82 (trinta e sete reais e oitenta e dois centavos) pela "inserção de gravame" e R$ 450,00 (quatrocentos e cinquenta reais) relativos à "tarifa de cadastro", com correção desde os desembolsos e juros de 1% (um por cento) ao mês desde a citação, além de custas e honorários fixados em 10% (dez por cento) do valor da condenação.
+O Tribunal de origem deu provimento à apelação da Requerida para reconhecer a prescrição da pretensão revisional sob o fundamento de que, nas ações de revisão de contrato bancário em que se discute a legalidade de cláusulas pactuadas, o prazo decenal conta-se da data da assinatura do contrato, e não do vencimento da última parcela, citando precedente desta Corte, e, por conseguinte, extinguiu o processo com resolução de mérito e não conheceu do recurso adesivo do Autor. Os embargos de declaração foram rejeitados.
+Não há que se falar em violação aos artigos 189 e 205, do CC. O prazo prescricional, em ações como a em tela, é decenal, contado a partir da assinatura do contrato.
+A instância de origem, então, agiu em estrita conformidade com o entendimento desta Corte, o que atrai a incidência da Súmula 83/STJ. Nesse sentido: " o  recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ" (AgInt no AREsp n. 2.020.707/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Não há divergência a ser pacificada.
+A dar amparo, veja-se:
+DIREITO CIVIL. AGRAVO INTERNO. PRESCRIÇÃO DECENAL EM AÇÕES REVISIONAIS DE CONTRATO BANCÁRIO. AGRAVO INTERNO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por instituição financeira contra decisão que negou seguimento ao agravo em recurso especial, em face de acórdão do Tribunal de Justiça da Paraíba que aplicou o prazo prescricional decenal para ações revisionais de contrato bancário.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o prazo prescricional aplicável às ações de revisão de contrato bancário, que buscam a restituição de valores pagos indevidamente, é decenal ou trienal, conforme alegado pela parte agravante.
+III. Razões de decidir
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o prazo prescricional decenal é aplicável às ações de revisão de contrato bancário, tendo como termo inicial a data da assinatura do contrato.
+4. A decisão recorrida está em conformidade com a Súmula 83 do STJ, que impede o conhecimento do recurso especial pela divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+5. A argumentação apresentada pela parte agravante não evidencia inadequação dos fundamentos invocados pela decisão agravada, não sendo apta a alterar o conteúdo do julgado impugnado.
+IV. Dispositivo 6. Agravo interno não provido. (AgInt no AREsp n. 2.668.755/PB, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 5/5/2025, DJEN de 8/5/2025.) (grifou-se)
+Inclusive, examinando as razões do especial juntadas aos autos , verifica-se que o recorrente relata a tese de trato sucessivo e reproduz ementas e conclusões de julgados, mas não realiza o cotejo analítico exigido, com transcrição de trechos dos paradigmas aptos a evidenciar, de modo específico, a similitude fática e a divergência de soluções jurídicas em relação ao acórdão recorrido.
+A argumentação é deficiente pois concentrou-se em afirmar a existência de entendimento diverso e em contrapor, em linhas gerais, ementas e conclusões, sem, contudo, individualizar os pontos de conformação fática e proceder ao confronto preciso entre os casos.
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
