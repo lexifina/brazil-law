@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RAFAEL ALVES PRADO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende dos autos que o recorrente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática da conduta de organização criminosa.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 376-389.
+Na hipótese, a defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento pr ovisório determinado em desfavor do recorrente.
+Aponta falta de fundamentação para a segregação cautelar.
+Argumenta que o recorrente "é PRIMARIO, possui residência fixa, conforme cumprimento de mandado de prisão em seu desfavor em sua residência onde mora com os genitores, bem como trabalha na empresa de seus genitores, Oficina de  .. " (fl. 402).
+Defende a imposição de medidas cautelares alternativas à prisão.
+Requer, ao final, a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório para a garantia da ordem pública diante da gravidade concreta da conduta, haja vista que, em tese, o recorrente integraria organização criminosa voltada à prática de roubos de caminhões e carretas de combustíveis e metais, além de outros crimes como receptação, adulteração de sinais identificadores de veículos automotores, corrupção, porte/posse de arma de fogo e lavagem de dinheiro; constando nos autos que ele supostamente seria executor direto em ações de roubo, bem como que estaria envolvido em negociações ilícitas com autoridades.
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar em seu desfavor.
+Sobre o tema:
+"A prisão preventiva foi considerada necessária para garantir a ordem pública, devido à gravidade concreta do delito e ao risco de reiteração delitiva, com base em elementos concretos que indicam a participação do agravante na organização criminosa" (AgRg no RHC n. 202.750/CE, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Ademais, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: (AgRg no HC n. 948.505/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 3/12/2024, DJEN de 18/12/2024.)(AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023); (AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023); (AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022); (AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022);(AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022); (RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022); (AgRg no RHC n. 187.597/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.).
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
