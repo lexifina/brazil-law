@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FERNANDO LUCARELLI GARCIA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2312897-79.2025.8.26.0000).
+Consta que o paciente foi preso em flagrante em 27/9/2025, pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo sido apreendidas 11 porções de cocaína (massa total de 6 gramas) e a quantia de R$ 114,00, e que a custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, alegando ausência dos requisitos do art. 312 do Código de Processo Penal, fundamentação genérica da decisão, desproporcionalidade da medida extrema diante da presunção de inocência e da ausência de violência ou grave ameaça, possibilidade de incidência de acordo de não persecução penal (ANPP) ou do redutor do § 4º do art. 33 da Lei de Drogas, bem como suficiência das medidas cautelares do art. 319 do CPP.
+O Tribunal de Justiça denegou a ordem, em acórdão assim ementado (e-STJ fl. 125):
+DIREITO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ORDEM DENEGADA.
+Caso em julgamento. Writ impetrado em favor de paciente preso em flagrante por tráfico de drogas, com prisão convertida em preventiva e subsequente oferecimento da denúncia Custódia cautelar devidamente fundamentada na garantia da ordem pública e na efetiva aplicação da lei penal. Apreensão de razoável quantidade de entorpecente (11 porções de cocaína, com massa de 06 gramas), além de dinheiro Pressupostos da segregação cautelar presentes Paciente que ostenta dupla reincidência Inócuas outras medidas do artigo 319 do CPP.
+Dispositivo: Ordem denegada.
+No presente writ, a defesa sustenta nulidade da conversão da prisão em preventiva por ausência de materialidade delitiva, afirmando inexistir laudo pericial preliminar elaborado por perito oficial e que o "auto de constatação" foi subscrito por guardas civis municipais, sem comprovação de diploma de curso superior, baseando-se em critérios sensoriais (odor e aspecto) para afirmar tratar-se de cocaína.
+Diante disso, requer, em liminar e no mérito, o relaxamento da prisão preventiva.
+É o relatório. Decido.
+Busca-se no presente writ, o reconhecimento da nulidade da prisão, sob o argumento de que a materialidade do crime de tráfico depende de laudo pericial oficial, não se prestando o "auto de constatação" elaborado por agentes não oficiais e por critérios sensoriais.
+Ocorre que o tema não foi objeto de análise perante o Tribunal de origem, o que impede o seu exame diretamente nesta Corte, sob pena de supressão de instância.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142 , Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Relator p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Relator Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, indefiro liminarmente o presente mandamus.
+Intimem-se.
+EMENTA
