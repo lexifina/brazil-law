@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 499):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO - ESCRITURA PÚBLICA DE CRÉDITO ROTATIVO COM GARANTIA HIPOTECÁRIA - ADIMPLEMENTO CONTRATUAL NÃO COMPROVADO - NEGATIVA DE ANUÊNCIA PARA LIBERAÇÃO DO GRAVAME - ATO ILÍCITO NÃO CONFIGURADO - IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. - Nos termos do art. 373, inciso I, do CPC/2015, não havendo nos autos prova suficiente dos fatos constitutivos do direito alegado pela parte autora na peça exordial, a improcedência dos pedidos iniciais é a medida que se impõe.
+Os embargos de declaração foram rejeitados (fls. 543/549).
+Em suas razões (fls. 552-567), a parte recorrente aponta dissídio jurisprudencial quanto à interpretação do art. 1.026, § 2º, do CPC e violação dos seguintes dispositivos legais:
+i. art. 1.022 do CPC, pois o acórdão teria se omitido quanto ao argumento de que a garantia hipotecária vinculada ao processo não se confunde com a execução hipotecária do processo n. 0023749-58.2013.8.13.0388, havendo autonomia entre as obrigações, bem como quanto à ocorrência de novação na espécie. Além disso, seria o acórdão contraditório, pois ou bem se entende pela individualidade dos contratos ou pela existência de vínculo entre eles, sendo que, neste último caso, o julgamento separado dos processos, tal como chancelado pelo acórdão recorrido, iria de encontro aos ditames do devido processo legal;
+ii. art. 55 do CPC, pela inexistência de conexão entre o contrato de importação de mercadoria e a escritura pública de crédito rotativo com garantia hipotecária;
+iii. arts. 302, 334, III, e 373 do CPC, e 186 e 927 do CC, haja vista que "a Recorrida se olvidou a apresentar qualquer tese de defesa específica ao inadimplemento dos negócios jurídicos vinculados à escritura pública de crédito rotativo com garantia hipotecária, firmada em 25 de agosto de 2011" (fl. 560).
+Contrarrazões não apresentadas (fls. 593/605).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte em seus embargos de declaração, quais sejam:
+i. a ocorrência de novação, "na medida em que, após a celebração do contrato de importação por encomenda trazido à baila pela Embargada, foram celebradas duas Escrituras Públicas de Crédito Rotativo com Garantia Hipotecária absolutamente distintas, independentes e com clausulas próprias, as quais possuem objetos distintos e trazem a previsão de garantias hipotecárias diferentes, o que atesta que tais instrumentos não guardam relação entre si, embora tenham sido pactuados entre as mesmas partes" (fl. 519); e
+ii. a alegada existência de contradição no acórdão embargado, já que, ao mesmo tempo em que afirma que se trata de "contratos conexos e interligados", cujos efeitos "de um inevitavelmente irradiam sobre o outro" (fl. 501), conclui pela desnecessidade de julgamento conjunto do presente feito e dos embargos à execução que tratam do outro contrato celebrado pelas partes.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Caracterizada a existência de omissão relevante no acórdão recorrido, apta a ensejar o provimento do recurso especial para integração do julgado, evidentemente há que se prover o recurso também naquilo em que impugnada a multa aplicada com fundamento no art. 1.026, § 2º, do CPC, não estando caracterizado, nesse contexto, o caráter protelatório dos embargos declaratórios opostos na origem.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim de afastar a multa aplicada pela oposição de embargos declaratórios na origem, bem como para determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da f undamentação.
+Publique-se e intimem-se.
+EMENTA
