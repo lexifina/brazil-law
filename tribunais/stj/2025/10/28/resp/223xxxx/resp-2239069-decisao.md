@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por SIEMENS ENERGY BRASIL LTDA., com fundamento no art. 105, inciso III, alíneas a e b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fls. 567-568):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. ICMS-DIFAL. PRELIMINAR DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. EXIGIBILIDADE DO DIFAL NAS OPERAÇÕES INTERESTADUAIS DESTINADAS A CONSUMIDOR FINAL CONTRIBUINTE. APLICAÇÃO DA LEI COMPLEMENTAR Nº 87/96. INAPLICABILIDADE DO TEMA 1.093 DO STF. LEGALIDADE DO CÁLCULO POR DENTRO. MULTA ISOLADA SUPERIOR A 100% DO IMPOSTO DEVIDO. LIMITAÇÃO. PARCIAL PROVIMENTO.
+I. Caso em exame
+1. Recurso de Apelação interposto contra sentença que julgou improcedentes os pedidos formulados em ação anulatória, na qual se pleiteava a nulidade da exigência do ICMS-DIFAL e a redução das multas aplicadas.
+II. Questão em discussão
+2. As questões controvertidas consistem em: (i) verificar se houve cerceamento de defesa pelo indeferimento de prova pericial; (ii) definir a legalidade da cobrança do ICMS-DIFAL nas operações interestaduais destinadas a consumidor final contribuinte; (iii) analisar a adequação da metodologia de cálculo adotada pelo Fisco estadual; e (iv) avaliar a constitucionalidade e razoabilidade das multas impostas.
+III. Razões de decidir
+3. Cerceamento de defesa - A prova pericial contábil requerida foi indeferida pelo juízo a quo por se revelar desnecessária para a resolução da lide, considerando a suficiência das provas documentais já constantes dos autos. O indeferimento, devidamente fundamentado, não configura cerceamento de defesa, nos termos do art. 370, parágrafo único, do CPC.
+4. Exigibilidade do ICMS-DIFAL - A Emenda Constitucional nº 87/2015 atribuiu ao Estado de destino o direito de arrecadar o diferencial de alíquota (DIFAL) nas operações interestaduais destinadas a consumidor final contribuinte. A regulamentação pelo Convênio ICMS nº 93/2015 foi considerada inválida pelo STF no Tema 1.093, mas apenas para operações destinadas a não contribuintes. No caso em exame, trata-se de consumidor final contribuinte, hipótese que já era prevista na Lei Complementar nº 87/96, tornando legítima a cobrança do tributo.
+5. Cálculo do tributo - A metodologia adotada pelo Fisco estadual observa o denominado "cálculo por dentro", previsto no art. 13, §1º, inciso I, da Lei Complementar nº 87/96 e reiteradamente validado pelo Supremo Tribunal Federal (RE 582.461) e pelo Superior Tribunal de Justiça. Inexiste ilegalidade na inclusão do próprio ICMS na base de cálculo do DIFAL.
+6. Multas aplicadas - A multa de revalidação e a multa isolada estão previstas na Lei Estadual nº 6.763/75, sendo admissível sua cumulação (art. 53, §1º). Todavia, a multa isolada aplicada supera o percentual de 100% do imposto devido, configurando possível efeito confiscatório, vedado pelo art. 150, IV, da Constituição Federal, nos termos da jurisprudência do STF. Impõe- se sua redução ao limite de 100% do tributo exigido.
+IV. Dispositivo e tese 7. Recurso parcialmente provido. Tese de julgamento:
+"1. É legítima a exigência do ICMS-DIFAL nas operações interestaduais destinadas a consumidor final contribuinte do imposto, independentemente da edição de nova Lei Complementar.
+2. As multas aplicadas devem observar o limite máximo de 100% do valor do imposto, sob pena de violação ao princípio do não confisco".
+Dispositivos relevantes citados: CF/1988, art. 150, IV; art. 155, §2º, VII e VIII; LC nº 87/96, arts. 6º e 13, §1º, I; Lei Estadual nº 6.763/75, arts. 53, 55 e 56.
+Jurisprudência relevante citada: STF, RE 582.461, Rel. Min. Gilmar Mendes; STF, Tema 1.093; STJ, REsp 1.702.457/SP, Rel. Min. Herman Benjamin.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 614-622 e 648-656).
+Em suas razões (e-STJ, fls. 698-721), a parte recorrente aponta violação dos arts. 1.022, incisos I e II, e parágrafo único, II, e 489, § 1º, incisos IV e VI, do Código de Processo Civil, por negativa de prestação jurisdicional, alegando omissão não sanada quanto a matérias essenciais.
+Sustenta ofensa aos arts. 4º, parágrafo único e incisos; 6º e seus parágrafos; 11 e seus incisos e parágrafos; 12 e seus incisos e parágrafos; e 13 e seus incisos e parágrafos, da Lei Complementar 87/1996, bem como ao art. 97 do Código Tributário Nacional, por validar a exigência do DIFAL sem disciplina complementar anterior à Lei Complementar 190/2022 e por admitir base de cálculo "dupla".
+Contrarrazões apresentadas às fls. 729-749 (e-STJ)
+O recurso foi admitido na origem (e-STJ, fls. 753-756).
+Brevemente relatado, decido.
+Nos presentes autos, há debate sobre matéria afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando julgamento sob o rito dos recursos repetitivos, Tema 1.369, vinculado aos REsp 2133933/DF e 2025997/DF, de relatoria do Ministro Afrânio Vilela.
+A questão de direito está delimitada nos seguintes termos: "Definir se a cobrança de ICMS-DIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto estava suficientemente disciplinada na Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022. "
+Verifica-se, igualmente, que foi determinada a suspensão dos processos pendentes (art. 1.037, II, do CPC).
+Nesse contexto, em observância ao princípio da eficiência e ao regime jurídico-processual do CPC/2015, bem como ao disposto no art. 256-L do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos paradigmas, seja realizado o juízo de conformação previsto nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. POSSIBILIDADE DE COBRANÇA DO DIFERENCIAL DE ALÍQUOTA DO ICMS (DIFAL) NAS OPERAÇÕES INTERESTADUAIS DESTINADAS A CONSUMIDORES FINAIS CONTRIBUINTES DO IMPOSTO, REALIZADAS ANTES DA ENTRADA EM VIGOR DA LEI COMPLEMENTAR Nº 190/2022. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.369/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
