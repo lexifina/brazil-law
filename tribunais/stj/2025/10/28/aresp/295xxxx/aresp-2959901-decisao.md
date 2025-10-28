@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 1.022, II, do CPC, bem como pela incidência da Súmula n. 83 do STJ (fls. 281-290)
+O acórdão recorrido está assim ementado (fl. 162):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DO EMBARGADO/EXEQUENTE. CASUÍSTICA. AVALIAÇÃO DOS CONTRATOS. CONTRATO PARTICULAR DE CESSÃO E AQUISIÇÃO DE CRÉDITO. EMPRESA DE SECURITIZAÇÃO QUE ATUA NA CONDIÇÃO DE FATURIZADOR. INADIMPLEMENTO DOS DEVEDORES ORIGINAIS DOS TÍTULOS CEDIDOS. NULIDADE DAS CLÁUSULAS DE RECOMPRA, RESPONSABILIDADE SOLIDÁRIA, COOBRIGAÇÃO E DIREITO DE REGRESSO. TENTATIVA DE DESVIRTUAMENTO DA PRÓPRIA NATUREZA DO CONTRATO DE FATURIZAÇÃO. IMPOSSIBILIDADE DE TRANSFERIR AO FATURIZADO A RESPONSABILIDADE PELA EVENTUAL INSOLVÊNCIA DOS SACADOS. RISCOS DA FATURIZAÇÃO ASSUMIDOS PELA FACTORIZADORA. INEXIGIBILIDADE DO TÍTULO EXECUTIVO EM FACE DO FATURIZADO/EMBARGANTE. SENTENÇA MANTIDA. HONORÁRIOS MAJORADOS. APELO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 208-217).
+No recurso especial (fls. 230-254), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além de divergência jurisprudencial, ofensa aos arts. 295, 296 do CC e 1.022, II, do CPC.
+Alegou que o Tribunal de origem teria deixado de se manifestar sobre a responsabilidade da cedente pela existência do crédito cedido, nos termos do art. 295 do CC.
+Defendeu que, ainda que se fosse reconhecida a nulidade da cláusula pro solvendo (art. 296 do CC), subsistiria a responsabilidade da faturizada pela inexistência do crédito, diante do reconhecimento de desacordo comercial entre cedente e sacado.
+Afirmou que a operação discutida não configuraria contrato de factoring, mas de cessão de crédito com coobrigação, de modo que a interpretação adotada pelo Tribunal a quo destoaria da jurisprudência do STJ e de outros tribunais estaduais.
+Não foram apresentadas contrarrazões (fl. 280).
+No agravo (fls. 291-299), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (fl. 303).
+Juízo negativo de retratação (fls. 304-305).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 168-169):
+ ..  No quadro particular, a despeito de a Exequente/Embargada/Apelante aduzir na exordial executiva que "atua no ramo de securitização de recebíveis empresariais", verifica-se que, de fato, o contrato "Contrato de cessão e aquisição de direito de crédito e outras avenças com coobrigação nº 773/1" - anexado ao ID 366687539, daqueles cadernos -, em verdade, se afigura como factoring - o que não se confunde com "securitização de recebíveis" ou serviço de "desconto de títulos", este, pacto que somente instituições financeiras poderiam celebrar.
+Tão logo, o que se percebe é que a empresa Exequente/Embargada, ora Apelante, atuou na condição de faturizador.
+Por consequência, seus são os riscos da atividade da factoring, não podendo transferir ao faturizado a responsabilidade por eventual insolvência dos sacados (devedores originais), isso, porque o faturizado deve responder apenas pela eventual inexistência do crédito cedido - o que não é o caso.
+De maneira direta e nesse trilhar, há que se confirmar a nulidade das cláusulas de garantias, como a de recompra, responsabilidade solidária, coobrigação e direito de regresso, constantes, por exemplo, no item 11.1 e seguintes do contrato de ID 366687539 do feito executivo, pois, elas tendem ao desvirtuamento da própria natureza do contrato de faturização.
+Extrai-se ainda do acórdão que julgou os embargos de declaração (fl. 212):
+ ..  Nesse sentido, veja-se que a tese suscitada foi superada pelo próprio conteúdo decisório, em que reconhecido que o ora embargante atuava na condição de faturizador, tentando desvirtuar a própria natureza do contrato e almejando, ainda, transferir ao faturizado a responsabilidade pela eventual insolvência dos sacados, risco que faz parte da faturização.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+No mérito, o Tribunal de origem, interpretando as cláusulas contratuais e o contexto fático-probatório dos autos, reconheceu que o contrato entabulado entre as partes possui natureza de fomento mercantil (factoring), e não de cessão de crédito com coobrigação. Por consequência, declarou a nulidade das cláusulas de recompra, responsabilidade solidária e direito de regresso, que implicariam transferência indevida do risco do negócio.
+Dessa forma, a pretensão recursal de requalificar a operação reconhecida pelas instâncias ordinárias como contrato de factoring exigiria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providências não admitidas no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Por fim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Deixo de majorar os honorários advocatícios (artigo 85, § 11, do CPC) em virtude da fixação anterior no patamar máximo permitido em lei .
+Publique-se e intimem-se.
+EMENTA
