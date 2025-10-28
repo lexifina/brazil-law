@@ -1,0 +1,74 @@
+ACÓRDÃO
+$ acordao
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. 1) AGRAVANTE: GIOVANI GERÔNIMO ESPÍRITO SANTO NASCIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL AUTORIZADOR DO RECURSO E DO ARTIGO DE LEI CONTRARIADO. SÚMULA N. 284 DO STF. ESTABILIDADE, PERMANÊNCIA E PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. 2) AGRAVANTE: EDSON GARCIA DE SOUZA. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE. INCIDÊNCIA DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. Na forma da jurisprudência, "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra Maria Isabel Gallotti, DJe de 26/04/2017), tal como ocorre, in casu. No mesmo sentido: STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe de 06/05/2016; AgInt no REsp 1.631.109/RR, Rel. Ministra Nancy Andrighi, DJe de 31/03/2017; AgInt na TutPrv no REsp 1.880.265/RJ, Rel. Ministro Og Fernandes, DJe de 30/11/2020.
+2. A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso, uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+3. A alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo do art. 35 da Lei de Drogas, demanda aprofundado reexame do conjunto fático-probatório. Incidência da Súmula n. 7 do STJ.
+4. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+5. É inviável o agravo que deixa de atacar os fundamentos da decisão denegatória de admissibilidade. Incidência do verbete n. 182 da Súmula desta Corte.
+6. Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula n. 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+7. Agravo de Giovani Gerônimo Espírito Santo Nascimento conhecido para não conhecer do recurso especial e não conhecido o agravo de Edson Garcia de Souza.
+RELATÓRIO
+GIOVANI GERÔNIMO ESPÍRITO SANTO NASCIMENTO agrava de decisão que não admitiu recurso especial (e-STJ fls. 2280/2282) interposto com fundamento no art. 105, inciso III, da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO.
+Inconformismos da Justiça Pública e dos réus.
+Materialidade e autoria suficientemente comprovadas. Ambos os delitos demonstrados por meio de provas convincentes, incluindo depoimentos de servidores públicos, laudos periciais e interceptação telefônica. Condenação de Edson Garcia de Souza e Ederson dos Santos Paes quanto à infração prevista no artigo 33, caput, da Lei nº 11.343/06.
+Sentença parcialmente reformada. Recurso ministerial provido. (e-STJ fl. 2100)
+A defesa alega: i) a nulidade das provas que ensejaram a condenação pela ocorrência da fishing expedition; ii) não comprovação da estabilidade e da permanência necessárias para configurar o crime de associação para o tráfico e; iii) falta de provas da traficância.
+Contrarrazões às e-STJ fls. 2270/2276.
+Manifestação do Ministério Público Federal pelo não provimento do agravo às e-STJ fls. 2339/2342.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL AUTORIZADOR DO RECURSO E DO ARTIGO DE LEI CONTRARIADO. SÚMULA N. 284 DO STF. ESTABILIDADE, PERMANÊNCIA E PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO- PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Na forma da jurisprudência, "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra Maria Isabel Gallotti, DJe de 26/04/2017), tal como ocorre, in casu. No mesmo sentido: STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro Humberto Martins, Corte Especial, DJe de 06/05/2016; AgInt no REsp 1.631.109/RR, Rel. Ministra Nancy Andrighi, DJe de 31/03/2017; AgInt na TutPrv no REsp 1.880.265/RJ, Rel. Ministro Og Fernandes, DJe de 30/11/2020.
+2. A jurisprudência desta Corte segue no sentido de que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso, uma vez que não basta a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+3. A alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo do art. 35 da Lei de Drogas, demanda aprofundado reexame do conjunto fático-probatório. Incidência da Súmula n. 7 do STJ.
+4. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+5. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo não merece conhecimento.
+Antes de mais nada, assinala-se que a defesa não indicou a alínea do dispositivo constitucional autorizador do recurso e nem apontou com previsão os artigos da legislação infraconstitucional que teriam sido violados, o que atrai o óbice da Súmula n. 284 do STF. Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO INDEVIDA. DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL QUE FUNDAMENTA A INTERPOSIÇÃO DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência, "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/04/2017), tal como ocorre, in casu. No mesmo sentido: STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016; AgInt no REsp 1.631.109/RR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/03/2017; AgInt na TutPrv no REsp 1.880.265/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/11/2020.
+III. Agravo interno improvido. (AgInt no AREsp n. 1.621.480/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 27/8/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE PROTESTO CUMULADA COM INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI TIDOS POR VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283 DO STF, POR ANALOGIA. PROTESTO INDEVIDO DE TÍTULO. OCORRÊNCIA. DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+2. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n. 283 do STF, aplicável, por analogia, ao recurso especial.
+3. A jurisprudência desta Corte Superior entende que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, independentemente de prova.
+4. A jurisprudência desta Corte é firme no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do valor fixado.
+5. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento. (AREsp n. 2.845.574/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 3/7/2025.)
+De todo modo, a alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo do art. 35 da Lei de Drogas, demanda aprofundado reexame do conjunto fático-probatório. Incidência da Súmula n. 7 do STJ.
+Além disso, as teses defensivas esbarram no óbice da Súmula n. 7 do STJ, isso porque cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
+RELATÓRIO
+EDSON GARCIA DE SOUZA agrava de decisão que não admitiu recurso especial (e-STJ fls. 2278/2279) interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+O Presidente da Seção de Direito Criminal do Tribunal de origem inadmitiu o recurso especial pelo óbice da Súmula n. 7 do STJ.
+Contraminuta às e-STJ fls. 2310/2314.
+Manifestação do Ministério Público Federal pelo não provimento do agravo às e-STJ fls. 2339/2342.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE. INCIDÊNCIA DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar os fundamentos da decisão denegatória de admissibilidade. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula n. 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+3. Agravo não conhecido.
+VOTO
+O agravo não merece conhecimento.
+A decisão agravada não admitiu o recurso especial pelo óbice da Súmula n. 7 do STJ.
+Contudo, o agravante, nas razões do presente inconformismo, não impugnou corretamente o referido fundamento.
+Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula n. 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Nesse contexto, aplica-se, por analogia, o disposto no enunciado n. 182 da Súmula do STJ. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+ ..
+3. Agravo regimental a que se nega provimento. Concedido habeas corpus, de ofício, para declarar a prescrição da pretensão executória do agravante quanto ao crime do art. 90 da Lei n. 8.666/1993 (AgRg no Ag 1.378.279/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/3/2017).
+Ademais, a alegação de ausência de lastro probatório mínimo para comprovar os elementos de estabilidade e permanência, essenciais ao tipo do art. 35 da Lei de Drogas, demanda aprofundado reexame do conjunto fático-probatório, o que é inviável em recurso especial. Incidência da Súmula n. 7 do STJ (AgRg no HC n. 993.513/DF, relator Ministro Carlos Cini Marchionatti - Desembargador Convocado TJRS -, Quinta Turma, DJEN de 26/8/2025.)
+Ante o exposto, não conheço do agravo.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
