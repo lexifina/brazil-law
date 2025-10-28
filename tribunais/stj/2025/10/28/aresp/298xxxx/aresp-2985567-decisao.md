@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GLOBO MÁQUINAS E SUPRIMENTOS LTDA, contra decisão que não conheceu do agravo em recurso especial..
+Ação: de indenização por danos materiais c/c compensação por danos morais e lucros cessantes, ajuizada por MARCIO LIDIER GARCIA DANIEL, em face da agravante, na qual requer a reparação de danos materiais e a compensação por danos morais em razão da aquisição de impressora usada com vício de funcionamento.
+Sentença: julgou parcialmente procedentes os pedidos, para: i) condenar a agravante ao pagamento de R$ 10.000,00 (dez mil reais) a título de compensação por danos morais; ii) condenar a agravante ao pagamento de R$ 13.916,31 (treze mil novecentos e dezesseis reais e trinta e um centavos) por danos materiais; iii) autorizar a retirada de eventuais peças substituídas na máquina e a devolução da máquina.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. COMPRA DE IMPRESSORA DEFEITUOSA. DEVER DE INDENIZAR CARACTERIZADO. MANUTENÇÃO DA SENTENÇA.
+I. A PROVA É UMA FACULDADE ATRIBUÍDA ÀS PARTES PARA QUE DEMONSTREM OS FATOS ALEGADOS. NA HIPÓTESE, EM DESATENÇÃO AO ART. 373, II, DO CPC, NÃO SE DESINCUMBIU A EMPRESA RÉ DE DEMONSTRAR A INEXISTÊNCIA DO DEFEITO OU A PRESENÇA DE QUALQUER OUTRA CAUSA EXCLUDENTE DE RESPONSABILIDADE.
+II. É CONSABIDO QUE A EXISTÊNCIA DE DEFEITO EM PRODUTO ADQUIRIDO, POR SI SÓ, NÃO SE REVELARIA SUFICIENTE À CARACTERIZAR O DANO MORAL. TODAVIA, A AUSÊNCIA DE SOLUÇÃO DO PROBLEMA, A IMPOSIÇÃO DE SUBSTITUIÇÃO ONEROSA DE PEÇAS PARA QUE O PRODUTO PUDESSE FUNCIONAR ADEQUADAMENTE, BEM COMO O FATO DE QUE A IMPRESSORA ERA O OBJETO DE TRABALHO DO AUTOR, ULTRAPASSA A SEARA DOS MEROS DISSABORES, UMA VEZ QUE, FRUSTRADA COM O VÍCIO DO BEM ADQUIRIDO, SOFREU AINDA, COM A PERDA DE CLIENTES, DIANTE DA MÁ QUALIDADE DAS IMPRESSÕES, ALÉM DE GASTOS SUPERVENIENTES.
+III. HONORÁRIOS SUCUMBENCIAIS MAJORADOS, COM FULCRO NO § 11 DO ART. 85 DO CPC. APELO DESPROVIDO. UNÂNIME. (e-STJ fl. 456)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) ausência de violação do art. 1022 do CPC; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "a questão ora tratada na decisão recorrida que negou seguimento ao recurso especial, trata-se de matéria de direito, e não de fato, ou seja, o comando normativo do dispositivo em questão restou manifestamente violado, mesmo após a interposição do competente recurso de embargos de declaração."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) ausência de violação do art. 1022 do CPC; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 20 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
