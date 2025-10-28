@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GUILHERME ALBUQUERQUE TEIXEIRA e por ROSADO SANTOS ADVOGADOS contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 83 do STJ (fls. 612-616).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 627-635.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Norte em apelação cível nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fls. 437-438):
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. LEVANTAMENTO DE HIPOTECA SOBRE BEM IMÓVEL. RECURSO DA PARTE DEMANDADA. ALEGAÇÃO DE DESCUMPRIMENTO DO CONTRATO FIRMADO ENTRE A CONSTRUTORA E A INSTITUIÇÃO FINANCEIRA E DE IMPOSSIBILIDADE DE PROCEDER COM A BAIXA DA HIPOTECA EXISTENTE SOBRE O IMÓVEL. SENTENÇA DE PROCEDÊNCIA. PRETENSÃO RECURSAL PARA MANTER O GRAVAME. NÃO ACOLHIMENTO. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA PARA RESPONDER PELA HIPOTECA FIRMADA. GRAVAME QUE IMPEDE A UTILIZAÇÃO PLENA DO BEM ADQUIRIDO. INTERESSE DE AGIR CONFIGURADO. QUITAÇÃO INTEGRAL DO PACTO DE AQUISIÇÃO IMOBILIÁRIA. EVENTUAL DÍVIDA DECORRENTE DO NEGÓCIO JURÍDICO FIRMADO ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO QUE NÃO TEM EFICÁCIA PERANTE O ADQUIRENTE DO IMÓVEL. SÚMULA 308 DO STJ. GRAVAME EXISTENTE QUE IMPEDE A TRANSFERÊNCIA DE PROPRIEDADE. INDENIZAÇÃO POR DANOS MORAIS. ABALO EXTRAPATRIMONIAL QUE ULTRAPASSA O LIMITE DO TOLERÁVEL. QUANTUM INDENIZATÓRIO FIXADO CONSONÂNCIA COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO INTERPOSTO PELO DEMANDANTE. PEDIDO DE ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR DA CONDENAÇÃO, ABARCANDO TANTO A OBRIGAÇÃO DE FAZER, COMO O VALOR RELATIVO AOS DANOS MORAIS. INVIABILIDADE. BASE DE CÁLCULO. VALOR DOS DANOS MORAIS. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONHECIMENTO E DESPROVIMENTO DOS RECURSOS. PRECEDENTES.
+- De acordo com a Súmula 308 do STJ, "a hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração da promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel"
+- Os adquirentes não tem relação com as possíveis pendências financeiras existentes entre a construtora e a instituição bancária. Por isso, não devem ser penalizados com a restrição hipotecária firmada entre eles, pois cumpriram integralmente com o contrato de compra e venda.
+- De acordo com posição adotada pelo STJ, os honorários devem ser fixados respeitando a seguinte ordem: 1) condenação; 2) proveito econômico; 3) valor da causa e 4) equidade. Havendo a condenação em danos morais, somente esta deve ser a base de cálculo para o cálculo da verba sucumbencial.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 538-539):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. ALEGADA A PRESENÇA DE OBSCURIDADE NO ACÓRDÃO EMBARGADO. NÃO CARACTERIZAÇÃO. PEDIDO DE ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS ABARCANDO TANTO A OBRIGAÇÃO DE FAZER COMO O VALOR RELATIVO AOS DANOS MORAIS. INVIABILIDADE. BASE DE CÁLCULO. VALOR DOS DANOS MORAIS. MATÉRIA DEVIDAMENTE ANALISADA POR OCASIÃO DO JULGAMENTO DO RECURSO DE APELAÇÃO CÍVEL. PRETENSÃO DE REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS DISPOSTOS NO ART. 1.022 DO CPC. CONHECIMENTO E DESPROVIMENTO DO RECURSO. PRECEDENTES.
+- Consoante dicção emanada do art. 1.022 do CPC os Embargos de Declaração visam sanar obscuridade ou contradição, bem como conduzir o Juiz ou Tribunal a pronunciar-se sobre ponto omitido, quando deveria ter se pronunciado.
+- Não comprovada qualquer dessas hipóteses, o recurso fica destituído de funcionalidade, restando somente a mera intenção de rediscutir a matéria, com o fim de forçar o julgador a adequar-se ao entendimento do recorrente.
+-"Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado" (STJ - AgInt no AREsp 1701614/SC - Relator Ministro Moura Ribeiro - Terceira Turma - julgado em 29/03/2021).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação do art. 85, §§ 2º e 8º, do CPC, porquanto a fixação dos honorários deveria ser calculada sobre o valor total da condenação, incluindo obrigação de fazer e obrigação de pagar.
+Sustenta que o Tribunal de origem, ao decidir que a base de cálculo dos honorários advocatícios deve levar em consideração apenas o valor atribuído à condenação a danos morais, divergiu do entendimento do Superior Tribunal de Justiça, que considera que as obrigações de fazer impostas na sentença também têm natureza condenatória e expressão econômica, conforme o REsp n. 1.765.691/SP.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo-se o caráter condenatório e a expressão econômica aferível das obrigações de fazer, incluindo-as no "valor da condenação" para fim do cálculo dos honorários.
+Contrarrazões às fls. 600-609.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de obrigação de fazer em que a parte autora pleiteou o levantamento de hipoteca sobre bem imóvel e indenização por danos morais.
+Na sentença, o Juízo de primeiro grau julgou procedente a pretensão deduzida, determinando o levantamento das hipotecas e impondo o pagamento de indenização por danos morais no valor de R$ 10.000,00, além de fixar honorários advocatícios em 10% sobre o valor atualizado da causa.
+A Corte estadual manteve integralmente a sentença.
+I - Art. 85, §§ 2º e 8º, do CPC e divergência jurisprudencial
+No recurso especial, a parte recorrente alega que a fixação dos honorários deveria ser calculada sobre o valor total da condenação, incluindo obrigação de fazer e obrigação de pagar.
+Aduz que o acórdão recorrido deu interpretação ao art. 85, § 2º, do CPC em sentido contrário ao dado à questão pelo STJ no REsp n. 1.765.691/SP, divergindo quanto ao caráter condenatório e à expressão econômica aferível das obrigações de fazer a que foram condenados os recorridos no caso.
+Vê-se que o Tribunal a quo assentou que os honorários devem ser fixados respeitando a ordem: condenação, proveito econômico, valor da causa e equidade, com amparo em entendimento do STJ. Concluiu o seguinte (fl. 447):
+Portanto, o percentual arbitrado relativamente aos honorários advocatícios no presente feito deve tão somente levar em consideração o valor atribuído à condenação em danos morais.
+Ressalte-se que, tratando-se de condenações a obrigação de pagar (indenização por dano moral) e obrigação de fazer - determinação de baixa em hipoteca sobre imóvel, à luz da Súmula n. 308 desta Corte -, essa última não é passível de mensuração para fins de arbitramento dos honorários com base no art. 85, § 2º, do CPC.
+É que, em casos tais, a obrigação a ser cumprida não se vincula ao valor do imóvel, tampouco tem quantum debeatur objeto de apuração, certo e determinado, conforme os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO DE OBRIGAÇÃO DE FAZER. OUTORGA DE ESCRITURA E BAIXA DE HIPOTECA. IMÓVEIS RESIDENCIAIS ADQUIRIDOS PARA INVESTIMENTO. SÚMULA N. 308 DO STJ.INCIDÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER. CRITÉRIO DA EQUIDADE. ADEQUAÇÃO. RECURSO DESPROVIDO. I. CASO
+ ..
+II. QUESTÃO EM DISCUSSÃO
+3. São duas questões em discussão: saber se a Súmula n. 308 do STJ se aplica a imóveis adquiridos para fins de investimento e se a fixação dos honorários sucumbenciais, em ação de obrigação de fazer, deve seguir o critério da equidade.
+III. RAZÕES DE DECIDIR
+4. A Súmula n. 308 do STJ visa proteger o adquirente de boa-fé, independentemente do uso do imóvel, garantindo a ineficácia da hipoteca perante o adquirente que quitou o preço.
+5. A jurisprudência do STJ mantém a aplicação da Súmula n. 308 mesmo após a Lei n. 13.097/2015, não havendo superação do entendimento sumulado.
+6. A fixação dos honorários sucumbenciais por equidade é adequada em ações de obrigação de fazer, onde o proveito econômico não é mensurável pelo valor do imóvel.
+IV. DISPOSITIVO E TESE
+8. Recurso especial do Banco do Brasil S.A. conhecido em parte e desprovido. Recurso especial de Neide Bisinoti conhecido e desprovido.
+Tese de julgamento: "1. A Súmula n. 308 do STJ aplica-se para proteger o adquirente de boa-fé, independentemente do uso do imóvel. 2. A fixação de honorários sucumbenciais por equidade é adequada em ações de obrigação de fazer, onde o proveito econômico não é mensurável pelo valor do imóvel." (REsp n. 1.886.415/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/3/2025, DJEN de 21/3/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Nas obrigações de fazer consistentes na liberação de um gravame fiduciário, o valor da causa não pode ser calculado tendo como lastro o valor do bem.
+2. Nas obrigações de fazer que determinam a baixa de gravames, os honorários advocatícios sucumbenciais não podem ser obtidos tendo como base de referência o "valor da condenação" ou o "valor da causa", devendo ser fixados por equidade, uma vez que não há como vincular o sucesso da pretensão ao valor dos bens.
+3. O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios revela-se, em princípio, inviável em recurso especial, a teor da Súmula 7 do STJ.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.002.668/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Nesse contexto, observa-se que, no caso, a condenação não inclui apenas a indenização por danos morais como também a obrigação de fazer, a qual, por não ser aferível, atrai a aplicação do critério subsidiário da equidade, de acordo com a jurisprudência deste Tribunal. A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. BAIXA DE GRAVAME FIDUCIÁRIO. HIPOTECA. VERBAS HONORÁRIAS. CONDENAÇÃO EM OBRIGAÇÃO DE PAGAR E EM OBRIGAÇÃO DE FAZER. PROVEITO ECONÔMICO INESTIMÁVEL. CRITÉRIO DE EQUIDADE. POSSIBILIDADE.
+1. Consoante aludido na decisão agravada, a base de cálculo dos honorários deve incluir não só a indenização em danos morais, como também a obrigação de fazer. Precedentes.
+2. Segundo a jurisprudência desta Corte, "nas ações mandamentais em que ausente proveito econômico auferível ou mensurável, e quando o valor da causa não refletir o benefício devido, deverá ser aplicado o critério subsidiário da equidade. É o que ocorre na ação de obrigação de fazer consistente na baixa de gravame hipotecário, porquanto não se pode vincular o sucesso da pretensão ao valor do imóvel". (REsp n. 2.092.798/DF, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024).
+ ..
+Agravo interno improvido. (AgInt no AgInt nos EDcl no AgInt no AREsp n. 2.506.581/RN, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+Assim, os honorários advocatícios sucumbenciais devem incidir sobre a condenação à obrigação de pagar quantia certa decorrente dos danos morais, acrescida da condenação à obrigação de fazer, isto é, levantamento de hipoteca sobre bem imóvel.
+II - Conclusão
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento para arbitrar, por equidade, os honorários advocatícios no valor de R$ 5.000,00, em desfavor d os recorridos, de forma solidária.
+Publique-se. Intimem-se
+EMENTA
