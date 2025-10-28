@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MAYCON DE SOUZA OLIVEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (HC n. 5003834-53.2025.8.08.0000).
+Consta dos autos que o recorrente foi condenado, em sede de apelação, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo-lhe sido imposta a pena de 8 (oito) anos e 9 (nove) meses de reclusão, além de 730 (setecentos e trinta) dias-multa.
+A condenação transitou em julgado em 6/8/2024 (e-STJ fl. 4).
+Inconformada, a defesa impetrou habeas corpus perante a Corte estadual, buscando conferir-lhe efeito de revisão criminal e alegando, em síntese, que a condenação estaria dissociada das provas dos autos, devendo o fato ser desclassificado para o delito de porte de drogas para consumo pessoal.
+O Tribunal de origem, contudo, não conheceu da impetração, por entender tratar-se de matéria afeta à competência de outro órgão jurisdicional, conforme decisão monocrática do relator. Irresignada, a defesa interpôs agravo interno, o qual foi desprovido à unanimidade, nos termos da seguinte ementa (e-STJ, fls. 54/55):
+DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM HABEAS CORPUS. PREVENÇÃO DO RELATOR E COMPETÊNCIA PARA JULGAMENTO DO WRIT. NEGADO PROVIMENTO AO RECURSO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em seu favor, sob fundamento de incompetência desta Corte para processar e julgar o writ. O agravante sustenta ausência de prevenção do Relator e legitimidade passiva da autoridade coatora, requerendo o regular prosseguimento do habeas corpus.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se houve prevenção do Relator para o julgamento do habeas corpus impetrado; (ii) estabelecer se é competente esta Corte para processar e julgar o writ, considerando a autoridade coatora indicada.
+III. RAZÕES DE DECIDIR
+3. O art. 164, § 1º, do RITJES estabelece que a distribuição de habeas corpus previne a competência da Câmara e do Relator para processar e julgar todos os recursos posteriores relativos ao mesmo processo ou a processos funcionalmente ligados, inclusive para habeas corpus e mandado de segurança.
+4. Foi julgado recurso de apelação nº 0009688-81.2020.8.08.0035 por esta Relatoria, configurando-se a prevenção para análise do presente habeas corpus.
+5. Sendo a autoridade coatora este Tribunal, a competência para processar e julgar o habeas corpus é do Superior Tribunal de Justiça, conforme art. 105, I, "c", da CF/1988.
+IV. DISPOSITIVO E TESE
+6. Recurso desprovido.
+Na presente oportunidade, o recorrente alega que a autoridade coatora corretamente indicada é juízo singular (7ª Vara Criminal de Vila Velha/ES), o que firmaria a competência originária do Tribunal local para conhecer do habeas corpus.
+Sustenta que houve indevida confusão entre prevenção interna e competência constitucional por autoridade coatora (art. 105, I, "c", da CF/1988), afirmando que norma regimental não pode deslocar competência fixada pela Constituição.
+Aduz que a negativa de conhecimento do writ configura violação às garantias constitucionais do art. 5º, LXVIII, XXXV, LIV, LV e LXXVIII da CF/1988 e aos arts. 647, 654 e 660 do CPP, por frustrar o exame do mérito do remédio constitucional. Por fim, destaca que houve erro de premissa fática, pois o ato coator não teria emanado de órgão colegiado do TJES, mas de juízo de primeiro grau.
+Diante disso, pede, liminarmente e no mérito a cassação do acórdão com a determinação para julgamento imediato do habeas corpus. Subsidiariamente, e quer que esta Corte exerça poder de adequação e aprecie desde logo o mérito da impetração, por economia processual, primazia do mérito e caráter preferencial das causas de liberdade.
+É o relatório, decido.
+No caso, o habeas corpus não pode ser conhecido. O Tribunal de origem agiu corretamente ao não apreciar o mérito da impetração, uma vez que foi ele próprio o órgão responsável pelo julgamento da apelação que resultou na condenação do recorrente. Confira-se (e-STJ fl. 58):
+Conforme relatado, cuida-se de agravo interno interposto por MAYCON DE SOUZA OLIVEIRA em face de decisão monocrática, desta Relatoria, que não conheceu do Habeas Corpus impetrado pelo ora agravante.
+Em suas razões recursais (ID nº 13181987), o agravante sustenta: i) a ausência de prevenção desta Relatoria para processar e julgar o writ e ii) a legitimidade passiva da autoridade coatora.
+Pugna pelo conhecimento e provimento do recurso, reformando a decisão recorrida a fim de determinar o regular prosseguimento do writ.
+Presentes os pressupostos de admissibilidade, CONHEÇO do recurso e passo a apreciar as teses recursais.
+Inicialmente, como já salientado, não se verifica irregularidade na distribuição do feito a esta Relatoria, já que, como pontuado pelo eminente Desembargador Ubiratan Almeida Azevedo ao determinar a redistribuição do feito (ID nº 12638109), o art. 164, § 1º, do RITJES dispõe que "a distribuição de mandado de segurança, de habeas corpus e de recurso cível ou criminal previne a competência da Câmara e do Relator, para o processamento e julgamento de todos os recursos posteriores relativos ao mesmo processo ou a processos funcionalmente ligados a ele, como os cautelares, inclusive para habeas corpus e mandado de segurança".
+Logo, considerando que houve o julgamento do recurso de apelação nº 0009688- 81.2020.8.08.0035 por esta Relatoria, há a prevenção para julgamento do presente writ.
+No mais, nota-se que o próprio agravante reconhece que a autoridade coatora é esta egrégia PRIMEIRA CÂMARA CRIMINAL que julgou o recurso de apelação criminal nº 0009688- 81.2020.8.08.0035.
+Nesse contexto, considerando que a autoridade coatora é este Tribunal, conforme expressamente reconhecido pelo agravante, a competência para processar e julgar o writ é do Superior Tribunal de Justiça, nos termos do art. 105, I, "c", da Constituição Federal.
+Logo, a decisão monocrática de ID nº 12703156 que não conheceu do writ em virtude da incompetência desta eg. Corte se mostra acertada, indo, inclusive, ao encontro do entendimento da Defesa do agravante.
+Com efeito, na qualidade de autoridade apontada como coatora, o Tribunal estadual não poderia examinar habeas corpus subsequente impetrado contra ato emanado de sua própria decisão, sob pena de violação ao princípio do juiz natural e de usurpação de competência, que, nessa hipótese, é do Superior Tribunal de Justiça, nos termos do art. 105, I, "c", da Constituição Federal.
+Além disso, observa-se que o acórdão juntado aos autos pela defesa limitou-se a não conhecer da impetração por incompetência, sem adentrar o mérito das alegações formuladas no habeas corpus.
+Diante disso, não há pronunciamento judicial anterior sobre o conteúdo das teses defensivas, sendo vedado a esta Corte Superior apreciá-las originariamente, sob pena de indevida supressão de instância.
+A jurisprudência consolidada do Superior Tribunal de Justiça é firme no sentido de que "como os argumentos apresentados pela defesa não foram examinados pelo Tribunal de origem, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, rel. Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe 14/9/2023).
+Por fim, cumpre destacar que, tendo a condenação transitado em julgado em 6/8/2024, como afirma a própria defesa na inicial (e-STJ fl. 4), não se trata mais de prisão cautelar, e eventuais inconformismos quanto à execução da pena devem ser submetidos previamente ao juízo das execuções penais. De outro modo, se a defesa pretende revisar o conteúdo da condenação, o instrumento processual adequado seria a ação de revisão criminal e não o habeas corpus, que possui natureza mandamental e cognoscibilidade restrita.
+Dessa forma, diante da inexistência de decisão de mérito pelo Tribunal estadual, da inadequação da via eleita e da ocorrência de trânsito em julgado da condenação, o presente recurso em habeas corpus não comporta conhecimento, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso em habeas corpus.
+Intimem-se.
+EMENTA
