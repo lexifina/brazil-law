@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LEANDRO DE JESUS GOMES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 0008437-78.2025.8.26.0996.
+A impetrante relata que o paciente teve pedido de progressão de regime indeferido pelo Juízo das execuções, em razão da falta do requisito subjetivo necessário à concessão do benefício.
+No presente writ, sustenta que o paciente implementou o lapso temporal objetivo e ostenta bom comportamento carcerário, sendo indevida a negativa de progressão fundada em faltas disciplinares antigas já reabilitadas.
+Requer, em liminar e no mérito, a concessão da ordem para que seja deferida a progressão ao regime aberto.
+É o relatório.
+Decido.
+O presente writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído, não se verificando cópia do inteiro teor do ato coator (acórdão impugnado).
+Ademais, conforme certidão acostada à fl. 31 dos autos, "os documentos que acompanham a petição inicial não se referem ao paciente nela indicado".
+A despeito das razões delineadas na inicial, cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da ação. A propósito, confiram-se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JURI. INSURGÊNCIA DEFENSIVA EM FACE DA SENTENÇA DE PRONÚNCIA. AUSÊNCIA NOS AUTOS DO INTEIRO TEOR DO ACÓRDÃO DE ORIGEM. COMPREENSÃO DA CONTROVÉRSIA IMPOSSIBILITADA. INSTRUÇÃO DEFICIENTE DO WRIT. POSTERIOR PERDA DO OBJETO. INFORMAÇÃO DE SUPERVENIÊNCIA DA CONDENAÇÃO PERANTE O CONSELHO DE SENTENÇA. PREJUDICADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, como já decidido pela Relatoria anterior, não existia nos autos sequer o inteiro teor do acórdão do Tribunal de origem apontado como ato coator - o que, como já explicado, não permitiu a exata compreensão da controvérsia, por deficiência de instrução.
+III - Assente nesta Corte Superior que, "Identificada a falta de juntada aos autos do acórdão da Corte Estadual que efetivamente abordou o mérito constante no presente habeas corpus, resta evidenciada instrução deficiente a impedir continuidade na análise do pleito liberatório" (AgInt no HC n. 388.816/MA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/6/2017).
+IV - Ainda que assim não fosse, como destacado pelo próprio agravante, houve a superveniência de sua condenação perante o Conselho de Sentença (fl. 558). Diante disso, fica prejudicada a insurgência defensiva no presente writ em face da sentença de pronúncia, pela perda superveniente do objeto.
+V - A jurisprudência deste Tribunal Superior é firme no sentido de que "O recurso contra a decisão que pronunciou o acusado encontra-se prejudicado, na linha da jurisprudência dominante acerca do tema, quando o recorrente já foi posteriormente condenado pelo Conselho de Sentença" (AgRg no AREsp n. 1.412.819/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 17/8/2021)" (AgRg no HC n. 693.382/PE, Quinta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 28/10/2021). No mesmo sentido: HC n. 384.302/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 9/6/2017; RHC n. 63.772/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 25/10/2016; RHC n. 102.607/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/2/2019; e AgRg no HC n. 699.552/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/3/2022.
+VI - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental desprovido.
+(AgRg no HC n. 698.005/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. NÃO COLACIONADA A ÍNTEGRA DO ACÓRDÃO DE APELAÇÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. É dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos.
+2. É insuficiente a juntada apenas da ementa e do resultado dos julgamentos das decisões impugnadas. Os acórdãos, apontados como atos coatores, devem ser colacionados na íntegra.
+3. Agravo regimental improvido.
+(AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Cabe ressaltar, ainda, que a presente impetração traz pedido idêntico ao formulado no HC 1.044.590/SP, ainda em trâmite perante esta Corte Superior, e em ambos se ataca acórdão do Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 0008437-78.2025.8.26.0996.
+Assim, o conhecimento deste mandamus também resta obstaculizado ante inadmissível reiteração de pedidos, reservada a análise da controvérsia aos autos da primeira impetração.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO TENTADOS. RECURSO ORDINÁRIO INTERPOSTO SEM PROCURAÇÃO. DEFICIÊNCIA NÃO SANADA EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PARA CONHECIMENTO DA MATÉRIA DE OFÍCIO. INEFICÁCIA DE EVENTUAL REGULARIZAÇÃO. OBJETO DO RECURSO QUE CONSISTE EM MERA REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE ALTERAÇÃO QUE JUSTIFIQUE NOVO JULGAMENTO. AGRAVO REGIMENTAL QUE SE LIMITA A REPETIR AS ALEGAÇÕES PRÉVIAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual não consta dos autos procuração outorgada ao patrono do agravante, o que, nos termos do enunciado n. 115 da Súmula desta Corte, torna inexistente o recurso. Ademais, embora apontada a ausência na decisão ora atacada, não houve a regularização com a interposição do agravo regimental.
+2. Embora a jurisprudência desta Corte admita, em homenagem aos princípios da economia processual e da primazia da decisão de mérito, o afastamento, de ofício, de eventual ilegalidade patente, ou a concessão de prazo para a regularização do pressuposto de admissibilidade, nos termos do art. 76, caput, e art. 932, parágrafo único, do Código de Processo Civil, não é cabível, no caso, a apreciação do mérito do recurso, e também seria inócua a regularização do feito, eis que as alegações ora apresentadas consistem em mera reiteração de recurso prévio (RHC 185348/SP), cujo provimento foi negado em 11/9/2023 - ou seja, em data recente.
+3. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+4. Ademais, o agravante se limitou a reproduzir as razões do recurso ordinário, sem impugnar especificamente a decisão agravada.
+Todavia, " ..  a jurisprudência deste Superior Tribunal de Justiça orienta que o princípio da dialeticidade exige da parte a demonstração específica do desacerto da fundamentação no decisum atacado. Precedentes" (AgRg no HC n. 752.579/BA, Rel. Ministro JOÃO BATISTA MOREIRA (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+5. Agravo não conhecido .
+(AgRg no RHC n. 186.154/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
