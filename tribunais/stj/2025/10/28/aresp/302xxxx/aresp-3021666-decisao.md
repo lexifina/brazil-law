@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO BEZERRA DE LIMA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+O agravante foi condenado à pena de 7 (sete) anos, 3 (três) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, além de 725 (setecentos e vinte e cinco) dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico ilícito de entorpecentes).
+O Tribunal de origem negou provimento à apelação defensiva.
+No recurso especial, a defesa alegou: (i) quebra da cadeia de custódia de prova consistente em áudio que circulou em redes sociais; (ii) ilegalidade da entrada policial no domicílio sem mandado judicial e sem fundadas razões; e (iii) insuficiência probatória para a condenação (fls. 437/453).
+A decisão agravada inadmitiu o especial com base na Súmula 7/STJ, quanto às teses de quebra da cadeia de custódia, violação de domicílio e insuficiência probatória, além de consignar a inviabilidade de análise de matéria constitucional em sede de recurso especial (fls. 472/484).
+O agravante argumenta que a inadmissão, baseada na Súmula 7 do STJ, foi equivocada, pois seu recurso busca a revaloração jurídica dos fatos , e não o reexame fático, sobre dois pontos centrais: a ilegalidade de uma prova de áudio obtida com quebra da cadeia de custódia e a ilegalidade da entrada dos policiais em seu domicílio sem mandado judicial ou fundadas razões (fls. 486/491).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo ou, se conhecido, pelo desprovimento ao recurso (fls. 518/526).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão da aplicação da Súmula 7/STJ.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada.
+A petição de agravo limita-se a apresentar argumentações genéricas acerca da inaplicabilidade da Súmula 7/STJ, sem empreender o necessário cotejo analítico entre os fatos estabelecidos no acórdão e as teses recursais. Não demonstra, concretamente, que suas pretensões prescindem do revolvimento do quadro fático-probatório delineado pelas instâncias ordinárias.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+Nesse sentido:
+"São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023).
+Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca; e AgRg nos ED cl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi.
+Outrossim, a Corte Especial deste Tribunal Superior, em recente decisão, no julgamento do EAREsp n. 701.404/SC, perfilhou o entendimento de que a decisão que não admite o recurso especial tem dispositivo único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso, portanto, não há capítulos autônomos e, assim, deve ser impugnada em sua integralidade. Em reforço: AgRg no AREsp n. 1.825.284/ES, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Além disso, o agravo deixa de impugnar expressamente o fundamento relativo à inviabilidade de análise de matéria constitucional (art. 5º, inciso XI, da CF/88) em sede de recurso especial, obstáculo autônomo e suficiente para inviabilizar o processamento do apelo nobre.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido: AgRg no REsp n. 1.958.975/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik; e AgRg no AREsp 1.682.769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas .
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
