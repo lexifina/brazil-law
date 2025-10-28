@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que não admitiu recurso especial por entender que: (i) a pretensão esbarra no óbice da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório; (ii) não houve demonstração adequada do dissídio jurisprudencial, à luz do art. 1.029, § 1º, do Código de Processo Civil; (iii) inexistiu violação direta de norma federal; e (iv) é indevido o efeito suspensivo por ausência de probabilidade de provimento (art. 995, parágrafo único, do CPC) (fls. 971-972).
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida sustenta que o óbice da Súmula 7/STJ foi aplicado indevidamente, pois não pretende reexame de provas, mas revaloração jurídica de fatos incontroversos, especialmente quanto à arrematação por preço vil e à proteção do bem de família, com suporte em precedentes desta Corte.
+Defende que todas as matérias federais foram prequestionadas no acórdão recorrido e nos embargos de declaração, citando dispositivos do Código Civil, do CPC e das Leis 9.514/1997 e 8.009/1990, além dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC.
+Argumenta a existência de divergência jurisprudencial válida, com indicação de julgados do STJ sobre preço vil e bem de família, afirmando ter realizado o cotejo analítico exigido pelo art. 1.029, § 1º, do CPC, inclusive com a juntada de paradigma específico.
+Sustenta vício autônomo na arrematação por tratar a matrícula n. 29.962 como uno e indivisível, abrangendo unidade residencial não garantida fiduciariamente, em afronta à Lei 6.015/1973 e ao CPC, além da proteção legal do bem de família.
+Aduz que a revelia do banco agravado e a confissão parcial do arrematante consolidam fatos incontroversos que dispensam reexame probatório, permitindo a revaloração jurídica pelo STJ.
+Argumenta a necessidade de efeito suspensivo ao agravo, nos termos do art. 995, parágrafo único, do CPC, pela probabilidade de provimento e pelo perigo de dano grave à moradia dos agravantes.
+Impugnação ao agravo interno às fls. 1006-1012.
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Considerando todos os fundamentos da decisão que não admitiu o recurso especial acima relatados, observo que a parte, nas razões do seu agravo em recurso especial, deixou de rebatê-los devidamente, porquanto se limitou a defender a tempestividade e a gratuidade; a possibilidade de revaloração jurídica dos fatos; a existência genérica de prequestionamento; a ocorrência de divergência jurisprudencial e de múltiplas violações a normas federais; e a concessão de efeito suspensivo por risco à moradia (fls. 972-988).
+Observa-se que o fundamento relativo à incidência da Súmula 7/STJ não foi objetivamente impugnado, pois a parte não demonstra, de modo específico, quais são as premissas fáticas fixadas no acórdão recorrido que permaneceriam incontroversas e que permitiriam apenas a revaloração jurídica, limitando-se a reproduzir fatos e documentos dos autos sem indicar o trecho do acórdão que os tenha estabelecido como incontroversos.
+Nesse sentido:
+2. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos objetivos e suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da demanda.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.144.317/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Verifica-se, ainda, que o fundamento de ausência de demonstração adequada do dissídio jurisprudencial (art. 1.029, § 1º, do CPC) não foi enfrentado de modo suficiente, porquanto a mera menção à juntada de paradigma e a transcrição genérica de ementas não substituem o cotejo analítico exigido, com a indicação específica das circunstâncias que identifiquem ou assemelhem os casos confrontados e a transcrição dos trechos pertinentes do acórdão recorrido e dos paradigmas.
+Nesse sentido:
+ ..
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente o fundamento de inadmissibilidade consistente na ausência de cotejo analítico entre o acórdão recorrido e os acórdãos paradigmas, de forma a demonstrar a similitude fática entre eles e o confronto de teses jurídicas aplicadas.
+3. Conforme consignado pela decisão recorrida, não se considera comprovado o dissídio jurisprudencial com mera transcrição de ementa ou trecho esparso do acórdão paradigma, que não permite a constatação da alegada semelhança entre os julgados. Inobservância das exigências previstas no art. 1.043, § 4º, do Código de Processo Civil -CPC, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+4 . Agravo regimental desprovido.
+(AgRg no AREsp n. 2.096.679/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Além disso, o fundamento de inexistência de violação direta a norma federal não foi impugnado de forma específica, porque as razões se concentraram em alegações de nulidades e vícios sem demonstrar, de maneira clara, como, à luz das premissas fáticas fixadas no acórdão recorrido, haveria ofensa direta e imediata aos dispositivos federais invocados, o que é imprescindível em juízo de admissibilidade.
+Por fim, o indeferimento do efeito suspensivo, por ausência de probabilidade de provimento do recurso especial, não foi superado, já que não se afastaram adequadamente os óbices aplicados na decisão agravada, condição necessária para a concessão da medida.
+Registre-se que a impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015 e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos § § 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
