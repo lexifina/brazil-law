@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual a FAZENDA NACIONAL se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 1.402):
+TRIBUTÁRIO. REMESSA NECESSÁRIA E APELAÇÃO. PROCEDIMENTO COMUM. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PRINCÍPIO DA VERDADE MATERIAL. LAUDO PERICIAL. PRESCRIÇÃO. NULIDADE DA SENTENÇA. NÃO OCORRÊNCIA.
+1. Trata-se de Remessa Necessária e Apelação interposta pela UNIÃO FEDERAL em face de r. sentença que julgou parcialmente procedentes os pedidos para condenar a apelante a restituir à apelada os valores retidos a título de Contribuições Previdenciárias atinentes aos pedidos de restituição especificados na exordial (P As 12448.729.572/2015-99, 12448.729.573/2015-33, PA 12448.729.574/2015-88, PA 12448.729.575/2015-22, PA 12448.729571/2015-44), no valor apurado no laudo pericial (evento 125, dos autos principais), devidamente atualizado pela Taxa SELIC, desde os respectivos recolhimentos/antecipações.
+2. Cinge-se o objeto da presente ação em saber se, a despeito das irregularidades constatadas nos pedidos de restituição por erro no preenchimento dos PER/DCOM Ps, o crédito da contribuinte subsiste para fins de restituição, o qual poderia ser, inclusive, utilizado em procedimento de compensação com outros créditos existentes junto à RFB.
+3. Apesar de a sentença ter reconhecido a ausência de nulidade das decisões administrativas que denegaram a restituição pretendida, em homenagem ao princípio da verdade material, o Juízo a quo deferiu a realização de perícia contábil para aferir a existência de tais créditos, cujo laudo é impugnado pela União que alega o cerceamento do direito de defesa e, ainda, a prescrição.
+4. A parte autora tomou ciência das decisões administrativas em 17/08/2017, enquanto a presente ação foi protocolada em 19/01/2018, dentro, portanto, do prazo bienal previsto no artigo 169 do CTN, não tendo transcorrido o prazo prescricional alegado pela ré.
+5. Inexistiu omissão de respostas por parte do Perito, uma vez que todos os quesitos e questionamentos das partes, sobretudo da UNIÃO, foram respondidos e esclarecidos pelo expert com base em prova suficiente e idônea, apta a demonstrar a veracidade das alegações da parte autora.
+6. Há que se afastar a tese de nulidade da sentença, a qual está suficientemente fundamentada, com base em laudo pericial que corrobora a prova documental juntada aos autos e que evidencia a existência dos créditos a serem restituídos em favor da contribuinte.
+7. Honorários advocatícios majorados em 1% (um por cento), de acordo com o art. 85, §11, do CPC vigente.
+8. Apelação e Remessa Necessária que se negam provimento.
+Os embargos de declaração foram rejeitados (fl. 1.452).
+A parte recorrente alega violação dos arts. 489, § 1º, IV, 1.022 a 1.026 do Código de Processo Civil (CPC) em virtude de vícios de omissão e de contradição no acórdão recorrido, visto que a perícia não se manifestou sobre todos os pontos apresentados e que, devido às divergências apresentadas pelo assistente técnico da União, o perito do juízo deveria ser intimado para prestar esclarecimentos.
+Sustenta, ainda, que o Tribunal de origem foi omisso quanto à ocorrência da prescrição parcial, nos termos do art. 169 do Código Tributário Nacional (CTN).
+A parte adversa apresentou contrarrazões (fls. 1.486/1.496).
+O recurso especial não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte opôs embargos de declaração na origem com estes argumentos (fls. 1.415/1.424):
+Entretanto, ao seguir tal posicionamento, o v. acórdão deixou de considerar o disposto nos arts. 473/480 do CPC, sendo certo que o parecer apresentado pelo assistente técnico da União é divergente nos pontos apresentados, motivo pelo qual a intimação do perito do juízo deveria ser intimado pelo r. juízo.
+ ..
+Em resumo, conforme determina a legislação tributária, mister se fazia a juntada de diversos documentos pelo autor, para comprovar alegado direito à restituição da contribuição previdenciária, o que NÃO ocorreu, segundo demonstrado nos pareceres da Assistente Técnico da UNIÃO (eventos 132 e 147).
+ ..
+Da análise dos documentos grifados, é possível perceber que o contribuinte tomou ciência das decisões referente aos processos administrativos supra em janeiro/2016, ou seja, mais de dois anos antes do ajuizamento da presente ação e, por consequência, já tendo ocorrido a prescrição, nos termos do art. 169 do CTN.
+Ao apreciar o recurso integrativo, o TRF da 2ª Região assim decidiu (fl. 1.450):
+Em primeiro lugar, descabe a alegação de ausência de intimação do Perito para prestar esclarecimentos após a apresentação dos pontos divergentes pela assistente técnica da ré.
+Com efeito, o Perito respondeu a todos os questionamentos trazidos pela União, tanto inicialmente quanto em suas impugnações. Apesar de regularmente intimada, a UNIÃO não pugnou por nova intimação do Perito para os fins do art. 477, §3º do CPC/15, restringindo-se, todavia, a requerer a improcedência do pedido.
+Portanto, inexistiu omissão no acórdão que concluiu que todos os questionamentos das partes foram respondidos e esclarecidos pelo Expert do Juízo com base em prova suficiente e idônea, apta a demonstrar a veracidade das alegações da parte autora.
+Em segundo lugar, no que tange à prescrição, cabe observar que o voto considerou a data da ciência das decisões administrativas ocorrida no dia 17/08/2017, dentro do prazo bienal previsto pelo artigo 169 do CTN.
+Não merece prosperar o argumento da embargada de que v. acórdão encontra-se equivocado quanto à referida data de ciência do contribuinte, devidamente demonstrada pelos documentos juntados, sendo certo que se trata de mera irresignação da embargante.
+Quanto à suposta ausência de documentos específicos necessários para comprovar alegado direito à restituição da contribuição previdenciária, o i. Expert, ao elaborar o laudo pericial, assim o fez com base nas notas fiscais, recibos, GPS, PER/DCOMP, GFIF/SEFIP que foram aptos e suficientes para a realização do trabalho técnico, sendo desnecessária a realização de nova perícia.
+A Corte Regional consignou expressamente que: (1) a União não requereu nova intimação do perito para esclarecimentos (art. 477, § 3º, CPC); (2) a prescrição foi corretamente afastada, à luz do art. 169 do CTN; e (3) a prova pericial se baseou em documentos idôneos e suficientes, e respondeu todos os quesitos e questionamentos das partes litigantes, de modo que seria desnecessária nova perícia.
+Inexiste a alegada violação dos arts. 489, e 1.022 a 1.026 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados .
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
