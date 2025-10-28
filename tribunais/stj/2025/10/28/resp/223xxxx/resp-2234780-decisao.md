@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 66):
+ACIDENTÁRIO. ACIDENTE DE TRABALHO. AUXÍLIO-ACIDENTE. ANTECIPAÇÃO DE TUTELA. REVOGAÇÃO. POSSIBILIDADE DE DEVOLUÇÃO DE VALORES, AO CONCRETO.
+O STJ recentemente revisou a tese firmada no tema 692 ao efeito de permitir a repetição de valores recebidos a título de antecipação de tutela posteriormente revogada. Ao concreto, aplica-se tal entendimento, tendo em vista que o deferimento da antecipação de tutela ocorreu em momento posterior ao entendimento firmado no âmbito do REsp nº 1.401.560/MT (Tema 692/STJ).
+Apelo provido.
+Embargos de declaração acolhidos, sem efeitos modificativos.
+A parte recorrente alega violação do artigo 1.022, II, do Código de Processo Civil de 2015 (CPC/15), ao argumento de que a Corte de origem não se manifestou a respeito da impossibilidade de condicionamento da devolução dos valores recebidos pela parte autora, por força de antecipação de tutela posteriormente revogada, à hipótese de existir benefício previdenciário ativo que possibilite os descontos dos valores a serem restituídos, em contrariedade à tese firmada no Tema 692 do STJ.
+Quanto às questões de fundo, sustenta ofensa aos artigos 297, parágrafo único, 520, I e II, 302, I e 927, III, do CPC/15, ao argumento de que a tese do Tema 692 do STJ não condiciona a cobrança à existência de benefício ativo, mas apenas autoriza que a devolução possa ser operacionalizada mediante desconto de até 30% em eventual benefício ainda pago, sem exclusão de outros meios executivos e da liquidação nos próprios autos. Nesse sentido, defende que o uso do verbo "poder", na tese do Tema 692, denota possibilidade de desconto em benefício ativo, sem exclusividade dessa via, autorizando outros meios restituição.
+Sem contrarrazões.
+Juízo positivo de admissibilidade (fls. 83-88).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, registra-se que merece prosperar a insurgência recursal.
+Com efeito, infere-se dos autos que o Tribunal de origem, não obstante reconhecer, à luz do Tema 692/STJ, o cabimento da devolução dos valores pagos em sede de antecipação de tutela posteriormente revogada, estabeleceu que "a cobrança pode ser realizada nos próprios autos, no limite de 30% de benefício eventualmente ativo" (fl. 74).
+Ocorre que, segundo entendimento firmado por esta Corte, os valores percebidos pelo segurado a título de tutela antecipada e posteriormente revogada devem ser restituídos ao INSS, seja por meio de descontos, limitados a 30% (trinta por cento) do valor do benefício que ainda esteja sendo pago, seja por meio de inscrição do crédito na dívida ativa.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESTITUIÇÃO DE VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA. TEMA N. 692/STJ. OBSERVÂNCIA DO ART. 115, II, DA LEI N. 8.213/1991. DESCONTO SOBRE BENEFÍCIOS DE VALOR MÍNIMO. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo tese repetitiva consolidada no Tema n. 692/STJ, " a  reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".
+2. A cobrança da restituição dos valores pagos por força de tutela provisória posteriormente revogada dispensa o ajuizamento de ação própria, uma vez que, cassada a decisão que a antecipou os efeitos da tutela, a devolução dos valores é consequência natural, conforme dispõe o § 3º do art. 300 do CPC/2015.
+3. A restituição dos valores provenientes de antecipação de tutela posteriormente revogada deve observar o disposto no inciso II do art. 115 da Lei n. 8.213/1991, conforme definido no Tema n. 692/STJ, reafirmado no julgamento da Pet n. 12.482/DF.
+4. A Lei n. 8.213/1991 autoriza expressamente que a restituição do pagamento judicial do benefício previdenciário ou assistencial, indevido ou além do devido, pode ser feita mediante desconto no benefício ativo em valor que não exceda 30% (trinta por cento) da sua importância, não impondo nenhuma outra restrição, de forma que é possível o desconto mesmo em benefício de valor mínimo.
+5. Cabe ao INSS proceder a cobrança dos valores que entende devidos na forma do art. 115, II, § 3º, da Lei n. 8.213/1991, ou seja, (I) através de descontos nos casos de benefício em manutenção (art. 115, II, da Lei n. 8.213/1991); ou (II) inexistindo benefício em manutenção, deverá proceder a inscrição do crédito em dívida ativa (art. 115, § 3º, da Lei n. 8.213/1991).
+6. Agravo interno não provido (AgInt no REsp 2.171.052/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN 21/3/2025).
+Portanto, tendo o acórdão recorrido contrariado entendimento pacificado nesta Corte, de rigor sua reforma.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Publi que-se. Intime m-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. RESTITUIÇÃO DE VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA. TEMA N. 692/STJ. ACÓRDÃO EM DESCONFORMIDADE COM O ENTENDIMENTO DO STJ. RECURSO ESPECIAL PROVIDO.
