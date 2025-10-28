@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática, assim ementada (fl. 649, e-STJ):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489, § 1º, IV, e 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. ARTIGOS 3º DA LEI 8.073/90, 502, 503, 505 e 507, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MULTA DO ART. 1026, §2º, DO CPC/2015. AFASTAMENTO. EMBARGOS NÃO PROTELATÓRIOS. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESS A EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+O embargante sustenta: (a) contradição, sob o argumento de que a rejeição da alegação de violação do art. 1.022 do CPC/2015 impede o reconhecimento da ausência de prequestionamento e, portanto, a aplicação da Súmula 211/STJ, sob pena de ofensa ao art. 1.025 do CPC/2015; (b) omissão, sob o argumento de que a súmula n. 7/STJ foi aplicada mediante argumentação genérica, "sem trazer qualquer fundamentação sobre o motivo concreto de sua incidência" (fl. 727, e-STJ).
+Com impugnação.
+É o relatório.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De início, não se há falar em contradição entre o afastamento de violação do art. 1022, II, do CPC/2015 e o reconhecimento da ausência de prequestionamento, pois é perfeitamente possível que o acórdão recorrido se assente em fundamentos suficientes para justificar a própria conclusão sem necessariamente apreciar todas as teses levantadas pela parte.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. ALEGADA CONTRARIEDADE AO ART. 113 DA LEI N. 10.233 /2001. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. NÃO IMPUGNADOS TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N. 283 DO STF. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a alegada contrariedade ao art. 113 da Lei n. 10.233/2001, motivo pelo qual está ausente o necessário prequestionamento (Súmula n. 211 do STJ). Nos termos do entendimento desta Corte Superior, inexiste contradição quando se afasta a ofensa ao art. 1.022 do Código de Processo Civil e, ao mesmo tempo, se reconhece a falta de prequestionamento da matéria. Assim, é plenamente possível que o acórdão combatido esteja fundamentado e não tenha incorrido em omissão, e, ao mesmo tempo, não tenha decidido a questão sob o enfoque dos preceitos jurídicos suscitados pela parte recorrente.
+ ..
+5. Agravo interno desprovido. (AgInt no R Esp n. 2.090.026/RN, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em , D Je de ,23/9/2024 25/9/2024 grifei.)
+Quanto à aplicação da Súmula 7/STJ, foi expressamente consignado que "com relação aos limites subjetivos da coisa julgada, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o título executivo contempla somente os servidores representados pelo SINDIRETA/DF" (fl. 711, e-STJ, negritei).
+Além disso, foi destacada a existência de acórdão da Segunda Turma, além de decisão monocrática do Ministro Afrânio Vilela, que reconheceram a incidência do referido óbice na apreciação de recursos com temática idêntica à dos autos (fl. 712, e-STJ).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ALEGAÇÕES DE OMISSÃO E CONTRADIÇÃO. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
