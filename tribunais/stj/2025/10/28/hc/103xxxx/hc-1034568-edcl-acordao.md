@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Nesses termos, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por VICTOR KELLERMAN BARÃO DE OLIVEIRA contra acórdão de minha relatoria, no qual neguei provimento ao agravo regimental interposto em adversidade à decisão proferida pelo Ministro HERMAN BENJAMIN - Presidente do STJ -, que indeferiu liminarmente o writ, por não verificar no julgado impugnado ilegalidade flagrante que justificasse a concessão de habeas corpus de ofício, nos termos do art. 21- E, IV, c/c o art. 210, ambos do RISTJ.
+Segue a ementa do acórdão recorrido (e-STJ, fls. 93/97):
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+2. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada aos autos a cópia do acórdão de apelação.
+3. É cogente que a defesa do agravante apresente elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+4. Agravo regimental não provido.
+Nesta oportunidade (e-STJ, fls. 101/159), a defesa do embargante junta aos autos as cópias da denúncia, sentença, acordão de apelação e revisão criminal, e vindica o provimento dos embargos, com o reconhecimento do tráfico privilegiado (e-STJ, fl. 101).
+Diante disso, requer seja revisada a dosimetria da pena do embargante, ante a aplicação da minorante prevista no § 4º do art. 33, da Lei n. 11.343/2006.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão vergastado não viabiliza a oposição dos aclaratórios.
+2. Nesses termos, não verifico nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são tempestivos, contudo, não merecem ser acolhidos, pois é cediço que eles possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Com efeito, "os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide" (EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.076.319/MG, Rel. Ministro LÁZARO GUIMARÃES, Quarta Turma, julgado em 16/8/2018, DJe 22/8/2018).
+Nesses termos, não verifico na decisão embargada nenhum dos vícios constantes do art. 619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+Ao ensejo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CONFISSÃO ESPONTÂNEA QUALIFICADA. INCIDÊNCIA. OMISSÃO. INEXISTÊNCIA. MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II - Na espécie, à conta de omissão, pretende o embargante a rediscussão da matéria já apreciada tanto no julgamento do habeas corpus, quanto no julgamento do agravo regimental anteriormente opostos.
+III - A jurisprudência recente desta eg. Corte Superior firmou o entendimento de que a confissão qualificada, pela qual são suscitadas outras teses defensivas, descriminantes ou exculpantes, enseja a incidência da circunstância atenuante do art. 65, inciso III, alínea d, do Código Penal, devendo ser considerada na segunda fase da dosimetria da pena. Precedentes.
+IV - No julgamento dos EREsp n. 1.154.752/RS, datado de 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. Embargos de declaração rejeitados (EDcl no AgInt no HC n. 423.490/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/05/2018, DJe 21/05/2018).
+PROCESSUAL PENAL E PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. MERA IRRESIGNAÇÃO. INADMISSIBILIDADE. POSSIBILIDADE DE DECRETAÇÃO DE OFÍCIO DA PRISÃO PREVENTIVA NA FASE JUDICIAL. DECISÃO FUNDAMENTADA. EMBARGOS REJEITADOS.
+1. São inadmissíveis, por inadequados, os embargos de declaração em matéria criminal quando o recorrente não imputa, à decisão embargada, efetivamente quaisquer dos vícios elencados no art. 619 do CPP, pretendendo-se em verdade apenas a modificação do julgado.
+2. Ainda que o Ministério Público não tenha pedido a prisão preventiva da paciente ao apresentar a denúncia, o art. 311 do Código de Processo Penal - CPP possibilita ao Juiz a decretação de ofício da custódia cautelar no curso do processo, por decisão fundamentada.
+3. Embargos de declaração rejeitados (EDcl no HC n. 386.837/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 27/6/2017, DJe 1º/8/2017).
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. 1.AUSÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. INSURGÊNCIA QUANTO AO MÉRITO. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. 2. APLICAÇÃO ANALÓGICA DO ART. 28 DO CPP. MATÉRIA EFETIVAMENTE ANALISADA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. 3.ERRO DE FATO. SUPERVENIÊNCIA DE NOVAS PROVAS. INFORMAÇÃO CONSTANTE DOS AUTOS. 4. AUSÊNCIA DE ADITAMENTO DA DENÚNCIA. ADITAMENTO DA IMPUTAÇÃO. EQUÍVOCO QUE NÃO ALTERA A CONCLUSÃO DO JULGADO. 5.PEDIDO DE MANIFESTAÇÃO EXPRESSA SOBRE NORMA CONSTITUCIONAL. VIA INADEQUADA. COMPETÊNCIA DA SUPREMA CORTE. 6.EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+1. Os aclaratórios possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que negou provimento ao agravo regimental no recurso especial, não viabiliza a oposição dos aclaratórios.
+ ..
+6. Embargos parcialmente acolhidos, sem efeitos infringentes, apenas para que, onde consta "aditamento da denúncia", se leia "aditamento da imputação" (EDcl no AgRg no RHC n. 88.337/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 14/8/2018, DJe 24/8/2018).
+Assim, há de ser mantida a decisão agravada por seus próprios fundamentos.
+Ante o exposto, rejeito os presentes embargos.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
