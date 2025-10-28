@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC), interposto por MACENOR CHILE LOGISTICA SPA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo 7ª Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO OFERTADA PELA DEVEDORA. INSURGÊNCIA DA EXECUTADA. AVENTADA EXISTÊNCIA DE NULIDADE NOS AUTOS PRINCIPAIS. SUPOSTA AUSÊNCIA DE INTIMAÇÃO A RESPEITO DA SENTENÇA. REJEIÇÃO. INTIMAÇÃO EXARADA EM NOME DO PROCURADOR CONSTITUÍDO NOS AUTOS. MERA DIVERGÊNCIA EM RELAÇÃO AO NOME DA RÉ QUE NÃO PREJUDICOU A COMUNICAÇÃO PROCESSUAL. ATO QUE ATINGIU SUA FINALIDADE. ADEMAIS, EVENTUAL NULIDADE QUE DEVERIA SER ATACADA POR MEIO DE AÇÃO RESCISÓRIA. NULIDADE NÃO EVIDENCIADA. SUPOSTA AUSÊNCIA DE INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO DO DÉBITO NA FASE DE CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. INTIMAÇÃO PARA PAGAMENTO VOLUNTÁRIO REALIZADA EM NOME DO PROCURADOR CADASTRADO NOS AUTOS PRINCIPAIS. FINALIDADE DO ATO CUMPRIDA. RÉ QUE ESTAVA CIENTE DA EXISTÊNCIA DO PROCEDIMENTO EXECUTIVO. EVENTUAL DIVERGÊNCIA CADASTRAL IRRELEVANTE. OUTROSSIM, RECORRENTE QUE NÃO DEMONSTROU NENHUMA INTENÇÃO DE REALIZAR O PAGAMENTO VOLUNTÁRIO. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões de recurso especial (fls. 121-133, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: art. 272, § 2º, do CPC/2015; art. 280 do CPC/2015.
+Sustenta, em síntese: nulidade da intimação da sentença, publicada exclusivamente em nome de litisconsorte já excluído (MCN TRANSPORTES), apesar de identidade de patrono, em afronta ao art. 272, § 2º, e ao art. 280 do CPC.
+Contrarrazões apresentadas às fls. 155-190, e-STJ.
+Em juízo de admissibilidade (fls. 322-327, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 322-328, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A questão relativa à intimação restou assim deliberada pela instância de origem:
+Em análise aos autos de origem (n. 0303303-38.2018.8.24.0045), verifico que a demanda foi proposta em desfavor de Macenor Chile Logística Ltda, empresa chilena cuja representação no Brasil era exercida por Gustavo Gomes de Faria (evento 12, CONTRSOCIAL38).
+Por ocasião da contestação, sobreveio aos autos procuração firmada pelo representante Gustavo, outorgando a Alexandre Brandão Amaral poderes de representação da ré Macenor (evento 12, PROC40).
+Da sentença (evento 33, SENT1), houve a intimação de Alexandre Brandão Amaral, procurador constituído (evento 35 dos autos principais). Inclusive, houve a posterior oposição de embargos de declaração pela ré Macenor em face da sentença (evento 46, EMBDECL1), cujo peticionamento foi efetuado pelo procurador cadastrado nos autos, Dr. Alexandre.
+(..)
+Nesse sentido, não verifico a suposta nulidade afirmada pela agravante, uma vez que o procurador cadastrado no feito foi intimado a respeito da sentença, mas quedou-se inerte, insurgindo- se via embargos de declaração somente após o decurso do prazo previsto na legislação processual.
+Ademais, o fato de a intimação de ter sido direcionada à MCN (antiga representante da ré no Brasil) em nada prejudicou a ré Macenor, uma vez todas as intimações foram efetuadas por meio do procurador constituído pela requerida, tratando-se de mero erro de cadastramento no sistema e- proc.
+Isso porque, quando iniciado o cumprimento de sentença, houve nova intimação em nome do procurador cadastrado nos autos principais, Dr. Alexandre Brandão. Inclusive, o procurador peticionou nos autos formulando pedido de reconsideração (evento 17, PED RECONSIDERAÇÃO1), aduzindo não haver trânsito em julgado na ação principal. Em nova petição (evento 19, PET1), reiterou a existência de recurso de apelação. E registre-se que nessas petições não houve a alegação de nulidade da intimação.
+Isto é, ainda que a intimação tenha sido direcionada à MCN - Transportes e Representações (antiga representante da requerida no Brasil), a comunicação processual alcançou sua finalidade, uma vez que tornou o procurador constituído pela ré ciente do cumprimento de sentença. Tanto é que houve o comparecimento nos autos.
+Somente após o bloqueio a ré Macenor aduziu a tese de nulidade. Entretanto, o procurador até então constituído já estava ciente do cumprimento de sentença e deveria ter alegado eventual nulidade em sua primeira manifestação nos autos (evento 17, PED RECONSIDERAÇÃO1).
+Ao que parece, a executada almejava manter uma possível nulidade em seu acervo de teses defensivas.
+Observa-se, da simples leitura das razões acima transcritas, que a controvérsia foi resolvida a partir do exame probatório dos autos, razão pela qual "a jurisprudência do Superior Tribunal de Justiça veda, em recurso especial, o reexame do conjunto fático-probatório dos autos, conforme a Súmula 7 do STJ, o que impede a revisão da conclusão do Tribunal a quo sobre a insuficiência da intimação" (AgInt nos EDcl no AREsp n. 2.733.862/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2025, DJEN de 14/10/2025.)
+Por fim, verifica-se que o acórdão estadual está em sintonia com o entendimento desta Corte Superior no sentido de que "a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável e quando óbvia a ciência do referido vício muito anteriormente à arguição, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça, inclusive nas hipóteses de nulidade absoluta" (REsp n. 1.714.163/SP, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe 26.9.2019).
+Incidência, na hipótese, das Súmulas 07 e 83 do STJ.
+2. Ante o exposto, não conheço do reclamo.
+Julgo, outrossim, prejudicada a TUTPRV juntada às fls. 379/395 (e-STJ).
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
