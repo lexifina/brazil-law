@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. REQUISITOS DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que, em julgamento de agravo regimental em recurso especial, negou provimento ao agravo por ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+2. O embargante foi condenado por homicídio tentado e porte ilegal de arma de fogo, com pena de 9 anos de reclusão em regime fechado, sendo absolvido do crime de ameaça. Após a rejeição de apelação pelo Tribunal de Justiça, interpôs recurso especial, inadmitido com base nas Súmulas 283 do STF e 7 do STJ. O agravo em recurso especial também não foi conhecido, levando à interposição de agravo regimental, que foi rejeitado pela Sexta Turma do STJ.
+3. O embargante alega omissão quanto à violação do art. 479 do Código de Processo Penal e contradição em relação à impugnação das Súmulas 283 do STF e 7 do STJ.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o acórdão embargado apresenta omissão ou contradição quanto à análise da violação ao art. 479 do Código de Processo Penal e à aplicação das Súmulas 283 do STF e 7 do STJ.
+III. Razões de decidir
+5. O acórdão embargado foi devidamente fundamentado, destacando que a ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo, conforme o princípio da dialeticidade recursal.
+6. Não há omissão, pois o agravo regimental não ultrapassou o juízo de admissibilidade em razão da aplicação da Súmula 182 do STJ, sendo desnecessária a análise de mérito quanto à alegada violação ao art. 479 do CPP.
+7. Não há contradição, uma vez que a repetição de argumentos já rejeitados, como a impugnação à aplicação das Súmulas 283 do STF e 7 do STJ, não configura vício no acórdão embargado.
+8. A pretensão de rediscutir matéria já decidida, consubstanciada na insatisfação com o resultado, é incabível na via eleita.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo.
+2. A mera repetição de argumentos já rejeitados não configura omissão ou contradição no acórdão embargado.
+Dispositivos relevantes citados: CPP, art. 479; CPC, art. 932, III.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2176543/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023; STJ, AgRg no AREsp 2422499/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 05/03/2024; STJ, EDcl no AgRg nos EDcl no AREsp 2481963/PR, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 09/04/2024; STJ, EDcl nos EDcl no AgInt no AREsp 1905423/SP, Segunda Turma, julgado em 06/03/2023.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Franscisco de Assis Rosa contra acórdão desta Corte em julgamento de Agravo Regimental em Recurso Especial.
+Sustenta o embargante que foi denunciado por crimes de homicídio tentado, porte ilegal de arma de fogo e ameaça. Submetido a julgamento pelo Tribunal do Júri, acabou condenado a 9 anos de reclusão em regime fechado, sendo absolvido apenas pelo crime de ameaça.
+A defesa interpôs apelação, mas o Tribunal de Justiça rejeitou a preliminar e manteve a condenação.
+Na sequência, foi interposto Recurso Especial, inadmitido pelo Tribunal local sob os óbices das Súmulas 283 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Interposto Agravo em Recurso Especial, este não foi conhecido monocraticamente, levando a defesa a apresentar Agravo Regimental, no qual reiterou a violação ao art. 479 do Código de Processo Penal.
+Todavia, a Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo regimental, entendendo haver ausência de impugnação específica, o que motivou a interposição dos presentes Embargos de Declaração.
+Alega o Embargante que o acórdão deixou de enfrentar, de forma concreta, a alegação da Defesa de violação ao art. 479 do Código de Processo Penal, bem como que houve contradição, pois há expressa impugnação à aplicação das Súmulas 283 do STF e 7 do STJ.
+Requer seja sanado o vício apontado de modo a se acolher os presentes embargos, admitindo o recurso especial interposto.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. REQUISITOS DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. EMBARGOS REJEITADOS.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão que, em julgamento de agravo regimental em recurso especial, negou provimento ao agravo por ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+2. O embargante foi condenado por homicídio tentado e porte ilegal de arma de fogo, com pena de 9 anos de reclusão em regime fechado, sendo absolvido do crime de ameaça. Após a rejeição de apelação pelo Tribunal de Justiça, interpôs recurso especial, inadmitido com base nas Súmulas 283 do STF e 7 do STJ. O agravo em recurso especial também não foi conhecido, levando à interposição de agravo regimental, que foi rejeitado pela Sexta Turma do STJ.
+3. O embargante alega omissão quanto à violação do art. 479 do Código de Processo Penal e contradição em relação à impugnação das Súmulas 283 do STF e 7 do STJ.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o acórdão embargado apresenta omissão ou contradição quanto à análise da violação ao art. 479 do Código de Processo Penal e à aplicação das Súmulas 283 do STF e 7 do STJ.
+III. Razões de decidir
+5. O acórdão embargado foi devidamente fundamentado, destacando que a ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo, conforme o princípio da dialeticidade recursal.
+6. Não há omissão, pois o agravo regimental não ultrapassou o juízo de admissibilidade em razão da aplicação da Súmula 182 do STJ, sendo desnecessária a análise de mérito quanto à alegada violação ao art. 479 do CPP.
+7. Não há contradição, uma vez que a repetição de argumentos já rejeitados, como a impugnação à aplicação das Súmulas 283 do STF e 7 do STJ, não configura vício no acórdão embargado.
+8. A pretensão de rediscutir matéria já decidida, consubstanciada na insatisfação com o resultado, é incabível na via eleita.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Embargos de declaração rejeitados.
+Tese de julgamento:
+1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo.
+2. A mera repetição de argumentos já rejeitados não configura omissão ou contradição no acórdão embargado.
+Dispositivos relevantes citados: CPP, art. 479; CPC, art. 932, III.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2176543/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023; STJ, AgRg no AREsp 2422499/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 05/03/2024; STJ, EDcl no AgRg nos EDcl no AREsp 2481963/PR, Rel. Min. Jesuíno Rissato, Sexta Turma, julgado em 09/04/2024; STJ, EDcl nos EDcl no AgInt no AREsp 1905423/SP, Segunda Turma, julgado em 06/03/2023.
+VOTO
+Conforme relatado, busca o embargante seja sanada suposta omissão quanto a alegação de violação ao artigo 479 do Código de Processo Penal e a suposta contradição em virtude da expressa impugnação a aplicação das Súmulas 283 do STF e 7 do STJ.
+O acórdão embargado encontra-se assim fundamentado:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. REQUISITOS DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO PROVIDO. I. Caso em exame 1. Agravo interposto contra decisão que não conheceu do agravo em recurso especial. 2. Alegação de violação ao art. 479 do CPP em virtude de juntada de documentos pelo Ministério Público sem prévia ciência da defesa. II. Questão em discussão 3. A discussão consiste em saber se o agravo preenche os requisitos de admissibilidade, especialmente quanto à impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial. III. Razões de decidir 4. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo. 5. A mera alegação genérica de não incidência das súmulas não é suficiente para afastar os óbices sumulares. 6. O princípio da dialeticidade recursal exige que a parte recorrente demonstre concretamente o desacerto da decisão recorrida. IV. Dispositivo e tese 7. Agravo regimental não provido. Tese de julgamento: 1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo. 2. A mera alegação genérica de não incidência das súmulas não é suficiente para afastar os óbices sumulares. Dispositivos relevantes citados: CPP, art. 479; CPC, art. 932, III. Jurisprudência relevante citada: STJ, AgRg no AREsp 2176543/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 21/03/2023; STJ, AgRg no AREsp 2422499/SP, Rel. Ministra Daniela Teixeira, Quinta Tuma, julgado em 05/03/2024.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, hipóteses que não se fazem presentes.
+Não há o que se falar em vício no acórdão embargado, tendo em vista que a matéria foi decidida com a devida e clara fundamentação, no sentido de que é imprescindível que o recorrente impugne especificamente todos os óbices apontados, não se prestando a tal a mera repetição das teses recursais.
+Com efeito, inexiste omissão nos casos em que o agravo regimental nem sequer ultrapassa o juízo de admissibilidade, ante a aplicação da Súmula n. 182/STJ. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ . OMISSÃO. INEXISTÊNCIA. RECURSO OBSTADO NO JUÍZO DE ADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO . NÃO CABIMENTO. 1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão . 2. Não há falar em omissão, pois o agravo regimental nem sequer ultrapassou o juízo de admissibilidade, ante a aplicação da Súmula n. 182/STJ. Precedentes . 3. Nos termos da jurisprudência desta Corte, não cabe pleitear a concessão de habeas corpus de ofício, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, em se considerando que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção. 4. Embargos de declaração rejeitados. (STJ - EDcl no AgRg nos EDcl no AREsp: 2481963 PR 2023/0374233-3, Relator.: Ministro JESUÍNO RISSATO DESEMBARGADOR CONVOCADO DO TJDFT, Data de Julgamento: 09/04/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 12/04/2024).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182 DO STJ . ERRO MATERIAL. OCORRÊNCIA. CORREÇÃO. OMISSÃO . INEXISTÊNCIA. REDISCUSSÃO. IMPOSSIBILIDADE. 1 . Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado. 2 . Na hipótese dos autos, verificada apenas a ocorrência de erro material, acolhem-se os embargos para a correção do vício. 3. O acórdão que apreciou os primeiros embargos de declaração, de maneira clara e fundamentada, não verificou a ocorrência de qualquer vício, razão pela qual a aplicação da Súmula n. 182 do STJ, ao caso concreto, fora mantida . 4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Embargos de declaração parcialmente acolhidos sem efeitos infringentes apenas para corrigir erro material.(STJ - EDcl nos EDcl no AgInt no AREsp: 1905423 SP 2021/0162487-2, Data de Julgamento: 06/03/2023, T2 - SEGUNDA TURMA, Data de Publicação: DJe 13/03/2023).
+Ademais, não há que se falar em contradição no acórdão embargado, haja vista que o embargante repete, com a mesma argumentação, suposta impugnação à aplicação das Súmulas 283 do STF e 7 do STJ, que já foi rejeitada na decisão agravada.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Ademais, o inconformismo com o resultado dos julgamentos anteriores não pode servir de argumento à interposição/oposição continuada de recursos, com mera repetição das razões anteriores, especialmente diante da ausência de vícios no acórdão embargado.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
