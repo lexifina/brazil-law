@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por KAREN LORENA FERREIRA ALVES DE OLIVEIRA à decisão de fls. 570/571, que não conheceu do recurso.
+Sustenta a parte embargante:
+Ocorre que a decisão ora objurgada deixou de apreciar a ocorrência de suspensão dos prazos processuais no Tribunal de origem (Eg. TJDFT), nos dias 19 e 20 de junho de 2025, em decorrência do feriado de Corpus Christi e ponto facultativo subsequente, os quais estão expressamente previstos na Portaria Conjunta 1 de 02/01/2025, a qual foi disponibilizada no DJ-E de 08/01/2025, EDIÇÃO N. 5, FLS. 3-5, data de publicação: 09/01/2025.
+Tal omissão compromete a análise da tempestividade do recurso interposto, uma vez que a correta contagem do prazo deve considerar os dias em que houve suspensão determinada por ato oficial do Tribunal.
+A fim de demonstrar a tempestividade do Agravo em Recurso Especial interposto, detalha-se a seguir a contagem:
+ ..
+Vê-se, pois, que a parte recorrente observou o prazo processual de interposição do recurso cabível, valendo-se de expressa suspensão em ato oficial do tribunal a quo.
+Ademais, a suspensão supramencionada é reforçada pelo próprio sistema do Tribunal de origem (PJe), no qual restou consignada a data final de manifestação acerca da decisão de inadmissibilidade do apelo especial interposto como sendo 30/06/2025. Veja-se:
+ ..
+Noutro ponto, urge observar que a Lei 14.939/2024 foi editada para prestigiar o princípio da primazia da resolução de mérito, prevendo a possibilidade de o julgador desconsiderar a ausência de documento comprobatório de feriado no ato da interposição do recurso, caso a informação conste no processo eletrônico.
+Nessa linha, considerando que a informação de suspensão consta em calendário oficial do tribunal, com ampla divulgação, e que a suspensão aqui referenciada foi a razão para constar no sistema do PJe a data final de manifestação de 30/06/2025, há possibilidade de desconsideração da não juntada no momento da interposição, com base na legislação anteriormente citada, o que também não foi objeto de consideração na decisão ora embargada (fls. 574/576).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 19.6.2025 e 20.6.2025 são supostamente feriados locais, razão pela qual a parte foi intimada, nos termos do art. 1.003, § 6º, do CPC, bem como da QO no AREsp n. 2.638.376/MG para comprovar a tempestividade, contudo, contudo deixou o prazo transcorrer in albis.
+Observe que, nos termos da jurisprudência desta Corte, "a segunda-feira de Carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt no AREsp n. 2.495.948/PE, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 2.5.2024).
+Todavia, devem ser apresentados documentos aptos a comprovar a tempestividade do recurso, não servindo prints de tela ou imagens de páginas extraídas da internet e inseridas na petição, como pretende a parte.
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.).
+Mesmo porque o sistema do Tribunal a quo considera para a contagem dos prazos processuais as suspensões ocorridas naquela corte, que no caso, devem sempre ser comprovadas pela parte recorrente quando da apresentação dos recursos para este Superior Tribunal de Justiça, nos termos do que preceitua o art. 1.006, § 3º do CPC.
+No mais, cumpre registrar que é entendimento deste Superior Tribunal de Justiça que "Os princípios da instrumentalidade das formas e da primazia do julgamento do mérito não autorizam as partes a desrespeitarem as formalidades legais necessárias ao conhecimento dos recursos (AgInt no AR Esp n. 2.632.327/SP, Rel. Ministro Marco Buzzi, Quarta Turma, D Je de 29.8.2024.)
+Ademais, o documento trazido nestes embargos (fls. 577/579 ) não pode ser aceito. Deveria ter sido apresentado no momento oportuno, porquanto preclusa a oportunidade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
