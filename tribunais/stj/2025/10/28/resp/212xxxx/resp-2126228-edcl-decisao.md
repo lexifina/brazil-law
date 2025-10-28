@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO PARANÁ contra decisão que conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento pela inocorrência de afronta ao artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015) e pela incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça (STJ) (fls. 141-147).
+Nos declaratórios, a parte embargante alega haver omissão na decisão, sob o fundamento de que "a matéria em discussão foi afetada - e julgada - pelo rito dos recursos repetitivos pela C. Primeira Seção, em 16/06/2025, no REsp n. 2.057.984/CE, relatora Ministra Maria Thereza de Assis Moura, Primeira Seção, julgado em 11/6/2025, Tema Repetitivo 1311/STJ  ..  Como se verifica, no referido julgamento, restou assentado que: "O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença." (fls. 152-154).
+Sem impugnação (fl. 163).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada foi clara ao decidir o recurso, inclusive nos termos do julgado que menciona, em razão da ausência de negativa da prestação jurisdicional e ainda pelo seguinte (fl. 146):
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a aplicação da modulação dos efeitos do Tema n. 880/STJ, em especial quanto a assertiva de que cumprido o requisito de que "estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação)", demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+Ora, resta claro que a tese firmada no Tema n. 1.311/STJ - no sentido de que "O curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública não é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença" -, não tem o condão de alterar a fundamentação jurídica da decisão embargada nem de impingir-lhe a pecha de omissa.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
