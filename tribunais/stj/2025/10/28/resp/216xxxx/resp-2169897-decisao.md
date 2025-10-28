@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE PARAUAPEBAS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no julgamento da Apelação/Remessa Necessária n. 801694-83.2020.8.14.0040.
+Consta dos autos que o Juízo de primeiro grau julgou parcialmente procedente a ação de cobrança ajuizada pelo ora Recorrido (fls. 159-156).
+O relator da apelação/remessa necessária no Tribunal de origem, por meio da decisão monocrática de fls. 192-197, deu parcial provimento ao recurso, a fim de, mantendo a prescrição quinquenal, aplicar, quanto aos consectários, os Temas n. 810 do STF e 905 do STJ, entendimento esse que foi mantido quando do julgamento do agravo interno (fls. 218-228).
+A propósito, a ementa do referido julgado (fl. 218):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL/REMESSA NECESSÁRIA. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO COM DIREITO AO RECEBIMENTO DE FGTS EM DECORRÊNCIA DE CONTRATO NULO. PEDIDO DE APLICAÇÃO DA PRESCRIÇÃO BIENAL. REJEITADO. INTELIGÊNCIA DO ART. 1º DO DECRETO 20.910/32. PRETENSÃO DE APLICAÇÃO DA TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA. REJEITADO. APLICAÇÃO DO TEMA 810 DO STF E TEMA 905 DO STJ. RECURSO CONHECIDO E DESPROVIDO.
+1. 1. O agravante defende que no caso deve ser aplicado a prescrição bienal e a TR como índice de correção monetária.
+2. 2. O caso versa sobre contrato de natureza administrativa, sendo pacífico o entendimento desta corte sobre a aplicação da prescrição quinquenal em causas que a Fazenda Pública figure como devedora, como já exaustivamente debatido e pacificado nesta Corte e Tribunais Superiores. Nesse casos, a prescrição aplicada é o quinquenal, previsto no art.1º do Decreto 20.910/32.
+3. 3. Com relação a aplicação da TR, verifico que o FGTS devido ao servidor é oriundo de condenação judicial contra a Fazenda Pública. Nesses casos, os consectários legais a serem aplicados para os cálculos da condenação da Fazenda Pública deverão incidir juros de mora e correção monetária na forma consignada pelos julgados paradigmáticos pelo C. STF no Tema 810 (RE nº 870.974) e pelo STJ no Tema 905 (REsp nº 1.495.146/MG), sendo que o valor devido será devidamente apurado na fase de liquidação.
+4. 4. Agravo Interno conhecido e improvido.
+Sustenta o Recorrente, nas razões do apelo nobre (fls. 229-247), além da existência de dissídio pretoriano, contrariedade ao art. 1.030, inciso III, do CPC/2015; ao art. 13 da Lei n. 8.036/90; ao art. 12 da Lei n. 8.177/91; bem como ao Tema Repetitivo n. 731 do STJ.
+Afirma que laborou em equívoco a Corte de origem ao adotar o IPCA-E como índice de correção monetária para pagamento do FGTS decorrente de contrato de trabalho julgado nulo, sendo certo que, para esse desiderato, o correto é aplicar a TR, tendo em vista que a natureza fundiária da citada verba é inarredável, não podendo ser transmutada em débito comum da Administração Pública, a justificar a incidência do quanto disposto no Tema n. 810 do STF e 905 do STJ.
+Esclarece que o Supremo Tribunal Federal, no bojo da ADI n. 5090-DF, determinou a suspensão, até o julgamento definitivo da citada ação direta de inconstitucionalidade, de todos os feitos que versem sobre a incidência da TR sobre depósitos do FGTS. Portanto (fl. 243):
+ ..  o acórdão recorrido violou a suspensão imposta pelo STF na ADI 5090/DF, que deferiu liminar suspendendo todos os processos versando sobre o assunto, que é o caso dos autos e consequente o que prevê o art. 1.030, III do CPC. Havendo o prosseguimento deste processo, existe grande possibilidade de ser julgado sem que haja um posicionamento daquela ação no STF.
+Assevera que não cabe a condenação ao pagamento da verba relativa ao FGTS corrigida monetariamente nos termos do estabelecido no acórdão recorrido e, assim, pugna pela adoção da Taxa Referencial (TR).
+Ao final, requer (fl. 246; sem grifos no original):
+I - que seja recebido e processado o presente Recurso Especial, dada a sua tempestividade, cuja peça foi subscrita por procurador do Município, legitimamente investidos no cargo via concurso público;
+II - que o presente recurso seja conhecido e provido para:
+- reformar o acórdão Num. 13066658, para determinar o sobrestamento do feito em razão do prevê o art. 1.030, III do CPC ou a aplicação da TR como índice de correção proveniente de condenações ao pagamento do FGTS em face da fazenda pública municipal, ora recorrente, decorrente de contrato nulos;
+Foram apresentadas contrarrazões (fls. 324-325).
+O Vice-Presidente do Tribunal de Justiça do Estado do Pará determinou o sobrestamento do recurso especial até o julgamento da ADI n. 5090/DF (fls. 326-328).
+O Recorrido, por intermédio da petição de fls. 329-331, informou que concorda com o pleito veiculado no apelo nobre, relativo à aplicação da Taxa Referencial (TR) aos débitos discutidos no presente feito e, por conseguinte, pugnando pela perda de objeto do recurso especial.
+Diante do pleito mencionado anteriormente, o Vice-Presidente da Corte a quo, considerando exaurida a instância ordinária, admitiu o recurso especial e determinou o envio do feito ao Superior Tribunal de Justiça (fls. 334-336).
+Nesta Corte Superior de Justiça, os autos foram distribuídos à minha relatoria em 11/ 9/2024 (fl. 340).
+Por meio do despacho de fl. 341, o Recorrente foi intimado a se manifestar a propósito dos pleitos formulados pelo ora Recorrido às fls. 329-331.
+O Município de Parauapebas/PA, por intermédio da petição de fls. 347-348, assim se pronunciou "O ente público concorda com os termos da petição de fls. 329- 331, quanto a aplicação da TR".
+É o relatório.
+Decido.
+Com efeito, a questão de fundo discutida no recurso especial interposto pelo Município de Parauapebas/PA diz respeito à aplicação da Taxa Referencial (TR) às verbas atinentes ao Fundo de Garantia por Tempo de Serviço - FGTS devidas ao ora Recorrido, dado que o Tribunal a quo, determinara, no acórdão recorrido, a incidência dos índices preconizados no Tema n. 810 do STF e 905 do STJ.
+Pois bem. José Lima Carneiro, ora Recorrido, em momento posterior à interposição do apelo nobre ora sob exame, apresentou petição informando concordar com o pedido formulado nas razões do recurso especial, isto é, a aplicação da TR como índice de correção monetária, fazendo juntar, inclusive, declaração nesse sentido (fl. 331).
+Por seu turno, o Município de Parauapebas/PA, ora Recorrente, de forma expressa, concordou com o pedido do o ra Recorrido.
+Ante o exposto, em sendo a aplicação da Taxa Referencial (TR) sobre as verbas devidas a título de FGTS a questão de fundo discutida no presente apelo nobre e havendo concordância de ambas as partes quanto à aplicação do citado índice de correção, JULGO PREJUDICADO o recurso especial por perda de objeto.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - FGTS. SERVIDOR PÚBLICO. CONTRATO DE TRABALHO NULO. ÍNDICE DE CORREÇÃO MONETÁRIA. CONCORDÂNCIA EXPRESSA DE AMBAS AS PARTES QUANTO À INCIDÊNCIA DA TAXA REFERENCIAL (TR). PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
