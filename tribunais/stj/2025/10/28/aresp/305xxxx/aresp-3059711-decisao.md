@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SEPROL - COMÉRCIO E CONSULTORIA EM INFORMÁTICA LTDA., LEANDRO HEITOR BECKER, ANDREI GARCIA E GENESIO HOFFMANN, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (TJMT), nos autos do Agravo Interno n. 1009681-12.2016.8.11.0041. A Corte estadual negou provimento ao recurso interposto pelos recorrentes, mantendo a decisão monocrática que afastou a prescrição do crédito tributário, produzindo como efeito a continuidade da execução fiscal.
+O acórdão recorrido apresenta a seguinte ementa (fl. 319):
+AGRAVO INTERNO  APELAÇÃO  EXECUÇÃO FISCAL  NÃO OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA  ARTIGO 174 DO CÓDIGO TRIBUTÁRIO NACIONAL  NÃO ESCOAMENTO DO PRAZO DE CINCO (5) ANOS. Deve ser afastada a prescrição da pretensão executiva, quando não evidenciado o escoamento do prazo de cinco (5) anos, previsto no artigo 174 do Código Tributário Nacional. Recurso não provido.
+Na origem, ESTADO DE MATO GROSSO ajuizou ação de execução fiscal contra Seprol - Comércio e Consultoria em Informática Ltda., Leandro Heitor Becker, Andrei Garcia e Genesio Hoffmann. Alegou, em síntese, que os créditos tributários de ICMS e multas decorrentes de infrações não foram quitadas. O crédito tributário, no montante de R$ 567.529,96 (quinhentos e sessenta e sete mil, quinhentos e vinte e nove reais e noventa e seis centavos), decorre do não recolhimento de ICMS, conforme Certidão de Dívida Ativa (CDA). Os embargos de declaração opostos na sequência foram rejeitados (fls. 356-373).
+Nas razões do recurso especial (fls. 419-431), a parte recorrente alega violação do art. 174 do Código Tributário Nacional. Sustenta que o termo inicial do prazo prescricional deve ser a data da ciência do lançamento tributário, e não a data do aviso de cobrança constante na Certidão de Dívida Ativa (CDA).
+Argumenta que a legislação estadual não pode alterar os prazos prescricionais previstos no CTN, que é lei complementar de aplicação nacional.
+Requer, ao final, o conhecimento e provimento do recurso especial, a fim de reformar o acórdão recorrido e reconhecer a prescrição da pretensão executiva.
+Sem apresentação de contrarrazões (fls. 441-442).
+O recurso especial não foi admitido pelo Tribunal de origem (fls. 443-447), o que deu origem ao agravo em recurso especial (fls. 452-458).
+A contraminuta foi apresentada às fls. 465-466.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+A Corte local afastou a prescrição, nos seguintes termos (fls. 324-327):
+No caso, o despacho de citação foi proferido após a vigência da Lei Complementar nº 118, de 9 de fevereiro de 2005, portanto, é causa interruptiva do prazo prescricional.
+ ..
+Devido ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS tratar-se de crédito tributário sujeito a lançamento por homologação, quando não há o pagamento do tributo declarado, o Superior Tribunal de Justiça entende que o termo inicial da prescrição da pretensão executiva deve ser considerado o que ocorrer por último entre o vencimento da obrigação ou a entrega da declaração.
+ ..
+Por sua vez, ausente a declaração e, por óbvio, o não pagamento, o crédito tributário será lançado de ofício, nos termos do artigo 149, II, do Código Tributário Nacional. Nesse caso, o termo inicial da prescrição da pretensão executiva será a notificação de lançamento.
+ ..
+Consoante está na certidão de dívida ativa nº 201513514, não se trata de exigência de pagamento de imposto declarado e não pago, mas, sim, de autuação, porque deixou e recolher Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS Garantido:
+ ..  Tipo de Processo: Aviso de Cobrança II.
+Nº Aviso Cobrança II: 781737.
+Data: 06/03/2014.
+Número da CDA: 201513514.
+Data Inscrição CDA: 25/08/2015.
+ ..
+Nº Processo Órgão: 781737.
+ ..
+Infração: . Recolhimento ICMS - Garantido
+Descrição Infração: Deixou de recolher e/ou recolheu a , o ICMS Garantido,menor, no(s) prazo(s) regulamentar(es) devido por ocasião da entrada no Estado de Mato Grosso das operações com mercadorias ou prestações, provenientes de outras unidades da Federação ou do exterior.
+Enquadramento: Artigos 435-L, inciso I, § 4º, e 435-M do RICMS aprovado pelo Decreto Estadual 1944 de 06/10/89, combinado com Portaria Circular nº 100/96-SEFAZ.
+Penalidade: Artigo 45, inciso I, alínea d da Lei Estadual 7098/98.
+ ..
+Infração: Venda de mercadoria de forma virtual com entrega neste Estado.
+Descrição Infração: Efetuou venda de mercadoria de forma virtual a pessoa física residente neste Estado.
+Enquadramento: Artigo 45, inciso X, alínea K da Lei 7.098/98.
+Penalidade: Artigo 45, inciso X, alínea K da Lei 7.098/98.  .. . (Id. 151348044 - fls. 1).  sem negrito no original
+Sem a mínima prova de que contribuinte procedeu à declaração, não há como admitir que se tivesse como constituído o crédito tributário a partir de declaração que não foi feita. Logo, a data de vencimento dos créditos tributários não pode ser considerada como termo inicial do prazo de prescrição.
+Ademais, na certidão de dívida ativa nº 201513514, consta que o crédito tributário teria sido constituído definitivamente em 6 de março de 2014 por nº 781737 (aviso de cobrança fazendária Id. 151348044 - fls. 1).
+De fato, com a entrada em vigor da Lei do Estado de Mato Grosso nº 8.715, de 26 de setembro de 2007, a qual acrescentou à Lei do Estado de Mato Grosso nº 7.098, de 30 de dezembro de 1998, que consolida normas referentes ao Imposto Sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, o artigo 39-B, foram admitidas novas formas de constituição: aviso de cobrança fazendária, notificação de lançamento, aviso de cobrança da conta corrente fiscal, documento de arrecadação, termo de intimação ou termo de apreensão e depósito.
+Além disso, é de se registar que os executados não apresentaram cópia do processo administrativo para que pudessem ilidir o termo inicial do prazo de prescrição.
+Logo, não se vislumbra a ocorrência da prescrição da pretensão executiva, porquanto, da data de constituição do crédito tributário, que ocorreu em 6 de março de 2014 (Id. 151348044 - fls. 1), até o despacho ordenatório de citação, proferido em 30 de junho de 2016 (Id. 151348045), não transcorreu o prazo de cinco (5) anos disposto no artigo 174 do Código Tributário Nacional.
+Na hipótese de tributo sujeito a lançamento por homologação, quando a obrigação tributária não é declarada, cabe ao sujeito ativo constituir o crédito público, mediante lançamento substitutivo, no prazo decadencial previsto no art. 173, inciso I, do CTN, quando não houver pagamento antecipado ou recolhimento a menor.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ICMS/ST E MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA VINCULADA À APURAÇÃO DO IMPOSTO. PAGAMENTO A MENOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. DECADÊNCIA. EXISTÊNCIA.
+ ..
+2. Tratando-se de tributo sujeito a lançamento por homologação, a obrigação tributária não declarada pelo sujeito passivo no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo Fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado, ou no (prazo) referido no art. 150, § 4º, do CTN, quando ocorrer o recolhimento de boa-fé, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse caso, a atividade exercida pelo contribuinte ou responsável de apurar e pagar o crédito tributário está sujeita à verificação pelo ente público pelo prazo de cinco anos, sem a qual ela (a atividade) é tacitamente homologada. Precedentes.
+3. O regime de substituição tributária não modifica a modalidade de lançamento por homologação do ICMS devido pelo responsável legal (substituto), de modo que o aludido entendimento jurisprudencial é perfeitamente aplicável na espécie.
+4. A constituição de multa por eventual descumprimento de obrigação acessória vinculada à apuração de saldo recolhido a menor deve ocorrer quando da revisão do pagamento antecipadamente realizado, ou seja, dentro do prazo legalmente estabelecido para a homologação pela Administração, que, de acordo com § 4º, é de cinco anos contados do fato gerador. Inteligência dos §§ 2º e 3º do art. 150 do CTN.
+5. Hipótese em que o acórdão recorrido reconheceu a decadência do ICMS/ST e da multa por obrigação acessória vinculada à apuração do imposto em razão da existência de pagamento antecipado, ainda que parcial, no período de apuração correspondente, de modo que a revisão dessa conclusão pressupõe reexame de prova, o que é inviável em face do óbice da Súmula 7 do STJ.
+6. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 1.798.274/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe de 14/10/2020.)
+Um vez constituído o crédito tributário pela notificação do auto de infração, o termo inicial da prescrição é a data da constituição definitiva do crédito, que se dá quando não couber recurso administrativo ou quando esgotado o prazo para sua interposição.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. PRESCRIÇÃO. TERMO INICIAL. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Vale consignar que "tratando-se de tributo sujeito a lançamento por homologação, a obrigação tributária não declarada pelo sujeito passivo no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo Fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado, ou no (prazo) referido no art. 150, § 4º, do CTN, quando ocorrer o recolhimento de boa-fé, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse caso, a atividade exercida pelo contribuinte ou responsável de apurar e pagar o crédito tributário está sujeita à verificação pelo ente público pelo prazo de cinco anos, sem a qual ela (a atividade) é tacitamente homologada" (REsp n. 1.798.274/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe de 14/10/2020).
+2. In casu, o termo inicial ocorreu com a constituição definitiva do crédito tributário (via AIIM lavrado em 23/12/2009), fato que inaugurou a prescrição para cobrança, a qual foi suspensa pela interposição de recurso administrativo, na forma do art. 151, III, do CTN. Assim, não havia se consumado o prazo prescricional de cinco anos (art. 174 do CTN) quando do ajuizamento do presente mandado de segurança em 2012.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.382.228/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. PRESCRIÇÃO. AUTO DE INFRAÇÃO. INÍCIO DA PRESCRIÇÃO DA DEMANDA COM A NOTIFICAÇÃO DO CONTRIBUINTE ACERCA DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. TERMO INICIAL DA FLUÊNCIA DA PRESCRIÇÃO. NOTIFICAÇÃO DO LANÇAMENTO TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PRECEDENTES. I - Na origem, trata-se de ação de execução ajuizada pela Fazenda Pública do Estado de Rondônia objetivando o recebimento de valores que entende devidos relativos ao ICMS.
+II - Não havendo, no acórdão recorrido, omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do Código de Processo Civil de 1973. III - Sobre o tema, esta Corte Superior de Justiça firmou compreensão de que, uma vez constituído o crédito tributário pela notificação do auto de infração, não há falar em decadência, mas em prescrição, cujo termo inicial é a data da constituição definitiva do crédito, que se dá, nos casos de lançamento de ofício, quando não couber recurso administrativo ou quando se houver esgotado o prazo para sua interposição. Precedentes: AgRg no AREsp 800.136/RO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/2/2016, DJe 2/3/2016; EDcl no AgRg no AREsp 439.781/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 31/03/2014; EDcl no AREsp 197.022/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 20/03/2014; e AgRg no AREsp 424868/RO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 25/6/2014.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.616.541/RO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2017, DJe de 14/12/2017.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO. AUSÊNCIA DE RECURSO ADMINISTRATIVO. PRESCRIÇÃO. TERMO INICIAL. NOTIFICAÇÃO DO CONTRIBUINTE. ACERCA DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. ART. 174 do CTN.
+1. No caso dos autos, o Tribunal de origem afirmou que o débito tributário foi constituído em 2001 e que a citação do devedor ocorreu em 2009, de modo que ocorreu a prescrição. Não há nenhuma menção de impugnação administrativa. Desconstituir tais premissas requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em Recurso Especial, por esbarrar no óbice da Súmula 7/STJ.
+2. Nos termos da redação original do art. 174, parágrafo único, I, do CTN, a prescrição era interrompida com a citação do devedor. Com a edição da LC 118/05, que modificou o inciso referido, o lapso prescricional passou a ser interrompido pelo "despacho que ordena a citação". A nova regra, entretanto, tem incidência somente nos casos em que a data do despacho ordinatório da citação seja posterior a sua entrada em vigor.
+3. Sobre o tema, o Superior Tribunal de Justiça firmou compreensão de que, uma vez constituído o crédito tributário pela notificação do auto de infração, não há falar em decadência, mas em prescrição, cujo termo inicial é a data da constituição definitiva do crédito, que se dá, nos casos de lançamento de ofício, quando não couber recurso administrativo ou quando se houver esgotado o prazo para sua interposição.
+4. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp n. 788.656/RO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/2/2016, DJe de 20/5/2016.)
+Assim sendo, logo após a decisão definitiva e formalizada do processo administrativo fiscal, inicia-se a prescrição tributária.
+No caso, o Aviso de Cobrança Fazendária n. 781737 ocorreu em 6 de março de 2014, e o despacho citatório, no dia 30 de junho de 2016 (fl. 327). Portanto, não se consumou o prazo prescricional de 5 (cinco) anos, estabelecido pelo art. 174 do CTN.
+Ante o exp osto, CONHEÇO do agravo, para CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. LANÇAMENTO DE OFÍCIO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO. AUSÊNCIA DE RECURSO ADMINISTRATIVO. PRESCRIÇÃO. TERMO INICIAL. NOTIFICAÇÃO DO CONTRIBUINTE ACERCA DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. ART. 174 DO CTN. AGRAVO CONHECIDO, PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
