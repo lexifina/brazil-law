@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de reclamação constitucional, com pedido liminar, ajuizada com base no art. 988 do CPC/2015, contra decisão do Juiz de Direito da Vara de Auditoria Militar e de Precatórias do Distrito Federal.
+A parte reclamante sustenta ofensa à decisão liminar proferida no REsp n. 2.095.460/SP, da Relatoria do Ministro MARCO AURÉLIO BELIZZE, que concedeu efeito s uspensivo ao referido recurso especial, determinado o sobrestamento do mandado de imissão na posse emitido na Carta Precatória n. 0046358-21.2014.8.07.0015 pelo Juízo da Vara de Precatórios do Distrito Federal, "até o julgamento de mérito do especial".
+Requer liminarmente a suspensão "da ordem exarada no ID 182179386 dos autos, até ulterior decisão do SUPERIOR TRIBUNAL DE JUSTIÇA quanto ao julgamento do RECURSO ESPECIAL 2095460 SP" (fl. 8). No mérito, solicita a procedência da reclamação.
+O Ministro MARCO AURÉLIO BELIZZE deferiu a liminar às fls. 24-27.
+Informações prestadas (fls. 31-44).
+O Ministério Público manifestou-se nos seguintes termos (fl. 47):
+Reclamação. Direito Civil. Posse. Imissão. Presença dos requisitos necessários à procedência da reclamação. Violação caracterizada à autoridade dessa Egrégia Corte Superior, no R Esp nº 2095460/SP. Parecer pela procedência da reclamação.
+Em 10/12/2024, o processo foi atribuído ao Ministro CARLOS CINI MARCHIONATTI (Desembargador convocado TJRS). Em 5/3/2025, a reclamação foi atribuída à Ministra DANIELA TEIXEIRA, que, em 22/7/2025, se declarou suspeita. Procedeu-se à redistribuição do feito, sendo que em 25/7/2025 a demanda foi redistribuída a minha relatoria.
+É o relatório.
+Decido.
+Nas informações prestadas, o Juiz de Direito da Vara de Auditoria Militar e de Precatórias do Distrito Federal esclareceu que (fls. 39-41):
+No dia 31/10/23, às 17h47, sobreveio aos autos o Ofício nº 012233/2023-CPPR comunicando o teor da decisão monocrática proferida por Vossa Excelência no Recurso Especial nº 2095460/SP, cujo dispositivo transcrevo:
+Ante o exposto, defiro o pedido para conceder efeito suspensivo ao presente recurso especial, sobrestando o mandado de imissão na posse emitido no bojo da Carta Precatória n. 0046358-21.2014.8.07.0015, pelo Juízo da Vara de Precatórios do DF (Juízo deprecado), até o julgamento de mérito do presente recurso".
+Na mesma data, às 19h16, foi proferida decisão nestes autos determinando o imediato recolhimento do mandado de imissão de posse, em cumprimento à determinação exarada por Vossa Excelência (ID 176946310).
+No dia 03/10.23, foi juntada aos autos certidão informando o cumprimento do mandado de imissão de posse no dia 30/10/23, às 16h40 (ID177053479).
+Em atendimento ao requerimento formulado pela VIPLAN de obter o reconhecimento da nulidade do ato praticado pelo oficial de justiça (ID 180307907) este Juízo proferiu decisão, no dia 06/12/23, com o seguinte teor:
+Analisando os autos, verifico que, não obstante o teor das decisões proferidas pelo eminente Ministro Relator do R Esp nº 2095460/SP e por este Juízo no ID 176946310, o mandado de imissão de posse foi cumprido em data anterior, conforme certificado no ID 177053479. Sendo assim, a fim de dar efetivo cumprimento à ordem advinda da instância superior, determino que a posse do imóvel situado na QE 17, Conjunto A, Casa 32, Guará-II, CEP 71050-012 seja imediatamente restituída à parte interessada VIPLAN - VIAÇÃO PLANALTO LTDA (em recuperação judicial) até ulterior decisão do Superior Tribunal de Justiça.
+Cumpra-se, com urgência.
+No mais, intimem-se as partes para apresentar contrarrazões aos embargos de declaração oposto pela terceira interessada no ID 176389702, no prazo de 5 (cinco) dias.
+Foram opostos embargos de declaração por ROMERO SANTOS TEXEIRA (ID 181018346).
+Diligência do oficial de justiça noticiando que não procedeu a reintegração de posse em favor da VIPLAN, pois o imóvel encontrava-se ocupado por um casal e não constava autorização de arrombamento e reforço policial (ID 181100907).
+Requerimento da VIPLAN para cumprimento do mandado de reintegração de posse com ordem de arrombamento e desocupação imediata (ID 181173681).
+Em 15/12/23, foi proferida decisão que rejeitou os embargos de declaração pendentes de análise e fixou diretrizes para cumprimento da reintegração de posse do imóvel em favor da VIPLAN, com concessão de prazo para desocupação voluntária (ID 182179386).
+No dia 20/12/23, veio aos autos o Ofício ora respondido comunicando o teor da decisão proferida por Vossa Excelência, que determinou a imediata suspensão da decisão reintegratória antes referida para que o arrematando permanecesse na posse do imóvel.
+Na mesma data, em sede de plantão judiciário, foi determinado o recolhimento do mandado de reintegração de posse, dando, assim, imediato cumprimento à decisão proferida por Vossa Excelência (ID 182596234).
+Ao tomar conhecimento das últimas decisões acima referidas, nesta data, foi proferido despacho determinando a intimação da parte requerida para cientificá-la das determinações e, em caso de inexistência de novos pedidos, o sobrestamento do feito para aguardar o julgamento do RESp nº 2.095.460/SP, incluído na pauta do dia 06/02/24, da colenda Terceira Turma do STJ.
+A presente reclamação foi ajuizada para garantir o cumprimento de decisão liminar, proferida no REsp n. 2.095.460/SP, que deferiu "efeito suspensivo ao presente recurso especial, sobrestando o mandado de imissão na posse emitido no bojo da Carta Precatória n. 0046358-21.2014.8.07.0015, pelo Juízo da Vara de Precatórios do DF (Juízo deprecado), até o julgamento de mérito do presente recurso".
+Em 6/2/2024 ocorreu o julgamento do REsp n. 2.095.460/SP, estabelecendo a competência do JUÍZO DA 4ª VARA CÍVEL DA COMARCA DE SÃO PAULO - SP para apreciar as alegadas nulidades da penhora realizada:
+RECURSO ESPECIAL. EXECUÇÃO POR CARTA PRECATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. QUESTÕES DEVIDAMENTE ANALISADAS PELO TRIBUNAL DE ORIGEM. APONTAMENTO DE VÍCIOS NA PENHORA, ARREMATAÇÃO E ALIENAÇÃO JUDICIAL DO BEM. IMÓVEL INDICADO EXPRESSAMENTE PELO JUÍZO DEPRECANTE. COMPETÊNCIA DESTE PARA ANÁLISE DAS NULIDADES SUSCITADAS. INTERPRETAÇÃO EXTRAÍDA DO § 2º DO ART. 914 DO CPC/2015. REFORMA DO ACÓRDÃO RECORRIDO QUE SE IMPÕE. RECURSO PROVIDO.
+1. A controvérsia posta em discussão consiste em saber se houve negativa de prestação jurisdicional e se o Juízo deprecante é o competente para apreciar as nulidades apontadas pela recorrente na origem acerca da penhora, arrematação e alienação judicial do bem imóvel.
+2. Não há que se falar em omissão ou contradição no acórdão recorrido, pois todas as questões suficientes ao deslinde da controvérsia foram expressamente examinadas pelo Tribunal de Justiça de São Paulo. Afasta-se, portanto, a apontada violação ao art. 1.022 do Código de Processo Civil de 2015.
+3. Nos termos do § 2º do art. 914 do CPC/2015, "Na execução por carta, os embargos serão oferecidos no juízo deprecante ou no juízo deprecado, mas a competência para julgá-los é do juízo deprecante, salvo se versarem unicamente sobre vícios ou defeitos da penhora, da avaliação ou da alienação dos bens efetuadas no juízo deprecado".
+4. Assim, em regra, a competência para julgamento dos embargos de terceiro que versarem unicamente sobre vícios ou defeitos da penhora, avaliação ou alienação do bem será do Juízo deprecado.
+Entretanto, caso haja indicação expressa do bem a ser penhorado pelo Juízo deprecante, será deste a competência para julgamento dos respectivos embargos.
+5. Na hipótese, ao contrário do que entendeu o acórdão recorrido, embora o vício apontado seja na penhora, arrematação e alienação do bem, que a recorrente afirma ser de sua propriedade, e não da sociedade executada Expresso Brasília Ltda., constata-se que a indicação do referido imóvel foi dada expressamente pelo Juízo deprecante, ao expedir a carta precatória, razão pela qual será dele a competência para julgar as nulidades apontadas pela recorrente na origem.
+6. Recurso especial provido.
+(REsp n. 2.095.460/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/2/2024, DJe de 15/2/2024.)
+Os embargos de declaração foram rejeitados :
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO POR CARTA PRECATÓRIA. APONTAMENTO DE VÍCIOS NA PENHORA, ARREMATAÇÃO E ALIENAÇÃO JUDICIAL DO BEM. IMÓVEL INDICADO EXPRESSAMENTE PELO JUÍZO DEPRECANTE. COMPETÊNCIA DESTE PARA ANÁLISE DAS NULIDADES SUSCITADAS. INTERPRETAÇÃO EXTRAÍDA DO § 2º DO ART. 914 DO CPC/2015. QUESTÃO SOBRE EVENTUAL CUMPRIMENTO DO MANDADO DE IMISSÃO NA POSSE QUE DEVERÁ SER ANALISADA PELO JUÍZO DECLARADO COMPETENTE. AUSÊNCIA DE CONTRADIÇÃO OU OMISSÃO NO ACÓRDÃO EMBARGADO. EMBARGOS REJEITADOS.
+1. Todas as questões suficientes ao deslinde da controvérsia foram examinadas no acórdão embargado, não havendo se falar, portanto, em omissão ou contradição no decisum, valendo ressaltar que a questão acerca do cumprimento do mandado de imissão na posse do imóvel somente poderá ser apreciada pelo Juízo declarado competente.
+2. Embargos de declaração rejeitados.
+Portanto, a liminar no REsp n. 2.095.460/SP foi substituída pela decisão de mérito, ficando sem objeto a presente reclamação.
+Ante o exposto, julgo PREJUDICADA a presente reclamação.
+Publique-se e intimem-se.
+EMENTA
