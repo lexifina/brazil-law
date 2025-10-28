@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 594):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE REFORMADA. RESSARCIMENTO AO ERÁRIO. POSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+O embargante alega que não houve manifestação expressa acerca da inaplicabilidade do Tema 692/STJ ao presente caso.
+Sustenta que "o Tema 692/STJ é claro ao delimitar a questão submetida a julgamento para os casos em que o litigante for beneficiário do Regime Geral da Previdência Social (RGPS) - o que não é o caso do ora Embargante, servidor público federal vinculada ao Regime Próprio da Previdência Social (RPPS)" (fl. 610).
+Sem impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do cabem CPC/2015, embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+In casu, assiste razão ao embargante quanto à apontada omissão, haja vista que a decisão embargada não se manifestou acerca da inaplicabilidade do Tema 692/STJ ao presente caso, o qual envolve remuneração de servidor público federal vinculado a Regime Próprio de Previdência Social (RPPS), conforme apresentado nas contrarrazões do recurso especial e na contraminuta ao agravo.
+Assim, a par da referida argumentação, registra-se que segundo a jurisprudência desta Corte a tese firmada pela Primeira Seção, por meio do Tema repetitivo 692/STJ, aplica-se tanto para as relações que envolvam a administração e seus servidores como a Previdência Social e seus segurados.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PREQUESTIONAMENTO. CONFIGURAÇÃO. IMPUGNAÇÃO DO ACÓRDÃO. OBSERVÂNCIA. TUTELA ANTECIPADA REVOGADA. RESTITUIÇÃO DOS VALORES. EXIGIBILIDADE.
+1. Ao contrário do sustentado pela parte agravante, do exame do apelo especial não se verificam os óbices das Súmulas 282, 283 do STF e 211 do STJ, pois a matéria objeto do recurso autarquia foi decidida pela instância ordinária e houve a efetiva impugnação dos fundamentos adotados pela Corte de origem.
+2. O Supremo Tribunal Federal, no Tema 799, julgado em 20/03/2015, DJe de 30/03/2015, reconheceu a natureza infraconstitucional da matéria relativa à devolução de valores recebidos em virtude de concessão de antecipação de tutela posteriormente revogada.
+3. Caso em que a parte autora defende a inaplicabilidade do Tema 692 do STJ por versar sobre o pagamento de beneficio previdenciário no âmbito do Regime Geral da Previdência Social, enquanto o caso concreto envolve o pagamento de pensão especial/indenização a portadora de síndrome de Talidomida, regida por lei específica.
+4. No julgamento da Pet n. 12.482/DF, a Primeira Seção desta Corte ratificou o entendimento anteriormente firmado no julgamento do Tema repetitivo n. 692 do STJ, segundo o qual a reforma da decisão que antecipa os efeitos da tutela obriga a parte autora à restituição dos valores recebidos.
+5. A compreensão no sentido de que o beneficiário da Previdência Social está sujeito à repetição das parcelas pagas por força de tutela antecipada posteriormente revogada adveio da necessidade de um alinhamento na jurisprudência da Primeira Seção desta Corte, de modo a uniformizar a interpretação da legislação processual em ações que envolvam tanto as relações entre a administração pública e seus servidores quanto as entre a Previdência Social e seus segurados. (REsp n. 1.384.418/SC, relator Ministro Herman Benjamin, Primeira Seção, julgado em 12/6/2013, DJe de 30/8/2013.)
+6. Agravo interno desprovido (AgInt no REsp n. 1.770.654/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/4/2024, DJe de 7/5/2024, destaquei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VALORES PAGOS EM RAZÃO DE DECISÃO JUDICIAL PRECÁRIA. RESTITUIÇÃO AO ERÁRIO. CABIMENTO.
+1. Trata-se de Agravo Interno, interposto pelos particulares, quanto à parte do decisum que não os beneficia. A decisão deu parcial provimento ao Recurso Especial apenas para reconhecer a possibilidade de devolução dos valores recebidos pelas autoras em virtude da decisão liminar posteriormente reformada (período de julho de 2001 a agosto de 2002).
+2. Não merece distinção do ponto de vista normativo a tese fixada no Tema 692/STJ, em relação aos servidores públicos. A tutela de urgência não deixa de ser precária e passível de modificação ou revogação a qualquer tempo, o que implica o retorno ao estado anterior à sua concessão. Precedentes do STJ.
+3. Agravo Interno não provido (AgInt nos EDcl no REsp n. 1.887.274/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024, destaquei.)
+Ante o exposto, acolho os embargos de declaração, apenas para sanar a omissão, sem efeitos modificativos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO CARACTERIZADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
