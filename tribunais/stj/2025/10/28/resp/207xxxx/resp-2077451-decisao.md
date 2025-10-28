@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MICHELE FABRICIA DE CARVALHO CALMON MENDES contra acórdão proferido pela 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e Territórios que, por unanimidade, não conheceu do agravo de instrumento e julgou prejudicado o agravo interno, em razão da perda superveniente do objeto decorrente do descumprimento da determinação de depósito judicial do valor de avaliação do bem penhorado (R$ 70.000,00), no prazo de 5 (cinco) dias, para exercício do direito de preferência na adjudicação.
+A Corte de origem, em sede de liminar deferida no agravo de instrumento, suspendeu a adjudicação pelo exequente, condicionando, todavia, o reconhecimento do direito de preferência da recorrente - cônjuge do executado - ao depósito prévio do valor avaliado do bem (título patrimonial do Iate Clube de Brasília), nos termos do art. 876, § 1º, do CPC/2015. Inadimplente a ordem no prazo improrrogável fixado, revogou-se a medida liminar, o que acarretou a perda superveniente do interesse recursal. Eis a ementa (fls. 169, e-STJ):
+AGRAVO DE INSTRUMENTO. ADJUDICAÇÃO. CÔNJUGE. DIREITO DE PREFERÊNCIA. DETERMINAÇÃO DE DEPÓSITO DO VALOR DO BEM. DESCUMPRIMENTO. LIMINAR REVOGADA. Descumprida a determinação de depósito judicial do valor de avaliação do bem para assegurar o direito de preferência na adjudicação, revoga-se a decisão liminar e não se conhece do agravo de instrumento, ante a perda do objeto.
+Em suas razões recursais (fls. 187-204, e-STJ), a recorrente alegou violação aos arts. 10, 139, VI, 141, 218, §1º e 876 do CPC, sustentando: (i) nulidade por decisão surpresa e julgamento extra petita, porquanto a imposição do depósito prévio não constava dos pedidos formulados no agravo de instrumento, que se limitavam à suspensão da adjudicação e ao reconhecimento do direito de preferência; (ii) ausência de razoabilidade no prazo fixado e (iii) ausência de exigência legal de depósito como condição para o reconhecimento do direito em sede recursal, sendo tal medida devida apenas para a concretização da adjudicação em primeiro grau.
+Contrarrazões apresentadas a fls. 239-263.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+1. Quanto à alegada violação ao art. 10 e 141 do CPC/2015, o recurso interposto alega que (fls. 193-194, e-STJ):
+VI.2. Surpreendente é a afirmação do em.Relator que a Recorrente teria se comprometido a depositar antecipadamente o valor da avaliação para obtenção da liminar:
+Na petição inicial (id 23335621), a agravante requereu a suspensão dos efeitos da decisão de expropriação do título do clube, proferida pelo Juízo de 1º grau, até o julgamento final do AGI, sob a alegação de direito de preferência na adjudicação, e comprometeu-se, para tanto, a depositar, de pronto, o respectivo valor de avaliação em juízo. Note a transcrição do pedido:
+(..) requerer, COM A MÁXIMA URGÊNCIA, a análise do pedido de efeito suspensivo ao recurso, para o fim de suspender a penhora e demais atos expropriatórios do título do Iate Clube de Brasília nº 1.016 até decisão final do Agravo de Instrumento.
+(..) 10. Ademais, vale lembrar que a adjudicação não implica em retorno financeiro para a Exequente, porque o título somente poderá ser utilizado para a revenda e, portanto, não haverá prejuízo à Agravante em aguardar o resultado do Agravo, uma vez que a Agravante requer, desde já, o direito de depositar o valor da avaliação em dinheiro. Grifei. (grifos nossos)
+VI.3. Em primeiro lugar, lamentável que o em. Desor. Relator, certamente por um equívoco inadvertido, APESAR DE FAZER CONSTAR QUE TERIA TRANSCRITO O PEDIDO, NÃO O TRANSCREVEU.
+VI.4. AO CONTRÁRIO ALTEROU A ORDEM QUE CONSTA DA PETIÇÃO E INCLUIU UMA FRASE PINÇADA DA ARGUMENTAÇÃO NO CAPÍTULO ESPECÍFICO DO PEDIDO FORMULADO.
+Como se verifica, portanto, a parte ora recorrente alega erro de compreensão/equívoco inadvertido do relator. Suscitou, ainda, que seus embargos de declaração foram recebidos como agravo interno (fls. 189, e-stj). Porém, o ora recorrente não suscitou violação do art. 489 ou do art. 1.022 ambos do Código de Processo Civil. Se suscitada a nulidade de fundamentação, deveria o recorrente ter apontado violação aos ditos preceitos legais. Ao passo que não o fez, incide o óbice das súmulas 283 e 284 do STF, aplicáveis por analogia, bem como pela vedação de reexame de provas da Súmula 07 do STJ.
+Não conhecido, portanto, o recurso no ponto.
+2. Em relação aos artigos 139, VI, e 218, §1º do CPC, suscitou o recorrente (fls. 199, e-STJ) que:
+VII.1. Mesmo que se admitisse o entendimento do em. Relator de que ele poderia fixar prazo para depósito prévio, como efetivamente o fez, a imposição dessa condição deve obedecer ao princípio da razoabilidade.
+VII.2. O prazo de 5 (cinco) dias para depósito do valor correspondente a adjudicação do título não decorre de prazo fixado por lei e sim de uma decisão meramente pessoal do em. Desembargador Relator, não podendo gerar tamanho prejuízo à Recorrente.
+(..)
+VII.3. Assim, o prazo para depósito do valor da adjudicação não é peremptório, podendo ser ampliado e renovado pelo Juízo.
+VII.4. Destaca-se que o pedido de ampliação deu-se no curso do prazo e foi devidamente justificado conforme se extrai do seguinte trecho da petição do agravo interno
+Como se verifica, a parte recorrente busca o reconhecimento da nulidade do prazo fixado, por entender exíguo e ferir a razoabilidade em face da pandemia. No caso, analisar a razoabilidade do prazo demanda reexame fático, ao passo que se deverá analisar no caso concreto se o prazo fixado de depósito era razoável, o que importa no óbice da Súmula 7/STJ.
+4. O acórdão recorrido julgou por prejudicado o recurso interposto. Logo, não houve análise direta do art. 876 do CPC. Ademais, ainda que se admita alguma controvérsia interpretativa, o exame das teses recursais demandaria reanálise do acervo fático-probatório, providência vedada pela Súmula 7/STJ.
+5. Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
