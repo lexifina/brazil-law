@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JUSSARA BARRETO NUNES à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE COBRANÇA. MAGISTÉRIO MUNICIPAL. PRETENSÃO DE RATEIO DE 60% DAS VERBAS DO FUNDEF/FUNDEB PROVENIENTES DE PRECATORIO. AUSÊNCIA DE LEGISLAÇÃO MUNICIPAL ESPECÍFICA. EXIGIBILIDADE. INTELIGÊNCIA DA EC 114/2021 E DA LEI FEDERAL 14.325/2022. PRINCÍPIO DA LEGALIDADE. IMPROCEDÊNCIA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente pretende o recebimento do quantum referente a sessenta por cento dos precatórios destinados ao Município de Rio Real a título de complementação do Fundef resultantes de processos judiciais promovidos em face da União desde a década de 1990, nos termos do art. 7º da Lei n. 9.424/1996; ADPF n. 528; e EC n. 114/2021, trazendo a seguinte argumentação:
+Toda a celeuma sobre o tema se iniciou quando o TCU proferiu o Acórdão 1.824/2017, no qual a Corte de Contas desobrigou os gestores públicos que a legislação de regência impõe ao uso dos recursos oriundos do Fundef, mais especificamente ao patamar mínimo de 60% para pagamento dos profissionais de ensino.
+Esse mínimo estava previsto no art. 7º da Lei n. 9.424/1996 e continua estabelecido no art. 22 da Lei n. 11.494/2007 e no art. 60 do ADCT. Desse fato já se percebe a insubsistência do argumento de que não há legislação autorizativa do rateio dos valores entre os professores.
+Importa observar que os valores recebidos recentemente por meio de precatórios resultado de processos judiciais são meros repasses que ocorreram em momento posterior que aquele em que deveriam realmente ter ocorrido.
+Por óbvio, se o montante, repassado corretamente desde o início, deveria ter sido rateado no mínimo de 60% entre os professores por força legal e constitucional, o pagamento em momento futuro não altera a sua destinação.
+ ..
+Outrossim, não há que se falar em necessidade de legislação municipal para que o rateio seja obrigatório.
+Isso porque o art. 60 do ADCT não é uma norma de eficácia limitada e, ainda se fosse assim considerada, o art. 7º da Lei n. 9.424/1996 a regulamentou e fez com que produzisse seus efeitos plenamente.
+A legislação estadual ou municipal pode determinar que o ente federativo rateie percentuais maiores que 60%, sem que exista uma discricionariedade do gestor.
+A inexistência de lei local, contudo, permite que o gestor determine o percentual de rateio conforme seus critérios de oportunidade e conveniência, desde que respeite o mínimo de 60% destinados aos professores.
+ ..
+Importa destacar que o julgamento da ADPF 528 teve voto de 3 ministros além do relator, o Ministro Ricardo Lewandowski, o Ministro Edson Fachin e o Ministro Nunes Marques sem que nenhum deles fizesse qualquer ressalva nessa questão ao que ficou consignado no voto inaugural.
+Queda-se clara, assim, a necessidade de reforma da sentença de 1º grau para garantir à parte autora a proporção que lhe cabe no rateio de 60% do precatório recebido pelo Município de Rio Real a título de complementação do Fundef (fls. 371-375).
+É o relatório.
+Decido.
+Quanto à controvérsia, é incabível o Recurso Especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do Recurso Especial violação ou interpretação divergente de dispositivos de lei federal.
+Com efeito, o Superior Tribunal de Justiça já decidiu no seguinte sentido: "Finalmente, ressalto que, apesar de ter sido invocado dispositivo legal, o fundamento central da matéria objeto da controvérsia e as teses levantadas pelos recorrentes são de cunho eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF". (REsp 1.655.968/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 2/5/2017.)
+No mesmo sentido: AgInt no AREsp n. 2.627.372/RO, Rel. Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 23/12/2024; ;AgInt no REsp n. 1.997.198/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23/3/2023; AgInt no REsp n. 2.002.883/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 14/12/2022; EDcl no AgInt no REsp n. 1.961.689/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 9/9/2022; AgRg no AREsp n. 1.892.957/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 27/9/2021; AgInt no AREsp 1.448.670/AP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/12/2019; AgInt no AREsp 996.110/MA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5/5/2017; AgRg no REsp 1.263.285/RJ, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 13/9/2012; AgRg no REsp 1.303.869/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
