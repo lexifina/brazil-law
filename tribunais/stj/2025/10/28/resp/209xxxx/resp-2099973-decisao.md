@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 870):
+PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO. AGRESSÃO FÍSICA. DANOS MORAIS. CONFIGURADOS. IMUNIDADE PARLAMENTAR. NÃO ABRANGÊNCIA. RECURSO CONHECIDO EPARCIALMENTE PROVIDO.
+1. O artigo 53 da Constituição Federal assegura aos Deputados e aos Senadores a inviolabilidade civil e penal por quaisquer das suas opiniões, palavras e votos.
+2. Essa imunidade tem por escopo assegurar aos membros do parlamento o livre exercício de suas funções. Trata-se de direito indisponível e inerente ao desempenho da função parlamentar e não de privilégio de ordem pessoal, ou seja, não abarcadas pela imunidade material para atos e condutas estranhas ao exercício do mandato legislativo.
+3. No caso dos autos, as ofensas ocorreram em Comissão Mista do Congresso Nacional, por isso estão amparadas para fins penais e efeitos civis pela norma constitucional da inviolabilidade, uma vez que guardam nexo ou pertinência com a atividade parlamentar. Saliento que a Suprema Corte entende ser absoluta a imunidade material, quando as palavras são proferidas no recinto do parlamento. (Inq 3814, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 07/10/2014, ACÓRDÃO ELETRÔNICO D Je-207 DIVULG 20-10-2014 PUBLIC 21-10-2014)
+4. No que se refere à agressão física, o texto do artigo 53 da Constituição Federal estabelece a imunidade do parlamentar "por quaisquer de suas opiniões, palavras e votos". Assim, em interpretação literal da norma, os socos proferidos não estão abrangidos pela imunidade, o que justifica a compensação pretendida, consoante os artigos 186, 927 e 949 do Código Civil.
+5. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 931-944).
+Em suas razões (fls. 946-965), a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 489, § 1º, VI e 373, I, do CPC, 186, 187, 927 e 949 do CC.
+Defende o afastamento da condenação, aduzindo que "a jurisprudência desse c. Superior Tribunal de Justiça entende como suficiente a demonstração de que as supostas ofensas foram proferidas dentro do Parlamento para que se tenha por configurada a imunidade parlamentar, acarretando a prática de ato ilícito" (fl. 958).
+Aponta deficiência na fundamentação do acórdão e afirma que o Colegiado de origem "deixou de observar jurisprudência pacífica dos Tribunais no sentido de que as situações, seja qual for, ocorridas dentro do recinto parlamentar e em virtude do exercício do cargo estão abarcadas por uma imunidade absoluta, o que enseja violação ao art. 489, § 1º, VI, do Código de Processo Civil" (fl. 961).
+Assevera que os danos morais não foram comprovados e ressalta que "o uso da violência, de per si, não é suficiente a amparar a condenação do réu ao pagamento de indenização por danos morais" (fl. 953).
+Pleiteia a redução da verba indenizatória, ante "a exorbitância do quantum indenizatório fixado, devendo, em verdade, ser fixado em R$ 3.000,00 (três mil reais), levando em consideração o interesse jurídico lesado e as circunstâncias do caso" (fl. 965).
+Ao final, requer o provimento do recurso para "reformar o v. acórdão guerreado, para que seja reconhecida a divergência jurisprudencial e a violação aos arts. 186, 187, 927, 944, 945 e 949, todos do Código Civil e art. 489, § 1ª, VI, e 373, I, ambos do Código de Processo Civil" (fl. 965).
+Contrarrazões apresentadas (fls. 987-1.001).
+O recurso foi admitido na origem (fls. 1.016-1.107).
+É o relatório.
+Decido.
+De início, cumpre salientar que inexiste afronta ao art. 489, § 1º, VI, do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese de imunidade parlamentar absoluta, o Tribunal de origem assim se manifestou (fls. 878-880):
+A controvérsia recursal restringe-se à existência de danos morais decorrentes de agressões físicas e verbais por parte do então Deputados Laerte Bessa, em reunião realizada em Comissão Mista do Congresso Nacional.
+ ..
+No caso, os termos e expressões utilizadas pelo apelado, bem como a agressão física foram demonstrados pela prova testemunhal.
+Quanto aos xingamentos e impropérios, salienta-se que o artigo 53 da Constituição Federal assegura aos Deputados e aos Senadores a inviolabilidade civil e penal por quaisquer das suas opiniões, palavras e votos.
+Essa imunidade tem por escopo assegurar aos membros do parlamento o livre exercício de suas funções. Trata-se de direito indisponível e inerente ao desempenho da função parlamentar e não de privilégio de ordem pessoal, ou seja, não abarcadas pela imunidade material para atos e condutas estranhas ao exercício do mandato legislativo.
+No caso dos autos, as ofensas ocorreram em Comissão Mista do Congresso Nacional, por isso estão amparadas para fins penais e efeitos civis pela norma constitucional da inviolabilidade, uma vez que guardam nexo ou pertinência com a atividade parlamentar.
+Em que pese desnecessárias ou até excessivas algumas expressões empregadas no exercício da atividade parlamentar, nem por isso ficariam à mercê do sistema repressivo ou civilista, porque a conduta estava relacionada ao exercício do mandato. E nesse caso, acobertada pela imunidade da palavra pelo seu prolator.
+Saliento que a Suprema Corte entende ser absoluta a imunidade material, quando as palavras são proferidas no recinto do parlamento.
+ ..
+Lado outro, no que se refere à agressão física, o texto do artigo 53 da Constituição Federal estabelece a imunidade do parlamentar "por quaisquer de suas opiniões, palavras e votos".
+Assim, em interpretação literal da norma, os socos proferidos não estão abrangidos pela imunidade, o que justifica a compensação pretendida, consoante os artigos 186, 927e 949 do Código Civil.
+Os depoimentos prestados confirmam que o Deputado disferiu um soco no ombro do demandante. Embora o golpe não tenha causado relevante lesão física, houve a agressão, assim como a vítima foi colocada em situação frágil e vexatória, circunstâncias suficientes para caracterizar o dano psicológico ou ofensa aos atributos da personalidade, justificando a reparação do abalo moral.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em deficiência de fundamentação.
+Modificar o entendimento do acórdão impugnado quanto à responsabilidade civil do recorrente, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, conforme a jurisprudência desta Corte, "a imunidade parlamentar não é absoluta, pois, conforme jurisprudência do STF, "a inviolabilidade dos Deputados Federais e Senadores, por opiniões palavras e votos, prevista no art. 53 da Constituição da Republica, é inaplicável a crimes contra a honra cometidos em situação que não guarda liame com o exercício do mandato"" (AgInt no REsp n. 1.610.849/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Justiça local, diante das circunstâncias analisadas, fixou a indenização dos danos morais da seguinte forma (fl. 880):
+o arbitramento da compensação do dano imaterial, deve o juiz guiar-se pelos princípios da razoabilidade e da proporcionalidade, ou seja, ponderar sobre a gravidade ou extensão da lesão, capacidade econômica do agressor, o fim pedagógico da indenização e sua expressão econômica representar um alento para amenizar a dor física e psicológica da vítima.
+No caso em apreço, agrava o juízo de desvalor o fato do agressor agir no exercício de cargo público, dentro do parlamento e contra pessoa convidada para colaborar com os trabalhos legislativos.
+Ante o exposto e com esses esclarecimentos, DOU PARCIAL PROVIMENTO a apelação, para reformar a sentença e condenar o réu no pagamento de R$ 30.000,00 (trinta mil reais), corrigidos monetariamente
+A quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ. Para alterar a cifra, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Com efeito, "a incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe 28/9/2015).
+Ademais, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias.
+Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
