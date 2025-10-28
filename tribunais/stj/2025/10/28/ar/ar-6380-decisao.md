@@ -1,0 +1,58 @@
+DECISÃO
+Em análise, ação rescisória, com pedido de liminar, ajuizada pela UNIÃO, com fundamento no art. 966, V e VIII, do CPC, objetivando rescindir acórdão proferido pelo STJ no julgamento do REsp 744.964/DF.
+Sustenta a autora, em síntese, violação literal dos arts. 227 da Lei Complementar 75/1993, 5º, XXXVI, 39, § 4º, 93 e 129, § 4º, da Constituição Federal. Argumenta que o réu, membro do Ministério Público, não faz jus à incorporação dos quintos relativos a períodos em que exercia cargos diversos.
+Alega que "os membros do Ministério Público devem ser remunerados por subsídio, fixado em parcela única, com vedação de acréscimo de outras rubricas remuneratórias, que não as de caráter indenizatório" (fl. 11).
+Defende, ainda, que é inconstitucional a incorporação de quintos, inclusive para servidores não abrangidos pelo art. 39, § 4º, da Constituição Federal.
+O pedido de tutela de urgência foi indeferido (fls. 470-472).
+Apresentada contestação às fls. 497-533.
+O Ministério Público Federal apresentou parecer pela improcedência da ação rescisória, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA. VIOLAÇÃO À NORMA JURÍDICA. ART. 227 DA LC N. 75/93, ARTS. 129, § 4º C/C 93 DA CF/88 E ART. 39, § 4º, DA CF/88. MANDADO DE SEGURANÇA. INCORPORAÇÃO DE QUINTOS. MEMBRO DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS. EXERCÍCIO DE CARGO EM COMISSÃO OU FUNÇÃO DE DIREÇÃO, CHEFIA OU ASSESSORAMENTO. QUESTÕES NÃO DEBATIDAS NO ACÓRDÃO RESCINDENDO. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. RESCISÓRIA UTILIZADA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 343/STF.
+Parecer pela improcedência da ação rescisória (fl. 571).
+Nas razões finais, as partes ratificaram os fundamentos de suas manifestações anteriores.
+É o relatório.
+Passo a decidir.
+A pretensão não merece acolhida.
+Conforme relatado, a ação rescisória ora em exame foi ajuizada com esteio no art. 966, V e VIII, do CPC/2015, que consagra a rescindibilidade do julgado quando esse violar manifestamente norma jurídica e contiver erro de fato.
+De acordo com a jurisprudência da 1ª Seção desta Corte, embora não exigido o requisito do prequestionamento em sede de ação rescisória fundada no V do art. 485 do CPC/1973, seu cabimento é condicionado à prévia deliberação, no acórdão rescindendo, acerca da suposta violação à disposição de lei apontada como causa de pedir da ação autônoma, sob pena de sua utilização como sucedâneo recursal.
+A propósito, confira-se:
+Embora não exigido o requisito do prequestionamento em sede de ação rescisória fundada no inciso V do art. 485 do CPC/1973, seu cabimento é condicionado à prévia deliberação, no acórdão rescindendo, acerca da suposta violação à disposição de lei apontada como causa de pedir da ação autônoma. Aplicação, por analogia, da Súmula n. 515 do Supremo Tribunal Federal. (AR n. 5.629/SP, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 27/11/2024, DJEN de 13/12/2024)
+Nesse contexto, incide, no ponto, por analogia, a Súmula 515 do STF ("A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório").
+Quanto à rescisão do julgado em decorrência de violação manifesta dos arts. 227 da Lei Complementar 75/1993, 5º, XXXVI, 39, § 4º, 93 e 129, § 4º, da Constituição Federal, como já afirmado, não cabe ação rescisória por violação manifesta de norma jurídica quando o aresto rescindendo não emitiu nenhum juízo de valor sobre os dispositivos apontados como violados.
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO RESCISÓRIA FUNDADA EM VIOLAÇÃO MANIFESTA À NORMA JURÍDICA. ART. 966, V, DO CPC. OFENSA À NORMA JURÍDICA QUE NÃO FOI OBJETO DE APRECIAÇÃO PELO ACÓRDÃO RESCINDENDO. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RESCISÓRIA COMO SUCEDÂNEO RECURSAL. PROVIMENTO NEGADO.
+1. É firme o entendimento do Superior Tribunal de Justiça de que não cabe ação rescisória, por violação manifesta de norma jurídica, quando o aresto rescindendo não emitiu juízo de valor sobre o normativo apontado como violado.
+2. A argumentação adotada na petição inicial evidencia a utilização da demanda como sucedâneo recursal, porquanto ajuizada com o nítido propósito de rediscutir o acerto da decisão transitada em julgado, o que não se pode admitir.
+3. Agravo interno a que se nega provimento (AgInt na AR n. 6.444/ES, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 28/5/2024, DJe de 7/6/2024, grifo nosso).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. LITERAL VIOLAÇÃO DE LEI. DISPOSITIVO LEGAL APONTADO. EXAME. INEXISTÊNCIA.
+1. Segundo entendimento pacificado nesta Corte, somente é admissível a ação rescisória com base no art. 966, inciso V, CPC/2015 (art. 485, V, CPC/73) quando a decisão rescindenda dá interpretação completamente absurda, teratológica ou insustentável à norma jurídica apontada como violada pela decisão impugnada na ação rescisória.
+2. De rigor, portanto, que a norma jurídica manifestamente violada pela decisão impugnada tenha sido objeto de debate nos autos do processo originário pelo acórdão rescindendo.
+3. Hipótese em que, no bojo do apelo nobre tirado de ação de improbidade administrativa, a eg. Segunda Turma não emitiu juízo a respeito dos arts. 299 e 342 do Código Penal, nem houve debate sobre a matéria ali encartada.
+4. Agravo interno desprovido (AgInt na AR n. 5.882/SC, relator Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 26/5/2021, DJe de 18/6/2021, grifo nosso).
+DECADÊNCIA AFASTADA. ANISTIA. PAGAMENTO DE PARCELAS RETROATIVAS. LITERAL VIOLAÇÃO DE LEI. DISPOSITIVO LEGAL NÃO EXAMINADO PELO ARESTO RESCINDENDO. DESCABIMENTO. ERRO FATO. INEXISTÊNCIA. AÇÃO JULGADA IMPROCEDENTE.
+1. Nos termos da Súmula 401/STJ, "o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial." No caso, o trânsito em julgado da última decisão proferida no aresto rescindendo ocorreu em 22/5/2013 e correspondeu à homologação da desistência do recurso extraordinário. Logo, como a presente ação rescisória foi proposta em 5/5/2015, observou-se o prazo de dois anos previsto no CPC, não tendo ocorrido a decadência.
+2. De acordo com a jurisprudência do STJ, é descabida a ação rescisória fundamentada no art. 485, V, do CPC/1973, quando o aresto rescindendo não emitiu juízo de valor sobre o normativo apontado como violado. Entender o contrário seria permitir que a ação desconstitutiva seja utilizada para propiciar novo julgamento da demanda sob enfoque jurídico diverso, eternizando-se a controvérsia trazida ao Judiciário.
+3. Na situação em exame, a alegativa de ofensa ao princípio da vedação ao enriquecimento ilícito assim como o regramento previsto no art. 6º da Lei n. 8.878/1994 não foram objeto análise pelo aresto rescindendo, o que inviabiliza o pleito rescisório.
+4. A suscitada inaplicabilidade ao caso dos precedentes utilizados pelo acórdão rescindendo não caracteriza erro de fato, mas apenas hipotético erro de direito, o que não é suficiente para fundamentar o cabimento da rescisória com base no art. 485, IX, do CPC/1973.
+5. Ação rescisória julgada improcedente (AR n. 5.609/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 27/11/2019, DJe de 10/12/2019, grifo nosso).
+Ressalto que a jurisprudência desta Corte entende que a ação rescisória por violação de literal disposição de lei só é cabível quando a interpretação conferida pelo acórdão rescindendo for teratológica, revelando total descompasso com a jurisprudência amplamente predominante à época do julgado, o que não ocorreu no caso.
+Ademais, a parte não descreve nenhum erro de fato na decisão rescindenda, mas, tão somente, eventual erro de julgamento.
+Como bem anotado no parecer ministerial, "a pretensão da autora traduz-se em verdadeira utilização da ação rescisória como recurso, porquanto ajuizada com o nítido propósito de rediscutir o acerto do acórdão transitado em julgado" (fl. 580).
+Dessa forma, considerando que não foi demonstrada a violação manifesta de norma jurídica, impõe-se reconhecer que a argumentação adotada na petição inicial evidencia a utilização da demanda como sucedâneo recursal, o que é vedado, de acordo com a jurisprudência pacífica desta Corte Superior.
+Nesse diapasão, destaco os seguintes precedentes, in verbis:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ART. 485, INCISOS III, VI, VII E IX, DO CPC/1973. INÉPCIA DA INICIAL. INOCORRÊNCIA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. MANEJO DA AÇÃO DESCONSTITUTIVA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Cuida-se Ação Rescisória ajuizada com amparo no artigo 485, incisos III, VI, VII e IX, do CPC/73, objetivando desconstituir decisão monocrática proferida no Resp nº 1.257.865/PB, que reconheceu a qualidade de bem de família de imóvel penhorado, e posteriormente arrematado, em execução fiscal.
+2. Preliminarmente, no tocante à alegada inépcia da inicial, a súplica não prospera, eis que suficientemente demonstrado, na exordial, que a pretensão recai sobre decisão monocrática que, acaso rescindida, refletirá no ato de arrematação do bem.
+3. A ação rescisória possui caráter excepcionalíssimo, restringindo-se a sua propositura às hipóteses de rescindibilidade expressamente previstas em lei, não se prestando, portanto, como sucedâneo recursal.
+4. Na espécie, a ação foi ajuizada com o fim de desconstituir decisão que, embora tenha negado seguimento ao Recurso Especial, apreciou o mérito da demanda.
+5. Ressai evidente o manejo da ação desconstitutiva como sucedâneo recursal, dada a pretensão de rediscutir a conclusão a que chegou o julgado acobertado pela coisa julgada, quanto à natureza impenhorável do imóvel locado, por se tratar de bem de família.
+6. Pedido rescisório improcedente (AR n. 5.349/PB, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 3/4/2025, DJEN de 22/4/2025).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DEMONSTRAÇÃO DE VIOLAÇÃO À NORMA JURÍDICA. INEXISTÊNCIA. ANÁLISE DE MATÉRIA NÃO EXAMINADA PELO DECISUM RESCINDENDO. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RESCISÓRIA COMO SUCEDÂNEO RECURSAL. AÇÃO JULGADA IMPROCEDENTE.
+1. Para efeito de cabimento de ação rescisória com fundamento no art. 966, V, do Código de Processo Civil (ofensa à literalidade de dispositivo legal), é indispensável que a norma legal apontada como violada tenha sido ofendida em sua literalidade, bem como que haja sido expressamente apreciada na decisão rescindenda.
+2. No caso em exame, a insurgência da parte autora está relacionada à nulidade da citação por edital dos Oficiais de Justiça realizada nos autos do Dissídio Coletivo por Greve 0205854-45.2010.8.26.0000, controvérsia essa que não foi analisada no acórdão rescindendo.
+3. A análise da inicial evidencia, ainda, a não demonstração de manifesta violação à norma jurídica ou da existência de erro de fato, o que confere à pretensão veiculada nesta demanda nítido escopo recursal, o que é vedado nos termos da jurisprudência do Superior Tribunal de Justiça.
+4. Ação rescisória julgada improcedente (AR n. 5.999/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 27/11/2024, DJEN de 5/12/2024).
+Isso posto, considerando ser a matéria de direito, sem necessidade de produção de provas (art. 355 do CPC), julgo improcedente a ação rescisória.
+Prejudicado o agravo interno interposto (fls. 477-490) contra a decisão que indeferiu a concessão de tutela provisória de urgência.
+Custas ex lege. Condeno a parte autora em honorários de advogado, fixado em 10% (dez por cento) do valor da causa, nos termos do art. 85, § 3º, I, do CPC.
+Intimem-se.
+EMENTA
