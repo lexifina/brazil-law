@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Negativa de prestação jurisdicional NÃO CONFIGURADA. ACÓRDÃO QUE ENFRENTOU AS TESES VENTILADAS, AINDA QUE TENHA ADOTADO SOLUÇÃO DIVERSA DAQUELA ESPERADA PELA PARTE. Reexame de fatos e provas. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu dos agravos para não conhecer dos recursos especiais, sob alegação de negativa de prestação jurisdicional pelo Tribunal de origem.
+2. Os agravantes sustentam que o Tribunal de origem deixou de apreciar teses relevantes e que não pretendem rediscutir fatos e provas, mas apenas a revaloração jurídica de fatos incontroversos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional por parte do Tribunal de origem e se é possível o reexame de fatos e provas em sede de recurso especial.
+III. Razões de decidir
+4. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, sendo mantida a decisão agravada por seus próprios fundamentos.
+5. Não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta fundamentadamente as questões suscitadas, ainda que contrariamente ao interesse da parte, conforme precedentes do STJ.
+6. A revisão das conclusões do acórdão recorrido demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+7. A aplicação da Súmula 83 do STJ é adequada, pois a decisão impugnada está em consonância com a jurisprudência consolidada desta Corte.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta fundamentadamente as questões suscitadas, ainda que contrariamente ao interesse da parte.
+2. O reexame de fatos e provas é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+Dispositivos relevantes citados: CPP, art. 619; Súmula 7 do STJ; Súmula 83 do STJ.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no REsp 2182383/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, DJEN 23/09/2025; STJ, REsp 1.947.718/PR, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJE 06/09/2024; STJ, AgRg no AREsp 2.392.558/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJE 09/08/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ HÉLIO RIGONATO DE ANDRADE e por SIDNEI BERTOLI MORENO em face de decisões que conheceram dos agravos para não conhecer dos recursos especiais (fls. 4261-4263 e fls. 4262-4266).
+Em razões recursais, a defesa sustenta que não pretende a rediscussão de fatos e de provas, mas a mera revaloração jurídica de fatos incontroversos. Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de apreciar teses relevantes suscitadas pelos recorrentes. Requer o encaminhamento para o órgão colegiado, com o provimento do agravo regimental interposto (fls. 515-523).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Negativa de prestação jurisdicional NÃO CONFIGURADA. ACÓRDÃO QUE ENFRENTOU AS TESES VENTILADAS, AINDA QUE TENHA ADOTADO SOLUÇÃO DIVERSA DAQUELA ESPERADA PELA PARTE. Reexame de fatos e provas. Recurso desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu dos agravos para não conhecer dos recursos especiais, sob alegação de negativa de prestação jurisdicional pelo Tribunal de origem.
+2. Os agravantes sustentam que o Tribunal de origem deixou de apreciar teses relevantes e que não pretendem rediscutir fatos e provas, mas apenas a revaloração jurídica de fatos incontroversos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se houve negativa de prestação jurisdicional por parte do Tribunal de origem e se é possível o reexame de fatos e provas em sede de recurso especial.
+III. Razões de decidir
+4. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, sendo mantida a decisão agravada por seus próprios fundamentos.
+5. Não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta fundamentadamente as questões suscitadas, ainda que contrariamente ao interesse da parte, conforme precedentes do STJ.
+6. A revisão das conclusões do acórdão recorrido demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ.
+7. A aplicação da Súmula 83 do STJ é adequada, pois a decisão impugnada está em consonância com a jurisprudência consolidada desta Corte.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental desprovido.
+Tese de julgamento:
+1. Não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta fundamentadamente as questões suscitadas, ainda que contrariamente ao interesse da parte.
+2. O reexame de fatos e provas é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+Dispositivos relevantes citados: CPP, art. 619; Súmula 7 do STJ; Súmula 83 do STJ.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no REsp 2182383/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, DJEN 23/09/2025; STJ, REsp 1.947.718/PR, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJE 06/09/2024; STJ, AgRg no AREsp 2.392.558/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJE 09/08/2024.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+Conforme cediço, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pelo agravante foram analisados de forma devidamente fundamentada.
+Consoante assentado na decisão agravada, "não há negativa de prestação jurisdicional quando o Tribunal de origem enfrenta fundamentadamente as questões suscitadas, ainda que contrariamente ao interesse da parte" (AgRg nos EDcl no REsp 2182383 / PR, QUINTA TURMA, Rel. Ministro RIBEIRO DANTAS, DJEN 23/09/2025).
+No caso vertente, o Tribunal de origem, ao apreciar os aclaratórios opostos pelos ora recorrentes, indicou, precisamente, trecho do voto condutor, no bojo do qual as teses ventiladas foram enfrentadas, ainda que com despacho diverso do esperado pelos condenados (fls. 3864-3867):
+"Quanto a alegações de omissão e contradição, percebe-se que foram analisados todos os pedidos defensivos, conforme segue trechos do acórdão: "Porém, vê-se que Roberto, enquanto Procurador do Município, tinha a responsabilidade técnica de analisar e fiscalizar a legalidade das contratações e pagamentos que eram realizados pela Prefeitura. Conforme documentos juntados aos autos, era de pleno conhecimento do réu, a existência do primeiro procedimento licitatório, uma vez que nele já havia exarado seus pareceres, atestando sua legalidade e regularidade."  ..  José Hélio Rigonato se trata do proprietário da empresa EJ Construtora e Sidnei Bertoli Moreno de seu procurador. Ao atuarem nos referidos processos licitatórios e contratos respectivos como representantes da empresa beneficiária, vê-se que participaram ativamente dos atos que ensejaram no direcionamento irregular das verbas públicas do município contratante a empresa da qual faziam parte. O dolo se confirma na medida em que, na condição de gestores da empresa contratada, tinham conhecimento de que os serviços não haviam sido realizados, mesmo assim diligenciaram para que os pagamentos fossem realizados pelo ente público, sem que tivesse havido a devida contraprestação. Além dos mais, os aqui réus eram sabedores que o segundo processo licitatório tinha como objeto o mesmo do primeiro que havia sendo executado e tinham conhecimento de que os serviços pelos quais foi solicitado o pagamento já havia sido pago no primeiro processo. Percebe-se que o contrato relativo ao segundo processo e a respectiva ordem de serviços foram assinados em 15/08/2012 (fls. 149 e 151 do processo administrativo) e apenas cinco dias depois, em 20/08/2012 foi realizado o requerimento de medição e pagamento por quantidade de serviços que não haveria a mínima possibilidade de serem realizados em 05 dias (fls. 152/158 procedimento), ressaltando que, conforme dito anteriormente, trataram-se de serviços que já haviam sido medidos e pagos no processo anterior. Salienta ainda que, na mesma data em que foi solicitada a medição e o pagamento nesse segundo processo pelo réu Sidnei, em 20/08/2012, foi também atestado o recebimento do serviço pelo réu Otaviano e manifestada pelo réu Vanderlei a necessidade de paralisação da obra por inexistência de recursos financeiros (fls. 159/160 do procedimento). Sete dias antes, em 13/08/2012, o réu Vanderlei havia autorizado a despesa (fl. 140) e, no dia 15/08/2012, formalizou o empenho respectivo atestando a existência de recurso para tanto. Apenas cinco dias depois, formalizou termo que a obra deveria ser paralisada por falta de recursos. Percebe ter sido o acórdão muito bem fundamentado para que fosse mantida a condenação estipulada em sentença. Dessa forma, não verificada omissão ou contradição no presente acórdão prolatado."
+A bem da verdade, o acerto ou o desacerto da solução adotada pelo Tribunal local consiste em matéria que diz respeito ao mérito da causa, mas não ao cabimento dos aclaratórios, recurso de fundamentação vinculada, circunscrito às hipóteses previstas no art. 619 do CPP.
+Por certo, é dado à parte recorrente discordar da solução encontrada pelo aresto impugnado, o que, por outro lado, não leva à conclusão de negativa de prestação jurisdicional, notadamente no caso dos autos, em que há robusta fundamentação a avalizar o édito condenatório.
+A propósito:
+"RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. CRIME CONTRA A ADMINISTRAÇÃO AMBIENTAL. NULIDADE LAUDO TÉCNICO. PROVA ILÍCITA. FISCALIZAÇÃO AMBIENTAL. POSSIBILIDADE. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. FUNDAMENTOS IDÔNEOS. POLICIAIS TESTEMUNHAS DE ACUSAÇÃO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. SUSPENSÃO DO PROCESSO. INDEPENDÊNCIA ENTRE ESFERAS. DESNECESSIDADE. VIOLAÇÃO DO ART. 619 DO CPP. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 69-A, CAPUT E § 1º, DA LEI N. 9.605 /1998. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 83/STJ.  ..  5. Não há violação do art. 619 do CPP, pois o Tribunal de origem enfrentou, de forma fundamentada, as irresignações recursais, adotando, contudo, solução jurídica contrária aos interesses da recorrente, não havendo falar, assim, em negativa de prestação jurisdicional. Precedentes.  ..  9. Recursos especiais parcialmente conhecidos e, nessa extensão, desprovidos". (REsp n. 1.947.718/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 3/9/2024, DJe de 6/9/2024.) " ..  5. Não há falar de violação ao art. 619 do CPP, pois não houve omissão do aresto objurgado quanto à pena do crime de lavagem de capitais, senão decisão contrária ao interesse do recorrente, que não configura negativa de prestação jurisdicional. 6. Agravo regimental desprovido". (AgRg no AREsp n. 2.392.558/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+Desta feita, a aplicação da Súmula n. 83 do STJ é adequada, porquanto a decisão impugnada está em consonância com a jurisprudência desta Corte, que exige a demonstração de precedentes contemporâneos ou supervenientes para afastar o entendimento consolidado (AgRg no AREsp 2703633 / DF, QUINTA TURMA, de minha relatoria, DJEN 13/05/2025).
+De mais a mais, "a revisão das conclusões do acórdão recorrido demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, conforme a Súmula 7 do STJ" (AgRg no AREsp 2713884 / SP, QUINTA TURMA, de minha relatoria, DJEN 19/05/2025).
+Dessarte, deve ser mantida a decisão agravada por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
