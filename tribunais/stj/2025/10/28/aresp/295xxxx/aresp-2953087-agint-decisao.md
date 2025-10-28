@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto por BRASILSEG COMPANHIA DE SEGUROS contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, com fundamento no artigo 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, por ausência de impugnação específica a todos os fundamentos do Acórdão recorrido (fls. 773/774).
+O agravo interno merece provimento.
+A decisão agravada, proferida pela Presidência desta Corte, não conheceu do agravo em recurso especial por entender que a parte agravante não impugnou especificamente todos os fundamentos do Acórdão recorrido.
+Não obstante o rigor formal que deve pautar a análise dos pressupostos de admissibilidade recursal, em especial a dialeticidade, a jurisprudência desta Corte tem se orientado pela primazia do julgamento de mérito, afastando óbices processuais quando a matéria de fundo se revela de manifesta relevância jurídica e a parte recorrente, ainda que de forma concisa, demonstra insurgência contra todos os capítulos da decisão recorrida.
+No caso concreto, o agravante, nas razões do recurso especial (fls. 739/759), ao sustentar que o recurso preenche os requisitos de admissibilidade, afirma que o Acórdão recorrido deixou de apreciar questões indispensáveis ao desfecho da lide, que lhe foi atribuído ônus probatório, mas seu pedido de produção de prova fora indeferido, que não foram observados os limites dos seguros prestamistas contratados pelo segurado.
+Dessa síntese, infere-se que impugnação específica aos fundamentos da decisão recorrida, motivo pelo qual, em juízo de retratação, reconsidero a decisão de fls. 773/774.
+Superados, pois, os óbices de admissibilidade, conheço do agravo interno e reconsidero a decisão para examinar o agravo em recurso especial.
+EMENTA
