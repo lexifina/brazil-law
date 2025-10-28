@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Banco Volkswagen S.A. à decisão prof erida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 423):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL E DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. APELAÇÃO. 1. ART. 489 DO CPC/2015. NULIDADE DA DECISÃO. INEXISTÊNCIA. 2. CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. 3. ART. 149 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 432-439), o embargante sustenta que a decisão monocrática (e-STJ, fls. 423-427) incorreu nos vícios de omissão e contradição.
+Alega que a "decisão foi omissa ao não enfrentar o argumento central do Recurso Especial, que não versava sobre a existência ou inexistência de provas nos autos, mas sim sobre uma questão de puro direito: a nulidade de uma sentença proferida em julgamento antecipado quando havia requerimento expresso e justificado de produção de prova, cuja necessidade era manifesta para o deslinde da controvérsia" (e-STJ, fl. 435).
+Quanto ao art. 489 do CPC/2015, aduz que a decisão embargada silenciou-se em relação a argumento específico do recurso especial, qual seja, "o de que o acórdão do TJSP foi nulo não por ter fundamentação escassa, mas por ter ignorado por completo um capítulo inteiro do recurso de apelação - a preliminar de nulidade da sentença por cerceamento de defesa" (e-STJ, fl. 436).
+Aponta omissão em razão da aplicação da Súmula n. 211/STJ.
+Requer, ao fim, o acolhimento dos presentes embargos.
+Não foram apresentadas as impugnações.
+Brevemente relatado, decido.
+De início, cabe rememorar que os embargos de declaração constituem meio de impugnação à decisão judicial de fundamentação vinculada, cabíveis apenas nas hipóteses estabelecidas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Tal recurso objetiva o aprimoramento das decisões judiciais, com o propósito de prestar a tutela jurisdicional de forma clara e completa, sem, contudo, revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os declaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Em atenção à finalidade integrativa do recurso aclaratório, inviável se mostra a utilização do meio impugnativo para a reforma do entendimento aplicado ou novo julgamento da causa, conforme pretende a parte embargante.
+3. Não compete a este Tribunal Superior examinar suposta violação de normativo constitucional, nem sequer para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal, nos termos do que dispõem os artigos 102 e 105 da Constituição Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.937.467/MG, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Esta Corte Superior possui entendimento firmando no sentido de que "apenas as omissões acerca de questões relevantes ao julgamento da causa, as quais, se acolhidas, poderiam alterar o resultado do julgamento, ensejam o provimento do recurso especial por omissão" (AgInt no AREsp n. 2.000.239/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 6/6/2023, DJe de 15/6/2023).
+Na hipótese, ainda que em sentido contrário à pretensão manifestada, houve a apreciação das questões necessárias para a solução da controvérsia de forma completa, de modo que não há falar nos vícios apontados.
+Conforme se extrai, o pronunciamento judicial foi claro e devidamente fundamentado quanto à inexistência de violação ao art. 489 do CPC/2015, à inexistência do cerceamento de defesa em razão do julgamento antecipado do feito, e à ausência de prequestionamento.
+Veja-se (e-STJ, fls. 424-426):
+A agravante impugna devidamente os fundamentos da decisão de inadmissibilidade da origem, razão por que conheço do agravo e passo à análise do recurso especial.
+De início, deve ser rechaçada de plano a alegada violação ao art. 489, §1º, IV, do CPC/2015. Isso porque a Corte de origem consignou de forma clara os fundamentos que embasaram a decisão proferida.
+Com efeito, nos termos da jurisprudência desta Corte Superior, inexiste violação ao art. 489 do CPC/2015, tampouco nulidade da decisão ou negativa de prestação jurisdicional, quando as questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões.
+A propósito (sem grifo na original):
+ ..
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020).
+No que concerne ao apontado cerceamento de defesa, é importante consignar que esta Corte Superior perfilha o entendimento no sentido de que o julgamento antecipado da lide, quando o juiz entender que o feito se encontra devidamente instruído, não configura cerceamento de defesa. Ademais, por ser destinatário final da prova, cabe ao magistrado indeferir a produção de provas e diligências protelatórias, desnecessárias ou impertinentes.
+Na hipótese, colhe-se da leitura do acórdão alvejado que a tese da nulidade da sentença em razão do cerceamento de defesa foi afastada pelo colegiado de origem, o qual afirmou que a questão era exclusivamente de direito.
+Leia-se (e-STJ, fl. 305):
+Pelo depreendido dos autos, a questão é exclusivamente de direito, sendo certo que o contexto de ordem fática está adstrito aos documentos e provas já existentes nos autos, propiciando o conhecimento de plano da matéria.
+No mais, a par da premissa jurídica compatível com a jurisprudência do Superior Tribunal de Justiça, tem-se que a superar a comprensão da Corte de origem de que o contexto de ordem fática, no caso, estaria adstrito aos documentos e provas já existentes nos autos, seria inviável pela via estreita do recurso especial. Incide na hipótese o óbice da Súmula 7/STJ.
+No tocante à pretextada violação ao art. 149 do CTN, referente à tese de ausência hipóteses que autorizam a revisão de lançamento, nota-se que, não obstante a oposição dos embargos declaratórios, a Corte de origem não enfrentou a questão, deixando de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, e o seu descumprimento obsta o conhecimento do recurso especial pela incidência da Súmula n. 211/STJ.
+No caso, não obstante a alegação de pretensos vícios no julgado, ressai, na verdade, a intenção de obter o rejulgamento da causa em virtude do inconformismo da parte com o resultado.
+Todavia, tal pretensão revela-se incompatível com o caráter integrativo dos declaratórios, tornando inviável o seu acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. 1. VÍCIO DE OMISSÃO . INEXISTÊNCIA. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
