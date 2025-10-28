@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SÍRIO LIBANÊS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra acórdão prolatado no julgamento da Apelação Cível n. 1000175-32.2023.8.26.0014.
+Na origem, cuida-se de embargos à execução fiscal opostos pela sociedade embargante contra a Fazenda Pública do Estado de São Paulo, visando à nulidade da Execução Fiscal n. 1507015-35.2022.8.26.0014, fundada no Auto de Infração e Imposição de Multa n. 4.116.067-8, bem como ao afastamento de multa e juros ou, subsidiariamente, à incidência de encargos apenas sobre a diferença não coberta por depósito judicial (fls. 2435-2438).
+O juízo de primeiro grau julgou improcedentes os embargos à execução fiscal (fls. 2435-2438), condenando a embargante/executada ao pagamento das despesas processuais e de honorários advocatícios, estes fixados nos parâmetros mínimos do art. 85, §§ 3º e 5º, do Código de Processo Civil.
+Inconformada, a ora agravante interpôs recurso de apelação (fls. 2443-2466).
+A Corte a quo, por unanimidade de votos dos integrantes da 1ª Câmara de Direito Público, negou provimento ao apelo, em acórdão cuja ementa segue transcrita (fls. 2501-2502):
+DIREITO TRIBUTÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. ICMS-IMPORTAÇÃO. NULIDADE DA EXECUÇÃO FISCAL. DEPÓSITO JUDICIAL INSUFICIENTE. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. NÃO OCORRÊNCIA. MULTA PUNITIVA. LEGALIDADE. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+Apelação interposta contra sentença que julgou improcedentes os embargos à execução fiscal movidos pela embargante, os quais visavam à nulidade da Execução Fiscal nº 1507015-35.2022.8.26.0014, ajuizada pela Fazenda Pública Estadual para a cobrança de débito referente ao ICMS-importação, consubstanciado no Auto de Infração e Imposição de Multa (AIIM) nº 4.116.067-8, no valor de R$ 1.749.505,90, devido em razão do desembaraço aduaneiro de mercadorias entre 09/11/2017 e 23/04/2018. A embargante alegou, entre outros pontos, que havia realizado depósito judicial antes do fato gerador e que, portanto, não teria incorrido em mora, além de ter obtido a suspensão da exigibilidade do débito.
+II. QUESTÃO EM DISCUSSÃO
+Há duas principais questões em discussão: (i) se o depósito judicial realizado pela embargante foi suficiente para suspender a exigibilidade do crédito tributário, nos termos do art. 151, II, do CTN, e (ii) se a multa punitiva aplicada no AIIM foi correta e proporcional, conforme a legislação tributária.
+III. RAZÕES DE DECIDIR
+O depósito judicial efetuado pela embargante foi realizado antes do fato gerador do ICMS, ou seja, antes do desembaraço aduaneiro das mercadorias, momento em que o tributo se torna exigível, conforme disposto no art. 12, IX, da Lei Complementar nº 87/96. Assim, o valor depositado não foi atualizado em consonância com os valores devidos após o desembaraço aduaneiro, o que resultou em insuficiência do depósito.
+Nos termos da Súmula nº 112 do STJ, "o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro". Como o depósito efetuado foi insuficiente para cobrir o montante atualizado do tributo devido, não houve a suspensão da exigibilidade do crédito, sendo legítima a autuação fiscal e a cobrança do ICMS importação por meio da execução fiscal.
+Assim como o recolhimento a menor do tributo antes do momento do desembaraço aduaneiro (fato gerador) não é suficiente para eclodir os efeitos da garantia do débito (art. 151, II, CTN), tampouco o seria para fins de justificar a aplicação dos juros e multa apenas sobre a diferença não depositada em juízo.
+A multa punitiva aplicada pela Fazenda Pública Estadual, no percentual de 50% sobre o valor principal, está em conformidade com a legislação vigente e não ultrapassa o limite constitucionalmente estabelecido pelo princípio da vedação ao confisco. Precedentes do Supremo Tribunal Federal indicam que multas arbitradas até o montante de 100% do valor principal são válidas (STF, AgRg no RE-Ag 836828/RS).
+No tocante ao capítulo sucumbencial, o princípio da causalidade orienta a condenação da embargante ao pagamento dos honorários advocatícios. A proposição da execução fiscal foi necessária devido ao inadimplemento do tributo e a ação de embargos à execução possui relativa autonomia em relação ao feito executivo, permitindo a fixação de honorários em ambas as ações, sem caracterizar bis in idem ou indevida cumulação.
+IV. DISPOSITIVO E TESE
+Recurso desprovido. Sentença mantida.
+Dispositivos relevantes citados: CTN, art. 151, II; LC nº 87/1996, art. 12, IX; Lei Estadual nº 6.374/89; Súmula nº 112 do STJ. Jurisprudência relevante citada: STF, AgRg no RE-Ag 836828/RS, Primeira Turma, Rel. Min. Luís Roberto Barroso, j. 16.12.2014.
+Os embargos de declaração opostos ao aresto supra (fls. 2524-2527) foram rejeitados (fls. 2528-2531), o que ensejou a interposição do apelo nobre.
+Nas razões do recurso especial denegado (fls. 2539-2556), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente alegou violação aos seguintes dispositivos legais:
+(i) arts. 489, §1º, inciso VI, 1.022, inciso II e parágrafo único, incisos I e II, 926, 927, inciso III, e 1.040, inciso III, do Código de Processo Civil, apontando nulidade do acórdão por inobservância de precedentes obrigatórios (Tema n. 271/STJ), deficiência de fundamentação e negativa de prestação jurisdicional;
+(ii) arts. 142, 150, 151, inciso II, e 161, do Código Tributário Nacional, sustentando que o depósito judicial prévio realizado no mandado de segurança constitui lançamento tácito e suspende a exigibilidade na proporção depositada, impedindo a lavratura do auto de infração e a inscrição em dívida ativa, bem como vedando a incidência de multa e juros sobre o montante depositado (fls. 2544-2552); e
+(iii) art. 884, do Código Civil, afirmando afirmou que a cobrança de juros e multa sobre valores já depositados e posteriormente convertidos em renda configura enriquecimento sem causa da Fazenda Pública.
+Regularmente intimada, a parte recorrida apresentou contrarrazões ao recurso especial (fls. 2598-2607).
+Em juízo de prévio de admissibilidade, a Corte de origem inadmitiu o recurso especial (fls. 2608-2609), valendo-se, para tanto, dos seguintes fundamentos: inexistência de ofensa aos arts. 489 e 1.022 do Código de Processo Civil, por conter o acórdão fundamentação suficiente, e incidência do óbice da Súmula n. 7/STJ.
+Ainda irresignada, a parte recorrente interpôs o agravo ora em apreço (fls. 2616- 2630).
+Contraminuta apresentada pela parte agravada (fls. 2659-2669).
+É o relatório.
+Decido .
+Verifico que foram satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma pormenorizada, os fundamentos adotados na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Ante o exposto, DOU PROVIMENTO ao agravo, convertendo-o em recurso especial, sem prejuízo da aferição dos requisitos de admissibilidade a ser realizada em momento processual oportuno.
+Após a reautuação, retornem os autos conclusos.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ICMS-IMPORTAÇÃO. DEPÓSITO JUDICIAL PARCIAL. JUROS MORATÓRIOS E MULTA. CONVERSÃO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
