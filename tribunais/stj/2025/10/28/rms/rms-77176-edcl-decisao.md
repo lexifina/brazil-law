@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de RECURSO EM MANDADO DE SEGURANÇA opostos por UP BRASIL ADMINISTRACAO E SERVICOS LTDA. à decisão de fls. 2370/2371, que não conheceu do recurso em razão da deserção.
+Sustenta a parte embargante que " ..  não já que se falar em irregularidade no preenchimento da GRU ou em deserção, pois o pagamento do preparo foi corretamente realizado e devidamente identificado com o número do processo de origem, conforme orientação normativa vigente." (fl. 2376).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição do Recurso em Mandado de Segurança, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PREPARO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. DESERÇÃO. ALEGADA FALHA NA DIGITALIZAÇÃO DOS AUTOS, DESACOMPANHADA DE COMPROVAÇÃO IDÔNEA. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Consoante pacífica jurisprudência desta Corte, firmada à luz do CPC/73, as guias (GRU) e os comprovantes de pagamento do preparo constituem peças essenciais à formação do recurso, porquanto somente com esses documentos torna-se possível verificar a sua regularidade.
+Assim, os recursos interpostos devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Precedentes do STJ.
+III. O entendimento desta Corte orienta-se no sentido de que "eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente" (STJ, AgInt no REsp 1.737.036/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 22/05/2019). No mesmo sentido: STJ, AgInt nos EAREsp 814.129/ES, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 09/10/2018; AgRg no AREsp 794.865/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2018; AgRg no REsp 1.390.521/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 14/12/2015.
+IV. No caso, a deserção foi declarada, pois o comprovante de pagamento do preparo está ilegível. Nas razões deste Agravo interno, a parte agravante sustenta que "a declaração existente na decisão agravada, de estar deserto o recurso da parte agravante, em função de estar ilegível o documento que comprova o recolhimento das custas processuais, não é de responsabilidade da parte agravante, conforme determina a resolução desse Sodalício". Todavia, segundo certidão de validação, exarada pela Corte de origem, "os autos eletrônicos correspondem aos físicos, adquirindo suas páginas nova numeração eletrônica". A desconstituição de tal ato, dotado de fé pública, dependeria da juntada de nova certidão, que comprovasse a alegada falha na digitalização dos autos, o que não ocorreu, in casu.
+V. Agravo interno improvido.
+(AgInt no RMS 51.502/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17.06.2019.)
+No caso dos autos, a parte embargante não cumpriu devidamente os requisitos relativos ao preparo, mesmo após intimada para regularização, conforme faculdade conferida sob a égide do Código de Processo Civil em vigor.
+Veja-se que consta do acórdão de origem a seguinte numeração, (fls. 2335/2338): 0816740-31.2024.8.20.0000; a parte, quando intimada para regularizar o preparo, apresentou guia com numeração absolutamente divergente, (fls. 2364/2367): 8026452820248205001, razão pela qual, diante da não regularização do preparo, o Recurso em Mandado de Segurança não foi conhecido (fls. 2371 ).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl no Aresp 883235/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/12/2020.
+Assim, não há irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
