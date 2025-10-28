@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDUARDO PEREIRA SAMPAIO contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2277716-17.2025.8.26.0000).
+Consta dos autos que o paciente teve a prisão preventiva decretada em 12/09/2024 por delito supostamente cometido por ele em 17/08/2024, mas está preso preventivamente desde a data de 29/03/2025, e foi denunciado pela suposta prática do crime de homicídio qualificado, previsto no art. 121, §2º, incisos II, III e IV, do Código penal, porque (e- STJ fl.):
+ ..  Segundo consta, em 17 de agosto de 2024, em São Roque, João Edes Moreira e Eduardo Pereira Sampaio, agindo em concurso de agentes e com unidade de desígnios, com evidente ânimo homicida, por motivo fútil, mediante dissimulação e com emprego de fogo, mataram Leonardo Ferreira de Marins, produzindo-lhe os ferimentos descritos no laudo pericial.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual. O Tribunal de origem, contudo, denegou a ordem nos termos da seguinte ementa (e-STJ fl. 17):
+Ementa. Direito Penal. Habeas Corpus. Homicídio. Impetração que visa à revogação da prisão preventiva. Necessidade de mantença da custódia cautelar. Indícios de materialidade e autoria. Gravidade concreta do delito que denota periculosidade dos agentes, a embasar a necessidade de mantença da prisão preventiva. Excesso de prazo não verificado. Fundamentação idônea. Ordem denegada.
+No presente writ, a defesa sustenta-se que a prisão preventiva se mantém há mais de seis meses sem prova autônoma de autoria, fundada exclusivamente na palavra do corréu, logo, ausentes os requisitos da prisão preventiva e violando os princípios da proporcionalidade e da razoável duração do processo.
+Alega-se, ainda, ausência de contemporaneidade dos fundamentos e inexistência de fuga, além da demora do Estado na remessa de vídeos solicitados pela defesa à Delegacia.
+Ressalta, também, as condições pessoais favoráveis como primariedade, residência fixa, emprego lícito e filho menor.
+Diante disso, pede, liminarmente e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão, nos termos dos art. 282 c/c art. 319 do CPP.
+É o relatório. Decido.
+Não há como conhecer do recurso.
+Isso porque o presente writ apresenta as mesmas partes, causa de pedir e pedido do HC n. 1.024.333/SP, julgado em 13/08/2025, cuja ordem não foi conhecida em razão da periculosidade do paciente, evidenciada pela gravidade concreta do delito e pelo modus operandi empregado, os quais demonstram risco à garantia da ordem pública, à conveniência da instrução criminal e à aplicação da lei penal, sobretudo porque o paciente permaneceu foragido por aproximadamente seis meses antes de ser preso preventivamente.
+Ressalta-se que, embora os habeas corpus tenham sido impetrados contra diferentes acórdãos  o presente writ impugna o acórdão proferido no HC n. 2277716-17.2025.8.26.0000, enquanto o HC n. 1.024.333/SP questionou o acórdão prolatado no HC n. 2139694-76.2025.8.26.0000  ambos possuem identidade de partes, de causa de pedir e de pedido, configurando reiteração de impetração.
+Além disso, observa-se que a defesa não indicou qualquer fato novo ou decisão superveniente que justificasse a reanálise da matéria neste novo habeas corpus, razão pela qual o seu conhecimento se revela inviável.
+Com efeito, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
