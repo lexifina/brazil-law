@@ -1,0 +1,77 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DECON INDÚSTRIA DE FERRAMENTARIA E PROTÓTIPO EIRELI e TFL FERRAMENTARIA LTDA., com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 93-94):
+AGRAVO DE INSTRUMENTO. DECISÃO QUE HOMOLOGOU O PLANO DE RECUPERAÇÃO JUDICIAL DAS AGRAVADAS. INSURGÊNCIA DE INSTITUIÇÃO FINANCEIRA CREDORA. RECURSO PARCIALMENTE PROVIDO.
+1. Recurso interposto contra decisão que homologou o plano de recuperação judicial das agravadas, com ressalva das cláusulas 1.1, 2, 6.2 e 6.2.1 do aditivo do plano de recuperação judicial, para que: a) os créditos trabalhistas sejam pagos no prazo previsto no 54 da Lei 11.101/05; b) na hipótese de arrendamento, trespasse e alienação das empresas recuperandas, ou sua conversão em sociedade por ações, seja precedida de autorização expressa do juízo da recuperação judicial; c) na hipótese de alienação de UPI, a avaliação dos bens que compõe a Unidade deverá ser feita por perito nomeado pelo juízo, e cujo valor mínimo da venda deverá ser suficiente para pagar eventuais credores com garantia atrelada aos bens e a integralidade do saldo trabalhista concursal.
+2. O credor quirografário insurgiu-se contra a forma de pagamento estipulada para a sua Classe III (deságio de 60%, correção monetária pela TR, carência de 18 meses, a partir do trânsito em julgado da decisão que homologar o plano, pagamento trimestral de R$ 84.000,00, percentual de juros, e os planos alternativos).
+3. Controle de legalidade do plano. Possibilidade. Precedente do STJ (RESP 1660195/PR).
+4. Forma de pagamento relativa a deságio, termo a quo da correção monetária, juros, e prazo de carência e de pagamento, que foram submetidas à analise dos credores, em assembleia geral de credores, e que podem ser livremente estipuladas, já que se inserem no seu juízo discricionário.
+5. Tendo sido fixado prazo de carência de 18 meses, sua contagem inicia-se da decisão homologatória do plano de recuperação judicial, e não do seu trânsito em julgado. Recurso provido nessa parte.
+6. Correção monetária pela TR. Atual inviabilidade do índice por implicar ausência de recomposição do crédito. Substituição pela Tabela Prática do Tribunal de Justiça. Recurso provido nessa parte.
+7. Planos alternativos. Ausência de ilegalidade, não sendo possível presumir abusividade, nem violação ao princípio da paridade.
+8. Recurso parcialmente provido.
+Rejeitados os embargos de declaração opostos (fls. 151-157).
+Nas razões do presente recurso especial, os recorrentes alegam violação dos arts. 45 e 47 da Lei n. 11.101/2005, "haja vista ter interferido em questões negociais aprovadas pela maioria dos credores em assembleia, sob o pressuposto de controle de legalidade" (fl. 118).
+Neste contexto, aduzem, em síntese, que as disposições do plano de recuperação de caráter econômico não podem sofrem ingerência judicial (fls. 126-127):
+No presente caso, é evidente que todas as disposições homologadas pelo Juízo a quo e reformadas pelo E. TJSP possuem nítido caráter negociai, já tendo sido regularmente aprovadas em assembleia geral de credores. Portanto, não deveriam ter sido modificados em sede recursal, em nítida violação aos referidos dispositivos legais.
+Com efeito, cabe aclarar que o recurso de Agravo de Instrumento em comento foi interposto unicamente com o objetivo de zelar e preservar pelos interesses egoísticos de instituição financeira, totalmente despreocupada com o interesse público e com a autonomia da assembleia geral de credores que culminou na irrestrita aprovação do PRJ.
+Nessa linha, à luz do regramento dos artigos 45 e 47 da Lei 11.101/05, assim como da pacífica jurisprudência do STJ, inobservados no caso concreto, observa-se que o v. acórdão ora recorrido extrapolou os limites do controle de legalidade e afetou a autonomia e soberania das decisões assembleares.
+ ..
+Por todo o exposto, concluindo-se pela soberania da Assembleia Geral de Credores, que reflete a vontade da maioria, e pela plena regularidade das disposições previamente aprovadas, o E. Tribunal de Justiça do Estado de São Paulo, ao dar parcial provimento ao recurso interposto pelo Recorrido, incorreu em verdadeira vulneração aos artigos 45 e 47 da Lei 11.101/05, mostrando-se o presente recurso instrumento hábil para saná-la.
+Isso porque, repisa-se, as disposições afastadas pelo v. acórdão NÃO AFRONTAM A ORDEM PÚBLICA, muito menos a qualquer dispositivo legal vigente na Lei 11.101/05, tratando-se de disposições nitidamente negociais, já aprovadas em Assembleia pela maioria dos credores.
+Apresentadas contrarrazões (fls. 162-172), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 173-175).
+Manifestação do Parquet pelo não conhecimento do recurso (fls. 197-206).
+É, no essencial, o relatório.
+No julgamento do agravo de instrumento manejado pela recorrida contra a decisão que homologou o plano de recuperação, o Tribunal de origem deu provimento em parte ao instrumental para estabelecer que (fl. 109):
+a) o prazo de carência de 18 meses, seja contado, a partir da homologação do plano de recuperação judicial, em primeiro grau (e não do trânsito em julgado da decisão que homologou o plano);
+b) seja procedida à substituição da TR pelos índices da Tabela Prática do Tribunal de Justiça.
+Nos pontos, consignou a Corte como fundamento:
+VI.3) Já o prazo de carência de 18 meses estipulado, não traz burla ao prazo de supervisão judicial de 2 anos previsto no já referido art. 61, da Lei nº 11.101/05.
+Quanto ao termo a quo do prazo de carência, que foi fixado como o do trânsito em julgado da decisão que homologar o plano, verifica-se que a cláusula, nessa parte, condiciona o início dos prazos de carência a evento futuro e incerto, propiciando à recuperanda a possibilidade de utilizar todos os recursos possíveis, de modo a evitar o trânsito em julgado da decisão homologatória, e, por consequência, o início do prazo de carência.
+Nem se diga que, sendo os recursos exclusivos dos credores, seria possível a manutenção do termo inicial previsto no plano de recuperação, pois não se pode retirar deles o direito de fazer suas postulações recursais, impondo-lhes um ônus desproporcional ao exercício regular de direito, que torna incerto o termo final da carência.
+De qualquer modo, a situação se reverteria em proveito exclusivo das recuperandas, o que não pode ser admitido.
+Trata-se de verdadeira cláusula potestativa pura, vedada pelo art. 122, do CC: são lícitas, em geral, todas as condições não contrárias à lei, à ordem pública ou aos bons costumes; entre as condições defesas se incluem as que privarem de todo efeito o negócio jurídico, ou sujeitarem ao puro arbítrio de uma das partes (g. n.).
+Além disso, não se pode deixar de anotar, na pior das hipóteses, o conluio entre as recuperandas e eventuais interessados.
+ ..
+VI.4) Embora não seja possível acolher a insurgência do recorrente quanto ao termo inicial para contagem da correção monetária, que pode ser o acordado em Assembleia, a escolha do índice comporta modificação.
+Observo que esta C. Câmara tem constatado que há 2 anos a TR encontra-se zerada, o que implica a ausência de recomposição do valor do crédito, e que não deve ser admitido.
+Na eventualidade de ser necessário aplicar-se a TR e ela continuar zerada como vem ocorrendo há cerca de dois anos, essa TR deve ser substituída pela Tabela Prática do Tribunal de Justiça, como já vem decidindo esta 1ª Câmara Reservada Empresarial:
+ .. .
+No que concerne ao termo inicial da carência, da análise das razões do recurso especial, observa-se que a parte recorrente limita-se a suscitar o caráter negocial das cláusulas do plano de soerguimento e deixa de impugnar o fundamento do acordão recorrido no sentido de que a postergação do início de carência para depois do trânsito em julgado da homologação configura cláusula potestativa, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, cito:
+4. A decisão recorrida abordou os elementos fáticos necessários à solução correta da causa, destacando que a questão da novação e da suspensão da execução está coberta pelos efeitos da preclusão, aspecto esse não impugnado especificamente pelos executados, atraindo a incidência da Súmula n. 283 do STF.
+(AREsp n. 2.602.351/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 26/6/2025.)
+3. A decretação da falência, a despeito de instaurar o juízo universal falimentar, não acarreta a suspensão nem a atração das ações que demandam quantia ilíquida (art. 6º, § 1º, da Lei nº 11.101/2005). Incidência, no ponto, por analogia, da Súmula nº 283/STF, diante de fundamento não atacado.
+(AgInt no AREsp n. 1.975.367/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 23/5/2024.)
+O fundamento se mostra pertinente quando se observa que as razões do apelo nobre insistem em tese genérica de caráter negocial do plano de recuperação, o que impediria a atuação da esfera judiciária para se sobrepor ao que decidido na assembleia, e deixa de observar que o caráter de legalidade do plano pode ser analisado pelo Poder Judiciário, em especial porque normas cogentes da forma de pagamento não podem ser negociadas.
+A título exemplificativo, cito:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CERTIDÕES NEGATIVAS DE DÉBITO FISCAL. APRESENTAÇÃO. NECESSIDADE. PRECLUSÃO. COISA JULGADA. AFASTAMENTO. INTIMAÇÃO. FAZENDAS PÚBLICAS. AUSÊNCIA. JULGAMENTO EXTRA PETITA. DECISÃO SURPRESA. NÃO OCORRÊNCIA.
+1. A questão controvertida resume-se a definir (i) se houve violação à coisa julgada, decisão extra petita e desrespeito ao contraditório e à ampla defesa com a prolação de decisão surpresa e (ii) se pode ser concedida a recuperação judicial sem a apresentação de certidão negativa de débitos tributários.
+2. Após a entrada em vigor da Lei nº 14.112/2020 e a implementação de um programa legal de parcelamento factível, é indispensável que as sociedades em recuperação judicial apresentem as certidões negativas de débito tributário (ou positivas com efeitos de negativas ) sob pena de ser indeferida a recuperação judicial, diante da violação do artigo 57 da LREF. Precedente.
+3. A não apresentação das certidões não enseja o decreto de falência, pois não há previsão legal específica nesse sentido, implicando somente a suspensão da recuperação judicial.
+4. Na hipótese, as Fazendas Públicas não foram intimadas da decisão que concedeu a recuperação judicial, de forma que não haveria como dela recorrerem.
+5. Nos termos da jurisprudência desta Corte a nulidade decorrente de decisão que viola norma cogente pode ser declarada de ofício, sem que isso implique julgamento extra petita.
+6. A exigência de regularidade fiscal está inserta no âmbito de desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão surpresa.
+7. Recurso especial não provido.
+(REsp n. 2.093.519/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 6/12/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. VÍCIOS NO JULGAMENTO. PRESTAÇÃO JURISDICIONAL COMPLETA. PLANO DE RECUPERAÇÃO JUDICIAL. CONTROLE DE LEGALIDADE PELO JUDICIÁRIO. POSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. CREDORES TRABALHISTAS. PAGAMENTO. TERMO INICIAL. CONCESSÃO DA RECUPERAÇÃO. SÚMULAS 5, 7 E 83/STJ. PROVIMENTO PARCIAL.
+ ..
+4. O prazo para pagamento dos credores trabalhistas principia com a concessão da recuperação judicial. Precedentes.
+5. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidência do enunciado 83 da Súmula do STJ.
+6. Agravo interno a que se dá parcial provimento, conhecendo em parte do especial e, nessa extensão, provê-lo parcialmente.
+(AgInt no REsp n. 1.854.685/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 18/3/2022.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. INSURGÊNCIA CONTRA DECISÃO QUE HOMOLOGOU O PLANO DE RECUPERAÇÃO COM DESÁGIO DE 50% DOS CRÉDITOS QUIROGRAFÁRIOS, CARÊNCIA DE 18 MESES PARA INÍCIO DO PAGAMENTO, PRAZO DE 10 ANOS PARA PAGAMENTO E JUROS DE MORA E CORREÇÃO MONETÁRIA INFERIORES AOS ÍNDICES DE INFLAÇÃO. AUSÊNCIA DE ILEGALIDADES. CONDIÇÕES NECESSÁRIAS AO SOERGUIMENTO DA EMPRESA. PRECEDENTES. CARÊNCIA DE 12 MESES PARA PAGAMENTO DO PASSIVO TRABALHISTA. NULIDADE CONSTATADA, DE OFÍCIO. VIOLAÇÃO DA NORMA COGENTE PREVISTA NO ART. 54 DA LRF. PRAZO ANUAL DE PAGAMENTO QUE SE CONTA A PARTIR DA HOMOLOGAÇÃO DO PLANO OU O TÉRMINO DO PRAZO DE STAY, O QUE OCORRER PRIMEIRO. CASO EM QUE A RECUPERAÇÃO SE PROCESSA DESDE AGOSTO DE 2014. IMPOSSIBILIDADE DE CONTAGEM DO PRAZO ANUAL A PARTIR DA SENTENÇA QUE CONCEDE A RECUPERAÇÃO JUDICIAL. DETERMINAÇÃO DE PAGAMENTO EM ATÉ 30 DIAS. PRECEDENTES. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de demonstração da violação aos dispositivos legais pelo acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284 do STF.
+2. O entendimento da Corte local apresenta-se em harmonia com a jurisprudência desta Corte Superior de Justiça, o que atrai a inadmissibilidade do recurso especial pela incidência da Súmula 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.654.168/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/4/2021.)
+Por seu turno, "Nos termos da jurisprudência firmada nesta Corte, não cabe a revisão judicial do índice de correção monetária, no caso a TR, aprovado pelos credores, pois essa matéria não insere no âmbito do controle de legalidade, mas da soberania da assembleia geral. Precedentes" (REsp n. 1.947.487/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 29/8/2025).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONTROLE JUDICIAL DA VIABILIDADE ECONÔMICA DO PLANO RECUPERACIONAL. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, é permitido o controle judicial da legalidade do plano de recuperação judicial, mas não a revisão de condições ligadas à viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia-geral de credores. Precedentes.
+2. O índice de correção monetária está entre as condições relativas à viabilidade econômica do plano recuperacional, motivo pelo qual é inviável a determinação judicial de substituição da TR, aprovada pelos credores, em respeito à soberania da assembleia-geral de credores.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.060.698/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/9/2023.)
+Ante o exposto, conheço em parte o recurso especial e dou-lhe provimento para reconhecer a legalidade de incidência da Taxa Referencial (TR).
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, seja porque o recurso especial foi interposto nos autos de agravo de instrumento, seja porque o apelo nobre obteve provimento, o que faz incidir os preceitos do Tema n. 1.059/STJ.
+Publique-se. Intimem-se.
+ EMENTA
