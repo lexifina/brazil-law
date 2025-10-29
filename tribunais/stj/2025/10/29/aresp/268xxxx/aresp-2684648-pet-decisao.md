@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de petição incidental, na qual JÚLIO MARTINS DA SILVA requer a extensão dos efeitos dos agravos interpostos por outros acusados, visando à suspensão de mandado de prisão, à fixação de que eventual execução da pena ocorra apenas após o trânsito em julgado, e à concessão de qualquer efeito favorável que decorra do julgamento dos recursos dos corréus, com fundamento no art. 580 do Código de Processo Penal (fls. 3698).
+O peticionário informa que foi denunciado, juntamente com outros réus, pela prática do delito previsto no art. 35 da Lei 11.343/2006, com incidência das majorantes previstas no art. 40, incisos IV e VI, do mesmo diploma (fls. 3698). Após a sentença condenatória, teria interposto apelação e, em seguida, recurso especial, o qual não foi admitido. Assinala que outros corréus apresentaram agravo para destrancar o recurso especial, sustentando que, por força do efeito extensivo previsto no art. 580 do CPP, a decisão proferida no recurso deve beneficiá-lo, por não se fundar em motivos de caráter exclusivamente pessoal.
+Alega que, não obstante tal comando legal, foi expedido mandado de prisão em seu desfavor antes da apreciação ou do trânsito em julgado dos recursos pendentes, o que, em seu sentir, afrontaria o art. 580 do CPP e o entendimento recente do Supremo Tribunal Federal quanto à impossibilidade de prisão antes do trânsito em julgado, na hipótese delineada.
+Com base nesses fundamentos, requer seja inserido como agravante nos presentes autos, para aplicação do efeito recursal extensivo (art. 580 do CPP), suspendendo-se o mandado de prisão expedido, com a determinação de que qualquer prisão somente ocorra após o trânsito em julgado, além de estender a si quaisquer efeitos favoráveis de julgamento que venham a ser proferidos nos agravos dos corréus.
+É o relatório. Decido.
+O peticionário requer, em suma, a aplicação de efeito extensivo aos agravos interpostos por corréus para suspender a execução de sua pena e garantir que eventuais efeitos favoráveis do julgamento de tais recursos também lhe sejam concedidos.
+Pois bem.
+De acordo com o art. 580 do Código de Processo Penal:
+"Art. 580. No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros."
+Verifica-se que o dispositivo em questão não trata da suspensão da execução da pena, mas sim do efeito extensivo dos recursos em casos de concurso de agentes. Desse modo, é a eventual decisão favorável do recurso interposto por corréu que aproveita a outros coautores, e não a mera interposição do recurso.
+Vale dizer, se um réu recorre e obtém uma decisão favorável baseada em um motivo que não seja de caráter exclusivamente pessoal, esse benefício se estende aos outros corréus que estão na mesma situação fático-jurídica, mesmo que não tenham recorrido. De todo modo, contudo, primeiramente deve haver resultado benéfico no recurso do corréu.
+Na hipótese dos autos, nenhum dos agravantes obteve provimento jurisdicional favorável nesta instância recursal superior, de modo que o presente pleito resta prejudicado.
+Por essas razões, julgo prejudicado o pedido de concessão de efeito recursal extensivo ao peticionário e rejeito o pedido de suspensão de sua pena.
+Intimem-se.
+EMENTA
