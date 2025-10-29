@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por EVANICE MARIA AMATI PAUKOSKI, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 249):
+Apelação. Obrigação de fazer c/c danos morais. Plano de saúde. Negativa de cobertura de procedimento cirúrgico com materiais especificados. Tratamento de dor crônica. Procedência parcial. Expressa indicação médica. Eficácia científica e adequação clínica. Rol não taxativo de procedimentos (ANS). Súmula 102 (TJSP). Aplicabilidade do CDC. Abusividade na limitação ao tratamento prescrito. Direito à vida e à saúde (art. 5º, CF). Danos morais. Demonstrados danos à personalidade e agravamento do quadro de saúde. Fixação em R$ 5.000,00. Parcial provimento ao recurso da autora, improvimento do recurso da requerida.
+Opostos embargos de declaração (fls. 490-496), foram rejeitados nos termos do acórdão de fls. 505-507.
+Nas razões de recurso especial (fls. 350-388), a parte recorrente aponta violação aos arts. 1.022, I, 537, § 4º, e 85, §2º, do CPC, além de divergência jurisprudencial.
+Sustenta, em síntese: a) omissão quanto à fixação dos honorários sucumbenciais sobre o valor da condenação/proveito econômico, não cabendo a equidade; b) necessidade de aplicação imediata das astreintes pelo descumprimento da tutela provisória; c) os honorários advocatícios devem ser fixados sobre o valor da condenação.
+Contrarrazões apresentadas às fls. 536-548.
+Em juízo de admissibilidade (fls. 553-554), admitiu-se o recurso, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação merece prosperar em parte.
+1. Quanto à ofensa ao art. 1.022, I, do CPC, ao argumento de que o decisum atacado não restou suficientemente fundamentado, pois deixou de analisar questões relevantes suscitadas em sede de aclaratórios, razão assiste à parte insurgente.
+A recorrente arguiu, em sede de Embargos de Declaração, omissão do acórdão recorrido quanto a necessidade de fixação dos honorários advocatícios com base no valor da condenação, conforme entendimento do STJ. Confira-se (fl. 496)
+b) Requer esta C. Câmara, esclareça acerca da base de cálculo do valor imposto a título de honorários de sucumbência sobre a condenação imposta à operadora de saúde embargada, afastando a fixação por equidade, condenando a embargada em honorários sobre o proveito econômico da obrigação cominatória, qual seja, o procedimento hospitalar que será realizado junto à paciente embargante a ser apurado em incidente de cumprimento de sentença.
+Contudo, os declaratórios foram rejeitados (fls. 505-507), não havendo manifestação do Tribunal a quo acerca da tese de que os honorários advocatícios devem ser fixados com base no valor da condenação.
+Esta Corte Superior tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao artigo 1022 do CPC, quando houver deficiência na prestação jurisdicional realizada na origem.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COBRANÇA, REVISIONAL DE PREÇO E INDENIZAÇÃO POR PERDAS E DANOS. LEGITIMIDADE PASSIVA DA RECORRENTE CONFIGURADA. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE EXISTÊNCIA DE OUTRAS MINUTAS DE CONTRATO, NEGOCIADAS ENTRE AS PARTES, E DE CONTRAPROPOSTA QUE SE AFIRMA TER SIDO OFERECIDA PELA PARTE RECORRIDA, À QUAL SE ATRIBUI O CARÁTER DE VINCULAÇÃO DA PROPONENTE, NOS TERMOS DO ART. 431 DO CÓDIGO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CARACTERIZADA A VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO COM A DETERMINAÇÃO DE QUE OUTRO SEJA PROFERIDO SANANDO-SE AS OMISSÕES E CONTRADIÇÕES SUSCITADAS.
+1. Legitimidade da Huyndai Elevadores do Brasil reconhecida para responder por obrigação contraída pela sua controladora, a Hyundai Coreia. Vencida, no ponto, a relatora para o acórdão.
+2. Viola os arts. 489 e 1.022 do CPC/2015, por deficiência na prestação jurisdicional, o acórdão que deixa de emitir pronunciamento acerca de matéria devolvida ao Tribunal, apesar da oposição de embargos de declaração.
+ ..
+4. Recurso especial parcialmente provido. (REsp n. 1.983.754/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/3/2025, DJEN de 5/5/2025.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.  ..  2. "Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada"(REsp n. 1.187.583/RS, Relator o Ministro Castro Meira, julgado em 6/5/2010, DJe 17/5/2010). 3. Embargos de declaração parcialmente acolhidos, com efeitos infringentes. (EDcl no AgRg nos EDcl no REsp 1556587/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/03/2017, DJe 20/03/2017)
+Desta forma, considerando que a referida tese foi posta à apreciação do Tribunal de origem, sem que houvesse, contudo, o devido pronunciamento judicial a respeito, devem ser devolvidos os autos ao Tribunal de origem a fim de que profira novo julgamento, sanando a omissão apontada, em especial quanto a necessidade de fixação de honorários advocatícios com base no valor da condenação.
+2. Do  exposto,  com  fulcro  no  artigo  932  do  CPC  c/c  a Súmula  568  do  STJ, dou parcial provimento ao recurso especial para anular o julgamento dos embargos de declaração (fls. 505-507) e determinar o retorno dos autos ao Tribunal de origem para que seja proferido um novo julgamento e supridas as omissões apontadas.
+Restam prejudicadas as demais questões de mérito aventadas no reclamo.
+Publique-se.
+Intimem-se.
+EMENTA
