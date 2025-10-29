@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. APURAÇÃO DE HAVERES. TUTELA DE URGÊNCIA. AVERBAÇÃO DA DEMANDA NAS MATRÍCULAS DOS EMPREENDIMENTOS DA SOCIEDADE. INDEFERIMENTO DO PEDIDO DE DEPÓSITO JUDICIAL DE PARTE DOS VALORES LEVANTADOS COM AS VENDAS DAS UNIDADES. RECURSO PROVIDO EM PARTE.
+Agravo de instrumento. Apuração de haveres. Tutela provisória de urgência deferida em parte. Averbação da demanda nas matrículas dos empreendimentos imobiliários da sociedade empresarial. Manutenção do deferimento provisório. Depósito de parte dos valores das vendas das unidades. Ausência de probabilidade e risco de irreversibilidade da medida. Decisão reformada em parte. Recurso parcialmente provido.
+Alegou-se, no especial, violação dos arts. 489 e 300 do Código de Processo Civil e 31-A, §1º, da Lei nº 4.591/64 sob os argumentos de que o acórdão carece de fundamentação idônea e que foi indevido o deferimento da cautelar de protesto por prejudicar direitos de terceiros na hipótese dos autos.
+Ultrapassado o juízo de admissibilidade, passo ao exame do recurso especial.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O Tribunal local, quanto ao mais, se deparou com agravo de instrumento interposto em face de decisão que deferiu em parte a pretensão liminar para determinar a averbação da demanda ajuizada pela recorrida nas matrículas dos empreendimentos tocados pela construtora agravante e depósito parcial dos valores auferidos pela empresa com a alienação das unidades em ação de apuração de haveres.
+O Tribunal local deu parcial provimento ao agravo de instrumento para afastar o dever de depositar em conta judicial parte dos valores auferidos com a alienação dos imóveis construídos ou em construção, mas manteve a averbação da demanda nas matrículas dos empreendimentos.
+Esta Corte tem entendimento, na esteira do Supremo Tribunal Federal, de que decisões de natureza precária não se submetem ao crivo do recurso especial, como ensina o verbete n. 735 da Súmula da Suprema Corte.
+Alterar o entendimento, outrossim, de que "nenhum óbice havia ao deferimento do pedido de averbação da demanda nas matrículas dos empreendimentos que, ademais, não se trata de medida irreversível" (e-STJ, fl. 266) e "sem que dela se possa vislumbrar prejuízo, é mantida a deliberação, atendida na origem" demanda incursão nos elementos informativos do processo, o que vai de encontro às disposições do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
