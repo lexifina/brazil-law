@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por MBM PREVIDÊNCIA COMPLEMENTAR contra decisão singular da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em virtude do óbice da Súmula 182 do STJ (fls. 464/465).
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Cuida-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 331/332):
+DIREITO DO CONSUMIDOR. AÇÃO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANO MORAL. DÉBITO NÃO AUTORIZADO EM CONTA BANCÁRIA. DEVOLUÇÃO EM DOBRO. DANO MORAL CONFIGURADO. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. JUROS DE MORA E CORREÇÃO MONETÁRIA. CÁLCULOS A PARTIR DA ENTRADA EM VIGOR DA LEI 14.905/2024. DIREITO INTERTEMPORAL. RECURSO DA AUTORA PARCIALMENTE PROVIDO E DESPROVIDO O RECURSO DA RÉ. I. CASO EM EXAME
+1. Trata-se de ação proposta por consumidora alegando a realização de débitos indevidos em sua conta bancária, sem qualquer autorização ou vínculo contratual com a ré. A autora pleiteia a devolução em dobro dos valores, conforme o art. 42, parágrafo único, do Código de Defesa do Consumidor (CDC), além de indenização por dano moral.
+II. QUESTÃO EM DISCUSSÃO
+2. A controvérsia centra-se na responsabilidade da ré por falha na prestação do serviço, com a realização de cobrança indevida, bem como na aplicação da repetição em dobro e na configuração do dano moral. Ademais, discute- se o valor da indenização e a majoração dos honorários advocatícios sucumbenciais.
+III. RAZÕES DE DECIDIR
+3. Configurada a falha na prestação do serviço, sendo responsabilidade do fornecedor evitar cobranças indevidas. A não comprovação de contratação válida justifica a devolução em dobro dos valores descontados.
+4. O dano moral se caracteriza pelo constrangimento e pela perda de valores essenciais, configurando situação que ultrapassa o mero aborrecimento. A indenização foi mantida em R$ 5.000, considerando a proporcionalidade e a jurisprudência aplicada a casos análogos. Aplicáveis as regras do Direito Intertemporal nos cálculos dos juros de mora e correção monetária a partir da vigência da Lei nº 14.905/2024, mantidos os critérios anteriores, conforme precedentes dos tribunais superiores do Brasil.
+5. Os honorários advocatícios foram arbitrados em conformidade com o art. 85 do CPC, com percentual adequado sobre o valor da condenação, negando-se a majoração pretendida pela autora.
+IV. DISPOSITIVO E TESE
+6. Recurso da autora parcialmente provido e desprovido o apelo da ré, com determinação de aplicação da Lei nº 14.905/2024, que disciplina os critérios de cálculos dos juros e correção monetária, a partir do início de sua vigência.
+Tese de julgamento: "1. A devolução em dobro nos termos do art. 42, parágrafo único, do CDC prescinde da comprovação de má-fé. 2. O dano moral é configurado quando a conduta da ré ultrapassa o mero aborrecimento e causa constrangimento significativo ao consumidor. 3.
+Aplicável a Lei nº 14.905/2024, que disciplina novos critérios de cálculos de juros e correção monetária, a partir do início de sua vigência, segundo o Direito intertemporal." _______
+Dispositivos relevantes citados: CDC, arts. 6º, VI; 14; 42, parágrafo único; CPC, art. 85.
+Jurisprudência relevante citada: EREsp 1413542/RS; TJSP, Apelação Cível nº 1006757-03.2019.8.26.0624.
+Opostos os embargos de declaração, foram rejeitados, com aplicação de multa no percentual de 2% (dois por cento) sobre o valor atualizado da causa.
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos arts. 489, § 1º, I, IV, V, VI, 492, 1.022, I, II do Código de Processo Civil, 186, e 927 do Código Civil.
+Sustenta que houve negativa de prestação jurisdicional, uma vez que não foi analisada a questão quanto à ausência de comprovação do dano moral.
+Afirma que o presente caso não consiste em dano moral in re ipsa, pois é necessária a comprovação dos prejuízos causados.
+Alega que "não há elementos indicativos de que a cobrança tenha prejudicado a situação financeira da parte recorrida, visto que os valores cobrados por mês são ínfimos, bem como não há comprovação de qualquer situação de abalo psicológico decorrente dos fatos narrados, tampouco outros desdobramentos mais sérios como cobranças vexatórias ou negativação" (fl. 371).
+Contrarrazões apresentadas, pugnando pela incidência dos óbices das Súmulas 7/STJ e 83/STJ e Súmula 284/STF.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, a parte autora propôs ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais proposta por Gislene dos Santos Lima contra Banco MBM Previdência Complementar, alegando descontos indevidos em sua conta bancária, utilizada para recebimento de benefício previdenciário.
+O juízo de origem julgou parcialmente procedentes os pedidos, declarando a inexigibilidade dos débitos, condenando a ré à restituição simples dos valores indevidos e fixando danos morais em R$ 5.000 (cinco mil reais).
+A Corte local, ao analisar a questão relativa dos danos morais, manteve o pagamento da indenização, considerando que os descontos efetuados no benefício previdenciário da autora configura situação que ultrapassa o mero aborrecimento. Confira-se (fls. 339/340):
+(..)
+Evidente o dano moral gerado pelos fatos em discussão. Com efeito, em que pese divergências contratuais, em regra, causarem mero aborrecimento não passível de indenização, no presente caso, contudo, as consequências da falha na prestação dos serviços extrapolam o dissabor decorrente de controvérsia passível de surgir em qualquer relação negocial.
+Verifica-se que a autora teve parte de valores existentes em conta bancária diminuídos por ação irregular da ré.
+Portanto, houve intolerável invasão de conta bancária e apropriação de quantia pertencente à parte autora, conduta manifestamente ilegal e abusiva, razão pela qual deve ser duramente reprimida.
+Considero, nessa linha, que, além da falha constatada, o penoso e frustrante procedimento imposto ao consumidor para a tentativa de regularização da questão mostrou-se suficiente para ultrapassar os limites do aceitável, do mero aborrecimento, de modo que a lesão subjetiva surge como consequência inexorável, configurando-se o dano moral e o dever legal de indenizá-lo, nos termos do art. 6º, inciso VI, do CDC.
+(..)
+Quanto à alegada negativa de prestação jurisdicional, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa à demonstração de eventual prejuízo na esfera moral foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão do agravante/recorrente.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Ademais, com relação à apontada ofensa aos arts. 186, e 927 do Código Civil, ao contrário do que alega a recorrente, o acórdão recorrido não tratou acerca de dano moral in re ipsa, visto que na hipótese dos autos concluiu que houve comprovação de prejuízo à esfera moral da autora, considerando que as consequências da falha na prestação dos serviços ultrapassou situação de mero aborrecimento.
+Assim, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à existência de dano moral indenizável, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Em face do exposto, reconsidero a decisão de fls. 464/465 para negar provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários de recurso, pois a condenação a respeito já alcança o teto legal (fl. 344), vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do art. 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
