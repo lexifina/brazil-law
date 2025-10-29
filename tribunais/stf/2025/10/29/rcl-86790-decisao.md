@@ -1,0 +1,99 @@
+DECISÃO
+
+RECLAMAÇÃO. TRABALHISTA. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. ART. 82-A DA LEI N. 11.101/2005. ALEGAÇÃO A) DA USURPAÇÃO DA COMPETÊNCIA DESTE SUPREMO TRIBUNAL: INOCORRÊNCIA; B) DE DESCUMPRIMENTO DE DECISÃO PROFERIDA EM PROCESSO SUBJETIVO E SEM EFEITO VINCULANTE; C) DE DESRESPEITO À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL: DECISÃO DE JUÍZO SINGULAR. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL: IMPOSSIBILIDADE. PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Denise Buchabqui Rodrigues e outros, em 27.10.2025, contra decisão do juízo da Vigésima Sexta Vara do Trabalho de Porto Alegre/RS na Reclamação Trabalhista n. 0035200-52.2003.5.04.0026 pela qual teriam sido descumpridas a Súmula Vinculante n. 10 e a decisão na Reclamação n. 83.535/SP:
+
+    “INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. A ação foi inicialmente ajuizada em face da reclamada ESBEL EMPRESA SUL BRASILEIRA DE ENGENHARIA LTDA. Restaram infrutíferas as tentativas de satisfação do débito exequendo. Foram incluídos no polo passivo da execução os sócios da executada, quais sejam: JOSÉ OVÍDIO RODRIGUES; WAGNER RIBEIRO HEINZ (ESPOLIO); MARIA LETA LEIRIA HEINZ; MARINA BEATRIZ HEINZ FEIER; DENISE BUCHABQUI RODRIGUES SCALZILLI; FLAVIO BUCHABQUI RODRIGUES; FLAVIO FRANCO FEIER; OMAR DORNELES; OTÁVIO AUGUSTO LEIRIA HEINZ; VANIA LEIRIA HEINZ TOURRUCOO; JOSÉ EMILIO ROSSARI GRESELE (fls. 337-338). Os sócios foram devidamente intimados para se manifestar quanto ao Incidente ora em análise, tendo JOSÉ OVÍDIO, DENISE, FLAVIO e OMAR contestado e requerido a improcedência do pedido. Passo a examinar a questão de fundo. De início, saliento que não há notícia da existência de bens da sociedade acima apontada aptos a satisfazer a execução que se processa nos autos. Registro ser plenamente viável o prosseguimento da execução em desfavor dos sócios. Vale salientar que o descumprimento da legislação trabalhista configura o ‘desvio de finalidade’ de que trata o artigo 50 do Código Civil, fato que autoriza a desconsideração da personalidade jurídica com o consequente direcionamento da execução em desfavor dos sócios. Para corroborar tal tese, transcrevo ementas de acórdãos prolatados pelo TRT da 4ª Região: (...).
+
+    Saliente-se, ainda, que a teoria da desconsideração da personalidade jurídica, aplicada na Justiça do Trabalho, permite que os bens dos sócios atuais ou anteriores respondam pelo débito em execução, nos exatos termos do artigo 790, II e artigo 795 CPC c/c artigo 28, § 5º, CDC. Assim, tanto jurisprudência quanto doutrina têm entendido pela possibilidade de os sócios serem responsabilizados pelos créditos trabalhistas da sociedade. Saliente-se que o contido no Art. 10-A CLT restou cumprido, já que o ajuizamento da presente ação ocorreu um ano após a retirada dos sócios DENISE, FLAVIO e OMAR do quadro social da executada. E, como não foram encontrados bens dos demais executados, é cabível o redirecionamento da execução em desfavor inclusive dos sócios retirantes, devendo eles responder por todo o débito exequendo, já que é presumível que se beneficiaram dos serviços prestados pelo autor da ação. Dessa forma, julgo procedente o incidente de desconsideração da personalidade jurídica e determino o prosseguimento da execução em desfavor dos sócios JOSÉ OVÍDIO RODRIGUES; WAGNER RIBEIRO HEINZ (ESPOLIO); MARIA LETA LEIRIA HEINZ; MARINA BEATRIZ HEINZ FEIER; DENISE BUCHABQUI RODRIGUES SCALZILLI; FLAVIO BUCHABQUI RODRIGUES; FLAVIO FRANCO FEIER; OMAR DORNELES; OTÁVIO AUGUSTO LEIRIA HEINZ; VANIA LEIRIA HEINZ TOURRUCOO; JOSÉ EMILIO ROSSARI GRESELE” (fls. 2-3, e-doc. 11).
+
+    2. Os reclamantes alegam que “o Juízo da 26ª Vara do Trabalho de Porto Alegre, de forma absolutamente dissociada do regime jurídico falimentar, acolheu pedido de redirecionamento da execução, instaurando e julgando procedente o Incidente de Desconsideração da Personalidade Jurídica (IDPJ)” (fl. 2, e-doc. 1).
+
+    Explicam que a decisão reclamada “determinou o prosseguimento da execução diretamente contra os sócios e ex-sócios da falida, aplicando a teoria menor da desconsideração da personalidade jurídica (art. 28, §5º, do CDC) e presumindo a existência de “desvio de finalidade” pelo simples inadimplemento do crédito” (fl. 2, e-doc. 1).
+
+    Ressaltam que “a decisão reclamada viola frontalmente precedente vinculante firmado por este Tribunal na Reclamação Constitucional nº 83.535/SP (Rel. Min. Gilmar Mendes, julgado em 02.09.2025)” (fl. 3, e-doc. 1).
+
+    Sustentam, ainda, que “a sentença trabalhista afastou a aplicação do art. 82-A da LREF sem declarar formalmente sua inconstitucionalidade, aplicando, em seu lugar, regra diversa (CDC, art. 28, §5º), o que configura controle difuso de constitucionalidade implícito, em flagrante violação à Súmula Vinculante nº 10” (fl. 5, e-doc. 1).
+
+    Requerem “a expedição de ofício ao Juízo da 26ª Vara do Trabalho de Porto Alegre/RS para suspensão imediata dos atos executórios” (fl. 6, e-doc. 1).
+
+    Pedem seja julgada procedente a reclamação para “a. Cassar integralmente a decisão reclamada que julgou procedente o IDPJ; b. Reafirmar a autoridade desta Suprema Corte quanto à competência exclusiva do Juízo Falimentar (art. 82-A da LREF e Rcl 83.535/SP); c. Determinar a remessa dos autos ao juízo universal da falência; d. Assegurar a observância obrigatória dos precedentes vinculantes e da Súmula Vinculante nº 10” (fl. 6, e-doc. 1).
+
+    Examinada a matéria posta à apreciação, DECIDO.
+
+    3. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e vê a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter as suas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade das decisões proferidas mitigada em face de atos questionados.
+
+    Busca-se pela reclamação fazer que a prestação jurisdicional se mantenha dotada de vigor jurídico próprio ou que o órgão judicial de instância superior tenha a competência resguardada.
+
+    4. Põe-se em foco na presente ação se, ao julgar procedente o incidente de desconsideração da personalidade jurídica e determinar o prosseguimento da execução em desfavor dos sócios, ora reclamantes, o juízo da Vigésima Sexta Vara do Trabalho de Porto Alegre/RS teria descumprido a Súmula Vinculante n. 10 e a decisão proferida na Reclamação n. 83.535/SP.
+
+    5. Quanto ao alegado descumprimento do decidido na Reclamação n. 83.535/SP, Relator o Ministro Gilmar Mendes, não assiste razão aos reclamantes.
+
+    Os reclamantes não foram parte no processo apontado, o qual é subjetivo, pelo que os efeitos da decisão nele proferida limitam-se às partes da relação processual.
+
+    Em 25.2.2010, no julgamento do Agravo Regimental na Reclamação n. 8.221/GO, Relatora a Ministra Cármen Lúcia, este Supremo Tribunal concluiu pelo descabimento de reclamação com o objetivo de assegurar o cumprimento de decisões desprovidas de eficácia vinculante e efeitos erga omnes:
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE COM TRÂNSITO EM JULGADO. EX-PREFEITO. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO NA RECLAMAÇÃO 2.138 E NO AGRAVO REGIMENTAL NA RECLAMAÇÃO 6.034. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. As decisões proferidas pelo Tribunal Pleno do Supremo Tribunal Federal nas Reclamações 2.138/DF e 6.034/SP têm efeitos apenas inter partes, não beneficiando, assim, o ora Agravante. 2. Inviável o agravo regimental no qual não são impugnados todos os fundamentos da decisão agravada. 3. Não cabe Reclamação contra decisão com trânsito em julgado. Súmula STF n. 734. 4. Agravo regimental ao qual se nega provimento” (Plenário, DJe 26.3.2010).
+
+    Na mesma linha são os seguintes julgados:
+
+    “CONSTITUCIONAL. RECLAMAÇÃO. PROPOSITURA PARA GARANTIA DE DECISÃO TOMADA EM PROCESSO DE ÍNDOLE SUBJETIVA. INADMISSIBILIDADE. AUSÊNCIA DE EFEITOS ERGA OMNES. RECLAMAÇÃO A QUE SE NEGOU SEGUIMENTO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (Rcl n. 10.615-AgR, Relator o Ministro Teori Zavascki, Plenário, DJe 14.6.2013).
+
+    “Agravo regimental em reclamação. Paradigma extraído de ações de caráter subjetivo. Ausência de requisitos. Perfil constitucional da reclamação. (...) Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurar como sujeito processual nos casos concretos versados no paradigma, pois não há obrigatoriedade de seu acatamento vertical por tribunais e juízos” (Rcl n. 15.220-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 30.9.2013).
+
+    “CONSTITUCIONAL. PRECATÓRIO. SEQUESTRO DE VERBAS PÚBLICAS. QUEBRA DA ORDEM CRONOLÓGICA. PRETERIÇÃO DO DIREITO DE PREFERÊNCIA DO CREDOR. VIOLAÇÃO DA AUTORIDADE DA ADI 1.662. DIFERENÇA DE SUJEITOS PASSIVOS. CRÉDITO PARADIGMÁTICO E CRÉDITO TIDO POR PRETERIDO DEVIDOS POR ENTES DIVERSOS. 1. A reclamação constitucional não é o instrumento adequado para salvaguarda genérica ou uniformização da jurisprudência da Corte. Portanto, precedentes desprovidos de eficácia vinculante e 'erga omnes' e de cuja relação processual o reclamante e os interessados não fizeram parte, uma vez que os respectivos fundamentos somente se projetam para a relação jurídica circunscrita àquela prestação jurisdicional e não legitimam o ajuizamento de reclamação” (Rcl n. 3.138/CE, Relator o Ministro Joaquim Barbosa, Plenário, DJe 23.10.2009).
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO - PROCESSUAL CIVIL - USO DE PARADIGMA EXTRAÍDO DE AÇÕES SUBJETIVAS - USO INDEVIDO DA RECLAMAÇÃO - PRECEDENTES - AGRAVO REGIMENTAL NÃO PROVIDO. 1 - A reclamação é meio constitucional de preservação da autoridade da Corte e da eficácia de suas decisões. Sua natureza é subsidiária e não pode ser desvirtuada e confundida com sucedâneo recursal. Ela não visa a compor conflitos intersubjetivos, conquanto possa, indiretamente, atender a interesses individuais, o que se dá apenas como decorrência da realização de seu papel magno, que é a conservação da hierarquia jurisdicional (Egas Dirceu Moniz de Aragão). 2 - O uso, como paradigmas, de acórdãos prolatados em ações intersubjetivas, despossuídas de caráter 'erga omnes' e de eficácia vinculante, não é válido na reclamação, quando delas não fez parte o reclamante. Agravo regimental não provido” (Rcl n. 9.545-AgR/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 14.5.2010).
+
+    6. O instituto da súmula vinculante inaugurou hipótese de cabimento de reclamação para o Supremo Tribunal Federal, conforme disposto no § 3º do art. 103-A da Constituição da República.
+
+    A contrariedade a determinada súmula ou a sua aplicação indevida por ato administrativo ou decisão judicial possibilita a atuação do Supremo Tribunal Federal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+
+    Tem-se na Súmula Vinculante n. 10 do Supremo Tribunal Federal: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+
+    Na espécie vertente, o juízo da Vigésima Sexta Vara do Trabalho de Porto Alegre/RS julgou procedente o incidente de desconsideração da personalidade jurídica e fundamentou-se em dispositivos do Código de Processo Civil e do Código de Defesa do Consumidor.
+
+    Para o cabimento de reclamação fundada no descumprimento da Súmula Vinculante n. 10 do Supremo Tribunal Federal, mister é que “a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afaste sua incidência, no todo ou em parte”, o que não ocorre na espécie, por se tratar de decisão singular de primeira instância proferida por juízo do trabalho. Portanto, a Súmula Vinculante n. 10 do Supremo Tribunal Federal não se aplica ao caso. Assim, por exemplo:
+
+    “Como destaquei na decisão ora agravada, a Súmula Vinculante n. 10/STF só pode incidir nas hipóteses de julgamentos emanados de órgãos judiciários necessariamente colegiados.
+
+    Em outras palavras: decisões ou sentenças proferidas por magistrados de primeira instância não se regem pelo princípio da reserva de plenário, cujo âmbito de incidência restringe-se ao domínio dos pronunciamentos dos colégios judiciários.
+
+    Com efeito, o princípio da reserva de plenário consagrado pelo art. 97 da Constituição (e introduzido, em nosso sistema de direito constitucional positivo, pela Constituição de 1934) deve ser observado, apenas, por órgãos colegiados. Portanto, considerando o postulado do full bench, a inconstitucionalidade de qualquer ato estatal só pode ser declarada pelo voto da maioria absoluta dos membros do Tribunal ou, onde houver, dos integrantes do respectivo órgão especial, sob pena de nulidade da decisão proferida:
+
+    ‘Nenhum órgão fracionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de plenário inscrito no artigo 97 da Constituição da República.
+
+    Suscitada a questão prejudicial de constitucionalidade perante órgão fracionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.’ (RTJ 150/223-224 , Rel. Min. CELSO DE MELLO)
+
+    Esse mesmo entendimento que reconhece inaplicável a cláusula fundada no art. 97 da Constituição da República aos juízes singulares pelo fato de atuarem monocraticamente tem sido observado por eminentes Juízes desta Suprema Corte (Rcl 14.062/DF, Rel. Min. TEORI ZAVASCKI Rcl 17.392/RS, Rel. Min. DIAS TOFFOLI Rcl 19.308/CE, Rel. Min. TEORI ZAVASCKI, v.g.):
+
+    ‘Agravo regimental na reclamação. Atuação de órgão singular de primeira instância do Poder Judiciário. Súmula Vinculante nº 10. Inaplicabilidade . Agravo regimental não provido. 1. Não tem êxito o agravo interno que deixa de atacar especificamente os fundamentos da decisão singular (art. 317, § 1º, RISTF). 2. A Súmula Vinculante nº 10 enuncia entendimento relacionado à atuação de órgãos colegiados do Poder Judiciário, não sendo aplicável, portanto, a decisões proferidas por órgão singular de primeira instância.
+
+    3. Agravo regimental não provido.’ (Rcl 17.150-AgR/MG, Rel. Min. DIAS TOFFOLI)” (Rcl n. 25.297-MC-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 17.11.2017).
+
+    “Agravo regimental em reclamação. Súmula vinculante n. 10. Decisão liminar monocrática. Não configurada violação da cláusula de reserva de plenário. Agravo regimental ao qual se nega provimento.1. Decisão proferida em sede de liminar prescinde da aplicação da cláusula de reserva de plenário (art. 97 da CF/88) e, portanto, não viola a Súmula Vinculante n. 10. Precedentes. 2. Agravo regimental não provido” (Rcl n. 29.550-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 28.5.2018).
+
+    7. O objetivo da reclamação é a preservação da competência e a garantia da autoridade das decisões proferidas pelo Supremo Tribunal Federal. Ela não se qualifica como sucedâneo recursal nem configura instrumento processual viabilizador do reexame do conteúdo do ato reclamado. Nesse sentido, por exemplo:
+
+    “O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes” (Rcl n. 4.381-AgR, Relator o Ministro Celso de Mello, Plenário, DJe 5.8.2011).
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO ADMINISTRATIVO. AUSÊNCIA DE INDICAÇÃO DO PARADIGMA VINCULANTE OU DA USURPAÇÃO DE COMPETÊNCIA DO STF. PRETENSÃO DE REVISÃO DO MÉRITO DO ATO RECLAMADO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A Reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal. 2. In casu, o Tribunal reclamado, no exercício de suas competências, deixou de conhecer agravo interno, ao argumento de que deveria ter sido manejado o agravo em recurso extraordinário. Não há que se falar, diante da circunstância narrada, em usurpação da competência desta Corte. Precedente: Rcl 28070 AgR, Relator Min. Alexandre de Moraes, Primeira Turma, DJe de 14/12/2017.3. A reclamação ‘não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual’ (Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05/08/2011). 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedente: Rcl 22.048-ED, Tribunal Pleno, DJe de 23/08/2016.5. Agravo regimental desprovido” (Rcl n. 31.239-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 8.11.2018).
+
+    “Agravo regimental em reclamação. 2. Direito Civil e Processual Civil. 3. Alegado descumprimento de decisão proferida por esta Corte. 4. Não ocorrência de nenhuma das hipóteses de cabimento previstas no art. 102, I, ‘l’, da Constituição Federal. 5. Reclamação como sucedâneo recursal. 6. Agravo regimental a que se nega provimento” (Rcl n. 28.917-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 9.4.2018).
+
+    Ausentes, na espécie, os requisitos processuais viabilizadores do regular trâmite desta reclamação.
+
+    8. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 e parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 29 de outubro de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
