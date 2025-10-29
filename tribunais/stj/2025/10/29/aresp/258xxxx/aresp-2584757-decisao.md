@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e incidência da Súmula n. 7 do STJ (fls. 181-183).
+O acórdão recorrido encontra-se assim ementado (fl. 133):
+TUTELA RECURSAL - Decisão que indeferiu efeito suspensivo aos embargos à execução - Execução de título extrajudicial no valor de R$ 300.000,00 - Embargante que oferece como garantia do juízo, sua metade (50%) do apartamento nº 172, situado a Rua Engenheiro Jorge Oliva, 237, Vila Mascote, São Paulo-SP, avaliado em mais de R$ 2.000.000,00 (artigo 919, § 1º, do CPC) - Renúncia ao benefício da impenhorabilidade do bem de família - Recorrente reside em imóvel distinto (art. 3º, V, da Lei nº 8.009/90) - Ademais, foi apresentada petição de arguição de falsidade do título executivo, com determinação de seu processamento em apartado - Agravo de instrumento provido a fim admitir o imóvel ofertado como garantia do juízo e atribuir efeito suspensivo aos embargos à execução e prejudicado o recurso de agravo interno.
+Nas razões do recurso especial (fls. 150-163), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 1º da Lei n. 8.009/1990 e 835, I, do CPC, sustentando que o bem oferecido em garantia é impenhorável por se tratar de bem de família, devendo, portanto, ser afastado como caução nos autos dos embargos, com a consequente apresentação de outra garantia ou o prosseguimento da execução.
+No agravo (fls. 186-198), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 206).
+É o relatório.
+Decido.
+Trata-se, na origem, de execução de título extrajudicial fundada em compromisso de doação de imóvel. O executado apresentou embargos, alegando falsidade do título e oferecendo como caução sua metade ideal de outro imóvel avaliado em mais de R$ 2 milhões.
+O Juízo de 1º grau negou efeito suspensivo por ausência dos requisitos legais e de garantia adequada.
+Em agravo, o TJ reconheceu a suficiência da garantia, diante da juntada de certidão sem ônus e do valor atribuído ao imóvel pela própria exequente, além da renúncia expressa do devedor à impenhorabilidade do bem de família (art. 3º, V, Lei n. 8.009/1990). Registrou-se que a parte ora recorrida reside em endereço diverso do imóvel ofertado (fl. 135). Considerou também que a alegada falsidade do título tramita em apartado.
+Com base no art. 919, § 1º, do CPC e em precedente do STJ (REsp 1.141.732/SP), o Tribunal admitiu o bem como garantia e concedeu efeito suspensivo aos embargos.
+A insurgência quanto à decisão de concessão do efeito suspensivo aos embargos, não pode ser sustentada apenas com base nos 1º da Lei n. 8.009/1990 e 835, I, do CPC, o quais não regulam a matéria. Note-se que o Tribunal aplicou ao caso o art. 919, § 1º, do CPC.
+Além disso, a parte recorrente não rebateu todos os fundamentos do acórdão.
+o TJSP reconheceu que (i) "haveria que se prosseguir com a penhora, não indicados outros bens em nome do devedor livre e desembaraçados" (fl. 134), (ii) "o recorrente expressamente e de livre e espontânea vontade renuncia ao benefício da impenhorabilidade do bem de família, autorizando que a execução venha a atingir sua parte no imóvel" (fl. 135), e (iii) "o imóvel é aquele localizado na Rua Engenheiro Jorge Oliva, 237, apto. 172, Vila Mascote, São Paulo - SP e o recorrente reside no Viaduto Nove de Julho, 200, apto. 114, Centro, São Paulo - SP" (fl. 135).
+O Recurso Especial concentrou-se em sustentar a impenhorabilidade do bem de família e a inadequação da caução ofertada diante da ordem legal de preferência da penhora, deixando de impugnar, de modo específico, fundamentos como a suficiência econômica da garantia, a juntada de certidão imobiliária demonstrando inexistência de ônus, o processamento em apartado da arguição de falsidade do título e a residência da parte recorrida em endereço diverso.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido. Incide, portanto, no caso a Súmula n. 283 do STF.
+Além do mais, modificar o entendimento do acórdão impugnado quanto à preenchimento dos requisitos para a concessão de efeito suspensivo aos embargos à execução, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
