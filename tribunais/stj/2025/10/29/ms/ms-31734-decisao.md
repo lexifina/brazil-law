@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por Vinícius Antunes Lima dos Santos contra acórdão que negou provimento ao recurso defensivo, mantendo a apreensão da motocicleta Honda CG 160 Fan, placa SSY-2B27, de propriedade do impetrante.
+O impetrante sustenta possuir direito líquido e certo à restituição de sua motocicleta, apreendida em investigação de tráfico de drogas, alegando ser terceiro de boa-fé e não existir vínculo entre o bem e o delito apurado. Afirma que o acórdão que manteve a apreensão do veículo é teratológico e manifestamente ilegal, pois baseia-se em mera presunção de uso ilícito do bem.
+Requer, liminarmente, a liberação imediata do veículo, independentemente do pagamento de taxas e custas de pátio, ou, subsidiariamente, a nomeação como fiel depositário até o julgamento final do mandamus.
+É o relatório. Decido.
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data impetrados contra atos de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Desse modo, não se insere na competência do STJ o processamento e julgamento, em caráter originário, de mandado de segurança impetrado contra ato de Tribunal de Justiça estadual, uma vez que tais autoridades não constam do rol taxativo previsto no mencionado dispositivo constitucional.
+Nesse sentido, a Súmula n. 41 do STJ estabelece: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+A jurisprudência desta Corte é pacífica ao reconhecer a incompetência do STJ para processar mandados de segurança impetrados contra acórdãos proferidos por Tribunais estaduais, conforme demonstram os precedentes a seguir:
+PEDIDO DE RECONSIDERAÇÃO NO MANDADO DE SEGURANÇA. PROCESSUAL PENAL. AUSÊNCIA DE PREVISÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. MANDADO DE SEGURANÇA CONTRA ATO DE TRIBUNAL ESTADUAL. FALTA DE COMPETÊNCIA DO SUPERIOR TRIBUNAL JUSTIÇA. SÚMULA N. 41 DO STJ. AMPLIAÇÃO DA COMPETÊNCIA POR ANALOGIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste previsão legal, ou no Regimento Interno desta Corte Superior, de pedido de reconsideração contra decisão monocrática de Relator. Mas, preenchidos os requisitos objetivos e subjetivos do recurso cabível, pela aplicação do princípio da fungibilidade, pode ser o pleito recebido como agravo regimental.
+2. Não compete ao Superior Tribunal de Justiça processar e julgar, originariamente, mandado de segurança impetrado contra ato de Tribunal estadual, segundo orienta a Súmula n. 41 desta Corte Superior, a partir do disposto do art. 105, inciso I, alínea b, da Constituição da República.
+3. A alegação de que por ser cabível habeas corpus contra atos de Tribunal estadual, no Superior Tribunal de Justiça, quando desfavoráveis aos Réus, não autoriza a interpretação de que, por analogia ou paralelismo, também deveria ser cabível o mandado de segurança originário nesta Corte Superior, quando tais atos forem contrários aos interesses da Vítima.
+4. A competência do Superior Tribunal de Justiça é fixada na Constituição da República, em rol taxativo, não sendo passível de ampliação por meio de analogia.
+5. Pedido de reconsideração conhecido como agravo regimental, ao qual se nega provimento.
+(RCD no MS n. 29.132/RS, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 22/3/2023, DJe de 3/4/2023.)
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ATO APONTADO COATOR: ACÓRDÃO DE TRIBUNAL DE JUSTIÇA ESTADUAL QUE NÃO CONHECEU DA IMPETRAÇÃO ORIGINÁRIA. SÚMULA N. 41 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANIFESTA INCOMPETÊNCIA DESTA CORTE. CABIMENTO DO RECURSO ORDINÁRIO CONSTITUCIONAL. ART. 105, INCISO II, ALÍNEA B. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA PELA VICE- PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, o mandado de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal, nos termos do art. 105, inciso I, alínea b, da Constituição Federal.
+2. E, no caso, contra acórdão denegatório de mandado de segurança prolatado por Tribunal Estadual, cabe o recurso ordinário, conforme prevê o art. 105, inciso II, alínea b, da Constituição Federal.
+3. Agravo regimental desprovido.
+(AgRg no MS n. 28.750/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/9/2022, DJe de 28/9/2022.)
+Ante o exposto, com fulcro no art. 34, inciso XIX, e no art. 212 do Regimento Interno do STJ, indefiro liminarmente o mandado de segurança.
+Intimem-se. Publique-se.
+EMENTA
