@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão singular de minha lavra na qual: (i) dei provimento ao recurso especial dos particulares para julgar procedente o pedido de lucros cessantes, fixando que "devem corresponder ao valor dos respectivos aluguéis do imóvel durante o período da mora, que serão fixados em sede de liquidação" (fl. 782); e (ii) dei provimento, em parte, ao recurso especial da Caixa Econômica Federal para afastar a condenação ao pagamento de cláusula penal moratória, por vedação de cumulação com a verba indenizatória já deferida, sob pena de bis in idem (fl. 789).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que as decisões monocráticas incorrem em erro material ao qualificarem a indenização pela privação do uso do imóvel como lucros cessantes, quando, no âmbito do Programa Minha Casa, Minha Vida, o prejuízo material estaria mais próximo de dano emergente, o que autorizaria a cumulação com a cláusula penal moratória, citando o REsp 1.729.593/SP (fls. 793-794).
+Aduz que, ainda que impropriamente nomeada de lucros cessantes, a natureza jurídica da verba se distancia daquela prevista no Tema 970, razão pela qual pleiteia o saneamento do suposto erro, para simultaneamente inverter a cláusula penal e condenar pelos danos emergentes (fls. 794-795).
+Argumenta, subsidiariamente, que, não sendo reconhecido o erro material, seja mantido integralmente o acórdão do TRF-5, com inversão da cláusula penal e sem lucros cessantes (fl. 795).
+Impugnação aos embargos de declaração às fls. 800-809 e 822-824.
+Assim delimitada a questão, passo a decidir.
+Os presentes embargos não merecem prosperar.
+A decisão singular enfrentou a controvérsia com base em precedentes repetitivos. Com apoio no REsp 1.729.593/SP, reconheceu a indenização pela privação do uso do imóvel na forma de aluguel mensal equivalente ao locativo (fls. 780-782). Em complemento, aplicou o entendimento do REsp 1.631.485/DF para afastar a cumulação da cláusula penal moratória com lucros cessa ntes (fl. 789). A classificação em lucros cessantes segue a diretriz do Tema 996: indenizar a privação de fruição por referência ao valor locatício.
+A tese de que, no PMCMV, o prejuízo seria "mais próximo de dano emergente" foi analisada no repetitivo, que considerou irrelevante a distinção conceitual porque o fato gerador é a privação do uso (fl. 794). A partir disso, a indenização se mede pelo valor locatício. À luz do Tema 970, não se admite a cumulação entre cláusula penal moratória, usualmente fixada em parâmetro equivalente ao locativo, e lucros cessantes. Por consequência, a requalificação pretendida não autoriza a cumulação.
+Nas razões do recurso especial dos autores (fls. 595-607), houve pedido de lucros cessantes e, inclusive, defesa de cumulação com multa moratória (fl. 606), sem desenvolver a tese de dano emergente como fundamento autônomo. Os embargos (fls. 792-795) inovam e procuram reabrir o mérito já decidido nas decisões singulares (fls. 782 e 789).
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC, conclui-se que a pretensão da parte embargante é unicamente o novo julgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
