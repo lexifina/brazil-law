@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de ha beas corpus impetrado em nome de GILMAR FLORES, condenado pelo crime do art. 16, § 1º, IV, da Lei n. 10.826/2003, à pena de 4 anos e 4 meses de reclusão, em regime inicial fechado, e 15 dias-multa (Processo n. 5006720-96.2022.8.24.0125, da Vara Criminal da comarca de Itapema/SC).
+A parte impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, que, em 1º/6/2023, conheceu do Agravo Interno em Habeas Corpus Criminal n. 5006362-84.2023.8.24.0000/SC e negou-lhe provimento (fls. 33/39), mantendo, assim, a decisão de negativa de seguimento do writ (fls. 114/116).
+Alega nulidade do Inquérito Policial n. 2022.0037898/DPF/IJI/SC, aforado sob n. 5005668-65.2022.8.24.0125 por ter sido instaurado e conduzido com base em entrevistas apócrifas, notícias anônimas não reduzidas a termo e sem diligências mínimas de corroboração; e, por consequência, nulidade das medidas cautelares deferidas (busca e apreensão, quebras de sigilo e indisponibilidade de bens), por ausência de fundamentação idônea e por se apoiarem em informações falsas. Sustenta ilicitude das provas por derivação, com desentranhamento, nos termos do art. 157 do Código de Processo Penal. Invoca pescaria probatória e inovação artificiosa em investigação
+Em caráter liminar, pede a suspensão do curso do Inquérito Policial n. 5005668-65.2022.8.24.0125 e da Ação Penal n. 5006720-96.2022.8.24.0125.
+No mérito, requer o reconhecimento da ilegalidade da decisão que deferiu as medidas cautelares, a declaração de nulidade do inquérito e dos atos dele derivados, e o desentranhamento das provas ilícitas por derivação, com a confirmação da liminar, nos termos do art. 157 do Código de Processo Penal.
+Depois de indeferido o pedido liminar (fls. 691/693) e de prestadas informações (fls. 701/784), opinou o Ministério Público Federal nos termos desta ementa (fl. 790):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRANCAMENTO DO INQUÉRITO POLICIAL. INVIABILIDADE. MEDIDA EXCEPCIONAL POSSÍVEL APENAS QUANDO DEMONSTRANDO, DE FORMA INEQUÍVOCA, O CONSTRANGIMENTO ILEGAL E/OU A AUSÊNCIA DE JUSTA CAUSA. BUSCA E APREENSÃO DEVIDAMENTE FUNDAMENTADA. PARECER PELO NÃO CONHECIMENTO DO WRIT E, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+As questões tais como deduzidas no writ demandam exame aprofundado do conjunto fático-probatório, incompatível com a via eleita. Com efeito, não é possível, de plano e de maneira inequívoca, verificar se a narrativa policial corresponde à realidade sem revolvimento de provas.
+Também não é dado ao Superior Tribunal de Justiça, em verdadeira supressão de instância, decidir pontos não debatidos pela Corte de origem.
+Ademais, após a prolação do julgado ora atacado, houve o julgamento da apelação do paciente contra a sentença exarada na Ação Penal n. 5006720-96.2022.8.24.0125, em que foi possível ao colegiado competente se debruçar sobre a temática suscitada pela defesa de forma ampla, num juízo de cognição muito maior que o atual.
+Pelo exposto, não conheço deste habeas corpus.
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. NULIDADE DO INQUÉRITO POLICIAL CORRELATO E DA AÇÃO PENAL. PRETENSÃO DE RECONHECIMENTO DE ILEGALIDADE DAS MEDIDAS CAUTELARES E DESENTRANHAMENTO DE PROVAS. AS ALEGAÇÕES FORMULADAS DEPENDEM DE ANÁLISE MINUCIOSA DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. SUPRESSÃO DE INSTÂNCIA INADMISSIBILIDADE. JULGAMENTO DA APELAÇÃO NA ORIGEM.
+Habeas corpus não conhecido.
