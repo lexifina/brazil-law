@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 1.339):
+APELAÇÃO CÍVEL/REEXAME NECESSÁRIO Ação anulatória IPTU dos exercícios de 2013 a 2018 Município de São José dos Campos Sentença que julgou procedente a ação para afastar a tributação pelo IPTU em razão do desenvolvimento de atividades rurais (agropecuária) no local Imóvel devidamente cadastrado no INCRA sobre o qual é recolhido ITR Destinação rural comprovada nos autos Não incidência do IPTU Aplicação do artigo 15 do Decreto-Lei 57/66 Honorários advocatícios fixados em 8% sobre o valor atualizado da causa (R$ 2.179.561,60 em agosto de 2018) Verba honorária considerada excessiva Fixação nos percentuais mínimos sobre o valor da causa atualizado, conforme previsão dos parágrafos 2º, 3º e 5º do artigo 85 do CPC, majorados em um décimo de ponto percentual na respectiva faixa nos termos do § 11 do CPC Sentença parcialmente reformada Recursos oficial e voluntário do município parcialmente providos.
+Os embargos de declaração foram rejeitados (fls. 1.361/1.365).
+Nas razões de seu recurso especial, a parte requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 1.369/1.385).
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Em seu recurso, a parte aponta como contrariado o art. 85, § 3º, I a V, do Código de Processo Civil (CPC) e defende a fixação dos honorários advocatícios em percentual do proveito econômico.
+Entretanto, o Tribunal de origem não decidiu a demanda à luz da tese judicial defendida pela parte recorrente, apenas alterou a porcentagem fixa sobre o valor atualizado da causa para adequar a verba honorária definida na primeira instância aos percentuais mínimos.
+O acórdão recorrido foi assim fundamentado (fls. 1.361/1.365):
+O v. acórdão afastou a pretensão do município apelante, ora embargante, de alteração da verba honorária fixada em primeira instância em 8% sobre o valor atualizado da causa para fixação por equidade, pois a equidade é critério subsidiário, aplicado somente quando inestimável ou irrisório o proveito econômico ou quando o valor da causa for muito baixo.
+Reconheceu o v. acórdão que a fixação da verba honorária em 8% sobre o valor atualizado da causa (R$ 2.179.561,60 em agosto de 2018) revelou-se desarrazoada diante dos limites da causa, impondo-se sua adequação para os percentuais mínimos cabíveis nas condenações contra a Fazenda Pública, nas faixas respectivas, conforme previsão dos §§ 3º, incisos I a V e 5º, do artigo 85, do CPC.
+Ressalte-se que o v. acórdão apenas adequou a verba já fixada pelo magistrado, alterando a porcentagem fixa a que foi condenada a municipalidade para fazer incidir os percentuais mínimos sobre o valor atualizado da causa, já que se trata de condenação contra a Fazenda Pública.
+Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do Tribunal estadual sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, relativamente à questão controvertida, o que não foi feito no caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
