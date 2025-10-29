@@ -1,0 +1,50 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 3.604-3.605):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 3.637-3.638).
+A parte recorrente sustenta a ocorrência de violação dos arts. 5º, LIV e LV, e 93, IX, da Consti tuição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Nesse sentido, alega ter havido negativa de prestação jurisdicional, pois argumentos relevantes não teriam sido enfrentados.
+Assevera que a omissão reside na falta de enfrentamento das teses da recorrente de que jamais autorizou repasses de comissões, de que a legislação securitária impõe forma específica e de que não havia documentos de endosso ou quitação válidos.
+Salienta que, sem a devida apreciação dos dispositivos invocados, o acórdão recorrido consolidou uma situação em que comissões de corretagem foram pagas a terceiros sem a forma prescrita em lei.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 3.665-3.691.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa aos arts. 5º, LIV e LV, e 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 3.608-3.610):
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 3.550-3.553):
+ ..
+Nas razões do recurso especial (fls. 3.407-3.425), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, II, § 1º, IV e 1.022 do CPC/2015, por omissão quanto às seguintes alegações: "No caso posto a julgamento, foi demonstrado à exaustão que entre as partes houve um relacionamento regido pela Lei específica ao ramo securitário, que exige, dentre outros requisitos, que somente podem ser pagas comissões a corretores de seguros e, portanto, somente o corretor, poderia, mediante endossos das apólices negociadas, partilhar entre outros corretores o valor da corretagem. Também houve menção expressa nas razões de apelação e em todos os atos processuais que nunca houve de parte da Recorrente endossos ou autorizações para repasse a terceiros de suas comissões, na forma prescrita em lei. O V. Acórdão, data vênia, passou ao largo desse relevante argumento, notadamente a previsão dos artigos 308 e 320 do Código Civil.  .. . Portanto, a rejeição dos Embargos de Declaração afrontou o artigo 1.022 do Código de Processo Civil vez que houve prequestionamento específico da negativa de decisão sobre os pontos controvertidos arguidos pela Reclamante, caracterizando omissão do V. Acórdão proferido que não apreciou na integralidade a controvérsia dos autos, havendo omissão de julgamento dos preceitos legislativos invocados, assim como da apreciação integral da controvérsia, notadamente a peculiaridade de se tratar de atividade regida por legislação específica que demanda forma prescrita em lei e que não foi atendida nos autos" (fls. 3.413-3.414); e
+(ii) arts. 166, IV, V, VI, 308, 320 e 725 do CC/2002, 13 e 14 da Lei n. 4.594/1964, tendo em vista ser "necessário reiterar que o objetivo da demanda proposta pela Recorrente é o recebimento de diferenças de comissões que não foram pagas diretamente a ela e sim a terceiros não identificados e não autorizados pela Recorrente na forma prevista em lei, haja vista se tratar de relação securitária onde se impõe o respeito aos estritos dizeres dos artigos 725 do Código Civil e dos artigos 13, 14 da Lei nº 4.594/64:  .. . Ademais, as previsões relativamente à forma prevista em lei tampouco foram aferidas e enfrentadas pelos V. Acórdãos proferidos, notadamente as previsões dos artigos 166, IV, V, VI, 308, 320 do Código Civil" (fls. 3.422-3.423).
+ ..
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Por fim, para modificar o entendimento do acórdão impugnado quanto ao pagamento a terceiros ser realizado pela própria agravante, à ocorrência de comportamento contraditório e à completude do laudo pericial, seria necessário reexaminar o conjunto fático-probatório dos autos, providência vedada nesta Corte Superior, conforme disposto na Súmula 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Não prospera a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, pois o acórdão recorrido enfrentou adequadamente as questões suscitadas nos autos, apresentando fundamentação suficiente.
+O Tribunal de origem afirmou, de forma clara e inequívoca, que "o laudo pericial foi bastante completo e foi realizado com a análise das planilhas apresentadas pela Apelante em sua exordial em confronto com o sistema mantido pela Apelada" (fl. 3.390). Acrescentou que "a análise dos autos demonstra que a Apelante inseria no sistema de lançamentos da Apelada todas as informações acerca do contrato e do rateio a ser realizado para o recebimento da comissão, autorizando ela própria o pagamento diretamente a terceiros" (fl . 3.390).
+No julgamento dos embargos de declaração, a Corte estadual reiterou expressamente que "os alegados pagamentos realizados a terceiros eram realizados pela Embargante, que preenchia o sistema da Embargada com a informação de rateio da comissão" (fl. 3.403).
+A parte agravante insiste em que o TJSP não enfrentou teses recursais. Verifico entretanto que elas foram substancialmente tratadas na fundamentação do acórdão. O fato de o órgão julgador não ter adotado a tese defendida pela parte não caracteriza omissão nem negativa de prestação jurisdicional. O Tribunal foi explícito ao afirmar que a própria corretora alimentava o sistema com as informações de rateio, autorizando o pagamento a terceiros, o que, na visão da Corte, configuraria comportamento contraditório e alegação da própria torpeza.
+Assim, o acórdão foi claro ao afirmar que, a partir da análise do conjunto probatório, ficou comprovado que "era a Apelante quem realizava o preenchimento das informações, a opção pelo rateio da comissão no sistema da Apelada pressupõe a autorização expressa da mesma para que fosse realizado o rateio e o pagamento dos valores diretamente aos parceiros da Apelante" (fl. 3.392).
+A parte pretende modificar a premissa fática estabelecida pelo Tribunal de origem quanto (i) ao pagamento a terceiros ter sido realizado pela própria agravante; (ii) à ocorrência de comportamento contraditório; e (iii) à completude do laudo pericial. Tais elementos resultaram da análise soberana das provas pela instância ordinária e não podem ser revistos nesta instância excepcional.
+Não se trata, portanto, de mera revaloração jurídica, mas de verdadeira pretensão de reexame de fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
