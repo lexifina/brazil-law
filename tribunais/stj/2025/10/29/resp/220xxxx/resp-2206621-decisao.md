@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DA REGIÃO DE FRUTAL LTDA. SICOOB FRUTAL, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 614):
+EMENTA: AGRAVO DE INSTRUMENTO AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL RÉU FALECIDO ANTES DO AJUIZAMENTO DA AÇÃO AUSÊNCIA DE PRESSUPOSTO PROCESSUAL IMPOSSIBILIDADE DE SUBSTITUIÇÃO EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO SENTENÇA MANTIDA.
+Ajuizada a ação contra pessoa falecida antes de sua propositura, impõe-se a extinção do processo sem resolução do mérito, por ausência de pressuposto de constituição válida e regular do processo. A substituição processual prevista no art. 110 do Código de Processo Civil somente é aplicável quando o falecimento da parte ocorrer no curso do processo.
+Foram rejeitados os embargos de declaração opostos (fls. 659-663).
+Nas razões recursais (fls. 669-697), a recorrente alega que o acórdão recorrido violou o art. 321 do Código de Processo Civil e divergiu da jurisprudência consolidada do Superior Tribunal de Justiça. Sustenta que, diante do falecimento da executada antes do ajuizamento da ação e da ausência de citação válida, deveria ter sido oportunizada a emenda à petição inicial para regularização do polo passivo, com a inclusão do espólio ou dos herdeiros, em vez da extinção prematura do feito.
+Não foram apresentadas contrarrazões.
+Admitido o recurso na origem (fls. 764-766), vieram os autos ao Superior Tribunal de Justiça.
+É, no essencial, o relatório.
+Cinge-se a controvérsia recursal à possibilidade de emenda da petição inicial para regularização do polo passivo da execução, na hipótese de falecimento da parte executada antes da propositura da demanda e da citação.
+O Tribunal de origem, ao manter a decisão de primeiro grau, entendeu que o ajuizamento da ação contra pessoa já falecida implica a extinção do processo sem resolução de mérito, por ausência de pressuposto de constituição e desenvolvimento válido e regular, afastando a possibilidade de emenda à inicial.
+Contudo, o entendimento adotado na origem diverge da jurisprudência desta Corte Superior, que se consolidou no sentido de que, em casos como o presente, deve ser oportunizada ao autor a emenda à petição inicial para regularizar o polo passivo da demanda, quando não houve a citação válida da parte.
+Nesse sentido, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALECIMENTO DO REQUERIDO. PRONTA EXTINÇÃO DO FEITO. DESCABIMENTO. OPORTUNIZAÇÃO DE EMENDA DA INICIAL. PRECEDENTES.
+1. O falecimento da parte indicada no polo passivo da ação antes de sua citação não enseja a extinção do feito, porquanto necessário oportunizar ao autor a emenda da inicial a fim de que o polo passivo seja regularizado. Precedentes.
+2. "O correto enquadramento jurídico da situação em que uma ação judicial é ajuizada em face de réu falecido previamente à propositura da demanda é a de ilegitimidade passiva do de cujus, devendo ser facultado ao autor, diante da ausência de ato citatório válido, emendar a petição inicial para regularizar o polo passivo, dirigindo a sua pretensão ao espólio" (REsp n. 1.559.791/PB, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 31/8/2018).
+Agravo interno improvido.
+(AgInt no REsp n. 2.003.599/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RÉU FALECIDO PRETERITAMENTE AO AJUIZAMENTO DA DEMANDA. DESNECESSIDADE DE HABILITAÇÃO, SUCESSÃO OU SUBSTITUIÇÃO PROCESSUAL. ILEGITIMIDADE PASSIVA. POSSIBILIDADE DE EMENDA À INICIAL. REPRESENTAÇÃO DO ESPÓLIO. AUSÊNCIA DE INVENTÁRIO OU INVENTARIANTE COMPROMISSADO. ADMINISTRADOR PROVISÓRIO.
+1. Recurso especial interposto em 18/2/2022 e concluso ao gabinete em 8/4/2022.
+2. O propósito recursal consiste em dizer se é admissível habilitação, sucessão ou substituição processual de parte falecida previamente ao ajuizamento da demanda por seu espólio, representado pelo administrador provisório, diante da ausência de inventariante compromissado.
+3. "A propositura de ação em face de réu preteritamente falecido não se submete à habilitação, sucessão ou substituição processual, nem tampouco deve ser suspensa até o processamento de ação de habilitação de sucessores, na medida em que tais institutos apenas são aplicáveis às hipóteses em que há o falecimento da parte no curso do processo judicial." (REsp n. 1.559.791/PB, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 31/8/2018.)
+4. Sendo ajuizada ação contra réu preteritamente falecido, há situação de ilegitimidade passiva do de cujus, a qual pode ser sanada por meio de emenda à inicial, diante da ausência de ato citatório válido.
+5. A representação judicial do espólio deve ocorrer pelo administrador provisório, em situações em que não haja ação de inventário ajuizada ou inventariante devidamente compromissado.
+6. Na hipótese dos autos, tendo o corréu falecido anteriormente ao ajuizamento da execução, deve ser permitido ao autor emendar a inicial para indicar o administrador provisório como representante judicial do espólio, caso não seja comprovado o ajuizamento da ação de inventário ou não haja inventariante devidamente compromissado.
+7. Recurso especial provido.
+(REsp n. 1.987.061/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/8/2022, DJe de 5/8/2022.)
+CIVIL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RÉU FALECIDO ANTES DO AJUIZAMENTO DA AÇÃO. DESNECESSIDADE DE HABILITAÇÃO, SUCESSÃO OU SUBSTITUIÇÃO PROCESSUAL. NECESSIDADE DE SE FACULTAR A EMENDA À INICIAL PARA CORREÇÃO DO POLO PASSIVO DIANTE DA AUSÊNCIA DE CITAÇÃO VÁLIDA. PRETENSÃO QUE DEVE SER DIRIGIDA AO ESPÓLIO. AUSÊNCIA DE INVENTÁRIO OU DE INVENTARIANTE COMPROMISSADO. REPRESENTAÇÃO JUDICIAL DO ESPÓLIO. ADMINISTRADOR PROVISÓRIO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. POSSIBILIDADE DE AFASTAMENTO. EXCEPCIONALIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+(..)
+3. A propositura de ação em face de réu preteritamente falecido não se submete à habilitação, sucessão ou substituição processual, nem tampouco deve ser suspensa até o processamento de ação de habilitação de sucessores, na medida em que tais institutos apenas são aplicáveis às hipóteses em que há o falecimento da parte no curso do processo judicial. Inteligência dos arts. 43, 265, I, e 1.055, todos do CPC/73.
+4. O correto enquadramento jurídico da situação em que uma ação judicial é ajuizada em face de réu falecido previamente à propositura da demanda é a de ilegitimidade passiva do de cujus, devendo ser facultado ao autor, diante da ausência de ato citatório válido, emendar a petição inicial para regularizar o polo passivo, dirigindo a sua pretensão ao espólio.
+5. Na ausência de ação de inventário ou de inventariante compromissado, o espólio será representado judicialmente pelo administrador provisório, responsável legal pela administração da herança até a assunção do encargo pelo inventariante.
+(..)
+8. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 1.559.791/PB, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/8/2018, DJe de 31/8/2018.)
+Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido e a decisão de primeiro grau, determinando o retorno dos autos à origem para que se oportunize à recorrente a emenda da petição inicial, a fim de regularizar o polo passivo da execução.
+Publique-se. Intimem-se.
+EMENTA
