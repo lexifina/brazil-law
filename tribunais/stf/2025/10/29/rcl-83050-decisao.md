@@ -1,0 +1,201 @@
+DECISÃO
+
+RECLAMAÇÃO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO NÃO INCLUÍDO EM POLÍTICAS PÚBLICAS IMPLEMENTADAS PELO SISTEMA ÚNICO DE SAÚDE (SUS): RES Nº 566.471-RG/RN E Nº 1.366.243-RG/SC (TEMAS RG Nº 6 E Nº 1.234, RESPECTIVAMENTE). ENUNCIADOS Nº 60 E Nº 61 DA SÚMULA VINCULANTE DO STF.  INOBSERVÂNCIA. PROCEDENTE,
+
+    1. Trata-se de reclamação constitucional, com pedido liminar, formalizada pelo Estado do Rio Grande do Sul, contra decisão proferida pela 2ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, no Processo nº 5007507-91.2024.8.21.9000, mediante a qual teriam sido desrespeitadas as teses fixadas pelo Supremo Tribunal Federal, nos julgamentos dos Recursos Extraordinários nº 566.471-RG/RN (Tema RG nº 6) e nº 1.366.243-RG/SC (Tema RG nº 1.234) e dos enunciados nº 60 e nº 61 das Súmulas Vinculantes do STF.
+
+    2. O reclamante narra que, na origem, cuida-se de ação de obrigação de fazer, ajuizada pelo ora beneficiário, Guimarães Mariano Rodrigues, na qual postula o fornecimento dos medicamentos Trimbow (Brometo de Glicopirrônio + Dipropionato de Beclometasona + Fumarato de Formoterol Dihidratado) e Nasonex (Furoato de Mometasona), visto que é portador de outras formas especificadas de doença pulmonar obstrutiva crônica.
+
+    3. Noticia que o Juízo de 1º Grau requisitou a elaboração de nota técnica ao NatJus, na qual se informou que o Trimbow não é recomendado pela Conitec e o Nasonex não foi avaliado, manifestando-se desfavoravelmente ao pleito de ambos os medicamentos, o que resultou no indeferimento da tutela provisória requerida.
+
+    4. Informa que a parte ora beneficiária interpôs agravo de instrumento. A 2ª Turma Recursal ora reclamada, a despeito de reconhecer que os medicamentos não estão incorporados ao SUS e de existir Nota Técnica desfavorável do NatJus, deferiu o pedido de tutela provisória, determinando o fornecimento do medicamento vindicado.
+
+    5. Alega que o Juízo reclamado ignorou o não preenchimento dos requisitos estabelecidos pelos paradigmas apontados para o deferimento do pedido. Afirma não demonstrada a ilegalidade no ato de não recomendação e de não incorporação dos medicamentos, respectivamente, pela Conitec nas listas do SUS.
+
+    6. Aponta ausência de comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise. Diz da concessão do tratamento fundada em simples laudo médico. Salienta que a NatJus manifestou-se desfavoravelmente ao pleito.
+
+    7. Requer a concessão de medida liminar, para suspender os efeitos da decisão reclamada. Busca, no mérito, a procedência do pedido, para cassar o ato impugnado, determinando-se a reapreciação do feito nos exatos termos dos requisitos cumulativos estabelecidos nos precedentes vinculados ora invocados.
+
+    8. O Tribunal de Justiça do Estado do Rio Grande do Sul prestou as informações. Narra acerca do trâmite e das decisões do processo de origem. Salienta que os autos aguardam o trânsito em julgado da presente reclamação (e-doc. 13).
+
+    9. Devidamente citada, a parte ora beneficiária não se manifestou, conforme certificado pela Secretaria Judiciária em 24/10/2025 (e-doc. 16).
+
+    É o relatório.
+
+    Decido.
+
+    10. A reclamação, inicialmente concebida como construção jurisprudencial, reveste-se de natureza constitucional, tendo como finalidades a preservação da competência do Supremo Tribunal Federal, a garantia da autoridade de suas decisões (art. 102, inc. I, al. “l”, da CRFB), além da observância de enunciado de súmula vinculante (art. 103-A, § 3º, da CRFB).
+
+    11. Em sede infraconstitucional, encontra regulação nos arts. 988 a 993 do Código de Processo Civil e, especificamente no âmbito do Supremo Tribunal Federal, nos arts. 156 a 162 do respectivo Regimento Interno.
+
+    12. Na hipótese sob análise, põe-se em foco se, ao manter concessão liminar de fornecimento dos medicamentos Trimbow e Nasonex, registrados na Anvisa, mas não incorporados ao SUS, a 2ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul teria desrespeitado as teses de repercussão geral firmadas por esta Corte Suprema nos Recursos Extraordinários nº 566.471-RG/RN (Tema RG nº 6) e nº 1.366.243-RG/SC (Tema RG nº 1.234) e nos enunciados nº 60 e nº 61 das Súmulas Vinculantes do STF.
+
+    13. No Recurso Extraordinário nº 1.366.243/SC (j. 16/09/2024, p. 11/10/2024), leading case do Tema nº 1.234 do ementário da Repercussão Geral, a controvérsia constitucional foi assim definida:
+
+    “Legitimidade passiva da União e competência da Justiça Federal, nas demandas que versem sobre fornecimento de medicamentos registrados na Agência Nacional de Vigilância Sanitária - ANVISA, mas não padronizados no Sistema Único de Saúde – SUS.”
+
+    14. A ementa do julgado proferido na ocasião ostenta a seguinte redação:
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA 1.234. LEGITIMIDADE PASSIVA DA UNIÃO E COMPETÊNCIA DA JUSTIÇA FEDERAL NAS DEMANDAS QUE VERSAM SOBRE FORNECIMENTO DE MEDICAMENTOS REGISTRADOS NA ANVISA, MAS NÃO INCORPORADOS NO SUS. NECESSIDADE DE AMPLIAÇÃO DO DIÁLOGO, DADA A COMPLEXIDADE DO TEMA, DESDE O CUSTEIO ATÉ A COMPENSAÇÃO FINANCEIRA ENTRE OS ENTES FEDERATIVOS. DESIGNAÇÃO DE COMISSÃO ESPECIAL COMO MÉTODO AUTOCOMPOSITIVO DE SOLUÇÃO DE CONFLITOS. INSTAURAÇÃO DE UMA INSTÂNCIA DE DIÁLOGO INTERFEDERATIVA.
+
+    Questão em discussão: Análise administrativa e judicial quanto aos medicamentos incorporados e não incorporados, no âmbito do SUS.
+
+    Acordos interfederativos: Análise conjunta com Tema 6. Em 2022, foi reconhecida a repercussão geral da questão relativa à legitimidade passiva da União e à competência da Justiça Federal nas demandas sobre fornecimento de medicamentos não incorporados ao SUS (tema 1234). Para solução consensual desse tema, foi criada Comissão Especial, composta por entes federativos e entidades envolvidas. Os debates resultaram em acordos sobre competência, custeio e ressarcimento em demandas que envolvam medicamentos não incorporados, entre outros temas. A análise conjunta do presente tema 1234 e do tema 6 é, assim, fundamental para evitar soluções divergentes sobre matérias correlatas. Homologação parcial dos acordos, com observações e condicionantes.
+
+    I. COMPETÊNCIA
+
+    1) Para fins de fixação de competência, as demandas relativas a medicamentos não incorporados na política pública do SUS, mas com registro na ANVISA, tramitarão perante a Justiça Federal, nos termos do art. 109, I, da Constituição Federal, quando o valor do tratamento anual específico do fármaco ou do princípio ativo, com base no Preço Máximo de Venda do Governo (PMVG – situado na alíquota zero), divulgado pela Câmara de Regulação do Mercado de Medicamentos (CMED - Lei 10.742/2003), for igual ou superior ao valor de 210 salários mínimos, na forma do art. 292 do CPC.
+
+    1.1) Existindo mais de um medicamento do mesmo princípio ativo e não sendo solicitado um fármaco específico, considera-se, para efeito de competência, aquele listado no menor valor na lista CMED (PMVG, situado na alíquota zero).
+
+    1.2) No caso de inexistir valor fixado na lista CMED, considera-se o valor do tratamento anual do medicamento solicitado na demanda, podendo o magistrado, em caso de impugnação pela parte requerida, solicitar auxílio à CMED, na forma do art. 7º da Lei 10.742/2003.
+
+    1.3) No caso de cumulação de pedidos, para fins de competência, será considerado apenas o valor do(s) medicamento(s) não incorporado(s) que deverá(ão) ser somado(s), independentemente da existência de cumulação alternativa de outros pedidos envolvendo obrigação de fazer, pagar ou de entregar coisa certa.
+
+    II. DEFINIÇÃO DE MEDICAMENTOS NÃO INCORPORADOS
+
+    2.1) Consideram-se medicamentos não incorporados aqueles que não constam na política pública do SUS; medicamentos previstos nos PCDTs para outras finalidades; medicamentos sem registro na ANVISA; e medicamentos off label sem PCDT ou que não integrem listas do componente básico.
+
+    2.1.1) Conforme decidido pelo Supremo Tribunal Federal na tese fixada no tema 500 da sistemática da repercussão geral, é mantida a competência da Justiça Federal em relação às ações que demandem fornecimento de medicamentos sem registro na Anvisa, as quais deverão necessariamente ser propostas em face da União, observadas as especificidades já definidas no aludido tema.
+
+    III. CUSTEIO
+
+    3) As ações de fornecimento de medicamentos incorporados ou não incorporados, que se inserirem na competência da Justiça Federal, serão custeadas integralmente pela União, cabendo, em caso de haver condenação supletiva dos Estados e do Distrito Federal, o ressarcimento integral pela União, via repasses Fundo a Fundo (FNS ao FES), na situação de ocorrer redirecionamento pela impossibilidade de cumprimento por aquela, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias.
+
+    3.1) Figurando somente a União no polo passivo, cabe ao magistrado, se necessário, promover a inclusão do Estado ou Município para possibilitar o cumprimento efetivo da decisão, o que não importará em responsabilidade financeira nem em ônus de sucumbência, devendo ser realizado o ressarcimento pela via acima indicada em caso de eventual custo financeiro ser arcado pelos referidos entes.
+
+    3.2) Na determinação judicial de fornecimento do medicamento, o magistrado deverá estabelecer que o valor de venda do medicamento seja limitado ao preço com desconto, proposto no processo de incorporação na Conitec (se for o caso, considerando o venire contra factum proprium/tu quoque e observado o índice de reajuste anual de preço de medicamentos definido pela CMED), ou valor já praticado pelo ente em compra pública, aquele que seja identificado como menor valor, tal como previsto na parte final do art. 9º na Recomendação 146, de 28.11.2023, do CNJ. Sob nenhuma hipótese, poderá haver pagamento judicial às pessoas físicas/jurídicas acima descritas em valor superior ao teto do PMVG, devendo ser operacionalizado pela serventia judicial junto ao fabricante ou distribuidor.
+
+    3.3) As ações que permanecerem na Justiça Estadual e cuidarem de medicamentos não incorporados, as quais impuserem condenações aos Estados e Municípios, serão ressarcidas pela União, via repasses Fundo a Fundo (FNS ao FES ou ao FMS). Figurando somente um dos entes no polo passivo, cabe ao magistrado, se necessário, promover a inclusão do outro para possibilitar o cumprimento efetivo da decisão.
+
+    3.3.1) O ressarcimento descrito no item 3.3 ocorrerá no percentual de 65% (sessenta e cinco por cento) dos desembolsos decorrentes de condenações oriundas de ações cujo valor da causa seja superior a 7 (sete) e inferior a 210 (duzentos e dez) salários mínimos, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias.
+
+    3.4) Para fins de ressarcimento interfederativo, quanto aos medicamentos para tratamento oncológico, as ações ajuizadas previamente a 10 de junho de 2024 serão ressarcidas pela União na proporção de 80% (oitenta por cento) do valor total pago por Estados e por Municípios, independentemente do trânsito em julgado da decisão, a ser implementado mediante ato do Ministério da Saúde, previamente pactuado em instância tripartite, no prazo de até 90 dias. O ressarcimento para os casos posteriores a 10 de junho de 2024 deverá ser pactuado na CIT, no mesmo prazo.
+
+    IV. ANÁLISE JUDICIAL DO ATO ADMINISTRATIVO DE INDEFERIMENTO DE MEDICAMENTO PELO SUS
+
+    4) Sob pena de nulidade do ato jurisdicional (art. 489, § 1º, V e VI, c/c art. 927, III, §1º, ambos do CPC), o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente analisar o ato administrativo comissivo ou omissivo da não incorporação pela Conitec e da negativa de fornecimento na via administrativa, tal como acordado entre os Entes Federativos em autocomposição no Supremo Tribunal Federal.
+
+    4.1) No exercício do controle de legalidade, o Poder Judiciário não pode substituir a vontade do administrador, mas tão somente verificar se o ato administrativo específico daquele caso concreto está em conformidade com as balizas presentes na Constituição Federal, na legislação de regência e na política pública no SUS.
+
+    4.2)  A análise jurisdicional do ato administrativo que indefere o fornecimento de medicamento não incorporado restringe-se ao exame da regularidade do procedimento e da legalidade do ato de não incorporação e do ato administrativo questionado, à luz do controle de legalidade e da teoria dos motivos determinantes, não sendo possível incursão no mérito administrativo, ressalvada a cognição do ato administrativo discricionário, o qual se vincula à existência, à veracidade e à legitimidade dos motivos apontados como fundamentos para a sua adoção, a sujeitar o ente público aos seus termos.
+
+    4.3) Tratando-se de medicamento não incorporado, é do autor da ação o ônus de demonstrar, com fundamento na Medicina Baseada em Evidências, a segurança e a eficácia do fármaco, bem como a inexistência de substituto terapêutico incorporado pelo SUS.
+
+    4.4) Conforme decisão da STA 175-AgR, não basta a simples alegação de necessidade do medicamento, mesmo que acompanhada de relatório médico, sendo necessária a demonstração de que a opinião do profissional encontra respaldo em evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados, revisão sistemática ou meta-análise.
+
+    V. PLATAFORMA NACIONAL
+
+    5) Os Entes Federativos, em governança colaborativa com o Poder Judiciário, implementarão uma plataforma nacional que centralize todas as informações relativas às demandas administrativas e judiciais de acesso a fármaco, de fácil consulta e informação pelo cidadão, na qual constarão dados básicos para possibilitar a análise e eventual resolução administrativa, além de posterior controle judicial.
+
+    5.1) A porta de ingresso à plataforma será via prescrições eletrônicas, devidamente certificadas, possibilitando o controle ético da prescrição posteriormente, mediante ofício do Ente Federativo ao respectivo conselho profissional.
+
+    5.2) A plataforma nacional visa a orientar todos os atores ligados ao sistema público de saúde, possibilitando a eficiência da análise pelo Poder Público e compartilhamento de informações com o Poder Judiciário, mediante a criação de fluxos de atendimento diferenciado, a depender de a solicitação estar ou não incluída na política pública de assistência farmacêutica do SUS e de acordo com os fluxos administrativos aprovados pelos próprios Entes Federativos em autocomposição.
+
+    5.3) A plataforma, entre outras medidas, deverá identificar quem é o responsável pelo custeio e fornecimento administrativo entre os Entes Federativos, com base nas responsabilidades e fluxos definidos em autocomposição entre todos os Entes Federativos, além de possibilitar o monitoramento dos pacientes beneficiários de decisões judiciais, com permissão de consulta virtual dos dados centralizados nacionalmente, pela simples consulta pelo CPF, nome de medicamento, CID, entre outros, com a observância da Lei Geral de Proteção da Dados e demais legislações quanto ao tratamento de dados pessoais sensíveis.
+
+    5.4) O serviço de saúde cujo profissional prescrever medicamento não incorporado ao SUS deverá assumir a responsabilidade contínua pelo acompanhamento clínico do paciente, apresentando, periodicamente, relatório atualizado do estado clínico do paciente, com informações detalhadas sobre o progresso do tratamento, incluindo melhorias, estabilizações ou deteriorações no estado de saúde do paciente, assim como qualquer mudança relevante no plano terapêutico.
+
+    VI. MEDICAMENTOS INCORPORADOS
+
+    6) Em relação aos medicamentos incorporados, conforme conceituação estabelecida no âmbito da Comissão Especial e constante do Anexo I, os Entes concordam em seguir o fluxo administrativo e judicial detalhado no Anexo I, inclusive em relação à competência judicial para apreciação das demandas e forma de ressarcimento entre os Entes, quando devido.
+
+    6.1) A(o) magistrada(o) deverá determinar o fornecimento em face de qual ente público deve prestá-lo (União, Estado, Distrito Federal ou Município), nas hipóteses previstas no próprio fluxo acordado pelos Entes Federativos, integrantes do presente acórdão.
+
+    VII. OUTRAS DETERMINAÇÕES
+
+    7.1) Os órgãos de coordenação nacional do MPF, da DPU e de outros órgãos técnicos de caráter nacional poderão apresentar pedido de análise de incorporação de medicamentos no âmbito do SUS, que ainda não tenham sido avaliados pela Conitec, respeitada a análise técnica dos órgãos envolvidos no procedimento administrativo usual para a incorporação, quando observada a existência de demandas reiteradas.
+
+    7.2) A previsão de prazo de revisão quanto aos termos dos acordos extrajudiciais depende da devida homologação pelo Supremo Tribunal Federal, em governança judicial colaborativa, para que a alteração possa ser dotada de eficácia plena. Até que isso ocorra, todos os acordos permanecem existentes, válidos e eficazes.
+
+    7.3) Até que sobrevenha a implementação da plataforma, os juízes devem intimar a Administração Pública para justificar a negativa de fornecimento na seara administrativa, nos moldes do presente acordo e dos fluxos aprovados na Comissão Especial, de modo a viabilizar a análise da legalidade do ato de indeferimento.
+
+    7.4) Excepcionalmente, no prazo de até 1 (um) ano a contar da publicação da ata de julgamento – em caso de declinação da Justiça Estadual para a Federal (unicamente para os novos casos) e na hipótese de inocorrer atendimento pela DPU, seja pela inexistência de atuação institucional naquela Subseção Judiciária, seja por ultrapassar o limite de renda de atendimento pela DPU –, admite-se que a Defensoria Pública Estadual (DPE), que tenha ajuizado a demanda no foro estadual, permaneça patrocinando a parte autora no foro federal, em copatrocínio entre as Defensorias Públicas, até que a DPU se organize administrativamente e passe a defender, isoladamente, os interesses da(o) cidadã(o), aplicando-se supletivamente o disposto no art. 5º, § 5º, da Lei 7.347/1985.
+
+    7.5) Concessão de prazo de 90 dias à Ministra da Saúde, para editar o ato de que dispõem os itens 2.2. e 2.4 do acordo extrajudicial e adendo a este, respectivamente, ambos firmados na reunião da CIT, ressaltando que os pagamentos devem ser realizados no prazo máximo de 5 anos, a contar de cada requerimento, abarcando a possibilidade de novos requerimentos administrativos.
+
+    7.6) Comunicação: (i) à Anvisa, para que proceda ao cumprimento do item 7, o qual será objeto de acompanhamento por esta Corte na fase de implementação do julgado, além da criação e operacionalização da plataforma nacional de dispensação de medicamentos (item 5 e subitens do que foi aprovado na Comissão Especial), a cargo da equipe de TI do TRF da 4ª Região, repassando, após sua criação e fase de testes, ao Conselho Nacional de Justiça, que centralizará a  governança em rede com os órgãos da CIT do SUS, conjuntamente com as demais instituições que envolvem a judicialização da saúde pública, em diálogo com a sociedade civil organizada; (ii) ao CNJ, para que tome ciência do presente julgado, operacionalizando-o como entender de direito, além de proceder à divulgação e fomento à atualização das magistradas e dos magistrados.
+
+    VIII. MODULAÇÃO DE EFEITOS TÃO SOMENTE QUANTO À COMPETÊNCIA: somente haverá alteração aos feitos que forem ajuizados após a publicação do resultado do julgamento de mérito no Diário de Justiça Eletrônico, afastando sua incidência sobre os processos em tramitação até o referido marco, sem possibilidade de suscitação de conflito negativo de competência a respeito dos processos anteriores ao referido marco.
+
+    IX. PROPOSTA DE SÚMULA VINCULANTE: “O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243)”.
+
+    (RE nº 1.366.243-RG/SC, Rel. Min. Gilmar Mendes, Tribunal Pleno, j. 13/09/2024, p. 11/10/2024; grifos nossos).
+
+    15. Seguindo essa mesma linha de compreensão, no julgamento do Recurso Extraordinário nº 566.471/RN (j. 26/09/2024, p. 28/11/2024), leading case do Tema nº 6 do ementário da Repercussão Geral, o Plenário desta Corte fixou a seguinte tese:
+
+    “Tema nº 6/RG:
+
+    1. A ausência de inclusão de medicamento nas listas de dispensação do Sistema Único de Saúde - SUS (RENAME, RESME, REMUME, entre outras) impede, como regra geral, o fornecimento do fármaco por decisão judicial, independentemente do custo.
+
+    2. É possível, excepcionalmente, a concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, desde que preenchidos, cumulativamente, os seguintes requisitos, cujo ônus probatório incumbe ao autor da ação:
+
+    (a) negativa de fornecimento do medicamento na via administrativa, nos termos do item “4” do Tema 1.234 da repercussão geral;
+
+    (b) ilegalidade do ato de não incorporação do medicamento pela Conitec, ausência de pedido de incorporação ou da mora na sua apreciação, tendo em vista os prazos e critérios previstos nos artigos 19-Q e 19-R da Lei nº 8.080/1990 e no Decreto nº 7.646/2011;
+
+    (c) impossibilidade de substituição por outro medicamento constante das listas do SUS e dos protocolos clínicos e diretrizes terapêuticas;
+
+    (d) comprovação, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise;
+
+    (e) imprescindibilidade clínica do tratamento, comprovada mediante laudo médico fundamentado, descrevendo inclusive qual o tratamento já realizado; e
+
+    (f) incapacidade financeira de arcar com o custeio do medicamento.
+
+    3. Sob pena de nulidade da decisão judicial, nos termos do artigo 489, § 1º, incisos V e VI, e artigo 927, inciso III, § 1º, ambos do Código de Processo Civil, o Poder Judiciário, ao apreciar pedido de concessão de medicamentos não incorporados, deverá obrigatoriamente:
+
+    (a) analisar o ato administrativo comissivo ou omissivo de não incorporação pela Conitec ou da negativa de fornecimento da via administrativa, à luz das circunstâncias do caso concreto e da legislação de regência, especialmente a política pública do SUS, não sendo possível a incursão no mérito do ato administrativo;
+
+    (b) aferir a presença dos requisitos de dispensação do medicamento, previstos no item 2, a partir da prévia consulta ao Núcleo de Apoio Técnico do Poder Judiciário (NATJUS), sempre que disponível na respectiva jurisdição, ou a entes ou pessoas com expertise técnica na área, não podendo fundamentar a sua decisão unicamente em prescrição, relatório ou laudo médico juntado aos autos pelo autor da ação; e
+
+    (c) no caso de deferimento judicial do fármaco, oficiar aos órgãos competentes para avaliarem a possibilidade de sua incorporação no âmbito do SUS.”
+
+    16. Alega-se, ainda, na presente reclamação, descumprimento aos enunciados sumulares nº 60 e nº 61 do STF, de seguinte teor:
+
+    “SV. 60: O pedido e a análise administrativos de fármacos na rede pública de saúde, a judicialização do caso, bem ainda seus desdobramentos (administrativos e jurisdicionais), devem observar os termos dos 3 (três) acordos interfederativos (e seus fluxos) homologados pelo Supremo Tribunal Federal, em governança judicial colaborativa, no tema 1.234 da sistemática da repercussão geral (RE 1.366.243).”
+
+    “SV. 61: A concessão judicial de medicamento registrado na ANVISA, mas não incorporado às listas de dispensação do Sistema Único de Saúde, deve observar as teses firmadas no julgamento do Tema 6 da Repercussão Geral (RE 566.471).”
+
+    17. Nota-se que, no Tema RG nº 6, o Supremo Tribunal Federal analisou sob quais condições o Poder Judiciário estaria autorizado a determinar o fornecimento de medicamento registrado na Anvisa, mas não incorporado às listas de dispensação do Sistema Único de Saúde. Na ocasião, o Plenário desta Corte concluiu, baseado nos princípios da universalidade e da igualdade no acesso à saúde, que a concessão judicial de medicamentos deve se limitar a casos excepcionais, desde que preenchidos, cumulativamente, os requisitos especificados no item 2 da respectiva ementa.
+
+    18. In casu, a 2ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, em sede de agravo de instrumento, deu provimento ao recurso e deferiu a tutela provisória de urgência, para o fim de determinar ao Estado do Rio Grande do Sul que forneça ao ora beneficiário os medicamentos vindicados (e-doc. 4).
+
+    19. Em Despacho datado de 15/03/2025, o Juizado Especial Cível Adjunto da Comarca de Coronel Bicaco, consideradas as decisões desta Corte Suprema nos Temas RG nº 6 e nº 1.234, oportunizou às partes a juntada de documentos complementares, bem como a apresentação de novos requerimentos de produção probatória, nos seguintes termos (e-doc. 3, p. 105):
+
+    “(...) Em face do recente julgamento dos Temas 6 e 1234 da Repercussão Geral do STF, intimo as partes para que se manifestem sobre os reflexos dessas decisões sobre a presente ação, oportunizando-se a juntada de documentos complementares e novos requerimentos de produção probatória.
+
+    Ainda, intime-se a parte autora para proceder à juntada de laudo médico atualizado quanto ao seu estado atual de saúde, diante do fornecimento dos medicamentos pelo demandado, devendo indicar a inexistência de substitutos disponíveis no SUS, bem como as consequências no caso da interrupção do tratamento. O laudo deverá, também, detalhar o tratamento realizado antes do ajuizamento da ação, incluindo medicamentos, posologia e tempo de uso.
+
+    Ademais, deverá comprovar, à luz da medicina baseada em evidências, da eficácia, acurácia, efetividade e segurança do fármaco, necessariamente respaldadas por evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados e revisão sistemática ou meta-análise.
+
+    Prazo de 30 dias para atender às determinações.
+
+    Após, voltem conclusos. (...).”
+
+    20. A 2ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul rejeitou os embargos de declaração em agravo de instrumento, mantendo a concessão de medida liminar e, por conseguinte, a determinação de fornecimento dos fármacos vindicados (e-doc. 5).
+
+    21. Destaco que a NatJus, por meio das Notas Técnicas 241099 (e-doc. 3, p. 37-44) e 344798 (e-doc. 3, p. 133-140), manifestou-se não favorável à dispensação do medicamento Trimbow, alegando inexistirem elementos técnicos suficientes para sustentar a indicação pleiteada em regime de urgência do fármaco Nasonex.
+
+    22. A decisão reclamada, no entanto, determinou a concessão do fármaco sob os seguintes argumentos:
+
+    “Na situação em exame, o laudo médico que instrui o pedido exordial (eventos 1, LAUDOS) é claro ao afirmar que o autor é acometido por outras formas especificadas de doença pulmonar obstrutiva crônica (CID 10 J44.8), sendo necessária a dispensação dos fármacos vindicados pelo risco de dispneia, exacerbações de repetição e morbimortalidade. Salienta ter feito o uso de outros medicamentos (beclometasona 100mg, formoterol, entre outros), sem, contudo, obter o resultado esperado, restando presentes os requisitos legais para concessão da tutela, de modo a justificar a dispensação diferenciada.
+
+    Embora não se possa descurar do zelo para com que o profissional do E-Natjus utilizou na elaboração do laudo anexado ao feito de origem (evento 7, NOTATEC1), este não pode se sobrepor à avaliação realizada pelo médico assistente que acompanha o tratamento da parte autora, com a indicação do fármaco prescrito que se mostra imprescindível.”
+
+    23. Ao assim agir, a decisão reclamada afrontou a tese fixada no Tema RG nº 1.234, quando diz:
+
+    “4.3) Tratando-se de medicamento não incorporado, é do autor da ação o ônus de demonstrar, com fundamento na Medicina Baseada em Evidências, a segurança e a eficácia do fármaco, bem como a inexistência de substituto terapêutico incorporado pelo SUS.
+
+    4.4) Conforme decisão da STA 175-AgR, não basta a simples alegação de necessidade do medicamento, mesmo que acompanhada de relatório médico, sendo necessária a demonstração de que a opinião do profissional encontra respaldo em evidências científicas de alto nível, ou seja, unicamente ensaios clínicos randomizados, revisão sistemática ou meta-análise.”
+
+    27. Ante o exposto, nos termos do art. 21, § 1º, do RISTF, julgo procedente o pedido para cassar a decisão reclamada e determinar que outra seja proferida em observância aos requisitos impostos pelos Temas RG nº 6 e nº 1.234 e pelos enunciados nº 60 e nº 61 da Súmula Vinculante do STF. Sem honorários, de acordo com o entendimento prevalecente da Segunda Turma do Supremo Tribunal Federal.
+
+    Comunique-se.
+
+    Publique-se.
+
+    Brasília, 29 de outubro de 2025.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
