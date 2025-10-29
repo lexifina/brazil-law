@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O improvimento do agravo regimental foi fundamentado, de modo suficiente, na incidência do óbice da Súmula n. 83 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+6. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por NOVOPLAST COMERCIAL TERMOPLAST LTDA. contra acórdão assim ementado (fls. 2485-2486):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. PRAZO ESPECÍFICO. INEXISTÊNCIA. PRECEDENTES. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AFASTAMENTO DO ÓBICE NÃO EVIDENCIADO. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULITTÉ SANS GRIEF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Se o julgado da Corte de origem encontra-se em consonância com o entendimento preconizado no Superior Tribunal de Justiça, incide a Súmula n. 83 do STJ.
+2. O cumprimento extemporâneo de mandado de busca e apreensão, apenas um dia após a data final fixada pelo Juízo de origem, não viola previsão legal, configurando mera irregularidade. O regramento da busca e apreensão (arts. 240 a 250 do CPP) não determina prazo específico e peremptório para a realização do ato. Assim, é certo que a extrapolação do marco temporal fixado judicialmente, por um ou poucos dias, não determina a ausência dos fundamentos que ensejaram a determinação da diligência. Precedentes do STJ.
+3. A superação da Súmula n. 83 do STJ exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar o julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.4. Não comprovada pelo agravante a existência de prejuízo na realização da diligência um único dia após findo o prazo indicado no mandado para a realização de várias e complexas diligências, prevalece o consagrado princípio do pás de nullité sans grief, previsto no art. 563 do CPP.
+5. Agravo regimental improvido.
+A parte embargante aponta as seguintes omissões:
+a) ausência de enfrentamento da determinação judicial expressa de prazo e de sua força vinculante, inclusive à luz do pedido ministerial de reexpedição, com a necessária avaliação se o cumprimento após o termo equivaleria a diligência sem mandado válido (arts. 241 e 245 do CPP - fl. 2535);
+b) falta de análise do caráter essencial do mandado e do controle temporal da autorização judicial, considerando que a apresentação de mandado vencido inviabilizaria a entrada em domicílio e a apreensão, com ilicitude das provas (arts. 240 a 250, 241 e 245 do CPP - fl. 2.535);
+c) inexistência de distinguishing dos precedentes invocados para aplicar a Súmula n. 83 do STJ, pois os casos citados tratariam de cumprimento tardio justificado por estratégia investigativa, ao passo que aqui houve prazo judicial expresso desrespeitado sem justificativa idônea (fls. 2.534-2.536) e;
+d) omissão quanto à inviolabilidade do domicílio e ao princípio da legalidade da ordem judicial (art. 5º, XI, da Constituição), com necessidade de confrontar os documentos que demonstram o vencimento do mandado (fl. 2.536).
+Sustenta, ainda, que não houve exame do prejuízo concreto, porque o acórdão teria recorrido a fundamentação genérica do art. 563 do CPP.
+Requer o acolhimento dos embargos para integrar o acórdão com manifestação expressa sobre os argumentos defensivos (fls. 2.539-2.540).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O improvimento do agravo regimental foi fundamentado, de modo suficiente, na incidência do óbice da Súmula n. 83 do STJ.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Não cabe ao Superior Tribunal de Justiça manifestar-se acerca de dispositivos constitucionais, ainda que para prequestionamento, conforme precedentes.
+6. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+Não há como se acolher o pedido pois, conforme registrado no acórdão embargado (fl. 2.487):
+ ..  a busca e apreensão, prevista nos arts. 240 a 250 do CPP, não prevê prazo específico e peremptório para a realização do ato. Assim, é certo que a extrapolação do limite temporal fixado pelo Juízo de origem, por um ou poucos dias, não determina a ausência dos fundamentos que ensejaram a determinação da busca, conforme reiterada jurisprudência do Superior Tribunal de Justiça, o que atrai o óbice da Súmula n. 83 do STJ, pois o julgado da Corte de origem está de acordo com o entendimento desta Corte.
+Ainda que a defesa sustente a nulidade pelo cumprimento da busca e apreensão em 14/8/2014, um dia após o prazo final expresso no mandado reexpedido em 14/7/2014 por 30 dias, a pedido do MPF em razão da Copa do Mundo, não há demonstração de prejuízo concreto, tendo sido corretamente aplicado pela decisão embargada o princípio do pas de nullité sans grief.
+Além disso, os precedentes citados aplicam-se ao caso concreto, ainda que dois deles mencionem o retardo das diligências por resguardo do trabalho investigativo. No AgRg no HC n. 788.025/RS citado no voto consta expressamente que (fl. 2.487):
+ ..  Não há, no ordenamento jurídico brasileiro, prazo específico para o cumprimento do mandado de busca e apreensão. Apesar de o mandado de busca e apreensão ter sido cumprido 10 dias após o prazo delimitado, não faz desaparecer os elementos que haviam justificado a determinação judicial, sendo legítima a atuação policial na loja e, posteriormente, na residência, amparada com elementos colhidos previamente, de comércio espúrio, realizado no estabelecimento comercial, com estoque em residência.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acórdão, pro pósito inviável em embargos de declaração, nada havendo que se possa acolher.
+Ainda, consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp n. 2.372.869/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024; e EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.
+Por fim, quanto ao pleito de omissão quanto à suposta violação ao art. 5º, XI, da Constituição, não cabe "a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl no AgRg no AREsp n. 2.597.307/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024; e EDcl no AgRg no AREsp n. 2.487.334/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
