@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MULTIPROPRIETE PARTICIPACOES S.A. contra decisão monocrática de minha relatoria, por meio da qual conheci do conflito para declarar competente o Juízo recuperacional (fls. 61-64).
+Aduz a parte agravante que (fls. 188-190):
+A Agravante, em seus Embargos de Declaração, buscou esclarecer que a Suscitante, SPE CHL XCII, omitiu informação essencial ao induzir Vossa Excelência a erro: o empreendimento "The City Business District" possui patrimônio de afetação, devidamente averbado na AV-9 da matrícula 378.711 do 9º RGI.
+Conforme a Lei nº 4.591/1964 (Lei de Incorporações), o patrimônio de afetação constitui um regime de incomunicabilidade, pelo qual os bens e direitos a ele vinculados não se comunicam com o patrimônio geral da incorporadora. Isso significa que os créditos e obrigações oriundos dos contratos de alienação das unidades imobiliárias, bem como as obrigações de construção e entrega dos imóveis, são insuscetíveis de novação e, portanto, incompatíveis com o regime da recuperação judicial.
+ ..
+A r. decisão agravada, ao rejeitar os Embargos de Declaração, limitou-se a reiterar a regra geral de que os atos de execução contra empresas em recuperação judicial devem ser processados pelo Juízo universal. Contudo, não considerou e nem enfrentou a questão central e específica do patrimônio de afetação, que, por sua natureza jurídica e previsão legal expressa, constitui uma exceção a essa regra geral. A omissão em analisar e decidir sobre essa premissa fática e jurídica essencial configura um erro que macula a decisão e impede a correta aplicação do direito ao caso concreto.
+O crédito da Agravante, inclusive, não se encontra na lista de credores da recuperação judicial, o que reforça a tese de que não deve ser submetido àquele Juízo.  ..
+Diante de todo o exposto, é imperioso reconhecer que a SPE CHL XCII, no que tange ao empreendimento "The City Business District", não se submete à recuperação judicial da PDG Realty em razão do patrimônio de afetação.
+Consequentemente, a competência para o cumprimento de sentença deve permanecer com o Juízo da 2ª Vara Cível da Barra da Tijuca/RJ, onde o processo originário tramitou.
+A manutenção da decisão agravada implicaria em grave prejuízo à Agravante, que teria seu crédito indevidamente submetido a um regime jurídico do qual está legalmente excluído, em contrariedade à Lei de Incorporações e ao próprio entendimento anterior deste Superior Tribunal de Justiça.
+Requer, caso não seja reconsiderada a decisão agravada, que seja o presente agravo submetido à apreciação da Seção.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 210-216).
+O JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP prestou informações complementares às fls. 223-230.
+É, no essencial, o relatório.
+Consoante a jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, sob a égide tanto do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Assim, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Da análise dos autos e das informações prestadas, observa-se que o JUÍZO DE DIREITO DA 2A VARA CÍVEL DA BARRA DA TIJUCA - RJ deferiu a penhora de ações da empresa suscitante até o valor da integralidade da execução (fl. 24).
+Em suas razões, a parte agravante alega que o empreendimento de interesse da agravante e relacionado à suscitante foi excluído da recuperação judicial, por ter patrimônio de afetação ativo.
+Diante da necessidade de esclarecimentos, oficiou-se ao Juízo recuperacional para que se manifestasse quanto ao ponto e em relação à sua eventual oposição à decisão do Juízo da execução, considerando o atual estágio do processo de soerguimento da suscitante e suas recentes manifestações em incidentes como o destes autos (fl. 218).
+Dessarte, em que pese a controvérsia acerca do patrimônio de afetação, da análise do ofício do Juízo recuperacional constata-se que este não se opôs à determinação do Juízo da execução e afastou sua competência para processar constrições judiciais sobre bens da empresa suscitante, tendo em vista o encerramento do processo de soerguimento. Vejamos (fl. 228):
+Ainda, o último QGC publicado pela Administradora Judicial em seu site ocorreu em 05 de outubro de 2025, com os créditos habilitados até 30 de setembro de 2025. Assim, verifico não constar o nome da credora Multipropriete Participações S.A. na relação de credores, nem haver notícia de distribuição de incidente de habilitação ou impugnação de crédito. Desse modo, ausentes maiores informações sobre a data de constituição do crédito, não é possível afirmar se está sujeito aos efeitos da recuperação judicial, ainda que não conste do quadro de credores.
+Por fim, acrescento que este Juízo não vislumbra óbice ao prosseguimento de execuções de créditos extraconcursais diretamente perante os juízos competentes, considerando que já encerrada a recuperação judicial, pendente tão somente o julgamento de recurso perante o C. Superior Tribunal de Justiça. Ademais, respeitado entendimento diverso, este Juízo recuperacional não é competente para processar execuções referente a créditos extraconcursais ou determinar constrições judiciais sobre bens de sociedade empresária devedora cujo processo de soerguimento já se encontre encerrado, não se vislumbrando risco à recuperação judicial.
+Assim, a inexistência de decisões contraditórias entre o Juízo da execução e o Juízo da recuperação judicial demonstra a ausência de conflito de competência a ser resolvido.
+A propósito, cito precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA DO TRABALHO. AGRAVO INTERNO DESPROVIDO.
+ ..
+IV. Dispositivo e tese
+10. Agravo interno desprovido.
+Tese de julgamento: "1. A caracterização do conflito de competência no contexto de recuperação judicial exige decisão de dois juízos sobre o mesmo tema. 2. A simples suspensão de execuções não caracteriza oposição do Juízo da recuperação às medidas da Justiça do Trabalho. 3. A cooperação judicial pode ser instaurada em execuções comuns, não se limitando a execuções fiscais, ante a aplicação do princípio da menor onerosidade".
+Dispositivos relevantes citados: Lei n. 11.101/2005, art. 6º, § 7º-B; CPC, art. 300.Jurisprudência relevante citada: STJ, AgInt nos EDcl no CC n. 200.792/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 28/5/2024; STJ, CC n. 191.533/MT, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2024.
+(AgInt nos EDcl no CC n. 202.096/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 19/8/2025, DJEN de 25/8/2025, grifo meu.)
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. EMPRESA EM RECUPERAÇÃO JUDICIAL. ATO CONSTRITIVO PRATICADO APÓS O TÉRMINO DO STAY PERIOD. CRÉDITO DE NATUREZA EXTRACONCURSAL. INEXISTÊNCIA DE OPOSIÇÃO CONCRETA PELO JUÍZO DA RECUPERAÇÃO. CONFLITO DE COMPETÊNCIA NÃO CONFIGURADO. AGRAVO DESPROVIDO. I. CASO EM EXAME
+ ..  IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. O conflito de competência entre o juízo da recuperação judicial e o juízo da execução somente se configura quando há oposição concreta ou deliberação expressa do juízo da recuperação sobre a essencialidade dos bens objeto da constrição. 2.
+Encerrado o stay period e ausente manifestação do juízo da recuperação, o prosseguimento da execução de crédito extraconcursal, com a realização de atos constritivos, não caracteriza usurpação de competência. 3. Créditos oriundos de cédulas rurais possuem natureza extraconcursal e não se submetem aos efeitos da recuperação judicial, autorizando sua execução autônoma mesmo contra empresa em recuperação".
+Dispositivos relevantes citados: Lei n. 11.101/2005, art. 6º, §§ 4º, 7º-A e 7º-B; CPC/2015, art. 69.
+Jurisprudência relevante citada: STJ, AgInt no CC n. 181.302/PE, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 15/3/2022; STJ, CC n. 196.846/RN, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2024.
+(AgInt no CC n. 190.109/MG, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 3/4/2025, DJEN de 9/4/2025, grifo meu.)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar as decisões de fls. 61-64 e 178-181, e não conhecer do conflito de competência.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
