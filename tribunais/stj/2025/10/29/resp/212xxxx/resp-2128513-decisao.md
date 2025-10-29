@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 56 - grifo no julgado):
+EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - SEGURO DE VIDA EM GRUPO CONTRATADO PELO EMPREGADOR - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - RECURSO DESPROVIDO.
+Versando a demanda sobre indenização relativa à seguro de vida em grupo contratado pela empregadora do autor e, como tal, decorrente de relação de trabalho, a competência para processar e julgar a ação é da Justiça do Trabalho, nos termos do art. 114, IX, Constituição Federal, e da jurisprudência dos tribunais superiores.
+Os embargos de declaração foram rejeitados (fls. 81-85).
+Em suas razões (fls. 87-100), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, sob o argumento de que o "acórdão não apreciou que a matéria em debate nos autos é exclusivamente securitária, decorrente de contrato de seguro firmado entre o segurado e a seguradora, matéria de competência do Direito Civil e da Justiça Comum" (fl. 89). Também sustenta que "não foi abordado na decisão recorrida que apesar de ser um seguro de vida em grupo, firmado em razão da existência de uma relação de emprego, sua natureza é de contrato civil, não havendo nos autos qualquer discussão sobre a relação trabalhista entre empregado e empregador, limitando-se a lide apenas ao direito a indenização prevista no seguro contratado" (fl. 89);
+(ii) arts. 757 e 801 do CC/2002, asseverando que o Código Civil, mais especificamente nesses dispositivos, "estabelece que a matéria securitária, inclusive sobre o seguro de vida em grupo, objeto dos autos, é regida pelo Direito Civil e pelo Código Civil, enquanto o acórdão recorrido entendeu que a matéria objeto dos autos é de competência da Justiça do Trabalho" (fl. 90).
+Argumenta que o "fato de o seguro coletivo ter sido contratado por intermédio do empregador, e o autor pretender indenização securitária decorrente de doença ocupacional - acidente de trabalho -, não torna a Justiça do Trabalho competente para processar a demanda, pois o mérito da ação envolve exclusivamente a relação jurídica securitária sobre o alcance das cláusulas do contrato de seguro, matéria afeta apenas ao Direito Civil e ao Código de Defesa do Consumidor, ou seja, de competência residual da Justiça Comum" (fl. 93 - grifos no recurso).
+Contrarrazões apresentadas (fls. 123-129).
+O recurso foi admitido na origem (fls. 131-140).
+É o relatório.
+Decido.
+(i) Inexiste afronta ao art. 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação às teses de que "a matéria em debate nos autos é exclusivamente securitária, decorrente de contrato de seguro firmado entre o segurado e a seguradora, matéria de competência do Direito Civil e da Justiça Comum" e de que, "apesar de ser um seguro de vida em grupo, firmado em razão da existência de uma relação de emprego, sua natureza é de contrato civil, não havendo nos autos qualquer discussão sobre a relação trabalhista entre empregado e empregador, limitando-se a lide apenas ao direito a indenização prevista no seguro contratado" (fl. 89), o Tribunal de origem assim se manifestou (fls. 57-58 - grifos no acórdão):
+Em que pesem os argumentos expendidos, tenho que o decisum recorrido não merece reparos.
+É fato que a jurisprudência do STJ já orientou no sentido de que "compete à Justiça Comum Estadual o julgamento da ação proposta pelo segurado em face da seguradora e da empregadora, por meio da qual pretende o recebimento de indenização securitária, fundada em seguro de vida em grupo e em seguro de acidentes pessoais, haja vista a sua invalidez ocorrida durante a vigência de seu contrato de trabalho" (STJ, AgRg no CC n. 129.791/MT, relator Ministra Nancy Andrighi, Segunda Seção, julgado em 26.03.2014, DJe DE 1/4/2014).
+Entrementes, julgados mais recentes permitem concluir que a jurisprudência do STJ sinaliza mudança, no sentido de reconhecer a competência da Justiça do Trabalho, pois se "a demanda é motivada com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes, então a competência para seu julgamento será da Justiça do Trabalho, de acordo com o art. 114, IX da CF/88" (STJ, CC 157.664/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 23.05.2018, DJe 25/05/2018).
+Nessa mesma toada julgados da subseção especializada em dissídios individuais e de todas as 8 (oito) turmas do Tribunal Superior do Trabalho dispõem que as ações com pedido de indenização decorrente de vantagem outorgada pelo empregador, como o seguro de vida em grupo contratado para empregados, atraem a competência da Justiça do Trabalho. A propósito:
+ ..
+Também no RE 825674/DF e no RE 612.986/DF, o Supremo Tribunal Federal, por meio de decisões monocráticas, enfrentou a questão e atribuiu a competência para o processamento e julgamento das controvérsias acerca de seguro de vida coletivo contratado pela empregadora à Justiça do Trabalho.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+(ii) Observa-se que a Corte de origem fundou-se em precedente baseado no art. 114, IX, da CF/1988, de modo que apresentou fundamento constitucional capaz de manter o acórdão recorrido e a parte recorrente não interpôs recurso extraordinário.
+Portanto, inafastável a incidência da Súmula n. 126 do STJ.
+Ainda que assim não fosse, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 757 e 801 do CC/2002 - segundo os quais, "Pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados" e " O seguro de pessoas pode ser estipulado por pessoa natural ou jurídica em proveito de grupo que a ela, de qualquer modo, se vincule", respectivamente -, porque as normas em referência nada dispõem a respeito da tese relativa à competência.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ademais, o dissídio jurisprudencial não foi comprovado nos moldes legais, uma vez que não se admite como paradigma acórdão proferido em Conflito de Competência.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO PARADIGMA PROFERIDO EM CONFLITO DE COMPETÊNCIA. INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se admite como paradigma para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.809.377/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, § 11, do
+CPC/2015, porquanto não foram fixados nas instâncias originárias.
+Publique-se e intimem-se.
+ EMENTA
