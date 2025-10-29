@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto SIMONE MARTINS DE SANT"ANA contra a decisão de fls. 695/701, que inadmitiu seu recurso especial, o qual foi interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), que, em ação de responsabilidade civil, negou provimento ao seu recurso de apelação, mantendo a sentença que fixou a indenização por danos morais no valor de R$ 10.000,00 (dez mil reais), nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. ACIDENTE DE TRÂNSITO. AUTORA USUÁRIA EM FACE DE CONCESSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA.
+1. Cuida-se de ação indenizatória em razão de acidente sofrido por passageira de coletivo de propriedade da concessionária ré, que, enquanto desembarcava, sofreu queda, vindo a lesionar a cabeça.
+2. O evento narrado na exordial restou incontroverso nos autos, cingindo-se a controvérsia quanto à sua dinâmica. Alega a autora que o fato se deu em decorrência de conduta do preposto da ré, que parou o ônibus fora do local devido, arrancando com o coletivo antes que a passageira pudesse completar o seu desembarque. A parte ré, por sua vez, sustenta que a usuária tropeçou na escada, dando causa à sua própria lesão corporal. Assim, sua tese de defesa é no sentido da culpa exclusiva da vítima.
+3. O juízo de primeiro grau julgou parcialmente procedentes os pedidos, ao fundamento de que, finda a instrução, restaram comprovadas as alegações contidas na inicial, de modo que a parte autora logrou êxito na comprovação do fato constitutivo do seu direito, nos termos do art. 373, inciso I do Código de Processo Civil, notadamente diante da prova oral colhida em juízo.
+4. A detida análise dos autos nos permite concluir pela ausência de qualquer prova de fato impeditivo, modificativo ou extintivo do direito da autora, ou ainda, de culpa da vítima, devendo o evento danoso ser analisado à luz das regras de responsabilidade civil objetiva, já que a demandada, na qualidade de prestadora de serviço público, responde na forma disposta no art. 37, § 6º, da CFRB/88.
+5. Em que pese se tratar de responsabilidade objetiva, esta não pode ser confundida com a responsabilidade fundada na Teoria do risco integral, uma vez que tanto o fato exclusivo da vítima como o fato de terceiro constituem excludentes do nexo de causalidade.
+6. Registre-se que, a se admitir a responsabilização do prestador de serviço público, ainda que não tenha sido demonstrado que da sua conduta decorreu o evento danoso, estar-se-ia albergando, em hipótese não autorizada pelo ordenamento jurídico, a teoria do risco integral, segundo a qual o Estado se obriga a reparar todo e qualquer dano, independentemente de causa excludente de responsabilidade, como caso fortuito, força maior ou culpa exclusiva da vítima.
+7. Estabelecidas tais premissas, entendo que os elementos configuradores da responsabilidade civil da segunda apelante restam plenamente configurados, a atrair o dever jurídico de reparação dos prejuízos causados a autora, vítima de acidente durante desembarque do coletivo.
+8. O acidente e a lesão dele decorrente restaram devidamente comprovados, por meio de boletim de registro de acidentes de trânsito e documentação médica emitida por hospital municipal.
+9. No mesmo sentido a prova pericial, conclusiva no sentido de que as lesões apresentadas (com diagnóstico de "cefaleia e corte em região occipital") são compatíveis com a dinâmica do acidente.
+10. A todo conjunto probatório, soma-se as declarações de testemunha ouvida pelo juízo, que corroboram as alegações da autora, no sentido de que o coletivo reiniciou a viagem antes que a autora concluísse o desembarque, causando a queda da passageira.
+11. Dano moral inconteste.
+12. Quantum devidamente arbitrado.
+13. Dano material devidamente comprovado.
+14. Pequeno reparo, de ofício, quanto à atualização do valor da indenização dos danos materiais.
+15. Desprovimento dos recursos.
+Nas razões do recurso especial, alega a recorrente, ora agravante, em síntese, que o acórdão recorrido violou o art. 944 do Código Civil, ao manter indenização por danos morais em valor que considera ínfimo, incompatível com a extensão do dano sofrido.
+Quanto à suposta ofensa ao art. 944 do Código Civil, sustenta que o montante fixado (R$ 10.000,00 - dez mil reais) não observa os princípios da razoabilidade e proporcionalidade, tampouco o caráter pedagógico da indenização, especialmente diante da lesão física sofrida em acidente dentro de transporte coletivo, que resultou em corte na região occipital, cefaleia e afastamento de suas atividades laborais.
+Contrarrazões ao recurso especial às fls. 676/685.
+Assim, delimitada a controvérsia, passo a decidir.
+Após atenta análise das razões do recurso, é possível concluir que não merece prosperar a alegada violação ao art. 944 do Código Civil. A indenização fixada no acórdão recorrido, a título de danos morais, mostra-se proporcional, sendo suficiente para indenizar a vítima pelos prejuízos sofridos.
+Ademais, vale ressaltar que a questão relativa ao valor do arbitramento do dano moral é de natureza casuística, cabendo reexame perante o Superior Tribunal de Justiça somente quando o valor fixado pela origem se revelar absurdo, fora dos padrões da razoabilidade, o que não ocorreu no caso concreto.
+Corroborando tal entendimento, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. DANO MORAL. VALOR. FIXAÇÃO EM PATAMAR RAZOÁVEL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. (..)
+3. Os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não se verifica no caso concreto.
+4. Agravo interno não provido.
+(AgInt no AREsp 985.340/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 11/4/2017).
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACIDENTE DE TRÂNSITO - PROPORÇÃO DE CULPA DA VÍTIMA E GRAU DE INVALIDEZ PERMANENTE - REVISÃO - NECESSIDADE DE REEXAME DE PROVAS - IMPOSSIBILIDADE - INTELIGÊNCIA DA SÚMULA 7 /STJ - INDENIZAÇÃO POR DANOS MORAIS - VALOR ARBITRADO COM RAZOABILIDADE - DESNECESSIDADE DE INTERVENÇÃO DESTE STJ. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO - INSURGÊNCIA DA RÉ.
+1. A pretensão de reexame das provas coligidas aos autos é inviável em sede de recurso especial, instrumento processual destinado, precipuamente, à guarda do Direito Federal infraconstitucional, através da uniformização da jurisprudência dos Tribunais de Justiça e dos Tribunais Regionais Federais. Incidência da Súmula 7 /STJ.
+2. No que tange ao quantum indenizatório, desnecessária a excepcionalíssima intervenção deste STJ, mormente quando evidenciado que o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades do caso.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 202.155/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 31/8/2015).
+No caso em exame, o Tribunal local arbitrou a indenização a título de danos morais em R$ 10.000,00 (dez mil reais) em favor da autora da demanda, valor que se mostra razoável e proporcional, não se justificando, portanto, a excepcional intervenção desta Corte Superior de Justiça.
+Em face do exposto, nos termos da fundamentação supra, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
