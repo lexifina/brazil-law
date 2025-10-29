@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial manejado contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 377):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA E INDENIZATÓRIA - REVELIA - PRESUNÇÃO DE VERACIDADE DAS ALEGAÇÕES FÁTICAS DO AUTOR - CARTÃO DE CRÉDITO CONSIGNADO - INTERESSE NA CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO - ERRO SUBSTANCIAL DEMONSTRADO - CONVERSÃO DO NEGÓCIO JURÍDICO PARA CONTRATO DE EMPRÉSTIMO CONSIGNADO - RESTITUIÇÃO EM DOBRO DO INDÉBITO - NÃO CABIMENTO - DANOS MORAIS - CONFIGURAÇÃO
+- Não concretizada nenhuma das hipóteses legais capazes de inibir o efeito material da revelia, devem ser presumidas verdadeiras, diante da não apresentação tempestiva da contestação, as alegações de fato da parte autora, nos termos do artigo 344 do CPC, mormente quando corroboradas pelas provas dos autos.
+- Verificado que, a despeito de indicada a modalidade de cartão de crédito consignado no ajuste, a instituição financeira, na prática, atua como se tratasse de um empréstimo consignado padrão, gerando equívoco no consumidor acerca da real modalidade contratada, deve ser acolhido o pedido de anulação do negócio jurídico ante a configuração do erro substancial (IRDR/TJMG n. 1.0000.20.602263-4/001 - Tema 73).
+- Aplicando-se o antigo entendimento do STJ pelo qual o direito à devolução em dobro previsto no artigo 42, parágrafo único, do CDC, pressupõe a má-fé do fornecedor na cobrança do valor pago indevidamente, incumbe ao consumidor o ônus de provar as circunstâncias das quais se possa inferi-la, pelo que, se não se desincumbe deste ônus, a repetição deve se dar de modo simples.
+- "Examinado o caso concreto, se a prova dos autos indicar que a instituição financeira impingiu ao consumidor um contrato de cartão de crédito consignado ou se a referida instituição omitiu informações relevantes e induziu realmente o consumidor a erro, fica evidenciado o dano moral" (IRDR/TJMG n. 1.0000.20.602263-4/001 - Tema 73).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos arts. 186, 187, 927, 944 do Código Civil e ao art. 6º, VI, do Código de Defesa do Consumidor.
+Defende a majoração do valor da indenização por danos morais, tendo em vista que o montante de R$ 500,00 (quinhentos reais), revela-se irrisório e desconsidera a gravidade da conduta ilícita praticada e os prejuízos causados à recorrente.
+Afirma que a quantia fixada mostra-se desproporcional e destoa dos parâmetros de razoabilidade, razão pela qual requer a majoração do valor indenizatório para o patamar de R$ 20.000,00 (vinte mil reais).
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se na origem de ação declaratória de inexistência de relação jurídica cumulada com repetição de indébito e indenização por danos morais, proposta por Maria Francisca de Souza Fernando contra Banco BMG S/A, alegando a parte autora que foi induzida a erro na contratação de cartão de crédito consignado (RMC) quando a intenção era empréstimo consignado.
+O juízo de origem julgou improcedentes os pedidos, ao fundamento de que não foi demonstrada a existência de vício na contratação.
+O Tribunal local, ao analisar a apelação da parte autora, deu provimento ao recurso para julgar parcialmente procedentes os pedidos, reconhecendo o vício de consentimento por erro substancial e determinando a conversão do cartão consignado em empréstimo consignado. Acerca dos danos morais, o acórdão recorrido assim se manifestou (fls. 385/386):
+Sobre os danos morais, novamente volvendo ao incidente do IRDR acima mencionado, ficou definido que, "examinado o caso concreto, se a prova dos autos indicar que a instituição financeira impingiu ao consumidor um contrato de cartão de crédito consignado ou se a referida instituição omitiu informações relevantes e induziu realmente o consumidor a erro, fica evidenciado o dano moral".
+No presente caso, sendo exatamente este o cenário extraído dos autos, reputa-se configurado abalo moral indenizável, em observância ao precedente que norteia a análise da questão.
+Alcançada esta conclusão, passo a examinar o "quantum" reparatório.
+A fixação dos danos morais deve ser estabelecida pelo julgador de acordo com as peculiaridades que se apresentarem no caso concreto, sempre tendo em vista a extensão da lesão sofrida pela vítima.
+Também é importante que fique caracterizada a adequação entre a ofensa e a indenização, sob pena de restar configurado inaceitável enriquecimento de uma das partes e irregular desfalque da outra. Nesse sentido, deve permanecer a razoabilidade entre o dano e a indenização a ser fixada.
+Dessa maneira, entendo que o valor de R$500,00 se revela suficiente para propiciar à parte autora a satisfação compensatória pelos dissabores que suportou no âmbito da contratação, à luz das balizas supracitadas.
+(..)
+Segundo a jurisprudência consolidada deste Superior Tribunal de Justiça, apenas em casos excepcionais, quando identificada a estipulação de valores exorbitantes ou irrisórios, incompatíveis com os princípios da proporcionalidade e da razoabilidade, é possível a revisão do montante arbitrado a título de danos morais.
+Na hipótese, o Tribunal de origem, após a análise dos elementos fático-probatórios dos autos, considerou adequada ao caso a fixação dos danos morais na quantia de R$ 500,00 (quinhentos reais), de modo que alterar esse entendimento para majorar o valor da condenação demandaria, necessariamente, o reexame dos fatos e provas dos autos, o que é vedado nesta instância superior, nos termos da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL. CONTRATO DE PLANO DE SAÚDE. DANOS MORAIS. MAJORAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação de compensação por danos morais.
+2. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.158.313/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Quanto à interposição pela alínea "c" do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
