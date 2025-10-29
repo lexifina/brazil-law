@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por Denise Sganzela Batistus contra decisão que não admitiu o recurso especial manejado, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 77):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE IMÓVEL. BEM DE FAMÍLIA. ALEGAÇÃO DE IMPENHORABILIDADE NÃO COMPROVADA. ÔNUS DA PROVA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+A agravante reitera as razões do agravo de instrumento precedente. Reitero que não há provas acerca da alegada impenhorabilidade do imóvel por ser bem único de uso exclusivo da família. Na verdade, da análise dos autos, depreende-se que a recorrente não trouxe ao feito prova inequívoca a embasar suas alegações, ao passo que os documentos anexados são insuficientes para considerar a alegação de impenhorabilidade do bem. Nem mesmo anexou ao feito certidão do registro de imóveis dando conta de que nenhum outro bem estaria titulado em seu nome. Inexistindo motivos para o juízo de retratação, mantém-se a decisão monocrática recorrida. Recurso ao qual se nega provimento, sem a aplicação da multa prevista no § 4º do artigo 1.021 do Código de Processo Civil.
+AGRAVO INTERNO DESPROVIDO.
+Nas razões do recurso especial, a recorrente alega que o acórdão recorrido violou os arts. 832 e 833 do Código de Processo Civil; 9 e 10 do Código de Processo Civil; 369 e 370 do Código de Processo Civil; 85 do Código de Processo Civil; 1º e parágrafo único da Lei 8.009/1990; 10 da Lei 6.830/1980; 1º, III, 6º, 5º, LV, 105, § 2º e § 3º, V, da Constituição Federal.
+Sustenta impenhorabilidade do bem de família. Afirma que o imóvel penhorado é o único de propriedade da recorrente e serve de moradia, devendo ser desconstituída a penhora.
+Aduz cerceamento de defesa e decisão-surpresa. Alega que houve indeferimento de produção de prova oral, documental e depoimento pessoal, com julgamento desfavorável por ausência de provas.
+Requer cancelamento de descontos na aposentadoria e restituição em dobro, acrescidos de juros e correção.
+Pede inversão dos honorários sucumbenciais.
+Aponta, ainda, divergência jurisprudencial em torno de: (i) impenhorabilidade do bem de família, notadamente a desnecessidade de prova de que o imóvel residencial seja o único de propriedade do devedor para reconhecer a proteção da Lei 8.009/1990; e (ii) cerceamento de defesa quando há indeferimento de provas essenciais seguido de decisão desfavorável por ausência de prova.
+Banco do Estado do Rio Grande do Sul S.A. apresentou contrarrazões (fls. 151-156)
+O recurso especial não foi admitido (fls. 157-160).
+Assim delimitada a controvérsia, passo à análise do recurso.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 73-75):
+No presente feito, inconforma-se a parte agravante contra a decisão monocrática proferida nos seguintes termos (evento 13, DECMONO1):
+(..)
+Realizadas inúmeras diligências com o objetivo de penhorar bens da agravante, acabou por ser penhorado parte do bem sub judice, matrícula nº 58.434, do Registro de Imóveis da Comarca de Passo Fundo ( evento 24, MATRIMÓVEL2; evento 29, TERMOPENH1).
+(..)
+No caso, não há provas acerca da alegada impenhorabilidade do imóvel por ser bem único de uso exclusivo da família. Na verdade, da análise dos autos, depreende-se que a recorrente não trouxe ao feito prova inequívoca a embasar suas alegações, ao passo que os documentos anexados são insuficientes para considerar a alegação de impenhorabilidade do bem. Nem mesmo anexou ao feito certidão do registro de imóveis dando conta de que nenhum outro bem estaria titulado em seu nome.
+A mera alegação de que o imóvel penhorado está ao abrigo da exceção legal não se sustenta e não faz prova do fato, sendo ônus da agravante comprovar, nos termos da Lei 8.009/90, a impenhorabilidade. Competia à executada a prova da alegada impenhorabilidade, nos termos do artigo 373, inciso I, do CPC, prova essa que não veio aos autos.
+Como bem consignado pelo juízo a quo, "..A devedora limitou-se a apenas tecer as alegações. Portanto, a devedora não se desincumbiu do seu ônus de provar a alegada impenhorabilidade do bem." Nesse contexto, não restando comprovada cabalmente a alegação de que o bem penhorado seja bem de família, nos termos da legislação pertinente, imperiosa a manutenção da decisão agravada.
+Ante o exposto, nego provimento ao recurso."
+Da análise do feito, depreende-se que a ora agravante reitera as razões do agravo de instrumento, sem apontar os motivos hábeis para que haja o juízo de retratação.
+Reitero que não há provas acerca da alegada impenhorabilidade do imóvel por ser bem único de uso exclusivo da família. Na verdade, da análise dos autos, depreende-se que a recorrente não trouxe ao feito prova inequívoca a embasar suas alegações, ao passo que os documentos anexados são insuficientes para considerar a alegação de impenhorabilidade do bem. Nem mesmo anexou ao feito certidão do registro de imóveis dando conta de que nenhum outro bem estaria titulado em seu nome.
+Tenho que desnecessárias considerações adicionais quando suficientemente enfrentadas as teses arguidas pela parte agravante no recurso precedente. Em que pese a vedação à reprodução dos termos da decisão monocrática recorrida, consoante o § 3º do artigo 1.021 do Código de Processo Civil, seria de pouca valia reprisar, em outras palavras, idênticos fundamentos antes adotados, uma vez que as razões que justificam o desprovimento do presente agravo interno já foram suficientemente mencionadas quando do julgamento do agravo de instrumento.
+Assim, não havendo motivos para a reforma, é de ser mantido o decisum.
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à impenhorabilidade de bem de família, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Quanto aos demais artigos ditos violados, verifico que não foram objeto de discussão no Tribunal de origem e a parte recorrente nem sequer provocou a devida manifestação mediante a oposição de embargos de declaração, o que inviabiliza o conhecimento do recurso especial, nesse aspecto, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
