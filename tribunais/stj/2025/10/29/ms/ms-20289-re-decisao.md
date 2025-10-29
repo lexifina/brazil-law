@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto pela UNIÃO, às fls. 997-1.017, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 937):
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANULAÇÃO DA PORTARIA CONCESSIVA DA ANISTIA POLÍTICA. MILITAR DA AERONÁUTICA. PORTARIA N. 1.104/GM3/1964. DECADÊNCIA DO DIREITO DE REVISÃO. POSICIONAMENTO SEDIMENTADO PELA PRIMEIRA SEÇÃO.
+1. O caso em foco versa sobre mandado de segurança impetrado contra a anulação da Portaria concessiva da anistia política outrora conferida com base na Portaria n. 1.104/GM3/1964.
+2. A Primeira Seção, no julgamento do MS 18.606/DF, decidiu, por maioria de votos, que a via mandamental é adequada ao exame acerca da ocorrência, ou não, de decadência, para que a Administração anule o ato concessivo da anistia política outrora conferida com base na Portaria 1.104/GM3/1964, e concedeu a segurança por ter entendido que, naquele caso específico, a decadência realmente se aperfeiçoou.
+3. Na presente hipótese, constata-se que a Portaria individual n. 2.371, que concedeu a anistia ao impetrante, data de 9/12/2003, e a Portaria n. 1.445, que anulou a primeira, foi editada em 5/4/2013. Portanto, transcorreu lapso superior a 9 (nove) anos entre um ato e outro. Logo, ressoa evidente o aperfeiçoamento da decadência para revisar o ato concessivo da anistia.
+4. Segurança concedida para declarar a nulidade do ato impugnado e restabelecer a condição de militar anistiado do impetrante.
+Os embargos de declaração subsequentes foram rejeitados (fls. 987-990).
+Em suas razões, a UNIÃO sustenta, em apertada síntese, que o ato de anistia da parte impetrante teria sido concedido em desacordo com o texto constitucional, razão pela qual a sua revisão não estaria sujeita ao prazo decadencial de cinco anos, previsto no art. 54 da Lei n. 9.784/99.
+Às fls. 1.044-1.045, foi determinado o sobrestamento do recurso por versar sobre matéria semelhante àquela submetida ao rito da repercussão geral no paradigma vinculado ao Tema n. 839 do STF, cujo julgamento de mérito encontrava-se pendente na ocasião.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 839 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fl. 1.047).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fls. 1.062-1.069):
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ANULAÇÃO DE ANISTIA POLÍTICA CONFERIDA COM BASE NA PORTARIA N. 1.104/1964. JUÍZO DE RETRATAÇÃO EXERCIDO EM RAZÃO DO TEMA N. 839 DO STF. DECADÊNCIA AFASTADA. AUSÊNCIA DE OUTROS FUNDAMENTOS IMPUGNANDO A ANULAÇÃO DA ANISTIA.
+1. Trata-se de processo devolvido pela Vice-Presidência do STJ para análise de hipótese de retratação, conforme previsão do art. 1.030, II, do CPC/2015.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n. 817.338-RG/DF, submetido à sistemática da repercussão geral, paradigma do Tema 839, fixou a seguinte tese: "No exercício do seu poder de autotutela, poderá a Administração Pública rever os atos de concessão de anistia a cabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando se comprovar a ausência de ato com motivação exclusivamente política, assegurando-se ao anistiado, em procedimento administrativo, o devido processo legal e a não devolução das verbas já recebidas".
+3. Em razão do referido julgado, o Superior Tribunal de Justiça adequou a sua jurisprudência e passou a denegar a ordem em casos como tais, ao fundamento de que, "de acordo com a orientação do Pretório Excelso, ocorrendo violação direta do art. 8º da ADCT, é possível a anulação do ato de anistia pela administração pública, mesmo quando decorrido o prazo decadencial contido na Lei n. 9.784/1999" (MS 19.070/DF, rel. p/ acórdão Ministro Og Fernandes, Primeira Seção, DJe de 27/3/2020). Precedentes.
+4. O impetrante não questiona, à exceção da decadência, outros vícios que eventualmente pudessem contaminar o processo administrativo de anulação da anistia. Logo, é imperativa a aplicação do Tema n. 839, a fim de afastar a decadência e julgar válida anulação da anistia.
+5. Juízo de retratação exercido em relação aos acórdãos de fls. 937/948 e 987/990, para torná-los sem efeito. Segurança denegada.
+Opostos embargos de declaração, foram rejeitados (fls. 1.101-1.105).
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 997-1.017, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
