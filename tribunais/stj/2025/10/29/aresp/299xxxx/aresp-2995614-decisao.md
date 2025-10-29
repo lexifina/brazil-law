@@ -1,0 +1,78 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por BML ADMINISTRAÇÃO E PARTICIPAÇÕES S.A., MILTON LUÍS BELLINCANTA e MARLY CLEMÊNCIA BELLINCANTA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (fls. 235-236, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DIREITO AUTÔNOMO DO ADVOGADO. IMPUGNAÇÃO REJEITADA. ILEGITIMIDADE ATIVA AFASTADA. RECURSO DESPROVIDO.
+I. Caso em exame
+Agravo de Instrumento interposto por BML Administração e Participações S/A e outros contra decisão que rejeitou impugnação ao cumprimento de sentença dos honorários advocatícios sucumbenciais em favor da Associação dos Advogados do Banco do Nordeste do Brasil S/A (ASABNB). A decisão agravada fundamentou-se no direito autônomo dos advogados para a execução direta de honorários, conforme o art. 24, § 1º, da L. 8.906/94.
+II. Questão em discussão
+2. Duas questões são levantadas: (i) a adequação do procedimento de cumprimento de sentença para a cobrança autônoma de honorários advocatícios; e (ii) a legitimidade ativa da ASABNB para promover a execução em nome dos advogados associados.
+III. Razões de decidir
+3. Os honorários advocatícios constituem direito autônomo e podem ser cobrados de forma independente, nos próprios autos onde foram fixados, conforme o Estatuto da OAB.
+4. A ASABNB possui legitimidade para promover a execução dos honorários sucumbenciais em nome dos advogados associados, conforme seu Estatuto, que a autoriza a atuar como cessionária dos créditos e substituta processual dos associados.
+IV. Dispositivo e tese
+5. Recurso desprovido.
+Tese de julgamento: "Os honorários advocatícios sucumbenciais, como direito autônomo do advogado, podem ser executados autonomamente, ainda que em processo separado, e a associação dos advogados possui legitimidade para atuar como cessionária dos créditos sucumbenciais dos associados."
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 307-313, e-STJ.
+Nas razões de recurso especial (fls. 320-340, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 489, § 1º, IV, e 1.022, II, do CPC; art. 85, § 13, do CPC; art. 23, caput, da Lei 8.906/94.
+Sustenta, em síntese:
+a) nulidade por negativa de prestação jurisdicional e vício de fundamentação;
+b) impossibilidade de execução autônoma dos honorários fixados em embargos à execução, que deveriam ser acrescidos ao débito principal;
+c) ilegitimidade ativa da ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO NORDESTE DO BRASIL S.A. - ASABNB por ausência de prova de associação dos advogados titulares do crédito.
+Contrarrazões apresentadas às fls. 347-377, e-STJ.
+Em juízo de admissibilidade (fls. 378/384, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 385-402, e-STJ).
+Contraminuta apresentada às fls. 405-437, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, o insurgente aponta violação aos artigos 489 e 1022 do CPC, sustentando que o Tribunal local, não fundamentou devidamente o aresto hostilizado, sendo insuficiente a motivação do acórdão.
+Aduz, em síntese, omissão no aresto recorrido quanto ao pronunciamento acerca dos seguintes pontos: "(i) da aplicação do art. 85, § 13º, do Código de Processo Civil, que estabelece o procedimento próprio para a cobrança de honorários sucumbenciais fixados em embargos à execução; e (ii) da ausência de comprovação da condição de associados dos advogados que atuaram nos referidos embargos, sendo estes os verdadeiros titulares da verba honorária, o que evidencia a ilegitimidade ativa da ASABNB para promover o cumprimento de sentença originário."
+Todavia, não se vislumbra o alegado vício, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, sem omissões, consoante se infere dos seguintes trechos (fls. 243/244, e-STJ):
+Os artigos 23 e 24, § 1º, da Lei nº 8.906/94 (Estatuto da Advocacia e da OAB) permitem a execução das verbas de sucumbência obtidas nos embargos à execução tanto nos mesmos autos da ação principal quanto em autos apartados, de forma autônoma, não configurando violação ao artigo 85, § 13, do CPC, nem aumento da verba pela escolha de execução autônoma.
+(..)
+No que tange à preliminar de ilegitimidade ativa da agravada para pleitear honorários sucumbenciais em nome dos advogados que atuaram no feito, igualmente não prosperam as alegações dos agravantes.
+(..)
+Conforme demonstrado, os advogados que representaram o Banco do Nordeste do Brasil na ação de embargos à execução são associados da ASABNB e, portanto, sujeitos ao seu Estatuto (ID 228318164)
+Depreende-se da leitura dos acórdãos recorridos , sobretudo dos trechos supratranscritos, que o órgão julgador dirimiu a questão que lhe fora posta à apreciação, inclusive sobre as questões apontadas como omissas, embora não tenha acolhido a pretensão da parte recorrente, portanto não ocorre ofensa aos citados dispositivos legais. Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; Resp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Não é demais lembrar, a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. DECADÊNCIA E IRREPETIBILIDADE DE VALORES. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. ACUMULAÇÃO DE AUXÍLIO-ACIDENTE COM APOSENTADORIA CONCEDIDA APÓS 1997. ART. 86, §§ 2º, E 3º DA LEI 8.213/1991, COM REDAÇÃO DADA PELA LEI 9.528/1997. EXIGÊNCIA DE QUE AMBOS OS BENEFÍCIOS TENHAM SIDO CONCEDIDOS ANTES DA EDIÇÃO DA LEI 9.528/1997. NÃO OCORRÊNCIA. RECURSO REPETITIVO. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+(..)
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AREsp 2672639/SP, Rel. Min. MARCO AURÉLIO BELLIZZE, SEGUNDA TURMA, julgado em 30/04/2025, DJe 08/05/2025
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO.
+CRÉDITO AO CONSUMIDOR. AÇÃO REVISIONAL. 1. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA APENAS COM BASE NA TAXA MÉDIA DE MERCADO. INADMISSIBILIDADE. VERIFICAÇÃO DOS DEMAIS REQUISITOS DELINEADOS NA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. NECESSIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. A taxa média de mercado divulgada pelo Bacen é apenas uma amostra das taxas praticadas no mercado que, entretanto, não deve ser adotado indistintamente, já que existem peculiaridades na concessão do crédito que não permite a fixação de uma taxa única, sem qualquer maleabilidade.
+3. Recurso especial parcialmente provido. (REsp 2185825/MG, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/04/2025, DJe 23/04/2025)
+Nota-se, portanto, que as alegações vertidas pelo insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Inexiste, portanto, violação aos artigos 489 e 1022 do CPC, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Verifica-se que o entendimento do acórdão recorrido não destoa da jurisprudência do STJ, no sentido de que "a interpretação do art. 85, § 13º, do CPC deve ser harmonizada com os demais dispositivos do ordenamento jurídico, os quais preveem que os honorários constituem direito do advogado e apresentam autonomia em relação ao valor do principal (art. 23 Lei do Estatuto da OAB e art. 85, § 14º, do CPC). Ademais, o art. 24, § 1º, do Estatuto da OAB dispõe que "a execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier". Em síntese, a norma prevista no art. 85, § 13º, do CPC corresponde à faculdade do advogado, sendo-lhe conferido o direito de executar em conjunto ou separadamente as verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença" (REsp n. 2.092.835/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.).
+Nesse mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE QUE HOUVE OMISSÃO QUANTO AO VALOR DA VERBA SUCUMBENCIAL PLEITEADA NA ORIGEM. AUSÊNCIA DE DEVOLUÇÃO NAS RAZÕES DO RECURSO ESPECIAL. OMISSÃO INEXISTENTE. AGRAVO INTERNO DESPROVIDO.
+1. O ponto referente ao valor pleiteado pela parte recorrida a título de honorários sucumbenciais não foi devolvido expressamente pelos recorrentes em suas razões do recurso especial, de forma que a sua apreciação por esta Corte de Justiça seria extravasar o âmbito da devolutividade.
+2. Não se pode olvidar que, tendo o colegiado local deixado de emitir qualquer juízo de valor acerca do tema, incumbia à parte recorrente alegar eventual violação ao art. 1.022 do CPC/2015, o que não ocorreu, razão pela qual lhe faltaria o devido prequestionamento.
+3. A jurisprudência do Superior Tribunal de Justiça é firme ao proclamar que a norma prevista no art. 85, § 13, do CPC/2015 confere uma faculdade ao advogado, o qual tem "o direito de executar em conjunto ou separadamente as verbas de sucumbência arbitradas em embargos à execução rejeitados ou julgados improcedentes e em fase de cumprimento de sentença" (REsp n. 2.092.835/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024), razão pela qual a orientação adotada pela Corte local está em consonância com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.124.612/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+O próprio §14 do art. 85 do CPC estabelece que "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial". Por conseguinte, nada impede que os honorários, de titularidade do advogado, sejam cobrados autonomamente.
+Em síntese, ainda que os honorários sucumbenciais decorrentes da improcedência dos embargos à execução possa ser executado conjuntamente com o débito principal da ação executiva (§ 13 do art. 85 do CPC), não há impedimento para que seja exigido em cumprimento de sentença autônomo, considerando que o crédito é de titularidade do advogado.
+3. Por fim, o entendimento do TJMT também está em conformidade com a jurisprudência desta Corte Superior de que a associação de advogados tem legitimidade para executar os honorários de sucumbência em favor de seus associados. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Esta Corte Superior tem entendimento assente no sentido de que a Associação dos Advogados do Banco do Brasil - ASABB tem legitimidade para a execução dos honorários de sucumbência em favor de seus associados.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.295.240/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. A Associação dos Advogados do Banco do Brasil - ASBB é parte legítima para executar honorários sucumbenciais pertencentes aos advogados associados. Precedente.
+2. "Arbitrados os honorários em quantia certa, os juros de mora incidem a partir do trânsito em julgado da decisão que fixou a condenação" (AgInt no AgInt no AREsp n. 1.620.576/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/3/2021, DJe de 25/3/2021).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.669.591/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA. LEGITIMIDADE ATIVA DE ASSOCIAÇÃO DE ADVOGADOS DO BANCO DO BRASIL. PRECEDENTES A RECONHECER A AUTORIZAÇÃO LEGAL, REGULAMENTAR E ESTATUTÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. MANIFESTA IMPROCEDÊNCIA DOS SUCESSIVOS ACLARATÓRIOS OPOSTOS PELO EXECUTADO. CORRETA APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+ ..
+2. Legitimidade da Associação dos Advogados do Banco do Brasil para a execução dos honorários de sucumbência em favor de seus associados. Precedente: "Nada obsta, assim, que, existindo uma associação regularmente criada para representar os interesses dos advogados empregados de determinado empregador, possa essa entidade associativa, mediante autorização estatutária, ser legitimada a executar os honorários sucumbenciais pertencentes aos "advogados empregados", seus associados, o que apenas facilita a formação, administração e rateio dos recursos do fundo único comum, destinado à divisão proporcional entre todos os associados." (REsp 634.096/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/08/2013, DJe
+29/08/2013)
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp n. 1.514.660/MS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/2/2016, DJe de 25/2/2016.)
+Assim, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Incide, na hipótese, o óbice da Súmula n. 83/STJ.
+4. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não hav endo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
