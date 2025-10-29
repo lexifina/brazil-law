@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUIZ CESAR REIS DOS SANTOS - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 5004958-72.2024.8.24.0061), não comporta processamento.
+Insurge-se a impetração contra a condenação imposta ao paciente pelo Juízo de Direito da Vara Criminal da comarca de São Francisco do Sul/SC, ao argumento de nulidade da busca domiciliar, sem fundada suspeita ou mandado judicial. Subsidiariamente, pede a desclassificação do crime de tráfico de drogas para a conduta de posse de drogas destinada a consumo próprio.
+Ocorre que é inviável a utilização da via eleita para revisar, novamente, a condenação imposta pelas instâncias ordinárias, principalmente quando transitada em julgado, sendo objeto de revisão criminal.
+Ademais, mostram-se inadmissíveis as pretensões.
+Como ressaltou o Juízo sentenciante que não houve ilicitude da prisão, pois a entrada no imóvel foi motivada pela visualização do réu Antônio em comportamento suspeito, retornando às pressas para dentro da casa ao avistar a guarnição. Além disso, os agentes narraram que no local estava o veículo relacionado a outra ocorrência e que estava sendo procurado (fl. 22 - grifo nosso).
+Em relação ao pleito de desclassificação, a Corte estadual afastou a desclassificação para o delito do art. 28 da Lei de Drogas, destacando que, mesmo que a quantidade de estupefaciente apreendida não seja de extensiva monta (65,5 g de cocaína, divididos em sete porções, e 4 g de crack), o contexto probatório (Lei n. 11.343/2006, art. 28, § 2º) em que foram apreendidas as drogas demonstra que sua finalidade não era para o consumo dos acusados, mas, sim, para o comércio ilícito de drogas (fl. 17 - grifo nosso), de modo que não vislumbro o alegado constrangimento .
+E, ainda que assim não fosse, desconstituir a conclusão das instâncias ordinárias para concluir de forma diversa ensejaria profundo revolvimento de fatos e provas, indesejável na via eleita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DE CONDENAÇÃO TRANSITADA EM JULGADO. UTILIZAÇÃO INDEVIDA DO WRIT. NULIDADE. BUSCA DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. VISUALIZAÇÃO DE VEÍCULO SOB INVESTIGAÇÃO. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. CONTEXTO PROBATÓRIO. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
