@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PRELIMINAR DE ILEGITIMIDADE PASSIVA - NÃO ACOLHIDA - MÉRITO - NULIDADE DE TÍTULO EXECUTIVO EXTRAJUDICIAL - IMPOSSIBILIDADE - CONTRATAÇÃO DE EMPRÉSTIMO PARA DAR QUITAÇÃO A OUTROS EMPRÉSTIMOS RELACIONADOS AO CAPITAL DE GIRO DA EMPRESA - DECISÃO MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+O Superior Tribunal de Justiça adota o entendimento de que a exceção de pré-executividade é servil à suscitação de questões de ordem pública, que devam ser conhecidas de ofício pelo juiz, como a nulidade do título executivo extrajudicial, por exemplo, e demais matérias de defesa. Embora o agravante assegure que à época da contratação a ex-sócia executada não mais pertencia ao quadro societário da empresa e, por isso, não detinha de legitimidade para efetivar a negociação, fato é que, de acordo com o instrumento pactuado, o empréstimo por ela assinado serviu para dar quitação as outras cédulas de crédito de capital de giro realizados anteriormente e usufruídos pela própria empresa. Desse modo, inegável a legitimidade da empresa para figurar no polo passivo da demanda executória, junto a ex-sócia avalista, porquanto utilizou-se da linha de crédito outrora concedida. Decisão mantida. Recurso conhecido e não provido.
+Alegou-se, no especial, violação dos artigos 783 e 803, I, do Código de Processo Civil sob o argumento de que não há título líquido, certo e exigível, na medida em que o empréstimo tomado pela recorrente foi contratado por pessoa que não tinha poderes para falar em seu nome.
+Ultrapassado o juízo de admissibilidade, passa-se ao exame do recurso especial.
+O Tribunal local se deparou como agravo de instrumento interposto contra decisão que rejeitou exceção de pré-executividade.
+Assim o fez ao entendimento de que:
+"(..) embora o agravante assegure que à época da contratação a executada Jéssica não mais pertencia ao quadro societário e, por isso, não detinha de legitimidade para efetivar a negociação, fato é que, de acordo com o instrumento pactuado - fls. 38/46 e fls. 47/49, o empréstimo por ela assinado serviu para dar quitação as outras cédulas de crédito de capital de giro realizados anteriormente e usufruídos pela própria empresa" (e-STJ, fl. 69).
+Prosseguiu, ainda, no sentido de que:
+"(..) a empresa agravante sequer rechaçou esse ponto levantado pelo magistrado de piso na decisão recorrida, tampouco comprovou que não beneficiou-se do valor emprestado. Desse modo, inegável a legitimidade da empresa para figurar no polo passivo da demanda executória, junto a ex-sócia avalista, porquanto utilizou-se da linha de crédito outrora concedida" (e-STJ, fl. 70).
+A conclusão, portanto, foi a de que a recorrente se beneficiou do empréstimo e, agora, pretende se esquivar da obrigação contratada em verdadeiro venire contra factum proprium, o que o direito não tolera.
+Tais conclusões foram alcançadas a partir dos elementos informativos do processo, a par de não terem sido impugnadas no recurso especial, o que atrai a incidência dos verbetes n. 7 da Súmula desta Corte e 284 do Supremo Tribunal Federal.
+Em face do exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
