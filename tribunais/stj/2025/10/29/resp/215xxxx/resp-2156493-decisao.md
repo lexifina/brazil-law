@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo de recurso especial no qual o banco recorrente se insurge contra o indeferimento da consulta ao sistema CCS-Bacen no cumprimento de sentença.
+Sustenta o recorrente, em resumo, que, esgotadas as diligências executivas ordinárias, a consulta ao CCS-Bacen é medida informativa idônea para dar efetividade à execução, sem atingir patrimônio de terceiros, devendo o juiz "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial" (art. 139, IV, CPC), assegurando que a execução "se realiza no interesse do exequente" (art. 797, CPC).
+A Corte Especial do STJ afetou a seguinte questão jurídica para julgamento sob a sistemática dos recursos repetitivos (Tema n. 1137):
+Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+Como se vê, a questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1137), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema n. 1.137 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+ EMENTA
