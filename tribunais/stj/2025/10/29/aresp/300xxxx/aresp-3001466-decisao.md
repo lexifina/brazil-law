@@ -1,0 +1,26 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 1.003/1.008 (e-STJ), reconsidero a decisão da Presidência deste STJ de fls. 999-1.000 (e-STJ) e passo a novo exame do agravo interposto por TOKIO MARINE SEGURADORA S.A. contra decisão interlocutória que negou seguimento ao seu recurso especial, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 4/7/2025.
+Concluso ao gabinete em: 29/9/2025.
+Ação: cobrança de indenização securitária, ajuizada por EMPRESA ARMAZENADORA DE CHAPADÃO DO SUL S.A., em face de TOKIO MARINE SEGURADORA S.A., na qual requer complementação de indenização por danos materiais decorrentes de contrato de seguro em virtude de incêndio.
+Sentença: julgou procedentes os pedidos, para: i) condenar TOKIO MARINE SEGURADORA S.A. ao pagamento de R$ 1.816.228,553.
+Acórdão: do TJ/MS deu parcial provimento ao recurso de apelação interposto por TÓKIO MARINE SEGURADORA S.A., nos termos da seguinte ementa:
+Apelação Cível. Ação de Cobrança de Indenização Securitária. Ocorrência de sinistro. Incêndio. Cláusula de rateio. Não incidência na monta dos danos. Indenização pela perda de grãos de terceiros. Impossibilidade. Ausência de cobertura. Abatimento de valores de tributos. Não acolhida. Ausência de permissivo contratual ou situação de fato que evidencie enriquecimento sem causa. Correção monetária. IPCA. Juros de mora. Selic com dedução do IPCA (Lei n.º 14.905/2024). Julgados do STJ. Recurso parcialmente provido.
+I. Caso em exame 1. Trata-se de apelação cível interposta por seguradora contra sentença que lhe condenou à complementação de indenização decorrente de contrato de seguro empresarial firmado com a recorrida.
+II. Questão em discussão. 2. Discute-se a redução da indenização securitária da apelada, (i) pela incidência da cláusula de rateio, (ii) pela ausência de cobertura de danos de terceiros e abatimento de tributos incidentes na recomposição de bens danificados; e (iii) utilização da Selic para correção monetária e juros de mora.
+III. Razões de decidir 3. A cláusula de rateio, embora amparada pelo ordenamento (art. 783 do CC) como expressão do sinalagma em contrato de seguro, não incide na hipótese, pois prevista para sinistros superiores a R$ 2.500.000,00 e afastada no título. 4. Devem ser excluídos do cálculo os danos a grãos de terceiros depositados junto à recorrida, por ausência de descrição precisa no âmbito da cobertura e exclusão expressa de mercadorias sujeitas a secagem. 5. Os tributos relacionados à reposição dos bens danificados são indenizáveis, ante a ausência de permissivo contratual de abatimento e inexistência de presunção de aproveitamento fiscal pela segurada como contribuinte de fato. 6. Mantém-se correção monetária pelo IPCA e fixam-se juros moratórios pela Selic com dedução do IPCA, segundo sistemática do art. 406, § 1º do CC/2002 (Lei 14.905/2024).
+IV. Dispositivo. 7. Recurso parcialmente provido para: (i) afastar a indenização de danos a mercadoria de terceiros; e (ii) fixar a Selic para compensação da mora, segundo método do art. 406, § 1º do CC/2002.(e-STJ fls. 900-901)
+Recurso especial: alega violação dos arts. 757 e 760 do CC. Afirma que a cláusula de rateio é válida como expressão da delimitação dos riscos e deve incidir sobre a indenização na hipótese de subavaliação do valor em risco. Aduz que a apólice delimita os riscos cobertos e excluídos, impondo respeito ao mutualismo e à função social do contrato de seguro.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+A despeito da necessidade de se admitir o processamento do agravo em recurso especial, com efeito, alterar o decidido no acórdão impugnado, no que se refere à validade da cláusula de rateio, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 909) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de cobrança de indenização securitária.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Reconsiderada a decisão de e-STJ fls. 999-1.000. Agravo conhecido. Recurso especial não conhecido.
