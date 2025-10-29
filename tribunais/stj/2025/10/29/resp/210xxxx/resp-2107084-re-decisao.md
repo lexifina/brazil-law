@@ -1,0 +1,53 @@
+DECISÃO
+1. Trata-se de recurso extr aordinário interposto contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 600):
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. FGTS. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRAZO QUINQUENAL. JULGAMENTO PROFERIDO PELO STF. ARE 709.212/DF. TERMO INICIAL.
+1. O STF, no julgamento do ARE 709.212, na sistemática da repercussão geral, decidiu que é de 5 (cinco) anos o prazo prescricional aplicável à cobrança de valores não depositados no FGTS, tendo atribuído efeito ex nunc à decisão (13/11/2014).
+2. Na modulação dos efeitos da decisão aos casos em que o prazo prescricional já esteja em curso, firmou-se que se aplica o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir do julgado.
+2. Na hipótese, considerando que a dispensa do servidor gerou o direito ao depósito do FGTS, bem como que a presente ação foi proposta em 2009, não há que falar em transcurso do prazo prescricional, uma vez que o autor demandou seu pleito dentro do prazo estabelecido nos moldes da aludida repercussão geral.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 636-643).
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao art. 97 da Constituição Federal.
+Sustenta que o órgão julgador no âmbito do STJ afastou a aplicação do art. 1º do Decreto n. 20.910/1932, sem expressamente declarar sua inconstitucionalidade.
+Argumenta que o entendimento adotado no acórdão recorrido, de que a prescrição é quinquenal para todo e qualq uer direito ou ação contra a Fazenda Pública, somente poderia ser deliberado com a observância do art. 97 da CF, ou seja, pelo órgão colegiado especial do Tribunal e com manifestação expressa sobre a constitucionalidade do dispositivo em debate.
+Invoca a Súmula Vinculante 10 do STF, segundo a qual: "viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de Tribunal que embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte".
+Requer, assim, a admissão e o provimento do recurso.
+Embargos de declaração de fls. 657-661, opostos na sequência, não foram conhecidos (fls. 679-686).
+As contrarrazões foram apresentadas às fls. 706-717.
+É o relatório.
+2. O Supremo Tribunal Federal, no julgamento do ARE nº 709.212-RG, cuja repercussão geral fora reconhecida, fixou a seguinte tese (Tema n. 608 do STF):
+O prazo prescricional aplicável à cobrança de valores não depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é quinquenal, nos termos do art. 7º, XXIX, da Constituição Federal.
+Foi fixado efeito prospectivo no sentido de preservar a prescrição trintenária para as ações apresentadas dentro do período de 5 anos, a contar da conclusão do julgamento do STF ou antes do fim do prazo prescricional de 30 anos, o que ocorresse primeiro.
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento.
+Particularmente acerca da interpretação da modulação dos efeitos retromencionada, o Supremo Tribunal Federal tem se manifestado no sentido de que, no caso de cobranças que já se encontravam em curso na época do julgamento do ARE nº 709.212-RG, nem mesmo seria possível cogitar sobre o prazo quinquenal.
+A propósito:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR TEMPORÁRIO CONTRATADO SEM CONCURSO PÚBLICO. COBRANÇA DOS DEPÓSITOS DE FGTS NÃO REALIZADOS. PRESCRIÇÃO TRINTENÁRIA. TEMAS NºS 608 E 916 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO. PROVIMENTO. AGRAVO INTERNO PROVIDO.
+1. Reatuação como recurso extraordinário com agravo, conforme peça recursal (Petição nº 132597; ID: e02c4e05) e decisão de admissibilidade (Petição nº 132597; ID: 9f976c37).
+2. Insurge-se o recorrente contra o acórdão que, embora reconhecendo o direito do servidor público estadual, contratado sem concurso público, aos depósitos de FGTS, determinou a incidência da prescrição quinquenária.
+3. No caso, o prazo prescricional da cobrança dos depósitos do FGTS já estava em curso à época do julgamento do referido ARE 709.212-RG, Rel. Min. Gilmar Mendes (Tema 608), ocorrido na Sessão Plenária de 13.11.2014, motivo pelo qual deve ser afastada a tese da prescrição quinquenária, nos termos da modulação dos efeitos do acórdão, prevalecendo a contagem trintenária do prazo prescricional. Precedentes (ARE 784.200-AgR, Rel. Min. Barroso, Primeira Turma, j. 12.9.2023).
+4. Agravo conhecido e recurso extraordinário provido.
+(RE 828872, Relator(a): FLÁVIO DINO, Primeira Turma, julgado em 06-11-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 13-11-2024 PUBLIC 14-11-2024)
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONTRATAÇÃO IRREGULAR DE SERVIDOR PÚBLICO. PAGAMENTO DO FGTS. PRESCRIÇÃO TRINTENÁRIA. TEMAS 916 E 608 DA REPERCUSSÃO GERAL.
+1. Dissentir das conclusões do Tribunal de origem acerca da nulidade, ou não, do contrato temporário firmado entre as partes exigiria o reexame dos fatos e provas constantes dos autos, providência inviável em recurso extraordinário (Súmula 279/STF).
+2. Processo ajuizado anteriormente ao prazo assinalado pelo Supremo Tribunal Federal no julgamento do ARE 709.212-RG (Tema 608-RG), situação que autoriza a incidência do prazo prescricional trintenária para a cobrança de valores não depositados do FGTS. Precedentes.
+3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.
+(RE 784200 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 12-09-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 18-09-2023 PUBLIC 19-09-2023)
+No caso, o acórdão recorrido afastou a prescrição, porque ainda não ultrapassado o prazo de 30 anos, contado do termo inicial ou 5 anos a partir da decisão do STF, que somente ocorreria em 13/11/2019, como se extrai do trecho transcrito a seguir (fls. 603-605):
+Após o reconhecimento da repercussão geral sobre o tema ora em análise, o Supremo Tribunal Federal, ao julgar o ARE n. 709.212, em 13/11/2014, declarou a inconstitucionalidade das normas que previam o privilégio da prescrição trintenária (art. 23, § 5º, da Lei n. 8.036/1990 e art. 55 do Decreto n. 99.684/1990), decidindo que é de cinco anos o prazo prescricional aplicável à cobrança de valores não depositados no FGTS, tendo atribuído efeito ex nunc à decisão, a fim de não atingir os processos em curso.
+Impende consignar, no tocante à aplicação da modulação temporal da eficácia resultante do referido decisum, os seguintes trechos do voto proferido pelo eminente relator, Ministro Gilmar Mendes:
+ ..
+Aqui, é claro, não se trata de ações de repetição de indébito, mas, sobretudo, de reclamações trabalhistas, visando à percepção de créditos, e de execuções promovidas pela Caixa Econômica Federal.
+A modulação que se propõe consiste em atribuir à presente decisão efeitos ex nunc (prospectivos). Dessa forma, para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão.
+Assim se, na presente data, já tenham transcorrido 27 anos do prazo prescricional, bastarão mais 3 anos para que se opere a prescrição, com base na jurisprudência desta Corte até então vigente. Por outro lado, se na data desta decisão tiverem decorrido 23 anos do prazo prescricional, ao caso se aplicará o novo prazo de 5 anos, a contar da data do presente julgamento.
+ ..
+Dessarte, entendo que, no caso, o princípio da segurança jurídica recomenda que seja mitigado o princípio da nulidade da lei inconstitucional, com a consequente modulação dos efeitos da presente decisão, de modo a resguardar as legítimas expectativas dos trabalhadores brasileiros, as quais se pautavam em manifestações, até então inequívocas, do Tribunal competente para dar a última palavra sobre a interpretação da Constituição e da Corte responsável pela uniformização da legislação trabalhista. (Grifos acrescidos).
+Na hipótese, considerando que a dispensa do servidor gerou o direito ao depósito do FGTS, bem como que a presente ação foi proposta em 2009, não há que falar em transcurso do prazo prescricional, uma vez que o autor demandou seu pleito dentro do prazo estabelecido nos moldes da aludida repercussão geral, sendo certo que a autora tem direito a todo período da relação de emprego (15/02/2003 a 31/12/2007).
+Note-se, ademais, que a aplicação do Tema 608 do STF não se restringe aos litígios que envolvam pessoa jurídica de direito privado, incidindo também em demandas que objetivam a cobrança do FGTS ajuizadas contra a Fazenda Pública.
+Nesse sentido: (..)
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Nesse contexto, verifica-se que a conclusão do julgado impugnado está alinhada com a modulação de efeitos que o STF realizou sobre a tese firmada no Tema n. 608, razão pela qual a pretensão recursal deve ser obstada.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO DO TRABALHO E ADMINISTRATIVO. FGTS. COBRANÇA DE VALORES NÃO PAGOS. PRAZO PRESCRICIONAL. TEMA 608/STF. INCIDÊNCIA DA MODULAÇÃO DE EFEITOS FIXADA NO JULGAMENTO DO ARE 709.212/DF. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DA SUPREMA CORTE, FIXADO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
