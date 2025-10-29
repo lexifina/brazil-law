@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Distrito Federal, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 86):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. APLICAÇÃO SELIC A PARTIR DEZEMBRO/2021. INCIDÊNCIA SOBRE VALOR CONSOLIDADO DA DÍVIDA EM NOVEMBRO/2021. EC 113/2021
+1. Em primeiro plano, cumpre-se destacar que a Emenda Constitucional 113/2021 instituiu nova modalidade de atualização dos valores oriundos das condenações contra a Fazenda Pública, de modo que, nos termos de seu art. 3º, independentemente da natureza do débito, tanto para fins de atualização monetária quanto de remuneração do capital e de compensação da mora, há incidência da taxa SELIC, uma única vez, até o efetivo pagamento.
+2. Nesse contexto, o Supremo Tribunal Federal já firmou jurisprudência no sentido de que, salvo disposição expressa em contrário, os dispositivos constitucionais têm vigência imediata e alcançam somente os efeitos futuros de fatos passados (retroatividade mínima) (STF - RE: 242740 GO, Relator: MOREIRA ALVES, Data de Julgamento: 20/03/2001, Primeira Turma, Data de Publicação: DJ 18-05-2001 PP-00087 EMENT VOL-02030-05 PP-00890).
+3. Dessa forma, é possível observar com a publicação da Emenda Constitucional 113, ou seja, a partir de 09 de dezembro de 2021, que a atualização do crédito, inclusive com juros de mora, deve ser feita unicamente pela Taxa Selic, com incidência sobre o valor do principal atualizado e consolidado até novembro de 2021.
+4. Agravo de instrumento conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 175-181).
+Nas razões do recurso especial (e-STJ, fls. 206-216), a parte recorrente sustenta afronta aos arts. 489, § 1º, IV e VI, e 1.022, parágrafo único, incisos I e II, do CPC, bem como ao art. 4º do Decreto nº 22.626/1933.
+Alega que o acórdão recorrido não enfrentou todos os argumentos capazes de infirmar a conclusão adotada.
+Afirma que o art. 22, §1º, da Resolução CNJ 303/2019 não se aplica ao caso por não se tratar de precatório.
+Relata que a aplicação da SELIC sobre os juros moratórios configura anatocismo vedado pelo ordenamento.
+Defende o sobrestamento do feito até o julgamento da ADI 7.435/RS, por prejudicialidade externa.
+Contrarrazões apresentadas às fls. 240-249 (e-STJ).
+O recurso foi admitido na origem (e-STJ, fls. 267-270).
+Brevemente relatado, decido.
+Nos presentes autos, verifica-se que a controvérsia objeto do presente recurso guarda relação com o Tema n. 1.349/STF (RE 1.516.074/MG), de relatoria do Ministro Alexandre de Moraes, com Repercussão Geral reconhecida pelo Supremo Tribunal Federal, qual seja:
+Recurso extraordinário em que se discute à luz do artigo 3º da Emenda Constitucional n.º 113/2021 se a metodologia de atualização dos débitos contra a Fazenda Pública, com a incidência da taxa SELIC, deve ou não abranger o valor consolidado da dívida (principal corrigido acrescido de juros).
+O recurso especial tem origem em agravo de instrumento interposto em cumprimento individual de sentença coletiva, no qual se discute a aplicação da taxa SELIC, a partir de 9/12/2021 (EC 113/2021), sobre o valor consolidado da dívida.
+Nesse contexto, a fim de evitar decisões conflitantes, o sobrestamento dos autos na origem é medida que se impõe, tendo em vista a economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido pela Corte Suprema.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. QUESTÃO JURÍDICA COM REPERCUSSÃO GERAL RECONHECIDA PELO STF. EXEGESE DOS ARTS. 1.040 E 1.041 DO CPC. DEVOLUÇÃO DO ESPECIAL PARA SOBRESTAMENTO NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. No caso, a questão referente à matéria de fundo, a saber, legitimidade passiva do credor fiduciário para figurar em execução fiscal de cobrança do imposto sobre a propriedade de veículos automotores (IPVA) incidente sobre veículo objeto de alienação fiduciária, teve reconhecida a sua repercussão geral pelo plenário virtual do Supremo Tribunal Federal nos autos do RE 1.355.870/MG (Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 30/6/2022, PROCESSO ELETRÔNICO DJe155 DIVULG 04-08-2022 PUBLIC 05-08-2022) - Tema n. 1.153.
+2. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para determinar o cancelamento das decisões anteriores e a restituição dos autos ao Tribunal de origem, para que lá se observe o iter delineado nos arts. 1.040 e 1.041 do CPC.
+(EDcl no AgInt no REsp 1.942.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022.).
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos dos recursos acima identificados, seja aplicada a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+R ECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ATUALIZAÇÃO DE DÉBITOS CONTRA A FAZENDA PÚBLICA. TAXA SELIC. REPERCUSSÃO GERAL RECONHECIDA. TEMA N. 1.349/STF. SOBRESTAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
