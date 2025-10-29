@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.113/1.122) opostos à decisão desta relatoria que negou provimento a agravo em recurso especial (fls. 1.107/1.110).
+A parte embargante sustenta que a decisão embargada padece de omissão e obscuridade quanto à incidência da Súmula n. 7/STJ no caso concreto, notadamente quanto à indevida confusão promovida pelo acórdão recorrido entre juízo possessório e petitório, não havendo aqui mera pretensão de reexame fático-probatório, mas claro intuito de correção de erro de direito na aplicação do regime jurídico da posse. Sustenta a embargante, ainda, a existência de omissão na decisão embargada quanto ao requerimento de concessão de gratuidade de justiça, o qual não foi apreciado pelo Tribunal de origem mas foi reiterado no recurso especial, devendo tal pedido ser deferido com efeitos retroativos.
+Impugnação apresentada (fls. 1.126/1.130), com pedido de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência no julgado dos vícios mencionados, o que não se evidencia no caso em exame.
+Com relação à alegada omissão e obscuridade pela incidência da Súmula n. 7/STJ, desponta o caráter nitidamente infringente dos embargos, que não visam à superação de qualquer vício da decisão embargada, mas sim à sua reforma. Para tanto, todavia, não servem os embargos de declaração, devendo a parte valer-se do recurso cabível para o fim desejado.
+Já com relação à omissão quanto ao requerimento de gratuidade de justiça, observo que, de fato, não houve pronunciamento na decisão agravada acerca do tema, embora a parte tenha requerido expressamente a concessão desse benefício quando da interposição do recurso especial, matéria essa que tampouco foi objeto de decisão pela instância de origem quando do juízo de admissibilidade daquele recurso.
+Assim, reconheço a omissão, no ponto, que supero deferindo à embargante a gratuidade de justiça requerida, a qual, todavia, na linha de pacífica jurisprudência desta Casa (v.g. AgInt no AREsp n. 2.624.076/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 1/9/2025, DJEN de 4/9/2025), não produzirá efeitos retroativos, valendo apenas a partir da interposição do recurso especial e sem isenção de despesas até então incorridas.
+Em face do exposto, ACOLHO EM PARTE os embargos de declaração, para deferir à embargante os benefícios da gratuidade de justiça, nos termos da fundamentação.
+Indefiro o pedido da parte embargada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
+EMENTA
