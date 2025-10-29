@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLAUDIO ANTONIO GUERREIRO DIAS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+O paciente foi preso em flagrante em 26/2/2020, sendo posteriormente denunciado como incurso no art. 155, § 4º, III e IV, do Código Penal.
+O Juízo de piso concedeu-lhe a liberdade provisória, com a aplicação das medidas cautelares diversas da prisão, porém, o paciente não foi encontrado para citação, resultando na revogação do benefício e sendo decretado sua prisão preventiva.
+A defesa impetrou habeas corpus perante o Tribunal de origem, postulando a revogação da prisão preventiva, que denegou a ordem.
+No presente writ, alega a impetrante, em suma, ausência de fundamentação idônea à manutenção da custódia cautelar, uma vez que baseada tão somente na gravidade abstrata do delito.
+Sustenta que a não localização para citação não constitui fundamento para decretar a custódia cautelar, sendo cabíveis a citação por edital (art. 361 do CPP) e, se for o caso, a suspensão do processo e do prazo prescricional (art. 366 do CPP), e que a prisão exige motivos concretos e contemporâneos, não se admitindo presunção de fuga.
+Argumenta, ainda, que o mero descumprimento de medida cautelar alternativa, sem demonstração concreta do periculum libertatis, não legitima a decretação da preventiva.
+Aponta a primariedade do paciente e a prática de delito sem violência ou grave ameaça, evidenciando a desproporcionalidade da manutenção da prisão e que, mesmo em caso de condenação, a pena não ultrapassaria 4 anos, com cabimento de regime inicial aberto, além da possibilidade de acordo de não persecução penal (ANPP).
+Requer, liminarmente e no mérito, a concessão da ordem para revogação da prisão preventiva.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal nos termos da seguinte ementa (fl. 448):
+HABEAS CORPUS SUBSTITUTIVO. PRISÃO PREVENTIVA. RÉU REVEL. GARANTIA DA ORDEM PÚBLICA E GRAVIDADE CONCRETA DA CONDUTA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER NÃO CONHECIMENTO DO WRIT.
+Na origem, o Processo n. 0037924-94.2020.8.26.0050, oriundo da 25ª Vara Criminal de São Paulo, foi suspenso por revelia (citação por edital) em 15/10/2025, conforme informações processuais extraídas do site do TJ/SP em 23/10/2025.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º do CPP, o que se passa a examinar.
+De início, " a  alegação de ausência de contemporaneidade não se sustenta, pois a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva, não ao momento da prática criminosa" (AgRg no HC n. 970.185/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/3/2025, DJEN de 25/3/2025), além não ter sido enfrentada, tal tese, pelo Tribunal local, configurando-se indevida supressão de instância.
+Noutra vertente, " s obre a alegação de desproporcionalidade da custódia em relação ao regime que porventura vier a ser aplicado, cumpre esclarecer que o Superior Tribunal de Justiça tem jurisprudência pacífica quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença." (AgRg no HC n. 880.474/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+No mais, a prisão preventiva reveste-se de caráter excepcional, sendo admissível apenas quando devidamente demonstrada sua imprescindibilidade para a preservação da ordem pública, a garantia da regularidade da instrução criminal ou a asseguração da eficácia da aplicação da lei penal, nos termos do art. 312 do CPP.
+O decreto prisional foi assim fundamentado (fls. 302-303):
+ ..  Analisando os autos, verifica-se que o acusado em liberdade furtou-se à confiança da Justiça tomando rumo ignorado e prejudicando o devido processo legal.
+Ademais, considerando o descumprimento dos termos das medidas cautelares impostas por ocasião da concessão da liberdade provisória ao acusado, revogo o benefício concedido e DECRETO PRISÃO PREVENTIVA do acusado nos termos do art. 312, § único do Código de Processo Penal e ainda o perdimento de metade do valor recolhido a título de fiança. ..
+Como adiantado liminarmente, caracteriza a idoneidade do decreto prisional, consoante a jurisprudência desta egrégia Corte, haja vista o descumprimento das condições anteriormente impostas quando da concessão da liberdade provisória, destacando-se, ademais, que o ora paciente tomou rumo ignorado, prejudicando o andamento regular do processo, encontrando-se o feito, desse modo, suspenso por revelia, como relatado alhures.
+"A prisão preventiva é justificada pela reiteração delitiva e descumprimento de medidas cautelares anteriores." (AgRg no HC n. 990.359/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/8/2025, DJEN de 25/8/2025).
+"A fuga prolongada justifica a prisão preventiva, uma vez que indica a intenção do agente de se furtar à aplicação da lei penal, o que por si só legitima a medida cautelar." (AgRg no HC n. 977.870/MS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/6/2025, DJEN de 18/6/2025).
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
