@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por BIG INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP..
+Recurso especial interposto em: 21/11/2023.
+Concluso ao gabinete em: 5/4/2024.
+Ação: de resilição contratual c/c devolução de quantias pagas, ajuizada por LUCIANO POLI e JESSICA PRISCILA MESSIAS PEREIRA GOMES em face de BIG INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA.
+Sentença: julgou procedentes os pedidos, para rescindir o contrato celebrado entre as partes e condenar a ré à devolução de 80% dos valores desembolsados pela parte autora.
+Acórdão: deu parcial provimento ao recurso de apelação interposto por BIG INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA, nos termos da seguinte ementa:
+Promessa de compra e venda de imóveis. Lote de terreno. Ação de resilição contratual cumulada com pedido de devolução de quantias pagas. Sentença de procedência. Apelo da ré. Contrato firmado sob a égide da Lei 13.786/2018. Cláusulas contratuais que, embora em consonância com a nova Lei de Distrato, no caso concreto, coloca o consumidor em desvantagem exagerada, art. 51, § 1º, IV do CDC. Situação que justifica a redução, limitando o percentual máximo total de retenção dos valores pagos. Retenção razoável de 25% dos valores pagos. Precedentes do STJ. Sentença reformada apenas para majorar o percentual de retenção de 20% para 25% dos valores pagos. Recurso parcialmente provido. (e-STJ fls. 198-199)
+Embargos de declaração: opostos por BIG INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS LTDA, foram acolhidos para o fim de sanar a omissão apontada e determinar a devolução dos valores em parcela única.
+Recurso especial: alega violação dos arts. 32-A da Lei 6.766/79, 421, 421-A e 422 do CC.
+Afirma que a Lei 13.786/2018 deve ser aplicada integralmente, inclusive quanto ao percentual de retenção e à forma parcelada de restituição.
+Aduz que cláusulas contratuais redigidas nos exatos termos da lei especial não podem ser afastadas pelo CDC por já refletirem equilíbrio normativo específico do setor.
+Argumenta que deve prevalecer o pacta sunt servanda, com respeito à alocação de riscos e à liberdade contratual, pois a retenção e o parcelamento previstos estão dentro dos limites legais.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da prevalência do CDC sobre a Lei do Distrato e do percentual máximo de 25% de retenção dos valores pagos
+No julgamento dos REsp 2.106.548/SP, 2.117.412/SP, 2.107.422/SP e 2.111.681/SP, a Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+Desse modo, restou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+No particular, o limite de 25% de retenção dos valores pagos foi adequadamente observado pelo acórdão recorrido, conforme a jurisprudência desta Corte.
+Desse modo, não merece reforma o acórdão recorrido, que adotou entendimento em sintonia com a jurisprudência do STJ, nos termos da Súmula 568/STJ.
+- Do momento de restituição das parcelas pagas - Súmula 543/STJ e Tema 577/STJ
+De acordo com o entendimento consolidado na Terceira Turma do STJ, a restituição somente ao término da obra ou de forma parcelada, como prevista na Lei do Distrato, "é uma prática abusiva, contrária aos arts. 39 e 51, II, IV e IX, do CDC, como já decidiu esta Corte (Tema 577), de modo que, considerando a prevalência do CDC, a referida alteração legislativa não se aplica nas relações de consumo, nas quais deve ocorrer a imediata restituição dos valores pagos, mantendo-se a Súmula 543/STJ" (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+No particular, o acórdão recorrido manteve a sentença que determinou a restituição de uma só vez, em consonância com a jurisprudência desta Corte, razão pela qual não merece ser reformado, nos termos da Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESILIÇÃO CONTRATUAL C/C DEVOLUÇÃO DE QUANTIAS PAGAS. CONTRATO CELEBRADO APÓS A LEI Nº 13.786/2018. PREVALÊNCIA DO CDC EM HIPÓTESE DE CONFLITO DE NORMAS. RESTITUIÇÃO DE VALORES. LIMITE DE RETENÇÃO DE 25% DOS VALORES PAGOS. RESTITUIÇÃO DOS VALORES DE FORMA IMEDIATA. NECESSIDADE. SÚMULA 543/STJ. APLICAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de resilição contratual c/c devolução de quantias pagas.
+2. A Terceira Turma do STJ definiu que o Código de Defesa do Consumidor prevalece sobre a Lei do Distrato, considerando que o CDC se aplica quando preenchido um requisito adicional: a caracterização de uma relação de consumo.
+3. Desse modo, restou decidido que os descontos previstos na Lei do Distrato podem ser efetuados como regra geral, mas, "quando se tratar de relação de consumo, a soma dos descontos deve respeitar o limite máximo de retenção de 25% dos valores pagos, com exceção da taxa de fruição", em observância à interpretação conferida aos arts. 51, IV, e 53 do CDC por esta Corte (REsp 2.106.548/SP, Terceira Turma, DJEN 19/9/2025).
+4. Segundo o entendimento consolidado pela Terceira Turma do STJ, a restituição somente ao término da obra ou de forma parcelada, como prevista no §1º do art. 32-A da Lei nº 6.766/1979, é uma prática abusiva, contrária aos arts. 39 e 51, II, IV e IX, do CDC, como já decidiu esta Corte (Tema 577), de modo que, considerando a prevalência do CDC, a referida alteração legislativa não se aplica nas relações de consumo, nas quais deve ocorrer a imediata restituição dos valores pagos, mantendo-se a Súmula 543 /STJ.
+5. Recurso especial conhecido e não provido.
