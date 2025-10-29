@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ETELVINO ELLVYS SOUZA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (HC n. 1014134-61.2025.8.11.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática dos delitos previstos nos arts. 121, § 2º, inciso II, 14, inciso II, e 147, § 1º, todos do Código Penal, porque segundo a denúncia o acusado (e-STJ fls. 41/42):
+FATO 1
+Consta dos autos que, na data dos fatos, o denunciado e a vítima encontravam- se em um estabelecimento comercial e após o denunciado dirigir palavras desrespeitosas à atendente do caixa, a vítima interveio, e o repreendeu.
+Ato contínuo, quando a vítima deixou o local, foi seguida pelo denunciado, que munido de um canivete e movido pelo claro propósito de ceifar a vida da vítima, aproximou-se e colocou o objeto no pescoço da vítima. Diante da ameaça iminente, a vítima tentou se desvencilhar, momento em que o denunciado passou a desferir diversos golpes com a arma branca, somente não logrando êxito em consumar o homicídio porque a vítima, mesmo gravemente ferida, conseguiu fugir e foi socorrida por populares.
+Ressalte-se que a motivação do crime foi uma discussão gerada pela legítima repreensão feita pela vítima diante da atitude agressiva do denunciado contra a funcionária do mercado. Tal circunstância evidencia a total desproporcionalidade entre o fato gerador e a conduta adotada pelo agressor, caracterizando-se, assim, o motivo fútil.
+FATO 2
+No dia 12 de abril de 2025, por volta das 17h10min, no estabelecimento comercial "Empório Compre Bem", na Av. Bahia, neste município de Pedra Preta/MT, ETELVINO ELLVYS SOUZA consciente e dolosamente, ameaçou causar mal injusto e grave a vítima Rannyelle Bianchim Sampaio.
+Apurou-se que, na data dos fatos, a vítima encontrava-se em seu local de trabalho, exercendo a função de operadora de caixa em um estabelecimento comercial, quando o denunciado se dirigiu ao caixa para efetuar o pagamento de suas compras.
+Na ocasião, o denunciado solicitou o número de telefone da vítima e, diante da recusa, passou a proferir ameaças graves, nos seguintes termos: "vou meter um tiro de 38 na sua cabeça, vou te esfaquear"
+O Tribunal de origem denegou a ordem nos termos do acórdão de e-STJ fls. 33/39, assim ementado:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO NA FORMA TENTADA E AMEAÇA CONTRA A MULHER POR RAZÕES DO SEXO FEMININO. DECRETO CAUTELAR. REQUISITOS E PRESSUPOSTOS AUTORIZADORES DA CONSTRIÇÃO DEMONSTRADOS. INDÍCIOS MÍNIMOS DE AUTORIA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS. ELEVADA REPROVABILIDADE DO MODUS OPERANDI. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA HOMOGENEIDADE. NATUREZA ACAUTELATÓRIA DA MEDIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+I. CASO EM EXAME 1. Habeas corpus impetrado contra decisão que converteu a prisão em flagrante do paciente em preventiva com fundamento na garantia da ordem pública.
+2. Fatos relevantes: (i) o paciente está preso preventivamente no interesse de ação penal em que foi denunciado por praticar, em tese, os crimes de ameaça contra a mulher por razões do sexo feminino (art. 147, § 1º, do CP) e homicídio qualificado tentado (art. 121, § 2º, inc. II, c/c art. 14, inc. II, do CP); (ii) paciente teria ameaçado a atendente de um estabelecimento comercial de desferir um tiro de arma de fogo em sua face, após ela se negar a passar o seu contato a ele; (iii) após discutir com o indivíduo que presenciou o episódio, o paciente supostamente o seguiu e desferiu seis golpes de canivete em seu corpo, os quais atingiram a região do tórax e abdômen; (iv) o crime contra a vida só não teria se consumado porque o ofendido conseguiu fugir e foi socorrido por terceiros; (v) prisão preventiva decretada com fundamento na gravidade concreta das condutas.
+3. Requerimentos: revogação da prisão preventiva e, subsidiariamente, a substituição por cautelares menos gravosas.
+II. QUESTÃO EM DISCUSSÃO 4. As questões em discussão consistem em verificar se: (i) os fundamentos apresentados pela indigitada autoridade coatora são capazes de justificar a necessidade da prisão preventiva; (ii) a imposição da medida cautelar configura ofensa ao princípio da homogeneidade.
+III. RAZÕES DE DECIDIR 5. A natureza da conduta praticada pelo paciente, que teria ameaçado matar a atendente de um estabelecimento por ela ter se negado a passar o contato telefônico ao paciente, e a notícia de que logo em seguida, ele teria desferido diversos golpes de canivete contra o homem que presenciou o episódio ameaçador, sinalizam a gravidade concreta do delito e a especial reprovabilidade do modus operandi do comportamento, constituindo fatores reais de cautelaridade.
+7. A suposta desproporcionalidade entre prisão preventiva e a futura e eventual pena a ser aplicada em caso de condenação é um prognóstico que somente pode ser confirmado após o julgamento da ação penal, não tendo espaço em habeas corpus.
+IV. DISPOSITIVO 8. Ordem de habeas corpus denegada.
+Daí o presente writ, no qual alega a defesa inovação na fundamentação da prisão porquanto "a Corte local, ao denegar a ordem, agregou novo fundamento fático (suposta ameaça praticada contra atendente de estabelecimento comercial), absolutamente estranho à motivação lançada pelo juízo de origem ao converter a prisão em flagrante em preventiva" (e-STJ fl. 7).
+Acrescenta que a "inovação promovida pelo Tribunal de Justiça, neste contexto, teve relevância determinante, pois agravou a avaliação da suposta periculosidade do paciente, introduzindo fato novo  a alegada ameaça à mulher  que serviu de pilar para a construção da tese de "gravidade concreta" e de "especial reprovabilidade do modus operandi". Com isso, houve manifesto prejuízo à ampla defesa e ao contraditório" (e-STJ fl. 11).
+Defende que o decreto de prisão preventiva carece de fundamentação idônea bem como dos requisitos elencados no art. 312 do Código de Processo Penal.
+Aduz que, "mesmo em caso de condenação, o cenário seria de tentativa simples, o que não levaria obrigatoriamente à imposição de regime inicial fechado, conforme orientação majoritária dos tribunais" (e-STJ fl. 22).
+Afirma a presença de condições pessoais favoráveis sendo o paciente genitor de 3 filhos que dependem do seu sustento.
+Salienta ser possível a substituição da prisão preventiva por medidas cautelares diversas menos gravosas.
+Requer:
+O recebimento e conhecimento do presente habeas corpus, inclusive como substitutivo de recurso ordinário, ou, subsidiariamente, que a ordem seja concedida de ofício, nos termos do art. 647-A do CPP e da jurisprudência dominante dessa Corte, em razão do flagrante constrangimento ilegal suportado pelo paciente;
+O reconhecimento da nulidade do acórdão do Tribunal de Justiça do Estado de Mato Grosso, por indevida inovação de fundamentos em sede de habeas corpus, com a consequente revogação da prisão preventiva e a expedição de alvará de soltura em favor de Etelvino Ellvys Souza;
+Na hipótese de manutenção da segregação cautelar, que seja convertida em medidas cautelares diversas da prisão, previstas no art. 319 do CPP, a serem oportunamente fixadas pelo juízo de origem;
+A concessão de medida liminar, em caráter de urgência, para garantir ao paciente a liberdade provisória até o julgamento definitivo deste writ;
+Por fim, o deferimento integral da ordem, para que o paciente aguarde em liberdade o deslinde da ação penal, sem prejuízo da imposição de eventuais medidas cautelares.
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso porque, em 23 de outubro de 2025, o Magistrado de primeiro grau revogou a prisão preventiva do paciente, substituindo-a por medidas cautelares e determinando a expedição do respectivo alvará de soltura.
+Assim, patente que o presente writ está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
