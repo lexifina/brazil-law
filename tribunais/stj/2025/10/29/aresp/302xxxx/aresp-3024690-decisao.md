@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por GUILHERME RIBEIRO DE SOUZA contra decisão que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado como incurso no art. 157, § 2º, II e § 2º-A, I, na forma do art. 71, caput, com a incidência do art. 65, III, d, todos do Código Penal, à pena de 8 anos e 9 meses de reclusão, em regime fechado, além do pagamento de 20 dias-multa. Interposta apelação pela defesa, o recurso foi parcialmente provido para redimensionar a pena para 8 anos, 1 mês e 6 dias de reclusão, mantido os demais termos da sentença.
+No recurso especial, interposto com fulcro no art. 105, III, a e c, da Constituição Federal, sustenta-se violação dos arts. 59, 62, 65 e 67 do Código Penal, além de contrariedade ao princípio non bis in idem, aduzindo que houve dupla valoração das mesmas circunstâncias (roubo "duplamente majorado" pelo concurso de pessoas e emprego de arma de fogo) na primeira fase da dosimetria e, novamente, aplicação da causa de aumento do emprego de arma na terceira fase; invoca, ainda, os arts. 5º, XXXV, e 93, IX, da Constituição Federal, por negativa de prestação jurisdicional.
+O recurso foi inadmitido, tendo em vista a ausência de prequestionamento (Súmula 211/STJ e Súmula 282/STF), acrescida de fundamentação deficiente quanto à negativa de prestação jurisdicional (Súmula 284/STF), inadequação de matéria constitucional e ausência do cotejo analítico.
+No agravo em recurso especial, a parte sustenta que a matéria ventilada no recurso especial é infraconstitucional, e que a referência ao art. 93, IX, da CF foi meramente subsidiária. Argumenta que a oposição de embargos de declaração provocou o prequestionamento e que o dissídio jurisprudencial foi demonstrado com cotejo analítico.
+Parecer do Ministério Público Federal pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+O cotejo entre a decisão de inadmissibilidade e as razões do agravo revela óbice formal intransponível ao conhecimento do recurso, qual seja, a carência de impugnação específica a todos os fundamentos adotados para a inadmissão do recurso especial.
+De fato, o Desembargador 2º Vice-Presidente da Corte local esclarece que o conhecimento do recurso exige demonstração analítica da divergência, com transcrição dos trechos dos acórdãos conflitantes e indicação das circunstâncias que identifiquem ou assemelhem os casos, sendo insuficiente a mera reprodução de ementas ou voto.
+Constata-se, no entanto, que no agravo em recurso especial o recorrente não sanou a ausência de cotejo analítico, pois a simples indicação de acórdãos paradigmas não foi acompanhada de exame comparativo minucioso quanto à similitude fática e à contraposição das teses jurídicas, apto a evidenciar o dissídio. Dessa forma, permanece o entrave da falta de cotejo analítico adequado.
+Assim, a impugnação pormenorizada não foi realizada nas razões do agravo, o que enseja, por conseguinte, o não conhecimento, nos termos da Súmula n. 182 do Superior Tribunal de Justiça. A propósito:
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO. PRESCRIÇÃO PUNITIVA. RECURSO NÃO PROVIDO.  ..  5. A ausência de impugnação específica aos fundamentos da decisão do Tribunal de origem que inadmitiu o recurso especial impede o conhecimento da tese defensiva, conforme a Súmula 182 do Superior Tribunal de Justiça.  ..  (EDcl no AgRg no AREsp n. 2.920.138/MG, relatora Ministra Maria Marluce Caldas, Quinta Turma, julgado em 14/10/2025, DJEN de 20/10/2025.)
+Ante o exposto, com fundamento no artigo 34, inciso XVIII, alínea a, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Intimem-se.
+Publique-se.
+EMENTA
