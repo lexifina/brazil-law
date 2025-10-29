@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (fl. 180):
+APELAÇÃO. Ação de obrigação de fazer. Respeitável sentença de improcedência. Inconformismo da autora. Conversão em perdas e danos. Aplicabilidade do Código de Defesa do Consumidor. Empresa confessou que o produto não foi entregue devido a divergências operacionais e que deu início ao procedimento de cancelamento e estorno do valor pago no produto. Produto não entregue. Versão ambígua da empresa, pois na contestação sustentou que estava providenciando o estorno do valor admitindo que não havia entregue o aparelho celular; e, no recurso sustenta que o produto foi entregue. Tampouco há prova de que o valor foi estornado. Autora tem direito a conversão em perdas e danos. Restituição do valor pago, com incidência de atualização monetária a partir do desembolso, e juros de mora de 1% ao mês a partir da citação. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 207-209).
+Em suas razões (fls. 211-217), a parte recorrente aponta violação do art. 85, §§ 8º e 8º-A, do CPC, insurgindo-se contra o valor fixado a título de honorários advocatícios.
+Segundo afirma, "o valor da causa é de R$1.199,00, que corresponde ao valor do proveito econômico a ser obtido, sendo que 10% sobre tal valor representa R$119,90, enquanto o valor mínimo recomendado pelo Conselho Seccional da Ordem dos Advogados do Brasil, Seção São Paulo, é de R$5.716,05, devendo-se aplicar este último, por ser maior do que aquele. Contudo, houve o arbitramento do valor de R$1.500,00, o que merece ser afastado na espécie" (fl. 215).
+Sustenta que, "na fixação dos honorários por apreciação equitativa, deve ser observado o valor recomendado pelo Conselho Seccional da Ordem dos Advogados do Brasil, Seção São Paulo, no importe de R$5.716,051, visto ser este o mínimo estipulado para procedimento ordinário em matéria cível na tabela do Conselho Seccional da Ordem dos Advogados do Brasil - item 4.1" (fl. 215).
+Contrarrazões apresentadas (fls. 246-248).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Na origem, trata-se de ação de obrigação de fazer proposta por Claudia de Souza Teixeira de Oliveira contra Magazine Luiza S/A, em que a autora alegou falha na prestação do serviço pela não entrega de "smartphone Motorola Moto G32" e ausência de estorno dos valores pagos, pugnando pela conversão em perdas e danos, com restituição do preço (fls. 180).
+A sentença julgou improcedente a demanda (fls. 180).
+No julgamento da apelação, o acórdão reconheceu o direito da autora à conversão em perdas e danos, condenando a requerida a restituir o valor pago de R$ 1.199,00, com correção monetária desde o desembolso e juros de mora de 1% ao mês a partir da citação, até o efetivo pagamento (fls. 182). Houve inversão do ônus sucumbencial e majoração dos honorários advocatícios para R$ 1.500,00, à luz do artigo 85, § 8º, do CPC.
+Ficou assentado que "também não contém vícios a serem sanáveis o acórdão que fixou os honorários advocatícios em R$ 1.500,00 (um mil e quinhentos reais), porque não é o caso de arbitramento por equidade nos valores estipulados na tabela da Ordem dos Advogados do Brasil, porque consiste apenas em recomendação, até porque o arbitramento de honorários de sucumbência é tarefa indelegável do Magistrado" (fl. 208).
+A hipótese dos autos subsume-se ao comando do art. 85, § 8º, do CPC/2015, segundo o qual, " n as causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+Esse entendimento está em perfeita consonância com a orientação que emana das teses firmadas no julgamento do Tema Repetitivo n. 1.076.
+Por sua vez, o § 8º-A do antes referido dispositivo legal determina que, " n a hipótese do § 8º deste artigo, para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conse lho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior".
+Nesse contexto, a decisão recorrida, proferida em 30/5/2024 (fl. 179), está em confronto com a jurisprudência desta Corte, no sentido de que "o parágrafo 8º-A do art. 85 do CPC/2015 determina que "para fins de fixação equitativa de honorários sucumbenciais, o juiz deverá observar os valores recomendados pelo Conselho Seccional da Ordem dos Advogados do Brasil a título de honorários advocatícios ou o limite mínimo de 10% (dez por cento) estabelecido no § 2º deste artigo, aplicando-se o que for maior" ( AgInt no AREsp n. 1.789.203/RN, de minha relatoria, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Nesse mesmo sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS. RECURSO PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo em ação declaratória de inexigibilidade de débito cumulada com pedido de indenização por danos morais, em que se discute a inscrição indevida do nome da autora no "Serasa Limpa Nome" e a fixação de honorários advocatícios.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o valor fixado a título de indenização por danos morais é irrisório e se a fixação dos honorários advocatícios sucumbenciais desconsidera os critérios da equidade e da proporcionalidade.
+III. Razões de decidir
+3. Não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ do valor da indenização por danos morais considerado moderado pela instância ordinária, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+4. A fixação dos honorários advocatícios sucumbenciais deve observar os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% estabelecido no § 2º do art. 85 do CPC, aplicando-se o que for maior, conforme a Lei n. 14.365/2022.
+5. O entendimento adotado pelo acórdão recorrido diverge da orientação do STJ, sendo necessário observar tais critérios na fixação dos honorários por equidade.
+IV. Dispositivo e tese
+6. Recurso parcialmente provido para determinar que o valor referente aos honorários advocatícios seja calculado conforme a disposição do art. 85, § 8º-A, do CPC.
+Tese de julgamento: "1. A fixação dos honorários advocatícios por equidade deve observar os valores recomendados pelo Conselho Seccional da OAB ou o limite mínimo de 10% do art. 85, § 2º, do CPC, aplicando-se o que for maior. 2. O valor da indenização por danos morais deve ser moderado, incidindo a Súmula n. 7 do STJ quanto ao acolhimento de pedido de majoração do quantum indenizatório."
+Dispositivos relevantes citados: CPC, art. 85, §§ 2º, 8º e 8º-A;
+CC, arts. 944 e 953.Jurisprudência relevante citada: STJ, AgInt no REsp n. 1.741.941/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 9.10.2018; EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, julgado em 20.3.2019.
+(REsp n. 2.125.569/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+Na espécie, o valor dos honorários advocatícios de sucumbência devem ser arbitrados com observância do valor mínimo previsto na Tabela de Honorários aprovada pela OAB/SP.
+Ante o exposto, DOU PROVIMENTO ao recurso para determinar que o valor referente aos honorários advocatícios arbitrado em favor da parte ora recorrente seja calculado conforme a disposição do art. 85, § 8º-A, do CPC.
+Publique-se e intimem-se.
+EMENTA
