@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por ANDERSON ROBERTO VALERIO, CARLOS ROBERTO VALERIO, DANILO HENRIQUE VALERIO e PIRABOAT NAUTICA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 97):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. Alegação de ausência de validade de assinaturas eletrônicas emitidas por entidade não credenciada pela ICP-Brasil, bem como iliquidez e incerteza do título - Decisão agravada que rejeitou a exceção e determinou o prosseguimento do feito - Insurgência dos executados - Desacolhimento - Detalhes de
+autenticação que demonstram os meios utilizados para garantir a autenticidade das assinaturas - Irregularidade não configurada - Aferição de nulidade que não cabe nesta fase postulatória - Insurgência que deve ser desafiada por meio de embargos à execução. Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 122-125).
+No recurso especial, a parte recorrente alega violação dos arts. 166, V, do Código Civil, 784, III, do CPC, 1º e 10, §1º, da Medida Provisória n. 2.200/2001, e 1º, §§1º e 2º, III, "a", da Lei n. 11.419/2006.
+Sustenta, em síntese, que "não há como se verificar, em referido instrumento, a autenticidade das assinaturas por meio dos métodos legalmente admitidos (M.P nº 2.200-2/2001 e Lei nº 11.419/2006)" (fls. 105-116).
+Foram oferecidas contrarrazões ao recurso especial (fls. 129-140).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 141-142), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 154-162).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos arts. 166, V, do Código Civil, 784, III, do CPC, 1º e 10, §1º, da Medida Provisória n. 2.200/2001, e 1º, §§1º e 2º, III, "a", da Lei n. 11.419/2006, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Assim, alterar o decidido no acórdão impugnado, no que se refere à ausência de validade das assinaturas eletrônicas, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO, INEXISTÊNCIA DE DÉBITO E SUSTAÇÃO DE PROTESTO. NOTAS PROMISSÓRIAS EMITIDAS EM GARANTIA DE DUPLICATAS MERCANTIS. ASSINATURA DIGITAL. SUPOSTA AFRONTA AOS ARTS. 1. 434 E 435 DO CPC, NA MEDIDA PROVISÓRIA Nº 2.200/01, DE 24 DE AGOSTO DE 2011, E NO ARTIGO 7º DA LEI MODELO DA COMISSÃO DE DIREITO COMERCIAL INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. REEXAME DA MATÉRIA RELATIVA À VALIDADE E EFICÁCIA DOS TÍTULOS EXEQUENDOS E A HIGIDEZ DA ASSINATURA ELETRÔNICA. INVIÁVEL. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias referentes aos 434 e 435 do CPC, à Medida Provisória nº 2.200/01, de 24 de agosto de 2011, e ao artigo 7º da Lei Modelo da Comissão de Direito Comercial Internacional, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282 do STF) 2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Derruir a conclusão a que chegou o Tribunal local, que, com base na análise do arcabouço fático-probatório, concluiu que as notas promissórias atendem aos requisitos legais, sendo válidas e exigíveis, além de ser hígida a assinatura eletrônica, demandaria o revolvimento fático probatório, o que encontra óbice na súmula 7 do STJ e impede o conhecimento do recurso pela alínea "a" do dispositivo constitucional.
+5. Consoante orientação firmada pela Segunda Seção desta Corte Superior, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.987.023/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
