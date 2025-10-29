@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se recurso especial interposto por SALGADO JUNIOR SOCIEDADE DE ADVOGADOS e RICARDO AURELIO DE MORAES SALGADO JUNIOR, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 11/2/2025.
+Concluso ao gabinete em: 13/10/2025.
+Ação: execução de título extrajudicial, ajuizada por SALGADO JUNIOR SOCIEDADE DE ADVOGADOS, em face de DANILO RODRIGUES RITA, na qual requer o recebimento de honorários advocatícios mediante penhora de percentual do benefício assistencial.
+Decisão interlocutória: indeferiu o pedido de penhora de percentual do benefício assistencial pago à pessoa com deficiência.
+Acórdão: negou provimento ao agravo de instrumento interposto por RICARDO AURELIO DE MORAES SALGADO JUNIOR e SALGADO JUNIOR SOCIEDADE DE ADVOGADOS, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO Prestação de serviços advocatícios Execução de título extrajudicial Decisão agravada que indeferiu pedido de penhora de benefício previdenciário Insurgência recursal do exequente Não acolhimento Documentação acostada aos autos que demonstra que o executado/agravado recebe um salário mínimo a título de benefício assistencial à pessoa com deficiência Verba impenhorável, nos termos do art. 833, inc. IV, do Código de Processo Civil Ausência das exceções legais previstas no respectivo § 2º, do diploma processual civil, à consideração de que os honorários advocatícios possuem natureza alimentar, mas não de prestação alimentícia em sentido estrito Precedentes desta C. Câmara e do STJ A relativização da impenhorabilidade, à luz do recente julgado do STJ, no EREsp n. 1.874.222, é medida excepcional e somente admissível se não prejudicar subsistência digna do devedor Elementos dos autos indicando que o agravado, na condição de pessoa com deficiência, aufere benefício de um salário mínimo Trata-se de montante indispensável para fazer frente às despesas necessárias à própria subsistência (alimentação, água, luz, vestimenta, itens de higiene pessoal básicos etc.) A constrição, no caso concreto, deixaria o agravado desprovido de recursos financeiros necessários para sua subsistência digna Precedentes Decisão mantida RECURSO DESPROVIDO. (e-STJ fl. 29)
+Embargos de Declaração: opostos por RICARDO AURELIO DE MORAES SALGADO JUNIOR e SALGADO JUNIOR SOCIEDADE DE ADVOGADOS, foram rejeitados.
+Recurso especial: alega violação dos arts. 833, § 1º, do CPC.
+Afirma que a penhora do benefício assistencial é admissível por se tratar de dívida relativa ao próprio bem, uma vez que os honorários contratuais foram ajustados para a obtenção do benefício.
+Aduz que a flexibilização da impenhorabilidade, na hipótese do § 1º, independe da análise do mínimo existencial do devedor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência desta Corte é no sentido de que: "A regra esculpida no §1º do art. 833 do CPC introduz uma verdadeira exceção à impenhorabilidade, motivo pelo qual merece interpretação restritiva, não sendo possível ampliar o alcance do dispositivo legal para permitir a penhora de benefício previdenciário para o pagamento de honorários decorrentes da atuação do advogado para a aquisição do próprio benefício" (REsp n. 2.164.128/SP, Terceira Turma, julgado em 1º/10/2024, DJe de 3/10/2024.)
+Nesse mesmo sentido: AgInt no REsp n. 1.990.073/SP, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.
+Na hipótese, extrai-se do acórdão recorrido que se afastou a impenhorabilidade do valor de benefício previdenciário, para satisfazer crédito relacionado a honorários sucumbenciais (e-STJ fl. 34), o que está de acordo com a jurisprudência desta Corte, incidente a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ART. 833, § 1º, DO CPC.ENEFÍCIO PREVIDENCIÁRIO. IMPENHORABILIDADE. ART. 833, §1º DO CPC. EXCEÇÃO. DÍVIDA RELATIVA AO PRÓPRIO BEM OU CONTRAÍDA PARA SUA AQUISIÇÃO. INTERPRETAÇÃO TELEOLÓGICA E RESTRITIVA. INTERPRETAÇÃO AMPLIATIVA. IMPOSSIBILIDADE.
+1.A jurisprudência desta Corte é no sentido de que: "A regra esculpida no §1º do art. 833 do CPC introduz uma verdadeira exceção à impenhorabilidade, motivo pelo qual merece interpretação restritiva, não sendo possível ampliar o alcance do dispositivo legal para permitir a penhora de benefício previdenciário para o pagamento de honorários decorrentes da atuação do advogado para a aquisição do próprio benefício" (REsp n. 2.164.128/SP, Terceira Turma, julgado em 1º/10/2024, DJe de 3/10/2024.)
+2. Recurso especial conhecido e não provido.
