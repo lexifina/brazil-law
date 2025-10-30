@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Verifico que, no presente feito, discute-se a incidência da forma de cálculo prevista no art. 26, § 2º, III, da EC 103/2019 para o pagamento de benefícios previdenciários de aposentadoria por incapacidade permanente decorrente de doença grave, contagiosa ou incurável, quando requerido após a edição da Emenda Constitucional
+O deslinde da presente controvérsia diz com a discussão de tema objeto do Tema n. 1.300, do Supremo Tribunal Federal, com determinação de sobrestamento nacional, nos seguintes termos:
+DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO. APOSENTADORIA POR INCAPACIDADE PERMANENTE PRECEDIDA DE AUXÍLIO-DOENÇA. REFORMA DA PREVIDÊNCIA. EMENDA CONSTITUCIONAL Nº 103/2019. REPERCUSSÃO GERAL RECONHECIDA .
+I. CASO EM EXAME
+1. Recurso extraordinário contra acórdão da 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Paraná. A decisão determinou o pagamento de aposentadoria por incapacidade permanente decorrente de doença grave, contagiosa ou incurável de forma integral, sem a incidência do art. 26, § 2º, III, da EC nº 103/2019, que previu o pagamento de uma cota de 60% da média dos salários de contribuição, com acréscimo de 2% para cada ano de contribuição que exceder a 20 anos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão diz respeito à constitucionalidade do art. 26, § 2º, III, da EC nº 103/2019, de modo a determinar se a aposentadoria por incapacidade permanente decorrente de doença grave, contagiosa ou incurável deve ou não ser paga de forma integral.
+III. RAZÕES DE DECIDIR
+3. O debate sobre a constitucionalidade do art. 26, § 2º, da EC nº 103/2019 é objeto da ADI 6.384, sob minha relatoria, cujo julgamento foi suspenso em razão de pedido de vista. O início de julgamento da ação direta, contudo, não tem o efeito de sobrestar os recursos extraordinários sobre essa controvérsia constitucional.
+4. Constitui questão constitucional relevante saber se o cálculo da aposentadoria por incapacidade permanente decorrente de doença grave, contagiosa ou incurável, previsto no art. 26, § 2º, III, da EC nº 103/2019, viola o princípio da isonomia (CRFB/1988, art. 5º, caput).
+IV. DISPOSITIVO
+5. Repercussão geral reconhecida para a seguinte questão constitucional: saber se, após a edição da EC nº 103/2019, a aposentadoria por incapacidade permanente decorrente de doença grave, contagiosa ou incurável deve ser paga de forma integral.
+A afetação de recurso extraordinário como representativo da controvérsia demanda ao Tribunal de origem a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional. Publicado o acórdão do recurso repetitivo, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do Código de Processo Civil:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.§ 1o A parte poderá desistir da ação em curso no primeiro grau de jurisdição, antes de proferida a sentença, se a questão nela discutida for idêntica à resolvida pelo recurso representativo da controvérsia.
+2o Se a desistência ocorrer antes de oferecida contestação, a parte ficará isenta do pagamento de custas e de honorários de sucumbência.
+§ 3o A desistência apresentada nos termos do § 1º independe de consentimento do réu, ainda que apresentada contestação.
+Essa a orientação estampada nos julgados assim ementados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESPACHO QUE DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, PARA OPORTUNA APLICAÇÃO DO ART. 1.040 DO CPC/2015. IRRECORRIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em que o despacho impugnado determinou a devolução dos autos ao Tribunal de origem, para oportuna aplicação do art. 1.040 do CPC/2015, por se encontrar pendente de julgamento, no STJ, Recurso Especial representativo de controvérsia repetitiva, sobre matéria tratada no Recurso Especial.
+II. Na forma da jurisprudência desta Corte, "não cabe agravo regimental contra despacho que determina o sobrestamento do feito para aguardar o julgamento de recurso repetitivo, pois se trata de ato despido de conteúdo decisório e que não gera sucumbência para quaisquer das partes (Cf.: AgRg no REsp 1266921/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJ 17.11.11 e AgRg no AREsp 110.072/PR, Rel. Min. Sidnei Benetti, Terceira Turma, DJ 12.04.12)" (STJ, AgRg no REsp 1.167.494/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 11/09/2012).
+Em igual sentido: STJ, AgRg no REsp 1.555.257/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 05/05/2016; EDcl no AgRg no REsp 1.124.215/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/04/2016.
+III. Agravo Interno não conhecido.
+(AgInt no AREsp 589.459/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/09/2016, DJe 27/09/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. QUESTÃO IDÊNTICA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. POSSIBILIDADE.
+1. Recurso decorrente de questão jurídica - legalidade da inclusão do ICMS na base de cálculo do PIS e da Cofins - que constitui tema do REsp 1.144.469/PR, da relatoria do Ministro Napoleão Nunes Maia Filho, submetido ao rito dos recursos repetitivos, nos termos do disposto no art.
+543-C do CPC/73 e na Resolução n. 8/STJ, cujo processamento se encontra pendente na Primeira Seção 2. A afetação de recurso especial como representativo da controvérsia demanda ao Tribunal de origem a suspensão de recursos interpostos que abordem idêntica questão até o pronunciamento definitivo desta Corte Superior, quando deverá ser realizado, para cada recurso suspenso, um novo juízo de admissibilidade, nos termos do art. 1.040 do CPC/2015.
+3. De acordo com o entendimento do STJ, qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida ao Tribunal de origem, a fim de que exerça a competência que lhe foi atribuída pela Lei n. 11.672/08.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1608971/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+Somente após tal providência, que representa o exaurimento da instância ordinária, o recurso especial deve, se for caso, ser encaminhado a este Tribunal Superior para análise das questões jurídicas nele suscitadas e, porventura, não prejudicadas pelo novo pronunciamento da Corte a quo.
+Posto isso, DETERMINO o retorno dos autos ao tribunal de origem, com a devida baixa, a fim de que a Corte regional proceda ao juízo de conformidade, tornando sem efeito a decisão de fls. 254/261e e declarando prejudicado os embargos de declaração de fls. 267/272e.
+Publique-se e intimem-se.
+EMENTA
