@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ANTONIA LUCIA GOMES DA SILVA e OUTROS se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 1.985/1.986):
+RESPONSABILIDADE CIVIL. MORTE POR DISPARO DE AGENTE ESTATAL. SENTENÇA DE PARCIAL PROCEDÊNCIA NA ORIGEM.
+- À falta de imputar-se conduta comissiva ao próprio Estado, calha, porém, que a conduta ilícita objeto destes autos, embora não estime praticada propter officium dizer, no exercício de funções atrai a responsabilização estatal por omissão na escolha (culpa in eligendo) ou na fiscalização de seus agentes (culpa in vigilando), na medida em que, usando (ao menos) munição de domínio do Estado), agiram, assim, na qualidade de policiais, aproveitando-se, pois, de algo apropriado a essa qualificação.
+- Não há nos autos indicações que escorem a pretendida condenação da Municipalidade de Barueri pela morte da vítima. Ainda que haja referências circunstanciais, falta robustez a essas indicações para concluir, com certeza bastante, pelo concurso de agentes do Município na conduta em exame. Averbe-se que um servidor municipal respondeu criminalmente por essa conduta, sendo absolvido na jurisdição penal.
+- O padrasto da vítima tem a seu favor, tanto que se provou a convivência, o benefício da presunção da lesão moral resultante da morte de seu filho de criação.
+- Os atos de realização obrigatória, quais os do procedimento que culmina no sepultamento dão ensejo a despesas funerárias (lato sensu) que podem ser objeto de liquidação, ali se apurando seu valor, observado o limite máximo previsto na normativa previdenciária. Diversamente, calha que tratamentos psicológicos não têm o amparo de semelhante compulsoriedade, e nenhuma foi nos autos a prova de estabelecimento de transtornos de natureza psicológica a justificar-lhes o reconhecimento, para só posterior remessa à liquidação de sentença.
+- Os valores para a compensação assinados em primeiro grau (trezentos mil comportam acréscimo, para atender ao critério adotado nesta Câmara moldado a precedentes do STJ o equivalente a 500 salários mínimos. Este será o valor total a distribuir-se entre os autores. Mantidos, com a só inclusão da parte de José Félix Neto, os critérios de distribuição indicados na sentença, à demandante Antônia Lucia Gomes da Silva corresponderá 2/7 desse total, e a cada qual dos demais requerentes, 1/7
+- Cabe aplicar ao tema dos juros de mora o disposto no verbete 54 do direito sumular do STJ.
+- No que tange o valor e o termo derradeiro da pensão mensal considerada a falta de elementos pontuais acerca da renda da vítima , cabe adotar os critérios já perfilhados nesta Câmara, quais o de adotarem-se 2/3 do salário mínimo até a data em que os beneficiários completem 25 anos de idade.
+Não provimento da apelação fazendária e da remessa obrigatória, que se teve por interposta.
+Acolhimento, em parte, da apelação dos autores.
+Os embargos de declaração opostos foram rejeitados (fls. 2.015/2.020).
+A parte recorrente alega violação dos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil (CPC), pois entende que o Tribunal de origem não enfrentou de forma adequada a questão referente ao rec onhecimento da pr ova oral como meio hábil para comprovar rendimentos da vítima e fixar a pensão com base nesses ganhos.
+Sustenta ofensa ao art. 944 do Código Civil, ao argumento de que os valores fixados a título de danos morais - total equivalente a 500 salários-mínimos para divisão entre os autores, com 2/7 para a mãe e 1/7 para cada um dos demais - são ínfimos e desproporcionais à gravidade do dano decorrente de morte causada por agentes públicos. Defendem, portanto, a majoração do quantum indenizatório.
+Aponta violação dos arts. 369 do CPC e 442, 884, 944 e 948, II, do Código Civil, sob o fundamento de que a vítima tinha rendimentos mensais equivalentes a 2 (dois) salários mínimos, comprovados por prova oral, devendo a pensão ser calculada sobre essa base e não limitada à base de 1 (um) salário mínimo.
+Defende, ainda, que a fixação da pensão até que os filhos completem 25 (vinte cinco) anos contraria o art. 948, II, do Código Civil, que prevê a duração provável da vida da vítima como parâmetro. Além disso, afirma que a não aplicação integral da Súmula 490 do Supremo Tribunal Federal, com reajuste pela variação do salário mínimo, impede a reparação integral.
+Aduz, por fim, divergência jurisprudencial.
+Requer, ao final, o conhecimento e provimento do recurso, para que seja reformado o acórdão recorrido e reconhecidas as violações apontadas, com a consequente majoração da indenização por danos morais e revisão dos critérios de fixação da pensão.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido (fls. 2.430/2.432), razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Assiste razão à parte recorrente.
+A alegada ofensa ao art. 1.022 do Código de Processo Civil tem por base suposta omissão do acórdão recorrido quanto ao reconhecimento da prova oral como meio idôneo para comprovar os rendimentos da vítima e à consequente fixação da pensão com base nesses valores.
+Constato que, apesar de provocado em duas oportunidades, por meio do recurso de apelação às fls. 1.868/1.870 e dos embargos de declaração às fls. 2.007/2.013, o Tribunal de origem manteve-se silente sobre essa matéria.
+Para o Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 1.022 do CPC no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação do recurso.
+A propósito, cito estes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito.
+(AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+O provimento do recurso especial prejudica as demais matérias nele suscitadas.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e a ele dar provimento, a fim de reconhecer o vício de omissão e, assim, anular o acórdão recorrido, determinando o retorno dos autos à origem para novo exame dos embargos de declaração quanto ao ponto omitido.
+Publique-se. Intimem-se.
+ EMENTA
