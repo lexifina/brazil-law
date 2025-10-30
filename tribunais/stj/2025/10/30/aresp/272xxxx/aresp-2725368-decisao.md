@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por GABRIEL LUIZ LAPOLLI KOIKE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 503):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO DE RETORNO DOS AUTOS À ORIGEM PARA REGULAR PROSSEGUIMENTO. PRETENSA REFORMA DO DECISUM. INACOLHIMENTO. PEDIDO DESCABIDO. REFORMA DO ACÓRDÃO QUE JULGOU O RECURSO DA APELAÇÃO QUE DEVE SE DAR ATRAVÉS DE RECURSO ADEQUADO. PEDIDO FORMULADO POR MEIO DE SIMPLES PETIÇÃO QUE NÃO PODE ENSEJAR A REFORMA DO ACÓRDÃO E DA SENTENÇA RECORRIDA. APLICAÇÃO DA MULTA ESTATUÍDA PELO § 4º, DO ART. 1021, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 10, 141, 329, II, e 1.014 do CPC e aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial (fl. 380).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 513-514), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 495-496).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, no Tribunal de origem, foi indeferido o pleito de justiça gratuita e intimado o recorrente para efetuar o recolhimento do preparo recursal (fls. 419-420), momento em que foi concedido prazo para que a agravante realizasse o pagamento das custas judiciais.
+Entretanto, mesmo após a concessão do prazo, a agravante não se desincumbiu de seu ônus, por ter juntado recibo desacompanhado da sequência numérica do código de barras, conforme certificado à fl. 513, o que denota a deserção do seu apelo, atraindo a incidência da Súm ula n. 187/STJ.
+Ressalto o entendimento desta Corte no sentido de que falta do número do código de barras do comprovante de pagamento apresentado impede a aferição da regularidade do preparo, tornando o recurso deserto. Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATUIDADE DE JUSTIÇA. PREPARO. RECOLHIMENTO, ATO INCOMPATÍVEL. PRECLUSÃO LÓGICA. COMPORTAMENTO CONTRADITÓRIO. INTIMAÇÃO. RECOLHIMENTO SIMPLES. INSUFICIÊNCIA COMPLEMENTAÇÃO. COMPROVANTE DE PAGAMENTO. PIX. CÓDIGO DE BARRAS. AUSÊNCIA DE NUMERAÇÃO. ART. 1.007 DO CÓDIGO DE PROCESSO CIVIL. DESERÇÃO CARACTERIZADA. SÚMULA Nº 187/STJ. 1. A parte que, apesar da concessão da gratuidade de justiça, procede ao pagamento das custas processuais, pratica ato incompatível com a pretensão de reconhecimento do mencionado benefício, o que atrai a ocorrência de preclusão lógica e a vedação ao comportamento contraditório. 2. Não comprovado o recolhimento das custas devidas no momento da interposição do recurso especial, a parte recorrente, após intimação, deve promover o recolhimento em dobro, conforme disciplina o § 4º do artigo 1.007 do Código de Processo Civil de 2015. 3. O entendimento desta Corte Superior é no sentido de que a falta de numeração do código de barras no comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o deserto. 4. Agravo interno não provido. (AgInt no AREsp n. 2.557.100/RO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/5/2025, DJEN de 9/5/2025.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE CÓDIGOS DE BARRAS. INTIMAÇÃO PARA REGULARIZAR NÃO ATENDIDA. DESERÇÃO. SÚMULA N. 187/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A orientação jurisprudencial desta Corte Superior é firme no sentido de que "a ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-se, portanto, deserto" (AgInt nos EDcl nos EREsp n. 1.563.122/RS, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 24/10/2023, DJe de 30/10/2023).
+2. Situação em que a parte recorrente não apresentou documento com a sequência numérica do código de barras afim de comprovar a sua correlação com os dados constantes na guia de recolhimento, impossibilitando a aferição do correto recolhimento das custas devidas.
+3. É deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar vício na comprovação do preparo, não o faz. Incidência da Súmula n. 187/STJ 4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.737.100/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
