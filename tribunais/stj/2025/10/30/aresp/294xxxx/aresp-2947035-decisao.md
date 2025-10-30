@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUIZ FERNANDO MOSCA FACENDA contra a decisão do Tribunal de origem que inadmitiu o recurso especial, com fundamento nas Súmulas n. 282, 283 e 356 do STF e 7 do STJ.
+Nas razões recursais, a defesa sustenta que há correta fundamentação, assim como demonstração de afronta à norma, inexistindo necessidade de reanálise de prova, tratando-se de matéria de ordem pública, cuja análise pode até ser feita de ofício pelo órgão julgador, não havendo falar em ausência de prequestionamento.
+Com essas considerações, o agravante requer que o agravo seja provido para que o recurso especial seja julgado.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo reconhecimento, de ofício, da extinção da punibilidade do agravante pela ocorrência da prescrição da pretensão punitiva, nos termos da seguinte ementa (fl. 356):
+Agravo regimental em agravo em recurso especial. Condenação por porte de drogas para consumo próprio. Alegação de prescrição da pena, de nulidade por falta de citação pessoal e de atipicidade do fato. Existência de questão prejudicial à análise do mérito recursal. Embora não prequestionada, a punibilidade do réu está extinta pela ocorrência da prescrição da pretensão punitiva estatal. É que o fato ocorreu em 25/09/2019 (e-STJ Fls. 1/2), a denúncia recebida em 22/11/2019 (e-STJ Fl. 106), a sentença condenatória foi publicada em 22/05/2024 (e-STJ Fl. 181) e a Sessão de julgamento de acórdão confirmatório da condenação foi realizada em 10/12/2024 (e-STJ Fl. 253), sobrevindo o trânsito em julgado para o Ministério Público em 14/02/2025 (e-STJ Fl. 289). Logo, é certo o decurso do lapso prescricional de 2 anos para o porte de drogas para consumo próprio, nos termos do art. 30 da Lei nº 11.343/06, entre o recebimento da denúncia e a publicação da sentença condenatória. Superação dos pedidos remanescentes.
+Parecer pelo reconhecimento, de ofício, da extinção da punibilidade do agravante pela ocorrência da prescrição da pretensão punitiva e por que seja julgado prejudicado o pedido recursal.
+É o relatório.
+O Tribunal de origem deu parcial provimento ao recurso da defesa para desclassificar a imputação feita ao recorrente para o art. 28 da Lei de Drogas.
+Com efeito, entre a data do recebimento da denúncia (22/11/2019) e a publicação da sentença condenatória (22/5/2024), transcorreram mais de 2 anos, ocorrendo, portanto, a prescrição da pretensão punitiva, assim como exposto pelo Ministério Público Federal (fl . 357, grifei):
+De fato, a punibilidade do réu está extinta pela ocorrência da prescrição da pretensão punitiva estatal, apesar de não transpor a barreira do prequestionamento.
+É que o fato ocorreu em 25/09/2019 (e-STJ Fls. 1/2), a denúncia recebida em 22/11/2019 (e-STJ Fl. 106), a sentença condenatória foi publicada em 22/05/2024 (e-STJ Fl. 181) e a Sessão de julgamento de acórdão confirmatório da condenação foi realizada em 10/12/2024 (e-STJ Fl. 253), sobrevindo o trânsito em julgado para o Ministério Público em 14/02/2025 (e-STJ Fl. 289).
+Logo, é certo o decurso do lapso prescricional de 2 anos para o porte de drogas para consumo próprio, nos termos do art. 30 da Lei nº 11.343/06, entre o recebimento da denúncia e a publicação da sentença condenatória.
+Reconhecida, pois, de ofício, a extinção da punibilidade do agravante pela prescrição da pena, resta superada a análise dos pedidos remanescentes.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para declarar a extinção da punibilidade do recorrente Luiz Fernando Mosca Facenda quanto ao delito previsto no art. 28 da Lei de Drogas, nos termos do art. 30 da Lei n. 11.343/2006, c/c o art. 107, IV, do Código Penal .
+Publique-se. Intimem-se.
+EMENTA
