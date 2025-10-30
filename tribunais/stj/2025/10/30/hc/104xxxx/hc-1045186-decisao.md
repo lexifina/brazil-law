@@ -1,0 +1,17 @@
+DECISÃO
+ABDO OMAR NAJAR NETO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1500347-43.2020.8.26.0394.
+A defesa busca revisão da dosimetria da pena do paciente e a modificação do regime inicial.
+Decido.
+Infere-se dos autos que o paciente foi condenado, como incurso no art. 15 da Lei n. 10.826/2003, à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto. O Tribunal estadual ratificou o édito condenatório, ao negar provimento à apelação defensiva.
+Na sequência, a defesa interpôs recurso especial, no qual apontou a ausência de fundamentação idônea para fixar o regime inicial mais gravoso.
+Inadmitido o recurso especial pela instância a quo, houve a interposição do respectivo agravo, distribuído nesta Corte Superior, em 25/2/2025 (AREsp n. 2.866.499/SP). Por meio de decisão proferida por esta relatoria, em 25/6/2024, o agravo foi conhecido para negar provimento ao recurso especial.
+O referido decisum foi publicado em 30/5/2025, certificado o trânsito em julgado em 9/6/2025.
+No dia 17/10/2025, impetrou-se o presente habeas corpus, no qual se busca a redução da pena aplicada, com a consequente modificação do regime inicial. Assim, neste writ, constata-se que a defesa inova em suas alegações, na medida em que a matéria que pretende seja analisada não foi objeto de seu recurso especial.
+Diante de tal cenário, constata-se a impossibilidade de conhecimento deste mandamus, substitutivo de recurso especial, seja pela inovação em trazer ao STJ questão não recorrida no recurso especial, operando-se o trânsito em julgado em relação à matéria, seja por violação do princípio da unirrecorribilidade.
+Com efeito, em diversas ocasiões, este Superior Tribunal reconheceu a impossibilidade de uso do habeas corpus concomitante à interposição de recurso especial ou em substituição à revisão criminal. A crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte Superior, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+Ilustrativamente: "não bastasse o entendimento pacificamente adotado por esta Corte Superior, no sentido da inviabilidade de uso do remédio constitucional em substituição a recurso previsto em lei, na hipótese em exame o habeas corpus fora impetrado em paralelo ao recurso especial interposto contra o acórdão proferido pela instância ordinária, em evidente violação ao princípio da unirrecorribilidade" (AgRg no HC n. 863.824/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Na mesma direção: "não se admite a tramitação simultânea de recursos (ou ações autônomas de impugnação) e de habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade" (AgRg no HC n. 826.186/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 21/8/2023)
+Ainda que assim não fosse, a tese objeto deste mandamus não foi alegada pela defesa nas razões de sua apelação, motivo pelo qual não foi analisada pelo Tribunal estadual, circunstância que evidencia a impossibilidade de sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
