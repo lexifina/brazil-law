@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial no qual o ESTADO DE MINAS GERAIS se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 214):
+REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO - TAXA DE INCÊNDIO INSTITUÍDA PELA LEI 14.938/03 DO ESTADO DE MINAS GERAIS - REPERCUSSÃO GERAL DECLARADA PELO RE 643.247/STF - INCONSTITUCIONALIDADE - CRITÉRIO DA REFERIBILIDADE - NECESSIDADE DE INSTITUIÇÃO DA COBRANÇA POR MEIO DE IMPOSTO.
+O STF, em sede de repercussão geral, fixou tese pela inconstitucionalidade da taxa de incêndio instituída por municípios, bem como, por se tratar de atividade considerada essencial, haver a necessidade de sua viabilização mediante impostos, e não taxas. Restou consignada, portanto, a ausência de referibilidade da taxa de incêndio, já que a prevenção e o combate a incêndios, afetos ao campo da segurança pública, encarada como serviço essencial à população, só podem ser viabilizados mediante a cobrança de impostos.
+Em suas razões, a parte agravante requer o conhecimento do agravo a fim de que seja determinado o processamento do recurso especial.
+A parte adversa apresentou contraminuta (fls. 344/351).
+É o relatório.
+Da irresignação não é possível conhecer, visto que a parte agravante não refutou adequadamente a decisão agravada.
+O recurso especial foi inadmitido nestes termos (fls. 301/302):
+A abertura da instância superior não é viável.
+É que a pretensão recursal de que o reconhecimento da inconstitucionalidade da Taxa de Incêndio ocorra apenas a partir da publicação do acórdão proferido no julgamento da ADI nº 4.411/MG -18/08/2020 - vai de encontro ao que foi decidido pelo STF nos embargos declaratórios opostos no âmbito da referida ação, em que foi estabelecida, por maioria, a modulação dos efeitos do julgado para:
+" ..  que tenha eficácia a partir da data de publicação da respectiva ata de julgamento (01.09.2020), estando ressalvados (1) os processos administrativos e as ações judiciais pendentes de conclusão até a referida data; (2) os fatos geradores anteriores à mesma data em relação aos quais não tenha havido pagamento  .. ." (ADI nº 4.411 ED/MG, Rel. Min. Marco Aurélio, Redator do acórdão: Min. Roberto Barroso, DJe de 07/06/2023 - g. n.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, inadmito o recurso.
+Nas razões do agravo em recurso especial, a parte assim se manifestou (fls. 337/338).
+Concessa venia, a decisão não merece prosperar. Este decisum há de ser reformado no bojo do presente recurso de agravo, a fim de que o apelo excepcional tenha regular prosseguimento, viabilizando o exame, por este Superior Tribunal de Justiça, da ofensa aos preceitos constitucionais sustentados no Recurso Especial aviado pelo Estado, pelas razões a seguir aduzida.
+ ..
+As questões relativas à modulação realizada na ADI 4.411 se esbarram na inviabilidade de se obter efeitos patrimoniais na via estreita do mandado de segurança
+Constato que a parte agravante não impugnou a decisão de inadmissibilidade; ao revés, confirma que a controvérsia é pertinente a matéria eminentemente constitucional, incabível de apreciação no âmbito do recurso especial, sob pena de vulneração da competência do Supremo Tribunal Federal (STF), consoante o disposto no art. 102, III, da Constituição Federal.
+Registro, ainda, que o tema referente à violação dos arts. 170 do CTN e 23 da lei 12.016/2009, indicado nas razões do agravo em análise, não foi objeto do recurso especial, de modo que não é argumento suficiente a impugnar a decisão agravada.
+O objetivo do agravo em recurso especial é o de desconstituir a decisão de inadmissão do recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados com o fim de demonstrar o seu desacerto, o que, como se vê, não foi feito no presente caso.
+Dessa forma, por faltar impugnação pertinente, aplico ao presente caso, por analogia, a Súmula 182 do Superior Tribunal de Justiça (STJ), segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. Em análise do Agravo Interno interposto, tem-se que a parte agravante não rebateu todos fundamentos da decisão que conheceu do Agravo para conhecer em parte e negar provimento ao Recurso Especial, pois deixou de se manifestar acerca da incidência das Súmulas 282 e 356/STF.
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido.
+(AgInt no AREsp n. 1.616.546/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/6/2020, DJe de 29/6/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016; AgInt no AREsp 800.320/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/10/2016; EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018; EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.503.814/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/10/2019, DJe de 28/10/2019.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
