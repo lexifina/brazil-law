@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 277-278):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. HONORÁRIOS SUCUMBENCIAIS. DEFENDSORIA PÚBLICA ESTADUAL. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE. AFASTADA. INCONSTITUCIONALIDADE DE NORMAS ESTADUAIS. AUTONOMIA DA DEFENSORIA PÚBLICA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO IMPROVIDO.
+I. CASO EM EXAME
+1. O Estado da Bahia interpôs Agravo Interno contra decisão monocrática que condenou o ente ao pagamento de honorários de sucumbência à Defensoria Pública do Estado da Bahia, fixados em 20% sobre o valor da causa, com destinação ao FAJDPE/BA, vedado o rateio entre os membros da instituição.
+2. A decisão foi proferida em conformidade com o Tema 1.002 da Repercussão Geral do STF, que reconheceu o direito da Defensoria Pública ao recebimento de honorários sucumbenciais independentemente do ente público contra o qual litiga.
+I. QUESTÕES EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é cabível a condenação do Estado da Bahia ao pagamento de honorários de sucumbência à sua Defensoria Pública, em virtude das normas estaduais que vedam tal condenação.
+III. RAZÕES DE DECIDIR
+4. O STF, no julgamento do Tema 1.002, consolidou o entendimento de que os honorários sucumbenciais são devidos à Defensoria Pública, mesmo quando esta litiga contra o ente a que pertence, devendo os valores serem destinados exclusivamente ao aparelhamento da instituição. A incidência da tese fixada acaba por afastar a aplicação de normas estaduais que vedam o pagamento em discussão, reconhecendo sua inconstitucionalidade à luz da autonomia funcional, administrativa e orçamentária das Defensorias Públicas, garantida pelos arts. 134, §§ 2º a 4º, e 168 da CF.
+5. A Lei Complementar nº 132/2009, que alterou a LC nº 80/94, incluiu no art. 4º, XXI, a previsão de que a Defensoria Pública pode receber honorários sucumbenciais, inclusive em causas contra entes públicos, destinando-os ao seu aparelhamento. Esta norma federal suspendeu a eficácia de disposições estaduais contrárias, como os arts. 6º, II, e 265, ambos da LC estadual nº 26/2006; e o art. 3º, I, da Lei Estadual nº 11.045/2008.
+IV. DISPOSITIVO
+6. Agravo Interno conhecido e improvido, mantendo-se a decisão recorrida.
+Embargos de declaração rejeitados, nos termos da seguinte ementa (fls.318-320):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO DE FORNECIMENTO DE TRATAMENTO MÉDICO. HONORÁRIOS SUCUMBENCIAIS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA. ALEGAÇÃO DE INCOMPETÊNCIA DO JUÍZO EM RAZÃO DO VALOR DA CAUSA. PRETENSÃO DE APLICAÇÃO DO RITO DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DESCABIMENTO DA CONDENAÇÃO EM HONORÁRIOS. DISTINÇÃO ENTRE O VALOR DA CAUSA E O VALOR DO TRATAMENTO. CUSTO ELEVADO, CONTINUADO E IMPREVISÍVEL DA PRESTAÇÃO MÉDICA. INOVAÇÃO RECURSAL CONFIGURADA. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO. EMBARGOS REJEITADOS.
+I. CASO EM EXAME
+1. Embargos de Declaração opostos contra acórdão que, ao julgar agravo interno, manteve decisão condenatória ao pagamento de honorários sucumbenciais em favor da Defensoria Pública estadual. A parte embargante alegou omissão do acórdão quanto à suposta incompetência do juízo de origem, por entender que o valor da causa, inferior ao teto legal, atrairia a aplicação do rito dos Juizados Especiais da Fazenda Pública, hipótese que, segundo sustenta, afastaria a possibilidade de condenação em honorários.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se houve omissão no acórdão embargado quanto à análise da competência do juízo de origem à luz do valor da causa, e se a matéria pode ser validamente suscitada em sede de embargos de declaração, à luz das regras processuais e da jurisprudência consolidada.
+III. RAZÕES DE DECIDIR
+3. O valor atribuído à causa na petição inicial, embora inferior ao limite previsto na Lei dos Juizados Especiais da Fazenda Pública, não reflete a real dimensão econômica do tratamento médico requerido, o qual envolve internação hospital, procedimentos médicos e terapias de alta complexidade, com duração indefinida e custo elevado.
+4. Em ações dessa natureza, o valor econômico em disputa não é plenamente quantificável no momento da propositura da demanda, pois a extensão, frequência e complexidade do tratamento somente se definem ao longo do tempo, o que torna legítima e prudente a adoção do rito comum, mesmo quando o valor da causa aparente não ultrapassa o teto do juizado.
+5. A alegação de incompetência do juízo com base no valor da causa foi apresentada apenas nesta fase processual, não tendo sido arguida nas oportunidades anteriores  contestação, embargos anteriores e agravo interno  configurando, portanto, inovação recursal. Ainda que se trate de matéria de ordem pública, a jurisprudência do Superior Tribunal de Justiça é firme ao afirmar que a preclusão consumativa impede o conhecimento de alegações formuladas apenas em embargos declaratórios.
+6. Não se constata qualquer omissão no acórdão recorrido. A parte embargante busca rediscutir fundamentos que foram devidamente enfrentados ou sequer suscitados em momento processual adequado, o que revela a impropriedade da via eleita.
+7. O acórdão embargado está alinhado com a orientação firmada pelo Supremo Tribunal Federal no Tema 1002 da repercussão geral, que reconhece o direito da Defensoria Pública ao recebimento de honorários sucumbenciais mesmo quando atua contra o ente federativo ao qual pertence, desde que represente parte vencedora.
+IV. DISPOSITIVO
+8. Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, § 1º e 1.022 do CPC/2015, ao argumento de que "o acórdão recorrido se limitou alegar que se trata de inovação recursal, entretanto não identificou e nem demonstrou em seus fundamentos determinantes que o caso sob julgamento se ajusta nessa inovação alegada" (fl.335).
+Quanto à questão de fundo, sustenta ofensa aos artigos 485, § 3º, do CPC e 2º e 27 da Lei 12.153/2009.
+Diz que as matérias de ordem pública podem ser agruidas em qualquer grau de jurisdição, não havendo que se falar em preclusão.
+Defende a competência absoluta do Juizado Especial da Fazenda Pública para julgar a presente demanda em razão do valor atribuído à causa (fl.338) razão pela qual incabível a condenação em honorários sucumbenciais em favor da ora recorrida.
+Contrarrazões às fl. 346-364.
+Juízo positivo de admissibilidade às fls.376-387.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que à controvérsia foi devidamente apreciada no aresto bahiano, que assim consignou (fls. 826/827):
+ ..
+Pois bem! A alegação de competência dos Juizados, que não foi arguída em momento oportuno - nem na contestação, tampouco nos embargos de declaração e agravo interno interpostos pelo recorrente -, veiculada apenas agora, em sede de embargos de declaração, configurando, assim, inovação processual, vedada nesta fase processual, ainda que se trate de matéria de ordem pública.
+ ..
+Ademais, no que se refere ao valor da causa, importa destacar que, em ações como a presente, o montante atribuído à causa não reflete a totalidade dos custos envolvidos no tratamento médico requerido. Com efeito, a internação hospital e os procedimentos médicos pleiteados possuem, a princípio, caráter contínuo, duração incerta e custos elevados, que podem extrapolar significativamente o valor inicialmente indicado. Diante disso, é legítima e prudente a adoção do rito comum, por se tratar de matéria complexa e de alta indeterminação econômica.
+Por fim, o acórdão embargado encontra-se em consonância com a tese fixada pelo Supremo Tribunal Federal no Tema 1002, segundo a qual "é devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Quanto à matéria de fundo, além de os artigos apontados como malferidos, não terem sido objeto de prequestionamento - (porquanto só suscitados em aclaratórios na origem), constata-se que o recorrente não impugnou, nas razões do recurso especial, o fundamento utilizado pelo TJ/BA supra destacado - (valor atribuído à causa seria, na verdade, superior ao indicado), e que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Nada impugnou o recurso especial nesse tópico autônomo, circunstância a determinar a aplicação do enunciado 283 da Súmula do STF, que incide por analogia ao recurso especial.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento. Majoro-os os honorários fixados na origem, em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
