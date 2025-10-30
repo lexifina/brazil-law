@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 247):
+ADMINISTRATIVO. PROCESSO CIVIL. EXECUÇÃO FISCAL. EXTINÇÃO. RESOLUÇÃO CNJ Nº 547/2024.
+1. Com a finalidade de aclarar a orientação vinculante do Tema STF 1184, o CNJ estabeleceu medidas de tratamento racional e eficiente na tramitação das execuções fiscais pendentes no Poder Judiciário, editando a Resolução nº 547/2024, de 22/02/2024.
+2. É legítima a extinção da execução fiscal, por falta de interesse processual, quando o valor do débito na data do ajuizamento da execução, sem atualização posterior, for inferior a dez mil reais, e se fizer presente uma das seguintes hipóteses: (i) ausência de movimentação útil há mais de um ano e ausência de citação do devedor ou (ii) ausência de movimentação útil há mais de um ano e ausência de bens penhoráveis no caso de devedor citado.
+3. No que diz respeito à caracterização da movimentação útil, é fundamental verificar se o exequente de fato promove medidas eficazes e proveitosas ao recebimento de seu crédito, isto é, que produzam algum resultado efetivo, não bastando, para tanto, meros pedidos de diligências que não tragam qualquer resultado.
+4. Sentença mantida.
+O recorrente alega violação do art. 8º da Lei 12.514/2011, sob os seguintes argumentos: a) o Tema 1184/STF é inaplicável às execuções fiscais movidas pelos Conselhos de Fiscalização Profissional, posto que a cobrança administrativa e judicial de débitos por essas autarquias corporativas obedece a regramento específico (Lei 12.514/2011), ressaltando que citado diploma legal não foi objeto de análise pelo STF na ação que deu origem ao tema, que versou especificamente sobre execuções fiscais de municípios; b) o Recorrente é um conselho de fiscalização profissional e segue, além da Lei 6830/1980, os ditames da Lei 12.514/2011; c) na existência de uma lei especial que estabelece o valor mínimo para o ajuizamento das execuções fiscais pelos Conselhos de Fiscalização, não há como se acolher o novo valor determinado em resolução editada pelo CNJ, dada a natureza hierarquicamente inferior desta, sob pena de afronta aos princípios da especialidade e da legalidade; d) os atos administrativos expedidos pelo Conselho Nacional de Justiça não fazem parte do rol do art. 927 do CPC/2015; e) o CNJ através da Resolução 547/2024 afronta claramente o princípio da separação dos poderes e o entendimento firmado pelo STF ao impor um parâmetro para o ajuizamento de execuções fiscais a União, Estados e Municípios; f) a decisão recorrida ao considerar que as execuções fiscais abaixo de R$ 10.000,00 são de pequeno valor contraria o item 1 da Tese 1184/STF, pois desrespeita a competência constitucional dos entes federados; g) com fundamento na Lei 12.514/2011, não há que se falar em falta de interesse de agir na presente execução fiscal, sendo a ação executiva útil, necessária e adequada na busca do adimplemento do débito encartado na CDA; h) a extinção do processo após longa tramitação, representará violação aos princípios constitucionais da eficiência, razoabilidade, proporcionalidade, inafastabilidade da jurisdição.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 263-264.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito ao art. 8º da Lei 12.514/2011 (e à tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Outrossim, ainda no que diz respeito à alegação de ofensa ao art. 8º da Lei 12.514/2011, o acórdão recorrido consignou o seguinte (fls. 243-245):
+"Discute-se a possibilidade de extinção da execução fiscal, com base na Resolução CNJ nº 547/2024.
+Extinção do feito pela Resolução nº 547/2024 do CNJ:
+(..)
+Com a finalidade de aclarar referida orientação vinculante, o CNJ estabeleceu medidas de tratamento racional e eficiente na tramitação das execuções fiscais pendentes no Poder Judiciário, editando a Resolução nº 547/2024, de 22/02/2024, que tem o seguinte teor, no que interessa ao presente recurso:
+(..)
+Da leitura de tal ato normativo em conjunto com o Tema STF 1184, se extraem as seguintes conclusões:
+(..)
+No que diz respeito à caracterização da movimentação útil, é fundamental verificar se o exequente de fato promove medidas eficazes e proveitosas ao recebimento de seu crédito, isto é, que produzam algum resultado efetivo.
+Não se podem considerar movimentações úteis, dentro do feito executivo, exemplificativamente, aquelas que se limitam a reiterar pedidos de localização do devedor ou de bens, sem que se forneça o real endereço ou sem que se encontrem bens passíveis de constrição no prazo de um ano.
+Do caso concreto
+(..)
+Trata-se de Execução Fiscal visando à cobrança de créditos consubstanciados nas CDAs 2019.006.391 e 2021.002.176.
+Nesse contexto, há mais de um ano o processo não tem movimentação processual útil no sentido da satisfação do crédito, razão por que, é forçoso concluir que estamos diante de execução infrutífera, nos termos do art. 1º, § 1º, da Resolução do CNJ nº 547, de 2024.
+Embora o credor tenha envidado esforços para prosseguir com a execução, não teve êxito em localizar bens passíveis de penhora. No curso do processo, foram deferidos diversos pedidos de busca de ativos financeiros, bens imóveis ou veículos que pudessem garantir a satisfação do crédito.
+Ademais, não se verifica nos autos morosidade dos mecanismos da Justiça que justificasse afastar a incidência da determinação dada pelo art. 1º, § 1º, da Resolução nº 547/2024.
+A manutenção de uma execução ativa por prazo indeterminado, sem perspectiva de ultimação produtiva, implica não só o prolongamento in nito da responsabilidade patrimonial do devedor, como também um custo administrativo elevado, que não pode ser suportado pela máquina judiciária, sob pena de grave violação ao princípio da razoabilidade.
+À vista de tais considerações, deve ser mantida a sentença de extinção."
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial, a qual, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Finalmente, no caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa ao art. 8º da Lei 12.514/2011, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso, ao que se acrescenta que o dispositivo em exame não contém comando normativo capaz de infirmar o juízo formulado no julgado. Aplica-se à hipótese, por ambos os motivos, a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
