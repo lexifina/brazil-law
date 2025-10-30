@@ -1,0 +1,15 @@
+DECISÃO
+JOHNATHAN ADALBERTO COSTA e DENISMAR APARECIDO SOARES DA COSTA, acusados por homicídio qualificado tentado e consumado, interpõem recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, que denegou a ordem impetrada naquela Corte, na qual pretendiam a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+O caso permite o julgamento antecipado do recurso em habeas corpus, por se adequar à pacífica orientação desta Corte em casos análogos, todos desfavoráveis à pretensão defensiva.
+De início, registro que não é possível, conforme pacífica orientação desta Corte e do Supremo Tribunal Federal, a decretação da prisão preventiva de ofício pelo juiz, sem a manifestação da autoridade policial ou do Ministério Público.
+Contudo, na linha da orientação deste Superior Tribunal "havendo posterior manifestação do Ministério Público pela manutenção da segregação cautelar, com reanálise da necessidade da custódia pelo Juízo, fica sanada a irregularidade anterior" (AgRg no n. HC 619.360/PR, relator Ministro Ribeiro Dantas, Dje 9/8/2021).
+No caso, foi "observado que o Ministério Público posteriormente anuiu com a conversão, de ofício, da prisão temporária em preventiva, como consta da movimentação 33 da cautelar nº 5529334-59.2025.8.09.0122" (fl. 99, destaquei).
+No que tange à necessidade de fundamentação, assinalo que a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, extrai-se dos autos a indicação da gravidade concreta dos fatos que lhes são imputados, os quais pode sem sintetizados pela seguinte passagem do acórdão impugnado (fl. 100):
+ ..  ao expor a futilidade do motivo (bate- boca quanto ao fechamento da autoelétrica) e o modus operandi (disparos de arma de fogo contra as vítimas que estavam de costas), demonstra a periculosidade dos pacientes e, assim, por ora, tenho que medidas cautelares diversas da prisão não são suficientes para garantir a ordem pública.
+Na esteira do entendimento desta Corte, é justificada a constrição quando o "decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade do acusado que agiu com peculiar modus operandi" (HC n. 449.326/BA, relator Ministro Rogerio Schietti, DJe 5/4/2019).
+Digno de nota, ainda, que "a liberdade dos investigados/representados está causando temor às testemunhas, tendo sido relatado que os moradores da cidade estão sendo coagidos a relatar os fatos" (fl. 10, grifei), bem como que "Johnathan Adalberto Costa, possui processo criminal em andamento na vara criminal desta comarca (autos n.º 0205613-13.2015.8.09.0148), por fato semelhante" a indicar a reiteração delitiva.
+À vista do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
