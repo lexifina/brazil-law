@@ -1,0 +1,73 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO E PROCESSUAL . DECISÃO QUE ASSENTA O CARÁTER ESTIMATIVO DO VALOR DO PEDIDO INDICADO NA INICIAL DE RECLAMAÇÃO TRABALHISTA. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE 10. INOCORRÊNCIA. MERA INTERPRETAÇÃO DOS ARTS. 840, §1º, E 852 - B DA CLT. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Vetore Indústria e Comércio de Autopeças Ltda., contra decisão proferida pelo Tribunal Regional do Trabalho da 9ª Região, nos autos do Processo nº 0000686-63.2024.5.09.0005, sob a alegação de afronta ao enunciado da Súmula Vinculante 10.
+
+    Narra o reclamante ter sido condenado em ação trabalhista ajuizada por Luan de Oliveira Paixão, na qual determinada, pelo Juízo de primeira de instância, a limitação da condenação aos valores indicados na petição inicial, por se tratar de procedimento sumaríssimo.
+
+    Consoante aponta, o TRT da 9ª Região reformou a referida decisão para autorizar a condenação em valor superior ao limite apresentado na petição inicial, à consideração de que a quantificação do pedido determinada nos arts. 840, § 1º, e 852-B da CLT cuida de mera estimativa de valores, mesmo no procedimento sumaríssimo. Reporta ter manejado recurso de revista, ao qual negado seguimento.
+
+    Sustenta que, ao assim decidir, o órgão fracionário da Corte Regional negou vigência aos arts. 840, §1º, da CLT, segundo o qual o pedido da reclamação trabalhista “deverá ser certo, determinado e com indicação de seu valor”, sem declarar expressamente a sua inconstitucionalidade, em afronta à Súmula Vinculante 10.
+
+    Requer, por estes fundamentos, a suspensão liminar dos efeitos da decisão reclamada e, por fim, a procedência da reclamação para que seja cassado o acórdão reclamado, “determinando-se que outro seja proferido, com a estrita observância do disposto no artigo 840, § 1º, da CLT, limitando-se a condenação aos valores indicados em cada pedido na petição inicial”.
+
+    Dispensa-se, no caso concreto, a manifestação da Procuradoria-Geral da República, ante o caráter reiterado da matéria, nos termos do parágrafo único do art. 52 do RISTF.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido”. (Rcl 50.238 AgR, Primeira Turma, Rel. Min, Dias Toffoli, DJe 24/05/2022, grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Reclamação ajuizada em face de decisão que declarou a competência da Justiça do Trabalho para julgar ação que versa sobre descumprimento de normas de segurança e medicina do trabalho aplicáveis a trabalhadores que laboram nos hospitais públicos estaduais. 2. Ausência da necessária relação de aderência estrita entre o ato reclamado e o paradigma apontado como violado, tendo em conta que a decisão reclamada se dedica à análise do cumprimento de normas de saúde e segurança do trabalho como forma de proteção à vida, à saúde e à integridade física de trabalhadores, garantindo o direito constitucional a meio ambiente de trabalho hígido e seguro para todos os empregados, independentemente do regime jurídico a que estejam sujeitos. 3. Agravo interno a que se nega provimento”. (Rcl 52.766 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 16/08/2022, grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento”. (Rcl 54.142 AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe 23/08/2022, grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de inobservância da Súmula Vinculante 10, à alegação de não aplicação, no caso concreto, do disposto no art. 840, § 1º, da CTL. Eis o teor do verbete sumular invocado como paradigma:
+
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte.”
+
+    O art. 840, § 1º, da CLT, por sua vez, ostenta a seguinte redação:
+
+    “Art. 840 - A reclamação poderá ser escrita ou verbal.
+
+    § 1º Sendo escrita, a reclamação deverá conter a designação do juízo, a qualificação das partes, a breve exposição dos fatos de que resulte o dissídio, o pedido, que deverá ser certo, determinado e com indicação de seu valor, a data e a assinatura do reclamante ou de seu representante.”
+
+    A leitura da decisão reclamada revela que a 2ª Turma do TRT da 9ª Região não afastou a incidência do art. 840, § 1º, da CLT. Com efeito, ao contrário do que sustenta a parte autora, o Juízo reclamado, no exercício de sua regular competência, limitou-se a aplicar o entendimento firmado pelo Pleno daquela Corte Regional, no julgamento de Incidente de Assunção de Competência, no sentido de que a indicação dos valores dos pedidos na petição inicial da reclamação trabalhista possui caráter meramente estimativo, não vinculando a fase de liquidação. Além disso, ressaltou o que o TST adota a mesma orientação, a qual estendeu ao art. 852-B da CLT, que disciplina aspectos do pedido no procedimento sumaríssimo. Confira-se, a título elucidativo, excerto do acórdão reclamado (doc. 33 p. 4-5):
+
+    “Consoante dispõe o art. 852-B, I, da CLT, nas reclamações enquadradas no procedimento sumaríssimo "o pedido deverá ser certo ou determinado e indicará o valor correspondente".
+
+    De acordo com o entendimento desta E. 2º Turma, do qual perfilho, o referido preceito legal exige da parte autora uma mera estimativa do montante pecuniário relacionado a cada pedido condenatório. Em outras palavras, não lhe atribui o encargo de liquidar, no momento da propositura da demanda, os valores efetivamente devidos.
+
+    Assim, a reclamante atendeu ao disposto no art. 852-B, I, da CLT, ao indicar, por estimativa, os valores dos pedidos, não sendo razoável interpretá-los como vinculantes para fins de apuracão do quantum debeatur, sendo plenamente possível o cálculo da quantia efetivamente devida resultar em montante superior ou mesmo inferior ao estimado pelo trabalhador na petição inicial, de acordo com os elementos de prova que eram incertos no momento do ajuizamento da demanda.
+
+    Ressalte-se que o Pleno deste E. TRT, ao julgar o Incidente de Assunção de Competência (IAC 0001088-38.2019.5.09.0000), reconheceu a possibilidade de apresentação por estimativa dos valores de cada pedido, não estando a liquidação adstrita aos valores indicados na petição inicial, definindo para o Tema nº 09 a seguinte Tese Jurídica:
+
+    (...)
+
+    Outrossim, no recente julgamento dos autos Emb-RR 555- 36.2021.5.09.0024 (07/12/2023), entendeu a SDI-I do C. TST que "os valores constantes nos pedidos apresentados de forma líquida na reclamação trabalhista devem ser considerados como mera estimativa, não limitando a condenação, por força da Instrução Normativa nº 41/2018 c/c art. 840, $1º, da CLT e dos princípios constitucionais que regem o processo do trabalho, em especial os princípios do amplo acesso à Jurisdição (art. 5º, XXXV, da CF), da dignidade da pessoa humana (art. 1º, III, da CF), da proteção social do trabalho (art. 1º, IV, da CF)".
+
+    Conclui-se, diante do exposto, que mesmo no procedimento sumaríssimo os valores apontados na petição inicial não vinculam o juízo no tocante à fixação do quantum debeatur, estendendo-se ao art. 852-B da CLT (procedimento sumaríssimo) a mesma interpretação conferida ao art. 840 da CLT. ”.
+
+    No ponto, cumpre consignar que a jurisprudência desta Corte é pacífica no sentido de que não se poder confundir ofensa à Súmula Vinculante 10 com mera interpretação de dispositivos legais. Com efeito, sem que haja declaração expressa ou tácita de inconstitucionalidade de dispositivo legal por órgão fracionário, não se verifica ofensa ao mencionado verbete sumular. Nesse sentido, em casos idênticos ao presente, cito os seguintes julgados:
+
+    “EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSUAL TRABALHISTA. PRETENSÃO DE LIMITAR A CONDENAÇÃO AO VALOR DOS PEDIDOS DA INICIAL: § 1º DO ART. 840 DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. ALEGADO DESRESPEITO À SÚMULA VINCULANTE N. 10 DO SUPREMO TRIBUNAL FEDERAL: INOCORRÊNCIA. RECLAMAÇÃO N. 77.179: DECISÃO INTER PARTES E SEM EFEITO VINCULANTE. USO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO: IMPOSSIBILIDADE: PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (Rcl 83.179 AgR, Rel. Min Carmen Lúcia, 1ª Turma, DJe 24.9.2025)
+
+    “EMENTA Agravo regimental em reclamação. Súmula Vinculante nº 10. Interpretação e aplicação de normas infraconstitucionais ao caso concreto. Ato reclamado. Ausência de aderência com o paradigma da Corte. Agravo regimental ao qual se nega provimento. 1. Não houve afastamento afastamento da aplicação do art. 840, § 1º, da CLT por fundamento constitucional, mas juízo interpretativo do dispositivo, o que revela, conforme assentado na decisão monocrática, a ausência de aderência estrita do objeto reclamado com o paradigma da Súmula Vinculante nº 10. 2. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 3. Agravo regimental não provido”. (Rcl 83.265, Rel. Min. Dias Toffoli, 2ª Turma, DJe 24.9.2025)
+
+    Ex positis, NEGO SEGUIMENTO à presente reclamação, nos termos do artigo 932, inciso VIII, do Código de Processo Civil, combinado com o artigo 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido de medida liminar.
+
+    Publique-se.
+
+    Brasília, 30 de outubro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
