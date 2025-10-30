@@ -1,0 +1,146 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001250-33.2024.8.08.0037
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO PAN S.A. e outros (3)
+RECORRIDO: ALDAIR GONCALVES FIGUEIREDO
+RELATOR(A):
+PAULO ABIGUENEM ABIB
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+
+EMENTA: RECURSO INOMINADO. CÓDIGO DE DEFESA DO CONSUMIDOR. FALHA NA PRESTAÇÃO DE SERVIÇOS. CARTÃO DE CRÉDITO CONSIGNADO. IMPUGNAÇÃO DAS ASSINATURAS ACOSTADAS NOS CONTRATOS. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO. NECESSIDADE DE PERÍCIA GRAFOTÉCNICA. PRELIMINAR ACOLHIDA. RECURSO DO
+BANCO BNP PARIBAS BRASIL S.A. CONHECIDO E PROVIDO. RECURSO DO BANCO PAN PREJUDICADO.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+1. PRESSUPOSTOS DE ADMISSIBILIDADE
+
+Tem-se recursos inominados contra sentença. Os Recursos são cabíveis, tempestivos e o preparo foi realizado dentro do prazo legal. Preenchidos os pressupostos de admissibilidade, recebo o recurso no regular efeito previsto no art. 43 da Lei 9.099/95.
+
+2. RELATÓRIO
+
+Trata-se de ação declaratória de inexistência de débito com danos morais ajuizada por
+ALDAIR GONCALVES FIGUEIREDO por meio da qual alega, em síntese,
+não reconhecer a contratação de três empréstimos realizados em seu nome, nos valores inicialmente contratados de R$ 1.333,00 pelo Banco PAN (contrato 309809108-904), R$ 51,00 pelo Banco BNP (contrato 51-065127/1531005) e R$ 1.030,00 pelo Banco BMG (Contrato 5765767). Assim, requer a retirada do seu nome dos cadastros de proteção ao crédito e indenização por danos morais.
+
+Em sede de
+
+sentença (ID 15714018) foi julgado procedente o pedido autoral, sob o seguinte dispositivo:
+
+“ACOLHO o pedido inicial, resolvendo o mérito nos termos do art. 487, I, do CPC, e:
+
+A) DECLARO nulos os contratos de R$ 1.333,00 realizado com o Banco PAN (contrato 309809108-904), R$ 51,00 com o Banco BNP (contrato 51-065127/1531005) e R$ 1.030,00 com o Banco BMG (Contrato 5765767), e em consequência, confirmo a liminar concedida no ID 53221942, para fins de determinar que os requeridos se abstenham de efetuar novas restrições sob os títulos objetos desta ação, sob pena de multa de R$ 500,00 (quinhentos reais), até o limite de R$ 10.000,00 (dez mil reais), por dia de descumprimento;
+
+B) CONDENO,
+solidariamente
+, os requeridos BANCO PAN S.A., BANCO BNP PARIBAS BRASIL S.A. e BANCO BMG SA, a pagarem ao autor ALDAIR GONCALVES FIGUEIREDO, o valor de R$ 9.000,00 (nove mil reais), a título de danos morais, com correção monetária pelo índice da Corregedoria local, desde o arbitramento (súmula 362, STJ), e juros de mora, a contar da citação (art. 397, parágrafo único c/c art. 405, do CC).
+
+Sem condenação em custas e honorários advocatícios nesta fase processual, por força dos artigos 54 e 55 da Lei nº 9.099/95.
+
+Publique-se. Intimem-se.
+
+Na hipótese de interposição de recurso, intime-se a parte contrária para ciência e, caso queira, apresentar contrarrazões, certificando-se quanto à tempestividade e/ou à existência de pedido de assistência judiciária gratuita, remetendo-se os autos ao Colegiado Recursal, independente de nova conclusão.
+
+Havendo interposição de Recurso Inominado, certifique-se sobre a tempestividade.
+
+Se tempestivo e preparado, intime-se a parte contrária para as contrarrazões. Decorrido o prazo, com ou sem a apresentação das contrarrazões, subam os autos ao Colégio Recursal.
+
+Com o trânsito em julgado e sem manifestação, arquivem-se os autos.”
+
+O Banco BMG apresentou recurso inominado (ID 15714019) alegando ausência de vício de consentimento; ausência de dano moral; ausência do dever de restituição de valores; e necessidade de compensação de valores.
+
+O Banco BNP Parabibas apresentou recurso inominado (ID 15714026) arguindo prejudicial de mérito da prescrição; necessidade de perícia grafotécnica; inexistência de dano moral indenizável, ou, subsidiariamente, da necessidade de diminuição do
+quantum devido;
+necessidade de compensação e da aplicação da taxa SELIC.
+
+Contrarrazões apresentadas pelo desprovimento dos recursos.
+
+É o breve relatório. Passo a decidir.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+3. VOTO
+
+Em relação ao recurso do Banco BNP Paribas, alega preliminarmente a incompetência do juízo ao argumento de necessidade de perícia grafotécnica. Entendo que lhe assiste razão.
+
+Inicialmente, verifico que consta na sentença que o recorrido, parte autora, não reconhece a assinatura como sua, tampouco a fotografia contida no documento de identidade que teria sido entregue.
+
+No caso em apreço, é possível constatar que a produção de prova pericial se afigura indispensável para a resolução da lide para se chegar ao correto e justo deslinde da causa, por se tratar de prova complexa.
+
+Isso porque, por inspeção atécnica, as grafias possuem altíssimo grau de semelhança.
+
+Dessa forma, admite-se, ao menos teoricamente, que seja razoável a exigência de realização de perícia grafotécnica, especialmente quando as assinaturas utilizadas como comparação apresentam semelhanças entre si. Consequentemente, para evitar a violação do direito à ampla defesa, considera-se justificado o pedido de prova pericial formulado pela instituição financeira BNP PARIBAS, o que afasta a competência do Juizado Especial Cível para julgar e processar esta ação.
+
+Nesse sentido, colaciono os seguintes precedentes:
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. CONTRIBUIÇÃO ASSOCIATIVA.
+DÚVIDA SOBRE A AUTENTICIDADE DA ASSINATURA. NECESSIDADE DE PERÍCIA GRAFOTÉCNICA. COMPLEXIDADE DA CAUSA. INCOMPETÊNCIA DO JUIZADO ESPECIAL. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO.
+RECURSO CONHECIDO E NÃO PROVIDO. CASO EM EXAME Recurso interposto por consumidora alegando ausência de relação contratual com a associação demandada e nulidade dos descontos realizados em seu benefício previdenciário, requerendo a devolução em dobro dos valores descontados e indenização por danos morais. Sentença julgou o feito extinto sem resolução do mérito por incompetência do juízo diante da necessidade de produção de prova pericial complexa. QUESTÃO EM DISCUSSÃO Verificação da competência do Juizado Especial diante da necessidade de produção de prova pericial técnica (perícia grafotécnica) para aferição da autenticidade da assinatura constante no contrato de autorização de desconto. Verificação da configuração de cobrança indevida e descontos indevidos realizados no benefício previdenciário da parte. Comprovação da configuração de danos morais e necessidade de repetição do indébito. RAZÕES DE DECIDIR A semelhança entre a assinatura constante no termo de autorização e aquelas apostas em documentos pessoais da parte recorrente impede a exclusão, de plano, da veracidade do contrato. A resolução da controvérsia demanda a realização de perícia grafotécnica, tornando a causa complexa e, portanto, incompatível com o rito dos Juizados Especiais, nos termos do Enunciado 28 do Colegiado Recursal. Constatada a complexidade probatória, impõe-se o reconhecimento da incompetência do Juizado Especial e a extinção do feito sem resolução do mérito. DISPOSITIVO E TESE Recurso conhecido e não provido. Tese de julgamento: A dúvida sobre a autenticidade da assinatura em contrato, que demanda a realização de perícia grafotécnica, afasta a competência do Juizado Especial, ensejando a extinção do processo sem julgamento de mérito. Dispositivos relevantes citados: Lei nº 9.099/95, art. 3º, caput, e art. 51, II. Enunciado 28 do Colegiado Recursal. Jurisprudência relevante citada: TJDFT. Acórdão 1090241, Segunda Turma Recursal. Relator JOÃO LUÍS FISCHER DIAS, 18/04/2018. TJDFT. Acórdão 1061884, Segunda Turma Recursal. Relator ARNALDO CORRÊA SILVA, 22/11/2017. (JECES. RECURSO INOMINADO CÍVEL. Número: 5010406-17.2024.8.08.0014. Turma Recursal - 3ª Turma. Magistrado: RAFAEL FRACALOSSI MENEZES. Data: 18/Jun/2025)
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. CARTÃO DE CRÉDITO CONSIGNADO. EMPRÉSTIMO CONSIGNADO PESSOAL.
+APRESENTAÇÃO DE CONTRATO. ASSINATURA. NEGATIVA DE AUTORIA. NECESSIDADE DE PERÍCIA GRAFOTÉCNICA. COMPLEXIDADE. INCOMPETÊNCIA DO JUIZADO ESPECIAL. RECURSO DESPROVIDO. SENTENÇA MANTIDA.
+
+1. A autora narra que contratou um empréstimo com a financeira Rangel em 2011 e, posteriormente, em 2017, realizou outro empréstimo com a mesma instituição financeira. No entanto, ao verificar seu extrato, descobriu a inclusão de novos empréstimos iniciados em 2020, com término previsto para 2026, os quais não havia contratado. No total, foram realizados quatro empréstimos por duas instituições financeiras distintas, com descontos mensais de R$ 311,50. Diante disso, a autora ingressou com a presente ação pleiteando: A) A declaração de inexistência dos débitos objeto dos autos; B) A devolução dos valores eventualmente descontados, em dobro, totalizando R$ 29.904,00; C) A condenação por danos morais no valor de R$ 10.000,00; e D) A concessão de medida liminar para a suspensão dos descontos.
+
+2. A sentença objurgada julgou extinto o processo, sem resolução do mérito, na forma do art. 51, II, da LJE.
+
+3. Por meio de recurso inominado, a parte autora requer a reforma da sentença, pleiteando o julgamento do mérito, sob o argumento de que é viável a produção de prova pericial grafotécnica no âmbito dos Juizados Especiais. Em contrarrazões, as partes requeridas defendem a manutenção da sentença.
+
+4. A sentença deve ser mantida por seus próprios fundamentos, nos moldes do art. 46 da Lei n.º 9.099/95, de modo que são adotadas as suas razões de decidir (STF, Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida”).
+
+5. O pleito recursal não merece acolhimento. Ao contrário do alegado, a produção de perícia grafotécnica configura-se como fundamento para a declaração de incompetência, nos termos dos artigos 3º e 51, II, ambos da LJE. Nesse contexto, a previsão legal do artigo 35 da LJE refere-se a avaliações técnicas de menor complexidade, o que não se aplica ao caso dos autos, dado o entendimento já sedimentado desta 2ª Turma que corroboram a decisão de primeiro grau. Assim, a decisão de piso está devidamente fundamentada e em conformidade com o entendimento prevalente. Veja: “[...] ab initio, verifico a impossibilidade do prosseguimento do feito no estreito rito dos Juizados Especiais, ante a necessidade perícia técnica para o deslinde da presente demanda. A parte requerida juntou aos autos tanto o contrato escrito com a suposta assinatura da requerente (Documentos de IDs. 48944095 - Pág. 1/2, 48944100 - Pág. 1/2, 48944560 - Pág. 1/2 e 49180315 - Pág. 1/3), bem como a cópia do documento pessoa da autora (IDs. 48944095 - Pág. 3, 48944100 - Pág. 3, 48944560 - Pág. 3 e 49180315 - Pág. 4). Há ainda os comprovantes dos valores dos empréstimos depositados na conta da requerente. Em réplica (ID. 52199298), a demandante reforçou a alegação de que não celebrou tais transações. Assim, os contratos deverão ser objetos de perícia, pois este Juízo não possui perícia grafotécnica para atestar a legitimidade ou não da rubrica, o que se impõe a incompetência deste Juizado. Veja que as empresas rés acostaram aos autos cópia do contrato supostamente firmado com a parte autora, onde constam assinaturas similares à aposta no documento de sua identidade. Em comparação das assinaturas apostas nos documentos que acompanham a inicial e no contrato apresentado pelo réu, não pode o leigo afastar a autenticidade da assinatura. Nesse contexto, concluo que somente uma perícia grafotécnica realizada nos documentos constantes dos autos é capaz de atestar a veracidade ou comprovar a falsidade da assinatura da autora nos documentos apresentados pela empresa ré”.
+
+6. Da conclusão. RECURSO CONHECIDO E IMPROVIDO. Sentença mantida por seus próprios fundamentos, nos termos do art. 46 da lei 9.099/95.
+
+7. Por força da sucumbência recursal (art. 55, 2ª parte, da Lei dos Juizados Especiais), Condena-se a parte recorrente/requerente no pagamento das custas e honorários advocatícios que fixo na quantia de R$500,00 (quinhentos reais), suspensa, todavia em razão do benefício da AJG. É como voto. (JECES. Recurso Inominado Cível Número: 5007179-95.2024.8.08.0021. Turma Recursal - 2ª Turma. Magistrado: ANA FLAVIA MELO VELLO. Data: 05/May/2025)
+
+«[...] Recurso do banco que sustenta licitude da contratação. Juntada com a defesa de cópia do contrato com assinatura que se atribui ao autor-recorrido. Decisão precipitada.
+Semelhança das assinaturas a olho nu. Necessidade de perícia técnica para se dirimir a controvérsia sobre eventual falsidade da assinatura e assegurar a observância aos princípios do contraditório e da ampla defesa.
+Inocorrência de falsificação grosseira passível de ser prontamente reconhecida. Necessidade de se aferir a autenticidade da assinatura cuja falsificação é alegada pelo recorrido. Prova técnica impossível de ser produzida nos processos que tramitam sob a égide da Lei 9.099/95. Sentença reformada. Recurso do banco provido (TJSP; Recurso Inominado Cível 1007153-11.2021.8.26.0009; Relatora: Karina Ferraro Amarante Innocencio; Órgão Julgador: 1ª Turma Recursal Cível e Criminal; Foro Regional IX - Vila Prudente - 1ª Vara do Juizado Especial Cível; Data do Julgamento: 13/10/2022; Data de Registro: 13/10/2022)»
+
+Assim, ante a necessidade de perícia para o deslinde da questão com a devida segurança jurídica e a maior complexidade da matéria, o julgamento da demanda resta inviável em sede de Juizado Especial (art. 3º, LJE), posto que não é permitido exame pericial em sede de juizado especial.
+
+Ressalto que embora a preliminar tenha sido suscitada apenas por um recorrente, atinge a todos na medida em que a parte autora impugna a assinatura de todos os contratos.
+
+Diante do exposto, entendo pela anulação da sentença e extinção do feito sem resolução do mérito em razão da incompetência do juízo (art. 3,
+caput
+, c/c art. 51, II da Lei nº 9.099/95, c/c arts. 64, §1 e 485, IV, ambos do CPC).
+
+Ante o exposto,
+CONHEÇO DOS RECURSO
+interposto e,
+ACOLHO A PRELIMINAR
+de incompetência do juízo por necessidade de perícia técnica e
+extingo o feito sem resolução do mérito
+(art. 3,
+caput
+, c/c art. 51, II da Lei nº 9.099/95, c/c art. 485, IV do CPC). Deixo de condenar os recorrentes em custas e honorários em face ao resultado do julgamento.
+
+JOHANNA R. DE NAZARETH
+
+Juíza Leiga
+
+O Sr. Juiz de Direito Relator Dr. PAULO ABIGUENEM ABIB
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO a minuta
+de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+PAULO ABIGUENEM ABIB
+
+Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
