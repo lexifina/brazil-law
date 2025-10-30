@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANDRE LANGE DE ARAUJO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2152070-94.2025.8.26.0000).
+Consta que o recorrente foi condenado, em primeiro grau, às penas de 9 (nove) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 603 (seiscentos e três) dias-multa, pela prática dos crimes previstos nos arts. 33, caput, c/c o art. 40, inciso V, ambos da Lei n. 11.343/2006, 180, caput, e 311, caput, ambos do Código Penal. Foi indeferido ao réu o direito ao recurso em liberdade.
+Irresignada, a Defesa interpôs apelação perante o Tribunal de origem, que deu parcial provimento ao recurso para absolver o recorrente dos delitos previstos nos arts. 180, caput, e 311, caput, ambos do Código Penal, mantendo a condenação pelo delito de tráfico de drogas, com fixação da pena em 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado.
+Nesta insurgência, o recorrente sustenta a incompatibilidade da custódia cautelar em relação ao regime inicial semiaberto.
+Aduz excesso de prazo para o Juízo da Execução analisar o pleito de progressão do apenado ao regime semiaberto .
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Decido.
+Na espécie, o Tribunal de origem decidiu o seguinte (fls. 94-97; grifamos):
+Com efeito, o paciente foi condenado como incurso no artigo 33, caput c. c. artigo 40, V da Lei n.º 11.343/2006, no artigo 180, caput e no artigo 311, caput, na forma do artigo 69, todos do Código Penal, a cumprir a pena privativa de liberdade de 09 (nove) anos e 10 (dez) meses de reclusão, em regime inicial fechado, bem como ao pagamento de 603 (seiscentos e três) dias-multa, calculados no valor unitário mínimo e devidamente corrigidos a partir da data do crime.
+O d. juízo de primeiro grau negou ao paciente o direito de recorrer em liberdade (fls. 335/340 da origem).
+Contra essa decisão, o réu, ora paciente, interpôs apelação que foi parcialmente favorável aos seus pedidos, reformando a r. sentença, mas, mantendo o regime inicial fechado para o cumprimento da reprimenda.
+O v. acórdão proferido por esta Câmara, ao julgar o recurso, foi assim ementado:
+ ..
+Contra essa decisão, a defesa do acusado interpôs Recurso Especial, ainda em processamento.
+Na origem, os impetrantes requereram a revogação da prisão preventiva do paciente, com ou sem a imposição de medidas cautelares alternativas à prisão, diante da inadequação e incompatibilidade da medida com o regime prisional de cumprimento da pena em que o réu deve ser posto. Nesse caso, os impetrantes informam que o recurso de apelação interposto pela defesa do paciente, foi julgado parcialmente procedente para absolvê-lo dos crimes de receptação e adulteração de sinal veicular, fixando a pena total em 5 anos e 10 meses de reclusão em regime inicial fechado. Destaca que houve trânsito em julgado da condenação para a acusação e que a defesa aguarda julgamento de Recurso Especial por ela interposto. Os impetrantes sustentam que o lapso temporal para a progressão ao regime semiaberto já foi alcançado, já que deve ser contabilizada a detração de 29 meses em que o peticionário está preso preventivamente, além dos 143 dias de remição de pena já reconhecidos pelo juízo da execução (fls. 37/41).
+O pedido foi indeferido pela d. autoridade impetrada, com os seguintes fundamentos: "Vistos. A 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, por maioria de votos, deu provimento parcial ao recurso, para absolver o réu dos crimes de receptação e adulteração de sinal identificador, mantida a condenação pelo tráfico, com pena fixada em 05 anos de 10 meses de reclusão, no regime FECHADO, além de 583 dias-multa. (..). Ante o exposto, não há o que se determinar a respeito. No mais, deixo de apreciar o requerimento de fls. 482/485, para revogação da prisão preventiva do sentenciado e detração de sua pena, pois está encerrada a competência deste juízo para a apreciação de novos pedidos referentes ao feito em tela. Ante o exposto, considerando o acórdão de fls. 454/470 e, tendo em vista que há execução provisória em andamento, após o trânsito em julgado, a guia de recolhimento definitiva será expedida e eventuais pedidos em relação ao cumprimento da pena privativa de liberdade deverão ser formulados à Vara de Execuções Criminais competente. Int.(..)" (fls.8/9, grifei).
+Contra essa decisão, foi impetrado este writ, no qual os impetrantes pretendem a imediata cessação do constrangimento ilegal, com a concessão de medida liminar e, ao final, da ordem definitiva, para o relaxamento da prisão preventiva por incompatibilidade com o regime semiaberto.
+Contudo, neste momento, não está evidenciada ilegalidade alguma.
+Com efeito, como visto, embora esta Câmara tenha dado parcial provimento ao apelo interposto pelo paciente, o regime inicial fechado foi mantido.
+Ademais, foi iniciado o processo de execução provisória da pena, cadastrado no juízo da execução sob o nº 0021526-60.2024.8.26.0041 e, nos autos de execução provisória do acusado, no momento de interposição deste writ, não havia sido pleiteada a progressão do paciente ao regime semiaberto.
+Verifico em consulta SAJ aos autos nº 0021526-60.2024.8.26.0041 que, sobreveio nos autos do processo de execução provisória da pena, em 30/05/2025, pedido de progressão do regime, ainda pendente de análise pelo d. juízo da execução (fls.67/68).
+Assim, neste momento, eventual análise nesta via do pedido de progressão de regime, ainda não analisado pelo juízo da execução, importaria inadmissível supressão de instância.
+Ademais, o procedimento do habeas corpus é pautado pela celeridade e não constitui o instrumento processual adequado para análise de progressão de regime, ou qualquer outra questão no contexto de execução penal, sobretudo diante da exigência de exame valorativo dos requisitos legais necessários para o deferimento de benefício. Nesse sentido:
+ ..
+No que tange à alegação de flagrante ilegalidade diante da ausência de análise pelo d. magistrado de primeiro grau a respeito do pedido de revogação da prisão, ante o encerramento da sua competência para a apreciação de novos pedidos referentes ao feito, não assiste razão aos impetrantes.
+Efetivamente, conforme supramencionado, o juízo de primeiro grau condenou o paciente e negou o direito de recorrer em liberdade. Houve a interposição de recurso de apelação contra a r. sentença condenatória, que foi julgado por esta Câmara. Portanto, de fato, o órgão competente para conhecer e julgar o pedido para que o paciente recorra e liberdade, nos termos do artigo 105, inciso I, c, da CF, é do c. STJ. A propósito, observe-se:
+ ..
+Dessa forma, ausente o constrangimento ilegal noticiado, de rigor a denegação da ordem, sem prejuízo de que, em face do surgimento de novos elementos, a questão seja novamente reapreciada por este Tribunal.
+Como se observa, as teses a respeito da incompatibilidade da custódia cautelar em relação ao regime inicial semiaberto e do excesso de prazo para o Juízo da Execução analisar o pleito de progressão de regime não foram debatidas no acórdão impugnado, o que impede a manifestação originária desta Corte sobre as matérias em virtude da supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. FALSIDADE IDEOLÓGICA, POR 13 VEZES. NULIDADE. QUEBRA DE SIGILO TELEFÔNICO E TELEMÁTICO. INEXISTÊNCIA DE DILIGÊNCIA PRÉVIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DIVERSAS DILIGÊNCIAS PREPARATÓRIAS. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. O Tribunal de origem não analisou o tema no viés ora delineado pela defesa, ficando esta Corte impedida de apreciar a matéria, sob pena de indevida supressão de instância.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no HC n. 864.854/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2025, DJEN de 9/9/2025.)
+De todo modo, registro que foi destacado na decisão impugnada que o Tribunal de origem, ao dar parcial provimento ao apelo defensivo, manteve o regime inicial fechado.
+Ainda que assim não fosse, conforme o entendimento consolidado da Sexta Turma do Superior Tribunal de Justiça (é) cabível a manutenção da prisão preventiva quando o réu for condenado ao modo semiaberto de cumprimento de pena, desde que haja compatibilização da custódia com o regime fixado na sentença (AgRg no HC n. 993.470/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/9/2025, DJEN de 8/9/2025).
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
