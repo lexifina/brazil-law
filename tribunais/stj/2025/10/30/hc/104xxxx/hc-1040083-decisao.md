@@ -1,0 +1,29 @@
+DECISÃO
+HERBERT RODRIGUES DO NASCIMENTO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502722-47.2023.8.26.0544.
+Consta dos autos que o paciente foi condenado, pela prática do delito previsto no art. 157, §§ 2º, II e 2º-A, I, do Código Penal, à pena de 6 anos e 8 meses de reclusão, no regime fechado, mais 16 dias-multa, à razão mínima (roubo majorado pelo concurso de agentes e uso de arma de fogo).
+Nas razões deste writ, o impetrante, de próprio punho, requer, em síntese, a fixação de regime prisional mais benéfico ou a liberdade condicional (fls. 2-6).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+O impetrante se insurge contra acórdão de apelação julgado em 10/1/2025.
+Em consulta realizada no sítio eletrônico do TJSP, o último registro da movimentação processual indica que, em 1º/2/2025, operou-se o trânsito em julgado dessa decisão (fl. 739 dos autos de origem).
+A título de acréscimo, observa-se que, no âmbito desta Corte Superior, não consta nenhum processo tendo o nome do insurgente como agravante em recurso especial contra o mencionado decisum.
+Diante desse cenário, está desprovido de dúvidas o caráter substitutivo de revisão criminal com a impetração do habeas corpus.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, assim se posicionando: "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg n. HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do habeas corpus, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações, que, antes, deveriam ser examinadas em instâncias diversas, prejudica as funções constitucionais desta Corte, a fim de trazer uniformidade e previsibilidade ao sistema jurídico.
+Portanto, diante do manifesto caráter substitutivo recursal do presente writ, inviável seu processamento.
+Por fim, nessa perspectiva, é a compreensão do Subprocurador-Geral da República Roberto Luíz Oppermann nos autos (fls. 77-81).
+A despeito disso, o caso ora em apreço comporta a concessão de ofício da ordem de habeas corpus.
+Nota-se, a partir da leitura do acórdão combatido, que o regime fechado foi fixado mediante a seguinte fundamentação (fls. 19-30 e 31-56, grifei):
+ ..  Na primeira fase da dosimetria, o MMº. Juiz sentenciante fixou a pena-base de todos os réus no mínimo legal, ou seja, em 04 anos de reclusão e pagamento de 10 dias-multa, no valor unitário mínimo.
+Na segunda fase  ..  para o réu Herbert, ausentes circunstâncias agravantes ou atenuantes, a pena permaneceu inalterada  .. .
+Na terceira fase, em razão da existência de duas qualificadoras (concurso de agentes e emprego de arma de fogo artigo 157, § 2º, inciso II e § 2º-A, inciso I, do Código Penal), o sentenciante aumentou a reprimenda em 2/3, totalizando  ..  06 anos e 08 meses de reclusão e 16 dias-multa, no mínimo legal, para o réu Herbert, no que se viram beneficiados os acusados, uma vez que a Lei nº 13.654/18 estabeleceu o percentual de acréscimo de 2/3 para o crime de roubo praticado com emprego de arma de fogo, restando mantida, ainda, a causa de aumento referente ao concurso de agentes prevista no § 2º, inciso II, do artigo 157 do Código Penal  .. .
+ ..  O regime fechado, estabelecido para o início do cumprimento das penas, está correto, tendo em vista o fato de ter sido o crime praticado em concurso de agentes, mediante violência física e grave ameaça à vítima, exercida com emprego de armas de fogo, no interior de residência, o que gera grande insegurança social e, muitas vezes, tem consequências verdadeiramente trágicas, tudo evidenciando a ousadia e destemor dos réus  .. .
+Observa-se que se trata de réu primário; a pena-base foi fixada no mínimo legal de 4 anos de reclusão e o quantum da sanção privativa de liberdade é de 6 anos e 8 meses de reclusão.
+Diante dessas circunstâncias, não é possível a aplicação de regime prisional mais gravoso, tão somente com amparo na gravidade genérica do delito e considerações vagas, situação verificada pelo proceder das instâncias ordinárias, em afronta ao art. 33, §§ 2º e 3º, c/c o art. 59, ambos do Código Penal, e ao enunciado sumular n. 440 do STJ, que preconiza:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+À vista do exposto, n ão conheço do habeas corpus. Todavia, concedo a ordem, ex-officio, a fim de determinar a fixação de regime semiaberto, menos gravoso, ao paciente HERBERT RODRIGUES DO NASCIMENTO.
+Comunique-se, com urgência, o conteúdo desta decisão às instâncias ordinárias, para as diligências necessárias.
+Publique-se e intimem-se.
+EMENTA
