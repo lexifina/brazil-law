@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MAURICIO SOUZA DE ALMEIDA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada, encontrando-se denunciado pela suposta prática da conduta descrita no art.121, §2º, incisos Il e IV do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 152-166.
+Na hipótese, a defesa aponta a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do recorrente.
+Aponta falta de fundamentação para a segregação cautelar.
+Argumenta que "No caso, resta claro a existência de lapso temporal considerável entre o cometimento do ilícito e a decretação da prisão preventiva, razão pela qual deve ser reconhecida a ausência de contemporaneidade" (fl. 84).
+Defende a aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da segregação cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+É o relatório. DECIDO.
+In casu, a prisão preventiva do recorrente se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada gravidade concreta da conduta evidenciada pelo seu modus operandi, onde o recorrente, em tese, teria esfaqueado a vítima pelas costas, em razão de desentendimento pretérito.
+Nesse sentido, o Juízo de primeiro grau destacou que "o crime de homicídio qualificado apurado nos autos, possui elevado grau de reprovabilidade, gravidade que se constata pelo modus operandi empregado, que pode ser constatado pelas reproduções audiovisuais que antecedem o crime em que se percebe que a vítima caminhava pelo canteiro central, quando o autor vem atrás de bicicleta e logo depois a consumação, empreende fuga" (fl. 96).
+Tais circunstâncias demonstram a periculosidade do recorrente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"A prisão preventiva dos Agravantes está fundamentada em dados concretos que evidenciam a necessidade de encarceramento provisório, considerando a gravidade concreta das condutas e a periculosidade dos agentes" (AgRg no HC n. 961.081/ES, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+"Presentes elementos concretos para justificar a manutenção da prisão preventiva, sobretudo, para a garantia da ordem pública. As instâncias antecedentes explicitaram a necessidade da custódia pelo modus operandi da conduta imputada, em que, durante um conflito com a vítima, o agravante teria ido até seu veículo, pegado uma arma branca consistente em uma faca e, enquanto o ofendido estava de costas, desferiu-lhe um golpe que o atingiu no pulmão e resultou na morte da vítima" (AgRg no RHC n. 191.855/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+No mais, cumpre consignar que condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+No pertinente à alegação de ausência de contemporaneidade como justificativa hábil a infirmar a necessidade de manutenção da prisão preventiva, vale lembrar que:
+" a  contemporaneidade diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos (i) do risco à ordem pública ou (ii) à ordem econômica, (iii) da conveniência da instrução ou, ainda, (iv) da necessidade de assegurar a aplicação da lei penal" (STF, HC 185.893 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021; sem grifos no original)" (EDcl no HC n. 940.596/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/10/2024, DJe de 14/10/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
