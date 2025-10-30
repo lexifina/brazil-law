@@ -1,0 +1,49 @@
+DECISÃO
+PABLO VILARINHO DO NASCIMENTO interpõe recurso especial com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5074302-86.2019.8.21.0001.
+Nas razões recursais, a defesa aponta violação dos arts. 59, 61, I, e 68 do CP, e 492, I, "b", do CPP.
+Entende ser desproporcional o aumento superior a 1/6 ante a incidência da agravante do meio cruel, sem fundamentação idônea para tanto.
+Assere que a agravante da reincidência foi sustentada pelo Ministério Público apenas na réplica, de modo que foi introduzido elemento novo sem se garantir à defesa a possibilidade de enfrentamento prévio e igualitário. Nesse contexto, considera que, por não haver sido discutida em plenário em momento oportuno, essa agravante deve ser afastada.
+Requereu o uso da fração de 1/6 na segunda fase da dosimetria e o decote da agravante da reincidência.
+Oferecidas as contrarrazões e admitido o recurso, o Ministério Público Federal opinou pelo "pelo não conhecimento do recurso especial" (fl. 1.280).
+Decido.
+O especial preenche os requisitos constitucionais, legais e regimentais para ser conhecido.
+Segundo os autos, submetido a julgamento pelo Tribunal do Júri, o recorrente foi condenado a 29 anos e 6 meses de reclusão, em regime fechado, por incursão no art. 121, § 2º, I, III, IV e IX, do CP.
+A Corte estadual deu parcial provimento à apelação defensiva e reduziu a pena do réu para 28 anos de reclusão, em regime fechado. Quanto aos assuntos em discussão, o colegiado estadual assim se manifestou (fls. 1.246-, destaquei):
+(b.) Segunda fase O réu requer que (i.) seja decotada a aplicação da agravante da reincidência em razão da inexistência de pedido do Ministério Público; e (ii.) seja reduzido o quantum de aumento aplicado às agravantes, pois desproporcional.
+Sem razão.
+Quanto ao primeiro ponto, porque não há previsão legal quanto ao momento estritamente adequado, durante os debates em sessão plenária, para a alegação de existência de circunstância agravante. O art. 476 do CPP somente estabelece que, durante os debates, o Ministério Público fará a acusação, " ..  sustentando, se for o caso, a existência de circunstância agravante". Na mesma lógica, o art. 492, inciso II, alínea "b", do CPP determina que o juiz presidente proferirá sentença que, no caso de condenação, dentre outros, considerará as circunstâncias agravantes ou atenuantes alegadas nos debates.
+A meu ver, tais disposições legais visam, dentre outros, assegurar a plenitude de defesa, o contraditório e a paridade de armas. Sob essa lógica, concluo que é possível o reconhecimento, pelo juiz presidente, de circunstâncias agravantes, desde que devidamente submetidas ao contraditório.
+E assim ocorreu no caso concreto, tendo em vista que o Ministério Público, em debates, sustentou a incidência da agravante durante a réplica, enquanto que à defesa foi possibilitada a tréplica, tudo conforme a ata de julgamento (evento 447, ATAJURI2 ). Assim, foi adequado o reconhecimento da dita agravante pelo juiz presidente, nos exatos termos do art. 492, inciso I, alínea "b", do CPP.
+Quanto ao segundo ponto, porque adoto a fração paradigma do STJ da segunda fase da dosimetria da pena, de 1/6 da pena-base para acrescer ou reduzir à pena por cada agravante ou atenuante, exigindo-se justificativa adicional para adoção de patamar de aumento ou diminuição distinto (RHC n. 131.038/PB, Rel.ª Min.ª Laurita Vaz, Sexta Turma, julgado em 05.10.2021; AgRg no AREsp n. 2.284.198/RJ, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14.03.2023; AgRg no HC n. 802.818/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07.03.2023).
+Na hipótese, o juiz presidente, diante do reconhecimento das agravantes de recurso que dificultou a defesa da vítima, cometido contra menor de 14 anos, de coabitação e da reincidência, agravou a pena em 02 (dois) anos e 06 (seis) meses para cada circunstância - fração de aumento inferior ao que representaria o aumento de 1/6 sobre a pena-base, sendo, portanto, mais benéfico ao réu em comparação à fração paradigma adotada por esta Corte.
+A exceção do referido se deu no reconhecimento da agravante do meio cruel, em relação a qual, contudo, o juiz presidente fundamentou adequadamente as razões pela exasperação em patamar de aumento excepcional, pontuando, com base no laudo de necropsia, que "o modo de execução deste crime apresenta um excepcional potencial agravador" e que "se trata de uma conduta com toques de barbárie, que infligiu um sofrimento não apenas intenso (como é o ordinário para a agravante), mas extremo". Desse modo, restou devidamente justificada a adoção de fração de aumento elevada no reconhecimento da agravante do meio cruel.
+Nada a alterar nestes pontos, razão pela qual mantenho o aumento de 02 (dois) anos e 06 (seis) meses para a agravante do recurso que dificultou a defesa da vítima; 02 (dois) anos e 06 (seis) meses para a agravante do crime ter sido cometido contra menor de 14 anos; 03 (três) anos para a agravante do meio cruel; 02 (dois) anos e 06 (seis) meses para a agravante de crime cometido em prevalecendo-se de relações de coabitação; e 02 (dois) anos e 06 (seis) meses pela reincidência.
+Assim, fixo a pena provisória em 28 (vinte e oito) anos de reclusão.
+O Código Penal não estabelece limites mínimo e máximo de aumento ou de redução de sanção a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não haja mencionado nenhum valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+Nesse sentido, a doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de majoração de reprimenda pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, neste Superior Tribunal, é pacífica a compreensão de que "O legislador penal deixou a cargo do Magistrado a escolha do patamar de aumento de pena por meio da incidência das agravantes genéricas previstas no art. 61, inciso II, do Código Penal. Desse modo, a jurisprudência desta Corte orienta no sentido da adoção da fração de 1/6, mínima prevista para majorantes e minorantes, autorizado, contudo, o uso de fração mais elevada quando presente fundamentação concreta" (HC n. 369.229/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/10/2016, DJe de 28/10/2016, destaquei).
+No mesmo sentido:
+ ..
+2. A fração de 1/6 para agravantes é parâmetro de razoabilidade, salvo fundamentação específica para fração superior
+ ..
+(AgRg no REsp n. 2.191.830/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/8/2025, DJEN de 25/8/2025.)
+In casu, verifico que a Corte estadual manteve o aumento operado pelo Juiz sentenciante quanto à agravante do meio cruel, ante a existência de fundamentação concreta para tanto, consistente nas notícias de que "o modo de execução deste crime apresenta um excepcional potencial agravador" e que "se trata de uma conduta com toques de barbárie, que infligiu um sofrimento não apenas intenso (como é o ordinário para a agravante), mas extremo" (fl. 1.247, destaquei).
+Com efeito, o Magistrado de primeiro grau asseriu que, segundo o laudo de necropsia, "as diferentes tonalidades das equimoses no espectro cromático são um sinal de que as agressões não ocorreram em um momento único no tempo. As múltiplas agressões perpetradas contra a criança ocorreram de forma repetida, desumana e são carregadas de uma brutalidade fora do comum" (fl. 1.085).
+Assim, noto que a fração de aumento adotada pelo órgão colegiado em relação à agravante do meio cruel foi devidamente justificada, de modo que não identifico a apontada violação legal.
+Em relação ao pleito de decote da agravante da reincidência, o STJ tem decidido que, nos termos do art. 492, I, "b", do CPP, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e as atenuantes alegadas e debatidas em plenário, entendimento aplicável, inclusive, em relação à agravante prevista no art. 61, I, do CP.
+Confira-se:
+ ..
+2. Mesmo sendo a reincidência agravante de ordem objetiva, somente é possível sua valoração na dosimetria da pena nos crimes julgados pelo Tribunal do Júri quando for arguida em plenário nos debates.
+Precedentes desta Corte.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.001.616/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+No caso, conforme explicitado pela Corte de origem, a agravante da reincidência foi sustentada em Plenário ainda na réplica do Ministério Público, e, à defesa, foi possibilitada a tréplica.
+Portanto, identificado que a referida agravante foi debatida em Plenário, não se verifica a aludia afronta ao dispositivo legal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO E HOMICÍDIO TENTADO. INCIDÊNCIA DA AGRAVANTE DA REINCIDÊNCIA. NECESSIDADE DE DEBATE EM PLENÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ tem decidido que, nos termos do art. 492, I, "b", do CPP, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e atenuantes alegadas e debatidas em plenário, entendimento aplicável, inclusive, em relação à agravante prevista no art. 61, I, do CP.
+2. Agravo regimental não provido.
+(AgRg no HC n. 933.941/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
