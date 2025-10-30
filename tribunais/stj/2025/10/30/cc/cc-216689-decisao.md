@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS, MEDIDAS ALTERNATIVAS E CORREGEDORIA DOS PRESÍDIOS DO FORO CENTRAL DA COMARCA DA REGIÃO METROPOLITANA DE CURITIBA - PR, suscitante, e o JUÍZO DE DIREITO DA 2ª VARA DE EXECUÇÃO DO INTERIOR DE CAMPO GRANDE - MS, suscitado.
+O Juízo de Direito da 2ª Vara de Execução do Interior de Campo Grande - MS declinou da competência para dar andamento a execução penal sob o entendimento de que o custodiado estaria preso em outra unidade da Federação (fls. 815-816).
+O Juízo de Direito da Vara de Execuções Penais, Medidas Alternativas e Corregedoria dos Presídios do Foro Central da Comarca da Região Metropolitana de Curitiba - PR, por sua vez, suscitou o conflito, por entender que a mera efetivação da prisão da pessoa sentenciada em outra comarca, por si só, não configura fundamento legal para modificação da competência da execução penal (fls. 829-831).
+O Ministério Público Federal manifestou-se pela competência do Juízo de Direito da 2ª Vara de Execução do Interior de Campo Grande - MS (fls. 845-847).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o juízo da condenação é o competente para a execução das penas impostas, de modo que o cumprimento do mandado de prisão em unidade federativa diversa daquela em que o acusado foi condenado não implica deslocamento da competência. Confira-se:
+" ..  Conforme consolidada jurisprudência do STJ, o fato de o condenado ter sido preso em comarca diversa, em cumprimento a mandado de prisão expedido pelo juiz prolator da sentença penal condenatória, não constitui causa legal de deslocamento de competência para a execução da pena. Precedentes: AgRg no CC n. 172.429/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 27/11/2020; e CC 161.783/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 14/12/2018." (CC n. 199.799/PR, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 20/10/2023)
+No mesmo sentido: CC n. 196.571/SC, Terceira Seção, Rel.ª Min.ª Laurita Vaz, DJe de 30/5/2023; AgRg no CC n. 189.921/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 21/9/2022; AgRg no CC n. 182.840/DF, Terceira Seção, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 3/11/2021.
+No caso dos autos, embora o reeducando tenha sido preso no Estado Paraná, tal fato não desloca a competência para a execução penal, que continua sendo do juízo da condenação.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara de Execução do Interior de Campo Grande - MS.
+Publique-se. Intimem-se.
+EMENTA
