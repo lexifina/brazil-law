@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Fazenda do Estado de São Paulo contra decisum singular, de fls. 208/212, que conheceu parcialmente de seu recurso especial e, nessa parte, negou-lhe provimento.
+Em suas razões, a parte embargante insurge-se especificamente contra o capítulo da decisão atacada que não conheceu da tese de ofensa ao art. 927, IV, do CPC, em face da ausência de prequestionamento, nos termos da Súmula 282/STF.
+A tanto, aponta omissão no julgado, sob a assertiva de que foi desconsiderado o fato de que "a violação ao art. 927, IV, do CPC ocorreu apenas no próprio acórdão que foi objeto do recurso especial, não tendo ocorrido em momento anterior, e por isso não havia sido debatida no âmbito do TJSP" (fl. 216).
+Nesse fio, afirma o seguinte (fl. 217):
+Por esse motivo, o Superior Tribunal do Trabalho aprovou sua OJ nº 119 (da SDI-1) estabelecendo que "é inexigível o prequestionamento quando a violação indicada houver nascido na própria decisão recorrida".
+Portanto, não sendo caso de se exigir o prequestionamento, o conhecimento do recurso especial (e o seu provimento) quanto à violação do art. 927, IV, do CPC decorrente do afastamento da Súmula 519 do STJ é inarredável.
+A parte embargada apresentou impugnação às fls. 220/223.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que "a Câmara Julgadora não emitiu nenhum juízo de valor acerca do art. 927, IV, do CPC, sequer tendo sido instado a fazê-lo por meio de embargos de declaração, situação que atra o óbice da Súmula 282/STF" (fl. 212).
+Tal conclusão encontra-se em harmonia com a jurisprudência deste Superior Tribunal, no sentido de que, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 6/5/2021). Nesse mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. SENTENÇA ILIQUIDA. VIOLAÇÃO DO ART. 85 DO CPC/2015. NÃO OCORRÊNCIA. POSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS HONORÁRIOS ADVOCATÍCIOS. MATÉRIA DE ORDEM PÚBLICA. VIOLAÇÃO DO ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. AGRAVO IMPROVIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que o Estado do Paraná desde a origem impugna parte do acórdão recorrido que decidiu pela modificação dos consectários legais da condenação. Insurge-se também quanto à majoração dos horários recursais.
+3. No que diz respeito à alegada violação do artigo 927, III, do CPC/2015, reitera-se conclusões já firmadas no sentido de que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+4. No mais, consoante jurisprudência desta Corte, a majoração dos honorários advocatícios sucumbenciais, nos termos do § 11 do art. 85 do CPC, por se tratar de matéria de ordem pública, pode ser realizada de ofício pelo juiz, independentemente de requerimento das partes, não se verificando reformatio in pejus (v.g.: REsp n. 1.811.792/SP, relatora Nancy Andrighi, Terceira Turma, DJe de 5/5/2022).
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.987.536/PR, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 26/10/2022.)
+Daí porque, em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador d eixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
