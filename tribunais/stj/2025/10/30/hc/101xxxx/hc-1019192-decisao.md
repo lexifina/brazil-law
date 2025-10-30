@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARMELO OJERO LOPEZ, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos a condenação do paciente à pena de 8 (oito) anos e 10 (dez) meses de reclusão, em regime fechado, pela prática dos delitos capitulados nos arts. 33, c/c art. 40, inciso V, ambos da Lei n. 11.343/2006 e no art. 311, § 2º, inciso III, do Código Penal, em concurso material (art. 69 do Código Penal).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, devido ao excesso de prazo para o julgamento da apelação, pois os autos estão conclusos ao Relator desde março de 2025. Acrescenta que o paciente tem idade avançada e se encontra segregado cautelarmente por período excessivo, o que consistiria em antecipação indevida da pena.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva e a determinação de inclusão imediata da Apelação Criminal nº 0001043-32.2024.8.16.0091 em pauta de julgamento. Subsidiariamente requer sejam determinadas a aplicação de medidas cautelares diversas da prisão, nos termos do artigo 319 do Código de Processo Penal.
+As informações foram prestadas às fls. 98-106.
+O Ministério Público Federal ofereceu parecer às fls. 110-112.
+É o relatório. DECIDO
+Inicialmente, destaco que, após consulta aos autos que tramitam na origem, através do link informado pelo Tribunal a quo (fls.102), verificou-se que o recurso de apelação foi julgado em 18/10/2025, tendo sido conhecido e não provido.
+Por conseguinte, o presente habeas corpus perdeu seu objeto.
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL CONTRA DECISÃO QUE JULGOU PREJUDICADO O RECURSO EM HABEAS CORPUS. ALEGAÇÃO DE EXCESSO DE PRAZO NO JULGAMENTO DO RECURSO DE APELAÇÃO. TESE SUPERADA. ALEGAÇÃO DE INCOMPATIBILIDADE COM A PRISÃO PREVENTIVA. EXCEPCIONALIDADE QUE JUSTIFICA A PRISÃO CAUTELAR. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Caso em que a decisão agravada declarou a prejudicialidade do recurso ordinário diante da superveniência do julgamento da apelação pelo Tribunal de origem, considerando estar superada a tese de excesso de excesso de prazo suscitada pela defesa. O impetrante alega que o posterior julgamento da apelação não é capaz de determinar a prejudicialidade do writ, uma vez que não se levou em conta o excesso de prazo já configurado antes do julgamento do recurso defensivo, devendo ser reconhecido o atraso alegado e revogada a custódia cautelar.
+2. "Consoante reiterada jurisprudência desta Corte Superior de Justiça, a superveniência do julgamento de apelação interposta no tribunal de origem torna prejudicado o exame do writ que questiona excesso de prazo para sua apreciação" (AgRg no HC 616.849/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/09/2021, DJe 29/09/2021).2. Recurso prejudicado" (AgRg no HC n. 691.882/PA, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/11/2021).
+(..)" (AgRg no AgRg no RHC n. 199.488/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/11/2024, DJe de 18/11/2024.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. EXTORSÃO MEDIANTE SEQUESTRO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ASSOCIAÇÃO CRIMINOSA. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PREJUDICADO. SUPERVENIÊNCIA DO JULGAMENTO DA APELAÇÃO. ART. 316, PARÁGRAFO ÚNICO, DO CPP. REEXAME DA NECESSIDADE DA CUSTÓDIA CAUTELAR. DEVER DO ÓRGÃO QUE DECRETOU A MEDIDA. INAPLICABILIDADE À FASE RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE PREJUDICADO E, NA PARTE CONHECIDA, NÃO PROVIDO.
+1. A superveniência do julgamento da apelação torna prejudicada a análise do pedido de relaxamento da custódia cautelar por excesso de prazo na apreciação do referido recurso.
+2. O dever de reexaminar a necessidade de manutenção da prisão preventiva, previsto no art. 316, parágrafo único, do CPP, compete apenas ao órgão julgador que a decretou. Portanto, a necessidade de revisão ex officio dos fundamentos da medida extrema não se aplica à fase recursal.
+3. Agravo regimental parcialmente prejudicado e, na parte conhecida, não provido." (AgRg no RHC n. 151.105/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
