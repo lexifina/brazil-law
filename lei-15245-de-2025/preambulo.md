@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre o crime de associação criminosa, a Lei nº 12.694, de 24 de julho de 2012, para ampliar a proteção pessoal dos agentes públicos ou processuais envolvidos no combate ao crime organizado, e a Lei nº 12.850, de 2 de agosto de 2013, para tipificar as condutas de obstrução de ações contra o crime organizado e de conspiração para obstrução de ações contra o crime organizado.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
