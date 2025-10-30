@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Águas Canarana Ltda, desafiando decisão do Tribunal de Justiça do Estado de Mato Grosso, que não admitiu o recurso especial interposto pela parte ora agravante, por entender que: (i) ausente negativa de prestação jurisdicional; (ii) aplicável a Súmula 7/STJ; (iii) prejudicado o dissídio jurisprudencial pelos mesmos óbices.
+É O NECESSÁRIO RELATÓRIO.
+De início, sem razão a parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: AgInt no AREsp n. 2.420.271/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no AREsp n. 2.107.891/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022 e AgInt no AREsp n. 505.668/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 5/6/2018, DJe de 12/6/2018.
+Além disso, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Na espécie, a parte agravante não realizou o imprescindível cotejo entre o acórdão recorrido e os argumentos veiculados nas razões do apelo raro, em ordem a demonstrar, particularizadamente, a inaplicabilidade do anteparo sumular 7/STJ.
+Nesse contexto, incide o verbete sumular 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa, ressalte-se, foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
