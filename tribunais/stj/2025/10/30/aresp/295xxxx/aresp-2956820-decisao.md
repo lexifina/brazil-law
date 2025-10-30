@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo manejado por Enoedson Ferreira Gomes contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fls. 184/185):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL . BENEFÍCIO POR INCAPACIDADE . CERCEAMENTO DE DEFESA NÃO CONFIGURADO. TRABALHADOR URBANO. CARÊNCIA LEGAL NÃO COMPROVADA À ÉPOCA DA INCAPACIDADE. IMPOSSIBILIDADE DE CONCESSÃO. REQUISITOS NÃO ATENDIDOS.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Precedente do STJ.
+2. Os requisitos indispensáveis para a concessão do benefício previdenciário de auxílio-doença e aposentadoria por invalidez são: a) a qualidade de segurado; b) a carência de 12 (doze) contribuições mensais; c) incapacidade para o trabalho ou atividade habitual por mais de 15 dias ou, na hipótese da aposentadoria por invalidez, incapacidade (permanente e total) para atividade laboral.
+3. Em vista da ausência de comprovação da carência legal necessária ao deferimento do pleito, bem como em não se cuidando de hipótese de dispensa do requisito, impossível o deferimento do benefício de auxílio-doença/aposentadoria por invalidez formulada nos autos.
+4. Apelação da parte autora não provida.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 141, e 492, parágrafo único, e 1.013, § 1º, do CPC. Sustenta que (fl. 199):
+Senhores nobres julgadores o acordão proferido é totalmente desarrazoado e contraditório, pois o pedido do requerente é de concessão de auxilio doença por estar acometido por neoplasia maligna.
+Assim consta no teor do acordão o julgamento de Apelação divergente dos autos onde relata o beneficio proposta por uma Senhora cozinheira diagnostica com tendinite no qual vejamos abaixo:
+Aduz, ainda, que "o Acordão proferido não analisou a Apelação pertinente aos autos sendo julgado extra petita, ou seja, julgou pedido diverso do proposto pelo o Requerente"(fl. 202);
+Em anterior decisão, a Presidência deste Superior Tribunal não admitiu o agravo em recurso especial, por não enfrentamento do fundamento relativo à Súmula 7/STJ (fls. 227/228).
+Interposto agravo interno sustentando que "o Autor ora Agravante protocolou o Agravo em Recurso Especial alegando no item 4 da minuta recursal intitulado "Dá não incidência da Sumula 7" onde foi impugnada toda a situação que não aplicaria a Súmula 7 do STJ no caso em tela" (fl. 237), pendente de apreciação.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exerço o juízo de retratação facultado pelos arts. 1.021, § 2º, 2ª parte, do CPC, e 259 do RISTJ, e reconsidero a decisão agravada, tornando-a sem efeito, pelo que passo à nova análise do recurso.
+Na sentença, julgou-se improcedente o pleito, pois (fls. 145/146):
+No caso dos autos, antes de adentrar aos demais requisitos, verifico que o autor alega que o pedido administrativo foi indeferido pela falta da qualidade de segurado.
+Quanto a esta questão, o acervo probatório dos autos comprova que a parte requerente verteu contribuições à previdência social entre 09/06/2010 a 25/01/2012, e que, após um longo período sem contribuições, voltou a custear a Previdência Social como Empregado apenas em 02/05/2018 (evento 01 - arq. 7).
+No tocante à carência, é necessário que o segurado tenha recolhido pelo menos 12 (doze) contribuições mensais para fazer jus ao benefício, como preconiza o art. 25 da Lei n.º 8.213/91. Entretanto, a mesma lei admite hipóteses em que a carência é dispensada, consoante art. 26, II, c/c art. 151 da Lei n.º 8.213/91, ou diminuída, conforme art. 27-A da mesma norma.
+Além disso, o art. 27-A, da Lei 8213/1991, se aplica ao presente caso, dispõe:
+Art. 27-A Na hipótese de perda da qualidade de segurado, para fins da concessão dos benefícios de auxílio-doença, de aposentadoria por invalidez, de salário- maternidade e de auxílio-reclusão, o segurado deverá contar, a partir da data da nova filiação à Previdência Social, com metade dos períodos previstos nos incisos I, III e IV do caput do art. 25 desta Lei.
+Ressalta-se ainda, que o artigo 27-A da Lei nº 8.213/91 estabelece que, no caso de perda da qualidade de segurado, para efeito de carência dos benefícios que trata esta Lei, o segurado deverá contar, a partir da nova filiação à Previdência Social, com metade das contribuições prevista no artigo 25, inciso I, para readquirir a carência (refiliação).
+Por outro lado, a Lei nº 8.213/91 em seu artigo 151 dispensa a exigência de carência para a concessão dos benefícios de auxílio-doença ou de aposentadoria por invalidez aos segurados do Regime Geral de Previdência Social - RGPS acometidos de neoplasia maligna.
+A exclusão da carência por enquadramento na hipótese foi mantida pela Portaria Interministerial MPAS/MS nº 2.998/2001, a qual prevê:
+Art. 1º As doenças ou afecções abaixo indicadas excluem a exigência de carência para a concessão de auxílio-doença ou de aposentadoria por invalidez aos segurados do Regime Geral de Previdência Social - RGPS:  ..  IV - neoplasia maligna;  ..
+Art. 2º O disposto no artigo 1º só é aplicável ao segurado que for acometido da doença ou afecção após a sua filiação ao RGPS. Grifei
+ ..
+Assim, a dispensa da carência, não se aplica ao segurado que for acometido da doença antes da sua filiação.
+Dessa forma, em que pese o laudo apontar que o início da incapacidade se dera em 19/07/2019 (data do indeferimento), verifica-se que o início da doença se deu em 2016 (evento 43), infere-se, portanto, que a patologia apresentada pela parte autora é anterior ao seu reingresso ao sistema previdenciário, motivo pelo qual não há como reconhecer o pleito de concessão de auxílio-doença ou aposentadoria por invalidez.
+O Tribunal de origem, ao avaliar os requisitos para a concessão do benefício pleiteado pelo segurada, assim se manifestou (fl. 182/183):
+Do caso concreto
+A parte autora ajuizou a ação em 12/08/2020, pleiteando a concessão de benefício por incapacidade, tendo formulado o seu requerimento administrativo de benefício em 22/06/2020 (fl. 16).
+O extrato previdenciário da parte conta com recolhimentos ao RGPS nas seguintes competências: 01/1986 a 04/1986, 06/1986 a 12/1986, 10/2005 a 11/2005, 02/2007 a 04/2007, 06/2007 a 10/2007, 03/2008 a 06/2008, 06/2009 a 11/2009, 02/2010, 06/2010 a 09/2010, 02/2011 a 07/2011, 09/2013 a 10/2013, 05/2015 a 06/2015, 11/2017 a 04/2018, 10/2019 a 02/2020 (fls. 45/47).
+Realizada perícia em 01/06/202 (fls 98/108), verifica-se do conteúdo do laudo que a autora, cozinheira, analfabeta e contando com 57 ( cinqüenta e sete) anos de idade, foi diagnosticada com tendinite, doença que lhe causa impedimento parcial e permanente para o trabalho, iniciado em fevereiro de 2020.
+Como se viu das relações previdenciárias , a parte autora deixou de recolher contribuições ao RGPS em 04/2018, sendo mantida a qualidade de segurado até 15/06/2019, marco anterior ao seu reingresso da parte nesse regime, ocorrido em 10/2019.
+Desse modo, retornando a parte autora à Previdência Social, cabe avaliar se, por ocasião da data início da incapacidade - DII, as contribuições com as quais contava - 4 (quatro) recolhimentos, de 10/2019 a 02/2020 - eram suficientes, ou não, para o cumprimento da carência legalmente exigida para o deferimento do benefício almejado.
+A respeito do tema, a legislação regente dispunha, à época, da seguinte forma:
+Art. 27-A Na hipótese de perda da qualidade de segurado, para fins da concessão dos benefícios de auxílio-doença, de aposentadoria por invalidez, de salário-maternidade e de auxílio-reclusão, o segurado deverá contar, a partir da data da nova filiação à Previdência Social, com metade dos períodos previstos nos incisos I, III e IV do caput do art. 25 desta Lei.(Redação dada pela Lei nº 13.846, de 2019)
+Assim, apesar de ter sido reconhecida a incapacidade para o trabalho, impõe-se concluir que a parte autora não implementou a carência necessária ao deferimento do benefício pretendido, pois, como se viu, não foram realizados os 6 (seis) recolhimentos necessários à obtenção de aposentadoria por invalidez.
+Do conteúdo do laudo também não é possível concluir que se cuida de patologia que, nos termos da lei, dispensa o cumprimento da carência (art. 26, II c/c o art. 151 da Lei nº 8.213/91).
+Dessa forma, em se cuidando de requisito indispensável à concessão do benefício buscado e não se tratando de doença que dispensa o cumprimento da carência, impossível o deferimento da prestação por incapacidade.
+Ante o exposto, nego provimento à apelação interposta pela parte autora.
+Realmente, o voto condutor do acórdão está dissociado dos fatos relatados e tratados na sentença, bem como das alegações constantes da apelação.
+ANTE O EXPOST O, em juízo de retratação, torno sem efeito a decisão anterior (fls. 227/228), e, em novo exame, conheço do agravo para dar provimento ao recurso especial para cassar o acórdão recorrido e determinar a devolução dos autos ao Tribunal de origem, para novo julgamento da apelação. Prejudicado, com essa decisão, o agravo interno de fls. 234/238.
+Publique-se.
+EMENTA
