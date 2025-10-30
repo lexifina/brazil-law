@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ERLI DA SILVA NUNES contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de apelação, assim ementado (fl. 460e):
+PREVIDENCIÁRIO. ASSISTENCIAL. CONCEITO MISERABILIDADE. BOLSA FAMÍLIA. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Comprovados os requisitos da deficiência e para o labor e ou idade avançada, bem como hipossuficiência econômica do grupo familiar, cabível a concessão do benefício assistencial.
+2. O direito ao benefício de prestação continuada não pressupõe a verificação de um estado de miserabilidade extremo - bastando estar demonstrada a insuficiência de meios para o beneficiário, dignamente, prover a própria manutenção ou de tê-la provida por sua família.
+3. O valor recebido a título de Bolsa Família como renda da família, o qual, além de ser ínfimo, constitui forte indicativo de que a unidade familiar se encontra em situação de risco social
+4. Preenchidos os requisitos, nos termos da legislação aplicável, deve ser concedido o benefício assistencial.
+5. A utilização da TR como índice de correção monetária dos débitos judiciais da Fazenda Pública (Lei 11.960/09) foi afastada pelo STF no RE 870947, com repercussão geral, confirmado no julgamento de embargos de declaração por aquela Corte, sem qualquer modulação de efeitos. O STJ, no REsp 1495146, em precedente vinculante, distinguiu os créditos de natureza previdenciária, e determinou a aplicação do INPC, aplicando-se o IPCA-E aos de caráter administrativo. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29/06/2009. A partir de 09/12/2021, para fins de atualização monetária e juros de mora, deve ser observada a redação dada ao art. 3º da EC 113/2021, com incidência, uma única vez, até o efetivo pagamento, do índice da Taxa Referencial do Sistema Especial de Liquidação e Custódia (SELIC), acumulado mensalmente.
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa ao art. 1º do Decreto 20.910/1932, alegando-se, em síntese, que deve ser fixada a DIB na data do requerimento administrativo, conforme fixado na sentença, sem incidência da prescrição quinquenal, tendo em vista que entre o indeferimento administrativo em 08/08/2019 e a data de ajuizamento da ação em 28/03/2024, não transcorreram mais de cinco anos.
+Sem contrarrazões, o recurso foi admitido (fl. 486e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Acerca da ofensa ao art. 1º do Decreto 20.910/1932, em razão do fato de que entre o indeferimento administrativo em 08/08/2019 e a data de ajuizamento da ação em 28/03/2024 não transcorreram mais de cinco anos, verifico que a insurgência carece de prequestionamento, porquanto não analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, não foi examinada, ainda que implicitamente, a alegação de que entre a data d o indeferimento administrativo e o ajuizamento da ação, não transcorreu mais de 5 anos.
+Dessarte, aplicável, por analogia, o enunciado da Súmula n. 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), consoante os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL DO PRAZO PRESCRICIONAL. PROVIMENTO NEGADO.
+(..)
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.036.100/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23.06.2025, DJEN de 27.06.2025).
+PROCESSUAL CIVIL. JUÍZES CLASSISTAS. PARCELA AUTÔNOMA DE EQUIVALÊNCIA. JUROS DE MORA. TERMO INICIAL. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ANÁLISE DE SUPOSTA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO CONHECIMENTO.
+(..)
+III - Sobre a alegada violação dos arts. 5º, 11, 89, 99 e 296 do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+VI - Recurso especial não conhecido.
+(REsp n. 2.195.614/CE, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 30.04.2025, DJEN de 07.05.2025).
+Cabe ressaltar, outrossim, que, diante da persistência de vício integrativo no acórdão impugnado, a parte recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma devidamente fundamentada, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pela Corte a qua, sob pena de não conhecimento da matéria por ausência de prequestionamento, como na espécie.
+Sublinhe-se, por oportuno, que a exigência do prequestionamento se impõe mesmo em relação às matérias de ordem pública, na linha do precedente deste Tribunal Superior, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. OMISSÃO. NÃO OCORRÊNCIA. MATÉRIA ALHEIA AOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. OBSCURIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CARÁTER PROTELATÓRIO. RECONHECIMENTO. EMBARGOS DECLARATÓRIOS REJEITADOS COM APLICAÇÃO DE MULTA.
+(..)
+2. As matérias de ordem pública, mesmo passíveis de conhecimento de ofício pelas instâncias ordinárias, necessitam estar devidamente prequestionadas para ensejar o debate no âmbito do STJ.
+(..)
+5. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl no AgInt nos EREsp n. 1.946.950/PA, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 21.08.2024, DJe de 26.08.2024).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Impende destacar que a Corte Especial deste Tribunal Superior, na sessão de 9.11.2023, concluiu o julgamento do Tema n. 1.059/STJ, fixando a tese segundo a qual a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe de 07.03.2019).
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
