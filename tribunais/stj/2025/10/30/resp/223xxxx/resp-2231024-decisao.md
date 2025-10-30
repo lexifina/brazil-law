@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por WERNER HENRIQUE STEUER e outros, com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 25):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Determinação de realização de perícia para liquidação do julgado - Decisão que determina que os custos da perícia fiquem a cargo do executado - Impossibilidade Perícia determinada de ofício pelo Juízo Inteligência do art. 95 do CPC. RECURSO PROVIDO.
+Embargos de declaração rejeitados (fls. 35-37).
+A parte recorrente alega violação do artigo 82, § 2º, do Código de Processo Civil de 2015 (CPC/15), sustentando o seguinte (fls. 49-51):
+Como se nota pela mera leitura do acórdão proferido pelo Tribunal a quo, o v. aresto deu provimento ao recurso interposto pela Executada, ora Recorrida, determinando a aplicação do artigo 95, do CPC, e, como conseqüência, que as despesas do perito judicial sejam rateadas pelas partes processuais.
+Com efeito, o Tribunal local acabou negando vigência ao artigo 82, § 2º, do CPC, desconsiderando que incube à parte Executada, derrotada na fase de conhecimento, o pagamento das despesas após o início da fase executória.
+Ocorre que o entendimento que prevalece é no sentido de que na fase executória pretende-se debater o quantum debeatur, sendo vedada nova discussão quanto ao título executivo, restando evidente e consolidada a parte vencedora e a vencida.
+Isso porque, Excelências, a sistemática do processo sincrético introduziu um novo rito processual, unificando a fase cognitiva e a execução, ou seja, não se faz mais necessária a instauração de novo processo para satisfação de um direito reconhecido durante a fase cognitiva. Na verdade, tem-se que a partir do julgamento definitivo da fase de conhecimento, a execução se trata de uma nova fase processual e não um novo processo com inicial e citação, por exemplo.
+De tal maneira, encerrada a fase de conhecimento e iniciada a execução, aplicável ao caso o disposto no artigo 82, § 2º, do CPC, assim redigido:
+ ..
+Assim, a fase de cumprimento de sentença não inaugura um novo processo, mas sim dá continuidade à fase anterior, mantendo-se a parte vencida e a parte vencedora. Razão pela qual, não parece aceitável que, no caso concreto, a parte Exequente, vencedora na fase de conhecimento, seja obrigada a custear os honorários periciais.
+Neste sentido, quando do julgamento do tema 871 de recursos repetitivos, restou consolidado o entendimento de que não incube à parte vencedora a obrigação de adiantar os honorários do perito contábil.
+ ..
+Ademais, não se pode perder de vista que o processo é meio de "dizer o direito", reconhecer que uma parte tem razão e a outra não. De tal modo, não se pode conceder tratamento igualitário a ambas as partes até o término do processo, na medida em que, como bem determina o Código de Processo Civil, a parte vencida será condenada ao pagamento da sucumbência. O tratamento isonômico permanece, mas a partir de determinado momento tem-se a parte vencida e a vencedora, ocorrendo da parte vencida passar a assumir o ônus sucumbencial pela sua derrota.
+Assim, o egrégio Tribunal de Justiça de São Paulo, ao determinar o rateio das despesas do perito judicial, contrariou o disposto no Código de Processo Civil.
+Com contrarrazões (fls. 91-95).
+Juízo positivo de admissibilidade (fls. 96-98).
+É o relatório. Passo a decidir.
+Consigne-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, o Tribunal de Justiça fundamentou a determinação de rateio das despesas com o perito nos seguintes termos (fls. 25-27, destaques acrescidos):
+Trata-se de cumprimento de sentença com pagamento de diferenças pretéritas.
+Houve alegação de excesso de execução. Ante a discordância das partes, houve determinação de perícia de ofício. A decisão recorrida imputou ao agravante a responsabilidade pela antecipação dos honorários periciais.
+Respeitado o entendimento contrário, a decisão recorrida deve ser reformada e o recurso merece acolhida, uma vez que tal situação material não está de acordo com as regras sobre distribuição do ônus da prova e respectivos custos de adiantamento, previstas no Código de Processo Civil.
+Com efeito, o sentido da fase de execução é do direito (constante no título) aos fatos, ao contrário da fase de conhecimento, que vai dos fatos ao direito.
+E, no caso, a ação foi julgada procedente, reconhecendo o direito da autora. Na fase de cumprimento de sentença, porém, as partes apresentaram valores diversos para a execução.
+E, dispõe o art. 95 do CPC que "cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes".
+No caso, não obstante ter havido discordância com relação aos valores executados, a perícia foi determinada de ofício pelo Juízo.
+Assim, o valor deverá ser rateado entre as partes.
+Sobre o tema, assim tem decidido esta Corte Paulista:
+ ..
+Por fim, apenas anote-se que não é caso, aqui, de aplicação do decidido pelo C. STJ no tema 871, quando do julgamento do REsp nº 1274466/SC, em sede de recurso repetitivo (Na fase autônoma de liquidação de sentença  por arbitramento ou por artigos , incumbe ao devedor a antecipação dos honorários periciais). Isso porque, referida tese foi firmada em 14/05/2014, tendo por base o conteúdo do art. 33 do CPC de 1973, segundo o qual os honorários do perito eram devidos "pelo autor, quando requerido por ambas as partes ou determinado de ofício pelo juiz". Aliás, na mesma ocasião foi julgado, também, o tema nº 671 e firmado a tese de que "na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devidos ao perito que elabora a memória de cálculos".
+Contudo, como visto, o novo Código de Processo Civil traz regra específica para o caso de perícia determinada de ofício, não podendo, agora, ser aplicado entendimento firmado com base em dispositivo legal já revogado e que trazia previsão diversa da atualmente em vigor.
+Pelo exposto, DOU PROVIMENTO ao recurso, para determinar que os custos com a perícia contábil sejam rateados entre as partes, nos termos do art. 95, caput, do CPC.
+Assim, do simples confronto entre os fundamentos do acórdão recorrido e os termos da irresignação - em que sustenta, em resumo, que, "encerrada a fase de conhecimento e iniciada a execução, aplicável ao caso o disposto no artigo 82, § 2º, do CPC, ..  Razão pela qual, não parece aceitável que, no caso concreto, a parte Exequente, vencedora na fase de conhecimento, seja obrigada a custear os honorários periciais. Neste sentido, quando do julgamento do tema 871 de recursos repetitivos, restou consolidado o entendimento de que não incube à parte vencedora a obrigação de adiantar os honorários do perito contábil" - , verifica-se que a parte recorrente não impugna, especificamente, nas razões do recurso especial, a fundamentação da Corte de origem - estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal a quo - que, por si só, assegura o resultado do julgamento ocorrido no Tribunal estadual e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso as Súmulas n. 283 e n. 284/STF.
+Adotando a mesma compreensão, os seguintes julgados proferidos em hipóteses semelhantes à presente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a parte recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas n. 283 e 284, do STF.
+3. Agravo interno não provido (AgInt no REsp 2.169.113/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 05/05/2025, DJEN de 13/05/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. 1. A ausência de impugnação, no recurso especial, à fundamentação adotada pela aresto hostilizado enseja a aplicação das Súmulas 283 e 284 do STF. 2. Agravo interno desprovido.
+(AgInt no REsp n. 2.173.306/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/03/2025, DJEN de 31/03/2025.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS PERICIAIS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SÚMULAS N. 283 E N. 284 DO STF. RECURSO NÃO CONHECIDO.
