@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Caixa de Assistência dos Empregados da Cia.Leco de Produtos Alimentícios (CAELE) contra decisão de fls. 1.368-1.372, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AÇÃO INDENIZATÓRIA POR DESAPROPRIAÇÃO INDIRETA. DÚVIDA ACERCA DA TITULARIDADE DE BEM IMÓVEL EXPROPRIADO. SUSPENSÃO DO PAGAMENTO.. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A parte embargante sustenta que a decisão incorreu em omissão, sob os argumento de que não houve majoração dos honorários recursais na hipótese, nos termos do artigo 85, § 11, do CPC/2015.
+Menciona que "É fundamental destacar que a jurisprudência do STJ, ao utilizar a expressão "não conhecido integralmente ou desprovido", abrange a situação em que o recurso é parcialmente conhecido e, na extensão do conhecimento, é desprovido. A interpretação teleológica do dispositivo e dos precedentes do STJ converge para o entendimento de que a majoração é devida sempre que a parte recorrente não obtiver êxito em sua pretensão recursal" (fl. 1.398).
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, é cabível a fixação de honorários recursais se estiverem presentes, simultaneamente, os seguintes requisitos: (a) decisão que fixou os honorários publicada a partir de 18/3/2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) que do recurso não se tenha conhecido integralmente ou que ele tenha sido desprovido, monocraticamente ou pelo órgão colegiado competente; e (c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+No caso dos autos, não há condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso, haja vista se tratar de agravo de instrumento.
+Nesse sentido, o STJ é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em agravo de instrumento, objeto do presente recurso especial, com origem em decisão interlocutória, sem a prévia fixação de honorários (AgInt no AREsp n. 2.791.152/SP, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025).
+Ante o exposto, acolho os embargos de declaração sem efeitos modificativos.
+Publique-se. Intim em-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO CONFIGURADO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
