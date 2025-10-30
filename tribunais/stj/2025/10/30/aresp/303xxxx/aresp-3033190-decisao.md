@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO MARANHÃO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DE JOVEM SOB CUSTÓDIA POLICIAL. DISPARO FATAL POR POLICIAL MILITAR DURANTE ABORDAGEM. RESPONSABILIDADE OBJETIVA DO ESTADO. DANOS MORAIS E MATERIAIS. QUANTUM INDENIZATÓRIO REDUZIDO. APELAÇÃO PARCIALMENTE PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 186, 927 e 944, parágrafo único, do Código Civil, no que concerne à necessidade de redução do valor arbitrado a título de indenização por danos morais, porquanto o montante de R$ 50.000,00 seria manifestamente excessivo e dissociado dos critérios de razoabilidade e proporcionalidade à luz das circunstâncias do caso. Argumenta:
+No presente caso, impõe-se a reforma do acórdão recorrido por violação aos artigos 186, 927 e 944, parágrafo único, do Código Civil, uma vez que a fixação do valor arbitrado a título de indenização por danos morais em R$ 50.000,00 (cinquenta mil reais) mostra-se manifestamente excessiva e dissociada dos critérios legais exigidos para a justa reparação.
+ ..
+A indenização por dano moral não possui caráter punitivo, mas sim reparatório. Não se presta a gerar enriquecimento indevido da vítima, tampouco a penalizar o ente público, sob pena de desvirtuamento da própria função do instituto. O valor arbitrado deve corresponder à extensão do dano, à gravidade da lesão e às circunstâncias do caso concreto, sem perder de vista o interesse público envolvido na destinação dos recursos estatais.
+ ..
+No caso dos autos, ainda que se reconheça a dor decorrente da perda do ente querido, o valor de R$ 50.000,00 (cinquenta mil reais) fixado a título de danos morais revela-se manifestamente desproporcional e incompatível com os parâmetros da razoabilidade, notadamente diante da controvérsia existente quanto às circunstâncias da ocorrência, que envolvem a atuação policial diante de situação de flagrante delito.
+ ..
+Diante disso, é imperiosa a reforma do acórdão recorrido, com a consequente redução do valor arbitrado a título de danos morais, de forma a adequá-lo aos critérios legais previstos nos artigos 186, 927 e 944, parágrafo único, do Código Civil, em respeito ao princípio da proporcionalidade e razoabilidade (fls. 478- 481).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Quando da fixação da indenização por danos morais, o julgador deve levar em consideração a proporcionalidade do dano sofrido, para que seja suficiente para repará-lo, conforme a sua extensão.
+À vista disso, a indenização fixada na sentença ora impugnada (R$ 500.000,00) mostra-se excessiva e diverge dos precedentes judiciais aplicáveis à hipótese, devendo, pois, ser reduzida para R$ 50.000,00 (cinquenta mil reais), que se afigura proporcional às peculiaridades da espécie (fl. 442).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
