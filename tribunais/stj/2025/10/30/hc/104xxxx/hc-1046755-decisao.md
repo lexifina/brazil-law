@@ -1,0 +1,15 @@
+DECISÃO
+MARCELO WOJCIECHOWSKI DORNELES DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+A impetração visa à concessão da ordem para reconhecer a tempestividade dos embargos de declaração opostos nos autos da Apelação n. 5007416-26.2024.8.21.0003, os quais não foram conhecidos pelo Tribunal de origem sob o fundamento de intempestividade.
+Consta que o colegiado deixou de conhecer o recurso integrativo, pois a intimação eletrônica teria ocorrido com a comunicação aberta, em 17/05/2025, e confirmação de leitura pela defesa, razão pela qual o termo final do prazo recursal se deu em 20/05/2025.
+O impetrante explica que há erro na decisão, pois a intimação foi anterior à mudança do CNJ, e deve prevalecer a sistemática anterior, segundo a qual o prazo de 10 dias para abertura automática da intimação antecede o início da contagem do prazo recursal. Assim, o termo inicial seria o primeiro dia útil após o encerramento do prazo de abertura. Ademais, não houve abertura manual da intimação pela defesa e esse evento teria sido gerado automaticamente pelo sistema.
+Requer, por isso, o reconhecimento da tempestividade dos embargos de declaração opostos nos autos da Apelação n. 5007416-26.2024.8.21.0003.
+Decido.
+Este habeas corpus limita-se à análise do requisito de admissibilidade de embargos de declaração; não abrange eventuais ilegalidades relacionadas à condenação ou à dosimetria da pena, nem questão que implique, direta ou indiretamente, reflexo no estado de liberdade do paciente.
+O habeas corpus "não é meio hábil para discutir questões alheias à liberdade de locomoção, tais como tempestividade ou ausência dos pressupostos de admissibilidade recursal de outro tribunal. Precedentes" (STF, HC n. 202.958 AgR, Rel. Ricardo Lewandowski, 2ª T., DJe 6/8/2021, destaquei).
+O uso da garantia constitucional "com o desiderato único e exclusivo de (re)discutir os pressupostos de admissibilidade dos recursos  ..  não encontra guarida na legislação de regência, tampouco o é autorizado pela jurisprudência, tanto desta Corte quanto do Supremo Tribunal Federal (AgRg no HC n. 438.020/RN, Sexta Turma, Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)" (AgRg no HC n. 793.516/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 10/3/2023).
+Ilustrativamente: "o habeas corpus não é meio hábil para discutir questão processual relativa a pressuposto de admissibilidade de recurso" (AgRg no HC n. 815.126/SE, relator Ministro Rogerio Schietti, 6ª T., DJe 3/11/2023).
+O habeas corpus destina-se à tutela da liberdade de locomoção; não constitui via própria para a discussão de questões exclusivamente processuais que se limitem à admissibilidade de embargos de declaração. As alegações do advogado, porque não relacionadas a erros ou injustiças na condenação, devem ser suscitadas por outros meios processuais adequados, e não por meio do writ.
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
