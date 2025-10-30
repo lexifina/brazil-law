@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOAO VITOR DE SOUZA DO NASCIMENTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. SEGMENTAÇÃO AMBULATORIAL. AUSÊNCIA COBERTURA PROCEDIMENTO CIRÚRGICO E INTERNAÇÃO. URGÊNCIA LIMITE TEMPORAL. VALIDADE. ABUSIVIDADE AUSENTE. COMPENSAÇÃO DANO MORAL AFASTADA. RESPONSABILIDADE PESSOAL DO MÉDICO. RESPONSABILIDADE HOSPITAL. PROCEDIMENTOS MÉDICOS NECESSÁRIOS PRESTADOS. AUSÊNCIA DE OBRIGAÇÃO DE REALIZAR PROCEDIMENTOS NÃO COBERTOS PELO PLANO. OBRIGAÇÃO DE INDENIZAR. AFASTADA. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 14, § 1º, do CDC, no que concerne à necessidade de condenação dos recorridos ao pagamento de indenização por danos morais decorrentes de falha na prestação do serviço, porquanto o serviço não forneceu a segurança esperada em atendimento emergencial a quadro de apendicite aguda, com negativa de autorização para cirurgia e alta médica com recomendação de busca de outro hospital, trazendo a seguinte argumentação:
+"Dessa forma, há de se reconhecer as violações oriundas do v. acórdão naquilo que concerne especialmente ao art. 14, §1º do CDC, sendo que o v. acórdão claramente também banalizou toda a estrutura referente aos princípios da razoabilidade e proporcionalidade." (fl. 523)
+- "Portanto, Meritíssimo, não restam dúvidas de que as situações experimentadas remetem a violação ao art. 14 do CDC, artigo esse que parece não existir sob a ótica do judiciário até então, pois todos os juízes que se debruçaram sobre os autos preferiram tecer comentários infundados sobre conceitos médicos do que propriamente analisar que o § 1º do art. 14 do CDC é claro ao dispor que o serviço é defeituoso a medida em que não fornece a segurança esperada." (fl. 526)
+- "Dessa forma, Excelência, não há como falar que não houve falha na prestação do serviço de ambos os Réus, em nítida violação ao art. 14 do CDC, pois devemos ter em mente as seguintes premissas:
+1) O Recorrente procurou a rede credenciada;
+2) O Recorrente foi atendido e teve o diagnóstico de apendicite;
+3) O médico solicitou tomografia computadorizada na região abdominal;
+4) A máquina do hospital estava quebrada;
+5) O Recorrente teve de procurar sozinho outro local para realizar a tomografia, pois o hospital não lhe ofereceu opção para deslocamento;
+6) O Recorrente se ausentou do hospital e voltou posteriormente portando um laudo que informava acerca da apendicite aguda;
+7) O médico solicitou cirurgia em caráter de urgência;" (fls. 525-526)
+- "8) O plano de saúde não autorizou o procedimento, mesmo que dentro das doze horas;
+9) O médico informou que o hospital não poderia realizar a cirurgia, e emitiu em seguida um laudo informando em letras garrafais que o Recorrente deveria procurar outro hospital para que fosse operado urgentemente, destacando o "urgente" em letras garrafais;
+10) O Recorrente procurou um hospital público, mas ao chegar no local nos braços do seu genitor se deparou com um ambiente caótico, tendo conseguido por meio de liminar ser operado ainda naquele dia." (fl. 526)
+- "Ante o exposto, o Recorrente pleiteia pela admissão e provimento do seu apelo, a fim de que o v. acórdão possa ser reformado ante a nítida constatação de que a situação vivida o expos a risco de vida, fato esse que gera dano moral, pois o bem jurídico mais tutelado pela legislação foi negligenciado por todos os Recorridos, o que torna passível, viável e necessária a condenação solidária em danos morais." (fl. 527).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+O propósito normativo é permitir o acesso ao sistema de saúde mediante o pagamento de mensalidades mais baixas proporcionais a uma cobertura mais restrita.
+ ..
+No caso, o apelante tem contratado com o plano de saúde atendimento na segmentação ambulatorial. Não pode querer estender a abrangência do plano a hipóteses para as quais não contribuiu.
+ ..
+Embora tenha editado a Súmula 302, segundo a qual "é abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado", o Superior Tribunal de Justiça já teve a oportunidade de afastá-la em caso que envolvia a cobertura no segmento exclusivamente ambulatorial (fl. 497).
+Nesse sentido: "Incide a Súmula n. 283 do STF, aplicável analogicamente a esta Corte Superior, quando o acórdão recorrido é assentado em mais de um fundamento suficiente para manter a conclusão do Tribunal a quo e a parte não impugna todos eles" (REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.267.385/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025; REsp n. 2.180.608/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/3/2025, DJEN de 21/3/2025; AgInt no AREsp n. 2.470.308/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/10/2024; AgInt no AREsp n. 2.040.000/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/10/2024; AgInt no AREsp n. 638.541/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 24/11/2023.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+O atendimento prestado pelo plano correspondeu às necessidades que o apelante demandava naquele momento e obedeceu ao que foi previamente pactuado entre as partes. No momento do atendimento, o autor não apresentava risco de morte nem de agravamento do quadro.
+Não houve abusividade. A cobertura para casos de urgência deve obedecer à segmentação contratada, sob pena de quebra do sinalagma.
+ ..
+No caso, tanto pela ótica da responsabilidade objetiva como da subjetiva, o acervo probatório eviden cia que não houve falha na prestação dos serviços.
+Nada indicava a necessidade de imediata intervenção cirúrgica no autor. O fato de ter obtido tutela de urgência para realização da cirurgia na rede pública de saúde não indica a gravidade do quadro quando do atendimento prestado na rede privada. A crise de apendicite demanda rapidez no atendimento para se evitar a progressão da infecção. É urgente na medida em que quanto mais cedo realizada a apendicectomia, menos invasivo será o procedimento cirúrgico e mais rápida será a recuperação do paciente.
+Como narrado na inicial a cirurgia foi realizada no dia 01/09/2023, em horário noturno, e no dia seguinte o apelante teve alta médica. A situação demonstra que, quando do atendimento no dia anterior na rede privada, o quadro de saúde não demandava maiores cuidados além daqueles que lhe foram prestados. Logo, não houve falha na conduta do médico ou do hospital.
+Ausente o defeito do serviço, afasta-se, naturalmente, o nexo de causalidade com relação a danos.
+ ..
+O hospital não é obrigado a manter equipamento, especialmente se orienta o paciente quanto a existência de alternativas. Também não exerce ingerência sobre a relação contratual firmada entre o segurado e o plano de saúde. Não é ilícita a conduta da instituição que realiza os procedimentos necessários para a identificação da doença e estabilização do quadro do paciente, mas deixa de realizar procedimentos não cobertos pelo plano de saúde contratado, especialmente se o quadro não demandava imediata e pronta intervenção cirúrgica.
+ ..
+Em face dessas considerações, ausente ilicitude da conduta do hospital e médico, não há que se falar em compensação por danos morais (fls. 497-502).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido: "A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior" (AgInt no AREsp n. 2.616.315/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 16/10/2024).
+Confiram-se os seguintes julgados: AgInt no AREsp n. 2.754.542/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.511.934/ES, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024; AgInt no AREsp n. 2.426.291/RJ, relator Ministro Humberto Martins, Terceira Turma, DJe de 22/8/2024; AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, DJe de 30/3/2023; AgInt no AREsp n. 2.171.225/SC, relator Ministro Marco Buzzi, Quarta Turma, DJe de 2/12/2022; AgInt no AREsp n. 1.966.714/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 21/11/2022; AgInt no AREsp n. 2.031.975/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
