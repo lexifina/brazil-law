@@ -1,0 +1,27 @@
+Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo - TJSP, assim ementado :
+
+    MANDADO DE SEGURANÇA - APOSENTADORIA ESPECIAL - SERVIDOR PÚBLICO ESTADUAL - AGENTE DE SEGURANÇA PENITENCIÁRIO - PRETENSÃO VISANDO O RECONHECIMENTO DO DIREITO À APOSENTADORIA ESPECIAL, COM PARIDADE E INTEGRALIDADE DE PROVENTOS. Pretensão visando o reconhecimento do direito à paridade de proventos. Admissibilidade. Inteligência da Lei Complementar Estadual nº 1.109/2010, em consonância com o §4º, art. 40, da CF - Servidor que ingressou no serviço público anteriormente à publicação das Emendas Constitucionais nº 20/98 e 41/03, razão pela qual faz jus à paridade e integralidade, levando em consideração as especificidades inerentes à aposentadoria especial. Requisito temporal de cinco anos para a aposentadoria que diz respeito ao cargo, e não ao nível ou classe Precedentes deste E. Tribunal. Reexame necessário e recurso voluntário não providos (doc. 12, p. 2).
+
+    Tendo em vista o julgamento do RE 1.162.672/SP (Tema 1.019), da relatoria do Ministro Dias Toffoli, determinou-se a remessa dos autos ao TJSP para eventual exercício do juízo de retratação (doc. 32).
+
+    O TJSP contudo, manteve o entendimento anterior, nos seguintes termos:
+
+    No julgamento do tema 1.019, o STF definiu a seguinte tese: O servidor público policial civil que preencheu os requisitos para a aposentadoria especial voluntária prevista na LC nº 51/85 tem direito ao cálculo de seus proventos com base na regra da integralidade e, quando também previsto em lei complementar, na regra da paridade, independentemente do cumprimento das regras de transição especificadas nos arts. 2º e 3º da EC 47/05, por enquadrar-se na exceção prevista no art. 40, § 4º, inciso II, da Constituição Federal, na redação anterior à EC 103/19, atinente ao exercício de atividade de risco. (RE 1.162.672, j. 4- 9-2023).
+
+    No presente caso, o autor ocupou o cargo de agente de segurança penitenciária, estando o V. Acórdão de fls. 256/263 de acordo com o entendimento do E. Supremo Tribunal Federal, não sendo o caso de retratação (doc. 35, p. 5).
+
+    Observo, portanto, que divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos — o que é vedado pela Súmula 279/STF, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Vejamos:
+
+    Direito administrativo e outras matérias de direito público. Embargos de declaração no recurso extraordinário com agravo. Embargos de declaração conhecidos como agravo regimental. Aposentadoria especial de policiais civis. Superveniência de lei estadual exigindo requisito etário. Requisito não implementado antes da alteração normativa. Alegação de violação ao tema 339 da repercussão geral. Inocorrência. Tema 1.019 inaplicável ao caso concreto. Incidência da Súmula 279/STF. Agravo regimental desprovido. I. Caso em exame 1. Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso extraordinário com agravo interposto de acórdão do Tribunal de origem que negou aposentadoria especial a servidor policial civil, ao fundamento de que não havia preenchido os requisitos antes da vigência da Lei Complementar Estadual 1.354/2020. II. Questão em discussão 2. A questão em discussão consiste em saber se o recorrente faria jus à aposentadoria especial sem o requisito etário previsto na legislação superveniente, à luz do tema 1.019 da repercussão geral, que assegura integralidade e paridade a policiais civis que já haviam preenchido os requisitos da LC 51/1985. III. Razões de decidir 3. O tema 1.019 não se aplica ao caso, uma vez que o recorrente não havia implementado os requisitos da LC 51/1985 antes da edição da Lei Complementar Estadual 1.354/2020, devendo-se observar a exigência etária introduzida pela norma superveniente. IV. Dispositivo e tese 4. Embargos de declaração recebidos como agravo a que se nega provimento. _________ Dispositivos relevantes citados: Lei Complementar Estadual 1.354/2020, Lei Complementar 51/1985. Jurisprudência relevante citada: Tema 1.019 da repercussão geral, Súmula 279 do STF, ARE 1.521.946 AgR (ARE 1.558.312 ED/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe-1º/10/2025).
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENSÃO POR MORTE. PARIDADE. TEMA RG Nº 396. EXAME DE FATOS E PROVAS: INVIABILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. SOBRESTAMENTO PARA AGUARDAR O JULGAMENTO DO TEMA RG Nº 1.019: INCABÍVEL. 1. É inviável, em recurso extraordinário, o reexame dos elementos fático-probatórios que fundamentam o acórdão recorrido. Incidência do óbice do enunciado nº 279 da Súmula do STF. 2. No caso, o Tribunal a quo, com fundamento nas provas dos autos, asseverou a adequação da hipótese ao Tema RG nº 396, ante o preenchimento dos requisitos previstos na EC nº 41, de 2003, e na EC nº 47, de 2005, para a concessão da paridade. 3. Incabível o sobrestamento destes autos para aguardar o julgamento de mérito do Tema RG nº 1.019, ante a ausência de similitude fática e jurídica com este paradigma. 4. Agravo regimental ao qual se nega provimento (ARE 1.404.686 AgR/RS, Rel. Min. André Mendonça, Segunda Turma, DJe 5/7/2023).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 30 de outubro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
