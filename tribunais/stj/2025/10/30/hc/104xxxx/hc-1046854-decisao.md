@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO MARCUS ALBINO RIBEIRO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1500177-30.2019.8.26.0128).
+Consta nos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, e 11 dias-multa, além da obrigação de reparar os danos causados pela infração no valor mínimo de R$ 92.250,00, tudo pela prática do crime previsto no art. 157, § 1º, do Código Penal (e-STJ fls. 528/534).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 8/22), em acórdão assim ementado:
+APELAÇÃO CRIMINAL - ROUBO IMPRÓPRIO - PRETENDIDA A ABSOLVIÇÃO OU A DESCLASSIFICAÇÃO DA CONDUTA PARA O CRIME DE FURTO - NÃO ACOLHIMENTO - No crime de roubo, os depoimentos das vítimas, seguros e corroborados pelos demais elementos de prova, possuem grande relevância e são suficientes para embasar decreto condenatório, máxime quando não se vislumbra nenhuma razão para elas incriminarem falsamente o réu. Tendo havido o emprego de violência ou grave ameaça, a fim de assegurar a impunidade do crime e a detenção da coisa, para si, caracterizado está o crime de roubo impróprio. Recurso não provido.
+Os embargos de declaração opostos pela defesa foram rejeitados (e-STJ fls. 624/629), seu recurso especial não foi admitido na origem (e-STJ fls. 647/650) e o subsequente agravo em recurso especial não foi conhecido no âmbito desta Corte, conforme é possível extrair do Sistema Justiça (AREsp 2.884.587/SP).
+No presente mandamus (e-STJ fls. 2/7), o impetrante sustenta que o Tribunal a quo impôs constrangimento ilegal ao paciente, pois manteve a agravante do motivo torpe na dosimetria de sua pena. Para tanto, aduz que o argumento utilizado pela sentença  a suposta ganância do réu  não se sustenta, pois o crime de roubo, por sua própria natureza, já envolve a busca de vantagem econômica mediante o emprego de violência ou grave ameaça, ou seja, a natureza do delito já é reprovável de algum modo (e-STJ fl. 6). Também assevera que o suposto descrédito causado à advogada não deve ser considerado nesta fase da dosimetria, pois não guarda relação com o motivo do crime, mas sim com as circunstâncias/consequências do delito, eventualmente apreciáveis na primeira fase da fixação da pena (e-STJ fl. 6).
+Além disso, impugna o estabelecimento do valor mínimo de R$ 92.250,00 para a reparação dos danos causados pela infração. No ponto, alega que a denúncia não fixou o valor mínimo do ressarcimento, razão pela qual descabe tal condenação.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que a agravante do motivo torpe seja decotada e a exclusão da obrigação de reparar os danos causados pela infração no valor mínimo de R$ 92.250,00.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus.
+Ante o exposto, indefiro a liminar.
+Suficientemente instruída a impetração, dispenso informações.
+Dê-se vista dos autos ao Ministério Público Federal.
+Intimem-se.
+EMENTA
