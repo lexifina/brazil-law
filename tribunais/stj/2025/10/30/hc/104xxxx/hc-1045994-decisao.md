@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDERSON PEREIRA SANTOS, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu a Revisão Criminal nº 2279386-90.2025.8.26.0000, nos termos do acórdão assim ementado (fl. 24):
+REVISÃO CRIMINAL. CRIME DE ROUBO MAJORADO. INDEFERIMENTO. A questão em discussão consiste em determinar se há elementos novos que justifiquem a revisão da condenação do peticionário, considerando a inexistência de provas novas ou erro judiciário. Razões de Decidir. Não há contrariedade ao texto expresso da lei penal ou à evidência dos autos, nem a condenação se baseia em provas falsas. A revisão criminal não se presta a reanálise do acervo probatório já julgado, sendo necessária a apresentação de novos elementos, o que não ocorreu. Revisão Indeferida.
+Consta dos autos que o paciente foi definitivamente condenado às penas de 6 anos, 10 meses e 28 dias de reclusão, no regime inicial fechado, e ao pagamento de 15 dias-multa, como incurso no art. 157, § 2º, incisos I e II, do Código Penal, por duas vezes, em concurso formal (fls. 81-93).
+Após o trânsito em julgado, a Defesa ajuizou revisão criminal, que foi indeferida pela Corte de origem (fls. 23-35).
+Neste writ, o impetrante sustenta o cabimento excepcional do habeas corpus substitutivo da revisão criminal, diante de manifesta ilegalidade na condenação, afirmando tratar-se de constrangimento ilegal evidente capaz de justificar o conhecimento da via heroica mesmo como sucedâneo.
+Alega que, embora a revisão criminal tenha sido indeferida sob o argumento de inexistência de provas novas e da impossibilidade de reanálise do acervo probatório, a ilegalidade apontada decorreria do uso de meio probatório inválido (reconhecimento fotográfico e pessoal em desacordo com o art. 226 do CPP), não se tratando de mera divergência interpretativa sobre provas.
+Aduz que a condenação está fundada em prova ilícita, o que justifica a concessão da ordem de habeas corpus.
+Requer, liminarmente, a revogação da prisão do paciente. No mérito, pugna pela absolvição do condenado.
+É o relatório. Decido.
+Inicialmente, cumpre destacar que, a despeito de o impetrante assinalar que se trata de habeas corpus substitutivo de revisão criminal, a própria Defesa, nas razões do writ, afirma que já foi ajuizada revisão perante a Corte de origem, a qual foi indeferida, o que ensejou a impetração deste mandamus.
+Verifica-se, portanto, que se trata de habeas corpus substitutivo de recurso especial.
+Contudo, esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, HC n. 535.063/SP, Terceira Seção, Relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020; STF, AgRg no HC n. 180.365/PB, Primeira Turma, Relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; e AgRg no HC n. 147.210/SP, Segunda Turma, Relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020).
+Ademais, é consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de que a prerrogativa do relator para julgar monocraticamente o habeas corpus e o respectivo recurso não é afastada pelas normas regimentais que preveem a oitiva prévia do Ministério Público Federal (arts. 64, III, e 202 do RISTJ), notadamente quando a matéria se conforma com o entendimento dominante desta Corte (AgRg no HC n. 856.046/SP, de relatoria do Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Constata-se que a alegação de que o paciente foi condenado com base em reconhecimento fotográfico e pessoal em desacordo com o art. 226 do Código de Processo Penal não foi obje to de apreciação pelo Tribunal de Justiça do Estado de São Paulo, o qual, no acórdão impugnado, limitou-se a examinar a tese de insuficiência probatória.
+A despeito da relevância da questão suscitada, esta Relatoria não pode olvidar que a jurisprudência desta Corte é pacífica no sentido de que não é dado ao Superior Tribunal de Justiça conhecer de matérias que não tenham sido objeto de prévia deliberação pela instância antecedente, sob pena de se instaurar cognoscibilidade originária imprópria e se malferir a lógica do duplo grau de jurisdição.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NULIDADE DE RECONHECIMENTO FOTOGRÁFICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A alegação de nulidade do reconhecimento fotográfico não foi apreciada pelo Tribunal de origem, impossibilitando o conhecimento por esta Corte Superior, sob pena de indevida supressão de instância.
+ ..
+6. Agravo não provido. (AgRg no HC n. 939.316/RS, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 19/8/2025, DJEN de 26/8/2025; sem grifos no original.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
