@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por EDUARDO BRANDÃO DE AZEREDO contra acórdão prolatado pela 6ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, o qual deu parcial provimento ao Agravo de Instrumento (fls. 5120/5145e) visando à reforma da decisão que indeferiu a produção da prova testemunhal requerida.
+Com contrarrazões (fls. 5.207/5.218e), o recurso foi admitido (fl. 5.252/5.254e).
+O Ministério Público Federal manifestou-se às fls. 5.294/5.297e, entendendo pela perda do objeto recursal.
+Feito breve relato, decido
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Na origem, a parte ora recorrente interpôs Agravo de Instrumento contra decisão proferida nos autos da ação civil pública de ressarcimento ao erário proposta pelo Ministério Público do Estado de Minas Gerais, mediante a qual: i) rejeitada a prejudicial de prescrição e de atipicidade das condutas; e ii) indeferiu o pedido de produção de prova oral.
+O acórdão recorrido deu parcial provimento ao Agravo de Instrumento (fls. 5120/5145e) para reformar a decisão que indeferiu a produção da prova testemunhal requerida.
+Após a interposição do Recurso Especial o juízo a quo proferiu sentença, na qual reconheceu a prescrição da pretensão de ressarcimento ao erário, à luz do Tema n. 666 da repercussão geral, nos seguintes termos (fls. 5.282/5.285e):
+Após nova análise dos autos, reviso meu posicionamento anteriormente adotado na decisão de ID 10110822595 e passo a uma nova análise da questão prejudicial de prescrição, posto que é matéria de ordem pública podendo ser analisada a qualquer tempo e grau de jurisdição.
+A prescritibilidade da pretensão de ressarcimento por dano ao erário constitui ponto nodal para o deslinde da controvérsia. A Constituição Federal, em seu artigo 37, § 5º, estabelece que a lei determinará os prazos de prescrição para ilícitos que causem prejuízos ao erário, ressalvando as ações de ressarcimento.
+O Supremo Tribunal Federal, ao pacificar a interpretação desse dispositivo, firmou teses claras sobre o alcance da imprescritibilidade. No julgamento do Recurso Extraordinário nº 669.069 (Tema 666), ficou estabelecido que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil. Posteriormente, no julgamento do Recurso Extraordinário nº 852.475 (Tema 897), definiu-se que são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa.
+ ..
+Não sendo o caso de dano causado por ato de improbidade administrativa ou ilícito penal, a pretensão de ressarcimento ao erário sujeita-se ao prazo prescricional quinquenal, nos termos do Decreto nº 20.910/32, logo, os fatos geradores da ação teriam ocorrido em 01 de setembro de 1998, e a presente ação foi ajuizada em 29 de novembro de 2016, verifica-se, portanto, que o prazo prescricional de cinco anos foi sobejamente ultrapassado.
+ ..
+Isso posto, reconheço e declaro a ocorrência da prescrição da pretensão de ressarcimento de danos ao erário, nos termos do artigo 487, inciso II, do Código de Processo Civil, c/c as teses firmadas nos Temas 666 e 897 do Supremo Tribunal Federal e o prazo quinquenal previsto no Decreto nº 20.910/32 e, em consequência, julgo extinto o feito, com resolução de mérito, com fulcro nos arts. 354 e 355, ambos do CPC. (destaques meus).
+Dentro desse contexto, a parte recorrente peticionou às fls. 5.277/5.278e requerendo que o seu recurso especial fosse julgado prejudicado em razão da perda do objeto, "uma vez que foi revisto o posicionamento anteriormente exarado pelas instâncias inferiores, justamente com relação à matéria recursal" (fl. 5.278).
+Dessarte, o reconhecimento da prescrição da pretensão ressarcitória mediante cognição exauriente esvazia o objeto do Agravo de Instrumento e, por conseguinte, do presente Recurso Especial, ante a carência superveniente do interesse recursal (cf. AgInt no REsp n. 2.012.851/TO, de minha relatoria, PRIMEIRA TURMA, j. 11.9.2023).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial, ante a perda de objeto.
+Publique-se e intimem-se.
+EMENTA
