@@ -1,6 +1,6 @@
 Art. 2º Promover, constituir, financiar ou integrar, pessoalmente ou por interposta pessoa, organização criminosa:
 Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa, sem prejuízo das penas correspondentes às demais infrações penais praticadas.
-§ 1º Nas mesmas penas incorre quem impede ou, de qualquer forma, embaraça a investigação de infração penal que envolva organização criminosa.
+§ 1º Nas mesmas penas incorre quem impede ou, de qualquer forma, embaraça a investigação de infração penal que envolva organização criminosa, se o fato não constituir crime mais grave.
 § 2º As penas aumentam-se até a metade se na atuação da organização criminosa houver emprego de arma de fogo.
 § 3º A pena é agravada para quem exerce o comando, individual ou coletivo, da organização criminosa, ainda que não pratique pessoalmente atos de execução.
 § 4º A pena é aumentada de 1/6 (um sexto) a 2/3 (dois terços):
