@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 516, DE 29 DE OUTUBRO DE 2025
+Altera a Circular nº 3.870, de 19 de dezembro de 2017, que dispõe sobre o fornecimento de informações relativas a operações de crédito ao Sistema de Informações de Créditos – SCR.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 29 de outubro de 2025, com base nos arts. 10, caput, inciso IX, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, tendo em vista o disposto nos arts. 1º, § 1º, da Lei Complementar nº 130, de 17 de abril de 2009, 9º-A da Lei nº 4.728, de 14 de julho de 1965, 20, § 2º, da Lei nº 4.864, de 29 de novembro de 1965, 7º da Lei nº 6.099, de 12 de setembro de 1974, 9º, caput, incisos II e VIII, da Lei nº 12.865, de 9 de outubro de 2013, 106 e 107 da Lei nº 13.097, de 19 de janeiro de 2015, e 17 da Resolução CMN nº 5.037, de 29 de setembro de 2022,
+R E S O L V E :
