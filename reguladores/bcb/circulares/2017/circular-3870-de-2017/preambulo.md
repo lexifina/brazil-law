@@ -1,0 +1,2 @@
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 19 de dezembro de 2017, com base no disposto nos arts. 9º, 10, inciso VI, 11, inciso VII, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, no art. 1º, § 3º, inciso I, da Lei Complementar nº 105, de 10 da janeiro de 2001, nos arts. 9º e 15 da Lei nº 12.865, de 9 de outubro de 2013, e tendo em vista o disposto na Resolução nº 4.571, de 26 de maio de 2017,
+R E S O L V E :
