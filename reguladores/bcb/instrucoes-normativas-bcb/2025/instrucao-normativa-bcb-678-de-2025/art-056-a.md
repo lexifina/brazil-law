@@ -1,0 +1,3 @@
+Art. 56-A. Os testes formais de validação da mensageria relativa ao envio de transações Pix liquidadas nos sistemas dos próprios participantes compreendem o envio com sucesso de mensagem TRCK002 no ambiente de homologação e o recebimento com sucesso da correspondente mensagem CAMT.025 enviada pelo Banco Central do Brasil.” (NR)
+“Art. 56-B. Os testes formais de validação da funcionalidade de recuperação de valores compreendem criar com sucesso uma recuperação de valores e solicitar com sucesso a devolução em uma recuperação de valores.
+Parágrafo único. Para instituições em processo de adesão, os testes formais de validação da funcionalidade de recuperação de valores serão realizados em conjunto com os testes formais de homologação do DICT de que trata o Capítulo I.” (NR)
