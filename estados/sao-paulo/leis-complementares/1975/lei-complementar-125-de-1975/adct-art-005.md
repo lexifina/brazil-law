@@ -1,0 +1,1 @@
+Artigo 5° - Os atuais servidores, cujo tempo de efetivo exercício exceda o necessário para o seu enquadramento nos termos dos artigos 1°, 3° e 4° destas Disposições Transitórias, terão esse excesso computado para efeito das exigências do interstício de que trata o artigo 10 no primeiro processamento do acesso definido pelo artigo 8 °.

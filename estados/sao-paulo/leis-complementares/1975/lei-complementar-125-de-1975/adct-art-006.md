@@ -1,0 +1,1 @@
+Artigo 6° - As diferenças de vencimentos ou salários, que vierem a ocorrer em consequência da aplicação desta lei complementar, ficam asseguradas como vantagem pessoal a ser absorvida em futuras majorações de vencimentos.

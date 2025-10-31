@@ -1,0 +1,1 @@
+Artigo 9° - A atual CPRTI elaborara regulamento provisório, a ser adotado na primeira votação prevista no parágrafo único do artigo 13, cessando a seguir, o mandato de seus atuais membros, sem que isso implique em impedimento para a sua votação e escolha para a nova composição da Comissão.
