@@ -1,0 +1,1 @@
+Art. 3º-A Os testes formais de homologação no DICT para as instituições em processo de adesão ao Pix na modalidade instituição usuária compreendem os testes de funcionalidades. (Incluído, a partir de 1º/1/2025, pela Instrução Normativa BCB nº 580, de 30/12/2024.)
