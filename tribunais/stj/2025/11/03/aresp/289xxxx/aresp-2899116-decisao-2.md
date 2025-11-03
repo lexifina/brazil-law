@@ -1,0 +1,16 @@
+DECISÃO
+DOUGLAS GALHARDO DOS SANTOS interpõe agravo em recurso especial contra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial na Apelação Criminal n. 0000198-65.2022.8.16.0189.
+Consta que o agravante foi condenado, no acórdão recorrido, à pena de 7 anos, 4 meses e 15 dias de reclusão e 1 ano e 1 mês de detenção, pela prática dos seguintes delitos: arts. 2 º, § 2º, da Lei n. 12.850/2013, 50, parágrafo único, I e II, da Lei n. 6.766/1979,161, § 1º, II, e 155, § 4º, II, do Código Penal, e do 38-A da Lei n. 9.605/1998 .
+A defesa aponta violação do art. 158 do Código de Processo Penal. Aduz que a condenação pelo crime ambiental previsto no art. 38-A da Lei de Crimes Ambientais é nula, pois, tratando-se de infração que deixa vestígios, era indispensável a realização de exame pericial para comprovar a materialidade do delito. Requer o reconhecimento da nulidade da condenação pelo FATO 09 e o restabelecimento da sentença absolutória de primeiro grau.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que motivou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 3.121-3.123).
+Decido.
+O agravo não merece ser conhecido.
+A decisão que inadmitiu o recurso especial baseou-se na Súmula 83 do STJ, sob o fundamento de que o acórdão recorrido está em harmonia com a jurisprudência desta Corte Superior, no sentido de que a ausência de laudo pericial em crimes ambientais pode ser suprida por outros meios de prova. A decisão de inadmissibilidade citou diversos precedentes do STJ que corroboram essa tese.
+O agravante, em sua petição de agravo, argumenta que o laudo pericial é indispensável em crimes que deixam vestígios, conforme o art. 158 do CPP, e que a decisão do Tribunal de origem não está de acordo com o entendimento do STJ, citando um julgado desta Corte (AgRg no AREsp 1.571.857/PR). Contudo, não rebateu de forma específica e suficiente o óbice da Súmula 83 do STJ.
+Para impugnar a aplicação da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou colacionar julgados contemporâneos ou supervenientes que comprovem uma orientação jurisprudencial divergente neste Tribunal. A simples menção a um julgado que, em tese, ampararia sua pretensão, sem demonstrar a inadequação dos precedentes que fundamentaram a inadmissão do recurso, não é suficiente para afastar o óbice.
+Ademais, a decisão de inadmissibilidade está em consonância com a jurisprudência pacífica desta Corte, que admite a comprovação da materialidade de crimes ambientais por outros meios de prova idôneos, quando não for possível a realização da perícia, o que afasta a alegação de violação do art. 158 do CPP no caso concreto.
+A ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial atrai a incidência da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo em recurso especial.
+Publique-se e i ntimem-se.
+EMENTA
