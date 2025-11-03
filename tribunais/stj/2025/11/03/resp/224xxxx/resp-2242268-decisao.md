@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interposto por KEBEC COMÉRCIO DE BEBIDSA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa guarda os seguintes termos (fls. 98-105):
+AGRAVO DE INSTRUMENTO - Embargos à execução com pedido de efeito suspensivo - Insurgência da coembargante contra decisão que indeferiu o pedido de gratuidade judiciária e determinou o recolhimento de metade das custas, no prazo de dez dias, sob pena de extinção - Pessoa jurídica - Possibilidade desde que comprovada a sua impossibilidade de suportar os encargos do processo - Súmula n. 481/STJ - Concessão de prazo para apresentação de documentos hábeis a comprovar a hipossuficiência alegada - Art. 99, §§ 2º e 3º, do CPC - Não cumprimento integral da determinação - Ausência de comprovação idônea da momentânea incapacidade financeira da empresa - Manutenção do indeferimento - Precedentes do STJ e do TJSP - Pedido subsidiário de diferimento do recolhimento das custas ao final do processo - Descabimento - Não preenchimento do requisito subjetivo do art. 5º da Lei Estadual n. 11.608/2003 - Determinação para recolhimento do preparo deste recurso, sob pena de inscrição do débito na Dívida Ativa - Art. 101, § 2º, do CPC - Recurso não provido, com determinação.
+Rejeitados os embargos de declaração opostos, com acolhimento apenas para correção de erro material e sem efeitos modificativos (fls. 153-158).
+No recurso especial (fls. 107-123), a recorrente alega violação dos arts. 99, § 2º, e 1.022, III, do Código de Processo Civil, sustentando: a) necessidade de atribuição de efeitos infringentes aos embargos de declaração, por reconhecida premissa fática equivocada; b) existência de elementos aptos a demonstrar a incapacidade financeira da pessoa jurídica para efeito de justiça gratuita; e c) dissenso jurisprudencial com acórdão do Tribunal de Justiça do Paraná sobre concessão de gratuidade à pessoa jurídica diante de extratos com saldo negativo recorrente.
+Foram oferecidas contrarrazões ao recurso especial (fls. 162-170), e sobreveio juízo de admissibilidade negativo na instância de origem (fls. 171-174), o que ensejou a interposição do presente agravo (fls. 177-187).
+Apresentada contraminuta do agravo (fls. 191-194).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, conheço do agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
