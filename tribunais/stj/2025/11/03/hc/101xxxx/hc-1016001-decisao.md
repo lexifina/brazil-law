@@ -1,0 +1,40 @@
+DECISÃO
+JOAO GABRIEL DE MELLO YAMAWAKI alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Ação Penal n. 1504286-83.2023.8.26.0278.
+Consta dos autos que o paciente foi pre so e é processado pela suposta prática do crime de organização criminosa (art. 2º, caput, e § 2º, da Lei n. 12.850/2013).
+A defesa aduz, em síntese: a) a ausência dos requisitos legais para a manutenção da prisão preventiva e a possibilidade de aplicação de medidas cautelares diversas da prisão; b) excesso de prazo na formação da culpa.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento da ordem.
+Decido.
+I. Contextualização
+O paciente é apontado como integrante de organização criminosa, com atuação voltada para o tráfico de drogas e conexões com o Primeiro Comando da Capital (PCC), conforme narrativa constante da decisão de recebimento da denúncia e dos elementos colhidos na fase investigatória. O restabelecimento de sua prisão preventiva foi determinado pelo Tribunal de Justiça do Estado de São Paulo por meio de decisão proferida na Cautelar Inominada n. 2108091-82.2025.
+II. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O acórdão, ao determinar a prisão, assim se manifestou (fls. 36-38):
+De início, cumpre ressaltar que a análise da pretensão mandamental exige a verificação das peculiaridades do caso concreto, sopesando-se os elementos de prova que instruem o writ.
+No caso em exame, não obstante as alegações defensivas, constata-se que a decisão que decretou a prisão preventiva encontra-se devidamente fundamentada, em conformidade com o disposto no artigo 312, do Código de Processo Penal.
+De fato, o Juízo de origem destacou a gravidade concreta da conduta, descrita na denúncia, consistente na participação em organização criminosa armada voltada ao tráfico de drogas em larga escala, bem como ressaltou a periculosidade do agente e a necessidade da custódia para garantia da ordem pública.
+Não há falar em ausência de contemporaneidade, na medida em que os fatos investigados são recentes e a medida extrema se justifica pelo risco efetivo de reiteração delitiva, circunstância que se evidencia pelos elementos coligidos até o momento.
+Ainda, afasta-se a alegação de constrangimento ilegal por excesso de prazo, pois a ação penal apresenta elevada complexidade, envolvendo pluralidade de acusados, com defesas diversas e sucessivas impetrações de habeas corpus, fatores que naturalmente alongam a marcha processual.
+Ademais, como salientado pelo Tribunal de origem, parte da demora se deveu à própria defesa, que somente apresentou resposta à acusação meses após sua habilitação, circunstância que não pode ser imputada ao Poder Judiciário.
+Nesse contexto, inexistem ilegalidades aptas a ensejar a concessão da ordem, uma vez que a segregação cautelar se ampara em fundamentos concretos, havendo lastro probatório suficiente a justificar a medida, como se observa dos elementos já carreados aos autos.
+É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a aferição do excesso de prazo deve considerar a razoabilidade da duração do processo, segundo as particularidades da causa, não se limitando a critério meramente aritmético.
+Com efeito, não se verifica constrangimento ilegal evidente, porquanto a custódia cautelar encontra respaldo na gravidade concreta da conduta imputada, na periculosidade do agente e nas circunstâncias específicas do processo, havendo nos autos elementos que demonstram a necessidade da segregação cautelar.
+Ressalte-se, por oportuno, que as medidas cautelares diversas da prisão, previstas no artigo 319, do Código de Processo Penal, mostram-se insuficientes e inadequadas para acautelar a ordem pública e assegurar a aplicação da lei penal, diante da gravidade da conduta e da relevância da organização criminosa em questão.
+A jurisprudência desta Corte Superior e do Supremo Tribunal Federal é assente no sentido de que a prisão preventiva pode ser mantida quando devidamente fundamentada em dados concretos, relacionados à gravidade dos fatos e ao risco de reiteração delitiva, não configurando constrangimento ilegal a ausência de prazo determinado para a instrução, desde que o processo esteja em curso e haja justificativa plausível para eventual demora.
+No caso em apreço, a decisão combatida encontra-se amparada em fundamentos idôneos e alinhados com o entendimento consolidado nesta Corte, razão pela qual não há falar em ilegalidade.
+Ante o exposto, denego a ordem.
+Na hipótese, as razões exaradas não decreto prisional constituem motivos suficientes para a imposição da cautela extrema, pois evidenciam a gravidade concreta da conduta em tese perpetrada e o risco de reiteração delitiva, diante da noticiada participação do acusado em organização criminosa dedicada à prática do crime de tráfico de drogas, com estrutura hierárquica definida e divisão de tarefas estabelecida entre seus integrantes, a indicar a necessidade da prisão para a garantia da ordem pública, bem como a insuficiência de medidas cautelares alternativas.
+A respeito do tema, a orientação desta Corte Superior é de que "O suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública" (AgRg no RHC n. 125.233/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/2/2021).
+Na mesma linha de raciocínio, o Supremo Tribunal Federal afirmou que "a necessidade de interromper a atuação de organização criminosa e o risco concreto de reiteração delitiva justificam a decretação da custódia cautelar para a garantia da ordem pública" (AgR no HC n. 138.522/DF, Rel. Ministro Roberto Barroso, 1ª T., DJe 19/6/2017).
+Com base nos elementos descritos, indicativos do risco de reiteração delitiva, nota-se a insuficiência e a inadequação da substituição da custódia provisória por cautelares diversas, porquanto tais medidas não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do CPP). Ilustrativamente:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 12/4/2018, grifei)
+Saliento, ainda, que este Superior Tribunal entende que "a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela" (HC n. 498.771/SP, Relator Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019).
+III. Excesso de prazo na formação da culpa
+O presente writ sustenta a tese de excesso de prazo. Contudo, da leitura do acórdão infere-se que o Tribunal de origem nem sequer analisou a matéria, o que demanda a impossibilidade de conhecimento do writ por supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+IV. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
