@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ALINE GUIMARAES SANTOS, em razão do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que, nos autos da Apelação Criminal n. 5020570-23.2024.8.09.0011, deu provimento à insurgência ministerial para cassar a anterior sentença de absolvição e condenar a ora paciente pela prática do crime de roubo majorado, a cumprir 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e a pagar 16 dias-multa.
+Aponta-se constrangimento ilegal decorrente da falta de intimação pessoal da paciente do teor do acórdão condenatório. Argumenta-se que a intimação foi dirigida exclusivamente ao nobre defensor nomeado (fl. 3). Aduz-se que, no caso em tela, a ilegalidade é flagrante: a ausência de intimação pessoal da ré, assistida por defensor dativo, acerca do acórdão que reformou sua absolvição para condená-la, constitui vício insanável que macula o trânsito em julgado (fl. 4). Alega-se que exigir, em tal cenário, que a mera intimação do defensor dativo seja suficiente para o início do prazo recursal, sem qualquer comunicação pessoal à ré, é aniquilar seu direito de autodefesa e a dimensão personalíssima do direito ao recurso (fls. 4/5).
+Pretende-se, em liminar, a imediata suspensão dos efeitos do acórdão e da respectiva certidão de trânsito em julgado, com a colocação da paciente em liberdade. No mérito, pede a confirmação da liminar para declarar a nulidade absoluta da certidão de trânsito em julgado e de todos os atos processuais subsequentes ao julgamento da apelação criminal; determinando-se a reabertura integral do prazo para a interposição dos recursos cabíveis (Recurso Especial e/ou Extraordinário), a contar da intimação pessoal da Paciente acerca do teor do acórdão condenatório (fl. 7).
+É o relatório.
+O writ, no entanto, é manifestamente inadmissível.
+No caso, a condenação da paciente já é definitiva. Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 825.424/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/2024; e AgRg no HC n. 901.897/GO, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 26/6/2024.
+Ademais, não há flagrante ilegalidade apta a justificar a concessão da ordem de ofício, considerando que, segundo reiterada jurisprudência desta Corte Superior, é desnecessária a intimação pessoal do acusado a respeito do acórdão proferido em apelação, mesmo quando ocorre a reforma de sentença absolutória e quando o réu for assistido pela Defensoria Pública ou defensor dativo (AgRg no HC n. 883.882/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2024, DJe de 14/6/2024).
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSÊNCIA DE CABIMENTO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
