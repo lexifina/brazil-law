@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, embargos de declaração opostos por VALDECI EVANGELISTA DOS SANTOS contra a decisão que denegou a segurança.
+Argumenta o embargante que a decisão embargada incorre em omissão e contradição, aos seguintes argumentos: a) a "automática revalidação de efeitos punitivos, após 17 anos, sem novo ato administrativo, configura-se em violação ao devido processo legal e ao princípio da segurança jurídica, bem como atrai a decadência administrativa prevista no art. 54 da Lei nº 9.784/99" (fl. 4.116); e b) "não teve nova portaria da administração pública para destravar a suspensão da portaria ao longo dos 17 anos! Seus efeitos estavam e ainda estão suspensos posto que repisa-se nenhum novo ato foi praticado após a nulidade do primeiro PAD, não havendo como presumir a retomada automática dos efeitos da penalidade anterior, especialmente após lapso temporal tão longo" (fls. 4.116-4.117).
+Impugnação às fls. 4.126-4.130.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou expressamente os motivos pelos quais considerou-se não consumada a decadência da pretensão punitiva da administração, consignando-se (fls. 4.108-4.109) :
+O impetrante aduz a decadência do direito da administração pública de aplicar a pena prevista na Portaria nº 1390/GM após a sua suspensão por 17 anos. Eis o teor a referida Portaria:
+(..)
+Conforme se observa, os efeitos da Portaria nº 1390/GM ficaram suspensos ante a impossibilidade fática de aplicar a sanção administrativa de demissão ao servidor que já havia sido punido com a mesma reprimenda.
+Assim, uma vez reconhecida a nulidade do PAD que resultou na aplicação da primeira pena de demissão, a suspensão da Portaria nº 1390/GM, prevista em seu art. 2º, deixou de existir, passando o ato administrativo a surtir efeitos automaticamente, não havendo que se falar em prescrição ou decadência da pretensão punitiva, diante da inexistência conduta omissiva do administrador.
+Ressalte-se, por fim, que, nos termos da jurisprudência do STJ, não há ilegalidade na aplicação de duas penas de demissão ao servidor quando tratar-se de infrações distintas, apuradas em processos administrativos diversos. Isso porque, em uma eventual anulação da penalidade aplicada em primeiro lugar, poder-se-á manter o servidor afastado do serviço público em razão da outra penalidade de demissão aplicada, pelo cometimento de outras infrações, com o fim de evitar eventual reintegração do servidor que praticou, habitualmente, infrações administrativas.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida , o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
