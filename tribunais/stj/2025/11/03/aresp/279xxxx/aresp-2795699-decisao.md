@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por EVIDENCE PREVIDÊNCIA S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 1.260 e-STJ):
+APELAÇÃO AÇÃO REVISIONAL AJUIZADA PELA ENTIDADE ABERTA DE PREVIDÊNCIA R. SENTENÇA DE IMPROCEDÊNCIA CONTRATO DE PARTICIPAÇÃO EM FUNDO GARANTIDOR DE BENEFÍCIOS (FGB) ALEGAÇÃO DE FATOS EXTRAORDINÁRIOS E IMPREVISÍVEIS, COMO QUEDA NA TAXA BÁSICA DE JUROS E AUMENTO NA EXPECTATIVA DE VIDA DOS BRASILEIROS AUSÊNCIA DE CONDIÇÕES QUE LASTREIEM A REVISÃO OU A RESOLUÇÃO DO CONTRATO RISCO INERENTE À ATIVIDADE DESENVOLVIDA PELA AUTORA R. SENTENÇA MANTIDA RECURSO IMPROVIDO
+Opostos embargos de declaração, esses foram rejeitados (fls. 1.280/1.282 e-STJ).
+Em suas razões de recurso especial (fls. 1.285/1.311 e-STJ), a parte recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigo 1.022, inc. II, do Código de Processo Civil de 2015, sob a alegação da existência de omissão no acórdão recorrido acerca das matérias suscitadas nos embargos de declaração; e
+(ii) artigos 317, 478 do Código Civil; 68 da LC 109/2001; 4º e 6º do Código de Defesa do Consumidor, arguindo, em suma, a ocorrência de imprevisível desproporção entre as prestações pactuadas, bem como onerosidade excessiva.
+Contrarrazões às fls. 1316/1330, e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 1331/1333 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022 do CPC/15; e b) aplicação do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 1.336/1.350 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 1353/1365, e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. De início, não se verifica ofensa ao art. 1.022, inc. II, do CPC/15, quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Alega a parte recorrente que o acórdão impugnado restou omisso quanto à aplicabilidade do disposto nos artigos 17, 28 e 68 da Lei Complementar n. 109/2001.
+No entanto, o Tribunal de origem apresentou fundamentação suficiente ao deslinde da controvérsia. Confira-se (fls. 1262/1263 e-STJ):
+As razões apresentadas pela apelante não são suficientes para lastrear a tese de ocorrência de imprevisibilidade contratual, uma vez que não podem ser consideradas situações extraordinárias, sobretudo no caso da autora, entidade que oferta ao público serviço de previdência privada de longa duração, serviço este que está, por essência, submetido a inúmeros riscos, como os elencados pela própria recorrente em seu apelo.
+A resolução pela onerosidade exige a ocorrência de evento superveniente e extraordinário impossível de antever, o que não se verifica no caso em tela.
+É o entendimento pacífico deste E. Tribunal de Justiça.(..)
+Como visto, as alegações da parte ora insurgente foram apreciadas pelo Tribunal a quo, ainda que em sentido contrário a sua pretensão recursal.
+Não há que se falar, portanto, em qualquer vício, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado. Afasta-se, portanto, a alegada violação ao artigo 1.022, inc. II, do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca da ocorrência de onerosidade excessiva e desequilíbrio contratual no caso dos autos.
+Conforme se depreende da fundamentação do acórdão recorrido acima transcrita, para afastar as conclusões do acórdão recorrido, acerca da não ocorrência de onerosidade excessiva e desequilíbrio contratual, seria necessário à análise dos elementos fáticos e probatórios dos autos, eminentemente, das cláusulas contratuais, providência vedada pelas súmulas 5 e 7 do STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. DIFERENÇA DE COMPLEMENTAÇÃO DE APOSENTADORIA. OPÇÃO FORMULADA POR BENEFICIÁRIOS. NOVA ALTERAÇÃO LEGAL. ALEGAÇÕES DE OCORRÊNCIA DE DECADÊNCIA. INOVAÇÃO RECURSAL. ONEROSIDADE EXCESSIVA. IMPREVISIBILIDADE DO EVENTO. SÚMULAS 5 E 7 DO STJ. APLICABILIDADE DA TEORIA DA IMPREVISÃO. AGRAVO INTERNO NÃO PROVIDO. 1. Ao longo de todo o processo, as promovidas sustentaram a ocorrência da prescrição do fundo de direito e, somente em sede de agravo interno, inovam com alegação de decadência do direito de ação, tema que nem sequer foi aventado nas razões de recurso especial ou do agravo interposto. 2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, necessitam observar o requisito do prequestionamento na via do recurso especial. Precedentes. 3. Em relação às argumentações acerca da ausência de onerosidade excessiva para um dos contratantes e previsibilidade do evento, o objetivo almejado pelas recorrentes esbarra nas Súmulas 5 e 7 do STJ, pois vinculado primordialmente à análise de disposições contratuais relacionadas à previdência privada dos autores, além de matéria de fato emanada dos autos. 4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 827.043/SC, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 7/12/2017, DJe de 14/12/2017.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PREVIDÊNCIA PRIVADA. AÇÃO REVISIONAL. ONEROSIDADE EXCESSIVA AFASTADA. REVISÃO. INVIABILIDADE. REEXAME DE CLÁUSULAS CONTRATUAIS E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+3. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+4. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+5. Rever a convicção formada pelo tribunal de origem acerca da prescindibilidade de produção da prova oral requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+6. Afastada pelo tribunal de origem, com base na análise do contrato de previdência privada e das provas, a pretensão de revisão do benefício previdenciário, a reanálise da questão pelo STJ é inviável por incidência das Súmulas n. 5 e 7.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.263.243/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. A jurisprudência desta Corte Superior entende não implicar em cerceamento de defesa o indeferimento de dilação probatória, notadamente quando as provas já produzidas são suficientes para a resolução da lide. Precedentes.
+2.1. Rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático e probatório dos autos, providência que encontra óbice na Súmula 7 do STJ.
+3. Para afastar as conclusões do acórdão recorrido acerca da onerosidade excessiva e da previsibilidade do evento, como pretende a insurgente, seria necessária a análise de disposições contratuais relacionadas à previdência privada dos autores, além de matéria de fato emanada dos autos, o que esbarra no disposto nas Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.334.065/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento a o recurso especial
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
