@@ -1,0 +1,70 @@
+DECISÃO
+ROSIVALDO SANTOS DA CRUZ JUNIOR alega sofrer constrangimento ilegal no seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe na Apelação n. 0016234-86.2020.8.25.0001.
+O paciente foi condenado por tentativa de homicídio qualificado. A defesa sustenta a inidoneidade da motivação usada na análise das circunstâncias judiciais.
+Quanto ao vetor culpabilidade, narra que as instâncias ordinárias agravaram a pena ao argumento de que houve a premeditação do crime, mas não consideraram que o réu não participou do planejamento do delito nem demonstraram como a premeditação haveria aumentado a reprovabilidade do crime.
+No que se refere às circunstâncias do crime, afirma que a exasperação incorreu em bis in idem, uma vez que usou o mesmo fundamento da qualificadora do recurso que dificultou a defesa da vítima, a saber, o fato de que o crime foi praticado à luz do dia, em via pública e em bairro residencial.
+Por fim, quanto à conduta social, defende que o incremento da pena-base foi equivocado, tendo em vista que não possui relação com o comportamento do réu no meio social.
+Requer a revisão da dosimetria.
+O Ministério Público Federal opinou pela denegação do habeas corpus (fls. 250-254).
+Decido.
+I. Contextualização
+O acusado foi denunciado por tentativa de homicídio qualificado. Submetido ao Tribunal do Júri, o réu foi condenado nos termos da denúncia. O Juiz de primeiro grau, na dosimetria, assim fixou a pena-base (fls. 67-69, destaquei):
+II. Dosimetria com relação ao réu Rosivaldo Santos da Cruz Júnior
+Analiso as circunstâncias judiciais nos seguintes termos: a culpabilidade merece destaque, haja vista a premeditação do delito por parte do réu, o que atrai especial reprovabilidade, nos termos dos precedentes jurisprudenciais (STJ; AgRg-EDcl-AREsp 2.359.379; Proc. 2023/0162942-8; SC; Quinta Turma; Rel. Min. Ribeiro Dantas; Julg. 24/10/2023; DJE 31/10/2023).
+O réu apresenta uma condenação transitada em julgado (processo 2017.886.00284, com trânsito em julgado em 13/08/2019). Todavia, tal condenação configura reincidência, e será valorada como agravante, na 2ª fase da dosimetria. Por tal razão, os antecedentes não serão negativamente valorados.
+A personalidade do réu não pode ser aferida, pela falta de prova técnica hábil.
+Sobre a conduta social, tenho por certo que deve ser negativamente valorada, pois o réu se encontrava sob cumprimento de penas alternativas (processo SEEU nº 5000011-45.2019.8.25.0053), tendo cometido o delito durante a fruição de um benefício penal, consoante precedentes jurisprudenciais (AGRG no HC 346.799/SC, Sexta Turma, Rel. Ministro Antônio Saldanha Palheiro, DJe de 21/3/2017).
+A motivação não merece ser valorada, eis que configura circunstância qualificadora atribuída ao tipo e devidamente analisada pelo Conselho de Sentença; as circunstâncias do crime de igual forma, também configuram qualificadora atribuída ao tipo, devidamente apreciada pelo Conselho de Sentença.
+A par disso, entendo que as circunstâncias do crime devem ser negativamente valoradas nesta 1ª fase, pois o crime foi cometido à luz do dia, em via pública, num bairro residencial, em horário em que as pessoas usualmente saem de suas residências para trabalhar, o que demonstra uma maior audácia na execução do crime, e denota um maior desvalor da conduta, consoante precedentes jurisprudenciais (STJ; AgRg-AREsp 1.608.242; Proc. 2019/0318817-8; MG; Quinta Turma; Rel. Min. Joel Ilan Paciornik; Julg. 05/05/2020; DJE 18/05/2020).
+As consequências do crime devem ser negativamente valoradas, haja vista a gravidade nas lesões causadas na vítima, levando-se em conta que o relatório médico de fls. 226 apontou um ferimento de perfuração no crânio, em região frontal posterior, com hemorragia em parênquima cerebral, tendo chegado em nível 7 na Escala de Glasgow (trauma grave), tendo, ainda, permanecido internado por mais de 30 (trinta) dias, somente recebendo alta hospitalar após um período de 36 dias (cf. fls. 226 e 310), e sofrido debilidade permanente com perda de capacidade de locomoção, e incapacidade permanente para o trabalho, consoante comprovado pela prova testemunhal.
+O comportamento da vítima segundo o entendimento da jurisprudência do STJ, tal circunstância só pode ser mensurada para favorecer o réu ou permanecer neutra, porém nunca para prejudicá-lo, razão pela qual passo a adotar tal diapasão, por ser jurisprudência dominante e favorável ao acusado, e nada se tem a sopesar (AgRg no REsp 1637773/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/03/2017, DJe 15/03/2017) (AgRg no AREsp 473.972/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/02/2017, DJe 03/03/2017).
+Assim, analisadas as circunstâncias judiciais previstas no art. 59, do Código Penal, sendo 04 (quatro) delas desfavoráveis ao réu (culpabilidade, conduta social, circunstâncias e consequências do crime), fixo-lhe a pena-base em 21 (vinte e um) anos de reclusão.
+Irresignada, a defesa interpôs apelação em que requereu a reforma da dosimetria, com a reavaliação dos vetores da culpabilidade, das circunstâncias do crime e da conduta social do agente. O Tribunal de origem negou provimento ao recurso, nos seguintes termos (fls. 24-28; 44-46, grifei):
+No caso em hipótese, o vetor da culpabilidade foi sopesado de maneira prejudicial, tendo em vista a premeditação do delito por parte dos réus.
+Nesse sentido, vaticina o STJ:
+ ..
+As circunstâncias do crime foram também negativadas, porque o homicídio se consumou "à luz do dia, em via pública, num bairro residencial, em horário em que as pessoas usualmente saem de suas residências para trabalhar, o que demonstra uma maior audácia na execução do crime, e denota um maior desvalor da conduta".
+Essa negativação é proporcional e justa, nos termos do que tem decidido o STJ:
+ ..
+Quanto à valoração negativa pertinente à conduta social, levou-se em conta o fato do réu se encontrar "sob cumprimento de penas alternativas (processo SEEU nº 5000011- 45.2019.8.25.0053), tendo cometido o delito durante a fruição de um benefício penal".
+A negativação desse vetor está em consonância ao entendimento do STJ:
+ ..
+Portanto, mantenho a negativação das 04 (quatro) circunstâncias judiciais em relação ao réu.
+II. Revisão da dosimetria
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade, os antecedentes, a conduta social, a personalidade do agente, os motivos, as circunstâncias e as consequências do crime e o comportamento da vítima.
+No caso, o paciente foi condenado pela tentativa de homicídio qualificado. A defesa contesta a fixação da reprimenda na primeira etapa da dosimetria, especificamente quanto ao aumento baseado na culpabilidade, nas circunstâncias do crime e na conduta social do réu.
+Inicialmente, quanto à alegada inidoneidade do fundamento para majorar o vetor das circunstâncias do crime, o pedido não pode ser conhecido. A defesa sustenta violação do princípio non bis in idem, sob o argumento de que a motivação para o incremento é idêntica àquela que justificou o reconhecimento da qualificadora do recurso que dificultou a defesa da vítima pelos jurados.
+Contudo, não é possível extrair dos autos se a fundamentação é ou não idêntica, pois a ata da sessão de julgamento não foi apresentada, o que inviabiliza a verificação dos motivos que levaram o Conselho de Sentença a reconhecer a referida qualificadora.
+Quanto à culpabilidade, o Magistrado sentenciante fundamentou o agravamento com base na premeditação do delito por parte do réu, o que "atrai especial reprovabilidade, nos termos dos precedentes jurisprudenciais" (fl. 66). O Tribunal de origem manteve esse entendimento por considerá-lo alinhado à posição do Superior Tribunal de Justiça.
+A defesa contesta tal fundamento por dois motivos: a) "o paciente atuou no presente fato como executor do crime, de modo que a ele não coube qualquer ato de planejamento, tendo todo o fato delituoso sido orquestrado pelos demais agentes condenados" (fl. 5); b) as instâncias ordinárias não poderiam considerar a "premeditação ensejadora de maior grau de reprovabilidade da conduta" (fl. 6), uma vez que a circunstância não constitui agravante prevista no Código Penal.
+A argumentação defensiva não merece acolhida.
+A culpabilidade, como circunstância judicial aferida na primeira fase da dosimetria, consiste na intensidade de reprovação da conduta pelos elementos concretos do caso. Trata-se da censurabilidade da ação do agente relativa ao fato criminoso em exame. A premeditação, por revelar maior grau de planejamento e deliberação, intensifica essa censurabilidade.
+O entendimento adotado pelas instâncias ordinárias está em conformidade com a jurisprudência firmada em âmbito de repetitivos por esta Corte Superior (Tema n. 1.318), segundo a qual "a premeditação autoriza a valoração negativa da circunstância da culpabilidade prevista no art. 59 do Código Penal, desde que não constitua elementar ou seja ínsita ao tipo penal nem seja pressuposto para a incidência de circunstância agravante ou qualificadora" (REsp n. 2.174.028/AL, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), 3ª S., DJe 13/5/2025, destaquei).
+Assim, o fundamento usado para justificar o incremento da culpabilidade tem respaldo jurisprudencial.
+A defesa ainda postula que a culpabilidade seja neutralizada, pois a premeditação não haveria demonstrado maior reprovabilidade no caso e o paciente não seria responsável pelo planejamento, mas apenas pela execução do delito.
+Tal pretensão, todavia, não pode prosperar. Pela leitura do acórdão impugnado, nota-se que a discussão não foi realizada pelo Tribunal local. Além disso, a análise dos argumentos exige o reexame aprofundado dos elementos fáticos, providência incompatível com o habeas corpus.
+No que tange à conduta social do agente, o Juiz de primeiro grau valorou negativamente o vetor porque o réu haveria "cometido o delito durante a fruição de um benefício penal" (fl. 68), a saber, o cumprimento de penas alternativas determinadas em processo diverso. A Corte local manteve a majoração por considerar que a posição estaria em consonância com o entendimento jurisprudencial.
+A defesa, por sua vez, argumenta que o vetor da conduta social se presta a analisar o comportamento do agente no meio em que vive. Sustenta que não se pode considerar "condutas que configurem crimes ou falta grave, como no caso em apreço" como justificativa idônea à negativação da referida vetorial, "visto que a própria legislação já impõe consequência de natureza criminal ou administrativa ao agente" (fl. 8). Não lhe assiste razão.
+A jurisprudência desta Corte Superior é firme ao asseverar que a prática de crime por alguém que esteja em cumprimento de pena por outro delito justifica a exasperação da reprimenda. Nesse sentido:
+ ..
+5. A decisão recorrida encontra-se em consonância com precedentes desta Corte, que reconhecem como idônea a fundamentação da valoração negativa da conduta social com base na prática de infração durante o cumprimento de pena, conforme decidido em AgRg no HC 556.444/DF, Rel. Min. Sebastião Reis Júnior, DJe 24/8/2020.
+6. A jurisprudência consolidada do STJ também estabelece que a prática de novo crime durante a progressão de regime ou usufruto de benefícios penais justifica a negativação da conduta social, conforme o decidido em AgRg no AREsp n. 2.276.637/PR, Rel. Min. Ribeiro Dantas, DJe 28/4/2023.
+ ..
+(AREsp n. 2.633.799/MG, Rel. Ministra Daniela Teixeira, 5ª T., DJe de 6/12/2024, grifei.)
+ ..
+1. A valoração negativa da conduta social do agente se encontra adequada, pois fundamentada em elemento concreto, qual seja, o delito foi cometido enquanto o réu usufruía do benefício da progressão de regime, encontrando-se em cumprimento de pena por delito anterior. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC n. 556.444/DF, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 24/8/2020.)
+ ..
+6. A prática do delito enquanto foragido e "em pleno cumprimento de pena privativa de liberdade por outro crime" denota maior desvalor da conduta do agravante e configura motivação válida para exasperar a pena-base.
+ ..
+(AgRg no HC n. 752.992/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/4/2023, destaquei.)
+Saliento, por oportuno, que tal fundamentação não se confunde com o que foi decidido no Tema Repetitivo n. 1.077: "Condenações criminais transitadas em julgado, não consideradas para caracterizar a reincidência, somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes crim inais, não se admitindo sua utilização para desabonar a personalidade ou a conduta social do agente".
+O precedente qualificado impede que condenações criminais sejam usadas para valorar negativamente a personalidade ou a conduta social do réu. Na situação ora em exame, diferentemente, a reprimenda foi exasperada porque o acusado cumpria pena alternativa no momento da prática delitiva, o que configura circunstância concreta e contemporânea ao crime, e não mero uso de condenação pretérita.
+Assim, verifico que a decisão do Tribunal de origem está em conformidade com o entendimento desta Corte Superior.
+III. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
