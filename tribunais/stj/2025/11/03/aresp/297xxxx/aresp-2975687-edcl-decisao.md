@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 458-462, por meio da qual conheci do agravo para não conhecer do recurso especial que buscava a reforma de acórdão assim ementado:
+COMPROMISSO DE COMPRA E VENDA. Ação de indenização por danos materiais e morais. Atraso na entrega da obra.
+Preliminar de incompetência do juízo afastada. Relação de consumo. Cláusula de eleição de foro, ademais, que sequer foi violada, considerando que a ação foi ajuizada na Comarca de São Paulo. Escolha do foro regional que é atrelada às regras de organização judiciária.
+Denunciação da lide. Descabimento. Consumidor que optou por ajuizar a ação somente contra um dos integrantes da cadeia de fornecimento, a quem atribui culpa pelo atraso da obra. Inteligência do art. 88 do CDC.
+Cerceamento de defesa não configurado.
+Inocorrência de caso fortuito ou força maior. Situações alegadas pela ré que configuram fortuito interno (Súmula 161 deste Tribunal).
+Prazo para entrega da unidade imobiliária previsto no contrato de compromisso de compra e venda que deve ser observado, independentemente do que constou no contrato de financiamento, cuja cláusula referente ao prazo não foi redigida de forma clara e não é expressa no sentido de que o prazo inicialmente prometido teria sido alterado. Incidência do entendimento firmado pelo STJ no julgamento do tema repetitivo 996.
+Juros de obra cobrados do comprador após o prazo de entrega da unidade estabelecido no contrato. Repasse de referidos encargos ao consumidor depois do prazo previsto no contrato para conclusão das obras que é indevido. Entendimento consolidado nesta Corte (IRDR nº 0023203-35.2016.8.26.0000) e no STJ (Tema 996).
+Multa contratual prevista em favor do adquirente para a hipótese de atraso na entrega da unidade que é devida.
+Recurso desprovido.
+A embargante alega que a decisão de fls. 458-462 seria omissa e contraditória, pois ela teria demonstrado "nos autos  inclusive nas razões do recurso especial  que houve interrupção de fornecimento de materiais, suspensão de atividades e restrições logísticas impostas por atos administrativos no período crítico da pandemia, o que impactou diretamente o cronograma da obra".
+Impugnação aos embargos de declaração não apresentada (fl. 472).
+Assim delimitada a controvérsia, passo a decidir.
+Os embargos de declaração constituem instrumento processual excepcional e, a teor do artigo 1.022 do Código de Processo Civil, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador.
+Não se prestam, portanto, à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+No caso em exame, verifica-se que o Tribunal se pronunciou expressamente sobre o fato de que a pandemia da Covid-19 não caracterizou, na espécie, caso fortuito ou força maior apto a afastar a responsabilidade da parte agravante pelo atraso na entrega:
+E, de início, as alegações da ré de que o atraso na conclusão das obras decorreu de consequências decorrentes da pandemia de Covid-19, e não de culpa sua, não podem ser acolhidas.
+Isso porque tais circunstâncias não configuram caso fortuito ou força maior, ao contrário, constituem fortuito interno, pois estão inseridas no risco da atividade desenvolvida pela ré.
+Nesse sentido, esta Corte consolidou o entendimento de que: Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram "res inter alios acta" em relação ao compromissário adquirente (Súmula 161 deste Tribunal de Justiça).
+Como visto, o Tribunal destacou que a pandemia de Covid-19 não configura caso fortuito ou força maior, mas sim fortuito interno, inserido no risco da atividade desenvolvida pela parte agravante.
+Na hipótese dos autos, as alegações da parte se caracterizam, na verdade, como elementos associados aos riscos da atividade econômica por ela exercida. Na linha da jurisprudência desta Corte, é o chamado "fortuito interno entendido como o fato imprevisível e inevitável ocorrido no momento da prestação do serviço ou da fabricação do produto, não exclui a responsabilidade do fornecedor, pois relaciona-se com a atividade e os riscos inerentes ao empreendimento" (AgInt no AREsp 1703033/ DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/05/2021, DJe 28/05/2021).
+Nesse sentido, esta Corte tem adotado a orientação de que a pandemia da Covid-19 não autoriza a aplicação irrestrita do art. 393 do CPC, sendo necessária a comprovação de que os seus efeitos inviabilizaram o cumprimento do contrato. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. SUSPENSÃO. REVISÃO CONTRATUAL. CONTEXTO DA PANDEMIA COVID-19. FORÇA MAIOR AFASTADA. PREJUÍZOS NÃO DEMONSTRADOS. REVISÃO. NÃO CABIMENTO. SÚMULAS 5 E 7/STJ. AGRAVO IMPROVIDO.
+1. Verifica-se que a matéria jurídica objeto de recurso especial trata de ação postulando a revisão do contrato de fornecimento de energia elétrica, celebrado com a agravada, com vistas à suspensão da cobrança por demanda contratada, para faturamento com base na energia efetivamente consumida, durante o período da pandemia de COVID-19.
+2. A pandemia de Covid-19, embora constitua evento imprevisível e extraordinário, não autoriza, por si só, a aplicação irrestrita do artigo 393 do Código Civil. É necessária a comprovação de que os efeitos da pandemia inviabilizaram o cumprimento da obrigação contratual.
+3. O Tribunal de origem concluiu que não foram demonstrados prejuízos suficientes para justificar a revisão contratual pretendida, afastando a aplicação de força maior.
+4. A modificação do julgado, nos moldes pretendidos, demandaria reexame do acervo probatório e nova interpretação das cláusulas contratuais, o que é vedado pelas Súmulas 5 e 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.827.876/RS, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE ALUGUEL. EQUILÍBRIO ECONÔMICO CONTRATUAL. CRISE EM DECORRÊNCIA DA PANDEMIA DA COVID. MOTIVO INSUFICIENTE. NECESSIDADE DE CONSTATAÇÃO DE DESEQUILÍBRIO CONTRATUAL ESPECÍFICO. OMISSÃO CONFIGURADA. VIOLAÇÃO AO ART. 1.022 DO CPC. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Nos termos da jurisprudência desta Corte Superior, a despeito da gravidade da pandemia decorrente da Covid-19, a revisão de contratos pelo Poder Judiciário não constitui decorrência lógica ou automática desse evento, devendo ser analisada a partir da natureza do contrato e da conduta das partes, a contar do exame de cada caso específico.
+2. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.449.891/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/4/2025, DJEN de 24/4/2025.)
+Na hipótese dos autos, verifica-se que as alegações da parte agravante, no sentido de que a pandemia inviabilizou o cumprimento do contrato, não foram efetivamente demonstradas, como se depreende da leitura do acórdão recorrido.
+Nesse sentido, o Juízo de primeira instância destacou que a "pandemia de COVID 19 e as medidas restritivas impostas pela autoridade sanitária para combate ao vírus, por sua vez, embora constituam, em tese, evento passível de caracterizar força maior, também são insuficientes para descaracterizar a mora da ré, vez a construção civil não foi objeto de restrição no âmbito do Município e do Estado de São Paulo (Decreto n. 64.881/2020)" (fl. 280).
+Além disso, a sentença também indicou expressamente a ausência de comprovação dos efeitos da pandemia com relação ao cumprimento do contrato que é objeto da ação de origem, destacando que "a alegação foi articulada de forma genérica, sem detalhamento e indicação das efetivas consequências na pandemia na aquisição de materiais para a obra em questão" (fls. 280/281).
+Assim, verifica-se que as conclusões da decisão embargada foram calcadas nas premissas expressamente delineadas pelas instâncias ordinárias, não havendo que se falar em omissão ou contradição.
+De todo modo, a pretensão da parte, com a oposição dos embargos, parece ser a de que esse STJ examine fatos e provas, providência vedada pela Súmula 7 do STJ, como destacou também a decisão embargada.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
