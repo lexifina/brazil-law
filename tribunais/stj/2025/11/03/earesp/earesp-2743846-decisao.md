@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra acórdão da TERCEIRA TURMA, Relatora Ministra DANIELA TEIXEIRA, assim ementado (fl. 807):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREENCHIMENTO DA GUIA DE RECOLHIMENTO DO PREPARO. NÚMERO DO PROCESSO DE ORIGEM INCORRETO. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão de irregularidade no preenchimento da guia de recolhimento do preparo.
+2. A parte agravante foi intimada para corrigir o número do processo na guia de recolhimento das custas, mas permaneceu inerte.
+3. A questão em discussão consiste em saber se a indicação errônea do número do processo na guia de recolhimento do preparo do recurso especial, não corrigida após intimação, caracteriza a deserção do recurso.
+4. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção.
+5. A parte recorrente foi intimada para sanar o vício no preparo, mas não o fez, o que impede o conhecimento do recurso especial.
+6. Agravo interno desprovido.
+A parte embargante defendeu que o acórdão recorrido contrariou os seguintes julgados:
+(a) EAREsp n. 483.201/DF, CORTE ESPECIAL, Relator Ministro RAUL ARAÚJO, julgado em 30/03/2022; e
+(b) AgInt no AREsp n. 2.635.267/MT, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 26/11/2024. Afirmou que "o preparo foi realizado tempestivamente, os valores foram pagos de maneira correta em favor da Secretaria do STJ, contudo houve um equívoco no preenchimento no número do processo. Assim, no presente caso, resta evidente um rigor excessivo, logo, de forma excepcional pode ser abrandável o rigor formal, pois não impossibilitou o ingresso dos valores aos cofres públicos. Nessa ceara é injusto o recolhimento em dobro das custas recursais e se torna injusto também a intimação do ato ordinatório praticado pela secretaria da 4ª Turma. Portanto, deve ser afastada a deserção aplicada.  ..  Assim, as embargantes utilizaram de decisões paradigmas para demonstrar que tanto o acórdão vergastado como a decisão monocrática proferida pelo Exmo. Presidente deste e. STJ, que consideraram o recurso deserto, divergem da jurisprudência vigente deste Colendo Tribunal Superior" (fls. 830-833).
+Pediu a reforma do acórdão embargado (fl. 834).
+A CORTE ESPECIAL indeferiu liminarmente os embargos de divergência em relação ao paradigma da EAREsp n. 483.201/DF, Relator Ministro RAUL ARAÚJO, julgado em 30/03/2022, consoante decisão desta relatoria, e determinou a remessa dos autos à SEGUNDA SEÇÃO (fls. 884-886).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o acórdão embargado, da TERCEIRA TURMA, e o AgInt no AREsp n. 2.635.267/MT, QUARTA TURMA, Relator Ministro RAUL ARAÚJO, julgado em 26/11/2024.
+Como manifestei no âmbito da CORTE ESPECIAL, o acórdão recorrido tratou de controvérsia envolvendo deserção do recurso especial, em razão de irregularidade no preenchimento da guia de preparo, representada na indicação errônea do número do processo na origem. Apesar de intimada a parte para sanar o referido erro, conforme previsto no CPC/2015, deixou transcorrer o prazo sem regularizar o procedimento (fl. 810). Por outro lado, o paradigma da QUARTA TURMA, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial) versou igualmente acerca da deserção recursal, diante do erro no preenchimento das guias de preparo (fl. 839). Porém, em tal caso a parte não foi intimada para sanar a irregularidade e afastou a deserção.
+Portanto, diante da peculiaridade do acórdão embargado, que intimou a parte para sanar o erro na indicação do número do processo originário, e da inércia da parte em sanar a irregularidade apesar de intimada, fato processual não verificado no acórdão paradigma, não há similitude fático-jurídica entre os arestos confrontad os, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se e intimem-se.
+EMENTA
