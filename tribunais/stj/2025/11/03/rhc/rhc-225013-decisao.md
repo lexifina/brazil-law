@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WALDESON BARBOSA CAETANO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERIAS em razão de acórdão proferido no julgamento do Habeas Corpus Criminal n. 1.0000.25.272971-0/000.
+Consta dos autos que o recorrente foi condenado em primeiro grau à pena de 4 (quatro) anos e 8 (oito) meses pela prática do crime do artigo 1º, § 3º e §4º, inciso III, da Lei n. 9.455/97, em regime inicial semiaberto, atualmente cumprindo pena no Presídio da Comarca de Paracatu/MG.
+Após o início do cumprimento da pena a Defesa do apenado impetrou o writ originário alegando que estava submetido a constrangimento ilegal em virtude de o presídio da comarca de Paracatu/MG não possuir local adequado para o comprimento da pena dos sentenciados ao regime semiaberto.
+A Corte Estadual não conheceu o habeas corpus em acórdão assim ementado (e-STJ fl. 417):
+Ementa: DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. AUSÊNCIA DE ESTABELECIMENTO ADEQUADO. PEDIDO DE REGIME ABERTO OU PRISÃO DOMICILIAR. INADEQUAÇÃO DA VIA ELEITA. WRIT NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas Corpus em favor de condenado a 04 anos e 08 meses em regime semiaberto, alegando constrangimento ilegal pela expedição de mandado de prisão antes da audiência admonitória e pela execução em regime fechado por inexistência de vaga no semiaberto.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se o Habeas Corpus pode ser utilizado para substituir recurso próprio e pleitear regime aberto ou prisão domiciliar diante da falta de estabelecimento adequado.
+III. RAZÕES DE DECIDIR
+3. O Habeas Corpus não é meio próprio para discutir regime prisional, cabendo agravo em execução.
+4. A jurisprudência do STF e do STJ veda seu uso como substitutivo recursal, salvo em caso de flagrante ilegalidade, não configurada na hipótese.
+IV. DISPOSITIVO E TESE
+5. Habeas Corpus não conhecido.
+Tese de julgamento: 1. O Habeas Corpus não substitui o agravo em execução para discutir regime prisional. 2. A concessão de ordem de ofício só é possível em flagrante ilegalidade, inexistente no caso.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPP, arts. 647 a 667; LEP, art. 197.
+Jurisprudência relevante citada: STF, HC 109956/PR, Rel. Min. Marco Aurélio, j. 07.08.2012; STJ, AgRg no HC 935428/SC, Rel. Min. Reynaldo Soares da Fonseca, j. 23.09.2024; TJMG, HC 1.0000.25.071232-0/000, Rel. Des. Milton Lívio Salles, j. 07.04.2025.
+No presente recurso, a Defesa sustenta, em síntese, que o cumprimento da pena deve observar exatamente o regime fixado na sentença, sob pena de violação ao princípio da legalidade penal e da coisa julgada. A execução da pena em regime mais gravoso, ainda que por razões administrativas ou estruturais do Estado, não encontra respaldo legal (e-STJ fl. 430).
+Acrescenta que a lógica do sistema penal exige que a pena privativa de liberdade seja cumprida em regime compatível com a determinação judicial. Em não havendo estrutura adequada, cabe ao Estado viabilizar alternativas lícitas ou o cumprimento da pena em regime menos gravoso, jamais o mais gravoso (e-STJ fl. 431).
+Requer, assim: a) O conhecimento e o provimento do presente Recurso Ordinário Constitucional para reformar a decisão do Tribunal de Justiça de Minas Gerais que deixou de conhecer do habeas corpus; b) Que, superada a preliminar de inadmissibilidade, seja concedida a ordem de habeas corpus em favor do paciente, determinando: c) O imediato cumprimento da pena em regime semiaberto, conforme fixado na sentença condenatória; d) Subsidiariamente, a conversão da pena para prisão domiciliar ou regime aberto, até que haja vaga em estabelecimento adequado, a fim de se evitar o agravamento ilegal da pena (e-STJ fls. 432/433).
+O Ministério Público Federal manifestou-se pelo conhecimento e não provimento do recurso, em parecer assim resumido (e-STJ fl. 442):
+Recurso Ordinário em Habeas Corpus. Execução Penal. Regime Semiaberto. Cumprimento de pena em regime mais gravoso. Suposta violação à resolução nº 474/2022 do CNJ. Inadequação da via eleita. Questões próprias da via eleita e do Agravo em execução. Inexistência de flagrante ilegalidade a ser sanada de ofício. Parecer pelo conhecimento e desprovimento do Recurso.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Busca-se no presente recurso a redução da pena pela aplicação da causa de diminuição da pena da Lei de Drogas.
+A Corte Estadual não conheceu do writ lá deduzido nos seguintes termos (e-STJ fls. 420/422):
+(..)
+DA PRELIMINAR DE NÃO CONHECIMENTO
+O "Habeas Corpus" encontra previsão no artigo 5º, inciso LXVIII, da Constituição Federal de 1988, e é regulamentado pelos artigos 647 a 667 do Código de Processo Penal, com a finalidade de garantir o direito de liberdade à pessoa.
+No caso, o impetrante busca, por meio do presente "writ", a concessão de benefício no curso da execução, consistente na fixação do regime aberto, em razão da inexistência de estabelecimento prisional compatível com o regime semiaberto fixado na sentença condenatória.
+Contudo, é sabido que o "Habeas Corpus" não é o meio adequado para pleitear benefícios relativos à execução penal, pois é necessária análise de prova, incabível em via de cognição sumária, desafiando recurso próprio, qual seja, o Agravo em Execução, previsto no artigo 197 da Lei de Execução Penal.
+Neste sentido, é o entendimento dos Tribunais Superiores:
+(..)
+Trata-se da necessidade de racionalizar o manejo da ação direta do "Habeas Corpus" tão somente ao fim a que se destina, para garantir a lógica do sistema recursal vigente, e, sobretudo, a observância da missão constitucional do remédio.
+Neste sentido, não é cabível a utilização do "Habeas Corpus", em substituição de recurso próprio, que só pode ser analisado, excepcionalmente, se constatada, a toda evidência manifesta ilegalidade que implique em coação à liberdade de locomoção do paciente, o que não se verifica no caso.
+Extrai-se do processo de origem que a autoridade apontada como coatora determinou a expedição da guia de recolhimento definitiva, a ser encaminhada ao Juízo da Vara de Execuções Criminais.
+Assim, conforme ressaltado pela Procuradoria-Geral de Justiça, as matérias relativas ao manejo prisional, como no caso a fixação do regime aberto diante da ausência de estabelecimento compatível com o regime fixado na sentença condenatória, competem ao Poder Executivo.
+Nesse quadro, verifica-se que o paciente se encontra em regular cumprimento de pena, inexistindo qualquer ilegalidade apta a ser impugnada, excepcionalmente, por meio de "Habeas Corpus".
+Diante do exposto, por se tratar de medida inadequada para a apreciação da questão, e não havendo constrangimento ilegal a ser sanado, NÃO SE CONHECE DO HABEAS CORPUS.
+Como visto, em relação à alegação de inexistência de estabelecimento compatível com o regime semaberto, constata-se que o tema não foi analisado pelo Tribunal de origem, que se limitou unicamente à inadequação da via eleita e à inexistência de flagrante constrangimento ilegal, circunstância que impede a manifestação deste Tribunal Superior sobre eles, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. DOSIMETRIA. FUNDAMENTAÇÃO. AUSÊNCIA DE INTERESSE EM AFASTAR O CÚMULO MATERIAL DAS PENAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPUGNAÇÃO GENÉRICA AO ACÓRDÃO PROFERIDO NO JULGAMENTO DA APELAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. PLEITO MINISTERIAL DE REVISÃO DA PENA-BASE. MATÉRIA NÃO ARGUIDA EM SEDE DE APELAÇÃO. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÃNCIA. AGRAVO NÃO CONHECIDO.
+1.A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e por não ter sido demonstrado o interesse de agir no que tange o cúmulo material das penas impostas.
+Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula 182, desta Corte Superior.
+2. Na inicial do habeas corpus o impetrante afirmou a falta de fundamentação do acórdão impugnado, apontando como violado o art. 315 do Código de Processo Penal - CPP, e juntou imagem do acórdão impugnado no qual destacava a aplicação do cúmulo material benéfico.
+Nenhuma outra tese foi apresentada pela defesa, inclusive acerca da fixação da pena-base. Desse modo, inviável o conhecimento de impetração com pedido genérico de nulidade por violação ao princípio da dialeticidade.
+3. "A informalidade do remédio constitucional não serve para banalizar o importante instrumento de garantia da liberdade. A parte não pode pedir a reforma de julgados sem explicitar o seu erro (princípio da dialeticidade) e saber pedir é tão importante quanto ser atendido, pois o julgador está atrelado ao pleito formulado" (AgRg no HC n. 766.325/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+4. Inviável o conhecimento do pedido ministerial de redução da pena-base uma vez que a fração de aumento eleita em primeira instância não foi analisada pelo Tribunal de Justiça, o que afasta a competência desta Corte Superior para conhecer originariamente da matéria, sob pena de incorrer em indevida supressão de instância
+5. Agravo regimental não conhecido.
+(AgRg no HC n. 911.983/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO DO DELITO ASSOCIATIVO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. DOSIMETRIA. PENA-BASE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A verificação do acerto ou desacerto do entendimento fixado pelas instâncias ordinárias, para fins de absolvição ou desclassificação do delito imputado, ultrapassa em princípio os limites cognitivos do habeas corpus, notadamente quando se trata de condenação passada em julgado, como na espécie.
+2. No caso, a Corte local destacou a existência de relacionamento entre os réus visando a aquisição, transporte e venda em conjunto de expressiva quantidade de entorpecentes, fazendo menção inclusive à interceptação telefônica realizada que comprovou a existência de vínculo estável e permanente entre os acusados. Para rever tal conclusão, pois, seria imprescindível o reexame do caderno processual, providência incompatível com os limites de cognição da via eleita.
+3. O Tribunal de origem não apreciou a controvérsia relativa à exasperação da pena-base, até mesmo porque tal irresignação não constou das razões do recurso de apelação. Diante de tal cenário, fica obstada a análise do tema por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 862.287/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE INCIDÊNCIA DA CONTINUIDADE DELITIVA. NÃO CABIMENTO. DESÍGNIOS AUTÔNOMOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Considerando que o Tribunal de origem não se pronunciou sobre a irresignação do aumento da pena-base, visto que não foi sequer arguido na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+3. Sobre a continuidade delitiva, a jurisprudência desta Corte Superior de Justiça firmou o entendimento da necessidade de ações praticadas em semelhantes condições de tempo, lugar e modo de execução (requisitos objetivos), além de um liame a indicar a unidade de desígnios (requisito subjetivo).
+4. No caso, a alegação de que houve continuidade delitiva não se sustenta, diante do que foi esclarecido pela Corte de origem, oportunidade em que evidenciou a pluralidade de desígnios, não preenchendo, assim, o requisito subjetivo, pois o homicídio de E.A.
+O., como declarado pelos jurados, foi cometido para assegurar a impunidade dos primeiros homicídios, e, portanto, com desígnio autônomo. A propósito, não há unidade de desígnios e sim autonomia de propósitos quando, num dos homicídios, a desavença pessoal compõe o intento do agente, e noutro, avulta o desejo de assegurar a execução e a impunidade com relação ao primeiro crime, ainda que perpetrados simultaneamente.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 862.438/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Entendo também não ser o caso de concessão da ordem de ofício, pois o acórdão atacado já se manifestou no sentido de, na sua ótica, inexistir flagrante constrangimento ilegal que autorizasse a concessão da ordem de ofício. Destacou a Corte Estadual expressamente que "o paciente se encontra em regular cumprimento de pena, inexistindo qualquer ilegalidade apta a ser impugnada, excepcionalmente, por meio de "Habeas Corpus" (e-STJ fl. 422).
+Desse modo, não há lógica em determinar que o Tribunal de origem manifeste-se sobre ponto que ele já se pronunciou no acórdão atacado.
+Assim, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício .
+A nte o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
