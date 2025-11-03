@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto MONICA PINHEIRO ROCHA DE MOURA contra decisão proferida no recurso especial, em que se discute os efeitos da propositura de execução coletiva no transcurso da prescrição para o cumprimento individual da sentença coletiva.
+A parte agravante alega que, "em situações em que a execução coletiva ainda está em curso, como no presente caso, em forma de execuções fracionadas em grupo, que ainda estavam sendo promovidas pela Federação, não há o transcurso do prazo prescricional, por não se poder imputar inércia aos substituídos" (fl. 706).
+Sem impugnação (fl. 718).
+É o relatório. Decido.
+Exerço o juízo de retratação facultado pelo art. 259 do Regimento Interno desta Corte, e torno sem efeito a decisão de fls. 689-696.
+A questão alusiva à "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas" foi submetida ao rito do julgamento dos recursos repetitivos, nos termos do art. 1.036 do CPC/2015, nos autos dos REsp"s n. 1.801.615/SP e n. 1.774.204/RS (Tema n. 1.033/STJ), havendo sido determinada a suspensão do processamento de todos os processos que cuidem de idêntica controvérsia.
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e 1.040 do CPC/2015. Nesse sentido: EDcl no AgInt no AREsp n. 1.445.132/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; EDcl no AgInt no REsp n. 1.478.016/SP, relator Ministro Benedito Gonçalves, Primeira Turma, de DJe 6/4/2018.
+Ante o exposto, torno sem efeito a decisão de fls. 689-696 e, prejudicada a análise do recurso, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.
