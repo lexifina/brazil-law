@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ABASTECEDORA DE COMBUSTIVEIS DA ESTRADA DO RITTER LTDA. contra decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região que inadmitiu recurso especial dirigido contra acórdão prolatado na Apelação n. 5000927-33.2022.4.03.6128.
+Consta dos autos que o Juízo de primeiro grau julgou parcialmente procedente o pedido, para conceder em parte a segurança, para reconhecer o direito da impetrante de excluir da base de cálculo do PIS e da COFINS os valores relativos ao ICMS destacado na nota fiscal e de proceder à compensação dos valores recolhidos indevidamente a título da exação acima referida, atualizados monetariamente, observada a prescrição quinquenal (fls. 656-661).
+Da referida decisão, a agravante interpôs apelação, tendo o Tribunal de origem dado provimento ao respectivo recurso, em acórdão assim ementado (fls. 787-792):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO ICMS E DO ICMS-ST DA BASE DE CÁLCULO DE PIS E COFINS.
+1. O Supremo Tribunal Federal, no julgamento do RE 574706, pelo regime de repercussão geral (Tema 69), fixou a tese de que o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS.
+2. O ICMS a ser excluído da base de cálculo do PIS e da COFINS é o destacado na nota fiscal.
+3. O contribuinte substituído tributário não tem o direito de excluir da base de cálculo do PIS/COFINS o montante correspondente ao ICMS-ST.
+A parte recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, em que aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1º, § 2º, da Lei n. 10.637/2002 e 1º, § 2º, da Lei n. 10.833/2003, pois a base de cálculo da COFINS, igualmente definida como o total das receitas auferidas pela pessoa jurídica, não pode abranger o ICMS-ST, porquanto o imposto estadual não integra o patrimônio do contribuinte nem se qualifica como receita/faturamento, devendo ser excluído, à semelhança do ICMS próprio, bem como se trata de ônus fiscal repassado ao ente federativo e já recolhido antecipadamente pelo substituto tributário; e
+b) 110 do CTN, porquanto a interpretação que inclui ICMS-ST na base de cálculo do PIS/COFINS altera indevidamente conceitos de direito privado utilizados pela Constituição Federal para definir competências tributárias, violando o limite imposto à lei tributária quanto à preservação do conceito de receita/faturamento adotado pelo STF.
+Sustenta que o Tribunal de origem divergiu, ao julgar indevida a exclusão do ICMS-ST, de julgados que conferem tratamento idêntico ao ICMS próprio e ao ICMS-ST, por se tratar do mesmo tributo recolhido em etapa diversa, reconhecendo a natureza de ônus fiscal e não de receita, com direito à compensação/restituição dos valores recolhidos a maior (TRF5: Processo n. 08048063420194058300; TRF3: ApReeNec n. 5003431-57.2018.4.03.6126).
+Por fim, requer o provimento do recurso, para que se declare o direito de excluir o ICMS-ST das bases de cálculo do PIS e da COFINS, com reconhecimento do direito à compensação ou restituição relativamente aos cinco anos anteriores (fls. 810-841).
+Na sequência, no julgamento dos embargos de declaração opostos pela União, a Corte a quo os rejeitou, assim ementado (fls. 1248-1250):
+EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. PREQUESTIONAMENTO.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição ou obscuridade.
+2. Estando evidenciada a tese jurídica em que se sustenta a decisão proferida nesta Instância, não é necessário declarar todos os dispositivos legais em que se fundamenta.
+A União também interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (fls. 1256-1275).
+Contrarrazões da parte agravante (fls. 1306-1315).
+Decisão de inadmissibilidade do recurso especial da União (fls. 1335-1336) e do apelo nobre da parte agravante (fls. 1344-1345).
+Agravo em recurso especial da União (fls. 1352-1369) e da parte agravante (fls. 1387-1402).
+Contraminuta de ambas as partes (fls. 1418-1426 e 1442-1444).
+Decisão monocrática de devolução dos autos ao órgão julgador para apreciação do Tema n. 69 do STF (fl. 1449).
+Ato contínuo, o Tribunal de origem proferiu nova decisão, em juízo de retratação relativo ao Tema n. 69 do STF, para negar provimento ao apelo da União e dar parcial provimento à remessa necessária e declarar que a exclusão do ICMS das bases de cálculo do PIS e da COFINS tem efeitos a partir de 15/3/2017, assim ementado (fls. 1458-1460):
+TRIBUTÁRIO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DE PIS E COFINS. TEMA 69 DO STF. MODULAÇÃO DOS EFEITOS. RETRATAÇÃO.
+A exclusão do ICMS da base de cálculo do PIS/COFINS tem efeitos a partir de 15 de março de 2017, ressalvadas as ações ajuizadas até a referida data.
+Petição da parte agravante para suspender a análise de seu recurso especial até o julgamento do Tema n. 1125 do STJ (fls. 1470-1473), tendo sido determinado o seu sobrestamento pelo Tribunal de origem até a decisão do referido tema (fl. 1477).
+Na sequência, em outra decisão monocrática, o Tribunal de origem negou seguimento ao recurso especial da União (fl. 1479).
+Da decisão de negativa de seguimento do apelo nobre, a União interpôs agravo interno, no qual foi negado seguimento pela Corte a quo (fls. 1499-1502).
+Contudo, em razão do julgamento do Tema n. 1125 do STJ, em decisão monocrática do Tribunal de origem, o recurso especial da União foi sobrestado até a decisão do referido tema (fl. 1518).
+Com a definição da tese do Tema n. 1125 do STJ, a Corte Estadual proferiu novo acórdão, apreciando as apelações da parte agravante e da União, para extinguir o feito sem resolução do mérito, nos termos do art. 485, inciso VI, do CPC, em relação às contribuições ao PIS/COFINS submetidas à incidência monofásica, e, prosseguindo no julgamento, em juízo de retratação relativo ao Tema n. 1125 do STJ, dar parcial provimento à apelação da impetrante, negar provimento à apelação da União e dar parcial provimento à remessa necessária, assim ementado (fls. 1531-1536):
+TRIBUTÁRIO. TEMA 1125/STJ. RETRATAÇÃO.
+Tema 1125: "O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva."
+Com a apreciação do Tema n. 1125 do STJ pelo Tribunal de origem, a parte recorrente promoveu aditamento ao recurso especial interposto (fls. 1546-1566).
+No julgamento dos embargos de declaração da parte recorrente, a Corte a quo os rejeitou (fls. 1598-1600).
+Na sequência, o recurso especial foi inadmitido (fls. 1613-1615).
+Diante da decisão de inadmissibilidade, o agravante interpôs agravo em recurso especial (fls. 1627-1655).
+Não foi apresentada contraminuta (fl. 1661).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 1679-1685).
+É o relatório. Decido .
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, o óbice (Súmula n. 83 do STJ) elencado na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+De início, vislumbra-se que a alegação de violação aos arts. 1º, § 1º, da Lei n. 10.637/2002 e 1º, § 1º, da Lei n. 10.833/2003 e 110 do CTN não possui conteúdo normativo capaz de amparar a tese de legitimidade ativa (art. 485, inciso VI, do CPC), mas sim o mérito da questão relacionada à inclusão do ICMS-ST nas bases de cálculo da contribuição ao PIS e da COFINS, amplamente definida nos autos.
+Nesse quadro, a impertinência temática é flagrante, estando as razões do recurso especial dissociadas do acórdão recorrido e não impugnam os seus fundamentos, o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido AgInt no REsp n. 1.930.411/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023; AgInt no REsp n. 1.987.866/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/8/2022, DJe de 15/8/2022.
+Ademais, vale ressaltar que, no aditamento do recurso especial pela parte recorrente (fls. 1546-1566), referente à tese de legitimidade ativa, não foi indicado qualquer dispositivo de lei federal supostamente violado ou cuja vigência teria sido negada, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso. No mesmo sentido: AgInt no REsp n. 1.861.859/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023; AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PIS/COFINS E ICMS-ST EM REGIME MONOFÁSICO. CONTRIBUINTE. ILEGITIMIDADE ATIVA. RAZÕES DE RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. ADITAMENTO DO RECURSO ESPECIAL PELA PARTE RECORRENTE . NÃO INDICAÇÃO DE DISPOSITIVO DE LEI. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA N. 284 STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
