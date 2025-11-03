@@ -1,0 +1,15 @@
+DECISÃO
+RAFAEL PIRES FARIAS agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, na Apelação Criminal n. 0000198-65.2022.8.16.0189.
+Consta que RAFAEL PIERES FARIAS foi condenado à pena de 5 (cinco) anos, 4 (quatro) meses e 15 (quinze) dias de reclusão e 1 (um) mês de detenção, em regime inicial semiaberto, acrescida de 23 (vinte e três) dias-multa e multa de 10 (dez) vezes o maior salário-mínimo vigente à época dos fatos, pela prática dos crimes tipificados no arts. 2º, § 2º, da Lei n. 12.850/2013, 161, § 1º, II, do Código Penal, e 50, parágrafo único, I e II, da Lei n. 6.766/1979, na forma do art. 69 do Código Penal. A condenação foi mantida em grau de apelação.
+A defesa, em recurso especial, aponta violação dos arts. 5º, XXII, da Constituição Federal; 217-A do Código Penal; e 2º, § 2º, da Lei 12.850/2013. Aduz que: a) as armas apreendidas devem ser restituídas, uma vez que sua legalidade e o direito de posse e transporte foram comprovados, além de não terem sido utilizadas para fins criminosos, e a decisão que negou a restituição careceu de fundamentação idônea; b) deve ser absolvido do delito de organização criminosa por insuficiência de provas quanto aos requisitos exigidos para a caracterização do crime; c) a causa de aumento de pena pelo emprego de arma de fogo deve ser decotada, pois não ficou demonstrado o seu uso, e não foi realizada perícia para aferir sua eficácia; e d) o regime inicial de cumprimento da pena deve ser redimensionado. Requer a restituição das armas apreendidas, a absolvição ou a redução da pena e a fixação do regime prisional aberto.
+O recurso especial foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de origem.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso (fls. 3.121-3.123).
+Decido.
+O agravo não merece ser conhecido.
+A petição do agravo em recurso especial para Rafael Pires Farias não foi fornecida, porém, conforme destaca o parecer do Ministério Público Federal, embora conste Rafael Pires Farias como agravante na capa, ele "não recorreu da decisão que inadmitiu o apelo extremo" (fl. 3.121).
+A análise dos autos corrobora a informação do Parquet Federal. O recurso especial de Rafael Pires Farias foi juntado em 16/12/2024. A decisão de inadmissão do seu recurso especial foi proferida em 20/02/2025. O único agravo em recurso especial apresentado nos documentos refere-se a Douglas Galhardo dos Santos, protocolado em R 20/3/2025.
+Dessa forma, não tendo sido interposto agravo por Rafael Pires Farias contra a decisão que inadmitiu seu recurso especial, não há como analisar o mérito de suas pretensões. A ausência de recurso específico torna preclusa a matéria.
+À vista do exposto, não conheço do agravo em recurso especial.
+Retifique-se a capa dos autos, fazendo-se constar como agravante apenas Douglas Galhardo dos Santos.
+Publique-se e intimem-se.
+EMENTA
