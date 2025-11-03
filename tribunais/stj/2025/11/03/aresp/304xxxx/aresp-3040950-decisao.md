@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Prima Foods S/A contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, no qual discute a tempestividade de embargos de declaração opostos contra acórdão de apelação.
+A parte recorrente alega, em síntese (fls. 299/317):
+O acórdão recorrido contrariou o disposto nos artigos 219 e 224, §§ 1º, 2º e 3º do Código de Processo Civil, na medida em que além de ignorar a previsão da legislação processual, que determina que a contagem de prazos somente contabiliza os dias úteis e também não podem finalizar ou iniciar em feriados ou dias com expedientes reduzido, aplicando interpretação distorcida da legislação federal e cerceando o direito de defesa da parte Recorrente. Ademais, atribui a legislação federal uma interpretação distinta da que foi conferida por outro tribunal, o que também configura hipótese de cabimento do Recurso Especial  ..  Fica claramente demonstrado que, conforme as informações publicadas pelo canal Oficial do Tribunal de Justiça do Estado de Goiás, os dias 03, 04 e 05 de março seriam Feriados no Tribunal e em todas as comarcas do estado, não havendo quaisquer ressalvas ou observações como fora feito nos demais casos, de modo que não há coo se inferir outra coisa senão pela suspensão do prazo processual naquela ou, no mínimo, que não seria possível iniciar a contagem de prazo naquela data.
+ ..
+em prejuízo aos argumentos expostos no tópico anterior, a Recorrente elucida que o entendimento consignado pelo Tribunal de Justiça na decisão que não conheceu dos Embargos de Declaração opostos afronta também o que está previsto no artigo 224 e parágrafos, do Código de Processo Civil  ..  O parágrafo primeiro do art. 224 veda expressamente que a contagem dos prazos processuais tenha início ou fim, em quaisquer datas em que haja indisponibilidade de sistema ou que o funcionamento forense seja encerrado antes ou depois do horário normal. O horário normal de funcionamento é aquele em que se poderão realizar os atos processuais, conforme disposto no artigo 212 do CPC/15  ..  Considerando que houve a redução do horários dos Tribunais Estaduais, Justiça do Trabalho e na Justiça Federal, assim como diversos os órgãos julgadores administrativos, não houve expediente forense regular nos termos do CPC, de modo que, ainda que não sejam acolhidas as razões expostas no tópico 4.1, isto é, não se conheça o dia 05/03/2025 (quarta- feira de cinzas) como feriado, dada a expressa disposição da legislação goiana, não seria possível que a contagem processual tivesse início na referida data, vez que houve redução do horário previsto em lei para realização dos atos processuais.
+Sem contrarrazões da parte recorrida, o recurso especial não foi admitido porque seria intempestivo, uma vez que os embargos de declaração não foram conhecidos; vide (fl. 328):
+No caso, verifico que não foram conhecidos os embargos de declaração opostos, porquanto intempestivos. Logo, é certo que eles não interromperam o prazo para interposição de outros recursos (cf. STJ, 1ª T., AgInt nos EDcl no AREsp n. 1.435.532/SP, Rel. Min. Regina Helena Costa, DJe de 26/3/20201).
+A par disso, este recurso especial se apresenta extemporâneo, pois, tendo sido o acórdão fustigado publicado em 28/02/2025 (sexta-feira), o prazo recursal exauriu-se em 25/03/2025 (terça-feira).
+Todavia, o protocolo do recurso ocorreu apenas no dia 16/05/2025 (sexta-feira).
+Essa situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 284/292):
+No caso dos autos, o acórdão foi publicado no Diário da Justiça no dia 28/02/2025, sexta-feira.
+Dessa forma, o prazo para apresentação dos embargos de declaração iniciou- se no primeiro dia útil subsequente, ou seja, em 05/03/2025 (quarta-feira de cinzas) e findou-se em 11/03/2025, terça-feira.
+Todavia, os embargos somente foram protocolados no dia 12/03/2025, fora, portanto, do prazo legal.
+Cabe destacar que a quarta-feira de cinzas não é considerada dia sem expediente forense no Estado de Goiás.
+Embora o artigo 123, III, do Regimento Interno do TJGO preveja que não haverá expediente na segunda e terça-feira de Carnaval e na quarta-feira de cinzas até o meio-dia, desde a vigência da Resolução nº 136/2020, o expediente forense em todo o Judiciário goiano inicia-se, de forma ordinária, às 12h.
+Assim, não há alteração no início do expediente especificamente na quarta-feira de cinzas, o que afasta a incidência do §1º do art. 224 do CPC e confirma a regular fluência do prazo desde aquele dia.
+Pois bem.
+O acórdão de não conhecimento dos embargos de declaração foi publicado em 25 de abril de 2025 (fl. 296) e o recurso especial foi interposto em 16 de maio de 2025 (fl. 299). De outro lado, o recurso especial discute, especificamente, a tempestividade do recurso de embargos de declaração, e não o acórdão de apelação, razão pela qual se encontra tempestivo.
+Não obstante, o recurso especial não pode mesmo ser conhecido, pois, estabelecida a premissa de que a quarta-feria de cinzas não é feriado, com o expediente forense se iniciando a partir das 12:00h, não há como considerá-lo dia não útil para fins de contagem de prazos recursais.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECLARATÓRIOS ANTERIORES INTEMPESTIVOS. INOBSERVÂNCIA DO PRAZO RECURSAL.
+1. O Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de ser considerado dia útil, para fins de contagem de prazo para a interposição de recurso, a quarta-feira de cinzas.
+2. Ressalte-se que "a limitação do expediente forense ao turno vespertino na quarta-feira de cinzas não dá ensejo à prorrogação do prazo para interposição de recursos." (AgRg nos EDcl no REsp 1220364/MG, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, DJe 18/4/2011).
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl nos EDcl no REsp n. 1.404.233/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2014, DJe de 14/4/2014)
+No mesmo sentido, entre outros: AgRg no AREsp n. 286.013/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/11/2013, DJe de 19/11/2013; EDcl no AgRg no AREsp n. 102.695/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/6/2012, DJe de 2/8/2012.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
