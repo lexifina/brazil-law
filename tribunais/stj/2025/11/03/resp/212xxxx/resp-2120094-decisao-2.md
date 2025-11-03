@@ -1,0 +1,34 @@
+DECISÃO
+WAGNER JOSÉ DA SILVA agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0024.10.220721-4/001.
+O agravante, em primeira instância, foi condenado "nas sanções do art. 70, VII, da Lei 8.137/90, às penas de 04 (quatro) anos e 02 (dois) meses de detenção, em regime Fechado". (fl. 1.300).
+O Tribunal de origem deu parcial provimento à apelação para reduzir sua pena ao patamar de "03 (três) anos, 07 (sete) meses e 22 (vinte e dois) dias de detenção, em regime Semiaberto, pela prática do Crime previsto no art. 70, VII, da Lei . 8.137190". (fl. 1.334)
+No recurso especial, a defesa indicou violação dos arts. 261, 263, 370 caput, 564, I e III, todos do Código de Processo Penal. Defendeu: a) nulidade porque não intimado o ora recorrente para constituir outro patrono após a renúncia de seu advogado; b) nulidade porque a competência era da Justiça Federal, uma vez que a correta capitulação legal da conduta era no artigo 16 da Lei 7.492/1986, crime contra o Sistema Financeiro Nacional de competência da Justiça Federal, não no artigo 7º, VII, da Lei 8.137/1990.
+Requereu o provimento do recurso para anulação do processo.
+Apresentadas as contrarrazões e inadmitido o recurso na origem, o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (fls. 1.517-1.522).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido.
+Passo ao exame do especial.
+I. Competência da Justiça Estadual
+O Tribunal de origem assim rejeitou a tese do recorrente de incompetência da Justiça Estadual e competência da Justiça Federal (fls. 1.310-1.311, grifei):
+Isso porque, em setembro de 2005, os Apelantes teriam induzido a vítima L.L.L (Leni) a erro, por promessa de crédito fácil, anunciada em jornal local, pela empresa Cooper Previs Representação Comercial Ltda-ME, tendo a Ofendida depositado a quantia de R$2.700,00 (dois mil e setecentos reais) em favor da empresa (Recibo e comprovantes, fl. 29, 34 e 35),contudo o credito prometido, no valor de R$15 000,00 (quinze mil reais), não foi liberado.
+Registra-se que a empresa em questão era, em tese, gerenciada por_Wagner José da Silva e Fernando Antônio de Miranda contando com a atuação de Débora Batista Ricardo, supervisora de vendas da sociedade. Dessa forma, os Apelantes foram condenados pela prática de Crime Contra as Relações de Consumo, nos termos do art. 7º, inciso VII, da Lei 8.137190, tendo como Vítima consumidora (pessoa física), sendo que a conduta apurada nestes autos não apresentou ameaça ou lesão a bens, serviços ou interesses da União, assim como não teria sido praticada em detrimento de entidades autárquicas federais ou empresas públicas.
+Registra-se que, a despeito da informação de que a empresa Cooper Previs Representação Comercial Ltda-ME não possuía autorização do Banco Central do Brasil para exercício de atividades próprias de instituição financeira ou de administradora de consórcio (fl. 92), depreende- se que não houve apuração, no presente processo, de eventual Crime Contra o Sistema Financeiro Nacional, de modo a atrair à alegada competência da Justiça Federal.
+Ademais, conforme consignado pelo Parquet, em Contrarrazões (fI. 1036/v), consta do Contrato Social da empresa Cooper Previs Representação Comercial Ltda-ME que o objetivo e finalidade da sociedade são a "representação comercial por, conta de terceiros e a prestação de serviços administrativos junto a cooperativa habitacional, o que, a princípio, afasta a suposta prática de Crime Contra o Sistema Financeiro Nacional (art. 16 da Lei 7.492186), alegado pela Defesa.
+Nesse sentido, considerando que os Apelantes foram condenados pela prática de Crime Contra as Relações de Consumo, tendo como Vítima pessoa física, e não encontrando-se presentes quaisquer das hipóteses do art. 109 da CF/88, mantém-se a competência residual da Justiça Estadual.
+Verifica-se que foram apresentados fundamentos concretos, ancorados nas provas produzidas nos autos, para afirmar não ter sido apurada a conduta de "fazer operar" (Lei 7.492/1986, artigo 16) instituição financeira, uma vez que apenas se apurou ato isolado contra vítima isolada de induzi-la a erro ao contratar um empréstimo cujos recursos não foram liberados.
+Assim, rever tal fundamentação exigiria o revolvimento de fatos e provas, o que é vedado nessa instância especial por força da Súmula n. 07 do STJ.
+II. Ausência de cerceamento de defesa.
+Assim o Tribunal recorrido se pronunciou no ponto (fl. 1.312):
+In casu, verifica-se que o Apelante Wagner foi pessoalmente citado (fI. 361), no dia 11/07/2011, tendo apresentado Resposta à Acusação, por duas vezes (fI. 371 e fls. 3881389).
+Ademais, depreende-se que Wagner, devidamente intimado, compareceu ás Audiências de Instrução, em 13/05/2014 (fI. 451), 18/12/2014 (fI. 491) e 16/10/2015 (fI. 515), sendo que, na última data, o Apelante foi intimado para Audiência de Instrução designada para o dia 11/12/2015, ocasião em que não compareceu, sendo decretada a revelia, nos termos do art. 367 do CPP (fI. 540).
+Registra-se que, em razão da pendência de diligências e o não comparecimento de Testemunhas, nenhum ato instrutório foi realizado, nas Audiências dos dias 13/05/2014 (fI. 451), 18/12/2014 (fi. 491) e 16/10/2015 (f 1. 515).
+A propósito, ressai que a Vítima L. L. L. foi ouvida por Carta Precatória, no dia 13/03/2014, constando da Ata de Audiência a assinatura da Defensora Pública N. C. A. S. (fI. 431).
+Infere-se, ainda, que o Apelante apresentou Memoriais (fis. 5961604), sendo devidamente assistido por Advogado.
+Dessa forma, não há se falar em inexistência ou deficiência de Defesa, visto que o Apelante foi assistido durante a persecução penal ; em observância ãs normas legais, não tendo a Defesa comprovado qualquer prejuízo, ônus que lhe incumbia.
+Percebe-se que, na verdade, além de não ter havido ausência de intimação do recorrido para constituição de defensor, sua revelia foi decretada em decorrência de sua ausência em audiência para a qual devida e previamente intimado. Acrescente-se que, ainda assim, sempre esteve assistido por defensor.
+Constata-se, por fim, nenhum prejuízo demonstrado, estando o acórdão recorrido de acordo com a jurisprudência desta Corte Superior, segundo a qual:
+"É reiterada a orientação jurisprudencial desta Corte no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo à luz do art. 563 do Código de Processo Penal, ex vi do princípio pas de nullité sans grief, o que não ocorreu no caso em debate" (AgRg no HC n. 822.930/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+III - Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
