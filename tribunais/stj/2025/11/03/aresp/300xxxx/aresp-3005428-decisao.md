@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.3880):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD. PENA DE DEMISSÃO INEXISTÊNCIA DE NULIDADE. IMPOSSIBILIDADE DO PODER JUDICIÁRIO ADENTRAR NO MÉRITO ADMINISTRATIVO. AUSÊNCIA DE DESPROPORCIONALIDADE DA PENA APLICADA. APELAÇÃO IMPROVIDA.
+1. Trata-se de recurso de apelação interposto em face da sentença que julgou improcedente o pedido de anulação do Processo Administrativo Disciplinar e de reintegração da autora no cargo por ela anteriormente ocupado.
+2. No controle jurisdicional do ato disciplinar compete ao Poder Judiciário apreciar tão somente a regularidade do procedimento à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, não podendo proceder a incursões no mérito administrativo (cf. MS 9396/DF, Rel. Ministro Paulo Gallotti). Precedente.
+3. O exame das provas carreadas no PAD se circunscreve à análise do mérito do ato administrativo e que compete somente à autoridade administrativa, não podendo o Poder Judiciário modificar as conclusões a que se chegou naquele âmbito de atuação.
+4. Quanto à alegação de desproporcionalidade da sanção aplicada, tem-se da análise dos autos que foi aplicada a pena de demissão após regular processo administrativo disciplinar em decisão fundamentada, observada as formalidades legais.
+5. Honorários majorados em 1% (um por cento) sob o valor arbitrado na origem, por força do art. 85, §11, do CPC/2015, cuja exigibilidade ficará suspensa em razão dos benefícios da justiça gratuita.
+6. Apelação improvida.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC/15, sustentando a ocorrência de omissão quanto:
+a) à boa-fé da servidora e da ausência de elemento subjetivo a ensejar a pena de demissão;
+b) à atuação da recorrente na Comissão de inventário de materiais e desfazimento de bens inservíveis;
+c) quanto à vida funcional da recorrente: mais de 28 anos de serviço público e
+d) princípios da razoabilidade e da proporcionalidade, da dignidade da pessoa humana, isonomia e legalidade (fls. 3982-3983).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Diante da adequada impugnação dos fundamentos da decisão de inadmissão, é mister passar à análise do recurso especial.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, da análise cuidadosa dos autos, verifica-se que não há se falar em ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC/15 consoante defende a parte agravante, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+Acrescentando, é perfeitamente possível que a decisão se encontre devidamente fundamentada sem que, no entanto, tenha sido decidida a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado o julgador.
+Relativamente às teses apontadas como omissas, colhe-se do acórdão recorrido - grifos acrescidos (fl.3963):
+(..)
+Não obstante a alegação da embargante de haver omissão no julgado, observa-se que a matéria foi apreciada e resta clara, in verbis:
+"Nesse contexto, o exame das provas carreadas no PAD se circunscreve ao mérito do ato administrativo e que compete a sua análise apenas à autoridade administrativa, não podendo o Poder Judiciário modificar as conclusões a que se chegou naquele âmbito de atuação.
+Quanto à alegação de desproporcionalidade da sanção aplicada, tem-se da análise dos autos que foi aplicada a pena de demissão após regular processo administrativo disciplinar em decisão fundamentada, observada as formalidades legais. Portanto, sem razão a parte apelante."
+Assim, a questão da proporcionalidade da pena de demissão foi analisada, bem como a questão da forma de atuação restou prejudicada, em razão da incursão no mérito administrativo.
+Nesse contexto, não há que se falar em negativa de prestação jurisdicional quando, embora não acolhido o pedido da insurgente, todas as questões relevantes ao deslinde do feito foram objeto de expressa e suficiente análise pela Corte local.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LICENCIAMENTO AMBIENTAL. REATOR MULTIPROPÓSITO BRASILEIRO - RMB. ALEGADA OFENSA AOS ARTS. 489, § 1º, IV, E 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO QUE, COM BASE NOS ELEMENTOS FÁTICOS DOS AUTOS, CONCLUIU PELA REGULARIDADE DO PROCESSO DE LICENCIAMENTO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, tendo apreciado os temas necessários ao integral deslinde da controvérsia, não havendo omissão, contradição, obscuridade ou erro material, no acórdão recorrido, de modo que deve ser rejeitada a alegada violação aos arts. 489, § 1º, IV, e 1.022, parágrafo único, do CPC.
+2. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+3. Nos termos em que a causa fora decidida, infirmar as conclusões do acórdão recorrido, no sentido de que houve o "cumprimento integral das condicionantes apontadas no processo de licenciamento", demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Recurso especial parcialmente conhecido e, nessa extensão, desprovido (REsp n. 1.975.020/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/9/2024, DJe de 17/9/2024) grifo nosso.
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO.
+IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido (AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022-grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/15. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL. ANÁLISE VEDADA NESTA VIA RECURSAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. Afasta-se, igualmente, a alegada afronta ao artigo 489 do CPC/2015, pois o acórdão impugnado ampara-se em fundamentação jurídica suficiente, que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Quanto aos arts. 110 do CTN; 3º, §1º, da Lei 9.718/98; 2º da Lei Complementar 70/91 e 3º da Lei 9.715/98, tem-se que"o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à COFINS é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial" (REsp 1.278.769/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2012).
+6.Agravo interno não provido (AgInt no REsp 1.859.197/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022)- grifo nosso.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos artigos 489 e 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAD. NULIDADE. INEXISTÊNCIA. OFENSA AOS ARTS. 489 E 1.022, DO CPC/15. NÃO OCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONSTATADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
