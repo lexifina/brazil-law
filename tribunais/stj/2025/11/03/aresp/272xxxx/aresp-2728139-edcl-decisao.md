@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por JOAO ALBERTO CUNHA DA ROCHA FILHO e outra à decisão desta relatoria que reconsiderou a decisão de e-STJ fls. 765/766 e, em novo julgamento, conheceu do agravo para conhecer do recurso especial e negar-lhe provimento, julgando ainda prejudicado o pedido de efeito suspensivo (e-STJ fls. 799/803).
+Nas razões dos presentes aclaratórios, os embargantes sustentam haver omissão na decisão embargada, pois não teria enfrentado as alegações recursais de que a execução estaria baseada em título nulo e que as decisões de primeiro e segundo grau não haviam observado acórdão anterior desta Corte Superior.
+Impugnação às e-STJ fls. 817/818, requer a aplicação de multa por litigância de má-fé.
+É o relatório.
+DECIDO.
+De fato, as questões da nulidade da execução e descumprimento de anterior decisão desta Corte Superior não foram enfrentadas de forma direta e objetiva, de modo que devem ser acolhidos os presentes aclaratórios, a fim de esclarecer esses pontos.
+Ao julgar o REsp nº 1.860.330/RS, o relator Min. Marco Aurélio Bellizze reconheceu a necessidade de retorno dos autos à origem para "deferir o pedido de exibição de documentos formulado pelos recorrentes, nos embargos à execução por eles opostos, e deferir, por conseguinte, o pedido de que a parte adversa apresente, também, os parâmetros por ela utilizados para o cálculo do débito exequendo".
+Em cumprimento a essa decisão, extrai-se do acórdão recorrido que:
+"No que tange aos documentos que teriam dado origem à dívida, não há falar em omissão, visto que, nos termos determinados pelo STJ, logrou a embargada trazer aos autos a documentação que teria dado origem à divida, tais como notas fiscais de compra e venda, acompanhadas dos comprovantes de entrega das mercadorias, boletos e duplicatas, inclusive, com assinatura do devedor/sacado (fls. 238/247), os quais corroboram o extrato individual dos valores pendentes de pagamento acostado aos autos pelo próprio embargante (Doc 6, fl. 41).
+E, como tal, restou analisado na decisão embargada.
+Todavia, em relação aos parâmetros do cálculo que teria levado ao valor objeto da confissão de dívida (R$300.659,75), o que também deveria ser demonstrado pela embargada, nos termos da decisão do STJ, verifica- se que tal não ocorreu, tendo o acórdão partido de premissa equivocada ao acolher os parâmetros do cálculo da execução (fl. 34) como sendo os parâmetros para a composição da dívida objeto da confissão.
+Contudo, os parâmetros são diversos.
+No termo de confissão de dívida, para o caso de inadimplemento, constou correção monetária pelo IGPM e 12% de juros ao ano, bem como cláusula penal de 15% sobre o saldo devedor (Cláusula Sétima). Para a composição da dívida confessada (R$ 300.659,75) a embargada manifestou-se à fl. 237, da seguinte forma: Relativamente aos parâmetros utilizados reportamo-nos a memória de cáculo de fls. 34 da execução em apenso, confeccionada com base no título exequendo de fls. 12 a 15 do referido feito executivo, utilizando-se juros legais de 1% ao mês e IGP-M.
+E, neste sentido, com base nas notas fiscais e demais documentos acostados aos autos pela embargada (fls. 238/247), aliado ao extrato individual dos valores, emitido pela embargada e acostado aos autos pelos embargantes, tem-se que o valor histórico da dívida, quando do seu vencimento, era de R$ 246.207,16.
+Corrigindo-se este valor pelo IGPM e acrescido de juros de 12% ao ano a contar do vencimento (constante no extrato de fl. 41) até a formalização da confissão de dívida (25/10/2017), verifica-se que a dívida a ser confessada (visto que não comprovado o pagamento pela parte embargante) ficaria em R$ 254.337,87, nos termos do cálculo abaixo: (..)
+Em sendo assim, assistindo à parte embargante discutir os contratos anteriores que teriam dado origem à confissão de dívida, nos termos da decisão do STJ, bem como considerando que a parte embargada não demonstrou, via cálculo discriminado, os parâmetros para chegar ao valor de R$ 300.659,75 (objeto da confissão de dívida), impõe-se a revisão da dívida objeto da confissão para R$ 254.337,87 (duzentos e cinquenta e quatro mil, trezentos e trinta e sete reais e oitenta e sete centavos), restando sanada a omissão no ponto.
+A redução do valor devido implica, necessariamente, a modificação do cálculo da execução, devendo este ser devidamente readequado pela parte credora.
+Isso posto, impõe-se atribuir aos embargos efeitos infringentes para fins de dar parcial provimento ao apelo outrora interposto pelos embargantes." (e-STJ fls. 672/673)
+Nesse contexto, ao contrário do sustentado, houve o cumprimento da decisão desta Corte Superior, que resultou no ajuste do valor executado, o que não se confunde com ausência de liquidez.
+Ademais, modificar a conclusão do acórdão recorrido quanto à alegada nulidade do título, implicaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, acolho os embargos de declaração, para esclarecer as razões da decisão, sem contudo emprestar-lhe efeitos infringentes.
+Publique-se.
+Intimem-se.
+EMENTA
