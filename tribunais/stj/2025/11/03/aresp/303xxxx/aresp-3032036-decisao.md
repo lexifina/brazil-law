@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por FONTES & BLASKEVICZ ADVOGADOS ASSOCIADOS E OUTROS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fls. 395-397, e-STJ):
+Agravo de Instrumento. Ação de arbitramento de honorários advocatícios. Pedido liminar de averbação premonitória. Não demonstrada a dilapidação do patrimônio da Requerida. Recurso provido.
+Opostos embargos de declaração, foram rejeitados nos termos do acórdão de fls. 403-407, e-STJ.
+Nas razões de recurso especial (fls. 410-423, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 300, 828, do CPC; arts. 54, IV, e 56 da Lei n. 13.097/2015, além de dissídi o jurisprudencial.
+Sustenta, em síntese: irregularidade na representação em primeiro grau e ausência de procurações; e possibilidade de averbação premonitória em processo de conhecimento.
+Contrarrazões apresentadas às fls. 533-561, e-STJ.
+Em juízo de admissibilidade (fls. 562-564, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 568-600, e-STJ).
+Contraminuta apresentada às fls. 980-1015, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. No caso em tela, o Tribunal a quo verificou que não estavam presentes, em parte, os requisitos autorizadores da medida antecipatória da tutela.
+Confira-se, a propósito, a fundamentação do acórdão recorrido (fls. 396-397, e-STJ):
+A averbação premonitória acarreta restrições à propriedade, de tal sorte que a providência deve ser adotada se presentes os requisitos para a concessão da tutela de urgência.
+No caso, a ação de arbitramento de honorários advocatícios fora ajuizada sem contrato escrito, ou ações judiciais que permitam a estimativa do crédito reclamado pela Agravada.
+A Agravada atribuiu à causa o valor simbólico de R$1.000,00 e justificou essa escolha em face da dificuldade de estimar o valor do seu crédito.
+Neste quadro, evidencia-se a iliquidez da dívida.
+Ademais, não há qualquer indicativo da insolvência da Agravante ou que ela esteja alienando seu patrimônio sem reservar o suficiente para suportar os honorários em caso de condenação.
+O pedido de averbação premonitória se mostra prematuro.
+E quando do julgamento dos embargos de declaração, o órgão julgador complementou que (fls. 405-406, e-STJ):
+Não há omissão, contradição ou obscuridade no acórdão, antes inconformismo da Embargante com o seu resultado. Segundo o aresto: A averbação premonitória acarreta restrições à propriedade, de tal sorte que a providência deve ser adotada se presentes os requisitos para a concessão da tutela de urgência.
+No caso, a ação de arbitramento de honorários advocatícios fora ajuizada sem contrato escrito, ou ações judiciais que permitam a estimativa do crédito reclamado pela Agravada.
+A Agravada atribuiu à causa o valor simbólico de R$1.000,00 e justificou essa escolha em face da dificuldade de estimar o valor do seu crédito.
+Neste quadro, evidencia-se a iliquidez da dívida.
+Ademais, não há qualquer indicativo da insolvência da Agravante ou que ela esteja alienando seu patrimônio sem reservar o suficiente para suportar os honorários em caso de condenação.
+Sobre a alegação de irregularidade das procurações eletrônicas das Embargadas, suficiente anotar que a norma contida no art. 76 do CPC admite, a qualquer tempo, a regularização da representação processual, assim que verificado o defeito, e a nulidade do processo deve ser decretada apenas em razão de eventual descumprimento da ordem.
+A revisão de tais questões, para verificar a presença dos requisitos autorizadores da antecipação de tutela, exigiria a incursão em matéria probatória, vedada nesta instância, por óbice da Súmula 7/STJ.
+Igualmente, a jurisprudência é uníssona em considerar descabido, via de regra, o apelo nobre que verse sobre reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar. Aplica-se, por analogia, o óbice da Súmula 735/STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Colhem-se, a título exemplificativo, os seguintes precedentes: AgInt no AREsp 1248498/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018; AgInt no AREsp 1186207/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018; REsp 1722672/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2018, DJe 25/05/2018; AgRg no AREsp 744.749/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no AgInt no AREsp 976.909/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/02/2017, DJe 14/03/2017; AgInt no AREsp 979.512/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017; AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016.
+1.1. Acrescente-se, ainda, que, também nos termos da jurisprudência desta Corte, "apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgRg na MC 24.533/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/10/2018, DJe 15/10/2018).
+Em sentido semelhante:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. TUTELA ANTECIPADA. REQUISITOS. AUSÊNCIA. REEXAME. SÚMULAS NS. 7/STJ E 735/STF. NÃO PROVIMENTO.  ..  2. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. 3. Agravo interno a que se nega provimento. (AgInt no REsp 1693653/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. DOIS AGRAVOS INTERNOS INTERPOSTOS PELO AGRAVANTE. IMPOSSIBILIDADE DE CONHECIMENTO DO SEGUNDO RECURSO EM FACE DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. JULGAMENTO APENAS DO PRIMEIRO AGRAVO INTERNO. TUTELA DE URGÊNCIA. ANÁLISE DO MÉRITO DA AÇÃO PRINCIPAL. IMPOSSIBILIDADE. SÚMULA Nº 735 DO STF. PRESSUPOSTOS. REVISÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.  ..  3. A jurisprudência do STJ firmou-se no sentido de que apenas a violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Súmula nº 735 do STF.  ..
+6. Agravo interno não provido, com imposição de multa. (AgInt no AREsp 1284281/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
