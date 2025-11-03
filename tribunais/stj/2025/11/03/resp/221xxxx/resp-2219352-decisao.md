@@ -1,0 +1,21 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA) contra acórdão prolatado pela 11ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 560e):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITO AMBIENTAL. APREENSÃO DE VEÍCULO UTILIZADO NA PRÁTICA DE INFRAÇÃO AMBIENTAL. DESNECESSIDADE DE COMPROVAÇÃO DE USO ESPECÍFICO E EXCLUSIVO. TEMA 1036/STJ. SITUAÇÃO DE FATO CONSOLIDADA. REMESSA NECESSÁRIA E APELAÇÃO DESPROVIDAS.
+1. A Lei nº 9.605/98 não faz distinção de eventual licitude ou ilicitude do instrumento, restando legitimada a apreensão administrativa com a simples utilização do bem para cometimento de infração ambiental.
+2. O Superior Tribunal de Justiça, no julgamento do Tema 1036, sob a sistemática dos recursos repetitivos (REsp 1814945/CE), firmou a tese de que a apreensão do instrumento utilizado na infração ambiental independe do uso específico, exclusivo ou habitual para a empreitada infracional.
+3. Deve ser prestigiada a situação consolidada no caso concreto, tendo em vista que a sentença concessiva do pleito foi proferida em momento anterior à tese fixada pelo STJ, razão pela qual não se mostra recomendável desfazer a situação de fato neste momento processual. Precedentes.
+4. Remessa necessária e apelação desprovidas.
+Opostos Embargos Declaratórios, foram rejeitados (fls. 584/593e).
+Com amparo no art. 105, III, a, da Constituição da República, alega-se, em síntese, ofensa aos arts. 25 da Lei n. 9.605/1998 e 927, III, do Código de Processo Civil, sob o fundamento segundo o qual, a despeito de reconhecer a licitude da apreensão de veículo utilizado em infração ambiental, deixou de aplicar o Tema n. 1.036/STJ ao caso.
+Com contrarrazões (fls. 606/631e), o recurso foi admitido (fls. 632/633e).
+O Ministério Público Federal se manifestou, na qualidade de custos iuris, opinando pelo provimento do recurso (fls. 643/646e).
+Feito breve relato, decido.
+Nos termos do art. 932, V, do Código de Processo Civil, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ.
+Nessa linha, destaco que a Primeira Seção desta Corte, ao apreciar o Tema Repetitivo n. 1.036, firmou tese segundo a qual "a apreensão do instrumento utilizado na infração ambiental, fundada na atual redação do § 4º do art. 25 da Lei 9.605/1998, independe do uso específico, exclusivo ou habitual para a empreitada infracional" (cf. REsp n. 1.816.353/RO, Relator Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, j. 10.2.2021, DJe 16.3.2021).
+No caso, o tribunal de origem consignou ter sido apreendido "  um Trator de Esteira Komatsu D65E 6B, ano 1986, com capota, pela suposta utilização na prática de infração ambiental" (fl. 552e), deixando, contudo, de aplicar o entendimento exarado no apontado precedente vinculante em reverência à "  situação consolidada no caso concreto tendo em vista que a sentença concessiva do pleito foi proferida em 10/09/2019, anteriormente, portanto, à tese fixada pelo STJ, razão pela qual não se mostra recomendável desfazer a situação de fato neste momento processual" (fl. 553e).
+No entanto, tal entendimento, a par reduzir o alcance temporal de orientação vinculante sem ter havido modulação da eficácia do precedente pela Primeira Seção, desconsidera a intelecção pacificada na Súmula n. 613/STJ, segundo a qual "Não se admite a aplicação da teoria do fato consumado em tema de Direito Ambiental", impondo-se, por conseguinte, o acolhimento da insurgência.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para, reformando o acórdão recorrido, julgar improcedente o pedido.
+Invertidos os ônus sucumbenciais.
+Publique-se e intimem-se.
+EMENTA
