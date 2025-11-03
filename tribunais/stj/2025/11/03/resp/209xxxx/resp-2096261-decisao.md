@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se recurso especial interposto por JJ SÃO BENTO EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 13/10/2022.
+Concluso ao gabinete em: 28/9/2023.
+Ação: de rescisão contratual c/c restituição de quantias pagas, ajuizada por MAURI MARQUES MAIA em face da recorrente.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para declarar rescindido o contrato de compromisso de venda e compra, devendo ser feita a devolução de 80% (oitenta por cento) do total dos valores recebidos, a ser apurado em liquidação por cálculo.
+Considerou que a parte autora sucumbiu em mínima e condenou a ré a arcar com as custas do processo e honorários de advogado de 10% (dez por cento) sobre o valor da causa.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA DE LOTE DE TERRENO RESCISÃO CONTRATUAL NULIDADE DA SENTENÇA INOCORRÊNCIA RETENÇÃO INTEGRAL DAS ARRAS IMPOSSIBILIDADE VALOR QUE INTEGRA O PREÇO DO IMÓVEL PEDIDO DE INDENIZAÇÃO PELA FRUIÇÃO DO IMÓVEL NÃO CABIMENTO TERRENO NÃO EDIFICADO E NÃO EXPLORADO ECONOMICAMENTE PELOS PROMISSÁRIOS COMPRADORES PRECEDENTES DESSA CORTE CLÁUSULA PENAL QUE PREVÊ MULTA NA QUANTIA CORRESPONDENTE A 20% DO PREÇO TOTAL DO CONTRATO DESPROPORCIONALIDADE RECONHECIMENTO DO DIREITO À DEVOLUÇÃO DO VALOR PAGO, COM RETENÇÃO DE 20% DESSE MONTANTE A TÍTULO DE INDENIZAÇÃO POR PREJUÍZOS CAUSADOS PELA RESCISÃO IMOTIVADA JUROS MORATÓRIOS DEVIDOS A PARTIR DO TRÂNSITO EM JULGADO RESPONSABILIDADE PELOS ÔNUS DA SUCUMBÊNCIA CORRETAMENTE ATRIBUÍDA À RÉ HONORÁRIOS SUCUMBENCIAIS BASE DE CÁLCULO VALOR DA CONDENAÇÃO SENTENÇA REFORMADA NESSE PONTO E PARA DEFINIR O TERMO INICIAL DOS JUROS MORATÓRIOS. APELAÇÃO PARCIALMENTE PROVIDA.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 11, 320, 434, 489 e 1.022, II, do CPC; 405, 416, 884 e 2.035 do CC; e 32-A, I, da Lei 6.766/79; 1º, §1º, da Lei nº 6.899/81.
+Além da negativa de prestação jurisdicional, alega, em síntese: (i) a retroatividade da Lei do Distrato; (ii) a não comprovação dos pagamentos pelo recorrido em favor da recorrente; (iii) que não há qualquer ilegalidade na retenção do sinal/arras; (iv) a nova Lei dos Distratos autoriza a multa sobre o valor do contrato e não somente sobre os valores pagos; (v) que a taxa de fruição é devida independentemente da efetiva ocupação física do imóvel pelo recorrido, nos termos da nova Lei dos Distratos; (vi) a não incidência de correção monetária e juros sobre os valores pagos; e (vii) a sucumbência mínima da recorrente.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+É importante ressaltar que não basta a simples referência à oposição de embargos de declaração supostamente não analisados devidamente pela Corte estadual, e sim destacar de maneira clara e objetiva quais as questões que restaram omissas, obscuras ou contraditórias.
+Desse modo, ante a argumentação genérica da recorrente, incide, na hipótese, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou os arts. 11 e 489 do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Outrossim, verifica-se que a recorrente deixou de indicar em seu recurso especial os dispositivos de lei que teriam sido violados pelo aresto recorrido no que se refere às alegações acerca da ausência de ilegalidade na retenção do sinal/arras e da existência de sucumbência mínima da recorrente, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284/STF.
+- Da jurisprudência do STJ
+O TJ/SP, ao concluir que a Lei nº 13.786/2018 não se aplica aos contratos firmados antes de sua vigência, decidiu em consonância com a jurisprudência desta Corte firmada no sentido de que a Lei nº 13.786/2018 não tem aplicação retroativa a contratos firmados antes de sua vigência. Nesse sentido: AgInt nos EDcl no REsp 2.085.803/SP, Quarta Turma, DJEN de 27/2/2025; AgInt no REsp 1.950.133/SP, Terceira Turma, DJe de 11/4/2024 e AgInt no AREsp 2.350.154/GO, Quarta Turma, DJe de 14/9/2023.
+Além disso, ao considerar que é indevida a indenização pelo período de ocupação/ fruição do lote, por se tratar de lote sem edificação, o Tribunal de origem manteve consonância com o entendimento do STJ no sentido de que é indevida taxa de ocupação após desfazimento de promessa de compra e venda de lote não edificado, haja vista que a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor. Nesse sentido: AgInt no AREsp 1.942.925/PR, Terceira Turma, DJe de 30/6/2023; AgInt no REsp 2.060.756/SP, Terceira Turma, DJe de 9/6/2023; AgInt no REsp 2.034.710/SP, Quarta Turma, DJe de 26/4/2023 e AgInt no AREsp 2.044.026/RS, Quarta Turma, DJe de 26/8/2022.
+No mais, oportuno esclarecer que a jurisprudência do STJ é assente no sentido de que, na hipótese de resolução de contrato de compra e venda de imóvel, os valores a serem restituídos devem ser corrigidos desde cada desembolso e os juros moratórios, na hipótese de culpa ou iniciativa do comprador, incidirão a partir do trânsito em julgado, o que foi observado no particular. Nesse sentido: AgInt nos EDcl no AREsp 2.426.567/SP, Terceira Turma, DJEN 28/8/2025 e AgInt no REsp 1.988.931/SP, Quarta Turma, DJe 19/8/2022.
+Desse modo, não merece reforma o acórdão recorrido, que adotou entendimento em sintonia com a jurisprudência do STJ, nos termos da Súmula 568/STJ.
+- Da existência de fundamento não impugnado e do reexame de fatos e provas
+Constata-se, da leitura das razões do recurso especial, que os argumentos invocados pela recorrente não impugnam, de maneira específica e consistente, os seguintes fundamentos do acórdão recorrido:
+"A alegação da recorrente de que os apelados não provaram todos os pagamentos a ela efetuados não merece guarida, pois juntaram eles a planilha de fls. 36/41, que discrimina os valores pagos e não foi impugnada especificamente na contestação, tratando-se de elemento de convicção suficiente para demonstrar o pagamento da entrada e das parcelas vencidas desde a celebração do contrato, em 04/03/2018, até dezembro de 2020." (e-STJ fls. 309/310)
+Logo, deve-se manter o acórdão recorrido, ante a incidência, quanto ao ponto, da Súmula 283/STF.
+Além disso, alterar o decidido pelo TJ/SP, tal como pretendido pela recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 3% (três por cento) os honorários fixados anteriormente, devidos pela parte recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE QUANTIAS PAGAS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. LEI Nº 13.786/2018. IRRETROATIVIDADE. TAXA DE FRUIÇÃO. CORREÇÃO MONETÁRIA. DESEMBOLSO. JUROS DE MORA. TRÂNSITO EM JULGADO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Ação de rescisão contratual c/c restituição de quantias pagas.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. Nos termos da jurisprudência desta Corte, a Lei nº 13.786/2018 não tem aplicação retroativa a contratos firmados antes de sua vigência.
+5. É indevida taxa de ocupação após desfazimento de promessa de compra e venda de lote não edificado, haja vista que a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor. Precedentes.
+6. A jurisprudência do STJ é assente no sentido de que, na hipótese de resolução de contrato de compra e venda de imóvel, os valores a serem restituídos devem ser corrigidos desde cada desembolso e os juros moratórios, na hipótese de culpa ou iniciativa do comprador, incidirão a partir do trânsito em julgado, o que foi observado no particular.
+7. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+8. O reexame de fatos e provas em recurso especial, é inadmissível.
+9. Recurso especial parcialmente conhecido e, nessa parte, não provido.
