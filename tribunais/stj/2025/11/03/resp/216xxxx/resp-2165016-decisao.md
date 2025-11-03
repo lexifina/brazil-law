@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGROSUISSE SERVIÇOS TÉCNICOS AGROPECUÁRIOS LTDA. E OUTROS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO nos autos do Processo n. 0088007-71.2015.4.02.5101/RJ. O decisum rejeitou os embargos de declaração opostos ao acórdão que negou provimento à apelaç ão e manteve a sentença de procedência dos embargos à execução, produzindo como efeito a manutenção da inexistência de valores a restituir a título de PIS e COFINS.
+O acórdão recorrido apresenta a seguinte ementa (fls. 501-502):
+APELAÇÃO. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. INCONSTITUCIONALIDADE DO ART. 3º, § 1º, DA LEI Nº 9.718/98. INEXISTÊNCIA DE VALOR A RESTITUIR. VALOR NÃO RECOLHIDO A MAIOR.
+Os embargos de declaração opostos foram rejeitados, conforme a seguinte ementa (fls. 551-552):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DA MATÉRIA. DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial, as recorrentes pugnam, preliminarmente, pela nulidade do acórdão que rejeitou os embargos de declaração, por violação do art. 1.022, inciso II, do Código de Processo Civil. Aponta omissão quanto aos critérios de conferência dos cálculos pela Contadoria Judicial e à consideração dos DARFs para comprovação dos recolhimentos de PIS e COFINS.
+Sustentam, ainda, afronta ao art. 489, § 1º, inciso IV, do Código de Processo Civil por ausência de enfrentamento de argumentos capazes de infirmar a conclusão adotada.
+Defendem que as guias DARF são aptas à comprovação do indébito, citando precedentes do Superior Tribunal de Justiça: REsp n. 965.199/RS, REsp n. 942.369/RS e REsp n. 780.238/RS.
+Afirmam, ademais, que o título judicial assegurou o direito de não recolher PIS e COFINS sob a rubrica "outras receitas", devendo tal grandeza orientar a apuração pela Contadoria, sob pena de concluir indevidamente pela inexistência de valores a restituir.
+As contrarrazões ao recurso especial foram apresentadas pela FAZENDA NACIONAL (fls. 593-598).
+É o relatório.
+Decido.
+O cerne da controvérsia da reside em determinar se o acórdão dos embargos de declaração incorreu em negativa de prestação jurisdicional por não enfrentar, de modo específico, os critérios de conferência dos cálculos  notadamente a utilização da rubrica "outras receitas" versus "receita de revenda de mercadorias"  e a aptidão dos DARFs para comprovação dos recolhimentos.
+Conforme consta no acórdão dos embargos de declaração, o Tribunal Regional consignou (fl. 550):
+ ..  houve determinação expressa para que fossem levados em consideração, no cálculo da contadoria, os documentos juntados aos autos, incluindo-se aí os referidos DARF"s, além do título judicial formado no processo de conhecimento e dos argumentos ventilados pela União Federal, conforme bem consignado neste acórdão embargado. Considerando que a prova pericial é uma prova técnica, elaborada por um especialista, cujas conclusões, in casu, não foram elididas pela parte, a alegação de que os documentos relativos às DARF"s não foram considerados não tem o condão de configurar a existência de omissão no acórdão embargado.
+Observa-se que a Corte a quo enfrentou expressamente os temas referentes à consideração das guias DARF e à metodologia de cálculo da Contadoria Judicial no julgamento dos embargos de declaração (fls. 549-550).
+Ressalto que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+Aliás, consoante pacífica jurisprudência das Cortes de Vértice, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+Como se sabe, " a  omissão somente será considerada quando a questão seja de tal forma relevante que deva o julgador se pronunciar" (AgInt nos EDcl no REsp n. 2.124.369/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Com efeito, " n ão configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia" (AgInt no AREsp n. 2.448.701/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024; sem grifos no original).
+Vale dizer: "o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão" (AgInt no REsp n. 2.018.125/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2024, DJe de 12/9/2024).
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 500), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO JUDICIAL. OMISSÃO. OFENSA AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. RECURSO ESPECIAL DESPROVIDO.
