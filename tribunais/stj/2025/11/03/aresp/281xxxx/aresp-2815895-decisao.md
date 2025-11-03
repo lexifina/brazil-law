@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MORABEM BARRO VERMELHO - EMPREENDIMENTOS IMOBILIARIOS LTDA e OUTROS, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a", "b" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Rio Grande do Norte, assim ementado (fl. 717):
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO, ARGUIDA EM CONTRARRAZÕES: AFRONTA AO PRINCÍPIO DA DIALETICIDADE. VÍCIO INEXISTENTE. REJEIÇÃO. MÉRITO. SENTENÇA DE PROCEDÊNCIA. AÇÃO ORDINÁRIA (ANULATÓRIA DE DÉBITO TRIBUTÁRIO). IPTU. EDIFICAÇÃO CONCLUÍDA NO EXERCÍCIO FISCAL. LANÇAMENTO COMPLEMENTAR. POSSIBILIDADE. ARTIGO 20 DO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE NATAL. REFORMA DA SENTENÇA. CONHECIMENTO E PROVIMENTO DO RECURSO. HONORÁRIOS RECURSAIS.
+Não houve oposição de embargos declaratórios.
+Em seu recurso especial de fls. 724-744, a parte recorrente sustenta que o artigo 20 do Código Tributário do Município de Natal contraria dispositivos do Código Tributário Nacional, ao autorizar a revisão do lançamento tributário em situações não contempladas pelo artigo 149 da norma federal, o que configuraria possível duplicidade de cobrança ou bis in idem, em descompasso com o artigo 144 do referido diploma legal.
+Nessa linha, a parte alega que "ao manter válido os lançamentos questionados com fundamento no art. 20 do Código Tributário do Município de Natal, o v. Acórdão recorrido ofendeu os arts. 144 e 149 do CTN (inciso "a") e julgou válida lei local contestada em face de lei federal (inciso "b")." (fl. 730)
+Além disso, a respeito da divergência jurisprudencial, a parte agravante aponta divergência de interpretação quanto ao artigo 149 da Norma Tributária Nacional, acerca da possibilidade de revisão do lançamento do crédito tributário fora das hipóteses do mencionado dispositivo legal.
+O Tribunal de origem, às fls. 762-767, não admitiu o recurso especial sob os seguintes fundamentos:
+Sem delongas, é sabido e ressabido que para que o recurso especial seja admitido é imperioso o atendimento dos pressupostos genéricos - intrínsecos e extrínsecos -, comuns a todos os recursos, bem como daqueloutros, os específicos, cumulativos e alternativos, previstos no art. 105, III, da Constituição Federal de 1988.
+Sob esse viés, em que pese a irresignação recursal tenha sido apresentada tempestivamente, em face de decisão proferida em última instância por este Tribunal de Justiça, o que traduz o exaurimento das vias ordinárias, além de preencher os demais pressupostos genéricos ao seu conhecimento, o recurso não pode ser admitido.
+E digo isso porque, ao analisar a aplicabilidade dos artigos tidos por violados (144 e 149 do CTN), verifico que a decisão recorrida foi proferida com base em interpretação da legislação local (Código Tributário Municipal), conforme excerto:
+"Os recorridos sustentam, em suma, que a ilegitimidade do lançamento efetuado pelo município por ser tratar de uma revisão tributária não abarcada pelas hipóteses legais, ferindo o princípio da capacidade contributiva e as disposições dos arts. 144 e 149 do Código Tributário Nacional.
+O Município recorrido esclareceu que, apesar de já ter efetuado o lançamento do IPTU, constatou que houve o término da obra durante o exercício de 2018.
+Sobre o tema, o artigo 20 do Código Tributário de Natal dispõe que, havendo conclusão de edificação durante o exercício fiscal, o imposto é devido a partir da data do despacho que conceder o "habite-se", ou do mês seguinte ao de sua efetiva ocupação, se anterior, vejamos:
+Art. 20 - Considera-se ocorrido o fato gerador a primeiro (1º) de janeiro de cada ano, ressalvados os prédios construídos durante o exercício, cujo fato gerador, da parte construída, ocorre, inicialmente, na data da concessão do habite-se ou de sua efetiva ocupação, se anterior.
+Nestes termos, dos dispositivos do Código Tributário do Município de Natal supracitado, observa-se que o IPTU, no caso de conclusão de imóvel no curso do exercício fiscal, poderia ser cobrado através de lançamento complementar, não havendo que se falar em bis in idem ou sequer da aplicação do disposto nos artigos 144 e 149 do Código Tributário Nacional.
+No sentido do que vem sendo discutido nos autos, transcrevo os seguintes julgados deste Tribunal de Justiça, com as devidas adaptações: .. "
+Desta feita, resta inviável a análise da pretensão recursal, ante o óbice da Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário"), aplicada por analogia no caso do recurso especial:
+(..)
+Ante o exposto, INADMITO o recurso especial, em virtude da incidência da Súmula 280/STF, por analogia. (grifei)
+Em seu agravo, às fls. 768-774, a parte agravante argumenta que "a matéria envolta da presente lide não se consubstancia em ofensa a direito local, mas, na contramão disso, em ofensa à Lei Federal ocasionada por direito local". (fl. 772)
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a parte agravante não contestou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se na incidência do enunciado nº 280 da Súmula do STF, por analogia, em razão da impossibilidade de análise de legislação local na órbita do recurso especial.
+Todavia, no seu agravo, a parte não refutou suficientemente o aludido fundamento, o qual, à míngua de impugnação específica e pormenorizada, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Dessa forma, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte recorrente fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de ju stiça.
+Publique-se.
+Intime-se.
+EMENTA
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, P. Ú, I, DO RISTJ. AGRAVO NÃO CONHECIDO.
