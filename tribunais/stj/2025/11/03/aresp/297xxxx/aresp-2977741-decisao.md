@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL da decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação/Remessa Necessária n. 0004043-92.2017.4.01.3306, assim ementado (fls. 231-232):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. SALÁRIO-MATERNIDADE. TRABALHADORA INDÍGENA. EXERCÍCIO DE ATIVIDADE POR MENOR DE 16 ANOS. VINCULAÇÃO AO RGPS COMO SEGURADA ESPECIAL. POSSIBILIDADE. VEDAÇÃO CONSTITUCIONAL AO TRABALHO DO MENOR. NORMA PROTETIVA QUE NÃO PODE SER I NTERPRETADA EM SEU DESFAVOR. COMPROVAÇÃO DA ATIVIDADE RURAL. EXIGÊNCIA DE INÍCIO RAZOÁVEL DE PROVA MATERIAL, CORROBORADO POR PROVA TESTEMUNHAL. ART. 55, §3º, DA LEI N. 8.213/91 E ART. 93, §2º, DO DECRETO N. 3.048/99. CERTIDÃO EXPEDIDA PELA FUNAI. NÃO CONFIGURAÇÃO DE PROVA PLENA DA CONDIÇÃO DE SEGURADA ESPECIAL. APELAÇÕES DO INSS E DO MPF E REMESSA OFICIAL DESPROVIDAS.
+1. Sentença proferida na vigência do CPC/2015 e sujeita ao reexame necessário, por força da aplicação analógica do disposto no art. 19 da Lei n. 4.717/65.
+2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o art. 7º, XXXIII, da CF/88, não pode ser interpretado em prejuízo da criança ou adolescente, dado que a regra constitucional foi instituída para a proteção e defesa do menor de 14 (quatorze) anos, não podendo ser utilizada para privá-los dos seus direitos. Nesse sentido: RE n. 600616 AgR, Relator Min. ROBERTO BARROSO; RE n. 1.061.044, Relator Min. Luiz Fux; RE n. 953.372, Relator Min. Alexandre de Moraes; RE n. 920.290, Relator Min. Teori Zavascki; RE n. 920.686, Relator Min. Dias Toffoli; e RE n. 1192837, Relator Min. Roberto Barroso.
+3. Igual entendimento é perfilhado pela jurisprudência do e. STJ, no mesmo sentido de que a intenção do legislador, ao estabelecer proibição do trabalho para os menores de 14 (quatorze) anos, foi o de ampará-lo e de evitar a sua exploração, de modo que não se pode admitir a privação da sua filiação ao RGPS apenas por não ter implementado o requisito etário, aplicando-se o princípio da universalidade da cobertura da Seguridade Social (REsp n. 1440024/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/08/2015, DJe 28/08/2015).
+4. Portanto, deve ser mantida a sentença que determinou ao INSS que se abstenha de indeferir, por motivo de idade ou com este relacionado, os requerimentos de benefícios de salário-maternidade formulados pelas seguradas indígenas abrangidas na área de competência da Subseção Judiciária de Paulo Afonso - BA.
+5. Para o reconhecimento do exercício de atividade rural exige-se o início razoável de prova documental, desde que corroborado por robusta prova testemunhal, conforme previsão do art. 55, §3º, da Lei n. 8.213/91. Do mesmo modo, assim dispõe o art. 93, §2º, do Decreto n. 3.048/99: "o salário-maternidade é devido às seguradas, desde que comprovem o exercício de atividade rural, mediante início de prova material e a corroboração dessa prova indiciária por robusta prova testemunhal, ainda que de forma descontínua, nos 10 (dez) meses imediatamente anteriores à data do parto ou do requerimento do benefício, quando requerido antes do parto, mesmo que de forma descontínua".
+6. A despeito da situação peculiar que deve ser considerada em relação às pessoas de etnia indígena, à luz dos preceitos constitucionais que asseguram o respeito aos costumes das populações tradicionais, não se pode simplesmente afastar a aplicação dos preceitos da legislação previdenciária, que estabelecem critérios para a comprovação da qualidade de segurado especial do trabalhador rural.
+7. Para a comprovação da qualidade de segurada especial das mulheres indígenas pode-se utilizar a certidão expedida pela FUNAI, atestando a condição de trabalhadora rural, não como prova plena da condição de rurícola, mas sim como o início razoável de prova material contemplado pela legislação previdenciária, que poderá ensejar o direito à concessão do benefício previdenciário se esse início indiciário de prova for corroborado por robusta prova testemunhal. Nesse sentido tem-se pautado a jurisprudência desta Corte sobre a matéria, entre outros: AC 1009998-14.2022.4.01.9999, DESEMBARGADOR FEDERAL MARCELO VELASCO NASCIMENTO ALBERNAZ, TRF1 - PRIMEIRA TURMA, PJe 30/08/2023; AC 1007636-39.2022.4.01.9999, DESEMBARGADOR FEDERAL GUSTAVO SOARES AMORIM, TRF1 - PRIMEIRA TURMA, PJe 18/08/2022.)
+8. A certidão expedida pela FUNAI não tem sido reconhecida pela jurisprudência desta Corte como prova plena para a comprovação do desempenho de atividade rural por mulheres indígenas, para fins de concessão de benefício previdenciário, razão por que não merece censura a sentença recorrida também nesse ponto.
+9. Apelações do INSS e do MPF e remessa oficial desprovidas.
+Dessa decisão foram opostos embargos de declaração, os quais ficaram rejeitados pelo Tribunal de origem (fl. 272):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. REJEIÇÃO.
+1. Os embargos de declaração somente são cabíveis, na forma do art. 1.022 do Código de Processo Civil, quando incorrer o acórdão em omissão, contradição ou obscuridade, ou, ainda, para corrigir erro material.
+2. Inexistência, no acórdão embargado, de qualquer dos vícios apontados.
+3. Embargos de declaração rejeitados.
+O Ministério Público Federal apresentou parecer às fls. 356-360, opinando pelo conhecimento do agravo, a fim de que seja dado provimento ao recurso especial.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, comprovação do desempenho de atividade rural, por mulheres indígenas, para fins de concessão de benefício previdenciário, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial.
+(AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt -Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 7 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
