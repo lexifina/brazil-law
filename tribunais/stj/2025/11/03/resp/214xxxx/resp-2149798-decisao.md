@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALE S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 1250):
+"APELAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TERMO DE AJUSTAMENTO DE CONDUTA. BARRAGEM DE BRUMADINHO. EXTINÇÃO POR ILEGITIMIDADE E FALTA DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE DO CRÉDITO. IRRESIGNAÇÃO DA EXEQUENTE. REQUISITOS OBJETIVOS PARA A PROPOSITURA DA EXECUÇÃO COMPROVADOS. RESIDÊNCIA NO LOCAL DA TRAGÉDIA E LAUDO MÉDICO COMPROVANDO OS DANOS. TAC QUE SE ENQUADRA COMO TÍTULO EXECUTIVO EXTRAJUDICIAL, NOS TERMOS DO ARTIGO 784, IV DO CPC/15, COMO PREVISTO NA CLÁUSULA 16.4. PROSSEGUIMENTO DA EXECUÇÃO. REFORMA DA SENTENÇA. PROVIMENTO DO RECURSO."
+Os embargos de declaração foram rejeitados (e-STJ, fls. 930-933).
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) arts. 141, 489, II e IV, e 1.022, I e II, do Código de Processo Civil, pois teria havido negativa de prestação jurisdicional e omissão no exame da tese de inexigibilidade do título, o que teria impedido o enfrentamento adequado das questões essenciais ao deslinde da causa;
+(ii) arts. 7º, 9º e 10 do Código de Processo Civil, porque teria sido violado o contraditório e a não surpresa, resultando em cerceamento de defesa, ao reconhecer-se a elegibilidade da exequente com base em laudo unilateral e sem oportunizar a produção probatória adequada;
+(iii) arts. 17, 783, 786, caput, 803, II, e 917, I, do Código de Processo Civil, porquanto a via executiva seria inadequada e o título invocado não ostentaria certeza, liquidez e exigibilidade, ausente prova de descumprimento prévio e demandando dilação probatória incompatível com execução; e
+(iv) art. 5º, § 6º, da Lei 7.347/1985, pois somente os órgãos públicos legitimados poderiam executar o termo firmado (TAC/TC), de modo que a exequente seria parte ilegítima para promover execução individual de obrigação ali ajustada, sem integrar a relação jurídica do compromisso.
+Não foram ofertadas contrarrazões, conforme certidão de fl. 1249 (e-STJ).
+É o relatório. Decido.
+Com efeito, da leitura do acórdão da apelação e dos embargos de declaração, constata-se que a eg. Corte de origem se manteve inerte no exame das questões apresentadas nos embargos de declaração referente a tese sobre a violação ao contraditório e a não surpresa, resultando em cerceamento de defesa, ao reconhecer-se a elegibilidade da exequente com base em laudo unilateral e sem oportunizar a produção probatória adequada.
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar, fundamentadamente, sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência do art. 1.022 do Código de Processo Civil/2015, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente. Confira-se, por oportuno, o seguinte precedente:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. OMISSÃO A RESPEITO DA MULTA PROCESSUAL. CONSTATAÇÃO. INAPLICABILIDADE DA MULTA DO ART. 1.021, § 4º, DO CPC. MANIFESTA IMPROCEDÊNCIA OU INADMISSIBILIDADE DO RECURSO. NÃO DEMONSTRAÇÃO. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. A constatação de omissão no julgado impõe o acolhimento dos embargos declaratórios para correção do vício.
+3. Para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, não basta o mero desprovimento do agravo interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar a aplicação do referido dispositivo.
+4. Embargos de declaração acolhidos para sanar a omissão apontada."
+(EDcl no AgInt no AR Esp n. 1.335.043/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, D Je de 9/3/2023 - sem grifo no original).
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, ante a omissão da colenda Corte de origem em examinar fundamentadamente as questões suscitadas.
+Outrossim, mister acrescentar que, em razão do reconhecimento da preliminar de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões articuladas nas razões recursais.
+Ante o exposto, dou parcial provimento ao recurso especial para determinar a remessa dos autos ao eg. Tribunal de origem para que novamente aprecie as razões recursais, com exame dos pontos alegados em embargos de declaração.
+Publique-se.
+EMENTA
