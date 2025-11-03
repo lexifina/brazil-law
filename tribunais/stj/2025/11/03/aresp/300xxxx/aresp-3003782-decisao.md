@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por LEONARDO ALEXANDER PEREIRA contra decisão de fls. 675-678, que inadmitiu o recurso especial com fundamento na incidência das Súmulas 7 e 83 do STJ e na consonância do acórdão recorrido com a jurisprudência desta Corte Superior.
+O recorrente foi condenado pelo juízo de primeiro grau como incurso no art. 157, § 2º, I, do Código Penal (redação anterior à Lei nº 13.654/2018), à pena de 8 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, além de 150 dias-multa. Interposta apelação pela defesa, o Tribunal de origem deu parcial provimento apenas para reduzir as penas, mantendo a condenação e o regime inicial fechado.
+No recurso especial, sustenta-se violação dos arts. 226 e 386, V, do Código de Processo Penal, aduzindo nulidade do reconhecimento pessoal realizado em desconformidade com o art. 226 do CPP e insuficiência de provas idôneas para sustentar a condenação, por se apoiar exclusivamente em reconhecimento irregular e palavra da vítima.
+No agravo em recurso especial, a parte sustenta que não incidem os óbices das Súmulas 7 e 83 do STJ, por versar o recurso especial sobre matéria de direito assentada em premissas fáticas incontroversas delineadas no acórdão recorrido, e que há divergência em relação à jurisprudência desta Corte quanto à observância das formalidades do art. 226 do CPP e à suficiência probatória para a condenação.
+A contraminuta foi apresentada (fls. 702-705).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo conhecimento do agravo para que não seja conhecido o recurso especial, conforme a ementa a seguir (fls. 725-729):
+"AGRAVO EM RECURSO ESPECIAL. ARTIGO 105, INCISO III, ALÍNEA "A", DA CRFB/1988. DIREITO PROCESSUAL PENAL. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. PROVIDÊNCIA VEDADA. ENUNCIADO N. 7 DA SÚMULA DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESSE TRIBUNAL SUPERIOR. ENUNCIADO N. 83 DA SÚMULA DO STJ. APLICAÇÃO ÀS ALÍNEAS "A" E "C" DO INCISO III DO ARTIGO 105 DA CRFB/1988. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL, COMO CUSTOS IURIS, PELO CONHECIMENTO DO PRESENTE AGRAVO, PARA QUE NÃO SEJA CONHECIDO O RECURSO ESPECIAL."
+É o relatório.
+Decido.
+O agravo é tempestivo e infirma as razões da decisão impugnada.
+Passo à análise do recurso especial.
+O recorrente suscita a nulidade do reconhecimento pessoal realizado em desconformidade com o art. 226 do CPP, aduzindo não haver provas idôneas para sustentar a condenação, por se apoiar exclusivamente em reconhecimento irregular e palavra da vítima.
+Todavia, como se extrai dos autos, o reconhecimento do recorrente não se deu por mero apontamento de características de indivíduo desconhecido, mas por verdadeira identificação de pessoa anteriormente já conhecida pela vítima.
+O Tribunal de origem fundamentou o acórdão no seguinte sentido (fl. 629):
+ ..  Nesse ponto, conquanto não tenham sido observadas todas as formalidades previstas no artigo 226 do CPP para o reconhecimento do réu na fase extrajudicial, tal fato, per se, não tem o condão de absolvê- lo, como pretende a combativa defesa, sobretudo porque, como visto, a vítima J. D. S., em suas declarações judiciais (P Je Mídias), confirmou que ele foi o autor do crime, tendo o reconhecido na delegacia.
+Ademais, na fase inquisitorial, a vítima G. C. L. T. S. forneceu as características do acusado, tendo ambas as ofendidas afirmado, em Juízo, que o réu já era conhecido, pois perpetrou diversos roubos nos estabelecimentos, estando sempre com o rosto descoberto.  ..
+Aduziu, ainda (fl. 627):
+Em Juízo (PJe Mídias), referida ofendida disse que estava trabalhando no local dos fatos quando chegou uma senhora, tendo o réu chegado logo em seguida, armado. Afirmou que ele abraçou a senhora, fez a ofendida abrir a porta, colocou as duas no escritório, determinou que ela abrisse os cofres em que havia dinheiro e mercadorias da lotérica e que elas ficassem no local até ele recolher tudo e ir embora, tendo ele levado todas as mercadorias e o dinheiro. Alegou que reconheceu o réu na delegacia por fotografia e que ele já era conhecido, pois no ano de 2005, ele perpetrou roubos na lotérica ao longo do ano, quase todos meses. Asseverou que ele não encostou a arma nelas, mas que ficou falando, com a arma na mão. Garantiu que o rosto dele ainda é muito visível em sua memória. Confirmou, em Juízo, o reconhecimento feito na fase extrajudicial.
+A proprietária do estabelecimento onde os fatos ocorreram disse que o réu, durante quase um ano, promoveu aproximadamente dez roubos em suas duas casas lotéricas. Disse que sua empregada J. D. S., quando via o réu na fila, já começava a tremer, sendo que ele ia sempre sem máscara. Confirmou ter repassado as características físicas do réu e o reconhecido, por fotografia, na delegacia.
+Como se vê, ainda que se alegue não ter o reconhecimento pessoal seguido todas as regras dispostas no art. 226 do CPP, percebe-se pelos depoimentos da vítima (extrajudicial e judicial) que o recorrente já era pessoa conhecida da depoente por já haver cometido o delito por diversas outras vezes nos mesmos locais.
+Com efeito, no julgamento do Tema Repetitivo n. 1258, esta egrégia Corte fixou a tese de n. 6, que assim aduz: "Desnecessário realizar o procedimento formal de reconhecimento de pessoas, previsto no art. 226 do CPP, quando não se tratar de apontamento de indivíduo desconhecido com base na memória visual de suas características físicas percebidas no momento do crime, mas, sim, de mera identificação de pessoa que o depoente já conhecia anteriormente."
+Nesse sentido, verificando-se ser justamente o caso dos autos, no qual o recorrente foi pessoalmente identificado por já ser pessoa conhecida das depoentes, não há falar em nulidade em razão de irregularidade do reconhecimento pessoal disposto no art. 226 do CPP.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. NULIDADE DO INQUÉRITO POLICIAL. AUSÊNCIA DE PERÍCIA NO LOCAL DOS FATOS. INEXISTÊNCIA DE OBRIGATORIEDADE LEGAL. RECONHECIMENTO PESSOAL. PRESENÇA DE OUTROS ELEMENTOS PROBATÓRIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO. I. CASO EM EXAME
+ ..
+5. A jurisprudência desta Corte evoluiu para conferir maior rigidez ao procedimento de reconhecimento pessoal previsto no art. 226 do CPP, mas a inobservância das formalidades legais não implica a nulidade automática, desde que existam outros elementos probatórios que corroborem a identificação do acusado.
+6. No caso concreto, a vítima já conhecia o recorrente, tendo mantido contato anterior devido a disputas fundiárias. O reconhecimento pessoal, portanto, constitui apenas mais um elemento dentro de um conjunto probatório amplo, que inclui depoimentos firmes e coerentes da vítima e demais testemunhas.
+7. Alegações de fragilidade da prova pericial não se sustentam, pois os laudos técnicos classificaram corretamente as lesões sofridas pela vítima. Divergências quanto ao estado das vestes da vítima não influenciam a materialidade do crime.
+8. O exame aprofundado dos depoimentos testemunhais e da tese de álibi do recorrente demandaria reexame do conjunto fático-probatório, providência vedada nesta instância especial nos termos da Súmula 7/STJ.
+ ..
+(AgRg no AREsp n. 2.771.702/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2025, DJEN de 18/3/2025.)
+Incide, pois, a Súmula 83/STJ.
+Por fim, insta observar que a reavaliação da autoria, desconstituindo as conclusões assentadas pelas instâncias ordinárias, demandaria revolvimento f ático-probatório, fato que esbarraria no óbice da Súmula 7 deste egrégio STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
