@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por INFINITY COMÉRCIO DE EQUIPAMENTOS DE INFORMÁTICA LTDA, em face da decisão singular de fls. 2377/2380 (e-STJ), que, amparada nas Súmulas 07 do STJ e 284 do STF, não conheceu do recurso especial interposto pelo Banco Bradesco S/A.
+Em suas razões (fls. 2385/2391, e-STJ), a embargante alega omissão quando a fixação dos honorários recursais e, ainda, quanto ao levantamento do depósito realizado no ajuizamento da ação rescisória.
+Impugnação apresentada às fls. 2395/2405 (e-STJ).
+É o breve relatório.
+Decido.
+Os aclaratórios merecem parcial acolhimento.
+1. Na hipótese, verifica-se que não houve o pronunciamento acerca da majoração dos honorários sucumbenciais recursais na decisão unipessoal.
+Conforme assentado pela Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, para fins de arbitramento de honorários advocatícios recursais, previstos art. 85, § 11, do NCPC, é necessário o preenchimento cumulativo dos seguintes requisitos: a) deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; b) o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; c) a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; d) não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; e) não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; f) não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba (AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017).
+Na hipótese, conforme se verifica no acórdão estadual, houve a fixação de honorários na razão de 10% do valor da causa, desta forma, a verba honorária, para não ultrapassar o máximo legal, deve ser majorada em 10% (dez por cento).
+2. Por fim, o pedido de levantamento do depósito não tem cabimento, uma vez que o pedido deve ser feito na Corte Estadual que julgou originariamente a ação rescisória.
+3. Ante o exposto, acolho parcialmente os embargos de declaração, apenas para fixar, nos termos da fundamentação acima, os honorários recursais.
+Publique-se. Intimem-se.
+EMENTA
