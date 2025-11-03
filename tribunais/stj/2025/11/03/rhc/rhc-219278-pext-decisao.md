@@ -1,0 +1,15 @@
+DECISÃO
+ERIKA JULIANA OLIVEIRA DA COSTA, com fundamento no artigo 580 do Código de Processo Penal, busca a extensão, para si, dos efeitos da decisão de fls. 151-159, em que dei provimento ao recurso em habeas corpus impetrado pelo corréu SAMUEL ALBUQUERQUE PESSANO, para trancar a Ação Penal n. 5014413-20.2024.8.21.0037, em trâmite na 1ª Vara Criminal da Comarca de Uruguaiana - RS.
+A defesa alega, em síntese, identidade de situação fático-processual com o corréu, já que não houve a apreensão de droga. Requer, também em relação à ERIKA JULIANA, o trancamento do processo em relação ao crime de tráfico.
+Decido.
+O art. 580 do Código de Processo Penal permite a extensão de decisões benéficas a corréus em idêntica situação processual, desde que não se fundamentem em motivos de caráter exclusivamente pessoal.
+A requerente e o recorrente SAMUEL são réus na Ação Penal n. 5014413-20.2024.8.21.0037, em trâmite na 1ª Vara Criminal da Comarca de Uruguaiana - RS.
+A decisão paradigma concedeu a ordem para trancar a Ação Penal n. 5014413-20.2024.8.21.0037, em trâmite na 1ª Vara Criminal da Comarca de Uruguaiana/RS, exclusivamente no que tange à imputação do crime previsto no art. 33, caput, da Lei n. 11.343/2006, por ausência de justa causa (materialidade delitiva), mantendo-se a persecução penal quanto ao delito do art. 35 da mesma Lei.
+A decisão que beneficiou o corréu não se fundamentou em circunstâncias de caráter exclusivamente pessoal, mas sim em um critério objetivo - o de ausência de justa causa, ante a não apreensão de entorpecentes (pressuposto da materialidade delitiva) -, que se aplica igualmente à requerente.
+Portanto, considerando que a denúncia, também em relação a ERIKA JULIANA, se ampara em relatórios de investigação e em interceptações de comunicações que supostamente evidenciam que os denunciados realizavam o "fornecimento, o transporte, o armazenamento, a venda e a guarda de entorpecentes" (fl. 23), não houve a apreensão de nenhuma substância entorpecente, nem em poder da requerente, nem em poder dos corréus ou de terceiros não identificados. Consequentemente, não se tem laudo de constatação da natureza da substância. Assim, não há como subsistir a persecução penal em relação ao delito descrito no art. 33, caput, da Lei n. 11.343/2006, por ausência de justa causa (materialidade delitiva).
+Assim, porque a requerente se encontra em situação fático-jurídica idêntica, impõe-se o acolhimento do pedido extensivo.
+III. Dispositivo
+À vista do exposto, com fundamento no artigo 580 do Código de Processo Penal, defiro o pedido de extensão para trancar a Ação Penal n. 5014413-20.2024.8.21.0037, em trâmite na 1ª Vara Criminal da Comarca de Uruguaiana - RS, em relação a ERIKA JULIANA OLIVEIRA DA COSTA , exclusivamente no que tange à imputação do crime previsto no art. 33, caput , da Lei n. 11.343/2006, por ausência de justa causa (materialidade delitiva), mantendo-se a persecução penal quanto ao delito do art. 35 da mesma Lei.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
