@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, fundado no art. 105, III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às fls. 158-160, a saber:
+O Parquet aponta violação ao art. 619 do CPP, ao argumento de que, mesmo instado por embargos de declaração, o Tribunal de origem deixou de esclarecer por qual motivo os cursos de "Auxiliar de Cozinha" e "Auxiliar de Pedreiro", oferecidos pelo CENED, foram considerados aptos a ensejar a remição de pena pelo estudo, mesmo não havendo documentação relativa à certificação específica dos referidos cursos junto à autoridade educacional competente, já que a referida escola está credenciada perante o Ministério da Educação e Cultura para oferecer apenas outros cursos.
+Também sustenta que o acórdão recorrido violou o art. 126, § 2º, da LEP, que exige que as atividades de estudo, presenciais ou a distância, sejam "certificadas pelas autoridades educacionais competentes dos cursos frequentados". Afirma que, apesar de a instituição CENED ser credenciada pelo MEC para ofertar cursos técnicos em Secretaria Escolar e Transações Imobiliárias, os cursos de "Auxiliar de Cozinha" e "Auxiliar de Pedreiro" não integram o rol de cursos credenciados junto ao MEC. E conclui que o acórdão recorrido, ao considerar dispensável o credenciamento do curso específico, violou o referido dispositivo legal.
+Requer o provimento do recurso especial "para afastar a remição da pena concedida ao Recorrido, uma vez que não preenchidos os requisitos legais" (fl. 111).
+Apresentadas as contrarrazões, o recurso foi admitido na origem (fls. 142/144).
+Ao final, o Ministério Público Federal opinou pelo "provimento do recurso especial para reconhecer a omissão no acórdão proferido nos embargos de declaração, determinando-se que o Tribunal de origem proceda a novo julgamento, com a análise expressa da questão suscitada pelo Parquet estadual, restando prejudicada a análise do pedido de afastamento da remição de pena concedida ao ora recorrido" (fl. 160).
+É o relatório.
+Decido.
+No caso em exame, o recurso especial manejado aponta violação ao art. 619 do Código de Processo Penal.
+O reconhecimento de violação do art. 619 do Código de Processo Penal pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade que tragam prejuízo à parte.
+A assertiva, no entanto, não pode ser confundida com o mero inconformismo com a conclusão alcançada pelo Tribunal a quo, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+No caso em exame, o recorrente opôs embargos de declaração em face do acórdão recorrido, sustentando que não foi abordado diretamente se os cursos específicos de "Auxiliar de Cozinha" e "Auxiliar de Pedreiro", realizados pelo apenado, são individualmente credenciados pelo MEC. Tal circunstância implicaria o reconhecimento do descumprimento do disposto no art. 126, § 2º, da Lei de Execução Penal, o que obstaria remição da pena pelo estudo, segundo aponta o recorrente.
+Todavia, os aclaratórios foram rejeitados, sob o fundamento de que inexiste qualquer omissão no julgado (fls. 82-84).
+Assiste razão ao Ministério Público Federal quando destaca que, "tendo persistido a omissão quanto à análise da questão oportunamente suscitada pelo Ministério Público nas razões do agravo em execução, relevante para o correto julgamento do feito, resta configurada a ofensa ao art. 619 do Código de Processo Penal, a ensejar a nulidade do acórdão recorrido." (fl. 160).
+A jurisprudência desta Corte estabelece que a omissão relevante não sanada em embargos de declaração, que deixa de apreciar documentos e argumentos cruciais para a solução da controvérsia, configura violação do art. 619 do CPP, ensejando a anulação do julgamento dos embargos e o retorno dos autos ao Tribunal de origem para novo julgamento.
+Assim, verifico que a questão invocada pelo recorrente, no recurso aventado e nos embargos de declaração, que não foi apreciada a contento pelo órgão julgador no momento oportuno, necessita de apreciação pelo Tribunal de origem.
+Dessa forma, impõem-se a anulação do julgamento dos embargos de declaração e o retorno dos autos para que a Corte a quo se manifeste acerca da omissão apontada, em virtude da negativa de prestação jurisdicional .
+Ante o exposto, confiro provimento ao recurso especial, no sentido de anular o julgamento dos embargos de declaração e determinar que outro seja proferido pelo Tribunal de origem, com a apreciação da matéria suscitada pelo Parquet Estadual.
+Publique-se.
+Intimem-se.
+EMENTA
