@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Habeas Corpus, com pedido de liminar, impetrado em favor de SAMUEL MODESTO DOS SANTOS, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, no julgamento do recurso em sentido estrito n. 000531-95.2025.8.16.0129.
+Consta da impetração que o paciente está preso preventivamente e foi pronunciado como incurso no art. 121, § 2º, I e III, c/c o art. 14, II, ambos do Código Penal, por duas vezes. Inconformada, a defesa interpôs recurso em sentido estrito perante o Tribunal de origem que, por unanimidade, negou-lhe provimento.
+No presente writ, a defesa alega a ocorrência de constrangimento ilegal, pois não se conheceu do Recurso em Sentido Estrito interposto por suposta violação do princípio da dialeticidade, o que prejudica a liberdade de locomoção do paciente.
+Aduz que a não apreciação do mérito recursal prejudica a defesa do paciente e que o princípio da dialeticidade não deve ser óbice ao conhecimento do recurso, devendo ser relativizado para prevalecer o duplo grau de jurisdição, a ampla defesa e a presunção de inocência.
+Requer, assim, a concessão da ordem para que o Tribunal de Justiça do Estado do Paraná conheça do Recurso em Sentido Estrito e pronuncie-se sobre o mérito arguido pela defesa do réu Samuel.
+O pedido liminar foi indeferido às fls. 151-152.
+Informações prestadas às fls. 155-161 e 169-186.
+O Ministério Público Federal, às fls. 188-193, manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, a, da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+Pois bem, colhe-se do ato coator (fls. 15-16):
+Após exame detalhado das peças jurídicas produzidas no decorrer da instrução, denota-se que o Defensor, ao protocolar as razões de recurso simplesmente, apresentou cópia idêntica(mov. 148.1), de suas alegações finais , com exceção do pedido de revogação da prisão preventiva - que será(mov. 137.1) analisado ao final.
+Bem verdade, o recorrente se restringiu à repetição dos exatos argumentos já exibidos em alegações finais. Assim, deixou de justificar, ainda que de forma genérica, os motivos pelos quais acredita que o mereça reforma, total ou parcialmente.
+Da leitura das razões recursais, verifica-se que não houve crítica específica à sentença, não tendo a defesa dispensado o mínimo esforço para impugnar os fundamentos da decisão recorrida com os quais discorda. O que há, na realidade, é a mera cópia dos argumentos utilizados em sede de alegações finais. Por ocasião da sentença de pronúncia, o d. Magistrado já tratou dos temas ora levantados ema quo sede de recurso em sentido estrito, bem demonstrando os fundamentos da sua decisão, para o fim de pronunciar o acusado a julgamento pelo Tribunal do Júri.
+Assim, faz-se necessário reconhecer a flagrante violação ao princípio da dialeticidade.
+Como se sabe, na esfera processual penal, o princípio da dialeticidade atribui à parte irresignada o ônus de demonstrar, detalhadamente, quais são e porque os fundamentos da decisão combatida exigem reforma.
+Nesse sentido, o referido princípio, inerente à admissibilidade recursal, impõe limites ao efeito devolutivo do recurso. Frisa-se que o mero inconformismo não é fator suficiente ao seu conhecimento, pois se exige que o recorrente demonstre a presença de "error in procedendo" ou "error in judicando" por parte do Juízo de Origem.
+Todavia, conforme observado, inexiste na peça recursal a indicação de sequer uma linha argumentativa pautada na existência de qualquer equívoco na fundamentação da r. decisão de pronúncia proferida pelo Magistrado Singular, o qual, amparado nos elementos probatórios dos autos, rejeitou as teses defensivas.
+Importante destacar que a simples reprodução da peça de alegações finais, em recurso, impossibilita não somente a análise da insatisfação do recorrente por este C. Órgão Colegiado, bem como pela parte recorrida em sede de contrarrazões, circunstância que impede o efetivo exercício do contraditório em segundo grau de jurisdição.
+O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas na decisão atacada, sob pena de não conhecimento do recurso. Deveras, segundo a jurisprudência desta Corte, é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne todos os fundamentos da decisão que pretende seja reformada (ERESP N. 746.775/PR, relator Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luiz Felipe Salomão, C. E., DJe 30/11/2018).
+Observa-se, do exame do acórdão impugnado, que não há violação ao princípio da dialeticidade, diversamente do que sustenta a impetrante, mesmo porque, conforme assentou aquela Corte de Justiça, na peça recursal não houve qualquer linha argumentativa apontando equívoco na fundamentação da decisão de pronúncia proferida no primeiro grau. Assim, não se identifica qualquer irregularidade a ser sanada na presente via.
+Na hipótese, conforme bem observado pelo Ministério Público Federal, o impetrante pretende, em verdade, a modificação do resultado proferido pelo Tribunal de origem que lhe foi desfavorável, valendo-se do presente writ como sucedâneo de recurso especial (fl. 191).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
