@@ -1,0 +1,33 @@
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. REQUERIMENTO DE EXCLUSÃO DO PROCESSO DA PAUTA DE JULGAMENTO EM AMBIENTE VIRTUAL. RESOLUÇÃO STF N. 642/2019. AUSÊNCIA DE PREJUÍZO AO AGRAVANTE. INDEFERIMENTO.
+
+    Por meio da Petição 156.746/2025-STF, a defesa requer “que o presente feito seja excluído da pauta da sessão de julgamento virtual, tendo em vista a repercussão social da tese jurídica arguida e o seu potencial de uniformização da jurisprudência no tocante ao modo de atuação – e não à criação – do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) do Ministério Público em todo o país” (doc. 118, p. 1).
+
+    Salienta, ainda, que “a tese arguida no presente recurso ordinário está de acordo com os precedentes fixados por essa colenda Suprema Corte na Ação Direta de Inconstitucionalidade (ADI) nº 2.854/DF e na Ação Direta de Inconstitucionalidade (ADI) nº 7.170/RJ, tudo a demonstrar a relevância da matéria discutida” (doc. 118, p. 1).
+
+    Examinado o requerimento, decido.
+
+    Estabelece o art. 4º, da Resolução n. 642/2019, com as alterações promovidas pela Resolução n. 660/2020, que “não serão julgados em ambiente virtual as listas ou os processos com pedido de destaque feito: II - por qualquer das partes, desde que requerido até 48 (quarenta e oito) horas antes do início da sessão e deferido pelo relator”.
+
+    Como se verifica da redação do dispositivo, o requerimento de destaque submete-se à apreciação do Relator, que poderá examinar, em cada caso, eventual demonstração de hipótese que justifique o respectivo deferimento. Nesse sentido, registro o seguinte julgado da minha relatoria:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. PEDIDO DE DESTAQUE PARA JULGAMENTO EM AMBIENTE PRESENCIAL. INEXISTÊNCIA DE COMPLEXIDADE QUE RECOMENDE A RETIRADA DO AMBIENTE VIRTUAL. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL DEFENSIVO. QUESTÕES DE MÉRITO NÃO EXAMINADAS POR AQUELE TRIBUNAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I – O pedido de destaque feito pelas partes, com base no inciso II do art. 4º da Resolução n. 642/2019 desta Suprema Corte, não produz efeitos automaticamente, visto que submetido a deferimento ou indeferimento pelo relator. O caso sob exame não possui a complexidade alegada pelo agravante e que recomendaria o julgamento em ambiente presencial [...]. (HC 230.975 AgR/DF, da minha relatoria, Primeira Turma, DJe 14/9/2023 — grifei).
+
+    Em idêntica compreensão, vide Mandado de Segurança 38.103 AgR-ED/DF, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 10/6/2022.
+
+    No presente caso, não há demonstração de hipótese que justifique a retirada do julgamento do ambiente virtual, incidindo, por consequência, a regra prevista no art. 1º, § 1º, I, da Resolução n. 642/2019, segundo a qual serão julgados preferencialmente em ambiente eletrônico os agravos internos, agravos regimentais e embargos de declaração.
+
+    Além disso, destaco que o Supremo Tribunal Federal já se debruçou sobre a matéria discutida nestes autos, havendo julgados que amparam a solução da controvérsia, que não ostenta a relevância suscitada pelo agravante (art. 1º, § 1º, IV, da Resolução n. 642/2019).
+
+    Registro, ainda, que o julgamento neste ambiente virtual não importa prejuízo à parte, nem ao exercício do seu direito de defesa, inexistindo limitação na análise do processo pelo Supremo Tribunal Federal.
+
+    Posto isso, indefiro o pedido de destaque.
+
+    Publique-se.
+
+    Brasília, 3 de novembro de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
