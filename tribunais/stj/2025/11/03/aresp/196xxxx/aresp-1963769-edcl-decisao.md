@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IBEMA COMPANHIA BRASILEIRA DE PAPEL contra decisão de fls. 4.720/4.727, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar a ele provimento a fim de reconhecer o direito ao creditamento de Imposto sobre Circulação de Mercadorias e Serviços (ICMS) na aquisição de telas, feltros e mantas, e não conhecer das alegadas violações aos arts. 85, § 8º, e 534 do Código de Processo Civil (CPC) por ausência de prequestionamento.
+A parte embargante alega, em resumo, omissão quanto ao direito de escrituração contábil e compensação/restituição; ao pedido de declaração da inexistência de relação jurídico-tributária referente ao ICMS-DIFAL incidente na aquisição de telas, feltros e mantas e, consequentemente, do direito à restituição/compensação desses valores recolhidos indevidamente.
+Impugnação apresentada às fls. 4.756/4.762.
+É o relatório.
+Assiste razão à parte embargante.
+A decisão embargada deu provimento ao recurso especial de IBEMA COMPANHIA BRASILEIRA DE PAPEL para julgar a ação declaratória parcialmente procedente.
+Embora tenha reconhecido o direito da empresa ao creditamento de ICMS relativamente às telas, feltros e mantas consumidos no processo de industrialização, a decisão embargada deixou de examinar o pleito de escrituração contábil e de compensação ou restituição dos respectivos valores, expressamente formulado na petição inicial. Considerando que essa discussão somente se tornou relevante a partir do provimento do recurso especial por esta instância superior, impõe-se o retorno dos autos à instância ordinária, a fim de que o Tribunal a quo examine a matéria remanescente, sob pena de indevida supressão de instância.
+No que tange ao pedido de declaração da inexistência de relação jurídico-tributária referente ao ICMS-DIFAL, colho do acórdão recorrido que o Tribunal de origem afastou o direito da parte autora ao fundamento de que não ficou comprovado, à luz dos fatos e provas dos autos, o efetivo recolhimento de valores a esse título (fls. 4.447/4.448):
+2. Reembolso do DIFAL
+Pede a demandante a restituição dos valores indevidamente pagos, a título de diferencial de alíquotas estaduais do ICMS.
+Mais uma vez sem razão a apelante.
+O art. 155, II, § 2º, VII, da Constituição Federal , prevê a alíquota diferenciada do imposto 3  estadual, para as operações ou prestações que destinem bens e serviços a consumidor final, localizado em Unidade da Federação distinta. Nessa hipótese, cabe ao Estado destinatário, o saldo correspondente à diferença entre sua alíquota interna, e a interestadual.
+Por força do contido no inciso VIII , do dispositivo em comento, o dever de recolhimento do 4  ICMS recai sobre o destinatário, se este for contribuinte do imposto estadual, ou ao remetente, se o recebedor não for contribuinte.
+Ocorre, no entanto, que embora a requerente alegue ter efetuado, indevidamente, o adimplemento do diferencial de alíquota do ICMS, circunstância que, pelo seu entendimento, demandaria a restituição, não há, nos autos, quaisquer elementos que atestem o efetivo pagamento, a este título.
+Especificamente, as informações constantes dos livros e notas fiscais correspondentes aos anos de 2009 a 2013, juntados à peça inaugural, são insuficientes para demonstrar o suposto dispêndio referente à alíquota diferenciada do ICMS, o que é imprescindível para a pretendida declaração de direito ao reembolso.
+A propósito, referida questão foi objeto de análise pela perita técnica, que assinalou não ter encontrado, em nenhum dos documentos escritos apresentados, nada correlacionado ao . efetivo recolhimento do ICMS concernente ao diferencial de alíquota (ref. mov. 93.3)
+Em conclusão, não há, neste apelo, fundamentação apta a justificar fática ou juridicamente, o reembolso almejado, circunstância que, por conseguinte, inviabiliza o pleito de reforma do pronunciamento judicial impugnado, também neste ponto.
+Ante o desprovimento da insurgência recursal quanto às questões de mérito, cumpre examinar o pedido subsidiário.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, acolho parcialmente os embargos de declaração, com efeitos integrativos e modificativos, para sanar omissão e determinar o retorno dos autos à instância ordinária, a fim de que o Tribunal a quo proceda à análise do pedido de escrituração co ntábil e de compensação ou restituição, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
