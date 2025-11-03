@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDIVAN CARLOS DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2321666-76.2025.8.26.0000).
+Extrai-se do relatório da impetração originária que foi apresentado pedido de progressão ao regime semiaberto; então, o juízo da execução determinou a realização de exame criminológico; contudo, o laudo psicológico ainda não foi entregue - STJ fls. 651/652.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem sustentando a ocorrência de constrangimento ilegal por excesso de prazo na entrega do exame criminológico. O pedido liminar foi indeferido (e-STJ fls. 652 e 633). O Tribunal a quo denegou a ordem, em acórdão assim ementado (e-STJ fl. 651):
+HABEAS CORPUS EXECUÇÃO CRIMINAL Impetração visando o reconhecimento de constrangimento ilegal, com o consequente reconhecimento de excesso de prazo para entrega do exame criminológico
+Excesso de prazo inexistente Juízo de origem que vem empreendendo esforços para promover a realização do exame Demora, portanto, não imputável ao judiciário Via heróica que não se presta a ordenar urgência para análise da questão Ordem denegada.
+No presente writ, a defesa relata que foi determinada, após atualização do cálculo de pena e vista às partes, a realização de exame criminológico em 23 de julho de 2025. Ocorre que, passados mais de 120 dias, o exame criminológico foi realizado, mas não foi disponibilizado pelo estabelecimento prisional.
+Sustenta que a morosidade estatal no cumprimento da decisão judicial que determinou a realização de exame criminológico, sem qualquer justificativa plausível que recaia sobre o paciente, configura constrangimento ilegal, violando os princípios da razoável duração do processo (art. 5º, LXXVIII, CF) e da dignidade da pessoa humana.
+Ressalta que o paciente já preenche os requisitos objetivos e subjetivos para a progressão para o regime semiaberto, e o prazo para deliberação sobre o pedido encontra-se ultrapassado desde julho de 2025.
+Diante  disso,  requer,  liminarmente  e  no  mérito,  seja garantido ao paciente o direito de ter seu pedido de livramento condicional apreciado com a máxima urgência.
+É o relatório. Decido.
+As disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/6/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 3/12/2018; AgRg no HC n. 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018; e AgRg no RHC n. 37.622/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n. 45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido ( EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+No que concerne ao conhecimento da impetração, o Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SC, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Do alegado excesso de prazo para realização do exame criminológico
+O Tribunal julgou a questão do seguinte modo - STJ, fls. 653/655:
+A ordem, em nosso entendimento, deve ser denegada.
+ ..
+A uma, o atraso para entrega do laudo faltante não pode ser tomado como excessivo, tampouco irrazoável. Da decisão que determinou a realização do exame, a SAP foi intimada no dia 24/07/2025.
+Já houve entrega de parte dos resultados, motivo pelo qual não há motivo para crer estar havendo desídia por parte da administração penitenciária.
+E a grande demanda para realização de exames permite algum elastecimento do prazo, rememorando a hodierna obrigatoriedade da diligência, o que acentua a nuance.
+A duas, o juízo de origem tem adotado as medidas necessárias para cobrar o cumprimento de sua determinação. Para além da pronta resposta ao pedido defensivo (fls. 293 e 294), houve nova determinação para que a cobrança fosse reiterada (fls. 307).
+ ..
+Pelo exposto, pelo meu voto, DENEGA-SE a ordem de habeas corpus.
+De fato, não visualizo demora excessiva, irrazoável nem injustificável.
+O exame criminológico foi determinado há pouco mais de 3 meses, em 23/7/2025, conforme andamento do processo de execução no site do Tribunal coator, não configurando uma demora excessiva, considerando o grande número de demandas desse tipo.
+E, ainda, ainda conforme esse andamento, o relatório social foi juntado em 16/9/2025. Com isso, foi determinada a realização do laudo psicológico com urgência, e depois, a juntada dele o mais rápido possível, de modo que não se pode falar em desídia da parte do Poder Judiciário.
+Por fim, o mencionado laudo foi juntado na data de hoje, 29/10/2025.
+Assim, não se pode alegar falta de cobrança e de andamento do processo, devendo a defesa aguardar com paciência a oitiva das partes e depois, a decisão relativa ao livramento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE EXCESSO DE PRAZO. CONSTATAÇÃO DE AUSÊNCIA DE DESÍDIA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas, como requisitos legais, o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. Ainda assim, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+3. No caso sob apreciação, o Juízo de primeira instância expôs fundamentação idônea para a determinação de realização de exame criminológico a fim de averiguar o preenchimento do requisito subjetivo para a progressão de regime, pois se pautou em elementos relacionados à gravidade concreta do delito, que consistiu em homicídio qualificado praticado contra o próprio genitor do paciente.
+4. Em relação à tese de excesso de prazo, não se vislumbra manifesta ilegalidade no acórdão impugnado, pois o Tribunal de origem registrou a ausência de desídia do Juízo da execução, destacando que está justificado eventual atraso para a realização do exame criminológico e a consequente análise do benefício pleiteado.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 979.482/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. EXAME PSICOSSOCIAL. EXCESSO DE PRAZO. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado contra a decisão da Primeira Câmara Criminal do Tribunal de Justiça de Mato Grosso que denegou a ordem, não reconhecendo descumprimento na realização de exame criminológico para progressão de regime.
+2. Fato relevante. O paciente está prestes a progredir para o regime semiaberto, mas a Secretaria da 2ª Vara de Execuções Penais de Cuiabá/MT não cumpriu a decisão que determinou a realização de estudo psicossocial e a anexação do atestado de comportamento carcerário.
+3. O Ministério Público Federal opinou pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem, alegando ausência de desídia estatal e constrangimento ilegal não demonstrado.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há excesso de prazo na demora na realização do exame psicossocial necessário para a progressão de regime do paciente, configurando constrangimento ilegal.
+III. Razões de decidir
+5. O princípio da duração razoável do processo exige que os processos tenham andamento em tempo razoável, mas a defesa não demonstrou que a demora na realização do exame criminológico foi irrazoável.
+6. A demora na realização do exame psicossocial foi justificada pelo recesso forense e não se observou atraso exorbitante ou desídia estatal.
+7. A revisão da conclusão da instância local sobre a ausência de demora irrazoável exigiria incursão no acervo fático-probatório, o que não é cabível em habeas corpus.
+IV. Dispositivo e tese
+8. Ordem denegada.
+Tese de julgamento: "1. A demora na realização de exame psicossocial para progressão de regime deve ser justificada e não configurou constrangimento ilegal no caso concreto. 2. A revisão de conclusão sobre demora irrazoável não é cabível em habeas corpus sem incursão no acervo fático-probatório".
+Dispositivos relevantes citados: CF/1988, art. 5º, LXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no HC 854.057/SP, Min. Jesuíno Rissato, Sexta Turma, DJe 22/8/2024.
+(HC n. 980.165/MT, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/5/2025, DJEN de 21/5/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE EXCESSO DE PRAZO. CONSTATAÇÃO DE AUSÊNCIA DE DESÍDIA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas, como requisitos legais, o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. Ainda assim, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+3. No caso sob apreciação, o Juízo de primeira instância expôs fundamentação idônea para a determinação de realização de exame criminológico a fim de averiguar o preenchimento do requisito subjetivo para a progressão de regime, pois se pautou em elementos relacionados à gravidade concreta do delito, que consistiu em homicídio qualificado praticado contra o próprio genitor do paciente.
+4. Em relação à tese de excesso de prazo, não se vislumbra manifesta ilegalidade no acórdão impugnado, pois o Tribunal de origem registrou a ausência de desídia do Juízo da execução, destacando que está justificado eventual atraso para a realização do exame criminológico e a consequente análise do benefício pleiteado.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 979.482/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+Assim, não ficou configurada flagrante ilegalidade, hábil a ocasionar o deferimento, de ofício, da ordem postulada.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
