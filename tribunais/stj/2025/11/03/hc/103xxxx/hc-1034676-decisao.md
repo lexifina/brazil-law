@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONARDO ARRUDA DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0000.24.425820-8/001).
+O paciente foi condenado a 4 anos e 5 meses de reclusão, no regime fechado, além do pagamento de 45 dias-multa, pela prática do delito tipificado no art. 155, § 4º, I, do Código Penal. O Tribunal de Justiça negou provimento ao apelo.
+A defesa sustenta que o aumento, na segunda fase da dosimetria, em patamar superior a 1/6 pela agravante da reincidência ofendeu o princípio da fundamentação das decisões judiciais.
+Requer o redimensionamento da pena.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício (fl. 451):
+HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. CONDENAÇÃO TRANSITADA EM JULGADO. FRAÇÃO DE EXASPERAÇÃO DA AGRAVANTE DA REINCIDÊNCIA. FLAGRANTE ILEGALIDADE.
+1. Habeas corpus impetrado com o objetivo de ver redimensionada a fração de aumento aplicada na pena intermediária pelo crime de furto qualificado pelo rompimento de obstáculo, ao argumento de que a fração de aumento utilizada não teria observado a proporcionalidade e não teria sido precedida de fundamentação idônea.
+2. Não deve ser conhecida a impetração destinada à rescisão de condenação transitada em julgado proferida nas instâncias ordinárias, mas deve ser concedido habeas corpus de ofício quando se constata flagrante ilegalidade na dosimetria da pena.
+3. Caso em que se verifica a presença de flagrante ilegalidade na utilização de fração de aumento da pena intermediária por força da agravante da reincidência, pois não foram observados os critérios de exasperação sugeridos pelo Superior Tribunal de Justiça, tampouco houve a apresentação de fundamentação concreta para aplicação de fração diversa, não se mostrando suficiente a caracterização da reincidência específica.
+4. Pelo não conhecimento da ordem, mas pela concessão de habeas corpus de ofício para que seja redimensionada a fração de aumento da agravante da reincidência, de acordo com os critérios sugeridos pelo Superior Tribunal de Justiça.
+É o relatório.
+Decido.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+Acerca da controvérsia, entendeu o juiz (fl. 26):
+Inexistem atenuantes a serem consideradas. Em face da reincidência, agravo as penas em 01 (um) ano de reclusão e 15 (quinze) dias- multa, resultando em 04 (quatro) anos e 05 (cinco) meses de reclusão e 45 (quarenta e cinco) dias-multa.
+No segundo grau, foi este o voto vencedor (fl. 19):
+Ademais, como se sabe, o quantum de aumento/diminuição relativo à aplicação de agravantes/atenuantes não é previsto em lei, ficando afeto, também, à discricionariedade do juiz, que deverá observar, além das particularidades do caso, os princípios da razoabilidade e da proporcionalidade.
+O patamar de 1/6 (um sexto) é apenas parâmetro sugerido pela jurisprudência, que, de forma alguma, deve vincular o magistrado na fixação das penas.
+No caso em tela, o quantum de aumento aplicado na sentença em relação à agravante da reincidência se mostra absolutamente razoável e proporcional, não merecendo, igualmente, qualquer reparo.
+E este o voto apresentado no julgamento dos embargos infringentes (fl. 69):
+Também não merece ajustes o aumento aplicado na sentença em relação à agravante da reincidência, sobretudo em se tratando de reincidência específica. Vale destacar que o nosso Código Penal não estabelece limites mínimo e máximo de diminuição de pena a serem aplicados em razão de circunstâncias atenuantes e agravantes, cabendo à prudência do magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, como no caso em questão.
+As decisões proferidas pelas instâncias ordinárias contrariam, no tocante ao valor dado à agravante da reincidência, o posicionamento pacífico desta Corte Superior no sentido da aplicação da fração de 1/6, ainda que específico o antecedente, em atenção aos princípios da proporcionalidade e razoabilidade.
+Em outras palavras, sem fundamentação concreta e idônea, a simples reincidência específica não justifica aumento superior a 1/6. Vale conferir o julgado paradigma e a tese firmada no Tema n. 1.172:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PENAL. TEMA N. 1172. ART. 61, I, DO CÓDIGO PENAL - CP. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO PARA SEGUNDA FASE DA DOSIMETRIA. REINCIDENTE ESPECÍFICO. ÚNICO FUNDAMENTO. 1/6. TRATAMENTO IGUALITÁRIO AO REINCIDENTE GENÉRICO. RESSALVA DE JUSTIFICATIVA CONCRETA. RECURSO PARCIALMENTE PROVIDO.
+1. Uma análise evolutiva do ordenamento jurídico nacional mostra que antes do Código Penal de 1940 a configuração da agravante da reincidência tinha como pressuposto o cometimento de crimes de mesma natureza. O CP/1940, em sua redação original, ampliou o conceito da agravante da reincidência ao permitir que o crime anteriormente cometido fosse de natureza diversa do atual, inaugurando a classificação da reincidência em específica e genérica, com ressalva expressa de que pena mais gravosa incidiria ao reincidente específico. Durante esse período histórico, a diferença de tratamento entre reincidência específica e genérica para fins de cominação de pena já era discutível, com posições jurídicas antagônicas.
+2. Nesse contexto, sobreveio a vigência da Lei n. 6.416/1977 que, alterando o CP/1940, aboliu a diferenciação entre reincidência específica e genérica e, por consequência, suprimiu o tratamento diferenciado no tocante à dosimetria da pena. Assim, considerando que a redação vigente do Código Penal estatuída pela Lei n. 7.209/84 teve origem na Lei n. 6.416/1977, a interpretação da norma deve ser realizada de forma restritiva, evitando, com isso, restabelecer parcialmente a vigência da lei expressamente revogada. Inclusive, tal interpretação evita incongruência decorrente da afirmativa de que a reincidência específica, por si só, é mais reprovável do que a reincidência genérica.
+3. Ainda para fins de inadmitir distinção de agravamento de pena entre o reincidente genérico e o específico, é importante pesar que o tratamento diferenciado entre os reincidentes pode ser feito em razão da quantidade de crimes anteriores cometidos, ou seja, da multirreincidência.
+4. Fica ressalvada a excepcionalidade da aplicação de fração mais gravosa do que 1/6 mediante fundamentação concreta a respeito da reincidência específica.
+5. Recurso especial parcialmente provido para alterar a fração incidente na segunda fase da dosimetria para 1/6 em razão de única reincidência específica.
+TESE: "A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso."
+(REsp n. 2.003.716/RS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023.)
+No recálculo da pena, partindo da pena-base estabelecida na origem, com o acréscimo de 1/6, chega-se à pena definitiva em 3 anos, 11 meses e 25 dias de reclusão, mantido o regime inicial fechado, além de 35 dias-multa, no valor unitário mínimo.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem para redimensionar a pena do paciente, na Ação Penal n. 1381104-82.2018.8.13.0024, nos termos da fundamentação.
+Comunique-se ao Tribunal de origem.
+Publique-se.
+Intimem-se.
+EMENTA
