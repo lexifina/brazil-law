@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, interposto por LMB ANDRADE SILVA LTDA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 63, e-STJ):
+D I R E I T O E M P R E S A R I A L . A G R A V O D E I N S T R U M E N T O . A Ç Ã O D E E X E C U Ç Ã O D E T Í T U L O E X E C U T I V O E X T R A J U D I C I A L . D E V E D O R E M R E C U P E R A Ç Ã O J U D I C I A L . C O M P E T Ê N C I A P A R A CLASSIFICAÇÃO DO CRÉDITO E PARA CONSTRIÇÃO DE BENS. I. CASO EM EXAME 1. Agravo de Instrumento interposto contra decisão que reconheceu a natureza extraconcursal do crédito objeto da ação de execução. II. QUESTÃO EM DISCUSSÃO 2. As questões em discussão consistem em saber se o juízo universal da recuperação judicial possui competência absoluta para declarar a natureza concursal ou extraconcursal do crédito objeto dos autos de origem e para decidir acerca da constrição de bens. III. RAZÕES DE DECIDIR 3. Conforme entendimento consolidado no âmbito desta Corte, a competência absoluta do juízo universal invocada prevalece apenas para os atos de constrição do patrimônio da empresa em recuperação, a fim de não causar entraves ao plano de reestruturação da empresa, objetivo da recuperação judicial. IV. DISPOSITIVO E TESE 5. Agravo de Instrumento conhecido e parcialmente provido. Tese de julgamento: "1. A competência absoluta do juízo universal prevalece apenas para atos de constrição patrimonial da empresa em recuperação, visando evitar entraves ao plano de reestruturação."
+Nas razões de recurso especial (fls. 74/84, e-STJ), a agravante aponta ofensa aos artigos 7.º e 8.º da Lei 11.101/2005, sustentando, em suma, que somente o juízo universal poderá determinar, autorizar e realizar atos constritivos em face de bens da empresa recuperanda, independente da classificação do crédito.
+Contrarrazões (fls. 106/115, e-STJ), e após decisão de admissão do recurso especial (fls. 119/122, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. Nas razões do presente recurso a recorrente sustenta que a classificação de créditos exequendos compete privativamente ao juízo universal.
+Sobre o tema o Tribunal estadual consignou que não se verifica a competência exclusiva do juízo da recuperação judicial em se tratando de crédito extraconcursal. Confira-se:
+Conforme visto, primeiramente, a agravante pretende a reforma da decisão agravada para reconhecer a competência absoluta do juízo universal da recuperação judicial para declarar a natureza concursal ou extraconcursal do crédito objeto dos autos de origem.
+Contudo, razão não lhe assiste, pois, conforme entendimento consolidado no âmbito desta Corte, a competência absoluta do juízo universal invocada prevalece apenas para os atos de constrição do patrimônio da empresa em recuperação, a saber:
+(..)
+Com efeito, a remessa de todas as demandas que tramitam em desfavor da agravante ao juízo universal, apenas para que a referida classificação seja feita, pode inviabilizar o próprio processamento da recuperação judicial, atribuindo-lhe excessiva morosidade.
+Assim, não cabe falar em competência absoluta do juízo universal da recuperação judicial para declarar a natureza concursal ou extraconcursal do crédito objeto dos autos de origem, sobretudo porque o julgador singular possui elementos objetivos para fazê-lo.
+Contudo, esta Corte Superior possui jurisprudência consolidada de que compete ao juízo recuperacional deliberar acerca da natureza concursal ou extraconcursal do crédito discutido em execução. Confiram-se os seguintes precedentes:
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA .
+1. Nos termos da jurisprudência deste STJ, o Juízo da recuperação judicial detém a competência para decidir tanto sobre a classificação do crédito exequendo, quanto sobre os atos constritivos realizados em desfavor da empresa em recuperação judicial.
+2. Do mesmo modo, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda.
+3. No caso, o juízo trabalhista determinou o bloqueio de ativos da empresa, violando, assim, a competência do Juízo da recuperação judicial. Manutenção da decisão agravada.
+Agravo interno improvido. (AgInt no CC 195365 / SP, Rel Ministro HUMBERTO MARTINS, Segunda Seção, j. 15/8/2023 - sem destaques no original)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. RECUPERAÇÃO JUDICIAL. INDENIZAÇÃO SECURITÁRIA. NATUREZA CONCURSAL OU EXTRACONCURSAL. CRÉDITO ORIGINÁRIO ANTERIOR AO DEFERIMENTO DO SOERGUIMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA ANÁLISE.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Consoante entendimento firmado em sede de repetitivos por esta Segunda Seção, por ocasião do julgamento do REsp nº 1.843.332/RS, "para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador (REsp n. 1.843.332/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 17/12/2020).
+3. "Compete ao juízo da recuperação decidir se o crédito constituído anteriormente ao processo de soerguimento possui ou não natureza concursal e, também, concluir pela possibilidade de se postergar a execução da garantia, ante o princípio da preservação da empresa" (AgRg no CC n. 122.293/RJ, relator Ministro Marco Buzzi, Segunda Seção, DJe de 25/5/2016).
+4. No caso em análise, o crédito foi constituído antes do deferimento da recuperação judicial, seja porque o crédito originário que deu origem à sub-rogação legal é anterior e, por conseguinte, transmite todas suas características, seja porque a segurada formalizou o aviso em sinistro em data igualmente anterior ao deferimento da recuperação judicial da parte recorrente, de modo que compete ao Juízo da recuperação judicial a análise da natureza jurídica do crédito.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 2010612 / RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 21/11/2023).
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas em recuperação judicial, devem ser autorizados ou realizados pelo Juízo do soerguimento até o trânsito em julgado da sentença que encerra a recuperação judicial.
+2. A razão de ser da supremacia dessa regra de competência é a concentração, no Juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, inclusive os valores objeto de constrição no juízo trabalhista, ainda que posteriores à recuperação ou mesmo os créditos extraconcursais, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+3. Agravo interno não provido.
+(AgInt no CC 175.296/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 30/03/2021, DJe de 07/04/2021).
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial, para, reformando o aresto recorrido, fixar a competência do juízo da recuperação judicial para decidir acerca do caráter concursal ou extraconcursal do crédito.
+Publique-se.
+Intimem-se.
+EMENTA
