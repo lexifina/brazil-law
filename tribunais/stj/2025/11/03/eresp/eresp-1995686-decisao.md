@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por ROCHA BRESSAN ENGENHARIA INDÚSTRIA E COMÉRCIO LTDA. EM RECUPERAÇÃO JUDICIAL contra acórdão proferido pela Quarta Turma desta Corte nos termos da seguinte ementa (fls. 616-617 ):
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Na hipótese , não se discute a respeito de1. sub judice intimação realizada por meio do processo eletrônico.
+1.1. O termo inicial do prazo para apresentação de contestação é a data da audiência de conciliação, na qual não houve composição, de acordo com o art. 335, inciso I, do CPC.
+1.2. Segundo a jurisprudência deste Superior Tribunal de Justiça, "Havendo audiência de conciliação infrutífera, a data de sua realização será o dia do começo (termo inicial) do prazo de 15 dias úteis para oferecer contestação e propor reconvenção, excluindo-se, na contagem, o dia do começo e incluindo o dia do ." vencimento (REsp n. 1.947.735/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em , DJEN de 24/3/2025 ). 28/3/2025 Incidência da Súmula 83 do STJ. "
+1.3. Nos termos da jurisprudência desta Corte, as matérias, inclusive as de ordem pública, decididas no processo, e que não tenham sido impugnadas em momento ." (AgInt no REsp n. 1.798.482 oportuno, sujeitam-se à preclusão /ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, D Je de 19/4/2024).
+2. Agravo interno desprovido.
+Sem embargos de declaração.
+Sustenta a parte embargante que (fl. 634):
+No caso paradigma, a eminente Ministra Relatora retrata os fatos que se amoldam perfeitamente ao presente, tendo recebido, contudo, decisão em sentido oposto.
+Ou seja, o caso paradigma reflete exatamente o que sustenta a Embargante!
+Esse reconhecimento pelo Relator veio ao acórdão embasado na melhor doutrina e em atendimento ao que efetivamente preza o ordenamento jurídico, ou seja, de prestar a jurisdição.
+Ao fundamentar sua decisão, o eminente Ministro deixou clara a permissão de que o ataque ao fundamento tenha como base a suficiência, até porque se a admissão parcial do recurso especial ou extraordinário devolve toda a matéria deduzida no recurso à instância superior é evidente que o agravo contra decisão denegatória de Recurso Especial também possui a mesma qualidade, desde que se trate de impugnação suficiente.
+Eis a ementa do acórdão apresentado como paradigma:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO INTERNO NA APELAÇÃO. INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO. INTERPOSIÇÃO FORA DO PRAZO RECURSAL. INFORMAÇÃO ERRÔNEA CONSTANTE DO SISTEMA ELETRÔNICO DO TRIBUNAL DE ORIGEM QUANTO AO PRAZO FINAL PARA INTERPOSIÇÃO DO RECURSO. RELEVÂNCIA. JUSTA CAUSA RECONHECIDA. PRINCÍPIOS DA CONFIANÇA E DA BOA-FÉ. PRECEDENTES DA CORTE ESPECIAL. INTEMPESTIVIDADE AFASTADA. RECURSO ESPECIAL PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do Tribunal de origem que, ao julgar agravo interno, manteve a decisão que não conheceu do recurso de apelação por intempestividade, sob o fundamento de que o prazo recursal informado pelo sistema eletrônico do PJe é meramente indicativo. A recorrente alega divergência jurisprudencial, sustentando que a informação equivocada prestada pelo sistema configura justa causa, nos termos do art. 223 do CPC, apta a afastar a intempestividade do recurso conforme paradigmas invocados.
+II. Questão em discussão
+2. A questão em discussão consiste em definir se o erro na indicação do termo final do prazo recursal, constante do sistema eletrônico do Tribunal de origem, pode configurar justa causa para afastar a intempestividade da apelação.
+III. Razões de decidir
+3. "A existência de dissídio notório autoriza a flexibilização dos requisitos de admissibilidade para o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional (AgInt no REsp n. 1.786.530/RS, relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 17/6/2019, DJe de 19/6/2019)." (AgInt no REsp n. 2.121.389/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/6/2024, DJe de 13/6/2024.)
+4. Nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso. Precedentes." (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.)
+5. No caso, conforme os fatos delineados no acórdão do Tribunal de origem, de fato houve a indicação de data equivocada no sistema daquela Corte quanto ao termo final do prazo recursal, o que impõe reconhecer que está caracterizada justa causa apta a afastar a intempestividade do recurso de apelação.
+IV. Dispositivo 6. Recurso especial provido.
+(REsp n. 2.213.053/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade, pois inexiste a necessária similitude fática entre os acórdãos confrontados a ensejar o processamento do recurso.
+O acórdão embargado negou provimento ao agravo interno ao fundamento de que (fl. 620):
+A propósito, a respeito da alegação da agravante no sentido de ter atendido ao prazo assinalado no sistema do processo eletrônico e que teria havido erro no judiciário, o órgão julgador consignou que "não pode a parte, por ocasião do recurso, deduzir matérias fáticas que deveriam ter sido alegadas no momento oportuno, " (fl. 419, e-STJ). Tal conclusão está em operando-se, quanto a elas a preclusão harmonia com a jurisprudência uníssona desta Corte "no sentido de que se sujeitam à preclusão as matérias não impugnadas no momento oportuno, inclusive as de ordem " (AgInt no AR Esp n. 2.500.892/GO, relator Ministro Marco Buzzi, Quartapública Turma, julgado em , D Je de 30/9/2024 3/10/2024).
+Por sua vez, o acórdão paradigma assim dispôs (fl. 639):
+4. Nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso. Precedentes." (EAREsp n. 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022.)
+5. No caso, conforme os fatos delineados no acórdão do Tribunal de origem, de fato houve a indicação de data equivocada no sistema daquela Corte quanto ao termo final do prazo recursal, o que impõe reconhecer que está caracterizada justa causa apta a afastar a intempestividade do recurso de apelação.
+Fica evidente a ausência de similitude fático-jurídica entre os acórdãos confrontados, porquanto, no acórdão embargado, existe uma peculiaridade, que não é encontrada no paradigma, qual seja: a ocorrência da preclusão consumativa, o que obsta o processamento dos embargos de divergência.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso.
+2. É entendimento da Segunda Seção que o indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 2.027.875/PA, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 9/4/2024, DJe de 25/4/2024.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. MATÉRIA NÃO APRECIADA PELO ACÓRDÃO RECORRIDO. AGRAVO INTERNO NÃO PROVIDO 1. A ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência, que têm como escopo único uniformizar a jurisprudência do Tribunal, não se prestando para ser utilizado como via de rejulgamento do Recurso Especial (STJ, AgInt nos EREsp n. 1.565.059/ES, relatora Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 20/9/2022, DJe de 23/9/2022).
+2. A admissão dos Embargos de Divergência pressupõe que o tema ventilado no Recurso seja examinado pelo acórdão embargado (AgInt nos EREsp n. 2.002.249/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 31/10/2023, DJe de 18/12/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 2.081.061/RS, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 9/4/2024, DJe de 23/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS EMBARGADO E PARADIGMA. PROVIMENTO NEGADO.
+1. Os embargos de divergência objetivam dissipar a adoção de teses diversas para casos semelhantes; sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação.
+2. Cabe à parte embargante a comprovação do dissídio jurisprudencial nos moldes dos arts. 1.043 e 1.044 do Código de Processo Civil (CPC) e 266, § 1º, c/c o art. 255, §§ 1º e 2º, ambos do Regimento Interno do Superior Tribunal de Justiça.
+3. Na espécie, não há similitude fática e jurídica entre os julgados. No acórdão embargado, a Primeira Turma afastou a tese de violação do art. 489, § 1º, IV, do CPC por entender que o acórdão recorrido teria se manifestado de maneira clara e fundamentada a respeito das questões relevantes à solução da controvérsia. O acórdão paradigma, contudo, reafirmou o efeito devolutivo da apelação, consoante interpretação dada ao art. 515, §§ 1º e 2º, do CPC de 1973.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EREsp n. 1.744.434/MT, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/3/2024, DJe de 21/3/2024.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa , observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
