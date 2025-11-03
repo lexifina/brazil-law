@@ -1,0 +1,61 @@
+DECISÃO
+JOSE DALVANI NUNES RODRIGUES, denunciado pelo crime de homicídio qualificado, alega sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou a ordem no HC n. 5267289-94.2025.8.21.7000/RS.
+Neste habeas corpus, a defesa pede o reconhecimento da ilicitude da colaboração premiada e seu desentranhamento dos autos, com a exclusão das provas derivadas, sob os seguintes argumentos: delação premiada não corroborada por outras provas, elementos de convicção externos não idôneos, inaplicabilidade do instituto da preclusão à nulidade absoluta, homologação judicial que não se confunde com a veracidade do relato do colaborador, fragilidade da prova a ser submetida ao Tribunal do Júri.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+O recurso não é admissível.
+Na impetração anterior, a tese da defesa - ilicitude da colaboração premiada - não foi examinada com profundidade e poderá sê-lo na ocasião da pronúncia, momento adequado para a análise exauriente das pretensões defensivas. Em caso de decisão desfavorável, ainda poderão ser interpostos os recursos cabíveis.
+Antes disso, qualquer pronunciamento desta Corte seria precoce e configuraria indevida supressão de instância, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus. Assim, mostra-se indevido o desvirtuamento do sistema recursal.
+Nesse sentido:
+ ..
+4. A pendência de julgamento da apelação criminal impede a apreciação das nulidades alegadas, pois a matéria será melhor examinada no âmbito da apelação, que possui efeito devolutivo amplo.
+5. Não se verificou ilegalidade flagrante que justificasse a concessão do habeas corpus, uma vez que as instâncias ordinárias ainda não esgotaram suas manifestações.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. O habeas corpus não é a via adequada para o julgamento antecipado de matéria objeto de recurso de apelação pendente de julgamento. 2. A pendência de julgamento da apelação impede a apreciação de nulidades alegadas em habeas corpus, salvo em caso de ilegalidade flagrante."
+Dispositivos relevantes citados: Não há dispositivos legais específicos citados. Jurisprudência relevante citada: STJ, AgRg no HC 859.866/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 30.10.2023; STJ, AgRg no RHC 193.315/MG, Rel. Min. Teodoro Silva Santos, Sexta Turma, DJe 18.03.2024.
+(AgRg no RHC n. 215.800/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. LAVAGEM DE DINHEIRO. NULIDADE DAS PROVAS. QUEBRA DE CADEIA DE CUSTÓDIA. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. LIBERDADE PROVISÓRIA. INDEFERIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual (HC n. 482.549/SP, relator Ministro Rogerio Schietti, Terceira Seção, DJe de 3/4/2020).
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal.
+3.No caso concreto, houve a interposição concomitante do habeas corpus com o recurso próprio de apelação, ainda pendente de julgamento pelo Tribunal a quo, tratando-se de processo de origem com múltiplos réus referente a fatos graves e complexos (tráfico internacional de expressiva quantidade de drogas, pela via marítima, além de lavagem de vultosos valores).
+4.Uma vez que as questões atinentes à nulidade das provas, por quebra de cadeia de custódia, que refletem indiretamente na liberdade de locomoção do paciente, estão pendentes de exame em cognição exauriente pelo Tribunal a quo na via própria (recurso de apelação), o writ não pode ser conhecido, sem prejuízo de que a matéria seja novamente trazida ao Superior Tribunal depois de julgada a apelação.
+5. A tese de excesso de prazo da prisão cautelar foi articulada em descabida inovação recursal, circunstância que evidencia a impossibilidade de sua apreciação neste regimental.
+6.Agravo regimental não provido.
+(AgRg no HC n. 979.605/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2025, DJEN de 15/9/2025, destaquei)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CAPTAÇÃO AMBIENTAL. ILICITUDE DE PROVAS. ANÁLISE EXAURIENTE POSTERIOR AO RECURSO EM HABEAS CORPUS. PREJUDICIALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A notícia de que a alegação de ilicitude da escuta ambiental foi devidamente apreciada pelo Juízo sumariante na decisão de pronúncia, proferida em momento posterior ao recurso em habeas corpus, acarreta a prejudicialidade do pedido. Com efeito, diante da análise exauriente, pelo Juiz de primeira instância, acerca das nulidades ora arguídas, cabe às partes insurgirem-se contra as suas conclusões por meio do recurso adequado, circunstância que esvazia o objeto da presente demanda.
+2. Agravo regimental não provido
+(AgRg no RHC n. 74.552/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2021, DJe de 11/10/2021, grifei)
+Afasto, ainda, a possibilidade de conceder a ordem de ofício.
+O Tribunal de origem assim decidiu a questão controvertida (fls. 91-92, destaquei):
+De antemão, urge assentar que a colaboração premiada firmada por Douglas e contestada pelo impetrante foi devidamente homologada pelo juízo competente, o qual, ao analisar o acordo, reconheceu a sua regularidade, voluntariedade e legalidade, razão pela qual deve ser considerada válida e eficaz para os fins processuais a que se destina.
+Ademais, eventuais insurgências quanto à validade da colaboração deveriam ter sido oportunamente suscitadas pela defesa no primeiro momento em que tomou ciência de seu conteúdo nos autos, mostrando-se tal contestação, neste momento, contraproducente e representativa de medida protelatória, com risco de retardar injustificadamente a marcha processual.
+Acresço que, para compatibilizar o direito de defesa do acusado com a eficiência da persecução penal, a decretação de nulidade processual depende da demonstração de efetivo prejuízo, não bastando alegações abstratas buscando a rediscussão tardia de matéria já preclusa, como a validade de acordo devidamente homologado.
+Para corroborar este entendimento, a colaboração premiada de Douglas já fora utilizada em outros processos (por exemplo, de nº 5156083-57.2024.8.21.0001), cuja validade também fora endossada pelo STJ (Habeas Corpus nº 898.930/RS).
+Não obstante, importa ressaltar que o acervo probatório coligido não se resume às declarações oriundas da colaboração premiada. Pelo contrário, a denúncia se encontra recebida e a instrução está em curso, ficando nítido que o desenrolar da instrução não transparece estar baseado em prova exclusiva, encontrando-se pendente a tomada de depoimentos em audiência.
+Há maciça carga documental, não se estando diante de nulidade manifesta que possa ser reconhecida por esta via, porquanto não se trata de remédio adequado para profunda indagação acerca do acervo fático- probatório.
+Destarte, não há falar em nulidade ou irregularidade da delação firmada, cuja validade encontra-se resguardada pelo controle jurisdicional prévio.
+Não verifico a ilegalidade indicada. Isso porque o acórdão deixa claro que a delação premiada foi corroborada por outras provas idôneas.
+A colaboração premiada deve vir sempre corroborada por outros meios de prova, isto é, faz-se necessário que o colaborador traga elementos de informação e de prova capazes de confirmar suas declarações - indicação do produto do crime, de contas bancárias, localização do produto direto ou indireto da infração penal, auxílio para identificação de números de telefone a serem grampeados ou na realização de interceptação ambiental, etc.
+Há que se preservar, em regra, o dever imposto ao Juízo de fazer corroborar as palavras do delator com outras provas produzidas em juízo para fins de formação da sua convicção. Ou seja, o que foi dito na declaração do agente colaborador não tem força suficiente para, por si só, possibilitar nem sequer a deflagração de ação penal, embora possa subsidiar a existência de uma investigação preliminar.
+Não se sustenta o argumento de que a delação do corréu é a única prova dos autos, pois ele, na condição legal de colaborador, prestou depoimento que deu origem às diligências que possibilitaram a coleta de outras provas.
+Em outras palavras, a colaboração de acusado para dar início à busca de provas externas, isto é, além de seu depoimento, não se confunde com a prova ilícita, como, no caso, a defesa quer fazer parecer.
+Oportunamente:
+Não há que se falar em violação ao artigo 4º, § 16, da Lei 9.613/1998 quando as instâncias ordinárias reconhecem, de forma uníssona, que as declarações de agentes colaboradores encontram-se amplamente referendadas pelo acervo probatório (AgRg no REsp 1768487/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 15/09/2020, DJe 29/09/2020).
+Ademais, conforme posicionamento jurisprudencial desta Corte Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte, o que se verifica no caso dos autos.
+Para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que, em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato haja gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato.
+A propósito:
+ ..
+3. "Não se declara nulidade no processo se não resta comprovado o efetivo prejuízo, em obséquio ao princípio pas de nullité sans grief positivado no artigo 563 do Código de Processo Penal e consolidado no enunciado nº 523 da Súmula do Supremo Tribunal Federal" (AgRg no REsp n. 1.726.134/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/5/2018, DJe 4/6/2018, grifei).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 552.243/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 7/12/2020).
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+3. Agravo regimental improvido.
+(AgRg no HC n. 573.794/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/9/2020).
+Na hipótese dos autos, além de a nulidade da colaboração não haver sido arguida em momento oportuno, o que torna a matéria preclusa, não foi constatado o prejuízo alegado pela defesa, que não comprovou, de plano e por meio de prova pré-constitu ída, a ilicitude da delação.
+Ante o exposto, in limine, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
