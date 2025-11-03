@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MANTIDA A DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que o agravante deixou de refutar, especificamente, os fundamentos de inadmissibilidade do especial.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+VALDEIR CARDOSO DE OLIVEIRA interpõe agravo regimental contra a decisão de fls. 802-804, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial por ele interposto, em virtude da Súmula n. 182 do STJ.
+A defesa alega, em síntese, "que a aplicação da Súmula 182/STJ à hipótese se deu com excesso de rigor formal, em detrimento à análise de questão jurídica de alta relevância e com impacto direto na liberdade do agravante" (fl. 809).
+Pleiteia, portanto, a reconsideração da decisão anteriormente proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MANTIDA A DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Na hipótese, é acertada a decisão da Presidência deste Tribunal Superior que não conhece do agravo em recurso especial interposto, uma vez que o agravante deixou de refutar, especificamente, os fundamentos de inadmissibilidade do especial.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental não comporta provimento , uma vez que não infirmou as motivações lançadas na decisão agravada.
+Nas razões do especial, a defesa pleiteou a anulação das provas obtidas por meios ilícitos ou, subsidiariamente, a readequação da pena.
+A Corte de origem não admitiu o recurso em decorrência das Súmulas n. 282 e 356 do STF e negou-lhe seguimento em relação à aduzida violação do art. 59 do CP. O agravo interposto não foi conhecido, haja vista a ausência de impugnação específica do óbice mencionado pelo Tribunal estadual. Veja-se (fl. 802-804):
+Com efeito, "no caso de inadmissibilidade de Recurso Especial com base no art. 543-C, § 7º, I, do CPC em relação a um ponto e de negativa de seguimento quanto aos outros, deve a parte interpor, simultânea e respectivamente, Agravo Regimental e Agravo em Recurso Especial" (AgRg no AR Esp n. 531.003/PR, Rel. Min. João Otávio de Noronha, Terceira Turma, D Je de 12.12.2014). Desta feita, no que tange à parte relativa a aplicação da sistemática dos recursos repetitivos, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra o capítulo da decisão que nega seguimento a Recurso Especial com base nos incisos I e III do mencionado art. 1.030 do CPC.
+Assim, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível. A propósito:
+ ..
+Melhor sorte não assiste ao agravante em relação ao capítulo da decisão que inadmitiu o Recurso Especial em razão de não preencher os requisitos de admissibilidade recursais. Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: ausência de prequestionamento. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182 do STJ. Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo.
+Reconheço o acerto da decisão  agravada,  porque, na petição de agravo em recurso especial, a defesa apenas reiterou os argumentos do especial sem, contudo, refutar os óbices de admissibilidade do especial.
+Portanto, devem ser mantidas as conclusões da decisão agravada.
+Ressalto, por oportuno, que a impugnação dos motivos de inadmissão do REsp indicados pela Corte estadual deve ser feita no agravo em recurso especial. Rebater os óbices no agravo regimental não sana a deficiência do AREsp não conhecido, em razão da preclusão consumativa. No regimental, cabe à parte, tão somente, demonstrar que a Súmula n. 182 do STJ foi aplicada de forma incorreta no AREsp; é dizer, que refutou, no momento processual adequado, as razões pelas quais o seu recurso especial não foi admitido.
+Nessa perspectiva: "A impugnação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusão consumativa, razão pela qual não é cabível a impugnação efetiva, específica e fundamentada somente nas razões de agravo interno" (AgInt nos EDcl no AREsp n. 2.156.382/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022) e "a refutação tardia (somente por ocasião do manejo de Agravo Interno) dos fundamentos da decisão que inadmitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa" (AgInt no AREsp n. 1.995.070/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2022, DJe de 23/6/2022.)
+À vista do exposto, nego provimento ao agravo regimental.
