@@ -1,0 +1,15 @@
+DECISÃO
+MATHEUS ROBSON VIANA DELFINO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.25.145785-9/000.
+Consta dos autos que o recorrente foi preso em flagrante - prisão convertida em preventiva - e denunciado pela suposta prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003.
+A defesa aduz, em síntese, a) a nulidade da busca domiciliar e das provas derivadas dessa diligência; b) a ocorrência de cerceamento de defesa no procedimento investigativo, pois lhe foi negada a oportunidade de apresentar quesitos à autoridade policial, além de os depoimentos haverem sido conduzidos exclusivamente por escrivã; e c) ausência de fundamentação idônea para a segregação cautelar.
+Indeferida a liminar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 498-501).
+Decido.
+Em consulta à página eletrônica do Tribunal de origem, verifica-se que sobreveio a prolação de sentença nos autos do processo objeto deste habeas corpus. Assim, os pedidos de anulação das provas e de revogação da prisão preventiva estão prejudicados, conforme passo a expor.
+Pelo auto de prisão em flagrante, é possível identificar que a entrada na residência do recorrente foi justificada pela constatação de objetos supostamente empregados na prática do roubo de uma motocicleta no interior do imóvel, o que foi suficiente para gerar a presunção de ser ele autor da infração penal que acabara de ocorrer. Ademais, consta o registro de que a policiais sentiram forte odor característico de entorpecentes e visualizaram porções de drogas no interior da residência. Diante disso, os militares realizaram buscas no domicílio e encontraram a substância entorpecente.
+É possível, no entanto, que, ao longo da instrução probatória, tenha havido alteração significativa desse cenário fático, analisado na sentença em cognição exauriente, de maneira que não há como esta Corte Superior apreciar a nulidade da busca domiciliar com base apenas no auto de prisão em flagrante.
+Assim, neste caso, a questão relativa à nulidade probatória - com os contornos fáticos que lhe foram dados ao longo da instrução criminal - deve ser primeiro submetida à instância de origem em apelação para que, depois, se necessário, seja novamente trazida a este Superior Tribunal.
+Idêntico raciocínio aplica-se em relação aos supostos vícios ocorridos durante o inquérito policial. Nesse ponto, no entanto, deve ser observado que, segundo a pacífica orientação jurisprudencial deste Superior Tribunal, eventuais nulidades da fase investigativa não contaminam a ação penal.
+Quanto à custódia cautelar, verifico que houve a perda do objeto diante da sua expressa revogação da prisão preventiva na sentença em razão da fixação do regime semiaberto para início do cumprimento das penas de 5 anos de reclusão e 1 ano de detenção.
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
