@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, reclamação ajuizada por PAULO CÉSAR CARVALHO DE ALBUQUERQUE E OUTROS, fundamentada no art. 105, I, f, da CF e art. 187 e seguintes, do RISTJ, com pedido liminar de tutela de urgência antecipada, contra sentença proferida pelo Juízo da 12ª Vara da Fazenda Pública da Comarca de Fortaleza do Tribunal de Justiça do Estado do Ceará, nos autos 3032232-66.2023.8.06.0001.
+A parte reclamante expõe que pleiteou o cumprimento provisório de sentença com vistas à reintegração dos autores/reclamantes aos quadros da Polícia Militar do Estado do Ceará - PM/CE, com base na Ação Ordinária 0059391-94.2007.8.06.0001, informando que esta reconheceu a ilegalidade da última fase do concurso ao cargo de Soldado da PM/CE e transitou em julgado em 12/4/2012.
+Afirma que o Tribunal Estadual determinou a imediata reintegração dos autores/reclamantes, ao que sobreveio do Estado a oposição de embargos de declaração, rejeitados pela Corte local, ensejando assim a interposição de recurso especial pelo ente público, bem como o pedido de efeito suspensivo ao recurso especial (processo n. 0633992-26.2021.8.06.0000), deferido na origem.
+Sob o argumento de perda do efeito suspensivo do recurso especial, considerando que em sede de juízo de retratação no agravo interno, foi negado provimento ao recurso especial (processo n. 0059391-94.2007.8.06.0001 - AgInt no REsp n. 2031097-CE), a parte reclamante requer a execução da obrigação de fazer.
+Para tanto, sustenta que o pedido de execução de obrigação de fazer foi protocolado e autuado sob o n. 3032232-66.2023.8.06.0001, sendo distribuído ao Juízo da 12ª Vara da Fazenda Pública da Comarca de Fortaleza, o qual, desconsiderando todo o arrazoado e a própria decisão exarada por este STJ, extinguiu o feito, sem resolução de mérito, concluindo pela pendência de análise de recurso com efeito suspensivo nos autos do processo principal.
+Dessarte, requer seja concedida a tutela provisória de urgência, inaudita altera pars, para determinar ao Juízo de origem que suspenda os efeitos da decisão que extinguiu o cumprimento provisório de sentença, com ordem de imediata reintegração dos reclamantes em até 48 horas da ciência dessa determinação, sob pena de multa diária.
+No mérito, requer seja julgada procedente a presente reclamação, com a cassação da sentença reclamada, para o devido prosseguimento da execução provisória.
+A liminar foi parcialmente deferida e o ente público interpôs agravo interno (fls. 308-313).
+O Ministério Público Federal opina pelo extinção da reclamação por perda de objeto.
+É o relatório.
+Passo a decidir.
+Nos termos do art. 105, I, f, da Constituição Federal, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, compete a esta Corte processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, assim como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+Entretanto, observo a perda do objeto da presente reclamação, tendo em vista a ocorrência do trânsito em julgado, com baixa definitiva, do REsp 2031097/CE para o Tribunal de Justiça do Estado do Ceará, em 22/10/2025.
+Isso posto, julgo extinta a reclamação, com fulcro no art. 34, XVIII, a, do RISTJ, sem resolução do mérito, exaurida a medida liminar parcialmente deferida.
+Intimem-se.
+EMENTA
