@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA DIRLENE DA SILVA BARBOSA, ALEX CALHEIROS DA SILVA, ALINE CRISTINA BATISTA, E. C. DA S. S., IRACEMA SOUZA SANTOS e TATIANA MARIA SIQUEIRA DAS NEVES contra decisão que obstou a subida de recurso especial..
+Extrai-se dos autos que as agravantes interpuseram recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DE ALAGOAS assim ementado (fls. 243-252).
+AGRAVO DE INSTRUMENTO. AÇÃO DE DANOS MORAIS. BRASKEM. DECISÃO DE PRIMEIRO GRAU QUE RECONHECEU A PERDA DO OBJETO DA DEMANDA E EXTINGUIU O PROCESSO PARA ALGUNS DOS AUTORES DA AÇÃO EM RAZÃO DE ACORDO REALIZADO ENTRE AS PARTES. RECURSO DA PARTE AUTORA. ALEGAÇÕES DE QUE O ACORDO NÃO ABRANGE AS INDENIZAÇÕES POR DANOS MORAIS; DE QUE O ACORDO FOI IMPOSTO DE FORMA COMPULSÓRIA; DE QUE EXISTE CLÁUSULA LEONINA NO ACORDO E DE QUE A RENÚNCIA AO DIREITO A INDENIZAÇÃO POR DANOS MORAIS OFENDE O DIREITO FUNDAMENTAL DE ACESSO À JUSTIÇA, À MORADIA, À INDENIZAÇÃO DEVIDA E À DIGNIDADE HUMANA. NÃO ACOLHIMENTO. CELEBRAÇÃO DE ACORDO ACARRETA PERDA DO OBJETO. JURISPRUDÊNCIA NESSE SENTIDO. PEDIDO DE FIXAÇÃO DA RETENÇÃO DO PERCENTUAL DE 20% SOBRE O VALOR DA CAUSA EM FAVOR DE CADA MORADOR ENVOLVIDO OU, CASO O JUÍZO AD QUEM NÃO ENTENDA PELA RETENÇÃO DA INTEGRALIDADE DOS HONORÁRIOS ADVOCATÍCIOS CONFORME CONTRATO DE PRESTAÇÃO DE SERVIÇOS, FIXAÇÃO EM PERCENTUAL MÍNIMO DE 5%. NÃO PROVIMENTO. EVENTUAIS LESÕES DECORRENTES DE RELAÇÃO CONTRATUAL ENTRE AS PARTES E SEU PATRONO DEVEM SER DISCUTIDAS EM AÇÃO PRÓPRIA. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Os embargos de declaração foram rejeitados (fls. 288-296).
+No recurso especial, alega a parte recorrente que o acórdão contrariou as disposições contidas nos arts. 85, § 14, 90, § 2º, e 1.022, II, do CPC, 186, 421, 424 e 927 do Código Civil, 14, § 1º, da Lei n. 6.938/1991, 51, I e IV, § 1º, do CDC e 22 e 34, VIII, do EOAB.
+Requer a anulação do acórdão que julgou os embargos de declaração, pois o Tribunal não teria analisado todas as questões necessárias ao deslinde da controvérsia.
+Sustenta, em síntese, que o acordo celebrado no âmbito da ação civil pública não abrangeria os danos morais reivindicados na ação individual; nulidade de cláusulas de renúncia inseridas no acordo, as quais reputa "leoninas"; e necessidade de resguardar honorários do patrono.
+Foram apresentadas contrarrazões ao recurso especial (fls. 312-345).
+Sobreveio juízo de admissibilidade negativo na origem (fls. 347-349), o que ensejou a interposição do presente agravo em recurso especial.
+Foi apresentada contraminuta ao agravo em recurso especial (fls. 365-373).
+Os autos foram remetidos ao Ministério Público Federal, que opinou pelo não provimento do agravo (fls. 437-439).
+É, no essencial, o relatório.
+De início, não prospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acórdão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas. Incidência da Súmula n. 284/STF.
+Quanto à suposta violação do art. arts. 85, § 14, 90, § 2º, e 1.022, II, do CPC, 186, 421, 424 e 927 do Código Civil, 14, § 1º, da Lei n. 6.938/1991, 51, I e IV, § 1º, do CDC e 22 e 34, VIII, do EOAB, observa-se que o Tribunal de origem não analisou, sequer implicitamente, a tese recursal a luz dos referidos dispositivos normativos.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+1. A ausência de debate acerca dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o conhecimento da matéria na instância especial, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ.
+(AgInt nos EDcl no AREsp n. 1.433.979/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 17/2/2025.)
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+(AgInt no AREsp n. 1.714.930/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+2. Não se verifica o exame pelo Tribunal de origem, mesmo após a interposição dos embargos de declaração, da tese em torno da violação dos arts. 171 e 182 do Código Civil, razão pela qual incide, na espécie, a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável para o acesso às instâncias excepcionais.
+(AgInt no AREsp n. 2.713.012/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 13/11/2024.)
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. HONORÁRIOS DE SUCUMBÊNCIA. PEDIDO DE CONDENAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. AÇÃO CIVIL PÚBLICA. ACORDO HOMOLOGADO. EXTENSÃO. DANOS MATERIAIS E MORAIS. NULIDADE EVENTUAL. AÇÃO ANULATÓRIA.
+1. O recurso especial que indica violação do art. 1.022 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. Nos termos da jurisprudência do STJ, " o  acordo homologado judicialmente perante a Justiça Federal, com participação do Ministério Público, Defensoria Pública e Poder Judiciário, conferiu quitação ampla e irrevogável à Braskem S/A quanto a danos patrimoniais e extrapatrimoniais. Eventual desconstituição desse acordo depende de ação anulatória, sendo inadequada a via recursal eleita" (EDcl no AgInt no AREsp 2.426.831/AL, relator Ministro Carlos Cini Marchionatti - Desembargador Convocado TJRS, Terceira Turma, julgado em 17/2/2025, DJEN de 20 /2/2025).
+4. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 2.855.162/AL, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
