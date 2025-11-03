@@ -1,0 +1,20 @@
+DECISÃO
+IGOR DE OLIVEIRA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia que denegou o HC n. 8043933-95.2025.8.05.0000.
+Consta dos autos qu e o paciente foi pronunciado pela prática, em tese, dos delitos tipificados nos arts. 121, § 2º, I, III e IV, (por três vezes) e 121, § 2º, I, III e IV c/c o art. 14, II, todos do Código Penal.
+A defesa alega, em síntese, que a pronúncia está baseada no inadequado argumento do in dubio pro societate e ignora a fragilidade da prova colhida, que se restringe a testemunhos indiretos e elementos obtidos na fase investigativa.
+Aduz, ainda, que não estão presentes os requisitos exigidos para a manutenção da prisão preventiva.
+Requer, assim, a concessão da ordem para que seja determinada a despronúncia do acusado e a consequente restituição plena da sua liberdade.
+Indeferida a liminar, o Ministério Público Federal se manifestou pelo conhecimento parcial da impetração e, nessa extensão, pela denegação da ordem (fls. 1.006-1.008).
+Decido.
+De acordo com as informações prestadas pelo Juízo de primeiro grau e os registros lançados no acórdão impugnado, houve a interposição de recurso em sentido estrito nos autos do processo objeto deste habeas corpus, o qual encontra-se pendente de julgamento. Assim, o pedido de despronúncia não pode ser conhecido, ante a pendência de análise da questão em cognição exauriente.
+Com efeito, a questão relativa à fragilidade probatória para a pronúncia - com os contornos fáticos que lhe foram dados ao longo da instrução criminal - deve ser primeiro submetida à instância de origem na via recursal própria para que, depois, se necessário, seja novamente trazida a este Superior Tribunal.
+Quanto à prisão preventiva, observo que este habeas corpus foi deficientemente instruído, pois o impetrante não juntou cópia do decreto prisional, o que impossibilita a compreensão do caso e, por conseguinte, o exame da suposta ilegalidade.
+Deveras, na decisão de pronúncia, a manutenção da custódia cautelar foi justificada com referência aos fundamentos da decisão que decretou a prisão preventiva do acusado (fls. 838-839, grifei):
+Deixo de conceder aos réus IGOR DE OLIVEIRA SILVA e REINALDO SANTANA DA SILVA o direito de recorrerem da sentença em liberdade, uma vez que estiveram presos durante todo o processo, assim devendo permanecer até o trânsito em julgado da sentença, em face da inequívoca gravidade do delito por eles praticados, não se olvidando de que a prisão cautelar visa assegurar os interesses de segurança de toda a sociedade, os quais devem prevalecer sobre os individuais dos réus.
+Por oportuno, em atenção ao disposto no art. 316, parágrafo único, do CPP, revista a necessidade de manutenção da prisão, vislumbro que não se operou qualquer mudança ática apta a modificar o entendimento deste Juízo quanto à necessidade da prisão dos réus, permanecendo inalterados o fumus comissi delicti e o periculum libertatis fundamentados na decisão que decretou a prisão cautelar, devendo os acusados permanecerem presos preventivamente, para a garantia da ordem pública, nos termos dos arts. 312 e 313, ambos do CPP.
+Portanto, neste momento, com o advento da sentença de pronúncia imposta, reexaminados os pressupostos da custódia cautelar, tenho que remanescem incólumes os fundamentos que ensejaram a sua decretação, fulcrada substancialmente no manifesto periculum libertatis, a fim de assegurar a aplicação da lei penal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração, o que está impossibilitado na espécie.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
