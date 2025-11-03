@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PENAL PRIVADA SUBSIDIÁRIA DA PÚBLICA. ILEGITIMIDADE ATIVA. INÉRCIA DO MINISTÉRIO PÚBLICO NÃO CONFIGURADA. REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo em recurso especial que deixa de atacar, de forma específica e pormenorizada, os fundamentos da decisão que inadmitiu o apelo especial na origem, incidindo, por analogia, o óbice da Súmula n. 182 desta Corte Superior.
+2. A alegação genérica de que a controvérsia consiste em matéria de direito é insuficiente para afastar a aplicação da Súmula n. 7 do STJ, sendo ônus do recorrente demonstrar, concretamente, como a análise da pretensão recursal prescinde do reexame do acervo fático-probatório.
+3. Aferir a existência ou não de inércia por parte do Ministério Público para fins de reconhecimento da legitimidade para a propositura da ação penal privada subsidiária da pública demanda, inevitavelmente, a análise de fatos e provas, providência vedada na via estreita do recurso especial, nos termos da Súmula n. 7 do STJ.
+4. A tese do juízo de admissibilidade implícito não se presta a superar óbices processuais objetivos e expressamente consignados nas decisões de admissibilidade, como a ausência de impugnação específica dos fundamentos da decisão agravada.
+5. Agravo regimental não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCOS CHARLES TEIXEIRA interpõe agravo regimental contra decisão monocrática desta relatoria que não conheceu do agravo em recurso especial.
+A decisão agravada assentou que o recorrente não impugnou, de forma específica e adequada, o fundamento da decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial, qual seja, a incidência da Súmula n. 7 desta Corte, o que atraiu a aplicação da Súmula n. 182 do STJ.
+Em suas razões, o agravante sustenta, em suma, que: a) houve impugnação específica de toda a matéria, sendo inadequada a aplicação da Súmula n. 182 do STJ; b) a controvérsia não demanda reexame de provas, mas sim a revaloração jurídica de fatos incontroversos, afastando-se a Súmula n. 7 do STJ e c) deven ser aplicado o juízo de admissibilidade implícito para admitir o apelo.
+Pugna, ao final, pela reconsideração da decisão monocrática ou pela submissão do feito ao colegiado para que seja provido o recurso.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PENAL PRIVADA SUBSIDIÁRIA DA PÚBLICA. ILEGITIMIDADE ATIVA. INÉRCIA DO MINISTÉRIO PÚBLICO NÃO CONFIGURADA. REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO DE INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo em recurso especial que deixa de atacar, de forma específica e pormenorizada, os fundamentos da decisão que inadmitiu o apelo especial na origem, incidindo, por analogia, o óbice da Súmula n. 182 desta Corte Superior.
+2. A alegação genérica de que a controvérsia consiste em matéria de direito é insuficiente para afastar a aplicação da Súmula n. 7 do STJ, sendo ônus do recorrente demonstrar, concretamente, como a análise da pretensão recursal prescinde do reexame do acervo fático-probatório.
+3. Aferir a existência ou não de inércia por parte do Ministério Público para fins de reconhecimento da legitimidade para a propositura da ação penal privada subsidiária da pública demanda, inevitavelmente, a análise de fatos e provas, providência vedada na via estreita do recurso especial, nos termos da Súmula n. 7 do STJ.
+4. A tese do juízo de admissibilidade implícito não se presta a superar óbices processuais objetivos e expressamente consignados nas decisões de admissibilidade, como a ausência de impugnação específica dos fundamentos da decisão agravada.
+5. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental não merece prosperar. Os argumentos expendidos pelo recorrente são insuficientes para infirmar os sólidos fundamentos da decisão agravada, que deve ser mantida por suas próprias razões.
+I. Súmula n. 182 do STJ
+O agravante insiste na tese de que combateu adequadamente a incidência da Súmula n. 7 do STJ. Contudo, uma análise detida de sua petição de agravo em recurso especial revela o contrário.
+A decisão de inadmissibilidade proferida pelo Tribunal de origem foi categórica ao afirmar que "a análise da suposta violação legal demandaria um novo juízo cognitivo acerca das bases fático-probatórias da questão jurídica ora invocada" (fl. 450), concluindo pela aplicação da Súmula n. 7 do STJ.
+O ônus do agravante era demonstrar, de maneira concreta e particularizada, que a sua pretensão recursal não exigia o reexame de provas, mas apenas a reinterpretação da legislação federal aplicada a um quadro fático já delimitado e soberanamente estabelecido pelo Tribunal de origem.
+Entretanto, ao tratar do tema no agravo, o recorrente limitou-se a uma argumentação genérica e meramente declaratória, nos seguintes termos (fl. 463):
+VI - DA INEXISTÊNCIA DE REEXAME DE PROVAS (STJ, SÚMULA 7).
+A fundamentação que rejeitou a peça acusatória pela (i)legitimidade ativa conferida pelo ordenamento jurídico e pela impossibilidade do pedido de arquivamento posterior ao ajuizamento da ação penal privada subsidiária da pública, na situação específica, não impõe o reexame de provas; muito pelo contrário, trata-se de questão de direito cuja interpretação possui controvérsia prontamente admitida como fundamento para a interposição do recurso especial, razão pela qual, processualmente, filtra-se o juízo de admissibilidade pela desnecessidade da dilação probatória (questão de fato e de direito).
+Como se vê, o agravante apenas afirma que a questão é "de direito" e que "não impõe o reexame de provas", sem, contudo, desenvolver uma linha argumentativa que demonstre como seria possível, sem revolver o acervo probatório, alterar a premissa fática central do acórdão recorrido (fl. 463).
+A jurisprudência desta Corte é pacífica no sentido de que não basta a alegação genérica para afastar o óbice sumular. Conforme constou expressamente na decisão ora agravada, "é insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas, omitindo-se em indicar como, concretamente, a discussão jurídica prescinde do revolvimento fático" (fl. 515).
+Portanto, ao deixar de atacar especificamente o fundamento da decisão de inadmissibilidade, o agravo em recurso especial esbarrou, de fato, no óbice da Súmula n. 182 do STJ, aplicada por analogia, o que impedia o seu conhecimento.
+II. Súmula n. 7 do STJ
+Ainda que superado o óbice anterior, o que se admite apenas para argumentar, a pretensão do recorrente de fato demandaria o reexame de matéria fático-probatória.
+O cerne da controvérsia reside na existência ou não de inércia do Ministério Público, requisito indispensável para a propositura da ação penal privada subsidiária da pública, conforme o art. 5º, LIX, da Constituição Federal.
+O Tribunal de Justiça de Minas Gerais, após análise soberana dos fatos e das provas, concluiu que não houve a referida inércia. O acórdão recorrido é claro ao dispor: "No caso em tela não houve inércia ministerial, tendo em vista que o querelante questiona, justamente, o fato do querelado ter "iniciado a ação penal em face do médico gastroenterologista por denúncia inepta, o que considera abuso de autoridade"" (fl. 270).
+E arremata de forma contundente: "Em verdade, diga-se, não se trata de ação penal subsidiária da pública, mas de pretensão de ação penal pública diretamente exercida por particular contra servidor público, o que é inadmitido pelo ordenamento jurídico" (fl. 271).
+O recorrente, por sua vez, defende a tese de uma "inércia (por avocação)" que teria sido caracterizada pelo "pedido de arquivamento posterior ao ajuizamento da peça acusatória" (fl. 318). Para acolher tal alegação e reverter a conclusão do Tribunal a quo, seria imprescindível que esta Corte Superior reexaminasse todo o contexto processual para determinar se a atuação do membro do Ministério Público configurou ou não a inércia que autorizaria a ação subsidiária.
+A análise sobre a tempestividade e a adequação dos atos ministeriais é uma questão eminentemente fática. Desse modo, a reforma do julgado, como pretendida, encontra óbice intransponível na Súmula n. 7 do STJ.
+III. Juízo de admissibilidade implícito
+Por fim, o agravante invoca a tese do "juízo de admissibilidade implícito", argumentando que a evidência do mérito de sua irresignação autorizaria a superação dos óbices processuais.
+Tal argumento carece de amparo jurídico. O juízo de admissibilidade recursal é etapa precedente e obrigatória à análise de mérito. A doutrina da admissibilidade implícita, citada pelo recorrente, aplica-se em situações onde o Tribunal, ao julgar o mérito, implicitamente reconhece a presença dos requisitos de admissibilidade, mas não serve como ferramenta para que a parte exija a superação de vícios formais expressamente apontados, como a ausência de impugnação específica (Súmula n. 182 do STJ) e a necessidade de reexame de provas (Súmula n. 7 do STJ).
+A existência de óbices processuais claros e objetivos impede o avanço para a análise meritória, não havendo que se falar em admissão implícita de um recurso que sequer transpôs as barreiras preliminares de conhecimento.
+IV . Dispositivo
+Ante o exposto, nego provimento ao agravo regimental.
