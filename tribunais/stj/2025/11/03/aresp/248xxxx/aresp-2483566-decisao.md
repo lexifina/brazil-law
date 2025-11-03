@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por FABRICADORA DE ESPUMAS E COLCHÕES CENTRO OESTE LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE MULTA CONTRATUAL C/C OBRIGAÇÃO DE NÃO FAZER.
+1. Contrato de franquia. Distrato. O distrato é um negócio jurídico que tem por finalidade extinguir as obrigações estabelecidas em contrato anteriormente celebrado, que não tenha sido executado em sua totalidade, mediante a declaração de vontade de ambos os contratantes de colocar fim ao contrato que firmaram.
+2. Cláusula de não concorrência. Pretensão de cobrança de multa contratual. Não cabimento. Improcedência dos pedidos iniciais. Em virtude do distrato posteriormente firmado entre as partes, não há mais nada a ser discutido quanto ao contrato de franquia outrora celebrado entre elas, inclusive, no tocante as obrigações da apelante (franqueada) decorrentes da cláusula de não concorrência, vigorando, agora, tão somente o que foi estipulado no distrato acerca do tema, o que resulta no julgamento de improcedência dos pedidos iniciais.
+3. Ônus sucumbenciais. Inversão. Em razão do desfecho recursal, impõe-se a inversão dos ônus sucumbenciais, para condenar a autora/apelada ao pagamento das custas processuais e dos honorários advocatícios.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Rejeitados os embargos de declaração opostos (fls. 360-367).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos artigos 411, 416 e 422 do Código Civil e 3º da Lei de 8.955/1994 (Lei de Franquias).
+Sustenta, em síntese, que o distrato não caracteriza uma revogação da cláusula de não concorrência estabelecida no contrato.
+Alega que a c láusula décima terceira do contrato, em que está inserida a cláusula de não concorrência, é uma cláusula cujo efeito é pós-contratual, pois apresenta uma obrigação para a recorrida e um direito/garantia para a recorrente, que só pode ser exigida após a rescisão contratual, não havendo que se falar em extinção da mesma após a celebração de um distrato entre as partes.
+Foram oferecidas contrarrazões ao recurso especial (fls. 400-402).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 405-407), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 427-429).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, com base no amplo exame dos fatos e das provas acostadas aos autos, concluiu que o distrato firmado entre as partes teve por objetivo extinguir integralmente o contrato de franquia anteriormente celebrado, abrangendo todas as obrigações e responsabilidades dele decorrentes, inclusive a cláusula de não concorrência.
+Consignou, ainda, que o instrumento de distrato expressamente previu a cessação de todas as obrigações contratuais, ressalvadas apenas aquelas de natureza financeira, e conferiu quitação mútua e recíproca às partes, substituindo o contrato original.
+É o que se extrai dos seguintes trechos (fls. 317-319):
+Posteriormente, por comum acordo entre as partes, foi firmado um distrato com o propósito de rescindir o referido contrato de franquia, no qual, expressamente, constou que, salvo algumas obrigações relacionadas a questões financeiras enumeradas no pacto, todas as demais obrigações e responsabilidades jurídicas assumidas pela apelante (franqueada) estavam extintas, inexistindo qualquer indenização ou perdas e danos a serem postuladas por qualquer das partes, que deram mútua e recíproca total quitação pelo negócio ora distratado (evento 01, arquivo 06, fls. 01/02)
+3) Que por meio deste Distrato cessam todas as obrigações e responsabilidades jurídicas assumidas pelas partes os Contratos ora cancelados com exceção de cheques próprios e de terceiros, cartões de crédito e demais formas de pagamento usados pelo Franqueado até esta data para aquisição de mercadorias que, porventura, não sejam honrados pelos bancos, pelas administradoras de cartão de crédito e outras instituições credenciadas.
+4) O Franqueador, o Franqueado e seus respectivos sócios reconhecem não haver qualquer reclamação com relação as obrigações assumidas no Contrato de Franquia, inexistindo qualquer indenização ou perdas e danos a serem postuladas por qualquer das partes, que dão aqui mútua e reciprocamente total quitação pelo negócio ora distratado, exceção feita aos cheques, cartões e demais formas de pagamento usados pelo Franqueado para aquisição de mercadorias e eventual falta de balanço das mercadorias consignadas constatadas na contagem final que, se não quitados de forma amigável, permitirão ao Franqueador tomas as medidas judiciais cabíveis, bem como os valores confessados neste instrumento.
+Especificamente quanto a cláusula de não concorrência prevista no contrato de franquia firmado entre as partes (evento 01, arquivo 04, fl. 09, cláusula 13), tenho que houve substancial alteração, restando consignado no mencionado distrato apenas que:
+1) O Franqueado cessa imediatamente o uso da marca "ORTOBOM", ou qualquer outro sinal que identifique o Franqueador, devolvendo, neste ato, todo o material que possa caracterizar a franquia ou ser de propriedade do Franqueador.
+Logo, forçoso concluir, na contramão da sentença recorrida, que é totalmente descabida qualquer pretensão de cobrança de multa contratual c/c obrigação de fazer pela apelada com base no contrato de franquia celebrado entre as partes.
+Com efeito, como cediço, o distrato é um negócio jurídico que tem por finalidade extinguir as obrigações estabelecidas em contrato anteriormente celebrado, que não tenha sido executado em sua totalidade, mediante a declaração de vontade de ambos os contratantes de colocar fim ao contrato que firmaram.
+ ..
+A respeito do assunto, cumpre registrar, ainda, o que constou expressamente no distrato firmado entre as partes:
+6) O presente Distrato é celebrado em caráter irrevogável e irretratável, obrigando as partes, seus sócios, sucessores e herdeiros ao cumprimento de suas estipulações. Esse distrato substitui todo e qualquer outro documento, acordo ou acerto feito anteriormente na forma escrita, verbal ou por meio eletrônico, entre o Franqueador e o Franqueado.
+Assim sendo, em virtude do distrato posteriormente firmado entre as partes, não há mais nada a ser discutido quanto ao contrato de franquia outrora celebrado entre elas, inclusive, no tocante as obrigações da apelante (franqueada) decorrentes da cláusula de não concorrência (cláusula 13), vigorando, agora, tão somente o que foi estipulado no distrato acerca do tema (item 1).
+Assim, alterar o decidido no acórdão impugnado, no que se refere à conclusão de que o distrato extinguiu integralmente o contrato de franquia e as obrigações dele decorrentes, inclusive a cláusula de não concorrência (à luz das cláusulas 3, 4 e 6 do distrato e 13 do contrato), exige a análise das cláusulas contratuais e o reexame de fatos e provas, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+No mesmo sentido, cito: AREsp n. 2.789.909, Ministro Ricardo Villas Bôas Cueva, DJEN de 13/2/2025.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem -se.
+ EMENTA
