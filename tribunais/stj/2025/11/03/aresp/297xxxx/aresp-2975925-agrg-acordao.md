@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PEDIDO DE CONCESSÃO DE ORDEM DE OFÍCIO. ART. 647-A DO CPP. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo em recurso especial deve impugnar, de forma específica e fundamentada, todos os óbices apontados pela decisão que inadmitiu o recurso especial, sob pena de não conhecimento, nos termos da Súmula n. 182/STJ, segundo a qual "é inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+2. No caso, o deixou de rebater especificamente a incidência da Súmula n. 211/STJ, limitando-se a afirmar genericamente que, "no entender da defesa", a súmula não incidiria ao caso, sem enfrentar adequadamente o fundamento do Tribunal de origem quanto à necessidade de arguição de violação ao art. 619 do CPP para configurar o prequestionamento ficto em relação ao art. 617 do CPP.
+3. O habeas corpus de ofício é deferido por iniciativa do julgador. A parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias indiretas, alcançar a análise de mérito de recurso ou habeas corpus inadmitido. No caso, foi obstado o conhecimento do recurso por violação ao princípio da dialeticidade, de modo que o mérito nem sequer chegou a ser apreciado por esta Corte.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JULIANO DURÃO DE LIMA interpõe agravo regimental contra decisão monocrática em que não conheci do seu agravo em recurso especial.
+Consta dos autos que o recorrente foi condenado à pena de cinco anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime de tráfico de drogas.
+Nas razões do agravo regimental, a parte agravante sustenta, em síntese, que a decisão monocrática deixou de apreciar o pedido subsidiário de concessão de ordem de ofício e que não há óbice ao conhecimento do agravo. Requer, assim, a reconsideração da decisão agravada ou a submissão do feito a julgamento colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. PEDIDO DE CONCESSÃO DE ORDEM DE OFÍCIO. ART. 647-A DO CPP. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo em recurso especial deve impugnar, de forma específica e fundamentada, todos os óbices apontados pela decisão que inadmitiu o recurso especial, sob pena de não conhecimento, nos termos da Súmula n. 182/STJ, segundo a qual "é inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+2. No caso, o deixou de rebater especificamente a incidência da Súmula n. 211/STJ, limitando-se a afirmar genericamente que, "no entender da defesa", a súmula não incidiria ao caso, sem enfrentar adequadamente o fundamento do Tribunal de origem quanto à necessidade de arguição de violação ao art. 619 do CPP para configurar o prequestionamento ficto em relação ao art. 617 do CPP.
+3. O habeas corpus de ofício é deferido por iniciativa do julgador. A parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias indiretas, alcançar a análise de mérito de recurso ou habeas corpus inadmitido. No caso, foi obstado o conhecimento do recurso por violação ao princípio da dialeticidade, de modo que o mérito nem sequer chegou a ser apreciado por esta Corte.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pela parte agravante, entendo que não lhe assiste razão.
+Conforme destaquei na decisão agravada, o agravo não comporta conhecimento, visto que a parte agravante deixou de rebater todos os fundamentos da decisão agravada.
+O recurso especial foi inadmitido em razão dos seguintes óbices: Súmula n. 7 do STJ, Súmula n. 83 do STJ e Súmula n. 211 do STJ.
+No caso, verifica-se que, nas razões do agravo em recurso especial, a parte agravante deixou de rebater a incidência da Súmula n. 211 do STJ.
+Com efeito, em relação a tal óbice, o Tribunal de origem destacou a necessidade de arguição de violação ao art. 619 do CPP para configurar o prequestionamento ficto em relação ao art. 617 do CPP. Todavia, o agravante nada discorreu sobre esse óbice. A simples afirmativa de que, "no entender da defesa", a Súmula não incide ao caso não se presta à impugnação do fundamento constante da decisão agravada.
+Portanto, verifica-se que o agravante não rebateu, com particularidade, todos os óbices de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Por fim, o habeas corpus de ofício é deferido por iniciativa do julgador. A parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias indiretas, alcançar a análise de mérito de recurso ou habeas corpus inadmitido . No caso, foi obstado o conhecimento do recurso por violação ao princípio da dialeticidade, de modo que o mérito nem sequer chegou a ser apreciado por esta Corte.
+À vista do exposto, nego provimento ao agravo regimental.
