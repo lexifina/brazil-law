@@ -1,0 +1,22 @@
+DECISÃO
+SIDNEY NASCIMENTO BERTOLDO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no Habeas Corpus n. 1.0000.25.028403-1/000.
+Consta dos autos que o paciente foi preso preventivamente e pronunciado pela suposta prática do crime previsto nos arts. 121, § 2º, I, III e IV, (duas vezes) do Código Penal.
+A defesa alega, em síntese, que há excesso de prazo da custódia cautelar, uma vez que o acusado está preso desde 4/4/2024 e há demora injustificada na designação da sessão plenária depois da preclusão da decisão de pronúncia.
+Requer, assim, a concessão da ordem para que seja relaxada a prisão preventiva.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 1.793-1.795).
+Em audiência virtual com o advogado do paciente em 23/10/2025, Dr. Pedro Henrique Pinto Saraiva, foram reforçados os argumentos da impetração. Foi noticiado, ainda, que o julgamento em plenário está agendado para fevereiro de 2026.
+Decido.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerado cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+O paciente está preso desde 4/4/2024 (fl. 837) pela prática, em tese, de dois homicídios qualificados. Quanto ao aduzido excesso de prazo, a Corte local consignou o seguinte (fls. 8-9):
+No presente caso, verifica-se que o paciente foi preso temporariamente em 04/04/2024, pela suposta prática do delito de homicídio qualificado, sendo que, por ocasião do recebimento da denúncia, foi a custódia do paciente convertida em preventiva em 24/05/2024 (doc. 57). Pronunciados em 24/09/2024 (doc. 309), manteve-se a segregação do acusado, aportando os autos no juízo de origem no dia 23/10/2024, oportunidade em que foram determinadas diligências nos termos do art. 422 do CPP.
+Atenta às ponderações defensivas, no dia 28/01/2025, determinou a autoridade apontada coatora que fosse certificado nos autos a juntada da prova pericial requisitada e, caso não houvesse sido juntada, que oficiasse a autoridade policial competente (doc. 383).
+Sendo assim, no caso dos autos, não se pode olvidar que a primeira parte da instrução criminal já foi finalizada, sobrevindo, inclusive, decisão de pronúncia, não havendo que se falar, por ora, em constrangimento ilegal e, via de consequência, no relaxamento da prisão do acusado.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça, sedimentado na Súmula 21, in verbis:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+A denúncia foi recebida em 24/5/2024 (fl. 840). Conforme informado pelo Juiz de primeira instância (fls. 1.783-1.785), a decisão de pronúncia (fls. 1.558-1.566) transitou em julgado para o paciente em 14/10/2024 e, depois do desmembramento do processo (fl. 1.657) e do cumprimento da fase do art. 422 do CPP, o prosseguimento da ação penal aguarda o atendimento da diligência solicitada pelo Ministério Público (exame de microcomparação balística). Em audiência com o advogado do paciente, foi informado que o julgamento em plenário foi marcado para fevereiro de 2026.
+Tal como concluiu o Tribunal estadual, não constato desídia do Juízo natural da causa na condução do processo a ensejar a intervenção desta Corte Superior, notadamente se considerado que os feitos sujeitos ao procedimento especial do júri são naturalmente mais complexos e alongados, dado o seu sistema bifásico.
+Assim, pelo que consta dos autos, julgo não haver morosidade excessiva atribuível ao Juízo de primeiro grau, que, a despeito de conduzir feito que visa apurar crimes graves - dois homicídios qualificados -, vem promovendo andamento processual regular. Ademais, verifico a proximidade de conclusão do feito, com a sessão de julgamento já agendada para data próxima.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
