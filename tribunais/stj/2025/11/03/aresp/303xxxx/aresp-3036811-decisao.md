@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por JOIE SUPLEMENTOS EIRELI EPP contra decisão na parte em que inadmitido o recurso especial relativamente ao fundamento de ausência de violação dos arts. 1.022, I, parágrafo único, II, e 489, § 1º, IV e V, do CPC/2015. Ao recurso especial, no tocante ao mérito, foi negado seguimento, por força da conformidade do acórdão com a tese definida no Tema Repetitivo n. 1.174/STJ.
+No ponto, o recorrente, nas razões recursais, alega que o acórdão: (i) desconsiderou que o Tema 1.174/STJ estaria pendente julgamento definitivo, devendo-se manter a suspensão do processamento do processo; (ii) não existe solução definitiva para o Tema 1.174/STJ, tendo em vista a possibilidade de revisitação da tese pelo STF; (iii) o acórdão integrativo não enfrentou os argumentos capazes de infirmar a conclusão adotada.
+E conclui : "Dessa forma, a permanência dos referidos vícios, mesmo após a oposição de embargos de declaração, configura manifesta afronta aos arts. 489 e 1.022 do CPC, exigindo o reconhecimento da negativa de prestação jurisdicional e a consequente anulação do v. acórdão para que haja a devida fundamentação da decisão judicial" (fl. 589).
+Sem contrarrazões.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+À vista das teses vinculadas à violação do art. 1.022 do CPC/2015, confere-se das alegações apresentadas no recurso de embargos de declaração opostos na origem que a parte requereu a suspensão do julgamento do recurso, "considerando que a matéria discutida nos autos é idêntica ao tema afetado pelo STJ (Tema 1174), a Embargante requer que seja determinada a suspensão do processo, até o julgamento final pela corte superior, com o fim de garantir a segurança jurídica" (fl. 548).
+A isso, dispôs o acórdão integrativo (fls. 572/573, grifos nossos):
+ ..  Afirma ser caso de suspensão do processo até o julgamento final do Tema 1174, pelo STJ.  ..
+O voto recorrido foi assim fundamentado (ID 304615645):
+"Na sequência, anoto que, em razão do decidido, em 14/08/2024, no Tema 1.174/STJ, não mais subsiste a causa de sobrestamento determinada em 27/09/2022  ..
+A alegação de revisitação da tese jurídica definida pelo STJ pelo STF não foi arguida nos embargos opostos na origem, e sua arguição no apelo nobre é genérica, desacompanhada de causa de pedir suficiente à compreensão da controvérsia, motivo pelo qual, no ponto, não se conhece do recurso quanto ao art. 1.022 do CPC/2015, diante da deficiência das razões recursais, Incidência da Súmula 284/STF.
+A respeito do art. 489 do CPC/2015, não se conhece do recurso. Além de não haver o prequestionamento do referido dispositivo, porquanto nem sequer alegado no recurso integrativo, a insurgência recursal é genérica, pois desacompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado e de sua relevância, para fins de demonstrar a necessidade de rejulgamento dos aclaratórios. Incidência do óbice da Súmula 282/STF, por falta de cumprimento do requisito do prequestionamento, e da Súmula 284/STF, por configurada a deficiência das razões recursais.
+Ante todo o exposto, conheço do agravo e conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento.
+Majoro em 10 % (dez por cento) o percentual dos honorários advocatícios sucumbenciais fixado no acórdão recorrido (fl. 544), respeitando-se os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO E RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
