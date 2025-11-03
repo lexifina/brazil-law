@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei interposto por Vinicíus Eduardo Nascimento, com fundamento no artigo 18, § 3º, da Lei n. 12.153/2009, contra acórdão proferido pela Terceira Turma da Fazenda do Colégio Recursal de São Paulo, assim ementado (fl. 199):
+DIREITO ADMINISTRATIVO. AUTO DE INFRAÇÃO DE TRÂNSITO. NOTIFICAÇÃO DA PENALIDADE. ENVIO AO PROPRIETÁRIO DO VEÍCULO. REGULARIDADE. AUSÊNCIA DE CERCEAMENTO DE DEFESA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+I. CASO EM EXAME Recurso inominado interposto por condutor autuado por infração ao artigo 165-A do CTB, visando à anulação do auto de infração sob alegação de ausência de notificação pessoal da penalidade, o que teria impedido o exercício do contraditório e da ampla defesa. Sentença de improcedência.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) definir se a ausência de notificação pessoal ao condutor infrator, quando não proprietário do veículo, configura violação ao devido processo legal; e (ii) estabelecer se a notificação enviada exclusivamente a proprietária do veículo é suficiente para garantir a regularidade do procedimento administrativo.
+III. RAZÕES DE DECIDIR Nos termos do artigo 282, §3º, do CTB, e do artigo 4o da Resolução Contran nº 918/2022, a notificação da penalidade deve ser enviada ao proprietário do veículo, sendo este o responsável pelo pagamento da multa, independentemente de ser o condutor infrator.
+Não há cerceamento de defesa quando a notificação da penalidade é regularmente encaminhada ao proprietário do veículo, especialmente quando o condutor apresentou defesa prévia, a qual foi devidamente apreciada pela autoridade competente.
+A ciência da infração é presumida quando ocorre a lavratura do auto de infração em abordagem presencial, não sendo necessária notificação específica ao condutor.
+No caso concreto, as notificações foram enviadas à proprietária do veículo, inexistindo qualquer irregularidade que comprometa a validade do ato administrativo.
+IV. DISPOSITIVO E TESE
+Embargos de declaração rejeitados (fls. 216-219).
+O requerente alega a existência de divergência de entendimentos entre o acórdão recorrido e o que assentado pela 4ª Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Paraná (Recurso Inominado n. 0009541-14.2019.8.16.0182), no sentido de que, "nos casos em que o condutor é identificado no momento da infração, é obrigatória a sua notificação pessoal tanto da autuação quanto da penalidade, sob pena de nulidade do auto de infração, com fundamento os princípios constitucionais do contraditório e da ampla defesa, e na interpretação sistemática dos arts. 257, §3º, e 282 do CTB, em harmonia com a Súmula 312 do STJ" (fls. 6).
+Defende, em síntese, a necessidade de dupla notificação (autuação e imposição de penalidade) ao condutor infrator identificado, quando distinto do proprietário, sob pena de cerceamento de defesa e nulidade do auto, bem como o reconhecimento da decadência administrativa se não expedida a notificação da autuação em 30 dias (art. 281, § 1º, II, do CTB).
+Argumenta que o acórdão recorrido adotou interpretação literal e restritiva do art. 282, § 3º, do CTB, ao reputar suficiente a notificação ao proprietário e presumir a ciência do condutor pela abordagem presencial, contrariando entendimento firmado em julgados das Turmas Recursais do Paraná e no Tema 23 do Tribunal Regional Federal da 4ª Região (IRDR), cuja tese foi assim registrada: "É obrigatória a remessa da notificação de imposição de penalidade de multa (NIP) para o proprietário do veículo e para o condutor infrator, quando estes forem pessoas distintas" (fls. 11).
+Impugnação às fls. 228-238.
+É o relatório. Passo a decidir.
+De início, constata-se que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do art. 18, § 3º, da Lei 12.153/2009, caberá pedido de uniformização de interpretação de lei dirigido a esta Corte quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com sua súmula.
+No caso, a matéria suscitada pela parte como divergente diz respeito à necessidade da dupla notificação, relativa à autuação da infração de trânsito e da imposição da pena de multa, não só ao proprietário, mas também ao condutor do veículo, para fins de garantir o contraditório e ampla defesa.
+Os autos tratam de infração aplicada por ofensa ao art. 165-A, do CTB, que assim dispõe:
+Art. 165-A. Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277:
+Infração - gravíssima;
+Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses;
+Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270.
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses
+O acórdão impugnado prolatado pela Turma Recursal, entendeu que: i) a ciência da infração é presumida quando ocorre a lavratura do auto de infração em abordagem presencial, não sendo necessária notificação específica ao condutor; ii) as notificações (autuação e penalidade) foram enviadas à proprietária do veículo, inexistindo qualquer irregularidade que comprometa a validade do ato administrativo.
+Ocorre que esta Corte já se manifestou em sentido contrário, de que a imposição de penalidade diretamente ao condutor devidamente identificado, em decorrência direta de cometimento de infração, exige sua dupla notificação prévia.
+Isso porque, ainda que a sanção pecuniária possa ser preservada pela dupla notificação do proprietário, o mesmo não se pode dizer sobre as sanções pessoais a serem suportadas exclusivamente pelo condutor, que devem ser a ele devidamente notificadas, na forma da Súmula 312/STJ, em respeito ao contraditório e à ampla defesa.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DIREITO DO TRÂNSITO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. DUPLA NOTIFICAÇÃO DO INFRATOR. AUSÊNCIA. PENALIDADE IMPOSTA UNICAMENTE AO CONDUTOR. DECORRÊNCIA DIRETA DA INFRAÇÃO. INSUBSISTÊNCIA. PEDIDO DE UNIFORMIZAÇÃO PROCEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. A imposição de penalidade diretamente ao condutor devidamente identificado, em decorrência direta de cometimento de infração, exige sua dupla notificação prévia.
+2. A existência de dupla notificação ao proprietário valida a multa que é de sua responsabilidade, mas não exime a autoridade de trânsito de igualmente notificar o infrator, para o exercício de seu direito de defesa autônomo, notadamente havendo sanção diretamente decorrente do ato supostamente cometido e destinada exclusivamente ao condutor.
+3. Agravo interno desprovido.
+(AgInt no PUIL n. 3.113/RS, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 20/8/2024, DJe de 26/8/2024.)
+Na mesma linha são as seguintes decisões proferidas em casos análogos: PUIL n. 4.901/SP, Ministro Gurgel de Faria, DJEN de 03/06/2025; e PUIL n. 5.319/SP, Ministro Benedito Gonçalves, DJEN de 02/10/2025
+Ante o exposto, julgo procedente o pedido, para reconhecer a obrigatoriedade da dupla notificação do infrator destinatário da sanção específica, seja ele condutor ou proprietário, nos limites de suas respectivas responsabilidades, como requisito à imposição de penalidades no âmbito do Código de Trânsito Brasileiro.
+Publique-se. Intimem-se.
+EMENTA
