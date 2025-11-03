@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO JOSE ANTUNES DE LIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 38):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DECLARAÇÃO DE EXTINÇÃO DA EXECUÇÃO. RECURSO PREJUDICADO.
+1. Agravo de instrumento interposto pelo exequente em face de decisão que homologou os cálculos elaborados pela Contadoria, no importe de R$ 312.824,85, diante da correta observância aos parâmetros anteriormente estabelecidos para cômputo da GIFA.
+2. A questão de inconformismo recursal se refere aos critérios de cálculo da Gratificação de Incremento da Fiscalização e da Arrecadação (GIFA), em decorrência da incidência da GAT em sua composição.
+3. Em consulta aos demais recursos vinculados ao processo originário, vê-se que a decisão que determinou a incidência da GAT sobre todas as demais verbas remuneratórias foi reformada por meio do agravo de instrumento (processo n.º 0815899-62.2019.4.05.000), no qual foi acolhida a tese da executada para extinguir o cumprimento de sentença, nos termos do art. 525, § 1º, V c/c art. 924, II do CPC.
+4. Tendo sido extinto o cumprimento de sentença, entende-se que houve a perda de objeto e de utilidade do presente recurso, no qual se buscava alterar os parâmetros da liquidação para apuração da GIFA.
+5. Agravo prejudicado.
+Os embargos de declaração opostos foram rejeitados (fl. 77).
+Nas razões de seu recurso, a parte recorrente sustenta ter havido violação dos arts. 313, inciso V, alínea a, 489, inciso II, § 3º, e 1.022, inciso II, do Código de Processo Civil (CPC). Alega o seguinte:
+(1) ocorrência de negativa de prestação jurisdicional; e
+(2) "a pendência de julgamento definitivo do Ag. nº 0815899- 62.2019.4.05.000, no qual a discussão travada se dá em torno da suposta incongruência entre a pretensão executória e o título executivo prolatado nos autos do Recurso Especial n. 1.585.383/DF - influencia diretamente o deslinde da questão posta pelo ora recorrente através do presente Ag. nº 0809165-61.2020.4.05.0000" (fl. 100), devendo os presentes autos serem suspensos.
+Requer o acolhimento da alegação de violação do art. 1.022, inciso II, do CPC ou, alternativamente, a reforma do acórdão recorrido para "determinar a suspensão deste Agravo de Instrumento (nº 0809165-61.2020.4.05.0000), até o julgamento final do Agravo nº 0815899-62.2019.4.05.000, como medida de cautela e resguardo ao direito do recorrente" (fl. 101).
+A parte adversa apresentou contrarrazões (fls. 112/127).
+O recurso foi admitido (fl. 129).
+É o relatório.
+Conforme se extrai dos autos, " t rata-se de agravo de instrumento interposto por Paulo José Antunes de Lira em face de decisão proferida pelo MM. Juízo Federal da 21ª Vara de Pernambuco que, nos autos do processo n.º 0811246-46.2019.4.05.8300, homologou os cálculos elaborados pela Contadoria, no importe de R$ 312.824,85 (trezentos e doze mil, oitocentos e vinte e quatro reais e oitenta e cinco centavos), diante da correta observância aos parâmetros anteriormente estabelecidos para cômputo da GIFA" (fl. 35).
+A parte recorrente não deduziu em seu agravo de instrumento (fls. 2/12) nenhum argumento relativo à ofensa ao art. 313, inciso V, alínea a, do CPC, no sentido de que "a pendência de julgamento definitivo do Ag. nº 0815899-62.2019.4.05.000, no qual a discussão travada se dá em torno da suposta incongruência entre a pretensão executória e o título executivo prolatado nos autos do Recurso Especial n. 1.585.383/DF - influencia diretamente o deslinde da questão posta pelo ora recorrente através do presente Ag. nº 0809165-61.2020.4.05.0000" (fl. 100).
+Assim, descabe reconhecer a alegada negativa de prestação jurisdicional, o que afasta a cogitada ofensa aos arts. 489, inciso II, § 3º, e 1.022, inciso II, do CPC por se tratar de indevida inovação recursal, já que a questão não foi suscitada em recurso de agravo de instrumento (fls. 2/12), mas apenas em embargos de declaração (fls. 50/58).
+Para o Superior Tribunal de Justiça (STJ), não há que se falar em omissão do acórdão recorrido "acerca de questão que não foi oportunamente levada ao seu conhecimento, nas razões do recurso de apelação, sendo trazida pela parte apenas em embargos de declaração, em nítida inovação recursal" (AgInt no REsp 1.970.683/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022).
+Nesse contexto, o art. 313, inciso V, alínea a, do CPC não foi apreciado pelo Tribunal de origem.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incide no presente caso, por analogia, a Súmula 282 do Supremo Tribunal Federal (STF).
+Destaco que " e sta Corte Superior tem entendido que o acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada" (AgInt no REsp 2.170.602/ES, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/4/2025, DJEN de 25/4/2025), o que não se verifica na presente hipótese.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+EMENTA
