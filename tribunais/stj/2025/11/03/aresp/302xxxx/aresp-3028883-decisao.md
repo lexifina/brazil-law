@@ -1,0 +1,13 @@
+DECISÃO
+ANTÔNIO ROGÉRIO SOARES DE ARAÚJO agrava de decisão que inadmitiu o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, na Apelação Criminal n. 0202624-63.2023.8.06.0301.
+O agravante foi condenado a 10 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 105 dias-multa, pela prática do crime previsto no art. 157, § 2º, II e V, do Código Penal.
+Nas razões do especial, a defesa alega afronta ao artigo 386, incisos IV, V e VI, do Código de Processo Penal. Aduz, em síntese, a ausência de provas quanto a materialidade e autoria e de fundamentação quanto às causas de aumento de pena aplicadas na dosimetria, pugna, ainda pela alteração do regime de cumprimento de pena a partir do redimensionamento pretendido.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 1385-1388).
+Decido.
+No caso, o agravo em recurso especial é manifestamente intempestivo, eis que interposto fora do prazo de quinze dias corridos, nos termos dos arts. 994. VIII, 1.003, §5º, e 1.042, caput, do Código de Processo Civil, bem como do art. 789 do Código de Processo Penal.
+Denota-se que a publicação da decisão de inadmissibilidade do recurso especial ocorreu no dia 2/5/2025 (fl. 1321), de modo que o prazo recursal iniciou em 5/5/2025 e findou em 19/5/2025. Todavia, o agravo em recurso especial foi interposto somente em 2/6/2025, quando já ultrapassado o prazo legal, sendo, assim, manifesta a sua intempestividade.
+Neste ponto, consigna-se que após a edição do CPC, que estabeleceu o prazo de quinze dias para a interposição de todos os recursos nele previstos, com exceção dos embargos de declaração - a Terceira Seção desta Corte, no julgamento do AgRg na Reclamação n. 30.714/PB, solidificou o entendimento no sentido de que o regramento de contagem dos prazos em dias úteis não se aplica às controvérsias pertinentes a matéria penal ou processual penal.
+Outrossim, para a comprovação de possível indução a erro na contagem do prazo processual, é indispensável que haja nos autos documento que comprove a alegação da parte, como a indicação, na própria certidão de intimação, do prazo recursal fixado pelo Tribunal de origem. A apresentação de prints de tela ou a imagem de página extraída da internet e inserida na petição do recurso não são suficientes para se concluir que houve falha na prestação da informação pelo Tribunal (AgRg no REsp n. 2.067.353/PB. relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
