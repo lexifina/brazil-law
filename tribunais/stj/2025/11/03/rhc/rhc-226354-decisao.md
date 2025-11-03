@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por TAIS VECINA ABIB, apontando como autoridade coatora o Tribunal Regional Federal da 3ª Região (HC n. 5020861-23.2025.4.03.0000).
+Extrai-se dos autos que a recorrente foi condenada, nos autos da Ação Penal n. 5003853-46.2019.4.03.6110, à pena de 2 (dois) anos e 11 (onze) meses de reclusão, em regime inicial aberto, mais o pagamento de 14 (quatorze) dias-multa, pela prática do crime tipificada no artigo 1º, inciso I da Lei n. 8.137/1990, cumulado com o artigo 71 do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação.
+Ainda, impetrou habeas corpus perante a Corte Regional, visando a desconstituição da sentença condenatória para absolver a recorrente por manifesta insuficiência de provas para a condenação, com fundamento no artigo 386, inciso VII, do Código de Processo Penal, ou para anular a ação penal, a partir da fase instrutória, em razão da nulidade absoluta decorrente do cerceamento de defesa, para que outra instrução seja realizada, com a garantia da produção de todas as provas pertinentes, notadamente a pericial contábil.
+Em decisão monocrática, o writ não foi conhecido pelo Relator, sem resolução de mérito, notadamente pela observância ao princípio da unirrecorribilidade recursal (e-STJ fls. 3.730/3.734).
+Contra essa decisão, a defesa interpôs agravo regimental.
+Nesse ínterim, sobreveio julgamento do recurso de apelação pelo Tribunal a quo, oportunidade na qual as preliminares de nulidade foram afastadas e, no mérito, a apelação foi desprovida.
+Após, o agravo regimental foi julgado prejudicado, monocraticamente, pelo Relator (e-STJ fls. 3.747/3.750).
+Daí o presente recurso ordinário (e-STJ fls. 3.752/3.763), no qual a defesa, em suma, renova as teses trazidas no writ originário, consistentes na absolvição por atipicidade da conduta por ausência do elemento subjetivo especial do tipo e na nulidade absoluta em razão do indeferimento da prova pericial contábil pelo juízo de primeiro grau, sob a frágil alegação de preclusão.
+Ao final, enumera os seguintes pedidos:
+LIMINARMENTE, seja deferida a medida de urgência para suspender a eficácia e todos os efeitos da r. sentença condenatória proferida nos autos da Ação Penal nº 5003853-46.2019.4.03.6110, até o julgamento final do presente recurso, dada a avassaladora plausibilidade jurídica do direito invocado (fumus boni iuris) e o perigo de dano irreparável à liberdade e à dignidade da Recorrente (periculum in mora).
+NO MÉRITO, seja julgado procedente o pedido para:
+a. (Pedido Principal) CONCEDER A ORDEM DE HABEAS CORPUS para ABSOLVER a Recorrente TAIS VECINA ABIB da imputação que lhe foi feita, seja pela ausência de prova da existência do fato (materialidade), ante a não realização da indispensável perícia contábil (art. 386, II, do CPP), seja pela manifesta insuficiência de provas para a condenação e pela atipicidade da conduta por ausência de dolo específico (art. 386, III e VII, do CPP);
+b. (Pedido Subsidiário) Sucessivamente, caso não seja este o entendimento de Vossas Excelências, CONCEDER A ORDEM DE HABEAS CORPUS para DECLARAR A NULIDADE ABSOLUTA da Ação Penal nº 5003853- 46.2019.4.03.6110, a partir da fase instrutória, em razão do flagrante e insanável cerceamento de defesa, determinando-se o retorno dos autos à origem para que outra instrução seja realizada, garantindo-se à Recorrente o direito à produção de todas as provas pertinentes, notadamente a pericial contábil.
+É o relatório. Decido.
+De plano, destaco que o presente recurso em habeas corpus não merece conhecimento.
+Como é cediço, a competência taxativa do Superior Tribunal de Justiça está prevista no art. 105 da Constituição Federal, in verbis:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;
+c) os habeas corpus , quando o coator ou paciente for qualquer das pessoas mencionadas na alínea "a", ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;
+d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos;
+e) as revisões criminais e as ações rescisórias de seus julgados;
+f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+g) os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União;
+h) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;
+i) a homologação de sentenças estrangeiras e a concessão de exequatur às cartas rogatórias;
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País;
+III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal. - negritei.
+Na hipótese, verifica-se que a defesa impugna, na verdade, decisão singular de Desembargador Federal que não conheceu do writ, porquanto impetrado em concomitância com a interposição de recurso de apelação.
+Nesse panorama, O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça (AgRg no RHC n. 118.447/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/10/2019, DJe de 18/10/2019).
+Por fim, cumpre ressaltar que, como é de conhecimento, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do Habeas Corpus n. 482.549/SP, firmou o entendimento de que a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita imediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual (HC n. 482.549/SP, Ministro ROGERIO SCHIETTI CRUZ, Terceira Seção, DJe de 3/4/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CORRUPÇÃO PASSIVA E LAVAGEM DE DINHEIRO. EXCEÇÃO DE INCOMPETÊNCIA. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, conforme vem decidindo o Supremo Tribunal Federal, afirma: " ..  A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei.
+Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020).
+2. Ainda segundo o entendimento consolidado desta Corte Superior:
+" ..  a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020).
+3. No caso, correta a conclusão do Tribunal de origem de que o habeas corpus e seu respectivo recurso não são a via adequada para discutir a exceção de incompetência. Isso porque, além de não haver ameaça mediata ao direito de locomoção do recorrente, que está em liberdade, a jurisdição a ser prestada na origem ainda não se esgotou, uma vez que a referida nulidade ainda pode ser discutida em apelação e seus respectivos recursos, o que afasta a tese de negativa de prestação jurisdicional.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 201.716/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024.) - negritei.
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Intimem-se.
+EMENTA
