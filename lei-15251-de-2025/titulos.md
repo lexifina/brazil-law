@@ -1,0 +1,1 @@
+Dispõe sobre a transferência simbólica da capital da República Federativa do Brasil para a cidade de Belém, no Estado do Pará, durante a 30ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP 30), a ser realizada no período de 11 a 21 de novembro de 2025.
