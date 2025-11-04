@@ -1,0 +1,2 @@
+Altera a Lei nº 10.098, de 19 de dezembro de 2000 (Lei da Acessibilidade), e a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre a instalação de sistemas de comunicação aumentativa e alternativa de baixa tecnologia em espaços públicos e abertos ao público, com vistas à promoção da acessibilidade da pessoa com necessidades complexas de comunicação.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
