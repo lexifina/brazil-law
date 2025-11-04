@@ -1,0 +1,1 @@
+Art. 231-B. Aplica-se o prazo de 12 meses previsto na redação original do parágrafo único do art. 71 desta Lei Complementar ao membro cuja última promoção ou remoção voluntária tenha ocorrido antes da entrada em vigor da Lei Complementar nº 313, de 7 de julho de 2023.

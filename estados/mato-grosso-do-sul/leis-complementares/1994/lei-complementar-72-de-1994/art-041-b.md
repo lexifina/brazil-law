@@ -1,0 +1,1 @@
+Art. 41-B. O Procurador-Geral de Justiça, mediante resolução, ouvido o Colégio de Procuradores, disciplinará a organização, funcionamento e demais atribuições da Escola Superior do Ministério Público.

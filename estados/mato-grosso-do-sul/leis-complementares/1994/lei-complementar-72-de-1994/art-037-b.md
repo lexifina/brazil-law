@@ -1,0 +1,2 @@
+Art. 37-B. As funções de Ouvidor e Ouvidor Substituto serão exercidas por membros em atividade do Ministério Público que contem com mais de dez anos de carreira e trinta e cinco anos de idade, mediante designação do Procurador-Geral de Justiça para mandato de dois anos, sujeitando-se as designações a referendo do Colégio de Procuradores de Justiça.
+Parágrafo único. A designação para Ouvidor do Ministério Público e Ouvidor Substituto não implica no afastamento das funções do cargo.

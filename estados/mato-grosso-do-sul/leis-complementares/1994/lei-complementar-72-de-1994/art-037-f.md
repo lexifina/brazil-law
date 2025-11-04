@@ -1,0 +1,1 @@
+Art. 37-F. Em caso de vacância do cargo de Ouvidor do Ministério Público, assumirá interinamente o cargo o Ouvidor Substituto e, no seu eventual impedimento, membro do Ministério Público designado pelo Procurador-Geral de Justiça, pelo prazo máximo de quinze dias, período em que deverão ser realizadas novas designações para mandato de dois anos.

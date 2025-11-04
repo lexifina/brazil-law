@@ -1,0 +1,1 @@
+Art. 41-C. As despesas decorrentes do funcionamento da Escola Superior do Ministério Público correrão por conta da dotação orçamentária do Ministério Público e do Fundo Especial de Apoio e Desenvolvimento do Ministério Público.

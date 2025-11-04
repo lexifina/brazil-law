@@ -1,0 +1,1 @@
+Art. 37-G. O Ouvidor do Ministério Público tomará posse e entrará em exercício em sessão solene do Colégio de Procuradores de Justiça, no primeiro dia útil seguinte ao término do mandato de seu antecessor.

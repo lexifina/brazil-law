@@ -1,0 +1,3 @@
+Art. 60-B. O Conselho Superior do Ministério Público terá o prazo máximo de sessenta dias para decidir sobre o não vitaliciamento e o Colégio de Procuradores de Justiça terá o prazo de trinta dias para decidir eventual recurso.
+§ 1º Durante a tramitação do procedimento de impugnação, o membro do Ministério Público perceberá vencimentos integrais, contando-se para todos os efeitos o tempo de suspensão do exercício funcional, no caso de vitaliciamento.
+§ 2º Transitada em julgado a decisão desfavorável ao vitaliciamento, o Promotor de Justiça será exonerado por ato do Procurador-Geral de Justiça.

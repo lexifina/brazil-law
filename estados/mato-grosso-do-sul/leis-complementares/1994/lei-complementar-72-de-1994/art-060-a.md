@@ -1,0 +1,6 @@
+Art. 60-A. Se a conclusão do relatório do Corregedor-Geral do Ministério Público for desfavorável ao vitaliciamento ou se for apresentada a impugnação de que cuida o § 2º do art. 60, o Conselho Superior do Ministério Público ouvirá, no prazo de dez dias, o Promotor de Justiça interessado, que poderá apresentar defesa prévia e requerer provas nos cinco dias seguintes, pessoalmente ou por procurador.
+§ 1º Encerrada a instrução, o interessado terá vista dos autos para alegações finais pelo prazo de dez dias.
+§ 2º Na primeira reunião ordinária subsequente, o Conselho Superior do Ministério Público decidirá pelo voto da maioria absoluta dos seus membros.
+§ 3º Da decisão contrária ao vitaliciamento caberá recurso do interessado ao Colégio de Procuradores de Justiça, no prazo de dez dias contados de sua intimação, que será processado na forma de seu regimento interno.
+§ 4º A intimação do interessado e de seu procurador, quando houver, será pessoal ou, havendo motivo justificado, por publicação no Diário Oficial do Ministério Público.
+§ 5º Da decisão favorável ao vitaliciamento e contrária ao relatório do Corregedor-Geral do Ministério Público caberá recurso deste ao Colégio de Procuradores de Justiça nos termos do § 3º deste artigo.
