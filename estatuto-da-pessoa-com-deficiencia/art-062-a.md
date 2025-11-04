@@ -1,0 +1,2 @@
+Art. 62-A. Com a finalidade de atender pessoas com necessidades complexas de comunicação, o poder público instalará, em praças, parques e demais espaços públicos de uso coletivo, placas com sistemas de comunicação aumentativa e alternativa, compostas de pranchas de baixa tecnologia com pictogramas.
+Parágrafo único. As placas referidas no caput deste artigo deverão ser adaptadas aos respectivos contextos comunicativos e confeccionadas em materiais adequados para resistir às condições climáticas e de uso no ambiente externo.
