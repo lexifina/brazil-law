@@ -1,0 +1,3 @@
+Art. 10-G. Aplicam-se à Comissão Especial Eleitoral as condições de impedimento e de suspeição previstas no art. 10-B desta Lei Complementar.
+§ 1º Ocorrendo justo motivo, o membro de Comissão Especial Eleitoral deve declarar-se suspeito ou impedido, por escrito e justificadamente, para o presidente do CSPC, que designará seu substituto.
+§ 2º No prazo de dois dias úteis, contado da divulgação da relação dos candidatos aptos, qualquer policial civil ativo poderá arguir suspeição ou impedimento dos membros da Comissão Especial Eleitoral, mediante representação fundamentada ao Presidente do CSPC, que proferirá a decisão em dois dias úteis.

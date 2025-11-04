@@ -1,0 +1,1 @@
+Art. 52-A. A avaliação médico-odontológica, de caráter eliminatório, visa a identificar, mediante exames clínicos, análises de testes e exames laboratoriais, doenças, sinais ou sintomas que inabilitem o candidato para a realização da avaliação de aptidão física ou do curso de formação policial, bem como para o exercício das funções dos cargos das carreiras da Polícia Civil.

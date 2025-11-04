@@ -1,0 +1,1 @@
+Art. 287-A. O percentual para o cálculo da progressão funcional do subsídio do nível II, das carreiras Agente de Polícia Judiciária, Perito Papiloscopista, Agente de Polícia Científica e Perito Oficial Forense, de que trata o § 3º do art. 124 desta Lei Complementar, será acrescido de 1% (um por cento), anualmente, durante o período de 5 anos, a contar de dezembro de 2014.

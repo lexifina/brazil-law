@@ -1,0 +1,1 @@
+Art. 91-G. A relação de policiais promovidos deverá ser publicada no prazo de até 90 (noventa) dias, contados da data da veiculação do edital a que se refere o caput do art. 91-E desta Lei Complementar.

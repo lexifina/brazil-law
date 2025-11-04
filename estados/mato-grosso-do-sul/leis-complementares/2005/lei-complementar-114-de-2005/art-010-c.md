@@ -1,0 +1,1 @@
+Art. 10-C. Os membros eleitos e representantes e seus respectivos suplentes serão escolhidos em eleição, pelos integrantes em efetivo exercício das carreiras respectivas, para mandato de dois anos, permitida a recondução em que se observará o mesmo procedimento.

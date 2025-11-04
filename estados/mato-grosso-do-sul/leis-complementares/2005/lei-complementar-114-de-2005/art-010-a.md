@@ -1,0 +1,6 @@
+Art. 10-A. O Presidente do Conselho Superior da Polícia Civil, em suas faltas ou impedimentos, será substituído pelo Delegado-Geral Adjunto, e, na ausência de ambos, a Presidência será exercida pelo Corregedor-Geral ou, sucessivamente, pelos delegados eleitos, no sistema de rodízio, iniciando pelo mais antigo.
+§ 1º O integrante do Conselho, na condição de membro nato, será substituído em suas faltas e impedimentos, por aquele que esteja a substituí-lo no cargo do qual decorra a representação no Colegiado, mediante comunicação prévia ao Presidente do Conselho.
+§ 2º Os suplentes substituem os conselheiros eleitos em seus impedimentos ou afastamentos, sucedendo-os na hipótese de vacância.
+§ 3º Não havendo suplente ou sendo seu número insuficiente, caberá ao Presidente do Conselho Superior nomear o conselheiro dentre os integrantes da última classe da respectiva carreira, observadas as condições estabelecidas nesta Lei Complementar.
+§ 4º O conselheiro suplente, que for nomeado para vaga decorrente de mandato que não terminou, apenas o completará.
+§ 5º Ocorrendo acumulação da condição de conselheiro nato com a de eleito ou representante, prevalecerá a representação do órgão interno da Polícia Civil, assumindo definitivamente em seu lugar como membro eleito ou representante o seu respectivo suplente.

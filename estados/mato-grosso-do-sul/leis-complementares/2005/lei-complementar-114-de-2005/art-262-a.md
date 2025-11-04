@@ -1,0 +1,12 @@
+## Seção III
+## Das Competências do Perito Papiloscopista
+Art. 262-A. Ao Perito Papiloscopista compete:
+I - executar o levantamento de impressões papilares em locais de crime, a fim de analisá-las e de interpretá-las em laboratórios, realizar perícias papiloscópicas e proceder a diligências necessárias à complementação dos respectivos exames, assim como elaborar laudos dos exames periciais realizados, quando requisitados pela autoridade competente;
+II - supervisionar, coordenar, orientar, revisar e executar trabalhos papiloscópicos, relativamente à tomada de impressões papilares, coleta, análise, classificação, pesquisas e arquivamento de informações;
+III - colher impressões digitais em pessoas vivas ou mortas, para fins de identificação papiloscópica civil e criminal, classificar, comparar impressões papilares e realizar as buscas no arquivo datiloscópico e nos sistemas automatizados de identificação de impressão digital, inclusive em cadáveres e realizar a consequente elaboração do laudo necropapiloscópico;
+IV - elaborar exames laboratoriais referentes a impressões papilares e à identificação cível e criminal, emitir pareceres técnicos, dirimir dúvidas e solucionar questões sobre identificação papiloscópica;
+V - supervisionar, coordenar, dirigir, orientar e executar, quando necessário, o atendimento ao público e a coleta de impressões digitais e de informações, para fins de emissão de carteiras de identidade e de certidões de antecedentes;
+VI - desenvolver estudos e novos métodos e técnicas de trabalho pericial, no campo da identificação papiloscópica, e pesquisas laboratoriais e de informática, na busca de aperfeiçoamento e de aprimoramento do sistema de identificação civil e criminal;
+VII - prestar informações criminais, com base no cadastro legal, mediante autorização da autoridade competente, organizar e manter registros atualizados dos arquivos de identificação civil e criminal;
+VIII - realizar trabalhos fotográficos necessários à execução de perícias papiloscópicas de locais de crime e executar fotos de indiciados e, de acordo com a descrição do depoente e utilizando recurso técnico-científico, preparar retrato falado de suspeito ou de pessoa procurada, para fins de investigação policial;
+IX - fazer coleta de impressões digitais e de fragmentos digitopapilares em locais de ocorrência de crime e realizar confronto das impressões coletadas com as do seu próprio acervo, quando requisitado pela autoridade policial.
