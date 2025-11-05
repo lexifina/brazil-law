@@ -1,0 +1,62 @@
+DECISÃO: EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. FORNECIMENTO DE MEDICAMENTO. TEMAS 6 E 1234-RG. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE. MANUTENÇÃO DA DECISÃO EMBARGADA. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+    1. O recurso de embargos de declaração não é meio adequado para a rediscussão da matéria em decorrência de inconformismo do embargante.
+2. No caso, não foram observados os requisitos próprios do recurso (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição, obscuridade ou erro material na decisão embargada.
+3. Embargos de declaração rejeitados.
+
+Vistos etc.
+Trata-se de embargos de declaração opostos de decisão monocrática  pela qual foi negado seguimento ao recurso extraordinário com agravo.
+A parte embargante aponta apenas que não foram cumpridos os requisitos dos Temas 6 e 1234 da Repercussão Geral. Requer o acolhimento dos declaratórios e o provimento do recurso extraordinário.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis “contra qualquer decisão judicial” nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como correção de eventual erro material. Admitindo-se, conforme o art. 1.024, § 2º, o enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+Com base nesses permissivos legais, procedo à apreciação singular destes aclaratórios.
+Não se constatam, entretanto, quaisquer dos referidos vícios.
+A bem da verdade, o embargante não aponta concretamente qualquer vício apto a ser sanado por meio dos aclaratórios, mas apenas reitera seus argumentos anteriores, buscando o rejulgamento do feito.
+Não obstante, de início realço que foram devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016. Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+A decisão embargada foi expressa ao consignar que o entendimento adotado no acórdão recorrido está alinhado à jurisprudência desta Suprema Corte quanto aos temas 6 e 1234 da Repercussão Geral. Veja-se
+
+“Ressai, ainda, dos autos, que o Tribunal local, em juízo de retratação negativo, consignou expressamente a consonância do acórdão com os Temas nº 06 e 1234 da Repercussão geral (id: b21362bb):
+
+“6. Em atendimento ao despacho de ID nº 71979625, esclareço a suposta divergência entre o acórdão objeto deste Recurso Extraordinário e o entendimento proferido pelo STF ao julgar os Temas nº 6 e nº 1234.
+7. Em 16/9/2024, o Tribunal Pleno do STF, por unanimidade, negou provimento ao recurso extraordinário e homologou, em parte, os termos dos três acordos, com as condicionantes e adaptações, assim sintetizados:
+[...]
+8. Em 26/9/2024, o STF julgou o Tema nº 6 da Repercussão Geral e fixou as seguintes teses:
+[...]
+9. O acórdão desta 8ª Turma Cível deu parcial provimento ao recurso do autor para deferir o fornecimento da medicação Pirfenidona, conforme Nota Técnica do NATJUS, ao invés do medicamento Nintedanibe (ID nº 68690683).
+10. O Pifernidona possui registro na Anvisa, mas não foi incorporado à política do SUS.
+11. Em atendimento ao melhor custo-benefício do Estado e diante da eficácia equivalente apontada na Nota Técnica, a 8ª Turma entendeu que o medicamento foi aprovado para o tratamento da Fibrose Pulmonar Idiopática (PFI) e é menos oneroso do que o fármaco Nintedanibe. Também foi consignado que não há evidências de que um medicamento seja superior ao outro. Por esse motivo, optou-se pelo medicamento com menor custo.
+12. Conforme o acórdão, a Nota Técnica de ID nº 63703307 destacou que há evidências científicas que demonstram a possibilidade de redução do risco de morte em pacientes com fibrose pulmonar idiopática. Percebe-se que a ressalva em sua conclusão decorreu unicamente da manifestação contrária relativa aos custos da medicação para a realidade brasileira.
+13. Com base nessas premissas, verifica-se que a manifestação contrária da CONITEC se refere tão somente ao custo da medicação. A Nota Técnica de ID nº 63703307 atesta a eficácia do fármaco, com a possibilidade de redução do risco de morte em pacientes com fibrose pulmonar idiopática.
+14. Por esses motivos, estão cumpridos os requisitos do Tema nº 6 da Repercussão Geral.
+15. De qualquer forma, o item 4.3 da ementa do Tema 1.234 dispõe sobre a obrigatoriedade de o requerente demonstrar, com fundamento na “Medicina Baseada em Evidências”, a segurança e a eficácia do fármaco, bem como a inexistência de substituto terapêutico incorporado pelo SUS:
+[...]
+16. A Nota Técnica de ID nº 63703307 considerou a demanda justificada com ressalvas, e a discussão contida em seu teor preencheu o requisito relacionado às “evidências científicas de alto nível”. A ressalva ocorreu tão somente quanto ao “custo não-efetivo”.
+ 17. Também foram observados os requisitos relacionados ao Tema 106 do STJ (itens 26 a 27 do acórdão de ID nº 68690683).
+18. Logo, não há divergência em relação ao entendimento proferido pelo STF nos Temas nº 6 e 1234 do STF.” (grifo nosso)
+[...]
+Da análise dos fundamentos acima transcritos, verifica-se que o entendimento adotado no acórdão recorrido não destoa das Teses firmadas nos Temas nº 6 e nº 1234 da repercussão geral. A revisão das premissas adotadas pelo Tribunal de origem, que resultaram na concessão do fármaco, demandaria o revolvimento da moldura fática delineada. Essa análise torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido: [...]”
+
+Em reforço, trago à colação, entre muitos, os seguintes precedentes:
+
+“Direito da saúde. Agravo regimental no recurso extraordinário. Fornecimento de medicamento não incorporado ao SUS. Temas 6 e 1.234 da Repercussão Geral. Acórdão recorrido que não destoa da jurisprudência desta Suprema Corte. Compreensão diversa. Reexame de fatos e provas. Súmula 279/STF. Agravo interno não provido. I. Caso em exame 1. Agravo interno contra decisão monocrática que negou seguimento a recurso extraordinário interposto contra acórdão de Tribunal de origem que deferiu o pedido de fornecimento de medicamento (dupilumabe), não incorporado ao Sistema Único de Saúde (SUS), para tratamento de dermatite atópica grave. 2. O recorrente busca a reforma da decisão agravada, alegando violação dos dispositivos constitucionais e do entendimento firmado nos Temas 6 e 1.234 da repercussão geral. 3. O Tribunal de origem entendeu pela necessidade e imprescindibilidade do medicamento, mesmo não estando na RENAME, por se tratar de caso excepcional em que foram esgotados os tratamentos disponíveis no SUS. 4. A decisão agravada negou seguimento ao recurso ao entender que o acórdão recorrido não destoava da tese firmada nos Temas 6 e 1.234 da repercussão geral e que a revisão das premissas fáticas implicaria reexame de provas (Súmula 279/STF). II. Questão em discussão 5. A questão em discussão consiste em saber se o acórdão de origem, que determinou o fornecimento de medicamento não incorporado ao SUS em situação excepcional, violou as teses firmadas nos Tema 6 e 1.234 da repercussão geral e se a análise da controvérsia demandaria o reexame de fatos e provas. III. Razões de decidir 6. O acórdão do Tribunal de origem, que determinou o fornecimento de medicamento não incorporado ao SUS, não destoou da tese firmada nos Tema 6 e 1.234 da repercussão geral. 7. A revisão das premissas fáticas adotadas pelo Tribunal de origem, que afastou a aplicação da regra geral de não fornecimento de medicamentos não incorporados ao SUS em virtude de particularidades do caso concreto, demandaria o revolvimento da moldura fática e o reexame de fatos e provas, o que é vedado em recurso extraordinário pela Súmula 279 do STF. IV. Dispositivo 8. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. 9. Agravo interno conhecido e não provido.
+(RE 1556871 AgR, minha relatoria, Primeira Turma, julgado em 22-09-2025, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 26-09-2025  PUBLIC 29-09-2025)
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO DE ALTO CUSTO. PRETENSÃO DO AGRAVANTE DE APLICAÇÃO DOS TEMAS 6 E 1.234 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE. APLICAÇÃO DO TEMA 793 DA REPERCUSSÃO GERAL JÁ REALIZADA PELO TRIBUNAL DE ORIGEM EM DECISÃO MANTIDA EM AGRAVO INTERNO. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO MANIFESTAMENTE IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.”
+(ARE 1444013 ED-AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 14-02-2024, PROCESSO ELETRÔNICO DJe-s/n  DIVULG 21-02-2024  PUBLIC 22-02-2024)
+
+Portanto, examinando o decisum embargado, verifico que inexiste contradição, omissão ou obscuridade no acórdão embargado.
+Com efeito, os embargos de declaração não se prestam à rediscussão do mérito assentado no julgado, em decorrência de mero inconformismo da parte com o desfecho da demanda. Nesse sentido:
+
+“Direito constitucional e administrativo. Embargos de declaração em recurso ordinário em mandado de segurança. Revisão de concessão de anistia. Inovação recursal. Pretensão infringente nos embargos. Ausência de omissão. 1. Embargos de declaração opostos contra acórdão em que a Primeira Turma negou provimento a agravo interno em recurso ordinário em mandado de segurança, em vista de inovação recursal ao ser interposto o recurso ordinário. 2. Não há erro, obscuridade, contradição ou omissão no acórdão questionado, o que afasta a presença dos pressupostos de embargabilidade, conforme o art. 1.022 do CPC/2015. 3. Embargos de declaração rejeitados.” (RMS 39232-AgR-ED, Rel. Min. Luís Roberto Barroso, 1ª Turma, DJe 18.10.2023)
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRETENSÃO DE ANÁLISE DE CONTROVÉRSIA QUE NÃO FOI OBJETO DO ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos apresentados. 2. A apresentação de fundamentos apenas em sede de recurso ordinário, sem que tenha ocorrido debate em momento processual anterior pelo Superior Tribunal de Justiça, configura inovação recursal insuscetível de apreciação pela CORTE (RMS 33.675-ED-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 09/10/2020). 3. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 4. Embargos de Declaração rejeitados.” (RMS 39252-AgR-ED, Rel. Min. Alexandre De Moraes, 1ª Turma, DJe 04.10.2023)
+
+Por todo o exposto, constata-se que a parte embargante busca indevidamente o rejulgamento do feito, o que não é admitido na via estreita dos embargos de declaração.
+Considerando a inexistência de quaisquer dos vícios do art. 1.022 do CPC, rejeito os embargos de declaração.
+Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+Publique-se.
+
+Brasília, 5 de novembro de 2025.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
