@@ -1,0 +1,1 @@
+Artigo 4° - A Procuradoria de Procedimentos Disciplinares e a Controladoria Geral do Estado estabelecerão mecanismos que permitam o intercâmbio de conhecimento, dados, informações, métodos e técnicas de trabalho, além de fortalecer a capacidade institucional por meio de capacitação de servidores e da incorporação de novas tecnologias.
