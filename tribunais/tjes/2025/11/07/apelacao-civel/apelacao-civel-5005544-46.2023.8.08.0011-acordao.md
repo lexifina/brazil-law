@@ -1,0 +1,195 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005544-46.2023.8.08.0011
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: DROGARIA NEISE LTDA - EPP e outros
+
+APELADO: ESTADO DO ESPIRITO SANTO e outros
+
+RELATOR(A):
+EWERTON SCHWAB PINTO JUNIOR
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+EMENTA
+: DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+
+I. CASO EM EXAME
+1.
+Embargos de declaração opostos apontando suposto vício no acórdão que apreciou o recurso de apelação cível.
+
+II. QUESTÃO EM DISCUSSÃO
+2.
+A questão em discussão consiste em verificar se o acórdão recorrido apresenta omissão, contradição, obscuridade ou erro material que justifique a oposição dos embargos de declaração.
+
+III. RAZÕES DE DECIDIR
+3.
+Os embargos de declaração têm a finalidade de esclarecer obscuridades, eliminar contradições, suprir omissões ou corrigir erros materiais.
+4.
+No caso concreto, não se vislumbra nenhum dos vícios previstos no art. 1.022 do CPC. O acórdão enfrentou de forma exaustiva as questões pertinentes, sendo a pretensão recursal apenas de rediscutir o mérito da decisão.
+
+IV. DISPOSITIVO E TESE
+5.
+Embargos de declaração conhecidos e não acolhidos.
+Tese de julgamento:
+“Os embargos de declaração não são cabíveis para rediscutir o mérito da decisão, limitando-se a suprir omissões, eliminar contradições ou corrigir erros materiais, conforme o art. 1.022 do CPC.”
+
+Dispositivo relevante citado: CPC, art. 1.022.
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: À unanimidade, conhecer e não acolher os Embargos de Declaração, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR
+
+Composição de julgamento: Gabinete Des. EWERTON SCHWAB PINTO JÚNIOR - EWERTON SCHWAB PINTO JUNIOR - Relator / Gabinete Des. JÚLIO CESAR COSTA DE OLIVEIRA - JULIO CESAR COSTA DE OLIVEIRA - Vogal / Gabinete Des. ALEXANDRE PUPPIM - ALEXANDRE PUPPIM - Vogal
+VOTOS VOGAIS
+Gabinete Des. JÚLIO CESAR COSTA DE OLIVEIRA - JULIO CESAR COSTA DE OLIVEIRA (Vogal)
+Acompanhar
+Gabinete Des. ALEXANDRE PUPPIM - ALEXANDRE PUPPIM (Vogal)
+Acompanhar
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+1ª Câmara Cível
+Endereço: Rua Desembargador Homero Mafra 60, 60, Enseada do Suá, VITÓRIA - ES - CEP: 29050-906
+Número telefone:( )
+
+Processo nº
+5005544-46.2023.8.08.0011
+
+APELAÇÃO CÍVEL (198)
+
+APELANTE: DROGARIA NEISE LTDA - EPP, ESTADO DO ESPIRITO SANTO
+Advogado do(a) APELANTE: WELITON ROGER ALTOE - ES7070-A
+APELADO: ESTADO DO ESPIRITO SANTO, DROGARIA NEISE LTDA - EPP
+Advogado do(a) APELADO: WELITON ROGER ALTOE - ES7070-A
+
+VOTO
+
+Consoante relatado, trata-se de recurso de embargos de declaração opostos por
+
+Estado do Espírito Santo
+
+contra o acórdão emanado desta e. Primeira Câmara Cível que concluiu pelo
+provimento
+do recurso de apelação cível interposto.
+
+A recorrente maneja seus aclaratórios apontando suposto vício de
+erro de premissa fática já que o acórdão não ponderou adequadamente a consequência jurídica da omissão da embargada em cumprir seu dever acessório de registrar o "desconhecimento da operação" relativa às notas fiscais fraudulentas, o que, no seu entender, configuraria anuência tácita com a operação e atrairia para si a responsabilidade pela infração tributária.
+
+Pois bem. Acerca do recurso de Embargos de Declaração, sua função é de integrar ou aclarar decisões judiciais que padeçam de vícios de omissão, obscuridade, contradição, ou ainda corrigir erros materiais no
+decisum
+.
+
+Embora em algumas situações possa haver sensível modificação do conteúdo da decisão recorrida, o referido recurso não tem por função precípua a modificação ou anulação do provimento jurisdicional, mas, repita-se, esclarecer ou afastar eventuais contradições ou omissões existentes.
+
+Tal conclusão é facilmente alcançada com a simples leitura da norma que prevê as suas hipóteses de cabimento, no Código de Processo Civil,
+in verbis
+:
+
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+
+I - esclarecer obscuridade ou eliminar contradição;
+
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+
+III - corrigir erro material.”
+
+Tampouco se admite nesta via recursal a simples alegação para fins de prequestionamento sem apontar qualquer vício concreto no julgado. Cito julgado deste sodalício:
+
+“[...] 1. É cediço que os embargos têm por finalidade completar a decisão omissa, ou ainda, clareá-la, dissipando obscuridade ou contradição. Logo, não possui caráter substitutivo da decisão Embargada, mas sim integrativo ou aclaratório 2. Mesmo nos embargos de declaração com a finalidade exclusiva de prequestionamento, devem ser observados os limites traçados pelo artigo 1.022 do CPC. [...]” (TJES, Embargos de Declaração Apelação 0000341-39.2020.8.08.0030, Relator DES.: MARIANNE JUDICE DE MATTOS, Câmaras Cíveis Reunidas, Julgamento: 18/05/2023).
+
+Nesse sentido, cito precedentes do c. STJ e do STF:
+
+"[...] O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súm. n. 211/STJ. 3. Agravo interno não provido. (STJ - AgInt no REsp n. 1.999.185/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/3/2023.)
+
+"[...] 2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada. 3. Ausência de omissão, contradição e obscuridade, justificadoras da oposição de embargos declaratórios, nos termos do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência." (STF - ARE 1196457 ED Relator(a): Min. ROSA WEBER Julgamento: 28/05/2019 Publicação: 31/05/2019)
+
+Não merece, ainda, acolhida os embargos declaratórios tendente a obter apenas o prequestionamento explícito de dispositivos legais que o embargante entende terem sido violados, se o órgão julgador externou adequadamente os fundamentos pelos quais chegou à conclusão alcançada. Neste sentido:
+
+EMENTA EMBARGOS DE DECLARAÇÕES. PREQUESTIONAMENTO. INEXISTÊNCIA. TENTATIVA DE REDISCUTIR A MATÉRIA. INEXISTÊNCIA DE VÍCIOS. RECURSO DESPROVIDO. 1. O magistrado não está obrigado a manifestar-se sobre todas as alegações das partes, nem a mencionar todos os dispositivos legais que citaram, desde que explicite os fundamentos da sua decisão. Precedentes do STJ. 2. O prequestionamento somente tem lugar diante da existência de vícios de omissão, contradição ou obscuridade no julgado. 3. Nos termos da jurisprudência pátria, é inviável o acolhimento de tese recursal em sede de aclaratórios voltada a meramente fazer o prequestionamento da matéria decidida sem a presença dos vícios do artigo 1.022 do CPC. [...] (TJ-ES - ED: 5004438-19.2022.8.08.0000, Relator: ROBSON LUIZ ALBANEZ, QUARTA CÂMARA CÍVEL, Data: 22/06/2023)
+
+Fixadas tais premissas, tenho que o presente recurso não merece ser provido, posto que não se encontram presentes nenhum dos vícios previstos no artigo 1.022 do CPC.
+
+Isso porque o acórdão recorrido enfrentou as teses trazidas pelas partes naquilo que pertinentes e suficientes ao deslinde da questão.
+
+Foram devidamente abordadas as teses trazidas e fundamentada a razão pela qual entendeu-se pelo
+provimento
+do recurso
+. Vejamos trechos do voto condutor:
+
+""De saída destaco que por questão de prejudicialidade lógica, inicio a análise pelo apelo interposto por Drogaria Neise Ltda - EPP, cuja controvérsia central está na alegada inexistência do fato gerador que deu ensejo ao Auto de Infração.
+
+Neste particular, não obstante a respeitável conclusão do e. magistrado sentenciante, que entendeu não ilidida a presunção de legitimidade do ato administrativo impugnado, após percuciente análise dos autos cheguei a conclusão diversa.
+
+Explico.
+
+A empresa apelante sustenta, desde a exordial, que a autuação fiscal é nula de pleno direito, pois se fundamenta em operações comerciais fictícias, amparadas por notas fiscais ideologicamente falsas, emitidas por JACINTO COSTA SOBRINHO ME, empresa com a qual não detém qualquer relação jurídica.
+
+A Fazenda Pública, por sua vez, ampara a validade do lançamento na presunção de legitimidade e veracidade de seus atos. Sabe-se que tal presunção confere estabilidade às relações com a Administração, mas não se trata de um dogma absoluto, sendo presunção "juris tantum", que pode ser afastada quando o contribuinte, desincumbindo-se de seu ônus probatório, apresenta um conjunto de evidências robusto, coeso e convincente em sentido contrário. E esta, a meu ver, é precisamente a hipótese dos autos.
+
+Isso por que os elementos probatórios produzidos demonstram "quantum satis" que as notas fiscais que ensejaram a penalidade aplicada foram emitidas em cenário de controversa veracidade, a começar pelo envolvimento da pessoa jurídica emitente JACINTO COSTA SOBRINHO ME e seu sócio em crimes da ordem tributária, no mesmo período em que emitidas as notas e desarticulado um esquema criminoso ("Operação Placebo Fiscal"), que utilizava empresas "noteiras" para emitir notas fiscais frias em favor de diversas empresas, capaz de contextualizar a apelante como uma de suas vítimas.
+
+A análise do conteúdo das notas fiscais também revelam inconsistências que desafiam a lógica comercial e a realidade fática, como bem apontado pelo autor, já que que atestam que múltiplos medicamentos, de naturezas e laboratórios distintos, teriam sido fabricados no mesmo dia (Id. 14091099 pag.6), uma coincidência estatisticamente improvável e comercialmente implausível.
+
+[...]
+
+Não se ignora, por certo, a obrigação acessória de o contribuinte registrar o "desconhecimento da operação" caso não reconhecesse as notas fiscais emitidas em seu desfavor. Contudo, a omissão em cumprir tal dever de natureza procedimental não tem o poder de convalidar uma operação materialmente inexistente.
+
+Em meu sentir, a realidade dos fatos, atestada pelos diversos indícios apontados, sobrepõe-se à ficção jurídica que se pretende extrair do silêncio do contribuinte em registrar as operações desconhecidas e da presunção de veracidade do ato administrativo impugnado.
+
+[...]
+
+Dessa forma, a reforma da sentença para julgar totalmente procedente o pedido autoral é medida que se impõe, reconhecendo-se a nulidade integral do crédito tributário.
+
+Com o provimento do recurso da empresa para anular a integralidade do débito, o apelo do ESTADO DO ESPÍRITO SANTO, que visava exclusivamente restabelecer a cobrança da multa e dos juros sobre o mesmo débito, perde seu objeto, restando, pois, prejudicado."
+
+Não há que se falar no vício apontado pois o voto condutor restou adequadamente fundamentado, tendo aplicado o entendimento assente sobre o tema.
+
+Como sabido, a presunção de legitimidade do ato de lançamento fiscal foi afastada por um conjunto probatório robusto que demonstrou a inexistência do fato gerador. O acórdão embargado enfrentou expressamente a questão da omissão do dever acessório, concluindo que tal fato não possui o condão de validar uma operação comercial comprovadamente inexistente, em atenção ao princípio da primazia da realidade. A alegação de "premissa equivocada" mascara, em verdade, o mero inconformismo do embargante com a tese jurídica adotada, o que não autoriza a via dos aclaratórios.
+
+Certo é que o natural inconformismo da parte embargante não tem o condão e tampouco serve de fundamento para autorizar o manejo dos presentes aclaratórios, eis que, repita-se, não se presta a rediscutir a matéria decidida ou conferir desfecho diverso daquele expressamente determinado e motivado pelo órgão julgador.
+
+Diante do exposto,
+CONHEÇO
+, porém
+REJEITO
+os embargos de declaração, pelas razões acima expostas.
+
+Deixo, por ora, de fixar ao embargante a multa prevista no artigo 81 e/ou do artigo 1.026, §2º, ambos do Código de Processo Civil, por entender ainda se enquadrar no exercício regular do direito de recorrer.
+
+É como voto.
+
+EWERTON SCHWAB PINTO JUNIOR
+Desembargador Relator
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+
+Gabinete Desembargador Júlio César Costa de Oliveira
+
+Sessão 27.10.2025.
+
+Acompanho o respeitável voto de Relatoria.
