@@ -1,0 +1,77 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de recurso ordinário em habeas corpus interposto por Luciano dos Santos contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 1.026.356/AL, Relator o Ministro Messod Azulay Neto.
+
+    Consta dos autos que o paciente foi condenado à pena privativa de liberdade de 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, com pagamento de 120 (cento e vinte) dias-multa, pela prática de tráfico de drogas privilegiado majorado pelo uso de arma de fogo, conforme o artigo 33, §4º, c.c. o artigo 40, IV, ambos da Lei n. 11.343/2006 (fl. 3).
+
+    Neste recurso, a defesa alega que houve busca e apreensão realizadas com infringência à garantia constitucional da inviolabilidade do domicílio, configurando prova ilícita, e requer o desentranhamento dos autos.
+
+    Sustenta que a busca domiciliar foi realizada sem justa causa, pois os policiais ingressaram na residência do paciente sem prévia autorização judicial, baseando-se apenas no fato de o paciente ter empreendido fuga ao avistar a polícia, o que não legitima a busca e apreensão domiciliar.
+
+    Afirma que, embora o acórdão mencione autorização da irmã do paciente para o ingresso na residência, há vício no termo de autorização, que conta apenas com uma testemunha, e não houve oitiva da irmã para confirmar o consentimento voluntário.
+
+    Requer, ao final, seja reconhecida a ilegalidade da busca domiciliar realizada, com a consequente declaração de ilicitude da prova obtida e das que dela derivaram, determinando seu desentranhamento dos autos na forma do artigo 157 do Código de Processo Penal, e a absolvição do paciente por ausência de provas para a condenação.
+
+    Instada a se manifestar, a Procuradoria-Geral da República se manifestou pelo desprovimento do recurso, conforme parecer assim ementado:
+
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS CONTRA ACÓRDÃO DENEGATÓRIO DE WRIT SUBSTITUTIVO. TRÁFICO DE DROGAS PRIVILEGIADO MAJORADO PELO EMPREGO DE ARMA DE FOGO (ART. 33, §4º C/C ART. 40, IV, DA LEI 11.343/06). IMPROPRIEDADE DA VIA ELEITA. SUCEDÂNEO RECURSAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. BUSCA DOMICILIAR. LEGALIDADE RECONHECIDA. CRIME PERMANENTE E CONSENTIMENTO VÁLIDO. FUNDADAS RAZÕES (TEMA 280/STF). REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PARECER PELO DESPROVIMENTO. 1. A jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) se consolidou no sentido de não admitir o habeas corpus como substitutivo de recurso próprio ou revisão criminal, exceto em casos de flagrante ilegalidade evidente. 2. O crime de tráfico de entorpecentes, na modalidade de guarda/depósito, possui natureza permanente, o que, em conjunto com fundadas razões, como a fuga do agente ao avistar a polícia, justifica a entrada no domicílio sem mandado judicial. 3. As instâncias ordinárias e o STJ confirmaram a validade da busca, com base tanto na situação de flagrância quanto no consentimento de moradora (irmã do acusado), devidamente documentado e sem indícios de coação. A exigência de formalidades adicionais, como registro audiovisual do consentimento, não está prevista na Constituição Federal ou na tese fixada pelo STF (Tema 280). 4. A pretensão de absolvição ou desclassificação para uso pessoal (art. 28 da Lei nº 11.343/06) demandaria o reexame aprofundado do conjunto fático-probatório, o que é vedado na via estreita do habeas corpus e do recurso ordinário. 5. A condenação pelo crime de tráfico privilegiado majorado está solidamente fundamentada nas circunstâncias concretas, como a natureza e quantidade das drogas (70g de maconha e 30g de cocaína), além da apreensão concomitante de balança de precisão e arma de fogo (espingarda Calibre 12, munições), elementos que indicam a destinação mercantil dos entorpecentes. 6. Parecer pelo desprovimento do Recurso Ordinário”. (e-doc. 88)
+
+    Examinados os autos, decido.
+
+    Transcrevo a ementa do acórdão recorrido:
+
+    “DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. BUSCA DOMICILIAR. CONSENTIMENTO DO MORADOR. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME 1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, alegando ilegalidade na busca domiciliar realizada sem mandado judicial, baseada na fuga do acusado ao avistar a polícia. II. QUESTÃO EM DISCUSSÃO 2. A questão em discussão consiste em saber se a busca domiciliar realizada sem mandado judicial, com consentimento do morador, é válida, e se a condenação do agravante está amparada em prova ilícita. III. RAZÕES DE DECIDIR 3. A busca domiciliar foi considerada legal, pois houve consentimento do morador, com termo de autorização assinado, além de indícios de crime permanente, o que autoriza a ação policial sem mandado. 4. A condenação do agravante foi mantida com base em provas de autoria e materialidade amplamente debatidas nos autos principais, não se identificando qualquer flagrante ilegalidade prima facie. 5. A via do habeas corpus é imprópria para a análise de teses que demandem incursão no acervo fático-probatório. IV. DISPOSITIVO E TESE 6. Resultado do Julgamento: Agravo regimental desprovido. Tese de julgamento: 1. A busca domiciliar sem mandado é lícita quando há consentimento do morador e indícios de crime permanente. 2. É incabível o habeas corpus para a análise de teses que demandem incursão no acervo fático-probatório”. (e-doc. 54)
+
+    Com efeito, no STJ o Ministro Messod Azulay Neto, no voto condutor do acórdão, destacou o seguinte:
+
+    “A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+
+    (...)
+
+    De todo modo, ao cotejar as alegações deduzidas na inicial e neste regimental, não se verifica a presença de coação ilegal que desafie a concessão da ordem, de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal, conforme a percuciente fundamentação do acórdão impugnado, cuja moldura fática demonstra a existência de fundadas razões para a realização da busca domiciliar. Confiram-se os seguintes trechos do julgado (fls. 420-422 - grifei):
+
+    "7. O cerne da controvérsia consiste em: (i) definir se há ilicitude das provas por suposta busca pessoal e domiciliar realizada fora das hipóteses legais e constitucionais admitidas; (ii) verificar a a presença de elementos caracterizadores da traficância. 8. Para melhor analisar os fatos imputados, transcrevo os termos da denúncia (fls. 1/2): [...] Consta no incluso inquérito policial que, no dia 28.02.2022, o denunciado, ao avistar uma viatura da PM que fazia ronda, empreendeu fuga, despertando, assim, uma atitude suspeita que levou à abordagem policial. Apesar de não ter sido encontrado nada com o denunciado, prosseguiu-se à busca em sua residência (autorizada pela irmã), onde foram encontradas 2 munições. A partir daí, o denunciado confessou e levou os PMs ao local onde estavam guardados os itens descritos no termo de fl. 57/58 (arma, drogas e balança de precisão)
+
+    (...)
+
+    15. Conforme se extrai dos autos, a busca domiciliar foi devidamente autorizada pela irmã do acusado, conforme termo de autorização de busca domiciliar de fls. 60, devidamente assinado por moradora da residência e subscrita por testemunha. 16. O consentimento livre e esclarecido do morador constitui exceção válida à exigência de mandado judicial para ingresso em domicílio. No caso dos autos, inexiste qualquer evidência de que a autorização tenha sido obtida mediante coação ou vício de consentimento. 17. Ademais, conforme consignado na sentença, o próprio apelante, em audiência de custódia, relatou não ter sofrido qualquer tipo de coação física ou moral por parte dos policiais. Assim, não há falar em vício na operação policial, se houver a permissão de entrada dos policiais na residência do investigado, a descaracterizar a inviolabilidade de domicílio, que pressupõe a ausência de consentimento do morador. Dessa forma, supero a alegação de nulidade da busca domiciliar."
+
+    Conforme se depreende dos excertos acima colacionados, a entrada dos policiais na residência do flagranteado foi franqueada por sua irmã, moradora do local, de acordo com termo de autorização assinado pela moradora e por testemunha. Dessarte, não há que se falar em ilegalidade na busca domiciliar no presente caso.
+
+    (...)
+
+    Além do mais, conforme assinalado na decisão agravada, apesar de a Defesa alegar a necessidade de absolvição, fato é que o agravante foi condenado pelo delito de tráfico de entorpecentes com amparo em provas de autoria e materialidade amplamente debatidas nos autos principais, sendo impossível revolver o contexto fático-probatório original de maneira a se afastar a condenação imposta, em não se identificando qualquer flagrante ilegalidade prima facie.
+
+    Outrossim, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório”. (e-doc. 54, p. 3-7, grifei)
+
+    Pelo que há no julgado, não se verifica flagrante ilegalidade, abuso de poder ou teratologia. Pelo contrário, o julgado em questão mostra-se devidamente fundamentado, estando justificado o convencimento formado.
+
+    Com efeito, o Supremo Tribunal Federal consolidou jurisprudência no sentido da inviabilidade de utilização do habeas corpus como sucedâneo recursal, salvo em caso de manifesta ilegalidade, o que não verifico no caso concreto.
+
+    Com efeito, o Pleno desta Corte, ao julgar o RE nº 603.616/RO, Relator o Ministro Gilmar Mendes, cuja repercussão geral havia sido reconhecida (Tema 280), fixou o entendimento de que, quando presente justa causa/fundadas razões, nos casos de flagrante em crimes permanentes há a possibilidade de busca e apreensão domiciliar sem o mandado judicial. O acórdão restou assim ementado:
+
+    “Recurso extraordinário representativo da controvérsia. Repercussão geral. 2. Inviolabilidade de domicílio art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo. 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos flagrante delito, desastre ou para prestar socorro a Constituição não faz exigência quanto ao período do dia. 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal. 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida. 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori , que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso” (RE nº 603.606/RO-RG, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 10/5/16).
+
+    Demais disso, se as instâncias ordinárias concluíram pela legalidade das provas obtidas pela busca domiciliar e dela derivadas, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+
+    De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático-probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, de minha relatoria, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+
+    A propósito, no mesmo sentido:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. BUSCA PESSOAL. INEXISTÊNCIA DE ILEGALIDADE. PRISÃO EM FLAGRANTE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Prisão preventiva decretada forte na garantia da ordem pública, presentes as circunstâncias concretas reveladas nos autos. Precedentes. 2. Se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes. 3. Nos termos dos arts. 240, § 2º e 244 do CPP, cabe a busca pessoal, independente de autorização judicial, quando houver fundada suspeita de ocultação pelo investigado de elementos de convicção. Precedentes. 4. Para concluir em sentido diverso das instâncias anteriores quanto às circunstâncias do flagrante, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 5. Agravo regimental conhecido e não provido. (HC 212682 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 18/04/2022)
+
+    Assim, não havendo ilegalidade, abuso de poder ou teratologia detectáveis na via eleita, deve-se manter integralmente o julgado proferido pelo Superior Tribunal de Justiça.
+
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente recurso ordinário.
+
+    Publique-se.
+
+    Brasília, 7 de novembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
