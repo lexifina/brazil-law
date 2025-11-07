@@ -1,0 +1,3 @@
+# LEI Nº 23.811, DE 7 DE NOVEMBRO DE 2025
+Altera a Lei nº 21.219, de 29 de dezembro de 2021, que estabelece regras e critérios para a reforma e a construção de unidades habitacionais do Programa Pra Ter Onde Morar, no âmbito das ações sociais suplementares, em conformidade com o art. 1º da Lei nº 14.469, de 16 de julho de 2003, que institui o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, e a Lei nº 21.525, de 26 de julho de 2022, que dispõe sobre a destinação às mulheres em situação de violência doméstica de 5% (cinco por cento) das unidades de programas de loteamentos sociais e de habitação popular.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:
