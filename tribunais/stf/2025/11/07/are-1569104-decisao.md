@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Indústria e Comércio de Calçados Corvari LTDA, em face do acórdão do Superior Tribunal de Justiça, assim ementado:
+
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. NOTAS FISCAIS INIDÔNEAS. APRVEITAMENTO DE CRÉDITOS. NÃO COMPROVADA A REALIZAÇÃO DAS OPERAÇÕES. REVISÃO. SÚMULA N. 7/STJ MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. I – Esta Corte firmou tese, em recurso repetitivo, Tema n. 272/STJ, segundo a qual o comerciante de boa-fé que adquire mercadoria, cuja nota fiscal (emitida pela empresa vendedora) posteriormente seja declarada inidônea, pode engendrar o aproveitamento do crédito do ICMS pelo princípio da não-cumulatividade, uma vez demonstrada a veracidade da compra e venda efetuada, porquanto o ato declaratório da inidoneidade somente produz efeitos a partir de sua publicação. II – A pretensão recursal de rediscutir a conclusão da Corte de origem acerca da não comprovação da realização das operações demanda revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. III – Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. IV – Agravo Interno improvido.” (AgInt no Recurso Especial Nº 2154034 - SP (2024/0178069-2), relatora: Ministra Regina Helena Costa, Primeira Turma do STJ, j. em 07.10.2024)
+
+    Na minuta, sustenta-se violação dos arts. 5º, XXXV e 155, II, §2º, I, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos, verifica-se a deficiência na fundamentação preliminar da repercussão geral. Não basta a simples afirmação genérica de que o tema possui repercussão geral ou a indicação de tema ou precedente desta Suprema Corte; faz-se necessária a fundamentação adequada que supra as exigências do disposto nos artigos 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do STF.
+
+    Na presente hipótese, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido: ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016; ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014; ARE 663.637-AgR-QO, Rel. Min. Ayres Britto, Pleno, DJe, 06.5.2013; RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017; e RE 1.298.416-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 19.3.2021, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)”.
+
+    Ainda que superado o óbice, melhor sorte não assistiria ao recorrente.
+
+    Isso porque o entendimento jurisprudencial do Supremo Tribunal Federal é firme pela impossibilidade da interposição de Recurso Extraordinário que vise impugnar um acórdão do Superior Tribunal de Justiça que simplesmente nega seguimento ao Recurso Especial (REsp). Para que o apelo extremo seja cabível nessa via, é necessário que o STJ tenha resolvido uma nova e autônoma questão constitucional surgida durante o julgamento do especial, o que não se verifica no presente caso, em que a questão debatida, acerca do aproveitamento do crédito do ICMS em razão do princípio da não-cumulatividade, considerada a necessidade de demonstração da idoneidade das notas fiscais, surgiu no julgamento da apelação julgada pelo TJSP. Colho precedentes:
+
+    “EMENTA DIREITO CIVIL E PROCESSUAL CIVIL. ACÓRDÃO PROFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECLUSÃO DA QUESTÃO CONSTITUCIONAL SURGIDA NO DECISUM DO TRIBUNAL LOCAL. RESTITUIÇÃO DE VALORES INDEVIDAMENTE LEVANTADOS DE CONTA JUDICIAL. ALEGADA IMPENHORABILIDADE DE VENCIMENTOS. NÃO OCORRÊNCIA. COMPREENSÃO DIVERSA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E REVISÃO DO QUADRO FÁTICO. IMPOSSIBILIDADE. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO DÁ ENSEJO A RECURSO EXTRAORDINÁRIO. APELO EXTREMO QUE NÃO MERECE TRÂNSITO. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 2. O acórdão proferido pelo Superior Tribunal de Justiça, em recurso especial, somente legitima o uso do apelo extremo se versar questão constitucional diversa daquela debatida na anterior instância – o que não se observa na presente hipótese. Precedentes. [...] 5. Agravo interno conhecido e não provido.” (ARE 1412403 AgR, Relator(a): ROSA WEBER (Presidente), Tribunal Pleno, DJe 31-05-2023)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 7 de novembro de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
