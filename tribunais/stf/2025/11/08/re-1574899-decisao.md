@@ -1,0 +1,69 @@
+DECISÃO:
+
+    Vistos.
+
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, em face de acórdão proferido pela Primeira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+
+    “ADMINISTRATIVO E PROCESSUAL. CIVIL. AÇÃO CIVIL PÚBLICA. PATRIMÔNIO PÚBLICO. ALIENAÇÃO DE IMÓVEIS ENTRE A UNIÃO, A FUNDAÇÃO HABITACIONAL DO EXÉRCITO E PARTICULARES. PRELIMINARES: CERCEAMENTO DO DIREITO À PRODUÇÃO DE PROVA TESTEMUNHAL. EXIGÊNCIA AO MINISTÉRIO PÚBLICO FEDERAL DE ADIANTAMENTO DE HONORÁRIOS PERICIAIS. IMPOSSIBILIDADE. ÔNUS DA FAZENDA PÚBLICA AO QUAL O PARQUET É VINCULADO. NECESSIDADE DA PERÍCIA. NULIDADE DA SENTENÇA. OCORRÊNCIA.
+
+    1. Em Ação Civil Pública, nos termos do art. 18 da Lei nº 7.347/85, não se pode exigir do Ministério Público Federal o adiantamento dos honorários periciais, os quais, caso exista requerimento de prova pericial por parte do parquet, devem ser suportados pela Fazenda Pública à qual ele se encontra vinculado, em aplicação análoga da súmula 232 do STJ. Precedentes do STJ.
+
+    2. Embora o magistrado possa indeferir provas desnecessárias e protelatórias, não é o caso da perícia requisitada pelo MPF, uma vez que ela poderia ser conclusiva a respeito da ocorrência ou não de dano ao erário público oriundo das alienações objetos da presente ação, tendo sido pedido na exordial ressarcimento por eventual dano.
+
+    3. Nulidade da sentença por cerceamento do direito à produção de prova, com a devolução dos autos ao juízo sentenciante, com a reabertura da instrução processual. Para o fim de ser realizada a prova pericial requerida, com o adiantamento dos honorários por parte da União, ente ao qual o MPF está vinculado.
+
+    4. Apelação do Ministério Público Federal provida e demais apelações e reexame necessário prejudicados.”
+
+    Opostos dois embargos de declaração pela União, foram ambos desprovidos.
+
+    No apelo extremo, a recorrente alega violação aos artigos 2º, 5°, incisos II, XXXV, LIV e LV, 37, 97, 127, § 3º, 165, 166 e 167 da Constituição Federal.
+
+    Discorre, em síntese, que a “discussão constitucional posta nestes autos diz quanto à autonomia funcional, administrativa e financeira do Ministério Público Federal. O acórdão recorrido fixou entendimento de que o Ministério Público Federal é vinculado à Fazenda Pública da União e, em consequência, determinou à União o custeio de perícia judicial requerida pelo Ministério Público Federal em ação civil pública em que figura como parte autora”.
+
+    Alega que “o acórdão recorrido impõe grave ônus financeiro à União de suportar os honorários periciais de todas as ações em que o Ministério Público figura como parte e requeira a produção de prova pericial”.
+
+    A vista à Procuradoria-Geral da República foi dispensada, nos termos do parágrafo único do art. 52 do Regimento Interno do Supremo Tribunal Federal.
+
+    Decido.
+
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10 - Tema nº 339).
+
+    Ressalte-se, ainda, que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema nº 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+
+    Também não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal de origem não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. RENOVAÇÃO DE CONTRATO SEM PRÉVIA LICITAÇÃO. IMPOSSIBILIDADE. CONTROVÉRSIA QUE DEMANDA A ANÁLISE DO MATERIAL PROBATÓRIO E DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. AUSÊNCIA DE OFENSA AO ART. 97 DA CF/88. 1. Dissentir das conclusões adotadas pelo Tribunal de origem acerca da nulidade do contrato pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório contantes dos autos (Súmulas 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes) 3. A jurisprudência desta Corte é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes. 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985). 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE nº 1.396.893/RJ-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 22/03/2023).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMAS 424 E 660). INEXISTÊNCIA DE AFRONTA À CLÁUSULA DE RESERVA DE PLENÁRIO. CONTROVÉRSIA DECIDIDA COM APOIO NAS NORMAS INFRACONSTITUCIONAIS PERTINENTES. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. TRANSPORTE PÚBLICO COLETIVO INTERMUNICIPAL. PERMISSÃO. PRORROGAÇÃO DE CONTRATO SEM LICITAÇÃO. IMPOSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG (Tema 660), da relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da matéria referente à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por não configurar situação de ofensa direta à Constituição Federal. II – A controvérsia alusiva à observância dos princípios do contraditório e da ampla defesa nos casos de indeferimento de pedido de produção de provas em processo judicial teve repercussão geral rejeitada pelo Supremo Tribunal Federal no julgamento do ARE 639.228-RG (Tema 424), de relatoria do Ministro Presidente. III – Não há violação do art. 97 da Constituição Federal quando o Tribunal de origem, cingindo-se a interpretar normas infraconstitucionais, não declara a inconstitucionalidade de dispositivo nem afasta sua aplicabilidade com apoio em fundamentos extraídos da Carta Magna. IV – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. V – Conforme a jurisprudência do Supremo Tribunal Federal, são inconstitucionais as prorrogações de concessões e permissões de serviço público sem a realização de prévia licitação, inclusive para contratos formalizados antes da Constituição de 1988 VI – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC/2015. VII – Agravo regimental a que se nega provimento” (ARE nº 1.320.621/RJ-ED-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 04/11/2011).
+
+    Ademais, registre-se que este Supremo Tribunal Federal já assentou, em diversas oportunidades, o entendimento de que a controvérsia discutida nos presentes autos está restrita ao âmbito da legislação infraconstitucional aplicável à espécie. Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Nesse sentido, os seguintes julgados:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. ADIANTAMENTO DE PAGAMENTO DE HONORÁRIOS PERICIAIS. ÔNUS IMPOSTO AO ENTE FEDERATIVO AO QUAL O PARQUET ESTÁ VINCULADO. LEI 7.347/1985. CÓDIGO DE PROCESSO CIVIL DE 2015. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. RECURSO MANIFESTAMENTE IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO” (ARE nº 1.239.751/RJ-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 25/09/2025).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. PAGAMENTO DE HONORÁRIOS PERICIAIS. RESPONSABILIDADE DO ESTADO A QUE ESTIVER VINCULADO O MINISTÉRIO PÚBLICO, AUTOR DA AÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPOSSIBILIDADE. PRECEDENTES. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE nº 1.361.507/RJ-AgR, Tribunal Pleno, Relator o Ministro Presidente - Luiz Fux, DJe de 18/04/2022).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AI 791.292 QO-RG. ADIANTAMENTO DE HONORÁRIOS PERICIAIS REQUERIDOS PELO MINISTÉRIO PÚBLICO FEDERAL EM AÇÃO CIVIL PÚBLICA. PAGAMENTO DAS DESPESAS PELA UNIÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL.
+
+    1. Inexistência de contrariedade ao que definido, pelo Supremo, em relação à abrangência do dever de fundamentação das decisões judiciais (CF, art. 93, IX). AI 791.292 QO-RG, ministro Gilmar Mendes.
+
+    2. A controvérsia acerca do adiantamento pela União das despesas relativas aos honorários periciais, tendo em vista a requisição pelo Ministério Público Federal, em sede de ação civil pública, cinge-se no âmbito infraconstitucional, de modo que a suposta ofensa ao Texto Constitucional qualificar-se-ia como reflexa.
+
+    3. Recurso extraordinário com agravo desprovido” (ARE nº 1.342.002/CE, Segunda Turma, Relator o Ministro Nunes Marques, DJe de 17/12/2021).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO ESTADUAL. ADIANTAMENTO DE PAGAMENTO DE HONORÁRIOS PERICIAIS. ÔNUS IMPOSTO AO ENTE FEDERATIVO AO QUAL O PARQUET ESTÁ VINCULADO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. AGRAVO INTERNO DESPROVIDO.” (ARE nº 1.263.431/SP - AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 01/09/2020)” (RE nº 1.223.525/AC-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 19/11/2019).
+
+    Aplicando essa orientação, anotem-se as seguintes decisões monocráticas: ARE nº 1.469.602/DF, Relator o Ministro Nunes Marques, DJe de 11/03/2024; RE nº 1.371.088/PE, Relator o Ministro André Mendonça, DJe de 8/01/2024; ARE nº 1.463.717/MG, Relatora a Ministra Cármen Lúcia, DJe de 21/11/2023; ARE nº 1.461.436/MG, de minha relatoria, DJe de 03/11/2023; e ARE nº 1.436.701/RJ, Relator o Ministro Alexandre de Moraes, DJe de 25/07/2023;
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Sem majoração da verba honorária, tendo em vista a ausência de fixação pela origem.
+
+    Publique-se.
+
+    Brasília, 8 de novembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
