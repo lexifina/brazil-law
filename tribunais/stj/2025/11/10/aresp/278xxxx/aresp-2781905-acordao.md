@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DE PENHORA. CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AOS ARTS. 1.022, II, E 489 DO CPC. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Constatada contradição e omissão no acórdão recorrido, que não enfrenta o pedido de reconhecimento da validade da intimação da penhora realizada no mesmo endereço da citação, independentemente de mudança de domicílio, e defere providência diversa da postulada.
+2. Verificada incongruência entre o pedido formulado pela parte exequente e o teor do provimento judicial, que defere novo pedido de intimação sem se manifestar sobre a validade da intimação anterior.
+3. Caracterizada violação aos arts. 1.022, II, e 489 do CPC, diante da contradição e da omissão evidentes no julgamento do agravo de instrumento.
+4. Agravo em recurso especial conhecido para dar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CARPAL TRATORES LTDA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, III, alíneas "a" e "c" da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REVELIA NA FASE COGNITIVA. AUSÊNCIA DE ADVOGADO CONSTITUÍDO. NECESSIDADE DE INTIMAÇÃO DE REVEL PARA O CUMPRIMENTO DE SENTENÇA.
+1. A revelia na fase de conhecimento, não dispensa a intimação do réu revel para o cumprimento da sentença, fase regulada pelo artigo 513, § 2º, IV do Código de Processo Civil.
+2. Pouco espaço a lei deixou para outra interpretação, pois ressalvara, apenas, a hipótese em que o revel fora citado fictamente, exigindo, assim, nova intimação para o cumprimento da sentença, ainda que via edital.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO." (fls. 35, 41-42)
+Os embargos de declaração de fls. 46-49 foram rejeitados e os de fls. 88-93 foram rejeitados. (fls. 79-81 e 101-105)
+Nas razões do recurso especial, a parte alega violação aos arts. 274, 513, § 3º, 841, § 4º, 489 e 1.022, caput, I e II do CPC, sustentando, em síntese, que:
+(a) arts. 1.022, I e II, e 489 do CPC: apontou negativa de prestação jurisdicional por omissão e contradição no acórdão recorrido, que não enfrentou teses relevantes e apresentou incongruência entre o apanhado fático, a fundamentação e o dispositivo, requerendo a anulação do acórdão por violação aos arts. 1.022 e 489.
+(b) arts. 274, parágrafo único, 513, § 3º, e 841, § 4º, do CPC: defendeu que deve se considerar válida a intimação da penhora enviada ao mesmo endereço da citação, porque o executado não comunicou mudança de endereço ao juízo, impondo a reforma do acórdão para reconhecer a eficácia da intimação no endereço constante dos autos.
+Não foram apresentadas contrarrazões. (fls. 129)
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo. (fls. 133-135)
+É o relatório. Decido.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO DE PENHORA. CONTRADIÇÃO E OMISSÃO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AOS ARTS. 1.022, II, E 489 DO CPC. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Constatada contradição e omissão no acórdão recorrido, que não enfrenta o pedido de reconhecimento da validade da intimação da penhora realizada no mesmo endereço da citação, independentemente de mudança de domicílio, e defere providência diversa da postulada.
+2. Verificada incongruência entre o pedido formulado pela parte exequente e o teor do provimento judicial, que defere novo pedido de intimação sem se manifestar sobre a validade da intimação anterior.
+3. Caracterizada violação aos arts. 1.022, II, e 489 do CPC, diante da contradição e da omissão evidentes no julgamento do agravo de instrumento.
+4. Agravo em recurso especial conhecido para dar provimento ao recurso especial.
+VOTO
+No tocante à alegada violação aos arts. 1.022, incisos I e II, e 489 do Código de Processo Civil, verifico a ocorrência da contradição e da omissão apontadas no acórdão recorrido, bem como a ausência de fundamentação adequada quanto à análise do pedido de reconhecimento da validade da intimação da penhora.
+Constata-se a existência de omissão e contradição no acórdão recorrido, uma vez que o Tribunal de origem, ao prover o agravo de instrumento, incorre em equívoco quanto ao pedido efetivamente formulado.
+Isso porque, na decisão agravada, o Juízo de primeiro grau indeferiu o pedido do exequente para que fosse reconhecida a validade da intimação da penhora realizada no mesmo endereço em que ocorreu a citação da parte executada, independentemente de eventual mudança de domicílio.
+O magistrado fundamentou seu entendimento no art. 513, §2º, II, do Código de Processo Civil, ao considerar indispensável a intimação pessoal do executado para o prosseguimento do cumprimento de sentença, ainda que este tenha sido revel na fase de conhecimento, nos seguintes termos:
+"A parte exequente pugnou pela validade da intimação da penhora (evento 72). (..) Analisando os autos, contata-se que a parte executada foi revel no processo de conhecimento (evento n. 01, doc. 02, fls. 174), o que gerou o cumprimento de sentença. Conforme dispõe o artigo 513, §2º, inciso II, do CPC, quando o devedor não tiver procurador constituído nos autos, far-se-á necessária sua intimação pessoal para prosseguimento do cumprimento de sentença. Nota-se que a lei não excepciona o revel. Sendo assim, mesmo que a requerida tenha sido revel na fase de conhecimento, entendo que há necessidade de intimação para a fase de cumprimento de sentença. (..) Desse modo, indefiro o pedido do exequente."
+Após o indeferimento do pedido de reconhecimento da validade da intimação da penhora realizada no mesmo endereço em que ocorreu a citação da parte executada, a parte recorrente interpôs agravo de instrumento, pleiteando expressamente o reconhecimento da validade da referida intimação. Entretanto, ao julgar o recurso, o acórdão recorrido deu provimento ao agravo para deferir novo pedido de intimação do executado, providência que não correspondeu ao pedido formulado pela recorrente, configurando evidente incongruência entre a pretensão recursal e o teor do provimento judicial, conforme se extrai de seu dispositivo:
+"Ante o exposto, conheço e provejo o agravo de instrumento para reformar a decisão atacada (mov. 74 dos autos 0319505-23.2010.8.09.0002) a fim de deferir o pedido de intimação do executado/agravado (em seu endereço e, subsidiariamente, via edital) quanto à penhora dos seus bens (mov. 72 dos autos originais), retomando-se a marcha processual."
+Constata-se, assim, que há contradição evidente entre o objeto do pedido formulado pela parte exequente  que visava o reconhecimento da validade da intimação já realizada  e o teor do acórdão recorrido, que deferiu novo pedido de intimação, não se manifestando sobre a validade da anterior, o que inviabiliza a adequada prestação jurisdicional e a compreensão exata da extensão do provimento judicial. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. APELO NOBRE. TEMPESTIVIDADE COMPROVADA. EMBARGOS DO DEVEDOR. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO NCPC. OMISSÃO CONFIGURADA. VÍCIO NÃO SANADO NA ORIGEM. NECESSÁRIO RETORNO DOS AUTOS. RECURSO ESPECIAL PARCIALMENTE PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1.Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É tempestivo o recurso especial interposto dentro do prazo previsto no art. 1003, § 5º, do NCPC.
+3.A existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC, sendo necessária a remessa dos autos à Corte estadual para sanar o vício apontado.
+4. Agravo interno em recurso especial não provido.
+(AgInt no REsp 1857281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe de 19/8/2021, g. n.)
+Dessa forma, está caracterizada a alegada ofensa aos arts. 1.022, II, e 489 do Código de Processo Civil, ante a contradição e omissão evidentes no julgamento do agravo de instrumento pelo Tribunal de origem, o qual, embora tenha reconhecido a necessidade de intimação do executado, deferiu providência diversa daquela efetivamente postulada pela parte exequente, deixando de se manifestar sobre o pedido de reconhecimento da validade da intimação da penhora.
+Ante o exposto, conheço do agravo em recurso especial e dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja proferida nova decisão, suprindo as omissões e contradições ora reconhecidas, nos termos do art. 1.022 do CPC.
+É como voto.
