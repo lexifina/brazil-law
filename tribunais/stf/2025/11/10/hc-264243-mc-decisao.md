@@ -1,0 +1,31 @@
+DECISÃO
+
+    1. A defesa de Deividi Magnun de Aguiar Damin impetrou habeas corpus, com pedido de medida liminar, contra decisão monocrática proferida por ministro do Superior Tribunal de Justiça.
+
+    Conforme se depreende dos autos, o Juízo de primeiro grau decretou a prisão temporária do paciente, pelo prazo de 30 dias, prorrogável por igual período, em investigação por suposta prática de tráfico de drogas, associação para o tráfico e lavagem de dinheiro, com fundamento no art. 1º, I e III, da Lei n. 7.960/1989, c/c os arts. 1º e 2º, § 4º, da Lei n. 8.072/1990.
+
+    O impetrante, em síntese, pretende a revogação da “prisão temporária, mantida pela autoridade coatora pela ausência de justa causa, nos termos do art. 648, I, do Código de Processo Penal”.
+
+    É o relatório. Decido.
+
+    2. O processo está em condições de ser julgado, nos termos do art. 52, parágrafo único, do Regimento Interno. Dispenso a remessa ao Ministério Público Federal.
+
+    Reputo inadmissível o habeas corpus.
+
+    Como se sabe, o Supremo consolidou jurisprudência no sentido de não se conhecer de habeas corpus impetrado em face de decisão monocrática de ministro de tribunal superior, por caracterizar supressão de instância (HC 244.655 AgR, ministro Edson Fachin; HC 248.694 AgR, ministro Alexandre de Moraes; HC 246.682 AgR, ministro Gilmar Mendes; HC 243.889 AgR, ministro Dias Toffoli; HC 248.658 AgR, ministro Cristiano Zanin, HC 248.674 AgR, Flávio Dino; e HC 246.390 AgR, da minha relatoria).
+
+    Não obstante a inadmissibilidade da impetração, a constatação de evidente ilegalidade enseja a concessão do habeas corpus de ofício, conforme disposto nos arts. 647-A, caput e parágrafo único, e 654, § 2º, ambos do Código de Processo Penal, e no art. 193, II, do Regimento Interno do Supremo, observada a orientação jurisprudencial desta Casa. Menciono, entre outros, o HC 244.274 AgR, da minha relatoria; e o HC 243.077, ministro Edson Fachin. Ocorre que, segundo penso, tal situação não foi verificada no caso em exame.
+
+    Em síntese, não vislumbro situação de flagrante ilegalidade para superar a inviabilidade do conhecimento do habeas corpus impetrado contra decisão monocrática de ministro de Tribunal Superior, nos termos da pacífica orientação jurisprudencial desta Suprema Corte.
+
+    3. Do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º).
+
+    4. Intime-se. Publique-se.
+
+Brasília, 10 de novembro de 2025.
+
+Ministro NUNES MARQUES
+
+Relator
+
+Documento assinado digitalmente
