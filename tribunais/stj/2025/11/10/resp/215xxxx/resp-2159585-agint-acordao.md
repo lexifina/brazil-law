@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Incide a Súmula 211 do STJ quando a tese referente ao artigo de lei federal apontado no recurso especial não foi enfrentada no acórdão recorrido, apesar da oposição de embargos de declaração.
+2. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, parte dos fundamentos de um dos capítulos da decisão ora agravada, relativa à aplicação da Súmula 284 do STF, o que impede o conhecimento integral do agravo interno.
+4. Agravo interno parcialmente conhecido e desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela DEFENSORIA PÚBLICA DA UNIÃO contra decisão de minha lavra (e-STJ fls. 782/786), que não conheceu do recurso especial em razão da incidência da Súmula 211 do STJ, considerando a falta de prequestionamento do art. 4º, XXI, da LC n. 80/1994 e da tese de inexistência de interesse recursal, além da aplicação da Súmula 284 do STF, diante da ausência de indicação do dispositivo legal que fundamentaria a alegação.
+No presente agravo, a parte agravante sustenta que a matéria tratada no apelo nobre - especificamente a alegada violação do art. 4º, XXI, da LC n. 80/1994 e a aplicação da Súmula 421 do STJ - foi enfren tada tanto no primeiro acórdão quanto no segundo, este último proferido após o Superior Tribunal de Justiça determinar, à Corte de origem, a adequação do acórdão com o Tema 1.002 do STF.
+Defende, ainda, que não é necessário alegar, no recurso especial, violação ao art. 1.022 do CPC, uma vez que essa providência somente se mostra indispensável quando o Tribunal de origem deixa de enfrentar a matéria, mesmo após a oposição de embargos de declaração.
+Requer, assim, a reconsideração da decisão agravada ou seja submetido o feito para julgamento pelo Colegiado.
+Sem impugnação (e-STJ fl. 817).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Incide a Súmula 211 do STJ quando a tese referente ao artigo de lei federal apontado no recurso especial não foi enfrentada no acórdão recorrido, apesar da oposição de embargos de declaração.
+2. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, parte dos fundamentos de um dos capítulos da decisão ora agravada, relativa à aplicação da Súmula 284 do STF, o que impede o conhecimento integral do agravo interno.
+4. Agravo interno parcialmente conhecido e desprovido.
+VOTO
+Conforme registrado na decisão agravada, o Tribunal de origem não emitiu juízo de valor sobre o disposto no art. 4º, XXI, da LC n. 80/1994, apontado como violado, tampouco sobre a tese de ausência de interesse de recorrer, apesar da oposição de embargos de declaração, sob o entendimento de que "o tema não foi objeto de apelação da Defensoria Pública da União". Incide, assim, as Súmulas 282 e 356 do STF.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis: "art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade."
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação e demonstração de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1067275/RS, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 3/10/2017, DJe 13/10/2017 e AgInt no REsp 1631358/RN, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017), o que não ocorreu in casu.
+Não se olvida que, nas razões dos embargos de declaração opostos na origem, a Defensoria Pública da União destacou que a sentença condenou expressamente todos os réus ao pagamento de honorários advocatícios, de modo que a sucumbência da DPU surgiu apenas na ocasião do julgamento das apelações interpostas pelos entes públicos, em que se aplicou a Súmula 421 do STJ.
+Entretanto, a Corte Regional também não emitiu nenhum juízo de valor sobre a tese de ausência de interesse de agir (recursal), carecendo o apelo nobre, de fato, do requisito constitucional do prequestionamento, o que atrai a incidência do óbice da Súmula 211 do STJ.
+Além do mais, quanto à ausência de interesse de recorrer da sentença que lhe foi favorável, a decisão ora agravada aplicou a Súmula 284 do STF, sob o fundamento de que, na petição de recurso especial, a recorrente não indicou nenhum dispositivo de lei federal contrariado ou interpretado de maneira divergente pela Corte para amparar a alegação.
+No presente agravo interno, a parte agravante não se insurgiu contra o referido fundamento, relativo ao mesmo capitulo.
+Considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1424404/SP (Rel. Ministro Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido quanto à tese de ausência de interesse de agir, em face da ausência de impugnação ao fundamento relativo à aplicação da Súmula 284 do STF.
+Nessa quadra, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015, e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Diante do exposto, CONHEÇO PARCIALMENTE do agravo interno e NEGO-LHE PROVIMENTO.
+É como voto.
