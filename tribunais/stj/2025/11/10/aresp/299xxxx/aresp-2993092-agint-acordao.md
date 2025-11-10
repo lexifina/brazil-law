@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO QUE CONSIDERA VIOLADO OU OBJETO DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. Observa-se que, nas razões do recurso especial, a parte recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pelas alíneas "a" e "c" do permissivo constitucional.
+2. Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenche o requisito formal de admissibilidade recursal.
+3. Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por P&S VÍCULOS LTDA. contra decisão monocrática da presidência do STJ que não conheceu do recurso em razão da Súmula n. 284/STF (fls. 567 - 568).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 454):
+APELAÇÕES CÍVEIS. AÇÃO DE RESCISÃO CONTRATUAL E INDENIZATÓRIA. VÍCIO REDIBITÓRIO EM VEÍCULO AUTOMOTOR. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DE TODOS OS LITIGANTES. RECURSO DA RÉ P&S VEÍCULOS. SUSTENTADA A OCORRÊNCIA DE DECADÊNCIA NONAGESIMAL. QUESTÃO ANTERIORMENTE APRECIADA PELO JUÍZO DE ORIGEM. AFASTAMENTO EM DESPACHO SANEADOR. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO A TEMPO E MODO. PRECLUSÃO TEMPORAL. QUESTÃO AGRAVÁVEL. INVIABILIDADE DE SUSCITAÇÃO EM APELAÇÃO. APLICABILIDADE DO ART. 1.009, § 1º, DO CPC. MÉRITO. INSURGÊNCIA DA RÉ LOJA DE VEÍCULOS. COMPRA E VENDA DE VEÍCULO AUTOMOTOR USADO. DEFEITOS APRESENTADOS LOGO NOS PRIMEIROS DIAS DE USO. CONSERTOS EFETUADOS INCONTINENTI. ULTERIOR PROBLEMA NO MOTOR QUE INVIABILIZOU O USO DO AUTOMÓVEL. CAMIONETE QUE, SUBMETIDA A SUBSTITUIÇÃO DO MOTOR, AINDA ASSIM APRESENTA DEFEITOS MECÂNICOS. IMPRESTABILIDADE PARA OS FINS A QUE SE DESTINA. VÍCIO REDIBITÓRIO CONSTATADO. ALUDIDA CULPA EXCLUSIVA DO CONSUMIDOR. INOCORRÊNCIA. CONSERTO E DISPONIBILIZAÇÃO DO BEM EM BOM ESTADO QUE É DE RESPONSABILIZAÇÃO DA FORNECEDORA. SENTENÇA MANTIDA. RESPONSABILIDADE CIVIL DA CASA BANCÁRIA. ARGUMENTADA AUSÊNCIA DE NEXO DE CAUSA ENTRE SEU PRODUTO E O DEFEITO NO BEM COMERCIALIZADO PELA CORRÉ. ACOLHIMENTO. CONTRATO BANCÁRIO E PACTO DE COMPRA E VENDA SEM ACESSORIEDADE ENTRE SI. DEMANDADA CONSTITUÍDA COMO "BANCO DE VAREJO". AUSÊNCIA DE RESPONSABILIDADE QUANTO A VÍCIO REDIBITÓRIO DO VEÍCULO ADQUIRIDO. EXCLUSÃO DO PROCESSO. IMPROCEDÊNCIA DOS PEDIDOS CONTRA SI FORMULADOS. SENTENÇA REFORMADA NO PONTO. INSURGÊNCIA DA PARTE AUTORA. ALMEJADO RECONHECIMENTO DO ABALO ANÍMICO. REJEIÇÃO. DEMORA NO REPARO DO VEÍCULO QUE, POR SI SÓ, NÃO CONFIGURA DANO MORAL INDENIZÁVEL. DEMANDANTE QUE NÃO LOGROU ÊXITO EM DEMONSTRAR QUE A SITUAÇÃO LHE CAUSOU ABALO AOS DIREITOS DE PERSONALIDADE. FATO EXTRAORDINÁRIO NÃO DEMONSTRADO. SITUAÇÃO QUE NÃO ULTRAPASSOU O MERO DISSABOR DO COTIDIANO. INDENIZAÇÃO DESCABIDA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. MAJORAÇÃO. RECURSO DO AUTOR CONHECIDO E DESPROVIDO. RECURSO DA RÉ P&S CONHECIDO E DESPROVIDO. RECURSO DA RÉ AYMORÉ CONHECIDO E PROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 479).
+A agravante alega, nas razões do agravo interno, que a decisão agravada deve ser reformada porque: (i) o fundamento de inadmissão - Súmula n. 284/STF - não se aplica ao caso; (ii) o recurso especial estaria fundamentado "exclusivamente no art. 105, inciso III, "c", da CF/88, com base em dissenso jurisprudencial entre o acórdão recorrido e o paradigma proferido por outro Tribunal de Justiça pátrio" (fl. 574); e (iii) o agravo de instrumento impugnou todos os fundamentos da decisão de inadmissão proferida na origem.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contraminuta (fl. 579).
+É, no essencial, o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO QUE CONSIDERA VIOLADO OU OBJETO DE DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA N. 284/STF.
+1. Observa-se que, nas razões do recurso especial, a parte recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação pelas alíneas "a" e "c" do permissivo constitucional.
+2. Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido, não preenche o requisito formal de admissibilidade recursal.
+3. Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+A decisão recorrida não conheceu do recurso especial, pois a parte não especificou que dispositivos de lei federal teriam sido violados pelo acórdão recorrido, a fim de demonstrar o cabimento do recurso especial pelas alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal (fl. 567):
+Por meio da análise do recurso de P&S VEICULOS LTDA, verifica-se que incide a Súmula n. 284/STF, porquanto a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por seu turno, sustentar a tese de responsabilidade exclusiva do consumidor por reparo realizado em oficina indicada pelo próprio consumidor, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação tanto pelas alíneas "a" e "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. A ausência de indicação do dispositivo de lei violado ou de interpretação controvertida caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF.
+(AgInt no AREsp n. 2.484.657/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 26/6/2024.)
+3. O recurso especial é inadmissível por fundamentação deficiente quando deixa de indicar o dispositivo de lei federal violado. Súmula nº 284/STF.
+(AgInt no AREsp n. 2.511.818/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 21/6/2024.)
+Assim, não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
