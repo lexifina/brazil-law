@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTAMENTO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Não há falar em negativa de prestação jurisdicional nos embargos de declaração se o Tribunal de origem enfrenta a matéria posta em debate na medida necessária para o deslinde da controvérsia, ainda que sucintamente. A motivação contrária ao interesse da parte não se traduz em ofensa à legislação processual.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Recurso especial parcialmente conhecido e não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por COMPANHIA SIDERÚRGICA VALE DO PINDARÉ, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+"DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS E DOS DISPOSITIVOS DA DECISÃO E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA.
+I - O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na decisão, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes. O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos, quiasmas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional.
+II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de agravo de instrumento, impõe o desprovimento do recurso.
+III - Agravo interno desprovido" (e-STJ fls. 525/526).
+Os embargos de declaração opostos foram rejeitados, tendo sido imposta à embargante a multa do art. 1.026, § 2º, do Código de Processo Civil (e-STJ fl. 576).
+No recurso especial (e-STJ fls. 598/619), alega-se, além de divergência jurisprudencial, negativa de vigência dos arts. 206, § 3º, V, do Código Civil, 489, § 1º, VI, e 1.022, II, do CPC ao argumento de que a decisão recorrida rejeitou a prescrição da pretensão individual indenizatória.
+Argumenta, ainda, que não se pode confundir a reparação do dano ambiental de natureza difusa com a indenização pelos prejuízos individuais decorrentes desse mesmo dano.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às e-STJ fls. 684/687.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AFASTAMENTO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Não há falar em negativa de prestação jurisdicional nos embargos de declaração se o Tribunal de origem enfrenta a matéria posta em debate na medida necessária para o deslinde da controvérsia, ainda que sucintamente. A motivação contrária ao interesse da parte não se traduz em ofensa à legislação processual.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+3. Recurso especial parcialmente conhecido e não provido.
+VOTO
+A insurgência não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional e ofensa aos arts. 489, § 1º, VI, e 1.022, II, do CPC, registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, os quais entendeu relevantes para a solução da controvérsia, afastando os argumentos que poderiam infirmar a conclusão adotada. Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema nº 339/STF).
+No contexto destes autos, a Corte local agiu corretamente ao rejeitar os embargos declaratórios por não identificar omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente seu intuito infringente, que objetivava a reforma do julgado por via inadequada.
+Não há obrigação de o órgão judicante se pronunciar especificamente sobre todos os pontos, tese ou alegação suscitados pelos litigantes. Na técnica da decisão judicial, é usual o fato de que o acolhimento ou a refutação de determinado argumento torne prejudicado ou exclua, logicamente, a análise dos demais, por restarem incompatíveis com a decisão ou simplesmente por não terem sido acolhidos pelo julgador.
+A partir disso, conclui-se que a motivação contrária aos interesses da parte ou a superação de argumentos considerados irrelevantes para a solução do caso não autoriza o acolhimento dos declaratórios.
+Quanto à sustentada violação do art. 206, § 3º, V, do Código Civil, verifica-se que a matéria versada nos citados dispositivos não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ.
+O recurso especial também não alegou violação do art. 1.022 do CPC, com a finalidade de sanar eventual omissão porventura existente quanto à questão da prescrição.
+Ante o exposto, conheço parcialmente do recurso especial para negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+É o voto.
