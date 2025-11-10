@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por PREVIDÊNCIA USIMINAS contra decisão singular da lavra da Ministra Presidente do STJ, Maria Thereza de Assis Moura, na qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação específica ao fundamento relativo à Súmula 7/STJ.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em equívoco ao aplicar a Súmula 182/STJ, pois teria impugnado de forma específica o fundamento relativo à Súmula 7/STJ no tópico "IV.2 - DA INAPLICABILIDADE DA SÚMULA 07 DO STJ" do agravo em recurso especial (fls. 791-793). Sustenta, ainda, que seria possível admitir agravos que impugnem capítulos autônomos da decisão, sem a necessidade de devolução de todas as questões à instância superior.
+Impugnação ao agravo interno às fls. 843-844, na qual a parte agravada alega que a decisão agravada está em consonância com a jurisprudência pacífica do STJ, que exige a impugnação específica de todos os fundamentos da decisão que não admitiu o recurso especial, sob pena de incidência da Súmula 182/STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início, destaco que a decisão que não admitiu o recurso especial consignou:
+a) ausência de negativa de prestação jurisdicional com relação à violação dos arts. 11, § 1º, 489, § 1º, IV, e 1.022, I e II, do CPC;
+b) incidência da Súmula 83/STJ quanto às demais ofensas arguidas;
+c) óbices das Súmulas 283 e 284 do STF por ausência de impugnação do fundamento relativo à preclusão;
+d) incidência da Súmula 7/STJ pelo reexame quanto à exigência de caução (fls. 778-781).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que a Súmula 7/STJ seria inaplicável ao caso, pois a controvérsia envolveria exclusivamente matéria de direito, sem necessidade de reexame de fatos e provas.
+Como se vê, a parte agravante deixou de impugnar de forma específica e suficiente o fundamento relativo à Súmula 7/STJ, limitando-se a alegações genéricas, sem demonstrar concretamente o desacerto da decisão agravada.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (EAREsp 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Segundo a orientação do Superior Tribunal de Justiça, "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 10/11/2016, DJe de 18/11/2016.). Nesse mesmo sentido: AgInt no AREsp n. 2.144.851/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.
+Outrossim, a mera alegação de que os fundamentos da decisão agravada seriam autônomos não é suficiente para afastar a incidência da Súmula 182/STJ, sendo imprescindível a impugnação específica de todos os fundamentos (AgRg no AREsp 620.595/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 15/10/2015, DJe 26/10/2015).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende a reforma da conclusão do acórdão recorrido quanto à solidariedade dos fundos Femco/Cosipa, ao argumento de que seriam contabilmente separados e independentes.
+No caso dos autos, todavia, o Tribunal de origem entendeu que essa matéria já está preclusa (fls. 363-365):
+A empresa aduz que deve ser suspensa a decisão por vários motivos dentre eles a existência de submassas e seus efeitos em relação àqueles valores, bem como sobre a impossibilidade de penhora dos valores que se encontram administrados por aquela submassa que a recorrente entende como diversa.
+Ocorre que, nos autos do agravo de instrumento já mencionado (AI 5004533-20.2020.8.08.0000) essas questões foram enfrentadas a exaustão, estando o feito em sede de embargos de declaração.
+Cito trecho do voto e da conclusão de julgamento, no sentido de, a luz do art. 507 do CPC, conhecer parcialmente do presente posto que preclusas algumas das matérias:
+Desacolho a alegação de ausência de fundamentação quanto ao tema e, ainda, a existência de error in judicando, mantendo irretocável a decisão quanto a responsabilidade do PBD/CNPB 1975.0002.18 em face do agravado, aposentado antes de 2000, data da criação do fundo COS Iprev, já que, antes desta data, somente havia o PBD CNPB 19750.0002-18, no que resta, de igual forma afastada a alegação de ausência de solidariedade dos fundos. É que a recorrente pugna pelo reconhecimento de duas situações diversas que, conforme já demonstrado não são a realidade do que se está decidindo. Amplia a recorrente um tema em debate que, conforme demonstrado, já restou decidido, inclusive pelo STJ, em sentido diametralmente oposto. Ao julgar a Reclamação nº 39.212/ES, concluiu o eminente Ministro Raul Araújo, do colendo Superior Tribunal de Justiça que o Juízo da 10ª Vara Cível de Vitória não negou autoridade a julgado, haja vista que a culpa pela indistinção acerca de a quem pertence o patrimônio depositado no Fundo PBD/CNPB 1975.0002-18 seria da própria Previdência Usiminas, por não ter promovido sua liquidação extrajudicial (decisão monocrática proferida em 16/4/2020, DJe 20/4/2020), em que pese a alegação da agravante de que a submassa desse fundo estaria exaurida.
+(..)
+Desta forma, no que concerne ao pertencimento dos valores, bem como a ausência de fundamentação (itens 1 e 2.1) deixo de conhecer do recurso por estar a matéria acobertada pela preclusão, sendo que a decisão, neste ponto, não se revela omissa, compreendendo, inclusive como demonstrado, a matéria julgada por esta corte no agravo de instrumento de número 5004533-20.2020.8.08.0000.
+Assim, acolho a preliminar, reconhecendo a preclusão quanto as matérias assinalas nos pontos 1; 2.1;3;3.2 (sic), já objeto de apreciação pretérita por esta corte, amoldando-se a previsão normativa do artigo 507 do CPC.
+Nas razões do seu recurso especial, contudo, a parte recorrente não impugnou esse fundamento da preclusão, restringindo-se a insistir na tese da falta de solidariedade entre os fundos. Nesse ponto, evidenciada a falta de dialeticidade da argumentação desenvolvida no recurso especial, incide, por analogia, a Súmula 283 do Supremo Tribunal Federal.
+Ademais, como consignado na decisão que não admitiu o recurso especial, rever a conclusão do órgão fracionário quanto ao risco de grave dano de difícil ou incerta reparação, a fim de manter a exigência de caução, implicaria, necessariamente, reanálise do conjunto fático-probatório, o que é inviável na presente via, por força da Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
