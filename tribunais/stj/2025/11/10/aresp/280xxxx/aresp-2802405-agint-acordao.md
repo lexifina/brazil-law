@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INTERESSE RECURSAL. AUSÊNCIA.
+1. O provimento do recurso especial por negativa de prestação jurisdicional pressupõe, entre outros requisitos, que a questão reputada omissa/contraditória/obscura seja veiculada nas instâncias ordinárias, mediante a oposição de aclaratórios, o que não ocorreu, na hipótese, sendo certo a carência de interesse recursal.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NORMELIA DAS GRAÇAS MONTEIRO CARVALHO contra decisão que conheceu do agravo para não conhecer do apelo nobre, sob o fundamento de ausência de interesse recursal.
+A parte agravante repisa as alegações de omissão do aresto prolatado pelo Tribunal de origem.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INTERESSE RECURSAL. AUSÊNCIA.
+1. O provimento do recurso especial por negativa de prestação jurisdicional pressupõe, entre outros requisitos, que a questão reputada omissa/contraditória/obscura seja veiculada nas instâncias ordinárias, mediante a oposição de aclaratórios, o que não ocorreu, na hipótese, sendo certo a carência de interesse recursal.
+2. Agravo interno desprovido.
+VOTO
+A despeito d os argumentos expendidos, tenho que a decisão agravada não merece retoque.
+Conforme registrado na decisão combatida, no recurso especial a parte ora agravante apontou negativa de prestação jurisdicional, pois (e-STJ fl. 277):
+A parte juntou, desde a base, documento comprovando sua filiação e seu nome em lista homologada dos autos coletivos, logo a decisão não corresponde à verdade dos autos.
+Nos autos, foram ofertadas as fichas financeiras da parte Exequente, evidenciando sua filiação pelos descontos do sindicato coletivo, assim como foi fornecida lista dos autos coletivos com o nome da recorrente, porém mesmo isto sendo indicado, inclusive em sede de embargos de declaração, a corte estadual não apreciou os documentos.
+Assim, ao proferir decisão com base em premissa equivocada, o órgão julgador incorre em erro, pois declara situação diversa dos autos e, quando instado a se manifestar sobre a documentação, quedou-se omisso, pois não teceu qualquer comentário sobre a questão ou documentos suscitados, deixando a decisão em flagrante estado de vício de fundamentação e negando a devida prestação jurisdicional.
+Ocorre que, não obstante a parte recorrente tenha oposto recurso integrativo na origem, constata-se que os argumentos de omissão - defendidos no especial - não foram arguidos nos embargos de declaração, sendo certo que o apelo nobre não pode ser conhecido devido à falta de interesse recursal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. APONTADA VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. DEMAIS ARTIGOS. NÃO DEMONSTRAÇÃO DAS RAZÕES DE MALFERIMENTO. AGRAVO IMPROVIDO. 1. Inexistência de interesse recursal por alegada violação do art. 535 do CPC /1973 quando nem sequer houve oposição de embargos de declaração perante o Tribunal de origem. 2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1331486/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, D Je 22/03/2019).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 489, § 1º, 927, III, e § 1º, 928 e 1.022, I, DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO. EMBARGOS DE DECLARAÇÃO. NÃO INTERPOSIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. TEMAS 515, 877 E 880 DO STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. RITO DOS REPETITIVOS. AFETAÇÃO. REQUISITOS. AUSÊNCIA. 1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3). 2. Em relação à alegada violação dos arts. 489, § 1º, 927, III, e § 1º, 928 e 1.022, I, do CPC/2015, inexiste interesse recursal, tendo em vista que sequer foram opostos embargos de declaração contra o acórdão hostilizado. 3. A revisão do entendimento do aresto hostilizado acerca da inexistência de violação da coisa julgada esbarra no óbice da Súmula 7 do STJ, uma vez que o Tribunal de origem decidiu a questão com base na realidade fático-probatório dos autos. 4. O aresto exarado pela Corte a quo está em conformidade com a jurisprudência de ambas as Turmas que compõem a Primeira Seção deste Tribunal, no sentido de que a liquidação integra a fase de cognição do processo, motivo pelo qual a execução tem início quando o título se apresenta também líquido, momento em que começa a correr o prazo prescricional da ação de execução. Incidência da Súmula 83 do STJ. 5. No que se refere às teses referentes aos Temas 515, 877 e 880, o especial carece do requisito do prequestionamento. 6. Apelo nobre não afetado ao rito dos recursos repetitivos, uma vez não preenchidos os requisitos exigidos pelo art. 257-A, § 1º, do RISTJ 7. Agravo interno desprovido. (AgInt AgInt AREsp 1.339.744/MS, minha Relatoria, Primeira Turma, DJe 06/03/2019)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não config urada a manifesta inadmissibilidade ou improcedência do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
