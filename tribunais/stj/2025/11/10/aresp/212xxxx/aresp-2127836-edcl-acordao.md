@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela CLARO S.A contra o acórdão da PRIMEIRA TURMA assim ementado (fl. 721):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. LISTA DE CONSUMIDORES. PACOTE DE FUTEBOL. VIOLAÇÃO AO ART. 1.022 DO CPC. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. REVISÃO FÁTICA DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. No acórdão recorrido, não se decidiu a causa por meio da aplicação do dispositivo legal apontado como violado. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+3. A afirmação de que o caso não demanda o reexame de fatos e de provas, ou a citação das razões recursais, não é suficiente para infirmar a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ). Para este Tribunal, a parte recorrente deve realizar o cotejo entre o acórdão recorrido e a tese recursal a fim de comprovar a inaplicabilidade do enunciado sumular em questão.
+4. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea do permissivo constitucional impedem a análise recursal pela alínea ; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+5. Agravo interno a que se nega provimento.
+A parte recorrente alega omissão quanto a dois pontos do recurso especial:
+(1) violação à coisa julgada, à luz dos arts. 502 e 508 do Código de Processo Civil (CPC), porque o pedido de apresentação de lista teria sido indeferido definitivamente e não poderia ser renovado por simples petição; e
+(2) violação ao art. 492 do CPC por julgamento extra petita, ao argumento de que o título executivo teria natureza meramente constitutiva (obrigação de fazer) e não reparatória, de modo que a determinação de apresentar lista de consumidores para ressarcimento pretérito extrapolaria o objeto da condenação.
+Requer que os embargos sejam acolhidos com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 755/761).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No acórdão embargado, a controvérsia foi decidida nestes termos (fls. 725/727):
+Ao apreciar o recurso integrativo, a Corte estadual decidiu o seguinte (fl. 282):
+O v. acórdão, fazendo menção aos dispositivos legais que entendeu necessários para elucidação do feito, afastou a alegação de preclusão e ofensa à coisa julgada, consignou que o título executivo impõe obrigação de repara o dano, que a medida pretendida se mostra necessária a assegurar o resultado prático da condenação, que a posterior adequação dos contratos de consumo em nada influencia no deslinde da presente demanda, visto que esta visa o ressarcimento dos consumidores já lesados pela conduta da empresa, e que a medida precede permite a verificação de eventual habilitação de interessados em número compatível com a gravidade do dano:  ..  É importante consignar que o indeferimento de nova intimação da embargante e a determinação de arquivados os autos em 2.016 (fls. 855 dos autos principais), não se deu em razão da satisfação do título como que fazer crer a embargante, mas sim porque o Juízo "a quo" entendeu como inócua a providência requeria pelo embargado consistente na apresentação da relação dos consumidores que deverão ser restituídos na forma da condenação desde a data da propositura da ação, bem como planilha contendo os valores a serem restituídos, uma vez que foi informado que não há nenhum consumidor nessa situação. Assim, não há qualquer óbice à formulação de novo requerimento em 2.019 para apresentação da lista dos assinantes do pacote de futebol na época dos fatos, inexistindo preclusão ou ofensa a coisa julgada como já apontado no acórdão embargado.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Por outro lado, em seu recurso, a parte recorrente apontou como violados os arts. 2º e 6º, I, II e III, da Lei 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação dos dispositivos legais tidos por violados. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+Por fim, nos exatos termos do acórdão recorrido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim se manifestou (fls. 138/139):
+Conforme se depreende dos autos, o primeiro pedido se restringia à lista dos lesados, enquanto o atual é de fornecimento da lista de todos os assinantes do pacote futebol à época dos fatos, lesados ou não, o que justamente guarda relação com a resposta negativa da agravada ao primeiro pedido.
+Pois bem. Como visto, o julgado impôs ao vencido a obrigação de reparar o dano.
+Nesse sentido, a apresentação em juízo da lista pretendida pelo Ministério Público autor da ação civil pública se mostra necessária a assegurar o resultado prático da condenação, encontra guarida no próprio CDC (artigo 84).
+Conforme destacou a diligente Procuradoria Geral de Justiça, é evidente que a posterior adequação dos contratos de consumo realizados pela agravada em nada influencia no deslinde da presente demanda, visto que esta visa o ressarcimento dos consumidores já lesados pela conduta da empresa.
+E, conforme já destacado em julgamento anterior, não é crível que uma empresa do porte da agravada não possua uma lista de consumidores, com discriminação exata de seus pacotes de transmissão contratados, pois, do contrário, como ela efetivava a cobrança das mensalidades de seus clientes
+Assim, a decisão agravada deve ser reformada, devendo a ré fornecer a relação dos consumidores tal como solicitada pelo Ministério Público, para a posterior verificação de eventual habilitação de interessados em número compatível com a gravidade do dano.
+O Tribunal de origem reconheceu que não havia preclusão, pois os pedidos indicados diferiam entre si, e concluiu ser essencial a apresentação em juízo da lista solicitada pelo Ministério Público para garantir a efetividade da condenação.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+A respeito da questão apontada no recurso ora examinado - a distinção entre os pedidos, a inexistência de preclusão e de ofensa à coisa julgada bem como a necessidade de apresentação em juízo da lista requerida pelo Ministério Público - a PRIMEIRA TURMA afirmou que a revisão das conclusões do Tribunal de origem demandaria reexame de fatos e de provas, encontrando óbice na Súmula 7 do Superior Tribunal de Justiça, cujo enunciado dispõe: "a pretensão de simples reexame de prova não enseja recurso especial".
+Ao contrário do alegado pela parte recorrente, o acórdão embargado não padece de vício algum. Não há a necessidade de esclarecer, complementar ou integrar o que foi decidido, pois a tutela jurisdicional foi prestada de forma clara e fundamentada, tendo havido manifestação satisfatória sobre todos os aspectos fáticos e jurídicos relevantes e inerentes à questão instaurada.
+A argumentação apresentada pela parte embargante não passa de inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
