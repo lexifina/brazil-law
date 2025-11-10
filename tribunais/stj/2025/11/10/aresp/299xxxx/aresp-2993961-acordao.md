@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. CESSÃO FIDUCIÁRIA. VÍCIO DE FUNDAMENTAÇÃO. AUSÊNCIA. PERCENTUAL FIXADO NA CÉDULA. AMORTIZAÇÃO. GARANTIA. NÃO VINCULAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 489 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. O percentual do valor da cédula de crédito bancário referia-se apenas ao limite para as amortizações das parcelas devidas, em operação relacionada à conta vinculada, hipótese típica de contratos envolvendo cessão fiduciária de recebíveis futuros, não se confundindo com o objeto da garantia.
+3. Alterar as conclusões do acórdão impugnado quanto a ausência de limitação da cessão fiduciária exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas 5 e 7 do STJ.
+4. Agravo conhecido. Recurso especial não provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por JOSÉ CHAGAS DOS SANTOS e outros (JOSÉ e outros) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+EMENTA - AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - CÉDULA DE CRÉDITO BANCÁRIO - CRÉDITO CONSTITUÍDO ANTERIORMENTE AO PEDIDO RECUPERACIONAL - CESSÃO FIDUCIÁRIA DE CARTÕES - DIREITOS CREDITÓRIOS - ART. 49 DA LEI Nº 11.101/2005 - NÃO SUJEIÇÃO À RECUPERAÇÃO JUDICIAL - GARANTIA QUE ENGLOBA A TOTALIDADE DA DÍVIDA - PERCENTUAL MÍNIMO QUE NÃO CONFIGURA VALOR LIMITE DA GARANTIA - CRÉDITO EXTRACONCURSAL - DECISÃO REFORMADA - RECURSO CONHECIDO E PROVIDO. 1. Nos termos do art. 49 da Lei nº 11.101/2005, os créditos constituídos anteriormente ao pedido de recuperação judicial submetem-se aos seus efeitos, excetuando-se aqueles integralmente garantidos por cessão fiduciária (§ 3.º). 2. Os percentuais mínimos adotados nas cessões fiduciárias destinam-se a equacionar as amortizações periódicas das parcelas devidas, e não para fixar o teto da garantia, visto que os recebíveis podem ser performados e totalizar o valor da dívida. 3. Embora tenha sido fixado um limite mínimo de garantia, as demais cláusulas contratuais deixam claro que a garantia abrange a integralidade da obrigação assumida pela devedora. 4. Decisão reformada. 5. Recurso conhecido e provido (e-STJ, fls. 75/76).
+Opostos embargos de declaração por JOSÉ e outros, foram rejeitados (e-STJ, fls. 126-134).
+Foi apresentada contraminuta (e-STJ, fls. 237-246).
+É o relatório.
+EMENTA
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. CESSÃO FIDUCIÁRIA. VÍCIO DE FUNDAMENTAÇÃO. AUSÊNCIA. PERCENTUAL FIXADO NA CÉDULA. AMORTIZAÇÃO. GARANTIA. NÃO VINCULAÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados no art. 489 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+2. O percentual do valor da cédula de crédito bancário referia-se apenas ao limite para as amortizações das parcelas devidas, em operação relacionada à conta vinculada, hipótese típica de contratos envolvendo cessão fiduciária de recebíveis futuros, não se confundindo com o objeto da garantia.
+3. Alterar as conclusões do acórdão impugnado quanto a ausência de limitação da cessão fiduciária exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas 5 e 7 do STJ.
+4. Agravo conhecido. Recurso especial não provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, JOSÉ e outros alegaram a violação dos arts. 489, § 1º, do CPC, 113 e 421-A do CC, 49 da Lei nº 11.101/05, ao sustentarem que (1) o acórdão recorrido incorreu em violação do dever de fundamentação; e (2) a cessão fiduciária foi pactuada no limite de 25% dos recebíveis, de modo que apenas tal fração deve ser considerada crédito extraconcursal (e-STJ, fls. 143-156).
+(1) (2) Da fundamentação do acórdão recorrido e da limitação da cessão de crédito
+Nas razões do especial, JOSÉ e outros alegaram que o acórdão vergastado carece de fundamentação.
+No entanto, o Tribunal estadual examinou a questão objeto da controvérsia de maneira suficiente e fundamentada, consignando que, embora na cédula de crédito bancário tenha sido estipulada garantia em percentual mínimo de 25%, o instrumento de cessão fiduciária deixou claro o ajuste de que a garantia referia-se à totalidade do saldo devedor das obrigações, de maneira que toda a integralidade do saldo seria crédito extraconcursal.
+Veja-se o trecho do acórdão:
+No caso em tela, consoante relatado, as partes celebraram cédula de crédito bancário n.º PII24321-4 emitida em 1.12.2022 de modo que foi disponibilizado à recuperanda o crédito de R$1.500.000,00 (um milhão e quinhentos mil reais).
+Na mencionada cédula de crédito bancário ficou estipulada garantia mediante cessão fiduciária de direitos de crédito no percentual mínimo de 25% do valor atualizado da CCB. Veja-se (f. 67):
+ ..
+No entanto, o instrumento particular de cessão fiduciária, anexo a CCB, estabeleceu que o percentual total da garantia referia-se a 100% do saldo devedor das obrigações (f. 43):
+ ..
+No mais, a cláusula 7.4 do instrumento de cessão fiduciária destacou que a "agenda exigida" não se confunde com o "percentual de garantia" (f. 46):
+ ..
+Importante destacar, que os percentuais mínimos adotados nas cessões fiduciárias destinam-se a equacionar as amortizações periódicas das parcelas devidas, e não para fixar o teto da garantia, visto que os recebíveis podem ser performados e totalizar o valor da dívida.
+Nesse contexto, cumpre anotar que o percentual mínimo de 25% previsto no contrato não significa que a diferença (75% do saldo devedor) esteja desprovida de garantia. Tal percentual serve apenas de limite para as amortizações das parcelas devidas, em operação relacionada à conta vinculada, aberta para tal finalidade, contexto típico de contratos envolvendo cessão fiduciária de recebíveis futuros. Portanto, não se confundem com o limite da totalidade da garantia oferecida.
+No mais, a cláusula contratual (IX - f. 43) é expressa no sentido de que a garantia visa englobar a integralidade do saldo devedor, compreendendo principal e acessórios.
+Nesse sentido, razão assiste ao banco agravante ao indicar que a porcentagem da garantia se trata de "agenda mínima" para o saldo em conta vinculada, e não de um limite máximo para a garantia de cessão fiduciária.
+Destaca-se que desde o início da contratação a recuperanda concordou com a extensão abrangente da garantia fiduciária, não podendo agora rever seu posicionamento a respeito da matéria.
+Não se aplicam, assim, na hipótese específica desses autos, os precedentes mencionados pela administradora judicial, nem o enunciado n.º 51 da I Jornada de Direito Comercial do CJF: "O saldo do crédito não coberto pelo valor do bem e/ou da garantia dos contratos previstos no § 3º do art. 49 da Lei n.º 11.101/2005 é crédito quirografário, sujeito à recuperação judicial."
+Nessa senda, na hipótese vertente, não é aplicável a limitação da garantia ao percentual mínimo estabelecido em cláusula contratual. Embora tenha sido fixado um limite mínimo de garantia, as demais cláusulas contratuais deixam claro que a garantia abrange a integralidade da obrigação assumida pela empresa devedora.
+Desse modo, conclui-se que o percentual mínimo foi estipulado apenas para evitar o vencimento antecipado da obrigação garantida, não configurando um valor limite para a cessão fiduciária, nem afastando sua natureza extraconcursal (e-STJ, fls. 80/82 - sem destaque no original).
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 489 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ACÓRDÃO RECORRIDO QUE ANALISOU AS QUESTÕES RELEVANTES, AFASTANDO OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CONFIGURADA. CONFUSÃO ENTRE DECISÃO DESFAVORÁVEL E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO DA APELAÇÃO POR DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE (ART. 932, III, DO CPC/2015). ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DESCONSTITUIÇÃO DA IMPENHORABILIDADE DO BEM DE FAMÍLIA (ART. 1º DA LEI 8.009/1990) POR ABUSO DA PERSONALIDADE JURÍDICA (ART. 50 DO CC/2002). AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. ENTENDIMENTO DA CORTE DE ORIGEM ALINHADO À JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO NÃO CONHECIDO. MAJORAMENTO DOS HONORÁRIOS SUCUMBENCIAIS PARA 15% (ART. 85, § 11, DO CPC/2015). I. CASO EM EXAME:
+ ..
+3. Afasta-se a alegação de violação aos arts. 489 e 1.022 do CPC/2015, pois o acórdão recorrido analisou as questões relevantes de forma clara e motivada, sem omissão, obscuridade ou contradição, não se confundindo decisão desfavorável com ausência de prestação jurisdicional.
+ ..
+7. Agravo em recurso especial não conhecido. Majorados os honorários sucumbenciais para 15% (quinze por cento), nos termos do art. 85, § 11, do CPC/2015.
+(AREsp n. 2.794.101/MG, relatora Ministra DANIELA TEIXEIRA, Terceira Turma, j. em 29/9/2025, DJEN de 2/10/2025 - sem destaque no original)
+De outro turno, esta Terceira Turma já se debruçou sobre questão análoga, esclarecendo que o percentual do valor da cédula de crédito bancário referia-se apenas ao limite para as amortizações das parcelas devidas, em operação relacionada à conta vinculada, hipótese típica de contratos envolvendo cessão fiduciária de recebíveis futuros, não se confundindo com o objeto da garantia.
+Confira-se:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO DE CRÉDITO. CÉDULA DE CRÉDITO BANCÁRIO. CESSÃO FIDUCIÁRIA. DUPLICATAS MERCANTIS. DIREITOS CREDITÓRIOS. NÃO SUJEIÇÃO À RECUPERAÇÃO JUDICIAL. LIMITE. PERCENTUAL. CONTA VINCULADA. PARÂMETRO. AMORTIZAÇÕES. OBJETO DA GARANTIA. DIFERENÇA.
+1. A controvérsia dos autos resume-se em definir se: (i) houve negativa de prestação jurisdicional; (ii) o montante do crédito garantido, para fins de não sujeição à recuperação judicial, estaria limitado ao percentual de 35% (trinta e cinco por cento) do valor da cédula de crédito bancário ou se trataria apenas de percentual limite para as amortizações das parcelas devidas.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido da possibilidade de cessão fiduciária de créditos a performar, tendo estabelecido a necessidade de o objeto da garantia ser identificável e a prescindibilidade de registro, para o fim de não sujeição à recuperação judicial.
+4. Na hipótese, a Corte local reconheceu a existência e a regularidade da constituição da garantia fiduciária vinculada à cédula de crédito bancário, assim como a abrangência da referida garantia.
+5. O percentual de 35% (trinta e cinco por cento) do valor da cédula de crédito bancário, no caso, refere-se apenas ao limite para as amortizações das parcelas devidas, em operação relacionada à conta vinculada, contexto típico de contratos envolvendo cessão fiduciária de recebíveis futuros, não se confundindo com o objeto da garantia.
+6. A revisão das matérias referentes à regularidade e à abrangência da garantia fiduciária vinculada à cédula de crédito bancário demanda a análise da interpretação de cláusulas contratuais e do conjunto fático-probatório, atraindo a incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+7. A incidência da Súmula nº 7/STJ obsta a admissão do recurso por qualquer das alíneas do permissivo constitucional. Precedentes.
+8. O mero exercício do direito de ação ou de defesa, sem nenhum elemento capaz de induzir o magistrado ou a parte adversa a erro, afasta a condenação à multa por litigância de má-fé.
+9. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 2.166.938/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 15/10/2024, DJe de 18/10/2024 - sem destaque no original)
+Ademais, revisar as conclusões quanto a extensão da garantia demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+Dessa forma, o recurso não merece que dele ser conheça quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a inte rposição de recurso contra esta decisão, se declarado manifestamente protelatório, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
+É o voto.
