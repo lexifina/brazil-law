@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+Impedido o Sr. Ministro Moura Ribeiro.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Não se verifica omissão no acórdão embargado que analisou as teses alegadas pelo recorrente e pelo amicus curiae e que abrangeu integralmente a matéria submetida a esta Corte.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examinam-se embargos de declaração opostos por PAGAR. ME INSTITUIÇÃO DE PAGAMENTO S.A. contra o acórdão que conheceu do recurso especial que interpusera e, no mérito, negou-lhe provimento, nos termos da seguinte ementa:
+DIREITO CIVIL. RECURSO ESPECIAL. ARRANJO DE PAGAMENTOS. REPARTIÇÃO DE RISCO CONTRATUAL. POSSIBILIDADE. ATRIBUIÇÃO EXCLUSIVA E ABSOLUTA DE RESPONSABILIDADE PELO CHARGEBACK AO LOJISTA. IMPOSSIBILIDADE. VIOLAÇÃO DA BOA-FÉ OBJETIVA. MANUTENÇÃO DO ACÓRDÃO ESTADUAL. RECURSO ESPECIAL DESPROVIDO.
+I. Hipótese em exame
+1. Recurso especial interposto por instituição de pagamento contra acórdão que declarou a abusividade de cláusula contratual que imputava ao lojista a responsabilidade integral e exclusiva pelo chargeback em transações com cartão de crédito.
+2. Recurso especial interposto em 17/11/2023 e concluso ao gabinete em 7/10/2024.
+II. Questão em discussão
+3. O propósito recursal é decidir acerca da abusividade da cláusula contratual que imputa exclusivamente ao lojista a responsabilidade pelo cancelamento de pagamentos realizados com cartão de crédito (chargeback).
+III. Razões de decidir
+4. Nas relações interempresariais, nas quais prevalecem as condições livremente pactuadas e o princípio da pacta sunt servanda, é possível a alocação desigual de riscos entre os contratantes, desde que observados os princípios da boa-fé objetiva e da função social do contrato, bem como as normas específicas do setor econômico respectivo.
+5. Nos contratos relacionados aos arranjos de pagamento, a Terceira Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser "abusiva a cláusula que imputa ao lojista, em toda e qualquer circunstância, a responsabilidade exclusiva por contestações e/ou cancelamento de transações (chargebacks)" (REsp n. 2.180.780/SP, DJe 14/2/2025).
+6. A despeito da abusividade da cláusula genérica, a responsabilização exclusiva do lojista por contestações ou cancelamentos de transações somente é admissível quando demonstrado o descumprimento das obrigações contratuais assumidas, devendo-se examinar se sua conduta contribuiu de forma decisiva para o êxito do ato fraudulento.
+7. No recurso sob julgamento, deve ser mantido o acórdão estadual que (i) reconheceu a abusividade da cláusula genérica de atribuição de responsabilidade, (iii) consignou não estar demonstrada a conduta temerária ou negligente por parte do lojista nas transações discutidas e (iii) como consequência, concluiu pela indevida retenção dos valores pela instituição de pagamento.
+IV. Dispositivo
+8. Recurso especial conhecido e desprovido. (e-STJ fls. 965-972)
+Nas razões do presente recurso, o embargante aduz, em síntese, a existência de omissão no julgado, sob o fundamento de que não foram enfrentados os argumentos suscitados pelo embargante, notadamente: (i) a necessidade de respeito ao que foi livremente pactuado pelas partes; (ii) ao voto proferido pela Relatora no Resp 2151735/SP; (ii) a existência de similaridade com o Resp 2180780/SP; (iv) as consequências da decisão sobre o mercado de meios de pagamentos. Pugna pelo acolhimento dos embargos com efeitos modificativos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PREVIAMENTE ANALISADA. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. Não se verifica omissão no acórdão embargado que analisou as teses alegadas pelo recorrente e pelo amicus curiae e que abrangeu integralmente a matéria submetida a esta Corte.
+3. Embargos de declaração rejeitados.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (art. 1022 do CPC), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+Na presente hipótese, o vício supramencionado não se mostra presente.
+Do acurado exame dos autos, verifica-se que o voto desta Relatora, acompanhando por todos os integrantes da Terceira Turma, enfrentou devidamente as questões que foram submetidas à apreciação deste Superior Tribunal de Justiça.
+Confira-se, por oportuno, o seguinte trecho do decisum :
+"6. Em recentes julgados da Terceira Turma desta Corte, decidiu-se ser "abusiva a cláusula que imputa ao lojista, em toda e qualquer circunstância, a responsabilidade exclusiva por contestações e/ou cancelamento de transações (chargebacks)" (REsp n. 2.180.780/SP, DJe 14/2/2025 e REsp n. 2.151.735/SP, DJe 26/11/2024).
+7. Ressalvou-se, entretanto, que, "na hipótese de fraude, a responsabilização exclusiva do lojista por contestações e/ou cancelamentos de transações somente pode ser admitida se não forem observados os deveres a ele impostos contratualmente, impondo-se ainda observar, à luz do dever de cautela que deve nortear a prática de atos de comércio, se a sua conduta foi ou não decisiva para o sucesso do ato fraudulento" (REsp n. 2.180.780/SP, DJe 14/2/2025).
+8. A conclusão de tais acórdãos decorre dos seguintes fundamentos, ora resumidos: (i) nas relações interempresariais, nas quais prevalecem as condições livremente pactuadas e o princípio da pacta sunt servanda (art. 421 e 421-A do CC), é possível a alocação desigual de riscos entre os contratantes, desde que observados os princípios da boa-fé objetiva e da função social do contrato (art. 422 do CC), bem como as normas específicas do setor econômico; (ii) o cancelamento ou a contestação de uma transação (chargeback) pode decorrer de diversas circunstâncias (p. ex. arrependimento do comprador, desacordo comercial, erro no processamento da operação, fraude, entre outras), sendo que essas causas podem estar relacionadas com as condutas de diferentes agentes - e não apenas do lojista; (iii) a responsabilidade dos agentes da relação jurídica deve ser consequência dos riscos por eles assumidos no desempenho de suas atividades (art. 927 do CC); e (iv) atribuir ao lojista, de forma absoluta e em qualquer hipótese, a responsabilidade exclusiva por contestações ou cancelamentos de transações (chargebacks) equivaleria a transferir-lhe integralmente o risco da atividade, inclusive aquele decorrente de condutas atribuíveis a outros agentes integrantes do arranjo de pagamento, o que viola os princípios supramencionados.
+9. Destarte, nos litígios e nvolvendo credenciadora e lojista em torno da responsabilidade pelos chargebacks, o Juízo deve examinar com atenção as particularidades de cada situação, considerando a repartição de riscos assumida por cada parte na relação jurídica e as funções efetivamente desempenhadas no âmbito do arranjo de pagamento." (e-STJ fl. 969-972) (grifou-se)
+Outrossim, destaca-se que a conclusão adotada por esta Corte de Justiça levou em consideração todas as questões jurídicas relevantes apresentadas pelas partes e pelo amicus curiae, inexistindo qualquer omissão no ponto. Ainda que assim não fosse, é pacífico nesta Corte que o julgador não está obrigado a responder a todos os fundamentos apresentados pela parte quando houver motivo suficiente para proferir a decisão (AgInt no REsp 1920967/SP, Terceira Turma, julgado em 3/5/2021 e AgInt no AREsp 1382885/SP, Quarta Turma, julgado em 26/4/2021).
+Pertinente recordar, também, que a decisão embargada consignou que "em virtude do exame do mérito, por meio do qual foram rejeitadas as teses sustentadas pelo recorrente, fica prejudicada a análise da divergência jurisprudencial" (e-STJ. 972).
+Logo, não estão presentes vícios a serem sanados no acórdão embargado, sendo certo que o mero descontentamento da parte com a decisão não torna cabível o recurso de embargos de declaração, que servem ao aprimoramento do julgado, mas não à sua modificação, apenas excepcionalmente admitida.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fl. 1003).
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração no recurso especial.
