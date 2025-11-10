@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRETENSÃO DE DESTITUIÇÃO DA INVENTARIANÇA. ART. 622 DO CPC/15. TRIBUNAL ESTADUAL CONCLUIU PELA INEXISTÊNCIA DE ELEMENTOS PARA JUSTIFICAR A DESTITUIÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7/STJ. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, assentou que inexistem elementos (CPC/15, art. 622) a ensejar a destituição liminar do ora Agravado do exercício da inventariança.
+2. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial em razão do óbice da Súmula 7/STJ.
+3. É inviável conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto ANNA LUISA MENDES CALDEIRA RATHSAM E PAULO MENDES CALDEIRA RATHSAM contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arr imo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão assim ementado (fls. 415):
+"AGRAVO DE INSTRUMENTO - Inventário. Insurgência contra decisão que, dentre outras deliberações, sublinhou que a competência para avaliar a capacidade ou não do inventariante é do Juízo da curatela, como já consignado em decisório anterior proferido nos autos, não conhecendo, assim, respeitado o limite de jurisdição, do pedido de substituição do inventariante por este fundamento, ressaltando, apenas, que a idade elevada não é, por si só, causa de incapacidade. Requerimento para que seja determinada a pronta remoção do Inventariante, nomeando-se uma das Agravantes para exercer a inventariança nos autos do inventário originário. Pedido que não comporta acolhimento, vez que não verificada, em Juízo não exauriente e de cognição sumária, a presença dos requisitos previstos nos arts. 300, caput e 1.019, inciso I, ambos do CPC ao menos até o presente momento, que possam ensejar a destituição liminar do Agravado do exercício da inventariança. Fatos alegados no presente inconformismo que versam sobre estar o Agravado impossibilitado de praticar quaisquer dos atos da vida civil, em especial aqueles de natureza patrimonial e negocial, os quais não podem ser dirimidos na estrita via do Inventário, inexistindo, ademais, decisão contrária ao Agravado nos autos da ação de interdição ajuizada pelas Agravantes. Decisão mantida. RECURSO NÃO PROVIDO."
+Nas razões do apelo nobre (fls. 426-439), ANNA LUISA MENDES CALDEIRA RATHSAM E PAULO MENDES CALDEIRA RATHSAM alegam, além de divergência jurisprudencial, violação ao art. 622 do CPC/15, afirmando, em síntese, que o "recorrido, ao contrário do entendimento adotado no v. acórdão, está efetivamente impossibilitado de exercer a inventariança, não apenas em razão de sua idade avançada - já conta 99 (noventa e nove) anos -, mas também de outras circunstâncias de extrema relevância que atestam a inidoneidade dele" (fls. 432).
+Aduzem, também, que "diante de sua confusão mental e incapacidade, existem várias obrigações do Recorrido inadimplidas (cf. fls. 309/346), não sendo poucas, ainda, as dívidas que já comprometem os seus ativos, conforme atesta a tabela abaixo, com a indicação de inúmeras execuções fiscais:" (fls. 435 - destaques no original).
+Asseveram, ainda, que "o Sr. Marius não é capaz sequer de administrar os próprios bens -, sendo totalmente descabido, com risco até mesmo de bloqueio, que os valores do Espólio sejam depositados em uma conta corrente bancária dele" (fls. 436 - destaques no original).
+Intimado, MARIUS OSWALD ARANTES RATHSAM apresentou contrarrazões (fls. 458-481), pelo desprovimento do recurso.
+O apelo nobre foi inadmitido (decisão às fls. 482-484), motivando o manejo do agravo em recurso especial (fls. 487-503) em testilha.
+Também foi oferecida contraminuta (fls. 508-521), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRETENSÃO DE DESTITUIÇÃO DA INVENTARIANÇA. ART. 622 DO CPC/15. TRIBUNAL ESTADUAL CONCLUIU PELA INEXISTÊNCIA DE ELEMENTOS PARA JUSTIFICAR A DESTITUIÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA N. 7/STJ. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, assentou que inexistem elementos (CPC/15, art. 622) a ensejar a destituição liminar do ora Agravado do exercício da inventariança.
+2. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial em razão do óbice da Súmula 7/STJ.
+3. É inviável conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O apelo não merece prosperar.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, assentou que "não vislumbro, ao menos até o presente momento, em Juízo não exauriente e de cognição sumária, elementos que possam ensejar a destituição liminar do Agravado do exercício da inventariança, sublinhando que os fatos alegados no presente inconformismo serão mais bem sopesados pelo Juízo monocrático em momento oportuno, em sede de cognição exauriente". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 420-422):
+"Com efeito, em sede de Recurso de agravo de instrumento, o Julgador exerce um juízo de cognição sumária, cabendo analisar nesse momento processual, tão somente o preenchimento dos requisitos dos arts. 300 e 1.019, inciso I, ambos do CPC o qual autorizam o Magistrado, a requerimento da parte, conceder a tutela de urgência pleiteada na petição, quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Sob essa perspectiva, sabe-se que o inventariante é o agente auxiliar do Juízo, designado segundo a ordem estabelecida em lei, cuja principal função é administrar o acervo hereditário e promover o inventário e a partilha.
+Referido sujeito processual possui obrigações processuais, tais como prestar as primeiras e últimas declarações, exibir documentos, apresentar certidões e praticar todos os atos do processo. Fora do processo, deve o inventariante administrar o espólio e prestar contas de sua administração. Tem, inclusive, poder para alienar bens, efetuar despesas, pagar dívidas, promover melhoramentos e conservação dos bens, nos termos do art. 618 do CPC.
+Nomeado o inventariante, o pedido de remoção pode ser feito a qualquer tempo, desde que presentes uma das hipóteses previstas no art. 622 do CPC que, de forma geral, abrangem os atos de negligência ou má gestão dos bens.
+Nesse contexto, ao menos por ora, não se vislumbram referidas circunstâncias, como essa Relatoria já havia asseverado na decisão de e-fls. 295/298.
+Deveras, os fatos narrados pelas Agravantes circunscrevem-se sobre a eventual incapacidade do Agravado para o exercício dos atos da vida civil, sua idade avançada e ainda, a existência de diversas dívidas, o que evidenciaria ausência de condições de o Agravado gerir os próprios bens, pretendendo as Agravantes a destituição da parte agravada do encargo assumido, afirmando terem ajuizado ação nº 1115993-31.2024.8.26.0100, objetivando a interdição daquele.
+Nesse contexto, como bem sublinhado pela r. decisão guerreada, a competência para avaliar a capacidade ou não do inventariante é do juízo da interdição, não podendo as alegações das Agravantes serem resolvidas na estrita via do Inventário, cujo escopo consiste na arrecadação de todos os bens da autora da herança, pagamento de todas as possíveis dívidas e dos tributos devidos, para que então ocorra a partilha do patrimônio líquido, com a individualização das cotas partes hereditárias em sentença.
+Ademais, com acerto o Juízo monocrático, vez que a idade não é, por si, causa de incapacidade, inexistindo, outrossim, qualquer decisão de interdição em desfavor do Agravado nos autos exógenos nº 1115993-31.2024. 8.26.0100, a sedimentar a pretensão liminar das Agravantes.
+Outrossim, os fatos narrados ensejam o exaurimento do contraditório e o desfecho da respectiva dilação probatória naqueles autos, inexistindo, destarte, urgência quanto às sustentadas, tampouco elementos suficientes que demonstrem a necessidade de imediato e eventual desídia do inventariante para apreciação da pretendida medida.
+Deveras, a despeito da matéria sustentada pelas Agravantes não poderem ser dirimidas na estrita via do Inventário de origem, como já pontuado, a Contraminuta apresentada vem acompanhada de relatórios médicos que atestam a boa capacidade física e mental do Agravado, o que apenas reforça a ausência de elementos suficientes à pretensão das Agravantes.
+De fato, não vislumbro, ao menos até o presente momento, em Juízo não exauriente e de cognição sumária, elementos que possam ensejar a destituição liminar do Agravado do exercício da inventariança, sublinhando que os fatos alegados no presente inconformismo serão mais bem sopesados pelo Juízo monocrático em momento oportuno, em sede de cognição exauriente.
+Portanto, mantém-se a r. decisão agravada."
+(g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, atraindo a incidência da Súmula n. 7/STJ.
+Avançando, pela divergência pretoriana, o recurso também não merece acolhida.
+Isso porque a jurisprudência desta eg. Corte firmou-se no sentido de que é inviável conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7/STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. (..) REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência da Súmula n. 7 do STJ quanto à análise da tese recursal pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.965.844/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DANO MORAL. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1815468/PB, Rel. MINISTRA MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021 - g. n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+(..)
+3. " ..  a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.331.289/MS, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Sem majoração dos honorários advocatícios recursais, uma vez que que não foram arbitrados no v. acórdão estadual/recorrido.
+É o voto.
