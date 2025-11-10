@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. RECURSO ESPECIAL. REPARAÇÃO POR DANOS MORAIS. REDISCUSSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Rever os fundamentos do acórdão estadual para afastar a responsabilidade civil por danos causados exigiria adentrar no exame fático-probatório, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do apelo nobre.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por MAGDA LAURITA DA COSTA (MAGDA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, da relatoria do Desembargador FLAVIO ABRAMOVICI assim ementado:
+LOCAÇÃO DANOS MATERIAIS E MORAIS LUCROS CESSANTES RECONVENÇÃO Fatos incontroversos que celebrado o contrato verbal de locação de imóvel por temporada e que no segundo dia da locação ocorreu incêndio na suíte do imóvel Presumida a culpa dos locatários (Requeridos- Reconvintes) pela ocorrência de incêndio no imóvel locado Demonstrado que os Requeridos-Reconvintes tinham ciência de que a tensão elétrica do imóvel locado era de 220v, mas ligaram aparelho portátil de ar condicionado de tensão 110v Não demonstrado que a funcionária da Autora-Reconvinda indicou o uso de transformador para a ligação de aparelhos de voltagem diversa daquela do imóvel Laudo do Corpo de Bombeiros consigna como causa provável do incêndio "equipamento eletrodoméstico", e houve o derretimento do aparelho de ar condicionado Culpa dos Requeridos-Reconvintes pelo incêndio Não comprovados os lucros cessantes Demonstrados os danos materiais Dano moral caracterizado SENTENÇA DE PARCIAL PROCEDÊNCIA DA AÇÃO PRINCIPAL, para condenar os Requeridos- Reconvintes à restituição do valor de R$ 42.904,74 e ao pagamento de indenização por danos morais no valor de R$ 5.000,00, E DE IMPROCEDÊNCIA DA RECONVENÇÃO Ausente a presunção de culpa dos locatários (Requeridos-Reconvintes) pela ocorrência do incêndio Por outro lado, demonstrada a culpa dos Requeridos-Reconvintes pelo incêndio Necessária a apuração do valor dos danos materiais na fase de liquidação de julgado Ausente o dano moral RECURSO DOS REQUERIDOS-RECONVINTES PARCIALMENTE PROVIDO, para afastar a condenação ao pagamento de indenização por danos morais e para determinar a apuração do valor dos danos materiais na fase de liquidação de julgado, mantida a improcedência da reconvenção.
+No agravo em recurso especial, MAGDA defendeu a admissão de seu recurso, vez que não se presta para reanálise de fatos.
+Foi apresentada contraminuta ao agravo às, e-STJ, fls. 358-365.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. RECURSO ESPECIAL. REPARAÇÃO POR DANOS MORAIS. REDISCUSSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Rever os fundamentos do acórdão estadual para afastar a responsabilidade civil por danos causados exigiria adentrar no exame fático-probatório, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do apelo nobre.
+VOTO
+O agravo interposto por MAGDA é espécie recursal cabível, foi interposto tempestivamente e com fundamentação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+MAGDA afirmou a violação dos arts. 186 e 927 do CC e contrariedade com julgados de outros Tribunais, sustentando que a conduta de MARIA TERESA MARTINEZ IGLESIA DIAS e ROGERIO DIAS (MARIA e ROGERIO) causou a si danos morais, como reconhecido na sentença de primeiro grau.
+No que concerne ao afastamento da condenação por danos morais, o TJSP, ai nda que de forma sucinta, consignou expressamente:
+Por outro lado, o incêndio do imóvel locado não é situação apta a configurar, por si, o dano moral, o que torna correto o não acolhimento daquele pedido.
+Assim, rever a conclusão quanto à incidência de abalo moral demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO DANO MORAL. REVISÃO . IMPOSSIBILIDADE. SÚMULA 7/STJ. DANO MORAL À PESSOA JURÍDICA NÃO PRESUMÍVEL. NECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO OU ABALO À IMAGEM COMERCIAL . PRECEDENTES. 1. No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou que não ficou demonstrado nos autos nenhum dano que macule a imagem da parte autora. 2 . A revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ. 3. A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que o dano moral à pessoa jurídica não é presumível, motivo pelo qual deve estar demonstrado nos autos o prejuízo ou abalo à imagem comercial . Precedentes: REsp 1.370.126/PR, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 14/4/2015, DJe 23/4/2015; AgRg no AREsp 294 .355/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/8/2013, DJe 26/8/2013; REsp 1.326.822/AM, Rel . Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2012, DJe 24/10/2016. 4. Agravo interno não provido.
+( AgInt no REsp 1.850.992/RJ, Relator Ministro BENEDITO GONÇALVES, Julgamento: 25/5/2020, PRIMEIRA TURMA, DJe 27/5/2020 - sem destaques no original)
+Assim, o recurso de MAGDA não merece conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do apelo nobre.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MARIA e ROGERIO, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+É o voto.
