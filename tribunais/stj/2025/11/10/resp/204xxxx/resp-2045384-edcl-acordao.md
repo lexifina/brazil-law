@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  RECURSO  PROTELATÓRIO.  ART.  1.026,  §  2º,  DO  CPC.  HIPÓTESES.  NÃO  CONFIGURAÇÃO.  MULTA.  INAPLICABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  dos  embargos  de  declaração.
+3.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  FRANCISCO NUNES DOURADO NETO  ao  acórdão  da Terceira Turma  que  conheceu parcialmente do seu recurso especial e, nessa extensão, deu-lhe provimento, nos  termos  da  seguinte  ementa:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. TEMPESTIVIDADE. INTIMAÇÕES. DUPLICIDADE. PORTAL ELETRÔNICO E DJE. NÃO OCORRÊNCIA. INFORMAÇÃO EQUIVOCADA. JUSTA CAUSA. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. EMBARGOS PROTELATÓRIOS. MULTA. AFASTAMENTO.
+1. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284/STF.
+2. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se o afastamento da multa prevista no § 2º do art. 1.026 do Código de Processo Civil. Incidência da Súmula nº 98/STJ.
+3. Recurso especial parcialmente conhecido e, nessa extensão, provido."  (e-STJ  fl.  1.164).
+Em  suas  alegações,  o  embargante  sustenta  haver  omissão  no  acórdão,  sustentando que, ao contrário do que foi consignado no aludido julgado , o fundamento do acórdão recorrido para afastar a tempestividade do seu recurso foi a não prevalência da data final sugerida pelo sistema eletrônico quando em divergência com data final do prazo pela contagem do DJe, e não a circunstância de a certidão ter limitado a informar sobre a data de disponibilização da sentença.
+Requer o saneamento do vício indicado e o acolhimento dos embargos declaratórios com efeitos infringentes.
+A  impugnação  foi apresentada  às e-STJ  fls.  1.180/1.183, na qual a parte embargada requer a imposição de multa pelo caráter protelatório dos embargos.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  RECURSO  PROTELATÓRIO.  ART.  1.026,  §  2º,  DO  CPC.  HIPÓTESES.  NÃO  CONFIGURAÇÃO.  MULTA.  INAPLICABILIDADE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A  aplicação  da  multa  prevista  no  art.  1.026,  §  2º,  do  CPC  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  dos  embargos  de  declaração.
+3.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Verifica-se,  desde  logo,  que  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  embargos  de  declaração  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+A  controvérsia  foi  devidamente  solucionada  com  expressa  e  adequada  fundamentação  a  respeito  da inviabilidade de conhecimento do recurso especial quanto à apontada ofensa ao art. 223 do Código de Processo Civil, porquanto as razões recursais - deduzidas no sentido de que a circunstância de o portal eletrônico do PJe informar que o termo final do prazo ocorreria no dia 11/2/2022 deve ser considerada justa causa para a interposição da apelação na referida data - estão dissociadas da fundamentação do acórdão recorrido, que afastou essa alegação do recorrente aduzindo, no ponto, que "não há como acolher a tese de que o suposto erro cometido pela serventia judicial levou a parte ao equívoco, inferindo-se que a certidão de ID 24146515 limitou-se a informar a disponibilização do ato judicial (sentença) no DJe de 18/12/2020 e que esse "será publicado no primeiro dia útil subsequente"" (e-STJ, fl. 1.049, grifou-se). .
+Registre-se, ademais, que, ao contrário do alegado pelo embargante, a assertiva de que "havendo divergência entre a data final do prazo pela contagem do DJe e a data final sugerida pelo sistema, esta não deveria prevalecer" (e-STJ, fl. 1.174) não consistiu em fundamento do acórdão recorrido para o afastamento da justa causa para a intempestividade (e-STJ, fl. 1.049).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+No  mais,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  possui  entendimento  pacífico  no  sentido  de  ser  cabível  a  multa  prevista  no  art.  1.026,  §  2º,  do  Código  de  Processo  Civil  quando  presente  o  intuito  manifestamente  procrastinatório  na  oposição  de  declaratórios.
+Contudo,  o  não  conhecimento  ou  a  improcedência  dos  embargos  de  declaração  não  são  suficientes  para  a  condenação  automática  à  referida  penalidade,  devendo  ser  analisado  caso  a  caso  a  ocorrência  de  efetiva  intenção  protelatória,  o  que,  na  hipótese  em  exame,  não  se  deu  até  o  presente  momento.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  CONHECEU  DO  AGRAVO  PARA  NEGAR  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DA  AGRAVANTE
+1.  A  Corte  de  origem  dirimiu  a  matéria  submetida  à  sua  apreciação,  manifestando-se  expressamente  acerca  dos  temas  necessários  à  integral  solução  da  lide,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade  no  aresto  recorrido,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/15.
+2.  A  revisão  do  aresto  impugnado  no  sentido  pretendido  pela  parte  recorrente  exigiria  derruir  a  convicção  formada  nas  instâncias  ordinárias  sobre  a  correção  dos  cálculos  apresentados  pelo  perito.  Incidência  da  Súmula  7/STJ.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  em  afastar  a  aplicação  da  penalidade  de  multa  quando  manejado  o  recurso  previsto  em  lei,  sendo  a  conduta  de  per  si  insuficiente  para  demonstrar  o  intento  protelatório,  sobretudo  quando  não  há  reiteração  da  oposição  dos  aclaratórios.  Provimento  do  agravo  interno  no  presente  ponto.
+4.  Agravo  interno  parcialmente  provido,  tão  somente  para  afastar  a  multa  aplicada  à  agravante  com  base  no  art.  1.026,  §  2º,  do  CPC/2015."
+(AgInt  no  AREsp  2.221.249/RJ,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  DJe  2/5/2024).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração,  com  a  advertência  de  que,  havendo  reiteração  de  embargos,  com  intuito  protelatório,  a  multa  prevista  no  art.  1.026  do  Código  de  Processo  Civil  será  aplicada.
+É  o  voto.
