@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO RECURSAL. DANO MORAL À PESSOA JURÍDICA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao recurso especial, mantendo a condenação por danos morais em razão de má prestação de serviço por empresa de equipamentos de elevação, que causou abalo à imagem e credibilidade da contratante perante clientes e fornecedores.
+2. A parte agravante alegou negativa de prestação jurisdicional pelo Tribunal de origem, afirmando ausência de enfrentamento de pontos centrais sobre o dano moral presumido de pessoa jurídica e a inaplicabilidade da Súmula n. 7 do STJ. Sustentou que a controvérsia seria exclusivamente de direito e indicou precedentes sobre revisão de astreintes.
+3. A decisão agravada concluiu pela incidência das Súmulas n. 283 e 284 do STF, em razão da ausência de impugnação específica dos fundamentos do acórdão recorrido, e pela aplicação da Súmula n. 7 do STJ, considerando que a análise da configuração do dano moral demandaria reexame de fatos e provas.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o agravo interno pode ser provido diante da alegação de negativa de prestação jurisdicional, da necessidade de revisão das astreintes e da inaplicabilidade da Súmula n. 7 do STJ, considerando os fundamentos da decisão agravada e do acórdão recorrido.
+III. RAZÕES DE DECIDIR
+5. Os argumentos apresentados pela parte agravante no agravo interno configuram inovação recursal, sendo inadmissíveis em virtude da preclusão consumativa, conforme jurisprudência do STJ.
+6. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a aplicação do art. 1.021, § 1º, do CPC/2015 e da Súmula n. 182 do STJ, que vedam o conhecimento de recurso que não ataca os fundamentos da decisão recorrida.
+7. A configuração do dano moral à pessoa jurídica foi reconhecida pelo Tribunal de origem com base no acervo fático-probatório, sendo inviável o reexame de provas em recurso especial, conforme Súmula n. 7 do STJ.
+8. A jurisprudência do STJ admite a reparação por danos morais à pessoa jurídica quando demonstrado prejuízo à sua imagem, o que foi devidamente constatado no caso concreto.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. É inadmissível a inovação recursal em agravo interno, em virtude da preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a aplicação do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ. 3. O dano moral à pessoa jurídica não é presumível, devendo estar demonstrado nos autos o prejuízo ou abalo à sua imagem comercial. 4. A análise da configuração do dano moral à pessoa jurídica, quando baseada em fatos e provas, atrai a incidência da Súmula 7 do STJ."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º; CC/2002, arts. 186 e 927; STJ, Súmulas 7, 182; STF, Súmulas n. 283 e 284.
+Jurisprudência relevante citada: STJ, AgInt n. nos EDcl no REsp n. 1.983.737/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022; STJ, AgInt n. no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/9/2022; STJ, AgInt no AREsp n. 2.219.357/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023.
+RELATÓRIO
+Trata-se de agravo interno interposto por VILLARTA EQUIPAMENTOS DE ELEVACAO LTDA. contra a decisão de fls. 573-579, que negou provimento.
+A parte agravante alega negativa de prestação jurisdicional pelo Tribunal de origem, afirmando que não houve enfrentamento dos pontos centrais sobre o suposto dano moral presumido de pessoa jurídica em hipóteses de inadimplemento contratual, mesmo após a oposição de embargos de declaração.
+Sustenta que o julgamento não demandaria reexame de fatos ou provas, defendendo a inaplicabilidade da Súmula n. 7 do STJ.
+A parte agravante aduz que a controvérsia é exclusivamente de direito, afirma a necessidade de revisão das astreintes e indica violação do art. 412 da Lei n. 10.406/2002, além de invocar precedentes sobre a possibilidade de alteração do valor ou da periodicidade da multa cominatória prevista no art. 537 da Lei n. 13.105/2015, citando julgados da Quarta Turma (AgInt no AREsp n. 2572752/MG e AgInt no AREsp n. 2370346/SP).
+A parte ainda sustenta, em complemento, que os fundamentos da decisão agravada repetem os do acórdão estadual quanto à aplicação do art. 2º da Lei n. 8.078/1990 e dos arts. 186 e 927 da Lei n. 10.406/2002, sem enfrentar as teses desenvolvidas no recurso especial.
+Requer o provimento, com submissão ao colegiado, para reformar a decisão agravada e julgar procedente o recurso especial nos termos das razões já apresentadas.
+As contrarrazões não foram apresentadas, conforme a certidão de fl. 591.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO RECURSAL. DANO MORAL À PESSOA JURÍDICA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou provimento ao recurso especial, mantendo a condenação por danos morais em razão de má prestação de serviço por empresa de equipamentos de elevação, que causou abalo à imagem e credibilidade da contratante perante clientes e fornecedores.
+2. A parte agravante alegou negativa de prestação jurisdicional pelo Tribunal de origem, afirmando ausência de enfrentamento de pontos centrais sobre o dano moral presumido de pessoa jurídica e a inaplicabilidade da Súmula n. 7 do STJ. Sustentou que a controvérsia seria exclusivamente de direito e indicou precedentes sobre revisão de astreintes.
+3. A decisão agravada concluiu pela incidência das Súmulas n. 283 e 284 do STF, em razão da ausência de impugnação específica dos fundamentos do acórdão recorrido, e pela aplicação da Súmula n. 7 do STJ, considerando que a análise da configuração do dano moral demandaria reexame de fatos e provas.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se o agravo interno pode ser provido diante da alegação de negativa de prestação jurisdicional, da necessidade de revisão das astreintes e da inaplicabilidade da Súmula n. 7 do STJ, considerando os fundamentos da decisão agravada e do acórdão recorrido.
+III. RAZÕES DE DECIDIR
+5. Os argumentos apresentados pela parte agravante no agravo interno configuram inovação recursal, sendo inadmissíveis em virtude da preclusão consumativa, conforme jurisprudência do STJ.
+6. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a aplicação do art. 1.021, § 1º, do CPC/2015 e da Súmula n. 182 do STJ, que vedam o conhecimento de recurso que não ataca os fundamentos da decisão recorrida.
+7. A configuração do dano moral à pessoa jurídica foi reconhecida pelo Tribunal de origem com base no acervo fático-probatório, sendo inviável o reexame de provas em recurso especial, conforme Súmula n. 7 do STJ.
+8. A jurisprudência do STJ admite a reparação por danos morais à pessoa jurídica quando demonstrado prejuízo à sua imagem, o que foi devidamente constatado no caso concreto.
+IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. É inadmissível a inovação recursal em agravo interno, em virtude da preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a aplicação do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ. 3. O dano moral à pessoa jurídica não é presumível, devendo estar demonstrado nos autos o prejuízo ou abalo à sua imagem comercial. 4. A análise da configuração do dano moral à pessoa jurídica, quando baseada em fatos e provas, atrai a incidência da Súmula 7 do STJ."
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º; CC/2002, arts. 186 e 927; STJ, Súmulas 7, 182; STF, Súmulas n. 283 e 284.
+Jurisprudência relevante citada: STJ, AgInt n. nos EDcl no REsp n. 1.983.737/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022; STJ, AgInt n. no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/9/2022; STJ, AgInt no AREsp n. 2.219.357/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023.
+VOTO
+O recurso não merece prosperar, devendo a decisão agravada ser mantida pelos seus próprios fundamentos.
+Inicialmente, registre-se que em momento algum a tese a respeito negativa de prestação jurisdicional do acórdão do TJRJ, mesmo após a oposição de embargos de declaração e sobre a possibilidade de redução das astreintes foram objeto de discussão, argumento que, só agora, a parte agravante apresenta, o que não é admitido em agravo interno, por caracterizar inadmissível inovação.
+Consoante entendimento firmado pelo STJ, "os argumentos apresentados em momento posterior à interposição do recurso especial ou das respectivas contrarrazões não são passíveis de conhecimento por importar em inovação recursal, a qual é considerada indevida em virtude da preclusão consumativa" (AgInt nos EDcl no REsp n. 1.983.737/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2022, DJe de 4/11/2022).
+No mais, tampouco há como acolher a tese de que os fundamentos da decisão agravada apenas repetem os do acórdão estadual quanto à aplicação do art. 2º da Lei n. 8.078/1990 e dos arts. 186 e 927 da Lei n. 10.406/2002, sem enfrentar as teses desenvolvidas no recurso especial.
+Com efeito, conforme a jurisprudência pacífica desta Corte, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 16/9/2022).
+Consta da decisão de fls. 573-573 que a ora agravante deixou de refutar, adequadamente, o fundamento do acórdão recorrido no sentido de que o ordenamento civil (arts. 186 e 927 do CC) imputa responsabilidade àqueles que descumprem contrato de prestação de serviço existente entre as partes. Em razão disso, foi aplicado o teor das Súmulas n. 283 e 284 do STF.
+Entretanto, a agravante, nas razões do agravo interno, restringiu-se a registrar que a decisão ora agravada repete os argumentos do acórdão estadual, sem contestar, de forma específica a aplicação dos enunciados de Súmula n. 283 e 284 do STF.
+Registre-se que, na ausência de impugnação do fundamento da decisão recorrida, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC, que reforça o entendimento já consolidado na Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INOVAÇÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. É impossível a análise de teses alegadas apenas nas razões do agravo interno por se tratar de evidente inovação recursal.
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+3. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+4. Agravo interno não conhecido. (AgInt no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/9/2022, DJe de 12/9/2022, destaquei.)
+No que se refere à violação dos arts. 186 e 927, caput, do Código Civil, não há como afastar a incidência da Súmula n. 7 do STJ.
+Isso porque, o Tribunal de origem, amparado no acervo fático-probatório dos autos, concluiu pela configuração de dano moral à recorrida (Construtora), diante do abalo do seu nome e da sua credibilidade perante clientes e fornecedores pela má prestação do serviço da ora recorrente (empresa de equipamentos de elevação), o que ultrapassou o aborrecimento normal vinculado a descumprimento contratual.
+Na ocasião, assim se manifestou o Tribunal a quo (fls. 503-504):
+A honra tem um aspecto objetivo que se traduz na reputação e imagem social da pessoa física ou jurídica.
+É inegável que uma pessoa jurídica sofre lesão em bem jurídico não material, como seu bom nome, sua imagem e conceito diante da opinião pública ou do seu setor de atividades, sem que isso repercuta diretamente em seu patrimônio.
+E a lesão à honra objetiva configura-se com o ato ofensivo que abale a confiança ou o crédito da sociedade.
+Nesse aspecto, impõe-se reconhecer o dano moral causado à apelada perante seu contratante. Isso porque o elevador foi adquirido para prestação de serviço junto à EMOP.
+ ..
+O laudo pericial informou que (fls. 191):
+L) Em 21 de julho de 2014 a EMOP envia correspondência à Autora de nº 01212014, informando que até o presente o elevador permanece sem condições de uso, cobrando da Autora a solução do problema e que se protelado por prazo superior a 07(sete) dias corridos ensejará a imediata aplicação, pela EMOP, das penalidades contratuais e demais providências administrativas cabíveis.
+este Perito tem a informar que, no período em que o elevador objeto desta Lide, foi reparado pela empresa Ré, este não funcionou a contento. O esperado funcionamento do equipamento somente aconteceu após a intervenção da empresa SISE Elevador.
+Não se pode negar que a reiteração do mal funcionamento do elevador, causado pela má prestação do serviço da apelante, maculou à imagem da apelada perante seu contratante.
+Veja-se que esta Corte já decidiu pela possibilidade de configuração de reparação por danos morais também à pessoa jurídica, quando evidenciado prejuízo a sua imagem (AgInt no AR Esp n. 2.219.357/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Nessa mesma linha, o Superior Tribunal de Justiça já decidiu que o dano moral à pessoa jurídica não é presumível, motivo pelo qual deve estar demonstrado nos autos o prejuízo ou abalo à imagem comercial.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO DE LOCAÇÃO E SUBLOCAÇÃO DE IMÓVEL PARA POSTO DE COMBUSTÍVEIS C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIVERSIDADE DE AVENÇAS ENTRE AS PARTES. AÇÕES DE DESPEJO E CAUTELAR DE ATENTADO AJUIZADAS PELA FORNECEDORA. NEGÓCIO JURÍDICO ATÍPICO NÃO REGULADO PELA LEI DE LOCAÇÕES. PARCIAL PROCEDÊNCIA DA AÇÃO INDENIZATÓRIA. REEXAME. SÚMULAS 5 E 7/STJ. DANO MORAL À PESSOA JURÍDICA QUE NÃO SE PRESUME. ACÓRDÃO RECORRIDO QUE NÃO DESCREVE OFENSA À HONRA OBJETIVA. DANO MORAL INEXISTENTE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+Incidência das Súmulas 282 e 356 do STF.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. O acórdão recorrido, ao analisar as nuances fáticas dos contratos celebrados pelas partes e a natureza do negócio destinado à operação de posto de combustíveis, concluiu que o denominado contrato de sublocação, originado da contratação complexa firmada entre a distribuidora e a proprietária do imóvel, que viria a explorar um posto de combustíveis construído no próprio terreno, é um contrato complexo, composto por uma pluralidade de contratos relacionados. Ficou evidenciado, portanto, que não se trata de simples contrato de locação, mas também de distribuição e outros negócios jurídicos correlatos, existindo deveres impostos a ambas as partes, de modo que a locação é indissociável dos contratos de fornecimento de produtos e comodato de equipamentos, tornando inadequado o singelo pedido de despejo.
+4. A modificação do entendimento lançado no acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, assim como a interpretação de cláusulas contratuais diversas, o que é inviável em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+5. O dano moral à pessoa jurídica não é presumível, motivo pelo qual deve estar demonstrado nos autos o prejuízo ou abalo à imagem comercial, o que não ocorreu na hipótese. Assim, os danos ocorridos se restringem ao plano patrimonial, não passando de mera desavença em torno do cumprimento de complexa relação contratual.
+6. Agravo interno parcialmente provido, para dar parcial provimento ao recurso especial, a fim de excluir a indenização por danos morais. (AgInt no REsp n. 1.474.488/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/9/2024, DJe de 22/10/2024.)
+Nesse contexto, para rever as conclusões do Tribunal de origem no sentido de que o reiterado mal funcionamento do elevador implicou no abalo a credibilidade da pessoa jurídica, demandaria o necessário reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, conheço em parte do agravo interno para negar-lhe provimento.
+É o voto.
