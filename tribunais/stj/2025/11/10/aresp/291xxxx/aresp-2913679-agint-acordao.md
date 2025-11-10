@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. NÃO CONHECIMENTO DO RECURSO. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu de recurso especial, em razão de irregularidade na representação processual.
+2. A decisão agravada aplicou a Súmula n. 115 do STJ, considerando que a parte recorrente não juntou procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, mesmo após intimação para regularização.
+3. A procuração apresentada foi outorgada em data posterior à interposição dos recursos, o que não supre o vício de representação processual.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a ausência de regularização da representação processual, mesmo após intimação, impede o conhecimento do recurso especial e do agravo em recurso especial.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça entende que, na hipótese de recurso interposto sem procuração nos autos, a parte recorrente deve regularizar a representação processual no prazo assinalado, sob pena de não conhecimento do recurso, conforme o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015.
+6. A jurisprudência do STJ é firme no sentido de que a regularização da representação processual exige que a outorga de poderes seja anterior à interposição do recurso, não bastando a simples juntada de procuração ou substabelecimento posterior.
+7. No caso, a parte agravante não supriu o vício de representação processual no prazo concedido, incidindo a Súmula n. 115 do STJ, que impede o conhecimento do recurso interposto por advogado sem procuração nos autos.
+IV. Dispositivo
+8 . Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Presidente do Superior Tribunal de Justiça, que não conheceu do recurso.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. NÃO CONHECIMENTO DO RECURSO. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do Presidente do Superior Tribunal de Justiça que não conheceu de recurso especial, em razão de irregularidade na representação processual.
+2. A decisão agravada aplicou a Súmula n. 115 do STJ, considerando que a parte recorrente não juntou procuração ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo em recurso especial, mesmo após intimação para regularização.
+3. A procuração apresentada foi outorgada em data posterior à interposição dos recursos, o que não supre o vício de representação processual.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a ausência de regularização da representação processual, mesmo após intimação, impede o conhecimento do recurso especial e do agravo em recurso especial.
+III. Razões de decidir
+5. O Superior Tribunal de Justiça entende que, na hipótese de recurso interposto sem procuração nos autos, a parte recorrente deve regularizar a representação processual no prazo assinalado, sob pena de não conhecimento do recurso, conforme o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015.
+6. A jurisprudência do STJ é firme no sentido de que a regularização da representação processual exige que a outorga de poderes seja anterior à interposição do recurso, não bastando a simples juntada de procuração ou substabelecimento posterior.
+7. No caso, a parte agravante não supriu o vício de representação processual no prazo concedido, incidindo a Súmula n. 115 do STJ, que impede o conhecimento do recurso interposto por advogado sem procuração nos autos.
+IV. Dispositivo
+8 . Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 219-220):
+Por meio da análise do recurso de LEILA CORREA NOGUEIRA, verifica-se que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do Agravo e do Recurso Especial, Dr. JADER EVARISTO TONELLI PEIXER.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, porquanto os poderes consignados no instrumento de mandato de fl. 215, foram outorgados ao subscritor dos recursos em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19.2.2020, e AgRg no AREsp n. 1.825.314/RS, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 6.8.2021).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se.
+Intimem-se.
+Verifica-se que a decisão agravada aplicou ao caso a Súmula n. 115, pois não fora juntada aos autos procuração e/ou cadeia completa de substabelecimento de poderes ao subscritor do recurso especial e do agravo em recurso especial - o advogado Dr. JADER EVARISTO TONELLI PEIXER.
+Em 5/5/2025, determinou-se a intimação da parte para proceder à juntada de procuração e/ou substabelecimento (fl. 210).
+A recorrente, embora regularmente intimada para sanar referidos vícios, juntou procuração no qual os poderes consignados no instrumento de mandato de fl. 215 (e-STJ) foram outorgados ao subscritor dos recursos em data posterior à sua interposição.
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+É firme o entendimento do STJ de que, na hipótese de recurso especial interposto sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015. Incide na espécie, portanto, a Súmula n. 115 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO DESPROVIDO. 1. Interposto recurso por advogado sem procuração dos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC /2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça. 2. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC/2015, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, porquanto a aplicação do referido dispositivo é específica da classe processual "agravo de instrumento". 3. Não há falar em aplicação do princípio da primazia da resolução do mérito, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, sobretudo quando se tratar de defeito grave e insanável. Precedente. 4. Inaplicabilidade da abertura de novo prazo para sanar o vício, porquanto a agravante foi efetivamente intimada para regularizar sua representação processual e já apresentou resposta. 5. Agravo interno desprovido. (AgInt no AREsp n. 2.113.125/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. FALTA DE REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. SÚMULA N. 115 DO STJ. DECISÃO MANTIDA. 1. Não se conhece de recurso interposto por advogado sem procuração nos autos encaminhados ao STJ. A parte, devidamente intimada, não cumpriu a determinação de regularizar a representação processual no prazo assinalado. Observância do disposto nos arts. 76, § 2º, inc. I, e 932, inc. III, e parágrafo único, do CPC. Incidência da Súmula n. 115 do STJ. 2. É ônus da parte aferir e fiscalizar a correta instrução do recurso interposto, sendo insuficiente a alegação de extravio de documento, desacompanhada de certidão comprobatória do Tribunal responsável por seu processamento. 3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.024.016 /RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+Mantenho a decisão agravada quanto aos honorários.
+É o voto.
