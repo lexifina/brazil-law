@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 283/STF. DISPOSITIVO INDICADO COMO VIOLADO. PREQUESTIONAMENTO. AUSÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É condição para o conhecimento do recurso especial a impugnação, nas razões recursais, de todos os fundamentos autônomos e suficientes à manutenção do acórdão recorrido. Incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF).
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALBUQUERQUE PINTO ADVOGADOS da decisão de fls. 313/315, em que não conheci do recurso especial pela incidência da Súmula 283 do Supremo Tribunal Federal (STF).
+A parte agravante sustenta, em resumo, que opôs embargos de declaração contra a decisão que não conheceu do seu recurso especial, visando demonstrar que houve omissão quanto ao enfrentamento do argumento de violação do art. 85, § 4º, inciso II, do Código de Processo Civil (CPC).
+Sustenta a existência de erro material na aplicação da Súmula 283 do STF, porque o recurso especial combateu o fundamento de impossibilidade de aferição do proveito econômico por meio da tese de incidência dos honorários sobre o montante apurado em liquidação, em sentenças ilíquidas.
+Não foi apresentada impugnação pela parte agravada (fl. 355).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA 283/STF. DISPOSITIVO INDICADO COMO VIOLADO. PREQUESTIONAMENTO. AUSÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É condição para o conhecimento do recurso especial a impugnação, nas razões recursais, de todos os fundamentos autônomos e suficientes à manutenção do acórdão recorrido. Incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF).
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante o esforço argumentativo da parte agravante, a decisão agravada deve ser mantida.
+O recurso especial tem origem em acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 86):
+TRIBUTÁRIO. ICMS. EXCLUSÃO DA BASE SE CÁLCULO DO PIS/COFINS. RE 574.706. REPERCUSSÃO GERAL. AÇÃO AJUIZADA ANTES DE 15.03.2017. INAPLICABILIDADE DA MODULAÇÃO. HONORÁRIOS. VALOR DA CAUSA. POSSIBILIDADE. APELAÇÕES IMPROVIDAS.
+1. Apelações interpostas por ALBUQUERQUE PINTO ADVOGADOS e pela FAZENDA NACIONAL contra sentença que, em ação ordinária, autorizou o contribuinte a proceder com os recolhimentos das contribuições do PIS e da COFINS sem incluir o ICMS destacado na nota fiscal na base de cálculo, bem como assegurar o direito à compensação dos valores indevidamente recolhidos, atualizados pela Taxa SELIC, observando-se as regras pertinentes à decadência e prescrição quinquenal. Honorários advocatícios fixados em 10% sobre o valor da causa.
+2. Quando do julgamento originário por esta Turma, inexistia qualquer direcionamento no sentido de que o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS. Ocorre que, quando do julgamento do RE 574.706, e posterior balizamento dos efeitos do paradigma vinculante, restaram definidos/esclarecidos os seguintes pontos: (i) O ICMS não deve compor a base de cálculo do PIS/COFINS; (ii) O ICMS a ser excluído das referidas contribuições é aquele destacado no documento fiscal; (iii) A decisão terá efeitos válidos a partir do julgamento do citado RE, que ocorreu em 15/03/2017.
+3. Quanto ao item III, supra, há ressalva expressa quanto as ações judiciais e administrativas protocolizadas até a data da sessão na qual proferido o julgamento (15.3.2017). In casu, considerando que a ação foi protocolada em 08/03/2017, devem ser afastados os efeitos prospectivos do referido precedente.
+4. Considerando que, no caso concreto, a superação do entendimento se deu de maneira retroativa, a interpretação que melhor se coaduna com o referido precedente é no sentido de se assegurar à empresa o recolhimento do PIS e da COFINS com a exclusão de sua base de cálculo do ICMS destacado na nota fiscal, declarando o direito de compensação que deve observar o quinquênio anterior ao ajuizamento da ação, a ser efetivada no âmbito da Administração Tributária.
+5. O parágrafo 2º do artigo 85 do CPC/15 dispõe que os honorários deverão ser fixados no percentual entre 10% e 20% da condenação, do proveito econômico ou, na impossibilidade de estimar-se o quantum debeatur, sobre o valor atualizado da causa.
+6. Considerando que o proveito econômico somente será efetivamente auferido quando da submissão do acerto de contas na esfera administrativa, mostra-se correta a sentença ao estabelecer o valor da causa como base de cálculo da verba honorária. Ademais, considerados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, mostra-se adequado a estipulação em seu patamar mínimo.
+7. Apelações improvidas.
+O Tribunal a quo fixou a verba honorária sobre o valor da causa ao fundamento de que não seria possível aferir o proveito econômico da demanda, cuja apuração depende do acerto de contas na esfera administrativa. É o que se observa do trecho extraído do acórdão recorrido (fl. 85):
+Por fim, o parágrafo 2º do artigo 85 do CPC/15 dispõe que os honorários deverão ser fixados no percentual entre 10% e 20% da condenação, do proveito econômico ou, na impossibilidade de estimar-se o quantum debeatur, sobre o valor atualizado da causa.
+Considerando que o proveito econômico somente será efetivamente auferido quando da submissão do aceito de contas na esfera administrativa, mostra-se correta a sentença ao estabelecer o valor da causa como base de cálculo da verba honorária.
+Ademais, considerados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, mostra-se adequado a estipulação em seu patamar mínimo.
+Como consignado na decisão agravada, a petição do recurso especial não se insurge contra aquele fundamento, limitando-se a afirmar que, não sendo líquida a sentença, os honorários sucumbenciais devem ser fixados sobre o valor da condenação, e o seu percentual será definido no momento da liquidação de sentença.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Além disso, do trecho colacionado acima, fica evidente que o acórdão não decidiu a causa por meio da aplicação do inciso II do § 4º do art. 85 do CPC, indicado como violado. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+Para esta Corte Superior, a aplicação do prequestionamento ficto previsto no art. 1.025 do Código de Processo Civil (CPC) exige, concomitantemente, a oposição dos embargos de declaração na Corte de origem; a indicação, no recurso especial, da ofensa ao art. 1.022 do CPC, especificamente quanto à questão que se pretende ver analisada; e o reconhecimento do vício (da omissão, da contradição, do erro de fato ou da obscuridade) por este Tribunal Superior.
+Esse não é o caso dos autos, pois não foi alegada a violação do art. 1.022 do CPC nas razões recursais.
+A Primeira Turma deste Tribunal já decidiu o seguinte:
+"Nos termos da orientação consolidada neste Superior Tribunal, para a configuração do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, impõe-se que se alegue, nas razões do recurso especial, violação ao art. 1.022, II, do mesmo estatuto processual, apontando-se, de forma clara, objetiva e devidamente fundamentada, a omissão acerca da matéria impugnada, o que não ocorreu" (AgInt no REsp n. 2.054.046/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ainda no mesmo sentido, cito estes outros julgados da Primeira Turma:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESMORONAMENTO DE IMÓVEL VIZINHO. RISCO DE DESABAMENTO. ART. 70 DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Assim, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. Este Superior Tribunal firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VÍCIO DE INTEGRAÇÃO. INDICAÇÃO PORMENORIZADA. AUSÊNCIA. PREQUESTIONAMENTO FICTO. INOCORRÊNCIA. FATO NOVO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+3. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.074.550/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
