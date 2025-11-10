@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por EVANGELISTA FERNANDES RIBEIRO contra decisão singular da lavra do Ministro Presidente do Superior Tribunal de Justiça (STJ), pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação do fundamento da decisão de admissibilidade referente à Súmula 7/STJ (fls. 328-329).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em equívoco ao aplicar a Súmula 182/STJ porque, no agravo em recurso especial, teria rechaçado a incidência da Súmula 7/STJ, afirmando não pretender reavaliação do conjunto probatório, mas apenas demonstrar violação direta à lei federal (arts. 369, 373, 430, 431, 432 e 433 do CPC) (fls. 335-338).
+Sustenta, ainda, que a matéria encontra amparo nas Súmulas 84/STJ e 375/STJ e em precedentes do STJ (fls. 337-338).
+Impugnação ao agravo interno às fls. 343-351.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início, destaco que a decisão que não admitiu o recurso especial consignou: (i) deficiência de fundamentação quanto ao art. 369 do CPC, pela indevida utilização da expressão "e seguintes" (Súmula 284/STF); (ii) inexistência de violação aos arts. 369, 430 e 433 do CPC; e (iii) incidência da Súmula 7/STJ, por demandar reexame do conjunto fático-probatório (fls. 294-296).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que o Tribunal de origem "invadiu a competência" do STJ no juízo de admissibilidade. Argumentou que não pretende reexame de provas, mas sim a correta aplicação da lei federal (arts. 369, 373, 430, 431, 432 e 433 do CPC). Observe-se:
+Ocorre que, ao realizar o juízo de admissibilidade do presente Recurso Especial, em passo de invadir a competência desta Colenda Corte, o Tribunal de Justiça do Estado de São Paulo, por meio da Presidência da Seção de Direito Privado, entendeu que não restou demonstrada a alegada vulneração dos dispositivos arrolados.
+No entanto, não há qualquer pretensão de reavaliação das provas do processo, pois busca-se tão somente que o Superior Tribunal de Justiça ateste a violação a letra da lei com base nas decisões proferidas, sem sequer ser necessário que se debruce sobre as provas dos autos.
+Ademais, ao contrário o que constou na respeitável decisão agravada, a argumentação trazida com as razões de Recurso Especial são suficientes para demonstrar a violação aos dispositivos suscitados, quais sejam, artigos 369, 373, 430,431, 432 e 433 do CPC.
+Como se vê, a parte agravante deixou de impugnar o fundamento da decisão agravada, uma vez que não demonstrou, de forma efetiva e concreta, o desacerto do óbice específico da Súmula 7/STJ aplicado na origem, limitando-se a afirmações genéricas de que não buscaria o reexame das provas.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial, de forma específica e fundamentada (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Não bastasse, de acordo com o art. 932, III, do CPC e com o art. 253, parágrafo único, I, do Regimento Interno do STJ, não se conhece do agravo que não tenha impugnado especificamente todos os fundamentos da decisão de inadmissão do recurso especial. Sobre o tema, os seguintes julgados:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRAS DE INFRAESTRUTURA. RESOLUÇÃO CONTRATUAL POR CULPA EXCLUSIVA DO VENDEDOR. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DESSA CORTE. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ. Consoante o entendimento do Superior Tribunal de Justiça, "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019).
+2. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ). Incidência da Súmula 83/STJ. Acórdão recorrido em conformidade com a orientação adotada por esta Corte. Incidência da Súmula 83/STJ.
+3. Alterar as conclusões do acórdão recorrido com relação à existência de atraso na entrega demandaria, necessariamente, a revisão de fatos, provas e cláusulas contratuais, providências vedadas pelos óbices das Súmulas 5 e 7 desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.576.219/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Em razão do princípio da dialeticidade, na hipótese do agravo do artigo 1.042 do NCPC/15, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que não admitiu o apelo extremo.
+1.1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial.
+1.2. "O Código de Processo Civil de 2015 estabelece o cabimento, simultâneo, de agravo interno, a ser julgado pelo colegiado do Tribunal de origem (arts. 1.021 e 1.030, I, b, § 2º), para impugnar a decisão que nega seguimento a recurso especial com fundamento em tese firmada em julgamento de casos repetitivos, e de agravo (arts.
+1.030, V, § 1º, e 1.042), a ser julgado pelo STJ, relativamente aos demais fundamentos adotados para não admitir o recurso especial."
+(AgInt no AREsp n. 2.097.467/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.719.119/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/4/2025, DJEN de 5/5/2025)
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
