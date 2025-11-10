@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, dar parcial provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+Impedido o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. ART. 109 DA CF/ 88. JUSTIÇA ESTADUAL. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. PROCEDIMENTO COMUM. PARCIAL PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. "Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte" (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 2.5.2019).
+3. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+4. Agravo interno a que se dá parcial provimento.
+RELATÓRIO
+Trata-se de agravo interno manifestado por Banco do Brasil S.A. em face de decisão que negou provimento a agravo em recurso especial.
+Afirma que o processo deve ser suspenso em razão do Tema 1.290 do Supremo Tribunal Federal, que reconheceu a repercussão geral da discussão em torno dos índices de correção monetária a serem aplicados em cédulas de crédito rural cuja fonte de recursos provenha dos depósitos em cadernetas de poupança.
+Informa, ainda, que esta Corte Superior, "através de sua Comissão Gestora de Precedentes, em decisão da lavra de seu Douto Presidente, Ministro Moura Ribeiro, recentemente indicou os Recursos Especiais nº 2204730/RS, 2204731/RS e 2204791/RS, como Representativos de Controvérsia" (e-STJ, fl. 218) em torno da questão controvertida, e que, "conquanto ainda não tenham recebido o crivo de admissão pelo Relator, constituem indubitável indício da necessidade da determinação de suspensão, também por este motivo" (e-STJ, fl. 218).
+Reitera a negativa de prestação jurisdicional do Tribunal local e as demais violações apontadas no recurso especial, especialmente quanto à necessidade de deslocamento dos processos para a Justiça Federal e chamamento ao processo dos demais entes que fizeram parte da condenação proferida na ação civil pública n. 94.008514-1.
+Reafirma, ainda, a necessidade de liquidação da sentença pelo procedimento comum, com ampla dilação probatória, inclusive para que se prove a própria qualidade de credor da parte contrária.
+Pede o provimento do recurso, que, embora intimada a parte contrária, não foi respondido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. ART. 109 DA CF/ 88. JUSTIÇA ESTADUAL. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. PROCEDIMENTO COMUM. PARCIAL PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. "Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte" (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 2.5.2019).
+3. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+4. Agravo interno a que se dá parcial provimento.
+VOTO
+O recurso merece parcial provimento.
+Anoto, de início, que não há discussão nos presentes autos acerca dos índices a serem aplicados na hipótese dos autos, mas apenas a competência, o litisconsórcio e a necessidade de liquidação da sentença coletiva, razão pela qual, à míngua de determinação de suspensão para questões como tais, o processo deve prosseguir até que, eventualmente, alguma questão discutida deva determinar-lhe a suspensão.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial, apresentado em face de acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. BANCO DO BRASIL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA DE CRÉDITO RURAL. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. PROSSEGUIMENTO DO FEITO EXCLUSIVAMENTE CONTRA O BANCO DO BRASIL. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO DESPROVIDO.
+1. Como no caso em análise não figura no polo passivo da liquidação de sentença qualquer dos entes previstos no artigo 109, inciso I, da Constituição Federal, pois a parte exequente optou pelo prosseguimento do feito em face exclusivamente do Banco do Brasil S/A, o qual possui natureza jurídica de sociedade de economia mista, é competente a Justiça Estadual para julgar a liquidação de sentença, ainda que a Ação Civil Pública tenha tramitado perante a Justiça Federal.
+2. Portanto, embora se trate de liquidação provisória de sentença proferida no âmbito da Ação Civil Pública nº 94.008514-1, a qual tramitou perante o Juízo da 3ª Vara Federal do Distrito Federal, a competência é da Justiça Estadual, haja vista ter sido direcionado a liquidação de sentença somente contra o Banco do Brasil.
+3. Com efeito, juiz absolutamente incompetente nada mais pode fazer no processo do que reconhecer sua incompetência. Mesmo a deliberação sobre a necessidade de prévia liquidação da sentença oriunda da ação civil pública deve ser feita pelo Juízo competente.
+4. Agravo de instrumento desprovido.
+Alegou, na ocasião, violação dos artigos 130, 132, 489, § 1º, III, IV e VI, 509, II, 511, 1.022 e 1.025 do Código de Processo Civil sob os argumentos de que o acórdão local é omisso; que é necessária a prévia liquidação ao cumprimento de sentença coletiva; e que, em se tratando de responsabilidade solidária, é cabível o chamamento ao processo.
+Inicialmente, anoto que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando o julgado, singular ou coletivo, padece de omissão, contradição, obscuridade ou erro material em relação a ponto relevante, necessário, útil e influente para o julgamento da causa. É legítimo o manejo de embargos para suprir omissão quanto a assunto sobre o qual devia se pronunciar o julgador, o qual não está obrigado, entretanto, a enfrentar todos os argumentos das partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua deliberação, enfrentar as matérias (de ordem pública ou não) suscitadas em tempo oportuno e que, em tese, podem infirmar a conclusão adotada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ .. .
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/6/2018, DJe 29/6/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erro material, lacuna ou contradição.
+Avançando, registro que, em hipótese de condenação solidária - como sucede no caso vertente -, não se configura litisconsórcio passivo necessário, podendo o credor exigir o pagamento de qualquer dos codevedores. Confira-se:
+AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. CHAMAMENTO AO PROCESSO. DESCABIMENTO. PRECEDENTES. JUROS DE MORA. TERMO INICIAL. CITAÇÃO NO PROCESSO DE CONHECIMENTO. CORTE ESPECIAL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. AGRAVO NÃO PROVIDO.
+1. "Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte" (AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 2.5.2019).
+2. Conforme jurisprudência pacificada no âmbito do STJ pela via de recurso representativo da controvérsia, "Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da Ação Civil Pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior" (Corte Especial, REsp 1.370.899/SP, Rel. Ministro Sidnei Beneti, DJe de 14.10.2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.277.277/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023.)
+Incide, no ponto, a Súmula 83 do STJ.
+Prosseguindo, aviso que a execução individual de título oriundo de demanda coletiva (ação civil pública) exige fase prévia de liquidação com vistas à apuração do valor devido e da titularidade do crédito pleiteado. Assim:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1.247.150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011).
+2. Se há a necessidade de apurar a titularidade do crédito e o montante devido a título de condenação dos expurgos inflacionários, revela-se notório o devido respeito ao procedimento de prévia liquidação da sentença coletiva, nos temos do art. 475-A do CPC de 1973. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1580295/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 5/4/2016, DJe 14/4/2016)
+DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. ALCANCE SUBJETIVO DA SENTENÇA COLETIVA. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA. MULTA PREVISTA NO ART. 475-J, CPC. NÃO INCIDÊNCIA.
+1. Para efeitos do art. 543-C do CPC:
+ .. .
+1.2. A sentença genérica prolatada no âmbito da ação civil coletiva, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC). A condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não sendo aplicável a reprimenda prevista no art. 475-J do CPC.
+2. Recurso especial parcialmente provido.
+(REsp 1247150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe 12/12/2011)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1247150/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+2. Agravo regimental não provido.
+(AgRg no AREsp 510.687/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/4/2015, DJe 5/5/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593751/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 9/8/2016, DJe 16/8/2016)
+No que toca à liquidação, em que pese, na decisão agravada, a questão ter sido considerada prematura, já que a questão deveria ser apreciada pelo juízo competente, revendo o posicionamento, tenho que é mesmo o caso de, desde já, se decidir a respeito.
+Isso porque esta Corte tem firme posicionamento de que, em se tratando de sentença coletiva, tanto os beneficiários da condenação quanto o montante devido devem ser apurados, o que exige liquidação prévia ao cumprimento de sentença.
+A saber:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência providos.
+(EREsp 1705018/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/12/2020, DJe 10/2/2021)
+No caso dos autos, o Tribunal regional declinou da competência e assertou ser possível o cumprimento de sentença da sentença coletiva, razão pela qual merece reparo apenas para reafirmar a jurisprudência desta Corte no sentido de que ao cumprimento da sentença coletiva deve preceder a liquidação pelo procedimento comum.
+Em face do exposto, dou parcial provimento ao agravo interno apenas para determinar que no juízo competente se proceda à liquidação pelo procedimento comum previamente ao próprio cumprimento de sentença.
+É como voto.
