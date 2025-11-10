@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. TEMA 1.076/STJ. RECURSO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, a atribuição de efeitos modificativos aos embargos de declaração para adequar o julgamento à tese firmada em recurso repetitivo, conforme previsto no art. 1.022, parágrafo único, I, do CPC/2015.
+2. O Tema 1.076/STJ estabelece que a fixação de honorários advocatícios por equidade é cabível apenas em hipóteses excepcionais, como quando o proveito econômico é inestimável, irrisório ou o valor da causa é muito baixo. No caso, o valor da causa (R$ 353.213,88) não se enquadra nessas hipóteses, justificando a aplicação do critério objetivo do art. 85, § 2º, do CPC.
+3. A redistribuição da sucumbência para reconhecer a sucumbência recíproca implicaria reexame do suporte fático da demanda, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Resultado do Julgamento: Recurso especial desprovido.
+RELATÓRIO
+Trata-se de recurso especial interposto por OCEÂNICA CONSTRUÇÕES E INCORPORAÇÕES LTDA E OUTROS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (e-STJ, fl. 226):
+COMPRA E VENDA. Ação de obrigação de fazer c/c reparação de danos. Ação prejudicada em parte e na parte conhecida, improcedente. Inconformismo dos autores.
+VALOR DA CAUSA. Valor da causa que deve corresponder ao valor do contrato atualizado, acrescido do valor da indenização pleiteada na inicial. Artigo 292, II, do Código de Processo Civil.
+HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. Reembolso. Impossibilidade. Ausência de comprovação de que a contratação de advogado na ação de cobrança de débitos condominiais foi ocasionada unicamente pela ré. Ausência de demonstração do efetivo ingresso nos autos e o pagamento dos honorários.
+DANOS MORAIS Mero descumprimento contratual não enseja indenização. Sentença mantida.
+RECURSO NÃO PROVIDO.
+O Tribunal de origem deu parcial provimento aos embargos de declaração apresentados pelo ora recorrido e alterou parcialmente o julgado acima em consonância com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. Acórdão que manteve os honorários sucumbenciais fixados por equidade pela r. sentença. Irresignação de um dos apelantes, acolhida. Alegação de omissão com a regra estipulada no § 2º do artigo 85 do Código de Processo Civil. Ocorrência. Elementos do § 8º, do referido artigo, não verificados. Honorários advocatícios que devem ser fixados nos percentuais do §2º do artigo 85 do Código de Processo Civil, com base no valor atualizado da causa. EMBARGOS PROVIDOS
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 492, 507 e 1013, caput e 1022, II do CPC , além de divergência jurisprudencial.
+Sustenta que, "mantida a r. sentença, não poderia o Tribunal a quo alterar o critério da condenação sucumbencial, já que a matéria não foi devolvida pelo Recurso de Apelação". (e-STJ, fl. 270). Acrescenta que "a tese 1079 tem como objetivo uniformizar o entendimento jurisprudencial acerca da matéria, mas não pode ser aplicada a casos em que já definida a condenação e não impugnada pelo interessado". (e-STJ, fl. 271) Afirma que "o critério de fixação da verba sucumbencial não foi objeto de impugnação pelo Recorrido, operando-se a preclusão da matéria. Em outras palavras, ao contrário do entendimento do v. acordão, a ausência de impugnação da parte Recorrida sobre os honorários de sucumbência impede a análise de ofício, já que houve preclusão consumativa" (e-STJ, fl. 275).
+Em modo subsidiário pede que "caso se entenda que os honorários sucumbenciais possam ser alterados a qualquer momento, mesmo sem impugnação da parte contrária, em manifesto arrepio à lei, o que se admite apenas por amor à argumentação, de rigor que tal entendimento seja aplicado à Recorrente, atribuindo a sucumbência recíproca, pois houve sucumbência do Recorrido aos pedidos de danos materiais e morais". (e-STJ, fl. 287)
+Foram oferecidas contrarrazões (e-STJ, fls. 319/321).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. TEMA 1.076/STJ. RECURSO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, a atribuição de efeitos modificativos aos embargos de declaração para adequar o julgamento à tese firmada em recurso repetitivo, conforme previsto no art. 1.022, parágrafo único, I, do CPC/2015.
+2. O Tema 1.076/STJ estabelece que a fixação de honorários advocatícios por equidade é cabível apenas em hipóteses excepcionais, como quando o proveito econômico é inestimável, irrisório ou o valor da causa é muito baixo. No caso, o valor da causa (R$ 353.213,88) não se enquadra nessas hipóteses, justificando a aplicação do critério objetivo do art. 85, § 2º, do CPC.
+3. A redistribuição da sucumbência para reconhecer a sucumbência recíproca implicaria reexame do suporte fático da demanda, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Resultado do Julgamento: Recurso especial desprovido.
+VOTO
+Assim o Tribunal de origem, provendo embargos de declaração opostos pelo ora recorrido, embora mantendo o acórdão embargado na parte em que negara provimento à apelação, alterou o capítulo referente ao arbitramento dos honorários de sucumbência na sentença recorrida, desconstituindo o arbitramento por equidade e fixando o arbitramento pela tarifação legal objetiva do CPC sobre o valor da causa (e-STJ, fls. 246-248, grifei):
+O Código de Processo Civil estabelece que somente em casos excepcionais se justifica a fixação da verba honorária de sucumbência por equidade, em detrimento do critério de fixação estabelecido pelo artigo 85, §2º, do Código de Processo Civil.
+A equidade prevista no §8º do artigo supracitado incide apenas nos casos em que o proveito econômico obtido não seja identificado, seja inestimável ou irrisório, bem como, quando o valor da causa é muito baixo.
+Sobre esse assunto, recentemente o C. Superior Tribunal de Justiça (STJ) concluiu o julgamento do Tema 1.076 dos recursos repetitivos, por maioria, decidiu pela inviabilidade da fixação de honorários de sucumbência por apreciação equitativa quando o valor da condenação ou o proveito econômico forem elevados, tendo o relator dos recursos submetidos a julgamento, ministro Og Fernandes, estabelecido duas teses sobre o assunto:
+ ..
+In casu, o valor da causa, conforme o Acórdão apurou. atinge a quantia de R$ 353.213,88.
+Assim, entendo que os honorários advocatícios devidos pela parte embargada devem observar os percentuais estabelecidos no §2º do artigo 85, do Código de Processo Civil, que devem incidir sobre o valor da causa.
+Deste modo, os honorários advocatícios devidos ao patrono da parte adversa devem ser fixados no percentual de 10% do valor atualizado da causa, sendo, assim, observado o grau de zelo dos profissionais, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelos advogados e o tempo exigido para o seu serviço (Código de Processo Civil, art. 85, §2º, incisos I a IV).
+A tese trazida neste especial de que a matéria do arbitramento dos honorários de sucumbência não fora veiculada na apelação do ora recorrido e que, por isso, não poderia ser conhecida pela Corte de origem nos embargos de declaração acima referidos assim foi ali rechaçada no subsequente julgamento dos embargos de declaração apresentados pelo ora recorrente (e-STJ, fl. 258):
+Destaca-se que a condenação em honorários é matéria de ordem pública, podendo o magistrado analisá-la de ofício. Ademais, deveria o julgado, que analisou o apelo interposto, ter verificado que a forma de fixação dos honorários, não estava de acordo com o julgamento do Tema 1.076, pelo C. Superior Tribunal de Justiça, desse modo, diante de tal omissão, era mesmo o caso de se modificar os honorários sucumbenciais fixados, ainda que no apelo, a parte apelante nada tenha impugnado a respeito.
+Assim sendo, restou evidente a impropriedade da via eleita, nada havendo para ser alterado, restando presente aqui, apenas, o inconformismo dos embargantes que buscam rediscutir matéria já decidida, sem nenhum objetivo de integração
+É certo que a jurisprudência desta Corte veda se conceda aos embargos de declaração efeitos de instrumento de uniformização jurisprudencial.
+Não menos certo, contudo, é que, em se tratando de tese repetitiva firmada anteriormente ao julgamento dos aclaratórios, é viável a aplicação de ofício desta tese para adequação do julgado ao precedente desta Corte Superior.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. IMPOSSIBILIDADE DE CONFERIR EFEITOS INFRINGENTES AOS EMBARGOS DE DECLARAÇÃO QUANDO HOUVER MODIFICAÇÃO JURISPRUDENCIAL. ENTENDIMENTO DA CORTE ESPECIAL CONSAGRADO NO CPC/2015. RECURSO IMPROVIDO.
+1. Segundo o artigo 535 do CPC/1973 e o artigo 1.022 do CPC/2015, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+2. Eventuais efeitos modificativos provenientes do julgamento dos aclaratórios apenas ocorrerão se a correção de omissão, obscuridade, contradição ou erro material acarretar transformação significativa no decisum embargado, ou, se houver manifesta decisão teratológica. Precedentes.
+3. Conforme entendimento consolidado por esta Corte Especial, não é possível atribuir efeitos infringentes aos embargos declaratórios em virtude de mudança jurisprudencial, exceto quando houver omissão proveniente de julgamento anterior de recurso especial repetitivo sobre o tema decidido. Precedentes.
+4. O novel Código de Processo Civil de 2015 chancela a posição jurisprudencial acima transcrita no inciso I do parágrafo único do artigo 1.022, considerando omissão a inexistência de manifestação no acórdão embargado sobre tese firmada em julgamento de casos repetitivos. 5. Agravo interno improvido. (Corte Especial, EAg 1.014.027/RJ, rel. Ministro Jorge Mussi, DJe 26.10.2016, grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREMISSA EQUIVOCADA. CABIMENTO. ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Na esteira da jurisprudência do STJ, cabem Embargos de Declaração para os fins ordinários (correção dos vícios de omissão, obscuridade ou contradição) e, em caráter excepcional, para adequar o julgamento à orientação firmada no julgamento de recursos repetitivos ou superação de premissa equivocada (esta última a situação do caso concreto).
+ ..
+3. Embargos de Declaração acolhidos, com efeito modificativo, para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento. (EDcl no REsp 1.660.422/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/10/2017, DJe 23/10/2017, grifei)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. ACOLHIMENTO DOS EMBARGOS PARA ADEQUAR O CASO AO ENTENDIMENTO DA PRIMEIRA SEÇÃO/STJ.
+1. A jurisprudência desta Corte autoriza, excepcionalmente, o acolhimento de embargos de declaração para novo pronunciamento sobre o mérito da controvérsia, para fins de adequar o julgamento a acórdão submetido ao regime dos recursos repetitivos.
+ ..
+3. Embargos de declaração acolhidos, com a atribuição de efeitos infringentes. (EDcl no AgRg no REsp 1.332.981/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 20/6/2017, DJe 26/6/2017)
+Sob essa ótica, não merece censura o pronunciamento da Corte Estadual, que, de forma excepcional, acolheu os embargos de declaração para conformar o modo de fixação dos honorários sucumbenciais à tese antes fixada por esta Corte Superior em recurso repetitivo.
+Quanto ao pleito da recorrente de que se desconstitua a repartição da sucumbência feita pelas instâncias ordinárias e fixe-se nesta instância especial a sucumbência recíproca, tem-se matéria que desborda dos limites cognitivos desta via especial.
+Nesse sentido:
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE FRANQUIA. CLÁUSULA PENAL. DESCUMPRIMENTO DA CLÁUSULA DE NÃO-CONCORRÊNCIA. PENALIDADE EXCESSIVA RECONHECIDA NA ORIGEM. LIMITAÇÃO. POSSIBILIDADE. ART. 413 DO CC/2002. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAI S. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça e do art. 413 do Código Civil/2002, é possível a redução da cláusula penal se a obrigação principal tiver sido cumprida em parte ou se o montante da penalidade for manifestamente excessivo.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. A jurisprudência desta Corte é firme no sentido de não ser possível a apreciação do quantitativo em que as partes saíram vencedoras ou vencidas na demanda, bem como da existência de sucumbência mínima ou recíproca, por implicar incursão no suporte fático da demanda, esbarrando no óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.722.569/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025, grifei.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 10% (dez por cento) para 11% (onze por cento).
+É como voto.
