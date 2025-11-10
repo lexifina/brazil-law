@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITOS COLETIVOS DE NATUREZA CONSUMERISTA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 /STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação Civil Pública.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, por falta de prequestionamento. Súmula 282/STF.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por BRUNO MOREIRA GONCALVES, DONIZETE OLIVEIRA DE SOUZA, PHILIPE MORAES DE GOUVEA, REJANE MONTES MARQUES, VANESSA PEREIRA DA MOTTA GOUVEA, contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: Civil Pública ajuizada por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO em face de BRUNO MOREIRA GONCALVES, DONIZETE OLIVEIRA DE SOUZA, PHILIPE MORAES DE GOUVEA, REJANE MONTES MARQUES, VANESSA PEREIRA DA MOTTA GOUVEA, por meio do qual sustenta práticas abusivas contra consumidores, especialmente idosos, envolvendo venda casada de serviços odontológicos e cartões de crédito.
+Sentença: julgou parcialmente procedente a pretensão inicial, condenando as rés nas obrigações de fazer e rejeitando o pedido de indenização por danos morais coletivos.
+Acórdão: negou provimento aos recursos, nos termos da seguinte ementa (e-STJ fl. 5569):
+APELAÇÕES - Direitos coletivos de natureza consumerista - Práticas abusivas - Ação civil pública - Sentença de parcial procedência - Apelo dos réus - Cerceamento de defesa não ocorrido - Feito suficientemente instruído - Ausência de demonstração da necessidade e da pertinência da dilação probatória - Ilegitimidade passiva "ad causam" dos corréus pessoas físicas, sócios das jurídicas - Rejeição - Circunstância de que se repetem nos quadros societários das sociedades empresárias rés que justifica a legitimidade processual, a fim de que os corréus sócios não constituam nova sociedade para manter as práticas judicialmente proibidas às pessoas jurídicas integrantes deste feito - Legitimidade ativa do Ministério Público - Direito lesado de natureza coletiva em sentido amplo - Detecção de grupo hipervulnerável exposto às práticas lesivas, o que demanda a atuação do "Parquet" - Apelo do autor - Manutenção da improcedência dos pedidos de obrigação de fazer genéricos, que dizem respeito à fiscalização do competente órgão de classe - Dano moral coletivo não configurado - Lesão que deve provocar na sociedade sentimento de prejuízo e intranquilidade, o que o vulto da prática ilícita objeto deste feito não alcança - Dispensa de condenação dos réus em verbas de sucumbência - Artigo 18 da Lei nº 7.347/85 (LACP) e princípio da simetria - Entendimento do C. STJ consolidado em sede de embargos de divergência - Sentença mantida - Recursos IMPROVIDOS.
+Decisão unipessoal: conheceu do agravo e não conheceu do recurso especial (e-STJ fls. 5693).
+Agravo interno: a parte agravante alega que houve violação direta ao art. 133 do CPC pela inclusão dos sócios sem a prévia instauração do incidente de desconsideração, tratando-se de questão de direito que dispensa revolvimento probatório; que está configurado o prequestionamento, ainda que implícito, pois o acórdão enfrentou a inclusão de sócios sem observância do devido processo legal; não há deficiência de fundamentação, pois o REsp indicou claramente os arts. 50 do CC, 28 do CDC e 133 do CPC, com correlação lógica; e é inaplicável a Súmula 7/STJ, por se tratar de subsunção jurídica a fatos incontroversos e nulidade processual pelo não processamento do incidente. Requer, assim, o provimento do agravo para determinar o processamento do recurso especial e sua apreciação de mérito; subsidiariamente, o julgamento colegiado (e-STJ fls. 5710-5711).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITOS COLETIVOS DE NATUREZA CONSUMERISTA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 /STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação Civil Pública.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, por falta de prequestionamento. Súmula 282/STF.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ fls. 5693):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITOS COLETIVOS DE NATUREZA CONSUMERISTA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 /STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. Ação Civil Pública. 2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. 3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, por falta de prequestionamento. Súmula 282/STF. 4. O reexame de fatos e provas em recurso especial é inadmissível. 5. Agravo conhecido. Recurso especial não conhecido.
+Não obstante as alegações deduzidas neste recurso, verifica-se que a parte agravante não demonstrou argumentos novos ou específicos aptos a infirmar o entendimento adotado.
+- Da fundamentação deficiente
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese dos autos, O REsp sustenta ausência de desvio de finalidade e confusão patrimonial e invoca a teoria menor do CDC, porém não estabelece, de forma clara e objetiva, como o acórdão recorrido teria violado esses dispositivos dos arts. 50 do CC e 28 do CDC em face das premissas fáticas reconhecidas, ademais, afirma violação direta ao art. 133 do CPC pela não instauração do incidente, mas o acórdão recorrido não decidiu, de forma explícita, à luz do art. 133 do CPC, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284 do STF.
+Nesse sentido: AgInt no REsp 2.108.647/SP, Quarta Turma, DJe de 2/5/2024; AgInt no AREsp 2.097.357/MG, Terceira Turma, DJe de 11/4/2024.
+- Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF.
+Dito isso, da reanálise minuciosa dos autos, realmente, observa-se que a aplicação do óbice da Súmula 282 do STF decorre da não deliberação pelo acórdão recorrido acerca do art. 133 do CPC, indicado como violado, não tendo a parte agravante interposto o recurso de embargos de declaração.
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, em revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Portanto, a decisão deve ser mantida ante a aplicação do óbice da Súmula 282 do STF.
+- Do reexame de fatos e provas
+A aplicação da Súmula 7/STJ merece ser mantida, porquanto os fundamentos do acórdão recorrido assentam-se em premissas fáticas robustas e específicas dos autos, e os argumentos da parte agravante não demonstram de que modo a alteração do decidido prescindiria do reexame de fatos e provas (fls. 5695).
+Como exposto na decisão agravada, o TJ/SP ao julgar o recurso interposto pela parte agravante assim decidiu (e-STJ fls. 5573-5574):
+Assim, tendo em conta ter restado comprovado que os sócios das diversas sociedades empresárias são comuns e que a restrição da condenação às pessoas jurídicas deixaria lacuna que permitiria a constituição de nova PJ para manutenção das práticas ilícitas, reputo existente a legitimidade processual das pessoas físicas.
+(..)
+Destacou o Ilustre Magistrado prolator da sentença a existência de setenta processos em trâmite na Comarca em face dos réus, mais de uma dezena apenas sob a responsabilidade daquele Juízo (fls. 5.279/5.280). Ainda que se admita a título argumentativo que a quantidade de vendas casadas e outras práticas abusivas representem apenas cerca de dois por cento da quantidade de pacientes atendidos, entendo ser de vital importância o número absoluto, que alcança a centena de vítimas, o que não pode ser desprezado. É óbvio que a maior parte da população tem instrução e discernimento para detectar o intento ilícito antes de se tornar vítima, o que não exclui a necessidade de se proteger a minoria - não tão pequena assim - desprovida de condições para se defender no mercado de consumo.
+Ao menos a categoria de idosos de baixa renda e sub-letrados se encontra vulnerável à prática dos réus, como se extrai do conjunto probatório dos autos, pelo qual a grande maioria das vítimas se enquadra em tal perfil.
+Descarto o argumento de que os réus não obtiveram vantagem com a contratação do cartão de crédito pelos pacientes. Ora, se o cartão era utilizado para pagar o tratamento dentário, óbvio que vantagem houve. Alegação em sentido oposto beira a desfaçatez.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, especialmente quanto à demonstração de desvio de finalidade ou confusão patrimonial, também quanto ao fundamento recursal sobre danos morais coletivos, que dependeria da valoração de provas sobre a repercussão social das práticas abusivas, o que é obstado pelo enunciado sumular nº 7/STJ.
+Diante disso, impõe-se a manutenção do entendimento adotado na decisão agravada, que não merece reparos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
