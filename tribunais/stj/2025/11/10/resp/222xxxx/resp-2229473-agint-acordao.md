@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Gurgel de Faria, Paulo Sérgio Domingues, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284STF. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+II - Rever a conclusão alcançada pela origem, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+III - Prejudicada a análise da alegada divergência jurisprudencial, quando não ultrapassado óbice sumular aplicado por ocasião do exame do recurso especial pela alínea a do permissivo constitucional.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por EQUATORIAL ALAGOAS DISTRIBUIDORA DE ENERGIA S.A. contra a decisão que não conheceu do seu recurso especial, assim fundamentada: incidência das Súmulas 283/STF e 7/STJ; e dissídio jurisprudencial prejudicado.
+Sustenta a parte agravante, em síntese, que estão presentes todos os requisitos para o conhecimento e provimento do Recurso Especial.
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 821/823e e 824/830e.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284STF. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+II - Rever a conclusão alcançada pela origem, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+III - Prejudicada a análise da alegada divergência jurisprudencial, quando não ultrapassado óbice sumular aplicado por ocasião do exame do recurso especial pela alínea a do permissivo constitucional.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Não assiste razão à parte agravante.
+- Da violação ao art. 119 do CPC
+O tribunal de origem, ao analisar a controvérsia, concluiu, com base em julgado deste Superior Tribunal de Justiça, que "é inviável a referida intervenção em processo de execução, visto que "a assistência visa à obtenção de uma sentença favorável a uma das partes da relação processual, (..), e que a execução não possui carga cognitiva plena, mas apenas uma carga executiva derivada da própria natureza da pretensão deduzida no pedido de execução do título judicial ou extrajudicial" (AgInt na PET no AR Esp n. 936.684/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/5/2020, D Je de 15/5/2020)" fl. 659e).
+Nesse aspecto, observo que a Recorrente não colacionou julgados, do Superior Tribunal de Justiça, divergentes daqueles apresentados pelo acórdão recorrido, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.946.896/SP, Relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, julgado em 26.08.2024, DJe de 02.09.2024 - destaque meu).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 9/11/2022, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.094.865/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19.08.2024, DJe de 22.08.2024 - destaque meu).
+Além disso, o colegiado local, soberano na análise dos elementos fáticos e probatórios constantes dos autos, consignou que "o pleito da parte agravante possui mero interesse econômico, pois inteiramente consubstanciado em pretensão satisfativa de direito creditório alheio ao mérito dos autos da presente execução, não sendo, portanto, o caso de intervenção na qualidade de assistente" (fl. 661e).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+- Da divergência jurisprudencial
+Nesse cenário, impõe-se reconhecer que o exame do recurso especial pela divergência ficou prejudicado.
+Com efeito, é firme o posicionamento desta Corte segundo o qual os óbices os quais impedem a apreciação do recurso pela alínea a prejudicam a análise do recurso especial pela alínea c do permissivo constitucional como o demonstra o julgado assim ementado:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE SERVIÇO PÚBLICO. AÇÃO CIVIL PÚBLICA. PRAZO PRESCRICIONAL. 5 ANOS. TERMO INICIAL: ENCERRAMENTO DO CONTRATO.RECURSO REGIDO PELA SISTEMÁTICA DO CPC/1973. HIPÓTESE EM QUE A QUESTÃO DA PRESCRIÇÃO NÃO FOI ANALISADA, MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. INEXISTÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE DISCUSSÃO E DECISÃO. AUSÊNCIA DE ALEGAÇÃO NO RECURSO ESPECIAL DE NULIDADE POR VIOLAÇÃO DO ART. 535 DO CPC/1973. INAFASTABILIDADE DA INCIDÊNCIA DA SÚMULA 211/STJ QUANTO AO TEMA. HIPÓTESE QUE PREJUDICA A ANÁLISE DA DIVERGÊNCIA SUSCITADA NO RECURSO ESPECIAL. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A caracterização do prequestionamento demanda a necessidade de discussão e decisão a respeito do tema jurídico, o que não ocorreu no caso dos autos. Impossibilidade de admissão do chamado prequestionamento ficto, caracterizado apenas pela mera oposição de Aclaratórios.
+Precedentes do STJ: AgInt no REsp. 1.248.586/SC, Rel. Min. SÉRGIO KUKINA, DJe 10.9.2018 e AgRg no REsp. 1.366.052/SP, Rel. Min.
+HUMBERTO MARTINS, DJe 19.2.2015, dentre outros.
+2. A aplicação de óbice de conhecimento quanto à ofensa legal, no tocante ao mesmo tema, prejudica a análise dada a divergência, conforme entendimento massificado deste STJ.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 1034418/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+- Da multa
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+- Dispositivo
+Posto isso, NEGO PROVIMENTO ao agravo interno.
