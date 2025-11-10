@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONTRATO DE COMODATO. PROPRIETÁRIO QUE CONSERVA A POSSE INDIRETA DO BEM. NOTIFICAÇÃO EXTRAJUDICIAL PARA DESOCUPAÇÃO DESATENDIDA. VIOLAÇÃO DO ART. 561 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AOS ARTS. 581 E 582 DO CÓDIGO CIVIL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias porquanto ausente o indispensável prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A ausência de fundamentação adequada acerca do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do STF, aplicável, por analogia, nesta Corte.
+3. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ODIRLEI PEREIRA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal, contra acórdão p roferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PROCEDÊNCIA. INSURGÊNCIA DA PARTE RÉ. ALEGAÇÃO DE CARÊNCIA DE AÇÃO POR INADEQUAÇÃO DA VIA ELEITA. PARTE AUTORA QUE NÃO TERIA COMPROVADO POSSE ANTERIOR. INSUBSISTÊNCIA. CONTRATO DE COMODATO. PROPRIETÁRIO QUE CONSERVA A POSSE INDIRETA DO BEM. NOTIFICAÇÃO EXTRAJUDICIAL PARA DESOCUPAÇÃO DESATENDIDA. CONFIGURAÇÃO DE ESBULHO POSSESSÓRIO. CABIMENTO DA AÇÃO DE REINTEGRAÇÃO DE POSSE. SENTENÇA MANTIDA. ARBITRAMENTO DE HONORÁRIOS RECURSAIS. OBSERVÂNCIA DOS §§ 2º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fls. 622)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 665-667).
+Em seu recurso especial, além de apontar dissídio jurisprudencial, a parte recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 561 do Código de Processo Civil, tendo em vista que a petição inicial não teria individualizada de forma precisa a área e as benfeitorias, o que impediria a identificação do bem e a execução do mandado possessório, de modo que a reintegração de posse teria sido proposta e julgada sem o atendimento dos requisitos legais;
+(ii) arts. 581 e 582 do Código Civil, pois o comodato e a notificação extrajudicial não supririam a falta de descrição correta do imóvel; o esbulho decorrente do termo do comodato apenas se configuraria após uma delimitação devida da área e das benfeitorias, o que não teria ocorrido; e
+(iii) suscita divergência jurisprudencial quanto à imprescindibilidade de individualização da área nas ações possessórias, com precedentes que deveriam estipular a anulação ou a extensão quando ausente a delimitação do bem.
+Foram apresentadas contrarrazões (e-STJ, fls. 711-721).
+O recurso especial foi inadmitido na origem, dando ensejo à interposição do presente agravo.
+Instado a se manifestar, o d. Ministério Público Federal opinou pelo não conhecimento do agravo, conforme parecer (fls. 809-811), da lavra do em. Subprocurador Geral da República, Dr. Antonio Carlos Martins Soares.
+É o Relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONTRATO DE COMODATO. PROPRIETÁRIO QUE CONSERVA A POSSE INDIRETA DO BEM. NOTIFICAÇÃO EXTRAJUDICIAL PARA DESOCUPAÇÃO DESATENDIDA. VIOLAÇÃO DO ART. 561 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AOS ARTS. 581 E 582 DO CÓDIGO CIVIL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias porquanto ausente o indispensável prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A ausência de fundamentação adequada acerca do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do STF, aplicável, por analogia, nesta Corte.
+3. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+A irresignação não prospera.
+Na origem, cuida-se de ação de reintegração de posse julgada procedente, em sentença confirmada pelo Tribunal de Justiça do Estado de Santa Catarina (TJ-SC), sob o fundamento de que restaram configurados a posse indireta do autor (ora recorrido) e a ocorrência de esbulho pelo descumprimento de notificação extrajudicial para desocupação do imóvel.
+Inicialmente, quanto à alegada violação do art. 561 do CPC/2015, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre e a respectiva tese recursal (ausência de individualização do imóvel na petição inicial) não foram apreciados pelo Tribunal a quo, tampouco foram alvos dos embargos declaratórios opostos, para sanar eventual omissão. Esse pressuposto específico do recurso especial é exigido inclusive para matérias de ordem pública.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRECLUSÃO CONSUMATIVA. NÃO CONFIGURAÇÃO. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO. (..)
+4. A Corte local não se pronunciou sobre a tese de julgamento citra petita, não se configurando o prequestionamento da matéria, a qual nem sequer foi suscitada nos embargos de declaração opostos na origem. Incidência, por analogia, das Súmulas 282 e 356/STF.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.652.215/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. CHAVES. ATRASO NA ENTREGA. ASTREINTES. REVISÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. MULTA COMINATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. EXCLUSÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DECISÃO MANTIDA. (..)
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF. (..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.621.589/AM, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. 24/2/2025, DJEN de 28/2/2025)
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DEVER DE REEMBOLSO. FALTA DE PREQUESTIONAMENTO. DANOS MORAIS CARACTERIZADOS NAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova.
+2. A ausência de prequestionamento dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, conforme as Súmulas n. 282 e 356 do STF. (..)
+5. Recurso especial não conhecido."
+(REsp n. 2.209.714/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/5/2025, DJEN de 29/5/2025)
+Avançando, quanto à alegada afronta aos artigos 581 e 582 do Código Civil, nas razões recursais, os recorrentes não desenvolveram argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do nº 284 da Súmula do Supremo Tribunal Federal.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (..)
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+Configura deficiência de fundamentação recursal a apresentação de razões dissociadas que não impugnam fundamento do acórdão por si só suficiente para manter o entendimento adotado.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial."
+(AgInt no AREsp n. 2.735.498/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. PRÁTICA ABUSIVA. SÚMULAS N. 83 DO STJ, 283 E 284 DO STF. EMISSÃO DE BOLETO FRAUDULENTO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA. FATO EXCLUSIVO DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. (..)
+3. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação e atrai a incidência das Súmula n. 283 e 284 do STF. (..)
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 2.568.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, j. 10/2/2025, DJEN de 13/2/2025)
+Importa reforçar que o recorrente, embora tenha feito menção aos referidos dispositivos do Código Civil e explicado se tratar de tese subsidiária, não desenvolveu argumentação que evidenciasse a aludida ofensa, de forma que não restou demonstrada sequer a tese recursal associada a tais artigos legais.
+Por fim, pontue-se que os óbices aplicados ao recurso especial interposto pela alínea "a" do permissivo constitucional também são aplicáveis ao apelo nobre interposto pela alínea "c".
+Dessa forma, o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte agravada em 10% sobre o valor já fixado pelas instâncias ordinárias, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual prévia concessão da gratuidade da justiça.
+É como voto.
