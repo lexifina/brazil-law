@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. GOLPE DO FALSO EMPREGO.
+1. Cerceamento de defesa afastado pelo Tribunal de origem, que, de forma fundamentada, indeferiu a prova pericial por desnecessária, sendo o juiz o destinatário da prova. Revisão que demanda reexame do conjunto fático-probatório. Súmula n. 7/STJ.
+2. Reconhecimento de fortuito externo e de ausência de nexo causal entre a conduta da recorrida e o dano, com afastamento da responsabilidade objetiva (art. 14, § 3º, II, do CDC). Pretensão recursal que exigiria revolvimento de fatos e provas. Súmula n. 7/STJ.
+Agravo conhecido. R ecurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por ADRIELY CAROLINA WERNECK LEAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 173):
+AÇÃO INDENIZATÓRIA. Sentença que julgou improcedente a ação. Pretensão da autora de reforma. INADMISSIBILIDADE: Preliminar de cerceamento de defesa rejeitada. Golpe do "Falso emprego". Terceiros se passaram por funcionários da ré oferecendo uma oportunidade de emprego mediante o pagamento de certas quantias pela vítima. Ausência de comprovação de que as pessoas com quem a autora conversou eram prepostas da ré. Autora que realizou as transações voluntariamente, mediante utilização de senha pessoal e intransferível. Ausência de falha na prestação de serviço da ré em decorrência de fortuito externo. Colaboração da vítima, mesmo sem saber do golpe. Culpa de terceiro fraudador. Nexo causal rompido. Aplicabilidade do art. 14, §3º, II, do CDC. Sentença mantida. RECURSO DESPROVIDO
+Sem embargos de declaração.
+No recurso especial, a recorrente alega violação dos arts. 6º, VIII, do CDC e 373, §1º, do CPC. Sustenta que houve negativa indevida da inversão do ônus da prova, apesar da hipossuficiência técnica e informacional da recorrente e da verossimilhança das alegações em contexto de fraude, que é necessária a redistribuição do ônus probatório diante da dificuldade técnica da consumidora de demonstrar relação da recorrida com os estelionatários e que houve cerceamento de defesa pelo indeferimento de prova pericial técnica essencial
+Afirma ainda que houve violação dos arts. 14 do CDC e 927 do CC, em razão da responsabilidade objetiva da fornecedora de serviços (processadora de pagamentos) pelo dano, com nexo causal entre a prestação do serviço e o prejuízo sofrido. Afirma que não se aplica a excludente de culpa exclusiva do consumidor ou de terceiro.
+Oferecidas contrarrazões ao recurso especial (fls. 197-203), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 204-206), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. GOLPE DO FALSO EMPREGO.
+1. Cerceamento de defesa afastado pelo Tribunal de origem, que, de forma fundamentada, indeferiu a prova pericial por desnecessária, sendo o juiz o destinatário da prova. Revisão que demanda reexame do conjunto fático-probatório. Súmula n. 7/STJ.
+2. Reconhecimento de fortuito externo e de ausência de nexo causal entre a conduta da recorrida e o dano, com afastamento da responsabilidade objetiva (art. 14, § 3º, II, do CDC). Pretensão recursal que exigiria revolvimento de fatos e provas. Súmula n. 7/STJ.
+Agravo conhecido. R ecurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação indenizatória, na qual a autora busca restituição de valores transferidos em golpe do "falso emprego", imputando responsabilidade à processadora de pagamentos por falha na prestação de serviços e pleiteando inversão do ônus da prova, produção de prova pericial e condenação por danos materiais.
+Com relação à alegação de cerceamento de defesa, o Tribunal de origem manifestou-se da seguinte maneira (fl. 174):
+A perícia não seria capaz de comprovar se foram adotadas pela ré todas as medidas necessárias para prevenir a fraude, porque as transações não partiram, nem foram direcionadas aos servidores da ré. A autora utilizou sua conta bancária na Caixa Econômica Federal para realizar transações para contas mantidas na instituição de pagamentos "Pagseguro". A ré foi intermediadora apenas dos pagamentos feitos.
+Assim, verifica-se que o acórdão se coaduna com a jurisprudência desta Corte Superior, segundo a qual "pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, por meio de decisão fundamentada, indefere-se pedido de dilação da instrução probatória." (AgInt no AREsp n. 2.349.413/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Ademais, é cediço que a revisão das conclusões acerca da desnecessidade da prova requerida pela recorrente esbarra na Súmula 7/STJ. A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. CERCEAMENTO DE DEFESA. AUSÊNCIA. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA.
+1. Ação de obrigação de fazer, visando o fornecimento de medicamento para tratamento de câncer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração. Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. Sendo o juiz o destinatário final da prova, cabe a ele, em sintonia com o sistema de persuasão racional adotado pelo CPC, dirigir a instrução probatória e determinar a produção das provas que considerar necessárias à formação do seu convencimento.
+4. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário
+5. Considera-se abusiva a negativa de cobertura de medicamentos para o tratamento de câncer. Precedentes de ambas as Turmas que compõe a 2ª Seção do STJ.
+6. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+7. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.345.199/RO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Segundo a jurisprudência desta Corte Superior, "O fato de as testemunhas do documento particular não estarem presentes ao ato de sua formação não retira a sua executoriedade, uma vez que as assinaturas podem ser feitas em momento posterior ao ato de criação do título executivo extrajudicial, sendo as testemunhas meramente instrumentárias" (AgInt no AREsp 1183668/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2018, DJ 09/03/2018).
+1.1. Ademais, de acordo a jurisprudência deste Tribunal Superior, em casos excepcionais, mitiga-se a exigência da assinatura das duas testemunhas no contrato celebrado, de modo a lhe ser conferida executividade, quando os termos do pactuado possam ser aferidos por outro meio idôneo. Incidência da Súmula 83 do STJ.
+1.2. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência dos requisitos necessários para a validade do título executivo (certeza, liquidez e exigibilidade), forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ.
+2. A jurisprudência do STJ é firme no sentido de que o indeferimento do pedido de produção de provas e o julgamento do mérito da demanda não configuram cerceamento de defesa quando constatada a existência de provas suficientes para o convencimento do magistrado, como ocorreu na hipótese. A alteração do acórdão impugnado com relação à suficiência das provas acostadas aos autos demandaria o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, a teor da Súmula 7/STJ.
+3. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.929.197/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+No mérito, o Tribunal de origem consignou que não há indícios de que os golpistas têm qualquer relação com a empresa requerida, que a recorrente sequer apresentou as mensagens supostamente trocadas com os golpistas, e que a única ligação da autora com a requerida é que foram feitas duas transferências em favor da autora, pelos supostos golpistas, utilizando a plataforma de pagamentos da requerida (fl. 177):
+In casu, analisando o próprio relato da apelante, percebe-se que ela foi vítima de golpe comumente chamado de "golpe do falso emprego", que ocorre quando fraudadores enviam mensagens para as vítimas, oferecendo oportunidade de emprego. Os golpistas afirmam que a vítima será remunerada por cumprir tarefas, mas, para tanto, exigem a realização prévia de transferências bancárias.
+Assim, a concretização do golpe depende da colaboração involuntária da vítima que realiza as transações sem se certificar se está realmente se comunicando com representantes da suposta empresa empregadora.
+No mais, nota-se que a autora não apresentou nenhum comprovante, ou mesmo indício, de que os criminosos eram prepostos da empresa ré. Nem mesmo as conversas supostamente mantidas com os golpistas pelo "Telegram" foram apresentadas pela autora. O único liame entre a autora e a empresa ré se materializa pelas duas transferências bancárias supostamente realizadas pelos golpistas, em favor da autora, utilizando a plataforma da ré como intermediadora. As demais transferências foram realizadas pela conta bancária da autora na "Caixa Econômica Federal" em favor de contas mantidas na instituição de pagamentos "Pagseguro".
+Não há, portanto, como imputar a responsabilidade à empresa ré pelo golpe sofrido, porque se trata de fortuito externo.
+Afastar o referido entendimento para concluir no sentido de que há nexo causal e responsabilidade objetiva da recorrida pela fraude, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido, cito:
+DIREITO CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. GOLPE DO BOLETO. PAGAMENTO DE VALORES A TERCEIRO. CULPA EXCLUSIVA DA CONSUMIDORA. FALTA DE COMPROVAÇÃO DE FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que afastou a responsabilidade objetiva da instituição financeira por golpe cometido por terceiro mediante emissão de boletos fraudulentos, reconhecendo a ausência de falha nos serviços prestados.
+2. O Tribunal de origem concluiu que os pagamentos realizados pela autora foram destinados a pessoa estranha à relação contratual, não havendo comprovação de que o redirecionamento ao contato fraudulento tenha ocorrido por meio do aplicativo da instituição financeira.
+Considerou que a consumidora agiu com imprudência ao repassar espontaneamente seus dados, mesmo após alertas sobre a possibilidade de fraude.
+3. A decisão de origem entendeu não caracterizado o fortuito interno e reconheceu a culpa exclusiva da autora pelos danos sofridos.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a responsabilidade objetiva da instituição financeira pode ser reconhecida diante de golpe praticado por terceiro mediante boletos falsos, sem comprovação de falha nos canais oficiais da instituição.
+III. Razões de decidir
+5. A responsabilidade civil das instituições financeiras, no âmbito das relações de consumo, é objetiva, nos termos do artigo 14 do Código de Defesa do Consumidor, sendo afastada pela demonstração de inexistência de falha na prestação do serviço ou da culpa exclusiva do consumidor ou de terceiro.
+6. A análise das provas realizada pelo Tribunal de origem evidenciou a inexistência de nexo de causalidade entre a conduta da instituição financeira e o prejuízo suportado pela autora, afastando a responsabilidade do banco.
+7. O reexame do conjunto fático-probatório fixado na instância ordinária é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+IV. Dispositivo 8. Recurso especial não conhecido.
+(REsp n. 2.142.292/DF, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.900, observada eventual concessão de gratuidade de justiça.
+É como penso. É como voto.
