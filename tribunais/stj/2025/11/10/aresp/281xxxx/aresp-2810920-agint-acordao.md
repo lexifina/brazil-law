@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. FALECIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LMA TRANSPORTES E PARTICIPAÇÕES LTDA. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu de agravo em recurso especial em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação aos fundamentos de inadmissibilidade do recurso especial, consistentes na aplicação das Súmulas 7 e 83/STJ e na ausência de indicação do dispositivo objeto da divergência (Súmula 284/STF).
+Nas razões do presente agravo interno, a agravante sustenta, em síntese, que a decisão deve ser reformada, pois os fundamentos de inadmissibilidade foram impugnados especificamente em seu agravo.
+Impugnação ao agravo interno às fls. 833-840.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. FALECIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) a incidência da Súmula 7/STJ quanto aos arts. 10 e 485, VI, do Código de Processo Civil e aos arts. 524 e 1.267, caput, do Código Civil, por demandar reexame do acervo fático-probatório acerca da ilegitimidade passiva; b) a incidência da Súmula 7/STJ quanto ao art. 944 do Código Civil, por envolver reavaliação do valor indenizatório à luz das peculiaridades do caso; c) a inadmissibilidade pela alínea "c" do art. 105, III, da Constituição Federal, em razão da necessidade de reexame de provas (Súmula 7/STJ); d) a incidência da Súmula 83/STJ, por o acórdão recorrido estar conforme a jurisprudência do STJ no que toca ao termo final do pensionamento e aos parâmetros de danos morais; e) a ausência de indicação do dispositivo de lei federal objeto da divergência quanto ao termo inicial dos juros moratórios, atraindo a Súmula 284/STF; e f) a deficiência do cotejo analítico para a alínea "c", nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do Regimento Interno deste STJ (fls. 643-650).
+Nas razões do seu agravo em recurso especial a parte agravante apenas reiterou os argumentos apresentados em seu recurso especial, não tendo demonstrado o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento dos óbice sumulares apontados.
+A propósito, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, observo que, nas razões do seu recurso especial a parte pretende, em resumo, (i) o reconhecimento da ilegitimidade passiva por alienação prévia com reserva de domínio e tradição; (ii) a redução do valor dos danos morais por suposta afronta ao art. 944 do Código Civil; (iii) a fixação dos juros de mora a partir do arbitramento ou da citação; e (iv) a limitação do pensionamento da filha até os 18 anos (fls. 540-562).
+No caso dos autos, o Tribunal de origem entendeu que, à luz do contrato com reserva de domínio e da ausência de quitação integral na data do evento, a propriedade permanecia com a vendedora. Ademais, reconheceu culpa exclusiva do condutor do ônib us no acidente de trânsito que ocasiono u o falecimento da esposa/genitora dos autores, fixando danos morais no total de R$ 100.000,00 (cem mil reais) e estabelecendo pensionamento em 2/3 do salário mínimo para viúvo e filha, com termo final na data em que a falecida completaria 65 anos para o viúvo e aos 25 anos para a filha (se estudando, senão aos 18). Também fixou juros de mora desde o evento danoso, conforme a Súmula 54/STJ (fls. 512-520).
+Assim como consignado na decisão que não admitiu o recurso especial, a revisão da ilegitimidade passiva, a alteração do valor indenizatório e a rediscussão dos termos do pensionamento e dos juros esbarram nos óbices das Súmulas 7/STJ e 83/STJ, além de incidir a Súmula 284/STF quanto à divergência sem indicação do dispositivo legal.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
