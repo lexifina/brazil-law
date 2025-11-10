@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. CLÁUSULAS CONFLITANTES. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que declarou a nulidade de leilão extrajudicial realizado em contrato de compra e venda de imóvel, em razão de cláusulas conflitantes no contrato, aplicando-se a mais favorável ao consumidor.
+2. O acórdão recorrido entendeu que o leilão extrajudicial não era aplicável ao caso, considerando que a cláusula contratual que previa o leilão era conflitante com outra cláusula que dispunha sobre a resolução do contrato com restituição de valores pagos, após retenção de 50%, sendo esta última mais favorável ao consumidor.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o leilão extrajudicial previsto no contrato de compra e venda de imóvel é válido, considerando a existência de cláusulas conflitantes e a aplicação do art. 63 da Lei nº 4.591/1964.
+III. Razões de decidir
+4. É certo que os precedentes desta Corte Superior sobre a matéria são no sentido de que a execução instituída pela Lei n. 4.591/1964 possibilitou a realização de leilão extrajudicial. Uma condição, contudo, se apresenta inafastável: deve a opção pela utilização do leilão extrajudicial constar sempre, previamente, do contrato estabelecido entre as partes envolvidas na incorporação.
+5. O acórdão recorrido entendeu que o leilão extrajudicial não era aplicável ao caso, considerando que a cláusula contratual que previa o leilão era conflitante com outra cláusula que dispunha sobre a resolução do contrato com restituição de valores pagos, após retenção de 50%, sendo esta última mais favorável ao consumidor.
+6. A revisão do entendimento adotado pela Corte de origem demandaria o reexame de cláusulas contratuais e do suporte fático-probatório, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7 do STJ.
+IV. Dispositivo
+7. Resultado do Julgamento: Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por TOBIAS BARRETO EMPREENDIMENTO IMOBILIÁRIO SPE LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (e-STJ, fls. 5.514-5.515):
+COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR INADIMPLEMENTO. DEVOLUÇÃO DE QUANTIAS PAGAS. Sentença de parcial procedência, condenando a ré a pagar à autora R$ 361.054,32, correspondente a 80% do valor pago Irresignação da ré e recurso adesivo da autora.
+1. CITAÇÃO VÁLIDA. Recebimento de citação pelo correio, por portaria do condomínio edilício (art. 248, §§2º e 4º, CPC).
+2. RESOLUÇÃO DO CONTRATO. Inadimplemento do comprador. Leilão extrajudicial inválido. Contrato que prevê duas maneiras de rescisão do contrato: por retomada do bem pela vendedora e retenção de quantias pagas, ou realização de leilão extrajudicial. Aplicação da cláusula mais favorável ao consumidor (arts. 6º, V, e 51, IV, CDC). Inaplicabilidade do artigo 63 da Lei 4.591/1964, cuja incidência é apenas aos casos de incorporação imobiliária por iniciativa de conjunto de condôminos, para executar a parte ideal de condômino inadimplente. Incorporação imobiliária comum realizada pela ré, construtora empresarial. Nulidade do leilão extrajudicial realizado.
+3. RESOLUÇÃO POR CULPA DA COMPRADORA. Mora da vendedora em concluir as obras e entregar o imóvel, reconhecida em outro processo, que não importa em exceção de contrato não cumprido à compradora (art. 476, CC). Exceção para o pagamento do saldo do preço pela compradora até a data em que efetivamente concluídas as obras. Mora da compradora no pagamento do saldo do preço a partir da conclusão das obras. Inadimplemento da indenização por atraso da conclusão das obras que não inviabiliza a cobrança do saldo do preço pela vendedora, mas apenas poderia importar em seu abatimento, por compensação (art. 368, CC). Culpa da compradora para a resolução do contrato.
+4. RETENÇÃO DE QUANTIAS PAGAS. Cláusula que prevê descontos de dívidas do imóvel e retenção de 50%. Abusividade ao consumidor. Redução de cláusula contratual abusiva (art. 6º, V, CDC; e art. 413, CC). Limitação do percentual de retenção a 25% dos valores pagos. Precedentes do STJ. Limite percentual posteriormente fixado pela Lei 13.786/2018, que incluiu o artigo 67-A à Lei 4.591/1964, o que deve ser considerado como baliza ao contrato, apesar da impossibilidade de aplicação retroativa da lei ao contrato. Devolução de 75% dos valores pagos, com correção monetária pela Tabela Prática do TJ-SP a partir da cada pagamento, e com juros de mora de 1% ao mês a partir da citação.
+5. JUSTIÇA GRATUITA DA RÉ. Recuperação judicial em tramitação. Comprometimento da capacidade financeira da empresa em recuperação judicial. Demonstração de incapacidade financeira para pagamento das custas do processo, quando da interposição do recurso. Súmula 481 do STJ. Justiça gratuita deferida à ré (arts. 98 e 99, CPC).
+6. SENTENÇA PARCIALMENTE REFORMADA. Parcial provimento do apelo da ré para condenar a ré a restituir à autora 75% dos valores pagos e para deferir a ela os benefícios da Justiça Gratuita. RECURSO DA RÉ PARCIALMENTE PROVIDO E RECURSO ADESIVO DA AUTORA DESPROVIDO
+Nas razões do recurso especial, o recorrente aponta violação dos artigos 1º, VI e VII, da Lei nº 4.864/65, e 63, caput e § 2º, da Lei nº 4.591/64.
+Sustenta que "o Tribunal a quo fundamentou a invalidade do leilão na suposta inaplicabilidade do artigo 63 da Lei nº 4.591/64, por se tratar de incorporação comum, quando só poderia ser aplicado na hipótese de incorporação constituída em condomínio. Entretanto, o entendimento constitui afronta à norma extraída do artigo 1º, incisos VI e VII, da Lei nº 4.864/65, que estendeu ao incorporador a faculdade de resolução do Contrato nos termos do artigo 63 da Lei nº 4.591/64.  .. . Ora, o entendimento adotado pelo Tribunal a quo representa manifesta afronta à regra extraída do 63 da Lei nº 4.591/64, na medida que garante ao contratante inadimplente (adquirente/Recorrida) o direito de ser parcialmente ressarcido, para além dos valores que sobejaram do leilão extrajudicial". (e-STJ, fls. 5.570-5.573)
+Foram oferecidas contrarrazões (e-STJ, fls. 5.605/5.615).
+É o relatório.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. LEILÃO EXTRAJUDICIAL. CLÁUSULAS CONFLITANTES. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que declarou a nulidade de leilão extrajudicial realizado em contrato de compra e venda de imóvel, em razão de cláusulas conflitantes no contrato, aplicando-se a mais favorável ao consumidor.
+2. O acórdão recorrido entendeu que o leilão extrajudicial não era aplicável ao caso, considerando que a cláusula contratual que previa o leilão era conflitante com outra cláusula que dispunha sobre a resolução do contrato com restituição de valores pagos, após retenção de 50%, sendo esta última mais favorável ao consumidor.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o leilão extrajudicial previsto no contrato de compra e venda de imóvel é válido, considerando a existência de cláusulas conflitantes e a aplicação do art. 63 da Lei nº 4.591/1964.
+III. Razões de decidir
+4. É certo que os precedentes desta Corte Superior sobre a matéria são no sentido de que a execução instituída pela Lei n. 4.591/1964 possibilitou a realização de leilão extrajudicial. Uma condição, contudo, se apresenta inafastável: deve a opção pela utilização do leilão extrajudicial constar sempre, previamente, do contrato estabelecido entre as partes envolvidas na incorporação.
+5. O acórdão recorrido entendeu que o leilão extrajudicial não era aplicável ao caso, considerando que a cláusula contratual que previa o leilão era conflitante com outra cláusula que dispunha sobre a resolução do contrato com restituição de valores pagos, após retenção de 50%, sendo esta última mais favorável ao consumidor.
+6. A revisão do entendimento adotado pela Corte de origem demandaria o reexame de cláusulas contratuais e do suporte fático-probatório, o que é vedado em sede de recurso especial, conforme as Súmulas 5 e 7 do STJ.
+IV. Dispositivo
+7. Resultado do Julgamento: Recurso especial não provido.
+VOTO
+O acórdão recorrido assim fundamentou a inaplicabilidade do leilão extrajudicial ao caso (e-STJ, fls. 5.517-5.518, grifei):
+Considere-se, também, que a cláusula 10.9 do contrato (ps. 46/47), que prevê o leilão, é conflitante com a cláusula 10.8 (ps. 45/46), que apenas dispõe sobre a possibilidade de resolução do contrato pela incorporadora, em razão do inadimplemento do comprador, com restituição de quantias pagas, após desconto de 50% por retenção. Deve-se aplicar a cláusula mais favorável ao consumidor, nos termos dos artigos 6º, inciso V, e 51, inciso IV, do Código de Defesa do Consumidor.
+Reforça esse entendimento o fato de o leilão não ter sido finalizado com a adjudicação do imóvel à ré, incorporadora vendedora, que providenciou a alienação do bem a terceiros, na sequência. Esse resultado prático é o mesmo que ocorreria com a aplicação da cláusula 10.8, pois, com a resolução do contrato, o imóvel seria reincorporado pela vendedora e ela poderia renegociá- lo a outros compradores.
+Por isso, realmente é inviável que se considere válido o leilão realizado pela ré: não se tratava de caso em que se poderia aplicar o artigo 63 da Lei 4.591/1964, pela natureza da incorporação realizada; por não se tratar de contrato de alienação fiduciária em garantia, em que seria cabível leilão (arts. 26 e ss., Lei 9.514/1997); e porque há cláusula mais favorável ao consumidor, a cláusula 10.8.
+É certo que os pre cedentes desta Corte Superior sobre a matéria são no sentido de que a execução instituída pela Lei n. 4.591/1964 possibilitou a realização de leilão extrajudicial.
+Uma condição, contudo, se apresenta inafastável: deve a opção pela utilização do leilão extrajudicial constar sempre, previamente, do contrato estabelecido entre as partes envolvidas na incorporação.
+A conferir:
+RECURSO ESPECIAL. DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM CONSTRUÇÃO. LEILÃO EXTRAJUDICIAL. ART. 63, § 1º DA LEI N. 4.591/1964. INTIMAÇÃO PARA COMUNICAÇÃO DA DATA E HORA DO LEILÃO. DESNECESSIDADE.
+1. Com a entrada em vigor do Código Civil de 2002, parte da Lei n. 4.591/1964, que dispõe sobre a constituição e registro das incorporações imobiliárias, foi revogada, passando o diploma civil a disciplinar o tema nos seus artigos 1.331 a 1.358.
+2. A revogação parcial da Lei n. 4.591/1964 não atingiu a previsão constante de seu art. 63, consistente na execução extrajudicial do contratante faltoso em sua obrigação de pagamento das prestações do preço da construção.
+3. A execução instituída pela Lei n. 4.591/1964 possibilitou a realização de leilão extrajudicial, devendo, no entanto, a opção por sua utilização constar sempre, previamente, do contrato estabelecido entre as partes envolvidas na incorporação.
+4. A necessidade de previsão contratual da medida expropriatória extrajudicial, e a ocorrência de prévia interpelação do devedor para que seja constituído em mora, dão a essa espécie de execução elementos satisfatórios de contraditório, uma vez que a interpelação será absolutamente capaz de informar o devedor da inauguração do procedimento, possibilitando, concomitantemente, sua reação.
+5. Nos termos da execução extrajudicial da Lei n. 4.591/1964, não é necessária a realização de uma segunda notificação do devedor com o objetivo de cientificá-lo da data e hora do Ieilão, após a interpelação que o constitui em mora.
+6. Recurso especial não provido.
+(REsp n. 1.399.024/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/11/2015, DJe de 11/12/2015, grifei.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE LEILÃO EXTRAJUDICIAL. VENDA DE UNIDADE AUTÔNOMA PELA COMISSÃO DE REPRESENTANTES DO CONDOMÍNIO. AUSÊNCIA DE PREVISÃO CONTRATUAL REEXAME DE PROVA.
+1. É inviável o recurso especial quando a deficiência em sua fundamentação impedir a exata compreensão da controvérsia. Aplicação da Súmula 7 desta Corte.
+2. Não se admite o recurso especial quando sua análise depende de reexame de matéria de prova (Súmula 7 do STJ).
+3. Não é possível a realização de leilão extrajudicial da quota-parte do condômino inadimplente se não há previsão contratual.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.251.151/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/8/2018, REPDJe de 21/09/2018, DJe de 21/8/2018, grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. ART. 63 DA LEI 4.591/64. PROCEDIMENTO EXPROPRIATÓRIO. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. "A execução instituída pela Lei n. 4.591/1964 possibilitou a realização de leilão extrajudicial, devendo, no entanto, a opção por sua utilização constar sempre, previamente, do contrato estabelecido entre as partes envolvidas na incorporação" (REsp 1.399.024/RJ, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 3/11/2015, DJe de 11/12/2015).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.330.803/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023, grifei.)
+No presente caso, o acórdão recorrido consignou expressamente, conforme acima transcrito, que tal previsão contratual não se apresentou extreme de dúvidas porque, na interpretação sistemática do contrato, cotejando-se as cláusulas indicadas no acórdão, apresentou-se conflito da previsão do leilão extrajudicial com previsão contratual inversa, que apenas dispõe sobre a possibilidade de resolução do contrato pela incorporadora, em razão do inadimplemento do comprador, com restituição de quantias pagas, após desconto de 50% por retenção.
+Adotou, então, a Corte de origem, na exegese contratual, a interpretação mais favorável ao consumidor, resolvendo-se o conflito de cláusulas com o afastamento da previsão do leilão extrajudicial em benefício da cláusula conflitante inversa e mais favorável ao consumidor.
+Nesse contexto, a modificação de tal entendimento, nos termos em que pleiteado pela parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, e interpretação das cláusulas contratuais, procedimentos inadmissíveis no âmbito do recurso especial, por força das Súmulas 5 e 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 15% (quinze por cento) para 16% (dezesseis por cento).
+É como voto.
