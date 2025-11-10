@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. NOVO EXAME. AÇÃO DE RESCISÃO CONTRATUAL. VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. CONEXÃO. SENTENÇA PROFERIDA EM UMA DAS DEMANDAS. INVIABILIDADE DE REUNIÃO DOS FEITOS PARA JULGAMENTO CONJUNTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão agravada. Novo exame do feito.
+2. Não se observa ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 quando o Tribunal de origem dirimiu fundamentadamente as questões que lhe foram submetidas e, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia. Precedentes.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+4. É pacífico nesta Corte que "não se determina a reunião de processos por conexão se um deles já foi julgado. Incidência da Súmula n. 235/STJ" (AgInt no AREsp n. 2.086.826/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conheço do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno, interposto por BALK CAPAO SERVICOS ADMINISTRATIVOS LTDA e OUTROS, contra decisão proferida pelo em. Ministro Presidente do STJ, às fls. 2.561/2.563, que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão de inadmissibilidade.
+Em suas razões recursais, a parte agravante sustenta, em síntese, ter impugnado especificamente os fundamentos da decisão de inadmissão do apelo nobre e reitera o mérito recursal.
+A parte agravada apresentou impugnação às fls. 2.579/2.594.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. NOVO EXAME. AÇÃO DE RESCISÃO CONTRATUAL. VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. CONEXÃO. SENTENÇA PROFERIDA EM UMA DAS DEMANDAS. INVIABILIDADE DE REUNIÃO DOS FEITOS PARA JULGAMENTO CONJUNTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão agravada. Novo exame do feito.
+2. Não se observa ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 quando o Tribunal de origem dirimiu fundamentadamente as questões que lhe foram submetidas e, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia. Precedentes.
+3. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+4. É pacífico nesta Corte que "não se determina a reunião de processos por conexão se um deles já foi julgado. Incidência da Súmula n. 235/STJ" (AgInt no AREsp n. 2.086.826/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conheço do agravo para negar provimento ao recurso especial.
+VOTO
+Afiguram-se relevantes os argumentos trazidos pela parte, razão pela qual reconsidero a decisão de fls. 524/525.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de BALK CAPAO SERVICOS ADMINISTRATIVOS LTDA e OUTROS, contra decisão que inadmitiu recurso especial fundado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Franquia. Apelação. Ação de rescisão contratual, com pleitos indenizatórios cumulados, movida por quatro franqueadas. Sentença de improcedência. Argumentos recursais que não convencem. Não comprovada qualquer falha no agir da apelada. Ausência de ofensa às disposições contratuais. Inocorrência de transferência, pela franqueadora ou seus sócios, do segredo do negócio a quem não era franqueado. Válida a previsão contratual expressa de comercialização, pelos franqueados, dos planos odontológicos. Cláusula de barreira. Previsão contratual hígida, com limitação temporal e territorial. Precedente, envolvendo a mesma franqueadora. Sentença mantida. Recurso desprovido." (fl. 2.436)
+Nas razões do apelo nobre (fls. 2.472/2.495), BALK CAPAO SERVICOS ADMINISTRATIVOS LTDA e OUTROS apontam ofensa aos arts. 55, 369, 489, 1.022 e 1.025 do Código de Processo Civil, sustentam, em síntese:
+a) negativa de prestação jurisdicional;
+b) cerceamento de defesa, ante o indeferimento de prova testemunhal e depoimento pessoal; e
+c) a conexão e a prevenção entre a presente ação e a de nº 1072708-90.2021.8.26.0100 teriam sido desconsideradas, quando seria imprescindível o julgamento conjunto pelos mesmos fundamentos e partes, o que teria gerado nulidade por ofensa à regra de reunião dos processos conexos.
+Contrarrazões às fls. 2.501/2.513.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 2.516/2.518), motivando o agravo em recurso especial (fls. 2.521/2.537) em tela.
+Passo a decidir.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 489, 1.022 e 1.025 do Código de Processo Civil de 2015. Isso, porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Nos termos da jurisprudência pacífica desta Corte, não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese defendida pela parte.
+Nesse sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO CARACTERIZADA. DESPESAS CONDOMINIAIS. PENHORA DE BEM DE FAMÍLIA. POSSIBLIDADE. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, III e IV, 1.022, II e 1.025 do CPC quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+(..)
+3. Agravo interno não provido."
+(AgInt no AREsp n. 2.030.636/PR, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022 - g. n.)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE INDIVIDUAL. REAJUSTE POR MUDANÇA DE FAIXA ETÁRIA. TEMA REPETITIVO N. 952 DO STJ (RESP 1.568.244/RJ). LEGALIDADE. VALORES DESPROPORCIONAIS. DISCRIMINAÇÃO CONTRA IDOSO. IMPOSSIBILIDADE. PERÍCIA EM CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE. DISTINGUINSHING. PROVA TÉCNICA OBSTADA PELA OPERADORA DO PLANO DE SAÚDE. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+9. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.991.755/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022)
+O eg. Tribunal a quo afastou a alegação de cerceamento de defesa, manifestando-se nos seguintes termos:
+"De início, afasta-se a tese de cerceamento de defesa.
+Desnecessária a realização de prova oral, pois da análise das provas já coligidas aos autos, naquilo que, ao menos em tese, possa ser provado por meio de depoimentos pessoais, viável o enfrentamento do mérito da demanda.
+Note-se, ainda, que a prova pericial (nos sistemas) foi requerida apenas pela apelada (ré), a despeito de, como bem salientado na r. sentença, ser da autora "o ônus de produzir prova constitutiva do direito  ..  (art. 373, I, CPC), de forma que a iniciativa para comprovar a similaridade (ou identidade) entre os sistemas SISOS (SISO/Docbiz nas palavras da autora) e Docbiz deveria partir das autoras", devendo o mesmo raciocínio ser aplicado, à postulada realização de prova pericial contábil (fls. 2.204/2.205).
+Em arremate, vale salientar que, estando presentes os requisitos legais, não é apenas faculdade, senão que verdadeiro dever-poder de o Estado-Juiz passar ao imediato julgamento do mérito, inclusive em homenagem ao princípio constitucional da razoável duração do processo (CRFB, art. 5º, LXXVIII)." (fl. 2.439)
+Consoante a jurisprudência desta Corte Superior, não configuram cerceamento de defesa as hipóteses em que o Tribunal de origem considera o feito devidamente instruído, reputando desnecessária a produção de provas para a decisão, por se tratar de matéria eminentemente de direito ou de fato já comprovado documentalmente, como é o caso dos autos. A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. DIREITO DE VIZINHANÇA. CERCEAMENTO DE DEFESA COM O JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE NOVA PROVA PERICIAL. REEXAME. SÚMULA 7/STJ. SENTENÇA EXTRA PETITA. NÃO OCORRÊNCIA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior consigna que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento.
+1.1 Por outro lado, infirmar o entendimento alcançado pelo acórdão recorrido - com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção da prova pericial, tal como busca a insurgente - esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça, sendo inviável a revaloração jurídica.
+2. O entendimento adotado pelo Tribunal local está em sintonia com a jurisprudência desta Corte Superior, no sentido de que não configura julgamento ultra e extra petita o provimento jurisdicional inserido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial.
+2.1 Na espécie, o Tribunal de origem, a partir da interpretação lógico-sistemática da petição inicial, entendeu pela não ocorrência de julgamento extra petita, atestando a existência dos pedidos implícitos de condenação da demandada a proceder aos reparos no imóvel da autora em razão de vazamento alegadamente originário da cobertura, além de indenização pelos danos causados.
+3. Agravo interno improvido."
+(AgInt nos EDcl no AREsp n. 2.667.776/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 28/10/2024, DJe de 5/11/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. NÃO CONFIGURADAS. CERCEAMENTO DE DEFESA. PERÍCIA CONTÁBIL. DESNECESSIDADE. SÚMULA 7 DO STJ. ART. 492 DO CPC. JULGAMENTO EXTRA PETITA. INEXISTENTE. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova.
+3. Não implica julgamento fora do pedido a concessão de tutela jurisdicional que se encontra, ainda que implicitamente, abrangida no pedido formulado na petição inicial ou no recurso, extraída mediante sua interpretação lógico-sistemática.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.823.352/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024, g.n.)
+Ademais, a análise da suficiência ou não dos elementos probatórios constantes dos autos, bem como da necessidade de produção de provas adicionais, é questão de competência das instâncias ordinárias cuja análise, nesta instância, encontra óbice no teor da Súmula 7/STJ.
+Avançando, o Tribunal de origem rejeitou a reunião por conexão porque suscitada apenas após a sentença. Leia-se, a propósito, o seguinte trecho do v. acórdão:
+"Ademais, não há qualquer vício na sentença por não ter havido o julgamento conjunto com o processo 1072708- 90.2021.8.26.0100, movido pela apelada em face dos apelantes e de Sabrina Balkanyi. Com efeito, de regra, devem os processos de ações conexas, como se verifica in casu, serem reunidos para decisão conjunta (art. 55 do CPC, primeira parte).
+Contudo, no presente feito, o alerta ao juízo acerca da existência de conexão apenas se deu após a sentença, por ocasião da interposição de embargos de declaração em face do decisum então proferido.
+Assim, tem lugar a exceção prevista no próprio art. 55, em sua parte final, verbis: "salvo se um deles já houver sido sentenciado".
+Foi preciso o juízo sentenciante ao julgar os embargos de declaração opostos pelas ora apelantes: "Consigne-se que a conexão dos feitos não foi suscitada por nenhuma das partes no decorrer do trâmite processual, não havendo qualquer decisão neste processo que determinasse a reunião dos autos para julgamento conjunto. Ademais, a reunião dos processos em razão de conexão se trata de regra de modificação de competência relativa, e, portanto, de natureza não cogente, cuja inobservância não acarreta a nulidade pretendida." (fl. 2.224)." (fls. 2.440/2.441)
+Assim, a diretriz adotada está alinhada à jurisprudência do Superior Tribunal de Justiça, firmada sob a égide do CPC/73, segundo a qual a conexão não implica a reunião dos processos quando um deles já se encontra julgado (Súmula 235/STJ), como no caso; entendimento que, com maior razão, se estende ao CPC/15, que traz previsão expressa nesse sentido (art. 55, §1º).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OFENSA AOS ARTS. 489 E 1.022 DO CPC. CONEXÃO AFASTADA. PROCESSO COM SENTENÇA TRANSITADA EM JULGADO. SÚMULA 235 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há que se falar em ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Nos termos do enunciado constante na Súmula 235 do STJ: "A conexão não determina a reunião dos processos, se um deles já foi julgado."
+3. No caso, rejeitou-se a alegada violação das regras de conexão processual, uma vez que um dos processos já foi sentenciado, tendo o dispositivo, inclusive, transitado em julgado, aplicando-se a mencionada Súmula 235/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.365.461/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. CONEXÃO. FACULDADE DO JULGADOR. SÚMULA N. 235/STJ. SENTENÇA PROFERIDA EM UMA D AS DEMANDAS. AGRAVO INTERNO DESPROVIDO.
+1. O juiz tem a faculdade, e não a obrigação, de reconhecer a conexão entre duas ou mais demandas à luz da matéria controvertida e a fim de evitar a prolação de decisões conflitantes em litígios semelhantes, o que afasta a obrigatoriedade do julgamento simultâneo dos feitos.
+2. Não se determina a reunião de processos por conexão se um deles já foi julgado. Incidência da Súmula n. 235/STJ.
+3 . Agravo interno desprovido."
+(AgInt no AREsp n. 2.086.826/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo e nego provimento ao recurso especial.
+É como voto.
