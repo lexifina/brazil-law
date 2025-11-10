@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Tratam os autos de embargos de declaração opostos por EDITH LOPES ROCHA LISBOA contra o v. acórdão, proferido pela eg. Quarta Turma, assim ementado:
+PROCESSUAL CIVIL. AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. INTERPOSIÇÃO DE TRÊS RECURSOS. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. ANÁLISE APENAS DO PRIMEIRO AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA. SEGUNDO E TERCEIRO AGRAVO INTERNO NÃO CONHECIDOS.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. A interposição de três recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo e do terceiro recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões.
+4. Primeiro agravo interno não conhecido, com aplicação de multa. Segundo e terceiro agravo interno não conhecidos.
+Nas razões dos aclaratórios, a parte embargante afirma que "O acórdão recorrido deixou de se manifestar sobre a existência de contrato superveniente firmado em 2021, que constituiu verdadeira novação, substituindo a avença anterior e afastando qualquer alegação de quitação relativa ao contrato de 2018. Essa omissão é grave, pois altera por completo a solução da lide. " (fl. 2373, e-STJ).
+Argumenta, também, que "(..) Há contradição insanável: o julgado reconheceu quitação plena com base em termo de 2018, ignorando prova inequívoca de que em 2021 houve novação contratual válida, inclusive reconhecida em precedentes análogos desta Corte e do TJSP. " (fls. 2373, e-STJ).
+Aduz, ainda, que "O acórdão não analisou as violações constitucionais arguidas, em especial:  Art. 5º, XXXV, CF - acesso à justiça e tutela jurisdicional efetiva;  Art. 5º, XXXVI, CF - proteção ao ato jurídico perfeito e à coisa julgada;  Art. 5º, LIV, CF - devido processo legal. A ausência de manifestação sobre tais dispositivos configura negativa de prestação jurisdicional, impedindo o exame pelo STF. " (fl. 3124, e-STJ).
+Intimado, JCIRCUITO DE COMPRAS SÃO PAULO SPE S.A. não apresentou impugnação, conforme certidão de fl. 2379, e-STJ.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, a Quarta Turma do STJ consignou que a ora embargante apresentou, na ocasião, três agravos internos em face de uma mesma decisão, não sendo conhecidos os dois últimos, em razão do princípio da unirrecorribilidade. Por sua vez, o primeira agravo (fls. 2267-2270) também não foi conhecido, por ofensa ao princípio da dialeticidade, incidindo o óbice da Súmula 182/STJ. A título elucidativo, confira-se (fls. 2364-2367, e-STJ):
+"Com relação ao primeiro agravo interno na petição 00465828/2025, às fls. 2267- 2270, a irresignação não merece sequer ser conhecido, visto que a parte agravante deixou de atacar, especificamente, os fundamentos adotados na decisão agravada. Com efeito, a decisão monocrática proferida pela Presidência do STJ, às fls. 2265- 2266, não conheceu do agravo em recurso especial, sob os seguintes fundamentos:
+(..)
+A parte agravante, contudo, em seu agravo interno, não impugnou de forma específica e consistente o único fundamento da decisão agravada. Apenas aduziu matéria alheia e argumentos díspares ao conteúdo do objurgado, defendendo que "decisum o ", fl. prequestionamento está formalizado nos termos da jurisprudência dominante do STJ 2268. Todavia, não rebateu, como lhe competia, a incidência da Súmula 182/STJ. Ora, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito de admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (erro in judicando)
+(..)
+Positivando o referido princípio, o art. 1.021, § 1º, do CPC/2015 determina que, na petição de agravo interno, o recorrente impugne especificadamente os fundamentos da decisão agravada. Outrossim, nos termos do art. 932 do CPC/2015, aplicável de forma geral aos recursos e processos originários dos Tribunais, incumbe ao relator:
+(..)
+Desse modo, constata-se a manifesta inadmissibilidade do agravo interno, ensejando não só o seu não conhecimento, mas também a aplicação da multa pecuniária prevista no § 4º do art. 1.021 do CPC/2015, que dispõe:
+(..)
+Por fim, os agravos internos constantes nas petições 0466174/2025 e 00521174/2025 , às fls. 2271/2274 e 2279/2283, respectivamente, também, não ultrapassam o juízo de . Isso, porque a multiplicidade de recursos interpostos pela mesma parte, a fim deadmissibilidade impugnar a mesma decisão, importa o não conhecimento dos recursos que foram interpostos após o primeiro, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. Nesse sentido:
+(..)
+Ante o exposto, não se conhece do primeiro agravo interno na petição 00465828 /2025, às fls. 2267-2270, aplicando à parte agravante a multa do art. 1.021, § 4º, do CPC/2015, no importe de 1% (um por cento) sobre o valor atualizado da causa, ressalvando que a interposição de qualquer outro recurso está condicionada ao depósito prévio da respectiva quantia, na forma do § 5º do mesmo dispositivo legal. Ainda, não se conhece dos agravos internos constantes nas petições 00466174/2025 e 00521174/2025, às fls. 2271 /2274 e 2279 /2283. É como voto. " (grifou-se)
+Nesse contexto, observa-se que não houve enfrentamento das matérias, uma vez que os recursos não foram conhecidos . Evidencia-se, pois, que os embargos de declaração em apreço representam mera tentativa de rediscutir temas devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+Como dito, os aclaratórios constituem recurso de estritos limites processuais cujo cabimento requer estejam presentes os pressupostos legais insertos no art. 1.022 do CPC/2015. Tal recurso, portanto, é incompatível com a pretensão de se obter efeitos infringentes.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, rejeitam-se os embargos de declaração.
+É como voto.
