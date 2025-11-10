@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CABIMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA ANÁLISE DOS CRITÉRIOS DE FIXAÇÃO DOS HONORÁRIOS.
+1. "O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo." (REsp n. 2.072.206/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025.)
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MULTIPLIKE SECURITIZADORA S.A. contra decisão de minha relatoria na qual dei provimento ao recurso especial interposto pela parte ora agravada, por meio do qual se buscava a reforma de acórdão do Tribunal de Justiça do Estado de São Paulo, que ficou assim ementado:
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. Honorários advocatícios. Não cabimento. Ausência de previsão legal. Inteligência do artigo 85, §1º, do CPC, que enumera, taxativamente, as hipóteses passíveis de fixação. Precedentes. Decisão mantida. RECURSO NÃO PROVIDO.
+Alega a parte agravante, em síntese, que a decisão no incidente de desconsideração da personalidade jurídica possui natureza interlocutória e não ensejaria, por ausência de previsão legal, a fixação de honorários de sucumbência.
+Aduz que o entendimento firmado pela Corte Especial, no julgamento do Recurso Especial nº 2.072.206/SP, "além de não possuir efeito vinculante, uma vez que ainda não transitou em julgado, também carece de prévia modulação de seus efeitos" (fl. 202).
+Sustenta, por fim, que eventual fixação de honorários deve observar o critério da equidade, conforme art. 85, § 8º, do Código de Processo Civil, diante da natureza meramente declaratória do incidente e da inexistência de proveito econômico imediato.
+Contrarrazões apresentadas às fls. 210/ 224, alegando, em síntese, que a decisão agravada está de acordo com a jurisprudência do STJ, que admite honorários em incidente de desconsideração da personalidade jurídica; que o precedente tem aplicação imediata; e que não cabe fixação por equidade no caso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDEFERIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CABIMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA ANÁLISE DOS CRITÉRIOS DE FIXAÇÃO DOS HONORÁRIOS.
+1. "O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo." (REsp n. 2.072.206/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025.)
+2. Agravo interno a que se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pela parte ora agravante não infirmam as conclusões adotadas na decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Conforme destacado na decisão agravada, o acórdão recorrido, ao entender pelo não cabimento de honorários no âmbito de incidente de desconsideração da personalidade jurídica, não está em conformidade com o entendimento firmado no julgamento do Recurso Especial nº 2.072.206/SP, por meio do qual a Corte Especial entendeu pelo cabimento de honorários sucumbenciais no âmbito de incidente de desconsideração da personalidade jurídica.
+De acordo com o voto do Relator, o Ministro Ricardo Villas Bôas Cueva, o incidente de desconsideração da personalidade jurídica tem por finalidade incluir terceiros no polo passivo da demanda, mediante ampliação subjetiva da lide, para responsabilizá-los por dívidas originalmente não contraídas por eles.
+Com isso, embora seja um incidente, a natureza jurídica é a de demanda incidental, com partes, causa de pedir e pedido. Sendo assim, na hipótese de indeferimento do pedido de desconsideração da personalidade jurídica, que resulta na não inclusão de sócio ou empresa que se pretendia alcançar com a instauração do incidente, é possível a fixação de verba honorária em favor daquele que foi indevidamente chamado a litigar em juízo.
+A propósito, confira-se a ementa do acórdão proferido no âmbito do Recurso Especial nº 2.072.206/SP:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NATUREZA JURÍDICA DE DEMANDA INCIDENTAL. LITIGIOSIDADE. EXISTÊNCIA. IMPROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. CABIMENTO. JURISPRUDÊNCIA DOMINANTE. SUPERAÇÃO.
+1. A controvérsia dos autos está em verificar se é possível a fixação de honorários advocatícios na hipótese de rejeição do pedido formulado em incidente de desconsideração da personalidade jurídica.
+2. Apesar da denominação utilizada pelo legislador, o procedimento de desconsideração da personalidade jurídica tem natureza jurídica de demanda incidental, com partes, causa de pedir e pedido.
+3. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+4. Recurso especial não provido.
+(REsp n. 2.072.206/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025.)
+Ademais, cumpre destacar, ainda, que a Corte Especial, ao examinar embargos de declaração opostos no REsp nº 2.072.206/SP, asseverou não ser necessária a modulação dos efeitos do julgado. Confira-se:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NATUREZA JURÍDICA DE DEMANDA INCIDENTAL. LITIGIOSIDADE. EXISTÊNCIA. IMPROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO. CABIMENTO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. MODULAÇÃO DE EFEITOS. DESCABIMENTO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+2. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+3. Descabimento da pretendida modulação de efeitos porque não há falar, propriamente, em modificação da jurisprudência consolidada, mas de adequação do entendimento à nova disciplina trazida pelo Código de Processo Civil de 2015, que deixou de tratar o instituto da desconsideração da personalidade jurídica como mero incidente processual e passou a conferir-lhe a característica de demanda incidental.
+4. Nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais em embargos de declaração, ainda que opostos para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 2.072.206/SP, Relator Min. Ricardo Villas Bôas Cueva, Corte Especial, DJEN de 04/06/2025).
+Por fim, registra-se que não é possível analisar o critério adequado para o arbitramento dos honorários no presente caso, pois, conforme indicado na decisão agravada, o Tribunal de origem não se pronunciou quanto aos critérios e à base de cálculo dos honorários advocatícios, à luz do arcabouço fático-probatório dos autos, razão pela qual fica inviabilizada a aplicação direta do entendimento firmado pelo STJ, sob pena de indevida supressão de instância e de análise de matéria fático-probatória.
+Desse modo, impõe-se a anulação do acórdão recorrido, a fim de que o Tribunal de origem aprecie o pedido de fixação de honorários com base na orientação firmada no Recurso Especial nº 2.072.206/SP.
+Não havendo, portanto, argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
