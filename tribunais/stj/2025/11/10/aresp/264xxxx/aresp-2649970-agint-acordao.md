@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. ART. 792 DO CPC. NÃO VERIFICADA. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A fraude à execução compreende ato de disposição patrimonial, com potencial de frustrar a satisfação do crédito exequendo, o que não foi verificado no caso.
+2. Se as questões em discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação dos arts. 489, § 1º, III, e 1.022 do Código de Processo Civil.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESPÓLIO DE VALDEMAR HAHN contra decisão singular de minha lavra que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (a) o acórdão recorrido abordou de forma suficiente e motivada as questões controvertidas, inexistindo omissão ou ausência de fundamentação; e (b) a revisão das conclusões da Corte estadual demandaria o reexame do acervo fático-probatório dos autos, procedimento vedado pela Súmula 7/STJ.
+Nas razões do presente agravo interno, o agravante alega, em síntese, que a decisão agravada incorreu em equívoco ao considerar que o acórdão recorrido teria enfrentado todas as questões controvertidas, pois não houve enfrentamento à alegação de má-fé dos donatários ao aceitarem a doação com cláusula de impenhorabilidade, estando cientes da pendência de ação que poderia levá-los à insolvência, o que, segundo alega, caracteriza fraude à execução. Argumenta que a decisão agravada confundiu a análise da má-fé do doador com a dos donatários, deixando de enfrentar a questão central do recurso especial. Por fim, defende que a apreciação da má-fé dos donatários não demanda reexame de provas, mas apenas valoração jurídica dos fatos incontroversos.
+Decorreu o prazo sem apresentação de impugnação (fl. 250).
+O recurso especial foi interposto contra acórdão assim ementado (fl. 74):
+DIREITO PROCESSUAL CIVIL - CUMPRIMENTO DE SENTENÇA - FRAUDE À EXECUÇÃO RECONHECIDA EM 1º GRAU - INCONFORMISMO DOS EXECUTADOS - DOAÇÃO REALIZADA POR ASCENDENTE PARA DESCENDENTES - DOADOR QUE NÃO INTEGRA A LIDE - AUSÊNCIA DE REGISTRO DA PENHORA AO TEMPO DA DOAÇÃO DOS BENS - AUSÊNCIA DE PROVA DE MÁ-FÉ DO DOADOR - FRAUDE À EXECUÇÃO INCONFIGURADA - DECISÃO REFORMADA - RECURSO PROVIDO. Sem o registro da constrição judicial dos bens doados pelo ascendente (terceiro) aos seus descendentes (devedores) ou comprovante do elemento subjetivo da má-fé destes, inocorre fraude à execução.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. ART. 792 DO CPC. NÃO VERIFICADA. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A fraude à execução compreende ato de disposição patrimonial, com potencial de frustrar a satisfação do crédito exequendo, o que não foi verificado no caso.
+2. Se as questões em discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação dos arts. 489, § 1º, III, e 1.022 do Código de Processo Civil.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+Originariamente, trata-se de cumprimento de sentença. Após a localização de imóveis em nome dos executados, o exequente alegou que as cláusulas de impenhorabilidade averbadas nas matrículas seriam ineficazes, visto que a execução seria antecedente à aquisição dos imóveis por meio de doação, configurando fraude à execução.
+O juízo de primeiro grau reconheceu a fraude, declarou a ineficácia das cláusulas de impenhorabilidade e deferiu a penhora dos imóveis, aplicando multa por ato atentatório à dignidade da justiça.
+O Tribunal de origem reformou a decisão, entendendo não haver fraude à execução, já que os aqui agravados, na condição de donatários, não alienaram nem oneraram bem, apenas recebendo-os a título de doação. Ademais, ressaltou-se que, sem o registro da constrição judicial dos bens doados ou a comprovação de má-fé do doador, não há fraude à execução. Em específico, foi destacado que não, no momento da doação, os executados apenas tinham sido citados na ação de conhecimento, inexistindo título, portanto. Além disso, não foi comprovada má-fé, a qual não pode ser presumida apenas pela transmissão dos bens entre familiares.
+Nesse sentido, confiram-se as seguintes passagens (fl. 77):
+No caso concreto, observa-se que os devedores, ora agravantes, não alienaram tampouco oneraram bens nas condições acima previstas a fim de ser evidenciada a fraude à execução.
+Ao contrário, os devedores receberam os imóveis, os quais foram doados com cláusula de impenhorabilidade, cujo afastamento pretende o exequente.
+Não se pode presumir a existência de má-fé, tão somente, pela alegação de que a transmissão dos bens se deu entre familiares, devendo haver a efetiva comprovação de que o avô tinha ciência sobre a possibilidade de seu filho e neto perderem o bem por força da ação judicial que na época sequer tinha sido sentenciada.
+Ademais, a doação com cláusula de impenhorabilidade, embora beneficie os devedores, é ato de disposição de vontade do doador, o qual merece ser respeitada. O argumento de que foi adiantamento de legítima a fim de frustrar o crédito do exequente é presumir o falecimento do doador e a aceitação da herança pelo devedor, tratando-se de acontecimentos futuros e incertos para subsidiar o acolhimento da tese de fraude à execução.
+Ademais, o neto sequer receberia a citada herança, a não ser que fosse por testamento, não se tratando de adiantamento da legítima quanto a este.
+O fato é que não houve diminuição de patrimônio dos devedores por ato praticados por eles, mas sim, recebimento de doação, a qual, o doador preferiu conceder a proteção que a lei lhe permitia.
+Aliás, a alienação para terceiro ocorreu em 20-4-2005 (fl. 93), anos antes da efetivação da penhora no feito executivo, ocorrida em 14-7-2011 e que não chegou a ser averbada (fl. 56).
+Assim, na hipótese, não havendo registro no título imobiliário, porque os bens doados pertenciam a terceiro, que não integra a lide, e a inexistência de prova quanto à má-fé do doador - qual não pode ser presumida, inviável o reconhecimento de fraude à execução.
+No que toca à alegação de vício de fundamentação no acórdão recorrido, em razão de suposta omissão sobre a "má-fé dos donatários", cumpre apontar que, segundo o Tribunal de origem, essa tese não fora mencionada pela ora agravante em suas contrarrazões ao agravo de instrumento. Veja-se (fls. 110-111):
+Isso porque as contrarrazões ofertadas pela parte embargante não fazem menção à má-fé dos donatários, mas tão somente do doador, além de todas as jurisprudências que fundamentam a peça tratarem de hipótese diversa: quando o doador é o devedor e se desfaz do bem doando-lhe aos descendentes. E, ainda que houvesse omissão no ponto, o fato é que foi respeitada a vontade do doador que estava livre para dispor de seus bens, podendo incluir condições, como a impenhorabilidade.
+Repisando-se, outrossim, no fato de que não houve comprovação da má-fé dos donatários, a qual não pode ser presumida - e que reputo ser irrelevante a apuração para o fim almejado pelos autos pelos próprios fundamentos constantes no acórdão recorrido.
+Dessa forma, nem ao menos poder-se-ia reputar omissão, se o agravante deixou de aventar a tese alegadamente omissa no momento processual adequado . Para além disso, afirmou expressamente que não foi comprovada a má-fé dos donatários.
+Ainda que assim não fosse, a Corte estadual enfrentou de forma suficiente e motivada as questões controvertidas, especialmente no que tange à impossibilidade de a doação realizada por terceiro configurar fraude à execução, nos termos do art. 792 do CPC, pois os devedores não alienaram nem oneraram bem nenhum.
+No caso, ao invés de dispor de patrimônio, os devedores foram beneficiados com a doação de bem imóvel por terceiro, hipótese que não se enquadra nas situações previstas no referido dispositivo legal. A fraude à execução compreende ato de disposição patrimonial, com potencial de frustrar a satisfação do crédito exequendo, o que não foi verificado no caso. Trata-se, portanto, de hipótese diversa daquela contemplada pelo art. 792 do CPC, razão pela qual não há falar em fraude à execução.
+Por fim, alterar a conclusão a que chegou o Tribunal de origem, no que se refere à não comprovação de má-fé por parte dos donatários, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
