@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO. AUSÊNCIA. VIOLAÇÃO DO DEVIDO PROCESSO LEGAL. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA PARTE CONHECIDA, A ELE NEGAR PROVIMENTO.
+1. Não há ofensa ao art. 1.022 do CPC, porquanto o Tribunal estadual decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação sati sfatória para dirimir o litígio.
+2. Rever os fundamentos do acórdão estadual para atestar a violação ao devido processo legal exigiria adentrar no exame dos fatos e das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7 do STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, na parte conhecida, a ele negar provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial in terposto por ANTONIO LIRA DO NASCIMENTO (ANTONIO) contra decisão que não admitiu seu apelo nobre manejado, por sua vez, com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. INSURGÊNCIA CONTRA O RECONHECIMENTO DA REVELIA SOB ALEGAÇÃO DE INDUÇÃO A ERRO PELO SISTEMA PROJUDI. NÃO ACOLHIMENTO. PRAZO PARA CONTESTAÇÃO QUE SE INICIA DA DATA DA AUDIÊNCIA DE CONCILIAÇÃO NOS TERMOS DO ARTIGO 335, INCISO I DO CPC. ALEGAÇÃO DE PROPRIEDADE DO IMÓVEL DISCUTIDA. INEXISTÊNCIA DE PROVA. INDENIZAÇÃO POR BENFEITORIAS. NÃO CABIMENTO. MÁ-FÉ CARACTERIZADA. CONSTRUÇÃO EM TERRENO ALHEIO. INSTRUÇÃO DEFICITÁRIA. IMPOSSIBILIDADE DE SE ESTABELECER SE AS BENFEITORIAS ERAM ÚTEIS, NECESSÁRIAS OU VOLUPTUÁRIAS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO. Tendo o apelante e seu procurador comparecido na audiência de conciliação (mov. 28.1), saíram intimados acerca da abertura de prazo para contestação, de modo que não há que se falar em erro de contagem de prazo pelo sistema. Não prospera a alegação do apelante de que comprou a casa dos fundos do terreno, já que não há provas robustas dessa alegação, quando seria exigido documento hábil a demonstrar a propriedade, sendo que as declarações de duas testemunhas juntadas no mov. 30.4 não amparam isoladamente a pretensão. No tocante a pretensão de indenização pelas benfeitorias realizadas no imóvel, importa destacar que segundo a narrativa da inicial, a autora/apelada jamais deu autorização para que o apelante realizasse reformas no imóvel e que quando elas começaram, a autora/apelada já havia solicitado que o apelante deixasse o imóvel, fatos estes que se tornam incontroversos diante do efeito material da revelia.
+No presente inconformismo, ANTONIO defendeu que o apelo nobre foi indevidamente inadmitido, pois a decisão da Corte estadual se encontra eivada de nulidade por falta de fundamentação adequada, além de a finalidade recursal não se cingir na reanálise dos fatos e das provas colhidas na demanda.
+Foi apresentada contraminuta (e-STJ fls. 548).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO. AUSÊNCIA. VIOLAÇÃO DO DEVIDO PROCESSO LEGAL. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA PARTE CONHECIDA, A ELE NEGAR PROVIMENTO.
+1. Não há ofensa ao art. 1.022 do CPC, porquanto o Tribunal estadual decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação sati sfatória para dirimir o litígio.
+2. Rever os fundamentos do acórdão estadual para atestar a violação ao devido processo legal exigiria adentrar no exame dos fatos e das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7 do STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, na parte conhecida, a ele negar provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, ANTONIO afirmou a violação dos arts. 1.022, II, 355, II, 344 e 349 do CPC, sustentando (1) a nulidade da decisão do TJRJ diante da negativa de prestação jurisdicional; e (2) que não foi observado o devido processo legal em virtude do indevido julgamento antecipado do mérito.
+(1) Da nulidade das decisões da instância ordinária
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Da violação do devido processo legal
+ANTONIO ainda afirmou a violação dos arts. 355, II, 344 e 349 do CPC, sustentando que houve julgamento antecipado do mérito de forma indevida.
+Sobre o tema, o TJPR consignou que não houve qualquer irregularidade na condução do feito que viesse a malferir o contraditório.
+Confira-se:
+Embora a jurisprudência deste Egrégio Tribunal venha flexibilizando as normas processuais relativas a contagem de prazos nas hipóteses de incorreção do sistema PROJUDI, faz-se necessário que o equívoco do sistema seja capaz de efetivamente induzir as partes e seus advogados a erro. No caso dos autos, contudo, não há que se falar em erro do sistema PROJUDI no tocante a intimação para apresentação de contestação, quando o artigo 335, inciso I do Código de Processo Civil assim dispõe:
+ ..
+Logo, não resta dúvida de que havendo audiência de conciliação o prazo para apresentação de contestação se inicia no dia subsequente a realização da referida audiência, independente de intimação posterior. Assim, tendo o apelante e seu procurador comparecido na audiência de conciliação (mov. 28.1), saíram intimados acerca da abertura de prazo para contestação, de modo que não há que se falar em erro de contagem de prazo pelo sistema. Por isso, não tendo o apelante apresentado sua contestação no prazo legal, correta a decisão que lhe aplicou a penalidade de revelia.
+Assim, rever as conclusões quanto ao fato processual que levou o feito a ser julgado antecipadamente demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. REVELIA. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO . 1. Não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/73. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente . 2. No caso, depreende-se que o Tribunal de origem julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de Recurso Especial, ante o óbice do enunciado da Súmula 7 deste Tribunal. Sendo o magistrado o destinatário da prova, compete a ele o exame acerca da necessidade ou não da produção do aporte requerido. 3 . O Tribunal de origem entendeu de acordo com o entendimento jurisprudencial desta Corte, o qual determina que havendo duplicidade de intimações prevalece a primeira validamente efetuada.Precedentes. 4. Agravo não provido.
+(AgRg no AgRg no AREsp 779.162/MS, Relator Ministro LUIS FELIPE SALOMÃO, Julgamento: 16/10/2018, QUARTA TURMA, DJe 22/10/2018 - destaque nosso.)
+Assim, o recurso não merece que dele se conheça quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para CONHECER em parte do apelo nobre e, na parte conhecida, a ele NEGAR PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de LAINA MARIA DOS SANTOS MULLER, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art 1.026, § 2º, do CPC.
+É o voto.
