@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. MEDICAMENTO. USO DOMICILIAR. EXCLUSÃO DA COBERTURA. LICITUDE.
+1. É lícita a exclusão, pelo Plano de Saúde, do fornecimento de medicamentos para tratamento domiciliar - ou seja, prescritos pelo médico assistente para administração em ambiente externo ao da unidade de saúde, excetuando-se os casos dos antineoplásicos orais (e correlacionados), medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Precedentes.
+2. Recurso especial a que se nega provimento .
+RELATÓRIO
+Trata-se de recurso especial interposto, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, por Lucas Thadeu dos Santos Trindade contra acórdão assim ementado (fls. 682-684):
+DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. SAÚDE SUPLEMENTAR. AUTOR DIAGNÓSTICO COM TRANSTORNO DO ESPECTRO AUTISTA - TEA SEVERO (CID10: F84), NECESSITANDO DE TRATAMENTO MEDICAMENTOSO IMPORTADO À BASE DE CANABIDIOL (CBD USA HEMP 3000MG FULL SPECTRUM). PRETENSÃO CONDENATÓRIA EM OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSATÓRIA DE DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO CÍVEL INTERPOSTA PELA RÉ. VISANDO À REFORMA INTEGRAL DO JULGADO.
+I. CASO EM EXAME
+1. Apelação Cível contra a sentença procedência dos pedidos que condenou a ré ao fornecimento do medicamento e a pagar o valor de R$ 5.000,00 (cinco mil reais) a título de indenização pelos danos morais.
+II. QUESTÃO EM DISCUSSÃO
+(i) Se é aplicado, ao caso, o Código de Defesa do Consumidor-CDC.
+(ii) Análise da obrigatoriedade de cobertura do produto pelo plano de saúde, à base de canabidiol (CBD USA HEMP 3000MG FULL SPECTRUM), à luz da legislação vigente e das normas da Agência Nacional de Saúde Suplementar (ANS).
+III. RAZÕES DE DECIDIR
+3.1. Acolho a preliminar para afastar a aplicação do CDC. Planos de saúde de autogestão, que não ostentam finalidade lucrativa, não se sujeitam às regras da lei nº 8.078/90. Súmula 608 do STJ.. Todavia, não há se falar em anulação da r. sentença.
+3.2. A cobertura assistencial dos planos de saúde está disciplinada pela Lei nº 9.656/98, que estabelece os serviços obrigatórios e as exclusões admitidas, em seus arts. 10, VI e 12, I, "c" e II, "g".
+3.3. No mesmo sentido, a Resolução Normativa (RN) nº 465/2021 da ANS prevê a exclusão do fornecimento de medicamentos para tratamento domiciliar, salvo nos casos expressamente excepcionados, que não é a hipótese dos autos.
+3.4. Prescrição médica (fls. 32) que indica ser a medicação pretendida de uso domiciliar, via oral, não existindo indicação, no referido documento, de que o fármaco é ministrado em ambiente hospitalar.
+3.5. Lícita a recusa de cobertura de medicação que não se enquadre como antineoplásico oral, de controle de efeitos adversos relacionados ao tratamento e adjuvantes, à medicação assistida (home care) e os constantes do correspondente rol da Agência Nacional de Saúde Suplementar ANS.
+IV. Dispositivo
+4. Recurso provido. Preliminar acolhida.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 14, 47 e 51, IV, § 1º, I e II, do Código de Defesa do Consumidor; art. 6º da Lei 9.656/98; e arts. 186 e 927 do Código Civil (fls. 713-723).
+Sustenta a aplicabilidade do Código de Defesa do Consumidor ao contrato, mesmo sendo a recorrida entidade de autogestão, afirmando ofensa aos arts. 14 e 51 do CDC. O recorrente invoca tese firmada em recurso repetitivo (Tema 1026/STJ), e transcreve, como suporte, os dispositivos legais que regem a responsabilidade do fornecedor de serviços e a nulidade de cláusulas abusivas.
+Defende a obrigatoriedade de cobertura do tratamento prescrito, ainda que fora do rol da ANS, com base no art. 6º da Lei 9.656/98 e na tese do Tema 1068/STJ. Afirma preenchidos os requisitos de inexistência de substituto terapêutico, recomendação médica expressa e necessidade do procedimento, e invoca a interpretação que privilegia a boa-fé e a função social do contrato, correlacionando as normas de cobertura obrigatória do plano com as exclusões, transcritas no acórdão recorrido.
+Alega a possibilidade de fornecimento de medicamento importado sem registro definitivo, quando autorizado pela Agência Nacional de Vigilância Sanitária, com base na RDC 660/2022. Cita a autorização expressa para importação por pessoa física, inclusive com intermediação de operadora de plano de saúde.
+Por fim, sustenta a configuração de dano moral pela negativa de cobertura, apontando violação dos arts. 186 e 927 do Código Civil, por se tratar de conduta abusiva e contrária à boa-fé, que impôs sofrimento indevido ao beneficiário em estado de vulnerabilidade (fls. 721-723).
+O recurso também aponta divergência jurisprudencial em torno das teses sobre: aplicação do Código de Defesa do Consumidor a entidades de autogestão; cobertura de tratamento essencial fora do rol da ANS; e possibilidade de fornecimento de medicamento importado sem registro com autorização sanitária excepcional (fls. 713-723).
+Contrarrazões às fls. 731-739, nas quais a parte recorrida alega: óbice ao conhecimento do recurso especial por pretender reanálise de fatos e de cláusulas contratuais (Súmulas 5/STJ e 7/STJ), transcrevendo os enunciados (fl. 733); licitude da negativa de fornecimento de medicamento de uso domiciliar não antineoplásico e fora do rol da ANS, com fundamento nos arts. 10, VI, e 12, I, "c", e II, "g", da Lei 9.656/98 e RN 465/2021/ANS (fls. 736-738); adequação do acórdão recorrido à jurisprudência do Superior Tribunal de Justiça sobre exclusões legais na saúde suplementar; e inexistência de violação de lei federal apta a ensejar o conhecimento do apelo (fls. 735-739).
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. MEDICAMENTO. USO DOMICILIAR. EXCLUSÃO DA COBERTURA. LICITUDE.
+1. É lícita a exclusão, pelo Plano de Saúde, do fornecimento de medicamentos para tratamento domiciliar - ou seja, prescritos pelo médico assistente para administração em ambiente externo ao da unidade de saúde, excetuando-se os casos dos antineoplásicos orais (e correlacionados), medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Precedentes.
+2. Recurso especial a que se nega provimento .
+VOTO
+O recurso não merece prosperar.
+Originariamente, trata-se de ação de obrigação de fazer cumulada com indenização por danos morais proposta por Lucas Thadeu dos Santos Trindade, representado por sua genitora, visando compelir a Caixa de Assistência dos Funcionários do Banco do Brasil - CASSI ao fornecimento do medicamento CBD USA HEMP 3000mg Full Spectrum, prescrito para controle de sintomas do Transtorno do Espectro Autista severo, além de compensação por danos morais (fls. 551-553).
+A sentença julgou procedentes os pedidos para condenar a ré ao fornecimento do medicamento mediante apresentação de laudos médicos semestrais, no prazo de cinco dias, e ao pagamento de R$ 5.000,00 (cinco mil reais) a título de danos morais, com correção a partir da publicação e juros desde a citação, fixando honorários em 10% (dez por cento) sobre o valor da condenação (fl. 553).
+O Tribunal de origem, em apelação da ré, acolheu a preliminar para afastar a aplicação do Código de Defesa do Consumidor a plano de saúde de autogestão e, no mérito, deu provimento ao recurso para indeferir o pedido inicial, reconhecendo a licitude da negativa de cobertura de medicamento de uso domiciliar não antineoplásico e não constante do rol da ANS, com base nos arts. 10, VI, e 12, I, "c", e II, "g", da Lei 9.656/98 e na RN 465/2021/ANS; afastou também a condenação por danos morais por inexistência de ilícito (fls. 682-699).
+O acórdão recorrido decidiu em conformidade com a jurisprudência do STJ, uma vez que esta Corte possui entendimento pacificado de que a cobertura de medicamentos para uso domiciliar não é obrigatória, em razão de expressa previsão legal. Com efeito, consoante o disposto no art. 10, VI, da Lei n. 9.656/98, o plano de saúde não é obrigado a custear o "fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art. 12", que versam sobre medicamentos antineoplásicos, ou tratamento em home care. Confira-se:
+Art. 10. É instituído o plano-referência de assistência à saúde, com cobertura assistencial médico-ambulatorial e hospitalar, compreendendo partos e tratamentos, realizados exclusivamente no Brasil, com padrão de enfermaria, centro de terapia intensiva, ou similar, quando necessária a internação hospitalar, das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde, respeitadas as exigências mínimas estabelecidas no art. 12 desta Lei, exceto: VI - fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art. 12;
+Art. 12. São facultadas a oferta, a contratação e a vigência dos produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, nas segmentações previstas nos incisos I a IV deste artigo, respeitadas as respectivas amplitudes de cobertura definidas no plano-referência de que trata o art. 10, segundo as seguintes exigências mínimas:
+I - quando incluir atendimento ambulatorial:
+(..)
+c) cobertura de tratamentos antineoplásicos domiciliares de uso oral, incluindo medicamentos para o controle de efeitos adversos relacionados ao tratamento e adjuvantes;
+II - quando incluir internação hospitalar:
+(..)
+g) cobertura para tratamentos antineoplásicos ambulatoriais e domiciliares de uso oral, procedimentos radioterápicos para tratamento de câncer e hemoterapia, na qualidade de procedimentos cuja necessidade esteja relacionada à continuidade da assistência prestada em âmbito de internação hospitalar;
+A propósito, neste sentido se firmou a jurisprudência deste Tribunal Superior:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MEDICAMENTO DE USO DOMICILIAR. CUSTEIO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+1. Para a jurisprudência do STJ, inexiste abuso na cláusula contratual que desonere os planos de saúde do custeio de medicamentos de uso domiciliar, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS). Precedentes.
+1.1. A Corte de apelação condenou a agravada ao custeio do medicamento de uso domiciliar descrito na inicial, o que afronta a jurisprudência pacífica desta Corte Superior, não estando o caso concreto inserido nas exceções também previstas na jurisprudência. Por isso, de rigor excluir tal cobertura.
+2. Agravo interno que se nega provimento.
+(AgInt no REsp n. 2.107.094/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. COBERTURA DE MEDICAMENTO DE USO DOMICILIAR NÃO LISTADO NO ROL DA ANS. CANABIDIOL PRATI DONADUZZI. PRESCRIÇÃO QUE ATENDE AOS REQUISITOS DO § 13 DO ART. 10 DA LEI 9.656/1998.
+1. Ação de obrigação de fazer ajuizada em 06/01/2022, da qual foi extraído o presente recurso especial, interposto em 11/01/2023 e concluso ao gabinete em 23/05/2023.
+2. O propósito recursal é decidir sobre a obrigação de cobertura, pela operadora de plano de saúde, de medicamento de uso domiciliar não previsto no rol da ANS (Canabidiol Prati-Donaduzzi), cuja prescrição atende aos requisitos do § 13 do art. 10 da Lei 9.656/1998.
+3. Os argumentos invocados pela recorrente não demonstram como o Tribunal de origem ofendeu os dispositivos legais indicados, o que importa na inviabilidade do recurso especial (súmula 284/STF).
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súmula 282/STF).
+5. A Lei 9.656/1998, especificamente no que tange às disposições do inciso VI e do § 13, ambos do art. 10, deve ser interpretada de modo a harmonizar o sentido e alcance dos dispositivos para deles extrair a regra que prestigia a unidade e a coerência do texto legal.
+6. A regra que impõe a obrigação de cobertura de tratamento ou procedimento não listado no rol da ANS (§ 13) não alcança as exceções previstas nos incisos do caput do art. 10 da Lei 9.656/1998, de modo que, salvo nas hipóteses estabelecidas na lei, no contrato ou em norma regulamentar, não pode a operadora ser obrigada à cobertura de medicamento de uso domiciliar, ainda que preenchidos os requisitos do § 13 do art. 10 da Lei 9.656/1998.
+7. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp n. 2.071.955/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024.)
+Em face do exposto, nego provimento ao recurso especial.
+É como voto.
