@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. AÇÃO ANULATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. CESSÃO DE DIREITOS. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" d o permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto por VICTOR ERNESTO SCHMIDT e OUTROS contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. ANULATÓRIA. EMBORA CARACTERIZADA A LEGITIMIDADE DO INVENTARIANTE DATIVO PARA PROPOR AÇÃO QUE VISA A ANULAÇÃO DE ASSEMBLEIA, O PLEITO NÃO PROSPERA, VISTO QUE FORA RESPEITADA A PARTICIPAÇÃO DESTE NOS ATOS, SENDO QUE TAMPOUCO PODE SER ALEGADA A NULIDADE PELAS HERDEIRAS, VISTO QUE PACTUARAM CONTRATOS PARA A CESSÃO DAS PARTICIPAÇÕES ACIONÁRIAS PARA TERCEIRO, SE COMPROMETENDO A NÃO ATUAR CONTRA OS INTERESSES DO ADQUIRENTE. NEGARAM PROVIMENTO À APELAÇÃO. UNÂNIME" (e-STJ fl. 393).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 406-409).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos artigos 489, § 1º, IV; 618, I e II; 1.022, II, do Código de Processo Civil; 28, parágrafo único; 31, §§ 1º e 2º; 110; 126, § 4º, da Lei nº 6.404/1974; 1.056, § 1º, e 1.057, parágrafo único, do Código Civil.
+Sustentam a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem não se manifestou acerca da ausência de formal das transferências de ações e quotas e à violação de direitos essenciais do acionista nas assembleias gerais, inclusive quanto ao voto e ao acesso a documentos.
+Afirmam que não foram cumpridas as formalidades essenciais para a validade da validade da transferência de titularidade das participações e que o acórdão "desconsidera completamente a exigência legal de registro que respalda a efetivação da operação, atribuindo efeitos jurídicos a uma suposta transferência que sequer poderia ter se concretizado" (e-STJ fl. 426).
+Argumenta m que o inventariante possui legitimidade para representar o Espólio nas assembleias da sociedade recorrida e exercer os direitos inerentes às ações, inclusive o direito de voto nas assembleias e que a cada ação ordinária corresponde a um voto nas deliberações.
+Com as contrarrazões (e-STJ fls. 457-464), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. DIREITO CIVIL. AÇÃO ANULATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO. CESSÃO DE DIREITOS. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS NºS 5 E 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. Na hipótese, acolher a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. A aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" d o permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto aos pontos arguidos, conforme se verifica do seguinte trecho do acórdão:
+"Os fundamentos do decisum quanto aos pontos levantados estão clara e suficientemente expostos na decisão embargada, e se com eles não concorda a parte embargante, deve tentar sua reforma através do manejo do recurso adequado, o que, por óbvio, não se sustenta nesta via.
+Em que pese reconhecida a legitimidade do inventariante dativo para o ingresso da ação, uma vez que é prerrogativa sua a defesa dos interesses do espólio, na esteira do art. 75, VII, do Código de Processo Civil, o cerne da questão diz com os anteriores contratos pactuados pelos sucessores.
+Tal situação resta evidente porque, do cotejo dos autos, verifica-se que as herdeiras de Victor Schmidt pactuaram contratos para a cessão das cotas de participação acionária à Henrique Schmidt, sendo que, mesmo que mencionado que a assinatura de transferência ocorreria ao término do inventário, estas até mesmo já receberam valores.
+Ademais, não bastasse isso, o cerne da controvérsia, o qual afasta os pedidos de anulação de assembleias, diz com as cláusulas quarta e quinta dos contratos, uma vez que expressamente acordado que a alienante não poderia oferecer resistência aos interesses do adquirente.
+Desta forma, resta evidente que as herdeiras já não possuem mais gerência sobre os negócios do grupo, conforme referido pelas outras herdeiras inclusive, visto que as participações societárias já foram alienadas de fato, o que rechaça a suposta ausência de quórum para instalação.
+Nesta linha, ainda que autorizada a participação do inventariante nas assembleias, tal participação era apenas para acompanhamento, sem direito à voto, não havendo ilegalidade nos atos.
+Assim, como já ressaltado, a ausência de nulidade reside no fato de ter ocorrido a cessão das participações societárias pelas herdeiras, sobretudo em razão da impossibilidade de atuação contra os interesses do adquirente, o que estaria ocorrendo a partir do pedido de nulidade das assembleias, sendo evidente que eventual inconformismo da herdeira Victoria com divisão de bens deve ser manejado por meio da ferramenta processual adequada" (e-STJ fls. 406-406 - grifou-se).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De outro lado, não há como afastar a incidência das Súmulas nºs 5 e 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita.
+Anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alín ea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
