@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 04/11/2025 a 10/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESENÇA DOS REQUISITOS DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO QUE NÃO ABORDA LEGISLAÇÃO FEDERAL INVOCADA PELO RECORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+1. A interposição de embargos de declaração não supre a exigência de prequestionamento, se a instância a quo não se manifesta sobre a matéria, conforme previsão da Súmula n. 211/STJ.
+2. Inexistindo nas razões recursais preliminar formal de omissão do julgado impugnado, com base em violação do art. 1.022 do CPC, não há que se falar em prequestionamento ficto.
+Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interposto por SUCESSÃO DE LEODORO JOAQUIM DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 323):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. DECISÃO MANTIDA. DESCABE FALAR EM NULIDADE DA CITAÇÃO DA SUCESSORA, HAJA VISTA QUE SE TRATANDO DE CUMPRIMENTO DE SENTENÇA, NÃO É NECESSÁRIA A CITAÇÃO POR OFICIAL DE JUSTIÇA, NOS TERMOS DO ARTIGO 222, DO CPC DE 1973. ALEGAÇÕES DE PRESCRIÇÃO INTERCORRENTE, AUSÊNCIA DE TÍTULO EXECUTIVO, EXCESSO DE EXECUÇÃO E INEXIBILIDADE DOS HONORÁRIOS SUCUMBENCIAIS QUE NÃO SE VISLUMBRAM DE ACORDO COM UMA LEITURA ATENTA DOS AUTOS. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 365-372).
+No recurso especial, o recorrente alega que o acórdão contrariou as disposições contidas nos arts. 13, caput e I, 43, 214, 267, IV e § 1º, 1.055 a 1.057 e 1.059 do CPC/1973 e 12 da Lei n. 1.060/1950.
+Sem contrarrazões ao recurso especial (fl. 414), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 427-433), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 470).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. PRESENÇA DOS REQUISITOS DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO QUE NÃO ABORDA LEGISLAÇÃO FEDERAL INVOCADA PELO RECORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+1. A interposição de embargos de declaração não supre a exigência de prequestionamento, se a instância a quo não se manifesta sobre a matéria, conforme previsão da Súmula n. 211/STJ.
+2. Inexistindo nas razões recursais preliminar formal de omissão do julgado impugnado, com base em violação do art. 1.022 do CPC, não há que se falar em prequestionamento ficto.
+Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O cerne da controvérsia diz respeito à suposta violação dos arts. 13, caput e I, 43, 214, 267, IV e § 1º, 1.055 a 1.057 e 1.059 do CPC/1973 e 12 da Lei n. 1.060/1950.
+Há que se observar que o recurso especial é o meio processual adequado para levar a julgamento as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida contrariar tratado ou lei federal, ou negar-lhes vigência (art. 105, III, "a", da CF).
+Dessa feita, eventual ausência de manifestação da Corte de origem sobre os dispositivos legais tidos por violados atrai a incidência da Súmula n. 211/STJ -Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A propósito, cito os precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICAÇÃO DOS TETOS DAS EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DECADÊNCIA. INEXISTÊNCIA. SÚMULA N. 83 DO STJ. TERMO INICIAL DOS EFEITOS FINANCEIROS DA REVISÃO. ARTIGOS DE LEI FEDERAL TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal a quo rechaçou a alegação de incidência do prazo decadencial previsto no art. 103, caput, da Lei n. 8.213/1991, deixando assente que, na espécie, postula-se a aplicação dos tetos instituídos pelas Emendas Constitucionais n. 20/1998 e 41/2003, e não a revisão do ato de concessão do benefício previdenciário, entendimento que está em sintonia com a jurisprudência desta Corte.
+Incidência da Súmula n. 83 do STJ.
+2. A ausência de manifestação do acórdão recorrido acerca dos dispositivos legais federais suscitados, mesmo após a oposição de embargos de declaração, revela a inexistência de prequestionamento, o que impede o conhecimento do recurso especial, nos termos da Súmula n. 211 do STJ. Para que se configure o prequestionamento, não basta a devolução da questão controvertida ao Tribunal de origem, sendo indispensável que a matéria recursal tenha sido apreciada no acórdão recorrido à luz da legislação federal indicada e sob o prisma suscitado pela parte recorrente no apelo nobre, o que não ocorreu na espécie, quanto à insurgência concernente ao termo inicial dos efeitos financeiros da revisão concedida à parte recorrida.
+3. Recurso especial não conhecido. (Grifei)
+(REsp n. 1.898.496/AL, Rel. Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. 1. INEXISTÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS QUE A PARTE ENTENDE VULNERADOS. APLICAÇÃO DA SÚMULA 211 DO STJ. 2. CONCLUSÃO ESTADUAL NO SENTIDO DA AUSÊNCIA DE ATO ILÍCITO CAUSADOR DE DANOS PELA INSTITUIÇÃO FINANCEIRA, ORA RECORRIDA. ENTENDIMENTO FIRMADO COM BASE EM FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. 3. ACÓRDÃO RECORRIDO PUBLICADO SOB A ÉGIDE DO CPC/2015. HONORÁRIOS RECURSAIS. AUSÊNCIA DE MANIFESTAÇÃO NA DECISÃO AGRAVADA. MAJORAÇÃO QUE SE IMPÕE. 4. AGRAVO INTERNO DESPROVIDO.
+1. O conteúdo normativo dos arts. 30 e 48 do CDC; e 389, 395, 402, 404, 422, 427 e 472 do Código Civil não foi debatido no acórdão recorrido, não havendo falar em ocorrência de prequestionamento. Em que pese à oposição de aclaratórios, tais dispositivos não foram apreciados, porquanto o julgado se utilizou de fundamentos diferentes dos previstos nesses artigos. Incidência, no ponto, do texto da Súmula 211 do STJ.
+2. O Tribunal paulista firmou entendimento, com base na análise do conjunto fático-probatório dos autos, que não havia indício que permitisse responsabilizar a instituição financeira pelos prejuízos que a recorrente suportou, circunstância que impossibilita o conhecimento do especial em razão da Súmula 7/STJ.
+3. Considerando que o acórdão recorrido foi publicado sob a égide do novo Código de Processo Civil, e que não houve manifestação na decisão agravada sobre a questão, devem ser majorados os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da causa, nos termos do art. 85, § 11, do CPC/2015.
+4. Agravo interno desprovido. (Grifei)
+(AgInt no AREsp n. 1.059.045/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/8/2017, DJe de 24/8/2017.)
+Depreende-se dos autos que o aresto impugnado não abordou os dispositivos legais indicados no apelo nobre, caracterizando-se, pois, ausência de prequestionamento, circunstância que impede o conhecimento do recurso especial por este Sodalício.
+Ressalte-se que o recorrente não suscitou em suas razões preliminar formal de omissão do julgado, com base em violação do art. 1.022 do CPC, não havendo que se falar em prequestionamento ficto.
+Nesse sentido, cito precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. PRODUÇÃO DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O acórdão recorrido não carece de fundamentação, pois a fundamentação exigida nos termos do art. 489 do CPC é aquela revestida de coerência, explicitando suficientemente as razões de convencimento do julgador, ainda que incorreta ou mesmo não pormenorizada, pois decisão contrária ao interesse da parte não configura violação do indigitado normativo.
+2. Verifica-se que o Tribunal de origem não analisou nem implicitamente os arts. 509, 510, 511 e 512 do Código de Processo Civil. Desse modo, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+3. Se a parte recorrente entendesse haver alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento no Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+4. Nos termos da jurisprudência pacífica desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n.1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+5. Nos termos da jurisprudência pacífica desta Corte, cabe ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Não obstante, o entendimento desta Corte é firme no sentido de que a aferição acerca da necessidade de produção de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice erigido pela Súmula n. 7/STJ.
+6. Alterar a conclusão do acórdão do Tribunal a quo acerca da necessidade ou não de produção de provas, demandaria reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+Agravo interno improvido. (Grifei)
+(AgInt no AREsp n. 2.624.976/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 12/12/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE ALIMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF .
+2. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art . 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI).
+3. "O óbice da falta de prequestionamento também impede o conhecimento do recurso especial interposto com base na alínea "c" do permissivo constitucional" ( AgInt no AREsp 1.235.120/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 07/10/2019, DJe de 11/10/2019) . 4. Agravo interno desprovido. (Grifei)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+É como penso. É como voto.
