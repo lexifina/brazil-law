@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+
+    “APELAÇÃO CÍVEL - APOSENTADORIA ESPECIAL - POLICIAL CIVIL - Pretensão à concessão de aposentadoria especial nos termos da Lei Complementar Federal nº. 51/85, com proventos integrais e paridade - Possibilidade - Preenchidos os requisitos legais - Sentença de procedência reformada apenas quanto aos juros - Recurso parcialmente provido”. (eDOC 9 – ID: fdbb1b9c)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 40, §§ 1º, 3º, 4º, 8º e 17, do texto constitucional. (eDOC 15 – ID: 1c25c268)
+
+    Nas razões recusais, insurge-se contra acórdão que reconheceu ao servidor recorrido policial civil o direito à aposentadoria especial com integralidade e paridade de proventos.
+
+    Alega-se que que a integralidade e a paridade somente são asseguradas nas hipóteses excepcionais previstas nas regras de transição das ECs  41/03, 47/05 e 70/12, não sendo compatíveis com a aposentadoria especial prevista no § 4º do art. 40 da CF.
+
+    Acrescenta-se que com a EC 41/2003, os proventos passaram a ser calculados com base na média das remunerações utilizadas como base de contribuição, conforme os §§ 3º e 17 do art. 40, e que o reajuste dos benefícios passou a observar apenas a preservação do valor real, nos termos do § 8º, afastando-se a paridade com os servidores da ativa.
+
+    Restituídos os autos ao órgão julgador para eventual juízo de adequação com relação aos temas 139, 1.019 e 1.037 da repercussão geral (eDOC 17 – ID: 049a263f e eDOC 27 – ID: 4a0e0686), o acórdão recorrido restou mantido. Colho as ementas proferidas em sede de juízo de retratação:
+
+    “NÃO ADEQUAÇÃO - Aposentadoria especial nos termos da Lei Complementar Federal n° 51/85 - Policial civil - Ausência de identidade com a matéria objeto do RE n° 590.260/SP - Tema n° 139 - Manutenção do julgado Recurso parcialmente provido.” (eDOC 19 – ID: 573e4bf0)
+
+    “RETORNO À TURMA JULGADORA PARA ADEQUAÇÃO DO ACÓRDÃO AO TEMA 1019/STF – Acórdão que manteve a r. sentença, que julgou procedente a ação, para reconhecer o direito do autor, policial civil, à aposentadoria especial com integralidade e paridade, por ter preenchido os requisitos da LC nº 51/85 e LCE nº 1.062/2008 – Acórdão reapreciado que não confronta com entendimento firmado no julgamento do RE nº 1.162.672/SP (Tema 1.019/STF) e do RE nº 1.486.392/SP (Tema 1.307/STF) – Acórdão mantido”. (eDOC 29 – ID: e10e6a58)
+
+    Após o recurso extraordinário foi admitido e os autos encaminhados a esta Corte.
+
+    É o relatório.
+
+    Decido.
+
+    Inicialmente, verifico que o Plenário desta Suprema Corte, no julgamento do RE-RG 1.162.672 (tema 1.019), Rel. Min. Dias Toffoli, DJe 25.10.2023, fixou a seguinte tese: “O servidor público policial civil que preencheu os requisitos para a aposentadoria especial voluntária prevista na LC nº 51/85 tem direito ao cálculo de seus proventos com base na regra da integralidade e, quando também previsto em lei complementar, na regra da paridade, independentemente do cumprimento das regras de transição especificadas nos arts. 2º e 3º da EC 47/05, por enquadrar-se na exceção prevista no art. 40, § 4º, inciso II, da Constituição Federal, na redação anterior à EC 103/19, atinente ao exercício de atividade de risco”.
+
+    Nesse sentido, colho a ementa proferida nesse julgamento:
+
+    “Recurso extraordinário. Direito constitucional e previdenciário. Aposentadoria especial. Atividade de risco. Artigo 40, § 4º, com as redações conferidas pelas EC nºs 20/98 e 47/05. Interpretação da expressão “requisitos e critérios diferenciados”. Integralidade e paridade. Possibilidade. 1. O art. 40, § 4º, da Constituição Federal, com as redações conferidas pelas EC nº 20/98 e 47/05, possibilitava ao legislador complementar adotar “requisitos e critérios diferenciados” para a concessão da aposentadoria especial aos servidores que exercessem atividade de risco. Tal expressão é ampla o bastante para abarcar a possibilidade de estabelecimento, desde que por lei complementar, de regras específicas, inclusive de cálculo e reajuste de proventos e, com isso, garantir a integralidade e a paridade, independentemente do cumprimento das regras de transição previstas nas ECs nºs 41/03 e 47/05. Apenas com o advento da EC nº 103/19 é que os “requisitos e critérios diferenciados” passaram a se restringir à idade e ao tempo de contribuição diferenciados. 2. Nos termos da jurisprudência da Corte, os estados e os municípios têm competência legislativa conferida pela Constituição Federal para regulamentar o regime próprio de aposentadoria de seus servidores, desde que observada a Lei Complementar Federal nº 51/85, a qual, possuindo caráter nacional, regula a aposentadoria especial dos ocupantes das carreiras de policial. 3. De acordo com a orientação da Corte (ADI nº 5.403/RS), a Lei Complementar nº 51/85 assegura aos policiais a aposentadoria especial voluntária com a regra da integralidade. Corroboram esse entendimento o Acórdão nº 2.835/2010-TCU-Plenário, Red. Min. Valmir Campelo, e o Parecer nº 00004/2020/CONSUNIAO/CGU/AGU. 4. No que diz respeito à regra da paridade, a lei complementar de cada ente da federação, disciplinando aqueles “requisitos e critérios diferenciados”, poderá prevê-la na concessão da aposentadoria especial aos policiais. 5. Recurso extraordinário não provido. 6. Foi fixada a seguinte tese de repercussão geral: “O servidor público policial civil que preencheu os requisitos para a aposentadoria especial voluntária prevista na LC nº 51/85 tem direito ao cálculo de seus proventos com base na regra da integralidade e, quando também previsto em lei complementar, na regra da paridade, independentemente do cumprimento das regras de transição especificadas nos arts. 2º e 3º da EC 47/05, por enquadrar-se na exceção prevista no art. 40, § 4º, inciso II, da Constituição Federal, na redação anterior à EC 103/19, atinente ao exercício de atividade de risco”.
+
+    Por sua vez, no julgamento do RE-RG 1.486.395 (tema 1.307), Rel. Min. Roberto Barroso, DJe 14.08.2024, o Plenário deste STF firmou a tese no sentido de que “1. É infraconstitucional a controvérsia sobre o direito à paridade de servidor público policial civil que preencheu os requisitos para a aposentadoria especial prevista na Lei Complementar nº 51/1985; 2. É nulo o acórdão que garante a paridade para aposentadoria especial de policial civil sem examinar a legislação do ente federativo ao qual pertença o servidor”.
+
+    Nesses termos, colho a ementa do referido julgado:
+
+    “Ementa: Direito previdenciário. Recurso extraordinário. Aposentadoria especial de policial civil. Direito à paridade com fundamento em lei. Matéria infraconstitucional. I. Caso em exame 1. Recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, que assegurou aposentadoria especial voluntária para policial civil com o direito à integralidade e à paridade remuneratória. Isso sob o fundamento de que todos os servidores que ingressaram antes da EC nº 41/2003 têm direito à integralidade e à paridade, independentemente do cumprimento de regras de transição. II. Questão em discussão 2. A questão em discussão consiste em saber se a aposentadoria especial voluntária de policial civil que ingressou no serviço público antes da EC nº 41/2003 deve ser assegurada com integralidade e paridade, independentemente do atendimento das regras de transição da EC nº 47/2005. III. Razões de decidir 3. O Supremo Tribunal Federal, por ocasião do julgamento do RE 1.162.672 (Tema 1.019/RG), fixou tese de repercussão geral dispondo que ‘o servidor público policial civil que preencheu os requisitos para a aposentadoria especial voluntária prevista na LC nº 51/85 tem direito ao cálculo de seus proventos com base na regra da integralidade e, quando também previsto em lei complementar, na regra da paridade, independentemente do cumprimento das regras de transição especificadas nos arts. 2º e 3º da EC 47/05, por enquadrar-se na exceção prevista no art. 40, § 4º, inciso II, da Constituição Federal, na redação anterior à EC 103/19’. 4. A jurisprudência do STF afirma, portanto, que a data de ingresso no serviço público é indiferente para a garantia de integralidade e paridade na aposentadoria especial de policial civil. Nos termos do Tema 1.019/RG, a integralidade é assegurada pelo atendimento dos requisitos da LC nº 51/1985, ao passo que a paridade depende de previsão em legislação complementar do ente federativo ao qual pertença o servidor. 5. O acórdão recorrido não se manifestou sobre a previsão de paridade na legislação complementar estadual, contrariando o Tema 1.019/RG. Nulidade. Não cabe ao STF, de todo modo, analisar a existência de direito à paridade em legislação local. Questão restrita à interpretação de norma infraconstitucional. IV. Dispositivo e tese 6. Recurso extraordinário conhecido em parte e, na parte conhecida, parcialmente provido para anulação do acórdão recorrido para observância do Tema 1.019/RG. Teses de julgamento: “1. É infraconstitucional a controvérsia sobre o direito à paridade de servidor público policial civil que preencheu os requisitos para a aposentadoria especial prevista na Lei Complementar nº 51/1985; 2. É nulo o acórdão que garante a paridade para aposentadoria especial de policial civil sem examinar a legislação do ente federativo ao qual pertença o servidor”.
+
+    No caso em análise, a Corte de origem, sem divergir da jurisprudência firmada no âmbito desta Corte, concedeu aposentadoria especial a policial civil com integralidade e paridade, analisando tanto os requisitos previstos na LC Federal 51/1985 bem como da LC estadual 1.062/2008, nos seguintes termos:
+
+    “Superado este ponto, convém considerar que a Emenda Constitucional nº 41/03 modificou a redação do §8º, do art. 40, da Constituição Federal, para extinguir a paridade entre os vencimentos dos servidores da ativa e os proventos dos inativos ou pensionistas, mas a nova redação não atinge o direito daqueles que já eram servidores públicos ou já se encontravam aposentados até a data da vigência da referida emenda, nos exatos termos do art. 6º, aclarado ainda mais pela EC nº 47/2005.
+
+    No caso, apelado aposentou-se em 14.07.2012 e de acordo com a certidão de contagem de tempo contava com trinta anos de recolhimento previdenciário, dos quais mais de vinte anos em atividade estritamente policial no cargo de Investigador de Polícia, logo, cumpriu o tempo mínimo de contribuição (30 anos) e efetivo exercício na atividade policial (20 anos), atendendo dessa forma os requisitos da Lei Complementar Federal nº 51/85 e da Lei Complementar Estadual nº 1.062/2008, para a obtenção da aposentadoria especial voluntária.
+
+    Desta forma resta comprovado o ingresso no serviço público antes de 2003, bem como comprovou o cumprimento dos requisitos legais, atraindo a seu favor a cláusula constitucional de paridade e integralidade remuneratória.
+
+    (...)”. (eDOC 9 – ID: fdbb1b9c, p. 5)
+
+    Assim, verifica-se que o acórdão do Tribunal de origem não destoa da orientação firmada pelo Supremo Tribunal Federal no julgamento do tema 1.019 da sistemática da repercussão geral.
+
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 9 – ID: fdbb1b9c, p. 7), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 11 de novembro de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
