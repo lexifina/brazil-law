@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 05/11/2025 a 11/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Sebastião Reis Júnior, Francisco Falcão, Nancy Andrighi, João Otávio de Noronha e Humberto Martins votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE JUNTADA DOS ACÓRDÃOS PARADIGMAS. VÍCIO SUBSTANCIAL INSANÁVEL. RECURSO NÃO PROVIDO.
+1. A falta de juntada do inteiro teor do aresto paradigma no momento da interposição dos embargos de divergência consubstancia vício substancial insanável que impede o conhecimento do recurso.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por VAPZA ALIMENTOS S/A contra decisão proferida pela Presidência desta Corte indeferindo liminarmente os embargos de divergência diante da falta de juntada dos arestos paradigmas.
+Alega a parte agravante que "a ausência da íntegra de um documento, apresentado apenas em parte, pode ser suprida com a simples juntada do restante do documento, sem lhe mudar a essência, por isso, deve ser considerada como um vício estritamente formal".
+Sustenta que os paradigmas "são do próprio Superior Tribunal de Justiça, facilmente disponíveis na internet ou na intranet dessa Egrégia Corte".
+Argumenta que "não houve ausência de indicação da divergência, pois o agravante juntou as ementas dos acórdãos paradigmas com os grifos sobre os pontos controversos, além da indicação da fonte e do julgado. Ela não foi feita de forma completa, com o acréscimo do relatório, voto e certidão, mas a divergência foi apresentada de forma clara e objetiva com as ementas - indicando as fontes do próprio Superior Tribunal de Justiça onde se originaram".
+Questiona, ainda, a majoração dos honorários.
+Contrarrazões às fls. 976/1002.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FALTA DE JUNTADA DOS ACÓRDÃOS PARADIGMAS. VÍCIO SUBSTANCIAL INSANÁVEL. RECURSO NÃO PROVIDO.
+1. A falta de juntada do inteiro teor do aresto paradigma no momento da interposição dos embargos de divergência consubstancia vício substancial insanável que impede o conhecimento do recurso.
+2. Agravo interno não provido.
+VOTO
+O inconformismo não merece acolhimento, uma vez que a parte agravante não traz argumentos aptos a desconstituir decisum.
+Com efeito, extrai-se dos autos que não houve a juntada do inteiro teor dos arestos paradigmas quando da interposição do recurso, circunstância que caracteriza vício substancial insanável a impedir o conhecimento dos embargos de divergência porquanto não devidamente comprovado o dissenso nos termos dos arts. 1.043, § 4º, do Código de Processo Civil de 2015 e 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMAS. REQUISITO DE ADMISSIBILIDADE NÃO PREENCHIDO. AGRAVO INTERNO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que indeferiu liminarmente os embargos de divergência por ausência da juntada do inteiro teor dos acórdãos apontados como paradigmas.
+II. QUESTÃO EM DISCUSSÃO
+2. Admissibilidade ou não dos embargos de divergência sem a juntada do inteiro teor dos acórdãos paradigmas ou a citação do repositório oficial ou autorizado de jurisprudência no qual publicado.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência desta Corte está consolidada no sentido de que:
+"(a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a indicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC" (AgInt nos EDcl nos EREsp n. 1.957.736/RS, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 12/11/2024, DJe de 19/11/2024).
+IV. DISPOSITIVO E TESE
+4. Agravo interno não provido. Tese de julgamento: A falta de juntada da cópia do inteiro teor do paradigma configura vício substancial insanável, fato que impede o trânsito dos embargos de divergência.
+(AgInt nos EAREsp n. 2.517.327/CE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 27/5/2025, DJEN de 4/6/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOD EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que indeferiu liminarmente os embargos de divergência em agravo em recurso especial, sob o fundamento de que o recurso não cumpre os requisitos mínimos de admissibilidade, pois não foi juntado aos autos o inteiro teor dos acórdãos indicados como paradigma, constituindo vício substancial insanável.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a exigência de juntada do inteiro teor dos acórdãos paradigmas em embargos de divergência pode ser suprida por referência a meios eletrônicos, e se é aplicável o prazo para sanar vícios formais conforme o art. 932, parágrafo único, do CPC.
+III. Razões de decidir
+3. A jurisprudência do STJ é consolidada no sentido de que a juntada do inteiro teor dos acórdãos paradigmas é requisito indispensável para a admissibilidade dos embargos de divergência, não sendo suficiente a mera referência a meios eletrônicos.
+4. A ausência de juntada do inteiro teor dos acórdãos paradigmas constitui vício substancial insanável, não sendo aplicável o prazo para sanar vícios formais previsto no art. 932, parágrafo único, do CPC.
+5. A exigência de juntada física dos acórdãos não é considerada formalismo excessivo, mas sim uma regra técnica necessária para a comprovação do dissídio jurisprudencial.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A juntada do inteiro teor dos acórdãos paradigmas é requisito indispensável para a admissibilidade dos embargos de divergência. 2. A ausência de juntada do inteiro teor dos acórdãos paradigmas constitui vício substancial insanável, não sendo aplicável o prazo para sanar vícios formais conforme o art. 932, parágrafo único, do CPC."
+Dispositivos relevantes citados: CPC/2015, art. 1.043, § 4º;
+CPC/2015, art. 932, parágrafo único; RISTJ, art. 266, § 4º.
+Jurisprudência relevante citada: STJ, AgInt nos EAREsp n. 1.786.880/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 13/6/2023, DJe de 22/6/2023; STJ, AgRg nos EAREsp n. 2.002.287/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 27/6/2023, DJe de 3/7/2023.
+(AgInt nos EAREsp n. 2.652.438/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 29/4/2025, DJEN de 7/5/2025.)
+Ademais, tem-se que a pretensão da parte embargante, ora agravante, é discutir a ocorrência ou não de prequestionamento, regra técnica de conhecimento do apelo especial, finalidade para a qual não se presta o recurso uniformizador.
+Por fim, melhor sorte não socorre a parte agravante quanto aos honorários advocatícios, uma vez que: " A Corte Especial firmou entendimento de que é cabível a majoração dos honorários advocatícios recursais, mesmo sem comprovação de trabalho adicional do advogado, quando o recurso é interposto contra acórdão publicado na vigência do CPC de 2015 e há condenação em honorários desde a origem" (EDcl nos EAREsp 2283099/SP, Relator Ministro Raul Araújo, Corte Especial, DJe de 22/08/2025)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
