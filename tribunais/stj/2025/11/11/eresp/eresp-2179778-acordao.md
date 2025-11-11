@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 05/11/2025 a 11/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 284/STF e SÚMULA 7/STJ. AUSÊNCIA DE COTEJO ANALÍTICO.
+Embargos de divergência indeferidos liminarmente.
+RELATÓRIO
+Trata-se de embargos de divergência opostos por LUCAS HENRIQUE FALCAO ao acórdão d a Quinta Turma do Superior Tribunal de Justiça, relatado pelo Ministro Messod Azulay Neto, com as seguintes razões de decidir (fls. 1.239/1.246):
+III. RAZÕES DE DECIDIR
+5. A ausência de indicação dos dispositivos legais federais supostamente violados impede o conhecimento do recurso especial, conforme a Súmula n. 284, STF.
+6. A mera citação de artigos de lei na peça recursal não supre a exigência constitucional de fundamentação precisa.
+7. A superveniência de sentença penal condenatória afasta a alegação de inépcia da denúncia, pois o contraditório e a ampla defesa foram plenamente assegurados durante a instrução processual.
+8. A análise de alegações de insuficiência probatória e de nulidade da autorização para ingresso em residência demandaria reexame de fatos e provas, vedado pela Súmula n. 7, STJ.
+9. A condenação concomitante por associação para o tráfico impede a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, conforme entendimento consolidado na jurisprudência do STJ.
+A parte embargante (fls. 1.252/1.257) aduz que a Súmula 284/STF foi aplicada de forma automática e descontextualizada, desconsiderando o conteúdo da argumentação e a clareza da correlação entre os dispositivos invocados e os fatos do processo.
+Sustenta que tal entendimento diverge de julgados do STJ que reconhecem o cabimento do recurso especial mesmo quando a argumentação legal não se apresenta de forma literal, mas está concatenada à tese jurídica e aos fatos narrados.
+No ponto, indica como paradigma o AgInt no AREsp n. 1.738.992/DF, Ministra Maria Isabel Gallotti, Quarta Turma, DJe 11/5/2021.
+Aponta, ainda, como paradigma o REsp n. 2.090.901/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 7/4/2025, que não aplica a Súmula 7/STJ, mas reconhece a nulidade por ingresso em domicílio sem mandado, diante de elementos objetivos no acórdão recorrido.
+Por fim, elenca como paradigma o AgRg no REsp n. 2.018.047/SP, de minha relatoria, Sexta Turma, DJe 15/9/2023, que definiu que a condenação por associação não afasta automaticamente o redutor sem motivação concreta acerca da habitualidade.
+É o relatório.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 284/STF e SÚMULA 7/STJ. AUSÊNCIA DE COTEJO ANALÍTICO.
+Embargos de divergência indeferidos liminarmente.
+VOTO
+Os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial, ante a incidência das Súmulas 284/STF e 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Consoante se observa do acórdão embargado, quanto a estes pontos, se mostra inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinou o mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Apesar do esforço argumentativo da parte embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+Ademais, firme é o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Além disso, tanto com relação aos dois primeiros acórdãos paradigmas que versam acerca de juízo de admissibilidade quanto ao terceiro julgado de referência que tratou de condenação por associação, a parte embargante não se desincumbiu do ônus de demonstrar o alegado dissídio jurisprudencial, a fim de viabilizar a arguição de aplicação de solução jurídica diversa, visto que não realizou o devido cotejo analítico.
+A mera referência genérica a julgados não atende aos requisitos elementares de admissibilidade dos embargos de divergência, que pressupõem a demonstração da identidade fático-processual entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+Não se pode admitir embargos de divergência quando não há a demonstração de controvérsia entre órgãos distintos do STJ (Turmas, Seções, Corte Especial). Ora, a aferição dessa divergência pressupõe efetivo cotejo analítico não resumido a simples transcrição de ementas e capaz de mostrar as similitudes fáticas e jurídicas entre os paradigmas e o acórdão recorrido (AgInt nos EDcl nos EAREsp n. 438.748/BA, Ministro Mauro Campbell Marques, Corte Especial, DJe 11/11/2021).
+Ante o exposto, indefiro liminarmente os embargos de divergência.
