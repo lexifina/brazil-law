@@ -1,0 +1,77 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se recurso extraordinário, fundado nas letras “a” e “b” do permissivo constitucional, interposto contra acórdão com a seguinte ementa (e-doc. n° 21):
+
+    ‘’EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR MILITAR. TESE 1177 DO STF. REFORMADO POR INVALIDEZ. ISENÇÃO PREVIDENCIÁRIA. RECURSO PROVIDO.’’
+
+    No recurso extraordinário (e-doc n° 23), as partes recorrentes alegam violação aos artigos 5º, incisos XXXVI, LIV e LV, 22, inciso XXI, e 92, inciso IX, da Constituição da República.
+
+    Aduzem que o Tribunal de origem aplicou equivocadamente entendimento firmado pelo Supremo Tribunal Federal, quando do julgamento do Tema 1177 da repercussão geral, que declarou a inconstitucionalidade e afastou a aplicação do art. 24-C da Lei Federal nº 13.954/2019, desconsiderando, que a Suprema Corte, julgando embargos de declaração, modulou os efeitos de sua decisão, a fim de preservar a higidez dos recolhimentos da contribuição de militares, ativos ou inativos, e de seus pensionistas, efetuados nos moldes inaugurados pela Lei 13.954/2019, até 1º de janeiro de 2023.
+
+    Alegam afronta ao devido processo legal, notadamente o contraditório, a ampla defesa e os meios e recursos a ela inerentes, bem como que todas as decisões dos órgãos do Poder Judiciário serão fundamentadas.
+
+    Argumentam que devem ser considerados hígidos todos os descontos de contribuição de militares inativos portadores de doença incapacitante, desde a edição da Lei Federal n.º 13.954/2019.
+
+    Foram apresentadas contrarrazões (e-doc n° 25).
+
+    A Vice-Presidência do Tribunal de origem determinou o encaminhamento dos autos à Turma Julgadora para reexame da controvérsia e juízo de retratação, caso entendesse cabível, considerando os argumentos trazidos no Recurso Extraordinário em cotejo com o Tema 1177 do STF (e-doc n° 27).
+
+    A Turma julgadora em juízo de retratação negativo, manteve seu entendimento de que o caso concreto, por tratar de militar reformado por invalidez, representa uma exceção à regra geral estabelecida pela legislação federal e pelo precedente da Suprema Corte (e-doc n° 29).
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, verifica-se que os dispositivos constitucionais (artigos 5º, incisos XXXVI, LIV e LV, e 92, inciso IX,) apontados como violados carecem do necessário prequestionamento, sendo certo que o acórdão proferido pelo Tribunal de origem não cuidou das referidas normas, as quais, também, não foram objetos de embargos declaratórios. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. Nesse sentido:
+
+    ‘’Agravo regimental no agravo de instrumento. Inadmissibilidade de prequestionamento implícito. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Precedentes. 1. Entendimento sedimentado na Corte no sentido de não admitir o chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal de origem, é necessária e indispensável a oposição de embargos de declaração para suprir a omissão. Precedentes. (...) 4. Agravo regimental não provido” (AI nº 735.115/RS-AgR, Primeira Turma, de minha relatoria, DJe de 11/5/12).
+
+    ‘’SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. INOVAÇÃO DA MATÉRIA EM EMBARGOS DE DECLARAÇÃO JURIDICAMENTE INACEITÁVEL PARA COMPROVAÇÃO DE PREQUESTIONAMENTO. NECESSIDADE DE PREQUESTIONAMENTO DO TEMA CONSTITUCIONAL SUSCITADO, AINDA QUE SE TRATE DE MATÉRIA DE ORDEM PÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.300.990-AgR-segundo, de Rel. Min. Cármen Lúcia, Primeira Turma, DJe 23.9.2021).
+
+    Ademais, não procede a alegada violação do artigo 93, inciso IX, da Constituição, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Com efeito, o Plenário deste Supremo Tribunal Federal no julgamento da AI nº 791.292/PE-RG-QO, Tema 339, Relator o Ministro Gilmar Mendes, reafirmou a orientação de que o artigo 93, inciso IX, não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento.
+
+    Registre-se, ainda, que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário.
+
+    No mais, verifica-se que o Tribunal de origem apreciou as questões suscitadas, nos seguintes termos:
+
+    ‘’O recurso busca reforma da sentença que julgou improcedente a queixa, requerendo a parte autora a restituição das parcelas da contribuição previdenciária descontadas de seus proventos.
+
+    A questão já foi amplamente discutida e envolve o regime previdenciário a que estão sujeitos os militares do estado de Pernambuco. A tese 1177 do STF estabeleceu que os recolhimentos da contribuição dos militares deveriam se dar sobre a totalidade dos rendimentos, com base na Lei Federal nº 13.954/2019, que dispõe sobre o Sistema de Proteção Social dos Militares, posição consolidada da turma, e que o alcance dessa norma se dá para os períodos anteriores à lei.
+
+    No presente caso, é de se destacar que o autor foi aposentado em virtude de doença que o tornou inválido para exercer qualquer atividade (doc 30739260), se enquadrando nos artigos 71, § 3º, e 34, § 5º, da LCE nº 28/2000, que asseguram isenção parcial da contribuição previdenciária incidente sobre os proventos de aposentadoria e pensão, não se enquadrando na tese 1177 do STF.
+
+    Havendo precedente na turma e apreciando as razões e provas trazidas pelas partes, entendo que a sentença deve ser reformada, para reconhecer o direito do autor.”
+
+    Como se vê, o Tribunal de origem, com fundamento na legislação infraconstitucional aplicável à espécie (Lei Complementar estadual nº 28/2000) e no acervo probatório constante dos autos, consignou que o recorrido, militar aposentado por doença incapacitante, faz jus à isenção parcial da contribuição previdenciária incidente sobre seus proventos de aposentadoria.
+
+    Assim, para superar o entendimento do Tribunal de origem e acolher a pretensão recursal seria necessário o reexame da causa à luz da legislação local e do conjunto fático-probatório constante dos autos. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o recurso extraordinário. Incidência das Súmulas nº 279 e 280 desta Corte. Nesse sentido:
+
+    ‘’Direito civil. Agravo regimental no recurso extraordinário. Contribuição previdenciária. Militar estadual aposentado por invalidez permanente. Tema 1.177 da repercussão geral. Inaplicabilidade. Ofensa reflexa à Constituição. Reexame de provas. Súmulas 279 e 280 do STF. Agravo regimental desprovido. I. Caso em exame 1.Trata-se de agravo regimental interposto pelo Estado de Pernambuco e pela FUNAPE contra decisão que negou seguimento a recurso extraordinário manejado em face de acórdão da 1ª Turma Recursal do I Colégio Recursal da Capital, que reconheceu ao recorrido, militar aposentado por invalidez permanente, o direito à isenção parcial da contribuição previdenciária incidente sobre seus proventos. II. Questão em discussão 2. Há duas questões em discussão: (i) saber se é aplicável ao caso concreto a modulação dos efeitos definida pelo Supremo Tribunal Federal no julgamento do tema 1.177 da repercussão geral; e ii) se o reconhecimento, pelo Tribunal de origem, do direito à isenção parcial da contribuição previdenciária, previsto na legislação estadual, poderia ser revisto em sede de recurso extraordinário. III. Razões de decidir 3. O Tribunal de origem reconheceu que o agravado, militar aposentado por incapacidade permanente, faz jus à isenção parcial da contribuição previdenciária incidente sobre seus proventos. Esse enquadramento jurídico decorreu da interpretação de normas locais específicas, aliada ao reconhecimento de sua condição pessoal de invalidez, circunstâncias que afastam a pretensão do agravante de estender ao caso concreto os efeitos da modulação fixada por esta Suprema Corte no tema 1.177 da repercussão geral. IV. Dispositivo e tese 4. Agravo regimental desprovido. Dispositivos relevantes citados: Lei Complementar Estadual 28/2000. Jurisprudência relevante citada: Tema 1.177 da repercussão geral, Súmula 279 do STF, RE 1.543.441 ED-AgR.” (RE 1557513 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 23/10/2025)
+
+    “DIREITO ADMINISTRATIVO, TRIBUTÁRIO E PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO ESTADUAL. PORTADOR DE MOLÉSTIA GRAVE. ISENÇÃO. COMPETÊNCIA LEGISLATIVA DOS ESTADOS. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. LEI ESTADUAL Nº 17.345/2012. APLICAÇÃO DA SÚMULA Nº 280/STF. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. A controvérsia relativa a isenção de contribuição previdenciária de servidor público portador de moléstia grave com fundamento na Lei Estadual nº 17.345/2012, não alcança estatura constitucional. Precedentes. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. A teor do art. 85, § 11, do CPC, o ’tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 3. Agravo interno conhecido e não provido.” (ARE 1.415.848-AgR, Plenário, Rel. Min. Rosa Weber - Presidente, DJe de 15/6/2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. CONTRIBUIÇÃO PREVIDENCIÁRIA. ISENÇÃO. PORTADOR DE MOLÉSTIA GRAVE. LEGISLAÇÃO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULAS 279 E 208 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.” (ARE 1.418.609- AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/5/2023)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. POLICIAL MILITAR ESTADUAL. COMPETÊNCIA LEGISLATIVA DOS ESTADOS. ISENÇÃO. PORTADOR DE MOLÉSTIA GRAVE. VIGÊNCIA. REEXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. DESPROVIMENTO DO AGRAVO. 1. A atribuição da competência legislativa federal para edição de normas gerais das polícias militares e corpos de bombeiros militares, não exclui a competência legislativa dos Estados para tratar das especificidades atinentes aos temas previstos pela própria Constituição como objeto de disciplina em lei específica de cada ente estatal em relação aos militares que lhes preste serviço, inclusive às relativas ao regime de aposentadoria dos militares estaduais. 2. Essa competência legislativa atribuída aos Estados abrange inclusive a fixação do aspecto econômico da contribuição previdenciária a ser aplicada aos militares estaduais. 3. Inconstitucionalidade da Lei 13.954/2019 no que invadiu essa competência. Precedentes. ADI 4.912. RE 1.338.750-RG, Tema 1.177. 4. Reconhecida a inconstitucionalidade da lei federal, a discussão sobre a vigência de normas estaduais editadas no exercício dessa competência demanda a análise prévia da legislação local aplicável ao caso, a inviabilizar o processamento do recurso extraordinário. Incide, na hipótese, a Súmula 280 do STF. 5. Agravo regimental a que se nega provimento.” (ARE 1.392.066- AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 20/4/2023)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. POLICIAL MILITAR NA RESERVA REMUNERADA. ISENÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA, POR SE TRATAR DE PORTADOR DE MOLÉSTIA GRAVE. LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. INCIDÊNCIA. 1. O Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 e 356, ambas do STF. 2. A análise da pretensão recursal está situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 3. A solução da controvérsia depende da análise da legislação local, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário. 4. Agravo Interno a que se nega provimento.” (ARE 1.394.040-AgR, primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 4/11/2022)
+
+    Por fim, inviável o recurso extraordinário pela alínea “b” do inc. III do art. 102 da Constituição da República, pois não houve declaração formal de inconstitucionalidade pelo órgão competente. Nesse sentido:
+
+    “Recurso extraordinário. Decisão da Corte "a quo" que, por um de seus órgãos fracionários, declara a inconstitucionalidade de lei ou ato normativo. Interposição pela alínea "b" do inciso III do art. 102 da Lei Maior. Impossibilidade. Inteligência do art. 97 da Constituição, que exige seja adotado tal procedimento apenas pelo plenário ou órgão especial do tribunal. Hipótese de cabimento de extraordinário, pela letra "a" do permissivo constitucional, por infringência à reserva de plenário, que, na espécie, não se encontra prequestionada. Agravo regimental desprovido.” (RE 325.593/ES, Primeira Turma, Rel. Min. Ellen Gracie, DJ 4/10/02)
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Sem majoração da verba honorária, tendo em vista a ausência de fixação pela origem.
+
+    Publique-se.
+
+    Brasília, 11 de novembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
