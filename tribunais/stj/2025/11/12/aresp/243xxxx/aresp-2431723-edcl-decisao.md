@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LEÃO ENERGIA INDÚSTRIA DE GERADORES LTDA. contra a decisão monocrática que conheceu do agravo para não conhecer do recurso especial.
+A parte embargante sustenta, em síntese, que a decisão foi omissa. Alega que, ao aplicar o óbice da Súmula 7/STJ, o julgado não teria enfrentado o argumento de que a controvérsia sobre a coisa julgada constituiria matéria exclusivamente de direito, e não fática. Pede, assim, o saneamento do vício, com a eventual atribuição de efeitos infringentes ao recurso.
+Não foram apresentadas contrarrazões.
+É, no essencial, o relatório. Decido.
+Os embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil, destinam-se a sanar omissão, contradição, obscuridade ou corrigir erro material, não sendo o meio adequado para a rediscussão do mérito da causa por mero inconformismo da parte com o resultado que lhe foi desfavorável.
+No presente caso, não se vislumbra a existência de qualquer vício que justifique o acolhimento do recurso.
+A decisão embargada foi clara ao estabelecer que a análise da pretensão recursal, qual seja, o reconhecimento d e que a matéria relativa aos índices de correção monetária estaria acobertada pela coisa julgada, demandaria, inevitavelmente, o reexame do conteúdo da decisão proferida nos autos dos Embargos à Execução n. 0001176-07.2013.8.16.0044.
+O julgado explicitou que o Tribunal de origem, ao analisar o referido título judicial, concluiu que a matéria não foi conhecida naquela oportunidade, razão pela qual não se operou a preclusão. A decisão embargada consignou expressamente (fls.238-239):
+Essa conclusão fática, que representa interpretação do conteúdo da decisão anterior, não pode ser desconstituída na estreita via do recurso especial, por exigir reexame do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+O recurso especial, portanto, na via eleita, não se presta a infirmar o juízo de inexistência de coisa julgada formulado pelo Tribunal de origem com base nos elementos dos autos, sobretudo porque a decisão impugnada não nega vigência aos dispositivos legais invocados, mas apenas lhes confere interpretação distinta daquela sustentada pela recorrente, o que, por si só, não enseja o cabimento do apelo nobre.
+Diferentemente do que alega a embargante, não há omissão. A decisão enfrentou a questão e concluiu que a verificação da existência ou não de coisa julgada, no caso concreto, não se resume a uma simples qualificação jurídica. Exige, antes, a interpretação do alcance de uma decisão judicial anterior para determinar se houve ou não pronunciamento de mérito sobre o tema, o que constitui análise de cunho fático-probatório, vedada em sede de recurso especial.
+O que a embargante denomina "omissão" é, na verdade, uma tentativa de rediscutir o próprio fundamento da aplicação da Súmula 7/STJ, o que revela seu mero inconformismo com a conclusão adotada.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
