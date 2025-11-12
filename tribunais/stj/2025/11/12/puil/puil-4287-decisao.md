@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei protocolado por Maristela Soett Aguiar contra acórdão da Terceira Turma Recursal do Tribunal de Justiça do Estado de Santa Catarina, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009.
+Na origem, a requerente ajuizou ação contra o Município de Camboriú postulando o pagamento do piso salarial profissional nacional e seus consectários legais.
+O Juízo de primeiro grau julgou parcialmente procedentes os pedidos, para (e-STJ, fl. 211):
+ a  reconhecer o direito da parte autora a receber, minimamente, o valor vigente para o piso nacional do magistério público, não podendo seus proventos ordinários, pagos a título de "horas normais", serem inferiores ao estabelecido ao estabelecido em âmbito nacional, desde 3.2.2013 (Vigência da LCM n. 66/2013) até março de 2022, resguardado seu direito de não perceber valor inferior ao percebido nesse marco final por conta da irredutibilidade;
+ b  condenar a parte ré ao pagamento das diferenças não pagas em razão da garantia mínima de recebimento do piso nacional do magistério à parte autora, nas remunerações abarcadas pelo período que abrange os cinco anos anteriores ao ajuizamento até 28.3.2022.
+Interpostos recursos inominados por ambas as partes, a Terceira Turma Recursal do Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso da autora e conheceu em parte do recurso do réu para, nessa extensão, desprovê-lo.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+No pedido de uniformização de interpretação de lei, a parte sustenta haver divergência entre o posicionamento adotado pelas Turmas Recursais do Tribunal de Justiça do Estado de Santa Catarina e do Tribunal de Justiça do Estado do Rio Grande do Sul no tocante à aplicação do Tema 911/STJ, c/c arts. 2º, §§ 1º e 3º, e 3º, caput, da Lei n. 11.738/2008.
+Entende que deve prevalecer o entendimento das Turmas Recursais do TJRS, no sentido da "legalidade da aplicação do piso nacional do magistério como base de cálculo para a incidência da progressão da carreira do magistério" (e-STJ, fl. 332).
+Requer o sobrestamento do feito até o julgamento final do Tema 1.218/STF, bem como o acolhimento do pedido de uniformização.
+Sem contrarrazões (e-STJ, fl. 367).
+Parecer do Ministério Público Federal às fls. 369-373 (e-STJ).
+Brevemente relatado, decido.
+De início, registre-se que o pedido de uniformização de interpretação de lei cinge-se ao exame de questões de direito material, motivo pelo qual não se presta para buscar o sobrestamento d o feito, ainda que pendente o julgamento da matéria pelo Supremo Tribunal Federal, em acórdão cuja repercussão geral foi reconhecida.
+Em sentido similar:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. REQUERIMENTOS PARA SOBRESTAR PROCESSAMENTO DE FEITO E DECLARAR INCONSTITUCIONALIDADE DE LEI ESTADUAL. NATUREZA PROCESSUAL. NÃO CABIMENTO. ART. 18 DA LEI N. 12.153/2009. SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O pedido de uniformização de interpretação de lei federal, porque limitado exclusivamente ao exame de questões de direito material, não se presta para buscar o sobrestamento da tramitação de feitos, ainda que sujeitos ao rito de casos repetitivos. Inteligência do disposto no art. 18 da Lei n. 12.153/2009.
+ ..
+4. Agravo interno não provido.
+(AgInt no PUIL n. 3.733/SC, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 31/10/2023, DJe de 7/11/2023.)
+Noutro ponto, verifica-se que a matéria objeto da controvérsia foi solvida pela Turma Recursal do TJSC à luz da legislação municipal , conforme se depreende da fundamentação abaixo colacionada (e-STJ, fl. 306):
+A recorrente se insurge quanto à parte da sentença que deixou de reconhecer a incidência do piso nacional do magistério sobre as progressões e avanços funcionais estabelecidos pela LCM n. 19/08 de Camboriú.
+No entanto, a hipótese em exame vem sendo exaustivamente analisada e refutada pelas Turmas Recursais, em grande volume de demandas idênticas.
+Ao analisar o Tema Repetitivo 911, o STJ firmou a seguinte tese jurídica: "A Lei n. 11.738/2008, em seu art. 2º, § 1º, ordena que o vencimento inicial das carreiras do magistério público da educação básica deve corresponder ao piso salarial profissional nacional, sendo vedada a fixação do vencimento básico em valor inferior, não havendo determinação de incidência automática em toda a carreira e reflexo imediato sobre as demais vantagens e gratificações, o que somente ocorrerá se estas determinações estiverem previstas nas legislações locais" (grifei).
+Outrossim, o pedido em análise dependeria da existência de determinação municipal para incidência automática do piso salarial nacional do magistério sobre progressões e avanços funcionais dos seus servidores.
+A recorrente argumenta que a LCM n. 19/08 de Camboriú teria feito tal previsão em seu art.53-A (revogado pela LCM n. 122/2022), o qual dispunha: "O vencimento básico da carreira do Profissional do Magistério da Educação Básica do Município de Camboriú, ocupante do cargo de professor, suporte pedagógico e monitor, deverá atender os seguintes percentuais de diferenciação em relação ao piso salarial profissional, proporcional à jornada de trabalho por período integral de 40h (quarenta horas) semanais: (..)".
+Segundo a tese recursal, a expressão "piso salarial profissional" seria uma alusão ao piso nacional, permitindo a incidência automática dos reajustes deste último a toda a carreira do magistério do município de Camboriú.
+O uso genérico da expressão "piso salarial profissional", entretanto, não é suficiente para sustentar a tese exordial. (sem grifos no original)
+Nesse contexto, fica inviável o conhecimento do pedido de uniformização de interpretação de lei, pois a atuação do STJ está limitada ao exame do direito federal, não competindo a esta Corte de Uniformização eventual interpretação de lei local, nem mesmo para fins de uniformização jurisprudencial.
+A título exemplificativo:
+ADMINISTRATIVO E CIVIL. AGRAVO INTERNO EM PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. QUESTÃO RESOLVIDA, NO ACÓRDÃO IMPUGNADO, MEDIANTE INTERPRETAÇÃO DE LEI LOCAL. INCIDENTE DE UNIFORMIZAÇÃO IGUALMENTE CALCADO EM LEI LOCAL. INVIABILIDADE DO INCIDENTE. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI NÃO CONHECIDO. AGRAVO INTERNO IMPROVIDO.
+ ..
+VIII. Ademais, há no STJ diversas decisões monocráticas, não conhecendo de Pedidos de Uniformização deduzidos pelo Município de Maringá/PR, em casos em tudo semelhantes ao presente, sob o fundamento de que, "apesar de o requerente apontar divergência de entendimento quanto à interpretação da Súmula n. 85/STJ, os fundamentos do acórdão atacado envolvem interpretação de legislação municipal, qual seja, Lei Municipal n. 240/1998, o que impede o conhecimento do presente incidente" (STJ, PUIL 3.176/PR, Rel. Ministro HUMBERTO MARTINS, DJe de 10/10/2022). Na mesma direção, as seguintes decisões singulares, transitadas em julgado: PUIL 3.312/PR, Rel. Ministro GURGEL DE FARIA, DJe de 21/12/2022; PUIL 3.321/PR, Rel. Ministro HERMAN BENJAMIN, DJe de 12/12/2022; PUIL 3.310/PR, Rel. Ministro HUMBERTO MARTINS, DJe de 02/12/2022; PUIL 3.257/PR, Rel. Ministro HUMBERTO MARTINS, DJe de 04/11/2022; PUIL 3.177/PR, Rel. Ministro HUMBERTO MARTINS, DJe de 10/10/2022; PUIL 3.179/PR, Rel. Ministro HERMAN BENJAMIN, DJe de 23/09/2022; PUIL 3.181/PR, Rel. Ministra ASSUSETE MAGALHÃES, DJe de 20/09/2022; PUIL 3.129/PR, Rel. Ministro GURGEL DE FARIA, DJe de 23/08/2022; PUIL 2.548/PR, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 09/02/2022; PUIL 2.552/PR, Rel. Ministro BENEDITO GONÇALVES, DJe de 01/02/2022. Adotando idêntica orientação: STJ, PUIL 3.394/PR, Rel. Ministro HERMAN BENJAMIN, DJe de 02/03/2023.
+IX. Agravo interno não provido.
+(AgInt nos EDcl no PUIL n. 2.342/PR, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 12/4/2023, DJe de 24/4/2023.)
+Ante o exposto, com base no art. 34, XVIII, a, do RISTJ, não conheço do pedido de uniformização.
+Publique-se.
+EMENTA
+PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. SOBRESTAMENTO DO FEITO. NATUREZA PROCESSUAL. NÃO CABIMENTO. PEDIDO DE UNIFORMIZAÇÃO. ACOLHIMENTO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE LEI LOCAL. PEDIDO NÃO CONHECIDO.
