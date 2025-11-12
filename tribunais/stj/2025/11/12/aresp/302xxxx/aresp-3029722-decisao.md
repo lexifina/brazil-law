@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pela defesa de MOHD FAIED BIN ZAHARUDDIN contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal.
+O agravante foi condenado como incurso nas sanções do art. 33, caput, c/c o art. 40, inciso I, ambos da Lei n. 11.343/06, à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa.
+O recurso de apelação da defesa foi desprovido, mas o Tribunal de origem reduziu, de ofício, a pena para 5 anos, 8 meses e 1 dia de reclusão, em regime inicial semiaberto, e pagamento de 566 dias-multa, nos termos do acórdão assim ementado (fls. 740-759):
+"PENAL. PROCESSUAL PENAL. APELAÇÕES CRIMINAIS. TRÁFICO INTERNACIONAL DE DROGAS. ARTIGO 33, , C/C. ARTIGO 40, I, DA LEICAPUT 11.343/2006. MATERIALIDADE INCONTROVERSA. AUTORIA E DOLO COMPROVADOS. INEXISTÊNCIA DE ERRO DE TIPO. DOSIMETRIA. PENA-BASE REDUZIDA. ATENUANTE DA CONFISSÃO AUSENTE. TRÁFICO PRIVILEGIADO APLICADO NO PATAMAR DE 1/2. SÚMULA VINCULANTE 59. REGIME INICIAL ABERTO. SUBSTITUIÇÃO POR DUAS PENAS RESTRITIVAS DE DIREITOS. REGISTRO MIGRATÓRIO. " SIMILAR. CAUSA DE DIMINUIÇÃOMODUS OPERANDI" DE PENA MANTIDA EM 1/6. RECURSO PROVIDO EM PARTE. RECURSO DESPROVIDO. 1. Materialidade incontroversa. 2. Autoria e dolo devidamente comprovados nos autos. 3. Dosimetria da pena de Salbiah. Pena-base reduzida em razão da natureza e quantidade da droga. Atenuante do art. 65, III, "d" do Código Penal não verificada. Causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006 aplicável no patamar de  (metade). Súmula Vinculante 59. Regime inicial aberto. Substituição de pena privativa de liberdade por duas penas restritivas de direitos. 4. Dosimetria da pena de Mohd. Pena-base reduzida em razão da natureza e quantidade da droga, de ofício. Causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/2006 mantida em 1/6 (um sexto). Registro de fluxo migratório. Verificado mesmo " ". Mantido o regime inicial semiaberto e a vedação damodus operandi substituição da pena privativa de liberdade por penas restritivas de direitos. 5. Recurso provido em parte e recurso desprovido."
+Nas razões do recurso especial (fls. 790-794), a defesa alega violação ao art. 33, §4º, da Lei n. 11.343/06, sustentando que, no caso em análise, a conclusão adotada pelo juízo de origem baseou-se unicamente nas viagens anteriores do recorrente ao Brasil, tidas como indício suficiente para presumir que ele já teria transportado, conscientemente, substâncias ilícitas ao exterior, presunção meramente abstrata e desprovida de amparo nos fatos concretos do caso.
+Requer, ao final, o provimento do recurso, para reconhecer a fração máxima do tráfico privilegiado.
+Apresentadas as contrarrazões (fls. 814-825), o recurso foi inadmitido por incidência das Súmulas 7/STJ e 83/STJ (fls. 834-839).
+No agravo, a defesa reitera as alegações apresentadas no recurso especial, buscando afastar os óbices anteriormente apontados (fls. 841-848).
+Contraminuta do Ministério Público local (fls. 850-857).
+O Ministério Público Federal, às fls. 909-912, opinou pelo não provimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso, considerando o enunciado das Súmulas 7/STJ e 83/STJ.
+Entretanto, a defesa não impugnou adequadamente os mencionados óbices.
+A impugnação quanto à incidência da Súmula n. 83/STJ exige a demonstração de que os precedentes mencionados na decisão agravada são inaplicáveis ao caso concreto, bem como a apresentação de julgados contemporâneos ou supervenientes que indiquem entendimento diverso no âmbito do STJ. No entanto, tal demonstração não ocorreu, de modo que o acórdão proferido pelo Tribunal de origem encontra-se em conformidade com a jurisprudência consolidada desta Corte Superior, no sentido de que a dedicação do réu à atividade criminosa, ou envolvimento com organização criminosa consubstanciada na realização de várias viagens internacionais incompatíveis com a sua condição financeira e efetuadas em curto período de tempo, justificam o não reconhecimento do privilégio.
+A propósito, não basta deduzir a inaplicabilidade do óbice sumular, devendo ser esclarecida, por exemplo, a desarmonia do julgado com a jurisprudência do STJ ou a ausência de entendimento pacificado sobre a matéria.
+Além disso, para transcender o óbice da Súmula n. 7/STJ, o agravo precisa demonstrar em que medida as teses não exigiriam a alteração do quadro fático delineado pela Corte local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas, vale dizer, no caso, analisar eventual excepcionalidade e reconhecer o tráfico privilegiado, demandaria revolvimento fático-probatório, e não questões de direito ou de má aplicação da lei federal.
+Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. TRÁFICO PRIVILEGIADO. REQUISITOS CUMULATIVOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, com fundamento na Súmula n. 568 do STJ, negou-lhe provimento.
+2. O agravante sustenta ser primário e possuir bons antecedentes, argumentando que a expressão "dedicação a atividades criminosas" deve ser interpretada de forma restritiva, considerando a pouca quantidade de droga apreendida (49,35g de crack) e a ausência de provas concretas de envolvimento com organização criminosa. Requer a reaplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravante preenche os requisitos cumulativos do § 4º do art. 33 da Lei n. 11.343/2006 para aplicação do redutor de pena, considerando os elementos concretos do caso.
+III. Razões de decidir
+4. A instância ordinária negou o reconhecimento do tráfico privilegiado com base em elementos concretos que indicam dedicação do agravante às atividades criminosas e possível inserção em estrutura de criminalidade organizada, considerando a quantidade de droga apreendida (49,35g de crack), o modus operandi, a apreensão de balança de precisão e a ausência de comprovação de atividade lícita.
+5. A análise dos requisitos do § 4º do art. 33 da Lei n. 11.343/2006 envolve avaliação objetiva e subjetiva. No caso, os elementos concretos indicam que o agravante não preenche os requisitos subjetivos, como não se dedicar às atividades criminosas e não integrar organização criminosa.
+6. A pretensão recursal esbarra na Súmula n. 83 do STJ, pois o entendimento adotado pela instância ordinária está em consonância com a jurisprudência desta Corte Superior.
+7. A desconstituição da conclusão da jurisdição ordinária demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A aplicação do redutor de pena previsto no § 4º do art. 33 da Lei n. 11.343/2006 exige o cumprimento cumulativo dos requisitos objetivos e subjetivos, sendo vedada sua concessão quando há elementos concretos que indiquem dedicação às atividades criminosas ou integração em organização criminosa.
+2. A revisão de decisão que afasta o tráfico privilegiado com base em elementos concretos demanda reexame de provas, vedado pela Súmula n. 7 do STJ.
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 33, § 4º; Súmula n. 7 do STJ; Súmula n. 83 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 846.007/PI, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 12.08.2024.
+(AgRg no AREsp n. 2.919.115/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/10/2025, DJEN de 20/10/2025.)
+A ausência de impugnação efetiva e adequada reforça a incidência do óbice sumular, notadamente porque a simples transcrição de dispositivos legais e a exposição de teses jurídicas, como se estivesse a manejar recurso ordinário ou apelação, não se prestam a infirmar as razões que motivaram a negativa de seguimento.
+O Superior Tribunal de Justiça não atua como instância revisora de fatos e provas, tampouco se destina a novo julgamento da causa. O recurso especial, de natureza excepcional, possui regime jurídico próprio, de fundamentação vinculada e rigorosa, voltado precipuamente à uniformização da interpretação do direito federal infraconstitucional, e não à reapreciação das matérias de mérito decididas pelas instâncias ordinárias.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
