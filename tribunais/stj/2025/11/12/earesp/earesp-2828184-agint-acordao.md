@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze e Sérgio Kukina votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA.
+1. A admissibilidade dos embargos de divergência exige a existência de similitude fática e jurídica entre o acórdão embargado e os paradigmas indicados, o que não se verifica na espécie
+2. No caso concreto, o acórdão embargado, ao apreciar o contexto fático dos autos, reconheceu haver concreto interesse patrimonial especificamente identificado pelo impetrante (pedido de compensação dos valores pagos em parcelamentos tributários já quitados pelo contribuinte e por ele identificados na sua inicial), e não mero interesse de declaração de abstrato direito à compensação. Já o acórdão da Primeira Seção (EREsp n. 1.770.495/RS) v ersa exclusivamente acerca de reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração, não havendo quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública. Não se observa identidade jurídica com o caso dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por GAZIN INDÚSTRIA E COMÉRCIO DE MÓVEIS E ELETRODOMÉSTICOS S.A. contra decisão de minha lavra em que, liminarmente, indeferi o recurso de embargos de divergência.
+Na ocasião, consignei que o acórdão embargado e o apontado aresto paradigma desta Primeira Seção (EREsp 1770495/RS) não guardam similitude fática.
+A parte agravante alega, em síntese, que o acórdão paradigma tem total similitude fática com o acórdão embargado, tendo em vista que "em ambos os casos se visa afastar a exigência ilegal de tributos que se considera indevido, sendo ambos mandados de segurança com pedido de declaração ao direito de compensação dos valores recolhidos indevidamente, compensação que deve ser feita na espera administrativa, não havendo qualquer efeito patrimonial concreto no writ, pois tudo que foi pago indevidamente deve ser apurado posteriormente na via administrativa" (e-STJ fl.752).
+Contraminuta apresentada pelo ESTADO DO MATO GROSSO DO SUL.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA.
+1. A admissibilidade dos embargos de divergência exige a existência de similitude fática e jurídica entre o acórdão embargado e os paradigmas indicados, o que não se verifica na espécie
+2. No caso concreto, o acórdão embargado, ao apreciar o contexto fático dos autos, reconheceu haver concreto interesse patrimonial especificamente identificado pelo impetrante (pedido de compensação dos valores pagos em parcelamentos tributários já quitados pelo contribuinte e por ele identificados na sua inicial), e não mero interesse de declaração de abstrato direito à compensação. Já o acórdão da Primeira Seção (EREsp n. 1.770.495/RS) v ersa exclusivamente acerca de reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração, não havendo quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública. Não se observa identidade jurídica com o caso dos autos.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora ventilados não convencem.
+Como assinalado na decisão agravada, o Regimento Interno do Superior Tribunal de Justiça, em seu art. 266, estabelece que cabem embargos de divergência para rever acórdão proferido em recurso especial quando a tese jurídica por ele adotada, de direito material ou processual (§ 2º), for diversa da tomada em causa semelhante (§ 1º) por outro Órgão fracionário do Tribunal (caput) ou, ainda, pelo mesmo Órgão, cuja composição tenha sofrido alteração em mais da metade de seus membros (§ 3º) e desde que os acórdãos confrontados sejam de mérito (inciso I) ou que um seja apreciado pelo mérito e que o outro seja, embora não tenha conhecido do recurso, efetivamente apreciado pela controvérsia (inciso II).
+Compete ao embargante demonstrar o dissenso alegado, por meio da comprovação da existência do aresto paradigma indicado e do devido cotejo analítico entre os julgados comparados, identificando as premissas fáticas e jurídicas que os identifiquem (§ 4º).
+Na hipótese, todavia, a parte embargante não se desincumbiu desse ônus.
+O acórdão embargado e o apontado aresto paradigma desta Primeira Seção (EREsp n. 1.770.495/RS) não guardam similitude fática.
+Explico.
+O acórdão embargado, ao apreciar o contexto fático dos autos, reconheceu haver concreto interesse patrimonial especificamente identificado pelo impetrante (pedido de compensação dos valores pagos em parcelamentos tributários já quitados pelo contribuinte e por ele identificados na sua inicial), e não mero interesse de declaração de abstrato direito à compensação. Por essa razão, aplicou a orientação esposada nas Súmulas 269 e 271 do STF ao caso concreto.
+Já o aresto paradigma da Primeira Seção versa exclusivamente acerca de reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração, ainda não atingidos pela prescrição, visto que não há quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública.
+Vide:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. DIREITO À COMPENSAÇÃO. DECLARAÇÃO. SÚMULA 213 DO STJ. VALORES RECOLHIDOS ANTERIORMENTE À IMPETRAÇÃO NÃO ATINGIDOS PELA PRESCRIÇÃO. APROVEITAMENTO. POSSIBILIDADE.
+1. O provimento alcançado em mandado de segurança que visa exclusivamente a declaração do direito à compensação tributária, nos termos da Súmula 213 do STJ, tem efeitos exclusivamente prospectivos, os quais somente serão sentidos posteriormente ao trânsito em julgado, quando da realização do efetivo encontro de contas, o qual está sujeito à fiscalização pela Administração Tributária.
+2. O reconhecimento do direito à compensação de eventuais indébitos recolhidos anteriormente à impetração ainda não atingidos pela prescrição não importa em produção de efeito patrimonial pretérito, vedado pela Súmula 271 do STF, visto que não há quantificação dos créditos a compensar e, por conseguinte, provimento condenatório em desfavor da Fazenda Pública à devolução de determinado valor, o qual deverá ser calculado posteriormente pelo contribuinte e pelo fisco no âmbito administrativo segundo o direito declarado judicialmente ao impetrante.
+3. Esta Corte Superior orienta que a impetração de mandado de segurança interrompe o prazo prescricional para o ajuizamento da ação de repetição de indébito, entendimento esse que, pela mesma ratio decidendi, permite concluir que tal interrupção também se opera para fins do exercício do direito à compensação declarado a ser exercido na esfera administrativa, de sorte que, quando do encontro de contas, o contribuinte poderá aproveitar o valor referente a indébitos recolhidos nos cinco anos anteriores à data da impetração.
+4. Embargos de divergência providos.
+(EREsp n. 1.770.495/RS, minha relatoria, Primeira Seção, julgado em 10/11/2021, DJe de 17/12/2021.)
+Saliento, por oportuno, que "os embargos de divergência não constituem um novo recurso ordinário, de efeito meramente infringente, que permita o simples rejulgamento do recurso especial em face de alegado equívoco de cognição acerca do suporte fático da causa pela Turma Julgadora" (AgInt nos EREsp n. 1.421.487/SP, de minha relatoria, Primeira Seção, DJe 29/11/2016).
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1.""Os embargos de divergência no Superior Tribunal de Justiça constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados tais como dimensionados no acórdão embargado e no acórdão indicado como paradigma" (EREsp 1.177.349/ES, Corte Especial, Rel. Min. Ari Pargendler, DJe de 29.5.2013)" (AgInt nos EAREsp n. 1.079.777/ES, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 26/4/2024). Nesse mesmo sentido: AgInt nos EREsp n. 1.756.098/RS, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 26/4/2024.
+2. Também é importante frisar que "os embargos de divergência não servem para corrigir eventual erro de julgamento do recurso especial, decorrente de adoção de suposta premissa fática equivocada, como se fosse um novo recurso ordinário. Em face disso, não é possível pela via estreita deste recurso revisar eventual desacerto do acórdão embargado na aplicação da tese jurídica adotada à realidade do caso concreto. Nesse sentido: AgRg nos EREsp 1.126.442/MG, Rel. Ministro João Otávio de Noronha, Corte Especial, julgado em 07/05/2012, DJe 18/05/2012; EREsp 908.790/RN, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 03/09/2012; EREsp 1.045.978/RS, Rel. Ministro Humberto Martins, Primeira Seção, DJe 13/10/2010" (AgRg nos EAg n. 1.371.722/SP, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 30/10/2012).
+3. Hipótese em que inexiste similitude fático-jurídica entre os acórdãos confrontados.
+4. Agravo a que se nega provimento.
+(AgInt nos EREsp n. 2.042.799/RS, relator Ministro Sérgio Kukina, Primeira
+Seção, julgado em 1/10/2024, DJe de 7/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSENSO NÃO CARACTERIZADO. AUSÊNCIA DE SIMILITUDE FÁTICA. ALEGAÇÃO DE ERRO DE PREMISSA PELO ACÓRDÃO EMBARGADO. INVIABILIDADE DE CORREÇÃO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. AGRAVO DESPROVIDO.
+1. Os embargos de divergência não se prestam para a alteração das premissas que levaram à decisão embargada.
+2. A finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como novo recurso ordinário nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do apelo especial.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.750.179/AM, relator Ministro João Otávio de Noronha,
+Segunda Seção, julgado em 28/5/2024, DJe de 4/6/2024.)
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
