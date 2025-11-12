@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ERICK KAUE MOTA PINHEIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao recurso em sentido estrito para manter a pronúncia do paciente, consoante ementa que se transcreve (fls. 488-489):
+DIREITO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. RECURSO DESPROVIDO. I. Caso em Exame 1. Recorrente pronunciado por homicídio qualificado busca a desclassificação para modalidade culposa, além de afastamento da qualificadora. II. Questões em Discussão 2. As questões em discussão consistem em analisar: (I) possibilidade de desclassificação do crime; e (II) afastamento da qualificadora. III. Razões de Decidir 3. A pronúncia é admissível, pois há prova da materialidade e indícios de autoria, conforme art. 413, do Código de Processo Penal. 4. A qualificadora do recurso que dificultou a defesa da vítima não pode, nesta fase, ser descartada, cabendo ser analisada pelo Tribunal do Júri. IV. Dispositivo e Tese 5. Recurso improvido. Pronúncia amparada na materialidade e indícios suficientes de autoria. Qualificadora mantida.
+Consta dos autos que o paciente foi denunciado por homicídio qualificado, art. 121, § 2º, IV, c/c art. 18, I, parte final, do Código Penal, tendo sido pronunciado em 02/10/2024, com manutenção da prisão preventiva. A defesa interpôs recurso em sentido estrito, o qual foi desprovido.
+No presente writ, a impetrante sustenta que o disparo de arma de fogo foi acidental, sem animus necandi, decorrente de negligência e imperícia no manuseio, pleiteando a desclassificação para homicídio culposo, nos termos do art. 121, § 3º, do Código Penal. Subsidiariamente, argumenta a necessidade de afastamento da qualificadora do recurso que dificultou a defesa da vítima, por inexistirem elementos suficientes à sua configuração nesta fase.
+Requer liminarmente a concessão da ordem para desclassificar o delito para homicídio culposo ou, subsidiariamente, decotar a qualificadora do art. 121, § 2º, IV, do Código Penal. No mérito, requer a confirmação da liminar, com a concessão definitiva da ordem nos mesmos termos.
+Nesta egrégia Corte, a liminar foi indeferida (fls. 42-44) e as informações foram prestadas pelas instâncias de origem (fls. 48-50, 55-56).
+O Ministério Público Federal opinou pela denegação da ordem, nos termos da seguinte ementa (fls. 92-98):
+HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PLEITO DE DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO. NECESSIDADE DE REEXAME DE PROVAS. QUALIFICADORA DE USO DE RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. EXCLUSÃO. DESCABIMENTO.
+1. Na sentença de pronúncia ficou decidido, com base na prova dos autos, haver indícios suficientes da autoria e da materialidade do crime, que são suficientes para remeter o réu a julgamento pelo Júri popular.
+2. A desclassificação para homicídio culposo não é viável nesta fase, pois o conjunto probatório não corrobora a versão da defesa com a necessária certeza e também a análise de provas para afastar a modalidade dolosa do homicídio demandaria revolvimento fático-probatório, inviável em recurso especial, conforme Súmula 7/STJ. 3.
+Na fase processual da pronúncia, o Juiz Presidente do Tribunal do Júri apenas indica se há indícios de autoria e de materialidade para remeter o réu ao julgamento popular e, neste momento processual, o Tribunal não pode afastar qualificadoras, se há indícios que as fundamentam, como no caso em exame.
+- Parecer pela denegação da ordem.
+É o relatório.
+Inicialmente, insta observar que a Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial. Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, §2º do CPP, o que ora passa-se a examinar.
+A sentença de pronúncia foi fundamentada nos seguintes termos (fls. 24-34):
+Com efeito, a materialidade delitiva restou demonstrada pelo boletim de ocorrência de fls. 02/06, laudo de exame necroscópico de fls. 264/267, relatório policial de investigações de fls. 85/89, tudo corroborado pela prova oral colhida em audiência.
+Com relação à autoria, verifica-se que há indícios suficientes de autoria do acusado a ensejar a pronúncia nos termos do artigo 413 do Código de Processo Penal, senão vejamos:  ..
+A prova oral produzida, desde o início das investigações, são desfavoráveis ao réu, tendo sido apontado como autor do disparo que matou Henrique, valendo destacar que o próprio acusado, por ocasião de seu interrogatório, admitiu ser o autor do disparo, mas que aconteceu de forma acidental.
+Como se sabe, para a sentença de pronúncia basta a existência de indícios de autoria.
+Neste cenário, considerando que o réu confessou a autoria do disparo de arma de fogo e que a materialidade encontra-se devidamente comprovada nos autos, a melhor solução é deixar a critério do E. Tribunal Popular a decisão final sobre a conduta de ERICK KAUE MOTA PINHEIRO.
+Como é sabido, para subtrair do Júri, Juiz natural do processo, o julgamento do caso, haveria de ficar demonstrada, de forma clara e indiscutível a versão da defesa, o que não se verifica no presente caso, neste momento processual.
+As contrariedades existentes entre as versões da acusação e defesa deverão ser apreciadas pelo juiz natural, o Egrégio Tribunal de Júri, não havendo o que dele se excluir, de pronto, a verificação de tais alegações.
+Ressalte-se a impossibilidade de se poder aprofundar a análise, sob pena de se invadir a competência privativa do Conselho de Sentença.  ..
+Em suma, os elementos são suficientes para a pronúncia, por estarem presentes os requisitos do artigo 413, do Código de Processo Penal.
+Caberá ao Tribunal do Júri a análise das teses defensivas, não sendo o caso de impronúncia ou absolvição sumária, nem de desclassificação.
+O Tribunal de origem, por sua vez, assim fundamentou seu acórdão (fls. 10-17):
+ ..
+O recorrente foi pronunciado pela prática, em tese, do delito de homicídio qualificado, porque, segundo a denúncia, no dia 10 de fevereiro de 2022, por volta das 11h45min, na Rua Geralda G. Santana, nº 416, cidade e Comarca de São Sebastião - SP, agindo com ânimo homicida, valendo-se de recurso que dificultou a defesa da vítima, matou Henrique Nunes da Silva, seu amigo.
+Segundo apurado, na data e local acima indicados, a vítima Henrique estava reunida com os amigos Jefferson e Brener, na residência deste, quando o acusado que também era amigo da vítima chegou ao local.
+Na ocasião, Erick adentrou ao imóvel empunhando uma arma de fogo e passou a apontá-la para os ocupantes do imóvel em forma de brincadeira. Assustado, Brener advertiu o réu acerca dos perigos de brincar com arma de fogo.
+Ocorre que Erick ignorou os avisos de Brener e de Jefferson e continuou a apontar a arma de fogo para os amigos, ocasião em que, de maneira ainda não esclarecida, efetuou um disparo e acabou atingindo o amigo Henrique na cabeça. Em decorrência do disparo, a vítima caiu ao solo e veio a óbito ainda no local.
+Após os fatos, o réu pediu para que os amigos mentissem acerca dos fatos, com o fim de acobertá-lo, porém, todos se negaram, foi quando Erick se evadiu do local, levando consigo a arma de fogo e rumou para a residência da companheira Diana.
+De conseguinte, após comunicar os fatos a Diana, Erick colocou a arma de fogo utilizada no crime, no interior de uma bolsa, tendo Diana a dispensado em uma lixeira. Após os fatos, a polícia militar foi acionada, após tomarem conhecimento do ocorrido, rumaram para a residência do réu, onde conseguiram abordá-lo.
+Ao ser questionado acerca do ocorrido, Erick admitiu a prática delitiva, afirmando ter dispensado a arma de fogo utilizada no crime, no interior de uma lixeira que ficava nas proximidades da sua residência. Munidos dessas informações, os policiais passaram a realizar buscas no local apontado pelo acusado, logrando localizar a bolsa, contudo a arma de fogo já não se encontrava mais no seu interior.
+A materialidade restou comprovada pelo boletim de ocorrência (fls. 2/6), laudo pericial necroscópico (fls. 264/267), relatório de investigação (fls. 85/89), prova oral colhida, bem como pelas demais peças de informação acostadas aos autos.
+ ..
+Nessa conjuntura, ao contrário do que sustenta a defesa, as provas revelam que outra não poderia ser a decisão proferida pelo juízo a quo, senão a de pronúncia, não havendo que se falar, nesse momento, em impronúncia ou desclassificação para a figura culposa.
+Cumpre relembrar que a pronúncia somente julga admissível a acusação, encerrando o sumário da culpa e propiciando a instauração da segunda fase do procedimento para que seja o acusado remetido a julgamento pelo tribunal do júri.
+Nessa fase, há que se ter em conta a exigência tão somente do conhecimento da prova material do crime e da presença de indícios de autoria. O juízo de certeza é da competência constitucional e exclusiva do tribunal do júri.  ..
+Além disso, no limitado espectro de cognição possível na primeira fase do procedimento processual, o recorrente não logrou demonstrar sua total desvinculação dos fatos ou mesmo de que não agiu com dolo eventual.
+Com efeito, não restou indubitável que o acusado não tenha assumido o risco de produzir o resultado.
+Para que nesta etapa do procedimento se suprima a causa do julgamento de seu juiz natural, in casu, o Tribunal do Júri, sua justificativa deve despontar de maneira clara e manifesta, de modo a tornar possível seu reconhecimento de plano.  ..
+No caso vertente, não restou sobejamente demonstrada a culpa consciente, como intenta a defesa, de modo que esta análise caberá ao Conselho de Sentença.
+Frise-se que, diante de eventual dúvida, há que submetê-lo ao julgamento popular, ressaltando que nesse primeiro momento, o juiz deve estar convencido da existência do crime e de haver indícios suficientes de autoria.
+Quanto à qualificadora, havendo no conjunto probatório indícios da incidência da referida circunstância imputada na denúncia, ao magistrado é defeso afastá-la, devendo a análise da questão ser reservada ao Juiz Natural da causa.
+Sem embargo, a prova produzida nessa fase não trouxe elementos para que se descarte de forma inconteste a qualificadora do recurso que dificultou a defesa da vítima, devendo o exame desta circunstância ser enviado à apreciação do Tribunal do Júri.  ..
+Há ao menos indícios do recurso que dificultou a defesa da vítima, pois, a partir da dinâmica dos fatos apresentada, em análise sumária, dá conta de que a vítima foi atingida de inopino, enquanto deitada na sua cama.
+Destarte, os elementos contidos nos autos autorizam efetivamente a pronúncia do acusado, tendo em vista a existência do crime e de indícios de que é o autor, nos termos do art. 413, do Código de Processo Penal.
+Como se vê, o paciente foi pronunciado por homicídio qualificado, imputando-se que, em 10/02/2022, por volta de 11h45, na Rua Geralda G. Santana, nº 416, em São Sebastião/SP, ao adentrar a residência de Brener, onde Henrique e Jefferson se encontravam, passou a apontar, em tom de brincadeira e apesar de reiteradas advertências, uma arma de fogo para os presentes, vindo a efetuar disparo ainda não esclarecido que atingiu a cabeça de Henrique, causando-lhe morte imediata. Após o fato, o réu solicitou aos amigos que mentissem para acobertá-lo, evadiu-se com a arma e, posteriormente, informou à companheira Diana, colocando o revólver em uma bolsa que foi descartada em lixeira, tendo, em seguida, admitido aos policiais a autoria e indicado o local do descarte, onde se encontrou apenas a bolsa, sem a arma.
+Nesse contexto, o entendimento da instância de origem está em consonância com a jurisprudência desta Corte Superior no sentido de que, para a pronúncia, basta a existência de indícios suficientes a justificar a submissão do acusado a julgamento pelo Tribunal do Júri, mormente quando a decisão se fundamenta em depoimentos de testemunhas que acompanharam a dinâmica dos fatos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. EXISTÊNCIA DE PROVAS JUDICIALIZADAS QUE SUSTENTAM A DECISÃO DE PRONÚNCIA. SUBMISSÃO DO JULGAMENTO AO CONSELHO DE SENTENÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Constituição da República determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os a eles conexos, conferindo-lhe a soberania de seus vereditos.
+2. No caso vertente, há provas produzidas sob o crivo do contraditório que autorizam a submissão do acusado ao julgamento pelo Tribunal Popular.
+ ..
+6. Depreende-se do acervo probatório constante dos autos, portanto, a existência de indícios suficientes a justificar a submissão do acusado a julgamento pelo Tribunal do Júri, notadamente em virtude dos relatos das testemunhas sobre a dinâmica delitiva e da diferença de idade e de porte físico entre os envolvidos.
+7. Cumpre reiterar que é vedado a este Tribunal se imiscuir no acervo probatório para realizar a capitulação legal que repute mais adequada ou decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença.
+Incumbe aos jurados, no exercício da sua soberana função constitucional, cotejar as provas produzidas, escolher a versão que lhes parecer mais verossímil e decidir a causa conforme suas convicções, nos termos do art. 5º, XXXVIII, "d", da CF.
+ ..
+9. Agravo regimental não provido.
+(AgRg no HC n. 907.533/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/9/2025, DJEN de 19/9/2025.)
+Ademais, a jurisprudência desta Corte aduz que a exclusão de qualificadoras na pronúncia só é possível caso manifestamente improcedentes, o que não é o caso dos autos, tendo em vista que os depoimentos das testemunhas demonstram indícios de que a conduta do paciente possa ter dificultado a defesa da vítima, que, inclusive, se encontrava deitada.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. QUALIFICADORA. RECURSO DESPROVIDO.
+ ..
+5. A qualificadora do recurso que dificultou a defesa da vítima não é manifestamente improcedente, devendo ser apreciada pelo Tribunal do Júri.
+IV. Dispositivo e tese
+6. Recurso desprovido.
+Tese de julgamento: "1. A pronúncia pode ser fundamentada em indícios suficientes de autoria e materialidade, não exigindo juízo de certeza. 2. A exclusão de qualificadoras na pronúncia só é possível se manifestamente improcedentes, cabendo ao Tribunal do Júri a apreciação de sua incidência."
+Dispositivos relevantes citados: CPP, art. 413; CP, art. 121, § 2º, IV; CP, art. 14, II. Jurisprudência relevante citada: STJ, AgRg no HC 771.973/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/2/2023; STJ, AgRg no HC 801.257/BA, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 14/6/2023.
+(AgRg no HC n. 985.423/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/6/2025, DJEN de 30/6/2025.)
+Nesse contexto, tendo em vista que a sentença de pronúncia se baseou nas provas de materialidade e indícios suficientes de autoria, não há como se adentrar no acervo probatório, por esta via estreita do habeas corpus, para realizar a capitulação legal que repute mais adequada ou excluir qualificadora que não se apresenta manifestamente improcedente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença.
+Não há, portanto, flagrante ilegalidade que justifique a concessão de habeas corpus de ofício.
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
