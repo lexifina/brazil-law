@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOAO PEDRO BERNARDO NASCIMENTO - denunciado pelo delito de tráfico de drogas, com apreensão de 291 g de skunk -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que, por maioria, denegou o Habeas Corpus criminal n. 5796024-64.2025.8.09.0000.
+Neste writ, a defesa sustenta que a decisão que decretou a prisão preventiva carece de fundamentação idônea, limitando-se a alegações genéricas de risco abstrato à ordem pública e à quantidade da substância apreendida.
+Alega condições pessoais favoráveis: jovem de 18 anos, sem antecedentes, acometido por lesão grave e mancando de uma perna, estudante, com residência fixa e cuidador de idosa.
+Requer, assim, a concessão liminar da ordem para revogar a prisão preventiva; subsidiariamente, a substituição por cautelares.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da periculosidade do agente, extraída da quantidade expressiva de drogas apreendidas, do envolvimento de adolescente na traficância e da estrutura organizada de revenda, sendo também necessária para resguardar a ordem pública do meio social (fl. 41).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, pois o Juízo de piso destacou a quantidade de drogas, o envolvimento com adolescente e a estrutura organizada de revenda, o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa, não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão (291 g de skunk), circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas.
+Ademais, o adolescente envolvido era mero usuário e a estrutura organizada citada decorreu apenas de se descobrir quem foi o vendedor dos entorpecentes ao paciente; razão pela qual, entendo que inexistem fundamentos suficientes a justificar a prisão, assim como decidiu o voto divergente na origem.
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 291 G DE SKUNK. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
