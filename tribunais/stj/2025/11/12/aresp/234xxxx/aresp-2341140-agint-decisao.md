@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interno (fls. 556-558, e-STJ) interposto pela UNIÃO em face de decisão monocrática deste Relator (fls. 548-549, e-STJ) que, diante do pedido de homologação de acordo (fls. 530, e-STJ), ratificado pela parte adversa (fl. 530, e-STJ), julgou extinto o procedimento recursal e determinou o retorno dos autos à origem, nos seguintes termos:
+A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer.
+Observa-se, em primeira análise, que o acordo é subscrito pelos advogadosda União - no que se inclui a Procuradora Nacional da União de Negociação (PNNE-PGU) e pelos advogados da recorrida, os quais, a princípio, possuem poderes suficientes à autocomposição (fls. 527, 531-534 e 542, e-STJ).
+Embora a homologação de acordo esteja ente as atribuições do relator, nos termos do art. 34, IX, do RISTJ, é recomendável o retorno dos autos à origem, pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+Do exposto, com fundamento no art. 932, inciso III, do NCPC e art. 34, XI, do RISTJ, julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem para análise do acordo, eventual homologação e respectivo acompanhamento.
+No presente agravo interno (fls. 556-558, e-STJ), a agravante refuta a decisão singular, solicitando que a homologação do acordo ocorra neste Superior Tribunal de Justiça. Indica que a referida decisão gera insegurança ao extinguir o procedimento recursal sem que o juízo de origem tenha exercido juízo sobre a homologação, que poderia negativo (fl. 557, e-STJ), hipótese em que permaneceria o interesse recursal da União no feito.
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero parcialmente a decisão monocrática anteriormente proferida (fls. 548-549, e-STJ) apenas para determinar que, caso o magistrado de origem exerça juízo negativo na homologação acordo firmado, a decisão de extinção do procedimento recursal ficará, desde logo, sem efeito, até porque desconstituído o fundamento que a justificou, qual seja, a celebração de acordo e sua incompatibilidade com a vontade de recorrer.
+Com efeito, caso não homologada a avença no Tribunal local, inexistirá acordo válido a ensejar a perda de objeto recursal. Nesse cenário, deverão os autos retornar a este Superior Tribunal de Justiça para a devida apreciação do agravo em recurso especial.
+Especificamente quanto ao pedido de homologação por este Superior Tribunal de Justiça, porém, razão não assiste à recorrente.
+Inobstante haja previsões legais e regimentais permissivas para a homologação pelo Relator no âmbito desta Corte Superior, inexiste vedação para que sejam encaminhados os autos à origem para homologação e acompanhamento do acordo, especialmente quando as circunstâncias fáticas e processuais demandem maior proximidade do julgador com os elementos a serem apreciados, como no caso vertente, que envolve negociação de imóvel da União.
+Por isso mesmo, são diversas as situações em que os relatores, no âmbito deste STJ, encaminham os autos para homologação na origem. Exemplos recentes: AREsp 3019867/GO, Rel. Min. Nancy Andrighi, DJE 16/09/2025; Acordo no REsp 2219794/SP, Rel. Min. Humberto Martins, DJE 29/10/2025; Acordo no AREsp 3055736/SP, Rel. Min. Herman Benjamin, DJE 03/11/2025; Acordo no AREsp 2957180/DF, Rel. Min. Francisco Falcão, DJE 27/10/2025.
+Do exposto, dou parcial provimento ao agravo interno apenas para reconhecer que, caso o acordo não seja homologado na origem, seja afastada a extinção do procedimento recursal e retornem os autos a este Superior Tribunal de Justiça para apreciação do agravo em recurso especial, nos termos da fundamentação supra.
+Com isso em vista, mantenho a determinação para que os autos retornem à origem para análise do acordo, eventual homologação e respectivo acompanhamento.
+Publique-se.
+Intimem-se.
+Cumpra-se.
+EMENTA
