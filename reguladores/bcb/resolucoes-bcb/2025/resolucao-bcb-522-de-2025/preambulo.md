@@ -1,0 +1,4 @@
+resolução BCB Nº 522, DE 10 de NOVEMBRO de 2025
+Altera a Resolução BCB nº 150, de 6 de outubro de 2021, que disciplina a prestação de serviço de pagamento no âmbito dos arranjos de pagamento integrantes do Sistema de Pagamentos Brasileiro – SPB, e seu Anexo I, para estabelecer regras para aprimorar as estruturas de gerenciamento centralizado de riscos nos arranjos integrantes do SPB, e dá outras providências.
+​A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 6 de novembro de 2025, com base nos arts. 6º, 7º, 9º, 12-A, 12-C e 15 da Lei nº 12.865, de 9 de outubro de 2013, no art. 10 da Lei nº 10.214, de 27 de março de 2001, no art. 28, caput, inciso II, da Lei nº 12.810, de 15 de maio de 2013, e no art. 12 da Resolução CMN nº 4.952, de 30 de setembro de 2021, e tendo em vista o disposto na Resolução nº 4.282, de 4 de novembro de 2013,
+R E S O L V E :
