@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IPIRANGA PRODUTOS DE PETRÓLEO S.A. contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação revisional de aluguel.
+O julgado foi assim ementado (fl. 492):
+EMENTA: AÇÃO RENOVATÓRIA. AÇÃO REVISIONAL DE ALUGUEL. COBRANÇA ALUGUÉIS. JULGAMENTO CONJUNTO. ARTIGO 19 DA LEI 8.245/91. PERÍCIA. VALIDADE. RESULTADO. MERA DISCORDÂNCIA DO REQUERIDO. VALOR MÉDIO E PRÓXIMO AO VALOR DE MERCADO. VALIDADE. INADIMPLÊNCIA NO PAGAMENTO DOS ALUGUÉIS. JUROS DE MORA. SENTENÇA MANTIDA.
+- A ação revisional de aluguel tem por escopo a fixação da justa remuneração pela locação do imóvel objeto do contrato firmado entre as partes litigantes com a atualização do valor do aluguel mensal, que se encontrava defasado pelo transcurso do tempo, com base no valor de mercado - inteligência do art. 19 da Lei 8.245/91.
+- Estando o valor do aluguel arbitrado pela sentença em consonância com o conjunto probatório, com a média de mercado e com a média dos valores apresentados pela autora e pelo perito oficial, sem confrontar com qualquer elemento outro, impõe-se a manutenção do referido valor.
+- Demonstrando o requerente a inadimplência do requerido e não tendo este se desincumbido do ônus de produzir qualquer prova quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor, a procedência dos pedidos iniciais é medida que se impõe, a teor do disposto no artigo 373, inciso II do Código de Processo Civil.
+- Em relação à obrigação de pagar as diferenças de aluguéis, a mora se caracteriza, apenas a partir do trânsito em julgado da sentença que fixa o valor definitivo dos aluguéis.
+Os embargos de declaração opostos foram rejeitados (fls. 535-542 e 568-572).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 6º da Lei n. 8.245/1991, porque a denúncia por aviso prévio de trinta dias teria encerrado a locação em 23/1/2007, revelando inexistência de vínculo locatício e afastando diferenças de aluguéis depois dessa data; e
+b) 473 do Código Civil, já que a resilição unilateral se operou por notificação em 2007, tornando desnecessária a entrega formal das chaves e vedando imposição de obrigações após a denúncia.
+Sustenta que o Tribunal de origem, ao decidir que o contrato permaneceu vigente até a entrega das chaves em janeiro de 2013, divergiu do entendimento de julgado do STJ.
+Requer seja dado provimento ao presente recurso para declarar a extinção das obrigações contratuais a partir de 2007, com a consequente exoneração da recorrente do pagamento de aluguéis após essa data. Subsidiariamente, o afastamento da multa contratual, considerando a regularidade da denúncia unilateral do contrato.
+É o relatório. Decido.
+A controvérsia diz respeito à ação de despejo por falta de pagamento cumulada com cobrança e ação revisional de aluguel, julgadas em conjunto, em que a parte autora pleiteou a rescisão do contrato, o despejo, o pagamento de aluguéis vencidos e vincendos, multa, juros e correção, e a revisão judicial do aluguel ao preço de mercado. O valor da causa foi fixado em R$ 20.299,61.
+Na sentença, o Juízo de primeiro grau julgou extinto, sem resolução de mérito, o pedido de despejo por perda superveniente de objeto, julgou parcialmente procedente a cobrança para condenar a ré ao pagamento de aluguéis e encargos de 2008 até 14/1/2013, com correção, juros de 1% ao mês e multa de 10%, fixou o aluguel em R$ 15.147,60, data-base abril de 2020, e fixou honorários em 20% sobre o valor da condenação; e, na revisional, fixou o aluguel em R$ 15.147,60.
+A Corte de origem manteve a sentença, rejeitou a preliminar de ausência de interesse de agir, confirmou a vigência do contrato até a entrega dos equipamentos e das chaves em janeiro de 2013, homologou o laudo pericial quanto ao valor do aluguel e fixou o termo inicial dos juros moratórios, quanto às diferenças de aluguéis, no trânsito em julgado da sentença.
+No recurso especial a parte recorrente alega que a locação por prazo indeterminado foi validamente denunciada em 23/1/2007, por avis o prévio, operando resilição unilateral mediante notificação, sendo desnecessária a entrega formal das chaves. A recorrente afirma que houve devolução simbólica e que a posse do imóvel já estava com os locadores ou terceiros por eles designados, afastando a relação locatícia desde 2007.
+O acórdão recorrido concluiu que "a locação, de fato, somente foi encerrada, quando da devolução do equipamento  datada de 14 de janeiro de 2013", prevalecendo "o contrato vigente até a entrega das chaves", e decidiu a matéria com base na prova documental e no mandado da consignação de chaves (fls. 497-499).
+Rever tal conclusão quanto à data de encerramento da locação e à necessidade de entrega das chaves demandaria o reexame do conjunto fático-probatório, o que é incabível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+A imposição do óbice da Súmula n. 7 do STJ, aplicada à matéria pela alínea a do art. 105, III, da Constituição Federal, impede a análise do recurso pela alínea c sobre o mesmo tema.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
