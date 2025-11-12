@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque ficou devidamente justificado o não provimento do recurso. A fundamentação referente à Súmula n. 7 do STJ se deu apenas como reforço argumentativo para a impossibilidade de aprofundamento fático, por esta Corte Superior, sem implicar, entretanto, óbice para o conhecimento da tese recursal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ROBERTO FARES JUNIOR opõe embargos declaratórios contra o acórdão de fls. 1.395-1.408 por meio do qual a Sexta Turma negou provimento ao agravo regimental, a fim de manter o provimento parcial do recurso especial.
+Em suas razões, a defesa sustenta a omissão no acórdão por entender que não se trata de hipótese de reexame de fatos e provas e que esse órgão julgador deixou de analisar essa tese defensiva. Assevera que "O Colegiado não enfrentou a tese de que os fatos provados (dois eventos em três dias) seriam juridicamente insuficientes para caracterizar o animus associativo permanente. Pior, o acórdão não dedicou uma linha sequer para analisar os precedentes desta C. Corte (AgRg no REsp 1.913.697/SC e AgRg no HC 734.103/RJ) que expressamente diferenciam "reexame" de "revaloração"" (fl. 1.418).
+Pleiteia, assim, o acolhimento dos aclaratórios com efeitos infringentes, para que seja analisado o especial, quanto à tese de violação do art. 35 da Lei n. 11.343/2006.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. PRETENSÃO DE REDISCUSSÃO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Isso porque ficou devidamente justificado o não provimento do recurso. A fundamentação referente à Súmula n. 7 do STJ se deu apenas como reforço argumentativo para a impossibilidade de aprofundamento fático, por esta Corte Superior, sem implicar, entretanto, óbice para o conhecimento da tese recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados no acórdão embargado, que assim registrou (fls. 1.399-1.406, destaques no original):
+No delito do art. 35 da Lei n. 11.343/2006, a expressão empregada pelo legislador se refere à associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas. Nesse sentido, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+ ..
+Reafirmo que, no caso, as instâncias de origem, após minuciosa análise do conjunto fático-probatório, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de associação para o tráfico de drogas.
+Destaco que o animus associativo e a estabilidade do vínculo estão amplamente demonstrados pelos fatores a seguir: I) envio em conjunto, pelos corréus, de pacotes que continham entorpecentes para mais de um estado da Federação; II) esquema articulado para recebimento da droga de forma a não chamar atenção das autoridades.
+No caso em análise, o recorrente levantaria o pacote de "skunk" enviado pelos correios, dias antes, pelos corréus, para abastecer atividade ilícita consolidada, em que o comércio era realizado em mais de um estado da Federação e no qual se aplicava articulada logística de remessa e distribuição.
+Relembro que a jurisprudência deste Superior Tribunal é firme no sentido de que os depoimentos dos policiais responsáveis pelo flagrante constituem meio idôneo de prova para motivar o édito condenatório, sobretudo quando colhidos no âmbito do devido processo legal, sob o pálio do contraditório e corroborados pelos demais elementos de prova.
+ ..
+Em arremate, consigno que, para alterar tal conclusão, como pugna o recurso especial, seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado nesta esfera, conforme a Súmula n. 7 do Superior Tribunal de Justiça.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se abre a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Sob essas premissas, no caso em análise, não verifico que o acórdão incorreu em omissão, mas reiterou que o animus associativo do delito do art. 35 da Lei n. 11.343/2006 foi efetivamente demonstrado pelas instâncias originárias, sobretudo porque foi comprovada a atividade ilícita consolidada, em que o comércio era realizado em mais de um estado da Federação e no qual se aplicava articulada logística de remessa e distribuição.
+Noto que a irresignação do embargante se resume a seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum substrato jurídico que justifique a oposição dos embargos de declaração, isso porque ficou devidamente justificado o não provimento do recurso. A fundamentação referente à Súmula n. 7 do STJ se deu apenas como reforço argumentativo para a impossibilidade de aprofundamento fático, por esta Corte Superior, sem implicar, entretanto, óbice para o conhecimento da tese recursal.
+À vista do exposto, rejeito os embargos de declaração.
