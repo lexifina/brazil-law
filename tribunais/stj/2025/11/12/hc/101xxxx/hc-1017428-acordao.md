@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIOS QUALIFICADOS TENTADOS. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. DESISTÊNCIA DO RECURSO VÁLIDA. PLEITO DE NULIDADE POR VÍCIO NO RECONHECIMENTO. AFRONTA AO ART. 226 DO CÓDIGO DE PROCESSO PENAL. EXISTÊNCIA DE PROVAS AUTÔNOMAS QUE APONTAM A AUTORIA.
+1. No âmbito recursal, prevalece o princípio da voluntariedade, de modo que às partes é conferida a faculdade de renunciar à interposição de recurso ou dele desistir após sua apresentação.
+2. O caso dos autos não se trata de conflito entre a vontade manifestada pelo réu pessoalmente e a vontade expressa pela defesa técnica. Na hipótese, conforme se depreende das informações constantes dos autos, o próprio réu já havia manifestado o desejo de não recorrer e, embora o advogado tenha interposto recurso em sentido estrito, quando intimado para apresentar as razões recursais, quedou-se inerte. Na sequência, intimada a defensoria pública, essa formulou o pedido de desistência do recurso. Não havia, tecnicamente, portanto, duas vontades opostas - a do patrono e a do réu. Válida, portanto, a desistência do recurso efetivada.
+3. No mais, foram produzidas provas tanto na fase inquisitorial quanto judicial acerca da autoria, pois o reconhecimento em solo policial, ainda que, eventualmente, não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que demonstrou a autoria, não havendo, assim, falar em ilicitude das provas.
+4. Encontra-se o conjunto probatório apto a amparar a tese acolhida pelo Conselho de Sentença, sendo certo que eventual análise minuciosa da tese trazida ensejaria amplo reexame de fatos e provas, providência incabível na via estreita do habeas corpus.
+5. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CASSIANO SOARES DA SILVA VICENTE, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta nos autos que o paciente foi condenado pela prática dos crimes dos arts. 121, § 2º, I, III e IV, na forma dos arts. 14, I, e 121, § 2º, I, III e IV, na forma do art. 14, II, por duas vezes, todos do Código Penal, à pena de 22 anos, 2 meses e 20 dias de reclusão, no regime fechado.
+Alega o impetrante cerceamento de defesa devido à desistência do recurso em sentido estrito (RESE) pela Defensoria Pública, o que teria prejudicado o julgamento da tese defensiva de negativa de autoria.
+Afirma que a desistência do recurso impediu a discussão sobre a ausência de provas de autoria, levando o paciente a julgamento por júri sem confissão ou provas suficientes.
+Sustenta, também, a nulidade do reconhecimento fotográfico realizado no inquérito policial, alegando que não foram observadas as formalidades do art. 226 do Código de Processo Penal (CPP), como a ausência de descrição da pessoa a ser reconhecida e a falta de comparação com outras fotografias.
+Destaca que o reconhecimento foi genérico e vago, não atendendo aos requisitos legais, e que a única prova contra o paciente é esse reconhecimento fotográfico inválido.
+No mérito, requer a concessão de medida liminar para suspender os efeitos da sentença dos autos de origem e aplicar medidas cautelares diversas da prisão até o julgamento do habeas corpus.
+Solicita o reconhecimento da nulidade por cerceamento de defesa e a anulação dos autos desde a desistência do RESE, além da nulidade do reconhecimento fotográfico, pedindo a absolvição do paciente por ausência de provas de autoria.
+O pedido liminar foi indeferido pelo Ministro Vice-Presidente desta Corte (fls. 1.445/1.446).
+Foram prestadas informações (fls. 1.449/1.453).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 1.472/1.480).
+É o relatório.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO E HOMICÍDIOS QUALIFICADOS TENTADOS. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. DESISTÊNCIA DO RECURSO VÁLIDA. PLEITO DE NULIDADE POR VÍCIO NO RECONHECIMENTO. AFRONTA AO ART. 226 DO CÓDIGO DE PROCESSO PENAL. EXISTÊNCIA DE PROVAS AUTÔNOMAS QUE APONTAM A AUTORIA.
+1. No âmbito recursal, prevalece o princípio da voluntariedade, de modo que às partes é conferida a faculdade de renunciar à interposição de recurso ou dele desistir após sua apresentação.
+2. O caso dos autos não se trata de conflito entre a vontade manifestada pelo réu pessoalmente e a vontade expressa pela defesa técnica. Na hipótese, conforme se depreende das informações constantes dos autos, o próprio réu já havia manifestado o desejo de não recorrer e, embora o advogado tenha interposto recurso em sentido estrito, quando intimado para apresentar as razões recursais, quedou-se inerte. Na sequência, intimada a defensoria pública, essa formulou o pedido de desistência do recurso. Não havia, tecnicamente, portanto, duas vontades opostas - a do patrono e a do réu. Válida, portanto, a desistência do recurso efetivada.
+3. No mais, foram produzidas provas tanto na fase inquisitorial quanto judicial acerca da autoria, pois o reconhecimento em solo policial, ainda que, eventualmente, não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que demonstrou a autoria, não havendo, assim, falar em ilicitude das provas.
+4. Encontra-se o conjunto probatório apto a amparar a tese acolhida pelo Conselho de Sentença, sendo certo que eventual análise minuciosa da tese trazida ensejaria amplo reexame de fatos e provas, providência incabível na via estreita do habeas corpus.
+5. Ordem denegada.
+VOTO
+Quanto à desistência do recurso em sentido estrito por parte da defensoria, ressalto, inicialmente, que, no âmbito recursal, prevalece o princípio da voluntariedade, de modo que às partes é conferida a faculdade de renunciar à interposição de recurso ou dele desistir após sua apresentação.
+Destaca-se, ademais, que a desistência recursal possui caráter irrevogável e irretratável, de maneira que eventual divergência entre as defesas - anterior e atual - quanto à estratégia adotada não tem o condão de infirmar os efeitos da preclusão consumativa já operada.
+A esse respeito, disse o ato coator (fls. 25/27):
+Não merece acolhida a preliminar de invalidade do processo, pela manifestação de desistência do recurso em sentido estrito interposto da decisão de pronúncia do processo originário.
+Observa-se que no curso da instrução procedimental o recorrente fora suficientemente assistido por defesa técnica, seja a Defensoria Pública ou advogado constituído.
+Extrai-se, que não houve insurgência do requerente, a respeito de alguma suposta eiva ocorrida na decisão de pronúncia, no momento oportuno, resultando preclusa a sua pretensão no que tange a declaração de invalidade da sentença.
+Idêntica linha de compreensão é sufragada pelo Colendo Superior Tribunal de Justiça, pelo que se extrai dos seus julgados abaixo:
+ ..
+Portanto, por se tratar de matéria preclusa, não cabe a sua apreciação, por esta via, porquanto fulminada pelo fenômeno processual da preclusão.
+A alegação de ausência de defesa e a consequente inobservância ao teor do verbete sumular nº 523, do Supremo Tribunal Federal, tampouco merece prosperar.
+No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu.
+O defensor possui independência sobre a escolha das estratégias, que entender mais convenientes e eficazes em determinados momentos no curso da ação, ante o caso concreto e o contexto processual, não tendo sido observado qualquer elemento que revele descuido ou negligência na atuação da causídica que anteriormente assistiu o apelante.
+Releva observar que o requerente fora patrocinado por advogado devidamente habilitado e pela Defensoria Pública, que praticaram os atos necessários na instrução do processo e o acompanharam na audiência de Instrução.
+O fato de ter manifestado desistência do recurso em sentido estrito, pode ser um reflexo de estratégia de defesa, ao não querer antecipar as teses a serem utilizadas durante a sessão plenária, daí não haver que se falar em ausência de contraditório e de ampla defesa.
+Em semelhante linha de intelecção são os julgados do Colendo Supremo Tribunal Federal, abaixo transcritos:
+ ..
+Como bem apontado pelo Tribunal de origem, não há qualquer óbice à desistência do recurso por parte da defesa, sendo-lhe cabível a escolha da melhor estratégia para atuação em defesa do paciente.
+Nesse sentido, é a jurisprudência desta Corte de Justiça: AgRg no HC n. 720.682/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 10/5/2022; HC n. 712.847/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 25/4/2022; e HC n. 266.527/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/8/2017.
+Registro, ainda, que o caso dos autos não se trata de conflito entre a vontade manifestada pelo réu pessoalmente e a vontade expressa pela defesa técnica. Na hipótese, conforme se depreende das informações constantes dos autos, o próprio réu já havia manifestado o desejo de não recorrer e, embora o advogado tenha interposto recurso em sentido estrito, quando intimado para apresentar as razões recursais, quedou-se inerte. Na sequência, intimada a defensoria pública, essa formulou o pedido de desistência do recurso. Não havia, tecnicamente, portanto, duas vontades opostas - a do patrono e a do réu.
+Portanto, tenho como legítima a desistência do recurso anteriormente interposto, não havendo falar em cerceamento de defesa.
+Noutro giro, alega a defesa que não foi comprovada a autoria, uma vez que foi baseada apenas em reconhecimento inválido feito por fotografia em solo policial, sem que tenha havido descrição anterior física do suspeito.
+Todavia, constato que, ao contrário do aventado pela defesa, o ato coator registrou a existência de provas judiciais nos autos que corroboravam a prova indiciária da autoria, vejamos (fls. 28/31 - grifo nosso ):
+Não merece acolhimento igualmente a arguição de invalidade do processo no tocante ao ato de reconhecimento do requerente, sob a alegação de que não foram respeitados os ditames do artigo 226, do Código de Processo Penal.
+Sobre o reconhecimento de pessoas, por meio fotográfico, o Superior Tribunal de Justiça, em acórdão paradigma, fixou os limites para a sua admissão, como forma de coibir abusos e injustiças, consoante se depreende do seu trecho abaixo transcrito:
+ ..
+A posição sedimentada naquela Corte Superior, é no sentido de que a identificação pessoal fotográfica, realizada na fase inquisitiva, desde que observados os requisitos do artigo 226, do CPP, bem como seja corroborada por outras provas colhidas em juízo, pode servir de base para a condenação.
+Colhe-se dos autos originários que o recorrente Cassiano foi reconhecido pelas testemunhas Lauanda Felizardo da Silva (i.e. 34 e 2938, do processo originário 0002785-97.2014.8.19.0014) e Pamela da Silva (i.e. 242, do processo originário 0002785-97.2014.8.19.0014).
+Além disso, o reconhecimento não foi de pessoa, nos exatos termos do artigo 226, do Código de Processo Penal, tratando-se, na verdade, de um objeto, não configurando prova vedada e sim semiplena, em que deve ser corroborada com outros elementos dos autos, para que corporifique a autoria do crime. E na situação vertente, deve ser frisado, que em juízo, sob o crivo do contraditório e da ampla defesa, o requerente também foi reconhecido como um dos autores do obrar delitivo.
+Desse modo, a identificação por fotografia, efetuada na fase de investigação preliminar, pode constituir meio idôneo de prova, desde que corroborada por outros elementos de convicção carreados aos autos durante a instrução procedimental, circunstância que se depara na hipótese vertente, consistente na prova oral produzida e, sobretudo, pelo reconhecimento pessoal efetuado sob o crivo do contraditório e da ampla defesa.
+Ainda na linha de compreensão esposada são os seguintes Julgados do Colendo Superior Tribunal de Justiça:
+ ..
+Ao contrário do alegado, não se verifica alguma eiva, na fase preliminar de investigação, quanto ao ato de identificação do requerente por fotografia.
+É cediço ser vedado ao magistrado fundamentar suas decisões exclusivamente nos elementos informativos colhidos na fase de investigativa, sem que tenham sidos submetidos ao crivo do contraditório e da ampla defesa na Instrução.
+Contudo, os aludidos elementos informativos podem ser utilizados de forma subsidiária e em complementação à prova produzida em Juízo. Nessa linha de compreensão é a doutrina do professor RENATO BRASILEIRO DE LIMA:
+ ..
+A prova oral produzida em juízo corrobora os elementos informativos angariados na fase investigativa e revelam que o requerente, em comunhão de esforços, realizou disparos de arma de fogo, atingindo três vítimas, levando à morte de uma delas.
+Inobstante denominada revisão criminal e supostamente calcada nos dispositivos elencados, esta ação não transpõe as lindes de um segundo recurso de apelação, não previsto no ordenamento jurídico pátrio.
+Ademais, o acórdão impugnado enfrentou de maneira devidamente fundamentada a questão relativa plenitude da instrução probatória, inexistindo razão para desconstituí-lo.
+Somado a isso, da decisão de pronúncia consta que uma das testemunhas que reconheceu o paciente apontou que já o conhecia, o que confere confiabilidade ao reconhecimento feito em Delegacia por fotografia e renovado pessoalmente, em juízo, descartando a suposição de que poderia ter sido induzida em erro, sugerida pela defesa.
+Dessa forma, diante de tal conjuntura fático-processual, verifico que foram produzidas provas tanto na fase inquisitorial quanto judicial acerca da autoria, pois o reconhecimento em solo policial, ainda que, eventualmente, não tenha observado as exigências legais insculpidas no art. 226 do Código de Processo Penal, não se afigura como o único elemento probatório que demonstrou a autoria, não havendo, assim, falar em ilicitude das provas.
+Portanto, encontra-se o conjunto probatório apto a amparar a tese acolhida pelo Conselho de Sentença, sendo certo que eventual análise minuciosa da tese trazida ensejaria amplo reexame de fatos e provas, providência incabível na via estreita do habeas corpus.
+Ante o exposto, denego a ordem de habeas corpus.
