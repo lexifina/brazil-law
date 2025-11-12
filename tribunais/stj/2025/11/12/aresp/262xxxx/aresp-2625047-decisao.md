@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual SILVANA VENÂNCIO DA ROCHA ESCUDERO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 93):
+Apelação Cível - Cumprimento de Sentença Definitiva - Servidora pública estadual ativa - Professora - Contra r. sentença que RECONHECEU PRESCRITA a execução que a exequente move contra a FAZENDA DO ESTADO DESÃO PAULO - Alegação de inocorrência do instituto da prescrição por se tratar de obrigação de trato sucessivo - Inadmissibilidade - Prescrição de trato sucessivo, nos termos da súmula 85 do STJ, que se renova mês a mês, por se tratar de verba salarial, que ocorre durante o processo de conhecimento e não durante a execução de sentença - Pretensão de provimento recursal com a retomada da execução em desfavor do Estado de São Paulo - Descabimento da pretensão - Passados mais de cinco anos desde o trânsito em julgado da ação e o pedido de execução - Prescrição de fundo de direito - Decisão escorreita e mantida - Precedentes- Recurso desprovido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte agravante sustenta, além de divergência jurisprudencial, a ocorrência de violação do art. 1º do Decreto 20.910/1932. Alega, para tanto, que deve ser afastada a prescrição da execução porquanto a obrigação é de trato sucessivo.
+Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 167/172).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o presente agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+N os  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência (fls. 94/95):
+Não assiste razão à ora recorrente. Não se confunde a prescrição de obrigação de trato sucessivo, que se renova mês a mês por se tratar de verba salarial com a prescrição de fundo de direito. Assim, repito, não se discute na impugnação a prescrição da pretensão de trato sucessivo, mas sim a prescrição para o ajuizamento da execução. Não se está na fase de conhecimento do processo, em que a prescrição se renova mês a mês (trato sucessivo), mas sim na fase executória, com a prescrição quinquenal prevista no Decreto Lei 20.910, de 6 de janeiro de 1932.
+Já a Súmula 150 do STF assim prega:
+"Prescreve a execução no mesmo prazo de prescrição da ação."
+Tem-se que o trânsito em julgado da ação se deu em 06/02/2015 (fls.21) sem a interposição de recurso de agravo em sede de recurso extraordinário, tendo sido a exequente intimada. A execução da sentença somente foi protocolada (fls.01/02) em 05/01/2023, ou seja, oito anos após.
+Esta Corte possui entendimento firmado no sentido de que o prazo para propositura de execução contra a Fazenda Pública, nos termos do art. 1º do Decreto 20.910/1932 e da Súmula 150 do Supremo Tribunal Federal, é de cinco anos, contados do trânsito em julgado do processo de conhecimento. Não se aplica ao presente caso a Súmula 85/STJ, porquanto não há falar em relação de trato sucessivo. Confiram-se precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SÚMULA 150/STF. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. O Tribunal de origem aplicou a jurisprudência desta Corte no sentido de que o prazo prescricional para a pretensão executória é de cinco anos contados a partir do trânsito em julgado, nos termos do que dispõe a Súmula 150/STF: "Prescreve a execução no mesmo prazo de prescrição da ação". Precedentes: AgRg nos EDcl no REsp 1146072/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 20/08/2014; AgRg no REsp 1356387/SE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/12/2013.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.320.642/SE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2014, DJe de 30/9/2014.)
+PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO. TERMO INICIAL: TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO PROCESSO DE CONHECIMENTO. SÚMULA 150/STF. FICHAS FINANCEIRAS. DEMORA NA OBTENÇÃO. INEXISTÊNCIA DE INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. O Tribunal de origem, ao examinar a questão, concluiu pela prescrição da pretensão executiva, pela constatação de que transcorreram mais de 13 (treze) anos entre o trânsito em julgado da ação de conhecimento e a propositura da respectiva execução.
+2. A jurisprudência do STJ é pacífica no sentido de que o prazo prescricional da ação de execução é o mesmo da ação de conhecimento, a teor da Súmula 150/STF, bem como que o prazo em que o exequente alega estar diligenciando administrativamente para obter as fichas financeiras aptas a instruir a execução não tem o condão de suspender o prazo prescricional.
+3. Da leitura dos precedentes desta Corte, depreende-se que, ao contrário do alegado pelos agravantes, não há falar em relação de trato sucessivo, pois a execução contra a Fazenda Pública deve ser proposta no mesmo prazo de prescrição da ação de conhecimento, qual seja, cinco anos, nos termos do art. 1º do Decreto n. 20.910/32, não se aplicando a Súmula 85/STJ.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.356.387/SE, relator Ministro Humberto Martins, Segunda Turma, julgado em 10/12/2013, DJe de 16/12/2013.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
