@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO (Fazenda Nacional), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 6ª Região assim ementado (e-STJ, fl. 539):
+TRIBUTÁRIO. PROCES SUAL CIVIL. CONTRIBUIÇÕES PARAFISCAIS ARRECADADAS POR CONTA DE TERCEIROS. ART. 4º DA LEI N. 6.950/81, COM AS ALTERAÇÕES PROMOVIDAS PELO DECRETO-LEI N. 2.318/86. BASE DE CÁLCULO. LIMITE DE 20 SALÁRIOS MÍNIMOS. REVOGAÇÃO DA LIMITAÇÃO PELO DECRETO-LEI N. 2.318/86. TEMA N. 1.079 STJ. OBSERVÂNCIA OBRIGATÓRIA.
+1. O Superior Tribunal de Justiça, no julgamento, pela sistemática dos recursos repetitivos, do Tema n. 1.079, firmou entendimento acerca da inaplicabilidade do teto de vinte salários mínimos às contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac.
+2. Na modulação dos efeitos do precedente paradigmático vinculante, ficou ressalvada a situação jurídica albergada por pronunciamento judicial ou administrativo favorável ao contribuinte, desde que o início do respectivo processo tenha se dado até 25/10/2023, data de início do julgamento do RE REsp 1898532/CE, restringindo-se a limitação da base de cálculo até a data da publicação do acórdão (02/05/2024).
+3. Sentença reformada, com preservação dos efeitos produzidos até 02/05/2024.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 584-589).
+Em suas razões recursais (e-STJ, fls. 603-617), a União aponta que o acórdão recorrido violou os arts. 4º da Lei 6.950/1981 e 1º, inciso I, do Decreto-Lei 2.318/1986, tendo defendido que o limite veiculado de 20 (vinte) salários mínimos, quando aplicável, deve incidir sobre o salário de contribuição de cada empregado e, além disso, a modulação dos efeitos considerada pelo Tema 1.079/STJ deve restringir-se às contribuições destinadas ao SESI, SENAI, SESC e SENAC.
+Reforça, ainda, que deveria ser aplicada a tese fixada pelo Tema 1.079/STJ por congruência às demais contribuições (INCRA, APEX, ABDI, SEBRAE e Salário-Educação/FNDE), mas a modulação deve alcançar apenas as contribuições do Sistema S tratadas nos recursos paradigmáticos, entidades que participaram dos recursos que originaram a referida restrição de efeitos do precedente.
+Foram apresentadas contrarrazões ao recurso especial (e-STJ, fls. 626-633).
+O recurso especial foi admitido (e-STJ, fl. 638).
+Brevemente relatado, decido.
+Nos presentes autos, há debate sobre matéria afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando julgamento sob o rito dos recursos repetitivos, Tema 1.390, vinculado aos 2187625/RJ, 2187646/CE, 2188421/SC e 2185634/RS, de relatoria da Ministra Maria Thereza de Assis Moura (e-STJ, fls. 536-538; 604-617).
+A questão de direito está delimitada nos seguintes termos: "Definir se o teto de 20 (vinte) vezes o maior salário mínimo vigente no país previsto no art. 4º, parágrafo único, da Lei n. 6.950/1981, se aplica às bases de cálculo das contribuições ao INCRA, salário-educação, DPC, FAER, SENAR, SEST, SENAT, SESCOOP, SEBRAE, APEX-Brasil e ABDI."
+Verifica-se, igualmente, que foi determinada a suspensão dos processos pendentes (art. 1.037, II, do CPC).
+Nesse contexto, em observância ao princípio da eficiência e ao regime jurídico-processual do CPC/2015, bem como ao disposto no art. 256-L do RISTJ, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos paradigmas, seja realizado o juízo de conformação previsto nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO TRIBUTÁRIO. CONTRIBUIÇÕES PARAFISCAIS. LIMITAÇÃO. TETO DE 20 (VINTE) SALÁRIOS MÍNIMOS PREVISTO NA LEI N. 6.950/1981. REVOGAÇÃO. TEMA 1.079/STJ. AMPLIAÇÃO DOS EFEITOS. TEMA 1.390/STJ. SOBRESTAMENTO. DETERMINADA A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
