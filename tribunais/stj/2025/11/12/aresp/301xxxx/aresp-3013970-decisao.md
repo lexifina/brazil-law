@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DO ESPÍRITO SANTO contra decisão que inadmitiu recurso especial (e-STJ, fls. 193-196) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, assim ementado (e-STJ, fl. 95):
+AGRAVO DE INSTRUMENTO. FAZENDA PÚBLICA. ESTADO DO ESPÍRITO SANTO. CUSTAS PROCESSUAIS. SERVENTIA NÃO OFICIALIZADA. POSSIBILIDADE. RECURSO DESPROVIDO.
+I - Este E. TJES possui entendimento de que se a tramitação da demanda ocorreu enquanto não oficializada a serventia, são devidas as custas pelo sucumbente, não se configurando em inconstitucionalidade a determinação de seu pagamento, em vista da previsão constitucional contida no artigo 31 do ADCT.
+II - Considerando que a demanda foi ajuizada no ano de 2014 e sua tramitação ocorreu enquanto não oficializada a serventia, são devidas as custas pelo Estado e suas Autarquias.
+III - A natureza privada da Vara Judicial Não Oficializada afasta a ocorrência do fenômeno da confusão patrimonial, já que credor e devedor não se confundem.
+IV - É desnecessário o requerimento ou instauração de prévio cumprimento de sentença pelos Agravados para expedição do RPV, porquanto, a teor do art. 23 da Lei n. 9.974/13, a fiscalização sobre a cobrança e recolhimento das custas compete entre outros, ao juiz de direito diretor do foro ou do processo.
+V - Recurso conhecido e improvido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fls. 124-125):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO - OMISSÃO - VÍCIO INEXISTENTE- REDISCUSSÃO - IMPOSSIBILIDADE - VIA INADEQUADA - PREQUESTIONAMENTO - RECURSO CONHECIDO E DESPROVIDO.
+I - De acordo com a regra disposta no artigo 1.022 do Código de Processo Civil, cabem embargos de declaração quando houver no acórdão obscuridade ou contradição, for omisso sobre ponto o qual deveria pronunciar-se o Tribunal ou no caso de erro material.
+II - Ao analisar o voto condutor do v. acórdão embargado, a toda evidência, o intuito do embargante não é de esclarecer qualquer vício, mas sim viabilizar uma nova apreciação da causa, o que não se permite em sede de aclaratórios, impondo-se, para tanto, a utilização das vias recursais pertinentes a manifestar seu inconformismo e o consequente desejo reformador.
+III - Consoante também já sedimentado na jurisprudência "A adoção, no acórdão embargado, de posição contrária aos interesses da parte embargante, não autoriza a oposição dos embargos de declaração, porquanto inservível para rejulgamento da matéria" (EDcl no AgInt no RE nos EDcl no AgRg no REsp 1420294/CE, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 17/05/2017, DJe 30/05/2017) , motivo pelo qual deve ser mantido o voto como lançado.
+IV - Portanto, tendo o voto condutor examinado a quaestio recursal de forma clara, sem obscuridades, contradições ou omissões, ou qualquer outro vício, deve ser rejeitada a presente via recursal, haja vista que a interpretação dada à matéria carreada ao feito constitui critério de julgamento, de modo que, caso a parte não esteja satisfeita com a solução dada e considere haver error in judicando, deve interpor o recurso adequado, e não opor embargos de declaração.
+V - Destaca-se, ainda, quanto ao pretendido prequestionamento, que, de acordo com o artigo 1.025 do Código de Processo Civil, o ponto suscitado pelo embargante passa a ser considerado prequestionado, mesmo que os embargos de declaração opostos nesta instância estadual tenham sido inadmitidos ou rejeitados, desde que a Corte Superior entenda pela existência dos vícios estampados no artigo 1.022 daquele mesmo diploma legal.
+VI - Recurso conhecido e desprovido.
+Nas razões do recurso especial, o recorrente alegou, com base na alínea a do permissivo constitucional, violação ao art. 534 do CPC/2015.
+Sustentou ser indevida a expedição de ofício de RPV sem o correspondente pedido de cumprimento de sentença.
+Destacou que o ato viola a "GARANTIA CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL E SONEGANDO-SE DO IPAJM O DIREITO DE IMPUGNAR A PRESENTE EXECUÇÃO NA FORMA ESTABELECIDA PELO CPC" (e-STJ, fl. 148).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 193-196).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 201-205).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida no recurso especial, o Tribunal de origem assim se manifestou (e-STJ, fl. 102):
+A seguir, entendo também por desnecessário o requerimento ou instauração de prévio cumprimento de sentença pelos Agravados para expedição do RPV, porquanto, a teor do art. 23 da Lei n. 9.974/13: "A fiscalização sobre a cobrança e recolhimento das custas compete ao Conselho da Magistratura, à Corregedoria Geral da Justiça, ao juiz de direito diretor do foro ou do processo, aos membros do Ministério Público, à Ordem dos Advogados do Brasil e ao titular da serventia judicial ", o que afasta, com efeito, a alegação da irregularidade na determinação de pagamento dos valores ora questionados, de ofício, pelo magistrado.
+Do excerto acima transcrito, depreende-se que a controvérsia foi decidida com fundamento em direito local (Lei Estadual n. 9.974/2013) e a alteração do entendimento exigiria reinterpretação da norma estadual, o que atrai a aplicação da Súmula 280/STF.
+A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 2.833/2000. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. VIOLAÇÃO À LEGISLAÇÃO INFRACONSTITUCIONAL NÃO CONFIGURADA. OFENSA REFLEXA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. CORRETA A MAJORAÇÃO IMPOSTA PELA DECISÃO AGRAVADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO ESTATUTO PROCESSUAL CIVIL. DESCABIMENTO.
+I - Aplicável à espécie, por analogia, o enunciado da Súmula 280, do Supremo Tribunal Federal, segundo o qual por ofensa ao direito local não cabe recurso extraordinário, porquanto a lide foi julgada pelo tribunal de origem à luz de interpretação de legislação local, demandando a sua análise para o deslinde da controvérsia.
+Precedentes.
+II - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+III - Honorários recursais. Cabimento. Correta a majoração imposta pela Presidência desta Corte.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no AREsp n. 2.846.118/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2025, DJEN de 18/8/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. CONTRATO ADMINISTRATIVO. ADESÃO PELO PARTICULAR AO SISTEMA DE AMORTIZAÇÃO DE DÍVIDAS ESTADUAIS. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. LEI ESTADUAL 9.361/1996. ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. NOVAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, asseverando a configuração da novação, de modo que não houve omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 535 do CPC/1973.
+2. A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência, fato que atrai a aplicação, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, em especial, d o contrato administrativo, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.409.023/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. FAZENDA PÚBLICA. CUSTAS PROCESSUAIS. SERVENTIA NÃO OFICIALIZADA. EXPEDIÇÃO DE OFÍCIO DE RPV. INTERPRETAÇÃO DE DIREITO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
