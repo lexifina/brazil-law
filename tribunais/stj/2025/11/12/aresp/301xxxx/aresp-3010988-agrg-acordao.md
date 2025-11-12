@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ART. 226 DO CPP. RECONHECIMENTO DE PESSOAS. CONDENAÇÃO MANTIDA PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO EM OUTROS ELEMENTOS DE PROVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em recentes julgados, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que a inobservância das formalidades previstas no art. 226, do CPP não conduz à imediata absolvição, podendo a condenação ser mantida nas hipóteses em que lastreada em elementos de prova independentes e suficientes a demonstrar a autoria do delito.
+2. Na hipótese, não se verifica contrariedade ao art. 226 do CPP, isso porque de acordo com o acórdão recorrido, a condenação do recorrente não foi fundamentada apenas no reconhecimento fotográfico realizado pela Autoridade Policial durante a realização do Inquérito, mas também no depoimento das vítimas e das testemunhas, tanto em juízo, quanto na fase inquisitorial.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 586/589, de minha relatoria, em que conheci do agravo para negar provimento ao recurso especial por não vislumbrar ofensa ao art. 226 do CPP.
+O agravante se insurge contra essa decisão alegando que "a inobservância do procedimento descrito no artigo 226 do Código de Processo Penal torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo - o que, de toda forma, não ocorreu." (e-STJ fl. 599)
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. ART. 226 DO CPP. RECONHECIMENTO DE PESSOAS. CONDENAÇÃO MANTIDA PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO EM OUTROS ELEMENTOS DE PROVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em recentes julgados, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que a inobservância das formalidades previstas no art. 226, do CPP não conduz à imediata absolvição, podendo a condenação ser mantida nas hipóteses em que lastreada em elementos de prova independentes e suficientes a demonstrar a autoria do delito.
+2. Na hipótese, não se verifica contrariedade ao art. 226 do CPP, isso porque de acordo com o acórdão recorrido, a condenação do recorrente não foi fundamentada apenas no reconhecimento fotográfico realizado pela Autoridade Policial durante a realização do Inquérito, mas também no depoimento das vítimas e das testemunhas, tanto em juízo, quanto na fase inquisitorial.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Consta do autos que o Tribunal de Justiça do Estado de Goiás deu parcial provimento ao apelo defensivo apenas para reduzir apena de multa, mantendo a condenação do recorrido pela prática do crime do art. 157, § 2ºA, inciso I, na forma do artigo 70, caput, por 2 vezes, do Código Penal.
+O recorrente alega que que "a inobservância do procedimento descrito no artigo 226 do Código de Processo Penal torna inválido o reconhecimento da pessoa suspeita e não poderá servir de lastro a eventual condenação, mesmo se confirmado o reconhecimento em juízo - o que, de toda forma, não ocorreu " (e-STJ fl. 599)
+No caso, o TJGO assim se manifestou sobre o tema:
+É bem verdade que o Supremo Tribunal Federal, pela Segunda Turma, no julgamento do RHC n. 206.846/SP, de relatoria do Ministro Gilmar Mendes, definiu que o reconhecimento de pessoas, seja ele presencial ou por fotografia, precisa observar o procedimento disposto no artigo 226 do Código de Processo Penal.
+Tal procedimento exige uma garantia mínima para quem se está sendo investigado pela prática de um crime e para uma verificação dos fatos mais justa e precisa. Por isso, o desrespeito ao procedimento do artigo 226 do CPP invalida o reconhecimento da pessoa suspeita, e, assim sendo, não pode ser usado para fundamentar édito condenatório ou decretar eventual prisão, ainda que tal reconhecimento seja reforçado em Juízo.
+Porém, se o reconhecimento estiver irregular, mas se ainda assim subsistir provas independentes e não contaminadas, a condenação poderá ser mantida, como é o caso dos autos.
+O Superior Tribunal de Justiça, por ocasião do julgamento do HC nº 712.781/RJ, de Relatoria do Ministro Rogério Schietti, em sessão do dia 15/03/2022, sedimentou a definição de que, mesmo se o reconhecimento houver sido realizado em observância aos preceitos do artigo 226 do CPP, isoladamente não possui força probante absoluta, de modo que, não se induz, por si só, a certeza da autoria delitiva, por ser uma prova considerada frágil.
+Por seu turno, entendeu o STJ que se o reconhecimento não observar as regras do citado dispositivo, este será inválido e não pode ser usado nem mesmo de forma suplementar.
+Ocorre que, no presente caso, existem elementos independentes que demonstraram ser o Apelante o autor do crime que lhe foi imputado, especialmente, o depoimento das vítimas e das testemunhas, tanto em juízo, quanto na fase inquisitorial.
+Outrossim, no presente caso o conjunto probatório não se resumiu em um único elemento de prova de autoria, qual seja, o reconhecimento pessoal, mas em outros elementos que, contratados com as provas carreadas, conduziram a apontar com segurança a autoria em desfavor do Apelante. (e-STJ fls. 481/482)
+Como se nota do trecho acima transcrito, não se verifica contrariedade ao art. 226 do CPP, isso porque de acordo com o acórdão recorrido, a condenação do recorrente não foi fundamentada apenas no reconhecimento fotográfico realizado pela Autoridade Policial durante a realização do Inquérito, mas também no depoimento das vítimas e das testemunhas, tanto em juízo, quanto na fase inquisitorial. (e-STJ fl. 482).
+É importante registrar que em recentes julgados, ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que a inobservância das formalidades previstas no art. 226, do CPP não conduz à imediata absolvição, podendo a condenação ser mantida nas hipóteses em que lastreada em elementos de prova independentes e suficientes a demonstrar a autoria do delito, como no caso. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTÂNCIADO. ALEGADA VIOLAÇÃO DO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. RATIFICAÇÃO DO RECONHECIMENTO EM JUÍZO. EXISTÊNCIA DE OUTROS ELEMENTOS DE PROVA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. REGIME SEMIABERTO. IMPOSSIBILIDADE. CIRCUNSTÂNCIA NEGATIVA. AGRAVO DESPROVIDO.
+1. Esta Corte entende que a ratificação do reconhecimento pessoal em juízo serve como meio idôneo de prova para fundamentar a condenação do acusado pelo crime de roubo. Ressalta-se, ainda, a existência de outras provas produzidas em juízo aptas para embasar o decreto condenatório.
+2. Houve fundamentação concreta para o aumento da pena em percentual de 3/8, em virtude do uso de arma de fogo, bem como pelo risco de morte da vítima
+3. Fica mantido o regime fechado, uma vez que uma única circunstância judicial negativa já justifica o recrudescimento do regime inicial de cumprimento de pena.
+4. Agravo regimental desprovido. (AgRg no HC n. 875.489/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/6/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ROUBO MAJORADO. CONCURSO MATERIAL. PROVA DE AUTORIA. ALEGAÇÃO DE NULIDADE DOS RECONHECIMENTOS PESSOAIS RELIZADOS POR TRÊS VÍTIMAS EM SEDE POLICIAL. TESE DE NULIDADE DOS RECONHECIMENTOS REALIZADOS POR DUAS DAS VÍTIMAS JÁ ANALISADA POR ESTA CORTE. INVIÁVEL NOVO EXAME DO TEMA. RECONHECIMENTO REALIZADO PELA TERCEIRA VÍTIMA DE FORMA SEGURA E REAFIRMADO EM JUÍZO. AUTORIA CORROBORADA POR OUTRAS PROVAS. VEDADO O REEXAME DO ACERVO FÁTICO-PROBATÓRIO EM HABEAS CORPUS. SUPOSTA VIOLAÇÃO AO ART. 155 DO CPP. INOCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A prolação de decisão monocrática pelo Ministro relator está autorizada não apenas pelo Regimento Interno do Superior Tribunal de Justiça, mas também pelo art. 932 do Código de Processo Civil.
+Ademais, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. É pacífico o entendimento no sentido de que "não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+3. Na hipótese dos autos, a tese de nulidade dos reconhecimentos pessoais realizados por duas das três vítimas já foi analisada por este Superior Tribunal de Justiça no julgamento do HC n. 772.079/RJ.
+Inviável, portanto, novo exame do tema.
+4. O acusado não pode ser condenado com base, apenas, em eventual reconhecimento pessoal falho, ou seja, sem o cumprimento das formalidades previstas no art. 226, do Código de Processo Penal, as quais constituem garantia mínima para quem se encontra na condição de suspeito da prática de um delito.
+5. É possível que o julgador, destinatário das provas, convença-se da autoria delitiva a partir de outras provas que não guardem relação de causa e efeito com o ato do reconhecimento pessoal falho, porquanto, sem prejuízo da nova orientação, não se pode olvidar que vigora no sistema probatório brasileiro o princípio do livre convencimento motivado, desde que existam provas produzidas em contraditório judicial.
+6. No caso dos autos, as instâncias ordinárias afirmaram que a condenação não está amparada apenas no reconhecimento realizado em solo policial, mas nas firmes declarações da vítima que, em consonância com as demais provas dos autos, ratificou em juízo o reconhecimento do réu (ora agravante) como sendo o autor do delito.
+7. Não é possível rever a conclusão das instâncias ordinárias acerca da suficiência das provas para a procedência da acusação, pois não há como reexaminar em profundidade todo o acervo fático probatório dos autos nos estreitos limites de cognição do habeas corpus.
+Precedentes.
+8. Não há que se falar em violação do art. 155 do Código de Processo Penal quando a vítima foi ouvida em juízo, oportunidade em que confirmou as circunstâncias da conduta criminosa e reafirmou o reconhecimento pessoal realizado em sede policial.
+9. Agravo regimental a que se nega provimento. (AgRg no HC n. 898.653/RJ, desta Relatoria, DJe de 29/5/2024.)
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
