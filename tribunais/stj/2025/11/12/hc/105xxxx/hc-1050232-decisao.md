@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOÃO FELIPE LEMES DE OLIVEIRA apontado como autoridade coatora ato da Quarta Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, nos autos do processo n. 1500873-92.2021.8.26.0032.
+Consta nos autos que o paciente foi condenado, em primeira instância, pelo Juízo de Direito da 2ª Vara Criminal da Comarca de Araçatuba/SP, nos autos da Ação Penal n. 1500873-92.2021.8.26.0032, à pena de 7 meses de detenção, em regime inicial semiaberto, mais o pagamento de 11 dias-multa, além da suspensão do direito de dirigir veículo automotor pelo período de 2 anos e 10 dias, tendo em vista a prática do delito descrito no art. 306, caput, § 1º, inciso I, da Lei n. 9.503/1997 (e-STJ, fls. 36-39).
+A defesa impetrou habeas corpus perante o Tribunal de origem. Em decisão monocrática de Desembargador integrante da referida Corte, o impetração foi indeferida liminarmente que negou provimento ao recurso (e-STJ, fls. 9-13).
+Na presente impetração, a defesa alega nulidade da citação por edital, feita sem esgotar as diligências para localizar o réu, apesar de o Estado ter endereço, contatos de familiares e telefone do paciente.
+Cita precedente do STF, que reconhece a citação por edital como excepcional, válida apenas após esgotadas as tentativas reais de localização.
+Requer, liminarmente, a concessão da ordem para que seja expedido contramandado de prisão em favor do paciente. No mérito, o reconhecimento da nulidade do processo e do decreto de prisão do paciente.
+É o relatório.
+Decido.
+O rito do habeas corpus exige a comprovação pré-constituída do direito alegado, cabendo à defesa o ônus de demonstrar, de forma inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+No caso em análise, não foi juntado cópia do ato coator, sentença condenatória e demais documentos pertinentes à pretensão da defesa, o que impede a verificação adequada a tese defensiva e, consequentemente, a apreciação da impetração.
+Ressalte-se que não se exige, por parte do relator da impetração, a requisição obrigatória de informações à autoridade apontada como coatora, uma vez que tais elementos possuem apenas caráter subsidiário, servindo para auxiliar na formação do convencimento do julgador. Entretanto, tal procedimento não exime o impetrante do ônus de instruir adequadamente seu pedido, mediante a apresentação da documentação comprobatória capaz de demonstrar, de forma inequívoca, a ilegalidade alegada.
+A esse respeito:
+PENAL E PROCESSUAL PENAL AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. ATOS INFRACIONAIS. ENTENDIMENTO PERFILHADO PELAS INSTÂNCIAS ORDINÁRIAS CONSENTÂNEO COM O FIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR. DEFICIÊNCIA NA INSTRUÇÃO DO WRIT. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS ALEGADOS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido de aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas. Esta Corte Superior, no julgamento dos Embargos de Divergência no Recurso Especial n. 1.916.596, em 8/9/2021, a Terceira Seção, consolidando a sua jurisprudência, firmou compreensão de que o histórico infracional do acusado pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+III - In casu, as instâncias ordinárias não aplicaram a minorante ao entendimento de que o paciente ostenta diversas atos infracionais pretéritos por tráfico de drogas e homicídio demonstrando sua dedicação à prática criminosa.
+IV - De outro lado, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, sendo dever da defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. In casu, a defesa não juntou certidão ou documento que comprovasse suas alegações. Desta feita, não é possível acolher a pretensão defensiva, segundo as alegações vertidas na exordial, sem revolvimento fático-probatório, medida interdita na via eleita.
+Agravo regimental desprovido. (AgRg no HC n. 894.494/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE ORGANIZAÇÃO CRIMINOSA. ART. 2º, §§ 2º, 3º E 4º, I, DA LEI N. 12.850/2013. ALEGAÇÃO VIOLAÇÃO AO PRINCÍPIO DA CORRELAÇÃO ENTRE A DENÚNCIA E A SENTENÇA CONDENATÓRIA. TESE NÃO ENFRENTADA PELA CORTE ORIGINÁRIA. IMPOSSIBILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Alegação violação ao princípio da correlação entre a denúncia e a sentença condenatória. Indubitavelmente, observa-se que a referida tese não foi enfrentada pela eg. Corte de origem. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+III - Ad argumentandum tantum, ainda que fosse possível falar de prequestionamento ficto, haja a vista a alegação da parte de que suscitou a violação do princípio da correlação nas razões de apelação, não há nos autos a referida peça defensiva. Com efeito, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, sendo dever da defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. In casu, não houve juntada das razões de apelação, peça imprescindível para atestar as alegações defensivas.
+Assim, não é possível a análise da impetração. A propósito: AgRg no HC n. 267.581/SP, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 01/07/2013; e HC n. 445.235/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 09/12/2019. Registre-se que "não é imprescindível, por parte do Relator da impetração, a requisição de informações à autoridade apontada como coatora, as quais somente tem por finalidade auxiliar na formação do convencimento do julgador, não substituindo, todavia, o ônus do impetrante de instruir o seu pedido com a necessária documentação comprobatória do que foi alegado" (RHC n. 33.851/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 26/09/2013).
+Agravo regimental desprovido. (AgRg no HC n. 745.735/AC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+Ainda que fosse possível superar esse óbice, em consulta ao sítio eletrônico do Tribunal de origem, colhe-se a informação que a sentença condenatória transitou em julgado. Assim, a utilização do presente habeas corpus com o fim de se desconstituir as decisões proferidas pelas instâncias ordinárias consubstancia pretensão revisional que configura usurpação da competência do Tribunal de origem, nos termos dos arts. 105, inciso I, alínea e, e 108, inciso I, alínea b, ambos da Constituição da República.
+Registre-se que, no âmbito do Superior Tribunal de Justiça, não há julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Nesse contexto, o habeas corpus não deve ser conhecido, em razão da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+Nessa linha:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado após o trânsito em julgado da condenação, sob o fundamento de que a via eleita é sucedânea de revisão criminal, sendo, portanto, inadmissível.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em definir se é admissível a impetração de habeas corpus como substituto de revisão criminal, após o trânsito em julgado da condenação. III. RAZÕES DE DECIDIR
+3. O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o habeas corpus não pode ser utilizado como sucedâneo da revisão criminal, ressalvada a possibilidade de concessão da ordem de ofício em caso de flagrante ilegalidade.
+4. A competência do Superior Tribunal de Justiça para processar e julgar revisão criminal limita-se aos seus próprios julgados, conforme dispõe o art. 105, I, e, da Constituição Federal.
+5. A segurança jurídica e a preclusão temporal impedem a rediscussão da condenação por meio de habeas corpus, quando já transcorrido o trânsito em julgado e esgotadas as vias ordinárias.
+IV. AGRAVO REGIMENTAL DESPROVIDO.(AgRg no HC n. 989.504/MS, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 8/4/2025, DJEN de 11/4/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado após o trânsito em julgado da condenação.
+2. O paciente foi condenado à pena de 7 anos e 6 meses de reclusão, em regime inicial semiaberto, pela prática do delito descrito no art. 157, § 2º-A, inciso I, do Código Penal. A defesa alegou nulidade no reconhecimento fotográfico e pessoal realizado na fase policial, sem observância do art. 226 do Código de Processo Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em definir se é admissível a impetração de habeas corpus como substituto de revisão criminal, após o trânsito em julgado da condenação.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o habeas corpus não pode ser utilizado como sucedâneo da revisão criminal, ressalvada a possibilidade de concessão da ordem de ofício em caso de flagrante ilegalidade.
+5. A competência do Superior Tribunal de Justiça para processar e julgar revisão criminal limita-se aos seus próprios julgados, conforme dispõe o art. 105, I, e, da Constituição da República.
+6. A segurança jurídica e a preclusão temporal impedem a rediscussão da condenação por meio de habeas corpus, quando já transcorrido o trânsito em julgado e esgotadas as vias ordinárias.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade. 2. A competência do STJ para revisão criminal limita-se aos seus próprios julgados. 3. A segurança jurídica e a preclusão temporal impedem a rediscussão da condenação por meio de habeas corpus após o trânsito em julgado".
+Dispositivos relevantes citados: CR/1988, art. 105, I, "e"; CPP, art. 226.Jurisprudência relevante citada: STJ, HC 947.404/MS, Rel. Min. Sebastião Reis Júnior, Rel. p/ Acórdão Min. Og Fernandes, Sexta Turma, julgado em 18/03/2025; STJ, AgRg no HC 989.504/MS, Rel. Min. Carlos Cini Marchionatti, Quinta Turma, julgado em 08/04/2025. (AgRg no HC n. 997.447/RS, de minha relatoria, Quinta Turma, julgado em 13/8/2025, DJEN de 18/8/2025.)
+De mais a mais, ainda que se tomasse o coator a decisão de fls. 9-13, e-STJ , a impetração não prosperaria.
+De acordo com o disposto no art. 105, inciso I, alínea c, da Constituição da República, compete ao Superior Tribunal de Justiça apreciar habeas corpus quando o ato impugnado emana de Tribunal sujeito à sua jurisdição. Em outras palavras, não se configura competência desta Corte para examinar habeas corpus impetrado contra decisão monocrática proferida por Desembargador, ausente manifestação colegiada da instância de origem.
+Cumpre destacar que, em respeito à arquitetura constitucional do Poder Judiciário e à lógica de funcionamento do sistema processual brasileiro, é imprescindível que as instâncias ordinárias se manifestem previamente sobre a controvérsia. Somente após essa deliberação é que se abre a via para atuação do Superior Tribunal de Justiça. Nesse sentido, revela-se incabível o conhecimento do presente habeas corpus, uma vez que o ato apontado como coator consiste em decisão singular, ainda não submetida à apreciação colegiada pela Corte originária.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ATO QUESTIONADO. DECISÃO MONOCRÁTICA DO TRIBUNAL DE JUSTIÇA . NÃO EXAURIMENTO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão da Presidência do STJ que indeferiu liminarmente o habeas corpus, impetrado contra decisão monocrática de Desembargador do Tribunal de Justiça, sem deliberação colegiada.
+2. A defesa pleiteia a aplicação do tráfico privilegiado no patamar máximo e o abrandamento do regime prisional.
+II. Questão em discussão
+3. A questão em discussão consiste em verificar se a impetração de habeas corpus contra decisão monocrática de Desembargador pode ser conhecida pelo Superior Tribunal de Justiça (STJ) sem o exaurimento das instâncias ordinárias.
+III. Razões de decidir
+4. O Superior Tribunal de Justiça somente pode examinar habeas corpus contra decisões proferidas por Tribunais em única ou última instância, conforme o art. 105, inciso II, alínea c, da Constituição Federal, o que pressupõe a manifestação de um órgão colegiado.
+5. A impetração de habeas corpus contra decisão monocrática, sem a interposição de agravo regimental, configura falta de exaurimento das instâncias ordinárias, inviabilizando o conhecimento da ação pelo STJ.
+IV. Dispositivo e tese
+6. Agravo desprovido.
+Tese de julgamento: "1. O STJ não pode conhecer habeas corpus contra decisão monocrática de Desembargador sem exaurimento das instâncias ordinárias. 2. A manifestação de um órgão colegiado é necessária para o conhecimento do habeas corpus pelo STJ."
+Dispositivos relevantes citados: CR/1988, art. 105, II, "c".
+Jurisprudência relevante citada: STJ, HC 932.678/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 15.10.2024. (AgRg no HC n. 967.072/SP, de minha relatoria, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA DE DESEMBARGADOR. NÃO EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. TRÁFICO DE DROGAS. AGRAVO IMPROVIDO.
+1. Impetrado o habeas corpus contra decisão monocrática de desembargador, constata-se a ausência de deliberação colegiada que pudesse estabelecer a competência do Superior Tribunal de Justiça.
+2. O não exaurimento da instância de origem impõe o não conhecimento da impetração, impossibilitando a análise do pedido por este Tribunal Superior, conforme precedentes.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois o decreto de prisão domiciliar considerou o fracionamento das drogas (divididas em pedras e embrulhos), sua natureza (crack e maconha), bem como a quantia em espécie apreendida.
+4. Agravo regimental improvido. (AgRg no HC n. 957.928/PB, relator Ministro Og Fernandes, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Diante do exposto, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
