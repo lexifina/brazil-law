@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VINICIOS PEREIRA DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP - GARANTIA DA ORDEM PÚBLICA. POSSIBILIDADE DE CUMPRIMENTO DA PENA EM REGIME MENOS GRAVOSO - INOPORTUNIDADE. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS - DESCABIMENTO. DENEGAR A ORDEM.
+I. A decisão que converte a prisão em flagrante em preventiva para resguardo da ordem pública não consubstancia constrangimento ilegal, quando embasada em atos e comportamentos concretos do imputado e no risco gerado pelo seu estado de liberdade.
+II. Questões relativas a fixação da pena, regime de cumprimento e concessão de eventuais benefícios, não é cabível em sede de Habeas Corpus, por demandarem revolvimento de circunstâncias que somente após o encerramento da instrução poderão ser aferidas
+III. A demonstração concreta da necessidade da prisão preventiva afasta a possibilidade da sua substituição por medidas cautelares diversas.
+Consta dos autos que o paciente está preso preventivamente desde 16/08/2025, em razão de suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A Corte local denegou o habeas corpus originário e manteve a prisão cautelar.
+No presente writ, a defesa sustenta a ausência de fundamentação concreta e individualizada para a prisão preventiva, baseada em argumentos genéricos de gravidade abstrata e quantidade de droga, sem demonstração do periculum libertatis, além da apresentação de fatos e documentos novos não examinados no HC anterior: vínculo formal de emprego (CTPS), residência fixa e certidão de nascimento de filho menor de 6 anos, com dependência econômica.
+Afirma que o contexto da apreensão indicando apenas resquício de droga em microtubo na posse direta do paciente, sendo a maior quantidade localizada em residência, o que apontaria menor relevância da conduta ou possível condição de usuário.
+Ressalta as condições pessoais favoráveis (primariedade, ausência de antecedentes, vínculos laborais e familiares), tornando desproporcional a custódia, destacando a suficiência de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP.
+Requer a concessão da ordem para revogar a prisão preventiva e conceder liberdade provisória ao paciente, com aplicação, se necessário, de medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida (fls. 26-29).
+As informações foram prestadas (fls. 34-62).
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem, nos termos da seguinte ementa (fl. 67):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AS CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE REVELAM A GRAVIDADE CONCRETA DA CONDUTA, JUSTIFICANDO A SEGREGAÇÃO CAUTELAR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Parecer pelo não conhecimento ou denegação do writ.
+É o relatório.
+A Quinta Turma do Superior Tribunal de Justiça firmou entendimento no sentido de ser inadequada a impetração de habeas corpus quando utilizado em substituição a recurso próprio.
+A teor do disposto no art. 105, II, "a", da CF/88, o recurso cabível contra acórdão que denega a ordem na origem é o recurso ordinário, enquanto que, consoante previsto no art. 105, III, da CF, contra acórdão que julga a apelação, o recurso em sentido estrito e o agravo em execução, cabe recurso especial.
+Nada impede, contudo, constatada a existência de ilegalidade flagrante, abuso de poder ou teratologia, a concessão de habeas corpus de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, o que ora passa-se a examinar.
+Extrai-se da decisão que decretou a custódia cautelar (fls. 38-43):
+No caso vertente, tenho que a prisão preventiva do conduzido é medida de rigor.
+Narrou o condutor do APFD, o Policial Militar Márcio Aparecido de Almeida, que, durante patrulhamento tático motorizado na cidade de Mateus Leme, um morador local abordou a equipe e, por temer represálias, solicitou anonimato, repassando a informação de que na Rua Buganville, nº 34, Bairro Jardim Serra Azul, haveria um terreno extenso, com três residências em construção. Segundo o noticiante, ao adentrar nesse terreno e seguir em direção ao fundo, do lado esquerdo, existiria uma residência utilizada por dois adultos e uma adolescente, que se associaram para a prática do crime de tráfico de drogas, utilizando o imóvel para fracionar e armazenar entorpecentes.
+A adolescente foi descrita como de cor negra, baixa estatura, trajando conjunto preto (short e blusa), posteriormente identificada como KIMBERLY KYARA DE SOUZA RODRIGUES.
+O primeiro adulto, de estatura mediana, magro, barba e bigode, usava camisa cinza e bermuda estampada, sendo identificado como THIAGO SANTOS SOUZA.
+O segundo adulto, também magro, de estatura mediana, bigode e cavanhaque, trajava camisa vermelha e bermuda preta, sendo identificado como VINICIOS PEREIRA DOS SANTOS.
+Diante da "denúncia", a equipe planejou a operação e se deslocou até o endereço informado.
+Ao chegarem, verificaram que o portão do terreno encontrava-se aberto de maneira incomum (ampla abertura), aparentando ter sido forçado ou aberto de maneira abrupta, o que levantou suspeitas de movimentação recente.  ..
+Já VINICIOS declarou, também sem coação, que não participava da venda, mas, por ser usuário, permitia que THIAGO e KIMBERLY utilizassem sua casa para fracionar a droga, em troca de receber parte do entorpecente.
+O custodiado VINÍCIUS PEREIRA DOS SANTOS declarou que estava na casa de seu primo Gabriel (Helton Gabriel Souza Pedroso), com quem mora há cerca de oito meses, quando ocorreu a abordagem policial. Afirmou que Gabriel não estava presente no momento e negou envolvimento com o tráfico de drogas, atribuindo a autorização para que Thiago e a adolescente Kimberly utilizassem a residência para essa prática ao próprio Gabriel. Ressaltou que não possui nenhum ligação com o tráfico, nunca foi preso, mas admitiu fazer uso de álcool, cigarro, maconha e cocaína. Informou que trabalha como separador de reciclagem na empresa TRL, com renda mensal de R$ 1.750,00, e que possui uma filha de seis anos. Por fim, disse dispensar advogado.  ..
+De início, observo que há indícios de materialidade e autoria, notadamente pelas palavras dos policiais, os quais, como é sabido, possuem fé pública, bem como do auto de apreensão.
+A propósito, restou evidenciada até então a dedicação a atividades criminosas por ambos, sendo certo que Vinícius, embora primário, fornecia sua residência para o tráfico, apresentando assim conduta essencial à traficância, a qual vinha ocorrendo sistematicamente no endereço que emprestou ao aderir, em igual importância, à autoria delitiva, de modo que a venda reiterada denota dedicação a condutas criminosas, afastando-se, pois, a incidência do § 4º do artigo 33 da Lei 11.343/2006, ao menos é o que tudo indica neste momento.
+A prisão preventiva deve ser decretada apenas em casos excepcionais, quando demonstrada a necessidade de garantir a ordem pública, a instrução criminal ou a aplicação da lei penal, conforme art. 312 do CPP.
+No presente caso, o magistrado ressaltou que o paciente fornecia sua residência em troca de receber parte do entorpecente para consumo pessoal, para o armazenamento das drogas que eram vendidas por Thiago e pela adolescente Kimberly.
+A despeito de a conduta atribuída ao paciente diferir, em princípio, daquela praticada pelos corréus, não se pode olvidar da gravidade do delito e da quantidade de drogas apreendidas  289,26g de cocaína  , localizadas em sua residência, que se mostram suficientes para justificar a decretação da prisão cautelar.
+Outro não foi o parecer do Ministério Público Federal: "As circunstâncias da prisão em flagrante, com apreensão de drogas e indícios de que a residência do paciente vinha sendo utilizada de forma reiterada para a traficância, revelam a gravidade concreta do crime e, portanto, justificam a medida cautelar como forma de garantir a ordem pública" (fl. 69).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
