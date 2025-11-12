@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, conhecer parcialmente do recurso e, nessa parte, dar-lhe parcial provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. AUSÊNCIA DE APRECIAÇÃO DE TESES SUSCITADAS NOS EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. DEMAIS PEDIDOS PREJUDICADOS. ANULAÇÃO DO ACÓRDÃO. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. A Corte de origem negou provimento ao recurso da parte recorrente, reconhecendo que a suspensão prevista no art. 134, § 3º, do Código de Processo Civil aplica-se apenas à prática de atos executivos contra os terceiros em oposição aos quais foi instaurado o incidente, não havendo óbice ao prosseguimento da execução fiscal quanto aos devedores originários.
+2. A parte recorrente opôs embargos de declaração ao referido julgado. Nas razões recursais, alegou o seguinte (fls. 89-100): a) o direito da União de questionar a matéria precluiu quando ela manifestou ciência e renunciou ao prazo para recorrer da decisão que determinou a suspensão das execuções fiscais no incidente de desconsideração da personalidade jurídica, consoante o art. 1.000, parágrafo único, do Código de Processo Civil, e b) nos termos do art. 1º da Lei n. 6.830/1980, o CPC deve ser aplicado subsidiariamente às execuções fiscais.
+3. Ao apreciar os embargos, o Tribunal a quo continuou silente acerca das teses de preclusão da matéria objeto do agravo de instrumento e da aplicação subsidiária do Código de Processo Civil às execuções fiscais, especialmente no que tange à suspensão automática do processo em virtude da instauração do incidente de desconsideração da personalidade jurídica.
+4. Assim, os pedidos não foram examinados pela Corte local, incorrendo em omissão, o que consubstancia violação ao art. 1.022, inciso II, do CPC, porquanto não efetuada integralmente a prestação jurisdicional.
+5. Reconhecida a violação aos art. 1.022, inciso II, do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, ficando prejudicada a análise dos demais tópicos do recurso especial.
+6. Recurso Especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por TEXTIL M. A. FALLEIRO S.A. contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no julgamento do Agravo de Instrumento n. 5030548-65.2023.4.04.0000, assim ementado (fl. 80):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. SUSPENSÃO PREVISTA NO § 3º DO ART. 134 DO CPC. ALCANCE LIMITADO.
+Os casos de Incidente de Desconsideração da Personalidade Jurídica baseados no art. 134, § 3º, do CPC, têm sua aplicação limitada à prática de atos executivos contra os terceiros contra os quais foi instaurado o incidente.
+Não há impedimento ao prosseguimento da execução fiscal contra os devedores originais.
+Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+Os embargos de declaração opostos foram rejeitados (fl. 126).
+Recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, alegando violação dos arts. 134, § 3º, 1.000, parágrafo único, e 1.022, parágrafo único, inciso II, do Código de Processo Civil; e 1º da Lei n. 6.830/1980.
+A parte recorrente aponta omissão no acórdão recorrido, que teria deixado de enfrentar argumentos relevantes apresentados nos embargos de declaração, especialmente no que diz respeito à preclusão da matéria e à aplicação do art. 134, § 3º, do CPC. Afirma que a ausência de enfrentamento dos argumentos viola o dever de fundamentação e compromete a validade do acórdão.
+Sustenta que a União (Fazenda Nacional), ao não recorrer oportunamente da decisão proferida no Incidente de Desconsideração da Personalidade Jurídica (IDPJ), teria aceitado tacitamente a decisão que determinou a suspensão da execução fiscal. Assim, a matéria estaria preclusa, nos termos do art. 1.000, parágrafo único, do CPC.
+Defende que a suspensão do processo, prevista no art. 134, § 3º, do CPC, deve ser aplicada de forma ampla, abrangendo também os devedores originários, e não apenas os terceiros contra os quais foi instaurado o IDPJ.
+Alega que o acórdão recorrido interpretou de forma equivocada o alcance da suspensão ao limitar seus efeitos apenas aos terceiros envolvidos no IDPJ.
+Destaca que o art. 1º da LEF, que prevê a aplicação subsidiária do CPC às execuções fiscais, foi desrespeitado e que, ao afastar a aplicação do art. 134, § 3º, do CPC, o acórdão recorrido violou a regra de subsidiariedade prevista na LEF.
+Requer a reforma do acórdão para que seja reconhecida a suspensão da execução fiscal em relação aos devedores originários, conforme determinado no IDPJ.
+Foram apresentadas contrarrazões ao recurso especial (fls. 173-178).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, INCISO II, DO CPC. AUSÊNCIA DE APRECIAÇÃO DE TESES SUSCITADAS NOS EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. DEMAIS PEDIDOS PREJUDICADOS. ANULAÇÃO DO ACÓRDÃO. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. A Corte de origem negou provimento ao recurso da parte recorrente, reconhecendo que a suspensão prevista no art. 134, § 3º, do Código de Processo Civil aplica-se apenas à prática de atos executivos contra os terceiros em oposição aos quais foi instaurado o incidente, não havendo óbice ao prosseguimento da execução fiscal quanto aos devedores originários.
+2. A parte recorrente opôs embargos de declaração ao referido julgado. Nas razões recursais, alegou o seguinte (fls. 89-100): a) o direito da União de questionar a matéria precluiu quando ela manifestou ciência e renunciou ao prazo para recorrer da decisão que determinou a suspensão das execuções fiscais no incidente de desconsideração da personalidade jurídica, consoante o art. 1.000, parágrafo único, do Código de Processo Civil, e b) nos termos do art. 1º da Lei n. 6.830/1980, o CPC deve ser aplicado subsidiariamente às execuções fiscais.
+3. Ao apreciar os embargos, o Tribunal a quo continuou silente acerca das teses de preclusão da matéria objeto do agravo de instrumento e da aplicação subsidiária do Código de Processo Civil às execuções fiscais, especialmente no que tange à suspensão automática do processo em virtude da instauração do incidente de desconsideração da personalidade jurídica.
+4. Assim, os pedidos não foram examinados pela Corte local, incorrendo em omissão, o que consubstancia violação ao art. 1.022, inciso II, do CPC, porquanto não efetuada integralmente a prestação jurisdicional.
+5. Reconhecida a violação aos art. 1.022, inciso II, do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, ficando prejudicada a análise dos demais tópicos do recurso especial.
+6. Recurso Especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+VOTO
+A irresignação merece prosperar.
+A Corte de origem negou provimento ao recurso da parte recorrente, reconhecendo que a suspensão prevista no art. 134, § 3º, do Código de Processo Civil aplica-se apenas à prática de atos executivos contra os terceiros em oposição aos quais foi instaurado o incidente, não havendo óbice ao prosseguimento da execução fiscal quanto aos devedores originários.
+O pedido de efeito suspensivo foi analisado nos seguintes termos:
+ ..
+Em um exame perfunctório, típico das liminares como ora se examina, verifico plausibilidade nas alegações da recorrente, pois o disposto no artigo 134, §3º, do CPC, aplica-se somente à prática de atos executivos em detrimento dos terceiros em face dos quais instaurado o incidente. Não há óbice para o prosseguimento da execução fiscal em relação aos devedores originários.
+ ..
+Ante o exposto, defiro o pedido de efeito suspensivo para determinar o prosseguimento da execução contra os devedores originários.
+ ..
+Ausentes novos elementos a alterar o entendimento adotado, voto por dar provimento ao recurso.
+A parte recorrente opôs os embargos de declaração ao referido julgado. Nas razões recursais, alegou o seguinte (fls. 89-100): a) o direito da União de questionar a matéria precluiu quando ela manifestou ciência e renunciou ao prazo para recorrer da decisão que determinou a suspensão das execuções fiscais no incidente de desconsideração da personalidade jurídica, consoante o art. 1.000, parágrafo único, do Código de Processo Civil; e b) nos termos do art. 1º da Lei n. 6.830/1980, o Código de Processo Civil deve ser aplicado subsidiariamente às execuções fiscais.
+Ao apreciar os embargos, contudo, o Tribunal a quo continuou silente acerca das teses de preclusão da matéria objeto do agravo de instrumento e da aplicação subsidiária do Código de Processo Civil às execuções fiscais, especialmente no que tange à suspensão automática do processo em virtude da instauração do incidente de desconsideração da personalidade jurídica.
+Assim, os pedidos não foram examinados pela Corte local, incorrendo em omissão, o que consubstancia violação ao art. 1.022, inciso II, do Código de Processo Civil, porquanto não efetuada integralmente a prestação jurisdicional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. ACÓRDÃO RECORRIDO. QUESTÕES RELEVANTES. OMISSÕES. EXISTÊNCIA. DEMAIS TEMAS PREJUDICADOS. AGRAVO INTERNO PROVIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+1. O Tribunal de origem se omitiu acerca das alegações suscitadas pela ora agravante, no momento processual oportuno, relativos aos argumentos que embasam suas teses de ilegitimidade passiva e ativa, os quais, em tese, se eventualmente acolhidos, poderiam levar a desfecho diverso no julgamento da apelação, em que foi sucumbente, o que evidencia a sua relevância e a necessidade de que fossem expressamente enfrentadas. Ofensa ao art. 1022 do CPC configurada.
+2. Agravo interno provido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento, a fim de anular o julgamento dos embargos de declaração e determinar que outro seja proferido pelo Tribunal de origem, com o expresso enfrentamento dos temas suscitados pelos embargantes, relativos às ilegitimidade passiva e ativa, como entender de direito.
+(AgInt no AREsp n. 2.156.508/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Reconhecida a violação aos art. 1.022, inciso II, do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, ficando prejudicada a análise dos demais tópicos do recurso especial.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial para, nessa extensão, DAR-LHE PARCIAL PROVIMENTO , anulando o acórdão dos embargos de declaração e determinando que seja realizado novo julgamento, com a expressa apreciação dos temas apontados como omitidos na presente decisão.
+É como voto.
