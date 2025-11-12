@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, conhecer do conflito, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DE BENEFÍCIO DE APOSENTADORIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado do Paraná, tendo por suscitado o Tribunal Regional do Trabalho da 9ª Região, em demanda que versa sobre pedido de indenização pela não integralização de verbas remuneratórias na complementação de aposentadoria.
+2. O autor busca a revisão do benefício de complementação de aposentadoria, com base em diferenças salariais reconhecidas em ação trabalhista anterior, sem pedidos de condenação em verbas de natureza trabalhista.
+3. O Tribunal Regional do Trabalho da 9ª Região se declarou incompetente para julgar a demanda, enquanto o Tribunal de Justiça do Estado do Paraná sustenta que a competência seria da Justiça do Trabalho, em razão da relação com verbas reconhecidas pela Justiça Trabalhista e do polo passivo ser ocupado pela ex-empregadora.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar se a competência para processar e julgar a demanda recai sobre a Justiça Comum Estadual ou sobre a Justiça do Trabalho, considerando que a causa de pedir e o pedido estão relacionados à complementação de aposentadoria paga por entidade de previdência privada.
+III. Razões de decidir
+5. A competência para julgar demandas relacionadas à complementação de aposentadoria instituída por entidade de previdência privada é da Justiça Comum, conforme entendimento consolidado pelo STF nos REs 586.453 e 583.050, com repercussão geral reconhecida.
+6. A pretensão do autor, que busca o recálculo do benefício de complementação de aposentadoria com base em diferenças salariais reconhecidas pela Justiça do Trabalho, deve ser julgada pela Justiça Comum.
+IV. Dispositivo
+7. Conflito conhecido para declarar competente o Tribunal de Justiça do Estado do Paraná para processar e julgar a demanda na origem.
+RELATÓRIO
+Cuida-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado do Paraná, tendo por suscitado o Tribunal Regional do Trabalho da 9ª Região.
+A inicial trata de reparação pela não integralização de verbas remuneratórias na complementação da aposentadoria, ajuizada em face da Fundação Petrobrás de Seguridade Social Petros e Petróleo Brasileiro S/A - Petrobrás.
+O Juiz de origem julgou improcedentes os pedidos e, no julgamento da apelação, o Tribunal Regional do Trabalho da 9ª Região se declarou incompetente.
+Narra o suscitante que "Em consonância ao entendimento de observância obrigatória estabelecido pelo Supremo Tribunal Federal (STF) no âmbito do RE nº 1265564-RG (Tema nº 1.166 da Repercussão Geral), "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada"."
+Ademais, durante o curso do processo o autor desistiu dos pedidos direcionados à Fundação Petros de Seguridade Social mantendo apenas a Petrobrás na lide.
+Assim, por se tratar de uma demanda contra ex-empregador que versa sobre pedido de indenização pelo não recolhimento de contribuições sobre verbas reconhecidas pela Justiça do Trabalho para entidade de previdência privada a ele vinculada, tem-se que a competência para o processamento e julgamento desta ação recai sobre a Justiça do Trabalho. (e-STJ fls. 2085-2090)
+O suscitado, a seu turno, sustenta que a pretensão do autor é a reparação de prejuízo causado pela não integralização, na base de cálculo das contribuições a serem recolhidas pelo patrocinador e pela não integralização pelo participante, de valor correspondente à reserva matemática que seria necessária para suportar o aumento do benefício pago pelo fundo de pensão em razão das verbas salariais deferidas pela Justiça do Trabalho.
+Sobre o tema o STF, no julgamento dos REs 586453 e 583050, com repercussão geral reconhecida, decidiu que as questões relativas à complementação da aposentadoria instituída por entidade de previdência privada devem ser apreciadas pela Justiça Comum e, o fato da pretensão ter sido direcionada ao ex-empregador não altera essa competência. (e-STJ fls. 1622-1630)
+Intimado, o Ministério Público Federal promoveu a competência do Tribunal de Justiça do Estado do Paraná (e-STJ fls. 2119-2122).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PREVIDÊNCIA COMPLEMENTAR. REVISÃO DE BENEFÍCIO DE APOSENTADORIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado do Paraná, tendo por suscitado o Tribunal Regional do Trabalho da 9ª Região, em demanda que versa sobre pedido de indenização pela não integralização de verbas remuneratórias na complementação de aposentadoria.
+2. O autor busca a revisão do benefício de complementação de aposentadoria, com base em diferenças salariais reconhecidas em ação trabalhista anterior, sem pedidos de condenação em verbas de natureza trabalhista.
+3. O Tribunal Regional do Trabalho da 9ª Região se declarou incompetente para julgar a demanda, enquanto o Tribunal de Justiça do Estado do Paraná sustenta que a competência seria da Justiça do Trabalho, em razão da relação com verbas reconhecidas pela Justiça Trabalhista e do polo passivo ser ocupado pela ex-empregadora.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar se a competência para processar e julgar a demanda recai sobre a Justiça Comum Estadual ou sobre a Justiça do Trabalho, considerando que a causa de pedir e o pedido estão relacionados à complementação de aposentadoria paga por entidade de previdência privada.
+III. Razões de decidir
+5. A competência para julgar demandas relacionadas à complementação de aposentadoria instituída por entidade de previdência privada é da Justiça Comum, conforme entendimento consolidado pelo STF nos REs 586.453 e 583.050, com repercussão geral reconhecida.
+6. A pretensão do autor, que busca o recálculo do benefício de complementação de aposentadoria com base em diferenças salariais reconhecidas pela Justiça do Trabalho, deve ser julgada pela Justiça Comum.
+IV. Dispositivo
+7. Conflito conhecido para declarar competente o Tribunal de Justiça do Estado do Paraná para processar e julgar a demanda na origem.
+VOTO
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, conflito de competência suscitado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento da ação indenizatória, em que se pretende a revisão do benefício de aposentadoria da parte autora, para nele incluir-se o valor correspondente às diferenças de progressão salarial deferidas nos autos 0147800-97.2004.5.09.0654. Não há pedidos de condenação em verbas de natureza trabalhista. (e-STJ fls. 2-20).
+Observa-se, assim, que a lide não decorre da relação de trabalho, mas sim de relação previdenciária, porque o reclamante ajuizou ação anterior na justiça do trabalho e, na presente demanda, pretende que aquela condenação seja considerada pelas rés para complementação da aposentadoria.
+Sobre o tema, "A jurisprudência do STJ entende que compete à Justiça Comum o julgamento de demandas em que a causa de pedir e o pedido se relacionam com contrato celebrado entre beneficiários e entidade de previdência complementar, o qual possui natureza eminentemente civil." (CC n. 208.071, Ministra Nancy Andrighi, DJe de 13/11/2024.)
+Pretende o autor, em suma, o recálculo do benefício saldado de complementação de aposentadoria em vista das diferenças de progressão salarial reconhecida pela Justiça do Trabalho.
+Ou seja, a demanda objetiva a revisão do salário de benefício pago por entidade de previdência privada em decorrência de inclusão de verbas salariais deferidas em ação trabalhista anterior, que reverberam no cálculo do benefício e no valor de contribuição do participante e da patrocinadora, o que atrai a competência da Justiça Comum Estadual.
+Em semelhante sentido, conferindo à justiça comum a competência para julgar as dem andas em que a parte pleiteia a complementação de aposentadoria, tendo como causa de pedir o reconhecimento de verbas salariais pela justiça do trabalho que, por consequência, influenciam no cálculo do benefício, e inclusive no valor de contribuição do participante e da patrocinadora, diversos precedentes: (CC n. 208.071, Ministra Nancy Andrighi, DJe de 13/11/2024.); (CC n. 209.300, Ministro João Otávio de Noronha, DJe de 27/11/2024.); (CC n. 205.634, Ministro João Otávio de Noronha, DJEN de 02/06/2025.);
+A propósito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CAIXA ECONÔMICA FEDERAL E FUNCEF. COMPLEMENTAÇÃO DE APOSENTADORIA PRIVADA. DIFERENÇAS SALARIAIS. RECLAMAÇÃO TRABALHISTA. DEFERIMENTO. JUSTIÇA COMUM. COMPETÊNCIA.
+1. Trata-se de ação de revisão de proventos de complementação de aposentadoria privada com pedido de recomposição de reservas matemáticas contra a Caixa Econômica Federal e a Fundação dos Economiários Federais (FUNCEF), cuja causa de pedir decorre de diferenças salariais deferidas em reclamação trabalhista.
+2. O Supremo Tribunal Federal, no julgamento dos REs nºs 586.453/SE e 583.050/RS, reconheceu a repercussão geral da questão constitucional nele suscitada e consolidou entendimento no sentido da competência da Justiça Comum para o processamento de demandas ajuizadas contra entidades privadas de previdência nas quais se busca o complemento de aposentadoria. 3. O Superior Tribunal de Justiça possui entendimento no sentido de que compete à Justiça Comum o processamento e o julgamento de demandas em que a causa de pedir e o pedido se restringem a recálculo de benefício de previdência complementar privada.
+4. Agravo interno não provido.
+(AgInt no CC n. 153.336/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 3/12/2019, DJe de 6/12/2019.)
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Tribunal de Justiça do Estado do Paraná, para processar e julgar a demanda na origem.
+É como voto .
