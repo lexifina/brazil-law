@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO POR ARBITRAMENTO EM CUMPRIMENTO DE SENTENÇA. RECURSO CONHECIDO E NEGADO PROVIMENTO. L CASO EM EXAME 1. AGRAVO DE INSTRUMENTO INTERPOSTO POR CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTO CONTRA DECISÃO QUE HOMOLOGOU OS CÁLCULOS APRESENTADOS NO CUMPRIMENTO DE SENTENÇA E REJEITOU A NECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO, SOB A ALEGAÇÃO DE QUE OS CÁLCULOS ERAM MERAMENTE ARITMÉTICOS. A AGRAVANTE SUSTENTA QUE OS CÁLCULOS POSSUEM NATUREZA COMPLEXA E REQUEREM ANÁLISE TÉCNICA DETALHADA.
+Quanto à controvérsia, a parte recorrente aduz violação ao art. 509 do CPC, no que concerne à necessidade de liquidação da sentença, tendo em vista a impossibilidade de apuração do quantum devido por simples realização de cálculos aritméticos, trazendo a seguinte argumentação:
+De pronto, necessário consignar que, diversamente do entendimento exarado pelo Tribunal a quo, a decisão proferida nos autos de origem se trata de decisão ilíquida, visto que foi determinada a revisão da taxa de juros remuneratórios fixada originalmente e a restituição de valores, sendo, portanto, necessária a realização de cálculos complexos para liquidação.
+Por esta razão, ao negar a conversão do cumprimento de sentença em liquidação por arbitramento, entende a Recorrente que houve flagrante violação ao disposto no art. 509 do Código Civil, visto que ao indeferir o pedido de alteração da fase processual de cumprimento de sentença para liquidação de sentença, o Tribunal a quo, com a devida vênia, não se atentou as peculiaridades do caso concreto, mais precisamente a incontroversa necessidade de elaboração dos cálculos por profissional especializado.
+ ..
+Cabe ressaltar que não se trata de simples cálculos aritméticos e que a Recorrente não possui conhecimento técnico ou meios suficientes para realização da referida liquidação conforme sentença.
+Os cálculos a serem realizados são complexos, sendo necessário a indicação de um profissiona l capacitado para que eventuais valores devidos nos autos sejam apurados de forma correta, evitando, assim, enriquecimento ilícito por ambas as partes (fls. 64-65).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Nesse sentido, uma vez proferida a sentença condenatória, caso o montante da condenação dependa exclusivamente de cálculos aritméticos, é suficiente que o credor apresente seu requerimento para o cumprimento provisório de sentença, acompanhado da memória de cálculo do débito atualizado, conforme os parâmetros fixados no julgamento.
+No presente caso, a sentença julgou parcialmente procedentes os pedidos iniciais, determinando a limitação da taxa de juros dos contratos à média de mercado, condenando a parte ré à devolução simples dos valores cobrados indevidamente a título de juros remuneratórios.
+Cabe destacar que a revisão abrangeu apenas um contrato, dividido em doze parcelas, sendo os cálculos necessários para apuração de fácil execução aritmética. Assim, não há necessidade de perícia técnica ou liquidação por arbitramento (fl. 37).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
