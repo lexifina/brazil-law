@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face do acórdão prolatado em Agravo de Instrumento, em que a operadora de saúde recorrida da concessão de tutela de urgência, concedida para realização de procedimento médico e internação à autora.
+A decisão do Tribunal de origem se deu pelo provimento do agravo de instrumento e pela cassação da tutela, com o objetivo de se aguardar a sentença definitiva. Assim temos o acórdão recorrido no presente recurso:
+Paciente contratou o plano em 17-6-2024 e no mês seguinte pediu autorização para internação em UTI com tromboembulia pulmonar, deparando com recusa. O Juízo a quo emitiu tutela de urgência (não cumprida) e a autora realizou a providência médica pelo regime "particular", inserindo um adendo de que "tinha ciência de liminar e que as despesas médicas seriam pagas pela Notre Dame". A urgência para proteger a saúde está esvaziada e remanesce a lide para decidir se a carência não se aplica, seja pelo regime da portabilidade que extingue carência ou pela urgência e emergência do ato médico (art. 12 da Lei 9656/98), com nítido sentido financeiro. Recomendável cassar a tutela de urgência para neutralizar possível exigibilidade da multa, aguardando-se a sentença definitiva. Provimento.
+Interposto recurso especial pela parte autora (fls. 61-74) com o objetivo de restabelecer a tutela provisória, não houve admissão do recurso pelo Tribunal de origem (fls. 154-158).
+Apresentado agravo em recurso especial (fls. 161-177), o recurso não foi conhecido por decisão singular da Presidência deste Tribunal (fls. 202-203), originando o presente agravo interno.
+Pois bem, com o período de tempo decorrido, e conforme se verifica a partir de pesquisa no sistema processual do Tribunal de Justiça de São Paulo, houve a superveniência de sentença de mérito na ação original (processo 1105102-48.2024.8.26.0100 em curso na 29ª Vara Cível de São Paulo), como se lê do dispositivo da decisão:
+Diante do exposto, JULGO PROCEDENTE o pedido para condenar a ré na cobertura das despesas médico-hospitalares para a internação descrita a fls. 50. Condeno a ré, ainda no pagamento de indenização por dano moral no valor de R$5.000,00, acrescido de correção monetária de juros de mora, tudo a partir da condenação. Descumprida a tutela de urgência inicialmente deferida, defiro a tutela de urgência para impor à ré o pagamento do débito apontado a fls. 126/127, diretamente ao hospital, no prazo de cinco dias, sob pena de multa de R$20.000,00. O réu arcará com as custas e despesas processuais, além de honorários advocatícios que fixo em 10% sobre o valor da condenação.
+Assim, sendo decidida de forma meritória a lide, e inclusive estando confirmada a tutela pela sentença, ocorre a perda de objeto do presente recurso.
+Nesse sentido, seguem precedentes desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO AGRAVO EM RECURSO ESPECIAL NO FEITO PRINCIPAL. SUPERVENIÊNCIA DE DECISÃO NESTA CORTE TRANSITADA EM JULGADO. PERDA DO OBJETO DO PRESENTE RECURSO. AGRAVO INTERNO NÃO PROVIDO.
+1. "A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. Precedentes" (AgRg no REsp 1485765/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 29/10/2015).
+2. Agravo interno não provido.
+(AgInt no REsp 1826871/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/8/2020, DJe 9/9/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. Consoante o entendimento pacífico desta Corte, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento, quando se verifica superveniente prolação de sentença de mérito, tendo em vista ser esta de cognição exauriente.
+2. Agravo interno não provido.
+(AgInt no AREsp 1986651/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/3/2022, DJe 18/3/2022)
+Dessa forma, evidencia-se a perda de objeto do recurso especial, e dos subsequentes: agravo em recurso especial e agravo interno.
+Em face do exposto, não conheço do agravo interno, visto que prejudicado, nos termos do art. 932, III do CPC e do art. 255, § 4º do Regimento Interno do STJ.
+Intimem-se.
+EMENTA
