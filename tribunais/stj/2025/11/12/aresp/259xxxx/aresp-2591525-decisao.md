@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo interposto por BHG S.A. BRAZIL HOSPITALITY GROUP contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 76):
+Agravo de instrumento. Ação revisional de aluguel. Decisão agravada que indeferiu a alegação de impedimento do perito, que atuou como assistente técnico em favor de uma das coproprietárias do imóvel em outra demanda. Atuação, confirmada pelo próprio perito, que ocorreu mais de 3 anos antes da nomeação, em 31/01/2022. Impugnação que somente foi apresentada aproximadamente um ano depois, concomitantemente à entrega do laudo. Parte que, nesse interregno, apresentou recurso para tratar de matéria diversa, pagou os honorários e acompanhou a realização do laudo. Inobservância do dever de impugnação na primeira oportunidade (art. 148, § 1º, CPC). Alegação de desconhecimento que se mostra inverossímil, porquanto a atuação como assistente técnico se deu em imóvel de copropriedade da Agravante. A par disso, a atuação se deu há mais de três anos, estando superado o prazo trienal do § 4º do art. 9º da Resolução 233/CNJ. Pedido de realização de nova perícia que não se mostra cabível quando a atual sequer foi objeto de impugnação no mérito. Inteligência do art. 480 do CPC, que só autoriza a realização de nova perícia quando a matéria não estiver suficientemente esclarecida. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 115-119).
+No recurso especial, a parte recorrente alega violação d os arts. 146, 148, §1º, 467 e 480 do CPC, pois o Tribunal de origem manteve decisão que rejeitou impugnação por suspeição do perito nomeado, o qual atuara previamente como assistente técnico do locador em ação revisional sobre o mesmo imóvel, sem revelação desse vínculo, sustentando a tempestividade da impugnação e requerendo a substituição do perito ou, subsidiariamente, a realização de segunda perícia.
+Foram oferecidas contrarrazões (fls. 159-165).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 190-194), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 238-244).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+No que se refere a substituição do perito judicial por impedimento e realização de nova perícia, assim se manifestou o Tribunal de origem (fls. 81-84):
+Cuida-se, na origem, de ação revisional de aluguel em que a parte pede a substituição do perito por impedimento. Argumenta, em síntese, que ele atuou como assistente técnico em favor de uma das coproprietárias do imóvel em outra demanda (0181293-75.2012.8.19.0001), o que não é negado pelo perito.
+Ocorre que essa atuação ocorreu há mais de três anos, fazendo cessar o impedimento, nos termos do § 4º, do art. 9º, da Resolução 233 do CNJ:
+Art. 9º Cabe ao magistrado, nos feitos de sua competência, escolher e nomear profissional para os fins do disposto nesta Resolução. (..)
+§ 4º Não poderá atuar como perito judicial o profissional que tenha servido como assistente técnico de qualquer as partes, nos 3 (três) anos anteriores.
+Esse já seria argumento suficiente para afastar, por si só, a pretensão de substituição. Mas deve ser somado a ele o fato de que o perito foi nomeado em 31/01/2022 e a impugnação foi apresentada quase um ano depois, concomitantemente com a entrega do laudo. Entre a nomeação e a impugnação a parte teve diversas oportunidades de aduzir o impedimento, tendo interposto recurso para tratar de ponto diverso, pagou os honorários e acompanhou a realização da perícia.
+Como bem pontuou o juiz de origem, o alegado impedimento do perito foi suscitado um ano após sua nomeação, e após a apresentação do laudo. E, na forma do art. 128, § 1º do CPC, "a parte interessada deverá arguir o impedimento ou a suspeição, em petição fundamentada e devidamente instruída, na primeira oportunidade em que lhe couber falar nos autos".
+Induvidoso que a parte não observou o dever processual de se manifestar na primeira oportunidade em que lhe couber falar nos autos, conforme determina o art. 148, § 1º, do CPC, sendo inverossímil a alegação de que apresentou a impugnação apenas quando soube do impedimento, já que é coproprietária do imóvel e acompanhou o processo em que ocorreu a perícia suscitada.
+Com isso, mostram-se inconvincentes os motivos que teriam impossibilitado a Agravante de impugnar o perito anteriormente, na medida em que os fatos que ela entende suficientes para caracterizar o impedimento poderiam ter sido diligenciados e trazidos aos autos no momento da nomeação.
+Quanto ao pedido de realização de nova perícia, esse não tem qualquer base jurídica, porquanto o laudo foi apresentado e sequer foi iniciado o prazo apara a manifestação das partes (o Juízo suspendeu o processamento com a interposição do agravo).
+Com efeito, o pedido de realização de nova perícia não se mostra cabível quando a perícia atual ainda não foi objeto de impugnação de mérito ou de pedido de esclarecimentos pelo Perito, inexistindo qualquer argumentação plausível que justifique a renovação de ato oneroso quando inexiste impugnação técnica que deponha contra o conteúdo de trabalho realizado por profissional de confiança do Juízo.
+Ademais, cuida-se de pedido que não foi aduzido na instância originária, devendo ser aduzido apenas diante de motivo suficiente, de forma primária, na instância de origem e no momento processual oportuno, em respeito ao devido processo legal e ao duplo grau de jurisdição.
+A esse respeito, é clara a norma do art. 480 do CPC ao determinar que o "juiz determinará, de ofício ou a requerimento da parte, a realização de nova perícia quando a matéria não estiver suficientemente esclarecida".
+Ora, antes de buscar a realização de nova perícia, é preciso que se discuta o conteúdo do laudo e, posteriormente, de forma concreta, suscitar a existência de matéria não esclarecida.
+O que torna, também sob esse fundamento, insubsistente qualquer argumento recursal.
+Assim, alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PERITO. IMPEDIMENTO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E O ENTENDIMENTO DESTA CORTE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever a conclusão do acórdão estadual, de que no caso dos autos está caracterizada hipótese de impedimento, encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça.
+3. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que o vício na indicação do expert deve ser suscitado através de procedimento próprio, não sendo possível a aplicação da instrumentalidade das formas e fungibilidade recursal.
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. A Segunda Seção desta Corte decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.489.624/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/8/2020, DJe de 31/8/2020.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
