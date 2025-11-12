@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interposto por MARIA SUELI AUGUSTO DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fl. 208):
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. CONSUMIDOR. DESCONTOS DE VALORES SOB A RUBRICA "MORA CRÉDITO PESSOAL". COBRANÇAS DEVIDAS. PROVENIENTES DA CONTRATAÇÃO DE EMPRÉSTIMO PESSOAL E DE ATRASO NO PAGAMENTO. DANOS MORAIS NÃO CONFIGURADOS. IMPROCEDÊNCIA DOS PEDIDOS. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO. - Diante das provas carreadas aos autos, principalmente dos extratos bancários neles encartados, comprova-se a legitimidade das cobranças efetuadas sob a rubrica "MORA CRÉDITO PESSOAL". - Inexiste conduta ilícita do banco promovido apta a amparar a pretensão da parte autora, uma vez que restou comprovado que o mesmo deu causa à cobrança dos descontos intitulados de "MORA CRÉDITO PESSOAL".
+Rejeitados os embargos de declaração opostos (fl. 235).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022, I e II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou os arts. 6º, incisos III e VIII, 39, III, 52 do CDC, 373, inciso II, do CPC e 421, 422 e 595 do CC, além dos artigos 186 e 927 do Código Civil e 1.022, I e II, do CPC.
+Alega falta de informação adequada sobre a cobrança efetuada sob a rubrica "Mora Crédito Pessoal" em seu extrato. Aduz que a instituição financeira não se desincumbiu do ônus de demonstrar contratação ou autorização desta cobrança, que os descontos sem autorização expressa configuram prática abusiva, que para contratante analfabeto, é exigida assinatura a rogo e subscrição por duas testemunhas e que a ausência dessas formalidades torna inválida a contratação.
+Argumenta que há dever de indenizar o ato ilícito configurado na cobrança sem contratação e que há dano moral in re ipsa em razão dos descontos indevidos.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 264 - 270).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 274 - 277), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 286 - 291).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação de repetição de indébito cumulada com indenização por danos morais, na qual se discute a licitude de descontos lançados sob a rubrica "Mora Crédito Pessoal" em conta da consumidora, à míngua de contrato comprovado.
+O juízo sentenciante julgou o pedido improcedentes, entendendo que os documentos constantes dos autos comprovam que o desconto denominado "Mora Crédito Pessoal" decorre de empréstimos pessoais vinculados à conta da consumidora os quais não foram quitados de forma regular, em razão de insuficiência de saldo na conta. Veja-se (fl. 140):
+O pano de fundo da controvérsia submetida a exame é o fato de a parte autora, que perceberia benefício previdenciário em conta mantida pela instituição promovida, ter sido surpreendida com descontos de tarifas bancárias, notadamente "MORA CREDITO PESSOAL", cujos serviços alega que não contratou e utilizou, nem autorizou sua cobrança.
+Não obstante as alegações da parte promovente, verifico que os documentos acostados demonstram que os descontos efetivados em sua conta bancária se tratam de mora decorrente de contrato de mútuo celebrado junto ao banco promovido, a própria sigla "MORA CRED PESS" enuncia a situação apontada.
+Logo, é cediço que operações de crédito quando não liquidadas na data do seu vencimento culminam em acréscimos de juros e multa constituindo o devedor em mora.
+Ainda que a inicial tenha sido omissa no que tange à existência de contratação de empréstimos pessoais, os extratos colacionados pela própria autora e pelo banco demandado demonstram a existência de empréstimos pessoais (Ids 87752944 e 89527376).
+Portanto, o argumento de suposta ilegalidade na cobrança por serviço não contratado não merece prosperar, uma vez que, como dito acima, a parte autora efetuou empréstimos pessoais, não sendo demonstrado a quitação dos mesmos, ou o pagamento regular, em razão da ausência de saldo bancário quando da sua cobrança.
+O Tribunal de origem confirmou a sentença, concluindo no sentido de que a legitimidade das cobranças foi comprovada pelas provas dos autos (extratos bancários e documentos), como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 210):
+Por conseguinte, é de ressaltar que o consumidor não teria como alegar ignorância, pois tais descontos como ele mesmo alega vem ocorrendo já a algum tempo e decorrente da contratação empréstimo pessoal e de mora por não pagamento ou por pagamento em atraso.
+Repito, valores estes que ela nunca se insurgiu, vindo a ajuizar a presente demanda somente em 2024. Nesse sentido, tem-se como conclusão inevitável que o autor agiu de forma livre e espontânea a todo momento, externando a sua vontade ao optar pela aquisição do produto (empréstimo) e sofrendo, de forma regular, os descontos decorrentes da sua inadimplência, descritos, no caso, como "MORA CREDITO PESSOAL".
+ ..
+A toda evidência, não se vislumbra a ocorrência de erro, falha ou abuso de direito de cobrança por parte do agente bancário que desse azo ao acolhimento da pretensão autoral, na esteira do art. 14, § 3º, I do CDC. Logo, quanto à cobrança dos descontos a título de "MORA CRED PESSOAL", cumpre esclarecer que tais valores dizem respeito aos encargos incidentes sobre as parcelas dos empréstimos, decorrentes do atraso no pagamento.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, deixou claro que, "quanto à cobrança dos descontos a título de "MORA CRED PESSOAL", cumpre esclarecer que tais valores dizem respeito aos encargos incidentes sobre as parcelas dos empréstimos, decorrentes do atraso no pagamento" (fl. 210).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão. O Poder Judiciário não funciona como um órgão consultivo, obrigado a responder a um "questionário" das partes.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022; grifo meu.)
+No mérito, como já demonstrado, a demanda se restringe à suposta ilegalidade do desconto realizado sob a rubrica "MORA CRED PESSOAL". Desse modo, inviável a análise dos descontos dos empréstimos subjacentes, por não serem objeto da presente demanda.
+Afastar o entendimento da origem para concluir no sentido de que não houve contratação válida nem autorização para os descontos, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido, cito :
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO MÍNIMA PELA PARTE. DÉBITO. CIÊNCIA PELA PARTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria, nos termos do art. 1.025 do CPC/2015.
+5. A inversão do ônus da prova não implica na presunção imediata de veracidade dos fatos alegados pela parte, sendo necessário que tenha comprovado minimamente os fatos constitutivos do direito alegado.
+6. O tribunal de origem formou sua convicção à luz do acervo probatório dos autos e fundamentou os motivos que levaram à condenação, de forma que a intervenção do Superior Tribunal de Justiça quanto à satisfação do ônus probatório e à ciência do recorrente do desconto encontra óbice na Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.663.481/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2021, DJe de 30/11/2021.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa, observada eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
