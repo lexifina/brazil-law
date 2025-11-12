@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - PRINCÍPIO DA UNIRRECORRIBILIDADE - PRECLUSÃO CONSUMATIVA -FUNDAMENTAÇÃO DEFICIENTE - APLICAÇÃO DA SÚMULA 284/STF - PRETENSÃO DE REEXAME DA CAUSA - IMPOSSIBILIDADE - INCIDÊNCIA DA SÚMULA 7/STJ -DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - APLICAÇÃO DA SÚMULA 315/STJ - MANUTENÇÃO PELO ACÓRDÃO IMPUGNADO - INSURGÊNCIA DA EMBARGANTE.
+1. O apelo recursal somente é cabível quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535do CPC/73).
+2. Na hipótese em tela, o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado no sentido de que é inadmissível a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n.º 315 desta Corte Superior.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de embargos de declaração opostos por REDE GOIÂNIA DE RÁDIO E TELEVISÃO LTDA. contra acórdão, da lavra deste signatário, assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DEDIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - PRINCÍPIO DA UNIRRECORRIBILIDADE - PRECLUSÃO CONSUMATIVA - FUNDAMENTAÇÃO DEFICIENTE - APLICAÇÃO DA SÚMULA 284/STF - PRETENSÃO DE REEXAME DA CAUSA - REEXAME DE PROVAS - IMPOSSIBILIDADE - SÚMULA 7/STJ - DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - SÚMULA 315/STJ -APLICAÇÃO - INSURGÊNCIA DA EMBARGANTE.
+1. O apelo recursal somente é cabível quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73).
+1.1. Na hipótese em tela, o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do agravo interno interposto porquanto é inadmissível a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n.º 315 desta Corte Superior.
+1.2. No caso dos autos, o acórdão atacado manteve a decisão que conheceu do agravo para não conhecer do recurso especial em razão dos óbices das Súmulas 284/STF e 7/STJ.
+2. Embargos de declaração.
+A insurgente repete os fundamentos dos aclaratórios anteriormente rejeitados. Aponta, nesse contexto, a presença dos elementos necessários ao manejo dos embargos de divergência. Requer, assim, o acolhimento dos novos embargos de declaração (fls. 1715/1719).
+Impugnação juntada às fls. 1722/1741.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - PRINCÍPIO DA UNIRRECORRIBILIDADE - PRECLUSÃO CONSUMATIVA -FUNDAMENTAÇÃO DEFICIENTE - APLICAÇÃO DA SÚMULA 284/STF - PRETENSÃO DE REEXAME DA CAUSA - IMPOSSIBILIDADE - INCIDÊNCIA DA SÚMULA 7/STJ -DELIBERAÇÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O APELO RECURSAL - APLICAÇÃO DA SÚMULA 315/STJ - MANUTENÇÃO PELO ACÓRDÃO IMPUGNADO - INSURGÊNCIA DA EMBARGANTE.
+1. O apelo recursal somente é cabível quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535do CPC/73).
+2. Na hipótese em tela, o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado no sentido de que é inadmissível a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n.º 315 desta Corte Superior.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Os aclaratórios não merecem acolhimento, com imposição de multa.
+1. A teor do artigo 1.022 do NCPC (art. 535 do CPC/1973), o apelo recursal em epígrafe objetiva somente suprir omissão, dissipar obscuridade afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado ou à sua reforma/modificação, como pretende, novamente, a REDE GOIÂNIA DE RÁDIO E TELEVISÃO LTDA.
+No caso em liça, as razões dos presentes embargos revelam, tão somente, a insatisfaçã o da insurgente com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+O decisum embargado não possui qualquer vício a ser sanado pela via dos aclaratórios, uma vez que esta eg. Segunda Seção, ao examinar a controvérsia, por unanimidade de votos, de maneira fundamentada, entendeu que é inadmissível a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n.º 315 desta Corte Superior.
+Na mesma linha de cognição, confiram-se: Agint no EAREsp 1.562.797/SP, Rel. Min. Moura Ribeiro, DJe de 17/2/2022; Agint no EAREsp 1.748.090/GO, Rel. Min. Luis Felipe Salomão, Dje de 3/3/2022; Agint no Edcl no EAREsp 405.881/MG, Rel. Min. Og Fernandes, DJe de 1/4/2022; Agint no EAREsp 1.890.096/PB, Rel. Min. Laurita Vaz, DJe de 15/6/2022.
+Não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da embargante quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+Nesse contexto, a teor do art. 1.026, §2º, do CPC, quando manifestamente protelatórios os embargos de declaração - como é a hipótese dos autos -, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa.
+Dessa forma, compreende este STJ que a multa prevista no supracitado normativo é devida quando as questões tratadas foram devidamente fundamentadas na decisão embargada como é o caso dos autos no qual a ora embargante apresentou, apenas perante este STJ, diversos recursos, juntados às fls. 783/792, 836/842, 868/944, 965/970, 1219/1234, 1668/1672, 1715/1719, de modo evidenciar o caráter manifestamente protelatório e o abuso no exercício do direito de recorrer, demonstrado, uma vez mais, nos presentes embargos de declaração. (ut. REsp 2.151.975/PR, Rel. Min. Nancy Andrighi, DJe de 4/10/2024).
+Diante da reiteração dos aclaratórios, suscitando questões já enfrentadas pela eg. Segunda Seção, é impositivo, portanto, a sua condenação na multa prevista no art. 1.026, §2º, do CPC, no importe de 1% sobre o valor atualizado da causa.
+2. Do exposto, rejeitam-se os presentes embargos de declaração e, por conseguinte, com aplicação de multa do art. 1.026, §2º, do CPC, nos termos da fundamentação supracitada.
+É o voto.
