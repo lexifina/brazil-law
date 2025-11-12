@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por LUIZ MAURÍCIO MARTINS ARAÚJO e OUTROS contra acórdão proferido pela 12ª Câmara Cível do TJ/PR, nos autos dos embargos de declaração n.º 0071831-87.2023.8.16.0000, o qual alegam afrontou deliberação deste STJ, proferida no REsp 2.118.668/PR, deste signatário.
+Afirmam, em síntese, que "A decisão prolatada no REsp nº 2.118.668/PR cassou o acórdão proferido nos autos nº 0071831-87.2023.8.16.0000, determinando fosse emitido "novo julgamento dos embargos declaratórios apresentados pelas ora agravantes, sanando detidamente todas as omissões apontadas".
+Acrescentam, contudo, que "(..) o "novo julgamento" proferido pela 12ª Câmara Cível apenas tergiversou e se limitou a repisar argumentos já expendidos antes, fato que implica em iniludível desobediência à autoridade da decisão emanada desta Colenda Corte de Justiça."
+Aduzem, outrossim, que "(..) a desobediência ao comando exarado no REsp 2.118.668/PR é inequívoca e adiante se fará apontamento preciso acerca da afronta à autoridade da decisão deste Eg. STJ por parte do reclamado, que não analisou, "com a devida retidão", e mais uma vez, as questões postas a julgamento nos aclaratórios."
+Requerem, em caráter liminar, a suspensão dos efeitos do acórdão impugnado e, no mérito, a procedência da presente reclamação (fls. 2/18).
+É o relatório.
+Decisão.
+1. De início, registra-se que, nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Consoante a jurisprudência desta eg. Corte Superior, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada.
+A propósito, registram-se os seguintes julgados: Rcl 2784/SP, Segunda Seção, Rel. Min. João Otávio de Noronha, DJ de 22.5.2019; Rcl 34880/MS, Rel. Min. Marco Aurélio Bellizze, DJe de 16/04/2018; Rcl 18538/PA, Rel. Min. Antonio Carlos Ferreira, DJe de 16/04/2018; AgRg na Rcl 25606/RJ, Rel. Min. Moura Ribeiro, DJe de 16/11/2015; AgRg na Rcl 8581/RJ, Rel. Min. Maria Isabel Gallotti, DJe de 28/08/2012; Rcl 2861/RS, Rel. Min. Massami Uyeda, rel. p/acórdão, Min. Sidnei Beneti, DJe de 04/12/2009; AgRg na Rcl 2.425/PR, 1ª Seção, Rel. Min. Castro Meira, DJ de 27.8.2007.
+Com esse norte hermenêutico, na hipótese dos autos, observa-se que a decisão ora reclamada, exarada pela 12ª Câmara Cível do TJ/PR, nos autos do embargos de declaração n.º 0071831-87.2023.8.16.0000, não violou o comando proferido no REsp 2.118.668/PR, deste signatário, Dje de 23/6/2025, porquanto este signatário, no referido apelo nobre, determinou, apenas e tão-somente o retorno dos autos à origem para novo julgamento dos embargos de declaração, inexistindo, na referida decisão, qualquer determinação acerca do acolhimento, pelo órgão reclamado, das alegações dos ora reclamantes.
+De rigor, portanto, ante à inexistência de seus correlatos requisitos, o indeferimento liminar da presente reclamação.
+2. Do exposto, com fundamento no art. 988, do NCPC c/c Súmula 568/STJ, indefere-se liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+Oficiem-se ao e. relator dos embargos de declaração n.º 0071831-87.2023.8.16.0000, TJ/PR.
+EMENTA
