@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE ROUBO COM EMPREGO DE ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DE LIBERDADE DAS VÍTIMAS. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. REVISÃO CRIMINAL. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 621 DO CPP. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. CONDENAÇÃO NÃO LASTREADA EXCLUSIVAMENTE EM ELEMENTOS DO INQUÉRITO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE RECURSAL. ENTENDIMENTO DA SÚMULA 182/STJ. APLICAÇÃO.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Heliton de Jesus contra decisão monocrática assim ementada (fl. 602):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. REVISÃO CRIMINAL INDEFERIDA LIMINARMENTE NA ORIGEM. ROUBOS MAJORADOS. ABSOLVIÇÃO. ALEGAÇÃO DE NULIDADE. FRAGILIDADE PROBATÓRIA. REEXAME FÁTICO-PROBATÓRIO DA AÇÃO PENAL. INADMISSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Nas razões, a defesa do agravante alega que  itens da decisão agravada teriam equivocado o exame ao tratar a revisão criminal como "segunda apelação" e ao concluir pela inexistência de constrangimento ilegal (fl. 611); que há flagrante ilegalidade no reconhecimento feito em solo indiciário, em desacordo com o art. 226 do Código de Processo Penal e com julgados desta Corte; o reconhecimento foi na modalidade show-up, não admitida (fl. 612); que os policiais militares e testemunhas não reconheceram o agravante em audiência, o que demonstra fragilidade probatória e contradição com o acervo dos autos (fl. 612); que não se busca revolvimento fático-probatório, mas mera valoração dos fatos constantes nas instâncias ordinárias, enquadrável nas hipóteses do art. 621 do Código de Processo Penal (fls. 612/613). Pugna pelo conhecimento e provimento do agravo, para que o tema de fundo seja apreciado pelo colegiado (fl. 613).
+O Ministério Público Federal manifestou-se, dizendo que os argumentos apresentados não têm o condão de modificar as assertivas desenvolvidas no decisório impugnado (fl. 622).
+É o relató rio.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CRIME DE ROUBO COM EMPREGO DE ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DE LIBERDADE DAS VÍTIMAS. CONDENAÇÃO TRANSITADA EM JULGADO. WRIT SUBSTITUTIVO. REVISÃO CRIMINAL. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 621 DO CPP. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. CONDENAÇÃO NÃO LASTREADA EXCLUSIVAMENTE EM ELEMENTOS DO INQUÉRITO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE RECURSAL. ENTENDIMENTO DA SÚMULA 182/STJ. APLICAÇÃO.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em atenção ao princípio da dialeticidade recursal, a impugnação apresentada em agravo regimental deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou meras repetições das teses já repelidas na decisão agravada.
+Caso em que as razões do regimental não impugnam, por completo, os motivos invocados na decisão monocrática que denegou a ordem, sobretudo no que diz respeito ao acolhimento excepcional da revisão criminal, restrito às hipóteses do art. 621 do Código de Processo Penal, não verificada no caso; à impossibilidade de revolvimento da dinâmica dos fatos e das provas amealhadas para se chegar à conclusão pretendida; bem como concernente à constatação de que a condenação transitada em julgado não se alicerçou exclusivamente em provas do inquérito.
+Verificada a ausência de refutação específica de todos os fundamentos da decisão agravada, não se conhece do agravo regimental, é o que diz nossa jurisprudência: AgRg no HC n. 1.009.391/MT, Ministro Og Fernandes, Sexta Turma, julgado em 24/9/2025, DJEN de 1º/10/2025; AgRg no HC n. 836.383/SP, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 21/3/2024; AgRg no HC n. 1.020.291/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2025, DJEN de 30/9/2025; e AgRg no HC n. 1.014.054/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/9/2025, DJEN de 8/9/2025.
+Assim, não conheço deste agravo regimental.
