@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Carlos Pires Brandão votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE AMEAÇA. PEDIDO DE ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+2. A pretensão do recurso especial demandaria reexame de prova.
+3. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDRE DA SILVA contra a decisão desta relatoria que não conheceu do recurso especial, ante o óbice referido na Súmula n. 7 do STJ.
+A parte recorrente argumenta que o reexame de prova, mas, sim, reexame de direito.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE AMEAÇA. PEDIDO DE ABSOLVIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem, ao proferir o acórdão impugnado pelo recurso especial, firmou sua conclusão com base nos fatos e nas provas dos autos.
+2. A pretensão do recurso especial demandaria reexame de prova.
+3. O pedido, portanto, envolve a revisitação das premissas fático-processuais cristalizadas pelas instâncias ordinárias, o que impede o conhecimento do recurso especial nesta instância, nos termos da Súmula n. 7 do STJ.
+4. Agravo regimental improvido.
+VOTO
+A decisão recorrida foi assim fundamentada:
+O recurso especial tem como objetivo a absolvição do recorrente do crime do art. 147 do Código Penal, pois não haveria provas de que as mensagens de ameaça foram dirigidas à vítima, já que o perfil de destino das mensagens ameaçadoras era do companheiro da vítima.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de superar a conclusão do Tribunal de origem de que ficou configurado o delito de ameaça, comprovada por meio da prova oral, de fotos e conversas.
+Observam-se, a propósito, os seguintes excertos da manifestação do Ministério Público Federal sobre o ponto, os quais se acolhem como razão de decidir (fls. 247-248):
+Em relação à imputação questionada, consta que, nas condições de tempo e local descritas na denúncia (fls. 80/83), o acusado prestou serviço de manutenção da central de ar- condicionado na residência de Railany Gomes, mas ela informou que o problema não foi solucionado, exigindo que fosse resolvido ou que fosse reembolsado o valor pago. Contudo, ele alegou que o aparelho apresentava outros problemas que não eram de sua responsabilidade e negou-se a devolver o dinheiro. Na mesma circunstância, ameaçou a vítima ao afirmar que não usava tornozeleira eletrônica à toa, que mandaria pessoas na casa deles para fazer um serviço e que ela se arrependeria. Além disso, um dia após proferir tais ameaças, ele foi até a residência da vítima e jogou pedras e tijolos para dentro do imóvel, atingindo a janela de vidro lateral da casa e o para-brisa posterior do veículo que estava dentro da garagem, danificando- o. Em razão dessa conduta, confessada por ele, foi condenado pela prática do crime de dano (art. 163 do CP). No presente recurso o agravante sustenta que "ao realizar a ameaça via rede social, estava se dirigindo ao companheiro da vítima, e não a vítima. Isso porque o perfil de destino das mensagens "ameaçadoras" era do companheiro da vítima." (fl. 321) A Corte local entendeu que as provas carreadas aos autos demonstram a autoria e a materialidade do crime de ameaça, na medida em que consta o registro de fotos e conversas com as mensagens ameaçadoras que provocaram temor na vítima (fl. 17). Quanto ao ponto, foram citadas as declarações prestadas pela vítima (fls. 305/306): Que falei pra ele que não precisava mais nem ele ir, só mandar o valor que tinha pago pelo serviço; Que a partir disso ele começou a me falar várias coisas, me xingar, falar que ia mandar uns caras lá em casa.  ..  Que eu postei todos os dele me ameaçando, dizendo que iaprints fazer tal coisa comigo, que ia mandar uns caras lá em casa, que eu não sabia com quem eu estava mexendo.  ..  Que ele foi no meu privado e falou "tu não sabe com quem tu tá mexendo, tu vai se ver comigo".  ..  Que depois disso eu me mudei, porque fiquei com medo dele ir na minha casa de novo e tentar me matar; Que ele me ameaçou, dizendo que "onde ia me pegar, me esfaquear, fazer tudo o que não presta", que "tu tá mexendo é com homem, e se eu não fizer alguma coisa, outra pessoa vai fazer, porque eu tenho meus meninos"; Que as ameaças foram por telefone, via Facebook, whatsapp e via ligação; Que as (grifamos)
+Com efeito, " A  jurisprudência do Superior Tribunal de Justiça estabelece que para a configuração do crime de ameaça não se exige atos de violência real (agressões físicas) ou grave ameaça de mal injusto caracterizado pela promessa de uso de violência real (ameaças de morte ou agressão física), sendo necessário, tão somente, que a promessa cause temor à vítima."  ..
+Demais disso, avançar nas conclusões lançadas pelas instâncias ordinárias, para obter a absolvição do agravante, demandaria ampla incursão no conjunto fático-probatório, incabível na via do recurso especial, por incidência da Súmula 7 /STJ.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+A conclusão deve ser mantida, não sendo infirmada pelas razões do agravo regimental.
+Com efeito, o conhecimento da matéria que se pretende devolver em recurso especial ao Superior Tribunal de Justiça exige que a manifestação desta Corte Superior se restrinja à aplicação do direito em tese, observadas as premissas fático-processuais cristalizadas pelas instâncias ordinárias.
+Essa é a razão de ser da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial", uma vez que a competência outorgada pela Constituição Federal ao Superior Tribunal de Justiça referente à análise do recurso especial se restringe à apreciação de questões de direito, inviabilizando a reavaliação dos fatos e das provas apurados no processo.
+O recurso especial, assim, tem por finalidade garantir a uniformidade da interpretação da lei federal, limitando-se à verificação abstrata de sua aplicação ou interpretação pelos tribunais de origem, medida inviável quando a pretensão recursal demandar, ainda que de modo sutil, a análise das conclusões fático-processuais emprestadas pelas instâncias ordinárias, soberanas na apreciação das provas.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA ARMADA. INSUFICÊNCIA DA PROVA DA AUTORIA DELITIVA. VERIFICAÇÃO. SÚMULA N. 7 DO STJ. DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA. INCOMPETÊNCIA DO JUÍZO. MATÉRIA NÃO PREQUESTIONADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pretensão absolutória, baseada em alegações de insuficiência da prova judicializada da autoria delitiva, implicaria a necessidade de reexame de fatos e de provas, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.467.045/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/9/2024, DJe de 18/9/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVA. ÓBICE NA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INCOMPATIBILIDADE COM A CONDENAÇÃO POR ASSOCIAÇÃO PARA O NARCOTRÁFICO. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. HABEAS CORPUS DE OFÍCIO. INICIATIVA DO JULGADOR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo as instâncias ordinárias demonstrado a existência de provas acerca da autoria e materialidade dos delitos de tráfico de drogas e associação para o narcotráfico, é certo que para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Conforme sedimentado na jurisprudência desta Corte Superior, a causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006 é incompatível com a condenação pela prática do crime de associação para o narcotráfico, pois evidenciada a dedicação a atividades criminosas.
+3. Com lastro na interpretação sistemática dos arts. 647-A e 654, § 2º, ambos do CPP, esta Corte Superior entende que a concessão da ordem de ofício é de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência. Todavia, não se vislumbra essa conjuntura na hipótese.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.565.957/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE FURTO. DESCLASSIFICAÇÃO DA CONDUTA. AUSÊNCIA DE VIOLÊNCIA E/OU GRAVE AMEAÇA. DESCABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O crime tipificado no art. 157 do Código Penal diverge do descrito no art. 155 do Código Penal em razão do emprego de violência, física ou moral, dirigida contra o detentor da coisa, ou seja, contra pessoa.
+2. Na ação delitiva, as instâncias de origem, ao reconhecerem o crime de furto, concluíram que a violência foi direcionada exclusivamente contra a res.
+3. Rever o entendimento externado pela instância ordinária para reconhecer as elementares do crime de roubo implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula 7 desta Corte. Precedentes (AgRg no AREsp n. 332.612/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 6/12/2016).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.515.441/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
