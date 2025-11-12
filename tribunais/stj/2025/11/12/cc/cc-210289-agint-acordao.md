@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Moura Ribeiro, Daniela Teixeira e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+Direito processual civil. Agravo interno. Conflito de competência. Juízo falimentar. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que reconheceu a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de Curitiba para deliberar sobre os valores oriundos da alienação judicial de imóvel expropriado em execução trabalhista, após a falência da LKD e seus efeitos estendidos à ANF.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a competência para deliberar sobre atos de constrição de bem imóvel, objeto de execução trabalhista, deve ser do juízo falimentar, mesmo quando há alegação de que o bem pertence a terceiro e não integra a massa falida.
+III. Razões de decidir
+3. A decisão monocrática foi mantida, pois a competência do juízo falimentar é exclusiva para deliberar sobre os bens da falida, conforme jurisprudência pacificada e os arts. 6º e 76 da Lei de Falências.
+4. A alegação de que o bem pertence a terceiro deve ser discutida no juízo falimentar, que é o competente para apreciar questões relativas ao patrimônio da sociedade falida.
+5. O conflito de competência não é o meio adequado para resolver controvérsias sobre a titularidade de bens, mas apenas para definir a autoridade judiciária competente.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Compete ao juízo falimentar decidir sobre a constrição de bens, mesmo quando há controvérsia sobre sua titularidade. 2. O conflito de competência não é o meio adequado para discutir a titularidade de bens, mas apenas para definir a autoridade judiciária competente".
+Dispositivos relevantes citados: Lei nº 11.101/2005, arts. 6º e 76.
+Jurisprudência relevante citada: STJ, AgInt no CC n. 178.571/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/2/2022; e AgInt no CC n. 210.338/RS, relator Ministro João Otá vio de Noronha, julgado em 18/7/2025.
+RELATÓRIO
+Trata-se de agravo interno interposto por JACIRO PEREIRA DO NASCIMENTO JUNIOR (terceiro interessado) contra decisão monocrática proferida nestes autos do Conflito de Competência n. 210.289/PR por meio da qual se tornou definitiva a liminar e se declarou competente o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de Curitiba (PR) para deliberar sobre os valores decorrentes da alienação do imóvel de matrícula n. 5.546 do cartório de registro de imóveis de Pinhais (PR), determinando-se a remessa dos montantes ao Juízo falimentar.
+No conflito suscitado por LKD Comércio Eletrônico S.A., assentou-se, em síntese, que a falência foi decretada em 13/2/2019 e seus efeitos estendidos à ANF Administração de Bens Próprios em 10/8/2022. Não obstante, a Justiça do Trabalho promoveu penhora e leilão do bem (matrícula n. 5.546), arrematado em 6/12/2023, por R$ 2.200.000,00, com liberação parcial ao credor trabalhista, o que ensejou a medida.
+O Juízo trabalhista confirmou a anterioridade da penhora, invocou a natureza alimentar do crédito e a alegada ausência de comunicação tempestiva. Após a liminar do STJ, suspendeu o pagamento remanescente.
+O Ministério Público Federal opinou pelo conhecimento do conflito e pela competência do Juízo falimentar.
+No presente agravo, o agravante sustenta, em suma, a inexistência de conflito por se tratar de bem da ANF (cuja falência não teria sido decretada autonomamente). Defende a anterioridade da penhora e do leilão e invoca a Súmula n. 480 do STJ para afirmar que o Juízo universal não poderia interferir na constrição de bem "não abrangido" por plano de recuperação, pugnando pela reforma da decisão e pela manutenção dos atos expropriatórios na Justiça do Trabalho.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. Conflito de competência. Juízo falimentar. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que reconheceu a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de Curitiba para deliberar sobre os valores oriundos da alienação judicial de imóvel expropriado em execução trabalhista, após a falência da LKD e seus efeitos estendidos à ANF.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a competência para deliberar sobre atos de constrição de bem imóvel, objeto de execução trabalhista, deve ser do juízo falimentar, mesmo quando há alegação de que o bem pertence a terceiro e não integra a massa falida.
+III. Razões de decidir
+3. A decisão monocrática foi mantida, pois a competência do juízo falimentar é exclusiva para deliberar sobre os bens da falida, conforme jurisprudência pacificada e os arts. 6º e 76 da Lei de Falências.
+4. A alegação de que o bem pertence a terceiro deve ser discutida no juízo falimentar, que é o competente para apreciar questões relativas ao patrimônio da sociedade falida.
+5. O conflito de competência não é o meio adequado para resolver controvérsias sobre a titularidade de bens, mas apenas para definir a autoridade judiciária competente.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. Compete ao juízo falimentar decidir sobre a constrição de bens, mesmo quando há controvérsia sobre sua titularidade. 2. O conflito de competência não é o meio adequado para discutir a titularidade de bens, mas apenas para definir a autoridade judiciária competente".
+Dispositivos relevantes citados: Lei nº 11.101/2005, arts. 6º e 76.
+Jurisprudência relevante citada: STJ, AgInt no CC n. 178.571/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/2/2022; e AgInt no CC n. 210.338/RS, relator Ministro João Otá vio de Noronha, julgado em 18/7/2025.
+VOTO
+A controvérsia submetida ao exame do STJ cinge-se à definição do juízo competente para deliberar sobre os valores oriundos da alienação judicial do imóvel de matrícula n. 5.546 do CRI de Pinhais, expropriado em execução trabalhista, em contexto no qual a falência da LKD foi decretada em 13/2/2019 e seus efeitos estendidos à ANF, sobre cujo patrimônio houve penhora e leilão.
+Consta dos autos que a arrematação ocorreu em 6/12/2023, pelo montante de R$ 2.200.000,00, com subsequente liberação parcial ao credor laboral.
+A decisão monocrática impugnada, em harmonia com a jurisprudência desta Corte, reconheceu a competência do Juízo universal da falência para centralizar a deliberação acerca da destinação de tais valores, tornando definitiva a liminar e determinando sua remessa ao Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de Curitiba.
+No agravo, o agravante não enfrenta a premissa jurídica assentada na decisão: uma vez decretada a falência (ou estendidos a terceiros seus efeitos), compete, com exclusividade, ao juízo universal conhecer do atos de constrição, substituição, levantamento e ulterior destinação de bens sujeitos ao regime concursal e ordená-los.
+A insurgência desloca o debate para controvérsia material  suposta titularidade do imóvel por terceiro  , pretendendo a parte afastar, por via oblíqua, a vis attractiva falimentar. Tal linha argumentativa não se presta a infirmar a decisão agravada, porque desborda do objeto próprio do conflito de competência, incidente de natureza estritamente processual, vocacionado apenas a delimitar a jurisdição competente, e não a decidir, em cognição exauriente, acerca de domínio ou disponibilidade de bens.
+Eventual exclusão do imóvel do acervo arrecadável, ou qualquer discussão sobre sua titularidade, deve ser deduzida no próprio juízo universal, reconhecido competente, pelos meios processuais adequados (embargos de terceiro, impugnação à arrecadação, incidentes próprios), e não nesta via estreita.
+Nesse sentido, o próprio Juízo laboral, ao prestar informações, assentou a anterioridade da penhora e, após a medida liminar deferida por esta Corte, sustou o pagamento remanescente, o que reforça a necessidade de centralização dos atos executivos no Juízo falimentar.
+A orientação do Superior Tribunal de Justiça é pacífica ao afirmar que, decretada a falência, impõe-se, com máxima intensidade, observar o princípio da universalidade, pelo qual todos os atos de execução que incidam sobre bens sujeitos à arrecadação devem ser controlados pelo juízo da quebra, inclusive os oriundos de execuções trabalhistas, ainda quando a constrição seja anterior, em prestígio à ordem legal de pagamento e ao princípio par conditio creditorum.
+Na mesma linha, o parecer do Ministério Público Federal (fls. 226-230) assentou que a deliberação sobre a destinação do produto da arrematação deve submeter-se ao crivo do Juízo falimentar, por entender que, "na hipótese de reclamação trabalhista ajuizada em face de sociedade empresária que teve decretada a sua quebra, o art. 6º, § 2º, da Lei n. 11.101/2005 preceitua que a competência da Justiça do Trabalho cessa quando da apuração do crédito, que deve ser posteriormente inscrito no quadro-geral de credores pelo valor determinado em sentença" (fl. 227).
+Registre-se, ademais, a inaplicabilidade da Súmula n. 480 do STJ ao caso, porquanto o enunciado se refere à recuperação judicial e a bens não abrangidos pelo plano, ao passo que aqui se está diante de falência, em que a universalidade do juízo é ainda mais acentuada e a centralização dos atos executivos constitui regra de ordem pública concursal.
+No mesmo sentido, o seguinte precedente, cuja ratio  ainda que formulada no âmbito da recuperação judicial  se aplica mutatis mutandis ao regime falimentar:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. LIMINAR CONCEDIDA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. A deliberação acerca da natureza concursal ou extraconcursal do crédito se insere na competência do Juízo universal, cabendo-lhe, outrossim, decidir acerca da liberação ou não de bens eventualmente penhorados e bloqueados, uma vez que se trata de juízo de valor vinculado à aferição da essencialidade do bem em relação ao regular prosseguimento do processo de recuperação.
+4. Agravo interno não provido. (AgInt no CC n. 178.571/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/2/2022, DJe de 18/2/2022.)
+Também converge para tal orientação precedente desta Corte que, em hipótese análoga de execução trabalhista e de alegação de propriedade por terceiro, reafirmou que compete ao juízo falimentar deliberar sobre atos constritivos incidentes sobre bens potencialmente integrantes da massa, ao passo que a discussão sobre titularidade se processa perante esse mesmo juízo, pelas vias próprias. Confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. JUÍZO FALIMENTAR. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que reconheceu a competência do Juízo de Direito da 2ª Vara Cível da Comarca de Cachoeirinha/RS para processar e deliberar sobre atos constritivos em execução trabalhista contra a massa falida de JOB Recursos Humanos Ltda.
+2. A agravante alega omissão na decisão quanto à titularidade do bem penhorado, afirmando que pertence a terceiro, sócio da empresa falida, e não à massa falida, o que atrairia a competência da Justiça do Trabalho.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a competência para deliberar sobre atos de constrição de bem imóvel, objeto de execução trabalhista, deve ser do juízo falimentar, mesmo quando há alegação de que o bem pertence a terceiro e não integra a massa falida.
+III. Razões de decidir
+4. A decisão monocrática foi mantida, pois a competência do juízo falimentar é exclusiva para deliberar sobre os bens da falida, conforme jurisprudência pacificada e os arts. 6º e 76 da Lei de Falências.
+5. A alegação de que o bem pertence a terceiro deve ser discutida no juízo falimentar, que é o competente para apreciar questões relativas ao patrimônio da sociedade falida.
+6. O conflito de competência não é o meio adequado para resolver controvérsias sobre a titularidade de bens, mas apenas para definir a autoridade judiciária competente.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. Compete ao juízo falimentar decidir sobre a constrição de bens, mesmo quando há controvérsia sobre sua titularidade. 2. O conflito de competência não é o meio adequado para discutir a titularidade de bens, mas apenas para definir a autoridade judiciária competente".
+Dispositivos relevantes citados: Lei nº 11.101/2005, arts. 6º e 76.
+Jurisprudência relevante citada: STJ, AgInt no CC n. 178.571/MG, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/2/2022. (AgInt no CC n. 210.338/RS Rel. Ministro João Otávio de Noronha, julgado em 11/9/2025, DJEN de 15/9/2025.)
+De todo modo, a solução adotada nesta decisão se harmoniza com a orientação do Supremo Tribunal Federal, que, ao referendar a liminar no CC n. 8.426/MC-Ref (relator Ministro Gilmar Mendes, Pleno, julgado em 24/2/2025, DJe de 10/3/2025), reiterou a tese firmada na ADI n. 3.934/DF e no RE n. 583.955, isto é, de que à Justiça do Trabalho compete a definição do quantum debeatur, mas a execução  entendida como o controle e a destinação de valores oriundos de atos constritivos  deve ocorrer na Justiça comum, no juízo universal da recuperação judicial ou da falência.
+Tal diretriz, fundada na preservação da ordem legal de pagamentos e no princípio par conditio creditorum, impõe que bloqueios, depósitos e produtos de expropriação vinculados a demandas trabalhistas sejam submetidos ao crivo do juízo falimentar para evitar satisfação preferencial e assegurar a centralização dos atos executivos  exatamente o que se verifica na espécie, em que a controvérsia versa sobre a destinação do produto de arrematação realizado no processo laboral.
+No caso concreto, a decisão agravada limitou-se, com acerto, a afirmar a competência do Juízo universal para deliberar sobre o produto da alienação e a determinar a remessa dos valores àquele Juízo sem ingressar no mérito de titularidade do bem  questão de índole material, cuja apreciação incumbe, com exclusividade, ao Juízo falimentar mediante cognição plena e contraditório, se e quando suscitada pelas vias próprias.
+A tese defensiva de que o bem pertenceria a terceiro, como argumento para afastar a competência do Juízo universal, não se sustenta: a alegação, quando muito, indica matéria a ser submetida ao controle daquele Juízo e não título para desconstituir a centralização jurisdicional, já consolidada por esta Corte no ponto.
+Ademais, o iter processual demonstra que o conflito foi corretamente julgado para se fixar a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de Curitiba e determinar a remessa dos valores, solução em perfeita consonância com o parecer ministerial e com a jurisprudência pacificada deste Tribunal.
+Em síntese, não há, na insurgência, argu mento idôneo a macular a decisão impugnada. Ao contrário, ao reconhecer a competência do Juízo universal da falência para processar e deliberar sobre os atos executivos incidentes sobre o patrimônio sujeito à arrecadação  inclusive quando há controvérsia sobre a titularidade do bem  , a decisão alinhou-se ao escopo normativo da Lei n. 11.101/2005 e ao entendimento consolidado do Superior Tri bunal de Justiça.
+A decisão agravada mantém-se, portanto, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
