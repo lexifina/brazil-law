@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. PLEITO DE ABSOLVIÇÃO PELA ASSOCIAÇÃO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. MANUTENÇÃO DA CONDENAÇÃO PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Samuel Wellington de Carvalho Santiago contra a decisão monocrática, de minha lavra, assim ementada (fl. 176):
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. PLEITO DE ABSOLVIÇÃO PELA ASSOCIAÇÃO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. MANUTENÇÃO DA CONDENAÇÃO PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
+Nas razões do recurso, o agravante defende o cabimento do habeas corpus, mesmo após o trânsito em julgado, diante de "flagrante ilegalidade" e da possibilidade de "revaloração da prova incontroversa", sem revolvimento fático-probatório, devendo ser reconsiderado o não conhecimento por sucedâneo de revisão criminal (fls. 184/186).
+Sustenta erro de direito na valoração da prova para o delito do art. 35 da Lei n. 11.343/2006, afirmando que a condenação se baseou "unicamente na delação isolada do corréu", sem prova de vínculo "estável e permanente" (fls. 188/189).
+Argumenta ilegalidade na dosimetria do tráfico, por utilização de elementos inerentes ao tipo penal (quantidade e variedade da droga) para exasperar a pena-base, caracterizando bis in idem (fls. 190/191).
+Expõe que, afastada a condenação por associação, estão presentes os requisitos do § 4º do art. 33 (tráfico privilegiado) da Lei de Drogas, notadamente primariedade e bons antecedentes, além de não dedicação a atividades criminosas, mencionando que o paciente é servidor público efetivo (fls. 191/192).
+Requer, assim, a reconsideração da decisão agravada ou sua submissão ao órgão colegiado competente, para a concessão da ordem nos termos em que requerida (fls. 193/194).
+Não abri prazo para contrarrazões.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. PLEITO DE ABSOLVIÇÃO PELA ASSOCIAÇÃO. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. MANUTENÇÃO DA CONDENAÇÃO PELO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido.
+VOTO
+A despeito das alegações defensivas, a decisão agravada deve ser mantida.
+Conforme mencionei, ocorrido o trânsito em julgado da sentença condenatória, o presente writ é sucedâneo de revisão criminal. Inexistindo, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Depois, alterar a conclusão do Tribunal de origem pela comprovação da autoria e materialidade do crime de associação para o tráfico - havendo demonstração do prévio acordo de vontades, com vínculo de permanência, dirigido à finalidade de traficar substância entorpecente, resta configurado de forma concreta, o "animus" associativo (fl. 33) -, demandaria reexame probatório, inviável na via eleita.
+Ademais, ressalte-se que a dosimetria da pena não se vincula a um critério puramente matemático, devendo ser respeitada a discricionariedade regrada do julgador. E, no caso, mostra-se irreparável a dosimetria imposta, tendo a pena, para o tráfico de drogas, sido fixada, na primeira fase, em 6 anos e 8 meses de reclusão, além do pagamento de 666 dias-multa, em seu mínimo unitário.
+Nesse contexto, verifica-se que o Magistrado sentenciante dosou corretamente a pena inicial do paciente, ao adotar o entendimento fixado pelo Superior Tribunal de Justiça no sentido de que a quantidade e a natureza da droga são circunstâncias preponderantes na dosimetria da pena, conforme o art. 42 da Lei de Drogas, justificando a fixação da pena-base acima do mínimo legal (AgRg no HC n. 954.020/RS, Ministro Ribeiro Dantas, Quinta Turma, DJEN de 25/2/2025).
+Confiram-se, a propósito, os seguintes precedentes, nos quais esta Corte Superior de Justiça admitiu idêntica exasperação da pena-base: AgRg no REsp n. 2.137.130/RN, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN 26/6/2025; e AgRg no AREsp n. 2.928.794/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 14/8/2025.
+Segundo precedentes, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal. Ao contrário, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, o que se verifica na espécie (AgRg no HC n. 868.464/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 2/12/2024).
+Acrescente-se que a dosimetria da pena é passível de revisão em habeas corpus, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório (HC n. 475.696/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/12/2018).
+Por fim, mantida a condenação pelo delito de associação para o tráfico, incabível a aplicação do redutor do tráfico privilegiado (HC n. 827.714/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Assim, a decisão objurgada não merece reparos.
+Pelo exposto, nego provimento ao agravo regimental.
