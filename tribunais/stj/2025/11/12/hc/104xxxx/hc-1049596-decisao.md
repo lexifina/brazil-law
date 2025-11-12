@@ -1,0 +1,19 @@
+DECISÃO
+CARLOS HENRIQUE DEL VECCHIO ARTACHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 0013275-69.2014.8.16.0045).
+Consta dos autos que o paciente foi condenado pela prática dos crimes de receptação qualificada e posse de arma de fogo com numeração suprimida.
+A defesa pleiteia a concessão da ordem, "para declarar a ilegalidade da busca domiciliar realizada, uma vez que os fundamentos verificados a posteriori não são razoáveis para justificar a imprescindibilidade ou urgência da invasão domiciliar, com consequente anulação das provas obtidas em derivação" (fl. 11).
+Decido.
+No caso, a defesa se insurge contra acórdão proferido no julgamento da apelação criminal pelo Tribunal de Justiça do Estado de Mato Grosso do Paraná. No entanto, em consulta processual realizada na página eletrônica do TJPR e nos assentamentos eletrônicos desta Corte, verifico que, contra o acórdão da apelação, a defesa também interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (AREsp n. 1.697.736), que não foi conhecido por este Superior Tribunal. Em seguida, foi interposto agravo regimental, não provido. O decisum transitou em julgado em 3/9/2025.
+Este habeas corpus foi impetrado em 3/11/2025.
+Constata-se, pois, a impossibilidade de conhecimento deste mandamus, impetrado após o trânsito em julgado da condenação.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente (ora agravante), forçoso reconhecer a incompetência deste Tribunal para o processamento deste habeas corpus.
+Ilustrativamente:
+ ..  2. Revela-se inadequada a impetração habeas corpus nesta Corte para impugnar suas próprias decisões, conforme ressai da competência constitucional atribuída ao Superior Tribunal de Justiça no art. 105 da Carta da República.
+3. Agravo regimental improvido.
+(AgRg no HC 349.195/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/10/2016, grifei)
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Acerca do tema, menciono, ainda: "A fungibilidade entre revisão criminal e habeas corpus viola o juízo natural, pois permitiria que as partes pudessem escolher o Juízo que lhes conviesse. É uma situação diversa da que se encontra na fungibilidade entre o recurso ordinário em habeas corpus e o habeas corpus substitutivo" (AgRg no HC n. 905.233/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., julgado em 17/6/2024, DJe de 20/6/2024).
+Ademais, não identifico nenhuma ilegalidade manifesta capaz de ensejar a concessão de habeas corpus, de ofício, em favor do acusado, tendo em vista que, conforme consta do acórdão impugnado, "além das denúncias anônimas, mencionadas pelos policiais em ambas as etapas persecutórias, havia investigação prévia apontando o recorrente e o estabelecimento comercial na suposta prática do crime de receptação, justificando a diligência realizada" (fl. 60), elementos que, ao menos em princípio, evidenciam a existência de fundadas razões a justificar o ingresso dos agentes estatais no domicílio do réu.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
