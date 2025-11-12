@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DE POLÍCIA. EXCLUSÃO DE CANDIDATA POR ALTURA INFERIOR AO MÍNIMO EXIGIDO. SENTENÇA DESFAVORÁVEL TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE RELATIVIZAÇÃO DA COISA JULGADA PELA VIA MANDAMENTAL. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia restringe-se à possibilidade de a Recorrente rediscutir, por meio de mandado de segurança, matéria já definitivamente apreciada e decidida pelo Poder Judiciário, após recente decisão do Supremo Tribunal Federal em sentido contrário ao decidido com trânsito em julgado, referente à exclusão da candidata do concurso policial pela exigência de altura mínima.
+2. Caso a ordem do mandado de segurança fosse concedida para reformar a decisão de exclusão do certame, tal comando teria o condão de afastar a coisa julgada formada no âmbito da ação ordinária anteriormente ajuizada com o mesmo fim, o que não se pode admitir, sob pena de utilização indevida do mandamus como ação rescisória.
+3. Por fim, a convocação de candidato em razão de decisão judicial proferida em ação individual não tem eficácia erga omnes, não sendo possível reabrir o certame para a reclassificação de todos os participantes do concurso público.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MONIK NATHANAELLE LOPES ALVES contra decisão de minha lavra que negou provimento ao seu recurso ordinário em mandado de segurança (fls. 11654-11659).
+Alega a parte agravante ser incabível propor ação rescisória devido ao decurso do prazo de 2 (dois) anos, bem como pelo fato de a demanda ter sido proposta nos Juizados Especiais da Fazenda Pública, no qual não se admite a rescisão, sendo o mandado de segurança a única via possível para buscar o direito perseguido.
+Prossegue afirmando que vários candidatos comprovadamente assumiram os cargos mediante recentíssima decisão do órgão especial do TJMA em caso igual ao da recorrente, sob pena de ferimento ao princípio da isonomia.
+Por fim, requer o provimento do agravo interno, a fim de que seja confirmada a sua reintegração no cargo de soldado da Polícia Militar do Estado do Maranhão.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DE POLÍCIA. EXCLUSÃO DE CANDIDATA POR ALTURA INFERIOR AO MÍNIMO EXIGIDO. SENTENÇA DESFAVORÁVEL TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE RELATIVIZAÇÃO DA COISA JULGADA PELA VIA MANDAMENTAL. AGRAVO INTERNO DESPROVIDO.
+1. A controvérsia restringe-se à possibilidade de a Recorrente rediscutir, por meio de mandado de segurança, matéria já definitivamente apreciada e decidida pelo Poder Judiciário, após recente decisão do Supremo Tribunal Federal em sentido contrário ao decidido com trânsito em julgado, referente à exclusão da candidata do concurso policial pela exigência de altura mínima.
+2. Caso a ordem do mandado de segurança fosse concedida para reformar a decisão de exclusão do certame, tal comando teria o condão de afastar a coisa julgada formada no âmbito da ação ordinária anteriormente ajuizada com o mesmo fim, o que não se pode admitir, sob pena de utilização indevida do mandamus como ação rescisória.
+3. Por fim, a convocação de candidato em razão de decisão judicial proferida em ação individual não tem eficácia erga omnes, não sendo possível reabrir o certame para a reclassificação de todos os participantes do concurso público.
+4. Agravo interno desprovido.
+VOTO
+O presente recurso interno não merece prosperar.
+A controvérsia restringe-se à possibilidade de a Recorrente rediscutir, por meio de mandado de segurança, matéria já definitivamente apreciada e decidida pelo Poder Judiciário, com trânsito em julgado em 22/3/2022, após recente decisão do Supremo Tribunal Federal em sentido contrário ao decidido.
+De plano, resta evidenciada a identidade entre a causa de pedir e o pedido deste mandamus com aquele da Ação Ordinária n. 0830662-28.2018.8.10.0001/MA, em que a exclusão da candidata do concurso público foi reconhecida como legítima pela exigência de altura mínima para o cargo de soldado combatente estar prevista na legislação estadual e encontrar amparo constitucional, com a consequente revogação da liminar anteriormente concedida.
+Assim, impõe-se o reconhecimento da coisa julgada material, a impedir o ingresso no mérito da presente segurança, nos moldes do que dispõem os arts. 467, 468 e 471, do CPC/1973, e os arts. 502, 503 e 504, do CPC/2015, sob pena de receber esta ação mandamental travestida de ação rescisória ou como sucedâneo recursal. É a imutabilidade da decisão proferida naquela Ação Ordinária que constitui o óbice, no caso, da coisa julgada.
+Esta Corte tem se manifestado no sentido de que há a caracterização da preclusão máxima, não havendo como acolher o pedido constante na impetração, sob pena de violar a coisa julgada.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. COISA JULGADA RECONHECIDA. DECISÃO MONOCRÁTICA MANTIDA.
+1. A coisa julgada é aferida tão somente pela identidade de partes, pedido e causa de pedir, quando uma das ações já foi decidida por sentença contra a qual não caiba mais recurso.
+2. Coisa julgada reconhecida, em razão de ação anterior com mesmas partes, mesma causa de pedir e mesmo pedido: percepção dos valores contidos na portaria concessória de anistia.
+3. Agravo interno não provido.
+(AgInt no MS n. 24.828/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28/5/2019, DJe de 5/6/2019.)
+Ademais, o precedente invocado (RE n. 1480201, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 27-05-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 10-06-2024 PUBLIC 11-06-2024) foi julgado após o trânsito em julgado da ação ordinária em referência, razão pela qual, em respeito à coisa julgada e à ocorrência da preclusão, não poderia desconstituir, em sede de mandado de segurança, o dispositivo da sentença que negou o direito da impetrante e que não foi desconstituído por ação rescisória, conforme determina os Temas n. 733 e 360 do STF.
+Aliás, ao contrário do que induz a recorrente, a Corte Suprema modulou os efeitos da decisão para aplicar efeitos prospectivos, e não retroativos, a fim de evitar "prejuízos à futura prestação do serviço de segurança pública naquela unidade da federação" em decorrência da interpretação conforme à Constituição, em meio à fase de chamamento para o curso de formação (RE n. 1480201 ED, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 06-11-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 12-11-2024 PUBLIC 13-11-2024).
+Por fim, quanto à tese de relativização da coisa julgada, a Lei n. 12.016/2009 expressamente veda o uso da via mandamental para a desconstituição de decisão transitada em julgado:
+Art. 5º Não se concederá mandado de segurança quando se tratar:
+ ..
+III - de decisão judicial transitada em julgado.
+Nessa senda:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO QUE DETERMINOU A COMPLEMENTAÇÃO DO PREPARO RECURSAL NA ORIGEM. QUESTÃO ANALISADA POSTERIORMENTE POR MEIO DE AGRAVO INTERNO E RECURSO ESPECIAL. TRÂNSITO EM JULGADO DA MATÉRIA DISCUTIDA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO MANDAMUS COMO AÇÃO RESCISÓRIA. MANUTENÇÃO DO ACÓRDÃO RECORRIDO QUE EXTINGUIU O FEITO, SEM RESOLUÇÃO DE MÉRITO, CONSIDERANDO A INADEQUAÇÃO DA VIA ELEITA. RECURSO DESPROVIDO.
+ ..
+4. Dessa forma, não há como prover o presente recurso ordinário, sobretudo porque, caso a ordem do mandado de segurança fosse concedida para reformar a decisão de complementação do preparo recursal, tal comando teria o condão de afastar a coisa julgada formada no âmbito do Recurso Especial n. 1.832.105/SP, o que não se pode admitir, sob pena de utilização indevida do mandamus como ação rescisória.
+5. Com efeito, nos termos do art. 5º, inciso III, da Lei n. 12.016/2009, não se revela possível a concessão de mandado de segurança quando se tratar de decisão judicial transitada em julgado.
+6. Recurso ordinário desprovido.
+(RMS n. 61.543/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2022, DJe de 17/5/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA PREVENTIVO, IMPETRADO CONTRA ACÓRDÃO DO PLENO DO TRIBUNAL DE ORIGEM, QUE DECLARARA A INCONSTITUCIONALIDADE DE ATOS NORMATIVOS. EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE, NO CASO CONCRETO. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA, EM MANDADO DE SEGURANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. IMPUGNAÇÃO, NO PRESENTE WRIT, DA DECLARAÇÃO DE INCONSTITUCIONALIDADE DE ATOS NORMATIVOS, EM CONTROLE CONCENTRADO. INADEQUAÇÃO DA VIA MANDAMENTAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. INADMISSIBILIDADE DA IMPETRAÇÃO DO MANDADO DE SEGURANÇA, POR INCIDÊNCIA DO ART. 5º, III, DA LEI 12.016/2009 E DA SÚMULA 268 DO STF. RECURSO ORDINÁRIO IMPROVIDO.
+ ..
+VI. Consoante assentado pela Primeira Turma do STJ, no RMS 33.042/SP (Rel. Ministro TEORI ALBINO ZAVASCKI, DJe de 10/10/2011), e também pela Segunda Turma do STJ, no AgRg no RMS 36.974/SP (Rel. Ministro MAURO CAMPBELL, DJe de 25/04/2012), no regime da Lei 12.016/2009 subsistem os óbices que sustentam a orientação das Súmulas 267 e 268 do STF, no sentido de que, mesmo na hipótese de decisão judicial sujeita a recurso sem efeito suspensivo, o mandado de segurança (a) não pode ser transformado em alternativa recursal, como substitutivo do recurso próprio, e (b) não é cabível contra decisão judicial revestida de preclusão ou com trânsito em julgado.
+VII. Consoante a jurisprudência do STJ, "é cabível a impetração de mandado de segurança contra decisão judicial irrecorrível, desde que antes de gerada a preclusão ou ocorrido o trânsito em julgado"  .. .
+A decisão que converte o agravo de instrumento em retido é irrecorrível. Ainda assim, será sempre admissível, em tese, a interposição de embargos de declaração, a fim de que o Relator possa sanar vício de omissão, contradição ou obscuridade quanto aos motivos que o levaram a decidir pela ausência do risco de causar à parte lesão grave ou de difícil reparação, cuja existência ensejaria o processamento do agravo de instrumento. Na ausência de interposição de embargos de declaração, terá a parte o prazo de 5 dias para a impetração do writ, contado da publicação da decisão, sob pena de tornar-se imutável o decisum, e, portanto, inadmissível o mandado de segurança, nos termos do art. 5º, III, da Lei 12.016/2009 e da Súmula 268/STF" (STJ, RMS 43.439/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 01/10/2013).
+VIII. O acórdão do Tribunal de origem reconheceu que a impetração da segurança deu-se após o trânsito em julgado do acórdão impugnado no writ, proferido na aludida Ação Direta de Inconstitucionalidade, de modo que incidem, na espécie, o art. 5º, III, da Lei 12.016/2009 e a Súmula 268/STF.
+IX. Recurso Ordinário improvido.
+(RMS n. 46.132/PI, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL TRANSITADO EM JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DE CERTEZA E LIQUIDEZ DO DIREITO POSTULADO.
+1. É incabível o mandado de segurança quando impetrado contra decisão judicial sujeita a recurso específico ou transitada em julgado, mormente porque tal remédio constitucional não representa panaceia para toda e qualquer situação, nem é sucedâneo do recurso específico ou da ação rescisória.
+ ..
+4. Agravo Interno não provido.
+(AgInt no RMS n. 56.651/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2020, DJe de 3/8/2020.)
+Por fim, quanto à alegada violação da isonomia, a decisão judicial favorável proferida em processos de terceiros somente vincula às partes da demanda, ou seja, gera efeitos apenas inter partes.
+Com efeito, a teor do art. 506 do Código de Processo Civil: "a sentença faz coisa julgada às partes entre as quais é dada".
+Nessa linha de raciocínio, a convocação de candidato em razão de decisão judicial proferida em ação individual não tem eficácia erga omnes, não sendo possível reabrir o certame para a reclassificação de todos os participantes do concurso público.
+Analogamente:
+ADMINISTRATIVO. CONCURSO PÚBLICO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECADÊNCIA PARA IMPETRAÇÃO DE MANDADO DE SEGURANÇA. TERMO A QUO. TÉRMINO DA VALIDADE DO CERTAME. LIMITES DA COISA JULGADA. APROVEITAMENTO A TERCEIRO ESTRANHO AO PROCESSO. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A orientação jurisprudencial desta Corte estabelece que o termo inicial do prazo decadencial para a impetração de mandado de segurança deve ser contado a partir do término da vigência do concurso público, momento em que potencialmente emerge o direito líquido e certo a ser tutelado pela via mandamental.
+II - A anulação de questões de concurso público em razão de decisão judicial proferida em ação individual não tem efeito erga omnes, não podendo reabrir o certame para redistribuição de pontos a todos os candidatos, especialmente quando decorridos 10 anos da exclusão do candidato.
+III - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso para autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no RMS n. 73.632/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 28/10/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRETENSÃO DE EXTENSÃO DOS EFEITOS DA COISA JULGADA EM OUTROS MANDAMUS. SEGURANÇA DENEGADA, PELO TRIBUNAL DE ORIGEM, EM FACE DAS PARTICULARIDADES DAS DEMANDAS. ART. 472 DO CPC/73. APLICAÇÃO AO CASO. PEDIDO SUBSIDIÁRIO. ANULAÇÃO DE ITEM DO EDITAL. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão monocrática publicada em 15/12/2016, que, por sua vez, decidira recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança, com pedido de medida liminar, impetrado contra ato do Procurador-Geral de Justiça do Ministério Público do Estado do Espírito Santo, objetivando "a aprovação definitiva do Impetrante no certame em razão da sua condição isonômica ao impetrante do mandado de segurança nº 100.100.025.749 (com decisão transitada em julgado) e à apelante nos autos do processo nº 024.10.032939-0, em cumprimento aos princípios da isonomia, impessoalidade e segurança jurídica".
+ ..
+IV. Malgrado seja bem articulada a pretensão do recorrente, inviável a extensão da força vinculante das decisões com as quais pretende ser beneficiado, diante da própria vedação legal (art. 472 do CPC/73), que prevê que a imutabilidade e a indiscutibilidade da sentença serão impostas somente às partes que figurarem na lide, ou seja, a sentença faz coisa julgada às partes entre as quais é dada, não beneficiando, nem prejudicando terceiros. A propósito, assim já decidiu esta Corte (AgRg no REsp 951.588/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/02/2009; REsp 732.825/DF, Rel. p/ acórdão Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 17/05/2010).
+V. Na forma da jurisprudência desta Corte, "a Súmula 283/STF é aplicável aos recursos ordinários" (STJ, RMS 46.487/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/08/2016).
+ ..
+VII. Agravo interno improvido.
+(AgInt nos EDcl no RMS n. 47.945/ES, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/3/2017, DJe de 10/4/2017.)
+Diante desse contexto, não obstante as alegações da parte recorrente, é inafastável a conclusão de que ausente direito líquido e certo a ser amparado mediante a presente ação mandamental.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
