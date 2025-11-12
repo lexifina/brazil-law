@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1363/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. EXEGESE DOS ARTS. 1.039, 1.040 E 1.041 DO CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos  Tema 1363/STJ  , nos seguintes termos: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário".
+2. Mostra-se conveniente devolver os autos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, disciplinado pelos arts. 1.039, 1.040 e 1.041, todos do CPC.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e julgar prejudicados os recursos, com a restituição dos autos ao Tribunal de origem, para que seja observado o disposto nos arts. 1.040 e 1.041 do CPC.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por UNIAR COMÉRCIO DE ELETRO-ELETRÔNICOS E SERVIÇOS LTDA. contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. RECURSO ESPECIAL INADMITIDO. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial, em face da ausência de afronta a dispositivo legal e da incidência da Súmula 7/STJ. O agravo em recurso especial interposto deixou de apresentar impugnação específica à incidência da Súmula 7/STJ, não sendo conhecido por decisão da Presidência do Superior Tribunal de Justiça.
+2. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+3. Agravo interno não provido (fl. 475).
+A parte embargante sustenta, além da necessidade de suspensão em razão da afetação do Tema 1363/STJ, que:
+No presente caso, a questão jurídica versada nestes autos é precisamente idêntica àquela recentemente afetada ao regime dos recursos repetitivos no Tema 1.363 STJ. Assim, se mostra imprescindível o imediato sobrestamento dos autos com o retorno ao Tribunal de origem (TJSP), em estrita conformidade com o previsto nos artigos acima transcritos.
+A ausência dessa providência caracteriza clara omissão e acarreta grave violação ao Regimento Interno desta Corte, bem como ao disposto no artigo 1.036, § 1º, do CPC. (fl. 489).
+Conclui que:
+ ..  é imperativo, portanto, reconhecer e declarar essa nulidade, determinando-se o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, com a expressa determinação de sobrestamento do feito até o julgamento definitivo do tema repetitivo por esta Corte Superior" (fl. 490).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1363/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. EXEGESE DOS ARTS. 1.039, 1.040 E 1.041 DO CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos  Tema 1363/STJ  , nos seguintes termos: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário".
+2. Mostra-se conveniente devolver os autos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, disciplinado pelos arts. 1.039, 1.040 e 1.041, todos do CPC.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e julgar prejudicados os recursos, com a restituição dos autos ao Tribunal de origem, para que seja observado o disposto nos arts. 1.040 e 1.041 do CPC.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Com razão a parte embargante.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Em análise dos autos, verifica-se que a controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos  Tema 1363/STJ  , nos seguintes termos:
+Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário.
+Nesse contexto, constata-se ser o caso de devolver os autos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041, todos do CPC.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Superior Tribunal, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas, que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito o acórdão de fls. 475-477, bem como as decisões de fls. 419-421 e 377-378, e determinar a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se , em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, a presente decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não se conhecerá do eventual agravo interno ou do pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelat órios dará azo à aplicação das penalida des legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
