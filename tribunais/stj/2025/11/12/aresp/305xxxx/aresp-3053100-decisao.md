@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por ISAÍAS LOPES CRUZ e MARCELO DOMINGOS DOS SANTOS, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fls. 527):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - DESCLASSIFICAÇÃO PARA PORTE DE DROGAS PARA USO - IMPOSSIBILIDADE - AUTORIA, MATERIALIDADE E FINALIDADE MERCANTIL DA DROGA DEMONSTRADAS - DECLARAÇÃO DE INCONSTITUCIONALIDADE DO ART. 28 DA LEI DE DROGAS - PEDIDO PREJUDICADO. Comprovadas a autoria e a materialidade do crime de tráfico, bem como a finalidade mercantil da droga apreendida, não há que se falar em desclassificação para o delito de porte de drogas para consumo pessoal. Não há que se falar em inconstitucionalidade do crime de posse de droga para consumo pessoal quando se mantém a condenação dos imputados por tráfico de drogas. Ainda que assim não fosse, não é possível a declaração incidental de constitucionalidade de norma por órgão fracionário de Tribunal, ante a necessidade de observância da cláusula de reserva de plenário.
+Nas razões do recurso especial (e-STJ fls. 543/561), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 315, §2º, incisos III, IV e VI, e 564, inciso V, do CPP e dos artigos 28 e 33 da Lei n. 11.343/2006. Sustenta: (i) a ocorrência de nulidade por ausência de fundamentação, tendo em vista a não apresentação de motivação e apreciação das teses recursais sustentadas pela parte agravante; (ii) a desclassificação do delito de tráfico para a conduta prevista no artigo 28 da Lei n. 11.343/06.
+Apresentadas contrarrazões (e-STJ fls. 565/568), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 572/574), tendo sido interposto o presente agravo (e-STJ fls. 587/596).
+O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento e não provimento do agravo (e-STJ fls. 625/627).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Primeiramente, a tese acerca da ausência de fundamentação não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282/STF.
+Prosseguindo, no presente caso, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo delito de tráfico (e-STJ fls. 528/532 ).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela desclassificação do delito de tráfico para a conduta prevista no artigo 28 da Lei nº 11.343/06, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se
+EMENTA
