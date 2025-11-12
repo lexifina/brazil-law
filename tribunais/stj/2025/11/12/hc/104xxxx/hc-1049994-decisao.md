@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WILLIHAN JUNIOR FERREIRA VICENTE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO E STADO DO ESPÍRITO SANTO, que denegou a ordem no Habeas Corpus n. 5015018-06.2025.8.08.0000 (fls. 10/15).
+Narram os autos que o paciente foi preso preventivamente desde o ano de 2024 (fl. 3) e denunciado pela suposta prática dos crimes de homicídio qualificado e corrupção de menores (Ação Penal n. 0002516-15.2019.8.08.0006 da 2ª Vara Criminal do Juízo de Aracruz/ES - fls. 22/23).
+Neste mandamus, o impetrante sustenta excesso de prazo para a formação da culpa, pois O paciente encontra-se preso há mais de cinco anos, sem que tenha sido proferida decisão de pronúncia. O processo tramita desde 2019 e permanece sem definição quanto à sua conclusão, configurando flagrante constrangimento ilegal (fl. 6).
+Alega ausência de fundamentação concreta e idônea para o decreto de prisão preventiva. Ressalta a suficiência das medidas cautelares alternativas.
+Requer, inclusive em liminar, a revogação da prisão preventiva.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Inicialmente, quanto aos motivos da custódia, o impetrante não se desincumbiu do ônus de instruir adequadamente o habeas corpus com a cópia do decreto de prisão preventiva originário, peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução à parte impetrante, em especial, quando se tratar de advogado.
+Nesse sentido: AgRg no RHC n. 216.241/SP, Ministro Ribeiro Dantas, Quinta Turma, DJEN 4/7/2025; AgRg no HC n. 970.516/BA, Ministro Og Fernandes, Sexta Turma, DJEN 12/3/2025; e RCD no HC n. 954.142/PR, Ministro Og Fernandes, Sexta Turma, DJEN 2/12/2024.
+No toc ante ao excesso de prazo para a formação da culpa, o Tribunal de origem entendeu não haver desídia do Poder Judiciário, fundamentando nos seguintes termos (fls. 14/15 - grifo nosso):
+ ..
+A custódia cautelar foi revista em 20/01/2025, 21/02/2025, 01/04/2025 e, ao prestar informações, em 12/09/2025, a autoridade apontada como coatora reafirmou a necessidade da prisão preventiva para a garantia da ordem pública, destacando que o paciente foi condenado em diversas ações penais, além de ter respondido a 06 processos de apuração de atos infracionais.
+Ao acessar o sistema PJE, verifico que a acusação já apresentou as alegações finais, estando o feito aguardando juntada da peça defensiva para a prolação da sentença.
+Fica evidente que o processo segue seu curso normal, com a fase de instrução já concluída, aguardando apenas a apresentação das alegações finais pela defesa, o que afasta a tese defensiva de excesso de prazo.
+Assim, o risco de reiteração delitiva, conforme informações contidas no ato coator, autoriza a manu tenção do cárcere preventivo para a garantia da ordem pública, sendo, neste caso, descabida a substituição por cautelares diversas.
+ ..
+No caso, conforme se verifica dos autos e do andamento processual, vê-se que o alongamento da instrução se deve à complexidade do feito a que responde o paciente, que teve a prisão preventiva decretada em 11/11/2024 (fl. 14), a denúncia foi oferecida em 30/10/2024 (fls. 19 /20) , houve designação de audiência de continuação da instrução para o dia 5/5/2025 (fl. 22), tendo sido a custódia revisada em 20/1/2025, 21/2/2025, 1/4/2025  ..  e em 12/09/2025 (fl. 14).
+Atualmente, aguarda-se a apresentação de alegações finais, estando a ação penal próxima do fim. Assim, não há qualquer indicativo de ofensa à razoabilidade ou desídia do magistrado em impulsionar o processo.
+Nesse  sentido,  confira-se  a  jurisprudência  deste  Superior  Tribunal  em  casos  semelhantes:  RHC  n.  209.744/SC,  de  minha  relatoria,  Sexta  Turma,  julgado  em  19/3/2025,  DJEN  de  27/3/2025;  e  AgRg  no  HC  n.  979.894/CE,  relator  Ministro  Carlos  Cini  Marchionatti  (Desembargador  Convocado  TJRS),  Quinta  Turma,  julgado  em  21/5/2025,  DJEN  de  26/5/2025.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. FALTA DO DECRETO DE PRISÃO PREVENTIVA. DOCUMENTO ESSENCIAL À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À PARTE IMPETRANTE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. INEVIDÊNCIA DE ILEGALIDADE.
+Inicial indeferida liminarmente.
