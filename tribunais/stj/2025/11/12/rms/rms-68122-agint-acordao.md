@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DEMOLIÇÃO EM ÁREA PÚBLICA. ART. 133, § 4º, DA LEI DISTRITAL N. 6.138/2008. VIA MANDAMENTAL E EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal de origem denegou a segurança ao fundamento de que o imóvel situa-se em área pública, com base em matrícula e mapas fundiários do Incra , concluindo que, "diferente do alegado pelos impetrantes, o imóvel encontra-se localizado em área pública" (fl. 257); e que, em área pública, a demolição imediata é autorizada pelo art. 133, § 4º, da Lei Distrital n. 6.138/2008.
+2. O mandado de segurança exige demonstração, de plano, de direito líquido e certo, por prova pré-constituída, sendo inviável dilação probatória.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MIRANDA ALMEIDA SENA e OUTRO contra a decisão de fls. 342-345 da lavra da Ministra Assusete Magalhães, em que negou provimento ao recurso ordinário em mandado de segurança.
+Sustenta a parte agravante que existem "provas documentais cabais, suficientes e inquestionáveis quanto à área ser particular (existência de registro junto ao 3º Ofício de Imóveis, somado a provas que demonstram a posse direta dos impetrantes (demonstrada tanto pela cadeia dominial quanto por fotografias da moradia dos agravantes)" (fl. 357). Aduz que "o direito que se defende nos autos é o direito ao devido processo legal, ou seja, que a administração instaure procedimento administro amplo para que o impetrante possa comprovar, na instância administrativa ordinária, que sua casa se situa em área de posse da Magna Móveis, área essa reconhecida pela União como fronteiriça com as terras da União" (ibidem).
+Impugnação às fls. 372-379.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DEMOLIÇÃO EM ÁREA PÚBLICA. ART. 133, § 4º, DA LEI DISTRITAL N. 6.138/2008. VIA MANDAMENTAL E EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, o Tribunal de origem denegou a segurança ao fundamento de que o imóvel situa-se em área pública, com base em matrícula e mapas fundiários do Incra , concluindo que, "diferente do alegado pelos impetrantes, o imóvel encontra-se localizado em área pública" (fl. 257); e que, em área pública, a demolição imediata é autorizada pelo art. 133, § 4º, da Lei Distrital n. 6.138/2008.
+2. O mandado de segurança exige demonstração, de plano, de direito líquido e certo, por prova pré-constituída, sendo inviável dilação probatória.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Na espécie, o Tribunal de origem denegou a segurança à base da seguinte motivação (fls. 256-262):
+Os impetrantes pleiteiam a concessão de segurança para que a autoridade coatora se abstenha de praticar atos demolitórios no imóvel que ergueram na Rua 1, Lote 29, Condomínio JK Ville, Unidade 1, Chácara Magna, e que instaure procedimento administrativo, no qual sejam assegurados a ampla defesa e o contraditório antes da prática de qualquer ato demolitório. Sustentam, em síntese, que a construção foi realizada em área privada, e que a lei exige instauração de procedimento administrativo prévio à demolição, no qual assegurada a observância do devido processo legal, do contraditório e da ampla defesa.
+Da análise das provas produzidas nos autos, verifica-se que os direitos incidentes sobre lote de terreno objeto da lide foram adquiridos por meio de Contrato Particular de Promessa de Compra e Venda de Imóvel, Direitos, Vantagens, Obrigações e Demais Responsabilidades, celebrado em 10/08/2020, tendo por outorgante cedente Pedro Araújo Júnior e como cessionária Karina Souza Dettmann (id. 27913282); e a petição inicial do presente mandado de segurança foi protocolada em 05/08/2021.
+A matrícula do imóvel nº 333857, do 3º Ofício de Registro de Imóveis do Distrito Federal (id. 27913275) demonstra que sobre ele existem diversos mandados judiciais anotando a existência de ações envolvendo a União Federal. Inicialmente, uma ação desapropriação proposta pela União (processo n. 0112006- 82.1968.4.03.6100), e uma ação rescisória dessa desapropriação 0030374-57.2012.4.03.0000, ambas em trâmite perante a Justiça Federal de São Paulo; há também uma ação de usucapião extraordinário proposta pela primeira cedente da cadeira sucessória contra a União Federal (processo n. 2004.34.00.041305-3) e, por fim, uma ação demarcatória (processo n. 0002334-70.2013.4.01.3400). Essas ações demonstram a existência de propriedade da União Federal sobre a área.
+Além disso, os Mapas de situação fundiária, de regularização rural do Incra, ambos emitidos pelo Terrageo II (id. 2867606, 286766607, 28689340) atestam que a área onde localizado o imóvel é parcialmente de propriedade da União, parcialmente encontra-se em processo de doação para União e, parcialmente de propriedade da Terracap, in verbis:
+ ..  Quanto à situação fundiária, de acordo com o Sistema TERRAGEO, parte da área está inserida em Imóvel de propriedade da União, parte em, Imóvel em processo de doação a União/GDF, ambas na Fazenda Brejo ou Torto, e outra parte incide em Imóvel incorporado ao patrimônio da Terracap.  ..
+Portanto, diferente do alegado pelos impetrantes, o imóvel encontra-se localizado em área pública.
+Uma vez localizada em área pública, o art. 133, §4º, da Lei 6.138/08 permite a demolição imediata da construção:
+Art. 133. A intimação demolitória é imposta quando se trate de obra ou edificação não passível de regularização.
+ ..
+§ 4º Em obras iniciais ou em desenvolvimento em área pública, cabe ação de demolição imediata pelo órgão de fiscalização de atividades urbanas. (g.n.)
+Trata-se do exercício regular do Poder de Polícia que independe de prévia instauração de procedimento administrativo diante de sua característica de autoexecutoriedade. Nesse sentido, os seguintes acórdãos deste e. TJDFT em julgamento de demanda que envolve imóveis na mesma área da objeto do presente mandado de segurança:
+ ..
+Importante ressaltar que o direito social de moradia, art. 6º da CF, não é fundamento suficiente para tutelar a ocupação informal de terrenos públicos, uma vez que é obrigatória a observância da ordem urbanística e ambiental, arts. 182 e 225 da CF.
+Não há ilegalidade ou irregularidade na atuação da Administração Pública porque a construção foi erigida em área pública, é irregular, sem licenciamento e não observa o plano diretor estabelecido para a área. A manutenção de construções nesses termos apenas fomenta a atuação de grileiros, a criação de condomínios irregulares, e o crescimento desordenado da cidade.
+Pois bem. Como ressaltado na decisão ora agravada, o cabimento da via mandamental exige a demonstração, de plano, do direito líquido e certo, consubstanciado naquele cuja existência e delimitação são passíveis de demonstração documental, devendo o impetrante demonstrar, desde logo, no que consiste a ilegalidade ou a abusividade que pretende ver expungida, e comprovar os fatos ali suscitados, de modo que seja despicienda qualquer dilação probatória.
+Com efeito, "o mandado de segurança detém entre seus requisitos a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para a dilação probatória na célere via do mandamus.  ..  Se no momento da impetração, como destacado pelo próprio Tribunal de origem, não havia arcabouço probatório pré-constituído, não se verifica ilegalidade apta a justificar o reconhecimento de direito líquido e certo a amparar a pretensão da postulante" (RMS n. 54.709/SC, relator Ministro Herman Benjamin, DJe 17/10/2017).
+No presente caso, conforme assentado no acórdão, "diferente do alegado pelos impetrantes, o imóvel encontra-se localizado em área pública" (fl. 257), sendo incabível dilação probatória na via estreita do writ.
+No que concerne à imediata demolição da construção, a medida encontra-se amparada pelo art. 133, § 4º, da Lei Distrital n. 6.138/08, do seguinte teor:
+Art. 133. A intimação demolitória é imposta quando se trate de obra ou edificação não passível de regularização.
+ ..
+§ 4º Em obras iniciais ou em desenvolvimento em área pública, cabe ação de demolição imediata pelo órgão de fiscalização de atividades urbanas.
+Ademais, como ressaltado pelo Parquet, "as fotos disponíveis nos autos (fls. 62-67), juntada pelos recorrentes, demonstram que se trata de imóvel com obra em desenvolvimento (parede sem revestimento, piso em chão batido, teto sem acabamento), não afastando a possibilidade legal de demolição imediata, ainda que habitada pelos recorrentes" (fl. 332).
+Nesse contexto, ausente a demonstração de direito líquido e certo.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
