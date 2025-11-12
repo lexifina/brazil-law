@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo regimental interposto por RAFAEL PERETTI GUIMARAES contra a decisão, por mim proferida, na qual dei parcial provimento ao recurso em habeas corpus, determinando a expedição de salvo-conduto apenas à recorrente Bruna Pelogia Peretti Guimaraes, conforme esta ementa (fl. 632):
+PENAL. RECURSO EM HABEAS CORPUS. CULTIVO ARTESANAL DE CANNABIS SATIVA PARA FINS MEDICINAIS. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA, FRAGMENTARIEDADE E SUBSIDIARIEDADE. AUSÊNCIA DE OFENSA AO BEM JURÍDICO TUTELADO. EXISTÊNCIA DE DOCUMENTAÇÃO QUE COMPROVE A NECESSIDADE DO TRATAMENTO MEDICINAL. OMISSÃO REGULAMENTAR. DIREITO À SAÚDE. EXPEDIÇÃO DE SALVO-CONDUTO QUE SE IMPÕE.
+Recurso parcialmente provido, nos termos do dispositivo.
+Neste recurso, a defesa apresenta a autorização da ANVISA do agravante para a exportação de Cannabis medicinal e certificado de curso de cultivo.
+Ao final, pleiteia a reconsideração da decisão ou o provimento do agravo pela Sexta Turma, para conceder ao agravante o salvo-con duto para semear, cultivar e colher cannabis para uso exclusivamente medicinal, com autorização para impedir apreensão, investigação ou prisão relacionadas ao cultivo e ao uso médico
+Dispensou-se a oitiva da parte contrária.
+É o relatório.
+Razão assiste ao agravante, impondo-se a reconsideração da decisão.
+Foi dado parcial provimento ao recurso em habeas corpus para determinar a expedição de salvo-conduto apenas à recorrente Bruna Pelogia Peretti Guimaraes, porque a documentação do ora agravante estava incompleta.
+Todavia, o agravante apresentou a documentação faltante - autorização da ANVISA, válida até 31/10/2027 (fls. 643/644), e certificado de conclusão de curso de cultivo de Cannabis (fl. 646) -, constando também dos autos a prescrição médica (fl. 50) e o laudo técnico agronômico (fls. 73/77), o que justifica o provimento do recurso.
+A propósito:
+ ..
+1. "Ambas as Turmas que integram a Terceira Seção desta Corte Superior pacificaram entendimento quanto à ausência de tipicidade material na conduta de cultivar cannabis sativa tão somente para fins medicinais, desde que nitidamente comprovada a imprescindibilidade do tratamento médico mediante relatórios e prescrições firmados por profissionais competentes. Assim, observadas essas premissas, mister se faz a concessão de salvo-conduto a fim de que pessoas que buscam efetivar o direito à saúde não sejam indevidamente responsabilizadas criminalmente" (AgRg no RHC n. 163.180/RN, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024).
+2. Hipótese na qual foi devidamente demonstrada a necessidade do uso medicinal da substância pelo agravado. Conforme receituário de controle especial, ele faz uso contínuo de óleo de cannabis. O relatório médico, por sua vez, relata que o agravado sofre de dores na coluna lombar há vários anos, com parestesia e irradiação das dores para os membros inferiores, tendo sido diagnosticada hérnia de disco. Consta ainda que os medicamentos utilizados para dor, após melhora parcial, provocaram em efeitos colaterais, os quais não foram observados com uso do óleo de cannabis. Desse modo, conclui pelo resultado satisfatório com o tratamento. Outrossim, consta autorização expedida pela ANVISA para permitir ao agravado a "importação excepcional de produto derivado de Cannabis". O laudo de engenheiro agrônomo atesta a quantidade de plantas necessárias para a produção requerida. Comprovada, portanto, sua necessidade de uso da substância para fins terapêuticos, na forma como requerida.
+ ..
+(AgRg no HC n. 916.389/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2024 - grifo nosso).
+Ante o exposto, reconsidero a decisão de fls. 632/637 e dou provimento ao recurso em habeas corpus para determinar a expedição de salvo-conduto ao recorrente Rafael Peretti Guimaraes, autorizando a importação de até 232 sementes e o cultivo de até 116 plantas de Cannabis sativa por ano, para uso próprio e exclusivo, enquanto perdurar o tratamento, nos termos da prescrição médica, vedando-se a adoção de qualquer medida de natureza penal, devendo manter atualizadas as prescrições médicas e autorizações administrativas necessárias junto à Agência Nacional de Vigilância Sanitária - ANVISA.
+Comunique-se, com urgência, ao Juízo competente.
+Publique-se.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CULTIVO ARTESANAL DE CANNABIS SATIVA PARA FINS MEDICINAIS. PRINCÍPIOS DA INTERVENÇÃO MÍNIMA, FRAGMENTARIEDADE E SUBSIDIARIEDADE. AUSÊNCIA DE OFENSA AO BEM JURÍDICO TUTELADO. EXISTÊNCIA DE DOCUMENTAÇÃO QUE COMPROVE A NECESSIDADE DO TRATAMENTO MEDICINAL. OMISSÃO REGULAMENTAR. DIREITO À SAÚDE. EXPEDIÇÃO DE SALVO-CONDUTO QUE SE IMPÕE.
+Decisão reconsiderada. Recurso provido.
