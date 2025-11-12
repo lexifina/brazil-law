@@ -1,0 +1,101 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. EXPRESSIVA QUANTIDADE DE DROGA. GRAVIDADE DA CONDUTA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de nulidade da prisão em flagrante por violação de domicílio não foi apreciada pelo Tribunal de Justiça. Desse modo, inviável a análise da matéria por esta Corte Superior, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito, estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+3. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, aproximadamente 7t (sete toneladas) de maconha -, o que esta Corte tem admitido como fundamentação idônea para a decretação da prisão preventiva em razão da gravidade concreta da conduta. Precedentes.
+4. Cumpre salientar que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa na situação descrita nos autos.
+5. Considerando a fundamentação acima expendida, indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+6. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por GUILHERME MORAIS DE SOUZA contra a decisão monocrática de e-STJ fls. 122/128, por meio da qual deneguei a ordem de habeas corpus.
+Consta dos autos que, em 3/7/2025, o agravante foi preso em flagrante, sobrevindo decisão que converteu a custódia em preventiva.
+Segundo o apurado, ele e os demais corréus estavam preparando o transporte de cerca de 7,500t (sete toneladas e quinhentos quilos) de maconha, que seriam levadas a outro Estado da Federação, escamoteadas em carga de milho.
+Na inicial do remédio constitucional, sustentou a defesa a nulidade da prisão em flagrante por violação de domicílio, afirmando que o ingresso policial em galpão privado ocorreu sem mandado judicial e sem fundadas razões, tornando ilícitas as provas obtidas, bem como as delas derivadas.
+Afirmou que o decreto preventivo careceria de fundamentação idônea, por estar lastreado na gravidade abstrata do delito e na quantidade de droga apreendida, sem individualização de conduta, sem demonstração de contemporaneidade e sem apontar risco concreto à ordem pública, à instrução criminal ou à aplicação da lei penal, em afronta ao art. 312 do CPP.
+Salientou a ausência de vínculo do agravante com organização criminosa, destacando tratar-se de mero transportador, primário, com residência fixa e profissão lícita, inexistindo elementos concretos de estabilidade e permanência exigidos para associação (art. 35 da Lei n. 11.343/2006).
+Ressaltou a suficiência de medidas cautelares alternativas.
+Requereu, liminarmente, a suspensão dos efeitos da prisão preventiva e a expedição de alvará de soltura; e, no mérito, pugnou pela concessão da ordem para que a prisão preventiva fosse revogada.
+Nesta oportunidade, a defesa reitera os pedidos deduzidos na inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. VIOLAÇÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. EXPRESSIVA QUANTIDADE DE DROGA. GRAVIDADE DA CONDUTA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegação de nulidade da prisão em flagrante por violação de domicílio não foi apreciada pelo Tribunal de Justiça. Desse modo, inviável a análise da matéria por esta Corte Superior, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito, estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+3. No caso, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, aproximadamente 7t (sete toneladas) de maconha -, o que esta Corte tem admitido como fundamentação idônea para a decretação da prisão preventiva em razão da gravidade concreta da conduta. Precedentes.
+4. Cumpre salientar que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa na situação descrita nos autos.
+5. Considerando a fundamentação acima expendida, indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+6. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não obstante os argumentos defensivos, tenho que o recurso de agravo regimental não merece prosperar.
+Consoante assinalei na decisão monocrática combatida, a alegação de nulidade da prisão em flagrante por violação de domicílio não foi apreciada pelo Tribunal de Justiça. Desse modo, inviável a análise da matéria por esta Casa, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+Relembrei, a propósito, o ensinamento de Renato Brasileiro que, ao apreciar o tema, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..
+(HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, relator Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/8/2016.)
+Prossegui para analisar o pedido de revogação da medida excepcional.
+Há sempre de conter efetiva e concreta fundamentação o ato judicial que decreta a prisão, tais as disposições do nosso ordenamento jurídico.
+Com efeito, antes do trânsito em julgado da condenação, a prisão somente é cabível quando demonstrado o periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Ora, considerando-se que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente, bem como que a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, art. 5º, inciso LXI, e art. 93, inciso IX, respectivamente), há de se exigir que o decreto de prisão preventiva venha sempre concretamente motivado, não fundado em meras conjecturas.
+A propósito do tema, a jurisprudência desta Casa, embora ainda um pouco oscilante, optou pelo entendimento de que o risco à ordem pública se constataria, em regra, pela reiteração delituosa ou pela gravidade concreta do fato.
+Nesse tear, parece-me importante relembrar que "o juízo sobre a gravidade genérica dos delitos imputados ao réu, a existência de indícios de autoria e materialidade do crime, a credibilidade do Poder Judiciário, bem como a intranquilidade social não constituem fundamentação idônea a autorizar a prisão para a garantia da ordem pública, se desvinculados de qualquer fato concreto, que não a própria conduta, em tese, delituosa" (HC n. 48.381/MG, relator Ministro Gilson Dipp, Quinta Turma, DJ 1º/8/2006, p. 470).
+Assim, demonstrada a gravidade concreta do crime praticado, revelada, na maioria das vezes, pelos meios de execução empregados, ou a contumácia delitiva do agente, a jurisprudência desta Casa autoriza a decretação ou a manutenção da segregação cautelar, dada a afronta às regras elementares de bom convívio social.
+Além disso, na apreciação das justificativas da custódia cautelar, "o mundo não pode ser colocado entre parênteses. O entendimento de que o fato criminoso em si não pode ser conhecido e valorado para a decretação ou a manutenção da prisão cautelar não é consentâneo com o próprio instituto da prisão preventiva, já que a imposição desta tem por pressuposto a presença de prova da materialidade do crime e de indícios de autoria. Assim, se as circunstâncias concretas da prática do crime indicam periculosidade, está justificada a decretação ou a manutenção da prisão para resguardar a ordem pública" (STF, HC n. 105.585/SP, relatora Ministra Rosa Weber, Primeira Turma, julgado em 7/8/2012, DJe de 21/8/2012).
+À vista desse raciocínio e dos vetores interpretativos estabelecidos, passei à análise da legalidade da medida excepcional.
+A prisão preventiva foi decretada nos termos seguintes (e-STJ fls. 110/114):
+Passo à análise de eventual concessão de liberdade provisória em favor do custodiado, eis que "ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança" (art. 5º, inciso LXVI, da CF/88).
+O art. 310, I, II e III do CPP estabelece que o juiz, ao receber o auto de prisão em flagrante, antes do início da ação penal, portanto, poderá relaxar a prisão, convertê-la em preventiva, quando presentes os requisitos da prisão e insuficientes outras medidas cautelares, ou conceder liberdade provisória. A prisão cautelar só será mantida quando for demonstrada, objetivamente, a indispensabilidade da segregação do investigado. Para tanto, além da prova da materialidade do crime e indícios de autoria (fumus comissi delicti), deve coexistir um dos fundamentos que autorizam a decretação (periculum libertatis): para garantir a ordem pública ou econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No tocante ao periculum libertatis, na hipótese, afigura-se necessária a manutenção da prisão cautelar para garantia da ordem pública e aplicação da lei penal.
+Com efeito, os custodiados estavam preparando o transporte de cerca de 7.500 kg, isto é, 7,5 TONELADAS DE MACONHA, que seriam levadas a outro Estado da Federação escamoteadas em carga de milho. Além disso, as demais circunstâncias do delito, como a fuga de dois comparsas e a preparação de veículo com indícios de adulteração em barracão situado em local ermo da região de fronteira, indicam possível vinculação com organização criminosa. Assim, a gravidade em concreto da conduta justifica o encarceramento para salvaguarda da ordem pública.
+Nesse sentido:
+ ..
+Além disso, a segregação cautelar é necessária para assegurar a aplicação da lei penal, haja vista que CESAR é paraguaio e GUILHERME é oriundo do Estado de São Paulo, evidenciando o risco de fuga.
+Portanto, diante de todo o exposto, não restam dúvidas de que a restrição da liberdade, como requerida pelo Parquet Federal, é necessária para a garantia da ordem pública e para assegurar a aplicação da lei penal.
+Ademais, não vislumbro outra medida cautelar diversa da prisão suficiente para impedir a reiteração de condutas criminosas e resguardar a ordem pública e a aplicação da lei penal. Nesse ponto, quanto à impossibilidade de aplicação das medidas cautelares do art. 319 do CPP, entende-se que com o advento da Lei 12.403/2011, a liberdade provisória deixa de funcionar apenas como medida de contracautela substitutiva da prisão em flagrante e passa a ser compreendida como providência cautelar autônoma.
+No caso em epígrafe, não se torna possível a decretação das medidas cautelares diferentes da prisão, nem mesmo a imposição de fiança e/ou monitoração eletrônica, uma vez que a preventiva é a única medida capaz de afastar eventual risco provocado pela liberdade do custodiado.
+De fato, resta evidente que a tornozeleira eletrônica tem função outra, mormente a de ser utilizada para egressos do sistema prisional, quando colocados em liberdade, bem como para se evitar risco de fuga mediante a rastreabilidade do preso. Não funciona, no mais das vezes, como impeditiva de reiteração delitiva.
+Assim, observando-se o binômio, proporcionalidade e adequação, nenhuma das medidas cautelares arroladas no art. 319 do CPP seriam suficientes para resguardar a ordem pública e a aplicação da lei penal.
+Conforme visto acima, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, aproximadamente 7t (sete toneladas) de maconha -, o que esta Corte Superior tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+No mais, frisei que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstraram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Assim, não vislumbrei o alegado constrangimento ilegal apto a ensejar a concessão da ordem, entendimento que mantenho nesta oportunidade.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
