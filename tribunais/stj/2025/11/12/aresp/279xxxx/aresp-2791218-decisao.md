@@ -1,0 +1,28 @@
+DECISÃO
+O recurso, contudo, não merece prosperar.
+As instâncias ordinárias, após detida análise dos fatos e das provas constantes dos autos, concluíram que a parte autora, ora agravante, não logrou comprovar os requisitos indispensáveis à tutela de reintegração de posse, notadamente a sua posse anterior sobre a integralidade da área litigiosa e a ocorrência do esbulho.
+O acórdão recorrido, ao manter a sentença de improcedência, baseou-se nos seguintes fundamentos (fls. 685-694):
+No curso da demanda, afirmara a recorrente que a Fazenda é dedicada, atualmente, à pecuária e, ao redor da casa ocupada pelos apelados, a apelante criaria rebanho bovino, seja diretamente, seja através de terceiros arrendatários do pasto, de modo que a invasão dos 8 hectares constatada pelo expert do juízo evidenciaria o alegado esbulho.
+Contudo, como concluíra o julgador, não fora demostrado o exercício de posse pela recorrente, inexistindo provas sobre a criação direta ou mesmo por arrendatários na localidade, não se prestando para tais fins, a apresentação de queixa crime oferecida pela recorrente e parcos pagamentos de ITR.
+Por todo o exposto, não prospera a pretensão recursal da parte autora, porquanto não evidenciado o esbulho aventado, existindo, em verdade, indícios de que a contraparte exerce a posse mansa e pacífica da totalidade da área desde, pelo menos, 2010, data da rescisão do contrato de trabalho do genitor dos apelados.
+Com efeito, para se chegar a uma conclusão diversa da que chegou o Tribunal de origem  de que não foi demonstrada a posse anterior da agravante nem o esbulho supostamente praticado pelos agravados  , seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido, a jurisprudência desta Corte é pacífica ao afirmar que a análise dos requisitos para a concessão da proteção possessória implica, necessariamente, o revolvimento de fatos e provas, o que não é cabível na via especial. Confiram-se os seguintes julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESBULHO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE ANTERIOR. PEDIDO DE NOVA PERÍCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. O julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Alterar a conclusão do acórdão do tribunal a quo acerca da análise das provas e da necessidade de nova perícia demanda reexame do acervo fático probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.099.855/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. COISA JULGADA. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. ÔNUS DA PROVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARBITRAMENTO DE ALUGUEL. OCUPAÇÃO EXCLUSIVA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático probatório dos autos (Súmula n. 7 do STJ).
+
+5. Ainda consoante posicionamento do STJ, "como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pela civilística processual, proceder à exegese necessária à formação do livre convencimento motivado. A questão probatória do ônus do autor ou do réu é inviável de ser analisada por esta Corte Superior, em virtude do óbice da Súmula n. 7 do STJ" (AgInt no REsp n. 1.803.362/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/8/2019, DJe de 13/8/2019).
+
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.083.107/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023.)
+Ademais, ainda que fosse possível superar o óbice da Súmula 7/STJ, o recurso não lograria êxito. A alegação de cerceamento de defesa não se sustenta, uma vez que as instâncias ordinárias apreciaram o conjunto probatório, inclusive o laudo pericial, e formaram seu convencimento. O inconformismo da parte com a valoração da prova e o resultado do julgamento não configura cerceamento de defesa. O Tribunal de origem, soberano na análise das provas, entendeu que os elementos dos autos não eram suficientes para demonstrar a posse anterior da agravante sobre a área total reclamada nem o esbulho, não havendo ilegalidade manifesta em tal conclusão que justifique a intervenção desta Corte.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2o e 3o do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
