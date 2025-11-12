@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por BL INDÚSTRIA E COMÉRCIO DE MÁQUINAS E FORNOS LTDA. contra decisão proferida pelo Tribunal Regional Federal da 3ª Região que inadmitiu o recurso especial, em virtude da ocorrência de deserção (e-STJ, fls. 474-478).
+Nas razões do agravo em recurso especial, a agravante alega que não há falar em deserção do recurso especial, uma vez que o preparo recursal foi efetivamente pago em valor integral e dentro do prazo legal.
+Afirma, ainda, que "ocorreu erro escusável na juntada dos documentos, discrepância que não significa falta de pagamento, mas deficiência formal sanável" (e-STJ, fl. 486).
+Contraminuta apresentada (e-STJ, fl. 505).
+Brevemente relatado, decido.
+Conforme registrado na certidão de saneamento de óbices (e-STJ, fls. 435-436), percebeu-se haver irregularidade no recolhimento do preparo do apelo especial, uma vez que, apesar de o recurso ter sido instruído com a guia de recolhimento da União e o respectivo comprovante de pagamento, este não corresponde ao número do código de barras da GRU.
+A ora agravante foi intimada, com fundamento no art. 1.007, § 4º, do CPC/2015, para juntar, no prazo de 5 (cinco) dias, "o devido comprovante, com código de barras, correspondente à referida Guia de Recolhimento da União, 319037308 referente ao recurso especial interposto", bem como realizar novo pagamento das custas, para perfazer a quantia do preparo em dobro de R$ 518,16, conforme previsto no CPC/2015 (e-STJ, fl. 436).
+Contudo, a ora agravante, regularmente intimada para sanar referido vício, apresentou a Guia de Recolhimento de Custas da União (GRU) e o comprovante sob o código de barras correto, porém deixou de fazer o novo pagamento das custas, para perfazer a quantia do preparo em dobro, conforme certificado às 443-444 (e-STJ).
+Segundo o entendimento desta Corte Superior, "o art. 1.007, § 4º, do CPC/2015 abrange as hipóteses em que o recorrente (I) não recolheu o preparo; (II) recolheu, mas não comprovou no ato de interposição; e (III) recolheu e tentou comprovar no ato de interposição, mas o fez de forma equivocada. Em todas essas situações, o recorrente deverá ser intimado para realizar o recolhimento em dobro, sob pena de deserção. Nas duas últimas hipóteses, ou se comprova o preparo já pago e o recolhe mais uma vez, ou se recolhe o valor em dobro, se assim preferir o recorrente" (REsp n. 2.124.427/ES, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 17/5/2024 ).
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DE NÃO CONHECIMENTO. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. RECOLHIMENTO EM DOBRO. INEXISTÊNCIA. SÚMULA 187/STJ. DESERÇÃO. ART. 23-B DA LIA. INAPLICABILIDADE EM PROL DO RÉU. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial não foi instruído com a guia de custas e o comprovante do efetivo pagamento, nem mesmo houve a regularização do preparo após a intimação para o recolhimento em dobro, nos termos do § 4.º do art. 1.007 do Código de Processo Civil.
+2. Em atenção à proteção dos interesses ou direitos coletivos, a jurisprudência desta Corte Superior consolidou que apenas o autor possui a prerrogativa relativa ao art. 18 da Lei da Ação Civil Pública (n. 7.347/1985), mesmo entendimento adotado para o art. 23-B da Lei de Improbidade Administrativa (n. 8.429/1992). Precedentes.
+3. Considerando que não se estende ao réu da demanda o benefício de não adiantar custas, preparo, emolumentos, honorários periciais e quaisquer outras despesas, inafastável o reconhecimento da deserção na espécie. Súmula 187/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.617.321/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 4/12/2024, DJEN de 10/12/2024.)
+Na espécie, constata-se a deserção do recurso especial, pois a ora agravante, mesmo após a intimação para regularizar o preparo, não o fez devidamente, sendo de rigor a aplicação da Súmula n. 187/STJ.
+Ante o exposto, conheço do agr avo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. NOVO PAGAMENTO DAS CUSTAS. INEXISTÊNCIA. DESERÇÃO DO RECURSO ESPECIAL . AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
