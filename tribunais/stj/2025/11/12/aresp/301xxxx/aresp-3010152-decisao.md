@@ -1,0 +1,53 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+DIREITO PENAL. APELAÇÃO. FURTO QUALIFICADO. AFASTAMENTO DA QUALIFICADORA. RECONHECIMENTO DO FURTO PRIVILEGIADO. ARREPENDIMENTO POSTERIOR. RECURSO DESPROVIDO.
+1. Apelante condenado à pena de 2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, como incurso no art. 155, § 4º, I, CP, por ter subtraído para si, bens móveis pertencentes à vítima C. G. de C.. Substituída a pena corporal por duas restritivas de direitos.
+2. Recurso defensivo: (i) afastamento da qualificadora, (ii) reconhecimento do furto privilegiado, (iii) reconhecimento do arrependimento posterior.
+3. A materialidade e a autoria foram suficientemente comprovadas pelo conjunto fático-probatório.
+4. Laudo pericial atestou a ocorrência de danos, comprovando o emprego de rompimento de obstáculo. Mantida a qualificadora.
+5. Inviabilidade de reconhecimento do privilégio em razão do valor dos bens subtraídos.
+6. Impossível o reconhecimento do arrependimento posterior quando não houver voluntariedade no ato de restituição ou comprovação de ter sido o bem subtraído.
+7. Recurso desprovido. (e-STJ fl. 178)
+A defesa aponta a violação dos arts. 16 e 155, §§ 2º e 4º, todos do CP. Sustenta as seguintes teses: i) desclassificação da conduta para furto simples considerando a ausência de provas do rompimento de obstáculo; ii) presença do requisitos para o reconhecimento do furto privilegiado e; iii) os bens forma restituídos à vítima, configurando o arrependimento posterior.
+Contrarrazões às e-STJ fls. 208/214.
+Manifestação do Ministério Público Federal às e-STJ fls. 258/261.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 2 anos de reclusão, em regime inicial aberto, pela prática do crime do art. 155, § 4º, I do CP.
+As tese defensiva relacionada à desclassificação da conduta não prescinde do revolvimento fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7 do STJ. Nessa linha:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO PELO CONCURSO DE PESSOAS. PALAVRA DA VÍTIMA. VALIDADE COMO PROVA. DESCLASSIFICAÇÃO PARA FURTO SIMPLES. REEXAME DA PROVA. INVIABILIDADE. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. APLICAÇÃO DA SÚMULA 231 DO STJ. RECURSO DESPROVIDO. I. CASO EM EXAME
+Agravo interposto contra decisão que inadmitiu recurso especial manejado por réu condenado à pena de 6 anos e 4 meses de reclusão, em regime inicial semiaberto, pela prática dos crimes de roubo majorado pelo concurso de pessoas (art. 157, §2.º, II, do Código Penal) e furto simples (art. 155, caput, do Código Penal). O agravante busca a desclassificação do roubo para furto simples, a exclusão da majorante de concurso de agentes e a redução da pena abaixo do mínimo legal em razão da aplicação da Súmula 231/STJ. II. QUESTÃO EM DISCUSSÃO
+Há três questões em discussão: (i) definir se é cabível a desclassificação do crime de roubo majorado (art. 157, §2.º, II, do CP) para furto simples (art. 155, caput, do CP); (ii) apurar se é possível afastar a causa de aumento de pena pelo concurso de pessoas; e (iii) determinar se é admissível a redução da pena abaixo do mínimo legal em razão da aplicação de atenuantes. III. RAZÕES DE DECIDIR
+As instâncias ordinárias reconheceram a configuração do crime de roubo majorado com base em provas válidas, incluindo o depoimento da vítima, que demonstra o emprego de violência física e a atuação conjunta com outro indivíduo.
+A palavra da vítima, especialmente em crimes patrimoniais, possui elevada força probatória, conforme entendimento pacífico do Superior Tribunal de Justiça (STJ), sendo apta a fundamentar a condenação quando coerente e alinhada com o conjunto probatório.
+A desclassificação do crime para furto simples ou o afastamento da majorante do concurso de pessoas demandaria reexame do conjunto fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Quanto à redução da pena abaixo do mínimo legal, a jurisprudência do STJ é firme no sentido de que a Súmula 231 veda essa possibilidade, ainda que estejam presentes atenuantes, na segunda fase da dosimetria. IV. DISPOSITIVO E TESE
+Agravo conhecido e recurso especial desprovido. (AREsp n. 2.556.933/DF, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025.)
+Quanto ao arrependimento posterior, consta do acórdão que "não houve voluntariedade na restituição dos bens apreendidos." (e-STJ fl. 182)
+Esta Corte possui entendimento firmado no sentido de que a ausência de reparação total do dano e de voluntariedade na devolução parcial do valor impede a aplicação da minorante do arrependimento posterior. Nessa linha:
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. ARREPENDIMENTO POSTERIOR. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus, sob o argumento de que não cabe habeas corpus substitutivo do recurso legalmente previsto, salvo em caso de flagrante ilegalidade.
+2. A parte agravante pleiteia a aplicação da causa de diminuição de pena do arrependimento posterior, alegando ter devolvido o bem furtado antes do recebimento da denúncia, além de requerer a fixação de regime prisional mais brando e a substituição da pena privativa de liberdade por restritiva de direitos.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a devolução do bem furtado, realizada após diligências policiais e sem voluntariedade, pode ser considerada para a aplicação da causa de diminuição de pena do arrependimento posterior prevista no art. 16 do Código Penal.
+4. Outra questão em discussão é a adequação do regime prisional fixado, considerando a reincidência e as circunstâncias judiciais desfavoráveis do agravante.
+III. Razões de decidir
+5. A devolução do bem furtado não foi voluntária, pois ocorreu após diligências policiais, o que impede a aplicação da causa de diminuição de pena do arrependimento posterior.
+6. A fixação do regime semiaberto é adequada, considerando a reincidência do agravante e as circunstâncias judiciais desfavoráveis, não havendo justificativa para regime mais brando.
+7. A substituição da pena privativa de liberdade por restritiva de direitos não é possível, devido à reincidência e às circunstâncias judiciais desfavoráveis, conforme previsto no art. 44 do Código Penal.
+IV. Dispositivo e tese
+8. Agravo improvido.
+Tese de julgamento: "1. A causa de diminuição de pena do arrependimento posterior exige voluntariedade na devolução do bem e ressarcimento total do dano. 2. A reincidência e circunstâncias judiciais desfavoráveis justificam a fixação de regime semiaberto e impedem a substituição da pena privativa de liberdade por restritiva de direitos."
+Dispositivos relevantes citados: Código Penal, art. 16; Código Penal, art. 33, §§ 2º e 3º; Código Penal, art. 44.Jurisprudência relevante citada: STJ, AgRg no AREsp 2.280.488/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 23/5/2023; STJ, AgRg no REsp n. 1.970.180/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/11/2023; STJ, REsp n. 1.961.290/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023; STJ, AgRg no HC 448.968/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 24/9/2018. (AgRg no HC n. 996.487/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/5/2025, DJEN de 4/6/2025.)
+Quanto mais, com razão a defesa, isso porque a jurisprudência do STJ permite o reconhecimento do furto privilegiado-qualificado quando presentes a primariedade do acusado, o pequeno valor da res furtiva e a qualificadora de natureza objetiva, conforme Súmula n. 511/STJ.
+No caso, foi reconhecida a primariedade do recorrente e o valor dos objetos subtraídos foram avaliados em R$1.015,00, inferior ao salário mínimo vigente à época, devendo ser reconhecido o privilégio. A propósito:
+DIREITO PENAL. HABEAS CORPUS. FURTO SIMPLES NA FORMA TENTADA. REDUÇÃO DA PENA NA SEGUNDA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. SÚMULA 231 DO STJ. RECONHECIMENTO DO FURTO PRIVILEGIADO. POSSIBILIDADE. PARECER FAVORÁVEL DO MPF. PENA REDIMENSIONADA. WRIT CONCEDIDO EM PARTE. I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de paciente condenada pelo crime de furto simples tentado (art. 155, caput, c.c. o art. 14, II, do Código Penal), a 4 meses de reclusão e 3 dias-multa, em regime inicial aberto, substituída por prestação pecuniária. Pretensão de redimensionamento da pena, com aplicação da atenuante da confissão espontânea para redução abaixo do mínimo legal, bem como reconhecimento do furto privilegiado com redução da pena em 2/3, alegando que o bem subtraído é de pequeno valor. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é possível reduzir a pena abaixo do mínimo legal em razão da atenuante da confissão espontânea, à luz da Súmula n. 231 do STJ; e (ii) estabelecer se o valor do bem subtraído (R$ 1.000,00) permite o reconhecimento do furto privilegiado, nos termos do art. 155, § 2º, do Código Penal. III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça, consolidada na Súmula n. 231, impede a redução da pena abaixo do mínimo legal com base em circunstâncias atenuantes, incluindo a confissão espontânea.
+4. O furto privilegiado, previsto no art. 155, § 2º, do Código Penal, aplica-se aos casos em que o réu é primário e o bem furtado é de pequeno valor. A jurisprudência desta Corte considera como pequeno valor aquele que não excede o salário mínimo vigente à época dos fatos.
+5. No caso concreto, embora o valor do bem furtado (R$ 1.000,00) se aproxime do salário mínimo vigente à época do ilícito (R$ 1.045,00), entende-se que atende ao requisito de pequeno valor, permitindo o reconhecimento do furto privilegiado na proporção de 1/3. IV. HABEAS CORPUS CONCEDIDO EM PARTE PARA REDIMENSIONAR A PENA FINAL DA PACIENTE PARA 2 MESES E 20 DIAS DE RECLUSÃO, MANTENDO-SE, NO MAIS, O ACÓRDÃO CONDENATÓRIO. (HC n. 848.504/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025.)
+Ante o exposto, com amparo no art. 932, inciso VII, do CPC, c/c o art. 253, parágrafo único, inciso II, "c", parte final, do RISTJ, conheço do agravo e dou parcial provimento ao recurso especial para reconhecer o privilégio do § 2º do art. 155 do CP, determinando o retorno dos autos à origem para a realização de nova dosimetria da pena.
+Intimem-se.
+EMENTA
