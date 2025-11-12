@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, conhecer do conflito, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. MOTORISTA CARRETEIRO. VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. LEI Nº 11.442/2007 JUSTIÇA COMUM. ADC Nº 48. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM, tendo como suscitado o Juízo da 2ª Vara do Trabalho de Manaus/AM.
+2. A controvérsia envolve reclamação trabalhista em que se busca o reconhecimento de vínculo empregatício entre motorista carreteiro e transportadora, além do pagamento de verbas rescisórias. O Juízo trabalhista declinou da competência para a Justiça Comum Estadual, com fundamento no precedente vinculante firmado pelo STF no julgamento da ADC nº 48.
+3. O suscitante argumenta que a inicial narra a existência de uma relação típica de emprego, com os requisitos da relação empregatícia, sendo a competência da Justiça do Trabalho. O suscitado sustenta que, conforme o precedente da ADC nº 48, cabe à Justiça Estadual a análise inicial da relação contratual.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar qual juízo é competente para analisar a relação contratual entre as partes, considerando os requisitos legais do contrato de transporte rodoviário de cargas regido pela Lei nº 11.442/2007 e a possibilidade de fraude na relação de trabalho.
+III. Razões de decidir
+5. A competência para análise inicial dos requisitos do contrato de transporte rodoviário de cargas regido pela Lei nº 11.442/2007 é da Justiça Comum Estadual, conforme entendimento do STF na ADC nº 48.
+6. A Justiça do Trabalho somente será competente para julgar a demanda caso seja constatada a ausência dos requisitos legais do contrato de transporte autônomo, configurando vínculo empregatício.
+7. No caso concreto, compete ao Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM realizar a análise inicial da relação contratual entre as partes.
+IV. Dispositivo
+8. Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM.
+RELATÓRIO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Cível e de acidentes do Trabalho de Manaus/AM, tendo por suscitado o Juízo da 2ª Vara do Trabalho de Manaus/AM.
+Narra o suscitante que foi ajuizada reclamação trabalhista perante a Justiça do Trabalho, pretendendo o reconhecimento do vínculo com a reclamada, bem como o pagamento de verbas rescisórias, tendo o juízo trabalhista declinado da competência para a Justiça Comum Estadual, com fundamento no precedente vinculante firmado pelo STF no julgamento da ADC n. 48.
+Entretanto, como a inicial narra a existência de uma relação típica de emprego, com a presença dos requisitos da relação, a competência para julgar a demanda seria da justiça especializa.
+Ademais, o precedente firmado pelo STF na ADC nº 48 não impede que a Justiça do Trabalho analise, no caso concreto, se a relação firmada entre as partes corresponde a um contrato de trabalho fraudado ou a um legítimo contrato comercial de transporte autônomo. (e-STJ fls. 96-97).
+O suscitado, a seu turno, sustenta que, em observância ao precedente vinculante firmado pelo STF no julgamento da ADC nº 48, compete a Justiça Estadual a análise inicial da relação contratual estabelecida entre as partes. (e-STJ fls. 94-95)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. MOTORISTA CARRETEIRO. VERIFICAÇÃO DE REQUISITOS DA CONTRATAÇÃO. LEI Nº 11.442/2007 JUSTIÇA COMUM. ADC Nº 48. CONFLITO CONHECIDO.
+I. Caso em exame
+1. Conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM, tendo como suscitado o Juízo da 2ª Vara do Trabalho de Manaus/AM.
+2. A controvérsia envolve reclamação trabalhista em que se busca o reconhecimento de vínculo empregatício entre motorista carreteiro e transportadora, além do pagamento de verbas rescisórias. O Juízo trabalhista declinou da competência para a Justiça Comum Estadual, com fundamento no precedente vinculante firmado pelo STF no julgamento da ADC nº 48.
+3. O suscitante argumenta que a inicial narra a existência de uma relação típica de emprego, com os requisitos da relação empregatícia, sendo a competência da Justiça do Trabalho. O suscitado sustenta que, conforme o precedente da ADC nº 48, cabe à Justiça Estadual a análise inicial da relação contratual.
+II. Questão em discussão
+4. A questão em discussão consiste em determinar qual juízo é competente para analisar a relação contratual entre as partes, considerando os requisitos legais do contrato de transporte rodoviário de cargas regido pela Lei nº 11.442/2007 e a possibilidade de fraude na relação de trabalho.
+III. Razões de decidir
+5. A competência para análise inicial dos requisitos do contrato de transporte rodoviário de cargas regido pela Lei nº 11.442/2007 é da Justiça Comum Estadual, conforme entendimento do STF na ADC nº 48.
+6. A Justiça do Trabalho somente será competente para julgar a demanda caso seja constatada a ausência dos requisitos legais do contrato de transporte autônomo, configurando vínculo empregatício.
+7. No caso concreto, compete ao Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM realizar a análise inicial da relação contratual entre as partes.
+IV. Dispositivo
+8. Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível e de Acidentes do Trabalho de Manaus/AM.
+VOTO
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Observa-se, no presente feito, a existência de conflito de competência instaurado entre juízos pertencentes a tribunais distintos, hipótese que atrai a competência desta corte para definição da autoridade responsável pelo exercício da jurisdição no caso concreto.
+A controvérsia em destaque diz respeito à fixação do Juízo competente para processamento e julgamento da reclamação trabalhista, em que se pretende o reconhecimento de vínculo empregatício de motorista carreteiro e transportadora, bem como o pagamento de verbas rescisórias. (e-STJ fls. 7-15).
+Consta dos documentos dos autos (e-STJ fls. 25), que a relação entre as partes, ao menos aparentemente, seria de prestação de serviço.
+Assim, a parte interessada requer o reconhecimento de vínculo trabalhista, em que pese tenha assinado declaração reconhecendo ser prestador de serviço da reclamada.
+Sobre o ponto, "O STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho" (CC n. 214.958, Ministra Maria Isabel Gallotti, DJEN de 04/09/2025.)
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA ESTADUAL COMUM. REQUISITOS DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NA DECISÃO EMBARGADA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. EMBARGOS REJEITADOS. I. CASO EM EXAME
+1. Embargos de declaração opostos com o objetivo de sanar supostos vícios de obscuridade, contradição ou omissão em acórdão que reconheceu a competência da Justiça do Trabalho para analisar pedido de reconhecimento de vínculo trabalhista, após a Justiça Comum verificar a ausência dos requisitos legais dispostos na Lei nº 11.442/2007. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se a decisão embargada apresenta vícios de omissão, contradição, obscuridade ou erro material, conforme previsto no art. 1.022 do CPC/2015, que justifiquem a oposição dos embargos de declaração. III. RAZÕES DE DECIDIR
+3. Os embargos de declaração destinam-se exclusivamente a sanar omissão, contradição, obscuridade ou corrigir erro material na decisão judicial, nos termos do art. 1.022 do CPC/2015.
+4. A decisão embargada examinou de forma fundamentada a controvérsia, concluindo pela inexistência de vínculo trabalhista nos moldes da Lei nº 11.442/2007 e pela competência da Justiça do Trabalho para apreciar o mérito do pedido, após análise inicial pela Justiça Comum.
+5. O entendimento do Supremo Tribunal Federal na ADC nº 48 estabelece que a constitucionalidade da Lei nº 11.442/2007 afasta a configuração de vínculo trabalhista quando preenchidos os requisitos legais, devendo a análise de tais requisitos iniciar-se na Justiça Comum.
+6. A decisão embargada não apresenta vício de obscuridade, omissão ou contradição, sendo evidente que o embargante busca rediscutir o mérito do julgado, o que é inviável na via estreita dos embargos de declaração.
+7. A pretensão do embargante configura intuito infringente, incompatível com os limites processuais deste recurso.
+IV. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(EDcl no AgInt no CC n. 186.135/SP, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Segunda Seção, julgado em 18/2/2025, DJEN de 21/2/2025.)
+"Segundo a iterativa jurisprudência desta Corte, a definição da competência em razão da matéria está adstrita à natureza jurídica da demanda, definida em função do pedido e da causa de pedir deduzidos em juízo.
+Na hipótese sob análise, os fundamentos de fato e de direito dizem respeito à suposta existência de relação de emprego, pois, apesar de haver a contratação sob o manto da Lei n. 11.442/2.007, a pretensão da inicial busca o reconhecimento do vínculo trabalhista entre os interessados.
+Sobre este tema, a jurisprudência do Supremo Tribunal Federal se firmou no sentido de que cabe à Justiça estadual definir se estão presentes os requisitos do transporte rodoviário de cargas, nos termos da Lei n. 11.442/2.007 (ADI n. 3.961, relator Ministro Roberto Barroso, Tribunal Pleno, julgado em 15/4/2020, DJe de 5/6/2020 e RCL n. 43.982/ES, relator Ministro Roberto Barroso, decisão monocrática, julgado em 25/2/2021, DJ de 2/3/2021).
+No mesmo sentido é a jurisprudência desta Corte. Vejamos:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - TRANSPORTE DE CARGAS - MOTORISTA - RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO - ADC N.º 48/DF - COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL - JURISPRUDÊNCIA CONSOLIDADA DA SEGUNDA SEÇÃO - DELIBERAÇÃO UNIPESSOAL QUE CONHECEU DO CONFLITO E DECLAROU A COMPETÊNCIA DO JUÍZO DE DIREITO DA 8.ª VARA CÍVEL DE SANTO ANDRÉ/SP - INSURGÊNCIA DO AGRAVANTE.
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea d, da Constituição Federal.
+2. No âmbito da ADC n.º 48/DF, na qual foi reconhecida a constitucionalidade da Lei n.º 11.447/2007, que por sua vez dispõe sobre transporte rodoviário de cargas por terceiros, mediante remuneração, a Corte Suprema tem decidido que a discussão a respeito da presença ou não dos requisitos legais para configuração da contratação nos termos da mencionada lei, deve se iniciar na Justiça Comum, e que, constatada a ausência dos mesmo, só então, a competência passa a ser da Justiça do Trabalho. Precedentes da Segunda Seção do STJ.
+3. Agravo interno desprovido. (AgInt no CC n. 191.676/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+Feitas essas considerações, cabe à Justiça Comum estadual o afastamento ou o reconhecimento dos requisitos do transporte rodoviário de cargas. Caso entenda não haver os requisitos necessários à constituição da relação civil, deve extinguir o feito de maneira fundamentada, cabendo posteriormente ao interessado o ajuizamento da ação na esfera trabalhista competente." (CC n. 216.026, Ministro João Otávio de Noronha, DJEN de 03/10/2025.)
+"Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse o caso dos autos, em que se busca fixar o juízo competente para processar a relação estabelecida por quem realizava atividade de transporte de carga.
+O "STF vem decidindo que a discussão sobre a presença dos pressupostos e requisitos legais inerentes à contratação sob a égide da Lei nº 11.442/2007 deve iniciar-se na Justiça Comum e constatado que não foram preenchidos os requisitos dispostos na lei supracitada, a competência passaria a ser da Justiça do Trabalho" (AgInt no CC n. 186.135/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/4/2023, DJe de 20/4/2023).
+A propósito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - TRANSPORTE DE CARGAS - MOTORISTA - RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO - ADC N.º 48/DF - COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL - JURISPRUDÊNCIA CONSOLIDADA DA SEGUNDA SEÇÃO - DELIBERAÇÃO UNIPESSOAL QUE CONHECEU DO CONFLITO E DECLAROU A COMPETÊNCIA DO JUÍZO DE DIREITO DA 8.ª VARA CÍVEL DE SANTO ANDRÉ/SP - INSURGÊNCIA DO AGRAVANTE.
+1. Destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. No âmbito da ADC n.º 48/DF, na qual foi reconhecida a constitucionalidade da Lei n.º 11.447/2007, que por sua vez dispõe sobre transporte rodoviário de cargas por terceiros, mediante remuneração, a Corte Suprema tem decidido que a discussão a respeito da presença ou não dos requisitos legais para configuração da contratação nos termos da mencionada lei, deve se iniciar na Justiça Comum, e que, constatada a ausência dos mesmo, só então, a competência passa a ser da Justiça do Trabalho. Precedentes da Segunda Seção do STJ.
+3. Agravo interno desprovido.
+(AgInt no CC n. 191.676/SP, relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 8/3/2023, DJe de 13/3/2023.)
+Diante do exposto, CONHEÇO do conflito negativo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 17ª VARA CÍVEL DO FORO CENTRAL DE CURITIBA - PR para processar e julgar a presente demanda (Autos n. 0013440-39.2023.8.16.0001). " (CC n. 213.805, Ministro Antonio Carlos Ferreira, DJEN de 22/09/2025.)
+Conclui-se que compete a Justiça Comum Estadual analisar se estão ou não presentes os requisitos caracterizadores do contrato de transporte rodoviário de cargas por conta de terceiros e mediante remuneração regido Lei nº 11.442/2007.
+Ante o exposto, CONHEÇO do conflito para DECLARAR competente o Juízo de Direito da 2ª Vara Cível e de acidentes do Trabalho de Manaus/AM.
+É como voto.
