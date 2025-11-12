@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ HUNALDO ALVES SANTOS contra acórdão da Câmara Criminal do Tribunal de Justiça do Sergipe, no Agravo Interno da Revisão Criminal n. 202500349618, assim ementado:
+Ementa: DIREITO PROCESSUAL PENAL. AGRAVO INTERNO EM REVISÃO CRIMINAL. ALEGAÇÃO DE CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS. INADEQUAÇÃO DA VIA ELEITA. PRETENSÃO DE REEXAME FÁTICO- PROBATÓRIO. INOCORRÊNCIA DAS HIPÓTESES DO ART. 621 DO CPP. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo Interno interposto pela parte contra decisão monocrática que indeferiu liminarmente a Revisão Criminal nº 202500349618, sob fundamento de inadequação às hipóteses do art. 621 do CPP. O agravante sustenta que a condenação por latrocínio se baseou em prova manifestamente contrária à evidência dos autos, especialmente no depoimento contraditório de uma das testemunhas, e pleiteia o regular processamento da revisão.
+II. QUESTÃO EM DISCUSSÃO
+1. A questão em discussão consiste em definir se a decisão condenatória transitada em julgado configura sentença contrária à evidência dos autos, de modo a legitimar o cabimento da revisão criminal nos termos do art. 621, I, do CPP, ou se o pedido veicula apenas pretensão de reexame de provas, hipótese inadmissível na via eleita.
+III. RAZÕES DE DECIDIR
+1. A revisão criminal somente se admite nas hipóteses taxativas do art. 621 do CPP, não podendo ser utilizada como sucedâneo recursal.
+2. A condenação do agravante se funda em conjunto probatório sólido e harmônico, composto por depoimentos testemunhais, confissões extrajudiciais e laudos periciais, que demonstram materialidade e autoria do crime de latrocínio.
+3. O depoimento da testemunha citada pelo recorrente, apontado como contraditório, apresenta coerência e encontra respaldo em outros elementos dos autos, não sendo a única base da condenação.
+4. As alegações do agravante traduzem mero inconformismo com a condenação e tentativa de rediscutir fatos e provas já apreciados pelas instâncias ordinárias, o que é vedado em revisão criminal.
+5. Ausente demonstração de erro judiciário ou de prova nova capaz de alterar o resultado da ação penal, mostra- se inviável o processamento da revisão criminal.
+IV. DISPOSITIVO E TESE
+1. Recurso desprovido.
+Tese de julgamento:
+1. A revisão criminal não se presta à rediscussão de fatos e provas apreciados nas instâncias ordinárias.
+2. O cabimento da revisão limita-se às hipóteses taxativamente previstas no art. 621 do CPP.
+3. A condenação baseada em conjunto probatório harmônico e robusto não pode ser desconstituída por alegações de contradições pontuais em depoimentos isolados.
+Dispositivos relevantes citados: CPP, art. 621, I; CP, art. 157, § 3º, segunda parte.
+Jurisprudência relevante citada: TJSE, Agravo Interno Criminal nº 202400150443, Rel. Des. Diógenes Barreto, j. 01.11.2024; TJSE, Agravo Regimental Crime nº 202400118663, Rel. Des. Diógenes Barreto, j. 22.05.2024. (e-STJ, fls. 33-37)
+Em seu arrazoado, o impetrante alega que a condenação encontra-se ancorada unicamente na palavra da vítima, bastante comprometida em sua credibilidade.
+Requer, liminarmente, a expedição de alvará de soltura em favor do paciente.
+No mérito, a declaração de inocência do réu.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observa-se do acórdão impugnado que a pretensão defensiva se resume à reapreciação do quadro fático-probatório dos autos, já analisado em sede de apelação criminal, o que é inadmissível nos termos da jurisprudência desta Corte, pacificada no sentido "do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP." (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 25/2/2016).
+Conforme leciona Guilherme de Souza Nucci (in Código de Processo Penal Comentado, 19.ª ed., Rio de Janeiro: Forense, 2020):
+o acolhimento da pretensão revisional, na esfera criminal, há de ser excepcional, pois o que se pretende é alterar a coisa julgada. Assim, eventual contradição ao texto expresso da lei e à evidência dos autos deve exsurgir cristalina nos autos, sem a necessidade de interpretação duvidosa ou análise puramente subjetiva das provas.
+Nesse sentido:
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. ART. 621, I, DO CPP. PLEITO ABSOLUTÓRIO. PRETENSÃO INVIÁVEL NO JUÍZO RESCISÓRIO. NECESSIDADE DE PATENTE CONTRARIEDADE ENTRE A CONDENAÇÃO E AS PROVAS DOS AUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. DOSIMETRIA. USO DE ALGEMAS NA SESSÃO PLENÁRIA DO JÚRI. DECISÃO FUNDAMENTADA. OBSERVÂNCIA DA SÚMULA N. 11 DO STF. PENA-BASE ACIMA DO MÍNIMO LEGAL. VALORAÇÃO DA QUALIFICADORA REMANESCENTE E DA CULPABILIDADE DO RÉU. MOTIVAÇÃO IDÔNEA DECLINADA. PROPORCIONALIDADE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. QUALIFICADORAS. FUNDAMENTAÇÃO SUFICIENTE. PRINCÍPIO DA SOBERANIA DO VEREDITO POPULAR. EXISTÊNCIA DE SUPORTE PROBATÓRIO A EMBASAR O ÉDITO REPRESSIVO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. INSTITUTO DA REINCIDÊNCIA NÃO ATENTA CONTRA OS PRINCÍPIOS DO NE BIS IN IDEM E DA INDIVIDUALIZAÇÃO DA PENA. ORDEM DENEGADA.
+1. A revisão criminal não deve ser utilizada como um segundo recurso de apelação, p ois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, a dispensar a interpretação ou a análise subjetiva das provas produzidas.
+2. Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+3. O Tribunal a quo desacolheu o pedido revisional por entender que não se configurou a hipótese de condenação contrária à evidência dos autos, prevista no art. 621, I, do CPP, não sendo cabível o pedido para a reapreciação do quadro fático-probatório dos autos, entendimento que se coaduna com a jurisprudência desta Corte.
+4. A decisão que determinou o uso de algemas durante a sessão plenária está devidamente fundamentada na análise do caso concreto e atende adequadamente aos mandamentos da Súmula n. 11 do STF, o que afasta a nulidade aduzida.
+5. A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, mas sim um exercício de discricionariedade vinculada, devendo o magistrado eleger a sanção que melhor servirá para a prevenção e a repressão do fato-crime praticado, exatamente como realizado na espécie.
+6. Havendo mais de uma qualificadora do delito, é possível que uma delas seja utilizada como tal e as demais sejam consideradas circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria, seja para elevar a pena-base na primeira fase do cálculo.
+7. Na presente hipótese, ao exasperar a reprimenda-base, utilizando como fundamento o deslocamento de uma das qualificadoras, a Corte recorrida alinhou-se à jurisprudência deste Sodalício, inexistindo violação da lei federal na espécie.
+8. Tendo a Corte de origem reconhecido, motivadamente, que a decisão proferida pelo Tribunal do Júri não se mostrou manifestamente contrária à prova dos autos, não é dado ao STJ aferir se a decisão possui ou não amparo probatório no processo. Referida providência demandaria minucioso cotejo fático-probatório, o que é vedado na via estreita do writ.
+9. O instituto da reincidência não atenta contra os princípios do ne bis idem e da individualização da pena. O réu era, conforme a denúncia, marido da vítima, circunstância que autoriza o reconhecimento da agravante do art. 61, II, "e" do CP. Para além disso, prevaleceu-se das relações domésticas e da hospitalidade, na medida em que, tendo livre acesso à residência em que a ofendida residia com a filha do casal, ingressou na casa e matou a vítima, fazendo incidir a agravante do art. 61, II, "f", do Código Penal.
+10. Ordem denegada.
+(HC 406.484/RS, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 19/3/2019, DJe 26/3/2019; grifou-se.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. "AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. PRETENSÃO DE REVALORAÇÃO DA PROVA. IMPOSSIBILIDADE.
+I - "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 25/02/2016).
+II - In casu, acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp 1673581/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 06/10/2020, DJe 19/10/2020; grifou-se.)
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
