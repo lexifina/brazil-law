@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada, sendo cabíveis apenas nos casos de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+2. É inadmissível a utilização dos aclaratórios como sucedâneo recursal, com o intuito de rediscutir as razões de mérito da decisão embargada.
+3. No caso, o acórdão embargado apresentou fundamentação suficiente e adequada ao não conhecer do agravo regimental, pois não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte e inviabilizaram o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DHAFINY FERNANDA NUNES BATISTA contra acórdão que não conheceu de agravo regimental interposto em seu favor, em face da decisão que indeferiu liminarmente a ordem no habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo
+Eis a ementa do acórdão embargado (e-STJ fl. 100):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte e inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Precedentes.
+2. Agravo regimental não conhecido.
+Nos presentes embargos de declaração, a defesa alega a existência de contradição no acórdão embargado, argumentando que todos os fundamentos da decisão agravada foram especificamente enfrentados nas razões do agravo regimental, inclusive com demonstração de que, no momento da apreensão da droga (1,5 gramas de maconha), o filho da paciente não se encontrava no local. Sustenta, ainda, que as razões recursais não configuraram mera reiteração da impetração originária, pois houve impugnação concreta e pormenorizada dos fundamentos da decisão agravada.
+Diante disso, requer o acolhimento dos embargos, para que seja reconhecida a contradição apontada e, em consequência, conhecido e provido o agravo regimental, com o fim de conceder a prisão domiciliar à paciente, com fulcro no artigo 117, inciso III, da LEP, e no artigo 318 do Código de Processo Penal.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PRETENSÃO DE REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada, sendo cabíveis apenas nos casos de ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+2. É inadmissível a utilização dos aclaratórios como sucedâneo recursal, com o intuito de rediscutir as razões de mérito da decisão embargada.
+3. No caso, o acórdão embargado apresentou fundamentação suficiente e adequada ao não conhecer do agravo regimental, pois não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte e inviabilizaram o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+4. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhimento.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+O acórdão embargado foi claro ao assentar que nas razões do agravo regimental, a parte insurgente não trouxe quaisquer argumentos novos para a desconstituição da decisão agravada, limitando-se a reiterar as razões do habeas corpus, previamente examinadas e rechaçadas pelo decisum monocrático.
+De igual modo, consignou-se que a relação jurídico-proce ssual pauta-se pela dialeticidade, cabendo à parte insatisfeita com o provimento jurisdicional impugnado demonstrar seu desacerto, sob pena de não conhecimento do recurso. Infirmar os fundamentos da decisão que se pretende reformar é condição necessária de admissibilidade recursal, conforme demonstram inúmeros precedentes desta Corte Superior de Justiça.
+Nesses casos, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, foram colacionados no voto condutor do agravo regimental seguintes os precedentes desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE AFASTADA. INTIMAÇÃO ELETRÔNICA DO MINISTÉRIO PÚBLICO. OBSERVÂNCIA DO ART. 5º, §§ 1º e 3º, DA LEI N. 11.419/2006. JUÍZO DE RETRATAÇÃO. POSSIBILIDADE. ART. 258, § 3º, DO RISTJ. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO DEMONSTRADA. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Nos termos do art. 5º, §§ 1º e 3º, da Lei 11.419/2006, a intimação do Ministério Público considera-se realizada no dia em que efetivada a consulta eletrônica a seu teor. Caso contrário, considerar-se-á efetivada ao término do prazo de 10 dias, contados da data do envio eletrônico.
+2. A tese fixada no julgamento do REsp n. 1.349.935/SE, submetido à sistemática dos repetitivos, não foi construída sob a perspectiva das intimações efetivadas nos processos eletrônicos, conforme disposto no art. 5º, §§ 1º e 3º, da Lei n. 11.419/2006.
+3. O ministro relator está autorizado não apenas a julgar monocraticamente o mérito do habeas corpus, nos termos do art. 34, XX, do RISTJ, mas também, em juízo de retratação, a reconsiderar sua decisão, conforme o art. 258, § 3º, do RISTJ, cujo entendimento poderá ser revisto pelo colegiado em agravo regimental.
+4. Inexistindo óbice ao julgamento monocrático do habeas corpus, não há falar em ofensa ao princípio da colegialidade.
+5. Os recursos devem impugnar especificamente os fundamentos da decisão se pretende reformar, não sendo suficientes alegações genéricas nem a mera reiteração de argumentos referentes ao mérito da controvérsia.
+6. Não se conhece de agravo regimental que não impugna especificamente os fundamentos da decisão agravada, por violação do princípio da dialeticidade. Incidência da Súmula n. 182 do STJ.
+7. Agravo regimental parcialmente conhecido, e nessa extensão, desprovido.
+(AgRg no HC n. 632.320/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS . REITERAÇÃO DE PEDIDO. RECURSO QUE DEIXOU DE IMPUGNAR FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos autos do HC n. 721.176 foi analisada a tese de ilegalidade defensiva do afastamento do art. 33, § 4º, da Lei de Drogas, ocasião em que, desacolhida tal pretensão, se concedeu parcialmente a ordem, tão somente para fixar o regime semiaberto para o início de cumprimento de pena relativa ao tráfico de drogas. Irresignada, a defesa apresentou novamente a mesma tese no HC n. 748.690, o que ensejou o indeferimento liminar do habeas corpus. Não satisfeita, a defesa, neste writ, reitera os mesmos argumentos e apresenta o mesmo pedido formulado no HC n. 721.176 e no HC n. 748.690, motivo pelo qual a decisão ora agravada, nos termos do art. 210 do RISTJ, também foi pelo indeferimento liminar do habeas corpus.
+2. Lamenta-se e deve ser repudiado tal comportamento processual. É direito do advogado atuar, livremente, em defesa de seu cliente e fazer uso de suas prerrogativas legais para tanto. Também é direito e dever do advogado lutar pela correta aplicação da lei e pelo hígido e eficaz funcionamento do Poder Judiciário, condição sine qua non para que não se negue jurisdição a quem dela necessita. Porém, assim como qualquer relação existente na sociedade, deve a atuação do advogado se cercar de decoro, ética, lealdade e boa-fé para com todos os sujeitos processuais.
+3. O fato de a defesa ter impetrado por três vezes a mesma tese evidencia verdadeiro abuso do direito de litigar, causando desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente.
+4. Demais disso, a petição de agravo regimental não observou o princípio da dialeticidade, que impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado.
+5. A decisão ora agravada sustentou a impossibilidade de conhecer o writ ante a reiteração de pedido. Todavia, o insurgente deixou de indicar, de modo objetivo, o erro das razões lançadas no decisum atacado, cingindo-se a repisar os argumentos anteriormente expendidos neste writ, bem como nos anteriores. Aplica-se, por analogia, a Súmula n. 182 do Superior Tribunal de Justiça.
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 754.542/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022, grifei)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RECURSO ORDINÁRIO INDEFERIDO LIMINARMENTE POR SER MERA REITERAÇÃO DE HABEAS CORPUS JÁ APRECIADO PELA QUINTA TURMA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Como tem decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+2. O não enfrentamento do fundamento da decisão recorrida atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+3. No caso, a Quinta Turma, nos autos do Agravo Regimental no HC 626.462/SC), apreciou, aos 15/12/2020, os argumentos de mérito ora reiterados pela defesa no presente recurso ordinário.
+4. Ora, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019). .
+5. Agravo regimental não conhecido.
+(AgRg no RHC n. 139.723/SC, DE MINHA RELATORIA, Quinta Turma, julgado em 9/3/2021, DJe de 15/3/2021.)
+A pretensão do embargante de obter a prisão domiciliar ultrapassa os limites do recurso integrativo, uma vez que visa à rediscussão do mérito, vedada nesta via.
+Por fim, oportuno reiterar o pacífico entendimento desta Corte no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)" (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação da embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
