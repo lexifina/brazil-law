@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Jhony Silva Martins, condenado pelos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena de 9 anos e 4 meses de reclusão, e 1.399 dias-multa (Processo n. 1501723-59.2020.8.26.0040, 1º Vara Judicial de Américo Brasiliense/SP).
+Aponta a defesa como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 8/5/2025, manteve a condenação por tráfico de drogas e associação para o tráfico, afastando a imputação por organização criminosa.
+Sustenta constrangimento ilegal, alegando ausência de materialidade, pois nenhuma droga foi apreendida com o paciente e o inquérito não o vincula às substâncias encontradas com os corréus. Pleiteia absolvição por insuficiência de provas.
+Afirma inexistir vínculo associativo estável e permanente, argumentando que, no máximo, houve colaboração eventual, requerendo o afastamento da condenação pelo art. 35 da Lei de Drogas.
+Defende a primariedade e a ausência de dedicação a atividades criminosas, pleiteando a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 no patamar máximo, com substituição da pena por restritivas de direitos e fixação do regime aberto.
+Alega urgência em razão do trânsito em julgado do acórdão em 26/8/2025, pedindo liminarmente a suspensão dos efeitos da condenação para evitar a prisão. No mérito, requer a absolvição ou, subsidiariamente, a redução da pena e a aplicação do regime mais brando.
+Liminar indeferida (fls. 297/299).
+Informações  prestadas pela origem  (fls.  305/437).
+O  Ministério  Público  Federal  opinou  pelo não conhecimento  da  impetração  (fls.  441/455 ).
+É  o  relatório.
+Examinando os autos, não se evidencia flagrante ilegalidade apta a justificar a excepcional intervenção desta Corte pela via estreita do habeas corpus.
+Com efeito, o presente writ substitui os recursos cabíveis, em descompasso com a racionalização do sistema recursal. Supero, contudo, o óbice apenas para exame perfunctório, a fim de aferir eventual flagrante ilegalidade que autorize concessão de ofício.
+No mérito, não se verifica constrangimento ilegal. O Tribunal de origem, soberano na análise do acervo fático-probatório, descreveu suficientemente, a meu ver, lastro probatório robusto quanto à autoria e à materialidade dos delitos, destacando apreensões significativas de entorpecentes e petrechos, laudos periciais, depoimentos convergentes de agentes públicos colhidos sob contraditório, além de diálogos telemáticos que situam o paciente na função de gerência do esquema, com distribuição de "bolsas" a vendedores, acerto de vendas e interlocução direta com o líder do grupo. A pretensão absolutória esbarra, assim, na vedação ao revolvimento de fatos e provas na via eleita.
+Nesse  sentido:  AgRg  no  HC  n.  775.522/PB,  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  7/11/2022; e AgRg  no  HC  n.  843.303/SP,  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  20/10/2023.
+Também não prospera o pedido de reconhecimento do tráfico privilegiado. A condenação concomitante pelo art. 35 da Lei n. 11.343/2006 pressupõe estabilidade e permanência no narcotráfico, circunstância incompatível com a figura do § 4º do art. 33 da Lei de Drogas, pois evidencia dedicação a atividades criminosas. Ausente flagrante ilegalidade na dosimetria, descabe a reavaliação do juízo discricionário devidamente motivado pelas instâncias ordinárias.
+Quanto ao regime, o fechado mostra-se adequado ao quantum da pena imposta, nos termos do art. 33, § 2º, a, do Código Penal, inexistindo excepcionalidade a justificar abrandamento.
+Diante desse panorama, não se identifica coação ilegal manifesta nem hipótese de atuação de ofício por esta Corte. Inadequada, por conseguinte, a tutela de urgência que pretendia suspender os efeitos do acórdão condenatório.
+Assim,  não  merece  reforma  o  acórdão  impugnado.
+Em  face  do  exposto,  denego  a  ordem.
+Pub liq ue  -se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (ARTS. 33, CAPUT, E 35 DA LEI N. 11.343/2006). SUCEDÂNEO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. SUPERAÇÃO DO ÓBICE APENAS PARA EXAME DE OFÍCIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. APREENSÕES, LAUDOS, DEPOIMENTOS COLHIDOS SOB CONTRADITÓRIO E QUEBRA DE SIGILO TELEMÁTICO INDICANDO ATUAÇÃO DO PACIENTE EM FUNÇÃO DE GERÊNCIA. PRETENSÃO ABSOLUTÓRIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI DE DROGAS). INCOMPATIBILIDADE COM A CONDENAÇÃO PELO ART. 35 (ESTABILIDADE E PERMANÊNCIA). DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. REGIME FECHADO ADEQUADO AO QUANTUM DA PENA (ART. 33, § 2º, A, DO CP). AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem  denegada.
