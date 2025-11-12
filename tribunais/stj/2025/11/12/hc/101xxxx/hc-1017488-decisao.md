@@ -1,0 +1,14 @@
+DECISÃO
+WANDERSON HONORATO DA SILVA  alega  sofrer  constrangimento  ilegal  diante  de  decisão  proferida  por Desembargador do  Tribunal de Justiça do Estado de Goiás, que não conheceu do HC n. 5304955-57.2025.8.09.0051.
+A defesa busca a revogação da prisão preventiva do paciente, por considerar ilegal sua manutenção durante período de suspensão do trâmite processual, determinada pelo Desembargador relator da apelação interposta contra a sentença condenatória, a partir de requerimento formulado pelo Ministério Público.
+Na petição de fls. 305-308, a defesa reitera o pedido formulado na inicial e destaca o voto por mim proferido no HC n. 855.404/GO, relacionado à mesma investigação que deu início à ação penal objeto deste feito (Operação Veritas), em que decidi pela declaração da nulidade de provas. Aduz que tal decisum reforça a ilegalidade a que está submetido o réu.
+Todavia, o habeas corpus não comporta processamento, uma vez que a decisão impugnada foi prolatada por Desembargador, que não conheceu, monocraticamente, do writ impetrado. Além disso, a decisão que acolheu o pleito do Ministério Público para suspender o trâmite da apelação criminal também foi proferida monocraticamente pelo relator.
+Deve-se frisar que não houve a interposição de agravo interno em nenhum dos feitos, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração de habeas corpus perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus. Nesse sentido:
+ ..  O inconformismo dirigido contra decisão de Desembargador componente da Turma Criminal do Tribunal a quo, sem que tenha sido ajuizado o agravo interno e alcançado tal decisum o trânsito em julgado, inviabiliza o acesso a esta Corte Superior, em razão do não esgotamento das instâncias ordinárias.
+II. Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância  ..
+(HC n. 164.785/MS, Rel. Min. Gilson Dipp, 5ª T., DJe 8/6/2011)
+Ressalto, por fim, que o julgamento do HC n. 855.404/GO foi iniciado, em sessão da Sexta Turma desta Corte Superior, com a prolação de meu voto pela concessão da ordem. Todavia, houve pedido de vista pelo Ministro Og Fernandes, de modo que o julgamento ainda não está finalizado e não se pode afirmar, neste momento, sobre o seu resultado, visto que os demais integrantes da turma ainda não proferiram seus votos.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se  e  intimem-se.
+EMENTA
