@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826/2003 E ART. 180 DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. INVIABILIDADE. RECURSO DESPROVIDO.
+1. "O art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica" (AgRg no AREsp n. 2.150.896/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022).
+2. No caso dos autos, o Tribunal de origem manteve a negativa de substituição da pena do agravante apontando elementos concretos dos autos aptos a evidenciar a sua inadequação.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ALISSON JOSE DA COSTA ALONSIO contra a decisão de e-STJ fls. 314/318, por meio da qual dei parcial provimento ao seu recurso especial, tão somente para reconhecer a confissão espontânea em relação ao delito de receptação, reduzindo a pena para 1 ano de reclusão, mantido o regime inicial semiaberto.
+Depreende-se dos autos que o agravante foi condenado à pena de 1 ano de detenção e 1 ano e 2 meses de reclusão, em regime inicial semiaberto, pela prática dos crimes de posse irregular de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/2003) e receptação (art. 180, caput, do Código Penal).
+A sentença reconheceu a confissão espontânea do crime de posse irregular de arma de fogo, compensando-a com a agravante da reincidência, mas deixou de aplicar a atenuante da confissão espontânea no crime de receptação, com o fundamento de que o réu não admitiu ciência da origem ilícita do bem.
+A apelação defensiva foi desprovida pelo Tribunal de origem nos termos da seguinte ementa (e-STJ fls. 253/254):
+APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO E RECEPTAÇÃO (ART. 12 DA LEI N. 10.826/03 E ART. 180, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+PRELIMINAR. NULIDADE DAS PROVAS. AVENTADA ILEGALIDADE DAS BUSCAS. NÃO ACOLHIMENTO. DILIGÊNCIA REALIZADA EM ESTABELECIMENTO COMERCIAL ABERTO AO PÚBLICO, QUE NÃO GOZA DA MESMA PROTEÇÃO CONFERIDA AO DOMICÍLIO. ATUAÇÃO POLICIAL PRECEDIDA DE DENÚNCIAS ESPECIFICADAS. APREENSÃO DE ARMA DE FOGO. PRÁTICA DE CRIME PERMANENTE, QUE SE PROTAI NO TEMPO. SITUAÇÃO DE FLAGRANTE CARACTERIZADA. PREFACIAL AFASTADA.
+RECEPTAÇÃO. ALMEJADO O RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. INVIABILIDADE. RÉU QUE NEGOU POSSUIR CIÊNCIA DE QUE O BEM ERA OBJETO DE CRIME PATRIMONIAL ANTERIOR. ELEMENTAR OBJETIVA DO ART. 180, CAPUT, DO CP NÃO ASSUMIDA. DECLARAÇÃO INSUFICIENTE PARA CARACTERIZAR A CONFISSÃO, AINDA QUE PARCIAL OU QUALIFICADA.
+PRETENSA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. ACUSADO QUE NÃO É REINCIDENTE ESPECÍFICO (ART. 44, § 3º, DO CP). IRRELEVÂNCIA. CONDENAÇÃO ANTERIOR PELA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS, EQUIPARADO A HEDIONDO. RÉU QUE COMETEU O NOVO CRIME ENQUANTO CUMPRIA PENA. BENESSE SOCIALMENTE NÃO RECOMENDÁVEL.
+PRELIMINAR AFASTADA. RECURSO CONHECIDO E DESPROVIDO.
+Daí o recurso especial, no qual a defesa alegou: a) afronta ao art. 59 do Código Penal, ao argumento de que a atenuante da confissão espontânea deveria ter sido reconhecida no crime de receptação e compensada com a agravante da reincidência; e b) afronta ao art. 44, § 3º, do Código Penal, sustentando que a substituição da pena privativa de liberdade por restritiva de direitos seria socialmente recomendável, uma vez que o recorrente não é reincidente específico e o crime não envolveu violência ou grave ameaça.
+Neste agravo regimental, a defesa repisa os argumentos deduzidos anteriormente quanto ao pedido de substituição da pena, requerendo, desse modo, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826/2003 E ART. 180 DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. INVIABILIDADE. RECURSO DESPROVIDO.
+1. "O art. 44, § 3º, do Código Penal possibilita a concessão da substituição da pena ao condenado reincidente, desde que atendidos dois requisitos cumulativos: a medida seja socialmente recomendável, em face de condenação anterior, e a reincidência não se tenha operado em virtude da prática do mesmo crime, isto é, não seja reincidência específica" (AgRg no AREsp n. 2.150.896/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/9/2022, DJe de 19/9/2022).
+2. No caso dos autos, o Tribunal de origem manteve a negativa de substituição da pena do agravante apontando elementos concretos dos autos aptos a evidenciar a sua inadequação.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 316/318):
+No entanto, melhor sorte não assiste ao recorrente quanto ao pleito de substituição da pena privativa de liberdade por restritivas de direitos.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, "não se observa a existência de constrangimento ilegal na negativa da substituição da pena privativa de liberdade por restritiva de direitos, quando há reincidência em crime doloso, ainda que não seja específica, e entender a Corte de origem que a medida não se mostra recomendável (art. 44, § 3º, do Código Penal)" - AgRg no HC n. 398.597/SP, da minha relatoria, Sexta Turma, julgado em 3/10/2017, DJe 9/10/2017, grifei).
+Nesse mesmo sentido:
+PENAL. AGRAVO INTERNO NO HABEAS CORPUS. CRIME DE TRÂNSITO. CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB EMBRIAGUEZ (ART. 306, § 1º, II, DA LEI N. 9.503/97). SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA. REINCIDÊNCIA NÃO ESPECÍFICA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. ALTERAÇÃO DO ENTENDIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSÍVEL EM SEDE DE HABEAS CORPUS. AUSÊNCIA DE ILEGALIDADE. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. Nos termos do art. 44, § 3º, do CP e da jurisprudência desta Corte superior, a substituição da pena privativa de liberdade por restritiva de direitos, nos casos em que o agente possui reincidência não específica, somente deve ocorrer quando for socialmente recomendável.
+3. Dessa forma, afirmado, pelo Tribunal a quo, a ausência de preenchimento dos requisitos legais, em razão de a medida não ser socialmente recomendável ao paciente, não se vislumbra ilegalidade a ensejar a concessão da ordem do mandamus. Ademais, alterar o entendimento do Sodalício estadual demandaria a análise do conjunto fático-probatório, providência vedada na via do habeas corpus.
+4. Agravo regimental improvido.
+(AgInt no HC 389.274/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/05/2017, DJe 11/05/2017, grifei)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME DE EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. REINCIDÊNCIA. CONSTITUCIONALIDADE DO INSTITUTO RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. REGIME SEMIABERTO MANTIDO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. MEDIDA SOCIALMENTE INADEQUADA. MAIORES INCURSÕES SOBRE O TEMA QUE EXIGIRIAM REVOLVIMENTO FÁTICO-COMPROBATÓRIO. IMPROPRIEDADE DA VIA ELEITA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+3. O Supremo Tribunal Federal, por ocasião do julgamento do RE 453.000/RS, submetido ao rito da repercussão geral, decidiu que a circunstância agravante da reincidência (art. 61, I, do Código Penal) não ofende os princípios constitucionais do non bis in idem e da individualização da pena.
+4. No que se refere ao regime prisional, em pese tenha sido imposta reprimenda inferior a 4 (quatro) anos de detenção e a pena-base ter sido estabelecida no piso previsto no preceito secundário do tipo penal incriminador, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "c", do CP. Precedentes.
+5. Em relação à conversão da pena corporal por restritiva de direitos, o art. 44, § 3º, do Código Penal admite tal substituição, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito.
+6. Ainda que não se trate de reincidência específica, as instâncias ordinárias reconheceram a inadequação de tal medida, notadamente em razão de o réu já ter sido beneficiado com a substituição da pena privativa de liberdade por restritiva de direitos anteriormente, tendo voltado a delinquir. Ainda, foram consideradas as circunstâncias do crime e os maus antecedentes do réu.
+7. Se as instâncias ordinárias, de forma motivada, entenderam não ser socialmente recomendável a modificação da pena corporal por restritiva de direitos, para infirmar tal conclusão, seria necessário revolvimento fático-comprobatório dos autos, o que é defeso na via eleita. Precedente.
+8. Writ não conhecido.
+(HC 339.864/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/11/2016, DJe 23/11/2016, grifei)
+HABEAS CORPUS. ESTELIONATO. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. VIA INADEQUADA. FIXAÇÃO DE REGIME MAIS BRANDO. IMPOSSIBILIDADE. PENA INFERIOR A 4 ANOS DE RECLUSÃO. REINCIDÊNCIA. REGIME INICIAL SEMIABERTO. ADEQUAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA NÃO RECOMENDÁVEL. NÃO CONHECIMENTO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Nos termos do artigo 33 do Código Penal e do teor da Súmula 269 desta Corte, fixada a pena em patamar inferior a 4 anos de reclusão, a estipulação do regime inicial semiaberto é apropriada, diante da reincidência do paciente.
+3. Inviável a substituição da reprimenda por medidas restritivas de direitos, visto que as instâncias de origem assentaram não ser recomendável, não apenas pela mera reincidência, mas, em especial, por a condenação anterior referir-se ao crime de "quadrilha armada", o que evidencia a insuficiência da providência mais branda.
+4. Habeas corpus não conhecido.
+(HC 357.303/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/6/2016, DJe 14/6/2016, grifei.)
+No caso, acerca da insurgência, consta o seguinte do acórdão recorrido (e-STJ fl. 251):
+Na espécie, embora não tenha havido menção por parte do Sentenciante, verifica-se que a reincidência do acusado se deu pela prática anterior do crime de tráfico entorpecentes (Evento 2, CERTANTCRIM1, autos do IP), equiparado a hediondo.
+Além disso, consoante bem frisado nas contrarrazões do Ministério Público, "o réu cometeu os crimes destes autos enquanto cumpria a pena da condenação anterior (há PEC em andamento), demonstrando, desta forma, descaso com a justiça" (Evento 14, PROMOÇÃO1).
+Como se vê, a Corte de origem deduziu fundamentação idônea, baseada em elementos concretos dos autos, para concluir não ser recomendável, no caso, a substituição da pena privativa de liberdade por restritiva de direitos.
+Não vislumbro, portanto, a aventada ilegalidade.
+Ante o exposto, dou parcial provimento ao recurso especial, tão somente para reduzir a pena do recorrente pelo delito de receptação para 1 ano de reclusão, mantido o regime inicial semiaberto.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
