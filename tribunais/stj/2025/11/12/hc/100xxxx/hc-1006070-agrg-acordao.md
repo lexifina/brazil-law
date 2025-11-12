@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, Maria Marluce Caldas e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Alegação de posse de arma de fogo em residência compartilhada. Reexame de provas. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, sob o fundamento de que a via eleita não se presta ao revolvimento de matéria fático-probatória.
+2. A parte agravante sustenta que a arma de fogo apreendida estava em local de uso comum de uma residência compartilhada por pessoas imputáveis e com antecedentes criminais, alegando ausência de provas suficientes para atribuir a posse ao agravante.
+3. Decisão monocrática manteve o entendimento de que o habeas corpus não é instrumento adequado para análise de questões que demandem reexame de provas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível, na via do habeas corpus, afastar a autoria do crime de posse de arma de fogo, considerando que a arma foi encontrada em local de uso comum de uma residência compartilhada.
+III. Razões de decidir
+5. O habeas corpus não se presta ao revolvimento de matéria fático-probatória, sendo inviável sua utilização para discutir autoria ou materialidade de crime, quando estas dependem de análise aprofundada de provas.
+6. As instâncias ordinárias, com base no conjunto probatório, concluíram pela ciência do agravante acerca da existência da arma de fogo em sua residência, não havendo elementos que indiquem que a arma pertencia exclusivamente à esposa do agravante.
+7. A teoria da perda de uma chance probatória não se aplica ao caso, pois não houve falha na produção de provas pela acusação, sendo robusto o conjunto probatório que vincula o agravante ao delito.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus não se presta ao revolvimento de matéria fático-probatória, sendo inviável sua utilização para discutir autoria ou materialidade de crime.
+2. A análise de autoria e materialidade de crime deve ser realizada com base no conjunto probatório produzido nas instâncias ordinárias, não cabendo revisão na via do habeas corpus .
+Dispositivos relevantes citados: CPP, art. 156.
+Jurisprudência relevante citada: STJ, HC 829.723-PR, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12.12.2023; STJ, AgRg no REsp 1804625/RO, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 05.06.2019; STJ, HC 502.868/MS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.05.2019.
+RELATÓRIO
+Trata-se de agravo regimental interposto por OTACILIO DE ALMEIDA MASSENA, contra decisão monocrática que não conheceu do habeas corpus (e-STJ, fls. 74-78).
+Embargos de declaração rejeitados (e-STJ, fls. 92-93).
+A parte agravante, reiterando os termos do writ impetrado, destaca que "a arma foi apreendida em local de uso comum de uma residência compartilhada por pessoas imputáveis e com antecedentes criminais" (e-STJ, fl. 99).
+Pede, ao final, o provimento do presente agravo, para que seja concedida a ordem.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo. Alegação de posse de arma de fogo em residência compartilhada. Reexame de provas. Agravo IMprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus, sob o fundamento de que a via eleita não se presta ao revolvimento de matéria fático-probatória.
+2. A parte agravante sustenta que a arma de fogo apreendida estava em local de uso comum de uma residência compartilhada por pessoas imputáveis e com antecedentes criminais, alegando ausência de provas suficientes para atribuir a posse ao agravante.
+3. Decisão monocrática manteve o entendimento de que o habeas corpus não é instrumento adequado para análise de questões que demandem reexame de provas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se é possível, na via do habeas corpus, afastar a autoria do crime de posse de arma de fogo, considerando que a arma foi encontrada em local de uso comum de uma residência compartilhada.
+III. Razões de decidir
+5. O habeas corpus não se presta ao revolvimento de matéria fático-probatória, sendo inviável sua utilização para discutir autoria ou materialidade de crime, quando estas dependem de análise aprofundada de provas.
+6. As instâncias ordinárias, com base no conjunto probatório, concluíram pela ciência do agravante acerca da existência da arma de fogo em sua residência, não havendo elementos que indiquem que a arma pertencia exclusivamente à esposa do agravante.
+7. A teoria da perda de uma chance probatória não se aplica ao caso, pois não houve falha na produção de provas pela acusação, sendo robusto o conjunto probatório que vincula o agravante ao delito.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. O habeas corpus não se presta ao revolvimento de matéria fático-probatória, sendo inviável sua utilização para discutir autoria ou materialidade de crime.
+2. A análise de autoria e materialidade de crime deve ser realizada com base no conjunto probatório produzido nas instâncias ordinárias, não cabendo revisão na via do habeas corpus .
+Dispositivos relevantes citados: CPP, art. 156.
+Jurisprudência relevante citada: STJ, HC 829.723-PR, Rel. Min. Teodoro Silva Santos, Sexta Turma, julgado em 12.12.2023; STJ, AgRg no REsp 1804625/RO, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 05.06.2019; STJ, HC 502.868/MS, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.05.2019.
+VOTO
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Inicialmente, cumpre ressaltar que esta pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O acórdão impugnado assim consignou:
+"A materialidade do delito está evidenciada a partir do boletim de ocorrência (evento 1, P_FLAGRANTE1, fls. 05-08), do auto de apreensão (evento 1, P_FLAGRANTE1, fls. 09-10), do Laudo Pericial nº 205302/2021 (evento 32, LAUDO1), e da prova oral colhida na instrução.
+Com relação à autoria, assim foi sintetizada em sentença a prova oral:
+Sob o crivo do contraditório, o Policial Civil Felix Maria Fernandez Neto informou que atua na CORE, departamento que age predominantemente em apoio aos outros departamentos/órgãos da Polícia Civil. Relatou que foram acionados pela Delegacia de Lavagem de Dinheiro do DENARC para cumprir o mandado de apreensão na residência do acusado. Durante o cumprimento do mandado, localizaram o revólver no banheiro da residência do réu. Esclareceu que o réu estava sendo investigado pelo DENARC. Aduziu não se recordar exatamente do que dizia no mandado, mas era para buscar armas, drogas, documentos, "esse tipo de coisa". Sustentou que apenas tinham conhecimento de que o acusado estava "nessa vida aí do tráfico há um bom tempo, e ele apareceu em uma investigação do DENARC" (evento 71, VÍDEO2).
+No mesmo sentido, o policial civil Eduardo Rodrigues de Aguiar relatou que faz parte de uma unidade de operações especiais, de modo que não possui vinculação com a investigação. Narrou que foram cumprir um mandado na casa do acusado, salvo engano no campo da Tuca. Durante o cumprimento ao mandado, encontraram na residência do réu um revólver calibre 38. Informou que, pelo que se recorda, o revólver estava carregado. Esclareceu que a equipe da CORE normalmente é chamada para operações mais complexas, então provavelmente, nesse caso, foi devido ao local da residência do réu. Trata-se de área conflagrada e com histórico de atuação de facções criminosas, bem como pela dificuldade de ingresso (evento 71, VÍDEO3).
+O réu Otacílio, em seu interrogatório, negou a autoria do delito. Informou que apenas ficou sabendo sobre a arma quando foi preso e encaminhado para a Delegacia. Disse que nunca teve arma dentro da sua casa. Narrou que os policiais chegaram na sua casa "e queriam saber de dinheiro e papéis, e eu falei que não tenho nada disso". Questionado, disse que não sabe da existência de arma nenhuma. Aduziu que não acompanhou a revista na casa, pois foi "rendido" e jogado para a rua. Referiu que não era a pessoa procurada pelos policiais, até porque eles falavam outro nome. Asseverou que também estavam na casa seus três filhos e sua esposa. Informou que sua esposa faz uso de drogas e que sempre brigam, pois seguidamente o depoente chega em casa e tem amigos/amigas fazendo uso, "um entra e sai de gente". Disse que a arma poderia ser da sua esposa (evento 71, VÍDEO4).
+Entendo presentes elementos suficientes de autoria do crime.
+O revólver Taurus, calibre .38, número de série KK98757, e 20 (vinte) cartuchos do mesmo calibre foram apreendidos durante busca e apreensão que tinha como alvo a residência do réu.
+O Mandado de Busca e Apreensão foi expedido no âmbito do expediente de nº 5055639-21.2021.8.21.0001, no qual o réu era investigado pelos crimes de lavagem de dinheiro e organização criminosa.
+Diante das circunstâncias fáticas que permearam a apreensão, não há como se cogitar que o réu não estivesse ciente da existência da arma de fogo em sua residência.
+O principal argumento da defesa ao alegar que a arma pertenceria à esposa do réu reside nos antecedentes criminais daquela, que ostenta condenação por roubo majorado pelo emprego de arma de fogo.
+O acusado, contudo, também ostenta antecedentes criminais pela prática de homicídios qualificados, indicando que também é indivíduo envolvido no mundo criminoso e com acesso facilitado a armas de fogo.
+Desta forma, inequívoco que estava ele ciente da existência de artefato bélico municiado no interior do imóvel em que habitava.
+A teoria da perda de uma chance probatória, aventada em razões recursais, se aplica quando, injustificadamente, a acusação deixa de produzir prova que poderia comprovar a tese defensiva ou colocar o réu a salvo de quaisquer dúvidas em relação à versão acusatória (STJ. 6ª Turma. HC 829.723-PR, Rel. Min. Teodoro Silva Santos, julgado em 12/12/2023).
+Ao meu ver, não houve qualquer falha da acusação no que diz respeito à produção de provas. Restou devidamente comprovado que o acusado residia no local onde a arma de fogo foi encontrada.
+Desta forma, o conjunto de provas é robusto, adequado e suficiente para demonstrar, de forma inequívoca, a autoria do crime.
+No mais, no processo penal é facultado ao réu fazer prova do alegado, a teor do artigo 156 do CPP." (e-STJ, fls. 36-37)
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. FINANCIAMENTO DO TRÁFICO. RECURSO ESPECIAL PELA DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE. CONDENAÇÃO. BUSCA E APREENSÃO. INTERCEPTAÇÃO TELEFÔNICA. PROVA ORAL JUDICIAL E EXTRAJUDICIAL. REEXAME PROBATÓRIO. SÚMULA N.º 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte estadual, com fundamento nos elementos do caderno fático-probatório, entre eles os testemunhos policiais e os resultados das diligências de busca e apreensão e de interceptação telefônica, concluiu pela comprovação da autoria e da materialidade dos crimes de associação para o tráfico e de financiamento do tráfico. A revisão da condenação exigiria, portanto, amplo reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DOSIMETRIA. TRÁFICO DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. INADMISSIBILIDADE NA VIA ELEITA.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE DOS CRIMES ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE. POSIÇÃO DE LIDERANÇA. FUNDAMENTAÇÃO ESCORREITA. ABRANDAMENTO DO REGIME PRISIONAL. PLEITO PREJUDICADO. NÃO ALTERAÇÃO DO QUANTUM DA PENA.PENA SUPERIOR A 8 ANOS DE RECLUSÃO. OBSERVÂNCIA DO ART. 33, § 2º, ALÍNEA "A", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As instâncias ordinárias, com base no exame exauriente das provas dos autos, sobretudo as circunstâncias do delito, entenderam que o paciente praticava tráfico e associação para o tráfico de drogas. Ademais, para se afastar a materialidade do delito de associação para o tráfico, é necessário o reexame aprofundado de provas, inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido." (HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019)
+Nesse contexto, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, destacando-se a prova testemunhal, produzida em juízo, e indiciária, entenderam, de forma fundamentada, haver prova da ciência do paciente acerca da arma em sua residência, não havendo qualquer elemento que indique pertencer exclusivamente à sua esposa, como alega. Portanto, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
