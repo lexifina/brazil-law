@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1363/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. EXEGESE DOS ARTS. 1.039, 1.040 E 1.041 DO CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos  Tema 1363/STJ  , nos seguintes termos: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário" (ProAfR no REsp 2178237/SP).
+2. Mostra-se conveniente devolver os autos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, disciplinado pelos arts. 1.039, 1.040 e 1.041, todos do CPC.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e julgar prejudicados os recursos, com a restituição dos autos ao Tribunal de origem, para que seja observado o disposto nos arts. 1.040 e 1.041 do CPC.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo FAZENDA DO ESTADO DE SÃO PAULO contra acórdão da Segunda Turma do STJ, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. EXECUÇÃO FISCAL. ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. ALEGADA VIOLAÇÃO AO ART. 1.039 DO CPC. DISPOSITIVO LEGAL QUE NÃO GUARDA PERTINÊNCIA COM AS NULIDADES APONTADAS. SÚMULA 284 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1.  A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência, fato que atrai a aplicação, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+2. O art. 1.039 do CPC não guarda pertinência com as razões suscitadas e nem possui comando capaz de alterar as conclusões adotadas pelo Tribunal de origem. Incide, no caso, o óbice da Súmula 284 do STF.
+3.  A análise do dissídio jurisprudencial, pela alínea c do permissivo constitucional, fica prejudicada quando for aplicado óbice processual ao recurso especial pela alínea a, no que tange à mesma matéria.
+4. Agravo  interno  não  provido.
+A parte embargante sustenta, em síntese, que o recurso especial deve permanecer suspenso até a solução da questão referente ao Tema 1363/STJ (REsp 2.178.237/SP), afetado ao rito dos recursos repetitivos (fl. 699).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO JURÍDICA SUBMETIDA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1363/STJ. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. EXEGESE DOS ARTS. 1.039, 1.040 E 1.041 DO CPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EXCEPCIONAL EFEITO INFRINGENTE.
+1. A controvérsia devolvida ao conhecimento desta Corte Superior foi afetada para julgamento sob o rito dos recursos especiais repetitivos  Tema 1363/STJ  , nos seguintes termos: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário" (ProAfR no REsp 2178237/SP).
+2. Mostra-se conveniente devolver os autos ao Tribunal de origem para aguardar a solução da questão, viabilizando, assim, o juízo de conformação, disciplinado pelos arts. 1.039, 1.040 e 1.041, todos do CPC.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores e julgar prejudicados os recursos, com a restituição dos autos ao Tribunal de origem, para que seja observado o disposto nos arts. 1.040 e 1.041 do CPC.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+Com razão a parte embargante.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, trata-se a discussão acerca de eventual equiparação da Nota Fiscal Eletrônica (NF-e) à Guia de Informação e Apuração do ICMS - GIA para fins de constituição do crédito tributário.
+Em detida análise, por ocasião do julgamento da Apelação, o Tribunal de origem assim dispôs (fl. 296):
+Apelação Cível Execução fiscal ICMS supostamente declarado por meio da emissão de notas fiscais que descrevam a operação de venda ou prestação Sentença que acolhe a exceção de pré-executividade e extingue a execução Recurso do Estado de São Paulo Desprovimento de rigor Crédito que é constituído com a declaração do contribuinte na Guia de Informa e Apuração (GIA) Emissão de notas fiscais pelo contribuinte que não se equipara a declaração de débito Ausência de constituição do crédito tributário Precedentes de Superior Tribunal de Justiça e desta Corte Sentença mantida Apelo desprovido.
+Essa é exatamente a controvérsia que foi afetada à Primeira Seção desta Corte Superior, para ser decidida sob o rito dos recursos repetitivos, no Tema 1363/STJ, com a seguinte delimitação temática: "Definir se a Nota Fiscal Eletrônica (NF-e) pode ser equiparada à Guia de Informação e Apuração do ICMS (Difal) - GIA/ICMS, para a constituição do crédito tributário" (ProAfR no REsp 2.178.237/SP).
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Superior Tribunal, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência desta Corte, apresente decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não se conhecerá de eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
+Isso posto, acolho os embargos de declaração.
