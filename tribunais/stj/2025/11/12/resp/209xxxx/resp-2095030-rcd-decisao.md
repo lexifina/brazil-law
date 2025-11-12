@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se pedido de reconsideração formulado por CONSULFAC ADMINISTRAÇÃO E PARTICIPAÇÕES SOCIETÁRIAS - CONSULFAC - e ERNESTO LUIS PEDROSO JUNIOR contra decisão unipessoal por meio da qual indeferido o pedido de concessão de efeito suspensivo ao agravo interno no agravo em recurso especial.
+Reitera a existência de perigo na demora, consubstanciado no: " ..  risco de transferência definitiva por meio da expedição de carta de arrematação/adjudicação já determinada pelo Poder Judiciário do Estado de São Paulo (medida irreversível à luz do art. 903 do CPC) com relação a diversos imóveis." (e-STJ fl. 1233).
+Acentua, ainda a plausibilidade do direito, em relação à controvérsia devolvida no recurso especial, tendo em vista a impossibilidade de parte ilegítima executar crédito com base em cláusula de mandato não vigente.
+É O RELATÓRIO. DECIDE-SE.
+Inexiste fundamento novo, para a reconsideração da decisão que indeferiu a tutela de urgência pleiteada pela parte (e-STJ fls. 1223-1225), que reconheceu, na hipótese, a ausência do requisito periculum in mora, prejudicada a análise de fumus boni iuris, requisitos devem estar presentes cumulativamente.
+Conforme realçado na decisão aludida, a concessão de efeito suspensivo em agravo em recurso especial é medida rigorosamente excepcional, que depende da presença simultânea do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+No particular, verifica-se, com base em um juízo provisório, que os argumentos da parte recorrente não demonstram a necessidade de urgência da prestação jurisdicional.
+Com efeito, nos termos da jurisprudência desta Corte, o regular prosseguimento da execução, por si só, não constitui o perigo de dano ou o risco ao resultado útil do processo exigido para a concessão de tutela provisória de urgência, até porque o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgInt na Pet 13.696/RJ, Terceira Turma, REPDJe 12/11/2020, DJe 3/11/2020; AgInt na TutPrv no AREsp 1.070.866/DF, Terceira Turma, DJe 29/11/2017; AgRg na MC 25.558/RJ, Quarta Turma, DJe 31/3/2016; AgInt AR 6.839/SP, Segunda Seção, DJe 18/12/2020).
+Ademais, não remanesce a eficácia da decisão que atribui efeito suspensivo ao recurso especial, uma vez que objeto de expressa reconsideração pela Presidência do TJ /SP (e-STJ fl. 1057), o que afasta, em absoluto, a alegação de perigo na demora.
+Forte nessas razões, INDEFIRO o pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
