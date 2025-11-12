@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS DE FRANCISCO SÁ - MG suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA 7ª VARA DE EXECUÇÃO PENAL DE PORTO VELHO - SJ/RO.
+A controvérsia estabelecida neste incidente processual cinge-se a saber qual o juízo competente para decidir sobre a necessidade de permanência ou inclusão de preso em presídio de segurança máxima.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarado competente o Juízo de Direito da Vara de Execuções Penais de Franciso Sá - MG, ora suscitante (fls 1.018-1.020).
+Decido.
+Conforme orientação desta Corte, a competência para decidir sobre a necessidade de permanência ou inclusão de preso em presídio de segurança máxima é do Juízo que formula o pedido, de tal sorte que, no caso, assiste razão ao Ministério Público Federal quando afirma que o custodiado deve continuar o cumprimento de pena em presídio federal.
+Deveras, observa-se que Juízo suscitante declinou os fundamentos que subsidiariam a necessidade de renovação da permanência do preso em estabelecimento federal, notadamente em razão do "grande poder de articulação e comando na massa carcerária. Sendo assim, esta seria uma maneira eficaz de isola-lo, dificultando o aumento do número de adeptos a ideologia da referida facção em presídios do Estado, bem como impedir articulações para o cometimento de novos crimes intramuros e extramuros" (fl. 12).
+Ora, uma vez explicitada a necessidade da manutenção do preso em presídio de segurança máxima, não cabe ao Juízo Federal emitir juízo de valor a respeito do decidido pelo Juízo de origem, único habilitado, a partir da análise do caso concreto, a aferir a necessidade de adoção da medida, nos termos da orientação desta Corte.
+Nesse sentido: "A Terceira Seção desta Corte Superior de Justiça entende que não cabe ao Juízo Federal Corregedor discutir as razões do Juízo que solicitou a medida de transferência de preso para estabelecimento prisional de segurança máxima - ou que pediu a renovação do prazo de permanência - porquanto este é o único habilitado a declarar a excepcionalidade da medida" (AgRg no CC n. 181.039/MS, relator Rel. Ministro Joel Ilan Paciornik, DJe 27/9/2021).
+Ante o exposto, conheço do conflito, a fim de declarar competente o Juízo de Direito da Vara de Execuções Penais de Franciso Sá - MG, ora suscitante, devendo o apenado permanecer em presídio federal, tal como requerido.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
