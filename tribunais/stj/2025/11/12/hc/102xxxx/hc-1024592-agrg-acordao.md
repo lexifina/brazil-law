@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT CONCOMITANTE À INTERPOSIÇÃO DE RECURSO PRÓPRIO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, o habeas corpus fora impetrado de forma concomitante à interposição do recurso cabível, em evidente violação do princípio da unirrecorribilidade, circunstância que obsta o conhecimento do remédio constitucional. Precedentes.
+2. Esse writ, que não tem por finalidade a tutela imediata da liberdade de locomoção, não pode ser admitido para reexame de questão idêntica à já suscitada em recurso especial. Além disso, ao analisar o agravo em recurso especial, esta Corte se manifestou quanto à impossibilidade de se discutir matéria não apreciada pelo tribunal de origem.
+3. Agravo regimental não provido.
+RELATÓRIO
+PRISCILLA FERRAZ interpõe agravo regimental contra decisão da Presidência desta Corte Superior que indeferiu liminarmente o processamento de habeas corpus.
+A defesa aponta a desnecessidade de reexame de provas para se verificar a ausência de materialidade do tráfico de drogas, ante a falta de constatação preliminar e de laudo toxicológico conclusivo.
+Requer o conhecimento e a concessão do habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT CONCOMITANTE À INTERPOSIÇÃO DE RECURSO PRÓPRIO. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, o habeas corpus fora impetrado de forma concomitante à interposição do recurso cabível, em evidente violação do princípio da unirrecorribilidade, circunstância que obsta o conhecimento do remédio constitucional. Precedentes.
+2. Esse writ, que não tem por finalidade a tutela imediata da liberdade de locomoção, não pode ser admitido para reexame de questão idêntica à já suscitada em recurso especial. Além disso, ao analisar o agravo em recurso especial, esta Corte se manifestou quanto à impossibilidade de se discutir matéria não apreciada pelo tribunal de origem.
+3. Agravo regimental não provido.
+VOTO
+Apesar das considerações do agravo regimental, mantenho a decisão da Presidência desta Corte, por outro motivo, uma vez que existe obstáculo ao conhecimento do habeas corpus.
+Aplica-se ao caso a compreensão de que:
+ ..  1. A existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção.
+2. A tutela constitucional e legal da liberdade humana justifica algum temperamento aos rigores formais inerentes aos recursos em geral, mas não dispensa a racionalidade no uso dos instrumentos postos à disposição do acusado ao longo da persecução penal, dada a necessidade de também preservar a funcionalidade do sistema de justiça criminal, cujo poder de julgar de maneira organizada, acurada e correta, permeado pelas limitações materiais e humanas dos órgãos de jurisdição, se vê comprometido - em prejuízo da sociedade e dos jurisdicionados em geral - com o concomitante emprego de dois meios de impugnação com igual pretensão.
+3. Sob essa perspectiva, a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual.  ..  (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020).
+No caso, o habeas corpus não é destinado à tutela direta do direito de locomoção, uma vez que o réu está em liberdade enquanto aguarda o trânsito em julgado da condenação. Os advogados interpuseram recursos especial e extraordinário contra o acórdão de apelação. O AREsp n. 2.845.558/SP, já julgado, continua em tramitação nesta Corte Superior , pois a defesa agravou da decisão monocrática do relator.
+Ressalto que, no recurso especial, a parte também pediu a absolvição por ausência de prova da materialidade do delito.
+Em decisão já proferida no AREsp n. 2.845.558/SP, constou que este Superior Tribunal não pode examinar a matéria, uma vez que, a teor do acórdão de apelação, a materialidade delitiva está reconhecida em laudo de exame químico-toxicológico definitivo, que apontou resultado positivo para ADB-Butinaca e "o Tribunal estadual  ..  não se manifestou sobre as particularidades suscitadas pela defesa nos laudos preliminar e definitivo que os tornariam inidôneos. A Corte de origem tão somente considerou que ambos foram acostados aos autos".
+A defesa interpôs agravo regimental contra a decisão em apreço, proferida no AREsp n. 2.845.558/SP.
+Sob essa perspectiva, " o  ajuizamento simultâneo do writ com interposição de recurso próprio contra o mesmo ato judicial, tal como no caso dos autos, trata-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Cabe à parte optar pelo caminho que lhe seja mais favorável, arcando com as consequências de sua escolha" (AgRg no HC n. 589.923/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 1/4/2022).
+À vista do exposto, nego provimento ao agravo regimental.
