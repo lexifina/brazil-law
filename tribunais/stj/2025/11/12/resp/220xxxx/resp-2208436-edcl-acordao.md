@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. RECEPTAÇÃO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE FUNDADA SUSPEITA. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. TESE DE NERVOSISMO COMO FUNDAMENTO PARA ABORDAGEM. JURISPRUDÊNCIA CONSOLIDADA DO STJ. NECESSIDADE DE ELEMENTOS OBJETIVOS E CONCRETOS.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público do Estado de Minas Gerais ao acórdão desta Sexta Turma, de minha lavra, assim ementado (fls. 768/772):
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. RECEPTAÇÃO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE FUNDADA SUSPEITA. ILICITUDE DAS PROVAS. ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA.
+Recurso especial provido.
+Alega-se que a decisão incorreu em omissão, pois desconsiderou recente julgado desta Sexta Turma (HC n. 888.216) que teria mudado a posição anterior sobre busca pessoal, admitindo que o nervosismo apresentado pela pessoa ao ver a aproximação de policiais configura fundada razão para a abordagem pessoal.
+Sustenta-se que, nas circunstâncias do caso concreto, a reação de nervosismo do embargado e do corréu ao avistar os policiais configuraria indício objetivo de que poderiam estar na posse de objetos ilícitos.
+Requer-se a manifestação expressa sobre esses pontos, especialmente para fins de prequestionamento de matéria constitucional, e o suprimento da omissão apontada, com o restabelecimento da decisão condenatória mantida pelo Tribunal mineiro.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. RECEPTAÇÃO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE FUNDADA SUSPEITA. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. TESE DE NERVOSISMO COMO FUNDAMENTO PARA ABORDAGEM. JURISPRUDÊNCIA CONSOLIDADA DO STJ. NECESSIDADE DE ELEMENTOS OBJETIVOS E CONCRETOS.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não tem caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+A omissão a ser sanada por meio dos embargos de declaração é aquela existente em face dos pontos acerca dos quais está o julgador obrigado a responder e não o fez. A contradição diz respeito à incompatibilidade entre as premissas e disposições da própria decisão embargada. E a obscuridade tem relação com a falta de clareza da decisão impugnada.
+Na hipótese, não se verifica qualquer vício que justifique o acolhimento dos presentes embargos.
+A decisão embargada analisou de forma completa e fundamentada a questão relativa à legalidade da busca pessoal e veicular realizada, concluindo pela ausência de fundada suspeita apta a justificar a medida invasiva. Não há, portanto, omissão a ser suprida.
+Quanto à alegada mudança de posicionamento desta Corte Superior em razão do julgamento do HC n. 888.216, é necessário esclarecer que a jurisprudência do Superior Tribunal de Justiça permanece firme no sentido de que a busca pessoal ou veicular exige a presença de fundada suspeita, baseada em elementos objetivos e concretos, que indiquem, com razoável probabilidade, que a pessoa esteja na posse de objetos ilícitos.
+A desconfiança dos agentes de segurança deve estar alicerçada em circunstâncias fáticas plausíveis e reais, de modo a evitar que a ação se sustente apenas em avaliação subjetiva, sujeita a toda sorte de preconceitos e estigmatizações.
+Conforme estabelecido no julgamento do RHC n. 158.580/BA, exige-se, em termos de standard probatório para busca pessoal ou veicular sem mandado judicial, a existência de fundada suspeita (justa causa) baseada em um juízo de probabilidade, descrita com a maior precisão possível, aferida de modo objetivo e devidamente justificada pelos indícios e circunstâncias do caso concreto.
+É verdade que o comportamento do indivíduo abordado pode ser considerado como um dos elementos a compor o quadro de fundada suspeita. Todavia, o mero nervosismo, isoladamente considerado, não constitui fundamento suficiente para a realização de busca pessoal ou veicular, sob pena de se legitimar abordagens arbitrárias baseadas exclusivamente na percepção subjetiva dos agentes policiais.
+O nervosismo pode decorrer de inúmeras causas legítimas, especialmente em um contexto de abordagem policial, sendo natural que pessoas inocentes também se mostrem apreensivas ou tensas diante da aproximação de autoridades. Admitir o nervosismo como fundamento único ou principal para a busca seria abrir margem para práticas discriminatórias e violadoras de direitos fundamentais.
+No caso concreto, conforme consignado na decisão embargada, a justificativa apresentada pelos agentes policiais para a abordagem foi meramente o fato de o embargado estar dentro de um veículo enquanto seu companheiro tocava o interfone de uma residência. Tal circunstância, ainda que possa ter despertado curiosidade nos policiais, não configura a fundada suspeita exigida pela legislação processual penal.
+A mera presença de pessoas em via pública, em comportamento absolutamente trivial e corriqueiro na vida urbana - como tocar o interfone de uma residência enquanto outra pessoa aguarda no veículo - não apresenta qualquer indício objetivo de ilicitude.
+A alegação de que havia notícias de furtos na região, por si só, tampouco fundamenta abordagens indiscriminadas, sob pena de se admitir a prática de "batidas policiais" genéricas e desprovidas de justa causa específica, em flagrante violação dos direitos fundamentais e das garantias constitucionais.
+Ressalto que os embargos de declaração não se prestam a rediscutir o mérito da decisão ou obter pronunciamento sobre tese jurídica que já foi adequadamente enfrentada e rejeitada. A pretensão do embargante, na realidade, não é de sanar omissão, mas de reformar o julgado, o que não se admite nesta via processual, salvo em hipóteses excepcionais de erro material ou manifesta nulidade, aqui não configuradas.
+Ante o exposto, rejeito os embargos de declaração.
