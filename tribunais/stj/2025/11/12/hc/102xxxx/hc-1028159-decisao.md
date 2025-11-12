@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CICERO APARECIDO DIAS e LUCAS GONZAGA DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501039-10.2024.8.26.0618).
+Consta dos autos que os pacientes foram condenados, em primeiro grau, como incursos no art. 33, caput, da Lei n. 11.343/2006. A sentença fixou, para ambos, a pena de 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial fechado, e pagamento de 625 (seiscentos e vinte e cinco) dias-multa.
+Inconformada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de negou provimento, mantendo integralmente a condenação.
+Neste writ, o impetrante alega constrangimento ilegal na dosimetria da pena, sustentando, em síntese, que i) a quantidade de entorpecentes apreendido não justifica a exasperação da pena-base, sendo o aumento de 1/4 (um quarto) na primeira fase da dosimetria desproporcional; ii) há bis in idem, pois a quantidade e a natureza das drogas teriam sido utilizadas para exasperar a pena-base e afastar o redutor do tráfico privilegiado; iii) é possível a aplicação da minorante do art. 33, § 4º, da Lei de Drogas, considerando que os fundamentos utilizados pelas instâncias ordinárias seriam inidôneos para afastar a benesse; e que iv) os pacientes fazem jus à fixação, ao menos, do regime inicial intermediário e à substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Pleiteia, liminarmente e no mérito, a reforma da dosimetria das penas impostas aos pacientes.
+O pedido liminar foi indeferido (fls. 633-634).
+As informações foram prestadas (fls. 640-678 e 684-685).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 687-690).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram o entendimento de que não cabe habeas corpus como substitutivo do recurso legalmente previsto para a hipótese ou da revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (STJ, AgRg no HC n. 1.014.903/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/10/2025, DJEN de 6/10/2025; STJ, AgRg no HC n. 904.291/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025; STF, HC 227171 AgR, Relator Ministro Gilmar Mendes, Segunda Turma, julgado em 15/8/2023, publicado em 21/8/2023 e STF, HC 257524 AgR, Relator(a) Ministro Flávio Dino, Primeira Turma, julgado em 12/8/2025, publicado em 18/8/2025).
+De qualquer modo, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Com relação à fixação da pena, o entendimento consolidado do Superior Tribunal de Justiça a reconhece como um ato de discricionariedade do julgador, que deve se orientar pelas particularidades do caso e pelas condições subjetivas do agente. Nesse sentido, a revisão da dosimetria por esta Corte somente se afigura possível nas hipóteses em que ficar caracterizado o desrespeito aos parâmetros legais ou, ainda, quando evidenciada uma desproporcionalidade flagrante.
+Ademais, impende salientar que o réu não detém direito subjetivo à aplicação de uma fração específica para a exasperação da pena-base por cada circunstância judicial sopesada negativamente (a exemplo dos critérios de 1/6 ou 1/8), bastando que o aumento implementado se revele proporcional.
+Ainda, com relação ao delito de tráfico de drogas, observa-se que, segundo o disposto no art. 42 da Lei n. 11.343/2006, o Juiz, por ocasião da fixação das penas, deverá necessariamente considerar, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância entorpecente, além da personalidade e da conduta social do agente.
+No caso em análise, o Tribunal de origem, corretamente, considerou desfavorável aos pacientes a quantidade e natureza das substâncias entorpecentes aprendidas - 2.298,2g de maconha e 398,8g de cocaína - exasperando as suas penas em 1/4 (um quarto) na primeira etapa da dosimetria, patamar que não se revela ilegal ou desproporcional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. DISCRICIONARIEDADE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+2. Uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, com fundamento nas circunstâncias do crime, nos maus antecedentes do acusado e na relevante quantidade de drogas - em consonância, aliás, com o disposto no art. 42 da Lei n. 11.343/2006 -, não há como esta Corte simplesmente se imiscuir no juízo discricionário feito pela instância de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, reduzir a reprimenda-base estabelecida ao acusado.
+3. Agravo regimental não provido.
+(AgRg no HC n. 898.677/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/5/2024, DJe de 16/5/2024.)
+(..)
+2. Na fase inicial da dosimetria do crime de tráfico, a pena foi acrescida em 1 ano e 8 meses por conta da natureza e da quantidade de drogas apreendidas (1,073 kg de maconha). Referido aumento foi devidamente justificado, tendo em vista a quantidade expressiva de droga apreendida, o que constitui fundamento concreto para o incremento da pena-base.
+(..)
+8. Agravo regimental desprovido.
+(AgRg no HC n. 802.312/AC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Quanto à terceira etapa da dosimetria, observa-se que o édito condenatório concluiu pela dedicação dos agentes às atividades criminosas não apenas com base na quantidade e natureza das drogas apreendidas, mas também pela localização de petrechos típicos da mercancia ilícita estruturada, tais como "caderno de anotação, três balanças digitais, um rolo de papel filme, um canivete e diversos papelotes contendo sedas" (fl. 57).
+Esse contexto fático foi considerado pelas instâncias ordinárias como indicativo da dedicação dos réus às atividades criminosas, circunstância que, de fato, afasta a incidência a minorante do art. 33, § 4º, da Lei n. 11.343/2006, sem que se fale na ocorrência de bis in idem. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. AGRAVO IMPROVIDO.
+1. A ocorrência do trânsito em julgado do ato objeto da impetração torna inviável a apreciação do pedido nesta instância superior.
+2. O habeas corpus não pode ser utilizado como substitutivo de revisão criminal, sob pena de configuração da supressão de instância, em desacordo com o que dispõe o art. 105, I, e, da Constituição Federal acerca das competências do Superior Tribunal de Justiça.
+3. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a exasperação da pena-base está amparada em fundamentos idôneos e a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 foi afastada em razão de se ter reconhecido que o agravante integra organização criminosa.
+4. A dinâmica fática observada, que envolveu multiplicidade de agentes, duas embarcações, equipamentos de mergulho, apetrechos para transporte dos sacos de entorpecente debaixo d"água e mergulhadores, evidencia se tratar de grupo especializado na prática delitiva.
+5. Conforme precedentes desta Corte Superior, " n ão ocorre bis in idem quando o julgador fixa a pena-base acima do mínimo legal em razão das circunstâncias do crime e da quantidade das drogas apreendidas e afasta o redutor do art. 33, § 4º, da Lei n. 11.343/2006 motivado pela dedicação do agente a atividades criminosas, evidenciada pelo modus operandi e pela quantidade e variedade dos entorpecentes apreendidos" (AgRg no AREsp n. 2.756.120/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025).
+6. Agravo regimental improvido.
+(AgRg no HC n. 982.519/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+O regime prisional inicial fechado também deve ser preservado pois em conformidade com o art. 33, §§ 2º e 3º do Código Penal. Exemplificativamente:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA DA PENA. TRÁFICO DE DROGAS. PENA-BASE PROPORCIONAL. REDUTOR DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO. REGIME PRISIONAL ADEQUADO. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+7. A fixação de regime prisional mais gravoso do que o permitido pela pena aplicada, no crime de tráfico de drogas, é legítima e fundamentada quando há valoração negativa da circunstância preponderante da quantidade e natureza das drogas (art. 42 da Lei nº 11.343/2006), bem como a presença de outras circunstâncias judiciais desfavoráveis, em conformidade com os artigos 33, §§ 2º e 3º, do Código Penal, e as Súmulas 440 do STJ e 718 e 719 do STF.
+8. A impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos decorre tanto da pena fixada quanto da valoração desfavorável de circunstâncias judiciais, como a natureza e a quantidade da substância entorpecente (art. 42 da Lei nº 11.343/2006), que revelam maior reprovabilidade da conduta e tornam a medida alternativa inadequada para a prevenção e reprovação do crime de tráfico.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental improvido.
+Tese de julgamento:
+1. A dosimetria da pena em crimes de tráfico de drogas deve observar a preponderância da quantidade e natureza das substâncias entorpecentes, conforme o art. 42 da Lei nº 11.343/2006.
+2. Os atos infracionais pretéritos podem ser utilizados para afastar o redutor do tráfico privilegiado, desde que devidamente fundamentados e próximos temporalmente ao delito.
+3. O regime inicial fechado pode ser fixado em razão da gravidade concreta do delito e das circunstâncias judiciais desfavoráveis, mesmo quando a pena-base é fixada no mínimo legal.
+Dispositivos relevantes citados: Lei nº 11.343/2006, art. 42; Código Penal, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada: STJ, EREsp 1916596/SP, Rel. Min. Joel Ilan Paciornik, Rel. p/ Acórdão Min. Laurita Vaz, Terceira Seção, julgado em 08.09.2021.
+(AgRg no AREsp n. 3.015.685/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/10/2025, DJEN de 15/10/2025; grifamos).
+Por fim, a substituição da pena corporal por restritivas de direitos é vedada pelo art. 44, inciso I, do Código Penal, que não permite que estas sejam aplicadas quando a reprimenda privativa de liberdade foi superior a 4 (quatro) anos.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
