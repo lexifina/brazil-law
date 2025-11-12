@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 06/11/2025 a 12/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos pelo Ministério Público Federal contra acórdão proferido pela Primeira Seção do Superior Tribunal de Justiça, que negou provimento ao conflito de competência. Eis a ementa do aresto (fl. 803):
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSO CIVIL E ADMINISTRATIVO. EMPREGADO PÚBLICO. PEDIDO DE REMOÇÃO. LEI N. 8.112/90. NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM. TEMA N. 1.143/STF.
+1. "Nos termos do entendimento do STF firmado no Tema n. 1.143 de Repercussão Geral, fixado no julgamento do RE n. 1.288.440, a natureza administrativa do direito suscitado, não fundamentado em normas trabalhistas, atrai a competência da Justiça Comum, ainda que a relação entre as partes seja contratual" (AgInt no CC n. 204.172/MG, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 2/9/2024, DJe de 4/9/2024.).
+2. Compete à Justiça Comum o julgamento de ação movida por servidora pública celetista vinculada à Empresa Brasileira de Serviços Hospitalares objetivando sua remoção com amparo no artigo 36, III, "b", da Lei n. 8.112/90, considerando-se a natureza administrativa do pleito.
+3. Agravo interno a que se nega provimento.
+Alega o embargante "contradição na aplicação do Tema nº 1.143/STF, omissão na falta de exame de elemento essencial para pacificação do conflito e erro material ao expor compreensão diversa do que possibilita o caso em exame".
+Aduz, em suma, que "não há relação estatutária ou vínculo jurídico-administrativo, mas a busca de uma interpretação estendida da Lei nº 8.112/90"; que "não é uma controvérsia eminentemente administrativa mas uma controvérsia nascida de uma relação de emprego"; e que "não há um cargo público, em regime estatutário, mas há um emprego público, com incidência do regime da CLT", a atrair a competência da Justiça do Trabalho.
+Ressalta, também, que "há um erro material e que contradita, como se expressa em omissão, ao se tratar uma remoção de empregada de empresa pública de personalidade jurídica de direito privado e que possui previsão no ordenamento próprio e com elo na Consolidação das Leis do Trabalho, do referido pedido, como se fosse possível simplesmente transpor para o ordenamento estatutário do servidor público federal".
+Assevera que "não se retirou a competência da Justiça do Trabalho, quando o Supremo Tribunal Federal, nos autos Recurso Extraordinário nº 688.267/CE com repercussão geral reconhecida (Tema 1.022)".
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, "com o intuito de ver corrigidos os vícios presentes no acórdão, e se reconhecer a competência da Justiça do Trabalho para a causa, pois a permanência dos autos de origem na jurisdição da Justiça especializada obedecerá ao normativo maior."
+Intimada, a Empresa Brasileira de Serviços Hospitalares apresentou impugnação (fls. 831-845), salientando que "compete à Justiça Comum julgar demandas relacionadas a empregados públicos quando eminentemente fundamentadas em matéria constitucional-administrativa (direito público)".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno , observa-se que foram analisadas fundamentadamente as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia, na linha da jurisprudência do Superior Tribunal de Justiça (nesse sentido: CC n. 203.657, Ministro Teodoro Silva Santos, DJEN de 29/05/2025; e CC n. 208.116, Ministro Sérgio Kukina, DJe de 25/09/2024).
+Confiram-se, por oportuno, os fundamentos do aresto ora embargado (fls. 807/ 808):
+Com o advento da Emenda Constitucional n. 45/2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+O Supremo Tribunal Federal, no entanto, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida para suspender qualquer interpretação do art. 114, I, da CF, alterado pela EC n. 45/2004, que atribuísse à Justiça do Trabalho a competência para apreciar as causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Seguindo essa linha de raciocínio, em julgamento realizado sob a sistemática da repercussão geral (Tema 1143), o STF decidiu que a Justiça Comum é competente para julgar ação ajuizada por empregado público celetista contra o Poder Público, em que se pleiteia parcela de natureza administrativa.
+(..)
+Conforme consignado na decisão ora agravada, da lavra do Ministro Herman Benjamin, a autora, servidora pública celetista vinculada à Empresa Brasileira de Serviços Hospitalares - EBSERH, requer sua remoção para a cidade de Goiânia, com amparo no artigo 36, III, "b", da Lei n. 8.112/90.
+Dessa forma, considerando-se que a natureza jurídica da causa de pedir e do pedido tem fundamento em norma estatutária e, nessa linha, o objeto da demanda tem natureza administrativa, a competência para julgamento do pleito é da Justiça Comum para julgar a presente ação.
+Pretende o embargante, inco nformado com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do do agravo interno e do conflito de competência, o que é inviável em embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
