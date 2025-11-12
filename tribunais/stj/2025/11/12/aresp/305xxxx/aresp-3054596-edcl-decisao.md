@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Embargos de Declaração interpostos por DAIANE GONÇALVES DA LUZ à decisão de que determinou a devolução dos autos ao TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, para que, após a publicação do acórdão paradigma, seja observada a sistemática dos Recursos Repetitivos, nos termos dos arts. 1.030 e 1.040 do CPC.
+Em suas razões, sustenta a parte embargante que a matéria discutida no Recurso Especial não se adequa ao Tema n. 1.378/STJ, porquanto;
+.. no processo em tela, não houve adoção cega ou automática da taxa média como parâmetro isolado. Ao contrário, a Corte de origem fez análise multifatorial, envolvendo a natureza adesiva do contrato, a desvantagem exagerada do consumidor (art. 51, §1º, do CDC), a ausência de justificativas da ré e o descumprimento do ônus probatório do art. 373, II, do CPC. A média do Bacen foi apenas um referencial auxiliar, utilizado como índice comparativo dentro de um contexto probatório mais amplo, mas jamais como critério único (fl. 1.282, grifos do original).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Assiste razão à parte embargante.
+Verifica-se que, apesar de suscitado o tema no Recurso Especial, não há controvérsia nesse ponto, porquanto a parte recorrente defende a mesma tese adotada pelo tribunal de origem - insuficiência quanto à utilização da taxa média do mercado como único critério para aferir a abusividade dos juros remuneratórios -, consoante trechos a seguir transcritos (destaques acrescidos):
+Recurso Especial:
+Isso porque, não obstante o entendimento consolidado pelo Superior Tribunal de Justiça, na decisão guerreada - assim como em diversas outras decisões proferidas pelo Poder Judiciário após as decisões do REsp 1.061.530/RS e do REsp 1821182/RS - incontroverso que o reconhecimento da abusividade do percentual da taxa de juros aplicado teve como ferramenta exclusiva para se aferir a suposta abusividade a "taxa média de mercado", bem como houve a definição do novo percentual a ser aplicado também com base na "taxa média de mercado", sem análise de quaisquer particularidades da contratação.
+Logo, por certo que a manutenção desse entendimento exarado pelas instâncias ordinárias, no sentido de utilizar-se da "taxa média de mercado" como ferramenta exclusiva para se aferir a suposta abusividade e como parâmetro para definição de um novo percentual supostamente mais adequado, possui relevância nos termos da Emenda Constitucional nº 125 de 14/07/2022, visto contrariar entendimento que restou consolidado junto ao Superior Tribunal de Justiça (fls. 945/946).
+Acórdão recorrido:
+Portanto, para a limitação dos juros remuneratórios, é necessária a análise da abusividade no caso concreto, conforme orientação firmada no julgado acima citado, a qual, inclusive, restou confirmada no julgamento do REsp n.º 1.821.182/RS.
+Na hipótese, mesmo que se admita a existência de maior risco de inadimplência nas operações realizadas pela apelante, envolvendo a concessão de créditos a clientes de alto risco, como alegado, não se justifica, na espécie, a cobrança de taxas de juros que são de quatro vezes até doze vezes superiores às taxas de mercado, conforme consulta realizada junto ao BACEN (Série "20742 - Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado" ) (fl. 762).
+Assim, a instituição financeira não logrou êxito em comprovar maior risco capaz de autorizar taxa de juros tão alta, como na espécie. Realmente, as taxas de juros cobradas nos contratos foram de quatro vezes até doze vezes superiores à taxa média de mercado.
+Portanto, a instituição financeira não cumpriu com o ônus, que lhe incumbia, de demonstrar a existência dos fatos impeditivos, modificativos ou extintivos do direito da autora (CPC, art. 373, II), no caso, as supostas variáveis que, segundo defende, justificam as taxas pactuadas.
+Dessarte, diante da abusividade verificada, decidiu com acerto a ilustre magistrada de primeiro grau ao limitar as taxas de juros à média de mercado (fl. 764).
+Observa-se que o motivo determinante para que o Tribunal a quo concluísse pela abusividade da taxa de juros remuneratórios com base na taxa média de mercado foi a ausência de prova quanto às peculiaridades da contratação (ou seja, os custos da transação, o contexto econômico da época, o perfil da contratante ou a existência de relação anterior entre as partes) e não por entender que esse seria o único critério suficiente para tanto.
+Nesse cenário, forçoso concluir pelo não enquadramento do feito no referido tema.
+Ante o exposto, acolho os Embargos de Declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada e determino a distribuição do processo em razão de a hipótese dos autos não se enquadrar nas atribuições da Presidência, previstas no art. 21-E do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+ EMENTA
