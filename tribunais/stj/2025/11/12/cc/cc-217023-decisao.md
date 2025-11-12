@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figuram, como suscitante o Tribunal de Justiça do Estado de Minas Gerais e, como suscitado, o Juízo Federal do Juizado Especial Cível e Criminal Adjunto à Vara de Viçosa - SJ/MG.
+Pelo que se infere das peças apresentadas, Reinaldo Ferreira do Nascimento ajuizou a presente ação objetivando a concessão de aposentadoria por invalidez ou, subsidiariamente, auxílio-doença ou auxílio-acidente.
+Ajuizado o feito perante a Justiça Federal esta declinou da competência para o Juízo Estadual ao entendimento de que o laudo pericial indicou existir nexo entre as patologias apresentadas e a atividade laboral.
+O feito foi sentenciado pelo juízo estadual de primeiro grau. Em sede de apelação, o Juízo suscitante entendeu que é da Justiça Federal a competência para julgar ações em que a petição inicial não menciona a ocorrência de acindente de trabalho.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+Nos termos do art. 109, I, da Constituição Federal, compete à Justiça Federal processar e julgar a causas nas quais o Instituto Nacional do Seguro Social - INSS (autarquia da União) figura como parte, seja na condição de autor, réu, assistente ou opoente.
+Acerca do assunto, destaco os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA ENTRE JUSTIÇA FEDERAL E TRABALHISTA. CONTRIBUIÇÕES PREVIDENCIÁRIAS RECOLHIDAS EM CUMPRIMENTO DE SENTENÇA TRABALHISTA. RESTITUIÇÃO DOS VALORES INDEVIDAMENTE PAGOS. ARTIGO 114 CF/88. INAPLICABILIDADE. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Com as alterações do art. 114 da CF/88, introduzidas pela Emenda Constitucional nº 45/04, ampliou-se a competência da Justiça do Trabalho, cabendo-lhe, inclusive, executar, de ofício, as "contribuições sociais previstas no art. 195, I, a, e II, e seus acréscimos legais, decorrentes das sentenças que proferir".
+2. Todavia, não se inclui na competência da Justiça Trabalhista processar e julgar ação de repetição de indébito tributário movida contra o Instituto Nacional do Seguro Social - INSS, ainda que o pagamento alegadamente indevido tenha sido efetuado como decorrência de sentença trabalhista.
+3. Compete à Justiça Federal processar e julgar a causa em que figurar a União, suas autarquias ou empresa pública federal na condição de autora, ré, assistente ou opoente (CF, art. 109, I).
+4. Conflito conhecido e declarada a competência do Juízo Federal do Juizado Especial Federal Previdenciário da Subseção Judiciária de Campo Grande - MS, o suscitado.
+(CC n. 98.476/MS, Relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 26/11/2008, DJe 9/12/2008.)
+PREVIDENCIÁRIO. COMPETÊNCIA. CONFLITO NEGATIVO. JUÍZO TRABALHISTA E JUÍZO FEDERAL. AÇÃO QUE OBJETIVA A PERCEPÇÃO DE APOSENTADORIA SEM O DESCONTO DA LEI 8.852/94 ("ABATE-TETO"). CAUSA DE NATUREZA PREVIDENCIÁRIA. ART. 109, I, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO JUÍZO FEDERAL.
+1. O caso em apreço é de natureza previdenciária, porque versa acerca dos descontos efetuados sobre os proventos da aposentadoria do autor, em razão da Lei 8.852/94. Precedente da Terceira Seção do STJ.
+2. Havendo no polo passivo da demanda o INSS  autarquia federal  , a competência é da Justiça Federal, nos termos da primeira parte do art. 109, I, da Constituição.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara da Seção Judiciária do Estado de Pernambuco, o suscitado.
+(CC n. 88.399/PE, Relator Ministro Arnaldo Esteves Lima, Terceira Seção, julgado em 26/5/2010, DJe 28/6/2010.)
+Conforme a jurisprudência sumulada do Superior Tribunal de Justiça (Súmula n. 15/STJ), a Justiça Estadual é competente para processar e julgar as demandas relativas a acidente de trabalho. Ainda de acordo com o entendimento dominante desta Corte Superior, a referida competência da Justiça Estadual abrange não apenas as lides que possuem como objeto a concessão de benefício previdenciário relativo a acidente do trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO E JULGAMENTO DAS DEMANDAS QUE VERSEM SOBRE CONCESSÃO E REVISÃO DE BENEFÍCIO DECORRENTE DE ACIDENTE LABORAL. SÚMULAS 15/STJ E 501/STF. COMPETÊNCIA FIXADA DE ACORDO COM O PEDIDO EXPRESSO NA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito. Súmulas 15/STJ e 501/STF.
+2. O teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição de competência decorre da verificação da causa de pedir e do pedido apresentados na inicial.
+3. Agravo Regimental do MINISTÉRIO PÚBLICO FEDERAL a que se nega provimento.
+(AgRg no CC n. 141.868/SP, Relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PEDIDO DE CONCESSÃO DE AUXÍLIO-ACIDENTE DECORRENTE DE ACIDENTE DE TRABALHO. SÚMULAS 15/STJ E 501/STF. CAUSA DE PEDIR. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Nos termos da jurisprudência dominante do Superior Tribunal de Justiça, é competência da Justiça Estadual processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício em razão de acidente de trabalho como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I, da Constituição Federal não fez nenhuma ressalva a este respeito.
+2. Nas ações que objetivam a concessão de benefício em decorrência de acidente de trabalho, a competência será determinada com base no pedido e causa de pedir. Precedentes do STJ.
+3. No caso dos autos, conforme se extrai da Petição Inicial, o pedido da presente ação é a concessão de benefício acidentário, tendo como causa de pedir a exposição ao agente nocivo ruído. Logo, a competência para processar e julgar a presente demanda é da Justiça estadual. Precedentes do STJ.
+4. Assim, caso o órgão julgador afaste a configuração do nexo causal, a hipótese é de improcedência do pleito de obtenção do benefício acidentário, e não de remessa à Justiça Federal. Nessa hipótese, caso entenda devido, pode a parte autora intentar nova ação no juízo competente para obter benefício não-acidentário, posto que diversos o pedido e a causa de pedir.
+5. Conflito de Competência conhecido para declarar competente para processar o feito a Justiça Estadual.
+(CC n. 152.002/MG, Relator Ministro Herman Benjamin, Primeira Seção, julgado em 22/11/2017, DJe 19/12/2017.)
+No caso dos autos, verificada que as lesões que acometem a parte autora decorrem de acidente de trabalho, a competência para julgamento da causa pertence a Justiça Estadual.
+Ante o exposto, com base no art. 955, parágrafo único, inciso I, do CPC/15, conheço do presente conflito para declarar competente para a causa a Justiça Estadual, e, sendo assim, determino o encaminhamento do feito ao Tribunal de Justiça do Estado de Minas Gerais para prosseguir no julgamento.
+Publique-se. Intimem-se.
+EMENTA
