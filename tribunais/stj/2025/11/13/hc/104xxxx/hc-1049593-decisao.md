@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CARLOS DANIEL SANTANA CHARUPA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Consta dos autos que o paciente foi preso em flagrante em 19/9/2025, convertida a custódia em preventiva, tendo sido denunciado pela suposta prática da conduta descrita no art. 33, caput, da Lei n. 11.343/06.
+O impetrante alega que a decisão que manteve a custódia carece de fundamentação concreta e individualizada, contrariando os arts. 312 e 315, § 2º, do CPP e o princípio da presunção de inocência.
+Aduz que a quantidade de droga não demonstra, por si só, risco efetivo à ordem pública, sendo insuficiente para justificar a medida extrema.
+Assevera que a suposta vinculação a atividade criminosa organizada repousa apenas em relato de corréu, sem elementos objetivos de corroboração.
+Afirma que o paciente é primário, tem bons antecedentes, residência fixa e ocupação lícita, circunstâncias que reforçam a desnecessidade e a desproporcionalidade da prisão.
+Defende que não houve exame adequado da suficiência das medidas cautelares do art. 319 do CPP, em violação ao art. 282, § 6º, do CPP.
+Pondera que precedentes dos Tribunais Superiores vedam a preventiva lastreada apenas na gravidade abstrata e na quantidade de entorpecentes.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a substituição da custódia por medidas cautelares alternativas.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Portanto, não se conhece da impetração.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A prisão cautelar foi assim fundamentada (fls. 24-25):
+Na hipótese dos autos, verifica-se pelas condições do delito, em especial pela natureza do crime, equiparado a hediondo, espécie e quantidade de substância apreendida (4 tabletes de maconha; totalizando 3.870g e 6 tabletes de maconha, totalizando 4.922g), conforme Laudo Preliminar acostado ao APF (f. 71-73), que há prova da materialidade.
+O contexto da apreensão descrito no APF indica envolvimento em atividade de traficância, com indícios suficientes de autoria, tendo o autuado sido, supostamente, flagrado com o entorpecente.
+Verifico que estão presentes os requisitos legais exigidos para a homologação do flagrante, estando o auto formalmente em ordem. Quanto ao mérito da prisão, constato que a materialidade delitiva está suficientemente comprovada pela apreensão de relevante quantidade de substância entorpecente no interior do veículo em que se encontravam os três conduzidos.
+Há, ainda, indícios suficientes de autoria, reforçados pelos depoimentos colhidos na fase preliminar da investigação, os quais indicam que os autuados tinham ciência e participação ativa na prática delitiva, inclusive com elementos que apontam para a destinação comercial da droga apreendida.
+Ressalto que se trata de crime equiparado a hediondo, de extrema gravidade, com expressiva repercussão social e grande potencial lesivo, o que justifica, por ora, a necessidade da prisão preventiva como forma de garantir a ordem pública e a aplicação da lei penal.
+ISTO POSTO, preenchidos os requisitos legais, HOMOLOGO o Auto de Prisão em Flagrante e, acolho a representação feita pela Autoridade Policial, e com o parecer favorável do Ministério Público, converto a prisão em flagrante delito em PRISÃO PREVENTIVA de CARLOS DANIEL SANTANA CHARUPA, nos termos do artigo 310, II, in fine, c.c artigos 312 e 313, do CPP.
+Assim consta do acórdão recorrido (fl. 15, grifei):
+Verifica-se dos autos que o paciente teria atuado, em tese, como condutor do veículo utilizado no transporte de cerca de 3,8 quilos de maconha, distribuídos em quatro tabletes destinados à revenda, na companhia de outros dois indivíduos.
+Além disso, na residência associada a um comparsa, foram apreendidos mais 4,9 quilos da mesma substância entorpecente, perfazendo o total aproximado de 9 quilos de droga.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 8,792 kg de maconha.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024 - grifo nosso.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
