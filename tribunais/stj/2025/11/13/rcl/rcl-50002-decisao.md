@@ -1,0 +1,15 @@
+DECISÃO
+A parte autora, FOLINA - COMÉRCIO DE MÓVEIS LTDA., propõe reclamação constitucional com pedido de liminar contra acórdão da 3ª Turma Recursal Cível de Porto Alegre do Rio Grande do Sul que, no julgamento do recurso do banco ITAÚ UNIBANCO S.A., reformou a sentença para afastar a responsabilidade objetiva da instituição financeira por fraude em boleto bancário.
+Descreve que realizou pagamento de boleto adulterado oriundo de conta da empresa com direcionamento indevido do valor a terceiro fraudador. Além disso, comunicou imediatamente ao banco, enviando a documentação solicitada .
+A sentença condenou o réu a restituir o valor de R$ 14.387,56, corrigidos pelo IGP-M desde o pagamento do boleto com juros moratórios desde a citação, sem custas e honorários, conforme o art. 55 da Lei n. 9.099/1995.
+Todavia, em grau recursal, a turma julgadora deu provimento ao recurso do banco, alegando fortuito externo. Registrou que, embora revel, a presunção de veracidade é relativa (arts. 344 e 345, IV, do CPC), que houve autenticação multifatorial e ausência de prova de emissão por canais oficiais, bem como que se trata de fato exclusivo de terceiro, nos termos do art. 14, § 3º, II, do CDC (fl. 7).
+A parte autora fundamenta o cabimento da reclamação no art. 105, I, f, da Constituição Federal, combinado com o art. 988, III, do CPC para preservar a competência do STJ e garantir a autoridade de suas decisões.
+Afirma violação da jurisprudência dominante do STJ, especialmente da Súmula n. 479. Invoca ainda precedente repetitivo no REsp n. 1.199.782/PR, relator Ministro Luis Felipe Salomão. Sustenta que a fraude em boleto bancário é risco previsível e inerente à atividade, configurando fortuito interno e atraindo a responsabilidade objetiva à luz do art. 14 do CDC.
+Requer, ao final, o recebimento e o processamento da reclamação e a concessão de medida liminar para suspender os efeitos do acórdão da turma recursal com restabelecimento da sentença.
+É o relatório. Decido.
+A Resolução STJ n. 12/2009, que regulava o cabimento de reclamação ao STJ em relação aos processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pela Emenda Regimental n. 22 de 16/3/2016.
+Na apreciação de questão de ordem suscitada no julgamento do AgRg na Rcl n. 18.506/SP, a Corte Especial do STJ aprovou a Resolução STJ n. 3/2016, a qual prevê que, a partir de 7 de abril de 2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para a apreciação das reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça.
+Assim, não mais subsiste a competência desta Corte para a apreciação da reclamação que, conforme acima destacado, é de incumbência do órgão próprio do Tribunal de origem.
+Ante o exposto, não conheço da reclamação e determino a remessa dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul, competente para o seu processamento.
+Publique-se. Intimem-se.
+EMENTA
