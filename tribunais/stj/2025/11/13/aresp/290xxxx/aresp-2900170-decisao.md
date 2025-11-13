@@ -1,0 +1,18 @@
+DECISÃO
+EDMILSON ALVES CAVALCANTE agrava da decisão que inadmitiu o recurso especial, interposto com base no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará na Apelação Criminal recebida como Recurso em Sentido Estrito n. 0269485-92.2022.8.06.0001.
+Consta dos autos que o agravante foi pronunciado pela prática, em tese, dos crimes previstos nos arts. 121, § 2º, IV, 155 e 304 do Código Penal e 14 da lei n. 10.826/2003.
+Nas razões do especial, a defesa requereu a absolvição do réu, com o reconhecimento da legítima defesa putativa ou, subsidiariamente, o reconhecimento da causa de diminuição de pena prevista no art. 121, § 1º, do CP. Ademais, pleiteou, "em seguida, a impronúncia do acusado ao tribunal do júri, pela desqualificação do crime para o homicídio culposo" (fl. 578).
+Apresentadas as contrarrazões, a Corte de origem não admitiu o recurso especial, o que ensejou a interposição deste agravo (fls. 599-604).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 638-639).
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+O recurso não deve ser conhecido por deficiência na sua fundamentação, a incidir o óbice da Súmula n. 284 do STF. O recorrente suscita a violação do art. 25 do Código Penal, o qual trata da legítima defesa. Todavia, a alegação formulada no especial é a de que "o acusado efetuou os disparos em sua legitima defesa imaginária ou legitima defesa putativa" (fl. 562), tese abarcada no art. 20, § 1º, do CP - o qual não foi indicado como infringido.
+Desse modo, verifico que os dispositivos apontados estão dissociados da tese formulada nas razões recursais e não têm força normativa para alterar as conclusões do acórdão recorrido.
+Aplica-se, portanto, a Súmula n. 284 do STF, pois o agravante "aponta dispositivos de lei que possuem comando legal dissociado das razões recursais a eles relacionadas, impossibilitando a compreensão da controvérsia" (AgRg no AREsp n. 1.156.144/GO, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 28/11/2017).
+Ilustrativamente: "A indicação de violação a dispositivo de lei federal dissociado das razões recursais implica em deficiência da fundamentação do apelo nobre, o que atrai a incidência do Enunciado n. 284 da Súmula do STF" (AgRg no AREsp n. 542.556/SC, Rel. Ministro Jorge Mussi, 5ª T., DJe 14/3/2018) e "A indicação de dispositivos legais supostamente violados pelo acórdão estadual, mas que não guardam relação com as razões de pedir, impede a compreensão do recurso especial e atrai a aplicação da Súmula n. 284 do STF" (AgRg no AREsp n. 718.217/ES, Rel. Ministro Rogerio Schietti, 6ª T., DJe 15/12/2017).
+Em relação aos pedidos subsidiários, o recorrente nem sequer indicou o dispositivo infraconstitucional supostamente violado.
+O recurso especial é modalidade recursal restritiva, de fundamentação vinculada e cuja devolutividade é limitada e tem, como pressuposto, a correta indicação do dispositivo legal tido por violado e a forma como tal ocorreu, uma vez que não cabe ao STJ presumir os dispositivos irrogados e, por consequência, os limites da matéria devolvida.
+Registre-se que a principal razão de existir do recurso especial é a uniformização da interpretação da lei federal. A solução do caso concreto é uma consequência decorrente dessa missão uniformizadora, e não a sua causa. Por isso, existem os rígidos requisitos de admissibilidade do REsp, os quais viabilizam o cumprimento de seu mister constitucional.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
