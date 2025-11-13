@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por EDUARDO VADILHO, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo , assim ementado (fl. 174):
+PROCESSUAL CIVIL. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE.
+PRESTAÇÃO DE INFORMAÇÃO ERRÔNEA PELO CONTRIBUINTE.
+1. É pacífico o entendimento no sentido de que "a imposição dos ônus processuais, no Direito Brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes" (STJ, REsp 642.107/PR, relator Ministro Luiz Fux, DJ: 29/11/2004).
+2. A exigência não se deveu a erro atribuível à Receita Federal, mas a equívoco praticado pelo apelante. Impõe-se, portanto, a manutenção da sentença.
+3. Apelo improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 196/204).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 90 do CPC. Sustenta, em resumo, que "No caso em apreço, a procedência do pedido decorreu de expresso reconhecimento da União, por meio da Receita Federal, quanto à inexigibilidade do débito fiscal discutido. Mencionada conduta configura verdadeira adesão da parte Recorrida à pretensão deduzida na petição inicial, caracterizando-se autêntica autocomposição do litígio  situação que, nos termos da legislação processual, dispensa o juiz de decidir o mérito da controvérsia, afastando, portanto, a aplicação do princípio da causalidade. Diante disso, não há que se falar em imposição de ônus sucumbenciais ao Recorrente com base no princípio da causalidade, sobretudo considerando que a própria origem do lançamento decorreu de erro da Administração Tributária" (fl. 212).
+Contrarrazões apresentadas às fls. 223/230.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO POR MORTE. COMPLEMENTAÇÃO. MATÉRIA CONSTITUCIONAL. REEXAME. INVIABILIDADE. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. O Tribunal de origem, com apoio nas disposições da Emenda Constitucional nº 103/2019, entendeu incabível a complementação da pensão por morte, aplicando ao caso o art. 37, § 15, da Constituição Federal. A revisão dessa fundamentação não compete ao STJ em sede de recurso especial.
+2. Ainda que fosse possível superar tal questão, a análise das alegações da recorrente seria inviabilizada pela Súmula 280 do STF, por demandar a análise de direito local, notadamente no ponto em que a pretensão recursal se fundamenta na Lei Estadual n. 4.819/1958 e na Lei Complementar Estadual n. 200/1974.
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.812.052/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2025, DJEN de 21/8/2025.)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 133, 134, 135, 136, 137 E 795, § 1º, DO CPC. INCIDÊNCIA DA SÚMULA N. 211/STJ. PRESCRIÇÃO PARA REDIRECIONAR A EXECUÇÃO FISCAL PARA O SÓCIO. ESCORREITA APLICAÇÃO DO TEMA N 444/STJ PELA CORTE DE ORIGEM. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - O Tribunal a quo apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão.
+II - Os arts. 133, 134, 135, 136, 137 e 795, § 1º, do CPC não estão prequestionados e não consta das razões do recurso especial alegação de omissão, devidamente fundamentada, sobre tais dispositivos. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - A Corte de origem concluiu que a execução fiscal foi ajuizada em tempo hábil, o Município foi atuante na perseguição de crédito tributário, buscando a efetiva citação da empresa executada e, após a citação da pessoa jurídica e antes do transcurso do lapso prescricional quinquenal, procurou redirecionar a execução fiscal para os sócios. Tal conclusão está em sintonia com a orientação consolidada nesta Corte no Tema n. 444/STJ.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 2.200.305/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/8/2025, DJEN de 15/8/2025.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
