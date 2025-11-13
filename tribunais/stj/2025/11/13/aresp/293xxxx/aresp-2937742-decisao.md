@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO ELVO ROBUSTI FILHO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO (fls. 326/329).
+Nas razões (fls. 337/356), narrou que, em primeira instância, foi condenado a 2 (dois) anos, 10 (dez) meses e 16 (dezesseis) dias de reclusão, em regime semiaberto, e a 14 (quatorze) dias-multa pela prática do crime do art. 2º-A, caput, da Lei 7.716/89. Relatou que, em julgamento de apelações interpostas pela defesa e pelo Ministério Público, o Tribunal de origem negou provimento à primeira e deu parcial provimento à segunda, para o fim majorar a pena para 3 (três) anos, 2 (dois) meses e 12 (doze) dias de reclusão, em regime inicial semiaberto, e 15 (quinze) dias-multa. Expôs que os embargos de declaração que opôs não foram acolhidos. Disse que o recurso especial não foi admitido, com base nas Súmulas nº 284 e 283, STF, e nº 7, STJ. Argumentou que as razões de recurso especial trouxeram fundamentação adequada e que especificaram no que consistiu a omissão no acórdão. Alegou que todos os fundamentos foram impugnados, bem como que não pretende reexaminar prova, mas apenas revalorar o quadro fático admitido pelo Tribunal de origem.
+Contraminuta nas fls. 388/392.
+O Ministério Público Federal opinou pelo conhecimento do agravo e não provimento do recurso especial (fls. 464/466).
+É o relatório. DECIDO.
+A decisão de inadmissão invocou os seguintes óbices: i) Súmula nº 284, STF; ii) Súmula nº 283, STF; iii) Súmula nº 7, STJ.
+Embora, objetivamente, o agravo tenha feito referência à Súmula nº 7, STJ, não a impugnou em substância.
+Para superar a Súmula nº 7, STJ, não basta apontar que não há pretensão de reexaminar provas, mas, sim, demonstrar, destacando trechos do acórdão, que, a partir do cenário fático, a discussão é somente jurídica.
+A esse respeito:
+"A impugnação ao óbice da Súmula n. 7 do STJ não pode ser feita de forma genérica, com a mera alegação de sua inaplicabilidade, mas sim, mediante a demonstração de que a tese do recurso especial está adstrita a fatos incontroversos, considerados no ato decisório atacado, de modo a permitir uma revaloração jurídica do acórdão proferido pelo Tribunal de Justiça  .. ".
+(AgRg no AREsp n. 2.799.537/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.).
+Embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tais quais descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador.
+A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)" (AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023)
+"Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.713.116/PI, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022)
+O agravo, porém, limita-se a discorrer sobre a Súmula nº 7 do STJ e a tecer considerações acerca da forma como deveria ser aplicada, sem qualquer demonstração analítica que evidencie concretamente os termos em que o cenário fático foi admitido pelo acórdão e, em sequência, a tese jurídica que se pretende discutir a partir dos dispositivos tidos por violados.
+Essa falha conduz à aplicação da Súmula nº 182, STJ, e ao não conhecimento do recurso.
+Nessa linha: "A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior" (AgRg no AREsp n. 2.956.824/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/8/2025, DJEN de 15/8/2025.).
+Acrescente-se que a decisão de inadmissão de recurso especial possui dispositivo único e não pode ser cindida em capítulos autônomos, o que reclama ataque efetivo, concreto e pormenorizado a cada um dos fundamentos invocados. Na ausência ou deficiência quanto a algum deles, o agravo como um todo não pode ser conhecido.
+A esse respeito:
+"A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial".
+(AgRg no AREsp n. 2.675.400/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 10/6/2025, DJEN de 16/6/2025.).
+Ante o exposto, não conheço do agravo (art. 253, parágrafo único, inciso I, do RISTJ).
+Publique-se. Intime-se.
+EMENTA
