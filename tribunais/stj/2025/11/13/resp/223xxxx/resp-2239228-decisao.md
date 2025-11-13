@@ -1,0 +1,61 @@
+DECISÃO
+Examina-se recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO CENTRO BRASILEIRA LTDA, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/TO.
+Recurso especial interposto em: 29/9/2025.
+Concluso ao gabinete em: 16/10/2025.
+Ação: de execução de título extrajudicial, ajuizada pela recorrente em face de LEANDRO FERNANDES ALVES.
+Sentença: homologou o acordo firmado entre as partes e, em razão do noticiado cumprimento integral da avença, julgou extinto o processo com resolução do mérito.
+Embargos de declaração: opostos pela recorrente, não foram conhecidos.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. HOMOLOGAÇÃO DE ACORDO. EXTINÇÃO DO PROCESSO. MANIFESTAÇÃO EXPRESSA DE CUMPRIMENTO INTEGRAL. ALEGAÇÃO POSTERIOR DE ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO. COISA JULGADA FORMADA. NECESSIDADE DE AÇÃO PRÓPRIA. PRINCÍPIO DA BOA-FÉ OBJETIVA. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. O acordo firmado entre as partes que compõem a lide com o fim de por termo à demanda constitui negócio jurídico irretratável, que somente pode ser invalidado em ação anulatória própria, se provada à celebração mediante dolo, coação ou erro essencial.
+2. Os atos de disposição de direitos, praticados pelas partes ou por outros participantes do processo e homologados pelo juízo, bem como os atos homologatórios praticados no curso da execução, estão sujeitos à anulação, nos termos da lei, consoante art. 966, § 4º, do Código de Processo Civil.
+3. Em consonância com o artigo 840, do Código Civil, que estabelece que a transação tem por objetivo findar uma controvérsia por intermédio de concessões recíprocas, o arcabouço normativo sobre o qual se constitui a transação não permite um juízo de valor subsequente com vistas a verificar se a autocomposição foi um bom ou um mau negócio, mas apenas para verificar se houve ou não defeito ou vício aptos a anular o negócio jurídico.
+4. Ainda que se reconhecesse o erro material alegado, seria necessário o manejo da ação própria para rescindir a sentença, não podendo ser corrigido pela via estreita da apelação.
+5. Recurso conhecido e desprovido. Sentença Mantida.
+Embargos de declaração: opostos pela recorrente, foram parcialmente acolhidos, apenas para excluir a majoração dos honorários recursais.
+Recurso especial: aponta violação aos arts. 373, II, 489, § 1º, 924, II, e 1.022, II, do CPC e 93, IX, da CF.
+Além da negativa de prestação jurisdicional, sustenta que cabe ao devedor comprovar a quitação, não podendo a parte credora ser compelida a produzir prova negativa, bem como que, em sede de execução ou cumprimento de sentença, compete ao devedor demonstrar o adimplemento da obrigação, sob pena de prosseguimento do feito executivo.
+Afirma que o art. 924, II, do CPC expressamente condiciona a extinção da execução ao cumprimento da obrigação e que não havendo prova do pagamento integral, não poderia o feito ter sido extinto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal
+A parte recorrente aponta suposta violação ao art. 93, IX, da CF.
+Entretanto, a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+Nesse sentido: EDcl no REsp 1.726.563/SP, Segunda Seção, DJe 27/9/2019; REsp 1.979.120/SP, Terceira Turma, DJe 13/5/2022; AgInt no REsp 1.232.631/RJ, Quarta Turma, DJe 24/6/2022; AgInt no REsp 1.878.129/RS, Quarta Turma, DJe 8/4/2022.
+Logo, quanto ao ponto, o recurso não merece ser admitido.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, Terceira Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, Quarta Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do suposto pontos omisso, no que se refere à extinção da ação, de modo que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC incidindo, quanto ao ponto a Súmula 568/STJ.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Além disso, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Segunda Turma, DJe 21/6/2016). No mesmo sentido: AgInt nos EDcl no AREsp 1.547.208/SP, Terceira Turma, DJe 19/12/2019 e AgInt no AREsp 1.480.314/RJ, Quarta Turma, DJe 19/12/2019.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos arts. 373, II, do CPC, indicado como violado, restando ausente o devido prequestionamento, o que atrai a aplicação da Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+Outrossim, da leitura das razões recursais, constata-se que a recorrente não impugnou, de maneira específica e consistente, os seguintes fundamentos do acórdão recorrido:
+"A sentença de origem baseou-se em manifestação expressa da própria apelante, que informou o cumprimento integral do acordo. Tal petição foi clara ao requerer a baixa dos autos, implicando reconhecimento de quitação e extinção da obrigação.
+No caso, a própria cooperativa, de forma espontânea e inequívoca, manifestou nos autos (evento 43) o cumprimento integral do acordo.
+O acordo firmado entre as partes que compõem a lide, com o fim de por termo à demanda constitui negócio jurídico irretratável, que somente pode ser invalidado em ação anulatória própria, se provada à celebração mediante dolo, coação ou erro essencial.
+Nestes termos, consigno que os atos de disposição de direitos, praticados pelas partes ou por outros participantes do processo e homologados pelo juízo, bem como os atos homologatórios praticados no curso da execução, estão sujeitos à anulação, nos termos da lei, consoante art. 966, §4º, do Código de Processo Civil.
+Portanto, após a homologação, só é possível revogar o acordo pela via processual adequada e desde que comprovada à presença de vícios do art. 849, do Código Civil, se demonstrada a existência de dolo, coação ou erro essencial, sequer admitindo-se a possibilidade de que tal decorra de "erro de direito a respeito das questões que foram objeto de controvérsia entre as partes", nos termos do parágrafo único do aludido dispositivo.
+Ademais, em consonância com o próprio artigo 840, do Código Civil, que estabelece que a transação tem por objetivo findar uma controvérsia por intermédio de concessões recíprocas, o arcabouço normativo sobre o qual se constitui a transação não permite um juízo de valor subsequente com vistas a verificar se a autocomposição foi um bom ou um mau negócio, mas apenas para verificar se houve ou não defeito ou vício aptos a anular o negócio jurídico.
+(..)
+Não cabe, após a homologação da transação e formação da coisa julgada, rediscutir matéria de fato, especialmente sem a juntada de provas robustas que comprovem o suposto descumprimento.
+Ainda que se reconhecesse o erro material alegado, seria necessário o manejo da ação própria para rescindir a sentença, não podendo ser corrigido pela via estreita da apelação." (e-STJ fls. 249/251)
+E do acórdão do recurso integrativo:
+"Após análise detida do acórdão embargado, verifica-se que não há omissões ou obscuridades quanto à fundamentação relativa ao mérito. O voto condutor apreciou de maneira clara e suficiente os fundamentos necessários à manutenção da sentença que reconheceu o cumprimento integral do acordo, com base na manifestação espontânea da própria exequente, resultando na extinção do processo e na consequente formação de coisa julgada.
+O voto condutor enfrentou de forma clara e suficiente todas as matérias relevantes para o deslinde da controvérsia, notadamente ao destacar que a própria embargante reconheceu expressamente, em petição protocolada nos autos, o cumprimento integral do acordo, solicitando inclusive a baixa da execução. Tais fatos foram decisivos para a homologação da transação e extinção do feito com resolução de mérito, gerando os efeitos da coisa julgada material,
+A alegação de impossibilidade de prova negativa tampouco prospera. Caberia à embargante demonstrar o suposto inadimplemento alegado por meio de documentação mínima, o que não se deu. O acórdão deixou claro que, diante da manifestação inequívoca de quitação, eventual revisão da transação só pode ocorrer pela via da ação rescisória ou anulatória própria, nos moldes dos arts. 966, §4º, e 849 do Código Civil." (e-STJ fl. 268)
+Desse modo, deve-se manter o decidido pelo Tribunal de origem, ante a incidência, na espécie, da Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF.
+1. Ação de execução de título extrajudicial.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+3. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
