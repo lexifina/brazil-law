@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado por VIVALDO DA COSTA RAMOS JÚNIOR (em causa própria) contra ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Apelação Criminal n. 1.0000.24.246045-9/001).
+Consta dos autos que o paciente foi condenado pelo crime de denunciação caluniosa (art. 339 do Código Penal) à pena de 2 (dois) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime fechado, e 12 (doze) dias-multa. A referida condenação foi mantida pelo Tribunal de Justiça do Estado de Minas Gerais (TJMG).
+Neste writ, sustenta que encontra-se na iminência de ter sua liberdade cerceada de forma ilegal e injusta, configurando, no seu entender, o constrangimento ilegal.
+Alega que a condenação se baseou em provas manifestamente ilícitas e em grave violação a princípios constitucionais e prerrogativas profissionais com a utilização de depoimento extrajudicial de advogado que, em juízo, invocou o sigilo profissional, bem como a desconsideração do direito ao silêncio do paciente.
+Requer, inclusive liminarmente, suspender os efeitos do acórdão proferido pelo TJMG. Ao final, que seja concedida a ordem de habeas corpus, confirmando-se a liminar pleiteada, para declarar a nulidade do processo.
+É o relatório. DECIDO.
+No caso, o presente habeas corpus não comporta sequer conhecimento, em razão da reiteração de pedidos no HC n. 1.048.836/MG e HC n. 1.046.566/MG, ambos estando com seus pedidos de liminar indeferidos e aguardando as informações.
+Diante desse cenário, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a reiteração de pedidos, o seguinte julgado deste STJ:
+No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017) (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+H ipótese, inclusive, que ocorre até mesmo quando a reiteração de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
