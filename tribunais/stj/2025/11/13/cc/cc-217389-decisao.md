@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre TIAGO BIZARI, suscitante, o JUÍZO FEDERAL DA VARA DE SÃO JOSÉ DO RIO PRETO - SJ/SP e o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL E ANEXO DA INFÂNCIA E DA JUVENTUDE DE PARQUE DAS AMÉRICAS - SP, suscitados.
+O suscitante afirma ser corréu na Ação n. 1005196-52.2025.8.26.0132, derivada do Procedimento Investigatório Criminal n. 94.0565.0000057/2021-1, instaurado pelo Grupo de Atuação Especial de Combate do Crime Organizado - GAECO do Estado de São Paulo para apurar supostos desvios de recursos vinculados à Organização Social de Saúde Mahatma Gandhi.
+Alega que as verbas investigadas incluem recursos federais do Sistema Único de Saúde - SUS e do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, sujeitos à fiscalização direta do Ministério da Saúde e do Fundo Nacional de Desenvolvimento da Educação - FNDE.
+Defende a nulidade do procedimento investigatório criminal mencionado, pois ele teria sido instaurado pelo Ministério Público do Estado de São Paulo, que não possuiria atribuições para investigar desvio de verbas federais do SUS e do FUNDEB, e a nulidade de todos os atos e decisões derivados do procedimento investigatório em questão.
+Ao final, requer: i) a concessão de liminar para suspender a Ação n. 1005196- 52.2025.8.26.0132, em trâmite na 2ª Vara Criminal de Catanduva/SP, até decisão final deste conflito; ii) o reconhecimento da competência da Justiça Federal para processar e julgar o processo; e iii) a anulação dos atos investigatórios decorrentes do PIC n. 94.0565.0000057/2021-1, instaurado pelo Ministério Público do Estado de São Paulo.
+É o relatório. DECIDO.
+De acordo com o art. 114 do Código de Processo Penal, haverá conflito de competência quando dois ou mais juízos se considerarem competentes ou incompetentes para conhecer do mesmo fato criminoso.
+No caso dos autos, em nova análise dos documentos encaminhados, verifica-se que o suscitante não juntou decisão do Juízo Federal da Vara de São José do Rio Preto - SJ/SP, de maneira que não há manifestação de ao menos dois juízos vinculados a tribunais diversos.
+Assim, o dissenso não está instaurado e, por tal razão, não existe conflito a ser dirimido pelo Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal. Nesse sentido:
+"Nos termos do art. 114 do Código de Processo Penal, a configuração do conflito de competência, positivo ou negativo, reclama a manifestação de duas ou mais autoridades judiciárias declarando-se competentes ou incompetentes para o julgamento do feito, situação que não ocorre na espécie." (AgRg no CC n. 186.653/SP, Terceira Seção, Rel Min. Antonio Saldanha Palheiro, DJe de 24/8/2022)
+Ante o exposto, não conheço o conflito de competência.
+Publique-se. Intimem -se.
+EMENTA
