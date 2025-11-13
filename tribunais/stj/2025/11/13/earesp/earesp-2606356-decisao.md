@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por SARLIDEI PENA MACHADO contra acórdão prolatado assim ementado (fl. 350):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO DE BUSCA E APREENSÃO. CUMPRIMENTO DE SENTENÇA. INADIMPLEMENTO DA OBRIGAÇÃO DE FAZER. MULTA DIÁRIA. PRÉVIA INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. INCIDÊNCIA DA SÚMULA N. 410 DO STJ. ENUNCIADO COMPATÍVEL COM O NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é firme no sentido de ser necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer, incidindo, no caso, a Súmula nº 410 do STJ.
+2. Agravo interno não provido.
+A parte embargante suscita divergência sobre a necessidade de prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Indica, para fins de confronto, os seguintes paradigmas oriundos da Segunda Turma: REsp n. 1.727.034/SP e AgInt no REsp n. 1.604.605/MG.
+Sustenta que o novo Código de Processo Civil traz regramento específico para tratar do cumprimento de sentença, prevendo, em seu art. 513, § 2º, I, que o devedor será intimado para cumprir a sentença pelo Diário da Justiça na pessoa de seu advogado. Aduz que foi superada a aplicabilidade da Súmula n. 410 do STJ e que, no caso, houve a devida intimação do embargado na pessoa de seu advogado.
+É o relatório. Decido.
+Os presentes embargos de divergência não ultrapassam o juízo de admissibilidade.
+Verifica-se que a parte embargante não se desincumbiu do necessário cotejo analítico entre os arestos confrontados, hábil a demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, limitando-se a transcrever as ementas dos paradigmas. Assim, foi descumprido o disposto no § 4º do art. 1.043 do CPC e no § 4º do art. 266 do RISTJ.
+Além disso, os paradigmas colacionados não viabilizam a divergência pretendida, visto que foram prolatados à luz do CPC de 1973. Ocorre que "cada Código possui sistematização legal própria, que envolve a aplicação de artigos, exceções e princípios específicos. Em tal contexto, uma norma legal não é interpretada isoladamente, devendo-se considerar o arcabouço jurídico inserido em cada diploma civil. Portanto, não há como considerar semelhantes acórdãos que foram proferidos à luz de códigos diversos" (AgInt nos EREsp n. 1.642.331/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 1º/12/2020, DJe de 9/12/2020).
+Ademais, há julgado recente da Segunda Turma em que externa o mesmo entendimento do acórdão embargado, a revelar a inexistência de divergência entre os órgãos fracionários a ser sanada no âmbito de embargos de divergência. Trata-se do AgInt no REsp n. 1.829.008/RJ (relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024), de cuja ementa se extrai:
+IV - Em obter dictum, convém acentuar que o aresto proferido pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte no sentido de que termo a quo para fluência de multa diária é a data da intimação pessoal do devedor para o cumprimento da obrigação. Precedentes.
+Ante o exposto, inadmito os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
