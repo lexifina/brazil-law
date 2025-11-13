@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARCOS ANTONIO ALMEIDA SANTOS à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Não obstante o afinco e destreza do culto Julgador ao apreciar este pleito, mas entende o Embargante que o v. acórdão/decisão não andou bem neste particular, haja vista, que a decisão encontra-se equivocada as ocorrências processuais e a peça recursal apresentada, isso porque, houve sim a correta indicação do permissivo constitucional autorizador do recurso especial, ademais, houve também a devida indicação do dispositivo violado, permitindo-se assim, a exata compreensão da controvérsia, inclusive, restou devidamente demonstrado a possibilidade do recurso interposto.
+ ..
+Não obstante o afinco e destreza do culto Julgador ao apreciar este pleito, mas entende o Embargante que o v. acórdão/decisão não andou bem neste particular, haja vista, que a decisão encontra-se equivocada as ocorrências processuais e a peça recursal apresentada, isso porque, restou plenamente comprovado que é inaplicável ao caso a disposição da Súmula 7 do STJ, posto que, nitidamente não incide no presente caso a necessidade do revolvimento de provas/fatos, já que o objeto do Recurso Especial interposto pelo Embargante é apenas a análise do direito violado da Recorrente, ou seja, a reparação pelos danos morais e materiais causados ao Embargante pela Embargada, aplicando os dispositivos de Lei Federal supramencionados, diante dos fatos incontroversos nos autos. (fls. 1.083-1.085).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, escorreito o decisum ora atacado, porquanto a parte ora embargante, nas razões do apelo nobre, deixou de indicar, especificamente, o permissivo constitucional, o que ensejou a incidência da Súmula n. 284/STF, ante a sua deficiência de fundamentação.
+Além disso, para que pudessem ser analisados os argumentos suscitados nas razões do recurso especial, notadamente a respeito da ausência do direito de indenizar, apresentados em suas controvérsias, necessária, obrigatoriamente, a reapreciação dos elementos fáticos-probatórios dos autos, o que é vedado nesta instância especial, conforme previsão da Súmula n. 7/STJ.
+Ainda, não cabe a esta Corte Superior o exame de malferimento de dispositivos elencados na Constituição Federal, pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
