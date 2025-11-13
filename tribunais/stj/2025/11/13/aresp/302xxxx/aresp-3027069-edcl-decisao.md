@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por BAYER S.A. à decisão de fls. 680/681, que não conheceu do recurso.
+Sustenta a parte embargante:
+5. Com efeito, o Agravo em Recurso Especial consta às fls. e-STJ FL. 558/576, tendo sido interposto pelo Dr. Gabriel Alves Coimbra de Resende. E o referido recurso foi instruído com a cadeia de poderes conferidos aos seus atuais patronos, tendo sido apresentada, naquela oportunidade, a Ata da Assembleia Geral Extraordinária que consolidou o Estatuto Social da Bayer (e-STJ FL. 578/593), o instrumento de procuração em que os diretores da Bayer conferem poderes aos seus advogados internos (e-STJ FL. 595/603), e o instrumento de substabelecimento em que a Dra. Gabriela Cidreira, advogada interna da Bayer, substabelece, com reserva de iguais, os poderes conferidos a ela aos seus atuais patronos, dentre eles, o Dr. Gabriel Coimbra de Resende (e-STJ Fl. 604).
+6. Tanto é assim que os antigos patronos da Bayer interpuseram o Agravo em Recurso Especial de fls. e-STL Fl. 609/617, este sido interposto pelo Dr. Rodrigo Ferrari Iaquinta, sendo que, após isso, requereram a desconsideração do recurso interposto às fls. e-STJ FL.618.
+7. Os atuais patronos da Bayer esclareceram, em petição e documento de e-STJ FL. 619/623, que a Bayer revogou os poderes dos seus antigos patronos, razão pela qual requereu o desentranhamento do Agravo em Recurso Especial de fls. STL Fl. 609/617.
+8. Desta maneira, a Bayer interpôs o Agravo em Recurso Especial de fls. e-STJ FL. 558/576, estando devidamente representada no referido recurso. Prova disso é que a Certidão para Saneamento de Óbices de fls. e-STJ 643 intimou a Bayer a regularizar a sua representação processual no Recurso Especial, e não no Agravo em Recurso Especial (fl. 687).
+ ..
+15. Ainda, por meio da referida manifestação de e-STJ Fl.647/648, a Embargante ratificou expressamente os termos do Recurso Especial anteriormente interposto às fls. STJ Fl.518/526, suprindo a irregularidade apontada pela certidão de fls. e-STJ Fl.643 e sanando integralmente os óbices relativos à sua representação processual no Recurso Especial.
+16. Cumpre esclarecer que, na oportunidade em que foi intimada a apresentar os poderes do subscritor do Recurso Especial, qual seja, do Dr. Rodrigo Ferrari Iaquinta, a Embargante não tinha como conferir poderes a ele, na medida em que, após a interposição do Recurso Especial, os seus poderes foram revogados, conforme comunicação de fls. E. STJ 621/623.
+17. Contudo, ao ser intimada para regularizar a sua representação processual no Recurso Especial, a Embargante, através dos seus atuais patronos, que tinham poderes para tanto, ratificaram os termos do Recurso Especial, de maneira que a deficiência em sua representação processual foi sanada (fls. 688/689).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Os embargos merecem ser parcialmente acolhidos.
+No caso, quanto à representação processual do Agravo em Recurso Especial, assiste razão à parte, porquanto o subscritor do referido recurso (fls. 558/576) é, de fato, o Dr. Gabriel Alves Coimbra de Resende e não o Dr. Rodrigo Ferrari Iaquinta, como constou na decisão ora embargada.
+Sendo assim, verifica-se que a cadeia de representação processual do Agravo se encontra completa às fls. 595/599 e 604.
+No entanto, no que se refere à representação do Recurso Especial, correta a decisão embargada.
+Impende ressaltar que, em se tratando de procuração ao subscritor do Recurso Especial, a regular cadeia de representação deveria estar demonstrada no momento da apresentação do referidos recurso, o que não aconteceu no caso concreto.
+Porém, o Código de Processo Civil abre a possibilidade de regularização posterior do vício de representação, nos termos do art. 76 do Código de Processo Civil.
+Diante dessa premissa, foi percebido, nesta Corte, que o subscritor do recurso especial, Dr. RODRIGO FERRARI IAQUINTA, não tinha procuração nos autos, razão pela qual houve a intimação da parte embargante para que o referido vício fosse sanado (fl. 643).
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar o saneamento, a parte apenas trouxe a petição de fls. 647/677, em que junta aos autos procuração e substabelecimento, já existentes nos autos, que não trazem o nome do causídico, subscritor originário, em nenhum dos documentos carreados. Assim, não houve a devida regularização do feito.
+Observe-se que não basta, na petição de regularização, que a parte traga nova procuração, de advogados diversos dos subscritores anteriores, ratificando o ato processual pretérito. Essa providência é insuficiente, uma vez que trata de ratificação desconexa com os atos anteriores.
+É vital perceber que a ratificação não é propriamente a realização de um novo ato, ignorando-se o ato que já foi praticado. Ratificar significa confirmar, reafirmar o que foi dito.
+Dessa forma, a abertura de prazo para regularização da representação do subscritor do recurso, nesta instância especial, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, bem como nos ditames da interpretação conjunta da Súmula n. 115/STJ, tem razão de ser no sentido de que a ratificação possível, nos termos da intimação para trazer aos autos a procuração dos subscritores anteriores, é uma complementação, uma reiteração de uma vontade já manifestada, uma confirmação do ato anteriormente praticado.
+A possibilidade de saneamento, da correção de um defeito, não pode ignorar o ato já praticado, mas, ao contrário, tem que oportunizar a ratificação desse ato. Nesse sentido, a intimação para regularização é expressa no sentido de que se traga aos autos a procuração dos subscritores originais, porquanto o marco processual, que se leva em consideração para fins de verificação de regularidade da representação processual, é o momento da interposição do recurso.
+Desse modo, a regularização da representação processual que se considera válida deve guardar pertinência com o subscritores originários, não bastando a mera ratificação por outros procuradores.
+Portanto, tendo em vista que a representação do Recurso Especial não foi devidamente regularizada, correta a aplicação da Súmula n. 115 /STJ.
+Ante o exposto, acolho parcialmente os Embargos de Declaração apenas para afastar a irregularidade da representação processual do Agravo em Recurso Especial mantendo, porém, o não conhecimento do recurso nos termos acima expostos (art. 21-E do RISTJ).
+Publique-se.
+Intimem-se.
+ EMENTA
