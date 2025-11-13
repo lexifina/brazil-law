@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da simples referência aos dispositivos legais e da incidência da Súmula n. 7 do STJ (fls. 102-103).
+O acórdão recorrido encontra-se assim ementado (fl. 34):
+AGRAVO DE INSTRUMENTO. Ação declaratória de inexigibilidade de débito. Decisão que afasta a nulidade da citação e intempestividade da contestação. Inconformismo do requerido. Alegação de alteração de endereço e de complicações de saúde decorrente da COVID-19. Desacolhimento. Regularidade da citação no endereço constante do contrato social da empresa arquivado na Junta Comercial. Citação recebida sem qualquer ressalva. Nulidade não configurada. Aplicação do artigo 248, 2º, do Código de Processo Civil. Causídico que integra sociedade de advogados. Atestado médico de três dias por conta de cefaleia que não comprova impossibilidade de apresentação de defesa ou de substabelecimento de mandato. Manutenção da decisão combatida. RECURSO IMPROVIDO.
+Nas razões do recurso especial (fls. 42-73), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+i) art. 223 do CPC, pois "o patrono da causa foi (i) acometido de uma doença temporária incapacitante; (ii) que o impediu de atuar neste caso em específico, (iii) o qual tinha prazo escoando um dia depois de ficar acamado e em tratamento e, (iv) como demonstração da justa causa, apresentou atestado médico, assinado por profissional devidamente" (fl. 57); e
+ii) arts. 239 e 248, § 4º do CPC, diante de nulidade de citação, uma vez que realizada em endereço desatualizado e recebida "por recepcionista do prédio na anterior sede da recorrente", sem nenhum vínculo com a parte (fl. 66).
+No agravo (fls. 106-136), com pedido de efeito suspensivo, afirma a presença dos requisitos de admissibilidade do especial. Acrescenta ainda a ofensa ao art. 5º, LV, da Constituição Federal, pois, "ao não reconhecer a justa causa e, mais grave, ao não valorizar a defesa já apresentada, o juízo de origem aniquilou a própria função do advogado no processo, tratando a revelia como um fim em si mesmo, mesmo diante de demonstração documental de impedimento legítimo" (fl. 127).
+Contraminuta não apresentada (fls. 78-95 e 142-153).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No caso, trata-se inclusive de matéria preclusa, deduzida somente nas razões do agravo em recurso especial, o que reforça o não conhecimento da tese de ofensa ao art. 5º, LV, da CF/1988.
+No tocante às demais teses, ressalto que o agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 544, § 4º, I, do CPC/1973 e art. 932, III, do CPC/2015) e da aplicação, por analogia, da Súmula n. 182/STJ.
+No caso, o TJSP inadmitiu o recurso especial, no qual se alegava a justa causa para afastar a intempestividade da contestação (art. 223 do CPC) e a nulidade de citação (arts. 239 e 248, § 4º do CPC), com base nos mesmos fundamentos, a saber, referência genérica aos dispositivos legais violados e incidência da Súmula n. 7 do STJ (fls. 102-103):
+Violação aos arts. 239, 248 e 223, §§ 1º e 2º, do CPC:
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão.
+Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial" (Agravo em Recurso Especial 1871253/DF, Relator Ministro Marco Buzzi, in D Je de 09.08.2022).
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+III. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC, ficando, em consequência, prejudicado o pretendido efeito suspensivo.
+Nas razões do agravo, contudo, a parte refuta exclusivamente os referidos óbices em alusão o art. 223 do CPC, deixando de impugná-los à luz da nulidade de citação (arts. 239 e 248, § 4º do CPC) .
+Assim, aplica-se, por analogia, da Súmula n. 182 desta Corte, diante da jurisprudência segundo a qual, "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 746.775/PR, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018), o que não ocorreu.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
+EMENTA
