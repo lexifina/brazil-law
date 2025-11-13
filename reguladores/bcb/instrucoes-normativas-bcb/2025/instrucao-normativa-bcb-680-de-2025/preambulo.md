@@ -1,0 +1,4 @@
+​INSTRUÇÃO NORMATIVA BCB Nº 680, DE 11 DE NOVEMBRO DE 2025
+Estabelece procedimentos para a prestação de informações relativas aos recursos à vista captados por confederações de cooperativas centrais de crédito, cooperativas centrais de crédito e cooperativas singulares de crédito, para fins de apuração da base de cálculo da exigibilidade dos Recursos Obrigatórios, de que trata a Seção 2 (Obrigatórios), do Capítulo 6 (Recursos), do Manual do Crédito Rural (MCR).
+O Chefe do Departamento de Regulação, Supervisão e Controle das Operações do Crédito Rural e do Proagro – Derop, e o Chefe do Departamento de Operações Bancárias e de Sistema de Pagamentos – Deban, no uso das atribuições que lhes confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em conta as disposições da Resolução CMN nº 5.216, de 22 de maio de 2025,
+R E S O L V E M :
