@@ -1,0 +1,25 @@
+DECISÃO
+SEBASTIÃO RAIDAN DA CONCEIÇÃO agrava da decisão que inadmitiu o recurso especial, interposto com base no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n. 0804745-72.2023.8.19.0068.
+Consta dos autos que o agravante foi condenado a 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal.
+Apresentadas as contrarrazões, a Corte de origem não admitiu o recurso especial, o que ensejou a interposição deste agravo (fls. 164-167).
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 514-520).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No caso, a Corte estadual inadmitiu o recurso especial com base no óbice da Súmula n. 284 do Supremo Tribunal Federal e falta de procuração outorgada ao advogado que subscreve as respectivas razões, nos termos da Súmula n. 115 deste Superior Tribunal. Contudo, o agravante nada tratou sobre o primeiro impedimento acima referido.
+Portanto, verifica-se que o agravante não rebateu, com particularidade, o óbice de admissão do REsp. Assim, é inegável que a defesa não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Ainda que assim não fosse, depreende-se dos autos que o recorrente não procedeu, no ato de interposição do recurso endereçado a este Superior Tribunal, à juntada de procuração para o fim de demonstrar os poderes do advogado, Dr. Thiago Souza Carvalho Rosa e Silva. Depois de inadmitido o recurso, a parte juntou o instrumento de mandato de fl. 137, por meio do qual foram outorgados poderes ao subscritor da irresignação em data posterior à sua interposição. Dessa forma, está correta a incidência da Súmula n. 115 do STJ.
+De fato, esta Corte já assentou o entendimento de que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes haja sido efetuada em data anterior à da interposição do recurso (AgInt no REsp n. 2.091.118/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PROCURAÇÃO OU SUBSTABELECIMENTO CONFERIDO AO CAUSÍDICO EM DATA POSTERIOR À INTERPOSIÇÃO DO RECURSO. IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. CONFIGURAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é consolidada no sentido de que "para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso" (AgRg no AREsp 2465065/SP. Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 21/11/2023, DJe de 21/12/2023). Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.455.628/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA. SÚMULA N. 115/STJ. RECURSO NÃO PROVIDO.
+1 . Embora devidamente intimada para a regularização da representação processual, a parte recorrente não procedeu à juntada da cadeia completa de procurações e/ou substabelecimentos que conferem poderes ao subscritor do recurso especial. Incidência da Súmula 115/STJ.
+2. A jurisprudência desta Corte perfilha entendimento no sentido de que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (ut, AgInt no AREsp 1934163/PR, Rel. Ministro Luis Felipe Salomão, DJe 04/11/2021).
+3. Conforme o entendimento pacificado desta Corte Superior de Justiça, " ..  a procuração juntada em outro processo conexo ou incidental, não apensado, não surte efeito em favor do recorrente neste Tribunal Superior. Assim, o fato de o instrumento de mandato estar juntado nos autos principais (ação ordinária) não viabiliza o conhecimento do presente agravo em recurso especial." (AgRg no AREsp 592.921/SP, Rel. Ministro Antônio Carlos Ferreira, DJe 17/04/2015).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.436.276/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 27/11/2023)
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
