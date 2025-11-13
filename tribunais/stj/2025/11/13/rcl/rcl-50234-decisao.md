@@ -1,0 +1,13 @@
+DECISÃO
+Examina-se reclamação apresentada por CONSTRUTORA JULIO & JULIO LTDA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O reclamante alega, em síntese, que o Tribunal de origem afrontou a jurisprudência do STJ ao negar provimento ao agravo interno e não remeter seu recurso especial a esta Corte (e-STJ fl. 6). Em benefício de sua tese, sustenta que o repetitivo citado na decisão impugnada "não aborda todas as teses jurídicas e de direito versadas no presente processo" (e-STJ fl. 15).
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+Com a presente insurgência, o reclamante objetiva alterar a conclusão do acórdão proferido pelo TJ/SP que negou provimento ao agravo interno oposto contra a decisão que negou seguimento ao recurso especial (e-STJ fl. 1228).
+Ocorre que, conforme a compreensão desta Corte, "a reclamação constitucional prevista no artigo 105, I, "f", da Constituição Federal destina-se exclusivamente a assegurar a autoridade das decisões do STJ em casos concretos ou a proteger sua competência contra usurpações, não sendo instrumento apto para dirimir divergências jurisprudenciais entre decisões das instâncias ordinárias e precedentes do STJ, ainda que vinculantes" (AgInt na Rcl 47.585/SP, Segunda Seção, DJEN 21/2/2025).
+Ademais, "consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo" (AgInt na Rcl 36.771/RJ, Segunda Seção, DJe 3/8/2020; AgInt na Rcl 37.420/SP, Segunda Seção, DJe 2/4/2020).
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. PRECEDENTE EM REPETITIVO. CONTROLE DA APLICAÇÃO. SUPOSTO DESACERTO. SUCEDÂNEO RECURSAL. INVIABILIDADE. INICIAL INDEFERIDA.
+1. "A reclamação prevista no artigo 105, I, "f", da Constituição Federal destina-se exclusivamente a assegurar a autoridade das decisões do STJ em casos concretos ou a proteger sua competência contra usurpações, não sendo instrumento apto para dirimir divergências jurisprudenciais entre decisões das instâncias ordinárias e precedentes do STJ, ainda que vinculantes" (AgInt na Rcl 47.585/SP, Segunda Seção, DJEN 21/2/2025).
+2. Consoante definido pela Corte Especial na Rcl 36.476/SP, "não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo" (AgInt na Rcl 36.771/RJ, Segunda Seção, DJe 3/8/2020; AgInt na Rcl 37.420/SP, Segunda Seção, DJe 2/4/2020).
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
