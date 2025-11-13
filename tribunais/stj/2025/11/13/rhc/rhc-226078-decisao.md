@@ -1,0 +1,113 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por STEPHANIE JORDANA MOREIRA DE ALMEIDA MATOS desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC n. 0816842-57.2025.8.15.0000).
+Depreende-se dos autos que a recorrente encontra-se presa preventivamente pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 308):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ART. 33, CAPUT, E ART. 35, AMBOS DA LEI Nº 11.343/06. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGAÇÃO DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. INOCORRÊNCIA. REQUISITOS DO ART. 312 DO CPP DEMONSTRADOS. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS PRESENTES. GRAVIDADE CONCRETA DA CONDUTA. EXPRESSIVA QUANTIDADE E VARIEDADE DE ENTORPECENTES. MODUS OPERANDI SOFISTICADO. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INADEQUAÇÃO DAS MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE DE ANÁLISE APROFUNDADA DA TESE DE PARTICIPAÇÃO MENOR E DO PRINCÍPIO DA HOMOGENEIDADE NA VIA ESTREITA DO WRIT. ORDEM CONHECIDA PARCIALMENTE E DENEGADA.
+I. Caso em exame
+1. Trata-se de habeas corpus impetrado em favor de paciente presa em flagrante pela suposta prática dos crimes do art. 33, caput, e art. 35, ambos da Lei nº 11.343/06 (tráfico de drogas e associação para o tráfico), no contexto de operação policial que investigava organização criminosa voltada ao tráfico digital, cuja custódia foi convertida em prisão preventiva.
+II. Questão em discussão
+2. Avaliar a ocorrência de nulidade da decisão que decretou a prisão preventiva por alegada ausência de fundamentação concreta e individualizada. Subsidiariamente, verificar a presença dos requisitos autorizadores da custódia cautelar, a relevância das condições pessoais favoráveis, a aplicabilidade do princípio da homogeneidade e a suficiência de medidas cautelares diversas da prisão, diante da tese de participação de menor importância na condição de "mula".
+III. Razões de decidir
+3. A decisão que converteu a prisão em flagrante em preventiva não padece de nulidade, pois encontra-se devidamente fundamentada em elementos concretos extraídos dos autos, que demonstram a necessidade da segregação cautelar para a garantia da ordem pública, não se tratando de fundamentação genérica ou abstrata.
+4. Restando suficientemente caracterizados, nos autos, o fumus comissi delicti e o periculum libertatis, por meio de elementos concretos que evidenciam não apenas a gravidade da conduta, mas também o risco efetivo de reiteração delitiva e de abalo à ordem pública, mostra-se legítima a decretação da segregação cautelar, revelando-se inadequadas, no caso, as medidas cautelares diversas da prisão.
+5. As alegações de que a paciente seria mera "mula" e de que a prisão ofenderia o princípio da homogeneidade, por sua vez, demandam uma análise aprofundada do mérito e do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus. A definição do grau de envolvimento da paciente com a organização criminosa e a projeção de uma eventual pena são questões a serem dirimidas durante a instrução processual, sob o crivo do contraditório e da ampla defesa.
+IV. Dispositivo e tese
+6. Ordem conhecida parcialmente e denegada.
+Neste recurso, a defesa alega que o decreto prisional carece de fundamentação idônea, já que pautado, somente, em argumentos genéricos, além de não estarem presentes os requisitos autorizadores da custódia, nos termos do art. 312 do Código de Processo Penal.
+Pontua que "há um apontamento expresso pela existência de apreensão de "armamento", o que, contudo, não restou materializado nos autos, em razão da inexistência de tal apreensão" (e-STJ fl. 349).
+Assere que a acusada atuou, apenas, na condição de "mula do tráfico", destaca suas condições pessoais favoráveis e afirma ser suficiente a aplicação de outras medidas cautelares, consoante o disposto no art. 319 do citado diploma processual.
+Dessa forma, requer o provimento do presente recurso com a concessão da liberdade à recorrente, ainda que mediante a imposição de medidas alternativas, e a expedição do competente alvará de soltura.
+Sem pedido liminar.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 372/377).
+É o relatório.
+Decido.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 180/184):
+Procedendo à análise dos elementos probatórios acostados aos autos, conclui-se que estão presentes os pressupostos, as condições e os fundamentos para a decretação da prisão preventiva, de forma a impossibilitar a concessão da liberdade provisória, consoante o disposto no art. 324, IV, do Código de Processo Penal.
+A materialidade do crime e a existência de indícios de autoria revelam-se incontestes, em face dos depoimentos e declarações constantes no APF, restando preenchidos os pressupostos necessários à adoção da medida.
+Conforme Auto de Apresentação e Apreensão, foram apreendidos os seguintes materiais:(id. 116514518, pág.8):
+- Veículo, marca VW, modelo FOX ROCK IN RIO, tipo de veículo AUTOMÓVEL, cor VERMELHA, ano 2011/2012, UF: PB, placa PEP2770, chassi 9BWAB05Z5C4046707, renavam 00375086536; (encontrado/a em poder de João Targino da Silva Filho)
+- Outros, descrição Insumos: Duas Prensas de Pacotes de Drogas; Plástico de Embalo; Papoletes de Embalo; Três Máquinas de Expedição de Etiqueta; Aparelho Medidor de Temperatura; Aparelho Medidor de Pressão de Ar; Pacotes Plásticos; Potes de Vidro Com Informações dos Tipos de Drogas; Pacotes de Entrega; Adesivos Com a Marca Deew company e Candyland; Oito Balanças de Precisão; (encontrado/a em poder de João Targino da Silva Filho; Stephanie Jordana Moreira de Almeida Matos e Julia Vitoria Cavalcante da Silva)
+-Aparelho Sem Chip, marca SAMSUNG, modelo Galaxy M12, IMEIS 353428898345588, características gerais: Cor Azul; (encontrado/a em poder de João Targino da Silva Filho)
+- Drogas, tipo de droga semelhante a Maconha, características gerais: Diversos Sacos Tdo Tipo Ziplock Contendo Substância Análoga À Maconha; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a Ecstasy, características gerais: Diversos Sacos do Tipo Ziplock Contendo Substância Análoga À Ecstasy; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a Cocaína, características gerais: Saco do Tipo Ziplock Contendo Substância Análoga À Cocaína; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a LSD, características gerais: Diversos Sacos do Tipo Ziplock Contendo Substância Análoga À Lsd; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a Outros, características gerais: Diversos Sacos Contendo Substância Análoga À Cogumelo; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a Outros, características gerais: Saco Contendo Substância Análoga À Mdmda; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Aparelho Sem Chip, marca Aplle, modelo Iphone 11, IMEIS 353990107710027, características gerais: Cor Preto; (encontrado/a em poder de Stephanie Jordana Moreira de Almeida Matos)
+- Drogas, tipo de droga semelhante a Maconha, características gerais: Diversos Sacos Contendo Substância Análoga À Maconha; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a Ecstasy, características gerais: Diversos Sacos Contendo Substância Análoga À Ecstasy; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a Outros, características gerais: 01 Saco Contendo Substância Análoga Ao Cogumelo; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a Outros, características gerais: Diversos Frascos Contendo Líquido Transparente; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a Cocaína, características gerais: 01 Saco Contendo Substância Análoga À Cocaína; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a Outros, características gerais: 01 Saco Contendo Substância Análoga À Mdma; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Drogas, tipo de droga semelhante a LSD, características gerais: 01 Frasco Contendo Substância Análoga À Lsd Líquido; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Aparelho Sem Chip, marca apple, modelo Iphone xr, características gerais: Cor Branca; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Aparelho Sem Chip, marca Aplle, modelo Iphone XR, características gerais: Cor Vermelho; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva);
+- Aparelho Sem Chip, marca Apple, modelo Iphone XR, características gerais: Cor Branco; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Aparelho Sem Chip, marca xioamoi, modelo Redmi, características gerais: Cor Azul; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Outros, descrição Notebook Aplle, Cor Cinza e Preto; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva)
+- Outros, descrição Duas câmeras de segurança, sem chip de armazenamento de memória; (encontrado/a em poder de Julia Vitoria Cavalcante da Silva).
+O contexto da apreensão das substâncias entorpecentes demonstra o animus de traficância por parte do custodiado, considerando, entre outros fatores, a forma de acondicionamento, os a presença de balança de precisão, o armamento e a elevada quantidade de entorpecentes. Tais circunstâncias encontram respaldo nos laudos de constatação, reforçando os indícios da prática delitiva.  ..
+A imposição da prisão preventiva se justifica, portanto, diante da necessidade de cessar a prática criminosa do investigado, sendo justificativa que, consoante jurisprudência dos Tribunais Superiores, enquadra-se no conceito de garantia da ordem pública.
+Ressalte-se que, consoante entendimento dominante da jurisprudência pátria, comprovada a necessidade da medida constritiva de liberdade, são irrelevantes as circunstâncias de ter o(a) indiciado(a) residência fixa, profissão definida e bons antecedentes.
+Dessa forma, no caso em tela, restam demonstrados motivos concretos a justificar a decretação da prisão preventiva do acoimado para garantia da ordem pública, para futura aplicação da lei penal e para conveniência da instrução criminal, sendo, portanto, incabível a aplicação de medidas cautelares diversas da segregação preventiva, a teor do disposto no art. 310, II, c/c art. 321 ambos do CPP.
+Ao indeferir o pleito de revogação da custódia, o Juiz assim se manifestou (e-STJ fls. 262/263, grifei):
+Como se observa do acervo processual, a prisão em flagrante de STEPHANIE JORDANA MOREIRA DE ALMEIDA MATOS foi convertida em preventiva pelo Juízo da custódia (ID 116533394), diante da apreensão de expressiva quantidade e variedade de substâncias entorpecentes (maconha, haxixe, cocaína, ecstasy, LSD, MDMA, cogumelos alucinógenos), bem como apetrechos típicos do comércio ilícito, todos encontrados na posse direta da investigada ou no interior do imóvel a ela vinculado.
+A investigação conduzida pela DRACO apontou que a custodiada integraria organização criminosa denominada "DEEW COMP.", responsável por operar esquema de tráfico de drogas em modelo delivery, por meio de plataformas digitais (Instagram, Telegram, WhatsApp e website), com logística estruturada para recebimento de pedidos e entrega via motoboys.
+Diante de tais elementos, verifica-se que estão presentes os pressupostos e requisitos dos arts. 312 e 313, I, do CPP, sendo a prisão preventiva necessária para garantia da ordem pública, em razão da gravidade concreta da conduta e da elevada potencialidade lesiva do material apreendido.
+Ressalte-se que as condições pessoais favoráveis alegadas pela defesa (primariedade, bons antecedentes, ocupação lícita, residência fixa e estudante de Odontologia) não têm o condão de, isoladamente, afastar a medida extrema, conforme entendimento consolidado nos Tribunais Superiores.
+Assim, não havendo fato novo apto a modificar o quadro fático-jurídico que motivou a decretação da prisão, e persistindo as razões que evidenciam o periculum libertatis, impõe-se a manutenção da custódia preventiva, revelando-se inadequadas e insuficientes as medidas cautelares diversas previstas no art. 319 do CPP.
+Ante o exposto, a prisão preventiva de MANTENHO STEPHANIE JORDANA MOREIRA DE ALMEIDA MATOS, nos termos dos arts. 312 e 313, I, do Código de Processo Penal, por persistirem hígidos os fundamentos que ensejaram sua decretação, revelando-se insuficientes, no caso, as medidas cautelares diversas da prisão previstas no art. 319 do mesmo diploma legal.
+Com efeito, em razão das características da conduta delituosa narrada, o decreto prisional demonstrou que a recorrente seria integrante de associação criminosa especializada na prática de tráfico de drogas, em modelo delivery, por meio de plataformas digitais, como Instagram, Telegram, WhatsApp e website, com logística estruturada para recebimento de pedidos e entrega via motoboys.
+A propósito, foi destacado que, no curso da operação policial, foram localizadas e apreendidas, tanto em poder da paciente quanto no imóvel a ela relacionado, substanciais quantidades e diversas espécies de entorpecentes - maconha, haxixe, ecstasy, cocaína, LSD, MDMA e cogumelos de natureza alucinógena -, bem como balança de precisão e outros apetrechos típicos do comércio ilícito, sendo ela uma das responsáveis pela entrega direta ao consumidor dos entorpecentes.
+Tais circunstâncias autorizam a decretação da prisão preventiva, pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+ ..
+3. Ordem denegada. (HC n. 353.594/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 5/5/2016, DJe 16/5/2016.)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido. (RHC n. 65.669/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/4/2016, DJe 9/5/2016.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita .
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido. (RHC n. 83.321/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Ao ensejo:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL . PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. GRANDE QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM ASSOCIAÇÃO CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+8. Medidas cautelares diversas da prisão foram consideradas insuficientes para garantir a ordem pública, conforme as circunstâncias do caso.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+ ..  (AgRg no HC n. 1.028.863/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+ ..
+8. Medidas cautelares diversas da prisão são insuficientes para garantir a ordem pública, considerando a gravidade concreta da conduta e o contexto da apreensão.
+IV. Dispositivo e tese
+9. Resultado do Julgamento: Agravo regimental desprovido.
+ ..  (AgRg no RHC n. 222.337/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2025, DJEN de 29/10/2025.)
+No que tange à alegação de que a paciente teria atuado, apenas, na condição de "mula do tráfico", o colegiado estadual pontuou que (e-STJ fl. 321):
+Outrossim, as alegações de que a paciente seria mera "mula" e de que a prisão ofenderia o princípio da homogeneidade, por sua vez, demandam uma análise aprofundada do mérito e do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus. A definição do grau de envolvimento da paciente com a organização criminosa e a projeção de uma eventual pena são questões a serem dirimidas durante a instrução processual, sob o crivo do contraditório e da ampla defesa.
+Assim, referida tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CONDIÇÃO DE MULA. SUPRESSÃO. PRISÃO PREVENTIVA. QUANTIDADE DE ENTORPECENTE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTOS IDÔNEOS. CAUTELARES. INVIABILIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. INDIFERENÇA. DESPROPORCIONALIDADE DA MEDIDA. IMPREVISIBILIDADE. RECURSO NÃO PROVIDO.
+1. A tese de se tratar de mula do tráfico, não foi objeto de cognição pelo Tribunal de origem. Logo, inviável o enfrentamento dos temas por esta Corte Superior, sob pena de incorrer em indevida supressão de instância (AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/8/2019, DJe 10/9/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/10/2019, DJe 9/10/2019).
+ ..
+7. Agravo regimental não provido. (AgRg no HC n. 912.173/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. GRAVIDADE DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS, FAVORÁVEIS. IRRELEVÂNCIA. INSUFICIÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. PENA EM PERSPECTIVA. IMPOSSIBILIDADE DE ANÁLISE. EXISTÊNCIA DE TESE NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+ ..
+6. Quanto à tese de menor importância na participação do suposto delito, porquanto o acusado era apenas uma "mula" do tráfico, tem-se que não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+7. Agravo regimental desprovido. (AgRg no HC n. 996.143/SP,de minha relatoria, Sexta Turma, julgado em 18/6/2025, DJEN de 26/6/2025.)
+Ante todo o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
