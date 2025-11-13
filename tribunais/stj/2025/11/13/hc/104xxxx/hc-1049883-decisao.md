@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GILDSON JOSE CORREIA PINTO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE, em decorrência do julgamento da apelação criminal n. 0009470-58.2017.8.01.0001.
+Consta nos autos que o paciente foi condenado pelo Juízo da Vara de Delitos de Drogas e Acidentes de Trânsito da Comarca de Rio Branco à pena de 9 anos e 2 meses de reclusão, em regime fechado, e ao pagamento de 920 dias-multa, como incurso nas sanções do artigo 33, caput, da Lei 11.343/2006 (fls. 46-52).
+A defesa interpôs apelação ao Tribunal de Justiça do Estado do Acre, que negou provimento ao recurso (fls. 19-40), com trânsito em julgado certificado em 9 de setembro de 2019.
+Foi impetrado o HC 905507-AC perante o Superior Tribunal de Justiça, o qual foi indeferido liminarmente com fundamento no artigo 210 do RISTJ. A decisão foi ratificada pela Quinta Turma no julgamento do agravo regimental (fls. 439-443).
+Na presente impetração, sustenta-se constrangimento ilegal decorrente da exasperação da pena-base, fixada em 7 anos e 11 meses de reclusão, mediante valoração negativa de vetores do artigo 59 do Código Penal e do artigo 42 da Lei 11.343/2006, com fundamento genérico na "quantidade e natureza" do entorpecente, reputadas como circunstância preponderante, sem demonstração concreta de maior gravidade da conduta. Pleiteia-se o redimensionamento da pena para o mínimo legal e a redução do incremento pela reincidência (fls. 3-5, 8-10, 14-15, 17-18).
+Alega-se bis in idem na negativação da culpabilidade e na aplicação da agravante da reincidência na segunda fase da dosimetria, sustentando que as circunstâncias tidas como desfavoráveis seriam inerentes ao tipo penal e não poderiam justificar a elevação da pena-base (fls. 7-8).
+Pede-se a concessão da ordem para que, liminarmente, seja redimensionada a pena, com aplicação da pena-base no mínimo legal, o afastamento das valorações negativas reputadas genéricas e inerentes ao tipo penal, e a readequação do aumento pela reincidência, por violação aos artigos 59 e 68 do Código Penal e ao artigo 42 da Lei 11.343/2006, sob alegação de constrangimento ilegal na manutenção da reprimenda concreta e definitiva (fls. 3-5, 9-10, 17-18).
+É o relatório. DECIDO.
+A pretensão deduzida pela defesa configura reiteração de matéria já submetida ao Superior Tribunal de Justiça por ocasião do julgamento do HC 905507-AC, que foi indeferido liminarmente (fls. 415-418, HC 905507-AC) e teve a decisão ratificada pela Quinta Turma, por ocasião do julgamento do agravo regimental (fls. 439-443).
+A presente impetração evidencia o propósito de dupla apreciação, o que não é admitido pela jurisprudência do Superior Tribunal de Justiça. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. WRIT INDEFERIDO LIMINARMENTE. MATÉRIA PREVIAMENTE E EXAUSTIVAMENTE ANALISADA NO HC N. 849.414-SP. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Os pleitos ora veiculados já foram anteriormente submetidos à apreciação desta Corte, tendo sido julgados no âmbito do HC n. 849.414-SP, não havendo ilegalidade no não conhecimento do writ em razão da reiteração de pedidos.
+II - Consoante artigo 210 do Regimento Interno do STJ, bem como nos moldes da jurisprudência desta Corte Superior, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, tal qual ocorreu no presente caso, o relator o indeferirá liminarmente, não havendo ilegalidade a ser sanada quanto ao ponto.
+Agravo regimental desprovido.
+(AgRg no HC n. 894.011/SP, minha relatoria, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+O artigo 210 do RISTJ autoriza o relator a indeferir liminarmente o habeas corpus quando se tratar de reiteração de outro, com os mesmos fundamentos, hipótese verificada nos presentes autos.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
