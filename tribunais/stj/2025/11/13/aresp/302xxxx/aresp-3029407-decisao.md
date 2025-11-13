@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRE LUIZ COELHO DE SOUZA SENA contra decisão que inadmitiu o recurso especial manejado contra acórdão da Segunda Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios (Acórdão n. 1993493).
+Extrai-se dos autos que o agravante foi condenado pela prática dos crimes de furto qualificado pelo arrombamento e concurso de pessoas (art. 155, § 4º, incisos I e IV, do Código Penal, por quatro vezes) e adulteração de sinal identificador de veículo automotor (art. 311, § 2º, inciso III, do Código Penal), tendo sido fixada a pena de 6 anos, 5 meses e 7 dias de reclusão, em regime semiaberto, além de 23 dias-multa.
+Irresignada, a defesa interpôs apelação criminal sustentando a insuficiência de provas para a condenação e pleiteando absolvição com fundamento no princípio do in dubio pro reo, bem como, subsidiariamente, a redução da pena e a fixação de regime mais brando.
+O Tribunal a quo negou provimento às apelações, em acórdão assim ementado (e-STJ fls. 908/909):
+Furto qualificado pelo arrombamento e concurso de pessoas. Provas. Pena. Fração de aumento. Regime prisional. Apelações não providas.
+I - Caso em exame
+1 - Apelação de sentença que condenou o primeiro réu a 6 anos, 5 meses e 7 dias de reclusão e 23 dias-multa, e o segundo a 7 anos e 9 meses de reclusão e 37 dias-multa, pelos crimes de furto qualificado pelo arrombamento e concurso de pessoas e adulteração de sinal identificador de veículo.
+II - Questão em discussão
+2 - Discute-se: (i) se suficientes as provas para condenação; (ii) adequação das penas e dos regimes fixados.
+III - Razões de decidir
+3 - A abordagem dos acusados na posse do veículo utilizado nos crimes de furto a veículos estacionados, logo após ocorridos esses, e em poder de vários objetos subtraídos, confirmados pela confissão parcial de um dos réus e depoimentos de testemunha, policial e vítimas são provas suficientes para a condenação.
+4 - Embora apenas o primeiro réu tenha confessado que trocou a placa do veículo que conduziam, sem o conhecimento do segundo réu, se o laudo de exame papiloscópico identificou vestígio de impressão digital desse na placa do veículo, demonstrada está a participação de ambos no crime, o que permite a condenação por adulteração de sinal identificador de veículo.
+5 - Decidiu o c. STF que, para se reconhecer os maus antecedentes, não se considera o prazo de cinco anos, relativo à prescrição da reincidência de que trata o art. 64, I, do CP (tema 150).
+6 - O e. STJ tem admitido, para aumento da pena-base, por circunstância judicial desfavorável, adotar as frações de 1/8 entre o mínimo e o máximo da pena em abstrato, e 1/6 da pena mínima em abstrato, assim como não adotar nenhum critério matemático, desde que haja fundamentação idônea e concreta, baseada na discricionariedade vinculada do julgador. Razoável a fração adotada, deve essa ser mantida.
+7 - Se o réu registra maus antecedentes, justifica-se fixar regime prisional fechado, ainda que seja primário e a pena inferior a oito anos (art. 33, § 3º, do CP).
+IV - Dispositivo 8 - Apelações não providas.
+Na sequência, foi interposto recurso especial com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, alegando, em síntese, violação ao art. 386, incisos IV, V e VII, do Código de Processo Penal e ao princípio do in dubio pro reo, por insuficiência e falta de individualização de provas quanto a todos os furtos, além de dissídio jurisprudencial, e requerendo a absolvição (e-STJ fls. 951/957).
+O recurso especial foi inadmitido pela Presidência do Tribunal de origem, sob o fundamento de que a pretensão demandaria reexame do conjunto fático-probatório, vedado pela Súmula n. 7/STJ, e de que o dissídio apontado se apoiaria em fatos, e não em interpretação de lei (e-STJ fls. 979/981), o que motivou o presente agravo (e-STJ fls. 992/996).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo conhecimento do agravo para não se conhecer do recurso especial (e-STJ fls. 1.035/1.041).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O Tribunal de origem reconheceu a higidez das provas obtidas no curso da instrução, em especial as declarações de testemunhas, a localização com os réus de parte dos objetos furtados, a localização indicada pelo rastreador de airpods furtados, além de instrumentos comumente utilizados em crimes dessa natureza. No contexto a desconstituição das conclusões firmadas na origem, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FURTO QUALIFICADO. DESTREZA E CONCURSO DE AGENTES. VIOLAÇÃO AO PRINCÍPIO ACUSATÓRIO. INOCORRÊNCIA. NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. EXISTÊNCIA DE OUTRAS PROVAS ROBUSTAS. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1.A manifestação do Ministério Público em alegações finais no sentido de absolvição não vincula o magistrado, que decide com base no livre convencimento motivado, nos termos do art. 385 do CPP, sem violação ao princípio acusatório.
+2.Havendo outras provas independentes e aptas a atestar a autoria e materialidade delitivas, eventual irregularidade no reconhecimento fotográfico não compromete a validade da condenação.
+3.O pedido de absolvição por insuficiência de provas demanda revolvimento do conjunto fático-probatório, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+4.A demonstração de divergência jurisprudencial exige casos com premissas fáticas e jurídicas idênticas, o que não se verifica na hipótese.
+5.Agravo regimental desprovido.
+(AgRg no AREsp n. 2.395.677/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025).
+Cumpre, ainda, registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp 1.150.564/SC, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+Além disso, registre-se que não se pode conhecer do recurso especial fundado em divergência jurisprudencial, pois a parte recorrente não realizou o necessário cotejo analítico entre os acórdãos confrontados, imprescindível para demonstrar a similitude fática com a adoção de teses divergentes.
+Com efeito, consoante orienta a jurisprudência desta Corte Superior de Justiça para a "comprovação do dissídio jurisprudencial, não basta a mera transcrição de trechos das ementas e dos votos dos julgados confrontados, porquanto incumbe à parte demonstrar as circunstâncias identificadoras da divergência, notadamente a existência de similitude fática e identidade jurídica entre os acórdãos recorridos e paradigmas"(AgRg no AREsp n. 2.644.442/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025).
+Ante o exposto, nego provim ento ao agravo .
+Intimem-se.
+EMENTA
