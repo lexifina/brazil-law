@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o CENTRO EDUCACIONAL DE REALENGO se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 53):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. LAUDO DE REAVALIAÇÃO DO BEM PENHORADO. IMPUGNAÇÃO REJEITADA. DECISÃO MANTIDA. Agravo contra decisão, proferida em execução fiscal, que rejeitou a impugnação apresentada pela executada contra o laudo de reavaliação do imóvel penhorado. A agravante não traz elementos que justifiquem a necessidade de novo laudo técnico. Acatar o recurso impediria andamento razoável da execução. O Oficial de Justiça é auxiliar do juízo imparcial aos interesses das partes, e o laudo elaborado goza de presunção de adequação. Cabe ao interessado derrubar a avaliação, de modo convincente, mas os argumentos do agravo não o fazem. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 78/80).
+Nas razões de seu recurso especial, a parte recorrente alega violação ao art. 13, § 1º, da Lei 6.830/1980, ao argumento de que a literalidade do dispositivo deve ser aplicada imediatamente na hipótese de divergência na avaliação do imóvel realizada pelo oficial de justiça.
+A parte adversa apresentou contrarrazões (fls. 122/126).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+No acórdão recorrido, o art. 13, § 1º, da Lei 6.830/1980 não foi apreciado pelo Tribunal de origem, isoladamente ou em cotejo com a tese suscitada. Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos exatos termos das Súmulas 282 e 356 do Supremo Tribunal Federal (STF), aplicadas por analogia.
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto.
+Ausente pronunciamento do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
