@@ -1,0 +1,56 @@
+DECISÃO
+EDINAELSON SANTOS FREIRE alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2203182-05.2025.8.26.0000, em que foi mantida sua prisão preventiva.
+Extrai-se dos autos que o paciente, preso preventivamente em 30/5/2025, foi denunciado pela prática de tentativas de homicídio, homicídio consumado e incêndio, em contexto de briga de torcidas organizadas.
+A defesa sustenta a ausência dos requisitos para a manutenção da prisão preventiva e pede a soltura do réu.
+Indeferida a liminar, o MPF opinou pelo não conhecimento do habeas corpus e, se conhecido, pela sua denegação . (fls. 185-189).
+Decido.
+I. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+O Juízo de origem decretou a medida extrema contra o ora paciente por ocasião do recebimento da denúncia, sob a seguinte motivação (fls. 87-93):
+ ..
+Em grande síntese, consta dos autos que, no dia 27 de outubro do corrente ano, por volta das 05 horas, nas cercanias do pedágio localizado na Rodovia Fernão Dias, Km 65, nesta Comarca de Mairiporã, os representados, juntamente com outros indivíduos ainda não identificados, que mantém vínculo com a torcida organizada Mancha Alvi Verde, assumindo o risco de causar o resultado morte, concorreram para o óbito de José Vitor Miranda dos Santos, causado por traumatismo cranioencefálico em decorrências de diversos golpes desferidos com instrumento contundente, conforme representação ofertada pela Autoridade Policial.
+Nas mesmas circunstâncias de local e hora, os representados concorreram para ofensa à integridade física das vítimas de Paulo Henrique dos Santos ; Micael Junio Farias Teixeira ; Nicolas Pereira Ribeiro de Sousa ; Nilton José Mendes ; Jhonatan Henrique Estevam Soares ; Philipe Donavan Aleixo ; Hugo Richard Antônio Bonfin; Lucas Victor Ribeiro de Sena ; Mauro Márcio da Paixão Bueno ; Max Paulo de Menezes Sales ; Rafael Fernandes Gomes ; Tailan Francis Cornelio da Costa ; Frederico Bueno , Isac Lima dos Santos ; Wagner Alipio Caetano de Souza ;
+ ..
+A materialidade delitiva, por ora, está suficientemente provada pelo boletim de ocorrência bem como pelas declarações das vítimas e testemunhas inclusas aos autos.
+No que toca aos indícios de autoria são, nesta fase preliminar, inequivocamente evidentes, uma vez que os acusados foram individualmente identificados por meio de diversas diligências, conforme bem exposto no relatório de investigação detalhado apresentado pela autoridade policial.
+Passando adiante, a prisão cautelar tem seus requisitos ou hipóteses ensejadoras também previstos no artigo de lei acima referida. No caso, é possível dizer que todas se afiguram presentes, ou seja, a necessidade de garantia da ordem pública e da conveniência da instrução criminal, o clamor social e o risco para a aplicação da lei penal (para alguns).
+No que toca à primeira, porque é certo que todos os réus pertencem à citada torcida organizada, já conhecida por seus costumeiros atos de ultraje à lei e violência desmedida. Ou seja, praticam reiteradamente crimes e atos de vandalismo em geral, o que certamente põe em risco a incolumidade de cidadãos ordeiros, que apenas torcem para o time adversário e, por vezes, sequer tem ligação alguma com o futebol (as vítimas indiretas).
+E, evidentemente, não se trata de mera retórica ou de argumento genérico, desvinculado da realidade do processo.
+Realmente, o que ocorreu no presente caso é mero exemplo do que acima se disse. Crimes e atos de vandalismo elevados à enésima potência. De maneira de todo ousada, organizaram-se os réus e, fria e calculadamente, deram o bote em suas vítimas em rodovia de grande circulação de veículos (Fernão Dias), o que teve o condão de alcançar não só os "cruzeirenses" (alvos), mas, também, um número indeterminado de pessoas que circunstancialmente passavam pelo local.
+Atente-se que nenhuma qualificação especial de cada um dos réus (pai de família, marido, filho de idoso, profissional desta ou daquela área, estudante, trabalhador, primário, advogado..etc) impediu que se envolvessem na barbárie supra narrada, nunca antes vista nesta cidade, em razão do que, de igual modo, não impedirá que respondam ao processo detidos (por economia processual, aliás, anota- se desde já que não haverá reconsideração da presente decisão sob este fundamento, ou seja, de tratar-se de pessoa trabalhadora e sem antecedentes). Frise-se, a soltura dos réus tem o efetivo e o concreto condão de por a sociedade em risco.
+Há que se atentar ainda para as anotações criminais nas folhas de antecedentes de muitos dos representados, como bem exposto pelo autoridade policial e destacado na manifestação ministerial.
+No que tange à segunda (conveniência da instrução criminal), decorre do fato de que, na linha do que acima dito, os réus agem, dentre outras maneiras, pela imposição do medo, da ameaça, da violência..etc.
+Nesta toada, tem-se por evidente que, em liberdade, efetiva ou indiretamente, visando sua impunidade, influenciarão na colheita das provas, impingindo temor nas vítimas e eventuais testemunhas.
+Volvendo à terceira (clamor social), dispensa até mesmo comentários, posto ser cediço que o palco de guerra montado meticulosamente pelos réus ganhou repercussão não só na pequena Mairiporã, mas em todo o Estado de São Paulo, no Brasil e, inclusive, foi veiculado no estrangeiro.
+Por fim, com relação aos réus Tales Augusto dos Santos Alcântara e Igors Souza de Oliveira, estão foragidos, o que demonstra suas intenções, de se evadirem do distrito da culpa e da reprimenda, eventualmente imposta. Nesse sentido, a decretação da prisão preventiva se mostra necessária, visando também garantir a futura aplicação da lei penal (grifei).
+ ..
+A Corte local denegou a ordem, nos termos do acórdão de fls. 16-24:
+ ..
+Em análise à decisão acima, constata-se que a prisão preventiva foi decretada, em especial, com fundamento na gravidade concreta dos crimes, ressaltando-se que o paciente pertenceria à torcida organizada Mancha Verde e que, em conjunto com os demais denunciados, mediante ação coordenada e premeditada, em rodovia de grande circulação de veículos, estaria envolvido nas graves ações criminosas descritas na denúncia, dentre elas, a morte de uma pessoa e a ofensa à integridade física de 15 pessoas, com assunção de risco do resultado homicida destas.
+Importante pontuar que a decisão vergastada bem destacou que os indícios de autoria foram obtidos por meio de diligências que individualmente identificaram os supostos participantes das condutas, dentre eles o paciente.
+Além disso, como se sabe, a análise com maior aprofundamento acerca dos elementos caracterizadores dos delitos será realizada após a instrução do feito originário, de sorte que descabida análise de prova na via estreita do Habeas Corpus.
+Essas circunstâncias, portanto, evidentemente, justificam a manutenção da custódia cautelar especialmente para garantia da ordem pública.
+Nesse contexto, mostra-se insuficiente a aplicação das medidas cautelares alternativas ao cárcere previstas no artigo 319 do Código de Processo Penal.
+Ainda, ressalto que, segundo posicionamento do C. Superior Tribunal de Justiça, as condições subjetivas do paciente, por si sós, não afastam a decretação da prisão cautelar quando presentes seus requisitos legais.  ..
+Quanto aos motivos da manutenção da prisão preventiva, ficou devidamente registrado o modus operandi empregado nas ações delituosas - morte de um torcedor, tentativa de homicídio de outros, incêndio, tudo em contexto de briga entre torcidas organizadas de futebol masculino -, motivação idônea, de acordo com a jurisprudência desta Corte, para manter a medica cautelar extrema contra o réu.
+Segundo a orientação deste Superior Tribunal, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. A esse respeito, destaco os seguintes precedentes:
+ ..
+2. O decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade dos acusados que agiram com peculiar modus operandi, visto que o crime foi cometido mediante o concurso de pessoas, por motivo fútil e com recurso que dificultou a defesa da vítima, contra quem foram desferidos diversos golpes de facão e barra de ferro em direção à sua cabeça.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Recurso não provido.
+(RHC n. 104.138/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019, grifei)
+ ..
+2. A prisão preventiva está adequadamente fundamentada na espécie, tendo em vista que as circunstâncias concretas do delito evidenciam a necessidade da constrição cautelar para a garantia da ordem pública, pela periculosidade do Recorrente, considerando-se, sobretudo, o modus operandi dos delitos. Precedentes.
+3. No caso, o recorrente é o suposto mandante do homicídio, movido por vingança, por um desentendimento anterior com a vítima, tendo sido efetuados vários disparos sem chance de defesa, por meio de emboscada.
+4. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. 5. Recurso ordinário desprovido. (RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018, destaquei).
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva dos condenados.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+Nesse sentido:
+ ..
+5. Demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n.º 12.403/2011.
+6. Ordem de habeas corpus denegada.
+(HC n. 542.455/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020)
+Ainda, de acordo com a jurisprudência deste Superior Tribunal, "a presença de condições pessoais favoráveis ao agente, como primariedade e bons antecedentes, não representam óbice, por si sós, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela" (HC n. 571.208/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJ 28/9/2020).
+II. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
