@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO  interpõe  recurso  especial  ,  fundado  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  daquele Estado  proferido na Apelação Criminal  n.  0804745-72.2023.8.19.0068.
+Nas  razões  do  especial,  o recorrente  alega violação do disposto nos arts. 157, § 2º, II e V, e 70 do Código Penal, sob o argumento de que é equivocado o reconhecimento de crime único em razão de o delito haver sido cometido contra um casal, pois, além do patrimônio comum, houve a subtração de bens de uso pessoal, de caráter personalíssimo, o que atrai a figura do concurso formal.
+Requer, ao final, a reforma do acórdão a fim de que seja restabelecida a pena imposta na sentença condenatória.
+A irresignação foi admitida pelo Tribunal de origem (fls. 127-135).
+O  Ministério  Público  Federal  opinou  pelo provimento do recurso especial  (fls.  514-520).
+Decido.
+I. Admissibilidade
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos por que avanço na análise de mérito da controvérsia.
+II. Concurso formal de crimes
+A denúncia assim descreve o fato delituoso (fls. 184-185, grifei):
+No dia 24 de abril de 2023, por volta das 11h35min, em via pública, na Rua Fortaleza, esquina com a Rua Belém, bairro Jardim Bela Vista, nesta Comarca, os DENUNCIADOS, de forma consciente e voluntária, em perfeita comunhão de ações e desígnios entre si e com outro indivíduo não identificado, mediante grave ameaça consistente no emprego de arma de fogo e mediante palavras de ordem, subtraíram, para si ou outrem, 01 (um) cordão de ouro; 01 (uma) aliança, de propriedade de RAFAEL BRAZÃO DA GAMA, bem como 01 (um) cordão de ouro; 01 (uma) aliança, de propriedade de ELAINE CRISTINA QUITETE BRAZÃO.
+Segundo apurado, na data do fato, as vítimas estavam caminhando pelo local acima, quando foram abordadas pelos DENUNCIADOS e seu comparsa, que estavam em um veículo marca/modelo GM/Onix, tendo o DENUNCIADO SEBASTIÃO, que portava uma arma de fogo, anunciado o roubo exigindo que elas entregassem seus pertences.
+Ato contínuo, o DENUNCIADO NILO passou a recolher os pertences das vítimas, tendo os DENUNCIADOS evadido do local após embarcarem no veículo marca/modelo GM/Onix, que estava estacionado próximo do local do crime, tomando rumo ignorado.
+Após a prática delitiva, os DENUNCIADOS vieram a ser presos em flagrante pela prática de outro crime, sendo a informação veiculada nas redes social, tendo as vítimas tomado conhecimento de tal fato e comparecido em sede policial, onde reconheceram, pessoalmente e através de fotografias, os DENUNCIADOS como sendo os autores do crime (eDOC nº 13/15 e 40/42).
+Insta destacar que a ação delitiva e a fuga dos DENUNCIADOS foram captadas através de câmeras de vigilância instaladas em residências próximas do local (eDOC nº 38).
+Depois de regular instrução processual, sobreveio a sentença condenatória, que considerou aplicável a regra do concurso formal de crimes com base nos seguintes fundamentos (fl. 439):
+Os dois crimes de roubo foram perpetrados mediante uma só ação. Deve ser aplicada a regra do art. 70 do Código Penal (concurso formal), com a imposição de uma só das penas, a mais grave ou qualquer delas, se iguais, aumentada em 1/6.
+No acórdão recorrido, o Tribunal estadual deu parcial provimento ao recurso de apelação interposto pela defesa para reconhecer a prática de crime único com o consequente redimensionamento das penas impostas aos réus. Confira-se (fl. 42, grifei):
+Por fim, na verificação atenta da prova que foi judicializada constata-se que o casal foi vítima do roubo, marido e mulher, integrando, assim, o mesmo núcleo familiar, sendo os bens subtraídos de propriedade comum do casal. O julgador considerou que dois patrimônios foram violados, quando, na verdade, apenas o patrimônio do mesmo núcleo familiar foi afetado de forma consumada.
+Essa compreensão, no entanto, está dissociada da orientação dominante neste Superior Tribunal. Com efeito, o entendimento desta Corte parte da premissa de que a tutela conferida pelo Direito Penal a bens e interesses jurídicos pressupõe maior autonomia individual, distintamente do que ocorre com determinadas presunções advindas de outros ramos jurídicos, como, por exemplo, da regulamentação do regime patrimonial do casamento.
+Assim, em casos de roubo praticado, mediante única ação e no mesmo contexto fático contra vítimas integrantes do núcleo familiar, como ocorreu na espécie, o STJ tem afastado o reconhecimento de crime único - que se baseia no pressuposto de que houve vulneração de patrimônio comum da família em conformidade com a normatização própria do Direito Civil - para considerar a existência de concurso formal de crimes.
+Nesse sentido, foi fixada a tese no Tema Repetitivo n. 1.192: "O cometimento de crimes de roubo mediante uma única conduta e sem desígnios autônomos contra o patrimônio de diferentes vítimas, ainda que da mesma família, configura concurso formal de crimes (art. 70 do CP)".
+Logo, é imperioso reconhecer que a decisão recorrida, ao assentar a ocorrência de delito único, violou o disposto no art. 70 do Código Penal, motivo pelo qual deve ser acolhida a pretensão recursal veiculada pelo Ministério Público para restabelecer os termos da sentença de primeiro grau de jurisdição.
+III. Dispositivo
+À vista do exposto, dou provimento ao recurso especial para reformar parcialmente o acórdão recorrido e restabelecer as penas impostas na sentença condenatória para todos os réus.
+Comunique-se o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
