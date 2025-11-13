@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOSÉ ROBERTO DE PAULA MARQUES da decisão em que a Presidência do Superior Tribunal de Justiça conheceu do agravo para não conhecer do recurso especial (fls. 194/196).
+A parte agravante requer o sobrestamento do presente feito até o julgamento do Tema 1.178 do STJ.
+A parte adversa não apresentou impugnação (fls. 263/265).
+É o relatório.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.178), e foi assim delimitada: "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil" (REsps 1.988.687/RJ, 1.988.697/RJ e 1.988.686/RJ, relator Ministro Og Fernandes, DJe de 20/2/2022).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, reconsidero a decisão agravada e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
