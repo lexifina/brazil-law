@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por LUAN DE JESUS SANTOS à decisão de fls. 567/568, que não conheceu do recurso.
+Sustenta a parte embargante:
+Conforme se verifica da captura de tela do sistema PJe (Processo Judicial Eletrônico) que se anexa (Doc. 01), a agenda do advogado, cadastrada no próprio sistema, indicava o termo final do prazo recursal em data posterior àquela do prazo comum, até porque o próprio sistema automaticamente recalcula o prazo, a medida em que ocorre as suspensões.
+Ademais, o próprio sistema PJe certificou a tempestividade do recurso no momento da sua interposição, gerando assim a veracidade de que o prazo havia sido devidamente cumprido (Doc. 02), conforme consta a certidão de id.13393450, pela secretaria do Tribunal de Justiça do Estado do Espírito Santo.
+ ..
+Ainda, cumpre ressaltar que a instabilidade do sistema PJe, notória e amplamente divulgada, conforme se demonstra pelos documentos anexos (Doc. 03), pelos atos normativos juntados em anexo.
+ ..
+No presente caso, evidente a tempestividade do prazo pelo sistema PJe e a instabilidade do sistema configuram justa causa para o reconhecimento da tempestividade do recurso. O Agravante não pode ser prejudicado ao próprio sistema do Tribunal de Justiça.
+A jurisprudência tem admitido, inclusive, o reconhecimento da tempestividade em casos semelhantes, em que o erro na contagem do prazo decorre de falhas do sistema eletrônico, inclusive é uma decisão do STJ, sendo que, no caso dos autos sequer trata de falha, mas ainda assim poderíamos considerar tal situação, senão vejamos:
+ ..
+Ademais, a matéria relativa à tempestividade é de ordem pública, podendo ser conhecida de ofício pelo Tribunal, a qualquer tempo e grau de jurisdição, não se sujeitando à preclusão.
+O princípio da instrumentalidade das formas, consagrado no artigo 277 do CPC, determina que o processo deve servir como meio para a realização do direito material, e não como um fim em si mesmo. Desse modo, eventual rigorismo na análise da tempestividade do recurso, em detrimento da análise do mérito da questão, configuraria uma afronta a esse princípio (fls. 571/574).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada, que agora se repete, verifica-se que a parte recorrente foi intimada da decisão agravada em 24.01.2025, sendo o Agravo somente interposto em 25.02.2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+No caso, a parte foi intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do recurso especial, no prazo de 5 dias, nos termos do art. 1.003, §6º, do Código de Processo Civil (fl. 560). Porém, deixou o prazo transcorrer in albis (fl. 564).
+Cabe ressaltar que não se desconhece do entendimento de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, Rel. Ministra LAURITA VAZ, Corte Especial, DJe 21.03.2022).
+Todavia, devem ser apresentados documentos aptos a comprovar a tempestividade do recurso, não servindo prints de tela ou imagens de páginas extraídas da internet e inseridas na petição de agravo e nestes embargos, como pretende a parte (fls. 520 e 572).
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.)
+Mesmo porque o sistema do Tribunal a quo considera para a contagem dos prazos processuais as suspensões ocorridas naquela corte, que no caso, devem sempre ser comprovadas pela parte recorrente quando da apresentação dos recursos para este Superior Tribunal de Justiça, nos termos do que preceitua o art. 1.006, § 3º do CPC.
+Ainda que assim não fosse, "O Superior Tribunal de Justiça possui orientação no sentido de que a existência de certidão do Tribunal a quo informando a tempestividade do recurso não é suficiente para vincular esta Corte Superior, que possui a competência definitiva para analisar os requisitos de admissibilidade do apelo nobre (AgInt no REsp n. 1.992.279/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2022, DJe de 12/12/2022)." (AgInt no AREsp 2651911 /MT, Rel. Ministro Teodoro Silva Santos, Segunda Turma, DJe 14.10.2024).
+Dessa forma, não há como afastar a intempestividade
+Quanto às questões de ordem pública, embora sejam passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do Recurso Especial, do preenchimento de requisitos de admissibilidade. Neste sentido, AgRg nos EAREsp n. 2.314.694/PA, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 8.8.2023; AgInt no AREsp n. 1.956.813/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 9.3.2022; e AgInt nos EDcl no AREsp n. 1.858.117/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 23.2.2022.
+No mais, cumpre registrar que é entendimento deste Superior Tribunal de Justiça que "Os princípios da instrumentalidade das formas e da primazia do julgamento do mérito não autorizam as partes a desrespeitarem as formalidades legais necessárias ao conhecimento dos recursos (AgInt no AR Esp n. 2.632.327/SP, Rel. Ministro Marco Buzzi, Quarta Turma, D Je de 29.8.2024.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
