@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE JOAQUIM PIRES, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 439):
+CONSTITUCIONAL, FINANCEIRO E PROCES SUAL CIVIL. AÇÃO DE RITO ORDINÁRIO. FUNDEB. VALOR MINIMO ANUAL POR ALUNO (VMAA). VERBA REPASSADA A MENOR. DECRETO Nº 4.580/2003. DESCUMPRIMENTO. VALORES APONTADOS EM LAUDO TÉCNICO UNILATERAL E NÃO CONTRADITADOS.
+1. A Lei nº 11.494/2007, vigente na data da sentença, prescrevia em seu art. 6º, § 2º, que os valores dos recursos repassados pela União estão sujeitos à fiscalização federal e complementação, em caso de repasse de valor a menor, ou de devolução, em caso de valor excedente.
+2. "De acordo com a jurisprudência do STJ, a fixação do Valor Mínimo por Aluno (VMAA), para fins de complementação do valor do FUNDEF, atual FUNDEB - Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, deverá ser observado o valor mínimo nacional, e não a média mínima obtida em determinado Estado ou Município. Precedente: AgInt no REsp 1.636.839/AL, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 20/10/2017" (AgInt no REsp 1.678.586/AL, Primeira Turma, Relator Ministro Gurgel de Faria, DJe de 17/12/2021).
+3. A apelante não infirma o fato de que, conforme demonstrado em laudo pericial contábil: "a União deixou de repassar ao Município de Joaquim Pires (PI), no ano de 2003, a quantia de R$65.436,22 (Sessenta e cinco mil quatrocentos e trinta e seis reais e vinte e dois centavos) em desobediência aos Decretos Presidenciais que fixam o valor Mínimo anual por aluno, qual sejam 4.580/2003".
+4. Apelação e remessa oficial não providas.
+Os embargos declaratórios opostos pela parte recorrente foram rejeitados (fls. 461-467).
+Em seu recurso especial de fls. 469-477, a parte recorrente suscita que o Tribunal de origem incorreu em violação ao artigo 85, §11 do Código de Processo Civil, ao argumento de que "o desprovimento integral do recurso atrai a incidência da majoração dos honorários recursais" (fl. 475).
+Em relação ao dissídio jurisprudencial, alega que "a divergência se configura na medida em que este Colendo STJ entende que a majoração é devida ainda que o recorrido não tenha apresentado as contrarrazões" (fl. 477).
+O Tribunal de origem, às fls. 485-487, inadmitiu o recurso especial sob o seguinte fundamento:
+(..)
+No concreto, conforme o teor do julgado hostilizado e o atual estado da jurisprudência do STJ e/ou do STF (art. 926/927 do CPC/2015), tem-se não se tratar - ao que consta - de caso que comporte negativa de seguimento, sobrestamento, juízo de retratação ou admissão (art. 1.030, I, II, III e 2ª parte do V), devendo-se, portanto, como ora se faz, prosseguir em face da 1ª parte do Inciso I.
+A teor do dispositivo ao final lançado, tem-se que o recurso não merece trânsito pelo não-atendimento integral aos seus pressupostos admissionais, notadamente porque há aparente necessidade de revolver probatório, vedado pela SÚMULAS 007/STJ e 279/STF, tentativa de superação de jurisprudência atual do STJ e/ou não-demonstração de que tenha havido, em tese, frontal violação ao sentido evidente de norma(s) federal(is) infraconstitucional(is); há aparente manejo do Recurso Especial como se 3ª Instância Recursal ordinária fosse. Prestigia-se, pois, o acórdão do colegiado do TRF1, também aqui invocado, por sua ampla fundamentação.
+Decido:  a  - Pelo exposto, pelas razões acima, NÃO ADMITO o Recurso Especial, com esteio no art. 22, III, do RI-TRF1 e no CPC/2015 (art. 1.030, V, 1ª Parte).
+(..)
+Em seu agravo, às fls. 547-550, a parte agravante aduz não ser caso de incidência do enunciado 7 da Súmula do STJ, uma vez que "a análi se das violações não perpassa por elementos de prova, sendo a questão unicamente de direito" (fl. 500).
+No mais, reiteram-se os argumentos expendidos nas razões do recurso especial.
+É o relatório.
+O recurso não comporta conhecimento.
+A decisão monocrática que inadmitiu a subi da do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - incidência do enunciado 7 da Súmula do STJ e do enunciado 279 da Súmula do STF, este último por analogia, diante da impossibilidade de reexame de fatos e provas na instância especial; e (ii) - ausência de demonstração de afronta à dispositivo de lei federal, atraindo, assim, a Súmula 284/STF.
+Todavia, nota-se que em seu agravo, a parte recorrente não impugnou, de forma fundamentada, ambos os argumento do decisum de inadmissibilidade, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, a parte agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos arts. 932, III, do CPC, e 253, parágrafo ú nico, I, do Regimento Interno do Superior Tribunal de Justiça, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, E 253, PARÁGRAFO ÚNICO, DO RISTJ . AGRAVO NÃO CONHECIDO.
