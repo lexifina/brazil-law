@@ -1,0 +1,23 @@
+DECISÃO
+OZIEL DA SILVA DUARTE interpõe recurso especial, com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região nos autos de Agravo de Execução Penal n. 5003257-02.2024.4.04.7002.
+Neste recurso, sustenta o recorrente violação do art. 563 do CPP, pois a não intimação prévia do Ministério Público Federal não causou prejuízo, visto que os requisitos para o indulto estavam preenchidos.
+Requer o provimento do recurso, para reformar o acórdão e restabelecer a decisão que concedeu o indulto.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 123-129).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Consta dos autos a concessão de indulto da pena de multa imposta ao recorrente Oziel da Silva Duarte, condenado na Ação Penal n. 5015204-58.2021.4.04.7002, com base no Decreto Presidencial n. 11.846/2023.
+Irresignado, o Ministério Público Federal interpôs apelação criminal, na qual alegou que a decisão foi proferida sem sua prévia oitiva.
+O Tribunal de origem deu provimento ao recurso e anulou a sentença por ausência de intimação do Ministério Público Federal, com base no art. 10, § 5º, do mencionado Decreto e nos arts. 67 e 112, § 2º, da LEP, pelos seguintes fundamentos, no que interessa (fls. 79-80):
+O parquet federal alega, preliminarmente, que a declaração de indulto foi feita sem a prévia oitiva do Ministério Público Federal, o que representaria ofensa às previsões expressas dos arts. 67 e 112, § 2º, da LEP e do art. 10, § 5º, do Decreto nº 11.846/23. Assiste razão à parte agravante. Isso porque o art. 10º, § 5º, do Decreto nº 11.846/23 preconiza que a decisão do juízo competente acerca da concessão do benefício será proferi da após a oitiva do Ministério Público:
+ ..
+Com efeito, considerando que, no caso, a concessão do indulto pelo Juízo não observou a previsão contida no art. 10, § 5º, do Decreto nº 11.846/23, tenho que assiste razão recorrente.
+Observo, por outro lado, no tocante ao pedido de imediata concessão do indulto da pena de multa ao condenado no Procedimento Especial da Lei Antitóxicos nº 5015204-58.2021.4.04.7002, que inviável a esta Corte adentrar no exame do atendimento ou não dos requisitos do Decreto nº 11.846/23, sob pena de indevida supressão de instância.
+Nesse contexto, a cautela se impõe, devendo ser anulada a sentença de extinção da punibilidade da pena de multa imposta ao recorrido, a fim de determinar ao juízo de origem que intime o MPF para se manifestar acerca do pedido de concessão do indulto natalino.
+Verifico que a instância originária reconheceu a nulidade da decisão por afronta à previsão do regime jurídico do indulto concedido, que prevê a participação do Ministério Público na análise dos critérios necessários para o benefício.
+No entanto, "A jurisprudência desta Corte evoluiu para considerar que no processo penal mesmo as nulidades absolutas exigem prejuízo e estão sujeitas à preclusão" (RHC n. 43.130/MT, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2016, grifei).
+No caso, a própria Procuradoria-Regional da República opinou que "o recorrente tem razão ao afirmar que a irregularidade processual não causou efetivo prejuízo ao Ministério Público, dado que o manejo do agravo permite o tempestivo debate da questão de fundo, meramente jurídica." (fl. 104 ).
+Vale destacar, a propósito, que o recurso de agravo em execução, cabível contra a decisão que concede indulto, permite o juízo de retratação, de modo que a interposição de recurso pelo Ministério Público Federal bastaria para suprir a ausência de oitiva prévia do Parquet e permitir a reconsideração da decisão questionada.
+Ademais, a questão de fundo discutida pelo Ministério Público Federal no recurso - (im)possibilidade de concessão de indulto a condenados pelo art. 33, § 4º, da Lei de Drogas - já se encontrada pacificada há anos nos tribunais superiores, de modo que seria inócuo anular a sentença somente para ouvir o Parquet sobre este tema e, em seguida, lançar outra decisão igual, porque já em conformidade com a jurisprudência do STF e do STJ.
+À vista do exposto, dou provimento ao recurso especial, para reconhecer a violação do art. 563 do CPP, restabelecer a sentença de primeiro grau e determinar que o Tribunal de origem prossiga no julgamento do mérito do indulto.
+Publique-se e intimem-se.
+EMENTA
