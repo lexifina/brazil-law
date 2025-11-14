@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JAKSON FERNANDO ALMEIDA VIANA contra o acórdão proferido pelo Tribunal de Justiça do Pará que denegou a ordem no HC n. 0816296-29.2025.8.14.0000, mantendo a custódia preventiva decorrente da Ação Penal n. 0800537-04.2022.8.14.0138, fruto do desmembramento do Processo n. 0006849-39.2016.8.14.0138, da Vara Única da comarca de Anapu/PA.
+Nestes autos, a defesa sustenta nulidade absoluta pela falta de citação pessoal e de diligências mínimas de localização do réu, o que torna inexistente a relação processual.
+Alega a ilegalidade da prisão preventiva, decretada sem fundamentação concreta, sem contemporaneidade e em processo suspenso, baseada apenas em presunções.
+Rebate a tese de citação tácita, afirmando que a ciência do defensor não substitui a pessoal.
+Defende a ocorrência da prescrição, tomando como parâmetro a pena do corréu e o tempo decorrido desde o recebimento da denúncia.
+Em caráter liminar, pede a expedição de alvará de soltura ou, alternativamente, a substituição da prisão por medidas cautelares.
+No mérito, requer a nulidade da citação por edital e da prisão preventiva, o trancamento da ação penal por ausência de relação processual válida e o reconhecimento da prescrição. Subsidiariamente, pede a anulação da decisão que manteve a prisão sem fundamentação e a imediata soltura do acusado.
+É o relatório.
+Não há evidência de constrangimento ilegal.
+No que diz respeito à alegada nulidade, é assente que o Superior Tribunal de Justiça não pode, sob pena de indevida supressão de instância, conhecer de matéria não apreciada pelo Tribunal de origem e em relação à qual a parte não opôs os necessários embargos de declaração para suprir a referida omissão (AgRg no HC n. 690.919/S P, Ministro João Otávio de Noronha, Quinta Turma, DJe 6/4/2022).
+Além disso, verifica-se que o Tribunal de origem afastou a prescrição registrando que a denúncia foi recebida em 2016, com suspensão do processo e do prazo prescricional em 2021, retomando-se a contagem após a prisão em 2025, sem decurso do prazo de seis anos fixado pela menoridade do paciente, motivo pelo qual não há prescrição. Rejeitou a tese de prescrição retroativa baseada na pena do corréu, por configurar prescrição virtual, e destacou ser inviável o exame da matéria em habeas corpus por exigir reavaliação fática e probatória.
+Com efeito, o entendimento adotado pela Corte local encontra amparo na jurisprudência pacífica do Superior Tribunal de Justiça, segundo a qual, por força do disposto no art. 366 do CPP  .. , em caso de suspensão do processo, a prescrição volta a correr após o decurso do prazo correspondente à pena máxima em abstrato cominada ao crime (AgRg no HC n. 918.060/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 23/10/2024).
+Nesse contexto, de fato, é inviável utilizar a pena concretamente imposta ao corréu para o cálculo da prescrição da pretensão punitiva estatal em relação ao paciente, a qual deve ser com base na pena máxima em abstrato prevista para o delito, conforme dispõe o art. 110, § 1º, do Código Penal.
+Ademais, como bem assinalou o Tribunal de origem, a insurgência defensiva, em essência, busca a aplicação da denominada prescrição em perspectiva ou virtual, hipótese expressamente vedada pela jurisprudência sumulada desta Corte Superior (Súmula 438/STJ).
+Por fim, consta do acórdão que a prisão preventiva do réu foi mantida pela gravidade concreta dos crimes imputados e pelo risco à aplicação da lei penal, em razão da fuga prolongada do paciente por mais de 3 anos.
+Ora, a fuga, por si só, constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória (AgRg no RHC n. 133.180/SP, relatora a Ministra Laurita Vaz, Sexta Turma, DJe de 24/8/2021) - (AgRg no HC n. 990.034/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN 12/5/2025).
+Assim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública (AgRg no HC n. 865.940/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/4/2024).
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO E ASSOCIAÇÃO CRIMINOSA. NULIDADE DA CITAÇÃO. SUPRESSÃO DE INSTÂNCIA. PRESCRIÇÃO. INEXISTÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
