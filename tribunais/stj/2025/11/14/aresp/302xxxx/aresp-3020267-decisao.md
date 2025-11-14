@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por ROBERTSHAW CONTROLS COMPANY contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 324):
+AGRAVO DE INSTRUMENTO. LOCAÇÃO DE IMÓVEL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA JULGADO IMPROCEDENTE. DEMONSTRAÇÃO DA EXISTÊNCIA DE GRUPO ECONÔMICO, BEM COMO DE ATOS DE ABUSO DE PERSONALIDADE JURÍDICA. ELEMENTOS DOS AUTOS QUE AUTORIZAM A INCLUSÃO DO GRUPO EMPRESARIAL. PRECEDENTES JURISPRUDENCIAIS. DECISÃO AGRAVADA REFORMADA. Agravo de instrumento provido.
+Rejeitados os embargos de declaração opostos (fls. 362-367; 418-423 e 444-449).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489, § 1º, do Código de Processo Civil, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que o acórdão contrariou as disposições contidas nos arts. 504 e 506 do Código de Processo Civil, além do art. 50, caput e § 4º, do Código Civil.
+Sustenta omissão e deficiência de fundamentação com relação à ausência de abuso da personalidade jurídica, apesar de atuar no mesmo segmento, porque "a clientela da Executada foi dissolvida dentre a concorrência nacional ou passou a produzir internamente as mercadorias" e "não comercializa seus produtos com as Requeridas" e a impossibilidade de aproveitamento de motivos e verdade dos fatos de outro processo, à luz dos arts. 504 e 506 do CPC.
+Afirma que, ao julgar os embargos de declaração, o Tribunal tratou o seu recurso como idêntico ao apresentado por Robertshaw Italy SRL, persistindo a omissão sobre as suas questões específicas.
+Sustenta que, "nos termos do artigo 504 e 506 do Código de Processo Civil: (i) a autoridade imutável  diz respeito apenas às partes  não prejudicando terceiros; e (ii) não fazem coisa julgada os motivos e a verdade dos fatos" (fl. 462).
+Assevera que o acórdão considerou suficientes, para a desconsideração, a dissolução irregular e a inexistência de bens penhoráveis, bem como a integração em grupo econômico e atuação no mesmo ramo. A recorrente afirma que tais elementos, por si, não configuram "desvio de finalidade" ou "confusão patrimonial".
+Aponta divergência jurisprudencial.
+Pugna pela concessão de efeito suspensivo ao recurso especial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 519-535).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 577-579), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 620-633; 635-648 e 650-663).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao dar provimento ao agravo de instrumento, fundamentou o acórdão nos seguintes termos:
+Desse modo, a teoria da desconsideração da personalidade jurídica pode ser aplicada até mesmo na hipótese de dissolução irregular da sociedade e da inexistência de bens desta para serem penhorados, eis que esta situação pode configurar infração à lei e hipótese de confusão patrimonial, conforme mencionado na lição doutrinária supracitada.
+No caso concreto, os elementos produzidos no instrumento formado e nos autos de origem, autorizam a reforma da r. decisão agravada, uma vez que é observado o uso da pessoa jurídica devedora com o fim de lesar credores.
+Verifica-se que a executada e as agravadas integram o Grupo Robertshaw, inclusive atuando no mesmo ramo de negócios, de fabricação e comércio de componentes eletrônicos para eletrodomésticos (fls. 170/235).
+Além do mais, em outro caso, já foi reconhecida a existência de grupo empresarial de fato, com o reconhecimento do abuso da personalidade jurídica caracterizado pela confusão patrimonial, com o deferimento da desconsideração da personalidade jurídica da agravada Castfutura SPA, inclusive sendo mantida em grau de recurso, com trânsito em julgado (fls. 160/168). Aliás, cabe aqui a transcrição do fundamento lançado no v. acórdão de fls. 161/168 porque se amolda adequadamente ao presente caso:
+"(..) É contra essa r. decisão que a empresa requerida demonstra seu inconformismo e em que pese seu entendimento, a mesma merece ser mantida.
+Analisando os documentos anexados ao incidente, em que pese o enorme esforço da requerida em demonstrar que não faz parte do grupo econômico Robertshaw, entendo que restou configurada as hipóteses descritas no artigo 50 do Código Civil a justificar a inclusão da empresa agravante no polo passivo da execução.
+Se mostrou inquestionável o encerramento irregular das atividades comerciais da empresa executada no Brasil no ano de 2016.
+Assim sendo, não sendo localizados bens passíveis de constrição, a exequente demonstrou que a empresa Robertshaw havia sido adquirida pela empresa Arbeit Capital S/A, que também, não possui qualquer bem ou valor em seu nome no país, conforme pesquisas anexadas ou valor em seu nome no país, conforme pesquisas anexadas às fld.243/249.
+Nestes termos restou comprovado tanto o encerramento irregular da empresa executada e a inexistência de bens passíveis de constrição.
+Em relação à empresa agravante, tem-se que restou amplamente comprovado que foi incorporada ao grupo econômico Robertshaw, conforme simples leitura não só do site da empresa executada, onde consta o link de compras como sendo www. robertshaw. com/pt- BR/CastFutura/ Langtype=1046, como também, de matérias jornalísticas anexadas às fls.158/167, que comprovam a informação trazida aos autos.
+Ademais, importante esclarecer, que a atuação da empresa executada se mostra ilícita pois apesar de ter encerrado suas atividades no país, ainda continua a vender suas peças para empresas brasileiras, constando em seu site, que também está em língua portuguesa, as peças disponíveis e até mesmo o recrutamento de funcionários.
+Assim sendo, não há como afastar a existência de grupo econômico que envolva a empresa agravante, pois é através dela que a empresa executada continua a realizar suas vendas no Brasil, caracterizando a confusão patrimonial entre as empresas.
+As provas trazidas aos autos evidenciam a clara intenção da empresa executada em não pagar os credores, pois opera no país em nome de outra empresa, no caso, a agravante, o que autoriza a aplicação da regra de desconsideração da personalidade jurídica.
+Dessa maneira, de rigor a aplicação da teoria da desconsideração da personalidade da pessoa jurídica, pois inegável que os elementos constantes dos autos autorizam a conclusão lógica de que a devedora originária tenta frustrar a satisfação do crédito dos agravantes, com uso abusivo de seus direitos, o que justifica a desconsideração de sua personalidade jurídica a fim de que, com vista à satisfação do débito, a penhora recaia sobre bens pertencentes ao grupo empresarial na forma requerida pelos agravantes. Nesse sentido:
+ ..
+Além do mais, entendimento diverso, no caso concreto, significaria premiar a inadimplência, caracterizando enriquecimento ilícito da empresa devedora em detrimento do credor.
+Destarte, respeitado o entendimento do r. Juízo "a quo", fica reformada a r. decisão agravada, para incluir o grupo de empresas no polo passivo do cumprimento de sentença, conforme pleiteado pelos agravantes.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, para alterar o decidido no acórdão impugnado, no que se refere à existência de abuso da personalidade, confusão patrimonial e grupo econômico, em razão do caráter eminentemente fático das premissas adotadas pelo Tribunal a quo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+ EMENTA
