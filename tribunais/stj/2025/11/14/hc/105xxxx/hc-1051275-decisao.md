@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LUCAS DOS SANTOS SOUZA, condenado pelo crime de roubo majorado (art. 157, § 2º, II, e § 2º-A, I, do Código Penal) à pena de 6 anos, 11 meses e 10 dias de reclusão, em regime inicial fechado (Processo n. 1500951-27.2024.8.26.0535, da 5ª Vara Criminal da comarca de Guarulhos) - (fls. 43/60).
+O impetrante indica como autoridade coatora o Tribunal de Justiça de São Paulo, que, em 29/7/2025, negou provimento à apelação, mantendo a sentença condenatória (Apelação Criminal n. 1500951-27.2024.8.26.0535, acórdão - fls. 14/42).
+Alega fixação indevida do regime inicial fechado, sustentando que a reprimenda e a primariedade permitem regime menos gravoso, em conformidade com a Súmula 440/STJ.
+Sustenta exasperação indevida da pena-base na primeira fase, pois elevou a pena em 1/4, considerando a natureza e o valor dos bens, desconsiderando a menoridade relativa do réu.
+Aponta a confissão espontânea do réu, tanto em juízo como na fase inquisitiva, o que atrai a incidência do art. 65, III, d, do Código Penal, ainda que se trate de confissão qualificada, conforme a jurisprudência do Superior Tribunal de Justiça.
+Impugna a majorante do emprego de arma de fogo, pede seu afastamento, afirmando que o paciente não estava armado, que não houve apreensão de arma, e que a vítima confirmou que ele não portava o armamento.
+Por fim, aduz que deve ser reconhecida a participação de menor importância, nos termos do art. 29, § 1º, do Código Penal.
+Em caráter liminar, pede a concessão da ordem para sanar o constrangimento ilegal e afastar de imediato os efeitos da decisão impugnada.
+No mérito, requer: a fixação do regime inicial semiaberto; a fixação da pena-base no mínimo legal; o reconhecimento da atenuante da confissão espontânea; o afastamento da majorante do emprego de arma de fogo, e a redução da pena pelo reconhecimento da participação de menor importância.
+É o relatório.
+A insurgência não comporta acolhimento.
+Ocorre que, em primeiro lugar, é inviável a utilização da via eleita para revisar a condenação imposta e mantida pelas instâncias ordinárias.
+Depois, da atenta análise dos autos, não se evidencia ilegalidade flagrante a ser sanada.
+Com efeito, na primeira fase da fixação da reprimenda, a pena foi elevada em 1/4, em razão da utilização de uma majorante sobressalente, concurso de pessoas, como circunstância judicial desfavorável, bem como em razão do valor e natureza dos bens subtraídos, o que se coaduana com jurisprudência desta Corte. Confira-se: AgRg no AREsp n. 2.739.817/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/11/2024, DJe de 25/11/2024; e AgRg no REsp n. 2.198.763/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2025, DJEN de 2/9/2025.
+Vale ressaltar, a ausência de interesse de agir quanto à incidência da atenuante da menoridade relativa, porquanto devidamente utilizada na segunda fase de fixação da reprimenda (fl. 32). De outro lado, quanto à atenuante da confissão espontânea, tendo o Tribunal a quo afirmado que o réu não confessou, na medida em que alegou apenas que o bem furtado lhe fora entregue por um conhecido (fl. 62), conclusão diversa exigiria o revolvimento do conjunto fático-probatório dos autos.
+Da mesma forma, a via eleita não comporta a análise do pleito de reconhecimento da participação de menor importância do paciente (art. 29, § 1º, do CP), tendo em vista que também exigiria a revisão do conjunto fático-probatório produzido no curso da instrução criminal, providência não compatível com o rito célere e de cognição sumária da presente ação constitucional.
+Além disso, com relação à incidência da causa de aumento de pena d o inciso I do § 2º-A do art. 157 do Código Penal, conforme destacou o acórdão impugnado, é prescindível a apreensão e a perícia da arma para a incidência da majorante do emprego de arma de fogo no crime de roubo, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito (REsp n. 2.181.529/MG, de minha relatoria, Sexta Turma, julgado em 15/10/2025, DJEN de 21/10/2025). Firmada essa premissa, a inversão do julgado esbarra na impossibilidade do reexame do conjunto fático-probatório dos autos.
+Por fim, fixada pena inferior a 8 anos, a imposição de regime mais gravoso fundamentou-se na existência de circunstâncias judiciais negativas, devidamente consideradas na primeira fase da dosimetria, e na gravidade em concreto da ação delituosa. Tudo em plena consonância com a pacífica jurisprudência deste Superior Tribunal.
+No mesmo sentido: AgRg no HC n. 911.844/SP, da minha relatoria, Sexta Turma, DJe 27/6/2024; e AgRg no HC n. 782.545/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 26/6/2024.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA PELAS INSTÂNCIAS ORDINÁRIAS. FALTA DE CABIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
