@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se recurso especial interposto por SERAFINO E VELA SOCIEDADE DE ADVOGADOS, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Extrai-se dos autos que a recorrente, nos termos da certidão para saneamento de óbices de e-STJ fls. 2874, foi intimada para regularizar a sua representação processual no prazo de 5 dias, em razão da ausência de procuração da subscritora do recurso especial.
+Nota-se que, às e-STJ fls. 2878/2894, a recorrente juntou procuração cujos poderes consignados foram outorgados à subscritora do recurso especial em data posterior à sua interposição.
+Saliente-se que a petição de e-STJ fls. 2896/2901, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo, assim, a preclusão temporal da prática do ato.
+Nos termos do art. 76, § 2º, I, do CPC, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC), não promove o saneamento do vício no prazo concedido.
+Outrossim, de acordo com o comando inserto na Súmula 115/STJ, na instância especial é inexistente recurso interposto por advogado sem procuração nos autos.
+Ressalta-se que, no recente julgamento do AgInt nos EDcl no AgInt no AREsp 2.506.209/SP, em 5/11/2025, a Corte Especial manteve o entendimento consolidado neste STJ no sentido de que, para suprir eventual vício de representação processual, não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso.
+Além disso, importa destacar que, no mesmo julgamento, estabeleceu-se que "apenas excepcionalmente é permitido ao advogado postular em juízo sem o correspondente instrumento de mandato, devendo a situação ser devidamente justificada nos autos nas hipóteses expressamente indicadas na lei processual civil  art. 104 do CPC  para evitar perecimento de direitos (preclusão, prescrição ou decadência, ou para praticar ato considerado urgente)". Assim, "nestas hipóteses, o advogado deve explicar nos autos porque praticou o ato sem a contemporânea procuração, indicando a ocorrência excepcional de situação de preclusão, decadência ou prescrição, ou para a prática de ato considerado urgente", (AgInt nos EDcl no AgInt no AREsp 2.506.209/SP, Corte Especial, julgado em 5/11/2025), o que, contudo, não se verifica no particular.
+Desse modo, não tendo sido apresentada a cadeia completa de procuração e/ou substabelecimento nos autos, impossível o conhecimento do recurso.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
