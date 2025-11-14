@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 280):
+Plano de saúde. Autor diagnosticado com fibrose pulmonar idiopática, em progressão, a despeito do tratamento ministrado. Prescrição do medicamento Nintedanibe. Recusa à cobertura, sob o fundamento de exclusão para medicamentos de uso domiciliar. Cobertura devida. Restrições sobre o local de atendimento, em princípio, não podem se aplicar quando a infusão da droga indicada seja, em si, o tratamento do paciente. Taxatividade, ademais, assentada em acórdão da Corte Superior no qual, de todo modo, ressalvadas situações excepcionais a permitir a cobertura de procedimento fora do rol. Superveniência da Lei n. 14.454/22, que se aplica ao caso. Sentença mantida. Recurso desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão estadual violou o art. 10, VI, da Lei n. 9.656/98.
+Sustenta, em síntese, que não está legalmente obrigada a fornecer medicamento de uso domiciliar.
+Foram oferecidas contrarrazões ao recurso especial (fls. 324-333).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 334-335), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta ao agravo (fl. 350).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa ao art. 10, VI, da Lei nº 9.656/98 e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, no tocante à taxatividade mitigada do rol da ANS e ao dever de fornecer o medicamento pleiteado (Nintedanibe/Ofev) para tratamento de fibrose pulmonar, por se mostrar imprescindível e eficaz para preservar a vida e a saúde do beneficiário
+A propósito, cito os seguintes precedentes:
+DIREITO CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. FIBROSE PULMONAR IDIOPÁTICA. NINTEDANIBE. COBERTURA OBRIGATÓRIA. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão proferido em agravo de instrumento manejado pela operadora de plano de saúde (CASU/UFMG), que reformou decisão liminar do juízo de primeiro grau, a qual determinara o fornecimento do medicamento Nintedanibe 100 mg ao autor, diagnosticado com fibrose pulmonar idiopática.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a obrigatoriedade da operadora de plano de saúde de fornecer o medicamento Nintedanibe para tratamento de fibrose pulmonar idiopática.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido da obrigatoriedade de cobertura do medicamento Nintedanibe para tratamento de fibrose pulmonar, por ser antineoplásico oral e apresentar eficácia comprovada para essa enfermidade, ainda que utilizado fora da indicação original aprovada pela ANVISA (REsp n. 2.205.881/SP, relator Ministro Moura Ribeiro, DJe de 15/5/2025).
+4. A recusa da operadora fundamentada exclusivamente na ausência de previsão no rol da ANS é considerada abusiva, conforme precedentes que admitem a mitigação do rol, desde que presentes os critérios definidos nos EREsps n. 1.889.704/SP e n. 1.886.929/SP (AgInt no REsp n. 2.116.953/DF, relator Ministro Raul Araújo, DJe de 6/5/2025).
+5. O medicamento Nintedanibe, embora prescrito para uso domiciliar, enquadra-se na exceção legal do art. 12, I, "c", e II, "g", da Lei n. 9.656/1998, sendo antineoplásico oral e, por isso, de cobertura obrigatória pelo plano de saúde (AgInt no AREsp n. 2.647.779/SP, relator Ministro Ricardo Villas Bôas Cueva, DJe de 11/4/2025).
+6. A ausência de alternativa terapêutica eficaz e a prescrição médica específica para o tratamento da doença grave autorizam a concessão judicial da medicação, ainda em sede de tutela provisória (AgInt no REsp n. 2.125.701/SP, relator Ministro Humberto Martins, DJe de 14/2/2025).
+IV. DISPOSITIVO
+7. Recurso especial provido.
+(REsp n. 2.188.918/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025. - destaquei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. MEDICAMENTO DE USO DOMICILIAR. NEGATIVA INDEVIDA DE COBERTURA. PRECEDENTES. IRRETROATIVIDADE DA LEI N. 14.454/2022. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça dispõe que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento. 1.1. Infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da complementação ou da produção de nova prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Na hipótese, o acórdão recorrido decidiu em conformidade com o entendimento firmado por esta Corte Superior, o qual analisando caso semelhante concluiu pela obrigatoriedade do fornecimento do medicamento Nintedanibe para tratamento de fibrose pulmonar por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+3. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.553.167/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024 - destaquei.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à imprescindibilidade do tratamento indicado para resguardar a saúde do beneficiário, bem como à abusividade da recusa no caso concreto, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+No mesmo sentido, cito o seguinte precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO QUE NÃO SE ENQUADRA COMO MEDICAÇÃO DE USO DOMICILIAR. INVIABILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRESCRIÇÃO MÉDICA. PATOLOGIA PREVISTA NO PLANO CONTRATADO. NEGATIVA ILÍCITA DE COBERTURA. RECURSO ESPECIAL DESPROVIDO.
+1. A modificação do acórdão recorrido quanto à natureza e à necessidade do medicamento dependeria do reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, conforme a Súmula n. 7 do STJ.
+2. O acórdão está em consonância com o entendimento firmado nesta Corte Superior, no sentido de que, embora as operadoras possam delimitar as doenças cobertas, não podem restringir os meios terapêuticos indicados para o tratamento da enfermidade contratualmente prevista 3. Recurso especial desprovido.
+(REsp n. 2.219.735/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+Por fim, verifica-se, a partir da leitura das razões do recurso especial, que a recorrente se limita a sustentar a inexistência de cobertura para medicamento de uso domiciliar, sem impugnar o fundamento autônomo do acórdão recorrido segundo o qual "restrições sobre o local de atendimento, em princípio, não podem se aplicar quando a infusão da droga indicada seja, em si, o tratamento do paciente" (fls. 282). Incide, portanto, a Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
