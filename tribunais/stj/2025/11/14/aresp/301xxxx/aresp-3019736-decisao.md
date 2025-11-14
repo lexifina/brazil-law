@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por KAUAN ALEXANDRE DE SOUZA SANTOS contra decisão do TJSP que inadmitiu seu recurso especial.
+Consta dos autos que o agravante foi condenado pelo crime de extorsão mediante sequestro.
+No recurso especial (e-STJ fls. 1.783/1.792), sustentou a defesa que o acórdão recorrido teria violado o art. 226 do Código de Processo Penal, tendo em vista que o reconhecimento pessoal do agravante não obedeceu as regras estabelecidas na lei processual.
+Requereu a nulidade do reconhecimento pessoal, com a absolvição do recorrente. Subsidiariamente, pleiteou a diminuição da pena.
+Inadmitido o recurso especial (e-STJ fls. 1.919/1.923), a defesa interpôs o presente agravo, no qual renovou os argumentos apresentados no recurso especial.
+Com vista dos autos, opinou o Ministério Público Federal pelo desprovimento do recurso (e-STJ fls. 1.982/1.991).
+É o relatório. Decido.
+De início, observa-se que o agravante rebateu, a tempo e modo, os fundamentos da decisão agravada, devendo, pois, ser conhecido o agravo. Passo ao exame do recurso especial.
+Quanto ao mérito do recurso especial, a pretensão de ver reconhecida a nulidade do reconhecimento pessoal já foi apreciada por esta Corte Superior, por ocasião do julgamento do HC-1.015.984/SP, impetrado em favor do corréu Christofer, oportunidade em que este Relator concluiu que "verifica-se que a fundamentação para a condenação do agravante não decorreu exclusivamente de eventual reconhecimento pessoal viciado, mas, também, da existência de elementos, coesos e harmônicos entre si, que confirmaram a versão exposta na denúncia, em especial, o depoimento da vítima descrevendo detalhadamente a dinâmica dos fatos e a atividade desempenhada pelo agravante durante a empreitada criminosa, o qual era o responsável por realizar a contenção da vítima e se comunicar com os comparsas que estavam no cativeiro, bem como de fazer a vigilância de local (..) Nessa linha de intelecção, Não há justificativa para se anular a sentença condenatória por eventual inobservância do procedimento de reconhecimento pessoal previsto no art. 226 do CPP quando há nos autos provas autônomas que comprovam a autoria (AgRg no AREsp n. 2.585.787/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024). "
+Nota-se que a fundamentação em relação ao reconhecimento pessoal do corréu Christofer é a mesma do recorrente Kauan, conforme se verifica do seguinte trecho do acórdão recorrido:
+Christofer dos Santos Silva, Wolber Oliveira Batista, Kauan Alexandre de Souza Santos, Gustavo de Lucena Tavares e Anderson Ribeiro de Lima Junior foram condenados, pois, agindo em prévio conluio, mediante grave ameaça exercida com emprego de arma de fogo e restrição da liberdade da vítima, subtraíram o veículo Honda/Civic, qualificado na exordial acusatória, de propriedade de T. W. S.. Na sequência, com o intuito de obter indevida vantagem econômica, sequestraram o ofendido com o fim de obter vantagem como preço do resgate e o constrangeram a fornecer as suas senhas bancárias.
+(..)
+Wolber, Christofer e Kauan se revezavam para vigiar a vítima em cativeiro, cabendo, ainda, ao primeiro retirar T. do automóvel e, sob a mira de arma de fogo e ameaças de morte, obrigá-lo a ir com os criminosos. É certo que estes dois últimos se conheciam intimamente, pois Kauan é, inclusive, padrinho do filho de Christofer
+Desse modo, a pretensão ora deduzida no recurso especial já foi examinada por este Superior Tribunal de Justiça, razão por que o recurso especial não supera o óbice do conhecimento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
