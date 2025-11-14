@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE JOINVILLE, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição da República, contra acórdão do Tribunal de Justiça de Santa Catarina, na Apelação n. 0905207-41.2013.8.24.0038, com a ementa seguinte (fl. 107, grifo acrescentado):
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO. EXECUÇÃO FISCAL. IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU). RECURSO DO MUNICÍPIO. SOBRESTAMENTO DO FEITO. REPRESENTATIVO N. 24 DESTA CORTE. INAPLICABILIDADE. REDIRECIONAMENTO CONTRA O ESPÓLIO NÃO ADMITIDO. FALECIMENTO DA CONTRIBUINTE ANTERIOR À CITAÇÃO. DESPROVIMENTO.
+I. CASO EM EXAME
+1. Agravo Interno objetivando a reforma de monocrática que manteve a extinção da execução fiscal em razão do falecimento da executada.
+II. QUESTÃO EM DISCUSSÃO
+2. Sobrevém inconformismo consistente em decidir se (i) cabível o sobrestamento do recurso, por tratar de controvérsia de caráter repetitivo idêntica à formada pelo Grupo de Representativos n. 24 do TJSC e (ii) possível a extinção da execucional aforada contra devedora falecida anteriormente à citação.
+III. RAZÕES DE DECIDIR
+3. Inafastável o reconhecimento da ilegitimidade passiva e, por conseguinte, extinção da execucional pelo falecimento da devedora antes da citação, a teor da Súmula n. 392 do Superior Tribunal de Justiça.
+IV. DISPOSITIVO E TESE
+4. Agravo Interno conhecido e desprovido.
+Teses de julgamento: "1. O redirecionamento da execução contra o espólio só é admitido quando o falecimento do contribuinte ocorrer depois de ele ter sido devidamente citado na da execução fiscal; 2. Vedada a modificação do sujeito passivo da execução, a teor da Súmula n. 392 do Superior Tribunal de Justiça".
+Sustenta a parte recorrente que a decisão recorrida teria afrontado o art. 131, III, do Código Tributário Nacional.
+Argumenta que "Não houve erro material ou formal na identificação do sujeito passivo, dado que o contribuinte era vivo a esta época. Com a morte do contribuinte, logico não residir no polo passivo, daí a necessidade de chamar o espólio para a ação, na condição de representante judiciário (art. 75, VII do CPC) e de responsável tributário (art. 131, III do CTN). É certo que o espólio é ente despersonalizado, com função transitória, a que se dá capacidade processual para fins de representação em Juízo. Nessa linha de raciocínio percebe-se que a questão jurídica aqui debatida não se subsume aos termos daquela hipótese versada pela súmula 392/STJ, eis que não trata de correção de vício nem de modificação do sujeito passivo da relação material" (fl. 117).
+O recurso especial foi admitido (fls. 128-131).
+Em sessão eletrônica de julgamento finalizada em 4/11/2025 e publicada em 10/11/2025, a Primeira Seção deste Superior Tribunal de Justiça decidiu afetar à sistemática dos recursos repetitivos os Recursos Especiais ns . 2.227.141/SC e 2.237.254/SC, em que a questão submetida a julgamento é "Definir se é possível prosseguir a execução fiscal contra o espólio ou os sucessores caso o executado venha a falecer sem ser citado" - Tema Repetitivo 1.393/STJ.
+Na afetação, este Superior Tribunal determinou a suspensão da tramitação de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ.
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos e com a determinação de suspensão, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, nos termos dos arts. 1.040 e 1.041 do CPC.
+Apenas após essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o referido tema ou pelo novo pronunciamento do Tribunal a quo.
+Registre-se que "essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal" (AgInt no REsp n. 2.136.298, Ministro Gurgel de Faria, DJe de 20/8/2024).
+Ante o exposto, com fundamento no art. 34, XXIV, c/c o art. 256-L, I, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão referente ao Tema Repetitivo 1.393/STJ, realize o juízo de adequação, conforme estabelecem os arts. 1.040 e 1.041 do CPC.
+Publique-se.
+Intime-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. DEVEDOR FALECIDO ANTES DA CITAÇÃO. POSSIBILIDADE DE PROSSEGUIR CONTRA O ESPÓLIO. TEMA REPETITIVO 1.393/STJ. SUSPENSÃO NACIONAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
