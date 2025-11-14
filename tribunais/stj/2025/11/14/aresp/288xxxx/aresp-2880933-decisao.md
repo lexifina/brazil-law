@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por SÃO CRISTÓVÃO DE FUTEBOL E REGATAS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fls. 1.734-1.736):
+APELAÇÃO CÍVEL. COBRANÇA. PROVA PERICIAL. DESPESAS PAGAS PELO AUTOR. FATO CONSTITUTIVO COMPROVADO. ENRIQUECIMENTO INDEVIDO. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO NÃO DEMONSTRADO. SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM.
+1. Consoante se observa da sentença atacada, o Juízo a quo fundamentou o julgado, em síntese, no fato de que as despesas foram realizadas no interesse do réu, devendo, pois, o autor ser ressarcido sob pena de enriquecimento indevido. Deve-se salientar que no saneador fixou-se como ponto controvertido a "efetiva saída da quantia do patrimônio financeiro do autor para o caixa do réu", o que restou demonstrado com a prova pericial produzida e na qual resta fundamentado o julgado recorrido.
+2. Contudo, ateve-se o apelante a sustentar contradição e obscuridade no julgado, ante a alegada violação ao estatuto em relação à "efetuar despesas que excedam ao valor de 50 (cinquenta) salários mínimos" e omissão quanto ao destino dado pelo autor aos recursos do réu, ou seja, às receitas do clube, mas não impugnando de forma específica os fundamentos do julgado, tampouco a prova pericial produzida.
+3. Veja-se que a sentença objurgada, com base no laudo pericial, reconheceu a necessidade de o réu recorrer ao empréstimo para que as despesas referentes a gastos com água, luz e lixo pudessem ser pagas, salientando-se "que tais despesas são essenciais para o funcionamento do clube" e que, em relação a despesas com futebol, "ainda que não tenha havido comprovação de autorização prévia de algumas despesas que excedam 50 salário mínimos, nos termos do estatuto, o exame do laudo pericial indica que a maior parte das despesas foram em valores inferiores a tal limite e, portanto, não precisariam de tal comprovação" e, ainda, "que as despesas foram feitas no interesse do clube".
+4. Assim, sendo utilizado pelo clube recursos financeiros do apelado para pagamento de despesas essenciais ao funcionamento de suas atividades e, ainda, em seu interesse, deve haver o correspondente reembolso, sob pena de enriquecimento sem causa do demandado (CC, art. 884).
+5. Em relação à "omissão" alegada, concernente ao destino dado pelo autor aos recursos do réu, deve-se ressaltar, primeiramente, que se trata de indevida inovação recursal, uma vez que não ventilada na contestação, tratando-se, pois, de nítida violação ao princípio da concentração da defesa previsto no art. 336 do Código de Processo Civil. Precedente do TJRJ.
+6. Outrossim, ainda que o contrário fosse, melhor sorte não socorre ao recorrente, uma vez que a prova pericial foi categórica ao afirmar que os valores suportados pelo autor, "contabilizados e escriturados no Razão e Livro Diário do clube, a título de empréstimos do presidente ao clube", e "identificados valores a título de ressarcimento de luz, água e lixo", foram devidamente comprovados nos autos.
+7. Ante ao exposto, conclui-se que o réu não se desincumbiu do ônus probatório (CPC, art. 373, II), uma vez que não comprovou o fato impeditivo, modificativo ou extintivo do direito do autor, razão pela qual se mantém a sentença de procedência proferida.
+8. Noutra toada, constata-se a omissão do julgado quanto ao índice de correção monetária incidente sobre a condenação imposta, impondo-se a integração da sentença a fim de que seja aplicada a correção monetária na forma do Provimento 60/2024 da Corregedoria Geral da Justiça/RJ. Impende salientar que cabível a alteração ex officio dos juros moratórios e da correção monetária, por se tratar de questão de ordem pública. Precedente do STJ.
+9. Por fim, o art. 85, § 11, do Código de Processo Civil, dispõe que o Tribunal, ao julgar o recurso interposto, majorará os honorários fixados anteriormente.
+10. Assim, com o não provimento do recurso, mostra-se cabível a fixação de honorários recursais. Precedente do STJ.
+11. Apelo não provido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação d o art. 206, § 3º, IV e V, do Código Civil.
+Sustenta, em síntese, que o Tribunal de origem se recusou a examinar a prescrição trienal suscitada. Argumenta que os empréstimos realizados pelo recorrido em favor do recorrente teriam ocorrido durante a sua gestão na presidência do clube, nos biênios de 2014/2015 e 2016/2017. Diz que, no momento da propositura da presente demanda em 27/01/2021, a pretensão de ressarcimento por suposto enriquecimento sem causa havia sido fulminada pela prescrição trienal.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.794-1.797).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.800-1.804), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.823-1.842).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+O acórdão recorrido não se manifestou acerca do art. art. 206, § 3º, IV e V, do Código Civil, indicado como violado, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, por analogia, a Súmula 356/STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+ EMENTA
