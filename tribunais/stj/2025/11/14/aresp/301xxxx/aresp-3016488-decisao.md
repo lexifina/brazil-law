@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por ISANDIR OLIVEIRA DE REZENDE contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fl. 530):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA - DEFERIMENTO - PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL - REJEIÇÃO - COBRANÇA DECORRENTE DE APROPRIAÇÃO INDEVIDA POR ADVOGADO DE VALORES OBTIDOS EM AÇÃO JUDICIAL - RECIBO DE QUITAÇÃO GENÉRICO - SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS MONITÓRIOS E DE CONSTITUIÇÃO DE PLENO DIREITO DO TÍTULO JUDICIAL - MANUTENÇÃO - RECURSO CONHECIDO E DESPROVIDO. O princípio da dialeticidade consubstancia-se na exigência de que o recorrente apresente os fundamentos da sua insatisfação com a decisão atacada e o motivo do pedido de prolação de outra. Estando presentes tais requisitos, a preliminar de ausência de pressuposto de admissibilidade do recurso do consumidor deve ser rejeitada.
+Inexistência de apresentação pelo requerido de provas da existência de fatos impeditivos, modificativos ou extintivos do direito do autor (CPC, art. 333, inciso II), bem como de prova do pagamento integral do título.
+Rejeitados os embargos de declaração opostos (fl. 566).
+No recurso especial, a parte recorrente alega violação do art. 320, parágrafo único, do Código Civil. Sustenta que o recibo de quitação apresentado, embora simples, contém elementos suficientes (número do processo e dos alvarás) que, pelas circunstâncias, demonstram o pagamento integral da dívida.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 587 - 598).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 599 - 603), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 612 - 618).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial tem origem em ação monitória, na qual o autor buscou a constituição de título executivo para cobrança de valores que afirmou não terem sido integralmente repassados pelo advogado contratado em demanda trabalhista. Em sentença, foram julgados improcedentes os embargos monitórios e o pedido reconvencional, com constituição do título judicial. O acórdão de apelação manteve a sentença, destacando a insuficiência do termo de declaração de recebimento dos alvarás como quitação integral por ausência de especificação de valores e datas, e reafirmando o ônus do devedor de comprovar o pagamento integral.
+O Tribunal de origem concluiu no sentido de que não houve comprovação do pagamento integral da dívida pelo recorrente, permanecendo pendente o montante de R$ 33.480,65, porque os extratos bancários apenas evidenciam repasses parciais e o "Termo de Declaração" é genérico e insuficiente para quitação, como se pode depreender do seguinte trecho extraído do acórdão recorrido (fl. 528):
+Os documentos apresentados nos autos comprovam a transferência de valores de sua conta bancária para a conta de titularidade do autor/embargado, totalizando dois depósitos nos respectivos valores de R$ 26.600,00, em 16/11/2011 e R$ 46.832,00, em 12/12/2011 (extratos bancários, Id. 23739215). Os extratos bancários em referência demonstram que o réu/embargante repassou o montante de R$73.432,00, restando pendente de pagamento R$33.480,65.
+E, ainda, (fl. 562):
+É claro que há nos autos o Termo de Declaração anexado ao Id. 23739227 ( ). Todavia, também é certo que o documento foi confeccionado de maneira genérica, não servindo para dar a devida quitação integral do pagamento, haja vista que não são especificados valores ou datas dos pagamentos, mas tão somente indicados os números dos alvarás. ( ) In casu, as circunstâncias apontam justamente o contrário, ou seja, de que não houve o pagamento integral da dívida. Ressalta-se que é ônus do devedor comprovar o pagamento da dívida (artigo 373, inciso II, CPC).
+Afastar o referido entendimento para concluir no sentido de que houve quitação integral com base no recibo apresentado e nas circunstâncias do caso, como pretende o recorrente, demandaria o reexame do material fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL. ACORDO HOMOLOGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. SÚMULA N. 83 DO STJ. PRESCRIÇÃO INTERCORRENTE. PRECLUSÃO. QUITAÇÃO DO DÉBITO. REEXAME. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que apenas ocorre cerceamento de defesa nos casos em que o juízo decide por insuficiência de provas, embora tenha indeferido justamente o meio de prova que supriria essa insuficiência probatória, o que não foi o caso dos autos. Precedentes.
+3. A compreensão adotada pelo Tribunal estadual encontra ressonância na jurisprudência do STJ, que perfilha o posicionamento de que "sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (AgInt no AREsp 2.019.623/SP, Rel. Ministro Raul Araújo, DJe de 4/10/2022).
+4. As instâncias ordinárias concluíram que o pagamento integral da dívida não foi comprovado pelos recorrentes, sendo vedado o reexame do acervo fático-probatório em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+5. Recurso especial não provido.
+(REsp n. 1.924.780/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 423).
+Publique-se. Intimem-se.
+ EMENTA
