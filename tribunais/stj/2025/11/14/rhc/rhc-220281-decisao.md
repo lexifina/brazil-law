@@ -1,0 +1,9 @@
+DECISÃO
+FELICIO DA CRUZ SANTOS SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso no Habeas Corpus n. 1019830-78.2025.8.11.0000.
+Consta dos autos que o paciente foi denunciado pela prática do crime previsto no art. 155, § 4º, II, do Código Penal, porque, segundo a denúncia, "no período compreendido entre dezembro de 2024 e março de 2025, na sede da empresa Max Case Máquinas Ltda, situada na Avenida Olacyr de Moraes, nº 2303, Bairro Jardim Olenka, Campo Novo do Parecis/MT, FELICIO DA CRUZ SANTOS SILVA, valendo-se da confiança nele depositada, subtraiu para si 03 (três) kits de tecnologia agrícola (compostos por antena, nave e monitor), avaliados em aproximadamente R$ 400.000,00 (quatrocentos mil reais), pertencentes a empresa Max Case Máquinas Ltda, representada por Robson Ferreira Santos."
+A defesa requer, em síntese: a) o reconhecimento da ausência de justa causa para a ação penal; b) a revogação da prisão preventiva por ausência dos requisitos para sua decretação; c) o reconhecimento de que não se encontra na condição de foragido e de que a prisão ora decretada representa antecipação da pena; d) a substituição da prisão preventiva por outras medidas cautelares.
+Conforme verificado no sítio eletrônico do Tribunal de origem, foi prolatada sentença condenatória , ocasião em que foi fixado o regime aberto para início de cumprimento da pena privativa de liberdade, houve a substituição desta por penas restritivas de direitos e foi concedido ao réu o direito de apelar em liberdade.
+Assim, tendo em vista a superveniência da ordem de soltura do acusado, está caracterizada a prejudicialidade deste recurso, o qual se voltava contra a prisão preventiva do recorrente.
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
