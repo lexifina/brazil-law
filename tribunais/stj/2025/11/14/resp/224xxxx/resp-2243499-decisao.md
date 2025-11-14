@@ -1,0 +1,79 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ESTADO DE SÃO PAULO e SAO PAULO PREVIDENCIA - SPPREV contra acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 88e):
+Agravo de Instrumento - Cumprimento de sentença - PIQ - Reconhecimento do direito ao recálculo da base de cálculo do PIQ, com inclusão da sexta-parte e dos quinquênios - Aposentadoria de uma das litisconsortes - Decisão agravada que indeferiu o apostilamento do direito nos proventos de aposentadoria recebida pela beneficiária - Insurgência - Admissibilidade - Diferenças devidas que passam a integrar os vencimentos do servidor, o que repercute no valor recebido a título de aposentadoria - Necessidade de apostilamento - Precedentes - Decisão reformada. Recurso provido.
+Opostos embargos de declaração, estes foram acolhidos, sem modificação do julgado, nos termos da ementa (fl. 104e):
+Embargos de Declaração - Cumprimento de sentença - PIQ - Reconhecimento do direito à inclusão do PIQ na base de cálculo dos quinquênios e da sexta-parte - Aposentadoria de uma das litisconsortes - Acórdão embargado que reformou decisão interlocutória que havia indeferido pleito para que o título executivo tenha reflexos financeiros nos proventos - As incorporações conquistadas possuem reflexos na aposentação, diante do trato sucessivo da relação jurídica e da fórmula de cálculo da aposentaria proporcional (médias de vencimentos) - Desnecessidade de nova demanda, devendo os cálculos serem refeitos, com os devidos reflexos na aposentadoria do Agravante, sob pena de enriquecimento sem causa e ilícito da Administração Pública. Embargos acolhidos para esclarecimentos.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos artigos 506 e 779, I, do Código de Processo Civil, alegando-se, em síntese, que é indevida a responsabilização da SPPREV pelo pagamento de débito titularizado pelo estado de São Paulo, sob pena de ofensa aos limites subjetivos do título executivo e à coisa julgada, notadamente por não ter a SPPREV integrado a ação de conhecimento (fls. 120/121e).
+Com contrarrazões, o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 230e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+- Da violação aos arts. 506 e 779, I, do Código de Processo Civil
+Quanto à questão relativa à impossibilidade de se imputar à SPPREV a obrigação de pagar débito titularizado pelo estado de São Paulo, o tribunal de origem manifestou-se nos seguintes termos (fls. 88/90e):
+Cinge-se a controvérsia recursal acerca da possiblidade de apostilamento do título executivo na aposentadoria recebida pela coautora Maria Teresa Vieira das Neves.
+Conforme se denota da leitura dos autos, foi reconhecido nos autos do Processo nº 0005939-16.2011.8.26.0053 o direito aos autores, dentre eles a ex-servidora litisconsorte Maria Teresa Vieira das Neves, à declaração da natureza de verba efetiva do Prêmio de Incentivo à Qualidade (PIQ) e a sua inclusão nos vencimentos para o cálculo dos adicionais temporais (quinquênio e sexta-parte).
+Contudo, em razão da aposentadoria da servidora, foi solicitado o apostilamento do título executivo em seus proventos.
+Pois bem.
+Inicialmente, não há que se falar em ofensa à coisa julgada, pois não está em discussão o reajuste dos vencimentos da ex-servidora, mas apenas o consequente reflexo do direito reconhecido em seus proventos de aposentadoria.
+É que reconhecido o direito à servidora de recálculo do PIQ para inclusão em sua base de cálculo da sexta- parte e adicional por tempo de serviço, haverá repercussão no cálculo da aposentadoria, de modo que deve ser deferido o seu apostilamento.
+Destarte, não é razoável que somente os vencimentos dos servidores ativos sejam recalculados, sem que tais recálculos sejam estendidos aos proventos de aposentadoria. Tampouco é necessário o ajuizamento de ação própria e autônoma para o reconhecimento dessa pretensão.
+Por tudo, de rigor que a aposentadoria da Agravante seja revista com base nos novos valores incorporados.
+Em face do exposto, dá-se provimento ao recurso.
+Em complemento, a Corte de origem esclareceu os seguintes pontos em sede de embargos de declaração (fls. 105/107e):
+Cediço que, quando da execução do título judicial, irá se verificar a condição pessoal de cada servidor.
+Pois bem.
+Por óbvio, as incorporações conquistadas possuem reflexos na aposentação, diante do trato sucessivo da relação jurídica e da fórmula de cálculo da aposentaria proporcional (médias de vencimentos).
+Desta feita, desnecessária nova demanda, devendo os cálculos serem refeitos, com os devidos reflexos na aposentadoria do Agravante, sob pena de enriquecimento sem causa e ilícito da Administração Pública.
+Entende esta Relatoria que, se o título executivo determina a inclusão do PIQ na base de cálculo pretendida, tal providência é necessária ao cumprimento da obrigação subsequente ao apostilamento.
+Caso prevaleça a tese fazendária, de que valeria o título  A que fim ele prestaria  Segundo a Fazenda, o que se executa, então, é verdadeiro comando judicial vazio, inócuo, pois teria havido tão apenas determinação de recálculo da base de cálculo dos quinquênios, com a inclusão do PIQ, sem, no entanto, que tal valor tenha reflexo nos proventos de aposentadoria que a Agravante passou a receber.
+Por fim, in casu, a ação originária coletiva foi proposta em face do Estado de São Paulo em 2011 (processo nº 0005939-16.2011.8.26.0053) e que, após, durante o trâmite processual, efetivou-se a aposentadoria da coexequente Maria Teresa Vieira das Neves, circunstância em que os proventos passam a ser pagos pela São Paulo Previdência - SPPREV, o qual deve responder pelo cumprimento da obrigação, ainda que que não tenha sido parte no processo de conhecimento.
+Nesse sentido, a autarquia previdenciária por se tratar de sucessora do Estado São Paulo no que diz respeito ao custeio das folhas de pagamento dos servidores que passam à inatividade, denota-se que aplicável ao caso o disposto no art. 779, II, do Código de Processo Civil, o qual prevê:
+"Art. 779. A execução pode ser promovida contra:
+I - o devedor, reconhecido como tal no título executivo;
+II - o espólio, os herdeiros ou os sucessores do devedor;
+III - o novo devedor que assumiu, com o do credor, a obrigação resultante do título executivo;
+IV o fiador do débito constante em título extrajudicial;
+V - o responsável titular do bem vinculado por garantia real ao pagamento do débito;
+VI - o responsável tributário, assim definido em lei."
+Neste sentido já decidiu esta C. 3ª Câmara:
+Agravo de Instrumento nº 2124737-75.2022.8.26.0000 Relator(a): Camargo Pereira Comarca: Ribeirão Preto Órgão julgador: 3ª Câmara de Direito Público Data do julgamento: 05/07/2022 Data de publicação: 05/07/2022 Ementa: AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INCLUSÃO NO POLO PASSIVO DE INSTITUTO DE PREVIDÊNCIA. IMPOSSIBILIDADE DE REFORMA. De rigor inclusão no polo passivo do Instituto de Previdência dos Municipiários de Ribeirão Preto (IPM), pois, nos termos da Lei Complementar Municipal 1.012/00, é sucessora da Municipalidade pelo custeio das folhas de pagamento dos servidores que passarem à inatividade e que forem abrangidos pela norma (art. 43). Na hipótese, o autor, ora agravado, passou à inatividade no decorrer da tramitação do feito principal. Conforme o CPC/15, a execução pode ser promovida contra os sucessores do devedor (art. 779, II). Precedentes desta eg. Corte. Decisão recorrida mantida. Recurso não provido.
+Ante o exposto, acolhem-se os embargos de declaração para esclarecimentos.
+Nas razões recursais, sustenta-se, em síntese, que não é possível que se impute à SPPREV a obrigação de pagar débito titularizado pelo Estado de São Paulo, porquanto tal providência viola a coisa julgada e os limites subjetivos do título executivo. Argumenta-se que a SSPREV não integrou a ação de conhecimento e, consequentemente, não lhe foi oportunizado o exercício do contraditório, pressuposto necessário para eficácia de decisão de mérito em relação à referida autarquia. Por fim, aduz-se que, em tais condições, sequer há título judicial exigível, não sendo possível o redirecionamento da execução (fls. 120/122e).
+Confrontando-se a fundamentação adotada pela Corte a qua e a insurgência recursal, resta evidenciado que os recorrentes deixaram de impugnar fundamentos suficientes do acórdão recorrido, quais sejam:
+(i) Não há que se falar em ofensa à coisa julgada, pois não está em discussão o reajuste dos vencimentos da ex-servidora, mas apenas o consequente reflexo do direito reconhecido em seus proventos de aposentadoria (fl. 90e);
+(ii) As incorporações conquistadas possuem reflexos na aposentação, diante do trato sucessivo da relação jurídica e da fórmula de cálculo da aposentaria proporcional (médias de vencimentos) (fl. 105); e
+(iii) A autarquia previdenciária é sucessora do Estado São Paulo no que diz respeito ao custeio das folhas de pagamento dos servidores que passam à inatividade, aplicando-se ao caso o disposto no art. 779, II, do Código de Processo Civil (fl. 106e).
+Nesse cenário, as razões recursais encontram-se dissociadas daquilo que foi decidido pelo tribunal de origem, caracterizando a deficiência na fundamentação do recurso especial, a atrair, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Espelhando tal compreensão, os julgados assim ementados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DISCURSÃO SOBRE MATÉRIA TRIBUTÁRIA. LEGITIMIDADE ATIVA DO PARQUET. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO E RAZÕES RECURSAIS DISSOCIADAS DE SEUS FUNDAMENTOS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 283 E 284/STF. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+(..)
+2. Caso em que o recorrente deixou de impugnar o fundamento autônomo do acórdão recorrido, estando, ainda, as razões recursais dissociadas daquilo que restou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do STF.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.050.268/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, j. 18.12.2023, DJe 21.12.2023).
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. IMPOSIÇÃO DE MULTA ADMINISTRATIVA PELO PROCON ESTADUAL. EMPRESA DE TELEFONIA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO AOS CONSUMIDORES ACERCA DA COBRANÇA DE TARIFAS EXTRAS. CONFIGURAÇÃO DE INFRAÇÃO ÀS NORMAS CONSUMERISTAS. CABIMENTO DA MULTA APLICADA. REDUÇÃO DO VALOR DA MULTA PELO TRIBUNAL DE ORIGEM. HONORÁRIOS ADVOCATÍCIOS. ACOLHIMENTO DO PEDIDO SUBSIDIÁRIO E REJEIÇÃO DO PRINCIPAL. SUCUMBÊNCIA RECÍPROCA. FUNDAMENTOS DO ACÓRDÃO A QUO NÃO COMBATIDOS. SÚMULAS 283 E 284/STF.
+(..)
+3. Nas razões recursais, nota-se que a parte recorrente não infirma os argumentos de que "constatada a hipótese de sucumbência reciproca, decorrente do acolhimento apenas do pleito subsidiário", limitando-se a defender que "a severa redução havida sobre a multa administrativa impingida à Recorrente pelo Estado ora recorrido caracteriza sucumbência em parte mínima do pedido que encampou na exordial, o que de antemão assegura-lhe a percepção da totalidade dos honorários advocatícios devidos calculados sobre o proveito econômico obtido". Como a fundamentação do acórdão recorrido é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, não há como conhecer do recurso. Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+(..)
+5. Agravo Interno não provido.
+(AgInt no REsp n. 2.087.302/MG, Rel. Ministro Herman Benjamin, Segunda Turma, j. 19.8.2024, DJe 22.8.2024).
+Ademais, os artigos indicados pelos recorrentes como violados estabelecem, in verbis:
+Art. 506. A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros.
+Art. 779. A execução pode ser promovida contra:
+I - o devedor, reconhecido como tal no título executivo.
+Denota-se, portanto, que os dispositivos de legislação federal invocados no presente recurso não possuem comando normativo suficiente para alterar a conclusão alcançada pela Corte a qua, notadamente porque esta concluiu que (i) apenas se discute o consequente reflexo do direito reconhecido nos proventos de aposentadoria da recorrida (fl . 90e) e (ii) a autarquia previdenciária, enquanto responsável pelo custeio das folhas de pagamento dos servidores que passam à inatividade, é sucessora do Estado São Paulo, aplicando-se ao caso o disposto no art. 779, II, do Código de Processo Civil (fl. 106e), razão pela qual o recurso não comporta cognição nesse ponto.
+Com efeito, incide, por analogia, a orientação contida na Súmula n. 284 do Supremo Tribunal Federal segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. PREQUESTIONAMENTO. AUSÊNCIA. NOVOS FUNDAMENTOS. IMPOSSIBILIDADE. PRECLUSÃO. PRESCRIÇÃO. JURISPRUDÊNCIA DO STJ. CONSONÂNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+(..)
+4. Não se conhece do recurso especial quando o dispositivo apontado como violado não contém comando normativo para sustentar a tese defendida ou infirmar os fundamentos do acórdão recorrido, em face do óbice contido na Súmula 284 do STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.211.929/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, j. 22.4.2024, DJe 30.4.2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. AUSÊNCIA DE IMPUNGAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 280 DO STF. DISPOSITIVOS LEGAIS INDICADOS POR VIOLADOS SEM NORMATIVIDADE SUFICIENTE. SÚMULA 284 DO STF.
+(..)
+6. Por fim, pela análise unicamente dos dispositivos legais apontados como violados (arts. 944 do CC e 33, § 4º, da Lei 8.080/1990), verifica-se que eles não possuem normatividade suficiente para solucionar a lide em questão. A mera alegação de afronta aos artigos indicados não é suficiente para afastar a conclusão do TRF2. Dessa forma, constata-se que o Recurso Especial está deficientemente fundamentado, incidindo, por analogia, a Súmula 284/STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nessa linha: AgInt no REsp 1.862.911/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 12/8/2021, AgInt no REsp 1.899.386/RO, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 16/6/2021 e AgRg no REsp 1268601/DF, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 3/9/2014.
+7. Agravo Interno não provido.
+(AgInt no REsp n. 1.752.162/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, j. 19.8.2024, DJe 22.8.2024).
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
