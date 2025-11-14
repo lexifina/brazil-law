@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DA PARAÍBA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL- AÇÃO DE EMENTA INDENIZAÇÃO- ATROPELAMENTO DE PEDESTRE COM EVENTO MORTE POR VEÍCULO DO BOMBEIRO MILITAR DO ESTADO- PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL- REJEIÇÃO- INCIDÊNCIA DO ART. 37 § 6º DA CF RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO- OBRIGAÇÃO DE INDENIZAR- MANUTENÇÃO DO - DECISUM DESPROVIMENTO DO APELO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 944 do Código Civil, no que concerne à necessidade de redução da indenização por dano moral, em razão da fixação de R$ 120.000,00 sem observância do parâmetro legal de extensão do dano, trazendo a seguinte argumentação:
+Trata-se de apelação do Estado desprovida para manter a pretensão indenizatória autoral, condenando-o ao pagamento de R$ 120.000,00, fixado na v. Sentença de piso:
+ ..
+Não houve qualquer menção quanto ao dispositivo legal que prevê o parâmetro para indenização previsto no art. 944, do CC, razão pela qual o Estado interpôs embargos de declaração.
+Diante do acórdão que negou provimento aos embargos de declaração, entendendo o Estado da Paraíba que a decisão em tela ofende diversos dispositivos da legislação federal, vem oferecer o presente Recurso Especial pugnando pela reforma total do acórdão objurgado (fl. 329)
+
+A) DA REDUÇÃO DO MONTANTE INDENIZATÓRIO
+Quanto ao dano moral, o juiz, ao proceder à complexa tarefa de quantificá-lo, deve atuar com prudência, atento, dentre outras circunstâncias, à gravidade do fato danoso, à repercussão social da conduta, arbitrando com razoabilidade quantia capaz de cumprir a dúplice função da indenização, quais sejam, compensatória (representação de um alento capaz de minorar as conseqüências do dano) e punitiva (desestímulo ao cometimento de novos ilícitos pelo infrator). Ademais, não pode converter-se em fonte de enriquecimento.  (fls. 329-330)
+
+Dessa maneira, deve-se reduzir o valor da condenação de R$ 120.000,00 (cento vinte mil reais) consoante a decisão do acórdão recorrido para patamar mais razoável a critério deste Colendo STJ, devendo ser reformado o acórdão, sob pena de enriquecimento ilícito do requerente (fl. 330).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, nã o obstante oposição de embargos declaratórios, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ" (AgInt nos EDcl no REsp n. 1.738.596/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, ;DJEN de 26/3/2025).
+Na mesma linha: "A alegada violação ao art. 489, § 1º, I, II, III e IV, do CPC não foi examinada pelo Tribunal de origem, nada obstante a oposição de embargos de declaração. Logo, incide a Súmula n. 211/STJ, porquanto ausente o indispensável prequestionamento" (AgInt no AREsp n. 2.100.337/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: EDcl nos EDcl no AgRg no AREsp n. 2.545.573/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AgRg no AREsp n. 2.466.924/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 26/3/2025; AREsp n. 2.832.933/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 21/3/2025; AREsp n. 2.802.139/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AREsp n. 1.354.597/PR, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; REsp n. 2.073.535/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.623.773/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgInt no AREsp n. 2.243.277/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 19/3/2025; AgRg no REsp n. 2.100.417/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/3/2025; AgInt nos EDcl no AREsp n. 2.569.581/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 28/2/2025; AgInt no AREsp n. 2.503.989/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 27/2/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
