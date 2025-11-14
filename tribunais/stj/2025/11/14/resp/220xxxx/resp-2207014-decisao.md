@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+Verifico que a presente controvérsia envolve a discussão de tema afetado ao rito dos Recursos Especiais Repetitivos, com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma (Tema 1.033; "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas").
+A pertinência do tema com o presente caso concreto é clara: interrupção do prazo prescricional para a propositura de cumprimento individual de sentença coletiva em virtude do ajuizamento de execução pelo ente coletivo.
+Observo , assim, que a solução a ser dada por esta Corte, no julgamento do referido tema, será quanto ao eventual reconhecimento de causa interruptiva da contagem do prazo prescricional, independentemente da natureza do direito material tutelado.
+Nesse aspecto, sem razão a origem quando afirma que "a aferição dos termos e prazos, considerada a regulação da prescrição quinquenal de dívida da fazenda pública pelo Decreto nº 20.910/32, objeto do acórdão recorrido, não guarda qualquer relação com a controvérsia exposta a futuro julgamento pelo STJ" e "que a controvérsia do referido Tema 1.033/STJ foi gerada no contexto da ação coletiva relacionada aos expurgos inflacionários infligidos pelos conhecidos "planos econômicos" aos titulares de caderneta de poupança" (fl. 347e).
+Posto isso, com fundamento no art. 1.037, II, do Código de Processo Civil de 2015, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos referentes ao Tema acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Prejudicado o exame do recurso especial.
+Publique-se. Intime-se.
+EMENTA
