@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Inadmissão de recurso especial. Súmulas nº 83 e 182 do STJ. Ausência de impugnação específica. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento nas Súmulas nº 83 e 182 do Superior Tribunal de Justiça.
+2. A decisão agravada considerou que o recurso especial foi inadmitido pela Segunda Vice-Presidência do Tribunal de Justiça do Estado da Bahia, em razão da consonância do acórdão recorrido com a jurisprudência dominante sobre o afastamento do tráfico privilegiado e a exasperação da pena-base. Para superar o óbice, seria necessário demonstrar, de forma específica e fundamentada, a modificação jurisprudencial ou realizar o adequado distinguishing, o que não foi feito.
+3. Nas razões do agravo regimental, a defesa alegou tempestividade do recurso e sustentou a inaplicabilidade das Súmulas nº 83 e 182 do STJ, afirmando ter realizado impugnação analítica e demonstração do dissenso jurisprudencial. No mérito, argumentou equívoco na negativa do redutor do art. 33, § 4º, da Lei nº 11.343/2006 e na valoração das circunstâncias do art. 59 do Código Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental apresentou impugnação específica e fundamentada aos óbices processuais da decisão monocrática, conforme exigido pelas Súmulas nº 83 e 182 do Superior Tribunal de Justiça.
+III. Razões de decidir
+5. A ausência de demonstração específica e fundamentada, mediante indicação de precedentes contemporâneos ou supervenientes que evidenciem modificação na orientação jurisprudencial do Superior Tribunal de Justiça, ou de realização do adequado distinguishing, inviabiliza o conhecimento do agravo.
+6. A mera repetição dos argumentos de mérito no agravo em recurso especial, sem o necessário cotejo analítico, não afasta a incidência da Súmula nº 83 do Superior Tribunal de Justiça.
+7. O agravo regimental não trouxe elementos novos capazes de superar a ausência de impugnação específica aos fundamentos da decisão agravada, o que justifica a aplicação da Súmula nº 182 do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento:
+Dispositivos relevantes citados:Lei nº 8.038/1990, art. 39; CPP, art. 798; Lei nº 11.343/2006, art. 33, § 4º; CP, art. 59.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1.884.245/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 23.06.2023; STJ, AgRg no AREsp 2.087.876/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 16.09.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLIDSON DOS SANTOS, representado pela DEFENSORIA PÚBLICA DO ESTADO DA BAHIA, contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento nas Súmulas n. 83 e 182 do Superior Tribunal de Justiça (fl. 776-780).
+A decisão agravada consignou que o recurso especial foi inadmitido pela Segunda Vice-Presidência do Tribunal de Justiça do Estado da Bahia por incidência da Súmula n. 83 desta Corte, em razão da consonância do acórdão recorrido com a jurisprudência dominante quanto ao afastamento do tráfico privilegiado e à exasperação da pena-base. Registrou que, para superar esse óbice, incumbiria ao agravante demonstrar, de forma específica e analítica, a incorreção da aplicação do verbete sumular, mediante indicação de precedentes contemporâneos ou supervenientes que evidenciassem modificação jurisprudencial, ou pela realização de distinguishing. Como o agravo em recurso especial limitou-se a reiterar os argumentos de mérito sem realizar o necessário cotejo analítico, foi aplicada a Súmula n. 182 deste Tribunal, não se conhecendo do recurso.
+Nas razões do agravo regimental (fl. 788-797), a defesa sustenta tempestividade com base no prazo de cinco dias do art. 39 da Lei n. 8.038/1990, contagem ininterrupta do art. 798 do Código de Processo Penal e prerrogativa de prazo em dobro assegurada à Defensoria Pública.
+No mérito recursal, afirma ter havido efetivo enfrentamento dos fundamentos da inadmissão e defende a inaplicabilidade das Súmulas n. 83 e 182 desta Corte, alegando ter realizado impugnação analítica da ratio decidendi e demonstração do dissenso jurisprudencial. Invoca precedentes sobre o tráfico privilegiado e o princípio da dialeticidade recursal.
+Quanto ao mérito da controvérsia penal, sustenta equívoco no afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006, e na valoração das circunstâncias do art. 59 do Código Penal, argumentando que quantidade e natureza de drogas e apreensão de arma, isoladamente, não demonstram dedicação a atividades criminosas nem integração a organização criminosa. Afirma, ainda, que as declarações policiais foram retratadas em juízo e não podem embasar a negativa do redutor. Requer o provimento do agravo regimental para reforma da decisão monocrática e provimento do recurso especial, ou, subsidiariamente, julgamento pela Turma.
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Inadmissão de recurso especial. Súmulas nº 83 e 182 do STJ. Ausência de impugnação específica. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, com fundamento nas Súmulas nº 83 e 182 do Superior Tribunal de Justiça.
+2. A decisão agravada considerou que o recurso especial foi inadmitido pela Segunda Vice-Presidência do Tribunal de Justiça do Estado da Bahia, em razão da consonância do acórdão recorrido com a jurisprudência dominante sobre o afastamento do tráfico privilegiado e a exasperação da pena-base. Para superar o óbice, seria necessário demonstrar, de forma específica e fundamentada, a modificação jurisprudencial ou realizar o adequado distinguishing, o que não foi feito.
+3. Nas razões do agravo regimental, a defesa alegou tempestividade do recurso e sustentou a inaplicabilidade das Súmulas nº 83 e 182 do STJ, afirmando ter realizado impugnação analítica e demonstração do dissenso jurisprudencial. No mérito, argumentou equívoco na negativa do redutor do art. 33, § 4º, da Lei nº 11.343/2006 e na valoração das circunstâncias do art. 59 do Código Penal.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o agravo regimental apresentou impugnação específica e fundamentada aos óbices processuais da decisão monocrática, conforme exigido pelas Súmulas nº 83 e 182 do Superior Tribunal de Justiça.
+III. Razões de decidir
+5. A ausência de demonstração específica e fundamentada, mediante indicação de precedentes contemporâneos ou supervenientes que evidenciem modificação na orientação jurisprudencial do Superior Tribunal de Justiça, ou de realização do adequado distinguishing, inviabiliza o conhecimento do agravo.
+6. A mera repetição dos argumentos de mérito no agravo em recurso especial, sem o necessário cotejo analítico, não afasta a incidência da Súmula nº 83 do Superior Tribunal de Justiça.
+7. O agravo regimental não trouxe elementos novos capazes de superar a ausência de impugnação específica aos fundamentos da decisão agravada, o que justifica a aplicação da Súmula nº 182 do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não conhecido.
+Tese de julgamento:
+1. A ausência de demonstração específica e fundamentada, mediante indicação de precedentes contemporâneos ou supervenientes que evidenciem modificação na orientação jurisprudencial do Superior Tribunal de Justiça, ou de realização do adequado distinguishing, inviabiliza o conhecimento do agravo. 2. A aplicação da Súmula nº 182 do Superior Tribunal de Justiça é cabível quando o agravo regimental não apresenta impugnação específica aos fundamentos da decisão agravada.
+Dispositivos relevantes citados:Lei nº 8.038/1990, art. 39; CPP, art. 798; Lei nº 11.343/2006, art. 33, § 4º; CP, art. 59.
+Jurisprudência relevante citada:STJ, AgRg no AREsp 1.884.245/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 23.06.2023; STJ, AgRg no AREsp 2.087.876/MG, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 16.09.2022.
+VOTO
+A questão submetida ao colegiado restringe-se à análise da correção da decisão monocrática que não conheceu do agravo em recurso especial com fundamento nas Súmulas n. 83 e 182 desta Corte. Para superação desse óbice processual, seria indispensável que o agravante demonstrasse, de forma específica e fundamentada, mediante indicação de precedentes contemporâneos ou supervenientes, eventual modificação na orientação jurisprudencial do Superior Tribunal de Justiça, ou realizasse o adequado distinguishing entre o caso concreto e os julgados invocados pela Vice-Presidência estadual. A ausência dessa demonstração específica inviabiliza o conhecimento do agravo.
+Examinando as razões do agravo em recurso especial (fl. 727-741), verifico que a defesa limitou-se a reiterar os argumentos de mérito quanto à aplicação do tráfico privilegiado e à dosimetria da pena, sem realizar o cotejo analítico exigido para afastar a incidência da Súmula n. 83 do Superior Tribunal de Justiça. Embora tenha sido mencionado o precedente firmado em recurso repetitivo pela Terceira Seção desta Corte (REsp n. 1.977.180/PR), não foram apontados julgados contemporâneos que evidenciassem mudança de entendimento ou peculiaridade do caso concreto apta a diferenciá-lo da orientação consolidada.
+O agravo regimental, por sua vez, não trouxe elementos novos capazes de superar essa deficiência dialética, persistindo a ausência de impugnação específica aos fundamentos que embasaram a inadmissão do recurso especial na origem. Nesse contexto, a manutenção da decisão monocrática é medida que se impõe, em observância à Súmula n. 182 desta Corte.
+Nesse sentido são os precedentes desta Corte: AgRg no AREsp n. 1.884.245/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 23/6/2023 e AgRg no AREsp n. 2.087.876/MG, Quinta Turma, Rel. Min.Joel Ilan Paciornik, DJe de 16/9/2022.
+Ante o exposto, NÃO CONHEÇO do agravo regimental, ante a ausência de impugnação específica dos fundamentos da decisão agravada, nos termos da Súmula n. 182 do Superior Tribunal de Justiça.
+É o voto.
