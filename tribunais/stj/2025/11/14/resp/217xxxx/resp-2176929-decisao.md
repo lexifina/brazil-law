@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial no qual a parte recorrente aponta violação ao artigo 43, §2º, do Código de Defesa do Consumidor, na medida em que considera ser válida a notificação, via e-mail ou mensagem de texto, da inclusão do nome do consumidor em cadastro de proteção ao crédito, além da existência de divergência jurisprudencial.
+A matéria em debate foi afetada para julgamento de acordo com o rito dos recursos repetitivos (Tema n. 1.315), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ. Vejamos:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS REPETITIVOS. ARTS. 1.036 E SEGUINTES DO CPC. DIREITO DO CONSUMIDOR. PRÁTICAS COMERCIAIS. BANCOS DE DADOS E CADASTROS. NOTIFICAÇÃO PRÉVIA DE REGISTRO. FORMA DE COMUNICAÇÃO. MEIOS ELETRÔNICOS. VALIDADE.
+1. Delimitação da controvérsia: Definir se, em matéria de direitos do consumidor aplicáveis às práticas comerciais específicas dos bancos de dados e cadastros de consumidores, a notificação prévia ao consumidor por meios eletrônicos de comunicação - com finalidade de informar abertura de cadastro, ficha, registro e dados pessoais e de consumo - realizadas pelos referidos bancos e cadastros ou por serviços de proteção ao crédito e congêneres atende ao dever de comunicação por escrito, para fins de validade jurídica de comprovação da exigência do art. 43, § 2º, do CDC.
+2. Afetação do recurso especial ao rito dos arts. 1.036 e ss. do CPC.
+(ProAfR no REsp n. 2.171.003/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/3/2025, DJEN de 21/3/2025.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de Justiça local, com a devida baixa nesta Corte de Justiça, para aplicação dos artigos 1.039 e 1.040 do CPC, devendo-se: i) negar seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceder ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
+EMENTA
