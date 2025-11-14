@@ -1,0 +1,2 @@
+Altera a Lei nº 6.791, de 9 de junho de 1980, para modificar a data do Dia Nacional da Mulher e incluir o Dia Internacional da Mulher no calendário nacional de datas comemorativas; e institui o Dia Nacional das Meninas e inclui o Dia Internacional das Meninas no calendário nacional de datas comemorativas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
