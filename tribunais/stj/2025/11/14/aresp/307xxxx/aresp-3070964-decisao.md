@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por Giovanna Longa do Prado contra decisão que não admitiu recurso especial manejado, com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. PRELIMINAR. ILEGITIMIDADE PASSIVA AFASTADA. MÉRITO. NOTIFICAÇÃO PRÉVIA COMPROVADA. CORRESPONDÊNCIA ENVIADA. DESNECESSIDADE DE AVISO DE RECEBIMENTO. SÚMULA 404 DO STJ. RECURSO DA RÉ CONHECIDO E PARCIALMENTE PROVIDO. INSURGÊNCIA DA PARTE AUTORA. ANÁLISE PREJUDICADA. RECURSO NÃO CONHECIDO.
+O arquivista do cadastro de inadimplentes, como responsável pelo envio da notificação prévia ao devedor nos termos do art. 43, § 2º, do Código de Defesa do Consumidor, possui legitimidade para figurar no polo passivo de demandas que questionam a regularidade dessa comunicação.
+Para cumprimento da obrigação prevista no art. 43, § 2º, do Código de Defesa do Consumidor, basta que o órgão mantenedor do cadastro de inadimplentes comprove a postagem da notificação ao consumidor, sendo desnecessária a apresentação de aviso de recebimento (Súmula 404 do STJ). Tal correspondência deve ser enviada ao endereço fornecido pelo credor, não sendo exigível que o arquivista verifique a veracidade das informações repassadas.
+Quando o acolhimento do recurso interposto pela parte ré resultar na reforma da sentença e na improcedência dos pedidos iniciais, ocorre a perda do objeto do recurso da autora.
+Nas razões do recurso especial, a parte agravante alega, em síntese, que o acórdão recorrido violou os arts. 507 e 1.022, II, do Código de Processo Civil; e o art. 43, § 2º, da Lei 8.078/1990 (Código de Defesa do Consumidor).
+Sustenta negativa de prestação jurisdicional, por suposta omissão não sanada pelo acórdão dos embargos de declaração.
+Defende, ademais, que teria havido preclusão quanto ao ponto fático de datas de emissão/postagem e disponibilização do registro, em afronta ao art. 507 do Código de Processo Civil.
+Afirma, ainda, que a notificação prévia prevista no art. 43, § 2º, do Código de Defesa do Consumidor não teria sido válida, porque enviada para endereço que não seria o seu e sem observância do lapso de 10 dias entre emissão/postagem e negativação.
+Contrarrazões apresentadas às fls. 694/708.
+Assim delimitada a controvérsia, passo a decidir.
+No caso dos autos, o Tribunal de origem, por sua vez, deu parcial provimento ao recurso da agravada para julgar improcedentes os pedidos formulados na inicial, reconhecendo que o cumprimento do art. 43, § 2º, do CDC ocorre com a comprovação da postagem da notificação, sendo dispensável o aviso de recebimento, conforme Súmula 404/STJ. Além disso, consignou que a correspondência deve ser enviada ao endereço fornecido pelo credor. Veja-se (fls. 543-544):
+"No caso em comento, a apelante Confederação Nacional de Dirigentes Lojistas (SPC Brasil) juntou aos autos, no evento 14, NOT2, o comprovante de que foi enviada notificação à apelada.
+Especificamente na fl. 04 do referido documento, consta que a postagem ocorreu em 21/06/2022.
+Todavia, consta no mesmo documento o carimbo dos correios datado de 20/06/2022, o que demonstra que a efetiva emissão e encaminhamento para postagem ocorreram antes do dia 21/06/2022:
+ ..
+Desse modo, não prospera o argumento de que não foi observado o prazo de dez dias indicados na carta (contados da emissão) para possibilitar a quitação do débito. É relevante mencionar, ainda, que a existência do débito sequer foi questionada pela devedora que, mesmo notificada, não efetuou o pagamento.
+Ademais, em regra, não é responsabilidade da arquivista confirmar as informações a ela repassadas, sendo necessário que comprove apenas o envio da notificação ao endereço fornecido pelo credor, que foi o que ocorreu neste caso.
+ ..
+Desse modo, não se verifica irregularidade na notificação enviada pela arquivista à devedora, motivo pelo qual merece provimento o recurso no ponto, de modo a reformar a sentença e julgar improcedentes os pedidos formulados na inicial, revogando-se a liminar previamente concedida."
+Quanto à alegada negativa de prestação jurisdicional, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa à comprovação da postagem da notificação foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão do agravante.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+Ademais, verifico que o entendimento do acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, segundo a qual, comprovados o envio e a entrega da comunicação remetida ao endereço do devedor, constante da informação enviada ao banco de dados pelo credor, considera-se atendida a obrigação prevista no art. 43, § 2º, do CDC. Não sendo necessário, portanto, demonstrar o efetivo recebimento da carta pelo destinatário, conforme pacificado na Súmula 404/STJ. A propósito:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO ELETRÔNICA. PROVA. RECURSO DESPROVIDO.
+ ..
+3. Há duas questões em discussão: (i) saber se a notificação eletrônica é válida para fins de inscrição em cadastro de inadimplentes, conforme o art. 43, § 2º, do Código de Defesa do Consumidor; (ii) saber quanto à validade da condenação em danos morais no valor de R$ 15.000,00, alegando-se enriquecimento sem causa.
+III. Razões de decidir
+4. A Corte de origem decidiu pela inadmissão da comunicação por meio eletrônico, destacando a falta de prova de que o endereço eletrônico era do demandante, configurando danos morais pela inscrição indevida.
+5. O entendimento jurisprudencial do STJ é que a comunicação prévia ao consumidor pode ser feita por escrito, sem necessidade de comprovação do efetivo recebimento, desde que demonstrado o envio e entrega ao servidor de destino.
+6. A prova do envio da comunicação é responsabilidade da empresa administradora do banco de dados.
+7. O reexame fático-probatório é vedado pela Súmula n. 7 do STJ, impossibilitando a revisão da decisão quanto à validade do endereço eletrônico e quanto à redução do valor da indenização.
+IV. Dispositivo e tese
+8. Recurso desprovido.
+Tese de julgamento: "1. A comunicação prévia ao consumidor para inscrição em cadastro de inadimplentes pode ser feita por escrito, sem necessidade de comprovação do efetivo recebimento. 2. A prova do envio da comunicação é responsabilidade da empresa administradora do banco de dados. 3. A revisão de decisão sobre a validade do endereço eletrônico e a redução do valor da indenização é vedada pelo reexame fático-probatório".
+Dispositivos relevantes citados: CDC, art. 43, § 2º; CPC, art. 1.022.Jurisprudência relevante citada: STJ, REsp n. 2.063.145/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14.3.2024; STJ, REsp n. 2.092.539/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17.9.2024.
+(REsp n. 2.216.678/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+RECURSO ESPECIAL. CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE PROT EÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. ART. 43, § 2º, DO CDC. ENVIO DE CORRESPONDÊNCIA ELETRÔNICA. E-MAIL. MEIO IDÔNEO. IRREGULARIDADE AFASTADA. RECURSO ESPECIAL PROVIDO.
+1. "Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição" (Súmula n. 359 do STJ).
+2. A comunicação prévia do consumidor acerca da inscrição de seu nome em banco de inadimplentes independe de excessiva formalidade, sendo suficiente que seja por escrito e a ele dirigida.
+3. Na hipótese de os órgãos de proteção ao crédito optarem pelo envio, pela via postal, de carta sobre a negativação do nome do consumidor em banco de dados, ficam dispensados de comprovar o aviso de recebimento (AR).
+4. É válida a comunicação escrita, conforme prevê o art. 43, § 2º, do CDC, enviada por carta ou e-mail, desde que os dados do consumidor sejam fornecidos pelo credor ao órgão mantenedor do cadastro de inadimplentes.
+5. Recurso especial provido.
+(REsp n. 2.158.450/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 10/12/2024, DJEN de 7/4/2025.)
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. ARTIGO 43, § 2º, DO CDC. PRÉVIA NOTIFICAÇÃO. POSSIBILIDADE DE ENVIO DA COMUNICAÇÃO ESCRITA POR E-MAIL. SUFICIÊNCIA DA COMPROVAÇÃO DO ENVIO E ENTREGA DO E-MAIL NO SERVIDOR DE DESTINO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir a validade ou não da comunicação remetida por e-mail ao consumidor acerca da inscrição de seu nome em cadastro de inadimplentes para fins de atendimento ao disposto no art. 43, § 2º, do Código de Defesa do Consumidor.
+2. O dispositivo legal determina que a abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele.
+3. Considerando que é admitida até mesmo a realização de atos processuais, como citação e intimação, por meio eletrônico, inclusive no âmbito do processo penal, é razoável admitir a validade da comunicação remetida por e-mail para fins de notificação prevista no art. 43, § 2º, do CDC, desde que comprovado o envio e entrega da comunicação ao servidor de destino.
+4. Assim como ocorre nos casos de envio de carta física por correio, em que é dispensada a prova do recebimento da correspondência, não há necessidade de comprovar que o e-mail enviado foi lido pelo destinatário.
+5. Comprovado o envio e entrega de notificação remetida ao e-mail do devedor constante da informação enviada ao banco de dados pelo credor, está atendida a obrigação prevista no art. 43, § 2º, do CDC.
+6. Na hipótese, o Tribunal local consignou, de forma expressa, que foi comprovado o envio de notificação ao endereço eletrônico fornecido pelo credor associado cientificando o consumidor e sua efetiva entrega à caixa de e-mail do destinatário.
+7. Modificar a premissa fática estabelecida no acórdão recorrido de que houve o envio e entrega da notificação por e-mail demandaria o reexame de fatos e provas dos autos, providência vedada em recurso especial.
+8. Recurso especial a que se nega provimento.
+(REsp n. 2.063.145/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 14/3/2024, DJe de 7/5/2024.)
+Desse modo, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ. Ademais, alterar essas premissas esbarraria, necessariamente, no óbice da Súmula 7 do STJ.
+Cumpre registrar, ainda, que a incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido, inviabilizando o conhecimento do recurso especial também com base na alínea "c" do inciso III do artigo 105 da Constituição Federal.
+Por fim, não se verifica violação ao art. 507 do CPC, pois "a jurisprudência desta Corte é no sentido de que o efeito devolutivo da apelação, em sua dimensão vertical, confere profundidade ampla ao recurso, o que permite ao tribunal reapreciar todas as questões ligadas à matéria veiculada no apelo, sem estar limitado pelos fundamentos jurídicos adotados pela sentença, nem pelos suscitados pela parte. Precedentes." (AgInt no AREsp n. 2.572.231/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/11/2024, DJEN de 29/11/2024.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J
+ustiça gratuita.
+Intimem-se.
+EMENTA
