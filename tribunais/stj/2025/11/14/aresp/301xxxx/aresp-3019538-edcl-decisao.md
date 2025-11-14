@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por FAZIA DOMINGUES SOCIEDADE DE ADVOGADOS à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+A decisão embargada aplicou a Súmula 283 do STF, afirmando que a Embargante não teria enfrentado todos os fundamentos do acórdão recorrido. Todavia, o Recurso Especial impugnou expressamente tanto o fundamento de inaplicabilidade da impenhorabilidade às pessoas jurídicas, quanto a alegação de natureza alimentar do crédito exequendo, conforme demonstrado nas razões recursais (fls. 212-214). A omissão na análise desse ponto impediu o exame da efetiva impugnação recursal, o que compromete a completude da prestação jurisdicional.
+ ..
+A decisão aplicou a Súmula 284 do STF, por suposta deficiência na indicação dos dispositivos legais. Entretanto, o Recurso Especial fundamentou-se expressamente no art. 833, X, do CPC/2015, e também na violação ao princípio da dignidade da pessoa humana, de modo que não há ausência de indicação legal, mas sim interpretação equivocada do alcance normativo do referido artigo. A ausência de manifestação sobre esse ponto configura omissão, pois o dispositivo foi claramente indicado e debatido.
+ ..
+A Embargante demonstrou que o caso concreto não se confunde com precedentes que limitam a impenhorabilidade a pessoas físicas, uma vez que se trata de sociedade de advogados, cujos valores bloqueados correspondem a honorários de natureza alimentar. A decisão embargada, porém, não enfrentou essa peculiaridade, restringindo-se a repetir o entendimento geral sobre pessoas jurídicas, sem analisar a distinção apresentada (fls. 250-251).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, inexiste qualquer mácula na decisão ora embargada, pois corretamente entendeu incabível apontar ofensa a princípios, fez incidir a Súmula n. 283/STF, por ausência de rebatimento, nas razões do apelo especial, de fundamento do julgado recorrido, suficiente para mantê-lo, bem como aplicou a Súmula n. 284/STF, diante da ausência de apontamento de dispositivo violado, com relação à controvérsia do afastamento da multa por litigância de má-fé.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
