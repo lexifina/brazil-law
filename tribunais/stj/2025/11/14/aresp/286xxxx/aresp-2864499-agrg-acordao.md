@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Penal. Agravo Regimental. Homicídio Qualificado. Soberania dos Veredictos. Reexame de Provas. Agravo Regimental Desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, afastou a qualificadora do art. 121, § 2º, I, do Código Penal (paga ou promessa de recompensa), reduzindo a pena para 16 anos de reclusão e mantendo os demais termos da condenação.
+2. A defesa postula o conhecimento e provimento integral do recurso especial, com: (i) absolvição ou novo julgamento por decisão do Júri manifestamente contrária às provas; (ii) exclusão da qualificadora do art. 121, § 2º, IV, do Código Penal; (iii) readequação da pena-base por violação ao art. 59 do Código Penal e bis in idem; e (iv) afastamento dos óbices sumulares e reconhecimento de dissídio jurisprudencial.
+II. Questão em discussão
+3. Há quatro questões em discussão: (i) saber se o veredicto do Tribunal do Júri foi manifestamente contrário às provas dos autos; (ii) saber se há elementos para afastar a qualificadora do art. 121, § 2º, IV, do Código Penal; (iii) saber se houve violação ao art. 59 do Código Penal e ocorrência de bis in idem na fixação da pena-base; e (iv) saber se há similitude fático-jurídica para o reconhecimento de dissídio jurisprudencial.
+III. Razões de decidir
+4. O agravo regimental não apresentou novos argumentos capazes de alterar o entendimento firmado na decisão monocrática, que analisou de forma fundamentada todos os pontos apresentados pelo agravante.
+5. A decisão monocrática observou que o Tribunal do Júri decidiu com base em elementos concretos, como depoimentos, laudos periciais, mensagens extraídas dos celulares dos corréus e a correlação entre os executores e o agravante, respeitando a soberania dos veredictos (CF, art. 5º, XXXVIII).
+6. A pretensão de revisão do veredicto do Júri demandaria reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ. A decisão monocrática manteve coerência interna e alinhamento com a jurisprudência consolidada, que só admite a anulação do julgamento do Júri quando manifestamente contrário à prova dos autos, o que não se verifica no caso.
+7. A qualificadora do meio cruel foi corretamente reconhecida, pois a ciência do agravante acerca do modus operandi foi objeto de quesitação específica no Tribunal do Júri e respondida afirmativamente pelos jurados, conforme precedentes do STJ.
+8. A alegação de ausência de provas de planejamento ou conhecimento do agravante sobre o meio empregado não encontra respaldo nos autos, sendo a questão apreciada e decidida soberanamente pelo Júri.
+9. Quanto à pena-base, a decisão monocrática observou o Tema Repetitivo 1318/STJ, reconhecendo a idoneidade da fundamentação quanto à premeditação e ao motivo de ciúmes e sentimento de posse, repelindo o alegado bis in idem.
+10. No tocante ao dissídio jurisprudencial, a decisão monocrática afastou adequadamente a divergência invocada, considerando insuficiente o cotejo analítico para demonstrar similitude fático-jurídica, em conformidade com o art. 255, §1º, do RISTJ.
+IV. Dispositivo e tese
+11. Resultado do Julgamento:Agravo regimental desprovido.
+Tese de julgamento:
+1.A soberania dos veredictos do Tribunal do Júri deve ser respeitada, salvo quando manifestamente contrária à prova dos autos.
+2.A pretensão de revisão de veredicto do Júri que demanda reexame do conjunto fático-probatório é vedada pela Súmula 7/STJ.
+3.A qualificadora do meio cruel pode ser reconhecida quando há ciência do agravante sobre o modus operandi, conforme quesitação específica no Tribunal do Júri.
+4.O dissídio jurisprudencial exige demonstração de similitude fático-jurídica entre os casos confrontados, nos termos do art. 255, §1º, do RISTJ.
+Dispositivos relevantes citados:CF/1988, art. 5º, XXXVIII; Código Penal, art. 121, §2º, I e IV; Código Penal, art. 59; RISTJ, art. 255, §1º.
+Jurisprudência relevante citada:STJ, AgRg no REsp 1.951.487/MG, Sexta Turma; STJ, REsp 1.973.397/MG, Rel. Min. Ribeiro Dantas; STJ, REsp 2.174.008/AL, Rel. Min. Otávio de Almeida Toledo; STJ, AgRg no HC 922.239/GO.
+RELATÓRIO
+Trata-se de Agravo regimental interposto por IVERSON EDUARDO VIZOTTO contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, afastou a qualificadora do art. 121, § 2º, I, do CP (paga ou promessa de recompensa), reduzindo a pena para 16 anos de reclusão e mantendo os demais termos da condenação (fls. 2447-2448).
+A defesa postula o conhecimento e provimento integral do REsp, com: (i) absolvição ou novo julgamento por decisão do Júri manifestamente contrária às provas; (ii) exclusão da qualificadora do art. 121, § 2º, IV, do CP; (iii) readequação da pena-base por violação ao art. 59 do CP e bis in idem; (iv) afastamento dos óbices sumulares e reconhecimento de dissídio jurisprudencial (fls. 2455-2465).
+Afirma contrariedade do veredicto às provas: inexistência de vínculo probatório direto do agravante com executores/intermediários; depoimentos e mensagens não incriminam; testemunhos (Cíntia Bertoncelo Walter, Mayra Marques Viegas, Rogério Luiz Chiminazzo) corroborariam ausência de motivo; vítima teria inimigos em razão de envolvimento ilícito; insuficiência probatória (fls. 2456-2458) e alega ausência de prova do planejamento ou ciência do mandante sobre o meio empregado; inexistência de mensagens/registros que indiquem aceitação/conhecimento do modus operandi; prova oral não confirma ciência do agravante; surpresa não equivaleria a traição/emboscada/dissimulação exigidas para a qualificadora (fls. 2458-2460).
+É o relatório.
+EMENTA
+Direito Penal. Agravo Regimental. Homicídio Qualificado. Soberania dos Veredictos. Reexame de Provas. Agravo Regimental Desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo em recurso especial para conhecer parcialmente do recurso especial e, nessa extensão, afastou a qualificadora do art. 121, § 2º, I, do Código Penal (paga ou promessa de recompensa), reduzindo a pena para 16 anos de reclusão e mantendo os demais termos da condenação.
+2. A defesa postula o conhecimento e provimento integral do recurso especial, com: (i) absolvição ou novo julgamento por decisão do Júri manifestamente contrária às provas; (ii) exclusão da qualificadora do art. 121, § 2º, IV, do Código Penal; (iii) readequação da pena-base por violação ao art. 59 do Código Penal e bis in idem; e (iv) afastamento dos óbices sumulares e reconhecimento de dissídio jurisprudencial.
+II. Questão em discussão
+3. Há quatro questões em discussão: (i) saber se o veredicto do Tribunal do Júri foi manifestamente contrário às provas dos autos; (ii) saber se há elementos para afastar a qualificadora do art. 121, § 2º, IV, do Código Penal; (iii) saber se houve violação ao art. 59 do Código Penal e ocorrência de bis in idem na fixação da pena-base; e (iv) saber se há similitude fático-jurídica para o reconhecimento de dissídio jurisprudencial.
+III. Razões de decidir
+4. O agravo regimental não apresentou novos argumentos capazes de alterar o entendimento firmado na decisão monocrática, que analisou de forma fundamentada todos os pontos apresentados pelo agravante.
+5. A decisão monocrática observou que o Tribunal do Júri decidiu com base em elementos concretos, como depoimentos, laudos periciais, mensagens extraídas dos celulares dos corréus e a correlação entre os executores e o agravante, respeitando a soberania dos veredictos (CF, art. 5º, XXXVIII).
+6. A pretensão de revisão do veredicto do Júri demandaria reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ. A decisão monocrática manteve coerência interna e alinhamento com a jurisprudência consolidada, que só admite a anulação do julgamento do Júri quando manifestamente contrário à prova dos autos, o que não se verifica no caso.
+7. A qualificadora do meio cruel foi corretamente reconhecida, pois a ciência do agravante acerca do modus operandi foi objeto de quesitação específica no Tribunal do Júri e respondida afirmativamente pelos jurados, conforme precedentes do STJ.
+8. A alegação de ausência de provas de planejamento ou conhecimento do agravante sobre o meio empregado não encontra respaldo nos autos, sendo a questão apreciada e decidida soberanamente pelo Júri.
+9. Quanto à pena-base, a decisão monocrática observou o Tema Repetitivo 1318/STJ, reconhecendo a idoneidade da fundamentação quanto à premeditação e ao motivo de ciúmes e sentimento de posse, repelindo o alegado bis in idem.
+10. No tocante ao dissídio jurisprudencial, a decisão monocrática afastou adequadamente a divergência invocada, considerando insuficiente o cotejo analítico para demonstrar similitude fático-jurídica, em conformidade com o art. 255, §1º, do RISTJ.
+IV. Dispositivo e tese
+11. Resultado do Julgamento:Agravo regimental desprovido.
+Tese de julgamento:
+1.A soberania dos veredictos do Tribunal do Júri deve ser respeitada, salvo quando manifestamente contrária à prova dos autos.
+2.A pretensão de revisão de veredicto do Júri que demanda reexame do conjunto fático-probatório é vedada pela Súmula 7/STJ.
+3.A qualificadora do meio cruel pode ser reconhecida quando há ciência do agravante sobre o modus operandi, conforme quesitação específica no Tribunal do Júri.
+4.O dissídio jurisprudencial exige demonstração de similitude fático-jurídica entre os casos confrontados, nos termos do art. 255, §1º, do RISTJ.
+Dispositivos relevantes citados:CF/1988, art. 5º, XXXVIII; Código Penal, art. 121, §2º, I e IV; Código Penal, art. 59; RISTJ, art. 255, §1º.
+Jurisprudência relevante citada:STJ, AgRg no REsp 1.951.487/MG, Sexta Turma; STJ, REsp 1.973.397/MG, Rel. Min. Ribeiro Dantas; STJ, REsp 2.174.008/AL, Rel. Min. Otávio de Almeida Toledo; STJ, AgRg no HC 922.239/GO.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+Conforme cediço, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pelo agravante foram analisados de forma devidamente fundamentada.
+A decisão monocrática impugnada examinou todos os fundamentos suscitados no recurso especial e apresentou fundamentação coerente, jurídica e jurisprudencialmente adequada.
+Com relação à alegada contrariedade à prova dos autos, o voto monocrático ressaltou que o Tribunal do Júri decidiu com base em elementos concretos (depoimentos, laudos periciais, mensagens extraídas dos celulares dos corréus e a correlação entre os executores e o agravante). A decisão observou o entendimento pacífico de que, havendo versões conflitantes e ambas amparadas nas provas, deve prevalecer o veredicto do júri, em respeito à soberania dos veredictos (CF, art. 5º, XXXVIII; AgRg no REsp 1.951.487/MG, Sexta Turma).
+A insurgência da defesa, ao pretender revisar essa conclusão, demandaria reexame do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ. A decisão impugnada, portanto, manteve coerência interna e alinhamento com a jurisprudência consolidada desta Corte, que somente admite a anulação do julgamento do júri quando manifestamente contrário à prova dos autos, o que não se verifica no caso.
+Quanto à qualificadora do meio cruel, a decisão monocrática observou que a ciência do agravante acerca do modus operandi foi objeto de quesitação específica no Tribunal do Júri, sendo respondido afirmativamente pelos jurados. Assim, a comunicabilidade da qualificadora foi corretamente reconhecida, conforme precedentes do STJ (REsp 1.973.397/MG, rel. Min. Ribeiro Dantas).
+A pretensão defensiva de afastar a qualificadora, sob o argumento de ausência de provas de planejamento ou conhecimento, não encontra respaldo nos autos, pois a questão foi apreciada e decidida soberanamente pelo júri. A decisão agravada, portanto, apresenta raciocínio lógico e harmonia interna com o acervo probatório e com a jurisprudência desta Corte.
+No que tange à pena-base, o Relator observou expressamente o Tema Repetitivo 1318/STJ, reconhecendo a idoneidade da fundamentação quanto à premeditação e ao motivo de ciúmes e sentimento de posse, repelindo o alegado bis in idem. A decisão baseou-se em precedentes recentes da Quinta Turma e da Terceira Seção (REsp 2.174.008/AL, rel. Min. Otávio de Almeida Toledo).
+O agravo, neste ponto, apenas reedita fundamentos já enfrentados, sem infirmar a fundamentação específica e jurisprudencialmente lastreada da decisão recorrida.
+Por fim, no tocante ao dissídio jurisprudencial, a decisão monocrática observou corretamente que o cotejo analítico não foi suficiente para demonstrar similitude fático-jurídica, afastando adequadamente a divergência invocada. A mera transcrição de ementas, sem demonstração das circunstâncias comuns entre os casos confrontados, não atende ao art. 255, §1º, do RISTJ.
+Cumpre destacar que o acórdão de origem registrou detalhadamente a prova da materialidade e autoria, ressaltando que o agravante, identificado como mandante do homicídio, mantinha contato direto com os intermediários e foi cobrado quanto ao pagamento pelos executores, sendo certo que a jurisprudência do STJ é firme no sentido de que não há revaloração jurídica possível quando o que se busca é reinterpretação do conteúdo probatório (AgRg no REsp 1.951.487/MG; AgRg no HC 922.239/GO).
+Diante do exposto, nego provimento ao agravo regimental, reafirmando integralmente os fundamentos da decisão monocrática que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, deu-lhe parcial provimento para afastar a qualificadora da paga ou promessa de recompensa, mantendo-se, no mais, a decisão condenatória e a dosimetria da pena fixada em 16 (dezesseis) anos de reclusão, em regime inicial fechado.
+É como voto.
