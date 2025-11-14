@@ -1,0 +1,55 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO AO SUPERIOR TRIBUNAL DE JUSTIÇA. CABIMENTO. CONTROLE DA APLICAÇÃO DAS TESES FIRMADAS NO JULGAMENTO DE RECURSOS ESPECIAIS REPETITIVOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO. NEGADO SEGUIMENTO AO AGRAVO.
+
+    DECISÃO: Trata-se de agravo nos autos objetivando a reforma de decisão que inadmitiu recurso extraordinário interposto pela alínea “a” do permissivo constitucional contra acórdão que dispôs:
+
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DE TESE FIRMADA EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. INADMISSIBILIDADE. AGRAVO IMPROVIDO.
+
+    1. A reclamação é instrumento processual de caráter específico e de aplicação restrita, nos termos do artigo 105, inciso I, alínea ‘f’, da Constituição Federal, destinando-se à preservação da competência do Superior Tribunal de Justiça e à garantia da autoridade das suas decisões.
+
+    2. É incabível o manejo da via reclamatória para o controle de conformidade de tese firmada sob o rito dos recursos repetitivos (art. 1.030, inciso I, alínea ‘b’, do Código de Processo Civil).
+
+    3. Agravo interno improvido.”
+
+    Os embargos de declaração opostos foram rejeitados.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 105, inciso I, alínea “f”, da Constituição Federal.
+
+    O Tribunal a quo inadmitiu o recurso extraordinário, por entender que a ofensa à Constituição, caso existente, seria indireta.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Com efeito, exsurge que, para acolher a pretensão da parte recorrente e, assim, ultrapassar o entendimento do Tribunal a quo acerca do cabimento de reclamação ao Superior Tribunal de Justiça para controle da aplicação das teses firmadas no julgamento de recursos especiais repetitivos, seria necessário analisar a causa à luz da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário, porquanto a afronta ao texto constitucional, acaso existente, seria meramente indireta ou reflexa. Nesse sentido, cito:
+
+    “Direito Processual Civil. Agravo interno em recurso extraordinário com agravo. Reclamação constitucional perante o superior tribunal de justiça. Cabimento. Matéria infraconstitucional. I. Caso em exame. 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que manteve indeferimento de reclamação constitucional. II. Questão em discussão. 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir. 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, o que afasta o cabimento de recurso extraordinário. IV. Dispositivo. 5. Agravo interno a que se nega provimento.” (ARE 1.532.818-AgR, Plenário, Rel. Min. Luís Roberto Barroso - Presidente, DJe de 18/3/2025)
+
+    “DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. CABIMENTO. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 4. Agravo interno conhecido e não provido.” (ARE 1.436.707-AgR, Plenário, Rel. Min. Rosa Weber - Presidente, DJe de 4/9/2023)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO DIRIGIDA AO SUPERIOR TRIBUNAL DE JUSTIÇA. CABIMENTO. PRESSUPOSTOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 844.039-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de 25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/09/2020. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.304.214-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 27/4/2021)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 e 356/STF. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. CABIMENTO. NECESSIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. TEMAS 660 E 895 DA REPERCUSSÃO GERAL. AGRAVO IMPROVIDO. I - É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência das Súmulas 282 e 356/STF. II - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de legislação infraconstitucional que fundamenta o acórdão recorrido, visto que apenas ofensa direta à Constituição Federal enseja a interposição do referido recurso. III - O Supremo Tribunal Federal, ao julgar o ARE 748.371 RG/MT (Tema 660), da relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos limites da coisa julgada e ao princípio da inafastabilidade da jurisdição, quando o julgamento da causa depender de prévia análise de legislação infraconstitucional, por não configurar situação de ofensa direta à Constituição da República. IV - Conforme assentado no julgamento do RE 956.302 RG/GO (Tema 895), da relatoria do Ministro Edson Fachin, a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e a ela se atribuem os efeitos da ausência de repercussão geral. V - Agravo regimental a que se nega provimento.” (ARE 1.546.749-AgR, Primeira Turma, Rel. Min. Cristiano Zanin, DJe de 28/8/2025)
+
+    “Agravo regimental em recurso extraordinário com agravo. Reclamação ajuizada no Superior Tribunal de Justiça. Cabimento. Pressupostos. Legislação infraconstitucional. Precedentes. 1. Segundo o entendimento da Suprema Corte, a verificação dos pressupostos autorizadores da reclamação dirigida aos tribunais de origem é matéria de índole eminentemente infraconstitucional, para cujo exame não se presta o recurso extraordinário. 2. Agravo regimental não provido. 3. É inaplicável o art. 85, § 11, do CPC, pois não houve o arbitramento de honorários advocatícios pela Corte de Origem.” (ARE 1.439.104-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 13/9/2024)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO AO SUPERIOR TRIBUNAL DE JUSTIÇA. PRESSUPOSTOS. CABIMENTO. CONTROVÉRSIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CARTA MAGNA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Consoante a jurisprudência do Supremo Tribunal Federal, a apuração da presença dos pressupostos ensejadores do cabimento de reclamação para o Superior Tribunal de Justiça é matéria que se resolve no âmbito infraconstitucional, de modo que eventual ofensa à Constituição decorrente desse debate seria indireta, o que inviabiliza o recurso extraordinário. II - Agravo regimental a que se nega provimento.” (ARE 1.371.977-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 17/5/2022)
+
+    “DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AGRAVO NÃO PROVIDO. 1. Arrostar o entendimento do Superior Tribunal de Justiça, no tocante aos critérios de admissibilidade de Reclamação de sua competência, demandaria a análise da legislação infraconstitucional (Resolução nº 12/2009). Precedentes. 2. Agravo regimental conhecido e não provido.” (ARE 895.300-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 2/3/2016)
+
+    “Agravo regimental em agravo regimental em recurso extraordinário com agravo. 2. Verificação pressupostos de cabimento de reclamação dirigida ao Superior Tribunal de Justiça. Impossibilidade. Precedentes. 3. Argumentos incapazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 882.217-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 16/11/2015)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. 1. CABIMENTO DE RECLAMAÇÃO PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO PROFERIDO COM BASE EM FUNDAMENTO PROCESSUAL. 2. ALEGADO DESCUMPRIMENTO DO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 647.350-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 13/9/2011)
+
+    Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, VIII, do Código de Processo Civil, c/c o art. 21, § 1º, do Regimento Interno do STF.
+
+    Ademais, tendo havido prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e, ademais, a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 14 de novembro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
