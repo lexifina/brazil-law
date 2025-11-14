@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por DIVICOM ASSESSORIA E NEGÓCIOS S.S. e DIVICOM ADMINISTRADORA DE BENEFÍCIOS LTDA. contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional..
+Agravo em recurso especial interposto em: 16/12/2024.
+Concluso ao gabinete em: 13/08/2025.
+Ação: ação cautelar, ajuizada por UNIMED PAULISTANA SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO, em face de DIVICOM ASSESSORIA E NEGÓCIOS S.S., DIVICOM ADMINISTRADORA DE BENEFÍCIOS LTDA. e DIVICOM ADMINISTRADORA DE PLANOS DE SAÚDE LTDA., atualmente na fase de cumprimento provisório de sentença relativo às astreintes fixadas.
+Decisão interlocutória: indeferiu o pedido de extinção do cumprimento de sentença e manteve a suspensão do processo até o trânsito em julgado da ação conexa.
+Acórdão: negou provimento ao agravo de instrumento interposto por DIVICOM ASSESSORIA E NEGÓCIOS S.S. e DIVICOM ADMINISTRADORA DE BENEFÍCIOS LTDA., nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA. Decisão recorrida que, à luz de anterior julgamento colegiado, determinou a suspensão da demanda cautelar até decisão definitiva de ação conexa entre os envolvidos. Medida acertada. Existência, na demanda conexa, de questionamento relacionado a possível extinção do feito, por indicada litispendência. Afastada, ainda, alegação de extinção da demanda cautelar, por alegada perda do objeto. Não configuração. Decisão mantida. AGRAVO NÃO PROVIDO. (e-STJ fl. 89)
+Embargos de Declaração: opostos por DIVICOM ADMINISTRADORA DE BENEFÍCIOS LTDA. e DIVICOM ASSESSORIA E NEGÓCIOS S.S., foram rejeitados.
+Recurso especial: alega violação dos arts. 313, 330, III, 485, VI, 489, § 1º, IV, 492, 515, I, 520, II, 921, 924, III, e 1.022, I, II, e parágrafo único, II, do CPC. Além da negativa de prestação jurisdicional, sustenta a ocorrência de julgamento extra petita por ter o acórdão enfrentado tema alheio ao objeto do agravo de instrumento. Argumenta que as astreintes foram expressamente revogadas no julgamento dos EREsp 1.202.425/SP e 1.384.419/SP, o que afasta a existência de título executivo judicial. Assevera que, diante da modificação superveniente, o cumprimento de sentença deve ser extinto, e não suspenso. Indica falta de interesse de agir da requerida na execução das multas e inadequação da suspensão.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+É firme a jurisprudência do STJ no sentido de que não há negativa de prestação jurisdicional quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o TJ/SP decidiu, fundamentada e expressamente, acerca do requerimento de extinção do cumprimento de sentença, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 313, 330, III, 515, I, 921, do CPC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+Os recorrentes não impugnaram o seguinte fundamento utilizado pelo TJ/SP:
+Ademais, verifica-se que resultou bem determinada a suspensão da ação cautelar até decisão definitiva de demanda conexa processo nº 0131186-65.2008.8.26.0100, à luz do art. 313 inciso V, alínea "a" do Código de Processo Civil.
+No quadro posto, a agravada instaurou ação cautelar inominada visando impedir as agravantes de efetivarem compensações entre dívidas mediante retenção das importâncias recebidas dos usuários dos planos de saúde a título de pagamento das respectivas mensalidades (processo nº 0244193-69.2007.8.26.0100 - 22ª Vara Cível do Foro Central de São Paulo), dando origem ao incidente de cumprimento de sentença de onde tirado o presente recurso (autos de origem processo nº 1020818-06.2007.8.26.0100 22ª Vara Cível do Foro Central da Capital); foi considerada demanda conexa ao feito nº 0131186-65.2008.8.26.0100.
+No curso da ação cautelar inominada, as agravantes informaram a superveniência de sentença proferida em demanda diversa envolvendo as mesmas partes (processo nº 0131186-65.2008.8.26.0100), que teria proibido a agravada de cobrar seus créditos antes de cumprir suas obrigações. E, sob o argumento de que não houve recurso contra esse tópico da sentença, sustentaram as agravantes ainda na fase de conhecimento - a perda do objeto da ação cautelar inominada e necessidade de extinção do feito, o que não foi acolhido cf. v. acórdão proferido no Agravo de Instrumento nº 2050026-02.2022.8.26.0000, j. em 26 de julho de 2022, em relação ao qual pende decisão definitiva de recurso.
+Por oportuno, vale indicar que na demanda conexa (processo nº 0131186-65.2008.8.26.0100), julgada improcedente e confirmada por ocasião de julgamento de apelo (ocorrido em 1º de agosto de 2023), foram interpostos recursos especiais, atualmente, em processamento. Eis os termos da ementa do aludido v. acórdão:
+Isso porque, não há dúvidas de que ainda há possibilidade de reforma da r. sentença, inclusive de forma integral, caso seja acolhido o pedido de extinção do processo nº 0131186-65.2008.8.26.0100.
+Portanto, não há que se cogitar da configuração de coisa julgada sob qualquer aspecto, principalmente no tocante a questão tratada apenas como fundamento da sentença, qual é o caso da exceção do contrato não cumprido (e-STJ fls. 91-92 - grifou-se)
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO CAUTELAR. ASTREINTES. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação cautelar, na fase de cumprimento provisório de sentença relativo às astreintes fixadas
+2. É firme a jurisprudência do STJ no sentido de que não há negativa de prestação jurisdicional quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
