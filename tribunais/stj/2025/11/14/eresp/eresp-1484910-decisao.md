@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por HUMBERTO CARLOS CHAIM contra acórdão proferido pela Terceira Turma desta Corte assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 6º DA LINDB. MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso especial sob o fundamento de que a alegada violação ao artigo 6º da Lei de Introdução às Normas do Direito Brasileiro (LINDB), por se tratar de matéria de índole constitucional, inviabiliza sua análise em sede de recurso especial, além dos óbices das Súmulas 211 e 7 do Superior Tribunal de Justiça. O agravante sustenta a competência do STJ para examinar a correta aplicação do artigo 6º da LINDB, a existência de prequestionamento, bem como a inexistência de necessidade de reexame de provas.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a análise do artigo 6º da LINDB pode ser feita em sede de recurso especial, ou se se trata de matéria eminentemente constitucional; (ii) estabelecer se houve efetivo prequestionamento dos dispositivos legais supostamente violados, afastando-se o óbice da Súmula 211/STJ; e (iii) determinar se a apreciação do caso demandaria o reexame de provas, o que atrairia a incidência da Súmula 7 /STJ.
+III. RAZÕES DE DECIDIR
+3. A interpretação do artigo 6º da LINDB, ao tratar do ato jurídico perfeito, do direito adquirido e da coisa julgada, possui natureza constitucional, uma vez que tais garantias estão previstas no artigo 5º, XXXVI, da Constituição Federal, o que impede sua análise em sede de recurso especial.
+4. A ausência de manifestação expressa da instância de origem sobre os dispositivos legais supostamente violados configura ausência de prequestionamento, atraindo a incidência da Súmula 211/STJ, que impede o conhecimento do recurso especial quando a matéria não foi previamente debatida no tribunal de origem.
+5. A análise das alegações do agravante demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, conforme entendimento consolidado na Súmula 7/STJ.
+IV. DISPOSITIVO
+6. Recurso desprovido. Decisão mantida.
+Opostos embargos de declaração, foram rejeitados.
+Alega a parte embargante, inicialmente, que "não há, no caso, situação preexistente a justificar a certificação do trânsito em julgado e, sendo o recurso tempestivo, não há óbice para o seu conhecimento, tanto mais porque preenchidos os requisitos de admissibilidade, como se passa a demonstrar".
+Afirma que há divergência jurisprudencial no tocante à aplicação imediata da Lei nº 11.382/2006, que revogou os artigos 787 a 790 do CPC/73, extinguindo o instituto da remição à arrematação. Colaciona como paradigma o REsp 1.022.476/RS, da Segunda Turma.
+É o relatório.
+De saída, cumpre registrar que, não obstante a certificação do trânsito em julgado à fl. 664 em cumprimento ao determinado do voto proferido nos embargos de declaração de fls. 639/659, tem-se que o recurso é tempestivo.
+Com efeito, ao que parece, o último parágrafo do voto dos aclaratórios que ordena a certificação do trânsito em julgado configura erro material, uma vez que a Terceira Turma tão somente rejeitou o recurso (primeiros embargos de declaração) acentuando, inclusive, que não ficou caracterizado o caráter protelatório a ensejar a imposição de multa.
+Nesse cenário, tem-se que a fundamentação do acórdão embargado não autoriza inferir que seria hipótese de determinação de certificação de trânsito em julgado. Evidente, portanto, mero erro material.
+Posto isso, verifica-se que os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Com efeito, o suposto dissenso seria a respeito da aplicação imediata da Lei nº 11.382/2006, que extinguiu o instituto da remição.
+Afirma o paradigma que: "A supressão da faculdade relativa à remição de bens prevista nos arts. 787 e 790 do CPC operou efeitos instantâneos, de modo que o requerimento de resgate deduzido após a vigência da Lei nº 11.382/06 não possuía respaldo legal à época de sua apresentação, devendo ser rejeitado prontamente".
+Versa, pois, sobre hipótese fática na qual o pedido de remição de bens penhorados foi formulado em 02/04/2007, ou seja, quando já em vigor a Lei nº 11.382/06.
+O acórdão embargado, por sua vez, cuida de situação na qual o pedido de remição do imóvel arrematado foi deduzido em 19 de dezembro de 2002, ou seja, antes da vigência da lei que revogou o instituto. O pedido de remição só não foi apreciado naquela ocasião porque proferida decisão declarando ineficaz a arrematação, provimento que foi objeto de recurso especial, tendo este Superior Tribunal de Justiça dado provimento ao apelo para declarar válida e regular a arrematação do bem. Daí o exame do pedido de remição outrora formulado à luz da legislação então vigente. Por oportuno, confira-se o seguinte trecho do acórdão embargado:
+Com efeito, no que se refere à revogação dos arts. 787, 788, 789 e 790 do CPC/1973, o Tribunal de origem, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 239-240):
+Como demonstrado, o pedido de remição do imóvel arrematado foi deduzido pelos recorridos, sob a vigência dos artigos 787 e seguintes do Código de Processo Civil, aos 19 de dezembro de 2002 (fls. 89/91). Dessa forma, a Lei nº 11.382/06, que revogou referidos dispositivos legais, em vigor a partir de 21 de julho de 2007, não retroage à época dos fatos, sob pena de prejudicar os agravados, retirando-lhes a tutela jurisdicional antes outorgada, consistente na possibilidade de pleitearem a remição do bem. Com efeito, o pedido da remição somente não foi apreciado naquela ocasião, em virtude do r. decisum de fls. 84, que declarou ineficaz a arrematação, de modo que, uma vez restabelecidos os efeitos desta, pelo Superior Tribunal de Justiça (fls. 118/129), de rigor a análise da pretensão arguida novamente (fls. 135/137), à luz dos mencionados artigos revogados.
+À luz do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais, os atos processuais devem observar a legislação vigente ao tempo de sua prática, sob pena de indevida retroação da lei nova para alcançar atos já consumados.
+Confira-se:
+(..)
+Assim, a decisão judicial deve observar o regramento vigente ao tempo da prática do ato processual, objeto de análise, para aferir a sua regularidade.
+No caso dos autos, conforme estabelecido pelo Tribunal de origem, a Lei n. 11.382/2006, que revogou os dispositivos legais em que foi firmada a remição do imóvel, não pode retroagir para prejudicar os recorridos. Além disso, a remição só não foi apreciada naquele momento em virtude da ineficácia da arrematação declarada por decisão anterior desta Corte. Assim não se pode deixar de analisar a remição do ponto de vista daqueles dispositivos, sob pena de estar sufragando os efeitos jurídicos produzidos pela lei anterior.
+Nesse contexto, não há similitude fática entre os julgados confrontados a possibilitar o reconhecimento do alegado dissídio jurisprudencial.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. APLICAÇÃO IMEDIATA DA LEI Nº 11.382/2006. HIPÓTESES FÁTICAS DIVERSAS. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. RECURSO INDEFERIDO LIMINARMENTE.
