@@ -1,0 +1,136 @@
+DECISÃO:
+
+MEDIDA CAUTELAR NA RECLAMAÇÃO. RE Nº 1.297.884 (TEMA Nº 1.120 DA REPERCUSSÃO GERAL). ALEGAÇÃO DE DESCUMPRIMENTO. COGNIÇÃO SUMÁRIA: FUMUS BONI JURIS E PERICULUM IN MORA PRESENTES. LIMINAR DEFERIDA.
+
+    1. Trata-se de reclamação, com pedido de medida liminar, ajuizada por Thais Takahashi, ajuizada em face de decisões do Juízo da 2ª Vara da Fazenda Pública de Cornélio Procópio/PR, nos autos de Mandado de Segurança nº 0000035-34.2025.8.16.0075, e da 4ª Câmara Cível do Tribunal de Justiça do Paraná no agravo interno nº 0132584-39.2025.8.16.0000, pelas quais teria sido inobservada a tese fixada no Tema nº 1.120 da Repercussão Geral (RE nº 1.297.884/DF).
+    2. A reclamante alega que as autoridades reclamadas, ao reputarem como inválida a eleição da Mesa Diretora da Câmara Municipal de Cornélio Procópio/PR, realizada em 01/01/2025, sob o argumento de "falta de quórum" e exigência de maioria absoluta para a votação, teriam violado a tese vinculante firmada no Tema RG nº 1.120 e esvaziado a autoridade da decisão proferida na Rcl nº 76.389/PR.
+
+    3. Em vista disso, pugnou, inicialmente, pela distribuição do presente feito a minha relatoria, apontando como processo justificador a Rcl nº 76.389/PR, ao argumento de que a presente controvérsia é um desdobramento direto daquele conflito.
+
+    4. Relata, em síntese, que na qualidade de vereadora mais votada, a reclamante presidiu a sessão solene de instalação da legislatura em 01/01/2025. Durante a sessão, indeferiu a candidatura do então presidente à reeleição, em observância à vedação de recondução imediata prevista na Lei Orgânica e no Regimento Interno, matéria que foi objeto da Rcl nº 76.389/PR, julgada procedente pela 2ª Turma do STF.
+
+    5. Informa que, após o indeferimento, oito vereadores da oposição se retiraram do plenário em uma manobra para frustrar o quórum de votação. A reclamante sustenta que tal ato configura venire contra factum proprium e ofende o Código de Ética e Decoro Parlamentar. Diz que, apesar da retirada dos parlamentares, a sessão, que já estava regularmente instalada com a presença de todos os vereadores, prosseguiu. A eleição da Mesa Diretora foi conduzida sob a regra do art. 21, § 3º, do Regimento Interno, que exige maioria simples, resultando na eleição do vereador Carlos Henrique Romanini Trautwein para a Presidência.
+
+    6. Inconformados, os parlamentares adversários impetraram Mandado de Segurança, que levou à realização de uma segunda eleição em 23/01/2025, na qual foi eleito Rafael Alcantara Hannouche, cuja recondução era vedada. A reclamante, então, ajuizou a Rcl nº 76.389/PR, na qual o STF cassou os atos reclamados e determinou a observância da proibição de reeleição.
+
+    7. Noticia que, ao refazer o julgamento do Mandado de Segurança, tal qual determinado por esta Corte, o Juízo de origem, embora tenha invalidado a eleição de 23/01/2025 (por reeleição proibida), também declarou nula a eleição de 01/01/2025, sob o fundamento de "falta de quórum" e a suposta exigência de maioria absoluta para a votação, ignorando a regra específica de maioria simples do Regimento Interno da Câmara Legislativa de Cornélio Procópio.
+
+    8. Argumenta que, para obstar os efeitos dessa nova sentença, a reclamante interpôs apelação e formulou pedido de tutela recursal no TJPR. Em decisão monocrática, a Relatora, e posteriormente o Colegiado, em sede de agravo interno, manteve a anulação da eleição de 01/01/2025, reiterando a tese de que a votação exigiria maioria absoluta, consolidando o ato que a reclamante considera como invasão de matéria interna corporis.
+
+    9. Nesse cenário, aduz que as decisões reclamadas violaram a tese que veda o controle jurisdicional sobre a interpretação de normas meramente regimentais das Casas Legislativas quando não há ofensa à Constituição (Tema RG nº 1.120). Argumenta que a controvérsia sobre o quórum de votação (maioria simples vs. absoluta) é matéria interna corporis.
+
+    10. Defende a inexistência de antinomia entre Lei Orgânica e Regimento Interno, afirmando que o art. 16 da Lei Orgânica Municipal trata do quórum de instalação da sessão (maioria absoluta), enquanto o art. 19 da mesma LOM delega ao Regimento Interno a disciplina da eleição, fixado neste, de forma específica o quórum de votação como maioria simples. As decisões impugnadas, portanto, segundo sua compreensão, teriam criado um conflito inexistente ao aplicar a regra de instalação ao ato de votação.
+
+    11. Assevera, ademais, que ao substituir a interpretação regimental da própria Câmara por uma construção judicial, as autoridades reclamadas teriam usurpado a competência auto-organizacional do Legislativo local, violando o art. 2º (separação de poderes) e o art. 29, inc. XI (autonomia municipal para organizar suas funções), da Constituição Federal.
+
+    12. Aponta que, na qualidade de presidente interina, exerceu a prerrogativa de interpretar e fazer cumprir o Regimento Interno (art. 39, III, do RI), ato que integra o núcleo da autonomia do Parlamento.
+
+    13. Requer a concessão de medida liminar, sustentando que o fumus boni iuris está demonstrado pela flagrante violação ao Tema RG nº 1.120 e pela correta aplicação das normas locais que distinguem quórum de instalação e de votação. O periculum in mora decorreria do risco iminente de uma "terceira eleição" ser realizada com base em premissas inválidas, o que geraria grave instabilidade institucional, nulidades em cadeia e paralisia administrativa na Câmara Municipal. Aponta a urgência da medida, informando sobre convocações conflitantes para uma nova sessão.
+
+    14. Requer, liminarmente, a cassação da eficácia da sentença de 1º grau e das decisões monocráticas do TJPR no ponto em que invalidam a eleição de 01/01/2025, afastando a necessidade de uma "terceira eleição" e mantendo hígida a eleição documentada na Ata 01-25. No mérito, busca a procedência da reclamação, para cassar em definitivo as decisões reclamadas e manter a validade da eleição de 01/01/2025.
+
+É o relatório.
+
+Passo a apreciar o pedido liminar.
+
+    15. Consigno que a análise aqui empreendida circunscreve-se à aferição da presença, ou não, dos requisitos que, cumulativamente, autorizam a concessão de medida liminar, atinentes à configuração da plausibilidade jurídica do pedido (fumus boni juris) e à ocorrência de perigo de dano ou risco ao resultado útil do processo (periculum in mora).
+
+    16. Nesse contexto, a alegação da parte autora é de que a decisão reclamada (i) teria violado o Tema nº 1.120 da Repercussão Geral, ao reputar como inválida a eleição da Mesa Diretora da Câmara Municipal de Cornélio Procópio/PR, realizada em 01/01/2025, sob o argumento de "falta de quórum", ignorando a regra específica de maioria simples do Regimento Interno, e (ii) impôs a necessidade de uma "terceira eleição", agendada para 16/11/2025, a ser realizada - segundo alega - com base em premissas inválidas, o que geraria grave instabilidade institucional, nulidades em cadeia e paralisia administrativa na Câmara Municipal, a evidenciar a presença do periculum in mora.
+
+    17. A presente reclamação volta-se contra atos judiciais que invalidaram a eleição da Mesa Diretora da Câmara Municipal de Cornélio Procópio/PR, ocorrida na sessão solene de 1º de janeiro de 2025, presidida interinamente pela reclamante, na qualidade de vereadora mais votada. A sessão foi instalada com a presença da totalidade dos vereadores eleitos, atingindo, portanto, o quórum de maioria absoluta exigido pelo art. 16 da Lei Orgânica do Município e pelo art. 21 do Regimento Interno. Na ocasião, foram invocados o art. 17 da Lei Orgânica Municipal e o art. 19 do Regimento Interno daquela Casa, os quais vedam expressamente a recondução para o mesmo cargo na eleição imediatamente subsequente, impedindo a candidatura do vereador Rafael Alcântara Hannouche à presidência – cargo que ocupara no biênio 2023/2024.
+
+    18. Todavia, no âmbito do Mandado de Segurança nº 0000035-34.2025.8.16.0075, determinou-se a realização de nova eleição da Mesa Diretora da Câmara de Vereadores, autorizando que os impetrantes concorressem aos mesmos cargos na respectiva Mesa Diretiva, com base em interpretação extraída da ADI nº 6.524/DF. Após a determinação judicial, houve a convocação para nova eleição, na qual um dos impetrantes, Rafael Alcântara Hannouche, elegeu-se presidente pela terceira vez consecutiva.
+
+    19.  Tal ato foi objeto da Rcl nº 76.389/PR, na qual a Segunda  Turma desta Corte, por maioria, julgou procedente a reclamação, para cassar a decisão reclamada e determinar que outra fosse proferida em observância ao fixado na ADPF nº 1.002/SP e nas ADIs nº 6.688/PR, nº 6.698/MS, nº 6.714/PR e nº 7.016/MS, especificamente no tocante ao limite de uma única reeleição ou recondução para o mesmo cargo da Mesa Diretora, em períodos consecutivos.
+
+    20. No caso em tela, a alegação é de que o Juízo da 2ª Vara da Fazenda Pública de Cornélio Procópio/PR, ao rejulgar o feito, a partir da determinação emanada desta Corte, incidiu em nova afronta à jurisprudência vinculante desta Corte, desta vez deixando de observar o que decidido no Recurso Extraordinário nº 1.297.884-RG/DF, Tema RG nº 1.120. Na ocasião, fixou-se, inicialmente, a seguinte tese:
+
+“Em respeito ao princípio da separação dos poderes, previsto no art. 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis.”
+
+    21. Observo que, no julgamento dos embargos de declaração opostos no RE nº 1.297.884-RG/DF, o Plenário da Corte promoveu um pequeno ajuste na redação dessa tese, passando a dispor o seguinte:
+
+"Em respeito ao princípio da separação dos poderes, previsto no art. 2º da Constituição Federal, quando não caracterizado o desrespeito às normas constitucionais, é defeso ao Poder Judiciário exercer o controle jurisdicional em relação à interpretação do sentido e do alcance de normas meramente regimentais das Casas Legislativas, por se tratar de matéria interna corporis.”
+(RE nº 1.297.884-RG-ED/DF, Rel. Min. Dias Toffoli, Red. do Acórdão Min. Gilmar Mendes, j. 03/07/2023, pendente de publicação).
+
+    22. A questão jurídica central posta nesta reclamação, portanto, reside em verificar se o Poder Judiciário, ao invalidar a eleição da Mesa Diretora com base em sua própria interpretação sobre o quórum de votação – resolvendo um suposto conflito normativo entre a Lei Orgânica Municipal e o Regimento Interno em detrimento da exegese aplicada pela própria Casa Legislativa –, violou a autoridade da tese fixada pelo Supremo Tribunal Federal no Tema 1.120 da Repercussão Geral, que veda o controle jurisdicional sobre matéria interna corporis.
+
+    23. Da decisão reclamada, proferida pelo Juízo da 2ª Vara da Fazenda Pública de Cornélio Procópio/PR, colhem-se os seguintes fundamentos (e-doc. 1, p. 124-127; destaques no original):
+
+“(...) Tendo em vista os contornos da presente discussão, depreende-se que uma das citadas ilegalidades cometidas pela impetrada, atinente ao quórum para eleição da mesa diretiva, evoca um aparente conflito de normas.
+ Consta na Ata da Sessão Solene de Posse dos Vereadores, Prefeito e Vice Prefeito ocorrida em 01 de janeiro de 2025 (eventos 1.15 a 1.20) que a sessão foi presidida interinamente pela vereadora mais votada na última eleição municipal, Sra. Thais Takahashi, ora impetrada, seguindo-se com a posse dos demais vereadores.
+Na sequência, iniciou-se o ato de eleição da mesa diretora da Câmara Municipal, tendo a presidência não permitido a participação dos impetrantes para concorrerem aos cargos de Presidente, Primeiro Secretário e Segundo Secretário ao argumento de que a Lei Orgânica do Município e o Regimento Interno da Câmara Municipal vedam a reeleição. Anunciado encerramento de sessão a maioria dos vereadores se retiraram do plenário.
+Após, a presidente interina iniciou nova sessão para eleição da mesa e, com maioria simples, houve a eleição dos diretores da mesa legislativa. Na sequência, o Presidente eleito deu posse ao Prefeito e Vice-prefeito.
+Contudo, como se verá a seguir, houve claras violações à Lei Orgânica do Município de Cornélio Procópio, que assim define:
+Art. 15 – No primeiro ano de cada legislatura, no dia 1º de janeiro, às 10 horas, em sessão solene, independentemente de convocação e sob a Presidência do Vereador mais votado dentre os presentes, com qualquer número, os demais prestarão compromisso e tomarão posse cabendo ao Presidente prestar o seguinte compromisso: […] Prestado o compromisso pelo Presidente, o Secretário que for designado para esse fim fará a chamada nominal de cada Vereador, que declarará: […].
+Art. 16 – Imediatamente após a posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão  automaticamente empossados. Parágrafo Único – Não havendo número legal, o Vereador mais votado dentre os presentes permanecerá na presidência e convocará sessões diárias, até que seja eleita a Mesa.
+Art. 17 – O mandato da Mesa será de 2 (dois) anos, vedada a recondução para o mesmo cargo, na eleição imediatamente subsequente.
+Art. 19 – Caberá ao Regimento Interno da Câmara Municipal dispor sobre a composição da Mesa Diretora, e, subsidiariamente, sobre sua eleição.
+Da detida análise do texto legal retro transcrito, extrai-se que a sessão não transcorreu conforme previsão da Lei Orgânica Municipal.
+Ora, se não houve a presença do número legal de vereadores para formar maioria absoluta, o vereador mais votado dentre os presentes deveria permanecer na presidência e convocar sessões diárias, até a eleição definitiva da mesa.
+Ainda que o regimento interno mencione em seu artigo 21, §3º, a possibilidade e eleição da mesa diretiva com a maioria simples dos votos, tal disposição é totalmente divergente daquela constante na Lei orgânica municipal, que prevê maioria absoluta.
+Diante dessa antinomia, vislumbro a ascendência da lei orgânica sobre a norma regulamentadora da casa legislativa local, tendo em vista o disposto no artigo 29, XI, da Constituição Federal, que assim estabelece:
+"Art. 29. O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos: (...) XI - organização das funções legislativas e fiscalizadoras da Câmara Municipal;  (Renumerado do inciso IX, pela Emenda Constitucional nº 1, de 1992)
+Ora, infere-se do dispositivo constitucional que é a lei orgânica, precipuamente, que organiza as funções legislativas da Câmara Municipal, detendo superioridade hierárquica sobre aquela norma regulamentadora interna corporis.
+ Ou seja, a Lei Orgânica Municipal é uma espécie de constituição municipal. Assim, a norma regulamentadora da casa legislativa lhe deve observância, sob pena de ser considerada inválida naquilo que dissentir da norma superior, no âmbito municipal.
+ Desse modo, entendo que a Lei Orgânica Municipal deve preponderar sobre a disposição contrária prevista no Regimento Interno da Câmara Municipal de Cornélio Procópio.
+Assim, prevalece a necessidade de se observar maioria absoluta para eleição da mesa diretiva da câmara de vereadores, razão pela qual, nos termos já consignados na decisão de mov. 25, a eleição da mesa diretiva ocorrida no dia 01 de janeiro do corrente ano deve ser definitivamente declarada nula, concedendo-se a segurança pleiteada pelos impetrantes na exordial, neste ponto.”
+
+    24. Da leitura do decisão acima transcrita, depreende-se 4 pilares argumentativos que ampararam a conclusão a que chegou a autoridade reclamada: (i) identificação de uma antinomia entre o art. 16 da Lei Orgânica Municipal (que exige maioria absoluta para eleger a Mesa) e o art. 21, § 3º, do Regimento Interno (que estabelece maioria simples para a eleição); (ii) solução do conflito normativo mediante aplicação do critério hierárquico, conferindo prevalência à Lei Orgânica em detrimento do Regimento Interno; (iii) substituição da interpretação legislativa adotada pela Presidência da sessão – a qual, amparada no art. 19 da LOM (que delega ao RI a disciplina da eleição) e no art. 39, III, do RI (que lhe confere o poder de interpretar o regimento), harmonizou as normas, entendendo que a maioria absoluta se aplica à instalação da sessão e a maioria simples à votação; (iv) ausência de fundamento constitucional direto: a decisão não aponta qual norma da Constituição Federal teria sido violada pelo procedimento adotado na Câmara.
+
+    25. Diante desse cenário, registro que a controvérsia sobre qual quórum aplicar (maioria absoluta ou simples) é, em sua essência, uma questão sobre o "sentido e o alcance" das normas locais que disciplinam a eleição da Mesa. A autoridade reclamada, nesse contexto, não aparenta ter se limitado a verificar a observância de um procedimento constitucional. Ao contrário, adentrou no mérito da interpretação normativa, escolhendo uma exegese (a do conflito hierárquico) em detrimento de outra possível e razoável (a da delegação e especialidade, aplicada pela Presidência da sessão).
+
+    26. Isso significa, em outras palavras, que o ato reclamado, ao invalidar a eleição de 01/01/2025, não se limitou a constatar a inobservância de um procedimento constitucionalmente delineado, mas realizou um juízo de valor sobre a melhor interpretação a ser dada ao conjunto normativo local (Lei Orgânica e Regimento Interno). Ao assim proceder, fazendo prevalecer sua própria hermenêutica sobre a que foi aplicada pela Presidência da sessão legislativa, o Órgão reclamado acabou por substituir-se ao próprio Poder Legislativo na tarefa de definir o sentido de suas normas de funcionamento.
+
+    27. Este avanço sobre a autonomia interpretativa do Poder Legislativo local é precisamente, segundo minha compreensão, o que o Tema RG nº 1.120 busca coibir. Nesse sentido, cito importante precedente da Segunda Turma desta Corte, que examinou situação análoga à posta nestes autos:
+
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO. DIREITO CONSTITUCIONAL. ELEIÇÃO PARA A MESA DIRETORA DA CÂMARA MUNICIPAL DE PALMAS/TO. NULIDADE DE VOTOS DECLARADA PELO PODER JUDICIÁRIO MEDIANTE INTERPRETAÇÃO DE NORMAS REGIMENTAIS. MATÉRIA INTERNA CORPORIS. ALEGADA VIOLAÇÃO AO TEMA 1.120 DA REPERCUSSÃO GERAL. CARACTERIZAÇÃO. RECLAMAÇÃO JULGADA PROCEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ainda que não comprovado o esgotamento das instâncias ordinárias, a admissão da reclamação se justifica em razão da excepcionalidade da situação, pois, caso não se admitissem exceções, situações urgentes como a dos autos poderiam ser ignoradas pelo Poder Judiciário, de modo a ocasionar, inclusive, o perecimento do direito pleiteado.
+2. Compete ao Poder Legislativo dizer qual o verdadeiro significado de suas previsões regimentais, sendo vedado ao Judiciário exercer o controle jurisdicional da interpretação e do alcance que lhes são conferidos pela casa legislativa, por se tratar de matéria interna corporis.
+3. No caso dos autos, o Tribunal de Justiça do Estado de Tocantins, conferindo interpretação própria às normas do Regimento Interno da Câmara Municipal, seja quanto à extensão da expressão escrutínio secreto seja quanto às hipóteses de reconhecimento da nulidade, determinou que as cédulas com marcações identificadoras fora do local destinado à escolha do candidato fossem desconsideradas e, consequentemente, consignou a recontagem dos votos. Violação do entendimento firmado no tema 1.120 da repercussão geral. Reclamação julgada procedente.
+4. Agravo regimental não provido.”
+(Rcl nº 57.526-AgR/TO, Rel. Min. Gilmar Mendes, j. 15/05/2023, p. 19/05/2023).
+
+    28. Nota-se que o entendimento firmado no Tema RG nº 1.120 é taxativo ao condicionar o controle judicial à caracterização de "desrespeito às normas constitucionais pertinentes ao processo legislativo". No caso concreto, a decisão impugnada não fundamenta a nulidade em qualquer afronta à Constituição Federal. A discussão travada limita-se ao plano infraconstitucional, sobre qual norma local (LOM ou RI) deve reger o quórum de votação. A ausência de um vício de índole constitucional retira do Poder Judiciário a legitimidade para intervir, conforme a jurisprudência vinculante desta Corte.
+
+    29. Com efeito, a invocação ao art. 29 da Constituição Federal pelo ato reclamado, aparenta-se, em verdade, um esforço de "constitucionalização" de uma controvérsia estritamente legal e regimental, e não um fundamento legítimo para a intervenção judicial. O art. 29, caput, e seu inciso XI, da Constituição Federal, são normas de repartição de competências e de estruturação da autonomia municipal, segundo as quais o Município se regerá por Lei Orgânica, a qual compete organizar as funções legislativas.
+
+    30. A toda evidência, referidos dispositivos não prescrevem o mérito dessa organização. Ou seja, a Constituição Federal não define qual o quórum específico (maioria simples ou absoluta) para a eleição de Mesas Diretoras de Câmaras Municipais. O equívoco fundamental cometido pelo Juízo reclamado, portanto, a meu ver, foi tratar uma norma de competência (art. 29, inc. XI, CRFB) como se fosse uma norma procedimental de observância obrigatória. A decisão impugnada não aponta que o Regimento Interno violou o dever de ser organizado pela Lei Orgânica, mas sim que a interpretação do conjunto normativo local (LOM + RI) deveria ser outra. Tal conduta não representa controle de constitucionalidade, mas sim uma substituição da hermenêutica legislativa pela judicial.
+
+    31. A propósito, o argumento que supostamente legitimaria a intervenção judicial, na espécie, consubstanciada no "conflito normativo" (LOM vs RI), aparenta-se equivocada. Isso porque não há, tecnicamente, uma antinomia, mas sim uma relação de delegação e especialidade.
+
+    32. Os arts. 16 e 19 da Lei Orgânica Municipal estabelecem textualmente:
+“Art. 16 - Imediatamente após a posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados.
+(...)
+“Art. 19 - Caberá ao Regimento Interno da Câmara Municipal dispor sobre a composição da Mesa Diretora, e, subsidiariamente, sobre a sua eleição.”
+
+    33. O art. 21, § 3º, do Regimento Interno, em cumprimento a essa delegação, especializa a matéria, prevendo:
+
+“Art. 21 – Imediatamente após a posse, os Vereadores reunir-se-ão sob a Presidência do Vereador que mais recentemente tenha exercido cargo na Mesa, ou, na hipótese de inexistir tal situação, do mais votado entre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados.
+§ 3º - A eleição dos membros da Mesa far-se-á por maioria simples, assegurando-se o direito de voto inclusive aos candidatos a cargos na Mesa e utilizando-se para votação cédulas únicas de papel, datilografadas ou impressas, as quais serão recolhidas em urnas que ficarão localizadas no plenário.”
+
+    34. Reputo, portanto, ao menos nesse momento incipiente de análise, que ao ignorar a norma de delegação (art. 19 da LOM) e o princípio da especialidade (lex specialis derogat legi generali), o Juízo reclamado criou artificialmente um conflito para, então, justificar sua intervenção. Isso torna ainda mais plausível o direito alegado pela reclamante, de ofensa ao Tema RG nº 1.120, pois o Juízo reclamada não apenas interpretou, mas o fez com base em uma premissa fática e juridicamente insustentável.
+
+    35. Em síntese, considero que a menção ao art. 29 da CRFB, pelo ato reclamado, consiste em mero artifício retórico que não se sustenta. O dispositivo constitucional foi utilizado como pretexto para justificar uma intervenção que, em sua essência, consistiu em: (i) ignorar uma norma de delegação expressa na própria Lei Orgânica (art. 19); (ii) criar uma antinomia inexistente entre a LOM e o RI; (iii) resolver este conflito artificial por meio de sua própria escolha hermenêutica (critério da hierarquia), em detrimento da interpretação razoável e legítima aplicada pela autoridade legislativa competente; (iv) agir, portanto, como legislador positivo e intérprete final do direito municipal, usurpando a autonomia da Câmara de Vereadores em matéria interna corporis, sem que houvesse qualquer violação direta e comprovada a um comando específico da Constituição Federal.
+
+    36. A par do quanto delineado, reputo que a autoridade reclamada extrapolou os limites de sua competência de controle, imiscuindo-se em matéria de exclusiva alçada do Poder Legislativo Municipal, em potencial desrespeito ao princípio da separação de poderes (art. 2º da CRFB) e à autoridade da decisão proferida por este Supremo Tribunal Federal no Tema nº 1.120 da Repercussão Geral,  o que revela a plausibilidade do direito ora invocado (fumus boni juris).
+
+    37. Por outro lado, entendo igualmente presente o periculum in mora, tendo em vista a alegação da reclamante acerca da iminência da nova sessão de deliberação dos membros da Mesa, agendada para 16/11/2025 (e-doc. 1, p. 19), sendo oportuno pontuar, ademais, que a realização de novas eleições, com eventual posse de novos membros da Mesa Diretora, de forma precária, implicará significativo abalo à segurança jurídica e à estabilidade político-institucional do Município de Cornélio Procópio/PR.
+
+    38. Diante do exposto, e sem prejuízo de reexame ulterior, defiro o pedido liminar para determinar a imediata suspensão da decisão reclamada, que invalidou a eleição de 01/01/2025 da Mesa Diretora da Câmara Municipal de Cornélio Procópio/PR, proferida nos autos do Mandado de Segurança nº  0000035-34.2025.8.16.0075 e confirmada no agravo interno nº 0132584-39.2025.8.16.0000, ad referendum da Segunda Turma, até ulterior decisão nesta reclamação.
+
+    39. Ressalto que, caso a eleição para composição da Mesa Diretora, na forma como determinado pelo ato impugnado, esteja em curso ou já tenha ocorrido, seu resultado fica, desde logo, sem efeito, até decisão final nesta reclamação.
+
+    40. Comunique-se ao Juízo da 2ª Vara da Fazenda Pública de Cornélio Procópio/PR, com urgência e pela forma mais expedita, cabendo-lhe efetivar o cumprimento da decisão por meio de Oficial de Justiça, dando-se imediata ciência à Câmara do Município de Cornélio Procópio/PR, se necessário em regime de plantão.
+
+    41. Sem prejuízo do item anterior, requisitem-se as informações de praxe ao Juízo da 2ª Vara da Fazenda Pública de Cornélio Procópio/PR e à 4ª Câmara Cível do Tribunal de Justiça do Paraná, as quais deverão ser prestadas no prazo de 10 (dez) dias (art. 989, I, do CPC).
+
+    42. Expirados os prazos, devolvam-se os autos à conclusão.
+
+Comunique-se, com urgência.
+
+Publique-se.
+Brasília, 15 de novembro de 2025.
+
+Ministro ANDRÉ MENDONÇA
+Relator
+Documento assinado digitalmente
