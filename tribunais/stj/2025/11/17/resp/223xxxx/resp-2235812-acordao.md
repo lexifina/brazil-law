@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INDENIZAÇÃO SECURITÁRIA. FCVS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É assente nesta Corte Superior o entendimento de que é condição sine qua non ao conhecimento do especial que os dispositivos legais indicados como malferidos nas razões de recurso tenham sido ventilados no contexto do acórdão objurgado, emitindo-se, sobre cada um deles, juízo de valor, interpretando-lhes o sentido e a compreensão.
+2. Assim, verifica-se que suscitar no especial a ofensa aos dispositivos legais, sem que o Tribunal estadual tenha analisado a tese de que o bem dado em garantia é suficiente para o cumprimento da obrigação, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Incidência da Súmula nº 211 do STJ.
+RELATÓRIO
+Trata-se de recurso especial interposto por YELUM SEGUROS S.A. (YELUM), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+ADMINISTRATIVO. PROCESSO CIVIL. VÍCIOS DE CONSTRUÇÃO. IMÓVEIS FINANCIADOS COM RECURSOS DO SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. TEMA STF 1011. APÓLICE PÚBLICA. RAMO 66. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A questão concernente à configuração do interesse jurídico da Caixa Econômica Federal para ingressar nas lides que versam sobre cobertura securitária está decidida no Supremo Tribunal Federal que, no julgamento do RE nº 827.996/PR, em regime de repercussão geral, através do Tema 1.011, que determinou, em caráter vinculante, os critérios para a fixação da competência da Justiça Federal para processar e julgar demandas que versem sobre apólices públicas do Seguro Habitacional do Sistema Financeiro da Habitação, vinculadas ao FCVS, administrado pela CEF. O referido julgado fixou as seguintes teses: 1) "Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010): 1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; 1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença"; 2) "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1ºA da Lei 12.409/2011".
+2. Como regra, deve ser reconhecida a legitimidade passiva da CEF nos processos em que a empresa pública manifeste seu interesse, por envolver recursos do FCVS ou de qualquer de suas subcontas (Fundos dos quais a CEF reconhecidamente é gestora). Da análise de inúmeras demandas versando sobre o tema, observa-se que a empresa pública federal vem noticiando e comprovando documentalmente não só a extinção da reserva técnica proveniente do FESA, como também o atual estado deficitário do FCVS (Embargos Infringentes n.º 5008264-61.2013.404.7001 pela Segunda Seção desta Corte).
+3. Hipótese em que reconhecida a incompetência da Justiça Federal (e-STJ, fl. 122).
+Os embargos de declaração opostos por YELUM foram rejeitados (e-STJ, fls. 131-135).
+Nas razões do presente recurso, YELUM alegou a violação dos arts. 3º, §§ 1º, 2º e 6º, da Lei nº 13.000/14; e 64, § 1º, do CPC, ao sustentar que deve ser reconhecido o interesse da Caixa Econômica Federal - CEF no feito, com o deslocamento da competência para a Justiça Federal.
+Não foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INDENIZAÇÃO SECURITÁRIA. FCVS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É assente nesta Corte Superior o entendimento de que é condição sine qua non ao conhecimento do especial que os dispositivos legais indicados como malferidos nas razões de recurso tenham sido ventilados no contexto do acórdão objurgado, emitindo-se, sobre cada um deles, juízo de valor, interpretando-lhes o sentido e a compreensão.
+2. Assim, verifica-se que suscitar no especial a ofensa aos dispositivos legais, sem que o Tribunal estadual tenha analisado a tese de que o bem dado em garantia é suficiente para o cumprimento da obrigação, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Incidência da Súmula nº 211 do STJ.
+VOTO
+O recurso não merece prosperar.
+Da incidência da Súmula nº 211 do STJ
+Nas razões de seu recurso, YELUM alegou a violação dos arts. 3º, §§ 1º, 2º e 6º, da Lei nº 13.000/14; e 64, § 1º, do CPC, ao sustentar, com base nesses dispositivos, que deve ser reconhecido o interesse da Caixa Econômica Federal - CEF no feito, com o deslocamento da competência para a Justiça Federal.
+Contudo, o Tribunal estadual não se pronunciou sobre tais pontos à luz da legislação apontada, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada a tese trazida no recurso especial quanto à violação dos arts. 3º, §§ 1º, 2º e 6º, da Lei nº 13.000/14; e 64, § 1º, do CPC.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO NÃO VERIFICADA. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE SOLIDÁRIA. ANÁLISE DO CONTRATO. SÚMULA Nº 5/STJ. RESPONSABILIDADE DA LOCADORA. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA Nº 182/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA
+Nº 211/STJ.
+ .. .
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EDcl no AREsp n. 2.116.544/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2025, DJEN de 26/9/2025.)
+Dessa forma, incide a Súmula nº 211 do STJ.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de EGON REUTER, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+É o voto.
