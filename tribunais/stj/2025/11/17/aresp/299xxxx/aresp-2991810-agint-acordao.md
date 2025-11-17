@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. EMPRESAS INTEGRANTES DA CADEIA DE FORNECIMENTO. RESPONSABILIDADE SOLIDÁRIA. AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial interposto que busca a reforma de acórdão assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÕES CÍVEIS E RECURSO ADESIVO. 1. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA OPERADORA DE PLANO DE SAÚDE. EMPRESA QUE COMPÕE A CADEIA DE FORNECIMENTO. RESPONSABILIDADE SOLIDÁRIA. 2. RECUSA DE ATENDIMENTO. SOLICITAÇÃO REALIZADA NO CURSO DO CONTRATO E COM MENSALIDADES EM DIA. CANCELAMENTO POSTERIOR. CONDUTA ABUSIVA CONFIGURADA. 3. DANO MORAL. PREJUÍZO QUE ULTRAPASSA O MERO ABORRECIMENTO. QUANTUM INDENIZATÓRIO. RAZOABILIDADE E PROPORCIONALIDADE. CONVERGÊNCIA COM PRECEDENTES DESTA CORTE DE JUSTIÇA.
+I. CASO EM EXAME
+1. Apelações cíveis e recurso adesivo interpostos contra sentença que condenou Operadora e Administradora de plano de saúde, solidariamente, ao pagamento de indenização por danos morais no valor de R$ 4.000,00 (quatro mil reais), em razão de recusa de atendimento ao consumidor. A recusa ocorreu sob a alegação de inadimplemento por atraso inferior a trinta dias, sem notificação prévia de alegada suspensão ao consumidor e em momento anterior ao pedido de cancelamento do contrato.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) a preliminar de ilegitimidade passiva da administradora do plano de saúde; (ii) no mérito, a legalidade da recusa de atendimento, a configuração do dano moral e a adequação do quantum fixado.
+III. RAZÕES DE DECIDIR
+3. A legitimidade passiva da administradora do plano de saúde se reconhece pela sua atuação como gestora das obrigações do contrato firmado com o consumidor, sendo corresponsável pelos atos praticados em detrimento do beneficiário.
+4. A recusa de atendimento baseada em atraso de mensalidade inferior a trinta dias viola o art. 13, § 1º, II, da Lei nº 9.656/1998, configurando prática abusiva, especialmente diante da ausência de notificação prévia exigida pela legislação.
+5. O pedido de cancelamento do contrato, ainda que realizado antes da data da negativa, não exime a operadora de garantir atendimento ao consumidor até a efetiva resolução contratual.
+6. A recusa indevida de atendimento enseja dano moral, porquanto afronta a dignidade do consumidor, causando-lhe abalo psicológico e sensação de desamparo, mormente quando este aceitara a proposta de pagar o valor inteiro da mensalidade, visando exatamente realizar os exames que tinha pendentes.
+7. O valor fixado em R$ 4.000,00 (quatro mil reais) a título de danos morais respeita os critérios de proporcionalidade e razoabilidade, considerando a gravidade do ato e os precedentes sobre a matéria.
+IV. DISPOSITIVO: Recursos conhecidos e desprovidos.
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o agravo em recurso especial impugnou especificamente todos os fundamentos da decisão de inadmissibilidade.
+Impugnação não apresentada (fl. 643).
+É o relatório.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. EMPRESAS INTEGRANTES DA CADEIA DE FORNECIMENTO. RESPONSABILIDADE SOLIDÁRIA. AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) ausência de prequestionamento (Súmula 211/STJ); b) necessidade de reexame do conjunto fático-probatório quanto à ilegitimidade passiva (Súmula 7/STJ); c) interpretação de cláusulas contratuais quanto à ilegitimidade passiva (Súmula 5/STJ); d) reexame fático-probatório sobre o dever de indenizar (Súmula 7/STJ); e) impossibilidade de revisão do quantum indenizatório na hipótese (Súmula 7/STJ); f) deficiência na demonstração do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil.
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que não incidem os óbices das Súmulas 5/STJ e 7/STJ porque se trata de revaloração da prova, e não de reexame, e que não houve interpretação de cláusula contratual.
+Como  se  vê,  a  parte  agravante  deixou  de  impugnar  os  fundamentos da  decisão  agravada, uma vez que não enfrentou, de forma específica e pormenorizada, a ausência de prequestionamento (Súmula 211/STJ), a fundamentação quanto ao quantum indenizatório sob o óbice da Súmula 7/STJ e a deficiência na comprovação do dissídio, limitando-se a reproduzir, em essência, as razões do recurso especial, sem demonstrar o desacerto  da decisão que não admitiu o recurso especial ou  eventual  possibilidade  de  afastamento  do  óbice  sumular  apontado.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018) (fls. 629-630).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Anoto que, especificamente no que toca à impugnação da Súmula 7 do STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AgInt no AREsp n. 600.416/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 10/11/2016, DJe de 18/11/2016).
+Vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.970.371/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. As razões do agravo interno não enfrentam adequadamente os fundamentos da decisão agravada.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmulas 7/STJ).
+3. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+4. "Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou" (AgInt no AREsp 1970371/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 17/12/2021).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.289.491/PE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+Desta forma, em atenção ao princípio da dialeticidade do recurso, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182 do STJ.
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego provimento ao  agravo  interno.
+É  como  voto.
