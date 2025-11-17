@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE GRAVAME. IMÓVEL COMERCIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Angelo Do Carmo Silva Matthes contra decisão singular da lavra do Ministro Presidente do STJ que não conheceu do agravo em recurso especial por entender aplicável, por analogia, a Súmula 182/STJ, haja vista a ausência de impugnação específica do fundamento relativo à incidência da Súmula 7/STJ constante da decisão de inadmissibilidade proferida pelo Tribunal de origem (fls. 732-733).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada incorreu em equívoco ao afirmar a falta de impugnação específica.
+Sustenta que, no agravo em recurso especial, houve demonstração analítica do dissídio jurisprudencial, impugnação ao óbice da Súmula 7/STJ e indicação de violação dos arts. 166, 421, 422 e 1420 do Código Civil, além de aplicação da Súmula 308/STJ (fls. 743-751).
+Aduz que a Súmula 7/STJ vem sendo utilizada de forma excessiva, o que impediria o acesso à instância superior, e defende que seu recurso não pretende revolvimento do conjunto fático-probatório (fls. 744-750).
+Argumenta, ainda, existência de decisões análogas do Tribunal de Justiça de São Paulo que amparariam sua tese (fls. 744-748).
+Impugnação ao agravo interno às fls. 767-775 na qual a parte agravada alega que o agravo interno é protelatório, que o agravante não impugnou especificamente todos os fundamentos da decisão de inadmissibilidade, em especial o óbice da Súmula 7/STJ, e que as razões são genéricas e voltadas ao mérito, incidindo, por analogia, as Súmulas 182/STJ e 284/STF; defende, ademais, a manutenção dos óbices das Súmulas 5, 7 e 83/STJ (fls. 767-775).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE GRAVAME. IMÓVEL COMERCIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente o único fundamento da decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial porque, embora a decisão de inadmissibilidade do Tribunal de origem tenha apontado múltiplos óbices  ausência/erro de indicação de artigo de lei federal violado (Súmula 284/STF), ausência de afronta a dispositivo legal, incidência da Súmula 7/STJ e deficiência de cotejo analítico  a parte agravante deixou de impugnar especificamente, no AREsp, o fundamento referente à Súmula 7/STJ; por isso, aplicou-se, por analogia, a Súmula 182/STJ, à luz do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (fls. 732-733).
+Nas razões do agravo interno, contudo, a parte agravante não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento central da decisão agravada  ausência de impugnação específica, no AREsp, do óbice da Súmula 7/STJ  limitando-se a aduzir que teria, genericamente, impugnado todos os pontos e que não busca revolvimento fático, além de reproduzir teses meritórias relativas a suposta violação de dispositivos do Código Civil e aplicação da Súmula 308/STJ (fls. 743-751).
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Ademais, cumpre salientar que o princípio da dialeticidade recursal impõe à parte recorrente o ônus de demonstrar, de forma clara e específica, os pontos de inconformismo em face da decisão impugnada, sob pena de inviabilizar o conhecimento do recurso.
+A mera reiteração de argumentos genéricos, dissociados dos fundamentos adotados na decisão agravada, não satisfaz tal exigência, porquanto impede o efetivo controle jurisdicional da insurgência e inviabiliza a cognição do órgão julgador.
+Nessa linha, é pacífico o entendimento de que o agravo interno deve trazer impugnação direta e completa aos fundamentos da decisão recorrida, sob pena de incidência, por analogia, da Súmula 182 do STJ, que consagra a necessidade de ataque específico aos fundamentos do decisum impugnado. Nesse sentido:
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. HABEAS CORPUS DE OFÍCIO. SUCEDÂNEO RECURSAL. AUSÊNCIA DE MANIFESTA TERATOLOGIA. VIA IMPRÓPRIA. SUPRESSÃO RECURSAL. FALTA DE PLAUSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DAS RAZÕES DO RECURSO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. 1. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015. 2. Agravo regimental não conhecido, com habeas corpus de ofício indeferido liminarmente. (AgRg nos EAREsp n. 2.466.966/BA, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
