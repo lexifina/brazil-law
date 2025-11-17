@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por FAÍSCA EMPRESA DE SANEAMENTO AMBIENTAL LTDA da decisão em que não reconheci a ocorrência de negativa de prestação jurisdicional (fls. 196/199).
+A parte agravante alega que "demonstrou e comprovou a existência de prescrição a ensejar a extinção do feito executivo desde a apresentação de sua exceptio. Contudo, a r. decisão que a rejeitou foi proferida de forma genérica, fazendo menção a argumento sequer arguido pela Agravante e não enfrentando as razões que demonstraram a inércia da Agravada no presente caso, motivo pelo qual fora agravada" (fl. 213).
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dos dispositivos de lei constantes das razões recursais.
+2. Agravo interno a que se nega provimento.
+VOTO
+Antes de tudo, observo que o recurso especial teve o seguimento negado quanto à controvérsia de fundo, de modo que apenas as questões relacionadas ao suposto vício de fundamentação foram remetidas ao conhecimento do Superior Tribunal de Justiça (STJ).
+Não prospera a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil porque, da leitura do acórdão de origem, verifico que a prestação jurisdicional foi dada na medida da pretensão apresentada. O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO resolveu a controvérsia de forma fundamentada, e não há que se falar em omissão, contradição, obscuridade ou erro material.
+Com efeito, Nos embargos de declaração opostos na origem, a parte recorrente sustenta que, "considerando a correta premissa de que houve tentativa de citação válida da Embargante, resta eivada de obscuridade a assertiva de que não teria havido o início " (fl. 85). Postula, ainda, a análise da controvérsia da contagem do prazo prescricional "à luz dos artigos 174, Parágrafo Único, I e 156, V, do CTN e 5º, XXXVI, Constituição (fl. 86). Federal e art. 8º, § 2º da Lei 6.830/1980"
+Ao apreciar o recurso integrativo, o Colegiado estadual assim decidiu (fls. 89 /93):
+ ..  A certidão de fls. 42/43 que, supostamente, teria confirmado a expedição da carta citatória, não está assinada, o que traz incertezas se de fato foi providenciado o ato.
+Ademais, ainda que se considere que a carta de citação foi expedida, não há nenhum outro documento nos autos que corrobore que foi realizada a tentativa de citação. Não há resposta nos autos que confirme a citação e muito menos que houve a tentativa e que o executado não foi encontrado. Nesse sentido, apenas a expedição da carta citatória, sem qualquer resposta, não é suficiente para caracterizar que houve a tentativa citatória e que o executado não foi encontrado.
+Nesse sentido, o acórdão:
+Conclui-se, portanto, que da primeira tentativa frustrada de localização do devedor ou de constrição de seus bens, uma vez intimada a Fazenda Pública, inicia-se automaticamente o prazo de suspensão da execução fiscal por 1 ano, tal como previsto no art. 40, caput, da LEF e, uma vez findo esse prazo, tem início a contagem do prazo da prescrição intercorrente. Como não houve tentativa de citação, o Município só teve ciência da citação da agravante/executada após o comparecimento espontâneo da executada em 30/05/2019 (quando foi oposta a exceção de pré- executividade). Logo, considerando que não houve tentativa de citação da executada, revela- se descabido o reconhecimento da ocorrência de prescrição intercorrente. Isso porque, no entendimento deste Eg. Tribunal de Justiça, a falta de tentativa de citação válida não permite o início da contagem do prazo da prescrição intercorrente, uma vez que não houve tentativa, por parte do aparato da Justiça, de se dar impulso ao feito, nem intimação da Fazenda Pública a respeito da não realização da citação. (fls. 80/81).
+Entendeu portanto, o acórdão embargado, que a prescrição não ocorreu em virtude da falta de tentativa de citação válida, corroborada pela falta de resposta à carta citatória e pela falta de intimação da exequente a respeito da tentativa citatória.  ..
+O órgão julgador de origem, à luz dos documentos constantes dos autos, parte expressamente do pressuposto de que a tentativa de citação válida não foi comprovada, uma vez que, a despeito da expedição de carta de citação (que foi relativizada), não foi constatado qualquer retorno de realização ou de frustração do ato. Nesse contexto, conclui que não é possível presumir que tenha havido ao menos a tentativa de citação. Ademais, deixa expresso que os atos logicamente subsequentes à eventual tentativa de citação não estão identificados nos autos.
+Anoto, outrossim, que a suposta omissão referente aos arts. 174, parágrafo único, I, e 156, V, do CTN e ao art. 8º, § 2º, da Lei 6.830/1980 foi genericamente invocada, sem que seja possível extrair dos embargos de declaração as razões específicas pelas quais os dispositivos relacionados deveriam ter sido expressamente abordados no acórdão recorrido.
+Está correta, portanto, a decisão que afastou a aduzida violação.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
