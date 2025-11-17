@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por DARCY YANO FRANCESCHI e ROGER YANO FRANCESCHI contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial.
+Consta dos autos que os agravantes foram condenados como incursos nas sanções do art. 129, § 1º, I, do Código Penal: Darcy Yano Franceschi, à pena de 1 ano de reclusão em regime inicial aberto; e Roger Yano Franceschi, à pena de 1 ano e 4 meses de reclusão em regime inicial fechado (fls. 491-507).
+O Tribunal de origem negou provimento à apelação interposta pela defesa, conforme acórdão ementado nos seguintes termos (fls. 1730-1731):
+APELAÇÃO Lesão corporal de natureza grave. Preliminar de prescrição rejeitada: datas com interrupção pelo desenvolvimento do processo crime. No mérito, demonstração de lesão corporal dolosa, sem prova de legítima defesa. Art. 59, CP, a pena de cada um foi fundamentada. O critério trifásico foi observado em face dos autos. O regime prisional tem previsão legal. Rejeitada a matéria preliminar, no mérito é NEGADO PROVIMENTO AO RECURSO.
+No recurso especial interposto, os recorrentes sustentaram, em síntese, a ocorrência da prescrição da pretensão punitiva estatal, ao argumento de que o marco interruptivo deveria ser fixado na data do julgamento dos embargos de declaração que integraram a sentença condenatória, nos termos do art. 117, IV, do Código Penal.
+Alegaram, ainda, nulidade por ofensa ao princípio da correlação entre a denúncia e a sentença, afirmando que foram condenados com base em causa de aumento diversa da narrada na exordial acusatória, em violação do art. 383 do Código de Processo Penal. Requereram, ao final, o conhecimento e provimento do recurso para que fosse reconhecida a prescrição da pretensão punitiva ou, subsidiariamente, anulada a sentença condenatória por ausência de correlação com a peça acusatória (fls. 681-696).
+Apresentadas as contrarrazões (fls. 725-732), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula n. 7 do STJ e deficiência na demonstração do dissídio jurisprudencial (fls. 735-738).
+No agravo em recurso especial, os agravantes alegaram que a decisão que inadmitiu o recurso especial incorreu em equívoco ao aplicar o óbice da Súmula n. 7 do STJ, bem como por ausência de demonstração do dissídio jurisprudencial, sustentando que as teses recursais - prescrição da pretensão punitiva e ausência de correlação entre a denúncia e a sentença - podem ser apreciadas sem reexame do conjunto fático-probatório. Defenderam, ainda, que o dissídio jurisprudencial foi devidamente demonstrado, com indicação de acórdão paradigma e similitude fática. Ao final, requereram o provimento do agravo para que fosse admitido e processado o recurso especial, com posterior reforma do acórdão recorrido (fls. 741-746).
+Apresentada contraminuta pelo Ministério Público Estadual (fls. 749-752).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo e, caso dele se conheça, pelo desprovimento do recurso especial, nos termos da seguinte ementa (fl. 773-779):
+AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL. FALTA DE IMPUGNAÇÃO DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. SÚMULA Nº 182 DO STJ. PRESCRIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CORRELAÇÃO ENTRE ACUSAÇÃO E SENTENÇA. OBEDIÊNCIA. PELO NÃO CONHECIMENTO DO AGRAVO E, SE CONHECIDO, NÃO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Como se observa pela decisão impugnada, o recurso especial foi inadmitido com base em dois fundamentos: (i) a incidência da Súmula n. 7 do STJ, por demandar reexame de provas; (ii) a deficiência na demonstração do dissídio jurisprudencial.
+No entanto, verifica-se que os agravantes deixaram de impugnar de forma específica e pormenorizada tais fundamentos, limitando-se a reproduzir os argumentos expendidos no recurso especial, sem infirmar de maneira direta e concreta as razões que motivaram a negativa de seguimento.
+Consoante reiterada jurisprudência desta Corte Superior, não se mostra suficiente a mera assertiva de que a apreciação da controvérsia não demanda reexame do acervo fático-probatório dos autos para afastar, por si só, a incidência do óbice previsto na Súmula n. 7 do STJ.
+Nessa linha:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO DA CONDUTA PARA USO. MERCANCIA COMPROVADA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se o recurso especial pode ser admitido quando a parte agravante não apresenta argumentação suficiente para afastar os óbices de inadmissão do recurso especial.
+III. RAZÕES DE DECIDIR
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa, não bastando a assertiva genérica de que o recurso visa à revaloração das provas.
+4. Demonstrada de forma robusta a mercancia das drogas, a partir da apreensão de substâncias entorpecentes em quantidade fracionada, do material típico de embalagem, da campana policial que constatou intensa movimentação típica de usuários no local, - o que motivou o pedido judicial de busca e apreensão - e dos testemunhos colhidos sob o crivo do contraditório, a pretensão defensiva de desclassificação da conduta exigiria, inevitavelmente, o reexame dos fatos e das provas constantes dos autos - providência vedada na via eleita, nos termos da Súmula n. 7 do STJ, por não se tratar de mera questão de direito ou de interpretação da legislação federal.
+5. O recurso especial não se destina ao rejulgamento da causa, mas sim à interpretação e uniformização da lei federal, não cabendo ao STJ atuar como instância recursal ordinária.
+IV. DISPOSITIVO E TESE
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A mera afirmação genérica de não incidência da Súmula 7 do STJ não é suficiente para afastar seu óbice. 2. O recurso especial não se destina ao rejulgamento da causa, mas à interpretação e uniformização da lei federal."
+Dispositivos relevantes citados: Súmula 7 do STJ; Súmula 182 do STJ.
+(AgRg no AREsp n. 2.715.909/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2025, DJEN de 17/6/2025, grifei.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em virtude da aplicação da Súmula n. 182 do STJ, por ausência de impugnação específica dos fundamentos da decisão agravada.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial preenche os requisitos de admissibilidade, especialmente quanto à impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+III. Razões de decidir
+3. A decisão de inadmissão do recurso especial assentou-se nos óbices das Súmulas n. 7 do STJ e 282 e 356 do STF e na impossibilidade de análise de matéria constitucional em recurso especial.
+4. A parte agravante não impugnou de forma específica e fundamentada todos os fundamentos da decisão agravada, limitando-se a alegações genéricas, o que atrai a aplicação da Súmula n. 182 do STJ.
+5. O princípio da dialeticidade recursal exige que a parte recorrente impugne todos os fundamentos da decisão recorrida, demonstrando concretamente o desacerto, o que não ocorreu no presente caso.
+6. A falta de prequestionamento da matéria, sem a oposição de embargos de declaração para sanar eventual omissão, reforça a inadmissibilidade do recurso.
+7. A Súmula n. 7/STJ impede o reexame do conjunto fático-probatório em recurso especial, limitando-se a análise à revaloração jurídica dos fatos já estabelecidos.
+8. O recurso especial não é a via adequada para apreciação de matéria constitucional, sendo competência do Supremo Tribunal Federal em recurso extraordinário.
+IV. Dispositivo e tese
+9. Agravo regimental não provido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo em recurso especial. 2. Alegações genéricas não são suficientes para afastar a aplicação da Súmula n. 182 do STJ".
+Dispositivos relevantes citados: CPC/2015, art. 932, III; RISTJ, art. 253, parágrafo único, I. Jurisprudência relevante citada: STJ, AgRg no AREsp 2.121.358/ES, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 27/09/2022; STJ, AgRg no AREsp 2.091.694/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07/06/2022.
+(AgRg no AREsp n. 2.514.941/GO, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 10/6/2025, DJEN de 16/6/2025, grifei.)
+Por sua vez, quanto ao óbice da deficiência de demonstração do dissídio jurisprudencial, a insurgência limitou-se a reafirmar genericamente a existência de acórdão paradigma, sem enfrentar concretamente a ausência de cotejo analítico exigido pelos arts. 1.029, § 1º, do Código de Processo Civil; e 255, § 1º, do Regimento Interno desta Corte, tampouco demonstrou as circunstâncias fáticas que identificariam ou assemelhariam os casos confrontados.
+Desse modo, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. APLICABILIDADE DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Para impugnar a Súmula n. 83 do STJ, a parte deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida (AgRg nos Edcl no Aresp n. 1.096.124/SP) demonstrando-se que outro é o entendimento jurisprudencial desta Corte (ut, AgInt no AREsp n. 1.566.560/RJ, Relator Ministro Marco Aurélio Bellizze, DJe 19/2/2020).
+3. Conforme remansosa jurisprudência desta Corte, " a  impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.  ..  O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência" (ut, AgInt no AREsp n. 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, D Je de 20/12/2023).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+2. "É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016)" (AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024, grifei.)
+Por fim, registre-se que, nos termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
