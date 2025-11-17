@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2291, de 14 de novembro de 2025
+Dispõe sobre a prestação de informações relativas a operações realizadas com criptoativos à Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 113 da Lei nº 5.172, de 25 de outubro de 1966, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, no art. 5º da Lei nº 14.478, de 21 de dezembro de 2022, no art. 44 da Lei nº 14.754, de 12 de dezembro de 2023, no Decreto nº 8.842, de 29 de agosto de 2016, e no Acordo Multilateral de Autoridades Competentes para a troca automática de informações nos termos do Crypto-Asset Reporting Framework - CARF, de 21 de novembro de 2024, resolve:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
