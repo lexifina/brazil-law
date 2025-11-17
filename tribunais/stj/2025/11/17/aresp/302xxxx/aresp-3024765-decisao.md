@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ROBSON MENDES DA ROCHA e FRANCISCO DE ASSIS SANTOS DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO.
+Os agravantes foram condenados pela prática do delito previsto no art. 19, caput, da Lei nº 7.492/86.
+O Tribunal de origem deu parcial provimento ao apelo da defesa e negou provimento à apelação da acusação (fls. 1039/1048).
+No recurso especial, a defesa sustenta a negativa de vigência de dispositivos legais, nomeadamente a violação do art. 619 do CPP, pela omissão do TRF-5 em analisar a possibilidade de aplicação retroativa do Acordo de Não Persecução Penal (ANPP); alega erro na dosimetria da pena aplicada (fls. 1133/1149).
+O Tribunal de origem negou seguimento ao Recurso Especial, com base na Súmula 284/STF, consignando deficiência de fundamentação quanto à alegada irregularidade na dosimetria da pena, por ausência de indicação do dispositivo legal violado.
+Nas razões do agravo, argumenta pela ausência de incidência da Súmula 284/STF, pois sustenta ter havido a indicação explícita dos dispositivos legais violados - Artigos 29 e 59 do Código Penal - refutando a alegação de deficiência de fundamentação na discussão sobre a dosimetria da pena. Reitera a negativa de vigência ao Art. 619 do CPP, em razão da omissão do TRF-5 em sanar vícios e enfrentar questões essenciais, como a ausência de oferecimento do Acordo de Não Persecução Penal (ANPP), e questiona a dosimetria da pena por ilegalidade, alegando a ocorrência de bis in idem ao majorar a pena-base de Robson M. da R. com base em elementos inerentes ao tipo penal (atuação mais proeminente e providência de documentação falsa), e por contradição interna ao negar a minorante da participação de menor importância (Art. 29, § 1º, CP) a Francisco de Assis S. S., apesar de ter justificada a exasperação da pena de Robson justamente pela sua participação ter sido significativamente mais relevante (fls. 1366/1371).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 1390/1392).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Com efeito, nos termos da iterativa jurisprudência desta Corte Superior, o agravo em recurso especial deve impugnar, de forma específica e fundamentada, os fundamentos da decisão que inadmitiu o recurso especial, não bastando alegações genéricas sobre a inaplicabilidade do óbice invocado.
+No caso concreto, a decisão agravada aplicou a Súmula 284/STF, ao fundamento de que "os recorrentes não indicaram o dispositivo de lei que teria sido violado" quanto à alegada irregularidade na dosimetria da pena, gerando deficiência de fundamentação, que impedia a exata compreensão da controvérsia.
+Analisando as razões do agravo, constato que os agravantes se limitaram a afirmar, de modo genérico, que "houve, sim, a indicação dos dispositivos legais violados, notadamente os artigos 29 e 59 do Código Penal" (fl. 1.367), sem, contudo, demonstrar onde e de que forma tais dispositivos foram indicados no recurso especial inadmitido, com as razões correspondentes da alegada violação.
+A mera alegação de que a fundamentação foi clara e precisa não é suficiente para afastar o óbice da Súmula 284/STF. Cumpria à defesa transcrever os trechos pertinentes do recurso especial ou indicar, com precisão cirúrgica, em qual momento da peça recursal foram apontados os dispositivos infraconstitucionais violados, acompanhados da demonstração analítica do desrespeito à norma federal.
+Nesse sentido, não cabe ao julgador buscar, no corpo do recurso especial inadmitido, eventuais menções que possam suprir a deficiência apontada pela decisão agravada. O ônus argumentativo é da parte recorrente, que deve demonstrar, no próprio agravo, o equívoco da decisão que negou seguimento ao apelo especial.
+A ausência de impugnação específica dos fundamentos da decisão agravada atrai a incidência do enunciado da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ÓBICES DAS SÚMULAS N. 284 DO STF E N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, com base na Súmula n. 182 do STJ, devido à ausência de impugnação específica dos fundamentos pelos quais o Tribunal de origem inadmitiu o recurso especial, incidindo as Súmulas n. 284 do STF e n. 7 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo em recurso especial impugnou adequadamente os fundamentos da decisão que inadmitiu o recurso especial, especialmente em relação à incidência das Súmulas n. 284 do STF e n. 7 do STJ.
+III. Razões de decidir
+3. A decisão monocrática da Presidência do STJ aplicou corretamente a Súmula 182 do STJ, ao não conhecer o agravo em recurso especial por falta de impugnação específica dos fundamentos adotados na decisão de inadmissibilidade no Tribunal a quo.
+4. A defesa não demonstrou, de forma concreta, a inaplicabilidade da Súmula 7 do STJ, limitando-se a alegações genéricas sobre a revaloração da prova, sem indicar premissas fáticas incontroversas.
+5. A mera alegação de que a fundamentação foi clara e bem fundamentada não é suficiente para afastar a incidência da Súmula n. 284 do STF diante do constatado vício da peça recursal que apontou artigo de lei federal violado sem o motivo correspondente, sendo defeso inovar no agravo regimental para sanar a deficiência em razão da preclusão consumativa.
+IV. Dispositivo e tese
+6. Agravo regimental desprovido.
+Tese de julgamento: "1. A impugnação dos fundamentos da decisão de inadmissibilidade deve ocorrer no agravo em recurso especial, sob pena de preclusão consumativa. 2. A ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial obsta o conhecimento do agravo, conforme a Súmula 182 do STJ. 3. A mera alegação genérica de inaplicabilidade da Súmula 7 do STJ não é suficiente para afastar o óbice, sendo necessária a demonstração concreta de que a tese recursal está adstrita a fatos incontroversos."  ..  (AgRg no AREsp n. 2.632.127/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/4/2025, DJEN de 29/4/2025.)
+No caso dos autos, os agravantes não transcreveram o trecho do recurso especial em que teria indicado os dispositivos legais violados com as razões correspondentes, tampouco demonstraram, de forma analítica, o desacerto da decisão agravada ao aplicar a Súmula 284/STF.
+Ademais, eventual indicação dos artigos 29 e 59 do Código Penal, nas razões do agravo, não supre a deficiência da peça do recurso especial, sob pena de indevida inovação recursal e violação à preclusão consumativa.
+Como consignado no parecer ministerial, "sendo defeso inovar no agravo regimental para sanar a deficiência em razão da preclusão consumativa", o mesmo raciocínio se aplica ao agravo em recurso especial, que não pode servir de instrumento para corrigir vícios da peça do recurso especial inadmitido.
+Assim, constata-se a deficiência de fundamentação do presente agravo, o que obsta o seu conhecimento.
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+.
