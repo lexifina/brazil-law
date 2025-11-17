@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. EXECUÇÃO. CPC/1973. INÉRCIA DO EXEQUENTE. TERMO INICIAL. PRAZO PRESCRICIONAL. ARTIGO 202, PARÁGRAFO ÚNICO, CÓDIGO CIVIL. APLICAÇÃO ANALÓGICA ARTIGO 40, §2º, LEI 6830/1980. RECURSO ESPECIAL. JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. TEMA 1 STJ. RESP 1604412/SC. SÚMULA 83 STJ. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou seguimento a recurso especial, sob o fundamento de que o acórdão re corrido está em consonância com a jurisprudência do Superior Tribunal de Justiça sobre prescrição intercorrente em execuções regidas pelo CPC/1973.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão recorrido, ao reconhecer a prescrição intercorrente em execução regida pelo CPC/1973, está em conformidade com a jurisprudência do Superior Tribunal de Justiça, especialmente as teses fixadas no Incidente de Assunção de Competência (Tema 1) no REsp nº 1.604.412/SC.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça consolidou o entendimento de que, sob a vigência do CPC/1973, incide a prescrição intercorrente quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação do art. 202, parágrafo único, do Código Civil de 2002.
+4. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano, conforme aplicação analógica do art. 40, § 2º, da Lei nº 6.830/1980.
+5. No caso concreto, o Tribunal de origem fixou o termo inicial da prescrição em 12/08/2006 (um ano após a suspensão deferida em 12/08/2005), reconhecendo a inércia do exequente até 12/08/2011, sem diligências úteis, e apenas posterior requerimento de penhora em 29/01/2013.
+6. A insistência da agravante em sustentar que a suspensão de julho/2008 teria interrompido o prazo prescricional não afasta o quadro delineado pelo Tribunal de origem, pois, sob a égide do CPC/1973, a inércia do exequente por período superior ao prazo material autoriza o reconhecimento da prescrição intercorrente.
+7. O acórdão recorrido está em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça, incidindo, na hipótese, o enunciado nº 83 da Súmula do STJ.
+IV. Dispositivo
+8. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze (e-stj 520-525) que negou seguimento ao recurso anteriormente interposto nestes autos.
+Segundo a parte agravante (e-stj fls. 547-552), não há prescrição intercorrente, porque a suspensão em julho/2008 interrompeu o prazo, que voltou a correr em julho/2009 e foi novamente interrompido pelo pedido de penhora via Bacenjud em 29/01/2013 (fls. 548-549). Afirma, ainda, a ausência de inércia, pois teria promovido o feito antes do término do quinquênio e que não incide a Súmula 83/STJ.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada apresentou contrarrazões (e-stj fls. 556-567.)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO INTERNO. PRESCRIÇÃO INTERCORRENTE. EXECUÇÃO. CPC/1973. INÉRCIA DO EXEQUENTE. TERMO INICIAL. PRAZO PRESCRICIONAL. ARTIGO 202, PARÁGRAFO ÚNICO, CÓDIGO CIVIL. APLICAÇÃO ANALÓGICA ARTIGO 40, §2º, LEI 6830/1980. RECURSO ESPECIAL. JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. TEMA 1 STJ. RESP 1604412/SC. SÚMULA 83 STJ. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou seguimento a recurso especial, sob o fundamento de que o acórdão re corrido está em consonância com a jurisprudência do Superior Tribunal de Justiça sobre prescrição intercorrente em execuções regidas pelo CPC/1973.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o acórdão recorrido, ao reconhecer a prescrição intercorrente em execução regida pelo CPC/1973, está em conformidade com a jurisprudência do Superior Tribunal de Justiça, especialmente as teses fixadas no Incidente de Assunção de Competência (Tema 1) no REsp nº 1.604.412/SC.
+III. Razões de decidir
+3. O Superior Tribunal de Justiça consolidou o entendimento de que, sob a vigência do CPC/1973, incide a prescrição intercorrente quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação do art. 202, parágrafo único, do Código Civil de 2002.
+4. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano, conforme aplicação analógica do art. 40, § 2º, da Lei nº 6.830/1980.
+5. No caso concreto, o Tribunal de origem fixou o termo inicial da prescrição em 12/08/2006 (um ano após a suspensão deferida em 12/08/2005), reconhecendo a inércia do exequente até 12/08/2011, sem diligências úteis, e apenas posterior requerimento de penhora em 29/01/2013.
+6. A insistência da agravante em sustentar que a suspensão de julho/2008 teria interrompido o prazo prescricional não afasta o quadro delineado pelo Tribunal de origem, pois, sob a égide do CPC/1973, a inércia do exequente por período superior ao prazo material autoriza o reconhecimento da prescrição intercorrente.
+7. O acórdão recorrido está em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça, incidindo, na hipótese, o enunciado nº 83 da Súmula do STJ.
+IV. Dispositivo
+8. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a integrar a presente decisão colegiada (e-stj 520-525) :
+A Corte local, ao dirimir a controvérsia, adotou a seguinte fundamentação (e- STJ, fls. 424-429):
+(..)
+A Segunda Seção desta Corte, por ocasião do julgamento do REsp 1.604.412/SC, admitido como incidente de assunção de competência (Tema 1), pacificou a divergência entre suas Turmas integrantes, consolidando as seguintes teses acerca da prescrição intercorrente sob a vigência do CPC/1973:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta- se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). 1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Na hipótese dos autos, o magistrado de primeiro grau deferiu o pedido formulado pelo exequente, ora recorrente, de suspensão do feito, em 12/08/2005, passando o prazo prescricional quinquenal a correr após um ano, findando-se em 12/08/2011, sem que tenham sido realizadas diligências visando à satisfação do crédito nesse período.
+Assim, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte, no sentido de que o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+(..)
+Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+A Súmula 83 desta Corte estabelece que "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Dito isso, o acórdão recorrido está em conformidade com a orientação firmada pelo Superior Tribunal de Justiça sobre prescrição intercorrente em execuções regidas pelo Código de Processo Civil de 1973, especialmente as teses fixadas no Incidente de Assunção de Competência (Tema 1) no REsp nº 1.604.412/SC:
+"1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei nº 6.830/1980). 1.3  1.4  ".
+No caso, a Corte estadual registrou sucessivas suspensões e, de modo expresso, fixou o termo inicial em 12/08/2006 (um ano após a suspensão deferida em 12/08/2005), reconhecendo a inércia superior ao quinquênio até 12/08/2011, sem diligências úteis, e apenas posterior requerimento de penhora em 29/01/2013.
+Tal moldura fática subsume-se, com exatidão, ao entendimento consolidado no IAC nº 1/STJ e em precedentes que reafirmam a necessidade de respeito ao contraditório e a desnecessidade de "efetiva satisfação do crédito" dentro do prazo, bastando a ausência de impulso útil do exequente.
+A insistência da agravante em sustentar que a suspensão de julho/2008 teria interrompido e "zerado" o prazo prescricional não afasta o quadro delineado pelo Tribunal de origem, pois, sob a égide do CPC/1973, o termo inicial conta-se do fim do prazo de suspensão ou, inexistente prazo, após um ano; e a inércia do exequente por período superior ao prazo material autoriza o reconhecimento da prescrição intercorrente.
+Assim, o acórdão do TJPR, ao reconhecer a prescrição intercorrente na execução iniciada em 1995  com suspensão em 12/08/2005, início da contagem em 12/08/2006 e ausência de diligências úteis até 12/08/2011  , decidiu em harmonia com a jurisprudência desta Corte.
+Dessa forma, torna-se irrepreensível a decisão agravada que fez incidir na espécie a Súmula 83 do Superior Tribunal de Justiça em razão da compatibilidade e da sintonia do acórdão recorrido com a jurisprudência desta Corte. Nesse sentido: " o  recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ" (AgInt no AREsp n. 2.020.707/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Ante o exposto, nego provimento ao agravo interno.
+Mantenho a decisão agravada quanto aos honorários.
+É o voto.
