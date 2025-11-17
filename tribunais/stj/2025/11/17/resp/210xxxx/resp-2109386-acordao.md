@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos  e  relatados  estes  autos  em  que  são  partes  as  acima  indicadas,  acordam  os  Ministros  da  TERCEIRA  TURMA  do  Superior  Tribunal  de  Justiça,  em  Sessão  Virtual  de  11/11/2025  a  17/11/2025,  por  unanimidade,  negar  provimento  ao  recurso,  nos  termos  do  voto  do  Sr.  Ministro  Relator.
+Os  Srs.  Ministros  Daniela  Teixeira,  Nancy  Andrighi,  Humberto  Martins  e  Ricardo  Villas  Bôas  Cueva  votaram  com  o  Sr.  Ministro  Relator.
+Presidiu  o  julgamento  o  Sr.  Ministro  Humberto  Martins.
+EMENTA
+
+  CIVIL  E  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  CONTRATO  DE  COMODATO  VERBAL.  PRAZO  PRESCRICIONAL.  INDENIZAÇÃO  POR  BENFEITORIAS.  RESPONSABILIDADE  CONTRATUAL.  PRAZO  DECENAL.  ART.  205  DO  CÓDIGO  CIVIL.  DIVERGÊNCIA  JURISPRUDENCIAL.  AUSÊNCIA  DE  SIMILITUDE  FÁTICA.
+1.  O  prazo  prescricional  aplicável  às  pretensões  decorrentes  de  responsabilidade  contratual  é  o  decenal,  previsto  no  art.  205  do  Código  Civil.
+2.  A  divergência  jurisprudencial  não  se  configura,  ante  a  ausência  de  similitude  fática  e  de  cotejo  analítico  entre  os  paradigmas  apresentados  e  o  acórdão  recorrido.
+3.  Recurso  especial  não  provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ILDA ALVES MOREIRA (ILDA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE REINTEGRAÇÃO DE POSSE - CONTRATO DE COMODATO - COMODATO VERBAL - PRAZO INDETERMINADO - RESCISÃO CONTRATUAL - PRESCRIÇÃO - DECENAL - NÃO OCORRÊNCIA - DECISÃO MANTIDA. - É decenal o prazo para ajuizamento da ação de reintegração de bens dados em comodato. - O Superior Tribunal de Justiça, em decisão recente proferida pela Segunda Seção, firmou entendimento no sentido de que o prazo prescricional aplicável às ações decorrente de inadimplemento contratual é decenal, previsto no artigo 205 do CC, não sendo possível englobar no termo "reparação civil" (art. 206, § 3º, inciso V) pretensões decorrentes de responsabilidade contratual. - O termo inicial do prazo prescricional da pretensão de reintegração de posse sub examine é a data do esbulho configurado pela notificação extrajudicial e o lapso temporal a ser observado é o de 10 (dez) anos previsto no artigo 205 do Código Civil de 2002 (e-STJ, fls. 712 - 720).
+Os embargos de declaração opostos por ILDA foram rejeitados.
+Nas razões do presente recurso, ILDA alegou a violação dos arts. 206, § 3º, IV e V, e 205 do Código Civil, ao sustentar que (1) a pretensão de indenização/restituição por benfeitorias teria natureza de ressarcimento por enriquecimento sem causa ou de reparação civil, submetendo-se ao prazo trienal; (2) o comodato teria sido rescindido em 1º/11/2016, e a ação foi ajuizada apenas em 22/3/2021, de modo que a pretensão estaria prescrita; (3) o acórdão recorrido divergiu de julgados que aplicam o prazo trienal em hipóteses análogas, configurando dissídio jurisprudencial.
+Não foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE COMODATO VERBAL. PRAZO PRESCRICIONAL. INDENIZAÇÃO POR BENFEITORIAS. RESPONSABILIDADE CONTRATUAL. PRAZO DECENAL. ART. 205 DO CÓDIGO CIVIL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. O prazo prescricional aplicável às pretensões decorrentes de responsabilidade contratual é o decenal, previsto no art. 205 do Código Civil.
+2. A divergência jurisprudencial não se configura, ante a ausência de similitude fática e de cotejo analítico entre os paradigmas apresentados e o acórdão recorrido.
+3. Recurso especial não provido.
+VOTO
+O recurso não merece prosperar.
+(1) Prazo prescricional
+ILDA alega que a pretensão de indenização ou restituição por benfeitorias tem natureza de ressarcimento por enriquecimento sem causa ou de reparação civil, submetendo-se a prazo prescricional trienal. Portanto, como o contrato de comodato teria sido rescindido em 1º/11/2016, e a ação foi proposta apenas em 22/3/2021, estaria prescrita. Não lhe assiste razão.
+O acórdão recorrido está em conformidade com a jurisprudência desta Corte. Na hipótese, a controvérsia está relacionada a responsabilidade contratual, aplicando-se, portanto, a regra do art. 205 do CCB, que prevê prazo prescricional decenal. A Corte Especial, ao julgar o EREsp 1.281.594/SP, firmou o entendimento de que o prazo trienal do art. 206, § 3º, V, do CCB refere-se apenas à responsabilidade civil extracontratual (ou aquiliana), não alcançando o inadimplemento contratual:
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO CARACTERIZADO. PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DECORRENTE DA RESPONSABILIDADE CIVIL CONTRATUAL. INAPLICABILIDADE DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. SUBSUNÇÃO À REGRA GERAL DO ART. 205, DO CÓDIGO CIVIL, SALVO EXISTÊNCIA DE PREVISÃO EXPRESSA DE PRAZO DIFERENCIADO. CASO CONCRETO QUE SE SUJEITA AO DISPOSTO NO ART. 205 DO DIPLOMA CIVIL. EMBARGOS DE DIVERGÊNCIA PROVIDOS.  ..  III - A unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual. IV - Corrobora com tal conclusão a bipartição existente entre a responsabilidade civil contratual e extracontratual, advinda da distinção ontológica, estrutural e funcional entre ambas, que obsta o tratamento isonômico. V - O caráter secundário assumido pelas perdas e danos advindas do inadimplemento contratual, impõe seguir a sorte do principal (obrigação anteriormente assumida). Dessa forma, enquanto não prescrita a pretensão central alusiva à execução da obrigação contratual, sujeita ao prazo de 10 anos (caso não exista previsão de prazo diferenciado), não pode estar fulminado pela prescrição o provimento acessório relativo à responsabilidade civil atrelada ao descumprimento do pactuado. VI - Versando o presente caso sobre responsabilidade civil decorrente de possível descumprimento de contrato de compra e venda e prestação de serviço entre empresas, está sujeito à prescrição decenal (art. 205, do Código Civil). Embargos de divergência providos.
+(EREsp 1.281.594, de 23/5/2019, Relator Ministro Benedito Gonçalves)
+No caso em análise, a relação entre as partes decorre de contrato de comodato verbal por prazo indeterminado, de modo que eventual direito à indenização por benfeitorias deriva diretamente do vínculo contratual existente, incidindo, portanto, o prescricional de 10 anos previsto no art. 205 do Código Civil Brasileiro.
+(2) Dissídio jurisprudencial
+Os acórdãos paradigmas apresentados por ILDA não guardam similitude fática com o julgado combatido. As conclusões divergentes decorreram de circunstâncias específicas de cada processo, não se configurando o dissídio nos moldes do art. 1.029, § 1º, do CPC.
+A jurisprudência desta Corte é pacífica no sentido de que a demonstração da divergência exige a identidade das situações fáticas e o cotejo analítico entre os julgados, o que não ocorreu na espécie.
+Nesse sentido:
+RECURSO ESPECIAL. EMPRESARIAL. AUTOFALÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FALIDO. DISSÍDIO JURISPRUDENCIAL. CONFRONTO ANALÍTICO. AUSÊNCIA. SIMILITUDE FÁTICA. INEXISTÊNCIA.
+1. Recurso especial interposto com fundamento na alínea "c" do permissivo constitucional.
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Os arestos trazidos como paradigma tratam dos honorários devidos aos advogados que atuaram durante a recuperação judicial até a decretação da quebra (artigos 67 e 84, I-E, da Lei nº 11.101/2005) e também dos honorários devidos pela massa falida (art. 84, I-D, da Lei nº 11.101/2005), enquanto o caso em análise trata de honorários contratados pelo falido antes da decretação da quebra, para o ingresso do pedido de autofalência.
+4. Recurso especial não conhecido.
+(REsp n. 2.113.729/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/8/2025, DJEN de 29/8/2025 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC, porque não fixados na origem.
+Por oportuno, previno que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
+É como voto.
