@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MOISÉS FORTES DA ROSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão no regime inicial fechado e do pagamento de 680 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A impetrante alega que a quantidade de entorpecentes apreendidos com o paciente seria pequena (1,3 g de cocaína, 11 g de maconha e 5,4 g de crack) e que não haveria elementos concretos que indicassem a destinação comercial das substâncias.
+Sustenta que a conduta do acusado se amoldaria ao tipo penal previsto no art. 28 da Lei n. 11.343/2006, não havendo provas suficientes para a acusação pelo delito de tráfico.
+Requer, liminarmente e no mérito, a desclassificação da conduta para a descrita no art. 28 da Lei n. 11.343/2006.
+Despacho determinando a apresentação de informações relacionadas ao andamento processual do feito originário à fl. 536.
+Petição informando o trânsito em julgado da ação penal originária às fls. 544-547.
+A liminar foi indeferida às fls. 549-551; parecer do Ministério Público Federal opinando pelo não conhecimento do writ nos termos da seguinte ementa (fls. 561-562):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DO RECURSO LEGALMENTE CABÍVEL. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O TIPO PENAL DE PORTE DE DROGAS PARA USO PRÓPRIO. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DA APREENSÃO. VARIEDADE DOS ENTORPECENTES APREENDIDOS. EXISTÊNCIA DE ELEMENTOS CONCRETOS DE TRAFICÂNCIA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE NA VIA ELEITA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS. CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+1. Não cabe habeas corpus substitutivo de recurso legalmente previsto para a hipótese, impondo-se o seu não conhecimento, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem de ofício, medida que não se mostra necessária no presente caso;
+2. Na espécie, a Corte de origem manteve o entendimento firmado na Sentença condenatória, concluiu pela efetiva prática do delito imputado ao Paciente, tendo, para tanto, apontado as provas encartadas aos autos, produzidas em Juízo, que embasaram a conclusão firmada, dentre as quais se destacam o depoimento dos policiais responsáveis pelo flagrante - que relataram a atitude suspeita do Paciente, que estava em local conhecido por ser ponto de venda de drogas, o qual, diante da aproximação policial, tentou empreender fuga -, a forma que as drogas estavam fracionadas e o valor em espécie encontrado;
+3. A Corte de origem, soberana na análise probatória, entendeu comprovada a prática do delito do art. 33, caput, da Lei 11.343/06, com base em elementos concretos dos autos. Conclusão em sentido contrário demandaria reapreciação de fatos e provas, medida inviável na via estreita do habeas corpus;
+4. Parecer pelo não conhecimento do habeas corpus. Caso conhecido, pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+A propósito do disposto no art. 647-A do CPP, verifico que o acórdão impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício.
+Analisados os fundamentos adotados no ato judicial impugnado, não se constata a existência de ilegalidade que autorize a concessão da ordem de ofício.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Verifica-se que o Tribunal de origem fundamentou a manutenção da condenação do paciente no crime de tráfico de drogas na quantidade e diversidade de droga apreendida - crack, cocaína e maconha -, além da apreensão de dinheiro e das circunstâncias do flagrante, nos seguintes termos (fls. 89-90, grifei):
+Verifico, pois, que os policiais responsáveis pela prisão em flagrante narraram de forma coerente e segura a apreensão lícita de (i.) 44 (quarenta e quatro) pedras de crack, pesando aproximadamente 5,4g, no invólucro dispensado pelo acusado; (ii.) 02 (dois) pinos de cocaína, pesando aproximadamente 1,3g; (ii.) 10 (dez) unidades de maconha, pesando aproximadamente 11g;e (iv.) R$38,00 (trinta e oito reais), fracionada em notas e moedas diversas, em poder do acusado.
+Nesse sentido, entendo que (i.) a quantidade e a variedade de drogas apreendidas; (ii.) a apreensão da quantia em dinheiro; (iii.) as circunstâncias do flagrante, ocorrido em local conhecido como ponto e tráfico, são circunstâncias que, analisadas em conjunto, demonstram a prática do delito previsto no art. 33 da Lei nº 11.343/06.
+Saliento que o crime de tráfico de drogas é de ação múltipla, ou seja, o seu tipo penal é composto por uma multiplicidade de verbos, cuja consumação depende da mera constatação de uma dessas ações. Com efeito, não é necessária a comprovação de "atos de mercancia", mas tão somente a apreensão de drogas no contexto de qualquer um dos verbos nucleares do tipo penal previsto no artigo 33, caput, da Lei nº 11.343/2006.
+ ..
+Já a versão defensiva (destinação ao uso pessoal) não é capaz de ocasionar dúvida quanto à tese acusatória, porquanto não está amparada em qualquer elemento concreto. A quantidade e variedade de drogas apreendidas destoa daquilo que se espera encontrar na posse de meros consumidores. Com efeito, a versão dos réus é inverossímil ante as provas angariadas.
+De qualquer modo, friso que, ainda que fosse comprovada, a suposta condição de usuário de drogas dos réus não é causa excludente do delito de tráfico, pois sabidamente muitos usuários também podem ser traficantes por motivos diversos (sustentar o vício, por exemplo).
+Portanto, a alegação isolada da defesa foi infirmada pelas demais provas produzidas nos autos, de modo que o conjunto probatório permite a formação de um juízo condenatório. Por conseguinte, inviável a desclassificação para o delito de posse de drogas.
+Como visto, a responsabilidade criminal do paciente em relação ao fato imputado decorre da conclusão alcançada pelo Tribunal de origem, a partir dos elementos de convicção extraídos da prisão em flagrante do paciente e da prova oral produzida ao longo da instrução criminal.
+Nesse contexto, mostra-se inviável o acolhimento da pretensão absolutória, por ausência de provas suficientes para a condenação decretada, haja vista a inviabilidade de amplo revolvimento de matéria fático-probatória nesta estreita via processual.
+A esse respeito, "o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória" (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024).
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. NULIDADE DA BUSCA PESSOAL. NÃO OCORRÊNCIA. DEMONSTRAÇÃO DE FUNDADA SUSPEITA. MODIFICAÇÃO DO POSICIONAMENTO ADOTADO PELA CORTE ORIGINÁRIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO NÃO PERMITIDO NA VIA ESTREITA DO WRIT. CONFISSÃO EXTRAJUDICIAL INFORMAL E INOBSERVÂNCIA DO DIREITO AO SILÊNCIO. NÃO VERIFICAÇÃO. PACIENTE ADVERTIDO DURANTE O INTERROGATÓRIO NA FASE INQUISITORIAL. CONDENAÇÃO LASTREADA EM OUTRAS PROVAS. PREJUÍZO NÃO DEMONSTRADO. TESES DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS E DESCLASSIFICAÇÃO. AUTORIA E MATERIALIDADE DEVIDAMENTE RECONHECIDAS PELAS INSTÂNCIAS ORDINÁRIAS. APREENSÃO DE DINHEIRO E DE QUANTIDADE VARIADA DE ENTORPECENTES QUE INDICARAM A DESTINAÇÃO COMERCIAL DA ATIVIDADE. INVIABILIDADE DE REANÁLISE DE FATOS E PROVAS NA VIA MANDAMENTAL. PRETENSÃO DE APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 NA FRAÇÃO MÁXIMA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. FRAÇÃO ELEITA COM BASE NA QUANTIDADE E VARIEDADE DOS ENTORPECENTES APREENDIDOS. PROPORCIONALIDADE. DISCRICIONARIEDADE DO JULGADOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+(HC n. 979.468/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/5/2025, DJEN de 9/5/2025.)
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA CONFIGURADA. LOCAL DE INTENSO TRÁFICO E FUGA DO ACUSADO AO VER OS POLICIAIS. NULIDADE DA PROVA NÃO CONFIGURADA. DESCLASSIFICAÇÃO PARA USO PESSOAL. QUANTIDADE E VARIEDADE DAS DROGAS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto pela defesa visando à nulidade da prova obtida por meio de busca pessoal realizada sem mandado judicial e à desclassificação do crime de tráfico de drogas para uso pessoal. A defesa argumenta que a abordagem policial carecia de fundada suspeita e que as drogas encontradas seriam destinadas ao consumo próprio do réu.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se a busca pessoal realizada pelos policiais foi lícita, considerando que o réu foi abordado em local de intenso tráfico e fugiu ao avistar a viatura; e (ii) se é cabível a desclassificação do crime de tráfico de drogas para uso pessoal, em face da quantidade e das circunstâncias da apreensão dos entorpecentes.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite a busca pessoal sem mandado judicial quando houver fundada suspeita, como ocorre em locais de intenso tráfico de drogas, especialmente se o suspeito apresenta comportamento de fuga ao avistar a polícia. No caso, a fuga do réu e a localização em área conhecida pela venda de drogas justificam a abordagem, tornando lícita a prova obtida.
+4. A condenação por tráfico de drogas está amparada na quantidade significativa e diversidade das substâncias apreendidas (cocaína, maconha e crack), bem como nas circunstâncias do flagrante, que indicam a destinação ao tráfico e não ao uso pessoal. A revisão dessa conclusão demandaria reexame de provas, o que é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+IV. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 2.131.928/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+Diante de tais considerações, não se observa a existência de nenhuma flagrante ilegalidade passível de ser sanada pela concessão da ordem, ainda que de ofício.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
