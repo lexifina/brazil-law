@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por OSMANN CESAR ANANIAS GRACIANO à decisão, da minha lavra, na qual reconsiderei a decisão monocrática da Presidência desta Corte Superior (fls. 34/35). Contudo, indeferi liminarmente a inicial da impetração, por fundamento diverso. Eis a ementa (fl. 75):
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E RESISTÊNCIA. INSURGÊNCIA CONTRA A DECISÃO QUE INDEFERIU LIMINARMENTE O MANDAMUS POR INSTRUÇÃO DEFICIENTE. INTERPOSIÇÃO DO AGRAVO COM A JUNTADA DA PEÇA CONSIDERADA ESSENCIAL. RECONSIDERAÇÃO QUE SE IMPÕE. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. BUSCA PESSOAL. FUNDADA SUSPEITA. COMPORTAMENTO EVASIVO. ELEMENTOS OBJETIVOS CONFIGURADOS. ABORDAGEM POLICIAL LEGÍTIMA. NULIDADE AFASTADA. PRETENSÃO DE ABSOLVIÇÃO. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. DESCLASSIFICAÇÃO DO DELITO PARA A CONDUTA DE POSSE DE DROGAS DESTINADA A CONSUMO PRÓPRIO. INVIABILIDADE. CIRCUNSTÂNCIAS QUE DENOTAM A TRAFICÂNCIA. ATENUANTE DA CONFISSÃO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Decisão reconsiderada. Inicial indeferida liminarmente, por fundamento diverso.
+Alega o embargante, em síntese, que a decisão padece de contradição interna, ao afirmar que o paciente "tentou se esconder no interior de um bar", quando os depoimentos policiais apenas registram que "se virou repentinamente" ou "virou de costas", sustentando que tal distinção é determinante para a avaliação da fundada suspeita do art. 244 do Código de Processo Penal. Requer, ainda, efeitos infringentes, com reconhecimento da ilicitude da busca e absolvição (fls. 85/91).
+Pugna pelo saneamento do vício.
+É o relatório.
+Os presentes embargos de declaração não comportam acolhimento, pois é nítida a intenção do embargante em rediscutir os fundamentos da decisão que indeferiu liminarmente a inicial, o que é inadmissível.
+No caso, ainda que se considere a divergência narrativa entre a conclusão de "tentativa de esconder-se" e os relatos testemunhais de "virar-se de costas", não há contradição na decisão embargada; ao contrário, as premissas e conclusões guardam coerência entre si, pois a moldura fática descrita nos depoimentos, somada à delação do proprietário do estabelecimento e à apreensão de drogas, caracterizou a fundada suspeita para a abordagem.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso.
+O descontentamento com o julgado não tem o poder de tornar cabíveis os embargos de declaração, que não se prestam para rediscutir a lide, por mais que a parte sustente insatisfação com as respostas dadas.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
