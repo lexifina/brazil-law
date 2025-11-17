@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, recurso ordinário interposto por CARLINA NUNES PAES e CARMEM LUCIA DE OLIVEIRA COSTA contra o acórdão visto às fls. 247-256, por meio do qual a segurança pleiteada pela ora recorrente foi concedida em parte para determinar que os juros moratórios, no montante de 0,5% ao mês, incidam desde a data da expedição do requisitório até a data do pagamento.
+O aresto está assim ementado:
+DIREITO CONSTITUCIONAL - MANDADO DE SEGURANÇA -PRECATÓRIOS- JUROS DE MORA - CÔMPUTO - SILÊNCIO DADECISÃO-PREVISÃO LEGAL-PERÍODO DE INCIDÊNCIA-AUSÊNCIA DE PAGAMENTO NO PRAZO CONSTITUCIONAL -DIREITO RECONHECIDO - CORREÇÃO-CRITÉRIO PREVISTO NO EDITAL.
+No caso de precatório expedido e não pago no prazo Constitucional, admite-se a incidência de juros de mora, estes de 0,5% ao mês, por ausência na decisão original, conforme previsão legal, não havendo correção na forma pleiteada, porque a mesma se deu na forma prevista no edital, não impugnado a tempo e modo.
+Os embargos de declaração opostos ulteriormente, na origem, foram rejeitados (fls. 269-272).
+Contrarrazões às fls. 292-327 e 329-334.
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 351-355).
+É o relatório.
+Passo a decidir.
+Os autos revelam que as ora recorrentes impetraram mandado de segurança contra ato imputado ao Juiz Conciliador da Central de Conciliação de Precatórios do Tribunal de Justiça do Estado de Minas Gerais consistente na rejeição do pedido de inclusão de juros moratórios relativos ao período compreendido entre a data de liquidação do crédito que originou o precatório e seu vencimento, além do deferimento apenas parcial do pedido de correção do crédito.
+Postularam no writ a correção do crédito até a data do efetivo pagamento; a incidência de juros moratórios no montante de 1% (um por cento) ao mês no período de 11/11/2003 a 28/6/2009; e a incidência de juros moratórios no período compreendido entre a expedição do Ofício Requisitório e a data de vencimento do Precatório.
+A segurança foi concedida em parte, "apenas para determinar que os juros moratórios, no montante de 0,5% ao mês, devem incidir desde a data da expedição do requisitório até a data do pagamento" (fl. 256), motivando a presente irresignação.
+A controvérsia posta neste recurso, então, concentra-se na aferição do direito líquido e certo das recorrentes à correção do crédito até a data do efetivo pagamento; e à incidência de juros moratórios no montante de 1% (um por cento) ao mês no período de 11/11/2003 a 28/6/2009.
+Dito isso, registro que o Mandado de Segurança é meio constitucional posto à disposição de toda pessoa física ou jurídica, órgão com capacidade processual, ou universalidade reconhecida por lei, para a proteção de direito individual ou coletivo, líquido e certo, não amparado por habeas corpus ou habeas data, lesado ou ameaçado de lesão, por ato de autoridade, seja de que categoria for e sejam quais forem as funções que exerça, conforme disposição dos art. 1º, da Lei 12.016/2009.
+Com efeito, verifico que o acórdão originário merece correção, a fim de que o entendimento se adeque à tese firmada pelo Superior Tribunal de Justiça no tema repetitivo n. 905 que, acerca do juros de mora, dispõe:
+ ..
+3. Índices aplicáveis a depender da natureza da condenação. 3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança;
+Isso porque ficou consignada no acórdão originário a incidência de juros de 0,5% ao mês de acordo com o critério legal, uma vez que não restou definido na sentença o percentual dos juros de mora. É o que consta no ato impugnado no mandamus (fl. 77):
+ ..
+Sobre o e percentual dos juros de mora, não têm razão as impugnantes. Ora, o critério dado pela sentença transitada em julgado é o de que deve haver incidência de juros de mora, não ficando estabelecido o percentual desses juros. Então, esse percentual deve ser o legal, ou seja, juros de 0,5%, algo que já está na liquidação de fls. 77/78, conforme diretrizes da Lei n. 9.494/1997, art. 1º-F..
+O percentual indicado, 0,5% ao mês, no entanto, está em dissonância com a jurisprudência deste Superior Tribunal de Justiça, posi não considera a alteraçãod o indice nos períodos que antecedem o CC/2002 e sucedem a vigência da Lei 11.960/2009.
+Já decidiu esta Segunda Turma:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. NÃO OCORRÊNCIA. JUROS DE MORA E CORREÇÃO MONETÁRIA. APLICAÇÃO DE OFÍCIO. POSSIBILIDADE. ÍNDICES: RECURSO ESPECIAL REPETITIVO 1.495.146/MG.
+1. Inexiste contrariedade ao art. 1.022 do CPC quando o acórdão impugnado fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. A questão pertinente aos juros moratórios e à correção monetária, por se tratar de matéria de ordem pública, pode ser conhecida de ofício pelo juiz, independentemente de pedido ou recurso da parte.
+3. A Primeira Seção desta Corte Superior, reexaminando a questão relativa à aplicação do art. 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, após a decisão do Supremo Tribunal Federal no RE 870.947/SE, estabeleceu que as condenações judiciais referentes a servidores e empregados públicos se sujeitam aos seguintes encargos: "(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E;
+(c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E."
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.898.908/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/3/2021, DJe de 7/4/2021.)
+Quanto ao período sobre o qual deve ocorrer correção monetária, os autos dão conta do pagamento do montante de acordo com o Edital n. 1/2012, que previa a atualização dos valores até a data de audiência de pagamento. Vejamos (fl. 131):
+Com relação ao pedido de aplicação de correção de valores devidos no precatório até a data dos seus efetivos pagamentos, cabe salientar que os impetrantes concorreram livremente com os seus direitos no processo dos acordos direitos previstos no Edital n. 01/2012, e seus créditos foram selecionados para pagamento nos termos dessas regras do edital.
+Com efeito, pelas regras do Edital n. 01/2012, os pagamentos dos créditos seriam feitos com a atualização dos seus valores até a data da audiência de pagamento (regra 3.3 do Edital n. 01/2012 - cópia anexa). Isso foi cumprido.
+Ora, pela liquidação. CÓPIA ANEXA, os créditos dos impetrantes foram selecionados e pagos de modo atualizado até a data da audiÊncia de pagamento (04/10/2012), não sendo assim pertinente o questionamento quanto a isso.
+Com efeito, decidiu acertamente o Tribunal ao considerar que: "Quanto à correção do crédito até a data do efetivo pagamento, não há como acolher a tese das impetrantes, porque o que fazem elas é combater, tardiamente, o edital que fixou a regra a respeito da correção" (fl. 256).
+Isso posto, dou parcial provimento ao recurso e determino que os cálculos quanto à incidência juros moratórios deva ocorrer de acordo com os indices e marcos fixados na definição do tema repetitivo 905 deste Superior Tribunal de Justiça, nos termos do voto.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
