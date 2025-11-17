@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ORLANDO AUGUSTO DA SILVA contra decisão singular da lavra da Presidência do STJ pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação do fundamento de inadmissibilidade relativo à Súmula 7/STJ (fls. 730-731).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não poderia exigir a impugnação, no agravo em recurso especial, do óbice da Súmula 7/STJ aplicado pelo Tribunal de origem, por se tratar de decisão de admissibilidade com fundamentação híbrida, cuja parte referente a recursos repetitivos deve ser atacada por agravo interno na origem (art. 1.030, § 2º, do CPC), ao passo que a parte relativa à negativa de prestação jurisdicional foi adequadamente impugnada no AREsp, circunscrito à violação do art. 1.022 do CPC.
+Sustenta que o seu agravo em recurso especial enfrentou especificamente a inadmissão do recurso especial por ausência de negativa de prestação jurisdicional, demonstrando que os pontos relevantes suscitados não foram analisados pelo Tribunal de origem, razão pela qual não incidiria a Súmula 182/STJ na espécie.
+Impugnação ao agravo interno às fls. 753-756.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. REPRODUÇÃO DAS RAZÕES DO RESP. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil e do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou: a) inexistência de negativa de prestação jurisdicional, porquanto o acórdão recorrido se encontra devidamente fundamentado (fls. 557-564); b) conformidade do acórdão recorrido com os Temas 887 e 891/STJ, no que afasta juros remuneratórios sem condenação expressa e admite expurgos posteriores como correção monetária plena (fls. 557-564); c) aplicação do Tema 536/STJ quanto à sistemática de intimação para pagamento e não incidência de multa quando realizado depósito tempestivo (fls. 557-564); d) óbice da Súmula 7/STJ para adoção de entendimento diverso sem reexame do conjunto fático-probatório (fls. 557-564).
+Nas razões do seu agravo em recurso especial a parte agravante apenas afirmou que houve violação do art. 1.022 do CPC, pugnando pela anulação dos acórdãos por negativa de prestação jurisdicional, sem impugnar o óbice da Súmula 7/STJ aplicado na decisão de admissibilidade (fls. 571-583).
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice apontado, especificamente o óbice da Súmula 7/STJ.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Outrossim, conforme jurisprudência pacífica deste Superior Tribunal de Justiça, a mera reprodução do recurso especial não é suficiente para impugnar a decisão agravada que não admitiu o recurso (AgInt nos EAREsp 1.157.501/SP, Rel. Ministro Moura Ribeiro, Segunda Seção, julgado em 20/8/2019, DJe 22/8/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, o afastamento do óbice indicado não alteraria a conclusão de improcedência da pretensão .
+O TJBA analisou de forma fundamentada os pontos controvertidos: excluiu os juros remuneratórios por inexistência de condenação expressa no título, com apoio em precedentes do STJ; reconheceu a correção monetária plena com inclusão dos expurgos posteriores segundo o indexador das cadernetas de poupança; e afastou a multa do art. 475-J do CPC/1973 e os honorários pela realização de depósito no prazo legal (fls. 471-474).
+Mesmo que superado o não conhecimento do agravo em recurso especial pela aplicação analógica da Súmula 182/STJ, as pretensões deduzidas no recurso especial demandam reexame de fatos e provas, vedado na via especial.
+O recorrente pretende: reinterpretar o título executivo para incluir juros remuneratórios; substituir a TR na atualização por outro indexador ou aplicar integralmente os critérios da poupança; reconhecer "critérios incontroversos" a partir dos cálculos apresentados na impugnação; e qualificar o depósito como mera garantia para viabilizar multa e honorários (fls. 523-550).
+Todas essas teses exigem revisão da moldura fática estabelecida pelo acórdão, inclusive quanto ao conteúdo do título, ao modo de cálculo e à natureza do depósito judicial, o que atrai o óbice da Súmula 7/STJ, já identificado na decisão de admissibilidade.
+Portanto, pela inexistência de negativa de prestação jurisdicional e pela necessidade de reexame fático-probatório, a pretensão não prosperaria.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
