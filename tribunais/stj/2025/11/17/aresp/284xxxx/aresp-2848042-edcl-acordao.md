@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 358):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPOSIÇÃO. PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS. FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. 1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ. 2. A via do apelo nobre não se mostra adequada para revisão de controvérsia em que o aresto atacado apresenta fundamento eminentemente constitucional. Precedente: AgInt no R Esp n. 1.879.710 /RO, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, D Je 01/10 /2024. 3. Agravo interno não provido.
+O embargante, aduzindo a ocorrência de omissão, reitera que "o ponto suscitado e não analisado no sentido de que a matéria constitucional, além de não ter sido o único fundamento do acórdão, dá ensejo à discussão das demais normas infraconstitucionais regentes que particularizaram a questão, em especial pelo art. 2º da Lei 12.800/2013, uma vez que se está diante de norma constitucional de eficácia limitada" (fl. 369). Afirma que o Supremo Tribunal Federal, em caso idêntico, manifestou a compreensão de que a questão debatida nos presentes autos tem natureza infraconstitucional, de modo que "a manutenção do entendimento apresentado no acórdão ora embargado inviabiliza a defesa da União nestes casos, travando a análise do tema de forma definitiva, tendo em vista que o STF já rechaçou a sua competência para tanto" (fls. 370-371). Defende a aplicação do artigo 1.031 do CPC/2015, sobrestando-se o presente recurso.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, observa-se que o Colegiado da Primeira Turma, em sede de agravo interno, confirmou a decisão dessa relatoria que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, mediante a seguinte fundamentação (fls. 363-365):
+ ..
+De início, registre-se que segundo a jurisprudência pacífica do STJ, "A suspensão de processos em trâmite nesta Corte Superior depende de determinação no julgamento da afetação de Tese Repetitiva perante as Seções que o compõem, não sendo possível a suspensão, nesta instância especial, em razão de determinação em Incidente de Resolução de Demandas Repetitivas (IRDR) instaurado no Tribunal de origem com fulcro no art. 982 do Código de Processo Civil (CPC)" (AgInt no AR Esp n. 2.417.437/GO, rel. Ministro PAULO SÉRGIO DOMINGUES, Primeira Turma, D Je de 17/6/2024).
+A controvérsia relativa à possibilidade ou não do pagamento de parcelas que antecedem à transposição já efetivada foi dirimida com fundamento constitucional, especificamente com base na EC 60/2009, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+ ..
+Por fim, não há que se falar em prejudicialidade do recurso extraordinário com relação ao presente recurso especial, porquanto, além de constituir mera faculdade do relator, em análise de casos idênticos ao dos autos, ficou estabelecida a existência de distinção entre o Tema 1.248/STF e o feito em análise.
+Nos presentes aclaratórios, a par da argumentação apresentada, constata-se que o embargante, à toda evidência, não conformado com o acórdão embargado a seu desfavor, pretende o novo exame do meritum causae.
+Como visto, contudo, a matéria objeto da controvérsia encontra-se devidamente fundamentada e motivada, de modo que a pretensão do embargante evidencia mero inconformismo, na medida em que, sob a pecha de omissão, objetiva o reexame dos seus argumentos, com o intuito claro de atribuir efeito infringente ao acórdão, hipótese, porém, a que não se destina o recurso integrativo.
+Ressalte-se que a discussão travada nos presentes autos refere-se ao termo inicial do pagamento das diferenças remuneratórias anteriores ao enquadramento do servidor, não possuindo, assim, qualquer pertinência com o Tema 1.248 do STF, que discute sobre o preenchimento dos requisitos para a transposição dos servidores aposentados do Estado de Rondônia ao quadro em extinção da administração federal, conforme o previsto no artigo 89 do ADCT.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
