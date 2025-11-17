@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CONTRATO DE FIANÇA. PRORROGAÇÃO DO CONTRATO PRINCIPAL. RENOVAÇÃO AUTOMÁTICA DA GARANTIA. VALIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação aos arts. 489 e 1.022 do CPC quando o Tribunal de origem aprecia de forma clara e suficiente as questões suscitadas, afastando a alegada omissão e reconhecendo a validade da fiança como garantia da obrigação principal renovada.
+2. A jurisprudência pacífica do Superior Tribunal de Justiça reconhece a validade da cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, se desejar se exonerar da obrigação, realizar a notificação prevista no art. 835 do Código Civil durante o período de prorrogação contratual.
+3. Estando o acórdão recorrido em conformidade com a jurisprudência consolidada desta Corte Superior, incide o óbice da Súmula 83/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SÉRGIO AUGUSTO MAEDA e MARIA DO CARMO SCHADT contra decisão desta Relatoria, que deu provimento ao agravo em recurso especial interposto pela agravada.
+Nas razões do agravo interno, alega-se, em síntese, que houve omissão não sanada, porque a decisão monocrática e os embargos de declaração não teriam enfrentado a discrepância temporal entre a fiança e o contrato principal, configurando negativa de prestação jurisdicional.
+Defende, ainda, que teria ocorrido o reexame fático-probatório ao considerar a Carta Fiança nº 5465 aplicável apesar de ser anterior ao contrato principal, pois a decisão teria desconsiderado a cronologia das assinaturas e a natureza acessória da fiança.
+Além disso, aduz que a jurisprudência citada seria inaplicável ao caso, uma vez que trataria de hipóteses de fiança contemporânea ou posterior ao contrato com previsão expressa de renovação, o que não se verificaria no presente caso.
+Requer, assim, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Impugnação às fls. 1109-1114.
+É o relatório. Passo a fundamentar e decidir.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. CONTRATO DE FIANÇA. PRORROGAÇÃO DO CONTRATO PRINCIPAL. RENOVAÇÃO AUTOMÁTICA DA GARANTIA. VALIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação aos arts. 489 e 1.022 do CPC quando o Tribunal de origem aprecia de forma clara e suficiente as questões suscitadas, afastando a alegada omissão e reconhecendo a validade da fiança como garantia da obrigação principal renovada.
+2. A jurisprudência pacífica do Superior Tribunal de Justiça reconhece a validade da cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, se desejar se exonerar da obrigação, realizar a notificação prevista no art. 835 do Código Civil durante o período de prorrogação contratual.
+3. Estando o acórdão recorrido em conformidade com a jurisprudência consolidada desta Corte Superior, incide o óbice da Súmula 83/STJ.
+4. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar.
+Quanto à alegada omissão, cumpre rememorar que o próprio acórdão prolatado pelo Tribunal de origem deixou assente que o contrato de fiança acostado aos autos tinha como propósito garantir a obrigação principal renovada, senão vejamos (fl. 922):
+"Em sede recursal, em sede de preliminar, a parte recorrente se manifestou acerca de sua ilegitimidade passiva, posto que não mais figurava no instrumento objeto dos autos como fiadores, quando dos supostos descumprimentos contratuais debatidos no presente feito. No mérito, em síntese, aduziu que no instrumento firmado há previsão de prorrogação automática do contrato principal (item 5.1.1), mas não existe cláusula expressa para renovação automática de fiança. Diante disso, pugnou pela reforma da sentença, a fim de que seja afastada a obrigação a eles imputada."
+Enfim, não há no julgado omissão, contradição ou obscuridade a serem sanadas, mas mero descontentamento com a conclusão do julgamento.
+Avançando, também não deve ser acolhido o fundamento de revaloração de provas pela decisão agravada, pois o recurso versa precipuamente acerca de controvérsia jurídica, qual seja, possibilidade de renovação automática da garantia de fiança nos casos de prorrogação do contrato principal garantido.
+Nesse sentido, a jurisprudência desta Corte Superior já se manifestou pela validade da cláusula que determina a renovação automática da fiança com a prorrogação do contrato principal e, caso o fiador deseje se exonerar da fiança, ele deve, durante o período de prorrogação do contrato, realizar a notificação prevista no artigo 835 do Código Civil.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS MONITÓRIOS. CONTRATO. GARANTIA. FIANÇA. SÚMULA Nº 568 DO STJ. PREVISÃO CONTRATUAL. PRORROGAÇÃO AUTOMÁTICA. RESPONSABILIDADE DO FIADOR. REVISÃO. SÚMULAS NºS 5 E 7 DO STJ.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece a validade da cláusula que determina a renovação automática da fiança com a prorrogação do contrato principal e, caso o fiador deseje se exonerar da fiança, ele deve, durante o período de prorrogação do contrato, realizar a notificação prevista no artigo 835 do Código Civil. Precedentes.
+2. No caso, revisar a conclusão do tribunal local de que o contrato estabelecia um prazo determinado de 360 dias a partir da assinatura, mas também previa a renovação automática até que uma das partes decidisse encerrá-lo, exigiria a reinterpretação de cláusula contratual e a reavaliação das provas do processo, o que é vedado pelas Súmulas nºs 5 e 7 do STJ.
+3. Agravo interno não provido".
+(AgInt no AREsp n. 2.648.954/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CC/2015. NÃO OCORRÊNCIA. CONTRATO GARANTIDO POR FIANÇA. PRORROGAÇÃO AUTOMÁTICA DA FIANÇA. SÚMULA 83/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL LOCAL. SÚMULAS 5 E 7/STJ. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Segundo a jurisprudência do STJ, "a jurisprudência desta Corte é no sentido da validade da cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, acaso intente sua exoneração, efetuar, no período de prorrogação contratual, a notificação de que reza o art. 835 do Código Civil" (AgInt no REsp 1676381/AC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 04/05/2020, DJe 18/05/2020).
+2.1. No que concerne ao mérito, observa-se que o posicionamento do Tribunal estadual encontra-se alicerçado na apreciação de fatos e provas e do contrato acostados aos autos, o que impede o Superior Tribunal de Justiça de infirmar a conclusão adotada, pois, para tanto, seria preciso o revolvimento do conjunto fático-probatório e o reexame das cláusulas contratuais, o que é vedado pelas Súmulas 5 e 7/STJ.
+3. Conforme orienta a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes para a formação do seu convencimento.
+3.1. Modificar o entendimento do Tribunal local, a fim de se concluir pela imprescindibilidade de produção de outras provas, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. Agravo interno improvido".
+(AgInt no AREsp n. 2.347.799/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/3/2024, DJe de 8/3/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. OMISSÃO NÃO CONFIGURADA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. RENOVAÇÃO CONTRATUAL. PRORROGAÇÃO AUTOMÁTICA DA FIANÇA. VALIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. RESPONSABILIDADE DOS FIADORES. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa ao art. 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. O acórdão estadual encontra-se em consonância com o entendimento da Segunda Seção desta Corte Superior, firmado para pacificação da matéria no âmbito da Terceira e Quarta Turmas, segundo o qual é válida a cláusula que estabelece a prorrogação automática da fiança com a renovação do contrato principal, cabendo ao fiador, acaso intente sua exoneração, efetuar, no período de prorrogação contratual, a notificação de que reza o art. 835 do Código Civil de 2002.
+3. A revisão da conclusão do Tribunal de origem, a fim de afastar a responsabilidade dos fiadores, demandaria o revolvimento do acervo fáticoprobatório dos autos, bem como a interpretação de cláusulas contratuais, providências que não são admitidas nesta instância extraordinária ante o disposto nas Súmulas 5 e 7/STJ.
+4. Agravo interno improvido".
+(AgInt no AREsp n. 1.775.691/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2021, DJe de 5/5/2021, g.n.)
+Desse modo, estando a orientação do Tribunal de origem em dissonância com a jurisprudência desta Corte Superior, o acórdão deve ser reformado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
