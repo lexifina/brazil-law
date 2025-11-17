@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual STAPLES BRASIL COMÉRCIO DE MATERIAIS DE ESCRITÓRIO LTDA. e BRS SUPRIMENTOS CORPORATIVOS LTDA se insurgiram contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS de fls. 394/403 assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. AUSENTE O PERIGO DE DANO E O RISCO AO RESULTADO ÚTIL DO PROCESSO. TUTELA PROVISÓRIA RECURSAL INDEFERIDA. OPERAÇÕES E PRESTAÇÕES INTERESTADUAIS A CONTRIBUINTE DO IMPOSTO. COBRANÇA DE DIFERENCIAL DE ALÍQUOTA INTERNA DO ESTADO DESTINATÁRIO E A ALÍQUOTA INTERESTADUAL. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA (DIFAL-ST). TEMA 1.093 DO STF. INAPLICABILIDADE. JURISPRUDÊNCIA DA SUPREMA CORTE. REGRAMENTO ESPECÍFICO PREVISTO PELA LEI COMPLEMENTAR 87/1996. APELAÇÃO DAS IMPETRANTES NÃO PROVIDA. AGRAVO INTERNO DO DISTRITO FEDERAL PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (fls. 466/474).
+Nas razões de seu recurso especial, a parte ora agravante alega (fl. 520):
+A interpretação conferida pelo Colegiado local é de que a Lei Kandir seria suficiente à disciplina da cobrança da exação em debate, antes mesmo das alterações conferidas à matéria pela LC 190/2022. O exame de tal suficiência, porém, compete a este nobre Tribunal Superior, ao fim de pacificar a matéria e evitar que sejam proferidas decisões conflitantes dependendo do Estado de origem da demanda.
+ ..
+o acórdão recorrido deve ser reformado na parte relativa à ausência de previsão legal na Lei Kandir para a cobrança do DIFAL na hipótese de aquisição de bens por contribuinte de ICMS. Conforme visto, o acórdão vergastado entende que "a Lei Complementar n. 87/1996 (Lei Kandir) dispôs sobre a cobrança do diferencial de alíquota alusivo ao ICMS na hipótese específica do destinatário final ser contribuinte do imposto", concluindo ser legítima a cobrança da exação com base nesta previsão legislativa.
+A parte adversa apresentou contrarrazões (fls. 575/581).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+Petição apresentada às fls. 670 requerendo o sobrestamento do recurso.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.369), e foi assim delimitada:
+"Definir se a cobrança de ICMS-DIFAL em operações interestaduais destinadas a consumidor final contribuinte do imposto estava suficientemente disciplinada na Lei Complementar n. 87/1996 (Lei Kandir), antes da entrada em vigor da Lei Complementar n. 190/2022" (REsp 2.133.933/DF e REsp 2.025.997/DF, relator Ministro Afrânio Vilela).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
