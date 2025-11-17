@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Distribuidora Equador de Produtos de Petróleo Ltda. em face de decisum que, em sede de agravo interno, reconsiderou a decisão de fls. 1.572/1.579, tornando-a sem efeito; e, reconhecendo error in procedendo pela vice-Presidência do Pretório a quo, determinou o retorno dos autos à origem a fim de que se proceda ao julgamento por órgão fracionário do agravo interno interposto perante a Corte local contra negativa de seguimento do apelo raro, com esteio no art. 1.030, I, b, do CPC.
+O embargante, em suas razões, sustenta haver erro material na decisão embargada "quando ela fundamenta, no CPC/73, o procedimento a ser realizado pelo Tribunal a quo, inobstante as condutas daquela época não serem mais aplicáveis" (fl. 1.649). Assere que foi "devidamente aplicado ao caso o rito estabelecido pelo CPC 2015, em seus arts. 1030 §2º c/c 1021 caput e §2º, que preveem, expressamente, o direito de a Presidência dos Tribunais locais, em sede de agravo interno contra negativa de seguimento a recursos especiais, retratarem-se monocraticamente e determinar a subida a este STJ - sem que haja configuração de erro in judicando ou in procedendo" (fl. 1.649). Refere, ainda, que os precedentes citados se referem a situações nas quais se teve como erro grosseiro o manejo do agravo em recurso especial contra a negativa de seguimento de recurso especial, mostrando-se, pois, diversas da hipótese em tela.
+Transcorreu in albis o prazo para resposta (fl. 1.662).
+É o relatório.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do decisum atacado ou para correção de erro material.
+Entretanto, na hipótese, não se verifica a existência de quaisquer das referidas deficiências.
+Como cediço, "erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgInt no REsp n. 1.811.170/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+No caso, conforme se pode depreender da simples leitura do decisum embargado, inexistem equívocos materiais.
+Em verdade, ficaram devidamente consignadas no aresto hostilizado as razões pelas quais se vislumbrou que a vice-Presidência da Corte local incorreu em error in procedendo quando, pela via monocrática, reformou inicial prelibação negativa do recurso especial da contribuinte ancorada no art. 1.030, I, b, do CPC.
+Não há, portanto, qualquer vício ensejador do recurso aclaratório no decisum alvejado, ressaindo dos argumentos suscitados pela embargante sua mera irresignação com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com a via integrativa.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
