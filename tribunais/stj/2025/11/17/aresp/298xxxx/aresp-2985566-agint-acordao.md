@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CERÂMICA ARTÍSTICA GISELI LTDA contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação do fundamento relativo à aplicação da Súmula 83/STJ pela decisão de admissibilidade (fls. 485-486).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que impugnou de forma específica todos os óbices aplicados; que o tema da Súmula 83/STJ foi enfrentado no AREsp, por se tratar de recurso fundado na alínea "a" do inciso III do art. 105 da Constituição Federal e não em divergência; que não há reexame fático-probatório, pois a controvérsia seria exclusivamente de direito (arts. 186, 294 e 927 do Código Civil), dada a ilegitimidade passiva e a inexistência de conduta culposa; e, no ponto da quantia, que a fixação em R$ 10.000,00 desconsidera os arts. 944 e 945 do Código Civil e o contexto econômico da agravante, devendo ser minorada (fls. 490-498).
+Impugnação ao agravo interno às fls. 503-507, na qual a parte agravada alega que o agravo em recurso especial foi corretamente não conhecido por ausência de impugnação específica do fundamento da Súmula 83/STJ; que incidem as Súmulas 7/STJ e 83/STJ, além da Súmula 284/STF; que o acórdão recorrido está em consonância com a jurisprudência do STJ quanto à responsabilidade solidária em cadeia de endosso; e que a revisão da quantia indenizatória demanda reexame de provas, sendo incabível.
+É o relatório.
+EMENTA
+AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1.  Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2.  Agravo  interno  a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou:
+a) aplicação das Súmulas 7/STJ e 83/STJ quanto à alegada violação dos arts. 186, 294 e 927 do Código Civil, por estar o acórdão recorrido em harmonia com a jurisprudência do STJ e exigir reexame de fatos e provas;
+b) aplicação da Súmula 7/STJ quanto aos arts. 944 e 945 do Código Civil, por demandar revolvimento das premissas fáticas para rediscussão do valor da indenização;
+c) deficiência no cotejo analítico para a alínea "c" (Súmula 284/STF, por analogia), por ausência de demonstração da similitude fática e jurídica (fls. 429-432).
+Nas razões do seu agravo em recurso especial, a parte agravante apenas afirmou que a controvérsia seria exclusivamente de direito e que não houve necessidade de reexame probatório; que a Súmula 83/STJ não seria aplicável porque o recurso foi interposto com base na alínea "a"; que não houve protesto pela agravante e que a cessão ocorreu antes dos protestos, sendo ilegítima sua responsabilização; e que a quantia deve ser reduzida por desproporcionalidade (fls. 440-456).
+Como  se  vê,  a  parte  agravante  deixou  de  impugnar  os  fundamentos da  decisão  agravada, uma vez que não atacou de forma específica o óbice da Súmula 83/STJ aplicado pela decisão de admissibilidade do Tribunal de origem, limitando-se a sustentar genericamente a inaplicabilidade do enunciado por suposta inadequação da alínea invocada, sem demonstrar que o acórdão recorrido não se encontra em conformidade com a jurisprudência desta Corte.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende o reconhecimento da ilegitimidade passiva e o afastamento do dever de indenizar por ausência de conduta culposa, além da minoração do valor dos danos morais para R$ 3.000,00 (fls. 377-408).
+No caso dos autos, o Tribunal de origem entendeu que, diante da emissão de duplicatas sem lastro e da cessão para protesto antes do vencimento, há responsabilidade solidária da cedente pelo protesto indevido, mantendo o dever de indenizar e reduzindo o valor dos danos morais para R$ 10.000,00, à luz de precedentes da Câmara; e reputou incabível a fixação de honorários recursais em razão do parcial provimento (fls. 345-347).
+Assim, como consignado na decisão q ue não admitiu o recurso especial, incidem: a) as Súmulas 7/STJ e 83/STJ quanto à responsabilidade solidária da cedente/cessionária por protesto indevido de duplicata sem lastro, por estar o acórdão recorrido em harmonia com a jurisprudência do STJ e demandar reexame fático; b) a Súmula 7/STJ quanto à pretensão de readequação da quantia indenizatória; c) a Súmula 284/STF, por analogia, quanto à divergência não demonstrada por cotejo analítico (fls. 429-432).
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego provimento ao  agravo  interno.
+É  como  voto.
