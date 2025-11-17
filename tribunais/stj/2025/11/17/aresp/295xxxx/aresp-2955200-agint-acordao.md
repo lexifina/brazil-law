@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DOS CÁLCULOS PERICIAIS. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182 /STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ABEL DOS SANTOS VIEIRA e outros contra decisão da Presidência desta Corte, que não conheceu de seu agravo em recurso especial, por meio do qual se buscava a reforma de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Ação de execução - Homologação dos cálculos relativos ao laudo pericial - Insurgência acerca dos cálculos elaborados pelo perito judicial sob o argumento de que se faz necessária realização de nova perícia - Inexistência de elemento técnico hábil a elidir as conclusões periciais. Destarte, as razões recursais não trazem, efetivamente, nada de concreto e, ao contrário do afirmado pelos agravantes, estão baseadas em ilações, sem dados palpáveis a oferecer, em modificação dos elementos da conta realizada pelo perito judicial, com base naquilo que já estava definido nos autos e é imodificável quanto a isto em virtude da preclusão. - Termo de incidência dos juros moratórios - Mora "ex re" - Inteligência do art. 397, caput do CC - Correção monetária e juros de mora que são devidos a partir da data do vencimento da obrigação. Decisão mantida - Agravo desprovido.
+Nas razões de seu agravo, a parte agravante reitera, em síntese, as razões de seu recurso especial, no sentido a perícia contábil homologada contém erros materiais e desobedeceu à delimitação judicial de fls. 620/621, inclusive aplicando juros antes da citação, o que geraria "enriquecimento sem causa do exequente" (fl. 941).
+Aduz tratar-se de valoração jurídica da prova, e não reexame de provas, indicando violação dos arts. 1.022, 489, § 1º, 373 e 1.013 do Código de Processo Civil, além do art. 405 do Código Civil.
+Impugnação apresentada (fls. 952/957).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DOS CÁLCULOS PERICIAIS. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182 /STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+VOTO
+Da detida análise dos autos, verifico que o recurso não merece prosperar.
+No caso, a Vice-Presidência do TJSP não admitiu o recurso especial interposto pela ora agravante, em razão da ausência de afronta a dispositivo legal e da incidência do óbice da Súmula 7/STJ.
+Nas razões de seu agravo em recurso especial, a parte agravante limitou-se a reproduzir os argumentos indicados no seu primeiro recurso, sem impugnar, de forma específica, os fundamentos da decisão de inadmissibilidade, em especial a incidência do óbice da Súmula 7/STJ.
+Anoto que, especificamente no que toca à impugnação da Súmula 7/STJ, esta Corte entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (v. AREsp 1.280.316/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão impugnada, aplica-se o enunciado 182 da Súmula do STJ, como bem reconhecido na decisão da Presidência desta Corte.
+Com efeito, à luz do princípio da dialeticidade que norteia os recursos, compete ao agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficientes alegações genéricas de não aplicabilidade dos óbices invocados. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. VERBA HONORÁRIA. MAJORAÇÃO NA DECISÃO AGRAVADA. CONSONÂNCIA COM OS PARÂMETROS LEGAIS.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. "Os honorários recursais devem ser mantidos nos termos da decisão recorrida, visto que foram observados os limites percentuais previstos nos §§ 2º e 3º do art. 85 do CPC" (AgInt no AREsp n. 2.197.759/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/12/2023, DJe de 20/12/2023).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.429.835/AM, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/8/2024, DJe de 14/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA DEMANDADA.
+1. O art. 21-E, V, do RISTJ estabelece como atribuição do Presidente deste Superior Tribunal de Justiça, antes da distribuição, o não conhecimento do recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, não havendo que se falar em ofensa ao princípio da colegialidade, até porque subsiste a possibilidade de interposição de agravo interno.
+2. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese.
+Incidência da Súmula 182 do STJ.
+2.1. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. A impugnação tardia do fundamento da decisão que inadmitiu o recurso especial caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.290.842/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+Ademais, nos termos da jurisprudência desta Corte, "a impugnação tardia do fundamento da decisão que inadmitiu o recurso especial caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa. Precedentes" (AgInt no AREsp n. 2.290.842/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023).
+Ainda que assim não fosse, melhor sorte não assiste à parte agravante.
+No caso dos autos, o Tribunal de origem, com base no conjunto fático-probatório, entendeu que, tratando-se de execução fundada em obrigação contratual com vencimento certo, a mora é caracterizada "ex re", o que justifica a incidência de correção monetária e juros moratórios desde o vencimento da dívida. Além disso, reconheceu a ausência de elementos técnicos aptos a infirmar a perícia judicial e destacou a ocorrência de preclusão quanto aos parâmetros já fixados para o cálculo do débito, motivo pelo qual manteve a homologação dos cálculos periciais. Veja-se (fl. 28/ 29):
+"Destarte, as razões recursais não trazem, efetivamente, nada de concreto, e ao contrário do afirmado pelo agravante, estão baseadas em ilações, sem dados palpáveis a oferecer, em modificação dos elementos da conta realizada pelo perito judicial, com base naquilo que já estava definido nos autos, e é imodificável quanto a isto em virtude da preclusão.
+Importa consignar que os juros de mora têm incidência desde a data do vencimento de cada parcela e não como pretende fazer crer o agravante, qual seja, "a partir da citação"
+ ..
+Deste modo, como a obrigação deveria ter sido adimplida em 01/7/2007, dia do vencimento e não o foi, a falta de pagamento nessa data caracterizou a mora "ex re" e os efeitos da mora, tal como a incidência de correção monetária e juros, devem ser aplicados a partir da data do vencimento."
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre correção dos cálculos periciais. Sendo assim, não há que se falar em omissão no tocante a esse ponto, nem, portanto, em violação do art. 1.022 do CPC.
+Ademais, o entendimento do TJSP está alinhado à jurisprudência do STJ, no sentido de que "o início do cômputo dos juros moratórios decorre da liquidez da obrigação e que, portanto, os juros devem incidir a partir do vencimento da obrigação quando se tratar de obrigação líquida e com termo certo para ser adimplida, (art. 397 do CC)" (AgInt no REsp n. 2.108.678/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+Desse modo, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ. Ademais, alterar essas premissas esbarraria, necessariamente, no óbice da Súmula 7 do STJ.
+Por isso, percebe-se que, de qualquer ângulo que se analise a questão, o recurso da parte agravante não merece prosperar.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
