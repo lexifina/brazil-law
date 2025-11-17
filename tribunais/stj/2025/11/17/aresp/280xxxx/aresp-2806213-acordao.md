@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONSULTA DE BENS PENHORÁVEIS PELO SISTEMA CENSEC. QUEBRA DE SIGILO BANCÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+5. Agravo em recurso especial desprovido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial pela incidência das Súmulas n. 7 e 83 do STJ (fls. 339-342).
+O acórdão recorrido encontra-se assim ementado (fl. 240):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE PESQUISA DE BENS PENHORÁVEIS DA PARTE AGRAVADA. CENSEC. CARÁTER COMPLEMENTAR. NÃO ESGOTAMENTO DE DILIGÊNCIAS. ÔNUS DA PARTE CREDORA. PEDIDO DE QUEBRA DE SIGILO BANCÁRIO. EXCEPCIONALIDADE NÃO DEMONSTRADA. INTERESSE MERAMENTE PRIVADO. RECURSO CONHECIDO E NÃO PROVIDO. 1. O entendimento do Tribunal quanto ao deferimento de medidas atípicas para localização de bens é no sentido de que deve ser admitida quando esgotadas outras medidas à disposição do credor. 1.1. Na hipótese, não há evidência de ter a parte agravante exaurido as providências ao seu alcance, havendo ainda sistemas a serem diligenciados, a exemplo do eRIDFT e SNIPER. Ademais, a busca ao banco de dados pretendida pode ser feita diretamente pela parte exequente, mediante pagamento dos emolumentos respectivos diretamente nos cartórios. 2. Analisando os autos de origem, não se extraem elementos de prática de ato ilícito, e as alegações de fraude à execução ainda são objeto de apreciação pelo juízo a quo. No caso concreto, elementos insuficientes a respaldar a drástica medida de quebra de sigilo fiscal. 2.1. Além disto, evidencia-se interesse exclusivamente patrimonial, e o Superior Tribunal de Justiça já pontuou não haver que se falar em quebra de sigilo com o intuito de satisfazer interesse meramente privado. 3. Agravo de instrumento conhecido e não provido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 273-290), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 4º, 5º, 6º, 139, II, 772 e 773 do CPC, defendendo a necessidade de análise da movimentação bancária da parte devedora, com acesso as informações sobre testamentos, procurações e escrituras públicas, para fins de quitação da dívida.
+No agravo (fls. 345-356), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONSULTA DE BENS PENHORÁVEIS PELO SISTEMA CENSEC. QUEBRA DE SIGILO BANCÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interposto contra decisão que inadmitiu recurso especial na origem.
+II. Razões de decidir
+2. O recurso especial que não impugna fundamento do acórdão recorrido independente e suficiente para mantê-lo, no ponto controvertido, não deve ser admitido, a teor da Súmula n. 283/STF.
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da alegada ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC), ônus do qual a parte recorrente não se desincumbiu.
+III. Dispositivo
+5. Agravo em recurso especial desprovido.
+VOTO
+A parte recorrente não rebateu, de modo específico, os seguintes fundamentos do acórdão (fl. 249):
+No caso, não se justifica o deferimento de diligência pelo Juízo de consulta ao banco de dados do CENSEC quando tal medida pode ser feita diretamente pela parte exequente, mediante pagamento dos emolumentos respectivos diretamente nos cartórios. Ademais, outras diligências, como pesquisa nos cartórios de imóveis (eRIDFT), disponível diretamente ao credor, e ao sistema SNIPER (estava indisponível ao juízo quando requerido em 10/4/2023), ainda não foram realizadas. Quanto ao pedido de quebra de sigilo bancário, também não assiste razão ao recorrente. O sigilo bancário é protegido como projeção específica do direito à intimidade, cuja quebra somente se justifica se se cuidar de ameaça a outro direito de envergadura similar; e na ponderação de valores do caso em discussão, define-se qual direito deve prevalecer naquela situação específica. A hipótese dos autos se enquadra nas exceções a que se refere o art. 5º, XII da CF não ("é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei ") e que previstas na Lei estabelecer para fins de investigação criminal ou instrução processual penal; Complementar n. 105/2001.
+A ausência de impugnação específica de fundamento independente e suficiente para manter o acórdão combatido, no ponto controvertido, leva à inadmissão do recurso, tendo em vista o teor da Súmula n. 283/STF.
+Ademais, sabe-se que a Central Notarial de Serviços Eletrônicos Compartilhados (CENSEC), regulamentada no Provimento n. 18/2012, do CNJ, consiste em ferramenta utilizada para administrar bancos de dados com informações sobre testamentos, procurações e escrituras públicas, sem a finalidade de pesquisa de bens passíveis de penhora, devendo a parte credora acessar o referido sistema de forma extrajudicial.
+Nesse sentido: "a pretendida expedição de ofício ao Centro Eletrônico de Serviços Compartilhados (CENSEC) é desnecessária, por se tratar de sistema acessível à parte credora extrajudicialmente, fundamento autônomo e suficiente, o que atrai a aplicação das Súmulas n. 283 e 284 do STF" (AREsp n. 2.809.843/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/04/2025, DJEN de 05/05/2025).
+Quanto aos arts. 4º, 5º, 6º, 139, II, 772 e 773, do CPC, a peça recursal não esclareceu de que forma tais dispositivos teriam sido violados, tampouco como dariam amparo a qualquer tese recursal, não servindo para tal propósito a citação genérica de normas, sem argumentação clara e associada às razões de decidir do aresto impugnado.
+Limitando-se a parte recorrente a afirmar ofensa a dispositivos de lei sem, contudo, demonstrar a suposta violação ou a correta interpretação, há evidente deficiência na fundamentação, fazendo incidir a Súmula n. 284/ STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige indicação do dispositivo legal objeto de interpretação divergente, bem como demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC, ônus dos quais a parte agravante não se desincumbiu, mormente por não demonstrada a similaridade entre os casos analisados.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+É como voto.
