@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO SINDICAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+1. O Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 99, § 2º, e 317 do CPC), apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incidência da Súmula n. 211/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Sindicato dos Servidores Públicos Municipais de Várzea Grande desafiando decisão de fls. 545/547, que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: (I) inexistência de prequestionamento quanto à aventada ofensa ao art. 99, § 2º, do CPC, por não ter a matéria sido examinada pela Corte a quo sob o viés pretendido; e (II) incidência das Súmulas n. 282/STF e 356/STF relativamente ao art. 317 do CPC, porque a questão não foi apreciada pela instância ordinária, nem foram opostos embargos de declaração com essa finalidade.
+A parte agravante, em suas razões, sustenta, em resumo, que houve prequestionamento das teses referentes aos arts. 99, § 2º, e 317 do CPC, tendo sido opostos embargos de declaração na origem para esse fim, não incidindo os obstáculos sumulares aplicados.
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 573).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO SINDICAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+1. O Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 99, § 2º, e 317 do CPC), apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incidência da Súmula n. 211/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+Na espécie, em tutela cautelar em caráter antecedente, limitou-se o Tribunal de origem a consignar: "Se o autor, devidamente intimado acerca do indeferimento do pedido de gratuidade da justiça e determinação de recolhimento das custas iniciais, deixa de atender ao comando judicial, correta a sentença que determina o cancelamento da distribuição, nos termos do artigo 290 do CPC, bem como extingue o processo sem resolução do mérito, nos termos do artigo 485, IV, do mesmo diploma legal" (fl. 338).
+Assim, observa-se que o Sodalício local não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados (arts. 99, § 2º, e 317 do CPC), apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar afronta ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice do Enunciado n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo." Nessa linha de entendimento: AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, Relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/9/2024.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017). No mesmo sentido, confiram-se: AgInt no AREsp n. 2.454.963/SP, Relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024; AgInt no AREsp n. 2.582.295/PR, Relator Ministro Francisco Falcão, Segunda Turma, DJe de 16/10/2024; RCD no AREsp n. 2.201.202/RJ, Relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 19/9/2024.
+Assim, escorreita a decisão agravada, não merecendo reparo algum.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
