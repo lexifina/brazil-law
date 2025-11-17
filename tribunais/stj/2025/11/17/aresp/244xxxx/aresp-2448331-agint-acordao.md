@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. TEMA 1.170/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 535 do Código de Processo Civil (CPC) de 1973 porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. A Primeira Seção do Superior Tribunal de Justiça (STJ), no julgamento do Tema 1.170 sob o rito dos recursos repetitivos, firmou a tese de que a contribuição previdenciária patronal incide sobre os valores pagos ao trabalhador a título de décimo terceiro salário proporcional relacionado ao período do aviso prévio indenizado.
+3 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSTRUCAP CCPS ENGENHARIA E COMERCIO SA E OUTRAS da decisão em que neguei provimento ao seu recurso especial com amparo na orientação firmada para o Tema 1.170 do STJ (fls. 762/765).
+Nas razões recursais, a parte pretende afastar a adequação do caso concreto ao precedente vinculante, sob o pressuposto de que, "mesmo que o reflexo do décimo terceiro salário decorra do contrato de trabalho, isso não basta para atrair a incidência de contribuição previdenciária se a verba não for retributiva em sentido estrito" (fl. 783). Afirma que a perspectiva da retributividade não foi considerada pela Primeira Seção do STJ quando da adoção da tese em comento.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. TEMA 1.170/STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 535 do Código de Processo Civil (CPC) de 1973 porque a prestação jurisdicional foi dada na medida da pretensão deduzida, é o que se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. A Primeira Seção do Superior Tribunal de Justiça (STJ), no julgamento do Tema 1.170 sob o rito dos recursos repetitivos, firmou a tese de que a contribuição previdenciária patronal incide sobre os valores pagos ao trabalhador a título de décimo terceiro salário proporcional relacionado ao período do aviso prévio indenizado.
+3 . Agravo interno a que se nega provimento.
+VOTO
+Em seu recurso especial, a parte ora agravante alegou violação ao art. 535 do Código de Processo Civil (CPC) de 1973 e apontou omissão relativa aos arts. 22 e 28 da Lei 8.212/1991 e aos arts. 3º e 457 da Consolidação das Leis do Trabalho (CLT) por não ter o TRF da 3ª Região se manifestado acerca do caráter indenizatório do décimo terceiro salário proporcional referente ao período do aviso prévio indenizado.
+Entretanto, no julgamento sob o regime dos recursos repetitivos dos Recursos Especiais 1.974.197/AM, 2.000.020/MG e 2.006.644/MG, de minha relatoria, a Primeira Seção do STJ pacificou o entendimento de que "a contribuição previdenciária patronal incide sobre os valores pagos ao trabalhador a título de décimo terceiro salário proporcional relacionado ao período do aviso prévio indenizado", o que afasta a relevância da manifestação da Corte Regional acerca da natureza da verba em questão, uma vez que já existe precedente vinculante a respeito da matéria.
+Nesse cenário, não se pode ter por inadequada ou incompleta a prestação jurisdicional consonante com a jurisprudência deste Tribunal Superior, notadamente quando foi assinalado que a racionalidade formada em sistemática de recursos repetitivos considerou o conceito de "ganhos habituais do empregado" (fl. 604).
+Inexiste, portanto, a alegada violação do art. 535 do Código de Processo Civil de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante salientar que julgamento diverso do pretendido, como no presente caso, não implica ofensa aos dispositivos de lei invocados.
+Observo, ademais, que a parte agravante apresenta argumentos até agora não invocados, com o objetivo de sejam consideradas as conclusões do Supremo Tribunal Federal (STF) para o Tema 72 - as quais, todavia, foram elaboradas com fundamento na relação previdenciária, e não da relação trabalhista.
+A argumentação tecida pela parte não teve o condão de delimitar distinguishing relativo às situações alcançadas pelo Tema 1.170 do STJ, o qual, portanto, permanece aplicado, inclusive por imposição do art. 927 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. REFLEXOS SOBRE FÉRIAS GOZADAS E GRATIFICAÇÃO NATALINA. INCIDÊNCIA. ACÓRDÃO DE ORIGEM EM HARMONIA COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada não merece reparos, na medida em que julgou a causa dentro dos limites apresentados pelo apelo nobre, qual seja, a irresignação quanto a incidência ou não de contribuição previdenciária apenas sobre os reflexos do aviso prévio indenizado.
+2. A Corte de origem adotou posicionamento que está em harmonia com a orientação jurisprudencial de que " ..  a jurisprudência de ambas as Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmou-se no sentido de que incide contribuição previdenciária patronal sobre o aviso prévio indenizado e seus reflexos, inclusive o décimo terceiro proporcional." (AgInt no REsp n. 1.836.748/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/2/2021, DJe de 17/ 2/2021. - grifo nosso).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.481.221/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/8/2024, DJe de 9/8/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
