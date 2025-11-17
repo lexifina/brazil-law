@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Raul Araújo.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AFRONTA AO ART. 511 DO CPC/2015. TRIBUNAL ESTADUAL CONCLUIU PELO DEVER DE PRESTAR CONTAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283/STF.
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284/STF.
+4. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que é devida a prestação de contas dos atos administrativos referente à venda da sede de determinada associação e sobre a destinação dos valores auferidos. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+5. Agravo conhecido para conhecer em parte do recurso especial e, na extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ALAN VICTOR DE OLIVEIRA em face de decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea a d o permissivo constitucional contra v. acórdão exarado assim ementado (fl. 66):
+"AÇÃO DE PRESTAÇÃO DE CONTAS - PRIMEIRA FASE - Sentença de procedência - Insurgência do requerido - Alegação de ilegitimidade passiva e ativa afastadas - Agravante que exerceu o cargo de Presidente junto à Associação tem o dever de prestar contas dos atos praticados - Associados tem legitimidade ativa para pedir prestação de contas, para verificação da correção dos atos - Contas devem ser prestadas nos termos do art. 551 do CPC - Sentença mantida - RECURSO NÃO PROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 78-81).
+Nas razões do apelo nobre (fls. 86-93), ALAN VICTOR DE OLIVEIRA aponta, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC/2015, afirmando que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, suscita violação aos arts. 117, 550 e 551 do CPC/2015 e ao art. 54, VII, e 1.348, VIII, do Código Civil, sob o argumento, entre outros, de que a "decisão de 1º grau afirmou que a revelia da associação fez com que o agravante se tornar-se o responsável para prestar contas, em violação ao artigo 117 do Código de Processo Civil que prevê a autonomia dos litigantes e, principalmente, que a revelia de um não prejudicará o outro. Ora, se a associação não respondeu à ação, permanece proibido o associado de exigir contas diretamente ao ex-presidente. Ora, o dever de prestar contas recai sobre a associação, pois a apuração de crédito e débito recai nos próprios envolvidos da relação jurídica" (fl. 91 - destaques no original).
+Aduz, também, que o "artigo 54, inciso VII, do Código Civil, prevê que o estatuto das associações conterá obrigatoriamente a "forma de gestão administrativa e de aprovação das respectivas contas". No caso, o artigo 28 do Estatuto prevê que compete à assembleia geral aprovar ou rejeitar as contas da Diretoria Executiva. Previsão que é reiterada nos artigos 50, alíneas f, g e h, 39, alínea m, do estatuto. E o artigo 1.348, inciso VIII do Código Civil, por analogia, rea- firma que as contas são prestadas à assembleia, não se permitindo o pleito direto formulado pelo associado em face do ex-presidente., do Código Civil, prevê que o estatuto das associações conterá obrigatoriamente a "forma de gestão administrativa e de aprovação das respectivas contas". No caso, o artigo 28 do Estatuto prevê que compete à assembleia geral aprovar ou rejeitar as contas da Diretoria Executiva. Previsão que é reiterada nos artigos 50, alíneas f, g e h, 39, alínea m, do estatuto. E o artigo 1.348, inciso VIII do Código Civil, por analogia, reafirma que as contas são prestadas à assembleia, não se permitindo o pleito direto formulado pelo associado em face do ex-presidente" (fl. 92 - destaques no original).
+Defende, ainda, que "não há previsão para o associado pedir prestação de contas ao ex-presidente. O qual, por sua vez, pelos mesmos funda- mentos infraconstitucionais, artigos 550 do Código de Processo Civil e 54, inciso VII e 1.348, inciso VIII, do Código Civil, artigo 1.348, inciso VIII, do Código Civil. Esta questão foi suscitada na primeira oportunidade da contestação, fls. 304/305 (dos autos de 1º grau), reiterada no agravo de instrumento, fls. 24/27" (fl. 92 - destaques no original).
+Intimados, CÉLIO PINTO DE MACEDO e OUTROS apresentaram contrarrazões (fls. 109-114) pelo desprovimento do recurso.
+O apelo nobre foi inadmitido o recurso (fls. 115-117), motivando o agravo em recurso especial (fls. 120-130) em tela.
+Sem contraminuta ( vide certidão à fl. 133).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AFRONTA AO ART. 511 DO CPC/2015. TRIBUNAL ESTADUAL CONCLUIU PELO DEVER DE PRESTAR CONTAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283/STF.
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284/STF.
+4. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que é devida a prestação de contas dos atos administrativos referente à venda da sede de determinada associação e sobre a destinação dos valores auferidos. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+5. Agravo conhecido para conhecer em parte do recurso especial e, na extensão, negar-lhe provimento.
+VOTO
+Inicialmente, rejeita-se a alegada violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) analisou os pontos essenciais ao deslinde da controvérsia dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se recentes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. DOCUMENTOS JUNTADOS AOS AUTOS. AFASTAMENTO DAS CONCLUSÕES. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 1.022, parágrafo único, I e II, e 489, § 1º do CPC, quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+(..)
+7. Agravo interno desprovido."
+(AgInt no REsp n. 2.038.626/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/2/2025, DJEN de 17/2/2025 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões, portanto, deve ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Precedentes.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.508.561/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025 - g. n.)
+Melhor sorte não socorre o apelo no tocante à ofensa aos arts. 54, VII, e 1.348, VIII, do Código Civil.
+No caso, os conteúdos normativos de tais normas não foram examinados pelo eg. TJ- SP configurando ausência de prequestionamento. Por sua vez, os embargos de declaração (fls. 1.912-1.923) opostos pela ora agravante nem sequer mencionavam as aludidas normas; logo, não visavam prequestioná-las. Assim, o apelo nobre encontra óbice nas Súmulas 282 e 356, ambas do col. Supremo Tribunal Federal. Nessa linha de intelecção, confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+III. Razões de decidir
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, sob o enfoque dado pela parte, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF, aplicadas por analogia.
+(..)
+IV. Dispositivo6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.870.547/RS, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE DÉBITO CONDOMINIAL EM FASE DE CUMPRIMENTO DE SENTENÇA. IMÓVEL GERADOR DA DÍVIDA QUE FOI OBJETO DE ALIENAÇÃO JUDICIAL. PAGAMENTO DO CONDOMÍNIO EXEQUENTE E DA FAZENDA MUNICIPAL. BEM GRAVADO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. VALOR REMANESCENTE QUE DEVE SER DIRECIONADO AO PAGAMENTO DO CRÉDITO FIDUCIÁRIO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento."
+(AREsp n. 1.956.036/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 30/6/2025, DJEN de 5/8/2025 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/15. OMISSÃO NÃO VERIFICADA. RESPONSABILIDADE CIVIL POR VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). SÚMULA 83/STJ. ARTIGOS 186 E 927 DO CÓDIGO CIVIL. DEFICIÊNCIA NA CONCEPÇÃO DO PROJETO DA OBRA. CAUSALIDADE ADEQUADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. ARTIGO 884 DO CÓDIGO CIVIL. SÚMULAS 282 E 356/STF. ART. 1.026 DO CPC/15 OMISSÃO NA DECISÃO AGRAVADA. VIA INADEQUADA. NÃO PROVIDO.
+(..)
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.506.495/MG, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025 - g. n.)
+Avançando, o apelo tampouco merece acolhida quanto à violação ao art. 117 do CPC/2015.
+Acerca de tal norma, o eg. TJ-SP assentou que o ora agravante não possui legitimidade para pleitear o afastamento da revelia, conforme v. acórdão do qual se transcreve o seguinte excerto (fls. 68):
+"Quanto ao pedido de afastamento da revelia da Associação, o ora agravante não está legitimado a fazê-lo, eis que tal pretensão deve ser arguida pela própria Associação.
+Por sua vez, nas razões do recurso especial, quanto a tal tema, ALAN VICTOR DE OLIVEIRA limitou-se a apontar tão somente ofensa ao art. 117 do CPC/2015, que não possui pertinê ncia temática com a fundamentação ora transcrita.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (..)
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+Configura deficiência de fundamentação recursal a apresentação de razões dissociadas que não impugnam fundamento do acórdão por si só suficiente para manter o entendimento adotado.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial."
+(AgInt no AREsp n. 2.735.498/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. PRÁTICA ABUSIVA. SÚMULAS N. 83 DO STJ, 283 E 284 DO STF. EMISSÃO DE BOLETO FRAUDULENTO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA. FATO EXCLUSIVO DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. (..)
+3. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação e atrai a incidência das Súmula n. 283 e 284 do STF. (..)
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 2.568.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, j. 10/2/2025, DJEN de 13/2/2025 - g. n.)
+Por seu turno, o recurso especial tampouco merece conhecimento quanto à ofensa aos arts. 550 e 551 do CPC/2015.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que é devida a prestação de contas dos atos administrativos referente à venda da sede de determinada associação e sobre a destinação dos valores auferidos, conforme v. acórdão do qual se decalca o seguinte excerto (fls. 68-69):
+"Trata-se de recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto contra decisão proferida à fls. 362/367, na qual foi julgada procedente ação de exibir contas relativa à venda da sede da Associação Desportiva Classista Ford Taubaté, bem como à destinação dos valores auferidos, de forma mercantil, desde 2014.
+(..)
+Ao contrário do alegado, não é legítima a recusa em prestar contas conforme já adiantado na análise inicial, pois de acordo com o art. 551 do CPC, as contas deverão ser apresentadas na forma adequada, especificando as receitas; a aplicação das despesas e os investimentos, se houver, e isso não consta nos autos.
+Não há falar em descabimento da cumulação de pedidos em ação de prestação de contas, observando-se, ainda, que se trata de pedido único, ou seja, prestar contas de todos os atos administrativos realizados pela Administração da Associação Desportiva Classista, desde o ano de 2014 e de acordo com o especificado à págs 06, terceiro item, ou seja, apontando os documentos que devem ser apresentados para o atendimento da pretensão inicial.
+Nestas condições, mostra-se correta a determinação de prestação de contas reclamada pela parte autora, ora agravada.
+Por esses fundamentos, fica mantida a sentença que encerrou a primeira fase da ação de prestação de contas." (g. n.)
+Nesse cenário, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão , negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte agravada em 10% sobre o valor já fixado pelas instâncias ordinárias, observada eventual prévia concessão da gratuidade da justiça.
+É como voto.
