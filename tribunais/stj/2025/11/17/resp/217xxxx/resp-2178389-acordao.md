@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. RESCISÃO CONTRATUAL E LUCROS CESSANTES. INTERMEDIAÇÃO IMOBILIÁRIA. PAGAMENTO EM DESCONFORMIDADE COM A CLÁUSULA DE ADIMPLEMENTO. SÚMULAS N. 5 E 7, AMBOS DO STJ. RECURSO NÃO PROVIDO.
+1. A conclusão do Tribunal de origem de que a corretora atuava apenas como intermediadora, com previsão expressa sobre a forma de pagamento mediante depósito direto em conta da vendedora, impede o reconhecimento de adimplemento realizado de modo outro, sendo vedada, nesta via, a reinterpretação de cláusulas contratuais (Súmula n. 5 do STJ).
+2. A aceitação da tese de quitação por declaração contratual e de tutela da confiança/boa-fé demandaria revaloração da prova e reanálise do instrumento, medidas inviáveis na trilha especial diante das premissas firmadas pela instância ordinária.
+3. O argumento de direito à moradia não afasta as conclusões contratuais e probatórias sobre inadimplemento e ausência de quitação, mormente quando não invocado no recurso de apelação e apresentado, à guisa de inovação, nas raz ões do especial.
+4. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por ESPÓLIO DE JOSÉ WILSON LOPES TEIXEIRA (ESPÓLIO), fundado no art. 105, inciso III, alínea a, da Constituição Federal, desafiando o acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado (e-STJ, fls. 588-593):
+DIREITOS CIVIL E PROCESSUAL CIVIL. APELAÇÃO EM AÇÃO DECLARATÓRIA. ILEGITIMIDADE PASSIVA DA ESCOL ENGENHARIA. PROCEDÊNCIA PARCIAL DOS PEDIDOS. IMÓVEL REGISTRADO EM NOME DA ESCOL. LEGITIMIDADE PASSIVA RECONHECIDA. LITISCONSÓRCIO PASSIVO NECESSÁRIO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CLÁUSULA EXPRESSA A ESTIPULAR O PAGAMENTO POR MEIO DE DEPÓSITO EM CONTA CORRENTE DA VENDEDORA. PAGAMENTO REALIZADO PELO AUTOR DIRETAMENTE À IMOBILIÁRIA. NÃO REPASSADOS OS VALORES À PARTE RÉ. FRAUDE CARACTERIZADA SEM INDÍCIO DE PARTICIPAÇÃO DA PARTE VENDEDORA. PAGAMENTO REALIZADO DE FORMA INDEVIDA. CORRETORA COM PODERES APENAS PARA INTERMEDIAR A VENDA. ADIMPLEMENTO CONTRATUAL NÃO CONFIGURADO. PRETENSÃO DA PARTE AUTORA DE SER DETERMINADA A TRANSFERÊNCIA DO IMÓVEL PARA SEU NOME. IMPOSSIBILIDADE. IMPROCEDÊNCIA DOS PEDIDOS FORMULADOS NA INICIAL. RECONVENÇÃO. PARTE RECONVINDA NA POSSE DO BEM DESDE 2011. LUCROS CESSANTES CABÍVEIS. DANO MORAL NÃO CONFIGURADO. INEXISTÊNCIA DE ABALO À HONRA OBJETIVA. LITIGÂNCIA DE MÁ-FÉ NÃO VERIFICADA. DESCABIMENTO DE MULTA. PROCEDÊNCIA PARCIAL DOS PEDIDOS RECONVENCIONAIS. PROVIMENTO PARCIAL DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 642-645).
+Nas razões do recurso especial, ESPÓLIO alegou que o acórdão recorrido (1) aplicou de forma imprecisa o art. 722 do Código Civil e desconsiderou os arts. 113, 422 e 167 do mesmo diploma, pois o pagamento à imobiliária, em contexto de boa-fé e aparência de legitimidade, deveria ser reputado eficaz; (2) deixou de reconhecer a validade da cláusula contratual pela qual o vendedor teria declarado o recebimento do preço, violando a tutela da confiança e a boa-fé objetiva; (3) ao condenar o recorrente ao pagamento de lucros cessantes desde outubro/2011, violou a coisa julgada e deveria limitar efeitos ao trânsito em julgado; (4) desconsiderou a proteção ao direito à moradia invocada pelo recorrente (e-STJ, fls. 650-671).
+Foram oferecidas as contrarrazões (e-STJ,fls. 850-852).
+O apelo nobre foi admitido por força de provimento do agravo (e-STJ, fls. 943-944).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. RESCISÃO CONTRATUAL E LUCROS CESSANTES. INTERMEDIAÇÃO IMOBILIÁRIA. PAGAMENTO EM DESCONFORMIDADE COM A CLÁUSULA DE ADIMPLEMENTO. SÚMULAS N. 5 E 7, AMBOS DO STJ. RECURSO NÃO PROVIDO.
+1. A conclusão do Tribunal de origem de que a corretora atuava apenas como intermediadora, com previsão expressa sobre a forma de pagamento mediante depósito direto em conta da vendedora, impede o reconhecimento de adimplemento realizado de modo outro, sendo vedada, nesta via, a reinterpretação de cláusulas contratuais (Súmula n. 5 do STJ).
+2. A aceitação da tese de quitação por declaração contratual e de tutela da confiança/boa-fé demandaria revaloração da prova e reanálise do instrumento, medidas inviáveis na trilha especial diante das premissas firmadas pela instância ordinária.
+3. O argumento de direito à moradia não afasta as conclusões contratuais e probatórias sobre inadimplemento e ausência de quitação, mormente quando não invocado no recurso de apelação e apresentado, à guisa de inovação, nas raz ões do especial.
+4. Recurso especial não provido.
+VOTO
+O recurso merece trânsito, mas com improvimento, em que pese o respeitável articulado.
+(1) Alegada má aplicação dos arts. 113, 167, 422 e 722 do Código Civil
+O acórdão estadual assentou, com base no contrato, que a cláusula quarta estabelecia forma de pagamento mediante depósito em conta da vendedora, e que a cláusula décima segunda limitava a atuação da corretora à intermediação
+A moldura fática é clara: os cheques foram emitidos à imobiliária, os valores não foram repassados e não há indício de participação da vendedora na fraude. Sob esse quadro, a conclusão de inexistência de adimplemento não decorre de desconsideração da boa-fé, mas da inobservância da forma de pagamento expressamente pactuada e da delimitação funcional da corretagem, tal como reconhecido no acórdão.
+Ademais, pretender que o pagamento à intermediária, sem autorização contratual para recebimento e tampouco repasse, produza quitação em favor do comprador, demanda interpretação de cláusulas contratuais e reexame do contexto probatório estabelecido na origem (quais valores foram pagos, a quem, quando e se houve repasse), o que encontra óbice nas Súmulas n. 5 e 7, ambas do STJ.
+Nessa linha:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. HONORÁRIOS CONTRATUAIS. ARBITRAMENTO JUDICIAL. JUROS MORATÓRIOS. INCIDÊNCIA DAS SÚMULAS 83, 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+ ..  5. A pretensão de afastar cláusula contratual válida e eficaz exige reinterpretação de cláusulas contratuais e reexame do conjunto probatório, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ  .. ..
+(AgInt no REsp n. 1.803.079/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/8/2025, DJEN de 15/8/2025)
+No mesmo sentido:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CONTRATO. CLÁUSULA CONTRATUAL. NULIDADE. NORMA JURÍDICA. VIOLAÇÃO. ALEGAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SÚMULA Nº 211/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. INVIABILIDADE. SÚMULAS Nº 5 E Nº 7/STJ.
+ ..  5. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7/STJ.
+(AREsp n. 2.753.869/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/8/2025, DJEN de 21/8/2025)
+Quanto a invocação dos arts. 113, 422 e 167, todos do Código Civil, o acórdão recorrido enfrentou a boa-fé de forma explícita ao afirmar a inexistência de quitação em favor da vendedora e a inadequação do pagamento à intermediária. A "teoria da aparência" e a tutela da confiança, para afastar vício de representação ou legitimar pagamento a terceiro, exigem prova de situação aparente idônea e de legitimidade de poderes de recebimento, o que foi afastado pela origem.
+E como se sabe, o reexame de fatos e provas não vinga por conta do óbice da Súmula n. 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CRÉDITOS PRESUMIDOS DO IPI. INSUMOS UTILIZADOS NA CADEIA PRODUTIVA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem analisou a controvérsia levando em consideração os fatos e as provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo Enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+2. O acórdão recorrido decidiu em consonância com a jurisprudência desta Corte Superior de Justiça. Nesse contexto, mostra-se inviável o processamento do recurso especial, nos termos da Súmula n. 83 do STJ, in verbis: não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.567.912/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/8/2025, DJEN de 19/8/2025)
+Também vale destacar:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. CLÁUSULA DE ELEIÇÃO DE FORO. VULNERABILIDADE DO CONSUMIDOR. NULIDADE. CONFIGURAÇÃO.
+ ..  4. O reexame de fatos e provas, assim como a interpretação de cláusulas contratuais em recurso especial são inadmissíveis, por força das Súmulas 5 e 7 do STJ.
+(AgInt no AREsp n. 2.718.198/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025)
+Ainda:
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. I. CASO EM EXAME
+ ..  5. O reexame de fatos e provas é vedado em recurso especial, conforme a Súmula 7 do STJ.
+(AREsp n. 2.723.955/RS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025)
+(2) Validade de cláusula contratual afastada
+Conforme já pontuado, o Tribunal potiguar transcreveu e interpretou as cláusulas pertinentes, concluindo que a avença é clara quanto a forma de pagamento e que não há cláusula que autorize o pagamento à imobiliária.
+A narrativa de que haveria declaração de recebimento integral no instrumento foi examinada em conjunto com os comprovantes de pagamento e a dinâmica dos repasses, culminando em afastamento com base na constatação de que a vendedora não recebeu os valores.
+Rever tais premissas para afirmar que a declaração contratual implicaria quitação e que o pagamento à imobiliária deveria ser reputado eficaz afronta, novamente, as Súmulas n. 5 e 7, ambas do STJ, pois exige reinterpretação do contrato e revaloração do conjunto probatório. A boa-fé objetiva, mencionada pelo recorrente, não se presta a suprimir disposição contratual específica sobre forma de adimplemento nem a imputar quitação a quem não recebeu a prestação, sobretudo na ausência de poderes de recebimento conferidos à intermediária, como reconhecido pela origem.
+(3) Lucros cessantes e alegada violação da coisa julgada
+O julgamento do apelo rescindiu o contrato por inadimplemento e condenou o autor/reconvindo ao pagamento de lucros cessantes no valor mensal médio de aluguel, a contar de outubro/2011, além de revogar a tutela antecipada.
+Por conseguinte, a condenação, como efeito da procedência parcial da reconvenção em julgamento de mérito, não viola coisa julgada; ao contrário, substitui a tutela provisória e fixa, em cognição exauriente, os efeitos da rescisão e da posse exercida pelo autor desde 2011.
+Aliás, o objetivo de limitar efeitos ao trânsito em julgado não encontra amparo no acórdão recorrido, que estabeleceu lucros cessantes com base na fruição do bem e na ausência de pagamento. Mais uma vez, alterar esse critério demandaria reexame fático (período de posse, valor de mercado, efetiva fruição), vedado pela Súmula n. 7 do STJ, além de afrontar a coerência da solução de mérito adotada.
+(4) Direito à moradia como óbice à rescisão e aos efeitos patrimoniais
+A controvérsia foi solucionada sob o prisma contratual e probatório, reconhecendo-se o inadimplemento do comprador diante da ausência de recebimento pela vendedora, bem como inexistência de participação dela na fraude.
+A invocação de direito à moradia não integrou o recurso de apelação (e-STJ, fls. 510-523) e, por esse motivo, não foi tratada nas instâncias ordinárias como causa impeditiva da rescisão ou fator de modulação dos efeitos patrimoniais.
+Outrossim, a matéria foi suscitada nas razões sem demonstração de aderência concreta aos pontos decididos e sem alterar a premissa central de que não houve adimplemento conforme pactuado. O reexame pretendido, portanto, não se compatibiliza com a via eleita, além de inviável na via do recurso especial.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. INVOCAÇÃO DE VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL . IMPOSTO DE RENDA. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI 7.713/88 (ART . 6º, VII, B), LEI 9.250/95 (ART. 33). CUMPRIMENTO DE SENTENÇA . LIMITES. NÃO-INCIDÊNCIA PERMANENTE. IMPOSSIBILIDADE. 1 . Fica afastado o conhecimento do recurso especial pela alegada violação ao art. 5ª, XXXVI, da Constituição Federal de 1988, diante da impossibilidade do exame da violação de normas constitucionais em sede de recurso especial, sob pena de usurpação das atribuições do Supremo Tribunal Federal - STF através da via própria que é o recurso extraordinário  .. .
+(REsp 1.086.148/SC, Relator Ministro MAURO CAMPBELL MARQUES, Julgamento: 15/4/2010, SEGUNDA TURMA, DJe 5/5/2010)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor do recorrente, limitados a 20%, nos termos do art. 85, § 11, do CPC, devendo ser observado, se for o caso, a gratuidade da justiça.
+É o voto.
+Previno que todos os temas abordados foram detidamente analisados, de modo que a interposição de recurso contra esta decisão com nítido intuito de buscar revisão do julgamento, invocando omissão ou contradição inexistente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
