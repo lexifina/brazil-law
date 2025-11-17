@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Buzzi, João Otávio de Noronha, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 182 DO STJ. recurso não conhecido. decisão mantida.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao recurso.
+II. Questão em discussão
+2. Verificar se a parte agravante impugnou especificamente os fundamentos da decisão, conforme exigido pelo art. 1.021, § 1º, do CPC.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos capazes de afastar os termos da decisão agravada.
+4. Em observância do princípio da dialeticidade, não se conhece do agravo previsto no art. 1.021 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada (aplicação da Súmula n. 182 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: AgInt no AREsp 2.667.520/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 02/12/2024, DJEN de 09/12/2024.
+RELATÓRIO
+Trata-se de agravo interno (fls. 211-221) interposto contra decisão desta relatoria (fls. 204-207) que negou provimento ao agravo em recurso especial em razão das Súmulas n. 7 e 83 do STJ.
+Em suas razões, a agravante repisa as alegações do recurso especial e sustenta que "O Juízo de origem considerou válido, endereço não pertencente a agravante e que foi recebida por pessoa sem qualquer vínculo com a empresa" (fl. 214).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram apresentadas contrarrazões (fls. 225-230).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 182 DO STJ. recurso não conhecido. decisão mantida.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao recurso.
+II. Questão em discussão
+2. Verificar se a parte agravante impugnou especificamente os fundamentos da decisão, conforme exigido pelo art. 1.021, § 1º, do CPC.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos capazes de afastar os termos da decisão agravada.
+4. Em observância do princípio da dialeticidade, não se conhece do agravo previsto no art. 1.021 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada (aplicação da Súmula n. 182 do STJ).
+IV. Dispositivo e tese
+5. Agravo interno não conhecido.
+Tese de julgamento: "1. A ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo interno."
+Dispositivos relevantes citados: CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: AgInt no AREsp 2.667.520/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 02/12/2024, DJEN de 09/12/2024.
+VOTO
+A insurgência não merece acolhida.
+A parte agravante não trouxe argumento capaz de alterar a conclusão da decisão agravada, motivo pelo qual deve ser mantida (fls. 204-207):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob o fundamento de aplicação das Súmulas n. 7 do STJ e 284/STF (fls. 154-156).
+O acórdão recorrido encontra-se assim ementado (fl. 140):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECURSO DA EXECUTADA. SUSCITADA NULIDADE DA CITAÇÃO REALIZADA NA FASE DE CONHECIMENTO. INSUBSISTÊNCIA. TENTATIVAS DE REALIZAÇÃO DO ATO NA SEDE DA EMPRESA INFRUTÍFERAS. CITAÇÃO CUMPRIDA NO ENDEREÇO DAQUELE QUE, CONFORME CONTRATO SOCIAL VIGENTE À ÉPOCA, ERA O SÓCIO ADMINISTRADOR DA EMPRESA. CORRESPONDÊNCIA RECEBIDA POR TERCEIRA PESSOA DE MESMO SOBRENOME, SEM RESSALVAS. ATO VÁLIDO. POSTERIOR INTIMAÇÃO DA AGRAVANTE NO MESMO ENDEREÇO, COM CORRESPONDÊNCIA RECEBIDA PELA MESMA PESSOA, PARA FINS DE RECOLHIMENTO DAS CUSTAS FINAIS. ATO DEVIDAMENTE CUMPRIDO, A REVELAR QUE A AGRAVANTE NÃO SÓ ESTAVA VINCULADA AO ALUDIDO LOGRADOURO, COMO TAMBÉM TINHA CIÊNCIA INEQUÍVOCA DA EXISTÊNCIA DA AÇÃO E DEIXOU DE ARGUIR A SUPOSTA NULIDADE DE CITAÇÃO NA PRIMEIRA OPORTUNIDADE POSSÍVEL. INTIMAÇÃO DA AGRAVANTE NA FASE DE CUMPRIMENTO DE SENTENÇA QUE, UMA VEZ REALIZADA NO MESMO ENDEREÇO, REPUTA-SE IGUALMENTE VÁLIDA. TESE REJEITADA. ALEGADA IMPENHORABILIDADE DE IMÓVEL DE SUA PROPRIEDADE, AO ARGUMENTO DE QUE SE TRATARIA DE BEM DE FAMÍLIA. AFASTAMENTO. TERRENO SOBRE O QUAL EXISTE TÃO SOMENTE UM EDIFÍCIO DE CONSTRUÇÃO INACABADA. LOCAL QUE NÃO SERVE À SEDE DA EMPRESA OU À MORADIA DE SEUS SÓCIOS E FAMILIARES, NÃO SE ENQUADRANDO NO CONCEITO LEGAL DE BEM DE FAMÍLIA. INTELIGÊNCIA DOS ARTS. 1º E 5º DA LEI N. 8.009/90. INTERLOCUTÓRIO MANTIDO. RECURSO DESPROVIDO.
+EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A DECISÃO QUE INDEFERIU O PEDIDO DE EFEITO SUSPENSIVO AO RECURSO. SUBSTITUIÇÃO PELO ACÓRDÃO. ACLARATÓRIOS PREJUDICADOS.
+No recurso especial (fls. 101-117), fundamentado no art. 105, III, "a", da CF, a recorrente apontou a violação dos seguintes dispositivos:
+(i) arts. 242 e 248, § 1º, do CPC, sustentando, em síntese, a nulidade da citação já que deveria ter sido realizada de modo pessoal (fl. 107), e
+(ii) arts. 1º e 5º da Lei n. 8.009/1990, aduzindo a impenhorabilidade do bem de família e que "Não é o fato de ser uma obra inacabada que impede a aplicação do rito da impenhorabilidade do bem de família, visto que a única atividade da empresa agravante sempre foi administrada pelo único sócio chefe do grupo familiar" (fl. 115).
+Foram apresentadas contrarrazões (fls. 128-140).
+No agravo (fls. 164-170), afirma a presença dos requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 176-181).
+É o relatório.
+Decido.
+Quanto ao mérito, o Tribunal de origem assim se pronunciou (fls. 84-85):
+Ao examinar o processo de conhecimento que originou o cumprimento de sentença que subjaz ao presente recurso (autos n. 0310413-62.2015.8.24.0023), constato que restou infrutífera a tentativa de citação da agravante em sua sede oficial, além da sede apontada em um outro processo por ela ajuizado (Eventos 20 e 49 dos autos n 0023842-72.2015.8.24.0023).
+Dessarte, o ato acabou sendo perfectibilizado, por carta com aviso de recebimento, no endereço localizado à Av. Aeroporto, 94, Q01, L01, ST Central - Campos Verdes/GO (Evento 115 dos autos n. 0023842-72.2015.8.24.0023).
+E, diferentemente do arrazoado pela agravante nas razões recursais, trata-se de endereço que, conforme o Contrato Social da empresa vigente à época dos fatos, servia à residência de Eduardo Teixeira de Jesus, seu sócio administrador (Evento 84, Anexo 136 dos autos n. 0023842- 72.2015.8.24.0023), tendo a correspondência sido recebido por pessoa de mesmo sobrenome sem nenhuma ressalva.
+Com efeito, se a tentativa de citação na sede oficial da empresa, conforme seu contrato social, restou infrutífera, é natural que se persiga a realização da diligência no endereço dos respectivos sócios, tal como se procedeu no presente caso. Ressalte-se, aliás, que o mencionado endereço constava inclusive como associado à agravante nos sistemas informatizados disponíveis ao juízo (Evento 109 dos autos n. 0023842- 72.2015.8.24.0023).
+ ..
+No tocante à tese de impenhorabilidade de bem de família, referente ao imóvel matriculado sob o n. 20.194, do 2º Ofício de Registro de Imóveis de Florianópolis/SC, a conclusão não diverge.
+Sobre o conceito de bem de família e a proteção legal de impenhorabilidade que lhe recai, veja-se o que dispõe a Lei 8.009/90:  ..
+Observa-se, nesse sentido, que o imóvel é considerado bem de família e, bem assim, impenhorável, quando se tratar do único destinado à residência da parte interessada ou de seu núcleo familiar.
+No caso em apreço, como bem consignado pelo magistrado a quo, sobre o imóvel em questão atualmente existe apenas um prédio de construção inacabada. Evidentemente, não serve à sede da empresa ou à moradia de seu sócio ou de seus familiares, razão por que não se enquadra na proteção de bem de família estabelecida pela lei de regência.
+Acertada, assim, a decisão recorrida em ambos os aspectos questionados no presente agravo.
+Assim, correta a conclusão do TJSC em relação à citação, já que "A jurisprudência desta Corte, abrandando a regra legal prevista no art. 223, parágrafo único, segunda parte, do Código de Processo Civil de 1973, com base na teoria da aparência, considera válida a citação quando, encaminhada ao endereço da pessoa jurídica, é recebida por quem se apresenta como representante legal da empresa, sem ressalvas quanto à inexistência de poderes de representação em juízo" (AgInt no AREsp n. 1.745.789/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AOS ART. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. VIOLAÇÃO AOS ARTS. 502 E 504 DO CPC/2015. NULIDADE DO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. NÃO PREENCHIMENTO DOS REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO. NULIDADE DA CITAÇÃO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. CITAÇÃO. PESSOA JURÍDICA. TEORIA DA APARÊNCIA. SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. .. .
+4. Nos termos da jurisprudência sedimentada nesta Corte, com base na teoria da aparência, considera válida a citação realizada na pessoa de quem se identifica como representante da empresa e recebe o ato sem ressalvas. Precedentes.  ..
+6. Agravo interno improvido.
+(AgInt no REsp n. 1.931.444/TO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Tendo em vista a consonância do acórdão recorrido com a jurisprudência desta Corte Superior, aplica-se a Súmula n. 83 do STJ, tanto em relação aos recursos interpostos com base na alínea "c" quanto àqueles fundados na alínea "a" do permissivo constitucional.
+Ademais, rever as conclusões adotadas pelo Tribunal estadual quanto à ausência de comprovação dos requisitos para o reconhecimento da impenhorabilidade do bem de família demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No agravo interno, todavia, a agravante insurge-se contra o resultado que lhe foi adverso sem proceder à impugnação dos fundamentos da decisão relativos à s Súmulas n. 7 e 83 do STJ.
+Cabia à parte comprovar que o acórdão recorrido está em discordância com o entendimento desta Corte, apresentando julgados contemporâneos ou supervenientes acerca da matéria, ou demonstrando que o precedente citado não se aplicaria ao caso concreto, ônus do qual não se desincumbiu.
+Deixando a recorrente de rebater especificamente os fundam entos da decisão ora agravada, incide a Súmula n. 182 do STJ, a impedir o conhecimento do agravo interno. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RECURSO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão da Presidência do STJ que não conheceu do agravo nos próprios autos.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se a parte agravante impugnou especificamente os fundamentos da decisão monocrática, conforme exigido pelo art. 1.021, § 1º, do CPC/2015.
+III. Razões de decidir
+3. A parte agravante não apresentou argumentos capazes de afastar os termos da decisão agravada.
+4. A parte agravante não impugnou especificamente o fundamento da decisão monocrática, limitando-se a reiterar o arrazoado do especial.
+5. Incidência da Súmula n. 182/STJ, que impede o conhecimento do agravo interno quando não há impugnação específica do fundamento da decisão recorrida.
+IV. Dispositivo e tese
+6. Agravo interno não conhecido.
+Tese de julgamento: 1. A ausência de impugnação específica do fundamento da decisão monocrática impede o conhecimento do agravo interno.
+Dispositivos relevantes citados: CPC/2015, art. 1.021, § 1º.
+(AgInt no AREsp 2.667.520/RJ, de minha relatoria, Quarta Turma, julgado em 02/12/2024, DJEN de 09/12/2024.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
