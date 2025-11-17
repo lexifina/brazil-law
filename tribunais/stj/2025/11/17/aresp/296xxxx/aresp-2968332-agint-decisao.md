@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno interposto por RONALDO INACIO DA SILVA TRANSPORTES LTDA. contra decisão monocrática proferida pela Presidência do STJ, que aplicou a Súmula 182 do STJ (fls. 1.200-1.202 ).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 1.116-1.117):
+Apelações e recurso adesivo - Ação indenizatória - Transporte público - Ferimentos causados em acidente rodoviário - Procedência - Responsabilização da EMTU por incidentes causados por seus agentes contratados, havendo de responder solidariamente por eventuais prejuízos experimentados pelos usuários do transporte público, para o qual é responsável pela fiscalização - Precedentes - Responsabilidade objetiva das operadoras de transporte público - Excludentes não comprovadas - Inconteste o resultado do trabalho pericial, elaborado pelo IMESC, que não afastou o nexo de causalidade entre os danos sofridos e o acidente e corroborou a necessidade do afastamento de atividades laborais - Depoimentos colhidos em audiência de instrução que não refutaram as narrativas trazidas aos autos e vieram confirmados em perícia técnica, expondo, ainda, a necessidade do afastamento da coautora de suas atividades diárias para dispensar os cuidados necessários ao tratamento da filha - Danos morais - Fixação adequada - Considerada, além das possibilidades do agente causador do dano, a necessidade de recompensa dos prejuízos sofridos pela vítima, ostentando, ainda, caráter pedagógico - Majoração desnecessária - Limitações sofridas pela coautora que não se mostraram permanentes - Incidência de correção monetária a partir da fixação da verba (Súm. 362/STJ) - Verba honorária advocatícia igualmente adequada - Demanda, embora trabalhosa, que não exigiu o manejo de incidentes e recursos intermediários - Razoável o arbitramento no patamar de 10% do valor da causa, ora majorado para 15% em sede recursal - Decisão mantida - Recursos desprovidos.
+Sem embargos de declaração.
+No presente agravo interno, sustenta a parte agravante que todos os fundamentos da decisão agravada foram especificamente impugnados (fls. 1.206-1.218) .
+Pugna, por fim, cas o não seja reconsid erada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões 1.222-1.229 e 1.230-1.233.
+É, no essencial, o relatório.
+Assiste razão à parte agravante quanto à necessidade de afastamento da Súmula 182/STJ, porquanto houve impugnação específica de todos os fundamentos da decisão agravada.
+Assim, reconsidero a decisão de fls. 1.200-1.202 , que não conheceu do agravo em recurso especial, e dou provimento ao agravo interno.
+Retornem conclusos os autos para análise do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
