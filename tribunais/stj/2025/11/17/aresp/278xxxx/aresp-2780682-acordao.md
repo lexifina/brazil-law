@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXIBIÇÃO DE DOCUMENTOS. IRREGULARIDADE QUANTO AOS DOCUMENTOS ACOSTADOS AOS AUTOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ. No caso, o Tribunal de origem concluiu que a parte recorrida juntou a documentação solicitada, nos termos da determinação judicial, sendo inviável rever o entendimen to firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, não provido.
+RELATÓRIO
+Trata-se de agravo interposto por ETALÍVIO PEREIRA MARTINS NETO e AGROPECUÁRIA ETHAL LTDA. - ME contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE EXIBIÇÃO DE DOCUMENTOS - INÉPCIA DA INICIAL E AUSÊNCIA DO INTERESSE DE AGIR - PRELIMINARES REJEITADAS - EXTINÇÃO DO FEITO, COM RELAÇÃO À OBRIGAÇÃO DE FAZER, NA FORMA DO ART. 924, II, DO CÓDIGO DE PROCESSO CIVIL - CUMPRIMENTO DA OBRIGAÇÃO DE FAZER - JUNTADA, PELA PARTE EXECUTADA, DE TODA DOCUMENTAÇÃO DETERMINADA NA SENTENÇA DA FASE DE CONHECIMENTO - EXTINÇÃO DO CUMPRIMENTO DE SENTENÇA MANTIDO - RECURSO DESPROVIDO" (e-STJ fl. 813).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 834/841).
+No recurso especial (e-STJ fls. 856/866), os recorrentes apontam a violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 1.022, § único, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil - alegam que o Tribunal de origem, mesmo após opostos embargos de declaração, deixou de analisar a matéria referente à irregularidade dos documentos apresentados pelo exequente, ora recorrido, configurando omissão e ausência de fundamentação adequada; e
+(ii) artigos 497, 502, 503, 505, 506 e 507 do Código de Processo Civil - sustentam que houve violação da coisa julgada, pois o cumprimento de sentença foi extinto sem que a parte recorrida exibisse integralmente os documentos exigidos pela decisão judicial transitada em julgado, o que representaria descumprimento do título executivo judicial.
+Após a juntada de contrarrazões (e-STJ fls. 887/896), o recurso especial foi inadmitido (e-STJ fls. 898/903), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXIBIÇÃO DE DOCUMENTOS. IRREGULARIDADE QUANTO AOS DOCUMENTOS ACOSTADOS AOS AUTOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ. No caso, o Tribunal de origem concluiu que a parte recorrida juntou a documentação solicitada, nos termos da determinação judicial, sendo inviável rever o entendimen to firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, não provido.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional - violação dos artigos 1.022, § único, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil -, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à juntada integral dos documentos pela parte recorrida, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+Em sede de cumprimento de sentença, foram apresentados pelo Banco Apelado os documentos constantes da sentença.
+Pari passu, o Apelante, de sua vez, afirmou que os documentos acostados não atendiam à determinação, sendo determinado pelo Juízo a complementação.
+Após a apresentação de demais documentos em 06/03/2020, o Apelante compareceu aos autos diversas vezes, reprisando somente que os documentos não cumpriam a determinação judicial, não tendo apresentado nenhum Recurso em face do cumprimento da obrigação.
+Pois bem. Correta a extinção da execução com lastro no art. 924, inciso II, do CPC, pois constatado que a parte executada acostou todos os documentos buscados pelo Apelante, pormenorizando e discriminando as movimentações financeiras, conforme ato sentencial.
+O volume de documentos acostados aos autos é considerável e atende à postulação do Apelante, de modo que, no aspecto, nenhum reparo merece a sentença, que bem analisou os fatos e com esmero aplicou o direito, não tendo o Apelante comprovado a impossibilidade de que demais provas possam ser produzidas no curso da demanda revisional" (e-STJ fls. 803/804).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 2.164.998/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido" (AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Em relação à afronta aos artigos 497, 502, 503, 505, 506 e 507 do Código de Processo Civil, os recorrentes defendem que o recorrido não juntou toda a documentação determinada no título executivo judicial. Assinalaram que houve a juntada de documentos ilegíveis e incompletos, considerando que a conta-corrente foi aberta em 1985 e foram apresentados extratos apenas a partir de março de 1991, bem como que a documentação seria inválida.
+Todavia, a instância originária concluiu que os documentados acostados pela parte recorrente atenderam ao título judicial, conforme excerto anteriormente transcrito. Assim, rever o entendimento firmado pelo Tribuna local demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de proceder à majoração da verba honorária, nos termos do artigo 85, § 11º, do Código de Processo Civil, pois não arbitrada na origem.
+É o voto.
