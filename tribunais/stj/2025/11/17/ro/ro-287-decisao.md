@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso ordinário interposto por COPERVALE ALIMENTOS S/A - MASSA FALIDA contra acórdão do Tribunal Regional Federal da 6ª Região, assim ementado:
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. HABEAS DATA. FALÊNCIA. ALTERAÇÃO DE NOME EMPRESARIAL PARA EXCLUSÃO DA EXPRESSÃO "MASSA FALIDA". IMPOSSIBILIDADE. ORDEM DENEGADA.
+I. CASO EM EXAME
+Habeas data impetrado por Copervale Alimentos S/A, objetivando a exclusão da expressão "Massa Falida" de seu nome empresarial, inserida após a decretação de sua falência no processo de recuperação judicial 0409355-12.2013.8.13.0701. O pedido decorre de decisão judicial da 2aVara Federal de Uberaba/MG que indeferiu a pretensão de retificação do nome empresarial nos autos de uma execução fiscal.
+II. QUESTÃO EM DISCUSSÃO
+Há uma única questão em discussão: a questão central consiste em determinar se o habeas data é o meio processual adequado para a exclusão da expressão "Massa Falida" do nome empresarial de sociedade que teve sua falência decretada.
+III. RAZÕES DE DECIDIR
+O habeas data tem como finalidade assegurar o conhecimento e a retificação de dados pessoais mantidos por entidades públicas ou governamentais, nos termos do art. 5º, LXXII, da Constituição Federal e do art. 7º da Lei 9.507/1997. Não se destina a questionar ou afastar efeitos de sentença judicial.
+A decretação da falência, confirmada por decisão transitada em julgado, altera a situação jurídica da empresa, fazendo com que a expressão "Massa Falida" passe a integrar o nome empresarial. A pretensão de retificação implica, reflexamente, o afastamento de efeitos de sentença que reconheceu essa condição.
+A exclusão da expressão "Massa Falida" demandaria ampla dilação probatória e, na prática, resultaria na reforma da sentença falimentar, o que não é possível por meio de habeas data, sob pena de transformá-lo em sucedâneo de recurso.
+Precedente do Superior Tribunal de Justiça (HD 534-DF) confirma a impropriedade do habeas data para retificação de dados referentes à condição de falida de empresa, quando não há legitimação processual adequada.
+IV. DISPOSITIVO E TESE
+Habeas data denegado.
+Tese de julgamento". O habeas data não se presta para afastar os efeitos de sentença judicial que decretou a falência de sociedade empresária e resultou na inclusão da expressão "Massa Falida" em seu nome empresarial.
+Dispositivos relevantes citados". CF/1988, art. 5º, LXXII; Lei 9.507/1997, art. 7º, II; Lei 11.101/2005, art. 22.
+Jurisprudência relevante citada". STJ, HD 534 - DF, Rei. Min. Nancy Andrighi, j. 02.05.2024.
+No recurso ordinário, a sociedade empresária recorrente, preliminarmente, sustentou que estaria dispensada do preparo, ao argumento de que, "na forma do art. 5º, LXXVII da CF e art. 21 da Lei 9.507/97, a ação de habea s data é gratuita" (fl. 261).
+No tocante ao mérito recursal, defendeu que faria jus à retificação dos dados apontados como inexatos, nos autos da execução fiscal 0003100-08.2018.4.01.3802, em trâmite perante o Juiz Federal da 2ª Vara Federal da Subseção Judiciária de Uberaba/MG; nos órgãos de 1º e 2º Grau do TRF6; no cadastro CNPJ 25.427.857/0001-13 na Receita Federal do Brasil; e no Nire 31300105601 JUCEMG.
+Ao final, requereu o provimento do recurso, para fins de retificação dos dados de "convolação em falência de autoria do Banco Itaú S/A de 20 de junho de 2018", para "nada consta" de falência certificado público de Código de Autenticação: 2410-2617- 3143-0670-4278, Uberaba, Tribunal de Justiça do Estado de Minas Gerais, certidão cível de falência negativa nº 202410260026863405, em 26/10/2024, da Copervale Alimentos S/A, CNPJ 25.427.857/0001-13, e empresa normal, desde 29 de janeiro de 2018, por força da sentença no processo nº 040935512.2013.8.13.0701, proferida pelo Exmo. Juiz João Rodrigues dos Santos Neto, Vara Empresarial de Uberaba, que concedeu a recuperação judicial nº 040935512.2013.8.13.0701 a Copervale Alimentos S. A CNPJ nº 25.427.857/0001-13, transitada em julgado em 28 de janeiro de 2016.
+Nesta Corte, mediante o despacho de fls. 700-702, determinei que a recorrente comprovasse, "no prazo de 5 (cinco) dias úteis, o recolhimento em dobro do preparo, sob pena de deserção", deixando consignado que, segundo a jurisprudência do STJ, "a isenção prevista no art. 21 da Lei Federal 9.507/97, que reconhece a gratuidade à ação de "habeas data", vincula-se tão somente ao momento inicial em que impetrado o writ, não alcançando eventual fase recursal, onde o preparo vincula-se à obrigação determinada em lei" (AgRg no AREsp 508.837/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 16/9/2024, DJe de 23/9/2024).
+Contra o retromencionado despacho de fls. 700-702, a recorrente apresentou reclamação por suposta inobservância dos arts. 4º, §1º, 19 e 20, II, b, da Lei 9.507/1997, com pedido de reconsideração.
+Sobreveio a decisão de fls. 713-715, pela qual não conheci da reclamação e indeferi o pedido de reconsideração, deixando explícito que, no prazo de 5 (cinco) dias úteis, contados a partir da publicação, em 3/11/2025, do despacho de fls. 700-702, a recorrente deveria comprovar o recolhimento em dobro do preparo, sob pena de deserção.
+É o relatório.
+Passo a decidir.
+O presente recurso ordinário não deve ser conhecido, por ausência de comprovação do recolhimento em dobro do preparo.
+Segundo a jurisprudência do STJ, aplicável inclusive aos recursos ordinários em habeas data oriundos da Justiça Federal, "a isenção prevista no art. 21 da Lei Federal 9.507/97, que reconhece a gratuidade à ação de "habeas data", vincula-se tão somente ao momento inicial em que impetrado o writ, não alcançando eventual fase recursal, onde o preparo vincula-se à obrigação determinada em lei" (AgRg no AREsp 508.837/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 16/9/2024, DJe de 23/9/2024).
+Portanto, incide na espécie o enunciado da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos."
+Por fim, apenas em obiter dictum, cumpre registrar que o acórdão recorrido está em consonância com a jurisprudência do STF, no sentido de que "o habeas data é instrumento destinado à proteção de dados pessoais próprios do impetrante, sendo incabível sua utilização como sucedâneo recursal ou meio de revisão de decisões judiciais anteriores" (HD 154 AgR, Relator Ministro Flávio Dino, Primeira Turma, julgado em 19/5/2025, DJe-s/n de 23/5/2025).
+Isso posto, não conheço do recurso ordinário em habeas data.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+EMENTA
