@@ -1,0 +1,25 @@
+DECISÃO
+VALÉRIA MATIAS BASTOS opõe embargos de declaração à decisão de fls. 608-612, que conheceu do agravo em recurso especial para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, assentando a incidência da Súmula n. 7 do STJ e afastando ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, com majoração dos honorários.
+Em suas razões, a embargante aponta que há contradição quanto aos seguintes pontos: a) reconhecimento, no acórdão estadual, de "prescrição da pretensão possessória e reintegração de posse", ao passo que a decisão embargada afasta a prescrição por inexistência de deferimento de reintegração e extinção do pedido reconvencional; b) aplicação da Súmula n. 7 do STJ quando, segundo sustenta, houve exame de mérito fático na decisão monocrática.
+Alega também que há obscuridade em relação aos seguintes pontos: a) posse da embargante, porque a decisão menciona residência em outros locais ao longo de 31 anos para, supostamente, relativizar a continuidade da posse; b) valoração do boletim de ocorrência como "prova unilateral" e insuficiente para demonstrar ameaça à posse, sem esclarecer por que não poderia ser considerado elemento indiciário, à luz dos arts. 369 e 371 do Código de Processo Civil.
+Requer o saneamento das contradições e obscuridades apontadas e, caso sanadas, a atribuição de efeitos modificativos para reconhecer violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil e determinar o retorno dos autos ao Tribunal de origem; subsidiariamente, requer esclarecimentos para viabilizar recurso.
+As contrarrazões aos embargos foram apresentadas às fls. 623-630, em que se pleiteia o desprovimento dos embargos com aplicação da multa do art. 1.026, § 2º, do Código de Processo Civil.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, a parte aponta contradição quanto ao reconhecimento da prescrição possessória e à reintegração de posse no acórdão estadual, em contraste com a decisão embargada que afasta a prescrição por inexistir reintegração deferida e por ter sido extinto, sem resolução de mérito, o pedido reconvencional.
+Na decisão de fls. 610-611, consta que o Tribunal de origem considerou inviável a prescrição por inexistir pretensão possessória dos promovidos/agravados, uma vez que o pedido reconvencional de reintegração foi extinto sem resolução de mérito, concluindo pela ausência de interesse recursal. Assim, não há contradição a ser sanada.
+No que se refere à alegada contradição quanto à aplicação da Súmula n. 7 do STJ, não há como acolher os embargos. Conforme consta na decisão impugnada, a negativa de provimento ao recurso especial apoiou-se na incidência do óbice da Súmula n. 7 do STJ e no afastamento de violação aos arts. 489, § 1º, e 1.022, com contextualização fática sem reexame probatório.
+Observe-se (fl. 612):
+Ante o exposto, conheço do agravo em recurso especial para conhecer em parte do recurso especial e nessa extensão negar-lhe provimento.
+Desse modo, não há contradição que enseje o acolhimento dos embargos.
+Sustenta que há obscuridade sobre a posse da embargante, porque a decisão referiu residência em outros locais ao longo de 31 anos, o que teria tornado incerta a continuidade da posse.
+No tocante à posse, a decisão embargada reconheceu expressamente o exercício da posse pela autora, destacando que a residência em outras localidades não impede a comprovação da posse, sobretudo por estar no imóvel desde maio de 2018 (fl. 611).
+Portanto, não se verifica obscuridade na fundamentação sobre a posse.
+Afirma também que há obscuridade na valoração do boletim de ocorrência como prova unilateral e insuficiente para demonstrar ameaça à posse, sem esclarecimento jurídico quanto ao seu valor indiciário.
+No que se refere à ameaça ou justo receio, a decisão embargada indicou que a única prova juntada foi o boletim de ocorrência, o qual, por ser produzido unilateralmente, não se mostra suficiente para comprovar ameaça ou receio de turbação ou esbulho (fl. 611).
+Assim, não há obscuridade na conclusão de insuficiência probatória, que é clara e coerente com o padrão decisório adotado.
+Quanto ao pedido de aplicação da multa do art. 1.026, § 2º, do Código de Processo Civil, formulado na impugnação aos embargos de declaração, registre-se que a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando não há a intenção protelatória (EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgados em 14/11/2023, DJe de 17/11/2023).
+No caso, apesar da rejeição dos embar gos de declaração, não está configurado, por ora, o intuito protelatório, razão pela qual é incabível a aplicação de multa.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
