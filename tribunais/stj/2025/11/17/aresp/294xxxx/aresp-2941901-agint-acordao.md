@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO PERSONALIDADE JURÍDICA. INOVAÇÃO RECURSAL E INEXISTÊNCIA DE INTERESSE. TEORIA MENOR. RELAÇÃO CONSUMERISTA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF.
+AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por FRANCISCO CANINDÉ PEGADO DO NASCIMENTO E EDGARD ALBANO, contra decisão proferida pelo em. Ministro Presidente do Superior Tribunal de Justiça, às fls. 415-415, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação dos fundamentos da decisão de inadmissibilidade.
+Em suas razões recursais, a parte agravante sustenta, em síntese, ter impugnado especificamente os fundamentos da decisão de inadmissão do apelo nobre e reitera o mérito recursal.
+Devidamente intimada, a parte agravada não apresentou impugnação, conforme certidão de fl. 441.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO PERSONALIDADE JURÍDICA. INOVAÇÃO RECURSAL E INEXISTÊNCIA DE INTERESSE. TEORIA MENOR. RELAÇÃO CONSUMERISTA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF.
+AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido. Recurso especial não conhecido.
+VOTO
+Afiguram-se relevantes as argumentações colocadas no presente recurso.
+Da análise dos argumentos expostos pela agravante nas razões de agravo em recurso especial, observa-se que não incide, no caso, a Súmulas 182/STJ.
+Desse modo, dou provimento ao agravo interno, reconsidero a decisão agravada e passo a novo exame do processo.
+Da análise dos autos, afere-se que, na origem, os agravantes interpuseram agravo de instrumento com pedido de efeito suspensivo, contra decisão proferida no cumprimento de sentença, que acolheu o incidente de desconsideração da personalidade jurídica da CENTRAPE e determinou a inclusão dos ora agravantes, no polo passivo do processo executivo.
+O em. Relator do agravo de instrumento, em decisão monocrática, conheceu parcialmente do agravo de instrumento e indeferiu o pedido de efeito suspensivo. O agravo foi conhecido, apenas, no ponto relativo à desconsideração da personalidade jurídica pela aplicação da teoria menor do Código de Defesa do Consumidor, com análise dos fundamentos fático-jurídicos adotados na origem, e, o pedido de efeito suspensivo foi indeferido.
+O Tribunal de origem, no julgamento do agravo interno, confirmou os termos da decisão monocrática do Relator, conforme ementa abaixo colacionada:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO AGRAVADA QUE CONHECEU PARCIALMENTE DO RECURSO E INDEFERIU O EFEITO SUSPENSIVO AO RECURSO. CONSTATAÇÃO DE INOVAÇÃO RECURSAL E INEXISTÊNCIA DE INTERESSE RECURSAL (APLICAÇÃO DO TEMA 1.210/STJ) E VIOLAÇÃO À DIALETICIDADE. MÉRITO. APLICABILIDADE DA TEORIA MENOR DO CDC (CDC, ART. 28, § 5º) EM JUÍZO DE COGNIÇÃO NÃO EXAURIENTE. DECISÃO PAUTADA ESSENCIALMENTE NA AUSÊNCIA DE JUNTADA DOS ATOS CONSTITUTIVOS DA EXECUTADA E UTILIZAÇÃO DA PERSONALIDADE JURÍDICA COMO OBSTÁCULO AO RESSARCIMENTO DO CRÉDITO DO CONSUMIDOR. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+Trata-se de agravo interno interposto contra decisão que conheceu parcialmente do agravo de instrumento e indeferiu o pedido de efeito suspensivo. O recurso original foi manejado contra decisão que acolheu o incidente de desconsideração da personalidade jurídica da empresa executada e incluiu os agravantes no polo passivo da execução.
+II. QUESTÕES EM DISCUSSÃO
+2.1 Verificação de inovações recursais e ausência de interesse recursal no agravo de instrumento, quanto ao Tema 1.210/STJ.
+2.2 Aplicação da teoria menor do art. 28, § 5º, do CDC em casos de inadimplemento com obstáculo ao ressarcimento do crédito do consumidor. I
+II. RAZÕES DE DECIDIR
+3.1 Impossibilidade de conhecimento integral do agravo de instrumento. Constatada inovação recursal e ausência de interesse recursal em relação à aplicação do Tema 1.210/STJ. O argumento não foi deduzido na origem e a Corte Superior não determinou a suspensão dos feitos que tratem da matéria.
+3.2 Impossibilidade de concessão de efeito suspensivo (Aplicação da teoria menor do CDC): - A decisão de primeiro grau se fundamentou na não de localização de bens e principalmente, na ausência atos constitutivos e registro da empresa executada, além da demonstração de que sua personalidade jurídica constitui obstáculo ao ressarcimento do crédito; fundamentos que não foram rebatidos pelos recorrentes.
+3.3 Essa violação à dialeticidade, aliado ao fato de que existem mesmo indícios de abuso na personalidade jurídica que obsta a satisfação do crédito do consumidor, impedem a concessão do efeito suspensivo no agravo de instrumento.
+IV. DISPOSITIVO E TESE
+A ausência de interesse recursal, inovação e violação à dialeticidade, impede o conhecimento integral do recurso e a concessão do efeito suspensivo no agravo de instrumento.
+Agravo interno DESPROVIDO com manutenção da decisão agravada." (fls. 341-348)
+Não foram opostos embargos de declaração.
+Em seu recurso especial, o recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses:
+(i) art. 1.036, § 1º do Código de Processo Civil, pois, tratando-se da matéria afetada ao Tema 1.210, teria obrigatoriedade de suspensão dos processos e recursos correlatos, de modo que a declaração de ausência de interesse recursal teria sido indevida;
+(ii) art. 28, § 5º do Código de Defesa do Consumidor, pois a desconsideração da personalidade jurídica teria sido aplicada em razão apenas da inexistência de bens penhoráveis  e de irregularidades formais, buscando atingir administradores não sócios, o que seria vedado pela teoria menor; e
+(iii) art. 371 do Código de Processo Civil, pois a decisão teria deixado de valorizar especificamente os elementos dos autos, ao fundamentar-se na ausência de atos constitutivos e de endereço, sem demonstrar abuso de direito, excesso de poder, infração legal ou estatutária.
+As contrarrazões ao recurso especial foram apresentadas às fls. 380-388.
+O recurso fora inadmitido na origem, por isso a interposição de agravo em recurso especial. Os autos ascenderam a esta Corte.
+Ao analisar o recurso, a Presidência do Superior Tribunal de Justiça não conheceu do agravo em recurso especial, em razão da ausência de observância do Princípio da dialeticidade. A parte sucumbente interpõe o presente agrav o interno.
+Apesar de preliminarmente esta Relatoria entender por plausíveis as argumentações e dar provimento ao agravo interno, para a reconsideração da decisão agravada, na acurada análise do processo, constata-se que, não obstante ao conhecimento do agravo, o recurso especial não tem como prosperar.
+Sobre a incidência do Tema 1.210 e inaplicabilidade da teoria menor da desconsideração para atingir patrimônio de administrador não sócio, assim se manifestou a Corte local:
+"Portanto, foram três os fundamentos para o conhecimento parcial do recurso:
+1) ausência de interesse recursal do agravante em pugnar a suspensão do processo com base no Tema 1.210 do STJ, porque a Corte Superior não fez essa determinação;
+2) houve inovação recursal quanto à alegação de inobservância do referido tema, pois os recorrentes não trouxeram o argumento na defesa de mov. 33.1 do incidente de desconsideração da personalidade jurídica;
+3) também houve inovação recursal quanto ao argumento de que os agravantes seriam meros administradores e não sócios da empresa executada CENTRAL NACIONAL DOS APOSENTADOS E PENSIONISTAS - CENTRAPE.
+Em havendo somente da discussão do tema 1.210/STJ em 39/08/2023 sem qualquer determinação pela Corte Superior de suspensão dos feitos, não há como o agravante querer invocar a aplicação "do tema" ao caso concreto, porque, repita-se, não houve qualquer julgamento
+Portanto, a Segunda Seção do STJ definirá - em data incerta - "o cabimento ou não da desconsideração da personalidade jurídica no caso de mera inexistência de bens penhoráveis e/ou eventual encerramento irregular das atividades da empresa".
+Desse modo, não há, como dito, interesse dos agravantes em postular a concessão de efeito suspensivo com base em algo que não foi sequer julgado.
+E, sob outro enfoque, ainda que houvesse a definição da tese, ela não seria aplicável ao caso (ou seja, também não haveria interesse da parte) porque será julgado o cabimento da desconsideração da personalidade jurídica nos casos em que se considere apenas a mera ausência de bens penhoráveis e/ou encerramento irregular.
+Porém, o caso em tela é diverso, pois a decisão agravada não se pautou apenas sobre tais premissas.
+Conforme constou da decisão ora agravada (de mov. 9.1/AI), além da inexistência de bens, os principais fundamentos da decisão objeto do agravo de instrumento foram (a) não localização dos atos constitutivos da executada e b) a personalidade jurídica se tornou obstáculo à satisfação do crédito do consumidor, tendo essas circunstâncias, autorizado a aplicação da teoria menor da desconsideração da personalidade jurídica.
+E, como ponderei naquela decisão esses argumentos não foram enfrentados pelos agravantes em violação ao princípio da dialeticidade, o que, cabe acrescentar, seria fundamento suficiente para negar o efeito suspensivo recursal, por afastar a probabilidade de provimento do recurso.
+(..)
+Por tudo que se expôs até aqui, vê-se que o conhecimento do recurso deve mesmo ser parcial, diante das inovações recursais, violação à dialeticidade e ausência parcial de interesse recursal, além de haver fortes indícios de que a personalidade jurídica está obstando a satisfação do crédito da consumidora, o que afasta o requisito da probabilidade de provimento imprescindível para concessão de efeito suspensivo." (fls. 341-348)
+Do excerto acima transcrito, afere-se que o Tribunal de origem alicerçou seu entendimento de não conhecimento parcial do recurso com base nos seguintes argumentos: i) ausência de interesse, inovação recursal e não suspensão do Tema 1.210; ii) inovação recursal quanto ao argumento de que os agravantes seriam meros administradores e não sócios da empresa executada; e iii) aplicação da teoria menor para a desconsideração da personalidade jurídica, nos termos do art. 28, § 5º, do CDC, em razão da relação de consumo estabelecida entre as partes e haver fortes indícios de que a personalidade jurídica está obstando a satisfação do crédito da consumidora.
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (..)
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+Configura deficiência de fundamentação recursal a apresentação de razões dissociadas que não impugnam fundamento do acórdão por si só suficiente para manter o entendimento adotado.
+6. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial."
+(AgInt no AREsp n. 2.735.498/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. RECONVENÇÃO. REVISÃO DE CONTRATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. PRÁTICA ABUSIVA. SÚMULAS N. 83 DO STJ, 283 E 284 DO STF. EMISSÃO DE BOLETO FRAUDULENTO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA. FATO EXCLUSIVO DE TERCEIRO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. (..)
+3. A ausência de impugnação específica de fundamento suficiente, por si só, para manter incólume o acórdão recorrido configura deficiência na fundamentação e atrai a incidência das Súmula n. 283 e 284 do STF. (..)
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 2.568.985/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, j. 10/2/2025, DJEN de 13/2/2025)
+Quanto à alegada violação dos arts. 371 e 1.036, § 1º do Código de Processo Civil do CPC, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foi alvo dos embargos declaratórios opostos, para sanar eventual omissão. Esse pressuposto específico do recurso especial é exigido inclusive para matérias de ordem pública. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SÚMULA 182/STJ. INAPLICABILIDADE. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRECLUSÃO CONSUMATIVA. NÃO CONFIGURAÇÃO. REDISCUSSÃO DA MATÉRIA. INVIABILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO. (..)
+4. A Corte local não se pronunciou sobre a tese de julgamento citra petita, não se configurando o prequestionamento da matéria, a qual nem sequer foi suscitada nos embargos de declaração opostos na origem. Incidência, por analogia, das Súmulas 282 e 356/STF.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 2.652.215/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/2/2025, DJEN de 28/2/2025)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. CHAVES. ATRASO NA ENTREGA. ASTREINTES. REVISÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. MULTA COMINATÓRIA. PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DANOS MORAIS. EXCLUSÃO. INEXISTÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DECISÃO MANTIDA. (..)
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF. (..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.621.589/AM, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. 24/2/2025, DJEN de 28/2/2025)
+Diante d o exposto, dou provimento ao agravo interno, para reconsiderar a decisão agravada, e, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+E, quanto ao ônus da sucumbência recursal, deixo de majorar os honorários advocatícios na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+É como voto.
