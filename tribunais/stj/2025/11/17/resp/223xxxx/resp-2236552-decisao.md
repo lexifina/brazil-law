@@ -1,0 +1,49 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL - IPERGS contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento de Agravo de Instrumento, assim ementado (fl. 118e):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. DIREITO PREVIDENCIÁRIO. ATUALIZAÇÃO DO DÉBITO. LEI Nº 11.96/09, NÃO INCIDÊNCIA NO CASO CONCRETO. RESPEITO À SENTENÇA TRANSITADA EM JULGADO PROFERIDA NA AÇÃO DE CONHECIMENTO. PRECEDENTES. CONHECIMENTO PARCIAL DO RECURSO. AUSÊNCIA DE INTERESSE RECURSAL QUANTO AO ÍNDICE DE CORREÇÃO MONETÁRIA. RECURSO CONHECIDO EM PARTE E PROVIDO.
+Opostos embargos de d eclaração, foram rejeitados (fls. 146/151e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese:
+Art. 1.022, II, do Código de Processo Civil de 2015 - negativa de prestação jurisdicional, porquanto não apreciadas as questões formuladas nos embargos de declaração; eLei n. 11.960/2009 - a natureza processual do diploma legal apontado implica a necessidade de aplicação imediata aos processos pendentes, por força do princípio do tempus regit actum; eart. 100, § 12, da Constituição Federal - inobservância do entendimento firmado no julgamento das ADIs 4.357 e 4.425, mediante o qual o Supremo Tribunal Federal aplicou a técnica da modulação dos efeitos da declaração de inconstitucionalidade a fim de preservar a validade da aplicação do índice oficial de remuneração básica da caderneta de poupança (TR) quanto aos requisitórios de pagamento expedidos até 25.3.2015.Submetido ao juízo de conformidade com as teses firmadas no julgamento do Tema n. 810 de repercussão geral e do Tema Repetitivo n. 905/STJ, o acórdão foi parcialmente reformado, consoante fundamentos resumidos na seguinte ementa (fl. 198e):
+JUÍZO DE RETRATAÇÃO. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO DE SENTENÇA. CORREÇÃO MONETÁRIA. AUSÊNCIA DE INTERESSE RECURSAL. JUROS DE MORA. TAXA VIGENTE NO MÊS DO VENCIMENTO.
+1. Não conheço do agravo de instrumento quanto ao índice de correção monetária pela falta de interesse recursal.
+2. Quanto aos juros de mora, por outro lado, aplica-se a taxa vigente no mês do vencimento, devendo incidir no percentual de 1% ao mês até 28-06-2009, data da publicação da Lei nº 11.960/09 e, após, em índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. RECURSO CONHECIDO EM PARTE E DESPROVIDO. VOTO VENCIDO.
+Com contrarrazões (fl. 171/176e), o tribunal de origem negou seguimento ao Recurso Especial no tocante ao Tema n. 905/STJ e o inadmitiu quanto às teses remanescentes (fls. 230/237e).
+Interposto Agravo Interno, a Corte local conheceu parcialmente do recurso e negou-lhe provimento, consoante denota ementa assim expressa (fl. 270e):
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO ESPECIAL. FAZENDA PÚBLICA. REQUISITÓRIO NÃO ABARCADO PELO PERÍODO DE MODULAÇÃO DA ADI 4.425 QO. CORREÇÃO MONETÁRIA. ÍNDICE OFICIAL DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA (TR). INCONSTITUCIONALIDADE. TEMA 905 DO STJ. RECURSO CONHECIDO EM PARTE E, NA EXTENSÃO, DESPROVIDO.
+Quanto ao capítulo relativo à inadmissibilidade, foi interposto Agravo (fls. 290/301e), posteriormente convertido em Recurso Especial (fls. 676/677e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Por primeiro, destaco que o Tribunal a quo negou seguimento ao Recurso Especial quanto à tese firmada no Tema n. 905/STJ e, após a interposição de Agravo Interno, negou provimento ao recurso, portanto, a matéria não foi devolvida para apreciação desta Corte Superior.
+Passo à análise das teses remanescentes.
+- Da negativa de prestação jurisdicional
+De pronto, verifico não ser possível conhecer da suscitada violação do art. 1.022 do Código de Processo Civil, porquanto o recurso, nessa extensão, cinge-se a alegações genéricas, sem demonstrar, com transparência e precisão, qual seria o vício integrativo a inquinar o acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte, como espelham os julgados assim ementados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETENCIA. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE ARGUMENTAÇÃO. NÃO CONHECIMENTO.
+(..)
+4. Com efeito, mostra-se deficiente a argumentação recursal em que a alegação de ofensa aos arts. 1.022, II, parágrafo único, II c/c art. 489, § 1º, IV se faz de forma genérica, dissociada dos fundamentos da decisão embargada, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. A ausência de tal demonstração enseja juízo negativo de admissibilidade dos embargos de declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284 do STF.
+5. Embargos de declaração não conhecidos.
+(EDcl no AgInt no CC n. 187.144/DF, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, j. 12.12.2023, DJe de 15.12.2023).
+TRIBUTÁRIO E PROCESSUAL CIVIL. ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA 211/STJ. COMPENSAÇÃO INDEFERIDA NA VIA ADMINISTRATIVA. ALEGAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO FISCAL. IMPOSSIBILIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência do óbice da Súmula 284 do STF.
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.163.258/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, j. 10.2.2025, DJEN 17.2.2025).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR. SÚMULAS N. 280 E 284 DO STF. SÚMULA N. 126 DO STJ. ARTIGO 1.022 DO CPC. ARTIGO 97, IV, DO CTN. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+(..)
+II - Quanto à primeira controvérsia, incide o óbice da Súmula n. 284/STF, tendo em vista que a parte recorrente aponta ofensa ao art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material. Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF." (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+(..)
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 2.847.615/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, j. 18.6.2025, DJEN 25.6.2025).
+- Da ofensa a norma constitucional
+A insurgência concernente à inobservância do entendimento firmado no julgamento das ADIs 4.357 e 4.425 não pode ser conhecida no que tange à alegada violação ao art. 1 00, § 12, da Constituição da República.
+Isso porque o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade e a aplicação uniforme da lei federal, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, insculpida no art. 102, III, da Constituição da República.
+Destaco, na mesma esteira, o precedente assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE ERIGIU O ÓBICE DA SÚMULA N. 315 DO STJ, PARA INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. QUESTÃO ACERCA DA APONTADA VIOLAÇÃO AO ART. 1.022 DO CPC QUE FOI EFETIVAMENTE ANALISADA PELO ACÓRDÃO EMBARGADO. ÓBICE AFASTADO. AUSÊNCIA, NO ENTANTO, DE DEMONSTRAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DISSIDÊNCIA DE TESES JURÍDICAS. CASUÍSMO. ANÁLISE DE NORMA CONSTITUCIONAL. VIA IMPRÓPRIA. AGRAVO INTERNO PARCIALMENTE PROVIDO, PARA AFASTAR A INCIDÊNCIA DA SÚMULA N. 315 DO STJ, MAS MANTIDO O INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA POR FUNDAMENTAÇÃO DIVERSA.
+ ..
+4. A controvérsia foi resolvida com base em interpretação e aplicação de legislação infraconstitucional, sendo descabida, na via do recurso especial ou dos embargos de divergência, a análise de eventual ofensa a preceito constitucional, ainda que para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal, estabelecida no art. 102, inciso III, da Constituição Federal. Precedentes.
+ ..
+(AgInt nos EAREsp n. 1.902.364/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, j. 22.8.2023, DJe 30.8.2023 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
