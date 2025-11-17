@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo de RENAN GRILLER DOS SANTOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Revisão Criminal n. 5068526-50.2025.8.21.7000.
+Consta dos autos que o agravante foi condenado à pena de 12 anos de reclusão, no regime inicial fechado, pela prática do crime de homicídio qualificado (art. 121, § 2º, IV, do Código Penal - CP). Após, houve o trânsito em julgado da condenação.
+A defesa ajuizou revisão criminal, que foi julgada improcedente (fl. 107). O acórdão ficou assim ementado:
+"REVISÃO CRIMINAL. JÚRI. CONDENAÇÃO POR HOMICÍDIO QUALIFICADO. NULIDADE DO TRÂMITE PROCESSUAL A PARTIR DO JULGAMENTO PELO TRIBUNAL DO JÚRI. REJEITADA.
+Admite-se a revisão criminal dos processos findos apenas nos casos taxativamente previstos nos incisos do art. 621 do CPP. Caso a situação descrita na ação revisional não se encaixe em alguma das hipóteses legais que a autorizam, o seu não conhecimento é medida que se impõe
+. 5º, "b", do CPP). Não há necessidade de nova intimação pessoal ou de advertência expressa sobre o início do prazo legal. No caso concreto, o requerente foi apresentado no final da sessão plenária, tanto que assinou o termo de encerramento da solenidade, de modo que ficou desde logo intimado da sentença condenatória. Nulidade não verificada.
+2. AUSÊNCIA DE INTIMAÇÃO DO REQUERENTE DA DESISTÊNCIA DA DEFENSORIA PÚBLICA DO RECURSO INTERPOSTO. PREJUÍZO NÃO DEMONSTRADO. Ao final da sessão de julgamento, a Defensoria Pública interpôs recurso de apelação, com fundamento no art. 593, III, "c", do CPP. Conforme entendimento consolidado na Súmula nº 713 do STF, "o efeito devolutivo da apelação contra decisões do júri é adstrito aos fundamentos da sua interposição". No caso concreto, como a pena do requerente foi apresentado o mínimo legal e o único fundamento da interposição do recurso pelo A Defensoria Pública refere-se apenas ao apenamento fixado (erro ou injustiça no tocante à aplicação da pena), não se verifica nenhum prejuízo decorrente da desistência do recurso (art. 563 do CPP), incidindo na hipótese do princípio da disponibilidade recursal. REVISÃO CRIMINAL IMPROCEDENTE." (fls. 108/109).
+Na sede de recurso especial (fls. 112/118), a defesa apontou violação aos arts. 357, I e II, 360 e 564, III, "o", todos do Código de Processo Penal, sustentando, em síntese, nulidade em razão da ausência de intimação pessoal do réu preso acerca da sentença condenatória e nulidade devido à desistência recursal pela Defensoria Pública, sem a anuência do acusado.
+Contrarrazões da parte recorrida às fls. 119/140.
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 283 do Supremo Tribunal Federal (fls. 141/144).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 147/152).
+Contraminuta do Ministério Público (fls. 153/154).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do recurso (fls. 172/174).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Acerca da pretensão recursal, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL consignou o seguinte (fls. 106/107):
+"Acrescento que, nos termos do art. 798, § 5º, "b", do CPP, "salvo os casos expressos, os prazos correrão (..) da audiência ou sessão em que for proferida a decisão, se a ela estiver presente a parte".
+E, nesse sentido, o E. STJ consolidou o entendimento de que, nos processos de competência do Tribunal do Júri, a leitura da sentença ao final da sessão de julgamento em plenário consubstancia a publicação da decisão, estando as partes presentes pessoalmente intimadas da sentença no próprio ato, não sendo necessária a intimação pessoal ou a advertência expressa acerca do início do prazo legal:
+ ..
+Assim, estando o requerente presente até o final da sessão plenária, tanto que na ocasião assinou o termo de encerramento da solenidade (evento 246, ATAJURI2, fl. 6, da ação penal ), não há que se falar em ausência de intimação de RENAN da sentença penal condenatória.
+Também não se verifica nulidade pela ausência de intimação do requerente quanto à desistência do recurso pela Defensoria Pública. No ponto, reporto-me ao parecer da Procuradoria de Justiça ( evento 26, PARECER1):
+"No que se refere à falta de anuência do réu à desistência do recurso pela Defensoria Pública, igualmente não prospera a inconformidade ventilada na revisional.
+Observa-se que, intimada a DPE para apresentar razões recursais (o recurso havia sido interposto em Plenário), o Defensor Público observou que a pena resultou definitiva no mínimo legal, razão pela qual não seria viável debatê-la na via recursal. Em decorrência, peticionou a desistência do recurso (vide p. 61 - Evento 1 - COMP2).
+Com efeito, a pena definitiva não comporta redução, ausente causas de diminuição na terceira fase da dosimetria, de sorte que o recurso se mostraria inviável e a desistência não acarreta nenhum prejuízo ao réu. Além disso, prevalece a posição externada pela defesa técnica.
+Em acréscimo, ressalta-se que o Supremo Tribunal Federal exige, até mesmo para a identificação das nulidades absolutas, prova do prejuízo concreto (art. 563 do CPP). No mesmo norte: HC 194437 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 19/04/2021, PROCESSO ELETRÔNICO D Je-078, DIVULG 26-04-2021, PUBLIC 27-04-2021; HC 173789 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 06/03/2020, PROCESSO ELETRÔNICO D Je-081, DIVULG 01-04-2020, PUBLIC 02-04-2020".
+Por essas razões, os pedidos defensivos não merecem prosperar, não se vislumbrando a nulidade suscitada.
+Por fim, tratando-se a revisão criminal de ação originária deste Tribunal de Justiça, considerando que o requerente está assistido por advogada particular e inexistindo nos autos qualquer documento ou declaração de hipossuficiência, condeno-o ao pagamento das custas processuais, na forma do art. 13 da Lei nº 14.634/2014."
+Conforme entendimento desta Corte, nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam a acusação e a defesa intimadas pessoalmente nesse momento.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. TRIBUNAL DO JÚRI. SENTENÇA CONDENATÓRIA. INTIMAÇÃO DAS PARTES EM PLENÁRIO. INÍCIO DA CONTAGEM DO PRAZO RECURSAL TANTO DO MINISTÉRIO PÚBLICO QUANTO DA DEFENSORIA. REMESSA DOS AUTOS À INSTITUIÇÃO. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Este Superior Tribunal de Justiça "possui o entendimento de que, nos termos do art. 798, §5º, "b", do CPP, nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam as partes intimadas pessoalmente nesse momento, oportunidade em que se inicia o prazo para eventual recurso, sendo desnecessária a remessa dos autos à Defensoria Pública" (AgRg no HC n. 763.616/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.).
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 960.623/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. LEITURA DA SENTENÇA AO FINAL DA SESSÃO DE JULGAMENTO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO RÉU. PRESENÇA DAS PARTES NA SESSÃO DE JULGAMENTO. ART. 798, § 5º, "B", DO CPP. AUSÊNCIA DE NULIDADE. DISCORDÂNCIA DA ATUAL DEFESA COM O ANTIGO DEFENSOR. INEXISTÊNCIA DE DEFICIÊNCIA DE DEFESA. QUESITAÇÃO EM HARMONIA COM OS FATOS DA PRONÚNCIA. ART. 482 DO CPP. AUSÊNCIA DE NULIDADE.
+1. O Superior Tribunal de Justiça possui entendimento de que, nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam as partes intimadas pessoalmente nesse momento, oportunidade em que se inicia o prazo para eventual recurso, consoante dispõe o art. 798, § 5º, "b", do CPP. Precedentes.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.001.505/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+Do mesmo modo, o Defensor Público possui a garantia da independência funcional, o que significa que cabe a ele avaliar as medidas judiciais ou extrajudiciais cabíveis para a defesa do assistido, não havendo falar em nulidade.
+A propósito:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO E FURTO QUALIFICADO. DECISÃO DE PRONÚNCIA. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO PELA DEFENSORIA PÚBLICA. PEDIDO DE DESISTÊNCIA DO RECURSO. RÉU FORAGIDO. ESTRATÉGIA DE DEFESA. PREJUÍZO INEXISTENTE. AUSÊNCIA DE CERCEAMENTO DE DEFESA. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Embora prudente a manifestação do paciente para fins de desistência do recurso, contudo, a presente questão mostra-se excepcional, porquanto, além do paciente encontrar-se foragido ao tempo do fato, o Defensor Público, por meio da independência funcional que lhe é assegurada no art. 127, I, da Lei Complementar 80/94, pode adotar a estratégia de defesa que entender mais adequada em benefício do assistido, sem que isso importe em nulidade.
+ ..
+(HC n. 364.438/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 6/10/2016, DJe de 10/11/2016.)
+Ademais, trata-se de revisão criminal, meio extraordinário de impugnação à condenação com trânsito em julgado, a qual exige a incidência de uma das hipóteses previstas no art. 621 do CPP, não sendo, portanto, via adequada para insatisfação com a decisão condenatória.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
