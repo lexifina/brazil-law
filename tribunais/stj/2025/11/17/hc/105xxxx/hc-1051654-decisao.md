@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SIDNEY GUIMARAES GIANNELLI JUNIOR - preso preventivamente e denunciado pela prática, em tese, dos crimes de roubo majorado e extorsão majorada (Processo n. 1500989-65.2025.8.26.0127) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem na parte conhecida do HC n. 2333675-70.2025.8.26.0000.
+Com efeito, busca o impetrante a revogação da prisão cautelar imposta pelo Juízo da 1ª Vara Criminal da comarca de Carapicuíba/SP, ao argumento de constrangimento ilegal em razão da ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva e do excesso de prazo na formação da culpa. Aduz que o paciente está custodiado há mais de 6 meses e a próxima audiência foi designada para o mês fevereiro de 2026. Subsidiariamente, pede a imposição de medidas cautelares alternativas à prisão.
+Os autos vieram a mim conclusos por prevenção do HC n. 1.016.010/SP, dentre outros.
+É o relatório.
+Inicialmente, nota-se que a matéria aqui suscitada sobre os fundamentos da prisão preventiva é a mesma tratada no HC n. 1.016.010/SP, o qual deneguei a ordem em 7/8/2025.
+Ademais, há identidade de partes, de objeto e de causa de pedir, impugnando os dois feitos a mesma situação processual nessa parte.
+Inadmissível, portanto, a presente insurgência, visto que não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte (AgRg no HC n. 286.354/AC, Ministra Laurita Vaz, Quinta Turma, DJe 23/5/2014). Nesse sentido: AgRg no HC n. 938.478/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN de 5/3/2025; e AgRg no HC n. 948.908/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/11/2024.
+Por outro lado, em relação ao excesso de prazo na formação da culpa, as instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em relaxamento da prisão preventiva imposta ao paciente.
+O Juízo de primeiro grau manteve a segregação preventiva com base nos seguintes fundamentos (fl. 57 - grifo nosso):
+ ..
+No tocante à alegação de excesso de prazo, esta não confere com a realidade dos autos.
+Cumpre ressaltar que a ação penal encontra-se em boa marcha processual, estando já com nova audiência designada para o dia 25 de fevereiro de 2026, às 9h, oportunidade em que poderá ocorrer o encerramento da instrução processual.
+Ademais, de acordo com o Supremo Tribunal Federal e o Superior Tribunal de Justiça, o excesso de prazo somente se configura quando a demora na prestação jurisdicional for incompatível com o princípio da razoabilidade, ou quando resulte de inércia do Poder Judiciário, o que não se verifica no presente caso.
+Enfatiza-se, ainda, que o excesso não deve ser fundado na simples soma aritmética dos prazos processuais, mas sim em cada caso concreto, como bem fundamentou o ilustre representante do Ministério Público em seu parecer de fls. 23/25.
+Resta claro, ainda, que as medidas cautelares alternativas à prisão preventiva (art. 319 do CPP) não se mostram suficientes, adequadas e proporcionais à gravidade do fato em tese praticado e à periculosidade de denunciado.
+O acórdão impugnado, ao analisar o excesso de prazo, confirmou a decisão do Juízo singular, entendendo-a corretamente motivada, nestes termos (fls. 23/24 - grifo nosso):
+ ..
+Quanto ao alegado excesso de prazo na formação da culpa, observa-se que o feito vem se desenrolando normalmente e que a necessidade de continuidade da audiência de instrução é percalço pontual, além de ser corriqueiro em feitos complexos que envolvem vários réus e testemunhas.
+ ..
+Assim, no caso específico, a marcha processual não sofreu atraso injustificável. Não se constata nenhuma desídia por parte do d. juízo a quo que possa ter ocasionado retardamento da ação penal e o processo teve, até o momento, os seus atos realizados em tempo razoável dentro das peculiares do caso concreto.
+Nesse quadro, conforme já ponderou o Primeiro Grau, tem-se que a análise de excesso de prazo na formação da culpa deve ser realizada com base nos princípios da proporcionalidade e razoabilidade e não em cálculos aritméticos, pois as peculiaridades de cada caso podem conduzir a instrução a lapso superior ao determinado em lei, sem, contudo, ensejar ilegalidade.
+Em relação ao alegado excesso de prazo, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, de modo que o constrangimento deve ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário. Precedentes (AgRg no HC n. 786.537/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 8/3/2024).
+Com efeito, a prisão cautelar não possui prazo determinado por lei, devendo sua manutenção obedecer a critérios fático-processuais de cada caso, não se aplicando um critério matemático para reconhecimento de ilegalidade por excesso de prazo (AgRg no RHC n. 204.509/BA, Ministro Og Fernandes, Sexta Turma, DJEN 18/2/2025).
+Na espécie, não há situação incompatível com o princípio da razoável duração do processo. Não há notícia de ato procrastinatório por parte das autoridades públicas, não está demonstrada a desídia estatal, trata-se de feito complexo, envolvendo vários réus, apurando a prática de dois crimes e demandando, por certo, diversas diligências, mas que tramita de forma regular, inclusive com audiência de instrução e julgamento designada para o dia 25/2/2026 (fl. 57).
+Nesse contexto, tenho que não ficou demonstrada a existência de ilegalidade a justificar a concessão da ordem neste momento.
+Diante do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO MAJORADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. ANTERIOR AJUIZAMENTO DO HC N. 1.016.010/SP, COM A MESMA CAUSA DE PEDIR, AINDA QUE O ATO COATOR SEJA DIVERSO. REITERAÇÃO DE PEDIDO. DESCABIMENTO. EXCESSO DE PRAZO. AUSÊNCIA DE ATO PROCRASTINATÓRIO POR PARTE DAS AUTORIDADES PÚBLICAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRECEDENTES.
+Inicial indeferida liminarmente.
