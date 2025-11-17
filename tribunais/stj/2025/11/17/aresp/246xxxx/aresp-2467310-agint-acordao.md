@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. IMPUGNAÇÃO EXTEMPORÂNEA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 932, III, do Código de Processo Civil (CPC) e 253, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+3. A impugnação tardia de fundamentos do acórdão recorrido, apresentada apenas nas razões do agravo interno, caracteriza indevida inovação recursal e, por força da preclusão consumativa, dela não se pode conhecer.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMERCIO DE CALCADOS ADR45 LTDA da decisão da decisão em que não conheci de seu agravo porque a decisão de admissibilidade do recurso especial não havia sido integralmente refutada (fls. 407/410).
+A parte agravante afirma ter impugnado os fundamentos da decisão de admissibilidade, no que se refere à aplicação da Súmula 283 do Supremo Tribunal Federal (STF), e refuta a aplicação da Súmula 7 do STJ.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (fls. 418/420).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO. IMPUGNAÇÃO EXTEMPORÂNEA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PROVIMENTO NEGADO.
+1. Para que o Superior Tribunal de Justiça (STJ) examine o recurso especial interposto, porém não admitido, é dever da parte recorrente, em seu agravo em recurso especial, desconstituir os fundamentos da decisão de admissibilidade, a qual não é formada por capítulos autônomos, mas por um único dispositivo.
+2. A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 932, III, do Código de Processo Civil (CPC) e 253, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+3. A impugnação tardia de fundamentos do acórdão recorrido, apresentada apenas nas razões do agravo interno, caracteriza indevida inovação recursal e, por força da preclusão consumativa, dela não se pode conhecer.
+4. Agravo interno a que se nega provimento.
+VOTO
+O recurso especial foi interposto do acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 230/233):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. EXECUÇÃO FISCAL. 1. INSURGÊNCIA DA FAZENDA PÚBLICA CONTRA DECISÃO QUE RECONHECEU A OCORRÊNCIA DA PRESCRIÇÃO. ACOLHIMENTO DO INCONFORMISMO. SISTEMÁTICA PARA CONTAGEM DA PRESCRIÇÃO INTERCORRENTE DEFINIDA PELO STJ NO RESP N.º 1.340.553/RS. FAZENDA PÚBLICA QUE TEVE CIÊNCIA ACERCA DA NÃO LOCALIZAÇÃO DA EMPRESA DEVEDORA EM 23/10/2012. INÍCIO DO PRAZO DE SUSPENSÃO DE 01 (UM) ANO NESTA DATA. REDIRECIONAMENTO DA EXECUÇÃO. CITAÇÃO DOS SÓCIOS EFETIVADA APÓS O FIM DO LAPSO PRESCRICIONAL QUE, TODAVIA, RETROAGE À DATA DO REQUERIMENTO FRUTÍFERO FEITO TEMPESTIVAMENTE, NOS TERMOS DO ENTENDIMENTO FIRMADO NO REPETITIVO RESP N.º 1.340.553/RS. EXEQUENTE QUE FOI DILIGENTE NA PERSECUÇÃO DOS CRÉDITOS TRIBUTÁRIOS. DEMAIS PEDIDOS PREJUDICADOS. SENTENÇA CASSADA. RECURSO CONHECIDO E PROVIDO. REMESSA NECESSÁRIA PREJUDICADA.
+A fim de que este Tribunal examine o recurso especial interposto, contudo inadmitido, é dever da parte interessada, nas razões de seu agravo em recurso especial, rebater os fundamentos da decisão de admissibilidade, apresentando argumentos suficientes para demonstrar o desacerto da decisão agravada.
+A falta de efetivo combate de um dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 932, III, do Código de Processo Civil e 253, I, do Regimento Interno do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No presente caso, não conheci do agravo por não ter sido adequadamente refutada a aplicação das Súmulas 283 do STF e 7 do STJ.
+Com efeito, o trancamento do apelo esteve fundado na ausência de impugnação ao argumento de que "houve o comparecimento espontâneo da executada, o que supre qualquer manifestação de nulidade do ato citatório" (fl. 325), e na necessidade de regresso ao acervo probatório para a "verificação das seguintes questões: a) efetiva ciência inequívoca da Fazenda Pública acerca da frustração da primeira diligência voltada à localização de bens penhoráveis; b) responsabilidade pela demora na tramitação do processo ou sua paralisação indevida; c) correção dos cálculos efetuados pelo Órgão Julgador para a verificação do atendimento dos prazos do artigo 40 da LEF" (fl. 326).
+Todavia, em seu agravo em recurso especial, a recorrente sustenta (fls. 322/326):
+ ..
+10. A decisão agravada inadmitiu o recurso especial da agravante por entender que ele não teria refutado o acórdão recorrido em relação à nulidade da citação.
+11. Sem razão a decisão agravada.
+12. A agravante combateu tal fundamento em diversas passagens do apelo especial, quando discorre sobre a contagem do prazo prescricional. Ora, se a agravante afirma que o acórdão recorrido não observou a contagem do prazo prescricional previsto no Tema 566 é porque refuta o argumento do referido acórdão de que houve citação válida. Explica-se.
+13. A decisão de primeiro grau reconheceu que não houve citação válida, considerando as orientações do STJ no Tema 566. O acórdão recorrido afirma o contrário. Se a agravante aduz que o acórdão recorrido não está de acordo com o entendimento do STJ exarado no Tema 566, está, obviamente, refutando a alegação do acórdão recorrido de que houve a citação válida.
+ ..
+17. Em relação ao suposto óbice decorrente da Súmula nº 7, importante frisar que a questão suscitada é eminentemente jurídica e não fática! O ponto em debate - reconhecimento da prescrição intercorrente por inexistência de citação válida - refere-se à violação ao art. 40, caput, §§ 1º ao 4º da Lei nº 6.830/90 e ao que decidido pelo STJ no Tema 566 dos Recursos Repetitivos.
+18. Não há que se falar em revolvimento fático, pois, para o deslinde da controvérsia, basta averiguar o conteúdo da decisão do STJ no Tema 566 em relação à contagem do prazo prescricional e verificar se tal metodologia foi aplicada ao caso concreto. O que se exige do julgador, no caso, é somente o reenquadramento jurídico das circunstâncias fáticas, isto é, dos marcos temporais já indicados no acórdão recorrido.
+19. E tal análise constitui mera revaloração jurídica dos fatos, conforme
+precedentes desse E. STJ nesse sentido:
+ ..
+Em nova análise do agravo em recurso especial, constato que a parte agravante efetivamente não rebateu como deveria a decisão de admissibilidade porque: a) assevera ter refutado a validade da citação, contudo se apoia em excertos que se remetem à citação da empresa e ao período anterior à citação dos sócios, deixando de contestar a ausência de nulidade a que se refere a decisão de trancamento, relacionada à citação dos sócios; b) não rebate os argumentos veiculados na decisão de inadmissibilidade no que concerne à Súmula 7 do STJ , de modo a demonstrar o desacerto do entendimento adotado pelo Colegiado estadual e, portanto, a desnecessidade de reexame da prova. Limita-se a aduzir a natureza jurídica da controvérsia relativa à prescrição, sem considerar que a matéria devolvida a este Tribunal Superior diz respeito à "responsabilidade pela demora na tramitação processual" (fl. 326)
+A propósito, cito este precedente da Corte Especial deste Tribunal:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Por fim, observo que a impugnação dos fundamentos da decisão de admissibilidade do recurso especial, apresentada tão somente nas razões do agravo interno interposto da decisão desta Corte Superior que não conheceu do agravo em recurso especial, além de caracterizar inovação recursal, não afasta a aplicação da Súmula 182/STJ, devido à ocorrência de preclusão consumativa.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO PROVIDO. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+ ..
+3. A imp ugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação no recurso, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.587.824/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/3/2020, DJe de 26/3/2020.)
+PROCESSUAL CIVIL. DIREITO PÚBLICO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AREsp n. 888.241/ES, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, DJe 19/4/2017; AgInt no AREsp n. 1.036.445/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, DJe 17/4/2017; AgInt no AREsp n. 1.006.712/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.468.938/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2019, DJe de 13/12/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
