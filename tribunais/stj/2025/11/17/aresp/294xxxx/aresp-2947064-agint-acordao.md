@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: i) ausência de violação do art. 1.022 do CPC; ii) reconhecimento de necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5 e 7, ambas do STJ).
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por GEAP AUTOGESTÃO EM SAÚDE, contra decisão que não conheceu do agravo em recurso especial..
+Ação: de obrigação de fazer c/c compensação por danos morais, ajuizada por JOSE ANTONIO DOS SANTOS MOREIRA, em face da agravante, na qual requer a continuidade do atendimento em home care e a compensação por danos morais de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. INTERNAÇÃO DOMICILIAR INTEGRAL MANTIDA POR QUASE 3 ANOS. HOME CARE. PACIENTE COM DIAGNÓSTICO DE MAL DE ALZHEIMER AVANÇADO. RECLASSIFICAÇÃO DO PACIENTE. TABELA DE ABEMID. ALTERAÇÃO DO REGIME DE HORAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE ALTERAÇÃO FÁTICA DO QUADRO CLÍNICO DO AUTOR. SURRECTIO . PRINCÍPIO DA BOA-FÉ OBJETIVA. DANOS MORAIS CONFIGURADOS. RECURSO CONHECIDO. REJEITADA A PRELIMINAR. IMPROVIDO.
+1. Apelação cível interposta contra a sentença que julgou procedentes os pedidos da inicial para condenar a parte requerida a dar continuidade ao atendimento de home care à parte autora, por meio de cobertura integral (24 horas) e 7 (sete) dias por semana. Além disso, o magistrado de origem ainda condenou a parte requerida a pagar R$ 5.000,00 a título de danos morais.
+2. É cediço a vigência no nosso ordenamento jurídico do princípio do livre convencimento motivado (ou princípio da persuasão racional) insculpido no art. 371, do CPC, sendo o juiz o destinatário final de todas as provas produzidas no processo.
+3. No caso em epígrafe, o d. juízo a quo entendeu que o acervo documental coligido nos autos era suficiente para promover a reconstrução fática do ocorrido, reconhecendo que o feito se encontrava maduro e apto para julgamento. De fato, não se vislumbra necessidade de perícia, uma vez que as provas documentais trazidas aos autos, quais sejam, os relatórios médicos, são suficientes para demonstrar a necessidade de internação domiciliar integral da parte autora nos moldes prescritos pelo seu médico, razão pela qual rejeito a preliminar de cerceamento de defesa sustentada pela apelante.
+4. Restou demonstrado, através do acervo probatório presente nos autos, que houve alteração unilateral do tratamento domiciliar sem nenhum tipo de melhora no quadro clínico do autor, que sofre com Mal de Alzheimer avançado, com uso de gastrotomia, respirando espontaneamente com suporte de O2 e CN intermitente, sendo patente a necessidade de assistência domiciliar integral. Além disso, importante registrar que o juízo de origem corretamente utilizou como argumento para manter o home care integral o instituto da surrectio, uma vez que o plano de saúde ofertou por quase 3 anos consecutivos o serviço de home care 24 horas por dia, 7 dias por semana. Tal cenário criou uma legítima expectativa no autor de que tal serviço seria mantido na pendência de seu quadro clínico, o que, repisa-se, tem apresentado piora com o passar do tempo. Caso houvesse uma mudança no serviço de home care sem qualquer tipo de alteração no seu quadro clínico, restaria evidenciada uma afronta direta ao princípio da boa-fé objetiva. Preliminar rejeitada.
+5. No que diz respeito ao suposto caráter taxativo do rol de procedimentos e eventos da ANS, reitero que o referido rol indicado pela Agência Reguladora tem natureza meramente exemplificativa, ou seja, o fato de o procedimento/exame médico indicado não constar na lista não significa que a administradora do plano não tenha obrigação de custeá-lo, devendo observar a indicação médica, com a finalidade de preservar a vida do paciente. Sobre o direito aplicável à espécie, a cobertura para tratamento em home care tem sido concedida, ainda que o contrato de plano de saúde o exclua das coberturas oferecidas quando o método for o mais indicado ao estado clínico do paciente, substituindo a internação hospitalar.
+6. O fato atinge a esfera subjetiva da parte autora, uma vez que viu negado seu direito de receber o tratamento para sua enfermidade, nos moldes da prescrição médica. Dessa feita, não se tratando de mero inadimplemento contratual, mas de efetivo ato legalmente obstado, resta clara a responsabilidade e necessidade de reparação moral. 7. Recurso de Apelação conhecido. Rejeitada a preliminar. Desprovido. (e-STJ fls. 532-534)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que impugnou especificamente os fundamentos de inadmissibilidade, notadamente a ausência de violação ao art. 1.022 e a incidência das Súmulas 5 e 7 do STJ, sustentando a possibilidade de valoração jurídica das provas.
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: i) ausência de violação do art. 1.022 do CPC; ii) reconhecimento de necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5 e 7, ambas do STJ).
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TJDFT:
+i) ausência de violação do art. 1.022 do CPC;
+ii) reconhecimento de necessidade de interpretação de cláusulas contratuais e reexame de contexto fático-probatório (Súmulas 5 e 7, ambas do STJ).
+- Da ausência de violação do art. 1.022 do CPC
+Nas razões do agravo em recurso especial, a parte agravante deixou de combater o fundamento referente à ausência de violação do art. 1.022 do CPC, tendo em vista que não demonstrou, de maneira clara e específica, a existência de omissão, obscuridade, contradição ou erro material no acórdão proferido pelo Tribunal de origem.
+Nesse sentido: AgInt no AREsp 2.183.105/MG, Quarta Turma, DJe de 7/12/2023 e AgInt no AREsp n. 1.996.859/SP, Terceira Turma, DJe de 4/5/2022.
+- Do reexame de contexto fático-probatório (Súmula 7 do STJ)
+Da análise das razões do agravo em recurso especial, verifica-se que a parte agravante não impugnou a incidência da Súmula 7/STJ de forma consistente, limitando-se a alegar genericamente que pretendia a aplicação do direito à hipótese, sem demonstrar a desnecessidade do revolvimento de fatos e provas.
+Nesse sentido, confira-se: AgInt no AREsp 2.441.269/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no AREsp 2.326.551/GO, Quarta Turma, DJe de 21/12/2023.
+- Do reconhecimento da necessidade de interpretação de cláusulas contratuais (Súmula 5 do STJ)
+Nota-se, a partir da leitura do agravo em recurso especial, que a parte agravante não conseguiu infirmar a incidência da Súmula 5/STJ, pois não demonstrou que a análise do recurso especial prescinde da interpretação das cláusulas do contrato objeto do recurso. Nesse sentido: AgInt no AREsp 2.417.625/RS, Terceira Turma, DJe de 28/2/2024 e AgInt no REsp 2.041.442/RN, Quarta Turma, DJe de 28/2/2024.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
