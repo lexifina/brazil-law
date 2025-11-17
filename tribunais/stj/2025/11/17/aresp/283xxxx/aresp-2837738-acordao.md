@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE CRÉDITO DE TERCEIRO. ALEGAÇÃO DE DEPÓSITO JUDICIAL REALIZADO POR ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO CONFIGURAÇÃO. REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Inexiste violação dos arts. 489 e 1.022 do Código de Processo Civil quando o Tribunal de origem examina e decide, de forma clara, motivada e suficiente, todas as questões submetidas a sua apreciação. O mero inconformismo da parte com o resultado do julgamento não caracteriza vício na prestação jurisdicional.
+2. Mostra-se incabível em recurso especial a pretensão de alterar as conclusões do acórdão que, com fundamento nos elementos fático-probatórios constantes dos autos, reconheceu a inverossimilhança da alegação de erro nos depósitos judiciais e a ausência de prova suficiente da quitação contratual.
+3. Constitui óbice intransponível da Súmula 7 do Superior Tribunal de Justiça a necessidade de revolvimento do acervo probatório para modificar o entendimento adotado pela Corte de origem acerca da plausibilidade do equívoco alegado pelo terceiro depositante.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por RAIZEN ENERGIA S.A. (RAIZEN) contra decisão do Tribunal de Justiça de São Paulo, que inadmitiu seu recurso especial (e-STJ, fls. 214 a 215).
+A ação originária é uma execução de título extrajudicial ajuizada por BANCO RIBEIRÃO PRETO S/A (BANCO RIBEIRÃO PRETO) em face de CARLOS EDUARDO FERRAZ DE LAURENTIIS, TANIA CATIB DE LAURENTIIZ, CLEDER CORRAL PROVÊNCIO e VICÊNCIA EDNA FORNI PROVÊNCIO (CARLOS e outros).
+No curso do processo, foi deferida a penhora de créditos que CARLOS e outros possuíam com a RAIZEN, decorrentes de contratos de compra e venda de cana-de-açúcar. A RAIZEN, na qualidade de terceira, foi intimada a depositar os valores devidos em juízo. Após realizar doze depósitos, que somaram a quantia de R$ 6.514.178,18 (seis milhões, quinhentos e catorze mil, cento e setenta e oito reais e dezoito centavos), a RAIZEN alegou que os referidos depósitos ocorreram por "erro humano", pois os contratos com CARLOS e outros já estariam encerrados, e os valores seriam devidos à Massa Falida da Tonon Bioenergia S.A. em processo diverso.
+O Juízo de primeiro grau indeferiu o pedido de levantamento dos valores, por considerar "pouco crível a ideia de que o depósito de expressiva quantia tenha ocorrido por um singelo erro, destacando que doze depósitos realizados por "erro humano é de difícil aceitação".
+Inconformada, a RAIZEN interpôs agravo de instrumento, ao qual o Tribunal de Justiça de São Paulo, em acórdão da relatoria do desembargador Spencer Almeida Ferreira, negou provimento. O julgado manteve a decisão por entender que, além da inverossimilhança da alegação de erro, em cognição sumária, inexiste prova cabal da quitação do contrato entre agravante e a executada, de modo que não é possível concluir que já não devia nada (e-STJ, fls. 168 a 170).
+Foram opostos embargos de declaração (e-STJ, fls. 187 a 189), que foram rejeitados, sob o fundamento de que todos os documentos e argumentos foram analisados e, conforme consta no aresto, não há prova cabal da quitação do contrato e do erro humano cometido (e-STJ, fls. 191 a 194).
+Seguiu-se a interposição de recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, no qual a RAIZEN alegou violação dos arts. 489, § 1º, III e IV, e 1.022, II, do Código de Processo Civil. Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional, pois o Tribunal paulista não teria se manifestado sobre os documentos e argumentos que comprovariam o encerramento dos contratos e a plausibilidade do erro nos depósitos (e-STJ, fls. 174 a 183).
+O Tribunal de Justiça paulista inadmitiu o recurso, o que ensejou a interposição do presente agravo (e-STJ, fls. 219 a 227).
+O BANCO RIBEIRÃO PRETO apresentou contrarrazões ao recurso especial (e-STJ, fls. 200 a 213) e ao agravo (e-STJ, fls. 231 a 238).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE CRÉDITO DE TERCEIRO. ALEGAÇÃO DE DEPÓSITO JUDICIAL REALIZADO POR ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. NÃO CONFIGURAÇÃO. REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Inexiste violação dos arts. 489 e 1.022 do Código de Processo Civil quando o Tribunal de origem examina e decide, de forma clara, motivada e suficiente, todas as questões submetidas a sua apreciação. O mero inconformismo da parte com o resultado do julgamento não caracteriza vício na prestação jurisdicional.
+2. Mostra-se incabível em recurso especial a pretensão de alterar as conclusões do acórdão que, com fundamento nos elementos fático-probatórios constantes dos autos, reconheceu a inverossimilhança da alegação de erro nos depósitos judiciais e a ausência de prova suficiente da quitação contratual.
+3. Constitui óbice intransponível da Súmula 7 do Superior Tribunal de Justiça a necessidade de revolvimento do acervo probatório para modificar o entendimento adotado pela Corte de origem acerca da plausibilidade do equívoco alegado pelo terceiro depositante.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O recurso não merece prosperar.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida. CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não comporta conhecimento.
+No recurso especial interposto com fundamento no art. 105, III, a, da CF, RAIZEN ENERGIA S.A. (RAIZEN) apontou violação dos arts. 489, § 1º, III e IV, e 1.022, II, do CPC/2015, alegando negativa de prestação jurisdicional, pois o acórdão recorrido teria sido omisso quanto a análise de argumentos e documentos capazes de infirmar a conclusão adotada, notadamente aqueles que comprovariam o encerramento dos contratos com CARLOS e outros e a plausibilidade do erro nos depósitos judiciais.
+(1) Da alegada violação dos arts. 489 e 1.022 do CPC
+De início, afasta-se a alegada ofensa aos dispositivos processuais mencionados.
+O Tribunal de Justiça de São Paulo manifestou-se, de forma clara e fundamentada, a respeito da controvérsia, expondo as razões que o levaram a manter a decisão que indeferiu o pedido de levantamento dos valores depositados.
+O acórdão recorrido consignou expressamente que:
+Como bem fundamentado pelo juízo singular, pouco crível que a empresa recorrente tenha se equivocado, sobretudo levando-se em conta o valor significativo (cerca de um milhão de reais por mês) durante tanto tempo (seis meses). Além disso, em cognição sumária, inexiste prova cabal da quitação do contrato entre agravante e a executada, de modo que não é possível concluir que já não devia nada (e-STJ, fls. 168 a 170).
+Ao julgar os embargos de declaração, o Tribunal paulista reforçou seu posicionamento, afirmando que omissão alguma ocorreu no acórdão embargado, sendo que todos os documentos e argumentos foram analisados e, conforme consta no aresto, não há prova cabal da quitação do contrato e do erro humano cometido (e-STJ, fls. 191 a 194).
+Dessa forma, o que se observa não é a ausência de fundamentação, mas o inconformismo da RAIZEN com o resultado do julgamento, que lhe foi desfavorável.
+Nessas condições, a prestação jurisdicional foi entregue de modo completo, não havendo que se falar em omissão ou em decisão genérica.
+(2) Da impossibilidade de reexame de fatos e provas
+A pretensão da RAIZEN de ver reconhecida a plausibilidade do erro nos depósitos e, por consequência, a quitação dos contratos com CARLOS e outros, demandaria, de forma inevitável, o reexame do conjunto fático-probatório dos autos.
+O Tribunal paulista, soberano na análise das provas, concluiu, com base nos elementos apresentados, pela inverossimilhança da tese da RAIZEN e pela ausência de prova suficiente para ampará-la.
+Desta feita, modificar essa conclusão, para entender que os depósitos foram, de fato, equivocados e que não havia mais débito com CARLOS e outros, exigiria uma nova valoração das provas e das circunstâncias fáticas que envolveram os depósitos, providência vedada em recurso especial, conforme o óbice da Súmula 7 desta Corte.
+A própria e xpressão utilizada no acórdão, inexiste prova cabal, evidencia que a controvérsia foi decidida no campo probatório, cujo reexame é incabível nesta instância extraordinária.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+É o voto.
