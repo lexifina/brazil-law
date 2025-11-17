@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REJEIÇÃO. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A jurisprudência firmada pela Corte Especial do Superior Tribunal de Justiça reconhece que o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+2. Agravo conhecido para conhecer do recurso especial e dar provimento.
+RELATÓRIO
+Trata-se de agravo interposto por FINOCCHIO E USTRA SOCIEDADE DE ADVOGADOS contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO Incidente de desconsideração da personalidade jurídica - Decisão que rejeitou o incidente e deixou de arbitrar os honorários advocatícios Recurso da parte requerente Pedido para arbitramento de verba honorária Impossibilidade Ausência de previsão normativa Conforme entendimento do STJ e desta Colenda Câmara, não é cabível a condenação de honorários em incidente processual, resguardados os casos excepcionais, por falta de previsão legal Decisão mantida Recurso não provido" (e-STJ fls. 25).
+Os embargos de declaração foram rejeitados (e-STJ fls. 102-109).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do artigo 85, § 2º, inciso IV do Código de Processo Civil, pois, tendo sido julgado improcedente o pedido de desconsideração da personalidade jurídica, deveria ter sido condenada a parte exequente, ora recorrida, ao pagamento de honorários advocatícios sucumbenciais.
+Apresentadas contrarrazões (e-STJ fls. 113-122), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REJEIÇÃO. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. A jurisprudência firmada pela Corte Especial do Superior Tribunal de Justiça reconhece que o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+2. Agravo conhecido para conhecer do recurso especial e dar provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+No que diz respeito à possibilidade de condenação em honorários advocatícios quando julgado improcedente pedido de desconsideração da personalidade jurídica, a Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp nº 1.925.959/SP, adotou orientação no sentido de que:
+"Ao fim e ao cabo, o que se busca com a instauração do incidente é a formação de um litisconsórcio, com ampliação subjetiva da lide, para que no polo passivo da relação jurídica litigiosa passem a figurar terceiros, que assim são considerados até o momento em que são regularmente cientificados da intenção de virem a ser incluídos na lide como responsáveis por dívidas que não contraíram, como bem enfatizou a Ministra Nancy Andrighi.
+Tal pretensão pode ser exercitada na petição inicial, conforme faculdade conferida pelo art. 134, § 2º, do CPC/2015, ou em outras fases do processo, sendo mais comum a hipótese em que o pedido de desconsideração é formulado já na fase de cumprimento de sentença ou na própria execução.
+Sob esse prisma, e considerando a efetiva existência de uma pretensão resistida, manifestada contra terceiro(s) que até então não figurava (m) como parte, penso que a improcedência do pedido formulado no incidente, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide - situação que se equipara à sua exclusão quando indicado desde o princípio para integrar a relação processual -, mesmo que sem a ampliação do objeto litigioso, dará ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo, como vem entendendo a doutrina" (grifos no original).
+Eis a ementa do referido acórdão:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NATUREZA JURÍDICA DE DEMANDA INCIDENTAL. LITIGIOSIDADE. EXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. IMPROCEDÊNCIA DO PEDIDO. FIXAÇÃO. CABIMENTO. 1. O fator determinante para a condenação ao pagamento de honorários advocatícios não pode ser estabelecido a partir de critérios meramente procedimentais, devendo ser observado o êxito obtido pelo advogado mediante o trabalho desenvolvido. 2. O CPC de 2015 superou o dogma da unicidade de julgamento, prevendo expressamente as decisões de resolução parcial do mérito, sendo consequência natural a fixação de honorários de sucumbência. 3. Apesar da denominação utilizada pelo legislador, o procedimento de desconsideração da personalidade jurídico tem natureza jurídica de demanda incidental, com partes, causa de pedir e pedido. 4. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo. 5. Recurso especial conhecido e não provido".
+(REsp 1.925.959/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, Relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 12/9/2023, DJe de 22/9/2023 - grifou-se).
+Dessa forma, considerando a atual orientação do Superior Tribunal de Justiça quanto ao cabimento de condenação em honorários advocatícios quando o pedido de desconsideração da personalidade jurídica é julgado improcedente, hipótese dos autos (e-STJ fl. 28), o recurso especial merece provimento.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. REJEIÇÃO DO INCIDENTE. HONORÁRIOS SUCUMBENCIAIS. CABIMENTO. PRECEDENTE DA CORTE ESPECIAL DO STJ - RESP 2.072.206/SP. AGRAVO DESPROVIDO.
+1. A Corte Especial do STJ firmou o entendimento, por maioria, de que "o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo" (REsp 2.072.206/SP, Relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 13/2/2025, DJEN de 12/3/2025). Ressalva de entendimento deste Relator.
+2. Na espécie, o acórdão recorrido indeferiu o pedido de fixação de honorários sucumbenciais decorrentes da improcedência do pedido de desconsideração da personalidade jurídica, devendo, por conseguinte, ser reformado.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 2.201.994/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/9/2025, DJEN de 8/9/2025)
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REJEIÇÃO. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. O fator determinante para a condenação ao pagamento de honorários advocatícios não pode ser estabelecido a partir de critérios meramente procedimentais, devendo ser observado o êxito obtido pelo advogado mediante o trabalho desenvolvido.
+2. O CPC de 2015 superou o dogma da unicidade de julgamento, prevendo expressamente as decisões de resolução parcial do mérito, sendo consequência natural a fixação de honorários de sucumbência.
+3. Apesar da denominação utilizada pelo legislador, o procedimento de desconsideração da personalidade jurídico tem natureza jurídica de demanda incidental, com partes, causa de pedir e pedido.
+4. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+5. Agravo conhecido para dar provimento ao recurso especial."
+(AREsp n. 2.818.684/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/6/2025, DJEN de 7/7/2025)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e condenar a parte ora recorrida ao pagamento de honorários sucumbenciais em favor do patrono da ora recorrente , a serem fixados pela instância ordinária.
+É o voto.
