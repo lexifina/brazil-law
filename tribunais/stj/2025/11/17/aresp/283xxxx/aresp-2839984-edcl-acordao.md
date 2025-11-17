@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por BIMEDA BRASIL S/A contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO COM APOIO NA SÚMULA 83 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE ERRO NA APLICAÇÃO DO ÓBICE SUMULAR E DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR AO ADOTADO PARA A INADMISSÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Utilizada a Súmula 83 do STJ como premissa para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário. Precedentes.
+3. No caso dos autos, não se pode conhecer do Agravo em Recurso Especial, pois, em suas razões, não há impugnação específica à Súmula 83 do STJ.
+4. Agravo interno não provido.
+A parte embargante alega, em síntese (fls. 415/422):
+O acórdão embargado concluiu pelo não provimento do Agravo Interno, ratificando a inadmissão do Recurso Especial da Embargante com base na Súmula nº 83 deste Superior Tribunal de Justiça. A premissa central adotada pelo decisum para tal conclusão foi a alegada ausência, por parte da contribuinte, de indicação de "julgado contrário ao acórdão citados para a inadmissão do especial nem aponto equívoco na observância da súmula 83 do STJ, limitando se à tese relacionada à legitimidade do secretário de estado para figurar como autoridade coatora". Contudo, é precisamente neste ponto que reside a flagrante e inescusável omissão, a qual os presentes Embargos de Declaração visam sanar, de modo a garantir a completa e adequada prestação jurisdicional, conforme exigem os artigos 1.022, inciso II, e 489, § 1º, inciso IV, do Código de Processo Civil  ..  em detida análise do Agravo em Recurso Especial interposto pela Embargante, que foi o instrumento processual que deu origem ao Agravo Interno ora julgado por esta Turma, verifica-se que a Embargante, de forma expressa e detalhada, citou e transcreveu diversos julgados deste próprio Superior Tribunal de Justiça que, em sentido diametralmente oposto à tese de ilegitimidade passiva do Secretário de Estado da Fazenda em mandados de segurança tributários, reconhecem a legitimidade de tal autoridade  ..  Para que não pairem dúvidas acerca da omissão ora arguida, a Embargante reitera e destaca os precedentes deste Egrégio Superior Tribunal de Justiça que foram expressamente citados e reproduzidos em suas razões de Agravo Interno (fls. 374-375):  RMS 5024 / MS, Relator, Ministro Peçanha Martins, Segunda Turma, Data do Julgamento 05/04/1995: REsp 705719/RS, Relator Teori Albino Zavascki, Primeira Turma, Data de Julgamento 13/09/2005 RMS 16853/RJ , Relator Ministro Castro Meira, Segunda Turma, Data de Julgamento 10/08/2004:  RMS 17458/RS, Relatora Ministra Eliana Calmon, Segunda Turma, Data de Julgamento 08/06/2004.
+O acórdão embargado, ao não confrontar os citados precedente, deixa de explicar por que, no caso da BIMEDA BRASIL S. A., o Secretário da Fazenda não possuiria esse poder decisório, especialmente quando as próprias normas estaduais (Decreto nº 18.874/2019, artigo 18, inciso I, alínea "b") lhe atribuem a função de "exercer a orientação, coordenação e supervisão das unidades e da entidade a ela vinculada".
+Sem impugnação pela parte embargada (fl. 432).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Com efeito, com atenção às razões recursais e ao teor da decisão de inadmissão, o voto condutor do acórdão embargado consignou (fls. 399/406):
+Utilizada a Súmula 83 do STJ como premissa para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário.
+ ..
+No caso, nas razões do Agravo em Recurso Especial, a parte agravante deixou de impugnar, de forma específica, a Súmula 83 do STJ.
+De toda sorte, é oportuno destacar a correção da decisão de inadmissão, pois o acórdão recorrido está em conformidade com a orientação jurisprudencial deste Tribunal Superior, no sentido da ilegitimidade de secretário de fazenda estadual para figurar como autoridade coatora em mandado de segurança impetrado para discutir a exigibilidade de tributos, ao tempo em que, em razão de ter sido atribuído o foro por prerrogativa de função ao secretário estadual, o que enseja a competência do tribunal de justiça para o julgamento de mandado de segurança impetrado contra ato que lhe foi atribuído, não se admitem a observância da teoria da encampação nem a correção da petição inicial.
+No contexto, considerado o fato de os julgados invocados pela parte não serem contemporâneos nem posteriores ao precedente indicado na decisão de inadmissão, não há nenhum vício de integração a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
