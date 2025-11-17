@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL E DIREITO INTERNACIONAL. RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL DE CARGAS. DANOS EM MERCADORIAS. SEGURADORA SUB-ROGADA. CONVENÇÃO DE MONTREAL. LIMITAÇÃO DA INDENIZAÇÃO. APLICAÇÃO. INEXISTÊNCIA DE DECLARAÇÃO ESPECIAL DE VALOR. AGRAVO CONHECIDO. RECURSO PROVIDO.
+1. As jurisprudências de STJ e STF reconhecem a prevalência das normas internacionais sobre a legislação infraconstitucional, inclusive quanto à tarifação da responsabilidade civil da transportadora aérea.
+2. A sub-rogação da seguradora nos direitos do segurado não afasta a limitação indenizatória prevista na Convenção de Montreal, devendo a indenização observar o teto de Direitos Especiais de Saque (DES) por quilograma da carga, na ausência de declaração especial de valor.
+3. Hipótese na qual, sendo incontroversa a inexistência de declaração especial de valor, aplica-se a limitação indenizatória prevista na Convenção de Montreal.
+4. Agravo conhecido para dar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ASIA SHIPPING TRANSPORTES INTERNACIONAIS LTDA contra decisão que inadmitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO REGRESSIVA INDENIZAÇÃO POR DANO MATERIAL - Contrato de Seguro - Transporte aéreo internacional de carga - Mercadorias danificadas - Sentença de parcial procedência - Insurgência das partes - Preliminar de decadência: Alegação de ausência de reclamação Irrelevância - Substituição pelo Mantra de Importação do Siscomex, com indicação das avarias - Decadência afastada - Ainda que se aplique a Convenção de Montreal à espécie, o valor da indenização não sofre limitação, porquanto o conhecimento de transporte aéreo faz referência expressa à fatura comercial (invoice) com o valor das mercadorias - Prevalecimento do princípio da ampla reparação - Despesas com regulação do sinistro: a ação foi ajuizada com supedâneo no artigo 786 do Código Civil, razão pela qual, o pedido de ressarcimento dos gastos com a apuração do sinistro foge ao seu alcance, visto que são inerente à atividade desenvolvida pelas rés e não integrou a sub-rogação sobre a qual se fundou a demanda - Precedentes desta Corte - Sucumbência a cargo das rés, que foram maiores sucumbentes - Sentença modificada em parte - RECURSO DAS RÉS DESPROVIDO E PARCIALMENTE PROVIDO O DA AUTORA." (e-STJ, fls. 593-606)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 691-693).
+Em seu recurso especial, a recorrente alega violação dos seguintes dispositivos da legislação federal, com as respectivas teses (e-STJ, fls. 660-668):
+(i) art. 22, item 3, da Convenção de Montreal (Decreto nº 5910/96), pois a indenização por avaria de carga deve se limitar a 17 DES/kg, só podendo ser afastada mediante declaração especial de valor na entrega e pagamento de quantia suplementar; a mera referência a invoices não se equipara a tal declaração, de modo que o acórdão contrariou a regra ao afastar a limitação com base em notas fiscais.
+(ii) art. 732 do Código Civil, pois, nos contratos de transporte, prevalecem os tratados e a legislação especial, impondo-se a aplicação da limitação tarifária.
+Foram apresentadas contrarrazões ao recurso especial (e-STJ, fls. 824-848).
+É o relatório.
+EMENTA
+DIREITO CIVIL E DIREITO INTERNACIONAL. RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL DE CARGAS. DANOS EM MERCADORIAS. SEGURADORA SUB-ROGADA. CONVENÇÃO DE MONTREAL. LIMITAÇÃO DA INDENIZAÇÃO. APLICAÇÃO. INEXISTÊNCIA DE DECLARAÇÃO ESPECIAL DE VALOR. AGRAVO CONHECIDO. RECURSO PROVIDO.
+1. As jurisprudências de STJ e STF reconhecem a prevalência das normas internacionais sobre a legislação infraconstitucional, inclusive quanto à tarifação da responsabilidade civil da transportadora aérea.
+2. A sub-rogação da seguradora nos direitos do segurado não afasta a limitação indenizatória prevista na Convenção de Montreal, devendo a indenização observar o teto de Direitos Especiais de Saque (DES) por quilograma da carga, na ausência de declaração especial de valor.
+3. Hipótese na qual, sendo incontroversa a inexistência de declaração especial de valor, aplica-se a limitação indenizatória prevista na Convenção de Montreal.
+4. Agravo conhecido para dar provimento ao recurso especial.
+VOTO
+Extrai-se dos autos que, na origem, a autora Sompo Seguros S.A. ajuizou ação regressiva em face de Asia Shipping Transporte Internacionais Ltda. e TAM Linhas Aéreas S.A., buscando ressarcimento de valores pagos à segurada Foxconn Brasil por avarias em transporte aéreo internacional de componentes eletrônicos (e-STJ, fls. 1-22).
+Na sentença, o Juízo da 10ª Vara Cível do Foro Regional II - Santo Amaro julgou parcialmente procedente a ação, condenando as rés solidariamente ao pagamento da indenização tarifada, limitada a 17 Direitos Especiais de Saque por quilo da carga avariada, nos termos do art. 22, item 3, da Convenção de Montreal, afastando o pedido de reparação integral e as despesas de regulação do sinistro, e fixando sucumbência recíproca.
+No acórdão, a 15ª Câmara de Direito Privado do TJSP afastou a decadência arguida, reconheceu que as invoices mencionadas nos conhecimentos de transporte configuravam declaração de valor, afastando a limitação tarifária, e determinou a reparação integral, nos seguintes termos:
+"INDENIZAÇÃO TARIFADA
+Por outro lado, a indenização tarifada prevista no art. 22, item 3, da Convenção de Montreal não se aplica ao caso concreto, pois declarado o valor total das mercadorias transportadas pelas invoices que acompanham a petição inicial (fls. 232).
+(..)
+Assim, afastada a "indenização tarifada", deve prevalecer o princípio da reparação integral ou ampla reparação.
+(..)
+Assim, ficando demonstrado através do Conhecimento de Transporte Aéreo o valor total embarcado e o tipo de equipamento importado, de rigor a restituição de forma integral pelas rés, do valor de R$34.662,62, acrescido de com correção monetária pela Tabela Prática deste E. TJSP a partir do desembolso e juros de mora de 1% ao mês a contar da citação.
+Ressalto que não há que se falar em culpa exclusiva de terceiro, ante a ausência de acondicionamento correto da carga, pois a transportadora tem responsabilidade objetiva por seu serviço." (fls. 599/604, g.n .)
+Ocorre que, nos termos da jurisprudência desta Corte, a sub-rogação da seguradora nos direitos do segurado não afasta a limitação indenizatória prevista na Convenção de Montreal, devendo a indenização, na ausência de declaração especial de valor, observar o teto de Direitos Especiais de Saque (DES) por quilograma da carga. Nesse sentido:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. CONVENÇÃO DE MONTREAL. AÇÃO DE REGRESSO PROPOSTA POR SEGURADORA SUB-ROGADA. LIMITAÇÃO INDENIZATÓRIA. APLICAÇÃO DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática proferida pelo Ministro Marco Aurélio Bellizze, que conheceu do agravo para negar provimento ao recurso especial. Sustentou a agravante que o recurso especial merecia provimento. A parte agravada, por sua vez, defendeu a manutenção da decisão e pleiteou a aplicação da multa prevista no art. 1.021, § 4º, do CPC. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se incide a limitação indenizatória prevista no art. 22, item 3, da Convenção de Montreal na ação de regresso ajuizada por seguradora sub-rogada em face de transportadora aérea internacional; (ii) determinar se é cabível a aplicação da multa do art. 1.021, § 4º, do CPC, em razão da interposição do agravo interno desprovido. III. RAZÕES DE DECIDIR
+3. O acórdão recorrido aplica corretamente a Convenção de Montreal ao caso de extravio parcial de carga em transporte aéreo internacional.
+4. A jurisprudência consolidada do STJ e do STF reconhece a prevalência das normas internacionais sobre a legislação infraconstitucional, inclusive quanto à tarifação da responsabilidade civil da transportadora aérea.
+5. A sub-rogação da seguradora nos direitos do segurado não afasta a limitação indenizatória prevista na Convenção de Montreal, devendo a indenização observar o teto de Direitos Especiais de Saque (DES) por quilograma da carga, na ausência de declaração especial de valor.
+6. A decisão agravada está em consonância com precedentes do STJ, autorizando a incidência da Súmula 83/STJ, que obsta o conhecimento do recurso especial quando o acórdão recorrido se alinha à jurisprudência dominante.
+7. A multa prevista no art. 1.021, § 4º, do CPC não é automática e exige demonstração de recurso manifestamente protelatório, o que não se constatou no presente caso, dado o caráter necessário e legal do agravo interno como via recursal. IV. DISPOSITIVO
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 2.632.276/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 12/5/2025, DJEN de 16/5/2025, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REGRESSIVA. DANOS EM MERCADORIAS. SEGURADORA SUBROGADA. APLICAÇÃO DA CONVENÇÃO DE MONTREAL. LIMITE DELIMITADO. INEXISTÊNICA DE DECLARAÇÃO ESPECIAL DE VALOR. SÚMULA 7 DO STJ.
+1. A Convenção de Montreal, internalizada no ordenamento jurídico brasileiro pelo Decreto-Lei 5.910/06, aplica-se a todo transporte internacional de pessoas, bagagem ou carga, efetuado em aeronaves, mediante remuneração.
+2. A seguradora sub-rogada pode buscar o ressarcimento do que despendeu com a indenização securitária, no mesmo prazo prescricional, termos e limites que assistiam ao segurado quando recebeu a indenização
+3. Havendo destruição, perda, avaria ou atraso de carga em transporte aéreo internacional, a indenização será limitada a 17 Direitos Especiais de Saque, a menos que tenha sido feita a Declaração Especial de Valor ou tenha ocorrido qualquer uma das demais hipóteses previstas em lei para que seja afastado o limite de responsabilidade previsto no art. 22, III, da Convenção de Montreal.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.066.188/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024, g.n.)
+Com efeito, como não se transfere à seguradora mais direitos do que o segurado detinha quando foi indenizado, com a incidência da indenização tarifada prevista na Convenção de Montreal, nem a seguradora nem o segurado possuem direito de reparação em valores superiores ao previsto na referida norma.
+Nesse cenário, compete à seguradora observar o montante a que faz jus o segurado antes de efetuar o pagamento da indenização. Se pagou valor superior ao cabível, agiu por mera liberalidade, não possuindo direito de regresso contra a transportadora no que excedeu.
+Na hipótese dos autos, o Tribunal de origem foi expresso em delimitar que não foi realizada a declaração especial de valor, conforme transcrição acima realizada, de modo que a mera menção dos valores no conhecimento de carga não supre a necessidade de preenchimento da referida declaração para o fim de obter a indenização integral dos valores.
+Nesse cenário, deve ser provido o recurso especial a fim de aplicar, ao caso concreto, a limitação prevista no art. 22, item 3, da Convenção de Montreal.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, mantendo-se inalterados os ônus da sucumbência fixados na origem.
+É como voto.
