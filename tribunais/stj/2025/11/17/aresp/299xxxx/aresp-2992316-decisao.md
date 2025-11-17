@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por CENTRO CLINICO GAUCHO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 637):
+DIREITO PROCESSUAL CIVIL. SEGUROS. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. ÓBITO DO AUTOR NO CURSO DA DEMANDA. DIREITO DE NATUREZA INTRANSMISSÍVEL E PERSONALÍSSIMA EXTINÇÃO DO FEITO PELA PERDA DO OBJETO. SENTENÇA MANTIDA. I. Caso em exame 1. Trata-se de ação de obrigação de fazer na qual o autor - diagnosticado com neoplasia maligna do rim - postulava a condenação da ré ao fornecimento de fármaco Nivolumabe. Diante da notícia de falecimento do autor, sobreveio sentença de extinção do feito, com fulcro no art. 485, incisos VI e IX, do CPC, em razão da perda do objeto da demanda, tendo em vista se tratar de direito personalíssimo e intransmissível do de cujus. 2. Neste grau recursal, a requerida sustenta ser legítima a negativa de cobertura do medicamento, por não estar previsto no rol taxativo da ANS. II. Questão em discussão 3. A questão em discussão consiste em saber se o falecimento do autor de demanda que tinha como objetivo compelir a operadora de plano de saúde ao fornecimento de medicamento é causa de extinção do processo por perda do objeto. III. Razões de decidir 4. No presente caso, o óbito do autor enseja a extinção do feito sem julgamento de mérito, uma vez que a pretensão autoral consistia em obrigação de fazer, qual seja o fornecimento de medicamento pelo plano de saúde, tratando-se, portanto, de direito de natureza intransmissível e personalíssima. Assim, vai mantida a sentença de extinção do feito sem resolução do mérito, diante da perda de objeto. IV. Dispositivo 5. Recurso de apelação desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega que o acórdão estadual violou o art. 10, § 4º, da Lei 9.656/1998.
+Sustenta, em síntese, que "o medicamento pretendido não lhe pode ser fornecido pela agravante, tendo em vista possui caráter experimental e, com isso, não é indicado para o tratamento de sua patologia, visto que não houve comprovação dos requisitos necessários para a sua utilização. Ainda, consigna-se que a existência de pedido médico em si não é suficiente a ensejar o custeio do medicamento pleiteado, do qual não há previsão de cobertura obrigatória pela ANS" (fls. 651-652).
+Foram oferecidas contrarrazões ao recurso especial (fls. 667-685).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 686-688), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 698-703).
+Instado a se manifestar, o Ministério Público opinou pelo desprovimento do agravo (fls. 717-720).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar violação do art. 10, § 4º, da Lei 9.656/1998, sob o argumento de que o medicamento não pode ser fornecido pela agravante por ser experimental, sem comprovação dos requisitos de uso e não indicado para a patologia, deixando de impugnar o fundamento do acórdão recorrido no sentido de que o óbito do autor enseja a extinção do feito sem julgamento de mérito.
+Desse modo, a não impugnação do fundamento central do acórdão recorrido, bem como a apresentação de razões dissociadas desse fundamento atraem a incidência das Súmulas 283 e 284 do STF.
+Nesse sentido, cito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE FRANQUIA. CUMULAÇÃO DE CLÁUSULAS PENAIS. POSSIBILIDADE. CLÁUSULAS COM NATUREZAS DISTINTAS. DESCUMPRIMENTO DO CONTRATO E CULPA PELA RESCISÃO, ROYALTIES, E DESCUMPRIMENTO DA CLÁUSULA DE NÃO-CONCORRÊNCIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. TAXA SELIC PARA JUROS DE MORA AFASTADA. CONVENÇÃO EXPRESSA EM SENTIDO CONTRÁRIO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, somente na ausência de convenção em sentido contrário, a partir da vigência do Código Civil de 2002, os juros moratórios devem incidir segundo a variação da Taxa Selic. Precedentes.
+4. No caso, a Taxa SELIC não foi aplicada como índice de correção monetária e juros de mora, pois o contrato de franquia previa expressamente outros índices.
+5. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ, pelas alíneas "a" e "c" do permissivo constitucional.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.722.569/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
