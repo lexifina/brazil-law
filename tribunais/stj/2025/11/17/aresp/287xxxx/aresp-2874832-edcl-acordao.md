@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Daniela Teixeira, Nancy Andrighi, Humberto Martins e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. ACLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que não se poderia conhecer do agravo em recurso especial, porque apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, uma vez que não foram impugnados os fundamentos do juízo de admissibilidade do apelo nobre (incidência da Súmula n. 211 do STJ).
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GERALDO WALKER MARINHO FAUSTINO (GERALDO) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 211 do STJ).
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido (e-STJ, fl. 415).
+Nas razões do presente inconformismo, GERALDO alegou a violação do art. 1.022, I e II, do CPC, indicando omissão, obscuridade e contradição do julgado, ao desconsiderar que o ora embargante impugnou, ponto a ponto, os fundamentos do juízo de admissibilidade do recurso especial. Ademais, requereu a integração do acórdão embargado a fim de que se esclareça se o Tribunal estadual enfrentou as matérias relativas aos arts. 141 e 492 do CPC e 166 do CC, bem como se a questão relacionada a ocorrência de julgamento ultra petita (conversão pela Tabela FIPE) foi ou não apreciada pelo Colegiado de origem.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO CPC. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. ACLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que não se poderia conhecer do agravo em recurso especial, porque apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, uma vez que não foram impugnados os fundamentos do juízo de admissibilidade do apelo nobre (incidência da Súmula n. 211 do STJ).
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, GERALDO alegou a violação do art. 1.022, I e II, do CPC, omissão, obscuridade e contradição do julgado, ao desconsiderar que o ora embargante impugnou, ponto a ponto, os fundamentos do juízo de admissibilidade do recurso especial. Ademais, requereu a integração do acórdão embargado a fim de que se esclareça se o Tribunal estadual enfrentou as matérias relativas aos arts. 141 e 492 do CPC e 166 do CC, bem como se a questão relacionada a ocorrência de julgamento ultra petita (conversão pela Tabela FIPE) foi ou não apreciada pelo Colegiado de origem.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que não se poderia conhecer do agravo em recurso especial, porque apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, uma vez que não foi impugnado o fundamento do juízo de admissibilidade do apelo nobre quanto à incidência da Súmula n. 211 do STJ.
+Isso, inclusive, é o que se denota dos seguintes trechos do voto proferido no julgamento do agravo interno, a saber:
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão atacada, o agravo em recurso especial não se dirigiu especificamente contra a integralidade dos fundamentos da decisão que negou seguimento ao apelo nobre, pois GERALDO, na ocasião, não refutou, de forma arrazoada, a incidência da Súmula n. 211 do STJ.
+E isso não fez porque apenas sustentou, nas razões de seu agravo em recurso especial, que a sentença incorreu em julgamento ao determinar(1) ultra petita a utilização da tabela FIPE na atualização do valor do veículo ofertado na aquisição do terreno; que o negócio de compra e venda de imóvel firmado entre as partes(2) obedeceu a todos os requisitos legais, sendo incabível sua anulação; e por fim,(3) afirmou, de forma genérica, o prequestionamento das questões suscitadas.
+Assim, não houve a demonstração do adequado confronto dos fundamentos da decisão agravada em relação ao óbice da Súmula n. 211 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência das Súmulas n. 211 do STJ e 282 e 356 do STF, cabe ao recorrente não apenas mencionar que a matéria foi prequestionada ou que não há necessidade de constar o dispositivo ofendido no aresto recorrido, uma vez que deve haver o debate sobre a tese jurídica específica, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto. Sob esse enfoque, também não é admissível a alegação genérica de que o Tribunal local deixou de se pronunciar sobre as questões suscitadas em embargos de declaração.
+Logo, verifica-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+ ..
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC, devendo ser mantida a decisão agravada (e-STJ, fls. 416-417).
+Cumpre asseverar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020 -sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. E mbargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020 - sem destaques no original)
+Desse modo, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, finalidade que desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
