@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CADASTRO POSITIVO. COMPARTILHAMENTO DE DADOS PESSOAIS. RECURSO NÃO CONHECIDO.
+1. Ação reparatória por danos morais proposta contra gestora de banco de dados de órgão de proteção ao crédito, sob alegação de divulgação indevida de dados pessoais, incluindo o compartilhamento de número telefônico no contexto de formulação de score de crédito, sem prévia comunicação.
+2. A jurisprudência do STJ reconhece a legalidade da comercialização de dados para avaliação de risco creditício, conforme o Tema 710/STJ, desde que respeitados os limites legais e a transparência nas relações negociais.
+3. A Súmula 550/STJ dispensa o consentimento do consumidor para inclusão no cadastro positivo, não configurando a disponibilização de número telefônico, por si só, dano moral indenizável.
+4. A pretensão recursal de reanálise de provas e fatos do processo é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. A ausência de cotejo analítico eficaz e a distinta base fática e jurídica entre os acórdãos confrontados inviabilizam o conhecimento do recurso especial com fundamento na alínea "c" do art. 105, III, da Constituição Federal.
+6. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por LUCILAINE RUIZ DA SILVA, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RESPONSABILIDADE CIVIL. Suposta conduta ilícita atribuída à gestora de banco de dados de órgão de proteção ao crédito (divulgação de dados pessoais). Abordagem reparatória. Juízo de improcedência. Recurso da autora. Desprovimento." (e-STJ, fls. 457)
+Os embargos de declaração opostos pela autora foram rejeitados (e-STJ, fls. 513 e 515).
+Em seu recurso especial, a recorrente alega violação do art. 5º, V, da Lei 12.414/2011, pois teria ocorrido desrespeito ao dever de informação prévia quanto à identidade do gestor, ao armazenamento e à finalidade do tratamento de dados, o que tornaria ilícita a coleta/compartilhamento do número telefônico e ensejaria dano moral in re ipsa.
+Foram apresentadas contrarrazões ao recurso especial pelo SERASA S.A. (e-STJ, fls. 559-571).
+É o relatório.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CADASTRO POSITIVO. COMPARTILHAMENTO DE DADOS PESSOAIS. RECURSO NÃO CONHECIDO.
+1. Ação reparatória por danos morais proposta contra gestora de banco de dados de órgão de proteção ao crédito, sob alegação de divulgação indevida de dados pessoais, incluindo o compartilhamento de número telefônico no contexto de formulação de score de crédito, sem prévia comunicação.
+2. A jurisprudência do STJ reconhece a legalidade da comercialização de dados para avaliação de risco creditício, conforme o Tema 710/STJ, desde que respeitados os limites legais e a transparência nas relações negociais.
+3. A Súmula 550/STJ dispensa o consentimento do consumidor para inclusão no cadastro positivo, não configurando a disponibilização de número telefônico, por si só, dano moral indenizável.
+4. A pretensão recursal de reanálise de provas e fatos do processo é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. A ausência de cotejo analítico eficaz e a distinta base fática e jurídica entre os acórdãos confrontados inviabilizam o conhecimento do recurso especial com fundamento na alínea "c" do art. 105, III, da Constituição Federal.
+6. Recurso especial não conhecido.
+VOTO
+Extrai-se dos autos que, na origem, a autora atribuiu à gestora de banco de dados de órgão de proteção ao crédito a prática de divulgação indevida de seus dados pessoais, notadamente o compartilhamento de número telefônico no contexto de formulação de score de crédito sem prévia comunicação, e propôs ação reparatória por danos morais visando à retirada dos dados e à condenação da ré.
+A sentença julgou improcedente a pretensão, assentando a licitude da atuação da gestora de banco de dados em operar registros de pendências financeiras a partir de inscrições realizadas por empresas conveniadas, afastando a responsabilidade pela certificação da origem dos créditos e pela divulgação de dados pessoais, bem como reputando irrelevantes os demais argumentos para infirmar tal conclusão (e-STJ, fls. 457-459).
+No julgamento da apelação, o acórdão confirmou integralmente a improcedência, negando provimento ao recurso da autora, ao fundamentar que a prática comercial do cadastro positivo é lícita, autorizada pelos arts. 5º, IV, e 7º, I, da Lei nº 12.414/2011, nos termos do Tema 710/STJ (REsp 1.419.697/RS), e que, conforme a Súmula 550/STJ, dispensa-se o consentimento do consumidor, não configurando a mera disponibilização de número telefônico indevida intrusão nos direitos da personalidade nem dano moral indenizável (e-STJ, fls. 456-459).
+A pretensão recursal de desconstituir o entendimento do Tribunal de origem  o qual assentou não haver prova da divulgação indevida de dados nem da configuração de dano moral  exigiria uma nova análise das provas e fatos do processo. Contudo, essa reanálise é inviável na via do recurso especial, por expressa vedação da Súmula nº 7 do STJ.
+Ademais, o acórdão recorrido alinha-se à jurisprudência pacífica deste Tribunal, que reconhece a legalidade da comercialização de dados para avaliação de risco creditício, conforme tese firmada no Tema nº 710/STJ que trata do sistema credit scoring:
+I - O sistema "credit scoring" é um método desenvolvido para avaliação do risco de concessão de crédito, a partir de modelos estatísticos, considerando diversas variáveis, com atribuição de uma pontuação ao consumidor avaliado (nota do risco de crédito).
+II - Essa prática comercial é lícita, estando autorizada pelo art. 5º, IV, e pelo art. 7º, I, da Lei n. 12.414/2011 (lei do cadastro positivo).
+III - Na avaliação do risco de crédito, devem ser respeitados os limites estabelecidos pelo sistema de proteção do consumidor no sentido da tutela da privacidade e da máxima transparência nas relações negociais, conforme previsão do CDC e da Lei n. 12.414/2011.
+IV - Apesar de desnecessário o consentimento do consumidor consultado, devem ser a ele fornecidos esclarecimentos, caso solicitados, acerca das fontes dos dados considerados (histórico de crédito), bem como as informações pessoais valoradas.
+V - O desrespeito aos limites legais na utilização do sistema "credit scoring", configurando abuso no exercício desse direito (art. 187 do CC), pode ensejar a responsabilidade objetiva e solidária do fornecedor do serviço, do responsável pelo banco de dados, da fonte e do consulente (art. 16 da Lei n. 12.414/2011) pela ocorrência de danos morais nas hipóteses de utilização de informações excessivas ou sensíveis (art. 3º, § 3º, I e II, da Lei n. 12.414/2011), bem como nos casos de comprovada recusa indevida de crédito pelo uso de dados incorretos ou desatualizados.
+Ainda, a teor da Súmula 550/STJ, "A utilização de escore de crédito, método estatístico de avaliação de risco que não constitui banco de dados, dispensa o consentimento do consumidor, que terá o direito de solicitar esclarecimentos sobre as informações pessoais valoradas e as fontes dos dados considerados no respectivo cálculo" (REsp n. 1.419.697 e REsp n. 1.457.199).
+No mesmo sentido: REsp n. 2.163.198, Ministro Antonio Carlos Ferreira, DJe de 19/11/2024 e AREsp n. 2.716.755, Ministro João Otávio de Noronha, DJe de 18/09/2024.
+Por fim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias.
+O confronto apresentado limita-se à justaposição de excertos e à conclusão genérica de que o "número telefônico" não integraria o credit scoring, sem evidenciar, de modo minucioso, as circunstâncias comuns e a equivalência das premissas decisórias. Além disso, o acórdão recorrido firmou premissa de exercício regular de direito, inexistência de abuso e inexistência de dado sensível, enquanto o paradigma trata de banco de dados com enfoque no dever de informação, o que reclama demonstração concreta de similitude, não realizada.
+Desse modo, a ausência de um cotejo analítico eficaz e a distinta base fática e jurídica entre os acórdãos confrontados revelam que a parte recorrente não cumpriu seu ônus processual, conforme determinam os arts. 1.029, § 1º, do CPC, e 255, §§ 1º e 2º, do RISTJ.
+Recurso especial não conhecido.
+Majoro os honorários, a teor do art. 85, § 11, do CPC, em 1% (um por cento), ressalvada a suspensão de exigibilidade decorrente da justiça gratuita.
+É como voto.
