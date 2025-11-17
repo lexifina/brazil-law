@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de recurso especial interposto por M S W R, representada por sua genitora, contra acórdão proferido pela 1ª Câmara Cível do Tribunal de Justiça do Estado da Paraíba. O referido acórdão, ao julgar a apelação, reformou parcialmente a sentença de primeiro grau para afastar a obrigação da UNIMED JOÃO PESSOA COOPERATIVA DE TRABALHO MÉDICO de custear o acompanhamento por Assistente Terapêutico (AT) nos âmbitos escolar e domiciliar para a beneficiária, diagnosticada com Transtorno do Espectro Autista (TEA).
+A controvérsia central do recurso, portanto, diz respeito à obrigatoriedade de cobertura de terapia multidisciplinar prescrita à paciente com transtorno global do desenvolvimento, matéria que foi afetada pela Segunda Seção do Superior Tribunal de Justiça para julgamento sob o rito dos recursos especiais repetitivos, vinculada ao Tema n. 1.295/STJ, com a seguinte delimitação:
+"Possibilidade ou não de o plano de saúde limitar ou recusar a cobertura de terapia multidisciplinar prescrita ao paciente com transtorno global do desenvolvimento."
+No caso em tela, o recurso especial em que a beneficiária pleiteia a reforma da decisão que excluiu a cobertura do Assistente Terapêutico profissional integrante da equipe multidisciplinar enquadra-se diretamente na hipótese do referido tema.
+Dessa forma, considerando que o mérito do presente recurso depende da tese a ser firmada pelo Superior Tribunal de Justiça no julgamento do tema repetitivo, a devolução dos autos ao Tribunal de origem para aguardar a respectiva decisão é a medida processual que se impõe.
+Ante o exposto, com fundamento no art. 1.037, II, do CPC, determino a devolução dos autos ao Tribunal de origem, onde deverão permanecer sobrestados até a publicação do acórdão paradigma do Tema n. 1.295/STJ. Após o julgamento, deverá ser observado o disposto no art. 1.040 do CPC, para que:
+a) seja negado seguimento ao recurso, se a decisão recorrida coincidir com a orientação firmada pelo Superior Tribunal de Justiça; ou
+b) seja o recurso novamente examinado pelo Tribunal de origem para juízo de retratação, caso o acórdão recorrido divirja da orientação estabelecida por esta Corte.
+Publique-se. Intimem-se.
+ EMENTA
