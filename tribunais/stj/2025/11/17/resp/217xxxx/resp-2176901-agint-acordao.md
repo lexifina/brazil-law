@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. RESPONSABILIDADE DA UNIÃO. DÉBITOS TRABALHISTAS DA RFFSA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. PEDIDOS SUBSIDIÁRIOS. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão a que chegou o Tribunal de origem de não haver responsabilidade da União sobre os débitos trabalhistas da Rede Ferroviária Federal S. A - RFFSA demanda análise de cláusulas editalícias e contratuais, bem como o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese as Súmulas 5 e 7/STJ.
+3. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+4. Segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.3.709):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. RESPONSABILIDADE DA UNIÃO. DÉBITOS TRABAHISTAS DA RFFSA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. PEDIDOS SUBSIDIÁRIOS. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega inaplicabilidade das Súmulas 5 e 7/STJ, e 284/STF.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. RESPONSABILIDADE DA UNIÃO. DÉBITOS TRABALHISTAS DA RFFSA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. PEDIDOS SUBSIDIÁRIOS. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão a que chegou o Tribunal de origem de não haver responsabilidade da União sobre os débitos trabalhistas da Rede Ferroviária Federal S. A - RFFSA demanda análise de cláusulas editalícias e contratuais, bem como o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese as Súmulas 5 e 7/STJ.
+3. A apresentação de razões recursais dissociadas da fundamentação adotada pelo acórdão recorrido configura argumentação recursal deficiente, a não permitir a exata compreensão da controvérsia e inviabilizando o conhecimento do recurso especial. Incidência da Súmula 284 do STF.
+4. Segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No que diz respeito aos artigos 3º, 41 e 55, XI, da Lei 8.666/1993 e 926 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não há responsabilidade da União sobre os débitos trabalhistas da Rede Ferroviária Federal S. A - RFFSA.
+Vejamos (fls. 3.238-3.239 - com destaques apostos):
+In casu, não foi expressamente previsto nos contratos de concessão (evento 1, out. 3, fl. 17 - JFRJ) e arrendamento (evento 1, out. 3, fl. 10 - JFRJ) a cláusula sobre responsabilidade decorrente de "passivos trabalhistas e, portanto, revela-se descabida a pretendida responsabilização da União.
+Embora o edital nº PND/A-08/96/RFSA tenha elencado parâmetros para contratação, inclusive acerca de passivos trabalhistas (cláusula 7.2. evento 1, out. 2, fl. 55 - JFRJ), a ausência de respectiva cláusula de responsabilização nos contratos efetivamente firmados configura dispensa da licitante com relação aos eventuais ressarcimentos.
+A Lei 8.666/1993 prevê:
+"Art. 55. São cláusulas necessárias em todo contrato as que estabeleçam:
+(..)
+VII - os direitos e as responsabilidades das partes, as penalidades cabíveis e os valores das multas;"
+Assim, não há que se falar em responsabilização da União por obrigação que, de fato, não contraiu.
+Considerando a reforma do mérito da ação, resta prejudicada a análise dos recursos de apelação interpostos pela Autora, Rumo Malha Sul S. A, que versa sobre obrigações acessórias, e de terceiro interessado, Deccache Advogados, que trata de honorários advocatícios, ante a inversão da sucumbência.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda análise de cláusulas editalícias e contratuais, bem como o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese as Súmulas 5 e 7/STJ.
+Nesse sentido, com grifos nossos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS DE CONCESSÃO E ARRENDAMENTO DE BENS. SUCESSÃO DA REDE FERROVIÁRIA FEDERAL S.A. PELA UNIÃO. COMPENSAÇÃO DE CRÉDITOS. IMPOSSIBILIDADE. DÉBITOS ILÍQUIDOS E INCERTOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. A Corte de origem, mediante análise do conjunto fático-probatório dos autos e das cláusulas do contrato em questão, afirmou não ser possível a pretendida compensação de valores, porque os débitos da exequente com a executada não são líquidos nem certos, além de que inexiste previsão contratual nesse sentido. A revisão de tal julgado encontra óbice nas Súmulas 5 e 7 do STJ. Precedentes: AgInt no REsp 1.729.913/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/3/2019; AgRg no AREsp 365.533/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 4/8/2015.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.650.590/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/9/2020, DJe de 1/10/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXIGÊNCIA DE APRESENTAÇÃO DE CERTIDÃO NEGATIVA DE DÉBITO TRABALHISTA, PARA O PAGAMENTO DE VALORES CONTRATUAIS. EDITAIS DE PREGÕES E CONTRATOS QUE PREVIAM, EXPRESSAMENTE, TAL EXIGÊNCIA. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Infere-se dos autos que parte recorrente ajuizou ação em desfavor do Município de Curitiba, ora agravado, sob o argumento de que está sendo cerceada em seu direito ao recebimento dos valores contratados, decorrentes de Contratos Administrativos oriundos de Pregões Eletrônicos, haja vista a exigência da apresentação de Certidão Negativa de Débitos Trabalhistas - CNDT. O Juízo de 1º Grau julgara improcedentes os pedidos formulados na inicial, por entender não existir ilegalidade na exigência de CNDT, como condição ao pagamento dos valores contratualmente previstos.
+II. O acórdão recorrido, ao manter a sentença de improcedência, concluiu que "não há qualquer óbice à exigência da apresentação da CNDT para a realização dos pagamentos. Isto porque, tanto nos Editais dos Pregões Eletrônicos nºs 597/2011 e 600/2011 como nos contratos deles decorrentes, cujas redações são semelhantes, consta expressamente tal exigência, ainda que com nomenclatura diversa".
+Portanto, considerando a fundamentação adotada na origem, alterar o entendimento do Tribunal de origem ensejaria, inevitavelmente, o reexame fático-probatório dos autos, bem como das cláusulas dos editais dos pregões eletrônicos e dos contratos deles decorrentes, procedimento vedado, pelas Súmulas 5 e 7 desta Corte. Precedentes do STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp n. 775.475/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/2/2016, DJe de 29/2/2016.)
+Ainda, a agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocor re que, sobre os pedidos subsidiários de suposta ofensa aos artigos 41, 54 e 55, XI, da Lei 8.666/1993, 368, 369 e 397 do CC e 1-F da Lei 9.494/1997, o alegado pela recorrente, sobre eventual ofensa aos dispositivos de lei federal citados, não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, que versou obre inviabilidade de responsabilização da União por obrigação que teria não contraído, em contratos de concessão e arrendamento (fls. 3.235-3.241 e 3.553-3.557), situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre o dissídio jurisprudencial alegado, verifica-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese.
+Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Assim, resta prejudicado o dissídio jurisprudencial alegado.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
