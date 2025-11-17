@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interposto por RICARDO NUNES WAICK e ANA CLAUDIA FLORENCIO WAICK contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE cuja ementa guarda os seguintes termos (fl. 348):
+EMENTA: CONSUMIDOR E CIVIL. CONSTRUTORA. AÇÃO DE INDENIZAÇÃO POR DESCUMPRIMENTO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. INCONFORMISMO DE AMBAS AS PARTES. . TESE DEI - RECURSO DA PARTE AUTORA QUE O EMPREENDIMENTO NÃO FOI CONCLUÍDO DENTRO DO PRAZO ESTABELECIDO. ADESÃO AO "PROGRAMA HAZBUN PERSONAL" POR UM DOS AUTORES. DOCUMENTO QUE APRESENTA INFORMAÇÕES GENÉRICAS. AUTORA QUE NÃO ADERIU AO REFERIDO ADITIVO CONTRATUAL. IMPOSSIBILIDADE DA ALTERAÇÃO DA DATA DE ENTREGA DO IMÓVEL. CONSTRUTORA QUE NÃO JUNTOU O CRONOGRAMA DAS OBRAS PARA JUSTIFICAR O ATRASO. VIABILIDADE DA INDENIZAÇÃO POR LUCROS CESSANTES. PREJUÍZO PRESUMIDO. ENTENDIMENTO DO STJ. DANOS MORAIS CONFIGURADOS. MAJORAÇÃO EM RELAÇÃO À AUTORA. II - RECURSO DA . ALEGAÇÃO DE QUE DECAIU EM PARTE MÍNIMADEMANDADA DOS PEDIDOS. IMPOSSIBILIDADE. ÔNUS SUCUMBÊNCIA QUE DEVE SER ARCADO INTEGRALMENTE PELA CONSTRUTORA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO DA PARTE AUTORA CONHECIDO E PROVIDO. RECURSO ADESIVO DA CONSTRUTORA CONH ECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 383-390).
+No recurso especial, a parte recorrente alega que o acórdão contrariou as disposições contidas nos artigos 6º, III, 39, I e XII, 40 e 54, §4º, do CDC, bem como o art. 220 do Código Civil, porquanto, embora tenha expressamente reconhecido a nulidade de pleno direito do contrato de adesão/reforma e a abusividade da cláusula que condicionava a entrega do imóvel à conclusão da customização interna, sem prazo certo, além de afirmar que a mora na entrega das chaves foi exclusiva da construtora, acabou por aplicar esse mesmo instrumento inválido apenas em desfavor do recorrente, afastando-lhe o direito aos lucros cessantes sob o argumento de que teria anuído ao prolongamento do prazo de entrega ao assinar o referido documento.
+Segundo sustenta, ao reputar nulo o contrato de adesão por conter cláusulas genéricas sem destaque, violar o dever de informação do consumidor e carecer de validade pela ausência de assinatura de todos os contratantes originários, o Tribunal de origem não poderia utilizá-lo como fundamento para negar o direito indenizatório ao Espólio de Ricardo Waick, violando, assim, diretamente as normas protetivas do Código de Defesa do Consumidor e a regra de validade formal prevista no art. 220 do Código Civil.
+Aponta divergência jurisprudencial com arestos do Tribunal de Justiça do Estado de São Paulo.
+Foram oferecidas contrarrazões ao recurso especial (fls. 463-474).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 481-490), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 532-540).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, verifico que as razões veiculadas pela parte agravante mostram-se relevantes, razão pela qual o presente agravo deve ser convertido em recurso especial, a fim de possibilitar um melhor exame da controvérsia.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+ EMENTA
