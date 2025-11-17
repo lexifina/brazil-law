@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO POR AUSÊNCIA DE PROCURAÇÃO COM PODERES ESPECÍFICOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 76 DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF E 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto pelo Banco Safra S.A. contra decisão da 3ª Vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial em ação de falência movida contra Zanotti Indústria e Comércio de Malhas Ltda.
+2. Na origem, o juízo de primeiro grau extinguiu o processo sem resolução do mérito, ante o não atendimento à determinação de apresentação de procuração com poderes específicos para requerer falência, conforme exigência do art. 76 do CPC e art. 98 da Lei n. 11.101/2005.
+3. O recorrente sustentou, no especial, que a sentença seria nula por ausência de intimação pessoal da parte para sanar o vício de representação. O Tribunal local, contudo, considerou o recurso inadmissível com fundamento nas Súmulas 283 e 284/STF, por ausência de impugnação específica e fundamentação deficiente.
+4. No presente agravo, o Banco Safra defendeu a inaplicabilidade das referidas súmulas, alegando que impugnou de modo específico os fundamentos do acórdão recorrido.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em verificar se o agravo em recurso especial impugnou de forma específica e suficiente todos os fundamentos da decisão de inadmissibilidade proferida pela Vice-Presidência do Tribunal de origem, condição necessária para o seu conhecimento nos termos do art. 932, III, do CPC e da Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+6. O conhecimento do agravo em recurso especial pressupõe a impugnação específica de todos os fundamentos da decisão recorrida, sob pena de incidência da Súmula 182/STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. A decisão de inadmissibilidade proferida pela Vice-Presidência do TJSC baseou-se em dois fundamentos autônomos: (i) ausência de impugnação específica aos fundamentos do acórdão recorrido (Súmula 283/STF); e (ii) deficiência de fundamentação quanto à alegada violação do art. 1.022 do CPC (Súmula 284/STF).
+8. No agravo, o recorrente limitou-se a afirmar genericamente que impugnou a aplicação das súmulas, sem, contudo, demonstrar concretamente de que modo teria enfrentado cada fundamento da decisão denegatória, o que não satisfaz o princípio da dialeticidade recursal.
+9. Nos termos da jurisprudência consolidada, a ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo (STJ, AgRg no AREsp 726.599/DF, Rel. Min. Ricardo Villas Bôas Cueva, 3ª T., j. 20/3/2018; STJ, AgRg no REsp 1.464.098/GO, Rel. Min. Moura Ribeiro, 3ª T., j. 10/10/2017).
+IV. DISPOSITIVO
+10. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por Banco Safra S.A. contra decisão da 3ª Vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu o recurso especial manejado nos autos da Apelação Cível n. 0501509-56.2011.8.24.0008, oriunda de ação de falência proposta em face de Zanotti Indústria e Comércio de Malhas Ltda. (e-STJ, fls. 531-532).
+Na origem, o agravante ajuizou pedido de falência. Citada, a agravada não apresentou contestação nem depositou o montante integral do crédito nos termos do art. 98 da Lei n. 11.101/2005. O Ministério Público manifestou-se pela procedência do pedido, ante evidências de insolvência. O Juízo de primeiro grau determinou a juntada de procuração com poderes específicos para requerer falência, providência inicialmente cumprida. Posteriormente, houve substituição dos patronos, com nova ordem para apresentação de instrumento com poderes específicos. Antes do cumprimento, o agravante requereu suspensão administrativa do feito com base no art. 921 do CPC, a fim de diligenciar extrajudicialmente a localização de bens da devedora. Sobreveio nova substituição de patronos. Sem decisão sobre o pedido de suspensão e sem intimação pessoal ou processual para regularização da representação pelos novos procuradores, o Juízo sentenciou o processo, extinguindo-o sem resolução de mérito, por não atendimento da determinação de regularização dos poderes específicos (e-STJ, fls. 532-533).
+Embargos de declaração foram rejeitados. Na sequência, o Banco Safra interpôs recurso especial, sustentando violação do art. 76 do CPC, ao argumento de que, verificada irregularidade na representação (falta de poderes específicos para requerer falência), deveria haver intimação pessoal da parte para sanar o vício antes da extinção do processo (e-STJ, fls. 533-535).
+A 3ª Vice-Presidência do TJSC inadmitiu o recurso especial, com fundamento: (i) na Súmula 283/STF, por ausência de impugnação específica aos fundamentos do acórdão recorrido; e (ii) na Súmula 284/STF, por analogia, quanto à alegada violação do art. 1.022, II, do CPC, por fundamentação deficiente (e-STJ, fls. 533-534).
+No presente agravo, o recorrente sustenta a inaplicabilidade das Súmulas 283 e 284 do STF. Afirma que não alegou violação do art. 1.022 do CPC, afastando, por isso, a incidência da Súmula 284/STF; e que impugnou de maneira específica e exaustiva as razões do acórdão recorrido quanto à necessidade de intimação prevista no art. 76 do CPC, o que afasta a Súmula 283/STF (e-STJ, fls. 534-535). Alega, ainda, que, além da intimação pessoal da parte, seria igualmente cabível a intimação dos novos patronos para regularização do instrumento, destacando que a extinção foi proferida logo após a constituição dos novos advogados, sem lhes ser conferida oportunidade para sanar o vício (e-STJ, fl. 535).
+Ao final, requer o provimento do agravo para afastar a decisão de inadmissibilidade e determinar o processamento do recurso especial (e-STJ, fl. 536).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE FALÊNCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO POR AUSÊNCIA DE PROCURAÇÃO COM PODERES ESPECÍFICOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 76 DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF E 182/STJ. AGRAVO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto pelo Banco Safra S.A. contra decisão da 3ª Vice-Presidência do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial em ação de falência movida contra Zanotti Indústria e Comércio de Malhas Ltda.
+2. Na origem, o juízo de primeiro grau extinguiu o processo sem resolução do mérito, ante o não atendimento à determinação de apresentação de procuração com poderes específicos para requerer falência, conforme exigência do art. 76 do CPC e art. 98 da Lei n. 11.101/2005.
+3. O recorrente sustentou, no especial, que a sentença seria nula por ausência de intimação pessoal da parte para sanar o vício de representação. O Tribunal local, contudo, considerou o recurso inadmissível com fundamento nas Súmulas 283 e 284/STF, por ausência de impugnação específica e fundamentação deficiente.
+4. No presente agravo, o Banco Safra defendeu a inaplicabilidade das referidas súmulas, alegando que impugnou de modo específico os fundamentos do acórdão recorrido.
+II. QUESTÃO EM DISCUSSÃO
+5. A questão em discussão consiste em verificar se o agravo em recurso especial impugnou de forma específica e suficiente todos os fundamentos da decisão de inadmissibilidade proferida pela Vice-Presidência do Tribunal de origem, condição necessária para o seu conhecimento nos termos do art. 932, III, do CPC e da Súmula 182/STJ.
+III. RAZÕES DE DECIDIR
+6. O conhecimento do agravo em recurso especial pressupõe a impugnação específica de todos os fundamentos da decisão recorrida, sob pena de incidência da Súmula 182/STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. A decisão de inadmissibilidade proferida pela Vice-Presidência do TJSC baseou-se em dois fundamentos autônomos: (i) ausência de impugnação específica aos fundamentos do acórdão recorrido (Súmula 283/STF); e (ii) deficiência de fundamentação quanto à alegada violação do art. 1.022 do CPC (Súmula 284/STF).
+8. No agravo, o recorrente limitou-se a afirmar genericamente que impugnou a aplicação das súmulas, sem, contudo, demonstrar concretamente de que modo teria enfrentado cada fundamento da decisão denegatória, o que não satisfaz o princípio da dialeticidade recursal.
+9. Nos termos da jurisprudência consolidada, a ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do agravo (STJ, AgRg no AREsp 726.599/DF, Rel. Min. Ricardo Villas Bôas Cueva, 3ª T., j. 20/3/2018; STJ, AgRg no REsp 1.464.098/GO, Rel. Min. Moura Ribeiro, 3ª T., j. 10/10/2017).
+IV. DISPOSITIVO
+10. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+BANCO SAFRA S A interpôs recurso especial com fundamento no art. 105, III, "a, da Constituição Federal, ao argumento de violação aos arts. 76 e 1.022, II, do CPC.
+Aduz o recorrente que foi proferida sentença de 1.º grau, extinguindo o processo, sem a resolução de mérito, sob o fundamento de que embora intimado para regularizar o instrumento de procuração com poderes especí cos para requerer falência, o Recorrente não o fez, situação que conduz à nulidade da sentença, porquanto há necessidade de que a parte seja intimada pessoalmente quando veri cada irregularidade na sua representação processual (evento 45, RECESPEC1).
+Cumprida a fase do art. 1.030, caput, do Código de Processo Civil.
+Inviabilizada a fase do art. 1.030, caput, do Código de Processo Civil, porquanto a triangularização processual não se efetivou.
+Após remessa do feito, a douta Procuradoria-Geral de Justiça quedou-se inerte (eventos 48, 49 e 50).
+É o relatório.
+No recurso especial, o recorrente deve demonstrar a relevância das questões de direito federal infraconstitucional discutidas no caso, a  m de que a admissão do recurso seja examinada pelo Tribunal, nos termos do art. 105, § 2º, da Constituição Federal.
+O  ltro de relevância, todavia, pende de regulamentação, de modo que, por ora, a parte está dispensada da indicação dos fundamentos de relevância da questão de direito federal infraconstitucional.
+Presentes os requisitos extrínsecos, passo à admissibilidade recursal.
+Acerca do art. 76 do CPC, a admissibilidade do recurso especial encontra impedimento no enunciado da Súmula 283 do Supremo Tribunal Federal, por analogia, porquanto ausente impugnação especí ca aos fundamentos do aresto, destacados abaixo (evento 22, RELVOTO1):
+  a parte recorrente propôs, na origem, pedido de falência contra uma empresa que não efetuou o pagamento de dívida superior a 40 (quarenta) salários mínimos.
+A procuração originalmente juntada pela autora, entretanto, continha a informação de ser vedada para uso em pedidos de falência.
+No ev. 141, proc. judic. 4, p. 42, houve a primeira determinação de emenda da inicial para acostar procuração com poderes específicos e também certidão expedida pela junta comercial de regular existência e constituição.
+Houve pedido de dilação de prazo que foi deferido, e a parte apresentou a referida certidão e substabelecimento com poderes para tanto.
+Nesse ponto, adianto, não há como considerar regular o substabelecimento com reserva de poderes. Tratando- se de ato mediante o qual um mandatário transfere poderes a outro, é necessário que aquele detenha a prerrogativa que está transferindo, sob pena de nulidade. Em outros termos, deveria o substabelecente demonstrar que tinha poderes para deduzir pedido falimentar, sem o que o substabelecimento não é válido.
+Antes da apreciação judicial, ocorreu novo substabelecimento, ainda sem a correção do referido vício, sendo os procuradores novos intimados para suprir o vício em 10 (dez) dias e também informarem se ainda havia interesse no prosseguimento da ação, tendo em vista o decurso de tempo (ev. 1, proc. judic. 5, p. 10).
+(fls. 522)
+Seguiu-se pedido de dilação de prazo em 30 (trinta) dias que foi deferido.
+Foi juntada nova procuração, também contendo o termo "vedada a utilização do presente para requerimento de falência, ato para qual deverá ser elaborado instrumento de mandato específico".
+Ato contínuo, a parte requerente pugnou pela suspensão do presente feito nos termos do art. 921 do CPC para efetuar buscas de bens da empresa.
+Quase um ano depois, houve o substabelecimento em favor dos presentes representantes, ainda sem a correção do vício relativo à representação específica para fins falimentares.
+A ação foi extinta nos termos do relatório, tendo em vista não ser corrigido o vício já apontado em 2016.
+Acerca da necessidade de correção do vício de representação já tratado, aduziu a recorrente ser imperiosa a intimação pessoal previamente à extinção do feito.
+Sem razão.
+A espécie de vício de representação que determina a intimação pessoal é aquela disposta no art. 76 do CPC, que pressupõe incapacidade processual ou irregularidade de representação, e não a mera ausência de um poder específico.
+
+Ademais, a extinção decorreu do não atendimento a determinação simples por 5 (cinco) anos, demonstrando- se medida totalmente compatível com o andamento processual
+Em suas razões, a parte recorrente discorre, genericamente, sobre a necessidade de que a parte seja intimada pessoalmente quando veri cada irregularidade na sua representação processual, sem formular argumentação especí ca, capaz de derruir a conclusão do acórdão recorrido ("A espécie de vício de representação que determina a intimação pessoal é aquela disposta no art. 76 do CPC, que pressupõe incapacidade processual ou irregularidade de representação, e não a mera ausência de um poder específico").
+Consabido que à luz do princípio da dialeticidade, não basta à parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos su cientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento proferido merece ser modi cado (STJ, AgInt nos EDcl no AREsp n. 2.168.791/RR, rel. Min. Herman Benjamin, Segunda Turma, j. em 20-6-2023).
+Em caso assemelhado, decidiu o STJ:
+Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação especí ca nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese. (AgInt nos EDcl no AREsp n. 2.335.203/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, j. em 16-10- 2023).
+Outrossim, quanto à alegada violação do art. 1.022, II, do CPC, o recurso não apresenta condições para prosseguir, sendo impedido pela Súmula 284 do Supremo Tribunal Federal, po analogia, devido à fundamentação de ciente. Observa-se que a parte recorrente alegou, de maneira genérica, a violação ao mencionado dispositivo legal, sem desenvolver argumentos que demonstrem especificamente a suposta irregularidade.
+Sobre o assunto, orienta o Superior Tribunal de Justiça:
+Não se conhece da suposta afronta ao artigo 1.022, II, do CPC/2015, pois o recorrente se limitou a a rmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para  ns de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF. (AgInt no AREsp n. 2.240.995/MG, relª. Minª. Maria Isabel Gallotti, Quarta Turma, j. em 16-10-2023).
+Diante do exposto, com fulcro no art. 1.030, V, do CPC, NÃO ADMITO o recurso especial do evento
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Observa-se que, no presente caso, que o recurso de agravo não impugna, de maneira efetiva e detida, todos os capítulos da decisão de inadmissão. Do mesmo modo, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, bem como não se demonstrou a inaplicabilidade dos julgados indicados pelas decisões que inadmitiram os recursos especiais ao presente caso, o que inviabiliza o conhecimento das insurgências.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por óbice da Súmula nº 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 726.599/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2018, DJe de 3/4/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DO ART. 557 DO CPC/73. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A possibilidade de interposição de agravo regimental contra decisão monocrática proferida com esteio no art. 557 do CPC/73, afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. O agravo regimental não impugnou as razões da decisão agravada, pois não refutou a aplicação das Súmulas nºs 282 e 356 do STF, em razão da ausência de prequestionamento dos arts. 113, § 2º, 128, 165, 183, § 1º, 267, § 3º, 301, 319, 322, parágrafo único, 458, II, III, 460 do CPC/73. Incide, no ponto, a Súmula nº 182 do STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no REsp n. 1.464.098/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2017, DJe de 20/10/2017.)
+Ante o exposto, não conheço do agravo em recurso especial.
+É o voto.
