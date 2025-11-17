@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. R AZÕES DISSOCIADAS. SÚMULA Nº 284/STF. OUTORGA UXÓRIA. PROCURAÇÃO VÁLIDA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não se configura negativa de prestação jurisdicional quando o tribunal de origem examina, de forma fundamentada, as questões suscitadas, ainda que contrariamente aos interesses da parte recorrente.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca da demonstração da válida outorga uxória concedida pela recorrente demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+5 . Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto p or BELKISS MONTEIRO MARTINS e OUTRO contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PRELIMINAR DE ILEGITIMIDADE - TEORIA DA ASSERÇÃO - REJEIÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - TÍTULO EXECUTIVO EXTRAJUDICIAL DOTADO DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE. O Código de Processo Civil adotou a teoria da asserção, segundo a qual a análise da legitimidade da parte realiza-se em abstrato, conforme os fatos narrados na petição inicial. A cédula de crédito bancário é título de crédito extrajudicial dotado de liquidez, certeza e exigibilidade (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004), quando representativo de operação de crédito empréstimo - capital de giro, acompanhada de memória de cálculo das parcelas contratadas inadimplidas (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004). Apenas incide em litigância de má-fé a parte que pratica as condutas elencadas no artigo 80 do CPC, agindo, comprovadamente, com dolo ou culpa em sentido processual, com intuito de causar prejuízo ao andamento processual ou à parte contrária. " (e-STJ fl. 489).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 531/536).
+No recurso especial, os recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 489, § 1º, IV, e § 2º, e 1.022 do Código de Processo Civil -sustentando a nulidade do acórdão por não suprir as omissões apontadas nos embargos de declaração;
+(ii) artigos 783 e 798, inciso I, do Código de Processo Civil - aduzindo que a demanda não foi instruída com todos os documentos essenciais à propositura do feito executivo;
+(iii) artigo 1.647, inciso III, do Código Civil - alegando que não foi observada a necessidade de autorização do cônjuge para prestar aval.
+Apresentadas as contrarrazões (e-STJ fls. 575/582), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. LIQUIDEZ, CERTEZA E EXIGIBILIDADE. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. R AZÕES DISSOCIADAS. SÚMULA Nº 284/STF. OUTORGA UXÓRIA. PROCURAÇÃO VÁLIDA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não se configura negativa de prestação jurisdicional quando o tribunal de origem examina, de forma fundamentada, as questões suscitadas, ainda que contrariamente aos interesses da parte recorrente.
+2. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+4. Na hipótese, rever a conclusão do aresto impugnado acerca da demonstração da válida outorga uxória concedida pela recorrente demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+5 . Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o tribunal de origem manifestou-se expressamente quanto à certeza, liquidez e exigibilidade do titulo executivo, conforme se verifica do seguinte trecho do acórdão:
+"(..)
+No entanto, a parte apelante afirma que o título apresentado não é dotado de liquidez.
+Cumpre salientar que a legitimidade do Banco Bradesco S/A para cobrança da dívida é patente, uma vez que restou comprovada a aquisição, em 2016, do ativo e passivo do antigo HSBC Bank Brasil S/A, o que demonstra, mais uma vez, que foi correta a decisão do juízo de origem que rejeitou a preliminar de ilegitimidade ativa que foi arguida, e ora confirmada nesta instância recursal.
+No que concerne ao título que embasa o processo de execução, os apelantes alegam que o referido documento não é dotado de certeza e exigibilidade, uma vez que não está acompanhado dos contratos anteriores e que foram objeto de renegociação, mas fato é que tais argumentos não prosperam.
+Isso, porque a cédula de crédito bancário é título de crédito extrajudicial dotado de liquidez, certeza e exigibilidade (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004), quando representativo de operação de crédito empréstimo - capital de giro, acompanhada de memória de cálculo das parcelas contratadas inadimplidas (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+Ainda, cumpre registrar que o fato alegado de que a cédula executada é decorrente de renegociação de dívidas anteriores não prejudica a liquidez, a certeza e a exigibilidade da dívida executada constante de cédula de crédito bancário, previstas em lei.
+Também não gera prejuízo para a execução o fato da procuração contendo outorga uxória ter sido apresentada apenas quando da impugnação aos embargos, visto que a sua juntada não constitui elemento obrigatório, tampouco tem o condão de afastar a natureza de título executivo extrajudicial da cédula de crédito bancário.
+E, ao contrário do que é alegado pela parte apelante, na procuração apresentada (f. 432 do doc. único), consta de forma clara e objetiva que a apelante/executada Belkiss Monteiro Martins outorgou poderes ao seu marido Marcelo Silva Martins para lhe representar perante instituições financeiras, inclusive para "dar aval em cédula de crédito", bem como outras espécies de garantias.
+Logo, não há que se falar em nulidade do aval prestado, uma vez que contou com a outorga uxória, de forma que o ato é legítimo.
+Por outro lado, o afastamento da condenação por litigância de má-fé é medida que se impõe, já que não há comprovação de que a parte embargante/apelante tenha agido com dolo processual. Isto é, apenas incide em litigância de má-fé a parte que pratica as condutas elencadas no artigo 80 do CPC, agindo, comprovadamente, com dolo ou culpa em sentido processual, com intuito de causar prejuízo ao andamento processual ou à parte contrária.
+Por fim, registre-se que o afastamento da penalidade de litigância de má-fé não é causa para redistribuição dos ônus da sucumbência" (e-STJ fls. 497/498 - grifou-se).
+Não há omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Conforme dispõe o art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Nota-se que os argumentos apresentados pelos recorrentes para demonstrar a violação dos artigos 783 e 798, inciso I, do Código de Processo Civil estão dissociados dos fundamentos do aresto combatido.
+O acórdão recorrido reconheceu o preenchimentos do requisitos do art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004, lei especial que regulamenta o trato dos títulos cambiais, na qual não há previsão acerca da necessidade da demonstração da outorga uxória para propositura da demanda.
+Nas razões do apelo nobre, os recorrentes defenderam a violação dos dispositivos previstos na lei processual, os quais dispõem acerca da necessidade da apresentação do título executivo para propositura da ação.
+Assim, as razões apresentadas no especial deixaram de impugnar especificamente as bases firmadas na Corte local, de modo a incidir o óbice previsto na Súmula nº 283/STF aplicado por analogia.
+Ademais os referidos artigos não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelos recorrentes, o que configura deficiência de fundamentação do recurso especial, atraindo o óbice da Súmula nº 284/STF.
+Desse modo, aplica-se, por analogia, o óbice da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. RAZÕES DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente o recurso especial quando suas razões estão dissociadas dos fundamentos do acórdão impugnado, o que atrai, por analogia, a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.156.599/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA A TESE REPETITIVA. CONVERSÃO DA EXECUÇÃO EM AÇÃO DE CONHECIMENTO. RAZÕES DISSOCIADAS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULAS 283 E 284/STF. EMENDA À INICIAL. COMPLEMENTAÇÃO DE DOCUMENTAÇÃO. NÃO ALTERAÇÃO DO PEDIDO OU DA CAUSA DE PEDIR. POSSIBILIDADE. PRECEDENTES. INEXIGIBILIDADE DO TÍTULO. APRECIAÇÃO POSTERGADA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem se manifestado expressamente e com adequada fundamentação, ainda que em sentido oposto ao pretendido pela agravante, sobre a alegada nulidade da execução devido à existência de decisões que impedem qualquer pagamento à autora, não há violação ao art. 1.022 do CPC/2015, nem negativa de prestação jurisdicional.
+2. A apresentação de razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem configura deficiência da fundamentação recursal e atrai a incidência da Súmula 284/STF.
+(..)
+7. Agravo interno desprovido."
+(AgInt no REsp 1.844.790/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023 - grifou-se)
+No que concerne à suposta violação do artigo 1.647, inciso III do Código Civil, o Tribunal de origem, à luz da prova dos autos, concluiu pela demonstração da válida outorga uxória, por meio de procuração outorgada pela recorrente ao recorrente, seu marido, sendo, pois, válido o aval prestado, conforme se extrai da leitura do voto condutor supracitado.
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. TÍTULO DE CRÉDITO. AUSÊNCIA DE CIRCULAÇÃO. DISCUSSÃO A RESPEITO DA HIGIDEZ OU DA EXIGIBILIDADE. ÔNUS DO DEVEDOR. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. TEORIA DA APARÊNCIA. VALORAÇÃO A PARTIR DA ANÁLISE DA PROVA FÁTICA. REFORÇO ARGUMENTATIVO. AUSÊNCIA DE IMPUGNAÇÃO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Como regra geral, não é exigível da parte credora portadora de nota promissória colocada em cobrança ou em execução a prova do crédito no documento estampado. Na eventualidade de se discutir a prova do crédito contido no título, cabe à parte devedora comprovar os fatos contrários à higidez ou à exigibilidade nele presumidos, nos termos do art. 373, II, do CPC.
+2. A ausência de impugnação de fundamento autônomo utilizado pelo tribunal de origem para negar o direito da parte atrai, por analogia, a incidência da Sumula n. 283 do STF.
+3. Tendo o tribunal a quo concluído, mediante a análise do contrato e do acervo probatório dos autos, que existe cláusula com outorga de poderes de uso de firma para representar a sociedade e realizar operações estranhas ao objeto da sociedade empresarial, inclusive de natureza cambial, revisar referida conclusão encontra óbice nas Súmulas n. 5 e 7 do STJ.
+4. A incidência de óbices à admissão do recurso pela alínea a do permissivo constitucional impede a análise no tocante à alínea c, tornando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei apontado como violado e sobre a tese jurídica defendida.
+5. Agravo interno desprovido."
+(AgInt no REsp n. 2.036.220/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024. - grifou-se)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MANDATO. PROCURAÇÃO QUE OUTORGA PODERES PARA O AVAL. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que "(..) não há que se falar em nulidade do aval prestado, porquanto baseado em instrumento público válido de procuração com poderes específicos para o tipo de negócio comercial realizada". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concerto, demandaria revolvimento de matéria fático-probatório, inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7/STJ.
+2. Agravo interno não provido."
+(AgInt no AREsp n. 1.787.358/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021. - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MANDATO. OUTORGA DE PODERES PARA PRESTAR AVAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.255.702/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/2/2020, DJe de 18/2/2020.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 13% (treze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
