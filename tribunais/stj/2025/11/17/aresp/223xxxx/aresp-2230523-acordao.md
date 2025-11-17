@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO RURAL. PRESCRIÇÃO. DEFEITO NA REPRESENTAÇÃO. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. LEGITIMIDADE ATIVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. Inviável rever o entendimento firmado pela instância ordinária acerca da ilegitimidade ad causam da parte quando amparado nos elementos fático-probatórios dos autos. Incidência da Súmula n. 7 do STJ .
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por M. REDDA SERVICOS E CONSULTORIA EMPRESARIAL EIRELI contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"ARRENDAMENTO RURAL. Abordagem de arrendadores, perquirindo a resolução do vínculo, com reintegração de posse e disciplina de perdas e danos. Juízo de procedência. Apelo da ré. Parcial provimento" (e-STJ fl. 1936).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1958/1960).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 193 e 206 do Código Civil - porque a ação estaria prescrita;
+(ii) art. 337, IX, do Código de Processo Civil - haja vista a irregularidade da representação processual;
+(iii) arts. 17 e 18 do Código de Processo Civil - haja vista a ilegitimidade da parte;
+(ii) art. 489 do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação;
+Após as contrarrazões (e-STJ fls. 2002/2015), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO RURAL. PRESCRIÇÃO. DEFEITO NA REPRESENTAÇÃO. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. LEGITIMIDADE ATIVA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+2. Inviável rever o entendimento firmado pela instância ordinária acerca da ilegitimidade ad causam da parte quando amparado nos elementos fático-probatórios dos autos. Incidência da Súmula n. 7 do STJ .
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, no que tange à legitimidade, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No que tange à suposta violação aos artigos 193 e 206 do Código Civil em virtude de eventual prescrição, bem como irregularidade de representação (art. 337, IX, do CPC), observa-se que não houve prequestionamento.
+Vale anotar que a jurisprudência desta Corte é firme no sentido de que "mesmo as questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento" (AgInt no REsp 1.866.877/CE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PENHORA DE IMÓVEL. CÔNJUGE. INTIMAÇÃO. AUSÊNCIA. NULIDADE. INEXISTÊNCIA. MENOR ONEROSIDADE. PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF E 211/STJ. PRESCRIÇÃO INTERCORRENTE. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. Não é omisso o acórdão que examina todas as questões que lhe foram propostas, embora em sentido contrário ao pretendido pela parte.
+2. "Se a penhora incide sobre bens imóveis, a ausência de intimação do cônjuge do executado não faz nula a penhora, mas sim a sua intimação. Precedentes." (AgRg nos EDcl no REsp 239.527/SP, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 18/8/2009, DJe 2/9/2009)
+3. Mesmo em relação às matérias de ordem pública, sobre as quais as instâncias ordinárias podem prover de ofício, exige-se o prequestionamento na instância especial.
+4. A ausência de indicação de dispositivo legal e do modo que teria sido violado pelo Tribunal de segundo grau ou de demonstração de divergência jurisprudencial a respeito de questão suscitada no recurso especial atrai a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento"
+(AgInt no AREsp 1.885.937/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021 - grifou-se)
+Em relação à tese de ilegitimidade ativa e nulidade por modificação do polo processual, verifica-se que o Tribunal de origem analisou a controvérsia à luz dos elementos de provas constantes dos autos, conforme se verifica do seguinte trecho do julgado:
+"Erro material, sobrevindo adequada correção nos limites de litisconsórcio (fls. 46/47), não há falar em vício constitutivo, ademais sem comprometer o pleno exercício do direito de defesa" (e-STJ fl. 1937)
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+A propósito:
+"PROCESSO CIVIL. RECURSO ESPECIAL. PEDIDOS PRELIMINARES. EFEITO SUSPENSIVO DO ESPECIAL E CONSTRIÇÃO DE PARCELA DO FATURAMENTO DE PESSOA JURÍDICA . PEDIDOS PREJUDICADOS. AÇÃO DE RESSARCIMENTO. ILEGITMIDADE AD CAUSAM ATIVA RECONHECIDA NA ORIGEM. REVISÃO . IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. SÓCIO DE PESSOA JURÍDICA . PEDIDO DE RESSARCIMENTO EM NOME PRÓPRIO. IMPOSSIBILIDADE. NÃO DEMONSTRAÇÃO DE INTERESSE JURÍDICO. SÚMULA N . 83 DO STJ. INEXISTÊNCIA DE LEGITIMAÇÃO EXTRAORDINÁRIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AUSÊNCIA DE SIMILITUDE FÁTICA . HONORÁRIOS ADVOCATÍCIOS MAJORADOS. ART. 85, § 11, DO CPC. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO . 1. A existência de coisa julgada em relação à ação acessória prejudica o pedido preliminar de atribuição de efeito suspensivo a recurso especial fundado na mesma tese defensiva. 2. A atribuição de efeito suspensivo a recurso especial somente ocorre em hipóteses excepcionais, exigindo-se, para tanto, a presença cumulada dos requisitos legais referentes à possibilidade de risco de dano grave ou de difícil ou impossível reparação e à probabilidade de provimento do recurso . 3. Inviável rever o entendimento firmado pela instância ordinária acerca da ilegitimidade ad causam da parte recorrente quando amparado nos elementos fático-probatórios dos autos. Incidência da Súmula n. 7 do STJ . 4. Inexiste legitimidade ativa ad causam do sócio de pessoa jurídica que, em nome próprio, postula indenização por prejuízos causados ao patrimônio da empresa, visto que eventual procedência do pedido teria como destinatária final a própria sociedade, além da recomposição do capital social lesado. 5. O interesse meramente econômico do sócio é insuficiente para caracterizar interesse jurídico apto a justificar o prosseguimento da ação . 6. A incidência da Súmula n. 7 do STJ prejudica a análise do dissídio jurisprudencial acerca do mesmo dispositivo legal ou tese jurídica, tendo em vista a diferença fática dos julgados paradigma e recorrido. 7 . A ausência de similitude fática entre os julgados confrontados impede o exame do recurso especial interposto com amparo na alínea c do permissivo constitucional. 8. Considerando o disposto no art. 85, § 11, do CPC, c/c o Enunciado Administrativo n . 7 do STJ, impõe-se a majoração dos honorários advocatícios fixados na origem, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição de recurso especial. 9. Recurso especial parcialmente conhecido e desprovido."
+(STJ - REsp: 1985206 RJ 2021/0345188-0, Relator.: Ministro JOÃO OTÁVIO DE NORONHA, Data de Julgamento: 11/04/2023, T4 - QUARTA TURMA, Data de Publicação: DJe 24/04/2023, grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+É o voto.
