@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por ENNY ARLETTE PIOLI BASSETTI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DESCONTOS DE PRÊMIO DE SEGURO EM CONTA CORRENTE. ALEGAÇÃO DE AUSÊNCIA DE CONTRATAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO INTERPOSTO PELA AUTORA.
+I. PRELIMINAR DE INOVAÇÃO RECURSAL SUSCITADA EM CONTRARRAZÕES. ACOLHIMENTO. ALEGAÇÃO DE QUE AS ASSINATURAS APOSTAS NAS DOCUMENTAÇÕES APRESENTADAS PELA RÉ NÃO SÃO DA DEMANDANTE QUE NÃO FOI DEDUZIDA EM PRIMEIRO GRAU. RECURSO NÃO CONHECIDO NESTE PONTO.
+II. RELAÇÃO JURÍDICA ENTRE AS PARTES COMPROVADA. DOCUMENTOS APRESENTADOS PELA RÉ QUE DEMONSTRAM A CONTRATAÇÃO DOS SEGUROS. AUTORA QUE NÃO IMPUGNOU ESPECIFICAMENTE AS PROVAS PRODUZIDAS PELA DEMANDADA. CONJUNTO PROBATÓRIO QUE DEMONSTRA A LEGITIMIDADE DOS DESCONTOS. AUSÊNCIA DO DEVER DE INDENIZAR.
+III. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 462-469).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia, em especial acerca de: (a) cancelamento unilateral dos contratos como falha na prestação do serviço; (b) ausência de disponibilização de apólices ou certificados e de informações ao longo de 11 anos; (c) relação direta entre o cancelamento sem anuência e os pedidos de danos materiais e morais, inclusive considerando a idade avançada da segurada.
+Aduz, no mérito, violação dos arts. 723 do Código Civil e 126 e 127 do Decreto-Lei n. 73/1966.
+Sustenta, em síntese, que a corretora de seguros violou suas obrigações legais ao cancelar unilateralmente os contratos, sem autorização ou anuência, e ao recolher prêmios por anos sem disponibilizar documentos e informações, devendo responder por perdas e danos (fls. 490-493).
+Defende, ainda, a responsabilidade civil do corretor por prejuízos causados por omissão, imperícia ou negligência no exercício da profissão (art. 126), e responsabilidade profissional perante a Superintendência de Seguros Privados (SUSEP) quando não cumprir leis e regulamentos ou causar prejuízos dolosa ou culposamente (art. 127) (fls. 491-493).
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 502-509).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 510-513), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 536-541).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Cuida-se, na origem, de ação indenizatória proposta pelo espólio contra corretora de seguros, visando à restituição de prêmios debitados por anos e indenização por danos morais, sob dois argumentos alternativos: (i) inexistência/irregularidade da contratação por ausência de documentos e memória da contratação; e (ii) sendo válidos os contratos, falha na prestação do serviço pelo cancelamento unilateral sem anuência (fls. 475-485).
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, solucionou a lide em conformidade com o que foi apresentado em juízo, conforme se extrai do trecho:
+Assim sendo, ao que dos autos consta, a contratação dos seguros que ensejaram os descontos dos prêmios na conta bancária da autora originária foi regular, não havendo que se falar em ilícito
+Verifica-se, portanto, que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+O que a parte recorrente aponta como "omissão" ou "falta de fundamentação" traduz, na verdade, mero inconformismo com a tese jurídica adotada. O julgador não está obrigado a rebater, um a um, todos os argumentos e dispositivos legais invocados pelas partes, quando já encontrou motivo suficiente para fundamentar sua decisão. O Poder Judiciário não funciona como um órgão consultivo, obrigado a responder a um "questionário" das partes.
+A propósito, cito o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022, grifo meu.)
+Com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem, ao negar provimento à apelação, concentra-se na validade da contratação e na ausência de ato ilícito, afirmando que a contratação dos seguros foi regular e que não há danos morais porque seria "alegação contraditória" (contratos nunca celebrados com pedido de indenização moral), sem abordar a questão jurídica específica da falha na prestação do serviço atribuída à corretora (cancelamento unilateral sem anuência e ausência de disponibilização de apólices/certificados e informações) à luz do art. 723 do Código Civil e dos arts. 126 e 127 do Decreto-Lei n. 73/1966.
+Portanto, a fundamentação do recorrente encontra óbice na Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido, cito:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Por fim, o recorrente pleiteia que que analise a divergência jurisprudencial apontada. Isso, contudo, não se mostra possível, pois os mesmos óbices impostos à admissão do recurso pela alínea "a" do art. 105 da CF impedem a análise recursal pela alínea "c" do mesmo dispositivo constitucional, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+É o que os seguintes julgados demonstram:
+XI - Prejudicado o exame do recurso especial interposto pela alínea c do permissivo constitucional, pois a inadmissão do apelo proposto pela alínea a por incidência de enunciado sumular diz respeito aos mesmos dispositivos legais e tese jurídica.
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+5. É pacífico o entendimento desta Corte superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+(AgInt no AREsp n. 2.683.103/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Assim, não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+ EMENTA
