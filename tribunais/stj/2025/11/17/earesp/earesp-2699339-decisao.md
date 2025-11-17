@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos contra acórdão da Terceira Turma, assim ementado (fls. 497-498):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DE RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS. SÚMULA 282/STF. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO. AUSÊNCIA DE INDICAÇÃO DO VALOR INCONTROVERSO. MEMÓRIA DE CÁLCULO NÃO APRESENTADA. REJEIÇÃO. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo em Recurso Especial interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula 83 do STJ, visto que a decisão recorrida adotou entendimento idêntico ao sedimentado por esta Corte. A parte agravante sustentou o cabimento do recurso, alegando violação a diversos dispositivos legais (artigos 10, 317, 321, 771, parágrafo único, e 917 do Código de Processo Civil).
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o recurso especial pode ser conhecido apesar da inexistência de prequestionamento dos dispositivos legais tidos por violados e do embasamento da decisão recorrida na jurisprudência sedimentada deste Tribunal Superior, no sentido de que a alegação de excesso formulada em embargos à execução deve vir acompanhada do valor apontado como devido e da memória de cálculo, sob pena de rejeição liminar.
+III. Razões de decidir
+3. A ausência de prequestionamento dos dispositivos legais considerados violados (artigos 317, 321, 771, parágrafo único, e 917 do Código de Processo Civil) impede o conhecimento do recurso especial, conforme a Súmula 282/STF, não se mostrando viável o pronunciamento originário a respeito de matérias não discutidas na origem.
+4. A decisão recorrida está alinhada à jurisprudência do Superior Tribunal de Justiça , atraindo a incidência da Súmula 83/STJ, pois é entendimento desta Corte que a alegação de excesso em embargos à execução exige a indicação do valor tido como devido e a apresentação da memória de cálculo, sob pena de rejeição liminar ou de não conhecimento do referido fundamento, vedando-se a emenda à inicial.
+IV. Dispositivo
+5. Resultado do Julgamento: Agravo não conhecido.
+O recorrente, em suas razões, alega divergência em relação ao entendimento da Segunda Turma e da Primeira Seção. Para tanto, indica como paradigmas os acórdãos do AgInt no AREsp 2.632.111/SP, AgInt nos EDcl no AREsp 2.665.676/PE e REsp 1.944.899/PE (Tema 1.141/STJ).
+Cinge-se a alegada divergência a: (i) definição dos requisitos para afastar o óbice da Súmula 83/STJ (contemporaneidade de precedentes e/ou demonstração de distinção específica); (ii) configuração do prequestionamento ficto do art. 1.025 do Código de Processo Civil mediante alegação de violação do art. 1.022 do mesmo diploma.
+Assim posta a controvérsia, passo a decidir.
+Da análise dos autos e, sobretudo, do julgado trazido nas razões do recurso, observo que os embargos de divergência não reúnem condições de serem conhecidos, pois não atendem à estrita hipótese de cabimento do art. 1.043, III, do Código de Processo Civil.
+A parte pretende, nestes embargos de divergência, rediscutir pressupostos de admissibilidade do recurso especial, em especial o prequestionamento e a demonstração de divergência com a atual jurisprudência do STJ (Súmula 83/STJ).
+O entendimento desta Corte, contudo, é de que "( ) não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais" (AgInt nos EAREsp n. 1.924.581/MG, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023).
+Relembro, por oportuno, que a Lei 13.256/2016 revogou o inciso II do art. 1.043 do Código de Processo Civil, que previa o cabimento dos embargos de divergência relativos ao juízo de admissibilidade. Dessa forma, não cabe, pela via dos embargos de divergência, rever a aplicabilidade dos óbices de admissibilidade no caso concreto, a fim de avançar no juízo de mérito da causa.
+O art. 1.043, III, do Código de Processo Civil prevê o cabimento de embargos de divergência, ainda que um dos acórdãos não tenha sido conhecido, mas desde que tenha apreciado a controvérsia. No caso em julgamento, o acórdão embargado não analisou o mérito do recurso e, muito menos, a controvérsia nele versada. Os embargos de divergência não servem para alterar ou reavaliar os critérios de conhecimento do recurso, passando-se ao mérito do recurso:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DA CONTROVÉRSIA. CORRETA INCIDÊNCIA DA SÚMULA 315/STJ.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ (AgInt nos EDcl nos EDv nos EREsp 1615774/MG, Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl nos EDv nos EDcl no AREsp n. 2.203.366/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/5/2023, DJe de 10/5/2023.)
+Portanto, incide o óbice da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Em face do exposto, indefiro liminarmente os embargos de divergência.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte embargada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
