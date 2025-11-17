@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. RECUSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Inexiste negativa de prestação jurisdicional, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia relativa à observância do princípio da anterioridade nonagesimal, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FABIANA GARCIA VENTURI contra decisão, proferida às e-STJ fls. 562/567, em que conheci do agravo para negar provimento ao recurso especial, por não vislumbrar negativa de prestação jurisdicional.
+A agravante sustenta que o acórdão proferido pelo Tribunal de origem incorreu em ofensa aos arts. 489 e 1.022, II, do CPC, ao deixar de se manifestar sobre "os relevantes documentos acima identificados, os quais não deixam margem para dúvidas de que houve a extinção pelo pagamento / compensação do crédito tributário (via quitação guia DARF ou homologação PER/DCOMP)" (e-STJ fl. 576), ou seja, não analisou documentos que, alega, comprovam a extinção do crédito tributário.
+Sem impugnação (certidão de e-STJ fl. 589).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECUSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.
+1. Inexiste negativa de prestação jurisdicional, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia relativa à observância do princípio da anterioridade nonagesimal, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+O Tribunal Regional Federal da 3ª Região entendeu que, sendo a contribuinte sócia e gestora da empresa fonte pagadora, deve ser mantida sua responsabilidade tributária individual pelo não recolhimento do imposto de renda pessoa física.
+Eis a ementa do acórdão (e-STJ fl. 394):
+DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA FÍSICA. SÓCIA ADMINISTRADORA DA EMPRESA. RESPONSÁVEL PELO PREENCHIMENTO DAS DECLARAÇÕES. SUPOSTA RETENÇÃO NA FONTE. AUSÊNCIA DE PROVA ROBUSTA. EXCEPCIONALIDADE VERIFICADA NO CASO CONCRETO. RECURSO DE APELAÇÃO PROVIDO.
+1 - A responsabilidade da fonte pagadora não implica que o beneficiário tenha excluída sua responsabilidade tributária, na medida que o fato gerador do imposto de renda é a aquisição da disponibilidade econômica ou jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos; e de proventos de qualquer natureza (art. 43, do CTN).
+2 - A legislação estabelece que a retenção deve ser comprovada mediante documento emitido pela fonte pagadora em nome do contribuinte, conforme dispõe o artigo 55 da Lei nº 7.450/85 e art. 87 do RIR/99, vigente à época (Decreto nº 3000/99).
+3 - No caso concreto, a parte autora juntou um informe de rendimentos demonstrando a retenção na fonte. Todavia, a responsável pelas informações é a própria autora, sócia da empresa.
+4 - Não se desconhece que a jurisprudência é pacífica no sentido de afastar o pagamento do imposto de renda do contribuinte que sofreu a retenção do tributo pela fonte pagadora. Contudo, se trata de um caso excepcional, no qual a contribuinte é a proprietária da empresa e a responsável pelo preenchimento das declarações ao Fisco.
+5 - A autora, como proprietária da empresa, poderia ter juntado a guia comprovando os recolhimentos e não o fez.
+6 - Não se trata de penalizar o contribuinte, posto que não há comprovação robusta de que tenha sofrido a retenção na fonte, tampouco que o valor supostamente retido foi recolhido aos cofres públicos.
+7 - Neste caso, a responsabilidade não pode ser única e exclusiva da fonte pagadora.
+8 - Recurso de apelação da União provido
+Ao dar provimento à apelação se manifestou sobre o princípio da anterioridade nonagesimal, nos seguintes termos (e-STJ fls. 392/393):
+Aduz a parte autora, em síntese, que está sendo cobrada por imposto de renda descontado na fonte que não foi repassado ao Fisco por sua empregadora. Contudo, a parte autora omite em sua petição inicial que é sócia- administradora da empresa e a responsável pelo preenchimento da DIRF - Declaração de Imposto de Renda Retido na Fonte (id 256621441 e 256621442).
+O parágrafo único do art. 45 do Código Tributário Nacional estabelece que a lei pode atribuir à fonte pagadora da renda ou dos proventos tributáveis a condição de responsável pelo imposto cuja retenção e recolhimento lhe caibam.
+A responsabilidade da fonte pagadora não implica que o beneficiário tenha excluída sua responsabilidade tributária, na medida que o fato gerador do imposto de renda é a aquisição da disponibilidade econômica ou jurídica de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos; e de proventos de qualquer natureza (art. 43, do CTN).
+A legislação estabelece que a retenção deve ser comprovada mediante documento emitido pela fonte pagadora em nome do contribuinte, conforme dispõe o artigo 55 da Lei nº 7.450/85 e art. 87 do RIR/99, vigente à época (Decreto nº 3000/99).
+No caso concreto, a parte autora juntou um informe de rendimentos demonstrando a retenção na fonte. Todavia, a responsável pelas informações é a própria autora, sócia da empresa.
+Não se desconhece que a jurisprudência é pacífica no sentido de afastar o pagamento do imposto de renda do contribuinte que sofreu a retenção do tributo pela fonte pagadora. Contudo, se trata de um caso excepcional, no qual a contribuinte é a proprietária da empresa e a responsável pelo preenchimento das declarações ao Fisco.
+A autora, como proprietária da empresa, poderia ter juntado a guia comprovando os recolhimentos e não o fez. É relevante constar que, regularmente intimada a comprovar os valores declarados, a contribuinte não atendeu tempestivamente à intimação da Receita Federal.
+Não se trata de penalizar o contribuinte, posto que não há comprovação robusta de que, de fato, tenha sofrido a retenção na fonte, tampouco que o valor supostamente retido foi recolhido aos cofres públicos.
+Neste caso, a responsabilidade não pode ser única e exclusiva da fonte pagadora.
+O informe de rendimentos, elaborado pela própria parte autora, na condição de sócia e gestora da empresa, é insuficiente para comprovar a retenção. Portanto, sendo a contribuinte sócia e gestora da empresa fonte pagadora, deve ser mantida sua responsabilidade tributária individual pelo não recolhimento do imposto de renda pessoa física.
+Verifica-se que o acórdão recorrido pontuou ter sido a autora regularmente intimada a comprovar os valores declarados, mas "não atendeu tempestivamente à intimação da Receita Federal". Ainda, destacou: "não há comprovação robusta de que, de fato, tenha sofrido a retenção na fonte, tampouco que o valor supostamente retido foi recolhido aos cofres públicos". Concluiu que "o informe de rendimentos, elaborado pela própria parte autora, na condição de sócia e gestora da empresa, é insuficiente para comprovar a retenção" (e-STJ fl. 393).
+Nesse contexto, não se vislumbra deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia relativa ao princípio da anterioridade nonagesimal, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 10, 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.646.468/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSIONÁRIO DE SERVIÇO PÚBLICO. RODOVIA FEDERAL. FAIXA DE DOMÍNIO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. UTILIZAÇÃO. INSTALAÇÃO DE POSTES E FIOS. REMUNERAÇÃO EXIGIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. COBRANÇA PREVISTA NO CONTRATO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Da alegada violação dos arts. 489, §1º, IV e V, e 1.022, I e II, do CPC/2015, sem razão os recorrentes, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, mormente aquelas indicadas como omitidas (fls. 893-902) não obstante tenha decidido contrariamente às suas pretensões.
+V - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp n. 1.046.644/MS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e AgInt no REsp n. 1.625.513/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017).
+ ..
+XI - Agravo interno desprovido.
+(AgInt no AREsp 1.6 04.913/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022).
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Dessa forma, correta a rejeição dos embargos de declaração, ante a inexistência de omissão, contradição ou obscuridade a ser sanada, e, por conseguinte, deve-se concluir pela ausência de negativa de prestação jurisdicional.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
