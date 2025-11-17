@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEON DENIZ BUENO DA CRUZ contra a decisão que inadmitiu o recurso especial, por incidência da Súmula n. 7 do STJ quanto à alegada violação ao art. 85, § 2º, do Código de Processo Civil (fls. 364-366).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão de fl. 354.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás em apelação cível, nos autos de ação de arbitramento de honorários advocatícios.
+O julgado foi assim ementado (fl. 291):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CLÁUSULA AD EXITUM. AUSÊNCIA DE COMPROVAÇÃO (CPC: 373, I). NECESSIDADE DE REMUNERAÇÃO PELO LABOR DESEMPENHADO. PROPORCIONALIDADE E RAZOABIL IDADE. SENTENÇA REFORMADA EM PARTE. I - A efetiva prestação dos serviços advocatícios sem o devido pagamento, quando não comprovada a condição de êxito prevista no ajuste, poderá gerar enriquecimento ilícito da empresa então contratante, afigurando-se imprescindível o arbitramento de honorários nesse caso. II - Nos termos do disposto no §2º do art. 22 da Lei nº 8.906/94, na falta de prévia estipulação ou de acordo sobre o tema, os honorários advocatícios devem ser fixados por arbitramento judicial, em remuneração compatível com o trabalho então desempenhado no caso concreto e com base no valor econômico da questão subjacente. RECURSO DE APELAÇÃO CONEHCIDO E PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 85, do Código de Processo Civil, porque o acórdão recorrido teria fixado os honorários contratuais por arbitramento em desconformidade com a "ordem de vocação" do § 2º, que determinaria a fixação entre 10% e 20% sobre o valor da condenação, do proveito econômico ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa;
+Requer o provimento do recurso para reformar o acórdão recorrido, a fim de fixar os honorários contratuais por arbitramento nos termos do art. 85, § 2º, do Código de Processo Civil, sobre o proveito econômico obtido; requer ainda, subsidiariamente, que os honorários sejam fixados sobre o valor atualizado da causa das três ações indicadas.
+É o relatório. Decido.
+A controvérsia diz respeito a ação de arbitramento de honorários advocatícios em que a parte autora pleiteou a fixação judicial de honorários pelo trabalho prestado por quase 20 anos, preferencialmente entre 10% e 20% sobre o proveito econômico obtido nas demandas, ou, subsidiariamente, sobre o valor atualizado da causa.
+Na sentença, o Juízo de primeiro grau julgou improcedente o pedido e condenou o autor nas custas e em honorários advocatícios fixados em R$ 1.000,00, com base no art. 85, § 8º, do Código de Processo Civil.
+A Corte de origem reformou parcialmente a sentença para arbitrar honorários contratuais em R$ 60.000,00, acrescidos de correção monetária e juros, e fixou honorários sucumbenciais em 10% sobre o valor da condenação (fls. 288-289).
+I - Art. 85, do Código de Processo Civil
+No recurso especial a parte recorrente alega que o acórdão recorrido contrariou o art. 85, § 2º, do Código de Processo Civil, ao fixar honorários contratuais por arbitramento com base em múltiplos critérios, em vez de observar a "ordem de vocação" da base de cálculo sobre o proveito econômico; aduz, ainda, que o art. 22, § 2º, da Lei n. 8.906/1994 impõe arbitramento compatível com o trabalho e com o valor econômico das causas, observando obrigatoriamente o art. 85 do Código de Processo Civil.
+O acórdão recorrido reconheceu a ausência de prova da cláusula ad exitum, mas afirmou a necessidade de remunerar os serviços prestados, procedendo ao arbitramento dos honorários contratuais em R$ 60.000,00, valendo-se dos critérios de proporcionalidade e razoabilidade, do grau de zelo, tempo despendido, natureza e importância das causas e tabela da OAB/GO.
+Cumpre destacar que o acórdão recorrido não se pronunciou acerca da possibilidade de fixação com base no valor econômico, razão pela qual se evidencia que o objeto principal do recurso especial não foi objeto de análise pela instância de origem, configurando a ausência de prequestionamento. Aplica-se, portanto, a Súmula nº 282 do STF.
+No ponto relativo ao art. 85, § 2º, do Código de Processo Civil, a revisão dos critérios adotados, da razoabilidade e da proporcionalidade dos valores arbitrados, e do suporte fático que embasou a decisão, demandaria o reexame do conjunto probatório dos autos, hipótese ved ada em sede especial, ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. LEGITIMIDADE PASSIVA DE SÓCIO DE SOCIEDADE DE ADVOGADOS. RESPONSABILIDADE SUBSIDIÁRIA E ILIMITADA. INADMISSIBILIDADE DO RECURSO ESPECIAL. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ E 282 E 356/STF. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão do Ministro Marco Aurélio Bellizze, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento. A controvérsia decorre de ação de reparação por danos materiais e morais decorrente de falha na prestação de serviços advocatícios, na qual foi reconhecida a responsabilidade civil da sociedade e de seu sócio. II. QUESTÃO EM DISCUSSÃO
+ ..
+4. A análise da suposta inexistência de falha na prestação dos serviços e do alegado decaimento mínimo demandaria reexame do conjunto fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+5. A alegação de que os honorários dos patronos dos recorrentes devem ser calculados com base no proveito econômico obtido não foi objeto de apreciação pelo Tribunal de origem, o que atrai a incidência das Súmulas 282 e 356/STF, ante a ausência de prequestionamento.
+6. A parte agravante não apresentou elementos novos ou argumentos aptos a desconstituir os fundamentos da decisão agravada, limitando-se a repetir alegações já examinadas e afastadas pela instância anterior. IV. DISPOSITIVO
+7. Agravo interno desprovido. (AgInt no AREsp n. 2.650.603/MS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 26/5/2025, DJEN de 29/5/2025.)
+II - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
