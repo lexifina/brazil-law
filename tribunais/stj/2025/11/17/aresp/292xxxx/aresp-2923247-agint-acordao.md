@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo Sérgio Domingues, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar, especificamente, os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todas as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela ITAÚ UNIBANCO S.A. contra decisão proferida pelo Presidente desta Corte Superior, constante às e-STJ fls. 656/657, em que não conheceu do agravo em recurso especial por ausência de impugnação específica de fundamentos de inadmissão do apelo raro adotados na origem, pertinentes à Súmula 7 do STJ e à comprovação da divergência jurisprudencial.
+Nas suas razões, a parte agravante afirma ter combatido as razões de decidir do decisum. Diz que a análise das teses recursais prescinde da análise de provas, porque suas alegações têm amparo em conclusões registradas no acórdão recorrido.
+Aduz que " ..  o v. acórdão recorrido deixou de considerar a gravidade da infração como elemento de dosimetria da sanção, em manifesta violação ao art. 57 do CDC, gerando enriquecimento ilícito à Administração Pública, em inobservância à norma contida no art. 884 do CC" (e-STJ fl. 670).
+Sustenta que " ..  a gravidade da infração foi simplesmente desconsiderada como elemento de dosimetria da pena pelo v. acórdão  .. , já que a multa foi aplicada pela autarquia consumerista municipal em razão de uma conduta que, além de não apresentar qualquer gravidade, não causou prejuízo a quem quer que seja e tampouco gerou benefício algum para o ITAÚ  .. " (e-STJ fl. 670).
+Argumenta ainda que esta Corte Superior reconhece a possibilidade de redução do valor da multa administrativa de caráter exorbitante.
+Sem contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC, compete à parte agravante infirmar, especificamente, os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, todas as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC.
+A decisão ora agravada estabeleceu que, muito embora a inadmissão do recurso especial na origem tenha por fundamentos a incidência do óbice descrito na Súmula 7 do STJ e a deficiência do cotejo analítico para a demonstração da divergência jurisprudencial, o agravante não combateu adequadamente essas razões de decidir.
+De fato, no agravo em recurso especial, limitou-se a parte a dizer que: (i) " ..  as violações alegadas se amparam na narrativa dos fatos e nas conclusões expressamente registradas no próprio acórdão  .. " (e-STJ fl. 620); (ii) " ..  tanto o v. acórdão recorrido quanto o v. aresto que o complementou se manifestaram  ..  sobre os "argumentos de desproporcionalidade e enriquecimento sem causa", em clara alusão às alegações tecidas pelo ITAÚ ao longo de seu recurso" (e-STJ fl. 620); (iii) " ..  o julgado alçado como paradigma também enfrenta a questão em torno da manifesta impossibilidade de manter o quantum original de uma multa administrativa aplicada pelo Procon que não se encontra, nem de longe, adequada aos parâmetros da razoabilidade e da proporcionalidade e que, portanto, gerariam um enriquecimento ilícito à Administração Pública  .. " (e-STJ fl. 622); (iv) " ..  a e. 18ª Câmara de Direito Público do Tribunal de Justiça de São Paulo deixou de observar precedente muito recente exarado por aquela própria Câmara em caso essencialmente idêntico ao presente  .. " (e-STJ fl. 626); (v) " ..  o e. STJ já se manifestou por inúmeras vezes acerca da possibilidade de conhecimento do recurso especial para que seja corretamente aplicado o art. 57 do CDC" (e-STJ fl. 629).
+Essa argumentação é insuficiente para demonstrar a desnecessidade do reexame de fatos e provas na espécie. Afinal, o insurgente não expôs nenhum aspecto do acórdão recorrido que permitiria um juízo quanto à ilegalidade do valor da penalidade aplicada.
+Outrossim, no tocante à suposta divergência jurisprudencial, não demonstrou ter realizado, no recurso especial, a comprovação da adoção, por outro Tribunal pátrio, de solução jurídica distinta para caso idêntico ao dos presentes autos. Com isso, de fato, não combateu o argumento da inexistência do devido cotejo analítico.
+Essas circunstâncias evidenciam que o agravante não combateu adequadamente todas as razões da decisão proferida pelo TJSP.
+A decisão agravada, portanto, espelha a orientação da Corte Especial, que, por ocasião do julgamento dos EAREsps 701404/SC, 746775/SC e 831326/SC (relator para acórdão o Ministro Luis Felipe Salomão, DJe de 30/11/2018), definiu a necessidade de a parte agravante, no agravo de que trata o art. 1.042 do CPC (antigo art. 544 do CPC de 1973), impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. RECURSO CONTRA A DECISÃO DA ILUSTRE PRESIDÊNCIA DESTA CORTE SUPERIOR QUE NÃO CONHECEU DO AGRAVO, FRENTE À CONSTATADA NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DE FATO, A NÃO SUBMISSÃO A ABALO DE TODOS OS ALICERCES LÓGICOS DA DECISÃO RECORRIDA IMPLICA INCOGNOSCIBILIDADE DA PRETENSÃO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Não se conhece do Agravo em Recurso Especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida (AgInt no AREsp 1.282.707/RS, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 11.02.2021; AgRg no AREsp 1.751.057/DF, Rel. Min. LAURITA VAZ, DJe 17.02.2021; AgInt no REsp 1.690.982/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 18.12.2020).
+2. Crucial registrar que a Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade (AgRg no AREsp 1.784.300/PR, Rel. Min. LAURITA VAZ, DJe 11.03.2021).
+3. Agravo Interno do particular desprovido.
+(AgInt no AREsp 1795439/SC, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.).
+Assim, é de rigor o desprovimento do presente agravo interno.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
