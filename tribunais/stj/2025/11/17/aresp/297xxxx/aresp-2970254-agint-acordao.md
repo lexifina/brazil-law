@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO/CONVERSÃO DE BENEFÍCIO CONCEDIDO JUDICIALMENTE. EFICÁCIA PRECLUSIVA DA COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 /STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Infirmar a conclusão do Tribunal de origem acerca do reconhecimento da ocorrência da coisa julgada, na forma pretendida pelo recorrente, demandaria o reexame dos fatos e provas constan tes nos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 626):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REVISÃO/CONVERSÃO DE BENEFÍCIO CONCEDIDO JUDICIALMENTE. EFICÁCIA PRECLUSIVA DA COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 /STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante alega que "não se pretende o reexame da matéria de fato, tão somente possibilitar ao agravante o seu direito de requerer a inclusão de períodos não analisados anteriormente na revisão de seu benefício previdenciário, previsto inclusive no art. 103 da Lei 8.213/1991, em que as instancias inferiores entenderam pela aplicação da coisa julgada, impedindo qualquer análise de mérito de qualquer pedido diverso do avaliado na concessão da benesse." (fl. 644)
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO/CONVERSÃO DE BENEFÍCIO CONCEDIDO JUDICIALMENTE. EFICÁCIA PRECLUSIVA DA COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 /STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Infirmar a conclusão do Tribunal de origem acerca do reconhecimento da ocorrência da coisa julgada, na forma pretendida pelo recorrente, demandaria o reexame dos fatos e provas constan tes nos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme assinalado na decisão agravada, o Tribunal de origem, após ampla análise do conjunto fático-probatório dos autos, reconheceu encontrar-se configurada, na hipótese, a coisa julgada, como se pode inferir do seguinte excerto do acórdão recorrido (fls. 448-453):
+Conforme consulta ao sistema eletrônico de acompanhamento processual, o feito foi julgado parcialmente procedente por sentença proferida em 07.06.2013 (registrado sob ID 153713479), para reconhecer a atividade especial exercida nos períodos de 09.10.85 a 05.10.94, 16.11.94 a 11.11.2001 e de 26.06.2006 a 13.08.2012 excluídos os períodos de gozo de benefício de incapacidade, e determinar ao (DER), INSS a concessão da cuja aposentadoria integral a partir de 13.08.2012 (DER), sentença foi ratificada em sede recursal, por decisão colegiada unânime da 2ª Turma Recursal em 27.08.2013 (ID 153713808), bem como em sede de embargos de declaração em 22.10.2013 (ID 153713825), restando certificado o trânsito em julgado em 15.01.2016. (ID 153713845).
+E o presente feito, no qual a parte autora pleiteia a conversão da aposentadoria por tempo de contribuição em aposentadoria especial, mediante o reconhecimento da atividade especial exercida nos períodos de 02.05.79 a 06.07.82, 04.04.84 a 31.08.84 e de 01.09.84 a 09.05.85, com pedido subsidiário de revisão da RMI do benefício.
+Neste contexto, com o trânsito em julgado do proc. nº 0008285- 49.2012.4.03.6302, o presente feito deve ser analisado sob a ótica da eficácia preclusiva da coisa julgada.
+ ..
+Portanto, definida a questão de mérito, a pretensão revisional deduzida pela parte autora neste feito encontra óbice na imutabilidade da coisa julgada formada nos autos do proc. nº 0008285-49.2012.4.03.6302.
+Naquele feito, conforme determinado na decisão transitada em julgado, houve o reconhecimento dos períodos especiais de 09.10.85 a 05.10.94, 16.11.94 a 11.11.2001 e de 26.06.2006 a 13.08.2012 (DER) e a concessão da aposentadoria por tempo de contribuição (art. 201, §7º, I, CF), de modo que não se pode mais falar em reconhecimento de novos períodos especiais ou de conversão da aposentadoria por tempo de contribuição em aposentadoria especial.
+A revisão postulada neste feito conduz à modificação da coisa julgada formada em feito anterior, o que é incompatível com a imutabilidade da coisa julgada prevista no artigo 502 do CPC, donde se conclui que o seu acolhimento equivaleria a atribuir a esta ação ordinária efeitos rescisórios.
+ ..
+Por tais razões, em face da eficácia preclusiva da coisa julgada, deve o feito ser extinto sem resolução do mérito, nos termos do art. 485, V, do CPC, restando prejudicados os recursos de apelação interpostos.
+Tem-se, nesse contexto, que infirmar a conclusão do Tribunal de origem acerca do reconhecimento da coisa julgada, na forma pretendida pelo recorrente, demandaria o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO COLETIVA DE TÍTULO EXECUTIVO JUDICIAL. DESMEMBRAMENTO DETERMINADO PELO JUÍZO DA EXECUÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. COISA JULGADA. APELO NOBRE QUE NÃO IMPUGNOU O FUNDAMENTO DO ACÓRDÃO RECORRIDO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Consoante pacífica jurisprudência desta Corte, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18.6.2019)" (AgInt no REsp n. 1.957.753/DF, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/3/2022).
+2. É inviável o conhecimento do recurso especial que não ataca especificamente o fundamento adotado no acórdão recorrido. Incidência da Súmula 283/STF.
+3. "Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial"." (AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021). Nesse mesmo sentido: AgInt no AREsp 1.170.224/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 14/9/2020.
+3. Agravo interno desprovido (AgInt no REsp 1.990.498/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 9/3/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
