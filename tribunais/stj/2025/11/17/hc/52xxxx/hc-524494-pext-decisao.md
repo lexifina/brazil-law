@@ -1,0 +1,17 @@
+DECISÃO
+FERNANDO CESAR MAGALHAES REIS pede a extensão da decisão proferida em benefício de DIOGO FERRARI, que figura como corréu juntamente com o requerente na Ação Penal n. 0038368- 51.2015.8.19.0001.
+A defesa pontua que, também em relação a Fernando, "o TJRJ aplicou frações de continuidade delitiva incompatíveis com os parâmetros pacificados pelo STJ" (fl. 667). Diante disso, busca a concessão da ordem para (fls. 669-670):
+a. em relação ao delito do art. 159, § 1º, do CP, alterar o aumento de o dobro para apenas 1/3;
+b. quanto ao crime do art. 158 § 1º, do CP, reduzir o aumento de o dobro para somente 1/4; e
+c. no tocante ao tipo do art. 316 do CP, diminuir o aumento de 1/3 para 1/4.
+Decido.
+O presente habeas corpus foi concedido em razão de ilegalidade verificada no acórdão da Apelação n. 0514986-69.2015.8.19.0001, no qual apenas Diogo Ferrari figura como apelante. Constatou-se que, no ato apontado como coator, o Tribunal de Justiça do Rio de Janeiro aplicou ao paciente frações de continuidade delitiva em desacordo com os parâmetros estabelecidos pela jurisprudência desta Corte Superior.
+Verifico que o acórdão do TJRJ que manteve a condenação de Fernando Cesar Magalhães Reis é diverso daquele examinado na decisão concessiva do habeas corpus e, portanto, não foi objeto de análise por esta Corte. Ademais, a situação fática Fernando é outra, pois ele foi condenado por delitos não imputados a Diogo Ferrari, cujas penas tampouco foram examinadas no ato judicial cuja extensão ora se pleiteia.
+Repita-se: o requerente não foi julgado no acórdão da Apelação n. 0514986-69.2015.8.19.0001, indicado como ato coator. Além disso, as imputações atribuídas aos corréus divergem significativamente, pois Diogo não foi condenado por extorsões qualificadas ou concussões, delitos imputados exclusivamente a Fernando.
+Apesar das alegações defensivas, o art. 580 do Código de Processo Penal autoriza que um corréu aproveite os efeitos de decisão favorável concedida a outro, desde que ambos se encontrem em idêntica situação fática e processual  condição que não se verifica no caso em exame.
+O direito de extensão não se confunde com a transcendência dos motivos determinantes da decisão concessiva do habeas corpus, a qual apenas autoriza a aplicação da mesma solução jurídica a casos análogos, em observância à coerência e uniformidade jurisprudencial, mas não mediante mera extensão da decisão anterior.
+Assim, para impugnar outro acórdão do TJRJ  proferido na Apelação Criminal n. 0038368-51.2015.8.19.0001  o requerente deve formular instrumento próprio, e pedir que a dosimetria de suas penas seja devidamente examinada, sem prejuízo da aplicação da mesma solução jurídica reconhecida a Diogo Ferrari, caso cabível. Todavia, tal pretensão não pode ser veiculada pela via do art. 580 do CPP, que exige identidade fática e processual entre os corréus.
+Permitir a análise da condenação Fernando à luz de acórdão do qual ele nem sequer figurou como apelante acarretaria confusão processual e risco de decisões contraditórias, sobretudo porque sua defesa já interpôs recursos cabíveis e poderá impetrar habeas corpus próprio para apontar ilegalidades no julgamento da Apelação Criminal n. 0038368-51.2015.8.19.0001.
+À vista do exposto, não conheço do pedido de extensão, por inexistir identidade fática e processual entre o requerente e Diogo Ferrari, requisito indispensável à aplicação do art. 580 do Código de Processo Penal.
+Publique-se e intimem-s e.
+EMENTA
