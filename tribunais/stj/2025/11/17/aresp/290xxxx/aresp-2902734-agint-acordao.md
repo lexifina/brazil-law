@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ASDRÚBAL JOSÉ DA SILVA RODRIGUES e ELISABETH MARIA DE LIMA SOARES RODRIGUES contra decisão singular da lavra do Ministro Presidente do STJ na qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação do óbice da Súmula 7/STJ oposto pela decisão de inadmissibilidade (fls. 210-212).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que o agravo em recurso especial impugnou especificamente a aplicação da Súmula 7/STJ, sustentando tratar-se de matéria eminentemente de direito e de revaloração jurídica de fatos incontroversos, sem necessidade de reexame de provas; afirma a tempestividade, o cabimento do agravo interno (arts. 1.021 e 259 do Regimento Interno do STJ), a ausência de caráter procrastinatório, e requer reconsideração para conhecimento do agravo em recurso especial e do recurso especial, com afastamento da multa (fls. 215-226). Alega, ainda, que no próprio agravo em recurso especial, "e-STJ fl. 155-162", foram expostos fundamentos específicos para afastar o óbice da Súmula 7/STJ, reiterando que pretende apenas a aplicação das normas federais ao caso concreto, inclusive quanto à necessidade de nova perícia e nova avaliação dos bens e à suspensão do leilão.
+Impugnação ao agravo interno às fls. 232-248 na qual a parte agravada alega que o agravo interno é inadmissível e improcedente por ausência de impugnação específica ao fundamento da Súmula 7/STJ, atraindo por analogia a Súmula 182/STJ; sustenta caráter protelatório, descreve o histórico da execução e dos inúmeros expedientes defensivos, e, no mérito, defende múltiplos óbices ao recurso especial: deficiência de fundamentação (Súmula 284/STF, por analogia), ausência de ataque a todos os fundamentos do acórdão recorrido (Súmula 283/STF, por analogia) e ausência de prequestionamento; reitera que não há violação dos arts. 7, 466, 473, 480, 489, 502, 805, 872 e 873 do Código de Processo Civil, e requer o desprovimento do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. DECISÃO MANTIDA.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece prosperar.
+De início destaco que a decisão que não admitiu o recurso especial consignou:
+a) afastada a violação do art. 489 do Código de Processo Civil, por haver fundamentação adequada;
+b) ausência de demonstração de vulneração dos arts. 7, 9, 10, 466, 473, § 3º, 480, 502, 872, 873 e 805 do Código de Processo Civil;
+c) incidência da Súmula 7/STJ, pois o exame pretendido demanda reexame de prova;
+d) inadmissão do recurso especial com base no art. 1.030, V, do Código de Processo Civil, ficando prejudicado o pedido de efeito suspensivo (fls. 143-145).
+Nas razões do seu agravo em recurso especial a parte agravante apenas afirmou que o recurso especial estava devidamente fundamentado com indicação específica de violação aos dispositivos federais; que não incide a Súmula 7/STJ por se tratar de matéria de direito e de revaloração jurídica de fatos incontroversos; e requereu o processamento do especial, afastando o óbice sumular e os fundamentos da decisão de inadmissibilidade, com posterior provimento do recurso (fls. 148-162).
+Como se vê, a parte agravante deixou de impugnar os fundamentos da decisão agravada, uma vez que não demonstrou o desacerto da decisão que não admitiu o recurso especial ou eventual possibilidade de afastamento do óbice sumular apontado, notadamente quanto à Súmula 7/STJ, exigindo-se, para tanto, cotejo específico entre o acórdão combatido e a tese do recurso especial, e não alegações genéricas.
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgado em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, a Súmula 182/STJ.
+Ainda que assim não fosse, nas razões do seu recurso especial a parte pretende cassar a decisão que deferiu o praceamento dos imóveis penhorados e a intimação dos sócios para eventual aquisição das cotas sociais, com concessão de efeito suspensivo; sustenta violação aos arts. 7, 466, 473, 480, 489, 502, 872, 873 e 805 do Código de Processo Civil; requer nova perícia e nova avaliação, bem como a suspensão dos leilões até o trânsito em julgado (fls. 89-107).
+No caso dos autos, conforme consignado pelo Tribunal de origem não há impedimento ao prosseguimento da execução e à realização de leilão dos bens, porque os recursos interpostos não possuem efeito suspensivo e inexistem decisões suspendendo os atos expropriatórios; a execução tramita desde 2019, e há reiteração de expedientes que não infirmaram as penhoras e avaliações.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
