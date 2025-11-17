@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SEGURO DE VIDA INDIVIDUAL. COMPLEMENTAÇÃO DE INDENIZAÇÃO. INVALIDEZ PARCIAL. CLÁUSULAS RESTRITIVAS. LIMITAÇÕES DO CONTRATO. CIÊNCIA DO SEGURADO. COMPROVAÇÃO. DEVER DE INFORMAÇÃO DA SEGURADORA. AUSÊNCIA. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. Na hipótese, rever as conclusões do acórdão, para afastar o entendimento de ausência de comprovação de que o segurado teve conhecimento das cláusulas restritivas, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, procedimentos inviáveis em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por CAIXA SEGURADORA S.A., contra decisão que inadmitiu seu recurso especial.
+O apelo extremo, com fundamento no art. 105, III, "a", da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. SENTENÇA DE PARCIAL PROCEDÊNCIA DA PRETENSÃO INICIAL. RECURSO DA PARTE AUTORA. CONTRATO DE SEGURO. SEGURO DE VIDA INDIVIDUAL. INVALIDEZ PARCIAL E PERMANENTE. INDENIZAÇÃO EFETUADA ADMINISTRATIVAMENTE NO PERCENTUAL CORRESPONDENTE AO GRAU DA INVALIDEZ. AUSÊNCIA DE PROVA INEQUÍVOCA DA CIÊNCIA DO CONSUMIDOR SOBRE AS CONDIÇÕES GERAIS DO CONTRATO E DE CLÁUSULAS LIMITATIVAS DA COBERTURA. VIOLAÇÃO DAS REGRAS CONSUMERISTAS. SEGURADORA NÃO CUMPRIU COM O DEVER DE INFORMAÇÃO. PAGAMENTO DO VALOR TOTAL DA COBERTURA CONTRATADA. COMPLEMENTAÇÃO DEVIDA. REDISTRIBUIÇÃO DO ÔNUS DA SUCUMBÊNCIA. RECURSO CONHECIDO E PROVIDO" (e-STJ fl. 542).
+Os embargos de declaração opostos pela parte contrária foram rejeitados (e-STJ fls. 570/573).
+Nas razões do recurso especial (e-STJ fls. 577/592), a recorrente indica violação dos arts. 757 e 760 do Código Civil, defendendo a validade das cláusulas limitativas, bem como que a obrigação da seguradora é limitada à cobertura de riscos descritos na apólice contratada, que foram devidamente informados à contratante.
+Com as contrarrazões (e-STJ fls. 598-612) , o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SEGURO DE VIDA INDIVIDUAL. COMPLEMENTAÇÃO DE INDENIZAÇÃO. INVALIDEZ PARCIAL. CLÁUSULAS RESTRITIVAS. LIMITAÇÕES DO CONTRATO. CIÊNCIA DO SEGURADO. COMPROVAÇÃO. DEVER DE INFORMAÇÃO DA SEGURADORA. AUSÊNCIA. PREQUESTIONAMENTO. AUSENTE. SÚMULA Nº 282/STF. REEXAME FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. Na hipótese, rever as conclusões do acórdão, para afastar o entendimento de ausência de comprovação de que o segurado teve conhecimento das cláusulas restritivas, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, procedimentos inviáveis em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Em relação aos arts. 757 e 760 do CC, verifica-se que o seu conteúdo não foi objeto de debate pelas instâncias ordinárias, sequer suscitado em embargos de declaração.
+Por esse motivo, a usente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". A propósito: EDcl no REsp 1.789.134/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/11/2020, DJe de 3/12/2020.
+No mais, as conclusões do Tribunal de origem acerca da ciência da cláusula restritiva de direitos decorreram inquestionavelmente da análise do conjunto fático- probatório carreado aos autos, bem como das cláusulas contratuais, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, em que o Tribunal de origem entendeu que o recorrido não foi devidamente informado acerca das cláusulas limitativas.
+Vide:
+"Em se tratando de cláusula limitativa de direito, a cláusula que estabelece o pagamento de indenização de acordo com o grau de invalidez deve ser previamente comunicada ao segurado e redigida com destaque, permitindo sua imediata e fácil compreensão pelo consumidor, nos termos do art. 54, §4º do Código de Defesa do Consumidor:
+Art. 54. Contrato de adesão é aquele cujas cláusulas tenham sido aprovadas pela autoridade competente ou estabelecidas unilateralmente pelo fornecedor de produtos ou serviços, sem que o consumidor possa discutir ou modificar substancialmente seu conteúdo.
+(..) § 4º As cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão.
+Especificamente na hipótese dos autos, caberia à Seguradora Apelada comprovar que informou o Segurado Apelante sobre cláusulas pertinentes ao seguro, especialmente quanto às causas restritivas da indenização, em momento prévio à contratação. Para a viabilidade do contrato de seguro, é necessário que o risco segurável esteja delimitado de forma clara e precisa, de modo a proporcionar ao consumidor pleno conhecimento de seus termos, a fim de que possa exercer a liberdade de contratação ao ponderar, dentre outros, os fatores risco segurado /prêmio" (e-STJ fl. 544).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e das cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado das Súmulas nºs 5 e 7 deste Superior Tribunal.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO. INVALIDEZ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE CIENTIFICAÇÃO DO SEGURADO QUANTO À RECUSA DA SEGURADORA. COBERTURA SECURITÁRIA. OFENSA AO DEVER DE INFORMAÇÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. A Corte estadual. apreciando os elementos informativos da demanda, entendeu que "as informações sobre o serviço que estava sendo contratado não foram prestadas de forma adequada", ressaltando que "o consumidor não tomou ciência efetiva dos limites impostos à cobertura contratada", além de assinalar que, "pelo fato das lesões estarem em evolução, bem como inexistindo cura para a enfermidade que acomete a parte segurada, pode-se concluir pela ocorrência de afetação da prática de atividades diárias" .
+4. Nesse contexto, rever o entendimento do acórdão recorrido demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em recurso especial (Súmulas 5 e 7/STJ). 5. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial."
+(AgInt no AREsp 1.572.707/RS, relator Ministro Raul Araújo,  Quarta  Turma, julgado em 11/5/2020, DJe de 25/5/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça.
+É o voto.
