@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA COM PEDIDO DE DEVOLUÇÃO DE VALORES APROPRIADOS C/C DANOS MORAIS. CONTRATO DE CONSÓRCIO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Lona Azul Industria De Confeccoes Ltda contra decisão singular da lavra da Ministra Presidente do Superior Tribunal de Justiça pela qual o agravo em recurso especial não foi conhecido em virtude da incidência da Súmula 182/STJ, haja vista a ausência de impugnação aos fundamentos da decisão de admissibilidade do Tribunal de origem relativos à "Súmula 5/STJ" e "Súmula 7/STJ" (fls. 460-461).
+Nas razões do presente agravo interno, a parte agravante alega, em síntese, que a decisão agravada não poderia aplicar a Súmula 182/STJ porque, no agravo em recurso especial, teriam sido impugnados os fundamentos da inadmissibilidade, afirmando tratar-se de matéria estritamente de direito e sem necessidade de reexame de provas (fls. 466-468).
+Argumenta que foram apontadas violações a dispositivos infraconstitucionais e apresentado dissídio jurisprudencial, além de sustentar afronta aos arts. 5º, XXXV e LV, da Constituição Federal, requerendo a reforma da decisão para o conhecimento do agravo em recurso especial e processamento do recurso especial (fls. 466-468).
+Decorreu o prazo sem apresentação de impugnação (fl. 474).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA COM PEDIDO DE DEVOLUÇÃO DE VALORES APROPRIADOS C/C DANOS MORAIS. CONTRATO DE CONSÓRCIO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que a parte agravante não atacou especificamente o único fundamento da decisão agravada.
+A decisão ora agravada não conheceu do agravo em recurso especial por incidência, por analogia, da Súmula 182/STJ, ao fundamento de que o agravo em recurso especial não impugnou especificamente todos os motivos da decisão de inadmissibilidade proferida pelo Tribunal de origem, notadamente os óbices das Súmulas 5/STJ e 7/STJ, salientando, ainda, que a decisão de admissibilidade mencionara, além desses, a deficiência na demonstração do dissídio (Súmula 284/STF) (fls. 460-461).
+No presente agravo interno, contudo, a parte não apresentou argumentos voltados a atacar objetiva e integralmente o fundamento da decisão agravada, se limitando a aduzir, em termos genéricos, que teria impugnado os óbices e que a controvérsia seria de direito, com alegações de afronta constitucional, sem demonstrar, de forma concreta e pormenorizada, como o seu agravo em recurso especial enfrentou cada um dos fundamentos indicados como não impugnados (Súmulas 5/STJ e 7/STJ) (fls. 466-468).
+Conclui-se, portanto, que as razões do agravo interno não impugnaram especificamente a aplicação da Súmula 182/STJ na decisão agravada, pois não explicitaram, com precisão, de que modo, nas razões do agravo em recurso especial, se deu a impugnação individualizada dos óbices da Súmula 5/STJ e da Súmula 7/STJ.
+A absoluta falta de impugnação da decisão agravada enseja o não conhecimento do agravo interno, na linha do entendimento jurisprudencial pacífico desta Corte. Nesse sentido é o EREsp n. 1.424.404/SP (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+Ademais, cumpre salientar que o princípio da dialeticidade recursal impõe à parte recorrente o ônus de demonstrar, de forma clara e específica, os pontos de inconformismo em face da decisão impugnada, sob pena de inviabilizar o conhecimento do recurso.
+A mera reiteração de argumentos genéricos, dissociados dos fundamentos adotados na decisão agravada, não satisfaz tal exigência, porquanto impede o efetivo controle jurisdicional da insurgência e inviabiliza a cognição do órgão julgador.
+Nessa linha, é pacífico o entendimento de que o agravo interno deve trazer impugnação direta e completa aos fundamentos da decisão recorrida, sob pena de incidência, por analogia, da Súmula 182 do STJ, que consagra a necessidade de ataque específico aos fundamentos do decisum impugnado. Nesse sentido:
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. HABEAS CORPUS DE OFÍCIO. SUCEDÂNEO RECURSAL. AUSÊNCIA DE MANIFESTA TERATOLOGIA. VIA IMPRÓPRIA. SUPRESSÃO RECURSAL. FALTA DE PLAUSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DAS RAZÕES DO RECURSO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. 1. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015. 2. Agravo regimental não conhecido, com habeas corpus de ofício indeferido liminarmente. (AgRg nos EAREsp n. 2.466.966/BA, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 13/5/2025, DJEN de 19/5/2025.)
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
