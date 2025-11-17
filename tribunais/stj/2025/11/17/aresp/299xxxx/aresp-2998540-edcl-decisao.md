@@ -1,0 +1,32 @@
+DECISÃO
+UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA. (EMBARGANTE) opõe embargos de declaração à decisão de fls. 841-843, que indeferiu o pedido de distinção e determinou a devolução do feito ao Tribunal de origem para aguardar o julgamento do Tema repetitivo n. 929 do STJ, com fundamento no art. 1.037, § 9º, do Código de Processo Civil, ao concluir pela estreita relação entre o recurso especial interposto e a tese a ser firmada acerca das hipóteses de aplicação da repetição em dobro do art. 42, parágrafo único, do CDC.
+Em suas raz ões, a embargante sustenta que a decisão incorreu em erro de premissa fática, ao afirmar a pertinência do sobrestamento pelo Tema n. 929 do STJ e ao manter a devolução dos autos à origem, quando o caso concreto não guardaria similitude com o paradigma e demandaria apreciação imediata.
+Afirma que houve error in judicando, porque, à luz do Tema n. 929, o STJ deverá apreciar quais condutas configuram má-fé para aplicação do art. 42 do CDC e, até que ocorra esse julgamento, não seria possível considerar inadmissível o recurso especial nem afastar o sobrestamento.
+Requer o conhecimento e provimento dos embargos para sanar o vício apontado, admitir o recurso especial e, no mérito, dar-lhe provimento.
+As contrarrazões aos embargos foram apresentadas às fls. 857-860, em que se pleiteia a multa do art. 1.026, § 2º, do CPC, bem como a condenação da parte agravante à pena de litigância de má-fé.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+As questões levantadas foram suficientemente analisadas, com justificativas fundamentadas para a conclusão adotada
+No presente caso, a parte aponta omissão e erro de premissa quanto ao sobrestamento do feito à luz do Tema n. 929 do STJ e à consequente devolução dos autos à origem.
+Na decisão de fls. 841-843, consta que a Segunda Seção afetou à sistemática dos repetitivos a questão relativa ao art. 42, parágrafo único, do CDC, e que o recurso especial da embargante alega ausência de má-fé para afastar a repetição em dobro, razão pela qual há estreita relação com o Tema n. 929, impondo a devolução do feito à origem para aguardar o julgamento repetitivo. Assim, não há omissão a ser sanada.
+No que se refere à alegada contradição quanto à suposta violação de determinação de sobrestamento e à inadmissão do recurso especial, não há como acolher os embargos. Conforme consta na decisão impugnada, o fundamento foi precisamente o sobrestamento do feito, com devolução à origem, por conexão temática com o Tema n. 929, e não a negativa de sobrestamento.
+Observe-se (fl. 842):
+Registre-se que a Segunda Seção do STJ afetou à sistemática dos recursos repetitivos a seguinte questão as hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC (Tema Repetitivo n. 929).
+No caso, o recurso especial de UP BRASIL ADMINISTRAÇÃO E SERVIÇOS LTDA., além de apontar a violação do art. 42, parágrafo único, do CDC, alega que a ausência de má-fé afasta a repetição em dobro do indébito.
+Assim, ao contrário do alegado pela parte recorrida, ora peticionante, a pretensão deduzida no recurso especial guarda estreita relação com a tese jurídica firmada no Tema n. 929 do STJ.
+Nesse contexto, é devida a determinação de devolução do feito à origem para aguardar a decisão final acerca da questão, pois a conclusão a ser tomada no recurso afetado ao rito dos repetitivos repercutirá na solução da controvérsia veiculada no apelo especial, ainda que parcialmente.
+Desse modo, não há contradição que enseje o acolhimento dos embargos.
+Sustenta que há obscuridade sobre a necessidade de o STJ previamente definir as condutas que caracterizam má-fé para aplicação do art. 42 do CDC.
+No tocante à pertinência do sobrestamento pelo Tema n. 929 do STJ, a decisão embargada é clara ao identificar a correspondência entre a tese do recurso especial e a matéria repetitiva, determinando a devolução do feito para aguardar o julgamento do tema.
+Desse modo, não há obscuridade, mas opção motivada pelo sobrestamento em razão da afetação repetitiva.
+A propósito, segundo orientação firmada pela Corte Especial do STJ, o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo a decisão recorrida de vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ademais, quanto ao pedido relativo à aplicação da multa por litigância de má-fé ou intuito protelatório, não há como acolhê-lo.
+Quanto ao pedido de aplicação da multa do art. 1.026, § 2º, do CPC, formulado na impugnação aos embargos de declaração, registre-se que a simples oposição de embargos, ainda que não configurada nenhuma das hipóteses de cabimento, não enseja a incidência da penalidade quando não há a intenção protelatória (EDcl no AgInt nos EAREsp n. 2.157.279/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgados em 14/11/2023, DJe de 17/11/2023).
+No caso, apesar da rejeição dos embargos de declaração, não está configurado, por ora, o intuito protelatório, razão pela qual é incabível a aplicação de multa.
+A litigância de má-fé, passível de ensejar a aplicação de multa e de indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorreu na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+Apesar da rejeição dos embargos de declaração, as razões destes não caracterizam a litigância de má-fé ou o intuito protelatório, razão pela qual é incabível a aplicação da penalidade prevista no art. 81 do CPC.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto a parte de que a reiteração de embargos de declaração sobre a mesma matéria poderá ser considerada manifestamente protelatória, com imposição da multa de 2% sobre o valor atualizado da causa (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
