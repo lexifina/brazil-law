@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TERCEIRO INTERESSADO. AUSÊNCIA DE INTERESSE JURÍDICO. INADMISSIBILIDADE.
+1. A legitimidade para recorrer constitui requisito de admissibilidade dos recursos, razão pela qual não se revelam cognoscíveis os embargos de declaração opostos por quem não seja parte vencida nem demonstra sua condição de terceiro prejudicado, à luz do disposto no art. 996 do CPC/2015. Precedentes.
+2. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JUVENAL DOS SANTOS contra o acórdão assim ementado (e-STJ fl. 365):
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EVICÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ILEGITIMIDADE PASSIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ARTIGO 85, § 2º, DO CPC. INVIABILIDADE. APLICAÇÃO ANALÓGICA DO DA REGRA DO ART. 338, § ÚNICO, DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRECEDENTES.
+1. A controvérsia diz respeito ao arbitramento de honorários advocatícios em caso que, suscitada preliminar de ilegitimidade passiva " ad causam " na contestação e acolhida pelo juízo na fase de saneamento, extinguiu-se o processo em relação a uma das demandadas.
+2. Nos termos da orientação jurisprudencial firmada pela Segunda Seção deste Superior Tribunal de Justiça, no julgamento do REsp 1.746.072/PR, os honorários advocatícios de sucumbência, na vigência do CPC/15, devem ser fixados de acordo com os seguintes critérios: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedentes.
+3. O reconhecimento da ilegitimidade passiva de litisconsortes não obriga a fixação dos honorários advocatícios sucumbenciais mínimos de 10% (dez por cento) sobre o valor da causa. Precedentes.
+4. Possibilidade de distinção, no caso concreto, mediante a aplicação analógica da regra estatuída no § único do art. 338 do CPC/2015. Precedentes.
+5. Arbitramento da verba honorária em 3% sobre o valor atualizado da causa para o recorrente, montante este consentâneo com a pouca complexidade da ação, ao tempo de duração da lide até a exclusão da demandada e ao trabalho desempenhado pelo causídico.
+6. Recurso especial conhecido e parcialmente provido."
+Nas presentes razões, o embargante aduz, em síntese, a existência de omissão no acórdão embargado quanto à extensão subjetiva dos honorários, pleiteando integração para explicitar que a verba sucumbencial fixada em 3% do valor atualizado da causa deve ser paga aos patronos de todos os litisconsortes excluídos por ilegitimidade passiva na origem, e não apenas ao recorrente vencedor no presente caso.
+Sem impugnação (e-STJ, fls. 386/388).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TERCEIRO INTERESSADO. AUSÊNCIA DE INTERESSE JURÍDICO. INADMISSIBILIDADE.
+1. A legitimidade para recorrer constitui requisito de admissibilidade dos recursos, razão pela qual não se revelam cognoscíveis os embargos de declaração opostos por quem não seja parte vencida nem demonstra sua condição de terceiro prejudicado, à luz do disposto no art. 996 do CPC/2015. Precedentes.
+2. Embargos de declaração não conhecidos.
+VOTO
+A irresignação não merece conhecimento.
+Nos termos do art. 996, caput, do CPC/2015, "o recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica".
+Nos presentes embargos, JUVENAL DOS SANTOS busca a admissão do recurso como terceiro prejudicado, pretendendo a extensão da condenação em honorários de sucumbência aos patronos de todos os litisconsortes excluídos por ilegitimidade passiva na primeira instância.
+Todavia, registra-se que o art. 996, parágrafo único, do CPC/2015 exige que, para a interposição de recurso por terceiro prejudicado, seja demonstrada "a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual".
+Na linha da jurisprudência do Superior Tribunal de Justiça, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico da decisão judicial, e não somente do prejuízo econômico, ou seja, deve existir nexo de interdependência entre o interesse do terceiro e a relação jurídica submetida à apreciação judicial.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TERCEIRO PREJUDICADO. EXIGÊNCIA. INTERESSE JURÍDICO. TITULARIDADE DE RELAÇÕES JURÍDICAS ASSEMELHADAS. INSUFICIÊNCIA. FALTA DE INTERDEPENDÊNCIA COM A RELAÇÃO JURÍDICA DISCUTIDA NO PROCESSO. INTERESSE MERAMENTE ECONÔMICO. LEGITIMIDADE. AUSÊNCIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Na linha da jurisprudência do STJ, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico com a decisão judicial, e não interesse econômico eventual e reflexo, exigindo nexo de interdependência entre o interesse do terceiro e a relação jurídica submetida à apreciação judicial.
+2. No caso em exame, o agravante afirma ser titular de relação jurídica assemelhada à discutida nos presentes autos, afirmando que, apesar de a decisão ter eficácia restrita às partes do processo, suas conclusões poderiam ser astuciosamente apropriadas com a finalidade de lhe prejudicar, o que revela, no máximo, interesse meramente econômico e reflexo, insuficiente para autorizar a interposição de recurso na condição de terceiro prejudicado.
+3. Agravo interno não conhecido" (AgInt nos EDcl no REsp n. 1.138.315/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE RECURSAL (CPC/2015, ART. 996). TERCEIRO. INTERESSE JURÍDICO NÃO DEMONSTRADO. AGRAVO DESPROVIDO.
+1. Na linha da jurisprudência do Superior Tribunal de Justiça, o recurso de terceiro prejudicado está condicionado à demonstração de prejuízo jurídico com a decisão judicial, e não interesse econômico eventual e reflexo, exigindo nexo de interdependência entre o interesse do terceiro e a relação jurídica submetida à apreciação judicial.
+2. A legitimidade para recorrer constitui requisito de admissibilidade dos recursos, não se podendo conhecer de recurso especial interposto por quem não seja parte vencida, nem demonstre sua condição de terceiro prejudicado, à luz do disposto no art. 996 do CPC/2015.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.668.781/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/8/2022, DJe de 8/9/2022).
+Na hipótese, o Sr. JUVENAL DOS SANTOS, ora embargante, não obstante tenha sido excluído da ação nº 1006857-94.2022.8.26.0577 - demanda que também originou o recurso especial interposto por FLÁVIO RICARDO FRANÇA GARCIA -, discutiu a questão relacionada aos honorários de sucumbência, que tocam aos seus exclusivos patronos, em recurso próprio (agravo de instrumento nº 2249174-57.2023.8.26.0000 interposto perante o TJ/SP e REsp 2.161.065/SP), os quais não lograram êxito.
+Ora, as decisões tomadas na relação jurídica deduzida nos presentes autos (Agravo de instrumento nº 2238421-41.2023.8.26.0000), da qual, repita-se, o embargante não faz parte, não produz efeitos direitos sobre relações outras, ainda que assemelhadas, em discussão no processo em curso perante as instâncias ordinárias.
+Denota-se, nesse contexto, o reconhecimento de que o seu interesse é apenas econômico, eventual e reflexo no julgamento do recurso especial, o que impõe o não conhecimento dos presentes embargos de declaração.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. EMBARGANTE QUE NÃO É PARTE NEM DEMONSTROU CONDIÇÃO DE TERCEIRO PREJUDICADO. LEGITIMIDADE PARA RECORRER. AUSÊNCIA. ART. 996 DO NCPC. ACÓRDÃO MANTIDO. EMBARGOS NÃO CONHECIDOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A legitimidade para recorrer constitui requisito de admissibilidade dos recursos, razão pela qual não se revelam cognoscíveis os embargos de declaração opostos por quem não seja parte nem demonstra sua eventual condição de terceiro prejudicado, à luz do disposto no art. 996 do NCPC (antigo art. 499 do CPC/1973). Precedentes.
+3. Embargos de declaração não conhecidos" (EDcl no AgInt no AREsp 1.350.051/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/09/2019, DJe de 04/09/2019).
+"EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. INEXISTÊNCIA DE INTERESSE JURÍDICO. ILEGITIMIDADE PARA RECORRER. EMBARGOS NÃO CONHECIDOS.
+1. A legitimidade para recorrer, assim como o interesse, constituem requisitos de admissibilidade dos recursos, razão pela qual não se revelam cognoscíveis os embargos de declaração opostos por quem não seja parte vencida ou terceiro prejudicado, à luz do disposto no art. 996 do CPC/2015.
+2. Embargos de declaração de Dalvio Tschinkel não conhecidos" (EDcl na Rcl 34.880/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 14/05/2019, DJe de 16/05/2019).
+Ante o exposto, não conheço dos embargos de declaração, com a advertência d e que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil será aplicada.
+É o voto.
