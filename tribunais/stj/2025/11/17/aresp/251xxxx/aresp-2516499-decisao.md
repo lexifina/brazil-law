@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELIZABETE SONIA PELLIN contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial.
+Nas razões do recurso especial, interposto com apoio no art. 105, III, c, da Constituição Federal, a parte pretende cassar o acórdão proferido pela 7ª Turma do Tribunal Regional da 4ª Região, no qual alega restar demonstrado que o acórdão ora combatido concedeu a Lei Federal interpretação divergente do que já foi recentemente atribuído por outro Tribunal. Assim, requer seja revisto os argumentos lançados no acórdão objurgado, para que se reconheça o dissídio jurisprudencial suscitado e assim a atipicidade material do crime do artigo 334 do Código Penal, uma vez que os impostos ilididos são muito inferiores ao montante fixado no Tema 157 do STJ.
+O recurso foi inadmitido na origem, por não demonstração do dissídio jurisprudencial.
+Foi interposto agravo em recurso especial, em que postula o agravante o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal opinou pelo não conhecimento do recurso.
+Posteriormente, a parte requereu concessão de indulto, com base no Decreto 11.302/2022.
+É o relatório. DECIDO.
+A controvérsia dos autos consiste em verificar a possibilidade de aplicação do princípio da insignificância ao crime de descaminho, considerando o valor máximo de sonegação tributária.
+O Tribunal de origem condenou a recorrente pelo crime tipificado no art. 334, caput, do Código Penal, sob o argumento de que "a ré ostenta em seu desfavor inúmeros registros de ocorrências administrativas e criminais pela prática de crime idêntico, além de a quantidade de mercadorias apreendidas evidenciar claro intuito comercial" (fl. 366), havendo, inclusive, decisões penais definitivas aptas ao reconhecimento de maus antecedentes e da multirreincidência.
+Ressalte-se que a interposição do recurso especial com fundamento na alínea "c" do permissivo constitucional exige a demonstração do dissídio jurisprudencial, o que não foi comprovado pelo agravante.
+Para que se considere a interposição do recurso especial fundada em dissídio jurisprudencial, é necessário o cotejo analítico entre os arestos, com a indicação das circunstâncias que identifiquem os casos confrontados. Tal exigência não foi atendida na hipótese dos autos, uma vez que o acórdão paradigma apresentado pelo agravante não possui simil itude fática com o acórdão recorrido, nem fora apresentado o cotejo analítico (AgRg no AREsp n. 2.899.415/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 19/8/2025, DJEN de 27/8/2025).
+Quanto ao pleito de aplicação do indulto presidencial de que trata o Decreto 11.302/202 2, a competência para conhecer de tal pedido é do juízo de origem, a quem cumpre analisar a presença dos requisitos necessários para a concessão do indulto requerido, sob pena de indevida supressão de instância. Nesse sentido: EDcl no AREsp n. 2.251.083, Ministro Antonio Saldanha Palheiro, DJEN de 24/04/2025.
+Ante o exposto, não conheço o agravo em recurso especial, nos termos do art. 255, §4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
