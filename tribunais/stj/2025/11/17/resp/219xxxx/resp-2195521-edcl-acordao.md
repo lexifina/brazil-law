@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por JOSEFA GORGÔNIO DE SOUZA contra acórdão assim ementado (fl. 245):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+A parte embargante sustenta que o acórdão incorreu em omissões e contradições (fls. 256-261), nos termos do artigo 1.022, incisos I e II, do CPC/2015, apontando, em síntese: (a) omissão quanto "ao fato de a pretensão da embargante à contabilização de juros de 1,00% (um por cento) ao mês, ou 12% (doze por cento) ao ano, incidentes sobre as prestações vencidas no quinquênio anterior ao manejo da ação, ter suporte no Manual de Procedimentos do Conselho da Justiça Federal, aplicável ou incidente nas hipóteses de contabilização de parcelas vencidas antes do termo inicial - que é o caso da embargante, sem dúvida alguma" (fl. 257); (b) que o "julgamento do agravo interno que teve como razões de decidir, apenas e tão somente, fundamentação consignada em decisões judiciais pretéritas, ou seja, a que não conheceu do recurso especial. Com efeito, a reprodução dos fundamentos da decisão agravada - que no caso fora quase ipis litteris - como razões de decidir para negar provimento ao agravo interno, não é admitida, de forma alguma, sobretudo quando o agravante apresenta fundamentação nova e específica, como na hipótese dos autos, de acordo com o disposto no art. 1.021, §3º, do Código de Processo Civil" (fl. 259).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do Código de Processo Civil de 2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que: o agravo interno não foi conhecido porque a agravante não impugnou, de forma específica, os fundamentos da decisão monocrática, quais sejam: (i) alegações genéricas de violação ao artigo 1.022 do CPC (Súmula 284/STF); (ii) ausência de prequestionamento (Súmula 282/STF); (iii) ausência de argumentação quanto ao artigo 3º do Decreto-Lei 2.322/1987 (Súmula 284/STF); (iv) necessidade de reexame de fatos e provas quanto à coisa julgada (Súmula 7/STJ); e (v) prejuízo do dissídio jurisprudencial pela incidência dos óbices sumulares. Assim, diante da não impugnação específica desses pontos, aplicou-se a Súmula 182/STJ, concluindo-se pelo não conhecimento do agravo interno.
+Colaciona-se abaixo o trecho do acórdão ora embargado (fl. 249):
+ ..
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque a decisão agravada não conheceu do recurso especial, sob os seguintes fundamentos: (a) incidência da Súmula 284/STF, tendo em vista as alegações genéricas em relação à suposta violação do artigo 1.022 do CPC/2015; (b) incidência da Súmula 282/STF, ante a falta de prequestionamento da matéria pela Corte de origem; (c) incidência da Súmula 284/STF, em razão da ausência de argumentação em relação à alegada ofensa ao artigo 3º do Decreto-Lei nº 2.322/1987; (d) incidência da Súmula 7/STJ, quanto à análise de violação da coisa julgada e (e) análise do dissídio jurisprudencial prejudicada em razão da incidência dos óbices sumulares aplicados.
+Ocorre que a agravante não impugnou, especificamente, nenhum dos fundamentos acima mencionados, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+Não há, portanto, irregularidade a ser sanada por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, no acórdão embargado, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+No que tange à alegação de omissão quanto à contabilização dos juros incidentes sobre as prestações vencidas no quinquênio anterior à propositura da ação, tem-se que referida questão não foi diretamente objeto de irresignação nas razões do recurso especial, mas estava intrinsecamente relacionada à alegação de violação da coisa julgada; matéria que, por sua vez, não foi conhecida ante a incidência da Súmula 7/STJ.
+Como se nota, sob o pretexto de existência dos vícios de omissão e contradição no acórdão embargado, a parte embargante objetiva, por via transversa, alterar o resultado do julgado embargado promovendo novo julgamento da causa. Desse modo, ausentes os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pela decisão ora hostilizada.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, mas nitidamente o intento infringente emprestado pela parte aos aclaratórios, finalidade a que não se prestam os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
