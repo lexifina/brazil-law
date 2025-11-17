@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Antonio Carlos Ferreira, Marco Buzzi, João Otávio de Noronha e Raul Araújo votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  contra  decisão  da  Presidência  desta  Corte  Superior  de  fls.  713/714 que  não  conheceu  do  agravo  em  recurso  especial , pois, além de não interpor o agravo interno contra a decisão que negou seguimento ao recurso especial com fundamento no art. 1.030, I, do CPC, a agravante não impugnou especificamente todos os fundamentos da decisão agravada, aplicando o óbice da Súmula 182/STJ (fls. 731/734).
+O presente recurso especial foi interposto em face de acórdão assim ementado (fls. 602/605):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS (RESTITUIÇÃO VALORES DESCONTADOS A MAIOR). EMPRÉSTIMO A SERVIDOR PÚBLICO, COM DESCONTOS NO CONTRACHEQUE. ANÁLISE DE ABUSIVIDADE DE CLÁUSULAS. POSSIBILIDADE. MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA. REVISÃO DO CONTRATO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLEITO DO BANCO DE MANUTENÇÃO DOS JUROS REMUNERATÓRIOS CONTRATADOS. NÃO ACOLHIDO. JUROS REMUNERATÓRIOS QUE SUPERAM A TAXA MÉDIA DE MERCADO EM MAIS DE 20% (VINTE POR CENTO), REPRESENTANDO SUBSTANCIAL DISTANCIAMENTO ENTRE A REMUNERAÇÃO IMPUGNADA E A REALIDADE MERCADOLÓGICA. ABUSIVIDADE VERIFICADA. JUROS REMUNERATÓRIOS QUE DEVEM SE RE ALINHAR Á TAXA MÉDIA DE MERCADO ACRESCIDA DE 20% PRECEDENTES. DEVER DE RESTITUIÇÃO DOS VALORES PAGOS A MAIOR CONSEQUÊNCIA LÓGICA DA REVISÃO CONTRATUAL. DANO MORAL NÃO CONFIGURADO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DA AUTORA E DAS REQUERIDAS UBLA FINANCEIRA e UP BRASIL ADMINISTRAÇÃO E SERVIÇOS.
+1 .TAXAS DE JUROS REMUNERATÓRIOSDOS CONTRATOS.
+> AS TAXAS DE JUROS REMUNERATÓRIOS CONTRATADAS, NOS TRÊS EMPRÉSTIMOS PESSOAIS EM QUESTÃO, MOSTRAM-SE MUITO SUPERIORES A 20% DA TAXA MÉDIA DE MERCADO PREVISTA PARA A OPERAÇÃO FIRMADA ENTRE AS PARTES NO PERÍODO. ABUSIVIDADE COMPROVADA, NOS TERMOS DOS PARÂMETROS PACIFICADOS POR ESTA CORTE. JUROS REMUNERATÓRIOS QUE DEVEM SE REALINHAR Á TAXA MÉDIA DE MERCADO ACRESCIDA DE 20% PRECEDENTES.
+2. MANUTENÇÃO DA RESTITUIÇÃO OU COMPENSAÇÃO,
+>A RESTITUIÇÃO OU COMPENSAÇÃO DE VALORES APURADOS A MAIOR, APÓS READEQUAÇÃO DOS CONTRATOS ÀS TAXAS DE JUROS LEGAIS EM SEDE DE LIQUIDAÇÃO, CONSTITUI-SE EM CONSEQUÊNCIA LÓGICA DO RECONHECIMENTO DE ABUSIVIDADE DA S TAXAS DE JUROS CONTRATUALMENTE (PACTUADAS. PRECEDENTES DESTE TRIBUNAL.
+3. DANO MORAL
+- NÃO CONFIGURA ÇÃO. MERO ABORRECIMENTO. NÃO COMPROVAÇÃO DA VIOLAÇÃO AOS ATRIBUTOS DA PERSONALIDADE OU DE ABALO SUFICIENTE A JUSTIFICAR A REPARAÇÃO EXTRAPATRIMONIAL.
+PRECEDENTES.
+4. SENTENÇA
+MANTIDA. RECURSO S CONHECIDOS, SENDO NÃO PROVIDO O RECURSO DA AUTORA E PARCIALMENTE PROVIDO O RECURSO DA INSTITUIÇÃO FINANCEIRA.
+Sustenta  a  parte  agravante  que  não se aplica o óbice da Súmula 182/STJ, pois impugnou todos os fundamentos da decisão que não admitiu o seu recurso.
+Afirma que, "nas razões do Agravo em Recurso Especial, especialmente no tópico IV, impugnou especificamente a Súmula 7, motivo pelo qual, mui respeitosamente, merece ser reformada a decisão pela qual não se conheceu do recurso" (fl. 744)
+Aduz que "busca somente a correta aplicação do direito processual, notadamente por ter o v. acórdão negado vigência aos arts. 489, §1º, inciso IV e 1.022, inciso II do Código de Processo Civil, sendo inaplicável ao caso em comento a vedação constante da Súmula n.º 7, desta Corte Especial" (fl. 745).
+Reitera as razões do recurso especial.
+Impugnação apresentada às fls. 750/754, pugnando pela majoração dos honorários recursais.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+No caso dos autos, a Corte local, em juízo de admissibilidade do recurso especial, negou seguimento ao recurso por estar o acórdão em conformidade com entendimento do STJ estabelecido em regime de julgamento de recursos repetitivos (Tema n. 27) e inadmitiu quanto às demais questões, aplicando as Súmulas 5, 7 e 83 do STJ (e-STJ, fls. 655/665).
+Assim, certa ou não tal conclusão do juízo negativo de admissibilidade, o foro adequado para a discussão acerca de eventual equívoco na aplicação do entendimento firmado em recurso repetitivo seria o agravo interno contra a decisão que negou seguimento ao recurso especial com fundamento no art. 1.030, I, do CPC, de modo que sobre essa questão não é cabível agravo em recurso especial.
+Nas razões do agravo interno, a agravante nem sequer rebateu o referido fundamento, limitando-se a alegar que impugnou especificamente a Súmula 7 do STJ, e reproduz os argumentos do recurso especial.
+Acrescento ainda que, no agravo em recurso especial, a agravante apenas fez menção de forma genérica quanto à incidência da Súmula 7/STJ, e não argumentou acerca da aplicação das Súmula 5 e 83 do STJ, de modo que se impõe o não conhecimento do recurso.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015, segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, nos EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018, a Corte Especial do STJ consolidou o entendimento no sentido de que o recorrente deve impugnar especificamente todos os fundamentos da decisão que não admite o recurso especial, sob pena de não conhecimento do agravo, por aplicação da Súmula 182/STJ.
+Assim, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PRECLUSÃO CONSUMATIVA. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Não tendo os insurgentes refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+(..)
+4. Agravo interno desprovido.(AgInt no AREsp 1902856/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021 DJe 14/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Especificamente no que toca à impugnação da Súmula 7/STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/12/2021 - sem destaques no original)
+Não houve, portanto, impugnação específica e suficiente nas razões do agravo em recurso especial para infirmar os fundamentos da decisão que não admitiu o recurso especial.
+Com relação ao pedido da parte agravada de majoração da verba honorária, esta Corte Superior possui entendimento firme no sentido de que "a interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015" (AgInt no AREsp n. 1.915.571/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/11/2021, DJe de 19/11/2021).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
