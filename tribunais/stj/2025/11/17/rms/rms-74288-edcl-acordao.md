@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 865):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+Nas razões dos embargos, a parte sustenta a existência de omissão, aos seguintes argumentos: (i) não houve fundamentação quanto ao não conhecimento do agravo interno; (ii) houve o cumprimento do requisito relativo à impugnação específica da decisão agravada.
+Argumenta que "as premissas objetivamente enfrentadas foram devida e especificamente impugnadas, resistindo a premente suplicação de reexame da tutela jurisdicional lançada, d.m.v, de forma genérica, culminando em contrariar o devido processo legal, o contraditório, a ampla defesa, e sobretudo, a garantia fundamental do Writ de origem" (fl. 888).
+Requer, por fim, "sejam providos os presentes Aclaratórios no sentido de, emprestando-se os excepcionais efeitos modificativos, acolher e prover o Recurso em Mandado de Segurança subjacente, a toda sorte sem prejuízo do prequestionamento (RE / RO)" (fl. 889).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIO NÃO CONFIGURADO.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele p revista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado expôs com clareza a razão pela qual não conheceu do agravo interno, ao argumento da ausência de impugnação específica ao fundamento da decisão objeto do referido recurso, nos seguintes termos (fls. 870/871):
+No caso, negou-se provimento ao recurso em mandado de segurança, aos seguintes fundamentos: (i) ausência de violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia; (ii) "o presente mandamus foi impetrado para desconstituir a decisão de indeferimento da liminar, proferida nos autos da medida cautelar, em que se determinou a indisponibilidade de bens dos impetrantes. Com efeito, o writ em comento é manifestamente improcedente pois, em verdade, foi manejado indevidamente como sucedâneo recursal, o que faz atrair o óbice contido na Súmula 267 /STF" (fl. 829).
+Contudo, nas razões do presente recurso, os agravantes limitaram- se a argumentar, no tocante à tese de negativa de prestação jurisdicional, que "a conclusão da premissa de que "a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão." (e-STJ Fl. 829) não traduz o cumprimento da atual Código de Processo Civil de 2015, pontualmente em seu art. 489, §1º, já que a cediça concepção invocada pelo eminente Relator decorreu da aplicação do Código de Processo Civil de 1973, revogado há quase dez anos, na ultrapassada jurisprudência do Col. Superior Tribunal nesse sentido" (fl. 840).
+Com efeito, quanto à assertiva de ausência de violação ao art. 1.022 do CPC/2015, é necessário que a parte demonstre efetivamente que as questões trazidas pelo recorrente não foram apreciadas pelo venerando acórdão atacado, esclarecendo os pontos não fundamentados, omitidos, contraditórios ou obscuros e a importância do seu esclarecimento na solução da controvérsia. No caso, a providência não foi observada.
+Ademais, não merece prosperar a alegação de que o "eminente Relator também equivocou-se ao transcrever em seguida a Decisão do Tribunal recorrido em sede de Embargos de Declaração qual não foi a Decisão recorrida a esse Col. Superior Tribunal, sendo a Decisão a quo referida pelo eminente Relator datada de 23/10/2023 (e-STJ Fl. 693), quando, em verdade, a Decisão a quo recorrida está datada de 05/06/2024 e assinada em 10/06/2024 (e-STJ Fl. 723)" (fl. 839).
+Isso porque a decisão agravada, ao transcrever os excertos do acórdão dos embargos declaratórios, constantes às fls. 691-692, o fez com base no relatório e voto proferidos pelo Tribunal de origem, enquanto a mencionada decisão constante à fl. 723 refere-se à ementa proferida no mesmo acórdão.
+Além disso, os agravantes deixaram de impugnar, de forma específica, o fundamento da decisão agravada referente à incidência, na espécie, da Súmula 267/STF, limitando-se a afirmar que "o eminente Relator não observou que o writ na origem foi impetrado além do prazo recursal cabível ao recurso próprio (agravo de instrumento), e logo, não se tratando de sucedâneo recursal, mas sim, concretamente, de legítimo e autônomo remédio heróico contra "teratologia ou flagrante ilegalidade, ou, ainda, a ocorrência de abuso de poder pela autoridade que proferiu a decisão"" (fl. 841).
+Evidencia-se, assim, que os argumentos aqui trazidos estão dissociados da fundamentação da decisão agravada, além de não se ter impugnado especificamente as razões de decidir.
+Consoante jurisprudência desta Corte, a ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015.
+Destarte, analisando as razões apresentadas pela embargante, nota- se inexistir qualquer vício a ser sanado no julgado embargado, considerando que o acórdão pronunciou-se de modo coeso e preciso acerca da controvérsia.
+Como se nota, sob o pretexto de que há omissão no acórdão embargado, a embargante objetiva, por via transversa, alterar o resultado do julgado embargado promovendo novo julgamento da causa.
+Assim, ausentes os requisitos autorizadores dos embargos de declaração, não cabe, nesta sede, rediscutir o entendimento adotado pelo acórdão ora hostilizado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
