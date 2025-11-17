@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JAQUELINE DIAS RODRIGUES à decisão de fls. 1.169/1.171, por meio da qual não conheci do recurso especial.
+Alega a embargante que a decisão embargada é contraditória, porque, embora tenha negado a existência de violação do art. 619 do Código de Processo Penal na decisão proferida pelo Tribunal a quo, sob a tese de que ela se manifestou sobre os pontos suscitados pela recorrente, ao mesmo tempo afirmou não ter havido prequestionamento, o que motivou o não conhecimento do recurso especial (fls. 1.175/1.177).
+É o relatório.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 619 do CPP). Não tem caráter substitutivo, modificador ou infringente do julgado, mas, sim, integrativo ou aclaratório.
+A omissão a ser sanada por meio dos embargos de declaração é aquela existente em face dos pontos acerca dos quais está o julgador obrigado a responder e não o fez. A contradição diz respeito à incompatibilidade entre as premissas e disposições da própria decisão embargada. E a obscuridade tem relação com a falta de clareza da decisão impugnada.
+No caso dos autos, não há a apontada contradição. A decisão embargada é clara em afirmar que: a) não houve prequestionamento em relação à alegação de violação dos arts. 158 e 563 do Código de Processo Penal e dos arts. 733 e 1.571 a 1.582 do Código de Processo Civil, pois a Corte de origem não debateu eventual vulneração da norma federal tida como violada sob o enfoque suscitado no recurso especial; b) não houve violação do art. 619 do Código de Processo Penal, porque o Tribunal recorrido manifestou-se sobre as questões suscitadas nos aclaratórios, a saber, as teses de nulidade por indeferimento de diligência essencial e a ausência de validade jurídica do atestado de separação unilateral (fl. 1.170).
+As assertivas acima expostas não se contradizem. O fato de ter havido manifestação sobre as teses mencionadas não equivale a dizer que tenha havido manifestação acerca da interpretação e alcance dos arts. 158 e 563 do Código de Processo Penal e dos arts. 733 e 1.571 a 1.582 do Código de Processo Civil, sob o enfoque suscitado no recurso especial.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. PROCESSO PENAL. ART. 619 DO CPP. AUSÊNCIA DE CONTRADIÇÃO.
+Embargos de declaração rejeitados.
