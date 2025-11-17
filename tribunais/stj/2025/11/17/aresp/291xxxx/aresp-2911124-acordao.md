@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VIOLAÇÃO DO ART. 502 E 508 CPC. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA Nº 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interposto contra a decisão que inadmitiu recurso especial com fundamento na ausência de demonstração de violação aos arts. 502 e 508 do CPC, na incidência da Súmula nº 7/STJ e na ausência de similitude entre o acórdão recorrido e os paradigmas apontados para demonstrar a divergência jurisprudencial.
+2. A parte agravante sustenta que o recurso especial preenche os requisitos necessários ao seu conhecimento e provimento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo em recurso especial atende aos requisitos de admissibilidade, especialmente quanto à impugnação específica dos fundamentos da decisão recorrida e à demonstração da divergência jurisprudencial.
+III. Razões de decidir
+4. O agravo não impugna de forma específica e pormenorizada todos os fundamentos da decisão de inadmissão do recurso especial, em afronta ao princípio da dialeticidade recursal, conforme exigido pelo art. 932, III, do CPC e art. 253, parágrafo único, I, do RISTJ.
+5. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, exigindo que a parte agravante impugne todos os fundamentos da decisão recorrida.
+6. A mera transcrição de ementas ou decisões, sem a apresentação de cotejo analítico ou de elementos que evidenciem a similitude fática e a divergência de interpretações, assim como a falta de indicação de qual teria sido o dispositivo legal com interpretação divergente, não atende aos requisitos para comprovação de dissídio jurisprudencial, conforme os arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+7. A comprovação da divergência jurisprudência deve ser feita por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial.
+IV. Dispositivo
+8. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na não demonstração de violação do art. 502 e 508 do CPC, no óbice da Súmula nº 7/STJ e e pela ausência de similitude entre o acórdão recorrido e os paradigmas apontados para demonstrar a divergência jurisprudencial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.042, § 3º, do Código de Processo Civil, a parte agravada não apresentou contrarrazões.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VIOLAÇÃO DO ART. 502 E 508 CPC. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA Nº 182/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo interposto contra a decisão que inadmitiu recurso especial com fundamento na ausência de demonstração de violação aos arts. 502 e 508 do CPC, na incidência da Súmula nº 7/STJ e na ausência de similitude entre o acórdão recorrido e os paradigmas apontados para demonstrar a divergência jurisprudencial.
+2. A parte agravante sustenta que o recurso especial preenche os requisitos necessários ao seu conhecimento e provimento.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o agravo em recurso especial atende aos requisitos de admissibilidade, especialmente quanto à impugnação específica dos fundamentos da decisão recorrida e à demonstração da divergência jurisprudencial.
+III. Razões de decidir
+4. O agravo não impugna de forma específica e pormenorizada todos os fundamentos da decisão de inadmissão do recurso especial, em afronta ao princípio da dialeticidade recursal, conforme exigido pelo art. 932, III, do CPC e art. 253, parágrafo único, I, do RISTJ.
+5. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, exigindo que a parte agravante impugne todos os fundamentos da decisão recorrida.
+6. A mera transcrição de ementas ou decisões, sem a apresentação de cotejo analítico ou de elementos que evidenciem a similitude fática e a divergência de interpretações, assim como a falta de indicação de qual teria sido o dispositivo legal com interpretação divergente, não atende aos requisitos para comprovação de dissídio jurisprudencial, conforme os arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+7. A comprovação da divergência jurisprudência deve ser feita por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial.
+IV. Dispositivo
+8. Agravo em recurso especial não conhecido.
+VOTO
+O agravo é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, a existência de fundamentos que sustentem a reforma da decisão recorrida, cujos fundamentos transcrevo para que passem a fazer parte da presente decisão:
+I. Trata-se de recurso especial interposto por Felipe Guimarães, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra o V. Acórdão proferido na C. 1ª Câmara Reservada de Direito Empresarial.
+Arguição de relevância:
+Diante da necessidade de ato regulamentador para conferir eficácia plena ao dispositivo constitucional (art. 105, § 2º), passo à análise do reclamo, a despeito da ausência de arguição de relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos do Enunciado administrativo nº 8 do E. Superior Tribunal de Justiça: "A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal".
+II. O recurso não reúne condições de admissibilidade pela alínea "a".
+Alegação de violação a normas constitucionais:
+Consigno que a assertiva de ofensa a dispositivos constitucionais não serve de suporte à interposição de recurso especial por fugir às hipóteses versadas no art. 105, III e respectivas alíneas, da Constituição da República.
+Alegada violação aos arts. 502 e 508 do CPC:
+Não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo V. Acórdão ao declinar as premissas nas quais assentada a decisão.
+Nesse sentido, o E. Superior Tribunal de Justiça vem decidindo que "a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não é suficiente para o conhecimento do recurso especial" (agravo interno nos embargos de declaração no agravo em recurso especial 1549004/MS, Relator Ministro Marco Aurélio Bellizze, in DJe de 25.06.2020).
+Além disso, ao decidir da forma impugnada, a D. Turma Julgadora o fez diante das provas e das circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça.
+III. Tampouco pela alínea "c" poderá o recurso ser admitido.
+Não ficou demonstrada na peça recursal a similitude de situações com soluções jurídicas diversas entre os Vv. Acórdãos recorrido e paradigma.
+Nesse sentido: "( ) em relação ao apontado dissídio jurisprudencial, cumpre assinalar que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, c, da Constituição Federal, se a divergência não estiver comprovada nos moldes dos arts. 1029, § 1º, do CPC/2015; e 255, parágrafos 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades dos precedentes colacionados diferem do caso em análise, o que inviabiliza a configuração da divergência jurisprudencial, conforme exigência legal e regimental" (Agravo Interno no Agravo em Recurso Especial 1830578/SP, Relator Ministro Marco Aurélio Bellizze, in DJe de 01.09.2020).
+IV. Pelo exposto, INADMITO o recurso especial, com base no art. 1.030, V, do CPC.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Observa-se que, no presente caso, que o recurso de agravo não impugna, de maneira efetiva e detida, todos os capítulos da decisão de inadmissão. Do mesmo modo, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, bem como não se demonstrou a inaplicabilidade dos julgados indicados pelas decisões que inadmitiram os recursos especiais ao presente caso, o que inviabiliza o conhecimento das insurgências.
+Quanto ao apontamento da existência de dissenso jurisprudencial, sabe-se que "divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ)" (REsp n. 1.888.242/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/3/2022, DJe de 31/3/2022)
+Com efeito, a interposição do recurso especial por tal alínea exige do recorrente - além da comprovação da alegada divergência jurisprudencial, por meio da juntada dos precedentes favoráveis à tese defendida, com a devida certidão ou cópia dos paradigmas, autenticada ou de repositório oficial -, a comparação analítica dos acórdãos confrontados e a indicação de qual teria sido o dispositivo legal com interpretação divergente, nos termos dos artigos 1029, §§1º e 2º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ, o que não foi feito.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO ESTADUAL. PECÚLIO POST MORTEM. OFENSA AO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL DE ORIGEM COM BASE NAS LEIS ESTADUAIS Nº 285/79 E 5.109/07. SÚMULA Nº 280/STF. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 102, III, "D", DA CONSTITUIÇÃO FEDERAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE JUNTADA DE CÓPIA DO ACÓRDÃO PARADIGMA E DE INDICAÇÃO DO DISPOSITIVO COM INTERPRETAÇÃO DIVERGENTE. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte Superior firmou-se no sentido de que a interposição do recurso especial pela alínea "c" do permissivo constitucional está sujeita aos requisitos previstos no art. 541 do CPC/1973 (art. 1029, § 1º, do CPC/2015), e no art. 255, § 1º, do RISTJ. Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+5. No presente caso, o agravante não juntou aos autos cópia do acórdão paradigma e não indicou qual teria sido o dispositivo legal com interpretação divergente entre o Tribunal de origem e esta Corte Superior, o que impede o conhecimento do recuso pelo dissídio.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.758.585/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2018, DJe de 24/10/2018.)
+A análise das alegações recursais, no ponto, indica mera transcrição das decisões sem a apresentação da certidão ou cópia dos paradigmas, autenticada ou de repositório oficial, nem indicação de qual teria sido o dispositivo legal com interpretação divergente.
+Ante o exposto, não conheço do agravo em recurso especial.
+Em relação ao arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), sua implementação está condicionada à prévia fixação pelas instâncias de origem, sendo que na espécie não é cabível, porquanto este recurso especial foi tirado de agravo de instrumento, hipótese em que não há fixação de sucumbência no acórdão recorrido.
+É o voto.
