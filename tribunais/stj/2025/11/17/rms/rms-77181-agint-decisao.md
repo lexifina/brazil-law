@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Nelson da C ruz Azevedo contra a decisão à fl. 445, mediante a qual a Presidência desta Corte não conheceu de recurso ordinário em mandado de segurança tido por intempestivo, pois "a parte recorrente foi intimada do acórdão recorrido em 14.04.2025, sendo o Recurso em Mandado de Segurança interposto somente em 09.05.2025".
+Nas razões do agravo interno, fls. 453/464, o agravante defende a tempestividade da interposição, ao argumento de que o acórdão teve "sua real publicação no DJ-e somente ocorreu em 11/04/2025, sendo que em 14/04/2025 é o início do prazo para o RMS, os dias 19/04/2025 é o feriado de Corpus Christi, 21/04/2025 é o ferido de Tiradentes, 01/05/2025 é o feriado do Dia do Trabalho, e, 09/05/2025 foi a data da oposição do Recurso Ordinário, sendo, portanto, tempestivo" (fl. 462).
+Agravo tempestivo.
+Representação regular (fl. 22).
+Benefício de gratuidade de origem concedida na origem (fl. 67).
+É o relatório. Passo à fundamentação.
+Como relatado, insurge-se o agravante contra o juízo negativo de admissibilidade do recurso ordinário em mandado de segurança efetuado pela Presidência desta Corte, em razão da tardia apresentação do apelo.
+A irresignação, quanto a isso, merece acolhimento.
+Com efeito, a decisão agravada se achou ancorada na agora superada jurisprudência deste STJ, cujo entendimento era o de que, não se tratando de feriados nacionais , eventual suspensão do expediente forense na origem deveria ser comprovada no momento da interposição do recurso, não se revelando possível a tardia regularização do feito.
+Essa tese, repita-se, já abandonada, encontrou eco em antigos julgados, como, dentre outros tantos, o seguinte acórdão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. IPTU. RECURSO INTEMPESTIVO. AUSÊNCIA DE DEMONSTRAÇÃO DA SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, quando do julgamento do REsp 1.813.684/SP e da Questão de Ordem que lhe seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do recurso correspondente, devendo ser observada, exclusivamente acerca do feriado da segunda-feira de carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC, a fim de que a interpretação consolidada acerca do tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida, na hipótese vertente, em 18/11/2019.
+2. Segundo entendimento do Superior Tribunal de Justiça, o Dia do Servidor Público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a Sexta-Feira da Paixão e também o Dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.633.138/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 16/12/2024).
+Todavia, em razão da alteração legislativa promovida pela Lei n. 14.939, de 30 de julho de 2024, na redação do art. 1.003, § 6º, do CPC (para permitir comprovação posterior de feriados locais), deliberou a Corte Especial do STJ, por apertada maioria na sessão de 05 de fevereiro de 2025, pela aplicação da novel norma processual aos feitos em curso, ainda que abarcando recursos interpostos contra decisões publicadas antes da sua vigência. Essa orientação foi firmada na QO no AREsp 2.638.376/MG, rel. Min. Antônio Carlos Ferreira, Corte Especial, DJe de 27/03/2025.
+Assim, merece reparo o juízo negativo de admissibilidade recursal efetuado pela Presidência do STJ, pelo que, em juízo de retratação (art. 1.021, § 2º, do CPC), torno sem efeito a decisão de fl. 445, prejudicado o agravo interno contra ela manejado.
+Em decorrência, passo a novo exame do subjacente recurso ordinário em mandado de segurança.
+Colhe-se dos autos que o ora recorrente é policial militar inativo, ocupante da graduação de 1º Sargento PM e foi transferido para reserva remunerada com proventos calculados com base na graduação de 1º Tenente.
+Acredita o autor que deveria receber os proventos de Capitão PM, pois a extinção da graduação de subtenente, levada a efeito pela Lei estadual n. 7.145/1997, lhe conferiria, ainda na atividade, o direito à promoção ao posto de 1º Tenente.
+No acórdão recorrido, a Corte de origem rejeitou preliminar suscitada pelo Impetrado, firme em que " considerando-se a existência de relação de trato sucessivo, renovável mês a mês, afasta-se a preliminar de decadência, consubstanciada em ato único pertinente à forma de cálculos dos proventos de pensão e inatividade" (fl. 143).
+Esse fundamento, todavia, não merece prosperar.
+Com efeito, desde a petição vestibular, se insurge o autor contra as condições em que foi transferido à reserva, argumentando que "deveriam receber a Autora os proventos do posto de CAPITÃO PM, ao invés de 1º tenente PM, vez que a este faz jus os SARGENTOS PMs" (fl. 13) pelo que requer a concessão da ordem para "CONDENAR, de acordo com a Lei de nº 7.990/2001, Estatuto dos Policiais Militares da Bahia, garantido o direito a promoção ao posto imediato de Tenente PM, com os respectivos vencimentos ao posto de Capitão PM" (fl. 20).
+Ocorre que a transferência do Impetrante para a reserva remunerada, ato efetivamente atacado na subjacente impetração, se deu aos 22 de janeiro de 2009 (fl. 32). Tal expediente consubstanciou-se em ato único e de efeito concreto, cuja publicação torna-se o marco inicial de contagem do prazo pra a impetração.
+A ação mandamental, ao seu turno, foi registrada perante o tribunal de justiça aos 23 de julho de 2024 (fl. 1), ou seja, mais de quinze anos após a edição do ato que intenta o Impetrante desconstituir, pelo que ultrapassado o prazo decadencial de 120 dias previsto no art. 23 da Lei n. 12.016/2009
+Em situações assim, esta Corte tem deliberado pelo reconhecimento, de ofício, da decadência do direito à impetração, pois a reforma de militar se dá por ato único e de efeitos concretos. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. MILITAR. ATO DE REFORMA. TRANSFERÊNCIA PARA A RESERVA REMUNERADA. ATO ÚNICO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA. MATÉRIA PACÍFICA. INAPLICABILIDADE DA SÚMULA 343/STF.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, em se tratando de ato administrativo de efeitos concretos - como no caso de transferência do militar para a reserva -, o prazo prescricional de 5 (cinco) anos para sua revisão previsto no art. 1º do Decreto 20.910/1932 deve ser contado a partir da publicação do referido ato administrativo, a teor do que dispõe a Súmula 85/STJ.
+2. Acrescente-se que tal orientação jurisprudencial já vigia há muito ao tempo do julgamento da ação ordinária pelo Tribunal a quo, em 10/4/2007, sendo inaplicável a Súmula 343/STF.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.717.130/RJ, relator Ministro Sérgio Kukina, Primeira, Turma, DJe de 13/3/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REVISÃO DO ATO DE REFORMA. ATO COMISSIVO, ÚNICO, DE EFEITOS CONCRETOS E PERMANENTES. DECADÊNCIA DO DIREITO DE IMPETRAÇÃO DO MANDADO DE SEGURANÇA. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão ora recorrida observa a jurisprudência do STJ no sentido de que a transferência do militar para a reserva remunerada configura ato único, de efeitos concretos e permanentes, a partir do qual começa a fluir o prazo decadencial previsto na Lei do Mandado de Segurança.
+2. Agravo interno não provido.
+(AgInt no R Esp n. 1.702.297/AM, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 3/5/2018.)
+Dessarte, por todas estas razões, o caso é de cassar o acórdão recorrido para, de ofício, declarar a decadência do direito à impetração.
+ANTE O EXPOSTO, e com fundamento nos arts. 485, § 3.º, do CPC e 23 da Lei n. 12.016/2016, bem como nas Súmulas 430/STF e 568/STJ, conheço do presente recurso ordinário para, de ofício, decretar a decadência do direito à impetração, extinguindo o feito sem resolução do mérito.
+Caso assim o deseje, poderá o recorrente socorrer-se da faculdade prevista no art. 19 da Lei n. 12.016/2009 e buscar, mediante ação comum própria, o reconhecimento do direito que afirma possuir.
+Sem honorários advocatícios, a teor do disposto no art. 25 da Lei n. 12.016/2009 e Súmula 105/STJ.
+Publique-se.
+EMENTA
