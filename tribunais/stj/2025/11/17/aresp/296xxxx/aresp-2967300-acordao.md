@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DE NORMA CONSTITUCIONAL. INVIABILIDADE. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL. QUANTUM. PROPORCIONALIDADE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+2. A revisão do valor fixado a título de indenização por danos morais é inviável em recurso especial, salvo em casos de valor irrisório ou exorbitante, o que não se verifica no caso em apreço, conforme a Súmula 7 do STJ. Isso porque o valor da compensação por danos morais, arbitrado em R$ 15.000,00 (quinze mil reais), não é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+3. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BOA VISTA SERVIÇOS S/A contra decisão que não admitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, apresentado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 391):
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO NOS CADASTROS RESTRITIVOS DE CRÉDITO. NOTIFICAÇÃO PRÉVIA. NÃO OCORRÊNCIA. DANOS MORAIS CONFIGURADOS. MAJORAÇÃO. POSSIBILIDADE.
+- A fixação do "quantum" indenizatório a título de danos morais deve se pautar pelos princípios da razoabilidade e da proporcionalidade, observados o caráter pedagógico, punitivo e reparatório da indenização.
+- Se a sentença fixa a verba indenizatória em quantia irrisória, esta deve ser majorada, observando-se os princípios supramencionados."
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa (e-STJ, fls. 442/451).
+Nas razões do recurso especial, a parte alega violação dos arts. 5º, inciso V, da Constituição Federal; 944, caput, e parágrafo único, do Código Civil; e 884 e 927 do Código Civil, sustentando, em síntese, que:
+(a) o valor fixado em danos morais (R$ 15.000,00) foi desproporcional e afrontou os princípios da razoabilidade e da proporcionalidade, pois a indenização deveria medir-se pela extensão do dano e poderia ser reduzida diante da excessiva desproporção entre a gravidade da culpa e o dano.
+(b) a condenação imposta acarretou enriquecimento sem causa do recorrido, porque a indenização por dano moral não poderia servir como fonte de locupletamento, impondo-se sua redução para evitar acréscimo patrimonial injustificado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DE NORMA CONSTITUCIONAL. INVIABILIDADE. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL. QUANTUM. PROPORCIONALIDADE. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, prevista no artigo 102, III, da Constituição Federal de 1988.
+2. A revisão do valor fixado a título de indenização por danos morais é inviável em recurso especial, salvo em casos de valor irrisório ou exorbitante, o que não se verifica no caso em apreço, conforme a Súmula 7 do STJ. Isso porque o valor da compensação por danos morais, arbitrado em R$ 15.000,00 (quinze mil reais), não é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+3. Agravo em recurso especial conhecido para não conhecer do recurso especial.
+VOTO
+De início, no tocante à violação do art. 5º, inciso V, da CF, é imperioso ressaltar que refoge da competência do STJ a análise, em sede de recurso especial, de alegação de violação de norma constitucional, motivo pelo qual se afigura inviável a abertura da via especial, com vistas a tal debate, sob pena de supressão da competência do próprio STF.
+Avançando, no tocante à pretensão recursal de revisão da indenização arbitrada em R$ 15.000,00 (quinze mil reais) pelos danos morais decorrentes da inscrição irregular em cadastro restritivo, também não se pode conhecer do recurso especial, porque o montante arbitrado não é irrisório nem exorbitante, únicas hipóteses que autorizam a revisão por distanciamento da razoabilidade, afastando a incidência da Súmula 7/STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS. REVISÃO DO QUANTUM. DESCABIMENTO NO CASO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA
+CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.2. Cuidando-se de protesto indevido de título ou inscrição irregular em cadastro de inadimplentes, conforme expressamente reconhecido pelo Tribunal a quo, o dano moral se configura in re ipsa, prescindindo, portanto, de prova. Precedentes.
+3. Somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. Não se pode afirmar que o arbitramento da indenização no valor de R$ 20.000,00 (vinte mil reais) é desarrazoado, tampouco que destoa dos parâmetros adotados por esta Corte em precedentes análogos.
+5. Agravo interno provido para, em novo exame, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.973.688/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/9/2025, DJEN de 6/10/2025.)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULOS C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA REQUERIDA.
+1. Incide o óbice recursal da Súmula n. 282 do STF na hipótese em que o dispositivo legal apontado como violado - artigo 188, I, do CC/02 - não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Incidência do óbice da súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu estar provado o fato constitutivo do direito do autor, decidindo pela presença dos requisitos ensejadores da obrigação de indenizar. Impossibilidade de reexame de fatos e provas.
+3. Esta Corte firmou o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, ou seja, prescinde de prova. Precedentes.
+4. A indenização por danos morais, fixada em quantum sintonizado ao princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado o que não é o caso dos autos. Incidência
+da Súmula n. 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1077698/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/03/2018, DJe 26/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. Incidência do óbice da súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu estar provado o fato constitutivo do direito do autor, decidindo pela presença dos requisitos ensejadores da obrigação de indenizar. Impossibilidade de reexame de fatos e provas.
+2. Esta Corte firmou o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, ou seja, prescinde de prova. Precedentes.
+3. A indenização por danos morais, fixada em quantum sintonizado ao princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado o que não é o caso dos autos. Incidência da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 521.894/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/09/2017, DJe 28/09/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE PROTEÇÃO AO CRÉDITO. DANO MORAL. PEDIDO DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 20.000,00 (vinte mil reais), nem é exorbitante nem desproporcional às peculiaridades do caso concreto, em que o dano moral decorreu da inscrição indevida do nome da parte ora agravada em cadastro de inadimplentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 681.942/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/08/2015, DJe 15/09/2015)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios, devidos ao procurador da parte recorrida, de 12% (doze por cento) para 13% (treze por cento) sobre o valor atualizado da condenação.
+É o voto.
