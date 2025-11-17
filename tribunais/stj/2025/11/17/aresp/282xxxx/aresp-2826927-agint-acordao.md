@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 11/11/2025 a 17/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. REVISÃO DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial interposto pela instituição financeira, para dar parcial provimento ao recurso especial, a fim de determinar a devolução dos autos à origem para a realização de novo julgamento, avaliando, de modo concreto, eventual abusividade dos juros remuneratórios.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a limitação dos juros remuneratórios com base exclusivamente na taxa média de mercado divulgada pelo Banco Central é suficiente para caracterizar a abusividade, sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+3. A jurisprudência do STJ estabelece que a revisão das taxas de juros remuneratórios deve considerar a caracterização de relação de consumo, a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada e a demonstração cabal da abusividade, levando em conta fatores como a situação econômica à época da contratação e o custo de captação dos recursos.
+4. O Tribunal de origem limitou-se a comparar a taxa de juros pactuada com a taxa média de mercado, sem analisar outros fatores que poderiam justificar a limitação dos juros, o que não está de acordo com a jurisprudência do STJ.
+5. É necessário o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+IV. Dispositivo
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Desembargador Convocado Carlos Cini Marchionatti, que conheceu do agravo em recurso especial interposto pela Crefisa para dar parcial provimento a seu recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento. Sustenta, em síntese, que a decisão monocrática merece reforma porque ignorou que o acórdão recorrido analisou de forma concreta a relação de consumo, a desvantagem exagerada e a ausência de justificativa plausível para os juros pactuados. Afirma que a Corte de origem não se limitou à comparação com a taxa média de mercado, tendo considerado as peculiaridades da operação de crédito. Alega que a revisão das taxas foi fundamentada em elementos específicos do caso e que eventual decisão em sentido contrário demandaria reexame de provas, o que atrai os óbices das Súmulas 5 e 7 do STJ. Argumenta ainda que o recurso especial da parte contrária não impugnou especificamente os fundamentos do acórdão recorrido, violando o princípio da dialeticidade.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada deixou de se manifestar.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO. REVISÃO DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial interposto pela instituição financeira, para dar parcial provimento ao recurso especial, a fim de determinar a devolução dos autos à origem para a realização de novo julgamento, avaliando, de modo concreto, eventual abusividade dos juros remuneratórios.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a limitação dos juros remuneratórios com base exclusivamente na taxa média de mercado divulgada pelo Banco Central é suficiente para caracterizar a abusividade, sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+3. A jurisprudência do STJ estabelece que a revisão das taxas de juros remuneratórios deve considerar a caracterização de relação de consumo, a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada e a demonstração cabal da abusividade, levando em conta fatores como a situação econômica à época da contratação e o custo de captação dos recursos.
+4. O Tribunal de origem limitou-se a comparar a taxa de juros pactuada com a taxa média de mercado, sem analisar outros fatores que poderiam justificar a limitação dos juros, o que não está de acordo com a jurisprudência do STJ.
+5. É necessário o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+IV. Dispositivo
+6. Agravo interno desprovido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a integrar a presente decisão colegiada (e-STJ fls. 490/493):
+ .. . Na hipótese, o Tribunal de origem dirimiu a questão como base nos seguintes fundamentos:
+ ..  colhe-se dos autos que o contrato discutido na inicial possui taxa superior à taxa média de mercado, pois a taxa contratada é de 987,22% ao ano e 22% ao mês, enquanto que a média para o mesmo período (abril de 2021) foi de 6,05 % ao mês. Assim, considerando que o percentual praticado pelo banco em relação ao contrato de financiamento excedeu mais de 260% a taxa média de mercado, resta evidente a discrepância entre a taxa contratada e a taxa média de mercado. Daí constitui-se cláusula abusiva passível de ser revista, com a determinação de aplicação da taxa média de mercado para fins de cobrança dos juros remuneratórios.
+Conforme a fundamentação do acórdão recorrido, as taxas de juros contratadas em relação ao pacto em discussão na lide foram excessivamente superiores às médias de mercado divulgadas pelo Banco Central do Brasil para a época da pactuação, restando caracterizada a abusividade das referidas taxas. Conforme se extrai do acórdão, "o contrato discutido na inicial possui taxa superior à taxa média de mercado, pois a taxa contratada é de 987,22% ao ano e 22% ao mês, enquanto que a média para o mesmo período (abril de 2021) foi de 6,05 % ao mês." Não obstante, esta Corte se orienta no sentido de que, a fim de fundamentar o caráter abusivo dos juros remuneratórios, não basta menção genérica às "circunstâncias da causa" ou outra expressão equivalente, nem mesmo o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo Banco Central.
+ .. .
+Infere-se da fundamentação do acórdão que as instâncias de origem não realizaram uma análise efetiva sobre a possível existência de vantagem excessiva que pudesse justificar a limitação imposta ao contrato de empréstimo pessoal. Dessa forma, é necessário o reenvio dos autos ao Tribunal de origem para que, à luz dos requisitos acima estabelecidos pela jurisprudência do STJ, proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios. Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, para determinar a devolução dos autos à origem para a realização de novo julgamento, avaliando-se, de modo concreto, eventual abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ  .. .
+Na hipótese dos autos, a decisão agravada amolda-se às orientações jurisprudenciais desta Corte sobre o tema de fundo ora discutido. Isso porque, embora tenha reconhecido a abusividade dos juros remuneratórios pactuados, o acórdão recorrido limitou-se à mera comparação entre a taxa contratada e a taxa média de mercado divulgada pelo Banco Central, sem apresentar fundamentação concreta e individualizada quanto à existência de desvantagem exagerada ao consumidor ou outros elementos objetivos que pudessem justificar a revisão contratual.
+O entendimento consolidado do Superior Tribunal de Justiça exige, para a configuração da abusividade, mais do que o simples cotejo entre os índices contratuais e os parâmetros médios de mercado. É imprescindível a demonstração de que a estipulação contratual gerou desequilíbrio efetivo entre as partes, com fundamento em elementos do caso concreto, como o perfil do contratante, as condições da operação de crédito, o risco assumido e a eventual ausência de justificativa por parte da instituição financeira para a fixação dos encargos pactuados.
+É o que se extrai, por exemplo, dos seguintes precedentes:
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+1- Recurso especial interposto em 19/4/2022 e concluso ao gabinete em 4/7/2022.
+2- O propósito recursal consiste em dizer se: a) a menção genérica às "circunstâncias da causa" não descritas na decisão, acompanhada ou não do simples cotejo entre a taxa de juros prevista no contrato e a média praticada no mercado, é suficiente para a revisão das taxas de juros remuneratórios pactuadas em contratos de mútuo bancário; e b) qual o incide a ser aplicado, na espécie, aos juros de mora.
+3- A Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+4- Deve-se observar os seguintes requisitos para a revisão das taxas de juros remuneratórios: a) a caracterização de relação de consumo;
+b) a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada; e c) a demonstração cabal, com menção expressa às peculiaridades da hipótese concreta, da abusividade verificada, levando-se em consideração, entre outros fatores, a situação da economia na época da contratação, o custo da captação dos recursos, o risco envolvido na operação, o relacionamento mantido com o banco e as garantias ofertadas.
+5- São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.
+6- Na espécie, não se extrai do acórdão impugnado qualquer consideração acerca das peculiaridades da hipótese concreta, limitando-se a cotejar as taxas de juros pactuadas com as correspondentes taxas médias de mercado divulgadas pelo BACEN e a aplicar parâmetro abstrato para aferição do caráter abusivo dos juros, impondo-se, desse modo, o retorno dos autos às instâncias ordinárias para que aplique o direito à espécie a partir dos parâmetros delineados pela jurisprudência desta Corte Superior.
+7- Recurso especial parcialmente provido.
+(REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022 - grifos acrescidos).
+DIREITO CIVIL. RECURSO ESPECIAL. REVISÃO DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. RECURSO PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto por instituição financeira contra acórdão do Tribunal de Justiça do Estado do Acre em apelação nos autos de ação revisional de cláusula contratual, que limitou os juros remuneratórios à taxa média de mercado divulgada pelo Banco Central, sob alegação de que a taxa pactuada colocava o consumidor em desvantagem.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a limitação dos juros remuneratórios com base exclusivamente na taxa média de mercado divulgada pelo Banco Central é suficiente para caracterizar a abusividade, sem a análise das peculiaridades do caso concreto.
+III. Razões de decidir
+3. A jurisprudência do STJ estabelece que a revisão das taxas de juros remuneratórios deve considerar a caracterização de relação de consumo, a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada e a demonstração cabal da abusividade, levando em conta fatores como a situação econômica à época da contratação e o custo de captação dos recursos.
+4. O Tribunal de origem limitou-se a comparar a taxa de juros pactuada com a taxa média de mercado, sem analisar outros fatores que poderiam justificar a limitação dos juros, o que não está de acordo com a jurisprudência do STJ.
+5. É necessário o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+IV. Dispositivo e tese
+6. Recurso provido para determinar a devolução dos autos à origem para novo julgamento.
+Tese de julgamento: "1. A revisão das taxas de juros remuneratórios deve considerar a caracterização de relação de consumo e a presença de abusividade capaz de colocar o consumidor em desvantagem exagerada. 2. A limitação dos juros com base exclusivamente na taxa média de mercado não é suficiente para caracterizar a abusividade sem a análise das peculiaridades do caso concreto".
+Dispositivos relevantes citados: Código de Defesa do Consumidor, art. 51, IV e § 1º.
+Jurisprudência relevante citada: STJ, REsp n. 1.061.530/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado 22/10/2008; STJ, REsp n. 1.821.182/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado 23/6/2022.
+(REsp n. 2.196.303/AC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 31/3/2025, DJEN de 3/4/2025 - grifos acrescidos).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
