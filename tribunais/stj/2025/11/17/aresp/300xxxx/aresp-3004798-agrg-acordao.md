@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PECULATO E FRAUDE PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: deficiência de fundamentação (Súmula n. 284/STF) e Súmula n. 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice apontado na decisão de inadmissibilidade, inviabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FLAVIO ROBERTO DE SOUZA contra decisão monocrática em que não conheci do agravo em recurso especial manejado em oposição a acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+PENAL - EMBARGOS INFRINGENTES - ART. 312, CAPUT E ART. 347, AMBOS DO CP - DOSIMETRIA DA PENA - CRITÉRIO ARITMÉTICO - RAZOABILIDADE - EMBARGOS PROVIDOS 1. Embargos infringentes em que a divergência inaugurada por ocasião do julgamento da apelação defensiva se restringe à análise da dosimetria da pena cominada ao embargante. 2. Na primeira fase da dosimetria da pena cominada pela prática do crime do art. 312, caput do CP, o magistrado a quo valorou negativamente a culpabilidade do agente e as consequências do delito, fixando a pena- base do réu em 07 (sete) anos de reclusão e 70 (setenta) dias-multa no valor unitário de 01 (um) salário mínimo. No que tange à culpabilidade, bem como às consequências do crime, o juízo fundamentou idoneamente as referidas circunstâncias judiciais do art. 59 do CP, haja vista a prévia atuação do réu enquanto magistrado com competência criminal e o prejuízo causado à integridade do Poder Judiciário. Entretanto, a majoração empreendida na sentença revelou-se excessiva no caso concreto, sendo razoável, na hipótese dos autos, realizar o aumento da pena-base a partir de um critério estritamente aritmético que considere as oito circunstâncias judiciais do art. 59 do CP e a diferença entre a pena mínima e máxima prevista no preceito secundário do tipo ora examinado. Quanto ao crime do art. 347 do CP, em observância ao princípio da razoabilidade, cabe calcular a majoração da pena-base a partir do critério aritmético anteriormente exposto. 3. Embargos infringentes providos.
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento do recurso especial interposto e seu provimento (e-STJ fls. 3.347-3.362).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. PECULATO E FRAUDE PROCESSUAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: deficiência de fundamentação (Súmula n. 284/STF) e Súmula n. 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice apontado na decisão de inadmissibilidade, inviabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: deficiência de fundamentação (Súmula n. 284/STF) e Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o(s) referido(s) fundamento(s).
+Com efeito, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Ademais, "a ausência de indicação dos dispositivos legais violados atrai a incidência da Súmula 284 do STF, impedindo o conhecimento do recurso especial" (AgRg no AREsp n. 2.899.507/AL, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 12/8/2025, DJEN de 20/8/2025).
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
