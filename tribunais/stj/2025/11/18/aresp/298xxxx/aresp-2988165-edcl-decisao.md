@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MARCOS DE ALMEIDA à decisão de fls. 255/256, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada considerou intempestivo o recurso (AREsp/AgInt), partindo de premissa equivocada sobre os dias úteis do interregno processual. Houve desconsideração de feriados/suspensões locais do TJSP e de ausência de expediente no próprio STJ, fatores que, devidamente computados, mantêm a tempestividade do recurso anteriormente interposto.
+1) Feriados/suspensões no TJSP (calendário oficial 2025)17/04/2025 (Endoenças);
+18/04/2025 (Paixão);
+02/05/2025 (suspensão do expediente). (atos oficiais anexos).
+2) Ausência de expediente no STJ (comunicado oficial)
+01/05/2025 (Dia do Trabalho);
+02/05/2025 (ponto facultativo / sem expediente). Superior Tribunal de Justiça
+Quadro sintético da contagem do prazo (15 dias úteis do agravo):
+Publicação: 08/04/2025  início: 09/04/2025.
+Exclusões: 17 e 18/04 (TJSP), 21/04 (Tiradentes), 01 e 02/05 (STJ/TJSP), além de fins de semana. Resultado: o 15º dia útil recaiu em 06/05/2025, de modo que o protocolo em 05/05/2025 (ou mesmo em 06/05/2025) é tempestivo. (Planilha calculadora anexa)
+ ..
+A novel disciplina do art. 1.003, §6º, do CPC, dada pela Lei 14.939/2024, afasta a preclusão imediata por falta de prova do feriado local/suspensão no ato da interposição, determinando ao Tribunal que oportunize a correção do vício ou desconsidere a omissão quando a informação constar do processo eletrônico. Em 12/02/2025, a Corte Especial do STJ fixou que a nova regra se aplica inclusive a recursos interpostos antes da vigência da lei.
+No caso concreto, (i) constam dos autos os atos oficiais do TJSP/STJ e/ou (ii) junta-se neste ato a comprovação idônea. Logo, há omissão e erro de premissa a serem sanados para reconhecer-se a tempestividade e determinar-se o regular processamento do recurso (fls. 260/261).
+Aduz ainda que:
+A decisão também invocou a Súmula 115/STJ (irregularidade de representação). Com o devido respeito, o embargante junta agora a procuração e cadeia integral de substabelecimentos, requerendo o saneamento (art. 932, par. único, c/c arts. 4º e 6º do CPC - primazia do julgamento de mérito). A jurisprudência sumulada é severa, mas não impede que, antes do trânsito em julgado, seja suprido o vício de representação - especialmente quando houve intimação ambígua, falha do sistema ou quando a documentação já constava de autos apensados/eletrônicos (fl. 261).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+Além disso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. ZELI MODESTO DA SILVA.
+Sendo assim, nos termos do art. 1.003, § 6º, do CPC, assim como da QO no AREsp n. 2.638.376/MG, a parte foi intimada para comprovar a tempestividade do recurso. Também, nos termos do art. 76, c/c art. 932, parágrafo único, do Código de Processo Civil, foi intimada para regularizar a representação processual do recurso especial e o agravo em recurso especial, porquanto, deixou o prazo transcorrer in albis.
+Outrossim, os feriados nacionais de 18.4.2025, 21.4.2025 e 1º.5.2025 não precisam ser comprovados. Porém, os dias 17.4.2025 e 2.5.2025 são supostamente feriados locais, razão pela qual deveriam ter sido juntados no momento oportuno, o que não ocorreu.
+Observe ainda que, nos termos da jurisprudência desta Corte, "a segunda-feira de Carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt no AREsp n. 2.495.948/PE, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 2.5.2024).
+Quanto ao documento de fl. 265, registre-se que para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt no AREsp n. 2.597.213/MG, Rel. Ministro Humberto Martins, Terceira Turma, DJe de 9.10.2024; AgRg no AREsp n. 2.495.260/GO, Rel. Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 20.8.2024; e AgInt no REsp n. 2.119.743/PI, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 15.8.2024.
+Ademais, o documento trazido nestes embargos (fl. 264) não pode ser aceito. Deveria ter sido apresentado no momento oportuno, porquanto preclusa a oportunidade.
+No que se refere à representação processual, o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade representação processual era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do Agravo de Instrumento para o Tribunal a quo, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Nesse sentido, o AgInt no REsp 1869850/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.2.2021; AgInt no AREsp 1691791/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20.11.2020; AgInt no AREsp 1504387/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27.2.2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada de cópia ou novo instrumento aos autos quando da interposição de recurso a esta Corte.
+Ressalte -se também que "O princípio da primazia do julgamento de mérito não tem o condão de isentar as partes da necessária observância dos requisitos de admissibilidade recursal, tampouco de afastar a sujeição delas aos efeitos da preclusão" (AgInt nos EDcl no AREsp 2604323/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 16.10.2024).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
