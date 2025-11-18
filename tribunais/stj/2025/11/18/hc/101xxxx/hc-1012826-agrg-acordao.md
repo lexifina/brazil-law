@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Utilização como substitutivo de recurso próprio. Dosimetria da pena. Fração de aumento. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado para rediscutir a fração de aumento da pena na segunda fase da dosimetria, após o trânsito em julgado da condenação.
+2. O Tribunal de Justiça do Estado de Minas Gerais, em sede de apelação, já havia reexaminado a dosimetria da pena e reduzido a sanção imposta ao paciente. A impetração busca alterar o patamar de aumento da pena, de 1/3 para 1/5, em razão de duas circunstâncias agravantes: prática de tortura e senilidade da vítima.
+3. A decisão monocrática não conheceu do habeas corpus, considerando que a matéria não se enquadra nas hipóteses excepcionais de flagrante ilegalidade aptas a justificar a superação do óbice processual.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal para rediscutir a fração de aumento da pena na dosimetria, após o trânsito em julgado da condenação.
+III. Razões de decidir
+5. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em hipóteses excepcionais de flagrante ilegalidade, teratologia ou abuso de poder, evidenciados de plano e sem necessidade de dilação probatória.
+6. A fração de aumento da pena na dosimetria, fixada em 1/3, encontra-se dentro da margem de discricionariedade motivada do julgador, conforme os princípios da proporcionalidade e razoabilidade, não configurando constrangimento ilegal flagrante.
+7. A divergência sobre a fração mais adequada para o aumento da pena, quando ambas se encontram dentro dos limites da razoabilidade, não pode ser revista na via estreita do habeas corpus.
+8. A escolha da fração de aumento está intrinsecamente ligada à valoração das circunstâncias fáticas reconhecidas na sentença e no acórdão, sendo vedada a reavaliação do juízo de reprovabilidade formulado pelas instâncias de mérito.
+IV. Dispositivo
+9. Agravo regimental não provido.
+Dispositivos relevantes citados: Código Penal, art. 59; Código de Processo Penal, art. 647.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.487.233/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12.03.2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FELIPE MACIEL FILHO, contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor.
+Sustenta o agravante, em suas razões, o cabimento do habeas corpus mesmo após o trânsito em julgado da condenação, argumentando que o remédio constitucional não se sujeita a prazos ou à preclusão, sendo o único meio idôneo para sanar a flagrante ilegalidade apontada, a qual não se amoldaria às hipóteses de revisão criminal.
+Afirma que a discussão sobre o patamar de aumento da pena na segunda fase da dosimetria constitui matéria exclusivamente de direito, não demandando revolvimento do conjunto fático-probatório, ao contrário do que constou na decisão monocrática.
+Reitera a tese de desproporcionalidade da fração de 1/3 (um terço) aplicada em razão da incidência de duas agravantes  tortura e senilidade da vítima  , defendendo a aplicação do patamar de 1/5 (um quinto), por ser mais consentâneo com os princípios da proporcionalidade e da individualização da pena.
+Pede a reconsideração da decisão agravada ou, subsidiariamente, a submissão do agravo ao colegiado competente, para que seja conhecido o habeas corpus e, no mérito, concedida a ordem, reduzindo-se a pena imposta.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Utilização como substitutivo de recurso próprio. Dosimetria da pena. Fração de aumento. Agravo regimental não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado para rediscutir a fração de aumento da pena na segunda fase da dosimetria, após o trânsito em julgado da condenação.
+2. O Tribunal de Justiça do Estado de Minas Gerais, em sede de apelação, já havia reexaminado a dosimetria da pena e reduzido a sanção imposta ao paciente. A impetração busca alterar o patamar de aumento da pena, de 1/3 para 1/5, em razão de duas circunstâncias agravantes: prática de tortura e senilidade da vítima.
+3. A decisão monocrática não conheceu do habeas corpus, considerando que a matéria não se enquadra nas hipóteses excepcionais de flagrante ilegalidade aptas a justificar a superação do óbice processual.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal para rediscutir a fração de aumento da pena na dosimetria, após o trânsito em julgado da condenação.
+III. Razões de decidir
+5. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio ou revisão criminal, salvo em hipóteses excepcionais de flagrante ilegalidade, teratologia ou abuso de poder, evidenciados de plano e sem necessidade de dilação probatória.
+6. A fração de aumento da pena na dosimetria, fixada em 1/3, encontra-se dentro da margem de discricionariedade motivada do julgador, conforme os princípios da proporcionalidade e razoabilidade, não configurando constrangimento ilegal flagrante.
+7. A divergência sobre a fração mais adequada para o aumento da pena, quando ambas se encontram dentro dos limites da razoabilidade, não pode ser revista na via estreita do habeas corpus.
+8. A escolha da fração de aumento está intrinsecamente ligada à valoração das circunstâncias fáticas reconhecidas na sentença e no acórdão, sendo vedada a reavaliação do juízo de reprovabilidade formulado pelas instâncias de mérito.
+IV. Dispositivo
+9. Agravo regimental não provido.
+Dispositivos relevantes citados: Código Penal, art. 59; Código de Processo Penal, art. 647.
+Jurisprudência relevante citada: STJ, AgRg no AREsp 2.487.233/SC, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 12.03.2025.
+VOTO
+O agravo regimental não merece provimento.
+Na forma da jurisprudência consolidada desta Corte Superior, a utilização do habeas corpus como instrumento para a impugnação de decisões judiciais deve observar rigorosamente os contornos que lhe foram traçados pela Constituição da República e pela legislação processual penal, sob pena de desvirtuamento de sua nobre e específica finalidade, que é a de tutelar a liberdade de locomoção contra violência ou coação manifestamente ilegal ou abusiva.
+Nesses termos, consolidou-se a orientação de que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, seja ele apelação, recurso especial ou agravo em execução, tampouco como sucedâneo de revisão criminal, e que a sua admissão em tais circunstâncias constitui medida de absoluta excepcionalidade, restrita às hipóteses em que se evidencia, de plano e sem a necessidade de dilação probatória, flagrante ilegalidade, teratologia ou abuso de poder no ato judicial impugnado.
+No caso vertente, a Defesa se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais que, em sede de apelação, já havia reexaminado a dosimetria da pena e reduzido a sanção imposta ao paciente. Contra tal acórdão, que transitou em julgado sem a interposição dos recursos cabíveis às instâncias superiores, a impetração busca rediscutir o critério de exasperação da pena na segunda fase da dosimetria, configurando nítida tentativa de utilizar o remédio heroico como um recurso especial extemporâneo ou como uma via anômala de revisão criminal.
+A despeito da argumentação expendida pela Defensoria Pública, não se vislumbra na espécie a manifesta ilegalidade apta a justificar a superação do óbice processual. A controvérsia cinge-se à fração de aumento da pena-base em decorrência do reconhecimento de duas circunstâncias agravantes, quais sejam, a prática de tortura e a senilidade da vítima. O Tribunal de origem, ao manter a exasperação no patamar de 1/3 (um terço), atuou dentro da margem de discricionariedade motivada que é conferida ao julgador no processo de individualização da pena.
+Com efeito, conforme reiteradamente decidido por este Tribunal da Cidadania, o Código Penal não estabelece frações matemáticas e estanques para o aumento ou a diminuição da pena em razão de agravantes e atenuantes, cabendo ao magistrado, à luz das particularidades do caso concreto e em observância aos princípios da proporcionalidade e da razoabilidade, de forma fundamentada, fixar o quantum de exasperação.
+A jurisprudência, por sua vez, tem balizado essa discricionariedade, mas não a eliminou. A existência de precedentes que, em situações diversas, aplicaram a fração de 1/5 (um quinto) não torna automaticamente ilegal a aplicação de um patamar superior, como o de 1/3 (um terço), especialmente quando este também encontra respaldo na jurisprudência desta Corte, como destacado na decisão agravada, que recentemente decidiu no sentido de que "a presença de duas agravantes justifica o aumento da pena em 1/3, conforme entendimento jurisprudencial, sendo adequado e proporcional". (AgRg no AREsp n. 2.487.233/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/3/2025, DJe de 18/3/2025.)
+A divergência quanto à fração mais adequada, quando ambas se encontram dentro dos limites da razoabilidade, não configura constrangimento ilegal flagrante, mas sim matéria que demandaria um reexame aprofundado dos critérios de justiça e proporcionalidade adotados pelas instâncias ordinárias, o que é vedado na via estreita do habeas corpus. O que a defesa pretende, em essência, é a prevalência de uma tese jurídica sobre outra igualmente plausível, o que não se coaduna com a excepcionalidade do writ.
+Ademais, embora a discussão sobre a fração de aumento seja, em si, uma questão de direito, a sua aplicação concreta não é um ato puramente abstrato. A escolha por uma fração maior ou menor está intrinsecamente ligada à valoração da gravidade das circunstâncias fáticas reconhecidas na sentença e no acórdão  no caso, a brutalidade da tortura e a vulnerabilidade acentuada da vítima idosa. Alterar essa valoração, ainda que sob o rótulo de violação à proporcionalidade, implicaria, em última análise, uma reavaliação do juízo de reprovabilidade formulado soberanamente pelas instâncias de mérito, o que transborda os limites cognitivos do habeas corpus.
+Portanto, a decisão monocrática que não conheceu da impetração está em perfeita consonância com a jurisprudência desta Corte, pois, ausente ilegalidade patente, irrefutável e perceptível de plano, o inconformismo com a dosimetria da pena, já transitada em julgado, não pode ser veiculado pela via do habeas corpus, que não se presta a funcionar como uma terceira instância recursal ou como um sucedâneo de revisão criminal para questões que se inserem no âmbito da discricionariedade regrada do julgador.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
