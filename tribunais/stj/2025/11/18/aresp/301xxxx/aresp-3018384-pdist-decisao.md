@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se petição apresentada pela requerente, MARIA APARECIDA BARBOSA FELIX, na qual questiona a determinação de devolução dos presentes autos ao TJ/RN, em razão da afetação pelo STJ para julgamento sob o rito dos recursos repetitivos de questão de direito referente à suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários (Tema 1378/STJ).
+Alega a parte requerente, em síntese, que a situação dos autos não se amolda à questão direito afetada, uma vez que não se pretende controverter acerca da abusividade dos juros remuneratórios contratados senão acerca da invalidade da capitalização mensal dos juros.
+É o relatório. Decide-se
+Nos termos do art . 1.037, §9º do CPC, após a suspensão do processo em razão de afetação de tema repetitivo, "demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo."
+No particular, contudo, não se verifica a distinção alegada pela parte requerente.
+A Segunda Seção afetou o Tema 1378/STJ com a seguinte questão de direito a ser enfrentada:
+I) suficiência ou não da adoção das taxas médias de mercado divulgadas pelo Banco Central do Brasil ou de outros critérios previamente definidos como fundamento exclusivo para a aferição da abusividade dos juros remuneratórios em contratos bancários; II) (in)admissibilidade dos recursos especiais interpostos para a rediscussão das conclusões dos acórdãos recorridos quanto à abusividade ou não das taxas de juros remuneratórios pactuadas, quando baseadas em aspectos fáticos da contratação.
+Na hipótese, verifica-se que o reconhecimento da invalidade na capitalização de juros contratada decorre de sua comparação com a taxa média dos juros praticada no mercado divulgada pelo BACEN, conforme se extrai do acórdão recorrido (e-STJ fls. 1346-1351); o que foi objeto de expressa devolução no recurso especial (e-STJ fls. 1353-1372), tema diretamente relacionado à controvérsia afetada (Tema 1378/STJ).
+Portanto, deve ser mantida a decisão que determinou a devolução dos autos ao Tribunal de origem, para que permaneça suspenso o recurso até a publicação do acórdão paradigma referente ao Tema 1378/STJ, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC.
+Forte nessas razões, INDEFIRO o pedido de distinção e prosseguimento do processo, com base no art. 1.037, § 9º, do CPC, mantendo-se a decisão de e-STJ fls. 1179-1180.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
