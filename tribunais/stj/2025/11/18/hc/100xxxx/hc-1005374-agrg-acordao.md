@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, em que se alegava ilegalidade na dosimetria da pena aplicada por tráfico de drogas, incluindo aumento da pena-base pela quantidade de droga apreendida, afastamento do tráfico privilegiado e imposição de regime inicial fechado.
+2. Os agravantes foram condenados à pena de 5 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/2006, após o Tribunal de origem afastar a causa de diminuição prevista no art. 33, § 4º, da mesma lei.
+3. A defesa alegou que os agravantes são primários, de bons antecedentes, com trabalho fixo formal, e que a quantidade de droga apreendida (menos de 2kg de maconha) não poderia ser utilizada isoladamente para afastar o tráfico privilegiado ou justificar a exasperação da pena-base.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há flagrante ilegalidade na dosimetria da pena aplicada, especialmente quanto ao afastamento do tráfico privilegiado e à fixação do regime inicial fechado.
+III. Razões de decidir
+5. A dosimetria da pena insere-se na discricionariedade do julgador, sendo revisável apenas em casos de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+6. A quantidade e a natureza da droga apreendida são fundamentos válidos para exasperar a pena-base e afastar o tráfico privilegiado, conforme jurisprudência consolidada.
+7. O redutor especial previsto  no  §  4.º  do  art.  33  da  Lei  de  Drogas  foi  afastado  com  o  entendimento  de  que  o s agravantes  se  dedicavam  a  atividades  criminosas  com base nas circunstâncias  da  prática  delitiva.
+8. A fixação do regime inicial fechado é adequada quando a pena é superior a 4 anos e há circunstâncias judiciais desfavoráveis, conforme os §§ 2º e 3º do art. 33 do Código Penal.
+9. A revisão dos fundamentos adotados pela instância ordinária demandaria ampla incursão no acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A quantidade e a natureza da droga apreendida são fundamentos válidos para exasperar a pena-base e afastar o tráfico privilegiado.
+2. A fixação do regime inicial fechado é adequada quando a pena é superior a 4 anos e há circunstâncias judiciais desfavoráveis.
+3. A revisão de fundamentos adotados pela instância ordinária que demandem incursão no acervo fático-probatório é inviável na via estreita do habeas corpus.
+Dispositivos relevantes citados:Lei nº 11.343/2006, art. 33, caput e § 4º; Código Penal, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada:STJ, AgRg no HC 710.060/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 14.12.2021; STJ, AgRg no AREsp 674.735/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, j. 13.12.2016; STJ, AgRg no HC 847.427/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 04.12.2023.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  GABRIEL HENRIQUE DE SOUZA MATHEUS e YJUAN PEDRO ABEL CARDOSO contra  decisão que não conheceu do  habeas  corpus  (fls. 143-147).
+Consta nos autos que os agravantes foram condenados à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, após o Tribunal de origem ter dado provimento ao recurso de apelação do Ministério Público para afastar a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Nas razões do writ, a impetrante alegou que houve ilegalidade na dosimetria da pena, com aumento da pena-base unicamente pela quantidade de droga (menos de 2kg de maconha), não reconhecimento do tráfico privilegiado, e imposição de regime mais gravoso que a pena aplicada.
+Sustentou que a jurisprudência do STF e do STJ permite a concessão de habeas corpus de ofício em casos de flagrante ilegalidade, e que a quantidade de droga não pode ser utilizada isoladamente para afastar o tráfico privilegiado ou justificar a exasperação da pena-base.
+Afirmou que os acusados são primários, de bons antecedentes, com trabalho fixo formal, e não utilizam o tráfico como meio de vida, fazendo jus ao tráfico privilegiado e à fixação de regime inicial aberto, conforme a Súmula Vinculante 59 do STF.
+Às  fls.  143-147,  o  habeas  corpus  não foi conhecido.
+Nas razões do agravo regimental, a defesa alega flagrante ilegalidade na dosimetria da pena, que deve ser corrigida de ofício.
+Pleiteia a reconsideração da decisão impugnada ou a submissão do agravo ao colegiado competente.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, em que se alegava ilegalidade na dosimetria da pena aplicada por tráfico de drogas, incluindo aumento da pena-base pela quantidade de droga apreendida, afastamento do tráfico privilegiado e imposição de regime inicial fechado.
+2. Os agravantes foram condenados à pena de 5 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/2006, após o Tribunal de origem afastar a causa de diminuição prevista no art. 33, § 4º, da mesma lei.
+3. A defesa alegou que os agravantes são primários, de bons antecedentes, com trabalho fixo formal, e que a quantidade de droga apreendida (menos de 2kg de maconha) não poderia ser utilizada isoladamente para afastar o tráfico privilegiado ou justificar a exasperação da pena-base.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se há flagrante ilegalidade na dosimetria da pena aplicada, especialmente quanto ao afastamento do tráfico privilegiado e à fixação do regime inicial fechado.
+III. Razões de decidir
+5. A dosimetria da pena insere-se na discricionariedade do julgador, sendo revisável apenas em casos de inobservância dos parâmetros legais ou flagrante desproporcionalidade.
+6. A quantidade e a natureza da droga apreendida são fundamentos válidos para exasperar a pena-base e afastar o tráfico privilegiado, conforme jurisprudência consolidada.
+7. O redutor especial previsto  no  §  4.º  do  art.  33  da  Lei  de  Drogas  foi  afastado  com  o  entendimento  de  que  o s agravantes  se  dedicavam  a  atividades  criminosas  com base nas circunstâncias  da  prática  delitiva.
+8. A fixação do regime inicial fechado é adequada quando a pena é superior a 4 anos e há circunstâncias judiciais desfavoráveis, conforme os §§ 2º e 3º do art. 33 do Código Penal.
+9. A revisão dos fundamentos adotados pela instância ordinária demandaria ampla incursão no acervo fático-probatório, o que é inviável na via estreita do habeas corpus.
+IV. Dispositivo e tese
+10. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. A quantidade e a natureza da droga apreendida são fundamentos válidos para exasperar a pena-base e afastar o tráfico privilegiado.
+2. A fixação do regime inicial fechado é adequada quando a pena é superior a 4 anos e há circunstâncias judiciais desfavoráveis.
+3. A revisão de fundamentos adotados pela instância ordinária que demandem incursão no acervo fático-probatório é inviável na via estreita do habeas corpus.
+Dispositivos relevantes citados:Lei nº 11.343/2006, art. 33, caput e § 4º; Código Penal, art. 33, §§ 2º e 3º.
+Jurisprudência relevante citada:STJ, AgRg no HC 710.060/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 14.12.2021; STJ, AgRg no AREsp 674.735/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, j. 13.12.2016; STJ, AgRg no HC 847.427/RS, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 04.12.2023.
+VOTO
+O inconformismo não prospera.
+Conforme  exposto  na  decisão  agravada,  a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se deve conhecer do presente writ, manejado como substitutivo de revisão criminal, em hipótese em que não se inaugurou a competência desta Corte.
+A decisão combatida destacou, ainda, a ausência de ilegalidade flagrante no julgado que pudesse justificar a concessão de habeas corpus de ofício, nos termos do parágrafo segundo do artigo 654 do Código de Processo Penal.
+Com efeito, de acordo com o entendimento consolidado do Superior Tribunal de Justiça, a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade (AgRg no HC 710.060/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de
+17/12/2021).
+Ademais,  a  quantidade e a natureza da droga apreendida constituem fundamentos aptos a ensejar a exasperação da pena-base, por demonstrar maior reprovabilidade da conduta (AgRg no AREsp n. 674.735/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/12/2016, DJe de 19/12/2016).
+Nesse sentido, a jurisprudência desta Corte entende que, apesar da natureza da maconha ser menos deletéria em comparação a outros entorpecentes, como o crack e a cocaína, a quantidade apreendida constitui elemento válido para exasperar a sanção inicial (EDcl no AgRg no HC n. 944.875/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025).
+Quanto à causa de diminuição prevista no § 4º. do art. 33, da Lei de Drogas, o Tribunal estadual afastou a minorante consignando (fls. 39-42; grifamos):
+Na terceira fase, conquanto o D. juízo de piso tenha aplicado a causa de diminuição prevista no art. 33, §4º, da Lei nº 11.343/06, assiste razão o recurso ministerial quanto ao não cabimento do referido redutor.
+A concessão da referida benesse legal possui um caráter excepcional, quando constatado não haver dúvidas de que os agentes praticaram o ato de modo não contumaz e habitual, reclamando o preenchimento cumulativo dos seguintes requisitos: sejam os agentes primários, de bons antecedentes, não se dediquem às atividades criminosas e nem integrem organização criminosa.
+Contudo, no presente caso, a expressiva quantidade de entorpecentes demonstra a dedicação dos increpados à atividade criminosa, havendo entendimento do C. Superior Tribunal de Justiça no sentido de que a quantidade e a natureza das drogas apreendidas, além das demais circunstâncias do delito, podem servir para a modulação do índice de redução ou até mesmo impedir a aplicação da causa de diminuição de pena (AgRg no HC 562.200/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, j. em 16/06/2020, D Je 23/06/2020
+ ..
+No mais, como bem salientado pelo parquet em seu apelo: "o caso dos autos não cuida de atividade única, isolada, esporádica, mas de tráfico de drogas reiterado, em dias sucessivos, realidade que também restou corroborada pelo recebimento pela Polícia Civil - DISE de 02 (duas) "denúncias anônimas" pelo disque denúncia, datadas de 28/12/2020 e 04/01/2021 (fls. 53/54), dando conta de que os apelados YJUAN e GABRIEL tinham o costume de homiziar entorpecentes em uma residência desabitada, onde, de fato, os policiais militares localizaram a droga." (fls. 571)
+Portanto, os réus não possuem direito à redução, considerando-se as circunstâncias do caso concreto, haja vista que, além da elevada quantidade de entorpecentes, foram apreendidos instrumentos comumente utilizados no fracionamento e no armazenamento de entorpecentes, além de quantias em notas trocadas, tudo a indicar o profundo envolvimento com a mercancia ilícita.
+Como se observa, o redutor especial previsto  no  §  4.º  do  art.  33  da  Lei  de  Drogas  foi  afastado  com  o  entendimento  de  que  os agravantes  se  dedicavam  a  atividades  criminosas  com base nas circunstâncias  da  prática  delitiva.
+Nesse cenário, para se concluir de maneira diversa, seria indispensável proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO. DOSIMETRIA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. ENVOLVIMENTO HABITUAL COM ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRA VO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas e nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Não se desconhece o entendimento desta Corte Superior de que há bis in idem quando a quantidade e/ou natureza da droga é utilizado para elevar a pena-base e também para afastar a aplicação do § 4º do art. 33 da Lei n. 11.343/06 ou mesmo a hipótese enfrentada no ARE n. 666.334 (Repercussão Geral), no qual o Pretório Excelso passou a considerar bis in idem a utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para afastar a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006" (ARE 666.334/RG, Rel.: Ministro GILMAR MENDES, DJ de 6/5/2014).
+3. Porém, no caso dos autos, a situação não se enquadra nos parâmetros acima referidos, porquanto a Corte Estadual fundamentou o afastamento nas circunstâncias da prisão, inclusive com a apreensão de arma de fogo, somadas à variedade de drogas (23 porções de cocaína, com peso aproximado de 52,40g, uma porção de cocaína, com peso aproximado de 157g, 63 porções de maconha, com peso aproximado de 86,6g e 126 pedras de crack, com peso aproximado de 36.04g) que demonstravam que o recorrente se dedicava às atividades criminosas.
+4. Conforme já decidido reiteradamente por esta Corte superior, a dedicação à atividade criminosa pode ser demonstrada por elementos concretos concernentes: a) à apreensão de petrechos típicos do tráfico como balança de precisão; embalagens plásticas; eppendorfs; tesouras; ou de dinheiro em notas trocadas ou anotações típicas do tráfico; b) às circunstâncias do caso concreto, como a forma de fracionamento e acondicionamento dos entorpecentes; c) ao modus operandi indicativo de profissionalismo, como a utilização de subterfúgios para ocultação da droga em seu transporte; d) à existência de denúncias prévias sobre a traficância, de prévia investigação, de prova oral ou de mensagens em aparelhos celulares demonstrando a prática do delito com habitualidade; e) à confissão do acusado de que exercia a atividade ilícita com habitualidade; f) à condenação do agente por outro crime, concomitantemente com o tráfico de drogas, ou a prática do crime no contexto de apreensão de arma de fogo. Precedentes.
+5. Torna-se inviável a modificação do acórdão impugnado pois, para concluir em sentido diverso, seria necessário o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus (AgRg no HC n. 808.995/MG, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 26.6.2024; AgRg no HC n. 900.210/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 19.6.2024)..
+6. Agravo regimental não provido
+(AgRg no HC n. 931.390/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  NULIDADE.  BUSCA  PESSOAL.  SUPRESSÃO  DE  INSTÂNCIA.  SÚMULA  182/STJ.  DOSIMETRIA.  MINORANTE  DO  ART.  33,  §  4º,  DA  LEI  N.  11.343/2006.  AFASTAMENTO.  CIRCUNSTÂNCIAS  DA  APREENSÃO.  REVOLVIMENTO  DE  MATERIAL  FÁTICO-PROBATÓRIO  DOS  AUTOS.  AGRAVO  REGIMENTAL  PARCIALMENTE  CONHECIDO  E  DESPROVIDO.
+1.  A  nulidade  deduzida  nas  razões  do  writ  nem  sequer  foi  debatida  pelo  Tribunal  de  origem,  o  que  impede  a  análise  do  tema  por  esta  Corte,  sob  pena  de  indevida  supressão  de  instância.  Além  disso,  a  defesa  não  se  desincumbiu  de  atacar  tal  fundamento,  de  maneira  que,  no  ponto,  deve  incidir  a  Súmula  n.  182/STJ.
+2.  A  instância  ordinária  destacou  que  a  apreensão  de  expressiva  quantidade  de  drogas,  de  naturezas  diversas,  além  de  petrechos  normalmente  utilizados  para  a  prática  do  delito  de  tráfico,  valores  sem  comprovação  de  procedência  somado  à  ausência  de  demonstração  de  ocupação  lícita  do  réu,  à  sua  confissão  e  aos  depoimentos  dos  policiais,  constituíram  forte  indicativo  de  que  o  ora  agravante  dedicar-se-ia  a  atividades  criminosas.  Havendo,  portanto,  fundamentos  concretos  para  o  afastamento  da  benesse  aqui  pleiteada,  tem-se  que  a  desconstituição  dos  fundamentos  adotados  pela  instância  ordinária  demandaria  ampla  incursão  no  acervo  fático-probatório  dos  autos,  tarefa  para  a  qual  não  se  presta  o  habeas  corpus.  Precedente.
+3.  Agravo  regimental  desprovido.  (AgRg  no  HC  n.  825.282/SP,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  28/08/2023,  DJe  de  30/08/2023  -  grifamos)
+Finalmente, no que concerne ao regime de cumprimento de pena, conforme consolidado na jurisprudência do Superior Tribunal de Justiça, quando a pena é fixada acima de 4 anos de reclusão e são reconhecidas circunstâncias judiciais desfavoráveis, é aplicável o regime inicial fechado, conforme disposto nos §§ 2º e 3º do art. 33 do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME FECHADO. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto.
+2. Na hipótese, o regime fechado foi fixado com base nas circunstâncias fáticas do caso , notadamente em razão de a condenação ser superior a 4 anos e de a pena-base haver sido fixada acima do mínimo legal com fundamento na quantidade de drogas e nos maus antecedentes do acusado.
+3. Agravo regimental não provido.
+(AgRg no HC n. 847.427/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Assim, o agravo não apresenta argumentos capazes de afastar os fundamentos da decisão atacada, que se alinha à jurisprudência consolidada do Superior Tribunal de Justiça, razão pela qual deve ser mantida a decisão por seus próprios fundamentos.
+  Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É o voto.
