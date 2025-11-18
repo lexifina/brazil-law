@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por VERA LUCIA RODRIGUES DE MELO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL , assim ementado:
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. INADIMPLÊNCIA. AÇÃO DE BUSCA E APREENSÃO. MORA CARACTERIZADA. PRÉVIA CONSTITUIÇÃO EM MORA. PEDIDO PROCEDENTE. SENTENÇA MANTIDA. MORA E VENCIMENTO ANTECIPADO.
+Alegação de incidência de encargos abusivos. Matéria de defesa. Teses de recursos repetitivos. Recurso Especial n.º 1.061.530/RS. Somente o reconhecimento de encargos abusivos durante o período da normalidade afasta a caracterização da mora. Recurso Especial n.º 1.418.593/MS. Compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida (entendida esta como os valores apresentados e comprovados pelo credor na inicial), sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária. Caso concreto. Não demonstrada a cobrança de encargos abusivos. Inadimplência contratual incontroversa. Mora caracterizada
+. CONSTITUIÇÃO DO DEVEDOR EM MORA. Nos termos do art. 2º, §2º, do Decreto-Lei nº 911/69, a mora decorrerá do simples vencimento do prazo para pagamento e poderá ser comprovada por carta registrada com aviso de recebimento, não se exigindo que a assinatura constante do referido aviso seja a do próprio destinatário. Tese do recurso repetitivo - Tema 1132. Caso concreto. Comprovação do envio e da entrega da carta registrada com aviso de recebimento (AR) no endereço informado no contrato. Atendida a formalidade exigida no art. 2º, §2º, do Decreto-Lei n.º 911/69 e enunciado da súmula 72 do STJ.
+PEDIDO DA AÇÃO DE BUSCA E APREENSÃO JULGADO PROCEDENTE.
+SENTENÇA MANTIDA. APELO DESPROVIDO.
+A parte agravante argumenta que:
+"O acórdão recorrido desconsiderou a proteção conferida pelo Código de Defesa do Consumidor, em especial o direito do consumidor à informação clara e adequada, previsto no artigo 6º, inciso III, ao deixar de reconhecer a abusividade da capitalização diária de juros, mesmo diante da ausência de previsão contratual expressa;
+  Há manifesta divergência jurisprudencial no Superior Tribunal de Justiça, notadamente quanto à interpretação e aplicação do Tema 28/STJ e da Súmula 72/STJ, além de outros precedentes que reiteram a nulidade da capitalização de juros sem transparência e clareza contratual."
+Intimada nos termos do art. 1.030,do Código de Processo Civil, a parte recorrida afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+DECIDO.
+O recurso especial é tempestivo e cabível, pois interposto em face de decisão que negou provimento ao recurso de apelação interposto na origem (art. 105, III, "a" , da Constituição Federal).
+No presente processo, a parte afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+De há muito se firmou o entendimento no sentido de que: "A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso." (AgInt no AREsp n. 2.423.648/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Com efeito, presente o acórdão recorrido trouxe fundamentação para justificar a ocorrência da mora e não houve específico combate na peça de recurso especial que se limitou a expor tese genérica sobre a questão debatida nos autos.
+Cuida-se de entendimento consagrado desde a edição da Súmula 283 pelo Supremo Tribunal Federal, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nestes autos, observa-se que a questão discutida não foi impugnada pela parte recorrente, a indicar que a decisão recorrida remanescerá hígida mesmo que afastados os aspectos salientados no recurso, de modo que o recurso não pode ser conhecido.
+Ademais, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela Súmula nº 7 deste Superior Tribunal de Justiça, que estabelece que: "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula nº 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. RESTITUIÇÃO DE QUANTIA PAGA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DA CONSTRUTORA/VENDEDORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO TRIENAL. INAPLICABILIDADE. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais e materiais.
+2. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à alegada ilegitimidade passiva dos recorrentes no tocante à relação jurídica havida entre as partes e à delimitação de suposta responsabilidade, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+(..)
+(AgInt nos EDcl no AREsp n. 2.627.058/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA N.º 282 DO STF. PREQUESTIONAENTO. MATÉRIA DE ORDEM PÚBLICA. NECESSIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula n.º 283 do STF, aplicável, por analogia, ao recurso especial.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+(..)
+(AgInt no AREsp n. 2.662.287/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024. )
+Ante o exposto, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 2% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ EMENTA
