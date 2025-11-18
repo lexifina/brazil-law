@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por JAIR SILAS ALVES DE SOUZA, em face de decisão que não admitiu recurso especial (fls. 1759/1762, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 1416/1421, e-STJ):
+APELAÇÃO CÍVEL. DIREITO CIVIL. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PETROS. REGULAMENTO APLICÁVEL. MOMENTO DA IMPLEMENTAÇÃO DOS REQUISITOS PARA APOSENTADORIA. FATOR DE CORREÇÃO. APLICAÇÃO. ATOS DE CONCESSÃO E REAJUSTE. COMPETÊNCIA. JUSTIÇA COMUM ESTADUAL.
+1. De acordo com a decisão do STJ (tema 907), com efeito vinculante, o regulamento aplicável ao participante de plano fechado de previdência privada, para fins de cálculo da renda mensal inicial do benefício complementar, é aquele vigente no momento da implementação das condições de elegibilidade.
+2. O Regulamento PETROS vigente ao tempo da aposentadoria introduziu duas regras distintas num só dispositivo (art. 41, caput), prevendo que (2.1) os benefícios seriam reajustados quando o salário do pessoal da ativa também o fosse e que (2.2) todas as suplementações receberiam o Fator de Correção (FC), mas, em momento algum, interligou uma regra à outra com o intuito de dizer que o FC só seria aplicado por ocasião dos reajustes, mas não no ato de concessão da suplementação.
+3. Os §§ 1º e 2º do art. 41, ademais, deixam ainda mais clara a insubsistência da tese do beneficiário, visto que, ao dizerem que o FC será também aplicado por ocasião dos reajustes, fica ainda mais evidente que deveria ser aplicado ao ato de concessão, do contrário o vocábulo também não seria introduzido neles.
+4. A conduta de transcrever o caput de normativo interno da entidade de previdência com o intuito de, sobre ele, construir tese jurídica a amparar determinada pretensão, sem transcrever os §§ 1º e 2º do mesmo artigo que complementam a regra do caput e, no caso concreto, denunciariam a completa insubsistência da tese, beira a litigância de má-fé.
+5. A competência para conhecer dos litígios em torno de previdência complementar é da justiça comum estadual, não havendo discussão em torno da relação de trabalho propriamente dita a justificar o deslocamento para a justiça especializada.
+6. Apelação a que se nega provimento.
+Opostos embargos de declaração (fls. 1571/1650, e-STJ), esses foram rejeitados (fls. 1639/1648, e-STJ).
+Nas razões do recurso especial (fls. 1461/1482, e-STJ), o recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes arts.:
+(i) 1.022 e 489, §1º, IV, do CPC/2015, sustentando negativa de prestação jurisdicional, sob o argumento de que o Tribunal de origem, mesmo após a oposição de embargos de declaração, teria deixado de enfrentar de forma fundamentada as teses relevantes para o julgamento;
+(ii) 17, parágrafo único, e 68, § 1º, da LC 109/2001, ao argumento de que o regulamento aplicável seria o vigente à data da adesão;
+(iii) 371 e 374, III, do CPC, por suposta ausência de valoração adequada das provas.
+Contrarrazões às fls. 1656/1678, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) não houve negativa de prestação jurisdicional; b) não há prequestionamento quanto aos arts. 371 e 374, III, do CPC; c) o acórdão recorrido está em consonância com o Tema 907/STJ, atraindo o art. 1.030, I, "b", do CPC.
+Irresignado, aduz o agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam (fls. 1764/1783, e-STJ).
+Contrarrazões ao agravo em recurso especial às fls. 1852/1875 e 1899/1912, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece parcial acolhimento.
+1. A controvérsia recursal cinge-se à alegada negativa de prestação jurisdicional (arts. 1.022 e 489, §1º, IV, do CPC/2015) e à suposta violação de dispositivos legais atinentes à interpretação do regulamento aplicável ao cálculo da renda mensal inicial de benefício previdenciário complementar administrado pela recorrida Fundação Petrobras de Seguridade Social - Petros.
+O Tribunal de origem, ao julgar o agravo interno (fls. 2042/2054, e-STJ), entendeu que a matéria foi decidida de forma alinhada ao entendimento firmado pelo Superior Tribunal de Justiça no Tema 907/STJ, fixando a tese de que "O regulamento aplicável ao participante de plano fechado de previdência privada para fins de cálculo da renda mensal inicial do benefício complementar é aquele vigente no momento da implementação das condições de elegibilidade, haja vista a natureza civil e estatutária, e não o da data da adesão, assegurado o direito acumulado".
+Observa-se que o acórdão recorrido efetivamente examinou a controvérsia jurídica principal, fundamentando-se em precedente obrigatório e reconhecendo a aplicabilidade do regulamento vigente à época da aposentação do segurado. Nessa medida, não se constata omissão quanto à aplicação dos arts. 17 e 68 da LC n. 109/2001, nem quanto aos arts. 141, 492 e 927, III, do CPC/2015, cujo conteúdo normativo foi implicitamente enfrentado pela aplicação direta do referido precedente vinculante.
+Todavia, quanto à alegação de ofensa aos arts. 371 e 374, III, do CPC/2015, verifica-se omissão parcial no acórdão recorrido.
+Consta dos autos que, nos embargos de declaração opostos pelo recorrente (fls. 1574/1586, e-STJ), foi expressamente suscitada a ausência de análise de fatos incontroversos e da confissão da própria PETROS em contestação, no sentido de reconhecer a regra mais vantajosa para o cálculo do benefício. Tais argumentos, de natureza probatória e relevantes para o deslinde da controvérsia, não foram apreciados pela Corte local, seja de forma expressa, seja implícita.
+O acórdão limitou-se a afirmar a aplicação do Tema 907/STJ, sem examinar a alegação de que o conjunto probatório demonstraria a inexistência de controvérsia fática quanto à regra de cálculo invocada.
+Dessa forma, constata-se que o Tribunal de origem deixou de apreciar questão essencial ao deslinde da causa, apta, em tese, a alterar o resultado do julgamento, configurando-se violação ao art. 1.022, II, do CPC/2015, por omissão parcial.
+Ressalte-se que o entendimento consolidado neste Superior Tribunal é no sentido de que a negativa de prestação jurisdicional resta caracterizada quando o acórdão recorrido deixa de examinar ponto relevante suscitado pela parte. A propósito:
+AGRAVO INTERNO NO ARESP. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM.
+1. Há ofensa ao art. 1.022 do CPC/2015, quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração.
+2.Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(STJ - AgInt no AREsp: 2052697 RS 2022/0008736-4, Relator.: Ministro AFRÂNIO VILELA, Data de Julgamento: 26/02/2024, T2 - SEGUNDA TURMA, Data de Publicação: DJe 29/02/2024)
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE MULTA FIXADA EM TERMO DE AJUSTAMENTO DE CONDUTA. EXASPERAÇÃO DA MULTA, EM JUÍZO, SEM FUNDAMENTAÇÃO ADEQUADA. OFENSA AO ART. 1022 DO CPC/2015. AUSÊNCIA DE MANIFESTAÇÃO SOBRE QUESTÕES ESSENCIAIS AO DESATE DA CONTROVÉRSIA. OMISSÃO CARACTERIZADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PARCIAL PROVIMENTO.
+  3. Na linha da iterativa jurisprudência do Superior Tribunal de Justiça, havendo omissão sobre questões relevantes, articuladas oportunamente e renovadas em sede de embargos de declaração junto ao Tribunal a quo, é de se reconhecer a negativa de prestação jurisdicional e a violação do artigo 1.022 do CPC/15, sendo de rigor a anulação do acórdão e a devolução dos autos à Corte de origem para que outro seja proferido manifestando-se expressamente sobre o ponto omisso.
+4. Agravo conhecido para conhecer do recurso especial e dar-lhe parcial provimento.
+(STJ - AREsp: 1701224 SP 2020/0110930-6, Relator.: Ministro FRANCISCO FALCÃO, Data de Julgamento: 21/05/2024, T2 - SEGUNDA TURMA, Data de Publicação: DJe 13/06/2024)
+3. Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe parcial provimento, para reconhecer a omissão parcial do acórdão recorrido, determinando o retorno dos autos ao Tribunal de Justiça do Estado da Bahia, a fim de qu e supra a omissão apontada, com exame específico das alegações relativas aos arts. 371 e 374, III, do CPC/2015, especialmente quanto à existência de fato incontroverso ou confissão da parte adversa.
+Ficam prejudicadas as demais teses recursais.
+Publique-se.
+Intimem-se.
+EMENTA
