@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO VICTOR COSTA DA CUNHA FALEIROS DE MELO contra a decisão do Tribunal de origem que inadmitiu o recurso especial, ante os óbices das Súmulas n. 7 do STJ e 283 do STF.
+Consta dos autos que o agravante foi condenado às penas de 5 (cinco) anos de reclusão em regime semiaberto e de 500 (quinhentos) dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A parte agravante sustenta que o recurso especial é tempestivo e versa apenas sobre questões de direito, com adequada fundamentação, não exigindo reexame probatório.
+Alega ser cabível o recurso especial por negativa de vigência aos arts. 33, § 4º, da Lei n. 11.343/2006 e 33, § 2º, e 44 do CP, destacando que a matéria foi devidamente prequestionada no acórdão.
+Aduz que o redutor do art. 33, § 4º, da Lei n. 11.343/2006 deve ser aplicado, porque a quantidade de droga apreendida é pequena e inexistem elementos concretos de integração a organização criminosa ou de dedicação a atividades ilícitas.
+Defende que, reconhecida a minorante, a pena será inferior a 4 (quatro) anos, impondo regime inicial aberto, nos termos do art. 33, § 2º, do CP.
+Entende que estão presentes os requisitos do art. 44 do CP para a substituição da pena privativa de liberdade por restritivas de direitos, diante da primariedade técnica e das circunstâncias judiciais favoráveis.
+Pondera que a decisão de inadmissibilidade do recurso especial incorreu em equívoco ao apontar ausência de fundamentação específica e necessidade de revolvimento fático, pois as razões foram claramente desenvolvidas.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Em contrarrazões, o recorrido alega que não foram enfrentados, de forma específica, todos os fundamentos da decisão agravada, incidindo a Súmula n. 182 do STJ, além de vedação ao reexame de provas pela Súmula n. 7 do STJ, e reitera a inadmissibilidade do recurso especial .
+O parecer do Ministério Público Federal é pelo não conhecimento do agravo em recurso especial, por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+É o relatório.
+A conclusão da instância de origem pela inadmissibilidade do recurso deve ser mantida.
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: (i) a análise pretendida exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ; (ii) ausência de impugnação a todos fundamentos do acórdão recorrido (Súmula n. 283 do STF).
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, todos os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Para impugnar o óbice da Súmula n. 283 do STF, cumpre à parte agravante demonstrar que, nas razões do recurso especial, trouxe elementos suficientes para a reforma das conclusões do acórdão recorrido, contrastando, de modo específico, as premissas jurídicas que alicerçam o julgamento impugnado.
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigiri a o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
