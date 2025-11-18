@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial por não ter impugnado especificamente todos fundamentos da decisão agravada.
+O agravante sustenta que impugnou todos os fundamentos utilizados pela Corte a quo para obstar o conhecimento de seu apelo especial.
+Tendo em conta os fundamentos do agravante, reconsidera-se a decisão de fls. 1731/1732.
+Sem impugnação.
+É o relatório.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Observa-se que há decisão da Presidência do Tribunal de Justiça do Estado de São Paulo, determinando o sobrestamento do recurso extraordinário para fins de juízo de conformação com o que vier a ser assentado pelo STF no Tema 1195 (fls. 1679/1684).
+Registre-se que o Supremo Tribunal Federal, por maioria, reconheceu a existência da repercussão geral da matéria debatida nos autos do RE nº 1.335.293/SP, vinculado ao Tema 1.195, a qual versa sobre "Possibilidade de fixação de multa tributária punitiva, não qualificada, em montante superior a 100% (cem por cento) do tributo devido."
+Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos do art. 1.036 do CPC/2015, justifica o sobrestamento dos recursos especiais, na instância ordinária, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF.
+Assim, a Corte de origem pode declarar prejudicados os recursos que se oponham a acórdão que se conforma com o decidido pelo STF ou se retratar. Veja-se: REsp 1.486.671/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014.
+Outrossim, só caberá a subida do recurso especial, ou do agravo contra sua inadmissão, ao STJ, após a realização do juízo de conformidade com repercussão geral, se houver resíduo não alcançado pela afetação, pois se a matéria discutida no apelo coincidir integralmente com aquela tratada na repercussão geral, o Recurso Especial (REsp) deverá ser declarado prejudicado.
+Nesse panorama, considerando que o recurso extraordinário encontra-se sobrestado para realização de juízo de adequação com o que vier a ser assentado pela Corte Suprema no Tema 1195, tem-se por prematuras a realização do juízo de admissibilidade em relação ao recurso especial da parte contribuinte, bem como a remessa dos autos a este Tribunal Superior.
+Ante o exposto, reconsidero a decisão de fls. 1731/1732, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo Supremo Tribunal Federal, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso, se a decisão recorrida coincidir com a orientação exarada pelo STF; ou b) proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO EXERCIDO. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1.195 DO STF. SOBRESTAMENTO DO RECURSO ATÉ O EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
