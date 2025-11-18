@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANTÔNIO CÂNDIDO REIS DE TOLEDO LEITE contra decisão que não admitiu o recurso especial manejado, com base nas alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 79):
+Agravo de instrumento. Cumprimento de sentença. Decisão agravada que indeferiu o pedido de remição. Inconformismo do executado. Não cabimento. Remição da dívida proposta após arrematação do imóvel. Depósito do crédito sem o pagamento de comissão do leiloeiro. Art. 7º, § 3º da Resolução nº 236/2016 do CNJ. Impossibilidade de se ter por remida a execução nos termos do art. 826 do CPC. Decisão mantida. Recurso a que se nega provimento.
+Nas razões do recurso especial, o agravante alega, além de divergência jurisprudencial, violação aos arts. 9º, 10, 805, 826 e 903 do Código de Processo Civil; 7º da Resolução CNJ n. 236/2016; 40 do Decreto n. 21.981/1932 e 5º, incisos XXXV e LV, da Constituição Federal.
+Sustenta que realizou o depósito do valor integral da execução após a hasta pública, porém antes da assinatura do auto de arrematação, visando obter a remição da dívida, na forma do art. 826 do CPC.
+Aduz que o juízo de primeira instância considerou o depósito insuficiente, em razão da ausência do pagamento da comissão do leiloeiro.
+Argumenta que a comissão do leiloeiro já foi paga pelo arrematante, de modo que tal exigência causaria pagamento em duplicidade.
+Informa que não foi ouvido previamente a respeito do tema e nem lhe foi facultado complementar o depósito.
+Aponta que o arrematante deveria propor ação autônoma para reaver o valor desembolsado com a comissão do leiloeiro.
+Assim, teriam sido violados os princípios da não surpresa, da efetividade da tutela jurisdicional, do contraditório, da execução menos gravosa ao executado, e também os dispositivos legais que tratam da remição do débito.
+Contrarrazões juntadas às fls. 149-152.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Impugnações juntadas às fls. 187-195 e 202-205, com pedido de aplicação de multa por recurso protelatório, nos termos do art. 81 do CPC.
+Assim delimitada a controvérsia, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+Em síntese, o agravante afirma que realizou o pagamento do valor da execução com base no último cálculo apresentado pelos credores nos autos, de modo que deve lhe ser reconhecida a remição da execução, ainda que não tenha depositado o valor da comissão do leiloeiro.
+O Tribunal de origem assim se pronunciou sobre o tema:
+No caso, o imóvel foi arrematado em 07.11.2022 pelo valor de R$279.000,00 (auto de arrematação, fls. 341/342 dos autos originários).
+O agravante se propôs, na forma do art. 826 do Código de Processo Civil, a remir a execução, peticionando em 27.01.2023 (fls. 364/366 dos autos originários), depositando o valor de R$32.046,28, valor atualizado do débito apontado pelo credor às fls. 298 dos autos originários (fls. 369).
+Ocorre que efetuou o depósito sem acrescentar nele a comissão do leiloeiro, prevista no artigo 7º, § 3º, da Resolução nº 236 do Conselho Nacional de Justiça: "Art. 7º- Além da comissão sobre o valor da arrematação, a ser fixado pelo magistrado (art. 884, parágrafo único), no mínimo de 5% (cinco por cento) sobre o valor da arrematação (art. 24, parágrafo único, do Decreto 21.981/1932), a cargo do arrematante, fará jus o leiloeiro público ao ressarcimento das despesas com a remoção, guarda e conservação dos bens, desde que documentalmente comprovadas, na forma da lei". E sem o pagamento de tal verba, o depósito não pode ser tido como integral, o que impede o reconhecimento da remição da dívida, nos exatos termos do que estabelece o art. 826 do CPC, que impõe para tanto o integral recolhimento das "custas" (em que se inclui a comissão do leiloeiro). (fl. 82, grifou-se).
+No que se refere às teses de a) que a determinação geraria pagamento em duplicidade da comissão; b) que não foi ouvido previamente nem lhe foi facultado complementar o depósito; c) de que o leiloeiro deveria ajuizar ação autônoma para pleitear a comissão e d) de que foram violados os princípios da não surpresa, da efetividade da tutela jurisdicional, do contraditório e da execução menos gravosa ao executado, constato que não foram discutidas pelo Tribunal de origem e o agravante nem sequer suscitou eventual omissão mediante a oposição de embargos de declaração, de modo que incidem as Súmulas 282 e 356 do STF, por analogia.
+Igualmente, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal.
+Por sua vez, não cabe a interposição de recurso especial para tratar de violação a atos normativos secundários, como resoluções do Conselho Nacional de Justiça. Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. TAXA SELIC. APLICAÇÃO A PARTIR DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 113/2021. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DA DÍVIDA. RESOLUÇÃO DO CNJ. ALEGADA OFENSA AOS
+ARTIGOS 402 DO CÓDIGO CIVIL, 4º DO DECRETO N. 22.626/33 e 1º-F DA LEI N. 9.494/97. TESE RECURSAL EMINENTEMENTE CONSTITUCIONAL. OFENSA REFLEXA. ATOS NORMATIVOS SECUNDÁRIOS. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegada afronta aos artigos 402 do Código Civil, 4º do Decreto n. 22.626/33 e 1º-F da Lei n. 9.494/97 passa pela análise da EC n. 113/2021, de modo que é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicado nas razões do recurso especial violação a dispositivos de lei federal.
+2. Os atos normativos secundários e outras disposições administrativas, como, in casu, a Resolução do CNJ, não estão inseridos no conceito de lei federal, não sendo adequado o aviamento de recurso especial pela alínea "a" do artigo 105 da Constituição, a fim de impugnar referidas normas administrativas.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.170.990/DF, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Em relação à exigência do depósito da comissão do leiloeiro para fins de remição da dívida, a jurisprudência do STJ se orienta no sentido de que tal pagamento somente é dispensado quando a hasta pública não chega a ser realizada, ou seja, antes da arrematação, visto que, neste caso, o leiloeiro ainda não chegou a prestar os seus serviços.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCURAÇÃO JUNTADA AOS AUTOS. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. EXECUÇÃO. ARREMATAÇÃO. REMIÇÃO DA DÍVIDA. PAGAMENTO PARCIAL. VEDAÇÃO À DECISÃO SURPRESA. INEXISTÊNCIA. MULTA DO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. DECISÃO RECONSIDERADA. RECURSO ESPECIAL NÃO PROVIDO.
+1. A arrematação somente se considera perfeita, acabada e irretratável com a assinatura do auto pelo juiz, pelo arrematante e pelo leiloeiro, nos termos do art. 903 do CPC.
+2. O direito de remição da execução exige o pagamento integral da dívida antes da assinatura do auto de arrematação, incluindo juros, custas e honorários advocatícios (art. 826 do CPC). O depósito parcial após a arrematação não impede a alienação do bem.
+3. A suspensão do leilão em caráter cautelar não afasta a possibilidade de o magistrado rever sua decisão, especialmente quando inexistente o pressuposto legal para invalidar a arrematação.
+4. A multa prevista no art. 1.021, § 4º, do CPC é inaplicável quando o agravo interno é provido, ainda que, em análise subsequente, o recurso especial seja desprovido.
+5. Agravo interno provido para, em nova análise, negar provimento ao recurso especial.
+(AgInt no REsp n. 2.083.546/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/4/2025, DJEN de 5/5/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA AGRAVANTE.
+1. O conteúdo normativo dos dispositivos apontados como violados, não foi objeto de exame pelo acórdão recorrido, razão pela qual, aplica-se o teor da Súmula 211/STJ, ante a ausência de prequestionamento.
+2. O aresto recorrido encontra apoio na orientação jurisprudencial firmada por esta Colenda Corte, no sentido de que, se a remição da execução pelo devedor ocorrer antes de realizado o leilão público, não se há que falar em comissão ao leiloeiro, uma vez que inexiste o serviço prestado. Incidência da Súmula 83/STJ.
+3. Para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.310.622/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/11/2019, DJe de 21/11/2019.)
+Assim, estando o acórdão em conformidade com a jurisprudência do STJ, com fulcro na Súmula 568/STJ rejeito a alegação de violação ao art. 826 do CPC.
+A análise da alegada divergência jurisprudencial fica também inviabilizada em razão dos mesmos óbices acima aplicados.
+Quanto ao pedido para aplicação de multa por litigância de má-fé, registro que, em que pese o não provimento do recurso, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, de minha relatoria, Segunda Seção, julgado em 13/12/2017, DJe 18/12/2017).
+Em face do exposto, conheço do agravo para conhecer em parte do recurso especial e negar provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
+EMENTA
