@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Conflito de Competência com pedido de Tutela Cautelar Antecipada formulado por SÃO REMÍGIO EMPREENDIMENTOS IMOBILIÁRIOS LTDA - EM RECUPERAÇÃO JUDICIAL.
+Afirma a suscitante, em suma, que, após o deferimento do processamento da Recuperação Judicial, o juízo suscitado tem praticado medidas constritivas de seu patrimônio em desafio ao juízo universal.
+Postula a suspensão liminar das medidas apontadas e, no mérito, a declaração da competência do juízo universal para a promoção dos atos executivos.
+É o relatório.
+DECIDO.
+Nesta corte superior, a adoção de medida liminar em conflito de competência visa a garantia de prestação jurisdicional célere, objetivando assegurar que o pronunciamento judicial seja adotado, em linhas iniciais, pelo juízo aparentemente competente.
+Dispõe o art. 105, I, d, da CRFB/88 que "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente (..) d) os conflitos de competência entre quaisquer tribunais, ressalvado o disposto no art. 102, I, "o", bem como entre tribunal e juízes a ele não vinculados e entre juízes vinculados a tribunais diversos".
+O Juiz natural é garantia constitucional das partes, expressa no art. 5º, inciso LIII, da Constituição Federal, que dispõe que "ninguém será processado nem sentenciado senão pela autoridade competente".
+Nos termos do art. 66 do Código de Processo Civil, há conflito de competência quando dois ou mais juízes se declaram competentes, quando dois ou mais juízes se declaram incompetentes, atribuindo um ao outro a competência, ou quando surge controvérsia acerca da reunião ou separação de processos entre dois ou mais juízes.
+O entendimento consolidado do Superior Tribunal de Justiça é de que "Para se caracterizar o conflito de competência, é necessária a manifestação expressa de dois ou mais juízos que se considerem competentes, ou incompetentes, para processar e julgar a mesma demanda. Desserve ao fim de sanear toda e quaisquer questões conflitantes em um processo." (AgInt no CC n. 206.377/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 29/10/2024, DJe de 5/11/2024.)
+Nos termos do art. 59 da Lei 11.101/05, a homologação do plano de recuperação judicial acarreta a novação das obrigações anteriormente assumidas pelo devedor, que se extinguem e são substituídas por aquelas estipuladas no referido plano.
+Além disso, o art. 49 da mesma Lei dispõe que "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos", o que permite concluir que a sujeição de determinado crédito ao processo recuperacional independe de decisão judicial prévia ou contemporânea ao ajuizamento, bastando que decorra de obrigação constituída em momento anterior.
+Dessa forma, esta Corte tem assentado o entendimento de que o crédito oriundo de atos praticados antes do pedido de recuperação judicial  e, por isso, de natureza concursal  deve ser adimplido na forma prevista no Juízo universal, ainda que a sentença condenatória tenha sido proferida posteriormente.
+Quanto a forma de apuração de natureza do crédito, a questão restou pacificada, inclusive, em regime repetitivo, conforme teor da tese firmada no Tema 1051: "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador."
+Diante de tais orientações, observa-se que a determinação do juízo suscitado, no sentido de admitir o levantamento do depósito realizado em razão de dizer respeito à crédito extraconcursal, destoa do entendimento firmado pela 2ª Seção desta corte, conforme se afere dos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA.
+Nos termos da jurisprudência consolidada da Segunda Seção, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Agravo interno improvido.
+(AgInt no CC n. 206.989/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 18/3/2025, DJEN de 21/3/2025. Grifo Acrescido)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. INEXISTÊNCIA DE DECISÕES CONFLITANTES DOS JUÍZOS SUSCITADOS. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO CONFLITO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistindo decisões conflitantes dos Juízos suscitados, não se revela caracterizado o conflito de competência.
+2. "Nos termos da jurisprudência consolidada da Segunda Seção, é competente o juízo universal para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação" (AgInt no CC n. 190.173/RJ, relator Ministro Marco Buzzi, Segunda Seção, julgado em 4/10/2022, DJe de 10/10/2022).
+3. Considerando a inexistência de atos de constrição sobre bens ou créditos da recuperanda nos autos originários e a determinação, pelo próprio Juízo trabalhista, de que o depósito recursal seja encaminhado ao Juízo da recuperação judicial, não persiste o conflito de competência.
+4. O conflito de competência não se presta a atuar como sucedâneo recursal. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no CC n. 205.632/SP, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 15/10/2024, DJe de 17/10/2024. Grifo Acrescido)
+Portanto, ainda que realizado o depósito antes da homologação do plano de recuperação judicial ou em relação a crédito extraconcursal, como aduzido pelo Juízo suscitado, não se pode cogitar do levantamento das quantias depositadas ao arrepio da supervisão do juízo recuperacional.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais do Foro Central da Capital do Estado de São Paulo, para deliberar sobre o depósito judicial efetuado nos autos nº 0047396-51.2016.8.16.0014.
+Publique-se. Intimem-se.
+EMENTA
