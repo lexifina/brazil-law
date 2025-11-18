@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de RECURSO ORDINÁRIO EM HABEAS CORPUS, com pedido liminar, interposto por GUSTAVO SERAFIM DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que, por maioria, denegou a ordem impetrada no HC nº 1.0000.25.225266-3/000 (fls. 490-496).
+Consta que o paciente foi preso em flagrante no dia 04/09/2024, acusado da prática dos crimes de homicídio qualificado tentado (art. 121, §2º, VIII, CP) e adulteração de sinal identificador de veículo automotor (art. 311, CP). A prisão foi convertida em preventiva em 06/09/2024 pelo Juízo da Central de Flagrantes (CEFLAG), sob o fundamento da gravidade concreta e da necessidade de garantia da ordem pública (fls. 233-234).
+A defesa impetrou habeas corpus no Tribunal local, alegando constrangimento ilegal em razão do excesso de prazo da custódia cautelar, uma vez que, decorrido mais de um ano da prisão, o inquérito não havia sido finalizado nem a denúncia oferecida. A ordem foi denegada pela maioria, prevalecendo o voto dos Desembargadores da 5ª Câmara Criminal. Ficou vencido o Des. Rinaldo Kennedy Silva, que reconheceu o excesso de prazo e concedia a ordem (495-496).
+No presente recurso (fls. 506-511), a defesa insiste no excesso de prazo, destacando que a prisão preventiva não pode converter-se em antecipação de pena.
+A liminar foi indeferida (fls. 518-519). Prestadas informações pela autoridade coatora (fls. 525-526).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, argumentando que a demora se deve à complexidade da investigação e ao envolvimento de facções criminosas (fls. 530-532).
+É o relatório. DECIDO.
+É pacífico o entendimento desta Corte de que, uma vez cessado o ato apontado como coator, resta prejudicado o exame do mérito do habeas corpus, ante a perda superveniente de objeto, nos termos do art. 659 do Código de Processo Penal e da jurisprudência consolidada do Superior Tribunal de Justiça.
+Conforme reiteradamente decidido, a superveniência de decisão judicial que revoga a prisão preventiva ou concede liberdade provisória ao paciente torna prejudicado o habeas corpus anteriormente impetrado, por perda de objeto (AgRg no HC n. 773.981/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 26/6/2023; AgRg no HC n. 753.667/SC, Sexta Turma, Rel. Min. Laurita Vaz, DJe 3/5/2023).
+No caso, houve o cumprimento de alvará de soltura em favor do paciente em 14/10/2025, por decisão da 5ª Câmara do Tribunal de Justiça de Minas Gerais, em sede de habeas corpus posterior, que substituiu e esvaziou os efeitos da decisão ora impugnada, cessando, portanto, o alegado constrangimento.
+Verifico, assim, que o presente recurso perdeu seu objeto, uma vez inexistente a situação de coação à liberdade de locomoção do recorrente que ensejou a impetração original.
+Diante do exposto, declaro prejudicado o presente recurso ordinário em habeas corpus, em virtude da perda superveniente de objeto, ante o relaxamento da prisão preventiva do paciente Gustavo Serafim de Souza, determinado pelo Tribunal de Justiça do Estado de Minas Gerais em decisão superveniente.
+Publique-se. Intimem-se.
+EMENTA
