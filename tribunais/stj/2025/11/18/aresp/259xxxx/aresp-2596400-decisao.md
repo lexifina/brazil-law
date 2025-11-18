@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o ESTADO DO CEARÁ se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 802):
+EMENTA: PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. MERA CÓPIA DAS CONTRARRAZÕES AO APELO. INEXISTÊNCIA DE REGULARIDADE FORMAL DO AGRAVO INTERNO. OFENSA AO PRINCÍPIO DA DIALETICIDADE (ART. 1.021, §1º, CPC). INCIDÊNCIA DO ENUNCIADO 43 DA SÚMULA DO TJCE. RECURSO NÃO CONHECIDO.
+1. De acordo com o princípio da dialeticidade é ônus do recorrente impugnar especificamente os fundamentos da decisão recorrida. Tal exigência concretiza os princípios da boa-fé e do contraditório: de um lado, evita a mera repetição de peças processuais, sem especificar as razões pelas quais a decisão não convenceu a parte recorrente; de outro, garante o contraditório, pois permite que o recorrido possa elaborar as suas contrarrazões, no mesmo prazo legal.
+2. Embora a reprodução no agravo interno dos argumentos ventilados nas contrarrazões ao apelo não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna especificamente os fundamentos da decisão monocrática adversada, como na hipótese vertente, não há como admitir o recurso, por descumprimento do art. 1.021, § 1º, do CPC. Incidência do Enunciado 43 da Súmula do TJCE.
+3. Recurso não conhecido.
+Os embargos de declaração opostos foram rejeitados (fls. 853/856).
+A parte recorrente alega:
+(i) violação do art. 1.022, II, do Código de Processo Civil, porquanto o acórdão embargado padece de omissão, já que não analisou que o mandado de segurança foi oposto após o prazo decadencial;
+(ii) contrariedade ao art. 23 da Lei 12.016/2009 e ao art. 10, § 1º, da Lei Complementar 87/1996, por entender que a impetração do mandado de segurança ocorreu após o prazo decadencial de 120 dias, contado a partir do término do prazo legal de 90 dias fixado para a autoridade fazendária apreciar pedido administrativo de restituição de ICMS-ST.
+Requer o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 870/890).
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de mandado de segurança impetrado por SOBRAL & PALÁCIO PETRÓLEO LTDA. contra ato atribuído à autoridade da Secretaria da Fazenda do Estado do Ceará, visando ao ressarcimento de valores de ICMS-ST pagos a maior. A controvérsia, contudo, não alcançou o exame do mérito, pois o Tribunal de origem não conheceu do agravo interno interposto pelo Estado do Ceará, ao entender que o recurso não impugnou de forma específica os fundamentos da decisão monocrática, em afronta ao princípio da dialeticidade previsto no art. 1.021, § 1º, do Código de Processo Civil.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+A parte recorrente sustentou haver omissão no acórdão recorrido no tocante:
+(a) à manifestação dos argumentos trazidos na apelação, pois impugnou os fundamentos da sentença;
+(b) ao entendimento dissonante ao entendimento do Superior Tribunal de Justiça (STJ) sobre os arts. 932, III, 1.009 e 1.010 do CPC;
+(c) à observância do princípio da primazia do mérito contido no art. 4º do CPC;
+(d) à análise dos princípios da ampla defesa e do contraditório (art. 5º, LV, da Constituição Federal);
+Ao analisar o teor das alegadas omissões, constato que a irresignação da parte embargante está relacionada a matérias já devidamente examinadas por ocasião do julgamento dos embargos de declaração, visto que o Tribunal de origem, de modo expresso, fundamentado e coeso, decidiu que (fls. 855/856):
+Com efeito, o agravo interno por ele interposto não foi conhecido pelo Órgão Colegiado com fundamento no Enunciado n. 43 da Súmula do TJCE e no art. 1.021, §1º, do CPC, porquanto a Câmara, referendando o voto desta relatoria, compreendeu que a parte agravante descumpriu o princípio da dialeticidade, na medida em que se limitou a reproduzir ipsis litteris as contrarrazões ao recurso de apelação, não infirmando de forma pontual e específica os fundamentos centrais que conduziram esta Magistrada a dar provimento ao apelo da parte adversa.
+Em outras palavras, o agravante (ora embargante) se contentou em repisar as questões levantadas em contrarrazões de apelação, sem desenvolver argumentação que demonstrasse como seria possível modificar o entendimento adotado no provimento jurisdicional recorrido, violando, assim, o preceito dialético, o que implicou na prolação de um juízo negativo de aceitação.
+O agravo interno não dialogou com a manifestação unipessoal recorrida. Não combateu os pontos da decisão. Simplesmente reiterou manifestação anterior.
+ ..
+Diferentemente do alegado pelo embargante, o acórdão recorrido foi claro ao afirmar, à luz do entendimento do colendo Superior Tribunal de Justiça, "que ao recorrente é lícito se utilizar dos argumentos já delineados em suas anteriores peças processuais; porém, em observância ao princípio da dialeticidade ou da congruência, jamais poderá deixar de apresentar as razões pelas quais reputa equivocada a fundamentação e, consequentemente, a conclusão da decisão recorrida".
+ ..
+Assim, não se mostrou suficiente a simples reprodução de fundamentos anteriores para fazer as vezes de um agravo interno, sem que houvesse impugnação específica às razões de decidir da manifestação unipessoal adversada. Com efeito, aplicou-se ao caso o Enunciado 43 da Súmula deste Tribunal, que assim dispõe: "Não se conhece de recurso quando não é feita a exposição do direito e das razões do pedido de nova decisão.".
+Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional, pois o simples descontentamento com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+O Tribunal de origem entendeu que todas as questões suscitadas foram devidamente apreciadas, ao reconhecer que o agravo interno não observou o princípio da dialeticidade por reproduzir integralmente as contrarrazões da apelação, sem impugnar os fundamentos da decisão monocrática. Fundamentou-se no art. 1.021, § 1º, do CPC e no Enunciado 43 da Súmula do TJCE, concluindo que a decisão foi clara, coerente e devidamente motivada, afastando, assim, a existência de omissão, obscuridade, contradição ou erro material.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Os arts. 23 da Lei 12.016/2009 e 10, § 1º, da Lei Complementar 87/1996 não foram apreciados pelo Tribunal de origem.
+A falta de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Para que se configure o prequestionamento, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não no caso concreto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
