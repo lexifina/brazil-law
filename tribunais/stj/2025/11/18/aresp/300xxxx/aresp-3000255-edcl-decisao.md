@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por FOCO ASSESSORIA AGRICOLA TGA LTDA à decisão de fls. 965/966, que não conheceu do recurso.
+Sustenta a parte embargante:
+Com a brevidade necessária e a data máxima vênia, ao menos para a ora Embargante, a r. Sentença restou contraditória em face ao que está nos autos, uma vez que NÃO houve intimação para a parte Agravante/Embargante fazer o recolhimento em dobro do preparo recursal.
+Veja Vossa Excelência que, a parte Embargante traz abaixo as intimações/publicações que foram recebidas pelo seu causídico (Luiz Otávio Paim) neste C. Superior Tribunal de Justiça, sendo que neste Recurso em epígrafe SOMENTE HOUVE UMA INTIMAÇÃO/PUBLICAÇÃO, que foi referente a r. Decisão embargada e NÃO HOUVE INTIMAÇÃO/PUBLICAÇÃO quanto ao recolhimento em dobro. Vejamos:
+ ..
+Pois bem Douto Ministro! A r. Decisão embargada está contradizendo com as intimações/publicações que houveram nos autos do Recurso em epígrafe, uma vez que NÃO houve intimação/publicação para a parte Agravante/Embargante fazer o recolhimento em dobro do preparo recursal, o que preciso ser revisto (fls. 971/972).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça realizado à fl. 907.
+Observe que o Tribunal de Justiça determinou a intimação da parte para comprovar o preenchimento dos requisitos para concessão do beneficio (fl. 913).
+A parte resolveu recolher as custas, no entanto, de forma simples (fls. 915/916), abrindo mão do pedido e afastando, assim, a presunção de sua hipossuficiência.
+Portanto, tendo em vista que as custas não foram recolhidas no ato da interposição do recurso especial, e antes do Tribunal a quo apreciar o pedido de gratuidade de justiça, houve a renúncia ao referido pedido, e o recorrente juntou documento que demonstra apenas o pagamento de forma simples, é imprescindível a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+No caso, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. E mesmo após a intimação da parte, nos termos do § 2º, c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanear o vício (fls. 957/958), não houve a devida regularização, porquanto deixou o prazo transcorrer in albis (fl. 962).
+Ademais, em razão da alegação da parte de que não foi intimada para regularizar o preparo , os autos foram enviados à Secretaria para esclarecimento sobre sua intimação referente à certidão de fls. 957/958.
+Contudo, a Coordenadoria de Processamento de Feitos de Direito Privado informou que:
+Em cumprimento ao r. despacho retro, certifico que a vista à parte recorrente para manifestação acerca de vício certificado nos autos foi disponibilizada no DJEN em 13/08/2025 e considerada publicada em 14/08/2025, em nome do advogado Luiz Otávio Paim, OAB/MT025822O, representante da parte agravante, conforme consta no sítio eletrônico do CNJ e certificado às fls. 961. Certifico, ainda, que as vistas não constam da listagem disponível na aba "Minhas Publicações" da Central do Processo Eletrônico - CPE, conforme alerta em vermelho que pode ser visto no recorte de tela às fls. 972 (fl. 987).
+Desse modo, não há que se falar em ausência de intimação para o saneamento do vício referente ao recolhimento das custas.
+Registre-se que a única forma de recolher as custas simples após a interposição do Recurso Especial, é quando há pedido de gratuidade de justiça na petição e este é indeferido, porquanto deverá ser dada oportunidade à parte para efetuar o recolhimento nos termos do artigo 99, § 7, do Código de Processo Civil em razão do princípio da não- surpresa. (EDcl no AgInt no AREsp n. 1.317.073/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 24.8.2021.).
+Porém, no caso dos autos, é importante frisar que a pretensão à gratuidade de justiça sequer foi analisada, em razão da prática de ato incompatível com o pedido de gratuidade. No caso, a hipótese é diversa da tratada pelo §7º do art. 99 do CPC, porque não houve julgamento pelo indeferimento da benesse.
+Entender de modo diverso atenta contra os princípio da boa-fé processual e da isonomia, na medida em que a parte, obrigada a comprovar o recolhimento do preparo no ato interposição do recurso ou devendo fazê-lo em dobro, ao deixar de fazê-lo, socorre-se do pedido da gratuidade de justiça, para se furtar ao cumprimento da norma procedimental. E diante do menor obstáculo, recolhe o preparo, ato incompatível com a presunção de hipossuficiência de que trata o texto normativo (art. 99, §3º, CPC).
+Logo, conclui-se que a renúncia à pretensão de conseguir a benesse enseja no dever de recolher o preparo em dobro, na forma do art. 1.007, §4º, do CPC, na medida em que a comprovação do preparo deve ser simultânea à interposição do recurso.
+Dessa forma , correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Outrossim, "Eventual deferimento do pleito de nova intimação, sem previsão legal e após período considerável de inércia, consistiria em tratamento privilegiado à embargante, em detrimento da exequente, violando-se o princípio da isonomia processual, previsto no art. 7º do CPC." (AgInt no REsp 2013924/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJEN 25.03.2025).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
