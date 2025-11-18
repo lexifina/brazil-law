@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAUL JOSÉ DE ABREU STURARI contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios proferido na Apelação Cível 0727000-22.2024.8.07.0001, assim ementado (fls. 1160):
+RECURSO DE APELAÇÃO. REJULGAMENTO. PASEP. PRESCRIÇÃO. TERMO INICIAL. TEORIA DA . DATA DEACTIO NATA DISPONIBILIZAÇÃO DO NUMERÁRIO. SAQUE. RECURSO DESPROVIDO.
+1. Segundo a tese fixada pelo Superior Tribunal de Justiça no julgamento do R Esp 1.895.936/TO (Tema 1.150), "o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência ". dos desfalques realizados na conta individual vinculada ao Pasep
+2. Em se tratando de demanda na qual são questionados os valores depositados em conta a título de PASEP, o prazo prescricional começa a correr a partir do momento no qual a parte interessada toma ciência do prejuízo e pode tomar as providências cabíveis ao efetivo cumprimento do seu direito, vale dizer, a partir da data do saque dos valores. 2.1 Se a parte tomou ciência dos desfalques em sua conta PASEP em 05/12/2003, quando realizou o saque dos valores, e a ação foi ajuizada somente em 02/07/2024, há prescrição da pretensão de reparação por danos materiais decorrentes de ato ilícito praticado através da má gestão de recursos do PASEP repassados pela União e custodiados pelo Banco do Brasil, pois transcorrido o prazo prescricional de 10 (dez) anos.
+3. Recuso conhecido e, em rejulgamento, não provido.
+Nas razões do recurso especial, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, o recorrente alega violação do art. 205 do Código Civil e contrariedade ao Tema n. 1150 do Superior Tribunal de Justiça, sustentando que o termo inicial da prescrição decenal, em ações relativas ao Programa de Formação do Patrimônio do Servidor Público (PASEP), deve ser a data da "ciência comprovada dos desfalques"  que, no caso, teria ocorrido apenas com o recebimento dos extratos completos em 26/04/2024  e não a data do saque (05/12/2003), como decidido pela origem.
+Alega haver dissídio jurisprudencial específico sobre o termo inicial .
+Requer o afastamento do óbice da Súmula n. 7/STJ por se tratar de revaloração jurídica de fatos incontroversos.
+É o relatório.
+Decido.
+Na hipótese dos autos, o Tribunal de origem, ao analisar a controvérsia, consignou (fls. 1066):
+No caso dos autos, o apelante recebeu os valores relativos ao PASEP em 05/12/2003 (conforme extrato de ID 67358139, folha 34), momento em que tomou ciência da quantia disponível e teve a efetiva possibilidade de exigir o correto cumprimento de seu direito.
+Portanto, tendo transcorrido o prazo prescricional superior a 10 (dez) anos até a propositura da ação, que ocorreu em 02/07/2024 , há que se reconhecer a prescrição.
+Na hipótese dos autos, extrai-se do acórdão atacado e das razões de recurso especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar a conclusão da origem de que a ciência do alegado dano (desfalques ou má gestão) ocorreu na data do saque (05/12/2003), substituindo-a por outra data vinculada ao recebimento de extratos (26/04/2024).
+Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Ademais, resta inviável o conhecimento do apelo pela alínea "c" do inciso III do art. 105, da Constituição Federal, pois a incidência da Súmula n. 7/STJ impede a verificação da indispensável similitude fática entre os paradigmas indicados e o acórdão recorrido, obstando a demonstração válida do dissídio. Também não foi realizado o indispensável cotejo analítico (art. 1.029, § 1º, CPC), com transcrição e demonstração de identidade fática .
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 1066), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PASEP. PRESCRIÇÃO DECENAL E TERMO INICIAL PELA ACTIO NATA . REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
