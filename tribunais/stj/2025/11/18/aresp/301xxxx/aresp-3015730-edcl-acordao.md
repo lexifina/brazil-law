@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O decisum embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do agravo em recurso especial foi devidamente analisada, com a demonstração de que, nas razões do agravo em recurso especial, a defesa deixou de impugnar um dos fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+IGOR GILLER DOS SANTOS e AMEXSANE DE ANGELIS RAFAEL opõem embargos de declaração ao acórdão desta colenda Sexta Turma, que negou provimento ao agravo regimental, nos termos da seguinte ementa (fl. 588):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE PARTE DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ.
+2. Nas razões do agravo em recurso especial, os agravantes deixaram de impugnar parte dos fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Agravo regimental não provido.
+A defesa alega que o decisum embargado foi omisso e contraditório, porque "deixou de se manifestar o colegiado sobre pontos expressamente suscitados no Agravo Regimental que infirmariam a conclusão adotada pelos N. Julgadores" (fl. 599).
+Para tanto, afirma que:
+a) "não houve enfrentamento expresso da tese de que prints de tela extraídos por investigadores - designados pela Autoridade Policial para "VASCULHAR" os aparelhos - com posterior seleção parcial e SEM PERÍCIA/REGISTRO de cadeia de custódia (arts. 157 e 158-A a 158-F do CPP), constituem prova INADMISSÍVEL" (fl. 602);
+b) "não se enfrentou, ainda, a violação consistente na entrega seletiva do conjunto probatório pela Acusação (relatórios e trechos escolhidos), impedindo o contraditório pleno" (fl. 602);
+c) "permaneceu sem resposta o ponto de que o acórdão estadual partiu de ÚNICA apreensão e reunião EPISÓDICA, sem comprovação do animus associativo permanente" (fls. 602-603);
+d) "não houve enfrentamento autônomo da tese de que, à luz dos próprios fundamentos do acórdão, no caso de posse para uso (contexto de usuário compulsivo), a forma de acondicionamento, isoladamente, não autoriza a subsunção ao art. 33 da Lei nº 11.343/06" (fl. 603);
+e) "a decisão embargada, ainda, não examinou os capítulos sobre (i) idoneidade dos motivos da pena-base (valorada apenas a natureza da droga, desconsiderando quantidade ínfima), (ii) bis in idem e (iii) aplicação do § 4º do art. 33" (fl. 603);
+f) "não remanesceu fundamento autônomo não impugnado" (fl. 603);
+g) "restou omissa a decisão quanto aos precedentes recentes desta Corte sobre cadeia de custódia de prova digital" (fl. 604);
+h) "o julgado reafirma a incindibilidade da decisão de inadmissão (teoria do único dispositivo), mas, simultaneamente, fundamenta a negativa de provimento apenas na suposta falta de impugnação específica da Súmula 7/STJ - cuja impugnação foi expressa" (fl. 604);
+i) "qualificou-se a argumentação defensiva como genérica, mas o próprio histórico recursal demonstra a existência de capítulos autônomos com impugnação analítica (cadeia de custódia; parcialidade da prova; atipicidade do art. 35; desclassificação; dosimetria)" (fl. 604);
+j) "a decisão sustenta que haveria pleito absolutório a demandar reexame probatório; entretanto, o núcleo da insurgência residiu (i) em nulidades formais (cadeia de custódia e seleção probatória) e (ii) em revaloração jurídica de tipicidade e dosimetria" (fl. 604).
+Requer, assim, o acolhimento dos embargos de declaração, com a atribuição de efeitos modificativos ao julgado, para que sejam sanadas as omissões e as contradições apontadas e, por conseguinte, sejam acolhidas as teses aventadas no recurso especial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS ESPECÍFICOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O decisum embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do agravo em recurso especial foi devidamente analisada, com a demonstração de que, nas razões do agravo em recurso especial, a defesa deixou de impugnar um dos fundamentos invocados pelo Tribunal a quo para obstar o prosseguimento do recurso especial.
+3. Embargos de declaração rejeitados.
+VOTO
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, constato que o decisum embargado não foi omisso, tampouco contraditório. A questão da impossibilidade de conhecimento do agravo em recurso especial foi devidamente analisada, com a demonstração de que, nas razões do agravo em recurso especial, a defesa não impugnou, de maneira adequada, a apontada incidência da Súmula n. 7 do STJ, limitando-se a afirmar, en passant, que "os elementos apontados nas razões recursais para amparar a tese defensiva foram integralmente apreciados pelos E. Desembargadores, constando expressamente no V. Acórdão e na Sentença de piso, o que possibilita não só sua análise, mas a revaloração jurídica da questão, sem qualquer necessidade de revolvimento fático probatório dos autos, prequestionada todas as questões suscitadas" (fl. 490).
+Contudo, em nenhum momento, os recorrentes desenvolveram, com um mínimo de profundidade, as razões pelas quais, na visão defensiva, a pretensão de alterar o que já decidido pelas instâncias ordinárias não demandaria o revolvimento de matéria fático-probatória.
+Assim, o que se percebe, na verdade, é que a irresignação dos embargantes se resume a mero inconformismo com o resultado do julgado, que lhes foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
