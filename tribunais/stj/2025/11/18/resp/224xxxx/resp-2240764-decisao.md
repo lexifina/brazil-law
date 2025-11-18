@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJDFT, assim ementado (fl. 37):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DEVEDOR NÃO CITADO POR MUDANÇA DE ENDE REÇO. CERTIDÃO DO OFICIAL DE JUSTIÇA. REDIRECIONAMENTO DA EXECUÇÃO. INDEFERIMENTO. FALTA DE APURAÇÃO DO REQUISITO RELACIONADO À PRÁTICA DE ATO COM EXCESSO DE PODERES OU INFRAÇÃO À LEI. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O cerne da controvérsia cinge-se sobre a possibilidade de inclusão dos sócios no polo passivo da execução fiscal ante a não localização da empresa no endereço informado perante ao agravante.
+2. O art. 135 do CTN determina que são pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos.
+3. O encerramento irregular da atividade empresarial, por si só, não constitui infração à lei, mas descumprimento de obrigação acessória, de natureza administrativa, sem previsão legal de sanção.
+4. Em que pese a mudança de endereço constituir presunção relativa de encerramento irregular, na forma da Súmula 435 do STJ, não foi apurado administrativamente nem judicialmente a prática de atos em excesso de poder ou violação de lei, contrato social ou estatuto. Precedentes deste eg. TJDFT.
+5. Quando preenchidos os requisitos legais para o redirecionamento da execução o pedido pode ser novamente formulado.
+6. Agravo de instrumento conhecido e não provido.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa ao artigo 135, III, do CTN, sob o argumento de que "certificado pelo Oficial de Justiça que a sociedade não mais funciona em seu endereço fiscal, há presunção de dissolução irregular e deve ser incluído no pólo passivo o administrador da época deste ato ilícito, sem exigência de prévio processo administrativo fiscal e mesmo de incidente de desconsideração da personalidade jurídica." (fl. 194)
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 210/211.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à responsabilização do sócio-gerente/administrador da empresa no polo passivo da ação executiva, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que os requisitos que ensejam o redirecionamento da execução fiscal aos seus sócios administradores não restaram comprovados.
+Destaca-se do voto condutor do acórdão recorrido (fl. 57):
+"No caso dos autos, os requisitos que ensejam o redirecionamento da execução fiscal aos seus sócios administradores não restaram comprovados.
+Veja-se que o senhor Oficial de Justiça constatou que a empresa não mais funciona no endereço indicado na certidão positiva de débitos (ID. 151923294 na origem). Ressalta-se que as CDA"s juntadas nos autos indicam um endereço diferente do que foi diligenciado pelos Correios (ID. 157769483 na origem) que retornou sem cumprimento com a informação de "Desconhecido". Importante registrar, ainda, que na Junta Comercial do Distrito Federal o endereço indicado é outro, localizado em Brazlândia (ID. 159277163 na origem) não diligenciado no presente feito. Registre-se, também, que a certidão da senhora oficiala de justiça em diligência ao endereço cadastrado na Junta Comercial em Brazlândia (ID. 60976841) em outro processo, no qual não foi localizado o endereço pela oficiala de justiça, não tem o condão de afastar a intimação pessoal da parte.
+Desta feita, em que pese a empresa agravada não estar mais em funcionamento no endereço constante nas CDAs executadas, não se pode presumir que tenha ocorrido sua dissolução irregular na espécie, capaz de ensejar o automático redirecionamento da execução fiscal." (grifei)
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a matéria demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+A propósito, mutatis mutandis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA EMPRESA EXECUTADA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. PROVIMENTO NEGADO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça (STJ), entende-se que, "para fins de aplicação do entendimento firmado na Súmula 435 do STJ, é necessária a verificação de cada caso concreto, não sendo suficiente para a presunção de dissolução irregular a simples devolução de AR-postal sem cumprimento, impondo-se que se utilizem de outros meios para verificação da atividade, localização e citação da sociedade empresária" (AgInt nos EDcl no AREsp 1.614.049/MS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 30/11/2020, DJe de 3/12/2020).
+2. Hipótese em que o Tribunal a quo, com base nos fatos e nas provas dos autos, concluiu pela legalidade do redirecionamento da execução fiscal ao sócio-gerente em razão da dissolução irregular da sociedade, com suporte na não localização da empresa no endereço informado e na sua condição irregular perante o Fisco. A inversão do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.129.863/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.) (grifei)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA EMPRESA EXECUTADA. REQUISITOS NÃO COMPROVADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
