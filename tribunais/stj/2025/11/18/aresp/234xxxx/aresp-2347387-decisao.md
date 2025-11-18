@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual a FAZENDA DO ESTADO DE SÃO PAULO se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 75):
+TRIBUTÁRIO. ITCMD - IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE QUAISQUER BENS OU DIREITOS. BASE DE CÁLCULO. DECRETO PAULISTA N. 55.002/2009 .
+- Vulnera o § 1º do inciso II do art. 97 do Código tributário nacional a alteração, por meio de decreto regulamentar, da base de cálculo de tributo.
+- A Fazenda do Estado de São Paulo pode instaurar procedimento administrativo de arbitramento da base de cálculo do imposto, caso não concorde com o valor declarado ou atribuído ao bem. Ocorre que, no caso dos autos, não se juntou nenhum documento que comprove a prévia existência de procedimento administrativo a indicar a omissão ou incorreção ensejadoras do arbitramento, nos termos do art. 148 do Código tributário nacional. Não provimento da remessa obrigatória.
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 279/293, destaques inovados):
+Então percebe-se que o arbitramento da base de cálculo do ITCMD tem amparo legal e jurisprudencial, servindo ao poder-dever do fisco estadual apurar por meio de regular procedimento administrativo o efetivo valor venal dos imóveis transmitidos, desde que garantido o contraditório e a ampla defesa ao contribuinte, como ocorreu.
+ ..  a possibilidade de arbitramento encontra respaldo em lei, dentro da competência legislativa do Estado de São Paulo, atende ao princípio da legalidade e está conforme a jurisprudência atual do STJ.
+A parte adversa não apresentou contrarrazões.
+O recurso não foi admitido (fls. 110/111 ), razão pela qual foi interposto o agravo em recurso especial ora examinado.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.371), e foi assim delimitada: "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação" (ProAfR no REsp 2.175.094/SP, relatora Ministra Maria Thereza de Assis Moura, DJEN de 19/8/2025).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
