@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA DE ASSISTENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (e-STJ, fl. 1.238):
+DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÕES CÍVEIS - PLANO DE SAÚDE - AÇÃO DE COBRANÇA DE DANOS MATERIAIS E MORAIS - PRELIMINAR DE CERCEAMENTO DE DEFESA - JULGAMENTO ANTECIPADO - REJEITADO - MÉRITO - REEMBOLSO DE DESPESAS HOSPITALARES - INTERNAÇÃO EM HOSPITAL NÃO CREDENCIADO - SITUAÇÃO DE URGÊNCIA EVIDENCIADA - DANO MORAL CONFIGURADO - SENTENÇA MANTIDA - . RECURSOS DESPROVIDOS.
+Verifico que se discute, no recurso especial, a seguinte questão: custear ou reembolsar despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada e sua respectiva extensão, na hipótese de urgência ou emergência.
+A propósito, tal matéria foi afetada ao julgamento da Segunda Seção do Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos (arts. 1.036 a 1.041 do Código de Processo Civil), nos autos dos Recursos Especiais nº 2196667/SP e 2167029/RJ, vinculados ao Tema Repetitivo nº 1375/STJ, tendo havido determinação de sobrestamento de recursos especiais e agravos nos próprios autos, nos termos do art. 1.037, II, do CPC.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, os presentes autos devem ser devolvidos à Corte de origem, nos termos do art. 256-L, inciso I, do Regimento Interno do STJ.
+Ante o exposto, julgo prejudicada a análise do presente recurso e determino a devolução dos autos ao Tribunal de origem, nos termos do art. 256-L, I, do RISTJ, para que, após a publicação do acórdão proferido sob a sistemática dos Recursos Repetitivos, proceda-se em conformidade com as disposições dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
