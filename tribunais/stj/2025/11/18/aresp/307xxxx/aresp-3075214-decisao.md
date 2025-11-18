@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por ERNI MENEZES FLORES, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 638, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. CHEQUE. PRESCRIÇÃO INTERCORRENTE QUE PASSA A FLUIR A PARTIR DO FIM DA SUSPENSÃO DO PROCESSO. INÉRCIA DO EXEQUENTE NÃO CONFIGURADA. REFORMA DA SENTENÇA. PROSSEGUIMENTO DO FEITO EXECUTIVO.
+NO CASO CONCRETO, A PARTE EXEQUENTE IMPULSIONOU O FEITO SEMPRE QUE INSTADA A FAZÊ-LO, RAZÃO PELA QUAL NÃO É POSSÍVEL RECONHECER SUA INÉRCIA POR PRAZO QUE AUTORIZE A DECRETAÇÃO DA PRESCRIÇÃO INTERCORRENTE.
+LOCALIZAÇÃO DE BENS PELO EXEQUENTE. REGISTRO DA ARREMATAÇÃO DE BEM PENDENTE EM RAZÃO DE RESTRIÇÃO JUDICIAL INSERIDA NA MATRÍCULA POR VARA CRIMINAL. AUSÊNCIA DE RESPOSTA DOS OFÍCIOS PELO JUÍZO CRIMINAL.
+INCIDÊNCIA DA SÚMULA 106 DO STJ. PARA O RECONHECIMENTO DA PRESCRIÇÃO, A MOROSIDADE DOS ATOS JUDICIAIS, INERENTES AO MECANISMO DA JUSTIÇA, NÃO PODE VIR EM PREJUÍZO DO EXEQUENTE. REFORMA DA SENTENÇA E PROSSEGUIMENTO DA EXECUÇÃO QUE SE IMPÕEM.
+APELAÇÃO PROVIDA.
+Nas razões de recurso especial (fls. 642-654, e-STJ), aponta a parte recorrente ofensa aos seguintes dispositivos: arts. 197, 199 e 206-A do Código Civil; arts. 487, II, 921, §§ 1º e 4º, e 1.056 do Código de Processo Civil; e art. 59, parágrafo único, da Lei 7.357/1985.
+Sustenta, em síntese: que a prescrição intercorrente, aplicável à execução de cheque, não se suspende nem se interrompe por diligências infrutíferas de localização de bens ou do devedor; que houve paralisação relevante do feito entre 22/03/2019 e dezembro de 2021, superior ao prazo de 6 meses do art. 59, parágrafo único, da Lei do Cheque; que o acórdão recorrido exigiu indevidamente suspensão formal do processo e computou impulsionamentos inúteis como causa impeditiva do prazo; e que há divergência com o AgInt no AREsp 1.165.108/SC e observância das teses do IAC 01/STJ (fls. 642-654, e-STJ).
+Em juízo de admissibilidade (fls. 718-721, e-STJ), negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 724-729, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, esta Corte Superior tem entendimento pacífico de que o reconhecimento da prescrição intercorrente demanda a concomitância de dois requisitos: a) o decurso do tempo previsto em lei; e b) a inércia do titular da pretensão resistida em adotar providências necessárias ao andamento do feito.
+Ademais, embora a sistemática introduzida pela Lei nº 14.195/2021, segundo a qual a prescrição intercorrente deixa de estar atrelada à inércia do credor e passa a ter por termo inicial a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis (art. 921, §4º do CPC), seja aplicável imediatamente, não pode retroagir e alcançar atos processuais já praticados e modificar os seus efeitos no passado (art. 14 do CPC).
+Assim, a nova sistemática somente pode reger os atos realizados a partir de 27/08/2021,data da entrada em vigor da Lei nº 14.195/2021, devendo-se observar, portanto, a disciplina de direito intertemporal.
+Esse foi o entendimento adotado pela Quarta Turma desta Corte em recente
+julgado:
+AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. TERMO INICIAL. CPC DE 2015. REGÊNCIA. ART. 921, § 4º, CPC DE 2015. MODIFICAÇÃO. REDAÇÃO DADA PELA LEI N. 14.195/2021. PRINCÍPIO DA IRRETROATIVIDADE. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O reconhecimento da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao da prescrição do direito material vindicado, excluindo-se os casos em que a execução foi paralisada por determinação judicial.
+2. A lei processual que dispõe sobre novo regime prescricional é irretroativa, aplicando-se os novos marcos temporais a partir da publicação da lei.
+3. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.090.626/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. CPC/2015. NOVO REGIME JURÍDICO INTRODUZIDO PELA LEI N. 14.195/21. APLICAÇÃO RETROATIVA. IMPOSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial da qual foi extraído o presente recurso especial, interposto em 8/5/2023 e concluso ao gabinete em 23/8/2023.
+2. O propósito recursal consiste em dizer se o novo regime da prescrição intercorrente introduzido pela Lei n. n. 14.195/21 pode ser aplicado retroativamente.
+3. Inovando em relação ao CPC/1973, o CPC/2015 passou a disciplinar, expressamente, o instituto da prescrição intercorrente, erigindo o seu regime jurídico próprio, sobretudo, nos arts. 921 a 923.
+4. De acordo com o art. 921, inciso III e §1º do CPC/2015, a execução deverá ser suspensa quando não for localizado o executado ou bens penhoráveis, pelo prazo de um ano, durante o qual também se suspenderá a prescrição.
+5. Nos termos da redação original do art. 921, §4º, do CPC/2015, decorrido o prazo de suspensão de um ano sem manifestação do exequente, começaria a correr o prazo de prescrição intercorrente.
+6. A Lei n. 14.195/2021 introduziu importantes alterações na disciplina da prescrição intercorrente, alterando o §4º do art. 921 do CPC/2015, que passou a prever que o termo inicial do prazo de prescrição intercorrente será a ciência da primeira tentativa infrutífera de localização do devedor ou de bens penhoráveis, e será suspensa, por uma única vez, pelo prazo máximo previsto no § 1º do mesmo dispositivo legal.
+7. A partir da entrada em vigor da Lei n. 14.195/2021, ao contrário do que se verificava na redação original do código, não há mais necessidade de desídia do credor para a consumação da prescrição intercorrente, cujo prazo iniciará automaticamente.
+8. O novo regime da prescrição intercorrente introduzido pela Lei n. 14.195/21 não pode ser aplicado retroativamente, mas apenas: a) aos novos processos ou àqueles em que a execução infrutífera for posterior à nova lei; e b) aos processos anteriores à nova lei no qual ainda não tenha sido determinada a suspensão da execução.
+9. Na hipótese dos autos, não merece reforma o acórdão recorrido, pois incide na espécie a redação original do CPC/2015 e não aquela introduzida pela Lei n. 14.195/21, que não deve ser aplicada retroativamente a uma execução iniciada em 2015 e cuja suspensão findou em 2018. Além disso, Corte de origem constatou que não houve qualquer desídia da parte exequente - requisito exigido antes da Lei n. 14.195/21-, o que afasta a caracterização da prescrição intercorrente à luz da redação original do CPC/2015.
+10. Recurso especial não provido.
+(REsp n. 2.090.768/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/11/2024, DJe de 14/11/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE RECONHECIDA. DECISÃO MANTIDA.
+1. A Segunda Seção, no julgamento do REsp n. 1.604.412/SC, de relatoria do Ministro Marco Aurélio Bellizze, sob o rito do incidente de assunção de competência, consolidou entendimento segundo o qual nos processos regidos pelo CPC/1973, incide a prescrição intercorrente quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado. Nesse caso, o termo inicial do prazo prescricional conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 ano (aplicação analógica do art. 40, § 2º, da Lei n. 6.830/1980).
+2. O termo inicial do prazo prescricional nos termos do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor do novo código, o que não é o caso dos autos.
+2. Considerando os marcos temporais delimitados na origem para o exercício da pretensão executória, deve-se manter a decisão que reconheceu a prescrição intercorrente, com amparo na jurisprudência desta Corte, não se aplicando, ao caso dos autos, o art. 1.056 do CPC/2015.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.138.031/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Acerca da controvérsia, o Tribunal local assim decidiu (fls. 636/637, e-STJ):
+No caso dos autos, está-se executando cheque, cujo direito material (para a execução de título extrajudicial) prescreve em seis meses após o fim do prazo de apresentação, que é de trinta dias a contar da emissão, se da mesma praça, ou de sessenta dias, também da emissão, se de praça diversa.
+Ainda assim, do compulsar do andamento processual, acima referido, denota que não houve a falta de localização do executado ou de seus bens, tendo em vista que o exequente diligenciou em duas frentes para a obtenção do crédito, ou com a expropriação de bens (cuja perfectibilização pende da resposta do Juízo da 17ª Vara Criminal de Porto Alegre), ou com a penhora no rosto dos autos da ação de inventário em que o executado é o único herdeiro. Antes mesmo da digitalização do feito, o impulsionamento restou deveras prejudicado por falta de resposta do Juízo da 17ª Vara Criminal de Porto Alegre, o que, obviamente, não pode ser imputado ao exequente.
+A partir do cenário delineado, considerando que o processo nunca foi suspenso por não terem sido encontrados bens e que o exequente não concorreu substancialmente para a demora no trâmite da execução, tenho que não é caso de reconhecimento da prescrição intercorrente.
+(..)
+Destaco, ainda, para o reconhecimento da prescrição, a morosidade dos atos judiciais, inerentes ao mecanismo da Justiça, não pode vir em prejuízo do exequente, conforme estabelecido na Súmula 106 do STJ, em semelhante cenário:
+Súmula 106 do STJ: Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da argüição de prescrição ou decadência.
+Nessa ordem de ideias, acolho a pretensão recursal para desconstituir a sentença recorrida determinando o prosseguimento da execução na origem.
+Observa-se, portanto, que o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Ademais, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria a rediscussão de matéria fática, e a interpretação de cláusula contratual, incidindo, na espécie, os óbices das Súmulas 5 e 7 deste Superior Tribunal de Justiça, motivo pelo qual é manifesto o descabimento do recurso especial.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
