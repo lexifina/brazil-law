@@ -1,0 +1,73 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. ICMS. ALÍQUOTA INTERESTADUAL. OPERAÇÕES INTERESTADUAIS DE VENDA DE MERCADORIAS E SERVIÇOS. CONSUMIDOR FINAL. PROTOCOLO ICMS 21/2011 DO CONFAZ. INCONSTITUCIONALIDADE. ADI 4.628. TEMA 615 (RE 680.089). MODULAÇÃO TEMPORAL DE EFEITOS, A PARTIR DE 19/2/2014, RESSALVADAS AS AÇÕES EM CURSO. NEGADO SEGUIMENTO AO AGRAVO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado pela alínea “a” do permissivo constitucional, contra acórdão que assentou:
+
+    “APELAÇÃO CÍVEL – TRIBUTÁRIO – PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DEFESA – REJEIÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA – COOPERATIVA DE CRÉDITO – ICMS – PROTOCOLO ICMS CONFAZ N. 21 – INCONSTITUCIONALIDADE DECLARADA – MODULAÇÃO DOS EFEITOS PELO STJ – TRIBUTOS LANÇADOS ANTES DO DEFERIMENTO DA DECISÃO LIMINAR NA ADI – CONVALIDAÇÃO – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+
+    1- Não há que se falar em nulidade da sentença quando a argumentação adotada se ateve à hipótese retratada na inicial e nos documentos colacionados na inicial.
+
+    2- O Supremo Tribunal Federal restringiu os efeitos da declaração de inconstitucionalidade do Protocolo ICMS CONFAZ n. 21, com a modulação dos efeitos da decisão, a partir do deferimento da decisão liminar, que ocorreu em 19/02/2014, ressalvadas as ações em curso, havendo a convalidação da situação dos créditos tributários entre a data da vigência do Protocolo n. 21 e a concessão da liminar na ADI n. 4628.”
+
+    Os embargos de declaração opostos pela parte ora recorrente foram desprovidos, em contraponto aos manejados pelo ente público recorrido, providos tão somente para fins de fixação de verbas de sucumbência.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, a sua vez, violação aos artigos 150, incs. I, IV, V e § 7º; 155, inc. II, § 2º, incs. VII e VIII, todos da Constituição Federal.
+
+    Não houve apresentação de contrarrazões.
+
+    O Tribunal a quo negou seguimento ao recurso extraordinário, por entender que encontraria óbice na Súmula 279 do STF.
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Com efeito, o Plenário desta Corte, no julgamento da ADI 4.628, Rel. Min. Luiz Fux, DJe de 24/11/2014, em matéria similar à tratada no Tema 615 (RE 680.089, Plenário, Rel. Min. Gilmar Mendes, DJe de 3/12/2014), reconheceu a inconstitucionalidade do estabelecido no Protocolo ICMS nº 21/2011, do CONFAZ, quanto à incidência da alíquota interestadual de ICMS nos casos em que o consumidor final localizado em outro Estado não é contribuinte do imposto, a teor do art. 155, § 2º, inciso VII, alínea “b”, da Constituição Federal. Confira-se a ementa do julgado, in verbis:
+
+      “CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES DE CIRCULAÇÃO DE MERCADORIAS E DE PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL (ICMS). PRELIMINAR. PERTINÊNCIA TEMÁTICA. PRESENÇA DE RELAÇÃO LÓGICA ENTRE OS FINS INSTITUCIONAIS DAS REQUERENTES E A QUESTÃO DE FUNDO VERSADA NOS AUTOS. PROTOCOLO ICMS Nº 21/2011. ATO NORMATIVO DOTADO DE GENERALIDADE, ABSTRAÇÃO E AUTONOMIA. MÉRITO. COBRANÇA NAS OPERAÇÕES INTERESTADUAIS PELO ESTADO DE DESTINO NAS HIPÓTESES EM QUE OS CONSUMIDORES FINAIS NÃO SE AFIGUREM COMO CONTRIBUINTES DO TRIBUTO. INCONSTITUCIONALIDADE. HIPÓTESE DE BITRIBUTAÇÃO (CRFB/88, ART. 155, § 2º, VII, B). OFENSA AO PRINCÍPIO DO NÃO CONFISCO (CRFB/88, ART. 150, IV). ULTRAJE À LIBERDADE DE TRÁFEGO DE BENS E PESSOAS (CRFB/88, ART. 150, V). VEDAÇÃO À COGNOMINADA GUERRA FISCAL (CRFB/88, ART. 155, § 2º, VI). AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE. MODULAÇÃO DOS EFEITOS A PARTIR DO DEFERIMENTO DA CONCESSÃO DA MEDIDA LIMINAR, RESSALVADAS AS AÇÕES JÁ AJUIZADAS.
+
+    1. A Confederação Nacional do Comércio - CNC e a Confederação Nacional da Indústria - CNI, à luz dos seus fins institucionais, são partes legítimas para a propositura da ação direta de inconstitucionalidade que impugna o Protocolo ICMS nº 21, ex vi do art. 103, IX, da Lei Fundamental de 1988, posto representarem, em âmbito nacional, os direitos e interesses de seus associados.
+
+    2. A modificação da sistemática jurídico-constitucional relativa ao ICMS, inaugurando novo regime incidente sobre a esfera jurídica dos integrantes das classes representadas nacionalmente pelas entidades arguentes, faz exsurgir a relação lógica entre os fins institucionais a que se destinam a CNC/CNI e a questão de fundo versada no Protocolo adversado e a fortiori a denominada pertinência temática (Precedentes: ADI 4.364/SC, Plenário, Rel. Min. Dias Toffoli, DJ.: 16.05.2011; ADI 4.033/DF, Plenário, Rel. Min. Joaquim Barbosa, DJ.: 07.02.2011; ADI 1.918/ES-MC, Plenário, Rel. Min. Maurício Corrêa, DJ.: 19.02.1999; ADI 1.003-DF, Plenário, Rel. Min. Celso de Mello, DJ.: 10.09.1999; ADI-MC 1.332/RJ, Plenário, Rel. Min. Sydney Sanches, DJ.: 06.12.1995).
+
+    3. O Protocolo ICMS nº 21/2011 revela-se apto para figurar como objeto do controle concentrado de constitucionalidade, porquanto dotado de generalidade, abstração e autonomia (Precedentes da Corte: ADI 3.691, Plenário, Rel. Min. Gilmar Mendes, DJ.: 09.05.2008; ADI 2.321, Plenário, Rel. Min. Celso de Mello, DJ.: 10.06.2005; ADI 1.372, Plenário, Rel. Min. Celso de Mello, DJ.: 03.04.2009).
+
+    4. Os Protocolos são adotados para regulamentar a prestação de assistência mútua no campo da fiscalização de tributos e permuta de informações, na forma do artigo 199 do Código Tributário Nacional, e explicitado pelo artigo 38 do Regimento Interno do CONFAZ (Convênio nº 138/1997). Aos Convênios atribuiu-se competência para delimitar hipóteses de concessões de isenções, benefícios e incentivos fiscais, nos moldes do artigo 155, § 2º, XII, g, da CRFB/1988 e da Lei Complementar nº 21/1975, hipóteses inaplicáveis in casu.
+
+    5. O ICMS incidente na aquisição decorrente de operação interestadual e por meio não presencial (internet, telemarketing, showroom) por consumidor final não contribuinte do tributo não pode ter regime jurídico fixado por Estados-membros não favorecidos, sob pena de contrariar o arquétipo constitucional delineado pelos arts. 155, § 2º, inciso VII, b, e 150, IV e V, da CRFB/88.
+
+    6. A alíquota interna, quando o destinatário não for contribuinte do ICMS, é devida à unidade federada de origem, e não à destinatária, máxime porque regime tributário diverso enseja odiosa hipótese de bitributação, em que os signatários do protocolo invadem competência própria daquelas unidades federadas (de origem da mercadoria ou bem) que constitucionalmente têm o direito de constar como sujeitos ativos da relação tributária quando da venda de bens ou serviços a consumidor final não contribuinte localizado em outra unidade da Federação.
+
+    7. O princípio do não confisco, que encerra direito fundamental do contribuinte, resta violado em seu núcleo essencial em face da sistemática adotada no cognominado Protocolo ICMS nº 21/2011, que legitima a aplicação da alíquota interna do ICMS na unidade federada de origem da mercadoria ou bem, procedimento correto e apropriado, bem como a exigência de novo percentual, a diferença entre a alíquota interestadual e a alíquota interna, a título também de ICMS, na unidade destinatária, quando o destinatário final não for contribuinte do respectivo tributo.
+
+    8. O tráfego de pessoas e bens, consagrado como princípio constitucional tributário (CRFB/88, art. 150, V), subjaz infringido pelo ônus tributário inaugurado pelo Protocolo ICMS nº 21/2011 nas denominadas operações não presenciais e interestaduais.
+
+    9. A substituição tributária, em geral, e, especificamente para frente, somente pode ser veiculada por meio de Lei Complementar, a teor do art. 155, § 2º, XII, alínea b, da CRFB/88. In casu, o protocolo hostilizado, ao determinar que o estabelecimento remetente é o responsável pela retenção e recolhimento do ICMS em favor da unidade federada destinatária vulnera a exigência de lei em sentido formal (CRFB/88, art. 150, § 7º) para instituir uma nova modalidade de substituição.
+
+    10. Os Estados membros, diante de um cenário que lhes seja desfavorável, não detém competência constitucional para instituir novas regras de cobrança de ICMS, em confronto com a repartição constitucional estabelecida.
+
+    11. A engenharia tributária do ICMS foi chancelada por esta Suprema Corte na ADI 4565/PI-MC, da qual foi relator o Ministro Joaquim Barbosa, assim sintetizada: a) Operações interestaduais cuja mercadoria é destinada a consumidor final contribuinte do imposto: o estado de origem aplica a alíquota interestadual, e o estado de destino aplica a diferença entre a alíquota interna e a alíquota interestadual, propiciando, portanto, tributação concomitante, ou partilha simultânea do tributo; Vale dizer: ambos os Estados cobram o tributo, nas proporções já indicadas; b) Operações interestaduais cuja mercadoria é destinada a consumidor final não-contribuinte: apenas o estado de origem cobra o tributo, com a aplicação da alíquota interna; c) Operações interestaduais cuja mercadoria é destinada a quem não é consumidor final: apenas o estado de origem cobra o tributo, com a aplicação da alíquota interestadual; d) Operação envolvendo combustíveis e lubrificantes, há inversão: a competência para cobrança é do estado de destino da mercadoria, e não do estado de origem.
+
+    12. A Constituição, diversamente do que fora estabelecido no Protocolo ICMS nº 21/2011, dispõe categoricamente que a aplicação da alíquota interestadual só tem lugar quando o consumidor final localizado em outro Estado for contribuinte do imposto, a teor do art. 155, § 2º, inciso VII, alínea g, da CRFB/88. É dizer: outorga-se ao Estado de origem, via de regra, a cobrança da exação nas operações interestaduais, excetuando os casos em que as operações envolverem combustíveis e lubrificantes que ficarão a cargo do Estado de destino.
+
+    13. Os imperativos constitucionais relativos ao ICMS se impõem como instrumentos de preservação da higidez do pacto federativo, et pour cause, o fato de tratar-se de imposto estadual não confere aos Estados membros a prerrogativa de instituir, sponte sua, novas regras para a cobrança do imposto, desconsiderando o altiplano constitucional.
+
+    14. O Pacto Federativo e a Separação de Poderes, erigidos como limites materiais pelo constituinte originário, restam ultrajados pelo Protocolo nº 21/2011, tanto sob o ângulo formal quanto material, ao criar um cenário de guerra fiscal difícil de ser equacionado, impondo ao Plenário desta Suprema Corte o dever de expungi-lo do ordenamento jurídico pátrio.
+
+    15. Ação direta de inconstitucionalidade julgada PROCEDENTE. Modulação dos efeitos a partir do deferimento da concessão da medida liminar, ressalvadas as ações já ajuizadas.”
+
+    Na ocasião, inclusive, houve a modulação temporal da eficácia da referida decisão, para que produzisse efeitos apenas a partir de 19/2/2014, data da concessão da medida cautelar na ADI 4.628, ressalvadas as ações judiciais em curso na data do deferimento da respectiva tutela cautelar.
+
+    In casu, todavia, considerando que os créditos tributários em debate remontam a fatos geradores anteriores ao início da eficácia do julgamento proferido na ADI 4.628, como reconhecido no acórdão recorrido, verifica-se que o entendimento do Tribunal a quo não destoa da jurisprudência desta Corte, sobretudo considerando a modulação suso citada, porquanto a ação sub examine foi ajuizada apenas em 15/7/2015, não estando em curso ao tempo do julgamento do marco temporal referido no leading case.
+
+    Ex positis, NEGO SEGUIMENTO ao agravo, ex vi art. 932, VIII, do Código de Processo Civil, c/c o art. 21, § 1º, do Regimento Interno do STF.
+
+    Ademais, tendo havido prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e, ademais, a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 18 de novembro de 2025.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
