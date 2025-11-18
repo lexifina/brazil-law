@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARLON DE OLIVEIRA DE ARAÚJO apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, no HC n. 5076001-24.2025.8.24.0000.
+Alega a defesa que a Corte de origem denegou a ordem, com o fundamento de não ter sido possível constatar, de plano, a nulidade invocada nem a ausência de justa causa para a propositura da ação penal (e-STJ fls. 20/27).
+Daí o presente writ, em que sustenta a ocorrência de nulidade absoluta das provas, em razão de violação de domicílio na residência da mãe do paciente, situada em Brusque/SC, onde teria havido indevido manuseio de aparelho celular pertencente a terceiro não investigado, sem prévia autorização judicial ou consentimento válido.
+Aduz, ainda, que a subsequente entrada dos policiais em uma quitinete localizada em Itajaí/SC ocorreu sem mandado judicial específico para aquele endereço, fundada apenas em suposta denúncia anônima e na alegação subjetiva de odor de maconha percebido do exterior, bem como em pretensa visualização de substância entorpecente sobre um móvel interno, mesmo quando o imóvel se encontrava fechado e desabitado.
+Sustenta que a mencionada "aproximação tática" e a alegada visualização interna teriam ocorrido, em verdade, no interior da área comum do condomínio, sem autorização de morador ou proprietário, o que também configura violação de domicílio, conforme o entendimento consolidado desta Corte no sentido de que o consentimento para ingresso em área comum deve ser comprovado de forma documental.
+Alega, por fim, desvio de finalidade no cumprimento do mandado de busca e apreensão, originalmente expedido em investigação de tentativa de homicídio/lesão corporal, tendo havido indevida ampliação do escopo da diligência para apuração de tráfico de drogas em endereço diverso, sem autorização judicial, o que caracterizaria "fishing expedition".
+Com esses argumentos, requer a concessão de liminar para que sejam declaradas nulas as provas obtidas a partir do indevido manuseio do celular da genitora do paciente e da subsequente invasão domiciliar em Itajaí/SC, determinando-se o desentranhamento do respectivo material. No mérito, pleiteia a revogação da prisão preventiva e a expedição de contramandado de prisão, diante da nulidade das provas que lhe serviram de suporte (e-STJ fl. 19).
+É o relatório.
+Decido.
+Compulsando a documentação acostada aos autos, constata-se que não foi juntada cópia do acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, providência que incumbia à defesa.
+Essa ausência inviabiliza o exame da controvérsia, uma vez que impede a compreensão integral do ato apontado como coator. No caso, observa-se apenas a juntada do voto proferido pelo relator, no qual se propôs o conhecimento e a denegação da ordem (e-STJ fl. 27).
+Consoante entendimento consolidado, a admissibilidade do habeas corpus perante o Superior Tribunal de Justiça exige que o ato apontado como coator emane de órgão jurisdicional colegiado, nos termos do art. 105, inciso I, alínea c, da Constituição Federal.
+Assim, a simples juntada do voto do relator não autoriza o conhecimento do writ, por não se tratar de decisão colegiada passível de impugnação direta perante esta Corte Superior. Com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica ao reconhecer que a instrução deficiente do habeas corpus, especialmente quando ausentes peças indispensáveis à compreensão da controvérsia, obsta a análise do mérito da impetração.
+Nesse sentido, colhem-se os seguintes precedentes:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, relator Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido.(RCD no RHC 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Diante desse contexto, a deficiência na formação do instrumento impede o exame da matéria suscitada, por ausência de pressuposto essencial ao conhecimento do writ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
