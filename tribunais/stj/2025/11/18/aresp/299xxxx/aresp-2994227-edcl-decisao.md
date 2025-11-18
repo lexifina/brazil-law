@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por OTAVIANO OLAVO PIVETTA à decisão de fls. 150/151, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada incorre em manifesto erro material ao afirmar que o Agravante juntou "apenas print do DJe".
+A análise acurada dos autos revela que o documento de fl. e-STJ Fl.143 não é uma simples "captura de tela", mas sim a cópia integral e oficial da página do Diário da Justiça Eletrônico (DJE). Trata-se de documento eletrônico oficial, dotado de fé pública nos termos da Lei nº 11.419/2006, que contém cabeçalho, número do diário, data e conteúdo da publicação.
+A qualificação do documento como "print" constitui um erro material na decisão, pois desconsidera a natureza oficial e a fé pública da cópia integral do Diário da Justiça Eletrônico efetivamente juntada aos autos (fl. e-STJ Fl.143). Tal erro material levou a uma equivocada premissa fática - a de que a prova seria inidônea - e, por consequência, a um erro de direito na análise da tempestividade, em flagrante dissonância com a jurisprudência desta Corte que reconhece a idoneidade de tais documentos.
+ ..
+A decisão adotou a data de publicação indicada na certidão de fl. 98, mas omitiu-se completamente de analisar ou sequer mencionar a informação conflitante constante na fonte primária da publicação, o próprio DJE de fl. 143, que indicava data de disponibilização diversa.
+ ..
+A decisão aplicou a regra da "indisponibilidade do sistema" (art. 224, § 1º, CPC) para desconsiderar o feriado forense de 24/04/2025. Contudo, omitiu- se de analisar o Comunicado Conjunto nº 311/2025 (fl. e-STJ Fl.144), que não tratava de mera indisponibilidade, mas de "suspensão dos prazos", ato normativo com fundamento e consequências jurídicas distintas (art. 221 do CPC).
+A decisão, ao aplicar a regra do art. 224, § 1º, do CPC a uma situação de suspensão formal de prazo (e não mera indisponibilidade), omitiu-se de analisar a distinção crucial entre esses institutos e a força normativa dos atos do Tribunal de origem (Provimento CSM nº 2.537/2019 e Comunicado Conjunto nº 311/2025). Essa omissão resultou na aplicação de uma regra jurídica equivocada à situação fática, configurando erro de direito que impactou diretamente a conclusão sobre a tempestividade (fls. 156/158).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão embargada, que agora se repete, verifica- se que a parte recorrente foi intimada da decisão agravada em 14.04.2025, sendo o Agravo somente interposto em 13.05.2025.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Nos termos do art. 1.003, § 6º, do CPC, bem como da QO no AR Esp n. 2.638.376/MG, a parte foi intimada para comprovar a tempestividade, contudo, não comprovou todos os dias de suspensão.
+Apesar da documentação comprovando a suspensão nos dias 17.4.2025, 18.4.2025 e 2.5.2025, alegou que a publicação da decisão ocorreu no dia 15.4.2025. Todavia, não trouxe documento do Tribunal que comprovasse sua alegação, mas apenas a quo print do DJe.
+Observe que não resta dúvida qu e foi juntado um print de tela do DJe, à fl. 139, informando que a publicação ocorreu em 15.4.2025. E como bem explicado na decisão embargada, cabia à parte fazer prova de sua argumentação, por meio de certidão expedida pelo Tribunal a quo, o que não foi feito.
+Ademais, "Considera-se intempestivo o recurso na hipótese em que a parte recorrente não junta aos autos documento hábil para comprovar a data de intimação via PJe, não bastando a simples alegação nem a inserção na petição do recurso de print de tela ou de imagem de página extraída da internet." (AgInt no AREsp 2464879/BA, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe 06.06.2024).
+Cabe ressaltar ainda que a indisponibilidade de comunicação eletrônica e/ou início tardio ou o encerramento antecipado do expediente forense, só influenciará no prazo processual caso coincida com o começo do prazo (art. 231, V, do CPC) ou com final deste, não sendo esta a hipótese dos autos.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
