@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI contra decisão que inadmitiu o recurso especial em razão da inexistência de violação dos arts. 489 e 1.022 do CPC e incidência das Súmulas n. 7/STJ e 284/STF (fls. 1.065-1.070).
+O acórdão recorrido encontra-se assim ementado (fl. 875):
+AÇÃO DE COBRANÇA - PREVIDÊNCIA PRIVADA - AGRAVO RETIDO - PROVA PERICIAL - DESNECESSIDADE NA FASE ATUAL - NEGAR PROVIMENTO - PRELIMINAR SUSPENSÃO DO PROCESSO - REJEITRAR- EXPURGOS INFLACIONÁRIOS - RESERVA MATEMÁTICA - CABIMENTO - JUROS ATUARIAIS - INCIDÊNCIA - DATA DO DESLIGAMENTO. - A perícia atuarial poderá ser produzida oportunamente, quando da liquidação da sentença, momento em que já estarão estabelecidos os parâmetros a serem observados pelo expert. - Os tribunais superiores, recentemente, consolidaram o entendimento de que em ações desta natureza não se aplica a hipótese de sobrestamento do feito, por não guardarem nenhuma relação com as demandas que discutem depósitos de caderneta de poupança. - O recebimento do valor atualizado pela correção monetária não implica em aumento do capital, apenas corresponde ao que é realmente devido, conservando, assim, o poder aquisitivo do dinheiro, sendo que a lei ou o governo não podem determinar ou admitir um índice de correção inferior à inflação do período em que é avaliada. - O fato de ser uma entidade de previdência privada não afasta o dever de submeter-se ao ordenamento jurídico vigente. - Por decorrer de obrigação legal, prevista no regulamento interno, para que se preserve o valor aquisitivo da moeda, o pagamento dos valores relativos à denominada diferença de reserva matemática, deve ser realizado com o acréscimo de correção monetária plena, incluindo-se assim, os expurgos inflacionários. - Quanto aos juros atuariais, deve-se frisar que o regulamento interno prevê a sua incidência até a data do desligamento do participante.
+Os embargos de declaração foram rejeitados (fls. 942-955).
+Nas razões do recurso especial (fls. 982-1.017), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+i) arts. 489, § 1º, IV e 1.022, I e II, do CPC, pela omissão do acórdão recorrido na análise dos argumentos apresentados pelo recorrente relativos à compensação da DRM, ao desequilíbrio econômico-financeiro e atuarial do plano, ao ato jurídico perfeito e à produção de prova pericial na fase de conhecimento;
+ii) arts. 1º, 3º, III, 7º e 18 da LC 109/2001, pois inobservada a necessidade de realização de prova pericial atuarial.
+O agravo (fls. 1.083-1.101), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.107-1.135).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação às teses de compensação da DRM, de desequilíbrio econômico-financeiro e atuarial do plano, de respeito ao ato jurídico perfeito e de produção de prova pericial, o Tribunal de origem assim se manifestou (fls. 880-:883):
+Em que pesem as alegações da agravante, não restou demonstrada a necessidade da realização da prova técnica requerida vez que é possível o julgamento do feito sem que haja ofensa ao seu direito de participação na construção do provimento.
+Isto porque, cálculos que envolvam elementos como saldos, expurgos inflacionários, atualizações, juros e demais consectários são desnecessários na fase de conhecimento do processo.
+Referida prova poderá ser produzida oportunamente, quando da liquidação da sentença, momento em que já estarão estabelecidos os parâmetros a serem observados pelo expert.
+(..)
+Quanto ao mérito, a apelação e a apelação adesiva serão apreciadas simultaneamente.
+Sabe-se bem que a Súmula 289 do STJ tem garantido aos participantes da PREVI - Caixa de Previdência dos Funcionários do Banco do Brasil, assim como os de outras entidades de previdência privada, o direito à restituição dos valores decorrentes de suas contribuições pessoais para a reserva de poupança, com correção monetária plena, através dos índices que melhor reflitam a inflação e permitam a recomposição do poder aquisitivo da moeda dos valores pagos pelos associados.
+(..)
+O direito consagrado pela referida Súmula é decorrente do entendimento de que a correção monetária nada mais é do que um remédio criado para minorar os efeitos da inflação, não acrescendo ao crédito ou ao débito, mas sim servindo como mera atualização do valor real da moeda. Portanto, reconhece-se hoje como incidente em todas as circunstâncias, até mesmo quando haja disposição contratual a excluí-la.
+A verdade é que o recebimento do valor atualizado pela correção monetária não implica em aumento do capital, ou seja, apenas corresponde ao que é, realmente, devido, conservando, assim, o poder aquisitivo do dinheiro, sendo que a lei ou o governo não pode determinar ou admitir um índice de correção inferior à inflação do período em que é avaliada.
+O fato de ser uma entidade de previdência privada não afasta o dever de submeter-se ao ordenamento jurídico vigente, para corrigir as contribuições dos seus beneficiários, adotando o índice de correção monetária que realmente reponha a corrosão da moeda.
+Destarte, ocorrendo o desligamento dos participantes, eles adquirem o direito ao recebimento ou resgate das suas contribuições, corrigidas monetariamente, de acordo com os índices plenos, decotando-se os percentuais de correção monetária já aplicados pela entidade previdenciária no período.
+(..)
+Noutro giro, a outra controvérsia reside na possibilidade de restituição da diferença de reversa de matemática e na incidência de expurgos sobre referida reserva.
+Com efeito, o participante do plano de benefícios faz jus ao recebimento de 80% da reserva matemática, acrescida dos expurgos inflacionários e juros atuariais, já que tal devolução está prevista no regulamento interno.
+O saldo relativo à reserva matemática, decorre de previsão normativa contida no regimento interno da ré (apelante), sendo que o associado (apelante adesivo) somente adquire o direito de recebê-la, quando se desliga do plano, uma vez que se trata de valor destinado a abater eventual saldo devedor do participante com a entidade.
+Por decorrer de obrigação legal, prevista no regulamento interno, para que se preserve o valor aquisitivo da moeda, o pagamento dos valores relativos à denominada diferença de reserva matemática, deve ser realizado com o acréscimo de correção montária plena, incluindo- se assim, os expurgos inflacionários.
+Quanto aos juros atuariais, deve-se frisar que o regulamento interno prevê a sua incidência até a data do desligamento do participante.
+Assim, deve ser corrigida a r. sentença recorrida somente neste aspecto.
+Posteriormente, em razão da oposição dos embargos declaratórios, a fundamentação foi complementada nos seguintes termos (fls. 952-953):
+Em que pese as argumentações trazidas em suas razões de recurso, tenho que não lhe assiste razão. Quanto á necessidade, ou não, de recalcular a DRM - Diferença de Reserva Matemática a própria fundamentação trazida no acórdão embargado leva a esse entendimento, verbis:
+(..)
+Ora, se fixados índices de correção monetária e juros, termos inicial e final, bem como percentuais de pagamento, é corolário básico o entendimento de que a parcela em referência deve ser recalculada.
+E, é justamente esse recálculo e a necessidade de restituição dos valores ao participante que se desliga do plano que, ao contrário do alegado pela segunda embargante, garante o equilíbrio econômico- financeiro entre as partes, afastando qualquer omissão nesse sentido.
+Importante frisar que o v. acórdão embargado cuidou do que a segunda embargante chama de ato jurídico perfeito e acabado.
+Em que pese não ter usado a expressão em comento, demonstrou através de sua fundamentação que o direito dos associados à restituição dos valores decorrentes de contribuições pessoais para a reserva de poupança, com correção monetária plena, através dos índices que melhor reflitam a inflação e permitam a recomposição do poder aquisitivo da moeda está garantido em nossa jurisprudência, inclusive sumulado pelo STJ.
+Destarte, como dito acima, o v. acórdão embargado deixou claro que não existe qualquer desconsideração ao ato jurídico perfeito e acabado.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+Quanto à violação dos arts. 1º, 3º, III, 7º e 18 da LC 109/2001, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base nesses dispositivos legais, porque as normas em referência nada dispõem a respeito da tese de necessidade de produção de prova pericial atuarial em litígios havidos entre patrocinadora de plano de previdência privada e beneficiários desse plano.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
