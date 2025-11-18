@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por INDÚSTRIA DE FOGOS DE ARTIFÍCIO APOLLO LTDA, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 193-199, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE ACOLHEU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA COM VISTAS A ADEQUAR O TERMO INICIAL DOS JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. EXECUÇÃO DE HONORÁRIOS ADVOGATÍCIOS SUCUMBENCIAIS. RECURSO INTERPOSTO PELA PARTE EXEQUENTE. (I) PARCIAL CONHECIMENTO. PEDIDO DE DECLARAÇÃO DE FRAUDE À EXECUÇÃO NÃO FORMULADO NA PRIMEIRA INSTÂNCIA. INOVAÇÃO RECURSAL. MATÉRIA ALHEIA AO OBJETO DA DECISÃO RECORRIDA. (II) TERMO INICIAL DA CORREÇÃO MONETÁRIA INCIDENTE SOBRE A VERBA HONORÁRIA SUCUMBENCIAL. DATA DO ARBITRAMENTO QUE, NESTE CASO, FOI O ACÓRDÃO PROFERIDO EM APELAÇÃO CÍVEL. HONORÁRIOS FIXADOS SOBRE O PROVEITO ECONÔMICO OBTIDO, CUJO VALOR FOI DEVIDAMENTE APURADO NO ACÓRDÃO, JÁ COM ATUALIZAÇÃO. NÃO INCIDÊNCIA DA SÚMULA 14 DO SUPERIOR TRIBUNAL DE JUSTIÇA. TERMO INICIAL QUE DEVE SER A DATA EM QUE LAVRADO O ACÓRDÃO, MOMENTO EM QUE FIXADOS OS HONORÁRIOS SUCUMBENCIAIS. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. DECISÃO MANTIDA.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 224-231, e-STJ.
+Nas razões de recurso especial (fls. 238-273, e-STJ), a parte recorrente aponta violação aos arts. 223, 278, 322, § 1º, 493, 507, 508 e 523 do CPC; aos arts. 394 e 397 do Código Civil; à Lei 6.899/81 (art. 1º e § 2º) e à Súmula 14/STJ. Sustenta, em síntese: a) negativa de vigência a normas federais e violação à coisa julgada (res judicata), bem como ocorrência de preclusão, por entender que a liquidação/cumprimento se iniciou com os movimentos 44.1 e 46.1, sem impugnação oportuna do executado; b) tese de que a correção monetária e os juros deveriam observar, para os honorários sucumbenciais fixados em 15% do "proveito econômico da demanda" (R$ 250.000,00), o termo a quo da data do fato ou do ajuizamento, à luz da Lei 6.899/81 e da Súmula 14/STJ, ou, subsidiariamente, da data da intimação para pagamento (agosto/2020), defendendo ainda que é vedada a alteração dos critérios do título na fase executiva, sob pena de ofensa à coisa julgada.
+Contrarrazões apresentadas às fls. 331-338, e-STJ.
+Em juízo de admissibilidade, negou-se processamento ao recurso especial (fls. 284-286, e-STJ), dando ensejo ao presente agravo.
+Contraminuta apresentada às fls. 331-338, e-STJ.
+É o relatório.
+Decido.
+1. A parte recorrente aponta violação aos arts. 223, 278, 507, 508, 523 do CPC quanto a preclusão do direito de impugnar o cálculo.
+O acórdão recorrido concluiu que a impugnação do executado (agravado) foi tempestiva. Afirmou expressamente que a intimação inicial (mov. 46.1) destinou-se apenas a discutir a hipossuficiência do devedor, que ainda era beneficiário da justiça gratuita, e que a intimação efetiva para pagamento (art. 523 do CPC) só ocorreu posteriormente (mov. 108.1), após a revogação definitiva da gratuidade. Veja-se (fls. 197-198, e-STJ):
+Em razões recursais, a exequente Indústria de Fogos de Artifício Apollo Ltda. afirma que embora o autor/executado tenha sido intimado desde 12 de agosto de 2020 (mov.46), não impugnou a cobrança, não realizou o pagamento e tampouco garantiu a execução. Afirma, portanto, que está preclusa a impugnação ao cálculo do débito, o que inclui o termo inicial da correção monetária e juros moratórios.
+Todavia, observa-se que a insurgência do executado Alessandro Luis Bufalo em relação ao cálculo do cumprimento de sentença não se encontra acobertada pelos efeitos da preclusão.
+Isto porque, inicialmente, o executado apenas foi intimado para comprovar a hipossuficiência de recursos, eis que era beneficiário da assistência judiciária gratuita, concedida em 01.07.1997 (mov.1.1, fls. 35), e que a execução tinha sido instaurada somente para a cobrança da verba honorária sucumbencial.
+ ..
+Por tais razões, a intimação do executado para o pagamento da verba honorária sucumbencial foi determinada somente na decisão de mov.108.1. Após, Alessandro Luis Bufalo apresentou tempestivamente a impugnação ao cumprimento de sentença, alegando que o termo inicial dos consectários legais está equivocado, o que, por consequência, ocasiona excesso em execução. Logo, não há que se falar em preclusão das insurgências do devedor.
+ .. .
+A pretensão da recorrente de que a intimação no mov. 46.1 já configurava o início do prazo para impugnar os cálculos vai de encontro direto à premissa fática firmada pelo Tribunal. A revisão da natureza e da finalidade daquele ato processual (mov. 46.1) exigiria o reexame dos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INTIMAÇÃO. ELETRÔNICA. REGULARIDADE. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ.
+1. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias acerca da regularidade de intimação demandaria a análise de circunstâncias fático-probatórias dos autos, procedimento inviável em recurso especial devido à incidência da Súmula nº 7/STJ.
+2. O entendimento do Superior Tribunal de Justiça é no sentido de reconhecer a validade da intimação eletrônica, sendo dispensável a publicação no órgão oficial, ainda que eletrônico. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.042.239/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+2. O recurso especial alega violação à Súmula 14/STJ e art. 1º, §2º da Lei 6.899/81.
+Ocorre que, nos termos da Súmula 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Ainda que se analise a suposta violação à Lei 6.899/1981, o acórdão recorrido afastou a correção monetária desde o ajuizamento por um motivo fático: a base de cálculo utilizada no título executivo (R$ 250.000,00) "já  estava  com atualização" no momento do arbitramento (fl. 198, e-STJ):
+A fundamentação do Acórdão é cristalina no sentido de que a verba honorária foi fixada sobre o proveito econômico obtido que, neste caso, representa a quantia de R$250.000,00 (duzentos e cinquenta mil reais), já atualizada. Em razão disso, não se aplica a Súmula nº 14 do Superior Tribunal de Justiça,  .. .
+O Tribunal concluiu que nova atualização desde a origem configuraria bis in idem. Verificar se esse valor estava, de fato, atualizado ou não, é matéria que demanda reexame fático-probatório, vedado pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. DISCRICIONARIEDADE DO JUIZ. NÃO CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. PACTUAÇÃO DO IGPM. ÍNDICE DE CORREÇÃO MONETÁRIA. NÃO IMPLICA ILEGALIDADE POR SI SÓ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+2. A desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula nº 7/STJ.
+3. Na linha dos precedentes desta Corte, a pactuação do IGPM como índice de correção monetária não encerra ilegalidade ou abusividade.
+(AgRg no REsp 1217531/MG, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12.5.2015, DJe 19.5.2015).
+4. O Tribunal de origem entendeu que a previsão do índice de correção monetária pelo IGP-M não foi abusiva, já que expressamente estipulado no contrato firmado entre as partes.
+5. Modificar a conclusão do acórdão recorrido e verificar se houve aplicação do índice de correção monetária de forma indevida demandaria reexame de matéria fático-probatória e de cláusulas contratuais, o que é vedado em sede de recurso especial, a teor das Súmulas 7 e 5, ambas do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp n. 2.217.041/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+3. A parte recorrente aponta violação ao arts. 7º e 1.026, § 2º, do CPC, pois os embargos de declaração visavam o prequestionamento (Súmula 98/STJ).
+O Tribunal a quo, contudo, foi categórico ao afirmar que houve "reiteração de argumentos já examinados, o que caracteriza caráter protelatório manifesto" (e-STJ fl. 230).
+A jurisprudência desta Corte orienta que, ressalvada a hipótese de os embargos sequer terem sido conhecidos, a revisão da conclusão do Tribunal de origem acerca do intuito protelatório dos aclaratórios encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. REITERAÇÃO. CARÁTER PROTELATÓRIO. ACÓRDÃO FUNDAMENTADO. MULTA. POSSIBILIDADE.
+1. No que tange à correta interpretação do art. 1.026, § 2º, do CPC, a jurisprudência desta Corte Superior é no sentido de que a reiteração dos argumentos já repelidos de forma clara e coerente configura o caráter protelatório dos embargos de declaração, a ensejar a incidência da multa do mencionado artigo.
+2. No caso concreto, a imposição da multa está devidamente fundamentada, não tendo sido aplicada de forma automática.3. Rever as conclusões do acórdão quanto ao caráter protelatórios do segundo embargos de declaração encontra óbice na Súmula 7/STJ.
+4. O entendimento do STJ é no sentido de que, nas hipóteses em que o crédito se submete aos efeitos da recuperação judicial, o titular não incluído no quadro geral de credores pode optar por utilizar a habilitação retardatária ou aguardar o término da recuperação para prosseguir com a execução individual.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.062.283/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Portanto, a modificação das conclusões adotadas pelo Tribunal de origem, em todos os pontos do recurso, demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, providência vedada em Recurso Especial, nos termos da Súmula 7/STJ.
+4. Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC c/c nas Súmulas 7 e 518 do STJ.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+EMENTA
