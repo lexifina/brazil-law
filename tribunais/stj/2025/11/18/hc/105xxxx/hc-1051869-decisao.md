@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de PAULO ERNESTO COELHO CAMPOS - preso preventivamente e acusado pela suposta prática dos crimes de extorsão mediante sequestro na forma tentada, receptação e corrupção de menor - em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que denegou a ordem (HC n. 0626888-41.2025.8.06.0000 - fls. 11/19 ).
+Sustenta-se, nesta impe tração, a ausência de fundamentação concreta para a decretação da prisão preventiva e a possibilidade de fixação de medidas cautelares alternativas ao cárcere, diante da presença de condições pessoais favoráveis, pois a mera existência de ações penais em andamento não é motivo suficiente para a segregação cautelar (fl. 5).
+Requer-se, em li minar e no mérito, a revogação da prisão preventiva.
+Este processo fo i a mim distribuído por prevenção do HC n. 1.044.612/CE.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo fundamentou que O autuado já responde a outros procedimentos criminais, conforme se verifica nas certidões de antecedentes criminais acostadas às páginas 44/45 (fl. 80).
+O acórdão impugnado, por sua vez, ratificou que o paciente responde a outra ação penal em andamento, n.º 0228055-92.2024.8.06.0001, e no momento de sua prisão se encontrava em cumprimento de medidas cautelares diversas, impostas nos autos de n.º 0277597-79.2024.8.06.0001, indicativos de que a custódia cautelar é a única medida capaz de evitar a reiteração delitiva (fl. 17).
+Assim, observa-se, da análise dos trechos transcritos, que a constrição cautelar está alicerçada em elementos vinculados à realidade , com destaque, principalmente, ao risco de reiteração delitiva - pois o paciente responde a outros procedimentos criminais, inclusive a outra ação penal e estava em cumprimento de medidas cautelares quando do cometimento dos novos delitos -, a justificar a necessidade de manutenção da medida extrema para a garantia da ordem pública.
+Nesse sentido, a jurisprudência deste Superior Tribunal de Justiça já se manifestou em hipótese semelhante: Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, pois há o risco concreto de reiteração delitiva, uma vez que o réu possui outros registros criminais em sua folha de antecedentes, respondendo, inclusive, a processo criminal por delito idêntico ao caso (AgRg no HC n. 980.282/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 14/4/2025, DJEN de 24/4/2025 - grifo nosso).
+A propósito, confira-se o AgRg no RHC n. 211.417/CE, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 11/6/2025, DJEN de 18/6/2025.
+Afora isso, é ente ndimento desta Casa que as condições favoráveis, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a ini cial.
+Pub lique -se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. EXTORSÃO MEDIDANTE SEQUESTRO TENTADO. RECEPTAÇÃO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Inicial indeferida liminarmente.
