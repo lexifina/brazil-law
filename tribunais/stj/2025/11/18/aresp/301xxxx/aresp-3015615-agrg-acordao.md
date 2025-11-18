@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. RÉU CONDENADO POR HOMICÍDIO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: dissídio jurisprudencial não demonstrado e Súmula n. 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice apontado na decisão de inadmissibilidade, inviabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JAIR AURELIANO FIRMINO contra decisão monocrática da Presidência desta Corte (e-STJ fls. 856-857) que não conheceu do agravo em recurso especial manejado em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+EMENTA: APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO QUALIFICADO - PRELIMINAR DE OFÍCIO - PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL EM RELAÇÃO AO ART. 12 DA LEI Nº 10.826/03 - OCORRÊNCIA - MÉRITO - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - LEGÍTIMA DEFESA - TESE NÃO COMPROVADA - DECOTE DA QUALIFICADORA DO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA - IMPOSSIBILIDADE. - Decorrido o prazo prescricional entre a data do recebimento da denúncia e a data da publicação da decisão de pronúncia, impõe-se declarar, de ofício, a extinção da punibilidade do acusado, pela prescrição da pretensão punitiva estatal, em relação ao crime de posse ilegal de arma de fogo de uso permitido. - É de rigor a manutenção da condenação do apelante, se não restaram comprovados, in casu, os requisitos da legítima defesa, elencados no art. 25 do Código Penal. - Não sendo a qualificadora reconhecida pelo Conselho de Sentença manifestamente improcedente, não há falar no decote da mesma.
+A parte agravante requer a reconsideração da decisão agravada, pugnando pelo conhecimento do recurso especial interposto e seu provimento (e-STJ fls. 861-867).
+O Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 881-886).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. RÉU CONDENADO POR HOMICÍDIO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 182/STJ. RECURSO DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: dissídio jurisprudencial não demonstrado e Súmula n. 7/STJ. A mera citação do enunciado no decorrer da petição, sem demonstrar a superação do óbice apontado na decisão de inadmissibilidade, inviabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: dissídio jurisprudencial não demonstrado e Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o(s) referido(s) fundamento(s).
+Com efeito, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+O Superior Tribunal de Justiça entende que "a mera transcrição de ementas não permite o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, pois não foi demonstrada, de forma analítica, a identidade fática e a divergência entre o acórdão impugnado e os julgados indicados como paradigma" (AgRg no REsp n. 2.034.784/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025). Insta consignar que, "para a caracterização do dissídio jurisprudencial, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Dissídio não demonstrado no caso" (AgInt no REsp n. 2.182.998/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025).
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes meras alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência do óbice da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
