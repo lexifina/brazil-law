@@ -1,0 +1,1 @@
+Art. 104-B. Para os lotes destinados ao uso residencial multifamiliar na tipologia de casas inseridos em novos parcelamentos do solo, os parâmetros de ocupação devem estar definidos em seus respectivos memoriais descritivos. (Acrescido(a) pelo(a) Lei Complementar 1007 de 28/04/2022)

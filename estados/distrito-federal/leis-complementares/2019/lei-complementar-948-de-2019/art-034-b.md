@@ -1,0 +1,1 @@
+Art. 34-B. Para fins de aplicação do disposto nos arts. 34 e 34-A, considera-se que a porção da fachada ocupada por saída de emergência, acessos a depósitos e guarda e permanência de veículos motorizados não é considerada para fins de cálculo da permeabilidade física e visual. (Acrescido(a) pelo(a) Lei Complementar 1047 de 17/06/2025)
