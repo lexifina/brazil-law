@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489, § 1º, III, IV, e 1.022, I, do CPC, bem como pela incidência da Súmula n. 83 do STJ (fls. 131-135).
+O acórdão recorrido está assim ementado (fls. 60-61):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS - DECISÃO AGRAVADA QUE ENTENDEU PELA APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO, INVERTENDO PARCIALMENTE O ÔNUS DA PROVA EM FAVOR DA AUTORA, ORA AGRAVADA - DECISÃO QUE IGUALMENTE DETERMINOU A MANUTENÇÃO DOS DOCUMENTOS APRESENTADOS EM SEDE DE IMPUGNAÇÃO À CONTESTAÇÃO NOS AUTOS - NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO - AFASTADA - POSSIBILIDADE, ADEMAIS, DE APRECIAÇÃO DA DISCUSSÃO EM SEDE RECURSAL - APLICAÇÃO ANALÓGICA DO ARTIGO 1.013, §3º, DO CÓDIGO DE PROCESSO CIVIL - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - TEORIA FINALISTA MITIGADA - HIPOSSUFICIÊNCIA TÉCNICA DA PARTE REQUERIDA CONSTATADA - AUTORA QUE POSSUI COMO OBJETO SOCIAL A PRESTAÇÃO DE SERVIÇOS MÉDICOS, ENQUANTO A REQUERIDA SE TRATA DE EMPRESA DE ENGENHARIA E CONSTRUÇÃO - AUTOS ORIGINÁRIOS EM QUE SE DISCUTE A SUPOSTA EXISTÊNCIA DE DIVERSAS FALHAS NA EXECUÇÃO DO PROJETO - PRECEDENTES DESTA CORTE EM CASOS ANÁLOGOS - INVERSÃO DO ÔNUS DA PROVA NO QUE TANGE À DISCUSSÃO SOBRE OS SUPOSTOS VÍCIOS - ARTIGO 6º, VIII, DO CÓDIGO DE DEFESA DO CONSUMIDOR - MANUTENÇÃO - DOCUMENTOS JUNTADOS EM SEDE DE IMPUGNAÇÃO À CONTESTAÇÃO - POSSIBILIDADE - NECESSIDADE DE OBSERVÂNCIA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA - ART. 435 DO CÓDIGO DE PROCESSO CIVIL - DOCUMENTOS QUE NÃO SE MOSTRAVAM IMPRESCINDÍVEIS À PROPOSITURA DA AÇÃO, BEM COMO NÃO SE VERIFICA A MÁ-FÉ EM EVENTUAL OCULTAÇÃO - ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA - CONTRADITÓRIO, CONTUDO, QUE DEVE SER OBSERVADO - PRAZO CONCEDIDO PARA MANIFESTAÇÃO DA REQUERIDA, A QUAL SE PRONUNCIOU NOS AUTOS ORIGINÁRIOS - CONFIRMAÇÃO DA LIMINAR OUTRORA PARCIALMENTE DEFERIDA - ACOLHIMENTO DO PEDIDO SUBSIDIÁRIO - RECURSO PARCIALMENTE PROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 84-89).
+No recurso especial (fls. 92-101), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente apontou ofensa dos arts. 435, 489, § 1º, III e IV, e 1.022, I, do CPC.
+Alegou que o acórdão recorrido é omisso por não ter examinado a alegação de que os documentos juntados na impugnação à contestação são anteriores à propositura da ação.
+Afirmou que tais documentos foram produzidos pela própria parte autora, inexistindo justificativa válida para a sua juntada tardia.
+Foram apresentadas contrarrazões (fls. 120-130).
+No agravo (fls. 138-145), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 156-159).
+Juízo negativo de retratação (fl. 160).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, §1º, III, IV, e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (fls. 71-74):
+ ..  De acordo com o artigo 434 do Código de Processo Civil, "incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações".
+Entretanto, tal dispositivo é relativizado pelo artigo 435 do mesmo diploma, que estabelece que "é lícito às partes, em qualquer tempo, juntar aos autos documentos novos, quando destinados a fazer prova de fatos ocorridos depois dos articulados ou para contrapô-los aos que foram produzidos nos autos".
+ ..  Da análise desses documentos, verifica-se que efetivamente se relacionam aos projetos que estavam sendo executados pela requerida, ora recorrente, existindo, ainda, indicação de que se encontravam na posse da ora recorrente, e, destarte, podem ser configurados como documentos que tão somente obteve a autora acesso posteriormente, de forma a autorizar a juntada no referido momento.
+Ademais, em relação à integralidade da documentação, denota-se que se destina a contrapor as teses arguidas em contestação, existindo a possibilidade de apresentação, destarte.
+ ..  Inclusive, da análise dos autos originários, constata-se que o contraditório restou devidamente exercido ao mov. 66.1.
+Extrai-se ainda do acórdão dos embargos de declaração (fl. 88):
+ ..  Concluiu-se, portanto, que "efetivamente se relacionam aos projetos que estavam sendo executados pela requerida, ora recorrente, existindo, ainda, indicação de que se encontravam na posse da ora recorrente, e, destarte, podem ser configurados como documentos que tão somente obteve a autora acesso posteriormente, de forma a autorizar a juntada no referido momento".
+ ..  Note-se, inclusive, que o entendimento do Superior Tribunal de Justiça citado no acórdão é de que "é permitida a juntada extemporânea de documentos, até mesmo na fase recursal, desde que observado o princípio do contraditório e ausente a má-fé da parte".
+Em que pese a argumentação da parte recorrente, em nenhum momento ficou demonstrada a má-fé da parte embargada, tendo sido devidamente assegurado o contraditório, e, destarte, aplicável o entendimento da Corte Superior.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC.
+No mérito, o Tribunal de origem manteve a decisão que autorizou a juntada dos documentos, com fundamento no art. 435 do CPC, o qual admite a apresentação de documentos novos para contrapor àqueles já produzidos nos autos.
+O acórdão destacou que os documentos estavam sob a posse da agravante, tendo a agravada obtido acesso a eles posteriormente, e que não houve má-fé por parte desta. Esse entendimento está em consonância com a jurisprudência consolidada desta Corte Superior. A propósito:
+DIREITO CIVIL. AGRAVO INTERNO. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. PEDESTRE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INDENIZAÇÃO POR DANOS MORAIS. NEXO CAUSAL. COMPORVAÇÃO. JUNTADA DE DOCUMENTOS EM FASE RECURSAL. REFORÇO ARGUMENTATIVO. CONTRADITÓRIO. VIABILIDADE. QUANTUM INDENIZATÓRIO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. JUROS DE MORA. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA N. 83 DO STJ. RECURSO DESPROVIDO. I. CASO EM EXAME
+ ..  8. A jurisprudência do STJ se posiciona no sentido de que é permitida a juntada extemporânea de documentos, até mesmo na fase recursal, desde que observado o princípio do contraditório e ausente a má-fé da parte. IV. DISPOSITIVO E TESE
+9. Agravo interno desprovido.
+Tese de julgamento: "1. A fundamentação do acórdão recorrido é suficiente e não apresenta omissão ou contradição. 2. A existência de nexo causal entre o atropelamento e o óbito foi comprovada com base na teoria da causalidade adequada. 3. A revisão do valor da indenização por danos morais é inviável, salvo em casos de manifesta irrisoriedade ou exorbitância. 4. Os juros de mora em casos de responsabilidade extracontratual incidem desde o evento danoso 5. A jurisprudência do STJ se posiciona no sentido de que é permitida a juntada extemporânea de documentos, até mesmo na fase recursal, desde que observado o princípio do contraditório e ausente a má-fé da parte."
+Dispositivos relevantes citados: CPC, arts. 489, 1.022, 373; CC, art. 407.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.671.639/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/11/2020; STJ, AgInt no AREsp n. 726.850/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/8/2018.
+(AgInt no AREsp n. 2.933.282/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 8/9/2025, DJEN de 11/9/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO EXISTENTE. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM.
+ ..  2. "A jurisprudência do STJ se posiciona no sentido de que é permitida a juntada extemporânea de documentos, até mesmo na fase recursal, desde que observado o princípio do contraditório e ausente a má-fé da parte. Precedentes" (AgInt no AREsp n. 2.669.849/CE, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 3/4/2025).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.156.573/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+Inafastável a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
