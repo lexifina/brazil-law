@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JONNATHAN ANTONIO FERREIRA DO ESPÍRITO SANTO, de decisão na qual concedi a ordem, de ofício, para para aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006 no patamar de 1/6, resultando definitiva a pena do ora agravante em 4 anos, 7 meses e 17 dias de reclusão, em regime inicial fechado, e 462 dias-multa.
+O embargante afirma que a decisão recorrida não enfrentou, de forma expressa e direta, a tese defensiva de bis in idem na dosimetria da pena, decorrente da utilização concomitante da quantidade da droga apreendida.
+Pontua que, "além de deixar de analisar a tese defensiva, incorreu no mesmo equívoco que se pretendia corrigir, majorando a pena-base em 1/3 em razão da quantidade de droga apreendida e, posteriormente, utilizando o mesmo fundamento para aplicar a causa de diminuição do tráfico privilegiado no patamar mínimo (1/6), fixando, ainda, o regime inicial fechado."
+Afirma que houve o agravamento da sua situação, porque, até então, "possuía pena-base de 5 anos e 6 meses, elevando-a a 6 anos e 8 meses."
+Requer o acolhimento dos embargos de declaração com efeitos infringentes, "aplicando-se a quantidade de droga apenas na primeira fase da dosimetria com majoração limitada a 1/6; reconhecer a causa de diminuição do tráfico privilegiado em seu grau máximo (2/3); fixar o regime inicial aberto; substituir a pena privativa de liberdade por restritivas de direitos; e determinar a remessa dos autos ao Ministério Público para eventual oferecimento de Acordo de Não Persecução Penal (e-STJ, fls. 52-53)."
+É o relatório.
+Decido.
+A teor do artigo 619 do Código de Processo Penal, são cabíveis embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão no julgado, podendo ainda ser admitidos para a correção de eventual erro material. Todavia, não se prestam para o mero inconformismo da parte quando não acolhida sua tese defensiva.
+Na hipótese, observa-se que a decisão recorrida enfrentou satisfatoriamente o pleito deduzido na inicial deste writ de "Aplicar o tráfico privilegiado em seu grau máximo" (e-STJ, fl. 5).
+Conforme posto, as instâncias ordinárias afastaram o tráfico privilegiado sob o entendimento de que a logística utilizada na prática criminosa e a expressiva quantidade de droga apreendida indicariam a participação do agravante em uma "organização criminosa muitíssimo bem estruturada". Todavia, este Relator, após leitura atenta dos autos e do acórdão impugnado, aplicou a referida redutora em benefício do ora embargante no patamar de 1/6, considerando as provas trazidas ao feito que indicam sua participação como "mula", com amparo em jurisprudência pacífica desta Corte.
+Ademais, não há se falar em agravamento da situação do embargante - pois ele foi agraciado com redutora em patamar maior, de 1/6, o que levou à diminuição da sua pena final de 5 anos, 6 meses e 20 dias de reclusão, além de 555 dias-multa, para 4 anos, 7 meses e 17 dias de reclusão, mais 462 dias-multa.
+Por fim, anote-se que o regime prisional cabível é o fechado, diante da aferição desfavorável de circunstância judicial, no caso, a gigantesca quantidade de droga apreendida - 415,5kg, quase meia tonelada, de maconha.
+A toda evidência, não há o que ser reparado no julgado, pois o embargante não comprovou a existência da alegada omissão e contradição.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
