@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULO, da decisão em que a Presidência do Superior Tribunal de Justiça conheceu do agravo para não conhecer do seu recurso especial ante os óbices das Súmulas 284/STF, 126/STJ e 280/STF.
+A parte agravante rebate os óbices aplicados e afirma que o acórdão recorrido contraria a jurisprudência do STJ.
+A parte adversa não apresentou impugnação (fl. 340).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada.
+O recurso especial foi interposto contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 155):
+MANDADO DE SEGURANÇA. REMESSA NECESSÁRIA. Base de Cálculo para pagamento de ITCMD. Cálculo que deve ter como base o valor venal do imóvel utilizado para pagamento de IPTU. Arts. 13 e 15 da Lei Estadual nº 9.591/66. Arts. 9º e 13, da Lei Estadual nº 10.705/00. Impossibilidade de instauração de procedimento de arbitramento. Ordem concedida. Precedentes. Sentença reformada, em parte. Reexame Necessário provido, em parte.
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 230/231):
+Todavia, a referida modalidade de lançamento pode ser afastada, valendo-se a Fazenda do lançamento por arbitramento, mediante processo administrativo regular, nas hipóteses em que (i) o cálculo do tributo tenha por base, ou tome em consideração, o valor ou o preço de bens, direitos, serviços ou atos jurídicos, e (ii) sejam omissos ou não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado.
+ ..
+Assim, perfeitamente possível às autoridades tributárias dos Estados que investiguem o real valor de mercado dos bens cuja transmissão faz incidir o ITCMD, sob pena de vilipendiar o dever funcional que lhes atribui o art. 142 e parágrafo único do CTN.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.371), e foi assim delimitada: "Definir se a prerrogativa do fisco de arbitrar a base de cálculo do ITCMD decorre diretamente do CTN ou está sujeita às normas específicas da Unidade da Federação" (ProAfR no REsp 2.175.094/SP, relatora Ministra Maria Thereza de Assis Moura, DJEN de 19/8/2025).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+O envio do recurso especial a esta Corte Superior deve ocorrer somente após o esgotamento da instância ordinária, formalizado com o novo julgamento pelo Tribunal de origem, quando então será possível examinar, no âmbito do STJ, as matérias jurídicas que eventualmente permanecerem controvertidas. Essa cautela também evita o fracionamento do recurso e previne eventual violação ao princípio da unicidade recursal, que veda a interposição simultânea ou sucessiva de recursos contra a mesma decisão.
+Ante o exposto, reconsidero a decisão agravada e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
