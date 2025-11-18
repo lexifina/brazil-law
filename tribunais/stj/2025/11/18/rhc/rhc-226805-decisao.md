@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por LUIS FELIPE DE GRANVILLE MACHADO DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi condenado às penas de 17 anos e 2 meses de reclusão no regime fechado e de pagamento de 2.680 dias-multa, como incurso nas sanções dos arts. 33, caput, e 35 da Lei n. 11.343/2006, tendo-lhe sido negado o direito de recorrer em liberdade.
+O recorrente afirma que a manutenção da custódia ofende a presunção de inocência do art. 5º, LVII, da Constituição Federal, pois não há trânsito em julgado e estaria havendo execução provisória da pena.
+Salienta que possui condições pessoais favoráveis, como primariedade, bons antecedentes, trabalho lícito e residência fixa, circunstâncias que tornam possível responder ao processo em liberdade.
+Alega que inexistem fundamentos concretos do art. 312 do CPP para a prisão preventiva, uma vez que a decisão é genérica e sem demonstração de necessidade.
+Aduz que o art. 594 do CPP foi revogado, não sendo possível negar o direito de apelar em liberdade com base em antecedentes.
+Assevera que a gravidade abstrata do delito não autoriza a privação cautelar de liberdade, especialmente por se tratar de crime sem violência ou grave ameaça.
+Defende que não há risco à ordem pública, à instrução criminal ou à aplicação da lei penal, tampouco indícios de fuga.
+Sustenta que o Magistrado deve examinar previamente as medidas do art. 319 do CPP e justificar a inadequação de cada uma delas, conforme o art. 310, II, do CPP.
+Informa que há pedido de justiça gratuita, em razão de hipossuficiência econômica para custas e honorários.
+Requer, liminarmente e no mérito, a expedição imediata de alvará de soltura.
+É o relatório.
+De início, " a  insurgência quanto à concessão do benefício da assistência judiciária gratuita não se mostra cabível no remédio heroico, uma vez que não há ameaça ao direito de locomoção do recorrente" (RHC n. 198.399/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+No mais, a prisão cautelar foi assim mantida na sentença condenatória (fls. 2.273 e 2.287, grifei):
+Daniel Jorge Amorim Campos, Luis Felipe de Granville Machado dos Santos, Sérgio Ricardo dos Santos, Rodrigo Bareto Santos da Silva e José Luiz da Silva foram denunciados como incursos no art. 33, caput, e art. 35, ambos da Lei nº 11.343/06, porque, (i) em data incerta, porém anterior a e até 29 de abril de 2024, na Rua das Gabirobas, nº 224, Jardim Atalaia, e na Rua Angola, nº 90, nesta cidade de Cotia, associaram-se entre eles para o fim de praticarem, reiteradamente ou não, o crime previsto no art. 33, caput, da Lei nº 11.343/06; (ii) e, em 29 de abril de 2024, por volta da 01h20, nos locais anteriormente mencionados, mantinham em depósito, guardavam e transportavam, para fins de fornecimento ao consumo de terceiro, drogas, consistentes em 896 tijolos de cocaína, com massa líquida de 900,8kg, sem autorização e em desacordo com determinação legal e regulamentar.
+ ..
+Daniel, Rodrigo, Luis Felipe e Sérgio não poderão recorrer em liberdade, pois permanecem presentes os requisitos que autorizam a prisão preventiva. Cabe ressaltar que o crime em questão é concretamente grave, visto que envolveu expressiva quantidade de cocaína, sendo a manutenção da custódia cautelar necessária para preservação da ordem pública. Recomendem-se os réus no estabelecimento em que se encontram recolhidos.
+A leitura da sentença revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 900,8 kg de cocaína.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Ressalte-se que houve a apreensão de imensa quantidade de cocaína, isto é, de entorpecente com elevado potencial lesivo.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP -, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024, grifei.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Por fim, " q uando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
