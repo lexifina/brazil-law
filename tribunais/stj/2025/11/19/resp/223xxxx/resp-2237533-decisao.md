@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EBSON SENA PUREZA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 621/629, in verbis:
+1. Tratam os autos de recurso especial interposto por LUANA CRISTINA MAGALHAES MONTEIRO e de agravo interposto por EBSON SENA PUREZA. Os recursos especiais foram interpostos contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, que restou assim ementado (e-STJ, fls. 522-523):
+Ementa : DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E POSSE ILEGAL DE MUNIÇÃO. APREENSÃO DE DROGAS E OBJETOS ASSOCIADOS AO TRÁFICO EM RESIDÊNCIA. VALOR PROBANTE DOS DEPOIMENTOS POLICIAIS. CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. NATUREZA E QUANTIDADE DE DROGAS. TRÁFICO PRIVILEGIADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. SENTENÇA INTEGRALMENTE MANTIDA.
+I. CASO EM EXAME 1. Apelação criminal interposta por EBSON SENA PUREZA e LUANA CRISTINA MAGALHÃES MONTEIRO contra sentença condenatória que lhes imputou a prática dos crimes de tráfico de drogas (art. 33 da Lei nº 11.343/2006) e posse ilegal de munição (art. 12 da Lei nº 10.826/2003). Os apelantes foram presos em flagrante na residência em que se encontravam, onde foram apreendidos 16 unidades de cocaína, 100 unidades de óxi, 87 unidades de maconha, 4 munições de calibre 38, balanças de precisão, rádios comunicadores e apetrechos utilizados no tráfico.
+II. QUESTÃO EM DISCUSSÃO 1. Há três questões em discussão:
+(i) verificar se os elementos probatórios justificam a condenação; (ii) avaliar a proporcionalidade na dosimetria da pena aplicada, incluindo a análise da possibilidade de aplicação do tráfico privilegiado; e (iii) determinar a legalidade da fixação do regime inicial de cumprimento da pena e da impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+III. RAZÕES DE DECIDIR
+1. A condenação se fundamenta na materialidade comprovada pelo auto de apreensão e no laudo de constatação provisória das drogas e munições, bem como na autoria evidenciada pelos depoimentos consistentes e harmônicos dos policiais militares, corroborados pelas demais provas constantes nos autos.
+2. A jurisprudência reconhece o valor probatório do relato policial quando este é coerente e confirmado por outros elementos probatórios, conferindo credibilidade ao conjunto de provas que sustentam a condenação.
+3. Quanto à dosimetria, a sentença considerou corretamente as circunstâncias judiciais desfavoráveis aos réus, especialmente a natureza e quantidade das drogas apreendidas, bem como os antecedentes criminais do réu EBSON SENA PUREZA. A valoração negativa dessas circunstâncias encontra respaldo na jurisprudência do Superior Tribunal de Justiça (STJ).
+4. Em relação ao pedido de aplicação da fração de 2/3 pela incidência do tráfico privilegiado, o magistrado sentenciante aplicou a redução de 1/6, justificando-se na quantidade e natureza das substâncias apreendidas, em consonância com o entendimento jurisprudencial.
+5. O regime inicial de cumprimento de pena foi fixado de acordo com o art. 33, § 2º, "b", do Código Penal, sendo inviável a substituição da pena privativa de liberdade por restritiva de direitos em razão do quantum de pena fixado (art. 44, I, do Código Penal).
+6. A imposição da pena de multa é obrigatória nos termos legais, sendo a situação financeira do réu analisada apenas na fase de execução, para fins de parcelamento, não para isenção.
+IV. DISPOSITIVO E TESE
+1. Recurso desprovido. Tese de julgamento:
+1. A materialidade e autoria no crime de tráfico de drogas podem ser comprovadas por depoimentos policiais corroborados por outros meios de prova.
+2. A natureza e a quantidade das drogas justificam a valoração negativa das circunstâncias judiciais e a fixação de redução inferior ao patamar máximo no tráfico privilegiado.
+3. O regime inicial de cumprimento de pena e a impossibilidade de substituição da pena por restritiva de direitos devem observar os critérios legais do Código Penal e da Lei de Drogas.
+2. Nas razões do recurso especial, os recorrentes alegaram violação ao artigo 59 do Código Penal e artigo 42 da Lei 11.343/06, pois a quantidade e variedade das drogas apreendidas não seriam suficientes para a fixação da pena-base acima do mínimo legal. A recorrente LUANA CRISTINA MAGALHAES MONTEIRO aduziu, ainda, violação aos artigos 33, §4º, da Lei nº 11.343/06, ante a ausência de fundamentação idônea para a utilização da fração redutora de 1/3 na terceira fase da dosimetria da pena, referente ao tráfico privilegiado (fls. 541-552).
+3. O recurso de LUANA CRISTINA MAGALHAES MONTEIRO foi admitido e o apelo especial de EBSON SENA PUREZA não foi admitido pelo óbice da Súmula 83/STJ (fls. 570-577).
+4. Foi interposto o agravo (fls. 580-585) e apresentada a contraminuta (fls. 587- 596).
+5. Remetidos os autos a esse C. STJ, vieram, então, com vista ao Ministério Público Federal.  ..
+6. Com o não provimento do apelo defensivo, EBSON SENA PUREZA foi condenado à pena de 9 (nove) anos e 4 (quatro) meses de reclusão e ao pagamento de 233 (duzentos e trinta e três) dias-multa, em regime inicial fechado e LUANA CRISTINA MAGALHÃES à pena de 5 (cinco) anos e 10 (dez) meses de reclusão e ao pagamento de 167 (cento e sessenta e sete) dias multa, em regime inicial semiaberto.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+Não se olvida da reiterada orientação do Superior Tribunal de Justiça segundo a qual "a apreciação negativa dos vetores contidos no art. 42 da Lei de Drogas (quantidade e natureza do entorpecente) justifica a exasperação da pena-base  .. " (AgRg no AREsp n. 625.887/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2016, DJe 19/10/2016). Contudo, na espécie, entendo que a quantidade de entorpecente apreendida - 16 unidades de cocaína, 100 unidades de óxi, 87 unidades de maconha - não se mostra elevada o suficiente para justificar o aumento da pena-base.
+Nesse mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 114,83 G DE COCAÍNA E 647,41 G DE MACONHA. ALEGAÇÃO DA ACUSAÇÃO DE QUE A QUANTIDADE DE DROGAS É SUFICIENTE PARA ELEVAÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE NA DECISÃO.
+1. A nocividade da droga é própria do tipo penal, pois, qualquer que seja, a substância entorpecente será prejudicial à sociedade, de maneira geral. A quantidade de drogas não se mostra extremamente elevada para aumentar a pena-base, de modo que acertada a decisão agravada.
+2. Agravo regimental improvido. (AgRg no HC 682.972/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante o crack seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+(AgRg no HC 669.398/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/10/2021, DJe 28/10/2021, grifei.)
+Desse modo, decotando-se o aumento relativo à quantidade/variedade de entorpecente, na primeira fase da dosimetria, e seguindo-se as demais diretrizes traçadas pelas instâncias ordinárias, deve a pena do agravante ser reduzida a 7 anos de reclusão, mantidos os demais termos da condenação.
+À vista do exposto, conheço do agravo para dar provimento ao recurso, a fim de reduzir a pena do recorrente nos termos acima deduzidos.
+Publique-se. Intimem-se.
+EMENTA
