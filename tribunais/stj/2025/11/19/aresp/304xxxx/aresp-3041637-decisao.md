@@ -1,0 +1,84 @@
+DECISÃO
+Cuida-se de agravo interposto por THALES PRUDENCIO PAULISTA DE LIMA contra decisão que obstou a subida de seu recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia cuja ementa guarda os seguintes termos (fls. 196-197):
+Ementa: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. APLICAÇÃO DA TEORIA MENOR. ESGOTAMENTO DAS TENTATIVAS DE CONSTRIÇÃO DE BENS. RESPONSABILIDADE PATRIMONIAL DOS SÓCIOS. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que julgou procedente o incidente de desconsideração da personalidade jurídica e incluiu o sócio Thales Prudêncio Paulista de Lima no polo passivo da execução, diante da ausência de bens disponíveis para satisfazer o crédito.
+II. QUESTÃO EM DISCUSSÃO
+2. O cerne da discussão é a legalidade da decisão que determinou a desconsideração da personalidade jurídica da empresa Thales Comércio de Veículos Novos e Usados EIRELI, para atingir o patrimônio do sócio, com fundamento na Teoria Menor da desconsideração.
+III. RAZÕES DE DECIDIR
+3. Nos termos do art. 50 do Código Civil, é possível desconsiderar a personalidade jurídica para responsabilizar os bens dos sócios em casos de abuso da personalidade, caracterizado por desvio de finalidade ou confusão patrimonial.
+4. A decisão agravada aplicou a Teoria Menor, prevista em situações em que a personalidade jurídica da empresa devedora representa obstáculo à satisfação do crédito, independentemente de comprovação de fraude ou confusão patrimonial, com o objetivo de proteger o direito de credores em posição vulnerável.
+5. Embora o agravante alegue que a empresa está ativa e que não houve desvio de finalidade ou confusão patrimonial, o processo principal demonstra que todas as tentativas de localizar bens para quitação do débito foram infrutíferas, e os veículos indicados possuem restrições que inviabilizam a penhora eficaz.
+6. A Teoria Menor permite a desconsideração mesmo sem a prova de dolo ou fraude, visando evitar que o credor suporte o risco da atividade empresarial, conforme entendimento consolidado na jurisprudência.
+7. Assim, a decisão de desconsideração deve ser mantida, uma vez que os requisitos da Teoria Menor estão presentes e a agravada busca a satisfação de crédito relacionado a custas e honorários, os quais permanecem em aberto.
+IV. DISPOSITIVO E TESE
+8. Agravo de instrumento desprovido. Tese de julgamento: "É cabível a aplicação da Teoria Menor da desconsideração da personalidade jurídica quando a empresa executada não possui bens suficientes para satisfazer o crédito, mesmo sem comprovação de fraude ou desvio de finalidade, visando a responsabilização patrimonial do sócio.
+Rejeitados os embargos de declaração opostos (fls. 221-224).
+Nas razões do apelo nobre (fls. 233-243), a parte agravante alegou, em síntese, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil, por negativa de prestação jurisdicional, bem como ao art. 28 do CDC. Sustentou que o Tribunal de origem, mesmo instado por meio de embargos declaratórios, manteve-se omisso quanto a fundamentos relevantes para o deslinde da controvérsia, notadamente a existência de documentos juntados pelo recorrente nos autos originários, emitidos pelo sistema RENAJUD, que demonstravam a existência de 41 veículos de propriedade da empresa devedora originária integralmente livres de restrições à época imediatamente anterior ao pedido de desconsideração da personalidade jurídica.
+Foram apresentadas contrarrazões (fls. 253-264).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 268-270), o que ensejou a interposição do presente agravo.
+O presente agravo em recurso especial (fls. 272-277) alega, em suma, o preenchimento de todos os requisitos de admissibilidade e a necessidade de exame das violações dos dispositivos federais apontados. Reiterou, ainda, os fundamentos do recurso especial e defendeu o seu regular processamento.
+Foi apresentada contraminuta (fls. 281-293).
+É, no essencial, o relatório.
+O agravo deve ser conhecido, porquanto atende aos seus pressupostos de admissibilidade. Passo ao exame do recurso especial.
+De início, quanto à alegada violação do art. 1.022, II, c/c o art. 489, § 1º, IV, ambos do Código de Processo Civil, o apelo não prospera.
+Ao julgar os embargos declaratórios, o Tribunal de origem enfrentou, de maneira clara e fundamentada, os pontos relevantes à controvérsia, consignando que o recorrente, sob a justificativa de omissão, buscava apenas rediscutir matéria decidida, o que se revela incompatível com a natureza integrativa da via eleita.
+Confira-se trecho do julgado:
+Não obstante os argumentos apresentados pelo embargante, não vislumbro razões que justifiquem o acolhimento do recurso, porquanto este não trouxe elementos capazes de infirmar as conclusões consignadas no acórdão recorrido.
+Analisando as razões recursais, constato que o embargante, a pretexto de alegar omissão, busca, na realidade, rediscutir matéria, exaustivamente, analisada quando do julgamento do agravo de instrumento, o que ultrapassa dos limites traçados para os embargos de declaração.
+O acórdão foi claro ao consignar que restaram esgotadas as tentativas de localização de bens livres e desembaraçados da empresa/executada. Os bens identificados, em especial os veículos, possuem restrições que inviabilizam sua alienação para a quitação do crédito exequendo.
+Cumpre destacar que o embargante não indicou bens passíveis de penhora, e, após reiteradas diligências frustradas no processo principal, não se desincumbiu do ônus de adimplir a obrigação, mesmo diante das intimações realizadas.
+A decisão fundamentou-se na aplicação da Teoria Menor da desconsideração da personalidade jurídica, que visa proteger interesses considerados vulneráveis  no caso concreto, os da embargada, titular de crédito decorrente de honorários advocatícios inadimplidos.
+Como consignado, o risco inerente à atividade empresarial não pode ser transferido a terceiros que contratam com a pessoa jurídica, devendo ser suportado pelos sócios.
+A decisão colegiada também ressaltou que a desconsideração da personalidade jurídica foi fundamentada na Teoria Menor, aplicável nos casos em que a autonomia da pessoa jurídica se converte em entrave à satisfação do crédito, sobretudo em relações de consumo, como no presente caso.
+Dessa forma, não se verifica ofensa ao art. 1.022, II, tampouco ao art. 489, § 1º, IV, do CPC, porquanto todas as questões pertinentes foram adequadamente apreciadas, ainda que em sentido contrário ao interesse da parte recorrente.
+É firme a jurisprudência desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DESERÇÃO DO ESPECIAL. OMISSÃO AUSÊNCIA. MERO INCONFORMISMO. ACÓRDÃO EMBARGADO. FUNDAMENTAÇÃO. INEXATIDÃO MATERIAL. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA SANAR INEXATIDÃO MATERIAL, SEM EFEITOS INFRINGENTES.
+(..)
+3. Os embargos de declaração não permitem rediscussão de temas já decididos, salvo em hipóteses excepcionais de vícios previstos nos arts. 489 e 1.022 do CPC/2015.4. A decisão contrária aos interesses da parte no referente à deserção do especial não configura omissão.
+(..)
+Tese de julgamento: "1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015, por omissão, quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. 2. O erro material caracterizado por inexatidão perceptível à primeira vista e cuja correção, em regra, não modifica o conteúdo decisório do julgado, pode ser corrigido a qualquer tempo".
+(EDcl no AgInt nos EDcl no AREsp n. 2.849.215/MT, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 27/10/2025, DJEN de 3/11/2025.)
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO. PENHORA DE DIREITOS AQUISITIVOS DECORRENTES DE CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. ALEGAÇÃO DE IMPENHORABILIDADE POR SE TRATAR DE BEM DE FAMÍLIA. ÔNUS DA PROVA INCUMBENTE AO DEVEDOR. AUSÊNCIA DE COMPROVAÇÃO DE QUE O IMÓVEL É UTILIZADO COMO RESIDÊNCIA ÚNICA E PERMANENTE DA ENTIDADE FAMILIAR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO SUFICIENTE E MOTIVADA. ENTENDIMENTO ALINHADO À JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+(..)
+6. Não há violação aos arts. 11, 489, § 1º, III e IV, e 1.022, I e II, do CPC/2015, pois o acórdão recorrido enfrentou de forma motivada e suficiente as questões relevantes, não se confundindo decisão contrária aos interesses da parte com ausência de fundamentação.
+IV DISPOSITIVO
+7. Agravo não conhecido.
+(AREsp n. 2.851.110/GO, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 27/10/2025, DJEN de 30/10/2025.)
+No mais, o cerne da controvérsia devolvida a esta Corte diz respeito à aplicação da teoria menor da desconsideração da personalidade jurídica, prevista no art. 28, § 5º, do Código de Defesa do Consumidor.
+O recorrente sustenta a impossibilidade de sua aplicação pela mera constatação de insolvência ou ausência de bens penhoráveis, exigindo-se, segundo sua tese, a demonstração de abuso da personalidade, desvio de finalidade ou confusão patrimonial.
+Sobre o caso em análise, o Tribunal de origem, com base no acervo fático-probatório, concluiu pela presença dos requisitos autorizadores da medida, consignando que, na sistemática do Código de Defesa do Consumidor, a personalidade jurídica pode ser desconsiderada quando se apresentar como um obstáculo ao ressarcimento dos prejuízos causados ao credor.
+Ao assim decidir, o aresto se alinha com a posição dominante deste Tribunal Superior, no sentido de que, para a aplicação da teoria menor da desconsideração da personalidade jurídica, prevista no art. 28, § 5º, do CDC, basta a comprovação de que a personalidade jurídica representa um óbice ao adimplemento do crédito do consumidor, não se exigindo a prova de abuso ou fraude.
+Nesse sentido, cito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONHECIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28, § 5º, DO CDC. REQUISITOS PREENCHIDOS. REANÁLISE DE FATOS E PROVAS. SÚMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. A
+aplicação da teoria menor da desconsideração da personalidade jurídica, prevista no art. 28, § 5º, do CDC, prescinde de prova de fraude ou abuso de direito, bastando a demonstração de que a personalidade jurídica constitui obstáculo ao ressarcimento de prejuízos causados aos consumidores.
+2. A reversão do julgado para considerações sobre o grau de dificuldades impostas ao consumidor, existência de bens penhoráveis e continuidade do empreendimento a configurar sucessão empresarial demandaria reexame do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula 7 do STJ.
+3. O tipo societário das sociedades anônimas não é obstáculo para a desconsideração na forma do art. 28, §5º, do CDC.
+4. Agravo conhecido, com desprovimento do recurso.
+(AREsp n. 2.688.197/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/10/2025, DJEN de 17/10/2025.)
+AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. RELAÇÃO DE CONSUMO. INCLUSÃO DE SÓCIO NO POLO PASSIVO. OMISSÃO INEXISTENTE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SÚMULA 150 DO STF.
+I. CASO EM EXAME
+1. Agravo em recurso especial interposto contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça de São Paulo que reformou decisão originária para admitir a desconsideração da personalidade jurídica e incluir sócio no polo passivo da execução.
+II. QUESTÃO EM DISCUSSÃO
+2. Discute-se a aplicação da Teoria Menor da desconsideração da personalidade jurídica, prevista no art. 28, § 5º, do Código de Defesa do Consumidor, e a ocorrência de prescrição da pretensão executória.
+III. RAZÕES DE DECIDIR
+3. A jurisprudência do Superior Tribunal de Justiça admite a desconsideração da personalidade jurídica nas relações de consumo quando demonstrada a insolvência da empresa ou quando a personalidade jurídica representa obstáculo ao ressarcimento dos prejuízos causados ao consumidor.
+4. A alegação de omissão quanto à responsabilidade do sócio minoritário foi enfrentada pelo Tribunal de origem, inexistindo vício no acórdão. A revisão da matéria demandaria reexame de provas, vedado em recurso especial, conforme Súmula 7 do STJ.
+5. Rever o entendimento do acórdão recorrido exigiria reexame de matéria fática, o que é vedado em sede de recurso especial, conforme Súmula 7 do STJ.
+6. A prescrição da pretensão executória segue o mesmo prazo da ação principal, nos termos da Súmula 150 do STF, com termo inicial a partir do trânsito em julgado da sentença.
+7. Agravo conhecido para conhecer parcialmente do recurso especial interposto e, na parte conhecida, negar-lhe provimento.
+(AREsp n. 1.896.528/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/9/2025, DJEN de 2/10/2025.)
+AGRAVO INTERNO NO RECURSO ESPECIAL (ART. 105, INC. III, "a" e "c", da CRFB/88) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA ACOLHIDO PELAS INSTÂNCIAS ORDINÁRIAS. INSURGÊNCIA DOS ADMINISTRADORES NÃO-SÓCIOS. TEORIA MENOR DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - CÓDIGO DE DEFESA DO CONSUMIDOR - AUSÊNCIA DE PREVISÃO NORMATIVA ESPECÍFICA PARA APLICAÇÃO DO § 5º DO ART. 28 AOS ADMINISTRADORES NÃO-SÓCIOS - IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA.
+Hipótese: incidente de desconsideração da personalidade jurídica requerido com fulcro no artigo 28, parágrafo 5º, do Código de Defesa do Consumidor, e acolhido pelas instâncias ordinárias, à luz da teoria menor, para responsabilização de administradores não-sócios.
+1. O parágrafo 5º do artigo 28 do Código de Defesa do Consumidor, lastreado na teoria menor, é autônomo em relação ao caput e incide em hipóteses mais amplas/flexíveis, isto é, sem a necessidade de observância aos requisitos como abuso da personalidade jurídica, prática de ato ilícito ou infração à lei ou estatuto social;
+aplica-se, portanto, em casos de mero inadimplemento em que se observe, por exemplo, a ausência de bens de titularidade da pessoa jurídica, hábeis a saldar o débito. Com efeito, dada especificidade do parágrafo em questão, e as consequências decorrentes de sua aplicação - extensão da responsabilidade obrigacional -, afigura-se inviável a adoção de um interpretação extensiva, com a atribuição da abrangência apenas prevista no artigo 50 do Código Civil, mormente no que concerne à responsabilização de administrador não sócio.
+1.1 "O art. 50 do CC, que adota a teoria maior e permite a responsabilização do administrador não-sócio, não pode ser analisado em conjunto com o parágrafo 5º do art. 28 do CDC, que adota a teoria menor, pois este exclui a necessidade de preenchimento dos requisitos previstos no caput do art. 28 do CDC permitindo a desconsideração da personalidade jurídica, por exemplo, pelo simples inadimplemento ou pela ausência de bens suficientes para a satisfação do débito. Microssistemas independentes". (REsp n. 1.658.648/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 7/11/2017, DJe de 20/11/2017) 1.2 Na hipótese, a partir da leitura da decisão proferida pelo magistrado singular e do acórdão recorrido, observa-se que a desconsideração da personalidade jurídica operou-se com base exclusivamente no artigo 28, parágrafo 5º, do Código de Defesa do Consumidor (teoria menor), ante a ausência de bens penhoráveis de titularidade da executada, não tendo sido indicada, tampouco demonstrada, pelos requerentes, a prática de qualquer abuso, excesso ou infração ao estatuto social e/ou à lei.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.004.720/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/8/2025, DJEN de 22/8/2025.)
+Incide, portanto, o óbice do enunciado da Súmula n. 83/STJ, que inviabiliza o processamento do recurso especial quando a decisão de origem encontra-se em consonância com a jurisprudência pacífica desta Corte Superior, tanto sob a alínea a quanto sob a alínea c do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Dessarte, como não houve fixação de honorários na origem, por se tratar de agravo de instrumento em incidente processual, deixo de aplicar o art. 85, § 11, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
