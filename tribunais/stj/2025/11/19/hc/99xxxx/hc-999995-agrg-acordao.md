@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. TRÂNSITO EM JULGADO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO ESPECIAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+3. No caso concreto, o habeas corpus se insurge contra acórdão de apelação proferido em 12/4/2022 e, diversamente dos demais corréus, o paciente não interpôs Recurso Especial contra a mencionada decisão colegiada. A impetração ocorreu depois do trânsito em julgado da condenação para o paciente, de modo que o presente writ é substitutivo de revisão criminal.
+4. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOÃO ANTÔNIO ZAMBERLAN interpõe agravo regimental contra decisão monocrática em que não conheci do habeas corpus.
+Consta dos autos que o paciente foi condenado pelo Tribunal Regional Federal da 4ª Região, com trânsito em julgado em 12/04/2022, sem que tenha sido interposto recurso especial.
+O agravante aduz, em síntese, que o habeas corpus não deve ser considerado substitutivo de revisão criminal, pois visa a combater coação ilegal atual decorrente de vícios na dosimetria da pena, especificamente: a) pena-base fixada acima do mínimo com vetores negativos sem fundamentação concreta; b) majoração desproporcional na segunda fase com bis in idem; c) reconhecimento de concurso material onde seria cabível a continuidade delitiva. Sustenta a competência do STJ com base no art. 105, I, "c", da Constituição Federal, uma vez que a autoridade coatora é o TRF da 4ª Região.
+Argumenta que o trânsito em julgado e a ausência de interposição de recurso especial não obstam o habeas corpus quando há coação ilegal manifesta.
+Requer, assim, a reconsideração da decisão agravada.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA DA PENA. TRÂNSITO EM JULGADO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO ESPECIAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados.
+2. Esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+3. No caso concreto, o habeas corpus se insurge contra acórdão de apelação proferido em 12/4/2022 e, diversamente dos demais corréus, o paciente não interpôs Recurso Especial contra a mencionada decisão colegiada. A impetração ocorreu depois do trânsito em julgado da condenação para o paciente, de modo que o presente writ é substitutivo de revisão criminal.
+4. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pelo agravante, entendo que não lhe assiste razão.
+O habeas corpus impetrado se insurge contra acórdão de apelação proferido em 12/4/2022. Diversamente dos demais corréus, o paciente não interpôs Recurso Especial contra a mencionada decisão colegiada, conforme é possível verificar em consulta aos respectivos autos conexos distribuídos a este gabinete (AREsp n. 2.004.783/PR). Logo, a impetração, cuja inicial foi distribuída em 29/4/2025, ocorreu depois do trânsito em julgado da condenação para a ora paciente, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, nego provimento ao agravo regimental.
