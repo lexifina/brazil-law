@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RODRIGO RAMOS DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem (HC nº 2252122-98.2025.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 05/04/2025, em razão de investigação que apura crime de extorsão mediante sequestro, supostamente praticado em contexto de organização criminosa armada , na cidade de Tatuí/SP, tendo como vítima pessoa idosa. A prisão foi posteriormente convertida em preventiva.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem (e-STJ fl. 43):
+HABEAS CORPUS - EXTORSÃO MEDIANTE SEQUESTRO QUALIFICADA E ORGANIZAÇÃO CRIMINOSA ARMADA - PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - SUBSISTÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXTREMA - FATOS EXTREMAMENTE GRAVES - RISCO À ORDEM PÚBLICA EVIDENTE - INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS AO CÁRCERE - IMERSÃO EM MATÉRIA FÁTICO-PROBATÓRIA INCOMPATÍVEL COM A VIA ELEITA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM DENEGADA.
+Alega a impetração que a segregação cautelar é ilegal, por ausência dos requisitos autorizadores da prisão preventiva, sustentando que a medida foi baseada unicamente em declarações de corréus interessados, desprovidas de corroboração por elementos autônomos de prova. Argumenta que inexiste risco à ordem pública, à instrução criminal ou à aplicação da lei penal, destacando que o paciente é primário, possui residência fixa, atividade lícita e comportamento colaborativo durante toda a investigação.
+Defende, ainda, que o paciente apresenta álibi robusto, tendo permanecido em sua residência durante o período dos fatos, conforme registros de câmeras de segurança. Sustenta que os elementos que ligam o paciente ao crime são frágeis, baseados em ilações e contatos telefônicos não comprovados, sendo um deles registrado apenas com a letra "R" no celular de corréu, sem comprovação técnica de titularidade.
+A impetração também ataca a ausência de fundamentação idônea na decisão que converteu a prisão temporária em preventiva, afirmando que o juízo de origem não indicou concretamente os requisitos do artigo 312 do Código de Processo Penal, tampouco analisou a possibilidade de aplicação de medidas cautelares diversas previstas no artigo 319 do CPP.
+Diante disso, requer a concessão da ordem, com a consequente revogação da prisão preventiva, ou subsidiariamente, a substituição da custódia por medidas cautelares diversas.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+No caso, a defesa deixou de apresentar o conteúdo da decisão de primeiro grau que converteu a prisão temporária em prisão preventiva. Assim, o writ não foi corretamente instruído com as peças processuais indispensáveis à compreensão da controvérsia.
+Cito como exemplo caso semelhante:
+PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. WRIT INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. DECRETO PRISIONAL NÃO ACOSTADO AOS AUTOS. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO. RECURSO IMPROVIDO. 1. No caso, não foi trazido aos autos o decreto de prisão preventiva, limitando-se o impetrante a juntar cópia do mandado de prisão, o que impossibilita a análise das alegações trazidas pela defesa.
+2. Reconsideração recebida como agravo regimental, ao qual se nega provimento.
+(RCD no HC 532.916/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+AGRAVO REGIMENTAL CONTRA O NÃO CONHECIMENTO DE RECURSO EM HABEAS CORPUS. PRISÃO CAUTELAR MANTIDA NA SENTENÇA. FALTA DE CÓPIA DO DECRETO ORIGINAL DE PRISÃO. WRIT NÃO CONHECIDO NA ORIGEM EM RAZÃO DA INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE ILEGALIDADE. TEMA DE FUNDO NÃO ENFRENTADO PELO TRIBUNAL ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+1. Inexiste violação do princípio da colegialidade, nos termos do art. 34, XX, do RISTJ, quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça.
+2. Hipótese em que o impetrante não se desincumbiu do seu dever de possibilitar o adequado enfrentamento da matéria pelo Tribunal de origem, por não haver juntado aos autos do writ originário cópia da decisão que decretou a prisão preventiva do ora agravante, não havendo como se enfrentar a questão diretamente nesta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental improvido.
+(AgRg no RHC 99.489/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
