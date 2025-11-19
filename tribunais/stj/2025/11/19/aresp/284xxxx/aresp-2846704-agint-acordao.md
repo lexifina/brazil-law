@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO QUE DECIDE PELA MANUTENÇÃO DA DECISÃO QUE CONCEDEU A TUTELA ANTECIPADA. INCIDÊNCIA DA SÚMULA N. 735 DO STF, POR ANALOGIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Este Superior Tribunal de Justiça possui entendimento consolidado no sentido de que o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, via de regra, não é cabível contra acórdão que defere ou nega medida liminar. Precedentes.
+2. No caso, a pretensão da ora Recorrente é rever entendimento judicial que decidiu pelo acerto da decisão de primeira instância que havia deferido a tutela provisória, o que é vedado na via do recurso especial, conforme redação da Súmula n. 735 do STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+3. A revisão do julgamento que analisou a tutela antecipada encontra óbice, também, na Súmula n. 7 do STJ, diante da necessidade de revolvimento do contexto fático a fim de verificar se há ou não a presença dos requisitos autorizadores: probabilidade do direito e perigo na demora.
+4. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto pela COMISSÃO NACIONAL DE ENERGIA NUCLEAR contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial nestes termos (fls. 124-125):
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Não há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" ;(AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510 /GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020 ; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020 ; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Alega a parte agravante, em suma, que houve efetivo prequestionamento da tese recursal sobre prescrição do fundo de direito, fundada nos arts. 1º e 4º do Decreto n. 20.910/1932. Sustenta que houve ato administrativo único, em 2008, que suprimiu a cumulação entre a gratificação de raios-X e o adicional de irradiação ionizante, com o ajuizamento da ação após o quinquênio, o que caracterizaria prescrição do próprio fundo de direito (fls. 133-140).
+Ao fim, requer a reconsideração da decisão para conhecer e prover o recurso especial ou, subsidiariamente, a submissão do agravo interno ao colegiado.
+Sem impugnação (fls. 145-150).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO QUE DECIDE PELA MANUTENÇÃO DA DECISÃO QUE CONCEDEU A TUTELA ANTECIPADA. INCIDÊNCIA DA SÚMULA N. 735 DO STF, POR ANALOGIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Este Superior Tribunal de Justiça possui entendimento consolidado no sentido de que o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, via de regra, não é cabível contra acórdão que defere ou nega medida liminar. Precedentes.
+2. No caso, a pretensão da ora Recorrente é rever entendimento judicial que decidiu pelo acerto da decisão de primeira instância que havia deferido a tutela provisória, o que é vedado na via do recurso especial, conforme redação da Súmula n. 735 do STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+3. A revisão do julgamento que analisou a tutela antecipada encontra óbice, também, na Súmula n. 7 do STJ, diante da necessidade de revolvimento do contexto fático a fim de verificar se há ou não a presença dos requisitos autorizadores: probabilidade do direito e perigo na demora.
+4. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+VOTO
+Ante os argumentos trazidos pela agravante, afasto o óbice de ausência de prequestionamento, passando à análise das razões do agravo em recurso especial.
+Satisfeitos os requisitos de admissibilidade do agravo, tendo em vista, notadamente, que a parte agravante impugnou, de forma suficiente, os óbices elencados na decisão de inadmissibilidade proferida pelo Tribunal de origem, passo ao exame do recurso especial.
+Nas razões do apelo nobre (fls. 72-84), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte recorrente sustentou violação dos arts. 1º e 4º, do Decreto n. 20.910/1932, alegando a prescrição do fundo de direito por ato administrativo único de efeitos concretos que suprimiu a cumulação da gratificação de raio-X com o adicional de irradiação ionizante.
+A despeito dos argumentos veiculados no recurso, a insatisfação não merece provimento.
+Na origem, cuida-se de agravo de instrumento interposto pela ora Recorrente contra decisão do Juízo de primeiro grau, proferida nos autos da Ação Originária n. 5018849-40.2023.4.03.6100, que deferiu a tutela provisória de urgência para determinar o pagamento aos autores, ora Recorridos, da gratificação de raio-x ou substâncias radioativas, sem prejuízo do adicional de irradiação ionizante, desde que preenchidos os demais pressupostos legais.
+Verifica-se que a pretensão da Recorrente é rever entendimento judicial que decidiu pelo acerto da decisão de primeira instância que havia deferido a tutela provisória, o que é vedado na via do recurso especial, consoante estabelecido na Súmula n. 735 do STF, que aduz que o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, em regra, não é cabível contra acórdão que defere ou nega medida liminar.
+Nessa linha de entendimento (sem destaques no original):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. TUTELA ANTECIPADA. NATUREZA PRECÁRIA E PROVISÓRIA. REAVALIAÇÃO. INADMISSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte.
+2. É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 735 do STF.
+3. A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal: "causas decididas em única ou última instância".
+4. Esta Corte de Justiça admite a mitigação do referido enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (CPC/2015, em seu art. 300, correspondente ao art. 273 do CPC/1973), hipótese aqui não verificada.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.526.963/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. REEXAME DE DECISÃO QUE INDEFERE ANTECIPAÇÃO DE TUTELA. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu, fundamentadamente, a matéria submetida à sua apreciação, manifestando-se acerca dos temas necessários ao integral deslinde da controvérsia, não havendo falar em omissão, contradição, obscuridade ou erro material, afastando-se, por conseguinte, a alegada violação ao art. 1.022 do CPC/2015.
+2. Não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+3. Nos termos da Súmula 735 do STF, aplicável, ao caso, por analogia, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, notadamente quando for necessária a interpretação das normas que dizem respeito ao mérito da causa, como no caso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.286.654/SC, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Esta Corte Superior tem mitigado a aplicação do óbice antes mencionado na hipótese em que a concessão da medida liminar e o deferimento da antecipação de tutela caracterizar ofensa direta à lei federal que o regulamenta, desde que dispense a interpretação das normas concernentes ao mérito da causa, o que não ocorre no presente caso.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAJUSTE SALARIAL. AÇÃO RESCISÓRIA. REPERCUSSÃO GERAL. TUTELA DE URGÊNCIA. SÚMULAS N. 735 DO STF E 7 DO STJ. SUPERAÇÃO. OBSERVÂNCIA DE PRECEDENTE VINCULANTE. APLICAÇÃO IMEDIATA. AGRAVO PROVIDO.
+1. Esta Corte admite a mitigação da Súmula n. 735/STF nas hipóteses em que a concessão da medida liminar e o deferimento da antecipação de tutela caracterizar ofensa direta à lei federal que o regulamenta, desde que dispense a interpretação das normas concernentes ao mérito da causa (AgInt no AREsp n. 1.112.803/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/4/2021, DJe de 28/4/2021).
+ ..
+5. Agravo interno provido.
+(AgInt no AREsp n. 1.512.645/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 3/9/2024, DJe de 12/9/2024; sem grifos no original.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TUTELA DE URGÊNCIA. INDISPONIBILIDADE DE BENS. IMPROBIDADE ADMINISTRATIVA. SÚMULA 735 DO STF. SUPERAÇÃO. ALTERAÇÃO LEGISLATIVA. APLICAÇÃO IMEDIATA.
+1. O STJ vem mitigando a aplicação da Súmula 735 do STF nas hipóteses em que a concessão da medida liminar e o deferimento da antecipação de tutela caracterizar ofensa direta à lei federal que o regulamenta, desde que dispense a interpretação das normas concernentes ao mérito da causa. (AgInt no AREsp 1.112.803/SP, rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 28/04/2021.)
+ ..
+6. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.272.508/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/2/2024, DJe de 21/3/2024; sem grifos no original.)
+A par disso, a revisão do julgamento que analisou a tutela antecipada encontra óbice na Súmula n. 7 do STJ, diante da necessidade de revolvimento do contexto fático a fim de verificar se há ou não a presença dos re quisitos autorizadores: probabilidade do direito e perigo na demora.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA REVOGAÇÃO DE TUTELA PROVISÓRIA DE URGÊNCIA. ACÓRDÃO PELO PARCIAL PROVIMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECISÃO NÃO DEFINITIVA. REVISÃO VINCULADA AO EXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3 /2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. À luz do art. 105, inc. III, da Constituição Federal, o recurso especial não é a via recursal adequada à revisão de decisão precária, não definitiva, e, por isso, via de regra, não é cabível contra acórdão que defere ou nega tutela de urgência. Observância da Súmula 735 do STF.
+4. No caso dos autos, considerado o teor do acórdão recorrido, não se pode conhecer do recurso, quanto à tese de violação do art. 300 do CPC/2015, porque a questão a respeito do deferimento da tutela de urgência está, estritamente, vinculada ao exame de fatos e provas. Observância da Súmula 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.096.821/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/5/2024, DJe de 5/6/2024 - sem destaque no original)
+Ante o exposto, com fundamento no art. 932 do CPC, DOU PROVIMENTO ao agravo interno, para CONHECER do agravo e NÃO CONHECER do recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+É o voto.
