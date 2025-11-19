@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA. VIA JUDICIAL. PONTOS NÃO ATRIBUÍDOS A TODOS OS CANDIDATOS. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA VINCULAÇÃO AO EDITAL. IMPETRAÇÃO EM 120 DIAS DA CIÊNCIA DO ATO COATOR. DECADÊNCIA AFASTADA. AGRAVO INTERNO DESPROVIDO.
+1. O prazo de 120 dias para impetração do mandado de segurança tem início na data em que a parte impetrante toma conhecimento do ato apontado como coator, nos termos do art. 23 da Lei 12.016/2009.
+2. No caso, a Administração deu ciência apenas em 13/11/2023 à parte impetrante do indeferimento de seu recurso sobre a lista de homologação final do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-201, regido pelo Edital/2014.
+3. Conta-se a partir de então o prazo para impetração do mandado de segurança cujo objeto é, justamente, a observância à previsão editalícia quanto ao disposto no item 17.8, ao prever que "o ponto correspondente à anulação de questão da Prova Objetiva de Múltipla Escolha, em razão do julgamento de recurso será atribuído a todos os candidatos".
+4.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pelo ESTADO DO RIO DE JANEIRO contra  a  decisão  que deu provimento ao recurso em mandado de segurança, para afastar a decadência e determinar o retorno dos autos à Corte de origem, a fim de que prossiga no julgamento do feito.
+Argumenta  a  parte agravante,  em  síntese,  que houve decadência pois o seu termo inicial é a data da reprovação do impetrante no concurso público, ocorrida em 2014.
+Defende, ainda, a impossibilidade: i) de extensão dos efeitos da coisa julgada firmada nos autos de outros processos a quem não foi parte; e ii) de revisão, pelo Poder Judiciário, dos critérios de correção utilizados pela banca examinadora do concurso público.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 1.188).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. SOLDADO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES DA PROVA OBJETIVA. VIA JUDICIAL. PONTOS NÃO ATRIBUÍDOS A TODOS OS CANDIDATOS. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA VINCULAÇÃO AO EDITAL. IMPETRAÇÃO EM 120 DIAS DA CIÊNCIA DO ATO COATOR. DECADÊNCIA AFASTADA. AGRAVO INTERNO DESPROVIDO.
+1. O prazo de 120 dias para impetração do mandado de segurança tem início na data em que a parte impetrante toma conhecimento do ato apontado como coator, nos termos do art. 23 da Lei 12.016/2009.
+2. No caso, a Administração deu ciência apenas em 13/11/2023 à parte impetrante do indeferimento de seu recurso sobre a lista de homologação final do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-201, regido pelo Edital/2014.
+3. Conta-se a partir de então o prazo para impetração do mandado de segurança cujo objeto é, justamente, a observância à previsão editalícia quanto ao disposto no item 17.8, ao prever que "o ponto correspondente à anulação de questão da Prova Objetiva de Múltipla Escolha, em razão do julgamento de recurso será atribuído a todos os candidatos".
+4.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Na origem, cuida-se de mandado de segurança impetrado contra ato atribuído ao Secretário de Estado de Polícia Militar do Rio de Janeiro que indeferiu o pedido de atribuição da pontuação de questões cuja anulação teria sido obtida por outros candidatos, consoante prova emprestada.
+Nas razões do recurso ordinário, o recorrente defende a não consumação do prazo decadencial, ao argumento de que o ato coator objeto do mandamus é o indeferimento de seu recurso administrativo, ocorrido em 13 de novembro de 2023.
+O Tribunal de origem, monocraticamente, indeferiu a inicial e julgou extinto o feito sem resolução do mérito, registrando que, "considerando a publicação do resultado em 28 de outubro de 2014 e a distribuição do presente mandamus em 29/02/2024, conclui-se pelo reconhecimento da decadência" (fl. 61).
+Interposto agravo regimental, o Tribunal a quo decidiu com os seguintes fundamentos:
+Na origem, cuida-se de mandado de segurança em que se deduz a existência de direito líquido e certo à anulação de questões alegadamente teratológicas e em dissonância com o conteúdo programático constante do edital do concurso público de ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO - CFSD/PMERJ-2014.
+É consabido que quando o impetrante impugna a desclassificação no concurso público, o termo a quo para o lapso decadencial coincide com a data da publicação da eliminação do candidato, ainda que a causa de pedir envolva questionamento de critério editalício.
+Neste mesmo sentido, já se manifestou o STJ: O prazo decadencial do mandado de segurança inicia-se com o ato administrativo que determina a eliminação do candidato do certame, momento em que a regra editalícia passa a afetar seu direito subjetivo, legitimando-o para a impetração.
+Precedentes, inclusive da Corte Especial. (STJ, RMS 32.216/AM, Primeira Turma, Rel. Ministro Sérgio Kukina, julgado em: 16/05/2013, publicado em: 21/05/2013).
+Reitera-se que o mandado de segurança deve ser impetrado dentro de 120 dias contados da ciência pelo interessado do ato de autoridade abusivo.
+ ..
+Sobreleva mencionar, por oportuno, que este prazo não se interrompe com a interposição pelo impetrado de recurso administrativo. Assinala a Súmula de nº 430 do STF:
+Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança.
+ ..
+Desta forma, extrai-se das informações presentes no site oficial da banca examinadora, que o resultado definitivo da primeira etapa do certame (prova objetiva) foi publicado em 28/10/2014, data em que o impetrante tomou ciência inequívoca do ato de sua reprovação.
+Assim, observa-se que o prazo decadencial de 120 dias para a impetração de Mandado de Segurança teve seu fim em janeiro de 2015 (fls. 167-170).
+O impetrante esclarece que 4 questões da prova objetiva da disciplina de história foram anuladas judicialmente e, após o trânsito em julgado das decisões judiciais, requereu administrativamente ao Secretário de Estado de Polícia Militar do Estado do Rio de Janeiro a aplicação do item 17.8. do Edital do Concurso, que determina que o ponto correspondente à anulação de questão da Prova Objetiva de Múltipla Escolha deverá ser atribuído a todos os candidatos.
+O referido requerimento foi indeferido pela autoridade apontada como coatora em 13/11/2023.
+Nos termos da jurisprudência do STJ, o prazo decadencial para impetrar mandado de segurança deve ser contado a partir do ato impugnado, conforme previsão do art. 23 da Lei 12.016/2009, no caso, a data da ciência inequívoca do indeferimento do recurso administrativo manejado pelo candidato.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. POLICIAL MILITAR ESTADUAL. SINDICÂNCIA MERITÓRIA. PRETENSÃO DE CONCESSÃO DE PROMOÇÃO POR ATO DE BRAVURA. ACIDENTE CÉSIO 137. INDEFERIMENTO. DECADÊNCIA DO DIREITO À IMPETRAÇÃO. INOCORRÊNCIA. TERMO INICIAL. DATA DA CIÊNCIA DO ATO INDEFERITÓRIO DO PLEITO DE PROMOÇÃO, EXARADO PELA COMISSÃO DE PROMOÇÃO DE OFICIAS DA POLÍCIA MILITAR DO ESTADO DE GOIÁS. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. "O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado" (art. 23, da Lei 12.016/2009).
+V. Esta Corte perfilha entendimento no sentido de que "a fluência do prazo decadencial para a impetração do Mandado de Segurança se inicia na data em que o ato se torna capaz de produzir lesão ao direito do impetrante" (STJ, AgRg no MS 14.178/DF, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe de 17/04/2009). Na mesma linha:
+STJ, REsp 1.757.445/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 21/11/2018; AgRg no RMS 41.730/PA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/02/2014; AgRg no RMS 33.630/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 12/06/2013; AgRg no RMS 21.127/PR, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 27/08/2012; AgRg no REsp 959.999/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJe de 11/05/2009.
+VI. Insurgindo-se o impetrante por meio do presente writ em face de ato administrativo da Comissão de Promoção de Oficiais da Polícia Militar do Estado de Goiás, que indeferiu o pedido de promoção por ato de bravura postulada pelo recorrente, nos autos da Sindicância Meritória 2014.02.09850, certo é que a fluência do prazo decadencial previsto no art. 23 da Lei 12.016/2006 se inicia no dia seguinte à data em que o referido ato tornou-se capaz de produzir lesão ao direito do impetrante, ou quando o impetrante vem a ter ciência inequívoca do ato tido por ilegal, o que se deu com a publicação do referido ato no Diário Oficial Eletrônico 01/2017, de 06/01/2017, findando-se, assim, em 08/05/2017, segunda-feira. Portanto, considerando que o writ foi impetrado em 05/05/2017, não há que se falar em decadência do direito à impetração.
+VII. Agravo interno improvido (AgInt no RMS 57.896/GO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+Assim, não decorreu o prazo decadencial, pois a impetração data de 28/2/2024 e o ato coator, conforme já destacado, foi proferido em 13/11/2023.
+No mesmo sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES. DECADÊNCIA. TERMO INICIAL. INDEFERIMENTO ADMINISTRATIVO. AFASTAMENTO DA DECADÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+I - Trata-se de recurso ordinário em mandado de segurança impetrado contra ato do Secretário de Polícia Militar do Estado do Rio de Janeiro, visando ao cumprimento do item 17.8 do edital do concurso público, em razão da anulação de questões da prova objetiva por outros candidatos.
+II - O Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança, reconhecendo a decadência com base no art. 23 da Lei n. 12.016/09, considerando que o prazo decadencial inicia-se com a ciência inequívoca do ato impugnado.
+III - A Segunda Turma do STJ, em 11/3/2025, no julgamento do RMS n. 74.059/RJ, relativo ao mesmo concurso e à unanimidade, firmou o entendimento de que o prazo decadencial tem início com o indeferimento administrativo do pedido de extensão dos pontos decorrentes da anulação das questões da disciplina de História correspondentes aos enunciados 21, 22 e 24 da prova azul do concurso público de admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014.
+IV - A impetração do mandado de segurança ocorreu dentro do prazo legal, sendo necessário o afastamento da decadência, com o retorno dos autos ao Tribunal de origem para prosseguir no julgamento das demais questões do mandado de segurança.
+V - Recurso ordinário provido (RMS 74.781/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025).
+Isso posto, nego provimento ao recurso.
