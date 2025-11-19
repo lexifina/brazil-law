@@ -1,0 +1,77 @@
+DECISÃO
+Cuida-se de agravo de RICHARDSSON TEODORA DE OLIVEIRA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 7011121-11.2023.8.22.0001.
+Consta dos autos que o agravante foi condenado pela prática do delitos tipificados nos artigos 121, § 2º, II e IV, 150, § 1º, 157, § 2º, II e V, § 2º-A, I, todos do Código Penal e 14 da Lei n. 10.826/03, todos na forma do art. 69 do CP (homicídio qualificado, violação de domicílio qualificada, roubo majorado e porte ilegal de arma de fogo), à pena de 24 anos e 06 meses de reclusão, em regime inicial fechado, e 35 dias-multa (fls. 569/573).
+Recurso de apelação interposto pela defesa foi desprovido, enquanto que o da acusação foi parcialmente provido para fixar "a pena de 25 anos e 04 meses de reclusão e 06 meses de detenção, no regime inicial FECHADO, para o réu RICHARDSON " (fl. 722). O acórdão ficou assim ementado:
+"DIREITO PENAL. APELAÇÃO CRIMINAL. CRIMES DE HOMICÍDIO QUALIFICADO, ROUBO MAJORADO, PORTE ILEGAL DE ARMA DE FOGO E VIOLAÇÃO DE DOMICÍLIO. RECURSOS DEFENSIVOS IMPROVIDOS. RECURSO MINISTERIAL PARCIALMENTE PROVIDO PARA EXASPERAÇÃO DA PENA. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+I. Caso em exame
+1. Recursos. Apelações interpostas pelos réus contra sentença condenatória proferida pelo Juízo de Direito da 1ª Vara do Tribunal do Júri da Comarca de Porto Velho/RO, bem como apelação do Ministério Público.
+2. Condenação. O primeiro apelante foi condenado pelos crimes previstos nos arts. 121, §2º, II e IV, 150, §1º, 157, §2º, II e V, e §2º-A, I, do CP, e art. 14 da Lei nº 10.826/03, à pena de 24 anos e 6 meses de reclusão. O segundo apelante foi condenado pelos crimes dos arts. 121, §2º, II e IV, 150, §1º, do CP, e art. 14 da Lei nº 10.826/03, à pena de 14 anos e 6 meses de reclusão.
+3. Recursos defensivos. Inexistência de roubo, absorção do crime de porte ilegal de arma de fogo pelo homicídio e revisão da dosimetria da pena.
+4. Recurso ministerial. Pleito de valoração negativa de circunstâncias judiciais na fixação da pena, em especial culpabilidade e conduta social.
+II. Questão em discussão"
+1. A questão em discussão consiste em:
+(i) verificar a regularidade dos recursos defensivos à luz do princípio da dialeticidade;
+(ii) examinar a caracterização do crime de rouvo;
+(iii) avaliar a possibilidade de absorção do crime de porte ilegal de arma de fogo pelo homicídio qualificado;
+(iv) aferir a adequação da dosimetria da pena, conforme pleito ministerial.
+III. Razões de decidir
+1. Inobservância ao princípio da dialeticidade. Parte do recurso do réu não foi conhecida por ausência de fundamentação específica, em conformidade com o art. 577, parágrafo único, do CPP e entendimento consolidado do STJ e dos Tribunais Estaduais.
+2. Crime de roubo. O depoimento da vítima, corroborado por imagens e outras provas, demonstrou a grave ameaça exercida pelo apelante Richardson no momento da subtração dos bens, configurando o delito previsto no art. 157 do CP.
+3. Porte ilegal de arma de fogo. O porte de arma pelos réus não se limitou ao contexto do homicídio, tendo ocorrido de forma autônoma antes e após o crime, afastando a aplicação do princípio da consunção. Jurisprudência do STJ confirma a independência típica dos delitos.
+4. Dosimetria da pena. Reconhecida a culpabilidade acentuada dos réus em razão da premeditação do homicídio. A conduta social negativa foi evidenciada pela vinculação dos acusados à facção criminosa. Readequação da pena conforme precedentes do STJ.
+IV. Dispositivo e tese
+Recursos defensivos conhecidos e improvidos. Recurso ministerial conhecido e parcialmente provido para majorar a pena dos réus.
+Tese de julgamento:
+2. "A inobservância ao princípio da dialeticidade recursal impede o conhecimento total do recurso que não apresenta fundamentação específica quanto aos pontos impugnados da decisão."
+3. "O crime de roubo se caracteriza pela subtração de bem alheio mediante grave ameaça ou violência, sendo suficiente para sua consumação a redução da resistência da vítima, independentemente de oposição física."
+4. "O crime de porte ilegal de arma de fogo não se submete ao princípio da consunção quando praticado de forma autônoma antes ou após o crime fim, configurando delito independente."
+5. "A premeditação do homicídio e a vinculação do agente a facção criminosa podem ser consideradas na dosimetria da pena para valorar negativamente a culpabilidade e a conduta social do réu." (fl. 722/723)
+Em sede de recurso especial (fls. 746/757), a defesa aponta violação ao artigo 593, § 3º, do CPP, ao argumento de que a decisão do Tribunal do Júri teria sido manifestamente contrária à prova dos autos ao não aplicar o princípio da consunção entre os crimes de homicídio qualificado e porte ilegal de arma de fogo.
+Requer, por esse motivo, o provimento do recurso especial para que seja anulado o julgamento do Tribunal do Júri e realizado novo julgamento.
+Contrarrazões do MINISTERIO PUBLICO DO ESTADO DE RONDONIA (fls. 760/766).
+O recurso especial foi inadmitido no TJRO em razão do óbice da Súmula 7/STJ (fls. 767/770).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 775/782).
+Contraminuta do Ministério Público (fls. 784/789).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos.
+Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento/provimento do recurso especial (fls. 803/807).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação ao artigo 593, § 3º, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA deu parcial provimento ao recurso ministerial, exasperando a pena do ora recorrente nos seguintes termos do voto do relator:
+"No que tange ao pedido de consunção, a defesa aduz que o crime de porte ilegal de arma de fogo deve ser absorvido pelo homicídio qualificado, pois o porte de arma foi o meio necessário para a execução do homicídio.
+Vejamos.
+No presente caso, não há que se falar na aplicação do princípio da consunção entre os crimes de porte ilegal de arma de fogo e homicídio qualificado. Isso porque, conforme descrito na denúncia, o delito de porte ilegal de arma ocorreu após o crime de homicídio, não guardando com este uma relação de dependência ou subordinação.
+A jurisprudência do Superior Tribunal de Justiça é clara ao estabelecer que a absorção do crime de porte ilegal de arma de fogo pelo delito de homicídio pressupõe que as condutas tenham sido praticadas em um mesmo contexto fático e que o porte da arma tenha ocorrido para a execução do homicídio. No entanto, ausente essa vinculação direta e exclusiva, não há que se falar em consunção, tratando-se de crime autônomo, como reconhecido no seguinte precedente:
+"A absorção do crime de porte ilegal de arma de fogo pelo delito de homicídio pressupõe que as condutas tenham sido praticadas em um mesmo contexto fático, guardando entre si uma relação de dependência ou de subordinação. Desse modo, o porte da arma de fogo deve ter como fim, exclusivo, a prática do crime de homicídio para ser absorvido como ante factum impunível. Ausente essa vinculação com o crime fim, não há falar em consunção, havendo, pois, crime autônomo de porte ou posse de arma de fogo" (AgRg no HC 684.750/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 15/02/2022, D Je 21/02/2022).
+No presente caso, verifica-se que os acusados continuaram portando arma de fogo mesmo após o homicídio, deslocando-se pela via pública armados e praticando outros delitos.
+Destaca-se, ainda, que, em seu depoimento, a vítima do roubo afirmou que um dos acusados escondeu a arma dentro de uma mochila antes de embarcar em um veículo de transporte por aplicativo, evidenciando a manutenção do porte ilícito do armamento mesmo após a consumação do homicídio.
+Ademais, é relevante destacar que os autos contêm imagens extraídas dos celulares e redes sociais dos réus, nas quais aparecem portando armas de fogo em diversos momentos. Embora tais registros não correspondam especificamente ao momento do crime descrito na denúncia, o conjunto probatório permite concluir que os réus já possuíam as armas antes da prática do homicídio, sem qualquer relação com este delito.
+Dessa forma, fica evidente que a aquisição, a posse e o porte das referidas armas configuram crimes autônomos, não se limitando a um meio exclusivo para a execução do homicídio. Assim, afasta-se a possibilidade de aplicação do princípio da consunção, uma vez que os delitos possuem existência independente e não guardam relação de subordinação entre si.
+Portanto, não há que se cogitar que o porte de arma tenha ocorrido unicamente para a execução do homicídio, pois sua utilização se estendeu para além do contexto do crime contra a vida, caracterizando um delito independente.
+Assim, conforme reiterada jurisprudência, a inexistência de subordinação entre os delitos impossibilita a aplicação do princípio da consunção, devendo o crime de porte ilegal de arma de fogo ser considerado de forma autônoma." (fl. 715).
+Extrai-se dos trechos acima que o Tribunal de Justiça do Estado de Rondônia negou provimento à apelação defensiva ao fundamento de que não se configura hipótese de aplicação do princípio da consunção entre os delitos de porte ilegal de arma de fogo e homicídio qualificado, tendo em vista que o crime de porte ilegal ocorreu após a consumação do homicídio, inexistindo relação de dependência entre as condutas, porquanto os acusados permaneceram portando o armamento mesmo depois de perpetrado o crime contra a vida, deslocando-se pela via pública armados e praticando outras infrações penais.
+Asseverou, ademais, que o acervo probatório contém imagens nas quais os réus aparecem portando armas em diversos momentos, permitindo concluir que já possuíam os armamentos anteriormente à prática do delito contra a vida.
+Dessa forma, o Tribunal a quo concluiu que a aquisição, a posse e o porte das referidas armas configuram delitos autônomos, afastando-se a possibilidade de consunção diante da inexistência de subordinação entre as infrações penais.
+Verifica-se, pois, que o entendimento adotado no acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, no sentido de que compete ao Conselho de Sentença à análise da incidência ou não do princípio da consunção entre os referidos delitos. A corroborar, citam-se precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. VIOLAÇÃO AO ART. 619 DO CPP. INOCORRÊNCIA. PLEITO DE RECONHECIMENTO DE LEGÍTIMA DEFESA PUTATIVA. IMPOSSIBILIDADE. AFASTAMENTO DAS QUALIFICADORAS. MANIFESTA IMPROCEDÊNCIA NÃO CONFIGURADA. PRINCÍPIO DA CONSUNÇÃO. COMPETÊNCIA DO CONSELHO DE SENTENÇA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à suposta violação do art. 619 do CPP por parte da instância ordinária, não há se falar em omissão do Tribunal local quanto às teses deduzidas, porquanto efetivamente houve pronunciamento do Tribunal a quo acerca dos temas, cumprindo asseverar que o julgador não é obrigado rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento, o que ocorreu na espécie.
+2. No caso dos autos, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade dos delitos, afastando a possibilidade de reconhecimento da legítima defesa, ante o conjunto fático-probatório acostado aos autos.
+3. Quanto à pretensão de decote das qualificadoras do motivo torpe e recurso que dificultou a defesa da vítima, esta "Corte Superior já firmou o entendimento de que não se pode admitir a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou às privilegiadoras, sob pena de ofensa ao princípio da soberania dos vereditos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária à prova dos autos" (HC n. 344.183/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017).
+4. Em relação ao princípio da consunção e o delito de porte de arma de fogo, consoante a jurisprudência deste Superior Tribunal de Justiça, recai sobre os jurados - e não sobre o juiz togado - a tarefa de decidir sobre a incidência do princípio da consunção entre a imputação de homicídio e dos delitos a ele conexos, sobretudo porque, em relação a cada um destes últimos, é submetido ao júri quesito absolutório genérico. (v. AgRg no REsp n. 2.092.564/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.).
+5. Assim, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ).
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.403.566/RR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2025, DJEN de 28/3/2025.)  g.n.
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REJEIÇÃO PARCIAL DA DENÚNCIA ANTE A APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. DEMONSTRAÇÃO DE INDÍCIOS DA AUTÔNOMIA DAS CONDUTAS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.,
+2. Reforço a orientação desta Corte de acordo com a qual "cabe ao conselho de sentença o reconhecimento da incidência do princípio da consunção do delito de porte ilegal de arma de fogo de uso permitido pelo delito de homicídio". Precedentes.
+3. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação desta Corte.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.323.116/SE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/6/2024, DJe de 24/6/2024.)  g.n.
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO E PORTE ILEGAL DE ARMA DE FOGO. INCIDÊNCIA DO PRINCÍPIO DA CONSUNÇÃO. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AGRAVO NÃO PROVIDO.
+1. Consoante a jurisprudência deste STJ, cabe aos jurados - e não ao juiz togado - decidir sobre a incidência do princípio da consunção entre a imputação de homicídio e dos delitos a ele conexos, mormente porque, em relação a cada um destes últimos, é submetido ao júri quesito absolutório genérico.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 2.092.564/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)  g.n.
+Dessarte, para superar o entendimento exarado pela Corte de origem seria necessário o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+ EMENTA
