@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE. PRINCÍPIO DA UNIRRECORRIBILIDADE. DESISTÊNCIA DO PRIMEIRO RECURSO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Ressalvadas as hipóteses legais, o princípio da unirrecorribilidade impede a cumulativa interposição recursal contra a mesma decisão.
+2. O desrespeito ao postulado da singularidade dos recursos torna inviável o conhecimento da segunda insurgência interposta contra o mesmo ato decisório, porquanto incide a preclusão consumativa da via recursal.
+3. Esta Corte Superior "possui entendimento firme no sentido de que a "desistência apresentada quanto ao primeiro recurso, ainda que com o propósito de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa no que concerne a este" (EDcl no AgRg no Ag n. 1.049.941/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2013, DJe de 16/4/2013). 3. Agravo interno não conhecido." (AgInt nos EAREsp n. 1.811.169/DF, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/9/2024, DJe de 9/9/2024.)
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE JOINVILLE contra decisão, de minha lavra, que conheceu em parte do recurso especial para dar-lhe parcial provimento, nos termos da seguinte ementa (fl. 1.475):
+AMBIENTAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. CONTRARIEDADE AOS ARTS. 4º, I, ALÍNEA "A", E § 10, INCS. I, II E III, DA LEI Nº 12.651/2012 E 4º, III-B, DA LEI Nº 6.766/79. RECUO DE EDIFICAÇÃO. EXISTÊNCIA DE CURSO D"ÁGUA CANALIZADO. ÁREA URBANA CONSOLIDADA. ÁREA DE PRESERVAÇÃO PERMANENTE (APP) CARACTERIZADA. INCIDÊNCIA DA LEGISLAÇÃO AMBIENTAL FEDERAL (CÓDIGO FLORESTAL). TEMA 1.010/STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Nas razões do agravo interno (fls. 1.524-1.538), alega omissão no julgado, por ter a r. decisão "deixado de apreciar ponto que deveria haver-se pronunciado, qual seja, a alteração na Lei Florestal - nº 12.651/2012 pela Lei Federal nº 14.285/2021, atestando a competência dos municípios para definir faixas distintas, nas marginais de cursos d" agua na área urbana consolidada, daquelas estabelecidas no art. 4º, inciso I, da Lei Federal nº 12.651/12, matéria expressamente requerida pelo Município e preponderante para a correta elucidação do caso" (fl. 1.529).
+Sustenta que "o próprio Código Florestal, com a alteração da Lei Federal n. 14.285/2021, permitiu aos municípios a delimitação da extensão das APP"s em áreas inferiores àquelas estabelecidas no Código Florestal e para tanto, não é cabível a aplicação do limite de 30 (trinta) metros do curso d"água, ainda que canalizado, como área non aedificandi" (fl. 1.531).
+Assevera que "o STJ na fixação do Tema 1010 não pronunciou sobre os impactos das alterações no Código Florestal efetuadas pela Lei nº 14.285/2021, que autorizou expressamente que municípios definam faixas marginais de AP Ps em áreas urbanas com medidas diferentes das do Código Florestal, desde que sigam critérios específicos" (fl. 1.534).
+Requer o conhecimento e provimento do presente de agravo interno para promover o pleito de distinção e afastamento do Tema 1.010 /STJ, "enfrentando-se o distinguishing pretendido, para o fim de que observada as modificações ao Código Florestal promovidas pela Lei n. 14.285/2021, a qual conferiu ao Poder Público Municipal a competência de delimitar a extensão das áreas de preservação permanentes nas áreas urbanas, mediante diagnóstico socioambiental - um estudo técnico que deve ser produzido pelo município, com a finalidade de identificar as características do território municipal" (fl. 1.536). Subsidiariamente, pede a suspensão do processo porque pendente de julgamento a ADI n. 7146 que irá decidir "sobre a competência dos municípios para promulgar leis que reduzam o parâmetro mínimo de proteção ambiental estabelecido em lei federal - Código Florestal, após as modificações promovidas pela Lei n. 14.285/2021" (fl. 1.536).
+Contrarrazões às fls. 1.544-1.554.
+É o relatório.
+EMENTA
+AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE. PRINCÍPIO DA UNIRRECORRIBILIDADE. DESISTÊNCIA DO PRIMEIRO RECURSO. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO NÃO CONHECIDO.
+1. Ressalvadas as hipóteses legais, o princípio da unirrecorribilidade impede a cumulativa interposição recursal contra a mesma decisão.
+2. O desrespeito ao postulado da singularidade dos recursos torna inviável o conhecimento da segunda insurgência interposta contra o mesmo ato decisório, porquanto incide a preclusão consumativa da via recursal.
+3. Esta Corte Superior "possui entendimento firme no sentido de que a "desistência apresentada quanto ao primeiro recurso, ainda que com o propósito de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa no que concerne a este" (EDcl no AgRg no Ag n. 1.049.941/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2013, DJe de 16/4/2013). 3. Agravo interno não conhecido." (AgInt nos EAREsp n. 1.811.169/DF, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/9/2024, DJe de 9/9/2024.)
+4. Agravo interno não conhecido.
+VOTO
+De início, observa-se que vigora no ordenamento jurídico brasileiro o brocardo da unirrecorribilidade ou da singularidade dos recursos, que obsta a cumulativa interposição recursal contra a mesma decisão, ressalvadas as exceções legais.
+Na espécie, antes do manejo do presente recurso de fls. 1.524-1.538, o agravante apresentou embargos de declaração (fls. 1.489-1.513), questionando idêntico ato decisório.
+No mesmo dia em que interpôs o agravo interno, a parte agra vante apresentou petição de desistência dos referidos aclaratórios (fl. 1.521).
+Dessarte, não se afigura possível o conhecimento da segunda insurgência interposta contra o mesmo decisum, porquanto incide a preclusão consumativa da via recursal.
+Registre-se, por oportuno, que esta Corte Superior "possui entendimento firme no sentido de que a "desistência apresentada quanto ao primeiro recurso, ainda que com o propósito de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa no que concerne a este" (EDcl no AgRg no Ag n. 1.049.941/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/4/2013, DJe de 16/4/2013). 3. Agravo interno não conhecido." (AgInt nos EAREsp n. 1.811.169/DF, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/9/2024, DJe de 9/9/2024.) (Destaquei).
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. DOIS RECURSOS. INTERPOSIÇÃO. PRECLUSÃO.
+1. O princípio da unirrecorribilidade veda a interposição de mais de um recurso pela mesma parte contra o mesmo ato judicial, ante a preclusão consumativa.
+2. Consoante o entendimento desta Corte, a desistência do primeiro recurso apresentado, ainda que com a intenção de que seja apreciado o segundo, não tem o condão de afastar a preclusão. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no CC n. 187.938/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 19/12/2023, DJe de 30/1/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE. NÃO CONHECIMENTO DO SEGUNDO. PRINCÍPIO DA UNIRRECORRIBILIDADE E DA PRECLUSÃO CONSUMATIVA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não merece qualquer reparo a decisão agravada pois, como evidenciado nos autos, a ora agravante interpôs dois recursos contra a mesma decisão o que, segundo a jurisprudência desta Corte, impede o conhecimento do segundo recurso interposto, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade recursal. Precedentes.
+3. A desistência apresentada quanto ao primeiro recurso, ainda que com o propósito de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa no que concerne a este. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.740.288/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. DESISTÊNCIA DO PRIMEIRO EM FAVOR DO SEGUNDO. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DE AMBOS OS RECURSOS. AGRAVOS INTERNOS NÃO CONHECIDOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante a pacífica jurisprudência do STJ, em virtude da preclusão consumativa, uma vez interposto o recurso cabível contra uma determinada decisão judicial, ocorre a preclusão consumativa, sendo vedado à parte a repetição do ato. Precedentes.
+3. A desistência apresentada quanto ao primeiro recurso especial, ainda que com a intenção de que seja apreciado o segundo, não tem o condão de afastar a preclusão consumativa. Tal desistência, que é ato irretratável, deve ser homologada sem consequências para o segundo recurso. Como consequência, nenhuma das duas impugnações poderá ser apreciada (REsp nº 1.009.485/RS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 15/9/2009, DJe 14/12/2009).
+4. Agravos internos não conhecidos.
+(AgInt no AREsp n. 1.057.546/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/4/2020, DJe de 23/4/2020.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
