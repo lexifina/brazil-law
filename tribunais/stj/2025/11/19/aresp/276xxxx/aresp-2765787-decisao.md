@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual ITAU UNIBANCO S.A. se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fls. 5.360/5.368):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. ISSQN. SERVIÇOS BANCÁRIOS. LISTAS ANEXAS ÀS LEIS COMPLEMENTARES Nº 56/87 E 116/03. TAXATIVIDADE. POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA EM RELAÇÃO AOS SERVIÇOS CONGÊNERES. PRECEDENTES DO STF, STJ E DESTE TRIBUNAL.
+O SUPERIOR TRIBUNAL DE JUSTIÇA, ATRAVÉS DO JULGAMENTO DO RECURSO ESPECIAL Nº 1.111.234/PR, SUJEITO À DISCIPLINA DO ART. 543-C DO CPC, FIRMOU ENTENDIMENTO, JÁ SEDIMENTADO NO STF, DE QUE A LISTA DE SERVIÇOS ANEXA AO DECRETO-LEI 406/68 É
+TAXATIVA, HAVENDO, PORÉM, A POSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA, RELATIVAMENTE AOS SERVIÇOS CONGÊNERES.
+EMBORA A LISTA ANEXA AO DECRETO-LEI 406/68 E À LEI COMPLEMENTAR Nº 116/2003 SEJA TAXATIVA, PERMITE-SE A INTERPRETAÇÃO EXTENSIVA, DEVENDO PREVALECER NÃO A DENOMINAÇÃO UTILIZADA PELO BANCO, MAS A EFETIVA NATUREZA DO SERVIÇO PRESTADO POR ELE.
+OS SERVIÇOS QUE FORAM PRESTADOS PELA INSTITUIÇÃO BANCÁRIA ENQUADRAM-SE NO ROL PREVISTO NOS ITENS 96 E 15 DAS LISTAS ANEXAS ÀS LEI COMPLEMENTARES Nº 56/87 E 116/03, RESPECTIVAMENTE, SUBMETENDO-SE, ASSIM, À INCIDÊNCIA DO ISS.
+VERBA HONORÁRIA MANTIDA, POIS FIXADA DE ACORDO COM O DISPOSTO NO ART. 85, § 3º, II, DO CPC/2015.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (fls. 5.469/5.478).
+A parte recorrente alega violação aos arts. 489, 1.013 e 1.022 do Código de Processo Civil (CPC) e aponta omissão relativa: (i) à natureza de atividade-meio da rubrica de "adiantamento a depositantes"; e (ii) à caracterização do fato gerador do Imposto sobre Serviços (ISS) no caso concreto, diante da ausência de cotejo entre as atividades dispostas pela lista anexa à Lei Complementar 116/2003 e a atividade associada àquela rubrica.
+Assevera que o TJRS não esclareceu por que uma atividade financeira deveria sofrer a incidência de ISS nem se manifestou sobre as decisões proferidas no AREsp 2.222.966/SC e no AREsp 669.755/RJ.
+Afirma, ainda, ter havido ofensa ao art. 1º da Lei Complementar 116/2003 e aos arts. 4º e 110 do Código Tributário Nacional (CTN), sob o argumento de que as conclusões da Corte local contrariam a hipótese de incidência do ISS neles prevista e criam exigência não prevista em lei.
+A parte adversa apresentou contrarrazões (fls. 5.553/5.557).
+O recurso não foi admitido, o que ensejou a interposição de agravo.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+A parte opôs embargos de declaração na origem com estes argumentos (fls. 5.374/5.382):
+ ..
+Partindo-se desse pressuposto, passa-se a demonstrar, com o máximo respeito a esse colegiado, que o r. acórdão incorreu em omissão quanto à natureza das atividades bancárias autuadas, deixando de realizar o juízo de correspondência entre as rubricas executadas e o conceito de serviço, sobretudo, considerando-se as particularidades das atividades-meio.
+No acórdão embargado, essa Câmara consignou que se admite a interpretação extensiva da lista de serviços anexa à LC 116/2003 e, em virtude disso, concluiu pela incidência do ISS no caso concreto. No entanto, deixou de pronunciar-se a respeito da natureza das atividades relacionadas a cada uma das contas autuadas e de avaliar sua correspondência com os fatos geradores previstos na lista anexa da LC 116/2003.
+ ..
+O r. Acórdão também restou, data maxima venia, obscuro em relação a rubrica "adiantamento a depositantes", sobretudo no trecho a seguir, in verbis:
+" ..  O SENTIDO DE SER UMA OPERAÇÃO DE "CRÉDITO EMERGENCIAL", NOS DIZERES DO PRÓPRIO APELANTE, CORROBORANDO, POIS, SUA NATUREZA COMO SERVIÇO ESSENCIALMENTE BANCÁRIO."
+ ..
+Ademais, não se pode olvidar que, data maxima venia, o r. julgado ignorou o entendimento firmado pelo E. STJ no que pertine ao fato de que quando essas análises ocorrem pela própria instituição financeira e não por empresas terceirizadas (tais como SPC/SERASA etc.), esta análise caracteriza-se como atividade-meio e, portanto, não sobre incidência de ISS, consoante se extraí dos julgados a seguir:
+ ..
+Ao apreciar o recurso integrativo, o Colegiado estadual se remeteu ao acórdão então embargado, do qual extraio, por referência à sentença (fl. 5.366):
+ ..
+Ocorre que a tributação não incidiu sobre o valor do adiantamento, ou a renda de juros, operações que estariam sujeitas ao Imposto sobre Operações Financeiras. Trata-se de verdadeira prestação de serviços, sendo a renda resultante de adiantamento a depositante o valor que o banco cobra do cliente para que seja aprovada a concessão do crédito em sua conta" (fl. 5.366).
+De acordo com a Circular nº 3.371/2007 do Banco Central do Brasil, o adiantamento a depositante serve para remuneração do "levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito para cobertura de saldo devedor em conta-corrente de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial".
+ ..
+Nesse cenário, o órgão julgador concluiu que "os serviços que foram prestados pela instituição bancária enquadram-se no rol previsto nas listas Anexas às Lei Complementares nº 56/87 e 116/03, respectivamente, submetendo-se, assim, à incidência do ISS" (fl. 5.367).
+No acórdão recorrido, a atividade tributada foi delimitada como equivalente a serviço de aferição de viabilidade de concessão de crédito. Nesse sentido, ainda que o delineamento da operação - realizado inclusive à luz de laudo pericial contábil (conforme consta às fls. 5.364) - não coincida com as informações invocadas pela parte recorrente, não se pode ter por omisso o acórdão no que concerne à subsunção da atividade tributada ao conceito de serviço, de modo que a fundamentação lançada é suficiente à conclusão alcançada.
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto ao mérito, este Tribunal Superior já decidiu que "o exame da compatibilidade dos serviços previstos na Lista é da competência das instâncias ordinárias, não sendo possível rever o entendimento fixado pelo órgão de origem ante o óbice da Súmula 7/STJ" (REsp n. 1.804.468/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/5/2019, DJe de 18/6/2019).
+Com efeito, ainda que o serviço tenha sido delimitado, não há como afastar a subsunção normativa, nos termos pretendidos pela parte recorrente, sem retornar ao documentos utilizados pela Corte de origem para realizar a adequação.
+Portanto, entendimento diverso do adotado pelo Tribunal a quo, como pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ) - "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+PROCESSUAL CIVIL E DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO. LEI COMPLEMENTAR N. 116/2003. ISS. SERVIÇOS BANCÁRIOS. LISTA DE SERVIÇOS. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. INVERSÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. NÃO CABIMENTO. SÚMULA N. 7/STJ. RECURSO DESPROVIDO.
+1. O Tribunal local não incorreu em omissão, manifestando-se, de forma expressa, no julgamento dos embargos de declaração lá opostos, quanto à suposta nulidade da sentença e também com relação à incidência do ISS sobre os serviços prestados pela ora Agravante.
+2. Consoante entendimento cristalizado na Súmula n. 424 deste Sodalício, " é  legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL n. 406/1968 e à LC n. 56/1987". Em precedente vinculante, esta Corte consignou que, embora a Lista anexa ao Decreto-lei n. 406/68 seja taxativa, é admitido o emprego de interpretação extensiva para os serviços congêneres (REsp n. 1.111.234/PR, relatora Ministra Eliana Calmon, Primeira Seção, julgado em 23/9/2009, DJe de 8/10/2009).
+3. Hipótese em que a Jurisdição Ordinária - soberana na análise do acervo probatório - concluiu que as rubricas questionadas pela Agravante ("adiantamento a depositantes", "tarifas interbancárias" e "contratação de operações ativas") seriam, sim, sujeitas ao ISSQN, sendo irrelevante as nomenclaturas a elas atribuídas pelo Banco, pois, de qualquer forma, configurariam prestação de serviços, pelas quais este seria remunerado.
+4. Para acolher a pretensão recursal e alterar a conclusão consignada no acórdão de origem seria necessário incursionar, verticalmente, no acervo probatório, providência incabível, nos termos da Súmula n. 7/STJ.
+5. Este Sodalício firmou a compreensão de que "o exame da compatibilidade dos serviços previstos na Lista é da competência das instâncias ordinárias. Sendo assim, rever o entendimento do Tribunal de origem acerca da incidência do ISS na espécie requer revolvimento do conjunto fático-probatório, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ" (AgInt no AREsp n. 1.611.422/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/9/2020, DJe de 5/10/2020).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.677.261/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente, o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
