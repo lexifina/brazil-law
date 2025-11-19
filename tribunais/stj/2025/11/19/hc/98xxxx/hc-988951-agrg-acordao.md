@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. PRISÃO CAUTELAR. ABSOLVIÇÃO EM PROCESSOS DIVERSOS. CONCOMITÂNCIA COM O CUMPRIMENTO DE PENA DEFINITIVA. IMPOSSIBILIDADE. RISCO DE CÔMPUTO EM DOBRO (BIS IN IDEM). IDENTIDADE DE PERÍODO ENTRE A SEGREGAÇÃO CAUTELAR E A EXECUÇÃO DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 42 do Código Penal estabelece a possibilidade de se computar, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.
+2. A detração seria possível apenas na hipótese em que a execução houvesse sido interrompida ou não houvesse sido iniciada. A partir do momento em que a execução da pena privativa de liberdade por outros delitos teve o seu curso normalmente, não há falar em detração do período de prisão cautelar, sob pena de cômputo em dobro do período em que ficou recluso.
+3. No caso concreto, no curso da execução da pena por outras condenações, o executado permaneceu preso provisoriamente em processo em que posteriormente veio a ser absolvido. Não obstante a absolvição nos cinco processos pelos quais o reeducando ficou preso provisoriamente, não houve solução de continuidade no que diz respeito ao cumprimento da pena privativa de liberdade.
+4. A segregação provisória não suspendeu o cumprimento das penas definitivas, que continuaram sendo resgatadas de forma ininterrupta. Em que pese a duplicidade de títulos prisionais no caso concreto - de um lado a prisão provisória e de outro a prisão-pena -, a situação de encarceramento foi uma só. Nesse contexto, mostra-se inviável reconhecer o mesmo intervalo de tempo para fins de detração, sob pena de admitir-se o cômputo duplo para cada dia de prisão, criando-se um cumprimento fictício de pena.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+EMERSON BRASIL DA SILVA interpõe agravo regimental contra decisão de minha relatoria em que deneguei a ordem em seu habeas corpus.
+Consta dos autos que o apenado cumpre pena total de 32 anos e 7 meses de reclusão. A defesa pleiteou, na execução penal, a detração do período em que o agravante esteve submetido à prisão preventiva em processos distintos, nos quais foi posteriormente absolvido. O pedido foi indeferido nas instâncias ordinárias.
+O agravante insiste que a detração do período de prisão indevida é uma forma de compensação pelo erro do Estado e não configura cômputo em dobro da pena. Assevera que os fatos que ensejaram as prisões cautelares são posteriores aos crimes pelos quais cumpre pena, situação que, segundo a doutrina e a jurisprudência, autorizaria o cômputo pretendido.
+Requer a reconsideração da decisão monocrática ou o julgamento pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. PRISÃO CAUTELAR. ABSOLVIÇÃO EM PROCESSOS DIVERSOS. CONCOMITÂNCIA COM O CUMPRIMENTO DE PENA DEFINITIVA. IMPOSSIBILIDADE. RISCO DE CÔMPUTO EM DOBRO (BIS IN IDEM). IDENTIDADE DE PERÍODO ENTRE A SEGREGAÇÃO CAUTELAR E A EXECUÇÃO DA PENA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 42 do Código Penal estabelece a possibilidade de se computar, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.
+2. A detração seria possível apenas na hipótese em que a execução houvesse sido interrompida ou não houvesse sido iniciada. A partir do momento em que a execução da pena privativa de liberdade por outros delitos teve o seu curso normalmente, não há falar em detração do período de prisão cautelar, sob pena de cômputo em dobro do período em que ficou recluso.
+3. No caso concreto, no curso da execução da pena por outras condenações, o executado permaneceu preso provisoriamente em processo em que posteriormente veio a ser absolvido. Não obstante a absolvição nos cinco processos pelos quais o reeducando ficou preso provisoriamente, não houve solução de continuidade no que diz respeito ao cumprimento da pena privativa de liberdade.
+4. A segregação provisória não suspendeu o cumprimento das penas definitivas, que continuaram sendo resgatadas de forma ininterrupta. Em que pese a duplicidade de títulos prisionais no caso concreto - de um lado a prisão provisória e de outro a prisão-pena -, a situação de encarceramento foi uma só. Nesse contexto, mostra-se inviável reconhecer o mesmo intervalo de tempo para fins de detração, sob pena de admitir-se o cômputo duplo para cada dia de prisão, criando-se um cumprimento fictício de pena.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos empregados pelo agravante, entendo que não lhe assiste razão.
+O Tribunal Regional Federal da 4ª Região assim fundamentou o acórdão recorrido (fls. 16-23, destaquei):
+Como já relatado, o agravante pugna pela detração de 8 anos, 6 meses e 7 dias (3.112 dias), equivalente ao tempo em que permaneceu preso provisoriamente em 5 processos distintos do objeto da execução penal nº 0209956-68.2011.8.19.0001 e que, ao final, culminaram em absolvições. Os períodos suscitados pela defesa são os seguintes: Processo nº 0212325-54.2019.8.19.0001- PRESO INDEVIDAMENTE POR 554 DIAS - (prisão em
+17/09/2019, com alvará de soltura cumprido em 23/03/2021);
+Processo nº 0070318-39.2019.8.19.0001 - PRESO
+INDEVIDAMENTE POR 1292 DIAS - (prisão em
+06/09/2019, com alvará de soltura cumprido em 20/03/2023);
+Processo nº 0514994-46.2015.8.19.0001 - PRESO INDEVIDAMENTE POR 494 DIAS - (prisão em 06/09/2019, com alvará de soltura cumprido em 11/01/2021). Processo nº 0345229-09.2017.8.19.0001 - PRESO INDEVIDAMENTE POR 427 Dias - (prisão em 26/09/2019, com alvará de soltura cumprido em 24/11/2020). Processo nº 0439090-83.2016.8.19.0001 - PRESO INDEVIDAMENTE POR 112 Dias - (prisão em 03/10/2019, com alvará de soltura em 23/01/2020).Processo 0008472-39.2015.8.19.0202 - PRESO INDEVIDAMENTE POR 233 Dias - (prisão em 08/04/2015 e soltura em 26/11/2015)
+No que se refere ao processo nº 0008472-39.2015.8.19.0202, em resposta ao ofício enviado à 29ª Vara Criminal da Comarca do Rio de Janeiro/RJ, esta informou que "não constam mandados de prisão ou alvará de soltura referente ao processo 000847239.2015.8.19.0202" (seq. 345.1 no SEEU).
+No que tange aos demais processos, destaco que a tese defensiva esbarra em dois obstáculos.
+O primeiro diz respeito ao tempo total que a defesa busca detrair.
+Inicialmente, percebe-se que o executado teria permanecido segregado de forma cautelar em 5 processos distintos (0212325-
+54.2019.8.19.0001, 0070318- 39.2019.8.19.0001, 051499446.2015.8.19.0001, 0345229-09.2017.8.19.0001 e 043909083.2016.8.19.0001).
+A defesa contabilizou os dias relativos à prisão provisória de cada um dos referidos feitos e, ao final, somou-os - pretendendo a detração do resultado final dessa soma.
+Contudo, as prisões cautelares dizem respeito a datas sobrepostas, ou seja, trata- se de ordens de prisão que, embora tenham sido emanadas em processos distintos, foram aplicadas de forma concomitante.  ..
+No caso, como se infere das próprias informações trazidas pela defesa, o período total em que o agravante permaneceu segregado em razão das referidas prisões provisórias foi de 06-09-2019 a 2003-2023. Desse modo, em cenário algum seria possível a detração pretendida pelo agravante, já que o período discutido abarca o intervalo de apenas 3 anos, 6 meses e 14 dias.
+Porém, a detração de tal intervalo tampouco é devida, por esbarrar no segundo obstáculo mencionado. Explico.
+Como já referido na decisão agravada, também a partir de 06-092019, o apenado passou a cumprir a pena objeto da presente execução penal em regime fechado. Em outras palavras, desde a referida data, a parte esteve presa em decorrência de pena definitiva, transitada em julgado nos autos de outras ações penais.
+Assim, em que pese os decretos absolutórios, não há se falar em "prisões indevidas", pois as medidas cautelares somente agregaram mais motivos para a segregação do agravante, que permaneceria em custódia ainda que tais ordens não existissem.
+Ademais, a segregação provisória não suspendeu o cumprimento das penas definitivas, que continuaram sendo resgatada de forma ininterrupta. Dessa feita, o período de 06-09-2019 a 20-03-2023 já foi computado como efetivo tempo de pena cumprido (já que, de fato, assim o era). Nesse contexto, mostra-se inviável reconhecer o mesmo intervalo de tempo para fins de detração, sob pena de admitir-se o cômputo duplo para cada dia de prisão, criando-se um cumprimento fictício de pena.
+A questão sub judice não envolve maiores complexidades, na medida em que, no curso da execução da pena por outras condenações, o executado permaneceu preso provisoriamente em processo em que posteriormente veio a ser absolvido.
+O art. 42 do Código Penal é claro ao estabelecer a possibilidade de
+detração do tempo de pena provisória:
+Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+No entanto, em que pese a duplicidade de títulos prisionais no caso concreto - de um lado a prisão provisória e de outro a prisão-pena -, a situação de encarceramento foi uma só.
+Como exaustivamente explicado no acórdão atacado, não obstante a absolvição nos cinco processos em que o reeducando ficou preso provisoriamente, não houve solução de continuidade no que diz respeito ao cumprimento da pena privativa de liberdade executada nos autos do Processo n. 000847239.2015.8.19.020.
+Assim, a detração seria possível apenas na hipótese em que a execução tivesse sido interrompida ou não tivesse sido iniciada. A partir do momento em que a execução da pena privativa de liberdade por outros delitos teve o seu curso normalmente, não há que se falar em detração do período de prisão cautelar, sob pena de cômputo em dobro do período em que ficou recluso; repita-se, período que foi único, apesar da detenção estar lastreada em títulos de natureza distinta (uns de prisão-pena, outros de prisão provisória).
+À vista do exposto, nego provimento ao agravo regimental.
