@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PLANO DE SAÚDE. ADESÃO A PLANO PRIVADO. RESSARCIMENTO DAS DESPESAS. AUSÊNCIA DE AMPARO LEGAL DO PEDIDO DEDUZIDO À ÉPOCA DO AJUIZAMENTO DA AÇÃO. NÃO IMPUGNADOS TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: trata-se de ação ajuizada pelo SINDICATO DOS POLICIAIS FEDERAIS NO DISTRITO FEDERAL - SINDIPOL em face da União em que objetiva ser assegurado o direito de seus filiados que não aderiram ao plano de saúde, de receberem o valor equivalente à cota patronal paga pela União à GEAP/MEDIAL, desde o termo inicial do prazo quinquenal. O pleito foi julgado improcedente.
+2. A Corte de origem negou provimento à Apelação " ..  em razão da ausência de amparo legal do pedido deduzido à época do ajuizamento da ação, tendo em conta, ainda, que a possibilidade de o servidor contratar diretamente a operadora que lhe conviesse e requerer o ressarcimento da despesa passou a ser prevista somente a partir da edição da Portaria n. SRH n. 05, de 11/10/2010, a qual não previu efeitos retroativos".
+3. Nesta Corte, decisão que não conheceu do recurso especial, pois a parte recorrente deixou de impugnar os fundamentos do acórdão recorrido. Incidência do óbice da Súmula n. 283 do STF.
+4. Hipótese em que o Tribunal a quo consignou que, "à época do ajuizamento da ação e da prolação da sentença, vigia o Decreto n. 4.978/2004, que regulamentava o art. 230 da Lei n. 8.112/90, de modo que a cota patronal paga pela União era devida ao plano de saúde ao qua l a Administração mantinha convênio. Inexistia qualquer referência à modalidade de livre escolha ou auxílio direto ao servidor".
+5. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo SINDICATO DOS POLICIAIS FEDERAIS NO DISTRITO FEDERAL - SINDIPOL/DF contra a decisão de minha lavra que não conheceu do recurso especial (fls. 429-432).
+Nas razões deste agravo interno, a parte agravante alega a insubsistência da decisão agravada, ao afirmar que é inaplicável o óbice da Súmula n. 283 do STF (fls. 438-440).
+Ao final, requer " ..  a reforma da decisão o recorrida para que seja conhecido e julgado o Recurso Especial anteriormente interposto e seja a ele dado provimento para reformar o acordão de 2º grau e reconhecer o direito dos servidores substituídos em receber retroativamente o ressarcimento dos valores que custearam sua assistência à saúde" (fl. 440).
+Intimada, a parte Agravada deixou de apresentar contraminuta (fl. 447).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PLANO DE SAÚDE. ADESÃO A PLANO PRIVADO. RESSARCIMENTO DAS DESPESAS. AUSÊNCIA DE AMPARO LEGAL DO PEDIDO DEDUZIDO À ÉPOCA DO AJUIZAMENTO DA AÇÃO. NÃO IMPUGNADOS TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: trata-se de ação ajuizada pelo SINDICATO DOS POLICIAIS FEDERAIS NO DISTRITO FEDERAL - SINDIPOL em face da União em que objetiva ser assegurado o direito de seus filiados que não aderiram ao plano de saúde, de receberem o valor equivalente à cota patronal paga pela União à GEAP/MEDIAL, desde o termo inicial do prazo quinquenal. O pleito foi julgado improcedente.
+2. A Corte de origem negou provimento à Apelação " ..  em razão da ausência de amparo legal do pedido deduzido à época do ajuizamento da ação, tendo em conta, ainda, que a possibilidade de o servidor contratar diretamente a operadora que lhe conviesse e requerer o ressarcimento da despesa passou a ser prevista somente a partir da edição da Portaria n. SRH n. 05, de 11/10/2010, a qual não previu efeitos retroativos".
+3. Nesta Corte, decisão que não conheceu do recurso especial, pois a parte recorrente deixou de impugnar os fundamentos do acórdão recorrido. Incidência do óbice da Súmula n. 283 do STF.
+4. Hipótese em que o Tribunal a quo consignou que, "à época do ajuizamento da ação e da prolação da sentença, vigia o Decreto n. 4.978/2004, que regulamentava o art. 230 da Lei n. 8.112/90, de modo que a cota patronal paga pela União era devida ao plano de saúde ao qua l a Administração mantinha convênio. Inexistia qualquer referência à modalidade de livre escolha ou auxílio direto ao servidor".
+5. Não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+6. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+Na origem, trata-se de ação ajuizada pelo SINDICATO DOS POLICIAIS FEDERAIS NO DISTRITO FEDERAL - SINDIPOL em face da União em que objetiva ser assegurado o direito de seus filiados que não aderiram ao plano de saúde, de receberem o valor equivalente à cota patronal paga pela União à GEAP/MEDIAL, desde o termo inicial do prazo quinquenal. O pleito foi julgado improcedente (fls. 117-120).
+A Corte de origem negou provimento à Apelação " ..  em razão da ausência de amparo legal do pedido deduzido à época do ajuizamento da ação, tendo em conta, ainda, que a possibilidade de o servidor contratar diretamente a operadora que lhe conviesse e requerer o ressarcimento da despesa passou a ser prevista somente a partir da edição da Portaria n. SRH n. 05, de 11/10/2010, a qual não previu efeitos retroativos" (fls. 321-340).
+Nesta Corte, decisão de minha lavra que não conheceu do recurso especial (fls. 429-432).
+De início, afirma a parte que:
+Tendo em mente o referido mandamento, percebe-se que a impugnação não identificada aos argumentos citados alhures, de fato existiu, razão pela qual merece reforma a decisão monocrática de não conhecimento.
+Ora, fica evidente que ambos os fundamentos guardam relação com a regulamentação do art. 230 da Lei n. 8.112/1990, promovida a época pelo Decreto n. 4.978/2004, que não abarcaria o pleito autoral deduzido neste processo.
+Toda a argumentação do Recurso Especial, todavia, é lastreada na impossibilidade de a Administração restringir o direito garantido por lei. Abaixo são transcritos excertos da peça recursal que demonstram tal ponto:
+ ..
+Ocorre que, conforme disposto na decisão agravada, o acórdão recorrido, quanto à suposta violação do art. 230 da Lei n. 8.112/90, está assentado no seguinte fundamento, suficiente, por si só, para dar suporte à conclusão do Tribunal de origem:
+A tese defendida pelo Sindicato autor era no sentido de que aqueles policiais federais que não haviam aderido ao convênio também deveriam ter direito à contraparte custeada pela ré e a livre escolha do plano de saúde.
+É certo que fora editada a Portaria Normativa SRH n. 05/2010, que estabelece novas orientações sobre a assistência à saúde suplementar do servidor ativo, inativo, seus dependentes e pensionistas, consoante se observa no art. 2º, IV e art. 26, que preveem nova modalidade de assistência à saúde dos beneficiário, qual seja, o auxílio de caráter indenizatório, por meio de ressarcimento. Confira-se:
+ ..
+Contudo, deve ser levado em conta que, ao tempo da prolação da sentença (janeiro de 2008) não havia previsão regulamentar, para que o servidor que quisesse aderir a plano de saúde diverso daquele que mantinha convênio com a União, obtivesse direito ao reembolso da cota patronal.
+À época do ajuizamento da ação e da prolação da sentença, vigia o Decreto n. 4.978/2004, que regulamentava o art. 230 da Lei n. 8.112/90, de modo que a cota patronal paga pela União era devida ao plano de saúde ao qual a Administração mantinha convênio. Inexistia qualquer referência à modalidade de livre escolha ou auxílio direto ao servidor. Confira-se:
+ ..
+Portanto, correta a sentença que julgou improcedente a pretensão, em razão da ausência de amparo legal do pedido deduzido à época do ajuizamento da ação, tendo em conta, ainda, que a possibilidade de o servidor contratar diretamente a operadora que lhe conviesse e requerer o ressarcimento da despesa passou a ser prevista somente a partir da edição da Portaria n. SRH n. 05, de 11/10/2010, a qual não previu efeitos retroativos.
+Diante desse cenário, é possível concluir que inexistia qualquer direito subjetivo dos servidores substituídos a outra modalidade de concessão de assistência à saúde não prevista em regulamento de assistência à saúde com livre escolha pelo servidor.
+A parte recorrente, no entanto, deixou de impugnar os fundamentos acima grifados. Portanto, incide o óbice da Súmula n. 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). Nesse norte: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
