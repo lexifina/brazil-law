@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo ARIBERTO JUST, LUCIA RADOLL JUST e MARCIO JUST contra decisão monocrática proferida pela Presidência do STJ, por meio da qual se aplicou a Súmula n. 182 do STJ (fls. 361 - 362).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 152):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA RURAL PIGNORATÍCIA. SENTENÇA QUE REJEITOU OS EMBARGOS APRESENTADOS PELOS DEVEDORES. INSURGÊNCIA DESTES. PEDIDO DE JUSTIÇA GRATUITA FORMULADO APÓS A APRESENTAÇÃO DO RECURSO, PELOS EMBARGANTES QUE NÃO TIVERAM A BENESSE CONCEDIDA NA ORIGEM. DEFERIMENTO. HIPOSSUFICIÊNCIA FINANCEIRA COMPROVADA POR MEIO DE DOCUMENTOS. GRATUIDADE CONCEDIDA, COM EFEITOS EX NUNC. SUSCITADA INCOMPETÊNCIA TERRITORIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE PRIMEIRO GRAU. FALTA DE DIALETICIDADE . REQUISITO DE ADMISSIBILIDADE PREVISTO ART. 1.016, INC. II E III, DO CPC NÃO PREENCHIDO. CONHECIMENTO OBSTADO. TESES ATINENTES À COBRANÇA ABUSIVA DE SEGURO PENHOR, CUSTO EFETIVO TOTAL, JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO, BEM COMO DE NECESSIDADE DE REVISÃO DE TODOS OS ENCARGOS CONTRATUAIS APLICADOS E RESTITUIÇÃO DOS VALORES COBRADOS A MAIOR. AFASTAMENTO PELO JUÍZO DE ORIGEM EM DECISÃO ANTERIOR, QUE REJEITOU TODOS OS ARGUMENTOS REFERENTES AO EXCESSO DE EXECUÇÃO E COBRANÇAS ABUSIVAS POR PARTE DA INSTITUIÇÃO FINANCEIRA. DEVEDORES QUE DEIXARAM DE INDICAR O VALOR REPUTADO COMO CORRETO E NÃO APRESENTARAM PLANILHA DE CÁLCULO. AUSÊNCIA DE NOVAS CIRCUNSTÂNCIAS QUE JUSTIFIQUEM A REANÁLISE DO TEMA. INCIDÊNCIA DO ART. 507 DO CPC. PRECLUSÃO OPERADA. HONORÁRIOS RECURSAIS. NECESSIDADE DE MAJORAÇÃO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. RECURSO NÃO CONHECIDO.
+Alega a parte agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido em lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo caso de aplicação da Súmula n. 182/STJ.
+Alega ter enfrentado todos os fundamentos: prequestionamento implícito, divergência com similitude fática e jurídica e violação dos arts. 10, 370, 373 e 489, §1º, IV, do Código de Processo Civil. Sustenta observância à dialeticidade e vedação ao formalismo excessivo.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A parte agravada apresentou impugnação (fls. 384 - 391).
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão ao agravante quanto à não incidência da Súmula n. 182/STJ, tendo em vista que, nas razões do agravo de fls. 176-182, impugnou especificamente o fundamento da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal a quo.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 361 - 362 e determino a conversão do agravo em recurso especial.
+Após, voltem os autos conclusos.
+Publique-se. Intimem-se.
+ EMENTA
