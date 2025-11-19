@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. PRESCRIÇÃO CARACTERIZADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. O Tribunal de origem, com base em laudo pericial, qualificou a intervenção como servidão administrativa, pela limitação apenas parcial do uso, sem retirada da posse, e com área ocupada substancialmente inferior ao total dos imóveis. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por HALUC EMPREENDIMENTOS LTDA. e OUTRAS contra a decisão de fls. 973-978 (e-STJ), da lavra deste signatário, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O apelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de do Paraná, assim ementado (e-STJ, fl. 746):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. INSURGÊNCIA QUANTO AO RECONHECIMENTO DA PRESCRIÇÃO PELA SENTENÇA. INSTALAÇÃO DE LINHA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA EM PROPRIEDADE DOS APELANTES. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. LIMITAÇÃO APENAS PARCIAL DE USO DO BEM QUE NÃO CARCTERIZA APOSSAMENTO ADMINISTRATIVO. DIREITO DE PROPOR AÇÃO VISANDO INDENIZAÇÃO CONTRA RESTRIÇÕES DO PODER PÚBLICO QUE SE EXTINGUE EM 5 (CINCO) ANOS, NOS TERMOS DO PARÁGRAFO ÚNICO DO ARTIGO 10 DO DECRETO-LEI N.º 3.365/41. PRECEDENTES. PRESCRIÇÃO CARACTERIZADA. RECURSO DESPROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 825- 833).
+Nas razões do recurso especial (e-STJ, fls. 840-862), as recorrentes apontaram violação aos arts. 489, § 1º, III e IV, e 1.022, II do CPC/2015; 10 do Decreto-Lei n. 3.365/1941; 177 do CC/1916; 1.238, parágrafo único, e 2.028 do CC/2002.
+Alegaram que o acórdão recorrido incorreu em omissão ao deixar de aplicar o prazo prescricional vintenário ou decenal, conforme entendimento do Superior Tribunal de Justiça, considerando a natureza precária da servidão administrativa imposta sobre os imóveis das recorrentes.
+Sustentaram que a ocupação irregular da área pela concessionária pública, sem observância das formalidades legais, configura desapropriação indireta e não mera servidão administrativa, sendo inaplicável o prazo quinquenal previsto no art. 10 do Decreto-Lei 3.365/1941.
+Em razão do juízo prévio negativo de admissibilidade do recurso especial, as insurgentes interpuseram agravo, ocasião em que foi julgado nos termos da seguinte ementa (e-STJ, fl. 973):
+AGRAVO EM RECURSO ESPECIAL, AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. PRESCRIÇÃO CARACTERIZADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A essa decisão foram opostos embargos de declaração, os quais foram rejeitados (e-STJ, fls. 1.012-1.014).
+No agravo interno (e-STJ, fls. 1.018-1.034), as agravantes reiteram a existência de omissões do Tribunal de origem sobre questões imprescindíveis para o deslinde da controvérsia.
+Destacam que está incontroversa no aresto impugnado "a ocorrência de uma servidão administrativa instalada precariamente nos imóveis dos Agravantes, ficando, pois, demonstrando que não há necessidade de revisão dos fatos, mas a sua revaloração à luz do entendimento consagrado por este Colendo Tribunal acerca da prescrição aplicável à espécie"(e-STJ, fl. 1.031).
+Argumentam, assim, que as circunstâncias fáticas estão estabelecidas no acórdão recorrido, o que afasta a incidência da Súmula 7/STJ.
+Ao final, requerem a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 1.038-1.051 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA. PRESCRIÇÃO CARACTERIZADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. O Tribunal de origem, com base em laudo pericial, qualificou a intervenção como servidão administrativa, pela limitação apenas parcial do uso, sem retirada da posse, e com área ocupada substancialmente inferior ao total dos imóveis. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+Preliminarmente, as agravantes sustentam a ocorrência de negativa de prestação jurisdicional, em razão da ausência de manifestação do Tribunal de origem acerca das seguintes questões (e-STJ, fls. 1.026-1.027 - com grifos no original):
+(i) uma vez que foi reconhecido que uma servidão administrativa ocorreu na área dos agravantes, que se deu com a precariedade do ato, também expressamente reconhecido no v. acordão, a omissão residia na não aplicação do prazo prescricional vintenal, consoante entendimento sedimento pelo Colendo Superior Tribunal de Justiça, bem como em procedentes deste próprio Egrégio Tribunal de Justiça;
+(ii) estando a servidão administrativa instalada em desconformidade com o ordenamento jurídico, por certo a situação assemelha-se a desapropriação indireta, e, via de consequência, o PRAZO PRESCRICIONAL APLICÁVEL AO CASO SERÁ O DA DESAPROPRIAÇÃO INDIRETA, que, como se sabe, é vintenal ou decenal (a depender do caso concreto).
+Cabe salientar que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, não possuindo natureza de efeito modificativo.
+Analisando os autos, não se evidencia a existência dos supostos vícios arguidos pelas agravantes, pois o colegiado de origem pronunciou-se sobre as questões essenciais para o deslinde da controvérsia, especialmente quanto à natureza da ação e ao prazo prescricional aplicável.
+Confiram-se os elucidativos trechos do acórdão que julgou a demanda (e-STJ, fls. 749-754 - sem destaques no original):
+Trata-se a desapropriação indireta de intervenção estatal que suprime a propriedade sem a observância das formalidades legais. Nessa situação há a efetiva perda da posse pelo proprietário, sendo também conhecida pela doutrina como apossamento administrativo.
+(..)
+Por sua vez, a servidão administrativa trata-se de direito real por meio do qual o Estado impõe limitação na posse do proprietário a fim de garantir o interesse público, possibilitando a execução de obras e serviços de interesse da sociedade.
+(..)
+Constata-se, portanto, que a servidão administrativa constitui ônus para o proprietário do imóvel, não lhe sendo retirada a posse do bem, mas apenas restringindo o seu uso em prol do interesse público.
+Infere-se dos autos que os autores ajuizaram ação de desapropriação indireta em face de Copel Distribuição S/A em razão da instalação de torres de transmissão de energia elétrica em imóveis de sua propriedade sem a devida indenização.
+Denota-se que as áreas de terra dos requerentes possuem, como informado na petição inicial, 529.000 m , 833.000 m , 357.000 m  e 833.000 m , totalizando 2.552.000 m , e o laudo pericial realizado judicialmente constatou que a linha de distribuição de energia instalada ocupou cerca de 30 m  do total das propriedades (seq. 310.1).
+Observa-se, portanto, que as áreas ocupadas pelas linhas de transmissão são consideravelmente inferiores às áreas totais dos imóveis, de modo que não é possível reconhecer que estas geraram restrições substanciais ao uso normal da propriedade para fins de caracterização de desapropriação indireta.
+Não se olvida que a implantação da linha obstrui a exploração econômica da área na qual as torres de transmissão estão instaladas, sendo passível de indenização, todavia, não se confunde com o apossamento administrativo.
+(..)
+Trata-se, pois, de servidão administrativa a situação na qual a instalação de redes de energia elétrica limita apenas parcialmente o uso do bem, sem retirar ou impedir o gozo da propriedade pelos seus detentores, tal como in casu.
+Tal conclusão pode ser corroborada, inclusive, por meio do laudo pericial realizado em Juízo de seq. 310 e sua complementação de seq. 328, o qual realizou minuciosa análise dos terrenos e concluiu tratar-se de servidão administrativa, aplicando o índice de desvalorização pelo método Phillipe Westin, coeficiente amplamente utilizado nas situações envolvendo servidão administrativa.
+Passo ao exame da prescrição in casu.
+5. Como cediço, a prescrição nada mais é do que a perda do direito de exercício de uma pretensão em virtude da inércia do seu titular em exercê-la no prazo fixado em lei.
+(..)
+A par disso, os Tribunais pátrios já pacificaram o entendimento de que se extingue em 5 anos o direito de propor ação que vise a indenização por restrições de atos do Poder Público, nos termos do parágrafo único do artigo 10 do Decreto-Lei n.º 3.365/41, verbis:
+"Art. 10. A desapropriação deverá efetivar-se mediante acordo ou intentar-se judicialmente, dentro de cinco anos, contados da data da expedição do respectivo decreto e findos os quais este caducará. (Vide Decreto-lei nº 9.282, de 1946)
+Parágrafo único. Extingue-se em cinco anos o direito de propor ação que vise a indenização por restrições decorrentes de atos do Poder Público."
+Nesse sentido, não merece guarida a tese dos apelantes, de que se aplica o prazo de 10 (dez) anos de desapropriação indireta, eis que a pretensão se origina de indenização por servidão administrativa, matéria essa que possui prazo específico disposto no Decreto-Lei mencionado.
+Outrossim, não há que se falar em aplicação do artigo 10, caput, do Decreto-Lei n.º 3.365/41, eis que este se refere às situações de desapropriação direta, nas quais o Poder Público possui 5 anos para efetivar a desapropriação contados do decreto expropriatório, o que sequer existe em caso, dada a precariedade do ato. Pelo mesmo motivo não se diga que a não observância das formalidades legais da servidão afastaria o prazo quinquenal.
+O requerimento administrativo de 27/09/10 tampouco tem o condão de interromper o prazo prescricional, o qual, inclusive, já havia se exaurido.
+(..)
+Referido prazo quinquenal tem como termo inicial a data em que se constituiu a servidão.
+É incontroverso nos autos que a servidão administrativa foi instalada precariamente pela requerida no ano de 1995, e a ação de desapropriação indireta foi interposta apenas em 2017.
+Assim sendo, tem-se que se operou a prescrição.
+Registre-se que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (veja-se: AgInt no REsp n. 2.089.676/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/3/2024, DJe de 19/4/2024).
+Desse modo, tendo o Tribunal estadual motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. TRATAMENTO MÉDICO. ARTS. 489, § 1º, E 1.022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. HONORÁRIOS SUCUMBENCIAIS. TESE DE NECESSIDADE DE RATEIO ENTRE OS RÉUS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REDIMENSIONAMENTO DO PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em face do Estado do Rio de Janeiro e da Clínica Bela Vista Ltda. com o fim de reparar os alegados danos morais que decorreriam da conduta dos réus no tratamento médico a que fora submetida a genitora do autor.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. No que concerne à verba sucumbencial, o Sodalício de origem não se manifestou sobre a alegação de que "considerada a existência de dois réus vencedores, importa a fixação no percentual total de 20% (vinte por cento) sobre o valor da causa, sem que nada possa justificar tão pesada condenação" (fl. 825), tampouco a questão foi suscitada nos embargos declaratórios opostos pela parte agravante para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Ademais, a Corte estadual manteve os honorários sucumbenciais fixados no juízo de piso, em virtude de terem sido "arbitrados nos limites estabelecidos pelo artigo 85, §2º do CPC, além de não se revelarem excessivo, diante do grande lapso temporal de tramitação da ação" (fl. 705). Assim, eventual acolhimento da insurgência recursal demandaria a incursão encontra óbice na Súmula 7/STJ, por demandar o reexame de matéria fático-probatória.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.490.793/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024 - sem destaque no original.)
+No mérito, as agravantes defendem que a servidão administrativa precária reconhecida nos autos atrai o prazo prescricional da desapropriação indireta (vintenário/decenal), afastando o quinquenal do Decreto-Lei 3.365/1941.
+Contudo, tal alegação não merece prosperar.
+Isso porque, consoante se pode notar dos excertos do acórdão recorrido supracitados, o Tribunal estadual, com base em laudo pericial, qualificou a intervenção como servidão administrativa, pela limitação apenas parcial do uso, sem retirada da posse, e com área ocupada substancialmente inferior ao total dos imóveis.
+Da análise dos fundamentos do recurso e seu cotejo com as razões do acórdão recorrido, percebe-se que as recorrentes buscam emprestar entendimento diverso, para o tema, daquele que foi adotado pelo Tribunal de origem a partir da análise do conjunto probatório posto à sua disposição.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, fazendo prevalecer a tese de que a servidão administrativa precária, reconhecida pelo Tribunal a quo, aproxima o caso de desapropriação indireta, tal como defendida pelas insurgentes, encontra óbice no enunciado n. 7 da Súmula desta Corte.
+Registre-se não ser caso de revaloração da prova, porque não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida vedada no âmbito do recurso especial.
+Logo, como não demonstrou argumentação capaz de ilidir os fundamentos invocados pela decisão agravada, o presente recurso não se revela apto a afastar o conteúdo do julgado impugnado.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
