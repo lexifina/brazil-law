@@ -1,0 +1,26 @@
+DECISÃO
+ITA BRASIL CONSTRUTORA E INCORPORADORA LTDA. formula pedido de tutela cautelar antecedente a fim de que seja atribuído efeito suspensivo ao recurso especial interposto contra acórdão que negou provimento à sua apelação e deu parcial provimento à apelação da parte requerida (Processo n. 0715715-03.2022.8.07.0001).
+Em suas razões, a requerente aponta a ocorrência de indevida caracterização de mútuo em aportes societários e de cerceamento de defesa, tendo em vista a necessidade de prova pericial contábil em ações de cobrança complexas, bem como a incompatibilidade da cumulação de juros remuneratórios e moratórios sobre o mesmo período, à luz do art. 406 do Código Civil.
+Afirma que a plausibilidade do direito está consubstanciada no entendimento do STJ sobre aplicação da taxa Selic, no sentido de que a Selic é a taxa de juros de mora aplicável às dívidas de natureza civil, por ser essa a taxa em vigor para a atualização monetária e a mora.
+Defende que o perigo da demora está demonstrado na existência de cumprimento provisório de sentença (Atos n. 0728512-06.2025.8.07.0001), com pedido de constrição superior a R$ 43 milhões, antes do esgotamento das vias recursais (fl. 6).
+Sustenta que a indisponibilidade imediata dessa quantia é capaz de afetar sua liquidez e seu fluxo financeiro, com impacto sobre obrigações contratuais, fiscais e trabalhistas e efeitos sistêmicos sobre fornecedores e empregados.
+Requer seja conferido efeito suspensivo ao recurso especial a fim de suspender a eficácia do acórdão recorrido e paralisar o cumprimento provisório da sentença até o julgamento definitivo.
+É o relatório. Decido.
+O pedido não merece conhecimento.
+De acordo com o que prevê o art. 300 do CPC, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+Já a concessão de efeito suspensivo a recurso especial (art. 1.029, § 5º, do CPC) pressupõe a existência de juízo positivo de admissibilidade pelo presidente do tribunal de origem, a viabilidade do recurso especial, a plausibilidade jurídica do direito invocado e a configuração do periculum in mora.
+Registre-se que, de forma excepcional e à luz do caso concreto, é possível a atribuição de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, desde que preenchidos os requisitos do periculum in mora e do fumus boni juris, aliados à teratologia ou manifesta ilegalidade da decisão.
+No caso, a parte requerente deixou de juntar aos autos o acórdão da apelação e a petição de recurso especial.
+Dessa forma, diante da ausência de documento indispensável ao exame do pedido cautelar, não há como proceder à análise necessária da demonstração dos requisitos intrínsecos à concessão da medida no caso concreto, porquanto não foram evidenciados os fundamentos do acórdão recorrido, o que obsta a análise do fumus boni iuris.
+A propósito:
+AGRAVO INTERNO NA PETIÇÃO. TUTELA PROVISÓRIA INDEFERIDA EM RAZÃO DA DEFICIÊNCIA DA INSTRUÇÃO PROCESSUAL.
+1. Ao pleitear tutela provisória voltada à concessão de efeito suspensivo a recurso especial inadmitido na origem (e cujos autos sequer ascenderam a esta Corte, malgrado a interposição de agravo), deve a parte requerente instruir a petição com as cópias de todas as peças que viabilizem a compreensão da controvérsia, em especial o acórdão recorrido, entre outros. Precedentes. Caso em que a parte não se desincumbiu de tal dever.
+2. Agravo interno não provido. (Aglnt na Pet n. 11.383/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/9/2017, DJe de 25/9/2017, destaquei.)
+AGRAVO INTERNO NA TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. COMPETÊNCIA DO STJ. SUPOSTA APRECIAÇÃO NA ORIGEM. INSTRUÇÃO DEFICIENTE. NÃO CONHECIMENTO. ILEGALIDADE OU TERATOLOGIA NÃO EVIDENCIADAS. AUSÊNCIA DE ELEMENTOS HÁBEIS PARA INFIRMAÇÃO DOS FUNDAMENTOS DA DECISÃO IMPUGNADA.
+1. Se ainda não houve o juízo primeiro de admissibilidade do recurso especial, como corolário, não se iniciou a competência do Superior Tribunal de Justiça para analisar o pedido de atribuição de efeito suspensivo, nos termos do art. 1.029, § 5º, III, do CPC.
+2. O pedido de tutela provisória formulado com vistas à atribuição de efeito suspensivo a recurso especial deve ser instruído com os documentos necessários à compreensão da controvérsia e indispensáveis à demonstração de situação de excepcionalidade que autoriza a atuação do Superior Tribunal de Justiça.
+3. O simples fato de se ter dado início ao cumprimento provisório de sentença, por si só, não é suficiente para a atribuição de efeito suspensivo a recurso especial, tampouco para demonstrar a indispensável situação de excepcionalidade que autoriza a atuação do STJ, uma vez que a lei processual civil é taxativa ao prescrever que a execução provisória de sentença corre por conta e responsabilidade do exequente, que se obriga, se a sentença for reformada, a reparar os danos que o executado haja sofrido.
+4. Agravo interno desprovido. (AgInt no TP n. 4.240/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 4/5/2023, destaquei.)
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
+EMENTA
