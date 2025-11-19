@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO NA SÚMULA N. 7 DO STJ E NA SÚMULA N. 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA À SÚMULA N. 7 DO STJ. ALEGAÇÃO GENÉRICA DE QUE NÃO HÁ NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente, nas razões do agravo em recurso especial, quanto à Súmula n. 7 do STJ , restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, neste ponto, a violação dos princípios da razoabilidade e proporcionalidade para revisar o valor da multa, de que maneira não seria necessária a incursão ao campo fático-probatório. Incidência da Súmula n. 182/STJ.
+2. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+3. Na hipótese, deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno contra decisão monocrática proferida por este relator no Recurso Especial n. 2070777/SP (2022/0402867-5).
+A decisão não conheceu do agravo em recurso especial, fundamentando-se na incidência da Súmula n. 182 do STJ devido à ausência de impugnação concreta à Súmula n. 7 do STJ. A parte recorrente alegou de forma genérica que não há necessidade de reexame de fatos e provas, sem esclarecer como a violação dos princípios da razoabilidade e proporcionalidade para revisar o valor da multa não exigiria incursão ao campo fático-probatório (fls. 1175-1177).
+Nas razões do presente recurso, a ALSARAIVA COMÉRCIO, EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES EIRELI alega ser inaplicável a Súmula n. 182/STJ em razão de ter havido, no agravo em recurso especial, a efetiva e específica impugnação à Súmula n. 7/STJ.
+A parte agravada, FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR PROCON, não apresentou impugnação, conforme certidão de decurso de prazo sem resposta (fl. 1231).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO NA SÚMULA N. 7 DO STJ E NA SÚMULA N. 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA À SÚMULA N. 7 DO STJ. ALEGAÇÃO GENÉRICA DE QUE NÃO HÁ NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte recorrente, nas razões do agravo em recurso especial, quanto à Súmula n. 7 do STJ , restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, neste ponto, a violação dos princípios da razoabilidade e proporcionalidade para revisar o valor da multa, de que maneira não seria necessária a incursão ao campo fático-probatório. Incidência da Súmula n. 182/STJ.
+2. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+3. Na hipótese, deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+4. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+Como destacado na decisão agravada, o Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ e da Súmula n. 280 do STF.
+Ocorre, porém, que a parte, nas razões do agravo em recurso especial, quanto à Súmula n. 7 do STJ, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, neste ponto, a violação dos princípios da razoabilidade e proporcionalidade para revisar o valor da multa, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Portanto, inarredável a incidência da Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ.
+(AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..  Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..  Para afastar o óbice do Enunciado 7 da Súmula do STJ, caberia à parte agravante desenvolver argumentos que demonstrassem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido e como se dá a subsunção das normas que entende violadas a eles.
+(AgInt no AREsp n. 2.498.984/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+ ..  A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021. )
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..  Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF-5ª Região, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Na hipótese, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nessa linha de entendimento:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
