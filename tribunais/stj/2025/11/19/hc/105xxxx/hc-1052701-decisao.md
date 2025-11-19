@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GILVAN ALFREDO GOMES DOS SANTOS no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2324230-28.2025.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado definitivamente à pena de 21 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos arts. 121, § 2º, incisos II e IV, e 121, § 2º, inciso IV, c/c o art. 14, inciso II, na forma do art. 71, caput, e 70, segunda parte, todos do Código Penal.
+A ação penal transitou em julgado em 3/11/2016.
+A defesa ajuizou revisão criminal perante o Tribunal de origem, que indeferiu o pedido revisional, nos termos da seguinte ementa (e-STJ fl. 47):
+Revisão Criminal. Homicídio qualificado. Preliminares de nulidade em razão da não realização de audiência de instrução e interrogatório do réu e de ausência de fundamentação para produção antecipada de provas. Inocorrência. Defensor constituído nos autos de origem. Audiência de instrução e interrogatório que não se realizou apenas em razão da ausência do peticionário, que permaneceu foragido. Decretação da revelia. Defesa do réu que concordou expressamente com a antecipação das provas. Tese também afastada com o julgamento do RHC 68930/SP-STJ. No mérito, alegações de falta de provas para condenação e de que a qualificadora imputada não se aplica ao caso. Requer o reconhecimento do privilégio e fixação de regime ameno. Afastadas. Decisão dos senhores jurados que acolheu uma das versões sustentadas pelo conjunto probatório. A reiteração é incabível sem novos elementos. Pedido revisional indeferido.
+Daí o presente writ, no qual a defesa alega nulidade processual em razão da ausência da audiência para interrogatório do réu, bem como de fundamentação idônea apta a justificar a colheita antecipada das provas.
+Defende que o paciente deve ser impronunciado diante da inexistência de suporte fático apto a justificar a pronúncia.
+Sustenta, ainda, a ausência de fundamentação idônea para a aplicação das qualificadoras ao caso.
+Defende o reconhecimento do privilegio e a fixação de regime menos gravoso.
+Diante dessas alegações, requer, inclusive liminarmente, seja o paciente despronunciado e, por consequência, seja anulada a sentença condenatória. Subsidiariamente, busca o afastamento das qualificadoras, o reconhecimento do privilégio e o abrandamento do regime inicial.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, "é incognoscível, ordinariamente, o habeas corpus impetrado em substituição à via recursal de impugnação própria" (AgRg no HC n. 716.759/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/9/2023, DJe de 2/10/2023).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. ART. 71 DO CÓDIGO PENAL. CONTINUIDADE DELITIVA. UNIDADE DE DESÍGNIOS. HABITUALIDADE DELITIVA. NECESSIDADE REVOLVIMENTO DO ACERVO FATICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Superior Tribunal de Justiça possui entendimento de que para o reconhecimento da continuidade delitiva, exige-se, além da comprovação dos requisitos objetivos, a unidade de desígnios, ou seja, o liame volitivo entre os delitos, a demonstrar que os atos criminosos se apresentam entrelaçados. Dessa forma, a conduta posterior deve constituir um desdobramento da anterior (Precedentes).
+3. Na espécie, a Corte local concluiu que os crimes perpetrados não possuíam um liame a indicar a unidade de desígnios, verificando-se, assim, a habitualidade e não a continuidade delitiva. Desconstituir tais premissas demandaria o revolvimento do acervo fático-probatório dos autos, inviável na via estreita do habeas corpus.
+4. Agravo regimental não provido. (AgRg no HC n. 853.767/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. MANDAMUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido. (AgRg no HC n. 819.537/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+No caso, a condenação do paciente transitou em julgado, de maneira que não se pode conhecer do writ que pretende a desconstituição do acórdão proferido pela Corte local, olvidando-se a parte de interpor o competente recurso especial.
+Ante todo o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
