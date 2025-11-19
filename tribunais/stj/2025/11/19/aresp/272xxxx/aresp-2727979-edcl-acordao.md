@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE DEMONSTRAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Precedentes.
+2. No caso, a parte embargante não demonstra a efetiva existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por CASA DOS FILTROS COMÉRCIO LTDA. contra acórdão da Segunda Turma do STJ, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. RECURSO ESPECIAL INADMITIDO. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem inadmitiu o recurso especial, em face da inexistência de demonstração da violação aos arts. 489 e 1.022, do Código de Processo Civil, e da incidência das Súmulas 282 e 283 do STF; e 126 e 83 STJ, respectivamente. O agravo em recurso especial interposto deixou de apresentar impugnação específica à incidência das Súmulas 283 do STF; e 83 do STJ, não sendo conhecido por decisão da Presidência do Superior Tribunal de Justiça.
+2. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+3. Agravo interno desprovido (fl. 671).
+A parte embargante sustenta, em síntese, que (a) "impugnou especificamente este tópico da decisão em seu recurso de agravo, acerca da inaplicabilidade das súmulas 283/STF e 83/STJ" (fls. 686/687); e (b) "a impugnação foi feita de forma efetiva, concreta e pormenorizada, o que também pressupõe a impossibilidade de aplicação da Súmula 182 do STJ à presente hipótese" (fl. 687).
+Afirma, ainda, que "os argumentos presentes do Agravo Interno em Agravo em R Esp não são genéricos, de modo que resta inaplicável o verbete sumular 182/STJ, haja vista que foi devidamente demonstrada a violação aos dispositivos apontados no recurso especial, sendo tal afronta devidamente impugnada" (fl. 689).
+A parte embargada não apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.023 DO CPC. AUSÊNCIA DE DEMONSTRAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Precedentes.
+2. No caso, a parte embargante não demonstra a efetiva existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+3. Embargos de declaração não conhecidos.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Os embargos de declaração não merecem conhecimento.
+Nos termos do art. 1.023 do CPC, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 d o CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: EDcl no MS 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022; EDcl no MS 25.797/DF, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não demonstra a efetiva existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
