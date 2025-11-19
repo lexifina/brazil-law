@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de THALES EDUARDO NAVES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do Agravo de Execução Penal n. 4000124-80.2025.8.16.0077.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido de detração penal formulado pelo paciente, em relação ao período em que esteve em liberdade provisória com medida cautelar de recolhimento domiciliar noturno.
+O Tribunal de origem negou provimento ao agravo interposto pelo paciente, nos termos do acórdão que restou assim ementado:
+"EXECUÇÃO PENAL. RECURSO DE AGRAVO. INDEFERIMENTO DE PEDIDO DE DETRAÇÃO PENAL. INSURGÊNCIA DA DEFESA. REJEIÇÃO DA TESE RECURSAL. INVIABILIDADE DO CÔMPUTO DO PERÍODO QUE O SENTENCIADO ESTEVE EM LIBERDADE PROVISÓRIA. DEFESA QUE NÃO DEMONSTROU O CUMPRIMENTO DAS RESTRIÇÕES. SENTENCIADO QUE NÃO PODE SER AGRACIADO COM O CÔMPUTO DO PERÍODO QUE ESTEVE EM LIBERDADE, SEM QUALQUER MONITORAÇÃO, E PRATICANDO NOVOS CRIMES. RECURSO CONHECIDO E DESPROVIDO.
+I. Caso em exame
+1. Recurso de agravo interposto contra decisão da Vara de Execuções Penais de Cruzeiro do Oeste que indeferiu pedido de detração penal referente ao período em que o sentenciado esteve em liberdade provisória com medidas cautelares diversas da prisão, entre 10/07/2015 e 11/01/2019, totalizando 783 dias, conforme solicitado pela defesa.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível a detração penal pelo período em que o sentenciado esteve em liberdade provisória cumulada com medidas cautelares diversas da prisão.
+III. Razões de decidir
+3. O período em que o sentenciado esteve em liberdade provisória com medidas cautelares não é considerado para detração, conforme o artigo 387, § 2º, do Código de Processo Penal.
+4. Não houve comprovação de que o sentenciado cumpriu efetivamente as condições impostas durante a liberdade provisória, como a monitoração eletrônica e o comparecimento mensal em juízo, e o agravante praticou novos crimes durante o período em que pleiteia a detração, o que impede o reconhecimento do tempo como pena cumprida.
+IV. Dispositivo e tese
+5. Recurso conhecido e não provido.
+Tese de julgamento: "A detração penal não é aplicável ao período em que o sentenciado esteve em liberdade provisória cumulada com medidas cautelares diversas da prisão, na ausência de efetiva restrição da liberdade e monitoramento eletrônico." (fls. 7/8).
+No presente writ, a defesa sustenta a possibilidade de detração penal do período em que o paciente esteve submetido ao recolhimento domiciliar noturno (das 20h às 6h) e nos finais de semana, entre 10/7/2015 e 11/1/2019, cujo total convertido em dias perfaz 783 dias.
+Alega que o monitoramento eletrônico não é condição para a detração do período de recolhimento domiciliar, com base na tese firmada pela Terceira Seção no Tema Repetitivo n. 1.155 (REsp 1.977.135/SC).
+Requer, assim, a concessão da ordem para cassar o acórdão do Tribunal de origem e reconhecer o direito do paciente à detração penal referente ao período de 10/7/2015 a 11/1/2019.
+A liminar foi indeferida por decisão de fls. 92/94.
+As informações foram prestadas, às fls. 101/115 e 119/121.
+O Ministério Público Federal pugnou pelo não conhecimento do mandamus e pela denegação da ordem, em parecer de fls. 123/127.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem, de ofício, não se mostra adequada ao presente caso.
+O julgado atacado, ao negar a detração da pena ao paciente no período em que esteve em recolhimento noturno, assentou:
+"Apesar da insurgência recursal, constata-se que o réu, apesar de pleitear o cômputo do período de 10/07/2015 a 11/01/2019, no qual esteve em liberdade provisória cumulada com medidas cautelares, como tempo de pena cumprida, o artigo 387, § 2º, do Código de Processo Penal não prevê detração para medidas cautelares alternativas à prisão.
+Ademais, como bem destacado nos autos, o agravante não foi monitorado por tornozeleira e não demonstrou o cumprimento das restrições impostas, em especial o comparecimento mensal em juízo e o suposto recolhimento domiciliar, e ainda praticou novos crimes, conforme demonstrado na extensa lista de condenações criminais por delitos de furto qualificado, organização criminosa, desobediência, explosão, tráfico de drogas e associação ao narcotráfico.
+Além disso, foi descrito nas contrarrazões que o réu iniciou o cumprimento da pena em regime aberto no dia 16/05/2018, cumprindo pena até 10/01/2019, período que não pode ser computado em duplicidade.
+A partir desse fato, deve-se reiterar que o tempo não pode ser contabilizado, pois evidentemente não pode o sentenciado ser agraciado com o cômputo do período que esteve em liberdade, sem qualquer monitoração, e praticando novos crimes." (fl. 11).
+Constata-se, desta forma, que o aresto impugnado justificou a negativa da detração penal em razão do descumprimento das restrições impostas e da extensa lista de crimes cometidos durante o período que esteve em recolhimento noturno - furto qualificado, organização criminosa, desobediência, explosão, tráfico de drogas e associação ao narcotráfico -, e a defesa não teceu considerações referentes ao não cumprimento do comparecimento mensal em Juízo e ao cumprimento de pena em regime aberto no mesmo período do recolhimento noturno.
+Assim, em obediência ao Princípio da Dialeticidade, mostra-se impossível verificar a existência de flagrante ilegalidade, pois o impetrante não infirma alguns dos fundamentos do julgado atacado, passando a largo sem rebatê-los.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. RECONHECIMENTO DE CRIME ÚNICO. REITERAÇÃO. ABUSO DO DIREITO DE RECORRER. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, a defesa impetrou outro pedido de habeas corpus anteriormente, qual seja, o HC n. 730.735/RS, no qual impugnou o mesmo acórdão da Corte de origem.
+4. A impetração não foi conhecida, pois a estratégia adotada pela defesa na utilização de meios impugnativos consecutivamente inadmissíveis sinaliza abuso do direito de recorrer e fere a dignidade da justiça, devendo ser rechaçada.
+5. Ao invés de rebatar os fundamentos que impediram o conhecimento da impetração, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do mandamus.
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 802.034/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. PENAL. CRIMES DE RESPONSABILIDADE. DECRETO-LEI N. 201/1967. AVALIAÇÃO NEGATIVA UNICAMENTE DO VETOR CIRCUNSTÂNCIAS DO CRIME, POR FUNDAMENTOS DIVERSOS. IMPUGNAÇÃO SOMENTE DE PARTE DOS MOTIVOS DECLINADOS PELA CORTE LOCAL, NO PONTO. APLICAÇÃO DO PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE INTERESSE DE AGIR. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. MANTIDO O INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, DESPROVIDO.
+1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. O princípio da dialeticidade impõe, àquele que impugna uma decisão judicial, o ônus de demonstrar, satisfatoriamente, o equívoco dos fundamentos nela consignados. Tal princípio, aliás, não é restrito apenas aos recursos, mas também às vias autônomas de impugnação, como é o caso do habeas corpus.
+3. Havendo diversos fundamentos que justificam a avaliação negativa de uma mesma circunstância judicial, não basta impugnar apenas um deles. No caso, embora a Jurisdição ordinária tenha declinado três fundamentos para atribuir demérito ao vetor das circunstâncias do crime, a Defesa impugnou apenas um deles, o que torna o pedido incognoscível, em razão da não observância do princípio da dialeticidade.
+4. Nem mesmo a relativa informalidade da ação constitucional de habeas corpus pode ser manejada como subterfúgio para contornar o vício à cognição do pedido, afinal "saber pedir é tão importante quanto ser atendido, pois o julgador está atrelado ao pleito formulado" (AgRg no HC n. 766.325/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+5. Considerando-se que, na exordial do writ, impugnou-se apenas um dos fundamentos declinados pelas instâncias ordinárias para avaliar, negativamente, o vetor das circunstâncias do crime, o inconformismo quanto aos fundamentos remanescentes não é cognoscível, pois veiculado, originariamente, na petição de agravo regimental, em indevida inovação recursal.
+6. Hipótese em que não visualizada ilegalidade flagrante na fundamentação consignada na origem para avaliar, negativamente, o vetor das circunstâncias do crime, pois não se tratando de delito plurissubjetivo, " o  concurso de agentes constitui fundamento idôneo para justificar a elevação das penas-base, conforme a jurisprudência desta Corte" (AgRg no HC n. 740.899/RS, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022; sem grifos no original).
+7 . Agravo regimental conhecido, em parte, e, nessa extensão, desprovido.
+(AgRg no HC n. 809.390/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/5/2023, DJe de 16/5/2023.)
+Ante o exposto, com fulcro no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
