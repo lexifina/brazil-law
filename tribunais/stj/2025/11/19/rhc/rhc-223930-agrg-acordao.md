@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INGRESSO POLICIAL EM ESTABELECIMENTO COMERCIAL. CRIME PERMANENTE. FUNDADAS RAZÕES. AUSÊNCIA DE VIOLAÇÃO DA INVIOLABILIDADE DE DOMICÍLIO. PROVAS LÍCITAS. PRISÃO PREVENTIVA MANTIDA.
+1. Não há falar em nulidade, uma vez que a prisão em flagrante foi considerada justificada pela Corte local, com base em denúncia específica, fuga de coinvestigado e apreensão de substâncias entorpecentes, encontrando respaldo na jurisprudência desta Corte de Justiça.
+2. Estabelecimentos comerciais abertos ao público não se inserem no conceito de domicílio protegido pela garantia constitucional da inviolabilidade (art. 5º, XI, da CF).
+3. Inexistindo nulidade na busca e apreensão, mantêm-se válidas as provas obtidas e a prisão preventiva, devidamente fundamentada.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO MAXWELL SILVA LEA O contra a decisão monocrática de minha relatoria (fls. 134/137), mediante a qual neguei provimento ao recurso ordinário em habeas corpus, mantendo a validade das provas e da prisão preventiva.
+Na presente via recursal, o agravante argumenta que não havia fundamentos para o ingresso domiciliar, o qual teria sido baseado exclusivamente em denúncia anônima relativa a fato diverso. Requer a retratação da decisão hostilizada e, caso não seja possível, o provimento do agravo regimental para reconhecer a nulidade das provas obtidas na residência e revogar a prisão preventiva (fls. 142/145).
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INGRESSO POLICIAL EM ESTABELECIMENTO COMERCIAL. CRIME PERMANENTE. FUNDADAS RAZÕES. AUSÊNCIA DE VIOLAÇÃO DA INVIOLABILIDADE DE DOMICÍLIO. PROVAS LÍCITAS. PRISÃO PREVENTIVA MANTIDA.
+1. Não há falar em nulidade, uma vez que a prisão em flagrante foi considerada justificada pela Corte local, com base em denúncia específica, fuga de coinvestigado e apreensão de substâncias entorpecentes, encontrando respaldo na jurisprudência desta Corte de Justiça.
+2. Estabelecimentos comerciais abertos ao público não se inserem no conceito de domicílio protegido pela garantia constitucional da inviolabilidade (art. 5º, XI, da CF).
+3. Inexistindo nulidade na busca e apreensão, mantêm-se válidas as provas obtidas e a prisão preventiva, devidamente fundamentada.
+4. Agravo regimental improvido.
+VOTO
+O recurso não merece acolhimento.
+Conforme indicado no acórdão de origem, a busca domiciliar foi fundada em elementos concretos. Veja-se (fls. 84/85 - grifo nosso):
+O auto de prisão em flagrante revela atuação policial desencadeada a partir de informes do Núcleo de Inteligência do Agreste (NIA), segundo os quais um estabelecimento comercial, situado no bairro Posto Agamenon, estaria sendo utilizado como ponto de distribuição de drogas, a mando de detento do Sistema Penitenciário Federal identificado como Valdisney, sendo o paciente apontado como responsável pela distribuição. As informações davam conta, ainda, de que naquela data haveria entrega de drogas no local, envolvendo veículo HB20 branco, placa PCD7C94.
+Segundo consta do APFD, a guarnição policial, ao deslocar-se ao local indicado, deparou-se com veículo com as mesmas características nas imediações do viaduto do bairro Alto do Moura. Após ordem de parada, o condutor abandonou o carro e evadiu-se para área de matagal, logrando escapar. No interior do veículo, foram encontrados aproximadamente 2 kg de maconha. Confirmada a denúncia, os policiais prosseguiram até o estabelecimento comercial, onde encontraram o paciente Paulo Maxwell Silva Leão, que se apresentou como proprietário do local.
+No interior do comércio, em ação devidamente documentada, localizaram inicialmente 8g de crack, ocasião em que o próprio paciente admitiu haver mais drogas no balcão do estabelecimento, indicando o local exato onde foi encontrada porção de maconha prensada. Em sequência, foram localizados 1 kg de crack, 1 kg de cocaína, balança de precisão, caderno com anotações da atividade de tráfico, embalagens para acondicionamento de drogas, valor em espécie de R$ 319,10 e diversos aparelhos celulares.
+Na decisão recorrida, fundamentei o não provimento do recurso pelos seguintes fundamentos (fls. 135/136 - grifo nosso):
+Do exame dos autos observa-se que a busca que culminou com a deflagração da ação penal contra o recorrente se encontra consubstanciada em prévia denúncia que logrou pormenorizar o local específico em que a comercialização da droga vinha sendo realizada. O local da comercialização seria, justamente, o estabelecimento comercial do recorrente. A denúncia específica foi então corroborada pelo comportamento do coinvestigado que, após a abordagem, evadiu-se do local.
+Ademais, conforme registrado no acórdão recorrido, estabelecimentos comerciais abertos ao público não gozam da proteção constitucional da inviolabilidade do domicílio (AgRg no HC n. 915.551/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN de 11/3/2025)
+No caso específico do tráfico de drogas, crime de natureza permanente, o estado de flagrância se protrai no tempo, circunstância que autoriza o ingresso em domicílio para interrupção da atividade criminosa em curso.
+Desse modo, inexiste nulidade a ser reconhecida no flagrante.
+Portanto, infere-se que a busca domiciliar foi fundada em dois elementos. Em primeiro lugar, denúncia específica, inclusive com referência às placas de um veículo, sobre a entrega de droga em um determinado local. Em segundo lugar, a evasão do coinvestigado, reforçando a existência de elementos objetivos aptos a fundamentar o ingresso.
+A mesma informação pode ser retirada do auto de prisão em flagrante, o qual indica que, a partir da denúncia específica, os policiais abordaram o referido veículo e, posteriormente, o estabelecimento comercial do recorrente (fls. 21/22).
+A jurisprudência desta Corte tem posicionamento no sentido de que a existência de denúncia especificada, juntamente com a evasão do alvo da investigação, constituem elementos suficientes para fundamentar busca pessoal ou domiciliar: HC n. 975.954/AM, Ministro Og Fernandes, Sexta Turma, julgado em 5/8/2025, DJEN de 14/8/2025; e HC n. 1.002.590/SP, de minha relatoria, Sexta Turma, DJEN de 7/7/2025.
+Portanto, ao contrário do que argumenta o agravante, a moldura fática delineada indica que a busca não ocorreu em razão de motivo diverso, mas, sim, em continuidade às diligências desencadeadas a partir da denúncia especifica. O próprio trecho do depoimento da testemunha policial trazido pelo agravante à fl. 144 revela que se tratava de uma continuidade das diligências.
+Por fim, reitere-se que, de acordo com a jurisprudência deste Tribunal Superior, a busca domiciliar em estabelecimento comercial aberto ao público é válida quando há fundadas razões evidenciadas por diligência prévia e denúncias especificadas (AgRg no HC n. 989.613/RS, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJEN de 18/8/2025).
+Ante o exposto, nego provimento ao agravo regimental.
