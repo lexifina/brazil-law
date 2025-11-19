@@ -1,0 +1,39 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 286 - 287):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO NÃO CONHECIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula n. 7 desta Corte).
+2. Agravo em recurso especial não conhecido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 322 - 324).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que o acórdão recorrido, ao deixar de analisar as teses suscitadas no recurso especial, teria violado os princípios da inafastabilidade de jurisdição, do contraditório, da ampla defesa e do dever de fundamentação das decisões judiciais, notadamente porque a decisão estaria motivada em elementos genéricos.
+Requer, assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 289-290):
+Da análise do presente inconformismo se verifica que o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois TRAVESSIA não refutou, de forma arrazoada, o óbice da incidência da Súmula n. 7 desta Corte.
+TRAVESSIA, em seu agravo em recurso especial, limitou-se a afirmar a desnecessidade de reexame probatório, mas não desenvolveu sua alegação para demonstração efetiva da inaplicabilidade da referida disposição sumular ao caso.
+Na espécie, como se sabe, especialmente na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula n. 7 do STJ, deve o agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que não foi feito.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula n. 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n. 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade. Além disso, foi também consignado pelo em Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, veja-se precedente da Segunda Seção:
+(..)
+Do mesmo modo, foi devidamente motivada a rejeição dos embargos de declaração (fls. 323-324):
+O acórdão recorrido não foi obscuro, omisso, contraditório nem tampouco apresentou erro material, tendo concluído que deve ser mantido o não conhecimento do agravo em recurso especial, anteriormente manejado, em virtude da ausência de impugnação aos seus fundamentos, no caso, a Súmula n. 7 do STJ.
+Anote-se que a disposição sumular é fundamento suficiente para embasar a negativa de seguimento, uma vez que esta Superior Corte apenas analisa teses jurídicas, e, no presente caso, o recurso especial aponta o preenchimento dos requisitos autorizadores para a decretação da desconsideração da personalidade jurídica, o que remete aos contornos fáticos da causa, devendo, portanto, ser demonstrado pelo agravante, sua inaplicabilidade no caso concreto.
+Desse modo, não há falar-se, assim, omissão ou ausência de enfrentamento sobre questão relevante da decisão agravada. Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+(..)
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
