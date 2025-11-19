@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Carlos Pires Brandão, Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. JURADO PROFISSIONAL. ILEGALIDADE NÃO VERIFICADA. ALEGAÇÃO DE INFORMAÇÕES INVERÍDICAS CONSTANTES NO ACÓRDÃO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE EM SEDE DE HABEAS CORPUS. RECURSO DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. a Corte de origem não reconheceu a nulidade arguida referente às alegações de existência "jurados profissionais", uma vez que teriam participado de outros julgamentos, destacando que "não há, nos autos, comprovação idônea de que os jurados mencionados pelo impetrante como repetentes  ..  tenham, de fato, participado de julgamento anteriores nos 12 meses que precederam a publicação da lista geral vigente à época da sessão plenária em que o paciente foi condenado". Além disso, constou que a respectiva lista foi publicada em 1º/11/2024, e a defesa aponta que tais jurados participaram de julgamentos após a publicação da referida lista.
+3. Ademais, destaca-se que não é possível acolher a tese defensiva de que as informações constantes no acórdão seriam inverídicas, uma vez que seria necessário o revolvimento de fatos e provas, o que é vedado em sede de habeas corpus.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MARCELO BATATINHA DOS SANTOS contra decisão em que deneguei o habeas corpus.
+Consta dos autos que o agravante foi condenado à pena de 21 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, III, do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem, o qual lhe denegou a ordem, em acórdão assim ementado (e-STJ fls. 11/13):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE NULIDADE NA COMPOSIÇÃO DO CONSELHO DE SENTENÇA. VIOLAÇÃO AO ART. 426, §4º DO CPP. INOCORRÊNCIA. CIRCUNSTÂNCIAS EXCEPCIONAIS DEVIDAMENTE JUSTIFICADAS. ELABORAÇÃO E ATUALIZAÇÃO DE LISTA DE JURADOS EM CONFORMIDADE COM A LEGISLAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO CONCRETO À DEFESA. EXECUÇÃO PROVISÓRIA DA PENA. LEGITIMIDADE. TEMA 1068 DO STF. - O caso trata de habeas corpus liberatório, com pedido liminar, impetrado contra decisão que condenou o paciente a 21 (vinte e um) anos de reclusão, por homicídio qualificado, previsto no art. 121, §2º, inciso III do CP, sendo absolvido pelo delito de ocultação de cadáver. - Alegação de nulidade absoluta por suposta irregularidade na composição do Conselho de Sentença, com violação do disposto no art. 426, §4º do CPP, sob argumento de que quatro dos sete jurados sorteados já haviam integrado Conselho de Sentença no ano de 2024. - Esclarecimentos prestados pela autoridade coatora demonstram que, em virtude da vacância da titularidade do magistrado nos exercícios de 2022 e 2023, procedeu-se, em 20 de março de 2024, ao sorteio dos cidadãos que comporiam o corpo de jurados da Comarca, utilizando-se, excepcionalmente, da lista de 2022, após a devida exclusão daqueles que integraram, nos períodos anteriores, o Conselho de Sentença. - Em outubro de 2024, foi elaborada nova lista para atuação durante os 12 meses subsequentes, em estrita observância ao preceituado pelo Código de Processo Penal, publicada em 01/11/2024, com vigência a partir de 14/11/2024. - O tribunal do júri que julgou o paciente, realizado em 30/01/2025, utilizou jurados da lista vigente, publicada em novembro de 2024, em conformidade com as exigências legais. - Não restou comprovada a alegada repetição de jurados que teriam integrado Conselho de Sentença nos 12 meses anteriores à publicação da lista geral, não havendo, portanto, o vício apontado. - Ausência de demonstração de prejuízo concreto à defesa, não havendo razão para o reconhecimento de nulidade processual. - Quanto à execução provisória da pena, a condenação pelo Tribunal do Júri autoriza a imediata execução da pena, independentemente do total aplicado, conforme entendimento firmado pelo STF no julgamento do Tema 1068. ORDEM DENEGADA.
+No habeas corpus, a defesa alegou nulidade no julgamento ao argumento de que três dos sete jurados participantes teriam colaborado em outros Tribunais do Júri, nos 12 meses antecedentes.
+Afirmou que não haveria preclusão da matéria e que estaria configurada a figura do jurado profissional, estando violados os princípios do juiz natural, da paridade de armas, da ampla defesa e do contraditório.
+Requereu, assim, a concessão da ordem constitucional para que seja declarada a nulidade absoluta do Conselho de Sentença.
+O habeas corpus foi denegado (e-STJ fls. 631/634).
+Daí o presente agravo regimental, no qual a defesa reitera os argumentos apresentados na inicial do habeas corpus, inclusive destacando que as informações prestadas pela Juízo de origem seriam inverídicas.
+Requer, assim, (e-STJ fl. 645):
+1. O recebimento e provimento do presente Agravo Regimental para que seja reconsiderada a decisão monocrática;
+2. O reconhecimento das nulidades processuais por formação irregular do Conselho de Sentença;
+3. A concessão da ordem de habeas corpus para anular o julgamento realizado em 30/01/2025, com a imediata expedição de alvará de soltura, se por outro motivo não estiver preso;
+4. Alternativamente, que o STJ determine a requisição de informações complementares quanto à formação da lista de jurados de 2024/2025.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. JURADO PROFISSIONAL. ILEGALIDADE NÃO VERIFICADA. ALEGAÇÃO DE INFORMAÇÕES INVERÍDICAS CONSTANTES NO ACÓRDÃO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE EM SEDE DE HABEAS CORPUS. RECURSO DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. a Corte de origem não reconheceu a nulidade arguida referente às alegações de existência "jurados profissionais", uma vez que teriam participado de outros julgamentos, destacando que "não há, nos autos, comprovação idônea de que os jurados mencionados pelo impetrante como repetentes  ..  tenham, de fato, participado de julgamento anteriores nos 12 meses que precederam a publicação da lista geral vigente à época da sessão plenária em que o paciente foi condenado". Além disso, constou que a respectiva lista foi publicada em 1º/11/2024, e a defesa aponta que tais jurados participaram de julgamentos após a publicação da referida lista.
+3. Ademais, destaca-se que não é possível acolher a tese defensiva de que as informações constantes no acórdão seriam inverídicas, uma vez que seria necessário o revolvimento de fatos e provas, o que é vedado em sede de habeas corpus.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso, porque, conforme consignado na decisão agravada, o Tribunal de origem, ao denegar o habeas corpus, consignou que (e-STJ fls. 18/20, grifei):
+O habeas corpus não deve ser conhecido em sua totalidade e, na parte conhecida, deve ser denegado.
+Quanto ao pedido de anulação do julgamento pelo Tribunal do Júri, sob a alegação de irregularidade na formação do Conselho de Sentença, não vislumbro a existência do constrangimento ilegal apontado pelo impetrante.
+Da análise detida dos autos, verifica-se que a juíza da Vara Criminal da Comarca de Senhor do Bonfim esclareceu, de forma cabal, a questão referente à formação do Conselho de Sentença e à atualização da lista de jurados.
+Nas informações prestadas, a magistrada explicou que:
+"Em virtude da vacância da titularidade do magistrado nos exercícios de 2022 e 2023, procedeu-se, em 20 de março de 2024, ao sorteio dos cidadãos que comporiam o corpo de jurados desta Comarca de Senhor do Bonfim, atuantes no ano de 2024, valendo-se, excepcionalmente, do rol de jurados preexistente (elaborado no ano de 2022), após a devida exclusão daqueles que integraram, nos períodos anteriores, o Conselho de Sentença."
+Esclareceu ainda que:
+"Foi implementado o Projeto TJBA Mais Júri com o aumento expressivo na quantidade de júris realizadas no último trimestre do ano. Ante a premente necessidade de atualização do rol de jurados foram expedidos ofícios aos órgãos competentes, dos quais somente parcela respondeu com a indicação dos nomes solicitados.
+Procedeu-se, em outubro de 2024, à elaboração da lista para atuação durante o interstício dos 12 meses subsequentes, em estrita observância ao preceituado pelo Código de Processo Penal.
+Com base na referida lista geral (publicada em 01/11/2024), realizou-se novo sorteio dos jurados designados para atuação nesta Comarca de maneira imediata, a partir de 14 de novembro de 2024, sendo que a lista anterior atuou até dia 13/11/2024."
+Destaca-se, portanto, que o julgamento do paciente, realizado em 30/01/2025, utilizou-se da lista de jurados publicada em 01/11/2024, com vigência a partir de 14/11/2024, em estrita observância ao disposto no art. 426 do Código de Processo Penal.
+Não há, nos autos, comprovação idônea de que os jurados mencionados pelo impetrante como repetentes (BRISA DOURADO VIANA PINEL, CICERO BATISTA DE S. JUNIOR, MARIA EDILENE NERI DOS ANJOS e KATIANA ALVES DA SILVA) tenham, de fato, participado de julgamentos anteriores nos 12 meses que precederam a publicação da lista geral vigente à época da sessão plenária em que o paciente foi julgado.
+As meras alegações do impetrante, desacompanhadas de prova pré-constituída, não são suficientes para a configuração do constrangimento ilegal alegado, especialmente considerando as informações prestadas pela autoridade coatora em sentido contrário.
+Mesmo que se admitisse, apenas para argumentar, alguma irregularidade na composição do Conselho de Sentença, o impetrante não demonstrou o efetivo prejuízo sofrido pela defesa em razão dessa suposta irregularidade, requisito essencial para o reconhecimento de eventual nulidade processual, em conformidade com o princípio pas de nullité sans grief.
+Conforme se vê, a Corte de origem não reconheceu a nulidade arguida, destacando que "não há, nos autos, comprovação idônea de que os jurados mencionados pelo impetrante como repetentes  ..  tenham, de fato, participado de julgamento anteriores nos 12 meses que precederam a publicação da lista geral vigente à época da sessão plenária em que o paciente foi condenado". Além disso, constou que a respectiva lista foi publicada em 1º/11/2024, e a defesa aponta que tais jurados participaram de julgamentos após a publicação da referida lista.
+Assim, não se vislumbra a ocorrência de constrangimento ilegal no presente caso.
+Ademais, destaca-se que não é possível acolher a tese defensiva de que as informações constantes no acórdão seriam inverídicas, uma vez que seria necessário o revolvimento de fatos e provas, o que é vedado em sede de habeas corpus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
