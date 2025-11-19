@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de Felipe Teilison Rodrigues de Souza contra o ato coator proferido pela Primeira Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios que, nos autos do Agravo em Execução n. 0741615-20.2024.8.07.0000, negou provimento à insurgência defensiva, mantendo o indeferimento da remição pela aprovação no Exame Nacional do Ensino Médio - ENEM 2023 sob o argumento de bis in idem, considerando que o benefício já havia sido homologado pela aprovação no ENCCEJA 2022 - Ensino Médio (Execução n. 0401073-27.2020.8.07.0015, Vara de Execução Penal do Distrito Federal/DF).
+A defesa alega, em síntese, que a paciente prestou Exame Nacional do Ensino Médio em 2023, tendo sido aprovado. Defende sofrer o apenado constrangimento ilegal por negativa de (nova) remição de penas haja vista a aprovação no ENCCEJA e no ENEM constituem fatos geradores distintos, aptos a ensejar remição pelos estudos, sem contudo caracterizar duplicidade na homologação, sendo cabível cúmulo de benesses por ambas aprovações (fls. 3/13).
+O Ministério Público Federal pugna pelo não conhecimento ou denegação da ordem, conforme os termos da ementa do parecer (fl. 401):
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. EXECUÇÃO PENAL. REEDUCANDO QUE OBTEVE REMIÇÃO DE PENA(S) AO SER APROVADO NO "ENCCEJA". APROVAÇÃO NO "ENEM/2023". PRETENSÃO POR NOVA REMIÇÃO. IMPOSSIBILIDADE. APENADO JÁ BENEFICIADO HAJA VISTA SUA APROVAÇÃO NO "ENCCEJA/ENSINO MÉDIO 2022" PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER POR NÃO CONHECIMENTO OU DENEGAÇÃO DO WRIT SUBSTITUTIVO EM RESPEITO À JURISDIÇÃO E SEUS LIMITES E À JUSTIÇA.
+É o relatório.
+A impetração pretende o reconhecimento dos dias de remição pela aprovação no ENEM 2023, pois considera não haver bis in idem entre o pedido e a anterior certificação de conclusão do ensino médio pela aprovação no ENCCEJA 2022.
+Após análise dos autos e da jurisprudência deste Tribunal Superior, entendo assistir razão à impetração.
+O Tribunal local negou provimento ao pleito defensivo de remição aos seguintes fundamentos (fl. 21):
+ ..
+Na espécie, o sentenciado já foi agraciado pela remição em virtude da aprovação no ENCCEJA/2022, totalizando 133 (cento e trinta e três dias), conforme mov. 266. Assim, posteriormente, realizou o ENEM/2023, obtendo nota acima de 422 em todas as áreas de conhecimento, quais sejam: Ciências da natureza e suas Tecnologias (438.1), Ciências Humanas e suas Tecnologias (503.9), Linguagens, Códigos e suas Tecnologias (485.4), Matemática e suas Tecnologias (422.4) e Redação (520) (ID 65236320, pág. 339).
+Dessa forma, a aprovação decorrente do ENEM/2023, apesar de louvável e sinalizar a intenção do apenado de continuar com os estudos e ressocialização, não pode ser considerada como fundamento para remição de pena, sob o risco de incorrência em bis in idem, por ter o mesmo fato gerador do ENCCEJA/2022.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+É como voto.
+Sobre a possibilidade de remição da pena por aprovação (total ou parcial) no ENCCEJA - Ensino Médio não possuir o mesmo "fato gerador" do pleito de remição de pena em decorrência de aprovação (total ou parcial) no ENEM, a temática foi também resolvida pela Terceira Seção desta Corte Superior no julgamento do EAREsp n. 2.576.955/ES, relatado pelo Ministro Reynaldo Soares da Fonseca, em sessão do dia 12/3/2025.
+Compreensão essa ratificada no julgamento do HC n. 863.760/SC (de minha relatoria, Terceira Seção, encerrado em 8/10/2025), cujo acórdão recebeu a seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO. REMIÇÃO PELO ESTUDO. APROVAÇÃO PRÉVIA NO ENCCEJA. APROVAÇÃO NO ENEM. RECOMENDAÇÃO N. 44/2013 DO CNJ. RESOLUÇÃO N. 3/2010 DO CNE. BIS IN IDEM. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Nos termos do art. 126 da Lei de Execuções Penal, será remido 1 dia de pena para cada 12 horas de frequência escolar, sendo aplicado o percentual de 50% para o caso de condenado não vinculado a estabelecimento de ensino, no qual, por conta própria, executa atividade intelectual e, posteriormente, realiza o exame nacional de certificação, conforme termos da Recomendação n. 44/2013 do CNJ (posteriormente modificada pela Resolução n. 391/2021). Precedentes.
+2. Esse dispositivo vem sendo interpretado extensivamente in bonam partem, admitindo-se a abreviação da pena pela prática de atividades socioeducativas escolares e não escolares (precedente).
+3. Até o ano de 2016, o Exame Nacional do Ensino Médio servia à finalidade de certificar a conclusão do ensino médio, constituindo exame para ingresso no ensino superior por meio do Sistema de Seleção Unificada (SISU). A certificação de conclusão do ensino médio passou a ser emitida apenas por meio do Exame Nacional de Certificação de Competências de Jovens Adultos (ENCCEJA).
+4. A conclusão no ensino médio, seja pelo estudo regular ou pela aprovação no ENCCEJA, não encontra, na aprovação no ENEM, um mesmo objeto e, assim, não configura duplo benefício pelo mesmo fato gerador.
+5. No caso, o paciente obteve a certificação da conclusão do ensino médio em razão da aprovação no ENCCEJA e agora pretende a remição pela aprovação no ENEM. Assim, tendo em conta que os exames se prestam atualmente a diferentes finalidades, não há falar em duplo benefício pelo mesmo fato gerador, sem, no entanto, o acréscimo de 1/3.
+6. Ordem parcialmente concedida.
+Até o ano de 2016, o Exame Nacional do Ensino Médio servia à finalidade de certificar a conclusão do Ensino Médio, constituindo exame para ingresso no Ensino Superior por meio do Sistema de Seleção Unificada (SISU). A certificação de conclusão do Ensino Médio passou a ser emitida apenas por meio do Exame Nacional de Certificação de Competências de Jovens Adultos (ENCCEJA).
+Ou seja: a conclusão no Ensino Médio, seja pelo estudo regular ou pela aprovação no ENCCEJA, não encontra na aprovação no ENEM um mesmo objeto e, assim, não configura duplo benefício pelo mesmo fato gerador.
+No caso, o paciente obteve a certificação da conclusão do Ensino Médio em razão da aprovação no ENCCEJA e agora pretende a remição pela aprovação no ENEM.
+Assim, tendo em conta que os exames se prestam, atualmente, a diferentes finalidades, não há falar em duplo benefício pelo mesmo fato gerador.
+Necessário afastar a ilegalidade perpetrada e reconhecer o direito à remição da pena nos termos propostos.
+Ante o exposto, concedo a ordem para determinar o reconhecimento da remição da pena em favor do paciente, em razão da aprovação no ENEM/2023 nas áreas de conhecimento efetivamente co mprovadas nos autos.
+Comunique-se, com urgência, ao Tribunal de Justiça e ao Juízo da Execução Penal.
+Intime-se o Ministério Público do Distrito Federal e Territórios.
+Publique-se
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. REMIÇÃO PELO ESTUDO. APROVAÇÃO PRÉVIA NO ENCCEJA. APROVAÇÃO NO ENEM. RECOMENDAÇÃO N. 44/2013 DO CNJ. RESOLUÇÃO N. 3/2010 DO CNE. BIS IN IDEM. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES DA TERCEIRA SEÇÃO.
+Ordem concedida.
