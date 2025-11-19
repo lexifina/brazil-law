@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que não admitiu recurso especial manejado, com base na alínea "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 912):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE ARRENDAMENTO MERCANTIL. SENTENÇA QUE RECONHECE A PRESCRIÇÃO INTERCORRENTE E JULGA EXTINTO O PROCESSO. I). PRELIMINAR DE NULIDADE DA SENTENÇA, POR AUSÊNCIA DE INTIMAÇÃO PRÉVIA PARA MANIFESTAÇÃO, NOS TERMOS DOS ARTS. 9º, 10, E 921, § 5º, CPC. APELANTE QUE TEVE A OPORTUNIDADE DE DEDUZIR AS RAZÕES DE SEU INCONFORMISMO COM A APELAÇÃO. EXERCÍCIO DO CONTRADITÓRIO DE FORMA DIFERIDA. AUSÊNCIA DE PREJUÍZO. PRELIMINAR REJEITADA.II).PRETENSÃO DE AFASTAMENTO DA PRESCRIÇÃO INTERCORRENTE. IMPOSSIBILIDADE. ENTENDIMENTO FIXADO PELO STJ EM JULGAMENTO DE IAC Nº 1.604.412/SC. CONTAGEM DO PRAZO QUE SE INICIA APÓS O TÉRMINO DO PRAZO DA SUSPENSÃO JUDICIAL POR AUSÊNCIA DE BENS PENHORÁVEIS. REALIZAÇÃO DE DILIGÊNCIAS INFRUTÍFERAS QUE NÃO OBSTAM O TRANSCURSO DO PRAZO PRESCRICIONAL. NÃO INTERRUPÇÃO DA PRESCRIÇÃO. AUSÊNCIA DE CONSTRIÇÃO EFETIVA. ENTENDIMENTO DA CORTE SUPERIOR E DESTA CÂMARA. SENTENÇA MANTIDA. VERBAS DE SUCUMBÊNCIA. MANUTENÇÃO.
+Os embargos de declaração opostos pelo BANCO SANTANDER (BRASIL) S.A. foram rejeitados (fls. 944-948).
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 9º, 10, 921, § 5º, 932, IV, "c", e 947, § 3º, do Código de Processo Civil; art. 58, V, da Lei 14.195/2021; e art. 1.056, caput, do Código de Processo Civil.
+Sustenta nulidade por ofensa ao contraditório e à não surpresa, sob pena de violação dos arts. 9º, 10 e 921, § 5º, do Código de Processo Civil, alegando imprescindibilidade de intimação prévia do credor antes do reconhecimento da prescrição intercorrente e vinculatividade das teses do Incidente de Assunção de Competência (arts. 932, IV, "c", e 947, § 3º, do Código de Processo Civil) (fls. 954-960).
+Defende, ademais, que a Lei 14.195/2021 não pode retroagir para atingir execuções privadas anteriores à sua vigência, de modo que o termo inicial da prescrição intercorrente e as causas de suspensão/interruptão devem observar o regime do CPC/1973 e, depois, do CPC, consoante art. 1.056 do Código de Processo Civil, e que a mera ciência de tentativa infrutífera de localização de bens não configuraria termo inicial antes da lei nova (fls. 960-966).
+Alega, por fim, divergência jurisprudencial quanto à necessidade de inércia do credor para caracterizar a prescrição intercorrente no período anterior à Lei 14.195/2021 (fls. 967-970).
+Decorreu o prazo sem apresentação de contrarrazões.
+A não admissão do recurso na origem ensejou a interposição do presente agravo.
+Decorreu o prazo sem apresentação de impugnação.
+Assim delimitada a questão, satisfeitos os requisitos de admissibilidade do agravo, dele conheço, passando à análise do recurso especial.
+O recurso não merece prosperar.
+Originariamente, o BANCO SANTANDER (BRASIL) S.A. ajuizou execução de título extrajudicial fundada em Contrato de Arrendamento Mercantil Financeiro n.º 0.12.5262-3, afirmando inadimplemento desde 4/6/2009 e pleiteando a cobrança de R$ 150.667,54 (cento e cinquenta mil e seiscentos e sessenta e sete reais e cinquenta e quatro centavos), com pedidos de citação, penhora, pesquisa de ativos e demais medidas executivas (fls. 2-6, 13-16, 27-29, 30-32).
+A sentença extinguiu a execução, reconhecendo a prescrição intercorrente, com resolução do mérito (art. 487, II, do Código de Processo Civil), sem fixação de honorários, e determinou levantamento de eventuais constrições após custas (fls. 863-866).
+O Tribunal de origem negou provimento à apelação, rejeitou a preliminar de nulidade por ausência de intimação prévia sob a técnica do contraditório diferido, reconheceu que não houve inércia processual, mas afirmou inexistência de atos executivos efetivos (constrição/citação) e a inaplicabilidade de diligências infrutíferas para interromper a prescrição intercorrente, mantendo a extinção e aplicando o art. 921, § 5º, do Código de Processo Civil quanto à sucumbência (fls. 912-922).
+Sobre o tema, verifica-se que a Segunda Seção desta Corte firmou entendimento de que não há necessidade de intimação pessoal dos exequentes para que tenha curso a prescrição intercorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO PESSOAL. NOVA ORIENTAÇÃO. DESNECESSIDADE. IAC NO REsp 1.604.412/SC. EFEITOS. MODULAÇÃO. INEXISTÊNCIA. TESE. APLICAÇÃO IMEDIATA. NÃO PROVIMENTO.
+1. A Segunda Seção desta Corte firmou entendimento de que não há necessidade de intimação pessoal do exequente para que tenha curso a prescrição intercorrente.
+2. Entendimento que tem aplicação imediata, porquanto não houve modulação de efeitos.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento" (AgInt no AgInt no AREsp n. 2.354.793/PR, minha relatoria, QUARTA TURMA, DJe de 18/4/2024.)
+Ademais, verifica-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, no sentido de que, se há o transcurso do lustro prescricional sem que haja diligências frutíferas da exequente para a satisfação do seu crédito, deve ser reconhecida a prescrição intercorrente.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. DILIGÊNCIAS INFRUTÍFERAS. NÃO SUSPENSÃO DO PRAZO PRESCRICIONAL, SOB PENA DE IMPRESCRITIBILIDADE DA DÍVIDA.
+1. A promoção de diligências infrutíferas não tem o condão de suspender ou interromper o prazo prescricional, tornando a dívida imprescritível. Precedentes.
+2. No caso, o prazo prescricional é trienal. Não obstante, mesmo após efetuadas diversas diligências ao longo de 20 anos, a dívida ainda não foi satisfeita.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que houver jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+4. Agravo interno não provido" (AgInt no REsp n. 1.986.517/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da J ustiça gratuita.
+Intimem-se.
+EMENTA
