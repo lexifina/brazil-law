@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de KAYLAYNE DOS SANTOS ANDRADE contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0073588-64.2025.8.19.0000).
+Consta dos autos que a paciente foi pronunciada em 21/8/2025, pela suposta prática do crime de homicídio qualificado (art. 121, §2º, incisos II, III e IV, do Código Penal), na forma do art. 29 do Código Penal, tendo sido mantida a prisão preventiva anteriormente decretada.
+A defesa impetrou habeas corpus perante o Tribunal de origem buscando a revogação da prisão preventiva, ou sua substituição por prisão domiciliar em razão de ser mãe de criança menor de 12 anos (e-STJ fl. 15).
+O Tribunal a quo denegou a ordem, em acórdão assim ementado (e-STJ fls. 12/13):
+EMENTA. DIREITO PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. PRONÚNCIA. INDEFERIMENTO DE PRISÃO DOMICILIAR. ORDEM DENEGADA.
+I. Caso em exame
+Habeas corpus impetrado em favor de paciente denunciada por homicídio qualificado, com pedido de revogação da prisão preventiva ou substituição por prisão domiciliar, sob alegação de ausência de indícios de autoria e por ser mãe de criança menor de 12 anos.
+II. Questão em discussão
+Legalidade e adequação da prisão preventiva diante da existência de indícios de autoria, gravidade concreta do delito e da possibilidade de prisão domiciliar por ser mãe de criança menor que 12 anos.
+III. Razões de decidir
+A decisão que decretou a prisão preventiva está fundamentada, na prova da materialidade do crime e em indícios sufi- cientes de autoria. A gravidade concreta do delito, praticado com extrema violência, justifica a segregação cautelar para garantia da ordem pública. A decisão de pronúncia reforça a presença dos requisitos do art. 312 do Código de Processo Penal. A substituição da prisão preventiva por domiciliar, nos termos do art. 318-A, I, do Código de Processo Penal, para mãe de criança menor de 12 anos é vedada nos crimes com violência contra a pessoa. IV. Dispositivo e tese A condição de mãe de criança menor de 12 anos não autoriza, por si só, a substituição da prisão preventiva por domiciliar, nos termos do art. 318-A, I, do Código de Processo Penal, diante da prática de crime com violência à pessoa. Ausência de ilegalidade ou constrangimento ilegal.
+Tese: "A prisão preventiva é cabível e legítima quando presentes os requisitos do art. 312 do Código de Processo Penal, mesmo em se tratando de mulher gestante ou mãe de criança menor de 12 anos, quando o crime imputado for cometido com violência ou grave ameaça à pessoa."
+No presente writ, a defesa alega que os fatos narrados não revelam periculosidade acentuada, que a paciente é primária, possui residência fixa e bons antecedentes, e que não haveria indícios de instigação ou participação no delito. Sustenta, ainda, a possibilidade de substituição da prisão preventiva por prisão domiciliar, em razão de ser mãe e imprescindível aos cuidados da criança, invocando julgados e dispositivos legais sobre proteção da primeira infância. Ressalta a necessidade de fundamentação concreta da medida extrema.
+Requer, em liminar e no mérito; a revogação da prisão preventiva ou, subsidiariamente, a substituição por prisão domiciliar, com expedição de alvará de soltura.
+É o relatório. Decido.
+O writ não comporta conhecimento, tendo em vista que a defesa não juntou aos autos cópia do decreto preventivo, da decisão de pronúncia, tampouco de eventuais decisões que tenham apreciado o pedido de deferimento da prisão domiciliar. A ausência de referidas peças impede o exame da idoneidade dos fundamentos apresentados para a decretação e manutenção da custódia.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal"(AgRg no HC n. 182.788, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 772.017/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
