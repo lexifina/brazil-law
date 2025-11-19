@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. IPVA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. FRAUDE. RESPONSABILIDADE PELOS DÉBITOS TRIBUTÁRIOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A revisão da conclusão alcançada pelo Tribunal de origem quanto à responsabilidade tributária da instituição financeira pelos débitos tributários incidentes sobre o automóvel não prescindiria do reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+2. A análise do dissídio jurisprudencial apontado fica prejudicada em razão da aplicação da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões divergentes ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Agravo interno improvido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO GMAC S.A. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 630):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. IPVA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. FRAUDE. RESPONSABILIDADE PELOS DÉBITOS TRIBUTÁRIOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais (e-STJ, fls. 643-652), o agravante refuta a aplicação da Súmula n. 7/STJ, aduzindo que a matéria recursal foi delimitada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, não havendo necessidade de revolvimento do contexto fático-probatório dos autos para verificar a violação aos arts. 104, I, II e III, e 166, II, do Código Civil e a ocorrência de dissídio jurisprudencial.
+Pondera que a análise do dissídio jurisprudencial não ficou prejudicada, sendo possível a verificação da similitude fática do acórdão recorrido em relação ao acórdão paradigma, a qual foi demonstrada por meio do cotejo analítico.
+Postula, assim, a reconsideração da decisão agravada ou a submissão do presente à Turma julgadora.
+A impugnação foi apresentada às fls. 659-663 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. IPVA. CONTRATO DE FINANCIAMENTO DE VEÍCULO. FRAUDE. RESPONSABILIDADE PELOS DÉBITOS TRIBUTÁRIOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A revisão da conclusão alcançada pelo Tribunal de origem quanto à responsabilidade tributária da instituição financeira pelos débitos tributários incidentes sobre o automóvel não prescindiria do reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+2. A análise do dissídio jurisprudencial apontado fica prejudicada em razão da aplicação da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões divergentes ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Tal como anotado no pronunciamento monocrático, o TJDFT declinou a seguinte fundamentação acerca da responsabilidade tributária (e-STJ, fls. 439-442 - com grifos no original):
+A sentença, cujos argumentos acolho, está bem fundamentada e rebate pontualmente as alegações do apelo (ID 63306874):
+"(..) Destaque-se que, ao contrário do alegado pela Instituição Financeira, a anulação do Contrato de Financiamento não conduz à anulação de sua propriedade sobre o veículo, afastando apenas a garantia fiduciária, ou seja, o automóvel passa a ser de propriedade plena da Instituição Financeira, devendo arcar com os tributos decorrentes da propriedade, por se tratar de fortuito interno, entendimento já referendado pelo eg. TJDFT:
+(..) 3. A instituição financeira fiduciária é titular do domínio, ainda que resolúvel, do veículo automotor. Por isso, é responsável solidária pelo pagamento do IPVA, de acordo com o art. 1º, § 8º, inc. II, da Lei local nº 7.431/1985. 4. A instituição financeira é responsável pelos prejuízos decorrentes de crimes praticados no âmbito da sua atividade empresarial, por se tratar de risco inerente ao empreendimento, hipótese de fortuito interno. 4.1. A responsabilidade solidária inclui os prejuízos oriundos de multas não pagas aplicadas por infrações de trânsito cometidas pelo pretenso fiduciante. 5. Recurso conhecido e não provido. (Acórdão 1162947, 07114249620188070001, Relator: ALVARO CIARLINI, 3ª Turma Cível, data de julgamento: 27/3/2019, publicado no DJE: 10/4/2019. Pág.: Sem Página Cadastrada. - grifo nosso)
+Vértice outra, os contratos realizados entre particulares não podem ser utilizados para afastar a cobrança de tributo, conforme se observa no artigo 123 do Código Tributário Nacional, in verbis:
+Art. 123. Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
+Dessarte, como ocorreu a propriedade fiduciária em favor do Banco GM S. A., não é possível afastar sua legitimidade passiva para cobrança dos tributos envolvendo o veículo automotor.
+ ..
+Dessa forma, como não há previsão para a isenção de tributos sobre veículo automotor objeto de contrato de financiamento viciado por estelionato, não é possível afastar a responsabilidade tributária da Instituição Financeira antes da comunicação da fraude ao DETRAN.
+ ..
+Portanto, inexistindo previsão legislativa, não é possível ampliar as hipóteses de isenção ao pagamento do IPVA ou a responsabilidade pelo pagamento dos débitos decorrentes da propriedade em razão do contrato fraudado. Destaco que o estelionato não está dentre o rol das hipóteses de não incidência previstas no art. 1º, § 10 da Lei Distrital 7.431/85, in verbis:
+"Art. 1º - É instituído, no Distrito Federal, o imposto sobre a propriedade de veículos automotores devido anualmente, a partir do exercício de 1986, pelos proprietários de veículos automotores registrados e licenciados nesta Unidade da Federação. (..) § 10. Desde que o fato seja objeto de ocorrência policial, o IPVA não incide sobre a propriedade de veículo roubado, furtado ou sinistrado e prevalece, nos casos de roubo e furto, até o momento em que o veículo for recuperado, observado o disposto no § 16."
+A ausência de cautela do autor na celebração do negócio, caracterizada pelo fortuito interno, não exclui sua responsabilidade pelo pagamento pelos débitos tributários do veículo, risco inerente à atividade empresarial que desempenha.
+ ..
+Nego provimento ao apelo quanto ao ponto.
+Como se depreende das razões expendidas, o acórdão de origem, à luz do contexto fático-probatório dos autos, ratificou a sujeição passiva do ora agravante, consignando que "ausência de cautela do autor na celebração do negócio, caracterizada pelo fortuito interno, não exclui sua responsabilidade pelo pagamento pelos débitos tributários do veículo, risco inerente à atividade empresarial que desempenha" (e-STJ, fl. 442).
+Dessa forma, permanece a compreensão anteriormente exarada no sentido de que a revisão da conclusão alcançada não prescindiria do reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Por fim, reitere-se que fica prejudicada a análise do dissídio jurisprudencial apontado, em razão da aplicação da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões divergentes ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, subsiste íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
