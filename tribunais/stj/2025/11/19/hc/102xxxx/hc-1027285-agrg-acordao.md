@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Carlos Pires Brandão, Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PLEITOS DE ABSOLVIÇÃO SUMÁRIA E DE DECOTE DE QUALIFICADORA. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão interlocutória de pronúncia é mero juízo de admissibilidade da acusação. Não é exigida, neste momento processual, prova incontroversa da autoria do delito; basta a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime. Questões referentes à certeza da autoria e da materialidade do delito deverão ser analisadas pelo Tribunal do Júri, órgão constitucionalmente competente para a análise do mérito de crimes dolosos contra a vida.
+2. Quanto à existência de excludente de ilicitude, esta Corte Superior tem o entendimento consolidado de que apenas é cabível a absolvição sumária, no procedimento especial do Tribunal do Júri, quando manifesta a ocorrência de causa excludente de ilicitude, sob pena de violação da competência constitucional dos jurados prevista no art. 5º, XXXVIII, "d", da Constituição Federal. O reconhecimento da excludente de ilicitude pelo magistrado é medida excepcional, possível apenas quando inequívoca a sua presença.
+3. Somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, Sexta Turma, DJe 6/6/2016).
+4. Uma vez que as instâncias ordinárias apontaram provas do processo a embasar a necessidade de submeter o acusado a julgamento pelos jurados, absolver sumariamente o réu ou decotar a qualificadora, demandaria revolvimento do conteúdo fático-probatório dos autos, providência não compatível com a via eleita.
+5. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSE AMARO DA SILVA agrava da decisão em que deneguei a ordem pleiteada.
+A defesa sustenta não ser o caso de reexame aprofundado de provas, mas de revaloração jurídica de fatos incontroversos e já admitidos pelas instâncias ordinárias.
+Entende que a decisão de pronúncia do insurgente ignora o contexto de agressão mútua e iniciada pela vítima, de modo que está clara a incidência da excludente de ilicitude da legítima defesa.
+Considera que, "se houve briga e agressões mútuas antes do fato, como admitido pelas instâncias é incontroverso que não pode haver surpresa" (fl. 257).
+Aduz haver o periculum libertatis, diante da manifesta ilegalidade da decisão de pronúncia e da iminência da Sessão Plenária.
+Assenta, por fim, que, os precedentes citados no ato ora atacado não são aplicáveis à presente hipótese, pois "não se busca reexame de provas, mas sim a revaloração jurídica de fatos incontroversos e já admitidos pelas instâncias ordinárias (a briga antecedente e as agressões mútuas). A improcedência da qualificadora e da ausência de legítima defesa não são meras conjecturas, mas decorrem da teratologia já reconhecida pelo TJ/AL (omissão na análise da ausência de surpresa) e da desconsideração de fatos admitidos que descaracterizam a agressão injusta e a surpresa" (fl. 258).
+Requer o provimento do regimental, a fim de que seja concedida a ordem pretendida.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PLEITOS DE ABSOLVIÇÃO SUMÁRIA E DE DECOTE DE QUALIFICADORA. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão interlocutória de pronúncia é mero juízo de admissibilidade da acusação. Não é exigida, neste momento processual, prova incontroversa da autoria do delito; basta a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime. Questões referentes à certeza da autoria e da materialidade do delito deverão ser analisadas pelo Tribunal do Júri, órgão constitucionalmente competente para a análise do mérito de crimes dolosos contra a vida.
+2. Quanto à existência de excludente de ilicitude, esta Corte Superior tem o entendimento consolidado de que apenas é cabível a absolvição sumária, no procedimento especial do Tribunal do Júri, quando manifesta a ocorrência de causa excludente de ilicitude, sob pena de violação da competência constitucional dos jurados prevista no art. 5º, XXXVIII, "d", da Constituição Federal. O reconhecimento da excludente de ilicitude pelo magistrado é medida excepcional, possível apenas quando inequívoca a sua presença.
+3. Somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, Sexta Turma, DJe 6/6/2016).
+4. Uma vez que as instâncias ordinárias apontaram provas do processo a embasar a necessidade de submeter o acusado a julgamento pelos jurados, absolver sumariamente o réu ou decotar a qualificadora, demandaria revolvimento do conteúdo fático-probatório dos autos, providência não compatível com a via eleita.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito da argumentação aduzida pelo recorrente, a decisão atacada merece ser mantida.
+A decisão que pronunciou o réu por incursão no art. 121, § 2º, IV, do CP foi assim lavrada, no que interessa (fls. 184-186, grifei):
+Como visto, o réu, em sede de interrogatório, confessou a autoria delitiva, mas afirmou tê-lo feito porque a vítima supostamente o teria agredido primeiro.
+Sobre este ponto, é importante mencionar que, em sede de alegações finais, inclusive, a defesa pugnou pelo reconhecimento da legítima defesa própria e putativa, competindo-me analisar cada uma delas.
+ ..
+O réu fundamenta suas pretensões na alegação de que a vítima teria supostamente o agredido primeiro, numa discussão em frente a um bar.
+A testemunha José Pereira da Silva confirma a existência de agressões mútuas após a discussão no bar, inclusive mencionando que a vítima "bateu primeiro".
+Todavia, nos termos do art. 25 do Código Penal, "Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem".
+No caso dos autos, houve a demonstração de que, de fato, existiu uma briga anterior entre acusado e vítima, os quais se agrediram mutuamente.
+Entretanto, após esta discussão/vias de fato, o acusado supostamente ingressou em sua residência, muniu-se de uma faca e, sem dar chance de defesa à vítima, desferiu golpes com aquele instrumento.
+Este intervalo entre a cessação da briga e o deslocamento do acusado até a residência para munir-se da faca, a meu ver, afasta o requisito do uso moderado dos meios necessários, inerente à legítima defesa, até porque, até então, ambos se agrediam mutuamente, dispondo, cada um, dos meios necessários para se defender.
+A utilização da arma branca, neste caso, aliada ao hiato temporal, ainda que curto, faz extrapolar o uso dos meios necessários para repelir agressão injusta a direito seu.
+Desta forma, rejeito a tese da defesa quanto às modalidades de legítima defesa, porquanto, repito, não restaram cabalmente demonstradas nos presentes autos.
+Assim, verifico que os indícios da autoria recaem sobre o Acusado, sendo suficiente para levá-lo a julgamento pelo Conselho de Sentença, não cabendo, in casu, o instituto da impronúncia.
+ ..
+Quanto à qualificadora "uso de recurso que impossibilitou a defesa da vítima", entendo que deve, de igual forma, ser apreciada pelos membros do Tribunal do Júri, uma vez que há indícios de sua presença, consistente na forma como delito foi supostamente praticado, tendo a vítima sido surpreendida com os golpes de faca, quando já estava completamente alcoolizada.
+Ademais, não há prova cabal de sua inexistência, o que impede sobremaneira a sua exclusão.
+O STJ tem entendido de igual forma quanto à inclusão de qualificadoras na decisão de pronúncia. Vejamos, in litteris:
+ ..
+O Tribunal a quo manteve a pronúncia e assim tratou dos assuntos em discussão (fls. 193-197, destaquei):
+17. A tese ventilada de legítima defesa, como causa excludente de ilicitude que é, deveria restar devidamente comprovada, uma vez que daria motivo à absolvição sumária do réu, contudo, não há nos autos elementos probatórios que impeçam a pronúncia. Além do mais, o entendimento do Superior Tribunal de Justiça pauta-se no sentido de que a presente alegação deve ser levada à análise pelo Tribunal do Júri, juiz natural dos crimes contra a vida, sob pena de usurpar a competência constitucional do Conselho de Sentença.
+18. Nesse sentido, colaciono:
+ ..
+19. Nesse compasso, não verifico como acolher a tese de absolvição sumária pleiteada pela defesa.
+20. Subsidiariamente, o recorrente pugna pelo afastamento da qualificadora prevista no art. 121, §2º, IV, do Código Penal.
+21. Neste ponto, afirma que inexistem nos autos elementos probatórios que atestem que o delito foi praticado mediante o uso de recurso que dificultou a defesa da vítima, além de que, na sentença, não houve qualquer fundamentação acerca do "motivo pelo qual se entendia pela existência da qualificadora, tratando-se de evidente decisão deficiente por ausência de fundamentação".
+22. Pois bem.
+23. Sabe-se que de acordo com o entendimento do Superior Tribunal de Justiça, admite-se apenas a exclusão das qualificadoras manifestamente improcedentes, ou seja, aquelas dissociadas com contexto presente nos autos. Veja-se:
+ ..
+25. Em que pese a concisão da fundamentação que deixou de esclarecer toda a dinâmica do fato, entendo que a qualificadora em testilha deve ser mantida, conforme será demonstrado.
+26. Extrai-se da denúncia de fls. 01/04 do processo de origem, que o acusado desferiu um soco na vítima que veio a cair e não conseguiu se levantar em virtude do estado de embriaguez que se encontrava, momento em que o acusado desferiu os golpes de arma branca que ocasionaram a morte da vítima.
+27. Assim, entendo que não só o fato de a vítima, no momento do crime, encontrar-se embriagada, justifica o incremento da qualificadora, mas a atitude antecedente do réu, que ao desferir-lhe um soco a derrubou, permanecendo nesta posição até ser atingida pela agressão do réu, ocasionando-lhe a morte.
+28. O uso de recurso que dificultou a defesa da vitima para sua configuração, exige a presença do elemento surpresa, o que, diante do acima narrado, resta presente, não havendo como acolher o pedido da defesa do requerente, concernente no afastamento da qualificadora.
+29. Por tais razões, diante de toda a explanação feita nos parágrafos superiores, tem-se que o feito deve ser mantido e submetido à decisão do Conselho de Sentença nos moldes em que fundamentados pelo magistrado primevo.
+30. Ante o exposto, voto no sentido de CONHECER do presente recurso, para, no mérito, NEGAR-LHE PROVIMENTO, mantendo-se incólume a sentença de pronúncia.
+A Constituição Federal determinou ao Tribunal do Júri a competência para julgar os crimes dolosos contra a vida e os delitos a eles conexos, conferindo-lhe a soberania de seus vereditos.
+Entretanto, a fim de reduzir o erro judiciário (art. 5º, LXXV, CF), seja para absolver, seja para condenar, exige-se uma prévia instrução, sob o crivo do contraditório e com a garantia da ampla defesa, perante o juiz togado, com a finalidade de submeter a julgamento no Tribunal do Júri somente os casos em que se verifiquem a comprovação da materialidade e a existência de indícios suficientes de autoria, nos termos do art. 413, § 1º, do CPP, que encerra a primeira etapa do procedimento previsto no Código de Processo Penal.
+Assim, tem essa fase inicial do procedimento bifásico do Tribunal do Júri o objetivo de avaliar a suficiência ou não de razões (justa causa) para levar o acusado ao seu juízo natural. A pronúncia funciona como um filtro pelo qual apenas passam as acusações fundadas, viáveis, plausíveis e idôneas a serem objeto de decisão pelo Conselho de Sentença.
+É dizer, a decisão de pronúncia é mero juízo de admissibilidade da acusação e é fundada em suspeita, sendo vedadas incursões aprofundadas no mérito da causa.
+Ao final da primeira fase do procedimento, incumbe ao Magistrado proferir decisão (i) de pronúncia, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação (art. 413, CPP); (ii) de impronúncia, quando não houver indícios suficientes de materialidade, de autoria ou de participação (art. 414, CPP); (iii) de absolvição sumária, se provada a inexistência do fato, a ausência de autoria, a atipicidade da conduta ou a presença de causa de isenção de pena ou de exclusão do crime (art. 415, CPP); ou (iv) de desclassificação, se inexistir animus necandi.
+Destaco que, embora o art. 397 do Código de Processo Penal autorize a absolvição sumária do réu, tal decisão somente poderá ser adotada ante a manifesta existência de causa excludente de ilicitude ou das demais situações previstas no referido artigo. Caso contrário, havendo dúvidas quanto à tese defensiva, caberá ao Tribunal do Júri dirimi-las.
+O raciocínio é o mesmo quanto às qualificadoras. Com efeito, é entendimento dominante nesta Corte Superior de Justiça que "somente é cabível a exclusão das qualificadoras, na decisão de pronúncia, quando manifestamente improcedentes, uma vez que cabe ao Tribunal do Júri, diante dos fatos narrados na denúncia e colhidos durante a instrução probatória, a emissão de juízo de valor acerca da conduta praticada pelo réu" (AgRg no AREsp n. 813.200/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/6/2016, destaquei).
+No caso, as instâncias ordinárias entenderam não estar manifestamente evidenciada a legítima defesa, nem mesmo a putativa, e não haver circunstância a autorizar o decote da qualificadora prevista no art. 121, § 2º, IV, do CP.
+Para tanto, conforme registrei no julgado monocrático, destacaram haver prova oral a dar suporte às teses de que, embora tenha havido agressões mútuas entre o acusado e a vítima, o réu deu um murro no ofendido, adentrou em sua casa, pegou uma faca e se dirigiu à vítima - que estava tão alcoolizada que só conseguiu levantar-se com a ajuda de sua esposa - e a atingiu com golpes de faca, de modo que o ofendido veio a falecer. As instâncias ordinárias, então, concluíram haver indícios no processo de que o réu haveria se excedido em eventual legítima defesa, bem como haveria surpreendido o ofendido, que não tinha condições de defesa por estar muito embriagado.
+Com efeito, o Juízo primevo asseverou que o "intervalo entre a cessação da briga e o deslocamento do acusado até a residência para munir-se da faca  ..  afasta o requisito do uso moderado dos meios necessários, inerente à legítima defesa" (fl. 185).
+Também, assinalou haver indícios de que o ofendido haja sido surpreendido, haja vista ele estar completamente alcoolizado e não esperar os golpes de faca.
+Assim, uma vez que foram apontadas provas do processo para embasar a pronúncia do insurgente, absolvê-lo sumariamente ou decotar a qualificadora demandaria o reexame do conjunto fático-probatório dos autos, providência inviável em habeas corpus.
+Confiram-se:
+ ..
+Teses de julgamento: (i) a decisão de pronúncia exige apenas prova da materialidade e indícios suficientes de autoria, sem necessidade de juízo de certeza. (ii) a legítima defesa e a desclassificação, por demandarem análise aprofundada de provas, não podem ser reconhecidas antecipadamente na via do habeas corpus. (iii) as qualificadoras devem ser mantidas quando houver indícios mínimos que as amparem, sendo sua exclusão incabível nesta via processual.
+(AgRg no HC n. 993.490/GO, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 1/7/2025, DJEN de 4/7/2025.)
+ ..
+III - Rever o entendimento do Tribunal de origem para afastar a pronúncia demandaria necessariamente amplo reexame do acervo fático-probatório, procedimento incompatível com a estreita via do mandamus, entendimento que se aplica à pretensão de decote da qualificadora, porquanto cabe ao juiz natural da causa, o Conselho de Sentença, debater a classificação e qualificação dos delitos imputados ao réu, art. 5º, XXXVII, "d", da Constituição Federal.
+ ..
+(AgRg no HC n. 891.631/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+ ..
+4. De qualquer forma, é assente nesta Corte que, havendo lastro probatório mínimo, cabe ao Conselho de Sentença decidir, soberanamente, se o homicídio foi motivado por ciúme e se, no caso concreto, tal circunstância configura, ou não, a qualificadora do motivo torpe. A tese de que não haveria provas suficientes quanto ao emprego de recurso que dificultou a defesa da vítima é incompatível com a estreita via de habeas corpus, por demandar amplo revolvimento do conjunto provatório.
+ ..
+(AgRg no HC n. 799.377/CE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
