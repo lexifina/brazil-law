@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAP Transportes Aéreos Ltda. e Manaus Aerotáxi Participações Ltda. contra decisão de minha relatoria, proferida no Recurso Especial 2185798/DF (2024/0452754-0), que deu parcial provimento ao apelo da União (Fazenda Nacional) para reconhecer a legitimidade da exigência do adicional de 1% na alíquota da Cofins-Importação, previsto no § 21 do art. 8º da Lei n. 10.865/2004, na importação de aeronaves e peças, reformando o acórdão recorrido (fls. 204-208).
+Transcrevo a ementa da decisão recorrida (fl. 204):
+RECURSO ESPECIAL. TRIBUTÁRIO. COFINS-IMPORTAÇÃO. ADICIONAL DE 1% NA ALÍQUOTA. IMPORTAÇÃO DE AERONAVES E PEÇAS. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. DEVER DE FUNDAMENTAÇÃO ATENDIDO. JURISPRUDÊNCIA PACÍFICA DO STJ. LEGITIMIDADE DA EXIGÊNCIA DO ADICIONAL. RECURSO PROVIDO EM PARTE.
+Os embargos foram opostos (fls. 214-220) com fundamento no art. 1.022, inciso II, do Código de Processo Civil, sob alegação de omissões na decisão embargada.
+As embargantes sustentam, em síntese, que: a decisão não enfrentou teses relativas ao regime da Zona Franca de Manaus; à equiparação das operações a regime de drawback; e à suspensão aplicável à pessoa jurídica preponderantemente exportadora.
+A União (Fazenda Nacional) apresentou impugnação aos embargos de declaração (fls. 226-228), afirmando inexistirem vícios de omissão, contradição, obscuridade ou erro material na decisão embargada, e requereu a rejeição dos aclaratórios.
+É o relatório.
+Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+Ocorre que não se encontram tais vícios na decisão embargada, que resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, em conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, o objeto do recurso especial, bem como da decisão embargada, tratou tão somente da alegada violação aos art. 8º, § 12, incisos VI e VII e §21, da Lei n. 10.865/2004 diante a interpretação dada pela Corte de origem de que "a aparente antinomia entre o § 12 e o § 21 do art. 8º da Lei n. 10.865/2004 deve ser sanada com o emprego do princípio da especialidade ("lex specialis derrogat lex generalis")" (fl. 106)
+Na ocasião, concluiu-se que "a jurisprudência do Superior Tribunal de Justiça está firmada no sentido de que é legítima a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21 do art. 8º da Lei n. 10.865/2004, na importação de aeronaves e peças de aeronave, não havendo incompatibilidade entre a instituição do referido adicional e a existência de norma anterior que previa alíquota zero" (fl. 206).
+Assim, fora reconhecida a legitimidade da exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21 do art. 8º da Lei n. 10.865/2004, na importação de aeronaves e peças de aeronaves em geral, mesmo diante da existência de norma que prevê alíquota zero (§12).
+As demais questões trazidas nos embargos não foram tratadas na decisão monocrática deste Relator pois não foram objeto do apelo especial nem de discussão no acórdão recorrido, o que impede o seu conhecimento por esta Corte, a qual "somente pode julgar recursos especiais de causas decididas em única ou última instância, sendo necessário que a matéria tenha sido previamente discutida na origem" (AREsp n. 2.709.646/PB, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 25/8/2025, DJEN de 28/8/2025).
+Não há, portanto, os vícios apontados.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÕES. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
