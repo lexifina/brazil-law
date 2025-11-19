@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ODONTÓLOGO. PRETENSÃO DE QUE SEJA IMPLANTADO PISO SALARIAL À BASE DE TRÊS SALÁRIOS MÍNIMOS PREVISTO EM LEI FEDERAL. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 126 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança impetrado por Eduardo Vicente Lourenço Coelho contra ato supostamente ilegal praticado pelo Prefeito do Município de São João do Rio do Peixe/PB, em que aponta ilegalidade na fixação de sua remuneração e jornada de trabalho, uma vez que não vem observando o estabelecido na Lei Federal n. 3.999/61, que regulamenta a jornada de trabalho e remuneração dos profissionais de sua categoria.
+2. A segurança foi denegada ao fundamento de que "cabe a cada ente federado legislar sobre os seus servidores, não podendo o legislador federal estatuir regras acerca de servidores públicos municipais, até porque, o legislador municipal é quem tem a prerrogativa de analisar a situação econômica do município para fixar a remuneração mínima. Cada município do nosso país continental possui uma realidade específica".
+3. O Tribunal de origem negou provimento ao recurso da parte Impetrante.
+4. A Corte a quo não admitiu o apelo nobre, ao decidir que, "evidencia-se que esta Corte, ao decidir a questão controvertida, utilizou-se de fundamentação constitucional, contudo, contra o aresto impugnado foi interposto unicamente recurso especial, deixando o recorrente de apresentar o adequado recurso extraordinário ao STF, permanecendo incólumes os fundamentos constitucionais do decisório recorrido, suficientes para mantê-lo, incidindo, portanto, o óbice da súmula 126 STJ".
+5. Nesta Corte, decisão que não conheceu do agravo em recurso especial, pela incidência da Súmula n. 182 do STJ.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EDUARDO VICENTE LOURENÇO COELHO contra decisão de minha lavra que não conheceu do agravo em recurso especial (fls. 278-281).
+Nas razões deste agravo interno, a parte agravante, em síntese, alega que é inaplicável o óbice da Súmula n. 182 do STJ, pois "a decisão agravada parte de premissa equivocada ao aplicar a Súmula n. 126/STJ. A questão central do Recurso Especial não é de natureza constitucional, mas sim a correta interpretação e aplicação de lei federal - a Lei n. 3.999/61, que fixa o piso salarial dos odontólogos" (fl. 287).
+Pugna, assim, que seja "processado, conhecido e provido o presente Agravo Interno para reformar a r. Decisão monocrática proferida pelo i. Ministro-Relator e, consequentemente, conhecer e prover o Agravo em Recurso Especial, para reformar a r. decisão recorrida e determinar o processamento do Recurso Especial" (fl. 289).
+Intimada, a parte Agravada deixou de apresentar contraminuta (fl. 304).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. ODONTÓLOGO. PRETENSÃO DE QUE SEJA IMPLANTADO PISO SALARIAL À BASE DE TRÊS SALÁRIOS MÍNIMOS PREVISTO EM LEI FEDERAL. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 126 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na origem: mandado de segurança impetrado por Eduardo Vicente Lourenço Coelho contra ato supostamente ilegal praticado pelo Prefeito do Município de São João do Rio do Peixe/PB, em que aponta ilegalidade na fixação de sua remuneração e jornada de trabalho, uma vez que não vem observando o estabelecido na Lei Federal n. 3.999/61, que regulamenta a jornada de trabalho e remuneração dos profissionais de sua categoria.
+2. A segurança foi denegada ao fundamento de que "cabe a cada ente federado legislar sobre os seus servidores, não podendo o legislador federal estatuir regras acerca de servidores públicos municipais, até porque, o legislador municipal é quem tem a prerrogativa de analisar a situação econômica do município para fixar a remuneração mínima. Cada município do nosso país continental possui uma realidade específica".
+3. O Tribunal de origem negou provimento ao recurso da parte Impetrante.
+4. A Corte a quo não admitiu o apelo nobre, ao decidir que, "evidencia-se que esta Corte, ao decidir a questão controvertida, utilizou-se de fundamentação constitucional, contudo, contra o aresto impugnado foi interposto unicamente recurso especial, deixando o recorrente de apresentar o adequado recurso extraordinário ao STF, permanecendo incólumes os fundamentos constitucionais do decisório recorrido, suficientes para mantê-lo, incidindo, portanto, o óbice da súmula 126 STJ".
+5. Nesta Corte, decisão que não conheceu do agravo em recurso especial, pela incidência da Súmula n. 182 do STJ.
+6. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece prosperar.
+Na origem, trata-se de mandado de segurança impetrado por Eduardo Vicente Lourenço Coelho contra ato supostamente ilegal praticado pelo Prefeito do Município de São João do Rio do Peixe/PB, em que alega a ilegalidade na fixação de sua remuneração e jornada de trabalho, uma vez que não vem observando o estabelecido na Lei Federal n. 3.999/61, que regulamenta a jornada de trabalho e remuneração dos profissionais de sua categoria.
+A segurança foi denegada ao fundamento d que "cabe a cada ente federado legislar sobre os seus servidores, não podendo o legislador federal estatuir regras acerca de servidores públicos municipais, até porque, o legislador municipal é quem tem a prerrogativa de analisar a situação econômica do município para fixar a remuneração mínima. Cada município do nosso país continental possui uma realidade específica" (fls. 116-119).
+O Tribunal de origem negou provimento ao recurso (fls. 194-204).
+A Corte a quo não admitiu o apelo nobre, ao decidir que, "evidencia-se que esta Corte, ao decidir a questão controvertida, utilizou-se de fundamentação constitucional, contudo, contra o aresto impugnado foi interposto unicamente recurso especial, deixando o recorrente de apresentar o adequado recurso extraordinário ao STF, permanecendo incólumes os fundamentos constitucionais do decisório recorrido, suficientes para mantê-lo, incidindo, portanto, o óbice da Súmula n. 126 STJ" (fls. 237-240)".
+Nas razões do agravo interno, afirma a Agravante que é inaplicável o óbice da Súmula n. 182 do STJ, pois " o  Agravo em Recurso Especial atacou, de forma clara e direta, o principal fundamento da decisão de inadmissibilidade proferida pelo TJPB, qual seja, a aplicação da Súmula n. 126/STJ" (fl. 288). Contudo, nos termos da decisão agravada, a parte Agravante, nas razões do agravo em recurso especial, deixou de impugnar suficientemente o referido óbice sumular.
+Na espécie, a parte Agravante cingiu-se a sustentar que "quanto ao acórdão vergastado, embora aluda ao art. 37, inc. X e 39, caput, da CF, não deve ser utilizado como fundamento suficiente, por si só, à manutenção do julgado, haja vista que há clara afronta a Lei Federal n. 3.999/61" (fl. 245).
+Ademais, a decisão de admissibilidade está de acordo com o entendimento desta Corte, haja vista que o acórdão recorrido decidiu a questão de fundo com lastro em fundamento exclusivamente constitucional.
+Desse modo, a ausência de interposição de recurso extraordinário, quando o acórdão recorrido apresenta fundamentos constitucionais autônomos suficientes para a manutenção do julgado, atrai a aplicação da Súmula n. 126 do STJ.
+A esse respeito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PROCEDIMENTO ADMINISTRATIVO FISCAL. CARF. VOTO DE QUALIDADE. TEMA DECIDIDO PELO TRIBUNAL COM FUNDAMENTOA QUO EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME EM SEDE DE RECURSO ESPECIAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido decidiu a questão de fundo com lastro em fundamento exclusivamente constitucional. É inviável dessa conclusão, em sede de recurso especial, porquanto essa se destina a uniformizar a interpretação do direito federal infraconstitucional.
+2. A ausência de interposição de recurso extraordinário, quando o acórdão recorrido apresenta fundamentos constitucionais autônomos suficientes para a manutenção do julgado, atrai a aplicação da Súmula n. 126 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.913.947/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 26/3/2025, DJEN de 2/4/2025.)
+Nesse panorama, foi verificado que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ. Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Assim, não tendo a parte agravante logrado êxito em infirmar os fundamentos que nortearam a decisão ora agravada, impõe-se a sua manutenção, em todos os seus termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
