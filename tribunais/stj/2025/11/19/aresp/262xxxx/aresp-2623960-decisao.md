@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo Banco do Brasil S/A, contra decisão que não admitiu seu recurso especial, baseado na alínea "a" do art. 105, III, da Constituição Federal, o qual fora interpost o contra acórdão proferido pela 23ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 67):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. AÇÃO CIVIL PÚBLICA Nº 94.00.08514- 1/DF. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SUSPENSÃO DO PROCESSO. TEMA REPETITIVO Nº 1169. MODIFICAÇÃO DA DECISÃO ORIGINÁRIA.
+1. Como é por demais sabido, em decisão publicada em outubro de 2022, houve afetação de questão pelo Superior Tribunal de Justiça nos Recursos Especiais nºs 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, cadastrados como Tema Repetitivo nº 1169, oportunidade em que se determinou a suspensão do processamento de todos os processos que versem sobre a mesma matéria e tramitem no território nacional, nos termos do art. 1.037, II, do CPC.
+2. No caso em apreço, contudo, verifica-se que a questão relativa à necessidade de liquidação não é controvertida no feito, uma vez que este já foi ajuizado como liquidação provisória de sentença coletiva, procedimento pelo qual se garante à parte executada melhor exercício da sua ampla defesa, porquanto mais complexo do que o mero cumprimento.
+3. Dessa forma, sequer há interesse da parte agravada em eventual alegação nesse sentido, porquanto o rito que melhor lhe beneficia foi a opção da parte autora.
+4. Assim, é de ser dado provimento ao recurso, para afastar a suspensão do feito e determinar o seu prosseguimento, nos termos da fundamentação. AGRAVO DE INSTRUMENTO PROVIDO.
+Os embargos de declaração opostos pelo Banco do Brasil S/A foram rejeitados (fls. 91-96).
+Nas razões do recurso especial, o recorrente alega que o acórdão recorrido violou os arts. 509, II, 511, 927, III, 1.022, 1.025 e 1.037, II, do CPC.
+Sustenta que a suspensão determinada pelo STJ em virtude dos temas de recurso repetitivo n. 1.169 e 482 exigiria que a liquidação da sentença coletiva ocorresse pelo procedimento comum.
+Além disso, alega ofensa ao artigo 1.022 do CPC, em razão da rejeição dos embargos de declaração, aplicando-se o disposto no artigo 1.025, considerando prequestionada toda a matéria submetida à rediscussão.
+Contrarrazões foram apresentadas (fls. 141-143).
+O Tribunal de origem não admitiu o recurso especial por considerar presentes os óbices das Súmulas n. 282, 283 e 356 do STF (fls. 146-149).
+Nas razões do seu agravo, a parte agravante afirma a não aplicação dos impedimentos previstos nos enunciados sumulares e reitera que demonstrou a violação dos dispositivos federais mencionados, requerendo processamento e provimento do recurso especial (fls. 159-171).
+Não houve apresentação de impugnação (fl. 177).
+Posteriormente, o recorrente informou a determinação de suspensão do processo por força da decisão proferida pelo STF no RE 1.445.162-DF, no Tema 1290 de Repercussão Geral.
+Assim delimitada a controvérsia, conheço do agravo e passo ao julgamento do recurso especial.
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre a distinção que deveria ser observada no caso vertente em relação aos temas abordados nos recursos repetitivos em trâmite neste Superior Tribunal. Sendo assim, não há que se falar em omissão no tocante a esse ponto, nem, portanto, em violação do art. 1.022 do CPC.
+O Superior Tribunal de Justiça, julgando o Recurso Especial nº 1.319.232/ DF, interposto nos autos da Ação Civil Pública nº 94.0008514-1, da 3ª Vara Federal da Seção Judiciária de Brasília/DF, acabou reconhecendo o BTN, no percentual de 41,28% (quarenta e um vírgula vinte e oito por cento), como índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, que possuíssem a indexação atreladas aos índices de caderneta de poupança.
+O Supremo Tribunal Federal, no Recurso Extraordinário nº 1.445.162/DF declarou a repercussão geral do debate acerca justamente do índice aplicável (Tema 1.290/STF).
+Em decisão datada de 07/03/2024, foi decretada, no referido recurso extraordinário, a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça.
+Assim, ainda que por motivo diverso daquele adotado na instância inaugural, é inequívoco que, no momento, é necessária a suspensão do processo de origem até que sobrevenha decisão do STF no recurso supracitado, o que impõe a reforma do julgado proferido pela Corte estadual que, contrariamente, autorizou o prosseguimento da liquidação provisória.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de reformar o acórdão recorrido e determinar a suspensão do processo de liquidação provisória até o julgamento do Tema 1.290/STF.
+Intimem-se.
+EMENTA
