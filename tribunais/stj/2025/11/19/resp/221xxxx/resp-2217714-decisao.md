@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por REGIS ADRIANO DA SILVA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL em julgamento do Agravo em Execução Penal n. 8001021-16.2024.8.21.0019/RS.
+Consta dos autos que o Juízo de Execução Penal deferiu o livramento condicional ao apenado (fls. 42/43).
+O recurso de agravo de execução interposto pelo parquet foi provido para revogar a decisão que concedeu o benefício do livramento condicional (fl. 92). O julgamento ficou assim ementado (fl. 93):
+"EXECUÇÃO PENAL. AGRAVO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO ATENDIDO. Caso em que o Juízo da execução conceda ao reeducando o benefício do livramento condicional. Apenado condenado por crimes praticados com violência e/ou grave ameaça e de natureza hedionda - latrocínio -, com registros de três fugas e novos delitos no curso da execução, e mais de quinze anos de pena ainda por cumprir, o que demanda um cuidado especial no exame do caso. Incidência do TEMA 1161/STJ, encontra-se em regime semiaberto, com data prevista para execução ao aberto tão somente em 14/04/2025, sendo ele merecedor, o livramento condicional. AGRAVO DO MINISTÉRIO PÚBLICO PROVIDO. UNÂNIME."
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 122). O julgamento ficou assim ementado (fl. 122):
+"EMBARGOS DE DECLARAÇÃO. EXECUÇÃO PENAL. AGRAVO. INOCORRÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. PREQUESTIONAMENTO. Os presentes embargos buscam a rediscussão de matéria já comprovada pelo colegiado. No caso, não houve ambiguidade, obscuridade, contradição ou omissão no julgada, uma vez que todas as questões foram comprovadas, não preenchendo os requisitos do art. 619 do art. CPP. De ressaltar, ainda, que o Poder Judiciário não é órgão de consulta para esclarecimento de dúvidas, cabendo-lhe a prestação jurisdicional."
+Na sede de recurso especial (fls. 132/140), a defesa apontou violação ao art. 619 do Código de Processo Penal - CPP, art. 83 do Código Penal - CP e art. 66, VI, da Lei n. 7.210/1984, sustentando, preliminarmente, a ocorrência de omissão do acórdão na análise das teses defensivas e, no mérito, o emprego de fundamentação inidônea para revogação indevida do livramento condicional.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL (fls. 145/154).
+O recurso especial foi admitido no TJ (fls. 157/160).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pela conversão do feito em diligência no recurso especial (fls. 175/176).
+É o relatório.
+Decido.
+De início, entendo ser desnecessária a conversão do feito em diligência. Estando os autos instruídos com informações suficientes para solução da controvérsia, passo ao exame do recurso especial.
+Verifica-se que a Corte Estadual revogou o benefício do livramento condicional, em razão da ausência do requisito subjetivo, apontando que seria " ..  prudente avaliar, por mais algum tempo, o comportamento em regime menos rigoroso, para depois, sendo ele merecedor, conceder o livramento condicional, observando-se, desta forma, o sistema progressivo de execução da pena" (fl. 92).
+Após o julgamento do agravo em execução penal, a defesa opôs embargos de declaração, alegando a existência de fatos não considerados pelo Tribunal de origem.
+Consoante alegação defensiva, o recorrente estaria em livramento condicional há cerca de 6 meses, sem nenhuma intercorrência e possui ocupação lícita. Cito (fls. 104/105):
+"A) É indispensável que seja efetivamente apreciada a tese de que o embargante se encontra em livramento condicional há cerca de 06 meses, não havendo nenhuma intercorrência neste período, de modo que REGIS vem cumprindo todas as condições impostas a ele quando da concessão do benefício;
+B) É indispensável que seja efetivamente apreciada a tese de que o embargante possuí contrato de emprego como gari, demonstrando assim comportamento compatível com o benefício do livramento condicional, pois busca sua ressocialização;
+C) É indispensável que seja efetivamente apreciada a tese de que, revogar o livramento condicional concedido ao embargante, o qual vem cumprindo todas as condições impostas pelo benefício, já estando em livramento por cerca de 06 meses, inclusive com carta de emprego, seria contrário a finalidade principal do livramento condicional, qual seja, o de ressocialização do reeducando;
+D) É indispensável que seja efetivamente apreciada a tese de que revogar o benefício concedido ao embargante para posterior reapreciação seria contrário ao princípio da razoabilidade, sobretudo considerando que o embargante já demonstrou estar apto para convivência em ambiente externo;
+E) É indispensável que seja efetivamente apreciada a tese de que o juízo da execução é competente pelo correto cumprimento da pena e da medida de segurança, conforme a previsão do artigo 66, inciso VI, da Lei de Execução Penal, de modo que revogar sua decisão afrontaria o referido artigo legal."
+Nesse contexto, a Corte Estadual não apreciou os argumentos da defesa, deixando de se manifestar sobre matéria relevante, capaz de alterar substancialmente o teor do acórdão. Assim, evidente a violação ao art. 619 do CPP.
+A propósito:
+PROCESSUAL PENAL. RECURSO ESPECIAL. DENÚNCIA. PROVAS. OPERAÇÃO ESFINGE. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA ANULADA PELO TRIBUNAL REGIONAL. EMBARGOS DE DECLARAÇÃO. QUESTÕES RELEVANTES SURGIDAS COM A PROLAÇÃO DO ACÓRDÃO RECORRIDO. OMISSÃO NÃO SANADA. VIOLAÇÃO DO ART. 619 DO CPP CONFIGURADA. JULGADO DE CUNHO GENÉRICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal.
+ ..
+(REsp n. 1.651.656/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 26/4/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. DECADÊNCIA. DATA DA LAVRATURA DO AUTO DE INFRAÇÃO FISCAL. AFRONTA AO ART. 619 DO CPP. AUSÊNCIA DE EXAME DE TESE LEVANTADA NAS RAZÕES DE APELO E RENOVADA NOS ACLARATÓRIOS. RELEVÂNCIA. PERSISTÊNCIA DA OMISSÃO. ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. OFENSA. RECURSO IMPROVIDO.
+1. Verificada a violação ao artigo 619 do CPP quando, apesar da oposição de embargos de declaração contra acórdão do Tribunal de origem, persiste a omissão apontada, deve ser mantido o decisum impugnado. Precedentes.
+2. Hipótese em que a Corte recorrida deixou de apreciar a tese suscitada pelo Ministério Público relacionada à consideração da data da lavratura do auto de infração fiscal para fins de aferição do prazo decadencial, tese levantada nas razões de apelo e renovada nos fundamentos dos aclaratórios, e que, acaso acolhida, poderá ensejar o prosseguimento da ação penal com relação ao denunciado, devendo ser reconhecida a violação ao art. 619 do CPP.
+3. Recurso improvido.
+(AgRg no AgRg no AREsp n. 923.962/RN, relator Ministro Jorge Mussi, Quinta Turma, DJe de 14/3/2018.)
+Diante do provimento do pedido preliminar, restam prejudicados os demais pleitos.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para anular o acórdão que julgou os embargos declaratórios e determinar que o Tribunal Estadual se manifeste quanto ao ponto omisso.
+Publique-se. Intimem-se.
+ EMENTA
