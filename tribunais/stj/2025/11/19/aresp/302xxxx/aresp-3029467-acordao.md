@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para dar parcial provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Maria Marluce Caldas votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. REGIME PRISIONAL. SEMIABERTO. PENA INFERIOR A QUATRO ANOS E REINCIDÊNCIA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRTIIVA DE DIREITSO. INVIABILIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+2. A substituição da pena privativa de liberdade por restritiva de direitos não é autorizada em caso de reincidência.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+RELATÓRIO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Criminal. Estelionato. Artigo 171, caput, do Código Penal. Condenação. Recurso da defesa pelo redimensionamento da pena, por regime prisional mais favorável e pela aplicação dos substitutivos penais. Impossibilidade. Prova hígida quanto ao édito condenatório. Dosimetria penal inalterada. Corretos os critérios considerados pelo Juízo "a quo" quanto a imposição da reprimenda, sendo oportuno ressaltar que no cálculo da dosagem da sanção, desde que observados os parâmetros legais e o sistema trifásico do art. 68 do CP, tendo sido elaborado fundamentadamente, tal qual na hipótese, deve ser preservada a discricionariedade do Julgador, com alteração apenas excepcionalmente, quando constatado flagrante abuso ou desproporcionalidade. Réu que ostenta condenações diversas por roubos e tráfico de drogas. Penas pregressas que não foram suficientes para cessar sua conduta delinquencial. Tratamento com mais rigor necessário para cabal repressão e prevenção do habitual comportamento delituoso e avesso aos padrões de sociabilidade. Inteligência do art. art. 33 §§ do Código Penal que impõe o regime fechado para o início do cumprimento da pena imposta ao condenado reincidente, sendo que a recidiva reiterada em crimes patrimoniais, tem o condão de afastar os regimes mais benéficos (semiaberto e aberto). Substitutivos penais e sursis que não se revelam como socialmente recomendáveis ao condenado multirreincidente. Sentença mantida. Recurso não provido. (e-STJ fl. 222)
+A defesa aponta a violação dos arts. 33, § 2º e 44 do CP, alegando, em síntese, que a reincidência do recorrente, isoladamente considerada não pode justificar o regime inicial mais gravoso do que aquele cabível em razão da pena imposta, diante da regra da proporcionalidade. Pelos mesmos motivos, sustenta a possibilidade de substituição da pena corporal por restritiva de direitos.
+Contrarrazões às e-STJ fls. 264/268 .
+Manifestação do Ministério Público Federal às e-STJ fls. 314/315.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. REGIME PRISIONAL. SEMIABERTO. PENA INFERIOR A QUATRO ANOS E REINCIDÊNCIA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRTIIVA DE DIREITSO. INVIABILIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência desta Corte firmou o entendimento de que é admissível a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+2. A substituição da pena privativa de liberdade por restritiva de direitos não é autorizada em caso de reincidência.
+3. Agravo conhecido para dar parcial provimento ao recurso especial.
+VOTO
+A irresignação merece prosperar, em parte.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 1 ano e 4 meses de reclusão, em regime fechado, pelo cometimento do crime do art. 171, caput, do CP.
+A defesa se insurge contra o regime prisional fechado, alegando que a reincidência, por si só, não autoriza o recrudescimento do regime.
+No acórdão estadual consta que "por conta da multirreincidência do apelante (fls. 41/47, 55/66, 103/108 e 122/128), para a cabal prevenção e repressão da conduta, está adequado e proporcional, assim como necessário, o regime prisional inicial fechado." (e-STJ fl. 224)
+Ocorre que mesmo diante da multirreincidência, o quantum da pena, inferior a 4 anos e a ausência de circunstâncias judiciais desfavoráveis, autoriza a fixação do regime intermediário para o cumprimento da reprimenda. Confira-se:
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO SIMPLES. VIOLAÇÃO DO ART. 226 DO CPP. NÃO OCORRÊNCIA. FLAGRANTE DELITO. TESTEMUNHO OCULAR E REGISTRO EM VÍDEO. CONDENAÇÃO BASEADA EM ELEMENTOS PROBATÓRIOS DIVERSOS. DISTINGUISHING EM RELAÇÃO AO HC N. 598.886/SC. DOSIMETRIA DA PENA. FRAÇÃO DE AUMENTO PELA MULTIRREINCIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. REGIME INICIAL. MULTIRREINCIDÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA INFERIOR A 4 ANOS. REGIME SEMIABERTO. SÚMULA 269/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo que manteve a condenação do recorrente por furto, com base no art. 155, caput, do Código Penal, e fixou o regime inicial fechado para cumprimento da pena.
+2. O recorrente alega nulidade do reconhecimento pessoal por inobservância do art. 226 do CPP, e questiona a dosimetria da pena, especialmente a fração de aumento pela multirreincidência e o regime inicial de cumprimento da pena.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a condenação do recorrente pode ser mantida com base em elementos probatórios independentes do reconhecimento pessoal, e se o regime inicial de cumprimento de pena deve ser alterado para semiaberto, considerando as circunstâncias judiciais favoráveis.
+III. Razões de decidir
+4. A condenação do recorrente não se baseou exclusivamente no reconhecimento pessoal, mas em testemunho ocular e registro em vídeo, que constituem provas robustas e independentes.
+5. A jurisprudência do Superior Tribunal de Justiça admite a fixação do regime inicial semiaberto para multirreincidentes quando a pena é inferior a quatro anos e as circunstâncias judiciais são favoráveis, conforme a Súmula 269/STJ.
+6. A ausência de indicação de dispositivo legal específico violado impede o conhecimento do recurso quanto à fração de aumento pela reincidência, conforme a Súmula 284 do STF. Ausência, ademais, de flagrante ilegalidade.
+IV. Dispositivo e tese
+7. Recurso parcialmente conhecido e, nessa extensão, parcialmente provido.
+Tese de julgamento: "1. A condenação pode ser mantida com base em provas robustas e independentes do reconhecimento pessoal. 2. O regime inicial semiaberto é admissível para multirreincidentes com pena inferior a quatro anos e circunstâncias judiciais favoráveis, conforme a Súmula 269/STJ. 3. A ausência de indicação de dispositivo legal específico impede o conhecimento do recurso quanto à tese suscitada, conforme a Súmula 284 do STF".
+Dispositivos relevantes citados: CPP, art. 226; CP, art. 59; CP, art. 33, § 2º, b e c. Jurisprudência relevante citada: STJ, AgRg no HC 796051/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023; STJ, REsp 2.164.320/SP, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 24/12/2024. (REsp n. 2.063.505/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 30/6/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. FURTO QUALIFICADO. FIXAÇÃO DE REGIME INICIAL DE CUMPRIMENTO DE PENA. MULTIRREINCIDÊNCIA. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE NO MÍNIMO LEGAL. POSSIBILIDADE DE FIXAÇÃO DE REGIME SEMIABERTO. SÚMULA N. 269/STJ. PRECEDENTES. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a sentença condenatória fixando o regime inicial fechado para cumprimento da pena, em razão da multirreincidência do réu. O recorrente alega que, apesar da reincidência, a pena inferior a quatro anos permite a fixação do regime inicial semiaberto, conforme entendimento jurisprudencial do Superior Tribunal de Justiça.
+II. QUESTÃO EM DISCUSSÃO 2. Há duas questões em discussão: (i) determinar se a fixação do regime inicial fechado é cabível para pena inferior a quatro anos em casos de multirreincidência; e (ii) verificar se o regime inicial semiaberto poderia ser aplicado no p resente caso, em consonância com o entendimento jurisprudencial do STJ.
+III. RAZÕES DE DECIDIR 3. A jurisprudência do Superior Tribunal de Justiça admite a fixação do regime inicial semiaberto para cumprimento de pena, mesmo em casos de multirreincidência, quando a pena definitiva é inferior a quatro anos e as circunstâncias judiciais são favoráveis.
+4. O entendimento consolidado pela Súmula n. 269 do STJ determina que, na ausência de circunstâncias judiciais desfavoráveis e quando a pena-base é fixada no mínimo legal, é possível a fixação do regime inicial semiaberto, não obstante a reincidência do réu.
+5. No caso em tela, a pena-base foi fixada no mínimo legal e não foram identificadas circunstâncias judiciais negativas adicionais que justifiquem a imposição do regime fechado, de modo que o regime semiaberto se mostra adequado e proporcional. IV. RECURSO ESPECIAL PROVIDO. (REsp n. 2.164.320/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 24/12/2024.)
+Por fim, registra-se que a substituição da pena privativa de liberdade por restritiva de direitos não é autorizada em caso de reincidência (ut, AgRg no AREsp n. 2.739.392/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, apenas para fixar o regime semiaberto para o cumprimento da pena.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
