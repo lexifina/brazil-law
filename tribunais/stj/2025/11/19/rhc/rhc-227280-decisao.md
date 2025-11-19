@@ -1,0 +1,16 @@
+DECISÃO
+JESUS DE SOUZA, acusado por crime ambiental e contra ordem tributária, interpõe recurso em habeas corpus, no qual alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+O caso permite o julgamento antecipado do recurso em habeas corpus, por se adequar à pacífica orientação desta Corte em casos análogos, todos desfavoráveis à pretensão defensiva.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o insurgente foi beneficiado com a liberdade provisória, com a aplicação de cautelares alternativas. Entretanto, como ressaltou o decisum que decretou a prisão preventiva, o acusado deixou de cumprir as condições impostas, nestes termos (fl. 180-181, destaquei):
+ ..
+Concedida a liberdade provisória a Jesus de Souza, foi-lhe imposta, entre outras, a obrigação de apresentar comprovante de residência no prazo de 10 (dez) dias, condição da qual foi pessoalmente intimado. Não obstante a ciência inequívoca da exigência judicial, o réu permaneceu inerte, deixando de cumprir a determinação no prazo estabelecido.
+Tal conduta evidencia desprezo pelas determinações do Poder Judiciário e revela postura incompatível com os deveres básicos atribuídos àqueles que respondem ao processo penal em liberdade. A omissão voluntária, diante de obrigação processual expressa, compromete a confiança inerente à concessão da medida cautelar e fragiliza a credibilidade do instituto da liberdade provisória, além de indicar possível risco à efetividade da persecução penal.
+Essa circunstância escancara a insuficiência de qualquer outra medida substitutiva da prisão, entre aquelas inscritas no art. 319 do Código de Processo Penal, para se acautelar a ordem pública.
+Logo, sua constrição somente foi determinada em razão do descumprimento das condições impostas. Nessa perspectiva, entendo justificada a aplicação da medida coercitiva mais grave, na linha da iterativa jurisprudência deste Superior Tribunal.
+A propósito: "A jurisprudência desta Corte  ..  sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação" (HC n. 447.716/SP, relator Ministro Joel Ilan Paciornik, 5ª T., DJe 14/08/2018).
+À vista do exposto, com fundamento nos arts. 34, XX c/c 246, ambos do RISTJ, nego provimento in limine ao recurso em habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
