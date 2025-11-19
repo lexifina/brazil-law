@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por MAYARA CAVASSINI GIACOMINI contra "ato manifestamente teratológico e ilegal praticado pela Egrégia 7ª Turma do Tribunal Regional Federal da 4ª Região, nos autos da Apelação Criminal nº 5021353-87.2023.4.04.7200/SC", cujo acórdão possui a seguinte ementa:
+PENAL. PROCESSO PENAL. OPERAÇÃO MACH POINT. TRÁFICO INTERNACIONAL DE DROGAS. EMBARAÇO À INVESTIGAÇÃO. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. MANDADO JUDICIAL DE BUSCA NA CASA DO SUSPEITO. APREENSÃO DE VEÍCULO. MEDIDA ASSECURATÓRIA. PEDIDO DE RESTITUIÇÃO REJEITADO. TITULARIDADE NÃO COMPROVADA (CPP, ART. 120). INTERESSE NA MANUTENÇÃO DA CONSTRIÇÃO (CPP, ART. 118). APELO DESPROVIDO. SENTENÇA MANTIDA.
+1. Se a apelante não comprovou ter comprado o veículo registrado em seu nome (CPP, art. 120), seja porque o carro dado de entrada não pertencia à compradora, seja porque não há prova de entrega do dinheiro em espécie como entrada, seja porque o investigado pagou parte do bem, seja porque os demais pagamentos foram feitos após a apreensão do veículo. De qualquer prisma que se analise, é de rigor a manutenção da constrição sobre o bem que ainda interessa à investigação (CPP, art. 118).
+A impetrante requer "a CONCESSÃO DA SEGURANÇA, para o fim de ANULAR o acórdão teratológico proferido pela 7ª Turma do TRF da 4ª Região, determinando que outra decisão seja proferida em seu lugar, com a devida e obrigatória análise de todas as provas constantes nos autos, em especial as do Evento 24 e as ora anexadas, como medida de restauração do devido processo legal e das garantias constitucionais da Impetrante" (e-STJ fls. 2-8).
+Decido.
+Consoante o art. 105, I, "b", da Constituição Federal, a competência do Superior Tribunal de Justiça para processar e julgar mandados de segurança limita-se às hipóteses em que os atos coatores forem realizados por Ministros de Estado, Comandantes da Marinha, do Exército e da Aeronáutica ou pelo próprio Tribunal.
+Sendo assim, é manifesta a incompetência desta Corte para examinar o presente mandado de segurança, nos termos da Súmula n. 41/STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos". A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL. MANDAMUS NÃO CONHECIDO. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DE DESEMBARGADOR DE TRIBUNAL ESTADUAL. INCOMPETÊNCIA DO STJ. SÚMULA N. 41/STJ. AGRAVO DESPROVIDO.
+1. A competência desta Corte, nos termos do disposto no art. 105, inciso I, alínea b, da Constituição Federal, limita-se a julgar originariamente mandado de segurança contra ato de Ministro de Estado ou do próprio Tribunal.
+2. Tratando-se de mandado de segurança impetrado contra ato de desembargador do Tribunal de Justiça do Estado de São Paulo, imperiosa a incidência do Enunciado n. 41 da Súmula do Superior Tribunal de Justiça. Precedentes.
+Agravo regimental desprovido."
+(AgRg no MS n. 23.632/SP, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 14/3/2018, DJe de 23/3/2018)
+Ante o exposto, indefiro liminarmente o presente mandado de segurança, forte no art. 212 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
