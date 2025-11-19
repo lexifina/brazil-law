@@ -1,0 +1,37 @@
+DECISÃO
+WENDERSON SOARES DE ANDRADE agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação n. 0010761-89.2012.8.07.0005.
+Nas razões do especial, a defesa apontou a violação do art. 70 do Código Penal. O réu foi condenado pela prática de dois homicídios qualificados consumados e duas tentativas qualificadas de homicídio, todos em concurso formal impróprio. Segundo a tese defensiva, "apesar dos jurados terem reconhecido que o bem jurídico vida foi visado por quatro vezes (o que seria condizente com a autonomia de desígnios), o fato é que na realidade foi visado apenas uma vez, tendo sido atingido duas vezes, já que ocorreram dois homicídios consumados e dois tentados, havendo quanto a esses apenas lesões corporais" (fl. 2.379). Narrou que tal argumentação não foi apresentada em plenário porque a estratégia adotada consistiu na negativa de autoria. Argumentou que "o dolo do recorrente teria sido: direto em relação à única vítima visada (Marcos Vinícius) e eventual em relação às três atingidas acidentalmente no contexto" (fl. 2.379).
+Requereu a aplicação do concurso formal próprio a todos os quatro delitos. Subsidiariamente, pleiteou a incidência da regra às três vítimas acidentais ou, ao menos, sua aplicação aos dois ilícitos tentados e aos dois consumados.
+O Tribunal de origem não admitiu o recurso pelo óbice da Súmula n. 7 do STJ, o que ensejou esta interposição.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 2.428-2.433).
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+O recurso especial, todavia, não deve ser conhecido, uma vez que não preenche todos os requisitos de admissibilidade.
+O acusado foi condenado a 54 anos e 9 meses de reclusão pelos crimes previstos nos arts. 121, § 2º, I, III e IV, do CP; 121, § 2º, I, II e IV, c/c o art. 14, II, do CP; 121, § 2º, III e IV, do CP, e 121, § 2º, II e IV, c/c o art. 14, II, do CP, todos em concurso formal impróprio. Inconformado, interpôs apelação em que requereu, entre outros pedidos, a aplicação do concurso formal próprio. Contudo, o Tribunal de origem negou provimento ao recurso, nos seguintes termos (fl. 2.366, grifei):
+ ..
+DO CONCURSO FORMAL IMPRÓPRIO OU IMPERFEITO
+Aduz a defesa técnica que há patente "ausência de desígnios autônomos quanto às três vítimas acidentais (Anderson, Joacir e Maria, contra as quais não havia dolo), o que faria incidir o concurso formal próprio - art. 70, primeira parte, do CP".
+Prossegue argumentando que "considerando que foram dois homicídios consumados e duas tentativas, parece razoável a postulação pelo cúmulo da pena mais grave de cada uma das espécies com a exasperação de 1/6".
+Sem razão.
+In casu, o apelante, mediante uma única conduta, qual seja, disparos de arma de fogo, praticou 4 crimes com desígnios autônomos, pois agiu com dolo direto ou eventual, a depender da vítima considerada, o que restou evidenciado pelas provas coligidas aos autos, notadamente os depoimentos das testemunhas e vítimas sobreviventes, nos quais se descrevem a dinâmica dos fatos.
+In casu, os crimes devem ter suas penas somadas, nos termos do art. 70 do CP, uma vez que configurado o concurso formal impróprio ou imperfeito, incidindo o critério do cúmulo material.
+Unificam-se as pena em 54 (cinquenta e quatro) anos e 6 (seis) meses de reclusão.
+O exame da tese defensiva, que pretende a aplicação da regra do concurso formal próprio, depende da constatação de que, apesar dos quatro resultados, o agente praticou a conduta sem desígnios autônomos para cada uma delas. Nesse sentido: "A distinção entre o concurso formal próprio e o impróprio relaciona-se com o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos" (AgRg no Resp n. 1.299.942/DF, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/6/2013, destaquei).
+Conforme se verifica no acórdão recorrido, o Tribunal local assinalou que a dinâmica dos fatos atestada pelas provas dos autos demonstra a ação única, a pluralidade de vítimas e a autonomia de desígnios, razão pela qual aplicou o concurso formal impróprio aos delitos.
+Para alterar a conclusão da Corte local sobre o elemento subjetivo do acusado no momento da prática delitiva, seria necessário o reexame fático-probatório, providência obstada pela Súmula n. 7 do STJ, cujo teor determina que "A pretensão de simples reexame de prova não enseja recurso especial".
+Nessa perspectiva:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DUPLO HOMICÍDIO QUALIFICADO. CONCURSO FORMAL. NÃO APLICAÇÃO. DESÍGNIOS AUTÔNOMOS.
+REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+1. Analisando as provas dos autos, o Tribunal de origem entendeu não ser caso de aplicação do concurso formal, mantendo a aplicação do concurso material, pois o réu efetuou vários disparos de arma de fogo, assumindo o risco de matar outras pessoas, emergindo os desígnios autônomos. Assim, para acolher a tese do agravante de que não possuía desígnios autônomos, seria necessário o reexame do conjunto fático-probatório, o que é defeso em recurso especial, em virtude do q ue preceitua a Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.737.164/RO, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 23/8/2018, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. CONCURSO FORMAL. DESÍGNIOS AUTÔNOMOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, a Corte estadual manteve o reconhecimento do concurso formal impróprio, sob o argumento de que "foi extraída do conjunto probatório existente nos autos no sentido de que o requerente agiu com desígnios autônomos em relação a cada vítima, ou seja, de que agiu com dolo (intenção) de matar cada uma delas", salientando que "o motivo dos crimes foi o fato de que as vítimas impediram o requerente de praticar um crime de roubo em outra ocasião, de modo que ele visava se vigar de todas elas,  ..  motivo pelo qual  ateou fogo na casa das vítimas e escorou a sua porta, impedindo que elas de lá saíssem". Concluiu, ao final, que "o seu desígnio (dolo/intenção) era autônomo em relação a cada uma delas, ou seja, desejou os quatro resultados produzidos com uma única conduta, desdobrada em dois atos executórios: atear fogo na casa das vítimas e bloquear a saída do local", de modo que "houve reconhecimento, pelos jurados, de dolo específico para cada um deles, de modo que se impõe o cúmulo material".
+2. Forçoso lembrar reiterada decisão desta Corte Superior sobre a incidência do concurso formal impróprio (art. 70, segunda parte, do Código Penal) no crime de latrocínio, nas hipóteses em que o agente, mediante uma única subtração patrimonial, busca alcançar mais de um resultado morte, caracterizados os desígnios autônomos.
+3. Para alterar a conclusão adotada pela instância de origem seria necessária reexame de provas, procedimento vedado em habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 962.585/PR, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/3/2025, destaquei.)
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Intime-se a Defensoria Pública do Distrito Federal e dos Territórios acerca do teor da presente decisão. Esgotado o prazo legal para interposição de recurso sem manifestação da instituição, certifique-se o trânsito em julgado.
+Publique-se e intimem-se.
+EMENTA
