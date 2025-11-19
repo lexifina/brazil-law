@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ADJANE DA SILVA PRADO, com fundamento nos arts. 105, I, f, da Constituição Federal e 988, II e IV, do Código de Processo Civil, em face de decisão proferida pela Segunda Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso, nos autos do Agravo de Instrumento n. 1034497-69.2025.8.11.0000. A decisão reclamada indeferiu pedido de suspensão do julgamento do referido recurso, o qual versa sobre a legitimidade concorrente entre a parte e o advogado para a execução de honorários advocatícios sucumbenciais.
+Aduzem os reclamantes que o recurso foi incluído em pauta de julgamento virtual, não obstante a existência de determinação do Superior Tribunal de Justiça para suspensão nacional dos processos que tratem exclusivamente da controvérsia referente à legitimidade concorrente para a execução dos honorários, conforme decidido no ProAfR no REsp n. 2.035.052/SP e demais recursos afetados, que compõem o Tema n. 1.242 do STJ.
+Relatam que, embora tenha sido demonstrada a incidência da suspensão obrigatória prevista no art. 1.037, II, do CPC, a relatora no Tribunal de origem indeferiu o pedido de sobrestamento sob o fundamento de que a determinação do STJ abrangeria apenas Recursos Especiais e Agravos em Recurso Especial em tramitação nesta Corte Superior, e não processos em segundo grau de jurisdição.
+Afirmam haver risco de dano grave, em razão da designação de julgamento virtual entre os dias 12 e 14 de novembro de 2025, antes da fixação da tese repetitiva, o que pode gerar decisão dissonante do futuro entendimento vinculante do STJ.
+Diante disso, requerem, liminarmente, a suspensão imediata do julgamento do agravo de instrumento no TJMT. Ao final, pleiteiam a procedência da Reclamação para cassar a decisão impugnada e determinar o sobrestamento do processo até o julgamento definitivo do Tema 1.242 por esta Corte.
+É o relatório. Decido.
+O Superior Tribunal de Justiça possui entendimento pacificado a respeito do não cabimento de reclamação para questionar decisão que não aplica a suspensão determinada em decisão proferida na afetação de recurso repetitivo.
+Nesse sentido, a título de exemplo:
+AGRAVO INTERNO NA RECLAMAÇÃO. PROCESSUAL CIVIL. PRETENSÃO DE SOBRESTAMENTO DO FEITO ORIGINÁRIO COM BASE EM DECISÃO DE SUSPENSÃO NACIONAL. NÃO CABIMENTO DO PLEITO.
+1. A jurisprudência desta Corte Superior se firmou no sentido de ser incabível o acolhimento de reclamação em razão de descumprimento da ordem de sobrestamento de matéria, em face de recurso repetitivo, mormente se não houve o exaurimento da instância ordinária acerca da decisão do juiz que, entre outras questões, rejeitou exceção de préexecutividade e deferiu o redirecionamento da execução fiscal.
+2. Agravo interno a que se nega provimento. (AgInt na Rcl n. 41.275/SC, relator Ministro Og Fernandes, Primeira Seção, julgado em 18/5/2021, DJe de 7/6/2021.)
+PROCESSUAL CIVIL. RECLAMAÇÃO. SUSPENSÃO DOS AUTOS PARA AGUARDAR JULGAMENTO REPETITIVO. DESCABIMENTO.
+1. A Corte Especial do STJ, na sessão realizada em 05/02/2020, decidiu que não cabe reclamação para o exame da correta aplicação de precedente obrigatório formado em julgamento de recurso especial repetitivo à realidade do processo (Rcl 36.476/SP). Ressalva do ponto de vista do relator.
+2. O fato de a reclamação ser proposta contra decisão que determinou o sobrestamento da ação e de não ter havido interposição do recurso especial nos autos principais não modifica o raciocínio adotado ante a circunstância de que o controle da aplicação de r ecurso repetitivo compete às instâncias ordinárias. Precedente.
+3. Agravo interno desprovido. (AgInt na Rcl n. 39.901/RS, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 1/9/2020, DJe de 14/9/2020.)
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se, Intimem-se.
+EMENTA
