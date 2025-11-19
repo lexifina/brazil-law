@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Carlos Pires Brandão e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Carlos Pires Brandão.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. DOSIMETRIA DA PENA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO CRIME FUNDADA EM ELEMENTOS CONCRETOS QUE EXTRAPOLAM O TIPO. MOTOCICLETA SUBTRAÍDA UTILIZADA COMO INSTRUMENTO DE TRABALHO. IMPACTO DIRETO NA SUBSISTÊNCIA DA VÍTIMA. MAJORANTE PELO USO DE ARMA DE FOGO MANTIDA. APREENSÃO E PERÍCIA PRESCINDÍVEIS QUANDO COMPROVADA A UTILIZAÇÃO POR OUTROS MEIOS DE PROVA. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de Wilton Balbino da Silva, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco (Apelação Criminal n. 0001029-96.2022.8.17.4001).
+Consta dos autos que o paciente foi condenado, em primeiro grau, pelo crime de roubo (art. 157, § 2º, II, e § 2º-A, I, do Código Penal), à pena de 7 anos e 11 meses de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa.
+Interposta apelação, o Tribunal a quo, por votação unânime, manteve a condenação e a dosimetria.
+Aduz a defesa, em suma: (i) ilegalidade da negativação da vetorial "consequências do crime", por se fundar em elemento inerente ao tipo penal; (ii) ausência de comprovação idônea do emprego de arma de fogo, pleiteando o afastamento da causa de aumento do art. 157, § 2º-A, I, do Código Penal; e (iii) detração do período de prisão cautelar para fins de fixação de regime inicial, nos termos do art. 387, § 2º, do Código de Processo Penal.
+Não houve pedido de liminar.
+Prestadas as informações (fls. 371/602), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 608/611).
+É o relatório.
+EMENTA
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. DOSIMETRIA DA PENA. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. NEGATIVAÇÃO DAS CONSEQUÊNCIAS DO CRIME FUNDADA EM ELEMENTOS CONCRETOS QUE EXTRAPOLAM O TIPO. MOTOCICLETA SUBTRAÍDA UTILIZADA COMO INSTRUMENTO DE TRABALHO. IMPACTO DIRETO NA SUBSISTÊNCIA DA VÍTIMA. MAJORANTE PELO USO DE ARMA DE FOGO MANTIDA. APREENSÃO E PERÍCIA PRESCINDÍVEIS QUANDO COMPROVADA A UTILIZAÇÃO POR OUTROS MEIOS DE PROVA. DETRAÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Ordem denegada.
+VOTO
+A insurgência não prospera. Com efeito, é inviável a utilização da via eleita para revisar novamente a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, do atento exame dos autos, não se observa constrangimento ilegal capaz de justificar a superação do referido óbice, pois, no âmbito restrito do habeas corpus, a análise de suposta violação do art. 59 do Código Penal só é admitida nos casos em que haja flagrante ilegalidade na fixação da reprimenda, o que não se evidencia no caso em apreço, porquanto o recrudescimento da pena-base, em razão da negativação da vetorial referente às consequências da ação delituosa, se encontra alicerçado em elementos concretos, que extrapolam aqueles ínsitos ao tipo penal, confira-se (fl. 18 - grifo nosso):
+De igual maneira, as consequências do roubo foram de significativa gravidade, tendo em vista que a motocicleta subtraída da vítima era instrumento essencial para o exercício da sua atividade profissional de motoboy, de modo que a privação desse bem resultou na impossibilidade imediata de o trabalhador dar continuidade à sua função, acarretando-lhe não apenas um prejuízo material, mas também comprometendo sua capacidade de sustento e de prover seu próprio bem-estar. Assim, o impacto do delito transcende a simples perda do bem, refletindo diretamente na subsistência da vítima.
+De outro lado, quanto à causa de aumento de pena referente ao uso de arma de fogo, verifica-se que o acórdão ora impugnado se encontra em perfeita consonância com a jurisprudência desta Corte, firmada no sentido de que a apreensão e perícia da arma de fogo não são necessárias para a aplicação da majorante do art. 157, § 2º-A, I, do Código Penal, quando comprovada sua utilização por outros meios de prova (AgRg no HC n. 993.836/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025).
+Por fim, no que se refere à detração penal e consequente fixação do regime, o writ é manifestamente inadmissível, pois a questão não foi sequer debatida no Tribunal de origem, circunstância que obsta a análise da matéria por esta Corte, ante a impossibilidade de supressão de instância.
+Ante o exposto, denego a ordem.
