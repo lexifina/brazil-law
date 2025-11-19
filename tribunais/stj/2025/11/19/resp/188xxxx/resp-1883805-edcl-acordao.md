@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo UNIÃO contra acórdão da Segunda Turma do STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. TEMA 98/STJ. PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento alcançado no acórdão impugnado diverge da jurisprudência do Superior Tribunal de Justiça, no sentido de que não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível (AgInt no REsp 1.990.344 /CE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 23/9/2022). Precedentes.
+2. Agravo interno não provido (fls. 412).
+A parte embargante sustenta, em síntese, a existência de omissão, obscuridade e contradição entre a conclusão do acórdão embargado com o art. 537 do CPC e o Tema 98/STJ, quanto à vinculação das astreintes ao descumprimento objetivo e à necessidade de esclarecimento sobre eventual afastamento do requisito de "recalcitrância".
+A Defensoria Pública Da U nião apresentou impugnação (fls. 433-435).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes, deduzido na minuta ou na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostas nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, da qual decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser desprovido, constando, expressamente, que (fls. 414-416):
+Com efeito, conforme consta da decisão agravada, o Tribunal de origem afastou a condenação em multa diária, sob o fundamento de que a multa coercitiva somente seria cabível diante da manifesta recalcitrância da parte.
+Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+Em relação à imposição da pena de multa diária, tem a Segunda Turma deste Regional adotado posicionamento consolidado no sentido da impossibilidade de aplicação de astreintes contra a Fazenda Pública como meio de coação ao cumprimento de obrigação de fazer, apenas sendo cabível diante de manifesta constatação de recalcitrância (fl. 235).
+Com efeito, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, restou consignado que a incidência da multa diária deve ocorrer a partir da ciência do obrigado e da sua negativa de adimplir a obrigação voluntariamente.
+Ocorre que, ao contrário do decidido no acórdão recorrido, a matéria está pacificada na jurisprudência desta Corte, no sentido de não se condicionar a constatação da "manifesta recalcitrância" para que haja a fixação de astreintes.
+No mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DE ASTREINTES CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. TEMA 98 DO STJ. INAPLICABILIDADE DA SÚMULA 7/STJ. MULTA DIÁRIA CONDICIONADA AO PRÉVIO DESCUMPRIMENTO DA ORDEM JUDICIAL. DESNECESSIDADE.
+1. O enfrentamento meritório da controvérsia de fundo não afronta a Súmula 7/STJ, porquanto os julgados proferidos pelo Tribunal a quo, na hipótese, estabelecem moldura fática imutável, a partir da qual possível se faz extrair nova e diversa consequência jurídica (revaloração jurídica) por parte deste Tribunal Superior.
+2. A Primeira Seção desta Corte, no julgamento do REsp 1.474.665/RS (relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 26/4/2017, DJe de 22/6/2017), submetido à sistemática dos recursos repetitivos, firmou a seguinte tese jurídica (Tema 98): "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. "Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível" (AgInt no REsp n. 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 29/8/2022, DJe de 23/9/2022).
+4. Agravo interno não provido (AgInt no AREsp 1.870.513/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/8/2023 - grifo nosso).
+PROCESSUAL CIVIL. ASTREINTES. FAZENDA PÚBLICA. POSSIBILIDADE. SÚMULA 7 DO STJ. INAPLICABILIDADE. DECISÃO JUDICIAL. PRÉVIO DESCUMPRIMENTO. COMPROVAÇÃO. DESNECESSIDADE.
+1. A Súmula 7 do STJ impede o reexame de matérias fáticas, não proibindo, porém, a intervenção desta Corte de Justiça quando se verifica o equívoco na a aplicação dos institutos legais, notadamente quando há confronto com entendimento firmado pelo STJ sobre a matéria.
+2. O STJ, no Tema 98, firmou tese quanto à "possibilidade de imposição de multa diária (astreintes) a ente público, para compeli-lo a fornecer medicamento à pessoa desprovida de recursos financeiros".
+3. Não há necessidade de que haja prévia negativa de cumprimento de decisão judicial para que, então, se venha a fixar astreintes, nos termos do precedente obrigatório, pois a demora na prestação de atendimento adequado, comumente, leva ao comprometimento da saúde e/ou vida do paciente, que, em determinadas hipóteses, é irreversível.
+4. Agravo interno desprovido (AgInt no REsp 1.990.344/CE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 23/9/2022 - grifo nosso).
+Ademais, a decisão agravada não ordenou a imediata fixação de multa diária. No entanto, ao afastar o fundamento da necessidade de demonstração de recalcitrância, deve-se analisar o pedido de imposição de astreintes conforme os critérios estabelecidos no julgamento do Tema 98/STJ.
+Portanto, correto o provimento do recurso especial, com fundamento na orientação contida na Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou com negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; e EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
