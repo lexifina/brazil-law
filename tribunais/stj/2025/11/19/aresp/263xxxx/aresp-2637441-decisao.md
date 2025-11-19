@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FUSION TRADE PARTICIPAÇÕES IMPORTAÇÃO E EXPORTAÇÃO S.A contra decisão que não admitiu recurso especial manejado, com base na alínea "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado:
+Agravo de instrumento. Execução. Reconhecimento de nulidade de citação. Retorno dos autos à fase de conhecimento. Pretensão de imputação dos ônus sucumbenciais. Impossibilidade de acolhimento. Inexistência de extinção de qualquer parcela da dívida. Recurso improvido.
+Nas razões do recurso especial, a parte agravante alega violação do art. 85, § 1º, do Código de Processo Civil.
+Sustenta que, aplicando-se o art. 85, § 1º, do Código de Processo Civil e a tese firmada no Tema 410/STJ, é obrigatório o arbitramento de honorários sucumbenciais em favor do executado quando acolhida exceção de pré-executividade que reconhece a nulidade da citação, extingue o cumprimento de sentença e determina o retorno dos autos à fase de conhecimento.
+Aponta, por fim, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 446-454.
+Assim delimitada a controvérsia, passo a decidir.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo de instrumento, assentando que o acolhimento da exceção de pré-executividade, no caso concreto, não implicou extinção da execução, mas apenas retorno à fase de conhecimento, razão pela qual não seria cabível a condenação do exequente ao pagamento de verba sucumbencial. Confira-se (fl. 268):
+"Não se ignora que a extinção da execução, parcial ou total autoriza a fixação de honorários sucumbenciais sobre o proveito econômico alcançado pela parte.
+Contudo, no caso, ao reconhecer a nulidade de citação, a decisão agravada não importou em extinção da execução, mas tão somente em retorno dos autos à fase de conhecimento.
+Note-se, aliás, que a decisão agravada acolheu o pedido principal deduzido na exceção de pré-executividade de págs, 187/219. Logo, todo o mais que objetiva o agravante discutir no presente recurso extrapola os limites objetivos do pedido e do decidido."
+Verifico que não assiste razão à parte agravante, pois, conforme indicado no acórdão recorrido, no caso, "ao reconhecer a nulidade de citação, a decisão agravada não importou em extinção da execução, mas tão somente em retorno dos autos à fase de conhecimento " (fl. 268, grifou-se).
+Assim, embora a parte executada/agravante tenha logrado êxito em afastar momentaneamente a pretensão do exequente/agravado , não houve decisão judicial quanto à e xtinção definitiva do processo executivo, capaz de dar ensejo à sucumbência.
+Com efeito, a jurisprudência desta Corte Superior entende ser cabível a fixação de honorários sucumbenciais em desfavor do exequente quando a impugnação apresentada pelo executado for acolhida, ainda que parcialmente, para extinguir o débito, reduzir o seu montante ou excluir algum executado  hipóteses que, como se observa, não se aplicam ao presente caso.
+A propósito, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA. EXTINÇÃO DA AÇÃO EXECUTIVA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE EXTINÇÃO PARCIAL OU TOTAL DO DÉBITO. HONORÁRIOS SUCUMBENCIAIS. NÃO CABIMENTO.
+1. Discute-se nos autos acerca da necessidade de fixação de honorários sucumbenciais em razão do acolhimento da exceção de pré-executividade, com a extinção da ação autônoma de execução, em razão da inadequação da via eleita, mas sem extinção, seja parcial ou total, do débito.
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que só é cabível a fixação de honorários sucumbenciais no caso em que o acolhimento da exceção de pré-executividade implicar em extinção, parcial ou total, do débito.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.087.562/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/3/2025, DJEN de 4/4/2025, grifou-se.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE RECURSAL. AFASTAMENTO. RECONSIDERAÇÃO DA DECISÃO. EXECUÇÃO DE CÉDULA DE CRÉDITO BANCÁRIO. JUNTADA DE VIA NÃO-NEGOCIÁVEL. INTIMAÇÃO PARA JUNTADA, SOB PENA DE INDEFERIMENTO DA INICIAL. INÉRCIA. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. PROVEITO ECONÔMICO INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. ART. 85, § 8º, DO CPC/2015. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp 1.759.860/PI, Relatora Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 21/3/2022).
+2. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, conforme disposto no § 8º do art. 85 do CPC/2015. Precedentes.
+3. Na hipótese, a extinção da execução decorreu do indeferimento da inicial pela ausência de juntada de título executivo idôneo. Como a dívida não foi declarada extinta ou inexistente, nem seu valor foi reduzido, não ficando inviabilizada a cobrança futura do débito, o proveito econômico deve ser considerado inestimável, impondo-se o arbitramento dos honorários de sucumbência por apreciação equitativa, nos termos do art. 85, § 8º, do CPC/2015.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.464.163/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, REPDJe de 23/05/2024, DJe de 2/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA EM PARTE PARA PRÉVIA INSTAURAÇÃO DA FASE DE LIQUIDAÇÃO. PRETENSÃO AO RECEBIMENTO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. AUSÊNCIA DE EXTINÇÃO DO PROCEDIMENTO EXECUTIVO. ENTENDIMENTO DO ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os arts. 803, I, e 924, I, do CPC não foram ventilados no acórdão recorrido, ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre. Incidência da Súmula n. 211 do STJ.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, é cabível a fixação de honorários de sucumbência quando a exceção de pré-executividade for acolhida, ainda que em parte, para extinguir a execução, total ou parcialmente, ou para reduzir o seu montante, ou para excluir algum executado, o que não ocorreu, no caso dos autos.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.626.005/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/12/2024, DJEN de 10/12/2024, grifou-se.)
+RECURSO ESPECIAL DO EXECUTADO. ALEGAÇÃO DE INEXISTÊNCIA DE TÍTULO EXECUTIVO. QUESTÃO SUBMETIDA AO COMPETENTE JUÍZO ARBITRAL. PENDÊNCIA DE JULGAMENTO. DETERMINAÇÃO DE SUSPENSÃO DA EXECUÇÃO ATÉ JULGAMENTO DE QUESTÕES DE FUNDO PELO TRIBUNAL ARBITRAL. AUSÊNCIA DE PREJUÍZO DO RECORRENTE E INTERESSE EM RECORRER. SUCUMBÊNCIA. INEXISTÊNCIA. AUSÊNCIA DE EXTINÇÃO DO FEITO. MERA SUSPENSÃO POR PREJUDICIALIDADE EXTERNA. DESCABIMENTO DE CONDENAÇÃO EM VERBA HONORÁRIA ENQUANTO NÃO ENCERRADA A EXECUÇÃO.
+1. O executado recorrente insiste na tese de que o título extrajudicial não seria exequível, sob fundamentos que foram submetidos (por ele próprio) a exame no Tribunal Arbitral e determinaram a suspensão do feito judicial até pronunciamento definitivo daquela Corte.
+2. Desse modo, estando suspensa a execução até decisão final do Tribunal Arbitral, não se verifica o prejuízo processual ou o interesse em recorrer do executado.
+3. Descabida a condenação da parte exequente em honorários enquanto não proferida decisão definitiva/extintiva do feito a favor do recorrente, uma vez que a sucumbência ainda não se estabeleceu na causa.
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.863.169/SP, de minha relatoria, Quarta Turma, julgado em 27/4/2023, DJe de 4/5/2023, grifou-se.)
+Desse modo, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ. Ademais, alterar essas premissas esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ.
+A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido, inviabilizando o conhecimento do recurso especial também com base na alínea "c" do inciso III do artigo 105 da Constituição Federal.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
