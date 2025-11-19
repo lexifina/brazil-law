@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO DE SENTENÇA. TÍTULO JUDICIAL. REAJUSTE. NÃO HÁ VIOLAÇÃO AO ART. 1.022 DO CPC/2015. REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de embargos à execução de sentença, decorrente de título judicial em que se reconheceu o direito ao reajuste de 28,86% previsto nas Leis 8.622/93 e 8.627/93. Na sentença, julgou-se parcialmente procedente os embargos. No Tribunal a quo, a sentença foi mantida, por considerar a sentença em consonância com julgado do STJ no Tema repetitivo 529.
+II - Em relação à indicada violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda. Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), conforme pacífica jurisprudência do Superior Tribunal de Justiça. Nesse sentido: AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024; AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.
+III - Quanto à distribuição da verba honorária, não merece melhor sorte a parte agravante. Consoante cediço, a revisão da distribuição dos honorários advocatícios envolve reexame de fatos e provas, providência vedada em recurso especial pela Súmula n. 7/STJ. Nesse sentido: REsp n. 1.868.770/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJe de 15/5/2025; AREsp n. 2.345.516/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/9/2024, DJe de 6/9/2024.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de embargos à execução de sentença, decorrente de título judicial em que se reconheceu o direito ao reajuste de 28,86% previsto nas Leis 8.622/93 e 8.627/93. Na sentença, julgou-se parcialmente procedente os embargos. No Tribunal a quo, a sentença foi mantida, por considerar a sentença em consonância com julgado do STJ no Tema repetitivo 529.
+Trata-se de agravo interno interposto contra decisão que conheceu em parte o recurso especial e, nessa parte, negou-lhe provimento, fundamentado no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal Regional Federal da 4º Região, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO - INCIDÊNCIA DA LEI N. 11.960/09 - INCIDÊNCIA DE JUROS MORATÓRIOS À BASE DE 6% A. A. SENTENÇA DE PARCIAL PROCEDÊNCIA. CORREÇÃO MONETÁRIA PELO IPCA. NEGATIVA DE SEGUIMENTO À APELAÇÃO. AGRAVO - INSUFICIENTE COMBATE AOS FUNDAMENTOS DECISÓRIOS. PREQUESTIONAMENTO. Agravo improvido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Se devidamente analisados os aspectos omissos, não teria sido aplicado o óbice da Súmula nº 7/STJ. Nessa esteira, importa salientar que soa contraditório de um lado afastar a preliminar de nulidade e, de outro, impor o óbice da impossibilidade de revolvimento fático probatório, visto que aplicado à parte ônus do qual se desincumbiu ao opor o competente recurso integrativo no Tribunal de origem.
+Está caracterizada a ofensa ao Texto Constitucional, na parte em que dispõe sobre os princípios da ampla defesa e do devido processo legal, e da fundamentação das decisões judiciais, previstos nos arts. 5º, incisos XXXV, LIV e LV, e 93, inciso IX, da Carta Magna, assim como aos arts. 489, §1º, e 1.022 e seguintes do Código de Processo Civil de 2015, haja vista a patente negativa de prestação jurisdicional perpetrada pelo Egrégio Tribunal Regional.
+Dessa forma, busca-se a reconsideração, ou a reforma, da r. decisão agravada, a fim de que seja reconhecida a nulidade do v. acórdão recorrido, com a consequente determinação do retorno dos autos à Corte a quo para exame do vício suscitado em embargos declaratórios.
+ ..
+Vale ressaltar, ainda, que a pretensão da parte autora não envolve o revolvimento fático-probatório dos autos, em especial porque se busca a devolução dos autos à Corte Regional para que proceda à análise pormenorizada do decaimento das partes, o que não foi feito no julgado recorrido.
+Basta consultar o julgado de origem para inferir que não houve qualquer critério para a distribuição dos ônus da sucumbência, o que afronta flagrantemente o disposto no art. 85 do CPC. Não há de se ponderar a incidência da Súmula nº 7/STJ ao caso em destaque.
+ ..
+Dessa forma, reconhecida a inaplicabilidade da Súmula nº 7/STJ, imperioso o provimento do recurso para condenar a Fazenda ao pagamento dos honorários ou para determinar o retorno dos autos à origem para novo exame da sucumbência, em observância ao decaimento proporcional de cada parte.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. EMBARGOS À EXECUÇÃO DE SENTENÇA. TÍTULO JUDICIAL. REAJUSTE. NÃO HÁ VIOLAÇÃO AO ART. 1.022 DO CPC/2015. REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de embargos à execução de sentença, decorrente de título judicial em que se reconheceu o direito ao reajuste de 28,86% previsto nas Leis 8.622/93 e 8.627/93. Na sentença, julgou-se parcialmente procedente os embargos. No Tribunal a quo, a sentença foi mantida, por considerar a sentença em consonância com julgado do STJ no Tema repetitivo 529.
+II - Em relação à indicada violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda. Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), conforme pacífica jurisprudência do Superior Tribunal de Justiça. Nesse sentido: AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024; AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.
+III - Quanto à distribuição da verba honorária, não merece melhor sorte a parte agravante. Consoante cediço, a revisão da distribuição dos honorários advocatícios envolve reexame de fatos e provas, providência vedada em recurso especial pela Súmula n. 7/STJ. Nesse sentido: REsp n. 1.868.770/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJe de 15/5/2025; AREsp n. 2.345.516/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/9/2024, DJe de 6/9/2024.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Em relação à indicada violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, porquanto fundamentou seu decisum com solução jurídica suficiente para a resolução da demanda.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015), conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. CUMULAÇÃO DAS OBRIGAÇÕES DE INDENIZAR E DE REPARAR DANO AMBIENTAL. CABIMENTO. SÚMULA 629/STJ. REVISÃO DOS PARÂMETROS DE DEFINIÇÃO DO VALOR INDENIZÁVEL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.156.765/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCIDÊNCIA DO PIS E COFINS. ZONA FRANCA DE MANAUS. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. ENFOQUE CONSTITUCIONAL DA MATÉRIA.
+ ..
+2. Não configurada a violação apontada ao art. 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque a Corte de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum a quo.
+ ..
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.185/AM, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Quanto à distribuição da verba honorária, não merece melhor sorte a parte agravante.
+Consoante cediço, a revisão da distribuição dos honorários advocatícios envolve reexame de fatos e provas, providência vedada em recurso especial pela Súmula n. 7/STJ.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC. OFENSA. NÃO OBSERVAÇÃO. COISA JULGADA. SÚMULA 7/STJ. IMPOSTO DE RENDA. RETENÇÃO NA FONTE. SÚMULA N. 283/STF. REDISTRIBUIÇÃO ÕNUS SUCUMBENCIAL. SÚMULA N. 7/STJ.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Rever as conclusões do Tribunal quanto à coisa julgada, esbarra no óbice da Súmula 7/STJ, uma vez que demanda revolvimento fático-probatório.
+3. No que concerne à questão do imposto de renda, o acórdão recorrido decidiu por ser devida a retenção na fonte, com fundamento no art. 46 da Lei n. 8.541/1992. No ponto, não dedicou a parte recorrente impugnação ao fundamento supramencionado. Incide a Súmula n. 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+4. A revisão da distribuição dos honorários advocatícios envolve reexame de fatos e provas, providência vedada em recurso especial pela Súmula n. 7/STJ.
+Recurso especial parcialmente conhecido e nesta parte improvido.
+(REsp n. 1.868.770/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 12/5/2025, DJEN de 15/5/2025.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. MERCADORIAS DESTINADAS A EMPRESAS DE CONSTRUÇÃO CIVIL. ICMS. APLICAÇÃO DA ALÍQUOTA INTERNA. DECRETO ESTADUAL. DESTINATÁRIO EM OUTRO ESTADO. NATUREZA DO CONTRIBUINTE. SÚMULA N. 7/STJ. HONORÁRIOS ADVOCATÍCIOS. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SUMULA N. 7/STJ.
+RECURSO ESPECIAL DE HAMON DO BRASIL LTDA.
+I - Quanto à aplicabilidade da alíquota interestadual, verifica-se que a questão foi decidida pelo Tribunal com base na interpretação de legislação constitucional e estadual, o que inviabiliza essa parcela recursal, tendo em vista a incompetência do STJ para julgar matéria constitucional no âmbito do apelo nobre e da incidência da Súmula n. 280/STF.
+II - Por outro lado, para averiguar a natureza do destinatário da mercadoria, se contribuinte ou não do ICMS, faz-se impositivo reexaminar o mesmo conjunto probatório examinado pelo Tribunal a quo, o que atrai a incidência da Súmula n. 7/STJ.
+III - No tocante à alegada ofensa ao art. 100 do CTN, verifica-se que a matéria não foi abordada no acórdão recorrido, o que implica a falta de prequestionamento, pressuposto essencial para o conhecimento do recurso especial. Incidência da Súmula n. 282/STF.
+RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO.
+IV - O Tribunal a quo acompanhou a sentença de primeiro grau que, observado o decaimento da recorrente, considerou-a responsável por 20% do pagamento de honorários. Para aferir o acerto ou desacerto da fixação da verba, em comparação com a fração de seu decaimento, seria necessário reexaminar o conjunto probatório, o que é vedado no âmbito do recurso especial. Incidência da Súmula n. 7/STJ.
+V - Agravos conhecidos para não conhecer dos recursos especiais.
+(AREsp n. 2.345.516/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
