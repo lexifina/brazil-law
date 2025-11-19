@@ -1,0 +1,29 @@
+DECISÃO
+VANESSA TELMA OLIVEIRA DOS SANTOS alega sofrer coação ilegal diante de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Revisão Criminal n. 2318189-45.2025.8.26.0000.
+A paciente foi condenada a 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais 18 dias-multa, pela prática do crime tipificado no art. 158, § 1º, do Código Penal (extorsão mediante sequestro).
+O Tribunal de origem negou provimento à apelação defensiva e, na sequência, rejeitou os embargos de declaração opostos.
+A condenação transitou em julgado.
+Manejada a revisão criminal, o pedido foi julgado improcedente.
+Neste habeas corpus, a defesa pede a absolvição do sentenciado e, para tanto, alega manifesta ilegalidade, uma vez que, segundo entende, a condenação está amparada em provas insuficientes. Alternativamente, pleiteia a aplicação do instituto da participação de menor importância, a desclassificação para o delito de estelionato ou, ainda, a redução da pena-base e o abrandamento do regime prisional.
+Decido.
+É cabível o avanço para julgamento in limine de questões pacificadas pelo colegiado. Nesse sentido: AgRg no HC n. 894.234/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024.
+O Tribunal de origem assim decidiu a revisão criminal (fl. 85-92, grifei):
+Revisão criminal é ação que visa a desconstituição de decisão condenatória transitada em julgado, sujeita às condições e pressupostos previstos no artigo 621, do Código de Processo Penal:
+ ..
+Ou seja, a ação revisional não pode ser transformada em nova apelação, com reexame de questões já analisadas, notadamente quando o mérito foi objeto de análise também pelo Tribunal de Apelação e pelos Tribunais Superiores tal qual ocorreu no caso em exame.
+ ..
+A ré negou envolvimento no crime. Na fase extrajudicial alegou que o veículo GM Cobalt está registrado em seu nome, mas era utilizado pelo marido, e que na data do fato ele havia sido contratado para, como motorista Uber, retirar um cartão de crédito. O valor da corrida foi pago mediante maquininha, mas como não vieram buscá-lo, acabou ficando na posse do marido (fls. 181). Forneceu a mesma versão em juízo, acrescentando que desconhece o motivo pelo qual foi efetuado depósito no valor de R$10.000,00 em nome de Luís Amilton Foester.
+A Revisionanda traz como "prova nova" relatório de ponto do dia 16 de janeiro de 2022 (data dos fatos), do qual consta que estava desfrutando de descanso semanal (domingo), e que no dia seguinte iniciou o turno de trabalho às 07:28 horas. Admitindo-se a veracidade das anotações, o documento não se presta a desmerecer a prova acusatória que foi amealhada, seja porque se a ré fruía de descanso semanal, nada a impedia de concorrer para a prática do crime, seja porque os contatos com a vítima foram mantidos por telefone.
+Não é correto, portanto, que a condenação tenha contrariado a evidência dos autos.
+A desclassificação pretendida em caráter subsidiário é inviável, considerando que o crime foi praticado mediante emprego de grave ameaça.
+Não há que falar em participação de menor importância, pois a conduta da Revisionanda foi fundamental para o sucesso da empreitada.
+A pena foi aplicada de forma criteriosa, bem justificadas as diversas etapas da dosimetria. Eventual divergência com precedente jurisprudencial não se presta à conclusão de que tenha havido contrariedade à evidência dos autos.
+O entendimento firmado no acórdão está em harmonia com a orientação desta Corte, segundo a qual "o cabimento da revisão criminal ocorre em situações excepcionais, não se prestando a servir como uma segunda apelação, sob pena de relativizar sobremaneira a garantia da coisa julgada e da segurança jurídica" (AgRg no AREsp n. 1.846.669/SP, relator o Ministro Felix Fischer, Quinta Turma, julgado em 1º/6/2021, DJe 7/6/2021).
+Com efeito, "o escopo restrito da revisão criminal, ajuizada com fundamento no art. 621, inciso I, do Código de Processo Penal, pressupõe condenação sem qualquer lastro probatório, o que não confunde com a mera fragilidade probatória" (AgRg nos EDcl no REsp 1940215/RJ, rel. Min. Laurita Vaz, Sexta Turma, julgado em 16/11/2021, DJe 25/11/2021)
+Ademais, "a hipótese de insuficiência ou fragilidade do arcabouço probatório não encontra respaldo em nenhuma das hipóteses legais de cabimento da revisão criminal, previstas nos incisos do art. 621 do Código de Processo Penal" (AgRg no REsp n. 2.004.958/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2023).
+Alterar a conclusão do Tribunal estadual, de que o documento apresentado como prova nova "não se presta a desmerecer a prova acusatória que foi amealhada, seja porque se a ré fruía de descanso semanal, nada a impedia de concorrer para a prática do crime, seja porque os contatos com a vítima foram mantidos por telefone" (fl. 92), demandaria aprofundamento no conjunto de fatos e provas da ação penal originária, providência não admitida na seara do habeas corpus.
+De igual modo, afastar as premissas de que "A desclassificação pretendida em caráter subsidiário é inviável, considerando que o crime foi praticado mediante emprego de grave ameaça" (fl. 92) e "Não há que falar em participação de menor importância, pois a conduta da Revisionanda foi fundamental para o sucesso da empreitada" (fl. 92) exigem revolvimento fático-probatório incabível na via sumária do writ.
+No acórdão revisional, o órgão julgador se limitou a afirmar que "A pena foi aplicada de forma criteriosa, bem justificadas as diversas etapas da dosimetria" (fl. 92). Portanto, os pedidos de redução da pena-base e de alteração do regime prisional não foram debatidos no aresto recorrido, o que impossibilita o exame direto por esta Corte, sob pena de indevida supressão de instância.
+Ante o exposto, in limine, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
