@@ -1,0 +1,69 @@
+DECISÃO:
+
+    Trata-se de agravo formalizado por Gustavo Antonio Ferreira de Freitas contra decisão que não admitiu recurso extraordinário formalizado em face de acórdão proferido pela Quinta Câmara Criminal do Tribunal de Justiça do Estado do Paraná, assim ementado:
+
+    “APELAÇÃO CRIME – CONDENAÇÕES PELA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS – CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA (RÉU ARTHUR) – MATÉRIA AFETA À EXECUÇÃO PENAL – PLEITOS DE CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE E DE REVISÃO DA PENA-BASE (RÉU ARTHUR) – FALTA DE INTERESSE RECURSAL – ARGUIÇÕES DE NULIDADES DAS BUSCAS PESSOAIS (RÉUS ARTHUR E GUSTAVO) – REJEIÇÃO – ABORDAGEM POLICIAL MOTIVADA EM FUNDADA SUSPEITA DE FLAGRANTE DELITO – DENÚNCIA ANÔNIMA ESPECÍFICA SOMADA À VISUALIZAÇÃO DE ATO TÍPICO DA TRAFICÂNCIA – RECONHECIMENTO, DE OFÍCIO, DE NULIDADE DA BUSCA PESSOAL QUANTO AO RÉU LUCAS – AUSÊNCIA DE PROVA OBJETIVAMENTE AFERÍVEL DA JUSTA CAUSA PARA A ABORDAGEM POLICIAL – DENÚNCIA ANÔNIMA QUE, EM ISOLADO, NÃO AUTORIZA A DILIGÊNCIA – CONSEQUENTE ILICITUDE DAS PROVAS DECORRENTES (ART. 157, § 1º, DO CPP) – ABSOLVIÇÃO QUE SE IMPÕE, COM FULCRO NO ART. 386, II, DO CPP – TESES DE NULIDADE DAS BUSCAS DOMICILIARES – RÉU GUSTAVO – INGRESSO NOS DOMICÍLIOS AUTORIZADO PELA GENITORA E PELA ESPOSA DO ACUSADO – PALAVRAS HARMÔNICAS E OBJETIVAS DO POLICIAL MILITAR RESPONSÁVEL PELA DILIGÊNCIA – NARRATIVA INCONTROVERSA NOS AUTOS – PECULIARIDADE DO CASO A TORNAR DESNECESSÁRIA A COMPROVAÇÃO DOCUMENTAL OU AUDIOVISUAL DO CONSENTIMENTO DAS MORADORAS –PRECEDENTES DO STJ – RÉU ARTHUR – NULIDADE CONFIGURADA, EMBORA SEM ALTERAÇÃO DO DESFECHO CONDENATÓRIO – DÚVIDA SOBRE A EXISTÊNCIA DE CONSENTIMENTO PARA A ENTRADA DA EQUIPE POLICIAL NO DOMICÍLIO – VERSÃO DA POLICIAL MILITAR ATUANTE NO CASO CONTROVERTIDA PELAS DECLARAÇÕES DA ESPOSA DO ACUSADO – RECONHECIMENTO DE ILICITUDE PROBATÓRIA RESTRITAMENTE AO CONTEXTO DA BUSCA DOMICILIAR – PROVAS REMANESCENTES PRESERVADAS – MÉRITO – PLEITOS ABSOLUTÓRIOS POR INSUFICIÊNCIA DE PROVAS (RÉUS ARTHUR E GUSTAVO) OU, SUBSIDIARIAMENTE, DE DESCLASSIFICAÇÃO DAS CONDUTAS PARA OS TIPOS DO ART. 33, § 3º (RÉU ARTHUR) E DO ART. 28 (RÉU GUSTAVO), AMBOS DA LD – NÃO ACOLHIMENTO – MATERIALIDADE E AUTORIAS DELITIVAS ATESTADAS – DESTAQUES AOS RELATOS JUDICIAIS DOS POLICIAIS MILITARES RESPONSÁVEIS PELA PRISÃO EM FLAGRANTE, SOMADOS ÀS FALAS DA USUÁRIA NA DELEGACIA E DE SUA GENITORA EM JUÍZO – AUSÊNCIA DE VIOLAÇÃO AO ART. 155 DO CPP – PROVAS NÃO DECLARADAS NULAS QUE EVIDENCIAM A CONTRIBUIÇÃO DOLOSA DO RÉU ARTHUR PARA O CRIME DE NARCOTRÁFICO – CONDENAÇÕES MANTIDAS (QUANTO AO RÉU ARTHUR, EM MENOR EXTENSÃO) – DOSIMETRIAS DAS PENAS – INVIÁVEL A APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA AO RÉU ARTHUR – ACUSADO QUE SOMENTE ADMITIU A POSSE DA DROGA PARA CONSUMO PESSOAL – INTELIGÊNCIA DA SÚMULA 630 DO STJ – DESCABIDO O RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO AO RÉU GUSTAVO, DIANTE DE SUA REINCIDÊNCIA – MANUTENÇÃO DO REGIME PRISIONAL FECHADO AOS ACUSADOS ARTHUR E GUSTAVO – RECURSO DO RÉU GUSTAVO NÃO PROVIDO, RECURSO DO RÉU ARTHUR PARCIALMENTE PROVIDO, NA PARTE CONHECIDA E RECURSO DO RÉU LUCAS PREJUDICADO” (e-doc. 32).
+
+    Nas razões do recurso extraordinário, a parte recorrente alega violação ao art. 5º, incisos XI e LVI, da Constituição da República.
+
+    Sustenta, em síntese, a ilicitude das provas que ampararam a condenação, aludindo ao fato de que a busca domiciliar foi realizada sem autorização judicial.
+
+    Ressalta que
+
+    “no presente caso, não há nem que se falar, na descoberta do encontro fortuito de provas ou da descoberta inevitável, ou teoria do nexo causal independente. Pois, as provas só foram obtidas, após o acesso ilegal nas residências.”.
+
+    Ao final do apelo extremo, requer-se:
+
+    “Seja conhecido e provido o presente Recurso Extraordinário, acolhendo -o por violação do art. 5º, inciso s XI e LVI, da Constituição Federal, reformando o v. acórdão recorrido, bem como a sentença monocrática, para cassar o venerando acórdão e declarar a nulidade das provas produzidas nos autos, culminando na absolvição do recorrente.“ (e-doc. 58, fls. 18).
+
+    Examinados os autos, decido.
+
+    Transcrevo, no ponto em que resolvidas as questões suscitadas no apelo extremo, trechos do voto condutor do acórdão recorrido (e-doc. 454 fls 11):
+
+    “Segundo as provas orais judicializadas, a equipe da Choque Canil logrou identificar o proprietário do VW/Voyage como o ora apelante LUCAS, motivo pelo qual se deslocou até o endereço registrado como de sua residência.
+
+    No local, como narrado pelo policial Celso dos Santos (mov. 315.2), um vizinho informou que o residente do imóvel havia se mudado e forneceu seu novo endereço, na Rua Tocantins. Após novo deslocamento, os policiais avistaram o VW/Voyage e o indivíduo fora da residência, pelo que realizaram, de pronto, a abordagem e localizaram em sua posse pequena quantidade de “maconha”.
+
+    Todavia, a primeira observação a ser feita é de que, apesar de os policiais afirmarem que a denúncia anônima indicava um automóvel VW/Voyage (informação que teria sido confirmada no endereço do réu), tais relatos não ficaram suficientemente comprovados no feito.
+
+    Nesse sentido, quando ouvida em juízo, a testemunha Jocele, genitora da usuária Isabela e apontada como a responsável pela denúncia anônima, negou expressamente ter feito referência a um VW/Voyage, dizendo que somente mencionou o nome de GUSTAVO como o traficante que entregaria droga à sua filha.
+
+    Em suas palavras: “não, não falei do veículo Voyage. Falei que o GUSTAVO (...) era um traficante que entregava droga pra ela. Naquele dia ele não veio de moto, ele veio, o carro parou na frente, o policial pegou ele no carro, porque o policial viu ele entregando droga pra ela. (...)” (mov. 315.3).
+
+    Ou seja, a mesma prova que atestou a causa motivadora da diligência no imóvel de Isabela, a culminar na prisão de ARTHUR e GUSTAVO, milita, aqui, em sentido contrário às falas dos policiais, pois refutou a informação de que um VW/Voyage teria sido previamente indicado à equipe policial.
+
+     Vale ressaltar que, como não houve documentação da denúncia anônima – o que impediu sua juntada aos autos –, a versão apresentada pelos policiais militares ficou isolada, sem qualquer elemento probatório a lhe dar suporte. Em outras palavras, não há como aferir objetivamente os contornos do informe anônimo e seu grau de veracidade.
+
+    Mas não é só. Ainda que a narrativa dos policiais estivesse comprovada, o cenário envolvendo o réu LUCAS evidencia que não houve, para além da denúncia anônima, qualquer outro motivo a indicar que ele estivesse na posse de corpo de delito.
+
+     Atente-se que, de acordo com os agentes públicos, a abordagem aconteceu logo que a equipe avistou o réu e seu veículo em via pública, antes de constatar qualquer indicativo concreto de que LUCAS pudesse estar praticando algum crime.
+
+     O próprio policial Celso dos Santos, aliás, apresentou narrativa que em nada evidencia conduta suspeita por parte do réu LUCAS, pois disse não se lembrar se o acusado “estava chegando em casa de carro ou lavando o carro na calçada” (mov. 315.2). Ora, evidente que os atos de entrar em casa ou de lavar o carro não são ilícitos e nem mesmo indicativos, por si sós, de alguma ilicitude.
+
+    Tal situação difere do ocorrido com os corréus ARTHUR e GUSTAVO, dado que, em relação a eles, a equipe da ROTAM visualizou a efetiva entrega de um objeto à moradora da residência descrita na denúncia anônima, de forma rápida e dissimulada, o que se somou ao informe anônimo como fundada razão para a busca pessoal.”(edoc. 32 fls. 10-11, grifo nosso)
+
+    De início, não vinga a tese de ilegalidade da prova obtida por violação de domicílio, pois, o Pleno desta Corte, ao julgar o RE nº 603.616/RO, Relator o Ministro Gilmar Mendes, cuja repercussão geral havia sido reconhecida (Tema 280), fixou o entendimento de que, apenas quando presente justa causa/fundadas razões, nos casos de flagrante em crimes permanentes, conforme ocorreu no presente caso, há a possibilidade de busca e apreensão domiciliar sem o mandado judicial. O acórdão restou assim ementado:
+
+    “Recurso extraordinário representativo da controvérsia. Repercussão geral. 2. Inviolabilidade de domicílio art. 5º, XI, da CF. Busca e apreensão domiciliar sem mandado judicial em caso de crime permanente. Possibilidade. A Constituição dispensa o mandado judicial para ingresso forçado em residência em caso de flagrante delito. No crime permanente, a situação de flagrância se protrai no tempo. 3. Período noturno. A cláusula que limita o ingresso ao período do dia é aplicável apenas aos casos em que a busca é determinada por ordem judicial. Nos demais casos flagrante delito, desastre ou para prestar socorro a Constituição não faz exigência quanto ao período do dia. 4. Controle judicial a posteriori. Necessidade de preservação da inviolabilidade domiciliar. Interpretação da Constituição. Proteção contra ingerências arbitrárias no domicílio. Muito embora o flagrante delito legitime o ingresso forçado em casa sem determinação judicial, a medida deve ser controlada judicialmente. A inexistência de controle judicial, ainda que posterior à execução da medida, esvaziaria o núcleo fundamental da garantia contra a inviolabilidade da casa (art. 5, XI, da CF) e deixaria de proteger contra ingerências arbitrárias no domicílio (Pacto de São José da Costa Rica, artigo 11, 2, e Pacto Internacional sobre Direitos Civis e Políticos, artigo 17, 1). O controle judicial a posteriori decorre tanto da interpretação da Constituição, quanto da aplicação da proteção consagrada em tratados internacionais sobre direitos humanos incorporados ao ordenamento jurídico. Normas internacionais de caráter judicial que se incorporam à cláusula do devido processo legal. 5. Justa causa. A entrada forçada em domicílio, sem uma justificativa prévia conforme o direito, é arbitrária. Não será a constatação de situação de flagrância, posterior ao ingresso, que justificará a medida. Os agentes estatais devem demonstrar que havia elementos mínimos a caracterizar fundadas razões (justa causa) para a medida. 6. Fixada a interpretação de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados. 7. Caso concreto. Existência de fundadas razões para suspeitar de flagrante de tráfico de drogas. Negativa de provimento ao recurso” (RE nº 603.606/RO-RG, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 10/5/16).
+
+    Destarte, qualquer conclusão contrária quanto à irregularidade do procedimento policial demandaria o reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal, o que é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF.
+
+    Perfilhando esse entendimento, destacam-se:
+
+    “Direito Penal e Processual Penal. Agravo regimental em recurso extraordinário. Tráfico de drogas. Nulidade. Busca domiciliar. Incidência da Súmula nº 279/STF. 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que concedeu parcialmente habeas corpus em favor da parte agravada, para reconhecer a ilegalidade da busca domiciliar e do acervo probatório decorrente, determinando a prolação de nova sentença. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmula nº 279/STF). 3. Agravo regimental a que se nega provimento.” (RE 1.475.425-AgR, Tribunal Pleno, Relator o Ministro Luís Roberto Barroso (Presidente), DJe de 7/6/2024)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. BUSCA DOMICILIAR. FUNDADAS RAZÕES. POSSIBILIDADE EM CASO DE CRIME PERMANENTE. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA E IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA OFENSA AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA: TEMA 339 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 1.481.839-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/6/2024)
+
+    “Agravo regimental em recurso extraordinário. Matéria criminal. Tráfico de drogas. Busca domiciliar. Possibilidade em caso de flagrante em crimes permanentes. Tema nº 280 da Repercussão Geral. Reexame de fatos e provas. Óbice da Súmula nº 279 do STF. Regimental não provido. 1. O Pleno da Suprema Corte, ao julgar o RE nº 603.616/RO, Rel. Min. Gilmar Mendes, cuja repercussão geral havia sido reconhecida (Tema nº 280), fixou o entendimento de que apenas quando presente justa causa/fundadas razões nos casos de flagrante em crimes permanentes há a possibilidade de busca e apreensão domiciliar sem o mandado judicial. 2. As alegadas contrariedades ainda reclamam o reexame aprofundado do contexto fático-probatório dos autos e de outros elementos intimamente ligados à apontada nulidade, o qual é inviável na via eleita, consoante o enunciado da Súmula nº 279/STF. 3. Agravo regimental ao qual se nega provimento.” (RE 1.474.313-AgR, Segunda Turma, minha Relatoria, DJe de 9/5/2024)
+
+    Ante o exposto, nos termos do art. 326, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 19 de novembro de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
