@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de WALESSON LUIZ ABREU DE SOUZA - condenado por homicídio qualificado (art. 121, § 2º, do Código Penal) e por integrar organização criminosa (art. 2º, § 2º, da Lei n. 12.850/2013), à pena total de 19 anos e 3 meses de reclusão, em execução penal (PEC n. 9001448-47.2020.8.01.0001, em que a defesa aponta como autoridade coatora o Tribunal de Justiça do Acre, que, em 29/8/2025, deu provimento ao agravo em execução penal e indeferiu a progressão de regime (Agravo em Execução Penal n. 0101599-07.2025.8.01.0000).
+Em síntese, o impetrante alega nulidade por julgamento extra petita, sustentando que o acórdão recorrido reformou a decisão de primeiro grau com fundamento não suscitado pelo Ministério Público no agravo - ausência de comprovação de desligamento de organização criminosa com base no art. 2º, § 9º, da Lei n. 12.850/2013 -, violando o princípio da inércia da jurisdição em sede recursal, o devido processo legal e a ampla defesa.
+Requer a declaração de nulidade do acórdão no ponto em que indeferiu a progressão com fundamento extra petita, com o restabelecimento da decisão do Juízo da Vara de Execuções Penais de Rio Branco; alternativamente, que o Tribunal de origem profira novo julgamento nos limites das matérias devolvidas pelo agravo.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Esta Corte entende que o agravo em execução é recurso dotado de efeito devolutivo. Nesse contexto, cabe ao recorrente delimitar a matéria a ser reexaminada pelo órgão ad quem. Essa extensão, ou dimensão horizontal, é estabelecida a partir da questão impugnada pelo recorrente e condiciona o conhecimento do Tribunal. Ocorre que, tendo sido delimitada a extensão da matéria, devolve-se ao Tribunal de Justiça todas as alegações, fundamentos e questões a ela referentes, inclusive aspectos que não foram suscitados pelas partes (dimensão vertical ou profundidade) (AgRg no HC 205.688/DF, da minha relatoria, Sexta Turma, julgado em 24/4/2014, DJe 6/5/2014) -(AgRg no HC n. 727.501/PR, Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/8/2022, DJe 30/8/2022).
+Ainda nesse sentido: AgRg no HC n. 875.206/SC, relator Ministro Og Fernandes, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025; e, AgRg no HC n. 847.786/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Assim, delimitada a matéria pelo agravante - requisitos para a progressão de regime -, é possível à Corte estadual analisar o tema em sua totalidade.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FUNDAMENTAÇÃO ADOTADA PELO TRIBUNAL ESTADUAL DIFERENTE DA SUSCITADA NO AGRAVO EM EXECUÇÃO INTERPOSTO PELO MINISTÉRIO PÚBLICO. EFEITO DEVOLUTIVO DO RECURSO. PRECEDENTES.
+Habeas corpus indeferido liminarmente.
