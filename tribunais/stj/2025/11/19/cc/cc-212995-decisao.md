@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de conflito entre o r. juízo da 4ª Vara Cível de Taubaté/SP e o r. juízo federal da 1 ª vara de Taubaté/SP acerca da competência para processar e julgar ação de ressarcimento e indenização por danos morais e materiais ajuizada por ZENITH MARA PEREIRA DA SILVA e LIMA em face da Caixa Econômica Federal e outros.
+O MPF ofertou parecer no sentido da declaração de competência do r. juízo estadual (fls. 57/60).
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568 /STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. A controvérsia cinge-se à definição da competência para processar e julgar ação de ressarcimento e indenização por danos materiais e morais decorrentes de golpe PIX proposta por Zenith Mara Pereira da Silva e Lima, em que inicialmente se incluiu a Caixa Econômica Federal, bem como diversos particulares e instituições financeiras privadas, tendo o Juízo Federal excluído a CEF do polo passivo e remetido os autos à Justiça Estadual (fls. 39-40; fls. 42-44).
+O Juízo Estadual, diante da insistência da autora em reincluir a CEF, suscitou conflito negativo de competência, invocando o art. 105, I, d, da Constituição e o art. 66, II, do CPC (fls. 47-48; fls. 50).
+Todavia, compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença de ente federal na lide. Tal orientação está expressamente consolidada no enunciado da Súmula 150/STJ, cujo teor foi transcrito no parecer ministerial, verbis: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (fls. 58/60).
+Na hipótese, o Juízo Federal reconheceu a ilegitimidade passiva da Caixa Econômica Federal, excluindo-a da demanda e determinando a remessa dos autos à Justiça Estadual, por inexistência de causa de pedir apta a atrair a competência federal (fls. 39-40).
+Em caso análogo, vide a orientação contida no CC 210547/PE, no sentido de que "tendo o Juízo Federal afastado a legitimidade de ente federal, declarando o processo extinto em relação à CEF, fica afastada a competência da Justiça Federal prevista no art. 109 da CF, nos termos das Súmulas n. 150 e 254 do STJ. A competência da Justiça comum estadual permanece  A modificação da decisão da Justiça Federal deve ser buscada  mediante o manejo dos recursos cabíveis na própria Justiça Federal" (fls. 58-60).
+E ainda: CC 193.063/DF, Desta Relatoria, DJe de 31/3/2023.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do r. juízo da 4ª Vara Cível de Taubaté/SP, nos termos da fundamentação supracitada.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
