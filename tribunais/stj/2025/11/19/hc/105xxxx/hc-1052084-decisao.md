@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Ewerton Pereira da Cunha, contra ato do Tribunal de Justiça do Estado do Pará, que, em decisão monocrática proferida que atribuiu efeito ativo ao recurso em sentido estrito interposto pelo Ministério Público e decretou a prisão preventiva do paciente.
+No presente writ, sustenta a defesa, em síntese, a ausência de fundamentação concreta e individualizada do decreto preventivo, com base em argumentos genéricos de garantia da ordem pública e conveniência da instrução, sem individualização de condutas entre 26 investigados e sem demonstração de contemporaneidade, afirmando que a identificação do paciente derivou apenas de mensagem de terceira pessoa em grupo de WhatsApp, sem diálogos, função específica confirmada ou atos concretos.
+Alega, ademais, violação ao art. 282, § 6º, do CPP, pela inexistência de análise, individualizada, da suficiência de medidas cautelares diversas da prisão, destacando condições pessoais favoráveis do paciente (primariedade, emprego formal e residência fixa);. Postula a superação da Súmula 691/STF, por manifesta ilegalidade do ato coator, pleiteando a concessão de liminar para revogação da preventiva, com substituição por cautelares do art. 319 do CPP, e posterior ratificação.
+Requer, ao final, a concessão da ordem, liminarmente, para revogar a prisão preventiva do paciente, com imposição de medidas cautelares diversas (art. 319 do CPP), e, no mérito, a ratificação da liminar.
+É o relatório.
+Decido.
+De início, verifico que o impetrante se insurge contra decisão monocrática de Desembargador Relator que atribuiu efeito ativo ao recurso em sentido estrito interposto pelo Ministério Público e decretou a prisão preventiva do paciente.
+Assim, em não havendo a demonstração de interposição de agravo regimental para provocar a manifestação do órgão colegiado a respeito da matéria, fica inviabilizado o seu conhecimento por esta Corte Superior, conforme firme jurisprudência deste Tribunal.
+Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRONÚNCIA. DECISÃO MONOCRÁTICA DO RELATOR. MATÉRIAS DEDUZIDAS NO WRIT NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a Defesa se insurgiu contra a decisão monocrática do Desembargador relator, não havendo, pois, deliberação colegiada do Tribunal de origem quanto ao tema, o que inviabiliza o seu conhecimento por esta Corte Superior devido à ausência de exaurimento de instância.
+2. Prevalece a orientação de que o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente, como no caso em que a defesa se insurge contra decisão monocrática da Corte de origem e ausente a demonstração de interposição de recurso para provocar a manifestação de órgão colegiado acerca do constrangimento ventilado, observado o disposto no art. 105, I, c, da Constituição Federal (AgRg no HC n. 926.189/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 07/10/2024, DJe de 14/10/2024).
+3. Até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+4. Agravo regimental não provido.
+(AgRg no HC n. 944.045/PB, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/12/2024, DJEN de 16/12/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECLAMO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR RELATOR. WRIT MANIFESTAMENTE INCABÍVEL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Prevalece a orientação de que o Superior Tribunal de Justiça não é competente para processar e julgar writ sem o devido exaurimento da jurisdição na instância antecedente, como no caso em que a defesa se insurge contra decisão monocrática da Corte de origem e ausente a demonstração de interposição de recurso para provocar a manifestação de órgão colegiado acerca do constrangimento ventilado, observado o disposto no art. 105, I, c, da Constituição Federal - CF.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 926.189/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/10/2024, DJe de 14/10/2024.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+ EMENTA
