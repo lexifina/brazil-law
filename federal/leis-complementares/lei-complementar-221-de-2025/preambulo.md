@@ -1,2 +1,3 @@
 Dispõe sobre projetos estratégicos em defesa nacional.
-O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
