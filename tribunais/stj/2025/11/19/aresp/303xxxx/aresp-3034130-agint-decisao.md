@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por RICARDO CANEDO CAVALCANTI contra a decisão da Presidência desta Corte Superior às fls. 181-182, que não conheceu do agravo em recurso especial, em razão da ausência de procuração nos autos.
+No agravo interno, o agravante sustenta, em suma, que seria desnecessária a juntada de procuração nos autos, haja vista que atua desde a origem em causa própria, com registro na Ordem dos Advogados do Brasil.
+Rememora-se que, na origem, o Município de Natal ajuizou execução fiscal, visando a cobrança de Imposto Predial e Territorial Urbano (IPTU) e Taxa de Lixo dos exercícios de 2018 a 2021, com valor histórico de R$ 68.179,00 (sessenta e oito mil cento e setenta e nove reais).
+O executado opôs exceção de pré-executividade, alegando nulidade de citação e prescrição, que foi rejeitada pelo juízo da execução fiscal. O agravo de instrumento interposto pelo contribuinte foi improvido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE. O referido acórdão foi assim ementado, in verbis:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. COBRANÇA DE IPTU E TAXA DE LIXO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO EM 1º GRAU. ALEGAÇÃO RECURSAL DE NULIDADE DA CITAÇÃO E OCORRÊNCIA DA PRESCRIÇÃO DO DIRETO POSTULADO NA EXECUÇÃO FISCAL. NÃO DEMONSTRAÇÃO DAS ALEGAÇÕES ORA ADUZIDAS. CITAÇÃO CORRETAMENTE PROCESSADA PELO JUÍZO VINDO O EXECUTADO AOS AUTOS SUSCITANDO TODAS AS MATÉRIAS DE DEFESAS DEVIDAMENTE.
+NÃO OCORRÊNCIA DA PRESCRIÇÃO. AJUIZAMENTO DA DEMANDA EXECUTIVA DENTRO DO PRAZO DE 05 ANOS DA DATA DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO, NA FORMA DO ART. 174 DO CTN. DECISÃO MANTIDA. PRECEDENTES. CONHECIMENTO E DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+Os embargos de declaração opostos foram rejeitados.
+No apelo nobre, RICARDO CANEDO CAVALCANTI alega violação dos arts. 202, I, do Código Civil, e 240, §§ 1º e 2º; 319, II; e 921, III, §§ 1º, 2º, 4º, 4º-A e 5º, do CPC/2015, sustentando, em síntese, que a prescrição não foi interrompida porque o Município indicou endereço incorreto e não adotou, no prazo legal, as providências necessárias à citação, não podendo a demora ser atribuída ao Poder Judiciário. Acrescenta que, diante da ausência de localização do devedor ou de bens penhoráveis, deveria ter sido aplicada a sistemática de suspensão, arquivamento e início da prescrição intercorrente a partir da primeira tentativa infrutífera de localização.
+Na sequência, aponta ofensa ao art. 1.022, II, do CPC/2015, alegando omissão do Tribunal de origem quanto ao exame da prescrição à luz do art. 921 do CPC/2015, mesmo após a oposição dos embargos de declaração.
+Contrarrazões apresentadas às fls. 133-140.
+O recurso não foi admitido, razão pela qual foi interposto o agravo ora examinado.
+É o relatório. Decido.
+De fato o recorrente atua em causa própria, sendo dispensada a juntada de procuração, devendo ser reconsiderada a decisão, tornando-a sem efeito. De rigor nova análise do recurso especial, com o tema em debate no presente feito.
+Quanto à alegada afronta ao art. 1.022 do CPC/2015, verifica-se que o acórdão recorrido examinou a controvérsia dos autos, fundamentando suficientemente sua convicção, e não havendo se falar em omissões porque inoc orrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: REsp 1808357/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/9/2019, DJe de 20/9/2019 e EDcl no AgInt no AREsp 1422337/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/9/2019, DJe de 12/9/2019 e AgInt no REsp 1780519/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/6/2019, DJe de 28/6/2019.
+Com relação à questão de fundo, verifica-se que a irresignação do recorrente acerca de suposta nulidade de citação e dos marcos temporais para configuração da prescrição, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, entendeu pela regularidade da citação e que não restou configurada a prescrição, conforme excertos do acórdão recorrido:
+(..)
+Pois bem, quanto ao primeiro ponto suscitado (nulidade de citação), vislumbra-se dos autos que o executado fora devidamente citado através do AR de ID 109684417. Tanto assim que o executado veio aos autos arguindo as matérias de defesa que entendeu conveniente. Portanto, efetivada a citação! Por ilustração, não se deve olvidar que a jurisprudência do STJ esclarece que é dever do contribuinte manter seus dados atualizados no cadastro fiscal, não sendo nula a citação em caso de posterior alteração de domicílio/endereço cadastral.
+(..)
+O ajuizamento da demanda executiva se deu em 2022, portanto, dentro dos 05 anos da data da constituição definitiva do crédito tributário na forma do dispositivo supracitado. Além do mais, o despacho do Juízo de 1º grau ordenando a citação se deu em setembro do mesmo ano.
+(..)
+Nesse sentido, a Execução Fiscal não fora alcançada pela prescrição.
+(..)
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, reconsidero a decisão às fls. 181-182, tornando-a sem efeito, e com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
