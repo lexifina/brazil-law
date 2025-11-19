@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS. AÇÃO ANULATÓRIA. RECONHECIMENTO DE VIOLAÇÃO AO ART. 1.022 DO CPC. DECISÃO MONOCRÁTICA CUJOS FUNDAMENTOS NÃO FORAM REBATIDOS. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, § 1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024). No caso, a parte agravante não atacou a integralidade dos fundamentos da decisão monocrática, que reconheceu violação ao art. 1.022 do CPC.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Cuida-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO, contra decisão proferida pelo então relator, Ministro Herman Benjamin, que deu provimento ao recurso especial para reconhecer ofensa ao art. 1.022 do CPC e determinar o retorno dos autos do tribunal de origem para novo julgamento dos embargos de declaração (fls. 1316-1318).
+Em suas razões, afirma que as razões expostas como fundamento no pedido de anulação são genéricas e não apontam de forma específica qual matéria relevante e que influenciasse o resultado do julgamento teria deixado de ser apreciada pela Corte de origem. Sustenta que o pedido não poderia ser conhecido diante da incidência dos enunciados n.º 283 e 284 da Súmula do STF ao caso em exame.
+Acrescenta que o recurso especial deixou de observar o princípio da dialeticidade, já que não atacou as razões lançadas no acórdão recorrido. Afirma que o tribunal de origem não estaria obrigado a rebater um a um os argumentos apresentados pela parte.
+Requer a reconsideração do julgado "para não se conhecer do recurso especial interposto pela parte adversa, por inobservância ao princípio da dialeticidade, ou negar-lhe provimento, por ausência de omissão" (fl. 1329). Não sendo esse o entendimento da relatoria, pretende o exame colegiado do recurso para reformar a decisão agravada no mesmo sentido do que pretende com a reconsideração.
+A impugnação foi apresentada às fls. 1332-1335.
+É o relatório.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. ICMS. AÇÃO ANULATÓRIA. RECONHECIMENTO DE VIOLAÇÃO AO ART. 1.022 DO CPC. DECISÃO MONOCRÁTICA CUJOS FUNDAMENTOS NÃO FORAM REBATIDOS. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, § 1º, DO CPC. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024). No caso, a parte agravante não atacou a integralidade dos fundamentos da decisão monocrática, que reconheceu violação ao art. 1.022 do CPC.
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece ser conhecida.
+O artigo 932, inciso III, do Código de Processo Civil assevera que "incumbe ao relator (..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida". Idêntica redação consta no artigo 255, §4º, inciso I, do Regimento Interno do STJ. Ambos os dispositivos nasceram por inspiração no enunciado 182 da Súmula do STJ, que reza:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+O regramento supramencionado é utilizado para o julgamento unipessoal dos processos no STJ, que não tenham obedecido o princípio da dialeticidade.
+Para o agravo interno, o Código de Processo Civil trouxe a previsão contida no artigo 1.021, §1º, segundo a qual, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". No mesmo sentido é a dicção do artigo 259, §2º, do Regimento Interno do STJ.
+Na hipótese em análise, a decisão monocrática de fls. 1316-1318, pautou-se no entendimento de que ao apreciar os embargos de declaração ali opostos, o Colegiado estadual deixou de examinar questões relevantes para a solução do caso e que deveriam integrar o julgamento. Por essa razão, determinou o retorno dos autos à origem para suprir o vício.
+Ao apresentar suas razões no agravo interno ora examinado, o ente estadual apresenta uma série de óbices que, no seu entender, deveriam justificar o não conhecimento do recurso. Nada alega ou opõe, todavia, acerca dos fundamentos da decisão agravada. Deixa, assim, de infirmar especificamente elemento ensejador do conhecimento e provimento da demanda que, à míngua de impugnação minuciosa e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+A respeito do tema, saliente-se que, "inexistindo impugnação suficiente, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida". (AgInt no AREsp n. 1.439.852/MS, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 18/3/2020)
+Desse modo, "verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015". (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA 182 DO STJ. SEGUNDO AGRAVO INTERNO. REPETIÇÃO DO PRIMEIRO. AMBOS AGRAVOS INTERNOS NÃO CONHECIDOS.
+1. Em consonância com o princípio da dialeticidade, incumbe ao agravante a obrigação de demonstrar, com argumentação sólida e fundamentada, o equívoco na decisão que não admitiu o Recurso Especial 2. Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+3. O desrespeito ao postulado da singularidade dos recursos torna inviável o conhecimento da segunda insurgência interposta contra o mesmo ato decisório, porquanto incide a preclusão consumativa da via recursal.
+4. Primeiro agravo interno não conhecido por violação ao princípio da dialeticidade. Segundo agravo interno não conhecido por violação ao princípio da unirrecorribilidade recursal e ocorrência da preclusão consumativa.
+(AgInt no AREsp n. 1.983.732/PE, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 19/3/2025, DJEN de 24/3/2025.)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
