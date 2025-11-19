@@ -1,0 +1,16 @@
+DECISÃO
+JUNE CRISTIANE DOS SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no HC n. 2313570-72.2025.8.26.0000, que não conheceu do writ ali impetrado.
+Informa-se que a paciente cumpre pena por mais de uma condenação, constando sua condição de reincidente. A defesa fez pedido de progressão ao regime semiaberto e explica que o resultado do exame criminológica foi favorável ao benefício.
+Não obstante as conclusões técnicas, o Juiz da VEC negou a progressão de regime ante o registro de falta disciplinar de natureza grave ocorrida em 3/1/2023. Os impetrantes afirmam que a decisão é genérica e deixa de considerar a reabilitação disciplinar e as avaliações subsequentes.
+Decido.
+Não verifico a juntada da decisão do Juiz da VEC que, em 7/10/2024, indeferiu a progressão ao regime semiaberto, objeto do HC n. 7003432-69.2011.8.26.0050. Também não consta a cópia da "decisão proferida em março de 2025" (fl. 4), mencionada na petição inicial do habeas corpus.
+O Tribunal de origem não decidiu a matéria, por inadequação da via, por entender que o habeas corpus não seria meio idôneo para atacar decisão de indeferimento de progressão proferida mais de um ano antes, o que deveria ter sido feito por meio de agravo em execução no momento oportuno.
+O acórdão estadual destaca, ainda, a supressão de instância, ao consignar que a defesa, em 10/10/2025, protocolizou ao Juiz de primeiro grau novo pedido de progressão, ainda pendente de apreciação, em razão de notícia da prática de falta disciplinar pela reeducanda, em 29/10/2025.
+Os impetrantes não enfrentam, de modo específico, os fundamentos adotados no julgado. Tampouco esclarecem se o Juízo das Execuções proferiu decisão acerca do novo pedido ou acerca da notícia de falta disciplinar, nem informam qual teria sido o conteúdo desses pronunciamentos.
+A petição inicial de fls. 2-11 não pode ser conhecida; traz argumentos dissociados das razões expendidas pelo Tribunal de origem e não está suficientemente instruída com documentos imprescindíveis à análise da matéria, não decidida em segundo grau.
+Além da inépcia, não é atribuição desta Corte, nos termos do art. 105 da CF, "conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+Ilustrativamente: "Não tendo o Tribunal a quo se pronunciado acerca da tese apresentada,  .. , não cabe a esta Corte Superior decidir por primeiro, sob pena de indevida supressão de instância" (AgRg no HC n. 747.282/AC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª REGIÃO), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022).
+Ressalto que não é possível determinar ao Tribunal estadual que conheça o writ, pois o acórdão menciona a alteração substancial na execução penal  notícia de falta grave e novo pedido de progressão de regime  , o que justifica o não conhecimento do habeas corpus e demanda prévia decisão do Juízo da VEC, à luz da situação processual atualizada.
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus.
+Publique-se e intimem-se.
+EMENTA
