@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADRIÃO PINTO FERREIRA E OUTROS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (TJPR) nos autos do Agravo de Instrumento n. 0047557-98.2019.8.16.0000.
+O acórdão recorrido apresenta a seguinte ementa (fl. 255):
+DIREITO ADMINISTRATIVO - EXECUÇÃO INDIVIDUAL CONTRA A FAZENDA PÚBLICA - PRESCRIÇÃO - INOCORRÊNCIA - APLICAÇÃO DA TESE Nº 880, DO SUPERIOR TRIBUNAL DE JUSTIÇA, SEM A MODULAÇÃO DE EFEITOS - CADÊNCIA DO PRAZO QUINQUENAL A PARTIR DE 12 DE OUTUBRO DE 2008 - DATA DA JUNTADA DAS PLANILHAS DE CÁLCULO - IRRELEVÂNCIA QUANTO AO FALECIMENTO DE PARTES - MORTE QUE APENAS SUSPENDE O PROCESSO - CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS - RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 459-464).
+Nas razões do recurso especial (fls. 578-613), a parte recorrente aduz, preliminarmente, nulidades por afronta aos arts. 269 e 272, § 2º, do Código de Processo Civil em virtude da ausência de intimação das partes que não foram cadastradas pelo Cartório da Vara e da imprescindibilidade do nome delas e de seus respectivos advogados nas publicações, além da ação de exceção de pré-executividade demandar litisconsórcio necessário e unitário, nos termos dos arts. 114, 115, inciso I, 116 e 117 do Código de Processo Civil.
+Alega ofensa ao art. 1.022 do CPC por omissões não sanadas e invoca o art. 1.025 do mesmo caderno processual para o prequestionamento ficto.
+No mérito, aponta violação aos arts. 265, inciso I e § 1º, 266, 313, inciso I, §§ 1º e 2º, e 314 do Código de Processo Civil de 1973, para sustentar que o falecimento de autores impõe a suspensão do processo e impede o curso da prescrição, inclusive executiva, até a habilitação dos herdeiros.
+Invoca, ainda, ofensa aos arts. 1.055 e 1.056, inciso I, do CPC/1973 e 199, inciso I, e 682, inciso II, do Código Civil para afirmar que a morte extingue os mandatos e demanda intimação do espólio ou sucessores, para fins de habilitação nos autos do processo.
+Ao final, requer o provimento do recurso para afastar a prescrição e restabelecer a decisão monocrática que rejeitou a exceção de pré-executividade, bem como reconhecer as nulidades por ausência de cadastramento/intimação dos litisconsortes necessários e pela falta de intimação de herdeiros e substitutos processuais.
+Contrarrazões apresentadas às fls. 680-687.
+O recurso especial foi admitido pelo Tribunal de origem (fls. 865-867).
+Decisão prolatada pela Ministra Assuste Magalhães deu provimento ao recurso especial do Estado do Paraná para determinar o retorno do autos à origem a fim de aguardar a conclusão do julgamento do Tema Repetitivo n. 1.076 do STJ (fls. 1289-1293).
+O juízo de retratação pela Câmara julgadora foi positivo, fixando-se honorários advocatícios no percentual de 10% (dez por cento) do valor econômico em prol do Estado do Paraná (fls. 1314-1318).
+Despacho determinou a remessa dos autos ao STJ para processamento do recurso especial dos particulares (fl. 1386).
+É o relatório.
+Decido.
+O Juízo de primeiro grau, em uma execução com 216 (duzentos e dezesseis) litisconsortes, com cadastro de apenas 18 exequentes no polo ativo da ação no sistema Projudi (fl. 2291), rejeitou a ação de exceção de pré-executividade, nos seguintes termos (fls. 2290-2291):
+O ESTADO DO PARANÁ apresentou exceção de pré-executividade às fls. 1.581/1.583 requerendo a decretação da prescrição da pretensão executória, sob a alegação que transcorreram mais de 5 anos entre a data do trânsito em julgado (15/03/2004) e a sua citação.
+Todavia, não lhe assiste razão.
+Com efeito, o prazo da prescrição intercorrente é o mesmo da prescrição do direito material - que no caso vertente é quinquenal.
+Entretanto, é necessária a prévia intimação do credor para dar andamento ao feito, a fim de assegurar o contraditório e ampla defesa, nos termos da tese fixada pelo Superior Tribunal de Justiça no julgamento do RESP 1.604.412/sc, senão vejamos:
+ ..
+Destarte, como não houve a intimação da parte para dar andamento ao feito, não há que se falar em prescrição intercorrente.
+Ademais, em momento algum a execução ficou sobrestada por mais de 5 anos por desídia dos autores, sendo certo que a demora para a satisfação do crédito é decorrente de inúmeros fatores, como o excessivo número de autores, os inúmeros falecimentos e pedidos de habilitação, a demora na apresentação dos documentos necessários para liquidação da sentença, bem como o próprio procedimento de execução contra a Fazenda Pública, além de questões inerentes ao próprio Juízo.
+Portanto, a rejeição da exceção de pré-executividade é medida que se impõe.
+Em face do exposto, REJEITO a exceção de pré-executividade apresentada às fls. 1.581/1.583.
+O Tribunal local, todavia, reconheceu a prescrição, com base no Tema n. 880 do STJ. Eis os fundamentos do acórdão (fls. 257-258):
+Ora, a prescrição nos moldes como colocada pela legislação pátria, congrega dois principais elementos em seu suporte fático. A um lado, pressupõe a passagem de certo lapso temporal. Por outro lado, requer a inércia do interessado. Apenas congregado esses dois fatores, é possível se falar em prescrição.
+Pois bem, sobre o tema, o entendimento firmado pelo Superior Tribunal de Justiça, no tema nº 880, ficou assim assentado na jurisprudência da Corte:
+ ..
+Esta tese determina que a cadência do prazo prescricional da demanda coletiva prescinde da juntada de qualquer documento para a execução, ainda que tal seja de reponsabilidade do ente público executado.
+ ..
+Ocorre que tal modulação não se aplica. Compulsando-se os autos, verifica-se que as planilhas com as diferenças foram devidamente apresentadas no petitório de mov. 1.151, datado de 12 de outubro de 2008.
+A rigor, este é o momento a partir do qual passa a ter cadência o prazo prescricional para todos os requerentes. Cumpre destacar, como os documentos foram apresentados, independente de intimação, ou de suspensão do processo, esse é o marco inicial para o qual começa a contar o prazo da prescrição de direito material.
+Uma vez que o pedido executivo apenas foi apresentado em 10 de fevereiro de 2019, é de se considerar transcurso o prazo prescricional.
+Entende-se que a questão debatida nos autos se refere à ocorrência ou não de prescrição na habilitação dos herdeiros do servidor, no caso, militares estaduais.
+Assim, o ponto em apreço, qual seja, "definir se ocorre ou não a prescrição para a habilitação de herdeiros ou sucessores da parte falecida no curso da ação", encontra-se afetado à Corte Especial deste Tribunal Superior aguardando o julgamento, sob o rito dos recursos repetitivos (Tema n. 1.254 do STJ), dos Recursos Especiais n. 2.034.210/CE, 2.034.211/CE e 2.034.214/CE, de relatoria do Ministro Humberto Martins.
+Nos termos do art. 34, inciso XXIV, c.c. o art. 256-L, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por esta Casa, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+Note-se que já foi assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a esta Casa somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp n. 1.653.884/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+Finalmente, o retorno dos autos à origem na hipótese em apreço é medida que tem sido adotada por esta Corte. Exemplificativamente, destacam-se as seguintes decisões singulares: REsp n. 1.917.899/RS, relator Ministro Luiz Felipe Salomão, DJE 18/2/2021; AREsp n. 1.759.474/SP, relator Ministro Marco Aurélio Bellizze, DJe 18/2/2021; REsp n. 1.911.859/DF, relatora Ministra Maria Isabel Gallotti, DJe 11/2/2021.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 256-L, inciso I, do RISTJ , DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1. 254 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. HABILITAÇÃO DE SUCESSORES DE SERVIDOR PÚBLICO FALECIDO. PRESCRIÇÃO. AFETAÇÃO AO TEMA N. 1.254 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SOBRESTAMENTO DO FEITO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
