@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo BANCO DO BRASIL S.A. contra decisão monocrática proferida pela Presidência do STJ, por meio da qual se aplicou a Súmula n. 182 do STJ (fls. 574-575).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 408-409):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. GOLPE. CORRENTISTA DO BANCO RÉU QUE ALEGA TER RECEBIDO TELEFONEMA DE PESSOA QUE SE IDENTIFICOU COMO PREPOSTO DA INSTITUIÇÃO FINANCEIRA E PERGUNTOU SE O AUTOR ESTAVA DISPOSTO A CONVERTER OS PONTOS DO PROGRAMA LIVELO EM DINHEIRO. AUTOR QUE COMPARECEU AO CAIXA ELETRÔNICO PARA LIBERAR A TRANSAÇÃO. CONSTATAÇÃO POSTERIOR DE QUE SAÍRAM R$ 9.999,93 DA CONTA DO AUTOR. GOLPE. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DETERMINOU O RESSARCIMENTO DOS DANOS MATERIAIS. RECURSO DO AUTOR PLEITEANDO FIXAÇÃO DE VERBA REPARATÓRIA E DO RÉU A IMPROCEDÊNCIA DOS PEDIDOS. A UTILIZAÇÃO DA SENHA PESSOAL, POR SI SÓ, NÃO EXIME AS INSTITUIÇÕES FINANCEIRAS DO DEVER DE PRESTAR UM SERVIÇO SEGURO, NOTADAMENTE DIANTE DE TRANSAÇÕES NOTORIAMENTE SUSPEITAS. CULPA EXCLUSIVA DO CONSUMIDOR OU DE TERCEIRO NÃO CONSTATADA. RÉU QUE ALEGOU UNICAMENTE A UTILIZAÇÃO DE SENHA PESSOAL. OPERAÇÕES QUE SE REVELAM NOTORIAMENTE SUSPEITAS. DANOS CAUSADOS POR FRAUDES PRATICADAS POR TERCEIROS EM FACE DE SEUS CLIENTES QUE NÃO EXCLUEM A RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. FORTUITO INTERNO. DEMANDADO QUE NÃO LOGROU DESCONSTITUIR O FATO CONSTITUTIVO DO DIREITO ALEGADO PELO AUTOR, NA FORMA DO ARTIGO 373, II, DO CPC. COMPROVAÇÃO DA ALEGADA FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. VERBA REPARATÓRIA FIXADA EM R$ 5.000,00. SENTENÇA QUE MERECE REFORMA PARCIAL. RECURSO DO RÉU CONHECIDO E DESPROVIDO E RECURSO DO AUTOR PROVIDO.
+Alega o agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido em lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo caso de aplicação da Súmula n. 182/STJ.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno.
+A parte agravada, instada a manifestar-se, apresentou impugnação (fls. 597-600).
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão ao agravante quanto à não incidência da Súmula n. 182/STJ, tendo em vista que, nas razões do agravo de fls. 539-550, impugnou especificamente o fundamento da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal a quo.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 574-575.
+Após, voltem os autos conclusos para análise do agravo.
+Publique-se. Intimem-se.
+ EMENTA
