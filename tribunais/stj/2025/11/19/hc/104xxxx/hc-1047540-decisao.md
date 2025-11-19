@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de HERNANE DA SILVA GOMES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2247292-89.2025.8.26.0000.
+Extrai-se dos autos que foi decretada a prisão preventiva do paciente quando do recebimento da denúncia, pela suposta prática do crime tipificado no art. 121, § 2º, II e IV, do Código Penal - CP (homicídio qualificado por motivo torpe e mediante recurso que dificultou a defesa da vítima). Após a audiência de instrução e julgamento, sobreveio sentença de pronúncia, mantendo-se a custódia cautelar.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem. Eis a ementa do acórdão (fl. 10):
+"Habeas Corpus Homicídio duplamente qualificado Prisão preventiva suficientemente fundamentada Constrangimento ilegal inexistente Não consubstancia constrangimento ilegal, passível de reparação por via de habeas corpus, a ordem de custódia preventiva, cujo teor contenha fundamentos suficientes, demonstrativos da presença de uma das circunstâncias inscritas no art. 312 do CPP. Ao analisá-los, deve o Magistrado considerar não apenas a natureza da infração, mas as circunstâncias e as condições pessoais do paciente."
+No presente writ, sustenta a defesa a ausência de fundamentação idônea para a manutenção da prisão preventiva, apontando que a decisão de pronúncia se ampara em razões genéricas e na gravidade abstrata do delito, em violação aos arts. 312 e 315 do Código de Processo Penal - CPP.
+Alega que, tendo sido encerrada a instrução, não mais subsistiria o risco processual que justificou a custódia.
+Aduz a ausência dos requisitos do art. 312 do CPP e ressalta a primariedade, os bons antecedentes, promessa de emprego e a necessidade de o paciente dedicar-se aos cuidados dos pais enfermos.
+Aponta, por fim, a suficiência de medidas cautelares diversas da prisão (art. 319 do CPP).
+Requer, no mérito, a concessão da ordem para revogar a prisão preventiva, com ou sem a imposição de medidas cautelares alternativas, e a imediata colocação do paciente em liberdade.
+Ausente pedido liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou denegação da ordem (fls. 94/100).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Ademais, não se verifica a existência de flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Conforme relatado, a defesa almeja a revogação da prisão cautelar, ainda que com a aplicação de medidas cautelares diversas da prisão.
+Na sentença de pronúncia, a prisão preventiva foi mantida sob os seguintes fundamentos (grifos nossos):
+"Permanecem presentes os motivos que fundamentaram a decretação da prisão preventiva do acusado, reforçados, agora, pela sua pronúncia.
+A prisão, na hipótese, se justifica pela gravidade concreta da conduta do acusado, qual seja, homicídio qualificado consumado mediante golpes com arma branca.
+Além disso, a cautela se justifica para a conveniência da instrução criminal e para assegurar eventual aplicação da lei penal, sendo indispensável a presença do acusado em plenário para eventuais reconhecimentos pessoais e de se prever que não se sujeitará às penas previstas para o crime que se lhe imputa em caso de condenação." (fls. 87/88).
+O Tribunal de origem manteve o entendimento exarado na referida sentença nos seguintes termos (grifos nossos):
+"Narra a denúncia que, no dia 18 de junho de 2022, o ora paciente teria, por motivo fútil, utilizando-se de recurso que teria dificultado a defesa da vítima, matado Gilberto Gonçalves Ferreira, mediante golpes de faca, causando-lhe ferimentos fatais.
+Segundo apurado, o paciente teria convivido com a filha da vítima por cerca de vinte anos, mas o relacionamento teria terminado em novembro de 2020.
+O acusado teria, insatisfeito com o fim da união, passado a dirigir-se à casa de sua ex-companheira, localizada no andar superior do imóvel ocupado pela vítima Gilberto, genitor da ex- companheira do acusado.
+No dia dos fatos, o paciente, munido de uma faca, dirigiu-se à residência da vítima, onde iniciou gritaria e proferiu xingamentos no portão. A vítima, então, desceu as escadas para pedir que o paciente cessasse o escândalo, momento em que o acusado desferiu vários golpes de faca nela, que resultaram na morte da vítima.
+O ora paciente teria agido impelido por motivo fútil, matando Gilberto apenas por ele ter tentado conversar e apaziguar a situação, o que evidenciaria, em tese, o motivo de somenos importância em contraste com o crime perpetrado.
+O crime teria sido praticado com emprego de recurso que dificultou a defesa da vítima, eis que esta teria sido golpeada de forma repentina, não esperando tal reação do paciente.
+No caso concreto, prima facie, impende observar que se cuida de situação subsumível às hipóteses nas quais a custódia preventiva é admitida (art. 313 e incisos do CPP), eis que versa crime doloso punido com pena privativa de liberdade máxima superior a 4 (quatro) anos (art. 313, I, do CPP).
+Existem, ademais, indícios suficientes nos autos de autoria e materialidade delitivas, sem contar o perigo gerado por eventual restabelecimento do estado de liberdade do imputado.
+ ..
+Importa igualmente consignar que, apesar de o ora paciente não ostentar antecedentes (fls. 16/17), a dinâmica dos fatos revela ousadia e a particular periculosidade do ora paciente em sua prática, o que enseja a necessidade de que o caso ora em apreço seja submetido a uma análise mais criteriosa.
+Não se cogita, assim, de decorrer a manutenção da custódia cautelar exclusivamente da gravidade abstrata da conduta, eis que vem ela escorada tanto no exame dos pressupostos legais como na situação inerente ao caso concreto.
+Ressalte-se que, apesar de o pedido ter vindo acompanhado de documentação comprobatória de ocupação lícita (fls. 49/50), não há como conceder-se a liberdade. Existem, com efeito, fortes indícios de que, uma vez solto, o ora paciente irá persistir em sua conduta, prejudicar a instrução criminal, ou frustrar a aplicação da lei penal.
+Tanto é assim, que o fato ilícito foi praticado em 18 de junho de 2022, sua prisão temporária foi decretada em 23 de junho de 2022 (fls. 31/33, dos autos da medida cautelar n. 1500755.22.2022.8.26.0052), sendo que o acusado não foi encontrado, na ocasião, para o cumprimento da ordem referida (fls. 39). Seguiu-se a expedição de contramandado (fls. 17).
+O ora paciente foi, então, preso apenas após vários meses, em 1º de abril de 2024 (fls. 67). No caso concreto estão, pois, efetivamente presentes os motivos autorizadores da prisão preventiva, devendo prevalecer a necessidade de ser garantida a correta instrução criminal, a efetiva aplicação da lei penal, bem como a tranquilidade e a segurança do corpo social, conforme já observado.
+ ..
+As razões pelas quais o ora paciente está respondendo a processo recolhido ao cárcere estão, ademais, mais do que justificadas pelo Juízo a quo. Não tendo sido detectada, portanto, qualquer ilegalidade na permanência da custódia cautelar do paciente, não se pode deferir a ordem impetrada." (fls.12/16).
+O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, a manutenção da prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstrada, com base em elementos concretos, a gravidade da conduta - por motivo supostamente fútil e com recurso que dificultou a defesa da vítima - , o paciente a teria golpeado com arma branca, causando-lhe a morte, tudo porque, ao que parece, o ofendido tentou apaziguar a discussão entre sua filha e o paciente, que não se conformou com o término do relacionamento.
+Consoante entendimento desta Corte Superior, a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta.
+Além disso, "Esta Corte Superior de Justiça tem entendimento no sentido de que a manutenção da segregação cautelar, quando da sentença condenatória, não requer fundamentação exaustiva, sendo suficiente a afirmação de que permanecem intactos os motivos ensejadores da custódia cautelar, desde que aquela anterior decisão esteja, de fato, fundamentada, como ocorreu na espécie" (AgRg no HC n. 754.327/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022).
+Nesse sentido, destacam-se (grifos nossos):
+PROCESSO PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. HABEAS CORPUS. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. FUNDAMENTAÇÃO IDÔNEA. LEGALIDADE RECONHECIDA PELO STJ EM JULGAMENTO ANTERIOR. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. GRAVIDADE CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática desta relatoria que não conheceu do habeas corpus mas, analisando o mérito de ofício, afastou a existência de constrangimento ilegal.
+2. Prisão preventiva mantida na sentença de pronúncia. Fundamentação idônea. Gravidade concreta do delito. A prisão preventiva está fundamentada na necessidade de garantir a ordem pública, tendo em vista (i) o modus operandi do delito (o autuado, em companhia de outro indivíduo que não foi detido, teria adentrado na residência da vítima e efetuado 11 disparos de arma de fogo - causa mortis - na frente de seus familiares - esposa e filhos, motivado, em tese, por discussão/vias de fato ocorrida duas semanas antes); e (ii) na necessidade de garantia da ordem pública (evitar reiteração delitiva, pois o paciente possui outras anotações criminais). Há prova da materialidade, indícios de autoria e violência real empregada, com adequação aos requisitos do art. 312 do Código de Processo Penal.
+3. "É idônea a prisão cautelar fundada na garantia da ordem pública quando revelada a periculosidade social do agente pela gravidade concreta da conduta". (HC 219565 AgR, Rel. Ministro Nunes Marques, Segunda Turma, julgado em 14/11/2022, DJe 23/11/2022).
+4. A legalidade da fundamentação da prisão cautelar do agravante já foi reconhecida pelo STJ no julgamento do RHC n. 149.479/ES, realizado em junho/2021, com trânsito em julgado certificado no dia 16/8/2021.
+5. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o réu permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da sentença de pronúncia, lhe fosse deferida a liberdade.
+5. Agravo regimental conhecido e não provido.
+(AgRg no HC 969.363/ES, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+DIREITO PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS.
+TENTATIVA DE HOMICÍDIO QUALIFICADO. MOTIVO FÚTIL. GOLPES DE FACA CONTRA A VÍTIMA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. INVIABILIDADE DE APLICACÃO DE MEDIDAS CAUTELARES DIVERSAS. EXCESSO
+DE PRAZO NÃO CONFIGURADO. SENTENÇA DE PRONÚNCIA JÁ PROFERIDA. SÚMULA 21/STJ. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Recurso ordinário em habeas corpus interposto por Anderson Salgueiro da Silva, denunciado pela prática de tentativa de homicídio qualificado (art. 121, § 2º, II, c/c o art. 14, II, do Código Penal) , buscando a revogação da prisão preventiva e a expedição de alvará de soltura. A defesa alega ausência dos requisitos para a manutenção da custódia preventiva e excesso de prazo na formação da culpa.
+II. Questão em discussão
+2. A questão em discussão consiste na verificação da legalidade da manutenção da prisão preventiva do recorrente, considerando a alegação de ausência de requisitos e excesso de prazo.
+III. Razões de decidir
+3. A prisão preventiva se justifica pela gravidade concreta do crime de tentativa de homicídio qualificado, praticado por motivo fútil, evidenciando o periculum libertatis e a necessidade de resguardar a ordem pública, evidenciado pela fuga do acusado após o crime. O recorrente desferiu golpes de faca contra a vítima, que só não faleceu por circunstâncias alheias à sua vontade.
+4. A alegação de excesso de prazo não procede, pois não houve desídia ou inércia do Poder Judiciário. O processo tramita regularmente, já tendo sido proferida a decisão de pronúncia nos termos da Súmula 21/STJ.
+5 A jurisprudência do STJ é pacífica no sentido de que a primariedade, a residência fixa e o emprego lícito não impedem a decretação ou manutenção da prisão preventiva quando esta se justifica pela gravidade concreta dos fatos e pela necessidade de garantir a ordem pública.
+6. A substituição da prisão por medidas cautelares foi considerada inadequada devido à gravidade concreta da conduta delituosa.
+IV. Dispositivo 6. Recurso desprovido.
+(RHC 198.897/AL, Relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe de 28/10/2024).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. POSSE DE ARMA COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA. SENTENÇA DE PRONÚNCIA. DESNECESSÁRIA FUNDAMENTAÇÃO EXAUSTIVA. MODUS OPERANDI. REITERAÇÃO DELITIVA. FUGA. CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Na sentença de pronúncia, foi ressaltada a persistência dos motivos autorizadores da prisão preventiva, o que tem sido admitido pela jurisprudência do Superior Tribunal de Justiça, desde que estejam, de fato, presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+2. A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa e o risco de reiteração delitiva, pois o recorrente teria praticado o delito de homicídio duplamente qualificado e permanecido foragido por cerca de 1 ano, além de ter sido condenado por crime anterior de homicídio qualificado tentado e respondido a delito descrito no Estatuto do Desarmamento.
+3. Quanto à alegação de ausência de fatos novos e de contemporaneidade, a questão não foi apreciada pela Corte de origem, o que inviabiliza o exame da matéria pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido.
+(AgRg no RHC 217.368/MG, Relator Ministro Og Fernandes, Sexta Turma, julgado em 27/8/2025, DJEN de 1º/9/2025.)
+Cabe mencionar, ainda, que eventuais condições subjetivas favoráveis, tais como primariedade, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando, como no caso, identificam-se os requisitos legais para a decretação da prisão preventiva. Outrossim, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP são insuficientes para a consecução do efeito almejado com a decretação da prisão preventiva.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. EXPRESSIVA QUANTIDADE DE DROGAS. RISCO DE REITERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+7. Agravo regimental desprovido.
+(AgRg no HC 657.275/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021.)
+Nesse contexto, não verifico a existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do STJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
