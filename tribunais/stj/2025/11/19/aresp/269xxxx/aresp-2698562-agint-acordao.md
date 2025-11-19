@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. RECURSO ESPECIAL INADMITIDO. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. Para impugnar corretamente a Súmula 211 do STJ, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presente o prequestionamento da legislação infraconstitucional indicada no recurso especial  o que não ocorreu no presente caso.
+3. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por RODOPETRO DISTRIBUIDORA DE PETRÓLEO LTDA.  contra  a  decisão  que  não  conheceu  do  seu agravo em recurso  especial,  em razão da aplicação da Súmula 182 do STJ.
+A  parte agravante argumenta ,  em  síntese (fls. 575-578):
+19. Neste sentido, para fim de incidência da Súmula nº 182/STF, há de se diferençar a ausência ou a deficiência lógica no enfrentamento dos fundamentos da decisão recorrida, do seu devido enfrentamento com argumentos que a instância superior não considere aptos a, no mérito, reverter o entendimento da instância ordinária, pois não se trata, nesse caso, de deficiência ou ausência de fundamentação, senão meramente de questão de divergência quanto à aplicação do direito à hipótese, ou seja, o mérito da pretensão recursal. Nesse sentido:
+ ..
+20. Ademais, a partir da constatação de que a própria decisão agravada entrou no mérito da tese de prequestionamento defendida pela ora Agravante em ARESp e a rejeitou, deve-se afastar a incidência do óbice da Súmula nº 182/SJT, pois, como visto, ele se refere ao preenchimento do pressuposto recursal da "dialeticidade", que é inaplicável aos casos de não acolhimento puro e simples, pelo julgador, da tese de mérito defendida pela parte.
+21. Nesse sentido, é importante ressaltar que a Agravante demonstrou, no Agravo em Recurso Especial, como e em que medida o artigo 827, §2º, do CPC foi prequestionado, não havendo que se falar que houve mera indicação genérica de que o prequestionamento do referido dispositivo deu-se no contexto de fundamentação per relationem do Acórdão de segundo grau em referência à decisão de primeiro grau.
+22. Recorde-se, pois, o que foi suscitado a respeito desse óbice nas razões do Agravo em Recurso Especial:
+".. 5. Em suma, a decisão ora agravada entendeu que o acórdão de improvimento do recurso de origem nada decidiu a respeito da fixação da verba honorária, em razão da inadmissão da Exceção de Pré-Executividade, com base no art. 827, §2º do Código de Processo Civil.
+6. Contudo, conforme devidamente demonstrado no Recurso Especial, o acórdão de segundo grau manteve, por seus próprios fundamentos, a decisão do Juízo de 1º Grau, a qual, por sua vez, tratara da questão a respeito da verba honorária, com base no referido art. 827, §2º do CPC.  ..
+23. Dos trechos acima, vê-se que a ora Agravante, em sede de Agravo em Recurso Especial, não se limitou a defender que o prequestionamento deu-se pela fundamentação per relationem que adotou o Acórdão de segundo grau em relação à decisão de primeiro grau.  ..
+Sustenta, ainda, que (fl. 582):
+28. Quanto ao item "II" acima, a respeito da ausência de pertinência temática do dispositivo com a pretensão recursal, recorde-se que a decisão ora agravada apontou que o referido dispositivo "diz respeito à majoração de honorários, e não à fixação de honorários propriamente dita em sede de execução fiscal", de forma que a Agravante não teria demonstrado que o referido dispositivo se adequava às suas pretensões recursais.
+29. Contudo, recorde-se que a tese suscitada em sede de Recurso Especial era justamente que o referido dispositivo NÃO poderia ter sido aplicado, pelo Tribunal a quo, para condenar a ora Agravante ao pagamento de honorários em sede de Exceção de Pré Executividade, já que se trata de dispositivo legal que disciplina situação jurídica diversa, em sede de instrumento processual distinto (os Embargos à Execução Fiscal).
+30. A alegação de violação ao referido dispositivo deu-se, portanto, sob o fundamento de que não guardaria pertinência com o caso de origem e, em razão disso, ao aplicá-lo em situação com o qual não guarda pertinência, o Tribunal de origem ampliou indevidamente o âmbito de aplicação desse dispositivo e, assim, o violou.
+Por fim, pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo não provimento do recurso às fls. 594-595.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. RECURSO ESPECIAL INADMITIDO. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. Para impugnar corretamente a Súmula 211 do STJ, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presente o prequestionamento da legislação infraconstitucional indicada no recurso especial  o que não ocorreu no presente caso.
+3. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para desconstituir os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado.
+Quando o recurso especial não é admitido com fundamento na Súmula 211 do STJ, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presente o prequestionamento da legislação infraconstitucional indicada no recurso especial  o que não ocorreu no presente caso.
+No caso em tela, a parte não se preocupou em indicar qualquer trecho do acórdão recorrido que demonstrasse mínimo debate referente ao art. 827, § 2º, do CPC, na realidade, limitou-se a argumentar que o acórdão teria mantido a sentença pelos seus próprios fundamentos porque o acórdão usou a expressão "não há qualquer reparo a ser feito na decisão agravada".
+Não se pode conhecer do recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula 182/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, do CPC/2015).
+2. Quando o recurso especial não é admitido com fundamento nas súmulas nº 211/STJ e 284/STF, a impugnação deve indicar com precisão argumentos jurídicos suficientes e específicos pelos quais se permita concluir presentes o prequestionamento da legislação infraconstitucional indicada no apelo especial - o que não ocorreu no presente caso.
+3. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+4. Agravo interno não provido (AgInt no AREsp 2.324.320/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2023, DJe de 21/6/2023, grifo nosso).
+AMBIENTAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VALOR RAZOÁVEL. REVISÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ.
+1. No caso em tela, a decisão monocrática obstou o seguimento do recurso especial por falta de prequestionamento (Súmulas 211 do STJ, 282 e 356 do STF).
+2. No agravo interno, a parte negligenciou a impugnação dos óbices das Súmulas 211 do STJ, 282 e 356 do STF, resultando que um dos fundamentos consignados no decisório recorrido não foi impugnado de forma específica.
+3. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto, o que não ocorreu.
+4. É inviável agravo interno que deixa de impugnar fundamento da decisão recorrida, por si só, suficiente para mantê-la. Incidência da Súmula 182 do STJ.
+5. O Tribunal de origem, com base no acervo fático-probatório dos autos, entendeu pela preclusão da pretensão em razão do Plano de Recuperação pactuado. Rever a referida posição implicaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+6. Agravo interno não conhecido (AgInt no REsp 1.477.683/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/2/2019, DJe de 18/2/2019, grifo nosso).
+Isso posto nego provimento ao recurso.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
