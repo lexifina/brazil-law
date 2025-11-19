@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de GILSON MARTINS DE OLIVEIRA, condenado, em primeiro grau, às penas de 2 anos de reclusão, em regime inicial fechado, e 10 dias-multa, pela prática do crime descrito no art. 155, § 4º, IV, do Código Penal (Processo n. 5002205-54.2025.8.24.0564, da 1ª Vara Criminal da comarca de São José/SC).
+Aponta-se como autoridade coatora o Tribunal de Justiça de Santa Catarina, que, em 9/10/2025, deu provimento ao recurso da acusação para condenar o paciente por roubo impróprio, impondo-lhe as penas de 4 anos e 4 meses de reclusão, em regime inicial fechado, e 10 dias-multa.
+Alega-se ausência de violência e de grave ameaça; prova contraditória e frágil; e violação do art. 155 do Código de Processo Penal, pois o acórdão teria se fundado exclusivamente no relato da vítima, sem corroboração judicial independente.
+Sustenta-se desproporcionalidade do regime fechado e contrariedade às Súmulas 718 e 719 do Supremo Tribunal Federal e 269 do Superior Tribunal de Justiça.
+Requer-se, em caráter liminar, a suspensão dos efeitos do acórdão impugnado e a manutenção do paciente no regime semiaberto, até o julgamento final do writ. No mérito, busca-se o restabelecimento da sentença de primeiro grau. Subsidiariamente, pleiteia-se a absolvição com fundamento no art. 386, VII, do Código de Processo Penal ou a absolvição pela atipicidade material, à luz do princípio da insignificância.
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Ademais, no caso dos autos, é inviável a esta Corte reexaminar o acervo probatório, composto também pelas provas colhidas em juízo, para concluir diversamente do entendimento firmado pelo Tribunal estadual quanto à comprovação do roubo impróprio.
+A propósito, eis o que consta do acórdão da apelação (fls. 27/28):
+ ..
+A palavra da vítima Marcus Vinicius Calil mostrou-se firme e coerente quanto à ameaça proferida pelo réu logo após a subtração do bem, sendo esse relato ainda corroborado pelo depoimento judicial do policial militar responsável pelo atendimento da ocorrência.
+A divergência apontada na sentença - relativa à exata formulação da ameaça ("chama a polícia para ver se eu não vou fazer alguma coisa contra a tua vida" na fase policial e "vou te matar" ou "tirar a vida" em juízo) - não compromete o núcleo do fato, pois, em essência, ambas as versões evidenciam que o réu ameaçou a vida do ofendido para assegurar a posse da res furtiva, utilizando palavras com potencial intimidador real.
+Além disso, não se pode atribuir exclusivamente ao problema no joelho da vítima a razão para a desistência da perseguição ao réu, já que o próprio contexto demonstra que a ameaça teve papel relevante para dissuadir a continuidade da tentativa de reaver os bens e justificar o imediato acionamento da Polícia Militar.
+Assim, a divergência de detalhes não afasta a gravidade da conduta, tampouco descaracteriza o emprego de grave ameaça para garantir a impunidade do crime, nos termos do art. 157, §1º, do Código Penal.
+ ..
+Com efeito, no crime de roubo, a grave ameaça pode ser velada ou circunstancial. A jurisprudência do STJ é firme no sentido de que a grave ameaça, inerente ao delito de roubo, pode ser empregada de forma velada, evidenciando-se pelo temor causado à vítima para impedir sua reação durante o ato (AREsp n. 2.592.645/DF, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025).
+Diante desse cenário, acrescenta-se ainda a impossibilidade de aplicação do princípio da insignificância ao delito de roubo impróprio, porquanto a elementar violência está presente neste tipo penal (HC n. 492.258/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 22/4/2019).
+Por fim, a reincidência justifica a fixação do regime fechado, conforme entendimento consolidado, não havendo flagrante ilegalidade a ser corrigida (HC n. 886.405/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024).
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO IMPRÓPRIO. WRIT SUBSTITUTIVO. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL EM CURSO. DESCABIMENTO. ABSOLVIÇÃO, DESCLASSIFICAÇÃO E ATIPICIDADE MATERIAL DA CONDUTA (PRINCÍPIO DA INSIGNIFICÂNCIA). REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME FECHADO. ADEQUAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Petição inicial indeferida liminarmente.
