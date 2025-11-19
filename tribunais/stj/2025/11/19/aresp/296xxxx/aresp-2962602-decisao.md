@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por Iara de Mattos Prates contra decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso que não admitiu recurso especial por entender que a pretensão demanda interpretação de cláusula contratual e reexame do conjunto fático-probatório, o que atrai os óbices das Súmulas 5 e 7 do STJ, bem como que é inadequada, em via especial, a arguição de ofensa a dispositivos constitucionais, em razão da competência do Supremo Tribunal Federal (fls. 375-379).
+Nas razões do presente agravo em recurso especial (fls. 380-390), a agravante alega, em síntese, que a decisão ora recorrida incorreu em equívoco ao aplicar as Súmulas 5 e 7 do STJ, afirmando tratar-se de matéria exclusivamente de direito, sem necessidade de reexame de provas ou de cláusulas contratuais.
+Sustenta que o acórdão recorrido contrariou dispositivos do Código Civil, indicando violação dos arts. 389, 390, 1.299, 186 e 927.
+Aduz que o recurso especial é técnico, que cumpriu todos os requisitos de admissibilidade, inclusive o prequestionamento, e que houve exaurimento da instância ordinária, não sendo possível a negativa de seguimento por fundamentos processuais.
+Defende que tem direito ao duplo grau de jurisdição e invoca princípios constitucionais do contraditório e da ampla defesa.
+Impugnação ao agravo interno às fls. 393-402 na qual a parte agravada alega que há ausência de impugnação específica aos fundamentos da decisão agravada, aponta falta de prequestionamento dos dispositivos federais, sustenta a necessidade de reexame de cláusulas contratuais e de provas com incidência das Súmulas 5 e 7/STJ, e afirma deficiência na demonstração clara e precisa de violação de lei federal à luz do art. 1.029, § 1º, do CPC.
+Roga, assim, o não conhecimento do agravo e, subsidiariamente, a manutenção do acórdão recorrido, além de destacar a correção jurídica das conclusões sobre infraestrutura do loteamento, valorização do imóvel e inexistência de dano moral.
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Nota-se que a interessada, nas razões do seu agravo em recurso especial, deixou de rebater os alicerces da decisão atacada, limitando-se a defender, de forma genérica, a inaplicabilidade das Súmulas 5 e 7/STJ por suposta matéria exclusivamente de direito e a invocar princípios constitucionais de contraditório, ampla defesa e duplo grau. Em outras palavras, não demonstrou, com precisão, como a controvérsia prescinde da interpretação de cláusulas contratuais e do reexame do acervo probatório fixado no acórdão recorrido.
+Ora, observa-se que os óbices das Súmulas 5 e 7/STJ não foram objetivamente impugnados, porque a agravante não individualizou, à luz das premissas fáticas expressamente assentadas no acórdão recorrido  implantação da infraestrutura essencial, transferência da operação ao Poder Público, inexistência de desvalorização e ausência de dano moral  , qual seria a tese jurídica autônoma a ser examinada sem revisão de fatos e provas ou sem interpretação contratual.
+A bem da verdade, tem-se que as razões restringem-se a afirmar, de forma descompromissada, que a matéria é de direito, sem realizar distinguishing em relação às conclusões probatórias e sem delimitar ponto de direito dissociado das provas e do contrato.
+Registre-se que a impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+De mais a mais, nítido que os temas foram resolvidos pelo Tribunal a partir da valoração do conjunto probatório (infraestrutura de loteamento, alegada desvalorização, descumprimento de obrigações, etc.).
+Cediço que a inversão desse resultado demandaria ampla reanálise probatória, inclusive com ponderação acerca de cláusulas, algo vedado pelo enunciado da Súmula 7/STJ.
+A bem da verdade, roga a parte recorrente, ainda que de forma oblíqua, a reapreciação de assuntos exauridos no Tribunal de origem, em evidente descompasso com a natureza do recurso em mesa.
+Conforme precedentes: "para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado  "A pretensão de simples reexame de provas não enseja recurso especial"" (AgInt no AREsp 2.151.771/MA, Segunda Turma, DJe 16/3/2023; AgInt no REsp 1.932.395/RJ, Segunda Turma, DJe 19/8/2021; AgRg no AREsp 1.595.924/TO, Sexta Turma, DJe 2/6/2021).
+Não se trata, aqui, de mero reenquadramento jurídico, de simples revaloração da prova, conforme quer fazer crer a parte recorrente. Lembre-se, inclusive, de que esta Corte não é instância revisora. A alteração dos critérios que balizaram o entendimento do Tribunal de origem é indigna de êxito.
+Descabido agora verificar se presentes ou não requisitos que ensejam reparação por dano moral.
+Veja-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. TRIBUNAL DE ORIGEM QUE FIXOU O VALOR, COM BASE NA EXTENSÃO DO DANO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.633.303/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2025, DJEN de 26/6/2025.)
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos § § 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
