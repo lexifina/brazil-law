@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por Evidence Previdência S.A. contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial por entender que (fls. 1.333-1.335):
+(i) a alegação de ofensa a dispositivos constitucionais não serve de suporte ao recurso especial;
+(ii) não houve negativa de prestação jurisdicional, afastando violação dos arts. 489 e 1.022 do Código de Processo Civil; e
+(iii) não demonstrada vulneração dos arts. 317 e 478 do Código Civil, 4º e 6º do Código de Defesa do Consumidor e 68 da Lei Complementar 109/2001, assinalando deficiência de argumentação e a vedação da Súmula 7/STJ por demandar reexame fático-probatório.
+Nas razões do presente agravo em recurso especial, a parte agravante alega, em síntese, que a decisão ora recorrida é nula por ausência de fundamentação e por negativa de prestação jurisdicional, apontando violação dos arts. 489 e 1.022 do CPC e invocando a Súmula 123/STJ, além de dispositivos da Constituição Federal (arts. 5º, LIV e LV, e 93, IX), por entender que o despacho é padronizado e não enfrentou os argumentos.
+Sustenta cerceamento de defesa em razão de julgamento antecipado sem realização de perícia atuarial, indispensável à revisão de benefício de previdência privada, indicando violação dos arts. 355, 369, 370 e 371 do CPC e citando precedentes desta Corte que exigem perícia atuarial na fase de conhecimento.
+Aduz que o Tribunal de origem teria excedido os limites do juízo de admissibilidade ao adentrar o mérito do recurso especial, o que seria competência do Superior Tribunal de Justiça.
+Argumenta, no mérito, a violação dos arts. 317 e 478 do CC, 4º e 6º do CDC e 68 da LC 109/2001, defendendo imprevisão e onerosidade excessiva decorrentes de alterações regulatórias e macroeconômicas, e afasta a incidência da Súmula 7/STJ ao afirmar que as premissas fáticas estão assentadas.
+Impugnação ao agravo interno às fls. 1369-1381.
+Assim posta a questão, passo a decidir.
+O recurso não merece prosperar.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Considerando todos os fundamentos da decisão que não admitiu o recurso especial acima relatados, observo que a parte, nas razões do seu agravo em recurso especial, deixou de rebatê-los devidamente, porquanto se limitou a defender nulidade da decisão de admissibilidade por ausência de fundamentação, cerceamento de defesa pela não realização de perícia atuarial e suposto excesso do Tribunal de origem ao adentrar mérito, além de renovar a tese de violação dos dispositivos do CC, do CDC e da LC 109/2001.
+Observa-se que o fundamento relativo à inadequação de alegações constitucionais como suporte ao recurso especial não foi devidamente enfrentado. O agravante reiterou a invocação de dispositivos constitucionais (arts. 5, LIV e LV, e 93, IX, CF) e da Súmula 123/STJ para sustentar nulidade, sem demonstrar que o recurso especial não se assentou em matéria constitucional ou, ao menos, delimitar de modo claro e específico que eventual referência constitucional teve caráter meramente instrumental à tese de negativa de prestação jurisdicional. À luz do art. 1.042 do CPC e da orientação consolidada do STJ de que o recurso especial não comporta exame direto de violação constitucional, a impugnação apresentada permaneceu genérica, incapaz de superar o óbice aplicado.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+ ..
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+ ..
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 315 DO STJ. SÚMULA 182 DO STJ. MATÉRIA SEDIMENTADA PELA CORTE ESPECIAL NOS EARESP 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC.
+ ..
+2. Ademais, no que diz respeito ao agravo contra decisão denegatória de admissibilidade do recurso especial, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+ ..
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.536.939/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 7/12/2021, DJe de 15/12/2021.)
+O fundamento atinente à deficiência de argumentação e à incidência da Súmula 7/STJ sobre as alegadas violações dos arts. 317 e 478 do CC, 4º e 6º do CDC e 68 da LC 109/2001 não foi superado.
+Em relação à deficiência de argumentação, a decisão de admissibilidade consignou que o recurso especial apresentou "simples alusão" a dispositivos sem correlação argumentativa; nas razões do agravo, a agravante apenas desenvolveu novas teses de mérito, sem demonstrar que a própria petição do recurso especial inadmitido continha argumentação concreta bastante para afastar o óbice.
+No que toca à Súmula 7/STJ, a afirmação de que "as premissas fáticas estão assentes" não veio acompanhada da individualização das premissas fixadas no acórdão recorrido, nem da explicitação de por que a análise pretendida dispensaria reexame probatório. À vista da orientação do STJ, que exige a clara identificação das premissas fáticas incontroversas e da qualificação jurídica pretendida, a impugnação permaneceu genérica.
+Nesse sentido:
+2. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos objetivos e suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da demanda.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.144.317/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+Registre-se que a impugnação da decisão agravada há de ser específica, de maneira que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015 e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/ PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Ademais, mesmo que superado o óbice de conhecimento do agravo, o recurso especial não prosperaria.
+No que tange às teses de revisão/resolução contratual por imprevisibilidade e onerosidade excessiva (arts. 317 e 478 do CC), à aplicação do CDC (arts. 4º e 6º) e ao art. 68 da LC 109/2001, sua apreciação demandaria reexame do conjunto fático-probatório: parecer atuarial da PPS, dados econômicos e demográficos, impactos regulatórios e constituição de provisões. O acórdão fixou premissas de que as mudanças alegadas integram o risco da atividade e que a relação é de longa duração protegida pela boa-fé. A pretensão busca infirmar tais premissas para requalificá-las, o que encontra barreira na Súmula 7/STJ, inviabilizando o conhecimento das alegações de mérito.
+Quanto ao cerceamento de defesa pela negativa de perícia atuarial, o acórdão não conheceu da preliminar por força de coisa julgada formada em agravo de instrumento que afastou a necessidade da prova técnica. O recurso especial não enfrenta esse fundamento autônomo e suficiente, limitando-se a reiterar a imprescindibilidade da perícia. Incide, portanto, a Súmula 283/STF, pois não impugnado o suporte decisório capaz, por si, de manter o julgado.
+Por fim, as invocações constitucionais (art. 5º, LIV e LV, e art. 93, IX, da Constituição Federal ) não se prestam ao conhecimento pela via especial, que se restringe a violação de lei federal.
+Nessa moldura, as teses do recurso esbarram nos óbices apontados.
+Em face do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos § § 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
