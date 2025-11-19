@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PROFISSIONAL TINTAS LTDA. contra decisão que, ao conhecer do agravo, conheceu em parte do recurso especial e negou-lhe provimento, consoante a seguinte ementa (fls. 591-496):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. CREDITAMENTO. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A parte embargante, preliminarmente, pede o sobrestamento do recurso até o julgamento do REsp n. 2.234.802/SC e do REsp n. 2.234.803/SC, uma vez que "o direito ao creditamento de ICMS na aquisição de combustíveis, lubrificantes, pneus e peças de reposição utilizados em frota própria, ainda que o transporte de mercadorias não constitua atividade-fim da empresa, já foi formalmente reconhecida como representativa de controvérsia no âmbito do Tribunal de Justiça de Santa Catarina" (fl. 501).
+Quanto à decisão agravada, alega ter havido omissão quanto à análise da tese de divergência jurisprudencial, uma vez que a Súmula n. 7 do STJ não impediria o exame da questão relacionada à geração de créditos do ICMS, tendo em vista os acórdãos recorrido e paradigma tratarem de sociedades empresárias que utilizam frota própria para o transporte de suas mercadorias.
+Impugnação apresentada pela parte embargada (fls. 519-522).
+É o relatório.
+Decido.
+De início, quanto pedido de sobrestamento, não pode ser acolhido porque a Primeira Seção ainda não decidiu a respeito da afetação dos referidos recursos especiais à sistemática dos recursos repetitivos.
+Com relação aos embargos de declaração, n os termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+No caso dos autos, não há vício de integração a ser sanado.
+De fato, com atenção aos teores das razões recursais e dos acórdãos proferidos pelo Tribunal Regional Federal da 3ª Região, a decisão ora embargada consignou (fls. 491-496):
+De início, ressalto que o acórdão recorrido não possui os vícios suscitados pela parte recorrente. Ao revés, o Tribunal a quo se manifestou sobre todos os aspectos importantes ao deslinde do feito, adotando argumentação concreta e que satisfaz o dever de fundamentação das decisões judiciais.
+A Corte de origem assinalou que "a documentação encartada aos autos revela que a impetrante tem como objeto principal a "Fabricação de tintas, vernizes, esmaltes e lacas"" (fl. 217), bem como salientou que "o transporte rodoviário de cargas, como atividade secundária, é apenas a atividade-meio para a comercialização dessas mercadorias, particularidade que afasta a caracterização do combustível e demais itens como insumos" (fl. 217).
+ ..
+No caso em apreço, os julgados confrontados não possuem similitude fático- jurídica, pois o acórdão recorrido assinalou que a recorrente tem como objeto principal a fabricação de tintas, vernizes, esmaltes e lacas e que o "transporte rodoviário de cargas, como atividade secundária, é apenas a para a comercialização dessas atividade-meio mercadorias" (fl. 217; sem grifos no original).
+No primeiro acórdão apontado como paradigma (AgInt no AgInt nos EDcl no AREsp n. 2.297.501/RS), consta expressamente que, "tendo o acórdão recorrido expressamente afirmado que o transporte está relacionado à atividade-fim da empresa " (fl. 302; sem grifos no original).
+Já no segundo (Apelação Cível n. 5008008-16.2024.8.21.0021), consta que a empresa é dedicada ao comércio atacadista e à distribuição de produtos alimentícios em geral, bem como realiza o transporte rodoviário de cargas intermunicipal, interestadual e internacional, e que, "em relação às entradas de bens intermediários e insumos imprescindíveis à atividade empresarial (atividade-fim do contribuinte), é devido o creditamento imediato do ICMS" (fl. 315; sem grifos no original).
+Portanto, não está demonstrada a alegada divergência jurisprudencial, nos moldes legais e regimentais, vício insanável.
+Com efeito, é impossível o conhecimento do dissídio jurisprudencial "quando eventual interpretação divergente importaria em prévia alteração de questão fático-probatória, diante o óbice da Súmula n. 7 do STJ" (AgInt no AREsp n. 2.268.482/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em DJe de 12/6/2023, 16/6/2023), o que se verifica no caso.
+Nesse cenário, como se vê, não há vício de integração a ser sanado, na medida em que o decisum consignou, de forma clara e expressa, a ausência de demonstração da alegada divergência em razão da dessemelhança dos casos comparados, indicando, ademais, a incidência do óbice da Súmula n. 7 do STJ.
+Inexiste, pois, a alegada omissão, mas mero inconformismo com o resultado do julgamento, com pretensão de reexame da matéria decidida, desiderato que não se coaduna com a via integrativa dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS DE INTEGRAÇÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
