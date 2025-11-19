@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Marluce Caldas, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Trancamento de Ação Penal. Ausência de flagrante ilegalidade. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, no qual se pleiteava o trancamento de ação penal sob alegação de violação aos princípios do ne bis in idem e da coisa julgada.
+2. A defesa sustentou a suficiência de prova pré-constituída para o trancamento da ação penal e a conexão entre o processo originário e outro feito, requerendo o provimento do agravo regimental.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos para o trancamento da ação penal, considerando a alegação de violação aos princípios do ne bis in idem e da coisa julgada, bem como a suficiência de prova pré-constituída para o trancamento pretendido.
+III. Razões de decidir
+4. O trancamento da ação penal é medida excepcional, cabível apenas em casos de atipicidade da conduta, causa de extinção da punibilidade ou absoluta falta de provas, conforme jurisprudência consolidada.
+5. O Tribunal de origem afastou a pretensão de trancamento com base em análise detalhada, destacando a insuficiência dos documentos apresentados pela defesa para demonstrar as teses sustentadas e a inexistência de violação à coisa julgada ou ao princípio do ne bis in idem.
+6. A jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que o habeas corpus não é via adequada para análise de teses que demandem incursão no acervo fático-probatório.
+7. Cabe ao Tribunal de origem e ao juiz natural da causa a análise das teses de mérito invocadas pela defesa, no curso da instrução processual.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O trancamento da ação penal é medida excepcional, cabível apenas em casos de atipicidade da conduta, causa de extinção da punibilidade ou absoluta falta de provas, não sendo adequado para análise de teses que demandem incursão no acervo fático-probatório.
+2. Cabe ao Tribunal de origem e ao juiz natural da causa a análise das teses de mérito invocadas pela defesa, no curso da instrução processual.
+Dispositivos relevantes citados: Lei nº 8.137/90, art. 1º, III; CP, arts. 69 e 304.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no RHC 202462/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJEN 07/10/2025; STJ, AgRg no HC 817.562/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/06/2023; STJ, AgRg no HC 812.438/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 29/06/2023; STJ, HC 704.718/SP, Rel. Min. Laurita Vaz, Sexta Turma, DJe 23/05/2023; STJ, AgRg no HC 811.106/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 22/06/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ERASMO ALVES DA SILVA FILHO em face de decisão que negou provimento ao recurso ordinário em habeas corpus (fls. 186-187).
+Em razões recursais, a defesa sustenta a flagrante violação aos princípios do ne bis in idem e da coisa julgada. Alega a suficiência da prova pré-constituída para o trancamento da ação penal. Pontua que deve ser reconhecida a conexão entre o processo originário e o feito nº 0722063-22.2015.8.02.0001. Requer o encaminhamento para o órgão colegiado, com o provimento do agravo regimental interposto (fls. 191-200).
+É o relatório.
+EMENTA
+Direito Processual Penal. Agravo Regimental. Trancamento de Ação Penal. Ausência de flagrante ilegalidade. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso ordinário em habeas corpus, no qual se pleiteava o trancamento de ação penal sob alegação de violação aos princípios do ne bis in idem e da coisa julgada.
+2. A defesa sustentou a suficiência de prova pré-constituída para o trancamento da ação penal e a conexão entre o processo originário e outro feito, requerendo o provimento do agravo regimental.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos para o trancamento da ação penal, considerando a alegação de violação aos princípios do ne bis in idem e da coisa julgada, bem como a suficiência de prova pré-constituída para o trancamento pretendido.
+III. Razões de decidir
+4. O trancamento da ação penal é medida excepcional, cabível apenas em casos de atipicidade da conduta, causa de extinção da punibilidade ou absoluta falta de provas, conforme jurisprudência consolidada.
+5. O Tribunal de origem afastou a pretensão de trancamento com base em análise detalhada, destacando a insuficiência dos documentos apresentados pela defesa para demonstrar as teses sustentadas e a inexistência de violação à coisa julgada ou ao princípio do ne bis in idem.
+6. A jurisprudência do Superior Tribunal de Justiça é iterativa no sentido de que o habeas corpus não é via adequada para análise de teses que demandem incursão no acervo fático-probatório.
+7. Cabe ao Tribunal de origem e ao juiz natural da causa a análise das teses de mérito invocadas pela defesa, no curso da instrução processual.
+IV. Dispositivo e tese
+8. Resultado do Julgamento: Agravo regimental não provido.
+Tese de julgamento:
+1. O trancamento da ação penal é medida excepcional, cabível apenas em casos de atipicidade da conduta, causa de extinção da punibilidade ou absoluta falta de provas, não sendo adequado para análise de teses que demandem incursão no acervo fático-probatório.
+2. Cabe ao Tribunal de origem e ao juiz natural da causa a análise das teses de mérito invocadas pela defesa, no curso da instrução processual.
+Dispositivos relevantes citados: Lei nº 8.137/90, art. 1º, III; CP, arts. 69 e 304.
+Jurisprudência relevante citada: STJ, AgRg nos EDcl no RHC 202462/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJEN 07/10/2025; STJ, AgRg no HC 817.562/RS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/06/2023; STJ, AgRg no HC 812.438/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 29/06/2023; STJ, HC 704.718/SP, Rel. Min. Laurita Vaz, Sexta Turma, DJe 23/05/2023; STJ, AgRg no HC 811.106/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 22/06/2023.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo regimental.
+Conforme cediço, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pelo agravante foram analisados de forma devidamente fundamentada.
+Consoante assentado na decisão agravada, "o trancamento da ação penal é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria de provas e materialidade do delito" (AgRg nos EDcl no RHC 202462 / SP, SEXTA TURMA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJEN 07/10/2025).
+Com efeito, notadamente na via eleita, é certo que o trancamento da ação penal por habeas corpus é medida excepcional, cabível apenas em casos de atipicidade da conduta, causa de extinção da punibilidade ou absoluta falta de provas.
+Nesta ordem de ideias, o Tribunal de origem, em análise minudente, afastou a pretensão de trancamento da ação penal mediante os seguintes fundamentos robustos (fls. 73-76):
+"Em primeiro lugar, os documentos probatórios anexados pela defesa se mostraram insuficientes para demonstrar a tese que o impetrante pretende vingar, o que faz a tese da inicial não ostentar força probatória capaz de fazer o pleito do autor ser acolhido. Digo assim, porque, nestes autos, apenas constam documentos pessoais do paciente, planilhas contendo autos de infrações originárias das supostas fraudes imputadas ao agente e algumas peças processuais pontuais, sem que despontem quaisquer documentos mais relevantes e completos, capazes de demonstrar, de plano, as teses sustentadas pela defesa em sua inicial.  ..  Em segundo lugar, com base exclusivamente no que consta nos autos, é possível depreender que não há configuração de violação à coisa julgada e vedação ao bis in idem. Na verdade, o que desponta nos autos é que os fatos apurados na investigação de origem deram azo a incidência de diversos crimes, sendo que, inicialmente, determinados ilícitos foram imputados ao réu e, agora, os demais foram objeto de ação penal. Com efeito, pelo que consta nestes autos, o que se percebe é que, anteriormente, perante o Juízo da 10ª Vara Criminal Capital, o ora paciente respondeu pela prática do crime contra a ordem tributária (art. 1º, III, da Lei nº 8.137/90) e uso de documento falso (304 do CP), em contexto de concurso material de crimes (art. 69 do CP), conforme se verifica das fls. 37-40, enquanto que, atualmente, perante o Juízo de Direito da 17ª Vara Criminal da Capital, o agente é acusado da prática de delitos diversos, quais sejam, organização criminosa, lavagem de dinheiro e falsidade ideológica, consoante reportou as autoridades coatoras, ao prestarem informações. Destaque-se que, ao prestar informações, os Juízes a quo esclareceram que os crimes que, agora, estão sendo imputados ao paciente são autônomos em relação àqueles que foram atribuídos ao acusado nas persecuções que tramitaram perante o Juízo de Direito da 10ª Vara Criminal da Capital. Nessa perspectiva, não verifico, de forma latente, qualquer eximente de responsabilidade criminal, causa extintiva de punibilidade do agente ou questão de natureza processual, capaz de justificar, de plano, o trancamento da ação penal de origem. Pelo contrário, a situação em tela recomenda que o processo de origem deve prosseguir regularmente no primeiro grau, oportunidade em que a defesa poderá apreciar, com mais vagar e mediante cognição exauriente, a possível configuração de bis in idem ou violação à coisa julgada sustentadas na petição inicial. Seguramente, na primeira instância, com ampla possibilidade de produção de provas, o impetrante poderá se debruçar, com amplitude e segurança, sobre as teses sustentadas neste remédio constitucional, de modo que acolher, no atual momento e mediante cognição sumária, o pleito do impetrante significa adotar uma decisão temerária, capaz de configurar supressão de instância, o que não prospera."
+Desse modo, considerando a concreta fundamentação adotada pela instância inferior, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como in casu (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+De qualquer forma, cabe, precipuamente, ao Tribunal de origem a análise das teses de mérito invocadas pela defesa nestes autos - tudo o que ainda ocorrerá na instrução processual, em seu tempo, pelo juiz natural da causa.
+D iante disso, não constato a flagrante ilegalidade apontada.
+Dessarte, deve ser mantida a decisão agravada por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
