@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência, suscitado pelo JUÍZO DA 7ª VARA CÍVEL DA COMARCA DE UBERLÂNDIA/MG em face do JUÍZO DA 1ª VARA FEDERAL DE UBERLÂNDIA/MG, nos autos do mandado de segurança impetrado por Priscilla Samora de Almeida contra ato do Presidente da CONSESP - Concursos, Residências Médicas, Avaliações e Pesquisas Ltda., em que se discute a legalidade da retificação do edital de processo seletivo para preenchimento de vagas nos Cursos de Especialização Médica do Centro de Ensino e Treinamento (CET) Integrado de Uberlândia/MG.
+A ação foi inicialmente distribuída na Justiça estadual, que declinou da competência para a Justiça federal, sob o fundamento de que se trata de mandado de segurança contra ato de dirigente de instituição particular de ensino superior atuando sob delegação e fiscalização da União (fls. 17-20).
+Recebidos os autos, o Juízo federal reconheceu a sua incompetência e devolveu o feito ao Juízo Estadual, por entender que a controvérsia não envolve ato de autoridade federal, mas regras internas de processo seletivo privado, dissociadas de delegação específica da União (fls. 9-11).
+Diante da devolução, o Juízo estadual suscitou o conflito negativo de competência, afirmando que o Juízo federal não observou o art. 66, parágrafo único, do Código de Processo Civil (fls. 22-23).
+O Ministério Público Federal manifestou-se pela declaração de competência do Juízo Federal, o suscitado (fls. 163-167).
+É o relatório. Decido.
+A competência deste Superior Tribunal de Justiça para dirimir o presente conflito está estabelecida no art. 105, inciso I, alínea d, da Constituição da República.
+A controvérsia cinge-se à definição do juízo competente para processar e julgar mandado de segurança que impugna a retificação de edital de processo seletivo para Cursos de Especialização Médica, organizado pela CONSESP, vinculada ao CET Integrado de Uberlândia/MG, dirigida contra o Presidente da banca.
+Conforme jurisprudência da Primeira Seção deste Tribunal, é da competência da Justiça Federal o julgamento de mandados de segurança em face de ato de dirigente de instituição particular de ensino superior, que integra o Sistema Federal de Ensino e atua sob delegação e fiscalização da União. Confira-se:
+ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. INSTITUIÇÃO DE ENSINO PRIVADA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AUSÊNCIA DE INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL
+1. Nas causas que envolvam instituições de ensino superior, a União possui interesse (o que enseja a competência da Justiça Federal) quando se trata de: (I) registro de diploma perante o órgão público competente (inclusive credenciamento junto ao MEC); ou (II) mandado de segurança. Por outro lado, não há falar em interesse da União nas lides (salvo mandados de segurança) que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos (essas causas, portanto, devem ser processadas e julgadas pela Justiça Estadual).
+2. Em ação de indenização por danos morais ajuizada contra instituição de ensino particular, inexistindo pedido relativo a registro do diploma no MEC e tendo a Justiça Federal concluído pela falta de interesse da União no julgamento da lide, firmada está a competência da Justiça Comum.
+3. Considerando que o caso dos autos trata de indenização por danos morais e materiais e que a impossibilidade de expedição do registro figura apenas como causa de pedir, deve ser afastada a competência da Justiça Federal para processar e julgar a demanda, uma vez que eventual procedência do pedido limitar-se-á à esfera privada entre a aluna/autora e a instituição de ensino/ré.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC 146.684/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 16/05/2018).
+E mais: CC n. 108.466/RS, relator Ministro Castro Meira, Primeira Seção, julgado em 10/2/2010, DJe de 1/3/2010.
+Assim, fica afastada a Justiça estadual para análise do feito, considerando que:
+(i) o impetrado é o Presidente da CONSESP, banca organizadora de processo seletivo de Cursos de Especialização Médica vinculado a CET de ensino superior;
+(ii) a decisão estadual identificou a inserção do ato no âmbito do Sistema Federal de Ensino (art. 16 da Lei n. 9.394/1996) e reconheceu que, reputado como ato de autoridade, trata-se de autoridade federal por delegação (art. 109, inciso VIII, CF); e
+(iii) a pretensão é veiculada por mandado de segurança, instrumento que, segundo a orientação da Primeira Seção, desloca a competência para a Justiça Federal quando dirigido a dirigente de instituição de ensino superior que atua por delegação.
+Ante o exposto, CONHEÇO do conflito para DECLARAR COMPETENTE o Juízo da 1ª Vara Federal de Uberlândia/MG, o suscitado, para processar e julgar o Mandado de Segurança.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO DE DIRIGENTE DE INSTITUIÇÃO DE ENSINO. COMPETÊNCIA DA JUSTIÇA FEDERAL (SUSCITADO).
