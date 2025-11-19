@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/11/2025 a 19/11/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze, Teodoro Silva Santos, Afrânio Vilela e Francisco Falcão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA COM NOVOS FUNDAMENTOS. NÃO INDICAÇÃO DO PERMISSIVO LEGAL E INDICAÇÃO DE ARTIGOS DE LEI INAPTOS A INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 284/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Hipótese em que parte recorrente deixou de indicar o permissivo constitucional sobre o qual se respalda o recurso especial.
+2. De acordo com a jurisprudência do STJ, a falta de indicação expressa da norma constitucional autorizadora da interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamen tação não permitir a exata compreensão da controvérsia").
+3. Além disso, os artigos de lei supostamente contrariados (arts. 79 e 103 da Lei nº 8.213/1991) não trazem comando normativo capaz de infirmar o que efetivamente restou decidido no aresto hostilizado. Aplicação da Súmula 284/STF.
+4. Quanto à matéria constitucional suscitada pela parte agravante, registre-se que "a jurisprudência do STJ é pacífica no sentido de que não cabe ao Superior Tribunal de Justiça examinar alegações de violação constitucional, sob pena de usurpação da competência do STF, mesmo que para fins de prequestionamento" (AgRg no AREsp n. 2.600.452/BA, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 15/4/2025).
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESMERALDA GOMES FERREIRA E OUTROS, contra decisão monocrática da Presidência do STJ que não conheceu do agravo em recurso especial, por aplicação do enunciado 284 da Súmula do STF, pois não houve a indicação do permissivo constitucional autorizador do recurso especial, nos termos da seguinte fundamentação (fls. 266-267):
+(..)
+Mediante análise do recurso de ESMERALDA GOMES FERREIRA e OUTROS, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição. Esse entendimento possui respaldo em recente julgado desta Corte:
+(..)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Em seu agravo interno, às fls. 273-278, a parte recorrente afirma que, ao contrário do que ficou consignado na decisão ora impugnada, houve a devida exposição acerca da questão controvertida, sendo demonstrado o malferimento, pelo Tribunal a quo, dos artigos 79 e 103 da Lei nº 8.213/1991.
+Ressalta que atendeu à impugnação específica da decisão e que respeitou a dialeticidade necessária, razão pela qual seu o recurso não pode ser inadmitido, mormente porque isso desborda em ofensa ao princípio da colegialidade (violação do art. 39 da Lei 8.038/90 c/c art. 5º XXXVII da CF/1988).
+Por fim, pondera que ausência de indicação do permissivo constitucional não é óbice ao processamento do recurso.
+Sem contrarrazões, conforme certidão à fl. 310.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA COM NOVOS FUNDAMENTOS. NÃO INDICAÇÃO DO PERMISSIVO LEGAL E INDICAÇÃO DE ARTIGOS DE LEI INAPTOS A INFIRMAR O ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DO ÓBICE DA SÚMULA 284/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Hipótese em que parte recorrente deixou de indicar o permissivo constitucional sobre o qual se respalda o recurso especial.
+2. De acordo com a jurisprudência do STJ, a falta de indicação expressa da norma constitucional autorizadora da interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamen tação não permitir a exata compreensão da controvérsia").
+3. Além disso, os artigos de lei supostamente contrariados (arts. 79 e 103 da Lei nº 8.213/1991) não trazem comando normativo capaz de infirmar o que efetivamente restou decidido no aresto hostilizado. Aplicação da Súmula 284/STF.
+4. Quanto à matéria constitucional suscitada pela parte agravante, registre-se que "a jurisprudência do STJ é pacífica no sentido de que não cabe ao Superior Tribunal de Justiça examinar alegações de violação constitucional, sob pena de usurpação da competência do STF, mesmo que para fins de prequestionamento" (AgRg no AREsp n. 2.600.452/BA, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 15/4/2025).
+5. Agravo interno não provido.
+VOTO
+A insurgência não merece ser provida.
+No caso, como constou da decisão recorrida, verifica-se que a parte recorrente deixou de indicar o permissivo constitucional sobre o qual se respalda o recurso especial .
+De acordo com a jurisprudência do STJ, a falta de indicação expressa da norma constitucional autorizadora da interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Confira-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 284/STF. DECISÃO RECORRIDA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. RECURSO NÃO PROVIDO. I. CASO EM EXAME
+(..)
+3. A Súmula 284/STF aplica-se ao recurso especial quando há deficiência na fundamentação, notadamente quando o recorrente não indica expressamente o permissivo constitucional que fundamenta a interposição do recurso, conforme exigido pelo art. 1.029, II, do CPC/2015.
+4. A correta demonstração do cabimento do recurso especial exige a indicação explícita do art. 105, III, da Constituição Federal, bem como da alínea correspondente que autoriza sua interposição.
+(..)
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.158.014/MG, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Não bastasse isso, percebe-se que o Tribunal de origem, ao apreciar a apelação lá interposta, trouxe como fundamento principal o entendimento de que ".. o s autores obtiveram a concessão do benefício de pensão por morte, decorrente do falecimento de sua genitora Valdirene Gomes Ferreira, ocorrido em 05.01.2008, por meio de decisão judicial proferida nos autos da ação nº 0007338-95.2012.8.26.0457, que tramitou perante o Juízo de Direito da 1ª Vara da Comarca de Pirassununga/SP. (..) Todavia, considerando que o benefício foi concedido judicialmente e que a data de início já foi expressamente fixada na decisão prolatada na demanda anterior, já transitada em julgado, resta impossibilitada a rediscussão em nova ação, porquanto acobertada pela coisa julgada material" (fls. 146-147).
+Já em recurso especial, a parte recorrente alega violação dos arts. 79 e 103 da Lei 8.213/1991, dispositivos esses que versam unicamente sobre prazo decadencial para revisão de benefício previdenciário.
+Posto isso, fica claro que os artigos de lei supostamente contrariados não trazem comando normativo capaz de infirmar o que efetivamente restou decidido no aresto hostilizado. Desse modo, deve ser aplicado o óbice da Súmula 284/STF, tendo em vista que a deficiência na fundamentação obstou o deslinde do caso.
+PROCESSO CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO REINVINDICATÓRIA. EXCEÇÃO DE USUCAPIÃO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PROVAS SUFICIENTES. USUCAPIÃO. POSSE COM ANIMUS DOMINI. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. INTERRUPÇÃO DA PRESCRIÇÃO AQUISITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO PROVIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE, E NESSA EXTENSÃO, IMPROVIDO.
+(..)
+6. " A  impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF. Precedentes." (AgInt nos EDcl no AREsp 1674838/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020).
+4. Agravo interno provido para conhecer do agravo e conhecer em parte do recurso especial, e nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.542.840/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.)
+No mais, quanto à alegação de violação ao princípio da colegialidade, tem-se que "a legislação processual (art. 932, III, do CPC/2015; arts. 34, XVIII, e 255, § 4º, do RISTJ; e Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, ou, ainda, aplicar a jurisprudência consolidada deste Tribunal Superior. O princípio da colegialidade é resguardado pela possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno" (AgInt nos EDcl no AREsp n. 2.013.358/ES, rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 17/8/2022), como ocorre na espécie.
+Por fim, quanto à matéria constitucional suscitada pela parte agravante, registre-se que "a jurisprudência do STJ é pacífica no sentido de que não cabe ao Superior Tribunal de Justiça examinar alegações de violação constitucional, sob pena de usurpação da competência do STF, mesmo que para fins de prequestionamento" (AgRg no AREsp n. 2.600.452/BA, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 15/4/2025).
+Assim, a decisão ora recorrida deve ser mantida, ainda que sob novos fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto
