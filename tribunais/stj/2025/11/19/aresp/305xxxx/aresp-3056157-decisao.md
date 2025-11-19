@@ -1,0 +1,21 @@
+DECISÃO
+CARLOS KAYQUE FARIAS CARDOSO agrava da decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amapá na Apelação Criminal n. 0001320-84.2024.8.03.0002.
+Consta dos autos que o agravante foi condenado à pena de 2 anos de reclusão, em regime inicial aberto, mais multa, como incurso no art. 155, § 4º, IV, do Código Penal, substituída a pena privativa de liberdade por restritivas de direitos.
+No recurso especial, a defesa aponta violação dos arts. 42 da Lei n. 11.343/2006, 59 e 65, III, do Código Penal. Aduz que: a) o privilégio do furto foi afastado com base em ações penais em curso; b) a confissão espontânea não foi valorada; c) a pena-base foi exasperada sem fundamentação idônea.
+Requer o reconhecimento do furto privilegiado, a aplicação da atenuante da confissão, o afastamento da qualificadora do concurso de pessoas e, subsidiariamente, o retorno dos autos ao Tribunal de origem para novo julgamento.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que motivou a interposição deste agravo.
+O Ministério Público Federal apresentou parecer pelo parcial provimento do agravo, a fim de aplicar o privilégio do art. 155, § 2º, do Código Penal, ao réu.
+Decido.
+O agravo é tempestivo e preencheu os requisitos de admissibilidade. Quanto ao recurso especial, noto que deve ser conhecido em parte.
+Embora a defesa mencione, em suas razões, a alínea "c" do permissivo constitucional, não demonstrou a ocorrência de dissídio jurisprudencial, uma vez que deixou de indicar em que ponto o acórdão combatido divergiria de julgados de outros tribunais e de realizar o devido cotejo analítico entre eventual paradigma e o caso dos autos.
+Ademais, a defesa não indicou os dispositivos supostamente violados a amparar os pedidos de reconhecimento do furto privilegiado e afastamento do concurso de pessoas, além de apontar contrariedade ao art. 42 da Lei n. 11.343/2006, que não guarda relação com o caso dos autos, que trata de condenação por crime de furto.
+Incide, no ponto, a Súmula n. 284 do STF.
+Ressalto que, embora o Ministério Público Federal haja se manifestado pela aplicação do disposto no § 2º do art. 155 do Código Penal, não constato flagrante ilegalidade a justificar a concessão de habeas corpus de ofício, uma vez que, apesar da primariedade do réu, a res furtiva não é de pequeno valor - ao todo, "97 peças de roupas  novas , sendo 16 cuecas, 68 calcinhas 9 bermudas masculinas, 1 bermuda jeans e 3 camisas, da loja MODA VIP" (fls. 77-78).
+Além disso, observo que a pena-base foi fixada no mínimo legal e a atenuante da confissão foi reconhecida, sem reflexo na dosimetria da pena, em respeito ao enunciado da Súmula n. 231 do STJ.
+Quanto à redução da pena pela confissão, recordo que a Terceira Seção desta Corte Superior, em sessão de julgamento realizada no dia 14/8/2024, analisou os REsps n. 2.052.085/TO, 2.057.181/SE e 1.869.794/MS, oportunidade em que rejeitou, por maioria, a proposta de cancelamento do enunciado da Súmula n. 231 do Superior de Tribunal de Justiça.
+Embora minha compreensão pessoal, externada em voto escrito, seja diversa daquela a que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+Desse modo, constato a ausência de interesse-utilidade no exame da apontada negativa de vigência aos arts. 59 e 65, III, do Código Penal. Nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6. ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
