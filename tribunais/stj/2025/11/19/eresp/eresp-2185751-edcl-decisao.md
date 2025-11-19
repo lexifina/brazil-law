@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.032-1.034) opostos à decisão desta relatoria que indeferiu liminarmente os embargos de divergência em recurso especial.
+A parte embargante alega que a decisão necessita de esclarecimentos, arrazoando que (fl. 1.033):
+Talvez seja pela alegação de que no paradigma haveria "cláusula de renúncia ao direito de indenização por benfeitorias e acessões". Ou seja, teria se entendido que haveria expressa previsão de renúncia às acessões. Todavia, neste caso não haveria omissão, mas evidente erro matérias, já que o trecho transcrito pelo próprio acórdão fala em "cláusulas expressas de renúncia ao direito de indenização por benfeitorias." Destaque que, no início do relatório, o paradigma deixa claro que "a parte recorrente aduz que "torna-se desnecessária a interpretação de cláusula contratual já que o que o acórdão recorrido assentou é que a cláusula contratual de renúncia a benfeitorias se aplica às acessões, sendo esta a questão federal posta em debate por meio do recurso especial, sem qualquer necessidade de interpretar nada além da própria lei federal"". Trata-se exatamente da mesma hipótese dos autos, saber se a cláusula de renúncia às benfeitorias deve ser estendida às supostas acessões. Logo, o erro material justificaria a concessão de efeitos infringentes.
+Foi ap resentada impugnação às fls. 1.038-1.043.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando existir, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015, casos não observados nos autos.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pleiteado é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Como aludido, no acórdão embargado foi "dado provimento ao recurso para "limitar o alcance da cláusula contratual de renúncia à indenização somente às benfeitorias" (fl. 956). Por outro lado, o paradigma da QUARTA TURMA, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), no caso concreto, negou provimento ao recurso especial de locatário que buscava indenização por acessão, diante de cláusula de renúncia ao direito de indenização por benfeitorias e acessões". Ou seja, a diferença está que, no paradigma, haveria cláusula de renúncia tanto às benfeitorias, quanto às acessões, enquanto no acórdão embargado somente renúncia à benfeitorias.
+Assim, não se constata nenhum dos casos de cabimento dos embargos declaratórios. A embargante pretende tão somente o rejulgamento do recurso.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
