@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por ANDERSON GOMES ALBERTONI contra decisão de fls. 439/440, que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+O recorrente foi condenado pelo juízo de primeiro grau, como incurso nos arts. 33, caput, c.c. 40, V, da Lei 11.343/2006, e 14, caput, da Lei 10.826/2003, à pena de 8 anos, 5 meses e 23 dias de reclusão, em regime inicial fechado, e 657 dias-multa. Interposta apelação pela defesa, foi desprovida, mantendo-se a condenação e as penas impostas.
+No agravo em recurso especial, a parte sustenta que não incide a Súmula 7/STJ, por se tratar de revaloração de fatos incontroversos e de incorreta valoração da prova.
+No recurso especial, sustenta-se violação dos arts. 5º, § 3º, da Lei 11.419/2006; 156, 240, § 2º, 315, § 2º, V, e 386, VII, do Código de Processo Penal. Alega nulidade da abordagem e da busca veicular por ausência de justa causa; requer a revisão da dosimetria para afastar a negativação da "personalidade" sem laudo técnico; pleiteia o reconhecimento do tráfico privilegiado; e a absolvição do crime de porte de arma por inexigibilidade de conduta diversa.
+A contraminuta foi apresentada.
+O Ministério Público Federal apresentou parecer, manifestando-se pelo não conhecimento do agravo e, se conhecido, pelo desprovimento do recurso especial, conforme a ementa a seguir (fls. 491):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. INADMISSÃO PELA SÚMULA 7. INCIDÊNCIA DA SÚMULA 182. ALEGAÇÃO DE NULIDADE DA BUSCA VEICULAR. TESE RECHAÇADA PELO TRIBUNAL DE ORIGEM QUE ENTENDEU PELA REGULARIDADE DO PROCEDIMENTO, DE MODO QUE ENTENDER DE MODO DIVERSO DEMANDARIA NECESSARIAMENTE REANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. PLEITO DE ALTERAÇÃO DOSIMÉTRICA, ALEGAÇÃO DE AUSÊNCIA DE LAUDO PARA VALORAR A PERSONALIDADE NEGATIVAMENTE E RECONHECIMENTO DE TRÁFICO PRIVILEGIADO. INCABÍVEL. DISCRICIONARIEDADE DO JULGADOR ATRELADA ÀS PARTICULARIDADES FÁTICAS DO CASO. EXIGÊNCIA DE LAUDO POSSIBILIDADE DE ATESTAR POR OUTROS ELEMENTOS PROBATÓRIOS CONSTANTES DOS AUTOS. INCIDÊNCIA DA SÚMULA 83/STJ. TRAFICO PRIVILEGIADO IMPOSSIBILITADO PELA DEDICAÇÃO DO RÉU À ATIVIDADE CRIMINOSA.
+PARECER PELO NÃO CONHECIMENTO E, SE ACASO CONHECIDO, PELO DESPROVIMENTO.
+É o relatório.
+Decido.
+Analisando as razões do agravo em recurso especial, observa-se que a parte não impugnou, de modo específico, o óbice da Súmula n. 7/STJ, limitando-se a afirmar genericamente que houve incorreta valoração da prova, inclusive pelo fato de as premissas fáticas estarem bem delineadas nos autos, sendo totalmente possível analisar a questão debatida no recurso, independentemente de revolvimento das provas. No mais, reitera as teses trazidas no recurso especial.
+Nos termos da jurisprudência pacífica desta Corte, para fins de impugnação específica à Súmula n. 7/STJ, não basta alegar a desnecessidade de reexame de provas por se tratar de questão jurídica, é necessário que seja demonstrado que a controvérsia jurídica possa ser resolvida com base nas premissas fáticas já fixadas pelas instâncias ordinárias no acórdão recorrido, sem necessidade de reexame fático-probatório.
+Deve, assim, haver demonstração de que a controvérsia se restringe à interpretação jurídica de normas indicando-se, para tanto, precisamente quais premissas fáticas seriam imutáveis. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DAS SÚMULAS 7/STJ E 83/STJ. INVIABILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO SOBRE A CORRUPÇÃO ATIVA PARA EVITAR APREENSÃO DE VEÍCULO AUTOMOTOR. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do agravo em recurso especial, sob os fundamentos da ausência de impugnação específica aos óbices apontados e da incidência das Súmulas 7 e 83 do STJ. A defesa sustentou que o recurso especial discutia apenas a revaloração de provas já delineadas no acórdão do TJMG, especialmente quanto à alegada violação do art. 156 do CPP, e requereu a retratação da decisão ou seu encaminhamento ao colegiado, nos termos do art. 1.021, § 2º do CPC. O Ministério Público do Estado de Minas Gerais manifestou-se pela manutenção da decisão agravada. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se o agravante impugnou de forma específica e eficaz os fundamentos que ensejaram a inadmissão do recurso especial, afastando a incidência da Súmula 182 do STJ; (ii) verificar se a análise das teses recursais pode ser realizada sem o reexame do conjunto fático-probatório, de modo a afastar a incidência das Súmulas 7 e 83 do STJ. III. RAZÕES DE DECIDIR
+3. O agravo regimental é tempestivo e indica os fundamentos da decisão recorrida, o que autoriza seu conhecimento.
+4. A decisão agravada deve ser mantida, pois o agravante não apresentou impugnação específica e concreta aos fundamentos da decisão de inadmissão do recurso especial, limitando-se a reproduzir argumentos genéricos já expostos.
+5. A superação do óbice da Súmula 7 do STJ exige demonstração clara de que a análise da controvérsia não demanda reexame de provas, o que não foi feito, sendo insuficiente a mera alegação de revaloração jurídica.
+6. A jurisprudência do STJ é firme no sentido de que alegações genéricas não afastam a incidência da Súmula 7/STJ quando não acompanhadas de cotejo analítico com as premissas fáticas do acórdão recorrido.
+7. Também não foi demonstrada a superação do óbice da Súmula 83 do STJ, já que o entendimento do acórdão recorrido está em conformidade com a jurisprudência pacífica da Corte, especialmente quanto à aptidão dos depoimentos de policiais prestados em juízo para fundamentar condenação.
+8. O pedido de absolvição, fundado na suposta insuficiência probatória e na inidoneidade dos depoimentos colhidos, implica reexame do conjunto fático-probatório, o que é vedado em recurso especial.
+9. A condenação está lastreada em provas robustas, com depoimentos prestados sob contraditório, que evidenciam a prática do crime previsto no art. 333 do Código Penal, sendo incabível a revisão do julgado nesta instância especial.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp n. 2.643.783/MG, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Quinta Turma, julgado em 5/8/2025, DJEN de 14/8/2025.)
+O recurso especial destina-se ao exame de teses estritamente jurídicas que não dependam do reexame da prova colhida nos autos.
+Desse modo, para fins de impugnação específica da Súmula n. 7/STJ, é insuficiente a alegação genérica de se tratar de revaloração probatória ou de questão de direito, sendo necessário que a parte realize o devido confronto do entendimento com as premissas fáticas estabelecidas no acórdão recorrido, devendo explicitar, conforme a tese recursal trazida no recurso especial, de que forma a análise da questão não dependeria do reexame de provas, o que não ocorreu.
+Desse modo, a impugnação genérica dos fundamentos da decisão de inadmissibilidade impede o conhecimento do agravo, nos termos do disposto no art. 932, III, do CPC, e art. 253, I do RISTJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC, e da Súmula 182 desta Corte.
+2. A Corte Especial do STJ firmou o o entendimento segundo o qual a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.949.90/GO, relator Ministro Olindo Menezes (Desembargador convocado do TRF1), Sexta Turma, julgado em 7/6/2022, DJe de 10/6/2022).
+Aplicável, portanto, o comando da Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
