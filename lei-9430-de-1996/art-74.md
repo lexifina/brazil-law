@@ -33,6 +33,8 @@ f) tiver como fundamento a alegação de inconstitucionalidade de lei, exceto no
 2 - tenha tido sua execução suspensa pela Senado Federal;
 3 - tenha sido julgada inconstitucional em sentença judicial transitada em julgado a favor do contribuinte; ou
 4 - seja objeto de súmula vinculante aprovada pela Supremo Tribunal Federal nos termos do art. 103-A da Constituição Federal.
+g) seja decorrente de pagamento indevido ou a maior que o devido, com fundamento em documento de arrecadação que se verifique inexistente; ou
+h) seja decorrente do regime de incidência não cumulativa da Contribuição para o PIS/Pasep ou da Cofins, cujo crédito não guarde qualquer relação com quaisquer atividades econômicas do sujeito passivo, excetuados os casos de transformação, incorporação ou fusão, em que podem ser consideradas as atividades da empresa originária.
 § 13. O disposto nos §§ 2º e 5º a 11 deste artigo não se aplica às hipóteses previstas no § 12 deste artigo.
 § 14. A Secretaria da Receita Federal - SRF disciplinará o disposto neste artigo, inclusive quanto à fixação de critérios de prioridade para apreciação de processos de restituição, de ressarcimento e de compensação.
 § 17. Será aplicada multa isolada de 50% (cinquenta por cento) sobre o valor do débito objeto de declaração de compensação não homologada, salvo no caso de falsidade da declaração apresentada pela sujeito passivo.
