@@ -1,0 +1,1 @@
+Art. 8º-C. A despesa federal anual resultante da compensação financeira entre o Regime Geral de Previdência Social e os regimes de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios fica limitada à dotação orçamentária para essa despesa na data de publicação de cada lei orçamentária anual.
