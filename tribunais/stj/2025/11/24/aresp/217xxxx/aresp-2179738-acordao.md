@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/11/2025 a 24/11/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Moura Ribeiro, Daniela Teixeira, Nancy Andrighi e Humberto Martins votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO (VPA). COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A revisão da interpretação conferida pela Corte estadual ao título executivo no contexto dos dados contábeis, notadamente as VPA trimestrais divulgadas pela companhia, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo interposto pela OI S.A. - Em recuperação judicial - contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA FIRMADO COM COMPANHIA DE TELEFONIA. DECISÃO QUE ACOLHEU A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, EXTINGUINDO A FASE EXECUTÓRIA PELA INEXISTÊNCIA DE CRÉDITO .
+RECURSO DA PARTE AUTORA .
+ADMISSIBILIDADE.
+PEDIDO DE JUSTIÇA GRATUITA. AUSÊNCIA DE INTERESSE RECURSAL. BENEFÍCIO JÁ CONCEDIDO NA AÇÃO DE CONHECIMENTO PELO JUÍZO DE ORIGEM. PRESCINDIBILIDADE DA REITERAÇÃO DA PRETENSÃO.
+ALEGAÇÃO DE INCONGRUÊNCIAS QUANTO A ALGUNS DOS CRITÉRIOS UTILIZADOS.
+VALOR PATRIMONIAL DA AÇÃO. TÍTULO EXECUTIVO QUE ESTIPULOU A UTILIZAÇÃO DO VPA REFERENTE AO BALANCETE MENSAL DA DATA DA INTEGRALIZAÇÃO DO CAPITAL, O QUAL, PARA FINS DE CÁLCULO, NA HIPÓTESE DE AUSÊNCIA DE INFORMES DO VPA MENSAL ESPECÍFICO PARA O MÊS EM QUE HOUVE A INTEGRALIZAÇÃO, DEVE REMONTAR AO ÚLTIMO VALOR DE VPA QUE FOI NOTICIADO PRETERITAMENTE AO MÊS DA EFETIVA INTEGRALIZAÇÃO (AO INVÉS DAQUELE INFORMADO PARA O MÊS POSTERIOR, TAL COMO FEITO PELO CONTABILISTA). MEDIDA QUE, EM TERMOS DE CÁLCULO, AFIGURA SE MAIS BENÉFICA AO CONSUMIDOR, O QUAL, ADEMAIS, NÃO DEVE ARCAR COM O ÔNUS DE NÃO TEREM SIDO EXIBIDAS AS INFORMAÇÕES DE VPA EM PERIODICIDADE MENSAL. ADEQUAÇÃO IMPERATIVA.
+PLEITEADA INSERÇÃO DA DOBRA ACIONÁRIA NOS CÔMPUTOS. INVIABILIDADE. AUSÊNCIA DE CONDENAÇÃO EXPRESSA NO TÍTULO EXECUTIVO. OBSERVÂNCIA À COISA JULGADA.
+CASSAÇÃO DA DECISÃO QUE SE IMPÕE, A FIM DE DETERMINAR A REALIZAÇÃO DO CÁLCULO DO QUANTUM DEBEATUR PELO PERITO CONTÁBIL, SEGUNDO OS PARÂMETROS MENCIONADOS NA DECISÃO EM CUMPRIMENTO E NO PRESENTE ACÓRDÃO.
+RECURSO PARCIALMENTE CONHECIDO E, NESTA PORÇÃO, PROVIDO EM PARTE" (e-STJ fls. 467/475).
+Os embargos de declaração opostos pela OI S.A. - Em recuperação judicial - foram rejeitados (e-STJ fls. 521/523).
+Os aclaratórios de JANDIR JOSE FRANSOZI foram acolhidos, sem efeitos infringentes, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA FIRMADO COM COMPANHIA DE TELEFONIA. ETAPA DE CUMPRIMENTO DE SENTENÇA. ACLARATÓRIOS DA PARTE APELANTE. SUSCITADA CONTRADIÇÃO E OMISSÃO QUANTO AO DESDOBRO PROMOVIDO PELA TELEBRÁS S. A. EM 23.3.1990, CUJA ANÁLISE FOI REQUERIDA NO APELO. ACOLHIMENTO PARA SANAR A MÁCULA. APRECIAÇÃO DAS QUESTÕES RELATIVAS A TAL EVENTO CORPORATIVO, NADA OBSTANTE, NÃO AVENTADAS NO MOMENTO OPORTUNO. PRECLUSÃO. CONHECIMENTO DA MATÉRIA OBSTADO. EMBARGOS ACOLHIDOS APENAS PARA COMPLEMENTAÇÃO DO ACÓRDÃO, SEM EFEITO INFRINGENTE" (e-STJ fls. 526/528)
+No recurso especial (e-STJ fls. 548/565), a recorrente alega a violação dos arts. 502, 503, 508 e 1.022 do Código de Processo Civil.
+Sustenta, em síntese:
+(i) negativa de prestação jurisdicional e erro material na rejeição dos embargos declaratórios opostos referente à utilização de Valor Patrimonial da Ação anterior à data da integralização; e
+(ii) afronta à coisa julgada, uma vez que o título executivo determinou a utilização do VPA apurado pelo balancete do mês da respectiva integralização (Dezembro/1982), critério que teria sido desrespeitado pelo Tribunal de origem ao aplicar o VPA divulgado no ano anterior.
+Após a juntada das contrarrazões (e-STJ fls. 608/643), o recurso especial foi inadmitido na origem (e-STJ fls. 654/657), dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO (VPA). COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIO EMBARGÁVEL. OMISSÃO. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. A revisão da interpretação conferida pela Corte estadual ao título executivo no contexto dos dados contábeis, notadamente as VPA trimestrais divulgadas pela companhia, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Inicialmente, a recorrente suscita omissão do acórdão recorrido "acerca do VPA aplicável para contrato firmado em dezembro/1982, conforme balancete da Telebrás, ponto sobre o qual o mesmo devia se pronunciar, pois esse foi o critério do cálculo do determinado no título executivo" (e-STJ fl. 554).
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto ao critério de cálculo do Valor Patrimonial da Ação - VPA , conforme se verifica do seguinte trecho do acórdão:
+"De fato, constata-se que o contabilista considerou o valor patrimonial da ação relativo ao dado divulgado para o mês de abril de 1983 (Cr$ 44,142) da tabela de balancetes trimestrais da Telebrás, como é de conhecimento público e notório (confira-se à fl. 141), enquanto o título executivo judicial determinou a utilização do valor patrimonial do título acionário tomando por base o balancete mensal da data da integralização (vide: SAJ/SG), ou seja, do VPA do mês de dezembro de 1982 (data da integralização: 16.12.1982), o qual, ao que tudo indica - dada a ausência de documentos contendo balancetes mensais -, permaneceu sendo o mesmo de setembro de 1982, isto é, Cr$ 19,985 (fl. 102).
+A propósito, oportuno lembrar que o fato de serem apresentados, na tabela acima mencionada, os dados referentes aos valores patrimoniais da ação apenas em periodicidade trimestral não induz à conclusão de que tais importes devem ser aplicados extensivamente aos três meses antecedentes ou mesmo de que inexistem informes mensais de VPA. Significa, apenas, que não foram divulgados pela companhia emissora dos títulos mobiliários os dados de forma mensal, o que impõe, pois, na ausência de dado de VPA relativo ao mês específico em que se deu a afetiva integralização (assinatura do contrato), a adoção do último valor de VPA que foi noticiado preteritamente ao mês da data da efetiva integralização (ao invés daquele informado para o mês ou meses posteriores), mesmo porque avaliado em importe menor, sendo, logo, mais benéfico ao consumidor, o qual não deve arcar com o ônus de não terem sido exibidas as informações em períodos mensais. " (e-STJ fls. 471)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+Ademais, a revisão da interpretação conferida pela Corte estadual ao título executivo no contexto dos dados contábeis, notadamente as VPA trimestrais divulgadas pela companhia, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
