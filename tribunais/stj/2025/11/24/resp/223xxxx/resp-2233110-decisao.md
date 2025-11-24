@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOSELIA FABIA DA SILVA ROSA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (fls. 199-200):
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA AD CAUSAM. IRDR N. 21. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que deu provimento ao agravo de instrumento interposto, para, acolhendo a impugnação do Distrito Federal, reconhecer a ilegitimidade ativa da exequente para o ajuizamento do cumprimento individual da sentença afeto à ação coletiva n. 32.159/97 e extinguiu o feito sem resolução do mérito, com fundamento no art. 485, VI, do CPC.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) saber se está presente a legitimidade ativa da exequente; e (ii) saber se o processamento do feito deve ser suspenso até o trânsito em julgado do acórdão nº 1905562, com fundamento no art. 313, V, do CPC.
+III. RAZÕES DE DECIDIR
+3. A Câmara de Uniformização do TJDFT, em julgamento do IRDR n. 0723785-75.2023.8.07.0000 (Tema n. 21), em 19/8/2024, definiu a seguinte tese: "Somente os servidores que já pertenciam aos quadros da Administração Direta do Distrito Federal, na data do ajuizamento da Ação Coletiva nº 32.159/97, e que sejam representados, exclusivamente, pelo SINDIRETA/DF, independentemente de autorização para a propositura da demanda ou de filiação ao SINDIRETA/DF na fase de conhecimento, possuem . legitimidade ativa para os respectivos Cumprimentos Individuais da Sentença Coletiva".
+4. A exequente era servidora da Fundação Hospitalar do Distrito Federal, admitida em janeiro de 1984 para ocupar o cargo "TÉCNICO DE ADM PÚBLICA AG III". Somente a partir de setembro de 2000, data da publicação do Decreto Distrital n. 21.478, de 31 de agosto de 2000, passou a integrar o quadro de servidores efetivos do Distrito Federal. Assim, na data do ajuizamento da ação coletiva n. 32.159/97, qual seja, 30/9/1997, a exequente não integrava o quadro de servidores efetivos do Distrito Federal, impondo-se a aplicação da tese firmada no IRDR n. 21.
+5. À luz do art. 985, I, do CPC, a tese jurídica formada em incidente de resolução de demandas repetitivas será aplicada "a todos os processos individuais ou coletivos que versem sobre idêntica questão de direito e que tramitem na área de jurisdição do respectivo tribunal".
+IV. DISPOSITIVO
+5. Recurso conhecido e desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 574-581).
+A parte recorrente aponta violação dos arts. 43, 186, 884 e 927 do Código Civil; e dos arts. 313, V, c, 506, 982, I, § 5º, 987, § 1º, e 1.022, II, do Código de Processo Civil.
+Argumenta que os autos devem retornar à origem para o "sobrestamento do feito e posterior retratação ou não do acórdão recorrido, à luz das diretrizes decisórias a serem fixadas pelo eg. TJDFT no julgamento do IRDR 0723785-75.2023.8.07.0000" (fl. 629).
+Pretende, por fim, afastar a ilegitimidade ativa reconhecida na origem, "determinando-se a baixa dos autos à origem para que julgue as demais matérias suscitadas no agravo de instrumento do Distrito Federal" (fl. 630).
+Contrarrazões às fls. 694-702.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+Inicialmente, defiro à parte recorrente os benefícios da gratuidade de justiça. Entretanto, importante registrar que, diante da eficácia ex nunc, sua concessão opera efeitos somente para o futuro, não retroagindo para abarcar atos processuais pretéritos. Nesse sentido: AREsp n. 2.606.904, Ministra Nancy Andrighi, DJe de 20/09/2024.
+Passo seguinte, registre-se que "a suspensão no âmbito deste Tribunal Superior somente é cabível após o julgamento da Proposta de Afetação de Tese Repetitiva perante às Seções que o compõem, não sendo aplicável, nesta instância especial, tal providência quando determinada em Incidente de Resolução de Demandas Repetitivas instaurado na origem" (AgInt no REsp n. 2.051.278/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/5/2023, DJe de 4/5/2023). No mesmo sentido: AgInt no AREsp n. 1.849.112/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe de 16/12/2021.
+Lado outro, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, no ponto, a Súmula 284/STF. Nesse sentido: AgInt no AREsp n. 2.511.738/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024; AgInt no REsp n. 2.098.330/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no REsp n. 2.098.431/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/8/2024, DJe de 26/8/2024; e AgInt no AREsp n. 2.359.404/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024.
+No mais, observa-se que o Tribunal de origem, após ampla análise do conjunto fático-probatório dos autos, firmou compreensão de que a recorrente não possui legitimidade ativa para o cumprimento de sentença.
+A revisão da conclusão a que chegou o Tribunal a quo, calcada em elementos fáticos e na interpretação da legislação local, esbarra nos óbices das Súmulas 7/STJ e 280/STF.
+No mesmo sentido, a propósito, as seguintes decisões monocráticas proferidas em feitos análogos ao presente: REsp n. 2.223.807, Ministro Benedito Gonçalves, DJEN de 18/08/2025; e REsp n. 2.148.962, Ministro Gurgel de Faria, DJEN de 13/12/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA AD CAUSAM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INCIDÊNCIA DOS ÓBICES DAS SÚMULA 7/STJ E 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
