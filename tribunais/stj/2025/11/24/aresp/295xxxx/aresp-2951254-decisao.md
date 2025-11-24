@@ -1,0 +1,82 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu recurso especial dirigido contra o acórdão proferido no Agravo de Instrumento n. 0016878-42.2024.8.16.0000.
+Na origem, em sede de ação civil pública para reparação de danos ambientais proposta em face de Dalmo Vendruscolo, o Juízo de primeiro grau declarou a inversão do ônus da prova com fundamento na Súmula n. 618/STJ.
+O Tribunal de origem, por sua vez, reformou a decisão para afastar a inversão e aplicar a regra do art. 373, inciso I, do CPC nos termos da seguinte ementa (fls. 48-49):
+Agravo de Instrumento. Ação civil pública para reparação por danos ambientais. Inversão do ônus da prova que não é automática, embora possível. Precedentes. Medida que, à espécie, não se justifica. Decisão reformada. Recurso conhecido e provido.
+1. A inversão do ônus da prova nas demandas de degradação ambiental não é automática, mas tão somente possível, quando presentes elementos no caso em concreto que assim ensejem ao lume da regra insculpida no artigo 6º, inciso VIII, do CDC.
+2. De forma alguma, há intento aqui de menosprezar a importância da proteção ambiental, cujo apoio à causa é incondicional e interessa à coletividade. Noutro laudo, não se pode incumbir, de forma irrestrita, todo e qualquer processado de ter, sempre, o ônus de arcar com a prova de que não desmatou o bioma ou área de preservação permanente alegados na inicial.
+3. Incondicionalmente invertido o ônus ao réu sem que presente prova técnica e verdadeiramente apta a arrimar as razões da inicial e tampouco se tratando de imputação exordial cuja defesa presumidamente transfira o ônus de demonstrar a segurança do empreendimento da atividade (potencialmente lesiva) ao empreendedor/agricultor, trata-se de exigência de prova draconiana indevidamente atribuída à aura da presunção de veracidade de atos administrativos.
+4. Ao Estado, lato sensu, dotado de estrutura e detentor das diretrizes de preservação e restauração de processos/manejos ecológicos essenciais das espécies e ecossistema, há de se incumbir o dever, prima facie, de pormenorizar, tecnicamente, a imputação de supressão indevida de bioma (seja em área de APP ou não), a extensão do dano e medidas compensatórias (se for o caso), reforçando aos fatos os meios de prova que tiver e julgar necessário produzir.
+5. À espécie, tal ônus inicial não foi asseguradamente cumprido, razão pela qual impõe-se a reforma da decisão que inverteu o ônus da prova, aplicando-se a regra geral do artigo 373, I, do CPC.
+Os embargos de declaração opostos ao julgado foram rejeitados (fls. 88-93).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente alega violação dos arts.: (a) 489, § 1º, inciso IV, e 1.022, inciso II, do CPC; e (b) 6º, inciso VIII, e 117 do CDC e 21 da Lei n. 7.347/1985, ao argumento de que, em demandas coletivas ambientais, incidem os princípios da precaução e do in dubio pro natura e, sendo a sociedade a vítima do dano ambiental, impõe-se a inversão do ônus da prova.
+Contrarrazões às fls. 119-122.
+Não admitido o recurso na origem (fls. 123-126), foi interposto o presente agravo em recurso especial (fls. 132-140).
+O Ministério Público Federal opinou pelo conhecimento do agravo para dar parcial provimento, a fim de reformar o acórdão recorrido e determinar a inversão do ônus da prova em favor do Ministério Público (fls. 168-177).
+É o relatório. Decido.
+Preenchidos os requisitos de admissibilidade, conheço do agravo e passo ao exame do recurso especial.
+O Tribunal de origem assim decidiu a questão controvertida (fls. 49-52):
+No mérito, o inconformismo merece prosperar.
+Não se desconhece o teor do Enunciado nº 149 da 4ª e 5ª Câmaras Cíveis desta E. Corte:
+ ..
+Tampouco o que estabelece o verbete compilado à Súmula nº 618 do E. Superior Tribunal de Justiça: "A inversão do ônus da prova aplica-se às ações de degradação ambiental".
+Sujeitas à interpretação em relação ao alcance - indiscriminado ou não às ações de degradação ambiental - filio-me, em objeção à corrente jurisprudencial que indica ser impositiva a inversão do ônus da prova em tais demandas, à linha de que a inversão prenunciada não é automática, mas tão somente possível, quando presentes elementos no caso em concreto que assim ensejem ao lume da regra insculpida no artigo 6º, inciso VIII, do CDC - extensível às demandas por danos ambientais -, in verbis:
+ ..
+Na hipótese dos autos, se está diante de ação civil pública com pedido reparatório em que o Ministério Público do Estado do Paraná atribui ao réu/agravante dano ambiental consistente em destruição de floresta estacional semidecidual em estágio médio de regeneração do Bioma Mata Atlântica, em uma área de 0,64 hectares (mediante corte de espécies arbóreas de canela, louro, angico e rabo de bugio); e destruição de floresta estacional semidecidual em Área de Preservação Permanente (APP), em uma área de 0,12 (zero vírgula doze) hectares.
+Documentos como boletim de ocorrência, autos de infrações ambientais, termo de apreensão e levantamento fotográfico (movs. 1.6/1.11) acompanham a exordial. Espelham, em princípio, fotos, destaques alinhavados em croquis e descrições sucintas averbadas por Agentes do Batalhão de Polícia Ambiental ("Força Verde").
+Não consta, porém, laudo técnico elaborado a demonstrar efetivamente quais espécies foram destruídas ou danificadas, o estágio de regeneração da vegetação suprimida e o exato local da ocorrência, este último essencial à prova da materialidade do alegado dano à Área de Preservação Permanente (APP).
+Ora. De forma alguma, há intento aqui de menosprezar a importância da proteção ambiental, cujo apoio à causa é incondicional e interessa à coletividade. Noutro laudo, não se pode incumbir, de forma irrestrita, todo e qualquer processado de ter, sempre, o ônus de arcar com a prova de que não desmatou o bioma ou área de preservação permanente alegados na inicial.
+Incondicionalmente invertido o ônus ao réu sem que presente prova técnica e verdadeiramente apta a arrimar as razões da inicial e tampouco se tratando de imputação exordial cuja defesa presumidamente transfira o ônus de demonstrar a segurança do empreendimento da atividade (potencialmente lesiva) ao empreendedor/agricultor, trata-se de exigência de prova draconiana indevidamente atribuída à aura da presunção de veracidade de atos administrativos.
+Ao Estado, lato sensu, dotado de estrutura e detentor das diretrizes de preservação e restauração de processos/manejos ecológicos essenciais das espécies e ecossistema, há de se incumbir o dever, prima facie, de pormenorizar, tecnicamente, a imputação de supressão indevida de bioma (seja em área de APP ou não), a extensão do dano e medidas compensatórias (se for o caso), reforçando aos fatos os meios de prova que tiver e julgar necessário produzir.
+Tal ônus inicial, asseguradamente, não foi cumprido.
+Some-se, em relação à capacidade econômica do réu/agravante, que nada há a extravasar a sua indicação de que é pequeno agricultor, ou seja, hipossuficiente frente ao Estado. Não apontando a il. Membra do Parquet que o réu/agravante exerce a agricultura em outros lotes, restringe-se a convicção não exauriente ao desempenho da atividade tão somente no imóvel de matrícula 53-A do Registro de Imóveis da Comarca de Dois Vizinhos (mov. 1.19), o qual ostenta 42.000 m , o equivalente a 1,73 alqueires paulistas ou 4,2 hectares, extensão que, em hipótese alguma, se confunde com a de grande latifúndio.
+ ..
+Assim sendo, segundo as regras ordinárias de experiências, tem-se, à espécie, que a inversão do ônus da prova não se revela solução equânime à resolução da controvérsia.
+No julgamento dos embargos declaratórios, o Tribunal assim dispôs (fl. 91):
+Aclarado o convencimento de que a inversão do ônus da prova em ações por dano ambiental é tão somente possível, e não obrigatória, bem como minuciosamente justificado, a partir de peculiaridades do caso em concreto, que o ônus inicial de pormenorizar tecnicamente a imputação não foi cumprido, há mero inconformismo com a decisão contrária à pretensão pretendida, sem que se vislumbre o objetivo de suprimento de quaisquer das baldas descritas no artigo 1.022 do CPC.
+Consoante se denota, o Tribunal de origem foi expresso ao afastar a inversão automática do ônus da prova em ações de degradação ambiental, fundamentando a conclusão na aplicação do art. 6º, inciso VIII, do CDC e na ausência de detalhamento técnico inicial apto a justificar a inversão, além de afirmar que a decisão embargada enfrentou as questões relevantes e que não há omissão sanável pela via dos embargos de declaração.
+Nesse aspecto, o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi parcialmente desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do Código de Processo Civil.
+Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022; AgInt no REsp n. 2.154.739/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025.
+No mais, a Súmula n. 618/STJ assim dispõe: "A inversão do ônus da prova aplica-se às ações de degradação ambiental."
+A respeito do tema, destaco também os seguintes julgados:
+DIREITO AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO NO JULGADO. INEXISTÊNCIA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Espécie em que o Tribunal de origem enfrentou expressamente o tema referente à inversão do ônus da prova no julgamento do agravo de instrumento. Portanto, inexiste omissão, nem sequer contradição, razão pela qual não há falar em ofensa ao art. 1.022 do Código de Processo Civil.
+2. O acórdão recorrido encontra-se em harmonia com a jurisprudência do STJ, porquanto admite-se a inversão do ônus probatório em ações civis ambientais, como é o caso em tela. Precedentes.
+ ..
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.140.902/SE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/5/2025, DJEN de 3/6/2025.)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITO AMBIENTAL. OFENSA AOS ARTS. 489, § 1º, IV, E 1.022, II, AMBOS DO CPC. INOCORRÊNCIA. TRIBUNAL QUE JULGOU INTEGRALMENTE A LIDE. INCONFORMISMO DA PARTE COM O RESULTADO CONTRÁRIO AOS SEUS INTERESSES. INVERSÃO DO ÔNUS DA PROVA. IMPOSIÇÃO AO POTENCIAL DEGRADADOR DE PROVAR A AUSÊNCIA DO DANO AMBIENTAL. SÚM. 618/STJ.
+ ..
+2. A jurisprudência firmada pelo Superior Tribunal de Justiça estabelece que "em homenagem ao princípio da precaução, impõe-se a inversão do ônus da prova nas ações civis ambientais, de modo a atribuir ao empreendedor a prova de que o meio ambiente permanece hígido, mesmo com o desenvolvimento de sua atividade" (AgInt no REsp 2.052.112/MS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/9/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.152.214/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 4/12/2024.)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DANOS MORAIS E AMBIENTAIS. ROMPIMENTO DA BARRAGEM DE BRUMADINHO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO DA SÚMULA N. 7/STJ.
+ ..
+V - Por fim, no AResp nº 2.030.821- MG, DJe 26/10/2022, ao julgar precedente idêntico ao presente recurso, o Ministro- Relator Humberto Martins destacou que "tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral. Assim, cabível a inversão do ônus da prova".
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.039.366/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/10/2024, DJe de 17/10/2024.)
+In casu, todavia, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório, concluiu pela "exigência de prova draconiana indevidamente atribuída à aura da presunção de veracidade de atos administrativos.  ..  Some-se, em relação à capacidade econômica do réu/agravante, que nada há a extravasar a sua indicação de que é pequeno agricultor, ou seja, hipossuficiente frente ao Estado" (fl. 52).
+Portanto, a reforma do julgado quanto à ausência dos elementos autorizadores da inversão do ônus da prova demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, desiderato esse incabível na via estreita do apelo nobre, conforme o comando normativo contido na Súmula n. 7 do Superior Tribunal de Justiça. A propósito:
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SÚMULA 618/STJ. INVERSÃO DO ÔNUS DA PROVA. ANÁLISE DOS REQUISITOS. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+ ..
+3. No caso, o Tribunal de origem concluiu pela ausência de elementos autorizadores da inversão do ônus probatório com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.638.879/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. MEIO AMBIENTE. CIRCULAÇÃO DE ÔNIBUS. REPERCUSSÃO NOCIVA SOBRE O PLANEJAMENTO URBANÍSTICO. ACÓRDÃO RECORRIDO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. DANO MORAL. VALOR ARBITRADO À TÍTULO DE DANOS MORAIS COLETIVOS. VALOR DAS ASTREINTES REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. A alteração das premissas adotadas pela Corte de origem, quanto à inversão do ônus probatório e à configuração do dever de indenizar, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.826.231/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024; sem grifos no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DANO AMBIENTAL. ATIVIDADE PESQUEIRA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO. CAUSADOR. PARTE AUTORA. FATOS CONSTITUTIVOS. NEXO CAUSAL. PROVA MÍNIMA. INVERSÃO DO ÔNUS DA PROVA. CIRCUNSTÂNCIAS. ANÁLISE. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+ ..
+3. A análise acerca da existência ou não de circunstâncias que ensejam a inversão do ônus da prova é feita no caso concreto, o que não pode ser revisto por esta Corte em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.088.955/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024; sem grifos no original.)
+Nesse mesmo sentido, cito a decisão monocrática proferida no REsp n. 2.109.500/ES, relator Ministro Teodoro Silva Santos, DJEN de 28/10/2025.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, ness a extensão, NEGAR-LHE PROVIMENTO.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE EM MATÉRIA AMBIENTAL. SÚMULA N. 618/STJ. ALTERAÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
